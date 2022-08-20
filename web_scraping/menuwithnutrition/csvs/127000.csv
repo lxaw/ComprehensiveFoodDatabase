@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,papa johns pizza,garden fresh pizza original crust large,9,g,20,mg,680,g,39,g,10,g,4,g,0,g,2,g,5,g
+1,papa johns pizza,garden fresh pizza original crust medium,7,g,15,mg,480,g,27,g,7,g,3,g,0,g,1,g,4,g
+2,papa johns pizza,garden fresh pizza original crust pizza for one,6,g,15,mg,470,g,26,g,7,g,3,g,0,g,1,g,4,g
+3,papa johns pizza,garden fresh pizza original crust small,6,g,15,mg,450,g,26,g,7,g,2.5,g,0,g,1,g,3,g
+4,papa johns pizza,garden fresh pizza pan crust,10,g,20,mg,640,g,37,g,10,g,4,g,0,g,2,g,3,g
+5,papa johns pizza,garden fresh pizza thin crust,10,g,20,mg,460,g,21,g,8,g,4,g,0,g,1,g,3,g
+6,papa johns pizza,garden special white pizza gluten free,7,g,15,mg,240,g,16,g,5,g,4,g,0,g,1,g,1,g
+7,papa johns pizza,garden special white pizza original crust extra large,11,g,25,mg,610,g,41,g,12,g,5,g,0,g,2,g,4,g
+8,papa johns pizza,garden special white pizza original crust large,11,g,25,mg,590,g,38,g,11,g,5,g,0,g,2,g,4,g
+9,papa johns pizza,garden special white pizza original crust medium,8,g,20,mg,420,g,27,g,8,g,4,g,0,g,1,g,3,g
+10,papa johns pizza,garden special white pizza original crust pizza for one,7,g,15,mg,360,g,25,g,7,g,3.5,g,0,g,1,g,3,g
+11,papa johns pizza,garden special white pizza original crust small,7,g,15,mg,390,g,25,g,7,g,3.5,g,0,g,1,g,3,g
+12,papa johns pizza,garden special white pizza pan crust,12,g,25,mg,570,g,35,g,10,g,5,g,0,g,2,g,2,g
+13,papa johns pizza,garden special white pizza thin crust,12,g,25,mg,370,g,20,g,8,g,5,g,0,g,1,g,1,g
+14,papa johns pizza,garlic knots,4.5,g,0,mg,260,g,14,g,2,g,1,g,0,g,0,g,1,g
+15,papa johns pizza,garlic parmesan breadsticks 12 inch,5,g,0,mg,340,g,24,g,4,g,1,g,0,g,1,g,2,g
+16,papa johns pizza,garlic parmesan breadsticks 14 inch,5,g,0,mg,360,g,27,g,4,g,1,g,0,g,1,g,2,g
+17,papa johns pizza,garlic parmesan cheesesticks 10 inch,4,g,10,mg,230,g,10,g,3,g,2,g,0,g,0,g,1,g
+18,papa johns pizza,garlic parmesan cheesesticks 12 inch,5,g,10,mg,280,g,13,g,4,g,2,g,0,g,1,g,1,g
+19,papa johns pizza,garlic parmesan wings 16 wings,162,g,420,mg,4580,g,11,g,137,g,40,g,1,g,1,g,1,g
+20,papa johns pizza,garlic parmesan wings 24 wings,243,g,630,mg,6870,g,17,g,205,g,60,g,1.5,g,1,g,1,g
+21,papa johns pizza,garlic parmesan wings 32 wings,324,g,845,mg,9160,g,23,g,273,g,80,g,2,g,1,g,1,g
+22,papa johns pizza,garlic parmesan wings 50 wings,507,g,1320,mg,14310,g,35,g,427,g,125,g,3,g,2,g,2,g
+23,papa johns pizza,garlic parmesan wings 8 wings,81,g,210,mg,2290,g,6,g,68,g,20,g,0,g,0,g,0,g
+24,papa johns pizza,giardineiera pizza original crust extra large,9,g,20,mg,600,g,38,g,10,g,4,g,0,g,1,g,3,g
+25,papa johns pizza,giardineiera pizza original crust large,9,g,20,mg,580,g,36,g,10,g,4,g,0,g,1,g,3,g
+26,papa johns pizza,giardineiera pizza original crust medium,6,g,15,mg,420,g,25,g,7,g,3,g,0,g,1,g,2,g
+27,papa johns pizza,giardineiera pizza original crust pizza for one,6,g,15,mg,400,g,24,g,7,g,3,g,0,g,1,g,2,g
+28,papa johns pizza,giardineiera pizza original crust small,6,g,15,mg,390,g,24,g,6,g,2.5,g,0,g,1,g,2,g
+29,papa johns pizza,giardineiera pizza pan crust,11,g,20,mg,650,g,36,g,9,g,4,g,0,g,2,g,3,g
+30,papa johns pizza,giardineiera pizza thin crust,10,g,20,mg,360,g,18,g,7,g,3.5,g,0,g,0,g,1,g
+31,papa johns pizza,gluten free crust,2.5,g,0,mg,100,g,17,g,2,g,1,g,0,g,1,g,1,g
+32,papa johns pizza,green chile cheesesticks 10 inch,4,g,10,mg,210,g,11,g,3,g,1.5,g,0,g,1,g,1,g
+33,papa johns pizza,green chile cheesesticks 12 inch,5,g,10,mg,260,g,13,g,4,g,2,g,0,g,1,g,1,g
+34,papa johns pizza,green olives for gluten free pizza,0.5,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+35,papa johns pizza,green olives for original crust extra large pizza,1,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+36,papa johns pizza,green olives for original crust large pizza,1,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+37,papa johns pizza,green olives for original crust medium pizza,1,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+38,papa johns pizza,green olives for original crust pizza for one,1,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+39,papa johns pizza,green olives for original crust small pizza,0.5,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+40,papa johns pizza,green olives for pan crust pizza,1,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+41,papa johns pizza,green olives for thin crust pizza,1,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+42,papa johns pizza,grilled chicken and canadian bacon pizza original crust extra large,7,g,30,mg,810,g,40,g,14,g,3,g,0,g,2,g,5,g
+43,papa johns pizza,grilled chicken and canadian bacon pizza original crust large,7,g,25,mg,750,g,37,g,13,g,2.5,g,0,g,2,g,5,g
+44,papa johns pizza,grilled chicken and canadian bacon pizza original crust medium,4.5,g,20,mg,520,g,26,g,9,g,2,g,0,g,1,g,3,g
+45,papa johns pizza,grilled chicken and canadian bacon pizza original crust pizza for one,6,g,25,mg,570,g,25,g,11,g,2.5,g,0,g,1,g,3,g
+46,papa johns pizza,grilled chicken and canadian bacon pizza original crust small,4.5,g,15,mg,480,g,25,g,8,g,1.5,g,0,g,1,g,3,g
+47,papa johns pizza,grilled chicken and canadian bacon pizza pan crust,8,g,20,mg,630,g,34,g,11,g,2.5,g,0,g,1,g,3,g
+48,papa johns pizza,grilled chicken and canadian bacon pizza thin crust,8,g,25,mg,530,g,19,g,11,g,2.5,g,0,g,1,g,2,g
+49,papa johns pizza,ham and cheese sandwich,33,g,65,mg,2290,g,58,g,26,g,12,g,0.5,g,3,g,3,g
+50,papa johns pizza,ham veggie liteham delight pizza original crust extra large,9,g,25,mg,810,g,41,g,13,g,4,g,0,g,2,g,6,g
+51,papa johns pizza,ham veggie liteham delight pizza original crust large,9,g,25,mg,770,g,39,g,12,g,4,g,0,g,2,g,5,g
+52,papa johns pizza,ham veggie liteham delight pizza original crust medium,6,g,15,mg,510,g,27,g,8,g,3,g,0,g,1,g,4,g
+53,papa johns pizza,ham veggie liteham delight pizza original crust pizza for one,6,g,20,mg,520,g,26,g,8,g,3,g,0,g,1,g,3,g
+54,papa johns pizza,ham veggie liteham delight pizza original crust small,6,g,15,mg,520,g,26,g,8,g,2.5,g,0,g,1,g,3,g
+55,papa johns pizza,ham veggie liteham delight pizza pan crust,10,g,20,mg,680,g,37,g,10,g,4,g,0,g,2,g,3,g
+56,papa johns pizza,ham veggie liteham delight pizza thin crust,10,g,25,mg,550,g,21,g,9,g,4,g,0,g,1,g,3,g
+57,papa johns pizza,hameggcheese pizza original crust large,17,g,140,mg,940,g,37,g,16,g,6,g,0,g,1,g,3,g
+58,papa johns pizza,hameggcheese pizza original crust pizza for one,9,g,95,mg,580,g,24,g,10,g,3.5,g,0,g,1,g,2,g
+59,papa johns pizza,hawaiian bbq chicken pizza gluten free,7,g,25,mg,510,g,22,g,8,g,3.5,g,0,g,1,g,6,g
+60,papa johns pizza,hawaiian bbq chicken pizza original crust extra large,11,g,40,mg,1070,g,50,g,16,g,5,g,0,g,2,g,13,g
+61,papa johns pizza,hawaiian bbq chicken pizza original crust large,11,g,40,mg,1040,g,47,g,17,g,5,g,0,g,2,g,12,g
+62,papa johns pizza,hawaiian bbq chicken pizza original crust medium,8,g,25,mg,730,g,33,g,11,g,3.5,g,0,g,1,g,9,g
+63,papa johns pizza,hawaiian bbq chicken pizza original crust pizza for one,8,g,30,mg,740,g,32,g,12,g,3.5,g,0,g,1,g,9,g
+64,papa johns pizza,hawaiian bbq chicken pizza original crust small,7,g,25,mg,660,g,31,g,10,g,3.5,g,0,g,1,g,8,g
+65,papa johns pizza,hawaiian bbq chicken pizza pan crust,12,g,30,mg,950,g,44,g,13,g,4.5,g,0,g,2,g,9,g
+66,papa johns pizza,hawaiian bbq chicken pizza thin crust,12,g,40,mg,800,g,29,g,13,g,5,g,0,g,1,g,10,g
+67,papa johns pizza,hawaiian calzone,10,g,30,mg,660,g,39,g,12,g,5,g,0,g,1,g,6,g
+68,papa johns pizza,hawaiian chicken pizza pizza original crust extra large,7,g,25,mg,700,g,41,g,13,g,3,g,0,g,2,g,7,g
+69,papa johns pizza,hawaiian chicken pizza pizza original crust large,6,g,25,mg,650,g,39,g,12,g,2.5,g,0,g,2,g,6,g
+70,papa johns pizza,hawaiian chicken pizza pizza original crust medium,4.5,g,15,mg,460,g,27,g,9,g,2,g,0,g,1,g,4,g
+71,papa johns pizza,hawaiian chicken pizza pizza original crust pizza for one,5,g,20,mg,490,g,27,g,9,g,2.5,g,0,g,1,g,5,g
+72,papa johns pizza,hawaiian chicken pizza pizza original crust small,4,g,15,mg,440,g,26,g,8,g,1.5,g,0,g,1,g,4,g
+73,papa johns pizza,hawaiian chicken pizza pizza pan crust,6,g,20,mg,580,g,35,g,11,g,2,g,0,g,1,g,4,g
+74,papa johns pizza,hawaiian chicken pizza pizza thin crust,7,g,25,mg,430,g,21,g,10,g,2.5,g,0,g,1,g,4,g
+75,papa johns pizza,hawaiian pizza gluten free,6,g,20,mg,400,g,17,g,6,g,3,g,0,g,1,g,3,g
+76,papa johns pizza,hawaiian pizza original crust extra large,9,g,25,mg,850,g,42,g,13,g,4,g,0,g,2,g,7,g
+77,papa johns pizza,hawaiian pizza original crust large,9,g,25,mg,820,g,40,g,12,g,4,g,0,g,2,g,7,g
+78,papa johns pizza,hawaiian pizza original crust medium,7,g,20,mg,590,g,28,g,9,g,3,g,0,g,1,g,5,g
+79,papa johns pizza,hawaiian pizza original crust pizza for one,7,g,20,mg,570,g,27,g,9,g,3,g,0,g,1,g,5,g
+80,papa johns pizza,hawaiian pizza original crust small,6,g,20,mg,550,g,27,g,8,g,3,g,0,g,1,g,5,g
+81,papa johns pizza,hawaiian pizza pan crust,10,g,25,mg,750,g,37,g,11,g,4,g,0,g,2,g,5,g
+82,papa johns pizza,hawaiian pizza thin crust,10,g,25,mg,600,g,22,g,10,g,4,g,0,g,1,g,4,g
+83,papa johns pizza,hawaiian volcano pizza gluten free,4.5,g,10,mg,290,g,15,g,4,g,1.5,g,0,g,1,g,2,g
+84,papa johns pizza,hawaiian volcano pizza original crust extra large,12,g,35,mg,1010,g,43,g,15,g,5,g,0,g,2,g,7,g
+85,papa johns pizza,hawaiian volcano pizza original crust large,12,g,35,mg,960,g,40,g,14,g,5,g,0,g,2,g,7,g
+86,papa johns pizza,hawaiian volcano pizza original crust medium,8,g,25,mg,670,g,28,g,10,g,3.5,g,0,g,1,g,5,g
+87,papa johns pizza,hawaiian volcano pizza original crust pizza for one,8,g,25,mg,670,g,27,g,10,g,3.5,g,0,g,1,g,5,g
+88,papa johns pizza,hawaiian volcano pizza original crust small,8,g,20,mg,650,g,27,g,9,g,3.5,g,0,g,1,g,5,g
+89,papa johns pizza,hawaiian volcano pizza pan crust,13,g,30,mg,910,g,39,g,12,g,4.5,g,0,g,2,g,6,g
+90,papa johns pizza,hawaiian volcano pizza thin crust,13,g,35,mg,750,g,23,g,11,g,5,g,0,g,1,g,4,g
+91,papa johns pizza,hawaiian with cream cheese pizza gluten free,8,g,25,mg,360,g,16,g,6,g,4,g,0,g,1,g,2,g
+92,papa johns pizza,hawaiian with cream cheese pizza original crust extra large,11,g,35,mg,870,g,43,g,13,g,5,g,0,g,2,g,8,g
+93,papa johns pizza,hawaiian with cream cheese pizza original crust large,11,g,35,mg,850,g,40,g,13,g,5,g,0,g,2,g,7,g
+94,papa johns pizza,hawaiian with cream cheese pizza original crust medium,8,g,25,mg,610,g,28,g,9,g,4,g,0,g,1,g,5,g
+95,papa johns pizza,hawaiian with cream cheese pizza original crust pizza for one,8,g,25,mg,590,g,27,g,9,g,4,g,0,g,1,g,5,g
+96,papa johns pizza,hawaiian with cream cheese pizza original crust small,8,g,25,mg,570,g,27,g,9,g,3.5,g,0,g,1,g,5,g
+97,papa johns pizza,hawaiian with cream cheese pizza pan crust,12,g,30,mg,770,g,38,g,12,g,5,g,0,g,2,g,5,g
+98,papa johns pizza,hawaiian with cream cheese pizza thin crust,12,g,35,mg,630,g,23,g,10,g,5,g,0,g,1,g,5,g
+99,papa johns pizza,hearty italian meats pizza original crust extra large,18,g,45,mg,1050,g,40,g,16,g,8,g,0,g,2,g,5,g
+100,papa johns pizza,hearty italian meats pizza original crust large,17,g,40,mg,1010,g,38,g,16,g,7,g,0,g,2,g,5,g
+101,papa johns pizza,hearty italian meats pizza original crust medium,13,g,35,mg,740,g,27,g,12,g,6,g,0,g,1,g,3,g
+102,papa johns pizza,hearty italian meats pizza original crust pizza for one,11,g,25,mg,670,g,25,g,10,g,4.5,g,0,g,1,g,3,g
+103,papa johns pizza,hearty italian meats pizza original crust small,11,g,25,mg,650,g,25,g,10,g,4.5,g,0,g,1,g,3,g
+104,papa johns pizza,hearty italian meats pizza pan crust,16,g,40,mg,890,g,35,g,14,g,7,g,0,g,2,g,3,g
+105,papa johns pizza,hearty italian meats pizza thin crust,18,g,40,mg,790,g,20,g,13,g,7,g,0,g,1,g,2,g
+106,papa johns pizza,honey chipotle wings 16 wings,113,g,415,mg,3620,g,55,g,133,g,29,g,0,g,1,g,42,g
+107,papa johns pizza,honey chipotle wings 24 wings,170,g,620,mg,5430,g,82,g,200,g,44,g,0,g,2,g,64,g
+108,papa johns pizza,honey chipotle wings 32 wings,227,g,825,mg,7240,g,109,g,267,g,59,g,0,g,2,g,85,g
+109,papa johns pizza,honey chipotle wings 50 wings,354,g,1295,mg,11320,g,171,g,417,g,92,g,0,g,4,g,132,g
+110,papa johns pizza,honey chipotle wings 8 wings,57,g,205,mg,1810,g,27,g,67,g,15,g,0,g,1,g,21,g
+111,papa johns pizza,island fresh pizza original crust extra large,9,g,25,mg,690,g,42,g,11,g,4,g,0,g,2,g,5,g
+112,papa johns pizza,island fresh pizza original crust large,8,g,20,mg,660,g,40,g,10,g,4,g,0,g,2,g,5,g
+113,papa johns pizza,island fresh pizza original crust medium,6,g,15,mg,470,g,28,g,8,g,3,g,0,g,1,g,3,g
+114,papa johns pizza,island fresh pizza original crust pizza for one,6,g,15,mg,470,g,27,g,7,g,3,g,0,g,1,g,3,g
+115,papa johns pizza,island fresh pizza original crust small,6,g,15,mg,440,g,27,g,7,g,2.5,g,0,g,1,g,3,g
+116,papa johns pizza,island fresh pizza pan crust,10,g,20,mg,630,g,37,g,10,g,4,g,0,g,2,g,3,g
+117,papa johns pizza,island fresh pizza thin crust,10,g,20,mg,440,g,22,g,8,g,4,g,0,g,1,g,2,g
+118,papa johns pizza,island fresh with chicken pizza original crust extra large,9,g,30,mg,770,g,42,g,14,g,4,g,0,g,2,g,5,g
+119,papa johns pizza,island fresh with chicken pizza original crust large,9,g,30,mg,740,g,40,g,14,g,4,g,0,g,2,g,5,g
+120,papa johns pizza,island fresh with chicken pizza original crust medium,6,g,20,mg,520,g,28,g,10,g,3,g,0,g,1,g,3,g
+121,papa johns pizza,island fresh with chicken pizza original crust pizza for one,6,g,25,mg,540,g,27,g,11,g,3,g,0,g,1,g,3,g
+122,papa johns pizza,island fresh with chicken pizza original crust small,6,g,15,mg,480,g,27,g,9,g,2.5,g,0,g,1,g,3,g
+123,papa johns pizza,island fresh with chicken pizza pan crust,10,g,25,mg,690,g,37,g,12,g,4,g,0,g,2,g,3,g
+124,papa johns pizza,island fresh with chicken pizza thin crust,10,g,30,mg,520,g,22,g,11,g,4,g,0,g,1,g,2,g
+125,papa johns pizza,italian sandwich,48,g,100,mg,3180,g,59,g,33,g,17,g,1,g,4,g,3,g
+126,papa johns pizza,italian sausage for gluten free pizza,3.5,g,5,mg,85,g,0,g,1,g,1,g,0,g,0,g,0,g
+127,papa johns pizza,italian sausage for original crust extra large pizza,5,g,10,mg,125,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+128,papa johns pizza,italian sausage for original crust large pizza,5,g,10,mg,125,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+129,papa johns pizza,italian sausage for original crust medium pizza,3.5,g,10,mg,95,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+130,papa johns pizza,italian sausage for original crust pizza for one,3.5,g,5,mg,90,g,0,g,1,g,1,g,0,g,0,g,0,g
+131,papa johns pizza,italian sausage for original crust small pizza,3.5,g,5,mg,85,g,0,g,1,g,1,g,0,g,0,g,0,g
+132,papa johns pizza,italian sausage for pan crust pizza,3.5,g,10,mg,95,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+133,papa johns pizza,italian sausage for thin crust pizza,5,g,10,mg,125,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+134,papa johns pizza,italian sausage pizza original crust extra large,14,g,30,mg,810,g,40,g,12,g,6,g,0,g,2,g,5,g
+135,papa johns pizza,italian sausage pizza original crust large,13,g,30,mg,780,g,38,g,12,g,6,g,0,g,2,g,5,g
+136,papa johns pizza,italian sausage pizza original crust medium,10,g,20,mg,560,g,27,g,9,g,4,g,0,g,1,g,3,g
+137,papa johns pizza,italian sausage pizza original crust pizza for one,10,g,20,mg,550,g,25,g,8,g,4,g,0,g,1,g,3,g
+138,papa johns pizza,italian sausage pizza original crust small,7,g,15,mg,390,g,19,g,6,g,3,g,0,g,1,g,2,g
+139,papa johns pizza,italian sausage pizza pan crust,15,g,30,mg,750,g,36,g,11,g,6,g,0,g,2,g,3,g
+140,papa johns pizza,italian sausage pizza thin crust,15,g,30,mg,560,g,20,g,9,g,5,g,0,g,1,g,2,g
+141,papa johns pizza,jack o lantern pizza original crust large,13,g,30,mg,810,g,38,g,12,g,6,g,0,g,2,g,5,g
+142,papa johns pizza,jalapeno cheesesticks 10 inch,4,g,10,mg,230,g,11,g,3,g,1.5,g,0,g,0,g,1,g
+143,papa johns pizza,jalapeno cheesesticks 12 inch,5,g,10,mg,280,g,13,g,4,g,2,g,0,g,1,g,1,g
+144,papa johns pizza,jalapeno for extra large pizza,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+145,papa johns pizza,jalapeno for gluten free pizza,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+146,papa johns pizza,jalapeno for original crust large pizza,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+147,papa johns pizza,jalapeno for original crust medium pizza,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+148,papa johns pizza,jalapeno for original crust pizza for one,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+149,papa johns pizza,jalapeno for original crust small pizza,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+150,papa johns pizza,jalapeno for pan crust pizza,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+151,papa johns pizza,jalapeno for thin crust pizza,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+152,papa johns pizza,johns favorite pizza original crust extra large,21,g,45,mg,960,g,38,g,16,g,9,g,0,g,1,g,3,g
+153,papa johns pizza,johns favorite pizza original crust large,20,g,45,mg,920,g,36,g,16,g,9,g,0,g,1,g,3,g
+154,papa johns pizza,johns favorite pizza original crust medium,14,g,30,mg,650,g,25,g,11,g,6,g,0,g,1,g,2,g
+155,papa johns pizza,johns favorite pizza original crust pizza for one,15,g,35,mg,670,g,24,g,11,g,6,g,0,g,1,g,2,g
+156,papa johns pizza,johns favorite pizza original crust small,13,g,30,mg,620,g,24,g,11,g,6,g,0,g,1,g,2,g
+157,papa johns pizza,johns favorite pizza pan crust,18,g,35,mg,870,g,36,g,14,g,7,g,0,g,2,g,3,g
+158,papa johns pizza,johns favorite pizza thin crust,22,g,45,mg,700,g,18,g,13,g,9,g,0,g,0,g,1,g
+159,papa johns pizza,light bbq sauce for original crust extra large pizza,0,g,0,mg,140,g,5,g,0,g,0,g,0,g,0,g,4,g
+160,papa johns pizza,light bbq sauce for original crust large pizza,0,g,0,mg,120,g,4,g,0,g,0,g,0,g,0,g,3,g
+161,papa johns pizza,light bbq sauce for original crust medium pizza,0,g,0,mg,80,g,3,g,0,g,0,g,0,g,0,g,2,g
+162,papa johns pizza,light bbq sauce for original crust pizza for one,0,g,0,mg,85,g,3,g,0,g,0,g,0,g,0,g,2,g
+163,papa johns pizza,light bbq sauce for pan crust pizza,0,g,0,mg,80,g,3,g,0,g,0,g,0,g,0,g,2,g
+164,papa johns pizza,light bbq sauce for thin crust pizza,0,g,0,mg,120,g,4,g,0,g,0,g,0,g,0,g,3,g
+165,papa johns pizza,light cheese for extra large original crust pizza,4,g,15,mg,180,g,1,g,3,g,2.5,g,0,g,0,g,0,g
+166,papa johns pizza,light cheese for gluten free pizza,2.5,g,10,mg,110,g,1,g,2,g,1.5,g,0,g,0,g,0,g
+167,papa johns pizza,light cheese for large original crust pizza,4,g,15,mg,160,g,1,g,3,g,2.5,g,0,g,0,g,0,g
+168,papa johns pizza,light cheese for medium original crust pizza,2.5,g,10,mg,110,g,1,g,2,g,1.5,g,0,g,0,g,0,g
+169,papa johns pizza,light cheese for original crust pizza for one,3,g,10,mg,125,g,1,g,2,g,2,g,0,g,0,g,0,g
+170,papa johns pizza,light cheese for pan pizza,4,g,15,mg,160,g,1,g,3,g,2.5,g,0,g,0,g,0,g
+171,papa johns pizza,light cheese for small original crust pizza,2.5,g,10,mg,110,g,1,g,2,g,1.5,g,0,g,0,g,0,g
+172,papa johns pizza,light cheese for thin crust pizza,4,g,15,mg,160,g,1,g,3,g,2.5,g,0,g,0,g,0,g
+173,papa johns pizza,light original sauce for gluten free pizza,0,g,0,mg,30,g,1,g,0,g,0,g,0,g,0,g,0,g
+174,papa johns pizza,light original sauce for original crust extra large pizza,0,g,0,mg,50,g,2,g,0,g,0,g,0,g,0,g,1,g
+175,papa johns pizza,light original sauce for original crust large pizza,0,g,0,mg,45,g,2,g,0,g,0,g,0,g,0,g,1,g
+176,papa johns pizza,light original sauce for original crust medium pizza,0,g,0,mg,30,g,1,g,0,g,0,g,0,g,0,g,0,g
+177,papa johns pizza,light original sauce for original crust pizza for one,0,g,0,mg,35,g,1,g,0,g,0,g,0,g,0,g,1,g
+178,papa johns pizza,light original sauce for original crust small pizza,0,g,0,mg,30,g,1,g,0,g,0,g,0,g,0,g,0,g
+179,papa johns pizza,light original sauce for pan crust pizza,0,g,0,mg,30,g,1,g,0,g,0,g,0,g,0,g,0,g
+180,papa johns pizza,light original sauce for thin crust pizza,0,g,0,mg,45,g,2,g,0,g,0,g,0,g,0,g,1,g
+181,papa johns pizza,light ranch sauce for gluten free pizza,2,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+182,papa johns pizza,light ranch sauce for original crust extra large pizza,3,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+183,papa johns pizza,light ranch sauce for original crust large pizza,2.5,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+184,papa johns pizza,light ranch sauce for original crust medium pizza,1.5,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+185,papa johns pizza,light ranch sauce for original crust pizza for one,2.5,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+186,papa johns pizza,light ranch sauce for original crust small pizza,2,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+187,papa johns pizza,light ranch sauce for pan crust pizza,1.5,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+188,papa johns pizza,light ranch sauce for thin crust pizza,2.5,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+189,papa johns pizza,light spinach alfredo sauce for gluten free pizza,1,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+190,papa johns pizza,light spinach alfredo sauce for original crust extra large pizza,1.5,g,5,mg,50,g,0,g,0,g,1,g,0,g,0,g,0,g
+191,papa johns pizza,light spinach alfredo sauce for original crust large pizza,1,g,5,mg,40,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+192,papa johns pizza,light spinach alfredo sauce for original crust medium pizza,1,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+193,papa johns pizza,light spinach alfredo sauce for original crust pizza for one,1,g,5,mg,40,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+194,papa johns pizza,light spinach alfredo sauce for original crust small pizza,1,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+195,papa johns pizza,light spinach alfredo sauce for pan crust pizza,1,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+196,papa johns pizza,light spinach alfredo sauce for thin crust pizza,1,g,5,mg,40,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+197,papa johns pizza,meat calzone,15,g,40,mg,840,g,37,g,14,g,7,g,0,g,1,g,4,g
+198,papa johns pizza,meatball sandwich,75,g,255,mg,1890,g,73,g,54,g,27,g,2,g,5,g,9,g
+199,papa johns pizza,mediterranean veggie pizza pizza original crust extra large,7,g,10,mg,690,g,41,g,9,g,3,g,0,g,2,g,5,g
+200,papa johns pizza,mediterranean veggie pizza pizza original crust large,7,g,10,mg,630,g,38,g,8,g,2.5,g,0,g,2,g,5,g
+201,papa johns pizza,mediterranean veggie pizza pizza original crust medium,4.5,g,5,mg,450,g,27,g,6,g,2,g,0,g,1,g,4,g
+202,papa johns pizza,mediterranean veggie pizza pizza original crust pizza for one,5,g,10,mg,460,g,26,g,6,g,2.5,g,0,g,1,g,4,g
+203,papa johns pizza,mediterranean veggie pizza pizza original crust small,4.5,g,5,mg,420,g,26,g,5,g,1.5,g,0,g,1,g,3,g
+204,papa johns pizza,mediterranean veggie pizza pizza pan crust,6,g,10,mg,560,g,35,g,7,g,2,g,0,g,2,g,3,g
+205,papa johns pizza,mediterranean veggie pizza pizza thin crust,8,g,10,mg,410,g,20,g,5,g,2.5,g,0,g,1,g,2,g
+206,papa johns pizza,mozzarella sticks,5,g,5,mg,180,g,5,g,4,g,2,g,0,g,0,g,0,g
+207,papa johns pizza,mushroom for original crust extra large pizza,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+208,papa johns pizza,mushroom for original crust large pizza,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+209,papa johns pizza,mushroom for pan crust pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+210,papa johns pizza,mushroom for thin crust pizza,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+211,papa johns pizza,mushroom hoagie,39,g,125,mg,970,g,76,g,47,g,18,g,1.5,g,3,g,9,g
+212,papa johns pizza,new chicken poppers 10 pieces,21,g,115,mg,1550,g,42,g,33,g,3.5,g,0,g,2,g,2,g
+213,papa johns pizza,new chicken poppers 15 pieces,31,g,175,mg,2320,g,64,g,49,g,5,g,0,g,2,g,2,g
+214,papa johns pizza,new chicken poppers 30 pieces,61,g,340,mg,4560,g,125,g,96,g,11,g,0,g,4,g,4,g
+215,papa johns pizza,new chicken poppers 45 pieces,94,g,520,mg,6960,g,191,g,147,g,16,g,0,g,7,g,7,g
+216,papa johns pizza,new chicken poppers 5 pieces,10,g,60,mg,770,g,21,g,16,g,2,g,0,g,1,g,1,g
+217,papa johns pizza,new chicken poppers 6 pieces,13,g,70,mg,930,g,25,g,20,g,2,g,0,g,1,g,1,g
+218,papa johns pizza,new chicken poppers 60 pieces,125,g,695,mg,9280,g,255,g,196,g,22,g,0,g,9,g,8,g
+219,papa johns pizza,new chicken poppers 9 pieces,19,g,105,mg,1390,g,38,g,29,g,3.5,g,0,g,1,g,1,g
+220,papa johns pizza,onion for gluten free pizza,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+221,papa johns pizza,onion for original crust extra large pizza,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+222,papa johns pizza,onion for original crust large pizza,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+223,papa johns pizza,onion for original crust medium pizza,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+224,papa johns pizza,onion for original crust pizza for one,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+225,papa johns pizza,onion for original crust small pizza,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+226,papa johns pizza,onion for pan crust pizza,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+227,papa johns pizza,onion for thin crust pizza,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+228,papa johns pizza,original crust extra large,3,g,0,mg,360,g,36,g,6,g,0.5,g,0,g,1,g,3,g
+229,papa johns pizza,original crust large,2.5,g,0,mg,340,g,34,g,5,g,0.5,g,0,g,1,g,3,g
+230,papa johns pizza,original crust medium,2,g,0,mg,240,g,24,g,4,g,0,g,0,g,1,g,2,g
+231,papa johns pizza,original crust pizza for one,2,g,0,mg,230,g,23,g,3,g,0,g,0,g,1,g,2,g
+232,papa johns pizza,original crust small,2,g,0,mg,230,g,23,g,4,g,0,g,0,g,1,g,2,g
+233,papa johns pizza,original sauce for gluten free pizza,0,g,0,mg,60,g,1,g,0,g,0,g,0,g,0,g,1,g
+234,papa johns pizza,original sauce for original crust extra large pizza,0.5,g,0,mg,100,g,2,g,0,g,0,g,0,g,0,g,2,g
+235,papa johns pizza,original sauce for original crust large pizza,0.5,g,0,mg,95,g,2,g,0,g,0,g,0,g,0,g,1,g
+236,papa johns pizza,original sauce for original crust medium pizza,0,g,0,mg,60,g,1,g,0,g,0,g,0,g,0,g,1,g
+237,papa johns pizza,original sauce for original crust pizza for one,0,g,0,mg,65,g,1,g,0,g,0,g,0,g,0,g,1,g
+238,papa johns pizza,original sauce for original crust small pizza,0,g,0,mg,60,g,1,g,0,g,0,g,0,g,0,g,1,g
+239,papa johns pizza,original sauce for pan crust pizza,0,g,0,mg,60,g,1,g,0,g,0,g,0,g,0,g,1,g
+240,papa johns pizza,original sauce for thin crust pizza,0.5,g,0,mg,95,g,2,g,0,g,0,g,0,g,0,g,1,g
+241,papa johns pizza,pan crust,2.5,g,0,mg,340,g,32,g,5,g,0.5,g,0,g,1,g,1,g
+242,papa johns pizza,papas garden salad,7,g,10,mg,340,g,10,g,6,g,3,g,0,g,2,g,3,g
+243,papa johns pizza,papas st louis pizza original crust extra large,21,g,45,mg,1050,g,40,g,17,g,9,g,0,g,2,g,5,g
+244,papa johns pizza,papas st louis pizza original crust large,21,g,45,mg,1010,g,38,g,16,g,9,g,0,g,2,g,5,g
+245,papa johns pizza,papas st louis pizza original crust medium,15,g,30,mg,710,g,26,g,11,g,6,g,0,g,1,g,3,g
+246,papa johns pizza,papas st louis pizza original crust pizza for one,13,g,30,mg,640,g,25,g,10,g,6,g,0,g,1,g,3,g
+247,papa johns pizza,papas st louis pizza original crust small,14,g,30,mg,680,g,25,g,11,g,6,g,0,g,1,g,3,g
+248,papa johns pizza,papas st louis pizza pan crust,19,g,40,mg,900,g,36,g,15,g,8,g,0,g,2,g,3,g
+249,papa johns pizza,papas st louis pizza thin crust,22,g,45,mg,790,g,20,g,13,g,9,g,0,g,1,g,2,g
+250,papa johns pizza,parmesan romano for gluten free pizza,1,g,5,mg,35,g,0,g,1,g,0,g,0,g,0,g,0,g
+251,papa johns pizza,parmesan romano for original crust extra large pizza,1.5,g,5,mg,50,g,0,g,2,g,0.5,g,0,g,0,g,0,g
+252,papa johns pizza,parmesan romano for original crust large pizza,1.5,g,5,mg,50,g,0,g,2,g,0.5,g,0,g,0,g,0,g
+253,papa johns pizza,parmesan romano for original crust medium pizza,1,g,5,mg,40,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+254,papa johns pizza,parmesan romano for original crust pizza for one,1,g,5,mg,30,g,0,g,1,g,0,g,0,g,0,g,0,g
+255,papa johns pizza,parmesan romano for original crust small pizza,1,g,5,mg,35,g,0,g,1,g,0,g,0,g,0,g,0,g
+256,papa johns pizza,parmesan romano for pan crust pizza,1,g,5,mg,40,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+257,papa johns pizza,parmesan romano for thin crust pizza,1.5,g,5,mg,50,g,0,g,2,g,0.5,g,0,g,0,g,0,g
+258,papa johns pizza,pepperoni and sausage pizza gluten free,12,g,25,mg,450,g,16,g,7,g,5,g,0,g,1,g,2,g
+259,papa johns pizza,pepperoni and sausage pizza original crust extra large,17,g,35,mg,940,g,40,g,13,g,7,g,0,g,2,g,5,g
+260,papa johns pizza,pepperoni and sausage pizza original crust large,17,g,35,mg,910,g,38,g,13,g,7,g,0,g,2,g,5,g
+261,papa johns pizza,pepperoni and sausage pizza original crust medium,13,g,25,mg,650,g,26,g,9,g,5,g,0,g,1,g,3,g
+262,papa johns pizza,pepperoni and sausage pizza original crust pizza for one,13,g,30,mg,650,g,25,g,9,g,5,g,0,g,1,g,3,g
+263,papa johns pizza,pepperoni and sausage pizza original crust small,11,g,25,mg,600,g,25,g,8,g,4.5,g,0,g,1,g,3,g
+264,papa johns pizza,pepperoni and sausage pizza pan crust,16,g,30,mg,810,g,36,g,11,g,6,g,0,g,2,g,3,g
+265,papa johns pizza,pepperoni and sausage pizza thin crust,20,g,40,mg,750,g,20,g,11,g,8,g,0,g,1,g,2,g
+266,papa johns pizza,pepperoni for gluten free pizza,3,g,5,mg,95,g,0,g,1,g,1,g,0,g,0,g,0,g
+267,papa johns pizza,pepperoni for original crust extra large pizza,4.5,g,10,mg,160,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+268,papa johns pizza,pepperoni for original crust large pizza,4.5,g,10,mg,150,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+269,papa johns pizza,pepperoni for original crust medium pizza,3,g,10,mg,100,g,0,g,1,g,1,g,0,g,0,g,0,g
+270,papa johns pizza,pepperoni for original crust pizza for one,3.5,g,10,mg,115,g,0,g,1,g,1.5,g,0,g,0,g,0,g
+271,papa johns pizza,pepperoni for original crust small pizza,3,g,5,mg,95,g,0,g,1,g,1,g,0,g,0,g,0,g
+272,papa johns pizza,pepperoni for pan crust pizza,3,g,10,mg,100,g,0,g,1,g,1,g,0,g,0,g,0,g
+273,papa johns pizza,pepperoni for thin crust pizza,4.5,g,10,mg,150,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+274,papa johns pizza,pepperoni pizza gluten free,9,g,20,mg,380,g,16,g,6,g,4,g,0,g,1,g,2,g
+275,papa johns pizza,pepperoni pizza original crust extra large,13,g,30,mg,840,g,40,g,12,g,6,g,0,g,2,g,5,g
+276,papa johns pizza,pepperoni pizza original crust large,13,g,30,mg,810,g,38,g,12,g,6,g,0,g,2,g,5,g
+277,papa johns pizza,pepperoni pizza original crust medium,9,g,20,mg,570,g,26,g,8,g,4,g,0,g,1,g,3,g
+278,papa johns pizza,pepperoni pizza original crust pizza for one,10,g,25,mg,580,g,25,g,8,g,4,g,0,g,1,g,3,g
+279,papa johns pizza,pepperoni pizza original crust small,8,g,20,mg,530,g,25,g,8,g,3.5,g,0,g,1,g,3,g
+280,papa johns pizza,pepperoni pizza pan crust,16,g,35,mg,820,g,36,g,12,g,6,g,0,g,2,g,3,g
+281,papa johns pizza,pepperoni pizza thin crust,14,g,30,mg,590,g,20,g,9,g,5,g,0,g,1,g,2,g
+282,papa johns pizza,pepperoni pizzazz pizza original crust extra large,18,g,40,mg,970,g,40,g,16,g,8,g,0,g,2,g,5,g
+283,papa johns pizza,pepperoni pizzazz pizza original crust large,17,g,40,mg,930,g,38,g,15,g,8,g,0,g,2,g,5,g
+284,papa johns pizza,pepperoni pizzazz pizza original crust medium,12,g,30,mg,640,g,26,g,11,g,5,g,0,g,1,g,3,g
+285,papa johns pizza,pepperoni pizzazz pizza original crust pizza for one,11,g,25,mg,600,g,25,g,10,g,4.5,g,0,g,1,g,3,g
+286,papa johns pizza,pepperoni pizzazz pizza original crust small,11,g,25,mg,620,g,25,g,10,g,5,g,0,g,1,g,3,g
+287,papa johns pizza,pepperoni pizzazz pizza pan crust,17,g,35,mg,830,g,36,g,14,g,7,g,0,g,2,g,3,g
+288,papa johns pizza,pepperoni pizzazz pizza thin crust,19,g,40,mg,710,g,20,g,13,g,8,g,0,g,1,g,2,g
+289,papa johns pizza,pepperoni rolls,6,g,10,mg,260,g,12,g,4,g,2,g,0,g,0,g,1,g
+290,papa johns pizza,pepperoni specialty pizza original crust extra large,17,g,45,mg,990,g,41,g,15,g,8,g,0,g,2,g,5,g
+291,papa johns pizza,pepperoni specialty pizza original crust large,16,g,40,mg,910,g,38,g,13,g,7,g,0,g,2,g,5,g
+292,papa johns pizza,pepperoni specialty pizza original crust medium,11,g,30,mg,660,g,27,g,10,g,5,g,0,g,1,g,3,g
+293,papa johns pizza,pepperoni specialty pizza original crust small,10,g,25,mg,600,g,26,g,9,g,4.5,g,0,g,1,g,3,g
+294,papa johns pizza,pepperoni specialty pizza pan crust,13,g,35,mg,710,g,27,g,11,g,6,g,0,g,1,g,3,g
+295,papa johns pizza,pepperoni specialty pizza thin crust,17,g,40,mg,690,g,20,g,11,g,7,g,0,g,1,g,2,g
+296,papa johns pizza,pineapple for gluten free pizza,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,0,g,2,g
+297,papa johns pizza,pineapple for original crust extra large pizza,0,g,0,mg,0,g,2,g,2,g,0,g,0,g,0,g,2,g
+298,papa johns pizza,pineapple for original crust large pizza,0,g,0,mg,0,g,2,g,2,g,0,g,0,g,0,g,2,g
+299,papa johns pizza,pineapple for original crust medium pizza,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,0,g,2,g
+300,papa johns pizza,pineapple for original crust pizza for one,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,0,g,2,g
+301,papa johns pizza,pineapple for original crust small pizza,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,0,g,2,g
+302,papa johns pizza,pineapple for pan crust pizza,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,0,g,2,g
+303,papa johns pizza,pineapple for thin crust pizza,0,g,0,mg,0,g,2,g,2,g,0,g,0,g,0,g,2,g
+304,papa johns pizza,pizza sauce hoagie,40,g,125,mg,1100,g,79,g,48,g,18,g,1.5,g,4,g,12,g
+305,papa johns pizza,ranch sauce for gluten free pizza,3.5,g,5,mg,80,g,1,g,0,g,0.5,g,0,g,0,g,0,g
+306,papa johns pizza,ranch sauce for original crust extra large pizza,6,g,5,mg,130,g,1,g,0,g,1,g,0,g,0,g,1,g
+307,papa johns pizza,ranch sauce for original crust large pizza,5,g,5,mg,125,g,1,g,0,g,1,g,0,g,0,g,1,g
+308,papa johns pizza,ranch sauce for original crust medium pizza,3.5,g,5,mg,80,g,1,g,0,g,0.5,g,0,g,0,g,0,g
+309,papa johns pizza,ranch sauce for original crust pizza for one,3.5,g,5,mg,80,g,1,g,0,g,0.5,g,0,g,0,g,1,g
+310,papa johns pizza,ranch sauce for original crust small pizza,3.5,g,5,mg,80,g,1,g,0,g,0.5,g,0,g,0,g,0,g
+311,papa johns pizza,ranch sauce for pan crust pizza,3.5,g,5,mg,80,g,1,g,0,g,0.5,g,0,g,0,g,0,g
+312,papa johns pizza,ranch sauce for thin crust pizza,5,g,5,mg,125,g,1,g,0,g,1,g,0,g,0,g,1,g
+313,papa johns pizza,roma tomatoes for original crust extra large pizza,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+314,papa johns pizza,roma tomatoes for original crust large pizza,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+315,papa johns pizza,roma tomatoes for pan crust pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+316,papa johns pizza,roma tomatoes for thin crust pizza,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+317,papa johns pizza,sauerkraut pizza pizza original crust large,9,g,25,mg,890,g,38,g,12,g,4,g,0,g,2,g,5,g
+318,papa johns pizza,sausage for gluten free pizza,4,g,5,mg,105,g,0,g,1,g,1.5,g,0,g,0,g,0,g
+319,papa johns pizza,sausage for original crust extra large pizza,6,g,10,mg,160,g,0,g,2,g,2,g,0,g,0,g,0,g
+320,papa johns pizza,sausage for original crust large pizza,6,g,10,mg,160,g,0,g,2,g,2,g,0,g,0,g,0,g
+321,papa johns pizza,sausage for original crust medium pizza,4.5,g,10,mg,120,g,0,g,1,g,1.5,g,0,g,0,g,0,g
+322,papa johns pizza,sausage for original crust pizza for one,4.5,g,10,mg,115,g,0,g,1,g,1.5,g,0,g,0,g,0,g
+323,papa johns pizza,sausage for original crust small pizza,4,g,5,mg,105,g,0,g,1,g,1.5,g,0,g,0,g,0,g
+324,papa johns pizza,sausage for pan crust pizza,4.5,g,10,mg,120,g,0,g,1,g,1.5,g,0,g,0,g,0,g
+325,papa johns pizza,sausage for thin crust pizza,6,g,10,mg,160,g,0,g,2,g,2,g,0,g,0,g,0,g
+326,papa johns pizza,sausage pizza gluten free,10,g,20,mg,390,g,16,g,6,g,4.5,g,0,g,1,g,2,g
+327,papa johns pizza,sausage pizza original crust extra large,15,g,30,mg,840,g,40,g,12,g,6,g,0,g,2,g,5,g
+328,papa johns pizza,sausage pizza original crust large,14,g,30,mg,810,g,38,g,12,g,6,g,0,g,2,g,5,g
+329,papa johns pizza,sausage pizza original crust medium,11,g,20,mg,580,g,27,g,8,g,4.5,g,0,g,1,g,3,g
+330,papa johns pizza,sausage pizza original crust pizza for one,10,g,20,mg,580,g,25,g,8,g,4.5,g,0,g,1,g,3,g
+331,papa johns pizza,sausage pizza original crust small,10,g,20,mg,540,g,25,g,8,g,4,g,0,g,1,g,3,g
+332,papa johns pizza,sausage pizza pan crust,16,g,30,mg,780,g,36,g,11,g,6,g,0,g,2,g,3,g
+333,papa johns pizza,sausage pizza thin crust,16,g,30,mg,590,g,20,g,9,g,6,g,0,g,1,g,2,g
+334,papa johns pizza,sausage egg cheese pizza original crust large,22,g,145,mg,930,g,37,g,15,g,8,g,0,g,1,g,3,g
+335,papa johns pizza,sausage egg cheese pizza original crust pizza for one,13,g,95,mg,310,g,24,g,10,g,5,g,0,g,1,g,2,g
+336,papa johns pizza,seven cheese calzone,15,g,40,mg,720,g,37,g,16,g,8,g,0,g,1,g,3,g
+337,papa johns pizza,sicilian classic pizza original crust extra large,18,g,45,mg,1100,g,40,g,16,g,7,g,0,g,2,g,5,g
+338,papa johns pizza,sicilian classic pizza original crust large,17,g,45,mg,1050,g,38,g,15,g,7,g,0,g,2,g,5,g
+339,papa johns pizza,sicilian classic pizza original crust medium,12,g,30,mg,740,g,27,g,11,g,5,g,0,g,1,g,3,g
+340,papa johns pizza,sicilian classic pizza original crust pizza for one,12,g,35,mg,730,g,25,g,11,g,5,g,0,g,1,g,3,g
+341,papa johns pizza,sicilian classic pizza original crust small,10,g,25,mg,670,g,25,g,10,g,4.5,g,0,g,1,g,3,g
+342,papa johns pizza,sicilian classic pizza pan crust,16,g,35,mg,900,g,36,g,13,g,6,g,0,g,2,g,3,g
+343,papa johns pizza,sicilian classic pizza thin crust,18,g,45,mg,830,g,20,g,13,g,7,g,0,g,1,g,2,g
+344,papa johns pizza,smokehouse bacon and ham pizza gluten free,9,g,25,mg,490,g,17,g,8,g,4,g,0,g,1,g,2,g
+345,papa johns pizza,smokehouse bacon and ham pizza original crust extra large,13,g,35,mg,1000,g,42,g,15,g,5,g,0,g,2,g,6,g
+346,papa johns pizza,smokehouse bacon and ham pizza original crust large,13,g,35,mg,960,g,40,g,15,g,5,g,0,g,2,g,6,g
+347,papa johns pizza,smokehouse bacon and ham pizza original crust medium,9,g,25,mg,690,g,28,g,11,g,4,g,0,g,1,g,4,g
+348,papa johns pizza,smokehouse bacon and ham pizza original crust pizza for one,9,g,25,mg,670,g,27,g,10,g,4,g,0,g,1,g,4,g
+349,papa johns pizza,smokehouse bacon and ham pizza original crust small,8,g,25,mg,640,g,27,g,10,g,3.5,g,0,g,1,g,4,g
+350,papa johns pizza,smokehouse bacon and ham pizza pan crust,13,g,30,mg,850,g,37,g,13,g,5,g,0,g,2,g,4,g
+351,papa johns pizza,smokehouse bacon and ham pizza thin crust,14,g,35,mg,740,g,22,g,12,g,5,g,0,g,1,g,3,g
+352,papa johns pizza,spicy buffalo wings 16 wings,115,g,415,mg,5840,g,16,g,133,g,30,g,0,g,2,g,6,g
+353,papa johns pizza,spicy buffalo wings 24 wings,173,g,620,mg,8770,g,24,g,200,g,45,g,0,g,3,g,9,g
+354,papa johns pizza,spicy buffalo wings 32 wings,231,g,825,mg,11690,g,33,g,267,g,60,g,0,g,4,g,12,g
+355,papa johns pizza,spicy buffalo wings 50 wings,360,g,1295,mg,18260,g,51,g,417,g,93,g,0.5,g,6,g,18,g
+356,papa johns pizza,spicy buffalo wings 8 wings,58,g,205,mg,2920,g,8,g,67,g,15,g,0,g,1,g,3,g
+357,papa johns pizza,spicy italian calzone,14,g,35,mg,700,g,37,g,12,g,7,g,0,g,1,g,3,g
+358,papa johns pizza,spicy italian pizza gluten free,12,g,25,mg,450,g,16,g,7,g,5,g,0,g,1,g,2,g
+359,papa johns pizza,spicy italian pizza original crust extra large,19,g,40,mg,980,g,40,g,15,g,8,g,0,g,2,g,5,g
+360,papa johns pizza,spicy italian pizza original crust large,18,g,40,mg,930,g,38,g,14,g,7,g,0,g,2,g,5,g
+361,papa johns pizza,spicy italian pizza original crust medium,13,g,30,mg,660,g,27,g,10,g,5,g,0,g,1,g,3,g
+362,papa johns pizza,spicy italian pizza original crust pizza for one,14,g,30,mg,670,g,26,g,10,g,6,g,0,g,1,g,3,g
+363,papa johns pizza,spicy italian pizza original crust small,11,g,25,mg,580,g,26,g,9,g,4.5,g,0,g,1,g,3,g
+364,papa johns pizza,spicy italian pizza pan crust,17,g,35,mg,820,g,36,g,12,g,6,g,0,g,2,g,3,g
+365,papa johns pizza,spicy italian pizza thin crust,20,g,40,mg,710,g,20,g,11,g,7,g,0,g,1,g,2,g
+366,papa johns pizza,spinach alfredo chicken tomato pizza gluten free,7,g,20,mg,320,g,15,g,7,g,4,g,0,g,1,g,1,g
+367,papa johns pizza,spinach alfredo chicken tomato pizza original crust extra large,11,g,40,mg,770,g,39,g,15,g,6,g,0,g,2,g,4,g
+368,papa johns pizza,spinach alfredo chicken tomato pizza original crust large,10,g,35,mg,730,g,37,g,14,g,5,g,0,g,2,g,4,g
+369,papa johns pizza,spinach alfredo chicken tomato pizza original crust medium,8,g,25,mg,520,g,26,g,10,g,4,g,0,g,1,g,3,g
+370,papa johns pizza,spinach alfredo chicken tomato pizza original crust pizza for one,8,g,30,mg,550,g,25,g,11,g,4.5,g,0,g,1,g,3,g
+371,papa johns pizza,spinach alfredo chicken tomato pizza original crust small,7,g,20,mg,470,g,25,g,9,g,3.5,g,0,g,1,g,2,g
+372,papa johns pizza,spinach alfredo chicken tomato pizza pan crust,11,g,30,mg,670,g,34,g,12,g,5,g,0,g,2,g,2,g
+373,papa johns pizza,spinach alfredo chicken tomato pizza thin crust,12,g,35,mg,510,g,19,g,11,g,5,g,0,g,1,g,1,g
+374,papa johns pizza,spinach alfredo delight pizza gluten free,8,g,25,mg,400,g,15,g,7,g,4.5,g,0,g,1,g,1,g
+375,papa johns pizza,spinach alfredo delight pizza original crust extra large,11,g,30,mg,780,g,39,g,13,g,6,g,0,g,2,g,4,g
+376,papa johns pizza,spinach alfredo delight pizza original crust large,10,g,30,mg,730,g,37,g,12,g,5,g,0,g,2,g,4,g
+377,papa johns pizza,spinach alfredo delight pizza original crust medium,8,g,25,mg,530,g,26,g,9,g,4,g,0,g,1,g,3,g
+378,papa johns pizza,spinach alfredo delight pizza original crust pizza for one,8,g,25,mg,530,g,25,g,8,g,4.5,g,0,g,1,g,3,g
+379,papa johns pizza,spinach alfredo delight pizza original crust small,7,g,20,mg,490,g,25,g,8,g,3.5,g,0,g,1,g,2,g
+380,papa johns pizza,spinach alfredo delight pizza pan crust,13,g,30,mg,750,g,35,g,12,g,6,g,0,g,2,g,2,g
+381,papa johns pizza,spinach alfredo delight pizza thin crust,12,g,30,mg,510,g,19,g,9,g,5,g,0,g,1,g,1,g
+382,papa johns pizza,spinach alfredo deluxe pizza gluten free,9,g,25,mg,380,g,16,g,7,g,4.5,g,0,g,1,g,1,g
+383,papa johns pizza,spinach alfredo deluxe pizza original crust extra large,14,g,35,mg,830,g,40,g,13,g,7,g,0,g,2,g,4,g
+384,papa johns pizza,spinach alfredo deluxe pizza original crust large,13,g,35,mg,780,g,38,g,13,g,6,g,0,g,2,g,4,g
+385,papa johns pizza,spinach alfredo deluxe pizza original crust medium,9,g,25,mg,560,g,27,g,9,g,4.5,g,0,g,1,g,3,g
+386,papa johns pizza,spinach alfredo deluxe pizza original crust pizza for one,10,g,30,mg,580,g,26,g,9,g,5,g,0,g,1,g,3,g
+387,papa johns pizza,spinach alfredo deluxe pizza original crust small,9,g,25,mg,520,g,25,g,9,g,4,g,0,g,1,g,3,g
+388,papa johns pizza,spinach alfredo deluxe pizza pan crust,13,g,30,mg,710,g,35,g,11,g,6,g,0,g,2,g,2,g
+389,papa johns pizza,spinach alfredo deluxe pizza thin crust,14,g,35,mg,570,g,20,g,10,g,6,g,0,g,1,g,1,g
+390,papa johns pizza,spinach alfredo pizza gluten free,7,g,20,mg,280,g,15,g,5,g,4,g,0,g,1,g,1,g
+391,papa johns pizza,spinach alfredo pizza original crust extra large,11,g,30,mg,680,g,38,g,11,g,6,g,0,g,2,g,3,g
+392,papa johns pizza,spinach alfredo pizza original crust large,10,g,25,mg,650,g,36,g,10,g,5,g,0,g,1,g,3,g
+393,papa johns pizza,spinach alfredo pizza original crust medium,7,g,20,mg,470,g,25,g,7,g,4,g,0,g,1,g,2,g
+394,papa johns pizza,spinach alfredo pizza original crust pizza for one,8,g,20,mg,480,g,24,g,7,g,4.5,g,0,g,1,g,2,g
+395,papa johns pizza,spinach alfredo pizza original crust small,7,g,20,mg,430,g,24,g,7,g,3.5,g,0,g,1,g,2,g
+396,papa johns pizza,spinach alfredo pizza pan crust,11,g,25,mg,620,g,34,g,10,g,5,g,0,g,1,g,2,g
+397,papa johns pizza,spinach alfredo pizza thin crust,11,g,25,mg,430,g,18,g,8,g,5,g,0,g,0,g,1,g
+398,papa johns pizza,spinach alfredo sauce for gluten free pizza,1.5,g,5,mg,55,g,0,g,1,g,1,g,0,g,0,g,0,g
+399,papa johns pizza,spinach alfredo sauce for original crust extra large pizza,3,g,10,mg,100,g,1,g,1,g,1.5,g,0,g,0,g,0,g
+400,papa johns pizza,spinach alfredo sauce for original crust large pizza,2.5,g,5,mg,85,g,1,g,1,g,1.5,g,0,g,0,g,0,g
+401,papa johns pizza,spinach alfredo sauce for original crust medium pizza,1.5,g,5,mg,65,g,1,g,1,g,1,g,0,g,0,g,0,g
+402,papa johns pizza,spinach alfredo sauce for original crust pizza for one,2.5,g,5,mg,85,g,1,g,1,g,1.5,g,0,g,0,g,0,g
+403,papa johns pizza,spinach alfredo sauce for original crust small pizza,1.5,g,5,mg,55,g,0,g,1,g,1,g,0,g,0,g,0,g
+404,papa johns pizza,spinach alfredo sauce for pan crust pizza,1.5,g,5,mg,65,g,1,g,1,g,1,g,0,g,0,g,0,g
+405,papa johns pizza,spinach alfredo sauce for thin crust pizza,2.5,g,5,mg,85,g,1,g,1,g,1.5,g,0,g,0,g,0,g
+406,papa johns pizza,spinach alfredo six cheese pizza extra large,14,g,40,mg,790,g,39,g,15,g,8,g,0,g,2,g,3,g
+407,papa johns pizza,spinach alfredo six cheese pizza large,14,g,35,mg,750,g,36,g,14,g,7,g,0,g,1,g,3,g
+408,papa johns pizza,spinach alfredo six cheese pizza medium,10,g,25,mg,550,g,26,g,10,g,5,g,0,g,1,g,2,g
+409,papa johns pizza,spinach alfredo six cheese pizza original crust pizza for one,10,g,30,mg,550,g,24,g,10,g,6,g,0,g,1,g,2,g
+410,papa johns pizza,spinach alfredo six cheese pizza pan crust,14,g,30,mg,700,g,34,g,13,g,6,g,0,g,1,g,2,g
+411,papa johns pizza,spinach alfredo six cheese pizza small,9,g,25,mg,500,g,24,g,9,g,5,g,0,g,1,g,2,g
+412,papa johns pizza,spinach alfredo six cheese pizza thin crust,15,g,35,mg,540,g,18,g,12,g,7,g,0,g,0,g,1,g
+413,papa johns pizza,taco pizza pizza gluten free,12,g,25,mg,520,g,21,g,9,g,6,g,0,g,2,g,2,g
+414,papa johns pizza,taco pizza pizza original crust extra large,19,g,40,mg,1060,g,48,g,17,g,8,g,0.5,g,3,g,5,g
+415,papa johns pizza,taco pizza pizza original crust large,18,g,35,mg,1000,g,46,g,16,g,8,g,0.5,g,3,g,5,g
+416,papa johns pizza,taco pizza pizza original crust medium,12,g,25,mg,680,g,32,g,11,g,5,g,0,g,2,g,3,g
+417,papa johns pizza,taco pizza pizza original crust pizza for one,18,g,50,mg,770,g,29,g,16,g,9,g,0.5,g,2,g,3,g
+418,papa johns pizza,taco pizza pizza original crust small,12,g,25,mg,670,g,31,g,10,g,5,g,0,g,2,g,3,g
+419,papa johns pizza,taco pizza pizza pan crust,16,g,30,mg,830,g,41,g,13,g,6,g,0,g,2,g,3,g
+420,papa johns pizza,taco pizza pizza thin crust,19,g,35,mg,780,g,28,g,13,g,8,g,0.5,g,2,g,2,g
+421,papa johns pizza,the fiesta pizza original crust extra large,14,g,30,mg,900,g,41,g,13,g,6,g,0,g,2,g,5,g
+422,papa johns pizza,the fiesta pizza original crust large,13,g,30,mg,840,g,38,g,12,g,6,g,0,g,2,g,5,g
+423,papa johns pizza,the fiesta pizza original crust medium,9,g,20,mg,570,g,27,g,8,g,4,g,0,g,1,g,4,g
+424,papa johns pizza,the fiesta pizza original crust pizza for one,9,g,20,mg,580,g,26,g,8,g,4,g,0,g,1,g,3,g
+425,papa johns pizza,the fiesta pizza original crust small,9,g,20,mg,560,g,26,g,8,g,4,g,0,g,1,g,3,g
+426,papa johns pizza,the fiesta pizza pan crust,12,g,25,mg,730,g,36,g,10,g,5,g,0,g,2,g,3,g
+427,papa johns pizza,the fiesta pizza thin crust,15,g,30,mg,620,g,20,g,9,g,6,g,0,g,1,g,2,g
+428,papa johns pizza,the meats pizza gluten free,12,g,30,mg,550,g,16,g,8,g,5,g,0,g,1,g,2,g
+429,papa johns pizza,the meats pizza original crust extra large,19,g,45,mg,1130,g,41,g,17,g,8,g,0,g,2,g,5,g
+430,papa johns pizza,the meats pizza original crust large,17,g,45,mg,1040,g,38,g,15,g,7,g,0,g,2,g,5,g
+431,papa johns pizza,the meats pizza original crust medium,11,g,30,mg,710,g,27,g,11,g,5,g,0,g,1,g,3,g
+432,papa johns pizza,the meats pizza original crust pizza for one,12,g,30,mg,720,g,26,g,11,g,5,g,0,g,1,g,3,g
+433,papa johns pizza,the meats pizza original crust small,12,g,30,mg,700,g,26,g,10,g,5,g,0,g,1,g,3,g
+434,papa johns pizza,the meats pizza pan crust,15,g,35,mg,870,g,36,g,13,g,6,g,0,g,2,g,3,g
+435,papa johns pizza,the meats pizza thin crust,19,g,45,mg,820,g,20,g,13,g,7,g,0,g,1,g,2,g
+436,papa johns pizza,the workin fire pizza original crust extra large,16,g,35,mg,930,g,40,g,14,g,6,g,0,g,2,g,5,g
+437,papa johns pizza,the workin fire pizza original crust large,15,g,30,mg,870,g,38,g,13,g,6,g,0,g,2,g,5,g
+438,papa johns pizza,the workin fire pizza original crust medium,10,g,20,mg,600,g,26,g,9,g,4,g,0,g,1,g,3,g
+439,papa johns pizza,the workin fire pizza original crust pizza for one,11,g,25,mg,600,g,25,g,9,g,4.5,g,0,g,1,g,3,g
+440,papa johns pizza,the workin fire pizza original crust small,9,g,20,mg,560,g,25,g,8,g,3.5,g,0,g,1,g,3,g
+441,papa johns pizza,the workin fire pizza pan crust,15,g,30,mg,780,g,36,g,12,g,5,g,0,g,2,g,3,g
+442,papa johns pizza,the workin fire pizza thin crust,16,g,30,mg,660,g,20,g,11,g,6,g,0,g,1,g,2,g
+443,papa johns pizza,the works pizza gluten free,10,g,20,mg,440,g,16,g,7,g,4,g,0,g,1,g,2,g
+444,papa johns pizza,the works pizza original crust extra large,15,g,35,mg,940,g,41,g,14,g,6,g,0,g,2,g,6,g
+445,papa johns pizza,the works pizza original crust large,14,g,35,mg,890,g,39,g,13,g,6,g,0,g,2,g,5,g
+446,papa johns pizza,the works pizza original crust medium,9,g,25,mg,620,g,27,g,9,g,4,g,0,g,1,g,4,g
+447,papa johns pizza,the works pizza original crust pizza for one,10,g,25,mg,610,g,26,g,9,g,4,g,0,g,1,g,4,g
+448,papa johns pizza,the works pizza original crust small,9,g,20,mg,590,g,26,g,9,g,4,g,0,g,1,g,3,g
+449,papa johns pizza,the works pizza pan crust,13,g,30,mg,780,g,37,g,12,g,5,g,0,g,2,g,3,g
+450,papa johns pizza,the works pizza thin crust,15,g,35,mg,670,g,21,g,11,g,6,g,0,g,1,g,3,g
+451,papa johns pizza,thin crust,4,g,0,mg,125,g,16,g,3,g,0.5,g,0,g,0,g,0,g
+452,papa johns pizza,three cheese blend for gluten free pizza,1.5,g,5,mg,35,g,0,g,1,g,1,g,0,g,0,g,0,g
+453,papa johns pizza,three cheese blend for original crust extra large pizza,2,g,5,mg,55,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+454,papa johns pizza,three cheese blend for original crust large pizza,2,g,5,mg,55,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+455,papa johns pizza,three cheese blend for original crust medium pizza,1.5,g,5,mg,40,g,0,g,2,g,1,g,0,g,0,g,0,g
+456,papa johns pizza,three cheese blend for original crust pizza for one,1.5,g,5,mg,35,g,0,g,1,g,1,g,0,g,0,g,0,g
+457,papa johns pizza,three cheese blend for original crust small pizza,1.5,g,5,mg,35,g,0,g,1,g,1,g,0,g,0,g,0,g
+458,papa johns pizza,three cheese blend for pan crust pizza,1.5,g,5,mg,40,g,0,g,2,g,1,g,0,g,0,g,0,g
+459,papa johns pizza,three cheese blend for thin crust pizza,2,g,5,mg,55,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+460,papa johns pizza,tropical luau pizza pizza original crust extra large,7,g,15,mg,730,g,42,g,11,g,3,g,0,g,2,g,7,g
+461,papa johns pizza,tropical luau pizza pizza original crust large,6,g,15,mg,670,g,39,g,10,g,2.5,g,0,g,2,g,6,g
+462,papa johns pizza,tropical luau pizza pizza original crust medium,4.5,g,10,mg,470,g,27,g,7,g,2,g,0,g,1,g,4,g
+463,papa johns pizza,tropical luau pizza pizza original crust pizza for one,6,g,15,mg,530,g,27,g,8,g,2.5,g,0,g,1,g,5,g
+464,papa johns pizza,tropical luau pizza pizza original crust small,4.5,g,10,mg,450,g,26,g,6,g,1.5,g,0,g,1,g,4,g
+465,papa johns pizza,tropical luau pizza pizza pan crust,8,g,15,mg,580,g,36,g,8,g,2.5,g,0,g,2,g,3,g
+466,papa johns pizza,tropical luau pizza pizza thin crust,8,g,15,mg,450,g,21,g,7,g,2.5,g,0,g,1,g,4,g
+467,papa johns pizza,tuscan garden special pizza gluten free,8,g,15,mg,340,g,19,g,5,g,3,g,0,g,2,g,2,g
+468,papa johns pizza,tuscan garden special pizza original crust extra large,12,g,20,mg,770,g,45,g,11,g,4.5,g,0,g,3,g,6,g
+469,papa johns pizza,tuscan garden special pizza original crust large,11,g,20,mg,730,g,42,g,11,g,4,g,0,g,3,g,6,g
+470,papa johns pizza,tuscan garden special pizza original crust medium,8,g,15,mg,520,g,30,g,8,g,3,g,0,g,2,g,4,g
+471,papa johns pizza,tuscan garden special pizza original crust pizza for one,8,g,10,mg,480,g,28,g,7,g,2.5,g,0,g,2,g,4,g
+472,papa johns pizza,tuscan garden special pizza original crust small,8,g,15,mg,490,g,28,g,7,g,3,g,0,g,2,g,4,g
+473,papa johns pizza,tuscan garden special pizza pan crust,12,g,20,mg,680,g,39,g,10,g,4,g,0,g,2,g,4,g
+474,papa johns pizza,tuscan garden special pizza thin crust,13,g,20,mg,510,g,24,g,8,g,4,g,0,g,2,g,3,g
+475,papa johns pizza,tuscan garlic chicken pizza gluten free,7,g,10,mg,270,g,16,g,6,g,1.5,g,0,g,1,g,1,g
+476,papa johns pizza,tuscan garlic chicken pizza original crust extra large,17,g,45,mg,940,g,43,g,19,g,5,g,0,g,2,g,5,g
+477,papa johns pizza,tuscan garlic chicken pizza original crust large,16,g,45,mg,890,g,40,g,18,g,5,g,0,g,2,g,4,g
+478,papa johns pizza,tuscan garlic chicken pizza original crust medium,11,g,30,mg,630,g,28,g,12,g,3.5,g,0,g,2,g,3,g
+479,papa johns pizza,tuscan garlic chicken pizza original crust pizza for one,13,g,30,mg,640,g,27,g,12,g,4,g,0,g,2,g,3,g
+480,papa johns pizza,tuscan garlic chicken pizza original crust small,11,g,25,mg,560,g,27,g,10,g,3.5,g,0,g,1,g,3,g
+481,papa johns pizza,tuscan garlic chicken pizza pan crust,15,g,35,mg,790,g,37,g,15,g,4.5,g,0,g,2,g,3,g
+482,papa johns pizza,tuscan garlic chicken pizza thin crust,17,g,45,mg,670,g,22,g,15,g,5,g,0,g,1,g,2,g
+483,papa johns pizza,tuscan six cheese pizza gluten free,8,g,20,mg,380,g,16,g,7,g,4.5,g,0,g,1,g,2,g
+484,papa johns pizza,tuscan six cheese pizza original crust extra large,12,g,30,mg,810,g,40,g,14,g,6,g,0,g,2,g,5,g
+485,papa johns pizza,tuscan six cheese pizza original crust large,12,g,30,mg,780,g,38,g,14,g,6,g,0,g,2,g,5,g
+486,papa johns pizza,tuscan six cheese pizza original crust medium,9,g,20,mg,560,g,27,g,10,g,4.5,g,0,g,1,g,3,g
+487,papa johns pizza,tuscan six cheese pizza original crust pizza for one,9,g,20,mg,550,g,25,g,10,g,4,g,0,g,1,g,3,g
+488,papa johns pizza,tuscan six cheese pizza original crust small,8,g,20,mg,530,g,26,g,9,g,4,g,0,g,1,g,3,g
+489,papa johns pizza,tuscan six cheese pizza pan crust,13,g,25,mg,720,g,36,g,12,g,5,g,0,g,2,g,3,g
+490,papa johns pizza,tuscan six cheese pizza thin crust,13,g,30,mg,560,g,20,g,11,g,6,g,0,g,1,g,2,g
+491,papa johns pizza,ultimate meats pizza original crust extra large,21,g,50,mg,1290,g,41,g,17,g,8,g,0,g,2,g,5,g
+492,papa johns pizza,ultimate meats pizza original crust large,19,g,50,mg,1180,g,39,g,16,g,8,g,0,g,2,g,5,g
+493,papa johns pizza,ultimate meats pizza original crust medium,13,g,30,mg,810,g,27,g,11,g,5,g,0,g,1,g,3,g
+494,papa johns pizza,ultimate meats pizza original crust pizza for one,14,g,35,mg,850,g,26,g,12,g,6,g,0,g,1,g,4,g
+495,papa johns pizza,ultimate meats pizza original crust small,13,g,30,mg,800,g,26,g,11,g,5,g,0,g,1,g,3,g
+496,papa johns pizza,ultimate meats pizza pan crust,16,g,35,mg,970,g,36,g,13,g,6,g,0,g,2,g,3,g
+497,papa johns pizza,ultimate meats pizza thin crust,21,g,50,mg,970,g,21,g,14,g,8,g,0,g,1,g,2,g
+498,papa johns pizza,ultimate pepperoni pizza gluten free,13,g,30,mg,530,g,16,g,8,g,6,g,0,g,1,g,2,g
+499,papa johns pizza,ultimate pepperoni pizza original crust extra large,20,g,45,mg,1070,g,40,g,16,g,8,g,0,g,2,g,5,g
+500,papa johns pizza,ultimate pepperoni pizza original crust large,19,g,45,mg,1030,g,38,g,15,g,8,g,0,g,2,g,5,g
+501,papa johns pizza,ultimate pepperoni pizza original crust medium,13,g,35,mg,720,g,27,g,11,g,6,g,0,g,1,g,3,g
+502,papa johns pizza,ultimate pepperoni pizza original crust pizza for one,13,g,30,mg,700,g,25,g,10,g,5,g,0,g,1,g,3,g
+503,papa johns pizza,ultimate pepperoni pizza original crust small,12,g,30,mg,680,g,26,g,10,g,5,g,0,g,1,g,3,g
+504,papa johns pizza,ultimate pepperoni pizza pan crust,17,g,35,mg,880,g,36,g,13,g,7,g,0,g,2,g,3,g
+505,papa johns pizza,ultimate pepperoni pizza thin crust,21,g,45,mg,810,g,20,g,13,g,8,g,0,g,1,g,2,g
+506,papa johns pizza,unsauced roasted wings 16 wings,113,g,415,mg,2920,g,8,g,133,g,29,g,0,g,0,g,1,g
+507,papa johns pizza,unsauced roasted wings 24 wings,170,g,620,mg,4380,g,12,g,199,g,44,g,0,g,0,g,1,g
+508,papa johns pizza,unsauced roasted wings 32 wings,226,g,825,mg,5830,g,16,g,265,g,59,g,0,g,0,g,1,g
+509,papa johns pizza,unsauced roasted wings 50 wings,353,g,1295,mg,9120,g,25,g,415,g,92,g,0,g,0,g,2,g
+510,papa johns pizza,unsauced roasted wings 8 wings,57,g,205,mg,1460,g,4,g,66,g,15,g,0,g,0,g,0,g
+511,papa johns pizza,veggie calzone,10,g,25,mg,580,g,38,g,11,g,5,g,0,g,2,g,4,g
+512,papa johns pizza,veggie sandwich,37,g,65,mg,1810,g,59,g,25,g,14,g,1,g,5,g,3,g
+513,papa johns pizza,western omelet pizza original crust large,18,g,145,mg,950,g,38,g,16,g,7,g,0,g,2,g,4,g
+514,papa johns pizza,western omelet pizza original crust pizza for one,10,g,95,mg,620,g,25,g,11,g,4,g,0,g,1,g,2,g
+515,papa johns pizza,white pizza pizza gluten free,7,g,15,mg,230,g,15,g,5,g,3.5,g,0,g,1,g,1,g
+516,papa johns pizza,white pizza pizza original crust extra large,10,g,25,mg,580,g,39,g,11,g,5,g,0,g,1,g,4,g
+517,papa johns pizza,white pizza pizza original crust large,8,g,30,mg,450,g,29,g,8,g,4,g,0,g,1,g,3,g
+518,papa johns pizza,white pizza pizza original crust medium,7,g,20,mg,400,g,26,g,8,g,3.5,g,0,g,1,g,2,g
+519,papa johns pizza,white pizza pizza original crust pizza for one,6,g,15,mg,350,g,24,g,7,g,3,g,0,g,1,g,2,g
+520,papa johns pizza,white pizza pizza original crust small,7,g,15,mg,380,g,25,g,7,g,3.5,g,0,g,1,g,2,g
+521,papa johns pizza,white pizza pizza pan crust,12,g,25,mg,560,g,35,g,10,g,5,g,0,g,1,g,2,g
+522,papa johns pizza,white pizza pizza thin crust,11,g,25,mg,340,g,19,g,8,g,5,g,0,g,0,g,1,g
+523,papa johns pizza,white veggie pizza gluten free,5,g,0,mg,150,g,14,g,2,g,1.5,g,0,g,1,g,1,g
+524,papa johns pizza,white veggie pizza original crust extra large,13,g,20,mg,690,g,39,g,10,g,5,g,0,g,2,g,4,g
+525,papa johns pizza,white veggie pizza original crust large,13,g,20,mg,660,g,37,g,10,g,4.5,g,0,g,2,g,4,g
+526,papa johns pizza,white veggie pizza original crust medium,9,g,15,mg,480,g,26,g,7,g,3.5,g,0,g,1,g,3,g
+527,papa johns pizza,white veggie pizza original crust pizza for one,9,g,15,mg,470,g,25,g,7,g,3.5,g,0,g,1,g,3,g
+528,papa johns pizza,white veggie pizza original crust small,9,g,15,mg,440,g,25,g,7,g,3,g,0,g,1,g,3,g
+529,papa johns pizza,white veggie pizza pan crust,22,g,20,mg,790,g,35,g,9,g,6,g,0,g,2,g,2,g
+530,papa johns pizza,white veggie pizza thin crust,14,g,20,mg,450,g,19,g,7,g,4.5,g,0,g,1,g,1,g
+531,papa johns pizza,who dey pizza original crust extra large,15,g,35,mg,880,g,40,g,14,g,7,g,0,g,2,g,5,g
+532,papa johns pizza,who dey pizza original crust large,15,g,35,mg,860,g,38,g,13,g,7,g,0,g,2,g,5,g
+533,papa johns pizza,who dey pizza original crust medium,10,g,25,mg,580,g,26,g,9,g,4.5,g,0,g,1,g,3,g
+534,papa johns pizza,who dey pizza original crust pizza for one,11,g,25,mg,600,g,25,g,9,g,4.5,g,0,g,1,g,3,g
+535,papa johns pizza,who dey pizza original crust small,10,g,20,mg,550,g,25,g,9,g,4,g,0,g,1,g,3,g
+536,papa johns pizza,who dey pizza pan crust,15,g,30,mg,760,g,35,g,12,g,6,g,0,g,2,g,3,g
+537,papa johns pizza,who dey pizza thin crust,17,g,35,mg,640,g,20,g,11,g,6,g,0,g,1,g,2,g
+538,papa johns pizza,wisconsin cheese stuffed 10 inch,8,g,15,mg,420,g,24,g,8,g,4,g,0,g,1,g,2,g
+539,papa johns pizza,wisconsin cheese stuffed 8 inch,8,g,15,mg,400,g,23,g,7,g,3.5,g,0,g,1,g,2,g
+540,papa johns pizza,zesty italian hoagie,49,g,150,mg,1880,g,81,g,51,g,21,g,2,g,4,g,13,g
+541,papa johns pizza,zesty jalapeno meats pizza original crust extra large,16,g,35,mg,930,g,40,g,14,g,6,g,0,g,2,g,5,g
+542,papa johns pizza,zesty jalapeno meats pizza original crust large,15,g,30,mg,870,g,38,g,13,g,6,g,0,g,2,g,5,g
+543,papa johns pizza,zesty jalapeno meats pizza original crust medium,10,g,20,mg,600,g,26,g,9,g,4,g,0,g,1,g,3,g
+544,papa johns pizza,zesty jalapeno meats pizza original crust pizza for one,11,g,25,mg,600,g,25,g,9,g,4.5,g,0,g,1,g,3,g
+545,papa johns pizza,zesty jalapeno meats pizza original crust small,9,g,20,mg,560,g,25,g,8,g,3.5,g,0,g,1,g,3,g
+546,papa johns pizza,zesty jalapeno meats pizza pan crust,15,g,30,mg,780,g,36,g,12,g,5,g,0,g,2,g,3,g
+547,papa johns pizza,zesty jalapeno meats pizza thin crust,16,g,30,mg,660,g,20,g,11,g,6,g,0,g,1,g,2,g
+548,www.menuwithnutrition.com,papa johns pizza menu,,,,,,,,,,,,,,,,,,
+549,papa murphys,scratch made 5 cheese bread,9,g,15,mg,490,g,23,g,8,g,4,g,0,g,0,g,3,g
+550,papa murphys,thick n cheesy homebaked bread,9,g,15,mg,490,g,23,g,8,g,4,g,0,g,0,g,3,g
+551,papa murphys,cinnamon wheel without frosting,3.3,g,0,mg,208,g,21,g,2.5,g,1.3,g,0,g,0.3,g,6.8,g
+552,papa murphys,smores dessert pizza,7,g,0,mg,290,g,44,g,5,g,3.5,g,0,g,1,g,18,g
+553,papa murphys,classic cheesy bread without sauce,7,g,5,mg,570,g,32,g,7,g,2.5,g,0,g,0,g,4,g
+554,papa murphys,papas favorite thin crust pizza large,14,g,35,mg,570,g,18,g,12,g,6,g,0,g,0.5,g,2,g
+555,papa murphys,pepperoni original crust pizza large,16,g,40,mg,800,g,34,g,15,g,8,g,0,g,0,g,6,g
+556,papa murphys,chicken bacon artichoke thin crust pizza large,13,g,40,mg,550,g,17,g,14,g,5,g,0,g,0.5,g,0.5,g
+557,papa murphys,cowboy original crust pizza family size,19,g,50,mg,960,g,32,g,17,g,9,g,0,g,0.5,g,6,g
+558,papa murphys,gourmet vegetarian thin crust pizza large,12,g,30,mg,350,g,17,g,11,g,6,g,0,g,0.5,g,1,g
+559,papa murphys,gourmet vegetarian original crust pizza family size,16,g,35,mg,690,g,32,g,15,g,7,g,0,g,0.5,g,5,g
+560,papa murphys,pepperoni thin crust pizza large,11,g,30,mg,380,g,16,g,10,g,5,g,0,g,0,g,2,g
+561,papa murphys,herb chicken mediterranean thin crust pizza family size,9,g,30,mg,410,g,21,g,12,g,4.5,g,0,g,2,g,3,g
+562,papa murphys,chicken garlic original crust pizza family size,15,g,50,mg,810,g,30,g,18,g,7,g,0,g,0,g,5,g
+563,papa murphys,herb chicken mediterranean thin crust pizza large,10,g,30,mg,430,g,20,g,12,g,5,g,0,g,2,g,3,g
+564,papa murphys,hawaiian original crust pizza family size,10,g,30,mg,680,g,33,g,13,g,5,g,0,g,0,g,8,g
+565,papa murphys,chicago style stuffed pizza large,19,g,45,mg,1170,g,59,g,20,g,8,g,0,g,0.5,g,9,g
+566,papa murphys,5 meat stuffed crust pizza family size,18,g,50,mg,1160,g,52,g,20,g,8,g,0,g,0.5,g,8,g
+567,papa murphys,garden veggie thin crust pizza large,8,g,25,mg,340,g,18,g,9,g,4.5,g,0,g,0.5,g,3,g
+568,papa murphys,all meat original crust pizza family size,18,g,50,mg,960,g,31,g,17,g,8,g,0,g,0,g,6,g
+569,papa murphys,cowboy thin crust pizza large,15,g,40,mg,590,g,18,g,13,g,7,g,0,g,0,g,2,g
+570,papa murphys,papas favorite original crust pizza family size,17,g,45,mg,940,g,33,g,16,g,8,g,0,g,0.5,g,6,g
+571,papa murphys,thai chicken thin crust pizza family size,9,g,35,mg,530,g,24,g,12,g,4.5,g,0,g,0,g,7,g
+572,papa murphys,pepperoni original crust pizza family size,14,g,35,mg,710,g,31,g,13,g,7,g,0,g,0,g,5,g
+573,papa murphys,chicken garlic thin crust pizza large,12,g,40,mg,450,g,16,g,13,g,6,g,0,g,0,g,1,g
+574,papa murphys,bbq chicken original crust pizza medium,11,g,40,mg,720,g,29,g,15,g,6,g,0,g,0,g,7,g
+575,papa murphys,tuscan chicken and sausage thin crust pizza family size,11,g,35,mg,430,g,16,g,12,g,5,g,0,g,0.5,g,0.5,g
+576,papa murphys,hawaiian thin crust pizza large,8,g,25,mg,360,g,19,g,10,g,4,g,0,g,0,g,4,g
+577,papa murphys,chicken bacon artichoke thin crust pizza family size,12,g,40,mg,530,g,18,g,14,g,5,g,0,g,0.5,g,0.5,g
+578,papa murphys,murphys combo original crust pizza family size,18,g,45,mg,930,g,33,g,15,g,8,g,0,g,0.5,g,6,g
+579,papa murphys,cowboy original crust pizza large,21,g,55,mg,1080,g,36,g,18,g,10,g,0,g,0.5,g,6,g
+580,papa murphys,pepperoni original crust pizza medium,11,g,30,mg,580,g,25,g,11,g,6,g,0,g,0,g,5,g
+581,papa murphys,chicken and bacon stuffed pizza family size,17,g,50,mg,1090,g,51,g,21,g,7,g,0,g,0.5,g,8,g
+582,papa murphys,all meat thin crust pizza large,3,g,40,mg,550,g,17,g,12,g,6,g,0,g,0,g,2,g
+583,papa murphys,garden veggie original crust pizza family size,11,g,25,mg,640,g,33,g,12,g,5,g,0,g,0.5,g,6,g
+584,papa murphys,papas favorite original crust pizza large,20,g,50,mg,1070,g,37,g,18,g,9,g,0,g,0.5,g,7,g
+585,papa murphys,bbq chicken thin crust pizza large,10,g,40,mg,520,g,21,g,14,g,6,g,0,g,0,g,4,g
+586,papa murphys,mini murp take n make cheese pizza kits,19,g,50,mg,1140,g,63,g,22,g,10,g,0,g,0,g,8,g
+587,papa murphys,herb chicken mediterranean original crust pizza medium,11,g,30,mg,630,g,28,g,13,g,5,g,0,g,2,g,5,g
+588,papa murphys,murphys combo thin crust pizza large,14,g,40,mg,530,g,18,g,12,g,6,g,0,g,0.5,g,2,g
+589,papa murphys,chicken garlic thin crust pizza family size,11,g,35,mg,430,g,17,g,13,g,5,g,0,g,0,g,1,g
+590,papa murphys,cowboy thin crust pizza family size,14,g,35,mg,560,g,19,g,12,g,7,g,0,g,0.5,g,2,g
+591,papa murphys,big murphys stuffed crust pizza family size,18,g,45,mg,1110,g,53,g,19,g,8,g,0,g,0.5,g,8,g
+592,papa murphys,all meat original crust pizza large,20,g,55,mg,1070,g,35,g,19,g,9,g,0,g,0.5,g,6,g
+593,papa murphys,chicago style stuffed crust pizza family size,18,g,45,mg,1100,g,52,g,19,g,8,g,0,g,0.5,g,8,g
+594,papa murphys,pepperoni thin crust pizza family size,12,g,30,mg,440,g,18,g,10,g,6,g,0,g,0,g,2,g
+595,papa murphys,chicken bacon artichoke original crust pizza family size,13,g,50,mg,910,g,37,g,18,g,7,g,0,g,0,g,9,g
+596,papa murphys,thai chicken original crust pizza large,14,g,50,mg,1050,g,45,g,19,g,7,g,0,g,0.5,g,15,g
+597,papa murphys,chicken and bacon stuffed pizza large,17,g,50,mg,1180,g,58,g,22,g,7,g,0,g,0.5,g,8,g
+598,papa murphys,cowboy original crust pizza medium,16,g,40,mg,790,g,26,g,14,g,7,g,0,g,0,g,5,g
+599,papa murphys,gourmet vegetarian thin crust pizza family size,11,g,30,mg,30,g,18,g,10,g,5,g,0,g,0.5,g,1,g
+600,papa murphys,all meat thin crust pizza family size,13,g,35,mg,550,g,18,g,12,g,6,g,0,g,0,g,2,g
+601,papa murphys,garden veggie thin crust pizza family size,8,g,20,mg,330,g,20,g,8,g,4,g,0,g,0.5,g,3,g
+602,papa murphys,hawaiian thin crust pizza family size,7,g,25,mg,360,g,20,g,9,g,4,g,0,g,0,g,4,g
+603,papa murphys,chicken bacon artichoke original crust pizza medium,13,g,40,mg,750,g,26,g,15,g,6,g,0,g,0.5,g,4,g
+604,papa murphys,tuscan chicken and sausage original crust pizza large,18,g,55,mg,920,g,35,g,20,g,8,g,0,g,0.5,g,5,g
+605,papa murphys,5 meat stuffed crust pizza large,19,g,45,mg,1230,g,59,g,21,g,8,g,0,g,0.5,g,9,g
+606,papa murphys,chicken garlic original crust pizza medium,12,g,40,mg,650,g,25,g,14,g,6,g,0,g,0,g,4,g
+607,papa murphys,papas favorite thin crust pizza family size,10.3,g,28,mg,444,g,15.8,g,8.7,g,4.8,g,0,g,0.4,g,2.4,g
+608,papa murphys,thai chicken original crust pizza family size,12,g,45,mg,950,g,40,g,17,g,6,g,0,g,0,g,14,g
+609,papa murphys,gourmet vegetarian original crust pizza medium,13,g,30,mg,560,g,26,g,12,g,6,g,0,g,0.5,g,4,g
+610,papa murphys,rancher original crust pizza large,16,g,50,mg,960,g,36,g,17,g,8,g,0,g,0.5,g,7,g
+611,papa murphys,big murphy stuffed crust pizza large,18,g,45,mg,1170,g,59,g,20,g,8,g,0,g,0.5,g,9,g
+612,papa murphys,bbq chicken original crust pizza family size,13,g,50,mg,910,g,37,g,18,g,7,g,0,g,0,g,9,g
+613,papa murphys,gourmet vegetarian original crust pizza large,18,g,40,mg,770,g,36,g,16,g,8,g,0,g,1,g,5,g
+614,papa murphys,murphys combo original crust pizza medium,15,g,0,mg,780,g,27,g,13,g,7,g,0,g,0.5,g,5,g
+615,papa murphys,chicken bacon artichoke original crust pizza large,18,g,60,mg,1060,g,36,g,22,g,8,g,0,g,1,g,5,g
+616,papa murphys,chicken garlic original crust pizza large,17,g,55,mg,910,g,34,g,20,g,8,g,0,g,0,g,5,g
+617,papa murphys,hawaiian original crust pizza large,11,g,35,mg,780,g,38,g,15,g,6,g,0,g,0.5,g,9,g
+618,papa murphys,thai chicken thin crust pizza large,9,g,35,mg,570,g,24,g,13,g,5,g,0,g,0,g,8,g
+619,papa murphys,herb chicken mediterranean original crust pizza large,15,g,45,mg,870,g,40,g,19,g,7,g,0,g,3,g,8,g
+620,papa murphys,murphys combo thin crust pizza family size,13,g,35,mg,550,g,19,g,11,g,6,g,0,g,0.5,g,3,g
+621,papa murphys,bbq chicken thin crust pizza family size,9,g,35,mg,500,g,22,g,13,g,5,g,0,g,0,g,4,g
+622,papa murphys,murphys combo original crust pizza large,20,g,50,mg,1060,g,37,g,18,g,9,g,0,g,0.5,g,7,g
+623,papa murphys,tuscan chicken and sausage original crust pizza family size,16,g,45,mg,820,g,31,g,17,g,7,g,0,g,0.5,g,5,g
+624,papa murphys,garden veggie original crust pizza large,120.1,g,300,mg,7304,g,370.2,g,140.1,g,60,g,0,g,5,g,70,g
+625,papa murphys,hawaiian original crust pizza medium,8,g,25,mg,560,g,27,g,11,g,4.5,g,0,g,0,g,7,g
+626,papa murphys,herb chicken mediterranean original crust pizza family size,13,g,40,mg,780,g,36,g,16,g,6,g,0,g,3,g,7,g
+627,papa murphys,rancher thin crust pizza family size,10,g,30,mg,480,g,19,g,11,g,5,g,0,g,0,g,3,g
+628,papa murphys,garden veggie original crust pizza medium,9,g,25,mg,540,g,27,g,10,g,4.5,g,0,g,0.5,g,5,g
+629,papa murphys,all meat original crust pizza medium,14,g,40,mg,750,g,26,g,13,g,6,g,0,g,0,g,5,g
+630,papa murphys,bbq chicken original crust pizza large,15,g,55,mg,1010,g,41,g,21,g,8,g,0,g,0,g,9,g
+631,papa murphys,papas favorite original crust pizza medium,14,g,35,mg,770,g,27,g,13,g,6,g,0,g,0.5,g,5,g
+632,papa murphys,rancher thin crust pizza large,11,g,35,mg,490,g,17,g,11,g,6,g,0,g,0,g,2,g
+633,papa murphys,rancher original crust pizza family size,14,g,40,mg,850,g,32,g,15,g,7,g,0,g,0.5,g,6,g
+634,papa murphys,rancher original crust pizza medium,12,g,35,mg,690,g,26,g,12,g,6,g,0,g,0,g,5,g
+635,papa murphys,mini murp take n make pepperoni pizza kits,26,g,70,mg,1390,g,63,g,26,g,13,g,0,g,0,g,8,g
+636,papa murphys,thai chicken orignal crust pizza medium,10,g,35,mg,770,g,33,g,14,g,5,g,0,g,0,g,11,g
+637,papa murphys,tuscan chicken and sausage original crust pizza medium,13,g,40,mg,670,g,25,g,14,g,6,g,0,g,0.5,g,4,g
+638,papa murphys,caesar salad dressing,15,g,15,mg,170,g,1,g,1,g,1.5,g,0,g,0,g,0,g
+639,papa murphys,buttermilk ranch salad dressing,0.4,g,0.0001,mg,7,g,0.0001,g,0,g,0.0001,g,0,g,0,g,0.0001,g
+640,papa murphys,bleu cheese salad dressing,16,g,15,mg,220,g,1,g,1,g,1.5,g,0,g,0,g,1,g
+641,papa murphys,low calorie italian salad dressing,0.0001,g,0,mg,11,g,0.0001,g,0,g,0,g,0,g,0,g,0.0001,g
+642,papa murphys,croutons,3.5,g,0,mg,140,g,11,g,2,g,0,g,0,g,0,g,0,g
+643,papa murphys,balsamic vinaigrette,7,g,0,mg,150,g,2,g,0,g,0.5,g,0,g,0,g,2,g
+644,papa murphys,thousand island salad dressing,13,g,10,mg,230,g,3,g,0,g,1,g,0,g,0,g,2,g
+645,papa murphys,chicken caesar salad without dressing or croutons,6,g,65,mg,870,g,8,g,25,g,2.5,g,0,g,5,g,4,g
+646,papa murphys,club salad without dressing or croutons,16,g,65,mg,940,g,12,g,23,g,8,g,0,g,6,g,5,g
+647,papa murphys,mediterranean salad without dressing or croutons,17,g,40,mg,1110,g,23,g,14,g,10,g,0,g,10,g,8,g
+648,papa murphys,garden salad without dressing or croutons,11,g,25,mg,420,g,13,g,10,g,5,g,0,g,6,g,6,g
+649,papa murphys,italian salad without dressing or croutons,19,g,50,mg,710,g,11,g,13,g,9,g,0,g,6,g,4,g
+650,papa murphys,chicken bacon artichoke salad without croutons or dressing,17,g,85,mg,1570,g,11,g,34,g,7,g,0,g,7,g,4,g
+651,papa murphys,caesar salad without dressing or croutons,5,g,10,mg,230,g,7,g,8,g,2.5,g,0,g,5,g,3,g
+652,papa murphys,marinara sauce,3,g,0,mg,430,g,13,g,1,g,0,g,0,g,0.5,g,10,g
+653,papa murphys,cream cheese frosting,3.1,g,4,mg,39,g,4.4,g,0.4,g,1.6,g,0,g,0,g,4.1,g
+654,papa murphys,1000 island dressing,13,g,10,mg,230,g,3,g,0,g,1,g,0,g,0,g,2,g
+655,papa murphys,5 meat stuffed pizza family slice,18,g,50,mg,1170,g,49,g,13,g,8,g,0,g,2,g,4,g
+656,papa murphys,5 meat stuffed pizza large slice,18,g,50,mg,1240,g,55,g,12,g,8,g,0,g,2,g,5,g
+657,papa murphys,all meat crustless slice,12,g,40,mg,510,g,3,g,10,g,6,g,0,g,0,g,2,g
+658,papa murphys,all meat family slice,17,g,50,mg,990,g,30,g,12,g,8,g,0,g,1,g,4,g
+659,papa murphys,all meat large slice,19,g,55,mg,1100,g,33,g,14,g,9,g,0,g,1,g,4,g
+660,papa murphys,all meat medium slice,14,g,40,mg,770,g,24,g,10,g,6,g,0,g,1,g,3,g
+661,papa murphys,all meat thin family slice,13,g,35,mg,580,g,18,g,12,g,6,g,0,g,0,g,2,g
+662,papa murphys,all meat thin large slice,13,g,40,mg,580,g,17,g,12,g,6,g,0,g,0,g,2,g
+663,papa murphys,bacon cheeseburger crustless slice,13,g,40,mg,730,g,4,g,11,g,7,g,0,g,0,g,3,g
+664,papa murphys,bacon cheeseburger family slice,18,g,50,mg,1240,g,32,g,13,g,8,g,0,g,1,g,6,g
+665,papa murphys,bacon cheeseburger large slice,20,g,60,mg,1370,g,35,g,15,g,10,g,0,g,1,g,6,g
+666,papa murphys,bacon cheeseburger medium slice,14,g,40,mg,1000,g,26,g,11,g,7,g,0,g,1,g,5,g
+667,papa murphys,bacon cheeseburger thin family slice,13,g,40,mg,750,g,19,g,12,g,6,g,0,g,0,g,3,g
+668,papa murphys,bacon cheeseburger thin large slice,14,g,40,mg,800,g,18,g,13,g,7,g,0,g,0,g,4,g
+669,papa murphys,balsamic vinaigrette,7,g,0,mg,150,g,2,g,0,g,0.5,g,0,g,0,g,2,g
+670,papa murphys,bbq chicken crustless slice,9,g,40,mg,450,g,7,g,11,g,5,g,0,g,0,g,4,g
+671,papa murphys,bbq chicken family slice,13,g,50,mg,890,g,36,g,14,g,6,g,0,g,1,g,7,g
+672,papa murphys,bbq chicken large slice,14,g,55,mg,1000,g,40,g,16,g,7,g,0,g,1,g,7,g
+673,papa murphys,bbq chicken medium slice,11,g,40,mg,720,g,29,g,11,g,5,g,0,g,1,g,5,g
+674,papa murphys,bbq chicken thin family slice,9,g,35,mg,500,g,22,g,13,g,5,g,0,g,0,g,4,g
+675,papa murphys,bbq chicken thin large slice,10,g,40,mg,520,g,21,g,13,g,5,g,0,g,0,g,4,g
+676,papa murphys,big murphys stuffed pizza family slice,18,g,45,mg,1120,g,50,g,12,g,8,g,0,g,2,g,5,g
+677,papa murphys,big murphys stuffed pizza large slice,18,g,45,mg,1180,g,56,g,11,g,8,g,0,g,2,g,5,g
+678,papa murphys,bleu cheese dressing,16,g,15,mg,220,g,1,g,100,g,1.5,g,0,g,0,g,1,g
+679,papa murphys,buttermilk ranch dressing,12,g,10,mg,200,g,2,g,0,g,1,g,0,g,0,g,2,g
+680,papa murphys,caesar salad,5,g,10,mg,230,g,7,g,8,g,2.5,g,0,g,5,g,3,g
+681,papa murphys,caesar salad dressing,15,g,15,mg,170,g,1,g,1,g,1.5,g,0,g,0,g,0,g
+682,papa murphys,chicago style stuffed pizza family slice,18,g,45,mg,1110,g,49,g,12,g,8,g,0,g,2,g,5,g
+683,papa murphys,chicago style stuffed pizza large slice,18,g,45,mg,1180,g,56,g,12,g,8,g,0,g,2,g,5,g
+684,papa murphys,chicken alfredo crustless slice,7,g,35,mg,360,g,2,g,10,g,4.5,g,0,g,0,g,1,g
+685,papa murphys,chicken alfredo family slice,11,g,45,mg,780,g,28,g,12,g,6,g,0,g,1,g,2,g
+686,papa murphys,chicken alfredo large slice,12,g,50,mg,880,g,32,g,14,g,7,g,0,g,1,g,3,g
+687,papa murphys,chicken alfredo medium slice,9,g,35,mg,630,g,23,g,10,g,4.5,g,0,g,1,g,2,g
+688,papa murphys,chicken alfredo thin family slice,8,g,30,mg,420,g,17,g,12,g,4.5,g,0,g,0,g,1,g
+689,papa murphys,chicken alfredo thin large slice,8,g,35,mg,430,g,16,g,12,g,4.5,g,0,g,0,g,1,g
+690,papa murphys,chicken bacon artichoke crustless slice,11,g,40,mg,490,g,3,g,11,g,5,g,0,g,1,g,1,g
+691,papa murphys,chicken bacon artichoke family slice,15,g,50,mg,930,g,30,g,15,g,6,g,0,g,2,g,2,g
+692,papa murphys,chicken bacon artichoke large slice,17,g,55,mg,1060,g,34,g,17,g,7,g,0,g,2,g,3,g
+693,papa murphys,chicken bacon artichoke medium slice,13,g,40,mg,760,g,25,g,12,g,5,g,0,g,1,g,2,g
+694,papa murphys,chicken bacon artichoke thin family slice,11,g,35,mg,540,g,18,g,13,g,5,g,0,g,1,g,1,g
+695,papa murphys,chicken bacon artichoke thin large slice,12,g,40,mg,560,g,17,g,14,g,5,g,0,g,1,g,1,g
+696,papa murphys,chicken bacon artichoke salad,17,g,85,mg,1570,g,11,g,34,g,7,g,0,g,7,g,4,g
+697,papa murphys,chicken bacon stuffed pizza family slice,16,g,50,mg,1080,g,49,g,13,g,7,g,0,g,2,g,4,g
+698,papa murphys,chicken bacon stuffed pizza large slice,16,g,50,mg,1160,g,55,g,13,g,7,g,0,g,2,g,4,g
+699,papa murphys,chicken caesar salad,6,g,65,mg,870,g,8,g,25,g,2.5,g,0,g,5,g,4,g
+700,papa murphys,chicken garlic crustless slice,10,g,40,mg,380,g,3,g,10,g,5,g,0,g,0,g,1,g
+701,papa murphys,chicken garlic family slice,14,g,50,mg,800,g,29,g,13,g,7,g,0,g,1,g,3,g
+702,papa murphys,chicken garlic large slice,16,g,55,mg,910,g,33,g,15,g,7,g,0,g,1,g,3,g
+703,papa murphys,chicken garlic medium slice,11,g,40,mg,650,g,24,g,11,g,5,g,0,g,1,g,2,g
+704,papa murphys,chicken garlic thin family slice,10,g,35,mg,440,g,17,g,12,g,5,g,0,g,0,g,1,g
+705,papa murphys,chicken garlic thin large slice,11,g,40,mg,450,g,17,g,12,g,5,g,0,g,0,g,1,g
+706,papa murphys,chocolate chip cookie,88,g,70,mg,1780,g,271,g,19,g,40,g,0,g,8,g,162,g
+707,papa murphys,chocolate chip cookie 1 slice of 8,11,g,10,mg,220,g,34,g,2,g,5,g,0,g,1,g,20,g
+708,papa murphys,cinnamon wheel,53,g,0,mg,3320,g,336,g,40,g,20,g,0,g,4,g,108,g
+709,papa murphys,cinnamon wheel 2 slices of 16,7,g,0,mg,410,g,42,g,5,g,2.5,g,0,g,0,g,13,g
+710,papa murphys,classic cheesy bread,57,g,50,mg,4550,g,252,g,54,g,22,g,0,g,2,g,35,g
+711,papa murphys,classic cheesy bread 2 slices of 16,7,g,5,mg,570,g,32,g,7,g,2.5,g,0,g,0,g,4,g
+712,papa murphys,club salad,16,g,65,mg,940,g,12,g,23,g,8,g,0,g,6,g,5,g
+713,papa murphys,cowboy crustless slice,14,g,40,mg,540,g,4,g,10,g,7,g,0,g,0,g,2,g
+714,papa murphys,cowboy family slice,18,g,50,mg,980,g,31,g,13,g,9,g,0,g,1,g,4,g
+715,papa murphys,cowboy large slice,21,g,55,mg,1110,g,35,g,14,g,10,g,0,g,2,g,4,g
+716,papa murphys,cowboy medium slice,15,g,40,mg,810,g,25,g,10,g,7,g,0,g,1,g,3,g
+717,papa murphys,cowboy thin family slice,14,g,35,mg,590,g,19,g,12,g,6,g,0,g,1,g,3,g
+718,papa murphys,cowboy thin large slice,15,g,40,mg,610,g,18,g,12,g,7,g,0,g,0,g,2,g
+719,papa murphys,cream cheese frosting,25,g,35,mg,310,g,35,g,3,g,13,g,0,g,0,g,33,g
+720,papa murphys,cream cheese frosting 1 8th of cup,3,g,5,mg,40,g,4,g,0,g,1.5,g,0,g,0,g,4,g
+721,papa murphys,croutons,3.5,g,0,mg,140,g,11,g,2,g,0,g,0,g,0,g,0,g
+722,papa murphys,fiesta chicken crustless slice,11,g,35,mg,400,g,4,g,10,g,5,g,0,g,0,g,1,g
+723,papa murphys,fiesta chicken family slice,15,g,40,mg,830,g,32,g,13,g,6,g,0,g,1,g,3,g
+724,papa murphys,fiesta chicken large slice,17,g,45,mg,920,g,36,g,14,g,7,g,0,g,2,g,4,g
+725,papa murphys,fiesta chicken medium slice,13,g,35,mg,670,g,26,g,10,g,5,g,0,g,1,g,2,g
+726,papa murphys,fiesta chicken thin family slice,9,g,20,mg,350,g,18,g,9,g,3.5,g,0,g,0,g,1,g
+727,papa murphys,fiesta chicken thin large slice,12,g,35,mg,480,g,18,g,12,g,5,g,0,g,0,g,2,g
+728,papa murphys,frito outlaw crustless slice,13,g,35,mg,290,g,5,g,8,g,6,g,0,g,0,g,2,g
+729,papa murphys,frito outlaw family slice,17,g,40,mg,680,g,33,g,10,g,7,g,0,g,1,g,4,g
+730,papa murphys,frito outlaw large slice,19,g,45,mg,760,g,37,g,11,g,8,g,0,g,1,g,4,g
+731,papa murphys,frito outlaw medium slice,14,g,35,mg,560,g,27,g,9,g,6,g,0,g,1,g,3,g
+732,papa murphys,frito outlaw thin family slice,13,g,30,mg,340,g,20,g,10,g,5,g,0,g,0,g,2,g
+733,papa murphys,frito outlaw thin large slice,14,g,35,mg,360,g,19,g,11,g,6,g,0,g,0,g,2,g
+734,papa murphys,garden salad,11,g,25,mg,420,g,13,g,10,g,5,g,0,g,6,g,6,g
+735,papa murphys,garden veggie crustless slice,7,g,20,mg,300,g,4,g,6,g,4,g,0,g,1,g,2,g
+736,papa murphys,garden veggie family slice,10,g,25,mg,670,g,31,g,7,g,5,g,0,g,2,g,4,g
+737,papa murphys,garden veggie large slice,12,g,30,mg,770,g,35,g,9,g,6,g,0,g,2,g,5,g
+738,papa murphys,garden veggie medium slice,9,g,20,mg,570,g,26,g,6,g,4,g,0,g,1,g,4,g
+739,papa murphys,garden veggie thin family slice,8,g,20,mg,360,g,20,g,8,g,4,g,0,g,1,g,3,g
+740,papa murphys,garden veggie thin large slice,8,g,20,mg,370,g,18,g,8,g,4,g,0,g,1,g,3,g
+741,papa murphys,gourmet vegetarian crustless slice,10,g,30,mg,310,g,3,g,8,g,5,g,0,g,1,g,1,g
+742,papa murphys,gourmet vegetarian family slice,14,g,35,mg,710,g,30,g,10,g,7,g,0,g,2,g,3,g
+743,papa murphys,gourmet vegetarian large slice,16,g,40,mg,800,g,34,g,11,g,8,g,0,g,2,g,3,g
+744,papa murphys,gourmet vegetarian medium slice,12,g,30,mg,580,g,25,g,8,g,5,g,0,g,1,g,2,g
+745,papa murphys,gourmet vegetarian thin family slice,10,g,25,mg,370,g,18,g,10,g,5,g,0,g,1,g,1,g
+746,papa murphys,gourmet vegetarian thin large slice,11,g,30,mg,380,g,17,g,10,g,5,g,0,g,1,g,1,g
+747,papa murphys,hawaiian crustless slice,7,g,25,mg,320,g,5,g,7,g,4,g,0,g,0,g,4,g
+748,papa murphys,hawaiian family slice,9,g,30,mg,710,g,32,g,9,g,4.5,g,0,g,1,g,6,g
+749,papa murphys,hawaiian large slice,11,g,35,mg,810,g,36,g,10,g,6,g,0,g,1,g,7,g
+750,papa murphys,hawaiian medium slice,8,g,25,mg,590,g,26,g,7,g,4,g,0,g,1,g,5,g
+751,papa murphys,hawaiian thin family slice,7,g,25,mg,390,g,20,g,9,g,3.5,g,0,g,0,g,4,g
+752,papa murphys,hawaiian thin large slice,7,g,25,mg,390,g,19,g,9,g,4,g,0,g,0,g,4,g
+753,papa murphys,herb chicken mediterranean crustless slice,9,g,30,mg,370,g,6,g,10,g,5,g,0,g,2,g,3,g
+754,papa murphys,herb chicken mediterranean family slice,13,g,40,mg,790,g,34,g,12,g,6,g,0,g,3,g,5,g
+755,papa murphys,herb chicken mediterranean large slice,15,g,45,mg,880,g,38,g,14,g,7,g,0,g,4,g,5,g
+756,papa murphys,herb chicken mediterranean medium slice,11,g,30,mg,630,g,27,g,10,g,5,g,0,g,3,g,4,g
+757,papa murphys,herb chicken mediterranean thin family slice,9,g,30,mg,420,g,21,g,11,g,4.5,g,0,g,2,g,3,g
+758,papa murphys,herb chicken mediterranean thin large slice,10,g,30,mg,440,g,20,g,12,g,5,g,0,g,2,g,3,g
+759,papa murphys,italian salad,19,g,50,mg,710,g,11,g,13,g,9,g,0,g,6,g,4,g
+760,papa murphys,low calorie italian dressing,0.5,g,0,mg,330,g,1,g,0,g,0,g,0,g,0,g,1,g
+761,papa murphys,marinara sauce,3,g,0,mg,430,g,13,g,1,g,0,g,0,g,1,g,10,g
+762,papa murphys,mediterranean salad,17,g,40,mg,1110,g,23,g,14,g,10,g,0,g,10,g,8,g
+763,papa murphys,mini murph cheese,19,g,50,mg,1140,g,63,g,22,g,10,g,0,g,0,g,8,g
+764,papa murphys,mini murph pepperoni,26,g,70,mg,1390,g,63,g,26,g,13,g,0,g,0,g,8,g
+765,papa murphys,murphys combo crustless slice,13,g,35,mg,530,g,4,g,9,g,6,g,0,g,0,g,2,g
+766,papa murphys,murphys combo family slice,17,g,45,mg,960,g,31,g,11,g,7,g,0,g,1,g,4,g
+767,papa murphys,murphys combo large slice,20,g,50,mg,1100,g,35,g,13,g,9,g,0,g,2,g,4,g
+768,papa murphys,murphys combo medium slice,15,g,35,mg,800,g,25,g,9,g,6,g,0,g,1,g,3,g
+769,papa murphys,murphys combo thin family slice,13,g,35,mg,580,g,19,g,11,g,6,g,0,g,1,g,3,g
+770,papa murphys,murphys combo thin large slice,13,g,35,mg,560,g,18,g,11,g,6,g,0,g,1,g,2,g
+771,papa murphys,papas favorite crustless slice,13,g,35,mg,520,g,4,g,9,g,6,g,0,g,1,g,2,g
+772,papa murphys,papas favorite family slice,17,g,45,mg,970,g,31,g,11,g,7,g,0,g,2,g,4,g
+773,papa murphys,papas favorite large slice,20,g,50,mg,1100,g,35,g,13,g,9,g,0,g,2,g,5,g
+774,papa murphys,papas favorite medium slice,14,g,35,mg,790,g,26,g,9,g,6,g,0,g,1,g,3,g
+775,papa murphys,papas favorite thin family slice,13,g,35,mg,590,g,20,g,11,g,6,g,0,g,1,g,3,g
+776,papa murphys,papas favorite thin large slice,13,g,35,mg,600,g,18,g,11,g,6,g,0,g,1,g,3,g
+777,papa murphys,pepperoni crustless slice,9,g,25,mg,310,g,2,g,7,g,5,g,0,g,0,g,2,g
+778,papa murphys,pepperoni family slice,13,g,35,mg,740,g,29,g,9,g,6,g,0,g,1,g,3,g
+779,papa murphys,pepperoni large slice,15,g,40,mg,840,g,33,g,10,g,7,g,0,g,1,g,4,g
+780,papa murphys,pepperoni medium slice,11,g,30,mg,600,g,24,g,7,g,5,g,0,g,1,g,3,g
+781,papa murphys,pepperoni thin family slice,12,g,30,mg,470,g,18,g,10,g,5,g,0,g,0,g,2,g
+782,papa murphys,pepperoni thin large slice,10,g,30,mg,410,g,16,g,9,g,5,g,0,g,0,g,2,g
+783,papa murphys,rancher crustless slice,10,g,35,mg,450,g,3,g,9,g,5,g,0,g,0,g,2,g
+784,papa murphys,rancher family slice,14,g,40,mg,880,g,30,g,11,g,7,g,0,g,1,g,4,g
+785,papa murphys,rancher large slice,16,g,45,mg,990,g,34,g,12,g,8,g,0,g,1,g,4,g
+786,papa murphys,rancher medium slice,12,g,35,mg,720,g,25,g,9,g,5,g,0,g,1,g,3,g
+787,papa murphys,rancher thin family slice,10,g,30,mg,510,g,19,g,11,g,5,g,0,g,0,g,3,g
+788,papa murphys,rancher thin large slice,11,g,35,mg,520,g,17,g,11,g,5,g,0,g,0,g,2,g
+789,papa murphys,smores dessert bar,7,g,5,mg,125,g,25,g,2,g,3.5,g,0,g,1,g,16,g
+790,papa murphys,scratch made 5 cheese bread 1 slice of 8,9,g,15,mg,490,g,23,g,8,g,4,g,0,g,0,g,3,g
+791,papa murphys,taco grande family slice,16,g,45,mg,1020,g,32,g,12,g,8,g,0,g,2,g,5,g
+792,papa murphys,taco grande large slice,18,g,50,mg,1150,g,36,g,14,g,9,g,0,g,2,g,6,g
+793,papa murphys,taco grande medium slice,13,g,35,mg,810,g,26,g,10,g,6,g,0,g,1,g,4,g
+794,papa murphys,taco grande thin family slice,12,g,35,mg,600,g,20,g,11,g,6,g,0,g,1,g,3,g
+795,papa murphys,taco grande thin large slice,12,g,35,mg,620,g,19,g,12,g,6,g,0,g,1,g,3,g
+796,papa murphys,thai chicken crustless slice,8,g,35,mg,490,g,11,g,10,g,5,g,0,g,0,g,8,g
+797,papa murphys,thai chicken family slice,12,g,45,mg,930,g,39,g,13,g,6,g,0,g,1,g,12,g
+798,papa murphys,thai chicken large slice,13,g,50,mg,1040,g,43,g,14,g,7,g,0,g,1,g,12,g
+799,papa murphys,thai chicken medium slice,10,g,35,mg,760,g,32,g,10,g,5,g,0,g,1,g,9,g
+800,papa murphys,thai chicken thin family slice,8,g,35,mg,530,g,24,g,12,g,4.5,g,0,g,0,g,7,g
+801,papa murphys,thai chicken thin large slice,9,g,35,mg,570,g,25,g,12,g,5,g,0,g,0,g,9,g
+802,papa murphys,thick n cheesy homebaked bread,75,g,130,mg,3880,g,184,g,61,g,32,g,0,g,1,g,27,g
+803,papa murphys,tuscan chicken and sausage crustless slice,11,g,40,mg,410,g,3,g,11,g,5,g,0,g,0,g,1,g
+804,papa murphys,tuscan chicken and sausage family slice,15,g,45,mg,820,g,30,g,13,g,7,g,0,g,2,g,3,g
+805,papa murphys,tuscan chicken and sausage large slice,17,g,55,mg,930,g,34,g,15,g,8,g,0,g,2,g,3,g
+806,papa murphys,tuscan chicken and sausage medium slice,13,g,40,mg,680,g,24,g,11,g,6,g,0,g,1,g,2,g
+807,papa murphys,tuscan chicken and sausage thin family slice,11,g,35,mg,440,g,16,g,12,g,5,g,0,g,1,g,1,g
+808,papa murphys,tuscan chicken and sausage thin large slice,12,g,40,mg,480,g,17,g,13,g,5,g,0,g,1,g,1,g
+809,papa murphys,xlny family slice,11,g,30,mg,830,g,21,g,11,g,4.5,g,0,g,2,g,17,g
+810,peets coffee and tea,banana nut bread northern california,18,g,81,mg,405,g,59,g,6,g,8,g,0,g,2,g,24,g
+811,peets coffee and tea,kouign amann southern california,24,g,60,mg,20,g,42,g,4,g,14,g,0,g,0,g,16,g
+812,peets coffee and tea,blueberry muffin northern california,19,g,90,mg,477,g,59,g,7,g,8,g,0,g,2,g,23,g
+813,peets coffee and tea,pumpkin bread northern california,14,g,68,mg,468,g,45,g,5,g,1,g,0,g,2,g,25,g
+814,peets coffee and tea,chocolate croissant southern california,25,g,65,mg,25,g,34,g,4,g,16,g,0,g,1,g,4,g
+815,peets coffee and tea,butter croissant northern california,16,g,72,mg,288,g,24,g,5,g,10,g,0,g,0,g,3,g
+816,peets coffee and tea,iced maple nut scone northern california,23,g,86,mg,360,g,50,g,5,g,13,g,0,g,2,g,24,g
+817,peets coffee and tea,reduced fat berry peach scone northern california,8,g,54,mg,297,g,50,g,6,g,5,g,0,g,2,g,16,g
+818,peets coffee and tea,vegan blueberry oat bran muffin southern california,12,g,0,mg,500,g,60,g,10,g,1,g,0,g,8,g,24,g
+819,peets coffee and tea,blueberry scone southern california,18,g,10,mg,780,g,70,g,6,g,6,g,0,g,2,g,22,g
+820,peets coffee and tea,iced lemon curd scone northern california,23,g,90,mg,405,g,53,g,5,g,14,g,0,g,1,g,23,g
+821,peets coffee and tea,wheat free cranberry almond muffin southern california,28,g,90,mg,340,g,60,g,8,g,3,g,0,g,2,g,34,g
+822,peets coffee and tea,almond croissant northern california,20,g,54,mg,288,g,41,g,5,g,11,g,0,g,1,g,18,g
+823,peets coffee and tea,chocolate chip cookie illinois wisconsin,28,g,60,mg,420,g,81,g,7,g,12,g,0,g,6,g,52,g
+824,peets coffee and tea,canele southern california,5,g,60,mg,30,g,27,g,2,g,3,g,0,g,0,g,20,g
+825,peets coffee and tea,ham and swiss cheese croissant northern california,20,g,86,mg,477,g,25,g,10,g,12,g,0,g,0,g,4,g
+826,peets coffee and tea,sugar cookie northern california,11,g,36,mg,162,g,49,g,4,g,6,g,0,g,3,g,29,g
+827,peets coffee and tea,morning bun northern california,21,g,55,mg,410,g,40,g,6,g,13,g,1,g,1,g,11,g
+828,peets coffee and tea,whole wheat honey bran muffin northern california,10,g,30,mg,130,g,61,g,7,g,1,g,0,g,2,g,23,g
+829,peets coffee and tea,blackberry raspberry scone northern california,6,g,20,mg,105,g,40,g,3,g,3,g,0,g,3,g,10,g
+830,peets coffee and tea,cinnamon roll northern california,18,g,72,mg,288,g,72,g,8,g,10,g,0,g,3,g,29,g
+831,peets coffee and tea,valrhona brownie northern california,25,g,72,mg,180,g,52,g,5,g,5,g,0,g,3,g,38,g
+832,peets coffee and tea,banana nut muffin southern california,22,g,80,mg,440,g,50,g,6,g,9,g,0,g,2,g,24,g
+833,peets coffee and tea,lemon poppy seed bread illinois wisconsin,15,g,70,mg,560,g,55,g,7,g,1.5,g,0,g,1,g,29,g
+834,peets coffee and tea,morning glory muffin southern california,26,g,90,mg,600,g,66,g,8,g,4,g,0,g,4,g,34,g
+835,peets coffee and tea,peanut butter cookie southern california,19,g,55,mg,200,g,45,g,6,g,8,g,0,g,2,g,28,g
+836,peets coffee and tea,blueberry lemon scone illinois wisconsin,18,g,95,mg,20,g,9,g,2,g,11,g,0,g,0,g,5,g
+837,peets coffee and tea,banana nut bread southern california,18,g,65,mg,370,g,42,g,5,g,8,g,0,g,2,g,20,g
+838,peets coffee and tea,blueberry danish southern california,17,g,45,mg,40,g,24,g,3,g,10,g,0,g,1,g,8,g
+839,peets coffee and tea,wheat free morning glory muffin northern california,18,g,45,mg,234,g,48,g,4,g,2,g,0,g,3,g,26,g
+840,peets coffee and tea,cinnamon twist northern california,23,g,59,mg,396,g,43,g,6,g,14,g,0,g,1,g,12,g
+841,peets coffee and tea,sesame bagel northern california,5,g,0,mg,560,g,55,g,11,g,1,g,0,g,3,g,3,g
+842,peets coffee and tea,almond croissant southern california,36,g,100,mg,30,g,42,g,8,g,20,g,0,g,2,g,12,g
+843,peets coffee and tea,bran cranberry apple muffin northern california,24,g,81,mg,630,g,59,g,6,g,7,g,0,g,7,g,18,g
+844,peets coffee and tea,blueberry muffin southern california,28,g,100,mg,660,g,56,g,6,g,3,g,0,g,2,g,34,g
+845,peets coffee and tea,banana walnut bread illinois wisconsin,11,g,70,mg,380,g,46,g,5,g,5,g,0,g,2,g,27,g
+846,peets coffee and tea,butter croissant southern california,20,g,50,mg,20,g,27,g,4,g,12,g,0,g,1,g,3,g
+847,peets coffee and tea,florentine cookie northern california,19,g,27,mg,5,g,16,g,4,g,7,g,0,g,2,g,14,g
+848,peets coffee and tea,fruit and nut scone southern california,18,g,0,mg,340,g,52,g,10,g,3,g,0,g,6,g,16,g
+849,peets coffee and tea,oatmeal cookie southern california,14,g,65,mg,230,g,59,g,6,g,8,g,0,g,3,g,33,g
+850,peets coffee and tea,snickerdoodle cookie northern california,12,g,54,mg,252,g,47,g,4,g,6,g,0,g,1,g,25,g
+851,peets coffee and tea,cinnamon roll southern california,12,g,30,mg,100,g,62,g,4,g,5,g,0,g,2,g,36,g
+852,peets coffee and tea,zucchini bread southern california,19,g,50,mg,180,g,47,g,5,g,2,g,0,g,1,g,29,g
+853,peets coffee and tea,pumpkin chocolate bread southern california,15,g,60,mg,320,g,54,g,5,g,4,g,0,g,2,g,27,g
+854,peets coffee and tea,pretzel croissant southern california,19,g,50,mg,20,g,26,g,3,g,12,g,0,g,1,g,3,g
+855,peets coffee and tea,blueberry lemon muffin illinois wisconsin,15,g,80,mg,530,g,75,g,9,g,8,g,0,g,2,g,36,g
+856,peets coffee and tea,savory scone northern california,23,g,65,mg,520,g,34,g,10,g,10,g,0,g,1,g,3,g
+857,peets coffee and tea,cinnamon twist southern california,16,g,45,mg,240,g,37,g,4,g,10,g,0,g,1,g,10,g
+858,peets coffee and tea,ham and swiss croissant illinois wisconsin,21,g,90,mg,740,g,34,g,16,g,12,g,0,g,1,g,6,g
+859,peets coffee and tea,morning bun illinois wisconsin,21,g,55,mg,350,g,53,g,6,g,13,g,0,g,1,g,22,g
+860,peets coffee and tea,chocolate walnut scone southern california,30,g,0,mg,740,g,74,g,10,g,8,g,0,g,4,g,26,g
+861,peets coffee and tea,brownie southern california,16,g,80,mg,110,g,46,g,4,g,7,g,0,g,0,g,40,g
+862,peets coffee and tea,cherry and cream cheese danish illinois wisconsin,9,g,25,mg,200,g,32,g,4,g,6,g,0,g,1,g,11,g
+863,peets coffee and tea,cranberry almond scone illinois wisconsin,22,g,90,mg,20,g,16,g,3,g,11,g,0,g,2,g,12,g
+864,peets coffee and tea,cranberry walnut scone northern california,9,g,15,mg,90,g,43,g,4,g,2,g,0,g,2,g,25,g
+865,peets coffee and tea,morning glory muffin illinois wisconsin,26,g,85,mg,600,g,88,g,10,g,7,g,0,g,7,g,49,g
+866,peets coffee and tea,vegan chocolate chip cookie northern california,13,g,0,mg,170,g,49,g,3,g,5,g,0,g,1,g,29,g
+867,peets coffee and tea,apple turnover illinois wisconsin,30,g,85,mg,150,g,26,g,5,g,18,g,0,g,2,g,0,g
+868,peets coffee and tea,citrus bread northern california,19,g,86,mg,306,g,59,g,6,g,9,g,0,g,1,g,32,g
+869,peets coffee and tea,carmelita bar northern california,22,g,45,mg,387,g,66,g,6,g,13,g,0,g,3,g,39,g
+870,peets coffee and tea,seasonal sugar cookie southern california,6,g,60,mg,40,g,23,g,2,g,4,g,0,g,0,g,9,g
+871,peets coffee and tea,almond tea cake northern california,12,g,30,mg,125,g,23,g,6,g,7,g,0,g,0,g,17,g
+872,peets coffee and tea,cowboy cookie illinois wisconsin,29,g,75,mg,440,g,77,g,9,g,16,g,0,g,6,g,43,g
+873,peets coffee and tea,coffee cake muffin illinois wisconsin,40,g,140,mg,290,g,81,g,8,g,20,g,0,g,3,g,46,g
+874,peets coffee and tea,raspberry scone illinois wisconsin,19,g,105,mg,25,g,4,g,2,g,12,g,0,g,1,g,3,g
+875,peets coffee and tea,carrot cake bread southern california,19,g,60,mg,390,g,48,g,4,g,2,g,0,g,1,g,29,g
+876,peets coffee and tea,chocolate croissant northern california,22,g,68,mg,279,g,40,g,6,g,13,g,0,g,0,g,16,g
+877,peets coffee and tea,bacon cheddar scone southern california,12,g,50,mg,500,g,24,g,10,g,7,g,0,g,2,g,0,g
+878,peets coffee and tea,chocolate glazed donut illinois wisconsin,13,g,50,mg,860,g,37,g,6,g,4,g,0,g,1,g,7,g
+879,peets coffee and tea,marble bread northern california,22,g,104,mg,540,g,54,g,6,g,12,g,0,g,2,g,29,g
+880,peets coffee and tea,vegan ginger cookie northern california,11,g,0,mg,170,g,49,g,3,g,4,g,0,g,1,g,27,g
+881,peets coffee and tea,humming bird cake northern california,17,g,40,mg,90,g,54,g,5,g,3,g,0,g,2,g,35,g
+882,peets coffee and tea,brownie illinois wisconsin,39,g,185,mg,70,g,64,g,8,g,23,g,0,g,4,g,48,g
+883,peets coffee and tea,mini lemon bundt cake northern california,6,g,41,mg,117,g,30,g,2,g,4,g,0,g,0,g,21,g
+884,peets coffee and tea,chocolate croissant illinois wisconsin,20,g,55,mg,300,g,43,g,7,g,12,g,0,g,3,g,17,g
+885,peets coffee and tea,peanut butter cookie northern california,25,g,45,mg,324,g,37,g,9,g,8,g,0,g,3,g,21,g
+886,peets coffee and tea,black bottom cupcake northern california,10,g,5,mg,130,g,33,g,3,g,3,g,0,g,1,g,20,g
+887,peets coffee and tea,bear claw southern california,22,g,70,mg,55,g,54,g,10,g,11,g,0,g,3,g,10,g
+888,peets coffee and tea,butter croissant illinois wisconsin,15,g,65,mg,320,g,33,g,6,g,9,g,0,g,1,g,5,g
+889,peets coffee and tea,chocolate chunk cookie northern california,14,g,63,mg,1026,g,50,g,4,g,9,g,0,g,1,g,31,g
+890,peets coffee and tea,rice crispy treat illinois wisconsin,15,g,40,mg,590,g,81,g,4,g,9,g,0,g,0,g,37,g
+891,peets coffee and tea,financier southern california,4,g,10,mg,5,g,10,g,2,g,2,g,0,g,0,g,4,g
+892,peets coffee and tea,petite lemon currant scone northern california,10,g,35,mg,150,g,20,g,2,g,6,g,0,g,1,g,3,g
+893,peets coffee and tea,chocolate chip cookie southern california,18,g,50,mg,150,g,53,g,3,g,11,g,0,g,1,g,30,g
+894,peets coffee and tea,low fat vegan apricot oatmeal scone northern california,2,g,0,mg,45,g,51,g,7,g,0,g,0,g,3,g,15,g
+895,peets coffee and tea,monkey bread northern california,10,g,45,mg,225,g,46,g,5,g,5,g,0,g,1,g,17,g
+896,peets coffee and tea,corn jalapeno muffin southern california,32,g,320,mg,210,g,56,g,10,g,16,g,0,g,2,g,28,g
+897,peets coffee and tea,tri berry scone southern california,14,g,30,mg,420,g,48,g,6,g,8,g,0,g,2,g,18,g
+898,peets coffee and tea,brown butter fruit tart southern california,17,g,90,mg,20,g,27,g,4,g,10,g,0,g,1,g,16,g
+899,peets coffee and tea,cherry crisp southern california,11,g,0,mg,430,g,45,g,6,g,2,g,0,g,2,g,2,g
+900,peets coffee and tea,five grain scone southern california,28,g,50,mg,680,g,72,g,10,g,12,g,0,g,6,g,26,g
+901,peets coffee and tea,chocolate truffle cookie northern california,18,g,72,mg,72,g,45,g,5,g,9,g,0,g,4,g,32,g
+902,peets coffee and tea,spicy ginger cookie northern california,12,g,30,mg,170,g,57,g,4,g,6,g,0,g,1,g,30,g
+903,peets coffee and tea,almond croissant illinois wisconsin,24,g,110,mg,440,g,52,g,10,g,14,g,0,g,2,g,11,g
+904,peets coffee and tea,zucchini bread illinois wisconsin,16,g,60,mg,260,g,53,g,6,g,1.5,g,0,g,1,g,30,g
+905,peets coffee and tea,bearclaw northern california,25,g,86,mg,351,g,45,g,8,g,13,g,0,g,2,g,17,g
+906,peets coffee and tea,gingersnap cookie illinois wisconsin,19,g,95,mg,430,g,78,g,8,g,11,g,0,g,2,g,38,g
+907,peets coffee and tea,vegan oatmeal raisin cookie northern california,12,g,0,mg,180,g,48,g,4,g,4,g,0,g,1,g,26,g
+908,peets coffee and tea,pumpkin scone seasonal illinois wisconsin,19,g,40,mg,280,g,73,g,7,g,9,g,0,g,2,g,17,g
+909,peets coffee and tea,plum danish southern california,18,g,50,mg,210,g,27,g,3,g,11,g,0,g,1,g,8,g
+910,peets coffee and tea,caffe latte with almond milk without whipped cream,6,g,0,mg,325,g,15,g,2,g,0,g,0,g,2,g,13,g
+911,peets coffee and tea,iced sugar free vanilla latte with almond milk without whipped cream,4,g,0,mg,250,g,10,g,1,g,0,g,0,g,1,g,10,g
+912,peets coffee and tea,matcha green tea latte with almond milk without whipped cream,5,g,0,mg,300,g,25,g,2,g,0,g,0,g,2,g,24,g
+913,peets coffee and tea,the black tie without whipped cream,2,g,8,mg,13,g,25,g,1,g,1,g,0,g,0,g,25,g
+914,peets coffee and tea,chai latte with 2 milk without whipped cream,6,g,25,mg,175,g,45,g,13,g,4,g,0,g,0,g,39,g
+915,peets coffee and tea,iced vanilla latte with non fat milk without whipped cream,0,g,5,mg,165,g,40,g,11,g,0,g,0,g,0,g,41,g
+916,peets coffee and tea,sugar free vanilla caffe latte with soy milk without whipped cream,5,g,0,mg,345,g,10,g,8,g,0,g,0,g,0,g,9,g
+917,peets coffee and tea,dirty chai latte with almond milk without whipped cream,4,g,0,mg,250,g,35,g,1,g,0,g,0,g,1,g,32,g
+918,peets coffee and tea,caffe mocha with non fat milk without whipped cream,1,g,5,mg,235,g,40,g,15,g,0,g,0,g,0,g,38,g
+919,peets coffee and tea,iced matcha green tea latte with almond milk without whipped cream,4,g,0,mg,200,g,20,g,2,g,0,g,0,g,2,g,20,g
+920,peets coffee and tea,iced vanilla latte with almond milk without whipped cream,4,g,0,mg,250,g,35,g,1,g,0,g,0,g,1,g,35,g
+921,peets coffee and tea,iced sugar free vanilla latte with non fat milk without whipped cream,0,g,5,mg,165,g,15,g,11,g,0,g,0,g,0,g,16,g
+922,peets coffee and tea,havana cappuccino with whole milk without whipped cream,11,g,43,mg,157,g,34,g,11,g,7,g,0,g,0,g,33,g
+923,peets coffee and tea,coffee javiva with 2 milk without whipped cream,3,g,10,mg,220,g,48,g,7,g,2,g,0,g,0,g,46,g
+924,peets coffee and tea,iced caramel macchiato with almond milk without whipped cream,4,g,0,mg,270,g,50,g,2,g,0,g,0,g,1,g,49,g
+925,peets coffee and tea,caffe latte with soy milk without whipped cream,5,g,0,mg,375,g,15,g,8,g,0,g,0,g,0,g,10,g
+926,peets coffee and tea,chai latte with almond milk without whipped cream,4,g,0,mg,250,g,35,g,1,g,0,g,0,g,1,g,32,g
+927,peets coffee and tea,mocha javiva with whole milk without whipped cream,5,g,18,mg,240,g,64,g,6,g,3,g,0,g,0,g,59,g
+928,peets coffee and tea,hot chocolate with non fat milk without whipped cream,1,g,5,mg,295,g,65,g,17,g,1,g,0,g,0,g,58,g
+929,peets coffee and tea,iced latte with almond milk without whipped cream,4,g,0,mg,250,g,10,g,1,g,0,g,0,g,1,g,10,g
+930,peets coffee and tea,caramel macchiato with non fat milk without whipped cream,0,g,5,mg,230,g,55,g,14,g,0,g,0,g,0,g,58,g
+931,peets coffee and tea,cappuccino with whole milk without whipped cream,8,g,35,mg,125,g,10,g,8,g,5,g,0,g,0,g,12,g
+932,peets coffee and tea,hot chocolate with whole milk without whipped cream,14,g,55,mg,285,g,65,g,15,g,9,g,0,g,0,g,56,g
+933,peets coffee and tea,white chocolate mocha with almond milk without whipped cream,5,g,0,mg,320,g,40,g,3,g,3,g,0,g,2,g,38,g
+934,peets coffee and tea,iced mocha with whole milk without whipped cream,10,g,35,mg,180,g,35,g,10,g,6,g,0,g,0,g,32,g
+935,peets coffee and tea,mighty leaf green tea tropical iced tea,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+936,peets coffee and tea,white chocolate mocha with 2 milk without whipped cream,8,g,30,mg,230,g,45,g,16,g,5,g,0,g,0,g,47,g
+937,peets coffee and tea,cafe au lait with almond milk without whipped cream,2,g,10,mg,100,g,5,g,1,g,0,g,0,g,1,g,4,g
+938,peets coffee and tea,cappuccino with almond milk without whipped cream,4,g,0,mg,200,g,10,g,1,g,0,g,0,g,1,g,8,g
+939,peets coffee and tea,chai latte with non fat milk without whipped cream,0,g,5,mg,160,g,40,g,11,g,0,g,0,g,0,g,38,g
+940,peets coffee and tea,caffe mocha with almond milk without whipped cream,6,g,0,mg,340,g,35,g,3,g,0,g,0,g,2,g,30,g
+941,peets coffee and tea,iced latte with whole milk without whipped cream,10,g,40,mg,160,g,15,g,10,g,6,g,0,g,0,g,15,g
+942,peets coffee and tea,cold brew coffee,0,g,5,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+943,peets coffee and tea,iced sugar free vanilla latte with whole milk without whipped cream,10,g,40,mg,160,g,15,g,10,g,6,g,0,g,0,g,15,g
+944,peets coffee and tea,chocolate and caramel swirl javiva with 2 milk without whipped cream,4,g,10,mg,280,g,85,g,8,g,2,g,0,g,0,g,82,g
+945,peets coffee and tea,iced mocha with almond milk without whipped cream,4,g,0,mg,265,g,30,g,2,g,0,g,0,g,1,g,27,g
+946,peets coffee and tea,dirty chai latte with non fat milk without whipped cream,0,g,5,mg,160,g,40,g,11,g,0,g,0,g,0,g,38,g
+947,peets coffee and tea,chai latte with soy milk without whipped cream,4,g,0,mg,290,g,35,g,6,g,0,g,0,g,0,g,29,g
+948,peets coffee and tea,espresso,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+949,peets coffee and tea,dirty chai latte with whole milk without whipped cream,10,g,45,mg,155,g,40,g,10,g,6,g,0,g,0,g,37,g
+950,peets coffee and tea,caramel macchiato with almond milk without whipped cream,5,g,0,mg,330,g,50,g,2,g,0,g,0,g,1,g,51,g
+951,peets coffee and tea,matcha green tea latte with soy milk without whipped cream,5,g,0,mg,345,g,25,g,8,g,0,g,0,g,1,g,21,g
+952,peets coffee and tea,iced caramel latte with soy milk without whipped cream,4,g,0,mg,310,g,50,g,7,g,4,g,0,g,0,g,47,g
+953,peets coffee and tea,iced sugar free mocha with almond milk without whipped cream,4,g,0,mg,310,g,30,g,2,g,0,g,0,g,3,g,9,g
+954,peets coffee and tea,coffee javiva with non fat milk without whipped cream,1,g,2,mg,220,g,47,g,6,g,0,g,0,g,0,g,45,g
+955,peets coffee and tea,cafe au lait with whole milk without whipped cream,4,g,25,mg,65,g,5,g,4,g,3,g,0,g,0,g,6,g
+956,peets coffee and tea,cappuccino with non fat milk without whipped cream,0,g,0,mg,130,g,10,g,9,g,0,g,0,g,0,g,13,g
+957,peets coffee and tea,iced white mocha with 2 milk without whipped cream,6,g,20,mg,175,g,40,g,12,g,3,g,0,g,0,g,42,g
+958,peets coffee and tea,matcha javiva with 2 milk without whipped cream,5,g,15,mg,260,g,52,g,10,g,2,g,0,g,1,g,49,g
+959,peets coffee and tea,dirty chai latte with soy milk without whipped cream,4,g,0,mg,290,g,35,g,6,g,0,g,0,g,0,g,29,g
+960,peets coffee and tea,caramel caffe latte with almond milk without whipped cream,5,g,0,mg,340,g,50,g,3,g,4,g,0,g,1,g,52,g
+961,peets coffee and tea,iced caramel latte with almond milk without whipped cream,4,g,0,mg,280,g,50,g,2,g,4,g,0,g,1,g,49,g
+962,peets coffee and tea,dirty chai latte with 2 milk without whipped cream,6,g,25,mg,175,g,45,g,13,g,4,g,0,g,0,g,39,g
+963,peets coffee and tea,iced matcha green tea latte with whole milk without whipped cream,8,g,35,mg,125,g,25,g,9,g,5,g,0,g,1,g,24,g
+964,peets coffee and tea,iced caramel macchiato with non fat milk without whipped cream,0,g,5,mg,190,g,50,g,11,g,0,g,0,g,0,g,54,g
+965,peets coffee and tea,caffe mocha with 2 milk without whipped cream,8,g,30,mg,250,g,40,g,16,g,5,g,0,g,0,g,39,g
+966,peets coffee and tea,espresso javiva with whole milk without whipped cream,5,g,18,mg,210,g,47,g,6,g,3,g,0,g,0,g,45,g
+967,peets coffee and tea,espresso javiva with non fat milk without whipped cream,1,g,2,mg,220,g,47,g,6,g,0,g,0,g,0,g,45,g
+968,peets coffee and tea,light caramel javiva with almond milk without whipped cream,2,g,0,mg,250,g,63,g,2,g,0,g,0,g,1,g,55,g
+969,peets coffee and tea,matcha green tea latte with whole milk without whipped cream,12,g,50,mg,190,g,30,g,13,g,8,g,0,g,1,g,30,g
+970,peets coffee and tea,havana cappuccino with non fat milk without whipped cream,3,g,14,mg,162,g,34,g,11,g,2,g,0,g,0,g,34,g
+971,peets coffee and tea,iced havana cappuccino with whole milk without whipped cream,11,g,43,mg,157,g,34,g,11,g,7,g,0,g,0,g,33,g
+972,peets coffee and tea,mighty leaf mango sunrise iced tea infusion,0,g,0,mg,4,g,29,g,0,g,0,g,0,g,0,g,27,g
+973,peets coffee and tea,iced sugar free vanilla latte with 2 milk without whipped cream,6,g,25,mg,175,g,15,g,13,g,4,g,0,g,0,g,18,g
+974,peets coffee and tea,sugar free caffe mocha with non fat milk without whipped cream,1,g,6,mg,277,g,42,g,14,g,0,g,0,g,2,g,20,g
+975,peets coffee and tea,hot chocolate with almond milk without whipped cream,7,g,0,mg,405,g,60,g,4,g,1,g,0,g,2,g,50,g
+976,peets coffee and tea,vanilla matcha green tea latte with whole milk without whipped cream,12,g,50,mg,190,g,35,g,13,g,8,g,0,g,1,g,37,g
+977,peets coffee and tea,iced havana cappuccino with almond milk without whipped cream,6,g,10,mg,228,g,31,g,4,g,2,g,0,g,1,g,30,g
+978,peets coffee and tea,havana cappuccino with almond milk without whipped cream,6,g,10,mg,228,g,31,g,4,g,2,g,0,g,1,g,30,g
+979,peets coffee and tea,maple latte with almond milk without whipped cream,5,g,0,mg,300,g,40,g,2,g,0,g,0,g,2,g,37,g
+980,peets coffee and tea,coconut creme latte with almond milk without whipped cream,13,g,0,mg,275,g,39,g,1,g,8,g,0,g,1,g,36,g
+981,peets coffee and tea,peppermint matcha green tea latte with 2 milk without whipped cream,8,g,30,mg,210,g,40,g,16,g,5,g,0,g,1,g,40,g
+982,peets coffee and tea,light matcha javiva with almond milk without whipped cream,3,g,0,mg,260,g,33,g,1,g,0,g,0,g,2,g,23,g
+983,peets coffee and tea,iced white mocha with whole milk without whipped cream,9,g,40,mg,160,g,40,g,10,g,6,g,0,g,0,g,39,g
+984,peets coffee and tea,caffe americano,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+985,peets coffee and tea,iced latte with 2 milk without whipped cream,6,g,25,mg,175,g,15,g,13,g,4,g,0,g,0,g,18,g
+986,peets coffee and tea,iced vanilla latte with soy milk without whipped cream,4,g,0,mg,290,g,35,g,6,g,0,g,0,g,0,g,33,g
+987,peets coffee and tea,cappuccino with soy milk without whipped cream,3,g,0,mg,230,g,5,g,5,g,0,g,0,g,0,g,6,g
+988,peets coffee and tea,chai javiva with whole milk without whipped cream,5,g,18,mg,210,g,63,g,6,g,3,g,0,g,0,g,59,g
+989,peets coffee and tea,pumpkin latte with almond milk without whipped cream,5,g,0,mg,310,g,38,g,2,g,0,g,0,g,2,g,34,g
+990,peets coffee and tea,madagascar vanilla steamer with almond milk without whipped cream,5,g,0,mg,300,g,40,g,2,g,0,g,0,g,2,g,37,g
+991,peets coffee and tea,sugar free vanilla caffe latte with non fat milk without whipped cream,0,g,5,mg,195,g,20,g,14,g,0,g,0,g,0,g,20,g
+992,peets coffee and tea,white chocolate mocha with whole milk without whipped cream,12,g,50,mg,205,g,45,g,13,g,8,g,0,g,0,g,44,g
+993,peets coffee and tea,havana cappuccino with soy milk without whipped cream,6,g,10,mg,256,g,30,g,8,g,2,g,0,g,0,g,28,g
+994,peets coffee and tea,iced mocha with non fat milk without whipped cream,1,g,5,mg,190,g,35,g,11,g,0,g,0,g,0,g,33,g
+995,peets coffee and tea,earl grey latte with almond milk without whipped cream,4,g,0,mg,258,g,25,g,1,g,0,g,0,g,1,g,22,g
+996,peets coffee and tea,iced caramel macchiato with whole milk without whipped cream,9,g,40,mg,185,g,50,g,10,g,6,g,0,g,0,g,53,g
+997,peets coffee and tea,coconut creme latte with whole milk without whipped cream,19,g,48,mg,172,g,43,g,11,g,15,g,0,g,0,g,42,g
+998,peets coffee and tea,white chocolate mocha with non fat milk without whipped cream,5,g,5,mg,215,g,45,g,15,g,3,g,0,g,0,g,45,g
+999,peets coffee and tea,latte macchiato with 2 milk without whipped cream,8,g,30,mg,225,g,20,g,16,g,5,g,0,g,0,g,21,g

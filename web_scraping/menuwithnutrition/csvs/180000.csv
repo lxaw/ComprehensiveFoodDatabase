@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,tcby,dairy free coconut yogurt 9 oz,11,g,0,mg,25,g,70,g,0,g,9,g,0,g,0,g,50,g
+1,tcby,dairy free vanilla almond yogurt 10 oz,3,g,0,mg,105,g,70,g,0,g,0,g,0,g,10,g,33,g
+2,tcby,dairy free vanilla almond yogurt 11 oz,3,g,0,mg,115,g,77,g,0,g,0,g,0,g,11,g,36,g
+3,tcby,dairy free vanilla almond yogurt 12 oz,3,g,0,mg,125,g,84,g,0,g,0,g,0,g,12,g,39,g
+4,tcby,dairy free vanilla almond yogurt 16 oz,4,g,0,mg,160,g,112,g,0,g,0,g,0,g,16,g,52,g
+5,tcby,dairy free vanilla almond yogurt 3 oz,1,g,0,mg,30,g,21,g,0,g,0,g,0,g,3,g,10,g
+6,tcby,dairy free vanilla almond yogurt 4 oz,1,g,0,mg,40,g,28,g,0,g,0,g,0,g,4,g,13,g
+7,tcby,dairy free vanilla almond yogurt 6 oz,2,g,0,mg,60,g,42,g,0,g,0,g,0,g,6,g,20,g
+8,tcby,dairy free vanilla almond yogurt 7 oz,2,g,0,mg,70,g,49,g,0,g,0,g,0,g,7,g,23,g
+9,tcby,dairy free vanilla almond yogurt 8 oz,2,g,0,mg,80,g,56,g,0,g,0,g,0,g,8,g,26,g
+10,tcby,dairy free vanilla almond yogurt 9 oz,2,g,0,mg,90,g,63,g,0,g,0,g,0,g,9,g,29,g
+11,tcby,dutch chocolate yogurt 10 oz,0,g,0,mg,180,g,58,g,10,g,0,g,0,g,8,g,38,g
+12,tcby,dutch chocolate yogurt 11 oz,0,g,0,mg,200,g,63,g,11,g,0,g,0,g,8,g,41,g
+13,tcby,dutch chocolate yogurt 12 oz,0,g,0,mg,220,g,69,g,12,g,0,g,0,g,9,g,45,g
+14,tcby,dutch chocolate yogurt 16 oz,0,g,0,mg,290,g,92,g,16,g,0,g,0,g,12,g,60,g
+15,tcby,dutch chocolate yogurt 3 oz,0,g,0,mg,55,g,17,g,3,g,0,g,0,g,2,g,11,g
+16,tcby,dutch chocolate yogurt 4 oz,0,g,0,mg,70,g,23,g,4,g,0,g,0,g,3,g,15,g
+17,tcby,dutch chocolate yogurt 6 oz,0,g,0,mg,110,g,35,g,6,g,0,g,0,g,5,g,23,g
+18,tcby,dutch chocolate yogurt 7 oz,0,g,0,mg,125,g,40,g,7,g,0,g,0,g,5,g,26,g
+19,tcby,dutch chocolate yogurt 8 oz,0,g,0,mg,140,g,46,g,8,g,0,g,0,g,6,g,30,g
+20,tcby,dutch chocolate yogurt 9 oz,0,g,0,mg,160,g,52,g,9,g,0,g,0,g,7,g,34,g
+21,tcby,golden vanilla yogurt 10 oz,5,g,20,mg,260,g,55,g,10,g,10,g,0,g,8,g,40,g
+22,tcby,golden vanilla yogurt 11 oz,6,g,20,mg,280,g,61,g,11,g,11,g,0,g,8,g,44,g
+23,tcby,golden vanilla yogurt 12 oz,6,g,20,mg,310,g,66,g,12,g,12,g,0,g,9,g,48,g
+24,tcby,golden vanilla yogurt 16 oz,8,g,30,mg,410,g,88,g,16,g,16,g,0,g,12,g,64,g
+25,tcby,golden vanilla yogurt 3 oz,2,g,5,mg,75,g,17,g,3,g,3,g,0,g,2,g,12,g
+26,tcby,golden vanilla yogurt 4 oz,2,g,5,mg,105,g,22,g,4,g,4,g,0,g,3,g,16,g
+27,tcby,golden vanilla yogurt 6 oz,3,g,10,mg,160,g,33,g,6,g,6,g,0,g,5,g,24,g
+28,tcby,golden vanilla yogurt 7 oz,4,g,10,mg,180,g,39,g,7,g,7,g,0,g,5,g,28,g
+29,tcby,golden vanilla yogurt 8 oz,4,g,15,mg,210,g,44,g,8,g,8,g,0,g,6,g,32,g
+30,tcby,golden vanilla yogurt 9 oz,5,g,15,mg,230,g,50,g,9,g,9,g,0,g,7,g,36,g
+31,tcby,honey vanilla greek yogurt 10 oz,0,g,15,mg,150,g,50,g,20,g,0,g,0,g,10,g,33,g
+32,tcby,honey vanilla greek yogurt 11 oz,0,g,15,mg,170,g,55,g,22,g,0,g,0,g,11,g,36,g
+33,tcby,honey vanilla greek yogurt 12 oz,0,g,15,mg,180,g,60,g,24,g,0,g,0,g,12,g,39,g
+34,tcby,honey vanilla greek yogurt 16 oz,0,g,20,mg,240,g,80,g,32,g,0,g,0,g,16,g,52,g
+35,tcby,honey vanilla greek yogurt 3 oz,0,g,5,mg,45,g,15,g,6,g,0,g,0,g,3,g,10,g
+36,tcby,honey vanilla greek yogurt 4 oz,0,g,5,mg,60,g,20,g,8,g,0,g,0,g,4,g,13,g
+37,tcby,honey vanilla greek yogurt 6 oz,0,g,10,mg,90,g,30,g,12,g,0,g,0,g,6,g,20,g
+38,tcby,honey vanilla greek yogurt 7 oz,0,g,10,mg,105,g,35,g,14,g,0,g,0,g,7,g,23,g
+39,tcby,honey vanilla greek yogurt 8 oz,0,g,10,mg,120,g,40,g,16,g,0,g,0,g,8,g,26,g
+40,tcby,honey vanilla greek yogurt 9 oz,0,g,10,mg,135,g,45,g,18,g,0,g,0,g,9,g,29,g
+41,tcby,italian tart yogurt 10 oz,0,g,0,mg,200,g,58,g,5,g,0,g,0,g,0,g,40,g
+42,tcby,italian tart yogurt 11 oz,0,g,0,mg,220,g,63,g,6,g,0,g,0,g,0,g,44,g
+43,tcby,italian tart yogurt 12 oz,0,g,0,mg,240,g,69,g,6,g,0,g,0,g,0,g,48,g
+44,tcby,italian tart yogurt 16 oz,0,g,0,mg,320,g,92,g,8,g,0,g,0,g,0,g,64,g
+45,tcby,italian tart yogurt 3 oz,0,g,0,mg,60,g,17,g,2,g,0,g,0,g,0,g,12,g
+46,tcby,italian tart yogurt 4 oz,0,g,0,mg,80,g,23,g,2,g,0,g,0,g,0,g,16,g
+47,tcby,italian tart yogurt 6 oz,0,g,0,mg,120,g,35,g,3,g,0,g,0,g,0,g,24,g
+48,tcby,italian tart yogurt 7 oz,0,g,0,mg,140,g,40,g,4,g,0,g,0,g,0,g,28,g
+49,tcby,italian tart yogurt 8 oz,0,g,0,mg,160,g,46,g,4,g,0,g,0,g,0,g,32,g
+50,tcby,italian tart yogurt 9 oz,0,g,0,mg,180,g,52,g,5,g,0,g,0,g,0,g,36,g
+51,tcby,mango sorbet 10 oz,0,g,0,mg,25,g,60,g,0,g,0,g,0,g,0,g,45,g
+52,tcby,mango sorbet 11 oz,0,g,0,mg,30,g,66,g,0,g,0,g,0,g,0,g,50,g
+53,tcby,mango sorbet 12 oz,0,g,0,mg,30,g,72,g,0,g,0,g,0,g,0,g,54,g
+54,tcby,mango sorbet 16 oz,0,g,0,mg,40,g,96,g,0,g,0,g,0,g,0,g,72,g
+55,tcby,mango sorbet 3 oz,0,g,0,mg,10,g,18,g,0,g,0,g,0,g,0,g,14,g
+56,tcby,mango sorbet 4 oz,0,g,0,mg,10,g,24,g,0,g,0,g,0,g,0,g,18,g
+57,tcby,mango sorbet 6 oz,0,g,0,mg,15,g,36,g,0,g,0,g,0,g,0,g,27,g
+58,tcby,mango sorbet 7 oz,0,g,0,mg,20,g,42,g,0,g,0,g,0,g,0,g,32,g
+59,tcby,mango sorbet 8 oz,0,g,0,mg,20,g,48,g,0,g,0,g,0,g,0,g,36,g
+60,tcby,mango sorbet 9 oz,0,g,0,mg,25,g,54,g,0,g,0,g,0,g,0,g,41,g
+61,tcby,mint chocolate chunk yogurt 10 oz,13,g,25,mg,125,g,53,g,8,g,10,g,0,g,3,g,45,g
+62,tcby,mint chocolate chunk yogurt 11 oz,14,g,30,mg,140,g,58,g,8,g,11,g,0,g,3,g,50,g
+63,tcby,mint chocolate chunk yogurt 12 oz,15,g,30,mg,150,g,63,g,9,g,12,g,0,g,3,g,54,g
+64,tcby,mint chocolate chunk yogurt 16 oz,20,g,40,mg,200,g,84,g,12,g,16,g,0,g,4,g,72,g
+65,tcby,mint chocolate chunk yogurt 3 oz,4,g,10,mg,40,g,16,g,2,g,3,g,0,g,1,g,14,g
+66,tcby,mint chocolate chunk yogurt 4 oz,5,g,10,mg,50,g,21,g,3,g,4,g,0,g,1,g,18,g
+67,tcby,mint chocolate chunk yogurt 6 oz,8,g,15,mg,75,g,32,g,5,g,6,g,0,g,2,g,27,g
+68,tcby,mint chocolate chunk yogurt 7 oz,9,g,20,mg,90,g,37,g,5,g,7,g,0,g,2,g,32,g
+69,tcby,mint chocolate chunk yogurt 8 oz,10,g,20,mg,100,g,42,g,6,g,8,g,0,g,2,g,36,g
+70,tcby,mint chocolate chunk yogurt 9 oz,11,g,25,mg,115,g,47,g,7,g,9,g,0,g,2,g,41,g
+71,tcby,mocha almond yogurt 10 oz,13,g,25,mg,260,g,55,g,10,g,5,g,0,g,3,g,43,g
+72,tcby,mocha almond yogurt 11 oz,14,g,30,mg,290,g,61,g,11,g,6,g,0,g,3,g,47,g
+73,tcby,mocha almond yogurt 12 oz,15,g,30,mg,320,g,66,g,12,g,6,g,0,g,3,g,51,g
+74,tcby,mocha almond yogurt 16 oz,20,g,40,mg,420,g,88,g,16,g,8,g,0,g,4,g,68,g
+75,tcby,mocha almond yogurt 3 oz,4,g,10,mg,80,g,17,g,3,g,2,g,0,g,1,g,13,g
+76,tcby,mocha almond yogurt 4 oz,5,g,10,mg,105,g,22,g,4,g,2,g,0,g,1,g,17,g
+77,tcby,mocha almond yogurt 6 oz,8,g,15,mg,160,g,33,g,6,g,3,g,0,g,2,g,26,g
+78,tcby,mocha almond yogurt 7 oz,9,g,20,mg,180,g,39,g,7,g,4,g,0,g,2,g,30,g
+79,tcby,mocha almond yogurt 8 oz,10,g,20,mg,210,g,44,g,8,g,4,g,0,g,2,g,34,g
+80,tcby,mocha almond yogurt 9 oz,11,g,25,mg,240,g,50,g,9,g,5,g,0,g,2,g,38,g
+81,tcby,no sugar added butter pecan yogurt 10 oz,0,g,0,mg,270,g,45,g,10,g,0,g,0,g,10,g,15,g
+82,tcby,no sugar added butter pecan yogurt 11 oz,0,g,0,mg,290,g,50,g,11,g,0,g,0,g,11,g,17,g
+83,tcby,no sugar added butter pecan yogurt 12 oz,0,g,0,mg,320,g,54,g,12,g,0,g,0,g,12,g,18,g
+84,tcby,no sugar added butter pecan yogurt 16 oz,0,g,0,mg,430,g,72,g,16,g,0,g,0,g,16,g,24,g
+85,tcby,no sugar added butter pecan yogurt 3 oz,0,g,0,mg,80,g,14,g,3,g,0,g,0,g,3,g,5,g
+86,tcby,no sugar added butter pecan yogurt 4 oz,0,g,0,mg,105,g,18,g,4,g,0,g,0,g,4,g,6,g
+87,tcby,no sugar added butter pecan yogurt 6 oz,0,g,0,mg,160,g,27,g,6,g,0,g,0,g,6,g,9,g
+88,tcby,no sugar added butter pecan yogurt 7 oz,0,g,0,mg,190,g,32,g,7,g,0,g,0,g,7,g,11,g
+89,tcby,no sugar added butter pecan yogurt 8 oz,0,g,0,mg,210,g,36,g,8,g,0,g,0,g,8,g,12,g
+90,tcby,no sugar added butter pecan yogurt 9 oz,0,g,0,mg,240,g,41,g,9,g,0,g,0,g,9,g,14,g
+91,tcby,no sugar added chocolate yogurt 10 oz,0,g,0,mg,190,g,45,g,10,g,0,g,0,g,13,g,15,g
+92,tcby,no sugar added chocolate yogurt 11 oz,0,g,0,mg,210,g,50,g,11,g,0,g,0,g,14,g,17,g
+93,tcby,no sugar added chocolate yogurt 12 oz,0,g,0,mg,230,g,54,g,12,g,0,g,0,g,15,g,18,g
+94,tcby,no sugar added chocolate yogurt 16 oz,0,g,0,mg,300,g,72,g,16,g,0,g,0,g,20,g,24,g
+95,tcby,no sugar added chocolate yogurt 3 oz,0,g,0,mg,55,g,14,g,3,g,0,g,0,g,4,g,5,g
+96,tcby,no sugar added chocolate yogurt 4 oz,0,g,0,mg,75,g,18,g,4,g,0,g,0,g,5,g,6,g
+97,tcby,no sugar added chocolate yogurt 6 oz,0,g,0,mg,115,g,27,g,6,g,0,g,0,g,8,g,9,g
+98,tcby,no sugar added chocolate yogurt 7 oz,0,g,0,mg,130,g,32,g,7,g,0,g,0,g,9,g,11,g
+99,tcby,no sugar added chocolate yogurt 8 oz,0,g,0,mg,150,g,36,g,8,g,0,g,0,g,10,g,12,g
+100,tcby,no sugar added chocolate yogurt 9 oz,0,g,0,mg,170,g,41,g,9,g,0,g,0,g,11,g,14,g
+101,tcby,no sugar added mountain blackberry yogurt 10 oz,0,g,0,mg,270,g,45,g,10,g,0,g,0,g,10,g,15,g
+102,tcby,no sugar added mountain blackberry yogurt 11 oz,0,g,0,mg,290,g,50,g,11,g,0,g,0,g,11,g,17,g
+103,tcby,no sugar added mountain blackberry yogurt 12 oz,0,g,0,mg,320,g,54,g,12,g,0,g,0,g,12,g,18,g
+104,tcby,no sugar added mountain blackberry yogurt 16 oz,0,g,0,mg,430,g,72,g,16,g,0,g,0,g,16,g,24,g
+105,tcby,no sugar added mountain blackberry yogurt 3 oz,0,g,0,mg,80,g,14,g,3,g,0,g,0,g,3,g,5,g
+106,tcby,no sugar added mountain blackberry yogurt 4 oz,0,g,0,mg,105,g,18,g,4,g,0,g,0,g,4,g,6,g
+107,tcby,no sugar added mountain blackberry yogurt 6 oz,0,g,0,mg,160,g,27,g,6,g,0,g,0,g,6,g,9,g
+108,tcby,no sugar added mountain blackberry yogurt 7 oz,0,g,0,mg,190,g,32,g,7,g,0,g,0,g,7,g,11,g
+109,tcby,no sugar added mountain blackberry yogurt 8 oz,0,g,0,mg,210,g,36,g,8,g,0,g,0,g,8,g,12,g
+110,tcby,no sugar added mountain blackberry yogurt 9 oz,0,g,0,mg,240,g,41,g,9,g,0,g,0,g,9,g,14,g
+111,tcby,no sugar added salted caramel yogurt 10 oz,0,g,0,mg,360,g,45,g,10,g,0,g,0,g,10,g,15,g
+112,tcby,no sugar added salted caramel yogurt 11 oz,0,g,0,mg,390,g,50,g,11,g,0,g,0,g,11,g,17,g
+113,tcby,no sugar added salted caramel yogurt 12 oz,0,g,0,mg,430,g,54,g,12,g,0,g,0,g,12,g,18,g
+114,tcby,no sugar added salted caramel yogurt 16 oz,0,g,0,mg,570,g,72,g,16,g,0,g,0,g,16,g,24,g
+115,tcby,no sugar added salted caramel yogurt 3 oz,0,g,0,mg,105,g,14,g,3,g,0,g,0,g,3,g,5,g
+116,tcby,no sugar added salted caramel yogurt 4 oz,0,g,0,mg,140,g,18,g,4,g,0,g,0,g,4,g,6,g
+117,tcby,no sugar added salted caramel yogurt 6 oz,0,g,0,mg,210,g,27,g,6,g,0,g,0,g,6,g,9,g
+118,tcby,no sugar added salted caramel yogurt 7 oz,0,g,0,mg,250,g,32,g,7,g,0,g,0,g,7,g,11,g
+119,tcby,no sugar added salted caramel yogurt 8 oz,0,g,0,mg,280,g,36,g,8,g,0,g,0,g,8,g,12,g
+120,tcby,no sugar added salted caramel yogurt 9 oz,0,g,0,mg,320,g,41,g,9,g,0,g,0,g,9,g,14,g
+121,tcby,no sugar added strawberry yogurt 10 oz,0,g,0,mg,270,g,45,g,10,g,0,g,0,g,10,g,15,g
+122,tcby,no sugar added strawberry yogurt 11 oz,0,g,0,mg,290,g,50,g,11,g,0,g,0,g,11,g,17,g
+123,tcby,no sugar added strawberry yogurt 12 oz,0,g,0,mg,320,g,54,g,12,g,0,g,0,g,12,g,18,g
+124,tcby,no sugar added strawberry yogurt 16 oz,0,g,0,mg,430,g,72,g,16,g,0,g,0,g,16,g,24,g
+125,tcby,no sugar added strawberry yogurt 3 oz,0,g,0,mg,80,g,14,g,3,g,0,g,0,g,3,g,5,g
+126,tcby,no sugar added strawberry yogurt 4 oz,0,g,0,mg,105,g,18,g,4,g,0,g,0,g,4,g,6,g
+127,tcby,no sugar added strawberry yogurt 6 oz,0,g,0,mg,160,g,27,g,6,g,0,g,0,g,6,g,9,g
+128,tcby,no sugar added strawberry yogurt 7 oz,0,g,0,mg,190,g,32,g,7,g,0,g,0,g,7,g,11,g
+129,tcby,no sugar added strawberry yogurt 8 oz,0,g,0,mg,210,g,36,g,8,g,0,g,0,g,8,g,12,g
+130,tcby,no sugar added strawberry yogurt 9 oz,0,g,0,mg,240,g,41,g,9,g,0,g,0,g,9,g,14,g
+131,tcby,no sugar added vanilla yogurt 10 oz,0,g,0,mg,270,g,45,g,10,g,0,g,0,g,10,g,15,g
+132,tcby,no sugar added vanilla yogurt 11 oz,0,g,0,mg,290,g,50,g,11,g,0,g,0,g,11,g,17,g
+133,tcby,no sugar added vanilla yogurt 12 oz,0,g,0,mg,320,g,54,g,12,g,0,g,0,g,12,g,18,g
+134,tcby,no sugar added vanilla yogurt 16 oz,0,g,0,mg,430,g,72,g,16,g,0,g,0,g,16,g,24,g
+135,tcby,no sugar added vanilla yogurt 3 oz,0,g,0,mg,80,g,14,g,3,g,0,g,0,g,3,g,5,g
+136,tcby,no sugar added vanilla yogurt 4 oz,0,g,0,mg,105,g,18,g,4,g,0,g,0,g,4,g,6,g
+137,tcby,no sugar added vanilla yogurt 6 oz,0,g,0,mg,160,g,27,g,6,g,0,g,0,g,6,g,9,g
+138,tcby,no sugar added vanilla yogurt 7 oz,0,g,0,mg,190,g,32,g,7,g,0,g,0,g,7,g,11,g
+139,tcby,no sugar added vanilla yogurt 8 oz,0,g,0,mg,210,g,36,g,8,g,0,g,0,g,8,g,12,g
+140,tcby,no sugar added vanilla yogurt 9 oz,0,g,0,mg,240,g,41,g,9,g,0,g,0,g,9,g,14,g
+141,tcby,no sugar added white chocolate macadamia yogurt 10 oz,0,g,0,mg,270,g,45,g,10,g,0,g,0,g,10,g,15,g
+142,tcby,no sugar added white chocolate macadamia yogurt 11 oz,0,g,0,mg,290,g,50,g,11,g,0,g,0,g,11,g,17,g
+143,tcby,no sugar added white chocolate macadamia yogurt 12 oz,0,g,0,mg,320,g,54,g,12,g,0,g,0,g,12,g,18,g
+144,tcby,no sugar added white chocolate macadamia yogurt 16 oz,0,g,0,mg,430,g,72,g,16,g,0,g,0,g,16,g,24,g
+145,tcby,no sugar added white chocolate macadamia yogurt 3 oz,0,g,0,mg,80,g,14,g,3,g,0,g,0,g,3,g,5,g
+146,tcby,no sugar added white chocolate macadamia yogurt 4 oz,0,g,0,mg,105,g,18,g,4,g,0,g,0,g,4,g,6,g
+147,tcby,no sugar added white chocolate macadamia yogurt 6 oz,0,g,0,mg,160,g,27,g,6,g,0,g,0,g,6,g,9,g
+148,tcby,no sugar added white chocolate macadamia yogurt 7 oz,0,g,0,mg,190,g,32,g,7,g,0,g,0,g,7,g,11,g
+149,tcby,no sugar added white chocolate macadamia yogurt 8 oz,0,g,0,mg,210,g,36,g,8,g,0,g,0,g,8,g,12,g
+150,tcby,no sugar added white chocolate macadamia yogurt 9 oz,0,g,0,mg,240,g,41,g,9,g,0,g,0,g,9,g,14,g
+151,tcby,old fashioned vanilla yogurt 10 oz,0,g,0,mg,250,g,58,g,10,g,0,g,0,g,10,g,38,g
+152,tcby,old fashioned vanilla yogurt 11 oz,0,g,0,mg,270,g,63,g,11,g,0,g,0,g,11,g,41,g
+153,tcby,old fashioned vanilla yogurt 12 oz,0,g,0,mg,300,g,69,g,12,g,0,g,0,g,12,g,45,g
+154,tcby,old fashioned vanilla yogurt 16 oz,0,g,0,mg,400,g,92,g,16,g,0,g,0,g,16,g,60,g
+155,tcby,old fashioned vanilla yogurt 3 oz,0,g,0,mg,75,g,17,g,3,g,0,g,0,g,3,g,11,g
+156,tcby,old fashioned vanilla yogurt 4 oz,0,g,0,mg,100,g,23,g,4,g,0,g,0,g,4,g,15,g
+157,tcby,old fashioned vanilla yogurt 6 oz,0,g,0,mg,150,g,35,g,6,g,0,g,0,g,6,g,23,g
+158,tcby,old fashioned vanilla yogurt 7 oz,0,g,0,mg,170,g,40,g,7,g,0,g,0,g,7,g,26,g
+159,tcby,old fashioned vanilla yogurt 8 oz,0,g,0,mg,200,g,46,g,8,g,0,g,0,g,8,g,30,g
+160,tcby,old fashioned vanilla yogurt 9 oz,0,g,0,mg,220,g,52,g,9,g,0,g,0,g,9,g,34,g
+161,tcby,orange sorbet 10 oz,0,g,0,mg,40,g,58,g,0,g,0,g,0,g,0,g,35,g
+162,tcby,orange sorbet 11 oz,0,g,0,mg,40,g,63,g,0,g,0,g,0,g,0,g,39,g
+163,tcby,orange sorbet 12 oz,0,g,0,mg,45,g,69,g,0,g,0,g,0,g,0,g,42,g
+164,tcby,orange sorbet 16 oz,0,g,0,mg,60,g,92,g,0,g,0,g,0,g,0,g,56,g
+165,tcby,orange sorbet 3 oz,0,g,0,mg,10,g,17,g,0,g,0,g,0,g,0,g,11,g
+166,tcby,orange sorbet 4 oz,0,g,0,mg,15,g,23,g,0,g,0,g,0,g,0,g,14,g
+167,tcby,orange sorbet 6 oz,0,g,0,mg,25,g,35,g,0,g,0,g,0,g,0,g,21,g
+168,tcby,orange sorbet 7 oz,0,g,0,mg,25,g,40,g,0,g,0,g,0,g,0,g,25,g
+169,tcby,orange sorbet 8 oz,0,g,0,mg,30,g,46,g,0,g,0,g,0,g,0,g,28,g
+170,tcby,orange sorbet 9 oz,0,g,0,mg,35,g,52,g,0,g,0,g,0,g,0,g,32,g
+171,tcby,peanut butter cup yogurt 10 oz,8,g,5,mg,310,g,63,g,10,g,0,g,0,g,10,g,43,g
+172,tcby,peanut butter cup yogurt 11 oz,8,g,5,mg,340,g,69,g,11,g,0,g,0,g,11,g,47,g
+173,tcby,peanut butter cup yogurt 12 oz,9,g,5,mg,380,g,75,g,12,g,0,g,0,g,12,g,51,g
+174,tcby,peanut butter cup yogurt 16 oz,12,g,10,mg,500,g,100,g,16,g,0,g,0,g,16,g,68,g
+175,tcby,peanut butter cup yogurt 3 oz,2,g,5,mg,95,g,19,g,3,g,0,g,0,g,3,g,13,g
+176,tcby,peanut butter cup yogurt 4 oz,3,g,5,mg,125,g,25,g,4,g,0,g,0,g,4,g,17,g
+177,tcby,peanut butter cup yogurt 6 oz,5,g,5,mg,190,g,38,g,6,g,0,g,0,g,6,g,26,g
+178,tcby,peanut butter cup yogurt 7 oz,5,g,5,mg,220,g,44,g,7,g,0,g,0,g,7,g,30,g
+179,tcby,peanut butter cup yogurt 8 oz,6,g,5,mg,250,g,50,g,8,g,0,g,0,g,8,g,34,g
+180,tcby,peanut butter cup yogurt 9 oz,7,g,5,mg,280,g,56,g,9,g,0,g,0,g,9,g,38,g
+181,tcby,peanut butter delight yogurt 10 oz,20,g,25,mg,250,g,55,g,13,g,10,g,0,g,3,g,43,g
+182,tcby,peanut butter delight yogurt 11 oz,22,g,30,mg,280,g,61,g,14,g,11,g,0,g,3,g,47,g
+183,tcby,peanut butter delight yogurt 12 oz,24,g,30,mg,300,g,66,g,15,g,12,g,0,g,3,g,51,g
+184,tcby,peanut butter delight yogurt 16 oz,32,g,40,mg,400,g,88,g,20,g,16,g,0,g,4,g,68,g
+185,tcby,peanut butter delight yogurt 3 oz,6,g,10,mg,75,g,17,g,4,g,3,g,0,g,1,g,13,g
+186,tcby,peanut butter delight yogurt 4 oz,8,g,10,mg,100,g,22,g,5,g,4,g,0,g,1,g,17,g
+187,tcby,peanut butter delight yogurt 6 oz,12,g,15,mg,150,g,33,g,8,g,6,g,0,g,2,g,26,g
+188,tcby,peanut butter delight yogurt 7 oz,14,g,20,mg,180,g,39,g,9,g,7,g,0,g,2,g,30,g
+189,tcby,peanut butter delight yogurt 8 oz,16,g,20,mg,200,g,44,g,10,g,8,g,0,g,2,g,34,g
+190,tcby,peanut butter delight yogurt 9 oz,18,g,25,mg,230,g,50,g,11,g,9,g,0,g,2,g,38,g
+191,tcby,peanut butter yo trax yogurt 10 oz,11,g,35,mg,140,g,59,g,9,g,7,g,0,g,0,g,46,g
+192,tcby,peanut butter yo trax yogurt 11 oz,12,g,40,mg,150,g,65,g,10,g,8,g,0,g,0,g,51,g
+193,tcby,peanut butter yo trax yogurt 12 oz,13,g,45,mg,170,g,71,g,11,g,9,g,0,g,0,g,55,g
+194,tcby,peanut butter yo trax yogurt 16 oz,18,g,60,mg,220,g,95,g,15,g,12,g,0,g,0,g,74,g
+195,tcby,peanut butter yo trax yogurt 3 oz,3,g,10,mg,40,g,18,g,3,g,2,g,0,g,0,g,14,g
+196,tcby,peanut butter yo trax yogurt 4 oz,4,g,15,mg,55,g,24,g,4,g,3,g,0,g,0,g,18,g
+197,tcby,peanut butter yo trax yogurt 6 oz,7,g,20,mg,85,g,35,g,6,g,4,g,0,g,0,g,28,g
+198,tcby,peanut butter yo trax yogurt 7 oz,8,g,25,mg,95,g,41,g,6,g,5,g,0,g,0,g,32,g
+199,tcby,peanut butter yo trax yogurt 8 oz,9,g,30,mg,110,g,47,g,7,g,6,g,0,g,0,g,37,g
+200,tcby,peanut butter yo trax yogurt 9 oz,10,g,35,mg,125,g,53,g,8,g,7,g,0,g,0,g,42,g
+201,tcby,peanut butter yogurt 10 oz,3,g,5,mg,340,g,65,g,10,g,0,g,0,g,8,g,48,g
+202,tcby,peanut butter yogurt 11 oz,3,g,5,mg,380,g,72,g,11,g,0,g,0,g,8,g,52,g
+203,tcby,peanut butter yogurt 12 oz,3,g,5,mg,410,g,78,g,12,g,0,g,0,g,9,g,57,g
+204,tcby,peanut butter yogurt 16 oz,4,g,10,mg,550,g,104,g,16,g,0,g,0,g,12,g,76,g
+205,tcby,peanut butter yogurt 3 oz,1,g,5,mg,105,g,20,g,3,g,0,g,0,g,2,g,14,g
+206,tcby,peanut butter yogurt 4 oz,1,g,5,mg,135,g,26,g,4,g,0,g,0,g,3,g,19,g
+207,tcby,peanut butter yogurt 6 oz,2,g,5,mg,210,g,39,g,6,g,0,g,0,g,5,g,29,g
+208,tcby,peanut butter yogurt 7 oz,2,g,5,mg,240,g,46,g,7,g,0,g,0,g,5,g,33,g
+209,tcby,peanut butter yogurt 8 oz,2,g,5,mg,270,g,52,g,8,g,0,g,0,g,6,g,38,g
+210,tcby,peanut butter yogurt 9 oz,2,g,5,mg,310,g,59,g,9,g,0,g,0,g,7,g,43,g
+211,tcby,pralines and cream yogurt 10 oz,11,g,25,mg,230,g,55,g,8,g,6,g,0,g,0,g,45,g
+212,tcby,pralines and cream yogurt 11 oz,12,g,30,mg,250,g,61,g,8,g,7,g,0,g,0,g,50,g
+213,tcby,pralines and cream yogurt 12 oz,14,g,30,mg,270,g,66,g,9,g,7,g,0,g,0,g,54,g
+214,tcby,pralines and cream yogurt 16 oz,18,g,40,mg,360,g,88,g,12,g,10,g,0,g,0,g,72,g
+215,tcby,pralines and cream yogurt 3 oz,3,g,10,mg,70,g,17,g,2,g,2,g,0,g,0,g,14,g
+216,tcby,pralines and cream yogurt 4 oz,5,g,10,mg,90,g,22,g,3,g,3,g,0,g,0,g,18,g
+217,tcby,pralines and cream yogurt 6 oz,7,g,15,mg,135,g,33,g,5,g,4,g,0,g,0,g,27,g
+218,tcby,pralines and cream yogurt 7 oz,8,g,20,mg,160,g,39,g,5,g,4,g,0,g,0,g,32,g
+219,tcby,pralines and cream yogurt 8 oz,9,g,20,mg,180,g,44,g,6,g,5,g,0,g,0,g,36,g
+220,tcby,pralines and cream yogurt 9 oz,10,g,25,mg,200,g,50,g,7,g,6,g,0,g,0,g,41,g
+221,tcby,psychedelic sorbet 10 oz,0,g,0,mg,40,g,55,g,0,g,0,g,0,g,0,g,38,g
+222,tcby,psychedelic sorbet 11 oz,0,g,0,mg,40,g,61,g,0,g,0,g,0,g,0,g,41,g
+223,tcby,psychedelic sorbet 12 oz,0,g,0,mg,45,g,66,g,0,g,0,g,0,g,0,g,45,g
+224,tcby,psychedelic sorbet 16 oz,0,g,0,mg,60,g,88,g,0,g,0,g,0,g,0,g,60,g
+225,tcby,psychedelic sorbet 3 oz,0,g,0,mg,10,g,17,g,0,g,0,g,0,g,0,g,11,g
+226,tcby,psychedelic sorbet 4 oz,0,g,0,mg,15,g,22,g,0,g,0,g,0,g,0,g,15,g
+227,tcby,psychedelic sorbet 6 oz,0,g,0,mg,25,g,33,g,0,g,0,g,0,g,0,g,23,g
+228,tcby,psychedelic sorbet 7 oz,0,g,0,mg,25,g,39,g,0,g,0,g,0,g,0,g,26,g
+229,tcby,psychedelic sorbet 8 oz,0,g,0,mg,30,g,44,g,0,g,0,g,0,g,0,g,30,g
+230,tcby,psychedelic sorbet 9 oz,0,g,0,mg,35,g,50,g,0,g,0,g,0,g,0,g,34,g
+231,tcby,rainbow cream yogurt 10 oz,8,g,25,mg,140,g,48,g,8,g,5,g,0,g,0,g,38,g
+232,tcby,rainbow cream yogurt 11 oz,8,g,30,mg,150,g,52,g,8,g,6,g,0,g,0,g,41,g
+233,tcby,rainbow cream yogurt 12 oz,9,g,30,mg,170,g,57,g,9,g,6,g,0,g,0,g,45,g
+234,tcby,rainbow cream yogurt 16 oz,12,g,40,mg,220,g,76,g,12,g,8,g,0,g,0,g,60,g
+235,tcby,rainbow cream yogurt 3 oz,2,g,10,mg,40,g,14,g,2,g,2,g,0,g,0,g,11,g
+236,tcby,rainbow cream yogurt 4 oz,3,g,10,mg,55,g,19,g,3,g,2,g,0,g,0,g,15,g
+237,tcby,rainbow cream yogurt 6 oz,5,g,15,mg,85,g,29,g,5,g,3,g,0,g,0,g,23,g
+238,tcby,rainbow cream yogurt 7 oz,5,g,20,mg,95,g,33,g,5,g,4,g,0,g,0,g,26,g
+239,tcby,rainbow cream yogurt 8 oz,6,g,20,mg,110,g,38,g,6,g,4,g,0,g,0,g,30,g
+240,tcby,rainbow cream yogurt 9 oz,7,g,25,mg,125,g,43,g,7,g,5,g,0,g,0,g,34,g
+241,tcby,roasty toasty marshmallow yogurt 10 oz,5,g,15,mg,260,g,70,g,8,g,10,g,0,g,8,g,48,g
+242,tcby,roasty toasty marshmallow yogurt 11 oz,6,g,15,mg,290,g,77,g,8,g,11,g,0,g,8,g,52,g
+243,tcby,roasty toasty marshmallow yogurt 12 oz,6,g,20,mg,310,g,84,g,9,g,12,g,0,g,9,g,57,g
+244,tcby,roasty toasty marshmallow yogurt 16 oz,8,g,25,mg,420,g,112,g,12,g,16,g,0,g,12,g,76,g
+245,tcby,roasty toasty marshmallow yogurt 3 oz,2,g,5,mg,80,g,21,g,2,g,3,g,0,g,2,g,14,g
+246,tcby,roasty toasty marshmallow yogurt 4 oz,2,g,5,mg,105,g,28,g,3,g,4,g,0,g,3,g,19,g
+247,tcby,roasty toasty marshmallow yogurt 6 oz,3,g,10,mg,160,g,42,g,5,g,6,g,0,g,5,g,29,g
+248,tcby,roasty toasty marshmallow yogurt 7 oz,4,g,10,mg,180,g,49,g,5,g,7,g,0,g,5,g,33,g
+249,tcby,roasty toasty marshmallow yogurt 8 oz,4,g,10,mg,210,g,56,g,6,g,8,g,0,g,6,g,38,g
+250,tcby,roasty toasty marshmallow yogurt 9 oz,5,g,15,mg,230,g,63,g,7,g,9,g,0,g,7,g,43,g
+251,tcby,rocky road yogurt 10 oz,18,g,40,mg,160,g,58,g,10,g,10,g,0,g,3,g,43,g
+252,tcby,rocky road yogurt 11 oz,19,g,40,mg,180,g,63,g,11,g,11,g,0,g,3,g,47,g
+253,tcby,rocky road yogurt 12 oz,21,g,45,mg,200,g,69,g,12,g,12,g,0,g,3,g,51,g
+254,tcby,rocky road yogurt 16 oz,28,g,60,mg,260,g,92,g,16,g,16,g,0,g,4,g,68,g
+255,tcby,rocky road yogurt 3 oz,5,g,10,mg,50,g,17,g,3,g,3,g,0,g,1,g,13,g
+256,tcby,rocky road yogurt 4 oz,7,g,15,mg,65,g,23,g,4,g,4,g,0,g,1,g,17,g
+257,tcby,rocky road yogurt 6 oz,11,g,25,mg,100,g,35,g,6,g,6,g,0,g,2,g,26,g
+258,tcby,rocky road yogurt 7 oz,12,g,25,mg,115,g,40,g,7,g,7,g,0,g,2,g,30,g
+259,tcby,rocky road yogurt 8 oz,14,g,30,mg,130,g,46,g,8,g,8,g,0,g,2,g,34,g
+260,tcby,rocky road yogurt 9 oz,16,g,35,mg,150,g,52,g,9,g,9,g,0,g,2,g,38,g
+261,tcby,ruby red grapefruit sorbet 10 oz,0,g,0,mg,40,g,63,g,0,g,0,g,0,g,0,g,48,g
+262,tcby,ruby red grapefruit sorbet 11 oz,0,g,0,mg,40,g,69,g,0,g,0,g,0,g,0,g,52,g
+263,tcby,ruby red grapefruit sorbet 12 oz,0,g,0,mg,45,g,75,g,0,g,0,g,0,g,0,g,57,g
+264,tcby,ruby red grapefruit sorbet 16 oz,0,g,0,mg,60,g,100,g,0,g,0,g,0,g,0,g,76,g
+265,tcby,ruby red grapefruit sorbet 3 oz,0,g,0,mg,10,g,19,g,0,g,0,g,0,g,0,g,14,g
+266,tcby,ruby red grapefruit sorbet 4 oz,0,g,0,mg,15,g,25,g,0,g,0,g,0,g,0,g,19,g
+267,tcby,ruby red grapefruit sorbet 6 oz,0,g,0,mg,25,g,38,g,0,g,0,g,0,g,0,g,29,g
+268,tcby,ruby red grapefruit sorbet 7 oz,0,g,0,mg,25,g,44,g,0,g,0,g,0,g,0,g,33,g
+269,tcby,ruby red grapefruit sorbet 8 oz,0,g,0,mg,30,g,50,g,0,g,0,g,0,g,0,g,38,g
+270,tcby,ruby red grapefruit sorbet 9 oz,0,g,0,mg,35,g,56,g,0,g,0,g,0,g,0,g,43,g
+271,tcby,sea salt caramel truffle yogurt 10 oz,11,g,35,mg,210,g,59,g,9,g,7,g,0,g,0,g,46,g
+272,tcby,sea salt caramel truffle yogurt 11 oz,12,g,40,mg,230,g,65,g,10,g,8,g,0,g,0,g,51,g
+273,tcby,sea salt caramel truffle yogurt 12 oz,13,g,45,mg,260,g,71,g,11,g,9,g,0,g,0,g,55,g
+274,tcby,sea salt caramel truffle yogurt 16 oz,18,g,60,mg,340,g,95,g,15,g,12,g,0,g,0,g,74,g
+275,tcby,sea salt caramel truffle yogurt 3 oz,3,g,10,mg,65,g,18,g,3,g,2,g,0,g,0,g,14,g
+276,tcby,sea salt caramel truffle yogurt 4 oz,4,g,15,mg,85,g,24,g,4,g,3,g,0,g,0,g,18,g
+277,tcby,sea salt caramel truffle yogurt 6 oz,7,g,20,mg,125,g,35,g,6,g,4,g,0,g,0,g,28,g
+278,tcby,sea salt caramel truffle yogurt 7 oz,8,g,25,mg,150,g,41,g,6,g,5,g,0,g,0,g,32,g
+279,tcby,sea salt caramel truffle yogurt 8 oz,9,g,30,mg,170,g,47,g,7,g,6,g,0,g,0,g,37,g
+280,tcby,sea salt caramel truffle yogurt 9 oz,10,g,35,mg,190,g,53,g,8,g,7,g,0,g,0,g,42,g
+281,tcby,strawberries and cream yogurt 10 oz,6,g,25,mg,115,g,50,g,8,g,5,g,0,g,0,g,43,g
+282,tcby,strawberries and cream yogurt 11 oz,7,g,30,mg,125,g,55,g,8,g,6,g,0,g,0,g,47,g
+283,tcby,strawberries and cream yogurt 12 oz,7,g,30,mg,135,g,60,g,9,g,6,g,0,g,0,g,51,g
+284,tcby,strawberries and cream yogurt 16 oz,10,g,40,mg,180,g,80,g,12,g,8,g,0,g,0,g,68,g
+285,tcby,strawberries and cream yogurt 3 oz,2,g,10,mg,35,g,15,g,2,g,2,g,0,g,0,g,13,g
+286,tcby,strawberries and cream yogurt 4 oz,3,g,10,mg,45,g,20,g,3,g,2,g,0,g,0,g,17,g
+287,tcby,strawberries and cream yogurt 6 oz,4,g,15,mg,70,g,30,g,5,g,3,g,0,g,0,g,26,g
+288,tcby,strawberries and cream yogurt 7 oz,4,g,20,mg,80,g,35,g,5,g,4,g,0,g,0,g,30,g
+289,tcby,strawberries and cream yogurt 8 oz,5,g,20,mg,90,g,40,g,6,g,4,g,0,g,0,g,34,g
+290,tcby,strawberries and cream yogurt 9 oz,6,g,25,mg,100,g,45,g,7,g,5,g,0,g,0,g,38,g
+291,tcby,strawberry kiwi sorbet 10 oz,0,g,0,mg,40,g,55,g,0,g,0,g,0,g,0,g,43,g
+292,tcby,strawberry kiwi sorbet 11 oz,0,g,0,mg,40,g,61,g,0,g,0,g,0,g,0,g,47,g
+293,tcby,strawberry kiwi sorbet 12 oz,0,g,0,mg,45,g,66,g,0,g,0,g,0,g,0,g,51,g
+294,tcby,strawberry kiwi sorbet 16 oz,0,g,0,mg,60,g,88,g,0,g,0,g,0,g,0,g,68,g
+295,tcby,strawberry kiwi sorbet 3 oz,0,g,0,mg,10,g,17,g,0,g,0,g,0,g,0,g,13,g
+296,tcby,strawberry kiwi sorbet 4 oz,0,g,0,mg,15,g,22,g,0,g,0,g,0,g,0,g,17,g
+297,tcby,strawberry kiwi sorbet 6 oz,0,g,0,mg,25,g,33,g,0,g,0,g,0,g,0,g,26,g
+298,tcby,strawberry kiwi sorbet 7 oz,0,g,0,mg,25,g,39,g,0,g,0,g,0,g,0,g,30,g
+299,tcby,strawberry kiwi sorbet 8 oz,0,g,0,mg,30,g,44,g,0,g,0,g,0,g,0,g,34,g
+300,tcby,strawberry kiwi sorbet 9 oz,0,g,0,mg,35,g,50,g,0,g,0,g,0,g,0,g,38,g
+301,tcby,strawberry sorbet 10 oz,0,g,0,mg,45,g,70,g,0,g,0,g,0,g,0,g,54,g
+302,tcby,strawberry sorbet 11 oz,0,g,0,mg,50,g,77,g,0,g,0,g,0,g,0,g,59,g
+303,tcby,strawberry sorbet 12 oz,0,g,0,mg,55,g,84,g,0,g,0,g,0,g,0,g,65,g
+304,tcby,strawberry sorbet 16 oz,0,g,0,mg,70,g,111,g,0,g,0,g,0,g,0,g,86,g
+305,tcby,strawberry sorbet 3 oz,0,g,0,mg,15,g,21,g,0,g,0,g,0,g,0,g,16,g
+306,tcby,strawberry sorbet 4 oz,0,g,0,mg,20,g,28,g,0,g,0,g,0,g,0,g,22,g
+307,tcby,strawberry sorbet 6 oz,0,g,0,mg,25,g,42,g,0,g,0,g,0,g,0,g,32,g
+308,tcby,strawberry sorbet 7 oz,0,g,0,mg,30,g,49,g,0,g,0,g,0,g,0,g,38,g
+309,tcby,strawberry sorbet 8 oz,0,g,0,mg,35,g,56,g,0,g,0,g,0,g,0,g,43,g
+310,tcby,strawberry sorbet 9 oz,0,g,0,mg,40,g,63,g,0,g,0,g,0,g,0,g,48,g
+311,tcby,strawberry yogurt 10 oz,5,g,15,mg,240,g,60,g,8,g,10,g,0,g,8,g,43,g
+312,tcby,strawberry yogurt 11 oz,6,g,15,mg,260,g,66,g,8,g,11,g,0,g,8,g,47,g
+313,tcby,strawberry yogurt 12 oz,6,g,20,mg,280,g,72,g,9,g,12,g,0,g,9,g,51,g
+314,tcby,strawberry yogurt 16 oz,8,g,25,mg,380,g,96,g,12,g,16,g,0,g,12,g,68,g
+315,tcby,strawberry yogurt 3 oz,2,g,5,mg,70,g,18,g,2,g,3,g,0,g,2,g,13,g
+316,tcby,strawberry yogurt 4 oz,2,g,5,mg,95,g,24,g,3,g,4,g,0,g,3,g,17,g
+317,tcby,strawberry yogurt 6 oz,3,g,10,mg,140,g,36,g,5,g,6,g,0,g,5,g,26,g
+318,tcby,strawberry yogurt 7 oz,4,g,10,mg,170,g,42,g,5,g,7,g,0,g,5,g,30,g
+319,tcby,strawberry yogurt 8 oz,4,g,10,mg,190,g,48,g,6,g,8,g,0,g,6,g,34,g
+320,tcby,strawberry yogurt 9 oz,5,g,15,mg,210,g,54,g,7,g,9,g,0,g,7,g,38,g
+321,tcby,vanilla bean yogurt 10 oz,8,g,25,mg,140,g,48,g,8,g,5,g,0,g,0,g,40,g
+322,tcby,vanilla bean yogurt 11 oz,8,g,30,mg,150,g,52,g,8,g,6,g,0,g,0,g,44,g
+323,tcby,vanilla bean yogurt 12 oz,9,g,30,mg,170,g,57,g,9,g,6,g,0,g,0,g,48,g
+324,tcby,vanilla bean yogurt 16 oz,12,g,40,mg,220,g,76,g,12,g,8,g,0,g,0,g,64,g
+325,tcby,vanilla bean yogurt 3 oz,2,g,10,mg,40,g,14,g,2,g,2,g,0,g,0,g,12,g
+326,tcby,vanilla bean yogurt 4 oz,3,g,10,mg,55,g,19,g,3,g,2,g,0,g,0,g,16,g
+327,tcby,vanilla bean yogurt 6 oz,5,g,15,mg,85,g,29,g,5,g,3,g,0,g,0,g,24,g
+328,tcby,vanilla bean yogurt 7 oz,5,g,20,mg,95,g,33,g,5,g,4,g,0,g,0,g,28,g
+329,tcby,vanilla bean yogurt 8 oz,6,g,20,mg,110,g,38,g,6,g,4,g,0,g,0,g,32,g
+330,tcby,vanilla bean yogurt 9 oz,7,g,25,mg,125,g,43,g,7,g,5,g,0,g,0,g,36,g
+331,tcby,white chocolate mousse yogurt 10 oz,5,g,10,mg,260,g,60,g,10,g,10,g,0,g,8,g,43,g
+332,tcby,white chocolate mousse yogurt 11 oz,6,g,10,mg,290,g,66,g,11,g,11,g,0,g,8,g,47,g
+333,tcby,white chocolate mousse yogurt 12 oz,6,g,10,mg,310,g,72,g,12,g,12,g,0,g,9,g,51,g
+334,tcby,white chocolate mousse yogurt 16 oz,8,g,15,mg,420,g,96,g,16,g,16,g,0,g,12,g,68,g
+335,tcby,white chocolate mousse yogurt 3 oz,2,g,5,mg,80,g,18,g,3,g,3,g,0,g,2,g,13,g
+336,tcby,white chocolate mousse yogurt 4 oz,2,g,5,mg,105,g,24,g,4,g,4,g,0,g,3,g,17,g
+337,tcby,white chocolate mousse yogurt 6 oz,3,g,5,mg,160,g,36,g,6,g,6,g,0,g,5,g,26,g
+338,tcby,white chocolate mousse yogurt 7 oz,4,g,5,mg,180,g,42,g,7,g,7,g,0,g,5,g,30,g
+339,tcby,white chocolate mousse yogurt 8 oz,4,g,10,mg,210,g,48,g,8,g,8,g,0,g,6,g,34,g
+340,tcby,white chocolate mousse yogurt 9 oz,5,g,10,mg,230,g,54,g,9,g,9,g,0,g,7,g,38,g
+341,teriyaki stix,chicken bowl,8,g,0,mg,0,g,111,g,41.9,g,2.7,g,0,g,1.8,g,0,g
+342,teriyaki stix,chicken bowl with veggies,8.2,g,0,mg,0,g,118.2,g,43.4,g,2.7,g,0,g,3.8,g,0,g
+343,teriyaki stix,veggie bowl,0.3,g,0,mg,0,g,133.9,g,14,g,0.0001,g,0,g,6,g,0,g
+344,teriyaki stix,curry bowl,15.2,g,0,mg,0,g,109.7,g,29.8,g,7.4,g,0,g,2.9,g,0,g
+345,teriyaki stix,orange chicken bowl,15.9,g,0,mg,0,g,113.2,g,35,g,3.4,g,0,g,0.5,g,0,g
+346,texas land and cattle steak house,txlc smoked sirloin nachos,55.4,g,116,mg,391,g,33.1,g,50.1,g,22.1,g,0,g,4.6,g,0,g
+347,texas land and cattle steak house,fried pickles,31.4,g,22,mg,2360,g,23.3,g,8.8,g,9.3,g,0,g,6.4,g,0,g
+348,texas land and cattle steak house,fried jalapenos,76.3,g,64,mg,4409,g,70.4,g,32.4,g,19.5,g,0,g,7.1,g,0,g
+349,texas land and cattle steak house,texas onion strings,111.5,g,9,mg,1173,g,110.6,g,5.8,g,14.9,g,0,g,5,g,0,g
+350,texas land and cattle steak house,garlic butter,22,g,58,mg,175,g,1.6,g,1,g,13.9,g,0,g,0.2,g,0,g
+351,texas land and cattle steak house,creole mustard aoli,19.7,g,9,mg,343,g,1.2,g,0.4,g,2.7,g,0,g,0.0001,g,0,g
+352,texas land and cattle steak house,avocado spread,4.5,g,9,mg,111,g,2,g,0.8,g,1.9,g,0,g,1.1,g,0,g
+353,texas land and cattle steak house,smoked poblano cream,2.6,g,11,mg,144,g,4.3,g,1.4,g,1.5,g,0,g,1.2,g,0,g
+354,texas land and cattle steak house,sweet potato mash,7.7,g,19,mg,522,g,55.6,g,3.7,g,4.6,g,0,g,4,g,0,g
+355,texas land and cattle steak house,chorizo con queso,24.3,g,73,mg,1283,g,7.1,g,16.3,g,12.8,g,0,g,0.1,g,0,g
+356,texas land and cattle steak house,pico de gallo,0.1,g,0,mg,159,g,5.3,g,1,g,0.0001,g,0,g,1.3,g,0,g
+357,texas land and cattle steak house,guacamole,4.4,g,0,mg,279,g,6.3,g,1.3,g,0.6,g,0,g,2.9,g,0,g
+358,texas land and cattle steak house,cumin sour cream,4.7,g,19,mg,10,g,1.1,g,1,g,3.3,g,0,g,0.1,g,0,g
+359,texas land and cattle steak house,chipotle butter,9.1,g,24,mg,189,g,18.1,g,2.8,g,5.6,g,0,g,1.6,g,0,g
+360,texas land and cattle steak house,steak and lobster combination,22.7,g,135,mg,480,g,6.8,g,54.3,g,11.5,g,0,g,0,g,0,g
+361,texas land and cattle steak house,garlic steak and shrimp combination with loaded baked potato,35.7,g,371,mg,1171,g,98.6,g,78.1,g,19.4,g,0,g,5.6,g,0,g
+362,texas land and cattle steak house,grilled chicken and shrimp combination with garlic mashed potato,27.9,g,334,mg,1287,g,75,g,58.8,g,15.4,g,0,g,5,g,0,g
+363,texas land and cattle steak house,ribs and chicken combination,70.7,g,256,mg,1687,g,75.7,g,96.3,g,32,g,0,g,5,g,0,g
+364,texas land and cattle steak house,chicken fried steak without gravy,116,g,87,mg,1411,g,71.9,g,114.8,g,24.2,g,0,g,8.4,g,0,g
+365,texas land and cattle steak house,cattlemans ribeye 14 oz,86.1,g,230,mg,524,g,0.8,g,69.9,g,33.6,g,0,g,0,g,0,g
+366,texas land and cattle steak house,medallion kabob 6 oz,10.2,g,126,mg,834,g,6.9,g,42.9,g,4,g,0,g,2,g,0,g
+367,texas land and cattle steak house,1883 bone in ribeye 20 oz,93.1,g,298,mg,589,g,6.1,g,100.1,g,37.7,g,0,g,0,g,0,g
+368,texas land and cattle steak house,txlc sirloin 7 oz with garlic mashed pot,32.6,g,159,mg,1117,g,59.7,g,53.3,g,17.9,g,0,g,5,g,0,g
+369,texas land and cattle steak house,grilled chicken breast,28.5,g,199,mg,1329,g,59.4,g,75.8,g,15.7,g,0,g,5,g,0,g
+370,texas land and cattle steak house,texas t bone 18 oz,47,g,256,mg,1330,g,2.2,g,113.3,g,17.9,g,0,g,0,g,0,g
+371,texas land and cattle steak house,cowgirls ribeye 12 oz,73.8,g,197,mg,450,g,0.7,g,60,g,28.8,g,0,g,0,g,0,g
+372,texas land and cattle steak house,north texas strip 14 oz,45.1,g,180,mg,260,g,0.0001,g,69.1,g,17.2,g,0,g,0,g,0,g
+373,texas land and cattle steak house,chicken fried chicken without gravy,48.9,g,144,mg,2528,g,36.5,g,78.9,g,18.1,g,0,g,5.6,g,0,g
+374,texas land and cattle steak house,half rack texas style rib,99.7,g,127,mg,1693,g,80.3,g,64,g,28.1,g,0,g,7.8,g,0,g
+375,texas land and cattle steak house,trail quail with garlic mashed potatoes,30.3,g,202,mg,2332,g,60.2,g,50.6,g,16.1,g,0,g,5,g,0,g
+376,texas land and cattle steak house,full rack texas style ribs,144.9,g,254,mg,2369,g,82.3,g,119.1,g,45.4,g,0,g,7.8,g,0,g
+377,texas land and cattle steak house,wood roasted chicken with crispy fries,78.9,g,185,mg,1723,g,79.1,g,57,g,17.6,g,0,g,7.8,g,0,g
+378,texas land and cattle steak house,jalapeno pork chops with garlic mashed potatoes,48.2,g,355,mg,2304,g,61.3,g,105.7,g,23.3,g,0,g,5,g,0,g
+379,texas land and cattle steak house,trail boss filet 9 oz,14.7,g,113,mg,441,g,6.5,g,48.9,g,5.7,g,0,g,0,g,0,g
+380,texas land and cattle steak house,1883 filet 10 oz,26.7,g,201,mg,506,g,0.9,g,56.2,g,10.5,g,0,g,0,g,0,g
+381,texas land and cattle steak house,txlc sirloin 10 oz with garlic mashed pot,37,g,202,mg,1298,g,60,g,73.3,g,19.6,g,0,g,5,g,0,g
+382,texas land and cattle steak house,bacon wrapped filet 7 oz,16.1,g,148,mg,325,g,1,g,41.5,g,6.3,g,0,g,0,g,0,g
+383,texas land and cattle steak house,silver sput filet 7 oz,11.4,g,88,mg,343,g,5.1,g,38,g,4.4,g,0,g,0,g,0,g
+384,texas land and cattle steak house,range boss 20 oz,123,g,328,mg,749,g,1.1,g,99.9,g,47.9,g,0,g,0,g,0,g
+385,texas land and cattle steak house,grilled chicken caesar salad with classic dressing,73.5,g,96,mg,1028,g,14.4,g,45.2,g,9.4,g,0,g,4.8,g,0,g
+386,texas land and cattle steak house,plain classic cobb salad,18.1,g,166,mg,997,g,20,g,20.3,g,4.3,g,0,g,8.9,g,0,g
+387,texas land and cattle steak house,grilled chicken caesar salad with spicy dressing,66.5,g,98,mg,1435,g,16.9,g,43.9,g,9.6,g,0,g,5,g,0,g
+388,texas land and cattle steak house,plain caesar salad with spicy dressing,63.5,g,29,mg,1118,g,16.6,g,9.3,g,8.7,g,0,g,5,g,0,g
+389,texas land and cattle steak house,chicken pico salad without dressing,41.6,g,59,mg,2607,g,61.7,g,40.3,g,5.2,g,0,g,8.7,g,0,g
+390,texas land and cattle steak house,small caesar salad with classic dressing,37.1,g,17,mg,467,g,9.5,g,7.6,g,5.1,g,0,g,2.4,g,0,g
+391,texas land and cattle steak house,house salad without dressing,2.1,g,5,mg,281,g,10.5,g,5.3,g,0.5,g,0,g,2.6,g,0,g
+392,texas land and cattle steak house,plain caesar salad with classic dressing,70.5,g,27,mg,711,g,14.2,g,10.5,g,8.5,g,0,g,4.8,g,0,g
+393,texas land and cattle steak house,grilled salmon caesar salad with spicy dressing,93.8,g,196,mg,1485,g,18.7,g,52.1,g,13.5,g,0,g,5,g,0,g
+394,texas land and cattle steak house,small caesar salad with spicy dressing,33.6,g,18,mg,671,g,10.8,g,7,g,5.2,g,0,g,2.5,g,0,g
+395,texas land and cattle steak house,classic cobb salad with grilled chicken,21.1,g,235,mg,1315,g,20.2,g,55,g,5.2,g,0,g,8.9,g,0,g
+396,texas land and cattle steak house,grilled salmon caesar salad with classic dressing,100.8,g,194,mg,1078,g,16.2,g,53.4,g,13.3,g,0,g,4.8,g,0,g
+397,texas land and cattle steak house,white bbq sauce,18.6,g,8,mg,434,g,2.2,g,0.2,g,2.5,g,0,g,0.1,g,0,g
+398,texas land and cattle steak house,cinnamon sauce,21.5,g,29,mg,202,g,13.9,g,0.3,g,8.6,g,0,g,0.4,g,0,g
+399,texas land and cattle steak house,add on lobster tail 4 oz,11.3,g,47,mg,137,g,1.7,g,16.3,g,7.1,g,0,g,0,g,0,g
+400,texas land and cattle steak house,txlc salmon steak with garlic mashed potatoes and aoli,72.5,g,237,mg,1404,g,62.1,g,49.8,g,21.3,g,0,g,5,g,0,g
+401,texas land and cattle steak house,fried shrimp with fries and cocktail sauce,95.1,g,494,mg,2320,g,142.5,g,52.4,g,17.7,g,0,g,9.2,g,0,g
+402,texas land and cattle steak house,add on lobster tail 8 oz,22.6,g,94,mg,274,g,3.5,g,32.5,g,14.2,g,0,g,0,g,0,g
+403,texas land and cattle steak house,mesquite grilled shrimp with garlic mashed potatoes,27.1,g,468,mg,1245,g,90.6,g,41.8,g,15.1,g,0,g,5,g,0,g
+404,texas land and cattle steak house,mesquite grilled trout with garlic mashed potatoes,44.2,g,217,mg,848,g,58.9,g,60.7,g,20.2,g,0,g,5,g,0,g
+405,texas land and cattle steak house,chipotle tuna without side saddle,0.0001,g,93,mg,241,g,1.3,g,53.1,g,0,g,0,g,0,g,0,g
+406,texas land and cattle steak house,garlic mashed potatoes,18,g,48,mg,555,g,47.1,g,5.2,g,11.1,g,0,g,4,g,0,g
+407,texas land and cattle steak house,crispy fries,23.7,g,0,mg,442,g,34,g,3.9,g,4.7,g,0,g,3.4,g,0,g
+408,texas land and cattle steak house,loaded baked potato,23.2,g,67,mg,473,g,81.9,g,13.8,g,14.8,g,0,g,5.6,g,0,g
+409,texas land and cattle steak house,fresh seasoned broccoli,35.1,g,91,mg,341,g,15.8,g,9.2,g,21.8,g,0,g,7.8,g,0,g
+410,texas land and cattle steak house,ranch house beans,3.3,g,7,mg,561,g,16,g,7.6,g,0.9,g,0,g,4.5,g,0,g
+411,texas land and cattle steak house,baked sweet potato,13.6,g,33,mg,173,g,37.3,g,3.6,g,8.4,g,0,g,5.9,g,0,g
+412,tgi fridays restaurant,signature whiskey glazed sliders 2 as served,35,g,75,mg,1280,g,47,g,25,g,12,g,1,g,1,g,17,g
+413,tgi fridays restaurant,pan seared pot stickers with szechwan dipping sauce,25,g,15,mg,2150,g,72,g,18,g,9,g,0,g,2,g,22,g
+414,tgi fridays restaurant,loaded potato skins,45,g,50,mg,1070,g,108,g,22,g,14,g,0,g,18,g,5,g
+415,tgi fridays restaurant,green bean fries as served,65,g,5,mg,1720,g,69,g,9,g,21,g,0,g,8,g,7,g
+416,tgi fridays restaurant,boneless apple butter buffalo wings without dressing,43,g,60,mg,2450,g,83,g,40,g,7,g,0,g,7,g,33,g
+417,tgi fridays restaurant,signature whiskey glazed sesame chicken strips as served,81,g,245,mg,1520,g,213,g,41,g,20,g,0,g,4,g,148,g
+418,tgi fridays restaurant,chicken quesadilla as served,110,g,270,mg,3610,g,83,g,77,g,47,g,2,g,7,g,9,g
+419,tgi fridays restaurant,mozzarella sticks,36,g,50,mg,1010,g,37,g,27,g,16,g,1,g,5,g,2,g
+420,tgi fridays restaurant,chips and salsa,13,g,0,mg,1180,g,49,g,7,g,2,g,0,g,5,g,2,g
+421,tgi fridays restaurant,traditional whiskey glazed wings without dressing,40,g,405,mg,1300,g,51,g,72,g,11,g,0,g,1,g,47,g
+422,tgi fridays restaurant,giant soft pretzels as served,74,g,85,mg,2850,g,139,g,39,g,25,g,0,g,4,g,5,g
+423,tgi fridays restaurant,traditional garlic parmesan wings without dressing,71,g,410,mg,1650,g,11,g,73,g,17,g,0,g,0,g,1,g
+424,tgi fridays restaurant,signature whiskey glazed sliders 4 as served,69,g,150,mg,2550,g,95,g,49,g,25,g,2,g,3,g,33,g
+425,tgi fridays restaurant,boneless whiskey glazed wings without dressing,43,g,60,mg,2740,g,103,g,40,g,7,g,0,g,7,g,56,g
+426,tgi fridays restaurant,traditional apple butter bbq wings without dressing large,40,g,405,mg,1490,g,36,g,72,g,11,g,0,g,1,g,26,g
+427,tgi fridays restaurant,add on pan seared pot stickers,17,g,10,mg,1420,g,48,g,12,g,6,g,0,g,1,g,15,g
+428,tgi fridays restaurant,boneless wings combo garlic parmesan without dressing,65,g,50,mg,2640,g,52,g,33,g,11,g,0,g,5,g,8,g
+429,tgi fridays restaurant,signature whiskey glazed sampler as served,81,g,245,mg,4520,g,213,g,71,g,20,g,0,g,4,g,148,g
+430,tgi fridays restaurant,mozzarella sticks with marinara sauce,52,g,75,mg,1400,g,54,g,39,g,24,g,1.5,g,8,g,2,g
+431,tgi fridays restaurant,add on giant soft pretzel as served,32,g,30,mg,1490,g,68,g,17,g,10,g,0,g,2,g,2,g
+432,tgi fridays restaurant,tostado nachos as served,127,g,325,mg,3490,g,104,g,101,g,66,g,4,g,16,g,7,g
+433,tgi fridays restaurant,boneless wings combo whiskey glazed without dressing,27,g,85,mg,1500,g,61,g,35,g,6,g,0,g,3,g,24,g
+434,tgi fridays restaurant,traditional franks redhot buffalo wings without dressing,39,g,405,mg,2660,g,3,g,71,g,11,g,0,g,0,g,0,g
+435,tgi fridays restaurant,bucket of bones as served,82,g,465,mg,2980,g,120,g,92,g,23,g,0,g,6,g,71,g
+436,tgi fridays restaurant,spinach and artichoke dip as served,50,g,85,mg,2250,g,63,g,21,g,20,g,0.5,g,6,g,4,g
+437,tgi fridays restaurant,loaded potato skins with ranch sour cream,73,g,85,mg,1950,g,179,g,38,g,23,g,0,g,31,g,7,g
+438,tgi fridays restaurant,traditional wings combo apple butter bbq without dressing,24,g,240,mg,690,g,31,g,43,g,7,g,0,g,1,g,24,g
+439,tgi fridays restaurant,boneless wings combo franks redhot buffalo without dressing,34,g,50,mg,3650,g,44,g,31,g,6,g,0,g,5,g,7,g
+440,tgi fridays restaurant,traditional wings combo franks redhot buffalo without dressing,24,g,240,mg,2340,g,2,g,43,g,7,g,0,g,0,g,0,g
+441,tgi fridays restaurant,boneless wings combo dragon glaze without dressing,43,g,60,mg,2970,g,82,g,42,g,7,g,0,g,7,g,31,g
+442,tgi fridays restaurant,signature whiskey glazed hand breaded sampler as served,82,g,220,mg,4500,g,215,g,74,g,20,g,0,g,4,g,148,g
+443,tgi fridays restaurant,traditional wings combo whiskey glazed without dressing,24,g,240,mg,970,g,50,g,44,g,7,g,0,g,1,g,47,g
+444,tgi fridays restaurant,giant onion rings as served,55,g,5,mg,1630,g,155,g,15,g,10,g,0,g,10,g,33,g
+445,tgi fridays restaurant,traditional wings combo carolina reaper without dressing,25,g,240,mg,2200,g,12,g,45,g,7,g,0,g,0,g,6,g
+446,tgi fridays restaurant,traditional carolina reaper wings without dressing,40,g,405,mg,2520,g,13,g,73,g,11,g,0,g,0,g,6,g
+447,tgi fridays restaurant,traditional wings combo dragon glaze without dressing,56,g,160,mg,1090,g,28,g,36,g,12,g,0,g,1,g,22,g
+448,tgi fridays restaurant,boneless wings combo apple butter bbq without dressing,34,g,50,mg,2000,g,72,g,32,g,6,g,0,g,5,g,3,g
+449,tgi fridays restaurant,sizzling queso chips as served,93,g,175,mg,3850,g,81,g,43,g,39,g,1,g,6,g,12,g
+450,tgi fridays restaurant,boneless wings combo carolina reaper without dressing,35,g,50,mg,3510,g,54,g,33,g,6,g,0,g,5,g,13,g
+451,tgi fridays restaurant,traditional wings combogarlic parmesan without dressing,55,g,245,mg,1330,g,10,g,45,g,12,g,0,g,0,g,1,g
+452,tgi fridays restaurant,traditional wings combo chile lime without dressing,61,g,160,mg,1300,g,7,g,35,g,13,g,0,g,0,g,4,g
+453,tgi fridays restaurant,strawberry lemonade slush,0,g,0,mg,10,g,38,g,0,g,0,g,0,g,1,g,35,g
+454,tgi fridays restaurant,blue raspberry slush,0,g,0,mg,25,g,42,g,0,g,0,g,0,g,0,g,39,g
+455,tgi fridays restaurant,cherry limeade slush,0,g,0,mg,45,g,49,g,0,g,0,g,0,g,0,g,45,g
+456,tgi fridays restaurant,red bull passion slush sugarfree,0,g,0,mg,210,g,27,g,1,g,0,g,0,g,3,g,21,g
+457,tgi fridays restaurant,red bull tropical passion slush,0,g,0,mg,100,g,54,g,0,g,0,g,0,g,3,g,48,g
+458,tgi fridays restaurant,triple berry smoothie,1,g,0,mg,15,g,48,g,1,g,0.5,g,0,g,4,g,41,g
+459,tgi fridays restaurant,mango peach lemonade slush,0,g,0,mg,15,g,44,g,0,g,0,g,0,g,0,g,41,g
+460,tgi fridays restaurant,mango passion smoothie,1,g,0,mg,10,g,72,g,1,g,0.5,g,0,g,1,g,66,g
+461,tgi fridays restaurant,red bull passion slush regular,0,g,0,mg,100,g,54,g,1,g,0,g,0,g,3,g,48,g
+462,tgi fridays restaurant,brownie obsession as served,58,g,180,mg,480,g,154,g,14,g,29,g,0,g,4,g,125,g
+463,tgi fridays restaurant,oreo madness,29,g,65,mg,390,g,98,g,8,g,14,g,0.5,g,3,g,66,g
+464,tgi fridays restaurant,brownie obsession half order,36,g,125,mg,280,g,90,g,10,g,18,g,0,g,2,g,75,g
+465,tgi fridays restaurant,red velvet cake,92,g,295,mg,960,g,199,g,16,g,43,g,1.5,g,1,g,146,g
+466,tgi fridays restaurant,donut cheesecake,57,g,180,mg,570,g,76,g,10,g,30,g,1,g,1,g,48,g
+467,tgi fridays restaurant,cinnabon,49,g,160,mg,570,g,127,g,11,g,24,g,0,g,2,g,105,g
+468,tgi fridays restaurant,red velvet cake half portion,49,g,180,mg,520,g,112,g,12,g,23,g,0.5,g,1,g,87,g
+469,tgi fridays restaurant,kids crispy chicken tenders with honey mustard dressing,33,g,35,mg,1160,g,31,g,20,g,10,g,0,g,1,g,8,g
+470,tgi fridays restaurant,kids sliders without sides or beverage,28,g,60,mg,1270,g,37,g,21,g,10,g,1,g,1,g,8,g
+471,tgi fridays restaurant,kids seasoned fries side,16,g,0,mg,810,g,40,g,5,g,3,g,0,g,5,g,0,g
+472,tgi fridays restaurant,kids mozzarella sticks side,33,g,50,mg,790,g,37,g,26,g,15,g,1,g,6,g,2,g
+473,tgi fridays restaurant,kids fettuccine pasta with alfredo sauce,16,g,50,mg,460,g,39,g,11,g,10,g,0,g,2,g,2,g
+474,tgi fridays restaurant,kids lemon butter broccoli side,11,g,10,mg,850,g,11,g,4,g,4.5,g,0,g,5,g,2,g
+475,tgi fridays restaurant,kids hand breaded chicken fingers with honey mustard dressing,30,g,75,mg,660,g,15,g,21,g,5,g,0,g,0,g,7,g
+476,tgi fridays restaurant,kids fettuccine pasta with marinara,10,g,0,mg,840,g,43,g,8,g,1.5,g,0,g,3,g,6,g
+477,tgi fridays restaurant,kids apple juice,0,g,0,mg,10,g,22,g,0,g,0,g,0,g,0,g,22,g
+478,tgi fridays restaurant,kids fresh fruit side,0,g,0,mg,0,g,15,g,1,g,0,g,0,g,2,g,11,g
+479,tgi fridays restaurant,kids chocolate milk,2.5,g,10,mg,170,g,26,g,7,g,1.5,g,0,g,1,g,23,g
+480,tgi fridays restaurant,kids paradise punch,0,g,0,mg,0,g,25,g,1,g,0,g,0,g,1,g,21,g
+481,tgi fridays restaurant,kids mashed potatoes side,11,g,20,mg,560,g,21,g,4,g,5,g,0,g,3,g,1,g
+482,tgi fridays restaurant,kids vanilla ice cream,24,g,135,mg,150,g,48,g,11,g,13,g,0,g,0,g,48,g
+483,tgi fridays restaurant,kids milk,2,g,10,mg,105,g,10,g,7,g,1.5,g,0,g,0,g,10,g
+484,tgi fridays restaurant,kids fettuccine pasta with butter,18,g,10,mg,400,g,35,g,10,g,5,g,0,g,2,g,1,g
+485,tgi fridays restaurant,kids sushes average all flavors,0,g,0,mg,22,g,28,g,0,g,0,g,0,g,0,g,26,g
+486,tgi fridays restaurant,kids sundae,30,g,105,mg,240,g,95,g,8,g,19,g,0,g,1,g,79,g
+487,tgi fridays restaurant,kids orange juice,0,g,0,mg,0,g,19,g,1,g,0,g,0,g,0,g,16,g
+488,tgi fridays restaurant,kids rub red grapefruit juice,0,g,0,mg,50,g,21,g,0,g,0,g,0,g,0,g,21,g
+489,tgi fridays restaurant,caesar salad with grilled chicken and caesar dressing lunch,29,g,80,mg,940,g,10,g,24,g,6,g,0,g,3,g,2,g
+490,tgi fridays restaurant,bbq chicken salad with bbq ranch dressing,56,g,155,mg,2540,g,73,g,54,g,15,g,0,g,13,g,30,g
+491,tgi fridays restaurant,million dollar cobb salad with grilled chicken and ranch dressing lunch,37,g,180,mg,1330,g,13,g,34,g,12,g,0,g,5,g,6,g
+492,tgi fridays restaurant,bbq chicken salad with bbq ranch dressing lunch,32,g,80,mg,1390,g,43,g,29,g,9,g,0,g,7,g,15,g
+493,tgi fridays restaurant,add on lemon butter broccoli,11,g,10,mg,850,g,11,g,4,g,4.5,g,0,g,5,g,2,g
+494,tgi fridays restaurant,add on jasmine rice,11,g,0,mg,470,g,72,g,7,g,2.5,g,0,g,5,g,1,g
+495,tgi fridays restaurant,add on cheddar mac and cheese,35,g,65,mg,1670,g,52,g,26,g,19,g,0,g,0,g,6,g
+496,tgi fridays restaurant,add on garlic breadstick,10,g,0,mg,360,g,27,g,5,g,2.5,g,0,g,1,g,3,g
+497,tgi fridays restaurant,add on apple butter bbq ribs half rack,28,g,80,mg,720,g,16,g,18,g,10,g,0,g,1,g,12,g
+498,tgi fridays restaurant,add on whiskey glazed ribs half rack,25,g,70,mg,1460,g,81,g,19,g,9,g,0,g,1,g,76,g
+499,tgi fridays restaurant,add on giant onion rings,26,g,5,mg,750,g,61,g,6,g,4.5,g,0,g,4,g,15,g
+500,tgi fridays restaurant,add on coleslaw,8,g,10,mg,220,g,5,g,1,g,2,g,0,g,0,g,3,g
+501,tgi fridays restaurant,add on mashed potatoes,11,g,20,mg,560,g,21,g,4,g,5,g,0,g,3,g,1,g
+502,tgi fridays restaurant,add on fried shrimp,12,g,90,mg,870,g,27,g,13,g,2.5,g,0,g,1,g,1,g
+503,tgi fridays restaurant,add on signature whiskey glazed sesame chicken strips,12,g,75,mg,910,g,49,g,26,g,2,g,0,g,0,g,47,g
+504,tgi fridays restaurant,add on side salad without dressing,2,g,5,mg,95,g,5,g,2,g,1,g,0,g,1,g,2,g
+505,tgi fridays restaurant,add on avocado,5,g,0,mg,0,g,3,g,1,g,1,g,0,g,3,g,0,g
+506,tgi fridays restaurant,add on bacon,5,g,15,mg,260,g,0,g,5,g,1.5,g,0,g,0,g,0,g
+507,tgi fridays restaurant,add on hand breaded fried shrimp,14,g,65,mg,850,g,29,g,16,g,2.5,g,0,g,1,g,1,g
+508,tgi fridays restaurant,add on fruit cup,0,g,0,mg,0,g,15,g,1,g,0,g,0,g,2,g,11,g
+509,tgi fridays restaurant,signature whiskey glazed ribs with coleslaw and seasoned fries half rack,51,g,115,mg,2180,g,129,g,37,g,15,g,0,g,6,g,85,g
+510,tgi fridays restaurant,shrimp and lobster pasta as served,89,g,260,mg,2520,g,140,g,78,g,37,g,1,g,7,g,12,g
+511,tgi fridays restaurant,crispy chicken tenders with seasoned fries coleslaw and honey mustard dressing,70,g,95,mg,2600,g,73,g,31,g,12,g,0,g,5,g,16,g
+512,tgi fridays restaurant,sizzling chicken and cheese with peppers and mashed potatoes,76,g,200,mg,2580,g,52,g,63,g,30,g,0.5,g,7,g,7,g
+513,tgi fridays restaurant,signature whiskey glazed ribs with coleslaw and seasoned fries full rack,75,g,210,mg,2940,g,178,g,69,g,25,g,0,g,7,g,132,g
+514,tgi fridays restaurant,dragon glaze salmon with mashed potatoes and lemon butter broccoli,36,g,95,mg,2470,g,55,g,38,g,11,g,0,g,9,g,18,g
+515,tgi fridays restaurant,center cut sirloin topped with parmesan butter with mashed potatoes and lemon butter broccoli,41,g,115,mg,2280,g,34,g,34,g,16,g,0,g,8,g,4,g
+516,tgi fridays restaurant,sizzling chicken and shrimp with peppers and mashed potatoes,87,g,235,mg,2830,g,57,g,65,g,29,g,0.5,g,8,g,9,g
+517,tgi fridays restaurant,sizzling signature whiskey glazed flat iron steak as served,79,g,175,mg,3580,g,114,g,52,g,37,g,1,g,7,g,60,g
+518,tgi fridays restaurant,apple butter bbq ribs with coleslaw and seasoned fries full rack,81,g,175,mg,2560,g,81,g,42,g,25,g,0,g,7,g,33,g
+519,tgi fridays restaurant,signature whiskey glazed chicken with mashed potatoes and lemon butter broccoli,32,g,225,mg,3490,g,91,g,77,g,12,g,0,g,13,g,58,g
+520,tgi fridays restaurant,hand breaded crispy chicken tenders with seasoned fries coleslaw and honey mustard dressing,63,g,125,mg,1930,g,65,g,40,g,12,g,0,g,6,g,11,g
+521,tgi fridays restaurant,center cut sirloin topped with whiskey glaze with mashed potatoes and lemon butter broccoli,31,g,105,mg,2600,g,76,g,34,g,12,g,0,g,8,g,45,g
+522,tgi fridays restaurant,apple butter bbq ribs with coleslaw and seasoned fries half rack,54,g,95,mg,1840,g,65,g,23,g,15,g,0,g,6,g,21,g
+523,tgi fridays restaurant,filet mignon topped with parmesan butter with mashed potatoes and lemon butter broccoli,39,g,190,mg,1840,g,33,g,61,g,16,g,1,g,8,g,4,g
+524,tgi fridays restaurant,center cut sirloin and shrimp topped with parmesan butter with cocktail sauce mashed potatoes and lemon butter broccoli,43,g,190,mg,3520,g,68,g,45,g,14,g,0,g,9,g,10,g
+525,tgi fridays restaurant,filet mignon topped with whiskey glaze with mashed potatoes and lemon butter broccoli,35,g,185,mg,2220,g,75,g,62,g,14,g,1,g,8,g,45,g
+526,tgi fridays restaurant,sizzling chicken and shrimp alfredo,100,g,380,mg,2480,g,104,g,93,g,48,g,2,g,5,g,7,g
+527,tgi fridays restaurant,parmesan crusted chicken with mashed potatoes and lemon butter broccoli,49,g,260,mg,3900,g,54,g,87,g,19,g,0,g,13,g,9,g
+528,tgi fridays restaurant,center cut sirloin topped with parmesan butter and hand breaded shrimp with cocktail sauce mashed potatoes and lemon butter broccoli,49,g,185,mg,2900,g,45,g,42,g,17,g,0,g,8,g,4,g
+529,tgi fridays restaurant,center cut sirloin and shrimp topped with whiskey glaze with cocktail sauce mashed potatoes and lemon butter broccoli,38,g,185,mg,3600,g,80,g,42,g,12,g,0,g,9,g,22,g
+530,tgi fridays restaurant,sizzling all day omelet with seasoned fries,97,g,795,mg,3610,g,62,g,64,g,36,g,1,g,8,g,8,g
+531,tgi fridays restaurant,cheese blintzes with glazed strawberries,53,g,245,mg,1210,g,72,g,27,g,27,g,1.5,g,4,g,34,g
+532,tgi fridays restaurant,sizzling street noodles,39,g,95,mg,6970,g,230,g,73,g,6,g,0,g,13,g,44,g
+533,tgi fridays restaurant,center cut sirloin topped with whiskey glaze and hand breaded shrimp with cocktail sauce mashed potatoes and lemon butter broccoli,39,g,175,mg,3230,g,84,g,43,g,13,g,0,g,8,g,45,g
+534,tgi fridays restaurant,cheese blintzes with strawberry preserves,54,g,245,mg,1210,g,118,g,27,g,27,g,1.5,g,12,g,78,g
+535,tgi fridays restaurant,cajun shrimp and chicken pasta half portion as served,38,g,140,mg,1710,g,79,g,39,g,18,g,0.5,g,4,g,8,g
+536,tgi fridays restaurant,cajun shrimp and chicken pasta with breadstick,83,g,300,mg,3040,g,132,g,73,g,41,g,1.5,g,8,g,12,g
+537,tgi fridays restaurant,chicken parmesan pasta half portion as served,85,g,185,mg,3580,g,105,g,60,g,30,g,1,g,6,g,19,g
+538,tgi fridays restaurant,chicken parmesan pasta as served,107,g,255,mg,4130,g,154,g,74,g,43,g,1.5,g,9,g,22,g
+539,tgi fridays restaurant,honey mustard dressing,18,g,15,mg,290,g,9,g,0,g,3,g,0,g,0,g,7,g
+540,tgi fridays restaurant,ranch dressing,14,g,10,mg,300,g,1,g,1,g,2.5,g,0,g,0,g,1,g
+541,tgi fridays restaurant,balsamic vinaigrette,19,g,0,mg,240,g,4,g,0,g,3,g,0,g,0,g,4,g
+542,tgi fridays restaurant,caesar dressing,20,g,20,mg,300,g,2,g,1,g,4,g,0,g,0,g,0,g
+543,tgi fridays restaurant,blue cheese dressing,21,g,20,mg,310,g,1,g,2,g,4,g,0.5,g,0,g,1,g
+544,tgi fridays restaurant,bbq ranch dressing,9,g,5,mg,230,g,5,g,1,g,1.5,g,0,g,0,g,4,g
+545,tgi fridays restaurant,sesame citrus dressing,15,g,0,mg,560,g,7,g,0,g,3,g,0,g,0,g,7,g
+546,tgi fridays restaurant,million dollar cobb salad with grilled chicken and ranch dressing,74,g,350,mg,2640,g,26,g,65,g,24,g,0,g,10,g,11,g
+547,tgi fridays restaurant,caesar salad with grilled chicken and caesar dressing,59,g,155,mg,1870,g,20,g,45,g,12,g,1,g,6,g,4,g
+548,tgi fridays restaurant,house side salad with breadstick without dressing,12,g,5,mg,460,g,34,g,8,g,3.5,g,0,g,3,g,5,g
+549,tgi fridays restaurant,caesar salad with grilled salmon and caesar dressing,69,g,125,mg,1790,g,24,g,40,g,13,g,1,g,5,g,4,g
+550,tgi fridays restaurant,million dollar cobb salad with 6 oz centre cut sirloin steak with ranch dressing,77,g,325,mg,2640,g,26,g,56,g,24,g,0,g,8,g,11,g
+551,tgi fridays restaurant,million dollar cobb salad with grilled salmon and ranch dressing,85,g,320,mg,2560,g,30,g,59,g,25,g,0,g,9,g,11,g
+552,tgi fridays restaurant,caesar salad with 6 oz centrer cut sirloin steak with caesar dressing,62,g,130,mg,1880,g,20,g,37,g,13,g,1,g,4,g,3,g
+553,tgi fridays restaurant,caesar salad with beyond meat patty with caesar dressing,89,g,60,mg,2680,g,28,g,43,g,24,g,1,g,9,g,3,g
+554,tgi fridays restaurant,million dollar cobb salad with beyond meat patty and ranch dressing,103,g,250,mg,3370,g,33,g,61,g,35,g,0,g,1,g,10,g
+555,tgi fridays restaurant,chinese chicken salad as served,78,g,65,mg,2960,g,91,g,38,g,15,g,0,g,9,g,39,g
+556,tgi fridays restaurant,chinese salad with grilled salmon as served,79,g,70,mg,2800,g,73,g,39,g,14,g,0,g,9,g,41,g
+557,tgi fridays restaurant,chinese salad with 6 oz center cut sirloin steak as served,72,g,75,mg,280,g,68,g,36,g,13,g,0,g,8,g,41,g
+558,tgi fridays restaurant,chinese salad with beyond meat patty as served,97,g,0,mg,3610,g,76,g,40,g,24,g,0,g,13,g,40,g
+559,tgi fridays restaurant,signature whiskey glazed burger without sides,55,g,165,mg,3530,g,110,g,46,g,25,g,2,g,3,g,76,g
+560,tgi fridays restaurant,signature whiskey glazed chicken sandwich without side,57,g,165,mg,2910,g,100,g,53,g,21,g,0.5,g,3,g,56,g
+561,tgi fridays restaurant,bacon cheeseburger without sides,54,g,155,mg,2950,g,47,g,42,g,23,g,1.5,g,3,g,15,g
+562,tgi fridays restaurant,southern fried chicken sandwich without sides,62,g,135,mg,2630,g,61,g,45,g,19,g,0,g,6,g,17,g
+563,tgi fridays restaurant,loaded cheese fry burger without sides,93,g,175,mg,3660,g,99,g,55,g,37,g,0,g,10,g,14,g
+564,tgi fridays restaurant,bacon ranch chicken sandwich without sides,31,g,145,mg,2260,g,42,g,53,g,11,g,0,g,7,g,5,g
+565,tgi fridays restaurant,beyond meat cheeseburger gluten free bun without sides,60,g,50,mg,3390,g,55,g,44,g,23,g,0,g,13,g,10,g
+566,tgi fridays restaurant,southern fried buffalo chicken sandwich without sides,62,g,135,mg,4460,g,62,g,45,g,19,g,0,g,6,g,18,g
+567,tgi fridays restaurant,cheeseburger gluten free bun without sides,53,g,145,mg,2880,g,43,g,39,g,22,g,1.5,g,8,g,8,g
+568,tgi fridays restaurant,green style beyond meat cheeseburger without sides,46,g,30,mg,2940,g,19,g,38,g,18,g,0,g,7,g,6,g
+569,tgi fridays restaurant,signature whiskey glazed burger gluten free bun without sides,58,g,165,mg,3570,g,109,g,45,g,24,g,2,g,8,g,72,g
+570,tgi fridays restaurant,cheeseburger without sides,50,g,145,mg,2840,g,44,g,39,g,24,g,1.5,g,3,g,12,g
+571,tgi fridays restaurant,bacon cheeseburger with gluten free bun without sides,57,g,155,mg,2990,g,47,g,41,g,22,g,1.5,g,8,g,11,g
+572,tgi fridays restaurant,green style cheeseburger without sides,40,g,125,mg,2430,g,9,g,33,g,18,g,1.5,g,2,g,4,g
+573,tgi fridays restaurant,beyond meat cheeseburger without sides,57,g,50,mg,3350,g,55,g,45,g,24,g,0,g,7,g,14,g
+574,tgi fridays restaurant,cheddar bacon omelet burger gluten free bun as served,97,g,445,mg,4150,g,54,g,64,g,36,g,2,g,8,g,15,g
+575,tgi fridays restaurant,green style bacon cheeseburger without sides,43,g,135,mg,2540,g,12,g,35,g,17,g,1.5,g,2,g,7,g
+576,tgi fridays restaurant,bacon and egg club sandwich as served,111,g,570,mg,3530,g,74,g,59,g,38,g,0.5,g,5,g,9,g
+577,tgi fridays restaurant,mediterranean shrimp naan without sides,15,g,95,mg,1260,g,54,g,31,g,3.5,g,0,g,4,g,6,g
+578,tgi fridays restaurant,green style signature whiskey glazed burger without sides,44,g,145,mg,3120,g,74,g,39,g,19,g,2,g,2,g,68,g
+579,tgi fridays restaurant,cheddar bacon omelet burger as served,94,g,445,mg,4110,g,54,g,65,g,37,g,2,g,3,g,19,g
+580,tgi fridays restaurant,green style cheddar bacon omelet burger as served,84,g,425,mg,3710,g,19,g,59,g,31,g,2,g,2,g,11,g
+581,tgi fridays restaurant,simply grilled salmon with jasmine rice and lemon butter broccoli,45,g,85,mg,2020,g,81,g,38,g,11,g,0,g,6,g,3,g
+582,tgi fridays restaurant,fish and chips as served,72,g,100,mg,1840,g,97,g,40,g,13,g,0,g,4,g,16,g
+583,tgi fridays restaurant,fried shrimp with seasoned fries coleslaw and cocktail sauce,51,g,195,mg,3320,g,111,g,32,g,10,g,0,g,8,g,17,g
+584,tgi fridays restaurant,simply grilled salmon with mashed potatoes and lemon butter broccili,46,g,105,mg,2170,g,38,g,37,g,16,g,0.5,g,9,g,4,g
+585,tgi fridays restaurant,dragon glaze salmon with jasmine rice and lemon butter broccoli,36,g,75,mg,2390,g,107,g,41,g,6,g,0,g,7,g,16,g
+586,tgi fridays restaurant,hand breaded fried shrimp with seasoned fries coleslaw and cocktail sauce,54,g,145,mg,3290,g,115,g,38,g,9,g,0,g,8,g,16,g
+587,tgi fridays restaurant,grilled chicken caesar wrap,33,g,80,mg,1350,g,43,g,28,g,8,g,0,g,4,g,2,g
+588,tgi fridays restaurant,bbq chicken wrap,23,g,75,mg,1500,g,61,g,32,g,7,g,0,g,6,g,13,g
+589,tgi fridays restaurant,million dollar cobb wrap,36,g,175,mg,1710,g,49,g,39,g,3,g,0,g,6,g,5,g
+590,tgi fridays restaurant,add cheese american 1 slice,10,g,20,mg,410,g,1,g,7,g,6,g,0,g,0,g,0,g
+591,tgi fridays restaurant,add on giant soft pretzel,32,g,30,mg,1490,g,68,g,17,g,10,g,0,g,2,g,2,g
+592,tgi fridays restaurant,add on giant soft pretzel impinger,18,g,30,mg,1490,g,68,g,17,g,7,g,0,g,2,g,2,g
+593,tgi fridays restaurant,add on pan seared pot stickers,17,g,10,mg,1420,g,48,g,12,g,6,g,0,g,1,g,15,g
+594,tgi fridays restaurant,add ons apple butter bbq ribs half rack,28,g,80,mg,720,g,16,g,18,g,10,g,0,g,1,g,12,g
+595,tgi fridays restaurant,add ons caesar salad with breadstick with caesar dressing,36,g,25,mg,900,g,35,g,10,g,8,g,0,g,2,g,4,g
+596,tgi fridays restaurant,add ons cheddar mac and cheese,35,g,65,mg,1670,g,52,g,26,g,19,g,0,g,0,g,6,g
+597,tgi fridays restaurant,add ons choice of soup,30,g,105,mg,2230,g,225,g,21,g,18,g,1,g,5,g,16,g
+598,tgi fridays restaurant,add ons coleslaw,8,g,10,mg,220,g,5,g,1,g,2,g,0,g,0,g,3,g
+599,tgi fridays restaurant,add ons fridays signature whiskey glazed sesame chicken strips,12,g,75,mg,910,g,48,g,26,g,2,g,0,g,0,g,47,g
+600,tgi fridays restaurant,add ons fried shrimp,12,g,90,mg,870,g,27,g,13,g,2.5,g,0,g,1,g,1,g
+601,tgi fridays restaurant,add ons fried shrimp hand breaded,14,g,65,mg,850,g,29,g,16,g,2.5,g,0,g,1,g,1,g
+602,tgi fridays restaurant,add ons fruit cup,0,g,0,mg,0,g,15,g,1,g,0,g,0,g,2,g,11,g
+603,tgi fridays restaurant,add ons garlic breadstick,10,g,0,mg,360,g,27,g,5,g,2.5,g,0,g,1,g,3,g
+604,tgi fridays restaurant,add ons garlic breadstick impinger,7,g,0,mg,360,g,27,g,5,g,2,g,0,g,1,g,3,g
+605,tgi fridays restaurant,add ons giant onion rings,26,g,5,mg,750,g,61,g,6,g,4.5,g,0,g,4,g,15,g
+606,tgi fridays restaurant,add ons house salad with breadstick without dressing,12,g,5,mg,460,g,34,g,8,g,3.5,g,0,g,3,g,5,g
+607,tgi fridays restaurant,add ons jasmine rice,11,g,0,mg,470,g,72,g,7,g,2.5,g,0,g,5,g,1,g
+608,tgi fridays restaurant,add ons lemon butter broccoli,11,g,10,mg,850,g,11,g,4,g,4.5,g,0,g,5,g,2,g
+609,tgi fridays restaurant,add ons mashed potatoes,11,g,20,mg,560,g,21,g,4,g,5,g,0,g,3,g,1,g
+610,tgi fridays restaurant,add ons seasoned fries,16,g,0,mg,810,g,40,g,5,g,3,g,0,g,5,g,0,g
+611,tgi fridays restaurant,add ons sweet potato fries,20,g,0,mg,230,g,50,g,3,g,9,g,0,g,6,g,15,g
+612,tgi fridays restaurant,add ons whiskey glazed ribs half rack,25,g,70,mg,1460,g,81,g,19,g,9,g,0,g,1,g,76,g
+613,tgi fridays restaurant,appetizer wings boneless apple butter bbq without dressing,43,g,60,mg,2450,g,83,g,40,g,7,g,0,g,7,g,33,g
+614,tgi fridays restaurant,appetizer wings boneless carolina reaper without dressing,43,g,60,mg,3960,g,65,g,41,g,7,g,0,g,6,g,15,g
+615,tgi fridays restaurant,appetizer wings boneless franks redhot buffalo without dressing,42,g,60,mg,4100,g,54,g,39,g,7,g,0,g,6,g,9,g
+616,tgi fridays restaurant,appetizer wings boneless garlic parmesan without dressing,74,g,65,mg,3090,g,63,g,41,g,13,g,0,g,6,g,10,g
+617,tgi fridays restaurant,appetizer wings boneless whiskey glazed without dressing,43,g,60,mg,2740,g,103,g,40,g,7,g,0,g,7,g,56,g
+618,tgi fridays restaurant,appetizer wings traditional apple butter bbq without dressing,40,g,405,mg,1490,g,36,g,72,g,11,g,0,g,1,g,26,g
+619,tgi fridays restaurant,appetizer wings traditional carolina reaper without dressing,40,g,405,mg,2520,g,13,g,73,g,11,g,0,g,0,g,6,g
+620,tgi fridays restaurant,appetizer wings traditional franks redhot buffalo without dressing,39,g,405,mg,2660,g,3,g,71,g,11,g,0,g,0,g,0,g
+621,tgi fridays restaurant,appetizer wings traditional garlic parmesan without dressing,71,g,410,mg,1650,g,11,g,73,g,17,g,0,g,0,g,1,g
+622,tgi fridays restaurant,appetizer wings traditional whiskey glazed without dressing,40,g,405,mg,1300,g,51,g,72,g,11,g,0,g,1,g,47,g
+623,tgi fridays restaurant,apple butter bbq ribs full rack with coleslaw and seasoned fries,81,g,175,mg,2560,g,81,g,42,g,25,g,0,g,7,g,33,g
+624,tgi fridays restaurant,apple butter bbq ribs half rack with coleslaw and seasoned fries,54,g,95,mg,1840,g,65,g,23,g,15,g,0,g,6,g,21,g
+625,tgi fridays restaurant,avocado add on,5,g,0,mg,0,g,3,g,1,g,1,g,0,g,3,g,0,g
+626,tgi fridays restaurant,bacon and egg club sandwich,111,g,570,mg,3530,g,74,g,59,g,38,g,0.5,g,5,g,9,g
+627,tgi fridays restaurant,bacon add on,5,g,15,mg,260,g,0,g,5,g,1.5,g,0,g,0,g,0,g
+628,tgi fridays restaurant,bacon cheddar omelet with breakfast potatoes and multi grain toast,69,g,525,mg,2550,g,61,g,42,g,22,g,0.5,g,6,g,8,g
+629,tgi fridays restaurant,bacon cheeseburger with gluten free bun no side,57,g,155,mg,2990,g,47,g,41,g,22,g,1.5,g,8,g,11,g
+630,tgi fridays restaurant,bacon cheeseburger no side,54,g,155,mg,2950,g,47,g,42,g,23,g,1.5,g,3,g,15,g
+631,tgi fridays restaurant,bacon ranch chicken sandwich without side,11,g,145,mg,2260,g,47,g,55,g,0,g,145,g,7,g,12,g
+632,tgi fridays restaurant,bacon ranch chicken sandwich no side,31,g,145,mg,2260,g,42,g,53,g,11,g,0,g,7,g,5,g
+633,tgi fridays restaurant,bacon egg and cheese tacos,68,g,385,mg,3560,g,54,g,39,g,20,g,0,g,4,g,12,g
+634,tgi fridays restaurant,ballpark locations seasoned fries,16,g,0,mg,810,g,40,g,5,g,3,g,0,g,5,g,0,g
+635,tgi fridays restaurant,balsamic vinaigrette,19,g,0,mg,240,g,4,g,0,g,3,g,0,g,0,g,4,g
+636,tgi fridays restaurant,bbq chicken salad lunch portion,32,g,80,mg,1390,g,43,g,29,g,9,g,0,g,7,g,15,g
+637,tgi fridays restaurant,bbq chicken salad lunch portion with bbq ranch dressing,32,g,80,mg,1390,g,43,g,29,g,9,g,0,g,7,g,15,g
+638,tgi fridays restaurant,bbq chicken salad with bbq ranch dressing,56,g,155,mg,2540,g,73,g,54,g,15,g,0,g,13,g,30,g
+639,tgi fridays restaurant,bbq chicken wrap,23,g,75,mg,1500,g,61,g,32,g,7,g,0,g,6,g,13,g
+640,tgi fridays restaurant,bbq chicken wrap without side,23,g,75,mg,1460,g,62,g,32,g,7,g,0,g,6,g,13,g
+641,tgi fridays restaurant,bbq ranch dressing,9,g,5,mg,230,g,5,g,1,g,1.5,g,0,g,0,g,4,g
+642,tgi fridays restaurant,beer guinness can 14 9 oz,0,g,0,mg,25,g,12,g,1,g,0,g,0,g,0,g,0,g
+643,tgi fridays restaurant,beer light 12 oz,0,g,0,mg,15,g,6,g,1,g,0,g,0,g,0,g,0,g
+644,tgi fridays restaurant,beer light 21 oz,0,g,0,mg,25,g,10,g,1,g,0,g,0,g,0,g,1,g
+645,tgi fridays restaurant,beer pabst blue ribbon can 16 oz,0,g,0,mg,15,g,16,g,0,g,0,g,0,g,0,g,0,g
+646,tgi fridays restaurant,beer regular 12 oz,0,g,0,mg,15,g,13,g,2,g,0,g,0,g,0,g,0,g
+647,tgi fridays restaurant,beer regular 21 oz,0,g,0,mg,25,g,22,g,3,g,0,g,0,g,0,g,0,g
+648,tgi fridays restaurant,black coffee,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+649,tgi fridays restaurant,blue cheese dressing,21,g,20,mg,310,g,2,g,2,g,4,g,0.5,g,0,g,1,g
+650,tgi fridays restaurant,breakfast bacon and egg club sandwich,80,g,420,mg,2640,g,70,g,40,g,25,g,0,g,5,g,5,g
+651,tgi fridays restaurant,breakfast bacon egg and cheese tacos,87,g,520,mg,4230,g,94,g,47,g,24,g,0.5,g,9,g,12,g
+652,tgi fridays restaurant,breakfast breakfast potato skins,78,g,535,mg,2830,g,150,g,52,g,24,g,0.5,g,25,g,8,g
+653,tgi fridays restaurant,breakfast cheddar bacon omelet burger,94,g,445,mg,4110,g,54,g,65,g,37,g,2,g,3,g,19,g
+654,tgi fridays restaurant,brownie obsession,58,g,180,mg,480,g,154,g,14,g,29,g,0,g,4,g,125,g
+655,tgi fridays restaurant,brownie obsession half,36,g,125,mg,280,g,90,g,10,g,18,g,0,g,2,g,75,g
+656,tgi fridays restaurant,bucket of bones,82,g,465,mg,2980,g,120,g,92,g,23,g,0,g,6,g,71,g
+657,tgi fridays restaurant,caesar dressing,20,g,20,mg,300,g,2,g,1,g,4,g,0,g,0,g,0,g
+658,tgi fridays restaurant,caesar salad with 6 oz center cut sirloin with caesar dressing,62,g,130,mg,1880,g,20,g,37,g,13,g,1,g,4,g,3,g
+659,tgi fridays restaurant,caesar salad with beyond meat patty with caesar dressing,89,g,60,mg,2680,g,28,g,43,g,24,g,1,g,9,g,3,g
+660,tgi fridays restaurant,caesar salad with breadstick,36,g,25,mg,900,g,35,g,10,g,8,g,0,g,2,g,4,g
+661,tgi fridays restaurant,caesar salad with breadstick impinger,34,g,25,mg,900,g,35,g,10,g,7,g,0,g,2,g,4,g
+662,tgi fridays restaurant,caesar salad with breadstick with caesar dressing,36,g,25,mg,900,g,35,g,10,g,8,g,0,g,2,g,4,g
+663,tgi fridays restaurant,caesar salad with breadstick with caesar dressing impinger,34,g,25,mg,900,g,35,g,10,g,7,g,0,g,2,g,4,g
+664,tgi fridays restaurant,caesar salad with grilled chicken lunch portion,29,g,80,mg,940,g,10,g,24,g,6,g,0,g,3,g,2,g
+665,tgi fridays restaurant,caesar salad with grilled chicken with caesar dressing,59,g,155,mg,1870,g,20,g,45,g,12,g,1,g,6,g,4,g
+666,tgi fridays restaurant,caesar salad with grilled salmon with caesar dressing,69,g,125,mg,1790,g,24,g,40,g,13,g,1,g,5,g,4,g
+667,tgi fridays restaurant,cajun shrimp and chicken pasta half portion,38,g,140,mg,1710,g,79,g,39,g,18,g,0.5,g,4,g,8,g
+668,tgi fridays restaurant,cajun shrimp and chicken pasta with breadstick,83,g,300,mg,3040,g,132,g,73,g,41,g,1.5,g,8,g,12,g
+669,tgi fridays restaurant,cajun shrimp and chicken pasta with a breadstick,38,g,140,mg,1710,g,79,g,39,g,18,g,0.5,g,4,g,8,g
+670,tgi fridays restaurant,cajun shrimp and chicken pasta with breadstick impinger,35,g,140,mg,1710,g,79,g,39,g,18,g,0.5,g,4,g,8,g
+671,tgi fridays restaurant,center cut sirloin topped with parmesan butter includes mashed potatoes and lemon butter broccoli,41,g,115,mg,2280,g,34,g,34,g,16,g,0,g,8,g,4,g
+672,tgi fridays restaurant,center cut sirloin topped with whiskey glaze includes mashed potatoes and lemon butter broccoli,31,g,105,mg,2600,g,76,g,34,g,12,g,0,g,8,g,45,g
+673,tgi fridays restaurant,cheddar bacon omelet burger,94,g,445,mg,4110,g,54,g,65,g,37,g,2,g,3,g,19,g
+674,tgi fridays restaurant,cheddar bacon omelet burger with gluten free bun,97,g,445,mg,4150,g,54,g,64,g,36,g,2,g,8,g,15,g
+675,tgi fridays restaurant,cheddar mac and cheese no side or beverage,23,g,35,mg,1220,g,41,g,16,g,12,g,0,g,0,g,5,g
+676,tgi fridays restaurant,cheeseburger green style without side,40,g,125,mg,2430,g,9,g,33,g,18,g,1.5,g,2,g,4,g
+677,tgi fridays restaurant,cheeseburger with gluten free bun no side,53,g,145,mg,2880,g,43,g,39,g,22,g,1.5,g,8,g,8,g
+678,tgi fridays restaurant,cheeseburger with regular bun without side,50,g,145,mg,2840,g,44,g,39,g,24,g,1.5,g,3,g,12,g
+679,tgi fridays restaurant,cheeseburger with udis gluten free bun without side,53,g,145,mg,2880,g,43,g,39,g,22,g,1.5,g,8,g,8,g
+680,tgi fridays restaurant,cheeseburger no side,50,g,145,mg,2840,g,44,g,39,g,24,g,1.5,g,3,g,12,g
+681,tgi fridays restaurant,chicken and waffles,26,g,65,mg,2100,g,118,g,26,g,5,g,0,g,2,g,51,g
+682,tgi fridays restaurant,chicken and waffles hand breaded,22,g,90,mg,1570,g,113,g,33,g,4.5,g,0,g,2,g,51,g
+683,tgi fridays restaurant,chicken caesar salad with grilled chicken lunch portion with caesar dressing,29,g,80,mg,940,g,10,g,24,g,6,g,0,g,3,g,2,g
+684,tgi fridays restaurant,chicken parmesan pasta,107,g,255,mg,4130,g,154,g,74,g,43,g,1.5,g,9,g,22,g
+685,tgi fridays restaurant,chicken parmesan pasta half portion,85,g,185,mg,3580,g,105,g,60,g,30,g,1,g,6,g,19,g
+686,tgi fridays restaurant,chicken parmesan pasta with breadstick,85,g,185,mg,3580,g,105,g,60,g,30,g,1,g,6,g,19,g
+687,tgi fridays restaurant,chicken parmesan pasta with breadstick impinger,83,g,185,mg,3580,g,105,g,60,g,30,g,1,g,6,g,19,g
+688,tgi fridays restaurant,chicken quesadilla,110,g,270,mg,3610,g,83,g,77,g,47,g,2,g,7,g,9,g
+689,tgi fridays restaurant,chili cheese dog,57,g,115,mg,3550,g,63,g,33,g,20,g,3,g,2,g,12,g
+690,tgi fridays restaurant,chinese chicken salad,78,g,65,mg,2960,g,91,g,38,g,15,g,0,g,9,g,39,g
+691,tgi fridays restaurant,chinese chicken wrap,182,g,215,mg,8220,g,365,g,131,g,46,g,0,g,32,g,83,g
+692,tgi fridays restaurant,chinese salad with 6 oz center cut sirloin,72,g,75,mg,2880,g,68,g,36,g,13,g,0,g,8,g,41,g
+693,tgi fridays restaurant,chinese salad with grilled salmon,79,g,70,mg,2800,g,73,g,39,g,14,g,0,g,9,g,41,g
+694,tgi fridays restaurant,chinese salad with with beyond meat patty,97,g,0,mg,3610,g,76,g,40,g,24,g,0,g,13,g,40,g
+695,tgi fridays restaurant,chips and salsa,13,g,0,mg,1180,g,49,g,7,g,2,g,0,g,5,g,2,g
+696,tgi fridays restaurant,cinnabon,49,g,160,mg,570,g,127,g,11,g,24,g,0,g,2,g,105,g
+697,tgi fridays restaurant,cocktails altos rita,0,g,0,mg,570,g,28,g,0,g,0,g,0,g,0,g,25,g
+698,tgi fridays restaurant,cocktails altos strawberry rita,0,g,0,mg,570,g,29,g,0,g,0,g,0,g,1,g,25,g
+699,tgi fridays restaurant,cocktails angry apple punch,0,g,0,mg,50,g,34,g,0,g,0,g,0,g,1,g,31,g
+700,tgi fridays restaurant,cocktails angry balls over under shooter,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,0,g,12,g
+701,tgi fridays restaurant,cocktails aperol,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,17,g
+702,tgi fridays restaurant,cocktails aperol spritz,0,g,0,mg,10,g,34,g,0,g,0,g,0,g,0,g,32,g
+703,tgi fridays restaurant,cocktails apple tini,0,g,0,mg,5,g,42,g,0,g,0,g,0,g,0,g,40,g
+704,tgi fridays restaurant,cocktails aviation 75,0,g,0,mg,0,g,26,g,0,g,0,g,0,g,0,g,24,g
+705,tgi fridays restaurant,cocktails aviation lit,0,g,0,mg,0,g,25,g,0,g,0,g,0,g,0,g,21,g
+706,tgi fridays restaurant,cocktails aviation negroni,0,g,0,mg,10,g,21,g,0,g,0,g,0,g,0,g,19,g
+707,tgi fridays restaurant,cocktails bacardi rum,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+708,tgi fridays restaurant,cocktails baileys,6,g,15,mg,35,g,11,g,1,g,3.5,g,0,g,0,g,9,g
+709,tgi fridays restaurant,cocktails baileys add on,3,g,10,mg,15,g,5,g,1,g,1.5,g,0,g,0,g,4,g
+710,tgi fridays restaurant,cocktails barbados rum punch,0,g,0,mg,65,g,37,g,0,g,0,g,0,g,1,g,33,g
+711,tgi fridays restaurant,cocktails barbados rum punch go big,0,g,0,mg,120,g,54,g,0,g,0,g,0,g,1,g,49,g
+712,tgi fridays restaurant,cocktails batch long island tea,0,g,0,mg,10,g,22,g,0,g,0,g,0,g,0,g,20,g
+713,tgi fridays restaurant,cocktails batch margarita,0,g,0,mg,570,g,24,g,0,g,0,g,0,g,0,g,22,g
+714,tgi fridays restaurant,cocktails berry smash,0,g,0,mg,0,g,19,g,1,g,0,g,0,g,3,g,15,g
+715,tgi fridays restaurant,cocktails berry smash go big,0,g,0,mg,0,g,33,g,1,g,0,g,0,g,3,g,27,g
+716,tgi fridays restaurant,cocktails blackberry buzz rita,0,g,0,mg,570,g,25,g,0,g,0,g,0,g,2,g,21,g
+717,tgi fridays restaurant,cocktails blackberry margarita,0,g,0,mg,570,g,26,g,0,g,0,g,0,g,1,g,23,g
+718,tgi fridays restaurant,cocktails blackberry mojito,0,g,0,mg,10,g,30,g,0,g,0,g,0,g,2,g,25,g
+719,tgi fridays restaurant,cocktails blood orange cooler,0,g,0,mg,0,g,33,g,1,g,0,g,0,g,2,g,29,g
+720,tgi fridays restaurant,cocktails bloody mary,1,g,0,mg,1580,g,7,g,1,g,0,g,0,g,1,g,1,g
+721,tgi fridays restaurant,cocktails blue fire lemonade,0,g,0,mg,0,g,27,g,0,g,0,g,0,g,0,g,23,g
+722,tgi fridays restaurant,cocktails blue hawaiian under over shooter,0,g,0,mg,5,g,13,g,0,g,0,g,0,g,0,g,8,g
+723,tgi fridays restaurant,cocktails blue rita shaker,0,g,0,mg,570,g,32,g,0,g,0,g,0,g,0,g,27,g
+724,tgi fridays restaurant,cocktails bordeaux cherry manhattan,0,g,0,mg,55,g,13,g,0,g,0,g,0,g,0,g,11,g
+725,tgi fridays restaurant,cocktails buttery nipple,3,g,10,mg,15,g,13,g,1,g,1.5,g,0,g,0,g,12,g
+726,tgi fridays restaurant,cocktails buzz rita,0,g,0,mg,570,g,33,g,0,g,0,g,0,g,0,g,30,g
+727,tgi fridays restaurant,cocktails cafe toledo,9,g,25,mg,40,g,29,g,2,g,5,g,0,g,1,g,28,g
+728,tgi fridays restaurant,cocktails captain morgan and coke,0,g,0,mg,15,g,15,g,0,g,0,g,0,g,0,g,15,g
+729,tgi fridays restaurant,cocktails captain morgan island rum punch,0,g,0,mg,10,g,61,g,1,g,0,g,0,g,1,g,46,g
+730,tgi fridays restaurant,cocktails celebration cake over under shooter,6,g,15,mg,10,g,19,g,3,g,3.5,g,0,g,0,g,17,g
+731,tgi fridays restaurant,cocktails cherry bomb over under shooter,0,g,0,mg,20,g,14,g,0,g,0,g,0,g,0,g,14,g
+732,tgi fridays restaurant,cocktails cinnamon toast shooter,2,g,5,mg,10,g,14,g,0,g,1,g,0,g,0,g,11,g
+733,tgi fridays restaurant,cocktails corona rita,0,g,0,mg,580,g,42,g,1,g,0,g,0,g,0,g,33,g
+734,tgi fridays restaurant,cocktails cosmopolitan,0,g,0,mg,10,g,17,g,0,g,0,g,0,g,0,g,17,g
+735,tgi fridays restaurant,cocktails croc french smash,0,g,0,mg,15,g,33,g,0,g,0,g,0,g,0,g,32,g
+736,tgi fridays restaurant,cocktails croc tropikhal punch,0,g,0,mg,0,g,25,g,0,g,0,g,0,g,1,g,22,g
+737,tgi fridays restaurant,cocktails crown apple cooler,0,g,0,mg,10,g,48,g,0,g,0,g,0,g,0,g,42,g
+738,tgi fridays restaurant,cocktails crown apple cooler go big,0,g,0,mg,15,g,77,g,0,g,0,g,0,g,0,g,67,g
+739,tgi fridays restaurant,cocktails diddy on the beach,0,g,0,mg,105,g,54,g,1,g,0,g,0,g,1,g,45,g
+740,tgi fridays restaurant,cocktails dirty martini rocks gin,1,g,0,mg,260,g,1,g,0,g,0,g,0,g,0,g,0,g
+741,tgi fridays restaurant,cocktails dirty martini rocks vodka,1,g,0,mg,260,g,1,g,0,g,0,g,0,g,0,g,0,g
+742,tgi fridays restaurant,cocktails dirty martini up gin,1,g,0,mg,260,g,1,g,0,g,0,g,0,g,0,g,0,g
+743,tgi fridays restaurant,cocktails dirty martini up vodka,1,g,0,mg,260,g,1,g,0,g,0,g,0,g,0,g,0,g
+744,tgi fridays restaurant,cocktails double berry bellini,0,g,0,mg,0,g,22,g,1,g,0,g,0,g,3,g,18,g
+745,tgi fridays restaurant,cocktails dreamsicle shooter,6,g,15,mg,10,g,16,g,1,g,3.5,g,0,g,0,g,11,g
+746,tgi fridays restaurant,cocktails drinksicle rita,0,g,0,mg,570,g,39,g,0,g,0,g,0,g,0,g,34,g
+747,tgi fridays restaurant,cocktails drinksicle tea,0,g,0,mg,5,g,50,g,0,g,0,g,0,g,0,g,36,g
+748,tgi fridays restaurant,cocktails electric lemonade,0,g,0,mg,5,g,24,g,0,g,0,g,0,g,0,g,21,g
+749,tgi fridays restaurant,cocktails espresso martini,0,g,0,mg,0,g,14,g,6,g,0,g,0,g,0,g,14,g
+750,tgi fridays restaurant,cocktails fiery apple,0,g,0,mg,5,g,29,g,0,g,0,g,0,g,0,g,26,g
+751,tgi fridays restaurant,cocktails fireball 2 oz shot,0,g,0,mg,0,g,15,g,0,g,0,g,0,g,0,g,15,g
+752,tgi fridays restaurant,cocktails fireball rumchata over under shot,4,g,10,mg,25,g,25,g,1,g,2.5,g,0,g,0,g,19,g
+753,tgi fridays restaurant,cocktails firecracker sangria,0,g,0,mg,0,g,22,g,0,g,0,g,0,g,1,g,12,g
+754,tgi fridays restaurant,cocktails flaming fresh strawberry daiquiri,0,g,0,mg,0,g,35,g,0,g,0,g,0,g,1,g,31,g
+755,tgi fridays restaurant,cocktails flaming frozen lava flow,3.5,g,10,mg,40,g,88,g,3,g,2,g,0,g,1,g,76,g
+756,tgi fridays restaurant,cocktails flaming hurricane,0,g,0,mg,10,g,45,g,0,g,0,g,0,g,1,g,37,g
+757,tgi fridays restaurant,cocktails flaming mai tai,0,g,0,mg,5,g,49,g,1,g,0,g,0,g,0,g,40,g
+758,tgi fridays restaurant,cocktails flaming sailor rum punch,0,g,0,mg,5,g,26,g,0,g,0,g,0,g,1,g,24,g
+759,tgi fridays restaurant,cocktails flaming tropical long island tea,0,g,0,mg,5,g,43,g,6,g,0,g,0,g,0,g,31,g
+760,tgi fridays restaurant,cocktails flaming vanilla old fashioned,0,g,0,mg,55,g,21,g,0,g,0,g,0,g,0,g,20,g
+761,tgi fridays restaurant,cocktails fresh lynchburg lemonade,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,0,g,22,g
+762,tgi fridays restaurant,cocktails fresh strawberry daiquiri,0,g,0,mg,0,g,30,g,1,g,0,g,0,g,1,g,25,g
+763,tgi fridays restaurant,cocktails fresh strawberry daiquiri go big,0,g,0,mg,0,g,51,g,0,g,0,g,0,g,2,g,44,g
+764,tgi fridays restaurant,cocktails fridays blackberry long island tea,0,g,0,mg,0,g,27,g,0,g,0,g,0,g,1,g,24,g
+765,tgi fridays restaurant,cocktails fridays blood orange rita,0,g,0,mg,570,g,38,g,0,g,0,g,0,g,0,g,36,g
+766,tgi fridays restaurant,cocktails fridays blue long island tea,0,g,0,mg,0,g,23,g,0,g,0,g,0,g,0,g,20,g
+767,tgi fridays restaurant,cocktails fridays frozen rita,0,g,0,mg,570,g,29,g,0,g,0,g,0,g,0,g,26,g
+768,tgi fridays restaurant,cocktails fridays light cosmo cooler,0,g,0,mg,0,g,14,g,0,g,0,g,0,g,0,g,12,g
+769,tgi fridays restaurant,cocktails fridays long island tea,0,g,0,mg,5,g,26,g,0,g,0,g,0,g,0,g,24,g
+770,tgi fridays restaurant,cocktails fridays mojito,0,g,0,mg,10,g,25,g,0,g,0,g,0,g,0,g,23,g
+771,tgi fridays restaurant,cocktails fridays red sangria,0,g,0,mg,0,g,27,g,0,g,0,g,0,g,1,g,21,g
+772,tgi fridays restaurant,cocktails fridays rita rocks,0,g,0,mg,570,g,29,g,0,g,0,g,0,g,0,g,27,g
+773,tgi fridays restaurant,cocktails fridays spiked lemonade,0,g,0,mg,0,g,22,g,0,g,0,g,0,g,0,g,20,g
+774,tgi fridays restaurant,cocktails fridays white sangria,0,g,0,mg,5,g,26,g,0,g,0,g,0,g,1,g,21,g
+775,tgi fridays restaurant,cocktails frozen blue hawaiian,3.5,g,10,mg,30,g,74,g,3,g,2,g,0,g,0,g,67,g
+776,tgi fridays restaurant,cocktails frozen lava flow,3.5,g,10,mg,40,g,86,g,3,g,2,g,0,g,1,g,74,g
+777,tgi fridays restaurant,cocktails german chocolate cake sipper,1,g,5,mg,10,g,10,g,0,g,0.5,g,0,g,0,g,7,g
+778,tgi fridays restaurant,cocktails green tea shooter,0,g,0,mg,0,g,14,g,0,g,0,g,0,g,0,g,13,g
+779,tgi fridays restaurant,cocktails grey goose cooler,0,g,0,mg,0,g,31,g,0,g,0,g,0,g,0,g,28,g
+780,tgi fridays restaurant,cocktails grey goose espresso martini,2,g,10,mg,10,g,15,g,1,g,1.5,g,0,g,0,g,15,g
+781,tgi fridays restaurant,cocktails grey goose punch shaker,0,g,0,mg,0,g,29,g,0,g,0,g,0,g,1,g,26,g
+782,tgi fridays restaurant,cocktails guinness stout shake,19,g,60,mg,95,g,51,g,6,g,12,g,0,g,1,g,47,g
+783,tgi fridays restaurant,cocktails hendricks cooler,0,g,0,mg,0,g,28,g,0,g,0,g,0,g,0,g,26,g
+784,tgi fridays restaurant,cocktails honey badger shooter,2,g,5,mg,10,g,8,g,0,g,1,g,0,g,0,g,5,g
+785,tgi fridays restaurant,cocktails honey bourbon flip,0,g,0,mg,70,g,22,g,4,g,0,g,0,g,0,g,20,g
+786,tgi fridays restaurant,cocktails hurricane,0,g,0,mg,10,g,43,g,0,g,0,g,0,g,1,g,35,g
+787,tgi fridays restaurant,cocktails irish breakfast,0,g,0,mg,0,g,14,g,0,g,0,g,0,g,0,g,14,g
+788,tgi fridays restaurant,cocktails irish coffee,6,g,15,mg,10,g,14,g,1,g,3.5,g,0,g,0,g,14,g
+789,tgi fridays restaurant,cocktails irish mule,0,g,0,mg,0,g,18,g,0,g,0,g,0,g,0,g,16,g
+790,tgi fridays restaurant,cocktails irish rita rocks,0,g,0,mg,570,g,29,g,0,g,0,g,0,g,0,g,27,g
+791,tgi fridays restaurant,cocktails jager bomb,0,g,0,mg,50,g,13,g,0,g,0,g,0,g,0,g,13,g
+792,tgi fridays restaurant,cocktails jameson irish tea,0,g,0,mg,5,g,33,g,0,g,0,g,0,g,0,g,31,g
+793,tgi fridays restaurant,cocktails kahla hummer,17,g,60,mg,80,g,45,g,5,g,11,g,0,g,0,g,45,g
+794,tgi fridays restaurant,cocktails kamikaze,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,0,g,12,g
+795,tgi fridays restaurant,cocktails kentucky lemonade,0,g,0,mg,0,g,22,g,0,g,0,g,0,g,0,g,20,g
+796,tgi fridays restaurant,cocktails keoke coffee,6,g,15,mg,15,g,19,g,6,g,3.5,g,0,g,0,g,15,g
+797,tgi fridays restaurant,cocktails key lime pie shooter,6,g,15,mg,10,g,19,g,1,g,3.5,g,0,g,0,g,14,g
+798,tgi fridays restaurant,cocktails lemon drop,0,g,0,mg,0,g,15,g,0,g,0,g,0,g,0,g,14,g
+799,tgi fridays restaurant,cocktails magic lemon drop martini,0,g,0,mg,0,g,14,g,0,g,0,g,0,g,0,g,14,g
+800,tgi fridays restaurant,cocktails mango henny lemonade,0,g,0,mg,5,g,36,g,0,g,0,g,0,g,0,g,34,g
+801,tgi fridays restaurant,cocktails mango henny lemonade go big,0,g,0,mg,5,g,53,g,0,g,0,g,0,g,0,g,50,g
+802,tgi fridays restaurant,cocktails mango lemonade shaker,0,g,0,mg,0,g,41,g,0,g,0,g,0,g,0,g,34,g
+803,tgi fridays restaurant,cocktails manhattan up dry,0,g,0,mg,50,g,3,g,0,g,0,g,0,g,0,g,2,g
+804,tgi fridays restaurant,cocktails manhattan up perfect,0,g,0,mg,55,g,6,g,0,g,0,g,0,g,0,g,6,g
+805,tgi fridays restaurant,cocktails manhattan up sweet,0,g,0,mg,55,g,6,g,0,g,0,g,0,g,0,g,6,g
+806,tgi fridays restaurant,cocktails martini rocks gin,1,g,0,mg,260,g,1,g,0,g,0,g,0,g,0,g,0,g
+807,tgi fridays restaurant,cocktails martini rocks vodka,1,g,0,mg,260,g,1,g,0,g,0,g,0,g,0,g,0,g
+808,tgi fridays restaurant,cocktails martini up gin,1,g,0,mg,260,g,1,g,0,g,0,g,0,g,0,g,0,g
+809,tgi fridays restaurant,cocktails martini up vodka,1,g,0,mg,260,g,1,g,0,g,0,g,0,g,0,g,0,g
+810,tgi fridays restaurant,cocktails melon ball,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,10,g
+811,tgi fridays restaurant,cocktails mexican mule,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,0,g,18,g
+812,tgi fridays restaurant,cocktails michelada,0,g,0,mg,560,g,11,g,3,g,0,g,0,g,1,g,3,g
+813,tgi fridays restaurant,cocktails mimosa orange,0,g,0,mg,0,g,13,g,1,g,0,g,0,g,1,g,11,g
+814,tgi fridays restaurant,cocktails mimosa peach,0,g,0,mg,0,g,16,g,1,g,0,g,0,g,0,g,15,g
+815,tgi fridays restaurant,cocktails mimosa ruby red vanilla,0,g,0,mg,25,g,18,g,0,g,0,g,0,g,0,g,18,g
+816,tgi fridays restaurant,cocktails mudslide martini,11,g,35,mg,70,g,51,g,4,g,7,g,0,g,1,g,49,g
+817,tgi fridays restaurant,cocktails negroni,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,8,g
+818,tgi fridays restaurant,cocktails nutty irish coffee,9,g,25,mg,30,g,19,g,1,g,5,g,0,g,0,g,18,g
+819,tgi fridays restaurant,cocktails oil slick stacked shot,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,4,g
+820,tgi fridays restaurant,cocktails old fashioned rocks,0,g,0,mg,55,g,14,g,0,g,0,g,0,g,0,g,13,g
+821,tgi fridays restaurant,cocktails pain eraser,2.5,g,5,mg,50,g,45,g,2,g,1.5,g,0,g,0,g,40,g
+822,tgi fridays restaurant,cocktails patron cosmo rita shaker,0,g,0,mg,580,g,32,g,0,g,0,g,0,g,0,g,30,g
+823,tgi fridays restaurant,cocktails patron cosmo rita shaker w patron reposado,0,g,0,mg,580,g,32,g,0,g,0,g,0,g,0,g,30,g
+824,tgi fridays restaurant,cocktails peach honey smash,0,g,0,mg,0,g,28,g,0,g,0,g,0,g,0,g,26,g
+825,tgi fridays restaurant,cocktails peach sangria,0,g,0,mg,0,g,34,g,0,g,0,g,0,g,0,g,27,g
+826,tgi fridays restaurant,cocktails pina colada,4.5,g,10,mg,40,g,76,g,3,g,2.5,g,0,g,0,g,72,g
+827,tgi fridays restaurant,cocktails pink punk martini,0,g,0,mg,10,g,19,g,0,g,0,g,0,g,0,g,18,g
+828,tgi fridays restaurant,cocktails pink punk mojito,0,g,0,mg,5,g,16,g,0,g,0,g,0,g,0,g,14,g
+829,tgi fridays restaurant,cocktails platinum sidecar,0,g,0,mg,0,g,19,g,0,g,0,g,0,g,0,g,11,g
+830,tgi fridays restaurant,cocktails purple hooter,0,g,0,mg,0,g,14,g,0,g,0,g,0,g,0,g,13,g
+831,tgi fridays restaurant,cocktails red head,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,8,g
+832,tgi fridays restaurant,cocktails red snapper,0,g,0,mg,0,g,28,g,0,g,0,g,0,g,0,g,13,g
+833,tgi fridays restaurant,cocktails regal apple sangria,0,g,0,mg,50,g,25,g,0,g,0,g,0,g,0,g,19,g
+834,tgi fridays restaurant,cocktails rickey reynolds,0,g,0,mg,5,g,16,g,0,g,0,g,0,g,1,g,13,g
+835,tgi fridays restaurant,cocktails sailor rum punch,0,g,0,mg,5,g,24,g,0,g,0,g,0,g,1,g,22,g
+836,tgi fridays restaurant,cocktails sangria berry,0,g,0,mg,10,g,29,g,0,g,0,g,0,g,1,g,23,g
+837,tgi fridays restaurant,cocktails sangria rita,0,g,0,mg,0,g,21,g,0,g,0,g,0,g,0,g,14,g
+838,tgi fridays restaurant,cocktails shimmering diva,0,g,0,mg,10,g,39,g,0,g,0,g,0,g,0,g,35,g
+839,tgi fridays restaurant,cocktails soco peach tea,0,g,0,mg,0,g,33,g,0,g,0,g,0,g,0,g,28,g
+840,tgi fridays restaurant,cocktails soco peach tea go big,0,g,0,mg,5,g,51,g,0,g,0,g,0,g,0,g,43,g
+841,tgi fridays restaurant,cocktails spark plug shot,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,10,g
+842,tgi fridays restaurant,cocktails sparkling watermelon fizz,0,g,0,mg,5,g,18,g,0,g,0,g,0,g,0,g,17,g
+843,tgi fridays restaurant,cocktails strawberry frose,0,g,0,mg,0,g,16,g,0,g,0,g,0,g,0,g,14,g
+844,tgi fridays restaurant,cocktails strawberry henny,0,g,0,mg,0,g,32,g,0,g,0,g,0,g,1,g,24,g
+845,tgi fridays restaurant,cocktails strawberry margarita frozen,0,g,0,mg,0,g,34,g,0,g,0,g,0,g,1,g,30,g
+846,tgi fridays restaurant,cocktails strawberry margarita go big,0,g,0,mg,570,g,41,g,0,g,0,g,0,g,1,g,37,g
+847,tgi fridays restaurant,cocktails strawberry shortcake,19,g,60,mg,70,g,67,g,5,g,12,g,0,g,1,g,47,g
+848,tgi fridays restaurant,cocktails tequila hornitos sunrise,0,g,0,mg,0,g,35,g,1,g,12,g,0,g,1,g,32,g
+849,tgi fridays restaurant,cocktails the bfm the best fridays margarita,0,g,0,mg,570,g,31,g,0,g,0,g,0,g,0,g,25,g
+850,tgi fridays restaurant,cocktails the bfm the best fridays margarita patren reposado,0,g,0,mg,570,g,22,g,0,g,0,g,0,g,0,g,17,g
+851,tgi fridays restaurant,cocktails titos mule,0,g,0,mg,0,g,18,g,0,g,0,g,0,g,0,g,16,g
+852,tgi fridays restaurant,cocktails titos strawberry mule,0,g,0,mg,0,g,29,g,0,g,0,g,0,g,1,g,26,g
+853,tgi fridays restaurant,cocktails toasted almond,4.5,g,15,mg,20,g,38,g,1,g,2.5,g,0,g,0,g,24,g
+854,tgi fridays restaurant,cocktails tropical berry margarita frozen,0,g,0,mg,0,g,43,g,0,g,0,g,0,g,2,g,37,g
+855,tgi fridays restaurant,cocktails tropical long island tea,0,g,0,mg,5,g,40,g,6,g,0,g,0,g,0,g,29,g
+856,tgi fridays restaurant,cocktails tuaca lemon drop stacked shot,0,g,0,mg,0,g,27,g,0,g,0,g,0,g,0,g,25,g
+857,tgi fridays restaurant,cocktails ultimate 77 sunset strip,0,g,0,mg,10,g,31,g,1,g,0,g,0,g,1,g,29,g
+858,tgi fridays restaurant,cocktails ultimate blackberry margarita,0,g,0,mg,570,g,40,g,0,g,0,g,0,g,2,g,36,g
+859,tgi fridays restaurant,cocktails ultimate bloody mary,1,g,0,mg,1480,g,9,g,2,g,0,g,0,g,2,g,2,g
+860,tgi fridays restaurant,cocktails ultimate blueberry pom long island tea,0,g,0,mg,5,g,41,g,0,g,0,g,0,g,1,g,37,g
+861,tgi fridays restaurant,cocktails ultimate boba tea w o bursting bubbles,0,g,0,mg,0,g,22,g,0,g,0,g,0,g,0,g,20,g
+862,tgi fridays restaurant,cocktails ultimate boba tea with bursting bubbles combo,0,g,0,mg,25,g,33,g,0,g,0,g,0,g,1,g,27,g
+863,tgi fridays restaurant,cocktails ultimate double berry mojito,0,g,0,mg,5,g,27,g,1,g,0,g,0,g,3,g,21,g
+864,tgi fridays restaurant,cocktails ultimate frozen margarita,0,g,0,mg,570,g,40,g,0,g,0,g,0,g,0,g,36,g
+865,tgi fridays restaurant,cocktails ultimate hawaiian volcano,0,g,0,mg,10,g,46,g,1,g,0,g,0,g,1,g,30,g
+866,tgi fridays restaurant,cocktails ultimate lights of havana,0,g,0,mg,20,g,30,g,1,g,0,g,0,g,1,g,22,g
+867,tgi fridays restaurant,cocktails ultimate long island tea,0,g,0,mg,10,g,27,g,0,g,0,g,0,g,0,g,21,g
+868,tgi fridays restaurant,cocktails ultimate mango berry daiquiri,0,g,0,mg,0,g,55,g,0,g,0,g,0,g,1,g,51,g
+869,tgi fridays restaurant,cocktails ultimate margarita rocks,0,g,0,mg,570,g,35,g,0,g,0,g,0,g,0,g,31,g
+870,tgi fridays restaurant,cocktails ultimate mojito,0,g,0,mg,10,g,33,g,0,g,0,g,0,g,0,g,30,g
+871,tgi fridays restaurant,cocktails ultimate mudslide,26,g,85,mg,150,g,88,g,9,g,16,g,0,g,2,g,86,g
+872,tgi fridays restaurant,cocktails ultimate tropical berry margarita,0,g,0,mg,0,g,48,g,0,g,0,g,0,g,2,g,43,g
+873,tgi fridays restaurant,cocktails ultimate tropical berry mojito,0,g,0,mg,15,g,44,g,0,g,0,g,0,g,3,g,37,g
+874,tgi fridays restaurant,cocktails vanilla old fashioned,0,g,0,mg,55,g,18,g,0,g,0,g,0,g,0,g,18,g
+875,tgi fridays restaurant,cocktails vegas bomb,0,g,0,mg,50,g,26,g,0,g,0,g,0,g,0,g,19,g
+876,tgi fridays restaurant,cocktails vodka sour,0,g,0,mg,50,g,14,g,3,g,0,g,0,g,0,g,12,g
+877,tgi fridays restaurant,cocktails vodka well 80 proof,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+878,tgi fridays restaurant,cocktails wassail punch,0,g,0,mg,0,g,32,g,0,g,0,g,0,g,1,g,29,g
+879,tgi fridays restaurant,cocktails watermelon cooler,0,g,0,mg,20,g,17,g,0,g,0,g,0,g,0,g,16,g
+880,tgi fridays restaurant,cocktails watermelon pucker,0,g,0,mg,10,g,37,g,0,g,0,g,0,g,0,g,36,g
+881,tgi fridays restaurant,cocktails whisky sour,0,g,0,mg,50,g,14,g,3,g,0,g,0,g,0,g,12,g
+882,tgi fridays restaurant,cocktails white russian,4.5,g,15,mg,20,g,18,g,1,g,2.5,g,0,g,0,g,18,g
+883,tgi fridays restaurant,coffee black,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+884,tgi fridays restaurant,crispy chicken tenders hand breaded with seasoned fries coleslaw and honey mustard dressing,63,g,125,mg,1930,g,65,g,40,g,12,g,0,g,6,g,11,g
+885,tgi fridays restaurant,crispy chicken tenders with seasoned fries coleslaw and honey mustard dressing,70,g,95,mg,2600,g,73,g,31,g,12,g,0,g,5,g,16,g
+886,tgi fridays restaurant,crispy chicken tenders with honey mustard hand breaded,30,g,75,mg,660,g,15,g,21,g,5,g,0,g,0,g,7,g
+887,tgi fridays restaurant,crispy chicken tenders with honey mustard no side or beverage,33,g,35,mg,1160,g,31,g,20,g,10,g,0,g,1,g,8,g
+888,tgi fridays restaurant,donut cheesecake,57,g,180,mg,570,g,76,g,10,g,30,g,1,g,1,g,48,g
+889,tgi fridays restaurant,dragon glaze salmon with jasmine rice and lemon butter broccoli,36,g,75,mg,2390,g,107,g,41,g,6,g,0,g,7,g,16,g
+890,tgi fridays restaurant,dragon glaze salmon with mashed potatoes and lemon butter broccoli,36,g,95,mg,2470,g,55,g,38,g,11,g,0,g,9,g,18,g
+891,tgi fridays restaurant,filet mignon topped with parmesan butter includes mashed potatoes and lemon butter broccoli,39,g,190,mg,1840,g,33,g,61,g,16,g,1,g,8,g,4,g
+892,tgi fridays restaurant,filet mignon topped with whiskey glaze includes mashed potatoes and lemon butter broccoli,35,g,185,mg,2220,g,75,g,62,g,14,g,1,g,8,g,45,g
+893,tgi fridays restaurant,fish and chips,72,g,100,mg,1840,g,97,g,40,g,13,g,0,g,4,g,16,g
+894,tgi fridays restaurant,french onion soup,18,g,105,mg,2230,g,84,g,21,g,10,g,0,g,5,g,16,g
+895,tgi fridays restaurant,french toast,49,g,185,mg,1130,g,114,g,18,g,18,g,0.5,g,3,g,41,g
+896,tgi fridays restaurant,fresh fruit cup,0,g,0,mg,0,g,15,g,1,g,0,g,0,g,2,g,11,g
+897,tgi fridays restaurant,freshly brewed gold peak iced tea,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+898,tgi fridays restaurant,fridays egg breakfast with bacon and multi grain toast,49,g,400,mg,1950,g,56,g,30,g,14,g,0,g,5,g,7,g
+899,tgi fridays restaurant,fridays egg breakfast with sausage patty and multi grain toast,59,g,405,mg,1860,g,55,g,25,g,17,g,0,g,5,g,6,g
+900,tgi fridays restaurant,fridays signature whiskey glazed burger with gluten free bun no side,58,g,165,mg,3570,g,109,g,45,g,24,g,2,g,8,g,72,g
+901,tgi fridays restaurant,fridays signature whiskey glazed burger no side,55,g,165,mg,3530,g,110,g,46,g,25,g,2,g,3,g,76,g
+902,tgi fridays restaurant,fridays signature whiskey glazed chicken with mashed potatoes and lemon butter broccoli,32,g,225,mg,3490,g,91,g,77,g,12,g,0,g,13,g,58,g
+903,tgi fridays restaurant,fridays signature whiskey glazed chicken sandwich no side,57,g,165,mg,2910,g,100,g,53,g,21,g,0.5,g,3,g,56,g
+904,tgi fridays restaurant,fridays signature whiskey glazed ribs full rack with coleslaw and seasoned fries,75,g,210,mg,2940,g,178,g,69,g,25,g,0,g,7,g,132,g
+905,tgi fridays restaurant,fridays signature whiskey glazed ribs half rack with coleslaw and seasoned fries,51,g,115,mg,2180,g,129,g,37,g,15,g,0,g,6,g,85,g
+906,tgi fridays restaurant,fridays signature whiskey glazed sampler,81,g,245,mg,4520,g,213,g,71,g,20,g,0,g,4,g,148,g
+907,tgi fridays restaurant,fridays signature whiskey glazed sampler hand breaded,82,g,220,mg,4500,g,215,g,74,g,20,g,0,g,4,g,148,g
+908,tgi fridays restaurant,fridays signature whiskey glazed sesame chicken strips,81,g,245,mg,1520,g,213,g,41,g,20,g,0,g,4,g,148,g
+909,tgi fridays restaurant,fridays signature whiskey glazed sliders 4,69,g,150,mg,2550,g,95,g,49,g,25,g,2,g,3,g,33,g
+910,tgi fridays restaurant,fried shrimp hand breaded with seasoned fries coleslaw and cocktail sauce,54,g,145,mg,3290,g,115,g,38,g,9,g,0,g,8,g,16,g
+911,tgi fridays restaurant,fried shrimp with seasoned fries coleslaw and cocktail sauce,51,g,195,mg,3320,g,111,g,32,g,10,g,0,g,8,g,17,g
+912,tgi fridays restaurant,garlic breadstick,10,g,0,mg,360,g,27,g,5,g,2.5,g,0,g,1,g,3,g
+913,tgi fridays restaurant,garlic breadstick impinger,7,g,0,mg,360,g,27,g,5,g,2,g,0,g,1,g,3,g
+914,tgi fridays restaurant,giant onion rings,55,g,5,mg,1630,g,155,g,15,g,10,g,0,g,10,g,33,g
+915,tgi fridays restaurant,giant onion rings add on,26,g,5,mg,750,g,61,g,6,g,4.5,g,0,g,4,g,15,g
+916,tgi fridays restaurant,giant soft pretzels,74,g,85,mg,2850,g,139,g,39,g,25,g,0,g,4,g,5,g
+917,tgi fridays restaurant,giant soft pretzels impinger,46,g,85,mg,2850,g,139,g,39,g,20,g,0,g,4,g,5,g
+918,tgi fridays restaurant,green bean fries,65,g,5,mg,1720,g,69,g,9,g,21,g,0,g,8,g,7,g
+919,tgi fridays restaurant,green style bacon cheeseburger no side,43,g,135,mg,2540,g,12,g,35,g,17,g,1.5,g,2,g,7,g
+920,tgi fridays restaurant,green style cheddar bacon omelet burger,84,g,425,mg,3710,g,19,g,59,g,31,g,2,g,2,g,11,g
+921,tgi fridays restaurant,green style cheeseburger no side,40,g,125,mg,2430,g,9,g,33,g,18,g,1.5,g,2,g,4,g
+922,tgi fridays restaurant,green style fridays signature whiskey glazed burger no side,44,g,145,mg,3120,g,74,g,39,g,19,g,2,g,2,g,68,g
+923,tgi fridays restaurant,green style loaded cheese fry burger no side,93,g,175,mg,3660,g,99,g,55,g,37,g,0,g,10,g,14,g
+924,tgi fridays restaurant,green style the beyond meat cheeseburger no side,46,g,30,mg,2940,g,19,g,38,g,18,g,0,g,7,g,6,g
+925,tgi fridays restaurant,grilled bratwurst milwaukee,59,g,135,mg,3220,g,51,g,39,g,20,g,0,g,2,g,11,g
+926,tgi fridays restaurant,grilled bratwurst phoenix,25,g,45,mg,1200,g,45,g,17,g,8,g,0,g,2,g,9,g
+927,tgi fridays restaurant,grilled chicken caesar wrap,33,g,80,mg,1350,g,43,g,28,g,8,g,0,g,4,g,2,g
+928,tgi fridays restaurant,grilled chicken caesar wrap without side,33,g,80,mg,1350,g,43,g,28,g,8,g,0,g,4,g,2,g
+929,tgi fridays restaurant,half rack apple butter bbq ribs without sides,54,g,95,mg,1840,g,65,g,23,g,15,g,0,g,6,g,21,g
+930,tgi fridays restaurant,half rack whiskey glazed ribs without sides,51,g,115,mg,2180,g,129,g,37,g,15,g,0,g,6,g,85,g
+931,tgi fridays restaurant,honey mustard dressing,18,g,15,mg,290,g,9,g,0,g,3.5,g,0,g,0,g,7,g
+932,tgi fridays restaurant,house salad with a breadstick without dressing,12,g,5,mg,460,g,34,g,8,g,3.5,g,0,g,3,g,5,g
+933,tgi fridays restaurant,house salad with breadstick without dressing,12,g,5,mg,460,g,34,g,8,g,3.5,g,0,g,3,g,5,g
+934,tgi fridays restaurant,house salad with breadstick without dressing impinger,9,g,5,mg,460,g,34,g,8,g,3,g,0,g,3,g,5,g
+935,tgi fridays restaurant,jumbo hot dog,56,g,125,mg,2460,g,59,g,37,g,25,g,3,g,1,g,25,g
+936,tgi fridays restaurant,kids breakfast french toast,39,g,95,mg,690,g,75,g,9,g,13,g,0,g,2,g,33,g
+937,tgi fridays restaurant,kids chocolate milk,2.5,g,10,mg,170,g,26,g,7,g,1.5,g,0,g,1,g,23,g
+938,tgi fridays restaurant,kids dessert sundae,30,g,105,mg,240,g,95,g,8,g,19,g,0,g,1,g,79,g
+939,tgi fridays restaurant,kids egg breakfast with bacon and potatoes,40,g,265,mg,1590,g,24,g,22,g,11,g,0,g,3,g,1,g
+940,tgi fridays restaurant,kids egg breakfast with sausage and potatoes,50,g,270,mg,1500,g,23,g,17,g,14,g,0,g,3,g,0,g
+941,tgi fridays restaurant,kids fettuccine pasta with alfredo sauce no side or beverage,16,g,50,mg,460,g,39,g,11,g,10,g,0,g,2,g,2,g
+942,tgi fridays restaurant,kids fettuccine pasta with butter no side or beverage,18,g,10,mg,400,g,35,g,10,g,5,g,0,g,2,g,1,g
+943,tgi fridays restaurant,kids fettuccine pasta with marinara,10,g,0,mg,840,g,43,g,8,g,1.5,g,0,g,3,g,6,g
+944,tgi fridays restaurant,kids juice apple,0,g,0,mg,10,g,22,g,0,g,0,g,0,g,0,g,22,g
+945,tgi fridays restaurant,kids juice orange,0,g,0,mg,0,g,19,g,1,g,0,g,0,g,0,g,16,g
+946,tgi fridays restaurant,kids juice ruby red grapefruit,0,g,0,mg,50,g,21,g,0,g,0,g,0,g,0,g,21,g
+947,tgi fridays restaurant,kids lemonade,0,g,0,mg,15,g,33,g,0,g,0,g,0,g,0,g,32,g
+948,tgi fridays restaurant,kids milk,2,g,10,mg,105,g,10,g,7,g,1.5,g,0,g,0,g,10,g
+949,tgi fridays restaurant,kids paradise punch,0,g,0,mg,0,g,25,g,1,g,0,g,0,g,1,g,21,g
+950,tgi fridays restaurant,kids side seasoned fries,16,g,0,mg,810,g,40,g,5,g,3,g,0,g,5,g,0,g
+951,tgi fridays restaurant,kids sliders no side or beverage,28,g,60,mg,1270,g,37,g,21,g,10,g,1,g,1,g,8,g
+952,tgi fridays restaurant,kids slush blue raspberry,0,g,0,mg,15,g,24,g,0,g,0,g,0,g,0,g,22,g
+953,tgi fridays restaurant,kids slush cherry limeade,0,g,0,mg,30,g,33,g,0,g,0,g,0,g,0,g,30,g
+954,tgi fridays restaurant,kids slush mango peach lemonade,0,g,0,mg,10,g,27,g,0,g,0,g,0,g,0,g,25,g
+955,tgi fridays restaurant,kids slush strawberry lemonade,0,g,0,mg,10,g,31,g,0,g,0,g,0,g,1,g,28,g
+956,tgi fridays restaurant,kids soda bargs root beer,0,g,0,mg,55,g,34,g,0,g,0,g,0,g,0,g,34,g
+957,tgi fridays restaurant,kids soda coca cola,0,g,0,mg,50,g,42,g,0,g,0,g,0,g,0,g,42,g
+958,tgi fridays restaurant,kids soda coke zero,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+959,tgi fridays restaurant,kids soda diet coke,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+960,tgi fridays restaurant,kids soda diet pepsi,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+961,tgi fridays restaurant,kids soda dr pepper,0,g,0,mg,45,g,30,g,0,g,0,g,0,g,0,g,29,g
+962,tgi fridays restaurant,kids soda fanta orange,0,g,0,mg,65,g,49,g,0,g,0,g,0,g,0,g,48,g
+963,tgi fridays restaurant,kids soda mountain dew,0,g,0,mg,45,g,33,g,0,g,0,g,0,g,0,g,33,g
+964,tgi fridays restaurant,kids soda mr pibb xtra,0,g,0,mg,45,g,42,g,0,g,0,g,0,g,0,g,42,g
+965,tgi fridays restaurant,kids soda mug root beer,0,g,0,mg,45,g,31,g,0,g,0,g,0,g,0,g,31,g
+966,tgi fridays restaurant,kids soda pepsi,0,g,0,mg,25,g,31,g,0,g,0,g,0,g,0,g,31,g
+967,tgi fridays restaurant,kids soda sierra mist,0,g,0,mg,25,g,29,g,0,g,0,g,0,g,0,g,29,g
+968,tgi fridays restaurant,kids soda sprite,0,g,0,mg,25,g,30,g,0,g,0,g,0,g,0,g,27,g
+969,tgi fridays restaurant,kids hot dog no side or beverage,26,g,60,mg,1480,g,37,g,16,g,12,g,0,g,1,g,8,g
+970,tgi fridays restaurant,kids side fresh fruit,0,g,0,mg,0,g,15,g,1,g,0,g,0,g,2,g,11,g
+971,tgi fridays restaurant,kids side lemon butter broccoli,11,g,10,mg,850,g,11,g,4,g,4.5,g,0,g,5,g,2,g
+972,tgi fridays restaurant,kids side mashed potatoes,11,g,20,mg,560,g,21,g,4,g,5,g,0,g,3,g,1,g
+973,tgi fridays restaurant,kids side mozzarella sticks,33,g,50,mg,790,g,37,g,26,g,15,g,1,g,6,g,2,g
+974,tgi fridays restaurant,lamarca prosecco bottle 750ml,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,10,g
+975,tgi fridays restaurant,lamarca prosecco split 187ml,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,3,g
+976,tgi fridays restaurant,lemon butter broccoli,11,g,10,mg,850,g,11,g,4,g,4.5,g,0,g,5,g,2,g
+977,tgi fridays restaurant,loaded potato skins,45,g,50,mg,1070,g,108,g,22,g,14,g,0,g,18,g,5,g
+978,tgi fridays restaurant,loaded potato skins with ranch sour cream,73,g,85,mg,1950,g,179,g,38,g,23,g,0,g,31,g,7,g
+979,tgi fridays restaurant,lunch pairing chinese chicken salad,78,g,65,mg,2960,g,91,g,38,g,15,g,0,g,9,g,39,g
+980,tgi fridays restaurant,lunch pairing chinese chicken wrap,182,g,215,mg,8220,g,365,g,131,g,46,g,0,g,32,g,83,g
+981,tgi fridays restaurant,lunch pairing giant onion rings,26,g,5,mg,750,g,61,g,6,g,4.5,g,0,g,4,g,15,g
+982,tgi fridays restaurant,lunch house salad with breadstick without dressing impinger,9,g,5,mg,460,g,34,g,8,g,3,g,0,g,3,g,5,g
+983,tgi fridays restaurant,mashed potatoes,11,g,20,mg,560,g,21,g,4,g,5,g,0,g,3,g,1,g
+984,tgi fridays restaurant,million dollar cobb salad with 6 oz center cut sirloin,77,g,325,mg,2640,g,26,g,56,g,24,g,0,g,8,g,11,g
+985,tgi fridays restaurant,million dollar cobb salad with beyond meat patty with ranch dressing,103,g,250,mg,3370,g,33,g,61,g,35,g,0,g,13,g,10,g
+986,tgi fridays restaurant,million dollar cobb salad with grilled chicken lunch portion with ranch dressing,37,g,180,mg,1330,g,13,g,34,g,12,g,0,g,5,g,6,g
+987,tgi fridays restaurant,million dollar cobb salad with grilled chicken with ranch dressing,74,g,350,mg,2640,g,26,g,65,g,24,g,0,g,10,g,11,g
+988,tgi fridays restaurant,million dollar cobb salad with grilled chicken with ranch dressing lunch portion,37,g,180,mg,1330,g,13,g,34,g,12,g,0,g,5,g,6,g
+989,tgi fridays restaurant,million dollar cobb salad with grilled salmon with ranch dressing,85,g,320,mg,2560,g,30,g,59,g,25,g,0,g,9,g,11,g
+990,tgi fridays restaurant,million dollar cobb wrap,36,g,175,mg,1710,g,49,g,39,g,13,g,0,g,6,g,5,g
+991,tgi fridays restaurant,million dollar cobb wrap without side,36,g,175,mg,1710,g,49,g,39,g,13,g,0,g,6,g,5,g
+992,tgi fridays restaurant,minute maid,0,g,0,mg,25,g,44,g,0,g,0,g,0,g,0,g,42,g
+993,tgi fridays restaurant,mozzarella sticks,36,g,50,mg,1010,g,37,g,27,g,16,g,1,g,5,g,2,g
+994,tgi fridays restaurant,mozzarella sticks with marinara,52,g,75,mg,1400,g,54,g,39,g,24,g,1.5,g,8,g,2,g
+995,tgi fridays restaurant,oatmeal,12,g,20,mg,360,g,63,g,6,g,4.5,g,0,g,5,g,41,g
+996,tgi fridays restaurant,oreo madness,29,g,65,mg,390,g,98,g,8,g,14,g,0.5,g,3,g,66,g
+997,tgi fridays restaurant,pan seared pot stickers with szechwan sauce,25,g,15,mg,2150,g,72,g,18,g,9,g,0,g,2,g,22,g
+998,tgi fridays restaurant,paradise punch,0,g,0,mg,0,g,39,g,2,g,0,g,0,g,1,g,31,g
+999,tgi fridays restaurant,parmesan crusted chicken mashed potatoes and lemon butter broccoli,49,g,260,mg,3900,g,54,g,87,g,19,g,0,g,13,g,9,g

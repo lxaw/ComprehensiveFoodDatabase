@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,carrabbas,bruschette scotty thompson,30,g,40,mg,1570,g,87,g,24,g,10,g,0,g,6,g,10,g
+1,carrabbas,bruschette scotty thompson regional small plate,22,g,30,mg,1270,g,62,g,18,g,8,g,0,g,5,g,10,g
+2,carrabbas,bruschette siciliani,22,g,5,mg,1140,g,54,g,10,g,4,g,0,g,3,g,3,g
+3,carrabbas,bud light 13 oz draft,0,g,0,mg,10,g,7,g,1,g,0,g,0,g,0,g,0,g
+4,carrabbas,caesar family bundle 1 serving,27,g,15,mg,440,g,7,g,5,g,5,g,0,g,2,g,1,g
+5,carrabbas,caesar salad family bundle 4 servings,106,g,65,mg,1770,g,27,g,21,g,20,g,0,g,9,g,6,g
+6,carrabbas,cafe carrabba,4,g,15,mg,80,g,24,g,6,g,3,g,0,g,0,g,20,g
+7,carrabbas,cafe godiva,8,g,25,mg,90,g,31,g,6,g,4,g,0,g,0,g,26,g
+8,carrabbas,cafe latte,3.5,g,10,mg,65,g,10,g,5,g,2,g,0,g,0,g,9,g
+9,carrabbas,calabrian roasted wings,74,g,335,mg,1570,g,3,g,60,g,26,g,0.5,g,0,g,2,g
+10,carrabbas,calamari,64,g,320,mg,1670,g,53,g,29,g,13,g,6,g,5,g,7,g
+11,carrabbas,calamari with marinara and ricardo sauce,89,g,375,mg,3390,g,72,g,30,g,28,g,6,g,8,g,14,g
+12,carrabbas,calamari small,42,g,210,mg,1450,g,43,g,20,g,9,g,4,g,3,g,3,g
+13,carrabbas,cannoli cake,154,g,220,mg,720,g,181,g,19,g,40,g,1.5,g,5,g,128,g
+14,carrabbas,cappuccino,2.5,g,10,mg,50,g,8,g,4,g,1.5,g,0,g,0,g,7,g
+15,carrabbas,carrabbas italian classics chicken parmesan and lasagne,41,g,170,mg,2240,g,36,g,57,g,20,g,0,g,6,g,16,g
+16,carrabbas,catering blackberry flavored tea gallon,0,g,0,mg,135,g,250,g,0,g,0,g,0,g,0,g,239,g
+17,carrabbas,catering bread and oil quarter loaf,14,g,0,mg,470,g,39,g,6,g,2,g,0,g,1,g,0,g
+18,carrabbas,catering bread herbs and oil 1 serving,12,g,0,mg,570,g,47,g,8,g,1.5,g,0,g,2,g,1,g
+19,carrabbas,catering bread herbs and oil 10 servings,119,g,0,mg,5690,g,466,g,78,g,17,g,0,g,17,g,6,g
+20,carrabbas,catering brownies 1 serving,16,g,40,mg,160,g,53,g,4,g,7,g,0,g,1,g,35,g
+21,carrabbas,catering brownies 10 servings,160,g,405,mg,1620,g,534,g,39,g,69,g,1.5,g,12,g,349,g
+22,carrabbas,catering bruschette siciliani,129,g,20,mg,6470,g,324,g,59,g,22,g,0,g,19,g,18,g
+23,carrabbas,catering caesar salad with chicken 1 serving,21,g,40,mg,480,g,5,g,15,g,3,g,0,g,2,g,1,g
+24,carrabbas,catering caesar salad with chicken 10 servings,210,g,405,mg,4830,g,54,g,147,g,32,g,0,g,17,g,12,g
+25,carrabbas,catering caesar salad 1 serving,21,g,15,mg,350,g,5,g,4,g,4,g,0,g,2,g,1,g
+26,carrabbas,catering caesar salad 10 servings,213,g,130,mg,3540,g,54,g,42,g,40,g,0,g,17,g,12,g
+27,carrabbas,catering calabrian roasted wings,446,g,2020,mg,9400,g,16,g,362,g,156,g,3,g,2,g,11,g
+28,carrabbas,catering caprese sandwich with chicken 1 serving,31,g,85,mg,1370,g,54,g,38,g,9,g,0,g,4,g,7,g
+29,carrabbas,catering caprese sandwich with chicken 10 servings,371,g,1030,mg,16470,g,646,g,453,g,112,g,2,g,43,g,87,g
+30,carrabbas,catering caprese sandwich with prosciutto 1 serving,32,g,55,mg,1600,g,53,g,25,g,10,g,0,g,4,g,7,g
+31,carrabbas,catering caprese sandwich with prosciutto 10 servings,383,g,660,mg,19180,g,641,g,300,g,120,g,1.5,g,43,g,87,g
+32,carrabbas,catering caprese sandwich without protein 1 serving,28,g,35,mg,1070,g,53,g,18,g,8,g,0,g,4,g,7,g
+33,carrabbas,catering caprese sandwich without protein 10 servings,340,g,415,mg,12860,g,641,g,215,g,102,g,1.5,g,43,g,87,g
+34,carrabbas,catering chicken bryan,21,g,115,mg,850,g,9,g,36,g,13,g,0,g,0,g,3,g
+35,carrabbas,catering chicken bryan 1 serving,21,g,115,mg,850,g,9,g,36,g,13,g,0,g,0,g,3,g
+36,carrabbas,catering chicken bryan 10 servings,208,g,1150,mg,8480,g,90,g,357,g,130,g,2,g,2,g,26,g
+37,carrabbas,catering chicken marsala,15,g,105,mg,710,g,4,g,32,g,7,g,0,g,1,g,0,g
+38,carrabbas,catering chicken marsala 1 serving,15,g,105,mg,710,g,4,g,32,g,7,g,0,g,1,g,0,g
+39,carrabbas,catering chicken marsala 10 servings,151,g,1050,mg,7060,g,36,g,325,g,73,g,3.5,g,12,g,5,g
+40,carrabbas,catering chicken parmesan and penne carrabba 1 serving,60,g,230,mg,1900,g,36,g,62,g,33,g,1,g,6,g,9,g
+41,carrabbas,catering chicken parmesan and penne carrabba 10 servings,595,g,2320,mg,18970,g,357,g,620,g,333,g,12,g,56,g,87,g
+42,carrabbas,catering chicken parmesan 1 serving,17,g,100,mg,980,g,13,g,35,g,7,g,0,g,3,g,6,g
+43,carrabbas,catering chicken parmesan 10 servings,172,g,1010,mg,9760,g,131,g,347,g,74,g,3,g,33,g,59,g
+44,carrabbas,catering chicken salad sandwich 1 serving,26,g,75,mg,1080,g,53,g,38,g,8,g,0,g,3,g,4,g
+45,carrabbas,catering chicken salad sandwich 10 servings,310,g,910,mg,12960,g,634,g,453,g,98,g,2,g,37,g,50,g
+46,carrabbas,catering chips with gorgonzola 1 serving,14,g,15,mg,600,g,14,g,2,g,3.5,g,0,g,1,g,1,g
+47,carrabbas,catering chips with gorgonzola 10 servings,141,g,125,mg,5970,g,136,g,24,g,33,g,1.5,g,12,g,8,g
+48,carrabbas,catering fresh baked chocolate chunk cookies 1 serving,21,g,45,mg,230,g,62,g,5,g,10,g,0,g,2,g,37,g
+49,carrabbas,catering fresh baked chocolate chunk cookies 10 servings,214,g,425,mg,2290,g,623,g,52,g,104,g,3.5,g,23,g,366,g
+50,carrabbas,catering fresh baked oatmeal raisin cookies 1 serving,18,g,40,mg,240,g,62,g,6,g,7,g,0,g,3,g,33,g
+51,carrabbas,catering fresh baked oatmeal raisin cookies 10 servings,179,g,420,mg,2430,g,624,g,56,g,72,g,4,g,26,g,334,g
+52,carrabbas,catering fresh brewed iced tea sweet 8 oz,0,g,0,mg,10,g,15,g,0,g,0,g,0,g,0,g,15,g
+53,carrabbas,catering fresh brewed iced tea sweet gallon,0,g,0,mg,150,g,246,g,0,g,0,g,0,g,0,g,246,g
+54,carrabbas,catering fresh brewed iced tea unsweet 8 oz,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+55,carrabbas,catering fresh brewed iced tea unsweet gallon,0,g,0,mg,150,g,0,g,0,g,0,g,0,g,0,g,0,g
+56,carrabbas,catering garlic mashed potatoes 1 serving,15,g,5,mg,970,g,32,g,6,g,3.5,g,0,g,4,g,2,g
+57,carrabbas,catering garlic mashed potatoes 10 servings,147,g,35,mg,9650,g,318,g,57,g,33,g,2,g,43,g,23,g
+58,carrabbas,catering handmade lemonade 8 oz,0,g,0,mg,5,g,31,g,0,g,0,g,0,g,0,g,30,g
+59,carrabbas,catering handmade lemonade gallon,0,g,0,mg,120,g,503,g,0,g,0,g,0,g,0,g,483,g
+60,carrabbas,catering house salad 1 serving,18,g,5,mg,280,g,7,g,2,g,2.5,g,0,g,3,g,3,g
+61,carrabbas,catering house salad 10 servings,182,g,60,mg,2770,g,72,g,18,g,26,g,0,g,31,g,29,g
+62,carrabbas,catering italian salad with chicken 1 serving,27,g,40,mg,620,g,8,g,15,g,4.5,g,0,g,3,g,3,g
+63,carrabbas,catering italian salad with chicken 10 servings,270,g,425,mg,6230,g,75,g,153,g,46,g,0,g,26,g,34,g
+64,carrabbas,catering italian salad 1 serving,25,g,10,mg,430,g,7,g,2,g,4,g,0,g,3,g,3,g
+65,carrabbas,catering italian salad 10 servings,253,g,85,mg,4260,g,73,g,23,g,41,g,0,g,26,g,34,g
+66,carrabbas,catering italian sandwich 1 serving,37,g,60,mg,1650,g,47,g,26,g,10,g,0,g,3,g,3,g
+67,carrabbas,catering italian sandwich 10 servings,447,g,715,mg,19840,g,562,g,311,g,126,g,3,g,32,g,37,g
+68,carrabbas,catering lasagne and chicken bryan 1 serving,59,g,230,mg,2780,g,44,g,73,g,33,g,0,g,5,g,18,g
+69,carrabbas,catering lasagne and chicken bryan 10 servings,586,g,2305,mg,27780,g,441,g,726,g,334,g,2.5,g,46,g,179,g
+70,carrabbas,catering lasagne and chicken marsala 1 serving,53,g,220,mg,2640,g,39,g,69,g,28,g,0,g,6,g,16,g
+71,carrabbas,catering lasagne and chicken marsala 10 servings,530,g,2205,mg,26370,g,388,g,694,g,278,g,3.5,g,56,g,158,g
+72,carrabbas,catering lasagne and penne carrabba 1 serving,80,g,245,mg,2850,g,58,g,64,g,46,g,1,g,7,g,18,g
+73,carrabbas,catering lasagne and penne carrabba 10 servings,802,g,2465,mg,28500,g,578,g,642,g,464,g,9,g,67,g,180,g
+74,carrabbas,catering lasagne 1 serving,38,g,115,mg,1930,g,35,g,37,g,20,g,0,g,4,g,15,g
+75,carrabbas,catering lasagne 10 servings,379,g,1155,mg,19300,g,351,g,369,g,205,g,0,g,44,g,153,g
+76,carrabbas,catering mama mandolas sicilian chicken soup 1 serving,2,g,10,mg,1500,g,9,g,6,g,0.5,g,0,g,2,g,1,g
+77,carrabbas,catering mama mandolas sicilian chicken soup 10 servings,21,g,90,mg,14980,g,87,g,65,g,6,g,0,g,21,g,14,g
+78,carrabbas,catering meatballs and ricotta,114,g,475,mg,5310,g,75,g,143,g,49,g,0,g,25,g,41,g
+79,carrabbas,catering mezzaluna 1 serving,25,g,90,mg,980,g,33,g,18,g,14,g,0,g,2,g,4,g
+80,carrabbas,catering mezzaluna 10 servings,248,g,905,mg,9810,g,330,g,181,g,137,g,1,g,25,g,42,g
+81,carrabbas,catering minestrone soup 1 serving,5,g,5,mg,600,g,13,g,5,g,3,g,0,g,4,g,0,g
+82,carrabbas,catering minestrone soup serves 10,52,g,45,mg,6020,g,133,g,51,g,29,g,0,g,38,g,0,g
+83,carrabbas,catering mini cannoli 1 serving,90,g,30,mg,35,g,18,g,3,g,8,g,0,g,1,g,12,g
+84,carrabbas,catering mini cannoli 12 servings,904,g,300,mg,350,g,181,g,34,g,79,g,4,g,8,g,125,g
+85,carrabbas,catering parmesan crusted chicken arugula,14,g,100,mg,720,g,15,g,38,g,6,g,0,g,4,g,5,g
+86,carrabbas,catering pasta georgio 1 serving,38,g,120,mg,1500,g,31,g,29,g,20,g,0,g,4,g,7,g
+87,carrabbas,catering pasta georgio 10 servings,379,g,1210,mg,15010,g,308,g,294,g,205,g,4,g,41,g,71,g
+88,carrabbas,catering pasta salad 1 serving,20,g,10,mg,560,g,32,g,7,g,4,g,0,g,2,g,3,g
+89,carrabbas,catering pasta salad 10 servings,195,g,110,mg,5610,g,319,g,74,g,41,g,0,g,25,g,32,g
+90,carrabbas,catering penne carrabba 1 serving,42,g,125,mg,890,g,23,g,25,g,26,g,1,g,2,g,3,g
+91,carrabbas,catering penne carrabba 10 servings,420,g,1255,mg,8870,g,226,g,251,g,258,g,9,g,23,g,27,g
+92,carrabbas,catering penne pomodoro with meat sauce,15,g,30,mg,820,g,27,g,13,g,6,g,0,g,3,g,6,g
+93,carrabbas,catering penne pomodoro with meat sauce 1 serving,15,g,30,mg,820,g,27,g,13,g,6,g,0,g,3,g,6,g
+94,carrabbas,catering penne pomodoro with meat sauce 10 servings,146,g,315,mg,8240,g,270,g,127,g,58,g,3,g,33,g,62,g
+95,carrabbas,catering penne pomodoro with meatballs,17,g,55,mg,1210,g,33,g,21,g,7,g,0,g,6,g,10,g
+96,carrabbas,catering penne pomodoro with meatballs and penne carrabba 1 serving,59,g,185,mg,2130,g,56,g,48,g,33,g,1,g,8,g,12,g
+97,carrabbas,catering penne pomodoro with meatballs and penne carrabba 10 servings,591,g,1850,mg,21280,g,561,g,479,g,327,g,9,g,79,g,123,g
+98,carrabbas,catering penne pomodoro with meatballs 1 serving,17,g,55,mg,1210,g,33,g,21,g,7,g,0,g,6,g,10,g
+99,carrabbas,catering penne pomodoro with meatballs 10 servings,169,g,540,mg,12080,g,335,g,206,g,68,g,0.5,g,56,g,96,g
+100,carrabbas,catering penne pomodoro with sausage,22,g,60,mg,1340,g,54,g,26,g,9,g,0,g,5,g,8,g
+101,carrabbas,catering penne pomodoro with sausage 1 serving,22,g,60,mg,1340,g,54,g,26,g,9,g,0,g,5,g,8,g
+102,carrabbas,catering penne pomodoro with sausage 10 servings,213,g,590,mg,12660,g,295,g,220,g,86,g,0.5,g,38,g,79,g
+103,carrabbas,catering penne pomodoro 1 serving,4.5,g,5,mg,550,g,20,g,4,g,1.5,g,0,g,3,g,5,g
+104,carrabbas,catering penne pomodoro 10 servings,43,g,45,mg,5510,g,196,g,45,g,13,g,0,g,27,g,54,g
+105,carrabbas,catering penne positano with chicken 1 serving,18,g,45,mg,1110,g,27,g,22,g,5,g,0,g,1,g,5,g
+106,carrabbas,catering penne positano with chicken 10 servings,179,g,455,mg,11050,g,274,g,219,g,48,g,0.5,g,10,g,51,g
+107,carrabbas,catering penne weesie 1 serving,50,g,225,mg,1160,g,25,g,30,g,29,g,1,g,1,g,2,g
+108,carrabbas,catering penne weesie 10 servings,504,g,2255,mg,11560,g,248,g,299,g,294,g,9,g,13,g,23,g
+109,carrabbas,catering pollo rosa maria 1 serving,18,g,115,mg,1000,g,5,g,39,g,10,g,0,g,1,g,1,g
+110,carrabbas,catering pollo rosa maria 10 servings,179,g,1140,mg,10010,g,48,g,391,g,99,g,1.5,g,13,g,10,g
+111,carrabbas,catering raspberry flavored lemonade gallon,0,g,0,mg,110,g,719,g,0,g,0,g,0,g,0,g,702,g
+112,carrabbas,catering rigatoni campagnolo 1 serving,20,g,40,mg,1010,g,37,g,21,g,10,g,0,g,3,g,5,g
+113,carrabbas,catering rigatoni campagnolo 10 servings,196,g,390,mg,10130,g,371,g,206,g,102,g,2.5,g,30,g,51,g
+114,carrabbas,catering salmon cetriolini,31,g,100,mg,450,g,3,g,31,g,8,g,0,g,0,g,2,g
+115,carrabbas,catering salmon cetriolini 1 serving,31,g,100,mg,450,g,3,g,31,g,8,g,0,g,0,g,2,g
+116,carrabbas,catering salmon cetriolini 10 servings,313,g,995,mg,4540,g,30,g,312,g,80,g,0,g,3,g,15,g
+117,carrabbas,catering sausage and lentil soup 1 serving,10,g,10,mg,1110,g,16,g,11,g,3.5,g,0,g,6,g,3,g
+118,carrabbas,catering sausage and lentil soup 10 servings,99,g,80,mg,11150,g,162,g,111,g,33,g,0,g,62,g,34,g
+119,carrabbas,catering sauteed broccoli 1 serving,14,g,0,mg,90,g,9,g,4,g,2,g,0,g,3,g,2,g
+120,carrabbas,catering sauteed broccoli 10 servings,136,g,0,mg,910,g,94,g,35,g,19,g,0,g,32,g,24,g
+121,carrabbas,catering sauteed green beans 1 serving,6,g,0,mg,60,g,11,g,2,g,1,g,0,g,4,g,3,g
+122,carrabbas,catering sauteed green beans 10 servings,62,g,0,mg,610,g,114,g,23,g,9,g,0,g,39,g,32,g
+123,carrabbas,catering shrimp scampi,222,g,1600,mg,11150,g,487,g,270,g,67,g,0,g,17,g,21,g
+124,carrabbas,catering sliced sirloin marsala 1 serving,26,g,80,mg,550,g,3,g,28,g,12,g,0,g,1,g,0,g
+125,carrabbas,catering sliced sirloin marsala 10 servings,263,g,785,mg,5550,g,35,g,283,g,121,g,3,g,12,g,5,g
+126,carrabbas,catering sogno di cioccolata chocolate dream 1 serving,76,g,230,mg,430,g,126,g,9,g,40,g,0,g,5,g,85,g
+127,carrabbas,catering sogno di cioccolata chocolate dream 12 servings,760,g,2295,mg,4290,g,1265,g,88,g,404,g,3,g,47,g,855,g
+128,carrabbas,catering strawberry flavored lemonade gallon,0,g,0,mg,110,g,658,g,0,g,0,g,0,g,0,g,636,g
+129,carrabbas,catering three cheese and sausage stuffed mushrooms,140,g,170,mg,7830,g,55,g,89,g,57,g,1,g,15,g,25,g
+130,carrabbas,catering tiramisu 1 serving,55,g,190,mg,70,g,66,g,10,g,34,g,1.5,g,4,g,42,g
+131,carrabbas,catering tiramisu 12 servings,659,g,2305,mg,830,g,792,g,123,g,404,g,19,g,43,g,503,g
+132,carrabbas,catering tomato basil salmon and chicken bryan 1 serving,56,g,200,mg,1600,g,14,g,67,g,19,g,0,g,1,g,6,g
+133,carrabbas,catering tomato basil salmon and chicken bryan 10 servings,562,g,2020,mg,15960,g,135,g,671,g,189,g,2,g,8,g,60,g
+134,carrabbas,catering tomato basil salmon and chicken marsala 1 serving,51,g,190,mg,1450,g,8,g,64,g,13,g,0,g,2,g,4,g
+135,carrabbas,catering tomato basil salmon and chicken marsala 10 servings,506,g,1920,mg,14540,g,81,g,638,g,133,g,3.5,g,17,g,39,g
+136,carrabbas,catering tomato basil salmon 1 serving,35,g,85,mg,750,g,5,g,31,g,6,g,0,g,1,g,3,g
+137,carrabbas,catering tomato basil salmon 10 servings,355,g,870,mg,7480,g,45,g,313,g,60,g,0,g,6,g,34,g
+138,carrabbas,catering tuscan grilled chicken,4,g,80,mg,470,g,1,g,31,g,1.5,g,0,g,0,g,0,g
+139,carrabbas,cauliflower fritte,37,g,25,mg,3230,g,70,g,17,g,7,g,0,g,9,g,10,g
+140,carrabbas,cheese pizza,22,g,45,mg,1470,g,84,g,25,g,10,g,0,g,5,g,5,g
+141,carrabbas,chianti kiss,0,g,0,mg,10,g,20,g,0,g,0,g,0,g,0,g,14,g
+142,carrabbas,chicken bryan,27,g,175,mg,1160,g,12,g,59,g,17,g,0,g,0,g,3,g
+143,carrabbas,chicken marsala,20,g,165,mg,1080,g,5,g,54,g,10,g,0,g,1,g,1,g
+144,carrabbas,chicken marsala family bundle 1 serving,15,g,125,mg,810,g,4,g,40,g,7,g,0,g,1,g,0,g
+145,carrabbas,chicken marsala family bundle 4 servings,61,g,495,mg,3230,g,14,g,161,g,29,g,1.5,g,4,g,2,g
+146,carrabbas,chicken parmesan,34,g,200,mg,1950,g,26,g,69,g,15,g,0.5,g,7,g,12,g
+147,carrabbas,chicken parmesan bites,43,g,130,mg,1770,g,25,g,29,g,17,g,0,g,4,g,6,g
+148,carrabbas,chicken parmesan family bundle 1 serving,26,g,150,mg,1460,g,20,g,52,g,11,g,0,g,5,g,9,g
+149,carrabbas,chicken parmesan family bundle 4 servings,103,g,605,mg,5860,g,78,g,208,g,45,g,1.5,g,20,g,36,g
+150,carrabbas,chicken piccata,16,g,100,mg,630,g,8,g,27,g,9,g,0,g,1,g,2,g
+151,carrabbas,chicken trio chicken bryan pollo rosa maria and chicken marsala,39,g,265,mg,1950,g,12,g,89,g,22,g,0,g,2,g,3,g
+152,carrabbas,cinnamon apple crostata,55,g,55,mg,840,g,168,g,12,g,26,g,0.5,g,4,g,114,g
+153,carrabbas,classic red sangria glass 6 ounce,0,g,0,mg,0,g,25,g,1,g,0,g,0,g,1,g,20,g
+154,carrabbas,classic red sangria glass 9 ounce,0,g,0,mg,5,g,34,g,1,g,0,g,0,g,1,g,28,g
+155,carrabbas,classic red sangria pitcher,0,g,0,mg,20,g,111,g,3,g,0,g,0,g,2,g,96,g
+156,carrabbas,coffee decaf,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+157,carrabbas,coffee regular,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+158,carrabbas,coke with ice,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,0,g,24,g
+159,carrabbas,coke with ice to go,0,g,0,mg,0,g,34,g,0,g,0,g,0,g,0,g,34,g
+160,carrabbas,cosmopolitan,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,1,g,2,g
+161,carrabbas,craft beer 13 ounce draft,0,g,0,mg,15,g,1,g,3,g,0,g,0,g,0,g,0,g
+162,carrabbas,craft beer 19 ounce draft,0,g,0,mg,20,g,1,g,5,g,0,g,0,g,0,g,0,g
+163,carrabbas,diet coke with ice,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+164,carrabbas,diet coke with ice to go,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+165,carrabbas,dr pepper with ice,0,g,0,mg,20,g,22,g,0,g,0,g,0,g,0,g,22,g
+166,carrabbas,dr pepper with ice to go,0,g,0,mg,30,g,31,g,0,g,0,g,0,g,0,g,31,g
+167,carrabbas,eggplant parmesan,32,g,60,mg,3110,g,64,g,33,g,14,g,0.5,g,14,g,17,g
+168,carrabbas,entree salad caesar salad with chicken,56,g,105,mg,1330,g,18,g,40,g,10,g,0,g,6,g,4,g
+169,carrabbas,entree salad caesar salad with shrimp,54,g,175,mg,1640,g,18,g,24,g,9,g,0,g,6,g,4,g
+170,carrabbas,entree salad italian salad with chicken,68,g,100,mg,1590,g,24,g,37,g,12,g,0,g,9,g,11,g
+171,carrabbas,entree salad italian salad with shrimp,66,g,170,mg,1900,g,24,g,21,g,10,g,0,g,9,g,11,g
+172,carrabbas,entree salad johnny rocco salad,42,g,160,mg,1800,g,11,g,28,g,9,g,0,g,5,g,3,g
+173,carrabbas,espresso,1,g,0,mg,15,g,4,g,1,g,0,g,0,g,0,g,3,g
+174,carrabbas,fettuccine alfredo,49,g,125,mg,860,g,39,g,18,g,33,g,1,g,2,g,3,g
+175,carrabbas,fettuccine carrabba,81,g,270,mg,2180,g,102,g,70,g,51,g,1.5,g,10,g,6,g
+176,carrabbas,fettuccine carrabba with gluten free pasta,78,g,245,mg,2030,g,138,g,57,g,47,g,2,g,16,g,6,g
+177,carrabbas,fettuccine carrabba with whole grain spaghetti,84,g,255,mg,2460,g,105,g,69,g,51,g,1.5,g,20,g,7,g
+178,carrabbas,fettuccine weesie,85,g,325,mg,3230,g,99,g,55,g,55,g,1.5,g,8,g,7,g
+179,carrabbas,fettuccine weesie with gluten free pasta,72,g,275,mg,2990,g,134,g,41,g,44,g,1.5,g,14,g,6,g
+180,carrabbas,fettuccine weesie with whole grain spaghetti,88,g,310,mg,3510,g,103,g,54,g,54,g,1.5,g,18,g,7,g
+181,carrabbas,flavored lemonade with ice raspberry,0,g,0,mg,5,g,39,g,0,g,0,g,0,g,0,g,38,g
+182,carrabbas,flavored lemonade with ice raspberry to go,0,g,0,mg,10,g,49,g,0,g,0,g,0,g,0,g,48,g
+183,carrabbas,flavored tea with ice blackberry,0,g,0,mg,10,g,11,g,0,g,0,g,0,g,0,g,11,g
+184,carrabbas,flavored tea with ice desert pear,0,g,0,mg,10,g,9,g,0,g,0,g,0,g,0,g,9,g
+185,carrabbas,flavored tea with ice mango,0,g,0,mg,10,g,12,g,0,g,0,g,0,g,0,g,11,g
+186,carrabbas,flavored tea with ice orange,0,g,0,mg,10,g,11,g,0,g,0,g,0,g,0,g,11,g
+187,carrabbas,flavored tea with ice peach,0,g,0,mg,10,g,10,g,0,g,0,g,0,g,0,g,9,g
+188,carrabbas,flavored tea with ice pomegranate,0,g,0,mg,10,g,10,g,0,g,0,g,0,g,0,g,10,g
+189,carrabbas,flavored tea with ice raspberry,0,g,0,mg,10,g,12,g,0,g,0,g,0,g,0,g,12,g
+190,carrabbas,flavored tea with ice strawberry,0,g,0,mg,10,g,9,g,0,g,0,g,0,g,0,g,9,g
+191,carrabbas,flavored tea with ice white peach,0,g,0,mg,10,g,9,g,0,g,0,g,0,g,0,g,9,g
+192,carrabbas,fresh brewed iced tea unsweet with ice,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+193,carrabbas,fresh brewed iced tea unsweet with ice to go,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+194,carrabbas,fresh catch of the day trout alla nocciola,36,g,140,mg,1180,g,18,g,49,g,10,g,0,g,10,g,5,g
+195,carrabbas,fresh fruit bowl,0.5,g,0,mg,20,g,28,g,2,g,0,g,0,g,5,g,22,g
+196,carrabbas,garlic mashed potatoes,15,g,5,mg,970,g,32,g,6,g,3.5,g,0,g,4,g,2,g
+197,carrabbas,garlic mashed potatoes family bundle 1 serving,15,g,5,mg,970,g,32,g,6,g,3.5,g,0,g,4,g,2,g
+198,carrabbas,garlic mashed potatoes family bundle 4 servings,59,g,15,mg,3860,g,127,g,23,g,13,g,1,g,17,g,9,g
+199,carrabbas,garlic rosemary fries,30,g,0,mg,1390,g,59,g,10,g,6,g,0,g,5,g,0,g
+200,carrabbas,grilled asparagus,2.5,g,0,mg,200,g,6,g,3,g,0,g,0,g,3,g,3,g
+201,carrabbas,grilled asparagus with prosciutto,16,g,70,mg,1090,g,6,g,22,g,9,g,0,g,2,g,3,g
+202,carrabbas,grilled vegetables,1.5,g,0,mg,250,g,9,g,3,g,0,g,0,g,3,g,4,g
+203,carrabbas,hi c fruit punch with ice,0,g,0,mg,5,g,23,g,0,g,0,g,0,g,0,g,23,g
+204,carrabbas,hi c fruit punch with ice to go,0,g,0,mg,10,g,33,g,0,g,0,g,0,g,0,g,33,g
+205,carrabbas,hot tea,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+206,carrabbas,house salad family bundle 1 serving,23,g,10,mg,350,g,9,g,2,g,3.5,g,0,g,4,g,4,g
+207,carrabbas,house salad family bundle 4 servings,91,g,30,mg,1390,g,36,g,9,g,13,g,0,g,15,g,15,g
+208,carrabbas,italian old fashioned,0,g,0,mg,25,g,10,g,0,g,0,g,0,g,1,g,8,g
+209,carrabbas,italian salad family bundle 1 serving,32,g,10,mg,530,g,9,g,3,g,5,g,0,g,3,g,4,g
+210,carrabbas,italian salad family bundle 4 servings,127,g,45,mg,2130,g,36,g,12,g,20,g,0,g,13,g,17,g
+211,carrabbas,john cole,46,g,90,mg,580,g,108,g,11,g,17,g,1,g,3,g,86,g
+212,carrabbas,kids 100 apple juice,0,g,0,mg,20,g,20,g,0,g,0,g,0,g,0,g,19,g
+213,carrabbas,kids 100 orange juice,0,g,0,mg,0,g,18,g,1,g,0,g,0,g,0,g,18,g
+214,carrabbas,kids 2 milk,7,g,25,mg,140,g,16,g,11,g,4.5,g,0,g,0,g,17,g
+215,carrabbas,kids bambini sundae,26,g,85,mg,95,g,44,g,6,g,16,g,0.5,g,1,g,35,g
+216,carrabbas,kids cheese pizza,12,g,20,mg,720,g,49,g,14,g,5,g,0,g,2,g,3,g
+217,carrabbas,kids cheese ravioli,12,g,65,mg,770,g,37,g,19,g,6,g,0,g,3,g,6,g
+218,carrabbas,kids chicken fingers,20,g,60,mg,1110,g,43,g,25,g,3.5,g,0,g,3,g,10,g
+219,carrabbas,kids grilled cheese,36,g,110,mg,1040,g,43,g,21,g,21,g,1,g,1,g,4,g
+220,carrabbas,kids grilled chicken breast with steamed broccoli,3,g,75,mg,140,g,25,g,34,g,1,g,0,g,2,g,20,g
+221,carrabbas,kids grilled chicken breast with steamed spinach,3,g,75,mg,190,g,5,g,35,g,1,g,0,g,3,g,1,g
+222,carrabbas,kids grilled sirloin 6 ounce,19,g,70,mg,400,g,1,g,34,g,8,g,0,g,0,g,0,g
+223,carrabbas,kids grilled sirloin 6 ounce with broccoli,20,g,70,mg,440,g,24,g,35,g,8,g,0,g,2,g,20,g
+224,carrabbas,kids hi c,0,g,0,mg,5,g,20,g,0,g,0,g,0,g,0,g,20,g
+225,carrabbas,kids mac n cheese,13,g,40,mg,800,g,30,g,11,g,8,g,0,g,1,g,5,g
+226,carrabbas,kids pepperoni pizza,22,g,45,mg,1070,g,49,g,19,g,8,g,0,g,2,g,3,g
+227,carrabbas,kids side french fries,23,g,0,mg,1080,g,64,g,7,g,4,g,0,g,6,g,0,g
+228,carrabbas,kids side penne pomodoro,5,g,0,mg,890,g,36,g,6,g,0.5,g,0,g,5,g,10,g
+229,carrabbas,kids side steamed broccoli,0,g,0,mg,35,g,8,g,3,g,0,g,0,g,3,g,2,g
+230,carrabbas,kids side steamed spinach,0,g,0,mg,100,g,5,g,4,g,0,g,0,g,3,g,1,g
+231,carrabbas,kids spaghetti and meatballs,12,g,35,mg,1100,g,63,g,21,g,3.5,g,0,g,6,g,9,g
+232,carrabbas,kids spaghetti and meatballs with whole grain spaghetti,13,g,35,mg,1240,g,59,g,21,g,4,g,0,g,13,g,9,g
+233,carrabbas,kids whole grain spaghetti pomodoro with spinach,6,g,0,mg,1070,g,59,g,14,g,1,g,0,g,13,g,9,g
+234,carrabbas,lasagne,47,g,140,mg,2530,g,47,g,45,g,25,g,0,g,6,g,21,g
+235,carrabbas,lasagne family bundle 1 serving,60,g,150,mg,3030,g,91,g,55,g,28,g,0,g,7,g,20,g
+236,carrabbas,lasagne family bundle 4 servings,234,g,590,mg,11820,g,332,g,215,g,111,g,0,g,28,g,79,g
+237,carrabbas,light beer 13 ounce draft,0,g,0,mg,10,g,5,g,1,g,0,g,0,g,0,g,0,g
+238,carrabbas,light beer 19 ounce draft,0,g,0,mg,15,g,7,g,1,g,0,g,0,g,0,g,0,g
+239,carrabbas,linguine pescatore,11,g,160,mg,1960,g,122,g,57,g,1,g,0,g,7,g,12,g
+240,carrabbas,linguine pescatore with gluten free pasta,10,g,165,mg,2010,g,147,g,50,g,1.5,g,0,g,16,g,13,g
+241,carrabbas,linguine pescatore with shrimp with gluten free pasta,28,g,150,mg,2630,g,141,g,30,g,4,g,0,g,13,g,11,g
+242,carrabbas,linguine pescatore with shrimp with whole grain pasta,29,g,150,mg,2880,g,108,g,38,g,4,g,0,g,17,g,12,g
+243,carrabbas,linguine pescatore with whole grain spaghetti,11,g,160,mg,2250,g,114,g,59,g,2,g,0,g,20,g,13,g
+244,carrabbas,linguine positano,27,g,0,mg,1820,g,117,g,22,g,3.5,g,0,g,4,g,10,g
+245,carrabbas,linguine positano with chicken,31,g,80,mg,2280,g,117,g,53,g,4.5,g,0,g,4,g,10,g
+246,carrabbas,linguine positano with chicken with gluten free pasta,30,g,80,mg,2330,g,142,g,46,g,5,g,0,g,13,g,11,g
+247,carrabbas,linguine positano with chicken with whole grain spaghetti,31,g,80,mg,2570,g,109,g,54,g,5,g,0,g,17,g,12,g
+248,carrabbas,linguine positano with shrimp,29,g,150,mg,2590,g,117,g,36,g,3.5,g,0,g,4,g,10,g
+249,carrabbas,lobster ravioli,38,g,165,mg,960,g,64,g,20,g,22,g,0,g,1,g,3,g
+250,carrabbas,lunch caesar salad with salmon,95,g,170,mg,1300,g,18,g,61,g,17,g,0,g,6,g,4,g
+251,carrabbas,lunch caprese sandwich,20,g,30,mg,650,g,56,g,18,g,8,g,0,g,3,g,2,g
+252,carrabbas,lunch caprese sandwich with chicken,22,g,80,mg,930,g,56,g,36,g,9,g,0,g,3,g,2,g
+253,carrabbas,lunch caprese sandwich with chicken half,11,g,40,mg,460,g,28,g,18,g,4.5,g,0,g,2,g,1,g
+254,carrabbas,lunch caprese sandwich half,10,g,15,mg,330,g,28,g,9,g,4,g,0,g,2,g,1,g
+255,carrabbas,lunch cheeseburger,31,g,75,mg,3050,g,35,g,19,g,16,g,0.5,g,3,g,3,g
+256,carrabbas,lunch chicken bryan,26,g,75,mg,780,g,58,g,30,g,8,g,0,g,3,g,3,g
+257,carrabbas,lunch chicken bryan flatbread,35,g,105,mg,970,g,36,g,37,g,20,g,0.5,g,1,g,3,g
+258,carrabbas,lunch chicken bryan half,13,g,35,mg,390,g,29,g,15,g,4,g,0,g,1,g,1,g
+259,carrabbas,lunch chicken parmesan sandwich,18,g,100,mg,1260,g,66,g,44,g,7,g,0,g,6,g,7,g
+260,carrabbas,lunch chicken parmesan sandwich half,9,g,50,mg,630,g,33,g,22,g,3.5,g,0,g,3,g,4,g
+261,carrabbas,lunch fettuccine alfredo,49,g,125,mg,860,g,39,g,18,g,33,g,1,g,2,g,3,g
+262,carrabbas,lunch fettuccine weesie,84,g,280,mg,2690,g,99,g,48,g,54,g,1.5,g,8,g,6,g
+263,carrabbas,lunch fettuccine weesie with gluten free pasta,72,g,275,mg,2990,g,134,g,41,g,44,g,1.5,g,14,g,6,g
+264,carrabbas,lunch fettuccine weesie with whole grain pasta,61,g,205,mg,2390,g,70,g,36,g,37,g,1,g,13,g,5,g
+265,carrabbas,lunch italian salad with salmon,107,g,165,mg,1570,g,24,g,58,g,18,g,0,g,9,g,11,g
+266,carrabbas,lunch lasagne,24,g,70,mg,1260,g,23,g,23,g,12,g,0,g,3,g,11,g
+267,carrabbas,lunch margherita flatbread,33,g,70,mg,1040,g,47,g,32,g,12,g,0.5,g,3,g,4,g
+268,carrabbas,lunch meatball sandwich,27,g,105,mg,1350,g,66,g,40,g,13,g,0,g,6,g,8,g
+269,carrabbas,lunch meatball sandwich half,14,g,55,mg,680,g,33,g,20,g,7,g,0,g,3,g,4,g
+270,carrabbas,lunch mediterranean chicken piadina,33,g,70,mg,1040,g,47,g,32,g,12,g,0.5,g,3,g,4,g
+271,carrabbas,lunch mezzaluna,31,g,125,mg,1290,g,54,g,25,g,17,g,0,g,4,g,6,g
+272,carrabbas,lunch sausage and peppers flatbread,33,g,45,mg,1000,g,32,g,24,g,13,g,0.5,g,3,g,4,g
+273,carrabbas,lunch shrimp orzo and arugula salad,23,g,150,mg,1380,g,57,g,24,g,3,g,0,g,3,g,5,g
+274,carrabbas,lunch sicilian orzo,6,g,0,mg,530,g,33,g,5,g,1,g,0,g,2,g,2,g
+275,carrabbas,lunch side mezzaluna,15,g,55,mg,590,g,23,g,11,g,8,g,0,g,2,g,3,g
+276,carrabbas,lunch spaghetti with meatballs,26,g,70,mg,2360,g,129,g,41,g,7,g,0,g,13,g,19,g
+277,carrabbas,lunch spaghetti with meatballs with gluten free pasta,23,g,75,mg,2080,g,148,g,34,g,8,g,0,g,21,g,16,g
+278,carrabbas,lunch spaghetti with meatballs with whole grain spaghetti,26,g,70,mg,2650,g,120,g,43,g,8,g,0,g,26,g,21,g
+279,carrabbas,lunch spaghetti with sausage,24,g,45,mg,2170,g,121,g,35,g,7,g,0,g,10,g,16,g
+280,carrabbas,lunch spaghetti with sausage with gluten free pasta,21,g,50,mg,1880,g,141,g,27,g,7,g,0,g,18,g,13,g
+281,carrabbas,lunch spaghetti with sausage with whole grain spaghetti,24,g,45,mg,2450,g,113,g,36,g,7,g,0,g,23,g,17,g
+282,carrabbas,lunch steak sandwich,34,g,100,mg,1030,g,58,g,41,g,17,g,0.5,g,4,g,2,g
+283,carrabbas,lunch steak sandwich half,17,g,50,mg,520,g,29,g,21,g,8,g,0,g,2,g,1,g
+284,carrabbas,lunch tomato cucumber salad,10,g,5,mg,150,g,9,g,2,g,1.5,g,0,g,2,g,6,g
+285,carrabbas,lunch tuscan grilled sirloin 6 ounce,19,g,70,mg,400,g,1,g,34,g,8,g,0,g,0,g,0,g
+286,carrabbas,lunch tuscan grilled sirloin marsala 6 ounce,33,g,100,mg,690,g,4,g,35,g,15,g,0,g,1,g,1,g
+287,carrabbas,lunch zucchini fritte side,26,g,0,mg,440,g,23,g,5,g,5,g,2.5,g,2,g,2,g
+288,carrabbas,mama mandolas sicilian chicken soup bowl,5,g,20,mg,3750,g,22,g,16,g,1.5,g,0,g,5,g,4,g
+289,carrabbas,mama mandolas sicilian chicken soup cup,2.5,g,10,mg,1870,g,11,g,8,g,0.5,g,0,g,3,g,2,g
+290,carrabbas,margherita pizza,31,g,45,mg,2030,g,83,g,26,g,12,g,0,g,7,g,5,g
+291,carrabbas,marsala di carrabba,36,g,165,mg,1090,g,5,g,61,g,16,g,0,g,1,g,1,g
+292,carrabbas,meatballs and ricotta,22,g,85,mg,1190,g,17,g,26,g,10,g,0,g,6,g,10,g
+293,carrabbas,mezzaluna,37,g,150,mg,1570,g,63,g,33,g,21,g,0,g,4,g,6,g
+294,carrabbas,mezzaluna carrabba,62,g,245,mg,1800,g,45,g,59,g,36,g,1,g,5,g,5,g
+295,carrabbas,minestrone soup bowl,9,g,0,mg,1360,g,33,g,9,g,4.5,g,0,g,9,g,0,g
+296,carrabbas,minestrone soup cup,4.5,g,0,mg,680,g,16,g,5,g,2.5,g,0,g,5,g,0,g
+297,carrabbas,minute maid lemonade with ice,0,g,0,mg,5,g,27,g,0,g,0,g,0,g,0,g,26,g
+298,carrabbas,minute maid lemonade with ice to go,0,g,0,mg,10,g,39,g,0,g,0,g,0,g,0,g,38,g
+299,carrabbas,mozzarella marinara,68,g,210,mg,2350,g,43,g,53,g,31,g,1,g,7,g,16,g
+300,carrabbas,mr cs dirty martini,1,g,0,mg,230,g,1,g,0,g,0,g,0,g,0,g,0,g
+301,carrabbas,mr pibb with ice,0,g,0,mg,10,g,21,g,0,g,0,g,0,g,0,g,21,g
+302,carrabbas,mr pibb with ice to go,0,g,0,mg,15,g,31,g,0,g,0,g,0,g,0,g,31,g
+303,carrabbas,mussels in white wine lemon butter,25,g,75,mg,860,g,17,g,19,g,12,g,0,g,1,g,7,g
+304,carrabbas,parmesan crusted chicken arugula,27,g,165,mg,1150,g,25,g,62,g,7,g,0,g,6,g,9,g
+305,carrabbas,pasta georgio,78,g,260,mg,3040,g,72,g,64,g,41,g,1,g,9,g,15,g
+306,carrabbas,pasta georgio with whole grain spaghetti,81,g,260,mg,3610,g,118,g,76,g,42,g,1,g,24,g,16,g
+307,carrabbas,peach sangria glass 6 ounce,0,g,0,mg,10,g,19,g,0,g,0,g,0,g,1,g,16,g
+308,carrabbas,peach sangria glass 9 ounce,0,g,0,mg,15,g,27,g,1,g,0,g,0,g,1,g,23,g
+309,carrabbas,peach sangria pitcher,0,g,0,mg,45,g,84,g,1,g,0,g,0,g,1,g,75,g
+310,carrabbas,penne alfredo family bundle 1 serving,72,g,170,mg,1020,g,33,g,18,g,47,g,1.5,g,1,g,3,g
+311,carrabbas,penne alfredo family bundle 4 servings,289,g,680,mg,4090,g,130,g,72,g,186,g,6,g,3,g,13,g
+312,carrabbas,penne carrabba family bundle 1 serving,77,g,220,mg,1510,g,39,g,41,g,48,g,1.5,g,4,g,5,g
+313,carrabbas,penne carrabba family bundle 4 servings,308,g,885,mg,6040,g,155,g,162,g,191,g,7,g,14,g,19,g
+314,carrabbas,penne pomodoro,5,g,0,mg,890,g,36,g,6,g,0.5,g,0,g,5,g,10,g
+315,carrabbas,pepperoni pizza,34,g,80,mg,1930,g,84,g,32,g,13,g,0,g,5,g,5,g
+316,carrabbas,peroni 13 oz draft,0,g,0,mg,15,g,13,g,2,g,0,g,0,g,0,g,0,g
+317,carrabbas,plain freshly steamed broccoli,0,g,0,mg,35,g,8,g,3,g,0,g,0,g,3,g,2,g
+318,carrabbas,pollo rosa maria,27,g,185,mg,1560,g,6,g,65,g,15,g,0,g,1,g,1,g
+319,carrabbas,pork saltimbocca,28,g,145,mg,1470,g,67,g,54,g,10,g,0,g,3,g,3,g
+320,carrabbas,prosciutto wrapped pork tenderloin,17,g,105,mg,770,g,8,g,43,g,9,g,0,g,1,g,6,g
+321,carrabbas,raspberry limoncello drop,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,1,g,5,g
+322,carrabbas,red wine bottle 750 ml,0,g,0,mg,25,g,20,g,1,g,0,g,0,g,0,g,5,g
+323,carrabbas,red wine glass 6 ounce,0,g,0,mg,5,g,5,g,0,g,0,g,0,g,0,g,1,g
+324,carrabbas,red wine glass 9 ounce,0,g,0,mg,10,g,7,g,0,g,0,g,0,g,0,g,2,g
+325,carrabbas,regular beer 13 ounce draft,0,g,0,mg,15,g,13,g,2,g,0,g,0,g,0,g,0,g
+326,carrabbas,regular beer 19 ounce draft,0,g,0,mg,20,g,19,g,2,g,0,g,0,g,0,g,0,g
+327,carrabbas,rigatoni campagnolo,50,g,65,mg,2790,g,98,g,52,g,22,g,0.5,g,10,g,17,g
+328,carrabbas,rigatoni campagnolo family bundle 1 serving,158,g,205,mg,9380,g,263,g,154,g,70,g,1.5,g,32,g,61,g
+329,carrabbas,rigatoni campagnolo family bundle 4 servings,40,g,50,mg,2350,g,66,g,38,g,18,g,0,g,8,g,15,g
+330,carrabbas,rigatoni campagnolo with gluten free pasta,50,g,65,mg,3030,g,150,g,51,g,23,g,1,g,20,g,17,g
+331,carrabbas,rigatoni campagnolo with whole grain spaghetti,51,g,65,mg,3270,g,117,g,59,g,23,g,0.5,g,24,g,18,g
+332,carrabbas,root beer with ice,0,g,0,mg,10,g,25,g,0,g,0,g,0,g,0,g,25,g
+333,carrabbas,root beer with ice to go,0,g,0,mg,15,g,35,g,0,g,0,g,0,g,0,g,35,g
+334,carrabbas,rose wine bottle 750 ml,0,g,0,mg,25,g,19,g,1,g,0,g,0,g,0,g,7,g
+335,carrabbas,rose wine glass 6 ounce,0,g,0,mg,5,g,5,g,0,g,0,g,0,g,0,g,2,g
+336,carrabbas,rose wine glass 9 ounce,0,g,0,mg,10,g,7,g,0,g,0,g,0,g,0,g,3,g
+337,carrabbas,salad add on add crumbled gorgonzola,8,g,30,mg,280,g,0,g,6,g,5,g,0,g,0,g,0,g
+338,carrabbas,salad add on light balsamic dressing,5,g,0,mg,330,g,8,g,0,g,0.5,g,0,g,0,g,7,g
+339,carrabbas,salmon cetriolini,52,g,165,mg,760,g,5,g,52,g,13,g,0,g,0,g,3,g
+340,carrabbas,samuel adams boston lager 13 oz draft,0,g,0,mg,30,g,19,g,2,g,0,g,0,g,0,g,0,g
+341,carrabbas,sausage and lentil soup bowl,21,g,10,mg,2640,g,40,g,24,g,6,g,0,g,15,g,8,g
+342,carrabbas,sausage and lentil soup cup,11,g,5,mg,1320,g,20,g,12,g,3,g,0,g,8,g,4,g
+343,carrabbas,sausage spinach and mozzarella frittata,57,g,775,mg,1710,g,15,g,43,g,18,g,0,g,6,g,5,g
+344,carrabbas,sauteed broccoli,14,g,0,mg,450,g,9,g,4,g,2,g,0,g,3,g,2,g
+345,carrabbas,sauteed broccoli family bundle 1 serving,14,g,0,mg,450,g,9,g,4,g,2,g,0,g,3,g,2,g
+346,carrabbas,sauteed broccoli family bundle 4 servings,55,g,0,mg,1820,g,38,g,14,g,7,g,0,g,13,g,9,g
+347,carrabbas,sauteed spinach,15,g,0,mg,370,g,11,g,5,g,2,g,0,g,3,g,1,g
+348,carrabbas,scampi damian,43,g,200,mg,3650,g,118,g,37,g,24,g,0,g,5,g,9,g
+349,carrabbas,shrimp and scallop linguine alla vodka,39,g,205,mg,2010,g,117,g,53,g,14,g,0,g,7,g,10,g
+350,carrabbas,shrimp and scallop linguine alla vodka with gluten free pasta,32,g,195,mg,1760,g,137,g,45,g,12,g,0,g,16,g,8,g
+351,carrabbas,shrimp and scallop linguine alla vodka with whole grain spaghetti,40,g,205,mg,2290,g,108,g,54,g,15,g,0,g,20,g,11,g
+352,carrabbas,shrimp and sea scallop spiedino,21,g,205,mg,1140,g,14,g,38,g,7,g,0,g,1,g,3,g
+353,carrabbas,shrimp parmesan,65,g,275,mg,2610,g,37,g,55,g,18,g,0,g,4,g,8,g
+354,carrabbas,shrimp scampi,30,g,150,mg,2680,g,80,g,31,g,11,g,0,g,3,g,4,g
+355,carrabbas,sicilian prickly pear margarita,0,g,0,mg,2220,g,39,g,0,g,0,g,0,g,1,g,37,g
+356,carrabbas,side salad caesar side salad,28,g,20,mg,500,g,9,g,7,g,6,g,0,g,3,g,2,g
+357,carrabbas,side salad house side salad,23,g,10,mg,410,g,12,g,3,g,3.5,g,0,g,5,g,5,g
+358,carrabbas,side salad italian side salad,32,g,10,mg,570,g,12,g,4,g,5,g,0,g,4,g,6,g
+359,carrabbas,simply grilled mahi,6,g,145,mg,1780,g,3,g,37,g,1,g,0,g,1,g,1,g
+360,carrabbas,sogno di cioccolata chocolate dream,63,g,190,mg,360,g,105,g,7,g,34,g,0,g,4,g,71,g
+361,carrabbas,spaghetti meat sauce family bundle 1 serving,26,g,50,mg,1680,g,80,g,27,g,9,g,0.5,g,8,g,12,g
+362,carrabbas,spaghetti meat sauce family bundle 4 servings,106,g,205,mg,6720,g,319,g,109,g,38,g,2,g,30,g,50,g
+363,carrabbas,spaghetti pomodoro family bundle 1 serving,12,g,15,mg,1450,g,79,g,18,g,4,g,0,g,7,g,12,g
+364,carrabbas,spaghetti pomodoro family bundle 4 servings,50,g,60,mg,5810,g,315,g,71,g,16,g,0,g,29,g,47,g
+365,carrabbas,spaghetti with bolognese meat sauce,28,g,50,mg,1840,g,119,g,33,g,8,g,0.5,g,10,g,14,g
+366,carrabbas,spaghetti with bolognese meat sauce with gluten free pasta,27,g,55,mg,1880,g,143,g,26,g,9,g,1,g,19,g,15,g
+367,carrabbas,spaghetti with bolognese meat sauce with whole grain spaghetti,29,g,50,mg,2130,g,110,g,34,g,9,g,0.5,g,23,g,15,g
+368,carrabbas,spaghetti with meatballs,33,g,105,mg,2600,g,131,g,52,g,10,g,0,g,14,g,20,g
+369,carrabbas,spaghetti with meatballs family bundle 1 serving,29,g,95,mg,2100,g,87,g,41,g,11,g,0,g,10,g,15,g
+370,carrabbas,spaghetti with meatballs family bundle 4 servings,116,g,375,mg,8410,g,348,g,164,g,44,g,0,g,42,g,61,g
+371,carrabbas,spaghetti with meatballs with whole grain spaghetti,33,g,105,mg,2880,g,123,g,54,g,11,g,0,g,27,g,21,g
+372,carrabbas,spaghetti with pomodoro sauce,11,g,0,mg,1730,g,120,g,21,g,1,g,0,g,10,g,15,g
+373,carrabbas,spaghetti with pomodoro sauce with gluten free pasta,10,g,5,mg,1770,g,145,g,14,g,1.5,g,0,g,19,g,16,g
+374,carrabbas,spaghetti with pomodoro sauce with whole grain spaghetti,11,g,0,mg,2010,g,112,g,23,g,2,g,0,g,23,g,17,g
+375,carrabbas,spaghetti with sausage family bundle 1 serving,33,g,85,mg,2110,g,80,g,39,g,12,g,0,g,7,g,13,g
+376,carrabbas,spaghetti with sausage family bundle 4 servings,130,g,340,mg,8440,g,321,g,155,g,49,g,0,g,29,g,50,g
+377,carrabbas,sparkling tuscan lemonade,0,g,0,mg,15,g,21,g,0,g,0,g,0,g,1,g,20,g
+378,carrabbas,sparkling wine bottle 750 ml,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,0,g,0,g
+379,carrabbas,sparkling wine glass 6 ounce,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,0,g
+380,carrabbas,sprite with ice,0,g,0,mg,20,g,23,g,0,g,0,g,0,g,0,g,23,g
+381,carrabbas,sprite with ice to go,0,g,0,mg,25,g,32,g,0,g,0,g,0,g,0,g,32,g
+382,carrabbas,steamed asparagus,0,g,0,mg,0,g,4,g,2,g,0,g,0,g,2,g,2,g
+383,carrabbas,stella artois 13 oz draft,0,g,0,mg,0,g,12,g,1,g,0,g,0,g,0,g,0,g
+384,carrabbas,strawberry cheesecake,62,g,320,mg,660,g,96,g,17,g,37,g,3,g,2,g,81,g
+385,carrabbas,the johnny tuscan grilled sirloin marsala and chicken bryan,40,g,170,mg,1130,g,9,g,64,g,20,g,0,g,1,g,2,g
+386,carrabbas,three cheese and sausage stuffed mushrooms,23,g,30,mg,1310,g,9,g,15,g,10,g,0,g,3,g,4,g
+387,carrabbas,tiramisu,55,g,190,mg,70,g,66,g,10,g,34,g,1.5,g,4,g,42,g
+388,carrabbas,tiramisu martini,6,g,15,mg,20,g,27,g,1,g,4,g,0,g,0,g,24,g
+389,carrabbas,tomato basil salmon,51,g,145,mg,840,g,4,g,52,g,9,g,0,g,0,g,3,g
+390,carrabbas,tomato caprese with fresh burrata,43,g,80,mg,1460,g,20,g,14,g,18,g,1,g,3,g,14,g
+391,carrabbas,topping bryan topping,15,g,30,mg,350,g,8,g,4,g,10,g,0,g,0,g,2,g
+392,carrabbas,topping garlic aioli,22,g,15,mg,240,g,3,g,1,g,3.5,g,0,g,0,g,1,g
+393,carrabbas,topping gorgonzola cheese sauce,20,g,40,mg,310,g,1,g,2,g,7,g,0,g,0,g,1,g
+394,carrabbas,topping marsala sauce,14,g,30,mg,290,g,4,g,2,g,7,g,0,g,1,g,1,g
+395,carrabbas,topping scampi topping,19,g,110,mg,960,g,6,g,13,g,7,g,0,g,0,g,2,g
+396,carrabbas,topping spicy sicilian butter,8,g,10,mg,190,g,0,g,0,g,4.5,g,0,g,0,g,0,g
+397,carrabbas,topping spiedino,12,g,120,mg,650,g,8,g,23,g,4,g,0,g,1,g,2,g
+398,carrabbas,traditional cannoli,367,g,130,mg,170,g,74,g,13,g,40,g,1.5,g,3,g,43,g
+399,carrabbas,traditional cannoli amore monday,186,g,70,mg,85,g,40,g,7,g,22,g,1,g,2,g,24,g
+400,carrabbas,tuscan grilled chicken,7,g,135,mg,790,g,1,g,52,g,2,g,0,g,0,g,0,g
+401,carrabbas,tuscan grilled filet 9 ounce,47,g,165,mg,670,g,1,g,50,g,19,g,0,g,0,g,0,g
+402,carrabbas,tuscan grilled pork chop 1 chop,20,g,150,mg,730,g,1,g,47,g,7,g,0,g,0,g,0,g
+403,carrabbas,tuscan grilled pork chop 2 chops,40,g,300,mg,1470,g,3,g,95,g,14,g,0,g,1,g,1,g
+404,carrabbas,tuscan grilled ribeye 13 ounce,41,g,205,mg,1050,g,0,g,86,g,19,g,3,g,0,g,0,g
+405,carrabbas,tuscan grilled sirloin 6 ounce,19,g,70,mg,400,g,1,g,34,g,8,g,0,g,0,g,0,g
+406,carrabbas,tuscan grilled sirloin 9 ounce,30,g,105,mg,620,g,1,g,52,g,12,g,0,g,0,g,0,g
+407,carrabbas,vanilla espresso martini,2,g,0,mg,0,g,26,g,0,g,1,g,0,g,0,g,20,g
+408,carrabbas,veal marsala,19,g,180,mg,670,g,10,g,47,g,10,g,0,g,2,g,1,g
+409,carrabbas,veal piccata,15,g,170,mg,700,g,11,g,46,g,8,g,0,g,1,g,2,g
+410,carrabbas,vegetable frittata,49,g,745,mg,1430,g,14,g,34,g,14,g,0,g,6,g,5,g
+411,carrabbas,white wine bottle 750 ml,0,g,0,mg,25,g,19,g,1,g,0,g,0,g,0,g,7,g
+412,carrabbas,white wine glass 6 ounce,0,g,0,mg,5,g,5,g,0,g,0,g,0,g,0,g,2,g
+413,carrabbas,white wine glass 9 ounce,0,g,0,mg,10,g,7,g,0,g,0,g,0,g,0,g,3,g
+414,carrabbas,wood grilled tilapia,13,g,80,mg,980,g,9,g,45,g,3,g,0,g,1,g,7,g
+415,carrabbas,yogurt bowl,2,g,10,mg,105,g,22,g,8,g,1.5,g,0,g,0,g,22,g
+416,carrabbas,zucchini fritte,74,g,15,mg,1130,g,51,g,11,g,13,g,5,g,6,g,7,g
+417,carvel,add on waffle cone bowl dipped,6,g,0,mg,45,g,27,g,1,g,1.5,g,0,g,0,g,11,g
+418,carvel,add on waffle cone bowl,0.5,g,0,mg,35,g,19,g,1,g,0,g,0,g,0,g,5,g
+419,carvel,add on cake cone,0,g,0,mg,15,g,10,g,0,g,0,g,0,g,0,g,3,g
+420,carvel,vanilla thick shake,26.6,g,110,mg,286,g,88.6,g,11.3,g,18,g,0,g,0,g,79.3,g
+421,carvel,chocolate thick shake,26.6,g,100,mg,300,g,90.6,g,12.7,g,16.7,g,0.7,g,2,g,78.6,g
+422,carvel,oreo cookie thick shake,35.3,g,110,mg,460,g,90.6,g,12.7,g,20,g,0,g,1.3,g,67.3,g
+423,carvel,strawberry thick shake,26.6,g,110,mg,280,g,72.6,g,11.3,g,18,g,0,g,1.3,g,61.3,g
+424,carvel,oreo cookie thick shake large,80,g,220,mg,1100,g,214,g,28,g,43,g,0,g,3,g,154,g
+425,carvel,add on chocolate or vanilla soft serve,3,g,10,mg,30,g,6,g,1,g,2,g,0,g,0,g,6,g
+426,carvel,hot caramel sundae large,39,g,150,mg,550,g,114,g,15,g,27,g,0,g,0,g,84,g
+427,carvel,black and white thick shake,27.3,g,110,mg,300,g,91.9,g,12.7,g,18,g,0,g,0,g,77.3,g
+428,carvel,hot crafted press coffee,9,g,40,mg,200,g,12,g,3,g,6,g,0,g,0,g,12,g
+429,carvel,hot caramel sundae small,27,g,100,mg,380,g,79,g,10,g,19,g,0,g,0,g,57,g
+430,carvel,slice of ice cream cake,13,g,35,mg,125,g,29,g,4,g,9,g,0,g,1,g,21,g
+431,carvel,vanilla soft serve ice cream cup,10,g,50,mg,81,g,18.1,g,2.3,g,6.5,g,0,g,0,g,15.4,g
+432,carvel,vanilla carvelite soft serve ice cream cup,2.7,g,19,mg,112,g,17.7,g,4.6,g,1.9,g,0,g,2.7,g,11.2,g
+433,carvel,chocolate flying saucer ice cream,10,g,20,mg,160,g,33,g,4,g,5,g,0,g,1,g,20,g
+434,carvel,twist soft serve ice cream cup,8.5,g,33,mg,88,g,18.1,g,3.5,g,5.4,g,0,g,0.4,g,15.8,g
+435,carvel,no sugar added vanilla ice cream scoop,8,g,40,mg,230,g,69,g,14,g,5,g,0,g,0,g,19,g
+436,carvel,vanilla flying saucer ice cream,11,g,45,mg,160,g,33,g,3,g,7,g,0,g,0,g,20,g
+437,carvel,sherbet ice cream,1.4,g,2,mg,71,g,40.4,g,1.4,g,1,g,0,g,0,g,30.5,g
+438,carvel,chocolate soft serve ice cream cup,8.1,g,31,mg,87,g,17.7,g,3.6,g,5.1,g,0.3,g,0.9,g,15.9,g
+439,carvel,reeses peanut butter cup sundae dasher,110,g,115,mg,840,g,174,g,37,g,48,g,0,g,8,g,146,g
+440,carvel,oreo cookies and cream ice cream scoop,32,g,100,mg,410,g,82,g,12,g,18,g,0,g,1,g,61,g
+441,carvel,hot fudge sundae medium,39,g,125,mg,410,g,89,g,13,g,27,g,0,g,0,g,75,g
+442,carvel,pistachio carvelite soft serve ice cream cup,2.7,g,19,mg,112,g,17.7,g,4.6,g,1.9,g,0,g,2.7,g,11.2,g
+443,carvel,chocolate chip cookie dough ice cream scoop,31,g,100,mg,310,g,82,g,11,g,19,g,0,g,1,g,62,g
+444,carvel,black raspberry soft serve ice cream,25,g,106,mg,270,g,66,g,11,g,17,g,0,g,0,g,55,g
+445,carvel,fudge brownie sundae dasher regular,62,g,150,mg,590,g,166,g,17,g,40,g,0,g,2,g,130,g
+446,carvel,oreo lil rounders ice cream,7,g,15,mg,200,g,25,g,3,g,2.5,g,0,g,1,g,12,g
+447,carvel,strawberry soft serve ice cream cup,7.7,g,33,mg,81,g,20,g,3.1,g,5,g,0,g,0,g,16.9,g
+448,carvel,sprinkle cup ice cream,14,g,50,mg,85,g,31,g,3,g,10,g,0,g,0,g,17,g
+449,carvel,oreo cookie sundae dasher small,41,g,80,mg,520,g,110,g,11,g,25,g,0,g,1,g,84,g
+450,carvel,chocolate ice cream,12.8,g,33,mg,133,g,29,g,5.7,g,7.6,g,0,g,1,g,25.2,g
+451,carvel,chocolate chip cookie lil rounders ice cream,9,g,20,mg,125,g,23,g,2,g,5,g,0,g,1,g,15,g
+452,carvel,mint chocolate chip ice cream scoop,35,g,100,mg,250,g,78,g,12,g,22,g,0,g,3,g,65,g
+453,carvel,mandms carvelanche regular,43,g,125,mg,310,g,97,g,15,g,28,g,0,g,3,g,81,g
+454,carvel,pistachio soft serve ice cream cup,8.5,g,35,mg,88,g,18.5,g,3.5,g,5.8,g,0,g,0,g,15.4,g
+455,carvel,coffee soft serve ice cream cup,8.1,g,34,mg,87,g,17.7,g,3.3,g,5.4,g,0,g,0,g,15,g
+456,carvel,crunchies carvelanche regular,34,g,120,mg,410,g,79,g,13,g,23,g,0,g,1,g,61,g
+457,carvel,mandms carvelanche small,32,g,100,mg,250,g,73,g,11,g,21,g,0,g,2,g,61,g
+458,carvel,cake mix ice cream scoop,26.9,g,109,mg,282,g,71.8,g,11.5,g,18,g,0,g,0,g,56.4,g
+459,carvel,chipsters ice cream,17,g,45,mg,230,g,45,g,4,g,9,g,0,g,4,g,27,g
+460,carvel,oreo cookie carvelanche small,28,g,100,mg,330,g,67,g,11,g,17,g,0,g,1,g,52,g
+461,carvel,pistachio ice cream scoop,28,g,115,mg,290,g,60,g,12,g,19,g,0,g,0,g,51,g
+462,carvel,fudge brownie sundae dasher small,44,g,115,mg,390,g,111,g,12,g,28,g,0,g,2,g,86,g
+463,carvel,strawberry shortcake sundae dasher regular,37,g,175,mg,390,g,125,g,14,g,23,g,0,g,4,g,100,g
+464,carvel,chocolate volcano ice cream scoop,35,g,95,mg,370,g,76,g,12,g,24,g,0,g,2,g,57,g
+465,carvel,reeses peanut butter cup sundae dasher small,64,g,85,mg,500,g,105,g,21,g,30,g,0,g,4,g,88,g
+466,carvel,mint chocolate chip sundae dasher small,42,g,70,mg,350,g,102,g,10,g,28,g,0,g,3,g,84,g
+467,carvel,carvelite chocolate soft serve ice cream cup,2.4,g,7,mg,72,g,18.6,g,3.9,g,2.1,g,0,g,0,g,15.3,g
+468,carvel,strawberry carvelite soft serve ice cream cup,2.7,g,17,mg,108,g,20.8,g,4.2,g,1.7,g,0,g,2.7,g,13.8,g
+469,carvel,chocolate chip ice cream scoop,35,g,100,mg,250,g,79,g,12,g,23,g,0,g,3,g,66,g
+470,carvel,mint chocolate chip sundae dasher regular,56,g,90,mg,560,g,144,g,14,g,39,g,0,g,3,g,118,g
+471,carvel,cherry vanilla ice cream scoop,18.5,g,77,mg,195,g,47.2,g,8.2,g,12.3,g,0,g,1,g,40,g
+472,carvel,strawberry shortcake sundae dasher small,28,g,130,mg,290,g,90,g,10,g,18,g,0,g,2,g,72,g
+473,carvel,mint soft serve ice cream cup,8.5,g,35,mg,88,g,18.5,g,3.5,g,5.8,g,0,g,0,g,15.4,g
+474,carvel,cake mix carvelanche regular,35,g,120,mg,700,g,148,g,15,g,23,g,0,g,1,g,107,g
+475,carvel,butter pecan ice cream scoop,51.3,g,103,mg,398,g,57.7,g,12.8,g,19.2,g,0,g,2.6,g,46.2,g
+476,carvel,reeses peanut butter cup carvelanche regular,58,g,130,mg,630,g,119,g,23,g,32,g,0,g,3,g,102,g
+477,carvel,heath sundae dasher large,57,g,160,mg,920,g,206,g,25,g,41,g,0,g,0,g,139,g
+478,carvel,reeses peanut butter cup carvelanche small,43,g,100,mg,460,g,88,g,17,g,24,g,0,g,2,g,75,g
+479,carvel,oreo cookie soft serve ice cream cup,9.2,g,31,mg,115,g,23.1,g,3.5,g,5.4,g,0,g,0.4,g,17.7,g
+480,carvel,bananas foster sundae dasher small,24,g,85,mg,430,g,104,g,9,g,16,g,0,g,2,g,69,g
+481,carvel,strawberry shortcake sundae dasher large,49,g,225,mg,520,g,150,g,19,g,31,g,0,g,4,g,121,g
+482,carvel,crunchies carvelanche large,56,g,185,mg,730,g,135,g,21,g,39,g,0,g,2,g,101,g
+483,carvel,sprinkles deluxe flying saucer ice cream,16,g,45,mg,160,g,49,g,3,g,10,g,0,g,0,g,20,g
+484,carvel,coffee ice cream scoop,27,g,115,mg,290,g,59,g,11,g,18,g,0,g,0,g,50,g
+485,carvel,cookie dough carvelanche small,31,g,105,mg,360,g,90,g,12,g,19,g,0,g,0,g,65,g
+486,carvel,crunchies carvelanche small,26,g,100,mg,310,g,61,g,10,g,18,g,0,g,0,g,48,g
+487,carvel,crazy cotton candy ice cream,27,g,105,mg,270,g,75,g,11,g,18,g,0,g,0,g,57,g
+488,carvel,coconut soft serve ice cream cups,9,g,30,mg,78,g,21.6,g,3,g,6.6,g,0,g,0,g,19.2,g
+489,carvel,bananas foster sundae dasher regular,33,g,110,mg,680,g,171,g,13,g,21,g,0,g,3,g,110,g
+490,carvel,chocolate hazelnut ice cream scoop,42,g,80,mg,380,g,96,g,12,g,24,g,0,g,3,g,75,g
+491,carvel,cookie dough carvelanche large,64,g,205,mg,740,g,192,g,24,g,37,g,0,g,1,g,135,g
+492,carvel,cake mix carvelanche small,27,g,100,mg,440,g,99,g,11,g,17,g,0,g,0,g,73,g
+493,carvel,peanut butter treasure ice cream scoop,41,g,85,mg,240,g,73,g,14,g,21,g,0.5,g,5,g,63,g
+494,carvel,oreo cookie sundae dasher large,72,g,155,mg,920,g,194,g,21,g,45,g,0,g,2,g,151,g
+495,carvel,strawberry classic sundae medium,41,g,190,mg,280,g,81,g,10,g,28,g,0,g,1,g,69,g
+496,carvel,carvelite vanilla flying saucer ice cream,4.5,g,10,mg,135,g,35,g,5,g,3,g,0,g,0,g,20,g
+497,carvel,olde fashioned sundae,15,g,75,mg,150,g,47,g,4,g,11,g,0,g,0,g,34,g
+498,carvel,vanilla fudge swirl ice cream scoop,31,g,95,mg,350,g,75,g,11,g,21,g,0,g,0,g,64,g
+499,carvel,heath sundae dasher small,31,g,85,mg,490,g,109,g,13,g,22,g,0,g,0,g,73,g
+500,carvel,reeses peanut butter cup sundae dasher,121,g,165,mg,960,g,200,g,42,g,56,g,0,g,8,g,167,g
+501,carvel,vanilla ice cream scoop,28,g,115,mg,290,g,61,g,12,g,19,g,0,g,0,g,51,g
+502,carvel,reeses soft serve ice cream cup,10.4,g,33,mg,85,g,18.1,g,4.2,g,5.8,g,0,g,0.4,g,15,g
+503,carvel,reeses peanut butter cup carvelanche large,92,g,190,mg,1000,g,188,g,36,g,50,g,0,g,5,g,161,g
+504,carvel,chocolate ice cream scoop,21.6,g,82,mg,236,g,47.2,g,9.2,g,14.4,g,0.5,g,2.1,g,43.1,g
+505,carvel,hot caramel sundae medium,33,g,125,mg,460,g,97,g,13,g,23,g,0,g,0,g,71,g
+506,carvel,carvelite slice ice cream cake,6,g,10,mg,100,g,31,g,5,g,4.5,g,0,g,0,g,22,g
+507,carvel,oreo cookie carvelanche regular,36,g,120,mg,440,g,88,g,14,g,21,g,0,g,1,g,68,g
+508,carvel,mint chocolate chip sundae dasher large,71,g,130,mg,670,g,177,g,19,g,48,g,0,g,4,g,146,g
+509,carvel,bananas foster sundae dasher large,45,g,160,mg,800,g,197,g,18,g,29,g,0,g,3,g,131,g
+510,carvel,chocolate hazelnut soft serve ice cream cup,10.5,g,31,mg,81,g,22.2,g,3.6,g,75,g,0,g,0.3,g,19.2,g
+511,carvel,cake mix carvelanche large,53,g,185,mg,1040,g,228,g,22,g,34,g,0.5,g,1,g,164,g
+512,carvel,sugar cookie lil rounders ice cream,9,g,25,mg,140,g,22,g,2,g,5,g,0,g,0,g,13,g
+513,carvel,fudge brownie sundae dasher large,74,g,200,mg,710,g,191,g,22,g,48,g,0,g,2,g,151,g
+514,carvel,oreo cookie sundae dasher regular,60,g,105,mg,800,g,168,g,16,g,37,g,0,g,2,g,129,g
+515,carvel,carvelite vanilla oreo lil rounders ice cream,4.5,g,5,mg,200,g,25,g,3,g,1,g,0,g,1,g,13,g
+516,carvel,lil fying saucer ice cream,4.5,g,15,mg,110,g,19,g,2,g,2.5,g,0,g,0,g,10,g
+517,carvel,double chocolate chip cookie lil rounders ice cream,9,g,20,mg,135,g,23,g,2,g,5,g,0,g,1,g,16,g
+518,carvel,oreo cookie carvelanche large,62,g,215,mg,760,g,152,g,24,g,37,g,0,g,1,g,117,g
+519,carvel,cookie dough carvelanche regular,41,g,135,mg,470,g,122,g,15,g,24,g,0,g,0,g,86,g
+520,carvel,banana barge sundae with fudge,48,g,110,mg,380,g,120,g,17,g,29,g,0,g,5,g,94,g
+521,carvel,carvelite vanilla sugar cookie lil rounders ice cream,7,g,15,mg,150,g,23,g,2,g,3,g,0,g,0,g,14,g
+522,carvel,banana barge sundae with pineapple,44,g,110,mg,320,g,113,g,16,g,25,g,0,g,6,g,87,g
+523,carvel,heath sundae dasher regular,46,g,110,mg,800,g,181,g,21,g,33,g,0,g,0,g,117,g
+524,carvel,mandms carvelanche large,66,g,185,mg,460,g,152,g,22,g,43,g,0,g,6,g,126,g
+525,carvel,carvelite vanilla double chocolate chip cookie lil rounders ice cream,7,g,10,mg,135,g,24,g,2,g,3,g,0,g,1,g,17,g
+526,carvel,carvelite vanilla chocolate chip cookie lil rounders ice cream,7,g,10,mg,125,g,24,g,2,g,3,g,0,g,1,g,16,g
+527,carvel,carvelite vanilla lil flying saucer ice cream,2,g,5,mg,110,g,20,g,2,g,1,g,0,g,0,g,10,g
+528,carvel,banana barge sundae with strawberries,44,g,110,mg,320,g,114,g,17,g,25,g,0,g,6,g,88,g
+529,carvel,add a float to any thick shake chocolate soft serve,3,g,10,mg,30,g,6,g,1,g,2,g,0,g,0,g,6,g
+530,carvel,add a float to any thick shake vanilla soft serve,3,g,10,mg,30,g,6,g,1,g,2,g,0,g,0,g,5,g
+531,carvel,banana barge sundae with fudge,48,g,110,mg,380,g,120,g,17,g,29,g,0,g,5,g,94,g
+532,carvel,banana barge sundae with pineapple,44,g,110,mg,320,g,113,g,16,g,25,g,0,g,6,g,87,g
+533,carvel,banana barge sundae with strawberry,44,g,110,mg,320,g,114,g,17,g,25,g,0,g,6,g,88,g
+534,carvel,bananas foster sundae dasher 12 oz,24,g,85,mg,430,g,104,g,9,g,16,g,0,g,2,g,69,g
+535,carvel,bananas foster sundae dasher 16 oz,33,g,110,mg,680,g,171,g,13,g,21,g,0,g,3,g,110,g
+536,carvel,bananas foster sundae dasher 24 oz,45,g,160,mg,800,g,197,g,18,g,29,g,0,g,3,g,131,g
+537,carvel,black and white shake 16 oz,27,g,110,mg,300,g,92,g,12,g,18,g,0,g,0,g,77,g
+538,carvel,black and white shake 24 oz,41,g,165,mg,450,g,138,g,19,g,27,g,0,g,0,g,116,g
+539,carvel,black and white shake 32 oz,54,g,220,mg,600,g,184,g,25,g,36,g,0,g,0,g,154,g
+540,carvel,black raspberry soft serve junior,12,g,50,mg,130,g,31,g,5,g,8,g,0,g,0,g,26,g
+541,carvel,black raspberry soft serve kids,7,g,30,mg,70,g,17,g,3,g,4.5,g,0,g,0,g,15,g
+542,carvel,black raspberry soft serve large,31,g,130,mg,330,g,80,g,13,g,21,g,0,g,0,g,67,g
+543,carvel,black raspberry soft serve medium,25,g,105,mg,270,g,66,g,11,g,17,g,0,g,0,g,55,g
+544,carvel,black raspberry soft serve small,20,g,85,mg,220,g,52,g,8,g,13,g,0,g,0,g,44,g
+545,carvel,butter pecan scooped junior,24,g,50,mg,190,g,27,g,6,g,9,g,0,g,1,g,22,g
+546,carvel,butter pecan scooped kids,13,g,25,mg,105,g,15,g,3,g,5,g,0,g,1,g,12,g
+547,carvel,butter pecan scooped large,62,g,120,mg,480,g,69,g,16,g,23,g,0,g,3,g,55,g
+548,carvel,butter pecan scooped medium,51,g,100,mg,400,g,57,g,13,g,19,g,0,g,2,g,46,g
+549,carvel,butter pecan scooped small,40,g,80,mg,310,g,45,g,10,g,15,g,0,g,2,g,36,g
+550,carvel,cake mix carvelanche 12 oz,27,g,100,mg,440,g,99,g,11,g,17,g,0,g,0,g,73,g
+551,carvel,cake mix carvelanche 16 oz,35,g,120,mg,700,g,148,g,15,g,23,g,0,g,1,g,107,g
+552,carvel,cake mix carvelanche 24 oz,53,g,185,mg,1040,g,228,g,22,g,34,g,0.5,g,1,g,164,g
+553,carvel,cake mix scooped junior,13,g,50,mg,135,g,34,g,5,g,8,g,0,g,0,g,27,g
+554,carvel,cake mix scooped kids,7,g,30,mg,75,g,19,g,3,g,4.5,g,0,g,0,g,15,g
+555,carvel,cake mix scooped large,33,g,130,mg,340,g,86,g,14,g,22,g,0,g,0,g,68,g
+556,carvel,cake mix scooped medium,27,g,110,mg,280,g,71,g,11,g,18,g,0,g,0,g,56,g
+557,carvel,cake mix scooped small,21,g,85,mg,220,g,56,g,9,g,14,g,0,g,0,g,44,g
+558,carvel,cherry vanilla scooped junior,11,g,45,mg,115,g,28,g,5,g,7,g,0,g,0,g,24,g
+559,carvel,cherry vanilla scooped kids,6,g,25,mg,65,g,15,g,3,g,4,g,0,g,0,g,13,g
+560,carvel,cherry vanilla scooped large,28,g,115,mg,300,g,70,g,12,g,19,g,0,g,1,g,60,g
+561,carvel,cherry vanilla scooped medium,23,g,95,mg,240,g,58,g,10,g,16,g,0,g,1,g,50,g
+562,carvel,cherry vanilla scooped small,18,g,75,mg,190,g,46,g,8,g,12,g,0,g,1,g,39,g
+563,carvel,chocolate carvelite soft serve junior,4,g,15,mg,115,g,29,g,6,g,3,g,0,g,0,g,24,g
+564,carvel,chocolate carvelite soft serve kids,2,g,5,mg,65,g,16,g,4,g,2,g,0,g,0,g,13,g
+565,carvel,chocolate carvelite soft serve large,10,g,35,mg,290,g,75,g,16,g,8,g,0,g,0,g,62,g
+566,carvel,chocolate carvelite soft serve medium,8,g,25,mg,240,g,62,g,13,g,7,g,0,g,0,g,51,g
+567,carvel,chocolate carvelite soft serve small,6,g,20,mg,190,g,49,g,11,g,5,g,0,g,0,g,40,g
+568,carvel,chocolate chip cookie dough scooped junior,15,g,50,mg,150,g,39,g,5,g,9,g,0,g,0,g,30,g
+569,carvel,chocolate chip cookie dough scooped kids,8,g,25,mg,80,g,22,g,3,g,5,g,0,g,0,g,16,g
+570,carvel,chocolate chip cookie dough scooped large,38,g,125,mg,370,g,99,g,14,g,23,g,0,g,1,g,75,g
+571,carvel,chocolate chip cookie dough scooped medium,31,g,100,mg,310,g,82,g,11,g,19,g,0,g,1,g,62,g
+572,carvel,chocolate chip cookie dough scooped small,25,g,80,mg,240,g,65,g,9,g,15,g,0,g,1,g,49,g
+573,carvel,chocolate chip scooped junior,17,g,45,mg,115,g,37,g,6,g,11,g,0,g,1,g,31,g
+574,carvel,chocolate chip scooped kids,9,g,25,mg,65,g,21,g,3,g,6,g,0,g,1,g,17,g
+575,carvel,chocolate chip scooped large,43,g,120,mg,300,g,95,g,14,g,27,g,0,g,3,g,80,g
+576,carvel,chocolate chip scooped medium,35,g,100,mg,250,g,79,g,12,g,23,g,0,g,3,g,66,g
+577,carvel,chocolate chip scooped small,28,g,75,mg,200,g,62,g,9,g,18,g,0,g,2,g,52,g
+578,carvel,chocolate hazelnut scooped junior,20,g,40,mg,180,g,45,g,6,g,11,g,0,g,1,g,36,g
+579,carvel,chocolate hazelnut scooped kids,11,g,20,mg,100,g,25,g,3,g,6,g,0,g,1,g,20,g
+580,carvel,chocolate hazelnut scooped large,51,g,100,mg,460,g,116,g,15,g,29,g,0,g,3,g,91,g
+581,carvel,chocolate hazelnut scooped medium,42,g,80,mg,380,g,96,g,12,g,24,g,0,g,3,g,75,g
+582,carvel,chocolate hazelnut scooped small,33,g,65,mg,300,g,76,g,10,g,19,g,0,g,2,g,59,g
+583,carvel,chocolate hazelnut soft serve junior,17,g,50,mg,130,g,35,g,6,g,9,g,0,g,1,g,30,g
+584,carvel,chocolate hazelnut soft serve kids,9,g,25,mg,70,g,19,g,3,g,5,g,0,g,0,g,17,g
+585,carvel,chocolate hazelnut soft serve large,43,g,125,mg,330,g,89,g,15,g,24,g,0,g,1,g,78,g
+586,carvel,chocolate hazelnut soft serve medium,35,g,105,mg,270,g,74,g,12,g,20,g,0,g,1,g,64,g
+587,carvel,chocolate hazelnut soft serve small,28,g,80,mg,210,g,58,g,10,g,16,g,0,g,1,g,51,g
+588,carvel,chocolate scooped junior,13,g,50,mg,140,g,28,g,6,g,8,g,0,g,1,g,25,g
+589,carvel,chocolate scooped kids,7,g,25,mg,75,g,15,g,3,g,4.5,g,0,g,1,g,14,g
+590,carvel,chocolate scooped large,33,g,125,mg,350,g,71,g,15,g,21,g,1,g,3,g,64,g
+591,carvel,chocolate scooped medium,27,g,105,mg,290,g,59,g,12,g,17,g,1,g,3,g,53,g
+592,carvel,chocolate scooped small,21,g,80,mg,230,g,46,g,9,g,14,g,0.5,g,2,g,42,g
+593,carvel,chocolate shake 16 oz,26,g,100,mg,300,g,91,g,13,g,17,g,1,g,2,g,79,g
+594,carvel,chocolate shake 24 oz,40,g,150,mg,450,g,136,g,19,g,25,g,1,g,3,g,118,g
+595,carvel,chocolate shake 32 oz,53,g,200,mg,600,g,181,g,25,g,34,g,1.5,g,4,g,158,g
+596,carvel,chocolate soft serve junior,13,g,50,mg,140,g,28,g,6,g,8,g,0,g,1,g,25,g
+597,carvel,chocolate soft serve kids,7,g,25,mg,75,g,15,g,3,g,4.5,g,0,g,1,g,14,g
+598,carvel,chocolate soft serve large,33,g,125,mg,350,g,71,g,15,g,21,g,1,g,3,g,64,g
+599,carvel,chocolate soft serve medium,27,g,105,mg,290,g,59,g,12,g,17,g,1,g,3,g,53,g
+600,carvel,chocolate soft serve small,21,g,80,mg,230,g,46,g,9,g,14,g,0.5,g,2,g,42,g
+601,carvel,chocolate volcano scooped junior,17,g,45,mg,170,g,36,g,6,g,11,g,0,g,1,g,27,g
+602,carvel,chocolate volcano scooped kids,9,g,25,mg,95,g,20,g,3,g,6,g,0,g,1,g,15,g
+603,carvel,chocolate volcano scooped large,42,g,115,mg,450,g,92,g,14,g,29,g,0.5,g,3,g,69,g
+604,carvel,chocolate volcano scooped medium,35,g,95,mg,370,g,76,g,12,g,24,g,0,g,2,g,57,g
+605,carvel,chocolate volcano scooped small,28,g,75,mg,290,g,60,g,9,g,19,g,0,g,2,g,45,g
+606,carvel,coconut soft serve junior,14,g,45,mg,125,g,34,g,5,g,10,g,0,g,0,g,30,g
+607,carvel,coconut soft serve kids,8,g,25,mg,70,g,19,g,3,g,6,g,0,g,0,g,17,g
+608,carvel,coconut soft serve large,37,g,120,mg,320,g,88,g,13,g,27,g,0,g,0,g,77,g
+609,carvel,coconut soft serve medium,30,g,100,mg,260,g,72,g,10,g,22,g,0,g,0,g,64,g
+610,carvel,coconut soft serve small,24,g,80,mg,210,g,57,g,8,g,17,g,0,g,0,g,50,g
+611,carvel,coffee scooped junior,13,g,55,mg,135,g,28,g,5,g,9,g,0,g,0,g,24,g
+612,carvel,coffee scooped kids,7,g,30,mg,75,g,16,g,3,g,5,g,0,g,0,g,13,g
+613,carvel,coffee scooped large,33,g,140,mg,350,g,72,g,14,g,22,g,0,g,0,g,61,g
+614,carvel,coffee scooped medium,27,g,115,mg,290,g,59,g,11,g,18,g,0,g,0,g,50,g
+615,carvel,coffee scooped small,22,g,90,mg,230,g,47,g,9,g,14,g,0,g,0,g,40,g
+616,carvel,coffee shake 16 oz,27,g,110,mg,300,g,58,g,11,g,18,g,0,g,0,g,49,g
+617,carvel,coffee shake 24 oz,40,g,165,mg,450,g,87,g,17,g,27,g,0,g,0,g,74,g
+618,carvel,coffee shake 32 oz,53,g,220,mg,600,g,116,g,22,g,36,g,0,g,0,g,99,g
+619,carvel,coffee soft serve junior,13,g,55,mg,135,g,28,g,5,g,9,g,0,g,0,g,24,g
+620,carvel,coffee soft serve kids,7,g,30,mg,75,g,16,g,3,g,5,g,0,g,0,g,13,g
+621,carvel,coffee soft serve large,33,g,140,mg,350,g,72,g,14,g,22,g,0,g,0,g,61,g
+622,carvel,coffee soft serve medium,27,g,115,mg,290,g,59,g,11,g,18,g,0,g,0,g,50,g
+623,carvel,coffee soft serve small,22,g,90,mg,230,g,47,g,9,g,14,g,0,g,0,g,40,g
+624,carvel,cookie dough carvelanche 12 oz,31,g,105,mg,360,g,90,g,12,g,19,g,0,g,0,g,65,g
+625,carvel,cookie dough carvelanche 16 oz,41,g,135,mg,470,g,122,g,15,g,24,g,0,g,0,g,86,g
+626,carvel,cookie dough carvelanche 24 oz,64,g,205,mg,740,g,192,g,24,g,37,g,0,g,1,g,135,g
+627,carvel,crazy cotton candy scooped junior,13,g,50,mg,125,g,35,g,5,g,8,g,0,g,0,g,27,g
+628,carvel,crazy cotton candy scooped kids,7,g,30,mg,70,g,20,g,3,g,4.5,g,0,g,0,g,15,g
+629,carvel,crazy cotton candy scooped large,32,g,130,mg,320,g,90,g,14,g,21,g,0,g,0,g,69,g
+630,carvel,crazy cotton candy scooped medium,27,g,105,mg,270,g,75,g,11,g,18,g,0,g,0,g,57,g
+631,carvel,crazy cotton candy scooped small,21,g,85,mg,210,g,59,g,9,g,14,g,0,g,0,g,45,g
+632,carvel,crunchies carvelanche 12 oz,26,g,100,mg,310,g,61,g,10,g,18,g,0,g,0,g,48,g
+633,carvel,crunchies carvelanche 16 oz,34,g,120,mg,410,g,79,g,13,g,23,g,0,g,1,g,61,g
+634,carvel,crunchies carvelanche 24 oz,56,g,185,mg,730,g,135,g,21,g,39,g,0,g,2,g,101,g
+635,carvel,fudge brownie sundae dasher 12 oz,44,g,115,mg,390,g,111,g,12,g,28,g,0,g,2,g,86,g
+636,carvel,fudge brownie sundae dasher 16 oz,62,g,150,mg,590,g,166,g,17,g,40,g,0,g,2,g,130,g
+637,carvel,fudge brownie sundae dasher 24 oz,74,g,200,mg,710,g,191,g,22,g,48,g,0,g,2,g,151,g
+638,carvel,heath sundae dasher 12 oz,31,g,85,mg,490,g,109,g,13,g,22,g,0,g,0,g,73,g
+639,carvel,heath sundae dasher 16 oz,46,g,110,mg,800,g,181,g,21,g,33,g,0,g,0,g,117,g
+640,carvel,heath sundae dasher 24 oz,57,g,160,mg,920,g,206,g,25,g,41,g,0,g,0,g,139,g
+641,carvel,hot caramel sundae large,39,g,150,mg,550,g,114,g,15,g,27,g,0,g,0,g,84,g
+642,carvel,hot caramel sundae medium,33,g,125,mg,460,g,97,g,13,g,23,g,0,g,0,g,71,g
+643,carvel,hot caramel sundae small,27,g,100,mg,380,g,79,g,10,g,19,g,0,g,0,g,57,g
+644,carvel,hot fudge sundae large,46,g,150,mg,480,g,105,g,16,g,32,g,0,g,0,g,89,g
+645,carvel,hot fudge sundae medium,39,g,125,mg,410,g,89,g,13,g,27,g,0,g,0,g,75,g
+646,carvel,hot fudge sundae small,32,g,100,mg,330,g,72,g,11,g,23,g,0,g,0,g,61,g
+647,carvel,ice cream cake,14,g,25,mg,140,g,34,g,4,g,10,g,0,g,0,g,24,g
+648,carvel,kit kat scooped junior,18,g,45,mg,125,g,38,g,6,g,13,g,0,g,0,g,31,g
+649,carvel,kit kat scooped kids,10,g,25,mg,70,g,21,g,3,g,7,g,0,g,0,g,17,g
+650,carvel,kit kat scooped large,46,g,120,mg,320,g,96,g,14,g,32,g,0,g,1,g,80,g
+651,carvel,kit kat scooped medium,38,g,100,mg,270,g,79,g,12,g,27,g,0,g,1,g,66,g
+652,carvel,kit kat scooped small,30,g,80,mg,210,g,63,g,9,g,21,g,0,g,1,g,52,g
+653,carvel,kit kat sundae dasher 12oz,68,g,90,mg,250,g,114,g,13,g,51,g,0,g,2,g,96,g
+654,carvel,kit kat sundae dasher 16oz,112,g,120,mg,330,g,175,g,18,g,86,g,0,g,3,g,149,g
+655,carvel,kit kat sundae dasher 24oz,124,g,165,mg,450,g,201,g,23,g,93,g,0,g,3,g,171,g
+656,carvel,lotus biscoff scooped junior,32,g,100,mg,490,g,100,g,12,g,20,g,0,g,0,g,68,g
+657,carvel,lotus biscoff scooped kids,13,g,40,mg,190,g,39,g,5,g,8,g,0,g,0,g,27,g
+658,carvel,lotus biscoff scooped large,7,g,20,mg,105,g,22,g,3,g,4.5,g,0,g,0,g,15,g
+659,carvel,lotus biscoff scooped medium,27,g,80,mg,400,g,82,g,10,g,17,g,0,g,0,g,57,g
+660,carvel,lotus biscoff scooped small,21,g,65,mg,320,g,65,g,8,g,13,g,0,g,0,g,45,g
+661,carvel,lotus biscoff soft serve junior,12,g,50,mg,120,g,25,g,5,g,8,g,0,g,0,g,21,g
+662,carvel,lotus biscoff soft serve kids,25,g,105,mg,260,g,53,g,10,g,16,g,0,g,0,g,45,g
+663,carvel,lotus biscoff soft serve large,6,g,25,mg,70,g,14,g,3,g,4.5,g,0,g,0,g,12,g
+664,carvel,lotus biscoff soft serve medium,30,g,125,mg,310,g,65,g,12,g,20,g,0,g,0,g,55,g
+665,carvel,lotus biscoff soft serve small,19,g,80,mg,200,g,42,g,8,g,13,g,0,g,0,g,36,g
+666,carvel,lotus biscoff sundae dasher 12oz,30,g,75,mg,580,g,117,g,10,g,18,g,0,g,0,g,72,g
+667,carvel,lotus biscoff sundae dasher 16oz,42,g,95,mg,900,g,183,g,14,g,25,g,0,g,1,g,110,g
+668,carvel,lotus biscoff sundae dasher 24oz,52,g,140,mg,1010,g,205,g,18,g,32,g,0,g,1,g,129,g
+669,carvel,lotus biscoff thick shake 12oz,33,g,100,mg,420,g,85,g,12,g,20,g,0,g,0,g,61,g
+670,carvel,lotus biscoff thick shake 16oz,49,g,150,mg,630,g,127,g,18,g,30,g,0,g,1,g,92,g
+671,carvel,lotus biscoff thick shake 24oz,77,g,235,mg,990,g,200,g,29,g,47,g,0,g,1,g,144,g
+672,carvel,mandms carvelanche 12 oz,32,g,100,mg,250,g,73,g,11,g,21,g,0,g,2,g,61,g
+673,carvel,mandms carvelanche 16 oz,43,g,125,mg,310,g,97,g,15,g,28,g,0,g,3,g,81,g
+674,carvel,mandms carvelanche 24 oz,66,g,185,mg,460,g,152,g,22,g,43,g,0,g,6,g,126,g
+675,carvel,mint chocolate chip scooped junior,17,g,45,mg,115,g,37,g,5,g,11,g,0,g,1,g,31,g
+676,carvel,mint chocolate chip scooped kids,9,g,25,mg,65,g,21,g,3,g,6,g,0,g,1,g,17,g
+677,carvel,mint chocolate chip scooped large,42,g,120,mg,300,g,95,g,14,g,27,g,0,g,3,g,79,g
+678,carvel,mint chocolate chip scooped medium,35,g,100,mg,250,g,78,g,12,g,22,g,0,g,3,g,65,g
+679,carvel,mint chocolate chip scooped small,28,g,75,mg,200,g,62,g,9,g,18,g,0,g,2,g,52,g
+680,carvel,mint chocolate chip sundae dasher 12 oz,42,g,70,mg,350,g,102,g,10,g,28,g,0,g,3,g,84,g
+681,carvel,mint chocolate chip sundae dasher 16 oz,56,g,90,mg,560,g,144,g,14,g,39,g,0,g,3,g,118,g
+682,carvel,mint chocolate chip sundae dasher 24 oz,71,g,130,mg,670,g,177,g,19,g,48,g,0,g,4,g,146,g
+683,carvel,mint soft serve junior,13,g,55,mg,135,g,29,g,5,g,9,g,0,g,0,g,24,g
+684,carvel,mint soft serve kids,7,g,30,mg,75,g,16,g,3,g,5,g,0,g,0,g,13,g
+685,carvel,mint soft serve large,34,g,140,mg,350,g,73,g,14,g,22,g,0,g,0,g,62,g
+686,carvel,mint soft serve medium,28,g,115,mg,290,g,60,g,12,g,19,g,0,g,0,g,51,g
+687,carvel,mint soft serve small,22,g,90,mg,230,g,48,g,9,g,15,g,0,g,0,g,40,g
+688,carvel,oreo cookie carvelanche 12 oz,28,g,100,mg,330,g,67,g,11,g,17,g,0,g,1,g,52,g
+689,carvel,oreo cookie carvelanche 16 oz,36,g,120,mg,440,g,88,g,14,g,21,g,0,g,1,g,68,g
+690,carvel,oreo cookie carvelanche 24 oz,62,g,215,mg,760,g,152,g,24,g,37,g,0,g,1,g,117,g
+691,carvel,oreo cookie shake 16 oz,36,g,110,mg,460,g,91,g,13,g,20,g,0,g,1,g,68,g
+692,carvel,oreo cookie shake 24 oz,53,g,165,mg,690,g,136,g,19,g,30,g,0,g,2,g,101,g
+693,carvel,oreo cookie shake 32 oz,80,g,220,mg,1100,g,214,g,28,g,43,g,0,g,3,g,154,g
+694,carvel,oreo cookie soft serve junior,15,g,50,mg,180,g,36,g,5,g,9,g,0,g,0,g,28,g
+695,carvel,oreo cookie soft serve kids,8,g,25,mg,100,g,20,g,3,g,5,g,0,g,0,g,15,g
+696,carvel,oreo cookie soft serve large,37,g,125,mg,460,g,92,g,14,g,22,g,0,g,1,g,70,g
+697,carvel,oreo cookie soft serve medium,31,g,105,mg,380,g,76,g,12,g,18,g,0,g,1,g,58,g
+698,carvel,oreo cookie soft serve small,24,g,80,mg,300,g,60,g,9,g,14,g,0,g,1,g,46,g
+699,carvel,oreo cookie sundae dasher 12 oz,41,g,80,mg,520,g,110,g,11,g,25,g,0,g,1,g,84,g
+700,carvel,oreo cookie sundae dasher 16 oz,60,g,105,mg,800,g,168,g,16,g,37,g,0,g,2,g,129,g
+701,carvel,oreo cookie sundae dasher 24 oz,72,g,155,mg,920,g,194,g,21,g,45,g,0,g,2,g,151,g
+702,carvel,oreo cookies and cream scooped junior,15,g,45,mg,200,g,39,g,5,g,9,g,0,g,0,g,29,g
+703,carvel,oreo cookies and cream scooped kids,8,g,25,mg,110,g,21,g,3,g,4.5,g,0,g,0,g,16,g
+704,carvel,oreo cookies and cream scooped large,39,g,120,mg,500,g,99,g,14,g,22,g,0,g,1,g,73,g
+705,carvel,oreo cookies and cream scooped medium,32,g,100,mg,410,g,82,g,12,g,18,g,0,g,1,g,61,g
+706,carvel,oreo cookies and cream scooped small,25,g,75,mg,330,g,64,g,9,g,14,g,0,g,1,g,48,g
+707,carvel,peanut butter treasure scooped junior,19,g,40,mg,115,g,34,g,7,g,10,g,0,g,2,g,30,g
+708,carvel,peanut butter treasure scooped kids,11,g,20,mg,65,g,19,g,4,g,6,g,0,g,1,g,16,g
+709,carvel,peanut butter treasure scooped large,49,g,100,mg,290,g,88,g,17,g,25,g,1,g,6,g,76,g
+710,carvel,peanut butter treasure scooped medium,41,g,85,mg,240,g,73,g,14,g,21,g,0.5,g,5,g,63,g
+711,carvel,peanut butter treasure scooped small,32,g,65,mg,190,g,57,g,11,g,17,g,0.5,g,4,g,49,g
+712,carvel,pistachio carvelite soft serve junior,4.5,g,30,mg,180,g,28,g,7,g,3,g,0,g,4,g,18,g
+713,carvel,pistachio carvelite soft serve kids,2.5,g,15,mg,95,g,15,g,4,g,1.5,g,0,g,2,g,10,g
+714,carvel,pistachio carvelite soft serve large,11,g,75,mg,450,g,71,g,19,g,7,g,0,g,11,g,45,g
+715,carvel,pistachio carvelite soft serve medium,9,g,60,mg,370,g,59,g,15,g,6,g,0,g,9,g,37,g
+716,carvel,pistachio carvelite soft serve small,7,g,50,mg,290,g,46,g,12,g,5,g,0,g,7,g,29,g
+717,carvel,pistachio scooped junior,13,g,55,mg,135,g,29,g,5,g,9,g,0,g,0,g,24,g
+718,carvel,pistachio scooped kids,7,g,30,mg,75,g,16,g,3,g,5,g,0,g,0,g,13,g
+719,carvel,pistachio scooped large,34,g,140,mg,350,g,73,g,14,g,22,g,0,g,0,g,62,g
+720,carvel,pistachio scooped medium,28,g,115,mg,290,g,60,g,12,g,19,g,0,g,0,g,51,g
+721,carvel,pistachio scooped small,22,g,90,mg,230,g,48,g,9,g,15,g,0,g,0,g,40,g
+722,carvel,pistachio soft serve junior,13,g,55,mg,135,g,29,g,5,g,9,g,0,g,0,g,24,g
+723,carvel,pistachio soft serve kids,7,g,30,mg,75,g,16,g,3,g,5,g,0,g,0,g,13,g
+724,carvel,pistachio soft serve large,34,g,140,mg,350,g,73,g,14,g,22,g,0,g,0,g,62,g
+725,carvel,pistachio soft serve medium,28,g,115,mg,290,g,60,g,12,g,19,g,0,g,0,g,51,g
+726,carvel,pistachio soft serve small,22,g,90,mg,230,g,48,g,9,g,15,g,0,g,0,g,40,g
+727,carvel,reeses peanut butter cup carvelanche 12 oz,43,g,100,mg,460,g,88,g,17,g,24,g,0,g,2,g,75,g
+728,carvel,reeses peanut butter cup carvelanche 16 oz,58,g,130,mg,630,g,119,g,23,g,32,g,0,g,3,g,102,g
+729,carvel,reeses peanut butter cup carvelanche 24 oz,92,g,190,mg,1000,g,188,g,36,g,50,g,0,g,5,g,161,g
+730,carvel,reeses peanut butter cup sundae dasher 12 oz,64,g,85,mg,500,g,105,g,21,g,30,g,0,g,4,g,88,g
+731,carvel,reeses peanut butter cup sundae dasher 16 oz,110,g,115,mg,840,g,174,g,37,g,48,g,0,g,8,g,146,g
+732,carvel,reeses peanut butter cup sundae dasher 24 oz,121,g,165,mg,960,g,200,g,42,g,56,g,0,g,8,g,167,g
+733,carvel,reeses peanut butter sauce sundae large,71,g,150,mg,360,g,86,g,26,g,31,g,0,g,4,g,69,g
+734,carvel,reeses peanut butter sauce sundae medium,61,g,125,mg,300,g,72,g,22,g,26,g,0,g,3,g,58,g
+735,carvel,reeses peanut butter sauce sundae small,43,g,85,mg,200,g,49,g,15,g,18,g,0,g,2,g,39,g
+736,carvel,reeses soft serve junior,16,g,50,mg,130,g,28,g,7,g,9,g,0,g,0,g,24,g
+737,carvel,reeses soft serve kids,9,g,30,mg,75,g,16,g,4,g,5,g,0,g,0,g,13,g
+738,carvel,reeses soft serve large,42,g,135,mg,330,g,73,g,17,g,23,g,0,g,1,g,60,g
+739,carvel,reeses soft serve medium,35,g,110,mg,280,g,60,g,14,g,19,g,0,g,1,g,50,g
+740,carvel,reeses soft serve small,27,g,85,mg,220,g,47,g,11,g,15,g,0,g,1,g,39,g
+741,carvel,soft serve add ons cake cone,0,g,0,mg,15,g,10,g,0,g,0,g,0,g,0,g,3,g
+742,carvel,soft serve add ons sugar cone,0,g,0,mg,5,g,3,g,0,g,0,g,0,g,0,g,0,g
+743,carvel,soft serve add ons waffle cone or bowl,0.5,g,0,mg,35,g,19,g,1,g,0,g,0,g,0,g,5,g
+744,carvel,soft serve add ons waffle cone or bowl dipped,6,g,0,mg,45,g,27,g,1,g,1.5,g,0,g,0,g,11,g
+745,carvel,strawberry carvelite soft serve junior,4,g,25,mg,170,g,32,g,7,g,2.5,g,0,g,4,g,21,g
+746,carvel,strawberry carvelite soft serve kids,2,g,15,mg,90,g,18,g,4,g,1.5,g,0,g,2,g,12,g
+747,carvel,strawberry carvelite soft serve large,10,g,70,mg,420,g,82,g,17,g,7,g,0,g,10,g,55,g
+748,carvel,strawberry carvelite soft serve medium,8,g,55,mg,350,g,68,g,14,g,6,g,0,g,8,g,45,g
+749,carvel,strawberry carvelite soft serve small,7,g,45,mg,280,g,54,g,11,g,4.5,g,0,g,7,g,36,g
+750,carvel,strawberry scooped junior,11,g,45,mg,115,g,34,g,5,g,7,g,0,g,0,g,29,g
+751,carvel,strawberry scooped kids,6,g,25,mg,65,g,19,g,3,g,4,g,0,g,0,g,16,g
+752,carvel,strawberry scooped large,28,g,115,mg,300,g,86,g,12,g,18,g,0,g,0,g,74,g
+753,carvel,strawberry scooped medium,23,g,95,mg,250,g,71,g,10,g,15,g,0,g,0,g,61,g
+754,carvel,strawberry scooped small,18,g,75,mg,190,g,56,g,8,g,12,g,0,g,0,g,48,g
+755,carvel,strawberry shake 16 oz,27,g,110,mg,280,g,73,g,11,g,18,g,0,g,1,g,61,g
+756,carvel,strawberry shake 24 oz,40,g,165,mg,420,g,109,g,17,g,27,g,0,g,2,g,92,g
+757,carvel,strawberry shake 32 oz,53,g,220,mg,560,g,145,g,23,g,36,g,0,g,2,g,123,g
+758,carvel,strawberry shortcake sundae dasher 12 oz,28,g,130,mg,290,g,90,g,10,g,18,g,0,g,2,g,72,g
+759,carvel,strawberry shortcake sundae dasher 16 oz,37,g,175,mg,390,g,125,g,14,g,23,g,0,g,4,g,100,g
+760,carvel,strawberry shortcake sundae dasher 24 oz,49,g,225,mg,520,g,150,g,19,g,31,g,0,g,4,g,121,g
+761,carvel,strawberry soft serve junior,12,g,50,mg,125,g,31,g,5,g,8,g,0,g,0,g,27,g
+762,carvel,strawberry soft serve kids,7,g,30,mg,70,g,17,g,3,g,4.5,g,0,g,0,g,15,g
+763,carvel,strawberry soft serve large,31,g,125,mg,320,g,80,g,13,g,20,g,0,g,0,g,68,g
+764,carvel,strawberry soft serve medium,25,g,105,mg,270,g,66,g,11,g,17,g,0,g,0,g,56,g
+765,carvel,strawberry soft serve small,20,g,85,mg,210,g,52,g,8,g,13,g,0,g,0,g,44,g
+766,carvel,strawberry sundae large,37,g,150,mg,360,g,91,g,15,g,25,g,0,g,1,g,77,g
+767,carvel,strawberry sundae medium,31,g,125,mg,300,g,76,g,12,g,21,g,0,g,1,g,64,g
+768,carvel,strawberry sundae small,26,g,100,mg,240,g,61,g,10,g,17,g,0,g,1,g,52,g
+769,carvel,twist soft serve junior,13,g,50,mg,140,g,28,g,6,g,8,g,0,g,1,g,25,g
+770,carvel,twist soft serve kids,7,g,30,mg,75,g,16,g,3,g,4.5,g,0,g,0,g,14,g
+771,carvel,twist soft serve large,33,g,135,mg,350,g,72,g,14,g,22,g,0.5,g,2,g,63,g
+772,carvel,twist soft serve medium,27,g,110,mg,290,g,60,g,12,g,18,g,0,g,1,g,52,g
+773,carvel,twist soft serve small,22,g,85,mg,230,g,47,g,9,g,14,g,0,g,1,g,41,g
+774,carvel,vanilla carvelite soft serve junior,4.5,g,30,mg,180,g,28,g,7,g,3,g,0,g,4,g,18,g
+775,carvel,vanilla carvelite soft serve kids,2.5,g,15,mg,100,g,15,g,4,g,1.5,g,0,g,2,g,10,g
+776,carvel,vanilla carvelite soft serve large,11,g,75,mg,450,g,71,g,19,g,7,g,0,g,11,g,45,g
+777,carvel,vanilla carvelite soft serve medium,9,g,60,mg,370,g,59,g,15,g,6,g,0,g,9,g,37,g
+778,carvel,vanilla carvelite soft serve small,7,g,50,mg,290,g,46,g,12,g,5,g,0,g,7,g,29,g
+779,carvel,vanilla fudge swirl scooped junior,14,g,45,mg,160,g,35,g,5,g,10,g,0,g,0,g,30,g
+780,carvel,vanilla fudge swirl scooped kids,8,g,25,mg,90,g,20,g,3,g,6,g,0,g,0,g,17,g
+781,carvel,vanilla fudge swirl scooped large,37,g,115,mg,420,g,91,g,13,g,26,g,0,g,0,g,77,g
+782,carvel,vanilla fudge swirl scooped medium,31,g,95,mg,350,g,75,g,11,g,21,g,0,g,0,g,64,g
+783,carvel,vanilla fudge swirl scooped small,24,g,75,mg,270,g,59,g,8,g,17,g,0,g,0,g,50,g
+784,carvel,vanilla no sugar added scooped junior,4,g,20,mg,110,g,33,g,7,g,2.5,g,0,g,0,g,9,g
+785,carvel,vanilla no sugar added scooped kids,2,g,10,mg,60,g,18,g,4,g,1.5,g,0,g,0,g,5,g
+786,carvel,vanilla no sugar added scooped large,10,g,50,mg,280,g,83,g,17,g,7,g,0,g,0,g,23,g
+787,carvel,vanilla no sugar added scooped medium,8,g,40,mg,230,g,69,g,14,g,5,g,0,g,0,g,19,g
+788,carvel,vanilla no sugar added scooped small,7,g,35,mg,180,g,54,g,11,g,4.5,g,0,g,0,g,15,g
+789,carvel,vanilla scooped junior,13,g,55,mg,140,g,29,g,6,g,9,g,0,g,0,g,24,g
+790,carvel,vanilla scooped kids,7,g,30,mg,75,g,16,g,3,g,5,g,0,g,0,g,13,g
+791,carvel,vanilla scooped large,34,g,140,mg,350,g,73,g,14,g,23,g,0,g,0,g,62,g
+792,carvel,vanilla scooped medium,28,g,115,mg,290,g,61,g,12,g,19,g,0,g,0,g,51,g
+793,carvel,vanilla scooped small,22,g,90,mg,230,g,48,g,9,g,15,g,0,g,0,g,40,g
+794,carvel,vanilla shake 16 oz,27,g,110,mg,290,g,89,g,11,g,18,g,0,g,0,g,79,g
+795,carvel,vanilla shake 24 oz,40,g,165,mg,430,g,133,g,17,g,27,g,0,g,0,g,119,g
+796,carvel,vanilla shake 32 oz,53,g,220,mg,570,g,178,g,22,g,36,g,0,g,0,g,159,g
+797,carvel,vanilla soft serve junior,15,g,75,mg,130,g,28,g,4,g,10,g,0,g,0,g,24,g
+798,carvel,vanilla soft serve kids,9,g,45,mg,70,g,16,g,2,g,6,g,0,g,0,g,13,g
+799,carvel,vanilla soft serve large,39,g,195,mg,330,g,72,g,10,g,26,g,0,g,0,g,62,g
+800,carvel,vanilla soft serve medium,32,g,160,mg,270,g,59,g,8,g,22,g,0,g,0,g,51,g
+801,carvel,vanilla soft serve small,26,g,130,mg,210,g,47,g,6,g,17,g,0,g,0,g,40,g
+802,caseys general store,turkey and cheese pinwheel wrap,4.5,g,14,mg,247,g,9,g,6,g,1.5,g,0,g,0.5,g,1,g
+803,caseys general store,ham and cheese pinwheel wrap,4.5,g,14,mg,339,g,9.5,g,5.5,g,1.5,g,0,g,0.5,g,1,g
+804,caseys general store,chicken tender wrap,24,g,28,mg,515,g,25.5,g,7,g,5.5,g,0,g,1.5,g,5,g
+805,caseys general store,cheese breadsticks,40.5,g,45,mg,1530,g,90,g,31.5,g,11.5,g,0,g,4.5,g,4.5,g
+806,caseys general store,chicken tenders,10.5,g,70,mg,700,g,24.5,g,35,g,0,g,0,g,0,g,0,g
+807,caseys general store,popcorn chicken,14,g,80,mg,1568,g,39.5,g,30,g,3,g,0,g,2,g,0,g
+808,caseys general store,buffalo wings,4,g,28,mg,140,g,0.5,g,5,g,1,g,0,g,0,g,0,g
+809,caseys general store,caseys chow,15,g,0,mg,471,g,107.1,g,4.3,g,0,g,0,g,0.5,g,0,g
+810,caseys general store,pizza bites,23.8,g,22,mg,1170,g,52,g,17.3,g,0,g,0,g,2.2,g,0,g
+811,caseys general store,frosted pretzels,27,g,0,mg,675,g,95.5,g,9,g,0,g,0,g,0,g,0,g
+812,caseys general store,glazed donut without icing,13,g,0,mg,330,g,31,g,5,g,6,g,0,g,1,g,3,g
+813,caseys general store,chocolate cake donut without icing,14,g,20,mg,290,g,23,g,3,g,6,g,0,g,1,g,9,g
+814,caseys general store,chocolate chunk cookie,16,g,20,mg,200,g,42,g,3,g,9,g,0,g,2,g,23,g
+815,caseys general store,sugar cookie,13,g,5,mg,180,g,33,g,2,g,6,g,0,g,1,g,17,g
+816,caseys general store,blueberry muffin,30,g,90,mg,540,g,75,g,6,g,6,g,0,g,0,g,36,g
+817,caseys general store,fried cinnamon bun donut without icing,15,g,0,mg,320,g,30,g,5,g,7,g,0,g,1,g,3,g
+818,caseys general store,apple fritter without icing,20,g,1,mg,352,g,41,g,6,g,10,g,0,g,2,g,8,g
+819,caseys general store,long john,13,g,0,mg,330,g,36,g,5,g,6,g,0,g,1,g,9,g
+820,caseys general store,brownie with icing,16,g,0,mg,270,g,63,g,3,g,0,g,0,g,2,g,0,g
+821,caseys general store,raspberry flip without icing,17,g,5,mg,290,g,46,g,5,g,8,g,0,g,1,g,15,g
+822,caseys general store,cinnamon roll without icing,6,g,5,mg,290,g,57,g,7,g,1.5,g,0,g,2,g,15,g
+823,caseys general store,blueberry fritter without icing,22,g,1,mg,387,g,41.5,g,6.5,g,11,g,0,g,1.5,g,5,g
+824,caseys general store,blueberry cake donut without icing,22,g,15,mg,410,g,31,g,3,g,10,g,0,g,1,g,12,g
+825,caseys general store,raspberry bismark donut without icing,10,g,0,mg,290,g,38,g,4,g,4.5,g,0,g,1,g,13,g
+826,caseys general store,maple pecan danish without icing,24,g,5,mg,270,g,43,g,4,g,4,g,5,g,1,g,16,g
+827,caseys general store,long john donut without icing,13,g,0,mg,330,g,36,g,5,g,6,g,0,g,1,g,9,g
+828,caseys general store,caramel chocolate pecan cookie,17,g,10,mg,300,g,42,g,3,g,7,g,0,g,1,g,24,g
+829,caseys general store,baker boy cinnamon roll without icing,4,g,15,mg,300,g,35,g,6,g,1.5,g,0,g,2,g,9,g
+830,caseys general store,white cake donut without icing,3,g,15,mg,500,g,38.5,g,5,g,0.5,g,0,g,1,g,14,g
+831,caseys general store,caramel roll,12,g,45,mg,280,g,56,g,6,g,6,g,0,g,2,g,31,g
+832,caseys general store,chocolate chip muffin,30,g,90,mg,540,g,81,g,9,g,7.5,g,0,g,3,g,45,g
+833,caseys general store,monster cookie,13,g,5,mg,400,g,40,g,5,g,4.5,g,0,g,3,g,27,g
+834,caseys general store,creme filled donut without icing,14,g,0,mg,270,g,35,g,4,g,7,g,0,g,1,g,12,g
+835,caseys general store,snickerdoodle cookie,13,g,5,mg,180,g,41,g,2,g,6,g,0,g,1,g,25,g
+836,caseys general store,pinwheel donut without icing,13,g,40,mg,140,g,10,g,2,g,6,g,0,g,0,g,0,g
+837,caseys general store,apple cheese turnover,18,g,5,mg,380,g,48,g,6,g,0,g,0,g,1,g,0,g
+838,caseys general store,pinwheel,13,g,40,mg,160,g,9,g,2,g,6,g,0,g,0,g,0,g
+839,caseys general store,cherry cake donut without icing,22,g,15,mg,40,g,31,g,3,g,10,g,0,g,1,g,12,g
+840,caseys general store,lemon poppy seed muffin,36,g,105,mg,600,g,78,g,9,g,6,g,0,g,0,g,39,g
+841,caseys general store,pull a part donut without icing,10,g,0,mg,230,g,22,g,4,g,4.5,g,0,g,1,g,2,g
+842,caseys general store,double dutch muffin,36,g,90,mg,630,g,75,g,9,g,7.5,g,0,g,3,g,45,g
+843,caseys general store,cinnamon muffin,28,g,80,mg,510,g,87,g,6,g,7,g,0,g,0,g,51,g
+844,caseys general store,pumpkin cake donut without icing,22,g,10,mg,420,g,31,g,3,g,10,g,0,g,1,g,11,g
+845,caseys general store,pull a part,10,g,0,mg,230,g,22,g,4,g,4.5,g,0,g,1,g,2,g
+846,caseys general store,french toast twist donut without icing,14,g,1,mg,305,g,27,g,4,g,6.5,g,0,g,1,g,3.5,g
+847,caseys general store,sandwich cookie,38.5,g,17,mg,316,g,88,g,5.5,g,24.5,g,0,g,2,g,55.5,g
+848,caseys general store,strawberry cheese turn over without icing,14,g,5,mg,330,g,47,g,5,g,7,g,0,g,1,g,17,g
+849,caseys general store,sour creme donut without icing,24,g,10,mg,260,g,31,g,3,g,12,g,0,g,1,g,12,g
+850,caseys general store,ultimate peanut butter cookie,14,g,20,mg,240,g,41,g,6,g,7,g,0,g,1,g,24,g
+851,caseys general store,premium rings,13,g,0,mg,250,g,24,g,4,g,0,g,0,g,1,g,0,g
+852,caseys general store,pumpkin muffin,30,g,90,mg,540,g,72,g,6,g,6,g,0,g,3,g,36,g
+853,caseys general store,double fudge cookie,13,g,10,mg,260,g,42,g,4,g,7,g,0,g,2,g,27,g
+854,caseys general store,french vanilla iced coffee,8,g,30,mg,500,g,54,g,8,g,0,g,0,g,0,g,0,g
+855,caseys general store,french vanilla cappuccino,4.5,g,0,mg,170,g,30,g,1,g,4.5,g,0,g,0,g,21,g
+856,caseys general store,mocha iced coffee,4,g,15,mg,260,g,27,g,4,g,2.5,g,0,g,0,g,27,g
+857,caseys general store,fat free french vanilla cappuccino,0,g,0,mg,190,g,33,g,2,g,0,g,0,g,0,g,24,g
+858,caseys general store,english toffee cappuccino,5,g,0,mg,135,g,29,g,2,g,4.5,g,0,g,0,g,21,g
+859,caseys general store,mocha max,7,g,0,mg,240,g,44,g,2,g,7,g,0,g,1,g,33,g
+860,caseys general store,cocoa supreme,3,g,0,mg,250,g,36,g,4,g,2.5,g,0,g,1,g,31,g
+861,caseys general store,vanilla iced coffee,4,g,15,mg,250,g,27,g,4,g,2.5,g,0,g,0,g,26,g
+862,caseys general store,medium sausage breakfast pizza,19,g,98,mg,935,g,47.5,g,19.5,g,9,g,0.5,g,1,g,4,g
+863,caseys general store,large bacon breakfast pizza,15.5,g,74,mg,729,g,33,g,16,g,7,g,0.5,g,1,g,3,g
+864,caseys general store,sausage egg and cheese croissant,33,g,155,mg,720,g,29,g,14.5,g,12,g,0,g,1,g,5,g
+865,caseys general store,biscuits and gravy,24,g,27,mg,1330,g,39.5,g,9.5,g,9.5,g,0,g,1,g,4,g
+866,caseys general store,breakfast burrito,16,g,103,mg,883,g,35,g,13.5,g,6,g,0,g,1.5,g,0.5,g
+867,caseys general store,breakfast bowl with sausage,56,g,391,mg,2136,g,28.5,g,31,g,17,g,0,g,3.5,g,1.5,g
+868,caseys general store,large sausage breakfast pizza,14.5,g,71,mg,700,g,33,g,14.5,g,7,g,0.5,g,1,g,3,g
+869,caseys general store,sausage egg and cheese biscuit,32,g,155,mg,1420,g,38,g,17,g,14,g,0,g,1,g,5,g
+870,caseys general store,bacon egg and cheese croissant,23,g,143,mg,793,g,29,g,14,g,8.5,g,0,g,1,g,5,g
+871,caseys general store,hash browns,7,g,0,mg,270,g,16,g,2,g,2,g,0,g,2,g,1,g
+872,caseys general store,medium vegetable breakfast pizza,15.5,g,88,mg,797,g,48,g,17.5,g,7.5,g,0.5,g,1.5,g,4.5,g
+873,caseys general store,medium bacon breakfast pizza,21,g,105,mg,1023,g,47.5,g,22.5,g,9.5,g,0.5,g,1,g,4.5,g
+874,caseys general store,ham egg and cheese croissant,20,g,136,mg,632,g,29,g,12.5,g,7,g,0,g,1,g,5.5,g
+875,caseys general store,breakfast bowl with bacon,56,g,393,mg,2162,g,28,g,37,g,17,g,0,g,3.5,g,2,g
+876,caseys general store,small bacon breakfast pizza,14,g,70,mg,657,g,29.5,g,15,g,6.5,g,0.5,g,1,g,3,g
+877,caseys general store,sausage flatbread pizza,11.5,g,54,mg,438,g,9,g,9,g,5.5,g,0,g,0.5,g,0.5,g
+878,caseys general store,egg white and chicken sausage sandwich thin,10,g,55,mg,680,g,19,g,19.5,g,3.5,g,0,g,4,g,2,g
+879,caseys general store,bacon flatbread breakfast pizza,12,g,55,mg,460,g,9,g,10,g,5.5,g,0.5,g,0.5,g,0.5,g
+880,caseys general store,small sausage breakfast pizza,12.5,g,65,mg,587,g,29,g,12.5,g,6,g,0.5,g,1,g,2.5,g
+881,caseys general store,small vegetable breakfast pizza,10,g,59,mg,495,g,29.5,g,11,g,5,g,0.5,g,1,g,2.5,g
+882,caseys general store,large vegetable breakfast pizza,11.5,g,63,mg,584,g,33.5,g,12.5,g,6,g,0.5,g,1,g,3,g
+883,caseys general store,vegetable flatbread breakfast pizza,9,g,47,mg,351,g,9.5,g,7.5,g,4.5,g,0,g,0.5,g,0.5,g
+884,caseys general store,white icing,0,g,0,mg,5,g,11.5,g,0,g,0,g,0,g,0,g,11,g
+885,caseys general store,chocolate icing,0,g,0,mg,14,g,10,g,0,g,0,g,0,g,0,g,10,g
+886,caseys general store,caramel icing,1,g,0,mg,5,g,11,g,0,g,0,g,0,g,0,g,10.5,g
+887,caseys general store,boneless buffalo wings,2.5,g,10,mg,224,g,2,g,3.5,g,0.5,g,0,g,0,g,0,g
+888,caseys general store,bacon and cheese wedge fries,23.5,g,17,mg,1387,g,48.5,g,10,g,6.5,g,0,g,4.5,g,2.5,g
+889,caseys general store,wedge fries,14,g,0,mg,840,g,42,g,4.5,g,3.5,g,0,g,4.5,g,2.5,g
+890,caseys general store,medium pepperoni pizza,10.5,g,29,mg,664,g,47.9,g,16.2,g,0,g,0,g,2.1,g,0,g
+891,caseys general store,medium cheese pizza,12.3,g,29,mg,516,g,48.8,g,14.5,g,0,g,0,g,2.1,g,0,g
+892,caseys general store,large taco pizza,17,g,44,mg,878,g,42.5,g,16,g,7.5,g,0.5,g,2.5,g,4,g
+893,caseys general store,large meat galore pizza,13.5,g,49,mg,831,g,33,g,15.5,g,7.5,g,0.5,g,1,g,3.5,g
+894,caseys general store,medium supreme pizza,19.5,g,67,mg,1227,g,48.5,g,22,g,10.5,g,0.5,g,2,g,5,g
+895,caseys general store,supreme flatbread pizza,10.5,g,36,mg,543,g,9.5,g,9.5,g,6,g,0.5,g,0.5,g,1,g
+896,caseys general store,medium taco pizza,21,g,59,mg,1167,g,56,g,21.5,g,9.5,g,0.5,g,3,g,5.5,g
+897,caseys general store,large chicken bacon ranch pizza,16,g,45,mg,680,g,33,g,15.5,g,6,g,0.5,g,1,g,3.5,g
+898,caseys general store,medium meat galore pizza,19.5,g,70,mg,1215,g,47.5,g,22.5,g,11,g,0.5,g,1.5,g,4.5,g
+899,caseys general store,large bacon cheeseburger pizza,17.5,g,51,mg,955,g,35.5,g,18.5,g,7.5,g,0.5,g,1,g,5.5,g
+900,caseys general store,medium beef pizza,14.7,g,40,mg,835,g,47.9,g,18.7,g,0,g,0,g,2.1,g,0,g
+901,caseys general store,medium pineapple pizza,11.1,g,35,mg,691,g,50.4,g,16.3,g,0,g,0,g,2.3,g,0,g
+902,caseys general store,medium canadian bacon pizza,11.1,g,35,mg,690,g,48.1,g,16.3,g,0,g,0,g,2.1,g,0,g
+903,caseys general store,medium vegetable pizza,11,g,30,mg,673,g,49.5,g,14,g,5,g,0.5,g,2.5,g,5,g
+904,caseys general store,small taco pizza,13,g,38,mg,712,g,33.5,g,13.5,g,6,g,0.5,g,1.5,g,3.5,g
+905,caseys general store,large supreme pizza,13.5,g,47,mg,839,g,34,g,15.5,g,7.5,g,0.5,g,1.5,g,3.5,g
+906,caseys general store,meat galore flatbread pizza,11,g,37,mg,537,g,9,g,10,g,6,g,0.5,g,0.5,g,1,g
+907,caseys general store,medium bbq beef pizza,15,g,38,mg,726,g,52,g,16.5,g,7,g,0,g,1.5,g,9,g
+908,caseys general store,vegetable flatbread pizza,6.5,g,18,mg,278,g,10,g,6,g,3.5,g,0,g,1,g,1,g
+909,caseys general store,small supreme pizza,13,g,46,mg,811,g,30,g,14.5,g,7.5,g,0.5,g,1.5,g,3,g
+910,caseys general store,chicken bacon ranch flatbread pizza,12.5,g,34,mg,424,g,9,g,9.5,g,4.5,g,0,g,0.5,g,1,g
+911,caseys general store,large vegetable pizza,8.5,g,23,mg,486,g,34,g,10.5,g,4,g,0.5,g,1.5,g,3.5,g
+912,caseys general store,taco flatbread pizza,13.5,g,33,mg,572,g,16,g,10,g,6,g,0.5,g,1.5,g,1.5,g
+913,caseys general store,medium ham pizza,11.1,g,37,mg,718,g,48.4,g,17,g,0,g,0,g,2.1,g,0,g
+914,caseys general store,medium chicken bacon ranch pizza,24,g,61,mg,963,g,47.5,g,21,g,8,g,0.5,g,1,g,5,g
+915,caseys general store,medium mild sausage pizza,16.8,g,42,mg,768,g,48.3,g,17.5,g,0,g,0,g,2.1,g,0,g
+916,caseys general store,buffalo chicken flatbread pizza,9,g,27,mg,455,g,8.5,g,8,g,4,g,0,g,0.5,g,0.5,g
+917,caseys general store,small meat galore pizza,13,g,48,mg,803,g,29,g,15,g,7.5,g,0.5,g,1,g,3,g
+918,caseys general store,small bacon cheeseburger pizza,14,g,44,mg,862,g,31.5,g,14.5,g,6.5,g,0.5,g,1,g,4.5,g
+919,caseys general store,bbq beef flatbread pizza,9,g,22,mg,309,g,11,g,7.2,g,4.5,g,0,g,0.5,g,3,g
+920,caseys general store,medium hot sausage pizza,16.8,g,42,mg,768,g,48.3,g,17.5,g,0,g,0,g,2.1,g,0,g
+921,caseys general store,large buffalo chicken pizza,11,g,36,mg,722,g,32.5,g,13,g,4.5,g,0.5,g,1,g,3,g
+922,caseys general store,medium bacon cheeseburger pizza,21,g,65,mg,1321,g,51,g,22,g,9.5,g,0.5,g,1.5,g,7.5,g
+923,caseys general store,small vegetable pizza,7.5,g,21,mg,442,g,30.5,g,9.5,g,3.5,g,0,g,1.5,g,3,g
+924,caseys general store,small chicken bacon ranch pizza,16.5,g,41,mg,621,g,29.5,g,13.5,g,5.5,g,0,g,1,g,3.5,g
+925,caseys general store,bacon cheeseburger flatbread pizza,13.5,g,38,mg,630,g,10.5,g,12,g,6,g,0,g,0.5,g,2.5,g
+926,caseys general store,small bbq beef pizza,10,g,26,mg,458,g,32,g,11,g,5,g,0,g,1,g,5,g
+927,caseys general store,medium macaroni and cheese pizza,18.5,g,48,mg,930,g,58,g,21,g,0,g,0,g,2.1,g,0,g
+928,caseys general store,mini pizza bites,24,g,22,mg,1019,g,52,g,15,g,6.5,g,0,g,2,g,4.5,g
+929,caseys general store,large bbq beef pizza,11.3,g,30,mg,527,g,36.5,g,12,g,5.5,g,0,g,1,g,6,g
+930,caseys general store,small buffalo chicken pizza,10.5,g,33,mg,581,g,29,g,12,g,4.5,g,0,g,1,g,3,g
+931,caseys general store,medium buffalo chicken pizza,13.5,g,45,mg,897,g,47,g,17.5,g,6,g,0.5,g,1.5,g,4.5,g
+932,caseys general store,breaded pork sandwich,13,g,65,mg,770,g,86,g,34,g,3,g,0,g,4,g,5,g
+933,caseys general store,cheeseburger,36,g,95,mg,870,g,28,g,28,g,14,g,1,g,1,g,3,g
+934,caseys general store,turkey and cheese sub sandwich,14.5,g,72,mg,1177,g,45.5,g,35,g,7.5,g,0,g,3,g,3.5,g
+935,caseys general store,chicken salad croissant sandwich,39,g,46,mg,564,g,46.5,g,16,g,9.5,g,0.5,g,3,g,9.5,g
+936,caseys general store,italian sub sandwich,24,g,74,mg,1557,g,46.5,g,29,g,11,g,0,g,3,g,4,g
+937,caseys general store,breaded chicken sandwich,8,g,55,mg,780,g,88,g,35,g,1.5,g,0,g,4,g,5,g
+938,caseys general store,harvest grain turkey sandwich,16.5,g,71,mg,1077,g,37.5,g,36,g,7.5,g,0,g,3,g,5.5,g
+939,caseys general store,italian pinwheel wrap,6,g,14,mg,310,g,9,g,5,g,2.5,g,0,g,0.5,g,1,g
+940,caseys general store,tuna salad croissant,27,g,23,mg,628,g,50,g,11.5,g,8,g,0.5,g,3,g,11.5,g
+941,caseys general store,bacon cheeseburger,41.5,g,113,mg,1223,g,28.5,g,32.5,g,16,g,1,g,1,g,3,g
+942,caseys general store,hot sausage sandwich,34.5,g,88,mg,1391,g,42,g,28,g,15,g,0.5,g,3.5,g,7,g
+943,caseys general store,hamburger,31.5,g,85,mg,690,g,28,g,25,g,11.5,g,1,g,1,g,3,g
+944,caseys general store,harvest grain ham sandwich,16.5,g,72,mg,1627,g,39,g,34,g,7.5,g,0,g,3,g,7.5,g
+945,caseys general store,hot ham and cheese sandwich,24.5,g,65,mg,1323,g,35.5,g,23,g,11,g,0.5,g,1,g,4,g
+946,caseys general store,turkey and cheese sub sandwich small,16.5,g,72,mg,1077,g,34.5,g,33,g,8,g,0,g,1,g,4.5,g
+947,caseys general store,ham and cheese sub small,16.5,g,72,mg,1627,g,36.5,g,31,g,8,g,0,g,1,g,6.5,g
+948,caseys general store,bbq beef sandwich,40,g,98,mg,1422,g,52.5,g,33.5,g,19,g,0,g,1.5,g,16,g
+949,caseys general store,egg salad croissant sandwich,32.5,g,183,mg,673,g,48,g,12.5,g,9,g,0.5,g,3,g,10.5,g
+950,caseys general store,ham and cheese sub sandwich,14.5,g,72,mg,1727,g,47.5,g,33,g,7.5,g,0,g,3,g,5.5,g
+951,caseys general store,italian sub sandwich small,26,g,74,mg,1457,g,35.5,g,27,g,11.5,g,0,g,1,g,5,g
+952,caseys general store,mild sausage sandwich,34.5,g,88,mg,1404,g,42,g,28.5,g,15,g,0.5,g,3.5,g,7,g
+953,caseys general store,cheese sauce cup,4.5,g,3,mg,352,g,6.5,g,0.5,g,1.5,g,0,g,0,g,0,g
+954,caseys general store,pizza sauce cup,0,g,0,mg,100,g,6.5,g,1.5,g,0,g,0,g,2,g,3.5,g
+955,caseys general store,potato cheese bites,24,g,36,mg,1080,g,43,g,12,g,6,g,0,g,7,g,2.5,g
+956,caseys general store,potato wedges,14,g,23,mg,887,g,44.3,g,4.7,g,0,g,0,g,4.7,g,0,g
+957,caseys general store,almond amaretto cappuccino,2.5,g,0,mg,120,g,21,g,1,g,2.5,g,0,g,0,g,15,g
+958,caseys general store,american cheese,7,g,15,mg,270,g,1,g,5,g,4,g,0,g,0,g,0,g
+959,caseys general store,apple fritter,20,g,0,mg,350,g,41,g,6,g,10,g,0,g,2,g,8,g
+960,caseys general store,apple turnover,21,g,0,mg,270,g,41,g,5,g,10,g,0,g,1,g,16,g
+961,caseys general store,avocado spread,4,g,0,mg,0,g,3,g,1,g,1,g,0,g,2,g,0,g
+962,caseys general store,bacon breakfast pizza with sausage gravy flatbread,12,g,55,mg,450,g,9,g,10,g,6,g,0,g,0,g,1,g
+963,caseys general store,bacon breakfast pizza with sausage gravy gluten free,16,g,70,mg,610,g,15,g,13,g,7,g,0,g,1,g,3,g
+964,caseys general store,bacon breakfast pizza with sausage gravy large,16,g,75,mg,710,g,33,g,16,g,7,g,0,g,1,g,3,g
+965,caseys general store,bacon breakfast pizza with sausage gravy medium,22,g,105,mg,1000,g,47,g,23,g,10,g,0,g,1,g,4,g
+966,caseys general store,bacon breakfast pizza with sausage gravy small,14,g,70,mg,650,g,29,g,15,g,7,g,0,g,1,g,3,g
+967,caseys general store,bacon breakfast pizza flatbread,12,g,55,mg,460,g,9,g,10,g,6,g,0,g,0,g,1,g
+968,caseys general store,bacon breakfast pizza gluten free,15,g,70,mg,620,g,16,g,13,g,6,g,0,g,1,g,3,g
+969,caseys general store,bacon breakfast pizza large,15,g,75,mg,730,g,33,g,16,g,7,g,0,g,1,g,3,g
+970,caseys general store,bacon breakfast pizza medium,21,g,105,mg,1020,g,48,g,23,g,10,g,0,g,1,g,4,g
+971,caseys general store,bacon breakfast pizza small,14,g,70,mg,660,g,29,g,15,g,6,g,0,g,1,g,3,g
+972,caseys general store,bacon cheeseburger pizza flatbread,12,g,35,mg,580,g,11,g,10,g,6,g,0,g,0,g,2,g
+973,caseys general store,bacon cheeseburger pizza gluten free,16,g,45,mg,770,g,18,g,12,g,7,g,0,g,1,g,5,g
+974,caseys general store,bacon cheeseburger pizza large,16,g,50,mg,890,g,36,g,16,g,7,g,0.5,g,1,g,5,g
+975,caseys general store,bacon cheeseburger pizza medium,22,g,65,mg,1240,g,51,g,22,g,10,g,0.5,g,1,g,8,g
+976,caseys general store,bacon cheeseburger pizza small,15,g,45,mg,810,g,32,g,15,g,7,g,0,g,1,g,5,g
+977,caseys general store,bacon egg cheese croissant,22,g,140,mg,760,g,29,g,13,g,9,g,0,g,1,g,5,g
+978,caseys general store,balsamic dressing,17,g,0,mg,330,g,3,g,0,g,2.5,g,0,g,0,g,3,g
+979,caseys general store,bbq sauce,0,g,0,mg,290,g,17,g,0,g,0,g,0,g,0,g,16,g
+980,caseys general store,biscuits and gravy,29,g,25,mg,1220,g,41,g,9,g,13,g,0,g,1,g,3,g
+981,caseys general store,black raspberry sweet tea,0,g,0,mg,0,g,22,g,0,g,0,g,0,g,0,g,22,g
+982,caseys general store,blue cheese dressing,24,g,20,mg,310,g,2,g,1,g,4.5,g,0,g,0,g,2,g
+983,caseys general store,blue raspberry freeze,0,g,0,mg,15,g,15,g,0,g,0,g,0,g,0,g,15,g
+984,caseys general store,blueberry cake donut,22,g,15,mg,410,g,31,g,3,g,10,g,0,g,1,g,12,g
+985,caseys general store,blueberry cheese flip,12,g,5,mg,270,g,56,g,6,g,5,g,0,g,2,g,27,g
+986,caseys general store,blueberry fritter,22,g,0,mg,390,g,42,g,7,g,11,g,0,g,2,g,5,g
+987,caseys general store,boneless buffalo wings,2.5,g,10,mg,220,g,2,g,4,g,0.5,g,0,g,0,g,0,g
+988,caseys general store,breaded pork sandwich,11,g,95,mg,460,g,83,g,46,g,3,g,0,g,2,g,3,g
+989,caseys general store,breakfast bowl bacon,56,g,395,mg,2160,g,28,g,37,g,17,g,0,g,4,g,2,g
+990,caseys general store,breakfast bowl sausage,56,g,390,mg,2140,g,28,g,31,g,17,g,0,g,4,g,1,g
+991,caseys general store,breakfast burrito,31,g,180,mg,2150,g,68,g,26,g,14,g,0,g,4,g,5,g
+992,caseys general store,brisk unsweet tea,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+993,caseys general store,brownie bites,5,g,0,mg,100,g,22,g,1,g,2.5,g,0,g,1,g,15,g
+994,caseys general store,buffalo wings,4,g,30,mg,140,g,0,g,5,g,1,g,0,g,0,g,0,g
+995,caseys general store,canada dry,0,g,0,mg,35,g,24,g,0,g,0,g,0,g,0,g,24,g
+996,caseys general store,caramel chocolate pecan cookie,17,g,10,mg,300,g,42,g,3,g,7,g,0,g,1,g,24,g
+997,caseys general store,caramel icing,1,g,0,mg,0,g,11,g,0,g,0,g,0,g,0,g,11,g
+998,caseys general store,caramel syrup,0,g,0,mg,0,g,19,g,0,g,0,g,0,g,18,g,0,g
+999,caseys general store,caseys chow,7,g,5,mg,110,g,15,g,1,g,3,g,0,g,1,g,9,g

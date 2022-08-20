@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,shake shack,doughnut look swell concrete,23,g,115,mg,330,g,49,g,9,g,13,g,0,g,0,g,40,g
+1,shake shack,doughnut look swell double concrete,47,g,230,mg,660,g,99,g,18,g,26,g,0,g,0,g,81,g
+2,shake shack,doughnuts are forever concrete,19,g,110,mg,220,g,42,g,8,g,11,g,0,g,0,g,37,g
+3,shake shack,doughnuts are forever double concrete,37,g,225,mg,440,g,84,g,16,g,21,g,0.5,g,1,g,74,g
+4,shake shack,downtown butter brown concrete,20,g,110,mg,220,g,45,g,8,g,12,g,0,g,0,g,39,g
+5,shake shack,downtown butter brown double concrete,39,g,225,mg,440,g,90,g,16,g,24,g,0,g,0,g,77,g
+6,shake shack,dr pepper large,0,g,0,mg,90,g,59,g,0,g,0,g,0,g,0,g,58,g
+7,shake shack,dr pepper small,0,g,0,mg,60,g,40,g,0,g,0,g,0,g,0,g,38,g
+8,shake shack,dtla concrete,30,g,125,mg,150,g,50,g,8,g,19,g,0.5,g,0,g,41,g
+9,shake shack,dtla double concrete,61,g,250,mg,310,g,99,g,16,g,37,g,1.5,g,1,g,82,g
+10,shake shack,dulce de leche brownie zingermans concrete mix in,3.5,g,10,mg,75,g,7,g,1,g,0.5,g,0.5,g,0,g,5,g
+11,shake shack,dust devil concrete,22,g,125,mg,390,g,599,g,8,g,13,g,0,g,0,g,51,g
+12,shake shack,dust devil double concrete,44,g,255,mg,790,g,118,g,17,g,27,g,0,g,0,g,101,g
+13,shake shack,egg and cheese breakfast sandwich,23,g,225,mg,610,g,25,g,17,g,11,g,0.5,g,0,g,5,g
+14,shake shack,egg and cheese breakfast sandwich double egg,29,g,410,mg,700,g,25,g,23,g,13,g,0.5,g,0,g,5,g
+15,shake shack,elm city coffee break concrete,30,g,115,mg,340,g,68,g,10,g,14,g,0,g,0,g,51,g
+16,shake shack,elm city coffee break double concrete,59,g,235,mg,690,g,136,g,19,g,28,g,0,g,0,g,101,g
+17,shake shack,empire state concrete,30,g,125,mg,240,g,65,g,9,g,16,g,1,g,0,g,48,g
+18,shake shack,empire state double concrete,61,g,250,mg,470,g,131,g,18,g,31,g,1.5,g,1,g,97,g
+19,shake shack,even smore concrete,27,g,125,mg,210,g,66,g,8,g,15,g,0.5,g,0,g,52,g
+20,shake shack,even smore double concrete,55,g,255,mg,420,g,133,g,17,g,30,g,1.5,g,1,g,104,g
+21,shake shack,eye drive concrete,29,g,140,mg,470,g,63,g,8,g,18,g,0,g,0,g,59,g
+22,shake shack,eye drive double concrete,58,g,280,mg,950,g,125,g,16,g,36,g,0.5,g,1,g,117,g
+23,shake shack,falls fashion concrete,22,g,120,mg,390,g,50,g,8,g,13,g,0,g,0,g,44,g
+24,shake shack,falls fashion double concrete,44,g,240,mg,790,g,101,g,17,g,26,g,0,g,1,g,88,g
+25,shake shack,fanta grape large,0,g,0,mg,55,g,73,g,0,g,0,g,0,g,0,g,73,g
+26,shake shack,fanta grape small,0,g,0,mg,35,g,49,g,0,g,0,g,0,g,0,g,49,g
+27,shake shack,fanta orange large,0,g,0,mg,90,g,67,g,0,g,0,g,0,g,0,g,66,g
+28,shake shack,fanta orange small,0,g,0,mg,60,g,45,g,0,g,0,g,0,g,0,g,44,g
+29,shake shack,fidi fudge concrete,28,g,130,mg,180,g,52,g,9,g,17,g,0.5,g,1,g,44,g
+30,shake shack,fidi fudge double concrete,56,g,260,mg,350,g,104,g,17,g,34,g,1.5,g,2,g,86,g
+31,shake shack,fifty fifty large,0,g,0,mg,15,g,36,g,0,g,0,g,0,g,0,g,33,g
+32,shake shack,fifty fifty small,0,g,0,mg,10,g,22,g,0,g,0,g,0,g,0,g,20,g
+33,shake shack,fluffn foster concrete,22,g,130,mg,340,g,64,g,9,g,12,g,0,g,0,g,55,g
+34,shake shack,fluffn foster double concrete,44,g,260,mg,680,g,129,g,18,g,24,g,0,g,1,g,109,g
+35,shake shack,fly me to the shack concrete,35,g,130,mg,170,g,58,g,9,g,21,g,0.5,g,0,g,48,g
+36,shake shack,fly me to the shack double concrete,70,g,260,mg,340,g,117,g,18,g,43,g,1.5,g,0,g,96,g
+37,shake shack,french toast donut federal donuts concrete mix in,3.5,g,0,mg,75,g,7,g,1,g,1.5,g,0,g,1,g,3,g
+38,shake shack,fresh brewed iced tea large,0,g,0,mg,15,g,2,g,0,g,0,g,0,g,0,g,0,g
+39,shake shack,fresh brewed iced tea small,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+40,shake shack,fresh brewed sweetened iced tea large,0,g,0,mg,15,g,45,g,0,g,0,g,0,g,0,g,44,g
+41,shake shack,fresh brewed sweetened iced tea small,0,g,0,mg,10,g,28,g,0,g,0,g,0,g,0,g,27,g
+42,shake shack,frosted butter cake make my cake concrete mix in,2.5,g,10,mg,40,g,8,g,0,g,0,g,0,g,0,g,6,g
+43,shake shack,fudge sauce concrete mix in,3.5,g,5,mg,20,g,4,g,1,g,2,g,0,g,0,g,3,g
+44,shake shack,fudge eddaboutit concrete,30,g,125,mg,150,g,47,g,8,g,19,g,0.5,g,1,g,39,g
+45,shake shack,fudge eddaboutit double concrete,60,g,250,mg,310,g,95,g,16,g,37,g,1.5,g,1,g,79,g
+46,shake shack,garden dog,10,g,20,mg,1020,g,28,g,8,g,6,g,0.5,g,1,g,8,g
+47,shake shack,garden state concrete,21,g,125,mg,320,g,55,g,9,g,13,g,0,g,0,g,36,g
+48,shake shack,garden state double concrete,43,g,250,mg,650,g,110,g,18,g,25,g,0,g,0,g,72,g
+49,shake shack,ginger chocolate chip cookie dough sono baking company concrete mix in,3,g,10,mg,45,g,9,g,1,g,1,g,0,g,0,g,5,g
+50,shake shack,give my regards concrete,29,g,130,mg,420,g,60,g,9,g,18,g,0,g,0,g,54,g
+51,shake shack,give my regards double concrete,58,g,260,mg,830,g,118,g,18,g,36,g,0,g,0,g,108,g
+52,shake shack,glades donuts concrete,25,g,125,mg,400,g,52,g,8,g,15,g,0,g,0,g,47,g
+53,shake shack,glades donuts double concrete,51,g,255,mg,800,g,105,g,16,g,30,g,0,g,0,g,93,g
+54,shake shack,glazed dazed doughnut concrete,28,g,130,mg,490,g,61,g,9,g,16,g,0,g,0,g,52,g
+55,shake shack,glazed dazed doughnut double concrete,56,g,265,mg,990,g,121,g,17,g,33,g,0,g,0,g,104,g
+56,shake shack,glazed donut north lime donuts concrete mix in,3,g,0,mg,50,g,6,g,1,g,1,g,0,g,1,g,5,g
+57,shake shack,gluten free bun,3.5,g,0,mg,370,g,32,g,2,g,0,g,0,g,2,g,5,g
+58,shake shack,going yard concrete,26,g,125,mg,410,g,68,g,9,g,14,g,0,g,0,g,57,g
+59,shake shack,going yard double concrete,52,g,250,mg,830,g,135,g,19,g,29,g,0,g,0,g,114,g
+60,shake shack,golden state double,65,g,235,mg,2200,g,41,g,52,g,27,g,2,g,0,g,9,g
+61,shake shack,gooey butter cake park ave coffee concrete mix in,2.5,g,15,mg,30,g,8,g,1,g,1,g,0,g,1,g,6,g
+62,shake shack,gotham red can,0,g,0,mg,10,g,6,g,0,g,0,g,0,g,0,g,0,g
+63,shake shack,gotham rose can,0,g,0,mg,10,g,9,g,1,g,0,g,0,g,0,g,0,g
+64,shake shack,gotham white can,0,g,0,mg,10,g,5,g,0,g,0,g,0,g,0,g,0,g
+65,shake shack,graham crackers pollystyle concrete mix in,2,g,5,mg,50,g,8,g,1,g,1,g,0,g,0,g,4,g
+66,shake shack,graham crackers concrete mix in,2,g,0,mg,55,g,10,g,1,g,0,g,0,g,0,g,3,g
+67,shake shack,green chile cheddarshack double,58,g,200,mg,2550,g,33,g,59,g,26,g,1.5,g,1,g,11,g
+68,shake shack,green chile cheddarshack single,36,g,110,mg,1690,g,33,g,33,g,16,g,1,g,1,g,11,g
+69,shake shack,grilled cheese,22,g,55,mg,850,g,25,g,14,g,13,g,0.5,g,0,g,5,g
+70,shake shack,hazelnut brown butter streusel milk and cookies concrete mix in,5,g,5,mg,25,g,9,g,1,g,2,g,0,g,0,g,4,g
+71,shake shack,heights bites concrete,28,g,160,mg,570,g,72,g,9,g,14,g,0,g,0,g,64,g
+72,shake shack,heights bites double concrete,56,g,315,mg,1150,g,143,g,17,g,28,g,0,g,0,g,128,g
+73,shake shack,herb mayonnaise,10,g,10,mg,140,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+74,shake shack,hill of beans concrete,25,g,125,mg,350,g,60,g,10,g,15,g,0,g,1,g,52,g
+75,shake shack,hill of beans double concrete,51,g,245,mg,700,g,120,g,19,g,31,g,0,g,2,g,105,g
+76,shake shack,honest kids apple juice,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,9,g
+77,shake shack,honey mustard,30,g,20,mg,370,g,7,g,1,g,4.5,g,0,g,0,g,6,g
+78,shake shack,hopscotch roadie concrete,115,g,520,mg,1610,g,226,g,34,g,72,g,1,g,0,g,206,g
+79,shake shack,hopscotch concrete,29,g,130,mg,400,g,56,g,9,g,18,g,0,g,0,g,51,g
+80,shake shack,hopscotch double concrete,57,g,260,mg,810,g,113,g,17,g,36,g,0,g,0,g,103,g
+81,shake shack,hot chickn,31,g,115,mg,1220,g,38,g,33,g,9,g,0,g,1,g,8,g
+82,shake shack,hot dog,26,g,60,mg,800,g,25,g,16,g,12,g,0,g,0,g,6,g
+83,shake shack,invictus concrete,29,g,130,mg,300,g,55,g,8,g,18,g,0.5,g,0,g,45,g
+84,shake shack,invictus double concrete,58,g,255,mg,600,g,109,g,16,g,36,g,1.5,g,0,g,89,g
+85,shake shack,jitney concrete,26,g,140,mg,55,g,57,g,9,g,15,g,0,g,0,g,40,g
+86,shake shack,jitney double concrete,52,g,275,mg,840,g,114,g,18,g,30,g,0,g,0,g,79,g
+87,shake shack,just du it concrete,29,g,150,mg,470,g,68,g,9,g,16,g,0,g,0,g,58,g
+88,shake shack,just du it double concrete,59,g,295,mg,940,g,137,g,18,g,32,g,0,g,0,g,116,g
+89,shake shack,kierland campfire concrete,29,g,120,mg,190,g,62,g,9,g,16,g,0.5,g,0,g,48,g
+90,shake shack,kierland campfire double concrete,58,g,245,mg,390,g,124,g,17,g,32,g,1.5,g,1,g,95,g
+91,shake shack,kitchen sink cookie mindys hot chocolate concrete mix in,3,g,5,mg,45,g,8,g,1,g,1.5,g,0,g,0,g,5,g
+92,shake shack,lemon curd concrete mix in,1.5,g,20,mg,0,g,8,g,0,g,1,g,0,g,0,g,5,g
+93,shake shack,lemon grove concrete,20,g,130,mg,250,g,62,g,9,g,11,g,0,g,0,g,50,g
+94,shake shack,lemon grove double concrete,40,g,265,mg,510,g,123,g,17,g,22,g,0,g,1,g,101,g
+95,shake shack,lemon ricotta concrete mix in,1.5,g,5,mg,10,g,5,g,1,g,1,g,0,g,0,g,5,g
+96,shake shack,lettuce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+97,shake shack,lettuce wrap,0,g,0,mg,15,g,1,g,1,g,0,g,0,g,1,g,0,g
+98,shake shack,liberty shell concrete,19,g,120,mg,200,g,43,g,9,g,11,g,0,g,0,g,39,g
+99,shake shack,liberty shell double concrete,38,g,235,mg,410,g,86,g,18,g,23,g,0,g,0,g,79,g
+100,shake shack,link burger,51,g,155,mg,2000,g,29,g,37,g,20,g,1,g,2,g,6,g
+101,shake shack,link burger double,69,g,235,mg,3020,g,29,g,59,g,29,g,2,g,2,g,7,g
+102,shake shack,link burger triple,87,g,315,mg,4050,g,30,g,81,g,37,g,3,g,2,g,7,g
+103,shake shack,loaded chocolate cookies and cream shake,56,g,265,mg,450,g,126,g,17,g,32,g,1.5,g,0,g,108,g
+104,shake shack,lockhart link burger,60,g,165,mg,2050,g,27,g,39,g,24,g,1,g,2,g,5,g
+105,shake shack,lockhart link burger double,78,g,245,mg,3080,g,28,g,61,g,32,g,2,g,2,g,6,g
+106,shake shack,lockhart link burger triple,96,g,330,mg,4110,g,29,g,83,g,40,g,3,g,2,g,6,g
+107,shake shack,logan swirl concrete,27,g,130,mg,450,g,58,g,8,g,15,g,0,g,0,g,52,g
+108,shake shack,logan swirl double concrete,54,g,265,mg,900,g,117,g,17,g,31,g,0,g,0,g,103,g
+109,shake shack,lower west side concrete,28,g,120,mg,150,g,52,g,9,g,17,g,0.5,g,4,g,44,g
+110,shake shack,lower west side double concrete,56,g,245,mg,310,g,105,g,18,g,33,g,1.5,g,7,g,88,g
+111,shake shack,m street treat concrete,27,g,120,mg,260,g,64,g,10,g,16,g,0,g,0,g,53,g
+112,shake shack,m street treat double concrete,54,g,245,mg,530,g,129,g,20,g,33,g,0,g,1,g,106,g
+113,shake shack,macaron shells bakery lorraine concrete mix in,2.5,g,0,mg,10,g,8,g,1,g,3,g,0,g,0,g,6,g
+114,shake shack,macaron swoon concrete,20,g,135,mg,210,g,52,g,9,g,13,g,0,g,0,g,47,g
+115,shake shack,macaron swoon double concrete,40,g,270,mg,410,g,104,g,17,g,27,g,0,g,0,g,93,g
+116,shake shack,mallow monsoon double concrete,44,g,240,mg,410,g,105,g,16,g,26,g,0.5,g,1,g,89,g
+117,shake shack,malt,1,g,5,mg,70,g,19,g,2,g,0.5,g,0,g,0,g,16,g
+118,shake shack,malt caramel bon bon bon concrete mix in,4.5,g,5,mg,10,g,6,g,1,g,2.5,g,0,g,0,g,5,g
+119,shake shack,malt of america concrete,22,g,125,mg,390,g,58,g,8,g,13,g,0,g,0,g,50,g
+120,shake shack,malt of america double concrete,44,g,255,mg,790,g,117,g,17,g,27,g,0,g,0,g,100,g
+121,shake shack,malt whitman concrete,26,g,125,mg,300,g,61,g,10,g,15,g,0,g,0,g,42,g
+122,shake shack,malt whitman double concrete,51,g,250,mg,610,g,123,g,20,g,29,g,0,g,0,g,83,g
+123,shake shack,malted marshmallow sauce concrete mix in,0,g,0,mg,15,g,9,g,0,g,0,g,0,g,0,g,8,g
+124,shake shack,maple bacon donut astro donuts concrete mix in,2.5,g,15,mg,100,g,4,g,2,g,1,g,0,g,0,g,1,g
+125,shake shack,maple bacon and banana concrete,24,g,120,mg,430,g,48,g,11,g,13,g,0,g,0,g,40,g
+126,shake shack,maple bacon and banana double concrete,47,g,235,mg,860,g,96,g,22,g,26,g,0,g,1,g,79,g
+127,shake shack,marshmallow c r e m e concrete,29,g,125,mg,220,g,720,g,9,g,16,g,0.5,g,0,g,58,g
+128,shake shack,marshmallow c r e m e double concrete,57,g,250,mg,440,g,144,g,17,g,31,g,1.5,g,0,g,116,g
+129,shake shack,marshmallow sauce concrete mix in,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,9,g
+130,shake shack,martins potato roll,10,g,20,mg,170,g,24,g,7,g,6,g,0,g,0,g,5,g
+131,shake shack,mast brothers buttermilk chocolate bar,27,g,5,mg,65,g,33,g,5,g,17,g,0,g,2,g,32,g
+132,shake shack,matcha green tea powder concrete mix in,0,g,0,mg,0,g,0,g,14,g,0,g,0,g,0,g,0,g
+133,shake shack,mb malt concrete,24,g,115,mg,250,g,47,g,8,g,13,g,0,g,0,g,40,g
+134,shake shack,mb malt double concrete,48,g,235,mg,510,g,94,g,17,g,26,g,0,g,1,g,79,g
+135,shake shack,millenia malt concrete,29,g,120,mg,160,g,60,g,8,g,18,g,0.5,g,0,g,51,g
+136,shake shack,millenia malt double concrete,57,g,245,mg,310,g,120,g,16,g,35,g,1.5,g,0,g,102,g
+137,shake shack,millennium perk concrete,24,g,115,mg,330,g,58,g,9,g,13,g,0,g,0,g,47,g
+138,shake shack,millennium perk double concrete,47,g,230,mg,660,g,115,g,18,g,26,g,0,g,1,g,94,g
+139,shake shack,mindys mix up concrete,26,g,140,mg,420,g,57,g,9,g,15,g,0,g,0,g,40,g
+140,shake shack,mindys mix up double concrete,52,g,275,mg,840,g,114,g,18,g,30,g,0,g,0,g,79,g
+141,shake shack,mint chocolate concrete,24,g,120,mg,150,g,53,g,7,g,14,g,0.5,g,0,g,46,g
+142,shake shack,mint chocolate double concrete,48,g,250,mg,300,g,105,g,15,g,29,g,1.5,g,0,g,92,g
+143,shake shack,mint white chocolate ganache chocopologie concrete mix in,4,g,5,mg,10,g,9,g,1,g,3,g,0,g,0,g,9,g
+144,shake shack,minted magic concrete,26,g,125,mg,150,g,57,g,8,g,15,g,0.5,g,0,g,50,g
+145,shake shack,minted magic double concrete,51,g,250,mg,300,g,114,g,15,g,31,g,1.5,g,0,g,99,g
+146,shake shack,minted marshmallow sauce concrete mix in,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,9,g
+147,shake shack,miso huckleberry hazelnut blondie uchi concrete mix in,3,g,10,mg,10,g,8,g,1,g,1.5,g,0,g,0,g,6,g
+148,shake shack,mist twst large,0,g,0,mg,50,g,58,g,0,g,0,g,0,g,0,g,58,g
+149,shake shack,mist twst small,0,g,0,mg,35,g,39,g,0,g,0,g,0,g,0,g,39,g
+150,shake shack,montlake double cut,64,g,235,mg,2410,g,36,g,53,g,29,g,1.5,g,1,g,4,g
+151,shake shack,motor city mix concrete,27,g,130,mg,260,g,48,g,9,g,16,g,0,g,0,g,46,g
+152,shake shack,motor city mix double concrete,53,g,260,mg,510,g,97,g,18,g,32,g,0,g,0,g,91,g
+153,shake shack,mound city double,52,g,195,mg,2380,g,26,g,56,g,22,g,1.5,g,0,g,6,g
+154,shake shack,mountain dew large,0,g,0,mg,95,g,69,g,0,g,0,g,0,g,0,g,69,g
+155,shake shack,mountain dew small,0,g,0,mg,65,g,46,g,0,g,0,g,0,g,0,g,46,g
+156,shake shack,murray hill malt concrete,31,g,125,mg,180,g,62,g,10,g,19,g,0.5,g,4,g,51,g
+157,shake shack,murray hill malt double concrete,62,g,250,mg,350,g,125,g,20,g,37,g,1.5,g,7,g,102,g
+158,shake shack,music city mallow concrete,25,g,130,mg,310,g,62,g,8,g,15,g,0.5,g,0,g,53,g
+159,shake shack,music city mallow double concrete,51,g,255,mg,630,g,125,g,15,g,30,g,1.5,g,0,g,107,g
+160,shake shack,natural history crunch stellation concrete,26,g,125,mg,280,g,52,g,9,g,16,g,0,g,0,g,50,g
+161,shake shack,natural history crunch stellation double concrete,51,g,245,mg,550,g,104,g,17,g,32,g,0,g,0,g,99,g
+162,shake shack,new castle concrete,32,g,135,mg,370,g,63,g,9,g,18,g,0,g,0,g,57,g
+163,shake shack,new castle double concrete,65,g,265,mg,730,g,126,g,17,g,36,g,0.5,g,0,g,114,g
+164,shake shack,newberry concrete,17,g,110,mg,220,g,44,g,8,g,10,g,0,g,0,g,39,g
+165,shake shack,newberry double concrete,33,g,225,mg,450,g,88,g,16,g,20,g,0,g,1,g,79,g
+166,shake shack,nothin but nets concrete,22,g,115,mg,300,g,66,g,9,g,13,g,0,g,0,g,50,g
+167,shake shack,nothin but nets double concrete,44,g,235,mg,610,g,131,g,17,g,26,g,0.5,g,0,g,99,g
+168,shake shack,nutella pretzel cookie marks bake shoppe concrete mix in,4.5,g,10,mg,40,g,9,g,1,g,1,g,0,g,0,g,3,g
+169,shake shack,o town blend concrete,27,g,130,mg,500,g,59,g,8,g,15,g,0,g,0,g,54,g
+170,shake shack,o town blend double concrete,55,g,255,mg,990,g,118,g,17,g,29,g,0,g,0,g,109,g
+171,shake shack,oh fudge concrete,29,g,130,mg,170,g,51,g,8,g,17,g,0.5,g,0,g,44,g
+172,shake shack,oh fudge double concrete,58,g,260,mg,330,g,103,g,16,g,35,g,1.5,g,0,g,88,g
+173,shake shack,old country rocky road concrete,31,g,125,mg,150,g,56,g,10,g,15,g,0.5,g,2,g,47,g
+174,shake shack,old country rocky road double concrete,63,g,250,mg,300,g,111,g,20,g,30,g,1.5,g,3,g,94,g
+175,shake shack,old fashioned buttermilk vanilla donut kettle glazed concrete mix in,2,g,5,mg,50,g,7,g,1,g,1,g,0,g,0,g,4,g
+176,shake shack,old fashioned donut do rite concrete mix in,4.5,g,0,mg,70,g,7,g,1,g,2,g,0,g,0,g,3,g
+177,shake shack,old fashioned doughnut doughnut plant concrete mix in,3.5,g,5,mg,55,g,7,g,1,g,1.5,g,0,g,0,g,3,g
+178,shake shack,one stop choc concrete,30,g,140,mg,230,g,66,g,8,g,17,g,0.5,g,0,g,45,g
+179,shake shack,one stop choc double concrete,61,g,280,mg,470,g,132,g,17,g,35,g,1.5,g,0,g,89,g
+180,shake shack,onion,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+181,shake shack,orange juice,0,g,0,mg,10,g,41,g,3,g,0,g,0,g,2,g,30,g
+182,shake shack,orlandough concrete,28,g,125,mg,170,g,61,g,8,g,16,g,0.5,g,0,g,51,g
+183,shake shack,orlandough double concrete,55,g,255,mg,340,g,123,g,17,g,32,g,1.5,g,0,g,101,g
+184,shake shack,peachtree shake,38,g,240,mg,670,g,95,g,16,g,23,g,0,g,0,g,91,g
+185,shake shack,pearl and pecan concrete,33,g,130,mg,400,g,51,g,9,g,15,g,0,g,1,g,49,g
+186,shake shack,pearl and pecan double concrete,66,g,260,mg,800,g,103,g,18,g,30,g,0,g,3,g,96,g
+187,shake shack,pecan shortbread scratch baking concrete mix in,4.5,g,0,mg,50,g,8,g,1,g,1.5,g,0,g,0,g,3,g
+188,shake shack,pecan sticky bun balthazar concrete mix in,3,g,10,mg,30,g,6,g,1,g,2,g,0,g,0,g,3,g
+189,shake shack,pecans concrete mix in,10,g,0,mg,0,g,2,g,1,g,1,g,0,g,1,g,1,g
+190,shake shack,penthouse sweet concrete,28,g,140,mg,410,g,55,g,8,g,17,g,0.5,g,0,g,42,g
+191,shake shack,penthouse sweet double concrete,57,g,275,mg,830,g,110,g,15,g,33,g,1.5,g,0,g,85,g
+192,shake shack,pepsi large,0,g,0,mg,50,g,62,g,0,g,0,g,0,g,0,g,62,g
+193,shake shack,pepsi small,0,g,0,mg,35,g,41,g,0,g,0,g,0,g,0,g,41,g
+194,shake shack,pepsimax large,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+195,shake shack,pepsimax small,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+196,shake shack,pickle,0,g,0,mg,140,g,0,g,0,g,0,g,0,g,0,g,0,g
+197,shake shack,pie oh my roadie concrete,101,g,460,mg,1290,g,218,g,33,g,52,g,0,g,2,g,175,g
+198,shake shack,pie oh my concrete,25,g,115,mg,320,g,108,g,8,g,13,g,0,g,0,g,44,g
+199,shake shack,pie oh my double concrete,51,g,230,mg,640,g,217,g,17,g,26,g,0,g,1,g,88,g
+200,shake shack,pistachios concrete mix in,6,g,0,mg,0,g,4,g,3,g,1,g,0,g,1,g,1,g
+201,shake shack,potato chips route 11 concrete mix in,4.5,g,0,mg,55,g,8,g,1,g,0,g,0,g,0,g,0,g
+202,shake shack,presidential sweet concrete,22,g,120,mg,340,g,59,g,9,g,14,g,0,g,0,g,56,g
+203,shake shack,presidential sweet double concrete,45,g,245,mg,680,g,118,g,17,g,28,g,0,g,1,g,112,g
+204,shake shack,pretzel place concrete,29,g,135,mg,350,g,56,g,8,g,17,g,0.5,g,3,g,48,g
+205,shake shack,pretzel place double concrete,57,g,265,mg,710,g,113,g,16,g,34,g,1.5,g,6,g,95,g
+206,shake shack,pretzel the concrete concrete,32,g,125,mg,250,g,57,g,10,g,15,g,0.5,g,0,g,47,g
+207,shake shack,pretzel the concrete double concrete,63,g,245,mg,510,g,115,g,20,g,31,g,1.5,g,0,g,94,g
+208,shake shack,prosecco,0,g,0,mg,20,g,10,g,0,g,0,g,0,g,0,g,4,g
+209,shake shack,publican pork sausage,47,g,75,mg,1190,g,14,g,13,g,16,g,0,g,1,g,1,g
+210,shake shack,purple cow float,15,g,100,mg,210,g,79,g,7,g,9,g,0,g,0,g,78,g
+211,shake shack,rainbow connection concrete,24,g,115,mg,300,g,53,g,9,g,12,g,0,g,0,g,37,g
+212,shake shack,rainbow connection double concrete,48,g,225,mg,600,g,105,g,19,g,24,g,0.5,g,0,g,74,g
+213,shake shack,rainbow sprinkles concrete mix in,3,g,0,mg,0,g,11,g,0,g,1,g,1.5,g,0,g,7,g
+214,shake shack,red velvet cake south end buttery concrete mix in,2.5,g,10,mg,55,g,6,g,1,g,0,g,0,g,0,g,4,g
+215,shake shack,red velvet cake the cupcakery concrete mix in,2.5,g,5,mg,60,g,6,g,1,g,1,g,0,g,0,g,4,g
+216,shake shack,red velvet rock concrete,24,g,130,mg,380,g,52,g,9,g,13,g,0,g,0,g,45,g
+217,shake shack,red velvet rock double concrete,48,g,265,mg,760,g,105,g,18,g,26,g,0,g,0,g,90,g
+218,shake shack,regular fries,22,g,15,mg,740,g,63,g,6,g,4.5,g,0,g,7,g,1,g
+219,shake shack,reveres tracks concrete,26,g,130,mg,410,g,58,g,8,g,16,g,0,g,0,g,54,g
+220,shake shack,reveres tracks double concrete,52,g,260,mg,810,g,117,g,16,g,32,g,0,g,0,g,109,g
+221,shake shack,rittenhouse concrete,24,g,125,mg,150,g,54,g,8,g,14,g,0.5,g,1,g,46,g
+222,shake shack,rittenhouse double concrete,49,g,250,mg,300,g,109,g,16,g,29,g,1.5,g,1,g,91,g
+223,shake shack,roadside double burger,61,g,140,mg,1160,g,36,g,55,g,25,g,2,g,4,g,11,g
+224,shake shack,root beer float,15,g,100,mg,220,g,70,g,7,g,9,g,0,g,0,g,69,g
+225,shake shack,royal sweet concrete,22,g,110,mg,250,g,56,g,8,g,11,g,0,g,0,g,49,g
+226,shake shack,royal sweet double concrete,45,g,225,mg,500,g,112,g,17,g,22,g,0,g,0,g,98,g
+227,shake shack,royal treatment concrete,16,g,110,mg,260,g,50,g,8,g,10,g,0,g,0,g,43,g
+228,shake shack,royal treatment double concrete,33,g,225,mg,520,g,99,g,16,g,20,g,0,g,0,g,85,g
+229,shake shack,smore concrete,31,g,120,mg,200,g,66,g,9,g,18,g,0.5,g,0,g,50,g
+230,shake shack,smore cookie dough concrete,27,g,125,mg,210,g,66,g,8,g,15,g,0.5,g,0,g,52,g
+231,shake shack,smore cookie dough double concrete,55,g,255,mg,420,g,133,g,17,g,30,g,1.5,g,1,g,104,g
+232,shake shack,smore double concrete,63,g,240,mg,400,g,132,g,18,g,36,g,1.5,g,1,g,100,g
+233,shake shack,smores please concrete,29,g,120,mg,200,g,63,g,8,g,16,g,0.5,g,0,g,48,g
+234,shake shack,smores please double concrete,58,g,240,mg,390,g,125,g,17,g,33,g,1.5,g,1,g,96,g
+235,shake shack,salt n san diego concrete,19,g,120,mg,360,g,49,g,8,g,11,g,0,g,0,g,43,g
+236,shake shack,salt n san diego double concrete,37,g,240,mg,710,g,98,g,16,g,23,g,0,g,1,g,86,g
+237,shake shack,salt n sunset concrete,25,g,120,mg,420,g,53,g,9,g,13,g,0,g,0,g,40,g
+238,shake shack,salt n sunset double concrete,49,g,240,mg,850,g,106,g,18,g,26,g,0,g,0,g,79,g
+239,shake shack,salted caramel concrete,22,g,115,mg,310,g,49,g,9,g,12,g,0,g,0,g,37,g
+240,shake shack,salted caramel double concrete,45,g,230,mg,630,g,99,g,18,g,23,g,0,g,1,g,73,g
+241,shake shack,salted caramel chocolate brownie larder baking company concrete mix in,3.5,g,10,mg,75,g,7,g,1,g,0.5,g,0.5,g,0,g,5,g
+242,shake shack,salted caramel crunch henderson concrete,23,g,130,mg,410,g,58,g,8,g,14,g,0,g,0,g,55,g
+243,shake shack,salted caramel crunch kierland commons concrete,29,g,145,mg,440,g,59,g,7,g,18,g,0.5,g,0,g,55,g
+244,shake shack,salted caramel crunch double henderson concrete,46,g,260,mg,820,g,115,g,16,g,28,g,0,g,0,g,110,g
+245,shake shack,salted caramel crunch double kierland coomons concrete,59,g,290,mg,880,g,118,g,14,g,37,g,1.5,g,0,g,110,g
+246,shake shack,salted caramel sauce concrete mix in,2,g,5,mg,135,g,7,g,0,g,1.5,g,0,g,0,g,7,g
+247,shake shack,salted caramel shake,42,g,260,mg,950,g,99,g,17,g,26,g,0,g,0,g,96,g
+248,shake shack,salted crunch dark chocolate brownie southport grocery and cafe concrete mix in,7,g,20,mg,150,g,15,g,1,g,1.5,g,1,g,0,g,10,g
+249,shake shack,salty balty concrete,29,g,135,mg,650,g,59,g,9,g,17,g,0,g,0,g,45,g
+250,shake shack,salty balty double concrete,58,g,270,mg,1310,g,120,g,18,g,35,g,1,g,0,g,91,g
+251,shake shack,sausage breakfast sandwich,25,g,400,mg,1150,g,26,g,30,g,10,g,0,g,3,g,5,g
+252,shake shack,sausage breakfast sandwich double egg,36,g,445,mg,1540,g,28,g,34,g,14,g,0,g,3,g,7,g
+253,shake shack,sausage link,20,g,40,mg,680,g,2,g,9,g,7,g,0,g,0,g,0,g
+254,shake shack,scarpetta,0,g,0,mg,10,g,4,g,0,g,0,g,0,g,0,g,2,g
+255,shake shack,seaport salt and malt concrete,33,g,140,mg,350,g,60,g,8,g,20,g,1,g,0,g,52,g
+256,shake shack,seaport salt and malt double concrete,67,g,280,mg,700,g,121,g,16,g,40,g,1.5,g,0,g,105,g
+257,shake shack,seasonal pie concrete mix in,2.5,g,5,mg,35,g,5,g,0,g,1,g,0,g,0,g,3,g
+258,shake shack,shack attack roadie concrete,140,g,520,mg,690,g,234,g,36,g,86,g,3,g,0,g,193,g
+259,shake shack,shack attack concrete,35,g,130,mg,170,g,58,g,9,g,21,g,0.5,g,0,g,48,g
+260,shake shack,shack attack double concrete,69,g,255,mg,340,g,116,g,18,g,43,g,1.5,g,0,g,95,g
+261,shake shack,shack red wine,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,0,g
+262,shake shack,shack red wine bottle,0,g,0,mg,0,g,19,g,1,g,0,g,0,g,0,g,0,g
+263,shake shack,shack stack,49,g,140,mg,1700,g,50,g,40,g,21,g,1.5,g,0,g,7,g
+264,shake shack,shack white wine,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+265,shake shack,shack white wine bottle,0,g,0,mg,0,g,15,g,1,g,0,g,0,g,0,g,0,g
+266,shake shack,shack cago dog,26,g,60,mg,1500,g,29,g,17,g,12,g,0.5,g,0,g,9,g
+267,shake shack,shack made lemonade large,0,g,0,mg,15,g,70,g,0,g,0,g,0,g,0,g,66,g
+268,shake shack,shack made lemonade small,0,g,0,mg,10,g,43,g,0,g,0,g,0,g,0,g,40,g
+269,shake shack,shacksauce,6,g,10,mg,60,g,0,g,0,g,1,g,0,g,0,g,0,g
+270,shake shack,shacky road concrete,31,g,125,mg,150,g,56,g,10,g,15,g,0.5,g,2,g,47,g
+271,shake shack,shacky road double concrete,63,g,250,mg,300,g,111,g,20,g,30,g,1.5,g,3,g,94,g
+272,shake shack,shake ney concrete,25,g,130,mg,310,g,62,g,8,g,15,g,0.5,g,0,g,53,g
+273,shake shack,shake ney double concrete,51,g,255,mg,630,g,125,g,15,g,30,g,1.5,g,0,g,107,g
+274,shake shack,shark attack concrete,37,g,125,mg,180,g,62,g,9,g,21,g,0.5,g,0,g,50,g
+275,shake shack,shark attack double concrete,74,g,250,mg,360,g,123,g,18,g,41,g,1.5,g,0,g,100,g
+276,shake shack,shell game concrete,25,g,115,mg,230,g,55,g,10,g,13,g,0,g,1,g,45,g
+277,shake shack,shell game double concrete,50,g,235,mg,460,g,111,g,21,g,27,g,0,g,1,g,90,g
+278,shake shack,short and sweet concrete,22,g,130,mg,380,g,56,g,8,g,13,g,0,g,1,g,46,g
+279,shake shack,short and sweet double concrete,44,g,255,mg,760,g,112,g,17,g,27,g,0,g,1,g,93,g
+280,shake shack,shortbread pollystyle concrete mix in,3.5,g,0,mg,50,g,9,g,1,g,1,g,0,g,0,g,3,g
+281,shake shack,shortbread cookie concrete mix in,3.5,g,10,mg,55,g,9,g,1,g,2,g,0,g,0,g,3,g
+282,shake shack,single cheeseburger,28,g,105,mg,1200,g,25,g,29,g,14,g,1,g,0,g,5,g
+283,shake shack,single chocolate cone,20,g,110,mg,180,g,42,g,7,g,11,g,0.5,g,0,g,33,g
+284,shake shack,single chocolate ice cream cup,19,g,110,mg,120,g,32,g,6,g,11,g,0.5,g,0,g,29,g
+285,shake shack,single concrete chocolate concrete mix in,21,g,120,mg,130,g,35,g,6,g,12,g,0.5,g,2,g,32,g
+286,shake shack,single concrete vanilla concrete mix in,16,g,110,mg,190,g,33,g,7,g,10,g,0,g,0,g,33,g
+287,shake shack,single concrete vanilla and chocolate concrete mix in,19,g,115,mg,160,g,34,g,7,g,11,g,0,g,1,g,32,g
+288,shake shack,single hamburger,22,g,85,mg,850,g,24,g,25,g,10,g,1,g,0,g,5,g
+289,shake shack,single shackburger,34,g,115,mg,1260,g,26,g,29,g,14,g,1,g,0,g,6,g
+290,shake shack,single smokeshack,39,g,130,mg,2010,g,28,g,36,g,16,g,1,g,0,g,7,g
+291,shake shack,single vanilla and chocolate cone,17,g,105,mg,200,g,41,g,7,g,10,g,0,g,0,g,33,g
+292,shake shack,single vanilla and chocolate ice cream cup,17,g,105,mg,150,g,31,g,6,g,10,g,0,g,0,g,29,g
+293,shake shack,single vanilla cone,15,g,100,mg,230,g,41,g,7,g,9,g,0,g,0,g,33,g
+294,shake shack,single vanilla ice cream cup,15,g,100,mg,180,g,30,g,7,g,9,g,0,g,0,g,30,g
+295,shake shack,skull and cones concrete,31,g,130,mg,240,g,66,g,10,g,18,g,0,g,0,g,53,g
+296,shake shack,skull and cones double concrete,62,g,255,mg,490,g,131,g,19,g,35,g,1,g,0,g,105,g
+297,shake shack,smorescode concrete,24,g,120,mg,220,g,61,g,8,g,12,g,0.5,g,1,g,46,g
+298,shake shack,smorescode double concrete,48,g,240,mg,440,g,122,g,16,g,25,g,1.5,g,1,g,92,g
+299,shake shack,snap crackle crete concrete,16,g,110,mg,260,g,50,g,8,g,10,g,0,g,0,g,43,g
+300,shake shack,snap crackle crete double concrete,33,g,225,mg,520,g,99,g,16,g,20,g,0,g,0,g,85,g
+301,shake shack,snickerdoodle lady lexis concrete mix in,5,g,20,mg,90,g,17,g,1,g,2,g,0,g,0,g,9,g
+302,shake shack,sprite large,0,g,0,mg,55,g,60,g,0,g,0,g,0,g,0,g,53,g
+303,shake shack,sprite small,0,g,0,mg,30,g,36,g,0,g,0,g,0,g,0,g,32,g
+304,shake shack,sticky bun banana concrete,26,g,145,mg,520,g,63,g,9,g,16,g,0,g,0,g,54,g
+305,shake shack,sticky bun banana double concrete,52,g,285,mg,1040,g,125,g,18,g,32,g,0,g,1,g,107,g
+306,shake shack,strawberry and rose geranium jam sqirl concrete mix in,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,5,g
+307,shake shack,strawberry banana cone crete concrete,17,g,110,mg,220,g,45,g,8,g,10,g,0,g,0,g,39,g
+308,shake shack,strawberry banana cone crete double concrete,33,g,225,mg,450,g,89,g,16,g,20,g,0,g,1,g,78,g
+309,shake shack,strawberry banana crunch concrete,17,g,110,mg,220,g,45,g,8,g,10,g,0,g,0,g,39,g
+310,shake shack,strawberry banana crunch double concrete,33,g,225,mg,450,g,89,g,16,g,20,g,0,g,1,g,78,g
+311,shake shack,strawberry banana crunchcake concrete,20,g,120,mg,250,g,49,g,8,g,12,g,0,g,0,g,40,g
+312,shake shack,strawberry banana crunchcake double concrete,40,g,240,mg,490,g,98,g,16,g,24,g,0,g,1,g,80,g
+313,shake shack,strawberry country crunch concrete,17,g,110,mg,220,g,45,g,8,g,10,g,0,g,0,g,39,g
+314,shake shack,strawberry country crunch double concrete,33,g,225,mg,450,g,89,g,16,g,20,g,0,g,1,g,78,g
+315,shake shack,strawberry crunchcake concrete,17,g,110,mg,230,g,51,g,8,g,10,g,0,g,0,g,46,g
+316,shake shack,strawberry crunchcake double concrete,33,g,225,mg,450,g,103,g,16,g,20,g,0,g,0,g,92,g
+317,shake shack,strawberry cupcake sugar rays concrete mix in,2,g,5,mg,45,g,6,g,0,g,0.5,g,0,g,0,g,4,g
+318,shake shack,strawberry jam concrete mix in,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,8,g
+319,shake shack,strawberry puree concrete mix in,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,2,g
+320,shake shack,strawberry shake,35,g,230,mg,430,g,77,g,17,g,21,g,0,g,0,g,75,g
+321,shake shack,strawberry sunset concrete,18,g,110,mg,220,g,47,g,8,g,10,g,0.5,g,0,g,41,g
+322,shake shack,strawberry sunset double concrete,36,g,225,mg,450,g,94,g,16,g,21,g,1.5,g,0,g,81,g
+323,shake shack,strike cone concrete,28,g,125,mg,260,g,65,g,10,g,17,g,0,g,0,g,54,g
+324,shake shack,strike cone double concrete,55,g,245,mg,530,g,131,g,20,g,33,g,0,g,0,g,108,g
+325,shake shack,stumptown cold brew,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+326,shake shack,stumptown cold brew float,15,g,100,mg,180,g,30,g,7,g,9,g,0,g,0,g,30,g
+327,shake shack,stumptown cold brew nitro,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+328,shake shack,summerlin smore concrete,23,g,125,mg,170,g,54,g,7,g,13,g,0.5,g,0,g,45,g
+329,shake shack,summerlin smore double concrete,47,g,245,mg,340,g,108,g,15,g,27,g,1.5,g,0,g,91,g
+330,shake shack,takes the cupcake concrete,30,g,130,mg,330,g,61,g,9,g,16,g,1,g,0,g,53,g
+331,shake shack,takes the cupcake double concrete,61,g,260,mg,650,g,122,g,18,g,32,g,2,g,0,g,105,g
+332,shake shack,the breakfast club concrete,20,g,120,mg,380,g,50,g,8,g,12,g,0,g,0,g,43,g
+333,shake shack,the breakfast club double concrete,40,g,245,mg,750,g,99,g,16,g,23,g,0,g,1,g,86,g
+334,shake shack,the concrete jungle buckhead concrete,25,g,115,mg,230,g,52,g,9,g,13,g,0,g,0,g,45,g
+335,shake shack,the concrete jungle msp concrete,25,g,115,mg,240,g,48,g,9,g,13,g,0,g,0,g,43,g
+336,shake shack,the concrete jungle double buckhead concrete,50,g,230,mg,470,g,103,g,18,g,26,g,0,g,1,g,90,g
+337,shake shack,the concrete jungle double msp concrete,51,g,235,mg,480,g,97,g,17,g,27,g,0,g,1,g,86,g
+338,shake shack,the empire shacks back concrete,23,g,120,mg,370,g,49,g,8,g,12,g,0,g,0,g,42,g
+339,shake shack,the empire shacks back double concrete,45,g,235,mg,700,g,96,g,16,g,24,g,0,g,0,g,82,g
+340,shake shack,the great white way concrete,16,g,110,mg,260,g,50,g,8,g,10,g,0,g,0,g,43,g
+341,shake shack,the great white way double concrete,33,g,225,mg,520,g,99,g,16,g,20,g,0,g,0,g,85,g
+342,shake shack,the inchu inch malt concrete,28,g,130,mg,200,g,580,g,9,g,17,g,0.5,g,0,g,50,g
+343,shake shack,the inchu inch malt double concrete,56,g,265,mg,410,g,116,g,18,g,34,g,1.5,g,0,g,101,g
+344,shake shack,tinseltown toffee concrete,33,g,140,mg,340,g,58,g,8,g,21,g,1,g,0,g,51,g
+345,shake shack,tinseltown toffee double concrete,66,g,280,mg,680,g,116,g,15,g,41,g,1.5,g,0,g,101,g
+346,shake shack,toffee shortbread pollystyle concrete mix in,4,g,0,mg,45,g,8,g,1,g,2,g,0,g,0,g,3,g
+347,shake shack,toffee takeoff concrete,27,g,140,mg,480,g,61,g,8,g,17,g,0,g,0,g,57,g
+348,shake shack,toffee takeoff double concrete,55,g,280,mg,960,g,122,g,16,g,34,g,0.5,g,0,g,115,g
+349,shake shack,tomato,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+350,shake shack,township toffee concrete,30,g,145,mg,450,g,62,g,7,g,18,g,0.5,g,0,g,57,g
+351,shake shack,township toffee double concrete,59,g,290,mg,900,g,124,g,15,g,37,g,1.5,g,0,g,114,g
+352,shake shack,traffic jam shake,35,g,230,mg,410,g,106,g,17,g,21,g,0,g,0,g,102,g
+353,shake shack,triple chocolate sea salt cookie luna baking company concrete mix in,3,g,5,mg,90,g,8,g,1,g,2,g,0,g,0,g,6,g
+354,shake shack,uchi koncrete concrete,24,g,135,mg,390,g,60,g,9,g,14,g,0,g,0,g,33,g
+355,shake shack,uchi koncrete double concrete,48,g,265,mg,780,g,120,g,19,g,28,g,0,g,0,g,66,g
+356,shake shack,unicorn bait cookie dough fluff bake bar concrete mix in,2.5,g,0,mg,55,g,9,g,1,g,1,g,0,g,0,g,4,g
+357,shake shack,valley forge freeze concrete,29,g,140,mg,730,g,56,g,7,g,18,g,1,g,0,g,50,g
+358,shake shack,valley forge freeze double concrete,58,g,280,mg,1470,g,111,g,14,g,35,g,1.5,g,0,g,100,g
+359,shake shack,vanilla glazed donut astro donuts concrete mix in,3.5,g,5,mg,55,g,7,g,1,g,1.5,g,0,g,0,g,3,g
+360,shake shack,vanilla shake,36,g,235,mg,430,g,72,g,18,g,22,g,0,g,0,g,71,g
+361,shake shack,veggie shack,27,g,20,mg,1250,g,56,g,16,g,7,g,0,g,6,g,10,g
+362,shake shack,veggie shack vegan,22,g,0,mg,1130,g,50,g,6,g,1.5,g,0,g,6,g,8,g
+363,shake shack,veggie shack vegan lettuce wrap,18,g,0,mg,900,g,31,g,4,g,1.5,g,0,g,4,g,6,g
+364,shake shack,vice crispy treat concrete,16,g,110,mg,260,g,50,g,8,g,10,g,0,g,0,g,43,g
+365,shake shack,vice crispy treat double concrete,33,g,225,mg,520,g,99,g,18,g,20,g,0,g,0,g,85,g
+366,shake shack,vietnamese coffee and donuts concrete,23,g,115,mg,330,g,56,g,9,g,13,g,0,g,0,g,46,g
+367,shake shack,vietnamese coffee and donuts double concrete,47,g,230,mg,660,g,112,g,18,g,26,g,0,g,0,g,93,g
+368,shake shack,vinny sparkling can,0,g,0,mg,15,g,6,g,0,g,0,g,0,g,0,g,0,g
+369,shake shack,walnut sable cookie balthazar concrete mix in,3.5,g,5,mg,65,g,8,g,1,g,1.5,g,0,g,0,g,4,g
+370,shake shack,walnuts concrete mix in,9,g,0,mg,0,g,2,g,2,g,1,g,0,g,1,g,0,g
+371,shake shack,washington monu mint concrete,24,g,125,mg,150,g,53,g,7,g,14,g,0.5,g,0,g,46,g
+372,shake shack,washington monu mint double concrete,48,g,250,mg,300,g,105,g,15,g,29,g,1.5,g,0,g,92,g
+373,shake shack,west slide concrete,24,g,145,mg,310,g,60,g,9,g,11,g,0,g,0,g,53,g
+374,shake shack,west slide double concrete,48,g,285,mg,620,g,120,g,17,g,22,g,0,g,1,g,106,g
+375,shake shack,west u nicorn concrete,21,g,120,mg,380,g,52,g,8,g,12,g,0,g,0,g,47,g
+376,shake shack,west u nicorn double concrete,42,g,240,mg,750,g,104,g,16,g,24,g,0,g,0,g,95,g
+377,shake shack,westberry concrete,18,g,110,mg,330,g,62,g,9,g,10,g,0,g,0,g,45,g
+378,shake shack,westberry double concrete,35,g,225,mg,650,g,124,g,18,g,20,g,0,g,1,g,90,g
+379,shake shack,whipped cream,5,g,20,mg,20,g,5,g,1,g,3.5,g,0,g,0,g,4,g
+380,shake shack,white peach puree concrete mix in,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,3,g
+381,shake shack,whole wheat chocolate chip walnut cookie manresa concrete mix in,4,g,10,mg,50,g,8,g,1,g,2,g,0,g,1,g,6,g
+382,shake shack,wicked crunchie concrete,20,g,120,mg,460,g,66,g,9,g,11,g,0,g,0,g,49,g
+383,shake shack,wicked crunchie double concrete,39,g,240,mg,920,g,132,g,19,g,23,g,0,g,0,g,98,g
+384,shake shack,winters wonderland concrete,16,g,110,mg,260,g,50,g,8,g,10,g,0,g,0,g,43,g
+385,shake shack,winters wonderland double concrete,33,g,225,mg,520,g,99,g,16,g,20,g,0,g,0,g,85,g
+386,shake shack,worlds fare concrete,16,g,110,mg,260,g,50,g,8,g,10,g,0,g,0,g,43,g
+387,shake shack,worlds fare double concrete,33,g,225,mg,520,g,99,g,17,g,20,g,0,g,0,g,85,g
+388,shakeys,boneless chicken strips 1piece,6,g,20,mg,345,g,10,g,8,g,1,g,0,g,2,g,0,g
+389,shakeys,golden fried chicken breast,11,g,111,mg,1390,g,16,g,50,g,2,g,0,g,1,g,0,g
+390,shakeys,baked chicken leg buffet,6,g,60,mg,60,g,0,g,20,g,2,g,0,g,0,g,0,g
+391,shakeys,baked chicken wing buffet,6,g,49,mg,30,g,0,g,12,g,1,g,0,g,0,g,0,g
+392,shakeys,baked chicken thigh buffet,20,g,105,mg,95,g,0,g,28,g,5,g,0,g,0,g,0,g
+393,shakeys,golden fried chicken wing,9,g,36,mg,318,g,4,g,8,g,2,g,0,g,0,g,0,g
+394,shakeys,chicken drumettes wings without dipping sauce,30,g,145,mg,965,g,13,g,23,g,8,g,0,g,0,g,1,g
+395,shakeys,baked chicken breast buffet,2,g,115,mg,125,g,0,g,45,g,1,g,0,g,0,g,0,g
+396,shakeys,golden fried chicken leg,10,g,60,mg,545,g,6,g,15,g,2,g,0,g,0,g,0,g
+397,shakeys,golden fried chicken thigh,24,g,105,mg,850,g,9,g,23,g,6,g,0,g,0,g,0,g
+398,shakeys,chicken gravy,0,g,0,mg,320,g,4,g,0,g,0,g,0,g,0,g,0,g
+399,shakeys,beef gravy,0,g,0,mg,270,g,3,g,0,g,0,g,0,g,0,g,0,g
+400,shakeys,parfait,2,g,0,mg,70,g,19,g,2,g,2,g,0,g,0,g,17,g
+401,shakeys,sliced peaches,0,g,0,mg,5,g,25,g,1,g,0,g,0,g,1,g,14,g
+402,shakeys,mexican fiesta rice,0,g,0,mg,320,g,22,g,2,g,0,g,0,g,1,g,1,g
+403,shakeys,rice pilaf,3,g,5,mg,440,g,22,g,2,g,2,g,0,g,0,g,1,g
+404,shakeys,macaroni and cheese,17,g,35,mg,1110,g,33,g,14,g,9,g,0,g,4,g,4,g
+405,shakeys,spaghetti plain,1,g,0,mg,26,g,42,g,7,g,0,g,0,g,1,g,1,g
+406,shakeys,penne rigate plain,1,g,0,mg,26,g,42,g,7,g,0,g,0,g,1,g,1,g
+407,shakeys,shakeys special thin crust pizza 15 large,13,g,32,mg,586,g,25,g,11,g,5,g,0,g,2,g,3,g
+408,shakeys,hawaiian delight thin crust pizza 15 large,6,g,21,mg,445,g,26,g,9,g,3,g,0,g,2,g,5,g
+409,shakeys,garden veggie thin crust pizza 12 medium,6,g,13,mg,300,g,19,g,6,g,2,g,0,g,2,g,2,g
+410,shakeys,cheese thin crust pizza 15 large,6,g,16,mg,345,g,25,g,7,g,3,g,0,g,2,g,2,g
+411,shakeys,texas bbq chicken thin crust pizza 12 medium,5,g,22,mg,415,g,20,g,9,g,3,g,0,g,1,g,5,g
+412,shakeys,hawaiian delight thin crust pizza 12 medium,5,g,17,mg,355,g,20,g,7,g,3,g,0,g,1,g,4,g
+413,shakeys,firehouse pan crust pizza 12 medium,13,g,30,mg,600,g,30,g,11,g,5,g,0,g,2,g,3,g
+414,shakeys,california pizzarito pan crust pizza 15 large,15,g,35,mg,455,g,35,g,12,g,7,g,0,g,2,g,3,g
+415,shakeys,cheese thin crust pizza 12 medium,5,g,13,mg,255,g,17,g,7,g,2,g,0,g,1,g,2,g
+416,shakeys,firehouse pan crust pizza 15 large,16,g,40,mg,750,g,36,g,13,g,7,g,0,g,3,g,4,g
+417,shakeys,hawaiian delight pan crust pizza 15large,7,g,21,mg,555,g,40,g,10,g,3,g,0,g,2,g,6,g
+418,shakeys,california pizzarito thin crust pizza 12 medium,11,g,30,mg,275,g,19,g,9,g,5,g,0,g,2,g,2,g
+419,shakeys,garden veggie thin crust pizza 15 large,7,g,16,mg,400,g,26,g,8,g,3,g,0,g,2,g,3,g
+420,shakeys,shakeys special pan crust pizza 15 large,12,g,32,mg,693,g,35,g,12,g,5,g,0,g,2,g,4,g
+421,shakeys,ultimate meat thin crust pizza 12 medium,14,g,45,mg,650,g,20,g,13,g,6,g,0,g,1,g,2,g
+422,shakeys,firehouse thin crust pizza 15 large,16,g,40,mg,645,g,26,g,12,g,7,g,0,g,2,g,3,g
+423,shakeys,ultimate meat pan crust pizza 15 large,18,g,55,mg,945,g,35,g,18,g,7,g,0,g,2,g,3,g
+424,shakeys,hawaiian delight pan crust pizza 12 medium,5,g,17,mg,460,g,35,g,9,g,3,g,0,g,2,g,5,g
+425,shakeys,texas bbq chicken thin crust pizza 15 large,7,g,30,mg,565,g,30,g,11,g,3,g,0,g,1,g,7,g
+426,shakeys,shakeys special thin crust pizza 12 medium,10,g,25,mg,450,g,18,g,8,g,4,g,0,g,1,g,2,g
+427,shakeys,ultimate meat thin crust pizza 15 large,18,g,55,mg,945,g,35,g,18,g,7,g,0,g,2,g,3,g
+428,shakeys,firehouse thin crust pizza 12 medium,12,g,30,mg,495,g,20,g,9,g,5,g,0,g,2,g,2,g
+429,shakeys,big island bbq pan crust pizza 15 large,6,g,20,mg,550,g,30,g,8,g,2,g,0,g,1,g,5,g
+430,shakeys,california pizzarito pan crust pizza 12 medium,12,g,30,mg,380,g,30,g,10,g,5,g,0,g,2,g,3,g
+431,shakeys,texas bbq chicken pan crust pizza 12 medium,6,g,22,mg,520,g,32,g,11,g,3,g,0,g,1,g,5,g
+432,shakeys,california pizzarito thin crust pizza 15 large,14,g,35,mg,345,g,24,g,11,g,7,g,0,g,2,g,2,g
+433,shakeys,rustic garlic chicken pan crust pizza 12 medium,6,g,20,mg,445,g,30,g,10,g,3,g,0,g,2,g,1,g
+434,shakeys,cheese pan crust pizza 15 large,6,g,16,mg,450,g,34,g,8,g,3,g,0,g,2,g,3,g
+435,shakeys,big island bbq thin crust pizza 15 large,7,g,21,mg,580,g,25,g,9,g,2,g,0,g,1,g,5,g
+436,shakeys,rustic garlic chicken pan crust pizza 15 large,8,g,25,mg,555,g,35,g,13,g,3,g,0,g,2,g,2,g
+437,shakeys,cheese pan crust pizza 12 medium,5,g,13,mg,360,g,30,g,7,g,2,g,0,g,2,g,2,g
+438,shakeys,rustic garlic chicken thin crust pizza 12 medium,6,g,20,mg,340,g,18,g,9,g,3,g,0,g,1,g,1,g
+439,shakeys,big island bbq pan crust pizza 12 medium,6,g,20,mg,550,g,30,g,8,g,2,g,0,g,1,g,5,g
+440,shakeys,big island bbq thin crust pizza 12 medium,6,g,20,mg,450,g,19,g,7,g,2,g,0,g,1,g,4,g
+441,shakeys,garden veggie pan crust pizza 15 large,7,g,16,mg,500,g,36,g,8,g,3,g,0,g,3,g,3,g
+442,shakeys,rustic garlic chicken thin crust pizza 15 large,7,g,25,mg,450,g,25,g,11,g,3,g,0,g,1,g,2,g
+443,shakeys,shakeys special pan crust pizza 12 medium,11,g,25,mg,555,g,30,g,10,g,4,g,0,g,2,g,3,g
+444,shakeys,texas bbq chicken pan crust pizza 15 large,6,g,22,mg,520,g,32,g,11,g,3,g,0,g,1,g,5,g
+445,shakeys,ultimate meat pan crust pizza 12 medium,15,g,45,mg,755,g,30,g,15,g,6,g,0,g,1,g,3,g
+446,shakeys,garden veggie pan crust pizza 12 medium,6,g,13,mg,400,g,30,g,7,g,2,g,0,g,2,g,3,g
+447,shakeys,green bell peppers,0,g,0,mg,3,g,4,g,1,g,0,g,0,g,2,g,3,g
+448,shakeys,mozzarella,14,g,50,mg,350,g,2,g,12,g,9,g,0,g,0,g,1,g
+449,shakeys,pepperocini,0,g,0,mg,360,g,1,g,0,g,0,g,0,g,1,g,0,g
+450,shakeys,baby corn,0,g,0,mg,55,g,2,g,1,g,0,g,0,g,1,g,2,g
+451,shakeys,sundried tomatoes,0.5,g,0,mg,540,g,21,g,6,g,0,g,0,g,8,g,12,g
+452,shakeys,grape tomatoes,0,g,0,mg,0,g,6,g,1,g,0,g,0,g,1,g,4,g
+453,shakeys,4 bean salad,0,g,0,mg,370,g,17,g,2,g,0,g,0,g,2,g,0,g
+454,shakeys,romaine lettue,0,g,0,mg,1,g,0,g,0,g,0,g,0,g,0,g,0,g
+455,shakeys,cottage cheese,4,g,25,mg,350,g,3,g,13,g,0,g,2,g,0,g,2,g
+456,shakeys,cheddar cheese,6,g,30,mg,175,g,1,g,14,g,5,g,0,g,0,g,0,g
+457,shakeys,black olives,3,g,0,mg,140,g,0,g,0,g,2,g,0,g,0,g,0,g
+458,shakeys,sunflower seeds,8,g,0,mg,66,g,4,g,3,g,1,g,0,g,1,g,1,g
+459,shakeys,croutons,2,g,0,mg,180,g,10,g,2,g,0,g,0,g,0,g,0,g
+460,shakeys,artichoke hearts,0,g,0,mg,150,g,2,g,1,g,0,g,0,g,1,g,1,g
+461,shakeys,red onions,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,0,g,2,g
+462,shakeys,feta cheese,7,g,25,mg,420,g,2,g,8,g,4.5,g,0,g,0,g,2,g
+463,shakeys,chicken breast strips,1.5,g,60,mg,690,g,1,g,18,g,0.5,g,0,g,0,g,0,g
+464,shakeys,4 way lettuce,0,g,0,mg,10,g,3,g,0,g,0,g,0,g,1,g,0,g
+465,shakeys,jalapenos,0,g,0,mg,1,g,2,g,0.5,g,0,g,0,g,0,g,1,g
+466,shakeys,matchsticks carrots,0,g,0,mg,19,g,3,g,1,g,0,g,0,g,1,g,3,g
+467,shakeys,diced tomatoes,0,g,0,mg,2,g,2,g,0,g,0,g,0,g,1,g,1,g
+468,shakeys,bacon bits,8,g,34,mg,570,g,0,g,12,g,2,g,0,g,0,g,0,g
+469,shakeys,pineapple tid bits,0,g,0,mg,10,g,24,g,0,g,0,g,0,g,1,g,24,g
+470,shakeys,garbanzo beans,1,g,0,mg,205,g,9,g,5,g,0,g,0,g,4,g,1,g
+471,shakeys,sliced mushrooms,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,0,g
+472,shakeys,beets,0,g,0,mg,125,g,4,g,0,g,0,g,0,g,1,g,5,g
+473,shakeys,50 50 cheese,8,g,26,mg,214,g,1,g,14,g,5,g,0,g,0,g,0,g
+474,shakeys,broccoli,0,g,0,mg,139,g,3,g,2,g,0,g,0,g,1,g,1,g
+475,shakeys,cucumber,0,g,0,mg,1,g,1,g,0,g,0,g,0,g,0,g,1,g
+476,shakeys,spinach,0,g,0,mg,24,g,1,g,0,g,0,g,0,g,1,g,0,g
+477,shakeys,giardiniera,5,g,0,mg,310,g,1,g,0,g,0,g,0,g,0,g,0,g
+478,shakeys,red kidney beans,0,g,0,mg,2,g,10,g,4,g,0,g,0,g,4,g,0,g
+479,shakeys,creamy caesar dressing,30,g,30,mg,840,g,4,g,4,g,5,g,0,g,0,g,4,g
+480,shakeys,buttermilk ranch dressing,22,g,20,mg,540,g,2,g,0,g,3,g,0,g,0,g,2,g
+481,shakeys,low cal italian dressing,2,g,0,mg,430,g,2,g,0,g,0,g,0,g,0,g,1,g
+482,shakeys,italian dressing,5,g,0,mg,740,g,4,g,0,g,0,g,0,g,0,g,4,g
+483,shakeys,fat free raspberry dressing,0,g,0,mg,180,g,7,g,0,g,0,g,0,g,0,g,4,g
+484,shakeys,thousand island dressing,26,g,30,mg,520,g,8,g,0,g,4,g,0,g,0,g,6,g
+485,shakeys,blue cheese dressing,18,g,30,mg,380,g,6,g,4,g,5,g,0,g,0,g,4,g
+486,shakeys,honey mustard dressing,13,g,5,mg,210,g,6,g,0,g,2,g,0,g,0,g,5,g
+487,shakeys,olive oil,14,g,10,mg,0,g,0,g,0,g,2,g,2,g,0,g,0,g
+488,shakeys,potato salad,3,g,5,mg,320,g,17,g,2,g,1,g,0,g,2,g,3,g
+489,shakeys,family house salad without dressing,0,g,0,mg,201,g,16,g,3,g,0,g,0,g,2,g,3,g
+490,shakeys,family antipasto salad,8,g,35,mg,650,g,9,g,10,g,2,g,0,g,2,g,2,g
+491,shakeys,marinara sauce,0,g,0,mg,520,g,10,g,2,g,0,g,0,g,2,g,8,g
+492,shakeys,meat pasta sauce,3,g,7,mg,580,g,10,g,4,g,1,g,0,g,2,g,8,g
+493,shakeys,mojo potatoes,11.5,g,0,mg,547,g,25.5,g,2.5,g,2,g,3.5,g,2.5,g,0,g
+494,shakeys,garlic bread,4,g,0,mg,268,g,30,g,5,g,1,g,0,g,1,g,1,g
+495,shakeys,pepperoni pizza twist,8,g,20,mg,453,g,29,g,5,g,4,g,0,g,2,g,3,g
+496,shakeys,cut corn,1,g,0,mg,360,g,17,g,2,g,0,g,0,g,2,g,4,g
+497,shakeys,mashed potatoes,1,g,0,mg,238,g,13,g,1,g,0,g,0,g,1,g,1,g
+498,shakeys,chicken noodle soup,4,g,30,mg,900,g,18,g,7,g,1,g,0,g,2,g,5,g
+499,shakeys,banana chips,18,g,0,mg,4,g,32,g,1,g,16,g,0,g,4,g,9,g
+500,shakeys,anchovies,0.4,g,6,mg,305,g,0,g,1.4,g,0,g,0,g,0,g,0,g
+501,shakeys,ham,0.3,g,4,mg,91,g,0,g,1.4,g,0.1,g,0,g,0,g,0,g
+502,shakeys,1000 island dressing,26,g,30,mg,520,g,8,g,0,g,4,g,0,g,0,g,6,g
+503,shakeys,4 bean salad,0,g,0,mg,370,g,17,g,2,g,0,g,0,g,2,g,0,g
+504,shakeys,4 way lettuce,0,g,0,mg,10,g,3,g,0,g,0,g,0,g,1,g,0,g
+505,shakeys,artichoke hearts,0,g,0,mg,0,g,0,g,2,g,0,g,0,g,0,g,1,g
+506,shakeys,baby corn,0,g,0,mg,55,g,2,g,1,g,0,g,0,g,1,g,2,g
+507,shakeys,bacon bits,8,g,35,mg,570,g,0,g,12,g,2,g,0,g,0,g,0,g
+508,shakeys,baked chicken buffet only breast,2,g,115,mg,125,g,0,g,45,g,1,g,0,g,0,g,0,g
+509,shakeys,baked chicken buffet only leg,6,g,60,mg,60,g,0,g,20,g,2,g,0,g,0,g,0,g
+510,shakeys,baked chicken buffet only thigh,20,g,105,mg,95,g,0,g,8,g,5,g,0,g,0,g,0,g
+511,shakeys,baked chicken buffet only wing,10,g,35,mg,30,g,0,g,15,g,2,g,0,g,0,g,0,g
+512,shakeys,banana chips,18,g,0,mg,0,g,32,g,1,g,16,g,0,g,4,g,9,g
+513,shakeys,beets,0,g,0,mg,125,g,4,g,0,g,0,g,0,g,1,g,5,g
+514,shakeys,big island bbq pizza pan crust 12 inch,6,g,20,mg,550,g,30,g,8,g,2,g,0,g,1,g,5,g
+515,shakeys,big island bbq pizza pan crust 15 inch,7,g,20,mg,690,g,36,g,10,g,2,g,0,g,1,g,6,g
+516,shakeys,big island bbq pizza pan crust 9 inch,4,g,10,mg,360,g,21,g,5,g,1,g,0,g,1,g,3,g
+517,shakeys,big island bbq pizza thin crust 12 inch,6,g,20,mg,450,g,19,g,7,g,2,g,0,g,1,g,4,g
+518,shakeys,big island bbq pizza thin crust 15 inch,7,g,20,mg,580,g,25,g,9,g,2,g,0,g,1,g,5,g
+519,shakeys,big island bbq pizza thin crust 9 inch,4,g,10,mg,290,g,14,g,5,g,1,g,0,g,1,g,2,g
+520,shakeys,black olives,3,g,0,mg,140,g,0,g,0,g,2,g,0,g,0,g,0,g
+521,shakeys,blue cheese dressing,18,g,30,mg,380,g,6,g,4,g,5,g,0,g,0,g,4,g
+522,shakeys,boneless strips,7,g,20,mg,350,g,10,g,8,g,1,g,0,g,2,g,0,g
+523,shakeys,broccoli,0,g,15,mg,140,g,3,g,2,g,0,g,0,g,1,g,1,g
+524,shakeys,buttermilk ranch dressing,22,g,20,mg,540,g,2,g,0,g,3,g,0,g,0,g,2,g
+525,shakeys,california pizzarito pizza pan crust 12 inch,12,g,30,mg,380,g,30,g,10,g,5,g,0,g,2,g,3,g
+526,shakeys,california pizzarito pizza pan crust 15 inch,15,g,35,mg,460,g,35,g,12,g,7,g,0,g,2,g,3,g
+527,shakeys,california pizzarito pizza pan crust 9 inch,8,g,20,mg,260,g,21,g,7,g,3,g,0,g,2,g,2,g
+528,shakeys,california pizzarito pizza thin crust 12 inch,11,g,30,mg,280,g,19,g,9,g,5,g,0,g,2,g,2,g
+529,shakeys,california pizzarito pizza thin crust 15 inch,14,g,35,mg,350,g,24,g,11,g,7,g,0,g,2,g,2,g
+530,shakeys,california pizzarito pizza thin crust 9 inch,8,g,20,mg,190,g,14,g,7,g,3,g,0,g,2,g,1,g
+531,shakeys,cheddar cheese,6,g,30,mg,180,g,1,g,14,g,5,g,0,g,0,g,0,g
+532,shakeys,cheese 50 50,8,g,25,mg,210,g,1,g,14,g,5,g,0,g,0,g,0,g
+533,shakeys,cheese pizza pan crust 12 inch,5,g,15,mg,360,g,30,g,7,g,2,g,0,g,2,g,2,g
+534,shakeys,cheese pizza pan crust 15 inch,6,g,15,mg,450,g,34,g,8,g,3,g,0,g,2,g,3,g
+535,shakeys,cheese pizza pan crust 9 inch,3,g,10,mg,240,g,20,g,6,g,2,g,0,g,1,g,2,g
+536,shakeys,cheese pizza thin crust 12 inch,5,g,15,mg,260,g,17,g,7,g,2,g,0,g,1,g,2,g
+537,shakeys,cheese pizza thin crust 15 inch,6,g,15,mg,350,g,25,g,7,g,3,g,0,g,2,g,2,g
+538,shakeys,cheese pizza thin crust 7 inch,3,g,10,mg,200,g,15,g,5,g,2,g,0,g,1,g,1,g
+539,shakeys,cheese pizza thin crust 9 inch,3,g,10,mg,170,g,13,g,5,g,2,g,0,g,1,g,1,g
+540,shakeys,chicken breast strips,0,g,55,mg,690,g,0,g,11,g,0,g,0,g,0,g,1,g
+541,shakeys,chicken noodle soup,4,g,30,mg,900,g,18,g,7,g,1,g,0,g,2,g,5,g
+542,shakeys,chicken wings 6 piece,30,g,145,mg,970,g,13,g,23,g,8,g,0,g,0,g,1,g
+543,shakeys,chicken wings drumette,5,g,25,mg,160,g,2,g,4,g,2,g,0,g,0,g,1,g
+544,shakeys,chocolate pudding,4,g,0,mg,160,g,25,g,4,g,1,g,0,g,0,g,29,g
+545,shakeys,cottage cheese,4,g,25,mg,350,g,3,g,13,g,0,g,2,g,0,g,2,g
+546,shakeys,creamy ceasar dressing,30,g,30,mg,840,g,4,g,4,g,5,g,0,g,0,g,4,g
+547,shakeys,croutons,2,g,0,mg,180,g,10,g,2,g,0,g,0,g,0,g,0,g
+548,shakeys,cucumber,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+549,shakeys,cut corn,1,g,0,mg,360,g,17,g,2,g,0,g,0,g,2,g,4,g
+550,shakeys,diced tomatoes,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,1,g
+551,shakeys,enchilada,2,g,25,mg,160,g,37,g,4,g,1,g,0,g,1,g,1,g
+552,shakeys,family antipato salad,8,g,35,mg,650,g,9,g,10,g,2,g,0,g,2,g,2,g
+553,shakeys,family house salad,0,g,200,mg,15,g,2,g,2,g,0,g,0,g,3,g,3,g
+554,shakeys,fat free raspberry dressing,0,g,0,mg,180,g,7,g,0,g,0,g,0,g,0,g,4,g
+555,shakeys,feta cheese,6,g,35,mg,420,g,2,g,5,g,0,g,0,g,0,g,2,g
+556,shakeys,firehouse pizza pan crust 12 inch,13,g,30,mg,600,g,30,g,11,g,5,g,0,g,2,g,3,g
+557,shakeys,firehouse pizza pan crust 15 inch,16,g,40,mg,750,g,36,g,13,g,7,g,0,g,3,g,4,g
+558,shakeys,firehouse pizza pan crust 9 inch,8,g,20,mg,390,g,21,g,7,g,3,g,0,g,1,g,2,g
+559,shakeys,firehouse pizza thin crust 12 inch,12,g,30,mg,500,g,20,g,9,g,5,g,0,g,2,g,2,g
+560,shakeys,firehouse pizza thin crust 15 inch,16,g,40,mg,650,g,26,g,12,g,7,g,0,g,2,g,3,g
+561,shakeys,firehouse pizza thin crust 9 inch,6,g,20,mg,320,g,15,g,6,g,3,g,0,g,1,g,1,g
+562,shakeys,garbanzo beans,1,g,0,mg,210,g,9,g,5,g,0,g,0,g,4,g,1,g
+563,shakeys,garden veggie pizza pan crust 12 inch,6,g,15,mg,400,g,30,g,7,g,2,g,0,g,2,g,3,g
+564,shakeys,garden veggie pizza pan crust 15 inch,7,g,15,mg,500,g,36,g,8,g,3,g,0,g,3,g,3,g
+565,shakeys,garden veggie pizza pan crust 9 inch,4,g,10,mg,260,g,21,g,5,g,2,g,0,g,1,g,2,g
+566,shakeys,garden veggie pizza thin crust 12 inch,6,g,15,mg,300,g,19,g,6,g,2,g,0,g,2,g,2,g
+567,shakeys,garden veggie pizza thin crust 15 inch,7,g,15,mg,400,g,26,g,8,g,3,g,0,g,2,g,3,g
+568,shakeys,garden veggie pizza thin crust 9 inch,4,g,10,mg,200,g,14,g,4,g,2,g,0,g,1,g,1,g
+569,shakeys,garlic bread,4,g,0,mg,270,g,30,g,5,g,1,g,0,g,1,g,1,g
+570,shakeys,giardiniera,0,g,0,mg,310,g,1,g,0,g,0,g,0,g,0,g,0,g
+571,shakeys,golden fried chicken breast,11,g,110,mg,1390,g,16,g,50,g,2,g,0,g,1,g,0,g
+572,shakeys,golden fried chicken leg,10,g,60,mg,550,g,6,g,15,g,2,g,0,g,0,g,0,g
+573,shakeys,golden fried chicken thigh,24,g,105,mg,850,g,9,g,23,g,6,g,0,g,0,g,0,g
+574,shakeys,golden fried chicken wing,9,g,35,mg,320,g,4,g,8,g,2,g,0,g,0,g,0,g
+575,shakeys,grape tomatoes,0,g,0,mg,0,g,6,g,1,g,0,g,0,g,1,g,4,g
+576,shakeys,gravy beef,0,g,0,mg,270,g,3,g,0,g,0,g,0,g,0,g,0,g
+577,shakeys,gravy chicken,0,g,0,mg,320,g,4,g,0,g,0,g,0,g,0,g,0,g
+578,shakeys,green bell peppers,0,g,0,mg,0,g,4,g,1,g,0,g,0,g,2,g,3,g
+579,shakeys,ham,3,g,50,mg,820,g,1,g,11,g,0,g,0,g,0,g,0,g
+580,shakeys,hawaiian delight pizza pan crust 12 inch,5,g,15,mg,460,g,35,g,9,g,3,g,0,g,2,g,5,g
+581,shakeys,hawaiian delight pizza pan crust 15 inch,7,g,20,mg,560,g,40,g,10,g,3,g,0,g,2,g,6,g
+582,shakeys,hawaiian delight pizza pan crust 9 inch,3,g,10,mg,300,g,21,g,6,g,2,g,0,g,1,g,3,g
+583,shakeys,hawaiian delight pizza thin crust 12 inch,5,g,15,mg,360,g,20,g,7,g,3,g,0,g,1,g,4,g
+584,shakeys,hawaiian delight pizza thin crust 15 inch,6,g,20,mg,450,g,26,g,9,g,3,g,0,g,2,g,5,g
+585,shakeys,hawaiian delight pizza thin crust 9 inch,3,g,10,mg,230,g,14,g,5,g,2,g,0,g,1,g,2,g
+586,shakeys,honey mustard dressing,13,g,5,mg,210,g,6,g,0,g,2,g,0,g,0,g,5,g
+587,shakeys,italian dressing,5,g,0,mg,740,g,4,g,0,g,0,g,0,g,0,g,4,g
+588,shakeys,italian dressing low cal,2,g,0,mg,430,g,2,g,0,g,0,g,0,g,0,g,1,g
+589,shakeys,jalapeno,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+590,shakeys,macaroni and cheese,17,g,35,mg,1110,g,33,g,14,g,9,g,0,g,4,g,4,g
+591,shakeys,macaroni salad,14,g,10,mg,540,g,19,g,5,g,4,g,0,g,1,g,7,g
+592,shakeys,mashed potatoes,1,g,0,mg,240,g,13,g,1,g,0,g,0,g,1,g,1,g
+593,shakeys,matchstick carrots,0,g,0,mg,20,g,3,g,1,g,0,g,0,g,1,g,3,g
+594,shakeys,mojo potatoes,11,g,0,mg,550,g,25,g,3,g,2,g,3,g,3,g,0,g
+595,shakeys,mojo potatoes large,46,g,0,mg,2190,g,101,g,11,g,9,g,13,g,11,g,0,g
+596,shakeys,mojo potatoes medium,23,g,0,mg,1090,g,51,g,5,g,4,g,7,g,5,g,0,g
+597,shakeys,mojo potatoes small,11,g,0,mg,550,g,25,g,3,g,2,g,3,g,3,g,0,g
+598,shakeys,mozzarella,8,g,45,mg,350,g,1,g,15,g,0,g,0,g,0,g,1,g
+599,shakeys,olive oil,14,g,10,mg,0,g,0,g,0,g,2,g,2,g,0,g,0,g
+600,shakeys,parfait,2,g,0,mg,70,g,19,g,2,g,2,g,0,g,0,g,17,g
+601,shakeys,pasta penne rigate,1,g,0,mg,25,g,42,g,7,g,0,g,0,g,1,g,1,g
+602,shakeys,pasta spaghetti,1,g,0,mg,25,g,42,g,7,g,0,g,0,g,1,g,1,g
+603,shakeys,pasta sauce marinara,0,g,0,mg,520,g,10,g,2,g,0,g,0,g,2,g,8,g
+604,shakeys,pasta sauce meat,3,g,5,mg,580,g,10,g,4,g,1,g,0,g,2,g,8,g
+605,shakeys,peperocini,0,g,0,mg,360,g,1,g,0,g,0,g,0,g,1,g,0,g
+606,shakeys,pepperoni pizza twists,8,g,20,mg,450,g,29,g,0,g,4,g,0,g,2,g,0,g
+607,shakeys,pineapple tid bits,0,g,0,mg,10,g,24,g,0,g,0,g,0,g,1,g,26,g
+608,shakeys,potato salad,3,g,5,mg,320,g,17,g,2,g,1,g,0,g,2,g,3,g
+609,shakeys,raisins,0,g,0,mg,0,g,22,g,0,g,0,g,0,g,1,g,10,g
+610,shakeys,red kidney beans,0,g,0,mg,0,g,10,g,4,g,0,g,0,g,4,g,0,g
+611,shakeys,red onion,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,0,g,2,g
+612,shakeys,rice mexican fiesta,0,g,0,mg,320,g,22,g,2,g,0,g,0,g,1,g,1,g
+613,shakeys,rice pilaf,3,g,5,mg,440,g,22,g,2,g,2,g,0,g,0,g,1,g
+614,shakeys,romaine lettuce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+615,shakeys,rustic garlic chicken pizza pan crust 12 inch,6,g,20,mg,450,g,30,g,10,g,3,g,0,g,2,g,1,g
+616,shakeys,rustic garlic chicken pizza pan crust 15 inch,8,g,25,mg,560,g,35,g,13,g,3,g,0,g,2,g,2,g
+617,shakeys,rustic garlic chicken pizza pan crust 9 inch,4,g,15,mg,290,g,20,g,7,g,2,g,0,g,1,g,1,g
+618,shakeys,rustic garlic chicken pizza thin crust 12 inch,6,g,20,mg,340,g,18,g,9,g,3,g,0,g,1,g,1,g
+619,shakeys,rustic garlic chicken pizza thin crust 15 inch,7,g,25,mg,450,g,25,g,11,g,3,g,0,g,1,g,2,g
+620,shakeys,rustic garlic chicken pizza thin crust 9 inch,4,g,15,mg,230,g,13,g,6,g,2,g,0,g,1,g,1,g
+621,shakeys,shakeys special pizza pan crust 12 inch,11,g,25,mg,560,g,30,g,10,g,4,g,0,g,2,g,3,g
+622,shakeys,shakeys special pizza pan crust 15 inch,12,g,30,mg,690,g,35,g,12,g,5,g,0,g,2,g,4,g
+623,shakeys,shakeys special pizza pan crust 9 inch,7,g,15,mg,360,g,20,g,6,g,3,g,0,g,1,g,2,g
+624,shakeys,shakeys special pizza thin crust 12 inch,10,g,25,mg,450,g,18,g,8,g,4,g,0,g,1,g,2,g
+625,shakeys,shakeys special pizza thin crust 15 inch,13,g,30,mg,590,g,25,g,11,g,5,g,0,g,2,g,3,g
+626,shakeys,shakeys special pizza thin crust 9 inch,7,g,15,mg,290,g,13,g,6,g,3,g,0,g,1,g,1,g
+627,shakeys,sliced mushrooms,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+628,shakeys,sliced peaches,0,g,0,mg,5,g,25,g,1,g,0,g,0,g,1,g,14,g
+629,shakeys,spinach,0,g,0,mg,25,g,1,g,0,g,0,g,0,g,1,g,0,g
+630,shakeys,sundried tomatoes,0,g,0,mg,1350,g,9,g,3,g,0,g,0,g,3,g,10,g
+631,shakeys,sunflower seeds,8,g,0,mg,65,g,4,g,3,g,1,g,0,g,1,g,1,g
+632,shakeys,texas bbq chicken pizza pan crust 12 inch,6,g,20,mg,520,g,32,g,11,g,3,g,0,g,1,g,5,g
+633,shakeys,texas bbq chicken pizza pan crust 15 inch,7,g,30,mg,680,g,40,g,13,g,3,g,0,g,2,g,8,g
+634,shakeys,texas bbq chicken pizza pan crust 9 inch,5,g,15,mg,340,g,22,g,7,g,2,g,0,g,1,g,4,g
+635,shakeys,texas bbq chicken pizza thin crust 12 inch,5,g,20,mg,420,g,20,g,9,g,3,g,0,g,1,g,5,g
+636,shakeys,texas bbq chicken pizza thin crust 15 inch,7,g,30,mg,570,g,30,g,11,g,3,g,0,g,1,g,7,g
+637,shakeys,texas bbq chicken pizza thin crust 9 inch,3,g,15,mg,270,g,15,g,6,g,2,g,0,g,1,g,3,g
+638,shakeys,ultimate meat pizza pan crust 12 inch,15,g,45,mg,760,g,30,g,15,g,6,g,0,g,1,g,3,g
+639,shakeys,ultimate meat pizza pan crust 15 inch,18,g,55,mg,950,g,35,g,18,g,7,g,0,g,2,g,3,g
+640,shakeys,ultimate meat pizza pan crust 9 inch,9,g,30,mg,490,g,20,g,9,g,4,g,0,g,1,g,2,g
+641,shakeys,ultimate meat pizza thin crust 12 inch,14,g,45,mg,650,g,20,g,13,g,6,g,0,g,1,g,2,g
+642,shakeys,ultimate meat pizza thin crust 15 inch,18,g,55,mg,840,g,25,g,17,g,7,g,0,g,2,g,2,g
+643,shakeys,ultimate meat pizza thin crust 9 inch,9,g,30,mg,420,g,15,g,8,g,4,g,0,g,1,g,1,g
+644,shakeys,vanilla pudding,1,g,0,mg,160,g,25,g,2,g,0,g,0,g,0,g,23,g
+645,shakeys,vegetables normandy blend,0,g,0,mg,30,g,5,g,0,g,0,g,0,g,2,g,0,g
+646,shakeys,vegetables winter mix,0,g,0,mg,25,g,4,g,0,g,0,g,0,g,2,g,0,g
+647,shakeys,vinegar,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+648,shari anns,pumpkin,0,g,0,mg,0,g,10,g,1,g,0,g,0,g,4,g,4,g
+649,shari anns,organic black eye peas whole,2,g,0,mg,100,g,18,g,7,g,0,g,0,g,5,g,3,g
+650,shari anns,organic cannellini beans whole,1,g,0,mg,100,g,18,g,7,g,0,g,0,g,6,g,1,g
+651,shari anns,refried beans pinto w roasted garlic,0,g,0,mg,330,g,20,g,8,g,0,g,0,g,4,g,0,g
+652,shari anns,refried beans pinto,0,g,0,mg,330,g,20,g,8,g,0,g,0,g,4,g,0,g
+653,shari anns,organic white beans whole,0,g,0,mg,100,g,16,g,6,g,0,g,0,g,4,g,3,g
+654,shari anns,refried beans pinto w green chile and lime,0,g,0,mg,430,g,20,g,8,g,0,g,0,g,4,g,0,g
+655,shari anns,organic black beans whole,0,g,0,mg,100,g,16,g,6,g,0,g,0,g,4,g,3,g
+656,shari anns,organic kidney beans whole,0,g,0,mg,100,g,15,g,8,g,0,g,0,g,4,g,3,g
+657,shari anns,organic garbanzo beans whole,2,g,0,mg,100,g,18,g,7,g,0,g,0,g,5,g,3,g
+658,shari anns,refried beans traditional black,0,g,0,mg,330,g,20,g,8,g,0,g,0,g,4,g,0,g
+659,shari anns,refried beans black w jalapeno,0,g,0,mg,390,g,20,g,8,g,0,g,0,g,4,g,0,g
+660,shari anns,deep dish washington apple pie,27,g,0,mg,360,g,83,g,4,g,10,g,0,g,0,g,48,g
+661,shari anns,spicy veggie chili,1,g,0,mg,480,g,45,g,10,g,0,g,0,g,9,g,6,g
+662,shari anns,organic chicken vegetable,2.5,g,10,mg,710,g,15,g,5,g,0.5,g,0,g,2,g,4,g
+663,shari anns,organic indian black bean and rice,1,g,0,mg,320,g,30,g,8,g,0,g,0,g,4,g,0,g
+664,shari anns,organic vegetable barley,1.5,g,0,mg,650,g,18,g,4,g,0,g,0,g,4,g,3,g
+665,shari anns,organic chicken noodle,2.5,g,15,mg,710,g,11,g,5,g,0.5,g,0,g,1,g,1,g
+666,shari anns,organic tomato w red bell pepper,0,g,0,mg,470,g,19,g,6,g,0,g,0,g,3,g,2,g
+667,shari anns,organic italian white bean,0,g,0,mg,490,g,32,g,10,g,0,g,0,g,4,g,0,g
+668,shari anns,organic great plains split pea,0,g,0,mg,410,g,26,g,10,g,0,g,0,g,2,g,4,g
+669,shari anns,organic chicken rice,2.5,g,10,mg,710,g,12,g,4,g,0.5,g,0,g,1,g,2,g
+670,shari anns,organic minestrone,2.5,g,0,mg,680,g,20,g,4,g,0,g,0,g,3,g,5,g
+671,shari anns,organic spicy french green lentil,0,g,0,mg,320,g,22,g,9,g,0,g,0,g,1,g,0,g
+672,shari anns,organic tomato w roasted garlic,0,g,0,mg,470,g,12,g,2,g,0,g,0,g,0,g,9,g
+673,shari anns,organic chicken broth,1.5,g,0,mg,730,g,1,g,1,g,0,g,0,g,0,g,0,g
+674,shari anns,organic potato and cheddar,2.5,g,10,mg,480,g,15,g,4,g,1.5,g,0,g,1,g,2,g
+675,shari anns,organic spicy mexican bean,0,g,0,mg,400,g,38,g,12,g,0,g,0,g,8,g,9,g
+676,shari anns,organic cream of tomato,0,g,0,mg,450,g,17,g,4,g,0,g,0,g,0,g,12,g
+677,shari anns,organic french onion vegetarian,0,g,0,mg,560,g,13,g,3,g,0,g,0,g,0,g,1,g
+678,sharis,loaded tater tots,110,g,107,mg,3270,g,101,g,38,g,30,g,0,g,0,g,23,g
+679,sharis,chicken tenders,75,g,96,mg,2950,g,86,g,41,g,12,g,0,g,1,g,21,g
+680,sharis,sharis sampler basket,175,g,106,mg,4340,g,151,g,48,g,34,g,0,g,0,g,15,g
+681,sharis,mozzarella sticks with marinara,32,g,40,mg,1580,g,39,g,20,g,13,g,0,g,0,g,5,g
+682,sharis,nachos,85,g,217,mg,4210,g,75,g,61,g,41,g,2,g,0,g,7,g
+683,sharis,chocolate shake,30,g,107,mg,320,g,89,g,12,g,17,g,0,g,0,g,81,g
+684,sharis,strawberry shake,30,g,107,mg,330,g,84,g,12,g,17,g,0,g,0,g,79,g
+685,sharis,vanilla shake,30,g,107,mg,310,g,63,g,11,g,17,g,0,g,0,g,59,g
+686,sharis,ultimate country fried steak and eggs breakfast,72,g,394,mg,1980,g,67,g,37,g,23,g,1,g,0,g,7,g
+687,sharis,buttermilk pancakes breakfast,27,g,15,mg,1940,g,123,g,14,g,6,g,0,g,0,g,29,g
+688,sharis,meat lovers breakfast skillet,86,g,450,mg,2210,g,38,g,46,g,30,g,0,g,0,g,5,g
+689,sharis,spring spinach breakfast omelette,52,g,758,mg,620,g,10,g,37,g,17,g,0,g,0,g,3,g
+690,sharis,breakfast side stuffed hashbrowns,28,g,37,mg,880,g,32,g,11,g,10,g,0,g,0,g,2,g
+691,sharis,the sharis breakfast sampler,105,g,584,mg,3480,g,116,g,52,g,32,g,0,g,0,g,24,g
+692,sharis,classic ham and cheese breakfast omelette,52,g,790,mg,1330,g,7,g,44,g,19,g,0,g,0,g,5,g
+693,sharis,breakfast grilled sausage and two eggs standard breakfast,57,g,417,mg,930,g,2,g,25,g,22,g,0,g,0,g,1,g
+694,sharis,sirloin steak and eggs breakfast,52,g,462,mg,1000,g,31,g,48,g,16,g,0,g,0,g,2,g
+695,sharis,traditional french toast breakfast,62,g,152,mg,1000,g,82,g,21,g,12,g,0,g,1,g,10,g
+696,sharis,breakfast caramel pecan roll,41,g,58,mg,620,g,182,g,18,g,16,g,0,g,0,g,103,g
+697,sharis,rons favorite breakfast omelette,48,g,778,mg,920,g,8,g,40,g,16,g,0,g,0,g,5,g
+698,sharis,waffle breakfast,14,g,1,mg,780,g,48,g,5,g,4,g,0,g,0,g,6,g
+699,sharis,breakfast oatmeal,21,g,10,mg,390,g,88,g,14,g,1,g,0,g,0,g,35,g
+700,sharis,bacon mushroom and pepperjack cheese breakfast omelette,54,g,763,mg,1220,g,6,g,38,g,17,g,0,g,0,g,3,g
+701,sharis,add on breakfast sourdough toast,25,g,1,mg,990,g,72,g,14,g,6,g,0,g,0,g,4,g
+702,sharis,breakfast side sausage,66,g,135,mg,1200,g,0,g,21,g,27,g,0,g,0,g,0,g
+703,sharis,add on breakfast hash browns and sourdough toast,41,g,1,mg,1540,g,103,g,17,g,9,g,0,g,0,g,6,g
+704,sharis,breakfast side biscuits and gravy large,47,g,89,mg,2960,g,118,g,29,g,27,g,0,g,0,g,21,g
+705,sharis,add on breakfast pancakes without butter or syrup,22,g,10,mg,1320,g,82,g,10,g,5,g,0,g,0,g,19,g
+706,sharis,three egg breakfast omelette,20,g,491,mg,190,g,1,g,17,g,5,g,0,g,4,g,0,g
+707,sharis,breakfast cinnama sation roll,31,g,57,mg,410,g,131,g,16,g,16,g,0,g,0,g,60,g
+708,sharis,breakfast bowl of fresh fruit,0,g,0,mg,30,g,23,g,2,g,0,g,0,g,2,g,20,g
+709,sharis,add on breakfast biscuit and gravy,25,g,46,mg,1500,g,59,g,15,g,14,g,0,g,0,g,10,g
+710,sharis,add on breakfast french toast,45,g,101,mg,700,g,55,g,14,g,9,g,0,g,0,g,7,g
+711,sharis,add on breakfast hash browns and wheat toast,44,g,1,mg,1460,g,103,g,19,g,10,g,0,g,0,g,10,g
+712,sharis,add on breakfast hash brown and rye toast,41,g,1,mg,1540,g,103,g,15,g,9,g,0,g,0,g,6,g
+713,sharis,combo breakfast with link sausage,57,g,415,mg,920,g,1,g,25,g,22,g,0,g,0,g,0,g
+714,sharis,tbone breakfast,80,g,381,mg,2500,g,33,g,86,g,25,g,0,g,0,g,4,g
+715,sharis,bacon and eggs breakfast,22,g,342,mg,870,g,1,g,20,g,7,g,0,g,0,g,0,g
+716,sharis,tomato avocado benedict breakfast,55,g,400,mg,1410,g,72,g,23,g,16,g,0,g,0,g,9,g
+717,sharis,add on breafast white toast,23,g,1,mg,670,g,48,g,10,g,6,g,0,g,2,g,4,g
+718,sharis,add on breakfast wheat toast,28,g,1,mg,910,g,72,g,16,g,7,g,0,g,0,g,8,g
+719,sharis,breakfast side bacon,12,g,20,mg,1000,g,0,g,12,g,4,g,0,g,0,g,0,g
+720,sharis,prime rib benedict breakfast,48,g,395,mg,2420,g,72,g,36,g,17,g,0,g,0,g,9,g
+721,sharis,breakfast side zenners double smoked sausage,19,g,75,mg,1730,g,5,g,23,g,5,g,0,g,0,g,1,g
+722,sharis,country sausage benedict breakfast,102,g,505,mg,3220,g,90,g,44,g,40,g,0,g,0,g,13,g
+723,sharis,classic ham benedict breakfast,51,g,451,mg,2250,g,69,g,36,g,17,g,0,g,0,g,11,g
+724,sharis,cinnama sation french toast breakfast,60,g,206,mg,740,g,176,g,25,g,18,g,0,g,0,g,90,g
+725,sharis,add on ham for breakfast omelette,6,g,10,mg,500,g,0,g,6,g,2,g,0,g,0,g,0,g
+726,sharis,add on breakfast strawberry jam,1,g,1,mg,30,g,38,g,0,g,0.5,g,0,g,0,g,37,g
+727,sharis,breakfast side hash browns,15,g,0,mg,550,g,30,g,3,g,3,g,0,g,0,g,2,g
+728,sharis,add on breakfast marionberry jam,1,g,1,mg,0,g,35,g,1,g,0.5,g,0,g,0,g,31,g
+729,sharis,combo breakfast with bacon,19,g,337,mg,620,g,1,g,17,g,6,g,0,g,0,g,0,g
+730,sharis,add on breakfast rye toast,25,g,1,mg,990,g,72,g,12,g,6,g,0,g,0,g,4,g
+731,sharis,breakfast side bacon,12,g,20,mg,1000,g,0,g,12,g,4,g,0,g,0,g,0,g
+732,sharis,combo breakfast with double smoked sausage,32,g,405,mg,1850,g,6,g,34,g,9,g,0,g,0,g,1,g
+733,sharis,add on breakfast black pepper and cheese biscuit,14,g,18,mg,1030,g,51,g,11,g,8,g,0,g,0,g,6,g
+734,sharis,add on breakfast hash browns and white toast,39,g,0,mg,1220,g,79,g,13,g,9,g,0,g,0,g,6,g
+735,sharis,add on breakfast english muffin,11,g,1,mg,340,g,28,g,5,g,3,g,0,g,0,g,2,g
+736,sharis,double smoked sausage and eggs breakfast,32,g,403,mg,1850,g,6,g,34,g,9,g,0,g,0,g,1,g
+737,sharis,breakfast side cottage cheese,1,g,8,mg,300,g,4,g,10,g,0.5,g,0,g,0,g,3,g
+738,sharis,add on breakfast hash browns and english muffin,26,g,1,mg,900,g,58,g,8,g,6,g,0,g,0,g,4,g
+739,sharis,northwest marionberry pie,29,g,0,mg,360,g,66,g,5,g,9,g,0,g,3,g,34,g
+740,sharis,no sugar added northwest marionberry pie,29,g,0,mg,470,g,51,g,5,g,9,g,0,g,0,g,6,g
+741,sharis,dutch apple pie,23,g,0,mg,320,g,72,g,3,g,9,g,0,g,2,g,43,g
+742,sharis,tropical coconut cream pie,37,g,83,mg,370,g,63,g,7,g,22,g,0,g,0,g,42,g
+743,sharis,lemon meringue delight pie,15,g,50,mg,270,g,73,g,3,g,5,g,0,g,0,g,52,g
+744,sharis,chocolate cream supreme pie,30,g,67,mg,310,g,54,g,6,g,16,g,0,g,1,g,34,g
+745,sharis,peanut butter chocolate silk pie,45,g,96,mg,300,g,51,g,9,g,18,g,0,g,4,g,34,g
+746,sharis,smores galore pie,31,g,165,mg,270,g,59,g,6,g,13,g,0,g,2,g,43,g
+747,sharis,banana cream dream pie,26,g,57,mg,260,g,48,g,5,g,16,g,0,g,1,g,29,g
+748,sharis,northwest berry trio pie,28,g,0,mg,360,g,73,g,4,g,9,g,0,g,3,g,37,g
+749,sharis,sour cream lemon pie,32,g,68,mg,290,g,59,g,5,g,17,g,0,g,0,g,38,g
+750,sharis,montana cherry pie,29,g,0,mg,290,g,63,g,5,g,8,g,0,g,2,g,34,g
+751,sharis,northwest marionberry cheese pie,35,g,75,mg,450,g,65,g,6,g,20,g,0,g,0,g,48,g
+752,sharis,peach perfection pie,29,g,0,mg,290,g,63,g,5,g,8,g,0,g,3,g,34,g
+753,sharis,creamy caramel pecan crunch pie,49,g,93,mg,440,g,67,g,6,g,2,g,0,g,0,g,44,g
+754,sharis,deep dish washington apple pie slice,27,g,0,mg,320,g,74,g,3,g,10,g,0,g,0,g,41,g
+755,sharis,strawberry rhubard delight pie,29,g,0,mg,480,g,64,g,5,g,15,g,0,g,0,g,27,g
+756,sharis,fresh pecan pie,5,g,227,mg,260,g,94,g,4,g,2,g,0,g,0,g,63,g
+757,sharis,french fries,32,g,0,mg,80,g,48,g,5,g,4,g,0,g,4,g,0,g
+758,sharis,cuban sandwich,30,g,109,mg,3160,g,60,g,41,g,98,g,0,g,2,g,7,g
+759,sharis,prime rib dip sandwich,33,g,71,mg,3130,g,63,g,33,g,11,g,0,g,2,g,2,g
+760,sharis,traditional club sandwich,72,g,55,mg,3100,g,114,g,49,g,20,g,1,g,0,g,11,g
+761,sharis,grilled ham and four cheese melt,68,g,125,mg,2450,g,78,g,50,g,27,g,1,g,0,g,9,g
+762,sharis,traditional patty melt,54,g,114,mg,1890,g,93,g,46,g,14,g,0,g,0,g,12,g
+763,sharis,cheddar cheeseburger,43,g,120,mg,1190,g,47,g,41,g,16,g,0,g,2,g,10,g
+764,sharis,northwest steak salad with raspberry vinaigrette dressing,50,g,148,mg,1200,g,65,g,44,g,16,g,0,g,0,g,34,g
+765,sharis,rustic tuscan chicken salad with italian dressing,32,g,98,mg,1770,g,21,g,35,g,5,g,0,g,1,g,4,g
+766,sharis,wedge salad with bleu cheese dressing and italian vinaigrette,58,g,63,mg,1520,g,14,g,17,g,16,g,0,g,6,g,9,g
+767,sharis,deli turkey sandwich,32,g,81,mg,2640,g,80,g,43,g,4,g,0,g,3,g,14,g
+768,sharis,philly style patty melt,85,g,110,mg,1760,g,87,g,51,g,24,g,0,g,0,g,8,g
+769,sharis,caesar salad with dressing,40,g,35,mg,1030,g,15,g,14,g,11,g,0,g,3,g,1,g
+770,sharis,bacon and cheddar melt,57,g,127,mg,2150,g,84,g,53,g,18,g,0,g,0,g,7,g
+771,sharis,hot turkey sandwich,31,g,127,mg,3400,g,129,g,57,g,8,g,0,g,8,g,34,g
+772,sharis,cajun chicken and avocado club sandwich,74,g,69,mg,2460,g,115,g,54,g,20,g,1,g,0,g,9,g
+773,sharis,philly rib dip sandwich,39,g,91,mg,2440,g,67,g,42,g,14,g,0,g,0,g,7,g
+774,sharis,four way grill cheese sandwich,70,g,68,mg,1640,g,75,g,33,g,24,g,1,g,0,g,5,g
+775,sharis,double double bacon cheeseburger,71,g,244,mg,1890,g,47,g,81,g,28,g,1,g,0,g,10,g
+776,sharis,chopped salad without dressing,18,g,23,mg,760,g,19,g,10,g,6,g,0,g,4,g,2,g
+777,sharis,blt sandwich,26,g,25,mg,2220,g,51,g,22,g,6,g,0,g,0,g,6,g
+778,sharis,spinach salad with raspberry vinaigrette,12,g,192,mg,1050,g,67,g,15,g,3,g,0,g,2,g,49,g
+779,sharis,add on swiss cheese for 3 egg omelette,3,g,10,mg,20,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+780,sharis,add on cheddar cheese for 3 egg omelette,9,g,25,mg,170,g,1,g,7,g,5,g,0,g,0,g,0,g
+781,sharis,add on bell peppers for 3 egg omelette,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+782,sharis,add on bacon for 3 egg omelette,6,g,10,mg,500,g,0,g,6,g,2,g,0,g,0,g,0,g
+783,sharis,add on spinach for 3 egg omelette,0,g,0,mg,20,g,1,g,1,g,0,g,0,g,0,g,0,g
+784,sharis,add on avocado for 3 egg omelette,5,g,0,mg,0,g,3,g,1,g,1,g,0,g,0,g,0,g
+785,sharis,add on mushrooms for 3 egg omelette,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+786,sharis,add on tomatoes for 3 egg omelette,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+787,sharis,add on sauteed onions for 3 egg omelette,2,g,0,mg,120,g,4,g,0,g,0,g,0,g,0,g,2,g
+788,sharis,add on sausage for 3 egg omelette,22,g,45,mg,400,g,0,g,7,g,9,g,0,g,0,g,0,g
+789,sharis,add on pepperjack cheese for 3 egg omelette,9,g,25,mg,190,g,0,g,6,g,5,g,0,g,0,g,0,g
+790,sharis,add on sour cream for 3 egg omelette,2.5,g,10,mg,20,g,1,g,1,g,1.5,g,0,g,0,g,0,g
+791,sharis,add on shrimp skewers,1,g,164,mg,930,g,1,g,17,g,0,g,0,g,0,g,0,g
+792,sharis,add on pico de gallo for 3 egg omelette,0,g,0,mg,210,g,2,g,0,g,0,g,0,g,0,g,1,g
+793,sharis,add on bleu cheese for 3 egg omelette,4,g,10,mg,190,g,0,g,3,g,2.5,g,0,g,0,g,0,g
+794,sharis,add on ham for 3 egg omelette,6,g,10,mg,500,g,0,g,6,g,2,g,0,g,0,g,0,g
+795,sharis,add on broccoli for 3 egg omelette,0,g,0,mg,10,g,1,g,1,g,0,g,0,g,0,g,0,g
+796,sharis,tbone steak dinner,56,g,171,mg,2180,g,10,g,80,g,21,g,0,g,0,g,4,g
+797,sharis,grilled lemon chicken dinner,17,g,160,mg,1640,g,17,g,59,g,4,g,0,g,0,g,5,g
+798,sharis,country fried steak dinner,63,g,95,mg,2060,g,83,g,32,g,26,g,1,g,9,g,9,g
+799,sharis,top sirloin dinner,35,g,136,mg,630,g,8,g,38,g,13,g,0,g,4,g,2,g
+800,sharis,slow roasted turkey dinner,35,g,126,mg,3680,g,109,g,55,g,12,g,0,g,0,g,28,g
+801,sharis,chopped steak dinner,50,g,214,mg,1940,g,50,g,69,g,20,g,0,g,0,g,5,g
+802,sharis,add on wild alaskan salmon for salads,13,g,95,mg,230,g,1,g,33,g,3,g,0,g,3,g,0,g
+803,sharis,add on chicken strips for salads,18,g,60,mg,530,g,23,g,20,g,3,g,0,g,0,g,0,g
+804,sharis,add on grilled chicken breast for salads,1,g,80,mg,570,g,0,g,27,g,0,g,0,g,0,g,0,g
+805,sharis,honey mustard dressing,16,g,14,mg,130,g,11,g,0,g,2,g,0,g,0,g,10,g
+806,sharis,vinegar and oil dressing,21,g,0,mg,0,g,0,g,0,g,3,g,0,g,0,g,0,g
+807,sharis,fat free raspberry vinaigrette dressing,0,g,0,mg,360,g,11,g,0,g,0,g,0,g,0,g,11,g
+808,sharis,ranch salad dressing,19,g,16,mg,330,g,3,g,2,g,3,g,0,g,0,g,2,g
+809,sharis,blue cheese salad dressing,26,g,23,mg,260,g,2,g,2,g,5,g,0,g,0,g,0,g
+810,sharis,thousand island dressing,10,g,7,mg,370,g,9,g,0,g,1,g,0,g,0,g,6,g
+811,sharis,robusto italian dressing,14,g,0,mg,430,g,1,g,0,g,2,g,0,g,0,g,1,g
+812,sharis,dinner side salad,1,g,0,mg,90,g,6,g,1,g,0,g,0,g,0,g,1,g
+813,sharis,cocktail sauce,0,g,0,mg,350,g,12,g,1,g,0,g,0,g,0,g,6,g
+814,sharis,fish and tater tots dinner,112,g,45,mg,2600,g,89,g,31,g,16,g,0,g,0,g,14,g
+815,sharis,blackened wild alaskan salmon dinner,28,g,96,mg,920,g,19,g,38,g,7,g,0,g,4,g,5,g
+816,sharis,grilled wild alaskan salmon dinner,28,g,96,mg,825,g,19,g,38,g,7,g,0,g,0,g,5,g
+817,sharis,fish and chips dinner,119,g,46,mg,2060,g,104,g,33,g,16,g,0,g,0,g,13,g
+818,sharis,honored slow roasted turkey dinner,28,g,99,mg,2510,g,86,g,39,g,10,g,0,g,0,g,24,g
+819,sharis,honored country fried steak dinner,46,g,68,mg,1510,g,62,g,23,g,19,g,0,g,0,g,7,g
+820,sharis,honored blt half sandwich,19,g,15,mg,1480,g,26,g,11,g,4,g,0,g,0,g,3,g
+821,sharis,honored bacon and egg breakfast,15,g,174,mg,560,g,0,g,12,g,4,g,0,g,0,g,0,g
+822,sharis,honored garden salad with chicken,3,g,90,mg,190,g,7,g,37,g,0,g,0,g,0,g,1,g
+823,sharis,honored sausage and egg breakfast,31,g,209,mg,460,g,0,g,13,g,11,g,0,g,0,g,0,g
+824,sharis,honored fish and tater tots dinner,105,g,45,mg,2370,g,76,g,22,g,16,g,0,g,0,g,14,g
+825,sharis,honored roasted turkey breast half sandwich,16,g,40,mg,1650,g,41,g,22,g,2,g,0,g,0,g,8,g
+826,sharis,honored country fried steak breakfast,36,g,203,mg,830,g,24,g,20,g,13,g,0,g,0,g,2,g
+827,sharis,honored four way grilled cheese half sandwich,35,g,34,mg,820,g,37,g,17,g,12,g,0,g,0,g,2,g
+828,sharis,honored wedge salad with chicken,34,g,123,mg,1520,g,9,g,38,g,11,g,0,g,0,g,5,g
+829,sharis,honored rons favorite omelette,41,g,531,mg,700,g,7,g,31,g,14,g,0,g,0,g,4,g
+830,sharis,honored fish and chips dinner,95,g,46,mg,1790,g,67,g,22,g,13,g,0,g,0,g,13,g
+831,sharis,honored grilled lemon chcken dinner,16,g,81,mg,990,g,17,g,32,g,4,g,0,g,0,g,5,g
+832,sharis,mashed potatoes dinner side,5,g,18,mg,380,g,27,g,4,g,4,g,0,g,4,g,1,g
+833,sharis,tater tots side dish,26,g,0,mg,620,g,33,g,3,g,4,g,0,g,0,g,1,g
+834,sharis,baked potato dinner side,5,g,0,mg,1200,g,37,g,4,g,1,g,0,g,0,g,2,g
+835,sharis,loaded baked potato dinner side,15,g,27,mg,1550,g,38,g,11,g,6,g,0,g,0,g,3,g
+836,sharis,loaded mashed potatoes dinner side,21,g,65,mg,900,g,42,g,14,g,13,g,0,g,4,g,3,g
+837,sharis,stuffed hash browns dinner side,28,g,37,mg,880,g,32,g,11,g,10,g,0,g,0,g,2,g
+838,sharis,rice pilaf dinner side,5,g,0,mg,150,g,10,g,1,g,1,g,0,g,0,g,3,g
+839,sharis,cole slaw,10,g,8,mg,130,g,11,g,1,g,2,g,0,g,0,g,7,g
+840,sharis,caesar side salad,20,g,18,mg,520,g,8,g,7,g,5,g,0,g,0,g,0,g
+841,sharis,baked potato with butter and sour cream dinner side,18,g,10,mg,1310,g,38,g,5,g,5,g,0,g,8,g,3,g
+842,sharis,broccoli dinner side,11,g,1,mg,200,g,7,g,4,g,3,g,0,g,0,g,2,g
+843,sharis,loaded potato soup cup,18,g,47,mg,1260,g,22,g,11,g,9,g,0,g,2,g,5,g
+844,sharis,chicken noodle soup bowl,5,g,45,mg,1590,g,23,g,11,g,1,g,0,g,1,g,4,g
+845,sharis,clam chowder soup bowl,12,g,29,mg,1420,g,27,g,9,g,4,g,0,g,0,g,3,g
+846,sharis,roasted tomato bisque bowl,15,g,46,mg,1260,g,18,g,3,g,8,g,0,g,0,g,11,g
+847,sharis,clam chowder soup cup,8,g,19,mg,940,g,18,g,6,g,3,g,0,g,0,g,2,g
+848,sharis,chicken noodle soup cup,3,g,30,mg,1060,g,16,g,7,g,1,g,0,g,0,g,2,g
+849,sharis,roasted tomato bisque bowl,10,g,29,mg,840,g,12,g,2,g,5,g,0,g,0,g,7,g
+850,sharis,loaded potato soup bowl,22,g,56,mg,1750,g,33,g,14,g,10,g,0,g,0,g,6,g
+851,sharis,3 egg omelette,20,g,490,mg,190,g,1,g,17,g,5,g,0,g,0,g,0,g
+852,sharis,3 egg omelette add avocado,5,g,0,mg,0,g,3,g,1,g,1,g,0,g,0,g,0,g
+853,sharis,3 egg omelette add bacon,6,g,10,mg,500,g,0,g,6,g,2,g,0,g,0,g,0,g
+854,sharis,3 egg omelette add bell peppers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+855,sharis,3 egg omelette add bleu cheese,4,g,10,mg,190,g,0,g,3,g,2.5,g,0,g,0,g,0,g
+856,sharis,3 egg omelette add broccoli,0,g,0,mg,10,g,1,g,1,g,0,g,0,g,0,g,0,g
+857,sharis,3 egg omelette add cheddar cheese,9,g,25,mg,170,g,1,g,7,g,5,g,0,g,0,g,0,g
+858,sharis,3 egg omelette add ham,6,g,10,mg,500,g,0,g,6,g,2,g,0,g,0,g,0,g
+859,sharis,3 egg omelette add mushrooms,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+860,sharis,3 egg omelette add pepperjack cheese,9,g,25,mg,190,g,0,g,6,g,5,g,0,g,0,g,0,g
+861,sharis,3 egg omelette add pico de gallo,0,g,0,mg,210,g,2,g,0,g,0,g,0,g,0,g,1,g
+862,sharis,3 egg omelette add sausage,22,g,45,mg,400,g,0,g,7,g,9,g,0,g,0,g,0,g
+863,sharis,3 egg omelette add sauteed onions,2,g,0,mg,120,g,4,g,0,g,0,g,0,g,0,g,2,g
+864,sharis,3 egg omelette add sour cream,2.5,g,10,mg,20,g,1,g,0,g,1.5,g,0,g,0,g,0,g
+865,sharis,3 egg omelette add spinach,0,g,0,mg,20,g,1,g,1,g,0,g,0,g,0,g,0,g
+866,sharis,3 egg omelette add swiss cheese,3,g,10,mg,20,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+867,sharis,3 egg omelette add tomatoes,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,2,g
+868,sharis,add marionberry,1,g,0,mg,0,g,35,g,1,g,0.5,g,0,g,0,g,31,g
+869,sharis,add strawberry,1,g,0,mg,30,g,38,g,0,g,0.5,g,0,g,0,g,37,g
+870,sharis,bacon and cheddar melt,57,g,125,mg,2150,g,84,g,53,g,18,g,0,g,0,g,7,g
+871,sharis,bacon and eggs,22,g,340,mg,870,g,1,g,20,g,65,g,0,g,0,g,0,g
+872,sharis,biscuits and gravy,47,g,90,mg,2960,g,118,g,29,g,27,g,0,g,0,g,21,g
+873,sharis,black pepper and cheese biscuits,14,g,20,mg,1030,g,51,g,11,g,8,g,0,g,0,g,6,g
+874,sharis,blt sandwich,26,g,25,mg,2220,g,51,g,22,g,6,g,0,g,0,g,6,g
+875,sharis,bowl of fresh fruit,0,g,0,mg,30,g,23,g,2,g,0,g,0,g,1,g,20,g
+876,sharis,buttermilk pancakes,27,g,15,mg,1940,g,123,g,14,g,6,g,0,g,2,g,29,g
+877,sharis,byo cheeseburger,43,g,120,mg,1190,g,47,g,41,g,16,g,0,g,0,g,10,g
+878,sharis,byo cheeseburger 1 egg,4,g,165,mg,60,g,0,g,6,g,1.5,g,0,g,0,g,0,g
+879,sharis,byo cheeseburger avocado,5,g,0,mg,0,g,3,g,1,g,1,g,0,g,0,g,0,g
+880,sharis,byo cheeseburger bacon,6,g,10,mg,500,g,0,g,6,g,2,g,0,g,0,g,0,g
+881,sharis,byo cheeseburger bell peppers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+882,sharis,byo cheeseburger bleu cheese,4,g,10,mg,190,g,0,g,3,g,2.5,g,0,g,0,g,0,g
+883,sharis,byo cheeseburger cheddar cheese,9,g,25,mg,170,g,1,g,7,g,5,g,0,g,0,g,0,g
+884,sharis,byo cheeseburger ham,6,g,10,mg,500,g,0,g,6,g,2,g,0,g,0,g,0,g
+885,sharis,byo cheeseburger mushrooms,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+886,sharis,byo cheeseburger pepperjack cheese,9,g,25,mg,190,g,0,g,6,g,5,g,0,g,0,g,0,g
+887,sharis,byo cheeseburger pico de gallo,0,g,0,mg,210,g,2,g,0,g,0,g,0,g,0,g,1,g
+888,sharis,byo cheeseburger sauteed onions,2,g,0,mg,120,g,4,g,0,g,0,g,0,g,0,g,2,g
+889,sharis,byo cheeseburger swiss cheese,3,g,10,mg,20,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+890,sharis,byo cheeseburger tanglers,8,g,0,mg,90,g,9,g,1,g,2,g,0,g,0,g,1,g
+891,sharis,byo cheeseburger tomatoes,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,2,g
+892,sharis,caesar salad,40,g,35,mg,1030,g,15,g,14,g,11,g,0,g,0,g,0,g
+893,sharis,cajun chicken and avocado club sandwich,74,g,70,mg,2460,g,115,g,54,g,20,g,1,g,0,g,9,g
+894,sharis,caramel pecan roll,41,g,60,mg,620,g,182,g,18,g,16,g,0,g,4,g,103,g
+895,sharis,cheeseburger,43,g,120,mg,1190,g,47,g,41,g,16,g,0,g,2,g,10,g
+896,sharis,chicken noodle soup bowl,5,g,45,mg,1590,g,23,g,11,g,1,g,0,g,1,g,4,g
+897,sharis,chicken noodle soup cup,3,g,30,mg,1060,g,16,g,7,g,1,g,0,g,1,g,2,g
+898,sharis,chicken strips,18,g,60,mg,530,g,23,g,20,g,3,g,0,g,0,g,0,g
+899,sharis,chicken tenders,75,g,95,mg,2950,g,86,g,41,g,12,g,0,g,0,g,21,g
+900,sharis,chocolate shake,30,g,105,mg,320,g,89,g,12,g,17,g,0,g,0,g,81,g
+901,sharis,chopped salad,18,g,25,mg,760,g,19,g,10,g,6,g,0,g,0,g,2,g
+902,sharis,cinnama sation french toast,60,g,205,mg,740,g,176,g,25,g,18,g,0,g,5,g,90,g
+903,sharis,cinnamasation roll,31,g,55,mg,410,g,131,g,16,g,16,g,0,g,3,g,60,g
+904,sharis,clam chowder bowl,12,g,30,mg,1420,g,27,g,9,g,4,g,0,g,1,g,3,g
+905,sharis,clam chowder cup,8,g,20,mg,940,g,18,g,6,g,3,g,0,g,0,g,2,g
+906,sharis,classic ham benedict,51,g,450,mg,2250,g,69,g,36,g,17,g,0,g,0,g,11,g
+907,sharis,coleslaw,10,g,10,mg,130,g,11,g,1,g,2,g,0,g,0,g,7,g
+908,sharis,combo breakfast with bacon,19,g,335,mg,620,g,1,g,17,g,6,g,0,g,0,g,0,g
+909,sharis,combo breakfast with double smoked sausage,32,g,405,mg,1850,g,6,g,34,g,9,g,0,g,0,g,1,g
+910,sharis,combo breakfast with link sausage,57,g,415,mg,920,g,1,g,25,g,22,g,0,g,0,g,0,g
+911,sharis,country sausage benedict,102,g,505,mg,3220,g,90,g,44,g,40,g,0,g,0,g,13,g
+912,sharis,cuban sandwich,30,g,110,mg,3160,g,60,g,41,g,9,g,0,g,2,g,7,g
+913,sharis,deep dish washington apple pie slice,27,g,0,mg,320,g,74,g,3,g,10,g,0,g,2,g,41,g
+914,sharis,deli sandwich with turkey,32,g,80,mg,2640,g,80,g,43,g,4,g,0,g,0,g,14,g
+915,sharis,dinner salad add blue cheese dressing,26,g,25,mg,260,g,2,g,2,g,5,g,0,g,0,g,0,g
+916,sharis,dinner salad add fat free raspberry vinaigrette dressing,0,g,0,mg,360,g,11,g,0,g,0,g,0,g,0,g,11,g
+917,sharis,dinner salad add honey mustard dressing,16,g,15,mg,130,g,11,g,0,g,2,g,0,g,0,g,10,g
+918,sharis,dinner salad add ranch dressing,19,g,15,mg,330,g,3,g,2,g,3,g,0,g,0,g,2,g
+919,sharis,dinner salad add robusto italian dressing,14,g,0,mg,430,g,1,g,0,g,2,g,0,g,0,g,1,g
+920,sharis,dinner salad add thousand island dressing,10,g,5,mg,370,g,9,g,0,g,1,g,0,g,0,g,6,g
+921,sharis,dinner salad add vinegar and oil,21,g,0,mg,0,g,0,g,0,g,3,g,0,g,0,g,0,g
+922,sharis,dinner baked potato,5,g,0,mg,1200,g,37,g,4,g,1,g,0,g,4,g,2,g
+923,sharis,dinner baked potato with butter and sour cream,18,g,10,mg,1310,g,38,g,5,g,5,g,0,g,4,g,3,g
+924,sharis,dinner broccoli,11,g,0,mg,200,g,7,g,4,g,3,g,0,g,0,g,2,g
+925,sharis,dinner caesar side salad,20,g,20,mg,520,g,8,g,7,g,5,g,0,g,1,g,0,g
+926,sharis,dinner chopped steak dinner,50,g,215,mg,1940,g,50,g,69,g,20,g,0,g,0,g,5,g
+927,sharis,dinner coleslaw,10,g,10,mg,130,g,11,g,1,g,2,g,0,g,0,g,7,g
+928,sharis,dinner country fried steak dinner,63,g,95,mg,2060,g,83,g,32,g,26,g,1,g,0,g,9,g
+929,sharis,dinner fish and chips with fries,119,g,45,mg,2060,g,104,g,33,g,16,g,0,g,0,g,13,g
+930,sharis,dinner fish and chips with tots,112,g,45,mg,2600,g,89,g,31,g,16,g,0,g,0,g,14,g
+931,sharis,dinner grilled lemon chicken,17,g,160,mg,1640,g,17,g,59,g,4,g,0,g,0,g,5,g
+932,sharis,dinner loaded baked potato,15,g,25,mg,1550,g,38,g,11,g,6,g,0,g,0,g,3,g
+933,sharis,dinner loaded mashed potatoes,21,g,65,mg,900,g,42,g,14,g,13,g,0,g,0,g,3,g
+934,sharis,dinner mashed potatoes,5,g,20,mg,380,g,27,g,4,g,4,g,0,g,4,g,1,g
+935,sharis,dinner rice pilaf,5,g,0,mg,150,g,10,g,1,g,1,g,0,g,0,g,3,g
+936,sharis,dinner shrimp skewer,1,g,165,mg,930,g,1,g,17,g,0,g,0,g,2,g,0,g
+937,sharis,dinner slow roasted turkey dinner,35,g,135,mg,3680,g,109,g,55,g,12,g,0,g,0,g,28,g
+938,sharis,dinner stuffed hash browns,28,g,35,mg,880,g,32,g,11,g,10,g,0,g,0,g,2,g
+939,sharis,dinner tater tots,26,g,0,mg,620,g,33,g,3,g,4,g,0,g,3,g,1,g
+940,sharis,dinner tbone steak dinner,56,g,170,mg,2180,g,10,g,80,g,21,g,0,g,2,g,4,g
+941,sharis,dinner top sirloin dinner,35,g,135,mg,630,g,8,g,38,g,13,g,0,g,2,g,2,g
+942,sharis,dinner wild alaskan salmon dinner blackened,28,g,95,mg,920,g,19,g,38,g,7,g,0,g,0,g,5,g
+943,sharis,dinner wild alaskan salmon dinner grilled,28,g,95,mg,830,g,19,g,38,g,7,g,0,g,0,g,5,g
+944,sharis,double double bacon cheeseburger,71,g,245,mg,1890,g,47,g,81,g,28,g,1,g,0,g,10,g
+945,sharis,double smoked sausage and eggs,32,g,405,mg,1850,g,6,g,34,g,9,g,0,g,0,g,1,g
+946,sharis,english muffin,11,g,0,mg,340,g,28,g,5,g,3,g,0,g,0,g,2,g
+947,sharis,four way grilled cheese,70,g,70,mg,1640,g,75,g,33,g,24,g,1,g,0,g,5,g
+948,sharis,french fries,32,g,0,mg,80,g,48,g,5,g,4,g,0,g,0,g,0,g
+949,sharis,french toast,45,g,100,mg,700,g,55,g,14,g,9,g,0,g,1,g,7,g
+950,sharis,grilled chicken breast,1,g,80,mg,570,g,0,g,27,g,0,g,0,g,0,g,0,g
+951,sharis,grilled ham and four cheese melt,68,g,125,mg,2450,g,78,g,50,g,27,g,1,g,0,g,9,g
+952,sharis,hash browns and english muffin,26,g,0,mg,900,g,58,g,8,g,6,g,0,g,0,g,4,g
+953,sharis,hash browns and rye toast,41,g,0,mg,1540,g,103,g,15,g,9,g,0,g,0,g,6,g
+954,sharis,hash browns and sourdough toast,41,g,0,mg,1540,g,103,g,17,g,9,g,0,g,0,g,6,g
+955,sharis,hash browns and wheat toast,44,g,0,mg,1460,g,103,g,19,g,10,g,0,g,0,g,10,g
+956,sharis,hash browns and white toast,39,g,0,mg,1220,g,79,g,13,g,9,g,0,g,0,g,6,g
+957,sharis,honored biscuit and gravy,25,g,50,mg,1500,g,59,g,15,g,14,g,0,g,0,g,10,g
+958,sharis,honored blt sandwich half,19,g,15,mg,1480,g,26,g,11,g,4,g,0,g,0,g,3,g
+959,sharis,honored chicken noodle soup cup,3,g,30,mg,1060,g,16,g,7,g,1,g,0,g,0,g,2,g
+960,sharis,honored country fried steak,36,g,205,mg,830,g,23,g,20,g,13,g,0,g,0,g,2,g
+961,sharis,honored four way grilled cheese sandwich half,35,g,35,mg,820,g,37,g,17,g,12,g,0,g,0,g,2,g
+962,sharis,honored hash browns and english muffin,26,g,0,mg,900,g,58,g,8,g,6,g,0,g,0,g,4,g
+963,sharis,honored hash browns and rye toast,41,g,0,mg,1540,g,103,g,15,g,9,g,0,g,0,g,6,g
+964,sharis,honored hash browns and sourdough toast,41,g,0,mg,1540,g,103,g,17,g,9,g,0,g,0,g,6,g
+965,sharis,honored hash browns and wheat toast,44,g,0,mg,1460,g,103,g,19,g,10,g,0,g,0,g,10,g
+966,sharis,honored hash browns and white toast,39,g,0,mg,1220,g,79,g,13,g,9,g,0,g,0,g,6,g
+967,sharis,honored roasted tomato bisque cup,10,g,30,mg,840,g,12,g,2,g,5,g,0,g,0,g,7,g
+968,sharis,honored roasted turkey breast sandwich half,16,g,40,mg,1650,g,41,g,22,g,2,g,0,g,0,g,8,g
+969,sharis,honored smaller plates country fried steak dinner,46,g,70,mg,1510,g,62,g,23,g,19,g,0,g,0,g,7,g
+970,sharis,honored smaller plates fish and chips fries,95,g,45,mg,1790,g,67,g,22,g,13,g,0,g,0,g,13,g
+971,sharis,honored smaller plates fish and chips tots,105,g,45,mg,2370,g,76,g,22,g,16,g,0,g,0,g,14,g
+972,sharis,honored smaller plates garden salad with chicken,3,g,90,mg,190,g,7,g,37,g,0,g,0,g,0,g,1,g
+973,sharis,honored smaller plates grilled lemon chicken,16,g,80,mg,990,g,17,g,32,g,4,g,0,g,0,g,5,g
+974,sharis,honored smaller plates omelette rons favorite,41,g,530,mg,700,g,7,g,31,g,14,g,0,g,0,g,4,g
+975,sharis,honored smaller plates slow roasted turkey dinner,28,g,100,mg,2510,g,86,g,39,g,10,g,0,g,0,g,24,g
+976,sharis,honored smaller plates wedge salad with chicken,34,g,125,mg,1520,g,9,g,38,g,11,g,0,g,0,g,5,g
+977,sharis,hot turkey sandwich,31,g,125,mg,3400,g,129,g,57,g,8,g,0,g,8,g,34,g
+978,sharis,loaded potato soup bowl,22,g,55,mg,1750,g,33,g,14,g,10,g,0,g,2,g,6,g
+979,sharis,loaded potato soup cup,18,g,45,mg,1260,g,22,g,11,g,9,g,0,g,1,g,5,g
+980,sharis,loaded tater tots,110,g,105,mg,3270,g,101,g,38,g,30,g,0,g,0,g,23,g
+981,sharis,meat lovers skillet,86,g,450,mg,2210,g,38,g,46,g,30,g,0,g,3,g,5,g
+982,sharis,mozzarella sticks,32,g,40,mg,1580,g,39,g,20,g,13,g,0,g,1,g,5,g
+983,sharis,nachos,85,g,215,mg,4210,g,75,g,61,g,41,g,2,g,14,g,7,g
+984,sharis,northwest steak salad,50,g,150,mg,1200,g,65,g,44,g,16,g,0,g,4,g,34,g
+985,sharis,oatmeal,21,g,10,mg,390,g,88,g,14,g,1,g,0,g,8,g,35,g
+986,sharis,omelette bacon mushroom and pepperjack,54,g,765,mg,1220,g,6,g,38,g,17,g,0,g,0,g,3,g
+987,sharis,omelette classic ham and cheese,52,g,790,mg,1330,g,7,g,44,g,19,g,0,g,0,g,5,g
+988,sharis,omelette rons favorite,48,g,780,mg,920,g,8,g,40,g,16,g,0,g,0,g,5,g
+989,sharis,omelette spring spinach,52,g,760,mg,620,g,10,g,37,g,17,g,0,g,4,g,3,g
+990,sharis,pancakes,22,g,10,mg,1320,g,82,g,10,g,5,g,0,g,1,g,19,g
+991,sharis,philly rib dip sandwich,39,g,90,mg,2440,g,67,g,42,g,14,g,0,g,0,g,7,g
+992,sharis,philly style patty melt,85,g,110,mg,1760,g,87,g,51,g,24,g,0,g,0,g,8,g
+993,sharis,prime rib benedict,48,g,395,mg,2420,g,72,g,36,g,17,g,0,g,0,g,9,g
+994,sharis,prime rib dip sandwich,33,g,70,mg,3130,g,63,g,33,g,11,g,0,g,2,g,2,g
+995,sharis,roasted tomato bisque bowl,15,g,45,mg,1260,g,18,g,3,g,8,g,0,g,0,g,11,g
+996,sharis,roasted tomato bisque cup,10,g,30,mg,840,g,12,g,2,g,5,g,0,g,0,g,7,g
+997,sharis,rustic tuscan chicken salad,32,g,100,mg,1770,g,21,g,35,g,5,g,0,g,1,g,4,g
+998,sharis,rye toast,25,g,0,mg,990,g,72,g,12,g,6,g,0,g,3,g,4,g
+999,sharis,sausage and eggs,57,g,415,mg,920,g,1,g,2,g,52,g,0,g,0,g,0,g

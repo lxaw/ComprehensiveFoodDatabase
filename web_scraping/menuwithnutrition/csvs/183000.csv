@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,t mac,boneless buffalo wings double asian sweet heat,77,g,175,mg,4390,g,166,g,81,g,14,g,0,g,6,g,90,g
+1,t mac,boneless buffalo wings double bbq sauce,77,g,175,mg,3910,g,162,g,81,g,14,g,0,g,6,g,84,g
+2,t mac,boneless buffalo wings double bleu cheese,130,g,240,mg,3440,g,96,g,86,g,29,g,0,g,5,g,26,g
+3,t mac,boneless buffalo wings double chili mango,77,g,175,mg,5720,g,123,g,81,g,14,g,0,g,6,g,47,g
+4,t mac,boneless buffalo wings double death sauce,81,g,175,mg,6740,g,105,g,90,g,15,g,0,g,5,g,31,g
+5,t mac,boneless buffalo wings double garlic parmesan,203,g,190,mg,4500,g,104,g,88,g,34,g,0,g,5,g,25,g
+6,t mac,boneless buffalo wings double habanero bbq,77,g,175,mg,5020,g,152,g,81,g,14,g,0,g,6,g,64,g
+7,t mac,boneless buffalo wings double honey chipotle,77,g,175,mg,5150,g,161,g,81,g,14,g,0,g,7,g,84,g
+8,t mac,boneless buffalo wings double honey twang,124,g,185,mg,3850,g,165,g,81,g,21,g,0,g,6,g,90,g
+9,t mac,boneless buffalo wings double hot buffalo,77,g,175,mg,6180,g,112,g,82,g,14,g,0,g,8,g,35,g
+10,t mac,boneless buffalo wings double korean black garlic,78,g,175,mg,4200,g,114,g,82,g,14,g,0,g,6,g,38,g
+11,t mac,boneless buffalo wings double lemon pepper,77,g,175,mg,8480,g,107,g,81,g,14,g,0,g,6,g,28,g
+12,t mac,boneless buffalo wings double medium buffalo,77,g,175,mg,6180,g,110,g,82,g,14,g,0,g,8,g,34,g
+13,t mac,boneless buffalo wings double mild buffalo,127,g,175,mg,5420,g,105,g,81,g,21,g,0,g,7,g,31,g
+14,t mac,boneless buffalo wings double no sauce,76,g,175,mg,2850,g,95,g,80,g,14,g,0,g,5,g,25,g
+15,t mac,boneless buffalo wings double ranch,133,g,225,mg,3640,g,99,g,82,g,26,g,0,g,6,g,27,g
+16,t mac,boneless buffalo wings double slow burn,77,g,175,mg,6060,g,110,g,81,g,14,g,0,g,7,g,34,g
+17,t mac,boneless buffalo wings double sweet chili sesame,80,g,175,mg,6840,g,187,g,82,g,14,g,0,g,5,g,111,g
+18,t mac,boneless buffalo wings double three mile island,78,g,175,mg,6900,g,124,g,84,g,14,g,0,g,9,g,42,g
+19,t mac,boneless buffalo wings party pack asian sweet heat,192,g,440,mg,10970,g,416,g,202,g,35,g,0,g,16,g,224,g
+20,t mac,boneless buffalo wings party pack bbq sauce,193,g,440,mg,9760,g,404,g,202,g,35,g,0,g,15,g,210,g
+21,t mac,boneless buffalo wings party pack bleu cheese,299,g,570,mg,8310,g,240,g,212,g,64,g,0,g,13,g,65,g
+22,t mac,boneless buffalo wings party pack chili mango,194,g,440,mg,16960,g,335,g,203,g,36,g,0,g,17,g,136,g
+23,t mac,boneless buffalo wings party pack death sauce,203,g,440,mg,16820,g,262,g,224,g,38,g,0,g,13,g,77,g
+24,t mac,boneless buffalo wings party pack garlic parmesan,501,g,460,mg,11070,g,261,g,215,g,82,g,0,g,14,g,63,g
+25,t mac,boneless buffalo wings party pack habanero bbq,193,g,440,mg,12530,g,381,g,202,g,36,g,0,g,16,g,159,g
+26,t mac,boneless buffalo wings party pack honey chipotle,192,g,440,mg,12850,g,402,g,203,g,36,g,0,g,17,g,211,g
+27,t mac,boneless buffalo wings party pack honey twang,310,g,465,mg,9630,g,413,g,202,g,52,g,0,g,14,g,224,g
+28,t mac,boneless buffalo wings party pack hot buffalo,193,g,440,mg,15420,g,280,g,205,g,36,g,0,g,20,g,88,g
+29,t mac,boneless buffalo wings party pack korean black garlic,197,g,440,mg,11740,g,302,g,206,g,36,g,0,g,15,g,106,g
+30,t mac,boneless buffalo wings party pack lemon pepper,192,g,440,mg,26440,g,279,g,202,g,36,g,0,g,16,g,72,g
+31,t mac,boneless buffalo wings party pack medium buffalo,192,g,440,mg,15410,g,275,g,204,g,36,g,0,g,19,g,85,g
+32,t mac,boneless buffalo wings party pack mild buffalo,317,g,440,mg,13540,g,263,g,203,g,53,g,0,g,17,g,78,g
+33,t mac,boneless buffalo wings party pack no sauce,191,g,440,mg,7130,g,238,g,200,g,35,g,0,g,13,g,63,g
+34,t mac,boneless buffalo wings party pack ranch,305,g,540,mg,8710,g,245,g,204,g,58,g,0,g,14,g,67,g
+35,t mac,boneless buffalo wings party pack slow burn,192,g,440,mg,15120,g,274,g,204,g,36,g,0,g,19,g,85,g
+36,t mac,boneless buffalo wings party pack sweet chili sesame,199,g,440,mg,17060,g,466,g,205,g,36,g,0,g,13,g,276,g
+37,t mac,boneless buffalo wings party pack three mile island,194,g,440,mg,17210,g,310,g,209,g,36,g,0,g,23,g,105,g
+38,t mac,boneless buffalo wings single asian sweet heat,38,g,90,mg,2190,g,83,g,40,g,7,g,0,g,3,g,45,g
+39,t mac,boneless buffalo wings single bbq sauce,39,g,90,mg,1950,g,80,g,40,g,7,g,0,g,3,g,42,g
+40,t mac,boneless buffalo wings single bleu cheese,65,g,120,mg,1720,g,48,g,43,g,14,g,0,g,3,g,13,g
+41,t mac,boneless buffalo wings single chili mango,39,g,90,mg,3070,g,64,g,41,g,7,g,0,g,3,g,25,g
+42,t mac,boneless buffalo wings single death sauce,41,g,90,mg,3340,g,52,g,45,g,8,g,0,g,3,g,15,g
+43,t mac,boneless buffalo wings single garlic parmesan,102,g,100,mg,2290,g,52,g,45,g,18,g,0,g,3,g,13,g
+44,t mac,boneless buffalo wings single habanero bbq,39,g,90,mg,2490,g,76,g,40,g,7,g,0,g,3,g,32,g
+45,t mac,boneless buffalo wings single honey chipotle,38,g,90,mg,2560,g,80,g,40,g,7,g,0,g,3,g,42,g
+46,t mac,boneless buffalo wings single honey twang,62,g,95,mg,1930,g,83,g,40,g,10,g,0,g,3,g,45,g
+47,t mac,boneless buffalo wings single hot buffalo,39,g,90,mg,3060,g,56,g,41,g,7,g,0,g,4,g,17,g
+48,t mac,boneless buffalo wings single korean black garlic,39,g,90,mg,2190,g,58,g,41,g,7,g,0,g,3,g,20,g
+49,t mac,boneless buffalo wings single lemon pepper,38,g,90,mg,4650,g,54,g,40,g,7,g,0,g,3,g,14,g
+50,t mac,boneless buffalo wings single medium buffalo,38,g,90,mg,3060,g,55,g,41,g,7,g,0,g,4,g,17,g
+51,t mac,boneless buffalo wings single mild buffalo,63,g,90,mg,2690,g,52,g,41,g,11,g,0,g,3,g,16,g
+52,t mac,boneless buffalo wings single no sauce,38,g,90,mg,1430,g,48,g,40,g,7,g,0,g,3,g,13,g
+53,t mac,boneless buffalo wings single ranch,67,g,115,mg,1820,g,49,g,41,g,13,g,0,g,3,g,14,g
+54,t mac,boneless buffalo wings single slow burn,38,g,90,mg,3010,g,55,g,41,g,7,g,0,g,4,g,17,g
+55,t mac,boneless buffalo wings single sweet chili sesame,40,g,90,mg,3390,g,93,g,41,g,7,g,0,g,3,g,55,g
+56,t mac,boneless buffalo wings single three mile island,39,g,90,mg,3420,g,62,g,42,g,7,g,0,g,5,g,21,g
+57,t mac,boneless buffalo wings six pack asian sweet heat,23,g,55,mg,1240,g,46,g,24,g,4,g,0,g,2,g,24,g
+58,t mac,boneless buffalo wings six pack bbq sauce,23,g,55,mg,1120,g,45,g,24,g,4,g,0,g,2,g,22,g
+59,t mac,boneless buffalo wings six pack bleu cheese,50,g,85,mg,1150,g,29,g,27,g,11,g,0,g,2,g,8,g
+60,t mac,boneless buffalo wings six pack chili mango,23,g,55,mg,2090,g,41,g,24,g,4,g,0,g,2,g,17,g
+61,t mac,boneless buffalo wings six pack death sauce,24,g,55,mg,1840,g,31,g,26,g,4,g,0,g,2,g,9,g
+62,t mac,boneless buffalo wings six pack garlic parmesan,57,g,60,mg,1330,g,31,g,28,g,10,g,0,g,2,g,8,g
+63,t mac,boneless buffalo wings six pack habanero bbq,23,g,55,mg,1410,g,43,g,24,g,4,g,0,g,2,g,17,g
+64,t mac,boneless buffalo wings six pack honey chipotle,23,g,55,mg,1440,g,45,g,24,g,4,g,0,g,2,g,23,g
+65,t mac,boneless buffalo wings six pack honey twang,35,g,55,mg,1110,g,46,g,24,g,6,g,0,g,2,g,24,g
+66,t mac,boneless buffalo wings six pack hot buffalo,23,g,55,mg,1700,g,33,g,24,g,4,g,0,g,2,g,10,g
+67,t mac,boneless buffalo wings six pack korean black garlic,24,g,55,mg,1430,g,37,g,25,g,4,g,0,g,2,g,13,g
+68,t mac,boneless buffalo wings six pack lemon pepper,23,g,55,mg,3270,g,34,g,24,g,4,g,0,g,2,g,9,g
+69,t mac,boneless buffalo wings six pack medium buffalo,23,g,55,mg,1700,g,32,g,24,g,4,g,0,g,2,g,10,g
+70,t mac,boneless buffalo wings six pack mild buffalo,36,g,55,mg,1510,g,31,g,24,g,6,g,0,g,2,g,9,g
+71,t mac,boneless buffalo wings six pack no sauce,23,g,55,mg,860,g,29,g,24,g,4,g,0,g,2,g,8,g
+72,t mac,boneless buffalo wings six pack ranch,51,g,80,mg,1250,g,30,g,25,g,10,g,0,g,2,g,9,g
+73,t mac,boneless buffalo wings six pack slow burn,23,g,55,mg,1670,g,32,g,24,g,4,g,0,g,2,g,10,g
+74,t mac,boneless buffalo wings six pack sweet chili sesame,24,g,55,mg,1870,g,52,g,25,g,4,g,0,g,2,g,29,g
+75,t mac,boneless buffalo wings six pack three mile island,23,g,55,mg,1880,g,36,g,25,g,4,g,0,g,3,g,12,g
+76,t mac,boneless buffalo wings triple asian sweet heat,115,g,265,mg,6580,g,249,g,121,g,21,g,0,g,9,g,134,g
+77,t mac,boneless buffalo wings triple bbq sauce,116,g,265,mg,5850,g,242,g,121,g,21,g,0,g,9,g,126,g
+78,t mac,boneless buffalo wings triple bleu cheese,196,g,365,mg,5160,g,145,g,129,g,43,g,0,g,8,g,40,g
+79,t mac,boneless buffalo wings triple chili mango,116,g,265,mg,7550,g,175,g,121,g,21,g,0,g,9,g,62,g
+80,t mac,boneless buffalo wings triple death sauce,122,g,265,mg,10080,g,157,g,134,g,23,g,0,g,8,g,46,g
+81,t mac,boneless buffalo wings triple garlic parmesan,302,g,280,mg,6680,g,156,g,130,g,50,g,0,g,8,g,38,g
+82,t mac,boneless buffalo wings triple habanero bbq,116,g,265,mg,7510,g,228,g,121,g,21,g,0,g,10,g,96,g
+83,t mac,boneless buffalo wings triple honey chipotle,115,g,265,mg,7700,g,241,g,122,g,21,g,0,g,10,g,126,g
+84,t mac,boneless buffalo wings triple honey twang,186,g,280,mg,5780,g,248,g,121,g,31,g,0,g,9,g,134,g
+85,t mac,boneless buffalo wings triple hot buffalo,116,g,265,mg,9240,g,168,g,123,g,21,g,0,g,12,g,53,g
+86,t mac,boneless buffalo wings triple korean black garlic,117,g,265,mg,5810,g,164,g,122,g,22,g,0,g,8,g,52,g
+87,t mac,boneless buffalo wings triple lemon pepper,115,g,265,mg,10710,g,156,g,121,g,21,g,0,g,9,g,41,g
+88,t mac,boneless buffalo wings triple medium buffalo,115,g,265,mg,9240,g,165,g,122,g,21,g,0,g,11,g,51,g
+89,t mac,boneless buffalo wings triple mild buffalo,190,g,265,mg,8120,g,158,g,122,g,32,g,0,g,10,g,47,g
+90,t mac,boneless buffalo wings triple no sauce,115,g,265,mg,4280,g,143,g,120,g,21,g,0,g,8,g,38,g
+91,t mac,boneless buffalo wings triple ranch,200,g,340,mg,5460,g,148,g,123,g,39,g,0,g,8,g,41,g
+92,t mac,boneless buffalo wings triple slow burn,115,g,265,mg,9060,g,164,g,122,g,21,g,0,g,11,g,51,g
+93,t mac,boneless buffalo wings triple sweet chili sesame,120,g,265,mg,10230,g,279,g,123,g,22,g,0,g,8,g,165,g
+94,t mac,boneless buffalo wings triple three mile island,117,g,265,mg,10320,g,186,g,125,g,22,g,0,g,14,g,63,g
+95,t mac,boneless wings platter,31,g,70,mg,1170,g,39,g,32,g,6,g,0,g,3,g,11,g
+96,t mac,boneless wings platter 8 servings,245,g,560,mg,9390,g,314,g,258,g,45,g,0,g,21,g,86,g
+97,t mac,boneless wings platter asian sweet heat,31,g,70,mg,1750,g,66,g,33,g,6,g,0,g,3,g,35,g
+98,t mac,boneless wings platter asian sweet heat 8 servings,246,g,560,mg,14000,g,528,g,261,g,46,g,0,g,25,g,280,g
+99,t mac,boneless wings platter bbq sauce,31,g,70,mg,1570,g,64,g,33,g,6,g,0,g,3,g,33,g
+100,t mac,boneless wings platter bbq sauce 8 servings,0,g,515,mg,25,g,263,g,74,g,560,g,12551,g,261,g,3632,g
+101,t mac,boneless wings platter bleu cheese,58,g,105,mg,1470,g,40,g,35,g,13,g,0,g,3,g,12,g
+102,t mac,boneless wings platter bleu cheese 8 servings,461,g,825,mg,11760,g,320,g,283,g,103,g,0,g,21,g,92,g
+103,t mac,boneless wings platter death sauce,32,g,70,mg,2630,g,43,g,36,g,6,g,0,g,3,g,13,g
+104,t mac,boneless wings platter death sauce 8 servings,259,g,560,mg,21010,g,343,g,287,g,48,g,0,g,21,g,103,g
+105,t mac,boneless wings platter garlic parmesan,77,g,75,mg,1770,g,43,g,34,g,13,g,0,g,3,g,11,g
+106,t mac,boneless wings platter garlic parmesan 8 servings,617,g,585,mg,14130,g,342,g,276,g,102,g,0,g,22,g,86,g
+107,t mac,boneless wings platter habanero bbq,31,g,70,mg,1980,g,61,g,33,g,6,g,0,g,3,g,25,g
+108,t mac,boneless wings platter habanero bbq 8 servings,247,g,560,mg,15870,g,486,g,261,g,46,g,0,g,25,g,202,g
+109,t mac,boneless wings platter honey chipotle,31,g,70,mg,2030,g,64,g,33,g,6,g,0,g,3,g,33,g
+110,t mac,boneless wings platter honey chipotle 8 servings,246,g,560,mg,16240,g,511,g,261,g,46,g,0,g,26,g,264,g
+111,t mac,boneless wings platter honey twang,48,g,75,mg,1550,g,66,g,33,g,8,g,0,g,3,g,35,g
+112,t mac,boneless wings platter honey twang 8 servings,387,g,595,mg,12400,g,524,g,261,g,65,g,0,g,23,g,280,g
+113,t mac,boneless wings platter hot buffalo,31,g,70,mg,2420,g,46,g,33,g,6,g,0,g,4,g,15,g
+114,t mac,boneless wings platter hot buffalo 8 servings,247,g,560,mg,19320,g,365,g,264,g,46,g,0,g,30,g,116,g
+115,t mac,boneless wings platter medium buffalo,31,g,70,mg,2420,g,45,g,33,g,6,g,0,g,4,g,14,g
+116,t mac,boneless wings platter medium buffalo 8 servings,247,g,560,mg,19320,g,359,g,263,g,46,g,0,g,29,g,114,g
+117,t mac,boneless wings platter mild buffalo,49,g,70,mg,2140,g,43,g,33,g,8,g,0,g,3,g,13,g
+118,t mac,boneless wings platter mild buffalo 8 servings,395,g,560,mg,17080,g,344,g,261,g,67,g,0,g,26,g,105,g
+119,t mac,boneless wings platter ranch,59,g,95,mg,1570,g,41,g,33,g,11,g,0,g,3,g,12,g
+120,t mac,boneless wings platter ranch 8 servings,473,g,760,mg,12560,g,328,g,267,g,92,g,0,g,23,g,94,g
+121,t mac,boneless wings platter slow burn,31,g,70,mg,2370,g,45,g,33,g,6,g,0,g,4,g,14,g
+122,t mac,boneless wings platter slow burn 8 servings,247,g,560,mg,18970,g,358,g,263,g,46,g,0,g,28,g,113,g
+123,t mac,boneless wings platter sweet chili sesame,32,g,70,mg,2660,g,73,g,33,g,6,g,0,g,3,g,43,g
+124,t mac,boneless wings platter sweet chili sesame 8 servings,255,g,560,mg,21290,g,588,g,265,g,46,g,0,g,21,g,342,g
+125,t mac,boneless wings platter three mile island,31,g,70,mg,2680,g,50,g,34,g,6,g,0,g,4,g,17,g
+126,t mac,boneless wings platter three mile island 8 servings,249,g,560,mg,21470,g,401,g,269,g,46,g,0,g,34,g,137,g
+127,t mac,buffalo burger,4,g,15,mg,830,g,4,g,4,g,3,g,0,g,1,g,2,g
+128,t mac,buffalo burger beef burger,32,g,155,mg,2590,g,5,g,44,g,13,g,0,g,1,g,2,g
+129,t mac,buffalo burger black bean veggie burger,6,g,15,mg,1310,g,32,g,13,g,3,g,0,g,11,g,3,g
+130,t mac,buffalo burger fried chicken,14,g,110,mg,3210,g,67,g,50,g,4,g,0,g,3,g,3,g
+131,t mac,buffalo burger gluten free bun,10,g,15,mg,1270,g,43,g,10,g,3,g,0,g,6,g,8,g
+132,t mac,buffalo burger grilled chicken,6,g,110,mg,1030,g,4,g,43,g,3,g,0,g,1,g,2,g
+133,t mac,buffalo burger regular bun,8,g,15,mg,1220,g,53,g,12,g,4,g,0,g,3,g,9,g
+134,t mac,buffalo burger turkey burger,16,g,140,mg,2880,g,7,g,36,g,6,g,0,g,1,g,2,g
+135,t mac,buffalo chicken tenders,15,g,150,mg,3560,g,95,g,70,g,3,g,0,g,4,g,1,g
+136,t mac,buffalo chicken tenders asian sweet heat,16,g,150,mg,4710,g,149,g,70,g,3,g,0,g,5,g,50,g
+137,t mac,buffalo chicken tenders bbq sauce,16,g,150,mg,4350,g,145,g,70,g,3,g,0,g,5,g,45,g
+138,t mac,buffalo chicken tenders blue cheese,42,g,180,mg,3860,g,96,g,73,g,10,g,0,g,4,g,2,g
+139,t mac,buffalo chicken tenders death,15,g,150,mg,4720,g,167,g,70,g,3,g,0,g,4,g,65,g
+140,t mac,buffalo chicken tenders garlic parmesan,19,g,150,mg,6470,g,103,g,77,g,3,g,0,g,4,g,6,g
+141,t mac,buffalo chicken tenders habanero bbq,110,g,160,mg,4800,g,102,g,76,g,18,g,0,g,4,g,1,g
+142,t mac,buffalo chicken tenders honey chipotle,16,g,150,mg,5280,g,145,g,70,g,3,g,0,g,5,g,46,g
+143,t mac,buffalo chicken tenders honey mustard,50,g,165,mg,4000,g,123,g,71,g,7,g,0,g,5,g,26,g
+144,t mac,buffalo chicken tenders honey twang,51,g,155,mg,4320,g,148,g,70,g,8,g,0,g,4,g,50,g
+145,t mac,buffalo chicken tenders hot buffalo,16,g,150,mg,6050,g,108,g,71,g,3,g,0,g,6,g,9,g
+146,t mac,buffalo chicken tenders lemon pepper rub,15,g,150,mg,5170,g,99,g,70,g,3,g,0,g,4,g,2,g
+147,t mac,buffalo chicken tenders medium buffalo,16,g,150,mg,6040,g,107,g,71,g,3,g,0,g,6,g,8,g
+148,t mac,buffalo chicken tenders mild buffalo,53,g,150,mg,5480,g,103,g,70,g,8,g,0,g,5,g,6,g
+149,t mac,buffalo chicken tenders ranch,44,g,175,mg,3960,g,97,g,71,g,9,g,0,g,4,g,2,g
+150,t mac,buffalo chicken tenders slow burn,16,g,150,mg,5960,g,106,g,71,g,3,g,0,g,6,g,8,g
+151,t mac,buffalo chicken tenders sweet chili sesame,18,g,150,mg,6540,g,164,g,71,g,3,g,0,g,4,g,65,g
+152,t mac,buffalo chicken tenders three mile island,16,g,150,mg,6580,g,117,g,72,g,3,g,0,g,7,g,14,g
+153,t mac,buffalo fried chicken salad,14,g,110,mg,2310,g,54,g,47,g,6,g,0,g,5,g,7,g
+154,t mac,buffalo fried chicken salad blue cheese,41,g,140,mg,2600,g,55,g,50,g,13,g,0,g,5,g,8,g
+155,t mac,buffalo fried chicken salad buffalo ranch,35,g,125,mg,2890,g,57,g,48,g,10,g,0,g,5,g,8,g
+156,t mac,buffalo fried chicken salad caesar,53,g,130,mg,2760,g,55,g,49,g,12,g,0,g,5,g,7,g
+157,t mac,buffalo fried chicken salad fuji apple vinaigrette,30,g,110,mg,2570,g,70,g,47,g,9,g,0,g,5,g,23,g
+158,t mac,buffalo fried chicken salad honey mustard,37,g,120,mg,2600,g,72,g,48,g,9,g,0,g,6,g,23,g
+159,t mac,buffalo fried chicken salad olive oil vinaigrette,26,g,110,mg,2770,g,60,g,47,g,8,g,0,g,5,g,11,g
+160,t mac,buffalo fried chicken salad ranch,41,g,130,mg,2680,g,56,g,48,g,12,g,0,g,5,g,8,g
+161,t mac,buffalo fried chicken salad red balsamic vinaigrette,30,g,110,mg,2910,g,62,g,47,g,9,g,0,g,5,g,15,g
+162,t mac,buffalo grilled chicken salad,10,g,105,mg,2850,g,11,g,42,g,6,g,0,g,4,g,5,g
+163,t mac,buffalo grilled chicken salad blue cheese,37,g,140,mg,3150,g,12,g,45,g,13,g,0,g,4,g,6,g
+164,t mac,buffalo grilled chicken salad buffalo ranch,31,g,125,mg,3430,g,14,g,43,g,10,g,0,g,5,g,7,g
+165,t mac,buffalo grilled chicken salad caesar,49,g,130,mg,3300,g,12,g,44,g,11,g,0,g,5,g,5,g
+166,t mac,buffalo grilled chicken salad fuji apple vinaigrette,26,g,105,mg,3110,g,27,g,42,g,9,g,0,g,4,g,21,g
+167,t mac,buffalo grilled chicken salad honey mustard,33,g,115,mg,3140,g,30,g,42,g,9,g,0,g,5,g,21,g
+168,t mac,buffalo grilled chicken salad olive oil vinaigrette,22,g,105,mg,3310,g,17,g,42,g,8,g,0,g,4,g,9,g
+169,t mac,buffalo grilled chicken salad ranch,37,g,130,mg,3220,g,13,g,43,g,11,g,0,g,5,g,6,g
+170,t mac,buffalo grilled chicken salad red balsamic vinaigrette,26,g,105,mg,3450,g,19,g,42,g,9,g,0,g,4,g,13,g
+171,t mac,chicken blt salad with grilled chicken,28,g,110,mg,2770,g,21,g,48,g,6,g,0,g,10,g,7,g
+172,t mac,chicken blt salad with grilled salmon,48,g,130,mg,1080,g,19,g,49,g,10,g,0,g,10,g,6,g
+173,t mac,chicken blt salad with grilled shrimp,31,g,245,mg,1530,g,21,g,43,g,7,g,0,g,10,g,7,g
+174,t mac,chicken blt salad blue cheese,53,g,65,mg,1250,g,20,g,18,g,13,g,0,g,10,g,7,g
+175,t mac,chicken blt salad buffalo ranch,46,g,50,mg,1540,g,22,g,16,g,10,g,0,g,10,g,8,g
+176,t mac,chicken blt salad caesar,65,g,50,mg,1400,g,20,g,16,g,12,g,0,g,10,g,7,g
+177,t mac,chicken blt salad fuji apple vinaigrette,42,g,30,mg,1220,g,35,g,15,g,9,g,0,g,10,g,22,g
+178,t mac,chicken blt salad honey mustard,49,g,40,mg,1250,g,38,g,15,g,9,g,0,g,10,g,23,g
+179,t mac,chicken blt salad no dressing,26,g,30,mg,960,g,19,g,15,g,6,g,0,g,10,g,6,g
+180,t mac,chicken blt salad olive oil vinaigrette,38,g,30,mg,1420,g,25,g,15,g,8,g,0,g,10,g,10,g
+181,t mac,chicken blt salad ranch,53,g,55,mg,1330,g,21,g,16,g,11,g,0,g,10,g,7,g
+182,t mac,chicken blt salad red balsamic vinaigrette,42,g,30,mg,1560,g,27,g,15,g,9,g,0,g,10,g,14,g
+183,t mac,chicken tinga nacho dip platter,204,g,790,mg,15420,g,95,g,234,g,114,g,0,g,25,g,30,g
+184,t mac,chicken tinga nacho dip platter with gluten free tortilla chips,447,g,790,mg,23900,g,672,g,298,g,149,g,0,g,89,g,30,g
+185,t mac,chicken tinga nacho dip platter with regular tortilla chips,250,g,790,mg,20270,g,513,g,279,g,117,g,0,g,25,g,66,g
+186,t mac,chicken tinga nacho platter,25,g,100,mg,1930,g,12,g,29,g,14,g,0,g,3,g,4,g
+187,t mac,chicken tinga nacho platter with gluten free tortilla chips,56,g,100,mg,2990,g,84,g,37,g,19,g,0,g,11,g,4,g
+188,t mac,chicken tinga nacho platter with regular tortilla chips,31,g,100,mg,2530,g,64,g,35,g,15,g,0,g,3,g,8,g
+189,t mac,chicken tinga quesadillas,63,g,230,mg,2460,g,71,g,63,g,33,g,0,g,10,g,12,g
+190,t mac,chicken tinga quesadillas party platter,40,g,140,mg,2850,g,38,g,36,g,21,g,0,g,7,g,7,g
+191,t mac,chicken tinga quesadillas party platter 8 servings,320,g,1140,mg,22790,g,305,g,285,g,164,g,0,g,54,g,54,g
+192,t mac,chicken tinga tacos,21,g,100,mg,2270,g,83,g,48,g,9,g,0,g,9,g,17,g
+193,t mac,chicken tinga train wreck nachos,114,g,350,mg,4810,g,91,g,103,g,69,g,0,g,6,g,9,g
+194,t mac,chicken tinga train wreck nachos with gluten free tortilla chips,159,g,350,mg,6400,g,199,g,115,g,76,g,0,g,18,g,9,g
+195,t mac,chicken tinga train wreck nachos with regular tortilla chips,123,g,350,mg,5720,g,169,g,112,g,70,g,0,g,6,g,16,g
+196,t mac,chicken tortilla soup bowl,7,g,25,mg,800,g,15,g,13,g,0,g,0,g,1,g,0,g
+197,t mac,chicken tortilla soup bowl with gluten free tortilla chips,12,g,25,mg,1000,g,28,g,15,g,1,g,0,g,3,g,0,g
+198,t mac,chicken tortilla soup bowl with regular tortilla chips,8,g,25,mg,910,g,25,g,14,g,0,g,0,g,1,g,1,g
+199,t mac,chicken tortilla soup bowl with saltines,8,g,25,mg,950,g,24,g,14,g,0,g,0,g,1,g,0,g
+200,t mac,chicken tortilla soup cup,5,g,15,mg,540,g,11,g,9,g,0,g,0,g,1,g,0,g
+201,t mac,chicken tortilla soup cup with gluten free tortilla chips,11,g,15,mg,740,g,24,g,10,g,1,g,0,g,3,g,0,g
+202,t mac,chicken tortilla soup cup with regular tortilla chips,7,g,15,mg,660,g,20,g,10,g,0,g,0,g,1,g,1,g
+203,t mac,chicken tortilla soup cup with saltines,6,g,15,mg,620,g,15,g,9,g,0,g,0,g,1,g,0,g
+204,t mac,chili bowl,13,g,55,mg,740,g,25,g,21,g,5,g,0,g,8,g,5,g
+205,t mac,chili bowl with gluten free tortilla chips,18,g,55,mg,940,g,39,g,23,g,6,g,0,g,9,g,5,g
+206,t mac,chili bowl with regular tortilla chips,14,g,55,mg,850,g,35,g,22,g,5,g,0,g,8,g,6,g
+207,t mac,chili bowl with saltines,14,g,55,mg,890,g,34,g,22,g,5,g,0,g,8,g,5,g
+208,t mac,chili cup,9,g,35,mg,530,g,17,g,15,g,4,g,0,g,5,g,3,g
+209,t mac,chili cup with gluten free tortilla chips,15,g,35,mg,730,g,31,g,16,g,5,g,0,g,7,g,3,g
+210,t mac,chili cup with regular tortilla chips,10,g,35,mg,640,g,27,g,16,g,4,g,0,g,5,g,4,g
+211,t mac,chili cup with saltines,10,g,35,mg,600,g,22,g,15,g,4,g,0,g,5,g,3,g
+212,t mac,chocolate stout pie,21,g,35,mg,280,g,49,g,6,g,9,g,0,g,1,g,36,g
+213,t mac,classic side black beans,3,g,0,mg,970,g,25,g,8,g,0,g,0,g,8,g,3,g
+214,t mac,classic side coleslaw,33,g,15,mg,650,g,16,g,2,g,5,g,0,g,2,g,14,g
+215,t mac,classic side french fries,16,g,0,mg,930,g,48,g,5,g,3,g,0,g,6,g,1,g
+216,t mac,classic side fresh broccoli,19,g,0,mg,310,g,8,g,4,g,3,g,0,g,3,g,2,g
+217,t mac,classic side tater tots,24,g,0,mg,3300,g,49,g,5,g,6,g,0,g,6,g,0,g
+218,t mac,colossal double chocolate cake,59,g,125,mg,770,g,112,g,13,g,30,g,0,g,6,g,73,g
+219,t mac,cuban sandwich,41,g,160,mg,2390,g,81,g,59,g,19,g,0,g,3,g,15,g
+220,t mac,fried buffalo chicken sandwich,10,g,95,mg,2100,g,47,g,42,g,4,g,0,g,2,g,4,g
+221,t mac,fried buffalo chicken sandwich brioche bun,13,g,95,mg,2490,g,96,g,50,g,5,g,0,g,4,g,11,g
+222,t mac,fried buffalo chicken sandwich gluten free bun,16,g,95,mg,2540,g,86,g,48,g,4,g,0,g,7,g,10,g
+223,t mac,fried buffalo chicken sandwich hoagie roll,19,g,95,mg,2570,g,90,g,48,g,6,g,0,g,4,g,5,g
+224,t mac,fried chicken tenders,15,g,150,mg,3560,g,95,g,70,g,3,g,0,g,4,g,1,g
+225,t mac,fried chicken tenders platter,19,g,185,mg,4450,g,120,g,87,g,3,g,0,g,5,g,2,g
+226,t mac,fried chicken tenders platter with bbq sauce,19,g,185,mg,4860,g,135,g,87,g,3,g,0,g,5,g,15,g
+227,t mac,fried chicken tenders platter with honey mustard,42,g,195,mg,4750,g,138,g,88,g,7,g,0,g,6,g,18,g
+228,t mac,fried chicken tenders platter with honey mustard 8 servings,337,g,1560,mg,37960,g,1102,g,702,g,52,g,0,g,44,g,145,g
+229,t mac,fried chicken tenders platter with sweet baby rays bbq,155,g,1480,mg,38900,g,1076,g,698,g,28,g,0,g,39,g,120,g
+230,t mac,fried chicken tenders platter 8 servings,154,g,1480,mg,35630,g,957,g,696,g,28,g,0,g,39,g,15,g
+231,t mac,fried chicken tenders bbq sauce,16,g,150,mg,4350,g,145,g,70,g,3,g,0,g,5,g,45,g
+232,t mac,fried chicken tenders honey mustard,50,g,165,mg,4000,g,123,g,71,g,7,g,0,g,5,g,26,g
+233,t mac,grilled buffalo chicken sandwich,6,g,95,mg,2650,g,5,g,36,g,3,g,0,g,1,g,2,g
+234,t mac,grilled buffalo chicken sandwich brioche bun,9,g,95,mg,3040,g,54,g,44,g,5,g,0,g,3,g,9,g
+235,t mac,grilled buffalo chicken sandwich gluten free bun,12,g,95,mg,3090,g,44,g,42,g,3,g,0,g,6,g,8,g
+236,t mac,grilled buffalo chicken sandwich hoagie roll,15,g,95,mg,3120,g,48,g,42,g,5,g,0,g,3,g,3,g
+237,t mac,grilled buffalo chicken wrap,25,g,105,mg,3410,g,50,g,44,g,9,g,0,g,3,g,4,g
+238,t mac,grilled chicken caesar salad,88,g,135,mg,3250,g,28,g,46,g,14,g,0,g,3,g,3,g
+239,t mac,grilled chicken ranch wrap,24,g,95,mg,3000,g,50,g,42,g,6,g,0,g,4,g,3,g
+240,t mac,grilled chicken ranch wraps platter,24,g,95,mg,3000,g,50,g,42,g,6,g,0,g,4,g,3,g
+241,t mac,grilled chicken ranch wraps platter 6 sandwiches,144,g,570,mg,17990,g,297,g,252,g,35,g,0,g,23,g,18,g
+242,t mac,grilled shrimp caesar salad,88,g,200,mg,2170,g,29,g,33,g,14,g,0,g,3,g,3,g
+243,t mac,grilled steak caesar salad,108,g,155,mg,2370,g,27,g,48,g,23,g,0,g,3,g,3,g
+244,t mac,grilled steak quesadillas,74,g,235,mg,4410,g,66,g,61,g,38,g,0,g,9,g,9,g
+245,t mac,grilled steak quesadillas party platter,46,g,140,mg,2410,g,38,g,32,g,23,g,0,g,7,g,7,g
+246,t mac,grilled steak quesadillas party platter 8 servings,368,g,1110,mg,19300,g,302,g,259,g,184,g,0,g,53,g,53,g
+247,t mac,grilled steak quesadillas with house made salsa,74,g,235,mg,4720,g,70,g,62,g,38,g,0,g,10,g,12,g
+248,t mac,grilled steak tacos,51,g,125,mg,3170,g,89,g,53,g,18,g,0,g,9,g,18,g
+249,t mac,grilled vegetable and black bean quesadillas,63,g,175,mg,2700,g,74,g,45,g,33,g,0,g,11,g,12,g
+250,t mac,grilled vegetable and black bean quesadillas with house made salsa,63,g,175,mg,3010,g,78,g,45,g,33,g,0,g,12,g,14,g
+251,t mac,grilled vegetable and cilantro black bean quesadillas party platter,41,g,105,mg,1470,g,54,g,28,g,21,g,0,g,11,g,8,g
+252,t mac,grilled vegetable and cilantro black bean quesadillas party platter 8 servings,324,g,860,mg,11770,g,429,g,226,g,165,g,0,g,84,g,64,g
+253,t mac,guacamole large,46,g,0,mg,1090,g,33,g,7,g,7,g,0,g,22,g,5,g
+254,t mac,guacamole large with gluten free tortilla chips,107,g,0,mg,3210,g,177,g,23,g,15,g,0,g,38,g,5,g
+255,t mac,guacamole large with regular tortilla chips,57,g,0,mg,2300,g,137,g,18,g,7,g,0,g,22,g,14,g
+256,t mac,guacamole small,31,g,0,mg,810,g,23,g,5,g,4,g,0,g,15,g,4,g
+257,t mac,guacamole small with gluten free tortilla chips,91,g,0,mg,2930,g,167,g,21,g,13,g,0,g,31,g,4,g
+258,t mac,guacamole small with regular tortilla chips,42,g,0,mg,2030,g,128,g,16,g,5,g,0,g,15,g,13,g
+259,t mac,hickory burger beef burger,44,g,180,mg,2800,g,15,g,52,g,19,g,0,g,1,g,11,g
+260,t mac,hickory burger black bean veggie burger,18,g,40,mg,1520,g,42,g,21,g,8,g,0,g,10,g,12,g
+261,t mac,hickory burger fried chicken,26,g,140,mg,3410,g,78,g,58,g,10,g,0,g,3,g,12,g
+262,t mac,hickory burger gluten free bun,22,g,40,mg,1480,g,53,g,18,g,8,g,0,g,5,g,17,g
+263,t mac,hickory burger grilled chicken,18,g,120,mg,2850,g,15,g,45,g,9,g,0,g,1,g,11,g
+264,t mac,hickory burger regular bun,20,g,40,mg,1430,g,63,g,20,g,10,g,0,g,2,g,18,g
+265,t mac,hickory burger turkey burger,28,g,165,mg,3080,g,17,g,44,g,11,g,0,g,1,g,11,g
+266,t mac,kenmore burger beef burger,50,g,175,mg,3370,g,6,g,53,g,18,g,0,g,1,g,1,g
+267,t mac,kenmore burger black bean veggie burger,24,g,35,mg,2080,g,33,g,22,g,7,g,0,g,11,g,2,g
+268,t mac,kenmore burger fried chicken,33,g,135,mg,3980,g,68,g,59,g,9,g,0,g,3,g,2,g
+269,t mac,kenmore burger gluten free bun,29,g,35,mg,2040,g,44,g,19,g,7,g,0,g,6,g,7,g
+270,t mac,kenmore burger grilled chicken,25,g,135,mg,1800,g,5,g,52,g,8,g,0,g,1,g,2,g
+271,t mac,kenmore burger regular bun,26,g,35,mg,1990,g,54,g,21,g,9,g,0,g,3,g,8,g
+272,t mac,kenmore burger turkey burger,23,g,35,mg,1600,g,5,g,13,g,7,g,0,g,1,g,1,g
+273,t mac,key lime pie,14,g,25,mg,170,g,42,g,5,g,7,g,0,g,1,g,33,g
+274,t mac,kid burger,0,g,0,mg,320,g,10,g,0,g,0,g,0,g,0,g,8,g
+275,t mac,kid burger with rice krispy treat,1,g,0,mg,380,g,19,g,0,g,1,g,0,g,0,g,12,g
+276,t mac,kid burger beef burger,14,g,70,mg,1200,g,10,g,20,g,5,g,0,g,1,g,8,g
+277,t mac,kid burger fried chicken,10,g,100,mg,2700,g,73,g,47,g,2,g,0,g,3,g,9,g
+278,t mac,kid burger gluten free,6,g,0,mg,760,g,49,g,6,g,0,g,0,g,5,g,14,g
+279,t mac,kid burger grilled chicken,2,g,100,mg,520,g,10,g,40,g,1,g,0,g,1,g,8,g
+280,t mac,kid burger regular,4,g,0,mg,710,g,59,g,8,g,2,g,0,g,2,g,15,g
+281,t mac,kid burger turkey burger,12,g,125,mg,2370,g,13,g,33,g,3,g,0,g,1,g,8,g
+282,t mac,kid chicken nuggets,19,g,45,mg,710,g,24,g,20,g,4,g,0,g,1,g,6,g
+283,t mac,kid chicken nuggets with rice krispy treat,20,g,45,mg,770,g,33,g,20,g,4,g,0,g,1,g,11,g
+284,t mac,kid chicken nuggets blue cheese,46,g,75,mg,1010,g,25,g,23,g,11,g,0,g,1,g,7,g
+285,t mac,kid chicken nuggets honey mustard,42,g,55,mg,1000,g,42,g,21,g,7,g,0,g,2,g,23,g
+286,t mac,kid chicken nuggets ranch,48,g,70,mg,1110,g,26,g,22,g,9,g,0,g,2,g,7,g
+287,t mac,kid fried tenders with rice krispy treat,12,g,100,mg,2430,g,73,g,46,g,2,g,0,g,2,g,5,g
+288,t mac,kid fried tenders blue cheese,37,g,130,mg,2960,g,65,g,49,g,9,g,0,g,2,g,2,g
+289,t mac,kid fried tenders honey mustard,33,g,110,mg,2670,g,82,g,47,g,5,g,0,g,3,g,17,g
+290,t mac,kid fried tenders ranch,39,g,125,mg,2770,g,66,g,48,g,7,g,0,g,3,g,2,g
+291,t mac,kid grilled cheese,18,g,35,mg,880,g,40,g,11,g,6,g,0,g,2,g,2,g
+292,t mac,kid grilled cheese with rice krispy treat,20,g,35,mg,930,g,49,g,11,g,7,g,0,g,2,g,6,g
+293,t mac,kid mac and cheese,9,g,10,mg,650,g,44,g,10,g,3,g,0,g,2,g,8,g
+294,t mac,kid mac and cheese with rice krispy treat,10,g,10,mg,710,g,53,g,10,g,3,g,0,g,2,g,12,g
+295,t mac,kid mini corn dogs,27,g,35,mg,930,g,32,g,12,g,8,g,0,g,0,g,12,g
+296,t mac,kid mini corn dogs with honey mustard,50,g,45,mg,1220,g,50,g,13,g,11,g,0,g,1,g,29,g
+297,t mac,kid mini corn dogs with rice krispy treat,28,g,35,mg,980,g,41,g,12,g,8,g,0,g,0,g,17,g
+298,t mac,kid quesadilla with add grilled chicken,33,g,125,mg,2100,g,25,g,44,g,20,g,0,g,1,g,1,g
+299,t mac,kid quesadilla with add taco beef,42,g,125,mg,1170,g,28,g,39,g,23,g,0,g,2,g,1,g
+300,t mac,kid quesadilla with cheese,32,g,75,mg,840,g,24,g,24,g,19,g,0,g,1,g,0,g
+301,t mac,kid quesadilla with rice krispy treat,33,g,75,mg,900,g,33,g,24,g,20,g,0,g,1,g,5,g
+302,t mac,kid quesadilla with tortilla chips gluten free,47,g,75,mg,1370,g,60,g,28,g,21,g,0,g,5,g,0,g
+303,t mac,kid quesadilla with tortilla chips regular,34,g,75,mg,1140,g,50,g,27,g,19,g,0,g,1,g,3,g
+304,t mac,kids fried tenders,10,g,100,mg,2380,g,64,g,46,g,2,g,0,g,2,g,1,g
+305,t mac,nachos all the way dip platter with tortilla chips regular,53,g,135,mg,2810,g,73,g,43,g,27,g,0,g,6,g,10,g
+306,t mac,nachos all the way platter,47,g,135,mg,2200,g,21,g,37,g,27,g,0,g,6,g,5,g
+307,t mac,nachos all the way platter with tortilla chips gluten free,77,g,135,mg,3260,g,93,g,45,g,31,g,0,g,14,g,5,g
+308,t mac,nachos all the way platter with tortilla chips gluten free 8 servings,620,g,1100,mg,26090,g,745,g,360,g,247,g,0,g,111,g,43,g
+309,t mac,nachos all the way platter with tortilla chips regular,423,g,1100,mg,22470,g,586,g,341,g,215,g,0,g,47,g,79,g
+310,t mac,nachos all the way platter 8 servings,377,g,1100,mg,17610,g,168,g,295,g,213,g,0,g,47,g,43,g
+311,t mac,new york style cheesecake,57,g,290,mg,750,g,74,g,14,g,32,g,3,g,2,g,57,g
+312,t mac,original burger,0,g,0,mg,330,g,2,g,0,g,0,g,0,g,1,g,1,g
+313,t mac,original burger beef burger,28,g,140,mg,2090,g,4,g,41,g,11,g,0,g,1,g,1,g
+314,t mac,original burger black bean veggie burger,2,g,0,mg,810,g,30,g,9,g,0,g,0,g,11,g,2,g
+315,t mac,original burger blue cheese crumbles,4,g,15,mg,520,g,2,g,3,g,3,g,0,g,1,g,1,g
+316,t mac,original burger cheddar cheese,7,g,20,mg,470,g,2,g,5,g,4,g,0,g,1,g,1,g
+317,t mac,original burger cheddar jack 5 cheese blend,11,g,30,mg,600,g,4,g,10,g,7,g,0,g,1,g,1,g
+318,t mac,original burger fried chicken,10,g,100,mg,2710,g,66,g,47,g,2,g,0,g,3,g,2,g
+319,t mac,original burger gluten free bun,6,g,0,mg,770,g,41,g,6,g,0,g,0,g,6,g,7,g
+320,t mac,original burger grilled chicken,2,g,100,mg,530,g,3,g,40,g,1,g,0,g,1,g,1,g
+321,t mac,original burger regular bun,4,g,0,mg,720,g,51,g,8,g,2,g,0,g,3,g,8,g
+322,t mac,original burger swiss cheese,6,g,20,mg,380,g,3,g,6,g,4,g,0,g,1,g,1,g
+323,t mac,original burger turkey burger,12,g,125,mg,2380,g,6,g,33,g,3,g,0,g,1,g,1,g
+324,t mac,original burger white american cheese,4,g,10,mg,560,g,2,g,3,g,2,g,0,g,1,g,1,g
+325,t mac,original wings platter,24,g,90,mg,140,g,4,g,22,g,6,g,0,g,2,g,2,g
+326,t mac,original wings platter 8 servings,190,g,705,mg,1120,g,35,g,173,g,47,g,0,g,12,g,18,g
+327,t mac,original wings platter asian sweet heat,24,g,90,mg,720,g,31,g,22,g,6,g,0,g,2,g,26,g
+328,t mac,original wings platter asian sweet heat 8 servings,191,g,705,mg,5730,g,248,g,175,g,48,g,0,g,16,g,211,g
+329,t mac,original wings platter bbq sauce,24,g,90,mg,540,g,29,g,22,g,6,g,0,g,2,g,24,g
+330,t mac,original wings platter bbq sauce 8 servings,193,g,705,mg,4280,g,234,g,175,g,48,g,0,g,15,g,194,g
+331,t mac,original wings platter bleu cheese,51,g,120,mg,440,g,5,g,25,g,13,g,0,g,2,g,3,g
+332,t mac,original wings platter bleu cheese 8 servings,407,g,975,mg,3480,g,40,g,197,g,105,g,0,g,12,g,24,g
+333,t mac,original wings platter death sauce,26,g,90,mg,1590,g,8,g,25,g,6,g,0,g,2,g,4,g
+334,t mac,original wings platter death sauce 8 servings,205,g,705,mg,12730,g,63,g,202,g,50,g,0,g,12,g,35,g
+335,t mac,original wings platter garlic parmesan,70,g,90,mg,730,g,8,g,24,g,13,g,0,g,2,g,2,g
+336,t mac,original wings platter garlic parmesan 8 servings,563,g,730,mg,5850,g,62,g,191,g,104,g,0,g,13,g,18,g
+337,t mac,original wings platter habanero bbq,24,g,90,mg,950,g,26,g,22,g,6,g,0,g,2,g,17,g
+338,t mac,original wings platter habanero bbq 8 servings,193,g,710,mg,7590,g,206,g,175,g,48,g,0,g,16,g,134,g
+339,t mac,original wings platter honey chipotle,24,g,90,mg,1000,g,29,g,22,g,6,g,0,g,2,g,24,g
+340,t mac,original wings platter honey chipotle 8 servings,192,g,705,mg,7970,g,231,g,176,g,48,g,0,g,17,g,195,g
+341,t mac,original wings platter honey twang,42,g,95,mg,520,g,31,g,22,g,8,g,0,g,2,g,26,g
+342,t mac,original wings platter honey twang 8 servings,333,g,740,mg,4130,g,245,g,176,g,67,g,0,g,15,g,211,g
+343,t mac,original wings platter hot buffalo,24,g,90,mg,1380,g,11,g,22,g,6,g,0,g,3,g,6,g
+344,t mac,original wings platter hot buffalo 8 servings,193,g,705,mg,11050,g,86,g,179,g,48,g,0,g,21,g,48,g
+345,t mac,original wings platter medium buffalo,24,g,90,mg,1380,g,10,g,22,g,6,g,0,g,2,g,6,g
+346,t mac,original wings platter medium buffalo 8 servings,192,g,705,mg,11050,g,80,g,178,g,48,g,0,g,20,g,45,g
+347,t mac,original wings platter mild buffalo,43,g,90,mg,1100,g,8,g,22,g,9,g,0,g,2,g,5,g
+348,t mac,original wings platter mild buffalo 8 servings,341,g,705,mg,8800,g,65,g,176,g,69,g,0,g,17,g,36,g
+349,t mac,original wings platter ranch,52,g,115,mg,540,g,6,g,23,g,12,g,0,g,2,g,3,g
+350,t mac,original wings platter ranch 8 servings,419,g,910,mg,4290,g,49,g,182,g,94,g,0,g,14,g,26,g
+351,t mac,original wings platter slow burn,24,g,90,mg,1340,g,10,g,22,g,6,g,0,g,2,g,6,g
+352,t mac,original wings platter slow burn 8 servings,192,g,705,mg,10700,g,78,g,178,g,48,g,0,g,19,g,45,g
+353,t mac,original wings platter sweet chili sesame,25,g,90,mg,1630,g,39,g,22,g,6,g,0,g,2,g,34,g
+354,t mac,original wings platter sweet chili sesame 8 servings,200,g,705,mg,13020,g,308,g,179,g,48,g,0,g,12,g,274,g
+355,t mac,original wings platter three mile island,24,g,90,mg,1650,g,15,g,23,g,6,g,0,g,3,g,9,g
+356,t mac,original wings platter three mile island 8 servings,194,g,705,mg,13200,g,121,g,184,g,49,g,0,g,25,g,69,g
+357,t mac,original wings double asian sweet heat,63,g,235,mg,1760,g,71,g,57,g,16,g,0,g,1,g,65,g
+358,t mac,original wings double bbq sauce,64,g,235,mg,1280,g,67,g,57,g,16,g,0,g,1,g,59,g
+359,t mac,original wings double bleu cheese,117,g,305,mg,820,g,1,g,62,g,30,g,0,g,0,g,1,g
+360,t mac,original wings double chili mango,65,g,235,mg,4550,g,43,g,58,g,16,g,0,g,2,g,33,g
+361,t mac,original wings double death sauce,68,g,235,mg,4120,g,10,g,66,g,17,g,0,g,0,g,6,g
+362,t mac,original wings double garlic parmesan,189,g,250,mg,1870,g,9,g,64,g,35,g,0,g,0,g,0,g
+363,t mac,original wings double habanero bbq,64,g,235,mg,2390,g,57,g,57,g,16,g,0,g,1,g,39,g
+364,t mac,original wings double honey chipotle,63,g,235,mg,2520,g,66,g,57,g,16,g,0,g,2,g,59,g
+365,t mac,original wings double honey twang,111,g,245,mg,1230,g,70,g,57,g,22,g,0,g,1,g,65,g
+366,t mac,original wings double hot buffalo,64,g,235,mg,3550,g,17,g,58,g,16,g,0,g,3,g,10,g
+367,t mac,original wings double korean black garlic,66,g,235,mg,2250,g,28,g,59,g,16,g,0,g,1,g,19,g
+368,t mac,original wings double lemon pepper,64,g,235,mg,8720,g,18,g,57,g,16,g,0,g,2,g,4,g
+369,t mac,original wings double medium buffalo,64,g,235,mg,3550,g,15,g,58,g,16,g,0,g,3,g,9,g
+370,t mac,original wings double mild buffalo,113,g,235,mg,2800,g,10,g,57,g,23,g,0,g,2,g,6,g
+371,t mac,original wings double no sauce,63,g,235,mg,220,g,0,g,56,g,16,g,0,g,0,g,0,g
+372,t mac,original wings double ranch,120,g,285,mg,1020,g,4,g,58,g,27,g,0,g,1,g,2,g
+373,t mac,original wings double slow burn,64,g,235,mg,3430,g,15,g,58,g,16,g,0,g,2,g,9,g
+374,t mac,original wings double sweet chili sesame,66,g,235,mg,4210,g,92,g,58,g,16,g,0,g,0,g,86,g
+375,t mac,original wings double three mile island,64,g,235,mg,4270,g,29,g,60,g,16,g,0,g,4,g,17,g
+376,t mac,original wings party pack asian sweet heat,158,g,590,mg,4410,g,179,g,142,g,40,g,0,g,3,g,162,g
+377,t mac,original wings party pack bbq sauce,160,g,590,mg,3200,g,166,g,142,g,40,g,0,g,3,g,147,g
+378,t mac,original wings party pack bleu cheese,266,g,725,mg,1740,g,3,g,152,g,68,g,0,g,0,g,3,g
+379,t mac,original wings party pack chili mango,161,g,590,mg,10400,g,98,g,144,g,40,g,0,g,5,g,74,g
+380,t mac,original wings party pack death sauce,170,g,590,mg,10260,g,24,g,164,g,42,g,0,g,0,g,14,g
+381,t mac,original wings party pack garlic parmesan,468,g,610,mg,4500,g,23,g,155,g,86,g,0,g,1,g,0,g
+382,t mac,original wings party pack habanero bbq,160,g,590,mg,5970,g,143,g,142,g,40,g,0,g,3,g,97,g
+383,t mac,original wings party pack honey chipotle,159,g,590,mg,6280,g,164,g,143,g,40,g,0,g,4,g,148,g
+384,t mac,original wings party pack honey twang,276,g,620,mg,3070,g,175,g,142,g,56,g,0,g,2,g,161,g
+385,t mac,original wings party pack hot buffalo,160,g,590,mg,8850,g,43,g,145,g,40,g,0,g,8,g,25,g
+386,t mac,original wings party pack korean black garlic,164,g,590,mg,5170,g,64,g,147,g,40,g,0,g,3,g,44,g
+387,t mac,original wings party pack lemon pepper,159,g,590,mg,19880,g,42,g,142,g,40,g,0,g,3,g,9,g
+388,t mac,original wings party pack medium buffalo,159,g,590,mg,8850,g,38,g,144,g,40,g,0,g,6,g,23,g
+389,t mac,original wings party pack mild buffalo,283,g,590,mg,6980,g,25,g,143,g,57,g,0,g,4,g,15,g
+390,t mac,original wings party pack no sauce,158,g,590,mg,560,g,0,g,140,g,39,g,0,g,0,g,0,g
+391,t mac,original wings party pack ranch,272,g,690,mg,2140,g,7,g,145,g,63,g,0,g,1,g,4,g
+392,t mac,original wings party pack slow burn,159,g,590,mg,8560,g,36,g,144,g,40,g,0,g,6,g,22,g
+393,t mac,original wings party pack sweet chili sesame,166,g,590,mg,10500,g,229,g,146,g,40,g,0,g,0,g,214,g
+394,t mac,original wings party pack three mile island,161,g,590,mg,10650,g,72,g,149,g,40,g,0,g,11,g,43,g
+395,t mac,original wings single asian sweet heat,32,g,120,mg,880,g,36,g,28,g,8,g,0,g,1,g,32,g
+396,t mac,original wings single bbq sauce,32,g,120,mg,630,g,33,g,28,g,8,g,0,g,1,g,29,g
+397,t mac,original wings single bleu cheese,59,g,150,mg,410,g,1,g,31,g,15,g,0,g,0,g,1,g
+398,t mac,original wings single chili mango,32,g,120,mg,2160,g,20,g,29,g,8,g,0,g,1,g,15,g
+399,t mac,original wings single death sauce,34,g,120,mg,2030,g,5,g,33,g,8,g,0,g,0,g,3,g
+400,t mac,original wings single garlic parmesan,95,g,130,mg,980,g,5,g,33,g,18,g,0,g,0,g,0,g
+401,t mac,original wings single habanero bbq,32,g,120,mg,1180,g,28,g,28,g,8,g,0,g,1,g,19,g
+402,t mac,original wings single honey chipotle,32,g,120,mg,1240,g,32,g,29,g,8,g,0,g,1,g,29,g
+403,t mac,original wings single honey twang,55,g,125,mg,610,g,35,g,28,g,11,g,0,g,0,g,32,g
+404,t mac,original wings single hot buffalo,32,g,120,mg,1750,g,8,g,29,g,8,g,0,g,2,g,5,g
+405,t mac,original wings single korean black garlic,33,g,120,mg,1070,g,13,g,29,g,8,g,0,g,1,g,9,g
+406,t mac,original wings single lemon pepper,32,g,120,mg,4140,g,9,g,28,g,8,g,0,g,1,g,2,g
+407,t mac,original wings single medium buffalo,32,g,120,mg,1750,g,7,g,29,g,8,g,0,g,1,g,5,g
+408,t mac,original wings single mild buffalo,56,g,120,mg,1380,g,5,g,29,g,11,g,0,g,1,g,3,g
+409,t mac,original wings single no sauce,32,g,120,mg,110,g,0,g,28,g,8,g,0,g,0,g,0,g
+410,t mac,original wings single ranch,60,g,145,mg,510,g,2,g,29,g,14,g,0,g,0,g,1,g
+411,t mac,original wings single slow burn,32,g,120,mg,1690,g,7,g,29,g,8,g,0,g,1,g,4,g
+412,t mac,original wings single sweet chili sesame,33,g,120,mg,2080,g,45,g,29,g,8,g,0,g,0,g,42,g
+413,t mac,original wings single three mile island,32,g,120,mg,2110,g,14,g,30,g,8,g,0,g,2,g,8,g
+414,t mac,original wings six pack asian sweet heat,19,g,70,mg,450,g,18,g,17,g,5,g,0,g,0,g,16,g
+415,t mac,original wings six pack bbq sauce,19,g,70,mg,340,g,17,g,17,g,5,g,0,g,0,g,15,g
+416,t mac,original wings six pack bleu cheese,46,g,105,mg,360,g,1,g,20,g,12,g,0,g,0,g,1,g
+417,t mac,original wings six pack chili mango,19,g,70,mg,1090,g,10,g,17,g,5,g,0,g,1,g,8,g
+418,t mac,original wings six pack death sauce,20,g,70,mg,1050,g,2,g,19,g,5,g,0,g,0,g,1,g
+419,t mac,original wings six pack garlic parmesan,53,g,80,mg,550,g,2,g,21,g,11,g,0,g,0,g,0,g
+420,t mac,original wings six pack habanero bbq,19,g,70,mg,620,g,15,g,17,g,5,g,0,g,0,g,10,g
+421,t mac,original wings six pack honey chipotle,19,g,70,mg,650,g,17,g,17,g,5,g,0,g,0,g,15,g
+422,t mac,original wings six pack honey twang,31,g,75,mg,320,g,18,g,17,g,6,g,0,g,0,g,16,g
+423,t mac,original wings six pack hot buffalo,19,g,70,mg,910,g,4,g,17,g,5,g,0,g,1,g,3,g
+424,t mac,original wings six pack korean black garlic,20,g,70,mg,550,g,7,g,17,g,5,g,0,g,0,g,5,g
+425,t mac,original wings six pack lemon pepper,19,g,70,mg,2080,g,4,g,17,g,5,g,0,g,0,g,1,g
+426,t mac,original wings six pack medium buffalo,19,g,70,mg,910,g,4,g,17,g,5,g,0,g,1,g,2,g
+427,t mac,original wings six pack mild buffalo,32,g,70,mg,720,g,3,g,17,g,7,g,0,g,0,g,2,g
+428,t mac,original wings six pack no sauce,19,g,70,mg,65,g,0,g,17,g,5,g,0,g,0,g,0,g
+429,t mac,original wings six pack ranch,47,g,95,mg,460,g,2,g,18,g,11,g,0,g,0,g,1,g
+430,t mac,original wings six pack slow burn,19,g,70,mg,880,g,4,g,17,g,5,g,0,g,1,g,2,g
+431,t mac,original wings six pack sweet chili sesame,20,g,70,mg,1080,g,23,g,17,g,5,g,0,g,0,g,22,g
+432,t mac,original wings six pack three mile island,19,g,70,mg,1090,g,7,g,18,g,5,g,0,g,1,g,4,g
+433,t mac,original wings triple asian sweet heat,95,g,355,mg,2640,g,107,g,85,g,24,g,0,g,2,g,97,g
+434,t mac,original wings triple bbq sauce,96,g,355,mg,1910,g,100,g,85,g,24,g,0,g,2,g,88,g
+435,t mac,original wings triple bleu cheese,176,g,455,mg,1220,g,2,g,93,g,45,g,0,g,0,g,2,g
+436,t mac,original wings triple chili mango,97,g,355,mg,6480,g,61,g,86,g,24,g,0,g,3,g,46,g
+437,t mac,original wings triple death sauce,102,g,355,mg,6140,g,14,g,99,g,25,g,0,g,0,g,9,g
+438,t mac,original wings triple garlic parmesan,282,g,370,mg,2740,g,14,g,94,g,52,g,0,g,1,g,0,g
+439,t mac,original wings triple habanero bbq,96,g,355,mg,3570,g,86,g,85,g,24,g,0,g,2,g,58,g
+440,t mac,original wings triple honey chipotle,95,g,355,mg,3760,g,98,g,86,g,24,g,0,g,2,g,89,g
+441,t mac,original wings triple honey twang,166,g,370,mg,1840,g,105,g,85,g,33,g,0,g,1,g,97,g
+442,t mac,original wings triple hot buffalo,96,g,355,mg,5300,g,26,g,87,g,24,g,0,g,5,g,15,g
+443,t mac,original wings triple korean black garlic,98,g,355,mg,3220,g,40,g,88,g,24,g,0,g,2,g,27,g
+444,t mac,original wings triple lemon pepper,95,g,355,mg,12410,g,26,g,85,g,24,g,0,g,2,g,6,g
+445,t mac,original wings triple medium buffalo,95,g,355,mg,5300,g,23,g,86,g,24,g,0,g,4,g,14,g
+446,t mac,original wings triple mild buffalo,170,g,355,mg,4180,g,15,g,86,g,34,g,0,g,3,g,9,g
+447,t mac,original wings triple no sauce,95,g,355,mg,340,g,0,g,84,g,24,g,0,g,0,g,0,g
+448,t mac,original wings triple ranch,180,g,430,mg,1520,g,5,g,87,g,41,g,0,g,1,g,3,g
+449,t mac,original wings triple slow burn,95,g,355,mg,5120,g,22,g,86,g,24,g,0,g,4,g,13,g
+450,t mac,original wings triple sweet chili sesame,100,g,355,mg,6290,g,137,g,87,g,24,g,0,g,0,g,128,g
+451,t mac,original wings triple three mile island,97,g,355,mg,6380,g,43,g,90,g,24,g,0,g,6,g,25,g
+452,t mac,plates grilled salmon,28,g,105,mg,1630,g,11,g,37,g,5,g,0,g,3,g,6,g
+453,t mac,plates grilled salmon with chili mango seasoning,29,g,105,mg,3270,g,27,g,38,g,5,g,0,g,3,g,19,g
+454,t mac,plates grilled salmon with korean black garlic seasoning,29,g,105,mg,2400,g,22,g,38,g,5,g,0,g,3,g,14,g
+455,t mac,plates southern fried catfish,52,g,95,mg,1940,g,30,g,30,g,8,g,0,g,3,g,5,g
+456,t mac,premium side broccoli queso dip casserole,44,g,70,mg,1390,g,8,g,21,g,19,g,0,g,3,g,2,g
+457,t mac,premium side onion rings,0,g,0,mg,3340,g,94,g,9,g,0,g,0,g,6,g,20,g
+458,t mac,premium side onion rings with ranch,29,g,25,mg,3730,g,96,g,10,g,6,g,0,g,7,g,21,g
+459,t mac,premium side oven baked macaroni and cheese,17,g,45,mg,790,g,24,g,9,g,9,g,0,g,0,g,0,g
+460,t mac,premium side roasted parmesan zucchini,12,g,5,mg,1220,g,4,g,3,g,2,g,0,g,1,g,2,g
+461,t mac,premium side sweet potato fries,16,g,0,mg,1290,g,53,g,3,g,2,g,0,g,8,g,20,g
+462,t mac,queso dip con carne,86,g,240,mg,4500,g,54,g,69,g,52,g,0,g,4,g,6,g
+463,t mac,queso dip con carne with gluten free tortilla chips,116,g,240,mg,5560,g,126,g,77,g,56,g,0,g,12,g,6,g
+464,t mac,queso dip con carne with regular tortilla chips,92,g,240,mg,5110,g,107,g,74,g,52,g,0,g,4,g,10,g
+465,t mac,queso dip platter,28,g,80,mg,1370,g,1,g,19,g,19,g,0,g,0,g,0,g
+466,t mac,queso dip platter with tortilla chips gluten free,58,g,80,mg,2430,g,73,g,27,g,23,g,0,g,8,g,0,g
+467,t mac,queso dip platter with tortilla chips gluten free 8 servings,467,g,625,mg,19440,g,584,g,216,g,184,g,0,g,65,g,3,g
+468,t mac,queso dip platter with tortilla chips regular,34,g,80,mg,1980,g,53,g,25,g,19,g,0,g,0,g,5,g
+469,t mac,queso dip platter with tortilla chips regular 8 servings,270,g,625,mg,15810,g,425,g,198,g,152,g,0,g,1,g,40,g
+470,t mac,queso dip platter 8 servings,224,g,625,mg,10960,g,7,g,152,g,149,g,0,g,1,g,3,g
+471,t mac,queso dip large,69,g,175,mg,3930,g,48,g,49,g,44,g,0,g,3,g,4,g
+472,t mac,queso dip large with gluten free tortilla chips,115,g,175,mg,5520,g,156,g,61,g,50,g,0,g,15,g,4,g
+473,t mac,queso dip large with regular tortilla chips,78,g,175,mg,4840,g,127,g,58,g,44,g,0,g,3,g,11,g
+474,t mac,queso dip small,49,g,115,mg,2930,g,48,g,36,g,30,g,0,g,3,g,4,g
+475,t mac,queso dip small with gluten free tortilla chips,95,g,115,mg,4520,g,156,g,48,g,37,g,0,g,15,g,4,g
+476,t mac,queso dip small with regular tortilla chips,58,g,115,mg,3840,g,126,g,45,g,31,g,0,g,3,g,11,g
+477,t mac,red wines cabernet sauvignon robert mondavi california bottle,0,g,0,mg,0,g,19,g,1,g,0,g,0,g,0,g,0,g
+478,t mac,red wines cabernet sauvignon robert mondavi california glass,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+479,t mac,red wines pinot noir la crema monterey bottle,0,g,0,mg,0,g,17,g,1,g,0,g,0,g,0,g,0,g
+480,t mac,red wines pinot noir la crema monterey glass,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+481,t mac,roasted wings platter,19,g,90,mg,970,g,10,g,22,g,5,g,0,g,3,g,4,g
+482,t mac,roasted wings platter 8 servings,151,g,705,mg,7740,g,80,g,178,g,42,g,0,g,20,g,30,g
+483,t mac,roasted wings platter asian sweet heat,19,g,90,mg,1540,g,37,g,23,g,5,g,0,g,3,g,28,g
+484,t mac,roasted wings platter asian sweet heat 8 servings,151,g,705,mg,12350,g,294,g,180,g,42,g,0,g,24,g,224,g
+485,t mac,roasted wings platter bbq sauce,19,g,90,mg,1360,g,35,g,23,g,5,g,0,g,3,g,26,g
+486,t mac,roasted wings platter bbq sauce 8 servings,153,g,705,mg,10900,g,279,g,180,g,42,g,0,g,24,g,207,g
+487,t mac,roasted wings platter bleu cheese,46,g,120,mg,1260,g,11,g,25,g,12,g,0,g,3,g,5,g
+488,t mac,roasted wings platter bleu cheese 8 servings,367,g,975,mg,10110,g,86,g,202,g,100,g,0,g,20,g,36,g
+489,t mac,roasted wings platter death sauce,21,g,90,mg,2420,g,14,g,26,g,6,g,0,g,3,g,6,g
+490,t mac,roasted wings platter death sauce 8 servings,165,g,705,mg,19360,g,109,g,207,g,45,g,0,g,20,g,48,g
+491,t mac,roasted wings platter garlic parmesan,65,g,90,mg,1560,g,13,g,24,g,12,g,0,g,3,g,4,g
+492,t mac,roasted wings platter garlic parmesan 8 servings,523,g,730,mg,12480,g,108,g,196,g,98,g,0,g,22,g,31,g
+493,t mac,roasted wings platter habanero bbq,19,g,90,mg,1780,g,31,g,23,g,5,g,0,g,3,g,18,g
+494,t mac,roasted wings platter habanero bbq 8 servings,153,g,710,mg,14220,g,252,g,180,g,42,g,0,g,25,g,146,g
+495,t mac,roasted wings platter honey chipotle,19,g,90,mg,1820,g,35,g,23,g,5,g,0,g,3,g,26,g
+496,t mac,roasted wings platter honey chipotle 8 servings,152,g,705,mg,14590,g,277,g,181,g,42,g,0,g,25,g,208,g
+497,t mac,roasted wings platter honey twang,37,g,95,mg,1340,g,36,g,23,g,8,g,0,g,3,g,28,g
+498,t mac,roasted wings platter honey twang 8 servings,293,g,740,mg,10750,g,290,g,180,g,62,g,0,g,23,g,224,g
+499,t mac,roasted wings platter hot buffalo,19,g,90,mg,2210,g,16,g,23,g,5,g,0,g,4,g,8,g
+500,t mac,roasted wings platter hot buffalo 8 servings,153,g,705,mg,17670,g,131,g,184,g,42,g,0,g,30,g,60,g
+501,t mac,roasted wings platter medium buffalo,19,g,90,mg,2210,g,16,g,23,g,5,g,0,g,3,g,7,g
+502,t mac,roasted wings platter medium buffalo 8 servings,152,g,705,mg,17670,g,125,g,183,g,42,g,0,g,28,g,58,g
+503,t mac,roasted wings platter mild buffalo,38,g,90,mg,1930,g,14,g,23,g,8,g,0,g,3,g,6,g
+504,t mac,roasted wings platter mild buffalo 8 servings,301,g,705,mg,15430,g,110,g,181,g,63,g,0,g,25,g,49,g
+505,t mac,roasted wings platter ranch,47,g,115,mg,1360,g,12,g,23,g,11,g,0,g,3,g,5,g
+506,t mac,roasted wings platter ranch 8 servings,379,g,910,mg,10910,g,94,g,187,g,88,g,0,g,23,g,38,g
+507,t mac,roasted wings platter slow burn,19,g,90,mg,2170,g,15,g,23,g,5,g,0,g,3,g,7,g
+508,t mac,roasted wings platter slow burn 8 servings,152,g,705,mg,17320,g,124,g,182,g,42,g,0,g,28,g,57,g
+509,t mac,roasted wings platter sweet chili sesame,20,g,90,mg,2460,g,44,g,23,g,5,g,0,g,3,g,36,g
+510,t mac,roasted wings platter sweet chili sesame 8 servings,161,g,705,mg,19640,g,354,g,184,g,43,g,0,g,20,g,286,g
+511,t mac,roasted wings platter three mile island,19,g,90,mg,2480,g,21,g,24,g,5,g,0,g,4,g,10,g
+512,t mac,roasted wings platter three mile island 8 servings,155,g,705,mg,19820,g,167,g,189,g,43,g,0,g,33,g,81,g
+513,t mac,roasted wings double asian sweet heat,50,g,235,mg,3970,g,86,g,59,g,14,g,0,g,4,g,69,g
+514,t mac,roasted wings double bbq sauce,51,g,235,mg,3490,g,82,g,59,g,14,g,0,g,4,g,63,g
+515,t mac,roasted wings double bleu cheese,104,g,305,mg,3020,g,17,g,64,g,28,g,0,g,3,g,6,g
+516,t mac,roasted wings double chili mango,51,g,235,mg,6760,g,58,g,59,g,14,g,0,g,5,g,37,g
+517,t mac,roasted wings double death sauce,55,g,235,mg,6320,g,25,g,67,g,15,g,0,g,3,g,10,g
+518,t mac,roasted wings double garlic parmesan,176,g,250,mg,4080,g,24,g,65,g,34,g,0,g,3,g,4,g
+519,t mac,roasted wings double habanero bbq,51,g,235,mg,4600,g,73,g,59,g,14,g,0,g,4,g,43,g
+520,t mac,roasted wings double honey chipotle,50,g,235,mg,4730,g,81,g,59,g,14,g,0,g,4,g,64,g
+521,t mac,roasted wings double honey twang,97,g,245,mg,3430,g,85,g,59,g,20,g,0,g,4,g,69,g
+522,t mac,roasted wings double hot buffalo,51,g,235,mg,5760,g,32,g,60,g,14,g,0,g,6,g,14,g
+523,t mac,roasted wings double korean black garlic,53,g,235,mg,4460,g,43,g,61,g,14,g,0,g,4,g,23,g
+524,t mac,roasted wings double lemon pepper,50,g,235,mg,10930,g,33,g,59,g,14,g,0,g,4,g,8,g
+525,t mac,roasted wings double medium buffalo,50,g,235,mg,5760,g,30,g,59,g,14,g,0,g,5,g,13,g
+526,t mac,roasted wings double mild buffalo,100,g,235,mg,5010,g,25,g,59,g,21,g,0,g,4,g,10,g
+527,t mac,roasted wings double no sauce,50,g,235,mg,2430,g,15,g,58,g,14,g,0,g,3,g,4,g
+528,t mac,roasted wings double ranch,107,g,285,mg,3220,g,19,g,60,g,25,g,0,g,3,g,6,g
+529,t mac,roasted wings double slow burn,50,g,235,mg,5640,g,30,g,59,g,14,g,0,g,5,g,13,g
+530,t mac,roasted wings double sweet chili sesame,53,g,235,mg,6420,g,107,g,60,g,14,g,0,g,3,g,90,g
+531,t mac,roasted wings double three mile island,51,g,235,mg,6480,g,44,g,61,g,14,g,0,g,7,g,21,g
+532,t mac,roasted wings party pack asian sweet heat,125,g,590,mg,9920,g,216,g,146,g,35,g,0,g,10,g,172,g
+533,t mac,roasted wings party pack bbq sauce,126,g,590,mg,8720,g,204,g,146,g,35,g,0,g,10,g,158,g
+534,t mac,roasted wings party pack bleu cheese,233,g,725,mg,7260,g,41,g,157,g,64,g,0,g,7,g,13,g
+535,t mac,roasted wings party pack chili mango,128,g,590,mg,15920,g,136,g,148,g,35,g,0,g,12,g,84,g
+536,t mac,roasted wings party pack death sauce,136,g,590,mg,15780,g,62,g,168,g,37,g,0,g,7,g,25,g
+537,t mac,roasted wings party pack garlic parmesan,435,g,610,mg,10020,g,61,g,159,g,82,g,0,g,8,g,11,g
+538,t mac,roasted wings party pack habanero bbq,126,g,590,mg,11480,g,181,g,146,g,35,g,0,g,10,g,107,g
+539,t mac,roasted wings party pack honey chipotle,125,g,590,mg,11800,g,202,g,147,g,35,g,0,g,11,g,159,g
+540,t mac,roasted wings party pack honey twang,243,g,620,mg,8590,g,213,g,146,g,51,g,0,g,9,g,172,g
+541,t mac,roasted wings party pack hot buffalo,127,g,590,mg,14370,g,81,g,149,g,35,g,0,g,14,g,36,g
+542,t mac,roasted wings party pack korean black garlic,131,g,590,mg,10690,g,102,g,151,g,36,g,0,g,10,g,54,g
+543,t mac,roasted wings party pack lemon pepper,126,g,590,mg,25400,g,80,g,146,g,35,g,0,g,10,g,19,g
+544,t mac,roasted wings party pack medium buffalo,126,g,590,mg,14370,g,76,g,148,g,35,g,0,g,13,g,33,g
+545,t mac,roasted wings party pack mild buffalo,250,g,590,mg,12490,g,63,g,147,g,53,g,0,g,11,g,26,g
+546,t mac,roasted wings party pack no sauce,124,g,590,mg,6080,g,38,g,144,g,35,g,0,g,7,g,10,g
+547,t mac,roasted wings party pack ranch,239,g,690,mg,7660,g,45,g,149,g,58,g,0,g,8,g,14,g
+548,t mac,roasted wings party pack slow burn,126,g,590,mg,14070,g,74,g,148,g,35,g,0,g,13,g,33,g
+549,t mac,roasted wings party pack sweet chili sesame,133,g,590,mg,16010,g,267,g,150,g,35,g,0,g,7,g,224,g
+550,t mac,roasted wings party pack three mile island,128,g,590,mg,16170,g,110,g,154,g,36,g,0,g,17,g,53,g
+551,t mac,roasted wings single asian sweet heat,25,g,120,mg,1980,g,43,g,29,g,7,g,0,g,2,g,34,g
+552,t mac,roasted wings single bbq sauce,25,g,120,mg,1740,g,40,g,29,g,7,g,0,g,2,g,31,g
+553,t mac,roasted wings single bleu cheese,52,g,150,mg,1510,g,8,g,32,g,14,g,0,g,1,g,3,g
+554,t mac,roasted wings single chili mango,26,g,120,mg,3270,g,28,g,30,g,7,g,0,g,2,g,17,g
+555,t mac,roasted wings single death sauce,27,g,120,mg,3130,g,12,g,34,g,7,g,0,g,1,g,5,g
+556,t mac,roasted wings single garlic parmesan,89,g,130,mg,2080,g,12,g,34,g,17,g,0,g,2,g,2,g
+557,t mac,roasted wings single habanero bbq,25,g,120,mg,2280,g,36,g,29,g,7,g,0,g,2,g,21,g
+558,t mac,roasted wings single honey chipotle,25,g,120,mg,2350,g,40,g,29,g,7,g,0,g,2,g,31,g
+559,t mac,roasted wings single honey twang,49,g,125,mg,1720,g,43,g,29,g,10,g,0,g,2,g,34,g
+560,t mac,roasted wings single hot buffalo,25,g,120,mg,2850,g,16,g,30,g,7,g,0,g,3,g,7,g
+561,t mac,roasted wings single korean black garlic,26,g,120,mg,2180,g,21,g,30,g,7,g,0,g,2,g,11,g
+562,t mac,roasted wings single lemon pepper,25,g,120,mg,5240,g,16,g,29,g,7,g,0,g,2,g,4,g
+563,t mac,roasted wings single medium buffalo,25,g,120,mg,2850,g,15,g,30,g,7,g,0,g,3,g,7,g
+564,t mac,roasted wings single mild buffalo,50,g,120,mg,2480,g,13,g,29,g,11,g,0,g,2,g,5,g
+565,t mac,roasted wings single no sauce,25,g,120,mg,1220,g,8,g,29,g,7,g,0,g,1,g,2,g
+566,t mac,roasted wings single ranch,53,g,145,mg,1610,g,9,g,30,g,13,g,0,g,2,g,3,g
+567,t mac,roasted wings single slow burn,25,g,120,mg,2800,g,15,g,30,g,7,g,0,g,3,g,6,g
+568,t mac,roasted wings single sweet chili sesame,27,g,120,mg,3180,g,53,g,30,g,7,g,0,g,1,g,44,g
+569,t mac,roasted wings single three mile island,26,g,120,mg,3210,g,22,g,31,g,7,g,0,g,3,g,10,g
+570,t mac,roasted wings six pack asian sweet heat,15,g,70,mg,1110,g,22,g,18,g,4,g,0,g,1,g,17,g
+571,t mac,roasted wings six pack bbq sauce,15,g,70,mg,1000,g,21,g,18,g,4,g,0,g,1,g,16,g
+572,t mac,roasted wings six pack bleu cheese,42,g,105,mg,1030,g,5,g,20,g,11,g,0,g,1,g,2,g
+573,t mac,roasted wings six pack chili mango,15,g,70,mg,1750,g,15,g,18,g,4,g,0,g,1,g,9,g
+574,t mac,roasted wings six pack death sauce,16,g,70,mg,1720,g,7,g,20,g,4,g,0,g,1,g,3,g
+575,t mac,roasted wings six pack garlic parmesan,49,g,80,mg,1210,g,7,g,21,g,10,g,0,g,1,g,1,g
+576,t mac,roasted wings six pack habanero bbq,15,g,70,mg,1280,g,19,g,18,g,4,g,0,g,1,g,11,g
+577,t mac,roasted wings six pack honey chipotle,15,g,70,mg,1310,g,21,g,18,g,4,g,0,g,1,g,16,g
+578,t mac,roasted wings six pack honey twang,27,g,75,mg,980,g,22,g,18,g,6,g,0,g,1,g,17,g
+579,t mac,roasted wings six pack hot buffalo,15,g,70,mg,1570,g,9,g,18,g,4,g,0,g,2,g,4,g
+580,t mac,roasted wings six pack korean black garlic,16,g,70,mg,1210,g,11,g,18,g,4,g,0,g,1,g,6,g
+581,t mac,roasted wings six pack lemon pepper,15,g,70,mg,2740,g,9,g,18,g,4,g,0,g,1,g,2,g
+582,t mac,roasted wings six pack medium buffalo,15,g,70,mg,1570,g,8,g,18,g,4,g,0,g,1,g,4,g
+583,t mac,roasted wings six pack mild buffalo,28,g,70,mg,1380,g,7,g,18,g,6,g,0,g,1,g,3,g
+584,t mac,roasted wings six pack no sauce,15,g,70,mg,730,g,5,g,17,g,4,g,0,g,1,g,1,g
+585,t mac,roasted wings six pack ranch,43,g,95,mg,1130,g,6,g,18,g,10,g,0,g,1,g,2,g
+586,t mac,roasted wings six pack slow burn,15,g,70,mg,1540,g,8,g,18,g,4,g,0,g,1,g,4,g
+587,t mac,roasted wings six pack sweet chili sesame,16,g,70,mg,1740,g,28,g,18,g,4,g,0,g,1,g,23,g
+588,t mac,roasted wings six pack three mile island,15,g,70,mg,1760,g,12,g,18,g,4,g,0,g,2,g,6,g
+589,t mac,roasted wings triple asian sweet heat,75,g,355,mg,5950,g,130,g,88,g,21,g,0,g,6,g,103,g
+590,t mac,roasted wings triple bbq sauce,76,g,355,mg,5230,g,122,g,88,g,21,g,0,g,6,g,94,g
+591,t mac,roasted wings triple bleu cheese,156,g,455,mg,4530,g,25,g,96,g,43,g,0,g,4,g,8,g
+592,t mac,roasted wings triple chili mango,77,g,355,mg,9800,g,84,g,89,g,21,g,0,g,7,g,52,g
+593,t mac,roasted wings triple death sauce,82,g,355,mg,9460,g,37,g,101,g,22,g,0,g,4,g,15,g
+594,t mac,roasted wings triple garlic parmesan,262,g,370,mg,6050,g,37,g,97,g,50,g,0,g,5,g,6,g
+595,t mac,roasted wings triple habanero bbq,76,g,355,mg,6880,g,108,g,88,g,21,g,0,g,6,g,64,g
+596,t mac,roasted wings triple honey chipotle,75,g,355,mg,7070,g,121,g,88,g,21,g,0,g,7,g,95,g
+597,t mac,roasted wings triple honey twang,146,g,370,mg,5150,g,128,g,88,g,31,g,0,g,5,g,103,g
+598,t mac,roasted wings triple hot buffalo,76,g,355,mg,8610,g,48,g,89,g,21,g,0,g,9,g,21,g
+599,t mac,roasted wings triple korean black garlic,79,g,355,mg,6530,g,63,g,91,g,21,g,0,g,6,g,34,g
+600,t mac,roasted wings triple lemon pepper,76,g,355,mg,15720,g,49,g,88,g,21,g,0,g,6,g,12,g
+601,t mac,roasted wings triple medium buffalo,76,g,355,mg,8610,g,45,g,89,g,21,g,0,g,8,g,20,g
+602,t mac,roasted wings triple mild buffalo,150,g,355,mg,7490,g,38,g,88,g,32,g,0,g,7,g,15,g
+603,t mac,roasted wings triple no sauce,75,g,355,mg,3650,g,23,g,87,g,21,g,0,g,4,g,6,g
+604,t mac,roasted wings triple ranch,160,g,430,mg,4840,g,28,g,90,g,38,g,0,g,5,g,9,g
+605,t mac,roasted wings triple slow burn,76,g,355,mg,8440,g,45,g,89,g,21,g,0,g,8,g,20,g
+606,t mac,roasted wings triple sweet chili sesame,80,g,355,mg,9600,g,160,g,90,g,21,g,0,g,4,g,134,g
+607,t mac,roasted wings triple three mile island,77,g,355,mg,9690,g,66,g,92,g,21,g,0,g,10,g,32,g
+608,t mac,salad dressings blue cheese,27,g,35,mg,300,g,1,g,3,g,7,g,0,g,0,g,1,g
+609,t mac,salad dressings buffalo ranch,21,g,20,mg,580,g,3,g,1,g,4,g,0,g,0,g,2,g
+610,t mac,salad dressings caesar,39,g,20,mg,450,g,1,g,2,g,6,g,0,g,0,g,0,g
+611,t mac,salad dressings fuji apple vinaigrette,16,g,0,mg,260,g,16,g,0,g,3,g,0,g,0,g,16,g
+612,t mac,salad dressings honey mustard,23,g,10,mg,290,g,18,g,1,g,3,g,0,g,1,g,16,g
+613,t mac,salad dressings olive oil vinaigrette,12,g,0,mg,460,g,6,g,0,g,2,g,0,g,0,g,4,g
+614,t mac,salad dressings ranch,27,g,25,mg,370,g,2,g,1,g,5,g,0,g,0,g,1,g
+615,t mac,salad dressings red balsamic vinaigrette,16,g,0,mg,600,g,8,g,0,g,3,g,0,g,0,g,8,g
+616,t mac,salsa platter,0,g,0,mg,500,g,7,g,1,g,0,g,0,g,1,g,4,g
+617,t mac,salsa platter with tortilla chips gluten free,30,g,0,mg,1560,g,79,g,9,g,4,g,0,g,9,g,4,g
+618,t mac,salsa platter with tortilla chips gluten free 8 servings,244,g,0,mg,12460,g,632,g,72,g,35,g,0,g,74,g,30,g
+619,t mac,salsa platter with tortilla chips regular,47,g,0,mg,8840,g,473,g,54,g,3,g,0,g,10,g,66,g
+620,t mac,salsa platter with tortilla chips regular 8 servings,6,g,0,mg,1110,g,59,g,7,g,0,g,0,g,1,g,8,g
+621,t mac,salsa platter 8 servings,1,g,0,mg,3980,g,55,g,8,g,0,g,0,g,9,g,30,g
+622,t mac,salsa with gluten free tortilla chips,61,g,0,mg,2430,g,149,g,17,g,9,g,0,g,17,g,2,g
+623,t mac,salsa with regular tortilla chips,12,g,0,mg,1530,g,109,g,12,g,1,g,0,g,1,g,11,g
+624,t mac,side salads caesar salad,43,g,25,mg,730,g,14,g,7,g,7,g,0,g,2,g,2,g
+625,t mac,side salads house salad,7,g,15,mg,280,g,18,g,8,g,3,g,0,g,3,g,3,g
+626,t mac,side salads house salad blue cheese,34,g,45,mg,570,g,18,g,11,g,10,g,0,g,3,g,4,g
+627,t mac,side salads house salad buffalo ranch,27,g,30,mg,860,g,20,g,8,g,7,g,0,g,3,g,5,g
+628,t mac,side salads house salad caesar,46,g,35,mg,730,g,19,g,9,g,9,g,0,g,3,g,4,g
+629,t mac,side salads house salad fuji apple vinaigrette,23,g,15,mg,540,g,34,g,8,g,6,g,0,g,3,g,19,g
+630,t mac,side salads house salad honey mustard,30,g,20,mg,570,g,36,g,8,g,6,g,0,g,3,g,20,g
+631,t mac,side salads house salad olive oil vinaigrette,19,g,15,mg,740,g,24,g,8,g,5,g,0,g,3,g,7,g
+632,t mac,side salads house salad ranch,34,g,35,mg,650,g,19,g,9,g,8,g,0,g,3,g,4,g
+633,t mac,side salads house salad red balsamic vinaigrette,23,g,15,mg,880,g,26,g,8,g,6,g,0,g,3,g,11,g
+634,t mac,side salads wedge,17,g,995,mg,5,g,1,g,1271,g,0,g,83,g,3,g,14,g
+635,t mac,signature cocktails bloody mary,0,g,0,mg,1470,g,11,g,2,g,0,g,0,g,2,g,7,g
+636,t mac,signature cocktails deep eddy mule,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,8,g
+637,t mac,signature cocktails deep eddy mule with deep eddy lemon vodka,0,g,0,mg,0,g,16,g,0,g,0,g,0,g,0,g,14,g
+638,t mac,signature cocktails deep eddy mule with deep eddy peach vodka,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,0,g,20,g
+639,t mac,signature cocktails deep eddy mule with deep eddy ruby red grapefruit vodka,0,g,0,mg,0,g,21,g,0,g,0,g,0,g,0,g,14,g
+640,t mac,signature cocktails fiesta mango margarita,0,g,0,mg,140,g,26,g,0,g,0,g,0,g,0,g,20,g
+641,t mac,signature cocktails georgia peach tea,0,g,0,mg,5,g,41,g,0,g,0,g,0,g,1,g,39,g
+642,t mac,signature cocktails ryes up,0,g,0,mg,0,g,21,g,0,g,0,g,0,g,1,g,19,g
+643,t mac,signature cocktails sailor swig,0,g,0,mg,5,g,39,g,0,g,0,g,0,g,0,g,36,g
+644,t mac,signature cocktails strawberry mint smash,0,g,0,mg,5,g,16,g,0,g,0,g,0,g,0,g,15,g
+645,t mac,signature cocktails technicolor cooler,0,g,0,mg,110,g,50,g,0,g,0,g,0,g,1,g,41,g
+646,t mac,signature cocktails titos lemonade,0,g,0,mg,10,g,28,g,0,g,0,g,0,g,2,g,26,g
+647,t mac,signature cocktails top shelf margarita,0,g,0,mg,0,g,14,g,0,g,0,g,0,g,1,g,1,g
+648,t mac,signature cocktails top shelf margarita with simple syrup,0,g,0,mg,0,g,40,g,0,g,0,g,0,g,1,g,27,g
+649,t mac,signature cocktails top shelf margarita with strawberry puree,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,1,g,7,g
+650,t mac,signature cocktails top shelf margarita with watermelon puree,0,g,0,mg,10,g,18,g,0,g,0,g,0,g,1,g,5,g
+651,t mac,signature cocktails ultimate lit,0,g,0,mg,10,g,27,g,0,g,0,g,0,g,1,g,21,g
+652,t mac,south street chicken philly,26,g,115,mg,1750,g,53,g,49,g,10,g,0,g,4,g,6,g
+653,t mac,south street steak philly,38,g,105,mg,2510,g,53,g,53,g,15,g,0,g,4,g,5,g
+654,t mac,southern fried catfish tacos,51,g,105,mg,2930,g,99,g,46,g,15,g,0,g,8,g,18,g
+655,t mac,southern fried chicken sandwich,45,g,100,mg,2280,g,50,g,38,g,6,g,0,g,1,g,7,g
+656,t mac,southern fried chicken sandwich gluten free bun,51,g,100,mg,2720,g,89,g,44,g,6,g,0,g,6,g,13,g
+657,t mac,southern fried chicken sandwich regular bun,48,g,100,mg,2670,g,99,g,46,g,8,g,0,g,3,g,14,g
+658,t mac,spicy black bean veggie burger,7,g,0,mg,1460,g,36,g,11,g,1,g,0,g,11,g,6,g
+659,t mac,spicy black bean veggie burger gluten free bun,13,g,0,mg,1900,g,75,g,17,g,1,g,0,g,16,g,12,g
+660,t mac,spicy black bean veggie burger regular bun,11,g,0,mg,1850,g,85,g,19,g,2,g,0,g,13,g,13,g
+661,t mac,spinach and artichoke dip,44,g,85,mg,2170,g,75,g,21,g,25,g,0,g,2,g,7,g
+662,t mac,spinach and artichoke dip with gluten free tortilla chips,74,g,85,mg,3230,g,147,g,29,g,29,g,0,g,10,g,7,g
+663,t mac,spinach and artichoke dip with regular tortilla chips,49,g,85,mg,2770,g,128,g,27,g,25,g,0,g,2,g,11,g
+664,t mac,trio dip,63,g,110,mg,3740,g,83,g,38,g,35,g,0,g,8,g,7,g
+665,t mac,trio dip with gluten free tortilla chips,108,g,110,mg,5330,g,192,g,51,g,41,g,0,g,20,g,7,g
+666,t mac,trio dip with regular tortilla chips,71,g,110,mg,4650,g,162,g,47,g,35,g,0,g,8,g,14,g
+667,t mac,triple play platter,49,g,55,mg,2330,g,81,g,22,g,9,g,0,g,4,g,33,g
+668,t mac,triple play platter 8 servings,390,g,440,mg,18630,g,648,g,179,g,74,g,0,g,30,g,267,g
+669,t mac,white wines chardonnay kendall jackson california bottle,0,g,0,mg,25,g,30,g,0,g,0,g,0,g,0,g,12,g
+670,t mac,white wines chardonnay kendall jackson california glass,0,g,0,mg,25,g,30,g,0,g,0,g,0,g,0,g,12,g
+671,t mac,white wines chardonnay chloe california bottle,0,g,0,mg,0,g,11,g,1,g,0,g,0,g,0,g,0,g
+672,t mac,white wines chardonnay chloe california glass,0,g,0,mg,10,g,9,g,0,g,0,g,0,g,0,g,4,g
+673,t mac,white wines pinot grigio ruffino lumina italy bottle,0,g,0,mg,0,g,15,g,1,g,0,g,0,g,0,g,0,g
+674,t mac,white wines pinot grigio ruffino lumina italy glass,0,g,0,mg,10,g,13,g,0,g,0,g,0,g,0,g,5,g
+675,t mac,white wines rose the dreaming tree california bottle,0,g,0,mg,25,g,11,g,0,g,0,g,0,g,0,g,11,g
+676,t mac,white wines rose the dreaming tree california glass,0,g,0,mg,20,g,23,g,0,g,0,g,0,g,0,g,9,g
+677,t mac,white wines sauvignon blanc oyster bay new zealand bottle,0,g,0,mg,0,g,15,g,1,g,0,g,0,g,0,g,0,g
+678,t mac,white wines sauvignon blanc oyster bay new zealand glass,0,g,0,mg,15,g,17,g,0,g,0,g,0,g,0,g,7,g
+679,taco bell canada,7 layer burrito bean,16,g,15,mg,970,g,59,g,15,g,6,g,0,g,7,g,4,g
+680,taco bell canada,7 layer burrito beef,18,g,30,mg,1010,g,52,g,18,g,7,g,0,g,6,g,4,g
+681,taco bell canada,7 layer burrito chicken,17,g,55,mg,1000,g,51,g,19,g,7,g,0,g,4,g,4,g
+682,taco bell canada,7 layer burrito steak,17,g,40,mg,1000,g,51,g,19,g,7,g,0,g,4,g,4,g
+683,taco bell canada,bean burrito,11,g,5,mg,1090,g,56,g,15,g,4.5,g,0,g,9,g,3,g
+684,taco bell canada,bean chalupa supreme,20,g,15,mg,480,g,36,g,11,g,4,g,0,g,6,g,3,g
+685,taco bell canada,bean cheesy gordita crunch,26,g,35,mg,740,g,45,g,20,g,9,g,0,g,5,g,3,g
+686,taco bell canada,bean crunchwrap supreme,19,g,5,mg,960,g,77,g,14,g,6,g,0,g,6,g,5,g
+687,taco bell canada,bean crunchy taco,7,g,5,mg,260,g,19,g,6,g,2.5,g,0,g,4,g,1,g
+688,taco bell canada,bean crunchy taco supreme,9,g,10,mg,270,g,21,g,7,g,3.5,g,0,g,5,g,2,g
+689,taco bell canada,bean fries supreme,22,g,10,mg,790,g,60,g,9,g,3,g,0,g,7,g,3,g
+690,taco bell canada,bean nachos supreme,15,g,5,mg,520,g,36,g,7,g,2.5,g,0,g,5,g,3,g
+691,taco bell canada,bean soft taco,6,g,5,mg,400,g,24,g,8,g,3,g,0,g,3,g,1,g
+692,taco bell canada,bean soft taco supreme,8,g,10,mg,480,g,27,g,9,g,4,g,0,g,4,g,3,g
+693,taco bell canada,beef burrito,20,g,20,mg,940,g,51,g,13,g,5,g,0,g,5,g,3,g
+694,taco bell canada,beef chalupa supreme,22,g,30,mg,530,g,29,g,14,g,5,g,0,g,5,g,3,g
+695,taco bell canada,beef crunchwrap supreme,21,g,20,mg,1190,g,73,g,17,g,7,g,0,g,7,g,6,g
+696,taco bell canada,beef crunchy taco,9,g,20,mg,300,g,12,g,9,g,3.5,g,0,g,3,g,0,g
+697,taco bell canada,beef crunchy taco supreme,11,g,25,mg,320,g,14,g,9,g,4.5,g,0,g,3,g,2,g
+698,taco bell canada,beef soft taco,8,g,20,mg,510,g,17,g,10,g,4,g,0,g,3,g,1,g
+699,taco bell canada,beef soft taco supreme,10,g,25,mg,530,g,20,g,11,g,5,g,0,g,3,g,2,g
+700,taco bell canada,bud light draft,0,g,0,mg,0,g,7,g,1,g,0,g,0,g,0,g,0,g
+701,taco bell canada,burrito supreme,15,g,25,mg,1150,g,52,g,18,g,7,g,0,g,8,g,4,g
+702,taco bell canada,cheese quesadilla,26,g,50,mg,880,g,36,g,21,g,12,g,0,g,2,g,3,g
+703,taco bell canada,cheesy fries,19,g,5,mg,570,g,48,g,4,g,1.5,g,0,g,4,g,1,g
+704,taco bell canada,cheesy gordita crunch,28,g,50,mg,780,g,38,g,22,g,10,g,0,g,4,g,3,g
+705,taco bell canada,chicken chalupa supreme,21,g,50,mg,520,g,28,g,16,g,4.5,g,0,g,3,g,3,g
+706,taco bell canada,chicken quesadilla,28,g,90,mg,1120,g,37,g,29,g,12,g,0,g,3,g,3,g
+707,taco bell canada,chicken soft taco,7,g,45,mg,550,g,17,g,12,g,3,g,0,g,1,g,3,g
+708,taco bell canada,chili cheese burrito,18,g,40,mg,970,g,40,g,16,g,9,g,0,g,4,g,2,g
+709,taco bell canada,chili cheese fries,20,g,10,mg,790,g,50,g,8,g,2.5,g,0,g,6,g,1,g
+710,taco bell canada,chips and cheese,12,g,0,mg,300,g,25,g,3,g,1,g,0,g,2,g,1,g
+711,taco bell canada,cinnabon delights 2 pack,9,g,5,mg,80,g,17,g,2,g,2,g,0,g,0,g,10,g
+712,taco bell canada,cinnabon delights 4 pack,18,g,15,mg,160,g,35,g,3,g,4.5,g,0.5,g,1,g,20,g
+713,taco bell canada,cinnamon twists,6,g,0,mg,210,g,27,g,1,g,0,g,0,g,1,g,13,g
+714,taco bell canada,doritos locos taco,9,g,20,mg,350,g,12,g,9,g,3.5,g,0,g,3,g,1,g
+715,taco bell canada,doritos locos taco supreme,11,g,30,mg,370,g,15,g,9,g,4.5,g,0,g,3,g,2,g
+716,taco bell canada,fresco beef burrito,9,g,15,mg,750,g,38,g,12,g,3.5,g,0,g,4,g,3,g
+717,taco bell canada,fresco beef crunchy taco,7,g,15,mg,300,g,13,g,7,g,2,g,0,g,3,g,1,g
+718,taco bell canada,fresco beef soft taco,6,g,15,mg,510,g,18,g,9,g,2.5,g,0,g,3,g,2,g
+719,taco bell canada,fresco chicken burrito supreme,9,g,35,mg,1010,g,51,g,16,g,3,g,0,g,4,g,5,g
+720,taco bell canada,fresco chicken soft taco,5,g,35,mg,500,g,17,g,10,g,1.5,g,0,g,1,g,3,g
+721,taco bell canada,fresco steak burrito supreme,9,g,20,mg,880,g,50,g,14,g,3,g,0,g,2,g,3,g
+722,taco bell canada,fresco steak soft taco,4.5,g,20,mg,500,g,18,g,10,g,1.5,g,0,g,1,g,2,g
+723,taco bell canada,fries,14,g,0,mg,350,g,41,g,4,g,1,g,0,g,4,g,0,g
+724,taco bell canada,fries supreme,23,g,15,mg,710,g,52,g,8,g,3.5,g,0,g,5,g,2,g
+725,taco bell canada,grande nachos beef supreme,76,g,65,mg,2470,g,150,g,42,g,14,g,0.5,g,24,g,7,g
+726,taco bell canada,grande nachos loaded taco,88,g,75,mg,2040,g,140,g,35,g,15,g,0.5,g,18,g,7,g
+727,taco bell canada,grilled cheesy burrito,38,g,75,mg,1360,g,61,g,30,g,15,g,0.5,g,6,g,4,g
+728,taco bell canada,mtn dew baja blast 20 fl oz,0,g,0,mg,80,g,74,g,0,g,0,g,0,g,0,g,73,g
+729,taco bell canada,mtn dew baja blast 30 fl oz,0,g,0,mg,120,g,110,g,0,g,0,g,0,g,0,g,110,g
+730,taco bell canada,nachos supreme,15,g,15,mg,440,g,28,g,6,g,3,g,0,g,3,g,3,g
+731,taco bell canada,side of guacamole,6,g,0,mg,210,g,3,g,1,g,1,g,0,g,2,g,0,g
+732,taco bell canada,side of jalapenos,0,g,0,mg,170,g,0,g,0,g,0,g,0,g,0,g,0,g
+733,taco bell canada,side of nacho cheese sauce,3.5,g,0,mg,190,g,5,g,1,g,0,g,0,g,0,g,1,g
+734,taco bell canada,side of pico de gallo,0,g,0,mg,90,g,2,g,0,g,0,g,0,g,0,g,2,g
+735,taco bell canada,side of reduced fat sour cream,3.5,g,10,mg,30,g,3,g,1,g,2,g,0,g,0,g,2,g
+736,taco bell canada,sol cervesa,0,g,0,mg,0,g,15,g,0,g,0,g,0,g,0,g,0,g
+737,taco bell canada,steak chalupa supreme,21,g,35,mg,520,g,28,g,15,g,4.5,g,0,g,3,g,3,g
+738,taco bell canada,steak quesadilla,28,g,75,mg,1120,g,37,g,29,g,12,g,0,g,2,g,3,g
+739,taco bell canada,steak soft taco,10,g,30,mg,530,g,17,g,12,g,3.5,g,0,g,1,g,2,g
+740,taco casa,bean burrito mild,17,g,25,mg,1380,g,55,g,17,g,8,g,0,g,8,g,1,g
+741,taco casa,bean burrito spicy,17,g,25,mg,1250,g,54,g,17,g,8,g,0,g,7,g,2,g
+742,taco casa,casa delites,32,g,0,mg,520,g,61,g,6,g,25,g,0.5,g,3,g,25,g
+743,taco casa,chili burger,8,g,35,mg,900,g,30,g,15,g,2.5,g,0,g,2,g,4,g
+744,taco casa,coke large,0,g,0,mg,5,g,78,g,0,g,0,g,0,g,0,g,78,g
+745,taco casa,coke medium,0,g,0,mg,5,g,57,g,0,g,0,g,0,g,0,g,57,g
+746,taco casa,coke small,0,g,0,mg,0,g,41,g,0,g,0,g,0,g,0,g,41,g
+747,taco casa,combination burrito mild,21,g,60,mg,1610,g,47,g,25,g,10,g,0,g,5,g,1,g
+748,taco casa,combination burrito spicy,21,g,60,mg,1470,g,46,g,24,g,10,g,0,g,4,g,2,g
+749,taco casa,diet coke large,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+750,taco casa,diet coke medium,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+751,taco casa,diet coke small,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+752,taco casa,dr pepper large,0,g,0,mg,100,g,78,g,0,g,0,g,0,g,0,g,78,g
+753,taco casa,dr pepper medium,0,g,0,mg,75,g,57,g,0,g,0,g,0,g,0,g,57,g
+754,taco casa,dr pepper small,0,g,0,mg,55,g,41,g,0,g,0,g,0,g,0,g,41,g
+755,taco casa,frijoles,19,g,35,mg,1170,g,38,g,19,g,9,g,0,g,13,g,1,g
+756,taco casa,meat burrito mild,25,g,90,mg,1830,g,40,g,32,g,11,g,0.5,g,2,g,1,g
+757,taco casa,meat burrito spicy,25,g,90,mg,1700,g,39,g,32,g,11,g,0.5,g,2,g,2,g
+758,taco casa,nachos,60,g,40,mg,2190,g,110,g,21,g,19,g,8,g,7,g,5,g
+759,taco casa,pink lemonade large,0,g,0,mg,200,g,82,g,0,g,0,g,0,g,0,g,78,g
+760,taco casa,pink lemonade medium,0,g,0,mg,150,g,61,g,0,g,0,g,0,g,0,g,58,g
+761,taco casa,pink lemonade small,0,g,0,mg,105,g,43,g,0,g,0,g,0,g,0,g,41,g
+762,taco casa,root beer large,0,g,0,mg,35,g,86,g,0,g,0,g,0,g,0,g,86,g
+763,taco casa,root beer medium,0,g,0,mg,30,g,64,g,0,g,0,g,0,g,0,g,64,g
+764,taco casa,root beer small,0,g,0,mg,20,g,45,g,0,g,0,g,0,g,0,g,45,g
+765,taco casa,soft taco,14,g,50,mg,750,g,15,g,17,g,6,g,0,g,1,g,1,g
+766,taco casa,sprite large,0,g,0,mg,65,g,75,g,0,g,0,g,0,g,0,g,75,g
+767,taco casa,sprite medium,0,g,0,mg,45,g,55,g,0,g,0,g,0,g,0,g,55,g
+768,taco casa,sprite small,0,g,0,mg,35,g,39,g,0,g,0,g,0,g,0,g,39,g
+769,taco casa,super burrito,26,g,70,mg,1750,g,50,g,26,g,12,g,0,g,5,g,3,g
+770,taco casa,super items chilada,28,g,80,mg,1800,g,30,g,27,g,12,g,0.5,g,5,g,1,g
+771,taco casa,super nachos,79,g,120,mg,2790,g,124,g,37,g,29,g,8,g,11,g,8,g
+772,taco casa,super salad,56,g,100,mg,1990,g,59,g,35,g,34,g,1,g,8,g,9,g
+773,taco casa,super taco,23,g,90,mg,760,g,16,g,24,g,12,g,0.5,g,2,g,2,g
+774,taco casa,super tostada,24,g,75,mg,1160,g,27,g,22,g,11,g,0,g,6,g,3,g
+775,taco casa,sweet tea large,0,g,0,mg,20,g,84,g,0,g,0,g,0,g,0,g,83,g
+776,taco casa,sweet tea medium,0,g,0,mg,15,g,63,g,0,g,0,g,0,g,0,g,62,g
+777,taco casa,sweet tea small,0,g,0,mg,10,g,42,g,0,g,0,g,0,g,0,g,41,g
+778,taco casa,taco,13,g,45,mg,450,g,10,g,14,g,7,g,0,g,1,g,1,g
+779,taco casa,taco lite,30,g,90,mg,920,g,23,g,26,g,17,g,0.5,g,2,g,3,g
+780,taco casa,tostada,14,g,30,mg,650,g,22,g,12,g,8,g,0,g,5,g,1,g
+781,taco inn,bean burrito,12,g,20,mg,0,g,27,g,0,g,0,g,0,g,0,g,0,g
+782,taco inn,bean enchilada,14,g,30,mg,0,g,27,g,0,g,0,g,0,g,0,g,0,g
+783,taco inn,chicken soft taco,7,g,45,mg,0,g,33,g,0,g,0,g,0,g,0,g,0,g
+784,taco inn,chicken super salad,35,g,80,mg,0,g,17,g,0,g,0,g,0,g,0,g,0,g
+785,taco inn,chicken taco,7,g,45,mg,0,g,33,g,0,g,0,g,0,g,0,g,0,g
+786,taco inn,combo burrito,19,g,80,mg,0,g,28,g,0,g,0,g,0,g,0,g,0,g
+787,taco inn,combo enchilada,20,g,90,mg,0,g,27,g,0,g,0,g,0,g,0,g,0,g
+788,taco inn,deluxe burrito,25,g,90,mg,0,g,29,g,0,g,0,g,0,g,0,g,0,g
+789,taco inn,deluxe salad,23,g,100,mg,0,g,13,g,0,g,0,g,0,g,0,g,0,g
+790,taco inn,frijoles,11,g,20,mg,0,g,21,g,0,g,0,g,0,g,0,g,0,g
+791,taco inn,meat burrito,25,g,135,mg,0,g,17,g,0,g,0,g,0,g,0,g,0,g
+792,taco inn,meat enchilada,26,g,145,mg,0,g,17,g,0,g,0,g,0,g,0,g,0,g
+793,taco inn,meaty tostada,23,g,85,mg,0,g,42,g,0,g,0,g,0,g,0,g,0,g
+794,taco inn,regular salad,1,g,0,mg,0,g,12,g,0,g,0,g,0,g,0,g,0,g
+795,taco inn,rice,1,g,0,mg,0,g,12,g,0,g,0,g,0,g,0,g,0,g
+796,taco inn,roger special,6,g,0,mg,0,g,11,g,0,g,0,g,0,g,0,g,0,g
+797,taco inn,soft shell taco,14,g,70,mg,0,g,33,g,0,g,0,g,0,g,0,g,0,g
+798,taco inn,super salad,48,g,100,mg,0,g,26,g,0,g,0,g,0,g,0,g,0,g
+799,taco inn,taco,13,g,70,mg,0,g,33,g,0,g,0,g,0,g,0,g,0,g
+800,taco inn,tostada,13,g,30,mg,0,g,41,g,0,g,0,g,0,g,0,g,0,g
+801,taco villa,add grande to burrito,2.5,g,10,mg,10,g,3,g,1,g,0,g,0,g,1,g,0,g
+802,taco villa,apple burrito,9,g,0,mg,140,g,41,g,3,g,0,g,0,g,2,g,0,g
+803,taco villa,bacon and egg omlet,34,g,385,mg,770,g,4,g,27,g,0,g,0,g,1,g,0,g
+804,taco villa,bacon and egg sandwich,42,g,300,mg,1230,g,29,g,30,g,0,g,0,g,1,g,0,g
+805,taco villa,bacon and egg softaco green sauce,17,g,185,mg,580,g,17,g,14,g,0,g,0,g,2,g,0,g
+806,taco villa,bacon and egg softaco no sauce,17,g,185,mg,540,g,15,g,14,g,0,g,0,g,1,g,0,g
+807,taco villa,bacon and egg softaco red sauce,18,g,185,mg,730,g,16,g,14,g,0,g,0,g,1,g,0,g
+808,taco villa,bag of chips,19,g,0,mg,1040,g,52,g,5,g,0,g,0,g,3,g,0,g
+809,taco villa,bean burrito with green sauce,11,g,15,mg,830,g,56,g,17,g,0,g,0,g,10,g,0,g
+810,taco villa,bean burrito with red sauce,12,g,15,mg,970,g,55,g,17,g,0,g,0,g,9,g,0,g
+811,taco villa,bean burrito without sauce,11,g,15,mg,780,g,54,g,17,g,0,g,0,g,9,g,0,g
+812,taco villa,bean chalupa,10,g,15,mg,350,g,27,g,11,g,0,g,0,g,7,g,0,g
+813,taco villa,bean nacho,37,g,20,mg,2100,g,75,g,16,g,0,g,0,g,11,g,0,g
+814,taco villa,bean smothered burrito,190,g,20,mg,1310,g,60,g,19,g,0,g,0,g,11,g,0,g
+815,taco villa,beef quesadilla,36,g,110,mg,940,g,40,g,35,g,0,g,0,g,3,g,0,g
+816,taco villa,biscuit and bacon,34,g,200,mg,1330,g,36,g,22,g,0,g,0,g,1,g,0,g
+817,taco villa,biscuit and chorizo,34,g,220,mg,1330,g,39,g,21,g,0,g,0,g,2,g,0,g
+818,taco villa,biscuit and egg,26,g,185,mg,1060,g,36,g,17,g,0,g,0,g,1,g,0,g
+819,taco villa,biscuit and gravy,13,g,5,mg,760,g,36,g,6,g,0,g,0,g,1,g,0,g
+820,taco villa,biscuit and ham,28,g,215,mg,1750,g,36,g,26,g,0,g,0,g,1,g,0,g
+821,taco villa,biscuit and potato,30,g,190,mg,1110,g,43,g,18,g,0,g,0,g,2,g,0,g
+822,taco villa,biscuit and sausage,43,g,235,mg,1480,g,36,g,32,g,0,g,0,g,2,g,0,g
+823,taco villa,breakfast combo 1 hashbrown and bacon breakfast burrito with green sauce,29,g,285,mg,1040,g,38,g,26,g,0,g,0,g,4,g,0,g
+824,taco villa,breakfast combo 1 hashbrown and bacon breakfast burrito with red sauce,29,g,285,mg,1190,g,36,g,26,g,0,g,0,g,3,g,0,g
+825,taco villa,breakfast combo 1 hashbrown and bacon breakfast burrito without sauce,28,g,285,mg,1000,g,36,g,25,g,0,g,0,g,3,g,0,g
+826,taco villa,breakfast combo 1 hashbrown and chorizo breakfast burrito with green sauce,32,g,320,mg,1180,g,42,g,26,g,0,g,0,g,5,g,0,g
+827,taco villa,breakfast combo 1 hashbrown and chorizo breakfast burrito with red sauce,33,g,320,mg,1330,g,41,g,26,g,0,g,0,g,4,g,0,g
+828,taco villa,breakfast combo 1 hashbrown and chorizo breakfast burrito without sauce,32,g,320,mg,1140,g,40,g,26,g,0,g,0,g,4,g,0,g
+829,taco villa,breakfast combo 1 hashbrown and ham breakfast burrito with green sauce,23,g,295,mg,1230,g,39,g,28,g,0,g,0,g,4,g,0,g
+830,taco villa,breakfast combo 1 hashbrown and ham breakfast burrito with red sauce,24,g,295,mg,1380,g,38,g,28,g,0,g,0,g,3,g,0,g
+831,taco villa,breakfast combo 1 hashbrown and ham breakfast burrito without sauce,23,g,295,mg,1190,g,37,g,28,g,0,g,0,g,3,g,0,g
+832,taco villa,breakfast combo 1 hashbrown and sausage breakfast burrito with green sauce,33,g,305,mg,1090,g,38,g,32,g,0,g,0,g,4,g,0,g
+833,taco villa,breakfast combo 1 hashbrown and sausage breakfast burrito with red sauce,34,g,305,mg,1240,g,37,g,32,g,0,g,0,g,3,g,0,g
+834,taco villa,breakfast combo 1 hashbrown and sausage breakfast burrito without sauce,33,g,205,mg,1040,g,36,g,32,g,0,g,0,g,3,g,0,g
+835,taco villa,breakfast combo 2 hashbrown and sausage softaco with green sauce,17,g,190,mg,550,g,18,g,15,g,0,g,0,g,2,g,0,g
+836,taco villa,breakfast combo 2 hashbrown and sausage softaco with red sauce,18,g,190,mg,700,g,16,g,15,g,0,g,0,g,1,g,0,g
+837,taco villa,breakfast combo 2 hashbrown and sausage softaco without sauce,17,g,190,mg,510,g,15,g,15,g,0,g,0,g,1,g,0,g
+838,taco villa,breakfast combo hashbrown,9,g,0,mg,130,g,15,g,1,g,0,g,0,g,2,g,0,g
+839,taco villa,breakfast platter bacon,45,g,285,mg,1120,g,44,g,27,g,0,g,0,g,3,g,0,g
+840,taco villa,breakfast platter chorizo,37,g,290,mg,850,g,47,g,20,g,0,g,0,g,4,g,0,g
+841,taco villa,breakfast platter ham,31,g,270,mg,880,g,44,g,21,g,0,g,0,g,3,g,0,g
+842,taco villa,breakfast platter sausage,38,g,280,mg,790,g,44,g,24,g,0,g,0,g,3,g,0,g
+843,taco villa,breakfast southwest softaco bacon with green sauce,17,g,185,mg,580,g,21,g,14,g,0,g,0,g,3,g,0,g
+844,taco villa,breakfast southwest softaco bacon with red sauce,18,g,185,mg,730,g,20,g,14,g,0,g,0,g,2,g,0,g
+845,taco villa,breakfast southwest softaco bacon without sauce,17,g,185,mg,540,g,19,g,14,g,0,g,0,g,2,g,0,g
+846,taco villa,breakfast southwest softaco chorizo with green sauce,17,g,195,mg,590,g,23,g,14,g,0,g,0,g,4,g,0,g
+847,taco villa,breakfast southwest softaco chorizo with red sauce,18,g,195,mg,730,g,21,g,14,g,0,g,0,g,3,g,0,g
+848,taco villa,breakfast southwest softaco chorizo without sauce,17,g,195,mg,540,g,20,g,13,g,0,g,0,g,2,g,0,g
+849,taco villa,breakfast southwest softaco ham with green sauce,14,g,185,mg,600,g,21,g,14,g,0,g,0,g,3,g,0,g
+850,taco villa,breakfast southwest softaco ham with red sauce,15,g,195,mg,750,g,20,g,14,g,0,g,0,g,2,g,0,g
+851,taco villa,breakfast southwest softaco ham without sauce,14,g,185,mg,560,g,19,g,14,g,0,g,0,g,2,g,0,g
+852,taco villa,breakfast southwest softaco sausage with green sauce,17,g,190,mg,550,g,21,g,16,g,0,g,0,g,3,g,0,g
+853,taco villa,breakfast southwest softaco sausage with red sauce,18,g,190,mg,700,g,20,g,15,g,0,g,0,g,2,g,0,g
+854,taco villa,breakfast southwest softaco sausage without sauce,17,g,190,mg,510,g,19,g,15,g,0,g,0,g,2,g,0,g
+855,taco villa,cheese burrito with green sauce,32,g,90,mg,970,g,36,g,27,g,0,g,0,g,3,g,0,g
+856,taco villa,cheese burrito with red sauce,32,g,90,mg,1120,g,35,g,27,g,0,g,0,g,2,g,0,g
+857,taco villa,cheese burrito without sauce,32,g,90,mg,930,g,34,g,27,g,0,g,0,g,2,g,0,g
+858,taco villa,cheese nacho,34,g,15,mg,1800,g,54,g,9,g,0,g,0,g,4,g,0,g
+859,taco villa,cheese quesadilla,22,g,60,mg,780,g,36,g,20,g,0,g,0,g,3,g,0,g
+860,taco villa,chicken burrito with green sauce,16,g,75,mg,1100,g,40,g,31,g,0,g,0,g,5,g,0,g
+861,taco villa,chicken burrito without sauce,16,g,75,mg,1050,g,38,g,31,g,0,g,0,g,3,g,0,g
+862,taco villa,chicken quesadilla,27,g,110,mg,1330,g,38,g,41,g,0,g,0,g,3,g,0,g
+863,taco villa,chicken salad,46,g,70,mg,1010,g,47,g,33,g,0,g,0,g,6,g,0,g
+864,taco villa,chicken soft taco,8,g,40,mg,610,g,16,g,18,g,0,g,0,g,1,g,0,g
+865,taco villa,chili cheese fries,50,g,20,mg,1870,g,78,g,11,g,0,g,0,g,8,g,0,g
+866,taco villa,chips and beans,29,g,15,mg,1640,g,89,g,22,g,0,g,0,g,15,g,0,g
+867,taco villa,chips and guacamole,52,g,0,mg,1580,g,65,g,10,g,0,g,0,g,9,g,0,g
+868,taco villa,chips and queso,42,g,20,mg,2190,g,58,g,12,g,0,g,0,g,5,g,0,g
+869,taco villa,chips and salsa,20,g,0,mg,2010,g,63,g,8,g,0,g,0,g,7,g,0,g
+870,taco villa,chorizo and egg omlet,34,g,400,mg,770,g,7,g,25,g,0,g,0,g,2,g,0,g
+871,taco villa,chorizo and egg sandwich,42,g,335,mg,1240,g,35,g,27,g,0,g,0,g,3,g,0,g
+872,taco villa,chorizo and egg softaco green sauce,17,g,195,mg,580,g,19,g,13,g,0,g,0,g,3,g,0,g
+873,taco villa,chorizo and egg softaco no sauce,17,g,195,mg,540,g,17,g,13,g,0,g,0,g,1,g,0,g
+874,taco villa,chorizo and egg softaco red sauce,18,g,195,mg,730,g,18,g,13,g,0,g,0,g,2,g,0,g
+875,taco villa,cinnamon delight,32,g,5,mg,250,g,64,g,7,g,0,g,0,g,4,g,0,g
+876,taco villa,combination breakfast burrito bacon and chorizo with green sauce,36,g,315,mg,1320,g,41,g,30,g,0,g,0,g,5,g,0,g
+877,taco villa,combination breakfast burrito bacon and chorizo with red sauce,37,g,315,mg,1470,g,39,g,30,g,0,g,0,g,4,g,0,g
+878,taco villa,combination breakfast burrito bacon and chorizo without sauce,36,g,315,mg,1280,g,39,g,29,g,0,g,0,g,4,g,0,g
+879,taco villa,combination breakfast burrito bacon and ham with green sauce,30,g,300,mg,1350,g,39,g,31,g,0,g,0,g,4,g,0,g
+880,taco villa,combination breakfast burrito bacon and ham with red sauce,31,g,300,mg,1500,g,37,g,31,g,0,g,0,g,3,g,0,g
+881,taco villa,combination breakfast burrito bacon and ham without sauce,30,g,300,mg,1310,g,36,g,30,g,0,g,0,g,3,g,0,g
+882,taco villa,combination breakfast burrito bacon and sausage with green sauce,37,g,310,mg,1260,g,38,g,33,g,0,g,0,g,4,g,0,g
+883,taco villa,combination breakfast burrito bacon and sausage with red sauce,38,g,310,mg,1400,g,37,g,33,g,0,g,0,g,3,g,0,g
+884,taco villa,combination breakfast burrito bacon and sausage without sauce,37,g,310,mg,1210,g,36,g,33,g,0,g,0,g,3,g,0,g
+885,taco villa,combination breakfast burrito chorizo and ham with green sauce,30,g,315,mg,1360,g,41,g,29,g,0,g,0,g,5,g,0,g
+886,taco villa,combination breakfast burrito chorizo and ham with red sauce,31,g,315,mg,1500,g,40,g,29,g,0,g,0,g,4,g,0,g
+887,taco villa,combination breakfast burrito chorizo and ham without sauce,30,g,315,mg,1310,g,39,g,29,g,0,g,0,g,4,g,0,g
+888,taco villa,combination breakfast burrito chorizo and sausage with green sauce,37,g,325,mg,1260,g,41,g,32,g,0,g,0,g,5,g,0,g
+889,taco villa,combination breakfast burrito chorizo and sausage with red sauce,38,g,325,mg,1410,g,40,g,32,g,0,g,0,g,4,g,0,g
+890,taco villa,combination breakfast burrito chorizo and sausage without sauce,37,g,325,mg,1210,g,39,g,32,g,0,g,0,g,4,g,0,g
+891,taco villa,combination breakfast burrito ham and sausage with green sauce,30,g,310,mg,1290,g,39,g,33,g,0,g,0,g,4,g,0,g
+892,taco villa,combination breakfast burrito ham and sausage with red sauce,31,g,310,mg,1440,g,37,g,33,g,0,g,0,g,3,g,0,g
+893,taco villa,combination breakfast burrito ham and sausage without sauce,30,g,310,mg,1250,g,37,g,33,g,0,g,0,g,3,g,0,g
+894,taco villa,combination breakfast softaco bacon and chorizo with green sauce,21,g,200,mg,720,g,19,g,16,g,0,g,0,g,3,g,0,g
+895,taco villa,combination breakfast softaco bacon and chorizo with red sauce,21,g,200,mg,870,g,18,g,16,g,0,g,0,g,2,g,0,g
+896,taco villa,combination breakfast softaco bacon and chorizo without sauce,20,g,200,mg,680,g,17,g,16,g,0,g,0,g,1,g,0,g
+897,taco villa,combination breakfast softaco bacon and ham with green sauce,17,g,195,mg,740,g,18,g,16,g,0,g,0,g,2,g,0,g
+898,taco villa,combination breakfast softaco bacon and ham with red sauce,18,g,195,mg,880,g,16,g,16,g,0,g,0,g,1,g,0,g
+899,taco villa,combination breakfast softaco bacon and ham without sauce,17,g,195,mg,690,g,16,g,16,g,0,g,0,g,1,g,0,g
+900,taco villa,combination breakfast softaco bacon and sausage with green sauce,21,g,195,mg,690,g,18,g,18,g,0,g,0,g,2,g,0,g
+901,taco villa,combination breakfast softaco bacon and sausage with red sauce,22,g,195,mg,840,g,16,g,18,g,0,g,0,g,1,g,0,g
+902,taco villa,combination breakfast softaco bacon and sausage without sauce,21,g,195,mg,640,g,15,g,17,g,0,g,0,g,1,g,0,g
+903,taco villa,combination breakfast softaco chorizo and ham with green sauce,17,g,200,mg,740,g,19,g,16,g,0,g,0,g,3,g,0,g
+904,taco villa,combination breakfast softaco chorizo and ham with red sauce,18,g,200,mg,890,g,18,g,16,g,0,g,0,g,2,g,0,g
+905,taco villa,combination breakfast softaco chorizo and ham without sauce,17,g,200,mg,690,g,17,g,15,g,0,g,0,g,2,g,0,g
+906,taco villa,combination breakfast softaco chorizo and sausage with green sauce,21,g,205,mg,690,g,19,g,17,g,0,g,0,g,3,g,0,g
+907,taco villa,combination breakfast softaco chorizo and sausage with red sauce,22,g,205,mg,840,g,18,g,17,g,0,g,0,g,2,g,0,g
+908,taco villa,combination breakfast softaco chorizo and sausage without sauce,21,g,205,mg,640,g,17,g,17,g,0,g,0,g,1,g,0,g
+909,taco villa,combination breakfast softaco ham and sausage with green sauce,18,g,195,mg,710,g,18,g,17,g,0,g,0,g,2,g,0,g
+910,taco villa,combination breakfast softaco ham and sausage with red sauce,19,g,195,mg,850,g,17,g,17,g,0,g,0,g,1,g,0,g
+911,taco villa,combination breakfast softaco ham and sausage without sauce,18,g,195,mg,660,g,16,g,17,g,0,g,0,g,1,g,0,g
+912,taco villa,combination burrito grande green sauce,22,g,60,mg,800,g,51,g,24,g,0,g,0,g,8,g,0,g
+913,taco villa,combination burrito grande red sauce,22,g,60,mg,950,g,50,g,24,g,0,g,0,g,7,g,0,g
+914,taco villa,combination burrito with green sauce,19,g,50,mg,790,g,49,g,23,g,0,g,0,g,7,g,0,g
+915,taco villa,combination burrito with red sauce,20,g,50,mg,940,g,47,g,23,g,0,g,0,g,6,g,0,g
+916,taco villa,combination burrito without sauce,19,g,50,mg,740,g,46,g,23,g,0,g,0,g,6,g,0,g
+917,taco villa,combination chalupa,16,g,40,mg,320,g,21,g,15,g,0,g,0,g,4,g,0,g
+918,taco villa,combination nacho,45,g,50,mg,2060,g,67,g,22,g,0,g,0,g,8,g,0,g
+919,taco villa,combination smothered burrito,27,g,55,mg,1280,g,53,g,25,g,0,g,0,g,7,g,0,g
+920,taco villa,combo 1 bean burrito with red sauce,12,g,15,mg,970,g,55,g,17,g,0,g,0,g,9,g,0,g
+921,taco villa,combo 2 taco burger,15,g,40,mg,380,g,30,g,16,g,0,g,0,g,0,g,0,g
+922,taco villa,combo 3 deluxe nachos,53,g,60,mg,2340,g,71,g,24,g,0,g,0,g,9,g,0,g
+923,taco villa,combo 4 combination burrito with red sauce,20,g,50,mg,940,g,47,g,23,g,0,g,0,g,6,g,0,g
+924,taco villa,combo 4 crispy taco,15,g,40,mg,190,g,13,g,13,g,0,g,0,g,1,g,0,g
+925,taco villa,combo 5 crispy tacos,15,g,40,mg,190,g,13,g,13,g,0,g,0,g,1,g,0,g
+926,taco villa,combo 6 salad ole,55,g,70,mg,620,g,49,g,27,g,0,g,0,g,5,g,0,g
+927,taco villa,combo 7 chicken quesadilla,27,g,110,mg,1330,g,38,g,41,g,0,g,0,g,3,g,0,g
+928,taco villa,combo regular fries,27,g,0,mg,610,g,58,g,4,g,0,g,0,g,5,g,0,g
+929,taco villa,crispy taco,15,g,40,mg,190,g,13,g,13,g,0,g,0,g,1,g,0,g
+930,taco villa,cup of beans,6,g,0,mg,590,g,42,g,15,g,0,g,0,g,14,g,0,g
+931,taco villa,cup of beef taco meat,38,g,130,mg,430,g,11,g,39,g,0,g,0,g,0,g,0,g
+932,taco villa,cup of combination meat,22,g,65,mg,660,g,21,g,24,g,0,g,0,g,6,g,0,g
+933,taco villa,cup of meat,34,g,115,mg,600,g,9,g,33,g,0,g,0,g,0,g,0,g
+934,taco villa,cup of refried beans,10,g,15,mg,720,g,32,g,15,g,0,g,0,g,11,g,0,g
+935,taco villa,deluxe chicken nacho,46,g,60,mg,2600,g,70,g,28,g,0,g,0,g,10,g,0,g
+936,taco villa,deluxe nacho,53,g,60,mg,2340,g,71,g,24,g,0,g,0,g,9,g,0,g
+937,taco villa,deluxe steak nacho,50,g,30,mg,2640,g,70,g,29,g,0,g,0,g,9,g,0,g
+938,taco villa,dinner pac bean chalupa,10,g,15,mg,350,g,27,g,11,g,0,g,0,g,7,g,0,g
+939,taco villa,dinner pac combination burrito with green sauce,19,g,50,mg,790,g,49,g,23,g,0,g,0,g,7,g,0,g
+940,taco villa,dinner pac combination burrito with red sauce,20,g,50,mg,940,g,47,g,23,g,0,g,0,g,6,g,0,g
+941,taco villa,dinner pac crispy taco,15,g,40,mg,190,g,13,g,13,g,0,g,0,g,1,g,0,g
+942,taco villa,egg omlet,26,g,370,mg,490,g,4,g,21,g,0,g,0,g,1,g,0,g
+943,taco villa,egg sandwich,27,g,270,mg,680,g,29,g,19,g,0,g,0,g,1,g,0,g
+944,taco villa,egg softaco green sauce,13,g,175,mg,450,g,19,g,11,g,0,g,0,g,2,g,0,g
+945,taco villa,egg softaco no sauce,13,g,175,mg,400,g,15,g,11,g,0,g,0,g,1,g,0,g
+946,taco villa,egg softaco red sauce,14,g,180,mg,590,g,16,g,11,g,0,g,0,g,1,g,0,g
+947,taco villa,family pac bean chalupa,10,g,15,mg,350,g,27,g,11,g,0,g,0,g,7,g,0,g
+948,taco villa,family pac soft taco,14,g,40,mg,350,g,19,g,14,g,0,g,0,g,1,g,0,g
+949,taco villa,fiesta pac bean burrito with green sauce,11,g,15,mg,830,g,56,g,17,g,0,g,0,g,10,g,0,g
+950,taco villa,fiesta pac bean burrito with red sauce,12,g,15,mg,970,g,55,g,17,g,0,g,0,g,9,g,0,g
+951,taco villa,fiesta pac crispy taco,15,g,40,mg,190,g,13,g,13,g,0,g,0,g,1,g,0,g
+952,taco villa,fiesta pac guadalajara,22,g,15,mg,260,g,16,g,7,g,0,g,0,g,4,g,0,g
+953,taco villa,french fries,27,g,0,mg,610,g,58,g,4,g,0,g,0,g,5,g,0,g
+954,taco villa,french fries extra large,49,g,0,mg,1110,g,105,g,7,g,0,g,0,g,8,g,0,g
+955,taco villa,grande breakfast burrito bacon with green sauce,29,g,285,mg,1050,g,41,g,26,g,0,g,0,g,5,g,0,g
+956,taco villa,grande breakfast burrito bacon with red sauce,29,g,285,mg,1190,g,39,g,26,g,0,g,0,g,4,g,0,g
+957,taco villa,grande breakfast burrito bacon without sauce,28,g,285,mg,1000,g,36,g,25,g,0,g,0,g,3,g,0,g
+958,taco villa,grande breakfast burrito chorizo with green sauce,32,g,320,mg,1190,g,45,g,27,g,0,g,0,g,6,g,0,g
+959,taco villa,grande breakfast burrito chorizo with red sauce,33,g,320,mg,1330,g,44,g,27,g,0,g,0,g,5,g,0,g
+960,taco villa,grande breakfast burrito chorizo without sauce,32,g,320,mg,1140,g,43,g,27,g,0,g,0,g,5,g,0,g
+961,taco villa,grande breakfast burrito ham with green sauce,23,g,295,mg,1230,g,42,g,28,g,0,g,0,g,5,g,0,g
+962,taco villa,grande breakfast burrito ham with red sauce,24,g,295,mg,1380,g,40,g,28,g,0,g,0,g,4,g,0,g
+963,taco villa,grande breakfast burrito ham without sauce,23,g,295,mg,1190,g,40,g,28,g,0,g,0,g,4,g,0,g
+964,taco villa,grande breakfast burrito sausage with green sauce,33,g,305,mg,1090,g,41,g,32,g,0,g,0,g,5,g,0,g
+965,taco villa,grande breakfast burrito sausage with red sauce,34,g,305,mg,1240,g,39,g,32,g,0,g,0,g,4,g,0,g
+966,taco villa,grande breakfast burrito sausage without sauce,33,g,305,mg,1050,g,39,g,32,g,0,g,0,g,3,g,0,g
+967,taco villa,grande softaco bacon and green sauce,17,g,185,mg,580,g,20,g,14,g,0,g,0,g,3,g,0,g
+968,taco villa,grande softaco bacon and no sauce,17,g,185,mg,540,g,18,g,14,g,0,g,0,g,2,g,0,g
+969,taco villa,grande softaco bacon and red sauce,18,g,185,mg,730,g,19,g,14,g,0,g,0,g,2,g,0,g
+970,taco villa,grande softaco chorizo and green sauce,17,g,195,mg,590,g,22,g,14,g,0,g,0,g,3,g,0,g
+971,taco villa,grande softaco chorizo and no sauce,17,g,195,mg,540,g,20,g,13,g,0,g,0,g,2,g,0,g
+972,taco villa,grande softaco chorizo and red sauce,18,g,195,mg,730,g,20,g,13,g,0,g,0,g,2,g,0,g
+973,taco villa,grande softaco ham and green sauce,14,g,185,mg,600,g,21,g,14,g,0,g,0,g,3,g,0,g
+974,taco villa,grande softaco ham and no sauce,14,g,185,mg,560,g,19,g,14,g,0,g,0,g,2,g,0,g
+975,taco villa,grande softaco ham and red sauce,15,g,185,mg,750,g,19,g,14,g,0,g,0,g,2,g,0,g
+976,taco villa,grande softaco sausage and green sauce,17,g,190,mg,550,g,20,g,15,g,0,g,0,g,3,g,0,g
+977,taco villa,grande softaco sausage and no sauce,17,g,190,mg,510,g,18,g,15,g,0,g,0,g,2,g,0,g
+978,taco villa,grande softaco sausage and red sauce,18,g,190,mg,700,g,19,g,15,g,0,g,0,g,2,g,0,g
+979,taco villa,grilled chicken nachos,39,g,60,mg,2180,g,57,g,23,g,0,g,0,g,5,g,0,g
+980,taco villa,grilled chicken smothered burrito,22,g,70,mg,1620,g,44,g,32,g,0,g,0,g,6,g,0,g
+981,taco villa,guacamole burrito with green sauce,22,g,15,mg,770,g,42,g,12,g,0,g,0,g,6,g,0,g
+982,taco villa,guacamole burrito with red sauce,23,g,15,mg,920,g,41,g,12,g,0,g,0,g,5,g,0,g
+983,taco villa,guacamole burrito without sauce,22,g,15,mg,720,g,40,g,12,g,0,g,0,g,5,g,0,g
+984,taco villa,guacamole salad,14,g,0,mg,230,g,6,g,2,g,0,g,0,g,3,g,0,g
+985,taco villa,guadalajara chalupa,22,g,15,mg,260,g,16,g,7,g,0,g,0,g,4,g,0,g
+986,taco villa,ham and cheese on a bun green sauce,10,g,45,mg,980,g,30,g,18,g,0,g,0,g,2,g,0,g
+987,taco villa,ham and cheese on a bun no sauce,10,g,45,mg,930,g,28,g,18,g,0,g,0,g,0,g,0,g
+988,taco villa,ham and cheese on a bun red sauce,11,g,45,mg,1130,g,29,g,18,g,0,g,0,g,1,g,0,g
+989,taco villa,ham and egg omlet,28,g,385,mg,800,g,4,g,26,g,0,g,0,g,1,g,0,g
+990,taco villa,ham and egg sandwich,29,g,300,mg,1300,g,31,g,29,g,0,g,0,g,2,g,0,g
+991,taco villa,ham and egg softaco green sauce,14,g,185,mg,600,g,18,g,14,g,0,g,0,g,2,g,0,g
+992,taco villa,ham and egg softaco no sauce,14,g,185,mg,550,g,16,g,13,g,0,g,0,g,1,g,0,g
+993,taco villa,ham and egg softaco red sauce,14,g,185,mg,750,g,16,g,14,g,0,g,0,g,1,g,0,g
+994,taco villa,hashbrown,9,g,0,mg,130,g,15,g,1,g,0,g,0,g,2,g,0,g
+995,taco villa,hot sauce,0,g,0,mg,125,g,2,g,1,g,0,g,0,g,1,g,0,g
+996,taco villa,hot sauce single serve container,0,g,0,mg,40,g,1,g,0,g,0,g,0,g,0,g,0,g
+997,taco villa,jalapeno slices,0,g,5,mg,230,g,0,g,0,g,0,g,0,g,1,g,0,g
+998,taco villa,ketchup,0,g,0,mg,560,g,10,g,1,g,0,g,0,g,0,g,0,g
+999,taco villa,kids bean burrito without sauce,11,g,15,mg,780,g,54,g,17,g,0,g,0,g,9,g,0,g

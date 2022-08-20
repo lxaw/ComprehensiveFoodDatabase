@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,subway,loaded baked potato soup,13,g,35,mg,800,g,15,g,5,g,7,g,0,g,1,g,4,g
+1,subway,beef chili with beans,22,g,71,mg,800,g,20,g,21,g,8,g,1.5,g,5,g,6,g
+2,subway,tomato basil soup,6,g,20,mg,700,g,15,g,4,g,3.5,g,0,g,2,g,7,g
+3,subway,creamy chicken and dumpling soup,4.5,g,35,mg,740,g,20,g,8,g,2,g,0,g,3,g,3,g
+4,subway,creamy chicken and wild rice soup,11,g,40,mg,820,g,16,g,7,g,6,g,0.5,g,1,g,3,g
+5,subway,thai coconut soup,13,g,25,mg,80,g,17,g,5,g,3,g,0,g,1,g,7,g
+6,subway,black bean soup,1,g,0,mg,860,g,39,g,12,g,0,g,0,g,15,g,6,g
+7,subway,poblano corn chowder,7,g,20,mg,560,g,18,g,5,g,4,g,0.5,g,2,g,7,g
+8,subway,french onion with cheese and bread,6,g,15,mg,940,g,19,g,5,g,3.5,g,0,g,1,g,1,g
+9,subway,chicken tortilla soup,4.5,g,10,mg,660,g,12,g,6,g,1,g,0,g,2,g,3,g
+10,subway,clam chowder soup,11,g,30,mg,850,g,20,g,5,g,7,g,0.5,g,2,g,3,g
+11,subway,bagel,1.5,g,0,mg,560,g,56,g,11,g,0,g,0,g,2,g,1,g
+12,subway,steak and cheese on tomato basil wrap,19,g,90,mg,2030,g,59,g,41,g,9,g,1,g,3,g,5,g
+13,subway,turkey breast on spinach wrap,10,g,40,mg,1760,g,57,g,28,g,4,g,0,g,3,g,4,g
+14,subway,veggie delite on spinach wrap,8,g,0,mg,800,g,56,g,10,g,3,g,0,g,4,g,5,g
+15,subway,tuna on tomato basil wrap,54,g,75,mg,1330,g,53,g,33,g,11,g,0.5,g,3,g,3,g
+16,subway,sweet onion chicken teriyaki on tomato basil wrap,12,g,100,mg,1630,g,71,g,42,g,4,g,0,g,4,g,14,g
+17,subway,oven roasted chicken breast on spinach wrap,13,g,90,mg,1460,g,56,g,38,g,5,g,0,g,4,g,5,g
+18,subway,rotisserie style chicken caesar on spinach wrap,34,g,135,mg,1900,g,54,g,55,g,10,g,0.5,g,3,g,4,g
+19,subway,subway club on spinach wrap,13,g,75,mg,1920,g,56,g,39,g,5,g,0,g,4,g,5,g
+20,subway,turkey bacon and guacamole on tomato basil wrap,42,g,75,mg,2960,g,62,g,43,g,13,g,0.5,g,5,g,6,g
+21,subway,chicken and bacon ranch on tomato basil wrap,42,g,155,mg,2380,g,56,g,60,g,16,g,1,g,4,g,5,g
+22,subway,spicy italian on tomato basil wrap,52,g,105,mg,3140,g,56,g,32,g,20,g,1,g,4,g,6,g
+23,subway,rotisserie style chicken on spinach wrap,15,g,110,mg,1560,g,54,g,51,g,5,g,0,g,3,g,4,g
+24,subway,italian b m t on tomato basil wrap,3.6,g,9,mg,267,g,5.6,g,3.2,g,1.4,g,0.0001,g,0.4,g,0.6,g
+25,subway,meatball marinara on tomato basil wrap,40,g,80,mg,2200,g,81,g,34,g,16,g,2,g,8,g,12,g
+26,subway,black forest ham on tomato basil wrap,12,g,50,mg,1780,g,57,g,27,g,5,g,0,g,4,g,6,g
+27,subway,chipotle southwest steak on tomato basil wrap,37,g,100,mg,2250,g,65,g,43,g,12,g,1,g,6,g,8,g
+28,subway,cold cut combo on tomato basil wrap,27,g,90,mg,2230,g,57,g,27,g,10,g,0.5,g,3,g,4,g
+29,subway,roast beef on spinach wrap,13,g,90,mg,1560,g,54,g,42,g,5,g,0,g,4,g,5,g
+30,subway,subway seafood sensation on spinach wrap,41,g,35,mg,1790,g,67,g,18,g,9,g,0.5,g,4,g,7,g
+31,subway,6 inch applewood pulled pork,9,g,45,mg,980,g,62,g,23,g,2,g,0,g,5,g,24,g
+32,subway,6 inch b l t,13,g,20,mg,1130,g,44,g,20,g,4.5,g,0,g,5,g,7,g
+33,subway,6 inch bacon egg and cheese,18,g,180,mg,1310,g,44,g,25,g,7,g,0,g,4,g,6,g
+34,subway,6 inch bacon egg and cheese flatbread,21,g,180,mg,1370,g,43,g,25,g,7,g,0,g,4,g,3,g
+35,subway,6 inch bacon egg white and cheese,13,g,20,mg,1340,g,45,g,26,g,4,g,0,g,4,g,6,g
+36,subway,6 inch bacon egg white and cheese flatbread,15,g,20,mg,1410,g,44,g,26,g,5,g,0,g,4,g,3,g
+37,subway,6 inch bbq rib melt,29,g,60,mg,840,g,49,g,24,g,11,g,0,g,5,g,10,g
+38,subway,6 inch big cheesy,17,g,45,mg,980,g,43,g,18,g,10,g,0.5,g,4,g,5,g
+39,subway,6 inch black forest ham,4.5,g,25,mg,800,g,46,g,18,g,1,g,0,g,5,g,8,g
+40,subway,6 inch black forest ham egg and cheese,14,g,185,mg,1150,g,45,g,24,g,5,g,0,g,4,g,6,g
+41,subway,6 inch black forest ham egg and cheese flatbread,16,g,185,mg,1210,g,44,g,23,g,5,g,0,g,4,g,3,g
+42,subway,6 inch black forest ham egg white and cheese,9,g,25,mg,1180,g,45,g,25,g,2.5,g,0,g,4,g,6,g
+43,subway,6 inch black forest ham egg white and cheese flatbread,11,g,25,mg,1250,g,44,g,25,g,2.5,g,0,g,4,g,3,g
+44,subway,6 inch breakfast b m t,23,g,205,mg,1630,g,47,g,29,g,8,g,0,g,5,g,7,g
+45,subway,6 inch breakfast b m t flatbread,25,g,205,mg,1690,g,46,g,28,g,8,g,0,g,5,g,5,g
+46,subway,6 inch breakfast b m t flatbread with egg white,20,g,45,mg,1730,g,46,g,30,g,6,g,0,g,4,g,5,g
+47,subway,6 inch breakfast b m t with egg white,17,g,45,mg,1670,g,47,g,30,g,6,g,0,g,5,g,7,g
+48,subway,6 inch buffalo chicken rotisserie style,17,g,60,mg,1270,g,47,g,29,g,3,g,0,g,6,g,8,g
+49,subway,6 inch buffalo chicken with chicken strips,16,g,55,mg,1100,g,46,g,25,g,3,g,0,g,6,g,8,g
+50,subway,6 inch caesar chicken melt with chicken strips,22,g,75,mg,800,g,46,g,29,g,6,g,0.5,g,5,g,7,g
+51,subway,6 inch chicken and bacon ranch melt,30,g,95,mg,1290,g,47,g,38,g,10,g,0.5,g,5,g,8,g
+52,subway,6 inch chicken caesar melt rotisserie style,24,g,75,mg,1010,g,46,g,34,g,6,g,0.5,g,5,g,8,g
+53,subway,6 inch chicken parmesan,16,g,35,mg,1000,g,63,g,24,g,5,g,0.5,g,6,g,10,g
+54,subway,6 inch chicken pizziola melt,15,g,80,mg,1140,g,50,g,32,g,6,g,0.5,g,6,g,10,g
+55,subway,6 inch chicken salad,10,g,45,mg,660,g,51,g,19,g,2,g,0,g,6,g,12,g
+56,subway,6 inch chicken strips,4,g,50,mg,490,g,44,g,25,g,1,g,0,g,5,g,7,g
+57,subway,6 inch cold cut combo,12,g,45,mg,1030,g,46,g,17,g,3.5,g,0,g,5,g,7,g
+58,subway,6 inch corned beef reuben,15,g,85,mg,1720,g,52,g,39,g,5,g,0.5,g,7,g,13,g
+59,subway,6 inch crunchy chicken enchilada,26,g,20,mg,1120,g,60,g,26,g,7,g,0.5,g,7,g,10,g
+60,subway,6 inch cubano,14,g,70,mg,1430,g,48,g,32,g,4.5,g,0,g,5,g,9,g
+61,subway,6 inch egg and cheese,13,g,170,mg,880,g,44,g,19,g,4.5,g,0,g,4,g,5,g
+62,subway,6 inch egg and cheese flatbread,15,g,170,mg,950,g,42,g,19,g,5,g,0,g,4,g,2,g
+63,subway,6 inch egg salad,26,g,255,mg,450,g,45,g,17,g,5,g,0,g,5,g,7,g
+64,subway,6 inch egg white and cheese,8,g,10,mg,920,g,44,g,20,g,2,g,0,g,4,g,5,g
+65,subway,6 inch egg white and cheese flatbread,10,g,10,mg,980,g,43,g,20,g,2.5,g,0,g,4,g,2,g
+66,subway,6 inch falafel,24,g,10,mg,1050,g,73,g,18,g,4,g,0.5,g,13,g,8,g
+67,subway,6 inch italian b m t,16,g,45,mg,1260,g,46,g,20,g,6,g,0,g,5,g,8,g
+68,subway,6 inch italian hero,29,g,75,mg,1470,g,47,g,26,g,9,g,0.5,g,5,g,9,g
+69,subway,6 inch italian hero supreme,27,g,90,mg,1660,g,54,g,29,g,11,g,0.5,g,5,g,14,g
+70,subway,6 inch malibu garden vegan patty,10,g,0,mg,780,g,64,g,13,g,2,g,0,g,9,g,8,g
+71,subway,6 inch meatball marinara,18,g,40,mg,1000,g,60,g,21,g,7,g,0.5,g,8,g,12,g
+72,subway,6 inch mediterranean chicken,20,g,70,mg,930,g,46,g,30,g,6,g,0,g,5,g,7,g
+73,subway,6 inch mediterranean steak,22,g,60,mg,1270,g,49,g,29,g,7,g,0.5,g,5,g,9,g
+74,subway,6 inch mega melt,29,g,215,mg,1830,g,45,g,35,g,11,g,0,g,4,g,6,g
+75,subway,6 inch mega melt flatbread,31,g,215,mg,1890,g,44,g,34,g,11,g,0,g,4,g,3,g
+76,subway,6 inch mega melt flatbread with egg white,26,g,55,mg,1930,g,45,g,36,g,9,g,0,g,4,g,3,g
+77,subway,6 inch mega melt with egg white,24,g,55,mg,1860,g,46,g,36,g,9,g,0,g,4,g,6,g
+78,subway,6 inch orchard chicken salad,8,g,40,mg,530,g,54,g,20,g,1.5,g,0,g,6,g,15,g
+79,subway,6 inch oven roasted chicken,5,g,45,mg,610,g,46,g,23,g,1.5,g,0,g,5,g,8,g
+80,subway,6 inch pastrami,17,g,50,mg,980,g,46,g,20,g,7,g,0,g,5,g,8,g
+81,subway,6 inch pastrami melt big hot,28,g,85,mg,1470,g,47,g,29,g,11,g,0,g,5,g,8,g
+82,subway,6 inch pepperoni,17,g,30,mg,1080,g,45,g,16,g,6,g,0.5,g,5,g,8,g
+83,subway,6 inch pizza sub melt,24,g,55,mg,1640,g,49,g,20,g,10,g,0.5,g,5,g,9,g
+84,subway,6 inch roast beef,5,g,45,mg,660,g,45,g,25,g,1.5,g,0,g,5,g,7,g
+85,subway,6 inch rotisserie style chicken,6,g,55,mg,660,g,45,g,29,g,1.5,g,0,g,5,g,7,g
+86,subway,6 inch sausage egg and cheese,24,g,205,mg,1400,g,45,g,29,g,9,g,0,g,4,g,6,g
+87,subway,6 inch sausage egg and cheese flatbread,26,g,205,mg,1470,g,44,g,29,g,9,g,0,g,4,g,3,g
+88,subway,6 inch sausage egg white and cheese,18,g,45,mg,1440,g,45,g,30,g,7,g,0,g,4,g,5,g
+89,subway,6 inch sausage egg white and cheese flatbread,21,g,45,mg,1500,g,44,g,30,g,7,g,0,g,4,g,3,g
+90,subway,6 inch sea salt and pepper fish,19,g,40,mg,1130,g,74,g,21,g,4.5,g,0,g,7,g,8,g
+91,subway,6 inch spicy italian,24,g,50,mg,1490,g,46,g,20,g,9,g,0.5,g,5,g,8,g
+92,subway,6 inch steak and cheese,10,g,50,mg,1030,g,49,g,26,g,4.5,g,0,g,5,g,9,g
+93,subway,6 inch steak egg and cheese,15,g,195,mg,1210,g,46,g,28,g,6,g,0,g,4,g,6,g
+94,subway,6 inch steak egg and cheese flatbread,18,g,195,mg,1280,g,45,g,28,g,6,g,0,g,4,g,4,g
+95,subway,6 inch steak egg white and cheese,10,g,35,mg,1250,g,46,g,29,g,3,g,0,g,4,g,6,g
+96,subway,6 inch steak egg white and cheese flatbread,12,g,35,mg,1320,g,45,g,29,g,3,g,0,g,4,g,3,g
+97,subway,6 inch subway club,4.5,g,40,mg,840,g,46,g,23,g,1.5,g,0,g,5,g,8,g
+98,subway,6 inch subway melt,13,g,40,mg,1410,g,48,g,26,g,5,g,0.5,g,5,g,9,g
+99,subway,6 inch subway seafood sensationtm,19,g,15,mg,780,g,51,g,13,g,3,g,0,g,5,g,8,g
+100,subway,6 inch sunrise subway melt,20,g,205,mg,1810,g,48,g,34,g,7,g,0,g,5,g,8,g
+101,subway,6 inch sunrise subway melt flatbread,22,g,205,mg,1880,g,47,g,34,g,7,g,0,g,4,g,5,g
+102,subway,6 inch sunrise subway melt flatbread with egg white,17,g,40,mg,1910,g,47,g,35,g,5,g,0,g,4,g,5,g
+103,subway,6 inch sunrise subway melt with egg white,15,g,40,mg,1850,g,48,g,36,g,5,g,0,g,5,g,8,g
+104,subway,6 inch sweet onion chicken teriyaki,4,g,50,mg,770,g,58,g,25,g,1,g,0,g,5,g,16,g
+105,subway,6 inch tuna,25,g,40,mg,580,g,44,g,20,g,4.5,g,0,g,5,g,7,g
+106,subway,6 inch turkey and bacon,9,g,30,mg,1190,g,47,g,23,g,3,g,0,g,5,g,8,g
+107,subway,6 inch turkey and bacon avocado,14,g,30,mg,1190,g,50,g,24,g,3.5,g,0,g,7,g,8,g
+108,subway,6 inch turkey and bacon guacamole,15,g,30,mg,1280,g,50,g,24,g,4,g,0,g,7,g,8,g
+109,subway,6 inch turkey breast,3.5,g,20,mg,760,g,46,g,18,g,1,g,0,g,5,g,7,g
+110,subway,6 inch turkey breast and black forest ham,4,g,20,mg,780,g,46,g,18,g,1,g,0,g,5,g,8,g
+111,subway,6 inch turkey italiano melt,23,g,50,mg,1560,g,48,g,22,g,8,g,0.5,g,5,g,9,g
+112,subway,6 inch veggie delite,2.5,g,0,mg,280,g,44,g,8,g,0.5,g,0,g,5,g,7,g
+113,subway,6 inch veggie patty,10,g,0,mg,800,g,52,g,21,g,3,g,0,g,8,g,9,g
+114,subway,9 grain honey oat bread,2.5,g,0,mg,280,g,43,g,8,g,0.5,g,0,g,4,g,6,g
+115,subway,9 grain wheat bread,2,g,0,mg,270,g,40,g,8,g,0.5,g,0,g,4,g,5,g
+116,subway,american cheese,3.5,g,10,mg,200,g,1,g,2,g,2,g,0,g,0,g,0,g
+117,subway,apple cinnamon pecan muffin,25,g,65,mg,380,g,57,g,6,g,5,g,0,g,2,g,35,g
+118,subway,apple slices,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,2,g,7,g
+119,subway,artisan flatbread,4.5,g,0,mg,340,g,39,g,7,g,1,g,0,g,4,g,2,g
+120,subway,avocado,5,g,0,mg,0,g,3,g,1,g,1,g,0,g,2,g,0,g
+121,subway,bacon,5,g,10,mg,420,g,1,g,6,g,2,g,0,g,0,g,1,g
+122,subway,bacon pizza,31,g,70,mg,2060,g,98,g,37,g,12,g,0.5,g,4,g,8,g
+123,subway,bagel,1.5,g,0,mg,560,g,56,g,11,g,0,g,0,g,2,g,1,g
+124,subway,banana bread muffin,25,g,40,mg,330,g,53,g,6,g,3.5,g,0,g,2,g,29,g
+125,subway,banana peppers,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+126,subway,barbecue sauce,0,g,0,mg,170,g,9,g,0,g,0,g,0,g,0,g,9,g
+127,subway,bbq pulled pork,6,g,45,mg,700,g,18,g,15,g,4,g,0,g,0,g,18,g
+128,subway,bbq rib patty,22,g,45,mg,470,g,4,g,12,g,0.5,g,0,g,0,g,3,g
+129,subway,beef chili with beans soup,22,g,70,mg,800,g,20,g,21,g,8,g,1.5,g,5,g,6,g
+130,subway,biscuits,10,g,0,mg,620,g,27,g,4,g,4.5,g,0,g,1,g,1,g
+131,subway,black bean soup,1,g,0,mg,860,g,39,g,12,g,0,g,0,g,15,g,6,g
+132,subway,black forest ham on tomato basil wrap,12,g,50,mg,1780,g,57,g,27,g,5,g,0,g,4,g,6,g
+133,subway,black forest ham salad,3,g,25,mg,600,g,13,g,12,g,1,g,0,g,4,g,8,g
+134,subway,blueberry crumb muffin,17,g,45,mg,410,g,60,g,5,g,5,g,0,g,1,g,34,g
+135,subway,broccoli cheddar soup,9,g,25,mg,630,g,18,g,5,g,5,g,0,g,1,g,4,g
+136,subway,brownie,17,g,30,mg,125,g,51,g,5,g,6,g,0,g,1,g,32,g
+137,subway,brownie gluten free,16,g,55,mg,170,g,48,g,3,g,1.5,g,0,g,2,g,34,g
+138,subway,buffalo chicken strips,2,g,50,mg,620,g,1,g,16,g,0,g,0,g,0,g,0,g
+139,subway,buffalo sauce,0,g,0,mg,400,g,1,g,0,g,0,g,0,g,0,g,0,g
+140,subway,carrots,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,1,g
+141,subway,cheddar cheese,4.5,g,15,mg,90,g,0,g,4,g,2.5,g,0,g,0,g,0,g
+142,subway,cheese flatizza,16,g,35,mg,810,g,43,g,21,g,8,g,0,g,4,g,3,g
+143,subway,cheese pizza,23,g,50,mg,1530,g,97,g,28,g,9,g,0.5,g,4,g,7,g
+144,subway,chicken and bacon ranch melt on tomato basil wrap,42,g,155,mg,2380,g,56,g,60,g,16,g,1,g,4,g,5,g
+145,subway,chicken and bacon ranch melt salad,40,g,100,mg,1290,g,15,g,32,g,12,g,1,g,4,g,9,g
+146,subway,chicken enchilada,4,g,0,mg,410,g,7,g,12,g,0,g,0,g,1,g,2,g
+147,subway,chicken salad,8,g,45,mg,380,g,7,g,11,g,0,g,0,g,1,g,5,g
+148,subway,chicken strips,1.5,g,50,mg,210,g,0,g,16,g,1.5,g,0,g,0,g,0,g
+149,subway,chipotle southwest dressing,20,g,15,mg,330,g,2,g,1,g,3.5,g,0,g,0,g,1,g
+150,subway,chipotle southwest sauce,10,g,5,mg,160,g,1,g,0,g,1.5,g,0,g,0,g,1,g
+151,subway,chipotle southwest steak on tomato basil wrap,37,g,100,mg,2250,g,65,g,43,g,12,g,1,g,6,g,8,g
+152,subway,chocolate chip cookie,10,g,10,mg,120,g,29,g,2,g,5,g,0,g,1,g,18,g
+153,subway,chocolate chip with mandms cookie,10,g,15,mg,105,g,30,g,2,g,5,g,0,g,1,g,18,g
+154,subway,chocolate chunk cookie,10,g,10,mg,95,g,30,g,2,g,4.5,g,0,g,1,g,17,g
+155,subway,chocolate chunk muffin,27,g,75,mg,380,g,63,g,5,g,8,g,0,g,2,g,40,g
+156,subway,cinnamon rolls,27,g,5,mg,730,g,83,g,9,g,13,g,0,g,3,g,33,g
+157,subway,cold cut combo meats,10,g,45,mg,750,g,2,g,9,g,1,g,0.5,g,0,g,1,g
+158,subway,cold cut combo on tomato basil wrap,27,g,90,mg,2230,g,57,g,27,g,10,g,0.5,g,3,g,4,g
+159,subway,cold cut combo salad,10,g,45,mg,830,g,13,g,12,g,4,g,0,g,4,g,7,g
+160,subway,corned beef,3,g,65,mg,1070,g,4,g,26,g,3,g,0,g,0,g,4,g
+161,subway,creamy chicken and dumplings soup,4.5,g,35,mg,740,g,20,g,8,g,2,g,0,g,3,g,3,g
+162,subway,creamy chicken and wild rice soup,11,g,40,mg,820,g,16,g,7,g,6,g,0.5,g,1,g,3,g
+163,subway,creamy italian,7,g,0,mg,180,g,4,g,0,g,1,g,0,g,0,g,4,g
+164,subway,creamy sriracha,3.5,g,5,mg,240,g,2,g,0,g,0.5,g,0,g,0,g,1,g
+165,subway,croissant,11,g,30,mg,300,g,34,g,5,g,7,g,0,g,1,g,4,g
+166,subway,double chocolate cookie,9,g,15,mg,130,g,30,g,2,g,5,g,0,g,1,g,20,g
+167,subway,egg patty,7,g,160,mg,410,g,3,g,9,g,3,g,0,g,0,g,0,g
+168,subway,egg salad,23,g,255,mg,170,g,1,g,8,g,0,g,0,g,0,g,1,g
+169,subway,egg white patty,2,g,0,mg,440,g,3,g,11,g,0.5,g,0,g,0,g,0,g
+170,subway,english muffin,1,g,0,mg,200,g,25,g,4,g,0,g,0,g,1,g,1,g
+171,subway,falafel,6,g,0,mg,0,g,28,g,9,g,2.5,g,0,g,8,g,1,g
+172,subway,feta cheese,2,g,5,mg,160,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+173,subway,fire roasted tomato sauce,8,g,0,mg,210,g,1,g,0,g,1,g,0,g,0,g,1,g
+174,subway,fish filet,8,g,30,mg,630,g,18,g,11,g,1.5,g,0,g,1,g,1,g
+175,subway,footlong applewood pulled pork,18,g,90,mg,1960,g,124,g,46,g,4,g,0,g,10,g,48,g
+176,subway,footlong b l t,26,g,40,mg,2260,g,88,g,40,g,9,g,0,g,10,g,14,g
+177,subway,footlong bacon egg and cheese,36,g,360,mg,2620,g,88,g,50,g,14,g,0,g,8,g,12,g
+178,subway,footlong bacon egg and cheese flatbread,42,g,360,mg,2740,g,86,g,50,g,14,g,0,g,8,g,6,g
+179,subway,footlong bacon egg white and cheese,26,g,40,mg,2680,g,90,g,52,g,8,g,0,g,8,g,12,g
+180,subway,footlong bacon egg white and cheese flatbread,30,g,40,mg,2820,g,88,g,52,g,10,g,0,g,8,g,6,g
+181,subway,footlong bbq rib melt,58,g,120,mg,1680,g,98,g,48,g,22,g,0,g,10,g,20,g
+182,subway,footlong big cheesy,34,g,90,mg,1960,g,86,g,36,g,20,g,1,g,8,g,10,g
+183,subway,footlong black forest ham,9,g,50,mg,1600,g,92,g,36,g,2,g,0,g,10,g,16,g
+184,subway,footlong black forest ham egg and cheese,28,g,370,mg,2300,g,90,g,48,g,10,g,0,g,8,g,12,g
+185,subway,footlong black forest ham egg and cheese flatbread,32,g,370,mg,2420,g,88,g,46,g,10,g,0,g,8,g,6,g
+186,subway,footlong black forest ham egg white and cheese,18,g,50,mg,2360,g,90,g,50,g,5,g,0,g,8,g,12,g
+187,subway,footlong black forest ham egg white and cheese flatbread,22,g,50,mg,2500,g,88,g,50,g,5,g,0,g,8,g,6,g
+188,subway,footlong breakfast b m t,46,g,410,mg,3260,g,94,g,58,g,16,g,0,g,10,g,14,g
+189,subway,footlong breakfast b m t flatbread,50,g,410,mg,3380,g,92,g,56,g,16,g,0,g,10,g,10,g
+190,subway,footlong breakfast b m t flatbread with egg white,40,g,90,mg,3460,g,92,g,60,g,12,g,0,g,8,g,10,g
+191,subway,footlong breakfast b m t with egg white,34,g,90,mg,3340,g,94,g,60,g,12,g,0,g,10,g,14,g
+192,subway,footlong buffalo chicken rotisserie style,34,g,120,mg,2540,g,94,g,58,g,6,g,0,g,12,g,16,g
+193,subway,footlong buffalo chicken with chicken strips,32,g,110,mg,2200,g,92,g,50,g,6,g,0,g,12,g,16,g
+194,subway,footlong caesar chicken melt with chicken strips,44,g,150,mg,1600,g,92,g,58,g,12,g,1,g,10,g,14,g
+195,subway,footlong chicken and bacon ranch melt,60,g,190,mg,2580,g,94,g,76,g,20,g,1,g,10,g,16,g
+196,subway,footlong chicken caesar melt rotisserie style,48,g,150,mg,2020,g,92,g,68,g,12,g,1,g,10,g,16,g
+197,subway,footlong chicken parmesan,32,g,70,mg,2000,g,126,g,48,g,10,g,1,g,12,g,20,g
+198,subway,footlong chicken pizziola melt,30,g,160,mg,2280,g,100,g,64,g,12,g,1,g,12,g,20,g
+199,subway,footlong chicken salad,20,g,90,mg,1320,g,102,g,38,g,4,g,0,g,12,g,24,g
+200,subway,footlong chicken strips,8,g,100,mg,980,g,88,g,50,g,2,g,0,g,10,g,14,g
+201,subway,footlong cold cut combo,24,g,90,mg,2060,g,92,g,34,g,7,g,0,g,10,g,14,g
+202,subway,footlong corned beef reuben,30,g,170,mg,3440,g,104,g,78,g,10,g,1,g,14,g,26,g
+203,subway,footlong crunchy chicken enchilada,52,g,40,mg,2240,g,120,g,52,g,14,g,1,g,14,g,20,g
+204,subway,footlong cubano,28,g,140,mg,2860,g,96,g,64,g,9,g,0,g,10,g,18,g
+205,subway,footlong egg and cheese,26,g,340,mg,1760,g,88,g,38,g,9,g,0,g,8,g,10,g
+206,subway,footlong egg and cheese flatbread,30,g,340,mg,1900,g,84,g,38,g,10,g,0,g,8,g,4,g
+207,subway,footlong egg salad,52,g,510,mg,900,g,90,g,34,g,10,g,0,g,10,g,14,g
+208,subway,footlong egg white and cheese,16,g,20,mg,1840,g,88,g,40,g,4,g,0,g,8,g,10,g
+209,subway,footlong egg white and cheese flatbread,20,g,20,mg,1960,g,86,g,40,g,5,g,0,g,8,g,4,g
+210,subway,footlong egg white sunrise subway melt,30,g,80,mg,3700,g,96,g,72,g,12,g,0,g,10,g,16,g
+211,subway,footlong egg white sunrise subway melt flatbread,34,g,80,mg,3820,g,94,g,70,g,12,g,0,g,4,g,10,g
+212,subway,footlong falafel,48,g,20,mg,2100,g,146,g,36,g,8,g,1,g,26,g,16,g
+213,subway,footlong italian b m t,32,g,90,mg,2520,g,92,g,40,g,12,g,0,g,10,g,16,g
+214,subway,footlong italian hero,58,g,150,mg,2940,g,94,g,52,g,18,g,1,g,10,g,18,g
+215,subway,footlong italian hero supreme,54,g,180,mg,3320,g,108,g,58,g,22,g,1,g,10,g,28,g
+216,subway,footlong malibu garden vegan patty,20,g,0,mg,1560,g,128,g,26,g,4,g,0,g,18,g,16,g
+217,subway,footlong meatball marinara,36,g,80,mg,2000,g,120,g,42,g,14,g,1,g,16,g,24,g
+218,subway,footlong mediterranean chicken,40,g,140,mg,1860,g,92,g,60,g,12,g,0,g,10,g,14,g
+219,subway,footlong mediterranean steak,44,g,120,mg,2540,g,98,g,58,g,14,g,1,g,10,g,18,g
+220,subway,footlong mega melt,58,g,430,mg,3660,g,90,g,70,g,22,g,0,g,8,g,12,g
+221,subway,footlong mega melt flatbread,62,g,430,mg,3780,g,88,g,68,g,22,g,0,g,8,g,6,g
+222,subway,footlong mega melt flatbread with egg white,52,g,110,mg,3860,g,90,g,72,g,18,g,0,g,8,g,6,g
+223,subway,footlong mega melt with egg white,48,g,110,mg,3720,g,92,g,72,g,18,g,0,g,8,g,12,g
+224,subway,footlong orchard chicken salad,16,g,80,mg,1060,g,108,g,40,g,3,g,0,g,12,g,30,g
+225,subway,footlong oven roasted chicken,10,g,90,mg,1220,g,92,g,46,g,3,g,0,g,10,g,16,g
+226,subway,footlong pastrami,34,g,100,mg,1960,g,92,g,40,g,14,g,0,g,10,g,16,g
+227,subway,footlong pastrami melt big hot,56,g,170,mg,2940,g,94,g,58,g,22,g,0,g,10,g,16,g
+228,subway,footlong pepperoni,34,g,60,mg,2160,g,90,g,32,g,12,g,1,g,10,g,16,g
+229,subway,footlong pizza sub melt,48,g,110,mg,3280,g,98,g,40,g,20,g,1,g,10,g,18,g
+230,subway,footlong roast beef,10,g,90,mg,1320,g,90,g,50,g,3,g,0,g,10,g,14,g
+231,subway,footlong rotisserie style chicken,12,g,110,mg,1320,g,90,g,58,g,3,g,0,g,10,g,14,g
+232,subway,footlong sausage egg and cheese,48,g,410,mg,2800,g,90,g,58,g,18,g,0,g,8,g,12,g
+233,subway,footlong sausage egg and cheese flatbread,52,g,410,mg,2940,g,88,g,58,g,18,g,0,g,8,g,6,g
+234,subway,footlong sausage egg white and cheese,36,g,90,mg,2880,g,90,g,60,g,14,g,0,g,8,g,10,g
+235,subway,footlong sausage egg white and cheese flatbread,42,g,90,mg,3000,g,88,g,60,g,14,g,0,g,8,g,6,g
+236,subway,footlong sea salt and pepper fish,38,g,80,mg,2260,g,148,g,42,g,9,g,0,g,14,g,16,g
+237,subway,footlong spicy italian,48,g,100,mg,2980,g,92,g,40,g,18,g,1,g,10,g,16,g
+238,subway,footlong steak and cheese,20,g,100,mg,2060,g,98,g,52,g,9,g,0,g,10,g,18,g
+239,subway,footlong steak egg and cheese,30,g,390,mg,2420,g,92,g,56,g,12,g,0,g,8,g,12,g
+240,subway,footlong steak egg and cheese flatbread,36,g,390,mg,2560,g,90,g,56,g,12,g,0,g,8,g,8,g
+241,subway,footlong steak egg white and cheese,20,g,70,mg,2500,g,92,g,58,g,6,g,0,g,8,g,12,g
+242,subway,footlong steak egg white and cheese flatbread,24,g,70,mg,2640,g,90,g,58,g,6,g,0,g,8,g,6,g
+243,subway,footlong subway club,9,g,80,mg,1680,g,92,g,46,g,3,g,0,g,10,g,16,g
+244,subway,footlong subway melt,26,g,80,mg,2820,g,96,g,52,g,10,g,1,g,10,g,18,g
+245,subway,footlong subway seafood sensationtm,38,g,30,mg,1560,g,102,g,26,g,6,g,0,g,10,g,16,g
+246,subway,footlong sunrise subway melt,40,g,410,mg,3620,g,96,g,68,g,14,g,0,g,10,g,16,g
+247,subway,footlong sunrise subway melt flatbread,44,g,410,mg,3760,g,94,g,68,g,14,g,0,g,8,g,10,g
+248,subway,footlong sunrise subway melt flatbread with egg white,34,g,80,mg,3820,g,94,g,70,g,10,g,0,g,8,g,10,g
+249,subway,footlong sunrise subway melt with egg white,30,g,80,mg,3700,g,96,g,72,g,10,g,0,g,10,g,16,g
+250,subway,footlong sweet onion chicken teriyaki,8,g,100,mg,1540,g,116,g,50,g,2,g,0,g,10,g,32,g
+251,subway,footlong tuna,50,g,80,mg,1160,g,88,g,40,g,9,g,0,g,10,g,14,g
+252,subway,footlong turkey and bacon,18,g,60,mg,2380,g,94,g,46,g,6,g,0,g,10,g,16,g
+253,subway,footlong turkey and bacon avocado,28,g,60,mg,2380,g,100,g,48,g,7,g,0,g,14,g,16,g
+254,subway,footlong turkey and bacon guacamole,30,g,60,mg,2560,g,100,g,48,g,8,g,0,g,14,g,16,g
+255,subway,footlong turkey breast,7,g,40,mg,1520,g,92,g,36,g,2,g,0,g,10,g,14,g
+256,subway,footlong turkey breast and black forest ham,8,g,40,mg,1560,g,92,g,36,g,2,g,0,g,10,g,16,g
+257,subway,footlong turkey italiano melt,46,g,100,mg,3120,g,96,g,44,g,16,g,1,g,10,g,18,g
+258,subway,footlong veggie delite,5,g,0,mg,560,g,88,g,16,g,1,g,0,g,10,g,14,g
+259,subway,footlong veggie patty,20,g,0,mg,1600,g,104,g,42,g,6,g,0,g,16,g,18,g
+260,subway,french onion soup,6,g,15,mg,940,g,19,g,5,g,3.5,g,0,g,1,g,1,g
+261,subway,giardiniera,9,g,0,mg,340,g,1,g,0,g,1.5,g,0,g,0,g,1,g
+262,subway,gluten free bread,12,g,0,mg,800,g,52,g,6,g,7,g,0,g,3,g,7,g
+263,subway,golden italian,8,g,0,mg,190,g,2,g,0,g,1.5,g,0,g,0,g,2,g
+264,subway,gorgonzola sauce,11,g,10,mg,210,g,1,g,1,g,2,g,0,g,0,g,1,g
+265,subway,green chiles,0,g,0,mg,20,g,1,g,0,g,0,g,0,g,0,g,0,g
+266,subway,guacamole,6,g,0,mg,100,g,3,g,1,g,1,g,0,g,2,g,0,g
+267,subway,habanero wrap,8,g,0,mg,690,g,50,g,9,g,3.5,g,0,g,0,g,1,g
+268,subway,ham,2,g,25,mg,520,g,2,g,9,g,1.5,g,0,g,0,g,2,g
+269,subway,harvest bread,3,g,0,mg,280,g,41,g,10,g,0.5,g,0,g,4,g,5,g
+270,subway,hash browns,10,g,0,mg,640,g,30,g,2,g,3,g,0,g,3,g,0,g
+271,subway,hearty italian bread,2.5,g,0,mg,340,g,40,g,7,g,0.5,g,0,g,2,g,3,g
+272,subway,homestyle chicken noodle soup,3,g,30,mg,720,g,14,g,8,g,1.5,g,0,g,1,g,2,g
+273,subway,honey mustard sauce,0,g,0,mg,120,g,7,g,0,g,0,g,0,g,0,g,6,g
+274,subway,hot pepper relish,0,g,0,mg,170,g,1,g,0,g,0,g,0,g,0,g,0,g
+275,subway,italian b m t meats,14,g,45,mg,990,g,2,g,11,g,1,g,0.5,g,0,g,2,g
+276,subway,italian b m t on tomato basil wrap,36,g,90,mg,2700,g,57,g,32,g,14,g,0.5,g,4,g,6,g
+277,subway,italian b m t salad,15,g,45,mg,1060,g,13,g,14,g,6,g,0,g,4,g,8,g
+278,subway,italian herbs and cheese bread,5,g,10,mg,530,g,41,g,9,g,2,g,0,g,2,g,3,g
+279,subway,italian hero meats,18,g,65,mg,1070,g,3,g,14,g,6,g,0.5,g,0,g,2,g
+280,subway,italian white bread,2.5,g,0,mg,340,g,38,g,7,g,0.5,g,0,g,1,g,3,g
+281,subway,jalapeno cheese cheddar bread,5,g,10,mg,690,g,40,g,9,g,2,g,0,g,2,g,3,g
+282,subway,jalapeno peppers,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+283,subway,ketchup,0,g,0,mg,190,g,6,g,0,g,0,g,0,g,0,g,5,g
+284,subway,kids black forest ham,2.5,g,10,mg,450,g,30,g,10,g,0.5,g,0,g,3,g,5,g
+285,subway,kids roast beef,3,g,25,mg,390,g,30,g,14,g,1,g,0,g,4,g,5,g
+286,subway,kids turkey breast,2,g,10,mg,430,g,30,g,10,g,0.5,g,0,g,3,g,5,g
+287,subway,kids veggie delite,1.5,g,0,mg,190,g,29,g,6,g,0,g,0,g,3,g,4,g
+288,subway,light mayonnaise,5,g,5,mg,100,g,1,g,0,g,1,g,0,g,0,g,0,g
+289,subway,loaded baked potato with bacon soup,13,g,35,mg,800,g,15,g,5,g,7,g,0,g,1,g,4,g
+290,subway,mayonnaise,12,g,10,mg,70,g,0,g,0,g,2,g,0,g,0,g,0,g
+291,subway,meatball marinara on tomato basil wrap,40,g,80,mg,2200,g,81,g,34,g,16,g,2,g,8,g,12,g
+292,subway,meatball marinara salad,17,g,40,mg,790,g,27,g,15,g,7,g,1,g,6,g,12,g
+293,subway,meatball pizza,33,g,80,mg,1840,g,100,g,37,g,14,g,1,g,5,g,7,g
+294,subway,meatballs,16,g,40,mg,720,g,16,g,13,g,0,g,1,g,3,g,6,g
+295,subway,mini italian bread,2,g,0,mg,230,g,25,g,5,g,0.5,g,0,g,1,g,2,g
+296,subway,mini wheat bread,2,g,0,mg,180,g,27,g,5,g,0.5,g,0,g,3,g,3,g
+297,subway,monterey cheddar bread,6,g,10,mg,410,g,38,g,10,g,2.5,g,0,g,2,g,3,g
+298,subway,monterey cheddar cheese shredded,4.5,g,15,mg,90,g,0,g,3,g,3,g,0,g,0,g,0,g
+299,subway,mozzarella cheese shredded,3,g,10,mg,100,g,0,g,3,g,2,g,0,g,0,g,0,g
+300,subway,mushrooms,0,g,0,mg,80,g,1,g,0,g,0,g,0,g,0,g,0,g
+301,subway,mustard,0,g,0,mg,110,g,1,g,0,g,0,g,0,g,0,g,0,g
+302,subway,oatmeal raisin cookie,8,g,15,mg,130,g,30,g,3,g,3.5,g,0,g,1,g,16,g
+303,subway,oil,5,g,0,mg,0,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+304,subway,oil and vinegar dressing,21,g,0,mg,0,g,0,g,0,g,1.5,g,0,g,0,g,0,g
+305,subway,olives,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+306,subway,orchard chicken salad,5,g,40,mg,250,g,10,g,12,g,0,g,0,g,1,g,8,g
+307,subway,oven roasted chicken breast on spinach wrap,13,g,90,mg,1460,g,56,g,38,g,5,g,0,g,4,g,5,g
+308,subway,oven roasted chicken salad,3.5,g,45,mg,410,g,13,g,17,g,1,g,0,g,4,g,7,g
+309,subway,parmesan cheese,0.5,g,0,mg,30,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+310,subway,parmesan oregano bread,2.5,g,0,mg,490,g,40,g,7,g,0.5,g,0,g,2,g,3,g
+311,subway,pastrami,11,g,40,mg,490,g,1,g,9,g,2.5,g,0,g,0,g,1,g
+312,subway,peanut butter cookie,12,g,10,mg,130,g,26,g,4,g,5,g,0,g,1,g,16,g
+313,subway,pepperjack cheese,4,g,15,mg,140,g,0,g,3,g,2.5,g,0,g,0,g,0,g
+314,subway,pepperoni,7,g,15,mg,400,g,1,g,4,g,2.5,g,0,g,0,g,1,g
+315,subway,pepperoni flatizza,26,g,60,mg,1340,g,44,g,26,g,12,g,0,g,4,g,4,g
+316,subway,pepperoni pizza,33,g,70,mg,1800,g,97,g,35,g,13,g,1,g,4,g,8,g
+317,subway,pickles,0,g,0,mg,115,g,0,g,0,g,0,g,0,g,0,g,0,g
+318,subway,provolone cheese,4,g,10,mg,120,g,0,g,4,g,2,g,0,g,0,g,0,g
+319,subway,ranch dressing,11,g,5,mg,200,g,1,g,0,g,1.5,g,0,g,0,g,1,g
+320,subway,ranch salad dressing,23,g,10,mg,400,g,2,g,0,g,3.5,g,0,g,0,g,2,g
+321,subway,raspberry cheesecake cookie,9,g,10,mg,120,g,29,g,2,g,4.5,g,0,g,0,g,16,g
+322,subway,roast beef,2.5,g,45,mg,390,g,1,g,16,g,6,g,0,g,0,g,1,g
+323,subway,roast beef on spinach wrap,13,g,90,mg,1560,g,54,g,42,g,5,g,0,g,4,g,5,g
+324,subway,roast beef salad,3.5,g,45,mg,460,g,12,g,19,g,1,g,0,g,4,g,7,g
+325,subway,roasted chicken patty,2.5,g,45,mg,330,g,2,g,15,g,0.5,g,0,g,0,g,1,g
+326,subway,roasted garlic bread,2.5,g,0,mg,1260,g,44,g,8,g,0.5,g,0,g,2,g,4,g
+327,subway,rotisserie style chicken,3.5,g,55,mg,380,g,1,g,21,g,0,g,0,g,0,g,0,g
+328,subway,rotisserie style chicken caesar on spinach wrap,34,g,135,mg,1900,g,54,g,55,g,10,g,0.5,g,3,g,4,g
+329,subway,rotisserie style chicken on spinach wrap,15,g,110,mg,1560,g,54,g,51,g,5,g,0,g,3,g,4,g
+330,subway,rotisserie style chicken salad,4.5,g,55,mg,460,g,12,g,23,g,1,g,0,g,4,g,6,g
+331,subway,rye bread,2.5,g,0,mg,330,g,34,g,8,g,0,g,0,g,4,g,4,g
+332,subway,sausage pizza,35,g,80,mg,1870,g,98,g,35,g,14,g,0.5,g,4,g,8,g
+333,subway,sausage breakfast,11,g,35,mg,520,g,1,g,10,g,2,g,0,g,0,g,1,g
+334,subway,savory caesar,14,g,10,mg,220,g,1,g,1,g,2.5,g,0,g,0,g,1,g
+335,subway,seafood sensation,17,g,15,mg,500,g,8,g,4,g,2,g,0,g,0,g,2,g
+336,subway,signature horseradish sauce,11,g,5,mg,210,g,3,g,0,g,2,g,0,g,0,g,2,g
+337,subway,sourdough bread,1.5,g,0,mg,310,g,36,g,9,g,0,g,0,g,1,g,3,g
+338,subway,spicy chicken tortilla soup,4.5,g,10,mg,660,g,12,g,6,g,1,g,0,g,2,g,3,g
+339,subway,spicy italian flatizza,25,g,60,mg,1290,g,44,g,26,g,11,g,0,g,4,g,4,g
+340,subway,spicy italian on tomato wrap,52,g,105,mg,3140,g,56,g,32,g,20,g,1,g,4,g,6,g
+341,subway,spicy italian salad,23,g,50,mg,1290,g,13,g,14,g,9,g,0.5,g,4,g,8,g
+342,subway,spinach,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+343,subway,spinach wrap,8,g,0,mg,780,g,48,g,8,g,3.5,g,0,g,2,g,1,g
+344,subway,steak,4,g,40,mg,550,g,4,g,15,g,1,g,0.5,g,0,g,2,g
+345,subway,steak and cheese on tomato basil wrap,19,g,90,mg,2030,g,59,g,41,g,9,g,1,g,3,g,5,g
+346,subway,steak and cheese salad,8,g,50,mg,830,g,16,g,20,g,4,g,0,g,4,g,8,g
+347,subway,subway club meats,2.5,g,40,mg,560,g,2,g,15,g,3,g,0,g,0,g,1,g
+348,subway,subway club on spinach wrap,13,g,75,mg,1920,g,56,g,39,g,5,g,0,g,4,g,5,g
+349,subway,subway club salad,3,g,40,mg,640,g,13,g,18,g,1,g,0,g,4,g,7,g
+350,subway,subway vinaigrette,4,g,0,mg,120,g,1,g,0,g,0.5,g,0,g,0,g,1,g
+351,subway,subway vinaigrette dressing,11,g,0,mg,330,g,3,g,0,g,1.5,g,0,g,0,g,2,g
+352,subway,sugar cookie,12,g,15,mg,130,g,28,g,2,g,6,g,0,g,1,g,14,g
+353,subway,sweet chili sauce,0,g,0,mg,160,g,9,g,0,g,0,g,0,g,0,g,8,g
+354,subway,sweet onion chicken teriyaki on tomato basil wrap,12,g,100,mg,1630,g,71,g,42,g,4,g,0,g,4,g,14,g
+355,subway,sweet onion chicken teriyaki salad,3,g,50,mg,650,g,34,g,19,g,1,g,0,g,4,g,23,g
+356,subway,sweet onion dressing,0,g,0,mg,170,g,18,g,0,g,0,g,0,g,0,g,16,g
+357,subway,sweet onion sauce,0,g,0,mg,90,g,9,g,0,g,0,g,0,g,0,g,8,g
+358,subway,sweet peppers,0,g,0,mg,170,g,3,g,0,g,0,g,0,g,0,g,3,g
+359,subway,sweet potato curry,7,g,0,mg,210,g,2,g,0,g,1,g,0,g,0,g,1,g
+360,subway,swiss cheese,4.5,g,15,mg,30,g,0,g,4,g,2.5,g,0,g,0,g,0,g
+361,subway,teriyaki glazed chicken strips,2,g,50,mg,400,g,5,g,16,g,0.5,g,0,g,0,g,2,g
+362,subway,thousand island dressing,7,g,10,mg,150,g,3,g,0,g,1,g,0,g,0,g,2,g
+363,subway,tomato basil soup,6,g,20,mg,700,g,15,g,4,g,3.5,g,0,g,2,g,7,g
+364,subway,tomato basil wrap,8,g,0,mg,730,g,49,g,8,g,3.5,g,0,g,2,g,1,g
+365,subway,tomatoes,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+366,subway,triple berry muffin,17,g,50,mg,430,g,55,g,7,g,4.5,g,0,g,5,g,30,g
+367,subway,tuna,23,g,40,mg,300,g,0,g,12,g,2,g,0.5,g,0,g,0,g
+368,subway,tuna on tomato basil wrap,54,g,75,mg,1330,g,53,g,33,g,11,g,0.5,g,3,g,3,g
+369,subway,tuna salad,24,g,40,mg,380,g,11,g,15,g,4,g,0,g,4,g,6,g
+370,subway,turkey breast,1,g,20,mg,480,g,2,g,9,g,0.5,g,0,g,0,g,1,g
+371,subway,turkey breast on spinach wrap,10,g,40,mg,1760,g,57,g,28,g,4,g,0,g,3,g,4,g
+372,subway,turkey breast salad,2,g,20,mg,560,g,13,g,12,g,0.5,g,0,g,4,g,7,g
+373,subway,turkey bacon and guacamole on tomato basil wrap,42,g,75,mg,2960,g,62,g,43,g,13,g,0.5,g,5,g,6,g
+374,subway,tzatziki sauce,12,g,10,mg,130,g,1,g,0,g,2,g,0,g,0,g,0,g
+375,subway,veggie delite on spinach wrap,8,g,0,mg,800,g,56,g,10,g,3,g,0,g,4,g,5,g
+376,subway,veggie delite salad,1,g,0,mg,80,g,11,g,3,g,0,g,0,g,4,g,6,g
+377,subway,veggie flatizza,17,g,35,mg,850,g,45,g,22,g,8,g,0,g,5,g,4,g
+378,subway,veggie patty,8,g,0,mg,520,g,8,g,13,g,2,g,0,g,3,g,2,g
+379,subway,white chip macadamia nut cookie,11,g,10,mg,130,g,28,g,2,g,5,g,0,g,1,g,17,g
+380,swiss chalet,chicken spring rolls,4,g,11,mg,88,g,7.8,g,4.5,g,0.8,g,0.0001,g,0.5,g,0.5,g
+381,swiss chalet,chalet chicken noodle soup bowl,5,g,60,mg,1050,g,18,g,20,g,1.5,g,0.1,g,2,g,3,g
+382,swiss chalet,cheese perogies,1.4,g,0.0001,mg,113,g,9.9,g,1.7,g,0.3,g,0.0001,g,0.6,g,0.3,g
+383,swiss chalet,chalet chicken wings 10 wings without sauce,3.4,g,27,mg,122,g,1.3,g,5.2,g,0.6,g,0.0001,g,0.1,g,0,g
+384,swiss chalet,onion rings,25.9,g,0,mg,557,g,40.8,g,4,g,2.5,g,0.2,g,1.5,g,4,g
+385,swiss chalet,4 cheese spinach dip,34,g,90,mg,1350,g,25,g,17,g,18,g,1,g,4,g,3,g
+386,swiss chalet,stuffed garlic cheese loaf,57,g,45,mg,1390,g,63,g,27,g,18,g,1,g,3,g,3,g
+387,swiss chalet,caesar salad without dressing,3,g,5,mg,220,g,13,g,4,g,0.5,g,0,g,2,g,2,g
+388,swiss chalet,garden salad with croutons without dressing,0.5,g,0,mg,105,g,10,g,2,g,0,g,0,g,2,g,3,g
+389,swiss chalet,garlic loaf without cheese,40,g,0,mg,790,g,73,g,13,g,7,g,0.4,g,5,g,4,g
+390,swiss chalet,skinny dippers,14,g,50,mg,780,g,24,g,18,g,2,g,0.2,g,1,g,1,g
+391,swiss chalet,appetizer platter,68,g,115,mg,2350,g,187,g,44,g,18,g,1,g,16,g,37,g
+392,swiss chalet,loaded baked potato chowder,15,g,65,mg,1330,g,32,g,19,g,6,g,0.2,g,2,g,7,g
+393,swiss chalet,shirley temple,0.1,g,0,mg,40,g,51,g,0.5,g,0,g,0,g,1,g,46,g
+394,swiss chalet,milk,5,g,20,mg,120,g,12,g,9,g,3,g,0.1,g,0,g,12,g
+395,swiss chalet,rotisserie chicken pot pie,35,g,105,mg,1590,g,43,g,30,g,11,g,0.5,g,3,g,5,g
+396,swiss chalet,quarter rotisserie chicken white meat with skin,11,g,140,mg,330,g,0,g,48,g,3.5,g,0.1,g,1,g,0,g
+397,swiss chalet,whole rotisserie chicken,54,g,540,mg,1100,g,0,g,148,g,16,g,0.6,g,2,g,0,g
+398,swiss chalet,half rotisserie chicken with skin,27,g,270,mg,550,g,0,g,74,g,8,g,0.3,g,1,g,0,g
+399,swiss chalet,quarter rotisserie chicken dark meat with skin,16,g,130,mg,220,g,0,g,27,g,5,g,0.1,g,1,g,0,g
+400,swiss chalet,quarter rotisserie chicken white meat skinless,6,g,120,mg,340,g,0,g,44,g,2,g,0.1,g,0,g,0,g
+401,swiss chalet,double rotisserie chicken legs dinner without skin,16,g,200,mg,370,g,0,g,45,g,5,g,0.2,g,1,g,0,g
+402,swiss chalet,quarter rotisserie chicken dark meat skinless,8,g,100,mg,180,g,0,g,22,g,2.5,g,0.1,g,1,g,0,g
+403,swiss chalet,double rotisserie chicken legs dinner with skin,31,g,260,mg,440,g,0,g,53,g,10,g,0.3,g,2,g,0,g
+404,swiss chalet,half rotisserie chicken skinless,14,g,220,mg,520,g,0,g,67,g,4.5,g,0.1,g,0,g,0,g
+405,swiss chalet,health check quarter chicken skinless white meat without sides or bread,6,g,120,mg,410,g,11,g,48,g,2,g,0.1,g,5,g,4,g
+406,swiss chalet,chalet chicken wings for combo 5 wings without sauce,17,g,135,mg,610,g,7,g,26,g,3,g,0.1,g,0,g,0,g
+407,swiss chalet,rotisserie chicken parmesan and pasta entree without garlic bread,59,g,125,mg,2650,g,143,g,60,g,13,g,1,g,9,g,23,g
+408,swiss chalet,chipotle mayo,14,g,0,mg,490,g,4,g,1,g,2,g,0,g,0,g,0,g
+409,swiss chalet,creamed horseradish,3.5,g,10,mg,130,g,6,g,1,g,2,g,0.1,g,0,g,1,g
+410,swiss chalet,herbed beef au jus,3,g,5,mg,480,g,5,g,1,g,1.5,g,0.2,g,0,g,0,g
+411,swiss chalet,mini donuts with sauce and cream,47,g,25,mg,1060,g,125,g,12,g,10,g,0.5,g,5,g,57,g
+412,swiss chalet,classic vanilla cheesecake,25,g,105,mg,350,g,32,g,7,g,13,g,0.5,g,1,g,23,g
+413,swiss chalet,apple pie,19,g,0,mg,430,g,65,g,4,g,9,g,0,g,3,g,31,g
+414,swiss chalet,coconut cream pie,33,g,0,mg,310,g,57,g,4,g,21,g,0,g,1,g,40,g
+415,swiss chalet,lemon meringue pie,11,g,0,mg,430,g,73,g,3,g,5,g,0,g,1,g,44,g
+416,swiss chalet,fudge cake,28,g,20,mg,240,g,55,g,3,g,9,g,0.5,g,3,g,46,g
+417,swiss chalet,pecan pie,29,g,90,mg,590,g,79,g,6,g,10,g,0,g,2,g,29,g
+418,swiss chalet,chocolate super sundae,16,g,50,mg,110,g,58,g,3,g,9,g,0.4,g,3,g,41,g
+419,swiss chalet,butterscotch super sundae,12,g,40,mg,150,g,60,g,2,g,7,g,0.3,g,2,g,42,g
+420,swiss chalet,strawberry super sundae,12,g,40,mg,65,g,42,g,2,g,7,g,0.3,g,2,g,32,g
+421,swiss chalet,no sugar added ice cream,7,g,20,mg,85,g,14,g,3,g,4,g,0.3,g,0,g,7,g
+422,swiss chalet,chocolate ice cream,5,g,20,mg,35,g,19,g,1,g,3,g,0.2,g,1,g,14,g
+423,swiss chalet,vanilla ice cream,6,g,20,mg,50,g,17,g,1,g,2.5,g,0.2,g,0,g,13,g
+424,swiss chalet,kids cheesy pizza,17,g,35,mg,1000,g,65,g,26,g,5,g,0.3,g,3,g,5,g
+425,swiss chalet,kids chicken strips,5.3,g,20,mg,270,g,6.3,g,9,g,0.5,g,0.0001,g,0.3,g,0,g
+426,swiss chalet,health check quarter chicken white meat skinless with sides and drink,11,g,140,mg,540,g,37,g,54,g,5,g,0.3,g,2,g,33,g
+427,swiss chalet,kids quarter chicken dinner white meat without skin,11,g,140,mg,540,g,37,g,54,g,5,g,0.3,g,2,g,33,g
+428,swiss chalet,kids health check quarter white meat skinless chicken garden salad with vinaigrette milk and fruit cup,11,g,140,mg,540,g,37,g,54,g,5,g,0.3,g,2,g,33,g
+429,swiss chalet,kids 1 3 rack side ribs,33,g,170,mg,150,g,1,g,45,g,12,g,0.1,g,1,g,0,g
+430,swiss chalet,add on chicken,4,g,60,mg,135,g,0,g,17,g,1,g,0,g,0,g,0,g
+431,swiss chalet,add on chicken,8,g,120,mg,270,g,0,g,35,g,2.5,g,0.1,g,0,g,0,g
+432,swiss chalet,add on roasted mushrooms,1.5,g,0,mg,55,g,1,g,1,g,0.3,g,0,g,0,g,1,g
+433,swiss chalet,veggie burger patty,10,g,0,mg,50,g,9,g,21,g,2,g,0,g,5,g,0,g
+434,swiss chalet,add on shrimp,3,g,210,mg,760,g,1,g,11,g,0.5,g,0,g,0,g,0,g
+435,swiss chalet,add on swiss cheese slice,6,g,15,mg,75,g,0,g,6,g,3.5,g,0.2,g,0,g,0,g
+436,swiss chalet,rotisserie chicken and shrimp,35,g,320,mg,3190,g,88,g,68,g,8,g,0.4,g,4,g,3,g
+437,swiss chalet,teriyaki stir fry without rice chicken or shrimp,31,g,5,mg,1340,g,74,g,9,g,2.5,g,0.5,g,6,g,46,g
+438,swiss chalet,from the grill half rack bbq side ribs without add on sauce or sides,50,g,255,mg,220,g,1,g,67,g,19,g,0.2,g,1,g,0,g
+439,swiss chalet,from the grill half rack bbq back ribs without add on sauce or sides,30,g,175,mg,240,g,0,g,48,g,11,g,0.2,g,0,g,0,g
+440,swiss chalet,from the grill 1 3 rack bbq side ribs without add on sauce or sides,33.2,g,171,mg,151,g,1,g,45.3,g,12.1,g,0.1,g,1,g,0,g
+441,swiss chalet,from the grill full rack bbq side ribs without add on sauce or sides,100,g,505,mg,440,g,2,g,134,g,37,g,0.4,g,2,g,0,g
+442,swiss chalet,rotisserie beef stir fry with rice,44,g,95,mg,1710,g,159,g,50,g,8,g,1,g,8,g,46,g
+443,swiss chalet,rotisserie beef and quarter chicken combo,35,g,250,mg,1910,g,42,g,88,g,13,g,1,g,3,g,5,g
+444,swiss chalet,ultimate bacon cheseburger,42,g,125,mg,1520,g,46,g,46,g,18,g,1.5,g,2,g,1,g
+445,swiss chalet,veggie burger with bun and mayo,15,g,0,mg,1040,g,50,g,29,g,2.5,g,0.1,g,7,g,1,g
+446,swiss chalet,from the grill full rack bbq back ribs without add on sauce or sides,61,g,350,mg,480,g,1,g,95,g,22,g,0.3,g,0,g,0,g
+447,swiss chalet,rotisserie beef and sauteed garlic shrimp combo,27,g,315,mg,2340,g,42,g,52,g,10,g,0.5,g,3,g,5,g
+448,swiss chalet,fish without sides,49,g,80,mg,1210,g,42,g,36,g,8,g,0.4,g,0,g,0,g
+449,swiss chalet,rotisserie beef with au jus,46,g,165,mg,710,g,7,g,47,g,20,g,3,g,1,g,0,g
+450,swiss chalet,chalet dressing,14,g,0,mg,400,g,6,g,0,g,2,g,0.2,g,0,g,6,g
+451,swiss chalet,light italian dressing,3,g,0,mg,270,g,2,g,0,g,0.2,g,0,g,0,g,0,g
+452,swiss chalet,caesar dressing,18,g,10,mg,210,g,2,g,0,g,3,g,0.2,g,0,g,0,g
+453,swiss chalet,renees caesar dressing,18,g,20,mg,150,g,1,g,1,g,1.5,g,0.2,g,0,g,0,g
+454,swiss chalet,fat free raspberry vinaigrette,0,g,0,mg,130,g,6,g,0,g,0,g,0,g,0,g,4,g
+455,swiss chalet,renees fat free italian dressing,0,g,0,mg,280,g,1,g,0.1,g,0,g,0,g,0,g,0,g
+456,swiss chalet,renees sweet onion dressing,0.2,g,0,mg,20,g,0.3,g,0.0001,g,0.0001,g,0.0001,g,0,g,0.2,g
+457,swiss chalet,ranch dressing,14,g,10,mg,240,g,2,g,0,g,2,g,0.2,g,0,g,2,g
+458,swiss chalet,renees italian dressing,4,g,0,mg,270,g,1,g,0.2,g,0.3,g,0.1,g,0,g,0,g
+459,swiss chalet,renees balsamic dressing,11,g,0,mg,170,g,4,g,0.1,g,0.5,g,0.2,g,0,g,2,g
+460,swiss chalet,renees greek dressing,6,g,0,mg,360,g,1,g,0.4,g,0.5,g,0.1,g,0,g,0,g
+461,swiss chalet,renees ranch dressing,12,g,10,mg,250,g,2,g,1,g,1,g,0.2,g,0,g,1,g
+462,swiss chalet,lemon garlic dressing,8,g,0,mg,220,g,2,g,0,g,0.6,g,0.2,g,0,g,0,g
+463,swiss chalet,renees lime kiwi dressing,5,g,0,mg,230,g,5,g,0.1,g,0.3,g,0.1,g,0,g,4,g
+464,swiss chalet,rotisserie chicken caesar salad without dressing,11,g,110,mg,910,g,38,g,45,g,3.5,g,0.1,g,4,g,12,g
+465,swiss chalet,sweet heat salad with chicken without dressing,9,g,100,mg,600,g,30,g,40,g,2,g,0,g,6,g,18,g
+466,swiss chalet,spinach and mandarin chicken salad without dressing,16,g,100,mg,840,g,28,g,41,g,3,g,0.4,g,4,g,12,g
+467,swiss chalet,side caesar salad without dressing,2.3,g,4,mg,169,g,10,g,3.1,g,0.4,g,0,g,1.5,g,1.5,g
+468,swiss chalet,health check sweet heat salad with chicken and lime kiwi dressing,17,g,100,mg,940,g,37,g,40,g,2.5,g,0.2,g,6,g,23,g
+469,swiss chalet,health check spinach chicken salad with fat free raspberry vinaigrette without tortillas strips,8,g,100,mg,800,g,23,g,40,g,2,g,0.1,g,3,g,17,g
+470,swiss chalet,health check garden salad with fat free raspberry vinaigrette,0,g,0,mg,160,g,15,g,2,g,0,g,0,g,3,g,9,g
+471,swiss chalet,rotisserie chicken club wrap,32,g,110,mg,1450,g,57,g,49,g,11,g,0.5,g,3,g,4,g
+472,swiss chalet,chicken on a kaiser sandwich white meat,8,g,135,mg,910,g,47,g,58,g,2.5,g,0.1,g,2,g,3,g
+473,swiss chalet,classic hot chicken sandwich dark meat,21,g,205,mg,1850,g,51,g,54,g,7,g,0.2,g,3,g,4,g
+474,swiss chalet,from the grill classic hamburger without bun and garnish,52,g,170,mg,1760,g,4,g,48,g,23,g,1.5,g,0,g,0,g
+475,swiss chalet,from the grill classic hamburger with bun,39,g,125,mg,1630,g,43,g,44,g,17,g,1.5,g,2,g,3,g
+476,swiss chalet,hot beef sandwich,35,g,115,mg,1720,g,56,g,42,g,15,g,2,g,3,g,5,g
+477,swiss chalet,chicken on a kaiser sandwich dark meat,18,g,205,mg,910,g,47,g,55,g,6,g,0.2,g,3,g,3,g
+478,swiss chalet,health check white meat skinless chicken on a kaiser roll without corn or dipping sauce,9,g,135,mg,860,g,70,g,62,g,2.5,g,0.1,g,8,g,6,g
+479,swiss chalet,classic hot chicken sandwich white meat,11,g,135,mg,1850,g,51,g,58,g,3.5,g,0.1,g,3,g,4,g
+480,swiss chalet,from the grill veggie burger with bun,13,g,0,mg,1110,g,57,g,32,g,2.5,g,0,g,8,g,3,g
+481,swiss chalet,rotisserie beef kaiser sandwich,34,g,120,mg,800,g,45,g,41,g,14,g,2,g,2,g,1,g
+482,swiss chalet,chalet dipping sauce,0.5,g,0,mg,700,g,5,g,0,g,0.2,g,0,g,0,g,1,g
+483,swiss chalet,chalet bbq sauce,0.3,g,0,mg,470,g,12,g,0.3,g,0,g,0,g,1,g,7,g
+484,swiss chalet,honey garlic sauce,0,g,0,mg,360,g,32,g,1,g,0,g,0,g,0,g,28,g
+485,swiss chalet,plum sauce,0,g,0,mg,180,g,26,g,0,g,0,g,0,g,0,g,20,g
+486,swiss chalet,cajun sauce,4.5,g,10,mg,145,g,2,g,1,g,2,g,0,g,0,g,0,g
+487,swiss chalet,caramel sauce for cinamon stuffed donuts,3,g,0,mg,190,g,45,g,0.4,g,1,g,0,g,0,g,29,g
+488,swiss chalet,honey buffalo sauce,3.5,g,0,mg,930,g,22,g,1,g,0.5,g,0.1,g,1,g,19,g
+489,swiss chalet,chocolate sauce for dessert,0,g,0,mg,15,g,20,g,1,g,0,g,0,g,0,g,15,g
+490,swiss chalet,mild sauce,6,g,0,mg,1060,g,16,g,1,g,1.5,g,0.1,g,1,g,14,g
+491,swiss chalet,salsa,0,g,0,mg,190,g,2,g,1,g,0,g,0,g,0,g,2,g
+492,swiss chalet,buffalo butter dipping sauce,7,g,10,mg,1140,g,14,g,0.4,g,4,g,0,g,0,g,10,g
+493,swiss chalet,blue cheese dip dressing,10,g,10,mg,340,g,2,g,0.4,g,2,g,0.2,g,0,g,2,g
+494,swiss chalet,smoky bbq sauce,0.1,g,0,mg,270,g,12,g,0.3,g,0,g,0,g,12,g,8,g
+495,swiss chalet,strawberry sauce for dessert,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,10,g
+496,swiss chalet,peri peri sauce,1.5,g,0,mg,970,g,3,g,0.5,g,0.1,g,0,g,1,g,1,g
+497,swiss chalet,butterscotch sauce for dessert,0,g,0,mg,70,g,25,g,0,g,0,g,0,g,0,g,18,g
+498,swiss chalet,honey chipotle bbq sauce,0.1,g,0,mg,300,g,19,g,0.4,g,0,g,0,g,0,g,17,g
+499,swiss chalet,medium sauce,7,g,0,mg,1490,g,11,g,1,g,1.5,g,0.1,g,1,g,10,g
+500,swiss chalet,hot sauce,5,g,0,mg,2430,g,5,g,0.5,g,1,g,0.1,g,1,g,4,g
+501,swiss chalet,sweet chili sauce,0,g,0,mg,100,g,12,g,0,g,0,g,0,g,0,g,10,g
+502,swiss chalet,sweet thai sauce,0,g,0,mg,520,g,34,g,0,g,0,g,0,g,0,g,28,g
+503,swiss chalet,bbq dipping sauce,19,g,30,mg,460,g,6,g,1,g,1.5,g,0.3,g,0,g,4,g
+504,swiss chalet,1 3 rack bbq ribs,28,g,115,mg,440,g,11,g,31,g,11,g,0,g,1,g,7,g
+505,swiss chalet,add on chicken,8,g,120,mg,270,g,0,g,35,g,2.5,g,0,g,0,g,0,g
+506,swiss chalet,add on jasmine rice,1,g,0,mg,300,g,85,g,8,g,0,g,0,g,2,g,1,g
+507,swiss chalet,add on shrimp,3,g,210,mg,760,g,1,g,11,g,0.5,g,0,g,0,g,0,g
+508,swiss chalet,apple pie,19,g,0,mg,430,g,65,g,4,g,9,g,0,g,3,g,31,g
+509,swiss chalet,apple sauce,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,1,g,11,g
+510,swiss chalet,blue cheese dip,14,g,10,mg,280,g,2,g,1,g,2,g,0,g,0,g,2,g
+511,swiss chalet,butter,8,g,20,mg,55,g,0,g,0,g,5,g,0,g,0,g,0,g
+512,swiss chalet,butter chicken sauce without add ons and sides,11,g,30,mg,990,g,18,g,4,g,7,g,0,g,2,g,6,g
+513,swiss chalet,caesar dressing,18,g,10,mg,210,g,2,g,0,g,3,g,0,g,0,g,0,g
+514,swiss chalet,caesar salad without dressing,3,g,5,mg,220,g,13,g,4,g,0.5,g,0,g,2,g,2,g
+515,swiss chalet,cajun sauce,5,g,10,mg,150,g,2,g,1,g,2,g,0,g,0,g,0,g
+516,swiss chalet,chalet chicken noodle soup bowl,5,g,60,mg,1050,g,18,g,20,g,1.5,g,0,g,2,g,3,g
+517,swiss chalet,chalet chicken wings with mild sauce,34,g,170,mg,790,g,23,g,39,g,7,g,0,g,2,g,9,g
+518,swiss chalet,chalet dipping sauce,1,g,0,mg,700,g,5,g,0,g,0,g,0,g,0,g,1,g
+519,swiss chalet,chalet dressing,14,g,0,mg,400,g,6,g,0,g,2,g,0,g,0,g,6,g
+520,swiss chalet,cheese perogies,10,g,5,mg,790,g,69,g,12,g,2,g,0,g,4,g,2,g
+521,swiss chalet,chicken on a kaiser dark meat,18,g,205,mg,910,g,47,g,55,g,6,g,0,g,3,g,3,g
+522,swiss chalet,chicken on a kaiser white meat,8,g,135,mg,910,g,47,g,58,g,2.5,g,0,g,2,g,3,g
+523,swiss chalet,chicken pot pie,32,g,95,mg,1190,g,39,g,29,g,9,g,0,g,4,g,7,g
+524,swiss chalet,chicken spring rolls,27,g,85,mg,490,g,47,g,20,g,3.5,g,0.5,g,1,g,5,g
+525,swiss chalet,cilantro lime cauliflower side for butter chicken,3,g,0,mg,75,g,6,g,2,g,0.5,g,0,g,2,g,2,g
+526,swiss chalet,classic bacon cheese burger with bun,54,g,170,mg,2240,g,46,g,56,g,24,g,1.5,g,2,g,3,g
+527,swiss chalet,classic bacon cheese burger without bun and garnishes,52,g,170,mg,1760,g,4,g,48,g,23,g,1.5,g,0,g,0,g
+528,swiss chalet,classic hamburger with bun,39,g,125,mg,1630,g,43,g,44,g,17,g,1.5,g,2,g,3,g
+529,swiss chalet,classic hamburger without bun and garnishes,38,g,125,mg,1150,g,1,g,35,g,17,g,1.5,g,0,g,0,g
+530,swiss chalet,classic hot chicken sandwich dark meat,21,g,205,mg,1850,g,51,g,54,g,7,g,0,g,3,g,4,g
+531,swiss chalet,classic hot chicken sandwich white meat,11,g,135,mg,1850,g,51,g,58,g,3.5,g,0,g,3,g,4,g
+532,swiss chalet,classic vanilla cheesecake,25,g,105,mg,350,g,32,g,7,g,13,g,1,g,1,g,23,g
+533,swiss chalet,coconut cream pie,33,g,0,mg,310,g,57,g,4,g,21,g,0,g,1,g,40,g
+534,swiss chalet,creamy coleslaw,14,g,0,mg,460,g,15,g,2,g,0,g,0,g,3,g,12,g
+535,swiss chalet,double leg skinless,16,g,200,mg,370,g,0,g,45,g,5,g,0,g,1,g,0,g
+536,swiss chalet,double leg with skin,31,g,260,mg,440,g,0,g,53,g,10,g,0,g,1,g,0,g
+537,swiss chalet,fish and chips 1 piece fish with fries tartar sauce and coleslaw,79,g,55,mg,1230,g,108,g,23,g,8,g,0.5,g,10,g,6,g
+538,swiss chalet,fish and chips 2 pieces of fish with fries tartar sauce and coleslaw,92,g,85,mg,1630,g,122,g,34,g,10,g,1,g,10,g,6,g
+539,swiss chalet,fish 1 piece,13,g,30,mg,390,g,14,g,11,g,2,g,0,g,0,g,0,g
+540,swiss chalet,fish 2 pieces,27,g,60,mg,790,g,29,g,23,g,3.5,g,0,g,0,g,0,g
+541,swiss chalet,fresh cut fries,27,g,0,mg,95,g,64,g,7,g,2,g,0,g,6,g,0,g
+542,swiss chalet,fudge cake,28,g,20,mg,240,g,55,g,3,g,9,g,1,g,3,g,46,g
+543,swiss chalet,full rack bbq ribs,85,g,340,mg,1330,g,34,g,93,g,32,g,1,g,2,g,20,g
+544,swiss chalet,garden salad without dressing,0,g,0,mg,35,g,9,g,2,g,0,g,0,g,3,g,5,g
+545,swiss chalet,garlic bread side for pasta,4,g,0,mg,250,g,21,g,4,g,0.5,g,0,g,1,g,1,g
+546,swiss chalet,garlic cheese loaf,58,g,50,mg,1200,g,73,g,26,g,19,g,1,g,5,g,4,g
+547,swiss chalet,garlic loaf without cheese,40,g,0,mg,790,g,73,g,13,g,7,g,0,g,5,g,4,g
+548,swiss chalet,garlic naan bread side for butter chicken,9,g,0,mg,560,g,30,g,5,g,1.5,g,0,g,1,g,1,g
+549,swiss chalet,gravy,2,g,0,mg,600,g,7,g,1,g,0.5,g,0,g,0,g,1,g
+550,swiss chalet,grilled chicken caesar salad without dressing,11,g,110,mg,910,g,38,g,45,g,3.5,g,0,g,4,g,12,g
+551,swiss chalet,half chicken skinless,14,g,220,mg,520,g,0,g,67,g,4.5,g,0,g,1,g,0,g
+552,swiss chalet,half chicken with skin,27,g,270,mg,550,g,0,g,74,g,8,g,0,g,1,g,0,g
+553,swiss chalet,half rack bbq ribs,42,g,170,mg,670,g,17,g,47,g,16,g,0.5,g,1,g,10,g
+554,swiss chalet,health check chicken on a kaiser,9,g,135,mg,960,g,77,g,64,g,2.5,g,0,g,8,g,8,g
+555,swiss chalet,health check fat free raspberry vinaigrette,0,g,0,mg,130,g,6,g,0,g,0,g,0,g,0,g,4,g
+556,swiss chalet,health check fresh vegetable medley,0,g,0,mg,70,g,11,g,3,g,0,g,0,g,5,g,4,g
+557,swiss chalet,health check garden salad,0,g,0,mg,160,g,15,g,2,g,0,g,0,g,3,g,9,g
+558,swiss chalet,health check kids mini chicken sandwiches,13,g,115,mg,690,g,69,g,40,g,5,g,0,g,3,g,36,g
+559,swiss chalet,health check kids quarter chicken,11,g,140,mg,540,g,37,g,54,g,5,g,0,g,2,g,33,g
+560,swiss chalet,health check oven baked potato,0,g,0,mg,0,g,48,g,0,g,0,g,0,g,5,g,0,g
+561,swiss chalet,health check quarter chicken,6,g,120,mg,410,g,11,g,48,g,2,g,0,g,5,g,4,g
+562,swiss chalet,health check side garden salad,0,g,0,mg,15,g,5,g,1,g,0,g,0,g,2,g,2,g
+563,swiss chalet,health check spinach chicken salad,5,g,100,mg,460,g,20,g,39,g,1.5,g,0,g,5,g,11,g
+564,swiss chalet,health check sweet heat salad with chicken,17,g,100,mg,940,g,37,g,40,g,2.5,g,0,g,6,g,23,g
+565,swiss chalet,health check sweet kernel corn,1,g,0,mg,45,g,30,g,5,g,0,g,0,g,5,g,5,g
+566,swiss chalet,health check west coast salad with chicken,15,g,100,mg,890,g,22,g,42,g,3,g,0,g,5,g,13,g
+567,swiss chalet,hickory chicken flatbread sandwich,32,g,85,mg,2020,g,70,g,36,g,10,g,0,g,3,g,7,g
+568,swiss chalet,ice cream chocolate,5,g,20,mg,35,g,19,g,1,g,3,g,0,g,1,g,14,g
+569,swiss chalet,ice cream no sugar added,7,g,20,mg,85,g,14,g,3,g,4,g,0,g,0,g,7,g
+570,swiss chalet,ice cream vanilla,6,g,20,mg,50,g,17,g,1,g,2.5,g,0,g,0,g,13,g
+571,swiss chalet,kids add on chicken,4,g,60,mg,135,g,0,g,17,g,1,g,0,g,0,g,0,g
+572,swiss chalet,kids cheesy pasta,19,g,30,mg,620,g,54,g,12,g,9,g,0,g,2,g,4,g
+573,swiss chalet,kids cheesy pizza,18,g,50,mg,840,g,48,g,21,g,8,g,1,g,2,g,5,g
+574,swiss chalet,kids chicken strips,15,g,45,mg,780,g,27,g,20,g,1.5,g,0,g,2,g,0,g
+575,swiss chalet,kids garlic bread side for pasta,2,g,0,mg,125,g,11,g,2,g,0,g,0,g,0,g,0,g
+576,swiss chalet,kids mini burgers,18,g,50,mg,640,g,32,g,22,g,8,g,1,g,2,g,4,g
+577,swiss chalet,kids mini chicken sandwiches,8,g,95,mg,500,g,32,g,30,g,2,g,0,g,2,g,3,g
+578,swiss chalet,kids quarter chicken dark meat,16,g,130,mg,220,g,0,g,27,g,5,g,0,g,1,g,0,g
+579,swiss chalet,kids quarter chicken white meat,11,g,140,mg,330,g,0,g,48,g,3.5,g,0,g,1,g,0,g
+580,swiss chalet,lemon meringue pie,11,g,0,mg,430,g,73,g,3,g,5,g,0,g,1,g,44,g
+581,swiss chalet,mashed potatoes,4,g,5,mg,410,g,27,g,3,g,1.5,g,0,g,3,g,3,g
+582,swiss chalet,mediterranean tomato and cucumber salad without dressing,10,g,10,mg,690,g,11,g,4,g,3,g,0,g,2,g,5,g
+583,swiss chalet,milk,5,g,20,mg,120,g,12,g,9,g,3,g,0,g,0,g,12,g
+584,swiss chalet,multigrain roll,1,g,0,mg,170,g,22,g,4,g,0,g,0,g,1,g,0,g
+585,swiss chalet,old fashioned carrot cake,16,g,35,mg,140,g,24,g,2,g,6,g,0,g,1,g,17,g
+586,swiss chalet,pecan pie,29,g,90,mg,590,g,79,g,6,g,10,g,0,g,2,g,29,g
+587,swiss chalet,pesto penne pasta,51,g,45,mg,1520,g,113,g,25,g,16,g,0,g,8,g,11,g
+588,swiss chalet,plum sauce,0,g,0,mg,180,g,26,g,0,g,0,g,0,g,0,g,20,g
+589,swiss chalet,poutine,50,g,45,mg,930,g,94,g,21,g,11,g,1,g,9,g,2,g
+590,swiss chalet,quarter chicken dark meat skinless,8,g,100,mg,180,g,0,g,22,g,2.5,g,0,g,1,g,0,g
+591,swiss chalet,quarter chicken dark meat with skin,16,g,130,mg,220,g,0,g,27,g,5,g,0,g,1,g,0,g
+592,swiss chalet,quarter chicken white meat skinless,6,g,120,mg,340,g,0,g,44,g,2,g,0,g,0,g,0,g
+593,swiss chalet,quarter chicken white meat with skin,11,g,140,mg,330,g,0,g,48,g,3.5,g,0,g,1,g,0,g
+594,swiss chalet,ramekin of creamy coleslaw,5,g,0,mg,160,g,5,g,1,g,0,g,0,g,1,g,4,g
+595,swiss chalet,ranch dressing,14,g,10,mg,240,g,2,g,0,g,2,g,0,g,0,g,2,g
+596,swiss chalet,renees balsamic dressing,11,g,0,mg,170,g,4,g,0,g,0.5,g,0,g,0,g,2,g
+597,swiss chalet,renees caesar dressing,18,g,20,mg,150,g,1,g,1,g,1.5,g,0,g,0,g,0,g
+598,swiss chalet,renees fat free italian dressing,0,g,0,mg,280,g,1,g,0,g,0,g,0,g,0,g,0,g
+599,swiss chalet,renees greek dressing,6,g,0,mg,360,g,1,g,0,g,0.5,g,0,g,0,g,0,g
+600,swiss chalet,renees italian dressing,4,g,0,mg,270,g,1,g,0,g,0,g,0,g,0,g,0,g
+601,swiss chalet,renees lime kiwi dressing,5,g,0,mg,230,g,5,g,0,g,0,g,0,g,0,g,4,g
+602,swiss chalet,renees ranch dressing,12,g,10,mg,250,g,2,g,1,g,1,g,0,g,0,g,1,g
+603,swiss chalet,rotisserie chicken club wrap,32,g,110,mg,1450,g,57,g,49,g,11,g,0.5,g,3,g,4,g
+604,swiss chalet,rotisserie chicken quesadilla without salsa and sour cream,29,g,70,mg,1310,g,66,g,31,g,13,g,0.5,g,5,g,11,g
+605,swiss chalet,salsa,0,g,0,mg,190,g,2,g,1,g,0,g,0,g,0,g,2,g
+606,swiss chalet,sauce butterscotch,0,g,0,mg,70,g,25,g,0,g,0,g,0,g,0,g,18,g
+607,swiss chalet,sauce chocolate,0,g,0,mg,15,g,20,g,1,g,0,g,0,g,0,g,15,g
+608,swiss chalet,sauce strawberry,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,10,g
+609,swiss chalet,sauteed mushrooms,1,g,0,mg,45,g,30,g,5,g,0,g,0,g,5,g,5,g
+610,swiss chalet,seasoned dry ribs,86,g,225,mg,2320,g,3,g,45,g,26,g,0.5,g,0,g,0,g
+611,swiss chalet,seasoned rice,4,g,0,mg,830,g,48,g,5,g,0,g,0,g,1,g,1,g
+612,swiss chalet,shirley temple,0,g,0,mg,40,g,51,g,1,g,0,g,0,g,1,g,46,g
+613,swiss chalet,side caesar salad without dressing,2,g,0,mg,105,g,8,g,2,g,0,g,0,g,2,g,1,g
+614,swiss chalet,side mediterranean tomato and cucumber salad without dressing,7,g,10,mg,520,g,8,g,4,g,2.5,g,0,g,2,g,4,g
+615,swiss chalet,sour cream,5,g,15,mg,35,g,3,g,2,g,3.5,g,0,g,0,g,2,g
+616,swiss chalet,southwest chicken flatbread sandwich,37,g,85,mg,1810,g,64,g,33,g,11,g,0,g,2,g,4,g
+617,swiss chalet,spicy chipotle linguine pasta,33,g,45,mg,1310,g,103,g,24,g,13,g,0,g,6,g,10,g
+618,swiss chalet,spinach chicken salad without dressing,16,g,100,mg,530,g,28,g,41,g,3,g,0.5,g,6,g,7,g
+619,swiss chalet,sticky toffee pudding with ice cream and butterscotch topping,20,g,105,mg,240,g,88,g,5,g,11,g,1,g,3,g,59,g
+620,swiss chalet,striploin steak,38,g,115,mg,410,g,0,g,55,g,6,g,1,g,0,g,0,g
+621,swiss chalet,super sundae butterscotch,12,g,40,mg,150,g,60,g,2,g,7,g,0,g,2,g,42,g
+622,swiss chalet,super sundae chocolate,16,g,50,mg,110,g,58,g,3,g,9,g,0,g,3,g,41,g
+623,swiss chalet,super sundae strawberry,12,g,40,mg,65,g,42,g,2,g,7,g,0,g,2,g,32,g
+624,swiss chalet,sweet chili sauce,0,g,0,mg,100,g,12,g,0,g,0,g,0,g,0,g,10,g
+625,swiss chalet,sweet heat salad with chicken without dressing,9,g,100,mg,600,g,30,g,40,g,2,g,0,g,6,g,18,g
+626,swiss chalet,vegetable stir fry without rice and chicken,31,g,5,mg,1340,g,74,g,9,g,2.5,g,0.5,g,6,g,46,g
+627,swiss chalet,veggie burger with bun,13,g,0,mg,1110,g,57,g,32,g,2.5,g,0,g,8,g,3,g
+628,swiss chalet,veggie burger without bun and garnishes,11,g,0,mg,570,g,10,g,23,g,2,g,0,g,6,g,0,g
+629,swiss chalet,west coast salad with chicken without dressing,21,g,115,mg,970,g,21,g,47,g,7,g,0,g,5,g,13,g
+630,swiss chalet,white roll,0,g,0,mg,190,g,22,g,4,g,0,g,0,g,1,g,0,g
+631,salad creations,apple and pecan full salad,14,g,30,mg,200,g,35,g,8,g,4,g,0,g,7,g,28,g
+632,salad creations,apple and pecan jr salad,14,g,30,mg,190,g,32,g,7,g,4,g,0,g,6,g,26,g
+633,salad creations,apple and pecan wrap,23,g,30,mg,820,g,74,g,14,g,7,g,0,g,7,g,25,g
+634,salad creations,baja shrimp cobb full salad,29,g,170,mg,1150,g,17,g,30,g,9,g,0,g,9,g,9,g
+635,salad creations,baja shrimp cobb jr salad,28,g,170,mg,1100,g,15,g,29,g,9,g,0,g,8,g,8,g
+636,salad creations,baja shrimp cobb wrap,35,g,165,mg,1700,g,56,g,35,g,12,g,0,g,9,g,6,g
+637,salad creations,balsamic orange and bleu full salad,18,g,20,mg,610,g,30,g,8,g,5,g,0,g,4,g,26,g
+638,salad creations,balsamic orange and bleu jr salad,17,g,20,mg,570,g,28,g,8,g,5,g,0,g,3,g,24,g
+639,salad creations,balsamic orange and bleu wrap,25,g,20,mg,1170,g,70,g,14,g,8,g,0,g,5,g,23,g
+640,salad creations,buffalo chicken caesar,30,g,135,mg,3260,g,71,g,54,g,8,g,0,g,6,g,5,g
+641,salad creations,buffalo chicken caesar full salad,29,g,270,mg,2370,g,18,g,44,g,8,g,0,g,5,g,5,g
+642,salad creations,buffalo chicken caesar jr salad,26,g,270,mg,2310,g,17,g,43,g,8,g,0,g,4,g,4,g
+643,salad creations,buffalo chicken caesar wrap,33,g,265,mg,2890,g,58,g,49,g,10,g,0,g,5,g,4,g
+644,salad creations,caesar full salad,18,g,25,mg,680,g,15,g,11,g,5,g,0,g,4,g,3,g
+645,salad creations,caesar jr salad,16,g,20,mg,610,g,13,g,10,g,4,g,0,g,3,g,3,g
+646,salad creations,caesar wrap,22,g,20,mg,1200,g,55,g,15,g,7,g,0,g,4,g,2,g
+647,salad creations,chicken caesar full salad,19,g,80,mg,1160,g,16,g,32,g,5,g,0,g,4,g,3,g
+648,salad creations,chicken caesar jr salad,16,g,80,mg,1090,g,14,g,31,g,4,g,0,g,3,g,3,g
+649,salad creations,chicken caesar wrap,23,g,75,mg,1680,g,56,g,37,g,7,g,0,g,4,g,2,g
+650,salad creations,chicken italiano,37,g,130,mg,1860,g,72,g,52,g,10,g,0,g,7,g,5,g
+651,salad creations,chinese chopstick full salad,15,g,55,mg,1020,g,29,g,26,g,2,g,0,g,3,g,16,g
+652,salad creations,chinese chopstick jr salad,13,g,55,mg,970,g,28,g,26,g,1,g,0,g,3,g,15,g
+653,salad creations,chinese chopstick wrap,20,g,55,mg,1570,g,70,g,32,g,4,g,0,g,4,g,14,g
+654,salad creations,chipotle bbq chicken full salad,29,g,90,mg,1300,g,43,g,34,g,11,g,0,g,7,g,10,g
+655,salad creations,chipotle bbq chicken jr salad,26,g,85,mg,1250,g,41,g,33,g,10,g,0,g,6,g,9,g
+656,salad creations,chipotle bbq chicken wrap,33,g,80,mg,1860,g,83,g,39,g,13,g,0,g,7,g,9,g
+657,salad creations,derby chicken cobb full salad,34,g,265,mg,1560,g,30,g,44,g,13,g,0,g,10,g,10,g
+658,salad creations,derby chicken cobb jr salad,34,g,265,mg,1510,g,27,g,43,g,13,g,0,g,9,g,9,g
+659,salad creations,derby chicken cobb wrap,43,g,265,mg,2110,g,68,g,49,g,16,g,0,g,10,g,8,g
+660,salad creations,ginger glazed salmon full salad,28,g,80,mg,400,g,18,g,37,g,3,g,0,g,5,g,5,g
+661,salad creations,ginger glazed salmon jr salad,25,g,80,mg,350,g,17,g,37,g,3,g,0,g,4,g,4,g
+662,salad creations,ginger glazed salmon wrap,32,g,80,mg,950,g,60,g,43,g,6,g,0,g,6,g,4,g
+663,salad creations,greekalicious full salad,24,g,35,mg,1370,g,18,g,8,g,6,g,0,g,5,g,7,g
+664,salad creations,greekalicious jr salad,22,g,35,mg,1320,g,16,g,8,g,6,g,0,g,4,g,6,g
+665,salad creations,greekalicious wrap,30,g,35,mg,1930,g,58,g,14,g,9,g,0,g,5,g,5,g
+666,salad creations,green goodness full salad,8,g,30,mg,370,g,21,g,9,g,4,g,0,g,5,g,14,g
+667,salad creations,green goodness jr salad,8,g,30,mg,360,g,19,g,8,g,4,g,0,g,5,g,12,g
+668,salad creations,green goodness wrap,16,g,30,mg,980,g,60,g,14,g,7,g,0,g,6,g,11,g
+669,salad creations,mexicali burrito full salad,32,g,50,mg,1600,g,79,g,24,g,12,g,0,g,10,g,13,g
+670,salad creations,mexicali burrito jr salad,30,g,45,mg,1550,g,77,g,23,g,11,g,0,g,10,g,12,g
+671,salad creations,mexicali burrito wrap,26,g,35,mg,1230,g,65,g,18,g,10,g,0,g,7,g,7,g
+672,salad creations,napa valley veggie,20,g,10,mg,990,g,69,g,12,g,3,g,0,g,7,g,5,g
+673,salad creations,sesame shrimp full salad,17,g,120,mg,830,g,22,g,18,g,2,g,0,g,3,g,12,g
+674,salad creations,sesame shrimp jr salad,15,g,120,mg,780,g,21,g,18,g,2,g,0,g,3,g,11,g
+675,salad creations,sesame shrimp wrap,21,g,120,mg,1370,g,64,g,24,g,4,g,0,g,4,g,11,g
+676,salad creations,shrimp caesar full salad,19,g,185,mg,1330,g,15,g,29,g,5,g,0,g,4,g,3,g
+677,salad creations,shrimp caesar jr salad,16,g,185,mg,1260,g,13,g,29,g,4,g,0,g,3,g,3,g
+678,salad creations,shrimp caesar wrap,23,g,140,mg,1690,g,55,g,29,g,7,g,0,g,4,g,2,g
+679,salad creations,sophies strawberry chicken full salad,14,g,85,mg,700,g,51,g,29,g,4,g,0,g,7,g,42,g
+680,salad creations,sophies strawberry chicken jr salad,14,g,85,mg,680,g,49,g,29,g,4,g,0,g,6,g,40,g
+681,salad creations,sophies strawberry chicken wrap,23,g,85,mg,1320,g,91,g,35,g,7,g,0,g,8,g,38,g
+682,salad creations,spicy southwestern,20,g,100,mg,1520,g,67,g,42,g,8,g,0,g,4,g,4,g
+683,salad creations,spicy veggie full salad,13,g,10,mg,500,g,28,g,6,g,3,g,0,g,7,g,8,g
+684,salad creations,spicy veggie jr salad,11,g,5,mg,440,g,27,g,6,g,3,g,0,g,6,g,7,g
+685,salad creations,spicy veggie wrap,18,g,5,mg,1040,g,69,g,12,g,5,g,0,g,6,g,6,g
+686,salad creations,thai crunch full salad,20,g,55,mg,1020,g,29,g,31,g,2,g,0,g,6,g,11,g
+687,salad creations,thai crunch jr salad,17,g,55,mg,980,g,27,g,31,g,2,g,0,g,5,g,10,g
+688,salad creations,thai crunch wrap,23,g,55,mg,1580,g,67,g,36,g,4,g,0,g,7,g,8,g
+689,salad creations,the wedge full salad,41,g,50,mg,1050,g,27,g,16,g,13,g,0,g,4,g,17,g
+690,salad creations,the wedge jr salad,38,g,50,mg,1000,g,25,g,15,g,12,g,0,g,3,g,15,g
+691,salad creations,the wedge wrap,46,g,55,mg,1720,g,66,g,23,g,15,g,0,g,5,g,13,g
+692,salad creations,turkey chop full salad,20,g,70,mg,910,g,34,g,23,g,5,g,0,g,6,g,25,g
+693,salad creations,turkey chop jr salad,19,g,70,mg,870,g,32,g,22,g,4,g,0,g,5,g,24,g
+694,salad creations,turkey chop wrap,28,g,70,mg,1560,g,74,g,28,g,7,g,0,g,6,g,24,g
+695,salad creations,turkey harvest,41,g,130,mg,2180,g,92,g,45,g,15,g,0,g,8,g,22,g
+696,salad creations,wild alaskan salmon full salad,26,g,110,mg,740,g,17,g,39,g,8,g,0,g,5,g,9,g
+697,salad creations,wild alaskan salmon jr salad,25,g,110,mg,690,g,15,g,39,g,7,g,0,g,4,g,8,g
+698,salad creations,wild alaskan salmon wrap,34,g,110,mg,1310,g,58,g,44,g,10,g,0,g,6,g,9,g
+699,salata,chocolate chip cookie,11,g,20,mg,180,g,23,g,3,g,6,g,0,g,1,g,13,g
+700,salata,extra artichoke heart,4,g,0,mg,260,g,4,g,2,g,0,g,0,g,2,g,0,g
+701,salata,extra avocado,7,g,0,mg,0,g,4,g,1,g,1,g,0,g,3,g,0,g
+702,salata,extra bread,5,g,15,mg,115,g,14,g,3,g,4,g,0,g,1,g,2,g
+703,salata,oatmeal raisin cookie,7,g,25,mg,200,g,24,g,3,g,4,g,0,g,1,g,13,g
+704,salata,peach lemonade,0,g,0,mg,40,g,38,g,0,g,0,g,0,g,0,g,38,g
+705,salata,peanut butter cookie,11,g,20,mg,190,g,21,g,4,g,6,g,0,g,1,g,12,g
+706,salata,prickly pear limeade,0,g,0,mg,40,g,38,g,0,g,0,g,0,g,0,g,38,g
+707,salata,raspberry lemonade,0,g,0,mg,40,g,38,g,0,g,0,g,0,g,0,g,38,g
+708,salata,regular salad almonds,4,g,0,mg,0,g,2,g,2,g,0,g,0,g,1,g,0,g
+709,salata,regular salad apple,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,1,g,2,g
+710,salata,regular salad arcadian mix,0,g,0,mg,70,g,3,g,1,g,0,g,0,g,0,g,1,g
+711,salata,regular salad artichoke hearts,4,g,0,mg,250,g,4,g,2,g,0,g,0,g,2,g,0,g
+712,salata,regular salad arugula,1,g,0,mg,15,g,2,g,1,g,0,g,0,g,0,g,0,g
+713,salata,regular salad asian barbecue chicken,1,g,560,mg,5,g,0,g,50,g,0,g,80,g,4,g,30,g
+714,salata,regular salad avocado,6,g,0,mg,0,g,3,g,1,g,1,g,0,g,3,g,0,g
+715,salata,regular salad baked pita strips,3,g,0,mg,125,g,10,g,2,g,0,g,0,g,1,g,0,g
+716,salata,regular salad balsamic vinaigrette dressing,29,g,0,mg,200,g,6,g,0,g,2,g,0,g,0,g,6,g
+717,salata,regular salad balsamic vinegar dressing,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,4,g
+718,salata,regular salad banana peppers,0,g,0,mg,380,g,1,g,0,g,0,g,0,g,1,g,0,g
+719,salata,regular salad bean sprouts,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,1,g
+720,salata,regular salad beets,0,g,0,mg,20,g,2,g,0,g,0,g,0,g,1,g,2,g
+721,salata,regular salad bell peppers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+722,salata,regular salad black beans,0,g,0,mg,55,g,4,g,1,g,0,g,0,g,1,g,0,g
+723,salata,regular salad blue cheese,5,g,20,mg,70,g,1,g,3,g,3,g,0,g,0,g,0,g
+724,salata,regular salad blue cheese dressing,32,g,30,mg,380,g,2,g,2,g,7,g,0,g,0,g,1,g
+725,salata,regular salad broccoli,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+726,salata,regular salad buttermilk ranch dressing,25,g,15,mg,410,g,2,g,1,g,4,g,0,g,0,g,1,g
+727,salata,regular salad cabbage,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,1,g
+728,salata,regular salad carrots,0,g,0,mg,10,g,2,g,0,g,0,g,0,g,0,g,1,g
+729,salata,regular salad chick peas,0,g,0,mg,50,g,3,g,1,g,0,g,0,g,1,g,0,g
+730,salata,regular salad chipotle ranch dressing,23,g,15,mg,380,g,2,g,1,g,4,g,0,g,0,g,2,g
+731,salata,regular salad chopped bacon,3,g,15,mg,160,g,0,g,3,g,2,g,0,g,0,g,0,g
+732,salata,regular salad chopped egg,3,g,95,mg,30,g,0,g,3,g,1,g,0,g,0,g,0,g
+733,salata,regular salad classic caesar dressing,30,g,50,mg,430,g,1,g,4,g,4,g,0,g,0,g,0,g
+734,salata,regular salad corn,0,g,0,mg,0,g,4,g,1,g,0,g,0,g,1,g,2,g
+735,salata,regular salad croutons,4,g,5,mg,60,g,5,g,1,g,0,g,0,g,0,g,0,g
+736,salata,regular salad cucumber,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+737,salata,regular salad dried cranberries,0,g,0,mg,0,g,16,g,0,g,0,g,0,g,1,g,14,g
+738,salata,regular salad edamame,1,g,0,mg,0,g,2,g,3,g,0,g,0,g,2,g,0,g
+739,salata,regular salad extra croissant,5,g,15,mg,115,g,14,g,3,g,4,g,0,g,1,g,2,g
+740,salata,regular salad falafel,2,g,0,mg,400,g,21,g,7,g,0,g,0,g,6,g,4,g
+741,salata,regular salad fat free mango dressing,0,g,0,mg,10,g,9,g,1,g,0,g,0,g,1,g,8,g
+742,salata,regular salad fat free sun dried tomato dressing,0,g,0,mg,350,g,2,g,1,g,0,g,0,g,1,g,1,g
+743,salata,regular salad feta cheese,3,g,10,mg,170,g,1,g,3,g,2,g,0,g,0,g,0,g
+744,salata,regular salad fresh herb vinaigrette dressing,30,g,0,mg,450,g,6,g,1,g,3,g,0,g,0,g,4,g
+745,salata,regular salad ginger lime dressing,29,g,0,mg,300,g,8,g,1,g,3,g,0.5,g,0,g,6,g
+746,salata,regular salad grapes,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,4,g
+747,salata,regular salad green peas,0,g,0,mg,45,g,3,g,1,g,0,g,0,g,1,g,1,g
+748,salata,regular salad grilled chicken,4,g,95,mg,510,g,0,g,35,g,1,g,0,g,0,g,0,g
+749,salata,regular salad honey mustard dressing,26,g,15,mg,440,g,9,g,0,g,4,g,0,g,0,g,8,g
+750,salata,regular salad jalapeno,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,1,g
+751,salata,regular salad jalapeno avocado dressing,17,g,10,mg,270,g,2,g,1,g,3,g,0,g,1,g,1,g
+752,salata,regular salad jalepeno,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,1,g
+753,salata,regular salad jicama,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,0,g
+754,salata,regular salad kale,1,g,0,mg,25,g,6,g,3,g,0,g,0,g,2,g,1,g
+755,salata,regular salad krabmeat,6,g,5,mg,910,g,19,g,9,g,0,g,0,g,0,g,2,g
+756,salata,regular salad lemon vinaigrette dressing,30,g,0,mg,240,g,4,g,0,g,3,g,0,g,0,g,1,g
+757,salata,regular salad mandarin orange,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,5,g
+758,salata,regular salad mixed cheese,3,g,10,mg,55,g,0,g,3,g,2,g,0,g,0,g,0,g
+759,salata,regular salad mushroom,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+760,salata,regular salad oil and vinegar dressing,22,g,0,mg,5,g,5,g,0,g,3,g,0,g,0,g,5,g
+761,salata,regular salad olive oil,14,g,0,mg,0,g,0,g,0,g,2,g,0,g,0,g,0,g
+762,salata,regular salad olives black,3,g,0,mg,160,g,1,g,0,g,1,g,0,g,0,g,0,g
+763,salata,regular salad olives green,4,g,0,mg,300,g,1,g,0,g,1,g,0,g,0,g,0,g
+764,salata,regular salad parmesan cheese,4,g,10,mg,190,g,0,g,4,g,2,g,0,g,0,g,0,g
+765,salata,regular salad pasta,2,g,0,mg,55,g,9,g,2,g,0,g,0,g,1,g,0,g
+766,salata,regular salad pea sprouts,0,g,0,mg,0,g,4,g,1,g,0,g,0,g,0,g,0,g
+767,salata,regular salad pepperoncini,0,g,0,mg,530,g,2,g,0,g,0,g,0,g,1,g,1,g
+768,salata,regular salad pesto chicken,13,g,100,mg,620,g,0,g,37,g,2,g,0,g,0,g,0,g
+769,salata,regular salad pineapple,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,3,g
+770,salata,regular salad pumpkin seed,4,g,0,mg,35,g,1,g,2,g,1,g,0,g,1,g,0,g
+771,salata,regular salad pumpkin seeds,5,g,0,mg,35,g,1,g,2,g,1,g,0,g,1,g,0,g
+772,salata,regular salad quinoa,2,g,0,mg,10,g,18,g,4,g,0,g,0,g,2,g,1,g
+773,salata,regular salad radish,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,0,g
+774,salata,regular salad raisins,0,g,0,mg,0,g,27,g,1,g,0,g,0,g,1,g,21,g
+775,salata,regular salad red beans,0,g,0,mg,80,g,4,g,1,g,0,g,0,g,1,g,1,g
+776,salata,regular salad red onion,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+777,salata,regular salad romaine hearts,1,g,0,mg,15,g,6,g,2,g,0,g,0,g,4,g,2,g
+778,salata,regular salad salata mix,0,g,0,mg,70,g,8,g,2,g,0,g,0,g,3,g,4,g
+779,salata,regular salad salmon,15,g,40,mg,250,g,0,g,14,g,2,g,0,g,0,g,0,g
+780,salata,regular salad seafood mix,6,g,30,mg,720,g,14,g,10,g,0,g,0,g,0,g,1,g
+781,salata,regular salad sesame sticks,5,g,0,mg,180,g,6,g,1,g,1,g,0,g,0,g,0,g
+782,salata,regular salad shrimp,4,g,125,mg,290,g,1,g,16,g,0,g,0,g,1,g,1,g
+783,salata,regular salad snow peas,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+784,salata,regular salad spicy chipotle chicken,6,g,85,mg,500,g,1,g,32,g,1,g,0,g,0,g,0,g
+785,salata,regular salad spinach,0,g,0,mg,65,g,3,g,2,g,0,g,0,g,2,g,0,g
+786,salata,regular salad strawberry,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,1,g
+787,salata,regular salad sundried tomatoes,0,g,0,mg,120,g,6,g,1,g,0,g,0,g,1,g,3,g
+788,salata,regular salad tofu,9,g,0,mg,250,g,11,g,20,g,0,g,0,g,1,g,4,g
+789,salata,regular salad tomato,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,1,g
+790,salata,regular salad turkey,3,g,50,mg,510,g,1,g,20,g,0,g,0,g,0,g,1,g
+791,salata,regular salad walnuts,5,g,0,mg,0,g,1,g,1,g,1,g,0,g,1,g,0,g
+792,salata,small salad almonds,3.5,g,0,mg,0,g,2,g,2,g,0,g,0,g,1,g,0,g
+793,salata,small salad apple,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,1,g,2,g
+794,salata,small salad arcadian mix,0,g,0,mg,45,g,2,g,1,g,0,g,0,g,0,g,1,g
+795,salata,small salad artichoke hearts,4,g,0,mg,250,g,4,g,2,g,0,g,0,g,2,g,0,g
+796,salata,small salad arugula,0,g,0,mg,15,g,2,g,1,g,0,g,0,g,1,g,1,g
+797,salata,small salad asian barbecue chicken,6,g,80,mg,560,g,5,g,30,g,1,g,0,g,0,g,4,g
+798,salata,small salad avocado,6,g,0,mg,0,g,3,g,1,g,1,g,0,g,3,g,0,g
+799,salata,small salad baked pita strips,2.5,g,0,mg,125,g,10,g,2,g,0,g,0,g,1,g,0,g
+800,salata,small salad balsamic vinaigrette dressing,29,g,0,mg,200,g,6,g,0,g,2,g,0,g,0,g,6,g
+801,salata,small salad balsamic vinegar,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,4,g
+802,salata,small salad banana peppers,0,g,0,mg,380,g,1,g,0,g,0,g,0,g,1,g,0,g
+803,salata,small salad bean sprouts,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,1,g
+804,salata,small salad beets,0,g,0,mg,20,g,2,g,0,g,0,g,0,g,1,g,2,g
+805,salata,small salad bell peppers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+806,salata,small salad black beans,0,g,0,mg,55,g,4,g,1,g,0,g,0,g,1,g,0,g
+807,salata,small salad blue cheese,5,g,5,mg,70,g,0,g,1,g,1,g,0,g,0,g,0,g
+808,salata,small salad blue cheese dressing,32,g,30,mg,380,g,2,g,2,g,7,g,0,g,0,g,1,g
+809,salata,small salad broccoli,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+810,salata,small salad buttermilk ranch dressing,25,g,15,mg,410,g,2,g,1,g,4,g,0,g,0,g,1,g
+811,salata,small salad cabbage,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,1,g
+812,salata,small salad carrots,0,g,0,mg,10,g,2,g,0,g,0,g,0,g,0,g,1,g
+813,salata,small salad chick peas,0,g,0,mg,50,g,3,g,1,g,0,g,0,g,1,g,0,g
+814,salata,small salad chipotle ranch dressing,23,g,15,mg,380,g,2,g,1,g,4,g,0,g,0,g,2,g
+815,salata,small salad chopped bacon,3,g,15,mg,160,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+816,salata,small salad chopped egg,3,g,95,mg,30,g,0,g,3,g,1,g,0,g,0,g,0,g
+817,salata,small salad classic caesar dressing,30,g,50,mg,430,g,1,g,4,g,4,g,0,g,0,g,0,g
+818,salata,small salad corn,0,g,0,mg,0,g,4,g,1,g,0,g,0,g,1,g,2,g
+819,salata,small salad croutons,4,g,0,mg,60,g,5,g,1,g,0,g,0,g,0,g,0,g
+820,salata,small salad cucumber,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+821,salata,small salad dried cranberries,0,g,0,mg,0,g,16,g,0,g,0,g,0,g,1,g,14,g
+822,salata,small salad edamame,1,g,0,mg,0,g,2,g,3,g,0,g,0,g,2,g,0,g
+823,salata,small salad extra croissant,5,g,15,mg,115,g,14,g,3,g,4,g,0,g,1,g,2,g
+824,salata,small salad falafel,2,g,0,mg,400,g,21,g,7,g,0,g,0,g,6,g,4,g
+825,salata,small salad fat free mango dressing,0,g,0,mg,10,g,9,g,1,g,0,g,0,g,1,g,8,g
+826,salata,small salad fat free sun dried tomato dressing,0,g,0,mg,350,g,2,g,1,g,0,g,0,g,1,g,1,g
+827,salata,small salad feta cheese,3,g,10,mg,170,g,1,g,3,g,2,g,0,g,0,g,0,g
+828,salata,small salad fresh herb vinaigrette dressing,30,g,0,mg,450,g,6,g,1,g,3,g,0,g,0,g,4,g
+829,salata,small salad ginger lime dressing,29,g,0,mg,300,g,8,g,1,g,3,g,0.5,g,0,g,6,g
+830,salata,small salad grapes,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,4,g
+831,salata,small salad green peas,0,g,0,mg,45,g,3,g,1,g,0,g,0,g,1,g,1,g
+832,salata,small salad grilled chicken,4,g,95,mg,510,g,0,g,35,g,1,g,0,g,0,g,0,g
+833,salata,small salad honey mustard dressing,26,g,15,mg,440,g,9,g,0,g,4,g,0,g,0,g,8,g
+834,salata,small salad jalapeno,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,1,g
+835,salata,small salad jalapeno avocado dressing,17,g,10,mg,270,g,2,g,1,g,3,g,0,g,1,g,1,g
+836,salata,small salad jalepeno,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,1,g
+837,salata,small salad jicama,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,0,g
+838,salata,small salad kale,1,g,0,mg,15,g,4,g,2,g,0,g,0,g,2,g,1,g
+839,salata,small salad krabmeat,6,g,5,mg,910,g,19,g,9,g,0,g,0,g,0,g,2,g
+840,salata,small salad lemon vinaigrette dressing,30,g,0,mg,240,g,4,g,0,g,3,g,0,g,0,g,1,g
+841,salata,small salad mandarin orange,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,5,g
+842,salata,small salad mixed cheese,3,g,10,mg,55,g,0,g,3,g,2,g,0,g,0,g,0,g
+843,salata,small salad mushroom,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+844,salata,small salad oil and vinegar dressing,22,g,0,mg,5,g,5,g,0,g,3,g,0,g,0,g,5,g
+845,salata,small salad olive oil,14,g,0,mg,0,g,0,g,0,g,2,g,0,g,0,g,0,g
+846,salata,small salad olives black,3,g,0,mg,160,g,1,g,0,g,0.5,g,0,g,0,g,0,g
+847,salata,small salad olives green,3.5,g,0,mg,300,g,1,g,0,g,1,g,0,g,0,g,0,g
+848,salata,small salad parmesan cheese,3.5,g,10,mg,190,g,0,g,4,g,2,g,0,g,0,g,0,g
+849,salata,small salad pasta,2,g,0,mg,55,g,9,g,2,g,0,g,0,g,1,g,0,g
+850,salata,small salad pea sprouts,0,g,0,mg,0,g,4,g,1,g,0,g,0,g,0,g,0,g
+851,salata,small salad pepperoncini,0,g,0,mg,530,g,2,g,0,g,0,g,0,g,1,g,1,g
+852,salata,small salad pesto chicken,13,g,100,mg,620,g,0,g,37,g,2,g,0,g,0,g,0,g
+853,salata,small salad pineapple,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,3,g
+854,salata,small salad pumpkin seed,4,g,0,mg,35,g,1,g,2,g,0.5,g,0,g,1,g,0,g
+855,salata,small salad pumpkin seeds,5,g,0,mg,35,g,1,g,2,g,1,g,0,g,1,g,0,g
+856,salata,small salad quinoa,2,g,0,mg,10,g,18,g,4,g,0,g,0,g,2,g,1,g
+857,salata,small salad radish,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,0,g
+858,salata,small salad raisins,0,g,0,mg,0,g,13,g,1,g,0,g,0,g,1,g,10,g
+859,salata,small salad red beans,0,g,0,mg,80,g,4,g,1,g,0,g,0,g,1,g,1,g
+860,salata,small salad red onion,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+861,salata,small salad romaine hearts,1,g,0,mg,5,g,3,g,1,g,0,g,0,g,2,g,1,g
+862,salata,small salad salata mix,0,g,0,mg,35,g,4,g,1,g,0,g,0,g,2,g,2,g
+863,salata,small salad salmon,15,g,40,mg,250,g,0,g,14,g,2,g,0,g,0,g,0,g
+864,salata,small salad seafood mix,6,g,30,mg,720,g,14,g,10,g,0,g,0,g,0,g,1,g
+865,salata,small salad sesame sticks,5,g,0,mg,180,g,6,g,1,g,0.5,g,0,g,0,g,0,g
+866,salata,small salad shrimp,4,g,125,mg,290,g,1,g,16,g,0,g,0,g,1,g,1,g
+867,salata,small salad snow peas,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+868,salata,small salad spicy chipotle chicken,6,g,85,mg,500,g,1,g,32,g,1,g,0,g,0,g,0,g
+869,salata,small salad spinach,0,g,0,mg,40,g,2,g,2,g,0,g,0,g,1,g,0,g
+870,salata,small salad strawberry,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,1,g
+871,salata,small salad sundried tomatoes,0,g,0,mg,120,g,6,g,1,g,0,g,0,g,1,g,3,g
+872,salata,small salad tofu,9,g,0,mg,250,g,11,g,20,g,0,g,0,g,1,g,4,g
+873,salata,small salad tomato,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,1,g
+874,salata,small salad turkey,3,g,50,mg,510,g,1,g,20,g,0,g,0,g,0,g,1,g
+875,salata,small salad walnuts,5,g,0,mg,0,g,1,g,1,g,0.5,g,0,g,1,g,0,g
+876,salata,white chocolate macadamia cookie,12,g,20,mg,180,g,22,g,2,g,5,g,0,g,1,g,14,g
+877,salata,wrap almonds,3.5,g,0,mg,0,g,2,g,2,g,0,g,0,g,1,g,0,g
+878,salata,wrap apple,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,1,g,2,g
+879,salata,wrap arcadian mix,0,g,0,mg,20,g,1,g,0,g,0,g,0,g,0,g,0,g
+880,salata,wrap artichoke hearts,4,g,0,mg,250,g,4,g,2,g,0,g,0,g,2,g,0,g
+881,salata,wrap arugula,1,g,0,mg,5,g,1,g,1,g,0,g,0,g,0,g,0,g
+882,salata,wrap asian barbecue chicken,6,g,80,mg,560,g,5,g,30,g,1,g,0,g,0,g,4,g
+883,salata,wrap avocado,6,g,0,mg,0,g,3,g,1,g,1,g,0,g,3,g,0,g
+884,salata,wrap baked pita strips,2.5,g,0,mg,125,g,10,g,2,g,0,g,0,g,1,g,0,g
+885,salata,wrap balsamic vinaigrette dressing,29,g,0,mg,200,g,6,g,0,g,2,g,0,g,0,g,6,g
+886,salata,wrap balsamic vinegar,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,4,g
+887,salata,wrap banana peppers,0,g,0,mg,380,g,1,g,0,g,0,g,0,g,1,g,0,g
+888,salata,wrap bean sprouts,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,1,g
+889,salata,wrap beets,0,g,0,mg,20,g,2,g,0,g,0,g,0,g,1,g,2,g
+890,salata,wrap bell peppers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+891,salata,wrap black beans,0,g,0,mg,55,g,4,g,1,g,0,g,0,g,1,g,0,g
+892,salata,wrap blue cheese,5,g,5,mg,70,g,0,g,1,g,1,g,0,g,0,g,0,g
+893,salata,wrap blue cheese dressing,32,g,30,mg,380,g,2,g,2,g,7,g,0,g,0,g,1,g
+894,salata,wrap broccoli,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+895,salata,wrap buttermilk ranch dressing,25,g,15,mg,410,g,2,g,1,g,4,g,0,g,0,g,1,g
+896,salata,wrap cabbage,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,1,g
+897,salata,wrap carrots,0,g,0,mg,10,g,2,g,0,g,0,g,0,g,0,g,1,g
+898,salata,wrap chick peas,0,g,0,mg,50,g,3,g,1,g,0,g,0,g,1,g,0,g
+899,salata,wrap chipotle ranch dressing,23,g,15,mg,380,g,2,g,1,g,4,g,0,g,0,g,2,g
+900,salata,wrap chopped bacon,3,g,15,mg,160,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+901,salata,wrap chopped egg,3,g,95,mg,30,g,0,g,3,g,1,g,0,g,0,g,0,g
+902,salata,wrap classic caesar dressing,30,g,50,mg,430,g,1,g,4,g,4,g,0,g,0,g,0,g
+903,salata,wrap cool cucumber wrap,2,g,0,mg,550,g,55,g,10,g,1,g,0,g,2,g,1,g
+904,salata,wrap corn,0,g,0,mg,0,g,4,g,1,g,0,g,0,g,1,g,2,g
+905,salata,wrap croissant,4,g,10,mg,95,g,12,g,2,g,3,g,0,g,1,g,2,g
+906,salata,wrap croutons,4,g,0,mg,60,g,5,g,1,g,0,g,0,g,0,g,0,g
+907,salata,wrap cucumber,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+908,salata,wrap dried cranberries,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,1,g,11,g
+909,salata,wrap edamame,1,g,0,mg,0,g,2,g,3,g,0,g,0,g,2,g,0,g
+910,salata,wrap extra croissant,5,g,15,mg,115,g,14,g,3,g,4,g,0,g,1,g,2,g
+911,salata,wrap falafel,2,g,0,mg,400,g,21,g,7,g,0,g,0,g,6,g,4,g
+912,salata,wrap fat free mango dressing,0,g,0,mg,10,g,9,g,1,g,0,g,0,g,1,g,8,g
+913,salata,wrap fat free sun dried tomato dressing,0,g,0,mg,350,g,2,g,1,g,0,g,0,g,1,g,1,g
+914,salata,wrap feta cheese,3,g,10,mg,170,g,1,g,3,g,2,g,0,g,0,g,0,g
+915,salata,wrap fresh herb vinaigrette dressing,30,g,0,mg,450,g,6,g,1,g,3,g,0,g,0,g,4,g
+916,salata,wrap ginger lime dressing,29,g,0,mg,300,g,8,g,1,g,3,g,0.5,g,0,g,6,g
+917,salata,wrap grapes,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,4,g
+918,salata,wrap green peas,0,g,0,mg,45,g,3,g,1,g,0,g,0,g,1,g,1,g
+919,salata,wrap grilled chicken,4,g,95,mg,510,g,0,g,35,g,1,g,0,g,0,g,0,g
+920,salata,wrap honey mustard dressing,26,g,15,mg,440,g,9,g,0,g,4,g,0,g,0,g,8,g
+921,salata,wrap jalapeno,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,1,g
+922,salata,wrap jalapeno avocado dressing,17,g,10,mg,270,g,2,g,1,g,3,g,0,g,1,g,1,g
+923,salata,wrap jalepeno,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,1,g
+924,salata,wrap jicama,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,0,g
+925,salata,wrap kale,1,g,0,mg,5,g,1,g,1,g,0,g,0,g,1,g,0,g
+926,salata,wrap krabmeat,6,g,5,mg,910,g,19,g,9,g,0,g,0,g,0,g,2,g
+927,salata,wrap lemon vinaigrette dressing,30,g,0,mg,240,g,4,g,0,g,3,g,0,g,0,g,1,g
+928,salata,wrap mandarin orange,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,5,g
+929,salata,wrap mixed cheese,3,g,10,mg,55,g,0,g,3,g,2,g,0,g,0,g,0,g
+930,salata,wrap mushroom,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+931,salata,wrap oil and vinegar dressing,22,g,0,mg,5,g,5,g,0,g,3,g,0,g,0,g,5,g
+932,salata,wrap olive oil,14,g,0,mg,0,g,0,g,0,g,2,g,0,g,0,g,0,g
+933,salata,wrap olives black,3,g,0,mg,160,g,1,g,0,g,0.5,g,0,g,0,g,0,g
+934,salata,wrap olives green,3.5,g,0,mg,300,g,1,g,0,g,1,g,0,g,0,g,0,g
+935,salata,wrap parmesan cheese,3.5,g,10,mg,190,g,0,g,4,g,2,g,0,g,0,g,0,g
+936,salata,wrap pasta,2,g,0,mg,55,g,9,g,2,g,0,g,0,g,1,g,0,g
+937,salata,wrap pea sprouts,0,g,0,mg,0,g,4,g,1,g,0,g,0,g,0,g,0,g
+938,salata,wrap pepperoncini,0,g,0,mg,530,g,2,g,0,g,0,g,0,g,1,g,1,g
+939,salata,wrap pesto chicken,13,g,100,mg,620,g,0,g,37,g,2,g,0,g,0,g,0,g
+940,salata,wrap pineapple,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,1,g
+941,salata,wrap pumpkin seed,4,g,0,mg,35,g,1,g,2,g,0.5,g,0,g,1,g,0,g
+942,salata,wrap pumpkin seeds,5,g,0,mg,35,g,1,g,2,g,1,g,0,g,1,g,0,g
+943,salata,wrap quinoa,2,g,0,mg,10,g,18,g,4,g,0,g,0,g,2,g,1,g
+944,salata,wrap radish,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,0,g
+945,salata,wrap raisins,0,g,0,mg,0,g,13,g,1,g,0,g,0,g,1,g,10,g
+946,salata,wrap red beans,0,g,0,mg,80,g,4,g,1,g,0,g,0,g,1,g,1,g
+947,salata,wrap red onion,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+948,salata,wrap romaine hearts,1,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,0,g
+949,salata,wrap salata mix,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,1,g
+950,salata,wrap salmon,15,g,40,mg,250,g,0,g,14,g,2,g,0,g,0,g,0,g
+951,salata,wrap seafood mix,6,g,30,mg,720,g,14,g,10,g,0,g,0,g,0,g,1,g
+952,salata,wrap sesame sticks,5,g,0,mg,180,g,6,g,1,g,0.5,g,0,g,0,g,0,g
+953,salata,wrap shrimp,4,g,125,mg,290,g,1,g,16,g,0,g,0,g,1,g,1,g
+954,salata,wrap snow peas,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+955,salata,wrap southwest wrap,8,g,0,mg,550,g,50,g,9,g,3,g,0,g,2,g,1,g
+956,salata,wrap spicy chipotle chicken,6,g,85,mg,500,g,1,g,32,g,1,g,0,g,0,g,0,g
+957,salata,wrap spinach,0,g,0,mg,15,g,1,g,1,g,0,g,0,g,0,g,0,g
+958,salata,wrap strawberry,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+959,salata,wrap sundried tomatoes,0,g,0,mg,120,g,6,g,1,g,0,g,0,g,1,g,3,g
+960,salata,wrap texas bbq wrap,8,g,0,mg,520,g,50,g,9,g,3,g,0,g,2,g,1,g
+961,salata,wrap thai ginger wrap,8,g,0,mg,490,g,50,g,9,g,3,g,0,g,2,g,1,g
+962,salata,wrap tofu,9,g,0,mg,250,g,11,g,20,g,0,g,0,g,1,g,4,g
+963,salata,wrap tomato,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,1,g
+964,salata,wrap turkey,3,g,50,mg,510,g,1,g,20,g,0,g,0,g,0,g,1,g
+965,salata,wrap walnuts,5,g,0,mg,0,g,1,g,1,g,0.5,g,0,g,1,g,0,g
+966,salata,wrap wheat wrap,9,g,0,mg,510,g,50,g,9,g,3,g,0,g,5,g,1,g
+967,salsaritas fresh cantina,10 inch tortilla for small entree,5,g,0,mg,0,g,520,g,1,g,1,g,0,g,33,g,1,g
+968,salsaritas fresh cantina,10 inch wheat tortilla for small entree,5,g,0,mg,0,g,510,g,0,g,2,g,0,g,34,g,4,g
+969,salsaritas fresh cantina,13 inch tortilla for regular entree,7,g,0,mg,0,g,676,g,0,g,1,g,0,g,10,g,1,g
+970,salsaritas fresh cantina,6 inch tortilla for taco,1.5,g,0,mg,0,g,180,g,0,g,1,g,0,g,13,g,0,g
+971,salsaritas fresh cantina,amber ale,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,15,g,0,g
+972,salsaritas fresh cantina,black beans,0,g,0,mg,0,g,90,g,0,g,0,g,0,g,5,g,2,g
+973,salsaritas fresh cantina,black olives,4,g,0,mg,0,g,250,g,0,g,0.5,g,0,g,2,g,1,g
+974,salsaritas fresh cantina,brown rice,0,g,0,mg,0,g,115,g,0,g,0,g,0,g,7,g,0,g
+975,salsaritas fresh cantina,bud light,0,g,0,mg,0,g,14,g,0,g,0,g,0,g,6,g,0,g
+976,salsaritas fresh cantina,budweiser,0,g,0,mg,0,g,0,g,11,g,0,g,0,g,12,g,0,g
+977,salsaritas fresh cantina,chips,11,g,0,mg,0,g,45,g,0,g,1.5,g,0,g,12,g,1,g
+978,salsaritas fresh cantina,chocolate chip cookie,8,g,0,mg,15,g,105,g,9,g,4,g,0,g,23,g,0,g
+979,salsaritas fresh cantina,chocolate chunk brownie,10,g,0,mg,65,g,140,g,26,g,9,g,0,g,38,g,2,g
+980,salsaritas fresh cantina,cilantro,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,1,g,0,g
+981,salsaritas fresh cantina,citrus vinaigrette dressing,1.5,g,0,mg,0,g,190,g,7,g,0,g,0,g,7,g,0,g
+982,salsaritas fresh cantina,classic margarita,0,g,0,mg,0,g,10,g,58,g,0,g,0,g,63,g,0,g
+983,salsaritas fresh cantina,coca cola,0,g,0,mg,0,g,90,g,78,g,0,g,0,g,78,g,0,g
+984,salsaritas fresh cantina,crispy taco shell,5,g,0,mg,0,g,30,g,0,g,1,g,0,g,7,g,0,g
+985,salsaritas fresh cantina,diced fresh jalapenos,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,0,g
+986,salsaritas fresh cantina,diced tomatoes,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,0,g
+987,salsaritas fresh cantina,fajita veggies,0,g,0,mg,0,g,45,g,0,g,0,g,0,g,1,g,0,g
+988,salsaritas fresh cantina,frozen margarita,0,g,0,mg,0,g,480,g,45,g,0,g,0,g,49,g,0,g
+989,salsaritas fresh cantina,ground beef,2.5,g,0,mg,15,g,110,g,0,g,1,g,0,g,0,g,0,g
+990,salsaritas fresh cantina,guacamole 1oz,4,g,0,mg,0,g,115,g,0,g,0.5,g,0,g,3,g,2,g
+991,salsaritas fresh cantina,guacamole 2oz,8,g,0,mg,0,g,230,g,0,g,1,g,0,g,6,g,4,g
+992,salsaritas fresh cantina,guacamole 4oz,16,g,0,mg,0,g,460,g,0,g,2,g,0,g,12,g,8,g
+993,salsaritas fresh cantina,hacienda ranch dressing,7,g,0,mg,5,g,210,g,1,g,1.5,g,0,g,2,g,0,g
+994,salsaritas fresh cantina,hi c fruit punch,0,g,0,mg,0,g,0,g,96,g,0,g,0,g,96,g,0,g
+995,salsaritas fresh cantina,kids coca cola,0,g,0,mg,0,g,45,g,39,g,0,g,0,g,39,g,0,g
+996,salsaritas fresh cantina,kids hi c fruit punch,0,g,0,mg,0,g,0,g,48,g,0,g,0,g,48,g,0,g
+997,salsaritas fresh cantina,kids minute maid lemonade,0,g,0,mg,0,g,11,g,43,g,0,g,0,g,45,g,0,g
+998,salsaritas fresh cantina,kids minute maid light lemonade,0,g,0,mg,0,g,23,g,3,g,0,g,0,g,6,g,0,g
+999,salsaritas fresh cantina,kids root beer,0,g,0,mg,0,g,70,g,0,g,0,g,0,g,45,g,0,g

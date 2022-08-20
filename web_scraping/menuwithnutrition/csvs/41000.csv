@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,ccs low carb kitchen,blt chicken ranch pasta salad,8,g,95,mg,230,g,13,g,53,g,3,g,0,g,1,g,3,g
+1,ccs low carb kitchen,blueberry bread pudding,22,g,250,mg,115,g,9,g,25,g,11,g,0,g,3,g,1,g
+2,ccs low carb kitchen,blueberry cheesecake,19,g,55,mg,55,g,8,g,3,g,10,g,0,g,18,g,4,g
+3,ccs low carb kitchen,bourbon chicken and cauli rice,16,g,140,mg,200,g,6,g,38,g,7,g,0,g,3,g,3,g
+4,ccs low carb kitchen,breakfast bowl,23,g,520,mg,690,g,13,g,27,g,8,g,0,g,6,g,4,g
+5,ccs low carb kitchen,breakfast burrito and mango habanero salsa,16,g,390,mg,460,g,18,g,36,g,4,g,0,g,11,g,4,g
+6,ccs low carb kitchen,breakfast donut,16,g,270,mg,250,g,14,g,22,g,6,g,0,g,8,g,0,g
+7,ccs low carb kitchen,breakfast pizza,27,g,365,mg,390,g,7,g,21,g,7,g,0,g,4,g,2,g
+8,ccs low carb kitchen,breakfast power bowl with eggs ham and cauliflower rice,12,g,345,mg,510,g,8,g,19,g,4,g,0,g,4,g,3,g
+9,ccs low carb kitchen,breakfast quesadilla,20,g,390,mg,400,g,32,g,28,g,7,g,0,g,26,g,1,g
+10,ccs low carb kitchen,breakfast quiche,27,g,365,mg,400,g,12,g,22,g,7,g,0,g,5,g,5,g
+11,ccs low carb kitchen,breakfast scrambler and chicken sausage,16,g,395,mg,250,g,12,g,36,g,5,g,0,g,2,g,5,g
+12,ccs low carb kitchen,breakfast scrambler with brussels sprouts,16,g,500,mg,240,g,5,g,20,g,6,g,0,g,1,g,0,g
+13,ccs low carb kitchen,breakfast taco,20,g,355,mg,620,g,19,g,22,g,7,g,0,g,9,g,1,g
+14,ccs low carb kitchen,ccs cherry cheesecake custard,16,g,210,mg,30,g,7,g,4,g,9,g,0,g,1,g,4,g
+15,ccs low carb kitchen,ccs fat free low sodium ranch,0,g,5,mg,45,g,1,g,1,g,0,g,0,g,0,g,0,g
+16,ccs low carb kitchen,ccs fettuccine alfredo with chicken and bacon,25,g,80,mg,890,g,53,g,33,g,8,g,0,g,1,g,2,g
+17,ccs low carb kitchen,ccs kitchen low carb bread,3,g,20,mg,110,g,3,g,9,g,1,g,0,g,2,g,0,g
+18,ccs low carb kitchen,ccs lemon blueberry custard,16,g,210,mg,30,g,7,g,4,g,9,g,0,g,1,g,4,g
+19,ccs low carb kitchen,ccs low carb pasta,4.5,g,50,mg,120,g,19,g,12,g,0,g,0,g,7,g,0,g
+20,ccs low carb kitchen,ccs mac and cheese,27,g,125,mg,1340,g,20,g,45,g,8,g,0,g,14,g,0,g
+21,ccs low carb kitchen,ccs meatballs and mashed fauxtatoes,19,g,145,mg,350,g,11,g,48,g,8,g,0,g,8,g,6,g
+22,ccs low carb kitchen,ccs pizza dough,2.5,g,0,mg,90,g,7,g,4,g,0,g,0,g,4,g,0,g
+23,ccs low carb kitchen,cherry chipotle chicken and mashed fauxtatoes,6,g,145,mg,150,g,8,g,51,g,0,g,0,g,3,g,4,g
+24,ccs low carb kitchen,chicken and donut breakfast sandwich,15,g,155,mg,380,g,7,g,58,g,4.5,g,0,g,3,g,0,g
+25,ccs low carb kitchen,chicken club panini and chips,15,g,75,mg,640,g,77,g,42,g,4,g,0,g,16,g,13,g
+26,ccs low carb kitchen,chicken fajita bowl,5,g,75,mg,310,g,19,g,29,g,0,g,0,g,11,g,34,g
+27,ccs low carb kitchen,chicken marsala and mashed fauxtatoes,9,g,100,mg,330,g,10,g,30,g,3.5,g,0,g,3,g,4,g
+28,ccs low carb kitchen,chicken meatball sandwich,22,g,145,mg,490,g,15,g,52,g,10,g,0,g,4,g,5,g
+29,ccs low carb kitchen,chicken parm sandwich with mashed cauliflower,16,g,120,mg,500,g,10,g,60,g,7,g,0,g,4,g,2,g
+30,ccs low carb kitchen,chicken salad on flaxseed pita,8,g,55,mg,350,g,45,g,30,g,1,g,0,g,5,g,12,g
+31,ccs low carb kitchen,chicken sandwich with low fat garlic mayo,9,g,75,mg,210,g,31,g,35,g,1,g,0,g,5,g,3,g
+32,ccs low carb kitchen,chicken soft shell burrito,21,g,155,mg,460,g,33,g,52,g,5,g,0,g,20,g,2,g
+33,ccs low carb kitchen,chicken tikka masala and riced cauliflower,12,g,135,mg,140,g,9,g,45,g,3,g,0,g,3,g,5,g
+34,ccs low carb kitchen,chocolate pancakes and ccs chicken sausage,8,g,80,mg,390,g,9,g,26,g,2,g,0,g,4,g,0,g
+35,ccs low carb kitchen,citrus chicken and mashed fauxtatoes,4.5,g,110,mg,120,g,9,g,39,g,0,g,0,g,4,g,5,g
+36,ccs low carb kitchen,citrus salad with honey dressing,10,g,0,mg,40,g,23,g,2,g,1,g,0,g,6,g,17,g
+37,ccs low carb kitchen,crack chicken and hand cut fries,51,g,185,mg,660,g,34,g,41,g,23,g,0,g,2,g,3,g
+38,ccs low carb kitchen,crack chicken and vegetables,17,g,120,mg,240,g,5,g,32,g,9,g,0,g,2,g,1,g
+39,ccs low carb kitchen,egg cups with ham cheese and mango habanero salsa,13,g,410,mg,430,g,4,g,42,g,6,g,0,g,1,g,3,g
+40,ccs low carb kitchen,egg in a hole,21,g,245,mg,340,g,8,g,37,g,8,g,0,g,3,g,0,g
+41,ccs low carb kitchen,family style chicken fajitas,10,g,90,mg,350,g,30,g,32,g,4,g,0,g,7,g,5,g
+42,ccs low carb kitchen,farmers frittata,15,g,360,mg,230,g,1,g,20,g,7,g,0,g,0,g,1,g
+43,ccs low carb kitchen,farro and spiced chickpea salad,22,g,0,mg,55,g,101,g,30,g,2.5,g,0,g,26,g,11,g
+44,ccs low carb kitchen,fire chicken,4,g,75,mg,85,g,6,g,26,g,0,g,0,g,3,g,3,g
+45,ccs low carb kitchen,fire chicken and cauli rice,13,g,150,mg,190,g,9,g,52,g,3.5,g,0,g,4,g,3,g
+46,ccs low carb kitchen,flourless chocolate cake,42,g,175,mg,520,g,12,g,9,g,25,g,0,g,7,g,1,g
+47,ccs low carb kitchen,french toast stuffed pancakes,36,g,275,mg,430,g,32,g,54,g,15,g,0,g,18,g,0,g
+48,ccs low carb kitchen,fried rice breakfast bowl,37,g,555,mg,1310,g,7,g,41,g,12,g,0,g,3,g,3,g
+49,ccs low carb kitchen,garlic herb chicken and roasted sweet potatoes,16,g,140,mg,210,g,23,g,39,g,7,g,0,g,4,g,7,g
+50,ccs low carb kitchen,ginger lime ribeye steak fried cauli rice,29,g,240,mg,200,g,20,g,32,g,13,g,0,g,10,g,6,g
+51,ccs low carb kitchen,gochujang roasted chicken and vegetables,10,g,110,mg,370,g,12,g,39,g,1,g,0,g,7,g,3,g
+52,ccs low carb kitchen,grilled chicken caprese and roasted vegetables,8,g,90,mg,260,g,11,g,35,g,3,g,0,g,5,g,3,g
+53,ccs low carb kitchen,grilled chicken parmesan,14,g,125,mg,310,g,26,g,51,g,5,g,0,g,7,g,3,g
+54,ccs low carb kitchen,grilled chicken thigh with fries,14,g,100,mg,230,g,18,g,35,g,3.5,g,0,g,2,g,1,g
+55,ccs low carb kitchen,grilled pork and acorn squash and asparagus,13,g,160,mg,170,g,26,g,56,g,6,g,0,g,5,g,1,g
+56,ccs low carb kitchen,grilled pork and mashed fauxtatoes and asparagus,13,g,160,mg,170,g,26,g,56,g,6,g,0,g,5,g,1,g
+57,ccs low carb kitchen,grilled pork loin and broccoli,33,g,165,mg,310,g,6,g,56,g,14,g,0,g,2,g,2,g
+58,ccs low carb kitchen,grilled pork loin and brussels sprouts,34,g,115,mg,115,g,10,g,43,g,9,g,0,g,4,g,3,g
+59,ccs low carb kitchen,harissa chicken and mashed fauxtatoes,11,g,100,mg,170,g,24,g,36,g,3.5,g,0,g,8,g,6,g
+60,ccs low carb kitchen,hibiscus waffles with raspberry coulis,4.5,g,20,mg,30,g,4,g,3,g,2,g,0,g,3,g,1,g
+61,ccs low carb kitchen,high protein breakfast sandwich with bacon,34,g,275,mg,980,g,9,g,44,g,12,g,0,g,4,g,2,g
+62,ccs low carb kitchen,house made chicken sausage patties,1.5,g,35,mg,30,g,0,g,12,g,0,g,0,g,0,g,0,g
+63,ccs low carb kitchen,ice cream sandwich,34,g,130,mg,200,g,9,g,8,g,20,g,0,g,4,g,0,g
+64,ccs low carb kitchen,lemon chicken and roasted brussels sprouts,18,g,90,mg,300,g,16,g,36,g,2,g,0,g,7,g,5,g
+65,ccs low carb kitchen,lemon protein waffles and bacon,22,g,105,mg,1010,g,14,g,29,g,12,g,0,g,8,g,1,g
+66,ccs low carb kitchen,lemon protein waffles and vegetarian eggs,17,g,65,mg,125,g,14,g,26,g,6,g,0,g,8,g,1,g
+67,ccs low carb kitchen,light frittata,21,g,425,mg,330,g,13,g,35,g,12,g,0,g,2,g,5,g
+68,ccs low carb kitchen,lime chipotle pork and mashed sweet potatoes,24,g,130,mg,160,g,6,g,42,g,11,g,0,g,3,g,3,g
+69,ccs low carb kitchen,lime chipotle pork tenderloin and mashed fauxtatoes,5,g,105,mg,130,g,10,g,40,g,1.5,g,0,g,5,g,4,g
+70,ccs low carb kitchen,low cal breakfast scrambler with brussels sprouts,12,g,5,mg,230,g,6,g,15,g,1.5,g,0,g,1,g,0,g
+71,ccs low carb kitchen,low calorie breakfast burrito and mango habanero salsa,17,g,60,mg,490,g,18,g,34,g,1.5,g,0,g,11,g,4,g
+72,ccs low carb kitchen,low calorie breakfast scrambler and chicken sausage,25,g,80,mg,410,g,12,g,36,g,5,g,0,g,2,g,5,g
+73,ccs low carb kitchen,low carb greek wrap,8,g,25,mg,350,g,18,g,18,g,1,g,0,g,7,g,2,g
+74,ccs low carb kitchen,low carb mac and cheese,25,g,175,mg,520,g,20,g,47,g,12,g,0,g,7,g,0,g
+75,ccs low carb kitchen,low fat breakfast fried rice bowl,10,g,15,mg,470,g,7,g,20,g,2,g,0,g,3,g,3,g
+76,ccs low carb kitchen,low fat chicken parmesan panini,10,g,115,mg,340,g,14,g,45,g,3,g,0,g,5,g,5,g
+77,ccs low carb kitchen,low sodium fire chicken and mashed fauxtatoes,6,g,80,mg,380,g,9,g,25,g,3,g,0,g,3,g,3,g
+78,ccs low carb kitchen,maccheroni rigati with creamy goat cheese sauce chicken and brussels,25,g,125,mg,300,g,23,g,56,g,12,g,0,g,17,g,4,g
+79,ccs low carb kitchen,mango cilantro swordfish skewers and mashed fauxtatoes,8,g,80,mg,180,g,7,g,40,g,2,g,0,g,4,g,5,g
+80,ccs low carb kitchen,mashed fauxtatoes,4,g,10,mg,180,g,12,g,15,g,2,g,0,g,4,g,4,g
+81,ccs low carb kitchen,mississippi roast beef and mashed fauxtatoes,19,g,135,mg,420,g,3,g,61,g,5,g,0,g,1,g,1,g
+82,ccs low carb kitchen,monte cristo sandwich,30,g,95,mg,580,g,10,g,41,g,7,g,0,g,4,g,2,g
+83,ccs low carb kitchen,omelet with chicken sausage,21,g,430,mg,360,g,3,g,42,g,8,g,0,g,1,g,2,g
+84,ccs low carb kitchen,orange beef and cauliflower fried rice,17,g,90,mg,280,g,7,g,29,g,8,g,0,g,3,g,3,g
+85,ccs low carb kitchen,pan seared chicken with olive relish and zucchini,10,g,60,mg,130,g,9,g,21,g,3,g,0,g,1,g,6,g
+86,ccs low carb kitchen,pbandj chicken skewers,4,g,85,mg,340,g,15,g,36,g,1,g,0,g,4,g,7,g
+87,ccs low carb kitchen,pork loin and fries,19,g,90,mg,150,g,19,g,31,g,4,g,0,g,2,g,2,g
+88,ccs low carb kitchen,pork sandwich with chips,22,g,135,mg,330,g,47,g,53,g,9,g,0,g,2,g,5,g
+89,ccs low carb kitchen,pork tenderloin and mashed fauxtatoes,19,g,115,mg,270,g,12,g,43,g,3.5,g,0,g,5,g,5,g
+90,ccs low carb kitchen,pork tenderloin with peanut sauce and mashed fauxtatoes,19,g,80,mg,400,g,7,g,39,g,4,g,0,g,3,g,2,g
+91,ccs low carb kitchen,power greens breakfast smoothie,0,g,0,mg,380,g,9,g,25,g,0,g,0,g,4,g,5,g
+92,ccs low carb kitchen,pulled pork sliders,8,g,160,mg,160,g,19,g,78,g,2,g,0,g,10,g,4,g
+93,ccs low carb kitchen,pumpkin breakfast custard,26,g,135,mg,140,g,12,g,28,g,10,g,0,g,4,g,2,g
+94,ccs low carb kitchen,ratatouille with grilled chicken,3.5,g,75,mg,400,g,13,g,28,g,1,g,0,g,6,g,7,g
+95,ccs low carb kitchen,roasted pork loin with mushrooms and brussels sprouts,20,g,115,mg,120,g,12,g,44,g,8,g,0,g,5,g,3,g
+96,ccs low carb kitchen,roasted root vegetables,3,g,10,mg,80,g,16,g,6,g,2,g,0,g,4,g,4,g
+97,ccs low carb kitchen,santa fe chicken burrito and quinoa,16,g,55,mg,300,g,30,g,32,g,3,g,0,g,13,g,0,g
+98,ccs low carb kitchen,scrambled eggs and sweet potato hash,13,g,340,mg,220,g,17,g,16,g,6,g,0,g,5,g,1,g
+99,ccs low carb kitchen,smoked pork sandwich with fries slaw and pickles,11,g,125,mg,90,g,21,g,31,g,4,g,0,g,6,g,2,g
+100,ccs low carb kitchen,smothered crack chicken and mashed fauxtatoes,18,g,130,mg,430,g,10,g,38,g,7,g,0,g,5,g,4,g
+101,ccs low carb kitchen,special low carb breaskfast quesadilla,20,g,390,mg,400,g,32,g,28,g,7,g,0,g,26,g,1,g
+102,ccs low carb kitchen,spiced quinoa,7,g,0,mg,5,g,73,g,16,g,1,g,0,g,8,g,0,g
+103,ccs low carb kitchen,spicy chicken with sauteed swiss chard,5,g,55,mg,290,g,4,g,20,g,1,g,0,g,2,g,1,g
+104,ccs low carb kitchen,spicy pbandj skewers,9,g,145,mg,115,g,1,g,50,g,1,g,0,g,1,g,0,g
+105,ccs low carb kitchen,steak quesadilla,35,g,135,mg,960,g,33,g,45,g,20,g,0,g,1,g,2,g
+106,ccs low carb kitchen,steak skewers with fried rice,11,g,120,mg,240,g,4,g,54,g,4,g,0,g,2,g,1,g
+107,ccs low carb kitchen,stuffed artichoke with baked sweet potato fries,11,g,90,mg,220,g,29,g,28,g,8,g,0,g,10,g,7,g
+108,ccs low carb kitchen,stuffed basil chicken and mashed fauxtatoes,17,g,120,mg,520,g,14,g,44,g,7,g,0,g,6,g,6,g
+109,ccs low carb kitchen,sugar free chicken cherry chipotle quesadilla,12,g,85,mg,450,g,34,g,35,g,6,g,0,g,22,g,2,g
+110,ccs low carb kitchen,sweet potato and tahini butter,19,g,30,mg,160,g,41,g,6,g,8,g,0,g,7,g,12,g
+111,ccs low carb kitchen,sweet potato salad with chicken,21,g,60,mg,360,g,55,g,20,g,6,g,0,g,8,g,2,g
+112,ccs low carb kitchen,tandoori chicken with cherry chutney and tumeric rice,16,g,75,mg,95,g,12,g,26,g,3,g,0,g,2,g,1,g
+113,ccs low carb kitchen,tandoori spiced chicken and quinoa with brussels sprouts,11,g,65,mg,75,g,44,g,32,g,1,g,0,g,7,g,2,g
+114,ccs low carb kitchen,teriyaki chicken,3,g,75,mg,270,g,10,g,29,g,0,g,0,g,5,g,5,g
+115,ccs low carb kitchen,thattu chicken,4,g,75,mg,85,g,6,g,26,g,0,g,0,g,3,g,3,g
+116,ccs low carb kitchen,top sirloin beef burrito and cauliflower rice,10,g,55,mg,440,g,19,g,33,g,3.5,g,0,g,12,g,0,g
+117,ccs low carb kitchen,triple decker club sandwich,26,g,140,mg,390,g,13,g,58,g,6,g,0,g,5,g,1,g
+118,ccs low carb kitchen,turkey bacon breakfast sandwich,18,g,360,mg,320,g,8,g,45,g,8,g,0,g,3,g,0,g
+119,ccs low carb kitchen,turkey sandwich with fries,17,g,55,mg,560,g,45,g,31,g,7,g,0,g,6,g,7,g
+120,ccs low carb kitchen,uncured pork bacon,16,g,40,mg,500,g,0,g,10,g,6,g,0,g,0,g,0,g
+121,ccs low carb kitchen,uncured turkey bacon,10,g,50,mg,360,g,0,g,12,g,0,g,0,g,0,g,0,g
+122,ccs low carb kitchen,usda prime ny strip steak,67,g,270,mg,420,g,0,g,87,g,27,g,0,g,0,g,0,g
+123,ccs low carb kitchen,vegetarian breakfast quesadilla,10,g,15,mg,300,g,32,g,15,g,2.5,g,0,g,26,g,0,g
+124,ccs low carb kitchen,vegetarian low carb fried rice,5,g,80,mg,310,g,21,g,12,g,1.5,g,0,g,10,g,7,g
+125,ccs low carb kitchen,vegetarian maccheroni rigati with creamy goat cheese sauce and brussels,25,g,55,mg,250,g,41,g,54,g,13,g,0,g,17,g,12,g
+126,ccs low carb kitchen,vegetarian orange beef and cauliflower fried rice,9,g,50,mg,350,g,26,g,42,g,2.5,g,0,g,8,g,13,g
+127,ccs low carb kitchen,vegetarian thattu chicken,4.5,g,0,mg,210,g,22,g,23,g,1,g,0,g,5,g,11,g
+128,ccs low carb kitchen,watermelon chicken and mint cucumber salad,10,g,60,mg,130,g,10,g,20,g,3,g,0,g,1,g,7,g
+129,cereality,2 milk,5,g,20,mg,100,g,11,g,8,g,3,g,0,g,0,g,11,g
+130,cereality,a strawberry affair,1.5,g,0,mg,400,g,70,g,6,g,0,g,0,g,6,g,42,g
+131,cereality,almonds,8,g,0,mg,0,g,3,g,3,g,0.5,g,0,g,1,g,0,g
+132,cereality,apple pie a la bowl,7,g,5,mg,470,g,69,g,7,g,1,g,0,g,7,g,30,g
+133,cereality,apple pie filling,0,g,0,mg,10,g,7,g,0,g,0,g,0,g,0,g,4,g
+134,cereality,banana,0,g,0,mg,0,g,13,g,1,g,0,g,0,g,2,g,7,g
+135,cereality,banana brown betty,4,g,0,mg,430,g,79,g,7,g,0.5,g,0,g,6,g,44,g
+136,cereality,banana syrup,0,g,0,mg,0,g,18,g,0,g,0,g,0,g,0,g,16,g
+137,cereality,blueberries,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,2,g
+138,cereality,brown sugar,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,9,g
+139,cereality,capn crunch,1.5,g,0,mg,200,g,23,g,1,g,0,g,0,g,1,g,12,g
+140,cereality,caramel syrup,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,0,g,19,g
+141,cereality,charms,0,g,0,mg,10,g,14,g,0,g,0,g,0,g,0,g,12,g
+142,cereality,cheerios,1.5,g,0,mg,160,g,17,g,2,g,0,g,0,g,2,g,1,g
+143,cereality,chocolate banana,1.5,g,0,mg,420,g,73,g,7,g,0,g,0,g,5,g,38,g
+144,cereality,chocolate chips,4.5,g,0,mg,0,g,9,g,1,g,2.5,g,0,g,1,g,8,g
+145,cereality,chocolate syrup,0,g,0,mg,25,g,24,g,1,g,0,g,0,g,0,g,20,g
+146,cereality,cinnamon,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,3,g,0,g
+147,cereality,cinnamon life,1.5,g,0,mg,180,g,30,g,3,g,0,g,0,g,2,g,10,g
+148,cereality,cinnamon raisin roll,2.5,g,0,mg,410,g,48,g,6,g,0,g,0,g,7,g,9,g
+149,cereality,cinnamon toast crunch,3.5,g,0,mg,210,g,24,g,1,g,0.5,g,0,g,1,g,10,g
+150,cereality,cocoa puffs,1,g,0,mg,120,g,20,g,1,g,0,g,0,g,1,g,11,g
+151,cereality,coconut,4,g,0,mg,45,g,8,g,0,g,4,g,0,g,1,g,6,g
+152,cereality,coffee syrup,0,g,0,mg,15,g,22,g,0,g,0,g,0,g,0,g,17,g
+153,cereality,corn flakes,0,g,0,mg,150,g,18,g,1,g,0,g,0,g,1,g,2,g
+154,cereality,country inn crunch 2 regular,8,g,20,mg,400,g,104,g,14,g,3.5,g,0,g,5,g,55,g
+155,cereality,country inn crunch 2 small,6,g,20,mg,260,g,68,g,11,g,3.5,g,0,g,2,g,41,g
+156,cereality,country inn crunch skim regular,3,g,5,mg,400,g,105,g,14,g,1,g,0,g,5,g,55,g
+157,cereality,country inn crunch skim small,1.5,g,5,mg,260,g,69,g,11,g,0,g,0,g,2,g,42,g
+158,cereality,devil made me do it 2 regular,15,g,20,mg,470,g,93,g,13,g,8,g,0,g,3,g,64,g
+159,cereality,devil made me do it 2 small,10,g,20,mg,300,g,64,g,11,g,6,g,0,g,2,g,48,g
+160,cereality,devil made me do it skim regular,10,g,5,mg,470,g,93,g,13,g,5,g,0,g,3,g,65,g
+161,cereality,devil made me do it skim small,5,g,5,mg,300,g,65,g,11,g,2.5,g,0,g,2,g,49,g
+162,cereality,dried cherries,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,4,g,7,g
+163,cereality,dried cranberries,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,1,g,12,g
+164,cereality,froot loops,0.5,g,0,mg,115,g,20,g,1,g,0,g,0,g,1,g,9,g
+165,cereality,frost bites 2 regular,22,g,20,mg,410,g,107,g,16,g,16,g,0,g,10,g,55,g
+166,cereality,frost bites 2 small,14,g,20,mg,260,g,59,g,12,g,10,g,0,g,5,g,33,g
+167,cereality,frost bites skim regular,18,g,5,mg,420,g,108,g,16,g,13,g,0,g,10,g,56,g
+168,cereality,frost bites skim small,9,g,5,mg,260,g,60,g,12,g,7,g,0,g,5,g,34,g
+169,cereality,frosted flakes,0,g,0,mg,150,g,28,g,1,g,0,g,0,g,1,g,12,g
+170,cereality,frosted mini wheats bite size,0.5,g,0,mg,0,g,33,g,4,g,0,g,0,g,4,g,8,g
+171,cereality,fruity pebbles,1,g,0,mg,160,g,24,g,1,g,0,g,0,g,0,g,12,g
+172,cereality,golden grahams,1,g,0,mg,270,g,26,g,1,g,0,g,0,g,1,g,10,g
+173,cereality,graham bits,3.5,g,0,mg,80,g,10,g,1,g,1.5,g,0,g,0,g,4,g
+174,cereality,grape nuts,0,g,0,mg,90,g,12,g,2,g,0,g,0,g,1,g,2,g
+175,cereality,grape nuts cereal,1.5,g,0,mg,530,g,71,g,9,g,0,g,0,g,8,g,10,g
+176,cereality,health kick 2 regular,14,g,20,mg,590,g,89,g,18,g,6,g,0,g,4,g,42,g
+177,cereality,health kick 2 small,9,g,20,mg,340,g,50,g,13,g,4.5,g,0,g,2,g,27,g
+178,cereality,health kick skim regular,9,g,5,mg,590,g,89,g,18,g,3.5,g,0,g,4,g,42,g
+179,cereality,health kick skim small,4.5,g,5,mg,350,g,51,g,13,g,1.5,g,0,g,2,g,27,g
+180,cereality,honey,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,17,g
+181,cereality,honey nut cheerios,1,g,0,mg,150,g,17,g,2,g,0,g,0,g,2,g,7,g
+182,cereality,jump start 2 regular,7,g,20,mg,430,g,68,g,16,g,3.5,g,0,g,3,g,38,g
+183,cereality,jump start 2 small,6,g,20,mg,260,g,52,g,12,g,3,g,0,g,2,g,36,g
+184,cereality,jump start skim regular,2,g,5,mg,430,g,69,g,16,g,0,g,0,g,3,g,39,g
+185,cereality,jump start skim small,1,g,5,mg,270,g,52,g,12,g,0,g,0,g,2,g,37,g
+186,cereality,life cereal,1.5,g,0,mg,160,g,25,g,3,g,0,g,0,g,2,g,6,g
+187,cereality,life experience 2 regular,23,g,20,mg,430,g,98,g,21,g,5,g,0,g,9,g,50,g
+188,cereality,life experience 2 small,14,g,20,mg,270,g,70,g,15,g,4,g,0,g,5,g,43,g
+189,cereality,life experience skim regular,18,g,5,mg,430,g,99,g,22,g,2,g,0,g,9,g,51,g
+190,cereality,life experience skim small,9,g,5,mg,270,g,71,g,15,g,1,g,0,g,5,g,44,g
+191,cereality,lifes a bowl of cherries 2 regular,17,g,20,mg,430,g,105,g,16,g,9,g,0,g,14,g,54,g
+192,cereality,lifes a bowl of cherries 2 small,11,g,20,mg,270,g,58,g,12,g,6,g,0,g,7,g,33,g
+193,cereality,lifes a bowl of cherries skim regular,12,g,5,mg,430,g,106,g,17,g,6,g,0,g,14,g,54,g
+194,cereality,lifes a bowl of cherries skim small,6,g,5,mg,270,g,59,g,12,g,3,g,0,g,7,g,33,g
+195,cereality,low fat granola,3,g,0,mg,135,g,44,g,5,g,0.5,g,0,g,3,g,16,g
+196,cereality,low fat vanilla yogurt,1.5,g,5,mg,80,g,17,g,6,g,1,g,0,g,0,g,17,g
+197,cereality,lucky charms,0.5,g,0,mg,150,g,19,g,2,g,0,g,0,g,1,g,10,g
+198,cereality,mandms,3,g,0,mg,10,g,11,g,1,g,2,g,0,g,0,g,10,g
+199,cereality,malt balls,4,g,0,mg,40,g,9,g,1,g,2.5,g,0,g,1,g,6,g
+200,cereality,maple syrup,0,g,0,mg,0,g,27,g,0,g,0,g,0,g,0,g,24,g
+201,cereality,mini marshmallows,0,g,0,mg,10,g,12,g,0,g,0,g,0,g,0,g,9,g
+202,cereality,oatmeal squares,2,g,0,mg,200,g,33,g,5,g,0,g,0,g,3,g,7,g
+203,cereality,oreo cookie,3,g,0,mg,80,g,11,g,1,g,1,g,0,g,0,g,6,g
+204,cereality,pbandb crunch 2 regular,10,g,20,mg,530,g,95,g,13,g,4,g,0,g,3,g,62,g
+205,cereality,pbandb crunch 2 small,8,g,20,mg,330,g,72,g,11,g,3.5,g,0,g,2,g,51,g
+206,cereality,pbandb crunch skim regular,5,g,5,mg,530,g,95,g,13,g,1,g,0,g,3,g,63,g
+207,cereality,pbandb crunch skim small,3,g,5,mg,330,g,72,g,11,g,0.5,g,0,g,2,g,51,g
+208,cereality,peaches,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,3,g
+209,cereality,peachy blue,4.5,g,5,mg,220,g,72,g,11,g,1.5,g,0,g,5,g,41,g
+210,cereality,peachy keen,1.5,g,0,mg,490,g,53,g,7,g,0,g,0,g,6,g,16,g
+211,cereality,peanut butter sauce,15,g,0,mg,140,g,6,g,8,g,3,g,0,g,2,g,3,g
+212,cereality,pecans,11,g,0,mg,0,g,2,g,1,g,1,g,0,g,1,g,1,g
+213,cereality,pineapple,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+214,cereality,plain oatmeal,1,g,0,mg,400,g,25,g,5,g,0,g,0,g,4,g,0,g
+215,cereality,raisin bran,1,g,0,mg,270,g,35,g,4,g,0,g,0,g,5,g,15,g
+216,cereality,raisins,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,1,g,9,g
+217,cereality,reeses pieces,3.5,g,0,mg,20,g,9,g,2,g,2.5,g,0,g,0,g,8,g
+218,cereality,reeses puffs,3.5,g,0,mg,200,g,23,g,2,g,0.5,g,0,g,1,g,12,g
+219,cereality,smore than you know 2 regular,16,g,20,mg,520,g,100,g,12,g,9,g,0,g,4,g,66,g
+220,cereality,smore than you know 2 small,10,g,20,mg,310,g,56,g,10,g,6,g,0,g,2,g,38,g
+221,cereality,smore than you know skim regular,11,g,5,mg,520,g,101,g,12,g,6,g,0,g,4,g,66,g
+222,cereality,smore than you know skim small,6,g,5,mg,310,g,57,g,10,g,3,g,0,g,2,g,39,g
+223,cereality,skim milk,0,g,5,mg,105,g,12,g,8,g,0,g,0,g,0,g,12,g
+224,cereality,special k,0,g,0,mg,170,g,17,g,5,g,0,g,0,g,1,g,3,g
+225,cereality,strawberries,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,1,g,7,g
+226,cereality,strawberry crunch,6,g,5,mg,280,g,98,g,13,g,2,g,0,g,6,g,55,g
+227,cereality,strawberry french toast 2 regular,27,g,20,mg,520,g,81,g,17,g,5,g,0,g,7,g,47,g
+228,cereality,strawberry french toast 2 small,16,g,20,mg,310,g,54,g,13,g,4,g,0,g,4,g,37,g
+229,cereality,strawberry french toast skim regular,22,g,5,mg,530,g,82,g,17,g,2.5,g,0,g,7,g,48,g
+230,cereality,strawberry french toast skim small,11,g,5,mg,310,g,55,g,13,g,1,g,0,g,4,g,37,g
+231,cereality,strawberry syrup,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,0,g,18,g
+232,cereality,streusel,3,g,10,mg,30,g,11,g,0,g,0.5,g,0,g,0,g,8,g
+233,cereality,threes a charm 2 regular,18,g,20,mg,480,g,96,g,13,g,9,g,0,g,4,g,67,g
+234,cereality,threes a charm 2 small,11,g,20,mg,290,g,54,g,11,g,6,g,0,g,2,g,39,g
+235,cereality,threes a charm skim regular,14,g,5,mg,480,g,97,g,14,g,6,g,0,g,4,g,68,g
+236,cereality,threes a charm skim small,7,g,5,mg,290,g,55,g,11,g,3,g,0,g,2,g,40,g
+237,cereality,vanilla icing,1,g,0,mg,15,g,7,g,0,g,0,g,0,g,0,g,6,g
+238,cereality,walnuts,10,g,0,mg,0,g,2,g,2,g,1,g,0,g,1,g,0,g
+239,cereality,wheaties,0.5,g,0,mg,160,g,18,g,2,g,0,g,0,g,2,g,3,g
+240,cereality,you snooze you lose 2 regular,16,g,20,mg,560,g,103,g,18,g,9,g,0,g,7,g,51,g
+241,cereality,you snooze you lose 2 small,11,g,20,mg,330,g,63,g,13,g,6,g,0,g,3,g,37,g
+242,cereality,you snooze you lose skim regular,12,g,5,mg,560,g,104,g,18,g,6,g,0,g,7,g,52,g
+243,cereality,you snooze you lose skim small,6,g,5,mg,330,g,63,g,13,g,3,g,0,g,3,g,37,g
+244,charlie browns fresh grill,14 oz grilled ribeye,75,g,500,mg,720,g,24,g,109,g,27,g,0,g,1,g,2,g
+245,charlie browns fresh grill,20 oz porterhouse steak,113,g,310,mg,1000,g,53,g,86,g,40,g,0,g,5,g,8,g
+246,charlie browns fresh grill,add coconut shrimp,15,g,150,mg,800,g,44,g,24,g,2,g,0,g,4,g,16,g
+247,charlie browns fresh grill,add crab cake,20,g,100,mg,620,g,14,g,16,g,4,g,0,g,1,g,1,g
+248,charlie browns fresh grill,add garlic shrimp scampi,39,g,155,mg,620,g,14,g,24,g,13,g,0,g,2,g,1,g
+249,charlie browns fresh grill,add golden fried shrimp,6,g,115,mg,1110,g,53,g,22,g,0.5,g,0,g,3,g,2,g
+250,charlie browns fresh grill,add lobster tail,13,g,130,mg,150,g,3,g,23,g,8,g,0,g,2,g,1,g
+251,charlie browns fresh grill,apple crisp sundae,12,g,15,mg,350,g,130,g,4,g,6,g,0,g,3,g,78,g
+252,charlie browns fresh grill,apple juice,0,g,0,mg,55,g,41,g,0,g,0,g,0,g,0,g,41,g
+253,charlie browns fresh grill,baby back ribs appetizer,53,g,180,mg,1790,g,30,g,37,g,19,g,0,g,1,g,15,g
+254,charlie browns fresh grill,baby back ribs full rack,105,g,360,mg,3580,g,60,g,74,g,39,g,0,g,1,g,30,g
+255,charlie browns fresh grill,baby back ribs half rack,53,g,180,mg,2370,g,56,g,37,g,19,g,0,g,1,g,29,g
+256,charlie browns fresh grill,bacon cheddar burger,48,g,200,mg,1500,g,42,g,53,g,18,g,0,g,2,g,8,g
+257,charlie browns fresh grill,baked potato,29,g,80,mg,230,g,60,g,7,g,20,g,0,g,4,g,3,g
+258,charlie browns fresh grill,balsamic chicken,18,g,155,mg,890,g,7,g,59,g,6,g,0,g,1,g,5,g
+259,charlie browns fresh grill,bleu cheese crumbles topper,12,g,40,mg,570,g,0,g,9,g,8,g,0,g,0,g,0,g
+260,charlie browns fresh grill,bowl of beef and barley soup,5,g,30,mg,340,g,12,g,10,g,1.5,g,0,g,2,g,2,g
+261,charlie browns fresh grill,bowl of chicken and vegetable soup,2.5,g,25,mg,1010,g,4,g,10,g,0,g,0,g,1,g,2,g
+262,charlie browns fresh grill,bowl of cream of broccoli soup,9,g,20,mg,940,g,25,g,4,g,7,g,0,g,0,g,9,g
+263,charlie browns fresh grill,bowl of cream of chicken a la reine soup,9,g,25,mg,890,g,25,g,6,g,6,g,0,g,0,g,8,g
+264,charlie browns fresh grill,bowl of cream of mushroom soup,14,g,20,mg,1340,g,28,g,6,g,9,g,0,g,1,g,10,g
+265,charlie browns fresh grill,bowl of minestrone soup,3.5,g,5,mg,740,g,33,g,9,g,0.5,g,0,g,5,g,3,g
+266,charlie browns fresh grill,bowl of new england clam chowder,17,g,55,mg,870,g,32,g,10,g,10,g,0,g,2,g,2,g
+267,charlie browns fresh grill,bowl of potato and cheddar cheese soup,14,g,45,mg,530,g,14,g,9,g,8,g,0,g,1,g,2,g
+268,charlie browns fresh grill,bowl of steak and vegetable soup,3,g,15,mg,960,g,11,g,6,g,1,g,0,g,2,g,3,g
+269,charlie browns fresh grill,broccoli rabe,29,g,0,mg,120,g,4,g,3,g,4,g,0,g,2,g,0,g
+270,charlie browns fresh grill,buffalo chicken wrap,38,g,165,mg,2400,g,70,g,63,g,16,g,0,g,4,g,3,g
+271,charlie browns fresh grill,carrot cake,39,g,75,mg,700,g,83,g,6,g,13,g,1,g,1,g,55,g
+272,charlie browns fresh grill,charlie brownie sundae,42,g,110,mg,530,g,141,g,9,g,21,g,0,g,5,g,92,g
+273,charlie browns fresh grill,charlie browns sampler platter,117,g,295,mg,3260,g,101,g,99,g,38,g,0,g,7,g,17,g
+274,charlie browns fresh grill,charlies special sirloin 10 oz,47,g,145,mg,640,g,24,g,60,g,18,g,0,g,1,g,2,g
+275,charlie browns fresh grill,charlies special sirloin 8 oz,38,g,120,mg,600,g,24,g,48,g,14,g,0,g,1,g,2,g
+276,charlie browns fresh grill,chicken marsala,72,g,150,mg,3600,g,57,g,59,g,18,g,0,g,3,g,5,g
+277,charlie browns fresh grill,chicken mozzarella ciabatta,29,g,150,mg,1860,g,92,g,64,g,10,g,0,g,1,g,8,g
+278,charlie browns fresh grill,chicken mozzarella ciabatta sandwich,29,g,150,mg,1860,g,92,g,64,g,10,g,0,g,1,g,8,g
+279,charlie browns fresh grill,chicken quesadilla,79,g,160,mg,1920,g,69,g,52,g,37,g,0,g,7,g,6,g
+280,charlie browns fresh grill,chicken tacos,17,g,95,mg,890,g,51,g,33,g,8,g,0,g,6,g,11,g
+281,charlie browns fresh grill,chicken teriyaki,28,g,100,mg,1760,g,67,g,48,g,5,g,0,g,4,g,19,g
+282,charlie browns fresh grill,chili burger,58,g,235,mg,1670,g,47,g,60,g,25,g,0,g,3,g,11,g
+283,charlie browns fresh grill,chocolate ice cream,27,g,95,mg,135,g,48,g,6,g,15,g,0,g,2,g,40,g
+284,charlie browns fresh grill,chocolate molten cake,35,g,50,mg,420,g,74,g,7,g,20,g,0,g,4,g,52,g
+285,charlie browns fresh grill,chopped steak,70,g,280,mg,890,g,27,g,85,g,25,g,0,g,2,g,4,g
+286,charlie browns fresh grill,chucks classic reuben,47,g,145,mg,3350,g,62,g,64,g,21,g,0,g,8,g,4,g
+287,charlie browns fresh grill,classic cheeseburger,32,g,155,mg,1020,g,42,g,43,g,11,g,0,g,2,g,9,g
+288,charlie browns fresh grill,classic dill salmon,38,g,100,mg,300,g,5,g,35,g,11,g,0,g,1,g,0,g
+289,charlie browns fresh grill,classic ny strip 12 oz,62,g,195,mg,680,g,24,g,73,g,23,g,0,g,1,g,2,g
+290,charlie browns fresh grill,classic ny strip 8 oz,42,g,130,mg,600,g,24,g,50,g,16,g,0,g,1,g,2,g
+291,charlie browns fresh grill,coconut fried shrimp,30,g,295,mg,1600,g,87,g,48,g,3.5,g,0,g,8,g,32,g
+292,charlie browns fresh grill,cod florentine,20,g,95,mg,630,g,12,g,39,g,8,g,0,g,2,g,2,g
+293,charlie browns fresh grill,crab stuffed flounder,23,g,140,mg,800,g,20,g,44,g,7,g,0,g,2,g,2,g
+294,charlie browns fresh grill,cranberry juice,0,g,0,mg,55,g,50,g,0,g,0,g,0,g,0,g,50,g
+295,charlie browns fresh grill,creamy cole slaw,14,g,10,mg,120,g,7,g,1,g,2.5,g,0,g,2,g,5,g
+296,charlie browns fresh grill,crispy chicken tenders,27,g,145,mg,870,g,25,g,56,g,4.5,g,0,g,2,g,6,g
+297,charlie browns fresh grill,diet pepsi,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+298,charlie browns fresh grill,fillet mignon,41,g,130,mg,580,g,24,g,42,g,15,g,0,g,1,g,2,g
+299,charlie browns fresh grill,firecracker shrimp,42,g,330,mg,1410,g,20,g,42,g,6,g,0,g,0,g,4,g
+300,charlie browns fresh grill,fish n chips,32,g,110,mg,1930,g,77,g,50,g,5,g,0,g,8,g,8,g
+301,charlie browns fresh grill,french onion burger,68,g,215,mg,1380,g,46,g,58,g,26,g,0,g,2,g,10,g
+302,charlie browns fresh grill,french onion soup,38,g,90,mg,1280,g,20,g,29,g,22,g,0,g,1,g,3,g
+303,charlie browns fresh grill,fresh brewed iced tea,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+304,charlie browns fresh grill,fresh steamed asparagus,0,g,0,mg,0,g,5,g,2,g,0,g,0,g,2,g,2,g
+305,charlie browns fresh grill,fresh steamed broccoli,1.5,g,0,mg,35,g,5,g,3,g,0,g,0,g,2,g,1,g
+306,charlie browns fresh grill,fried calamari,8,g,465,mg,2100,g,62,g,38,g,1.5,g,0,g,1,g,2,g
+307,charlie browns fresh grill,fried mozzarella,26,g,35,mg,1480,g,42,g,28,g,12,g,0,g,0,g,7,g
+308,charlie browns fresh grill,garlic mashed potatoes,15,g,15,mg,740,g,21,g,2,g,7,g,0,g,2,g,2,g
+309,charlie browns fresh grill,garlic mussels,7,g,80,mg,3850,g,18,g,36,g,1.5,g,0,g,2,g,2,g
+310,charlie browns fresh grill,garlic shrimp scampi,70,g,250,mg,1090,g,23,g,40,g,23,g,0,g,2,g,1,g
+311,charlie browns fresh grill,garlic shrimp skewers,24,g,180,mg,1270,g,47,g,31,g,7,g,0,g,3,g,4,g
+312,charlie browns fresh grill,ginger ale,0,g,0,mg,40,g,30,g,0,g,0,g,0,g,0,g,29,g
+313,charlie browns fresh grill,golden fried shrimp,12,g,235,mg,2220,g,105,g,44,g,1,g,0,g,4,g,4,g
+314,charlie browns fresh grill,green beans,6,g,0,mg,50,g,7,g,2,g,1,g,0,g,3,g,1,g
+315,charlie browns fresh grill,grilled chicken sandwich,10,g,130,mg,1090,g,40,g,47,g,2,g,0,g,2,g,8,g
+316,charlie browns fresh grill,grilled salmon,15,g,65,mg,280,g,2,g,23,g,3.5,g,0,g,1,g,1,g
+317,charlie browns fresh grill,half turkey bacon panini,30,g,90,mg,1350,g,30,g,27,g,9,g,0,g,1,g,2,g
+318,charlie browns fresh grill,half vegetable panini,35,g,30,mg,860,g,46,g,15,g,7,g,0,g,4,g,3,g
+319,charlie browns fresh grill,homemade chili,28,g,90,mg,1390,g,20,g,23,g,13,g,0,g,5,g,7,g
+320,charlie browns fresh grill,homemade key lime pie,29,g,115,mg,430,g,115,g,16,g,16,g,0,g,2,g,93,g
+321,charlie browns fresh grill,horseradish crust topper,3.5,g,5,mg,210,g,15,g,2,g,1,g,0,g,4,g,2,g
+322,charlie browns fresh grill,hot coffee,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+323,charlie browns fresh grill,hot tea,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+324,charlie browns fresh grill,hummus flat bread 1 piece,7,g,0,mg,330,g,12,g,4,g,1,g,0,g,2,g,2,g
+325,charlie browns fresh grill,hummus flat bread 6 pieces,41,g,10,mg,2010,g,71,g,21,g,7,g,0,g,12,g,11,g
+326,charlie browns fresh grill,jumbo crab cake burger,45,g,140,mg,1630,g,56,g,24,g,8,g,0,g,3,g,10,g
+327,charlie browns fresh grill,jumbo crab cakes,42,g,200,mg,1580,g,42,g,35,g,9,g,0,g,3,g,5,g
+328,charlie browns fresh grill,jumbo crab cakes starter,33,g,150,mg,1420,g,38,g,27,g,8,g,0,g,2,g,4,g
+329,charlie browns fresh grill,kids apple sauce,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,2,g,16,g
+330,charlie browns fresh grill,kids broccoli,1.5,g,0,mg,35,g,5,g,3,g,0,g,0,g,2,g,1,g
+331,charlie browns fresh grill,kids charlie burger,27,g,95,mg,570,g,29,g,33,g,10,g,0,g,3,g,3,g
+332,charlie browns fresh grill,kids cheese sticks,18,g,25,mg,1050,g,30,g,20,g,8,g,0,g,0,g,5,g
+333,charlie browns fresh grill,kids chicken fingers,9,g,100,mg,560,g,13,g,41,g,1.5,g,0,g,0,g,0,g
+334,charlie browns fresh grill,kids cinnamon apple sticks,11,g,0,mg,350,g,37,g,1,g,6,g,0,g,1,g,18,g
+335,charlie browns fresh grill,kids fries,7,g,0,mg,570,g,24,g,3,g,1,g,0,g,3,g,0,g
+336,charlie browns fresh grill,kids grilled cheese sandwich,25,g,45,mg,1790,g,48,g,22,g,13,g,0,g,2,g,4,g
+337,charlie browns fresh grill,kids grilled chicken breast,2,g,65,mg,190,g,2,g,27,g,0,g,0,g,1,g,1,g
+338,charlie browns fresh grill,kids hot dog,18,g,35,mg,640,g,26,g,10,g,6,g,0,g,1,g,4,g
+339,charlie browns fresh grill,kids kraft mac and cheese,20,g,50,mg,1000,g,48,g,19,g,8,g,0,g,2,g,11,g
+340,charlie browns fresh grill,kids tombstone pizza 1 slice,4,g,10,mg,200,g,14,g,5,g,2,g,0,g,1,g,1,g
+341,charlie browns fresh grill,kids tombstone pizza 4 slices,15,g,30,mg,780,g,57,g,18,g,7,g,0,g,3,g,4,g
+342,charlie browns fresh grill,kids vegetables and dip,0,g,0,mg,130,g,9,g,1,g,0,g,0,g,3,g,5,g
+343,charlie browns fresh grill,lemonade,0,g,0,mg,70,g,32,g,0,g,0,g,0,g,0,g,31,g
+344,charlie browns fresh grill,lunch coconut shrimp,22,g,210,mg,1150,g,63,g,34,g,2.5,g,0,g,6,g,23,g
+345,charlie browns fresh grill,lunch golden fried shrimp,9,g,165,mg,1580,g,75,g,32,g,0.5,g,0,g,3,g,3,g
+346,charlie browns fresh grill,mahi mahi griller,12,g,65,mg,1060,g,36,g,23,g,6,g,0,g,4,g,4,g
+347,charlie browns fresh grill,mango swordfish,7,g,65,mg,480,g,18,g,34,g,2,g,0,g,2,g,11,g
+348,charlie browns fresh grill,milk,12,g,55,mg,180,g,18,g,12,g,8,g,0,g,0,g,17,g
+349,charlie browns fresh grill,mini chicken quesadilla,33,g,60,mg,870,g,38,g,28,g,14,g,0,g,6,g,2,g
+350,charlie browns fresh grill,mint chocolate chip ice cream,27,g,75,mg,115,g,48,g,6,g,17,g,0,g,2,g,40,g
+351,charlie browns fresh grill,mrs browns meatloaf,29,g,190,mg,1970,g,28,g,32,g,10,g,0,g,1,g,10,g
+352,charlie browns fresh grill,mrs browns meatloaf with mashed potatoes and frizzled onions,49,g,205,mg,3470,g,97,g,40,g,19,g,0,g,4,g,17,g
+353,charlie browns fresh grill,nacho supreme,90,g,280,mg,3290,g,156,g,76,g,44,g,0,g,19,g,24,g
+354,charlie browns fresh grill,nacho supreme half order,46,g,145,mg,1640,g,78,g,38,g,23,g,0,g,10,g,11,g
+355,charlie browns fresh grill,no sugar added gluten free marble cheesecake,37,g,155,mg,290,g,43,g,7,g,19,g,2.5,g,1,g,1,g
+356,charlie browns fresh grill,ny style cheesecake,6,g,30,mg,75,g,7,g,1,g,4,g,0,g,0,g,6,g
+357,charlie browns fresh grill,one pound of wings,40,g,100,mg,150,g,29,g,27,g,9,g,0,g,1,g,1,g
+358,charlie browns fresh grill,onion rings,19,g,0,mg,800,g,70,g,6,g,3,g,0,g,6,g,10,g
+359,charlie browns fresh grill,orange juice,0,g,0,mg,0,g,39,g,3,g,0,g,0,g,0,g,33,g
+360,charlie browns fresh grill,parmesan crusted chicken,53,g,260,mg,2560,g,43,g,75,g,24,g,0,g,3,g,7,g
+361,charlie browns fresh grill,parmesan crusted chicken specialty,38,g,180,mg,2230,g,38,g,57,g,16,g,0,g,3,g,7,g
+362,charlie browns fresh grill,peanut butter explosion,26,g,20,mg,250,g,55,g,11,g,9,g,0,g,2,g,43,g
+363,charlie browns fresh grill,pepsi,0,g,0,mg,30,g,32,g,0,g,0,g,0,g,0,g,32,g
+364,charlie browns fresh grill,pineapple juice,0,g,0,mg,0,g,53,g,0,g,0,g,0,g,0,g,45,g
+365,charlie browns fresh grill,pork ribeye,30,g,90,mg,710,g,0,g,41,g,11,g,0,g,0,g,0,g
+366,charlie browns fresh grill,prime rib french dip,49,g,115,mg,2240,g,54,g,39,g,17,g,0,g,2,g,3,g
+367,charlie browns fresh grill,prime rib charlie cut,93,g,265,mg,3090,g,7,g,72,g,36,g,0,g,1,g,1,g
+368,charlie browns fresh grill,prime rib double cut,133,g,375,mg,4240,g,9,g,102,g,52,g,0,g,1,g,2,g
+369,charlie browns fresh grill,prime rib duchess cut,53,g,150,mg,1940,g,4,g,41,g,21,g,0,g,0,g,1,g
+370,charlie browns fresh grill,prime rib queen cut,67,g,190,mg,2330,g,5,g,51,g,26,g,0,g,1,g,1,g
+371,charlie browns fresh grill,raspberry iced tea,0,g,0,mg,60,g,29,g,0,g,0,g,0,g,0,g,28,g
+372,charlie browns fresh grill,roasted vegetables,2.5,g,0,mg,230,g,7,g,1,g,0,g,0,g,2,g,3,g
+373,charlie browns fresh grill,root beer,0,g,0,mg,55,g,35,g,0,g,0,g,0,g,0,g,34,g
+374,charlie browns fresh grill,salad bar apples,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,1,g,3,g
+375,charlie browns fresh grill,salad bar balsamic vinaigrette,10,g,0,mg,380,g,8,g,0,g,1,g,0,g,0,g,8,g
+376,charlie browns fresh grill,salad bar barley confetti salads,2,g,0,mg,140,g,12,g,1,g,0,g,0,g,2,g,4,g
+377,charlie browns fresh grill,salad bar black beans,0,g,0,mg,210,g,8,g,3,g,0,g,0,g,3,g,1,g
+378,charlie browns fresh grill,salad bar black olives,5,g,0,mg,220,g,0,g,0,g,0,g,0,g,0,g,0,g
+379,charlie browns fresh grill,salad bar bleu cheese dressing,14,g,30,mg,460,g,2,g,2,g,2,g,0,g,0,g,2,g
+380,charlie browns fresh grill,salad bar bread and butter pickles,0,g,0,mg,150,g,8,g,0,g,0,g,0,g,0,g,7,g
+381,charlie browns fresh grill,salad bar broccoli florets,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+382,charlie browns fresh grill,salad bar caesar dressing,10,g,30,mg,680,g,8,g,2,g,2,g,0,g,0,g,2,g
+383,charlie browns fresh grill,salad bar caponata salad,2.5,g,0,mg,380,g,4,g,1,g,0,g,0,g,1,g,2,g
+384,charlie browns fresh grill,salad bar carob chips,7,g,0,mg,0,g,23,g,0,g,7,g,0,g,0,g,19,g
+385,charlie browns fresh grill,salad bar cauliflower and radish salad,5,g,5,mg,60,g,2,g,1,g,1,g,0,g,1,g,1,g
+386,charlie browns fresh grill,salad bar cauliflower florets,0,g,0,mg,10,g,1,g,1,g,0,g,0,g,1,g,1,g
+387,charlie browns fresh grill,salad bar champagne vinaigrette,22,g,0,mg,800,g,4,g,0,g,3,g,0,g,0,g,2,g
+388,charlie browns fresh grill,salad bar cheddar cheese,9,g,35,mg,190,g,1,g,7,g,5,g,0,g,0,g,0,g
+389,charlie browns fresh grill,salad bar chicken salad,10,g,30,mg,260,g,2,g,9,g,1.5,g,0,g,0,g,2,g
+390,charlie browns fresh grill,salad bar chickpea and black sesame chips,8,g,0,mg,120,g,15,g,2,g,1,g,0,g,1,g,1,g
+391,charlie browns fresh grill,salad bar chopped bacon,7,g,15,mg,190,g,0,g,4,g,2,g,0,g,0,g,0,g
+392,charlie browns fresh grill,salad bar chopped chicken liver,7,g,235,mg,270,g,5,g,10,g,2.5,g,0,g,0,g,3,g
+393,charlie browns fresh grill,salad bar chopped eggs,3.5,g,145,mg,40,g,0,g,4,g,1,g,0,g,0,g,0,g
+394,charlie browns fresh grill,salad bar chow mein noodles,2.5,g,0,mg,115,g,10,g,2,g,1,g,1,g,0,g,0,g
+395,charlie browns fresh grill,salad bar citrus quinoa salad,0.5,g,0,mg,340,g,9,g,2,g,0,g,0,g,1,g,1,g
+396,charlie browns fresh grill,salad bar colorful corn salad,9,g,0,mg,15,g,14,g,1,g,1,g,0,g,0,g,9,g
+397,charlie browns fresh grill,salad bar cottage cheese,1.5,g,5,mg,190,g,3,g,7,g,1,g,0,g,0,g,2,g
+398,charlie browns fresh grill,salad bar couscous salad,1,g,0,mg,200,g,11,g,2,g,0,g,0,g,0,g,1,g
+399,charlie browns fresh grill,salad bar cranberry wheat salad,1.5,g,0,mg,60,g,12,g,1,g,0,g,0,g,1,g,3,g
+400,charlie browns fresh grill,salad bar creamy italian dressing,20,g,0,mg,520,g,12,g,0,g,3,g,0,g,0,g,12,g
+401,charlie browns fresh grill,salad bar crispy fired onions,8,g,0,mg,80,g,8,g,0,g,0,g,0,g,0,g,0,g
+402,charlie browns fresh grill,salad bar croutons,3,g,10,mg,100,g,7,g,1,g,2,g,0,g,0,g,0,g
+403,charlie browns fresh grill,salad bar cucumber salad,7,g,5,mg,30,g,3,g,0,g,1,g,0,g,0,g,1,g
+404,charlie browns fresh grill,salad bar cucumber slices,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+405,charlie browns fresh grill,salad bar curried rice and raisin salad,4.5,g,0,mg,135,g,11,g,1,g,0.5,g,0,g,0,g,3,g
+406,charlie browns fresh grill,salad bar dill macaroni salad,2.5,g,5,mg,160,g,6,g,1,g,0,g,0,g,0,g,1,g
+407,charlie browns fresh grill,salad bar dried cranberries,0,g,0,mg,0,g,21,g,0,g,0,g,0,g,2,g,20,g
+408,charlie browns fresh grill,salad bar fat free french dressing,0,g,0,mg,580,g,22,g,0,g,0,g,0,g,0,g,10,g
+409,charlie browns fresh grill,salad bar fat free raspberry vinaigrette,0,g,0,mg,160,g,16,g,0,g,0,g,0,g,0,g,14,g
+410,charlie browns fresh grill,salad bar garbanzo beans,1,g,0,mg,180,g,9,g,3,g,0,g,0,g,4,g,2,g
+411,charlie browns fresh grill,salad bar giardiniera,0,g,0,mg,1680,g,4,g,0,g,0,g,0,g,0,g,4,g
+412,charlie browns fresh grill,salad bar granola,1,g,0,mg,55,g,18,g,2,g,0,g,0,g,1,g,7,g
+413,charlie browns fresh grill,salad bar grape tomatoes,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,1,g,1,g
+414,charlie browns fresh grill,salad bar greek dressing,28,g,0,mg,540,g,2,g,0,g,5,g,0,g,0,g,0,g
+415,charlie browns fresh grill,salad bar green peppers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+416,charlie browns fresh grill,salad bar ham,2,g,30,mg,660,g,2,g,9,g,1,g,0,g,0,g,2,g
+417,charlie browns fresh grill,salad bar honey lime broccoli salad,3.5,g,5,mg,50,g,5,g,1,g,0.5,g,0,g,1,g,3,g
+418,charlie browns fresh grill,salad bar honey lime dressing,22,g,20,mg,340,g,16,g,0,g,3,g,0,g,0,g,16,g
+419,charlie browns fresh grill,salad bar italian tomato salad,3.5,g,0,mg,190,g,5,g,1,g,0,g,0,g,1,g,3,g
+420,charlie browns fresh grill,salad bar lettuce mix,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+421,charlie browns fresh grill,salad bar lobster salad,12,g,50,mg,180,g,2,g,8,g,2,g,0,g,0,g,1,g
+422,charlie browns fresh grill,salad bar macaroni salad,8,g,20,mg,380,g,7,g,2,g,1.5,g,0,g,1,g,1,g
+423,charlie browns fresh grill,salad bar marinated white bean salad,5,g,0,mg,230,g,5,g,1,g,0.5,g,0,g,1,g,1,g
+424,charlie browns fresh grill,salad bar mint and lemon cous cous salad,1,g,0,mg,150,g,12,g,2,g,0,g,0,g,0,g,0,g
+425,charlie browns fresh grill,salad bar monterey jack cheese,8,g,35,mg,170,g,0,g,7,g,5,g,0,g,0,g,0,g
+426,charlie browns fresh grill,salad bar mozzarella and tomato salad,7,g,20,mg,130,g,2,g,5,g,3.5,g,0,g,0,g,1,g
+427,charlie browns fresh grill,salad bar mushroom slices,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+428,charlie browns fresh grill,salad bar oranges,0,g,0,mg,0,g,7,g,1,g,0,g,0,g,1,g,5,g
+429,charlie browns fresh grill,salad bar orzo salad,0,g,0,mg,150,g,11,g,2,g,0,g,0,g,1,g,1,g
+430,charlie browns fresh grill,salad bar panzenella salad,8,g,0,mg,360,g,12,g,2,g,1,g,0,g,1,g,1,g
+431,charlie browns fresh grill,salad bar parmesan and peppercorn chicken salad,10,g,30,mg,340,g,4,g,8,g,1.5,g,0,g,0,g,3,g
+432,charlie browns fresh grill,salad bar penne alfredo salad,8,g,5,mg,350,g,10,g,3,g,1.5,g,0,g,1,g,1,g
+433,charlie browns fresh grill,salad bar pepperoncini,0,g,0,mg,550,g,3,g,0,g,0,g,0,g,0,g,1,g
+434,charlie browns fresh grill,salad bar potato salad,7,g,45,mg,135,g,6,g,2,g,1.5,g,0,g,1,g,1,g
+435,charlie browns fresh grill,salad bar radishes,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,1,g,1,g
+436,charlie browns fresh grill,salad bar raisins,0,g,0,mg,10,g,31,g,1,g,0,g,0,g,2,g,29,g
+437,charlie browns fresh grill,salad bar ranch dressing,20,g,20,mg,580,g,2,g,2,g,3,g,0,g,0,g,2,g
+438,charlie browns fresh grill,salad bar red onion slices,0,g,0,mg,0,g,6,g,1,g,0,g,0,g,1,g,2,g
+439,charlie browns fresh grill,salad bar rice and adzuki bean chips,7,g,0,mg,130,g,17,g,2,g,1,g,0,g,3,g,1,g
+440,charlie browns fresh grill,salad bar roast beef,1.5,g,0,mg,320,g,0,g,13,g,0.5,g,0,g,0,g,0,g
+441,charlie browns fresh grill,salad bar roasted turkey breast,0.5,g,20,mg,210,g,1,g,6,g,0,g,0,g,0,g,0,g
+442,charlie browns fresh grill,salad bar salad bar chopped celery,0,g,0,mg,20,g,1,g,0,g,0,g,0,g,0,g,1,g
+443,charlie browns fresh grill,salad bar sesame green bean salad,2,g,0,mg,220,g,8,g,1,g,0,g,0,g,1,g,4,g
+444,charlie browns fresh grill,salad bar sesame oriental dressing,9,g,0,mg,640,g,24,g,0,g,1,g,0,g,0,g,18,g
+445,charlie browns fresh grill,salad bar shredded carrots,0,g,0,mg,20,g,3,g,0,g,0,g,0,g,1,g,1,g
+446,charlie browns fresh grill,salad bar shredded cheddar jack cheese mix,9,g,25,mg,170,g,0,g,7,g,5,g,0,g,0,g,0,g
+447,charlie browns fresh grill,salad bar shredded coconut,12,g,0,mg,15,g,12,g,1,g,11,g,0,g,1,g,2,g
+448,charlie browns fresh grill,salad bar shredded parmesan cheese,8,g,20,mg,280,g,0,g,8,g,4,g,0,g,0,g,0,g
+449,charlie browns fresh grill,salad bar shredded romaine lettuce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+450,charlie browns fresh grill,salad bar sliced beets,0,g,0,mg,80,g,3,g,0,g,0,g,0,g,1,g,3,g
+451,charlie browns fresh grill,salad bar spinach,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+452,charlie browns fresh grill,salad bar sunflower seeds,19,g,0,mg,0,g,9,g,7,g,2,g,0,g,4,g,1,g
+453,charlie browns fresh grill,salad bar swiss cheese,8,g,25,mg,65,g,1,g,8,g,5,g,0,g,0,g,0,g
+454,charlie browns fresh grill,salad bar thousand island dressing,26,g,10,mg,520,g,10,g,0,g,4,g,0,g,0,g,6,g
+455,charlie browns fresh grill,salad bar tomato wedges,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,1,g,2,g
+456,charlie browns fresh grill,salad bar tri color tortilla chips,1,g,0,mg,0,g,7,g,1,g,0,g,0,g,0,g,0,g
+457,charlie browns fresh grill,salad bar tri color tortilla strips,1,g,0,mg,0,g,8,g,1,g,0,g,0,g,1,g,0,g
+458,charlie browns fresh grill,salad bar vanilla pudding,1.5,g,0,mg,110,g,15,g,0,g,1.5,g,0,g,0,g,9,g
+459,charlie browns fresh grill,salad bar wasabi cucumber salad,3,g,0,mg,50,g,2,g,0,g,0.5,g,0,g,0,g,1,g
+460,charlie browns fresh grill,salmon primavera,36,g,100,mg,1130,g,20,g,39,g,5,g,0,g,5,g,6,g
+461,charlie browns fresh grill,seasoned fries,11,g,0,mg,850,g,36,g,4,g,1.5,g,0,g,4,g,0,g
+462,charlie browns fresh grill,seasoned rice,3,g,0,mg,310,g,40,g,4,g,0.5,g,0,g,0,g,1,g
+463,charlie browns fresh grill,sesame ginger chicken,15,g,130,mg,1880,g,27,g,56,g,1.5,g,0,g,3,g,18,g
+464,charlie browns fresh grill,sherried button mushrooms,9,g,0,mg,220,g,5,g,4,g,1.5,g,0,g,1,g,2,g
+465,charlie browns fresh grill,sherried button mushrooms topper,14,g,0,mg,320,g,8,g,5,g,2.5,g,0,g,2,g,3,g
+466,charlie browns fresh grill,short ribs,48,g,220,mg,2000,g,53,g,52,g,17,g,0,g,2,g,5,g
+467,charlie browns fresh grill,sierra mist,0,g,0,mg,30,g,31,g,0,g,0,g,0,g,0,g,31,g
+468,charlie browns fresh grill,southwest burger,48,g,160,mg,1310,g,47,g,43,g,13,g,0,g,3,g,12,g
+469,charlie browns fresh grill,stuffed shrimp,72,g,320,mg,1310,g,29,g,37,g,32,g,0,g,2,g,4,g
+470,charlie browns fresh grill,sweet potato fries,12,g,0,mg,550,g,35,g,2,g,2,g,0,g,5,g,11,g
+471,charlie browns fresh grill,swiss and mushroom burger,44,g,180,mg,1170,g,44,g,52,g,18,g,0,g,2,g,9,g
+472,charlie browns fresh grill,tilapia bruschetta,11,g,115,mg,750,g,12,g,47,g,3,g,0,g,1,g,5,g
+473,charlie browns fresh grill,tilapia tacos,17,g,85,mg,770,g,51,g,30,g,8,g,0,g,6,g,11,g
+474,charlie browns fresh grill,turkey burger,48,g,130,mg,1850,g,61,g,32,g,12,g,0,g,3,g,27,g
+475,charlie browns fresh grill,turkey melt,45,g,140,mg,2100,g,88,g,52,g,14,g,0,g,2,g,7,g
+476,charlie browns fresh grill,two pounds of wings,80,g,205,mg,250,g,57,g,54,g,17,g,0,g,1,g,1,g
+477,charlie browns fresh grill,vanilla ice cream,17,g,50,mg,95,g,33,g,4,g,11,g,0,g,0,g,25,g
+478,charlie browns fresh grill,vegetable panini,69,g,55,mg,1550,g,90,g,29,g,15,g,0,g,8,g,7,g
+479,charlie browns fresh grill,veggie burger,31,g,40,mg,1410,g,57,g,24,g,5,g,0,g,5,g,10,g
+480,cheba hut,5 o blunt 12 inch,73,g,215,mg,5880,g,116,g,77,g,20,g,0,g,10,g,5,g
+481,cheba hut,5 o nug 4 inch,24,g,70,mg,1960,g,39,g,26,g,7,g,0,g,3,g,2,g
+482,cheba hut,5 o pinner 8 inch,49,g,145,mg,3920,g,77,g,51,g,13,g,0,g,6,g,3,g
+483,cheba hut,acapulco gold blunt 12 inch,46,g,190,mg,3700,g,142,g,84,g,17,g,0,g,10,g,30,g
+484,cheba hut,acapulco gold nug 4 inch,15,g,65,mg,1230,g,48,g,28,g,6,g,0,g,3,g,10,g
+485,cheba hut,acapulco gold pinner 8 inch,31,g,125,mg,2460,g,95,g,56,g,11,g,0,g,6,g,20,g
+486,cheba hut,ak 47 blunt 12 inch no au jus,21,g,105,mg,3530,g,115,g,63,g,8,g,0,g,10,g,4,g
+487,cheba hut,ak 47 nug 4 inch no au jus,7,g,35,mg,1180,g,39,g,21,g,2.5,g,0,g,3,g,1,g
+488,cheba hut,ak 47 pinner 8 inch no au jus,14,g,70,mg,2350,g,77,g,42,g,5,g,0,g,7,g,3,g
+489,cheba hut,antipasto salad without dressing,43,g,120,mg,3280,g,40,g,43,g,16,g,0,g,5,g,11,g
+490,cheba hut,apollo 13 blunt 12 inch,108,g,165,mg,3720,g,114,g,65,g,26,g,0,g,11,g,4,g
+491,cheba hut,apollo 13 nug 4 inch,36,g,55,mg,1240,g,38,g,22,g,9,g,0,g,4,g,1,g
+492,cheba hut,apollo 13 pinner 8 inch,72,g,110,mg,2480,g,76,g,43,g,17,g,0,g,7,g,3,g
+493,cheba hut,bomb blunt 12 inch,58,g,195,mg,3090,g,131,g,59,g,23,g,0,g,12,g,7,g
+494,cheba hut,bomb nug 4 inch,19,g,65,mg,1030,g,44,g,20,g,8,g,0,g,4,g,2,g
+495,cheba hut,bomb pinner 8 inch,39,g,130,mg,2060,g,87,g,39,g,15,g,0,g,8,g,5,g
+496,cheba hut,brownies,18,g,45,mg,360,g,69,g,3,g,9,g,0,g,3,g,45,g
+497,cheba hut,cereal treats cinnamon squares,17,g,30,mg,280,g,85,g,4,g,13,g,0,g,2,g,49,g
+498,cheba hut,cereal treats lucky charms,13,g,30,mg,350,g,82,g,5,g,8,g,0,g,2,g,50,g
+499,cheba hut,cereal treats tooty fruities,13,g,30,mg,230,g,81,g,4,g,8,g,0,g,1,g,50,g
+500,cheba hut,chicken bacon salad without dressing,43,g,110,mg,1620,g,35,g,43,g,11,g,0,g,5,g,7,g
+501,cheba hut,chronic blunt 12 inch,23,g,120,mg,4400,g,145,g,64,g,9,g,0,g,10,g,31,g
+502,cheba hut,chronic nug 4 inch,8,g,40,mg,1470,g,49,g,21,g,3,g,0,g,3,g,10,g
+503,cheba hut,chronic pinner 8 inch,15,g,80,mg,2930,g,97,g,42,g,6,g,0,g,7,g,20,g
+504,cheba hut,cookies,17,g,30,mg,370,g,52,g,4,g,9,g,0,g,2,g,31,g
+505,cheba hut,dank blunt 12 inch,97,g,210,mg,5320,g,123,g,70,g,33,g,0,g,12,g,10,g
+506,cheba hut,dank nug 4 inch,32,g,70,mg,1770,g,41,g,23,g,11,g,0,g,4,g,3,g
+507,cheba hut,dank pinner 8 inch,65,g,140,mg,3550,g,82,g,47,g,22,g,0,g,8,g,6,g
+508,cheba hut,g 13 blunt 12 inch,57,g,155,mg,4120,g,116,g,71,g,16,g,0,g,10,g,3,g
+509,cheba hut,g 13 nug 4 inch,19,g,50,mg,1370,g,39,g,24,g,5,g,0,g,3,g,1,g
+510,cheba hut,g 13 pinner 8 inch,38,g,105,mg,2750,g,77,g,47,g,11,g,0,g,6,g,2,g
+511,cheba hut,garlic cheese bread and marinara,30,g,45,mg,1060,g,82,g,25,g,11,g,0,g,5,g,8,g
+512,cheba hut,garlic cheese bread and ranch,61,g,80,mg,1240,g,81,g,25,g,17,g,0,g,2,g,6,g
+513,cheba hut,goo balls,18,g,20,mg,370,g,69,g,8,g,7,g,0,g,1,g,37,g
+514,cheba hut,greek chicken salad without dressing,36,g,80,mg,1620,g,34,g,33,g,7,g,0,g,5,g,7,g
+515,cheba hut,greek side salad without dressing,13,g,10,mg,480,g,21,g,7,g,3.5,g,0,g,4,g,6,g
+516,cheba hut,griefo blunt 12 inch,46,g,70,mg,2480,g,125,g,38,g,19,g,0,g,16,g,8,g
+517,cheba hut,griefo nug 4 inch,15,g,25,mg,830,g,42,g,13,g,6,g,0,g,5,g,3,g
+518,cheba hut,griefo pinner 8 inch,31,g,45,mg,1650,g,83,g,25,g,12,g,0,g,11,g,6,g
+519,cheba hut,hot silver haze blunt 12 inch,34,g,45,mg,2810,g,135,g,46,g,9,g,0,g,17,g,10,g
+520,cheba hut,hot silver haze nug 4 inch,11,g,15,mg,940,g,45,g,15,g,3,g,0,g,6,g,3,g
+521,cheba hut,hot silver haze pinner 8 inch,23,g,30,mg,1870,g,90,g,31,g,6,g,0,g,11,g,6,g
+522,cheba hut,humboldt blunt 12 inch,32,g,30,mg,2340,g,124,g,37,g,9,g,0,g,16,g,8,g
+523,cheba hut,humboldt nut 4 inch,11,g,10,mg,780,g,41,g,12,g,3,g,0,g,5,g,3,g
+524,cheba hut,humboldt pinner 8 inch,21,g,20,mg,1560,g,82,g,24,g,6,g,0,g,11,g,5,g
+525,cheba hut,jamaican red blunt 12 inch,50,g,175,mg,5000,g,113,g,68,g,17,g,0,g,11,g,5,g
+526,cheba hut,jamaican red nug 4 inch,17,g,60,mg,1670,g,38,g,23,g,6,g,0,g,4,g,2,g
+527,cheba hut,jamaican red pinner 8 inch,33,g,115,mg,3330,g,75,g,45,g,11,g,0,g,7,g,3,g
+528,cheba hut,kali mist blunt 12 inch,67,g,155,mg,4010,g,123,g,71,g,18,g,0,g,15,g,5,g
+529,cheba hut,kali mist nug 4 inch,22,g,50,mg,1340,g,41,g,24,g,6,g,0,g,5,g,2,g
+530,cheba hut,kali mist pinner 8 inch,44,g,105,mg,2670,g,82,g,47,g,12,g,0,g,10,g,3,g
+531,cheba hut,kgb blunt 12 inch,40,g,135,mg,3520,g,120,g,67,g,12,g,0,g,10,g,4,g
+532,cheba hut,kgb nug 4 inch,13,g,45,mg,1170,g,40,g,22,g,4,g,0,g,3,g,1,g
+533,cheba hut,kgb pinner 8 inch,27,g,90,mg,2350,g,80,g,44,g,8,g,0,g,7,g,3,g
+534,cheba hut,kush blunt 12 inch,140,g,150,mg,3790,g,115,g,63,g,33,g,0,g,10,g,5,g
+535,cheba hut,kush nug 4 inch,47,g,50,mg,1260,g,39,g,21,g,11,g,0,g,4,g,2,g
+536,cheba hut,kush pinner 8 inch,93,g,100,mg,2530,g,77,g,42,g,22,g,0,g,7,g,3,g
+537,cheba hut,la canna blunt 12 inch,67,g,200,mg,5590,g,116,g,74,g,17,g,0,g,10,g,6,g
+538,cheba hut,la canna nug 4 inch,22,g,65,mg,1860,g,39,g,25,g,6,g,0,g,3,g,2,g
+539,cheba hut,la cranna pinner 8 inch,45,g,135,mg,3730,g,77,g,49,g,11,g,0,g,6,g,4,g
+540,cheba hut,loaded not chos with chicken,54,g,115,mg,1950,g,32,g,30,g,18,g,0,g,2,g,3,g
+541,cheba hut,loaded not chose,48,g,80,mg,1530,g,32,g,18,g,17,g,0,g,2,g,3,g
+542,cheba hut,magic mushroom blunt 12 inch,16,g,30,mg,2770,g,134,g,35,g,8,g,0,g,12,g,23,g
+543,cheba hut,magic mushroom nug 4 inch,5,g,10,mg,920,g,45,g,12,g,2.5,g,0,g,4,g,8,g
+544,cheba hut,magic mushroom pinner 8 inch,11,g,20,mg,1850,g,89,g,24,g,5,g,0,g,8,g,15,g
+545,cheba hut,midwest best nug 4 inch,10,g,45,mg,1300,g,38,g,23,g,3.5,g,0,g,3,g,2,g
+546,cheba hut,midwest best pinner 8 inch,19,g,90,mg,2590,g,75,g,46,g,7,g,0,g,6,g,3,g
+547,cheba hut,midwest blue blunt 12 inch,29,g,135,mg,3890,g,112,g,69,g,11,g,0,g,10,g,5,g
+548,cheba hut,pac blue blunt 12 inch,29,g,90,mg,2430,g,113,g,53,g,10,g,0,g,10,g,5,g
+549,cheba hut,pac blue nug 4 inch,10,g,30,mg,810,g,38,g,18,g,3,g,0,g,3,g,2,g
+550,cheba hut,pac blue pinner 8 inch,19,g,60,mg,1620,g,76,g,35,g,6,g,0,g,7,g,3,g
+551,cheba hut,pakalolo blunt 12 inch,57,g,165,mg,3640,g,144,g,64,g,17,g,0,g,10,g,33,g
+552,cheba hut,pakalolo nug 4 inch,19,g,55,mg,1220,g,48,g,21,g,6,g,0,g,3,g,11,g
+553,cheba hut,pakalolo pinner 8 inch,38,g,110,mg,2430,g,96,g,42,g,11,g,0,g,7,g,22,g
+554,cheba hut,panama red blunt 12 inch,46,g,150,mg,3380,g,119,g,76,g,14,g,0,g,12,g,7,g
+555,cheba hut,panama red nug 4 inch,15,g,50,mg,1130,g,40,g,25,g,4.5,g,0,g,4,g,2,g
+556,cheba hut,panama red pinner 8 inch,31,g,100,mg,2250,g,80,g,50,g,9,g,0,g,8,g,4,g
+557,cheba hut,power plant blunt 12 inch,42,g,30,mg,3010,g,144,g,42,g,9,g,0,g,23,g,11,g
+558,cheba hut,power plant nug 4 inch,14,g,10,mg,1000,g,48,g,14,g,3,g,0,g,8,g,4,g
+559,cheba hut,power plant pinner 8 inch,28,g,20,mg,2010,g,96,g,28,g,6,g,0,g,15,g,7,g
+560,cheba hut,pretzel nugs and honey mustard,45,g,45,mg,590,g,89,g,9,g,10,g,0,g,2,g,24,g
+561,cheba hut,side salad without dressing,9,g,5,mg,460,g,31,g,7,g,2,g,0,g,6,g,10,g
+562,cheba hut,silver haze blunt 12 inch,34,g,45,mg,2860,g,136,g,47,g,9,g,0,g,17,g,10,g
+563,cheba hut,silver haze nug 4 inch,11,g,15,mg,960,g,46,g,16,g,3,g,0,g,6,g,3,g
+564,cheba hut,silver haze pinner 8 inch,23,g,30,mg,1910,g,91,g,31,g,6,g,0,g,11,g,6,g
+565,cheba hut,thai stick blunt 12 inch,34,g,130,mg,4010,g,128,g,66,g,10,g,0,g,10,g,19,g
+566,cheba hut,thai stick nug 4 inch,11,g,45,mg,1340,g,43,g,22,g,3.5,g,0,g,3,g,6,g
+567,cheba hut,thai stick pinners 8 inch,23,g,85,mg,2670,g,85,g,44,g,7,g,0,g,7,g,12,g
+568,cheba hut,the kind blunt 12 inch,26,g,145,mg,3580,g,113,g,74,g,11,g,0,g,10,g,4,g
+569,cheba hut,the kind nug 4 inch,9,g,50,mg,1190,g,38,g,25,g,3.5,g,0,g,3,g,1,g
+570,cheba hut,the kind pinner 8 inch,17,g,95,mg,2380,g,76,g,50,g,7,g,0,g,6,g,2,g
+571,cheba hut,tuna salad without dressing,25,g,35,mg,1090,g,36,g,22,g,4.5,g,0,g,5,g,8,g
+572,cheba hut,white widow blunt 12 inch,79,g,185,mg,3780,g,118,g,77,g,19,g,0,g,10,g,6,g
+573,cheba hut,white widow nug 4 inch,26,g,60,mg,1260,g,39,g,26,g,6,g,0,g,3,g,2,g
+574,cheba hut,white widow pinner 8 inch,53,g,125,mg,2520,g,78,g,51,g,12,g,0,g,7,g,4,g
+575,checkers,10 chicken wings angry buffalo,45,g,350,mg,3030,g,6,g,69,g,15,g,0.5,g,1,g,0,g
+576,checkers,10 chicken wings asian kick,45,g,350,mg,2390,g,42,g,69,g,14,g,0.5,g,0,g,36,g
+577,checkers,10 chicken wings garlic parmesan,79,g,355,mg,2150,g,6,g,69,g,27,g,1,g,0,g,0,g
+578,checkers,10 chicken wings honey bbq,44,g,350,mg,2080,g,38,g,69,g,14,g,0.5,g,1,g,31,g
+579,checkers,10 chicken wings medium buffalo,45,g,350,mg,3240,g,5,g,69,g,15,g,0.5,g,0,g,0,g
+580,checkers,10 chicken wings plain,44,g,350,mg,1500,g,4,g,68,g,14,g,0.5,g,0,g,0,g
+581,checkers,20 chicken wings angry buffalo,91,g,700,mg,6070,g,13,g,137,g,29,g,1.5,g,3,g,0,g
+582,checkers,20 chicken wings asian kick,89,g,700,mg,4780,g,84,g,138,g,29,g,1.5,g,0,g,71,g
+583,checkers,20 chicken wings garlic parmesan,158,g,710,mg,4290,g,13,g,139,g,55,g,2.5,g,0,g,0,g
+584,checkers,20 chicken wings honey bbq,89,g,700,mg,4150,g,76,g,138,g,29,g,1.5,g,3,g,62,g
+585,checkers,20 chicken wings medium buffalo,91,g,700,mg,6490,g,10,g,137,g,29,g,1.5,g,0,g,1,g
+586,checkers,20 chicken wings plain,89,g,700,mg,3000,g,8,g,136,g,29,g,1.5,g,0,g,0,g
+587,checkers,5 chicken wings angry buffalo,23,g,180,mg,1530,g,3,g,35,g,7,g,0,g,1,g,0,g
+588,checkers,5 chicken wings asian kick,23,g,180,mg,1210,g,21,g,35,g,7,g,0,g,0,g,18,g
+589,checkers,5 chicken wings garlic parmesan,40,g,180,mg,1080,g,3,g,35,g,14,g,0.5,g,0,g,0,g
+590,checkers,5 chicken wings honey bbq,23,g,180,mg,1050,g,19,g,35,g,7,g,0,g,1,g,16,g
+591,checkers,5 chicken wings medium buffalo,23,g,180,mg,1630,g,3,g,35,g,7,g,0,g,0,g,0,g
+592,checkers,5 chicken wings plain,23,g,180,mg,760,g,2,g,35,g,7,g,0,g,0,g,0,g
+593,checkers,apple pie,12,g,5,mg,310,g,38,g,3,g,5,g,0,g,2,g,14,g
+594,checkers,b l t,11,g,15,mg,590,g,35,g,11,g,3,g,0,g,1,g,6,g
+595,checkers,bacon checker rallyburger with cheese,22,g,50,mg,1310,g,40,g,21,g,9,g,1,g,2,g,9,g
+596,checkers,bacon roadhouse,47,g,90,mg,1660,g,37,g,29,g,17,g,2,g,1,g,9,g
+597,checkers,baconzilla,62,g,145,mg,1670,g,43,g,46,g,24,g,3,g,3,g,7,g
+598,checkers,banana milkshake 12 oz,8,g,25,mg,150,g,44,g,5,g,5,g,0,g,1,g,36,g
+599,checkers,banana milkshake 16 oz,10,g,35,mg,200,g,58,g,7,g,7,g,0,g,1,g,48,g
+600,checkers,banana milkshake 21 oz,13,g,45,mg,260,g,77,g,9,g,9,g,0,g,2,g,63,g
+601,checkers,banana milkshake 32 oz,20,g,65,mg,390,g,117,g,14,g,14,g,0,g,3,g,95,g
+602,checkers,banana split loaded milkshake 16 oz,9,g,20,mg,150,g,64,g,5,g,7,g,0,g,2,g,55,g
+603,checkers,banana split loaded milkshake 21 oz,12,g,30,mg,230,g,101,g,7,g,9,g,0,g,3,g,88,g
+604,checkers,banana split loaded milkshake 32 oz,18,g,45,mg,350,g,151,g,10,g,13,g,0,g,4,g,133,g
+605,checkers,barqs rootbeer 16 oz,0,g,0,mg,45,g,39,g,0,g,0,g,0,g,0,g,39,g
+606,checkers,barqs rootbeer 21 oz,0,g,0,mg,65,g,54,g,0,g,0,g,0,g,0,g,53,g
+607,checkers,barqs rootbeer 32 oz,0,g,0,mg,95,g,78,g,0,g,0,g,0,g,0,g,78,g
+608,checkers,barqs rootbeer 40 oz,0,g,0,mg,120,g,97,g,0,g,0,g,0,g,0,g,97,g
+609,checkers,bbq sauce,0,g,0,mg,300,g,15,g,0,g,0,g,0,g,0,g,12,g
+610,checkers,big buford,39,g,115,mg,1730,g,39,g,38,g,18,g,2,g,2,g,9,g
+611,checkers,big chicken deluxe,22,g,45,mg,1190,g,49,g,18,g,8,g,0.5,g,5,g,5,g
+612,checkers,big chicken sandwich,18,g,35,mg,970,g,48,g,16,g,6,g,0.5,g,5,g,4,g
+613,checkers,blue raspberry kool aid slushie 16 oz,0,g,0,mg,110,g,55,g,0,g,0,g,0,g,0,g,55,g
+614,checkers,blue raspberry kool aid slushie 21 oz,0,g,0,mg,160,g,76,g,0,g,0,g,0,g,0,g,76,g
+615,checkers,bowl of chili,20,g,65,mg,1800,g,26,g,23,g,9,g,0.5,g,9,g,8,g
+616,checkers,caramel cheesecake with twix loaded milkshake 16 oz,21,g,40,mg,280,g,60,g,7,g,16,g,0,g,1,g,48,g
+617,checkers,caramel cheesecake with twix loaded milkshake 21 oz,30,g,55,mg,400,g,88,g,10,g,22,g,0,g,2,g,70,g
+618,checkers,caramel cheesecake with twix loaded milkshake 32 oz,45,g,80,mg,580,g,128,g,13,g,32,g,0,g,2,g,96,g
+619,checkers,caramel cheesecake with twix stacker,17,g,30,mg,250,g,50,g,5,g,10,g,0,g,1,g,39,g
+620,checkers,caribbean colada island slushie 16 oz,3,g,0,mg,50,g,68,g,0,g,3,g,0,g,0,g,65,g
+621,checkers,caribbean colada island slushie 21 oz,4.5,g,0,mg,65,g,99,g,0,g,4.5,g,0,g,0,g,95,g
+622,checkers,checker rallyburger,12,g,30,mg,940,g,39,g,15,g,4.5,g,1,g,2,g,9,g
+623,checkers,checker rallyburger burger with cheese,15,g,40,mg,1140,g,39,g,18,g,7,g,1,g,2,g,9,g
+624,checkers,cheese champ,21,g,60,mg,1430,g,39,g,22,g,9,g,1,g,2,g,9,g
+625,checkers,cheese chili cheese fries,30,g,35,mg,1450,g,72,g,9,g,11,g,1.5,g,8,g,2,g
+626,checkers,cheese double,25,g,70,mg,1510,g,38,g,27,g,11,g,2,g,2,g,8,g
+627,checkers,cherry coca cola 16 oz,0,g,0,mg,35,g,37,g,0,g,0,g,0,g,0,g,37,g
+628,checkers,cherry coca cola 21 oz,0,g,0,mg,50,g,51,g,0,g,0,g,0,g,0,g,51,g
+629,checkers,cherry coca cola 32 oz,0,g,0,mg,75,g,75,g,0,g,0,g,0,g,0,g,75,g
+630,checkers,cherry coca cola 40 oz,0,g,0,mg,90,g,94,g,0,g,0,g,0,g,0,g,94,g
+631,checkers,chicken bites and fries box,40,g,85,mg,1680,g,64,g,24,g,14,g,2,g,6,g,0,g
+632,checkers,chicken nuggets 5 piece,16,g,45,mg,580,g,14,g,12,g,7,g,0,g,1,g,0,g
+633,checkers,chili,1.5,g,5,mg,150,g,2,g,2,g,1,g,0,g,1,g,1,g
+634,checkers,chili cheese dog,23,g,40,mg,1180,g,34,g,15,g,9,g,1,g,2,g,9,g
+635,checkers,chili dog,22,g,40,mg,1100,g,33,g,15,g,9,g,1,g,2,g,8,g
+636,checkers,chocolate milkshake 12 oz,8,g,25,mg,160,g,45,g,6,g,5,g,0,g,1,g,35,g
+637,checkers,chocolate milkshake 16 oz,11,g,35,mg,240,g,64,g,8,g,8,g,0,g,2,g,49,g
+638,checkers,chocolate milkshake 21 oz,13,g,45,mg,290,g,79,g,10,g,9,g,0,g,2,g,60,g
+639,checkers,chocolate milkshake 32 oz,20,g,65,mg,440,g,120,g,15,g,14,g,0,g,3,g,92,g
+640,checkers,chocolate soft serve,4.5,g,15,mg,85,g,21,g,3,g,3,g,0,g,1,g,17,g
+641,checkers,coca cola 16 oz,0,g,0,mg,35,g,36,g,0,g,0,g,0,g,0,g,36,g
+642,checkers,coca cola 21 oz,0,g,0,mg,50,g,49,g,0,g,0,g,0,g,0,g,49,g
+643,checkers,coca cola 32 oz,0,g,0,mg,70,g,72,g,0,g,0,g,0,g,0,g,72,g
+644,checkers,coca cola 40 oz,0,g,0,mg,90,g,90,g,0,g,0,g,0,g,0,g,90,g
+645,checkers,crispy fish sandwich,29,g,50,mg,760,g,52,g,15,g,7,g,0.5,g,2,g,8,g
+646,checkers,deep sea double,33,g,60,mg,980,g,52,g,17,g,9,g,0.5,g,2,g,8,g
+647,checkers,diet coca cola 16 oz,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+648,checkers,diet coca cola 21 oz,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+649,checkers,diet coca cola 32 oz,0,g,0,mg,85,g,0,g,0,g,0,g,0,g,0,g,0,g
+650,checkers,diet coca cola 40 oz,0,g,0,mg,110,g,0,g,0,g,0,g,0,g,0,g,0,g
+651,checkers,double checker rallyburger with cheese,25,g,70,mg,1510,g,39,g,27,g,11,g,2,g,2,g,9,g
+652,checkers,double crispy fish,33,g,60,mg,980,g,52,g,17,g,9,g,0.5,g,2,g,8,g
+653,checkers,double spicy chicken,28,g,80,mg,1560,g,48,g,27,g,11,g,1,g,3,g,6,g
+654,checkers,dr pepper 16 oz,0,g,0,mg,30,g,26,g,0,g,0,g,0,g,0,g,26,g
+655,checkers,dr pepper 21 oz,0,g,0,mg,40,g,34,g,0,g,0,g,0,g,0,g,34,g
+656,checkers,dr pepper 32 oz,0,g,0,mg,60,g,52,g,0,g,0,g,0,g,0,g,51,g
+657,checkers,dr pepper 40 oz,0,g,0,mg,75,g,65,g,0,g,0,g,0,g,0,g,64,g
+658,checkers,fanta grape 16 oz,0,g,0,mg,50,g,39,g,0,g,0,g,0,g,0,g,39,g
+659,checkers,fanta grape 21 oz,0,g,0,mg,65,g,54,g,0,g,0,g,0,g,0,g,53,g
+660,checkers,fanta grape 32 oz,0,g,0,mg,95,g,79,g,0,g,0,g,0,g,0,g,77,g
+661,checkers,fanta grape 40 oz,0,g,0,mg,120,g,99,g,0,g,0,g,0,g,0,g,97,g
+662,checkers,fanta orange 16 oz,0,g,0,mg,35,g,39,g,0,g,0,g,0,g,0,g,38,g
+663,checkers,fanta orange 21 oz,0,g,0,mg,50,g,54,g,0,g,0,g,0,g,0,g,53,g
+664,checkers,fanta orange 32 oz,0,g,0,mg,70,g,78,g,0,g,0,g,0,g,0,g,77,g
+665,checkers,fanta orange 40 oz,0,g,0,mg,90,g,97,g,0,g,0,g,0,g,0,g,96,g
+666,checkers,fanta strawberry 16 oz,0,g,0,mg,45,g,40,g,0,g,0,g,0,g,0,g,39,g
+667,checkers,fanta strawberry 21 oz,0,g,0,mg,65,g,55,g,0,g,0,g,0,g,0,g,54,g
+668,checkers,fanta strawberry 32oz,0,g,0,mg,95,g,80,g,0,g,0,g,0,g,0,g,79,g
+669,checkers,fanta strawberry 40 oz,0,g,0,mg,120,g,100,g,0,g,0,g,0,g,0,g,99,g
+670,checkers,franks buffalo hot sauce,0,g,0,mg,730,g,1,g,0,g,0,g,0,g,1,g,0,g
+671,checkers,fries fry lovers xl,45,g,50,mg,2030,g,115,g,12,g,16,g,2,g,12,g,1,g
+672,checkers,fries large,29,g,30,mg,1310,g,74,g,8,g,10,g,1.5,g,7,g,1,g
+673,checkers,fries medium,24,g,25,mg,1110,g,63,g,7,g,9,g,1,g,6,g,0,g
+674,checkers,fries small,19,g,20,mg,870,g,49,g,5,g,7,g,1,g,5,g,0,g
+675,checkers,fries value,13,g,15,mg,580,g,33,g,3,g,4.5,g,0.5,g,3,g,0,g
+676,checkers,fully loaded fries,56,g,70,mg,2190,g,72,g,19,g,16,g,1.5,g,7,g,3,g
+677,checkers,garlic parm fries and stix,53,g,60,mg,2250,g,70,g,18,g,21,g,2,g,6,g,3,g
+678,checkers,grilled hot dog,20,g,35,mg,940,g,30,g,13,g,8,g,1,g,1,g,7,g
+679,checkers,hi c flashin fruit punch 16 oz,0,g,0,mg,65,g,38,g,0,g,0,g,0,g,0,g,37,g
+680,checkers,hi c flashin fruit punch 21 oz,0,g,0,mg,90,g,52,g,0,g,0,g,0,g,0,g,51,g
+681,checkers,hi c flashin fruit punch 32oz,0,g,0,mg,130,g,76,g,0,g,0,g,0,g,0,g,74,g
+682,checkers,hi c flashin fruit punch 40 oz,0,g,0,mg,160,g,95,g,0,g,0,g,0,g,0,g,92,g
+683,checkers,hi c orange lavaburst 16 oz,0,g,0,mg,55,g,40,g,0,g,0,g,0,g,0,g,39,g
+684,checkers,hi c orange lavaburst 21 oz,0,g,0,mg,75,g,55,g,0,g,0,g,0,g,0,g,54,g
+685,checkers,hi c orange lavaburst 32oz,0,g,0,mg,105,g,80,g,0,g,0,g,0,g,0,g,78,g
+686,checkers,hi c orange lavaburst 40 oz,0,g,0,mg,100,g,100,g,0,g,0,g,0,g,0,g,98,g
+687,checkers,honey bbq sauce,0,g,0,mg,290,g,17,g,0,g,0,g,0,g,1,g,16,g
+688,checkers,honey mustard sauce,16,g,15,mg,135,g,4,g,0,g,2.5,g,0,g,0,g,4,g
+689,checkers,mangopalooza smoothie 16 oz,2,g,5,mg,50,g,89,g,1,g,1.5,g,0,g,0,g,83,g
+690,checkers,mangopalooza smoothie 21 oz,2.5,g,10,mg,70,g,107,g,2,g,2,g,0,g,0,g,99,g
+691,checkers,mello yellow 16 oz,0,g,0,mg,45,g,39,g,0,g,0,g,0,g,0,g,39,g
+692,checkers,mello yellow 21 oz,0,g,0,mg,60,g,53,g,0,g,0,g,0,g,0,g,53,g
+693,checkers,mello yellow 32 oz,0,g,0,mg,90,g,78,g,0,g,0,g,0,g,0,g,78,g
+694,checkers,mello yellow 40 oz,0,g,0,mg,115,g,97,g,0,g,0,g,0,g,0,g,97,g
+695,checkers,minutemaid lemonade 16 oz,0,g,0,mg,85,g,34,g,0,g,0,g,0,g,0,g,32,g
+696,checkers,minutemaid lemonade 21 oz,0,g,0,mg,120,g,46,g,0,g,0,g,0,g,0,g,44,g
+697,checkers,minutemaid lemonade 32 oz,0,g,0,mg,170,g,68,g,0,g,0,g,0,g,0,g,64,g
+698,checkers,minutemaid lemonade 40 oz,0,g,0,mg,220,g,84,g,0,g,0,g,0,g,0,g,80,g
+699,checkers,monsterella stix with marinara 4 piece,17,g,35,mg,1060,g,20,g,12,g,8,g,0.5,g,1,g,3,g
+700,checkers,monsterella stix with marinara 6 piece,25,g,50,mg,1530,g,29,g,18,g,13,g,1,g,2,g,3,g
+701,checkers,mr pibb 16 oz,0,g,0,mg,50,g,34,g,0,g,0,g,0,g,0,g,34,g
+702,checkers,mr pibb 21 oz,0,g,0,mg,65,g,46,g,0,g,0,g,0,g,0,g,46,g
+703,checkers,mr pibb 32 oz,0,g,0,mg,95,g,68,g,0,g,0,g,0,g,0,g,68,g
+704,checkers,mr pibb 40 oz,0,g,0,mg,120,g,84,g,0,g,0,g,0,g,0,g,84,g
+705,checkers,nestea iced tea rasberry 16 oz,0,g,0,mg,45,g,20,g,0,g,0,g,0,g,0,g,20,g
+706,checkers,nestea iced tea rasberry 21 oz,0,g,0,mg,60,g,28,g,0,g,0,g,0,g,0,g,27,g
+707,checkers,nestea iced tea rasberry 32 oz,0,g,0,mg,90,g,41,g,0,g,0,g,0,g,0,g,40,g
+708,checkers,nestea iced tea rasberry 40 oz,0,g,0,mg,110,g,51,g,0,g,0,g,0,g,0,g,50,g
+709,checkers,oreo fudge loaded milkshake 16 oz,14,g,20,mg,300,g,73,g,6,g,8,g,0,g,2,g,55,g
+710,checkers,oreo fudge loaded milkshake 21 oz,18,g,30,mg,380,g,100,g,8,g,10,g,0,g,3,g,78,g
+711,checkers,oreo fudge loaded milkshake 32 oz,23,g,45,mg,490,g,136,g,11,g,14,g,0,g,4,g,108,g
+712,checkers,oreo fudge stacker,12,g,10,mg,280,g,56,g,4,g,6,g,0,g,1,g,43,g
+713,checkers,peach mango island slushie 16 oz,0,g,0,mg,40,g,72,g,0,g,0,g,0,g,0,g,70,g
+714,checkers,peach mango island slushie 21 oz,0,g,0,mg,50,g,105,g,0,g,0,g,0,g,0,g,102,g
+715,checkers,powerade mountain berry blast 16 oz,0,g,0,mg,100,g,20,g,0,g,0,g,0,g,0,g,20,g
+716,checkers,powerade mountain berry blast 21 oz,0,g,0,mg,135,g,27,g,0,g,0,g,0,g,0,g,27,g
+717,checkers,powerade mountain berry blast 32 oz,0,g,0,mg,200,g,39,g,0,g,0,g,0,g,0,g,39,g
+718,checkers,powerade mountain berry blast 40 oz,0,g,0,mg,250,g,49,g,0,g,0,g,0,g,0,g,49,g
+719,checkers,single bacon roadhouse,39,g,65,mg,890,g,38,g,24,g,13,g,1.5,g,2,g,11,g
+720,checkers,single baconzilla,35,g,65,mg,1190,g,40,g,28,g,14,g,1.5,g,2,g,5,g
+721,checkers,single buford,21,g,60,mg,1430,g,39,g,22,g,9,g,1,g,2,g,9,g
+722,checkers,spicy chicken deluxe,17,g,45,mg,1050,g,41,g,17,g,6,g,0,g,2,g,6,g
+723,checkers,spicy chicken sandwich,13,g,35,mg,840,g,40,g,15,g,4,g,0,g,2,g,5,g
+724,checkers,sprite 16 oz,0,g,0,mg,60,g,35,g,0,g,0,g,0,g,0,g,35,g
+725,checkers,sprite 21 oz,0,g,0,mg,80,g,47,g,0,g,0,g,0,g,0,g,47,g
+726,checkers,sprite 32 oz,0,g,0,mg,120,g,69,g,0,g,0,g,0,g,0,g,69,g
+727,checkers,sprite 40 oz,0,g,0,mg,150,g,86,g,0,g,0,g,0,g,0,g,86,g
+728,checkers,strawberry cheesecake stacker,6,g,15,mg,230,g,85,g,4,g,3.5,g,0,g,2,g,56,g
+729,checkers,strawberry milkshake 12 oz,8,g,25,mg,140,g,43,g,5,g,5,g,0,g,1,g,35,g
+730,checkers,strawberry milkshake 16 oz,10,g,35,mg,190,g,57,g,7,g,7,g,0,g,1,g,46,g
+731,checkers,strawberry milkshake 21 oz,13,g,45,mg,250,g,75,g,9,g,9,g,0,g,2,g,61,g
+732,checkers,strawberry milkshake 32 oz,20,g,65,mg,380,g,114,g,14,g,14,g,0,g,3,g,93,g
+733,checkers,super strawberry smoothie 16 oz,2,g,5,mg,50,g,83,g,1,g,1.5,g,0,g,0,g,75,g
+734,checkers,super strawberry smoothie 21 oz,2.5,g,10,mg,70,g,99,g,2,g,2,g,0,g,0,g,90,g
+735,checkers,sweet gold peak tea 16 oz,0,g,0,mg,45,g,33,g,0,g,0,g,0,g,0,g,33,g
+736,checkers,sweet gold peak tea 21 oz,0,g,0,mg,60,g,46,g,0,g,0,g,0,g,0,g,46,g
+737,checkers,sweet gold peak tea 32 oz,0,g,0,mg,85,g,67,g,0,g,0,g,0,g,0,g,66,g
+738,checkers,sweet gold peak tea 40 oz,0,g,0,mg,105,g,83,g,0,g,0,g,0,g,0,g,83,g
+739,checkers,swirl soft serve,4.5,g,15,mg,85,g,21,g,3,g,3,g,0,g,1,g,16,g
+740,checkers,texas bacon big buford,55,g,130,mg,1970,g,41,g,42,g,22,g,2,g,2,g,10,g
+741,checkers,triple bacon roadhouse,69,g,160,mg,1180,g,38,g,54,g,27,g,4.5,g,2,g,11,g
+742,checkers,triple baconzilla,74,g,170,mg,1790,g,42,g,61,g,31,g,4,g,4,g,7,g
+743,checkers,triple buford,61,g,165,mg,1870,g,40,g,50,g,27,g,3,g,9,g,7,g
+744,checkers,triple checker rallyburger with cheese,57,g,145,mg,980,g,30,g,50,g,23,g,4,g,2,g,8,g
+745,checkers,triple crispy fish,52,g,115,mg,1140,g,72,g,33,g,16,g,1.5,g,4,g,7,g
+746,checkers,triple spicy chicken,62,g,130,mg,2230,g,54,g,38,g,19,g,1,g,5,g,3,g
+747,checkers,tropical punch kool aid slushie 16 oz,0,g,0,mg,105,g,55,g,0,g,0,g,0,g,0,g,55,g
+748,checkers,tropical punch kool aid slushie 21 oz,0,g,0,mg,140,g,76,g,0,g,0,g,0,g,0,g,76,g
+749,checkers,unsweet gold peak tea 16 oz,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+750,checkers,unsweet gold peak tea 21 oz,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+751,checkers,unsweet gold peak tea 32 oz,0,g,0,mg,90,g,0,g,0,g,0,g,0,g,0,g,0,g
+752,checkers,unsweet gold peak tea 40 oz,0,g,0,mg,110,g,0,g,0,g,0,g,0,g,0,g,0,g
+753,checkers,vanilla milkshake 12 oz,8,g,25,mg,140,g,33,g,5,g,5,g,0,g,1,g,25,g
+754,checkers,vanilla milkshake 16 oz,10,g,35,mg,180,g,44,g,7,g,7,g,0,g,1,g,33,g
+755,checkers,vanilla milkshake 21 oz,13,g,45,mg,240,g,57,g,9,g,9,g,0,g,2,g,44,g
+756,checkers,vanilla milkshake 32 oz,20,g,65,mg,370,g,87,g,14,g,14,g,0,g,3,g,66,g
+757,checkers,vanilla soft serve,4.5,g,15,mg,85,g,20,g,3,g,3,g,0,g,1,g,15,g
+758,checkers,watermelon kool aid slushie 16 oz,0,g,0,mg,105,g,55,g,0,g,0,g,0,g,0,g,55,g
+759,checkers,watermelon kool aid slushie 21 oz,0,g,0,mg,140,g,76,g,0,g,0,g,0,g,0,g,76,g
+760,cheddars scratch kitchen,14 oz ribeye steak,61,g,240,mg,1000,g,6,g,78,g,23,g,2,g,0,g,0,g
+761,cheddars scratch kitchen,14 oz ribeye steak gluten free,61,g,240,mg,1000,g,6,g,78,g,23,g,2,g,0,g,0,g
+762,cheddars scratch kitchen,6 oz top sirloin and chicken tenders,77,g,220,mg,1470,g,47,g,67,g,17,g,1,g,3,g,15,g
+763,cheddars scratch kitchen,6 oz top sirloin steak and ribs,75,g,265,mg,2340,g,34,g,73,g,25,g,1,g,2,g,19,g
+764,cheddars scratch kitchen,6 oz top sirloin steak with fried shrimp,51,g,170,mg,2350,g,63,g,38,g,13,g,1,g,5,g,18,g
+765,cheddars scratch kitchen,6 oz top sirloin steak with grilled shrimp,35,g,185,mg,1810,g,62,g,39,g,11,g,1,g,2,g,29,g
+766,cheddars scratch kitchen,6 oz top sirloin steak with onion straws,29,g,90,mg,520,g,13,g,24,g,9,g,1,g,1,g,2,g
+767,cheddars scratch kitchen,6 oz top sirloin steak gluten free,18,g,85,mg,480,g,0,g,22,g,7,g,1,g,0,g,0,g
+768,cheddars scratch kitchen,8 oz top sirloin steak with onion straws,35,g,115,mg,670,g,14,g,31,g,11,g,1,g,1,g,3,g
+769,cheddars scratch kitchen,8 oz top sirloin steak gluten free,23,g,115,mg,640,g,1,g,30,g,9,g,1,g,0,g,0,g
+770,cheddars scratch kitchen,apple crisp a la mode,53,g,85,mg,620,g,199,g,12,g,27,g,1,g,7,g,138,g
+771,cheddars scratch kitchen,bacon cheeseburger,66,g,190,mg,2640,g,47,g,63,g,27,g,2,g,3,g,8,g
+772,cheddars scratch kitchen,bacon cheeseburger gluten free,51,g,190,mg,2150,g,6,g,54,g,21,g,2,g,1,g,2,g
+773,cheddars scratch kitchen,baked potato soup bowl,38,g,70,mg,2250,g,42,g,14,g,20,g,1,g,3,g,5,g
+774,cheddars scratch kitchen,baked potato soup cup,22,g,40,mg,1280,g,23,g,9,g,11,g,0,g,2,g,3,g
+775,cheddars scratch kitchen,balsamic vinaigrette,8,g,0,mg,340,g,8,g,0,g,1,g,0,g,0,g,8,g
+776,cheddars scratch kitchen,barqs root beer,0,g,0,mg,70,g,45,g,0,g,0,g,0,g,0,g,45,g
+777,cheddars scratch kitchen,beer light,0,g,0,mg,15,g,6,g,1,g,0,g,0,g,0,g,0,g
+778,cheddars scratch kitchen,beer regular,0,g,0,mg,15,g,13,g,2,g,0,g,0,g,0,g,0,g
+779,cheddars scratch kitchen,better than moms meatloaf,53,g,270,mg,3520,g,131,g,57,g,21,g,2,g,9,g,65,g
+780,cheddars scratch kitchen,blackened salmon and fried shrimp,57,g,220,mg,3710,g,93,g,62,g,12,g,0,g,6,g,22,g
+781,cheddars scratch kitchen,blackened salmon and grilled shrimp,36,g,235,mg,3020,g,86,g,63,g,10,g,0,g,3,g,35,g
+782,cheddars scratch kitchen,blackened salmon and grilled shrimp gluten free,35,g,235,mg,2580,g,58,g,62,g,10,g,0,g,3,g,9,g
+783,cheddars scratch kitchen,blackened salmon salad,42,g,95,mg,1130,g,23,g,46,g,10,g,0,g,10,g,7,g
+784,cheddars scratch kitchen,blackened salmon salad gluten free,40,g,95,mg,1050,g,21,g,46,g,9,g,0,g,10,g,7,g
+785,cheddars scratch kitchen,blackened salmon gluten free,30,g,120,mg,1740,g,35,g,44,g,8,g,0,g,1,g,1,g
+786,cheddars scratch kitchen,blackened salmon salad add on,15,g,75,mg,620,g,1,g,26,g,3,g,0,g,0,g,0,g
+787,cheddars scratch kitchen,broccoli cheese casserole,14,g,40,mg,640,g,16,g,9,g,8,g,0,g,2,g,2,g
+788,cheddars scratch kitchen,buffalo chicken wrapper fried,120,g,255,mg,4300,g,109,g,83,g,29,g,1,g,6,g,9,g
+789,cheddars scratch kitchen,buffalo chicken wrapper grilled,92,g,315,mg,5090,g,83,g,91,g,26,g,1,g,5,g,9,g
+790,cheddars scratch kitchen,buttered off the cob corn,2.5,g,0,mg,80,g,22,g,4,g,0.5,g,0,g,2,g,8,g
+791,cheddars scratch kitchen,buttered off the cob corn gluten free,2.5,g,0,mg,80,g,22,g,4,g,0.5,g,0,g,2,g,8,g
+792,cheddars scratch kitchen,caesar salad,26,g,30,mg,810,g,9,g,8,g,7,g,0,g,2,g,3,g
+793,cheddars scratch kitchen,cajun dipping sauce,32,g,25,mg,480,g,3,g,1,g,5,g,0,g,1,g,2,g
+794,cheddars scratch kitchen,cheddars cheese fries,135,g,160,mg,5630,g,216,g,72,g,45,g,2.5,g,29,g,3,g
+795,cheddars scratch kitchen,cheddars club,63,g,145,mg,3120,g,69,g,49,g,20,g,0.5,g,3,g,11,g
+796,cheddars scratch kitchen,cheddars legendary monster cookie,77,g,160,mg,760,g,157,g,16,g,42,g,1.5,g,6,g,115,g
+797,cheddars scratch kitchen,cheddars long island iced tea,0,g,0,mg,10,g,30,g,0,g,0,g,0,g,0,g,28,g
+798,cheddars scratch kitchen,cheddars painkiller,4.5,g,0,mg,45,g,49,g,2,g,4,g,0,g,2,g,43,g
+799,cheddars scratch kitchen,cheddars painkiller mini cake,22,g,50,mg,380,g,64,g,4,g,12,g,0,g,1,g,47,g
+800,cheddars scratch kitchen,cheddars pina colada,5,g,0,mg,45,g,53,g,1,g,5,g,0,g,2,g,47,g
+801,cheddars scratch kitchen,cheddars trio sampler,142,g,365,mg,4050,g,134,g,101,g,51,g,2.5,g,14,g,27,g
+802,cheddars scratch kitchen,chicken caesar pasta salad,52,g,160,mg,2240,g,49,g,51,g,12,g,0,g,6,g,8,g
+803,cheddars scratch kitchen,chicken caesar pasta salad gluten free,47,g,160,mg,2110,g,13,g,44,g,11,g,0,g,5,g,7,g
+804,cheddars scratch kitchen,chicken tender parmesan,80,g,215,mg,3950,g,162,g,115,g,31,g,2,g,11,g,26,g
+805,cheddars scratch kitchen,chicken tender platter buffalo,79,g,220,mg,2140,g,43,g,72,g,15,g,0.5,g,2,g,7,g
+806,cheddars scratch kitchen,chicken tender platter classic,65,g,210,mg,1350,g,48,g,72,g,10,g,0,g,3,g,13,g
+807,cheddars scratch kitchen,chicken tender platter honey hot,70,g,220,mg,2300,g,75,g,72,g,11,g,0.5,g,2,g,34,g
+808,cheddars scratch kitchen,chicken tenders and fried shrimp,78,g,255,mg,2840,g,86,g,71,g,13,g,0.5,g,6,g,24,g
+809,cheddars scratch kitchen,chicken tenders and grilled shrimp,63,g,270,mg,2590,g,96,g,74,g,12,g,0.5,g,4,g,39,g
+810,cheddars scratch kitchen,chips and homemade queso,62,g,110,mg,2080,g,84,g,30,g,25,g,1,g,9,g,9,g
+811,cheddars scratch kitchen,chips and homemade queso with beef,62,g,115,mg,2140,g,85,g,33,g,25,g,1,g,9,g,9,g
+812,cheddars scratch kitchen,chocolate raspberry mini cake,31,g,80,mg,550,g,77,g,6,g,14,g,0.5,g,3,g,54,g
+813,cheddars scratch kitchen,chunky blue cheese dressing,29,g,30,mg,430,g,2,g,3,g,6,g,0,g,0,g,1,g
+814,cheddars scratch kitchen,coca cola,0,g,0,mg,45,g,39,g,0,g,0,g,0,g,0,g,39,g
+815,cheddars scratch kitchen,coke zero sugar,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+816,cheddars scratch kitchen,coleslaw,13,g,10,mg,200,g,14,g,1,g,2,g,0,g,1,g,12,g
+817,cheddars scratch kitchen,cornmeal whitefish dinner,90,g,125,mg,2330,g,62,g,43,g,15,g,0.5,g,4,g,4,g
+818,cheddars scratch kitchen,cornmeal whitefish lunch,67,g,85,mg,1530,g,39,g,26,g,11,g,0,g,2,g,3,g
+819,cheddars scratch kitchen,country fried chicken dinner,53,g,185,mg,3020,g,64,g,74,g,11,g,0,g,3,g,6,g
+820,cheddars scratch kitchen,country fried chicken lunch,30,g,95,mg,1770,g,44,g,40,g,7,g,0,g,2,g,5,g
+821,cheddars scratch kitchen,country fried steak,60,g,85,mg,2040,g,76,g,48,g,13,g,0,g,5,g,5,g
+822,cheddars scratch kitchen,crab dip,68,g,200,mg,1620,g,87,g,40,g,29,g,1.5,g,8,g,7,g
+823,cheddars scratch kitchen,crispy chicken tender noodle soup bowl,15,g,55,mg,1370,g,27,g,19,g,4.5,g,0,g,2,g,5,g
+824,cheddars scratch kitchen,crispy chicken tender noodle soup cup,7,g,25,mg,690,g,13,g,10,g,2,g,0,g,1,g,3,g
+825,cheddars scratch kitchen,crispy chicken tender salad,45,g,170,mg,1010,g,33,g,59,g,15,g,1,g,6,g,6,g
+826,cheddars scratch kitchen,diet coke,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+827,cheddars scratch kitchen,diet dr pepper,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+828,cheddars scratch kitchen,dijon chicken and mushrooms,64,g,245,mg,4250,g,62,g,72,g,18,g,0.5,g,3,g,28,g
+829,cheddars scratch kitchen,dijon chicken and mushrooms gluten free,64,g,245,mg,4250,g,62,g,72,g,18,g,0.5,g,3,g,28,g
+830,cheddars scratch kitchen,dr pepper,0,g,0,mg,60,g,40,g,0,g,0,g,0,g,0,g,38,g
+831,cheddars scratch kitchen,el patron margarita,0,g,0,mg,5,g,21,g,0,g,0,g,0,g,0,g,20,g
+832,cheddars scratch kitchen,fanta orange,0,g,0,mg,60,g,45,g,0,g,0,g,0,g,0,g,44,g
+833,cheddars scratch kitchen,french fries,22,g,0,mg,1000,g,61,g,6,g,3.5,g,0,g,8,g,1,g
+834,cheddars scratch kitchen,french fries gluten free,22,g,0,mg,1000,g,61,g,6,g,3.5,g,0,g,8,g,1,g
+835,cheddars scratch kitchen,fresh steamed broccoli,8,g,0,mg,105,g,6,g,3,g,3.5,g,0,g,3,g,2,g
+836,cheddars scratch kitchen,fresh steamed broccoli gluten free,8,g,0,mg,105,g,6,g,3,g,3.5,g,0,g,3,g,2,g
+837,cheddars scratch kitchen,freshly made coleslaw gluten free,13,g,10,mg,200,g,14,g,1,g,2,g,0,g,1,g,12,g
+838,cheddars scratch kitchen,grande top shelf margarita frozen,0,g,0,mg,30,g,67,g,0,g,0,g,0,g,0,g,62,g
+839,cheddars scratch kitchen,grande top shelf margarita frozen sangria swirl,0,g,0,mg,30,g,65,g,0,g,0,g,0,g,0,g,56,g
+840,cheddars scratch kitchen,grande top shelf margarita frozen strawberry swirl,0,g,0,mg,50,g,85,g,0,g,0,g,0,g,0,g,79,g
+841,cheddars scratch kitchen,grande top shelf margarita rocks,0,g,0,mg,20,g,79,g,0,g,0,g,0,g,0,g,73,g
+842,cheddars scratch kitchen,grande top shelf margarita rocks sangria swirl,0,g,0,mg,20,g,70,g,0,g,0,g,0,g,0,g,60,g
+843,cheddars scratch kitchen,grande top shelf margarita rocks strawberry swirl,0,g,0,mg,45,g,89,g,0,g,0,g,0,g,0,g,82,g
+844,cheddars scratch kitchen,gravy for mashed potatoes,1.5,g,0,mg,110,g,3,g,1,g,1,g,0,g,0,g,1,g
+845,cheddars scratch kitchen,grilled chicken alfredo,79,g,290,mg,2460,g,108,g,63,g,43,g,2,g,8,g,16,g
+846,cheddars scratch kitchen,grilled chicken pecan salad,38,g,160,mg,1200,g,21,g,56,g,13,g,0.5,g,9,g,7,g
+847,cheddars scratch kitchen,grilled chicken pecan salad gluten free,38,g,160,mg,1200,g,21,g,56,g,13,g,0.5,g,9,g,7,g
+848,cheddars scratch kitchen,grilled salmon,30,g,120,mg,1260,g,33,g,44,g,7,g,0,g,1,g,1,g
+849,cheddars scratch kitchen,grilled salmon blackened,30,g,120,mg,1740,g,35,g,44,g,8,g,0,g,1,g,1,g
+850,cheddars scratch kitchen,grilled salmon bourbon glazed,31,g,120,mg,1850,g,70,g,45,g,8,g,0,g,1,g,35,g
+851,cheddars scratch kitchen,grilled salmon gluten free,30,g,120,mg,1260,g,33,g,44,g,7,g,0,g,1,g,1,g
+852,cheddars scratch kitchen,grilled shrimp salad add on,2.5,g,95,mg,390,g,1,g,13,g,1,g,0,g,0,g,0,g
+853,cheddars scratch kitchen,grilled tilapia and shrimp with mango salsa,12,g,170,mg,1920,g,45,g,51,g,5,g,0,g,2,g,8,g
+854,cheddars scratch kitchen,grilled whitefish blackened,15,g,190,mg,2190,g,36,g,53,g,5,g,0,g,2,g,1,g
+855,cheddars scratch kitchen,grilled whitefish lemon pepper,15,g,190,mg,1650,g,34,g,52,g,5,g,0,g,1,g,1,g
+856,cheddars scratch kitchen,half rack of ribs and chicken tenders,93,g,310,mg,2770,g,54,g,92,g,24,g,0.5,g,3,g,29,g
+857,cheddars scratch kitchen,half rack of ribs and fried shrimp,67,g,255,mg,3650,g,70,g,63,g,20,g,0.5,g,4,g,32,g
+858,cheddars scratch kitchen,half rack of ribs and grilled shrimp,51,g,270,mg,3110,g,69,g,64,g,19,g,0.5,g,2,g,43,g
+859,cheddars scratch kitchen,hand breaded fried shrimp,44,g,160,mg,3020,g,79,g,27,g,7,g,0,g,6,g,14,g
+860,cheddars scratch kitchen,hand crafted lemonade raspberry,0,g,0,mg,25,g,39,g,1,g,0,g,0,g,0,g,37,g
+861,cheddars scratch kitchen,hand crafted lemonade strawberry,0,g,0,mg,25,g,44,g,1,g,0,g,0,g,1,g,41,g
+862,cheddars scratch kitchen,hand crafted lemonade traditional,0,g,0,mg,25,g,30,g,1,g,0,g,0,g,0,g,28,g
+863,cheddars scratch kitchen,hard cider,0,g,0,mg,15,g,21,g,0,g,0,g,0,g,0,g,21,g
+864,cheddars scratch kitchen,hickory smoked baby back ribs with honey bbq glaze full rack,91,g,350,mg,3640,g,41,g,97,g,33,g,1,g,1,g,33,g
+865,cheddars scratch kitchen,hickory smoked baby back ribs with honey bbq glaze half rack,45,g,175,mg,1820,g,20,g,49,g,16,g,0,g,1,g,17,g
+866,cheddars scratch kitchen,homemade chicken pot pie,51,g,140,mg,2250,g,59,g,60,g,30,g,0.5,g,4,g,10,g
+867,cheddars scratch kitchen,homemade onion rings,123,g,10,mg,1630,g,137,g,23,g,42,g,0.5,g,11,g,12,g
+868,cheddars scratch kitchen,honey butter croissants 4,56,g,0,mg,500,g,79,g,14,g,24,g,4.5,g,4,g,19,g
+869,cheddars scratch kitchen,honey lime dressing,23,g,20,mg,240,g,16,g,1,g,3.5,g,0,g,0,g,15,g
+870,cheddars scratch kitchen,honey mayo,29,g,25,mg,280,g,6,g,1,g,4.5,g,0,g,0,g,6,g
+871,cheddars scratch kitchen,honey mustard dressing,32,g,25,mg,530,g,20,g,2,g,5,g,0,g,2,g,18,g
+872,cheddars scratch kitchen,hot fudge cake sundae,116,g,240,mg,2000,g,351,g,23,g,56,g,2.5,g,12,g,275,g
+873,cheddars scratch kitchen,house salad dressing not included,9,g,75,mg,210,g,9,g,7,g,4,g,0,g,3,g,3,g
+874,cheddars scratch kitchen,house smoked baby back ribs full rack gluten free,91,g,350,mg,3640,g,41,g,97,g,33,g,1,g,1,g,33,g
+875,cheddars scratch kitchen,house smoked baby back ribs half rack gluten free,45,g,175,mg,1820,g,20,g,49,g,16,g,0,g,1,g,17,g
+876,cheddars scratch kitchen,iced tea mango,0,g,0,mg,15,g,51,g,0,g,0,g,0,g,0,g,49,g
+877,cheddars scratch kitchen,iced tea peach,0,g,0,mg,30,g,51,g,0,g,0,g,0,g,0,g,49,g
+878,cheddars scratch kitchen,iced tea raspberry,0,g,0,mg,25,g,50,g,0,g,0,g,0,g,0,g,48,g
+879,cheddars scratch kitchen,iced tea strawberry,0,g,0,mg,25,g,51,g,0,g,0,g,0,g,0,g,49,g
+880,cheddars scratch kitchen,iced tea sweet,0,g,0,mg,10,g,36,g,0,g,0,g,0,g,0,g,35,g
+881,cheddars scratch kitchen,idaho mashed potatoes,8,g,0,mg,360,g,19,g,3,g,3.5,g,0,g,2,g,2,g
+882,cheddars scratch kitchen,idaho mashed potatoes gluten free,8,g,0,mg,360,g,19,g,3,g,3.5,g,0,g,2,g,2,g
+883,cheddars scratch kitchen,island tiki,0,g,0,mg,10,g,35,g,0,g,0,g,0,g,0,g,32,g
+884,cheddars scratch kitchen,key west chicken and shrimp,10,g,205,mg,2330,g,63,g,49,g,4,g,0,g,2,g,34,g
+885,cheddars scratch kitchen,key west chicken and shrimp gluten free,10,g,205,mg,1880,g,36,g,48,g,4,g,0,g,2,g,8,g
+886,cheddars scratch kitchen,kickin tenders buffalo 4,64,g,175,mg,1710,g,35,g,58,g,12,g,0.5,g,2,g,6,g
+887,cheddars scratch kitchen,kickin tenders buffalo 6,101,g,270,mg,2640,g,53,g,87,g,19,g,1,g,3,g,9,g
+888,cheddars scratch kitchen,kickin tenders honey hot 4,58,g,175,mg,1810,g,57,g,58,g,9,g,0,g,2,g,24,g
+889,cheddars scratch kitchen,kickin tenders honey hot 6,92,g,270,mg,2800,g,85,g,87,g,15,g,0.5,g,3,g,36,g
+890,cheddars scratch kitchen,kids apple juice,0,g,0,mg,35,g,28,g,0,g,0,g,0,g,0,g,28,g
+891,cheddars scratch kitchen,kids barqs root beer,0,g,0,mg,45,g,30,g,0,g,0,g,0,g,0,g,30,g
+892,cheddars scratch kitchen,kids chicken tenders,42,g,135,mg,1050,g,18,g,44,g,7,g,0,g,1,g,2,g
+893,cheddars scratch kitchen,kids coca cola,0,g,0,mg,30,g,26,g,0,g,0,g,0,g,0,g,26,g
+894,cheddars scratch kitchen,kids coke zero sugar,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+895,cheddars scratch kitchen,kids diet coke,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+896,cheddars scratch kitchen,kids diet dr pepper,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+897,cheddars scratch kitchen,kids dr pepper,0,g,0,mg,40,g,26,g,0,g,0,g,0,g,0,g,26,g
+898,cheddars scratch kitchen,kids fanta orange,0,g,0,mg,40,g,30,g,0,g,0,g,0,g,0,g,29,g
+899,cheddars scratch kitchen,kids grilled cheese,24,g,35,mg,990,g,35,g,13,g,12,g,0,g,1,g,4,g
+900,cheddars scratch kitchen,kids grilled chicken,6,g,110,mg,1250,g,21,g,34,g,2.5,g,0,g,1,g,1,g
+901,cheddars scratch kitchen,kids grilled chicken with bbq sauce,7,g,110,mg,1920,g,48,g,34,g,2.5,g,0,g,1,g,25,g
+902,cheddars scratch kitchen,kids junior burger,26,g,65,mg,980,g,29,g,23,g,10,g,1,g,1,g,4,g
+903,cheddars scratch kitchen,kids mac and cheese,32,g,55,mg,1880,g,71,g,22,g,15,g,0.5,g,3,g,6,g
+904,cheddars scratch kitchen,kids milk 2,5,g,20,mg,115,g,12,g,8,g,3,g,0,g,0,g,12,g
+905,cheddars scratch kitchen,kids penne pasta marinara,14,g,5,mg,980,g,63,g,12,g,3.5,g,0,g,4,g,10,g
+906,cheddars scratch kitchen,kids sprite,0,g,0,mg,45,g,25,g,0,g,0,g,0,g,0,g,25,g
+907,cheddars scratch kitchen,lemon pepper chicken,12,g,220,mg,2340,g,35,g,68,g,4.5,g,0,g,1,g,2,g
+908,cheddars scratch kitchen,lemon pepper chicken gluten free,12,g,220,mg,2340,g,35,g,68,g,4.5,g,0,g,1,g,2,g
+909,cheddars scratch kitchen,lemon pepper white fish gluten free,15,g,190,mg,1650,g,34,g,52,g,5,g,0,g,1,g,1,g
+910,cheddars scratch kitchen,lighter side grilled salmon,20,g,75,mg,1060,g,33,g,29,g,5,g,0,g,1,g,1,g
+911,cheddars scratch kitchen,lighter side grilled salmon blackened,21,g,75,mg,1370,g,34,g,29,g,5,g,0,g,1,g,1,g
+912,cheddars scratch kitchen,lighter side grilled salmon bourbon glazed,21,g,75,mg,1510,g,60,g,29,g,5,g,0,g,1,g,27,g
+913,cheddars scratch kitchen,lighter side grilled whitefish blackened,10,g,95,mg,1470,g,35,g,28,g,3.5,g,0,g,1,g,1,g
+914,cheddars scratch kitchen,lighter side grilled whitefish lemon pepper,10,g,95,mg,1200,g,33,g,28,g,3.5,g,0,g,1,g,1,g
+915,cheddars scratch kitchen,lighter side vegetable plate,31,g,170,mg,1430,g,45,g,50,g,7,g,0,g,5,g,12,g
+916,cheddars scratch kitchen,loaded baked potato,22,g,35,mg,720,g,51,g,10,g,11,g,0,g,5,g,4,g
+917,cheddars scratch kitchen,loaded baked potato gluten free,22,g,35,mg,720,g,51,g,10,g,11,g,0,g,5,g,4,g
+918,cheddars scratch kitchen,lunch combo blackened shrimp alfredo,44,g,185,mg,1350,g,62,g,30,g,23,g,1,g,5,g,8,g
+919,cheddars scratch kitchen,lunch combo broccoli cheese chicken,26,g,180,mg,1800,g,25,g,47,g,14,g,0.5,g,3,g,3,g
+920,cheddars scratch kitchen,lunch combo buffalo chicken wrapper fried,74,g,135,mg,2560,g,57,g,42,g,18,g,0.5,g,3,g,7,g
+921,cheddars scratch kitchen,lunch combo buffalo chicken wrapper grilled,60,g,170,mg,2960,g,45,g,46,g,16,g,0.5,g,3,g,7,g
+922,cheddars scratch kitchen,lunch combo cheddars club,31,g,75,mg,1560,g,34,g,24,g,10,g,0,g,1,g,5,g
+923,cheddars scratch kitchen,lunch combo chicken alfredo,38,g,205,mg,1490,g,42,g,46,g,22,g,1,g,2,g,5,g
+924,cheddars scratch kitchen,lunch combo chicken caesar pasta salad,27,g,85,mg,1190,g,25,g,27,g,7,g,0,g,3,g,4,g
+925,cheddars scratch kitchen,lunch combo chicken salad,12,g,85,mg,700,g,22,g,25,g,2.5,g,0,g,2,g,5,g
+926,cheddars scratch kitchen,lunch combo hot turkey sandwich,38,g,135,mg,1900,g,26,g,36,g,19,g,1,g,1,g,4,g
+927,cheddars scratch kitchen,lunch combo loaded nacho potato,32,g,105,mg,1580,g,56,g,29,g,18,g,1,g,6,g,7,g
+928,cheddars scratch kitchen,lunch combo meatloaf sandwich,32,g,135,mg,1970,g,77,g,32,g,13,g,1,g,5,g,27,g
+929,cheddars scratch kitchen,lunch combo monte cristo,42,g,45,mg,1550,g,83,g,22,g,10,g,0,g,4,g,32,g
+930,cheddars scratch kitchen,mac and cheese,12,g,25,mg,820,g,28,g,10,g,6,g,0,g,1,g,2,g
+931,cheddars scratch kitchen,maple bacon chicken sandwich,46,g,170,mg,2290,g,63,g,58,g,17,g,0.5,g,3,g,24,g
+932,cheddars scratch kitchen,marinara,1.5,g,0,mg,340,g,7,g,2,g,0.5,g,0,g,1,g,4,g
+933,cheddars scratch kitchen,maui margarita,0,g,0,mg,55,g,79,g,0,g,0,g,0,g,0,g,74,g
+934,cheddars scratch kitchen,monte cristo,85,g,95,mg,3090,g,132,g,44,g,19,g,0,g,8,g,46,g
+935,cheddars scratch kitchen,new orleans pasta,81,g,345,mg,4490,g,112,g,77,g,37,g,1.5,g,8,g,19,g
+936,cheddars scratch kitchen,passion punch,0,g,0,mg,10,g,26,g,0,g,0,g,0,g,0,g,24,g
+937,cheddars scratch kitchen,philly cheesesteak,67,g,115,mg,3680,g,61,g,35,g,29,g,2.5,g,4,g,9,g
+938,cheddars scratch kitchen,pomegranate vinaigrette,11,g,0,mg,430,g,24,g,0,g,1.5,g,0,g,0,g,23,g
+939,cheddars scratch kitchen,presidente sangria,0,g,0,mg,10,g,28,g,0,g,0,g,0,g,1,g,17,g
+940,cheddars scratch kitchen,queso,16,g,55,mg,730,g,4,g,11,g,10,g,0,g,0,g,2,g
+941,cheddars scratch kitchen,ranch dressing,39,g,35,mg,800,g,4,g,2,g,6,g,0,g,0,g,3,g
+942,cheddars scratch kitchen,red wine 6 oz,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,1,g
+943,cheddars scratch kitchen,red wine bottle,0,g,0,mg,0,g,21,g,1,g,0,g,0,g,0,g,5,g
+944,cheddars scratch kitchen,salsa,0,g,0,mg,510,g,5,g,1,g,0,g,0,g,1,g,3,g
+945,cheddars scratch kitchen,santa fe spinach dip,87,g,185,mg,2460,g,99,g,42,g,41,g,2,g,13,g,17,g
+946,cheddars scratch kitchen,sauteed mushrooms steak add on,11,g,0,mg,590,g,4,g,2,g,5,g,0,g,0,g,1,g
+947,cheddars scratch kitchen,seasoned rice,4,g,0,mg,600,g,26,g,2,g,2,g,0,g,1,g,1,g
+948,cheddars scratch kitchen,seasoned rice gluten free,4,g,0,mg,600,g,26,g,2,g,2,g,0,g,1,g,1,g
+949,cheddars scratch kitchen,shaker margarita,0,g,0,mg,10,g,41,g,0,g,0,g,0,g,0,g,38,g
+950,cheddars scratch kitchen,smokehouse burger,63,g,155,mg,2940,g,88,g,53,g,22,g,2,g,3,g,37,g
+951,cheddars scratch kitchen,smokehouse burger gluten free,37,g,155,mg,2420,g,34,g,43,g,15,g,1.5,g,1,g,29,g
+952,cheddars scratch kitchen,southern chicken salad,31,g,170,mg,1430,g,45,g,50,g,7,g,0,g,5,g,12,g
+953,cheddars scratch kitchen,southern green beans,3,g,5,mg,190,g,8,g,1,g,1,g,0,g,2,g,4,g
+954,cheddars scratch kitchen,southern green beans gluten free,3,g,5,mg,190,g,8,g,1,g,1,g,0,g,2,g,4,g
+955,cheddars scratch kitchen,sparkling wine split,0,g,0,mg,10,g,10,g,1,g,0,g,0,g,0,g,10,g
+956,cheddars scratch kitchen,spicy mango mojito,0,g,0,mg,15,g,47,g,0,g,0,g,0,g,0,g,44,g
+957,cheddars scratch kitchen,spiked cherry limeade,0,g,0,mg,20,g,31,g,0,g,0,g,0,g,0,g,29,g
+958,cheddars scratch kitchen,sprite,0,g,0,mg,65,g,38,g,0,g,0,g,0,g,0,g,38,g
+959,cheddars scratch kitchen,sweet baby carrots,0,g,0,mg,75,g,9,g,1,g,0,g,0,g,3,g,6,g
+960,cheddars scratch kitchen,sweet baby carrots gluten free,0,g,0,mg,75,g,9,g,1,g,0,g,0,g,3,g,6,g
+961,cheddars scratch kitchen,sweet white blush wine 6 oz,0,g,0,mg,10,g,7,g,1,g,0,g,0,g,0,g,7,g
+962,cheddars scratch kitchen,sweet white blush wine bottle,0,g,0,mg,40,g,29,g,3,g,0,g,0,g,0,g,29,g
+963,cheddars scratch kitchen,texas frozen swirl sangria,0,g,0,mg,25,g,53,g,0,g,0,g,0,g,0,g,47,g
+964,cheddars scratch kitchen,texas frozen swirl strawberry,0,g,0,mg,35,g,62,g,0,g,0,g,0,g,0,g,58,g
+965,cheddars scratch kitchen,texas margarita frozen,0,g,0,mg,25,g,53,g,0,g,0,g,0,g,0,g,50,g
+966,cheddars scratch kitchen,texas margarita rocks,0,g,0,mg,15,g,51,g,0,g,0,g,0,g,0,g,48,g
+967,cheddars scratch kitchen,texas nachos beef,109,g,195,mg,3780,g,171,g,65,g,38,g,2,g,17,g,40,g
+968,cheddars scratch kitchen,texas nachos chicken,101,g,280,mg,3740,g,171,g,88,g,34,g,1.5,g,16,g,41,g
+969,cheddars scratch kitchen,texas sweet tea,0,g,0,mg,15,g,32,g,0,g,0,g,0,g,0,g,31,g
+970,cheddars scratch kitchen,the original burger,38,g,115,mg,1650,g,45,g,41,g,14,g,1.5,g,3,g,7,g
+971,cheddars scratch kitchen,the original burger with cheddar cheese,45,g,135,mg,1790,g,46,g,46,g,18,g,2,g,3,g,8,g
+972,cheddars scratch kitchen,the original burger with cheddar cheese gluten free,30,g,135,mg,1310,g,5,g,38,g,13,g,1.5,g,1,g,2,g
+973,cheddars scratch kitchen,the original burger gluten free,22,g,115,mg,1170,g,4,g,33,g,9,g,1.5,g,1,g,2,g
+974,cheddars scratch kitchen,top shelf long island iced tea,0,g,0,mg,10,g,30,g,0,g,0,g,0,g,0,g,28,g
+975,cheddars scratch kitchen,top shelf shaker cabo wabo resposado,0,g,0,mg,10,g,41,g,0,g,0,g,0,g,0,g,38,g
+976,cheddars scratch kitchen,top shelf shaker patron anejo,0,g,0,mg,10,g,41,g,0,g,0,g,0,g,0,g,38,g
+977,cheddars scratch kitchen,top shelf shaker patron silver,0,g,0,mg,10,g,41,g,0,g,0,g,0,g,0,g,38,g
+978,cheddars scratch kitchen,top shelf shaker sauza conmemorativo anejo,0,g,0,mg,10,g,41,g,0,g,0,g,0,g,0,g,38,g
+979,cheddars scratch kitchen,top sirloin steak and grilled shrimp gluten free,23,g,180,mg,1320,g,21,g,37,g,10,g,1,g,1,g,1,g
+980,cheddars scratch kitchen,top sirloin steak and ribs gluten free,63,g,265,mg,2300,g,21,g,71,g,24,g,1,g,1,g,17,g
+981,cheddars scratch kitchen,white wine 6 oz,0,g,0,mg,10,g,4,g,0,g,0,g,0,g,0,g,2,g
+982,cheddars scratch kitchen,white wine bottle,0,g,0,mg,35,g,16,g,1,g,0,g,0,g,0,g,7,g
+983,cheddars scratch kitchen,wisconsin cheese bites,89,g,180,mg,3160,g,49,g,52,g,38,g,1.5,g,5,g,1,g
+984,cheeburger cheeburger,1 4 chocolate waffle sundae,4.5,g,5,mg,120,g,14,g,2,g,2.5,g,0,g,2,g,7,g
+985,cheeburger cheeburger,1 4 chocolate waffle sundae with 3 musketeers sundae syrup,7,g,5,mg,180,g,37,g,3,g,4,g,0,g,2,g,24,g
+986,cheeburger cheeburger,1 4 chocolate waffle sundae with almond syrup,5,g,5,mg,120,g,37,g,2,g,3,g,0,g,2,g,30,g
+987,cheeburger cheeburger,1 4 chocolate waffle sundae with amaretto syrup,5,g,5,mg,120,g,38,g,2,g,3,g,0,g,2,g,30,g
+988,cheeburger cheeburger,1 4 chocolate waffle sundae with apple syrup,5,g,5,mg,120,g,38,g,2,g,3,g,0,g,2,g,29,g
+989,cheeburger cheeburger,1 4 chocolate waffle sundae with apricot syrup,5,g,5,mg,120,g,39,g,2,g,3,g,0,g,2,g,30,g
+990,cheeburger cheeburger,1 4 chocolate waffle sundae with bananas,5,g,5,mg,120,g,40,g,3,g,3,g,0,g,4,g,20,g
+991,cheeburger cheeburger,1 4 chocolate waffle sundae with blackberry syrup,5,g,5,mg,120,g,40,g,2,g,3,g,0,g,2,g,31,g
+992,cheeburger cheeburger,1 4 chocolate waffle sundae with blueberry syrup,5,g,5,mg,120,g,38,g,2,g,3,g,0,g,2,g,30,g
+993,cheeburger cheeburger,1 4 chocolate waffle sundae with butterfinger candy pieces,12,g,5,mg,220,g,44,g,4,g,7,g,0,g,2,g,26,g
+994,cheeburger cheeburger,1 4 chocolate waffle sundae with butterscotch syrup,5,g,5,mg,120,g,206,g,2,g,3,g,0,g,2,g,198,g
+995,cheeburger cheeburger,1 4 chocolate waffle sundae with caramel syrup,5,g,5,mg,230,g,39,g,3,g,3,g,0,g,2,g,26,g
+996,cheeburger cheeburger,1 4 chocolate waffle sundae with caribbean rum syrup,5,g,5,mg,120,g,36,g,2,g,3,g,0,g,2,g,29,g
+997,cheeburger cheeburger,1 4 chocolate waffle sundae with cheesecake mix,9,g,10,mg,460,g,46,g,5,g,6,g,0,g,2,g,35,g
+998,cheeburger cheeburger,1 4 chocolate waffle sundae with cherry syrup,5,g,5,mg,120,g,39,g,2,g,3,g,0,g,2,g,31,g
+999,cheeburger cheeburger,1 4 chocolate waffle sundae with chocolate chip cookie dough,12,g,5,mg,190,g,43,g,3,g,4,g,3,g,2,g,24,g

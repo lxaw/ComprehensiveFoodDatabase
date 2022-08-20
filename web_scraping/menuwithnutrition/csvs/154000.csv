@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,rio grande mexican restaurant,cheese enchiladas,58,g,100,mg,2020,g,105,g,43,g,23,g,0,g,24,g,4,g
+1,rio grande mexican restaurant,cheese enchiladas without tortilla dip,49,g,100,mg,2020,g,105,g,43,g,22,g,0,g,24,g,4,g
+2,rio grande mexican restaurant,cheese enchiladas substitute ranchero sauce,42,g,100,mg,1960,g,103,g,43,g,21,g,0,g,24,g,5,g
+3,rio grande mexican restaurant,chicken enchiladas,50,g,120,mg,2970,g,108,g,46,g,16,g,0,g,26,g,5,g
+4,rio grande mexican restaurant,chicken enchiladas without tortilla dip,41,g,120,mg,2970,g,108,g,46,g,15,g,0,g,26,g,5,g
+5,rio grande mexican restaurant,chicken enchiladas substitute ranchero sauce,34,g,120,mg,2910,g,106,g,46,g,14,g,0,g,26,g,6,g
+6,rio grande mexican restaurant,chicken quesadiilas half,46,g,105,mg,1060,g,39,g,34,g,19,g,0,g,5,g,2,g
+7,rio grande mexican restaurant,chicken quesadiilas whole,91,g,210,mg,2120,g,78,g,67,g,37,g,0,g,11,g,5,g
+8,rio grande mexican restaurant,chicken tacos,33,g,105,mg,2050,g,133,g,55,g,7,g,0,g,24,g,6,g
+9,rio grande mexican restaurant,chicken tacos substitute corn,27,g,105,mg,1760,g,121,g,53,g,6,g,0,g,25,g,6,g
+10,rio grande mexican restaurant,chicken tostada,49,g,155,mg,1520,g,64,g,63,g,18,g,0,g,28,g,10,g
+11,rio grande mexican restaurant,chicken tostada without shell or cheese,22,g,105,mg,1140,g,49,g,50,g,5,g,0,g,28,g,10,g
+12,rio grande mexican restaurant,diabla appetizer with corn tortillas,9,g,75,mg,550,g,41,g,13,g,4.5,g,0,g,4,g,15,g
+13,rio grande mexican restaurant,diabla appetizer with flour tortilas,18,g,75,mg,980,g,59,g,15,g,6,g,0,g,3,g,15,g
+14,rio grande mexican restaurant,diabla appetizer without tortillas,7,g,75,mg,540,g,17,g,10,g,4.5,g,0,g,1,g,15,g
+15,rio grande mexican restaurant,garden salad with balsamic dressing,62,g,0,mg,1390,g,47,g,8,g,9,g,0,g,10,g,15,g
+16,rio grande mexican restaurant,garden salad with citrus dressing,31,g,0,mg,380,g,55,g,9,g,4,g,0,g,10,g,18,g
+17,rio grande mexican restaurant,garden salad with house dressing,42,g,10,mg,900,g,53,g,10,g,6,g,0,g,9,g,12,g
+18,rio grande mexican restaurant,garden salad with without dressing,28,g,0,mg,270,g,40,g,8,g,3.5,g,0,g,9,g,7,g
+19,rio grande mexican restaurant,grilled chicken burrito with green chile sauce,47,g,155,mg,1430,g,40,g,53,g,17,g,0,g,4,g,5,g
+20,rio grande mexican restaurant,grilled chicken burrito with ranchero,44,g,155,mg,1480,g,40,g,53,g,17,g,0,g,4,g,6,g
+21,rio grande mexican restaurant,grilled chicken burrito with spicy green chile sauce,45,g,155,mg,1550,g,40,g,53,g,17,g,0,g,4,g,6,g
+22,rio grande mexican restaurant,grilled chicken burrito with veggie green chile sauce,48,g,155,mg,1390,g,41,g,53,g,17,g,0,g,4,g,6,g
+23,rio grande mexican restaurant,grilled chicken burrito without sauce,41,g,155,mg,1180,g,34,g,52,g,16,g,0,g,3,g,3,g
+24,rio grande mexican restaurant,grilled chicken salad with balsamic dressing,79,g,105,mg,1960,g,48,g,41,g,14,g,0,g,10,g,15,g
+25,rio grande mexican restaurant,grilled chicken salad with citrus dressing,47,g,105,mg,950,g,56,g,41,g,8,g,0,g,10,g,18,g
+26,rio grande mexican restaurant,grilled chicken salad with house dressing,59,g,120,mg,1470,g,54,g,43,g,10,g,0,g,10,g,12,g
+27,rio grande mexican restaurant,grilled chicken salad without dressing,45,g,105,mg,840,g,41,g,41,g,8,g,0,g,9,g,7,g
+28,rio grande mexican restaurant,grilled shrimp fajita with corn tortillas single,35,g,95,mg,1360,g,105,g,33,g,13,g,0,g,26,g,8,g
+29,rio grande mexican restaurant,grilled shrimp fajita with flour tortillas single,44,g,95,mg,1790,g,123,g,36,g,14,g,0,g,24,g,8,g
+30,rio grande mexican restaurant,grilled shrimp fajita without tortillas large,39,g,120,mg,1870,g,120,g,40,g,14,g,0,g,32,g,12,g
+31,rio grande mexican restaurant,grilled shrimp fajitas with corn tortillas large,41,g,120,mg,1880,g,152,g,44,g,14,g,0,g,36,g,12,g
+32,rio grande mexican restaurant,grilled shrimp fajitas with flour tortillas large,54,g,120,mg,2450,g,176,g,48,g,16,g,0,g,34,g,13,g
+33,rio grande mexican restaurant,grilled shrimp fajitas without tortillas cheese or sour cream single,23,g,70,mg,1270,g,80,g,26,g,7,g,0,g,23,g,8,g
+34,rio grande mexican restaurant,grilled shrimp fajitas without tortillas single,33,g,95,mg,1360,g,81,g,30,g,13,g,0,g,23,g,8,g
+35,rio grande mexican restaurant,guacamoke appetizer without chips,42,g,0,mg,590,g,31,g,8,g,6,g,0,g,21,g,4,g
+36,rio grande mexican restaurant,guacamola tostada,41,g,40,mg,1100,g,72,g,32,g,13,g,0,g,35,g,11,g
+37,rio grande mexican restaurant,guacamole tostada without shell or cheese,20,g,0,mg,710,g,58,g,19,g,3,g,0,g,34,g,11,g
+38,rio grande mexican restaurant,huevos rancheros,41,g,435,mg,2010,g,160,g,43,g,9,g,0,g,27,g,7,g
+39,rio grande mexican restaurant,huevos rancheros without flour tortillas,26,g,435,mg,1430,g,104,g,36,g,7,g,0,g,25,g,6,g
+40,rio grande mexican restaurant,huevos rancheros without flour tortillas or cheese,22,g,425,mg,1350,g,103,g,32,g,4.5,g,0,g,25,g,6,g
+41,rio grande mexican restaurant,mahi salad wihout dressing,38,g,105,mg,770,g,46,g,35,g,5,g,0,g,10,g,11,g
+42,rio grande mexican restaurant,mahi salad with balsamic dressing,72,g,105,mg,1890,g,53,g,35,g,11,g,0,g,10,g,18,g
+43,rio grande mexican restaurant,mahi salad with citrus dressing,41,g,105,mg,880,g,60,g,35,g,5,g,0,g,11,g,22,g
+44,rio grande mexican restaurant,mahi salad with house dressing,52,g,115,mg,1400,g,58,g,37,g,7,g,0,g,10,g,16,g
+45,rio grande mexican restaurant,mahi tacos,32,g,100,mg,1120,g,111,g,34,g,7,g,0,g,11,g,12,g
+46,rio grande mexican restaurant,pork burrito with green chile sauce,51,g,140,mg,1050,g,41,g,45,g,19,g,0,g,4,g,5,g
+47,rio grande mexican restaurant,pork burrito with ranchero sauce,48,g,140,mg,1110,g,41,g,45,g,19,g,0,g,4,g,6,g
+48,rio grande mexican restaurant,pork burrito with spicy green chile sauce,49,g,140,mg,1170,g,41,g,45,g,19,g,0,g,4,g,6,g
+49,rio grande mexican restaurant,pork burrito with veggie green chile sauce,52,g,140,mg,1020,g,42,g,45,g,19,g,0,g,4,g,6,g
+50,rio grande mexican restaurant,pork burrito without sauce,46,g,140,mg,800,g,35,g,44,g,19,g,0,g,3,g,4,g
+51,rio grande mexican restaurant,pork tacos,34,g,70,mg,1810,g,136,g,42,g,8,g,0,g,25,g,8,g
+52,rio grande mexican restaurant,pork tacos substitute corn,28,g,70,mg,1520,g,124,g,40,g,7,g,0,g,26,g,8,g
+53,rio grande mexican restaurant,portobello salad with balsamic dressing,76,g,0,mg,2280,g,52,g,12,g,12,g,0,g,11,g,15,g
+54,rio grande mexican restaurant,portobello salad with citrus dressing,45,g,0,mg,1270,g,60,g,12,g,6,g,0,g,11,g,18,g
+55,rio grande mexican restaurant,portobello salad with house dressing,56,g,10,mg,1790,g,58,g,13,g,8,g,0,g,11,g,12,g
+56,rio grande mexican restaurant,portobello salad without dressing,43,g,0,mg,1160,g,46,g,11,g,6,g,0,g,10,g,7,g
+57,rio grande mexican restaurant,seafood enchiladas,51,g,185,mg,2220,g,103,g,59,g,18,g,0,g,24,g,3,g
+58,rio grande mexican restaurant,seafood enchiladas without tortilla dip,42,g,185,mg,2220,g,103,g,59,g,16,g,0,g,24,g,3,g
+59,rio grande mexican restaurant,seafood enchiladas substitute ranchero sauce,35,g,185,mg,2160,g,101,g,59,g,15,g,0,g,24,g,4,g
+60,rio grande mexican restaurant,shrimp diabla fajita with corn tortillas large,47,g,140,mg,2070,g,164,g,46,g,20,g,0,g,38,g,26,g
+61,rio grande mexican restaurant,shrimp diabla fajita with corn tortillas single,43,g,120,mg,1650,g,124,g,36,g,19,g,0,g,28,g,25,g
+62,rio grande mexican restaurant,shrimp diabla fajita with flour tortillas large,60,g,140,mg,2640,g,188,g,50,g,22,g,0,g,36,g,26,g
+63,rio grande mexican restaurant,shrimp diabla fajita with flour tortillas single,53,g,120,mg,2080,g,143,g,39,g,21,g,0,g,27,g,25,g
+64,rio grande mexican restaurant,shrimp diabla fajita without tortillas cheese or sour cream single,24,g,30,mg,1370,g,87,g,22,g,9,g,0,g,25,g,13,g
+65,rio grande mexican restaurant,shrimp diabla fajita without tortillas large,45,g,140,mg,2060,g,132,g,42,g,20,g,0,g,34,g,26,g
+66,rio grande mexican restaurant,shrimp diabla fajita without tortillas single,42,g,120,mg,1640,g,100,g,33,g,19,g,0,g,25,g,25,g
+67,rio grande mexican restaurant,shrimp salad with balsamic dressing,65,g,55,mg,1560,g,48,g,15,g,11,g,0,g,10,g,15,g
+68,rio grande mexican restaurant,shrimp salad with citrus dressing,34,g,55,mg,550,g,55,g,16,g,5,g,0,g,10,g,18,g
+69,rio grande mexican restaurant,shrimp salad with house dressing,45,g,70,mg,1070,g,53,g,17,g,7,g,0,g,9,g,12,g
+70,rio grande mexican restaurant,shrimp salad without dressing,31,g,55,mg,430,g,41,g,15,g,5,g,0,g,9,g,7,g
+71,rio grande mexican restaurant,shrimp tacos,25,g,75,mg,1210,g,105,g,20,g,8,g,0,g,9,g,10,g
+72,rio grande mexican restaurant,shrimp tacos substitute corn,19,g,75,mg,930,g,93,g,18,g,7,g,0,g,10,g,9,g
+73,rio grande mexican restaurant,side salad with balsamic dressing and chicken,44,g,105,mg,1270,g,22,g,36,g,9,g,0,g,3,g,8,g
+74,rio grande mexican restaurant,side salad with balsamic dressing and cup of tortilla soup,35,g,5,mg,800,g,33,g,6,g,6,g,0,g,6,g,9,g
+75,rio grande mexican restaurant,side salad with balsamic dressing and mahi,37,g,105,mg,1190,g,27,g,30,g,6,g,0,g,4,g,11,g
+76,rio grande mexican restaurant,side salad with balsamic dressing and portobello,42,g,0,mg,1580,g,27,g,7,g,7,g,0,g,4,g,7,g
+77,rio grande mexican restaurant,side salad with balsamic dressing and shrimp,30,g,55,mg,860,g,22,g,11,g,6,g,0,g,3,g,7,g
+78,rio grande mexican restaurant,side salad with citrus dressing and chicken,28,g,105,mg,760,g,26,g,37,g,6,g,0,g,4,g,9,g
+79,rio grande mexican restaurant,side salad with citrus dressing and cup of tortilla soup,19,g,5,mg,290,g,37,g,6,g,2.5,g,0,g,6,g,10,g
+80,rio grande mexican restaurant,side salad with citrus dressing and mahi,21,g,105,mg,690,g,31,g,30,g,3,g,0,g,4,g,13,g
+81,rio grande mexican restaurant,side salad with citrus dressing and portobello,26,g,0,mg,1080,g,31,g,7,g,4,g,0,g,5,g,9,g
+82,rio grande mexican restaurant,side salad with citrus dressing and shrimp,15,g,55,mg,350,g,26,g,11,g,3,g,0,g,3,g,9,g
+83,rio grande mexican restaurant,side salad with house dressing and chicken,34,g,110,mg,1020,g,25,g,37,g,7,g,0,g,3,g,6,g
+84,rio grande mexican restaurant,side salad with house dressing and cup of tortilla soup,25,g,10,mg,550,g,36,g,7,g,3.5,g,0,g,5,g,7,g
+85,rio grande mexican restaurant,side salad with house dressing and mahi,27,g,110,mg,950,g,30,g,31,g,3.5,g,0,g,4,g,10,g
+86,rio grande mexican restaurant,side salad with house dressing and portobello,32,g,5,mg,1340,g,30,g,8,g,5,g,0,g,4,g,6,g
+87,rio grande mexican restaurant,side salad with house dressing and shrimp,20,g,60,mg,610,g,25,g,11,g,4,g,0,g,3,g,6,g
+88,rio grande mexican restaurant,side salad without dressing and chicken,27,g,105,mg,700,g,19,g,36,g,6,g,0,g,3,g,4,g
+89,rio grande mexican restaurant,side salad without dressing and cup of tortilla soup,18,g,5,mg,240,g,29,g,6,g,2.5,g,0,g,5,g,5,g
+90,rio grande mexican restaurant,side salad without dressing and mahi,20,g,105,mg,630,g,23,g,30,g,2.5,g,0,g,4,g,7,g
+91,rio grande mexican restaurant,side salad without dressing and portobello,25,g,0,mg,1020,g,23,g,7,g,3.5,g,0,g,4,g,4,g
+92,rio grande mexican restaurant,side salad without dressing and shrimp,13,g,55,mg,300,g,18,g,10,g,2.5,g,0,g,3,g,3,g
+93,rio grande mexican restaurant,spiced chicken burrito with green chile sauce,38,g,135,mg,2590,g,46,g,36,g,15,g,0,g,5,g,7,g
+94,rio grande mexican restaurant,spiced chicken burrito with ranchero sauce,35,g,135,mg,2640,g,45,g,35,g,14,g,0,g,6,g,8,g
+95,rio grande mexican restaurant,spiced chicken burrito with spicy green chile sauce,36,g,135,mg,2710,g,45,g,36,g,14,g,0,g,6,g,8,g
+96,rio grande mexican restaurant,spiced chicken burrito with veggie green chile sauce,39,g,135,mg,2550,g,47,g,36,g,15,g,0,g,5,g,7,g
+97,rio grande mexican restaurant,spiced chicken burrito without sauce,32,g,135,mg,2340,g,39,g,34,g,14,g,0,g,4,g,5,g
+98,rio grande mexican restaurant,spinach enchiladas,51,g,40,mg,2760,g,120,g,32,g,14,g,0,g,30,g,10,g
+99,rio grande mexican restaurant,spinach enchiladas without tortilla dip,42,g,40,mg,2760,g,120,g,32,g,13,g,0,g,30,g,10,g
+100,rio grande mexican restaurant,spinach enchiladas substitute ranchero sauce,35,g,40,mg,2700,g,119,g,31,g,12,g,0,g,30,g,11,g
+101,rio grande mexican restaurant,steak burrito with green chile sauce,49,g,150,mg,1880,g,44,g,52,g,20,g,0,g,3,g,7,g
+102,rio grande mexican restaurant,steak burrito with ranchero sauce,46,g,150,mg,1930,g,43,g,52,g,20,g,0,g,4,g,8,g
+103,rio grande mexican restaurant,steak burrito with spicy green chile sauce,47,g,150,mg,2000,g,44,g,52,g,20,g,0,g,4,g,8,g
+104,rio grande mexican restaurant,steak burrito with veggie green chile sauce,50,g,150,mg,1840,g,45,g,52,g,20,g,0,g,4,g,8,g
+105,rio grande mexican restaurant,steak burrito without sauce,43,g,150,mg,1630,g,37,g,51,g,19,g,0,g,3,g,6,g
+106,rio grande mexican restaurant,steak enchiladas,59,g,130,mg,2370,g,106,g,57,g,20,g,0,g,24,g,5,g
+107,rio grande mexican restaurant,steak enchiladas without tortilla dip,50,g,130,mg,2370,g,106,g,57,g,19,g,0,g,24,g,5,g
+108,rio grande mexican restaurant,steak enchiladas substitute ranchero sauce,43,g,130,mg,2310,g,105,g,57,g,18,g,0,g,24,g,6,g
+109,rio grande mexican restaurant,steak fajita with corn tortillas single,48,g,145,mg,1820,g,113,g,69,g,19,g,0,g,26,g,15,g
+110,rio grande mexican restaurant,steak fajita with flour tortillas single,58,g,145,mg,2250,g,131,g,71,g,20,g,0,g,24,g,15,g
+111,rio grande mexican restaurant,steak fajita without corn tortillas large,62,g,200,mg,2620,g,164,g,100,g,23,g,0,g,37,g,24,g
+112,rio grande mexican restaurant,steak fajita without flour tortillas large,75,g,200,mg,3190,g,189,g,104,g,25,g,0,g,35,g,24,g
+113,rio grande mexican restaurant,steak fajita without tortillas cheese sour cream or guacamole single,36,g,120,mg,1730,g,88,g,61,g,12,g,0,g,23,g,15,g
+114,rio grande mexican restaurant,steak fajita without tortillas large,60,g,200,mg,2610,g,132,g,96,g,23,g,0,g,33,g,24,g
+115,rio grande mexican restaurant,steak fajita without tortillas single,47,g,145,mg,1820,g,89,g,66,g,19,g,0,g,23,g,15,g
+116,rio grande mexican restaurant,steak quesadiilas half,49,g,115,mg,1360,g,41,g,36,g,21,g,0,g,5,g,4,g
+117,rio grande mexican restaurant,steak quesadiilas whole,98,g,230,mg,2720,g,82,g,73,g,42,g,0,g,11,g,7,g
+118,rio grande mexican restaurant,steak salad with balsamic dressing,77,g,95,mg,1960,g,55,g,47,g,16,g,0,g,10,g,21,g
+119,rio grande mexican restaurant,steak salad with citrus dressing,46,g,95,mg,950,g,62,g,47,g,11,g,0,g,10,g,25,g
+120,rio grande mexican restaurant,steak salad with house dressing,57,g,105,mg,1470,g,61,g,49,g,12,g,0,g,10,g,18,g
+121,rio grande mexican restaurant,steak salad without dressing,43,g,95,mg,840,g,48,g,47,g,10,g,0,g,9,g,14,g
+122,rio grande mexican restaurant,steak tacos,30,g,80,mg,2150,g,139,g,55,g,8,g,0,g,25,g,8,g
+123,rio grande mexican restaurant,steak tacos substitute corn,24,g,80,mg,1870,g,127,g,54,g,7,g,0,g,26,g,8,g
+124,rio grande mexican restaurant,steak tostada,45,g,100,mg,1650,g,69,g,50,g,16,g,0,g,31,g,11,g
+125,rio grande mexican restaurant,steak tostada without shell or cheese,23,g,60,mg,1250,g,55,g,38,g,6,g,0,g,30,g,11,g
+126,rio grande mexican restaurant,tortilla soup bowl,10,g,5,mg,200,g,19,g,5,g,2,g,0,g,4,g,3,g
+127,rio grande mexican restaurant,tortilla soup cup,7,g,5,mg,105,g,11,g,3,g,1.5,g,0,g,2,g,2,g
+128,rio grande mexican restaurant,veggie fajita with corn tortillas large,51,g,40,mg,2540,g,157,g,38,g,15,g,0,g,38,g,13,g
+129,rio grande mexican restaurant,veggie fajita with corn tortillas single,46,g,40,mg,2090,g,110,g,30,g,14,g,0,g,27,g,8,g
+130,rio grande mexican restaurant,veggie fajita with flour tortillas large,64,g,40,mg,3120,g,181,g,41,g,16,g,0,g,36,g,13,g
+131,rio grande mexican restaurant,veggie fajita with flour tortillas single,55,g,40,mg,2520,g,128,g,32,g,15,g,0,g,25,g,8,g
+132,rio grande mexican restaurant,veggie fajita without tortillas cheese sour cream or guacamole single,27,g,15,mg,1920,g,81,g,21,g,7,g,0,g,21,g,8,g
+133,rio grande mexican restaurant,veggie fajita without tortillas large,49,g,40,mg,2540,g,125,g,34,g,15,g,0,g,34,g,13,g
+134,rio grande mexican restaurant,veggie fajita without tortillas single,44,g,40,mg,2080,g,86,g,27,g,14,g,0,g,24,g,8,g
+135,rio grande mexican restaurant,veggie quesadiilas half,41,g,65,mg,1240,g,42,g,22,g,18,g,0,g,7,g,3,g
+136,rio grande mexican restaurant,veggie quesadiilas whole,83,g,135,mg,2490,g,85,g,44,g,35,g,0,g,14,g,6,g
+137,robins donuts,10 inch flour tortilla,3,g,0,mg,430,g,26,g,4,g,0,g,0,g,2,g,0,g
+138,robins donuts,all day wraps egg and cheese,10,g,170,mg,980,g,30,g,15,g,4,g,0,g,2,g,2,g
+139,robins donuts,all day wraps egg cheese and bacon,20,g,180,mg,1270,g,31,g,17,g,7,g,0,g,2,g,2,g
+140,robins donuts,all day wraps egg cheese and ham,11,g,180,mg,1250,g,31,g,20,g,4,g,0,g,2,g,2,g
+141,robins donuts,all day wraps egg cheese and sausage,28,g,185,mg,1520,g,36,g,21,g,10,g,0,g,2,g,3,g
+142,robins donuts,apple strudel,22,g,0,mg,300,g,49,g,4,g,9,g,0,g,2,g,20,g
+143,robins donuts,bagels blueberry,2,g,0,mg,510,g,66,g,11,g,0,g,0,g,3,g,7,g
+144,robins donuts,bagels cheese,3.5,g,5,mg,720,g,54,g,11,g,1.5,g,0,g,3,g,2,g
+145,robins donuts,bagels cinnamon raisin,1.5,g,0,mg,440,g,65,g,10,g,0,g,0,g,4,g,6,g
+146,robins donuts,bagels everything,2,g,0,mg,680,g,63,g,10,g,0,g,0,g,3,g,4,g
+147,robins donuts,bagels multigrain,6,g,0,mg,560,g,64,g,12,g,0,g,0,g,5,g,3,g
+148,robins donuts,bagels plain,1.5,g,0,mg,710,g,57,g,10,g,0,g,0,g,3,g,2,g
+149,robins donuts,bagels pretzel,4,g,0,mg,530,g,56,g,9,g,0.5,g,0,g,2,g,6,g
+150,robins donuts,bagels sesame seed,4.5,g,0,mg,590,g,60,g,11,g,0,g,0,g,3,g,3,g
+151,robins donuts,bagels whole wheat,2.5,g,0,mg,620,g,66,g,11,g,0,g,0,g,10,g,7,g
+152,robins donuts,biscuits blueberry,16,g,0,mg,590,g,47,g,8,g,3,g,0,g,2,g,8,g
+153,robins donuts,biscuits cheese,21,g,30,mg,700,g,45,g,11,g,6,g,0,g,1,g,7,g
+154,robins donuts,biscuits cinnamon sugar,16,g,0,mg,590,g,65,g,8,g,3,g,0,g,3,g,24,g
+155,robins donuts,biscuits plain,16,g,0,mg,590,g,45,g,8,g,3,g,0,g,1,g,7,g
+156,robins donuts,biscuits raisin,16,g,0,mg,590,g,57,g,8,g,3,g,0,g,2,g,16,g
+157,robins donuts,breakfast bagels b l t bagel,17,g,175,mg,1280,g,64,g,23,g,5,g,0,g,5,g,4,g
+158,robins donuts,breakfast bagels bacon and egg bagel,29,g,195,mg,1420,g,63,g,27,g,10,g,0,g,4,g,3,g
+159,robins donuts,breakfast bagels egg and cheese bagel,14,g,165,mg,1150,g,64,g,20,g,4,g,0,g,5,g,4,g
+160,robins donuts,breakfast bagels sausage egg and cheese,21,g,25,mg,970,g,61,g,16,g,4,g,0,g,5,g,3,g
+161,robins donuts,breakfast sandwiches bacon egg and cheese,24,g,180,mg,1140,g,30,g,17,g,10,g,0,g,1,g,6,g
+162,robins donuts,breakfast sandwiches bbq steak egg and cheese,17,g,165,mg,990,g,32,g,21,g,8,g,0,g,1,g,8,g
+163,robins donuts,breakfast sandwiches egg and cheese,14,g,170,mg,850,g,29,g,15,g,7,g,0,g,1,g,6,g
+164,robins donuts,breakfast sandwiches ham egg and cheese,18,g,170,mg,910,g,29,g,15,g,7,g,0,g,1,g,6,g
+165,robins donuts,breakfast sandwiches rwa chorizo sausage egg and cheese,34,g,215,mg,1190,g,30,g,21,g,11,g,0,g,2,g,7,g
+166,robins donuts,breakfast sandwiches sausage egg and cheese,32,g,185,mg,1390,g,35,g,21,g,13,g,0,g,1,g,7,g
+167,robins donuts,cafe mocha chilla,4.5,g,10,mg,290,g,57,g,2,g,3,g,0,g,1,g,37,g
+168,robins donuts,carrot cake,36,g,55,mg,360,g,92,g,6,g,7,g,0,g,4,g,64,g
+169,robins donuts,cheese danish,16,g,45,mg,400,g,42,g,6,g,7,g,0,g,1,g,17,g
+170,robins donuts,chef salad,5,g,25,mg,500,g,12,g,11,g,3,g,0,g,4,g,7,g
+171,robins donuts,chocolate banana chilla,4.5,g,10,mg,290,g,70,g,2,g,3,g,0,g,3,g,44,g
+172,robins donuts,chocolate cake donuts chocolate glaze,21,g,15,mg,560,g,47,g,5,g,10,g,0,g,2,g,24,g
+173,robins donuts,chocolate cake donuts double chocolate,21,g,15,mg,560,g,44,g,5,g,10,g,0,g,2,g,19,g
+174,robins donuts,chocolate cake donuts peanut crunch chocolate,26,g,15,mg,560,g,46,g,7,g,10,g,0,g,3,g,21,g
+175,robins donuts,chocolate cake donuts toasted coconut chocolate,23,g,15,mg,560,g,46,g,5,g,12,g,0,g,2,g,21,g
+176,robins donuts,chocolate cake donuts white coconut chocolate,24,g,15,mg,560,g,45,g,5,g,13,g,0,g,3,g,21,g
+177,robins donuts,cini mini,12,g,5,mg,135,g,31,g,3,g,6,g,0,g,1,g,15,g
+178,robins donuts,cinnamon bun,15,g,30,mg,320,g,58,g,9,g,3,g,0,g,3,g,14,g
+179,robins donuts,classic sandwiches chunky egg salad,22,g,350,mg,1010,g,53,g,20,g,5,g,0,g,3,g,3,g
+180,robins donuts,classic sandwiches cranberry chicken salad,31,g,45,mg,1250,g,56,g,22,g,4.5,g,0,g,3,g,7,g
+181,robins donuts,classic sandwiches hearty tuna salad,31,g,55,mg,1060,g,52,g,25,g,4.5,g,0,g,3,g,3,g
+182,robins donuts,classic sandwiches robins special,7,g,30,mg,1290,g,54,g,21,g,2,g,0,g,3,g,4,g
+183,robins donuts,classic sandwiches smoked turkey,6,g,30,mg,1440,g,56,g,22,g,1,g,0,g,3,g,4,g
+184,robins donuts,classic sandwichwes classic b l t,20,g,25,mg,940,g,52,g,15,g,4,g,0,g,3,g,3,g
+185,robins donuts,classic sandwichwes ham and swiss,10,g,45,mg,1530,g,52,g,26,g,4.5,g,0,g,3,g,2,g
+186,robins donuts,coffee chilla,12,g,10,mg,340,g,49,g,3,g,9,g,0,g,0,g,37,g
+187,robins donuts,cold beverages grape crystal,0,g,0,mg,0,g,37,g,0,g,0,g,0,g,0,g,37,g
+188,robins donuts,cold beverages peach crystal,0,g,0,mg,0,g,37,g,0,g,0,g,0,g,0,g,37,g
+189,robins donuts,cookie chocolate chip,11,g,15,mg,180,g,35,g,3,g,6,g,0,g,1,g,22,g
+190,robins donuts,cookie oatmeal raisin,10,g,15,mg,190,g,34,g,3,g,6,g,0,g,2,g,19,g
+191,robins donuts,cookie peanut butter,14,g,15,mg,250,g,30,g,5,g,5,g,0,g,1,g,18,g
+192,robins donuts,cookie triple chocolate,12,g,15,mg,160,g,35,g,3,g,6,g,0,g,1,g,21,g
+193,robins donuts,cookie white chocolate macademia,13,g,20,mg,190,g,33,g,3,g,6,g,0,g,1,g,21,g
+194,robins donuts,cream cheese herbs and garlic,7,g,20,mg,120,g,2,g,2,g,4,g,0,g,0,g,2,g
+195,robins donuts,cream cheese light,2.5,g,10,mg,90,g,1,g,2,g,1.5,g,0,g,0,g,1,g
+196,robins donuts,cream cheese regular,4.5,g,15,mg,75,g,1,g,1,g,3,g,0,g,0,g,1,g
+197,robins donuts,cream 18,2,g,5,mg,10,g,0,g,0,g,1,g,0,g,0,g,0,g
+198,robins donuts,dutch mocha iced cappuccino,10,g,0,mg,420,g,81,g,2,g,2.5,g,4.5,g,0,g,41,g
+199,robins donuts,finger blueberry and cheese strudel,8,g,5,mg,135,g,20,g,2,g,3.5,g,0,g,1,g,9,g
+200,robins donuts,finger strawberry and cheese strudel,8,g,5,mg,140,g,18,g,2,g,3.5,g,0,g,1,g,7,g
+201,robins donuts,french cruller glazed donut,9,g,15,mg,190,g,19,g,2,g,4.5,g,0,g,0,g,11,g
+202,robins donuts,french vanilla cappuccino,9,g,0,mg,310,g,42,g,1,g,7,g,0,g,0,g,31,g
+203,robins donuts,french vanilla iced cappuccino,10,g,0,mg,370,g,81,g,1,g,2.5,g,4.5,g,0,g,41,g
+204,robins donuts,fruit salad,1,g,0,mg,10,g,31,g,3,g,0,g,0,g,6,g,23,g
+205,robins donuts,garden salad,5,g,15,mg,135,g,11,g,6,g,3,g,0,g,4,g,6,g
+206,robins donuts,hash brown,8,g,0,mg,250,g,17,g,1,g,1,g,0,g,1,g,0,g
+207,robins donuts,hazelnut coffee chilla,12,g,10,mg,340,g,53,g,3,g,9,g,0,g,0,g,41,g
+208,robins donuts,homemade yogurt parfait cup,3.5,g,0,mg,115,g,40,g,17,g,1,g,0,g,3,g,29,g
+209,robins donuts,hot chocolate,4,g,0,mg,180,g,30,g,2,g,4,g,0,g,0,g,25,g
+210,robins donuts,iced chocolate,1.5,g,0,mg,210,g,38,g,1,g,1,g,0,g,1,g,24,g
+211,robins donuts,iced coffee with regular cream and syrup,2.5,g,10,mg,20,g,12,g,1,g,1.5,g,0,g,0,g,12,g
+212,robins donuts,iced tea crystal,0,g,0,mg,0,g,30,g,0,g,0,g,0,g,0,g,30,g
+213,robins donuts,jello cup,8,g,0,mg,210,g,39,g,4,g,7,g,0,g,0,g,38,g
+214,robins donuts,klondike chili,3.5,g,30,mg,1130,g,32,g,19,g,2,g,0,g,10,g,6,g
+215,robins donuts,lemon smoothie,0,g,0,mg,5,g,34,g,0,g,0,g,0,g,0,g,31,g
+216,robins donuts,low fat bran muffins plain,4,g,0,mg,700,g,73,g,6,g,0,g,0,g,3,g,37,g
+217,robins donuts,mango smoothie,0,g,0,mg,0,g,36,g,0,g,0,g,0,g,0,g,35,g
+218,robins donuts,maple pecan danish,21,g,20,mg,220,g,35,g,4,g,7,g,0,g,1,g,11,g
+219,robins donuts,maple stick,19,g,0,mg,330,g,44,g,5,g,8,g,0,g,2,g,16,g
+220,robins donuts,milk 2,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+221,robins donuts,mocha java,2.5,g,5,mg,60,g,13,g,1,g,1.5,g,0,g,0,g,8,g
+222,robins donuts,muffins banana,20,g,50,mg,240,g,61,g,6,g,2,g,0,g,3,g,34,g
+223,robins donuts,muffins berry extreme,20,g,40,mg,200,g,59,g,5,g,2,g,0,g,1,g,28,g
+224,robins donuts,muffins blueberry,19,g,30,mg,310,g,59,g,5,g,2,g,0,g,1,g,29,g
+225,robins donuts,muffins carrot,17,g,45,mg,270,g,61,g,5,g,1.5,g,0,g,4,g,36,g
+226,robins donuts,muffins chocolate chip,22,g,30,mg,290,g,63,g,5,g,2.5,g,0,g,1,g,32,g
+227,robins donuts,muffins lemon cranberry,19,g,30,mg,330,g,59,g,5,g,2,g,0,g,1,g,28,g
+228,robins donuts,muffins morning glory,22,g,40,mg,260,g,65,g,5,g,2,g,0,g,4,g,38,g
+229,robins donuts,muffins raisin bran,11,g,25,mg,710,g,66,g,5,g,0.5,g,0,g,6,g,34,g
+230,robins donuts,oatmeal bars blueberry,17,g,0,mg,290,g,67,g,8,g,5,g,0,g,4,g,28,g
+231,robins donuts,oatmeal bars chocolate chip,21,g,0,mg,300,g,77,g,8,g,9,g,0.5,g,4,g,38,g
+232,robins donuts,oatmeal bars cranberry,14,g,0,mg,260,g,68,g,8,g,4,g,0,g,4,g,22,g
+233,robins donuts,oatmeal bars raisin,14,g,0,mg,260,g,78,g,8,g,4,g,0,g,4,g,32,g
+234,robins donuts,others ham,1,g,10,mg,270,g,1,g,5,g,0,g,0,g,0,g,0,g
+235,robins donuts,panini sandwiches honey ham and swiss,13,g,40,mg,1840,g,58,g,25,g,4,g,0,g,2,g,7,g
+236,robins donuts,panini sandwiches margherita chicken,35,g,65,mg,1450,g,55,g,28,g,9,g,0,g,3,g,6,g
+237,robins donuts,panini sandwiches steak and cheese,16,g,10,mg,1370,g,59,g,27,g,5,g,0,g,3,g,8,g
+238,robins donuts,panini sandwiches tuscan turkey club,34,g,50,mg,1600,g,57,g,24,g,8,g,0,g,3,g,5,g
+239,robins donuts,peppermint mocha cappuccino,7,g,5,mg,190,g,48,g,2,g,6,g,0,g,1,g,35,g
+240,robins donuts,pumpkin spice cappuccino,6,g,5,mg,220,g,45,g,1,g,6,g,0,g,3,g,28,g
+241,robins donuts,raspberry strudel,25,g,0,mg,330,g,51,g,5,g,10,g,0,g,2,g,17,g
+242,robins donuts,rice pudding,1.5,g,5,mg,30,g,72,g,7,g,1,g,0,g,2,g,20,g
+243,robins donuts,robins cake eggs chocolate glazed,3.5,g,0,mg,75,g,10,g,1,g,1.5,g,0,g,0,g,7,g
+244,robins donuts,robins cake eggs chocolate sugared,3.5,g,0,mg,75,g,10,g,1,g,1.5,g,0,g,0,g,7,g
+245,robins donuts,robins cake eggs chocolate with toasted coconut,6,g,0,mg,75,g,7,g,1,g,4,g,0,g,1,g,2,g
+246,robins donuts,robins cake eggs chocolate with white coconut,7,g,0,mg,75,g,6,g,1,g,4.5,g,0,g,1,g,2,g
+247,robins donuts,robins cake eggs white glazed,3,g,0,mg,75,g,11,g,1,g,1.5,g,0,g,0,g,7,g
+248,robins donuts,robins cake eggs white sugared,3,g,0,mg,75,g,10,g,1,g,1.5,g,0,g,0,g,7,g
+249,robins donuts,robins cake eggs white with toasted coconut,5,g,0,mg,75,g,7,g,1,g,3.5,g,0,g,0,g,2,g
+250,robins donuts,robins cake eggs white with white coconut,6,g,0,mg,75,g,6,g,1,g,4,g,0,g,1,g,2,g
+251,robins donuts,salad dressings french,7,g,0,mg,130,g,2,g,0,g,1,g,0,g,0,g,2,g
+252,robins donuts,salad dressings golden italian,4.5,g,0,mg,210,g,1,g,0,g,0.5,g,0,g,0,g,1,g
+253,robins donuts,salad dressings ranchers choice,9,g,5,mg,150,g,1,g,0,g,1,g,0,g,0,g,1,g
+254,robins donuts,salad dressings thousand island,3.5,g,5,mg,220,g,4,g,0,g,0.5,g,0,g,0,g,3,g
+255,robins donuts,sausage roll,16,g,15,mg,590,g,27,g,9,g,7,g,0,g,1,g,2,g
+256,robins donuts,soups chicken gumbo,0.5,g,5,mg,760,g,13,g,4,g,0,g,0,g,2,g,3,g
+257,robins donuts,soups chicken noodle,2,g,15,mg,770,g,12,g,5,g,0.5,g,0,g,1,g,2,g
+258,robins donuts,soups chicken with white and wild rice,1,g,10,mg,800,g,12,g,5,g,0,g,0,g,1,g,1,g
+259,robins donuts,soups country vegetable,0,g,0,mg,780,g,15,g,3,g,0,g,0,g,3,g,1,g
+260,robins donuts,soups cream of mushroom,7,g,15,mg,800,g,14,g,5,g,2.5,g,0,g,3,g,4,g
+261,robins donuts,soups cream of potato with bacon,4,g,20,mg,790,g,21,g,5,g,2.5,g,0,g,1,g,5,g
+262,robins donuts,soups creamy garden broccoli,5,g,15,mg,740,g,13,g,5,g,2,g,0,g,2,g,5,g
+263,robins donuts,soups creamy garden cauliflower,5,g,10,mg,630,g,12,g,4,g,2.5,g,0,g,2,g,5,g
+264,robins donuts,soups hearty beef with vegetable,1,g,5,mg,710,g,13,g,5,g,0,g,0,g,3,g,1,g
+265,robins donuts,soups homestyle minestrone,0.5,g,0,mg,600,g,12,g,3,g,0,g,0,g,3,g,4,g
+266,robins donuts,soups italian style wedding,4,g,5,mg,680,g,15,g,5,g,1.5,g,0,g,2,g,1,g
+267,robins donuts,soups split pea with ham,1,g,5,mg,800,g,25,g,9,g,0,g,0,g,6,g,3,g
+268,robins donuts,soups tomato bisque,2.5,g,5,mg,590,g,15,g,3,g,1,g,0,g,3,g,6,g
+269,robins donuts,soups tomato tortellini,1,g,0,mg,660,g,19,g,4,g,0,g,0,g,2,g,6,g
+270,robins donuts,sour cream cake donuts sour cream glazed,20,g,5,mg,210,g,36,g,2,g,9,g,0,g,1,g,21,g
+271,robins donuts,sour cream cake donuts sour cream plain,20,g,5,mg,210,g,25,g,2,g,9,g,0,g,1,g,10,g
+272,robins donuts,square croissant,7,g,0,mg,300,g,25,g,4,g,3,g,0,g,1,g,4,g
+273,robins donuts,stew chunky beef and vegetable,4.5,g,25,mg,990,g,25,g,16,g,1,g,0,g,7,g,2,g
+274,robins donuts,stew chunky chicken and vegetable,6,g,30,mg,1140,g,20,g,12,g,1.5,g,0,g,3,g,1,g
+275,robins donuts,strawberry banana smoothie,0,g,0,mg,0,g,34,g,0,g,0,g,0,g,0,g,31,g
+276,robins donuts,strawberry cream cheese danish,12,g,45,mg,230,g,42,g,6,g,5,g,0,g,1,g,18,g
+277,robins donuts,vanilla chilla,13,g,15,mg,360,g,52,g,5,g,10,g,0,g,0,g,39,g
+278,robins donuts,vanilla hazelnut chilla,13,g,15,mg,360,g,56,g,5,g,10,g,0,g,0,g,43,g
+279,robins donuts,veggie cup with hummus,6,g,0,mg,250,g,16,g,3,g,0,g,0,g,6,g,6,g
+280,robins donuts,veggie cup with ranch dressing,11,g,5,mg,330,g,18,g,4,g,1.5,g,0,g,5,g,9,g
+281,robins donuts,white cake donuts honey dew,23,g,15,mg,560,g,50,g,4,g,11,g,0,g,1,g,25,g
+282,robins donuts,white cake donuts old fashioned plain,6,g,20,mg,330,g,31,g,4,g,2.5,g,0,g,1,g,11,g
+283,robins donuts,white cake donuts old fashioned sugar,23,g,15,mg,560,g,49,g,4,g,11,g,0,g,1,g,24,g
+284,robins donuts,white cake donuts peanut crunch ring,28,g,15,mg,560,g,49,g,7,g,11,g,0,g,2,g,22,g
+285,robins donuts,white cake donuts toasted coconut ring,25,g,15,mg,560,g,49,g,4,g,13,g,0,g,1,g,22,g
+286,robins donuts,white cake donuts white coconut ring,26,g,15,mg,560,g,48,g,5,g,13,g,0,g,2,g,22,g
+287,robins donuts,white sugar,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,4,g
+288,robins donuts,yeast donuts apple fritter,20,g,0,mg,470,g,50,g,6,g,9,g,0,g,2,g,15,g
+289,robins donuts,yeast donuts bismark,20,g,0,mg,310,g,39,g,4,g,9,g,0,g,1,g,13,g
+290,robins donuts,yeast donuts blueberry,18,g,0,mg,280,g,35,g,4,g,9,g,0,g,1,g,12,g
+291,robins donuts,yeast donuts chocolate dip,20,g,0,mg,290,g,35,g,5,g,9,g,0,g,1,g,10,g
+292,robins donuts,yeast donuts chocolate fudge,19,g,0,mg,280,g,36,g,4,g,9,g,0,g,1,g,13,g
+293,robins donuts,yeast donuts dutchie,11,g,0,mg,630,g,76,g,8,g,3.5,g,0,g,2,g,23,g
+294,robins donuts,yeast donuts honey dip,20,g,0,mg,290,g,39,g,5,g,9,g,0,g,1,g,15,g
+295,robins donuts,yeast donuts lemon,19,g,0,mg,290,g,34,g,4,g,9,g,0,g,1,g,11,g
+296,robins donuts,yeast donuts maple dip,20,g,0,mg,290,g,36,g,5,g,9,g,0,g,1,g,11,g
+297,robins donuts,yeast donuts rainbow,20,g,0,mg,290,g,39,g,5,g,9,g,0,g,1,g,13,g
+298,robins donuts,yeast donuts strawberry,18,g,0,mg,270,g,36,g,4,g,9,g,0,g,1,g,12,g
+299,robins donuts,yeast donuts strawberry bismark,19,g,0,mg,290,g,41,g,4,g,9,g,0,g,1,g,14,g
+300,robins donuts,yeast donuts vanilla dip,20,g,0,mg,290,g,35,g,5,g,9,g,0,g,1,g,10,g
+301,robins donuts,yeast donuts venetian,19,g,0,mg,290,g,35,g,4,g,9,g,0,g,1,g,11,g
+302,robins donuts,yeast donuts yeast glazed,20,g,0,mg,290,g,36,g,5,g,9,g,0,g,1,g,11,g
+303,robins donuts,yogurt cup,7,g,0,mg,180,g,58,g,18,g,2,g,0,g,4,g,37,g
+304,rosas cafe,28 pint of beef taco meat,29,g,230,mg,1760,g,18,g,68,g,0,g,0,g,5,g,0,g
+305,rosas cafe,30 pint of rice,16,g,0,mg,1640,g,83,g,8,g,0,g,0,g,4,g,0,g
+306,rosas cafe,35 pint of medio caliente salsa,0,g,0,mg,1150,g,21,g,4,g,0,g,0,g,6,g,0,g
+307,rosas cafe,36 pint of pico de gallo,1.5,g,0,mg,1770,g,26,g,5,g,0,g,0,g,7,g,0,g
+308,rosas cafe,38 cup of queso 4 oz,13,g,40,mg,640,g,11,g,10,g,0,g,0,g,1,g,0,g
+309,rosas cafe,4 oz cup,0,g,0,mg,320,g,5,g,1,g,0,g,0,g,1,g,0,g
+310,rosas cafe,4 sopapillas,28,g,20,mg,280,g,27,g,3,g,0,g,0,g,1,g,0,g
+311,rosas cafe,8 oz cup,0.5,g,0,mg,570,g,8,g,1,g,0,g,0,g,2,g,0,g
+312,rosas cafe,bean and cheese burrito,11,g,35,mg,650,g,43,g,12,g,0,g,0,g,6,g,0,g
+313,rosas cafe,bean and cheese burrito with taco meat,9,g,35,mg,640,g,40,g,14,g,0,g,0,g,5,g,0,g
+314,rosas cafe,bean and cheese tostada,11,g,40,mg,320,g,20,g,10,g,0,g,0,g,5,g,0,g
+315,rosas cafe,beans add on,3.5,g,35,mg,370,g,20,g,7,g,0,g,0,g,6,g,0,g
+316,rosas cafe,beef burrito,10,g,45,mg,680,g,34,g,18,g,0,g,0,g,3,g,0,g
+317,rosas cafe,beef fajita,12,g,35,mg,410,g,30,g,19,g,0,g,0,g,2,g,0,g
+318,rosas cafe,beef fajita meat add on,9,g,40,mg,90,g,0,g,17,g,0,g,0,g,0,g,0,g
+319,rosas cafe,beef fajita meat by the pound,62,g,245,mg,780,g,8,g,105,g,0,g,0,g,4,g,0,g
+320,rosas cafe,beef fajita meat fiesta salad with everything,37,g,120,mg,430,g,13,g,39,g,0,g,0,g,5,g,0,g
+321,rosas cafe,beef fajita meat fiesta salad without sour cream and guacamole,25,g,90,mg,330,g,9,g,36,g,0,g,0,g,4,g,0,g
+322,rosas cafe,beef fajita meat fiesta salad without sour cream and guacamole and cheese,14,g,60,mg,150,g,5,g,29,g,0,g,0,g,3,g,0,g
+323,rosas cafe,beef fajita meat salad with everything,63,g,155,mg,1090,g,64,g,50,g,0,g,0,g,11,g,0,g
+324,rosas cafe,beef fajita meat salad without bowl,39,g,155,mg,790,g,28,g,44,g,0,g,0,g,10,g,0,g
+325,rosas cafe,beef fajita meat salad without bowl and beans,36,g,120,mg,420,g,8,g,37,g,0,g,0,g,3,g,0,g
+326,rosas cafe,beef fajita with guacamole,15,g,35,mg,440,g,32,g,20,g,0,g,0,g,2,g,0,g
+327,rosas cafe,beef fajita with queso,15,g,45,mg,530,g,33,g,21,g,0,g,0,g,2,g,0,g
+328,rosas cafe,beef taco meat add on,4,g,30,mg,230,g,2,g,9,g,0,g,0,g,1,g,0,g
+329,rosas cafe,beef tostada,15,g,70,mg,560,g,22,g,19,g,0,g,0,g,5,g,0,g
+330,rosas cafe,chicken fajita,9,g,30,mg,500,g,30,g,18,g,0,g,0,g,2,g,0,g
+331,rosas cafe,chicken fajita meat add on,5,g,35,mg,200,g,0,g,16,g,0,g,0,g,0,g,0,g
+332,rosas cafe,chicken fajita meat by the pound,40,g,220,mg,1430,g,8,g,98,g,0,g,0,g,4,g,0,g
+333,rosas cafe,chicken fajita meat fiesta salad with everything,32,g,110,mg,590,g,13,g,37,g,0,g,0,g,5,g,0,g
+334,rosas cafe,chicken fajita meat fiesta salad without sour cream and guacamole,19,g,85,mg,490,g,9,g,34,g,0,g,0,g,4,g,0,g
+335,rosas cafe,chicken fajita meat fiesta salad without sour cream and guacamole and cheese,8,g,55,mg,320,g,5,g,27,g,0,g,0,g,3,g,0,g
+336,rosas cafe,chicken fajita meat salad with everything,57,g,145,mg,1250,g,64,g,48,g,0,g,0,g,11,g,0,g
+337,rosas cafe,chicken fajita meat salad without bowl,34,g,145,mg,950,g,28,g,43,g,0,g,0,g,10,g,0,g
+338,rosas cafe,chicken fajita meat salad without bowl and beans,30,g,110,mg,580,g,8,g,35,g,0,g,0,g,3,g,0,g
+339,rosas cafe,chicken fajita with guacamole,12,g,30,mg,540,g,32,g,19,g,0,g,0,g,2,g,0,g
+340,rosas cafe,chicken fajita with queso,12,g,40,mg,620,g,33,g,20,g,0,g,0,g,2,g,0,g
+341,rosas cafe,chicken tostada,12,g,90,mg,450,g,20,g,23,g,0,g,0,g,5,g,0,g
+342,rosas cafe,chili con carne add on,5,g,15,mg,160,g,3,g,5,g,0,g,0,g,1,g,0,g
+343,rosas cafe,chili con queso add on,7,g,20,mg,320,g,6,g,5,g,0,g,0,g,1,g,0,g
+344,rosas cafe,chili de arbol salsa,0,g,0,mg,370,g,6,g,1,g,0,g,0,g,2,g,0,g
+345,rosas cafe,chips queso jalapeno slices cheese nachos,24,g,35,mg,620,g,45,g,12,g,0,g,0,g,5,g,0,g
+346,rosas cafe,combo beef and chicken fajita salad with everything,60,g,150,mg,1170,g,11,g,49,g,0,g,0,g,11,g,0,g
+347,rosas cafe,combo fajita fiesta salad with everything,35,g,115,mg,510,g,13,g,38,g,0,g,0,g,5,g,0,g
+348,rosas cafe,crispy beef taco,10,g,40,mg,270,g,11,g,12,g,0,g,0,g,2,g,0,g
+349,rosas cafe,crispy chicken taco,8,g,50,mg,190,g,10,g,15,g,0,g,0,g,1,g,0,g
+350,rosas cafe,enchilada sauce add on,3,g,0,mg,400,g,5,g,1,g,0,g,0,g,1,g,0,g
+351,rosas cafe,green sauce add on,2,g,0,mg,210,g,3,g,0,g,0,g,0,g,1,g,0,g
+352,rosas cafe,guacamole add on,6,g,0,mg,75,g,2,g,1,g,0,g,0,g,1,g,0,g
+353,rosas cafe,guacamole salad with chips,24,g,0,mg,230,g,27,g,5,g,0,g,0,g,6,g,0,g
+354,rosas cafe,guacamole salad without chips,17,g,0,mg,230,g,8,g,3,g,0,g,0,g,4,g,0,g
+355,rosas cafe,guacamole tostada,22,g,40,mg,470,g,25,g,12,g,0,g,0,g,7,g,0,g
+356,rosas cafe,jalapeno slices add on,0,g,0,mg,120,g,0,g,0,g,0,g,0,g,0,g,0,g
+357,rosas cafe,kids beef enchilada with enchilada sauce,19,g,55,mg,1460,g,66,g,19,g,0,g,0,g,10,g,0,g
+358,rosas cafe,kids chicken enchilada with enchilada sauce,17,g,70,mg,1380,g,65,g,22,g,0,g,0,g,10,g,0,g
+359,rosas cafe,kids crispy beef taco,13,g,70,mg,640,g,31,g,19,g,0,g,0,g,8,g,0,g
+360,rosas cafe,kids crispy chicken taco,11,g,85,mg,560,g,30,g,22,g,0,g,0,g,7,g,0,g
+361,rosas cafe,kids meal burrito,16,g,35,mg,1150,g,69,g,15,g,0,g,0,g,7,g,0,g
+362,rosas cafe,kids meal nachos,14,g,20,mg,330,g,24,g,7,g,0,g,0,g,2,g,0,g
+363,rosas cafe,medio caliente salsa,0,g,0,mg,290,g,5,g,1,g,0,g,0,g,2,g,0,g
+364,rosas cafe,no caliente salsa,3.5,g,0,mg,230,g,6,g,1,g,0,g,0,g,2,g,0,g
+365,rosas cafe,one beef enchilada no sauce add on,8,g,25,mg,190,g,15,g,8,g,0,g,0,g,2,g,0,g
+366,rosas cafe,one cheese enchilada no sauce add on,21,g,40,mg,290,g,12,g,15,g,0,g,0,g,2,g,0,g
+367,rosas cafe,one chicken enchilada no sauce add on,6,g,35,mg,110,g,14,g,11,g,0,g,0,g,1,g,0,g
+368,rosas cafe,one chili toriado add on,0,g,0,mg,105,g,2,g,1,g,0,g,0,g,1,g,0,g
+369,rosas cafe,one tamale,11,g,25,mg,320,g,16,g,6,g,0,g,0,g,3,g,0,g
+370,rosas cafe,picadillo taco meat fiesta salad with everything,30,g,105,mg,640,g,17,g,27,g,0,g,0,g,6,g,0,g
+371,rosas cafe,picadillo taco meat fiesta salad without sour cream and guacamole,17,g,75,mg,540,g,13,g,24,g,0,g,0,g,5,g,0,g
+372,rosas cafe,picadillo taco meat fiesta salad without sour cream and guacamole and cheese,6,g,45,mg,370,g,9,g,17,g,0,g,0,g,4,g,0,g
+373,rosas cafe,rice add on,5,g,0,mg,500,g,26,g,2,g,0,g,0,g,1,g,0,g
+374,rosas cafe,romaine lettuce add on,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+375,rosas cafe,sautzed vegetables add on,4,g,0,mg,10,g,2,g,1,g,0,g,0,g,1,g,0,g
+376,rosas cafe,shredded cheese add on,9,g,30,mg,180,g,0,g,7,g,0,g,0,g,0,g,0,g
+377,rosas cafe,shredded chicken add on,1,g,50,mg,125,g,1,g,13,g,0,g,0,g,0,g,0,g
+378,rosas cafe,shredded chicken fiesta salad with everything,26,g,130,mg,480,g,14,g,33,g,0,g,0,g,5,g,0,g
+379,rosas cafe,shredded chicken fiesta salad without sour cream and guacamole,13,g,105,mg,380,g,10,g,30,g,0,g,0,g,4,g,0,g
+380,rosas cafe,shredded chicken salad with everything,51,g,165,mg,1140,g,65,g,44,g,0,g,0,g,11,g,0,g
+381,rosas cafe,shredded chicken salad without bowl,27,g,165,mg,840,g,29,g,38,g,0,g,0,g,10,g,0,g
+382,rosas cafe,shredded chicken salad without bowl and beans,24,g,130,mg,470,g,9,g,31,g,0,g,0,g,3,g,0,g
+383,rosas cafe,shredded lettuce iceberg add on,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+384,rosas cafe,soft beef taco,12,g,40,mg,590,g,33,g,15,g,0,g,0,g,3,g,0,g
+385,rosas cafe,soft chicken taco,10,g,50,mg,510,g,32,g,18,g,0,g,0,g,2,g,0,g
+386,rosas cafe,sour cream add on,7,g,30,mg,20,g,1,g,1,g,0,g,0,g,0,g,0,g
+387,rosas cafe,sour cream sauce add on,15,g,40,mg,180,g,4,g,3,g,0,g,0,g,0,g,0,g
+388,rosas cafe,tomatillo salsa,1,g,0,mg,500,g,6,g,1,g,0,g,0,g,2,g,0,g
+389,rosas cafe,tomatoes add on,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+390,rosas cafe,total with bowl,43,g,110,mg,1210,g,63,g,35,g,0,g,0,g,11,g,0,g
+391,rosas cafe,total without bowl,19,g,110,mg,910,g,27,g,29,g,0,g,0,g,9,g,0,g
+392,rosas cafe,total without bowl and beans 9 260 140 15 8 75 540 3 22,15,g,75,mg,540,g,8,g,22,g,0,g,0,g,3,g,0,g
+393,roti,baked pita chips,3,g,0,mg,370,g,53,g,8,g,0,g,0,g,1,g,5,g
+394,roti,baklava,10,g,0,mg,210,g,57,g,5,g,1.5,g,0,g,6,g,23,g
+395,roti,chicken kabob,5,g,85,mg,620,g,1,g,29,g,1,g,0,g,0,g,0,g
+396,roti,chicken roti,8,g,150,mg,730,g,2,g,31,g,2,g,0,g,1,g,0,g
+397,roti,chocolate chip cookie,13,g,15,mg,120,g,24,g,1,g,7,g,0,g,1,g,21,g
+398,roti,cilantro,0,g,0,mg,210,g,10,g,0,g,0,g,0,g,1,g,8,g
+399,roti,cous cous salad,2,g,0,mg,150,g,16,g,2,g,0,g,0,g,1,g,2,g
+400,roti,cucumber mint lemonade 16 oz,0,g,0,mg,20,g,34,g,1,g,0,g,0,g,0,g,32,g
+401,roti,cucumber mint lemonade 24 oz,0,g,0,mg,30,g,51,g,1,g,0,g,0,g,1,g,48,g
+402,roti,dill yogurt and cucumber,1,g,0,mg,50,g,1,g,2,g,0,g,0,g,0,g,1,g
+403,roti,falafel,11,g,0,mg,500,g,25,g,6,g,2,g,0,g,6,g,2,g
+404,roti,falafel side,8,g,0,mg,370,g,19,g,4,g,1.5,g,0,g,5,g,2,g
+405,roti,feta cheese,7,g,30,mg,350,g,1,g,4,g,4.5,g,0,g,0,g,1,g
+406,roti,fresh mint black tea 16 oz,0,g,0,mg,15,g,2,g,0,g,0,g,0,g,0,g,0,g
+407,roti,fresh mint black tea 24 oz,0,g,0,mg,20,g,2,g,0,g,0,g,0,g,0,g,0,g
+408,roti,garlic sauce,11,g,10,mg,150,g,11,g,1,g,2,g,0,g,0,g,1,g
+409,roti,gluten free pita,4.5,g,0,mg,400,g,51,g,4,g,0,g,0,g,0,g,2,g
+410,roti,green shug,7,g,0,mg,180,g,2,g,0,g,1,g,0,g,1,g,0,g
+411,roti,hummus,6,g,0,mg,260,g,12,g,5,g,0.5,g,0,g,3,g,2,g
+412,roti,hummus side,20,g,0,mg,930,g,42,g,16,g,2.5,g,0,g,10,g,6,g
+413,roti,kalmata olives,7,g,0,mg,720,g,2,g,0,g,0,g,0,g,0,g,0,g
+414,roti,laffa bread,3.5,g,0,mg,430,g,41,g,11,g,0,g,0,g,6,g,1,g
+415,roti,lamb meatballs,21,g,95,mg,1000,g,10,g,17,g,9,g,0,g,1,g,2,g
+416,roti,lentil soup bowl,6,g,0,mg,1450,g,86,g,37,g,0,g,0,g,22,g,7,g
+417,roti,lentil soup cup,4,g,0,mg,980,g,58,g,25,g,0,g,0,g,15,g,5,g
+418,roti,melon mint coconut water 16 oz,0,g,0,mg,30,g,17,g,1,g,0,g,0,g,1,g,15,g
+419,roti,melon mint coconut water 24 oz,0,g,0,mg,50,g,25,g,1,g,0,g,0,g,1,g,22,g
+420,roti,mixed greens base,0,g,0,mg,10,g,3,g,1,g,0,g,0,g,2,g,1,g
+421,roti,mixed greens topping,0,g,0,mg,380,g,1,g,0,g,0,g,0,g,0,g,1,g
+422,roti,pickled onions,0,g,0,mg,10,g,2,g,1,g,0,g,0,g,1,g,1,g
+423,roti,pita bread sandwich,4.5,g,0,mg,430,g,52,g,10,g,2.5,g,0,g,5,g,4,g
+424,roti,pita bread side,2,g,0,mg,190,g,23,g,4,g,1,g,0,g,2,g,2,g
+425,roti,pomegranate lemonade black tea 16 oz,0,g,0,mg,20,g,45,g,0,g,0,g,0,g,0,g,41,g
+426,roti,pomegranate lemonade black tea 24 oz,0,g,0,mg,35,g,68,g,0,g,0,g,0,g,0,g,62,g
+427,roti,qunioa cauliflower tabbouleh,6,g,0,mg,190,g,8,g,2,g,0.5,g,0,g,1,g,3,g
+428,roti,red cabbage slaw,3.5,g,0,mg,130,g,5,g,1,g,0.5,g,0,g,1,g,3,g
+429,roti,red pepper aioli,12,g,10,mg,95,g,2,g,0,g,1,g,0,g,0,g,1,g
+430,roti,red shug,0.5,g,0,mg,150,g,6,g,1,g,0,g,0,g,0,g,4,g
+431,roti,red wine vinaigrette,12,g,0,mg,170,g,5,g,0,g,2,g,0,g,0,g,5,g
+432,roti,rice,5,g,0,mg,460,g,37,g,3,g,0.5,g,0,g,1,g,0,g
+433,roti,roti vinaigrette,13,g,0,mg,170,g,2,g,0,g,2,g,0,g,0,g,1,g
+434,roti,salmon kabob,15,g,40,mg,350,g,2,g,18,g,2.5,g,0,g,1,g,0,g
+435,roti,spiced carrot apple green tea 16 oz,0,g,0,mg,65,g,37,g,0,g,0,g,0,g,1,g,37,g
+436,roti,spiced carrot apple green tea 24 oz,0,g,0,mg,95,g,56,g,0,g,0,g,0,g,2,g,55,g
+437,roti,spicy feta hummus,22,g,20,mg,1150,g,30,g,22,g,6,g,0,g,9,g,3,g
+438,roti,steak roti,16,g,85,mg,430,g,3,g,27,g,5,g,0,g,1,g,0,g
+439,roti,tahini sauce,7,g,0,mg,65,g,2,g,2,g,1,g,0,g,1,g,0,g
+440,roti,tomato and cucumber salad,1,g,0,mg,150,g,3,g,1,g,0,g,0,g,1,g,1,g
+441,roti,vegetables,3,g,0,mg,95,g,5,g,1,g,0,g,0,g,1,g,2,g
+442,roxberry juice,100 apple appeal,0,g,0,mg,0,g,0,g,1,g,0,g,0,g,2,g,0,g
+443,roxberry juice,100 mango magic,0,g,0,mg,0,g,0,g,2,g,0,g,0,g,2,g,0,g
+444,roxberry juice,acai smart blend,3,g,0,mg,0,g,0,g,3,g,0,g,0,g,3,g,0,g
+445,roxberry juice,apple appeal,0,g,0,mg,0,g,0,g,1,g,0,g,0,g,2,g,0,g
+446,roxberry juice,bluesberry blues,0.5,g,0,mg,0,g,0,g,4,g,0,g,0,g,2,g,0,g
+447,roxberry juice,brain power,0,g,0,mg,0,g,0,g,7,g,0,g,0,g,2,g,0,g
+448,roxberry juice,caribbean cooler,1,g,0,mg,0,g,0,g,2,g,0,g,0,g,2,g,0,g
+449,roxberry juice,chocolate crave,3.5,g,0,mg,0,g,0,g,2,g,0,g,0,g,1,g,0,g
+450,roxberry juice,citrus berry,1,g,0,mg,0,g,0,g,2,g,0,g,0,g,2,g,0,g
+451,roxberry juice,flu fighter,1.5,g,0,mg,0,g,0,g,2,g,0,g,0,g,1,g,0,g
+452,roxberry juice,heart helper,0,g,0,mg,0,g,0,g,6,g,0,g,0,g,2,g,0,g
+453,roxberry juice,lean machine,0.5,g,0,mg,0,g,0,g,1,g,0,g,0,g,1,g,0,g
+454,roxberry juice,lemon squeeze,0.5,g,0,mg,0,g,0,g,1,g,0,g,0,g,1,g,0,g
+455,roxberry juice,lol lime,0.5,g,0,mg,0,g,0,g,1,g,0,g,0,g,3,g,0,g
+456,roxberry juice,mango magic,0,g,0,mg,0,g,0,g,2,g,0,g,0,g,2,g,0,g
+457,roxberry juice,mango mango,0.5,g,0,mg,0,g,0,g,0,g,0,g,0,g,2,g,0,g
+458,roxberry juice,marathon,0.5,g,0,mg,0,g,0,g,2,g,0,g,0,g,12,g,0,g
+459,roxberry juice,ocean breeze,1,g,0,mg,0,g,0,g,1,g,0,g,0,g,2,g,0,g
+460,roxberry juice,omg creamcicle,2.5,g,0,mg,0,g,0,g,10,g,0,g,0,g,1,g,0,g
+461,roxberry juice,orchard explosion,1,g,0,mg,0,g,0,g,0,g,0,g,0,g,2,g,0,g
+462,roxberry juice,p nut butter blast,32,g,0,mg,0,g,0,g,30,g,0,g,0,g,4,g,0,g
+463,roxberry juice,passion paradise,0.5,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+464,roxberry juice,peachy keen,0,g,0,mg,0,g,0,g,7,g,0,g,0,g,2,g,0,g
+465,roxberry juice,peenya colada,8,g,0,mg,0,g,0,g,7,g,0,g,0,g,6,g,0,g
+466,roxberry juice,pineapple pleasure,1,g,0,mg,0,g,0,g,4,g,0,g,0,g,2,g,0,g
+467,roxberry juice,pomegranate perfection,0,g,0,mg,0,g,0,g,1,g,0,g,0,g,3,g,0,g
+468,roxberry juice,protein berry,3.5,g,0,mg,0,g,0,g,8,g,0,g,0,g,5,g,0,g
+469,roxberry juice,rasperry rush,0.5,g,0,mg,0,g,0,g,1,g,0,g,0,g,4,g,0,g
+470,roxberry juice,simply peach,0,g,0,mg,0,g,0,g,1,g,0,g,0,g,3,g,0,g
+471,roxberry juice,strawbana squeeze,0,g,0,mg,0,g,0,g,7,g,0,g,0,g,2,g,0,g
+472,roxberry juice,strawberry fields,0.5,g,0,mg,0,g,0,g,9,g,0,g,0,g,2,g,0,g
+473,roxberry juice,strawberry temptation,5,g,0,mg,0,g,0,g,14,g,0,g,0,g,2,g,0,g
+474,roxberry juice,sunrise sensation,0.5,g,0,mg,0,g,0,g,2,g,0,g,0,g,2,g,0,g
+475,roxberry juice,tropical twist,1,g,0,mg,0,g,0,g,2,g,0,g,0,g,2,g,0,g
+476,ruby thai,bang bang chicken,15,g,80,mg,600,g,40,g,16,g,2,g,0,g,0,g,18,g
+477,ruby thai,bang bang shrimp,14,g,60,mg,1080,g,30,g,12,g,3,g,0,g,1,g,2,g
+478,ruby thai,black pepper chicken,13,g,120,mg,920,g,12,g,18,g,3,g,0,g,2,g,4,g
+479,ruby thai,cheese wanton,6,g,25,mg,120,g,16,g,3,g,3,g,0,g,1,g,1,g
+480,ruby thai,curry chicken,19,g,70,mg,980,g,22,g,17,g,4,g,0,g,2,g,6,g
+481,ruby thai,egg plant tofu,24,g,0,mg,680,g,20,g,7,g,3,g,0,g,3,g,13,g
+482,ruby thai,egg roll,12,g,60,mg,800,g,26,g,9,g,4,g,0,g,1,g,2,g
+483,ruby thai,fried rice,18,g,100,mg,880,g,90,g,18,g,4,g,0,g,9,g,0,g
+484,ruby thai,green bean,10,g,0,mg,520,g,15,g,7,g,2,g,0,g,5,g,10,g
+485,ruby thai,grilled chicken noodle soup,16,g,80,mg,820,g,100,g,30,g,2,g,0,g,12,g,2,g
+486,ruby thai,mango chicken,15,g,80,mg,600,g,40,g,16,g,2,g,0,g,0,g,18,g
+487,ruby thai,mixed vegetables,0,g,0,mg,400,g,9,g,3,g,0,g,0,g,5,g,3,g
+488,ruby thai,noodles,10,g,0,mg,980,g,64,g,14,g,2,g,0,g,10,g,8,g
+489,ruby thai,pad thai,16,g,0,mg,770,g,70,g,14,g,4,g,0,g,10,g,10,g
+490,ruby thai,panang chicken,19,g,70,mg,1020,g,22,g,18,g,4,g,0,g,3,g,8,g
+491,ruby thai,potato,28,g,0,mg,580,g,30,g,3,g,2,g,0,g,4,g,8,g
+492,ruby thai,seafood curry mie,22,g,60,mg,980,g,80,g,20,g,4,g,0,g,12,g,0,g
+493,ruby thai,seafood noodle soup,10,g,20,mg,820,g,80,g,20,g,2,g,0,g,12,g,0,g
+494,ruby thai,spicy beef noodle soup,40,g,20,mg,1020,g,110,g,40,g,3,g,1,g,12,g,0,g
+495,ruby thai,spicy thai bbq chicken,16,g,120,mg,800,g,40,g,40,g,4,g,0,g,0,g,16,g
+496,ruby thai,spring roll,4,g,0,mg,270,g,11,g,2,g,1,g,0,g,2,g,1,g
+497,ruby thai,steamed rice,0,g,0,mg,0,g,102,g,10,g,0,g,0,g,0,g,0,g
+498,ruby thai,thai bbq chicken,16,g,120,mg,800,g,30,g,40,g,4,g,0,g,0,g,16,g
+499,ruby thai,thai spicy chicken,19,g,80,mg,860,g,12,g,18,g,3,g,0,g,2,g,4,g
+500,ruby thai,vermicelli,10,g,0,mg,200,g,80,g,12,g,0,g,0,g,8,g,4,g
+501,ruby thai,wanton noodle soup,10,g,40,mg,820,g,100,g,30,g,2,g,0,g,12,g,0,g
+502,russos new york pizzeria,alfredo sauce topping large,10,g,30,mg,90,g,1,g,1,g,6,g,0,g,0,g,1,g
+503,russos new york pizzeria,alfredo sauce topping medium,5,g,15,mg,45,g,1,g,0,g,3,g,0,g,0,g,0,g
+504,russos new york pizzeria,alfredo sauce topping party,24,g,75,mg,220,g,3,g,2,g,15,g,1,g,0,g,2,g
+505,russos new york pizzeria,andreas specialty pizza 16 inch slice,12,g,30,mg,570,g,24,g,13,g,3.5,g,0,g,1,g,1,g
+506,russos new york pizzeria,artichokes topping large,0,g,0,mg,35,g,1,g,0,g,0,g,0,g,0,g,0,g
+507,russos new york pizzeria,artichokes topping medium,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+508,russos new york pizzeria,artichokes topping party,0,g,0,mg,85,g,1,g,0,g,0,g,0,g,1,g,0,g
+509,russos new york pizzeria,baked ziti,25,g,80,mg,1470,g,90,g,33,g,13,g,0,g,6,g,14,g
+510,russos new york pizzeria,balsamic glaze topping party,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+511,russos new york pizzeria,bbq chicken pizza 12 inch slice,4.5,g,15,mg,320,g,19,g,8,g,2.5,g,0,g,1,g,4,g
+512,russos new york pizzeria,bbq chicken pizza 16 inch slice,9,g,30,mg,610,g,32,g,14,g,5,g,0,g,1,g,7,g
+513,russos new york pizzeria,bbq sauce topping large,0,g,0,mg,70,g,4,g,0,g,0,g,0,g,0,g,4,g
+514,russos new york pizzeria,bbq sauce topping medium,0,g,0,mg,35,g,2,g,0,g,0,g,0,g,0,g,2,g
+515,russos new york pizzeria,bbq sauce topping party,0,g,0,mg,170,g,11,g,0,g,0,g,0,g,0,g,9,g
+516,russos new york pizzeria,beef topping large,1.5,g,5,mg,80,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+517,russos new york pizzeria,beef topping medium,1.5,g,5,mg,80,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+518,russos new york pizzeria,beef topping party,3,g,20,mg,190,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+519,russos new york pizzeria,bell peppers topping party,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+520,russos new york pizzeria,bianca pizza 12 inch slice,11,g,20,mg,350,g,15,g,9,g,4,g,0,g,1,g,1,g
+521,russos new york pizzeria,bianca pizza 16 inch slice,21,g,40,mg,600,g,25,g,15,g,7,g,0,g,1,g,1,g
+522,russos new york pizzeria,black olives topping large,1,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+523,russos new york pizzeria,black olives topping medium,1,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+524,russos new york pizzeria,black olives topping party,2.5,g,0,mg,150,g,1,g,0,g,0,g,0,g,0,g,0,g
+525,russos new york pizzeria,bruschetta,61,g,0,mg,1240,g,54,g,12,g,8,g,0,g,6,g,8,g
+526,russos new york pizzeria,brussel sprouts pizza 16 inch slice,17,g,35,mg,400,g,26,g,14,g,7,g,0,g,2,g,2,g
+527,russos new york pizzeria,brussels sprouts topping large,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,1,g,0,g
+528,russos new york pizzeria,brussels sprouts topping medium,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,0,g
+529,russos new york pizzeria,brussels sprouts topping party,0,g,0,mg,10,g,4,g,2,g,0,g,0,g,2,g,1,g
+530,russos new york pizzeria,buffalo chicken pizza 12 inch slice,4.5,g,15,mg,550,g,17,g,8,g,2.5,g,0,g,1,g,2,g
+531,russos new york pizzeria,buffalo chicken pizza 16 inch slice,9,g,30,mg,990,g,28,g,14,g,5,g,0,g,1,g,4,g
+532,russos new york pizzeria,buffalo mozzarella topping large,5,g,20,mg,85,g,1,g,5,g,3,g,0,g,0,g,0,g
+533,russos new york pizzeria,buffalo mozzarella topping medium,2.5,g,10,mg,45,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+534,russos new york pizzeria,buffalo mozzarella topping party,5,g,20,mg,85,g,1,g,5,g,3,g,0,g,0,g,0,g
+535,russos new york pizzeria,caesar salad large,74,g,70,mg,980,g,8,g,14,g,17,g,1,g,3,g,2,g
+536,russos new york pizzeria,caesar salad small,50,g,35,mg,400,g,4,g,6,g,9,g,0,g,2,g,1,g
+537,russos new york pizzeria,calamari fritti,21,g,530,mg,420,g,58,g,45,g,4,g,0,g,3,g,4,g
+538,russos new york pizzeria,canadian bacon topping large,0,g,5,mg,65,g,0,g,1,g,0,g,0,g,0,g,0,g
+539,russos new york pizzeria,canadian bacon topping medium,0,g,0,mg,35,g,0,g,1,g,0,g,0,g,0,g,0,g
+540,russos new york pizzeria,canadian bacon topping party,1,g,10,mg,160,g,0,g,3,g,0,g,0,g,0,g,0,g
+541,russos new york pizzeria,carrot cake,34,g,110,mg,440,g,49,g,6,g,11,g,0,g,2,g,37,g
+542,russos new york pizzeria,cauliflower fritti,33,g,10,mg,450,g,30,g,14,g,6,g,0,g,7,g,9,g
+543,russos new york pizzeria,cauliflower pizza 12 inch slice,12,g,20,mg,250,g,16,g,8,g,4,g,0,g,1,g,1,g
+544,russos new york pizzeria,cauliflower pizza 16 inch slice,21,g,30,mg,410,g,26,g,13,g,7,g,0,g,1,g,2,g
+545,russos new york pizzeria,cauliflower topping large,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+546,russos new york pizzeria,cauliflower topping party,0,g,0,mg,10,g,2,g,1,g,0,g,0,g,1,g,1,g
+547,russos new york pizzeria,cheese pizza 12 inch slice,4,g,15,mg,230,g,14,g,6,g,2,g,0,g,1,g,1,g
+548,russos new york pizzeria,cheese pizza 16 inch slice,8,g,25,mg,460,g,29,g,11,g,4,g,0,g,1,g,3,g
+549,russos new york pizzeria,cheese pizza 28 inch slice,33,g,100,mg,1860,g,100,g,42,g,17,g,0,g,5,g,11,g
+550,russos new york pizzeria,chicken and avocado salad,27,g,75,mg,2270,g,16,g,31,g,6,g,0,g,10,g,4,g
+551,russos new york pizzeria,chicken cannelloni,31,g,195,mg,3060,g,86,g,49,g,14,g,0,g,6,g,16,g
+552,russos new york pizzeria,chicken marsala,57,g,130,mg,2020,g,88,g,64,g,9,g,0,g,6,g,4,g
+553,russos new york pizzeria,chicken parmesan,52,g,185,mg,2440,g,95,g,60,g,14,g,0,g,7,g,20,g
+554,russos new york pizzeria,chicken parmesan sandwich on flatbread,33,g,155,mg,2080,g,132,g,61,g,14,g,0,g,6,g,10,g
+555,russos new york pizzeria,chicken parmesan sandwich on french bread,33,g,155,mg,2460,g,120,g,60,g,14,g,0,g,6,g,10,g
+556,russos new york pizzeria,chicken pesto pasta,90,g,155,mg,2560,g,83,g,58,g,24,g,1,g,7,g,4,g
+557,russos new york pizzeria,chicken pesto pasta salad,48,g,115,mg,2340,g,52,g,48,g,13,g,1,g,7,g,6,g
+558,russos new york pizzeria,chicken picatta,26,g,130,mg,1970,g,90,g,64,g,4.5,g,0,g,7,g,7,g
+559,russos new york pizzeria,chicken portobello sandwich on flatbread,57,g,160,mg,2310,g,110,g,72,g,18,g,0,g,6,g,6,g
+560,russos new york pizzeria,chicken portobello sandwich on french bread,57,g,160,mg,2310,g,110,g,72,g,18,g,0,g,6,g,6,g
+561,russos new york pizzeria,chicken rustica pizza 12 inch slice,11,g,20,mg,280,g,16,g,9,g,3.5,g,0,g,1,g,1,g
+562,russos new york pizzeria,chicken rustica pizza 16 inch slice,21,g,35,mg,490,g,26,g,15,g,7,g,0,g,1,g,2,g
+563,russos new york pizzeria,chicken sausage and ricotta pizza 12 inch slice,7,g,25,mg,330,g,17,g,9,g,3.5,g,0,g,1,g,2,g
+564,russos new york pizzeria,chicken sausage and ricotta pizza 16 inch slice,12,g,40,mg,570,g,27,g,15,g,6,g,0,g,1,g,4,g
+565,russos new york pizzeria,chicken sausage topping large,2,g,10,mg,65,g,0,g,2,g,0.5,g,0,g,0,g,0,g
+566,russos new york pizzeria,chicken sausage topping medium,1.5,g,5,mg,55,g,0,g,1,g,0,g,0,g,0,g,0,g
+567,russos new york pizzeria,chicken sausage topping party,4.5,g,20,mg,160,g,0,g,4,g,1.5,g,0,g,0,g,0,g
+568,russos new york pizzeria,chicken topping large,0,g,5,mg,95,g,0,g,3,g,0,g,0,g,0,g,0,g
+569,russos new york pizzeria,chicken topping medium,0,g,5,mg,45,g,0,g,1,g,0,g,0,g,0,g,0,g
+570,russos new york pizzeria,chicken topping party,1,g,15,mg,230,g,1,g,7,g,0,g,0,g,0,g,0,g
+571,russos new york pizzeria,chocolate truffle cake,39,g,145,mg,400,g,77,g,9,g,22,g,0,g,5,g,55,g
+572,russos new york pizzeria,cucumber and feta salad,34,g,20,mg,1160,g,13,g,8,g,8,g,0,g,2,g,5,g
+573,russos new york pizzeria,doppio pepperoni pizza 16 inch slice,13,g,35,mg,600,g,27,g,14,g,7,g,0,g,1,g,4,g
+574,russos new york pizzeria,egg topping large,1,g,45,mg,20,g,0,g,2,g,0,g,0,g,0,g,0,g
+575,russos new york pizzeria,egg topping medium,0.5,g,25,mg,10,g,0,g,1,g,0,g,0,g,0,g,0,g
+576,russos new york pizzeria,egg topping party,2,g,75,mg,30,g,0,g,3,g,0.5,g,0,g,0,g,0,g
+577,russos new york pizzeria,eggplant parmesan,76,g,125,mg,1290,g,95,g,30,g,15,g,0,g,12,g,24,g
+578,russos new york pizzeria,eggplant parmesan sandwich on flatbread,56,g,150,mg,1440,g,146,g,48,g,16,g,0,g,12,g,16,g
+579,russos new york pizzeria,eggplant parmesan sandwich on french bread,56,g,150,mg,1820,g,134,g,47,g,16,g,0,g,11,g,16,g
+580,russos new york pizzeria,eggplant rolatini,102,g,280,mg,1660,g,67,g,41,g,41,g,2,g,6,g,16,g
+581,russos new york pizzeria,feta cheese topping large,1,g,5,mg,70,g,0,g,1,g,1,g,0,g,0,g,0,g
+582,russos new york pizzeria,feta cheese topping medium,1,g,5,mg,50,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+583,russos new york pizzeria,feta cheese topping party,2.5,g,10,mg,160,g,1,g,3,g,2,g,0,g,0,g,0,g
+584,russos new york pizzeria,fettuccinin alfredo,77,g,185,mg,1180,g,79,g,26,g,36,g,2,g,4,g,8,g
+585,russos new york pizzeria,focaccia bread,5,g,0,mg,300,g,32,g,7,g,1,g,0,g,2,g,1,g
+586,russos new york pizzeria,franks hot sauce topping large,0,g,0,mg,450,g,1,g,0,g,0,g,0,g,0,g,0,g
+587,russos new york pizzeria,franks hot sauce topping medium,0,g,0,mg,260,g,1,g,0,g,0,g,0,g,0,g,0,g
+588,russos new york pizzeria,franks hot sauce topping party,0,g,0,mg,1090,g,2,g,0,g,0,g,0,g,0,g,1,g
+589,russos new york pizzeria,fresh jalapeno peppers topping large,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+590,russos new york pizzeria,fresh jalapeno peppers topping party,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,1,g
+591,russos new york pizzeria,garlic bread,45,g,25,mg,1480,g,71,g,21,g,10,g,0.5,g,4,g,7,g
+592,russos new york pizzeria,garlic bread with cheese,61,g,85,mg,1880,g,72,g,34,g,19,g,1,g,4,g,7,g
+593,russos new york pizzeria,garlic knots,49,g,0,mg,870,g,122,g,24,g,7,g,0,g,6,g,8,g
+594,russos new york pizzeria,garlic sauce topping large,11,g,0,mg,55,g,1,g,0,g,1.5,g,0,g,0,g,0,g
+595,russos new york pizzeria,garlic sauce topping medium,5,g,0,mg,25,g,0,g,0,g,1,g,0,g,0,g,0,g
+596,russos new york pizzeria,garlic sauce topping party,26,g,0,mg,130,g,2,g,0,g,3.5,g,0,g,0,g,0,g
+597,russos new york pizzeria,garlic topping party,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+598,russos new york pizzeria,gnocchi bolognese,40,g,80,mg,2160,g,89,g,22,g,8,g,0,g,8,g,10,g
+599,russos new york pizzeria,goat cheese topping large,2,g,5,mg,10,g,0,g,1,g,1,g,0,g,0,g,0,g
+600,russos new york pizzeria,goat cheese topping medium,1,g,0,mg,5,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+601,russos new york pizzeria,goat cheese topping party,4.5,g,10,mg,30,g,1,g,3,g,3,g,0,g,0,g,1,g
+602,russos new york pizzeria,gorgonzola cheese topping large,3.5,g,15,mg,125,g,0,g,3,g,2,g,0,g,0,g,0,g
+603,russos new york pizzeria,gorgonzola cheese topping medium,2,g,5,mg,65,g,0,g,1,g,1,g,0,g,0,g,0,g
+604,russos new york pizzeria,gorgonzola cheese topping party,8,g,30,mg,290,g,0,g,6,g,5,g,0,g,0,g,0,g
+605,russos new york pizzeria,greek salad large,24,g,20,mg,4840,g,24,g,10,g,7,g,0,g,7,g,9,g
+606,russos new york pizzeria,greek salad small,17,g,20,mg,3120,g,15,g,8,g,6,g,0,g,4,g,5,g
+607,russos new york pizzeria,heart healthy pizza 12 inch slice,10,g,15,mg,210,g,17,g,6,g,3,g,0,g,1,g,1,g
+608,russos new york pizzeria,heart healthy pizza 16 inch slice,19,g,25,mg,370,g,26,g,12,g,6,g,0,g,2,g,2,g
+609,russos new york pizzeria,house salad large,15,g,0,mg,4130,g,22,g,4,g,2,g,0,g,8,g,8,g
+610,russos new york pizzeria,house salad small,8,g,0,mg,2600,g,13,g,2,g,1,g,0,g,4,g,5,g
+611,russos new york pizzeria,insalata caprese,74,g,120,mg,640,g,21,g,32,g,24,g,0,g,2,g,16,g
+612,russos new york pizzeria,italian cannoli,17,g,35,mg,90,g,44,g,10,g,7,g,0,g,1,g,34,g
+613,russos new york pizzeria,italian cream cake,55,g,155,mg,290,g,72,g,7,g,23,g,0,g,1,g,49,g
+614,russos new york pizzeria,italian deli sandwich on flatbread,52,g,145,mg,6010,g,121,g,61,g,19,g,0,g,8,g,11,g
+615,russos new york pizzeria,italian deli sandwich on french bread,52,g,145,mg,6390,g,109,g,59,g,18,g,0,g,8,g,10,g
+616,russos new york pizzeria,italian market pizza 12 inch slice,10,g,25,mg,530,g,17,g,11,g,4.5,g,0,g,1,g,2,g
+617,russos new york pizzeria,italian market pizza 16 inch slice,18,g,50,mg,1030,g,28,g,19,g,7,g,0,g,1,g,4,g
+618,russos new york pizzeria,italian sausage topping large,2,g,5,mg,55,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+619,russos new york pizzeria,italian sausage topping medium,2,g,5,mg,55,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+620,russos new york pizzeria,italian sausage topping party,4.5,g,10,mg,130,g,1,g,3,g,1.5,g,0,g,0,g,0,g
+621,russos new york pizzeria,italian works pizza 12 inch slice,7,g,20,mg,370,g,17,g,8,g,3.5,g,0,g,1,g,2,g
+622,russos new york pizzeria,italian works pizza 16 inch slice,12,g,35,mg,610,g,27,g,13,g,6,g,0,g,1,g,3,g
+623,russos new york pizzeria,kalamata olives topping large,2,g,0,mg,125,g,1,g,0,g,0,g,0,g,0,g,0,g
+624,russos new york pizzeria,kalamata olives topping medium,1.5,g,0,mg,85,g,0,g,0,g,0,g,0,g,0,g,0,g
+625,russos new york pizzeria,kalamata olives topping party,5,g,0,mg,300,g,2,g,0,g,0.5,g,0,g,0,g,0,g
+626,russos new york pizzeria,kale topping large,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+627,russos new york pizzeria,kale topping party,0,g,0,mg,5,g,1,g,1,g,0,g,0,g,1,g,0,g
+628,russos new york pizzeria,kids angel hair with grilled chicken,39,g,95,mg,590,g,40,g,13,g,18,g,1,g,2,g,4,g
+629,russos new york pizzeria,kids cheese pizza 28 inch giant slice,33,g,100,mg,1860,g,100,g,42,g,17,g,0,g,5,g,11,g
+630,russos new york pizzeria,kids fettucine alfredo with grilled chicken,41,g,100,mg,610,g,55,g,15,g,20,g,1,g,3,g,5,g
+631,russos new york pizzeria,kids penne pasta with marinara,3,g,0,mg,390,g,51,g,9,g,1,g,0,g,3,g,7,g
+632,russos new york pizzeria,kids spaghetti with meatballs,18,g,85,mg,1430,g,55,g,27,g,6,g,0,g,5,g,7,g
+633,russos new york pizzeria,lasagna,55,g,210,mg,3210,g,55,g,58,g,25,g,1,g,5,g,17,g
+634,russos new york pizzeria,margherita pizza 12 inch slice,10,g,15,mg,180,g,15,g,6,g,3,g,0,g,1,g,1,g
+635,russos new york pizzeria,margherita pizza 16 inch slice,19,g,25,mg,330,g,25,g,11,g,6,g,0,g,1,g,1,g
+636,russos new york pizzeria,meatball and ricotta pizza 12 inch slice,7,g,30,mg,350,g,19,g,10,g,3.5,g,0,g,1,g,2,g
+637,russos new york pizzeria,meatball and ricotta pizza 16 inch slice,13,g,50,mg,630,g,31,g,16,g,7,g,0,g,2,g,4,g
+638,russos new york pizzeria,meatball parmesan sandwich on flatbread,37,g,175,mg,2410,g,131,g,58,g,15,g,1,g,7,g,10,g
+639,russos new york pizzeria,meatball parmesan sandwich on french bread,37,g,175,mg,2790,g,119,g,57,g,14,g,1,g,6,g,10,g
+640,russos new york pizzeria,meatballs topping large,3,g,20,mg,160,g,3,g,4,g,1,g,0,g,0,g,0,g
+641,russos new york pizzeria,meatballs topping medium,1.5,g,10,mg,90,g,2,g,2,g,0.5,g,0,g,0,g,0,g
+642,russos new york pizzeria,meatballs topping party,3.5,g,25,mg,190,g,4,g,5,g,1.5,g,0,g,0,g,0,g
+643,russos new york pizzeria,mediterranean pizza 12 inch slice,9,g,15,mg,240,g,16,g,7,g,3,g,0,g,1,g,1,g
+644,russos new york pizzeria,mediterranean pizza 16 inch slice,15,g,25,mg,400,g,25,g,12,g,6,g,0,g,1,g,1,g
+645,russos new york pizzeria,mediterranean salad large,35,g,75,mg,4840,g,28,g,22,g,14,g,0,g,9,g,11,g
+646,russos new york pizzeria,mediterranean salad small,22,g,40,mg,3510,g,20,g,12,g,8,g,0,g,6,g,8,g
+647,russos new york pizzeria,minestrone soup bowl,3,g,0,mg,1000,g,26,g,8,g,0,g,0,g,6,g,6,g
+648,russos new york pizzeria,minestrone soup cup,1.5,g,0,mg,570,g,15,g,4,g,0,g,0,g,3,g,3,g
+649,russos new york pizzeria,mozzarella cheese topping large,7,g,25,mg,170,g,1,g,6,g,4.5,g,0,g,0,g,0,g
+650,russos new york pizzeria,mozzarella cheese topping medium,3.5,g,15,mg,85,g,0,g,3,g,2,g,0,g,0,g,0,g
+651,russos new york pizzeria,mozzarella cheese topping party,17,g,60,mg,420,g,2,g,15,g,11,g,1,g,0,g,1,g
+652,russos new york pizzeria,mozzarella fritti,112,g,560,mg,2140,g,98,g,65,g,33,g,0,g,6,g,11,g
+653,russos new york pizzeria,mulberry pizza 12 inch slice,9,g,30,mg,450,g,16,g,9,g,4,g,0,g,1,g,2,g
+654,russos new york pizzeria,mulberry pizza 16 inch slice,13,g,45,mg,710,g,27,g,15,g,7,g,0,g,1,g,3,g
+655,russos new york pizzeria,mushrooms topping party,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+656,russos new york pizzeria,new england clam chowder bowl,55,g,210,mg,890,g,24,g,17,g,33,g,1.5,g,2,g,9,g
+657,russos new york pizzeria,new england clam chowder cup,27,g,105,mg,450,g,12,g,9,g,17,g,0.5,g,1,g,4,g
+658,russos new york pizzeria,new york calzone,46,g,175,mg,2220,g,122,g,69,g,22,g,0,g,5,g,13,g
+659,russos new york pizzeria,new york village pizza 12 inch slice,9,g,30,mg,530,g,17,g,10,g,4,g,0,g,1,g,2,g
+660,russos new york pizzeria,new york village pizza 16 inch slice,15,g,45,mg,840,g,28,g,15,g,7,g,0,g,1,g,4,g
+661,russos new york pizzeria,ny cheesecake,34,g,145,mg,410,g,38,g,8,g,18,g,0,g,1,g,23,g
+662,russos new york pizzeria,olive oil topping large,1,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+663,russos new york pizzeria,olive oil topping medium,1,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+664,russos new york pizzeria,olive oil topping party,2,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+665,russos new york pizzeria,paesano pizza 16 inch slice,12,g,20,mg,420,g,25,g,10,g,3.5,g,0,g,1,g,2,g
+666,russos new york pizzeria,pancetta topping large,0.5,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+667,russos new york pizzeria,pancetta topping medium,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+668,russos new york pizzeria,pancetta topping party,1.5,g,5,mg,70,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+669,russos new york pizzeria,pasta di mare,39,g,265,mg,1670,g,91,g,45,g,6,g,0,g,6,g,9,g
+670,russos new york pizzeria,pasta primavera gluten free,76,g,95,mg,1620,g,99,g,32,g,24,g,1.5,g,8,g,7,g
+671,russos new york pizzeria,pecorino romano topping large,1,g,5,mg,140,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+672,russos new york pizzeria,pecorino romano topping medium,0.5,g,0,mg,70,g,0,g,1,g,0,g,0,g,0,g,0,g
+673,russos new york pizzeria,pecorino romano topping party,1.5,g,5,mg,230,g,0,g,2,g,1,g,0,g,0,g,0,g
+674,russos new york pizzeria,penne mediterranean,82,g,15,mg,1110,g,93,g,25,g,13,g,0,g,8,g,3,g
+675,russos new york pizzeria,pepperoni topping large,1.5,g,5,mg,65,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+676,russos new york pizzeria,pepperoni topping medium,1,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+677,russos new york pizzeria,pepperoni topping party,4,g,10,mg,170,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+678,russos new york pizzeria,pesto chicken pizza 12 inch slice,11,g,20,mg,320,g,15,g,9,g,4,g,0,g,1,g,1,g
+679,russos new york pizzeria,pesto chicken pizza 16 inch slice,21,g,40,mg,590,g,25,g,17,g,8,g,0,g,1,g,1,g
+680,russos new york pizzeria,pesto sauce topping large,12,g,5,mg,190,g,1,g,3,g,2.5,g,0,g,0,g,0,g
+681,russos new york pizzeria,pesto sauce topping medium,6,g,5,mg,95,g,0,g,1,g,1.5,g,0,g,0,g,0,g
+682,russos new york pizzeria,pesto sauce topping party,30,g,15,mg,450,g,2,g,7,g,6,g,0,g,1,g,0,g
+683,russos new york pizzeria,pineapple tidbits topping large,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,4,g
+684,russos new york pizzeria,pineapple tidbits topping medium,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+685,russos new york pizzeria,pineapple tidbits topping party,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,7,g
+686,russos new york pizzeria,pizza dough topping large,1,g,0,mg,100,g,23,g,4,g,0,g,0,g,1,g,1,g
+687,russos new york pizzeria,pizza dough topping medium,0.5,g,0,mg,60,g,14,g,3,g,0,g,0,g,1,g,1,g
+688,russos new york pizzeria,pizza dough topping party,2.5,g,0,mg,300,g,68,g,13,g,0,g,0,g,3,g,3,g
+689,russos new york pizzeria,pizza sauce topping large,0,g,0,mg,135,g,2,g,0,g,0,g,0,g,0,g,1,g
+690,russos new york pizzeria,pizza sauce topping medium,0,g,0,mg,70,g,1,g,0,g,0,g,0,g,0,g,1,g
+691,russos new york pizzeria,pizza sauce topping party,1,g,0,mg,410,g,7,g,1,g,0,g,0,g,1,g,4,g
+692,russos new york pizzeria,pomodoro pizza 12 inch slice,4,g,10,mg,190,g,16,g,5,g,1.5,g,0,g,1,g,1,g
+693,russos new york pizzeria,pomodoro pizza 16 inch slice,7,g,20,mg,360,g,26,g,10,g,3.5,g,0,g,1,g,3,g
+694,russos new york pizzeria,portabella mushrooms topping large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+695,russos new york pizzeria,portabella mushrooms topping party,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,1,g
+696,russos new york pizzeria,prosciutto and fig pizza 12 inch slice,6,g,20,mg,310,g,21,g,8,g,2.5,g,0,g,1,g,7,g
+697,russos new york pizzeria,prosciutto and fig pizza 16 inch slice,10,g,35,mg,540,g,38,g,14,g,5,g,0,g,1,g,14,g
+698,russos new york pizzeria,prosciutto and arugula sandwich on flatbread,64,g,245,mg,5470,g,179,g,110,g,21,g,0,g,9,g,10,g
+699,russos new york pizzeria,prosciutto and arugula sandwich on french bread,64,g,245,mg,5470,g,179,g,110,g,21,g,0,g,9,g,10,g
+700,russos new york pizzeria,prosciutto topping large,1.5,g,10,mg,250,g,0,g,3,g,0,g,0,g,0,g,0,g
+701,russos new york pizzeria,prosciutto topping medium,1,g,5,mg,160,g,0,g,2,g,0,g,0,g,0,g,0,g
+702,russos new york pizzeria,prosciutto topping party,3,g,20,mg,590,g,0,g,7,g,1,g,0,g,0,g,0,g
+703,russos new york pizzeria,ravioli pomodoro,32,g,90,mg,1500,g,72,g,25,g,8,g,0,g,4,g,12,g
+704,russos new york pizzeria,red onions topping large,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+705,russos new york pizzeria,red onions topping party,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+706,russos new york pizzeria,red velvet cake,57,g,110,mg,640,g,114,g,9,g,28,g,1,g,2,g,74,g
+707,russos new york pizzeria,ricotta cheese topping large,2,g,5,mg,30,g,1,g,2,g,1,g,0,g,0,g,1,g
+708,russos new york pizzeria,ricotta cheese topping medium,1.5,g,5,mg,25,g,0,g,1,g,1,g,0,g,0,g,0,g
+709,russos new york pizzeria,ricotta cheese topping party,4.5,g,15,mg,70,g,1,g,4,g,3,g,0,g,0,g,1,g
+710,russos new york pizzeria,roasted peppers topping large,0,g,0,mg,20,g,1,g,0,g,0,g,0,g,0,g,0,g
+711,russos new york pizzeria,roasted peppers topping medium,0,g,0,mg,20,g,1,g,0,g,0,g,0,g,0,g,0,g
+712,russos new york pizzeria,roasted peppers topping party,0,g,0,mg,50,g,2,g,0,g,0,g,0,g,0,g,1,g
+713,russos new york pizzeria,roccos pizza 12 inch slice,7,g,25,mg,270,g,16,g,9,g,4,g,0,g,1,g,2,g
+714,russos new york pizzeria,roccos pizza 16 inch slice,12,g,40,mg,420,g,25,g,15,g,6,g,0,g,1,g,2,g
+715,russos new york pizzeria,roma tomatoes topping party,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+716,russos new york pizzeria,russos famous homemade meatballs,26,g,145,mg,1810,g,31,g,32,g,9,g,1,g,3,g,8,g
+717,russos new york pizzeria,shrimp fra diavolo,38,g,160,mg,1950,g,93,g,33,g,6,g,0,g,6,g,13,g
+718,russos new york pizzeria,sicilian trio,182,g,360,mg,4410,g,152,g,94,g,66,g,0,g,10,g,12,g
+719,russos new york pizzeria,sliced sausage topping large,3.5,g,10,mg,110,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+720,russos new york pizzeria,sliced sausage topping medium,2,g,5,mg,60,g,0,g,1,g,1,g,0,g,0,g,0,g
+721,russos new york pizzeria,sliced sausage topping party,9,g,20,mg,260,g,1,g,5,g,3,g,0,g,0,g,0,g
+722,russos new york pizzeria,sofia napoletana pizza 16 inch slice,18,g,35,mg,530,g,25,g,15,g,8,g,0,g,2,g,2,g
+723,russos new york pizzeria,sopresetta salami topping large,2,g,5,mg,105,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+724,russos new york pizzeria,sopresetta salami topping medium,1,g,5,mg,60,g,0,g,1,g,0,g,0,g,0,g,0,g
+725,russos new york pizzeria,sopresetta salami topping party,2,g,5,mg,115,g,0,g,2,g,1,g,0,g,0,g,0,g
+726,russos new york pizzeria,spaghetti with meat sauce,15,g,35,mg,170,g,183,g,39,g,3,g,0,g,10,g,13,g
+727,russos new york pizzeria,spaghetti with meatballs,35,g,170,mg,2860,g,110,g,53,g,11,g,1,g,9,g,15,g
+728,russos new york pizzeria,spaghetti with sausage,51,g,135,mg,2770,g,93,g,50,g,16,g,0,g,8,g,14,g
+729,russos new york pizzeria,spinach and artichoke dip,124,g,255,mg,3000,g,66,g,50,g,52,g,3,g,5,g,7,g
+730,russos new york pizzeria,spinach topping party,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+731,russos new york pizzeria,spinach kale artichoke pizza 16 inch slice,18,g,55,mg,410,g,26,g,12,g,11,g,0.5,g,2,g,2,g
+732,russos new york pizzeria,stromboli calzone,58,g,135,mg,2890,g,126,g,55,g,24,g,0,g,10,g,15,g
+733,russos new york pizzeria,sun dried tomatoes topping large,0,g,0,mg,10,g,4,g,1,g,0,g,0,g,1,g,3,g
+734,russos new york pizzeria,sun dried tomatoes topping medium,0,g,0,mg,5,g,3,g,1,g,0,g,0,g,1,g,2,g
+735,russos new york pizzeria,sun dried tomatoes topping party,0.5,g,0,mg,20,g,9,g,2,g,0,g,0,g,2,g,6,g
+736,russos new york pizzeria,tiramisu,18,g,290,mg,150,g,42,g,8,g,18,g,1,g,1,g,29,g
+737,russos new york pizzeria,tomato basil soup bowl,50,g,145,mg,1940,g,19,g,9,g,26,g,1.5,g,1,g,13,g
+738,russos new york pizzeria,tomato basil soup cup,26,g,70,mg,980,g,10,g,5,g,13,g,0.5,g,1,g,7,g
+739,russos new york pizzeria,tortellini al vodka,71,g,215,mg,3220,g,82,g,54,g,29,g,0,g,6,g,14,g
+740,russos new york pizzeria,tortellini brodo soup bowl,12,g,100,mg,1530,g,14,g,37,g,3,g,0,g,2,g,1,g
+741,russos new york pizzeria,tortellini brodo soup cup,6,g,50,mg,820,g,8,g,19,g,1.5,g,0,g,1,g,1,g
+742,russos new york pizzeria,truffle mushroom pizza 12 inch slice,9,g,15,mg,180,g,15,g,7,g,3,g,0,g,1,g,1,g
+743,russos new york pizzeria,truffle mushroom pizza 16 inch slice,16,g,30,mg,340,g,25,g,13,g,6,g,0,g,1,g,2,g
+744,russos new york pizzeria,truffle mushroom sauce topping large,8,g,5,mg,70,g,1,g,2,g,1.5,g,0,g,0,g,0,g
+745,russos new york pizzeria,truffle mushroom sauce topping medium,4,g,0,mg,35,g,0,g,1,g,1,g,0,g,0,g,0,g
+746,russos new york pizzeria,truffle mushroom sauce topping party,18,g,10,mg,170,g,2,g,4,g,3.5,g,0,g,1,g,1,g
+747,russos new york pizzeria,truffle oil topping large,1,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+748,russos new york pizzeria,truffle oil topping medium,1,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+749,russos new york pizzeria,truffle oil topping party,2.5,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+750,russos new york pizzeria,vegetarian pizza 12 inch slice,5,g,15,mg,280,g,18,g,7,g,2.5,g,0,g,1,g,2,g
+751,russos new york pizzeria,vegetarian pizza 16 inch slice,9,g,25,mg,500,g,29,g,12,g,4.5,g,0,g,2,g,4,g
+752,russos new york pizzeria,villagio pizza 12 inch slice,14,g,25,mg,400,g,19,g,10,g,5,g,0,g,1,g,3,g
+753,russos new york pizzeria,villagio pizza 16 inch slice,25,g,45,mg,680,g,30,g,18,g,9,g,0,g,2,g,4,g
+754,russos new york pizzeria,white onions topping large,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+755,russos new york pizzeria,white onions topping party,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+756,russos new york pizzeria,wings fra diavolo,41,g,175,mg,2700,g,13,g,28,g,9,g,0,g,4,g,5,g
+757,rusty bucket restaurant and tavern,angry root beer float,13,g,40,mg,85,g,48,g,2,g,8,g,0,g,0,g,46,g
+758,rusty bucket restaurant and tavern,apple sauce,0,g,0,mg,0,g,30,g,0,g,0,g,0,g,2,g,25,g
+759,rusty bucket restaurant and tavern,asian tuna wrap,39,g,50,mg,1860,g,83,g,38,g,7,g,0,g,7,g,23,g
+760,rusty bucket restaurant and tavern,aztec chowder,30,g,95,mg,970,g,39,g,10,g,17,g,0,g,9,g,6,g
+761,rusty bucket restaurant and tavern,backyard bbq ribs full rack,132,g,610,mg,2410,g,87,g,163,g,33,g,0,g,4,g,57,g
+762,rusty bucket restaurant and tavern,backyard bbq ribs half rack,86,g,305,mg,1540,g,59,g,83,g,18,g,0,g,2,g,37,g
+763,rusty bucket restaurant and tavern,baja fish tacos,26,g,50,mg,1910,g,80,g,33,g,4.5,g,0,g,7,g,11,g
+764,rusty bucket restaurant and tavern,balsamic vinaigrette,20,g,0,mg,220,g,3,g,0,g,3,g,0,g,0,g,2,g
+765,rusty bucket restaurant and tavern,bbq chopped chicken salad,45,g,135,mg,1410,g,61,g,51,g,12,g,0,g,10,g,16,g
+766,rusty bucket restaurant and tavern,bbq tamarind wings 1 lb,68,g,490,mg,1530,g,30,g,175,g,18,g,0,g,0,g,27,g
+767,rusty bucket restaurant and tavern,bbq tamarind wings 2 lbs,115,g,790,mg,2850,g,60,g,281,g,30,g,0,g,1,g,54,g
+768,rusty bucket restaurant and tavern,beef stroganoff,65,g,570,mg,1350,g,141,g,82,g,29,g,0,g,8,g,7,g
+769,rusty bucket restaurant and tavern,beer cheese burger,114,g,245,mg,1500,g,56,g,72,g,25,g,3,g,6,g,5,g
+770,rusty bucket restaurant and tavern,belvedere martini,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+771,rusty bucket restaurant and tavern,black and blue iced tea,0,g,0,mg,15,g,18,g,0,g,0,g,0,g,1,g,15,g
+772,rusty bucket restaurant and tavern,blackened salmon salad,79,g,110,mg,1470,g,30,g,36,g,17,g,0,g,6,g,20,g
+773,rusty bucket restaurant and tavern,bloody mary,0,g,0,mg,480,g,6,g,1,g,0,g,0,g,0,g,3,g
+774,rusty bucket restaurant and tavern,blueberry bella,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,15,g
+775,rusty bucket restaurant and tavern,braised short rib hash,83,g,630,mg,2390,g,33,g,78,g,37,g,1,g,5,g,6,g
+776,rusty bucket restaurant and tavern,breakfast burrito,97,g,825,mg,2080,g,47,g,53,g,51,g,2,g,6,g,8,g
+777,rusty bucket restaurant and tavern,broccoli florets,11,g,15,mg,90,g,12,g,5,g,4.5,g,0,g,4,g,3,g
+778,rusty bucket restaurant and tavern,bucket biscuits and gravy,101,g,630,mg,2690,g,43,g,63,g,42,g,1,g,4,g,10,g
+779,rusty bucket restaurant and tavern,bucket bites,91,g,210,mg,1800,g,83,g,69,g,22,g,2.5,g,7,g,10,g
+780,rusty bucket restaurant and tavern,bucket hot brown,79,g,335,mg,2340,g,53,g,52,g,43,g,0,g,3,g,5,g
+781,rusty bucket restaurant and tavern,bucket o shrimp,20,g,485,mg,4240,g,19,g,53,g,3.5,g,0,g,2,g,11,g
+782,rusty bucket restaurant and tavern,bucket punch,0,g,0,mg,0,g,18,g,0,g,0,g,0,g,0,g,15,g
+783,rusty bucket restaurant and tavern,bud light,0,g,0,mg,10,g,5,g,1,g,0,g,0,g,0,g,0,g
+784,rusty bucket restaurant and tavern,bud select,0,g,0,mg,10,g,3,g,1,g,0,g,0,g,0,g,0,g
+785,rusty bucket restaurant and tavern,budweiser,0,g,0,mg,10,g,11,g,1,g,0,g,0,g,0,g,0,g
+786,rusty bucket restaurant and tavern,buffalo chicken sandwich,90,g,190,mg,4790,g,129,g,70,g,19,g,0,g,9,g,8,g
+787,rusty bucket restaurant and tavern,cabernet,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+788,rusty bucket restaurant and tavern,cazadores margarita,0,g,0,mg,0,g,14,g,0,g,0,g,0,g,0,g,9,g
+789,rusty bucket restaurant and tavern,chardonnay,0,g,0,mg,5,g,4,g,0,g,0,g,0,g,0,g,1,g
+790,rusty bucket restaurant and tavern,cheese pizza,31,g,85,mg,2130,g,128,g,49,g,18,g,0,g,5,g,9,g
+791,rusty bucket restaurant and tavern,chicken and waffles,70,g,45,mg,1540,g,165,g,26,g,8,g,3,g,3,g,85,g
+792,rusty bucket restaurant and tavern,chicken corn tortilla soup,20,g,55,mg,810,g,28,g,9,g,9,g,0,g,3,g,2,g
+793,rusty bucket restaurant and tavern,chicken finger blt,83,g,60,mg,2070,g,73,g,26,g,9,g,0,g,7,g,8,g
+794,rusty bucket restaurant and tavern,chicken fingers,49,g,130,mg,2410,g,111,g,58,g,4.5,g,0,g,6,g,13,g
+795,rusty bucket restaurant and tavern,chicken parmesan,65,g,215,mg,4810,g,174,g,92,g,25,g,3,g,6,g,11,g
+796,rusty bucket restaurant and tavern,chips and salsa,3,g,0,mg,1280,g,45,g,3,g,0,g,0,g,6,g,6,g
+797,rusty bucket restaurant and tavern,chocolate milkshake,33,g,105,mg,220,g,64,g,9,g,20,g,0,g,0,g,58,g
+798,rusty bucket restaurant and tavern,cinnamon sugar donut holes,12,g,0,mg,980,g,110,g,6,g,5,g,0,g,2,g,26,g
+799,rusty bucket restaurant and tavern,clam chowder,24,g,80,mg,1410,g,19,g,6,g,15,g,0,g,1,g,1,g
+800,rusty bucket restaurant and tavern,codwich,75,g,100,mg,3040,g,135,g,49,g,8,g,0,g,8,g,17,g
+801,rusty bucket restaurant and tavern,cole slaw,28,g,35,mg,740,g,18,g,1,g,6,g,0,g,3,g,15,g
+802,rusty bucket restaurant and tavern,coors light,0,g,0,mg,15,g,6,g,1,g,0,g,0,g,0,g,0,g
+803,rusty bucket restaurant and tavern,cottage cheese,7,g,30,mg,620,g,6,g,19,g,3,g,0,g,0,g,5,g
+804,rusty bucket restaurant and tavern,cream of mushroom,28,g,85,mg,1060,g,20,g,3,g,16,g,0,g,0,g,2,g
+805,rusty bucket restaurant and tavern,creole tomato soup,13,g,30,mg,1120,g,13,g,2,g,5,g,0,g,2,g,6,g
+806,rusty bucket restaurant and tavern,cuban rice and beans,0.5,g,0,mg,1570,g,69,g,8,g,0,g,0,g,2,g,0,g
+807,rusty bucket restaurant and tavern,cucumber pear,0,g,0,mg,0,g,16,g,0,g,0,g,0,g,0,g,14,g
+808,rusty bucket restaurant and tavern,deep fried pickles,13,g,15,mg,1810,g,136,g,4,g,3,g,0,g,3,g,23,g
+809,rusty bucket restaurant and tavern,double bacon cheddar burger,129,g,210,mg,1820,g,52,g,57,g,31,g,2.5,g,6,g,4,g
+810,rusty bucket restaurant and tavern,double nickel salad,46,g,50,mg,950,g,23,g,17,g,13,g,0,g,3,g,17,g
+811,rusty bucket restaurant and tavern,double nickel salad with chicken,51,g,145,mg,1240,g,23,g,52,g,14,g,0,g,3,g,17,g
+812,rusty bucket restaurant and tavern,double nickel salad with salmon,63,g,140,mg,1030,g,23,g,49,g,16,g,0,g,3,g,17,g
+813,rusty bucket restaurant and tavern,double stacked quesadilla,62,g,160,mg,2130,g,89,g,54,g,31,g,0,g,9,g,7,g
+814,rusty bucket restaurant and tavern,fish n chips,63,g,150,mg,1610,g,75,g,59,g,7,g,0,g,5,g,9,g
+815,rusty bucket restaurant and tavern,french fries,42,g,0,mg,510,g,27,g,3,g,2.5,g,0,g,3,g,0,g
+816,rusty bucket restaurant and tavern,french onion soup,11,g,25,mg,1200,g,13,g,10,g,6,g,0,g,1,g,4,g
+817,rusty bucket restaurant and tavern,fresh fruit cup,0,g,0,mg,5,g,13,g,1,g,0,g,0,g,1,g,11,g
+818,rusty bucket restaurant and tavern,garlic bread,26,g,40,mg,630,g,29,g,10,g,11,g,0,g,1,g,2,g
+819,rusty bucket restaurant and tavern,garys 3 way,76,g,175,mg,1850,g,99,g,51,g,34,g,1,g,9,g,8,g
+820,rusty bucket restaurant and tavern,gluten free bbq chicken,25,g,160,mg,1820,g,57,g,61,g,10,g,0,g,10,g,24,g
+821,rusty bucket restaurant and tavern,gluten free blackened salmon,56,g,145,mg,1750,g,28,g,52,g,13,g,0,g,8,g,5,g
+822,rusty bucket restaurant and tavern,gluten free greek salad,42,g,120,mg,960,g,16,g,41,g,10,g,0,g,4,g,10,g
+823,rusty bucket restaurant and tavern,gluten free house salad,3,g,10,mg,125,g,6,g,6,g,1.5,g,0,g,2,g,3,g
+824,rusty bucket restaurant and tavern,gluten free pan sauce,21,g,30,mg,160,g,2,g,0,g,9,g,0,g,0,g,0,g
+825,rusty bucket restaurant and tavern,gluten free sirloin steak,92,g,310,mg,1440,g,13,g,67,g,40,g,1,g,5,g,3,g
+826,rusty bucket restaurant and tavern,gorgonzola sirloin,79,g,245,mg,1250,g,15,g,59,g,33,g,1,g,4,g,4,g
+827,rusty bucket restaurant and tavern,grape crush caipiroska,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,15,g
+828,rusty bucket restaurant and tavern,grapefruit caipiroska,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,0,g,13,g
+829,rusty bucket restaurant and tavern,grapefruit elderflower margarita,0,g,0,mg,0,g,27,g,0,g,0,g,0,g,0,g,21,g
+830,rusty bucket restaurant and tavern,green chili burger,104,g,240,mg,1450,g,57,g,71,g,24,g,3,g,6,g,11,g
+831,rusty bucket restaurant and tavern,habanero blood orange margarita,0,g,10,mg,10,g,19,g,1,g,0,g,0,g,0,g,11,g
+832,rusty bucket restaurant and tavern,habanero wings 1 lb,81,g,585,mg,2300,g,9,g,208,g,21,g,0,g,2,g,4,g
+833,rusty bucket restaurant and tavern,habanero wings 2 lbs,120,g,790,mg,4190,g,17,g,280,g,31,g,0,g,4,g,7,g
+834,rusty bucket restaurant and tavern,happy hour burger,53,g,230,mg,1300,g,23,g,67,g,21,g,3,g,2,g,4,g
+835,rusty bucket restaurant and tavern,hemingway daiquiri,0,g,0,mg,5,g,15,g,0,g,0,g,0,g,0,g,13,g
+836,rusty bucket restaurant and tavern,herradura margarita,0,g,0,mg,0,g,14,g,0,g,0,g,0,g,0,g,13,g
+837,rusty bucket restaurant and tavern,honey mustard dressing,15,g,15,mg,450,g,15,g,0,g,2,g,0,g,37,g,13,g
+838,rusty bucket restaurant and tavern,honey vinaigrette,19,g,10,mg,320,g,8,g,0,g,3,g,0,g,0,g,7,g
+839,rusty bucket restaurant and tavern,house salad,13,g,20,mg,500,g,15,g,9,g,4.5,g,0,g,3,g,4,g
+840,rusty bucket restaurant and tavern,hummus,31,g,15,mg,1650,g,90,g,21,g,5,g,0,g,8,g,6,g
+841,rusty bucket restaurant and tavern,italian torpedo sandwich,126,g,185,mg,4410,g,108,g,59,g,27,g,0,g,8,g,9,g
+842,rusty bucket restaurant and tavern,joes regular wings 1 lb,76,g,445,mg,3350,g,3,g,139,g,27,g,0,g,0,g,1,g
+843,rusty bucket restaurant and tavern,joes regular wings 2 lbs,151,g,885,mg,6700,g,6,g,278,g,53,g,0,g,1,g,3,g
+844,rusty bucket restaurant and tavern,kentucky mule,0,g,0,mg,0,g,22,g,0,g,0,g,0,g,0,g,19,g
+845,rusty bucket restaurant and tavern,key lime martini,1.5,g,5,mg,0,g,16,g,0,g,1,g,0,g,0,g,14,g
+846,rusty bucket restaurant and tavern,kids apple juice,0,g,0,mg,5,g,21,g,1,g,0,g,0,g,1,g,18,g
+847,rusty bucket restaurant and tavern,kids apple sauce,0,g,0,mg,0,g,30,g,0,g,0,g,0,g,2,g,25,g
+848,rusty bucket restaurant and tavern,kids biscuit and gravy,58,g,335,mg,1340,g,21,g,32,g,26,g,1,g,2,g,5,g
+849,rusty bucket restaurant and tavern,kids broccoli florets,0,g,0,mg,220,g,6,g,2,g,0,g,0,g,3,g,1,g
+850,rusty bucket restaurant and tavern,kids burger,68,g,130,mg,660,g,40,g,42,g,12,g,1.5,g,4,g,3,g
+851,rusty bucket restaurant and tavern,kids cheese burger,69,g,135,mg,1020,g,41,g,47,g,13,g,1.5,g,4,g,3,g
+852,rusty bucket restaurant and tavern,kids cheese pizza,15,g,40,mg,970,g,61,g,24,g,9,g,0,g,2,g,3,g
+853,rusty bucket restaurant and tavern,kids cheesy scrambled eggs,55,g,700,mg,700,g,11,g,30,g,29,g,1,g,1,g,6,g
+854,rusty bucket restaurant and tavern,kids chicken fingers,51,g,25,mg,980,g,51,g,14,g,3.5,g,0,g,3,g,11,g
+855,rusty bucket restaurant and tavern,kids cottage cheese,7,g,30,mg,620,g,6,g,19,g,3,g,0,g,0,g,5,g
+856,rusty bucket restaurant and tavern,kids cuban rice and beans,0.5,g,0,mg,1570,g,69,g,8,g,0,g,0,g,2,g,0,g
+857,rusty bucket restaurant and tavern,kids fish n chips,52,g,75,mg,1190,g,63,g,32,g,5,g,0,g,3,g,4,g
+858,rusty bucket restaurant and tavern,kids french fries,4,g,0,mg,250,g,20,g,2,g,0,g,0,g,2,g,0,g
+859,rusty bucket restaurant and tavern,kids fresh fruit cup,0,g,0,mg,5,g,13,g,1,g,0,g,0,g,1,g,11,g
+860,rusty bucket restaurant and tavern,kids grilled cheese,20,g,45,mg,990,g,45,g,15,g,10,g,1,g,3,g,5,g
+861,rusty bucket restaurant and tavern,kids grilled chicken fingers with broccoli and apple juice,24,g,50,mg,1450,g,55,g,23,g,2.5,g,0,g,26,g,13,g
+862,rusty bucket restaurant and tavern,kids grilled fish with carrots and apple juice,1.5,g,60,mg,1230,g,26,g,27,g,0,g,0,g,2,g,20,g
+863,rusty bucket restaurant and tavern,kids hot dog,58,g,25,mg,940,g,45,g,12,g,9,g,0.5,g,5,g,2,g
+864,rusty bucket restaurant and tavern,kids mac n cheese,68,g,100,mg,1430,g,107,g,31,g,18,g,0,g,6,g,6,g
+865,rusty bucket restaurant and tavern,kids mashers,11,g,25,mg,440,g,14,g,2,g,6,g,0,g,1,g,1,g
+866,rusty bucket restaurant and tavern,kids pb and j,72,g,0,mg,570,g,111,g,20,g,9,g,0,g,6,g,55,g
+867,rusty bucket restaurant and tavern,kids pepperoni pizza,27,g,70,mg,1470,g,61,g,30,g,13,g,0,g,2,g,3,g
+868,rusty bucket restaurant and tavern,kids roasted carrots,5,g,5,mg,85,g,9,g,1,g,2,g,0,g,3,g,4,g
+869,rusty bucket restaurant and tavern,kids root beer float,4,g,15,mg,50,g,34,g,0,g,2.5,g,0,g,0,g,33,g
+870,rusty bucket restaurant and tavern,kids side salad,0,g,0,mg,10,g,2,g,1,g,0,g,0,g,1,g,1,g
+871,rusty bucket restaurant and tavern,kids sticky rice,0,g,0,mg,10,g,41,g,3,g,0,g,0,g,0,g,3,g
+872,rusty bucket restaurant and tavern,kids tomato cucumber salad,8,g,5,mg,230,g,10,g,2,g,2,g,0,g,1,g,7,g
+873,rusty bucket restaurant and tavern,kids veggie pizza with side salad and apple juice,11,g,35,mg,840,g,86,g,21,g,6,g,0,g,4,g,23,g
+874,rusty bucket restaurant and tavern,kids waffle,20,g,10,mg,890,g,135,g,11,g,4.5,g,3,g,2,g,82,g
+875,rusty bucket restaurant and tavern,kids yogurt and fruit,2,g,10,mg,85,g,24,g,15,g,0,g,0,g,2,g,18,g
+876,rusty bucket restaurant and tavern,lobster bisque,28,g,100,mg,1130,g,16,g,6,g,19,g,0,g,1,g,1,g
+877,rusty bucket restaurant and tavern,luxardo old fashioned,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,1,g,7,g
+878,rusty bucket restaurant and tavern,macaroni n cheese,67,g,165,mg,1210,g,170,g,49,g,33,g,0,g,7,g,9,g
+879,rusty bucket restaurant and tavern,malbec,0,g,0,mg,5,g,4,g,0,g,0,g,0,g,0,g,1,g
+880,rusty bucket restaurant and tavern,margherita pizza,26,g,75,mg,2030,g,122,g,44,g,15,g,0,g,4,g,6,g
+881,rusty bucket restaurant and tavern,mashers,11,g,25,mg,440,g,14,g,2,g,6,g,0,g,1,g,1,g
+882,rusty bucket restaurant and tavern,meatloaf,46,g,240,mg,2500,g,80,g,60,g,18,g,1,g,13,g,24,g
+883,rusty bucket restaurant and tavern,merlot,0,g,0,mg,5,g,4,g,0,g,0,g,0,g,0,g,1,g
+884,rusty bucket restaurant and tavern,michelob ultra,0,g,0,mg,10,g,3,g,1,g,0,g,0,g,0,g,0,g
+885,rusty bucket restaurant and tavern,mikes hard lemonade,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,35,g
+886,rusty bucket restaurant and tavern,miller 64,0,g,0,mg,15,g,6,g,1,g,0,g,0,g,0,g,0,g
+887,rusty bucket restaurant and tavern,miller high life,0,g,0,mg,15,g,13,g,2,g,0,g,0,g,0,g,0,g
+888,rusty bucket restaurant and tavern,miller lite,0,g,0,mg,15,g,6,g,1,g,0,g,0,g,0,g,0,g
+889,rusty bucket restaurant and tavern,mimosa,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,2,g
+890,rusty bucket restaurant and tavern,moscato,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,0,g
+891,rusty bucket restaurant and tavern,moscow mule,0,g,0,mg,0,g,15,g,0,g,0,g,0,g,0,g,13,g
+892,rusty bucket restaurant and tavern,mushrooms,11,g,15,mg,40,g,4,g,4,g,4.5,g,0,g,1,g,2,g
+893,rusty bucket restaurant and tavern,nickel dressing,20,g,0,mg,90,g,11,g,0,g,3,g,0,g,0,g,10,g
+894,rusty bucket restaurant and tavern,odouls,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,0,g,24,g
+895,rusty bucket restaurant and tavern,pale ale bbq pork,39,g,105,mg,2890,g,82,g,37,g,12,g,0,g,7,g,34,g
+896,rusty bucket restaurant and tavern,pan seared salmon,46,g,155,mg,660,g,73,g,50,g,14,g,0,g,3,g,29,g
+897,rusty bucket restaurant and tavern,patty melt,110,g,240,mg,2160,g,75,g,70,g,24,g,3,g,6,g,10,g
+898,rusty bucket restaurant and tavern,pecan manhattan,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,0,g,12,g
+899,rusty bucket restaurant and tavern,pepperoni and peppers pizza,56,g,145,mg,3170,g,131,g,62,g,26,g,0,g,7,g,10,g
+900,rusty bucket restaurant and tavern,pesto chicken pasta,45,g,170,mg,2340,g,91,g,73,g,15,g,0,g,8,g,6,g
+901,rusty bucket restaurant and tavern,philly cheesesteak,111,g,290,mg,2720,g,111,g,92,g,37,g,2,g,9,g,10,g
+902,rusty bucket restaurant and tavern,pineapple finlandia cosmo,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,7,g
+903,rusty bucket restaurant and tavern,pink gin fizz,0,g,0,mg,10,g,15,g,0,g,0,g,0,g,0,g,14,g
+904,rusty bucket restaurant and tavern,pinot grigio,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+905,rusty bucket restaurant and tavern,pinot noir,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+906,rusty bucket restaurant and tavern,pizza topping bacon,56,g,55,mg,15,g,0,g,0,g,18,g,0,g,0,g,0,g
+907,rusty bucket restaurant and tavern,pizza topping banana peppers,0,g,0,mg,5,g,3,g,1,g,0,g,0,g,2,g,1,g
+908,rusty bucket restaurant and tavern,pizza topping bell peppers,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,1,g,1,g
+909,rusty bucket restaurant and tavern,pizza topping blue cheese,16,g,45,mg,650,g,1,g,12,g,11,g,0,g,0,g,1,g
+910,rusty bucket restaurant and tavern,pizza topping cappicola,8,g,50,mg,410,g,1,g,7,g,3,g,0,g,0,g,1,g
+911,rusty bucket restaurant and tavern,pizza topping cheddar,10,g,30,mg,410,g,1,g,15,g,7,g,0,g,0,g,1,g
+912,rusty bucket restaurant and tavern,pizza topping chicken,4,g,70,mg,220,g,0,g,26,g,1,g,0,g,0,g,0,g
+913,rusty bucket restaurant and tavern,pizza topping feta,12,g,50,mg,520,g,2,g,8,g,8,g,0,g,0,g,2,g
+914,rusty bucket restaurant and tavern,pizza topping fresh mozzarella,13,g,45,mg,360,g,1,g,13,g,7,g,0,g,0,g,1,g
+915,rusty bucket restaurant and tavern,pizza topping green olives,6,g,0,mg,420,g,4,g,1,g,1,g,0,g,2,g,0,g
+916,rusty bucket restaurant and tavern,pizza topping hungarian peppers,0,g,0,mg,0,g,4,g,1,g,0,g,0,g,0,g,0,g
+917,rusty bucket restaurant and tavern,pizza topping italian sausage,10,g,35,mg,460,g,1,g,9,g,3,g,0,g,0,g,1,g
+918,rusty bucket restaurant and tavern,pizza topping jalapenos,1,g,0,mg,950,g,3,g,1,g,0,g,0,g,1,g,1,g
+919,rusty bucket restaurant and tavern,pizza topping mushrooms,0,g,0,mg,0,g,2,g,2,g,0,g,0,g,1,g,1,g
+920,rusty bucket restaurant and tavern,pizza topping pepperoni,25,g,60,mg,1000,g,0,g,13,g,8,g,0,g,0,g,0,g
+921,rusty bucket restaurant and tavern,pizza topping red onions,0,g,0,mg,0,g,5,g,1,g,0,g,0,g,1,g,2,g
+922,rusty bucket restaurant and tavern,pizza topping roasted tomato,1,g,0,mg,75,g,2,g,1,g,0,g,0,g,1,g,1,g
+923,rusty bucket restaurant and tavern,pizza topping spinach,0,g,0,mg,55,g,3,g,2,g,0,g,0,g,2,g,1,g
+924,rusty bucket restaurant and tavern,pork potstickers,21,g,25,mg,1750,g,58,g,14,g,4.5,g,0,g,4,g,20,g
+925,rusty bucket restaurant and tavern,pork tenderloin sandwich,75,g,145,mg,3510,g,134,g,60,g,9,g,0,g,9,g,7,g
+926,rusty bucket restaurant and tavern,prosecco,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+927,rusty bucket restaurant and tavern,raspberry lemonade,0.5,g,0,mg,0,g,52,g,1,g,0,g,0,g,4,g,43,g
+928,rusty bucket restaurant and tavern,riesling,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,0,g
+929,rusty bucket restaurant and tavern,roasted carrots,5,g,5,mg,85,g,9,g,1,g,2,g,0,g,3,g,4,g
+930,rusty bucket restaurant and tavern,rogue root beer float,8,g,25,mg,100,g,68,g,1,g,5,g,0,g,0,g,67,g
+931,rusty bucket restaurant and tavern,rose,0,g,0,mg,0,g,10,g,2,g,0,g,0,g,5,g,0,g
+932,rusty bucket restaurant and tavern,rusty bucket burger,98,g,230,mg,2090,g,59,g,78,g,22,g,3,g,6,g,8,g
+933,rusty bucket restaurant and tavern,sauteed spinach,6,g,0,mg,65,g,7,g,2,g,1,g,0,g,2,g,4,g
+934,rusty bucket restaurant and tavern,sauvignon blanc,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+935,rusty bucket restaurant and tavern,shiraz,0,g,0,mg,5,g,4,g,0,g,0,g,0,g,0,g,1,g
+936,rusty bucket restaurant and tavern,shrimp scampi,64,g,175,mg,2310,g,113,g,34,g,24,g,0,g,7,g,5,g
+937,rusty bucket restaurant and tavern,skillet beans,16,g,30,mg,1320,g,9,g,7,g,6,g,0,g,3,g,4,g
+938,rusty bucket restaurant and tavern,sonoma brut,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+939,rusty bucket restaurant and tavern,spaghetti n meatballs,40,g,80,mg,3310,g,148,g,49,g,16,g,0,g,9,g,14,g
+940,rusty bucket restaurant and tavern,spaghetti alfredo,21,g,25,mg,2270,g,83,g,14,g,7,g,3,g,4,g,6,g
+941,rusty bucket restaurant and tavern,spaghetti marinara,1.5,g,0,mg,530,g,67,g,15,g,0,g,0,g,4,g,5,g
+942,rusty bucket restaurant and tavern,sparkling blackberry,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,8,g
+943,rusty bucket restaurant and tavern,sparkling grapefruit,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,5,g
+944,rusty bucket restaurant and tavern,spinach con queso,66,g,150,mg,3330,g,98,g,38,g,31,g,0,g,9,g,16,g
+945,rusty bucket restaurant and tavern,spruce gin gimlet,0,g,0,mg,0,g,15,g,0,g,0,g,0,g,0,g,13,g
+946,rusty bucket restaurant and tavern,sriracha wings 1 lb,76,g,510,mg,2790,g,3,g,173,g,23,g,0,g,0,g,1,g
+947,rusty bucket restaurant and tavern,sriracha wings 2 lbs,163,g,1120,mg,5690,g,6,g,380,g,49,g,0,g,1,g,3,g
+948,rusty bucket restaurant and tavern,sticky bun bread pudding,70,g,455,mg,680,g,142,g,14,g,35,g,0,g,3,g,78,g
+949,rusty bucket restaurant and tavern,sticky rice,0,g,0,mg,10,g,41,g,3,g,0,g,0,g,0,g,3,g
+950,rusty bucket restaurant and tavern,stir fry beans,22,g,30,mg,530,g,32,g,3,g,9,g,0,g,3,g,27,g
+951,rusty bucket restaurant and tavern,strawberry agua fresca,0,g,0,mg,35,g,20,g,0,g,0,g,0,g,1,g,17,g
+952,rusty bucket restaurant and tavern,strawberry daiquiri,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,7,g
+953,rusty bucket restaurant and tavern,strawberry milkshake,33,g,105,mg,160,g,47,g,8,g,20,g,0,g,1,g,43,g
+954,rusty bucket restaurant and tavern,strawberry mule,0,g,0,mg,0,g,23,g,0,g,0,g,0,g,1,g,20,g
+955,rusty bucket restaurant and tavern,strawberry shortcake,23,g,55,mg,430,g,108,g,6,g,12,g,2,g,1,g,84,g
+956,rusty bucket restaurant and tavern,strongbow cider,0,g,0,mg,15,g,9,g,0,g,0,g,0,g,0,g,9,g
+957,rusty bucket restaurant and tavern,sweet chili wings 1 lb,68,g,490,mg,1920,g,51,g,173,g,18,g,0,g,3,g,41,g
+958,rusty bucket restaurant and tavern,sweet chili wings 2 lbs,115,g,790,mg,3630,g,102,g,278,g,30,g,0,g,7,g,82,g
+959,rusty bucket restaurant and tavern,sweet potato fries,12,g,0,mg,1230,g,57,g,3,g,0,g,0,g,9,g,21,g
+960,rusty bucket restaurant and tavern,taco salad,104,g,175,mg,2120,g,42,g,48,g,31,g,0.5,g,9,g,13,g
+961,rusty bucket restaurant and tavern,tequila gimlet,0,g,0,mg,0,g,15,g,0,g,0,g,0,g,0,g,13,g
+962,rusty bucket restaurant and tavern,tequila lime tilapia,56,g,170,mg,2080,g,45,g,51,g,22,g,0,g,7,g,4,g
+963,rusty bucket restaurant and tavern,tequila mule,0,g,0,mg,0,g,27,g,0,g,0,g,0,g,0,g,25,g
+964,rusty bucket restaurant and tavern,texas sirloin chili,34,g,90,mg,1200,g,41,g,28,g,13,g,1.5,g,6,g,7,g
+965,rusty bucket restaurant and tavern,the big sicilian pizza,74,g,230,mg,4030,g,132,g,77,g,32,g,0,g,6,g,12,g
+966,rusty bucket restaurant and tavern,the reuben,132,g,340,mg,3860,g,69,g,60,g,43,g,0,g,7,g,8,g
+967,rusty bucket restaurant and tavern,todays 4 egg omelet,75,g,800,mg,1930,g,19,g,61,g,35,g,1,g,4,g,4,g
+968,rusty bucket restaurant and tavern,tomato basil soup,23,g,70,mg,900,g,18,g,5,g,15,g,0,g,3,g,3,g
+969,rusty bucket restaurant and tavern,tomato cucumber salad,8,g,5,mg,230,g,10,g,2,g,2,g,0,g,1,g,7,g
+970,rusty bucket restaurant and tavern,triple chocolate cake,47,g,55,mg,810,g,107,g,9,g,19,g,0,g,3,g,76,g
+971,rusty bucket restaurant and tavern,triple decker breakfast sandwich,78,g,350,mg,1820,g,68,g,39,g,36,g,2,g,4,g,13,g
+972,rusty bucket restaurant and tavern,turkey burger,82,g,170,mg,1840,g,59,g,55,g,13,g,0,g,7,g,9,g
+973,rusty bucket restaurant and tavern,turkey club sandwich,83,g,180,mg,2730,g,91,g,58,g,21,g,1,g,8,g,9,g
+974,rusty bucket restaurant and tavern,vanilla milkshake,32,g,105,mg,160,g,42,g,8,g,20,g,0,g,0,g,40,g
+975,rusty bucket restaurant and tavern,vegetable soup,2.5,g,0,mg,790,g,16,g,2,g,0,g,0,g,2,g,3,g
+976,rusty bucket restaurant and tavern,veggie burger,80,g,75,mg,1790,g,143,g,41,g,19,g,1,g,26,g,12,g
+977,rusty bucket restaurant and tavern,veggie pizza,31,g,85,mg,2030,g,126,g,50,g,18,g,0,g,6,g,8,g
+978,rusty bucket restaurant and tavern,wedge of iceberg salad without dressing,13,g,135,mg,530,g,6,g,15,g,4.5,g,0,g,2,g,4,g
+979,rusty bucket restaurant and tavern,white zinfandel,0,g,0,mg,5,g,4,g,0,g,0,g,0,g,0,g,1,g
+980,rusty bucket restaurant and tavern,whole wheat bun,2,g,0,mg,260,g,25,g,6,g,0,g,0,g,3,g,4,g
+981,rusty bucket restaurant and tavern,woodchuck cider,0,g,0,mg,15,g,21,g,0,g,0,g,0,g,0,g,21,g
+982,rusty bucket restaurant and tavern,yogurt spill,2,g,15,mg,115,g,45,g,24,g,0,g,0,g,4,g,36,g
+983,rusty bucket restaurant and tavern,yuengling light,0,g,0,mg,15,g,6,g,1,g,0,g,0,g,0,g,0,g
+984,salad and go,cucumber mint lemonade 16 oz,0.1,g,0,mg,10,g,20,g,0,g,0,g,0,g,0,g,19,g
+985,salad and go,traditional lemonade 16 oz,0.1,g,0,mg,10,g,38,g,0,g,0,g,0,g,0,g,36,g
+986,salad and go,sangria lemonade 16 oz,0.1,g,0,mg,10,g,24,g,0,g,0,g,0,g,0,g,23,g
+987,salad and go,breakfast smoothie,20,g,0,mg,260,g,68,g,20,g,5.6,g,0,g,9,g,45,g
+988,salad and go,tropical green smoothie,0.5,g,0,mg,30,g,49,g,2,g,0.1,g,0,g,3,g,43,g
+989,salad and go,pumpkin chai smoothie,4.5,g,0,mg,200,g,50,g,3,g,0.2,g,0,g,5,g,41,g
+990,salad and go,strawberry and spinach smoothie,0.5,g,0,mg,35,g,52,g,2,g,0.1,g,0,g,5,g,41,g
+991,salad and go,spinach breakfast bowl,30,g,0,mg,1630,g,27,g,27,g,11,g,0,g,6,g,8,g
+992,salad and go,chia seed parfait,18,g,0,mg,75,g,50,g,10,g,10,g,0,g,8,g,24,g
+993,salad and go,farmhouse egg bites,10,g,0,mg,115,g,1,g,11,g,4,g,0,g,0,g,0,g
+994,salad and go,rolled breakfast taco turkey sausage,12,g,0,mg,530,g,20,g,14,g,3.5,g,0,g,0,g,1,g
+995,salad and go,rolled breakfast taco spinach,9,g,0,mg,450,g,20,g,9,g,2.5,g,0,g,0,g,1,g
+996,salad and go,add on chicken,3.5,g,0,mg,840,g,1,g,25,g,1,g,0,g,0,g,0,g
+997,salad and go,add on tofu,7,g,0,mg,240,g,7,g,10,g,1,g,0,g,1,g,2,g
+998,salad and go,add on shrimp,4,g,0,mg,540,g,1,g,13,g,0.5,g,0,g,0,g,0,g
+999,salad and go,add on steak,7,g,0,mg,650,g,1,g,23,g,2.5,g,0,g,0,g,1,g

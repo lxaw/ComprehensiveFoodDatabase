@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,blimpie,barqs caffine free root beer 16 oz,0,g,0,mg,110,g,75,g,0,g,0,g,0,g,0,g,75,g
+1,blimpie,barqs caffine free root beer 21 oz,0,g,0,mg,130,g,87,g,0,g,0,g,0,g,0,g,87,g
+2,blimpie,barqs caffine free root beer 28 oz,0,g,0,mg,200,g,132,g,0,g,0,g,0,g,0,g,132,g
+3,blimpie,barqs red creme soda 12 oz,0,g,0,mg,65,g,51,g,0,g,0,g,0,g,0,g,51,g
+4,blimpie,barqs red creme soda 16 oz,0,g,0,mg,100,g,76,g,0,g,0,g,0,g,0,g,76,g
+5,blimpie,barqs red creme soda 21 oz,0,g,0,mg,115,g,89,g,0,g,0,g,0,g,0,g,89,g
+6,blimpie,barqs red creme soda 28 oz,0,g,0,mg,180,g,135,g,0,g,0,g,0,g,0,g,135,g
+7,blimpie,barqs root beer 12 oz,0,g,0,mg,75,g,50,g,0,g,0,g,0,g,0,g,50,g
+8,blimpie,barqs root beer 16 oz,0,g,0,mg,110,g,75,g,0,g,0,g,0,g,0,g,75,g
+9,blimpie,barqs root beer 21 oz,0,g,0,mg,130,g,87,g,0,g,0,g,0,g,0,g,87,g
+10,blimpie,barqs root beer 28 oz,0,g,0,mg,200,g,132,g,0,g,0,g,0,g,0,g,132,g
+11,blimpie,bbq chicken 7 inch pizza,14,g,60,mg,1380,g,76,g,28,g,7,g,0,g,2,g,12,g
+12,blimpie,bbq chicken pizza 1 slice 1 6th pizza,6,g,25,mg,660,g,37,g,12,g,3,g,0,g,1,g,7,g
+13,blimpie,bbq chicken pizza 1 slice 1 8th pizza,7,g,30,mg,900,g,49,g,15,g,4,g,0,g,2,g,12,g
+14,blimpie,bbq lays,15,g,0,mg,300,g,22,g,3,g,2,g,0,g,1,g,3,g
+15,blimpie,biscuit,12,g,0,mg,840,g,35,g,6,g,6,g,0,g,1,g,3,g
+16,blimpie,biscuit with bacon egg and cheese,22,g,125,mg,1470,g,37,g,15,g,10,g,0,g,1,g,4,g
+17,blimpie,biscuit with egg and cheese,19,g,120,mg,1230,g,37,g,12,g,9,g,0,g,1,g,4,g
+18,blimpie,biscuit with ham egg and cheese,20,g,135,mg,1530,g,38,g,17,g,10,g,0,g,1,g,4,g
+19,blimpie,biscuit with sausage gravy,27,g,25,mg,1310,g,43,g,12,g,10,g,0,g,2,g,4,g
+20,blimpie,biscuit with sausage egg and cheese,36,g,160,mg,1560,g,37,g,20,g,15,g,0,g,1,g,4,g
+21,blimpie,blimp sub large,94,g,225,mg,5390,g,120,g,76,g,22,g,0,g,5,g,24,g
+22,blimpie,blimp sub regular,47,g,110,mg,2690,g,62,g,38,g,11,g,0,g,3,g,13,g
+23,blimpie,blimpie best 3 blast,259,g,855,mg,25010,g,914,g,452,g,90,g,0,g,42,g,122,g
+24,blimpie,blimpie best sub large,33,g,95,mg,2800,g,108,g,52,g,10,g,0,g,6,g,17,g
+25,blimpie,blimpie best sub regular,17,g,50,mg,1410,g,54,g,26,g,5,g,0,g,3,g,8,g
+26,blimpie,blimpie best large sliders tray,163,g,560,mg,16820,g,644,g,311,g,57,g,0,g,11,g,101,g
+27,blimpie,blimpie best large wraps tray,205,g,475,mg,16430,g,547,g,252,g,70,g,0,g,9,g,59,g
+28,blimpie,blimpie best small sliders tray,81,g,280,mg,8410,g,322,g,155,g,29,g,0,g,6,g,51,g
+29,blimpie,blimpie best small wraps tray,104,g,240,mg,8260,g,272,g,127,g,35,g,0,g,5,g,29,g
+30,blimpie,blimpie burger,26,g,65,mg,790,g,51,g,24,g,9,g,1,g,3,g,7,g
+31,blimpie,blimpie dog,18,g,45,mg,960,g,24,g,17,g,6,g,1,g,1,g,4,g
+32,blimpie,blimpie special dressing,5,g,0,mg,0,g,0,g,0,g,1,g,0,g,0,g,0,g
+33,blimpie,blt sub large,54,g,55,mg,2570,g,96,g,35,g,11,g,0,g,5,g,12,g
+34,blimpie,blt sub regular,27,g,30,mg,1280,g,48,g,18,g,5,g,0,g,2,g,6,g
+35,blimpie,blue cheese dressing,28,g,20,mg,300,g,2,g,2,g,5,g,0,g,0,g,1,g
+36,blimpie,bluffin,1,g,0,mg,260,g,26,g,4,g,0,g,0,g,2,g,0,g
+37,blimpie,bluffin with bacon egg and cheese,11,g,125,mg,890,g,29,g,14,g,5,g,0,g,2,g,1,g
+38,blimpie,bluffin with egg and cheese,8,g,120,mg,660,g,29,g,11,g,4,g,0,g,2,g,1,g
+39,blimpie,bluffin with ham egg and cheese,9,g,135,mg,960,g,30,g,15,g,4,g,0,g,2,g,1,g
+40,blimpie,bluffin with sausage egg and cheese,25,g,160,mg,990,g,29,g,19,g,10,g,0,g,2,g,1,g
+41,blimpie,brisk iced tea and lemonade 12 oz,0,g,0,mg,35,g,17,g,0,g,0,g,0,g,0,g,17,g
+42,blimpie,brisk iced tea and lemonade 16 oz,0,g,0,mg,55,g,26,g,0,g,0,g,0,g,0,g,25,g
+43,blimpie,brisk iced tea and lemonade 21 oz,0,g,0,mg,65,g,30,g,0,g,0,g,0,g,0,g,29,g
+44,blimpie,brisk iced tea and lemonade 28 oz,0,g,0,mg,100,g,45,g,0,g,0,g,0,g,0,g,44,g
+45,blimpie,brisk lemon iced tea 12 oz,0,g,0,mg,40,g,22,g,0,g,0,g,0,g,0,g,22,g
+46,blimpie,brisk lemon iced tea 16 oz,0,g,0,mg,65,g,33,g,0,g,0,g,0,g,0,g,33,g
+47,blimpie,brisk lemon iced tea 21 oz,0,g,0,mg,75,g,39,g,0,g,0,g,0,g,0,g,39,g
+48,blimpie,brisk lemon iced tea 28 oz,0,g,0,mg,110,g,59,g,0,g,0,g,0,g,0,g,59,g
+49,blimpie,brisk mango iced tea 12 oz,0,g,0,mg,35,g,20,g,0,g,0,g,0,g,0,g,19,g
+50,blimpie,brisk mango iced tea 16 oz,0,g,0,mg,55,g,30,g,0,g,0,g,0,g,0,g,29,g
+51,blimpie,brisk mango iced tea 21 oz,0,g,0,mg,65,g,34,g,0,g,0,g,0,g,0,g,34,g
+52,blimpie,brisk mango iced tea 28 oz,0,g,0,mg,95,g,52,g,0,g,0,g,0,g,0,g,52,g
+53,blimpie,brisk no calorie peach iced green tea 12 oz,0,g,0,mg,110,g,0,g,0,g,0,g,0,g,0,g,0,g
+54,blimpie,brisk no calorie peach iced green tea 16 oz,0,g,0,mg,160,g,0,g,0,g,0,g,0,g,0,g,0,g
+55,blimpie,brisk no calorie peach iced green tea 21 oz,0,g,0,mg,190,g,0,g,0,g,0,g,0,g,0,g,0,g
+56,blimpie,brisk no calorie peach iced green tea 28 oz,0,g,0,mg,290,g,0,g,0,g,0,g,0,g,0,g,0,g
+57,blimpie,brisk raspberry iced tea 12 oz,0,g,0,mg,45,g,20,g,0,g,0,g,0,g,0,g,20,g
+58,blimpie,brisk raspberry iced tea 16 oz,0,g,0,mg,65,g,30,g,0,g,0,g,0,g,0,g,30,g
+59,blimpie,brisk raspberry iced tea 21 oz,0,g,0,mg,75,g,35,g,0,g,0,g,0,g,0,g,35,g
+60,blimpie,brisk raspberry iced tea 28 oz,0,g,0,mg,115,g,53,g,0,g,0,g,0,g,0,g,53,g
+61,blimpie,brisk strawberry melon 12 oz,0,g,0,mg,60,g,19,g,0,g,0,g,0,g,0,g,18,g
+62,blimpie,brisk strawberry melon 16 oz,0,g,0,mg,90,g,28,g,0,g,0,g,0,g,0,g,27,g
+63,blimpie,brisk strawberry melon 21 oz,0,g,0,mg,100,g,33,g,0,g,0,g,0,g,0,g,32,g
+64,blimpie,brisk strawberry melon 28 oz,0,g,0,mg,160,g,50,g,0,g,0,g,0,g,0,g,48,g
+65,blimpie,brisk sweet iced tea 12 oz,0,g,0,mg,50,g,22,g,0,g,0,g,0,g,0,g,22,g
+66,blimpie,brisk sweet iced tea 16 oz,0,g,0,mg,70,g,33,g,0,g,0,g,0,g,0,g,33,g
+67,blimpie,brisk sweet iced tea 21 oz,0,g,0,mg,85,g,38,g,0,g,0,g,0,g,0,g,38,g
+68,blimpie,brisk sweet iced tea 28 oz,0,g,0,mg,130,g,58,g,0,g,0,g,0,g,0,g,58,g
+69,blimpie,brisk unsweetened no lemon iced tea 12 oz,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+70,blimpie,brisk unsweetened no lemon iced tea 16 oz,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+71,blimpie,brisk unsweetened no lemon iced tea 21 oz,0,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+72,blimpie,brisk unsweetened no lemon iced tea 28 oz,0,g,0,mg,125,g,0,g,0,g,0,g,0,g,0,g,0,g
+73,blimpie,brownie,15,g,40,mg,290,g,62,g,4,g,2,g,0,g,2,g,39,g
+74,blimpie,buffalo chicken,1,g,15,mg,200,g,1,g,5,g,0,g,0,g,0,g,0,g
+75,blimpie,buffalo chicken salad,8,g,60,mg,790,g,9,g,23,g,3,g,0,g,3,g,4,g
+76,blimpie,buffalo chicken sub on ciabatta,22,g,65,mg,1970,g,51,g,30,g,5,g,0,g,3,g,5,g
+77,blimpie,buffalo chicken wrap,31,g,65,mg,2100,g,54,g,30,g,8,g,0,g,5,g,5,g
+78,blimpie,burrito with bacon egg and cheese,30,g,250,mg,2030,g,50,g,25,g,11,g,0,g,4,g,3,g
+79,blimpie,burrito with egg and cheese,26,g,240,mg,1680,g,50,g,21,g,10,g,0,g,4,g,3,g
+80,blimpie,burrito with ham egg and cheese,27,g,260,mg,2130,g,51,g,28,g,10,g,0,g,4,g,4,g
+81,blimpie,burrito with sausage egg and cheese,43,g,280,mg,2010,g,50,g,29,g,16,g,0,g,4,g,3,g
+82,blimpie,buttermilk ranch dressing,24,g,5,mg,220,g,3,g,1,g,4,g,0,g,0,g,1,g
+83,blimpie,buttermilk ranch light dressing,14,g,10,mg,380,g,6,g,0,g,3,g,0,g,0,g,2,g
+84,blimpie,caffeine free diet pepsi 12 oz,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+85,blimpie,caffeine free diet pepsi 16 oz,0,g,0,mg,85,g,0,g,0,g,0,g,0,g,0,g,0,g
+86,blimpie,caffeine free diet pepsi 21 oz,0,g,0,mg,100,g,0,g,0,g,0,g,0,g,0,g,0,g
+87,blimpie,caffeine free diet pepsi 28 oz,0,g,0,mg,150,g,0,g,0,g,0,g,0,g,0,g,0,g
+88,blimpie,caffeine free pepsi 12 oz,0,g,0,mg,30,g,42,g,0,g,0,g,0,g,0,g,42,g
+89,blimpie,caffeine free pepsi 16 oz,0,g,0,mg,45,g,54,g,0,g,0,g,0,g,0,g,53,g
+90,blimpie,caffeine free pepsi 21 oz,0,g,0,mg,55,g,74,g,0,g,0,g,0,g,0,g,73,g
+91,blimpie,caffeine free pepsi 28 oz,0,g,0,mg,80,g,112,g,0,g,0,g,0,g,0,g,112,g
+92,blimpie,caffeine free diet coke 12 oz,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+93,blimpie,caffeine free diet coke 16 oz,0,g,0,mg,75,g,0,g,0,g,0,g,0,g,0,g,0,g
+94,blimpie,calebs kola 12 oz,0,g,0,mg,70,g,36,g,0,g,0,g,0,g,0,g,35,g
+95,blimpie,calebs kola 16 oz,0,g,0,mg,100,g,54,g,0,g,0,g,0,g,0,g,53,g
+96,blimpie,calebs kola 21 oz,0,g,0,mg,120,g,63,g,0,g,0,g,0,g,0,g,61,g
+97,blimpie,calebs kola 28 oz,0,g,0,mg,180,g,96,g,0,g,0,g,0,g,0,g,93,g
+98,blimpie,canada dry ginger ale 12 oz,0,g,0,mg,50,g,37,g,0,g,0,g,0,g,0,g,36,g
+99,blimpie,canada dry ginger ale 16 oz,0,g,0,mg,75,g,55,g,0,g,0,g,0,g,0,g,54,g
+100,blimpie,canada dry ginger ale 21 oz,0,g,0,mg,90,g,65,g,0,g,0,g,0,g,0,g,63,g
+101,blimpie,canada dry ginger ale 28 oz,0,g,0,mg,180,g,96,g,0,g,0,g,0,g,0,g,93,g
+102,blimpie,cannonball bbq sauce,0,g,0,mg,150,g,6,g,0,g,0,g,0,g,0,g,5,g
+103,blimpie,capicola,1,g,5,mg,180,g,1,g,3,g,0,g,0,g,0,g,1,g
+104,blimpie,cheddar jalapeno bread large,11,g,15,mg,1160,g,91,g,21,g,4,g,0,g,3,g,8,g
+105,blimpie,cheddar jalapeno bread regular,5,g,5,mg,580,g,45,g,10,g,2,g,0,g,1,g,4,g
+106,blimpie,cheerwine 12 oz,0,g,0,mg,25,g,43,g,0,g,0,g,0,g,0,g,43,g
+107,blimpie,cheerwine 16 oz,0,g,0,mg,40,g,64,g,0,g,0,g,0,g,0,g,64,g
+108,blimpie,cheerwine 21 oz,0,g,0,mg,45,g,75,g,0,g,0,g,0,g,0,g,75,g
+109,blimpie,cheerwine 28 oz,0,g,0,mg,70,g,114,g,0,g,0,g,0,g,0,g,114,g
+110,blimpie,cheese 7 inch pizza,13,g,40,mg,1010,g,68,g,20,g,7,g,0,g,3,g,6,g
+111,blimpie,cheese pizza 1 slice 1 6th pizza,6,g,15,mg,490,g,33,g,9,g,3,g,0,g,2,g,3,g
+112,blimpie,cheese pizza 1 slice 1 8th pizza,7,g,20,mg,610,g,41,g,12,g,4,g,0,g,2,g,5,g
+113,blimpie,cheese sauce side,5,g,5,mg,490,g,6,g,1,g,3,g,0,g,0,g,2,g
+114,blimpie,cheese tray large,491,g,1425,mg,20020,g,47,g,375,g,285,g,0,g,0,g,0,g
+115,blimpie,cheese tray small,245,g,710,mg,10010,g,23,g,187,g,142,g,0,g,0,g,0,g
+116,blimpie,cherry coca cola 12 oz,0,g,0,mg,40,g,46,g,0,g,0,g,0,g,0,g,46,g
+117,blimpie,cherry coca cola 16 oz,0,g,0,mg,65,g,70,g,0,g,0,g,0,g,0,g,70,g
+118,blimpie,cherry coca cola 21 oz,0,g,0,mg,75,g,81,g,0,g,0,g,0,g,0,g,81,g
+119,blimpie,cherry coca cola 28 oz,0,g,0,mg,115,g,124,g,0,g,0,g,0,g,0,g,124,g
+120,blimpie,chicken caesar wrap,28,g,45,mg,1610,g,50,g,30,g,7,g,0,g,5,g,4,g
+121,blimpie,chicken cheddar bacon ranch sub large,53,g,145,mg,3530,g,106,g,68,g,16,g,0,g,6,g,15,g
+122,blimpie,chicken cheddar bacon ranch sub regular,26,g,75,mg,1760,g,53,g,34,g,8,g,0,g,3,g,8,g
+123,blimpie,chicken noodle soup,4,g,60,mg,1800,g,29,g,14,g,1,g,0,g,2,g,2,g
+124,blimpie,chicken salad sub large,32,g,85,mg,2150,g,97,g,44,g,5,g,0,g,5,g,12,g
+125,blimpie,chicken salad sub regular,16,g,45,mg,1070,g,48,g,22,g,2,g,0,g,2,g,6,g
+126,blimpie,chicken with white and wild rice soup,9,g,30,mg,850,g,15,g,14,g,2,g,0,g,4,g,4,g
+127,blimpie,chili side,2,g,5,mg,250,g,5,g,4,g,1,g,0,g,2,g,2,g
+128,blimpie,chipotle mayo dressing,10,g,5,mg,120,g,1,g,0,g,2,g,0,g,0,g,0,g
+129,blimpie,chocolate chunk cookie,10,g,10,mg,135,g,26,g,2,g,5,g,0,g,1,g,15,g
+130,blimpie,ciabatta,3,g,0,mg,590,g,43,g,8,g,0,g,0,g,2,g,2,g
+131,blimpie,cinnamon sugar soft pretzel,2,g,0,mg,310,g,65,g,10,g,1,g,0,g,0,g,5,g
+132,blimpie,classic combo 7 inch pizza,28,g,70,mg,1640,g,72,g,29,g,12,g,0,g,3,g,8,g
+133,blimpie,classic combo pizza 1 slice 1 6th pizza,11,g,25,mg,670,g,34,g,12,g,5,g,0,g,2,g,4,g
+134,blimpie,classic combo pizza 1 slice 1 8th pizza,14,g,45,mg,850,g,43,g,16,g,6,g,0,g,3,g,6,g
+135,blimpie,classic potato lays,15,g,0,mg,270,g,22,g,3,g,5,g,0,g,1,g,0,g
+136,blimpie,club 3 blast,162,g,785,mg,22050,g,909,g,429,g,59,g,0,g,42,g,121,g
+137,blimpie,club sub large,29,g,95,mg,2290,g,108,g,50,g,10,g,0,g,6,g,16,g
+138,blimpie,club sub regular,14,g,45,mg,1140,g,54,g,25,g,5,g,0,g,3,g,8,g
+139,blimpie,club large sliders tray,136,g,560,mg,13730,g,642,g,300,g,58,g,0,g,11,g,98,g
+140,blimpie,club large wraps tray,178,g,465,mg,13740,g,545,g,240,g,68,g,0,g,9,g,57,g
+141,blimpie,club small sliders tray,68,g,280,mg,6860,g,321,g,150,g,29,g,0,g,6,g,49,g
+142,blimpie,club small wraps tray,91,g,235,mg,6920,g,271,g,121,g,35,g,0,g,5,g,28,g
+143,blimpie,coca cola zero 12 oz,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+144,blimpie,coca cola zero 16 oz,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+145,blimpie,coca cola zero 21 oz,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+146,blimpie,coca cola 12 oz,0,g,0,mg,35,g,44,g,0,g,0,g,0,g,0,g,44,g
+147,blimpie,coca cola 16 oz,0,g,0,mg,55,g,66,g,0,g,0,g,0,g,0,g,66,g
+148,blimpie,coca cola 21 oz,0,g,0,mg,65,g,77,g,0,g,0,g,0,g,0,g,77,g
+149,blimpie,coca cola 28 oz,0,g,0,mg,95,g,118,g,0,g,0,g,0,g,0,g,118,g
+150,blimpie,cole slaw,16,g,10,mg,260,g,15,g,1,g,3,g,0,g,2,g,12,g
+151,blimpie,cool ranch doritos,12,g,0,mg,300,g,31,g,3,g,2,g,0,g,2,g,2,g
+152,blimpie,corned beef,5,g,45,mg,940,g,0,g,15,g,3,g,0,g,0,g,0,g
+153,blimpie,country time lemonade 12 oz,0,g,0,mg,140,g,36,g,0,g,0,g,0,g,0,g,46,g
+154,blimpie,country time lemonade 16 oz,0,g,0,mg,210,g,54,g,0,g,0,g,0,g,0,g,69,g
+155,blimpie,country time lemonade 21 oz,0,g,0,mg,250,g,63,g,0,g,0,g,0,g,0,g,80,g
+156,blimpie,country time lemonade 28 oz,0,g,0,mg,370,g,96,g,0,g,0,g,0,g,0,g,122,g
+157,blimpie,country time pink lemonade 12 oz,0,g,0,mg,140,g,36,g,0,g,0,g,0,g,0,g,43,g
+158,blimpie,country time pink lemonade 16 oz,0,g,0,mg,210,g,54,g,0,g,0,g,0,g,0,g,64,g
+159,blimpie,country time pink lemonade 21 oz,0,g,0,mg,250,g,63,g,0,g,0,g,0,g,0,g,75,g
+160,blimpie,country time pink lemonade 28 oz,0,g,0,mg,370,g,96,g,0,g,0,g,0,g,0,g,114,g
+161,blimpie,cream of broccoli with cheese soup,11,g,15,mg,940,g,15,g,6,g,2,g,0,g,3,g,5,g
+162,blimpie,cream of potato with bacon soup,9,g,5,mg,860,g,24,g,5,g,3,g,0,g,3,g,3,g
+163,blimpie,creamy caesar dressing,23,g,0,mg,420,g,2,g,1,g,4,g,0,g,0,g,2,g
+164,blimpie,creamy italian dressing,26,g,15,mg,290,g,1,g,0,g,5,g,0,g,0,g,1,g
+165,blimpie,croissant,11,g,10,mg,290,g,28,g,5,g,6,g,0,g,1,g,4,g
+166,blimpie,croissant with bacon egg and cheese,21,g,135,mg,920,g,30,g,14,g,10,g,0,g,1,g,5,g
+167,blimpie,croissant with egg and cheese,18,g,130,mg,680,g,30,g,11,g,9,g,0,g,1,g,5,g
+168,blimpie,croissant with ham egg and cheese,19,g,145,mg,980,g,31,g,16,g,10,g,0,g,1,g,5,g
+169,blimpie,croissant with sausage egg and cheese,35,g,170,mg,1010,g,30,g,19,g,15,g,0,g,1,g,5,g
+170,blimpie,crunchy cheetos,10,g,5,mg,290,g,15,g,2,g,2,g,0,g,1,g,1,g
+171,blimpie,crush orange soda 12 oz,0,g,0,mg,50,g,45,g,0,g,0,g,0,g,0,g,44,g
+172,blimpie,crush orange soda 16 oz,0,g,0,mg,70,g,64,g,0,g,0,g,0,g,0,g,66,g
+173,blimpie,crush orange soda 21 oz,0,g,0,mg,85,g,78,g,0,g,0,g,0,g,0,g,77,g
+174,blimpie,crush orange soda 28 oz,0,g,0,mg,125,g,119,g,0,g,0,g,0,g,0,g,118,g
+175,blimpie,crush strawberry soda 12 oz,0,g,0,mg,55,g,48,g,0,g,0,g,0,g,0,g,47,g
+176,blimpie,crush strawberry soda 16 oz,0,g,0,mg,80,g,72,g,0,g,0,g,0,g,0,g,71,g
+177,blimpie,crush strawberry soda 21 oz,0,g,0,mg,95,g,84,g,0,g,0,g,0,g,0,g,83,g
+178,blimpie,crush strawberry soda 28 oz,0,g,0,mg,150,g,128,g,0,g,0,g,0,g,0,g,126,g
+179,blimpie,cucumbers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+180,blimpie,diet 7up 12 oz,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+181,blimpie,diet 7up 16 oz,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+182,blimpie,diet 7up 21 oz,0,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+183,blimpie,diet 7up 28 oz,0,g,0,mg,120,g,0,g,0,g,0,g,0,g,0,g,0,g
+184,blimpie,diet calebs kola 12 oz,0,g,0,mg,70,g,1,g,0,g,0,g,0,g,0,g,0,g
+185,blimpie,diet calebs kola 16 oz,0,g,0,mg,110,g,1,g,0,g,0,g,0,g,0,g,0,g
+186,blimpie,diet calebs kola 21 oz,0,g,0,mg,125,g,2,g,0,g,0,g,0,g,0,g,0,g
+187,blimpie,diet calebs kola 28 oz,0,g,0,mg,190,g,3,g,0,g,0,g,0,g,0,g,0,g
+188,blimpie,diet coke with lime 12 oz,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+189,blimpie,diet coke with lime 16 oz,0,g,0,mg,75,g,0,g,0,g,0,g,0,g,0,g,0,g
+190,blimpie,diet coke 12 oz,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+191,blimpie,diet coke 16 oz,0,g,0,mg,75,g,0,g,0,g,0,g,0,g,0,g,0,g
+192,blimpie,diet dr pepper 12 oz,0,g,0,mg,75,g,0,g,0,g,0,g,0,g,0,g,0,g
+193,blimpie,diet dr pepper 16 oz,0,g,0,mg,110,g,0,g,0,g,0,g,0,g,0,g,0,g
+194,blimpie,diet dr pepper 21 oz,0,g,0,mg,130,g,0,g,0,g,0,g,0,g,0,g,0,g
+195,blimpie,diet mist twst 12 oz,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+196,blimpie,diet mist twst 16 oz,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+197,blimpie,diet mist twst 21 oz,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+198,blimpie,diet mist twst 28 oz,0,g,0,mg,100,g,0,g,0,g,0,g,0,g,0,g,0,g
+199,blimpie,diet mtn dew 12 oz,0,g,0,mg,55,g,1,g,0,g,0,g,0,g,0,g,0,g
+200,blimpie,diet mtn dew 16 oz,0,g,0,mg,85,g,1,g,0,g,0,g,0,g,0,g,1,g
+201,blimpie,diet mtn dew 21 oz,0,g,0,mg,100,g,1,g,0,g,0,g,0,g,0,g,1,g
+202,blimpie,diet mtn dew 28 oz,0,g,0,mg,150,g,1,g,0,g,0,g,0,g,0,g,1,g
+203,blimpie,diet pepsi 12 oz,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+204,blimpie,diet pepsi 16 oz,0,g,0,mg,85,g,0,g,0,g,0,g,0,g,0,g,0,g
+205,blimpie,diet pepsi 21 oz,0,g,0,mg,100,g,0,g,0,g,0,g,0,g,0,g,0,g
+206,blimpie,diet pepsi 28 oz,0,g,0,mg,150,g,0,g,0,g,0,g,0,g,0,g,0,g
+207,blimpie,diet rite cola 12 oz,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+208,blimpie,diet rite cola 16 oz,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+209,blimpie,diet rite cola 21 oz,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+210,blimpie,diet rite cola 28 oz,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+211,blimpie,dijon honey mustard,5,g,5,mg,100,g,3,g,0,g,1,g,0,g,0,g,3,g
+212,blimpie,dole cranberry juice drink 12 oz,0,g,0,mg,75,g,47,g,0,g,0,g,0,g,0,g,44,g
+213,blimpie,dole cranberry juice drink 16 oz,0,g,0,mg,115,g,70,g,0,g,0,g,0,g,0,g,66,g
+214,blimpie,dole cranberry juice drink 21 oz,0,g,0,mg,135,g,81,g,0,g,0,g,0,g,0,g,77,g
+215,blimpie,dole cranberry juice drink 28 oz,0,g,0,mg,210,g,124,g,0,g,0,g,0,g,0,g,118,g
+216,blimpie,dole old fashioned lemonade 12 oz,0,g,0,mg,160,g,46,g,0,g,0,g,0,g,0,g,44,g
+217,blimpie,dole old fashioned lemonade 16 oz,0,g,0,mg,240,g,69,g,0,g,0,g,0,g,0,g,66,g
+218,blimpie,dole old fashioned lemonade 21 oz,0,g,0,mg,270,g,80,g,0,g,0,g,0,g,0,g,77,g
+219,blimpie,dole old fashioned lemonade 28 oz,0,g,0,mg,420,g,122,g,0,g,0,g,0,g,0,g,118,g
+220,blimpie,dr pepper 12 oz,0,g,0,mg,45,g,40,g,0,g,0,g,0,g,0,g,39,g
+221,blimpie,dr pepper 16 oz,0,g,0,mg,65,g,60,g,0,g,0,g,0,g,0,g,58,g
+222,blimpie,dr pepper 21 oz,0,g,0,mg,80,g,69,g,0,g,0,g,0,g,0,g,68,g
+223,blimpie,dr pepper 28 oz,0,g,0,mg,120,g,106,g,0,g,0,g,0,g,0,g,104,g
+224,blimpie,eegees fun pak 25 servings,0,g,0,mg,890,g,646,g,0,g,0,g,0,g,5,g,628,g
+225,blimpie,eegees lemon frozen drink 16oz,0,g,0,mg,95,g,69,g,0,g,0,g,0,g,0,g,67,g
+226,blimpie,eegees lemon frozen drink 24oz,0,g,0,mg,140,g,103,g,0,g,0,g,0,g,0,g,100,g
+227,blimpie,eegees lemon frozen drink 32oz,0,g,0,mg,200,g,133,g,0,g,0,g,0,g,1,g,128,g
+228,blimpie,eegees party pak 50 servings,0,g,0,mg,1780,g,1293,g,0,g,0,g,0,g,10,g,1255,g
+229,blimpie,eegees pina colada frozen drink 16oz,0,g,0,mg,95,g,69,g,0,g,0,g,0,g,0,g,67,g
+230,blimpie,eegees pina colada frozen drink 24oz,0,g,0,mg,140,g,103,g,0,g,0,g,0,g,0,g,100,g
+231,blimpie,eegees pina colada frozen drink 32oz,0,g,0,mg,200,g,133,g,0,g,0,g,0,g,1,g,128,g
+232,blimpie,eegees strawberry frozen drink 16oz,0,g,0,mg,95,g,69,g,0,g,0,g,0,g,0,g,67,g
+233,blimpie,eegees strawberry frozen drink 24oz,0,g,0,mg,140,g,103,g,0,g,0,g,0,g,0,g,100,g
+234,blimpie,eegees strawberry frozen drink 32oz,0,g,0,mg,200,g,133,g,0,g,0,g,0,g,1,g,128,g
+235,blimpie,everything bread large,6,g,0,mg,940,g,90,g,17,g,1,g,0,g,3,g,8,g
+236,blimpie,everything bread regular,3,g,0,mg,470,g,45,g,9,g,1,g,0,g,2,g,4,g
+237,blimpie,fanta apple 12 oz,0,g,0,mg,60,g,49,g,0,g,0,g,0,g,0,g,49,g
+238,blimpie,fanta apple 16 oz,0,g,0,mg,90,g,74,g,0,g,0,g,0,g,0,g,74,g
+239,blimpie,fanta apple 21 oz,0,g,0,mg,105,g,86,g,0,g,0,g,0,g,0,g,86,g
+240,blimpie,fanta apple 28 oz,0,g,0,mg,160,g,131,g,0,g,0,g,0,g,0,g,131,g
+241,blimpie,fanta birch beer 12 oz,0,g,0,mg,55,g,46,g,0,g,0,g,0,g,0,g,46,g
+242,blimpie,fanta birch beer 16 oz,0,g,0,mg,85,g,71,g,0,g,0,g,0,g,0,g,71,g
+243,blimpie,fanta birch beer 21 oz,0,g,0,mg,95,g,83,g,0,g,0,g,0,g,0,g,83,g
+244,blimpie,fanta birch beer 28 oz,0,g,0,mg,150,g,127,g,0,g,0,g,0,g,0,g,127,g
+245,blimpie,fanta blue raspberry 12 oz,0,g,0,mg,50,g,52,g,0,g,0,g,0,g,0,g,52,g
+246,blimpie,fanta blue raspberry 16 oz,0,g,0,mg,75,g,78,g,0,g,0,g,0,g,0,g,78,g
+247,blimpie,fanta blue raspberry 21 oz,0,g,0,mg,90,g,90,g,0,g,0,g,0,g,0,g,90,g
+248,blimpie,fanta blue raspberry 28 oz,0,g,0,mg,135,g,138,g,0,g,0,g,0,g,0,g,138,g
+249,blimpie,fanta cherry 12 oz,0,g,0,mg,50,g,47,g,0,g,0,g,0,g,0,g,47,g
+250,blimpie,fanta cherry 16 oz,0,g,0,mg,75,g,70,g,0,g,0,g,0,g,0,g,70,g
+251,blimpie,fanta cherry 21 oz,0,g,0,mg,85,g,82,g,0,g,0,g,0,g,0,g,82,g
+252,blimpie,fanta cherry 28 oz,0,g,0,mg,130,g,125,g,0,g,0,g,0,g,0,g,125,g
+253,blimpie,fanta fruit punch 12 oz,0,g,0,mg,55,g,46,g,0,g,0,g,0,g,0,g,46,g
+254,blimpie,fanta fruit punch 16 oz,0,g,0,mg,85,g,69,g,0,g,0,g,0,g,0,g,69,g
+255,blimpie,fanta fruit punch 21 oz,0,g,0,mg,95,g,80,g,0,g,0,g,0,g,0,g,80,g
+256,blimpie,fanta fruit punch 28 oz,0,g,0,mg,150,g,123,g,0,g,0,g,0,g,0,g,123,g
+257,blimpie,fanta grape 12 oz,0,g,0,mg,50,g,50,g,0,g,0,g,0,g,0,g,50,g
+258,blimpie,fanta grape 16 oz,0,g,0,mg,75,g,74,g,0,g,0,g,0,g,0,g,74,g
+259,blimpie,fanta grape 21 oz,0,g,0,mg,90,g,87,g,0,g,0,g,0,g,0,g,87,g
+260,blimpie,fanta grape 28 oz,0,g,0,mg,135,g,132,g,0,g,0,g,0,g,0,g,132,g
+261,blimpie,fanta kiwi strawberry 12 oz,0,g,0,mg,50,g,52,g,0,g,0,g,0,g,0,g,52,g
+262,blimpie,fanta kiwi strawberry 16 oz,0,g,0,mg,75,g,79,g,0,g,0,g,0,g,0,g,79,g
+263,blimpie,fanta kiwi strawberry 21 oz,0,g,0,mg,90,g,92,g,0,g,0,g,0,g,0,g,92,g
+264,blimpie,fanta kiwi strawberry 28 oz,0,g,0,mg,135,g,140,g,0,g,0,g,0,g,0,g,140,g
+265,blimpie,fanta orange 12 oz,0,g,0,mg,45,g,48,g,0,g,0,g,0,g,0,g,47,g
+266,blimpie,fanta orange 16 oz,0,g,0,mg,65,g,71,g,0,g,0,g,0,g,0,g,70,g
+267,blimpie,fanta orange 21 oz,0,g,0,mg,75,g,83,g,0,g,0,g,0,g,0,g,82,g
+268,blimpie,fanta orange 28 oz,0,g,0,mg,115,g,127,g,0,g,0,g,0,g,0,g,125,g
+269,blimpie,fanta red 12 oz,0,g,0,mg,55,g,46,g,0,g,0,g,0,g,0,g,46,g
+270,blimpie,fanta red 16 oz,0,g,0,mg,80,g,70,g,0,g,0,g,0,g,0,g,70,g
+271,blimpie,fanta red 21 oz,0,g,0,mg,90,g,81,g,0,g,0,g,0,g,0,g,81,g
+272,blimpie,fanta red 28 oz,0,g,0,mg,140,g,124,g,0,g,0,g,0,g,0,g,124,g
+273,blimpie,fanta strawberry texas only 12 oz,0,g,0,mg,40,g,46,g,0,g,0,g,0,g,0,g,46,g
+274,blimpie,fanta strawberry texas only 16 oz,0,g,0,mg,60,g,69,g,0,g,0,g,0,g,0,g,69,g
+275,blimpie,fanta strawberry texas only 21 oz,0,g,0,mg,75,g,80,g,0,g,0,g,0,g,0,g,80,g
+276,blimpie,fanta strawberry texas only 28 oz,0,g,0,mg,110,g,122,g,0,g,0,g,0,g,0,g,122,g
+277,blimpie,fanta strawberry 12 oz,0,g,0,mg,50,g,51,g,0,g,0,g,0,g,0,g,51,g
+278,blimpie,fanta strawberry 16 oz,0,g,0,mg,75,g,76,g,0,g,0,g,0,g,0,g,76,g
+279,blimpie,fanta strawberry 21 oz,0,g,0,mg,90,g,89,g,0,g,0,g,0,g,0,g,89,g
+280,blimpie,fanta strawberry 28 oz,0,g,0,mg,135,g,135,g,0,g,0,g,0,g,0,g,135,g
+281,blimpie,flour tortilla,11,g,0,mg,740,g,45,g,8,g,3,g,0,g,4,g,1,g
+282,blimpie,franks redhot hot sauce,0,g,0,mg,500,g,1,g,0,g,0,g,0,g,0,g,0,g
+283,blimpie,french dip sub on ciabatta,11,g,65,mg,2080,g,51,g,31,g,5,g,0,g,2,g,2,g
+284,blimpie,french dip sub large,23,g,130,mg,3420,g,103,g,62,g,10,g,0,g,3,g,8,g
+285,blimpie,french dip sub regular,11,g,65,mg,1960,g,53,g,31,g,5,g,0,g,1,g,4,g
+286,blimpie,french fries large,46,g,0,mg,1100,g,109,g,14,g,9,g,0,g,14,g,5,g
+287,blimpie,french fries regular,25,g,0,mg,760,g,70,g,9,g,5,g,0,g,9,g,3,g
+288,blimpie,fresca 21 oz,0,g,0,mg,85,g,2,g,0,g,0,g,0,g,0,g,0,g
+289,blimpie,fresca 28 oz,0,g,0,mg,130,g,2,g,0,g,0,g,0,g,0,g,0,g
+290,blimpie,fresh tossed salad large,4.5,g,0,mg,320,g,114,g,31,g,1,g,0,g,44,g,58,g
+291,blimpie,fresh tossed salad small,2,g,0,mg,160,g,57,g,15,g,0,g,0,g,22,g,29,g
+292,blimpie,fritos,20,g,0,mg,340,g,30,g,4,g,3,g,0,g,2,g,2,g
+293,blimpie,frosted sugar cookie,10,g,15,mg,200,g,32,g,2,g,5,g,0,g,0,g,19,g
+294,blimpie,frosted sugar with sprinkles cookie,10,g,15,mg,200,g,33,g,2,g,5,g,0,g,0,g,19,g
+295,blimpie,fruit tray large without yogurt,8,g,0,mg,190,g,424,g,30,g,1,g,0,g,64,g,324,g
+296,blimpie,fruit tray small without yogurt,4,g,0,mg,95,g,212,g,15,g,0,g,0,g,32,g,162,g
+297,blimpie,fruitopia strawberry passion fruit awareness 12 oz,0,g,0,mg,55,g,52,g,0,g,0,g,0,g,0,g,50,g
+298,blimpie,fruitopia strawberry passion fruit awareness 16 oz,0,g,0,mg,85,g,78,g,0,g,0,g,0,g,0,g,76,g
+299,blimpie,fruitopia strawberry passion fruit awareness 21 oz,0,g,0,mg,95,g,91,g,0,g,0,g,0,g,0,g,88,g
+300,blimpie,fruitopia strawberry passion fruit awareness 28 oz,0,g,0,mg,150,g,139,g,0,g,0,g,0,g,0,g,134,g
+301,blimpie,full throttle twisted 12 oz,0,g,0,mg,125,g,46,g,0,g,0,g,0,g,0,g,46,g
+302,blimpie,full throttle twisted 16 oz,0,g,0,mg,190,g,69,g,0,g,0,g,0,g,0,g,69,g
+303,blimpie,full throttle twisted 21 oz,0,g,0,mg,220,g,80,g,0,g,0,g,0,g,0,g,80,g
+304,blimpie,full throttle twisted 28 oz,0,g,0,mg,340,g,123,g,0,g,0,g,0,g,0,g,123,g
+305,blimpie,fuze lemon black tea 12 oz,0,g,0,mg,50,g,25,g,0,g,0,g,0,g,0,g,25,g
+306,blimpie,fuze lemon black tea 16 oz,0,g,0,mg,70,g,38,g,0,g,0,g,0,g,0,g,38,g
+307,blimpie,fuze lemon black tea 21 oz,0,g,0,mg,85,g,44,g,0,g,0,g,0,g,0,g,44,g
+308,blimpie,fuze lemon black tea 28 oz,0,g,0,mg,125,g,68,g,0,g,0,g,0,g,0,g,68,g
+309,blimpie,fuze peach tea 12 oz,0,g,0,mg,50,g,25,g,0,g,0,g,0,g,0,g,25,g
+310,blimpie,fuze peach tea 16 oz,0,g,0,mg,70,g,38,g,0,g,0,g,0,g,0,g,38,g
+311,blimpie,fuze peach tea 21 oz,0,g,0,mg,85,g,44,g,0,g,0,g,0,g,0,g,44,g
+312,blimpie,fuze peach tea 28 oz,0,g,0,mg,125,g,68,g,0,g,0,g,0,g,0,g,67,g
+313,blimpie,fuze raspberry tea 12 oz,0,g,0,mg,50,g,25,g,0,g,0,g,0,g,0,g,25,g
+314,blimpie,fuze raspberry tea 16 oz,0,g,0,mg,70,g,38,g,0,g,0,g,0,g,0,g,38,g
+315,blimpie,fuze raspberry tea 21 oz,0,g,0,mg,85,g,44,g,0,g,0,g,0,g,0,g,44,g
+316,blimpie,fuze raspberry tea 28 oz,0,g,0,mg,125,g,68,g,0,g,0,g,0,g,0,g,67,g
+317,blimpie,fuze sweet tea 12 oz,0,g,0,mg,50,g,25,g,0,g,0,g,0,g,0,g,25,g
+318,blimpie,fuze sweet tea 16 oz,0,g,0,mg,75,g,38,g,0,g,0,g,0,g,0,g,38,g
+319,blimpie,fuze sweet tea 21 oz,0,g,0,mg,90,g,44,g,0,g,0,g,0,g,0,g,44,g
+320,blimpie,fuze sweet tea 28 oz,0,g,0,mg,135,g,68,g,0,g,0,g,0,g,0,g,68,g
+321,blimpie,fuze unsweet tea 12 oz,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+322,blimpie,fuze unsweet tea 16 oz,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+323,blimpie,g2 fruit punch 12 oz,0,g,0,mg,105,g,5,g,0,g,0,g,0,g,0,g,5,g
+324,blimpie,g2 fruit punch 16 oz,0,g,0,mg,160,g,8,g,0,g,0,g,0,g,0,g,7,g
+325,blimpie,g2 fruit punch 21 oz,0,g,0,mg,190,g,9,g,0,g,0,g,0,g,0,g,8,g
+326,blimpie,g2 fruit punch 28 oz,0,g,0,mg,290,g,14,g,0,g,0,g,0,g,0,g,13,g
+327,blimpie,g2 grape 12 oz,0,g,0,mg,105,g,2,g,0,g,0,g,0,g,0,g,5,g
+328,blimpie,g2 grape 16 oz,0,g,0,mg,160,g,3,g,0,g,0,g,0,g,0,g,7,g
+329,blimpie,g2 grape 21 oz,0,g,0,mg,190,g,4,g,0,g,0,g,0,g,0,g,8,g
+330,blimpie,g2 grape 28 oz,0,g,0,mg,290,g,5,g,0,g,0,g,0,g,0,g,13,g
+331,blimpie,garden salad,0,g,0,mg,20,g,8,g,2,g,0,g,0,g,3,g,4,g
+332,blimpie,gatorade fierce grape 12 oz,0,g,0,mg,170,g,24,g,0,g,0,g,0,g,0,g,23,g
+333,blimpie,gatorade fierce grape 16 oz,0,g,0,mg,260,g,36,g,0,g,0,g,0,g,0,g,35,g
+334,blimpie,gatorade fierce grape 21 oz,0,g,0,mg,300,g,42,g,0,g,0,g,0,g,0,g,40,g
+335,blimpie,gatorade fierce grape 28 oz,0,g,0,mg,460,g,64,g,0,g,0,g,0,g,0,g,62,g
+336,blimpie,gatorade fruit punch 12 oz,0,g,0,mg,170,g,24,g,0,g,0,g,0,g,0,g,23,g
+337,blimpie,gatorade fruit punch 16 oz,0,g,0,mg,260,g,37,g,0,g,0,g,0,g,0,g,35,g
+338,blimpie,gatorade fruit punch 21 oz,0,g,0,mg,300,g,42,g,0,g,0,g,0,g,0,g,40,g
+339,blimpie,gatorade fruit punch 28 oz,0,g,0,mg,460,g,65,g,0,g,0,g,0,g,0,g,62,g
+340,blimpie,gatorade lemon lime 12 oz,0,g,0,mg,160,g,24,g,0,g,0,g,0,g,0,g,21,g
+341,blimpie,gatorade lemon lime 16 oz,0,g,0,mg,240,g,37,g,0,g,0,g,0,g,0,g,32,g
+342,blimpie,gatorade lemon lime 21 oz,0,g,0,mg,280,g,43,g,0,g,0,g,0,g,0,g,37,g
+343,blimpie,gatorade lemon lime 28 oz,0,g,0,mg,430,g,65,g,0,g,0,g,0,g,0,g,57,g
+344,blimpie,gatorade orange 12 oz,0,g,0,mg,180,g,24,g,0,g,0,g,0,g,0,g,23,g
+345,blimpie,gatorade orange 16 oz,0,g,0,mg,270,g,37,g,0,g,0,g,0,g,0,g,35,g
+346,blimpie,gatorade orange 21 oz,0,g,0,mg,320,g,43,g,0,g,0,g,0,g,0,g,40,g
+347,blimpie,gatorade orange 28 oz,0,g,0,mg,490,g,65,g,0,g,0,g,0,g,0,g,62,g
+348,blimpie,glaceau fruitwater black raspberry 21 oz,0,g,0,mg,75,g,1,g,0,g,0,g,0,g,0,g,0,g
+349,blimpie,glaceau fruitwater black raspberry 28 oz,0,g,0,mg,115,g,2,g,0,g,0,g,0,g,0,g,0,g
+350,blimpie,glaceau fruitwater watermelon punch 12 oz,0,g,0,mg,45,g,1,g,0,g,0,g,0,g,0,g,0,g
+351,blimpie,glaceau fruitwater watermelon punch 16 oz,0,g,0,mg,65,g,1,g,0,g,0,g,0,g,0,g,0,g
+352,blimpie,glaceau fruitwater watermelon punch 21 oz,0,g,0,mg,75,g,1,g,0,g,0,g,0,g,0,g,0,g
+353,blimpie,glaceau fruitwater watermelon punch 28 oz,0,g,0,mg,115,g,2,g,0,g,0,g,0,g,0,g,0,g
+354,blimpie,glaceau vitaminwater essential 12 oz,0,g,0,mg,40,g,22,g,0,g,0,g,0,g,0,g,20,g
+355,blimpie,glaceau vitaminwater essential 16 oz,0,g,0,mg,60,g,32,g,0,g,0,g,0,g,0,g,31,g
+356,blimpie,glaceau vitaminwater essential 21 oz,0,g,0,mg,70,g,38,g,0,g,0,g,0,g,0,g,36,g
+357,blimpie,glaceau vitaminwater essential 28 oz,0,g,0,mg,105,g,58,g,0,g,0,g,0,g,0,g,55,g
+358,blimpie,glaceau vitaminwater revive 12 oz,0,g,0,mg,40,g,21,g,0,g,0,g,0,g,0,g,20,g
+359,blimpie,glaceau vitaminwater revive 16 oz,0,g,0,mg,60,g,32,g,0,g,0,g,0,g,0,g,31,g
+360,blimpie,glaceau vitaminwater revive 21 oz,0,g,0,mg,70,g,37,g,0,g,0,g,0,g,0,g,36,g
+361,blimpie,glaceau vitaminwater revive 28 oz,0,g,0,mg,105,g,56,g,0,g,0,g,0,g,0,g,55,g
+362,blimpie,glaceau vitaminwater squeezed zero 12 oz,0,g,0,mg,40,g,1,g,0,g,0,g,0,g,0,g,0,g
+363,blimpie,glaceau vitaminwater squeezed zero 16 oz,0,g,0,mg,60,g,2,g,0,g,0,g,0,g,0,g,0,g
+364,blimpie,glaceau vitaminwater squeezed zero 21 oz,0,g,0,mg,70,g,2,g,0,g,0,g,0,g,0,g,0,g
+365,blimpie,glaceau vitaminwater squeezed zero 28 oz,0,g,0,mg,110,g,3,g,0,g,0,g,0,g,0,g,0,g
+366,blimpie,glaceau vitaminwater xxx zero 28 oz,0,g,0,mg,110,g,2,g,0,g,0,g,0,g,0,g,0,g
+367,blimpie,glaceau vitaminwater xxx 12 oz,0,g,0,mg,40,g,21,g,0,g,0,g,0,g,0,g,20,g
+368,blimpie,glaceau vitaminwater xxx 16 oz,0,g,0,mg,60,g,32,g,0,g,0,g,0,g,0,g,31,g
+369,blimpie,glaceau vitaminwater xxx 21 oz,0,g,0,mg,70,g,37,g,0,g,0,g,0,g,0,g,36,g
+370,blimpie,glaceau vitaminwater xxx 28 oz,0,g,0,mg,105,g,56,g,0,g,0,g,0,g,0,g,55,g
+371,blimpie,gluten free bread large,14,g,0,mg,890,g,76,g,12,g,1,g,0,g,0,g,7,g
+372,blimpie,gluten free bread regular,7,g,0,mg,450,g,38,g,6,g,1,g,0,g,0,g,4,g
+373,blimpie,gold peak citrus white tea 12 oz,0,g,0,mg,50,g,36,g,0,g,0,g,0,g,0,g,36,g
+374,blimpie,gold peak citrus white tea 16 oz,0,g,0,mg,70,g,54,g,0,g,0,g,0,g,0,g,54,g
+375,blimpie,gold peak citrus white tea 21 oz,0,g,0,mg,85,g,63,g,0,g,0,g,0,g,0,g,63,g
+376,blimpie,gold peak citrus white tea 28 oz,0,g,0,mg,125,g,95,g,0,g,0,g,0,g,0,g,95,g
+377,blimpie,gold peak diet black tea 12 oz,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+378,blimpie,gold peak diet black tea 16 oz,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+379,blimpie,gold peak diet black tea 21 oz,0,g,0,mg,85,g,0,g,0,g,0,g,0,g,0,g,0,g
+380,blimpie,gold peak diet black tea 28 oz,0,g,0,mg,125,g,0,g,0,g,0,g,0,g,0,g,0,g
+381,blimpie,gold peak diet green tea 12 oz,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+382,blimpie,gold peak diet green tea 16 oz,0,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+383,blimpie,gold peak peach tea 12 oz,0,g,0,mg,50,g,25,g,0,g,0,g,0,g,0,g,25,g
+384,blimpie,gold peak peach tea 16 oz,0,g,0,mg,70,g,38,g,0,g,0,g,0,g,0,g,38,g
+385,blimpie,gold peak peach tea 21 oz,0,g,0,mg,85,g,44,g,0,g,0,g,0,g,0,g,44,g
+386,blimpie,gold peak peach tea 28 oz,0,g,0,mg,125,g,68,g,0,g,0,g,0,g,0,g,67,g
+387,blimpie,gold peak premium unsweetened tea 12 oz,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+388,blimpie,gold peak premium unsweetened tea 16 oz,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+389,blimpie,gold peak premium unsweetened tea 21 oz,0,g,0,mg,85,g,0,g,0,g,0,g,0,g,0,g,0,g
+390,blimpie,gold peak premium unsweetened tea 28 oz,0,g,0,mg,125,g,0,g,0,g,0,g,0,g,0,g,0,g
+391,blimpie,gold peak raspberry tea 12 oz,0,g,0,mg,50,g,27,g,0,g,0,g,0,g,0,g,27,g
+392,blimpie,gold peak raspberry tea 16 oz,0,g,0,mg,70,g,41,g,0,g,0,g,0,g,0,g,41,g
+393,blimpie,gold peak raspberry tea 21 oz,0,g,0,mg,85,g,48,g,0,g,0,g,0,g,0,g,48,g
+394,blimpie,gold peak raspberry tea 28 oz,0,g,0,mg,125,g,73,g,0,g,0,g,0,g,0,g,73,g
+395,blimpie,gold peak southern style tea 12 oz,0,g,0,mg,50,g,40,g,0,g,0,g,0,g,0,g,40,g
+396,blimpie,gold peak southern style tea 16 oz,0,g,0,mg,75,g,60,g,0,g,0,g,0,g,0,g,60,g
+397,blimpie,gold peak southern style tea 21 oz,0,g,0,mg,85,g,70,g,0,g,0,g,0,g,0,g,69,g
+398,blimpie,gold peak southern style tea 28 oz,0,g,0,mg,130,g,107,g,0,g,0,g,0,g,0,g,106,g
+399,blimpie,gold peak sweetened black tea 12 oz,0,g,0,mg,50,g,34,g,0,g,0,g,0,g,0,g,34,g
+400,blimpie,gold peak sweetened black tea 16 oz,0,g,0,mg,75,g,51,g,0,g,0,g,0,g,0,g,51,g
+401,blimpie,gold peak sweetened black tea 21 oz,0,g,0,mg,85,g,60,g,0,g,0,g,0,g,0,g,60,g
+402,blimpie,gold peak sweetened black tea 28 oz,0,g,0,mg,130,g,91,g,0,g,0,g,0,g,0,g,91,g
+403,blimpie,gold peak sweetened green tea 12 oz,0,g,0,mg,50,g,27,g,0,g,0,g,0,g,0,g,27,g
+404,blimpie,gold peak sweetened green tea 16 oz,0,g,0,mg,80,g,41,g,0,g,0,g,0,g,0,g,41,g
+405,blimpie,gold peak sweetened green tea 21 oz,0,g,0,mg,90,g,48,g,0,g,0,g,0,g,0,g,48,g
+406,blimpie,gold peak sweetened green tea 28 oz,0,g,0,mg,140,g,73,g,0,g,0,g,0,g,0,g,73,g
+407,blimpie,grande chili with bean and beef,9,g,30,mg,1060,g,23,g,17,g,4,g,0,g,7,g,7,g
+408,blimpie,green bell peppers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+409,blimpie,grilled breakfast sandwich with bacon,23,g,250,mg,1720,g,49,g,27,g,9,g,0,g,1,g,6,g
+410,blimpie,grilled breakfast sandwich with egg,9,g,120,mg,620,g,25,g,11,g,4,g,0,g,1,g,3,g
+411,blimpie,grilled breakfast sandwich with ham,20,g,270,mg,1840,g,51,g,30,g,8,g,0,g,1,g,7,g
+412,blimpie,grilled breakfast sandwich with sausage,52,g,320,mg,1910,g,49,g,37,g,19,g,0,g,1,g,6,g
+413,blimpie,grilled chicken caesar salad,5,g,45,mg,660,g,6,g,22,g,3,g,0,g,3,g,3,g
+414,blimpie,grilled chicken strips,1,g,40,mg,440,g,1,g,16,g,0,g,0,g,0,g,0,g
+415,blimpie,grilled chicken teriyaki sub large,20,g,110,mg,2910,g,125,g,62,g,7,g,0,g,4,g,34,g
+416,blimpie,grilled chicken teriyaki sub regular,10,g,55,mg,1450,g,62,g,31,g,4,g,0,g,2,g,17,g
+417,blimpie,guacamole,6,g,0,mg,125,g,2,g,1,g,1,g,0,g,0,g,0,g
+418,blimpie,ham,1,g,15,mg,300,g,1,g,5,g,0,g,0,g,0,g,1,g
+419,blimpie,ham and swiss sub large,28,g,90,mg,2230,g,108,g,49,g,10,g,0,g,6,g,16,g
+420,blimpie,ham and swiss sub regular,14,g,45,mg,1110,g,54,g,25,g,5,g,0,g,3,g,8,g
+421,blimpie,ham salami and cheese sub large,37,g,85,mg,2420,g,107,g,46,g,12,g,0,g,6,g,15,g
+422,blimpie,ham salami and cheese sub regular,19,g,45,mg,1210,g,53,g,23,g,6,g,0,g,3,g,8,g
+423,blimpie,hawaiian punch fruit juicy red 12 oz,0,g,0,mg,55,g,46,g,0,g,0,g,0,g,0,g,45,g
+424,blimpie,hawaiian punch fruit juicy red 16 oz,0,g,0,mg,80,g,69,g,0,g,0,g,0,g,0,g,68,g
+425,blimpie,hawaiian punch fruit juicy red 21 oz,0,g,0,mg,95,g,80,g,0,g,0,g,0,g,0,g,79,g
+426,blimpie,hawaiian punch fruit juicy red 28 oz,0,g,0,mg,150,g,122,g,0,g,0,g,0,g,0,g,120,g
+427,blimpie,hi c flashin fruit punch 12 oz,0,g,0,mg,55,g,47,g,0,g,0,g,0,g,0,g,46,g
+428,blimpie,hi c flashin fruit punch 16 oz,0,g,0,mg,85,g,70,g,0,g,0,g,0,g,0,g,69,g
+429,blimpie,hi c flashin fruit punch 21 oz,0,g,0,mg,100,g,82,g,0,g,0,g,0,g,0,g,80,g
+430,blimpie,hi c flashin fruit punch 28 oz,0,g,0,mg,150,g,125,g,0,g,0,g,0,g,0,g,122,g
+431,blimpie,hi c orange lavaburst 12 oz,0,g,0,mg,45,g,50,g,0,g,0,g,0,g,0,g,49,g
+432,blimpie,hi c orange lavaburst 16 oz,0,g,0,mg,65,g,75,g,0,g,0,g,0,g,0,g,73,g
+433,blimpie,hi c orange lavaburst 21 oz,0,g,0,mg,75,g,87,g,0,g,0,g,0,g,0,g,85,g
+434,blimpie,hi c orange lavaburst 28 oz,0,g,0,mg,115,g,133,g,0,g,0,g,0,g,0,g,129,g
+435,blimpie,hi c poppin pink lemonade 12 oz,0,g,0,mg,110,g,44,g,0,g,0,g,0,g,0,g,42,g
+436,blimpie,hi c poppin pink lemonade 16 oz,0,g,0,mg,160,g,65,g,0,g,0,g,0,g,0,g,62,g
+437,blimpie,hi c poppin pink lemonade 21 oz,0,g,0,mg,190,g,76,g,0,g,0,g,0,g,0,g,73,g
+438,blimpie,hi c poppin pink lemonade 28 oz,0,g,0,mg,290,g,116,g,0,g,0,g,0,g,0,g,111,g
+439,blimpie,hires root beer 12 oz,0,g,0,mg,65,g,39,g,0,g,0,g,0,g,0,g,38,g
+440,blimpie,hires root beer 16 oz,0,g,0,mg,100,g,59,g,0,g,0,g,0,g,0,g,58,g
+441,blimpie,hires root beer 21 oz,0,g,0,mg,115,g,69,g,0,g,0,g,0,g,0,g,67,g
+442,blimpie,hires root beer 28 oz,0,g,0,mg,180,g,105,g,0,g,0,g,0,g,0,g,102,g
+443,blimpie,hoboken hero sub large,53,g,120,mg,3080,g,107,g,53,g,18,g,0,g,6,g,15,g
+444,blimpie,hoboken hero sub regular,26,g,60,mg,1540,g,53,g,27,g,9,g,0,g,3,g,8,g
+445,blimpie,honey mustard,0,g,0,mg,100,g,4,g,1,g,0,g,0,g,1,g,3,g
+446,blimpie,honey oat bread large,13,g,0,mg,800,g,88,g,21,g,3,g,0,g,11,g,9,g
+447,blimpie,honey oat bread regular,7,g,0,mg,400,g,44,g,11,g,1,g,0,g,5,g,4,g
+448,blimpie,hot mild banana pepper rings,0,g,0,mg,460,g,1,g,0,g,0,g,0,g,0,g,0,g
+449,blimpie,ibc root beer 12 oz,0,g,0,mg,50,g,45,g,0,g,0,g,0,g,0,g,44,g
+450,blimpie,ibc root beer 16 oz,0,g,0,mg,75,g,67,g,0,g,0,g,0,g,0,g,66,g
+451,blimpie,ibc root beer 21 oz,0,g,0,mg,90,g,78,g,0,g,0,g,0,g,0,g,77,g
+452,blimpie,ibc root beer 28 oz,0,g,0,mg,135,g,119,g,0,g,0,g,0,g,0,g,117,g
+453,blimpie,italian fat free dressing,0,g,0,mg,700,g,4,g,0,g,0,g,0,g,0,g,3,g
+454,blimpie,italian light dressing,4,g,0,mg,270,g,2,g,0,g,1,g,0,g,0,g,2,g
+455,blimpie,izze twizt clementine 12 oz,0,g,0,mg,120,g,29,g,0,g,0,g,0,g,0,g,28,g
+456,blimpie,izze twizt clementine 16 oz,0,g,0,mg,180,g,43,g,0,g,0,g,0,g,0,g,42,g
+457,blimpie,izze twizt clementine 21 oz,0,g,0,mg,210,g,50,g,0,g,0,g,0,g,0,g,49,g
+458,blimpie,izze twizt clementine 28 oz,0,g,0,mg,320,g,76,g,0,g,0,g,0,g,0,g,74,g
+459,blimpie,izze twizt grapefruit 12 oz,0,g,0,mg,80,g,30,g,0,g,0,g,0,g,0,g,29,g
+460,blimpie,izze twizt grapefruit 16 oz,0,g,0,mg,120,g,45,g,0,g,0,g,0,g,0,g,44,g
+461,blimpie,izze twizt grapefruit 21 oz,0,g,0,mg,140,g,52,g,0,g,0,g,0,g,0,g,51,g
+462,blimpie,izze twizt grapefruit 28 oz,0,g,0,mg,210,g,80,g,0,g,0,g,0,g,0,g,78,g
+463,blimpie,jalapeno peppers,0,g,0,mg,470,g,1,g,0,g,0,g,0,g,0,g,0,g
+464,blimpie,kids ham and cheese sub,7,g,25,mg,840,g,28,g,12,g,3,g,0,g,1,g,3,g
+465,blimpie,kids tuna sub,11,g,25,mg,510,g,30,g,13,g,2,g,0,g,1,g,3,g
+466,blimpie,kids turkey and cheese sub,8,g,30,mg,900,g,32,g,13,g,3,g,0,g,1,g,3,g
+467,blimpie,lettuce,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+468,blimpie,lipton brewed iced tea green tea with citrus 12 oz,0,g,0,mg,100,g,30,g,0,g,0,g,0,g,0,g,29,g
+469,blimpie,lipton brewed iced tea green tea with citrus 16 oz,0,g,0,mg,150,g,44,g,0,g,0,g,0,g,0,g,44,g
+470,blimpie,lipton brewed iced tea green tea with citrus 21 oz,0,g,0,mg,180,g,52,g,0,g,0,g,0,g,0,g,51,g
+471,blimpie,lipton brewed iced tea green tea with citrus 28 oz,0,g,0,mg,270,g,79,g,0,g,0,g,0,g,0,g,79,g
+472,blimpie,lipton brewed iced tea sweetened 12 oz,0,g,0,mg,95,g,28,g,0,g,0,g,0,g,0,g,28,g
+473,blimpie,lipton brewed iced tea sweetened 16 oz,0,g,0,mg,140,g,42,g,0,g,0,g,0,g,0,g,42,g
+474,blimpie,lipton brewed iced tea sweetened 21 oz,0,g,0,mg,170,g,48,g,0,g,0,g,0,g,0,g,48,g
+475,blimpie,lipton brewed iced tea sweetened 28 oz,0,g,0,mg,250,g,74,g,0,g,0,g,0,g,0,g,74,g
+476,blimpie,lipton brewed iced tea unsweetened 12 oz,0,g,0,mg,120,g,0,g,0,g,0,g,0,g,0,g,0,g
+477,blimpie,lipton brewed iced tea unsweetened 16 oz,0,g,0,mg,180,g,0,g,0,g,0,g,0,g,0,g,0,g
+478,blimpie,lipton brewed iced tea unsweetened 21 oz,0,g,0,mg,210,g,0,g,0,g,0,g,0,g,0,g,0,g
+479,blimpie,lipton brewed iced tea unsweetened 28 oz,0,g,0,mg,320,g,0,g,0,g,0,g,0,g,0,g,0,g
+480,blimpie,lipton peach iced tea 12 oz,0,g,0,mg,70,g,19,g,0,g,0,g,0,g,0,g,19,g
+481,blimpie,lipton peach iced tea 16 oz,0,g,0,mg,110,g,28,g,0,g,0,g,0,g,0,g,28,g
+482,blimpie,lipton peach iced tea 21 oz,0,g,0,mg,125,g,32,g,0,g,0,g,0,g,0,g,32,g
+483,blimpie,lipton peach iced tea 28 oz,0,g,0,mg,190,g,49,g,0,g,0,g,0,g,0,g,49,g
+484,blimpie,luzianne sweetened iced tea 12 oz,0,g,0,mg,10,g,23,g,0,g,0,g,0,g,0,g,23,g
+485,blimpie,luzianne sweetened iced tea 16 oz,0,g,0,mg,15,g,34,g,0,g,0,g,0,g,0,g,34,g
+486,blimpie,luzianne sweetened iced tea 21 oz,0,g,0,mg,15,g,40,g,0,g,0,g,0,g,0,g,40,g
+487,blimpie,luzianne sweetened iced tea 28 oz,0,g,0,mg,25,g,61,g,0,g,0,g,0,g,0,g,60,g
+488,blimpie,macaroni salad,21,g,15,mg,890,g,22,g,3,g,4,g,0,g,2,g,8,g
+489,blimpie,manzanita jamaica sol 12 oz,0,g,0,mg,130,g,40,g,0,g,0,g,0,g,0,g,40,g
+490,blimpie,manzanita jamaica sol 16 oz,0,g,0,mg,200,g,60,g,0,g,0,g,0,g,0,g,60,g
+491,blimpie,manzanita jamaica sol 21 oz,0,g,0,mg,230,g,70,g,0,g,0,g,0,g,0,g,70,g
+492,blimpie,manzanita jamaica sol 28 oz,0,g,0,mg,350,g,107,g,0,g,0,g,0,g,0,g,107,g
+493,blimpie,manzanita sandia sol 12 oz,0,g,0,mg,50,g,25,g,0,g,0,g,0,g,0,g,25,g
+494,blimpie,manzanita sandia sol 16 oz,0,g,0,mg,75,g,38,g,0,g,0,g,0,g,0,g,37,g
+495,blimpie,manzanita sandia sol 21 oz,0,g,0,mg,90,g,44,g,0,g,0,g,0,g,0,g,43,g
+496,blimpie,manzanita sandia sol 28 oz,0,g,0,mg,135,g,67,g,0,g,0,g,0,g,0,g,66,g
+497,blimpie,manzanita tamarindo sol 12 oz,0,g,0,mg,75,g,41,g,0,g,0,g,0,g,0,g,41,g
+498,blimpie,manzanita tamarindo sol 16 oz,0,g,0,mg,110,g,61,g,0,g,0,g,0,g,0,g,61,g
+499,blimpie,manzanita tamarindo sol 21 oz,0,g,0,mg,130,g,71,g,0,g,0,g,0,g,0,g,71,g
+500,blimpie,manzanita tamarindo sol 28 oz,0,g,0,mg,200,g,108,g,0,g,0,g,0,g,0,g,108,g
+501,blimpie,manzanita toronja sol 12 oz,0,g,0,mg,75,g,41,g,0,g,0,g,0,g,0,g,41,g
+502,blimpie,manzanita toronja sol 16 oz,0,g,0,mg,110,g,61,g,0,g,0,g,0,g,0,g,61,g
+503,blimpie,manzanita toronja sol 21 oz,0,g,0,mg,125,g,71,g,0,g,0,g,0,g,0,g,71,g
+504,blimpie,manzanita toronja sol 28 oz,0,g,0,mg,200,g,108,g,0,g,0,g,0,g,0,g,108,g
+505,blimpie,manzanita sol 12 oz,0,g,0,mg,35,g,44,g,0,g,0,g,0,g,0,g,43,g
+506,blimpie,manzanita sol 16 oz,0,g,0,mg,50,g,66,g,0,g,0,g,0,g,0,g,65,g
+507,blimpie,manzanita sol 21 oz,0,g,0,mg,60,g,77,g,0,g,0,g,0,g,0,g,75,g
+508,blimpie,manzanita sol 28 oz,0,g,0,mg,90,g,118,g,0,g,0,g,0,g,0,g,115,g
+509,blimpie,mayonnaise,11,g,10,mg,75,g,0,g,0,g,2,g,0,g,0,g,0,g
+510,blimpie,mayonnaise reduced calorie,4,g,10,mg,90,g,1,g,0,g,0,g,0,g,0,g,0,g
+511,blimpie,meat and cheese tray large,201,g,1000,mg,18030,g,48,g,306,g,93,g,0,g,0,g,13,g
+512,blimpie,meat and cheese tray small,186,g,745,mg,12660,g,33,g,216,g,90,g,0,g,0,g,7,g
+513,blimpie,meatball parmigiana sub large,78,g,180,mg,4170,g,117,g,86,g,32,g,2,g,10,g,18,g
+514,blimpie,meatball parmigiana sub regular,38,g,100,mg,2020,g,59,g,44,g,16,g,1,g,5,g,9,g
+515,blimpie,meatballs with sauce,22,g,65,mg,1020,g,13,g,20,g,8,g,1,g,3,g,5,g
+516,blimpie,mediterranean sub on ciabatta,8,g,55,mg,1890,g,49,g,29,g,2,g,0,g,3,g,5,g
+517,blimpie,mello yello 12 oz,0,g,0,mg,50,g,47,g,0,g,0,g,0,g,0,g,47,g
+518,blimpie,mello yello 16 oz,0,g,0,mg,75,g,70,g,0,g,0,g,0,g,0,g,70,g
+519,blimpie,mello yello 21 oz,0,g,0,mg,85,g,82,g,0,g,0,g,0,g,0,g,82,g
+520,blimpie,mello yello 28 oz,0,g,0,mg,135,g,125,g,0,g,0,g,0,g,0,g,125,g
+521,blimpie,minute maid lemonade 12 oz,0,g,0,mg,110,g,44,g,0,g,0,g,0,g,0,g,42,g
+522,blimpie,minute maid lemonade 16 oz,0,g,0,mg,160,g,66,g,0,g,0,g,0,g,0,g,62,g
+523,blimpie,minute maid lemonade 21 oz,0,g,0,mg,190,g,76,g,0,g,0,g,0,g,0,g,73,g
+524,blimpie,minute maid lemonade 28 oz,0,g,0,mg,290,g,117,g,0,g,0,g,0,g,0,g,111,g
+525,blimpie,minute maid light lemonade 12 oz,0,g,0,mg,45,g,2,g,0,g,0,g,0,g,0,g,0,g
+526,blimpie,minute maid light lemonade 16 oz,0,g,0,mg,65,g,3,g,0,g,0,g,0,g,0,g,0,g
+527,blimpie,minute maid light lemonade 21 oz,0,g,0,mg,75,g,4,g,0,g,0,g,0,g,0,g,0,g
+528,blimpie,minute maid light lemonade 28 oz,0,g,0,mg,115,g,6,g,0,g,0,g,0,g,0,g,0,g
+529,blimpie,minute maid light pomegranate lemonade 12 oz,0,g,0,mg,65,g,2,g,0,g,0,g,0,g,0,g,0,g
+530,blimpie,minute maid light pomegranate lemonade 16 oz,0,g,0,mg,100,g,3,g,0,g,0,g,0,g,0,g,0,g
+531,blimpie,minute maid light pomegranate lemonade 21 oz,0,g,0,mg,115,g,3,g,0,g,0,g,0,g,0,g,0,g
+532,blimpie,minute maid light pomegranate lemonade 28 oz,0,g,0,mg,180,g,4,g,0,g,0,g,0,g,0,g,0,g
+533,blimpie,minute maid limeade 12 oz,0,g,0,mg,55,g,51,g,0,g,0,g,0,g,0,g,50,g
+534,blimpie,minute maid limeade 16 oz,0,g,0,mg,80,g,76,g,0,g,0,g,0,g,0,g,76,g
+535,blimpie,minute maid limeade 21 oz,0,g,0,mg,95,g,89,g,0,g,0,g,0,g,0,g,88,g
+536,blimpie,minute maid limeade 28 oz,0,g,0,mg,140,g,135,g,0,g,0,g,0,g,0,g,135,g
+537,blimpie,mirinda strawberry 12 oz,0,g,0,mg,70,g,44,g,0,g,0,g,0,g,0,g,44,g
+538,blimpie,mirinda strawberry 16 oz,0,g,0,mg,110,g,66,g,0,g,0,g,0,g,0,g,66,g
+539,blimpie,mirinda strawberry 21 oz,0,g,0,mg,125,g,77,g,0,g,0,g,0,g,0,g,77,g
+540,blimpie,mirinda strawberry 28 oz,0,g,0,mg,200,g,118,g,0,g,0,g,0,g,0,g,118,g
+541,blimpie,mist twst 12 oz,0,g,0,mg,35,g,41,g,0,g,0,g,0,g,0,g,41,g
+542,blimpie,mist twst 16 oz,0,g,0,mg,50,g,62,g,0,g,0,g,0,g,0,g,62,g
+543,blimpie,mist twst 21 oz,0,g,0,mg,60,g,72,g,0,g,0,g,0,g,0,g,72,g
+544,blimpie,mist twst 28 oz,0,g,0,mg,90,g,110,g,0,g,0,g,0,g,0,g,110,g
+545,blimpie,mtn dew baja blast 12 oz,0,g,0,mg,50,g,45,g,0,g,0,g,0,g,0,g,44,g
+546,blimpie,mtn dew baja blast 16 oz,0,g,0,mg,75,g,67,g,0,g,0,g,0,g,0,g,67,g
+547,blimpie,mtn dew baja blast 21 oz,0,g,0,mg,85,g,78,g,0,g,0,g,0,g,0,g,78,g
+548,blimpie,mtn dew baja blast 28 oz,0,g,0,mg,130,g,119,g,0,g,0,g,0,g,0,g,119,g
+549,blimpie,mtn dew code red 12 oz,0,g,0,mg,50,g,47,g,0,g,0,g,0,g,0,g,47,g
+550,blimpie,mtn dew code red 16 oz,0,g,0,mg,75,g,71,g,0,g,0,g,0,g,0,g,70,g
+551,blimpie,mtn dew code red 21 oz,0,g,0,mg,90,g,82,g,0,g,0,g,0,g,0,g,82,g
+552,blimpie,mtn dew code red 28 oz,0,g,0,mg,135,g,125,g,0,g,0,g,0,g,0,g,125,g
+553,blimpie,mtn dew game fuel citrus cherry 12 oz,0,g,0,mg,70,g,26,g,0,g,0,g,0,g,0,g,26,g
+554,blimpie,mtn dew game fuel citrus cherry 16 oz,0,g,0,mg,100,g,39,g,0,g,0,g,0,g,0,g,39,g
+555,blimpie,mtn dew game fuel citrus cherry 21 oz,0,g,0,mg,120,g,45,g,0,g,0,g,0,g,0,g,45,g
+556,blimpie,mtn dew game fuel citrus cherry 28 oz,0,g,0,mg,180,g,69,g,0,g,0,g,0,g,0,g,69,g
+557,blimpie,mtn dew kickstart black cherry 12 oz,0,g,0,mg,55,g,16,g,0,g,0,g,0,g,0,g,16,g
+558,blimpie,mtn dew kickstart black cherry 16 oz,0,g,0,mg,80,g,24,g,0,g,0,g,0,g,0,g,24,g
+559,blimpie,mtn dew kickstart black cherry 21 oz,0,g,0,mg,95,g,28,g,0,g,0,g,0,g,0,g,27,g
+560,blimpie,mtn dew kickstart black cherry 28 oz,0,g,0,mg,150,g,43,g,0,g,0,g,0,g,0,g,42,g
+561,blimpie,mtn dew kickstart orange citrus 12 oz,0,g,0,mg,55,g,14,g,0,g,0,g,0,g,0,g,13,g
+562,blimpie,mtn dew kickstart orange citrus 16 oz,0,g,0,mg,85,g,21,g,0,g,0,g,0,g,0,g,20,g
+563,blimpie,mtn dew kickstart orange citrus 21 oz,0,g,0,mg,100,g,24,g,0,g,0,g,0,g,0,g,23,g
+564,blimpie,mtn dew kickstart orange citrus 28 oz,0,g,0,mg,150,g,37,g,0,g,0,g,0,g,0,g,36,g
+565,blimpie,mtn dew pitch black 12 oz,0,g,0,mg,50,g,46,g,0,g,0,g,0,g,0,g,46,g
+566,blimpie,mtn dew pitch black 16 oz,0,g,0,mg,75,g,69,g,0,g,0,g,0,g,0,g,69,g
+567,blimpie,mtn dew pitch black 21 oz,0,g,0,mg,85,g,80,g,0,g,0,g,0,g,0,g,80,g
+568,blimpie,mtn dew pitch black 28 oz,0,g,0,mg,130,g,122,g,0,g,0,g,0,g,0,g,122,g
+569,blimpie,mtn dew sangrita blast 12 oz,0,g,0,mg,85,g,46,g,0,g,0,g,0,g,0,g,46,g
+570,blimpie,mtn dew sangrita blast 16 oz,0,g,0,mg,130,g,69,g,0,g,0,g,0,g,0,g,69,g
+571,blimpie,mtn dew sangrita blast 21 oz,0,g,0,mg,150,g,80,g,0,g,0,g,0,g,0,g,80,g
+572,blimpie,mtn dew sangrita blast 28 oz,0,g,0,mg,230,g,122,g,0,g,0,g,0,g,0,g,122,g
+573,blimpie,mtn dew spiked lemonade 12 oz,0,g,0,mg,75,g,26,g,0,g,0,g,0,g,0,g,26,g
+574,blimpie,mtn dew spiked lemonade 16 oz,0,g,0,mg,110,g,39,g,0,g,0,g,0,g,0,g,39,g
+575,blimpie,mtn dew spiked lemonade 21 oz,0,g,0,mg,130,g,46,g,0,g,0,g,0,g,0,g,45,g
+576,blimpie,mtn dew spiked lemonade 28 oz,0,g,0,mg,200,g,70,g,0,g,0,g,0,g,0,g,69,g
+577,blimpie,mtn dew 12 oz,0,g,0,mg,50,g,45,g,0,g,0,g,0,g,0,g,44,g
+578,blimpie,mtn dew 16 oz,0,g,0,mg,75,g,67,g,0,g,0,g,0,g,0,g,67,g
+579,blimpie,mtn dew 21 oz,0,g,0,mg,90,g,78,g,0,g,0,g,0,g,0,g,78,g
+580,blimpie,mtn dew 28 oz,0,g,0,mg,135,g,119,g,0,g,0,g,0,g,0,g,119,g
+581,blimpie,mug root beer made with real sugar 12 oz,0,g,0,mg,55,g,39,g,0,g,0,g,0,g,0,g,39,g
+582,blimpie,mug root beer made with real sugar 16 oz,0,g,0,mg,85,g,58,g,0,g,0,g,0,g,0,g,58,g
+583,blimpie,mug root beer made with real sugar 21 oz,0,g,0,mg,100,g,68,g,0,g,0,g,0,g,0,g,67,g
+584,blimpie,mug root beer made with real sugar 28 oz,0,g,0,mg,150,g,103,g,0,g,0,g,0,g,0,g,103,g
+585,blimpie,mug root beer 12 oz,0,g,0,mg,45,g,40,g,0,g,0,g,0,g,0,g,40,g
+586,blimpie,mug root beer 16 oz,0,g,0,mg,65,g,60,g,0,g,0,g,0,g,0,g,60,g
+587,blimpie,mug root beer 21 oz,0,g,0,mg,80,g,69,g,0,g,0,g,0,g,0,g,69,g
+588,blimpie,mug root beer 28 oz,0,g,0,mg,120,g,106,g,0,g,0,g,0,g,0,g,106,g
+589,blimpie,nacho cheese doritos,14,g,0,mg,310,g,30,g,3,g,3,g,0,g,2,g,2,g
+590,blimpie,nachos side,15,g,10,mg,850,g,28,g,4,g,5,g,0,g,1,g,3,g
+591,blimpie,new england clam chowder,3,g,25,mg,1050,g,28,g,7,g,2,g,0,g,2,g,5,g
+592,blimpie,oatmeal raisin cookie,8,g,15,mg,140,g,25,g,2,g,4,g,0,g,1,g,13,g
+593,blimpie,oil blend,14,g,0,mg,0,g,0,g,0,g,2,g,0,g,0,g,0,g
+594,blimpie,olives,2,g,0,mg,105,g,1,g,0,g,0,g,0,g,0,g,0,g
+595,blimpie,pastrami,3,g,45,mg,700,g,2,g,15,g,1,g,0,g,0,g,2,g
+596,blimpie,pastrami sub on ciabatta,11,g,65,mg,1520,g,45,g,29,g,5,g,0,g,2,g,4,g
+597,blimpie,pastrami sub on pretzel bread,13,g,65,mg,1000,g,60,g,29,g,7,g,0,g,2,g,9,g
+598,blimpie,peanut butter cookie,13,g,15,mg,160,g,21,g,4,g,5,g,0,g,1,g,14,g
+599,blimpie,pepper jack cheese,6,g,20,mg,190,g,1,g,5,g,4,g,0,g,0,g,0,g
+600,blimpie,peppercorn ranch dressing,23,g,15,mg,440,g,3,g,1,g,3,g,0,g,0,g,0,g
+601,blimpie,pepperoni,4,g,10,mg,160,g,0,g,2,g,2,g,0,g,0,g,0,g
+602,blimpie,pepperoni 7 inch pizza,16,g,45,mg,1130,g,68,g,21,g,8,g,0,g,3,g,6,g
+603,blimpie,pepperoni pizza 1 slice 1 6th pizza,7,g,20,mg,540,g,33,g,10,g,4,g,0,g,2,g,3,g
+604,blimpie,pepperoni pizza 1 slice 1 8th pizza,11,g,30,mg,770,g,42,g,13,g,5,g,0,g,2,g,5,g
+605,blimpie,pepsi wild cherry 12 oz,0,g,0,mg,30,g,43,g,0,g,0,g,0,g,0,g,43,g
+606,blimpie,pepsi wild cherry 16 oz,0,g,0,mg,50,g,64,g,0,g,0,g,0,g,0,g,64,g
+607,blimpie,pepsi wild cherry 21 oz,0,g,0,mg,55,g,75,g,0,g,0,g,0,g,0,g,75,g
+608,blimpie,pepsi wild cherry 28 oz,0,g,0,mg,85,g,114,g,0,g,0,g,0,g,0,g,114,g
+609,blimpie,pepsi zero sugar 12 oz,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+610,blimpie,pepsi zero sugar 16 oz,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+611,blimpie,pepsi zero sugar 21 oz,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+612,blimpie,pepsi zero sugar 28 oz,0,g,0,mg,100,g,1,g,0,g,0,g,0,g,0,g,0,g
+613,blimpie,pepsi 12 oz,0,g,0,mg,35,g,42,g,0,g,0,g,0,g,0,g,42,g
+614,blimpie,pepsi 16 oz,0,g,0,mg,50,g,63,g,0,g,0,g,0,g,0,g,63,g
+615,blimpie,pepsi 21 oz,0,g,0,mg,55,g,74,g,0,g,0,g,0,g,0,g,73,g
+616,blimpie,pepsi 28 oz,0,g,0,mg,85,g,112,g,0,g,0,g,0,g,0,g,112,g
+617,blimpie,philly cheesesteak sub large,56,g,140,mg,2790,g,99,g,67,g,17,g,0,g,3,g,13,g
+618,blimpie,philly cheesesteak sub regular,28,g,70,mg,1390,g,49,g,33,g,9,g,0,g,1,g,6,g
+619,blimpie,philly steak and onion,8,g,45,mg,540,g,2,g,19,g,4,g,0,g,0,g,2,g
+620,blimpie,pibb xtra 12 oz,0,g,0,mg,60,g,43,g,0,g,0,g,0,g,0,g,43,g
+621,blimpie,pibb xtra 16 oz,0,g,0,mg,90,g,64,g,0,g,0,g,0,g,0,g,64,g
+622,blimpie,pibb xtra 21 oz,0,g,0,mg,105,g,75,g,0,g,0,g,0,g,0,g,75,g
+623,blimpie,pibb xtra 28 oz,0,g,0,mg,160,g,114,g,0,g,0,g,0,g,0,g,114,g
+624,blimpie,plain soft pretzel,1,g,0,mg,300,g,62,g,10,g,0,g,0,g,0,g,2,g
+625,blimpie,popcorn large,67,g,0,mg,1800,g,113,g,20,g,47,g,0,g,0,g,0,g
+626,blimpie,popcorn regular,33,g,0,mg,900,g,57,g,10,g,23,g,0,g,0,g,0,g
+627,blimpie,poppy seed bread large,6,g,0,mg,930,g,90,g,17,g,1,g,0,g,3,g,8,g
+628,blimpie,poppy seed bread regular,3,g,0,mg,460,g,45,g,8,g,0,g,0,g,2,g,4,g
+629,blimpie,potato salad,10,g,10,mg,450,g,24,g,3,g,2,g,0,g,3,g,7,g
+630,blimpie,powerade fruit punch 12 oz,0,g,0,mg,125,g,26,g,0,g,0,g,0,g,0,g,24,g
+631,blimpie,powerade fruit punch 16 oz,0,g,0,mg,190,g,39,g,0,g,0,g,0,g,0,g,37,g
+632,blimpie,powerade fruit punch 21 oz,0,g,0,mg,220,g,45,g,0,g,0,g,0,g,0,g,43,g
+633,blimpie,powerade fruit punch 28 oz,0,g,0,mg,340,g,69,g,0,g,0,g,0,g,0,g,65,g
+634,blimpie,powerade lemon lime 12 oz,0,g,0,mg,125,g,24,g,0,g,0,g,0,g,0,g,24,g
+635,blimpie,powerade lemon lime 16 oz,0,g,0,mg,190,g,36,g,0,g,0,g,0,g,0,g,35,g
+636,blimpie,powerade lemon lime 21 oz,0,g,0,mg,220,g,42,g,0,g,0,g,0,g,0,g,41,g
+637,blimpie,powerade lemon lime 28 oz,0,g,0,mg,340,g,65,g,0,g,0,g,0,g,0,g,63,g
+638,blimpie,powerade mountain blast 12 oz,0,g,0,mg,120,g,24,g,0,g,0,g,0,g,0,g,24,g
+639,blimpie,powerade mountain blast 16 oz,0,g,0,mg,180,g,36,g,0,g,0,g,0,g,0,g,36,g
+640,blimpie,powerade mountain blast 21 oz,0,g,0,mg,210,g,42,g,0,g,0,g,0,g,0,g,42,g
+641,blimpie,powerade mountain blast 28 oz,0,g,0,mg,320,g,65,g,0,g,0,g,0,g,0,g,65,g
+642,blimpie,pretzel roll,5,g,0,mg,75,g,58,g,8,g,2,g,0,g,2,g,7,g
+643,blimpie,pretzels classic thin style,2,g,0,mg,1130,g,47,g,4,g,0,g,0,g,2,g,2,g
+644,blimpie,prosciuttini,1,g,5,mg,150,g,1,g,2,g,0,g,0,g,0,g,0,g
+645,blimpie,provolone cheese,6,g,15,mg,180,g,1,g,5,g,3,g,0,g,0,g,0,g
+646,blimpie,rc cola 12 oz,0,g,0,mg,40,g,44,g,0,g,0,g,0,g,0,g,43,g
+647,blimpie,rc cola 16 oz,0,g,0,mg,60,g,66,g,0,g,0,g,0,g,0,g,65,g
+648,blimpie,rc cola 21 oz,0,g,0,mg,65,g,77,g,0,g,0,g,0,g,0,g,76,g
+649,blimpie,rc cola 28 oz,0,g,0,mg,100,g,117,g,0,g,0,g,0,g,0,g,115,g
+650,blimpie,red flash 12 oz,0,g,0,mg,70,g,46,g,0,g,0,g,0,g,0,g,46,g
+651,blimpie,red flash 16 oz,0,g,0,mg,105,g,69,g,0,g,0,g,0,g,0,g,69,g
+652,blimpie,red flash 21 oz,0,g,0,mg,125,g,80,g,0,g,0,g,0,g,0,g,80,g
+653,blimpie,red flash 28 oz,0,g,0,mg,190,g,122,g,0,g,0,g,0,g,0,g,122,g
+654,blimpie,red wine vinegar,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+655,blimpie,reuben sub large,46,g,150,mg,3620,g,99,g,60,g,16,g,0,g,5,g,13,g
+656,blimpie,reuben sub regular,23,g,75,mg,1810,g,49,g,30,g,8,g,0,g,2,g,6,g
+657,blimpie,roast beef,3,g,45,mg,700,g,2,g,17,g,1,g,0,g,0,g,0,g
+658,blimpie,roast beef and provolone sub large,29,g,120,mg,2700,g,107,g,63,g,9,g,0,g,6,g,14,g
+659,blimpie,roast beef and provolone sub regular,14,g,60,mg,1350,g,53,g,32,g,5,g,0,g,3,g,7,g
+660,blimpie,roast beef turkey and cheddar sub on ciabatta,23,g,60,mg,1880,g,51,g,25,g,7,g,0,g,3,g,5,g
+661,blimpie,roast beef turkey and cheddar sub on pretzel bread,27,g,65,mg,1370,g,65,g,24,g,10,g,0,g,3,g,10,g
+662,blimpie,roasted red peppers,0,g,0,mg,130,g,2,g,0,g,0,g,0,g,1,g,1,g
+663,blimpie,ruffles cheddar and sour cream chips,15,g,0,mg,340,g,21,g,3,g,2,g,0,g,1,g,0,g
+664,blimpie,salami,3,g,10,mg,130,g,0,g,2,g,1,g,0,g,0,g,0,g
+665,blimpie,salsa tortilla,9,g,0,mg,770,g,49,g,8,g,3,g,0,g,1,g,2,g
+666,blimpie,salted soft pretzel,2,g,0,mg,830,g,62,g,10,g,1,g,0,g,0,g,2,g
+667,blimpie,sauerkraut,0,g,0,mg,190,g,1,g,0,g,0,g,0,g,1,g,0,g
+668,blimpie,sausage and mushroom 7 inch pizza,22,g,80,mg,1240,g,69,g,28,g,9,g,0,g,3,g,7,g
+669,blimpie,sausage and mushroom pizza 1 slice 1 6th pizza,9,g,30,mg,560,g,33,g,12,g,4,g,0,g,2,g,4,g
+670,blimpie,sausage and mushroom pizza 1 slice 1 8th pizza,11,g,35,mg,710,g,42,g,15,g,5,g,0,g,3,g,5,g
+671,blimpie,schweppes ginger ale 12 oz,0,g,0,mg,50,g,34,g,0,g,0,g,0,g,0,g,34,g
+672,blimpie,schweppes ginger ale 16 oz,0,g,0,mg,75,g,51,g,0,g,0,g,0,g,0,g,50,g
+673,blimpie,schweppes ginger ale 21 oz,0,g,0,mg,90,g,59,g,0,g,0,g,0,g,0,g,59,g
+674,blimpie,schweppes ginger ale 28 oz,0,g,0,mg,135,g,91,g,0,g,0,g,0,g,0,g,89,g
+675,blimpie,seagrams ginger ale reduced calorie 12 oz,0,g,0,mg,50,g,28,g,0,g,0,g,0,g,0,g,28,g
+676,blimpie,seagrams ginger ale reduced calorie 16 oz,0,g,0,mg,70,g,41,g,0,g,0,g,0,g,0,g,41,g
+677,blimpie,seagrams ginger ale reduced calorie 21 oz,0,g,0,mg,85,g,48,g,0,g,0,g,0,g,0,g,48,g
+678,blimpie,seagrams ginger ale reduced calorie 28 oz,0,g,0,mg,130,g,73,g,0,g,0,g,0,g,0,g,73,g
+679,blimpie,seagrams ginger ale 12 oz,0,g,0,mg,50,g,39,g,0,g,0,g,0,g,0,g,39,g
+680,blimpie,seagrams ginger ale 16 oz,0,g,0,mg,70,g,59,g,0,g,0,g,0,g,0,g,59,g
+681,blimpie,seagrams ginger ale 21 oz,0,g,0,mg,85,g,69,g,0,g,0,g,0,g,0,g,69,g
+682,blimpie,seagrams ginger ale 28 oz,0,g,0,mg,130,g,105,g,0,g,0,g,0,g,0,g,105,g
+683,blimpie,seagrams tonic water 12 oz,0,g,0,mg,50,g,36,g,0,g,0,g,0,g,0,g,36,g
+684,blimpie,seagrams tonic water 16 oz,0,g,0,mg,75,g,54,g,0,g,0,g,0,g,0,g,54,g
+685,blimpie,seagrams tonic water 21 oz,0,g,0,mg,90,g,63,g,0,g,0,g,0,g,0,g,63,g
+686,blimpie,seagrams tonic water 28 oz,0,g,0,mg,135,g,96,g,0,g,0,g,0,g,0,g,96,g
+687,blimpie,sesame seed bread large,6,g,0,mg,930,g,90,g,17,g,1,g,0,g,3,g,8,g
+688,blimpie,sesame seed bread regular,3,g,0,mg,460,g,45,g,8,g,1,g,0,g,1,g,4,g
+689,blimpie,shredded parmesan cheese,4,g,10,mg,180,g,0,g,5,g,2,g,0,g,0,g,0,g
+690,blimpie,sicilian sub on ciabatta,27,g,60,mg,1880,g,48,g,26,g,7,g,0,g,3,g,4,g
+691,blimpie,sliced onions,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,1,g
+692,blimpie,sliced pickles,0,g,0,mg,340,g,1,g,0,g,0,g,0,g,0,g,0,g
+693,blimpie,sliced tomatoes,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+694,blimpie,smoked cheddar cheese,6,g,20,mg,390,g,0,g,4,g,4,g,0,g,0,g,0,g
+695,blimpie,snickerdoodle cookie,9,g,15,mg,180,g,27,g,2,g,5,g,0,g,0,g,15,g
+696,blimpie,sobe citrus energy 12 oz,0,g,0,mg,35,g,43,g,0,g,0,g,0,g,0,g,43,g
+697,blimpie,sobe citrus energy 16 oz,0,g,0,mg,55,g,65,g,0,g,0,g,0,g,0,g,65,g
+698,blimpie,sobe citrus energy 21 oz,0,g,0,mg,65,g,76,g,0,g,0,g,0,g,0,g,75,g
+699,blimpie,sobe citrus energy 28 oz,0,g,0,mg,95,g,116,g,0,g,0,g,0,g,0,g,115,g
+700,blimpie,sobe lean cranberry grapefruit 12 oz,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+701,blimpie,sobe lean cranberry grapefruit 16 oz,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+702,blimpie,sobe lean cranberry grapefruit 21 oz,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+703,blimpie,sobe lean cranberry grapefruit 28 oz,0,g,0,mg,100,g,0,g,0,g,0,g,0,g,0,g,0,g
+704,blimpie,sobe lifewater yumberry pomegranate 12 oz,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+705,blimpie,sobe lifewater yumberry pomegranate 16 oz,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+706,blimpie,sobe lifewater yumberry pomegranate 21 oz,0,g,0,mg,85,g,0,g,0,g,0,g,0,g,0,g,0,g
+707,blimpie,sobe lifewater yumberry pomegranate 28 oz,0,g,0,mg,130,g,1,g,0,g,0,g,0,g,0,g,0,g
+708,blimpie,southwestern wrap,31,g,50,mg,1980,g,53,g,24,g,7,g,0,g,5,g,4,g
+709,blimpie,spinach,0,g,0,mg,20,g,1,g,1,g,0,g,0,g,1,g,0,g
+710,blimpie,spinach tortilla,8,g,0,mg,650,g,47,g,7,g,2,g,0,g,3,g,2,g
+711,blimpie,sprite zero 12 oz,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+712,blimpie,sprite zero 16 oz,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+713,blimpie,sprite zero 21 oz,0,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+714,blimpie,sprite zero 28 oz,0,g,0,mg,120,g,0,g,0,g,0,g,0,g,0,g,0,g
+715,blimpie,sprite 12 oz,0,g,0,mg,70,g,43,g,0,g,0,g,0,g,0,g,43,g
+716,blimpie,sprite 16 oz,0,g,0,mg,110,g,64,g,0,g,0,g,0,g,0,g,64,g
+717,blimpie,sprite 21 oz,0,g,0,mg,125,g,75,g,0,g,0,g,0,g,0,g,75,g
+718,blimpie,sprite 28 oz,0,g,0,mg,190,g,114,g,0,g,0,g,0,g,0,g,114,g
+719,blimpie,squirt citrus soda 12 oz,0,g,0,mg,50,g,39,g,0,g,0,g,0,g,0,g,39,g
+720,blimpie,squirt citrus soda 16 oz,0,g,0,mg,70,g,59,g,0,g,0,g,0,g,0,g,58,g
+721,blimpie,squirt citrus soda 21 oz,0,g,0,mg,65,g,76,g,0,g,0,g,0,g,0,g,75,g
+722,blimpie,squirt citrus soda 28 oz,0,g,0,mg,130,g,104,g,0,g,0,g,0,g,0,g,103,g
+723,blimpie,suchips multigrain harvest cheddar,9,g,0,mg,300,g,28,g,3,g,1,g,0,g,3,g,3,g
+724,blimpie,sugar cookie,9,g,15,mg,180,g,26,g,2,g,5,g,0,g,0,g,14,g
+725,blimpie,sugar with mandms cookie,11,g,15,mg,190,g,33,g,2,g,6,g,0,g,0,g,21,g
+726,blimpie,sun drop citrus soda 12 oz,0,g,0,mg,45,g,46,g,0,g,0,g,0,g,0,g,46,g
+727,blimpie,sun drop citrus soda 16 oz,0,g,0,mg,70,g,69,g,0,g,0,g,0,g,0,g,68,g
+728,blimpie,sun drop citrus soda 21 oz,0,g,0,mg,85,g,81,g,0,g,0,g,0,g,0,g,80,g
+729,blimpie,sun drop citrus soda 28 oz,0,g,0,mg,125,g,123,g,0,g,0,g,0,g,0,g,121,g
+730,blimpie,sun drop diet citrus soda 12 oz,0,g,0,mg,120,g,0,g,0,g,0,g,0,g,0,g,0,g
+731,blimpie,sun drop diet citrus soda 16 oz,0,g,0,mg,190,g,1,g,0,g,0,g,0,g,0,g,0,g
+732,blimpie,sun drop diet citrus soda 21 oz,0,g,0,mg,220,g,1,g,0,g,0,g,0,g,0,g,1,g
+733,blimpie,sun drop diet citrus soda 28 oz,0,g,0,mg,330,g,1,g,1,g,0,g,0,g,0,g,1,g
+734,blimpie,sunchips multigrain original,9,g,0,mg,180,g,29,g,3,g,1,g,0,g,4,g,3,g
+735,blimpie,sunkist cherry limeade soda 12 oz,0,g,0,mg,45,g,44,g,0,g,0,g,0,g,0,g,44,g
+736,blimpie,sunkist cherry limeade soda 16 oz,0,g,0,mg,70,g,67,g,0,g,0,g,0,g,0,g,66,g
+737,blimpie,sunkist cherry limeade soda 21 oz,0,g,0,mg,80,g,78,g,0,g,0,g,0,g,0,g,77,g
+738,blimpie,sunkist cherry limeade soda 28 oz,0,g,0,mg,120,g,115,g,0,g,0,g,0,g,0,g,113,g
+739,blimpie,sunkist grape soda 12 oz,0,g,0,mg,50,g,46,g,0,g,0,g,0,g,0,g,46,g
+740,blimpie,sunkist grape soda 16 oz,0,g,0,mg,70,g,70,g,0,g,0,g,0,g,0,g,69,g
+741,blimpie,sunkist grape soda 21 oz,0,g,0,mg,85,g,81,g,0,g,0,g,0,g,0,g,80,g
+742,blimpie,sunkist grape soda 28 oz,0,g,0,mg,125,g,124,g,0,g,0,g,0,g,0,g,122,g
+743,blimpie,sunkist orange soda 12 oz,0,g,0,mg,70,g,43,g,0,g,0,g,0,g,0,g,42,g
+744,blimpie,sunkist orange soda 16 oz,0,g,0,mg,100,g,65,g,0,g,0,g,0,g,0,g,63,g
+745,blimpie,sunkist orange soda 21 oz,0,g,0,mg,120,g,75,g,0,g,0,g,0,g,0,g,74,g
+746,blimpie,sunkist orange soda 28 oz,0,g,0,mg,180,g,115,g,0,g,0,g,0,g,0,g,113,g
+747,blimpie,sunkist strawberry soda 12 oz,0,g,0,mg,50,g,46,g,0,g,0,g,0,g,0,g,46,g
+748,blimpie,sunkist strawberry soda 16 oz,0,g,0,mg,70,g,70,g,0,g,0,g,0,g,0,g,69,g
+749,blimpie,sunkist strawberry soda 21 oz,0,g,0,mg,85,g,81,g,0,g,0,g,0,g,0,g,80,g
+750,blimpie,sunkist strawberry soda 28 oz,0,g,0,mg,125,g,124,g,0,g,0,g,0,g,0,g,122,g
+751,blimpie,sweet pepper strips,0,g,0,mg,130,g,6,g,0,g,0,g,0,g,0,g,5,g
+752,blimpie,swiss cheese,6,g,20,mg,45,g,1,g,6,g,4,g,0,g,0,g,0,g
+753,blimpie,teriyaki sauce,0,g,0,mg,180,g,6,g,0,g,0,g,0,g,0,g,6,g
+754,blimpie,thousand island dressing,19,g,20,mg,370,g,6,g,0,g,3,g,0,g,0,g,4,g
+755,blimpie,tomato basil with raviolini soup,1,g,10,mg,720,g,22,g,4,g,0,g,0,g,0,g,5,g
+756,blimpie,tropicana fruit punch 12 oz,0,g,0,mg,35,g,46,g,0,g,0,g,0,g,0,g,46,g
+757,blimpie,tropicana fruit punch 16 oz,0,g,0,mg,55,g,69,g,0,g,0,g,0,g,0,g,68,g
+758,blimpie,tropicana fruit punch 21 oz,0,g,0,mg,65,g,80,g,0,g,0,g,0,g,0,g,80,g
+759,blimpie,tropicana fruit punch 28 oz,0,g,0,mg,95,g,122,g,0,g,0,g,0,g,0,g,122,g
+760,blimpie,tropicana lemonade 12 oz,0,g,0,mg,160,g,41,g,0,g,0,g,0,g,0,g,41,g
+761,blimpie,tropicana lemonade 16 oz,0,g,0,mg,240,g,61,g,0,g,0,g,0,g,0,g,61,g
+762,blimpie,tropicana lemonade 21 oz,0,g,0,mg,280,g,71,g,0,g,0,g,0,g,0,g,71,g
+763,blimpie,tropicana lemonade 28 oz,0,g,0,mg,420,g,109,g,0,g,0,g,0,g,0,g,108,g
+764,blimpie,tropicana light lemonade 12 oz,0,g,0,mg,150,g,0,g,0,g,0,g,0,g,0,g,0,g
+765,blimpie,tropicana light lemonade 16 oz,0,g,0,mg,220,g,0,g,0,g,0,g,0,g,0,g,0,g
+766,blimpie,tropicana light lemonade 21 oz,0,g,0,mg,250,g,0,g,0,g,0,g,0,g,0,g,0,g
+767,blimpie,tropicana light lemonade 28 oz,0,g,0,mg,380,g,1,g,0,g,0,g,0,g,0,g,0,g
+768,blimpie,tropicana pink lemonade 12 oz,0,g,0,mg,160,g,41,g,0,g,0,g,0,g,0,g,41,g
+769,blimpie,tropicana pink lemonade 16 oz,0,g,0,mg,240,g,61,g,0,g,0,g,0,g,0,g,61,g
+770,blimpie,tropicana pink lemonade 21 oz,0,g,0,mg,280,g,71,g,0,g,0,g,0,g,0,g,71,g
+771,blimpie,tropicana pink lemonade 28 oz,0,g,0,mg,420,g,109,g,0,g,0,g,0,g,0,g,108,g
+772,blimpie,tropicana twister soda orange 12 oz,0,g,0,mg,35,g,47,g,0,g,0,g,0,g,0,g,46,g
+773,blimpie,tropicana twister soda orange 16 oz,0,g,0,mg,55,g,70,g,0,g,0,g,0,g,0,g,70,g
+774,blimpie,tropicana twister soda orange 21 oz,0,g,0,mg,65,g,81,g,0,g,0,g,0,g,0,g,81,g
+775,blimpie,tropicana twister soda orange 28 oz,0,g,0,mg,95,g,124,g,0,g,0,g,0,g,0,g,124,g
+776,blimpie,tuna,19,g,50,mg,400,g,0,g,14,g,3,g,0,g,0,g,0,g
+777,blimpie,tuna sub large,43,g,100,mg,1740,g,96,g,47,g,6,g,0,g,5,g,12,g
+778,blimpie,tuna sub regular,22,g,50,mg,870,g,48,g,23,g,3,g,0,g,2,g,6,g
+779,blimpie,turkey,3,g,40,mg,820,g,3,g,12,g,1,g,0,g,0,g,2,g
+780,blimpie,turkey and avocado sub large,22,g,90,mg,3290,g,111,g,51,g,3,g,0,g,10,g,17,g
+781,blimpie,turkey and avocado sub regular,11,g,45,mg,1640,g,55,g,26,g,2,g,0,g,5,g,9,g
+782,blimpie,turkey and cranberry sub large,30,g,150,mg,3220,g,125,g,52,g,12,g,1,g,4,g,33,g
+783,blimpie,turkey and cranberry sub regular,15,g,75,mg,1600,g,62,g,26,g,6,g,0,g,2,g,16,g
+784,blimpie,turkey and provolone 3 blast,186,g,925,mg,27050,g,917,g,476,g,57,g,0,g,42,g,123,g
+785,blimpie,turkey and provolone sub large,30,g,105,mg,2950,g,110,g,54,g,9,g,0,g,6,g,17,g
+786,blimpie,turkey and provolone sub regular,15,g,55,mg,1470,g,55,g,27,g,5,g,0,g,3,g,9,g
+787,blimpie,turkey and provolone large sliders tray,146,g,635,mg,17670,g,652,g,324,g,51,g,0,g,11,g,103,g
+788,blimpie,turkey and provolone large wraps tray,187,g,530,mg,17030,g,553,g,260,g,63,g,0,g,9,g,61,g
+789,blimpie,turkey and provolone small sliders tray,73,g,320,mg,8840,g,326,g,162,g,26,g,0,g,6,g,51,g
+790,blimpie,turkey and provolone small wraps tray,95,g,265,mg,8560,g,275,g,130,g,32,g,0,g,5,g,30,g
+791,blimpie,turkey bacon and cheddar sub on ciabatta,15,g,65,mg,2380,g,47,g,28,g,6,g,0,g,2,g,4,g
+792,blimpie,turkey bacon and cheddar sub on pretzel bread,18,g,60,mg,1740,g,62,g,26,g,9,g,0,g,2,g,9,g
+793,blimpie,ultimate club salad,16,g,65,mg,1180,g,11,g,23,g,8,g,0,g,3,g,5,g
+794,blimpie,ultimate club sub on ciabatta,26,g,60,mg,1720,g,51,g,27,g,7,g,0,g,3,g,6,g
+795,blimpie,vanilla coke 12 oz,0,g,0,mg,45,g,46,g,0,g,0,g,0,g,0,g,46,g
+796,blimpie,vanilla coke 16 oz,0,g,0,mg,65,g,69,g,0,g,0,g,0,g,0,g,69,g
+797,blimpie,vanilla coke 21 oz,0,g,0,mg,75,g,80,g,0,g,0,g,0,g,0,g,80,g
+798,blimpie,vanilla coke 28 oz,0,g,0,mg,115,g,122,g,0,g,0,g,0,g,0,g,122,g
+799,blimpie,vegetable beef with barley soup,3,g,10,mg,950,g,14,g,5,g,1,g,0,g,4,g,3,g
+800,blimpie,vegetable tray large without dressing,9,g,0,mg,1050,g,206,g,48,g,2,g,0,g,68,g,102,g
+801,blimpie,vegetable tray small without dressing,5,g,0,mg,520,g,103,g,24,g,1,g,0,g,34,g,51,g
+802,blimpie,veggie and cheese sub large,41,g,30,mg,2720,g,107,g,40,g,17,g,0,g,6,g,14,g
+803,blimpie,veggie and cheese sub regular,21,g,15,mg,1390,g,54,g,20,g,9,g,0,g,3,g,7,g
+804,blimpie,veggie 7 inch pizza,17,g,40,mg,1220,g,75,g,21,g,7,g,0,g,5,g,9,g
+805,blimpie,veggie pizza 1 slice 1 6th pizza,7,g,15,mg,540,g,35,g,10,g,3,g,0,g,2,g,5,g
+806,blimpie,veggie pizza 1 slice 1 8th pizza,9,g,20,mg,690,g,44,g,13,g,4,g,0,g,3,g,6,g
+807,blimpie,vegimax,5,g,0,mg,520,g,12,g,15,g,1,g,0,g,3,g,2,g
+808,blimpie,vegimax sub large,53,g,45,mg,2620,g,123,g,59,g,12,g,0,g,11,g,17,g
+809,blimpie,vegimax sub regular,27,g,20,mg,1310,g,61,g,29,g,6,g,0,g,5,g,9,g
+810,blimpie,vernors ginger soda 12 oz,0,g,0,mg,50,g,40,g,0,g,0,g,0,g,0,g,39,g
+811,blimpie,vernors ginger soda 16 oz,0,g,0,mg,70,g,59,g,0,g,0,g,0,g,0,g,59,g
+812,blimpie,vernors ginger soda 21 oz,0,g,0,mg,85,g,69,g,0,g,0,g,0,g,0,g,68,g
+813,blimpie,vernors ginger soda 28 oz,0,g,0,mg,130,g,106,g,0,g,0,g,0,g,0,g,104,g
+814,blimpie,wheat tortilla,8,g,0,mg,660,g,44,g,11,g,3,g,0,g,9,g,4,g
+815,blimpie,white bread large,6,g,0,mg,930,g,90,g,17,g,1,g,0,g,3,g,8,g
+816,blimpie,white bread regular,3,g,0,mg,460,g,45,g,8,g,0,g,0,g,1,g,4,g
+817,blimpie,white chocolate macadamia nut cookie,12,g,10,mg,130,g,24,g,2,g,6,g,0,g,1,g,15,g
+818,blimpie,whole grain wheat bread large,7,g,0,mg,800,g,78,g,20,g,2,g,0,g,10,g,4,g
+819,blimpie,whole grain wheat bread regular,4,g,0,mg,400,g,39,g,10,g,1,g,0,g,5,g,2,g
+820,blimpie,wisconsin cheese,13,g,20,mg,990,g,21,g,8,g,7,g,0,g,1,g,5,g
+821,blimpie,yellow deli style mustard,0,g,0,mg,160,g,0,g,0,g,0,g,0,g,0,g,0,g
+822,blimpie,yogurt for fruit tray large,7,g,25,mg,280,g,67,g,19,g,4,g,0,g,0,g,67,g
+823,blimpie,yogurt for fruit tray small,4,g,15,mg,140,g,33,g,9,g,2,g,0,g,0,g,33,g
+824,blimpie,zesty brown mustard,0,g,0,mg,180,g,0,g,0,g,0,g,0,g,0,g,0,g
+825,blimpie,zesty parmesan bread large,10,g,10,mg,1110,g,92,g,22,g,3,g,0,g,4,g,8,g
+826,blimpie,zesty parmesan bread regular,5,g,5,mg,550,g,46,g,11,g,2,g,0,g,2,g,4,g
+827,bob evans restaurants,banana nut bread,22,g,15,mg,540,g,57,g,5,g,5,g,0,g,2,g,31,g
+828,bob evans restaurants,biscuits 2 with butter,31,g,10,mg,1530,g,53,g,7,g,16,g,1,g,1,g,3,g
+829,bob evans restaurants,dinner rolls 2 with butter,17,g,10,mg,610,g,50,g,8,g,5,g,0,g,3,g,3,g
+830,bob evans restaurants,chocolate chunk cookie,26,g,35,mg,370,g,68,g,6,g,13,g,0,g,3,g,41,g
+831,bob evans restaurants,strawberry lemonade,0,g,0,mg,15,g,30,g,0,g,0,g,0,g,0.5,g,27,g
+832,bob evans restaurants,chocolate milk 1 small,2.5,g,5,mg,140,g,30,g,8,g,1.5,g,0,g,1,g,23,g
+833,bob evans restaurants,orange juice small,0,g,0,mg,10,g,24,g,2,g,0,g,0,g,0.5,g,20,g
+834,bob evans restaurants,hot chocolate with whipped topping,9,g,0,mg,300,g,55,g,4,g,7,g,0,g,2,g,44,g
+835,bob evans restaurants,original cappuccino,10,g,0,mg,80,g,40,g,2,g,8,g,0,g,0,g,33,g
+836,bob evans restaurants,iced tea unsweetened,0,g,0,mg,10,g,2,g,0,g,0,g,0,g,0.5,g,0,g
+837,bob evans restaurants,caramel mocha with whipped topping,9,g,0,mg,140,g,46,g,2,g,8,g,0,g,1,g,42,g
+838,bob evans restaurants,caramel coffee,0,g,0,mg,10,g,14,g,0.5,g,0,g,0,g,0,g,14,g
+839,bob evans restaurants,orange juice regular,0,g,0,mg,15,g,42,g,3,g,0,g,0,g,1,g,36,g
+840,bob evans restaurants,lemonade,0,g,0,mg,15,g,25,g,0,g,0,g,0,g,0,g,21,g
+841,bob evans restaurants,sweetened iced tea,0,g,0,mg,10,g,20,g,0,g,0,g,0,g,0.5,g,18,g
+842,bob evans restaurants,milk 2 regular,9,g,35,mg,210,g,21,g,14,g,6,g,0,g,0,g,22,g
+843,bob evans restaurants,premium decaf or regular coffee,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+844,bob evans restaurants,chocolate milk 1 regular,4.5,g,15,mg,280,g,57,g,15,g,3,g,0,g,2,g,45,g
+845,bob evans restaurants,apple juice small,0,g,0,mg,20,g,17,g,0,g,0,g,0,g,0,g,16,g
+846,bob evans restaurants,milk 2 small,4.5,g,20,mg,105,g,11,g,7,g,3,g,0,g,0,g,11,g
+847,bob evans restaurants,tomato juice small,0.5,g,0,mg,560,g,8,g,2,g,0,g,0,g,0.5,g,6,g
+848,bob evans restaurants,apple juice regular,0,g,0,mg,35,g,35,g,0,g,0,g,0,g,0,g,33,g
+849,bob evans restaurants,tomato juice regular,1.5,g,0,mg,1110,g,15,g,4,g,0,g,0,g,2,g,11,g
+850,bob evans restaurants,vanilla cappuccino,10,g,0,mg,80,g,47,g,2,g,8,g,0,g,0,g,40,g
+851,bob evans restaurants,buttermilk hotcakes 4 without meat choice,28,g,10,mg,1910,g,209,g,17,g,9,g,0.5,g,4,g,39,g
+852,bob evans restaurants,brioche french toast with butter syrup and powdered sugar,25,g,220,mg,840,g,134,g,19,g,8,g,0.5,g,3,g,22,g
+853,bob evans restaurants,sausage gravy cup,16,g,20,mg,820,g,14,g,8,g,9,g,0,g,0,g,2,g
+854,bob evans restaurants,western omelet without hashbrowns homefries or grits,50,g,635,mg,1590,g,11,g,40,g,17,g,0,g,1,g,5,g
+855,bob evans restaurants,sunshine breakfast skillet with homefries,59,g,475,mg,1410,g,27,g,30,g,16,g,0.5,g,3,g,2,g
+856,bob evans restaurants,the everything breakfast,73,g,725,mg,2850,g,63,g,57,g,31,g,0,g,5,g,6,g
+857,bob evans restaurants,country fried steak with country gravy,33,g,55,mg,929,g,38,g,20,g,10,g,0.5,g,4,g,0.5,g
+858,bob evans restaurants,oatmeal with milk and brown sugar,4,g,5,mg,300,g,41,g,8,g,1,g,0,g,4,g,12,g
+859,bob evans restaurants,sausage gravy bowl,33,g,40,mg,1660,g,29,g,17,g,19,g,0,g,0,g,4,g
+860,bob evans restaurants,breakfast hashbrowns,10,g,0,mg,890,g,26,g,3,g,2,g,0,g,3,g,0,g
+861,bob evans restaurants,cinnamon supreme hotcakes 4 without meat choice,26,g,5,mg,1810,g,190,g,17,g,12,g,0.5,g,5,g,72,g
+862,bob evans restaurants,double blueberry hotcakes 4 without meat choice,23,g,0,mg,1900,g,203,g,17,g,10,g,0,g,6,g,78,g
+863,bob evans restaurants,double chocolate hotcakes 4 without meat choice,27,g,0,mg,1820,g,199,g,18,g,13,g,0,g,6,g,74,g
+864,bob evans restaurants,scrambled eggs,11,g,420,mg,280,g,1,g,14,g,3.5,g,0,g,0,g,0,g
+865,bob evans restaurants,pot roast hash with homefries without eggs,39,g,95,mg,1280,g,28,g,30,g,14,g,1.5,g,4,g,3,g
+866,bob evans restaurants,grits with butter,21,g,25,mg,280,g,13,g,2,g,7,g,0,g,0.5,g,0,g
+867,bob evans restaurants,hardwood smoked bacon,14,g,40,mg,670,g,0.5,g,13,g,4.5,g,0,g,0,g,0,g
+868,bob evans restaurants,country biscuit breakfast,36,g,80,mg,1340,g,29,g,22,g,17,g,0,g,1,g,2,g
+869,bob evans restaurants,egg whites,0,g,0,mg,200,g,0.5,g,12,g,0,g,0,g,0,g,0.5,g
+870,bob evans restaurants,hickory smoked ham,2.5,g,35,mg,1440,g,2,g,17,g,1,g,0,g,0,g,2,g
+871,bob evans restaurants,sausage links,16,g,25,mg,310,g,0,g,9,g,6,g,0,g,0,g,0,g
+872,bob evans restaurants,belgian waffle breakfast with butter and syrup,25,g,30,mg,890,g,98,g,6,g,8,g,0.5,g,0.5,g,1,g
+873,bob evans restaurants,fresh cut fruit,0,g,0,mg,5,g,15,g,0.5,g,0,g,0,g,1,g,12,g
+874,bob evans restaurants,ham biscuit benedict without eggs hashbrowns or homefries,23,g,50,mg,1740,g,43,g,16,g,13,g,0.5,g,2,g,16,g
+875,bob evans restaurants,multigrain hotcake 4 without meat choice,31,g,10,mg,1910,g,214,g,18,g,10,g,0.5,g,5,g,41,g
+876,bob evans restaurants,goat cheese veggie breakfast omelet without hashbrowns homefries or grits,73,g,645,mg,890,g,12,g,37,g,27,g,2,g,2,g,5,g
+877,bob evans restaurants,sirloin steak breakfast without eggs hashbrowns or homefries,20,g,102,mg,850,g,3,g,44,g,9,g,0,g,0,g,0,g
+878,bob evans restaurants,hotcakes with butter and syrup,28,g,10,mg,1910,g,209,g,19,g,9,g,0.5,g,4,g,39,g
+879,bob evans restaurants,hotcakes with strawberies banana syrup and powdered sugar,14,g,0,mg,1390,g,201,g,13,g,5,g,0,g,6,g,40,g
+880,bob evans restaurants,breakfast sausage patties,26,g,90,mg,630,g,2,g,19,g,10,g,0,g,1,g,0,g
+881,bob evans restaurants,cornmeal mush 1,6,g,0,mg,200,g,16,g,0.5,g,1,g,0,g,2,g,1,g
+882,bob evans restaurants,border scramble omelet with homefries,56,g,645,mg,1310,g,12,g,37,g,60,g,0,g,2,g,5,g
+883,bob evans restaurants,golden cornmeal mush breakfast 3 slices with butter,27,g,10,mg,690,g,48,g,3,g,6,g,0,g,5,g,3,g
+884,bob evans restaurants,fresh start combo breakfast,15,g,60,mg,1600,g,63,g,37,g,4.5,g,0,g,3,g,20,g
+885,bob evans restaurants,bobs big griddle stacker without hashbrowns or homefries,78,g,415,mg,2840,g,73,g,47,g,32,g,1.5,g,3,g,20,g
+886,bob evans restaurants,chocolate peanut butter pie with reeses topping,41,g,45,mg,420,g,74,g,7,g,20,g,0,g,3,g,56,g
+887,bob evans restaurants,double crust apple pie,24,g,0,mg,410,g,77,g,3,g,10,g,0,g,3,g,47,g
+888,bob evans restaurants,coconut cream pie,38,g,20,mg,410,g,64,g,4,g,28,g,0,g,1,g,44,g
+889,bob evans restaurants,strawberry supreme pie,38,g,55,mg,380,g,60,g,5,g,23,g,0.5,g,3,g,38,g
+890,bob evans restaurants,chocolate fudge sundae,8,g,20,mg,55,g,30,g,3,g,4.5,g,0,g,0.5,g,21,g
+891,bob evans restaurants,chocolate chunk cookie,26,g,35,mg,370,g,68,g,6,g,13,g,0,g,3,g,41,g
+892,bob evans restaurants,caramel sundae,7,g,20,mg,135,g,31,g,3,g,4.5,g,0,g,0,g,12,g
+893,bob evans restaurants,homefries,17,g,0,mg,690,g,24,g,3,g,2.5,g,0.5,g,2,g,2,g
+894,bob evans restaurants,french fries,14,g,0,mg,480,g,47,g,3,g,2.5,g,0,g,4,g,0,g
+895,bob evans restaurants,kids homestyle fried chicken tenders with french fries,38,g,70,mg,1320,g,78,g,22,g,11,g,0,g,7,g,0,g
+896,bob evans restaurants,kids little piggy hotcakes,13,g,10,mg,1020,g,107,g,11,g,5,g,0,g,3,g,23,g
+897,bob evans restaurants,kids lil farmers breakfast without meat,26,g,210,mg,1010,g,78,g,13,g,6,g,0,g,2,g,11,g
+898,bob evans restaurants,kids plenty o pancakes without meat,39,g,0,mg,3440,g,326,g,32,g,16,g,0.5,g,8,g,79,g
+899,bob evans restaurants,kids turkey lurkey with mashed potatoes chicken gravy and carrots,23,g,70,mg,1430,g,34,g,18,g,10,g,0,g,4,g,12,g
+900,bob evans restaurants,kids tic tac toast with syrup and sausage,13,g,150,mg,510,g,77,g,14,g,5,g,0,g,1,g,14,g
+901,bob evans restaurants,kids grilled cheese triangles with fresh fruit,15,g,30,mg,770,g,40,g,10,g,7,g,1.5,g,2,g,16,g
+902,bob evans restaurants,kids cheeseburger with french fries,36,g,60,mg,1210,g,84,g,20,g,12,g,1,g,6,g,5,g
+903,bob evans restaurants,kids grilled chicken with steamed broccoli,6,g,50,mg,630,g,52,g,27,g,1.5,g,0,g,1,g,23,g
+904,bob evans restaurants,kids macaroni and cheese with steamed broccoli,12,g,25,mg,940,g,31,g,14,g,5,g,0,g,2,g,4,g
+905,bob evans restaurants,kids chicken and noodles with steamed broccoli,7,g,30,mg,540,g,14,g,10,g,1.5,g,1,g,0.5,g,0.5,g
+906,bob evans restaurants,kids turkey sausage breakfast,5,g,30,mg,750,g,26,g,20,g,1.5,g,0,g,2,g,4,g
+907,bob evans restaurants,kids im smiling sundae,12,g,20,mg,105,g,40,g,5,g,6,g,0,g,1,g,30,g
+908,bob evans restaurants,kids steamed broccoli,0,g,0,mg,25,g,5,g,3,g,0,g,0,g,0,g,0,g
+909,bob evans restaurants,add on slice of meatloaf,26,g,125,mg,770,g,22,g,27,g,11,g,1,g,3,g,6,g
+910,bob evans restaurants,goat cheese,11,g,30,mg,150,g,0,g,8,g,7,g,0,g,0,g,0,g
+911,bob evans restaurants,dinner grilled to perfection chicken breasts 2 without sides,9,g,190,mg,1430,g,0,g,72,g,3,g,0,g,0,g,0,g
+912,bob evans restaurants,dinner herb rubbed turkey and dressing with sides,40,g,120,mg,2680,g,81,g,37,g,15,g,0.5,g,6,g,28,g
+913,bob evans restaurants,dinner fork tender pot roast with sides,62,g,145,mg,2340,g,62,g,38,g,21,g,1.5,g,11,g,25,g
+914,bob evans restaurants,chicken n noodles deep dish dinner,33,g,105,mg,2320,g,54,g,26,g,15,g,2,g,3,g,4,g
+915,bob evans restaurants,dinner homestyle boneless fried chicken breast without sides,30,g,0,mg,1400,g,41,g,33,g,6,g,0,g,4,g,0,g
+916,bob evans restaurants,dinner choice sirloin steak without sides,54,g,115,mg,1320,g,17,g,47,g,16,g,2,g,3,g,6,g
+917,bob evans restaurants,dinner chicken parm pasta,30,g,65,mg,1460,g,58,g,33,g,10,g,0,g,5,g,7,g
+918,bob evans restaurants,dinner homestyle fried chicken tenders 3 without sides,36,g,105,mg,1260,g,46,g,34,g,13,g,0,g,3,g,0,g
+919,bob evans restaurants,dinner heartland chicken pot pie with coleslaw,87,g,175,mg,2390,g,106,g,51,g,30,g,0.5,g,7,g,24,g
+920,bob evans restaurants,dinner down home country fried steak with sides,45,g,85,mg,1890,g,58,g,25,g,17,g,1,g,7,g,2,g
+921,bob evans restaurants,dinner homestyle fried chicken 2 pieces white meat,47,g,235,mg,2910,g,42,g,56,g,13,g,1,g,3,g,19,g
+922,bob evans restaurants,dinner grilled chicken with mashed potatoes and chicken gravy,18.5,g,125,mg,1550,g,19,g,39,g,8.5,g,0,g,2,g,2,g
+923,bob evans restaurants,dinner fork tender pot roast with sides savor size,44,g,85,mg,1390,g,37,g,20,g,14,g,1,g,6,g,13,g
+924,bob evans restaurants,dinner homestyle fried chicken 2 pieces dark meat,45,g,205,mg,2270,g,43,g,33,g,13,g,1,g,3,g,19,g
+925,bob evans restaurants,dinner beef stroganoff,36,g,145,mg,1340,g,77,g,30,g,13,g,2.5,g,7,g,10,g
+926,bob evans restaurants,wildfire meatloaf with sides,54,g,155,mg,2030,g,62,g,32,g,19,g,1,g,6,g,15,g
+927,bob evans restaurants,dinner farm value herb rubbed turkey and dressing,32,g,80,mg,2250,g,67,g,23,g,13,g,0.5,g,3,g,18,g
+928,bob evans restaurants,dinner half fried chicken with coleslaw and mashed potatoes and gravy,65,g,400,mg,4090,g,46,g,85,g,17,g,1,g,3,g,19,g
+929,bob evans restaurants,dinner herb rubbed turkey and dressing with sides savor size,32,g,80,mg,2250,g,67,g,23,g,13,g,0.5,g,3,g,18,g
+930,bob evans restaurants,dinner pasta and meat sauce,28,g,115,mg,1350,g,78,g,24,g,8,g,0,g,8,g,14,g
+931,bob evans restaurants,colonial dressing,14,g,0,mg,130,g,8,g,0,g,2,g,0,g,0,g,8,g
+932,bob evans restaurants,wildfire ranch dressing,3,g,3,mg,100,g,3,g,0,g,0.5,g,0,g,0,g,2,g
+933,bob evans restaurants,buttermilk ranch dressing,11,g,10,mg,210,g,1,g,0,g,2,g,0,g,0,g,1,g
+934,bob evans restaurants,french dressing,13,g,5,mg,170,g,6,g,0,g,2,g,0,g,0,g,6,g
+935,bob evans restaurants,bleu cheese dressing,15,g,15,mg,220,g,2,g,0.5,g,3,g,0,g,0,g,0.5,g
+936,bob evans restaurants,sweet italian dressing,11,g,0,mg,340,g,5,g,0,g,1.5,g,0,g,0,g,5,g
+937,bob evans restaurants,reduced fat raspberry vinaigrette,3.5,g,0,mg,70,g,10,g,0,g,0.5,g,0,g,0,g,10,g
+938,bob evans restaurants,low fat balsamic vinaigrette,1,g,0,mg,140,g,7,g,0,g,0,g,0,g,0,g,7,g
+939,bob evans restaurants,wildfire grilled chicken salad with wildfire ranch dressing regular,30,g,126,mg,1599,g,50,g,47,g,8,g,0,g,7,g,30,g
+940,bob evans restaurants,chicken cobb salad with blue cheese dressing regular,71,g,480,mg,2390,g,17,g,72,g,34,g,0.5,g,5,g,8,g
+941,bob evans restaurants,cranberry pecan chicken salad with sweet italian dressing regular,51,g,135,mg,2230,g,55,g,52,g,12,g,0,g,8,g,39,g
+942,bob evans restaurants,cranberry pecan chicken salad with sweet italian dressing small,27,g,70,mg,1180,g,31,g,28,g,7,g,0,g,6,g,20,g
+943,bob evans restaurants,chicken cobb salad with blue cheese dressing small,34,g,180,mg,1170,g,10,g,34,g,11,g,0,g,4,g,4,g
+944,bob evans restaurants,wildfire grilled chicken salad with wildfire ranch dressing small,15,g,63,mg,864,g,31,g,24,g,4,g,0,g,5,g,17,g
+945,bob evans restaurants,wildfire homestyle fried chicken salad with wildfire ranch dressing regular,40,g,71,mg,1379,g,68,g,24,g,12,g,0,g,8,g,30,g
+946,bob evans restaurants,wildfire homestyle fried chicken salad with wildfire ranch dressing small,20,g,35,mg,754,g,40,g,13,g,6.5,g,0,g,5.5,g,17,g
+947,bob evans restaurants,farmhouse grilled chicken sandwich with fries,54,g,186,mg,2700,g,87,g,56,g,14,g,2,g,7,g,9,g
+948,bob evans restaurants,slow roasted pot roast sandwich with fries,57,g,140,mg,2570,g,104,g,45,g,21,g,3.5,g,11,g,9,g
+949,bob evans restaurants,slow roasted turkey bacon melt sandwich with fries,46,g,100,mg,2540,g,92,g,42,g,14,g,2.5,g,7,g,3,g
+950,bob evans restaurants,big farm double bacon cheeseburger with fries,61,g,185,mg,1670,g,81,g,49,g,20,g,2.5,g,7,g,4,g
+951,bob evans restaurants,farmhouse homestyle fried chicken sandwich with fries,64,g,131,mg,2478,g,105,g,33,g,19,g,2,g,8,g,9,g
+952,bob evans restaurants,handcrafted deli turkey sandwich with fries,35,g,75,mg,1910,g,124,g,41,g,11,g,0,g,12,g,17,g
+953,bob evans restaurants,big farm double steakhouse burger with fries,78,g,235,mg,2270,g,88,g,65,g,26,g,4.5,g,7,g,8,g
+954,bob evans restaurants,shaved ham and swiss melt sandwich with fries,43,g,105,mg,3220,g,128,g,43,g,13,g,1.5,g,9,g,16,g
+955,bob evans restaurants,wildfire sauce,0,g,0,mg,220,g,13,g,0,g,0,g,0,g,0,g,5,g
+956,bob evans restaurants,honey mustard sacue,11,g,10,mg,150,g,6,g,0,g,15,g,0,g,0,g,5,g
+957,bob evans restaurants,ranch sauce,10,g,10,mg,210,g,0.5,g,0,g,2,g,0,g,0,g,0.5,g
+958,bob evans restaurants,buffalo sauce,6,g,5,mg,700,g,1,g,0,g,1,g,0,g,0,g,0,g
+959,bob evans restaurants,dinner great alaskan cod with tartar sauce without sides,39,g,110,mg,1050,g,39,g,32,g,7,g,0,g,4,g,2,g
+960,bob evans restaurants,dinner potato crusted flounder without sides,13,g,50,mg,770,g,13,g,22,g,2.5,g,0,g,0.5,g,0,g
+961,bob evans restaurants,dinner grilled salmon and fresh tomato salsa,5,g,95,mg,750,g,5,g,35,g,0,g,0,g,1,g,2,g
+962,bob evans restaurants,green beans with ham,1.5,g,5,mg,460,g,4,g,2,g,0,g,0,g,2,g,0,g
+963,bob evans restaurants,mashed potatoes with chicken gravy,14,g,30,mg,830,g,19,g,3,g,7,g,0,g,2,g,2,g
+964,bob evans restaurants,macaroni and cheese,12,g,25,mg,910,g,25,g,11,g,5,g,0,g,2,g,4,g
+965,bob evans restaurants,coleslaw,14,g,10,mg,250,g,19,g,0.5,g,2,g,0,g,2,g,17,g
+966,bob evans restaurants,mashed potatoes with country gravy,10,g,25,mg,560,g,17,g,3,g,6,g,0,g,2,g,2,g
+967,bob evans restaurants,carrots,4.5,g,5,mg,115,g,13,g,0.5,g,1.5,g,0,g,3,g,10,g
+968,bob evans restaurants,bread and celery dressing,15,g,20,mg,1000,g,42,g,7,g,5,g,0,g,2,g,6,g
+969,bob evans restaurants,corn,10,g,10,mg,90,g,20,g,3,g,30,g,0,g,2,g,2,g
+970,bob evans restaurants,broccoli,10,g,10,mg,110,g,5,g,3,g,3,g,0,g,0,g,0,g
+971,bob evans restaurants,baked potato,12,g,15,mg,120,g,51,g,6,g,4,g,0,g,4,g,2,g
+972,bob evans restaurants,dinner hashbrowns,12,g,0,mg,160,g,28,g,2,g,2,g,1.5,g,3,g,1,g
+973,bob evans restaurants,corn meal mush with butter,6,g,0,mg,200,g,16,g,0.5,g,1,g,0,g,2,g,1,g
+974,bob evans restaurants,add an extra slice of meatloaf,26,g,125,mg,770,g,22,g,27,g,11,g,1,g,3,g,6,g
+975,bob evans restaurants,all day breakfast buttermilk hotcakes,28,g,10,mg,1910,g,209,g,17,g,9,g,0.5,g,4,g,39,g
+976,bob evans restaurants,all day breakfast multigrain hotcakes,31,g,10,mg,1910,g,214,g,18,g,10,g,0.5,g,5,g,41,g
+977,bob evans restaurants,apple juice regular,0,g,0,mg,35,g,35,g,0,g,0,g,0,g,0,g,33,g
+978,bob evans restaurants,apple juice small,0,g,0,mg,20,g,17,g,0,g,0,g,0,g,0,g,16,g
+979,bob evans restaurants,arnold palmer,0,g,0,mg,10,g,12,g,0,g,0,g,0,g,0,g,10,g
+980,bob evans restaurants,bacon,14,g,40,mg,670,g,1,g,13,g,4.5,g,0,g,0,g,0,g
+981,bob evans restaurants,baked potato,12,g,15,mg,120,g,51,g,6,g,4,g,0,g,4,g,2,g
+982,bob evans restaurants,banana nut bread,10,g,0,mg,440,g,37,g,5,g,1.5,g,0,g,2,g,30,g
+983,bob evans restaurants,best farmhouse dinners down home country fried steak,45,g,85,mg,1890,g,58,g,25,g,17,g,1,g,7,g,2,g
+984,bob evans restaurants,best farmhouse dinners herb rubbed turkey and dressing,40,g,120,mg,2680,g,81,g,37,g,15,g,0.5,g,6,g,28,g
+985,bob evans restaurants,blueberries hotcakes only,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,1,g,4,g
+986,bob evans restaurants,blueberry topping,0,g,0,mg,115,g,35,g,0,g,0,g,0,g,1,g,29,g
+987,bob evans restaurants,bob evans signature coleslaw,14,g,10,mg,250,g,19,g,1,g,2,g,0,g,2,g,17,g
+988,bob evans restaurants,bob evans wildfire meatloaf,51,g,150,mg,1420,g,40,g,30,g,19,g,1,g,4,g,8,g
+989,bob evans restaurants,breakfast blend,0,g,0,mg,10,g,0,g,1,g,0,g,0,g,0,g,0,g
+990,bob evans restaurants,breakfast egg choice egg whites,0,g,0,mg,200,g,1,g,12,g,0,g,0,g,0,g,1,g
+991,bob evans restaurants,breakfast egg choice freshly cracked,16,g,370,mg,140,g,1,g,13,g,4,g,0,g,0,g,0,g
+992,bob evans restaurants,breakfast egg choice scrambled,11,g,420,mg,280,g,1,g,14,g,3.5,g,0,g,0,g,0,g
+993,bob evans restaurants,breakfast griddle choice brioche french toast served with butter and syrup,25,g,220,mg,840,g,134,g,19,g,8,g,0.5,g,3,g,22,g
+994,bob evans restaurants,breakfast griddle choice hotcakes served with butter and syrup,28,g,10,mg,1910,g,209,g,17,g,9,g,0.5,g,4,g,39,g
+995,bob evans restaurants,breakfast meat choice bob evans sausage links 3,16,g,25,mg,310,g,0,g,9,g,6,g,0,g,0,g,0,g
+996,bob evans restaurants,breakfast meat choice bob evans sausage patties 2,26,g,90,mg,630,g,2,g,19,g,10,g,0,g,1,g,0,g
+997,bob evans restaurants,breakfast meat choice hardwood smoked bacon,14,g,40,mg,670,g,1,g,13,g,4.5,g,0,g,0,g,0,g
+998,bob evans restaurants,breakfast meat choice hickory smoked ham,2.5,g,35,mg,1440,g,2,g,17,g,1,g,0,g,0,g,2,g
+999,bob evans restaurants,breakfast meat choice turkey sausage links,7,g,60,mg,810,g,2,g,18,g,2,g,0,g,1,g,0,g

@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,quiznos,loaded tater tots,19,g,25,mg,790,g,25,g,11,g,7,g,0,g,0,g,1,g
+1,quiznos,side salad with dressing,26,g,0,mg,640,g,9,g,2,g,4,g,0,g,2,g,5,g
+2,quiznos,broccoli cheese soup regular,14,g,25,mg,1380,g,17,g,6,g,9,g,0,g,1,g,6,g
+3,quiznos,tomato basil bisque small,12,g,15,mg,500,g,12,g,2,g,3.5,g,0,g,0,g,9,g
+4,quiznos,chicken noodle soup small,2,g,15,mg,780,g,8,g,4,g,1,g,0,g,0,g,1,g
+5,quiznos,chicken noodle soup regular,4,g,25,mg,1400,g,14,g,7,g,1.5,g,0,g,1,g,2,g
+6,quiznos,chili regular,10,g,75,mg,980,g,34,g,20,g,2.5,g,0,g,10,g,8,g
+7,quiznos,chili small,5,g,40,mg,550,g,19,g,11,g,1.5,g,0,g,6,g,4,g
+8,quiznos,broccoli cheese soup small,8,g,15,mg,760,g,10,g,4,g,5,g,0,g,1,g,3,g
+9,quiznos,tomato basil bisque regular,21,g,30,mg,900,g,21,g,4,g,6,g,0,g,0,g,17,g
+10,quiznos,apple harvest salad full salad,22,g,30,mg,300,g,29,g,9,g,3.5,g,0,g,3,g,24,g
+11,quiznos,apple harvest salad half salad,29,g,45,mg,500,g,48,g,19,g,5,g,0,g,8,g,38,g
+12,quiznos,apple harvest 12 inch sub,50,g,80,mg,2100,g,147,g,47,g,10,g,0.5,g,10,g,42,g
+13,quiznos,apple harvest 4 inch sub,16,g,25,mg,690,g,49,g,16,g,3,g,0,g,3,g,14,g
+14,quiznos,apple harvest 8 inch sub,32,g,50,mg,1380,g,97,g,32,g,6,g,0,g,7,g,28,g
+15,quiznos,apple harvest sammie,20,g,25,mg,670,g,43,g,15,g,3.5,g,0,g,5,g,14,g
+16,quiznos,au jus 3 oz,2.5,g,0,mg,830,g,0,g,2,g,0,g,0,g,0,g,0,g
+17,quiznos,bacon egg and cheddar biscuit,28,g,145,mg,1130,g,30,g,17,g,9,g,3.5,g,1,g,1,g
+18,quiznos,bacon egg and cheddar sammie,19,g,145,mg,760,g,27,g,18,g,6,g,0,g,3,g,1,g
+19,quiznos,bacon egg and cheddar sub,17,g,145,mg,810,g,34,g,19,g,7,g,0,g,1,g,2,g
+20,quiznos,baja 12 inch sub,49,g,180,mg,3610,g,114,g,78,g,18,g,0,g,4,g,17,g
+21,quiznos,baja 4 inch sub,16,g,60,mg,1190,g,38,g,26,g,6,g,0,g,1,g,5,g
+22,quiznos,baja 8 inch sub,32,g,120,mg,2370,g,76,g,52,g,12,g,0,g,3,g,11,g
+23,quiznos,baja full salad,56,g,140,mg,2030,g,15,g,42,g,14,g,0.5,g,3,g,9,g
+24,quiznos,baja half salad,47,g,80,mg,1300,g,8,g,21,g,10,g,0.5,g,2,g,5,g
+25,quiznos,baja sammie,19,g,60,mg,1190,g,32,g,25,g,6,g,0,g,3,g,6,g
+26,quiznos,barqs root beer 20 oz,0,g,0,mg,90,g,73,g,0,g,0,g,0,g,0,g,73,g
+27,quiznos,barqs root beer 32 oz,0,g,0,mg,140,g,116,g,0,g,0,g,0,g,0,g,116,g
+28,quiznos,black angus steakhouse 12 inch sub,40,g,150,mg,3060,g,134,g,70,g,19,g,0.5,g,6,g,30,g
+29,quiznos,black angus steakhouse 4 inch sub,13,g,50,mg,1010,g,44,g,23,g,6,g,0,g,2,g,9,g
+30,quiznos,black angus steakhouse 8 inch sub,27,g,100,mg,2010,g,88,g,47,g,13,g,0,g,4,g,19,g
+31,quiznos,black angus steakhouse full salad,24,g,100,mg,1510,g,37,g,37,g,11,g,0,g,5,g,26,g
+32,quiznos,black angus steakhouse half salad,12,g,50,mg,980,g,31,g,19,g,6,g,0,g,3,g,24,g
+33,quiznos,black angus steakhouse sammie,15,g,50,mg,1000,g,39,g,23,g,6,g,0,g,4,g,10,g
+34,quiznos,broccoli cheese soup regular,14,g,25,mg,1380,g,18,g,6,g,9,g,0,g,1,g,6,g
+35,quiznos,broccoli cheese soup small,8,g,15,mg,760,g,10,g,4,g,5,g,0,g,1,g,3,g
+36,quiznos,carbonara 12 inch sub,65,g,175,mg,3360,g,110,g,82,g,18,g,1,g,5,g,10,g
+37,quiznos,carbonara 4 inch sub,21,g,55,mg,1110,g,36,g,27,g,6,g,0,g,2,g,3,g
+38,quiznos,carbonara 8 inch sub,42,g,115,mg,2220,g,73,g,54,g,12,g,0.5,g,3,g,7,g
+39,quiznos,carbonara full salad,51,g,125,mg,1740,g,15,g,46,g,13,g,1,g,4,g,7,g
+40,quiznos,carbonara half salad,42,g,75,mg,1130,g,11,g,24,g,9,g,1,g,2,g,5,g
+41,quiznos,carbonara sammie,25,g,60,mg,1100,g,30,g,26,g,6,g,0,g,3,g,3,g
+42,quiznos,catering box lunches regular sandwich,71,g,95,mg,3240,g,104,g,44,g,21,g,1,g,6,g,15,g
+43,quiznos,catering box lunches salad box,56,g,140,mg,2030,g,18,g,42,g,14,g,0.5,g,4,g,11,g
+44,quiznos,catering box lunches small sandwich,17076,g,50,mg,1870,g,65,g,24,g,12,g,0,g,4,g,11,g
+45,quiznos,catering salad bowls apple harvest chicken,139,g,265,mg,2980,g,220,g,102,g,23,g,0,g,32,g,168,g
+46,quiznos,catering salad bowls chef inspired,144,g,410,mg,7450,g,56,g,147,g,44,g,3,g,12,g,36,g
+47,quiznos,catering salad bowls classic italian,228,g,385,mg,9110,g,68,g,124,g,68,g,3,g,17,g,38,g
+48,quiznos,catering salad bowls fresh garden,109,g,0,mg,2800,g,52,g,11,g,15,g,1.5,g,16,g,27,g
+49,quiznos,catering salad bowls honey bacon club,149,g,370,mg,7250,g,134,g,149,g,44,g,2,g,17,g,102,g
+50,quiznos,catering salad bowls ultimate turkey club,151,g,445,mg,7620,g,39,g,150,g,47,g,1,g,17,g,17,g
+51,quiznos,catering sub and sammies trays bold bunch sammies,302,g,760,mg,17000,g,444,g,314,g,94,g,0,g,52,g,64,g
+52,quiznos,catering sub and sammies trays bold bunch subs,267,g,795,mg,18120,g,562,g,347,g,93,g,1,g,28,g,66,g
+53,quiznos,catering sub and sammies trays classic quiznos sammies,302,g,740,mg,15720,g,444,g,312,g,90,g,0,g,56,g,58,g
+54,quiznos,catering sub and sammies trays classic quiznos subs,298,g,770,mg,17500,g,571,g,341,g,98,g,3.5,g,31,g,71,g
+55,quiznos,catering sub and sammies trays fresh fix sammies,272,g,580,mg,13780,g,450,g,266,g,79,g,0,g,56,g,62,g
+56,quiznos,catering sub and sammies trays fresh fix subs,253,g,660,mg,14150,g,581,g,318,g,82,g,4,g,36,g,72,g
+57,quiznos,catering sub and sammies trays meaty sammies,322,g,720,mg,17320,g,454,g,296,g,98,g,0,g,52,g,70,g
+58,quiznos,catering sub and sammies trays meaty subs,295,g,740,mg,18610,g,574,g,318,g,98,g,2,g,28,g,75,g
+59,quiznos,chef salad 4 inch sub,46,g,90,mg,1860,g,13,g,32,g,13,g,1,g,2,g,9,g
+60,quiznos,chef salad 8 inch sub,37,g,50,mg,1120,g,8,g,16,g,9,g,0.5,g,1,g,5,g
+61,quiznos,chicken noodle soup regular,4,g,25,mg,1400,g,14,g,7,g,1.5,g,0,g,1,g,2,g
+62,quiznos,chicken noodle soup small,2,g,15,mg,780,g,8,g,4,g,1,g,0,g,0,g,1,g
+63,quiznos,chili regular,10,g,75,mg,980,g,34,g,20,g,2.5,g,0,g,10,g,8,g
+64,quiznos,chili small,5,g,40,mg,550,g,19,g,11,g,1.5,g,0,g,6,g,4,g
+65,quiznos,chipotle steak and cheddar 12 inch sub,68,g,150,mg,2990,g,110,g,59,g,19,g,0.5,g,6,g,8,g
+66,quiznos,chipotle steak and cheddar 4 inch sub,22,g,50,mg,990,g,36,g,20,g,6,g,0,g,2,g,3,g
+67,quiznos,chipotle steak and cheddar 8 inch sub,44,g,100,mg,1960,g,73,g,39,g,13,g,0,g,4,g,6,g
+68,quiznos,chipotle steak and cheddar full salad,56,g,110,mg,1500,g,13,g,30,g,14,g,0.5,g,4,g,5,g
+69,quiznos,chipotle steak and cheddar half salad,47,g,70,mg,1040,g,7,g,15,g,10,g,0.5,g,2,g,3,g
+70,quiznos,chipotle steak and cheddar sammie,26,g,50,mg,980,g,30,g,19,g,7,g,0,g,4,g,2,g
+71,quiznos,chipotle turkey 12 inch sub,58,g,130,mg,3080,g,108,g,57,g,17,g,0.5,g,7,g,10,g
+72,quiznos,chipotle turkey 4 inch sub,18,g,40,mg,1010,g,36,g,19,g,6,g,0,g,2,g,4,g
+73,quiznos,chipotle turkey 8 inch sub,37,g,85,mg,2030,g,72,g,38,g,11,g,0,g,4,g,7,g
+74,quiznos,chipotle turkey full salad,49,g,95,mg,1560,g,11,g,28,g,12,g,0.5,g,5,g,5,g
+75,quiznos,chipotle turkey half salad,43,g,60,mg,1070,g,7,g,14,g,9,g,0.5,g,2,g,3,g
+76,quiznos,chipotle turkey sammie,23,g,45,mg,1010,g,30,g,18,g,6,g,0,g,4,g,3,g
+77,quiznos,chocolate brownie 3 oz,23,g,35,mg,270,g,56,g,5,g,6,g,0,g,2,g,37,g
+78,quiznos,chocolate chunk cookie 1 5 oz,8,g,0,mg,150,g,29,g,2,g,4,g,0,g,1,g,16,g
+79,quiznos,chocolate chunk cookie 3 oz,18,g,45,mg,240,g,57,g,4,g,11,g,0,g,2,g,34,g
+80,quiznos,cinnamon sugar cookie 3 oz,17,g,50,mg,310,g,58,g,3,g,11,g,0.5,g,1,g,33,g
+81,quiznos,classic italian 12 inch sub,63,g,160,mg,3760,g,115,g,61,g,22,g,1,g,8,g,13,g
+82,quiznos,classic italian 4 inch sub,23,g,55,mg,1350,g,40,g,21,g,8,g,0,g,3,g,5,g
+83,quiznos,classic italian 8 inch sub,48,g,90,mg,2540,g,79,g,38,g,15,g,1,g,5,g,10,g
+84,quiznos,classic italian sammie,26,g,65,mg,1240,g,37,g,18,g,9,g,0,g,1,g,3,g
+85,quiznos,coca cola zero sugar 20 oz,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+86,quiznos,coca cola zero sugar 32 oz,0,g,0,mg,105,g,0,g,0,g,0,g,0,g,0,g,0,g
+87,quiznos,coca cola 20 oz,0,g,0,mg,65,g,67,g,0,g,0,g,0,g,0,g,67,g
+88,quiznos,coca cola 32 oz,0,g,0,mg,100,g,107,g,0,g,0,g,0,g,0,g,107,g
+89,quiznos,diet coke 20 oz,0,g,0,mg,85,g,1,g,0,g,0,g,0,g,0,g,0,g
+90,quiznos,diet coke 32 oz,0,g,0,mg,130,g,1,g,0,g,0,g,0,g,0,g,0,g
+91,quiznos,egg and cheddar biscuit,31,g,245,mg,1020,g,31,g,16,g,9,g,3.5,g,1,g,1,g
+92,quiznos,egg and cheddar sammie,22,g,245,mg,650,g,28,g,16,g,7,g,0,g,3,g,1,g
+93,quiznos,egg and cheddar sub,20,g,245,mg,690,g,35,g,17,g,7,g,0,g,1,g,2,g
+94,quiznos,fanta orange 20 oz,0,g,0,mg,65,g,67,g,0,g,0,g,0,g,0,g,66,g
+95,quiznos,fanta orange 32 oz,0,g,0,mg,105,g,108,g,0,g,0,g,0,g,0,g,106,g
+96,quiznos,french dip 12 inch sub,45,g,145,mg,3370,g,119,g,62,g,14,g,0.5,g,6,g,16,g
+97,quiznos,french dip 4 inch sub,16,g,50,mg,1670,g,40,g,22,g,4.5,g,0,g,2,g,5,g
+98,quiznos,french dip 8 inch sub,30,g,95,mg,2510,g,79,g,42,g,9,g,0,g,4,g,10,g
+99,quiznos,french dip full salad,34,g,110,mg,1970,g,22,g,33,g,9,g,0.5,g,5,g,12,g
+100,quiznos,french dip half salad,28,g,70,mg,1580,g,17,g,18,g,6,g,0,g,3,g,11,g
+101,quiznos,french dip sammie,19,g,50,mg,1650,g,34,g,21,g,5,g,0,g,4,g,5,g
+102,quiznos,ham egg and cheddar biscuit,25,g,145,mg,1230,g,32,g,17,g,8,g,3.5,g,1,g,2,g
+103,quiznos,ham egg and cheddar sammie,16,g,145,mg,860,g,29,g,18,g,5,g,0,g,3,g,3,g
+104,quiznos,ham egg and cheddar sub,14,g,145,mg,900,g,36,g,19,g,5,g,0,g,1,g,3,g
+105,quiznos,honey bacon club 12 inch sub,50,g,140,mg,3530,g,133,g,71,g,17,g,0.5,g,6,g,32,g
+106,quiznos,honey bacon club 4 inch sub,16,g,45,mg,1170,g,44,g,24,g,6,g,0,g,2,g,11,g
+107,quiznos,honey bacon club 8 inch sub,32,g,95,mg,2340,g,88,g,47,g,11,g,0,g,4,g,20,g
+108,quiznos,honey bacon club full salad,37,g,95,mg,1810,g,33,g,37,g,11,g,0.5,g,4,g,26,g
+109,quiznos,honey bacon club half salad,29,g,45,mg,1110,g,27,g,19,g,7,g,0,g,2,g,23,g
+110,quiznos,honey bacon club sammie,19,g,45,mg,1150,g,39,g,23,g,6,g,0,g,4,g,11,g
+111,quiznos,honey mustard 12 inch sub,55,g,180,mg,3010,g,120,g,80,g,17,g,1,g,6,g,19,g
+112,quiznos,honey mustard 4 inch sub,18,g,60,mg,1000,g,40,g,27,g,6,g,0,g,2,g,6,g
+113,quiznos,honey mustard 8 inch sub,36,g,120,mg,1990,g,80,g,53,g,11,g,0.5,g,4,g,12,g
+114,quiznos,honey mustard full salad,43,g,130,mg,1440,g,22,g,43,g,12,g,0.5,g,4,g,14,g
+115,quiznos,honey mustard half salad,35,g,75,mg,880,g,17,g,22,g,8,g,0.5,g,2,g,12,g
+116,quiznos,honey mustard sammie,21,g,60,mg,980,g,34,g,26,g,6,g,0,g,4,g,7,g
+117,quiznos,italian meatball 12 inch sub,21,g,50,mg,720,g,17,g,22,g,7,g,0,g,4,g,7,g
+118,quiznos,italian meatball 4 inch sub,64,g,150,mg,3030,g,132,g,79,g,24,g,1,g,11,g,18,g
+119,quiznos,italian meatball 8 inch sub,23,g,50,mg,970,g,38,g,25,g,8,g,0,g,6,g,5,g
+120,quiznos,italian meatball full salad,43,g,100,mg,2020,g,88,g,53,g,16,g,0.5,g,8,g,12,g
+121,quiznos,italian meatball half salad,21,g,50,mg,1010,g,44,g,26,g,8,g,0,g,4,g,6,g
+122,quiznos,italian meatball sammie,40,g,100,mg,1350,g,28,g,43,g,15,g,0.5,g,8,g,10,g
+123,quiznos,italian salad 12 inch sub,57,g,105,mg,2230,g,18,g,31,g,17,g,1,g,5,g,9,g
+124,quiznos,italian salad sammie,45,g,55,mg,1170,g,9,g,16,g,8,g,0.5,g,3,g,4,g
+125,quiznos,kids bread artisan wheat 4 inch,1.5,g,0,mg,260,g,29,g,6,g,0,g,0,g,3,g,3,g
+126,quiznos,kids bread artisan white 4 inch,1.5,g,0,mg,340,g,33,g,6,g,0.5,g,0,g,1,g,2,g
+127,quiznos,kids bread jalapeno cheddar 4 inch,2,g,5,mg,260,g,26,g,6,g,1,g,0,g,1,g,2,g
+128,quiznos,kids bread rosemary parmesan 4 inch,2.5,g,5,mg,270,g,25,g,5,g,1,g,0,g,1,g,2,g
+129,quiznos,kids bread sammie,3.5,g,0,mg,300,g,26,g,5,g,0.5,g,0,g,3,g,1,g
+130,quiznos,kids cheese cheddar,4.5,g,15,mg,90,g,0,g,4,g,3,g,0,g,0,g,0,g
+131,quiznos,kids cheese provolone,3,g,10,mg,60,g,0,g,4,g,2,g,0,g,0,g,0,g
+132,quiznos,kids cheese swiss,4,g,15,mg,25,g,1,g,4,g,2.5,g,0,g,0,g,0,g
+133,quiznos,kids dressing buttermilk ranch,6,g,5,mg,160,g,1,g,0,g,1,g,0,g,0,g,0,g
+134,quiznos,kids dressing lite mayo,4.5,g,5,mg,170,g,2,g,0,g,0.5,g,0,g,0,g,1,g
+135,quiznos,kids dressing red wine vinaigrette,8,g,0,mg,180,g,1,g,0,g,1,g,0,g,0,g,1,g
+136,quiznos,kids dressing yellow mustard,0.5,g,0,mg,180,g,1,g,1,g,0,g,0,g,1,g,0,g
+137,quiznos,kids meat ham,1.5,g,25,mg,550,g,3,g,9,g,0.5,g,0,g,0,g,2,g
+138,quiznos,kids meat turkey breast,0,g,20,mg,400,g,0,g,9,g,0,g,0,g,0,g,0,g
+139,quiznos,kids triple cheese 4 inch sub,10,g,25,mg,420,g,23,g,12,g,6,g,0,g,1,g,2,g
+140,quiznos,kids triple cheese sammie,11,g,20,mg,400,g,29,g,12,g,4.5,g,0,g,1,g,3,g
+141,quiznos,kids veggies black olives,1,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+142,quiznos,kids veggies guacamole,4,g,0,mg,75,g,2,g,0,g,0.5,g,0,g,1,g,0,g
+143,quiznos,kids veggies lettuce,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+144,quiznos,kids veggies pickles,0,g,0,mg,125,g,0,g,0,g,0,g,0,g,0,g,0,g
+145,quiznos,kids veggies red onions,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+146,quiznos,kids veggies sauteed veggies,1,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+147,quiznos,kids veggies tomatoes,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+148,quiznos,lobster and seafood salad 12 inch sub,24,g,40,mg,980,g,12,g,8,g,4,g,0,g,3,g,4,g
+149,quiznos,lobster and seafood salad 4 inch sub,33,g,100,mg,2540,g,120,g,35,g,15,g,1,g,7,g,10,g
+150,quiznos,lobster and seafood salad 8 inch sub,13,g,35,mg,810,g,34,g,11,g,5,g,0,g,4,g,3,g
+151,quiznos,lobster and seafood salad full salad,22,g,70,mg,1690,g,80,g,24,g,10,g,0.5,g,5,g,6,g
+152,quiznos,lobster and seafood salad half salad,11,g,35,mg,850,g,40,g,12,g,5,g,0,g,2,g,3,g
+153,quiznos,lobster and seafood salad sammie,28,g,60,mg,1440,g,21,g,15,g,4.5,g,0,g,5,g,6,g
+154,quiznos,mesquite 12 inch sub,51,g,185,mg,3370,g,109,g,79,g,18,g,0,g,6,g,10,g
+155,quiznos,mesquite 4 inch sub,17,g,60,mg,1110,g,37,g,27,g,6,g,0,g,2,g,4,g
+156,quiznos,mesquite 8 inch sub,33,g,125,mg,2230,g,73,g,53,g,12,g,0,g,4,g,7,g
+157,quiznos,mesquite full salad,38,g,130,mg,1740,g,11,g,43,g,12,g,0,g,4,g,5,g
+158,quiznos,mesquite half salad,29,g,75,mg,1130,g,7,g,22,g,8,g,0,g,2,g,3,g
+159,quiznos,mesquite sammie,20,g,65,mg,1110,g,30,g,26,g,6,g,0,g,4,g,3,g
+160,quiznos,minute maid light lemonade 20 oz,0,g,0,mg,70,g,3,g,0,g,0,g,0,g,0,g,0,g
+161,quiznos,minute maid light lemonade 32 oz,0,g,0,mg,115,g,5,g,0,g,0,g,0,g,0,g,0,g
+162,quiznos,oatmeal raisin cookie 3 oz,12,g,50,mg,200,g,58,g,5,g,7,g,0,g,3,g,33,g
+163,quiznos,peppercorn steak 12 inch sub,66,g,145,mg,2780,g,114,g,60,g,16,g,1,g,6,g,10,g
+164,quiznos,peppercorn steak 4 inch sub,21,g,50,mg,920,g,38,g,20,g,5,g,0,g,2,g,3,g
+165,quiznos,peppercorn steak 8 inch sub,42,g,95,mg,1830,g,76,g,40,g,11,g,1,g,4,g,6,g
+166,quiznos,peppercorn steak full salad,55,g,110,mg,1320,g,16,g,30,g,12,g,1,g,5,g,6,g
+167,quiznos,peppercorn steak half salad,48,g,75,mg,890,g,10,g,16,g,9,g,1,g,3,g,4,g
+168,quiznos,peppercorn steak sammie,26,g,50,mg,910,g,32,g,19,g,6,g,0,g,4,g,3,g
+169,quiznos,pit smoked brisket 12 inch sub,63,g,160,mg,3760,g,115,g,61,g,22,g,1,g,8,g,13,g
+170,quiznos,pit smoked brisket 4 inch sub,23,g,55,mg,1350,g,40,g,21,g,8,g,0,g,3,g,5,g
+171,quiznos,pit smoked brisket 8 inch sub,40,g,105,mg,2490,g,77,g,41,g,15,g,1,g,5,g,8,g
+172,quiznos,pit smoked brisket sammie,21,g,60,mg,1030,g,36,g,23,g,8,g,0,g,3,g,10,g
+173,quiznos,prime italian 12 inch sub,36,g,120,mg,2940,g,116,g,58,g,13,g,1,g,6,g,9,g
+174,quiznos,prime italian 4 inch sub,12,g,35,mg,960,g,38,g,18,g,4,g,0,g,2,g,3,g
+175,quiznos,prime italian 8 inch sub,23,g,70,mg,1820,g,77,g,36,g,8,g,0.5,g,4,g,6,g
+176,quiznos,prime italian sammie,15,g,35,mg,910,g,35,g,17,g,4,g,0,g,4,g,5,g
+177,quiznos,prime rib xl 12 inch sub,57,g,215,mg,3380,g,124,g,79,g,22,g,1.5,g,7,g,13,g
+178,quiznos,prime rib xl 4 inch sub,19,g,70,mg,1130,g,41,g,26,g,7,g,0.5,g,2,g,4,g
+179,quiznos,prime rib xl 8 inch sub,38,g,145,mg,2250,g,82,g,52,g,14,g,1,g,4,g,9,g
+180,quiznos,prime rib xl sammie,21,g,70,mg,1080,g,35,g,25,g,7,g,0.5,g,4,g,4,g
+181,quiznos,raspberry lemonade 20 oz,0,g,0,mg,65,g,74,g,0,g,0,g,0,g,0,g,70,g
+182,quiznos,raspberry lemonade 32 oz,0,g,0,mg,105,g,119,g,1,g,0,g,0,g,0,g,112,g
+183,quiznos,sausage egg and cheddar biscuit,48,g,180,mg,1500,g,31,g,19,g,15,g,3.5,g,1,g,1,g
+184,quiznos,sausage egg and cheddar sammie,39,g,180,mg,1130,g,28,g,19,g,13,g,0,g,3,g,1,g
+185,quiznos,sausage egg and cheddar sub,37,g,180,mg,1170,g,35,g,20,g,13,g,0,g,1,g,2,g
+186,quiznos,side garden salad with black olives tomatoes onions cucumbers and red wine vinaigrette,26,g,0,mg,640,g,9,g,2,g,4,g,0,g,2,g,5,g
+187,quiznos,southwest chicken 12 inch sub,70,g,160,mg,3040,g,109,g,65,g,19,g,0.5,g,8,g,8,g
+188,quiznos,southwest chicken 4 inch sub,22,g,55,mg,1000,g,36,g,22,g,6,g,0,g,3,g,3,g
+189,quiznos,southwest chicken 8 inch sub,45,g,105,mg,2000,g,73,g,43,g,12,g,0,g,5,g,5,g
+190,quiznos,southwest chicken full salad,57,g,115,mg,1540,g,13,g,34,g,13,g,0.5,g,6,g,4,g
+191,quiznos,southwest chicken half salad,47,g,70,mg,1060,g,7,g,17,g,10,g,0.5,g,3,g,3,g
+192,quiznos,southwest chicken sammie,27,g,55,mg,1000,g,30,g,21,g,7,g,0,g,4,g,2,g
+193,quiznos,spicy monterey 12 inch sub,25,g,90,mg,3440,g,124,g,54,g,10,g,0.5,g,6,g,22,g
+194,quiznos,spicy monterey 4 inch sub,8,g,35,mg,1140,g,41,g,19,g,3,g,0,g,2,g,7,g
+195,quiznos,spicy monterey 8 inch sub,15,g,65,mg,2270,g,81,g,38,g,6,g,0,g,4,g,13,g
+196,quiznos,spicy monterey full salad,28,g,80,mg,1920,g,18,g,29,g,8,g,0.5,g,4,g,11,g
+197,quiznos,spicy monterey half salad,24,g,50,mg,1220,g,10,g,15,g,5,g,0,g,2,g,6,g
+198,quiznos,spicy monterey sammie,10,g,35,mg,1120,g,35,g,18,g,3,g,0,g,4,g,7,g
+199,quiznos,sprite 20 oz,0,g,0,mg,115,g,61,g,0,g,0,g,0,g,0,g,61,g
+200,quiznos,sprite 30 oz,0,g,0,mg,180,g,97,g,0,g,0,g,0,g,0,g,97,g
+201,quiznos,steak egg and cheddar biscuit,25,g,150,mg,1150,g,31,g,19,g,8,g,3.5,g,1,g,1,g
+202,quiznos,steak egg and cheddar sammie,16,g,150,mg,780,g,29,g,20,g,5,g,0,g,3,g,1,g
+203,quiznos,steak egg and cheddar sub,14,g,150,mg,820,g,35,g,21,g,5,g,0,g,1,g,2,g
+204,quiznos,tater tots classic,11,g,0,mg,410,g,25,g,3,g,3,g,0,g,0,g,1,g
+205,quiznos,tater tots loaded with bacon jalapenos and cheddar,19,g,25,mg,790,g,25,g,11,g,7,g,0,g,0,g,1,g
+206,quiznos,tomato basil bisque regular,21,g,30,mg,900,g,21,g,4,g,6,g,0,g,0,g,17,g
+207,quiznos,tomato basil bisque small,12,g,15,mg,500,g,12,g,2,g,3.5,g,0,g,0,g,9,g
+208,quiznos,traditional club 12 inch sub,46,g,135,mg,3360,g,114,g,58,g,15,g,0,g,6,g,13,g
+209,quiznos,traditional club 4 inch sub,15,g,45,mg,1110,g,38,g,20,g,5,g,0,g,2,g,4,g
+210,quiznos,traditional club 8 inch sub,30,g,90,mg,2220,g,76,g,39,g,10,g,0,g,4,g,9,g
+211,quiznos,traditional club full salad,35,g,100,mg,1740,g,15,g,29,g,10,g,0,g,4,g,7,g
+212,quiznos,traditional club half salad,28,g,60,mg,1120,g,9,g,15,g,7,g,0,g,2,g,4,g
+213,quiznos,traditional club sammie,18,g,45,mg,1100,g,32,g,19,g,5,g,0,g,4,g,4,g
+214,quiznos,tuna melt 12 inch sub,32,g,115,mg,2770,g,114,g,66,g,14,g,0,g,5,g,9,g
+215,quiznos,tuna melt 4 inch sub,11,g,40,mg,930,g,38,g,22,g,4.5,g,0,g,2,g,3,g
+216,quiznos,tuna melt 8 inch sub,22,g,75,mg,1850,g,76,g,44,g,9,g,0,g,3,g,6,g
+217,quiznos,tuna melt full salad,44,g,75,mg,1760,g,19,g,35,g,12,g,0.5,g,4,g,8,g
+218,quiznos,tuna melt half salad,34,g,40,mg,1170,g,12,g,18,g,8,g,0,g,2,g,6,g
+219,quiznos,tuna melt sammie,13,g,40,mg,880,g,32,g,21,g,4.5,g,0,g,4,g,3,g
+220,quiznos,turkey bacon guacamole 12 inch sub,57,g,140,mg,3760,g,116,g,72,g,16,g,1,g,10,g,11,g
+221,quiznos,turkey bacon guacamole 4 inch sub,18,g,45,mg,1240,g,39,g,24,g,5,g,0,g,3,g,4,g
+222,quiznos,turkey bacon guacamole 8 inch sub,37,g,90,mg,2490,g,79,g,49,g,11,g,0,g,7,g,9,g
+223,quiznos,turkey bacon guacamole full salad,42,g,100,mg,2010,g,18,g,39,g,11,g,0.5,g,7,g,7,g
+224,quiznos,turkey bacon guacamole half salad,31,g,60,mg,1260,g,9,g,20,g,7,g,0,g,4,g,4,g
+225,quiznos,turkey bacon guacamole sammie,22,g,45,mg,1240,g,33,g,23,g,6,g,0,g,5,g,4,g
+226,quiznos,turkey ranch and swiss 12 inch sub,38,g,115,mg,2840,g,110,g,58,g,13,g,0.5,g,7,g,10,g
+227,quiznos,turkey ranch and swiss 4 inch sub,12,g,40,mg,980,g,37,g,20,g,4.5,g,0,g,2,g,4,g
+228,quiznos,turkey ranch and swiss 8 inch sub,25,g,75,mg,1870,g,73,g,39,g,9,g,0,g,4,g,7,g
+229,quiznos,turkey ranch and swiss full salad,30,g,85,mg,1390,g,12,g,29,g,9,g,0.5,g,4,g,5,g
+230,quiznos,turkey ranch and swiss half salad,25,g,55,mg,990,g,8,g,16,g,6,g,0,g,2,g,3,g
+231,quiznos,turkey ranch and swiss sammie,16,g,40,mg,970,g,31,g,19,g,4.5,g,0,g,4,g,3,g
+232,quiznos,ultimate turkey club 12 inch sub,44,g,150,mg,3640,g,109,g,70,g,17,g,0,g,6,g,10,g
+233,quiznos,ultimate turkey club 4 inch sub,14,g,50,mg,1200,g,37,g,23,g,6,g,0,g,2,g,4,g
+234,quiznos,ultimate turkey club 8 inch sub,29,g,100,mg,2400,g,73,g,47,g,11,g,0,g,4,g,7,g
+235,quiznos,ultimate turkey club full salad,38,g,110,mg,1900,g,10,g,37,g,12,g,0,g,4,g,4,g
+236,quiznos,ultimate turkey club half salad,29,g,65,mg,1210,g,6,g,19,g,7,g,0,g,2,g,3,g
+237,quiznos,ultimate turkey club sammie,17,g,50,mg,1190,g,30,g,22,g,6,g,0,g,4,g,3,g
+238,quiznos,veggie guacamole 12 inch sub,67,g,70,mg,2450,g,121,g,42,g,22,g,1,g,10,g,14,g
+239,quiznos,veggie guacamole 4 inch sub,22,g,25,mg,810,g,41,g,14,g,7,g,0,g,3,g,5,g
+240,quiznos,veggie guacamole 8 inch sub,44,g,50,mg,1610,g,81,g,28,g,14,g,0.5,g,7,g,10,g
+241,quiznos,veggie guacamole full salad,50,g,50,mg,1150,g,20,g,18,g,15,g,0.5,g,7,g,9,g
+242,quiznos,veggie guacamole half salad,37,g,25,mg,870,g,12,g,9,g,9,g,0.5,g,4,g,6,g
+243,quiznos,veggie guacamole sammie,25,g,25,mg,800,g,34,g,13,g,7,g,0,g,5,g,5,g
+244,quaker steak and lube,4 wheeler,75,g,50,mg,6340,g,198,g,43,g,22,g,0,g,5,g,21,g
+245,quaker steak and lube,a bigga burger,89,g,325,mg,3360,g,64,g,99,g,34,g,1,g,3,g,7,g
+246,quaker steak and lube,adult sea salt caramel pretzel shake,18,g,50,mg,2120,g,169,g,19,g,11,g,0,g,4,g,68,g
+247,quaker steak and lube,amazing chocolate chunk skillet cookie,43,g,140,mg,1230,g,139,g,12,g,27,g,1,g,3,g,65,g
+248,quaker steak and lube,aqua,0,g,0,mg,25,g,32,g,0,g,0,g,0,g,0,g,23,g
+249,quaker steak and lube,arizona el camino burger,80,g,225,mg,2530,g,85,g,70,g,28,g,1,g,6,g,13,g
+250,quaker steak and lube,arizona ranch chicken dip,58,g,160,mg,3600,g,99,g,41,g,26,g,0,g,5,g,7,g
+251,quaker steak and lube,bacardi dragon berry bomb,0,g,0,mg,40,g,14,g,0,g,0,g,0,g,0,g,13,g
+252,quaker steak and lube,backwoods blackberry lube n ade,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,1,g,7,g
+253,quaker steak and lube,baileys mochachino,14,g,20,mg,120,g,83,g,4,g,5,g,0,g,0,g,64,g
+254,quaker steak and lube,baked beans 1 pint,0,g,0,mg,2610,g,188,g,24,g,0,g,0,g,18,g,103,g
+255,quaker steak and lube,baked beans 1 quart,0,g,0,mg,5210,g,376,g,48,g,0,g,0,g,36,g,206,g
+256,quaker steak and lube,bavarian pretzels,23,g,25,mg,4550,g,126,g,26,g,8,g,0,g,7,g,5,g
+257,quaker steak and lube,big rig pork platter family style 1 serving,53,g,120,mg,2290,g,90,g,34,g,15,g,1,g,5,g,54,g
+258,quaker steak and lube,big rig pork platter family style 1 serving with wing sauce choice arizona ranch,59,g,120,mg,2890,g,92,g,34,g,16,g,1,g,5,g,54,g
+259,quaker steak and lube,big rig pork platter family style 1 serving with wing sauce choice asian sesame,60,g,120,mg,2570,g,95,g,34,g,16,g,1,g,5,g,57,g
+260,quaker steak and lube,big rig pork platter family style 1 serving with wing sauce choice boom boom,66,g,130,mg,2490,g,92,g,34,g,17,g,1,g,5,g,55,g
+261,quaker steak and lube,big rig pork platter family style 1 serving with wing sauce choice buckeye bbq,53,g,120,mg,2500,g,101,g,34,g,15,g,1,g,5,g,64,g
+262,quaker steak and lube,big rig pork platter family style 1 serving with wing sauce choice cajun,60,g,120,mg,2530,g,92,g,34,g,16,g,1,g,6,g,54,g
+263,quaker steak and lube,big rig pork platter family style 1 serving with wing sauce choice golden garlic,60,g,120,mg,2590,g,91,g,34,g,16,g,1,g,5,g,54,g
+264,quaker steak and lube,big rig pork platter family style 1 serving with wing sauce choice haute parmesan,60,g,120,mg,2620,g,91,g,35,g,16,g,1,g,6,g,54,g
+265,quaker steak and lube,big rig pork platter family style 1 serving with wing sauce choice hot,53,g,120,mg,2960,g,91,g,34,g,15,g,1,g,6,g,54,g
+266,quaker steak and lube,big rig pork platter family style 1 serving with wing sauce choice kentucky bourbon glaze,53,g,120,mg,2560,g,102,g,34,g,15,g,1,g,5,g,65,g
+267,quaker steak and lube,big rig pork platter family style 1 serving with wing sauce choice louisiana lickers,55,g,120,mg,2660,g,96,g,34,g,15,g,1,g,5,g,59,g
+268,quaker steak and lube,big rig pork platter family style 1 serving with wing sauce choice medium,62,g,120,mg,2660,g,91,g,34,g,17,g,1,g,5,g,54,g
+269,quaker steak and lube,big rig pork platter family style 1 serving with wing sauce choice original bbq,53,g,120,mg,2450,g,103,g,34,g,15,g,1,g,5,g,65,g
+270,quaker steak and lube,big rig pork platter family style 1 serving with wing sauce choice parmesan pepper,64,g,140,mg,2580,g,90,g,34,g,17,g,1,g,5,g,54,g
+271,quaker steak and lube,big rig pork platter family style 1 serving with wing sauce choice smoked jalapeno honey,53,g,120,mg,2560,g,104,g,34,g,15,g,1,g,5,g,67,g
+272,quaker steak and lube,big rig pork platter family style 1 serving with wing sauce choice supercharged,53,g,120,mg,2580,g,91,g,34,g,15,g,1,g,6,g,54,g
+273,quaker steak and lube,big rig pork platter family style 1 serving with wing sauce choice thai r cracker,53,g,120,mg,2610,g,107,g,34,g,15,g,1,g,5,g,69,g
+274,quaker steak and lube,big rig pork platter family style 1 serving with wing sauce choice thaisian,56,g,120,mg,2590,g,101,g,34,g,16,g,1,g,5,g,63,g
+275,quaker steak and lube,big rig pork platter family style 1 serving with wing sauce choice triple atomic,54,g,120,mg,2650,g,97,g,34,g,15,g,1,g,6,g,59,g
+276,quaker steak and lube,big rig pork platter family style 4 servings,212,g,470,mg,9140,g,361,g,136,g,61,g,4,g,21,g,215,g
+277,quaker steak and lube,big rig pork platter family style 4 servings with wing sauce choice arizona ranch,236,g,485,mg,11570,g,367,g,136,g,64,g,4,g,21,g,218,g
+278,quaker steak and lube,big rig pork platter family style 4 servings with wing sauce choice asian sesame,239,g,470,mg,10280,g,379,g,136,g,65,g,4,g,21,g,230,g
+279,quaker steak and lube,big rig pork platter family style 4 servings with wing sauce choice boom boom,263,g,515,mg,9950,g,370,g,136,g,68,g,4,g,21,g,221,g
+280,quaker steak and lube,big rig pork platter family style 4 servings with wing sauce choice buckeye bbq,212,g,470,mg,9980,g,406,g,136,g,61,g,4,g,21,g,257,g
+281,quaker steak and lube,big rig pork platter family style 4 servings with wing sauce choice cajun,239,g,485,mg,10130,g,367,g,136,g,65,g,4,g,24,g,218,g
+282,quaker steak and lube,big rig pork platter family style 4 servings with wing sauce choice golden garlic,239,g,470,mg,10340,g,364,g,136,g,65,g,4,g,21,g,215,g
+283,quaker steak and lube,big rig pork platter family style 4 servings with wing sauce choice haute parmesan,238,g,480,mg,10490,g,365,g,139,g,65,g,4,g,23,g,215,g
+284,quaker steak and lube,big rig pork platter family style 4 servings with wing sauce choice hot,213,g,470,mg,11850,g,364,g,137,g,61,g,4,g,23,g,216,g
+285,quaker steak and lube,big rig pork platter family style 4 servings with wing sauce choice kentucky bourbon glaze,212,g,470,mg,10220,g,409,g,136,g,61,g,4,g,21,g,260,g
+286,quaker steak and lube,big rig pork platter family style 4 servings with wing sauce choice louisiana lickers,220,g,470,mg,10640,g,385,g,136,g,61,g,4,g,21,g,236,g
+287,quaker steak and lube,big rig pork platter family style 4 servings with wing sauce choice medium,248,g,470,mg,10640,g,364,g,136,g,67,g,4,g,21,g,215,g
+288,quaker steak and lube,big rig pork platter family style 4 servings with wing sauce choice original bbq,212,g,470,mg,9800,g,412,g,136,g,61,g,4,g,21,g,260,g
+289,quaker steak and lube,big rig pork platter family style 4 servings with wing sauce choice parmesan pepper,257,g,560,mg,10310,g,361,g,136,g,70,g,4,g,21,g,215,g
+290,quaker steak and lube,big rig pork platter family style 4 servings with wing sauce choice smoked jalapeno honey,212,g,470,mg,10220,g,415,g,136,g,61,g,4,g,21,g,269,g
+291,quaker steak and lube,big rig pork platter family style 4 servings with wing sauce choice supercharged,214,g,470,mg,10310,g,364,g,136,g,61,g,4,g,24,g,215,g
+292,quaker steak and lube,big rig pork platter family style 4 servings with wing sauce choice thai r cracker,212,g,470,mg,10430,g,427,g,136,g,61,g,4,g,21,g,278,g
+293,quaker steak and lube,big rig pork platter family style 4 servings with wing sauce choice thaisian,226,g,470,mg,10360,g,403,g,136,g,63,g,4,g,21,g,254,g
+294,quaker steak and lube,big rig pork platter family style 4 servings with wing sauce choice triple atomic,215,g,470,mg,10600,g,388,g,137,g,61,g,4,g,23,g,238,g
+295,quaker steak and lube,biker chicken salad,36,g,115,mg,1140,g,64,g,38,g,8,g,0,g,7,g,49,g
+296,quaker steak and lube,biker chicken salad serves 10 15 1 serving,12,g,55,mg,450,g,31,g,21,g,4,g,0,g,4,g,25,g
+297,quaker steak and lube,biker chicken salad serves 10 15 1 serving with dressing choice balsamic vinaigrette,17,g,55,mg,650,g,35,g,21,g,4,g,0,g,4,g,29,g
+298,quaker steak and lube,biker chicken salad serves 10 15 1 serving with dressing choice bleu cheese,27,g,65,mg,710,g,32,g,22,g,6,g,0,g,4,g,25,g
+299,quaker steak and lube,biker chicken salad serves 10 15 1 serving with dressing choice chipotle ranch,24,g,65,mg,770,g,32,g,21,g,5,g,0,g,4,g,26,g
+300,quaker steak and lube,biker chicken salad serves 10 15 1 serving with dressing choice farmhouse ranch,23,g,65,mg,740,g,32,g,21,g,5,g,0,g,4,g,26,g
+301,quaker steak and lube,biker chicken salad serves 10 15 1 serving with dressing choice fat free italian,12,g,55,mg,970,g,34,g,21,g,4,g,0,g,4,g,27,g
+302,quaker steak and lube,biker chicken salad serves 10 15 1 serving with dressing choice jalapeno ranch,28,g,70,mg,720,g,32,g,21,g,7,g,0,g,4,g,26,g
+303,quaker steak and lube,biker chicken salad serves 10 15 1 serving with dressing choice northern italian,27,g,55,mg,810,g,32,g,21,g,6,g,0,g,4,g,25,g
+304,quaker steak and lube,biker chicken salad serves 10 15 1 serving with dressing choice olive oil and balsamic vinegar,27,g,55,mg,450,g,34,g,21,g,6,g,0,g,4,g,28,g
+305,quaker steak and lube,biker chicken salad serves 10 15 1 serving with dressing choice sweet vidalia onion,21,g,55,mg,570,g,40,g,21,g,5,g,0,g,4,g,34,g
+306,quaker steak and lube,biker chicken salad serves 10 15 1 serving with dressing choice wildberry poppyseed,20,g,65,mg,660,g,40,g,21,g,5,g,0,g,4,g,32,g
+307,quaker steak and lube,biker chicken salad serves 10 15 15 servings,176,g,795,mg,6760,g,460,g,319,g,58,g,0,g,55,g,369,g
+308,quaker steak and lube,biker chicken salad serves 10 15 15 servings with dressing choice balsamic vinaigrette,256,g,795,mg,9800,g,524,g,319,g,66,g,0,g,55,g,433,g
+309,quaker steak and lube,biker chicken salad serves 10 15 15 servings with dressing choice bleu cheese,412,g,950,mg,10690,g,473,g,337,g,88,g,0,g,56,g,379,g
+310,quaker steak and lube,biker chicken salad serves 10 15 15 servings with dressing choice chipotle ranch,353,g,955,mg,11550,g,480,g,319,g,82,g,0,g,55,g,388,g
+311,quaker steak and lube,biker chicken salad serves 10 15 15 servings with dressing choice farmhouse ranch,352,g,955,mg,11080,g,476,g,319,g,82,g,0,g,55,g,385,g
+312,quaker steak and lube,biker chicken salad serves 10 15 15 servings with dressing choice fat free italian,176,g,795,mg,14600,g,508,g,319,g,58,g,0,g,55,g,401,g
+313,quaker steak and lube,biker chicken salad serves 10 15 15 servings with dressing choice jalapeno ranch,416,g,1035,mg,10760,g,476,g,319,g,98,g,0,g,55,g,385,g
+314,quaker steak and lube,biker chicken salad serves 10 15 15 servings with dressing choice northern italian,400,g,795,mg,12200,g,476,g,319,g,90,g,0,g,55,g,369,g
+315,quaker steak and lube,biker chicken salad serves 10 15 15 servings with dressing choice olive oil and balsamic vinegar,400,g,795,mg,6760,g,508,g,319,g,90,g,0,g,55,g,417,g
+316,quaker steak and lube,biker chicken salad serves 10 15 15 servings with dressing choice sweet vidalia onion,320,g,795,mg,8520,g,604,g,319,g,82,g,0,g,55,g,513,g
+317,quaker steak and lube,biker chicken salad serves 10 15 15 servings with dressing choice wildberry poppyseed,296,g,975,mg,9880,g,597,g,319,g,76,g,0,g,58,g,481,g
+318,quaker steak and lube,biker chicken salad serves 4 6 1 serving,15,g,65,mg,560,g,37,g,27,g,5,g,0,g,5,g,30,g
+319,quaker steak and lube,biker chicken salad serves 4 6 1 serving with dressing choice balsamic vinaigrette,21,g,65,mg,820,g,43,g,27,g,5,g,0,g,5,g,35,g
+320,quaker steak and lube,biker chicken salad serves 4 6 1 serving with dressing choice bleu cheese,34,g,80,mg,890,g,38,g,28,g,7,g,0,g,5,g,30,g
+321,quaker steak and lube,biker chicken salad serves 4 6 1 serving with dressing choice chipotle ranch,29,g,80,mg,960,g,39,g,27,g,7,g,0,g,5,g,31,g
+322,quaker steak and lube,biker chicken salad serves 4 6 1 serving with dressing choice farmhouse ranch,29,g,80,mg,920,g,39,g,27,g,7,g,0,g,5,g,31,g
+323,quaker steak and lube,biker chicken salad serves 4 6 1 serving with dressing choice fat free italian,15,g,65,mg,1220,g,41,g,27,g,5,g,0,g,5,g,32,g
+324,quaker steak and lube,biker chicken salad serves 4 6 1 serving with dressing choice jalapeno ranch,35,g,85,mg,900,g,39,g,27,g,8,g,0,g,5,g,31,g
+325,quaker steak and lube,biker chicken salad serves 4 6 1 serving with dressing choice northern italian,33,g,65,mg,1020,g,39,g,27,g,7,g,0,g,5,g,30,g
+326,quaker steak and lube,biker chicken salad serves 4 6 1 serving with dressing choice olive oil and balsamic vinaigrette,33,g,65,mg,560,g,41,g,27,g,7,g,0,g,5,g,34,g
+327,quaker steak and lube,biker chicken salad serves 4 6 1 serving with dressing choice sweet vidalia onion,27,g,65,mg,710,g,49,g,27,g,7,g,0,g,5,g,42,g
+328,quaker steak and lube,biker chicken salad serves 4 6 1 serving with dressing choice wildberry poppyseed,25,g,80,mg,820,g,49,g,27,g,6,g,0,g,5,g,39,g
+329,quaker steak and lube,biker chicken salad serves 4 6 6 servings,88,g,395,mg,3380,g,223,g,160,g,29,g,0,g,28,g,177,g
+330,quaker steak and lube,biker chicken salad serves 4 6 6 servings with dressing choice balsamic vinaigrette,128,g,395,mg,4900,g,255,g,160,g,33,g,0,g,28,g,209,g
+331,quaker steak and lube,biker chicken salad serves 4 6 6 servings with dressing choice bleu cheese,206,g,475,mg,5350,g,229,g,169,g,44,g,0,g,28,g,182,g
+332,quaker steak and lube,biker chicken salad serves 4 6 6 servings with dressing choice chipotle ranch,177,g,475,mg,5780,g,233,g,160,g,41,g,0,g,28,g,187,g
+333,quaker steak and lube,biker chicken salad serves 4 6 6 servings with dressing choice farmhouse ranch,176,g,475,mg,5540,g,231,g,160,g,41,g,0,g,28,g,185,g
+334,quaker steak and lube,biker chicken salad serves 4 6 6 servings with dressing choice fat free italian,88,g,395,mg,7300,g,247,g,160,g,29,g,0,g,28,g,193,g
+335,quaker steak and lube,biker chicken salad serves 4 6 6 servings with dressing choice jalapeno ranch,208,g,515,mg,5380,g,231,g,160,g,49,g,0,g,28,g,185,g
+336,quaker steak and lube,biker chicken salad serves 4 6 6 servings with dressing choice northern italian,200,g,395,mg,6100,g,231,g,160,g,45,g,0,g,28,g,177,g
+337,quaker steak and lube,biker chicken salad serves 4 6 6 servings with dressing choice olive oil and balsamic vinaigrette,200,g,395,mg,3380,g,247,g,160,g,45,g,0,g,28,g,201,g
+338,quaker steak and lube,biker chicken salad serves 4 6 6 servings with dressing choice sweet vidalia onion,160,g,395,mg,4260,g,295,g,160,g,41,g,0,g,28,g,249,g
+339,quaker steak and lube,biker chicken salad serves 4 6 6 servings with dressing choice wildberry poppyseed,148,g,485,mg,4940,g,291,g,160,g,38,g,0,g,29,g,234,g
+340,quaker steak and lube,black bean soup 1 bowl,2,g,0,mg,1200,g,29,g,9,g,0,g,0,g,11,g,0,g
+341,quaker steak and lube,black beans and rice,2,g,5,mg,820,g,46,g,7,g,1,g,0,g,3,g,1,g
+342,quaker steak and lube,blazin bloody mary,0,g,0,mg,1020,g,7,g,2,g,0,g,0,g,0,g,5,g
+343,quaker steak and lube,blazin bloody mary with add atomic wing sauce,0,g,0,mg,1260,g,8,g,2,g,0,g,0,g,1,g,5,g
+344,quaker steak and lube,blazin bloody mary with add atomic wing sauce chipotle bbq rim,0,g,0,mg,1300,g,8,g,2,g,0,g,0,g,1,g,5,g
+345,quaker steak and lube,blazin bloody mary with add hot wing sauce,0,g,0,mg,1470,g,7,g,2,g,0,g,0,g,0,g,5,g
+346,quaker steak and lube,blazin bloody mary with add hot wing sauce chipotle bbq rim,0,g,0,mg,1510,g,8,g,2,g,0,g,0,g,0,g,5,g
+347,quaker steak and lube,blazin bloody mary with chipotle bbq rim,0,g,0,mg,1060,g,7,g,2,g,0,g,0,g,0,g,5,g
+348,quaker steak and lube,bloody mary,1,g,0,mg,5830,g,44,g,1,g,0,g,0,g,1,g,22,g
+349,quaker steak and lube,bloody mary with bacon salt rim,1,g,0,mg,6210,g,47,g,1,g,0,g,0,g,1,g,25,g
+350,quaker steak and lube,bone in wings 100 1 serving,32,g,105,mg,100,g,0,g,25,g,8,g,0,g,0,g,0,g
+351,quaker steak and lube,bone in wings 100 1 serving with wing dust chipotle bbq,34,g,105,mg,950,g,7,g,25,g,8,g,0,g,0,g,5,g
+352,quaker steak and lube,bone in wings 100 1 serving with wing dust ghost pepper seasoning,35,g,105,mg,1150,g,4,g,26,g,10,g,0,g,1,g,1,g
+353,quaker steak and lube,bone in wings 100 1 serving with wing dust mango habanero,32,g,105,mg,780,g,9,g,25,g,8,g,0,g,0,g,6,g
+354,quaker steak and lube,bone in wings 100 1 serving with wing sauce choice arizona ranch,39,g,110,mg,750,g,2,g,25,g,8,g,0,g,0,g,1,g
+355,quaker steak and lube,bone in wings 100 1 serving with wing sauce choice asian sesame,39,g,105,mg,400,g,5,g,25,g,9,g,0,g,0,g,4,g
+356,quaker steak and lube,bone in wings 100 1 serving with wing sauce choice boom boom,46,g,115,mg,320,g,2,g,25,g,10,g,0,g,0,g,2,g
+357,quaker steak and lube,bone in wings 100 1 serving with wing sauce choice buckeye bbq,32,g,105,mg,320,g,12,g,25,g,8,g,0,g,0,g,11,g
+358,quaker steak and lube,bone in wings 100 1 serving with wing sauce choice cajun,39,g,110,mg,360,g,2,g,25,g,9,g,0,g,1,g,1,g
+359,quaker steak and lube,bone in wings 100 1 serving with wing sauce choice golden garlic,39,g,105,mg,420,g,1,g,25,g,9,g,0,g,0,g,0,g
+360,quaker steak and lube,bone in wings 100 1 serving with wing sauce choice haute parm,39,g,110,mg,460,g,1,g,26,g,9,g,0,g,0,g,0,g
+361,quaker steak and lube,bone in wings 100 1 serving with wing sauce choice hot,32,g,105,mg,820,g,1,g,25,g,8,g,0,g,0,g,0,g
+362,quaker steak and lube,bone in wings 100 1 serving with wing sauce choice kentucky bourbon glaze,32,g,105,mg,390,g,13,g,25,g,8,g,0,g,0,g,12,g
+363,quaker steak and lube,bone in wings 100 1 serving with wing sauce choice louisiana lickers,34,g,105,mg,500,g,6,g,25,g,8,g,0,g,0,g,6,g
+364,quaker steak and lube,bone in wings 100 1 serving with wing sauce choice medium,42,g,105,mg,500,g,1,g,25,g,9,g,0,g,0,g,0,g
+365,quaker steak and lube,bone in wings 100 1 serving with wing sauce choice original bbq,32,g,105,mg,280,g,14,g,25,g,8,g,0,g,0,g,12,g
+366,quaker steak and lube,bone in wings 100 1 serving with wing sauce choice parmesan pepper,44,g,130,mg,410,g,0,g,25,g,10,g,0,g,0,g,0,g
+367,quaker steak and lube,bone in wings 100 1 serving with wing sauce choice smoked jalapeno honey,32,g,105,mg,390,g,14,g,25,g,8,g,0,g,0,g,14,g
+368,quaker steak and lube,bone in wings 100 1 serving with wing sauce choice supercharged,33,g,105,mg,410,g,1,g,25,g,8,g,0,g,1,g,0,g
+369,quaker steak and lube,bone in wings 100 1 serving with wing sauce choice thai r cracker,32,g,105,mg,440,g,18,g,25,g,8,g,0,g,0,g,17,g
+370,quaker steak and lube,bone in wings 100 1 serving with wing sauce choice thaisian,36,g,105,mg,420,g,11,g,25,g,8,g,0,g,0,g,10,g
+371,quaker steak and lube,bone in wings 100 1 serving with wing sauce choice triple atomic,33,g,105,mg,490,g,7,g,25,g,8,g,0,g,0,g,6,g
+372,quaker steak and lube,bone in wings 100 30 servings,966,g,3145,mg,2980,g,0,g,748,g,229,g,1,g,0,g,0,g
+373,quaker steak and lube,bone in wings 100 30 servings with wing dust chipotle bbq,1009,g,3145,mg,28630,g,196,g,756,g,246,g,11,g,12,g,137,g
+374,quaker steak and lube,bone in wings 100 30 servings with wing dust ghost pepper seasoning,1054,g,3145,mg,34420,g,122,g,768,g,292,g,1,g,24,g,40,g
+375,quaker steak and lube,bone in wings 100 30 servings with wing dust mango habanero,974,g,3145,mg,23400,g,257,g,756,g,231,g,1,g,11,g,189,g
+376,quaker steak and lube,bone in wings 100 30 servings with wing sauce choice arizona ranch,1158,g,3265,mg,22420,g,48,g,748,g,253,g,1,g,0,g,24,g
+377,quaker steak and lube,bone in wings 100 30 servings with wing sauce choice asian sesame,1182,g,3145,mg,12100,g,144,g,748,g,265,g,1,g,0,g,120,g
+378,quaker steak and lube,bone in wings 100 30 servings with wing sauce choice boom boom,1374,g,3505,mg,9460,g,72,g,748,g,289,g,1,g,0,g,48,g
+379,quaker steak and lube,bone in wings 100 30 servings with wing sauce choice buckeye bbq,966,g,3145,mg,9700,g,360,g,748,g,229,g,1,g,0,g,336,g
+380,quaker steak and lube,bone in wings 100 30 servings with wing sauce choice cajun,1182,g,3265,mg,10900,g,48,g,748,g,265,g,1,g,24,g,24,g
+381,quaker steak and lube,bone in wings 100 30 servings with wing sauce choice golden garlic,1182,g,3145,mg,12580,g,24,g,748,g,265,g,1,g,0,g,0,g
+382,quaker steak and lube,bone in wings 100 30 servings with wing sauce choice haute parm,1172,g,3230,mg,13740,g,36,g,772,g,265,g,1,g,14,g,0,g
+383,quaker steak and lube,bone in wings 100 30 servings with wing sauce choice hot,973,g,3145,mg,24660,g,27,g,753,g,230,g,1,g,11,g,10,g
+384,quaker steak and lube,bone in wings 100 30 servings with wing sauce choice kentucky bourbon glaze,966,g,3145,mg,11620,g,384,g,748,g,229,g,1,g,0,g,360,g
+385,quaker steak and lube,bone in wings 100 30 servings with wing sauce choice louisiana lickers,1026,g,3145,mg,14980,g,192,g,748,g,229,g,1,g,0,g,168,g
+386,quaker steak and lube,bone in wings 100 30 servings with wing sauce choice medium,1254,g,3145,mg,14980,g,24,g,748,g,277,g,1,g,0,g,0,g
+387,quaker steak and lube,bone in wings 100 30 servings with wing sauce choice original bbq,966,g,3145,mg,8260,g,408,g,748,g,229,g,1,g,0,g,360,g
+388,quaker steak and lube,bone in wings 100 30 servings with wing sauce choice parmesan pepper,1326,g,3865,mg,12340,g,0,g,748,g,301,g,1,g,0,g,0,g
+389,quaker steak and lube,bone in wings 100 30 servings with wing sauce choice smoked jalapeno honey,966,g,3145,mg,11620,g,432,g,748,g,229,g,1,g,0,g,432,g
+390,quaker steak and lube,bone in wings 100 30 servings with wing sauce choice supercharged,978,g,3145,mg,12340,g,24,g,748,g,229,g,1,g,24,g,0,g
+391,quaker steak and lube,bone in wings 100 30 servings with wing sauce choice thai r cracker,966,g,3145,mg,13300,g,528,g,748,g,229,g,1,g,0,g,504,g
+392,quaker steak and lube,bone in wings 100 30 servings with wing sauce choice thaisian,1074,g,3145,mg,12700,g,336,g,748,g,247,g,1,g,0,g,312,g
+393,quaker steak and lube,bone in wings 100 30 servings with wing sauce choice triple atomic,987,g,3145,mg,14650,g,223,g,754,g,235,g,1,g,11,g,185,g
+394,quaker steak and lube,bone in wings 50 1 serving,32,g,105,mg,100,g,0,g,25,g,8,g,0,g,0,g,0,g
+395,quaker steak and lube,bone in wings 50 1 serving with wing dust chipotle bbq,34,g,105,mg,950,g,7,g,25,g,8,g,0,g,0,g,5,g
+396,quaker steak and lube,bone in wings 50 1 serving with wing dust ghost pepper seasoning,35,g,105,mg,1150,g,4,g,26,g,10,g,0,g,1,g,1,g
+397,quaker steak and lube,bone in wings 50 1 serving with wing dust mango habanero,32,g,105,mg,780,g,9,g,25,g,8,g,0,g,0,g,6,g
+398,quaker steak and lube,bone in wings 50 1 serving with wing sauce choice arizona ranch,39,g,110,mg,750,g,2,g,25,g,8,g,0,g,0,g,1,g
+399,quaker steak and lube,bone in wings 50 1 serving with wing sauce choice asian sesame,39,g,105,mg,400,g,5,g,25,g,9,g,0,g,0,g,4,g
+400,quaker steak and lube,bone in wings 50 1 serving with wing sauce choice boom boom,46,g,115,mg,320,g,2,g,25,g,10,g,0,g,0,g,2,g
+401,quaker steak and lube,bone in wings 50 1 serving with wing sauce choice buckeye bbq,32,g,105,mg,320,g,12,g,25,g,8,g,0,g,0,g,11,g
+402,quaker steak and lube,bone in wings 50 1 serving with wing sauce choice cajun,39,g,110,mg,360,g,2,g,25,g,9,g,0,g,1,g,1,g
+403,quaker steak and lube,bone in wings 50 1 serving with wing sauce choice garlic parm,43,g,105,mg,350,g,1,g,26,g,10,g,0,g,0,g,0,g
+404,quaker steak and lube,bone in wings 50 1 serving with wing sauce choice golden garlic,39,g,105,mg,420,g,1,g,25,g,9,g,0,g,0,g,0,g
+405,quaker steak and lube,bone in wings 50 1 serving with wing sauce choice haute parm,39,g,110,mg,460,g,1,g,26,g,9,g,0,g,0,g,0,g
+406,quaker steak and lube,bone in wings 50 1 serving with wing sauce choice hot,32,g,105,mg,820,g,1,g,25,g,8,g,0,g,0,g,0,g
+407,quaker steak and lube,bone in wings 50 1 serving with wing sauce choice kentucky bourbon glaze,32,g,105,mg,390,g,13,g,25,g,8,g,0,g,0,g,12,g
+408,quaker steak and lube,bone in wings 50 1 serving with wing sauce choice louisiana lickers,34,g,105,mg,500,g,6,g,25,g,8,g,0,g,0,g,6,g
+409,quaker steak and lube,bone in wings 50 1 serving with wing sauce choice medium,42,g,105,mg,500,g,1,g,25,g,9,g,0,g,0,g,0,g
+410,quaker steak and lube,bone in wings 50 1 serving with wing sauce choice mild,43,g,105,mg,360,g,0,g,25,g,9,g,0,g,0,g,0,g
+411,quaker steak and lube,bone in wings 50 1 serving with wing sauce choice original bbq,32,g,105,mg,280,g,14,g,25,g,8,g,0,g,0,g,12,g
+412,quaker steak and lube,bone in wings 50 1 serving with wing sauce choice parmesan pepper,44,g,130,mg,410,g,0,g,25,g,10,g,0,g,0,g,0,g
+413,quaker steak and lube,bone in wings 50 1 serving with wing sauce choice ranch,40,g,110,mg,340,g,2,g,25,g,9,g,0,g,0,g,1,g
+414,quaker steak and lube,bone in wings 50 1 serving with wing sauce choice smoked jalapeno honey,32,g,105,mg,390,g,14,g,25,g,8,g,0,g,0,g,14,g
+415,quaker steak and lube,bone in wings 50 1 serving with wing sauce choice smoky gold bbq,32,g,105,mg,350,g,10,g,25,g,8,g,0,g,0,g,10,g
+416,quaker steak and lube,bone in wings 50 1 serving with wing sauce choice supercharged,33,g,105,mg,410,g,1,g,25,g,8,g,0,g,1,g,0,g
+417,quaker steak and lube,bone in wings 50 1 serving with wing sauce choice thai r cracker,32,g,105,mg,440,g,18,g,25,g,8,g,0,g,0,g,17,g
+418,quaker steak and lube,bone in wings 50 1 serving with wing sauce choice thaisian,36,g,105,mg,420,g,11,g,25,g,8,g,0,g,0,g,10,g
+419,quaker steak and lube,bone in wings 50 1 serving with wing sauce choice triple atomic,33,g,105,mg,490,g,7,g,25,g,8,g,0,g,0,g,6,g
+420,quaker steak and lube,bone in wings 50 15 servings,483,g,1570,mg,1490,g,0,g,374,g,115,g,1,g,0,g,0,g
+421,quaker steak and lube,bone in wings 50 15 servings with wing dust chipotle bbq,505,g,1570,mg,14310,g,98,g,378,g,123,g,5,g,6,g,69,g
+422,quaker steak and lube,bone in wings 50 15 servings with wing dust ghost pepper seasoning,527,g,1570,mg,17210,g,61,g,384,g,146,g,1,g,12,g,20,g
+423,quaker steak and lube,bone in wings 50 15 servings with wing dust mango habanero,487,g,1570,mg,11700,g,129,g,378,g,115,g,1,g,5,g,95,g
+424,quaker steak and lube,bone in wings 50 15 servings with wing sauce choice arizona ranch,579,g,1630,mg,11210,g,24,g,374,g,127,g,1,g,0,g,12,g
+425,quaker steak and lube,bone in wings 50 15 servings with wing sauce choice asian sesame,591,g,1570,mg,6050,g,72,g,374,g,133,g,1,g,0,g,60,g
+426,quaker steak and lube,bone in wings 50 15 servings with wing sauce choice boom boom,687,g,1750,mg,4730,g,36,g,374,g,145,g,1,g,0,g,24,g
+427,quaker steak and lube,bone in wings 50 15 servings with wing sauce choice buckeye bbq,483,g,1570,mg,4850,g,180,g,374,g,115,g,1,g,0,g,168,g
+428,quaker steak and lube,bone in wings 50 15 servings with wing sauce choice cajun,591,g,1630,mg,5450,g,24,g,374,g,133,g,1,g,12,g,12,g
+429,quaker steak and lube,bone in wings 50 15 servings with wing sauce choice garlic parm,644,g,1585,mg,5180,g,17,g,383,g,143,g,1,g,3,g,0,g
+430,quaker steak and lube,bone in wings 50 15 servings with wing sauce choice golden garlic,591,g,1570,mg,6290,g,12,g,374,g,133,g,1,g,0,g,0,g
+431,quaker steak and lube,bone in wings 50 15 servings with wing sauce choice haute parm,586,g,1615,mg,6870,g,18,g,386,g,133,g,1,g,7,g,0,g
+432,quaker steak and lube,bone in wings 50 15 servings with wing sauce choice hot,487,g,1570,mg,12330,g,13,g,376,g,115,g,1,g,6,g,5,g
+433,quaker steak and lube,bone in wings 50 15 servings with wing sauce choice kentucky bourbon glaze,483,g,1570,mg,5810,g,192,g,374,g,115,g,1,g,0,g,180,g
+434,quaker steak and lube,bone in wings 50 15 servings with wing sauce choice louisiana lickers,513,g,1570,mg,7490,g,96,g,374,g,115,g,1,g,0,g,84,g
+435,quaker steak and lube,bone in wings 50 15 servings with wing sauce choice medium,627,g,1570,mg,7490,g,12,g,374,g,139,g,1,g,0,g,0,g
+436,quaker steak and lube,bone in wings 50 15 servings with wing sauce choice mild,651,g,1570,mg,5450,g,0,g,374,g,139,g,1,g,0,g,0,g
+437,quaker steak and lube,bone in wings 50 15 servings with wing sauce choice original bbq,483,g,1570,mg,4130,g,204,g,374,g,115,g,1,g,0,g,180,g
+438,quaker steak and lube,bone in wings 50 15 servings with wing sauce choice parmesan pepper,663,g,1930,mg,6170,g,0,g,374,g,151,g,1,g,0,g,0,g
+439,quaker steak and lube,bone in wings 50 15 servings with wing sauce choice ranch,603,g,1630,mg,5090,g,24,g,374,g,133,g,1,g,0,g,12,g
+440,quaker steak and lube,bone in wings 50 15 servings with wing sauce choice smoked jalapeno honey,483,g,1570,mg,5810,g,216,g,374,g,115,g,1,g,0,g,216,g
+441,quaker steak and lube,bone in wings 50 15 servings with wing sauce choice smoky gold bbq,483,g,1570,mg,5240,g,152,g,375,g,115,g,1,g,1,g,148,g
+442,quaker steak and lube,bone in wings 50 15 servings with wing sauce choice supercharged,489,g,1570,mg,6170,g,12,g,374,g,115,g,1,g,12,g,0,g
+443,quaker steak and lube,bone in wings 50 15 servings with wing sauce choice thai r cracker,483,g,1570,mg,6650,g,264,g,374,g,115,g,1,g,0,g,252,g
+444,quaker steak and lube,bone in wings 50 15 servings with wing sauce choice thaisian,537,g,1570,mg,6350,g,168,g,374,g,124,g,1,g,0,g,156,g
+445,quaker steak and lube,bone in wings 50 15 servings with wing sauce choice triple atomic,493,g,1570,mg,7330,g,111,g,377,g,117,g,1,g,6,g,92,g
+446,quaker steak and lube,boom boom shrimp,58,g,130,mg,1760,g,48,g,15,g,8,g,0,g,2,g,9,g
+447,quaker steak and lube,boom boom shrimp plate,139,g,255,mg,4500,g,141,g,34,g,20,g,0,g,7,g,22,g
+448,quaker steak and lube,bourbon baked beans,0,g,0,mg,490,g,35,g,5,g,0,g,0,g,3,g,19,g
+449,quaker steak and lube,bourbon mule,0,g,0,mg,80,g,110,g,0,g,0,g,0,g,1,g,100,g
+450,quaker steak and lube,brake shoe blues,0,g,0,mg,5,g,30,g,0,g,0,g,0,g,0,g,12,g
+451,quaker steak and lube,breaded boneless chicken wrap,38,g,70,mg,2150,g,77,g,30,g,8,g,0,g,8,g,10,g
+452,quaker steak and lube,breaded boneless wings 100 1 serving,8,g,45,mg,670,g,18,g,19,g,1,g,0,g,0,g,0,g
+453,quaker steak and lube,breaded boneless wings 100 1 serving with wing dust chipotle bbq,8,g,45,mg,920,g,20,g,19,g,1,g,0,g,0,g,1,g
+454,quaker steak and lube,breaded boneless wings 100 1 serving with wing dust ghost pepper seasoning,9,g,45,mg,1040,g,19,g,19,g,2,g,0,g,0,g,0,g
+455,quaker steak and lube,breaded boneless wings 100 1 serving with wing dust mango habanero,8,g,45,mg,1050,g,23,g,19,g,1,g,0,g,0,g,4,g
+456,quaker steak and lube,breaded boneless wings 100 1 serving with wing sauce choice arizona ranch,14,g,50,mg,1320,g,19,g,19,g,2,g,0,g,0,g,1,g
+457,quaker steak and lube,breaded boneless wings 100 1 serving with wing sauce choice asian sesame,15,g,45,mg,970,g,23,g,19,g,2,g,0,g,0,g,4,g
+458,quaker steak and lube,breaded boneless wings 100 1 serving with wing sauce choice boom boom,22,g,55,mg,880,g,20,g,19,g,3,g,0,g,0,g,2,g
+459,quaker steak and lube,breaded boneless wings 100 1 serving with wing sauce choice buckeye bbq,8,g,45,mg,890,g,30,g,19,g,1,g,0,g,0,g,11,g
+460,quaker steak and lube,breaded boneless wings 100 1 serving with wing sauce choice cajun,15,g,50,mg,930,g,19,g,19,g,2,g,0,g,1,g,1,g
+461,quaker steak and lube,breaded boneless wings 100 1 serving with wing sauce choice golden garlic,15,g,45,mg,990,g,19,g,19,g,2,g,0,g,0,g,0,g
+462,quaker steak and lube,breaded boneless wings 100 1 serving with wing sauce choice haute parm,15,g,45,mg,1030,g,19,g,20,g,2,g,0,g,0,g,0,g
+463,quaker steak and lube,breaded boneless wings 100 1 serving with wing sauce choice hot,8,g,45,mg,1390,g,19,g,19,g,1,g,0,g,0,g,0,g
+464,quaker steak and lube,breaded boneless wings 100 1 serving with wing sauce choice kentucky bourbon glaze,8,g,45,mg,960,g,31,g,19,g,1,g,0,g,0,g,12,g
+465,quaker steak and lube,breaded boneless wings 100 1 serving with wing sauce choice louisiana lickers,10,g,45,mg,1070,g,24,g,19,g,1,g,0,g,0,g,6,g
+466,quaker steak and lube,breaded boneless wings 100 1 serving with wing sauce choice medium,18,g,45,mg,1070,g,19,g,19,g,3,g,0,g,0,g,0,g
+467,quaker steak and lube,breaded boneless wings 100 1 serving with wing sauce choice original bbq,8,g,45,mg,840,g,31,g,19,g,1,g,0,g,0,g,12,g
+468,quaker steak and lube,breaded boneless wings 100 1 serving with wing sauce choice parmesan pepper,20,g,70,mg,980,g,18,g,19,g,4,g,0,g,0,g,0,g
+469,quaker steak and lube,breaded boneless wings 100 1 serving with wing sauce choice smoked jalapeno honey,8,g,45,mg,960,g,32,g,19,g,1,g,0,g,0,g,14,g
+470,quaker steak and lube,breaded boneless wings 100 1 serving with wing sauce choice supercharged,8,g,45,mg,980,g,19,g,19,g,1,g,0,g,1,g,0,g
+471,quaker steak and lube,breaded boneless wings 100 1 serving with wing sauce choice thai r cracker,8,g,45,mg,1010,g,35,g,19,g,1,g,0,g,0,g,17,g
+472,quaker steak and lube,breaded boneless wings 100 1 serving with wing sauce choice thaisian,12,g,45,mg,990,g,29,g,19,g,2,g,0,g,0,g,10,g
+473,quaker steak and lube,breaded boneless wings 100 1 serving with wing sauce choice triple atomic,9,g,45,mg,1060,g,25,g,19,g,1,g,0,g,0,g,6,g
+474,quaker steak and lube,breaded boneless wings 100 30 servings,242,g,1335,mg,20010,g,534,g,567,g,38,g,1,g,0,g,0,g
+475,quaker steak and lube,breaded boneless wings 100 30 servings with wing dust chipotle bbq,255,g,1335,mg,27610,g,592,g,569,g,43,g,3,g,4,g,41,g
+476,quaker steak and lube,breaded boneless wings 100 30 servings with wing dust ghost pepper seasoning,273,g,1335,mg,31150,g,577,g,574,g,60,g,1,g,9,g,14,g
+477,quaker steak and lube,breaded boneless wings 100 30 servings with wing dust mango habanero,246,g,1335,mg,31560,g,679,g,571,g,38,g,1,g,6,g,107,g
+478,quaker steak and lube,breaded boneless wings 100 30 servings with wing sauce choice arizona ranch,434,g,1455,mg,39450,g,582,g,567,g,62,g,1,g,0,g,24,g
+479,quaker steak and lube,breaded boneless wings 100 30 servings with wing sauce choice asian sesame,458,g,1335,mg,29130,g,678,g,567,g,74,g,1,g,0,g,120,g
+480,quaker steak and lube,breaded boneless wings 100 30 servings with wing sauce choice boom boom,650,g,1695,mg,26490,g,606,g,567,g,98,g,1,g,0,g,48,g
+481,quaker steak and lube,breaded boneless wings 100 30 servings with wing sauce choice buckeye bbq,242,g,1335,mg,26730,g,894,g,567,g,38,g,1,g,0,g,336,g
+482,quaker steak and lube,breaded boneless wings 100 30 servings with wing sauce choice cajun,458,g,1455,mg,27930,g,582,g,567,g,74,g,1,g,24,g,24,g
+483,quaker steak and lube,breaded boneless wings 100 30 servings with wing sauce choice golden garlic,458,g,1335,mg,29610,g,558,g,567,g,74,g,1,g,0,g,0,g
+484,quaker steak and lube,breaded boneless wings 100 30 servings with wing sauce choice haute parm,448,g,1425,mg,30770,g,570,g,591,g,74,g,1,g,14,g,0,g
+485,quaker steak and lube,breaded boneless wings 100 30 servings with wing sauce choice hot,249,g,1335,mg,41690,g,560,g,572,g,38,g,1,g,11,g,10,g
+486,quaker steak and lube,breaded boneless wings 100 30 servings with wing sauce choice kentucky bourbon glaze,242,g,1335,mg,28650,g,918,g,567,g,38,g,1,g,0,g,360,g
+487,quaker steak and lube,breaded boneless wings 100 30 servings with wing sauce choice louisiana lickers,302,g,1335,mg,32010,g,726,g,567,g,38,g,1,g,0,g,168,g
+488,quaker steak and lube,breaded boneless wings 100 30 servings with wing sauce choice medium,530,g,1335,mg,32010,g,558,g,567,g,86,g,1,g,0,g,0,g
+489,quaker steak and lube,breaded boneless wings 100 30 servings with wing sauce choice original bbq,242,g,1335,mg,25290,g,942,g,567,g,38,g,1,g,0,g,360,g
+490,quaker steak and lube,breaded boneless wings 100 30 servings with wing sauce choice parmesan pepper,602,g,2055,mg,29370,g,534,g,567,g,110,g,1,g,0,g,0,g
+491,quaker steak and lube,breaded boneless wings 100 30 servings with wing sauce choice smoked jalapeno honey,242,g,1335,mg,28650,g,966,g,567,g,38,g,1,g,0,g,432,g
+492,quaker steak and lube,breaded boneless wings 100 30 servings with wing sauce choice supercharged,254,g,1335,mg,29370,g,558,g,567,g,38,g,1,g,24,g,0,g
+493,quaker steak and lube,breaded boneless wings 100 30 servings with wing sauce choice thai r cracker,242,g,1335,mg,30330,g,1062,g,567,g,38,g,1,g,0,g,504,g
+494,quaker steak and lube,breaded boneless wings 100 30 servings with wing sauce choice thaisian,350,g,1335,mg,29730,g,870,g,567,g,56,g,1,g,0,g,312,g
+495,quaker steak and lube,breaded boneless wings 100 30 servings with wing sauce choice triple atomic,263,g,1335,mg,31680,g,756,g,573,g,43,g,1,g,11,g,185,g
+496,quaker steak and lube,breaded boneless wings 50 1 serving,8,g,45,mg,670,g,18,g,19,g,1,g,0,g,0,g,0,g
+497,quaker steak and lube,breaded boneless wings 50 1 serving with wing dust chipotle bbq,8,g,45,mg,920,g,20,g,19,g,1,g,0,g,0,g,1,g
+498,quaker steak and lube,breaded boneless wings 50 1 serving with wing dust ghost pepper seasoning,9,g,45,mg,1040,g,19,g,19,g,2,g,0,g,0,g,0,g
+499,quaker steak and lube,breaded boneless wings 50 1 serving with wing dust mango habanero,8,g,45,mg,1050,g,23,g,19,g,1,g,0,g,0,g,4,g
+500,quaker steak and lube,breaded boneless wings 50 1 serving with wing sauce choice arizona ranch,14,g,50,mg,1320,g,19,g,19,g,2,g,0,g,0,g,1,g
+501,quaker steak and lube,breaded boneless wings 50 1 serving with wing sauce choice asian sesame,15,g,45,mg,970,g,23,g,19,g,2,g,0,g,0,g,4,g
+502,quaker steak and lube,breaded boneless wings 50 1 serving with wing sauce choice boom boom,22,g,55,mg,880,g,20,g,19,g,3,g,0,g,0,g,2,g
+503,quaker steak and lube,breaded boneless wings 50 1 serving with wing sauce choice buckeye bbq,8,g,45,mg,890,g,30,g,19,g,1,g,0,g,0,g,11,g
+504,quaker steak and lube,breaded boneless wings 50 1 serving with wing sauce choice cajun,15,g,50,mg,930,g,19,g,19,g,2,g,0,g,1,g,1,g
+505,quaker steak and lube,breaded boneless wings 50 1 serving with wing sauce choice golden garlic,15,g,45,mg,990,g,19,g,19,g,2,g,0,g,0,g,0,g
+506,quaker steak and lube,breaded boneless wings 50 1 serving with wing sauce choice haute parm,15,g,45,mg,1030,g,19,g,20,g,2,g,0,g,0,g,0,g
+507,quaker steak and lube,breaded boneless wings 50 1 serving with wing sauce choice hot,8,g,45,mg,1390,g,19,g,19,g,1,g,0,g,0,g,0,g
+508,quaker steak and lube,breaded boneless wings 50 1 serving with wing sauce choice kentucky bourbon glaze,8,g,45,mg,960,g,31,g,19,g,1,g,0,g,0,g,12,g
+509,quaker steak and lube,breaded boneless wings 50 1 serving with wing sauce choice louisiana lickers,10,g,45,mg,1070,g,24,g,19,g,1,g,0,g,0,g,6,g
+510,quaker steak and lube,breaded boneless wings 50 1 serving with wing sauce choice medium,18,g,45,mg,1070,g,19,g,19,g,3,g,0,g,0,g,0,g
+511,quaker steak and lube,breaded boneless wings 50 1 serving with wing sauce choice original bbq,8,g,45,mg,840,g,31,g,19,g,1,g,0,g,0,g,12,g
+512,quaker steak and lube,breaded boneless wings 50 1 serving with wing sauce choice parmesan pepper,20,g,70,mg,980,g,18,g,19,g,4,g,0,g,0,g,0,g
+513,quaker steak and lube,breaded boneless wings 50 1 serving with wing sauce choice smoked jalapeno honey,8,g,45,mg,960,g,32,g,19,g,1,g,0,g,0,g,14,g
+514,quaker steak and lube,breaded boneless wings 50 1 serving with wing sauce choice supercharged,8,g,45,mg,980,g,19,g,19,g,1,g,0,g,1,g,0,g
+515,quaker steak and lube,breaded boneless wings 50 1 serving with wing sauce choice thai r cracker,8,g,45,mg,1010,g,35,g,19,g,1,g,0,g,0,g,17,g
+516,quaker steak and lube,breaded boneless wings 50 1 serving with wing sauce choice thaisian,12,g,45,mg,990,g,29,g,19,g,2,g,0,g,0,g,10,g
+517,quaker steak and lube,breaded boneless wings 50 1 serving with wing sauce choice triple atomic,9,g,45,mg,1060,g,25,g,19,g,1,g,0,g,0,g,6,g
+518,quaker steak and lube,breaded boneless wings 50 15 servings,121,g,665,mg,10010,g,267,g,283,g,19,g,0,g,0,g,0,g
+519,quaker steak and lube,breaded boneless wings 50 15 servings with wing dust chipotle bbq,127,g,665,mg,13810,g,296,g,285,g,21,g,2,g,2,g,20,g
+520,quaker steak and lube,breaded boneless wings 50 15 servings with wing dust ghost pepper seasoning,137,g,665,mg,15570,g,288,g,287,g,30,g,0,g,4,g,7,g
+521,quaker steak and lube,breaded boneless wings 50 15 servings with wing dust mango habanero,123,g,665,mg,15780,g,340,g,286,g,19,g,0,g,3,g,54,g
+522,quaker steak and lube,breaded boneless wings 50 15 servings with wing sauce choice arizona ranch,217,g,725,mg,19730,g,291,g,283,g,31,g,0,g,0,g,12,g
+523,quaker steak and lube,breaded boneless wings 50 15 servings with wing sauce choice asian sesame,229,g,665,mg,14570,g,339,g,283,g,37,g,0,g,0,g,60,g
+524,quaker steak and lube,breaded boneless wings 50 15 servings with wing sauce choice boom boom,325,g,845,mg,13250,g,303,g,283,g,49,g,0,g,0,g,24,g
+525,quaker steak and lube,breaded boneless wings 50 15 servings with wing sauce choice buckeye bbq,121,g,665,mg,13370,g,447,g,283,g,19,g,0,g,0,g,168,g
+526,quaker steak and lube,breaded boneless wings 50 15 servings with wing sauce choice cajun,229,g,725,mg,13970,g,291,g,283,g,37,g,0,g,12,g,12,g
+527,quaker steak and lube,breaded boneless wings 50 15 servings with wing sauce choice golden garlic,229,g,665,mg,14810,g,279,g,283,g,37,g,0,g,0,g,0,g
+528,quaker steak and lube,breaded boneless wings 50 15 servings with wing sauce choice haute parm,224,g,710,mg,15390,g,285,g,295,g,37,g,0,g,7,g,0,g
+529,quaker steak and lube,breaded boneless wings 50 15 servings with wing sauce choice hot,125,g,665,mg,20840,g,280,g,286,g,19,g,0,g,6,g,5,g
+530,quaker steak and lube,breaded boneless wings 50 15 servings with wing sauce choice kentucky bourbon glaze,121,g,665,mg,14330,g,459,g,283,g,19,g,0,g,0,g,180,g
+531,quaker steak and lube,breaded boneless wings 50 15 servings with wing sauce choice louisiana lickers,151,g,665,mg,16010,g,363,g,283,g,19,g,0,g,0,g,84,g
+532,quaker steak and lube,breaded boneless wings 50 15 servings with wing sauce choice medium,265,g,665,mg,16010,g,279,g,283,g,43,g,0,g,0,g,0,g
+533,quaker steak and lube,breaded boneless wings 50 15 servings with wing sauce choice original bbq,121,g,665,mg,12650,g,471,g,283,g,19,g,0,g,0,g,180,g
+534,quaker steak and lube,breaded boneless wings 50 15 servings with wing sauce choice parmesan pepper,301,g,1025,mg,14690,g,267,g,283,g,55,g,0,g,0,g,0,g
+535,quaker steak and lube,breaded boneless wings 50 15 servings with wing sauce choice smoked jalapeno honey,121,g,665,mg,14330,g,483,g,283,g,19,g,0,g,0,g,216,g
+536,quaker steak and lube,breaded boneless wings 50 15 servings with wing sauce choice supercharged,127,g,665,mg,14690,g,279,g,283,g,19,g,0,g,12,g,0,g
+537,quaker steak and lube,breaded boneless wings 50 15 servings with wing sauce choice thai r cracker,121,g,665,mg,15170,g,531,g,283,g,19,g,0,g,0,g,252,g
+538,quaker steak and lube,breaded boneless wings 50 15 servings with wing sauce choice thaisian,175,g,665,mg,14870,g,435,g,283,g,28,g,0,g,0,g,156,g
+539,quaker steak and lube,breaded boneless wings 50 15 servings with wing sauce choice triple atomic,131,g,665,mg,15840,g,378,g,286,g,22,g,0,g,6,g,92,g
+540,quaker steak and lube,breaded boneless wings basket,32,g,180,mg,2720,g,75,g,76,g,5,g,0,g,2,g,2,g
+541,quaker steak and lube,breaded boneless wings basket with bleu cheese dressing,62,g,195,mg,3210,g,77,g,78,g,9,g,0,g,2,g,4,g
+542,quaker steak and lube,breaded boneless wings basket with ranch dressing,54,g,200,mg,3260,g,77,g,76,g,8,g,0,g,2,g,4,g
+543,quaker steak and lube,breaded boneless wings basket with wing dust chipotle bbq,34,g,180,mg,3670,g,83,g,76,g,6,g,0,g,2,g,8,g
+544,quaker steak and lube,breaded boneless wings basket with wing dust ghost pepper seasoning,36,g,180,mg,4110,g,81,g,77,g,8,g,0,g,3,g,4,g
+545,quaker steak and lube,breaded boneless wings basket with wing dust mango habanero,33,g,180,mg,4170,g,93,g,77,g,5,g,0,g,2,g,16,g
+546,quaker steak and lube,breaded boneless wings basket with wing sauce choice arizona ranch,56,g,195,mg,5150,g,81,g,76,g,8,g,0,g,2,g,5,g
+547,quaker steak and lube,breaded boneless wings basket with wing sauce choice asian sesame,59,g,180,mg,3860,g,93,g,76,g,10,g,0,g,2,g,17,g
+548,quaker steak and lube,breaded boneless wings basket with wing sauce choice boom boom sauce,83,g,225,mg,3530,g,84,g,76,g,13,g,0,g,2,g,8,g
+549,quaker steak and lube,breaded boneless wings basket with wing sauce choice buckeye bbq,32,g,180,mg,3560,g,120,g,76,g,5,g,0,g,2,g,44,g
+550,quaker steak and lube,breaded boneless wings basket with wing sauce choice cajun,59,g,195,mg,3710,g,81,g,76,g,10,g,0,g,5,g,5,g
+551,quaker steak and lube,breaded boneless wings basket with wing sauce choice golden garlic,59,g,180,mg,3920,g,78,g,76,g,10,g,0,g,2,g,2,g
+552,quaker steak and lube,breaded boneless wings basket with wing sauce choice haute parmesan,58,g,190,mg,4070,g,80,g,79,g,10,g,0,g,3,g,2,g
+553,quaker steak and lube,breaded boneless wings basket with wing sauce choice hot,33,g,180,mg,5430,g,79,g,77,g,5,g,0,g,3,g,4,g
+554,quaker steak and lube,breaded boneless wings basket with wing sauce choice kentucky bourbon glaze,32,g,180,mg,3800,g,123,g,76,g,5,g,0,g,2,g,47,g
+555,quaker steak and lube,breaded boneless wings basket with wing sauce choice louisiana lickers,40,g,180,mg,4220,g,99,g,76,g,5,g,0,g,2,g,23,g
+556,quaker steak and lube,breaded boneless wings basket with wing sauce choice medium,68,g,180,mg,4220,g,78,g,76,g,11,g,0,g,2,g,2,g
+557,quaker steak and lube,breaded boneless wings basket with wing sauce choice mild,74,g,180,mg,3710,g,75,g,76,g,11,g,0,g,2,g,2,g
+558,quaker steak and lube,breaded boneless wings basket with wing sauce choice original bbq,32,g,180,mg,3380,g,126,g,76,g,5,g,0,g,2,g,47,g
+559,quaker steak and lube,breaded boneless wings basket with wing sauce choice parmesan pepper,77,g,270,mg,3890,g,75,g,76,g,14,g,0,g,2,g,2,g
+560,quaker steak and lube,breaded boneless wings basket with wing sauce choice smoked jalapeno honey,32,g,180,mg,3800,g,129,g,76,g,5,g,0,g,2,g,56,g
+561,quaker steak and lube,breaded boneless wings basket with wing sauce choice supercharged,34,g,180,mg,3890,g,78,g,76,g,5,g,0,g,5,g,2,g
+562,quaker steak and lube,breaded boneless wings basket with wing sauce choice thai r cracker,32,g,180,mg,4010,g,141,g,76,g,5,g,0,g,2,g,65,g
+563,quaker steak and lube,breaded boneless wings basket with wing sauce choice thaisian,46,g,180,mg,3940,g,117,g,76,g,7,g,0,g,2,g,41,g
+564,quaker steak and lube,breaded boneless wings basket with wing sauce choice triple atomic,35,g,180,mg,4180,g,103,g,77,g,6,g,0,g,3,g,25,g
+565,quaker steak and lube,breaded boneless wings bucket,65,g,355,mg,5440,g,151,g,152,g,10,g,0,g,3,g,5,g
+566,quaker steak and lube,breaded boneless wings bucket with wing dust chipotle bbq,72,g,355,mg,9720,g,183,g,153,g,13,g,2,g,5,g,28,g
+567,quaker steak and lube,breaded boneless wings bucket with wing dust ghost pepper seasoning,79,g,355,mg,10690,g,171,g,155,g,21,g,0,g,7,g,12,g
+568,quaker steak and lube,breaded boneless wings bucket with wing dust mango habanero,66,g,355,mg,8850,g,193,g,153,g,10,g,0,g,5,g,36,g
+569,quaker steak and lube,breaded boneless wings bucket with wing sauce choice arizona ranch,113,g,385,mg,10300,g,163,g,152,g,16,g,0,g,3,g,11,g
+570,quaker steak and lube,breaded boneless wings bucket with wing sauce choice asian sesame,119,g,355,mg,7720,g,187,g,152,g,19,g,0,g,3,g,35,g
+571,quaker steak and lube,breaded boneless wings bucket with wing sauce choice boom boom,167,g,445,mg,7060,g,169,g,152,g,25,g,0,g,3,g,17,g
+572,quaker steak and lube,breaded boneless wings bucket with wing sauce choice buckeye bbq,65,g,355,mg,7120,g,241,g,152,g,10,g,0,g,3,g,89,g
+573,quaker steak and lube,breaded boneless wings bucket with wing sauce choice cajun,119,g,385,mg,7420,g,163,g,152,g,19,g,0,g,9,g,11,g
+574,quaker steak and lube,breaded boneless wings bucket with wing sauce choice golden garlic,119,g,355,mg,7840,g,157,g,152,g,19,g,0,g,3,g,5,g
+575,quaker steak and lube,breaded boneless wings bucket with wing sauce choice haute parmesan,116,g,380,mg,8140,g,160,g,158,g,19,g,0,g,7,g,5,g
+576,quaker steak and lube,breaded boneless wings bucket with wing sauce choice hot,67,g,355,mg,10860,g,157,g,153,g,10,g,0,g,6,g,7,g
+577,quaker steak and lube,breaded boneless wings bucket with wing sauce choice kentucky bourbon glaze,65,g,355,mg,7600,g,247,g,152,g,10,g,0,g,3,g,95,g
+578,quaker steak and lube,breaded boneless wings bucket with wing sauce choice louisiana lickers,80,g,355,mg,8440,g,199,g,152,g,10,g,0,g,3,g,47,g
+579,quaker steak and lube,breaded boneless wings bucket with wing sauce choice medium,137,g,355,mg,8440,g,157,g,152,g,22,g,0,g,3,g,5,g
+580,quaker steak and lube,breaded boneless wings bucket with wing sauce choice mild,149,g,355,mg,7420,g,151,g,152,g,22,g,0,g,3,g,5,g
+581,quaker steak and lube,breaded boneless wings bucket with wing sauce choice original bbq,65,g,355,mg,6760,g,253,g,152,g,10,g,0,g,3,g,95,g
+582,quaker steak and lube,breaded boneless wings bucket with wing sauce choice parmesan pepper,155,g,535,mg,7780,g,151,g,152,g,28,g,0,g,3,g,5,g
+583,quaker steak and lube,breaded boneless wings bucket with wing sauce choice smoked jalapeno honey,65,g,355,mg,7600,g,259,g,152,g,10,g,0,g,3,g,113,g
+584,quaker steak and lube,breaded boneless wings bucket with wing sauce choice supercharged,68,g,355,mg,7780,g,157,g,152,g,10,g,0,g,9,g,5,g
+585,quaker steak and lube,breaded boneless wings bucket with wing sauce choice thai r cracker,65,g,355,mg,8020,g,283,g,152,g,10,g,0,g,3,g,131,g
+586,quaker steak and lube,breaded boneless wings bucket with wing sauce choice thaisian,92,g,355,mg,7870,g,235,g,152,g,15,g,0,g,3,g,83,g
+587,quaker steak and lube,breaded boneless wings bucket with wing sauce choice triple atomic,70,g,355,mg,8360,g,206,g,154,g,11,g,0,g,6,g,51,g
+588,quaker steak and lube,breaded boneless wings starter,16,g,90,mg,1390,g,40,g,38,g,3,g,0,g,2,g,2,g
+589,quaker steak and lube,breaded boneless wings starter with blue cheese dressing,46,g,110,mg,1880,g,41,g,40,g,6,g,0,g,2,g,4,g
+590,quaker steak and lube,breaded boneless wings starter with ranch dressing,38,g,110,mg,1930,g,42,g,38,g,6,g,0,g,2,g,4,g
+591,quaker steak and lube,breaded boneless wings starter with wing dust chipotle bbq,17,g,90,mg,1630,g,42,g,38,g,3,g,0,g,2,g,4,g
+592,quaker steak and lube,breaded boneless wings starter with wing dust ghost pepper seasoning,17,g,90,mg,1740,g,41,g,38,g,3,g,0,g,2,g,3,g
+593,quaker steak and lube,breaded boneless wings starter with wing dust mango habanero,16,g,90,mg,1750,g,44,g,38,g,3,g,0,g,2,g,6,g
+594,quaker steak and lube,breaded boneless wings starter with wing sauce choice arizona ranch,32,g,100,mg,3010,g,44,g,38,g,5,g,0,g,2,g,4,g
+595,quaker steak and lube,breaded boneless wings starter with wing sauce choice asian sesame,34,g,90,mg,2150,g,52,g,38,g,6,g,0,g,2,g,12,g
+596,quaker steak and lube,breaded boneless wings starter with wing sauce choice boom boom sauce,50,g,120,mg,1930,g,46,g,38,g,8,g,0,g,2,g,6,g
+597,quaker steak and lube,breaded boneless wings starter with wing sauce choice buckeye bbq,16,g,90,mg,1950,g,70,g,38,g,3,g,0,g,2,g,30,g
+598,quaker steak and lube,breaded boneless wings starter with wing sauce choice cajun,34,g,100,mg,2050,g,44,g,38,g,6,g,0,g,4,g,4,g
+599,quaker steak and lube,breaded boneless wings starter with wing sauce choice golden garlic,34,g,90,mg,2190,g,42,g,38,g,6,g,0,g,2,g,2,g
+600,quaker steak and lube,breaded boneless wings starter with wing sauce choice haute parm,33,g,95,mg,2290,g,43,g,40,g,6,g,0,g,3,g,2,g
+601,quaker steak and lube,breaded boneless wings starter with wing sauce choice hot,17,g,90,mg,3190,g,42,g,39,g,3,g,0,g,3,g,3,g
+602,quaker steak and lube,breaded boneless wings starter with wing sauce choice kentucky bourbon glaze,16,g,90,mg,2110,g,72,g,38,g,3,g,0,g,2,g,32,g
+603,quaker steak and lube,breaded boneless wings starter with wing sauce choice louisiana lickers,21,g,90,mg,2390,g,56,g,38,g,3,g,0,g,2,g,16,g
+604,quaker steak and lube,breaded boneless wings starter with wing sauce choice medium,40,g,90,mg,2390,g,42,g,38,g,7,g,0,g,2,g,2,g
+605,quaker steak and lube,breaded boneless wings starter with wing sauce choice mild,44,g,90,mg,2050,g,40,g,38,g,7,g,0,g,2,g,2,g
+606,quaker steak and lube,breaded boneless wings starter with wing sauce choice original bbq,16,g,90,mg,1830,g,74,g,38,g,3,g,0,g,2,g,32,g
+607,quaker steak and lube,breaded boneless wings starter with wing sauce choice parmesan pepper,46,g,150,mg,2170,g,40,g,38,g,9,g,0,g,2,g,2,g
+608,quaker steak and lube,breaded boneless wings starter with wing sauce choice smoked jalapeno honey,16,g,90,mg,2110,g,76,g,38,g,3,g,0,g,2,g,38,g
+609,quaker steak and lube,breaded boneless wings starter with wing sauce choice supercharged,17,g,90,mg,2170,g,42,g,38,g,3,g,0,g,4,g,2,g
+610,quaker steak and lube,breaded boneless wings starter with wing sauce choice thai r cracker,16,g,90,mg,2250,g,84,g,38,g,3,g,0,g,2,g,44,g
+611,quaker steak and lube,breaded boneless wings starter with wing sauce choice thaisian,25,g,90,mg,2200,g,68,g,38,g,4,g,0,g,2,g,28,g
+612,quaker steak and lube,breaded boneless wings starter with wing sauce choice triple atomic,18,g,90,mg,2360,g,58,g,39,g,3,g,0,g,3,g,18,g
+613,quaker steak and lube,breaded chicken club sandwich,39,g,170,mg,2160,g,55,g,57,g,13,g,0,g,2,g,6,g
+614,quaker steak and lube,bucket of breaded boneless wings 1 serving,7,g,35,mg,550,g,15,g,15,g,1,g,0,g,0,g,0,g
+615,quaker steak and lube,bucket of breaded boneless wings 1 serving with dressing choice bleu cheese dressing,8,g,35,mg,570,g,15,g,15,g,1,g,0,g,0,g,0,g
+616,quaker steak and lube,bucket of breaded boneless wings 1 serving with dressing choice ranch dressing,8,g,35,mg,570,g,15,g,15,g,1,g,0,g,0,g,0,g
+617,quaker steak and lube,bucket of breaded boneless wings 1 serving with wing dust chipotle bbq,7,g,35,mg,740,g,16,g,15,g,1,g,0,g,0,g,1,g
+618,quaker steak and lube,bucket of breaded boneless wings 1 serving with wing dust ghost pepper seasoning,7,g,35,mg,820,g,16,g,16,g,2,g,0,g,0,g,1,g
+619,quaker steak and lube,bucket of breaded boneless wings 1 serving with wing dust mango habanero,7,g,35,mg,830,g,18,g,15,g,1,g,0,g,0,g,3,g
+620,quaker steak and lube,bucket of breaded boneless wings 1 serving with wing sauce choice arizona ranch,13,g,40,mg,1190,g,16,g,15,g,2,g,0,g,0,g,1,g
+621,quaker steak and lube,bucket of breaded boneless wings 1 serving with wing sauce choice asian sesame,14,g,35,mg,850,g,20,g,15,g,2,g,0,g,0,g,4,g
+622,quaker steak and lube,bucket of breaded boneless wings 1 serving with wing sauce choice boom boom,20,g,50,mg,760,g,17,g,15,g,3,g,0,g,0,g,2,g
+623,quaker steak and lube,bucket of breaded boneless wings 1 serving with wing sauce choice buckeye bbq,7,g,35,mg,770,g,27,g,15,g,1,g,0,g,0,g,11,g
+624,quaker steak and lube,bucket of breaded boneless wings 1 serving with wing sauce choice cajun,14,g,40,mg,810,g,16,g,15,g,2,g,0,g,1,g,1,g
+625,quaker steak and lube,bucket of breaded boneless wings 1 serving with wing sauce choice garlic parm,17,g,35,mg,790,g,16,g,16,g,3,g,0,g,0,g,0,g
+626,quaker steak and lube,bucket of breaded boneless wings 1 serving with wing sauce choice golden garlic,14,g,35,mg,870,g,16,g,15,g,2,g,0,g,0,g,0,g
+627,quaker steak and lube,bucket of breaded boneless wings 1 serving with wing sauce choice haute parmesan,13,g,40,mg,900,g,16,g,16,g,2,g,0,g,1,g,0,g
+628,quaker steak and lube,bucket of breaded boneless wings 1 serving with wing sauce choice hot,7,g,35,mg,1270,g,16,g,16,g,1,g,0,g,1,g,1,g
+629,quaker steak and lube,bucket of breaded boneless wings 1 serving with wing sauce choice kentucky bourbon glaze,7,g,35,mg,830,g,28,g,15,g,1,g,0,g,0,g,12,g
+630,quaker steak and lube,bucket of breaded boneless wings 1 serving with wing sauce choice louisiana lickers,9,g,35,mg,950,g,21,g,15,g,1,g,0,g,0,g,6,g
+631,quaker steak and lube,bucket of breaded boneless wings 1 serving with wing sauce choice medium,16,g,35,mg,950,g,16,g,15,g,3,g,0,g,0,g,0,g
+632,quaker steak and lube,bucket of breaded boneless wings 1 serving with wing sauce choice mild,18,g,35,mg,810,g,15,g,15,g,3,g,0,g,0,g,0,g
+633,quaker steak and lube,bucket of breaded boneless wings 1 serving with wing sauce choice original bbq,7,g,35,mg,720,g,28,g,15,g,1,g,0,g,0,g,12,g
+634,quaker steak and lube,bucket of breaded boneless wings 1 serving with wing sauce choice parmesan pepper,19,g,60,mg,860,g,15,g,15,g,3,g,0,g,0,g,0,g
+635,quaker steak and lube,bucket of breaded boneless wings 1 serving with wing sauce choice ranch,15,g,40,mg,790,g,16,g,15,g,2,g,0,g,0,g,1,g
+636,quaker steak and lube,bucket of breaded boneless wings 1 serving with wing sauce choice smoked jalapeno honey,7,g,35,mg,830,g,29,g,15,g,1,g,0,g,0,g,15,g
+637,quaker steak and lube,bucket of breaded boneless wings 1 serving with wing sauce choice smoky gold bbq,7,g,35,mg,800,g,25,g,15,g,1,g,0,g,0,g,10,g
+638,quaker steak and lube,bucket of breaded boneless wings 1 serving with wing sauce choice supercharged,7,g,35,mg,860,g,16,g,15,g,1,g,0,g,1,g,0,g
+639,quaker steak and lube,bucket of breaded boneless wings 1 serving with wing sauce choice thai r cracker,7,g,35,mg,890,g,32,g,15,g,1,g,0,g,0,g,17,g
+640,quaker steak and lube,bucket of breaded boneless wings 1 serving with wing sauce choice thaisian,10,g,35,mg,870,g,26,g,15,g,2,g,0,g,0,g,11,g
+641,quaker steak and lube,bucket of breaded boneless wings 1 serving with wing sauce choice triple atomic,7,g,35,mg,940,g,22,g,16,g,1,g,0,g,1,g,6,g
+642,quaker steak and lube,bucket of breaded boneless wings 10 servings,65,g,360,mg,5460,g,148,g,154,g,10,g,0,g,2,g,2,g
+643,quaker steak and lube,bucket of breaded boneless wings 10 servings with dressing choice bleu cheese dressing,80,g,370,mg,5700,g,149,g,155,g,12,g,0,g,2,g,3,g
+644,quaker steak and lube,bucket of breaded boneless wings 10 servings with dressing choice ranch dressing,76,g,370,mg,5730,g,149,g,154,g,12,g,0,g,2,g,3,g
+645,quaker steak and lube,bucket of breaded boneless wings 10 servings with wing dust chipotle bbq,69,g,360,mg,7360,g,163,g,154,g,11,g,1,g,2,g,13,g
+646,quaker steak and lube,bucket of breaded boneless wings 10 servings with wing dust ghost pepper seasoning,73,g,360,mg,8240,g,159,g,155,g,16,g,0,g,4,g,6,g
+647,quaker steak and lube,bucket of breaded boneless wings 10 servings with wing dust mango habanero,67,g,360,mg,8350,g,185,g,155,g,10,g,0,g,3,g,29,g
+648,quaker steak and lube,bucket of breaded boneless wings 10 servings with wing sauce choice arizona ranch,129,g,400,mg,11940,g,164,g,154,g,18,g,0,g,2,g,10,g
+649,quaker steak and lube,bucket of breaded boneless wings 10 servings with wing sauce choice asian sesame,137,g,360,mg,8500,g,196,g,154,g,22,g,0,g,2,g,42,g
+650,quaker steak and lube,bucket of breaded boneless wings 10 servings with wing sauce choice boom boom,201,g,480,mg,7620,g,172,g,154,g,30,g,0,g,2,g,18,g
+651,quaker steak and lube,bucket of breaded boneless wings 10 servings with wing sauce choice buckeye bbq,65,g,360,mg,7700,g,268,g,154,g,10,g,0,g,2,g,114,g
+652,quaker steak and lube,bucket of breaded boneless wings 10 servings with wing sauce choice cajun,137,g,400,mg,8100,g,164,g,154,g,22,g,0,g,10,g,10,g
+653,quaker steak and lube,bucket of breaded boneless wings 10 servings with wing sauce choice garlic parm,173,g,370,mg,7920,g,159,g,160,g,29,g,0,g,3,g,3,g
+654,quaker steak and lube,bucket of breaded boneless wings 10 servings with wing sauce choice golden garlic,137,g,360,mg,8660,g,156,g,154,g,22,g,0,g,2,g,2,g
+655,quaker steak and lube,bucket of breaded boneless wings 10 servings with wing sauce choice haute parmesan,134,g,390,mg,9040,g,160,g,162,g,22,g,0,g,6,g,2,g
+656,quaker steak and lube,bucket of breaded boneless wings 10 servings with wing sauce choice hot,68,g,360,mg,12680,g,157,g,155,g,10,g,0,g,5,g,6,g
+657,quaker steak and lube,bucket of breaded boneless wings 10 servings with wing sauce choice kentucky bourbon glaze,65,g,360,mg,8340,g,276,g,154,g,10,g,0,g,2,g,122,g
+658,quaker steak and lube,bucket of breaded boneless wings 10 servings with wing sauce choice louisiana lickers,85,g,360,mg,9460,g,212,g,154,g,10,g,0,g,2,g,58,g
+659,quaker steak and lube,bucket of breaded boneless wings 10 servings with wing sauce choice medium,161,g,360,mg,9460,g,156,g,154,g,26,g,0,g,2,g,2,g
+660,quaker steak and lube,bucket of breaded boneless wings 10 servings with wing sauce choice mild,177,g,360,mg,8100,g,148,g,154,g,26,g,0,g,2,g,2,g
+661,quaker steak and lube,bucket of breaded boneless wings 10 servings with wing sauce choice original bbq,65,g,360,mg,7220,g,284,g,154,g,10,g,0,g,2,g,122,g
+662,quaker steak and lube,bucket of breaded boneless wings 10 servings with wing sauce choice parmesan pepper,185,g,600,mg,8580,g,148,g,154,g,34,g,0,g,2,g,2,g
+663,quaker steak and lube,bucket of breaded boneless wings 10 servings with wing sauce choice ranch,145,g,400,mg,7860,g,164,g,154,g,22,g,0,g,2,g,10,g
+664,quaker steak and lube,bucket of breaded boneless wings 10 servings with wing sauce choice smoked jalapeno honey,65,g,360,mg,8340,g,292,g,154,g,10,g,0,g,2,g,146,g
+665,quaker steak and lube,bucket of breaded boneless wings 10 servings with wing sauce choice smoky gold bbq,66,g,360,mg,7960,g,249,g,154,g,10,g,0,g,2,g,101,g
+666,quaker steak and lube,bucket of breaded boneless wings 10 servings with wing sauce choice supercharged,69,g,360,mg,8580,g,156,g,154,g,10,g,0,g,10,g,2,g
+667,quaker steak and lube,bucket of breaded boneless wings 10 servings with wing sauce choice thai r cracker,65,g,360,mg,8900,g,324,g,154,g,10,g,0,g,2,g,170,g
+668,quaker steak and lube,bucket of breaded boneless wings 10 servings with wing sauce choice thaisian,101,g,360,mg,8700,g,260,g,154,g,16,g,0,g,2,g,106,g
+669,quaker steak and lube,bucket of breaded boneless wings 10 servings with wing sauce choice triple atomic,72,g,360,mg,9350,g,222,g,155,g,12,g,0,g,5,g,64,g
+670,quaker steak and lube,bucket of lube chips 1 serving,92,g,70,mg,3070,g,125,g,26,g,31,g,0,g,11,g,9,g
+671,quaker steak and lube,caesar salad serves 10 15 1 serving,12,g,15,mg,790,g,22,g,10,g,3,g,0,g,3,g,3,g
+672,quaker steak and lube,caesar salad serves 10 15 1 serving with protein choice grilled chicken tenders,18,g,55,mg,1000,g,23,g,26,g,4,g,0,g,3,g,3,g
+673,quaker steak and lube,caesar salad serves 10 15 1 serving with protein choice grilled top sirloin steak,21,g,45,mg,860,g,22,g,22,g,7,g,0,g,3,g,3,g
+674,quaker steak and lube,caesar salad serves 10 15 15 servings,186,g,240,mg,11800,g,332,g,149,g,49,g,0,g,40,g,40,g
+675,quaker steak and lube,caesar salad serves 10 15 15 servings with protein choice grilled chicken tenders,263,g,835,mg,14940,g,339,g,385,g,63,g,0,g,41,g,46,g
+676,quaker steak and lube,caesar salad serves 10 15 15 servings with protein choice grilled top sirloin steak,315,g,710,mg,12940,g,332,g,330,g,101,g,0,g,40,g,40,g
+677,quaker steak and lube,caesar salad serves 4 6 1 serving,15,g,20,mg,980,g,28,g,12,g,4,g,0,g,3,g,3,g
+678,quaker steak and lube,caesar salad serves 4 6 1 serving with protein choice grilled chicken tenders,22,g,70,mg,1250,g,28,g,32,g,5,g,0,g,3,g,4,g
+679,quaker steak and lube,caesar salad serves 4 6 1 serving with protein choice grilled top sirloin steak,26,g,60,mg,1080,g,28,g,27,g,8,g,0,g,3,g,3,g
+680,quaker steak and lube,caesar salad serves 4 6 6 servings,93,g,120,mg,5900,g,166,g,75,g,24,g,0,g,20,g,20,g
+681,quaker steak and lube,caesar salad serves 4 6 6 servings with protein choice grilled chicken tenders,132,g,415,mg,7470,g,170,g,193,g,31,g,0,g,20,g,23,g
+682,quaker steak and lube,caesar salad serves 4 6 6 servings with protein choice grilled top sirloin steak,158,g,355,mg,6470,g,166,g,165,g,50,g,0,g,20,g,20,g
+683,quaker steak and lube,cajun blue cheese chips,89,g,55,mg,2320,g,62,g,14,g,19,g,0,g,7,g,3,g
+684,quaker steak and lube,celery carrots and ranch dip,22,g,20,mg,640,g,10,g,1,g,3,g,0,g,3,g,7,g
+685,quaker steak and lube,cheese curds and lube chips,82,g,235,mg,1990,g,26,g,56,g,44,g,0,g,1,g,3,g
+686,quaker steak and lube,cheesesteak melt,43,g,125,mg,1440,g,48,g,41,g,12,g,0,g,3,g,4,g
+687,quaker steak and lube,cherrilicious lemonade,0,g,0,mg,5,g,30,g,0,g,0,g,0,g,1,g,20,g
+688,quaker steak and lube,cherry lemonade,0,g,0,mg,20,g,29,g,0,g,0,g,0,g,0,g,26,g
+689,quaker steak and lube,cherry pop,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,7,g
+690,quaker steak and lube,chipotle chicken quesadillas,38,g,110,mg,1690,g,47,g,41,g,17,g,1,g,5,g,8,g
+691,quaker steak and lube,chocolate chunk cookies 1 cookie,18,g,20,mg,280,g,50,g,4,g,8,g,0,g,2,g,30,g
+692,quaker steak and lube,chocolate chunk cookies 12 cookies,216,g,240,mg,3360,g,600,g,48,g,96,g,0,g,24,g,360,g
+693,quaker steak and lube,chocolate chunk cookies 6 cookies,108,g,120,mg,1680,g,300,g,24,g,48,g,0,g,12,g,180,g
+694,quaker steak and lube,chocolate milkshake,15,g,40,mg,135,g,80,g,5,g,8,g,0,g,0,g,68,g
+695,quaker steak and lube,choice ribeye,78,g,500,mg,810,g,24,g,109,g,28,g,1,g,1,g,1,g
+696,quaker steak and lube,cinnamon latte hot cocoa,9,g,0,mg,150,g,45,g,1,g,4,g,0,g,1,g,28,g
+697,quaker steak and lube,classic fish and chips,60,g,115,mg,3130,g,123,g,46,g,10,g,0,g,8,g,16,g
+698,quaker steak and lube,coleslaw,7,g,0,mg,270,g,7,g,1,g,1,g,0,g,1,g,6,g
+699,quaker steak and lube,coleslaw 1 pint,33,g,0,mg,1370,g,37,g,4,g,5,g,0,g,6,g,30,g
+700,quaker steak and lube,coleslaw 1 quart,66,g,0,mg,2740,g,75,g,8,g,9,g,0,g,13,g,60,g
+701,quaker steak and lube,coronarita,0,g,0,mg,40,g,61,g,0,g,0,g,0,g,4,g,44,g
+702,quaker steak and lube,crispy chicken sliders,37,g,80,mg,2820,g,95,g,44,g,7,g,1,g,3,g,14,g
+703,quaker steak and lube,custom built combo bone in wings with wing dust chipotle bbq,49,g,155,mg,620,g,4,g,38,g,12,g,0,g,0,g,3,g
+704,quaker steak and lube,custom built combo bone in wings with wing dust ghost pepper seasoning,50,g,155,mg,850,g,3,g,38,g,13,g,0,g,1,g,1,g
+705,quaker steak and lube,custom built combo bone in wings with wing dust mango habanero,49,g,155,mg,870,g,9,g,38,g,12,g,0,g,0,g,7,g
+706,quaker steak and lube,custom built combo bone in wings with wing sauce choice arizona ranch,60,g,165,mg,1360,g,3,g,37,g,13,g,0,g,0,g,2,g
+707,quaker steak and lube,custom built combo bone in wings with wing sauce choice asian sesame,62,g,155,mg,720,g,9,g,37,g,14,g,0,g,0,g,8,g
+708,quaker steak and lube,custom built combo bone in wings with wing sauce choice boom boom sauce,74,g,180,mg,550,g,5,g,37,g,15,g,0,g,0,g,3,g
+709,quaker steak and lube,custom built combo bone in wings with wing sauce choice buckeye bbq,48,g,155,mg,570,g,23,g,37,g,11,g,0,g,0,g,21,g
+710,quaker steak and lube,custom built combo bone in wings with wing sauce choice cajun,62,g,165,mg,640,g,3,g,37,g,14,g,0,g,2,g,2,g
+711,quaker steak and lube,custom built combo bone in wings with wing sauce choice golden garlic,62,g,155,mg,750,g,2,g,37,g,14,g,0,g,0,g,0,g
+712,quaker steak and lube,custom built combo bone in wings with wing sauce choice haute parmesan,61,g,165,mg,820,g,2,g,39,g,14,g,0,g,1,g,0,g
+713,quaker steak and lube,custom built combo bone in wings with wing sauce choice hot,49,g,155,mg,1500,g,2,g,38,g,12,g,0,g,1,g,1,g
+714,quaker steak and lube,custom built combo bone in wings with wing sauce choice kentucky bourbon glaze,48,g,155,mg,690,g,24,g,37,g,11,g,0,g,0,g,23,g
+715,quaker steak and lube,custom built combo bone in wings with wing sauce choice louisiana lickers,52,g,155,mg,900,g,12,g,37,g,11,g,0,g,0,g,11,g
+716,quaker steak and lube,custom built combo bone in wings with wing sauce choice medium,66,g,155,mg,900,g,2,g,37,g,14,g,0,g,0,g,0,g
+717,quaker steak and lube,custom built combo bone in wings with wing sauce choice mild,69,g,155,mg,640,g,0,g,37,g,14,g,0,g,0,g,0,g
+718,quaker steak and lube,custom built combo bone in wings with wing sauce choice original bbq,48,g,155,mg,480,g,26,g,37,g,11,g,0,g,0,g,23,g
+719,quaker steak and lube,custom built combo bone in wings with wing sauce choice parmesan pepper,71,g,200,mg,730,g,0,g,37,g,16,g,0,g,0,g,0,g
+720,quaker steak and lube,custom built combo bone in wings with wing sauce choice smoked jalapeno honey,48,g,155,mg,690,g,27,g,37,g,11,g,0,g,0,g,27,g
+721,quaker steak and lube,custom built combo bone in wings with wing sauce choice supercharged,49,g,155,mg,730,g,2,g,37,g,11,g,0,g,2,g,0,g
+722,quaker steak and lube,custom built combo bone in wings with wing sauce choice thai r cracker,48,g,155,mg,790,g,33,g,37,g,11,g,0,g,0,g,32,g
+723,quaker steak and lube,custom built combo bone in wings with wing sauce choice thaisian,55,g,155,mg,760,g,21,g,37,g,13,g,0,g,0,g,20,g
+724,quaker steak and lube,custom built combo bone in wings with wing sauce choice triple atomic,50,g,155,mg,880,g,14,g,38,g,12,g,0,g,1,g,12,g
+725,quaker steak and lube,custom built combo breaded boneless wings with wing dust chipotle bbq,12,g,65,mg,1240,g,28,g,28,g,2,g,0,g,0,g,1,g
+726,quaker steak and lube,custom built combo breaded boneless wings with wing dust ghost pepper seasoning,13,g,65,mg,1350,g,28,g,29,g,3,g,0,g,0,g,0,g
+727,quaker steak and lube,custom built combo breaded boneless wings with wing dust mango habanero,12,g,65,mg,1360,g,31,g,28,g,2,g,0,g,0,g,3,g
+728,quaker steak and lube,custom built combo breaded boneless wings with wing sauce choice arizona ranch,28,g,75,mg,2620,g,31,g,28,g,4,g,0,g,0,g,2,g
+729,quaker steak and lube,custom built combo breaded boneless wings with wing sauce choice asian sesame,30,g,65,mg,1760,g,39,g,28,g,5,g,0,g,0,g,10,g
+730,quaker steak and lube,custom built combo breaded boneless wings with wing sauce choice boom boom sauce,46,g,95,mg,1540,g,33,g,28,g,7,g,0,g,0,g,4,g
+731,quaker steak and lube,custom built combo breaded boneless wings with wing sauce choice buckeye bbq,12,g,65,mg,1560,g,57,g,28,g,2,g,0,g,0,g,28,g
+732,quaker steak and lube,custom built combo breaded boneless wings with wing sauce choice cajun,30,g,75,mg,1660,g,31,g,28,g,5,g,0,g,2,g,2,g
+733,quaker steak and lube,custom built combo breaded boneless wings with wing sauce choice golden garlic,30,g,65,mg,1800,g,29,g,28,g,5,g,0,g,0,g,0,g
+734,quaker steak and lube,custom built combo breaded boneless wings with wing sauce choice haute parm,29,g,75,mg,1900,g,30,g,30,g,5,g,0,g,1,g,0,g
+735,quaker steak and lube,custom built combo breaded boneless wings with wing sauce choice hot,13,g,65,mg,2810,g,29,g,29,g,2,g,0,g,1,g,1,g
+736,quaker steak and lube,custom built combo breaded boneless wings with wing sauce choice kentucky bourbon glaze,12,g,65,mg,1720,g,59,g,28,g,2,g,0,g,0,g,30,g
+737,quaker steak and lube,custom built combo breaded boneless wings with wing sauce choice louisiana lickers,17,g,65,mg,2000,g,43,g,28,g,2,g,0,g,0,g,14,g
+738,quaker steak and lube,custom built combo breaded boneless wings with wing sauce choice medium,36,g,65,mg,2000,g,29,g,28,g,6,g,0,g,0,g,0,g
+739,quaker steak and lube,custom built combo breaded boneless wings with wing sauce choice mild,40,g,65,mg,1660,g,27,g,28,g,6,g,0,g,0,g,0,g
+740,quaker steak and lube,custom built combo breaded boneless wings with wing sauce choice original bbq,12,g,65,mg,1440,g,61,g,28,g,2,g,0,g,0,g,30,g
+741,quaker steak and lube,custom built combo breaded boneless wings with wing sauce choice parmesan pepper,42,g,125,mg,1780,g,27,g,28,g,8,g,0,g,0,g,0,g
+742,quaker steak and lube,custom built combo breaded boneless wings with wing sauce choice smoked jalapeno honey,12,g,65,mg,1720,g,63,g,28,g,2,g,0,g,0,g,36,g
+743,quaker steak and lube,custom built combo breaded boneless wings with wing sauce choice supercharged,13,g,65,mg,1780,g,29,g,28,g,2,g,0,g,2,g,0,g
+744,quaker steak and lube,custom built combo breaded boneless wings with wing sauce choice thai r cracker,12,g,65,mg,1860,g,71,g,28,g,2,g,0,g,0,g,42,g
+745,quaker steak and lube,custom built combo breaded boneless wings with wing sauce choice thaisian,21,g,65,mg,1810,g,55,g,28,g,3,g,0,g,0,g,26,g
+746,quaker steak and lube,custom built combo breaded boneless wings with wing sauce choice triple atomic,14,g,65,mg,1970,g,45,g,29,g,2,g,0,g,1,g,15,g
+747,quaker steak and lube,custom built combo grilled boneless wings with wing dust chipotle bbq,18,g,125,mg,1550,g,47,g,55,g,3,g,0,g,2,g,4,g
+748,quaker steak and lube,custom built combo grilled boneless wings with wing dust ghost pepper seasoning,19,g,125,mg,1770,g,46,g,56,g,4,g,0,g,3,g,2,g
+749,quaker steak and lube,custom built combo grilled boneless wings with wing dust mango habanero,17,g,125,mg,1800,g,53,g,55,g,3,g,0,g,2,g,8,g
+750,quaker steak and lube,custom built combo grilled boneless wings with wing sauce choice arizona ranch,29,g,130,mg,2290,g,47,g,55,g,4,g,0,g,2,g,3,g
+751,quaker steak and lube,custom built combo grilled boneless wings with wing sauce choice asian sesame,31,g,125,mg,1640,g,53,g,55,g,5,g,0,g,2,g,9,g
+752,quaker steak and lube,custom built combo grilled boneless wings with wing sauce choice boom boom sauce,43,g,145,mg,1480,g,48,g,55,g,7,g,0,g,2,g,4,g
+753,quaker steak and lube,custom built combo grilled boneless wings with wing sauce choice buckeye bbq,17,g,125,mg,1490,g,66,g,55,g,3,g,0,g,2,g,22,g
+754,quaker steak and lube,custom built combo grilled boneless wings with wing sauce choice cajun,31,g,130,mg,1570,g,47,g,55,g,5,g,0,g,4,g,3,g
+755,quaker steak and lube,custom built combo grilled boneless wings with wing sauce choice golden garlic,31,g,125,mg,1670,g,45,g,55,g,5,g,0,g,2,g,1,g
+756,quaker steak and lube,custom built combo grilled boneless wings with wing sauce choice haute parmesan,30,g,130,mg,1750,g,46,g,57,g,5,g,0,g,3,g,1,g
+757,quaker steak and lube,custom built combo grilled boneless wings with wing sauce choice hot,18,g,125,mg,2430,g,45,g,55,g,3,g,0,g,3,g,2,g
+758,quaker steak and lube,custom built combo grilled boneless wings with wing sauce choice kentucky bourbon glaze,17,g,125,mg,1610,g,68,g,55,g,3,g,0,g,2,g,24,g
+759,quaker steak and lube,custom built combo grilled boneless wings with wing sauce choice louisiana lickers,21,g,125,mg,1820,g,56,g,55,g,3,g,0,g,2,g,12,g
+760,quaker steak and lube,custom built combo grilled boneless wings with wing sauce choice medium,35,g,125,mg,1820,g,45,g,55,g,6,g,0,g,2,g,1,g
+761,quaker steak and lube,custom built combo grilled boneless wings with wing sauce choice mild,38,g,125,mg,1570,g,44,g,55,g,6,g,0,g,2,g,1,g
+762,quaker steak and lube,custom built combo grilled boneless wings with wing sauce choice original bbq,17,g,125,mg,1400,g,69,g,55,g,3,g,0,g,2,g,24,g
+763,quaker steak and lube,custom built combo grilled boneless wings with wing sauce choice parmesan pepper,40,g,170,mg,1660,g,44,g,55,g,7,g,0,g,2,g,1,g
+764,quaker steak and lube,custom built combo grilled boneless wings with wing sauce choice smoked jalapeno honey,17,g,125,mg,1610,g,71,g,55,g,3,g,0,g,2,g,28,g
+765,quaker steak and lube,custom built combo grilled boneless wings with wing sauce choice supercharged,18,g,125,mg,1660,g,45,g,55,g,3,g,0,g,4,g,1,g
+766,quaker steak and lube,custom built combo grilled boneless wings with wing sauce choice thai r cracker,17,g,125,mg,1720,g,77,g,55,g,3,g,0,g,2,g,33,g
+767,quaker steak and lube,custom built combo grilled boneless wings with wing sauce choice thaisian,24,g,125,mg,1680,g,65,g,55,g,4,g,0,g,2,g,21,g
+768,quaker steak and lube,custom built combo grilled boneless wings with wing sauce choice triple atomic,18,g,125,mg,1800,g,57,g,56,g,3,g,0,g,3,g,13,g
+769,quaker steak and lube,custom built combo o rings,10,g,0,mg,1640,g,49,g,4,g,1,g,0,g,0,g,20,g
+770,quaker steak and lube,custom built combo pick up pickles,29,g,20,mg,1780,g,31,g,4,g,4,g,0,g,3,g,6,g
+771,quaker steak and lube,custom built combo top gear tenders,9,g,105,mg,1610,g,47,g,46,g,2,g,0,g,2,g,1,g
+772,quaker steak and lube,custom built combo top gear tenders with wing sauce choice arizona ranch,25,g,115,mg,3230,g,51,g,46,g,4,g,0,g,2,g,3,g
+773,quaker steak and lube,custom built combo top gear tenders with wing sauce choice asian sesame,27,g,105,mg,2370,g,59,g,46,g,5,g,0,g,2,g,11,g
+774,quaker steak and lube,custom built combo top gear tenders with wing sauce choice boom boom sauce,43,g,135,mg,2150,g,53,g,46,g,7,g,0,g,2,g,5,g
+775,quaker steak and lube,custom built combo top gear tenders with wing sauce choice buckeye bbq,9,g,105,mg,2170,g,77,g,46,g,2,g,0,g,2,g,29,g
+776,quaker steak and lube,custom built combo top gear tenders with wing sauce choice cajun,27,g,115,mg,2270,g,51,g,46,g,5,g,0,g,4,g,3,g
+777,quaker steak and lube,custom built combo top gear tenders with wing sauce choice golden garlic,27,g,105,mg,2410,g,49,g,46,g,5,g,0,g,2,g,1,g
+778,quaker steak and lube,custom built combo top gear tenders with wing sauce choice haute parm,26,g,110,mg,2510,g,50,g,48,g,5,g,0,g,3,g,1,g
+779,quaker steak and lube,custom built combo top gear tenders with wing sauce choice hot,10,g,105,mg,3420,g,49,g,47,g,2,g,0,g,3,g,2,g
+780,quaker steak and lube,custom built combo top gear tenders with wing sauce choice kentucky bourbon glaze,9,g,105,mg,2330,g,79,g,46,g,2,g,0,g,2,g,31,g
+781,quaker steak and lube,custom built combo top gear tenders with wing sauce choice louisiana lickers,14,g,105,mg,2610,g,63,g,46,g,2,g,0,g,2,g,15,g
+782,quaker steak and lube,custom built combo top gear tenders with wing sauce choice medium,33,g,105,mg,2610,g,49,g,46,g,6,g,0,g,2,g,1,g
+783,quaker steak and lube,custom built combo top gear tenders with wing sauce choice mild,37,g,105,mg,2270,g,47,g,46,g,6,g,0,g,2,g,1,g
+784,quaker steak and lube,custom built combo top gear tenders with wing sauce choice original bbq,9,g,105,mg,2050,g,81,g,46,g,2,g,0,g,2,g,31,g
+785,quaker steak and lube,custom built combo top gear tenders with wing sauce choice parmesan pepper,39,g,165,mg,2390,g,47,g,46,g,8,g,0,g,2,g,1,g
+786,quaker steak and lube,custom built combo top gear tenders with wing sauce choice smoked jalapeno honey,9,g,105,mg,2330,g,83,g,46,g,2,g,0,g,2,g,37,g
+787,quaker steak and lube,custom built combo top gear tenders with wing sauce choice supercharged,10,g,105,mg,2390,g,49,g,46,g,2,g,0,g,4,g,1,g
+788,quaker steak and lube,custom built combo top gear tenders with wing sauce choice thai r cracker,9,g,105,mg,2470,g,91,g,46,g,2,g,0,g,2,g,43,g
+789,quaker steak and lube,custom built combo top gear tenders with wing sauce choice thaisian,18,g,105,mg,2420,g,75,g,46,g,3,g,0,g,2,g,27,g
+790,quaker steak and lube,custom built combo top gear tenders with wing sauce choice triple atomic,11,g,105,mg,2580,g,65,g,47,g,2,g,0,g,3,g,16,g
+791,quaker steak and lube,custom built combo baby back rib and top gear tenders,61,g,265,mg,1820,g,58,g,78,g,20,g,1,g,2,g,11,g
+792,quaker steak and lube,custom built combo baby back rib and top gear tenders with wing sauce choice arizona ranch,93,g,285,mg,5060,g,66,g,78,g,24,g,1,g,2,g,15,g
+793,quaker steak and lube,custom built combo baby back rib and top gear tenders with wing sauce choice asian sesame,97,g,265,mg,3340,g,82,g,78,g,26,g,1,g,2,g,31,g
+794,quaker steak and lube,custom built combo baby back rib and top gear tenders with wing sauce choice boom boom,129,g,325,mg,2900,g,70,g,78,g,30,g,1,g,2,g,19,g
+795,quaker steak and lube,custom built combo baby back rib and top gear tenders with wing sauce choice buckeye bbq,61,g,265,mg,2940,g,118,g,78,g,20,g,1,g,2,g,67,g
+796,quaker steak and lube,custom built combo baby back rib and top gear tenders with wing sauce choice cajun,97,g,285,mg,3140,g,66,g,78,g,26,g,1,g,6,g,15,g
+797,quaker steak and lube,custom built combo baby back rib and top gear tenders with wing sauce choice golden garlic,97,g,265,mg,3420,g,62,g,78,g,26,g,1,g,2,g,11,g
+798,quaker steak and lube,custom built combo baby back rib and top gear tenders with wing sauce choice haute parmesan,95,g,280,mg,3610,g,64,g,82,g,26,g,1,g,5,g,11,g
+799,quaker steak and lube,custom built combo baby back rib and top gear tenders with wing sauce choice hot,62,g,265,mg,5430,g,63,g,79,g,21,g,1,g,4,g,12,g
+800,quaker steak and lube,custom built combo baby back rib and top gear tenders with wing sauce choice kentucky bourbon glaze,61,g,265,mg,3260,g,122,g,78,g,20,g,1,g,2,g,71,g
+801,quaker steak and lube,custom built combo baby back rib and top gear tenders with wing sauce choice louisiana lickers,71,g,265,mg,3820,g,90,g,78,g,20,g,1,g,2,g,39,g
+802,quaker steak and lube,custom built combo baby back rib and top gear tenders with wing sauce choice medium,109,g,265,mg,3820,g,62,g,78,g,28,g,1,g,2,g,11,g
+803,quaker steak and lube,custom built combo baby back rib and top gear tenders with wing sauce choice mild,117,g,265,mg,3140,g,58,g,78,g,28,g,1,g,2,g,11,g
+804,quaker steak and lube,custom built combo baby back rib and top gear tenders with wing sauce choice original bbq,61,g,265,mg,2700,g,126,g,78,g,20,g,1,g,2,g,71,g
+805,quaker steak and lube,custom built combo baby back rib and top gear tenders with wing sauce choice parmesan pepper,121,g,385,mg,3380,g,58,g,78,g,32,g,1,g,2,g,11,g
+806,quaker steak and lube,custom built combo baby back rib and top gear tenders with wing sauce choice smoked jalapeno honey,61,g,265,mg,3260,g,130,g,78,g,20,g,1,g,2,g,83,g
+807,quaker steak and lube,custom built combo baby back rib and top gear tenders with wing sauce choice supercharged,63,g,265,mg,3380,g,62,g,78,g,20,g,1,g,6,g,11,g
+808,quaker steak and lube,custom built combo baby back rib and top gear tenders with wing sauce choice thai r cracker,61,g,265,mg,3540,g,146,g,78,g,20,g,1,g,2,g,95,g
+809,quaker steak and lube,custom built combo baby back rib and top gear tenders with wing sauce choice thaisian,79,g,265,mg,3440,g,114,g,78,g,23,g,1,g,2,g,63,g
+810,quaker steak and lube,custom built combo baby back rib and top gear tenders with wing sauce choice triple atomic,64,g,265,mg,3760,g,96,g,79,g,21,g,1,g,4,g,41,g
+811,quaker steak and lube,custom built combo baby back ribs and bone in wings,100,g,315,mg,350,g,12,g,70,g,30,g,2,g,1,g,10,g
+812,quaker steak and lube,custom built combo baby back ribs and bone in wings with wing sauce choice arizona ranch,132,g,335,mg,3590,g,20,g,70,g,34,g,2,g,1,g,14,g
+813,quaker steak and lube,custom built combo baby back ribs and bone in wings with wing sauce choice asian sesame,136,g,315,mg,1870,g,36,g,70,g,36,g,2,g,1,g,30,g
+814,quaker steak and lube,custom built combo baby back ribs and bone in wings with wing sauce choice boom boom,168,g,375,mg,1430,g,24,g,70,g,40,g,2,g,1,g,18,g
+815,quaker steak and lube,custom built combo baby back ribs and bone in wings with wing sauce choice buckeye bbq,100,g,315,mg,1470,g,72,g,70,g,30,g,2,g,1,g,66,g
+816,quaker steak and lube,custom built combo baby back ribs and bone in wings with wing sauce choice cajun,136,g,335,mg,1670,g,20,g,70,g,36,g,2,g,5,g,14,g
+817,quaker steak and lube,custom built combo baby back ribs and bone in wings with wing sauce choice golden garlic,136,g,315,mg,1950,g,16,g,70,g,36,g,2,g,1,g,10,g
+818,quaker steak and lube,custom built combo baby back ribs and bone in wings with wing sauce choice haute parmesan,134,g,330,mg,2150,g,18,g,74,g,36,g,2,g,3,g,10,g
+819,quaker steak and lube,custom built combo baby back ribs and bone in wings with wing sauce choice hot,101,g,315,mg,3970,g,16,g,71,g,30,g,2,g,3,g,11,g
+820,quaker steak and lube,custom built combo baby back ribs and bone in wings with wing sauce choice kentucky bourbon glaze,100,g,315,mg,1790,g,76,g,70,g,30,g,2,g,1,g,70,g
+821,quaker steak and lube,custom built combo baby back ribs and bone in wings with wing sauce choice louisiana lickers,110,g,315,mg,2350,g,44,g,70,g,30,g,2,g,1,g,38,g
+822,quaker steak and lube,custom built combo baby back ribs and bone in wings with wing sauce choice medium,148,g,315,mg,2350,g,16,g,70,g,38,g,2,g,1,g,10,g
+823,quaker steak and lube,custom built combo baby back ribs and bone in wings with wing sauce choice mild,156,g,315,mg,1670,g,12,g,70,g,38,g,2,g,1,g,10,g
+824,quaker steak and lube,custom built combo baby back ribs and bone in wings with wing sauce choice original bbq,100,g,315,mg,1230,g,80,g,70,g,30,g,2,g,1,g,70,g
+825,quaker steak and lube,custom built combo baby back ribs and bone in wings with wing sauce choice parmesan pepper,160,g,435,mg,1910,g,12,g,70,g,42,g,2,g,1,g,10,g
+826,quaker steak and lube,custom built combo baby back ribs and bone in wings with wing sauce choice smoked jalapeno honey,100,g,315,mg,1790,g,84,g,70,g,30,g,2,g,1,g,82,g
+827,quaker steak and lube,custom built combo baby back ribs and bone in wings with wing sauce choice supercharged,102,g,315,mg,1910,g,16,g,70,g,30,g,2,g,5,g,10,g
+828,quaker steak and lube,custom built combo baby back ribs and bone in wings with wing sauce choice thai r cracker,100,g,315,mg,2070,g,100,g,70,g,30,g,2,g,1,g,94,g
+829,quaker steak and lube,custom built combo baby back ribs and bone in wings with wing sauce choice thaisian,118,g,315,mg,1970,g,68,g,70,g,33,g,2,g,1,g,62,g
+830,quaker steak and lube,custom built combo baby back ribs and bone in wings with wing sauce choice triple atomic,103,g,315,mg,2300,g,49,g,71,g,31,g,2,g,2,g,40,g
+831,quaker steak and lube,custom built combo bavarian pretzels,15,g,25,mg,2160,g,64,g,14,g,7,g,0,g,2,g,4,g
+832,quaker steak and lube,custom built combo bone in wings,48,g,155,mg,150,g,0,g,37,g,11,g,0,g,0,g,0,g
+833,quaker steak and lube,custom built combo breaded boneless wings,12,g,65,mg,1000,g,27,g,28,g,2,g,0,g,0,g,0,g
+834,quaker steak and lube,custom built combo fried mozzarella,23,g,5,mg,1430,g,56,g,17,g,9,g,0,g,0,g,2,g
+835,quaker steak and lube,custom built combo grilled boneless wings,17,g,125,mg,1070,g,44,g,55,g,3,g,0,g,2,g,1,g
+836,quaker steak and lube,custom built combo loaded magna fries,83,g,130,mg,2330,g,63,g,32,g,29,g,0,g,6,g,6,g
+837,quaker steak and lube,custom sandwich platter serves 12 1 serving with sandwich choice breaded boneless chicken wrap,38,g,70,mg,2150,g,77,g,30,g,8,g,0,g,8,g,10,g
+838,quaker steak and lube,custom sandwich platter serves 12 1 serving with sandwich choice breaded chicken club,39,g,170,mg,2160,g,55,g,57,g,13,g,0,g,2,g,6,g
+839,quaker steak and lube,custom sandwich platter serves 12 1 serving with sandwich choice chicken caesar wrap,33,g,80,mg,1890,g,59,g,37,g,8,g,0,g,7,g,9,g
+840,quaker steak and lube,custom sandwich platter serves 12 1 serving with sandwich choice chicken club wrap,45,g,125,mg,2080,g,52,g,48,g,12,g,0,g,4,g,7,g
+841,quaker steak and lube,custom sandwich platter serves 12 1 serving with sandwich choice grilled boneless chicken wrap,41,g,80,mg,1760,g,59,g,32,g,8,g,0,g,7,g,10,g
+842,quaker steak and lube,custom sandwich platter serves 12 1 serving with sandwich choice grilled chicken club,39,g,170,mg,1700,g,34,g,54,g,13,g,0,g,1,g,6,g
+843,quaker steak and lube,custom sandwich platter serves 12 1 serving with sandwich choice steak caesar wrap,43,g,90,mg,1610,g,58,g,40,g,14,g,0,g,7,g,8,g
+844,quaker steak and lube,custom sandwich platter serves 12 1 serving with sandwich choice veggie wrap,44,g,75,mg,1380,g,65,g,25,g,16,g,0,g,8,g,12,g
+845,quaker steak and lube,custom sandwich platter serves 12 12 servings with sandwich choice breaded boneless chicken wrap,454,g,860,mg,25750,g,926,g,365,g,93,g,0,g,90,g,119,g
+846,quaker steak and lube,custom sandwich platter serves 12 12 servings with sandwich choice breaded chicken club,470,g,2050,mg,25950,g,660,g,685,g,153,g,4,g,26,g,77,g
+847,quaker steak and lube,custom sandwich platter serves 12 12 servings with sandwich choice chicken caesar wrap,395,g,955,mg,22700,g,706,g,443,g,99,g,0,g,86,g,104,g
+848,quaker steak and lube,custom sandwich platter serves 12 12 servings with sandwich choice chicken club wrap,535,g,1485,mg,24960,g,627,g,571,g,147,g,0,g,54,g,79,g
+849,quaker steak and lube,custom sandwich platter serves 12 12 servings with sandwich choice grilled boneless chicken wrap,488,g,955,mg,21160,g,710,g,380,g,99,g,0,g,83,g,120,g
+850,quaker steak and lube,custom sandwich platter serves 12 12 servings with sandwich choice grilled chicken club,465,g,2020,mg,20350,g,402,g,652,g,152,g,4,g,17,g,70,g
+851,quaker steak and lube,custom sandwich platter serves 12 12 servings with sandwich choice steak caesar wrap,511,g,1065,mg,19370,g,699,g,478,g,163,g,0,g,84,g,98,g
+852,quaker steak and lube,custom sandwich platter serves 12 12 servings with sandwich choice veggie wrap,534,g,900,mg,16510,g,775,g,300,g,193,g,0,g,93,g,148,g
+853,quaker steak and lube,custom sandwich platter serves 6 6 servings with sandwich choice breaded boneless chicken wrap,227,g,430,mg,12870,g,463,g,183,g,46,g,0,g,45,g,60,g
+854,quaker steak and lube,custom sandwich platter serves 6 6 servings with sandwich choice breaded chicken club,235,g,1025,mg,12980,g,330,g,343,g,76,g,2,g,13,g,39,g
+855,quaker steak and lube,custom sandwich platter serves 6 6 servings with sandwich choice chicken caesar wrap,197,g,475,mg,11350,g,353,g,222,g,49,g,0,g,43,g,52,g
+856,quaker steak and lube,custom sandwich platter serves 6 6 servings with sandwich choice chicken club wrap,267,g,740,mg,12480,g,314,g,285,g,74,g,0,g,27,g,39,g
+857,quaker steak and lube,custom sandwich platter serves 6 6 servings with sandwich choice grilled boneless chicken wrap,244,g,475,mg,10580,g,355,g,190,g,49,g,0,g,42,g,60,g
+858,quaker steak and lube,custom sandwich platter serves 6 6 servings with sandwich choice grilled chicken club,232,g,1010,mg,10170,g,201,g,326,g,76,g,2,g,9,g,35,g
+859,quaker steak and lube,custom sandwich platter serves 6 6 servings with sandwich choice steak caesar wrap,256,g,535,mg,9690,g,349,g,239,g,82,g,0,g,42,g,49,g
+860,quaker steak and lube,custom sandwich platter serves 6 6 servings with sandwich choice veggie wrap,267,g,450,mg,8260,g,388,g,150,g,96,g,0,g,46,g,74,g
+861,quaker steak and lube,dark and stormy,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,1,g,17,g
+862,quaker steak and lube,deep eddy peach palmer,0,g,0,mg,10,g,23,g,0,g,0,g,0,g,0,g,21,g
+863,quaker steak and lube,desert cactus margarita,0,g,0,mg,10,g,75,g,0,g,0,g,0,g,0,g,70,g
+864,quaker steak and lube,desert cactus margarita with sugar rim,0,g,0,mg,10,g,76,g,0,g,0,g,0,g,0,g,71,g
+865,quaker steak and lube,diet pepsi,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+866,quaker steak and lube,dr pepper,0,g,0,mg,60,g,47,g,0,g,0,g,0,g,0,g,47,g
+867,quaker steak and lube,duck duck goose,0,g,0,mg,0,g,22,g,0,g,0,g,0,g,0,g,12,g
+868,quaker steak and lube,electric lemonade,0,g,0,mg,55,g,36,g,0,g,0,g,0,g,1,g,28,g
+869,quaker steak and lube,feel like bacon love burger,58,g,215,mg,2040,g,46,g,60,g,22,g,0,g,1,g,18,g
+870,quaker steak and lube,fire bird,0,g,0,mg,0,g,22,g,0,g,0,g,0,g,0,g,14,g
+871,quaker steak and lube,french fries,17,g,0,mg,730,g,42,g,4,g,3,g,0,g,4,g,0,g
+872,quaker steak and lube,fresh baked idaho potato,3,g,0,mg,690,g,59,g,7,g,0,g,0,g,4,g,2,g
+873,quaker steak and lube,fresh baked idaho potato with sour cream,8,g,20,mg,710,g,60,g,7,g,4,g,0,g,4,g,3,g
+874,quaker steak and lube,fresh baked idaho potato with whipped butter,15,g,30,mg,790,g,59,g,7,g,9,g,0,g,4,g,2,g
+875,quaker steak and lube,fresh brewed coffee,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+876,quaker steak and lube,fresh brewed iced tea,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+877,quaker steak and lube,fresh brewed sweetened iced tea,0,g,0,mg,5,g,64,g,0,g,0,g,0,g,0,g,64,g
+878,quaker steak and lube,fresh steamed broccoli,0,g,0,mg,40,g,7,g,4,g,0,g,0,g,3,g,2,g
+879,quaker steak and lube,fresh steamed broccoli with beer cheese,10,g,25,mg,470,g,11,g,9,g,6,g,0,g,3,g,5,g
+880,quaker steak and lube,fried mozzarella,38,g,5,mg,2380,g,97,g,30,g,16,g,0,g,0,g,3,g
+881,quaker steak and lube,fried pickles tray 1 serving,16,g,0,mg,3090,g,73,g,10,g,2,g,0,g,7,g,10,g
+882,quaker steak and lube,fried pickles tray with farmhouse ranch dressing,82,g,60,mg,4710,g,79,g,10,g,11,g,0,g,7,g,16,g
+883,quaker steak and lube,fried pickles tray with jalapeno ranch dressing,106,g,90,mg,4590,g,79,g,10,g,17,g,0,g,7,g,16,g
+884,quaker steak and lube,fudge brownies 1 brownie,30,g,15,mg,90,g,57,g,6,g,11,g,0,g,3,g,45,g
+885,quaker steak and lube,fudge brownies 12 brownies,360,g,180,mg,1080,g,684,g,72,g,126,g,0,g,36,g,540,g
+886,quaker steak and lube,fudge brownies 6 brownies,180,g,90,mg,540,g,342,g,36,g,63,g,0,g,18,g,270,g
+887,quaker steak and lube,fully loaded nachos with pork carnitas,83,g,245,mg,3290,g,121,g,68,g,41,g,0,g,9,g,13,g
+888,quaker steak and lube,fully loaded nachos with pulled chicken,70,g,235,mg,2690,g,122,g,73,g,37,g,0,g,9,g,14,g
+889,quaker steak and lube,garage salad serves 10 15 1 serving,7,g,20,mg,170,g,8,g,7,g,4,g,0,g,3,g,3,g
+890,quaker steak and lube,garage salad serves 10 15 1 serving with dressing choice balsamic vinaigrette,12,g,20,mg,370,g,12,g,7,g,5,g,0,g,3,g,7,g
+891,quaker steak and lube,garage salad serves 10 15 1 serving with dressing choice bleu cheese,22,g,30,mg,430,g,8,g,8,g,6,g,0,g,3,g,3,g
+892,quaker steak and lube,garage salad serves 10 15 1 serving with dressing choice chipotle ranch,18,g,30,mg,490,g,9,g,7,g,6,g,0,g,3,g,4,g
+893,quaker steak and lube,garage salad serves 10 15 1 serving with dressing choice farmhouse ranch,18,g,30,mg,460,g,9,g,7,g,6,g,0,g,3,g,4,g
+894,quaker steak and lube,garage salad serves 10 15 1 serving with dressing choice fat free italian,7,g,20,mg,690,g,11,g,7,g,4,g,0,g,3,g,5,g
+895,quaker steak and lube,garage salad serves 10 15 1 serving with dressing choice jalapeno ranch,23,g,35,mg,430,g,9,g,7,g,7,g,0,g,3,g,4,g
+896,quaker steak and lube,garage salad serves 10 15 1 serving with dressing choice northern italian,22,g,20,mg,530,g,9,g,7,g,6,g,0,g,3,g,3,g
+897,quaker steak and lube,garage salad serves 10 15 1 serving with dressing choice olive oil and balsamic vinegar,22,g,20,mg,170,g,11,g,7,g,6,g,0,g,3,g,6,g
+898,quaker steak and lube,garage salad serves 10 15 1 serving with dressing choice sweet vidalia onion,16,g,20,mg,290,g,17,g,7,g,6,g,0,g,3,g,12,g
+899,quaker steak and lube,garage salad serves 10 15 1 serving with dressing choice wildberry poppyseed,15,g,30,mg,380,g,17,g,7,g,5,g,0,g,3,g,10,g
+900,quaker steak and lube,garage salad serves 10 15 1 serving with protein choice grilled chicken tenders,12,g,60,mg,380,g,8,g,23,g,5,g,0,g,3,g,3,g
+901,quaker steak and lube,garage salad serves 10 15 1 serving with protein choice grilled top sirloin steak,15,g,50,mg,240,g,8,g,19,g,8,g,0,g,3,g,3,g
+902,quaker steak and lube,garage salad serves 10 15 15 servings,99,g,300,mg,2510,g,114,g,108,g,60,g,0,g,48,g,41,g
+903,quaker steak and lube,garage salad serves 10 15 15 servings with dressing choice balsamic vinaigrette,179,g,300,mg,5550,g,178,g,108,g,68,g,0,g,48,g,105,g
+904,quaker steak and lube,garage salad serves 10 15 15 servings with dressing choice bleu cheese,335,g,455,mg,6450,g,126,g,126,g,91,g,0,g,50,g,51,g
+905,quaker steak and lube,garage salad serves 10 15 15 servings with dressing choice chipotle ranch,276,g,460,mg,7310,g,134,g,108,g,85,g,0,g,49,g,60,g
+906,quaker steak and lube,garage salad serves 10 15 15 servings with dressing choice farmhouse ranch,275,g,460,mg,6830,g,130,g,108,g,84,g,0,g,48,g,57,g
+907,quaker steak and lube,garage salad serves 10 15 15 servings with dressing choice fat free italian,99,g,300,mg,10350,g,162,g,108,g,60,g,0,g,48,g,73,g
+908,quaker steak and lube,garage salad serves 10 15 15 servings with dressing choice jalapeno ranch,339,g,540,mg,6510,g,130,g,108,g,100,g,0,g,48,g,57,g
+909,quaker steak and lube,garage salad serves 10 15 15 servings with dressing choice northern italian,323,g,300,mg,7950,g,130,g,108,g,92,g,0,g,48,g,41,g
+910,quaker steak and lube,garage salad serves 10 15 15 servings with dressing choice olive oil and balsamic vinegar,323,g,300,mg,2510,g,162,g,108,g,92,g,0,g,48,g,89,g
+911,quaker steak and lube,garage salad serves 10 15 15 servings with dressing choice sweet vidalia onion,243,g,300,mg,4270,g,258,g,108,g,84,g,0,g,48,g,185,g
+912,quaker steak and lube,garage salad serves 10 15 15 servings with dressing choice wildberry poppyseed,219,g,480,mg,5640,g,250,g,108,g,78,g,0,g,51,g,154,g
+913,quaker steak and lube,garage salad serves 10 15 15 servings with protein choice grilled chicken tenders,177,g,895,mg,5650,g,122,g,345,g,75,g,0,g,49,g,47,g
+914,quaker steak and lube,garage salad serves 10 15 15 servings with protein choice grilled top sirloin steak,229,g,770,mg,3650,g,115,g,289,g,113,g,0,g,49,g,41,g
+915,quaker steak and lube,garage salad serves 4 6 1 serving,8,g,25,mg,210,g,9,g,9,g,5,g,0,g,4,g,3,g
+916,quaker steak and lube,garage salad serves 4 6 1 serving with dressing choice balsamic vinaigrette,15,g,25,mg,460,g,15,g,9,g,6,g,0,g,4,g,9,g
+917,quaker steak and lube,garage salad serves 4 6 1 serving with dressing choice bleu cheese,28,g,40,mg,540,g,11,g,11,g,8,g,0,g,4,g,4,g
+918,quaker steak and lube,garage salad serves 4 6 1 serving with dressing choice chipotle ranch,23,g,40,mg,610,g,11,g,9,g,7,g,0,g,4,g,5,g
+919,quaker steak and lube,garage salad serves 4 6 1 serving with dressing choice farmhouse ranch,23,g,40,mg,570,g,11,g,9,g,7,g,0,g,4,g,5,g
+920,quaker steak and lube,garage salad serves 4 6 1 serving with dressing choice fat free italian,8,g,25,mg,860,g,13,g,9,g,5,g,0,g,4,g,6,g
+921,quaker steak and lube,garage salad serves 4 6 1 serving with dressing choice jalapeno ranch,28,g,45,mg,540,g,11,g,9,g,8,g,0,g,4,g,5,g
+922,quaker steak and lube,garage salad serves 4 6 1 serving with dressing choice northern italian,27,g,25,mg,660,g,11,g,9,g,8,g,0,g,4,g,3,g
+923,quaker steak and lube,garage salad serves 4 6 1 serving with dressing choice olive oil and balsamic vinaigrette,27,g,25,mg,210,g,13,g,9,g,8,g,0,g,4,g,7,g
+924,quaker steak and lube,garage salad serves 4 6 1 serving with dressing choice sweet vidalia onion,20,g,25,mg,360,g,21,g,9,g,7,g,0,g,4,g,15,g
+925,quaker steak and lube,garage salad serves 4 6 1 serving with dressing choice wildberry poppyseed,18,g,40,mg,470,g,21,g,9,g,7,g,0,g,4,g,13,g
+926,quaker steak and lube,garage salad serves 4 6 1 serving with protein choice grilled chicken tenders,15,g,75,mg,470,g,10,g,29,g,6,g,0,g,4,g,4,g
+927,quaker steak and lube,garage salad serves 4 6 1 serving with protein choice grilled top sirloin steak,19,g,65,mg,300,g,10,g,24,g,9,g,0,g,4,g,3,g
+928,quaker steak and lube,garage salad serves 4 6 6 servings,50,g,150,mg,1260,g,57,g,54,g,30,g,0,g,24,g,21,g
+929,quaker steak and lube,garage salad serves 4 6 6 servings with dressing choice balsamic vinaigrette,90,g,150,mg,2780,g,89,g,54,g,34,g,0,g,24,g,53,g
+930,quaker steak and lube,garage salad serves 4 6 6 servings with dressing choice bleu cheese,168,g,230,mg,3220,g,63,g,63,g,45,g,0,g,25,g,26,g
+931,quaker steak and lube,garage salad serves 4 6 6 servings with dressing choice chipotle ranch,138,g,230,mg,3650,g,67,g,54,g,42,g,0,g,24,g,30,g
+932,quaker steak and lube,garage salad serves 4 6 6 servings with dressing choice farmhouse ranch,138,g,230,mg,3420,g,65,g,54,g,42,g,0,g,24,g,29,g
+933,quaker steak and lube,garage salad serves 4 6 6 servings with dressing choice fat free italian,50,g,150,mg,5180,g,81,g,54,g,30,g,0,g,24,g,37,g
+934,quaker steak and lube,garage salad serves 4 6 6 servings with dressing choice jalapeno ranch,170,g,270,mg,3260,g,65,g,54,g,50,g,0,g,24,g,29,g
+935,quaker steak and lube,garage salad serves 4 6 6 servings with dressing choice northern italian,162,g,150,mg,3980,g,65,g,54,g,46,g,0,g,24,g,21,g
+936,quaker steak and lube,garage salad serves 4 6 6 servings with dressing choice olive oil and balsamic vinaigrette,162,g,150,mg,1260,g,81,g,54,g,46,g,0,g,24,g,45,g
+937,quaker steak and lube,garage salad serves 4 6 6 servings with dressing choice sweet vidalia onion,122,g,150,mg,2140,g,129,g,54,g,42,g,0,g,24,g,93,g
+938,quaker steak and lube,garage salad serves 4 6 6 servings with dressing choice wildberry poppyseed,110,g,240,mg,2820,g,125,g,54,g,39,g,0,g,26,g,77,g
+939,quaker steak and lube,garage salad serves 4 6 6 servings with protein choice grilled chicken tenders,88,g,445,mg,2830,g,61,g,172,g,37,g,0,g,25,g,24,g
+940,quaker steak and lube,garage salad serves 4 6 6 servings with protein choice grilled top sirloin steak,114,g,385,mg,1830,g,57,g,145,g,56,g,0,g,24,g,21,g
+941,quaker steak and lube,garlic bread 1 slice,9,g,0,mg,280,g,17,g,3,g,2,g,0,g,1,g,0,g
+942,quaker steak and lube,grape moscato sangria,0,g,0,mg,0,g,33,g,0,g,0,g,0,g,1,g,23,g
+943,quaker steak and lube,grape sangria,0,g,0,mg,0,g,35,g,1,g,0,g,0,g,2,g,24,g
+944,quaker steak and lube,greek nachos,75,g,145,mg,3890,g,106,g,42,g,27,g,0,g,8,g,5,g
+945,quaker steak and lube,grilled boneless chicken wrap,41,g,80,mg,1760,g,59,g,32,g,8,g,0,g,7,g,10,g
+946,quaker steak and lube,grilled boneless wings and pick up pickles,24,g,125,mg,2530,g,76,g,60,g,4,g,0,g,6,g,7,g
+947,quaker steak and lube,grilled boneless wings and pick up pickles with jalapeno ranch dressing,54,g,155,mg,3030,g,78,g,60,g,9,g,0,g,6,g,9,g
+948,quaker steak and lube,grilled boneless wings and pick up pickles with ranch dressing,46,g,145,mg,3070,g,78,g,60,g,7,g,0,g,6,g,9,g
+949,quaker steak and lube,grilled boneless wings and pick up pickles with wing dust chipotle bbq,25,g,125,mg,3000,g,80,g,61,g,4,g,0,g,6,g,10,g
+950,quaker steak and lube,grilled boneless wings and pick up pickles with wing dust ghost pepper seasoning,26,g,125,mg,3220,g,79,g,61,g,5,g,0,g,6,g,8,g
+951,quaker steak and lube,grilled boneless wings and pick up pickles with wing dust mango habanero,25,g,125,mg,3250,g,86,g,61,g,4,g,0,g,6,g,14,g
+952,quaker steak and lube,grilled boneless wings and pick up pickles with wing sauce choice arizona ranch,36,g,130,mg,3740,g,79,g,60,g,6,g,0,g,6,g,9,g
+953,quaker steak and lube,grilled boneless wings and pick up pickles with wing sauce choice asian sesame,38,g,125,mg,3100,g,85,g,60,g,6,g,0,g,6,g,15,g
+954,quaker steak and lube,grilled boneless wings and pick up pickles with wing sauce choice boom boom sauce,50,g,145,mg,2930,g,81,g,60,g,8,g,0,g,6,g,10,g
+955,quaker steak and lube,grilled boneless wings and pick up pickles with wing sauce choice buckeye bbq,24,g,125,mg,2950,g,99,g,60,g,4,g,0,g,6,g,28,g
+956,quaker steak and lube,grilled boneless wings and pick up pickles with wing sauce choice cajun,38,g,130,mg,3020,g,79,g,60,g,6,g,0,g,7,g,9,g
+957,quaker steak and lube,grilled boneless wings and pick up pickles with wing sauce choice golden garlic,38,g,125,mg,3130,g,78,g,60,g,6,g,0,g,6,g,7,g
+958,quaker steak and lube,grilled boneless wings and pick up pickles with wing sauce choice haute parmesan,37,g,130,mg,3200,g,79,g,62,g,6,g,0,g,7,g,7,g
+959,quaker steak and lube,grilled boneless wings and pick up pickles with wing sauce choice hot,25,g,125,mg,3880,g,78,g,61,g,4,g,0,g,7,g,8,g
+960,quaker steak and lube,grilled boneless wings and pick up pickles with wing sauce choice kentucky bourbon glaze,24,g,125,mg,3070,g,100,g,60,g,4,g,0,g,6,g,30,g
+961,quaker steak and lube,grilled boneless wings and pick up pickles with wing sauce choice louisiana lickers,28,g,125,mg,3280,g,88,g,60,g,4,g,0,g,6,g,18,g
+962,quaker steak and lube,grilled boneless wings and pick up pickles with wing sauce choice medium,42,g,125,mg,3280,g,78,g,60,g,7,g,0,g,6,g,7,g
+963,quaker steak and lube,grilled boneless wings and pick up pickles with wing sauce choice mild,45,g,125,mg,3020,g,76,g,60,g,7,g,0,g,6,g,7,g
+964,quaker steak and lube,grilled boneless wings and pick up pickles with wing sauce choice original bbq,24,g,125,mg,2860,g,102,g,60,g,4,g,0,g,6,g,30,g
+965,quaker steak and lube,grilled boneless wings and pick up pickles with wing sauce choice parmesan pepper,47,g,170,mg,3110,g,76,g,60,g,9,g,0,g,6,g,7,g
+966,quaker steak and lube,grilled boneless wings and pick up pickles with wing sauce choice smoked jalapeno honey,24,g,125,mg,3070,g,103,g,60,g,4,g,0,g,6,g,34,g
+967,quaker steak and lube,grilled boneless wings and pick up pickles with wing sauce choice supercharged,25,g,125,mg,3110,g,78,g,60,g,4,g,0,g,7,g,7,g
+968,quaker steak and lube,grilled boneless wings and pick up pickles with wing sauce choice thai r cracker,24,g,125,mg,3170,g,109,g,60,g,4,g,0,g,6,g,39,g
+969,quaker steak and lube,grilled boneless wings and pick up pickles with wing sauce choice thaisian,31,g,125,mg,3140,g,97,g,60,g,5,g,0,g,6,g,27,g
+970,quaker steak and lube,grilled boneless wings and pick up pickles with wing sauce choice triple atomic,26,g,125,mg,3260,g,90,g,61,g,4,g,0,g,7,g,19,g
+971,quaker steak and lube,grilled boneless wings and steamed broccoli,28,g,150,mg,1740,g,59,g,65,g,9,g,0,g,6,g,8,g
+972,quaker steak and lube,grilled boneless wings and steamed broccoli with wing dust chipotle bbq,29,g,150,mg,2220,g,62,g,65,g,9,g,0,g,6,g,11,g
+973,quaker steak and lube,grilled boneless wings and steamed broccoli with wing dust ghost pepper seasoning,30,g,150,mg,2440,g,61,g,66,g,10,g,0,g,7,g,9,g
+974,quaker steak and lube,grilled boneless wings and steamed broccoli with wing dust mango habanero,28,g,150,mg,2470,g,68,g,65,g,9,g,0,g,6,g,15,g
+975,quaker steak and lube,grilled boneless wings and steamed broccoli with wing sauce choice arizona ranch,40,g,155,mg,2960,g,62,g,65,g,10,g,0,g,6,g,10,g
+976,quaker steak and lube,grilled boneless wings and steamed broccoli with wing sauce choice asian sesame,41,g,150,mg,2310,g,68,g,65,g,11,g,0,g,6,g,16,g
+977,quaker steak and lube,grilled boneless wings and steamed broccoli with wing sauce choice boom boom sauce,53,g,170,mg,2150,g,63,g,65,g,13,g,0,g,6,g,11,g
+978,quaker steak and lube,grilled boneless wings and steamed broccoli with wing sauce choice buckeye bbq,28,g,150,mg,2160,g,81,g,65,g,9,g,0,g,6,g,29,g
+979,quaker steak and lube,grilled boneless wings and steamed broccoli with wing sauce choice cajun,41,g,155,mg,2240,g,62,g,65,g,11,g,0,g,7,g,10,g
+980,quaker steak and lube,grilled boneless wings and steamed broccoli with wing sauce choice golden garlic,41,g,150,mg,2340,g,60,g,65,g,11,g,0,g,6,g,8,g
+981,quaker steak and lube,grilled boneless wings and steamed broccoli with wing sauce choice haute parmesan,41,g,155,mg,2420,g,61,g,67,g,11,g,0,g,7,g,8,g
+982,quaker steak and lube,grilled boneless wings and steamed broccoli with wing sauce choice hot,28,g,150,mg,3100,g,60,g,65,g,9,g,0,g,7,g,9,g
+983,quaker steak and lube,grilled boneless wings and steamed broccoli with wing sauce choice kentucky bourbon glaze,28,g,150,mg,2280,g,83,g,65,g,9,g,0,g,6,g,31,g
+984,quaker steak and lube,grilled boneless wings and steamed broccoli with wing sauce choice louisiana lickers,32,g,150,mg,2490,g,71,g,65,g,9,g,0,g,6,g,19,g
+985,quaker steak and lube,grilled boneless wings and steamed broccoli with wing sauce choice medium,46,g,150,mg,2490,g,60,g,65,g,12,g,0,g,6,g,8,g
+986,quaker steak and lube,grilled boneless wings and steamed broccoli with wing sauce choice mild,49,g,150,mg,2240,g,59,g,65,g,12,g,0,g,6,g,8,g
+987,quaker steak and lube,grilled boneless wings and steamed broccoli with wing sauce choice original bbq,28,g,150,mg,2070,g,84,g,65,g,9,g,0,g,6,g,31,g
+988,quaker steak and lube,grilled boneless wings and steamed broccoli with wing sauce choice parmesan pepper,50,g,195,mg,2330,g,59,g,65,g,13,g,0,g,6,g,8,g
+989,quaker steak and lube,grilled boneless wings and steamed broccoli with wing sauce choice smoked jalapeno honey,28,g,150,mg,2280,g,86,g,65,g,9,g,0,g,6,g,35,g
+990,quaker steak and lube,grilled boneless wings and steamed broccoli with wing sauce choice supercharged,29,g,150,mg,2330,g,60,g,65,g,9,g,0,g,7,g,8,g
+991,quaker steak and lube,grilled boneless wings and steamed broccoli with wing sauce choice thai r cracker,28,g,150,mg,2390,g,92,g,65,g,9,g,0,g,6,g,40,g
+992,quaker steak and lube,grilled boneless wings and steamed broccoli with wing sauce choice thaisian,35,g,150,mg,2350,g,80,g,65,g,10,g,0,g,6,g,28,g
+993,quaker steak and lube,grilled boneless wings and steamed broccoli with wing sauce choice triple atomic,29,g,150,mg,2470,g,73,g,66,g,9,g,0,g,7,g,20,g
+994,quaker steak and lube,grilled boneless wings 12 1 serving,10,g,75,mg,710,g,32,g,34,g,2,g,0,g,2,g,1,g
+995,quaker steak and lube,grilled boneless wings 12 1 serving with wing dust chipotle bbq,12,g,75,mg,1780,g,41,g,34,g,2,g,0,g,2,g,6,g
+996,quaker steak and lube,grilled boneless wings 12 1 serving with wing dust ghost pepper seasoning,14,g,75,mg,2020,g,38,g,35,g,4,g,0,g,3,g,2,g
+997,quaker steak and lube,grilled boneless wings 12 1 serving with wing dust mango habanero,11,g,75,mg,1560,g,43,g,34,g,2,g,0,g,2,g,9,g
+998,quaker steak and lube,grilled boneless wings 12 1 serving with wing sauce choice arizona ranch,20,g,80,mg,1720,g,35,g,34,g,3,g,0,g,2,g,2,g
+999,quaker steak and lube,grilled boneless wings 12 1 serving with wing sauce choice asian sesame,22,g,75,mg,1180,g,40,g,34,g,4,g,0,g,2,g,7,g

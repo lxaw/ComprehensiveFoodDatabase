@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,churchs chicken,gold peak sweet black tea regular,0,g,0,mg,25,g,62,g,0,g,0,g,0,g,0,g,62,g
+1,churchs chicken,gold peak unsweet black tea large,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+2,churchs chicken,gold peak unsweet black tea regular,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+3,churchs chicken,green beans large,2.5,g,5,mg,2520,g,23,g,9,g,0,g,0,g,8,g,6,g
+4,churchs chicken,green beans regular,1,g,0,mg,840,g,8,g,3,g,0,g,0,g,3,g,2,g
+5,churchs chicken,grits,5,g,0,mg,5,g,23,g,2,g,1,g,0,g,0,g,0,g
+6,churchs chicken,hamburger,35,g,100,mg,920,g,26,g,27,g,12,g,0,g,1,g,4,g
+7,churchs chicken,hashrounds,14,g,0,mg,250,g,18,g,2,g,2.5,g,0,g,0,g,0,g
+8,churchs chicken,hi c fruit punch large,0,g,0,mg,50,g,115,g,0,g,0,g,0,g,0,g,113,g
+9,churchs chicken,hi c fruit punch regular,0,g,0,mg,40,g,85,g,0,g,0,g,0,g,0,g,83,g
+10,churchs chicken,hi c pink lemonade large,0,g,0,mg,180,g,107,g,0,g,0,g,0,g,0,g,102,g
+11,churchs chicken,hi c pink lemonade regular,0,g,0,mg,130,g,79,g,0,g,0,g,0,g,0,g,75,g
+12,churchs chicken,honey bbq sauce,0,g,0,mg,200,g,11,g,0,g,0,g,0,g,0,g,10,g
+13,churchs chicken,honey mustard sauce,13,g,10,mg,160,g,4,g,1,g,2,g,0,g,0,g,4,g
+14,churchs chicken,honey sauce,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,0,g,17,g
+15,churchs chicken,honey butter biscuit,15,g,0,mg,460,g,25,g,3,g,8,g,0,g,1,g,5,g
+16,churchs chicken,jalapeno cheese bombers 4,11,g,15,mg,690,g,24,g,6,g,4.5,g,0,g,1,g,1,g
+17,churchs chicken,jalapeno cheese bombers 8,22,g,25,mg,1370,g,48,g,11,g,9,g,0.5,g,2,g,3,g
+18,churchs chicken,jalapeno pepper,0,g,0,mg,170,g,1,g,0,g,0,g,0,g,0,g,2,g
+19,churchs chicken,ketchup,0,g,0,mg,65,g,2,g,0,g,0,g,0,g,0,g,2,g
+20,churchs chicken,livers snack,28,g,360,mg,720,g,28,g,25,g,6,g,0,g,1,g,0,g
+21,churchs chicken,mashed potatoes and gravy large,3.5,g,0,mg,1950,g,71,g,6,g,1,g,1,g,5,g,5,g
+22,churchs chicken,mashed potatoes and gravy regular,1,g,0,mg,650,g,24,g,2,g,0,g,0,g,2,g,2,g
+23,churchs chicken,mello yello large,0,g,0,mg,35,g,115,g,0,g,0,g,0,g,0,g,115,g
+24,churchs chicken,mello yello regular,0,g,0,mg,25,g,84,g,0,g,0,g,0,g,0,g,84,g
+25,churchs chicken,milk 2,5,g,20,mg,125,g,12,g,8,g,3,g,0,g,0,g,12,g
+26,churchs chicken,minute maid lemonade light large,0,g,0,mg,20,g,5,g,0,g,0,g,0,g,0,g,0,g
+27,churchs chicken,minute maid lemonade light regular,0,g,0,mg,15,g,4,g,0,g,0,g,0,g,0,g,0,g
+28,churchs chicken,minute maid lemonade large,0,g,0,mg,180,g,108,g,0,g,0,g,0,g,0,g,102,g
+29,churchs chicken,minute maid lemonade regular,0,g,0,mg,130,g,79,g,0,g,0,g,0,g,0,g,75,g
+30,churchs chicken,mt blast powerade large,0,g,0,mg,210,g,60,g,0,g,0,g,0,g,0,g,60,g
+31,churchs chicken,mt blast powerade regular,0,g,0,mg,150,g,44,g,0,g,0,g,0,g,0,g,44,g
+32,churchs chicken,okra large,41,g,0,mg,2100,g,84,g,9,g,8,g,0,g,5,g,9,g
+33,churchs chicken,okra regular,15,g,0,mg,740,g,30,g,3,g,2.5,g,0,g,2,g,3,g
+34,churchs chicken,orange juice,0,g,0,mg,0,g,39,g,3,g,0,g,0,g,0,g,33,g
+35,churchs chicken,original breast,14,g,80,mg,680,g,9,g,23,g,3,g,0,g,0,g,0,g
+36,churchs chicken,original chicken sandwich,21,g,25,mg,880,g,35,g,11,g,3.5,g,0,g,1,g,4,g
+37,churchs chicken,original leg,8,g,60,mg,400,g,6,g,12,g,2,g,0,g,0,g,0,g
+38,churchs chicken,original thigh,27,g,95,mg,670,g,12,g,18,g,7,g,0,g,1,g,0,g
+39,churchs chicken,original wing,18,g,100,mg,710,g,8,g,24,g,5,g,0,g,0,g,0,g
+40,churchs chicken,pibb xtra large,0,g,0,mg,55,g,105,g,0,g,0,g,0,g,0,g,105,g
+41,churchs chicken,pibb xtra regular,0,g,0,mg,40,g,77,g,0,g,0,g,0,g,0,g,77,g
+42,churchs chicken,platter eggs,31,g,500,mg,180,g,1,g,14,g,7,g,0,g,0,g,0,g
+43,churchs chicken,popcorn shrimp,27,g,110,mg,1230,g,35,g,16,g,5,g,0,g,0,g,2,g
+44,churchs chicken,ranch sauce,15,g,10,mg,270,g,2,g,0,g,2.5,g,0,g,0,g,1,g
+45,churchs chicken,red flash large,0,g,0,mg,80,g,105,g,0,g,0,g,0,g,0,g,105,g
+46,churchs chicken,red flash regular,0,g,0,mg,60,g,77,g,0,g,0,g,0,g,0,g,77,g
+47,churchs chicken,sandwich egg,15,g,250,mg,90,g,1,g,7,g,3.5,g,0,g,0,g,0,g
+48,churchs chicken,sausage and gravy biscuit,23,g,15,mg,1260,g,39,g,9,g,10,g,0,g,0,g,5,g
+49,churchs chicken,sausage patty,18,g,30,mg,300,g,1,g,7,g,6,g,0,g,0,g,0,g
+50,churchs chicken,sausage egg and cheese biscuit,49,g,290,mg,1280,g,32,g,22,g,18,g,0,g,0,g,4,g
+51,churchs chicken,spicy breast,17,g,80,mg,800,g,12,g,22,g,4,g,0,g,1,g,0,g
+52,churchs chicken,spicy chicken sandwich,19,g,25,mg,910,g,35,g,11,g,3.5,g,0,g,1,g,4,g
+53,churchs chicken,spicy leg,9,g,65,mg,490,g,9,g,13,g,2,g,0,g,1,g,0,g
+54,churchs chicken,spicy rice large,41,g,165,mg,2510,g,62,g,21,g,12,g,0,g,4,g,4,g
+55,churchs chicken,spicy rice regular,14,g,55,mg,840,g,21,g,7,g,4,g,0,g,1,g,1,g
+56,churchs chicken,spicy tender strip,5,g,25,mg,330,g,8,g,10,g,1,g,0,g,0,g,1,g
+57,churchs chicken,spicy thigh,25,g,90,mg,880,g,21,g,17,g,6,g,0,g,1,g,0,g
+58,churchs chicken,spicy wing,20,g,100,mg,970,g,19,g,25,g,5,g,0,g,1,g,0,g
+59,churchs chicken,sprite large,0,g,0,mg,90,g,105,g,0,g,0,g,0,g,0,g,105,g
+60,churchs chicken,sprite regular,0,g,0,mg,65,g,77,g,0,g,0,g,0,g,0,g,77,g
+61,churchs chicken,steak biscuit,26,g,20,mg,1130,g,41,g,12,g,11,g,0,g,0,g,4,g
+62,churchs chicken,sweet corn nuggets 16,33,g,0,mg,1300,g,83,g,8,g,6,g,0,g,7,g,16,g
+63,churchs chicken,sweet corn nuggets 4,8,g,0,mg,330,g,21,g,2,g,1.5,g,0,g,2,g,4,g
+64,churchs chicken,tartar sauce,10,g,5,mg,200,g,3,g,0,g,1.5,g,0,g,0,g,2,g
+65,churchs chicken,tender strip,5,g,25,mg,240,g,5,g,9,g,1,g,0,g,0,g,0,g
+66,churchs chicken,texas pete hot sauce,0,g,0,mg,105,g,1,g,0,g,0,g,0,g,0,g,0,g
+67,churchs chicken,unsweetened tea large,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+68,churchs chicken,unsweetened tea regular,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+69,churchs chicken,white gravy large,11,g,0,mg,1750,g,36,g,2,g,6,g,0,g,1,g,4,g
+70,churchs chicken,white gravy regular,4,g,0,mg,580,g,12,g,1,g,2,g,0,g,0,g,1,g
+71,cicis pizza,garlic parmesan wings,18,g,115,mg,980,g,5,g,19,g,6,g,0,g,0,g,0,g
+72,cicis pizza,bbq wings,12,g,110,mg,970,g,16,g,19,g,3.5,g,0,g,2,g,13,g
+73,cicis pizza,mild buffalo wings,13.5,g,110,mg,1540,g,3,g,19,g,3.5,g,0,g,0,g,1,g
+74,cicis pizza,hot buffalo wings,13,g,110,mg,1810,g,4,g,19,g,3.5,g,0,g,0,g,1,g
+75,cicis pizza,cinnamon rolls,5,g,0,mg,100,g,20,g,2,g,1,g,0,g,0,g,20,g
+76,cicis pizza,brownie,6,g,0,mg,150,g,21,g,2,g,1,g,0,g,1,g,12,g
+77,cicis pizza,apple dessert pizza,3.1,g,0,mg,65,g,23,g,2,g,0.5,g,0.5,g,1,g,9,g
+78,cicis pizza,bavarian dessert pizza,3,g,0,mg,80,g,23,g,2,g,0.5,g,0.5,g,1,g,8,g
+79,cicis pizza,pepperoni pizza,7,g,15,mg,350,g,23,g,8,g,3.5,g,0,g,1,g,2,g
+80,cicis pizza,mac and cheese pizza,4.5,g,10,mg,440,g,30,g,8,g,2,g,0,g,1,g,3,g
+81,cicis pizza,alfredo pizza,5,g,10,mg,220,g,22,g,6,g,2.5,g,0,g,1,g,1,g
+82,cicis pizza,buffalo chicken pizza,7,g,15,mg,450,g,23,g,8,g,3,g,0,g,1,g,1,g
+83,cicis pizza,pepperoni and sausage pizza,9,g,20,mg,470,g,24,g,10,g,4,g,0,g,1,g,2,g
+84,cicis pizza,spinach alfredo flatbread pizza,7,g,15,mg,200,g,14,g,5,g,3.5,g,0.5,g,1,g,1,g
+85,cicis pizza,zesty ham and cheddar pizza,6,g,10,mg,250,g,22,g,7,g,2,g,0,g,1,g,2,g
+86,cicis pizza,hawaiian pizza,5,g,15,mg,330,g,24,g,8,g,2.5,g,0,g,1,g,3,g
+87,cicis pizza,veggie pizza,6,g,5,mg,240,g,23,g,6,g,3,g,0,g,1,g,2,g
+88,cicis pizza,buffet traditional cheese,4.5,g,10,mg,190,g,12,g,4,g,2.5,g,0,g,1,g,1,g
+89,cicis pizza,zesty pepperoni pizza,7,g,10,mg,320,g,22,g,7,g,2.5,g,0,g,1,g,1,g
+90,cicis pizza,pepperoni and jalapeno pizza,7,g,15,mg,550,g,24,g,8,g,3.5,g,0,g,1,g,2,g
+91,cicis pizza,supreme pan pizza,11,g,15,mg,400,g,30,g,8,g,3.5,g,0,g,1,g,4,g
+92,cicis pizza,spinach alfredo pizza,5,g,10,mg,220,g,22,g,6,g,2.5,g,0,g,1,g,1,g
+93,cicis pizza,honey bbq chicken flatbread pizza,4.5,g,10,mg,210,g,18,g,6,g,2,g,0,g,1,g,5,g
+94,cicis pizza,sausage pizza,7,g,15,mg,370,g,24,g,9,g,3,g,0,g,1,g,2,g
+95,cicis pizza,beef pizza,7,g,15,mg,340,g,24,g,9,g,3.5,g,0,g,1,g,2,g
+96,cicis pizza,bbq pork pizza,7,g,15,mg,320,g,27,g,8,g,3,g,0,g,1,g,5,g
+97,cicis pizza,meat eater pan pizza,11,g,15,mg,430,g,25,g,9,g,3.5,g,0,g,1,g,2,g
+98,cicis pizza,meat eater pizza,9,g,20,mg,500,g,24,g,11,g,4,g,0,g,2,g,1,g
+99,cicis pizza,chicken bacon club flatbread pizza,7,g,15,mg,270,g,14,g,7,g,3,g,0,g,1,g,1,g
+100,cicis pizza,pepperoni and beef pizza,10,g,20,mg,450,g,24,g,10,g,4.5,g,0,g,1,g,3,g
+101,cicis pizza,pepperoni stuffed crust pizza,8,g,15,mg,390,g,21,g,9,g,4,g,0,g,1,g,1,g
+102,cicis pizza,pasta salad,8,g,5,mg,860,g,29,g,5,g,1.5,g,0,g,2,g,3,g
+103,cicis pizza,salad mix,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,1,g
+104,cicis pizza,pasta with marinara sauce,4,g,0,mg,960,g,56,g,10,g,0.5,g,0,g,3,g,5,g
+105,cicis pizza,chicken and cavatappi pasta soup,2.5,g,10,mg,860,g,13,g,5,g,0.5,g,0,g,1,g,2,g
+106,cicis pizza,1000 island dressing,38,g,0,mg,0,g,0,g,12,g,0,g,30,g,12,g,530,g
+107,cicis pizza,alfredo pizza large,5,g,5,mg,0,g,1,g,22,g,0,g,10,g,1,g,220,g
+108,cicis pizza,alfredo pizza medium,4,g,5,mg,0,g,1,g,16,g,0,g,5,g,1,g,160,g
+109,cicis pizza,alfredo sauce side,8,g,5,mg,0,g,0,g,3,g,1,g,5,g,2,g,360,g
+110,cicis pizza,apple dessert pizza,3,g,5,mg,0,g,1,g,24,g,0,g,0,g,9,g,65,g
+111,cicis pizza,banana peppers,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,440,g
+112,cicis pizza,barqs root beer 12 fl oz,0,g,0,mg,0,g,1,g,44,g,0,g,0,g,44,g,55,g
+113,cicis pizza,barqs root beer 18 fl oz,0,g,0,mg,0,g,0,g,65,g,0,g,0,g,65,g,80,g
+114,cicis pizza,barqs root beer 32 fl oz,0,g,0,mg,0,g,0,g,116,g,0,g,0,g,116,g,140,g
+115,cicis pizza,bavarian dessert pizza,2.5,g,5,mg,0,g,1,g,23,g,0,g,0,g,8,g,80,g
+116,cicis pizza,bbq pork pizza large,7,g,10,mg,0,g,1,g,27,g,0,g,15,g,6,g,310,g
+117,cicis pizza,bbq pork pizza medium,5,g,5,mg,0,g,1,g,20,g,0,g,10,g,4,g,240,g
+118,cicis pizza,beets sliced,0,g,0,mg,0,g,0,g,2,g,0,g,0,g,1,g,60,g
+119,cicis pizza,black olives,3.5,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+120,cicis pizza,blue cheese dressing,50,g,5,mg,0,g,0,g,3,g,0,g,45,g,3,g,590,g
+121,cicis pizza,bone in wings bbq,4.5,g,5,mg,0,g,0,g,2,g,0,g,40,g,2,g,260,g
+122,cicis pizza,bone in wings garlic parmesan,7,g,5,mg,0,g,0,g,0,g,0,g,40,g,0,g,270,g
+123,cicis pizza,bone in wings hot buffalo,4.5,g,5,mg,0,g,0,g,0,g,0,g,40,g,0,g,340,g
+124,cicis pizza,bone in wings mild buffalo,5,g,5,mg,0,g,0,g,0,g,0,g,40,g,0,g,320,g
+125,cicis pizza,bone in wings naked,4.5,g,5,mg,0,g,0,g,0,g,0,g,40,g,0,g,220,g
+126,cicis pizza,boneless wings bbq,2,g,5,mg,0,g,0,g,8,g,0,g,10,g,2,g,230,g
+127,cicis pizza,boneless wings garlic parmesan,5,g,5,mg,0,g,0,g,6,g,0,g,10,g,0,g,240,g
+128,cicis pizza,boneless wings hot buffalo,2,g,5,mg,0,g,0,g,6,g,0,g,10,g,0,g,310,g
+129,cicis pizza,boneless wings mild buffalo,2.5,g,5,mg,0,g,0,g,5,g,0,g,10,g,0,g,290,g
+130,cicis pizza,boneless wings naked,2,g,5,mg,0,g,0,g,5,g,0,g,10,g,0,g,190,g
+131,cicis pizza,broccoli florets,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,10,g
+132,cicis pizza,brownies,6,g,5,mg,0,g,1,g,21,g,0,g,0,g,12,g,150,g
+133,cicis pizza,buffalo chicken pizza large,7,g,10,mg,0,g,1,g,23,g,0,g,15,g,1,g,450,g
+134,cicis pizza,buffalo chicken pizza medium,5,g,5,mg,0,g,1,g,17,g,0,g,10,g,1,g,330,g
+135,cicis pizza,canada dry ginger ale 12 fl oz,0,g,0,mg,0,g,0,g,36,g,0,g,0,g,36,g,50,g
+136,cicis pizza,canada dry ginger ale 18 fl oz,0,g,0,mg,0,g,0,g,54,g,0,g,0,g,53,g,75,g
+137,cicis pizza,canada dry ginger ale 32 fl oz,0,g,0,mg,0,g,0,g,96,g,0,g,0,g,95,g,135,g
+138,cicis pizza,carrots baby or shredded,0,g,0,mg,0,g,2,g,8,g,0,g,0,g,6,g,20,g
+139,cicis pizza,catalina french dressing,31,g,0,mg,0,g,0,g,28,g,0,g,0,g,20,g,600,g
+140,cicis pizza,cheddar cheese,9,g,5,mg,0,g,1,g,1,g,0,g,25,g,0,g,180,g
+141,cicis pizza,cheese stuffed crust pizza,7,g,10,mg,0,g,1,g,21,g,0,g,15,g,1,g,340,g
+142,cicis pizza,cherry coca cola 12 fl oz,0,g,0,mg,0,g,1,g,42,g,0,g,0,g,42,g,40,g
+143,cicis pizza,cherry coca cola 18 fl oz,0,g,0,mg,0,g,0,g,63,g,0,g,0,g,63,g,60,g
+144,cicis pizza,cherry coca cola 32 fl oz,0,g,0,mg,0,g,0,g,112,g,0,g,0,g,112,g,110,g
+145,cicis pizza,chicken bacon club flatbread,7,g,5,mg,0,g,1,g,14,g,0,g,15,g,1,g,270,g
+146,cicis pizza,cicis brewed sweet tea 12 fl oz,0,g,0,mg,0,g,0,g,66,g,0,g,0,g,66,g,0,g
+147,cicis pizza,cicis brewed sweet tea 18 fl oz,0,g,0,mg,0,g,0,g,99,g,0,g,0,g,99,g,0,g
+148,cicis pizza,cicis brewed sweet tea 32 fl oz,0,g,0,mg,0,g,0,g,175,g,0,g,0,g,175,g,0,g
+149,cicis pizza,cinnamon rolls,4.5,g,5,mg,0,g,0,g,20,g,0,g,0,g,8,g,130,g
+150,cicis pizza,coca cola 12 fl oz,0,g,0,mg,0,g,0,g,40,g,0,g,0,g,40,g,40,g
+151,cicis pizza,coca cola 18 fl oz,0,g,0,mg,0,g,0,g,60,g,0,g,0,g,60,g,60,g
+152,cicis pizza,coca cola 32 fl oz,0,g,0,mg,0,g,0,g,107,g,0,g,0,g,107,g,105,g
+153,cicis pizza,create your own alfredo sauce,5,g,0,mg,0,g,0,g,2,g,1,g,10,g,0,g,200,g
+154,cicis pizza,create your own anchovies,18,g,30,mg,0,g,0,g,0,g,0,g,105,g,0,g,7740,g
+155,cicis pizza,create your own bacon,10,g,10,mg,0,g,0,g,0,g,0,g,40,g,0,g,570,g
+156,cicis pizza,create your own beef,7,g,5,mg,0,g,1,g,2,g,0,g,20,g,1,g,250,g
+157,cicis pizza,create your own black olives,3.5,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+158,cicis pizza,create your own cheddar cheese,9,g,5,mg,0,g,1,g,1,g,0,g,25,g,0,g,180,g
+159,cicis pizza,create your own chicken,0.5,g,5,mg,0,g,0,g,0,g,0,g,15,g,0,g,150,g
+160,cicis pizza,create your own creamy buffalo sauce,3,g,0,mg,0,g,0,g,2,g,0,g,0,g,1,g,440,g
+161,cicis pizza,create your own deep dish crust,1.5,g,5,mg,0,g,1,g,19,g,0,g,0,g,1,g,140,g
+162,cicis pizza,create your own diced tomatoes,0,g,0,mg,0,g,0,g,2,g,0,g,0,g,1,g,100,g
+163,cicis pizza,create your own flatbread crust,1.5,g,5,mg,0,g,0,g,12,g,0,g,0,g,0,g,30,g
+164,cicis pizza,create your own green peppers,0,g,0,mg,0,g,0,g,1,g,0,g,0,g,1,g,0,g
+165,cicis pizza,create your own ham,1,g,5,mg,0,g,0,g,1,g,0,g,15,g,0,g,370,g
+166,cicis pizza,create your own honey bbq sauce,0,g,0,mg,0,g,0,g,13,g,0,g,0,g,11,g,200,g
+167,cicis pizza,create your own jalapeno peppers,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,520,g
+168,cicis pizza,create your own mac and cheese sauce,1,g,0,mg,0,g,0,g,4,g,0,g,5,g,2,g,260,g
+169,cicis pizza,create your own mushrooms,0,g,0,mg,0,g,0,g,1,g,0,g,0,g,1,g,0,g
+170,cicis pizza,create your own pepperoni,13,g,5,mg,0,g,0,g,1,g,0,g,20,g,1,g,520,g
+171,cicis pizza,create your own pineapple,0,g,0,mg,0,g,0,g,4,g,0,g,0,g,4,g,0,g
+172,cicis pizza,create your own pizza cheese,7,g,5,mg,0,g,0,g,2,g,0,g,20,g,1,g,190,g
+173,cicis pizza,create your own pork,3.5,g,5,mg,0,g,0,g,1,g,0,g,20,g,0,g,200,g
+174,cicis pizza,create your own red onions,0,g,0,mg,0,g,0,g,3,g,0,g,0,g,1,g,0,g
+175,cicis pizza,create your own red tomato sauce,0,g,0,mg,0,g,1,g,2,g,0,g,0,g,1,g,110,g
+176,cicis pizza,create your own sausage,4.5,g,5,mg,0,g,1,g,3,g,0,g,10,g,1,g,340,g
+177,cicis pizza,create your own stuffed crust includes cheese in crust,3.5,g,5,mg,0,g,1,g,20,g,0,g,5,g,1,g,230,g
+178,cicis pizza,create your own traditional round large 14 inch crust,1,g,5,mg,0,g,1,g,21,g,0,g,0,g,1,g,95,g
+179,cicis pizza,create your own traditional round medium 12 inch crust,1,g,5,mg,0,g,1,g,16,g,0,g,0,g,1,g,70,g
+180,cicis pizza,create your own traditional round personal 9 inch crust,1,g,5,mg,0,g,1,g,15,g,0,g,0,g,0,g,70,g
+181,cicis pizza,create your own zesty sauce,4,g,0,mg,0,g,0,g,2,g,1,g,5,g,1,g,230,g
+182,cicis pizza,croutons,4,g,5,mg,0,g,0,g,20,g,0,g,0,g,0,g,340,g
+183,cicis pizza,deep dish cheese pizza,6,g,5,mg,0,g,1,g,21,g,0,g,10,g,1,g,260,g
+184,cicis pizza,deep dish meat eater pizza,6,g,5,mg,0,g,1,g,21,g,0,g,10,g,1,g,370,g
+185,cicis pizza,deep dish pepperoni pizza,6,g,5,mg,0,g,1,g,21,g,0,g,5,g,1,g,280,g
+186,cicis pizza,dr pepper fountain 12 fl oz,0,g,0,mg,0,g,0,g,39,g,0,g,0,g,38,g,45,g
+187,cicis pizza,dr pepper fountain 18 fl oz,0,g,0,mg,0,g,0,g,59,g,0,g,0,g,57,g,65,g
+188,cicis pizza,dr pepper fountain 32 fl oz,0,g,0,mg,0,g,0,g,104,g,0,g,0,g,102,g,115,g
+189,cicis pizza,fanta apple 12 fl oz,0,g,0,mg,0,g,0,g,44,g,0,g,0,g,44,g,60,g
+190,cicis pizza,fanta apple 18 fl oz,0,g,0,mg,0,g,0,g,66,g,0,g,0,g,66,g,90,g
+191,cicis pizza,fanta apple 32 fl oz,0,g,0,mg,0,g,1,g,118,g,0,g,0,g,117,g,160,g
+192,cicis pizza,fanta orange 12 fl oz,0,g,0,mg,0,g,0,g,44,g,0,g,0,g,43,g,40,g
+193,cicis pizza,fanta orange 18 fl oz,0,g,0,mg,0,g,0,g,65,g,0,g,0,g,64,g,60,g
+194,cicis pizza,fanta orange 32 fl oz,0,g,0,mg,0,g,0,g,116,g,0,g,0,g,114,g,105,g
+195,cicis pizza,french dressing,30,g,0,mg,0,g,0,g,14,g,0,g,0,g,14,g,1070,g
+196,cicis pizza,garbanzo beans,0,g,0,mg,0,g,1,g,4,g,0,g,0,g,0,g,95,g
+197,cicis pizza,garlic cheesy bread side,3,g,5,mg,0,g,0,g,9,g,0,g,5,g,0,g,110,g
+198,cicis pizza,gold peak peach tea 12 fl oz,0,g,0,mg,0,g,1,g,23,g,0,g,0,g,22,g,50,g
+199,cicis pizza,gold peak peach tea 18 fl oz,0,g,0,mg,0,g,1,g,34,g,0,g,0,g,33,g,75,g
+200,cicis pizza,gold peak peach tea 32 fl oz,0,g,0,mg,0,g,0,g,61,g,0,g,0,g,59,g,135,g
+201,cicis pizza,gold peak raspberry tea 12 fl oz,0,g,0,mg,0,g,0,g,23,g,0,g,0,g,22,g,50,g
+202,cicis pizza,gold peak raspberry tea 18 fl oz,0,g,0,mg,0,g,0,g,34,g,0,g,0,g,33,g,75,g
+203,cicis pizza,gold peak raspberry tea 32 fl oz,0,g,0,mg,0,g,0,g,61,g,0,g,0,g,59,g,135,g
+204,cicis pizza,gold peak sweetened black tea 12 fl oz,0,g,0,mg,0,g,0,g,31,g,0,g,0,g,31,g,45,g
+205,cicis pizza,gold peak sweetened black tea 18 fl oz,0,g,0,mg,0,g,0,g,47,g,0,g,0,g,47,g,70,g
+206,cicis pizza,gold peak sweetened black tea 32 fl oz,0,g,0,mg,0,g,1,g,83,g,0,g,0,g,83,g,125,g
+207,cicis pizza,green bell peppers sliced,0,g,0,mg,0,g,0,g,1,g,0,g,0,g,1,g,0,g
+208,cicis pizza,green olives,4.5,g,0,mg,0,g,1,g,2,g,0,g,0,g,0,g,260,g
+209,cicis pizza,hawaiian pizza large,6,g,10,mg,0,g,1,g,24,g,0,g,10,g,3,g,310,g
+210,cicis pizza,hawaiian pizza medium,4.5,g,5,mg,0,g,1,g,18,g,0,g,10,g,2,g,230,g
+211,cicis pizza,hawaiian punch fruit juicy red 12 fl oz,0,g,0,mg,0,g,0,g,45,g,0,g,0,g,44,g,55,g
+212,cicis pizza,hawaiian punch fruit juicy red 18 fl oz,0,g,0,mg,0,g,0,g,68,g,0,g,0,g,67,g,80,g
+213,cicis pizza,hawaiian punch fruit juicy red 32 fl oz,0,g,0,mg,0,g,0,g,120,g,0,g,0,g,119,g,140,g
+214,cicis pizza,hidden valley ranch dressing packet,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+215,cicis pizza,honey bbq chicken flatbread,4.5,g,5,mg,0,g,1,g,19,g,0,g,10,g,5,g,210,g
+216,cicis pizza,imitation bacon bits,5,g,10,mg,0,g,4,g,8,g,0,g,0,g,2,g,570,g
+217,cicis pizza,jalapeno peppers,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,520,g
+218,cicis pizza,lite italian dressing,3,g,0,mg,0,g,0,g,6,g,0,g,0,g,6,g,790,g
+219,cicis pizza,lite ranch dressing,27,g,0,mg,0,g,0,g,3,g,0,g,15,g,0,g,550,g
+220,cicis pizza,mac and cheese pizza large,4.5,g,5,mg,0,g,1,g,31,g,0,g,10,g,3,g,430,g
+221,cicis pizza,mac and cheese pizza medium,3,g,5,mg,0,g,1,g,23,g,0,g,5,g,2,g,310,g
+222,cicis pizza,marinara sauce side,0,g,0,mg,0,g,1,g,6,g,0,g,0,g,3,g,290,g
+223,cicis pizza,meat eater pizza large,9,g,10,mg,0,g,1,g,23,g,0,g,15,g,2,g,390,g
+224,cicis pizza,meat eater pizza medium,6,g,5,mg,0,g,1,g,18,g,0,g,10,g,2,g,290,g
+225,cicis pizza,mello yello 12 fl oz,0,g,0,mg,0,g,0,g,44,g,0,g,0,g,44,g,50,g
+226,cicis pizza,mello yello 18 fl oz,0,g,0,mg,0,g,0,g,65,g,0,g,0,g,65,g,75,g
+227,cicis pizza,mello yello 32 fl oz,0,g,0,mg,0,g,0,g,116,g,0,g,0,g,116,g,135,g
+228,cicis pizza,minute maid premium lemonade 12 fl oz,0,g,0,mg,0,g,0,g,38,g,0,g,0,g,36,g,95,g
+229,cicis pizza,minute maid premium lemonade 18 fl oz,0,g,0,mg,0,g,0,g,57,g,0,g,0,g,54,g,140,g
+230,cicis pizza,minute maid premium lemonade 32 fl oz,0,g,0,mg,0,g,0,g,101,g,0,g,0,g,96,g,260,g
+231,cicis pizza,mushrooms sliced,0,g,0,mg,0,g,0,g,1,g,0,g,0,g,1,g,0,g
+232,cicis pizza,pasta side,4,g,10,mg,0,g,2,g,50,g,0,g,0,g,2,g,680,g
+233,cicis pizza,pepperoni and beef pizza large,10,g,10,mg,0,g,1,g,24,g,0,g,20,g,2,g,420,g
+234,cicis pizza,pepperoni and beef pizza medium,7,g,5,mg,0,g,1,g,18,g,0,g,15,g,2,g,300,g
+235,cicis pizza,pepperoni and jalapeno pizza large,8,g,10,mg,0,g,1,g,23,g,0,g,15,g,2,g,450,g
+236,cicis pizza,pepperoni and jalapeno pizza medium,6,g,5,mg,0,g,1,g,18,g,0,g,10,g,2,g,350,g
+237,cicis pizza,pepperoni pizza large,8,g,10,mg,0,g,1,g,23,g,0,g,15,g,2,g,350,g
+238,cicis pizza,pepperoni pizza medium,7,g,5,mg,0,g,1,g,18,g,0,g,15,g,2,g,290,g
+239,cicis pizza,pepperoni stuffed crust pizza,8,g,10,mg,0,g,1,g,21,g,0,g,15,g,1,g,390,g
+240,cicis pizza,pineapple,0,g,0,mg,0,g,0,g,4,g,0,g,0,g,4,g,0,g
+241,cicis pizza,powerade mountain berry blast 12 fl oz,0,g,0,mg,0,g,0,g,22,g,0,g,0,g,22,g,110,g
+242,cicis pizza,powerade mountain berry blast 18 fl oz,0,g,0,mg,0,g,0,g,33,g,0,g,0,g,33,g,170,g
+243,cicis pizza,powerade mountain berry blast 32 fl oz,0,g,0,mg,0,g,0,g,58,g,0,g,0,g,58,g,300,g
+244,cicis pizza,radishes sliced,0,g,0,mg,0,g,0,g,1,g,0,g,0,g,1,g,10,g
+245,cicis pizza,ranch dressing,33,g,0,mg,0,g,0,g,3,g,0,g,15,g,3,g,640,g
+246,cicis pizza,red onions sliced,0,g,0,mg,0,g,0,g,3,g,0,g,0,g,1,g,0,g
+247,cicis pizza,salad mix,0,g,0,mg,0,g,1,g,3,g,0,g,0,g,2,g,10,g
+248,cicis pizza,saltine crackers 2 packets,1.5,g,0,mg,0,g,0,g,8,g,0,g,0,g,0,g,130,g
+249,cicis pizza,signature italian dressing,25,g,5,mg,0,g,0,g,8,g,0,g,15,g,5,g,1560,g
+250,cicis pizza,soup side,2.5,g,5,mg,0,g,1,g,13,g,0,g,10,g,2,g,860,g
+251,cicis pizza,spinach alfredo flatbread,7,g,5,mg,0,g,1,g,14,g,0,g,15,g,1,g,200,g
+252,cicis pizza,spinach alfredo pizza large,5,g,5,mg,0,g,1,g,22,g,0,g,10,g,1,g,230,g
+253,cicis pizza,spinach alfredo pizza medium,4.5,g,5,mg,0,g,1,g,17,g,0,g,5,g,1,g,170,g
+254,cicis pizza,sprite 12 fl oz,0,g,0,mg,0,g,0,g,38,g,0,g,0,g,37,g,70,g
+255,cicis pizza,sprite 18 fl oz,0,g,0,mg,0,g,0,g,57,g,0,g,0,g,56,g,105,g
+256,cicis pizza,sprite 32 fl oz,0,g,0,mg,0,g,0,g,101,g,0,g,0,g,99,g,190,g
+257,cicis pizza,sunflower seeds,14,g,5,mg,0,g,3,g,6,g,0,g,0,g,1,g,130,g
+258,cicis pizza,supreme pizza large,8,g,10,mg,0,g,1,g,24,g,0,g,15,g,2,g,360,g
+259,cicis pizza,supreme pizza medium,6,g,5,mg,0,g,1,g,18,g,0,g,10,g,2,g,270,g
+260,cicis pizza,tomatoes grape or cherry,0,g,0,mg,0,g,0,g,1,g,0,g,0,g,1,g,0,g
+261,cicis pizza,veggie pizza large,6,g,5,mg,0,g,1,g,24,g,0,g,10,g,3,g,250,g
+262,cicis pizza,veggie pizza medium,4.5,g,5,mg,0,g,1,g,18,g,0,g,10,g,2,g,190,g
+263,cicis pizza,zesty ham and cheddar pizza large,7,g,5,mg,0,g,1,g,22,g,0,g,15,g,1,g,310,g
+264,cicis pizza,zesty ham and cheddar pizza medium,5,g,5,mg,0,g,1,g,17,g,0,g,10,g,1,g,220,g
+265,cicis pizza,zesty pepperoni pizza large,8,g,5,mg,0,g,1,g,22,g,0,g,10,g,1,g,320,g
+266,cicis pizza,zesty pepperoni pizza medium,6,g,5,mg,0,g,1,g,17,g,0,g,10,g,1,g,240,g
+267,cicis pizza,zesty veggie pizza large,4.5,g,5,mg,0,g,1,g,23,g,0,g,5,g,2,g,220,g
+268,cicis pizza,zesty veggie pizza medium,3.5,g,5,mg,0,g,1,g,17,g,0,g,5,g,1,g,160,g
+269,cinnabon,maple syrup,0,g,0,mg,50,g,27,g,0,g,0,g,0,g,0,g,14,g
+270,cinnabon,cinnabon classic roll,37,g,55,mg,1140,g,127,g,13,g,17,g,0,g,2,g,58,g
+271,cinnabon,minibon roll,15,g,25,mg,330,g,51,g,13,g,7,g,0,g,1,g,23,g
+272,cinnabon,caramel pecanbon,51,g,65,mg,1270,g,146,g,14,g,20,g,0,g,3,g,75,g
+273,cinnabon,cinnabon classic bonbites,17,g,25,mg,370,g,60,g,5,g,8,g,0,g,1,g,25,g
+274,cinnabon,classic bites,24,g,5,mg,550,g,88,g,12,g,11,g,0,g,4,g,36,g
+275,cinnabon,cinnabon stix,22,g,20,mg,440,g,51,g,6,g,10,g,0,g,1,g,21,g
+276,cinnabon,classic center of the roll,33,g,20,mg,650,g,106,g,9,g,16,g,0,g,1,g,59,g
+277,cinnabon,frosting cup,13,g,10,mg,120,g,23,g,1,g,6,g,0,g,0,g,21,g
+278,cinnabon,churro,10,g,0,mg,340,g,43,g,6,g,2,g,0,g,2,g,14,g
+279,cinnabon,caramel pecan bonbites,29,g,25,mg,470,g,73,g,7,g,10,g,0,g,2,g,39,g
+280,cinnabon,caramel pecanbon minibon roll,22,g,30,mg,390,g,60,g,6,g,8,g,0,g,2,g,32,g
+281,cinnabon,caramel pecanbon center of the roll,42,g,20,mg,710,g,109,g,10,g,15,g,0,g,3,g,60,g
+282,cinnabon,cinnasweeties 5 ctn,13,g,0,mg,190,g,31,g,3,g,6,g,0,g,1,g,13,g
+283,cinnabon,cinnapack minibon rolls,17,g,25,mg,330,g,53,g,5,g,8,g,0,g,1,g,27,g
+284,cinnabon,centre of the roll caramel pecanbon,42,g,50,mg,920,g,108,g,10,g,16,g,0,g,3,g,59,g
+285,cinnabon,cinnasweeties 15 ctn,38,g,0,mg,570,g,95,g,10,g,18,g,0,g,2,g,40,g
+286,cinnabon,cinnasweeties 10 ctn,25,g,0,mg,380,g,63,g,7,g,12,g,0,g,2,g,27,g
+287,cinnabon,cinnapack classic rolls,41,g,60,mg,1170,g,134,g,13,g,19,g,0,g,2,g,65,g
+288,cinnabon,cinnapack caramel pecan bonbites,32,g,30,mg,490,g,78,g,7,g,11,g,0,g,2,g,44,g
+289,cinnabon,centre of the roll classic,34,g,50,mg,860,g,105,g,9,g,16,g,0,g,2,g,58,g
+290,cinnabon,cinnapack caramel pecanbon,55,g,70,mg,1300,g,153,g,14,g,22,g,0,g,4,g,81,g
+291,cinnabon,cinnapack classic bonbites,21,g,30,mg,410,g,69,g,5,g,10,g,0,g,2,g,37,g
+292,cinnabon,cold brew iced coffee cinnamon roll,3.5,g,10,mg,100,g,34,g,3,g,2,g,0,g,0,g,32,g
+293,cinnabon,mochalatta chill,14,g,40,mg,200,g,53,g,8,g,8,g,0,g,1,g,49,g
+294,cinnabon,oreo cookies and cream chillatta,25,g,70,mg,650,g,112,g,12,g,13,g,0,g,2,g,85,g
+295,cinnabon,coffee,0,g,0,mg,4,g,0,g,0,g,0,g,0,g,0,g,0,g
+296,cinnabon,cold brew frozen coffee cinnamon roll,17,g,65,mg,240,g,87,g,8,g,11,g,0,g,0,g,79,g
+297,cinnabon,chocolate mocha chillattas,14,g,45,mg,200,g,61,g,8,g,8,g,0,g,3,g,55,g
+298,cinnabon,cold brew iced coffee vanilla,3,g,10,mg,70,g,34,g,2,g,2,g,0,g,0,g,32,g
+299,cinnabon,signature cinnamon roll chillata,29,g,80,mg,480,g,135,g,12,g,17,g,0,g,3,g,89,g
+300,cinnabon,double chocolate mocha chillatta,13,g,35,mg,160,g,59,g,8,g,7,g,0,g,3,g,54,g
+301,cinnabon,raspberry lemonade,0,g,0,mg,20,g,44,g,0,g,0,g,0,g,0,g,42,g
+302,cinnabon,cold brew frozen coffee vanilla,17,g,65,mg,210,g,87,g,8,g,11,g,0,g,0,g,80,g
+303,cinnabon,strawberries and cream chillatta,18,g,70,mg,250,g,89,g,9,g,12,g,0,g,1,g,81,g
+304,cinnabon,strawberry banana chillatas,8,g,20,mg,75,g,113,g,1,g,4,g,0,g,0,g,101,g
+305,cinnabon,cinnamon roll hot cocoa 16 fl oz,11,g,20,mg,350,g,66,g,4,g,7,g,0,g,4,g,45,g
+306,cinnabon,hot cocoa with whipped cream,5,g,15,mg,210,g,25,g,2,g,3,g,0,g,1,g,20,g
+307,cinnabon,frozen raspberry lemonade,0,g,0,mg,20,g,71,g,0,g,0,g,0,g,0,g,67,g
+308,cinnabon,orange juice,0,g,0,mg,5,g,43,g,3,g,0,g,0,g,1,g,31,g
+309,cinnabon,strawberry chillatas,8,g,25,mg,260,g,111,g,1,g,4,g,0,g,2,g,97,g
+310,cinnabon,frozen classic lemonade,0,g,0,mg,10,g,70,g,0,g,0,g,0,g,0,g,67,g
+311,cinnabon,ghiradelli hot cocoa,10,g,20,mg,260,g,41,g,2,g,7,g,0,g,2,g,35,g
+312,cinnabon,tropical blast chillattas,8,g,20,mg,105,g,107,g,1,g,4,g,0,g,1,g,85,g
+313,cinnabon,classic lemonade,0,g,0,mg,15,g,34,g,0,g,0,g,0,g,0,g,33,g
+314,cinnabon,hot cocoa with ghirardelli sauce whole milk and whipped cream,12,g,35,mg,120,g,38,g,10,g,7,g,0,g,2,g,34,g
+315,cinnabon,cinnamon roll hot cocoa 12 fl oz,10,g,20,mg,260,g,54,g,4,g,7,g,0,g,3,g,35,g
+316,cinnabon,cinnamon roll hot cocoa 20 fl oz,12,g,25,mg,430,g,83,g,5,g,8,g,0,g,5,g,55,g
+317,cinnabon,peaches and cream chillatta,18,g,70,mg,250,g,87,g,9,g,12,g,0,g,0,g,80,g
+318,cinnabon,chocolate reduced fat milk without ice,7,g,30,mg,250,g,45,g,11,g,4.5,g,0,g,3,g,36,g
+319,cinnabon,sausage bites,11.6,g,18,mg,336,g,11,g,3.7,g,4.3,g,0,g,0.3,g,2.3,g
+320,cinnabon,smoked turkey club panini sandwich with cheese roll,25,g,80,mg,1960,g,48,g,28,g,10,g,0,g,1,g,9,g
+321,cinnabon,sausage egg and cheese sandwich with cheese roll,30,g,120,mg,1280,g,42,g,23,g,13,g,0,g,1,g,7,g
+322,cinnabon,grilled cheese panini sandwich with cheese roll,26,g,70,mg,1070,g,41,g,21,g,15,g,0.5,g,1,g,9,g
+323,cinnabon,egg and cheese sandwich with cheese roll,15,g,90,mg,870,g,41,g,17,g,8,g,0,g,1,g,7,g
+324,cinnabon,smoked turkey panini sandwich with cheese roll,24,g,80,mg,1650,g,49,g,29,g,12,g,0,g,1,g,10,g
+325,cinnabon,bacon egg and cheese sandwich with cheese roll,21,g,100,mg,1340,g,41,g,23,g,10,g,0,g,1,g,7,g
+326,cinnabon,black forest ham panini sandwich with cheese roll,25,g,80,mg,1410,g,48,g,28,g,13,g,0,g,1,g,10,g
+327,cinnabon,caramel pecan bonbites 4 count,29,g,25,mg,470,g,73,g,7,g,10,g,0,g,2,g,39,g
+328,cinnabon,caramel pecan bonbites 6 count,42,g,40,mg,700,g,109,g,10,g,15,g,0,g,3,g,59,g
+329,cinnabon,caramel pecanbon,51,g,65,mg,1270,g,146,g,14,g,20,g,0,g,3,g,75,g
+330,cinnabon,caramel pecanbon minibon roll,22,g,30,mg,390,g,60,g,6,g,8,g,0,g,2,g,32,g
+331,cinnabon,center of the roll caramel pecanbon,42,g,50,mg,920,g,108,g,10,g,16,g,0,g,3,g,59,g
+332,cinnabon,center of the roll classic,34,g,50,mg,860,g,105,g,9,g,16,g,0,g,2,g,58,g
+333,cinnabon,chocolate reduced fat milk 12 oz,7,g,30,mg,250,g,45,g,11,g,45,g,0,g,3,g,36,g
+334,cinnabon,chocolate reduced fat milk 16 oz,9,g,40,mg,330,g,61,g,15,g,6,g,0,g,3,g,48,g
+335,cinnabon,churro frosting sandwich,44,g,20,mg,820,g,109,g,14,g,13,g,0,g,5,g,42,g
+336,cinnabon,churro stick,10,g,0,mg,340,g,43,g,6,g,2,g,0,g,2,g,14,g
+337,cinnabon,churro swirl,28,g,0,mg,330,g,38,g,7,g,2,g,0,g,2,g,7,g
+338,cinnabon,cinnabon classic bonbites 4 count,17,g,25,mg,370,g,60,g,5,g,8,g,0,g,1,g,25,g
+339,cinnabon,cinnabon classic bonbites 6 count,25,g,35,mg,560,g,90,g,8,g,11,g,0,g,2,g,38,g
+340,cinnabon,cinnabon classic roll,37,g,55,mg,1140,g,127,g,13,g,17,g,0,g,2,g,58,g
+341,cinnabon,cinnabon stix 10 count,43,g,35,mg,880,g,102,g,12,g,19,g,0,g,2,g,41,g
+342,cinnabon,cinnabon stix 5 count,22,g,20,mg,440,g,51,g,6,g,10,g,0,g,1,g,21,g
+343,cinnabon,cinnamon roll hot cocoa 12 oz,10,g,20,mg,260,g,54,g,4,g,7,g,0,g,3,g,35,g
+344,cinnabon,cinnamon roll hot cocoa 16 oz,11,g,20,mg,350,g,66,g,4,g,7,g,0,g,4,g,45,g
+345,cinnabon,cinnamon roll hot cocoa 20 oz,12,g,25,mg,430,g,83,g,5,g,8,g,0,g,5,g,55,g
+346,cinnabon,cinnapack caramel pecan bonbites 16 pack,32,g,30,mg,490,g,78,g,7,g,11,g,0,g,2,g,44,g
+347,cinnabon,cinnapack caramel pecanbon,55,g,70,mg,1300,g,153,g,14,g,22,g,0,g,4,g,81,g
+348,cinnabon,cinnapack caramel pecanbon rolls minibon rolls 15 pack and 9 pack,24,g,30,mg,410,g,64,g,6,g,9,g,0,g,2,g,35,g
+349,cinnabon,cinnapack classic bonbites 16 pack,21,g,30,mg,410,g,69,g,5,g,10,g,0,g,2,g,37,g
+350,cinnabon,cinnapack classic rolls 6 pack and 4 pack,41,g,60,mg,1170,g,134,g,13,g,19,g,0,g,2,g,65,g
+351,cinnabon,cinnapack minibon rolls 15 pack and 9 pack,17,g,25,mg,330,g,53,g,5,g,8,g,0,g,1,g,27,g
+352,cinnabon,cinnasweeties 10 count,25,g,0,mg,380,g,63,g,7,g,12,g,0,g,2,g,27,g
+353,cinnabon,cinnasweeties 15 count,38,g,0,mg,570,g,95,g,10,g,18,g,0,g,2,g,40,g
+354,cinnabon,cinnasweeties 5 count,13,g,0,mg,190,g,31,g,3,g,6,g,0,g,1,g,13,g
+355,cinnabon,classic lemonade 16 oz,0,g,0,mg,15,g,34,g,0,g,0,g,0,g,0,g,33,g
+356,cinnabon,classic lemonade 24 oz,0,g,0,mg,15,g,42,g,0,g,0,g,0,g,0,g,40,g
+357,cinnabon,coffee 12 oz,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+358,cinnabon,coffee 16 oz,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+359,cinnabon,coffee 20 oz,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+360,cinnabon,cold brew frozen coffee cinnamon roll 16 oz,17,g,65,mg,240,g,87,g,8,g,11,g,0,g,0,g,79,g
+361,cinnabon,cold brew frozen coffee cinnamon roll 24 oz,19,g,75,mg,300,g,108,g,10,g,13,g,0,g,0,g,97,g
+362,cinnabon,cold brew frozen coffee vanilla 16 oz,17,g,65,mg,210,g,87,g,8,g,11,g,0,g,0,g,80,g
+363,cinnabon,cold brew frozen coffee vanilla 24 oz,19,g,75,mg,270,g,107,g,9,g,13,g,0,g,0,g,99,g
+364,cinnabon,cold brew iced coffee cinnamon roll 16oz,35,g,10,mg,100,g,34,g,3,g,2,g,0,g,0,g,32,g
+365,cinnabon,cold brew iced coffee cinnamon roll 24oz,4,g,10,mg,115,g,40,g,3,g,25,g,0,g,0,g,37,g
+366,cinnabon,cold brew iced coffee vanilla 16 oz,3,g,10,mg,70,g,34,g,2,g,2,g,0,g,0,g,32,g
+367,cinnabon,cold brew iced coffee vanilla 24 oz,35,g,10,mg,80,g,39,g,3,g,2,g,0,g,0,g,38,g
+368,cinnabon,double chocolate mocha chillatta 24 oz,15,g,40,mg,200,g,79,g,10,g,8,g,0,g,4,g,72,g
+369,cinnabon,double chocolate mocha chilllatta 16 oz,13,g,35,mg,160,g,59,g,8,g,7,g,0,g,3,g,54,g
+370,cinnabon,egg and cheese sandwich with cheese roll,15,g,90,mg,870,g,41,g,17,g,8,g,0,g,1,g,7,g
+371,cinnabon,frosting cup,13,g,10,mg,120,g,23,g,1,g,6,g,0,g,0,g,21,g
+372,cinnabon,frozen classic lemonade 16 oz,0,g,0,mg,10,g,70,g,0,g,0,g,0,g,0,g,67,g
+373,cinnabon,frozen classic lemonade 24 oz,0,g,0,mg,15,g,88,g,0,g,0,g,0,g,0,g,84,g
+374,cinnabon,frozen raspberry lemonade 16 oz,0,g,0,mg,20,g,71,g,0,g,0,g,0,g,0,g,67,g
+375,cinnabon,frozen raspberry lemonade 24 oz,0,g,0,mg,30,g,97,g,0,g,0,g,0,g,0,g,92,g
+376,cinnabon,ghirardelli hot cocoa 12 oz,10,g,20,mg,260,g,41,g,2,g,7,g,0,g,2,g,35,g
+377,cinnabon,ghirardelli hot cocoa 16 oz,11,g,20,mg,340,g,53,g,4,g,7,g,0,g,3,g,45,g
+378,cinnabon,ghirardelli hot cocoa 20 oz,12,g,25,mg,430,g,64,g,5,g,8,g,0,g,4,g,64,g
+379,cinnabon,grilled cheese panini sandwich with cheese roll,26,g,70,mg,1070,g,41,g,21,g,15,g,0,g,1,g,9,g
+380,cinnabon,maple syrup,0,g,0,mg,50,g,27,g,0,g,0,g,0,g,0,g,14,g
+381,cinnabon,minibon roll,15,g,25,mg,330,g,51,g,5,g,7,g,0,g,1,g,23,g
+382,cinnabon,mochalatta chill 16 oz,14,g,40,mg,200,g,53,g,8,g,8,g,0,g,1,g,49,g
+383,cinnabon,mochalatta chill 24 oz,16,g,45,mg,280,g,64,g,10,g,9,g,0,g,2,g,59,g
+384,cinnabon,orange juice 12 oz,0,g,0,mg,5,g,43,g,3,g,0,g,0,g,1,g,31,g
+385,cinnabon,orange juice 16 oz,1,g,0,mg,10,g,57,g,3,g,0,g,0,g,1,g,41,g
+386,cinnabon,oreo cookies and cream chilllatta 16 oz,25,g,70,mg,650,g,112,g,12,g,13,g,0,g,2,g,85,g
+387,cinnabon,oreo cookies and cream chilllatta 24 oz,31,g,85,mg,830,g,141,g,15,g,16,g,0,g,2,g,107,g
+388,cinnabon,raspberry lemonade 16 oz,0,g,0,mg,20,g,44,g,0,g,0,g,0,g,0,g,42,g
+389,cinnabon,raspberry lemonade 24 oz,0,g,0,mg,25,g,55,g,0,g,0,g,0,g,0,g,52,g
+390,cinnabon,sausage bites 3 count,35,g,55,mg,1010,g,33,g,11,g,13,g,0,g,1,g,7,g
+391,cinnabon,sausage bites 5 count,58,g,90,mg,1680,g,55,g,19,g,21,g,0,g,1,g,12,g
+392,cinnabon,sausage egg and cheese sandwich with cheese roll,30,g,120,mg,1280,g,42,g,23,g,13,g,0,g,1,g,7,g
+393,cinnabon,signature cinnamon roll chillatta 16 oz,29,g,80,mg,480,g,135,g,12,g,17,g,0,g,3,g,89,g
+394,cinnabon,signature cinnamon roll chillatta 24 oz,33,g,90,mg,550,g,166,g,14,g,19,g,0,g,3,g,103,g
+395,cinnabon,smoked turkey club panini sandwich with cheese roll,25,g,80,mg,1960,g,48,g,28,g,10,g,0,g,1,g,9,g
+396,cinnabon,smoked turkey panini sandwich with cheese roll,24,g,80,mg,1650,g,49,g,29,g,12,g,0,g,1,g,10,g
+397,cinnabon,strawberries and cream chillatta 16 oz,18,g,70,mg,250,g,89,g,9,g,12,g,0,g,1,g,81,g
+398,cinnabon,strawberries and cream chillatta 24 oz,22,g,85,mg,310,g,113,g,11,g,14,g,0,g,1,g,102,g
+399,claim jumper,buffalo chicken wrap,61,g,148,mg,2334,g,51,g,47,g,22,g,0,g,6,g,4,g
+400,claim jumper,loaded potato skins snack size,34,g,108,mg,971,g,32,g,23,g,18,g,0,g,2,g,2,g
+401,claim jumper,mozzarella sticks share size,60,g,180,mg,3590,g,70,g,50,g,30,g,0,g,0,g,10,g
+402,claim jumper,lemon pepper zucchini snack size,17,g,13,mg,2135,g,48,g,7,g,3,g,0,g,3,g,5,g
+403,claim jumper,cowboy candied bacon,9,g,23,mg,866,g,37,g,6,g,3,g,0,g,0,g,35,g
+404,claim jumper,spinach artichoke dip share size,64,g,151,mg,3412,g,233,g,57,g,30,g,0,g,17,g,4,g
+405,claim jumper,buffalo chicken wings snack size,48,g,116,mg,1876,g,11,g,32,g,11,g,0,g,2,g,4,g
+406,claim jumper,beef sliders with cheese,35,g,94,mg,2195,g,67,g,38,g,12,g,0,g,3,g,14,g
+407,claim jumper,pork belly brussels sprouts,35,g,37,mg,1455,g,43,g,14,g,9,g,0,g,11,g,15,g
+408,claim jumper,bbq chicken sliders,14,g,62,mg,2359,g,95,g,37,g,2,g,0,g,3,g,38,g
+409,claim jumper,parmesan garlic onion rings share size,23,g,20,mg,2024,g,160,g,18,g,5,g,0,g,6,g,31,g
+410,claim jumper,loaded potato skins share size,50,g,180,mg,1581,g,54,g,37,g,30,g,0,g,4,g,4,g
+411,claim jumper,mozzarella sticks snack size,38,g,119,mg,2363,g,49,g,32,g,21,g,0,g,1,g,4,g
+412,claim jumper,buffalo chicken wings share size,90,g,214,mg,3617,g,18,g,59,g,21,g,0,g,3,g,6,g
+413,claim jumper,bonanza platter,120,g,420,mg,6110,g,180,g,80,g,60,g,0,g,20,g,20,g
+414,claim jumper,pub pretzels with cheese sauce snack size,27,g,83,mg,3651,g,84,g,17,g,16,g,0,g,3,g,14,g
+415,claim jumper,pub pretzels with cheese sauce share size,39,g,113,mg,6810,g,165,g,29,g,23,g,0,g,6,g,27,g
+416,claim jumper,calamari share size,33,g,359,mg,3184,g,118,g,55,g,3,g,0,g,9,g,17,g
+417,claim jumper,lemon pepper zucchini share size,34,g,25,mg,4268,g,97,g,14,g,6,g,0,g,6,g,9,g
+418,claim jumper,spinach artichoke dip snack size,43,g,81,mg,1795,g,115,g,34,g,19,g,0,g,6,g,3,g
+419,claim jumper,parmesan garlic onion rings snack size,11,g,10,mg,954,g,74,g,8,g,2,g,0,g,2,g,15,g
+420,claim jumper,pub pretzels with sriracha cheese sauce snack size,23,g,70,mg,3718,g,85,g,16,g,14,g,0,g,3,g,14,g
+421,claim jumper,calamari snack size,19,g,180,mg,1922,g,70,g,29,g,4,g,0,g,6,g,16,g
+422,claim jumper,pub pretzels share size,24,g,60,mg,6317,g,162,g,23,g,14,g,0,g,6,g,26,g
+423,claim jumper,pork sliders,17,g,58,mg,2851,g,95,g,33,g,4,g,0,g,3,g,39,g
+424,claim jumper,chips and salsa,10,g,0,mg,2130,g,90,g,10,g,0,g,0,g,10,g,0,g
+425,claim jumper,pub pretzels snack size,12,g,30,mg,3158,g,81,g,12,g,7,g,0,g,3,g,13,g
+426,claim jumper,pub pretzels with jalapeno cream cheese share size,35,g,93,mg,6845,g,163,g,26,g,21,g,0,g,6,g,26,g
+427,claim jumper,pub pretzels with jalapeno cream cheese snack size,23,g,63,mg,3686,g,82,g,14,g,14,g,0,g,3,g,13,g
+428,claim jumper,happy hour chips and salsa,10,g,0,mg,1060,g,50,g,10,g,0,g,0,g,10,g,0,g
+429,claim jumper,pub pretzels with sriracha cheese sauce share size,35,g,100,mg,6876,g,166,g,28,g,21,g,0,g,6,g,27,g
+430,claim jumper,strawberry shake,41,g,137,mg,233,g,102,g,14,g,27,g,0,g,2,g,90,g
+431,claim jumper,root beer float,24,g,87,mg,177,g,95,g,7,g,16,g,0,g,0,g,88,g
+432,claim jumper,iced tea,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+433,claim jumper,vanilla shake,41,g,137,mg,233,g,82,g,14,g,27,g,0,g,0,g,72,g
+434,claim jumper,lemonade,0,g,0,mg,20,g,40,g,0,g,0,g,0,g,0,g,40,g
+435,claim jumper,chocolate shake,41,g,137,mg,250,g,109,g,14,g,27,g,0,g,0,g,93,g
+436,claim jumper,chocolate motherlode cake,158,g,313,mg,2637,g,459,g,37,g,71,g,1,g,10,g,329,g
+437,claim jumper,strawberry cream cheese pie,78,g,277,mg,634,g,108,g,17,g,46,g,0,g,2,g,83,g
+438,claim jumper,carrot cake,122,g,275,mg,1047,g,185,g,18,g,39,g,0,g,6,g,145,g
+439,claim jumper,butter pecan cake,80,g,330,mg,1453,g,179,g,15,g,46,g,0,g,1,g,142,g
+440,claim jumper,berry butter cake,66,g,296,mg,793,g,147,g,14,g,40,g,0,g,2,g,109,g
+441,claim jumper,cream cheese pie,77,g,277,mg,633,g,97,g,17,g,46,g,0,g,1,g,74,g
+442,claim jumper,raspberry cream cheese pie,97,g,296,mg,706,g,147,g,18,g,63,g,0,g,2,g,123,g
+443,claim jumper,brownie with white chocolate chips,52,g,45,mg,733,g,190,g,6,g,24,g,3,g,2,g,141,g
+444,claim jumper,cookie finale,127,g,355,mg,1225,g,306,g,18,g,83,g,0,g,7,g,216,g
+445,claim jumper,brownie finale,60,g,88,mg,779,g,208,g,9,g,28,g,3,g,2,g,156,g
+446,claim jumper,chocolate chip cookie,35,g,68,mg,669,g,135,g,10,g,18,g,0,g,5,g,85,g
+447,claim jumper,brownie finale with toasted walnuts,69,g,88,mg,779,g,210,g,12,g,29,g,3,g,2,g,156,g
+448,claim jumper,brownie with toasted walnuts,57,g,45,mg,718,g,182,g,8,g,21,g,3,g,2,g,131,g
+449,claim jumper,brownie,47,g,45,mg,718,g,180,g,6,g,20,g,3,g,2,g,131,g
+450,claim jumper,brownie finale with white chocolate chips,64,g,88,mg,794,g,218,g,9,g,32,g,3,g,2,g,166,g
+451,claim jumper,chocolate chip cookie with vanilla ice cream,47,g,111,mg,730,g,161,g,14,g,26,g,0,g,5,g,107,g
+452,claim jumper,little jumper pasta your way with alfredo sauce and fries,30,g,50,mg,1320,g,50,g,10,g,10,g,0,g,0,g,0,g
+453,claim jumper,little jumper fish n chips,30,g,90,mg,1710,g,40,g,20,g,10,g,0,g,0,g,0,g
+454,claim jumper,little jumper baby back pork ribs with fries,60,g,170,mg,1680,g,40,g,30,g,20,g,0,g,0,g,10,g
+455,claim jumper,little jumper chicken nuggets,19,g,72,mg,1338,g,43,g,24,g,4,g,0,g,3,g,0,g
+456,claim jumper,little jumper 2 mini cheeseburgers with fries,40,g,90,mg,2060,g,60,g,40,g,10,g,0,g,0,g,10,g
+457,claim jumper,little jumper roasted vegetables side,0,g,0,mg,20,g,10,g,0,g,0,g,0,g,0,g,0,g
+458,claim jumper,little jumper mini corn dogs with fries,40,g,40,mg,2180,g,60,g,10,g,10,g,0,g,0,g,20,g
+459,claim jumper,little jumper macaroni and cheese with fries,30,g,50,mg,1270,g,50,g,10,g,10,g,0,g,0,g,0,g
+460,claim jumper,little jumper grilled cheese sandwich with fries,50,g,40,mg,2450,g,90,g,20,g,20,g,0,g,0,g,0,g
+461,claim jumper,little jumper mashed potatoes side,10,g,20,mg,10,g,15,g,0,g,5,g,0,g,0,g,0,g
+462,claim jumper,little jumper pasta your way with butter and fries,60,g,120,mg,920,g,50,g,10,g,30,g,0,g,0,g,0,g
+463,claim jumper,little jumper pancakes as served,50,g,60,mg,1310,g,80,g,10,g,20,g,0,g,0,g,40,g
+464,claim jumper,little jumper bbq chicken breast with fries,20,g,130,mg,1580,g,40,g,50,g,0,g,0,g,0,g,20,g
+465,claim jumper,little jumper sundae with caramel sauce,27,g,45,mg,160,g,79,g,5,g,19,g,0,g,1,g,67,g
+466,claim jumper,little jumper sundae with chocolate sauce,25,g,45,mg,80,g,59,g,4,g,18,g,0,g,1,g,50,g
+467,claim jumper,little jumper fresh fruit side,0,g,0,mg,20,g,20,g,0,g,0,g,0,g,0,g,10,g
+468,claim jumper,little jumper french fries,10,g,0,mg,850,g,20,g,0,g,0,g,0,g,0,g,0,g
+469,claim jumper,little jumper red velvet cupcake,30,g,120,mg,600,g,70,g,10,g,10,g,0,g,0,g,50,g
+470,claim jumper,little jumper macaroni and cheese side,20,g,50,mg,420,g,30,g,10,g,10,g,0,g,0,g,0,g
+471,claim jumper,applesauce little jumper side,6,g,0,mg,0,g,0,g,1,g,0,g,0,g,0,g,0,g
+472,claim jumper,little jumper pasta your way with marina sauce and fries,20,g,0,mg,1900,g,70,g,10,g,10,g,0,g,10,g,0,g
+473,claim jumper,little jumper frozen grapes,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,0,g,20,g
+474,claim jumper,little jumper mandarin oranges side,0,g,0,mg,10,g,16,g,1,g,0,g,0,g,1,g,13,g
+475,claim jumper,lunch grilled fish tacos without fries,53,g,100,mg,2830,g,90,g,36,g,11,g,0,g,10,g,4,g
+476,claim jumper,lunch sliders 2,41,g,65,mg,2500,g,74,g,34,g,10,g,0,g,4,g,4,g
+477,claim jumper,lunch fried fish tacos without fries,56,g,170,mg,3410,g,134,g,38,g,11,g,0,g,11,g,4,g
+478,claim jumper,lunch small caesar salad with dressing,20,g,10,mg,430,g,10,g,0,g,0,g,0,g,0,g,0,g
+479,claim jumper,lunch roasted tri tip without sides,30,g,160,mg,990,g,30,g,40,g,10,g,0,g,0,g,0,g
+480,claim jumper,lunch sliders with cheese,48,g,90,mg,2620,g,74,g,39,g,14,g,0,g,4,g,4,g
+481,claim jumper,sautted mushrooms and onions steak toppers,30,g,0,mg,720,g,10,g,0,g,10,g,0,g,0,g,0,g
+482,claim jumper,oscar topping steak toppers,10,g,70,mg,140,g,0,g,10,g,10,g,0,g,0,g,0,g
+483,claim jumper,sauteed mushrooms steak toppers,10,g,0,mg,310,g,0,g,0,g,0,g,0,g,0,g,0,g
+484,claim jumper,bleu cheese and mushroom sauce steak toppers,10,g,37,mg,145,g,2,g,3,g,6,g,0,g,0,g,1,g
+485,claim jumper,onions steak toppers,0,g,0,mg,200,g,10,g,0,g,0,g,0,g,0,g,0,g
+486,claim jumper,chicken pot pie,140,g,260,mg,3550,g,170,g,40,g,30,g,0,g,10,g,20,g
+487,claim jumper,trail boss chicken,30,g,160,mg,1450,g,30,g,60,g,10,g,0,g,0,g,10,g
+488,claim jumper,full rack bbq baby back pork ribs,77,g,245,mg,2499,g,75,g,46,g,28,g,0,g,0,g,64,g
+489,claim jumper,half rack bbq baby back pork ribs,46,g,146,mg,1652,g,51,g,27,g,17,g,0,g,0,g,43,g
+490,claim jumper,country fried steak,50,g,162,mg,4203,g,116,g,60,g,17,g,0,g,5,g,13,g
+491,claim jumper,the tri tip prospector combo,42,g,239,mg,1627,g,9,g,82,g,9,g,0,g,0,g,5,g
+492,claim jumper,blackened chicken stuffed baked potato,38,g,173,mg,1471,g,97,g,55,g,20,g,0,g,10,g,9,g
+493,claim jumper,prime top sirloin 7 oz,38,g,107,mg,806,g,11,g,41,g,14,g,0,g,1,g,1,g
+494,claim jumper,meatloaf and mashed potatoes,73,g,328,mg,3303,g,83,g,46,g,31,g,0,g,9,g,15,g
+495,claim jumper,the sheriff bone in ribeye 21 oz,106,g,649,mg,922,g,1,g,136,g,39,g,0,g,0,g,0,g
+496,claim jumper,porterhouse steak,130,g,389,mg,888,g,1,g,102,g,49,g,0,g,0,g,0,g
+497,claim jumper,chicken tender dinner,20,g,154,mg,4414,g,146,g,76,g,4,g,0,g,7,g,17,g
+498,claim jumper,southern fried chicken,45,g,203,mg,3175,g,106,g,70,g,18,g,0,g,5,g,13,g
+499,claim jumper,ribeye steak 12 oz,69,g,432,mg,773,g,1,g,90,g,25,g,0,g,0,g,0,g
+500,claim jumper,steak and grilled shrimp combo,52,g,185,mg,1319,g,17,g,55,g,18,g,0,g,1,g,2,g
+501,claim jumper,drunk chicken,120,g,440,mg,3160,g,50,g,80,g,60,g,0,g,10,g,10,g
+502,claim jumper,roasted tri tip dinner,31,g,213,mg,1078,g,2,g,59,g,11,g,0,g,1,g,0,g
+503,claim jumper,rotisserie chicken,69,g,263,mg,2003,g,18,g,62,g,24,g,0,g,0,g,14,g
+504,claim jumper,after the gold rush,47,g,216,mg,1408,g,47,g,59,g,22,g,0,g,4,g,7,g
+505,claim jumper,new york strip 12 oz,70,g,200,mg,790,g,10,g,70,g,30,g,0,g,0,g,0,g
+506,claim jumper,surf and turf combo,51,g,313,mg,1930,g,66,g,65,g,12,g,0,g,1,g,52,g
+507,claim jumper,black tie chicken pasta,97,g,345,mg,4069,g,161,g,91,g,48,g,0,g,11,g,12,g
+508,claim jumper,shrimp fresca pasta,143,g,522,mg,2674,g,110,g,65,g,78,g,0,g,5,g,5,g
+509,claim jumper,twisted jambalaya,59,g,248,mg,4671,g,129,g,58,g,14,g,0,g,9,g,9,g
+510,claim jumper,spaghetti and meatballs,81,g,163,mg,3140,g,111,g,80,g,25,g,0,g,11,g,9,g
+511,claim jumper,wood fired mini cheese pizza,40,g,70,mg,1460,g,90,g,30,g,20,g,0,g,0,g,10,g
+512,claim jumper,wood fired classic pepperoni pizza,90,g,220,mg,4280,g,190,g,80,g,40,g,0,g,10,g,20,g
+513,claim jumper,mini pepperoni pizza,32,g,74,mg,1450,g,64,g,26,g,14,g,0,g,3,g,0,g
+514,claim jumper,wood fired classic tri tip pizza,61,g,271,mg,2332,g,19,g,66,g,30,g,0,g,2,g,9,g
+515,claim jumper,mini wood fired bbq chicken pizza,40,g,110,mg,1970,g,100,g,40,g,20,g,0,g,0,g,20,g
+516,claim jumper,mini sausage and pepperoni pizza,39,g,93,mg,1717,g,64,g,32,g,17,g,0,g,3,g,0,g
+517,claim jumper,mini wood fired veggie works pizza,40,g,80,mg,1900,g,90,g,30,g,20,g,0,g,0,g,10,g
+518,claim jumper,wood fired classic bbq chicken pizza,80,g,230,mg,4570,g,230,g,80,g,40,g,0,g,10,g,50,g
+519,claim jumper,wood fired classic sausage and pepperoni pizza,100,g,250,mg,458,g,190,g,90,g,40,g,0,g,10,g,20,g
+520,claim jumper,wood fired classic veggie works pizza,70,g,160,mg,3800,g,200,g,70,g,30,g,0,g,10,g,20,g
+521,claim jumper,gluten free wood fired classic pepperoni pizza,100,g,220,mg,5000,g,260,g,90,g,40,g,0,g,10,g,20,g
+522,claim jumper,specialty calzones with alfredo sauce,90,g,200,mg,3500,g,190,g,60,g,40,g,0,g,10,g,20,g
+523,claim jumper,traditional calzone with marinara sauce,70,g,130,mg,3130,g,190,g,60,g,30,g,0,g,10,g,20,g
+524,claim jumper,gluten free wood fired classic chicken pizza,90,g,230,mg,5290,g,300,g,90,g,40,g,0,g,10,g,60,g
+525,claim jumper,specialty calzone without alfredo sauce,70,g,130,mg,2890,g,190,g,50,g,30,g,0,g,10,g,10,g
+526,claim jumper,gluten free wood fired classic sausage and pepperoni pizza,110,g,250,mg,5300,g,260,g,100,g,40,g,0,g,10,g,20,g
+527,claim jumper,gluten free wood fired classic cheese pizza,90,g,140,mg,3640,g,250,g,70,g,30,g,0,g,10,g,20,g
+528,claim jumper,gluten free wood fired classic veggie works pizza,80,g,160,mg,4520,g,260,g,80,g,30,g,0,g,10,g,30,g
+529,claim jumper,small wood fired tri tip pizza,34,g,148,mg,1289,g,10,g,36,g,17,g,0,g,1,g,4,g
+530,claim jumper,ranch dressing,19,g,19,mg,233,g,2,g,1,g,4,g,0,g,0,g,0,g
+531,claim jumper,balsamic vinaigrette,20,g,0,mg,220,g,0,g,0,g,0,g,0,g,0,g,0,g
+532,claim jumper,caesar dressing,20,g,20,mg,320,g,0,g,0,g,0,g,0,g,0,g,0,g
+533,claim jumper,honey mustard dressing,20,g,10,mg,160,g,0,g,0,g,0,g,0,g,0,g,0,g
+534,claim jumper,citrus dressing,10,g,0,mg,130,g,10,g,0,g,0,g,0,g,0,g,10,g
+535,claim jumper,blue cheese dressing,20,g,25,mg,270,g,1,g,3,g,5,g,0,g,0,g,0,g
+536,claim jumper,thousand island dressing,10,g,10,mg,380,g,0,g,0,g,0,g,0,g,0,g,0,g
+537,claim jumper,balsamic vinegar,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,4,g
+538,claim jumper,blended oil salad dressing,30,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+539,claim jumper,olive oil dressing,30,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+540,claim jumper,asian grilled chicken salad with dressing,25,g,62,mg,1946,g,48,g,34,g,3,g,0,g,5,g,32,g
+541,claim jumper,bbq chicken salad with dressing,42,g,93,mg,1395,g,52,g,32,g,7,g,0,g,6,g,28,g
+542,claim jumper,wedge salad with dressing,70,g,80,mg,1580,g,20,g,10,g,20,g,0,g,0,g,10,g
+543,claim jumper,chicken caesar salad with dressing,60,g,110,mg,1350,g,20,g,30,g,10,g,0,g,0,g,0,g
+544,claim jumper,california citrus chicken salad with dressing,75,g,100,mg,1458,g,95,g,42,g,17,g,0,g,13,g,71,g
+545,claim jumper,chopped cobb salad with chicken and dressing,90,g,500,mg,2260,g,20,g,60,g,30,g,0,g,10,g,10,g
+546,claim jumper,tri tip caesar salad with dressing,70,g,158,mg,1668,g,17,g,37,g,16,g,0,g,4,g,2,g
+547,claim jumper,house salad,15,g,51,mg,386,g,17,g,10,g,6,g,0,g,4,g,0,g
+548,claim jumper,vegetarian chinese salad with dressing,20,g,0,mg,1010,g,50,g,0,g,0,g,0,g,10,g,30,g
+549,claim jumper,caesar salad with dressing,32,g,20,mg,735,g,16,g,8,g,6,g,0,g,3,g,0,g
+550,claim jumper,vegetarian california citrus salad with dressing,62,g,38,mg,1077,g,89,g,17,g,15,g,0,g,13,g,66,g
+551,claim jumper,vegetarian bbq salad with dressing,30,g,30,mg,880,g,40,g,10,g,10,g,0,g,0,g,20,g
+552,claim jumper,vegetarian chopped cobb salad with dressing,60,g,260,mg,1250,g,30,g,30,g,20,g,0,g,10,g,10,g
+553,claim jumper,grilled shrimp caesar salad with dressingq,70,g,290,mg,1760,g,20,g,40,g,10,g,0,g,0,g,0,g
+554,claim jumper,sliced avocado add on,10,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+555,claim jumper,classic cheeseburger,71,g,171,mg,2252,g,57,g,57,g,22,g,0,g,3,g,0,g
+556,claim jumper,clubhouse sandwich,98,g,184,mg,3576,g,109,g,67,g,34,g,0,g,5,g,3,g
+557,claim jumper,farmhouse burger,59,g,383,mg,2508,g,66,g,55,g,20,g,0,g,3,g,13,g
+558,claim jumper,widow maker burger,89,g,177,mg,3973,g,126,g,62,g,26,g,0,g,12,g,19,g
+559,claim jumper,american grilled cheese sandwich,54,g,97,mg,1817,g,69,g,32,g,27,g,0,g,2,g,2,g
+560,claim jumper,impossible burger,75,g,64,mg,2212,g,91,g,44,g,24,g,0,g,11,g,10,g
+561,claim jumper,bacon and mac burger,48,g,185,mg,2264,g,89,g,59,g,21,g,0,g,5,g,11,g
+562,claim jumper,original tri tip dip sanwich,50,g,210,mg,1690,g,70,g,70,g,20,g,0,g,0,g,10,g
+563,claim jumper,meatloaf sandwich,91,g,255,mg,4033,g,128,g,53,g,29,g,0,g,9,g,52,g
+564,claim jumper,western bbq chicken sandwich,45,g,188,mg,2016,g,104,g,74,g,14,g,0,g,6,g,44,g
+565,claim jumper,american grilled cheese and bacon sandwich,67,g,190,mg,3650,g,69,g,62,g,31,g,0,g,2,g,2,g
+566,claim jumper,original tri tip dip sandwith with au jus,61,g,203,mg,3962,g,106,g,69,g,21,g,0,g,5,g,5,g
+567,claim jumper,original tri tip dip sandwich with bbq sauce,50,g,210,mg,2860,g,110,g,70,g,20,g,0,g,0,g,40,g
+568,claim jumper,classic hamburger with gluten free bun,40,g,110,mg,2180,g,90,g,50,g,10,g,0,g,10,g,10,g
+569,claim jumper,american grilled cheese and tomato sandwich,61,g,175,mg,3361,g,71,g,59,g,29,g,0,g,3,g,3,g
+570,claim jumper,classic hamburger,40,g,110,mg,1820,g,60,g,40,g,10,g,0,g,0,g,10,g
+571,claim jumper,classic cheeseburger with gluten free bun,50,g,140,mg,2300,g,90,g,50,g,20,g,0,g,10,g,10,g
+572,claim jumper,clubouse sandwich with avocado,115,g,184,mg,3584,g,118,g,70,g,37,g,0,g,12,g,3,g
+573,claim jumper,american grilled cheese and ham sandwich,61,g,175,mg,3360,g,69,g,58,g,29,g,0,g,2,g,2,g
+574,claim jumper,cali trip tip sandwich,68,g,198,mg,2183,g,85,g,69,g,19,g,0,g,11,g,4,g
+575,claim jumper,3 layer chocolate motherlode cake,585,g,1075,mg,10300,g,1730,g,135,g,255,g,5,g,65,g,1225,g
+576,claim jumper,absolut bacon tortellini banquet,95,g,395,mg,2800,g,87,g,71,g,52,g,0,g,4,g,7,g
+577,claim jumper,add bacon 2 slices,6,g,15,mg,290,g,0,g,4,g,2,g,0,g,0,g,0,g
+578,claim jumper,add french toast,17,g,115,mg,460,g,68,g,10,g,7,g,0,g,1,g,34,g
+579,claim jumper,add ham steak,5,g,60,mg,1190,g,0,g,20,g,1,g,0,g,0,g,0,g
+580,claim jumper,add pork sausage 2 links,28,g,70,mg,620,g,2,g,16,g,10,g,0,g,0,g,2,g
+581,claim jumper,after the gold rush,47,g,215,mg,1410,g,47,g,59,g,22,g,0,g,4,g,7,g
+582,claim jumper,ambrosia salad,7,g,15,mg,10,g,14,g,1,g,4,g,0,g,1,g,11,g
+583,claim jumper,american breakfast,20,g,0,mg,590,g,30,g,0,g,10,g,0,g,0,g,0,g
+584,claim jumper,american breakfast with bacon,30,g,20,mg,880,g,30,g,10,g,10,g,0,g,0,g,0,g
+585,claim jumper,american breakfast with butter,30,g,0,mg,680,g,30,g,0,g,10,g,0,g,0,g,0,g
+586,claim jumper,american breakfast with english muffin,20,g,0,mg,790,g,50,g,10,g,10,g,0,g,0,g,0,g
+587,claim jumper,american breakfast with freshs any style,30,g,420,mg,750,g,30,g,20,g,10,g,0,g,0,g,0,g
+588,claim jumper,american breakfast with rye,20,g,0,mg,910,g,60,g,10,g,10,g,0,g,0,g,0,g
+589,claim jumper,american breakfast with sausage links,50,g,70,mg,1210,g,30,g,20,g,20,g,0,g,0,g,0,g
+590,claim jumper,american breakfast with scrambled,40,g,650,mg,1350,g,30,g,20,g,10,g,0,g,0,g,0,g
+591,claim jumper,american breakfast with scrambled whites,20,g,0,mg,910,g,30,g,20,g,10,g,0,g,0,g,0,g
+592,claim jumper,american breakfast with sourdough,20,g,0,mg,860,g,60,g,10,g,10,g,0,g,0,g,0,g
+593,claim jumper,american breakfast with steak,30,g,60,mg,1780,g,30,g,20,g,10,g,0,g,0,g,0,g
+594,claim jumper,american breakfast with wheat,20,g,0,mg,1130,g,90,g,10,g,10,g,0,g,10,g,10,g
+595,claim jumper,american breakfast with white,20,g,0,mg,930,g,60,g,10,g,10,g,0,g,0,g,0,g
+596,claim jumper,american grilled cheese,54,g,95,mg,1820,g,69,g,32,g,27,g,0,g,2,g,2,g
+597,claim jumper,american grilled cheese with bacon,67,g,190,mg,3650,g,69,g,62,g,31,g,0,g,2,g,2,g
+598,claim jumper,american grilled cheese with ham,61,g,175,mg,3360,g,69,g,58,g,29,g,0,g,2,g,2,g
+599,claim jumper,american grilled cheese with tomatoes,61,g,175,mg,3360,g,71,g,59,g,29,g,0,g,3,g,3,g
+600,claim jumper,appetizer buffet,20,g,10,mg,660,g,40,g,10,g,0,g,0,g,10,g,10,g
+601,claim jumper,appetizer buffet with and spinach dip,40,g,90,mg,1280,g,50,g,20,g,20,g,0,g,10,g,20,g
+602,claim jumper,appetizer buffet with pepper zucchini with dressing,30,g,70,mg,1840,g,80,g,20,g,10,g,0,g,10,g,20,g
+603,claim jumper,appetizer buffet with potato skins,30,g,70,mg,1140,g,50,g,20,g,10,g,0,g,10,g,10,g
+604,claim jumper,appetizer buffet with shrimp with sauces,20,g,60,mg,1600,g,90,g,20,g,10,g,0,g,10,g,30,g
+605,claim jumper,appetizer buffet with sticks with sauce,40,g,70,mg,1840,g,70,g,20,g,10,g,0,g,10,g,20,g
+606,claim jumper,appetizer buffet with wings,30,g,90,mg,1300,g,40,g,20,g,10,g,0,g,10,g,10,g
+607,claim jumper,appetizer buffet with with salsa ranch,50,g,70,mg,1800,g,80,g,20,g,10,g,0,g,10,g,20,g
+608,claim jumper,arnold palmer,0,g,0,mg,20,g,20,g,0,g,0,g,0,g,0,g,20,g
+609,claim jumper,asian grilled chicken salad,25,g,60,mg,1950,g,48,g,34,g,3,g,0,g,5,g,32,g
+610,claim jumper,au jus,0,g,0,mg,190,g,0,g,0,g,0,g,0,g,0,g,0,g
+611,claim jumper,bacon and mac burger,48,g,185,mg,2260,g,89,g,59,g,21,g,0,g,5,g,11,g
+612,claim jumper,bacon 1 slice,6,g,10,mg,230,g,0,g,3,g,2,g,0,g,0,g,0,g
+613,claim jumper,baked lasagna,30,g,90,mg,1070,g,30,g,30,g,10,g,0,g,0,g,0,g
+614,claim jumper,baked lasagna banquet,30,g,90,mg,1070,g,30,g,30,g,10,g,0,g,0,g,0,g
+615,claim jumper,baked potato,0,g,0,mg,30,g,100,g,10,g,0,g,0,g,10,g,0,g
+616,claim jumper,baked potato with and sour cream,17,g,20,mg,160,g,83,g,10,g,9,g,0,g,6,g,3,g
+617,claim jumper,baked potato with cream,6,g,25,mg,40,g,83,g,11,g,4,g,0,g,6,g,4,g
+618,claim jumper,banana pudding,6,g,25,mg,270,g,22,g,3,g,4,g,0,g,0,g,20,g
+619,claim jumper,banquet chicken tender dinner dinner,25,g,185,mg,2550,g,88,g,67,g,11,g,0,g,5,g,18,g
+620,claim jumper,banquet chicken tender lunch,20,g,155,mg,2240,g,74,g,53,g,10,g,0,g,3,g,16,g
+621,claim jumper,banquet chips and salsa,4,g,0,mg,420,g,23,g,3,g,1,g,0,g,2,g,1,g
+622,claim jumper,banquet cj traditional breakfast with cj hash browns fresh fruit,18,g,435,mg,1030,g,46,g,17,g,7,g,0,g,4,g,18,g
+623,claim jumper,banquet motherlode breakfast with eggs denver scramble cj hash browns and fruit,28,g,2630,mg,1890,g,48,g,33,g,9,g,0,g,4,g,19,g
+624,claim jumper,barqs root beer,0,g,0,mg,40,g,50,g,0,g,0,g,0,g,0,g,50,g
+625,claim jumper,bbq baby back pork rib platter 4 6 6 servings,530,g,1670,mg,6740,g,110,g,310,g,190,g,0,g,0,g,90,g
+626,claim jumper,bbq baby back pork rib platter 4 6 6 servings with baked potato cream and butter,580,g,1810,mg,6850,g,410,g,350,g,230,g,0,g,20,g,100,g
+627,claim jumper,bbq baby back pork rib platter 4 6 6 servings with balsamic vinaigrette,620,g,1670,mg,8080,g,140,g,310,g,210,g,0,g,0,g,110,g
+628,claim jumper,bbq baby back pork rib platter 4 6 6 servings with balsamic vinegar,530,g,1670,mg,6740,g,150,g,310,g,190,g,0,g,0,g,130,g
+629,claim jumper,bbq baby back pork rib platter 4 6 6 servings with bleu cheese,600,g,1770,mg,7830,g,120,g,320,g,210,g,0,g,0,g,90,g
+630,claim jumper,bbq baby back pork rib platter 4 6 6 servings with caesar,640,g,1780,mg,8670,g,120,g,320,g,210,g,0,g,0,g,90,g
+631,claim jumper,bbq baby back pork rib platter 4 6 6 servings with caesar salad,550,g,1680,mg,7700,g,160,g,330,g,200,g,0,g,10,g,100,g
+632,claim jumper,bbq baby back pork rib platter 4 6 6 servings with citrus,580,g,1670,mg,7520,g,160,g,310,g,200,g,0,g,0,g,140,g
+633,claim jumper,bbq baby back pork rib platter 4 6 6 servings with creamy italian,640,g,1700,mg,7730,g,120,g,320,g,210,g,0,g,0,g,90,g
+634,claim jumper,bbq baby back pork rib platter 4 6 6 servings with honey mustard,630,g,1750,mg,7670,g,140,g,310,g,210,g,0,g,0,g,110,g
+635,claim jumper,bbq baby back pork rib platter 4 6 6 servings with hot bacon,540,g,1700,mg,6900,g,150,g,320,g,200,g,0,g,0,g,120,g
+636,claim jumper,bbq baby back pork rib platter 4 6 6 servings with house salad,570,g,1840,mg,7770,g,160,g,340,g,210,g,0,g,10,g,110,g
+637,claim jumper,bbq baby back pork rib platter 4 6 6 servings with mashed potatoes,630,g,1970,mg,8060,g,300,g,340,g,260,g,0,g,20,g,110,g
+638,claim jumper,bbq baby back pork rib platter 4 6 6 servings with olive oil,690,g,1670,mg,6740,g,110,g,310,g,220,g,0,g,0,g,90,g
+639,claim jumper,bbq baby back pork rib platter 4 6 6 servings with olive oil blend,690,g,1670,mg,6740,g,110,g,310,g,210,g,0,g,0,g,90,g
+640,claim jumper,bbq baby back pork rib platter 4 6 6 servings with ranch,600,g,1740,mg,7710,g,120,g,320,g,210,g,0,g,0,g,90,g
+641,claim jumper,bbq baby back pork rib platter 4 6 6 servings with roasted vegetables,550,g,1670,mg,6980,g,190,g,330,g,200,g,0,g,20,g,120,g
+642,claim jumper,bbq baby back pork rib platter 4 6 6 servings with thai slaw,550,g,1670,mg,7350,g,170,g,320,g,200,g,0,g,10,g,120,g
+643,claim jumper,bbq baby back pork rib platter 4 6 6 servings with thousand island,580,g,1720,mg,9020,g,140,g,320,g,200,g,0,g,0,g,110,g
+644,claim jumper,bbq baby back pork rib platter 8 10 10 servings,880,g,2780,mg,12010,g,220,g,520,g,320,g,0,g,0,g,180,g
+645,claim jumper,bbq baby back pork rib platter 8 10 10 servings with baked potato cream and butter,960,g,3020,mg,12190,g,710,g,580,g,380,g,0,g,40,g,200,g
+646,claim jumper,bbq baby back pork rib platter 8 10 10 servings with balsamic vinaigrette,1030,g,2780,mg,14250,g,260,g,520,g,340,g,0,g,0,g,210,g
+647,claim jumper,bbq baby back pork rib platter 8 10 10 servings with balsamic vinegar,880,g,2780,mg,12010,g,280,g,520,g,320,g,0,g,0,g,240,g
+648,claim jumper,bbq baby back pork rib platter 8 10 10 servings with bleu cheese,1010,g,2950,mg,13840,g,230,g,540,g,360,g,0,g,0,g,180,g
+649,claim jumper,bbq baby back pork rib platter 8 10 10 servings with caesar,1060,g,2970,mg,15240,g,230,g,530,g,360,g,0,g,0,g,180,g
+650,claim jumper,bbq baby back pork rib platter 8 10 10 servings with caesar salad,920,g,2810,mg,13620,g,290,g,550,g,330,g,0,g,20,g,190,g
+651,claim jumper,bbq baby back pork rib platter 8 10 10 servings with citrus,970,g,2780,mg,13310,g,300,g,520,g,340,g,0,g,0,g,250,g
+652,claim jumper,bbq baby back pork rib platter 8 10 10 servings with creamy italian,1060,g,2830,mg,13660,g,230,g,530,g,350,g,0,g,0,g,180,g
+653,claim jumper,bbq baby back pork rib platter 8 10 10 servings with honey mustard,1050,g,2910,mg,13570,g,260,g,520,g,350,g,0,g,0,g,210,g
+654,claim jumper,bbq baby back pork rib platter 8 10 10 servings with hot bacon,900,g,2830,mg,12280,g,280,g,530,g,330,g,0,g,0,g,230,g
+655,claim jumper,bbq baby back pork rib platter 8 10 10 servings with house salad,950,g,3060,mg,13730,g,290,g,570,g,350,g,0,g,20,g,210,g
+656,claim jumper,bbq baby back pork rib platter 8 10 10 servings with mashed potatoes,1040,g,3260,mg,14120,g,520,g,560,g,430,g,0,g,30,g,200,g
+657,claim jumper,bbq baby back pork rib platter 8 10 10 servings with olive oil,1160,g,2780,mg,12010,g,220,g,520,g,360,g,0,g,0,g,180,g
+658,claim jumper,bbq baby back pork rib platter 8 10 10 servings with olive oil blend,1160,g,2780,mg,12010,g,220,g,520,g,340,g,0,g,0,g,180,g
+659,claim jumper,bbq baby back pork rib platter 8 10 10 servings with ranch,1000,g,2900,mg,13640,g,230,g,530,g,350,g,0,g,0,g,180,g
+660,claim jumper,bbq baby back pork rib platter 8 10 10 servings with roasted vegetables,910,g,2780,mg,12390,g,340,g,540,g,330,g,0,g,40,g,220,g
+661,claim jumper,bbq baby back pork rib platter 8 10 10 servings with thai slaw,910,g,2780,mg,12990,g,320,g,540,g,330,g,0,g,20,g,230,g
+662,claim jumper,bbq baby back pork rib platter 8 10 10 servings with thousand island,960,g,2860,mg,15810,g,270,g,530,g,340,g,0,g,10,g,220,g
+663,claim jumper,bbq baby back ribs full rack,77,g,245,mg,2500,g,75,g,46,g,28,g,0,g,0,g,64,g
+664,claim jumper,bbq baby back ribs half rack,46,g,145,mg,1650,g,51,g,27,g,17,g,0,g,0,g,43,g
+665,claim jumper,bbq baked beans,8,g,10,mg,610,g,29,g,4,g,2,g,0,g,2,g,20,g
+666,claim jumper,bbq chicken pizza 1 slice,10,g,30,mg,570,g,29,g,10,g,4,g,0,g,1,g,6,g
+667,claim jumper,bbq chicken pizza classic 1 slice,10,g,30,mg,570,g,30,g,10,g,0,g,0,g,0,g,10,g
+668,claim jumper,bbq chicken pizza classic 1 slice gluten free crust,10,g,30,mg,660,g,40,g,10,g,0,g,0,g,0,g,10,g
+669,claim jumper,bbq chicken pizza classic 8 slices,80,g,230,mg,4570,g,230,g,80,g,40,g,0,g,10,g,50,g
+670,claim jumper,bbq chicken pizza classic 8 slices gluten free crust,90,g,230,mg,5290,g,300,g,90,g,40,g,0,g,10,g,60,g
+671,claim jumper,bbq chicken pizza mini 1 slice,10,g,20,mg,330,g,20,g,10,g,0,g,0,g,0,g,0,g
+672,claim jumper,bbq chicken pizza mini 6 slices,40,g,110,mg,1970,g,100,g,40,g,20,g,0,g,0,g,20,g
+673,claim jumper,bbq chicken salad,42,g,95,mg,1400,g,52,g,32,g,7,g,0,g,6,g,28,g
+674,claim jumper,bbq chicken salad platter 4 6 6 servings,200,g,460,mg,6290,g,220,g,160,g,40,g,0,g,20,g,120,g
+675,claim jumper,bbq chicken salad platter 8 10 10 servings,330,g,750,mg,10350,g,360,g,250,g,60,g,0,g,40,g,200,g
+676,claim jumper,bbq chicken sandwich platter 4 6 6 servings,170,g,560,mg,8100,g,430,g,230,g,50,g,0,g,20,g,180,g
+677,claim jumper,bbq chicken sliders,14,g,60,mg,2360,g,95,g,37,g,2,g,0,g,3,g,38,g
+678,claim jumper,bbq pork riblets,3,g,5,mg,90,g,4,g,0,g,1,g,0,g,0,g,3,g
+679,claim jumper,beef ribs platter 4 6 6 servings,470,g,980,mg,7390,g,110,g,190,g,200,g,0,g,0,g,80,g
+680,claim jumper,beef ribs platter 4 6 6 servings with baked potato cream and butter,520,g,1120,mg,7500,g,400,g,230,g,230,g,0,g,20,g,100,g
+681,claim jumper,beef ribs platter 4 6 6 servings with balsamic vinaigrette,560,g,980,mg,8740,g,140,g,190,g,220,g,0,g,0,g,110,g
+682,claim jumper,beef ribs platter 4 6 6 servings with balsamic vinegar,470,g,980,mg,7390,g,150,g,190,g,200,g,0,g,0,g,120,g
+683,claim jumper,beef ribs platter 4 6 6 servings with bleu cheese,550,g,1080,mg,8490,g,110,g,200,g,220,g,0,g,0,g,90,g
+684,claim jumper,beef ribs platter 4 6 6 servings with caesar,580,g,1090,mg,9330,g,110,g,200,g,220,g,0,g,0,g,80,g
+685,claim jumper,beef ribs platter 4 6 6 servings with caesar salad,490,g,990,mg,8360,g,150,g,210,g,210,g,0,g,10,g,90,g
+686,claim jumper,beef ribs platter 4 6 6 servings with citrus,530,g,980,mg,8180,g,160,g,190,g,210,g,0,g,0,g,130,g
+687,claim jumper,beef ribs platter 4 6 6 servings with creamy italian,580,g,1010,mg,8380,g,110,g,190,g,220,g,0,g,0,g,90,g
+688,claim jumper,beef ribs platter 4 6 6 servings with hot bacon,480,g,1010,mg,7560,g,140,g,190,g,210,g,0,g,0,g,110,g
+689,claim jumper,beef ribs platter 4 6 6 servings with house salad,510,g,1150,mg,8430,g,150,g,220,g,220,g,0,g,10,g,100,g
+690,claim jumper,beef ribs platter 4 6 6 servings with mashed potatoes,570,g,1280,mg,8710,g,300,g,210,g,270,g,0,g,20,g,100,g
+691,claim jumper,beef ribs platter 4 6 6 servings with olive oil,630,g,980,mg,7390,g,110,g,190,g,230,g,0,g,0,g,80,g
+692,claim jumper,beef ribs platter 4 6 6 servings with olive oil blend,630,g,980,mg,7390,g,110,g,190,g,210,g,0,g,0,g,80,g
+693,claim jumper,beef ribs platter 4 6 6 servings with ranch,540,g,1050,mg,8370,g,120,g,190,g,220,g,0,g,0,g,90,g
+694,claim jumper,beef ribs platter 4 6 6 servings with roasted vegetables,490,g,980,mg,7630,g,180,g,200,g,200,g,0,g,20,g,110,g
+695,claim jumper,beef ribs platter 4 6 6 servings with thai slaw,490,g,980,mg,8010,g,170,g,200,g,210,g,0,g,10,g,120,g
+696,claim jumper,beef ribs platter 4 6 6 servings with thousand island,520,g,1030,mg,9670,g,140,g,190,g,210,g,0,g,0,g,110,g
+697,claim jumper,beef ribs platter 8 10 10 servings,780,g,1630,mg,12320,g,180,g,320,g,340,g,0,g,10,g,140,g
+698,claim jumper,beef ribs platter 8 10 10 servings with baked potato cream and butter,860,g,1870,mg,12500,g,670,g,380,g,390,g,0,g,40,g,160,g
+699,claim jumper,beef ribs platter 8 10 10 servings with balsamic vinaigrette,930,g,1630,mg,14570,g,230,g,320,g,360,g,0,g,10,g,180,g
+700,claim jumper,beef ribs platter 8 10 10 servings with balsamic vinegar,780,g,1630,mg,12320,g,240,g,320,g,340,g,0,g,10,g,200,g
+701,claim jumper,beef ribs platter 8 10 10 servings with bleu cheese,910,g,1800,mg,14150,g,190,g,330,g,370,g,0,g,10,g,140,g
+702,claim jumper,beef ribs platter 8 10 10 servings with caesar,960,g,1820,mg,15550,g,190,g,330,g,370,g,0,g,10,g,140,g
+703,claim jumper,beef ribs platter 8 10 10 servings with caesar salad,820,g,1650,mg,13930,g,260,g,350,g,350,g,0,g,20,g,150,g
+704,claim jumper,beef ribs platter 8 10 10 servings with citrus,880,g,1630,mg,13630,g,270,g,320,g,350,g,0,g,10,g,220,g
+705,claim jumper,beef ribs platter 8 10 10 servings with creamy italian,970,g,1680,mg,13970,g,190,g,320,g,360,g,0,g,10,g,140,g
+706,claim jumper,beef ribs platter 8 10 10 servings with honey mustard,950,g,1760,mg,13880,g,220,g,320,g,370,g,0,g,10,g,170,g
+707,claim jumper,beef ribs platter 8 10 10 servings with hot bacon,800,g,1680,mg,12590,g,240,g,320,g,350,g,0,g,10,g,190,g
+708,claim jumper,beef ribs platter 8 10 10 servings with house salad,850,g,1910,mg,14040,g,250,g,360,g,370,g,0,g,20,g,170,g
+709,claim jumper,beef ribs platter 8 10 10 servings with mashed potatoes,950,g,2110,mg,14430,g,480,g,360,g,440,g,0,g,30,g,160,g
+710,claim jumper,beef ribs platter 8 10 10 servings with olive oil,1060,g,1630,mg,12320,g,180,g,320,g,380,g,0,g,10,g,140,g
+711,claim jumper,beef ribs platter 8 10 10 servings with olive oil blend,1060,g,1630,mg,12320,g,180,g,320,g,360,g,0,g,10,g,140,g
+712,claim jumper,beef ribs platter 8 10 10 servings with ranch,900,g,1750,mg,13950,g,190,g,320,g,360,g,0,g,10,g,150,g
+713,claim jumper,beef ribs platter 8 10 10 servings with roasted vegetables,810,g,1630,mg,12710,g,300,g,330,g,340,g,0,g,40,g,180,g
+714,claim jumper,beef ribs platter 8 10 10 servings with thai slaw,820,g,1630,mg,13300,g,280,g,330,g,340,g,0,g,20,g,190,g
+715,claim jumper,beef ribs platter 8 10 10 servings with thousand island,870,g,1710,mg,16120,g,230,g,320,g,350,g,0,g,10,g,180,g
+716,claim jumper,beef sliders platter 4 6 6 servings,130,g,450,mg,4660,g,270,g,180,g,40,g,0,g,10,g,100,g
+717,claim jumper,beef sliders with cheese,35,g,95,mg,2200,g,67,g,38,g,12,g,0,g,3,g,14,g
+718,claim jumper,belgian waffle with berries,30,g,180,mg,450,g,80,g,10,g,20,g,0,g,10,g,40,g
+719,claim jumper,belgian waffle with butter,20,g,90,mg,540,g,60,g,0,g,10,g,0,g,0,g,30,g
+720,claim jumper,berry butter cake,66,g,295,mg,790,g,147,g,14,g,40,g,0,g,2,g,109,g
+721,claim jumper,berry butter cake platter 4 6 6 servings,200,g,890,mg,2380,g,430,g,40,g,120,g,0,g,0,g,320,g
+722,claim jumper,berry butter cake platter 8 10 10 servings,330,g,1480,mg,3970,g,720,g,70,g,200,g,0,g,10,g,540,g
+723,claim jumper,biscuits and gravy,50,g,30,mg,2740,g,120,g,20,g,30,g,0,g,0,g,10,g
+724,claim jumper,black tie chicken pasta,97,g,345,mg,4070,g,161,g,91,g,48,g,0,g,11,g,12,g
+725,claim jumper,black tie chicken pasta banquet,41,g,135,mg,1530,g,72,g,40,g,21,g,0,g,4,g,4,g
+726,claim jumper,black tie pasta,6,g,20,mg,210,g,9,g,6,g,3,g,0,g,0,g,1,g
+727,claim jumper,black tie pasta platter 4 6 6 servings,320,g,1060,mg,12270,g,580,g,320,g,160,g,0,g,30,g,30,g
+728,claim jumper,black tie pasta platter 8 10 10 servings,490,g,1600,mg,18410,g,860,g,480,g,250,g,0,g,40,g,50,g
+729,claim jumper,blackened chicken stuffed baked potato,38,g,175,mg,1470,g,97,g,55,g,20,g,0,g,10,g,9,g
+730,claim jumper,blackened salmon dinner,26,g,115,mg,780,g,3,g,40,g,5,g,0,g,2,g,0,g
+731,claim jumper,blueberry muffin,11,g,20,mg,370,g,73,g,5,g,0,g,0,g,11,g,39,g
+732,claim jumper,bonanza platter,120,g,420,mg,6110,g,180,g,80,g,60,g,0,g,20,g,20,g
+733,claim jumper,breakfast bacon tacos,50,g,530,mg,1920,g,60,g,40,g,20,g,0,g,0,g,20,g
+734,claim jumper,breakfast burrito,40,g,480,mg,1730,g,70,g,30,g,20,g,0,g,0,g,20,g
+735,claim jumper,breakfast burrito platter 4 6 6 servings,310,g,3070,mg,14300,g,440,g,230,g,150,g,0,g,30,g,100,g
+736,claim jumper,breakfast burrito platter 8 10 10 servings,520,g,5120,mg,23790,g,700,g,380,g,250,g,0,g,40,g,140,g
+737,claim jumper,breakfast burrito with chorizo,60,g,540,mg,2200,g,80,g,40,g,30,g,0,g,0,g,20,g
+738,claim jumper,breakfast croissant,80,g,590,mg,2490,g,80,g,50,g,40,g,0,g,0,g,10,g
+739,claim jumper,breakfast sandwich platter 4 6 6 servings,110,g,1550,mg,6460,g,290,g,150,g,40,g,0,g,10,g,80,g
+740,claim jumper,breakfast sandwich platter 8 10 10 servings,180,g,2580,mg,10740,g,460,g,240,g,70,g,0,g,20,g,110,g
+741,claim jumper,breakfast taco platter 4 6 6 servings,280,g,3190,mg,11450,g,330,g,230,g,130,g,0,g,20,g,90,g
+742,claim jumper,breakfast taco platter 8 10 10 servings,470,g,5320,mg,19050,g,540,g,380,g,220,g,0,g,30,g,130,g
+743,claim jumper,brownie bites,9,g,5,mg,100,g,24,g,2,g,2,g,0,g,0,g,17,g
+744,claim jumper,brownie finale,60,g,90,mg,780,g,208,g,9,g,28,g,3,g,2,g,156,g
+745,claim jumper,brownie finale with chocolate chips,64,g,90,mg,790,g,218,g,9,g,32,g,3,g,2,g,166,g
+746,claim jumper,brownie platter 4 6 6 servings,140,g,130,mg,2150,g,540,g,20,g,60,g,10,g,0,g,390,g
+747,claim jumper,brownie platter 4 6 6 servings with chocolate chips,160,g,130,mg,2200,g,570,g,20,g,70,g,10,g,0,g,420,g
+748,claim jumper,brownie platter 4 6 6 servings with walnuts,170,g,130,mg,2150,g,540,g,20,g,60,g,10,g,10,g,390,g
+749,claim jumper,brownie platter 8 10 10 servings,240,g,220,mg,3590,g,900,g,30,g,100,g,10,g,10,g,650,g
+750,claim jumper,brownie platter 8 10 10 servings with chocolate chips,260,g,220,mg,3660,g,950,g,30,g,120,g,10,g,10,g,700,g
+751,claim jumper,brownie platter 8 10 10 servings with walnuts,280,g,220,mg,3590,g,910,g,40,g,110,g,10,g,10,g,650,g
+752,claim jumper,brownie with walnuts,57,g,45,mg,720,g,182,g,8,g,21,g,3,g,2,g,131,g
+753,claim jumper,brunch eggs benedict,14,g,220,mg,540,g,15,g,12,g,6,g,0,g,1,g,2,g
+754,claim jumper,brussels sprouts for sharing,28,g,25,mg,920,g,21,g,8,g,8,g,0,g,8,g,6,g
+755,claim jumper,buffalo chicken wings platter 4 6 6 servings,190,g,780,mg,3730,g,20,g,130,g,40,g,0,g,0,g,10,g
+756,claim jumper,buffalo chicken wings platter 8 10 10 servings,320,g,1300,mg,6220,g,40,g,220,g,70,g,0,g,10,g,20,g
+757,claim jumper,buffalo chicken wings share size,90,g,215,mg,3620,g,18,g,59,g,21,g,0,g,3,g,6,g
+758,claim jumper,buffalo chicken wings snack size,48,g,115,mg,1880,g,11,g,32,g,11,g,0,g,2,g,4,g
+759,claim jumper,buffalo chicken wrap,61,g,150,mg,2330,g,51,g,47,g,22,g,0,g,6,g,4,g
+760,claim jumper,butter,11,g,0,mg,110,g,0,g,0,g,5,g,0,g,0,g,0,g
+761,claim jumper,buttermilk pancakes,8,g,20,mg,310,g,17,g,2,g,3,g,0,g,0,g,4,g
+762,claim jumper,caesar salad platter 4 6 6 servings,260,g,250,mg,5480,g,80,g,40,g,50,g,0,g,20,g,10,g
+763,claim jumper,caesar salad platter 4 6 6 servings with chicken,310,g,560,mg,7160,g,90,g,160,g,60,g,0,g,20,g,20,g
+764,claim jumper,caesar salad platter 8 10 10 servings,440,g,410,mg,9030,g,130,g,60,g,90,g,0,g,30,g,20,g
+765,claim jumper,caesar salad platter 8 10 10 servings with chicken,510,g,910,mg,11720,g,140,g,260,g,100,g,0,g,30,g,30,g
+766,claim jumper,caesar salad grilled shrimp,70,g,290,mg,1760,g,20,g,40,g,10,g,0,g,0,g,0,g
+767,claim jumper,caesar salad tri tip,70,g,160,mg,1670,g,17,g,37,g,16,g,0,g,4,g,2,g
+768,claim jumper,calamari share size,33,g,360,mg,3180,g,118,g,55,g,6,g,0,g,9,g,17,g
+769,claim jumper,calamari snack size,19,g,180,mg,1920,g,70,g,29,g,4,g,0,g,6,g,16,g
+770,claim jumper,cali tri tip sandwich,68,g,200,mg,2180,g,85,g,69,g,19,g,0,g,11,g,4,g
+771,claim jumper,california baja chicken platter 4 6 6 servings,500,g,940,mg,11110,g,770,g,440,g,150,g,0,g,90,g,70,g
+772,claim jumper,california baja chicken platter 8 10 10 servings,810,g,1510,mg,17760,g,890,g,670,g,240,g,0,g,130,g,110,g
+773,claim jumper,california citrus salad platter 4 6 6 servings,320,g,190,mg,4670,g,360,g,80,g,70,g,0,g,70,g,270,g
+774,claim jumper,california citrus salad platter 4 6 6 servings with chicken,370,g,500,mg,6350,g,370,g,210,g,80,g,0,g,70,g,270,g
+775,claim jumper,california citrus salad platter 8 10 10 servings,530,g,300,mg,7570,g,590,g,130,g,120,g,0,g,110,g,430,g
+776,claim jumper,california citrus salad platter 8 10 10 servings with chicken,590,g,800,mg,10260,g,600,g,330,g,130,g,0,g,110,g,440,g
+777,claim jumper,california omelet with english muffin,90,g,1360,mg,2690,g,60,g,60,g,30,g,0,g,10,g,10,g
+778,claim jumper,california omelet with rye,90,g,1360,mg,2810,g,70,g,70,g,30,g,0,g,10,g,0,g
+779,claim jumper,california omelet with sourdough,90,g,1360,mg,2760,g,70,g,60,g,30,g,0,g,10,g,0,g
+780,claim jumper,california omelet with white,90,g,1360,mg,2830,g,70,g,60,g,30,g,0,g,10,g,10,g
+781,claim jumper,california works pizza 1 slice,11,g,25,mg,580,g,25,g,10,g,5,g,0,g,1,g,2,g
+782,claim jumper,calzone topping black olives,1,g,0,mg,140,g,2,g,0,g,0,g,0,g,0,g,0,g
+783,claim jumper,calzone topping chopped bacon 1 4 cup,10,g,40,mg,550,g,0,g,10,g,10,g,0,g,0,g,0,g
+784,claim jumper,calzone topping chopped bacon 2 tbsp,10,g,20,mg,270,g,0,g,0,g,0,g,0,g,0,g,0,g
+785,claim jumper,calzone topping chopped spinach,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+786,claim jumper,calzone topping diced roma tomatoes,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+787,claim jumper,calzone topping feta cheese crumbles,6,g,20,mg,320,g,0,g,5,g,4,g,0,g,0,g,0,g
+788,claim jumper,calzone topping goat cheese crumbles,8,g,15,mg,130,g,0,g,0,g,8,g,0,g,0,g,0,g
+789,claim jumper,calzone topping italian sausage,0,g,10,mg,110,g,0,g,0,g,0,g,0,g,0,g,0,g
+790,claim jumper,calzone topping pepperoni,20,g,40,mg,480,g,0,g,0,g,0,g,0,g,0,g,0,g
+791,claim jumper,calzone topping red onion strips,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+792,claim jumper,calzone topping sauteed mushrooms 1 tbsp,2,g,0,mg,105,g,2,g,0,g,0,g,0,g,0,g,0,g
+793,claim jumper,calzone topping sauteed mushrooms 2 tbsp,0,g,0,mg,100,g,0,g,0,g,0,g,0,g,0,g,0,g
+794,claim jumper,calzone topping shredded parmesan cheese,20,g,20,mg,540,g,0,g,20,g,0,g,0,g,0,g,0,g
+795,claim jumper,carrot cake,122,g,275,mg,1050,g,185,g,18,g,39,g,0,g,6,g,145,g
+796,claim jumper,cashew chicken sandwich platter 4 6 6 servings,280,g,360,mg,4070,g,360,g,140,g,50,g,0,g,30,g,120,g
+797,claim jumper,casino roast,3,g,20,mg,380,g,1,g,13,g,1,g,0,g,0,g,0,g
+798,claim jumper,cheese enchiladas,11,g,35,mg,350,g,18,g,9,g,6,g,0,g,1,g,1,g
+799,claim jumper,cheese pizza 1 slice,4,g,10,mg,260,g,14,g,5,g,2,g,0,g,1,g,1,g
+800,claim jumper,cheese pizza classic 1 slice,10,g,20,mg,360,g,20,g,10,g,0,g,0,g,0,g,0,g
+801,claim jumper,cheese pizza classic 1 slice gluten free crust,10,g,20,mg,450,g,30,g,10,g,0,g,0,g,0,g,0,g
+802,claim jumper,cheese pizza mini 1 slice,10,g,10,mg,240,g,10,g,10,g,0,g,0,g,0,g,0,g
+803,claim jumper,chicken and dumplings,13,g,30,mg,660,g,19,g,5,g,8,g,0,g,1,g,1,g
+804,claim jumper,chicken club wrap platter 4 6 6 servings,220,g,610,mg,6240,g,280,g,200,g,80,g,0,g,30,g,90,g
+805,claim jumper,chicken fajita platter 4 6 6 servings,230,g,590,mg,18910,g,890,g,340,g,70,g,0,g,90,g,50,g
+806,claim jumper,chicken pot pie,140,g,260,mg,3550,g,170,g,40,g,30,g,0,g,10,g,20,g
+807,claim jumper,chicken taco platter 4 6 6 servings,150,g,200,mg,9800,g,330,g,80,g,30,g,0,g,20,g,20,g
+808,claim jumper,chicken tender dinner,20,g,155,mg,4410,g,146,g,76,g,4,g,0,g,7,g,17,g
+809,claim jumper,chicken tenders,2,g,30,mg,250,g,8,g,13,g,0,g,0,g,0,g,0,g
+810,claim jumper,chicken tenders platter 4 6 6 servings,30,g,530,mg,6840,g,230,g,230,g,10,g,0,g,10,g,80,g
+811,claim jumper,chicken tenders platter 8 10 10 servings,50,g,890,mg,11400,g,380,g,380,g,10,g,0,g,10,g,140,g
+812,claim jumper,chili french fries,35,g,90,mg,1960,g,44,g,18,g,18,g,0,g,5,g,3,g
+813,claim jumper,chili french fries for sharing,51,g,130,mg,2910,g,65,g,28,g,25,g,0,g,7,g,3,g
+814,claim jumper,chinese chicken salad banquet,10,g,30,mg,650,g,25,g,15,g,0,g,0,g,5,g,15,g
+815,claim jumper,chinese salad platter 4 6 6 servings,70,g,0,mg,4680,g,220,g,20,g,10,g,0,g,30,g,140,g
+816,claim jumper,chinese salad platter 4 6 6 servings with chicken,120,g,310,mg,6360,g,230,g,150,g,10,g,0,g,30,g,140,g
+817,claim jumper,chinese salad platter 8 10 10 servings,120,g,0,mg,7740,g,360,g,40,g,10,g,0,g,40,g,230,g
+818,claim jumper,chinese salad platter 8 10 10 servings with chicken,190,g,500,mg,10430,g,380,g,240,g,20,g,0,g,40,g,230,g
+819,claim jumper,chips and guacamole platter 4 6 6 servings,80,g,0,mg,3750,g,210,g,30,g,10,g,0,g,40,g,10,g
+820,claim jumper,chips and guacamole platter 8 10 10 servings,150,g,0,mg,6650,g,330,g,50,g,20,g,0,g,80,g,10,g
+821,claim jumper,chips and salsa,10,g,0,mg,2130,g,90,g,10,g,0,g,0,g,10,g,0,g
+822,claim jumper,chips and salsa platter 4 6 6 servings,40,g,0,mg,7560,g,290,g,40,g,0,g,0,g,30,g,20,g
+823,claim jumper,chips and salsa platter 8 10 10 servings,70,g,0,mg,12600,g,480,g,70,g,10,g,0,g,50,g,30,g
+824,claim jumper,chips and salsa happy hour,10,g,0,mg,1060,g,50,g,10,g,0,g,0,g,10,g,0,g
+825,claim jumper,chocolate chip cookie with ice cream,47,g,110,mg,730,g,161,g,14,g,26,g,0,g,5,g,107,g
+826,claim jumper,chocolate dipped strawberries,4,g,0,mg,0,g,5,g,0,g,1,g,0,g,0,g,4,g
+827,claim jumper,chocolate shake,40,g,140,mg,250,g,110,g,10,g,30,g,0,g,0,g,90,g
+828,claim jumper,chocolate shake 1 shake,41,g,135,mg,250,g,109,g,14,g,27,g,0,g,0,g,93,g
+829,claim jumper,classic cheeseburger,50,g,140,mg,1940,g,60,g,50,g,20,g,0,g,0,g,10,g
+830,claim jumper,classic cheeseburger gluten free,50,g,140,mg,2300,g,90,g,50,g,20,g,0,g,10,g,10,g
+831,claim jumper,classic hamburger,40,g,110,mg,1820,g,60,g,40,g,10,g,0,g,0,g,10,g
+832,claim jumper,classic hamburger gluten free,40,g,110,mg,2180,g,90,g,50,g,10,g,0,g,10,g,10,g
+833,claim jumper,clubhouse sandwich,98,g,185,mg,3580,g,109,g,67,g,34,g,0,g,5,g,3,g
+834,claim jumper,clubhouse sandwich platter 4 6 6 servings,180,g,500,mg,9490,g,410,g,200,g,50,g,0,g,20,g,80,g
+835,claim jumper,clubhouse sandwich with avocado,115,g,185,mg,3580,g,118,g,70,g,37,g,0,g,12,g,3,g
+836,claim jumper,cobb sandwich platter 4 6 6 servings,250,g,380,mg,6400,g,320,g,160,g,80,g,0,g,40,g,90,g
+837,claim jumper,cobb sandwich platter 8 10 10 servings,410,g,630,mg,10640,g,520,g,270,g,130,g,0,g,60,g,130,g
+838,claim jumper,coconut shrimp dinner,36,g,195,mg,4900,g,202,g,44,g,12,g,0,g,12,g,48,g
+839,claim jumper,coconut shrimp platter 4 6 6 servings,70,g,440,mg,10520,g,420,g,100,g,20,g,0,g,30,g,120,g
+840,claim jumper,coconut shrimp platter 8 10 10 servings,120,g,740,mg,17630,g,710,g,160,g,40,g,0,g,50,g,210,g
+841,claim jumper,coffee,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+842,claim jumper,coke,0,g,0,mg,10,g,40,g,0,g,0,g,0,g,0,g,40,g
+843,claim jumper,cold cereal,10,g,30,mg,90,g,10,g,10,g,0,g,0,g,0,g,10,g
+844,claim jumper,cold cereal with bran,10,g,30,mg,350,g,40,g,10,g,0,g,0,g,10,g,20,g
+845,claim jumper,cold cereal with flakes,10,g,30,mg,260,g,30,g,10,g,0,g,0,g,0,g,10,g
+846,claim jumper,comstock lunch with bacon dressing,140,g,520,mg,3290,g,130,g,110,g,50,g,0,g,10,g,70,g
+847,claim jumper,comstock lunch with dressing,140,g,520,mg,3340,g,130,g,110,g,50,g,0,g,10,g,70,g
+848,claim jumper,comstock lunch with island dressing,140,g,520,mg,3470,g,130,g,110,g,50,g,0,g,10,g,70,g
+849,claim jumper,comstock lunch with mustard dressing,150,g,530,mg,3360,g,130,g,110,g,50,g,0,g,10,g,70,g
+850,claim jumper,comstock lunch with oil,150,g,520,mg,3280,g,130,g,110,g,50,g,0,g,10,g,70,g
+851,claim jumper,cookie and brownie combo platter 4 6 6 servings,180,g,320,mg,2340,g,650,g,40,g,90,g,10,g,20,g,430,g
+852,claim jumper,cookie and brownie combo platter 4 6 6 servings with chocolate chips,190,g,320,mg,2370,g,670,g,40,g,100,g,10,g,20,g,450,g
+853,claim jumper,cookie and brownie combo platter 4 6 6 servings with walnuts,200,g,320,mg,2340,g,650,g,40,g,90,g,10,g,20,g,440,g
+854,claim jumper,cookie and brownie combo platter 8 10 10 servings,320,g,600,mg,3970,g,1120,g,70,g,160,g,10,g,40,g,740,g
+855,claim jumper,cookie and brownie combo platter 8 10 10 servings with chocolate chips,330,g,600,mg,4010,g,1150,g,70,g,170,g,10,g,40,g,770,g
+856,claim jumper,cookie and brownie combo platter 8 10 10 servings with walnuts,340,g,600,mg,3970,g,1130,g,70,g,160,g,10,g,40,g,740,g
+857,claim jumper,cookie platter 10 cookies,430,g,1180,mg,4540,g,1460,g,120,g,240,g,0,g,80,g,870,g
+858,claim jumper,cookie platter 6 cookies,260,g,710,mg,2720,g,870,g,70,g,150,g,0,g,50,g,520,g
+859,claim jumper,country fried steak,50,g,160,mg,4200,g,116,g,60,g,17,g,0,g,5,g,13,g
+860,claim jumper,country fried steak and eggs,50,g,170,mg,2730,g,80,g,40,g,20,g,0,g,0,g,10,g
+861,claim jumper,country fried steak and eggs with butter,60,g,170,mg,2820,g,80,g,40,g,20,g,0,g,0,g,10,g
+862,claim jumper,country fried steak and eggs with scrambled whites,50,g,170,mg,3050,g,80,g,60,g,20,g,0,g,0,g,10,g
+863,claim jumper,country fried steak and eggs with sourdough,50,g,170,mg,3000,g,120,g,40,g,20,g,0,g,10,g,10,g
+864,claim jumper,country fried steak and eggs with wheat,50,g,170,mg,3270,g,140,g,50,g,20,g,0,g,10,g,20,g
+865,claim jumper,country potatoes,2,g,0,mg,170,g,10,g,1,g,1,g,0,g,1,g,1,g
+866,claim jumper,cowboy candied bacon 3 slices,9,g,25,mg,870,g,37,g,6,g,3,g,0,g,0,g,35,g
+867,claim jumper,cowboy candied bacon 5 slices,15,g,40,mg,1440,g,62,g,10,g,5,g,0,g,0,g,59,g
+868,claim jumper,crab cake benedict,120,g,700,mg,2580,g,80,g,40,g,50,g,0,g,0,g,10,g
+869,claim jumper,cream cheese pie,77,g,275,mg,630,g,97,g,17,g,46,g,0,g,1,g,74,g
+870,claim jumper,cream corn for sharing,15,g,60,mg,600,g,38,g,8,g,9,g,0,g,1,g,14,g
+871,claim jumper,creamy chicken tortilla soup 1 gallon,64,g,210,mg,20820,g,224,g,80,g,16,g,0,g,32,g,48,g
+872,claim jumper,creamy chicken tortilla soup 1 2 gallon,32,g,105,mg,10410,g,112,g,40,g,8,g,0,g,16,g,24,g
+873,claim jumper,creamy chicken tortilla soup bowl,10,g,20,mg,1950,g,20,g,10,g,0,g,0,g,0,g,0,g
+874,claim jumper,creamy chicken tortilla soup cup,0,g,10,mg,1300,g,10,g,10,g,0,g,0,g,0,g,0,g
+875,claim jumper,creamy horseradish,3,g,10,mg,90,g,2,g,1,g,2,g,0,g,0,g,1,g
+876,claim jumper,create your own omelet with bacon,40,g,660,mg,1510,g,30,g,20,g,20,g,0,g,0,g,0,g
+877,claim jumper,create your own omelet with cheese,50,g,670,mg,1840,g,30,g,30,g,20,g,0,g,0,g,0,g
+878,claim jumper,create your own omelet with chorizo,50,g,670,mg,1520,g,30,g,30,g,20,g,0,g,0,g,0,g
+879,claim jumper,create your own omelet with english muffin,40,g,650,mg,1560,g,60,g,30,g,20,g,0,g,0,g,0,g
+880,claim jumper,create your own omelet with ham,40,g,680,mg,1950,g,30,g,30,g,20,g,0,g,0,g,0,g
+881,claim jumper,create your own omelet with mushrooms,40,g,650,mg,1360,g,30,g,20,g,20,g,0,g,0,g,0,g
+882,claim jumper,create your own omelet with rye,40,g,650,mg,1680,g,60,g,30,g,20,g,0,g,0,g,0,g
+883,claim jumper,create your own omelet with spinach,40,g,650,mg,1380,g,30,g,20,g,20,g,0,g,0,g,0,g
+884,claim jumper,create your own omelet with tomatoes,40,g,650,mg,1360,g,30,g,20,g,20,g,0,g,0,g,0,g
+885,claim jumper,create your own omelet with white,40,g,650,mg,1700,g,60,g,30,g,20,g,0,g,0,g,0,g
+886,claim jumper,crispy brussels sprouts for sharing,69,g,85,mg,970,g,36,g,14,g,21,g,0,g,9,g,7,g
+887,claim jumper,cup creamy chicken tortilla soup,0,g,10,mg,1300,g,10,g,10,g,0,g,0,g,0,g,0,g
+888,claim jumper,cup new england clam chowder,30,g,120,mg,840,g,20,g,0,g,20,g,0,g,0,g,0,g
+889,claim jumper,cup potato cheddar soup,30,g,120,mg,730,g,20,g,10,g,20,g,0,g,0,g,0,g
+890,claim jumper,denver omelet with english muffin,60,g,740,mg,2480,g,60,g,50,g,30,g,0,g,0,g,0,g
+891,claim jumper,denver omelet with rye,60,g,740,mg,2600,g,70,g,60,g,30,g,0,g,0,g,0,g
+892,claim jumper,denver omelet with white,60,g,740,mg,2620,g,70,g,50,g,30,g,0,g,0,g,10,g
+893,claim jumper,dessert platter trio 4 6 6 servings,250,g,530,mg,2610,g,640,g,50,g,100,g,0,g,20,g,440,g
+894,claim jumper,dessert platter trio 4 6 6 servings with chocolate chips,250,g,530,mg,2630,g,650,g,50,g,110,g,0,g,20,g,450,g
+895,claim jumper,dessert platter trio 4 6 6 servings with walnuts,260,g,530,mg,2610,g,640,g,50,g,100,g,0,g,20,g,440,g
+896,claim jumper,dessert platter trio 8 10 10 servings,410,g,830,mg,4320,g,990,g,70,g,160,g,10,g,30,g,700,g
+897,claim jumper,dessert platter trio 8 10 10 servings with chocolate chips,420,g,830,mg,4350,g,1010,g,70,g,160,g,10,g,30,g,720,g
+898,claim jumper,dessert platter trio 8 10 10 servings with walnuts,430,g,830,mg,4320,g,1000,g,70,g,160,g,10,g,30,g,700,g
+899,claim jumper,diet coke,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+900,claim jumper,diet sprite,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+901,claim jumper,dried cranberries,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,5,g
+902,claim jumper,drunk chicken,120,g,440,mg,3160,g,50,g,80,g,60,g,0,g,10,g,10,g
+903,claim jumper,egg scrambled,6,g,215,mg,250,g,0,g,6,g,2,g,0,g,0,g,0,g
+904,claim jumper,eggs benedict,50,g,450,mg,1760,g,60,g,30,g,20,g,0,g,0,g,10,g
+905,claim jumper,fajitas bar,14,g,35,mg,800,g,42,g,10,g,7,g,0,g,4,g,3,g
+906,claim jumper,fajitas bar with chicken,21,g,120,mg,1110,g,43,g,45,g,8,g,0,g,4,g,4,g
+907,claim jumper,fajitas bar with tri tip,35,g,175,mg,1520,g,43,g,49,g,14,g,0,g,4,g,3,g
+908,claim jumper,farmhouse burger,59,g,385,mg,2510,g,66,g,55,g,20,g,0,g,3,g,13,g
+909,claim jumper,filet mignon,45,g,130,mg,800,g,11,g,41,g,17,g,0,g,1,g,1,g
+910,claim jumper,fish and chips,37,g,90,mg,5360,g,148,g,41,g,7,g,0,g,10,g,2,g
+911,claim jumper,fish taco platter 4 6 6 servings,100,g,260,mg,9540,g,400,g,110,g,20,g,0,g,20,g,20,g
+912,claim jumper,fish taco platter 8 10 10 servings,200,g,520,mg,16770,g,730,g,210,g,40,g,0,g,40,g,40,g
+913,claim jumper,fish tacos fried,36,g,95,mg,2670,g,101,g,44,g,6,g,0,g,9,g,4,g
+914,claim jumper,fish tacos grilled,32,g,95,mg,1280,g,62,g,42,g,6,g,0,g,6,g,4,g
+915,claim jumper,french fries for sharing,15,g,0,mg,1910,g,55,g,5,g,3,g,0,g,5,g,0,g
+916,claim jumper,french toast,6,g,115,mg,340,g,40,g,10,g,2,g,0,g,1,g,7,g
+917,claim jumper,french toast entree with berries,40,g,350,mg,1260,g,170,g,30,g,20,g,0,g,10,g,60,g
+918,claim jumper,french toast platter 4 6 6 servings,190,g,1040,mg,4450,g,520,g,90,g,80,g,0,g,10,g,220,g
+919,claim jumper,french toast platter 8 10 10 servings,320,g,1730,mg,7410,g,860,g,140,g,130,g,0,g,20,g,370,g
+920,claim jumper,french toast 1 piece,6,g,115,mg,340,g,39,g,10,g,2,g,0,g,1,g,6,g
+921,claim jumper,french 1 piece with and syrup,17,g,115,mg,460,g,68,g,10,g,7,g,0,g,1,g,34,g
+922,claim jumper,fresh orange juice,0,g,0,mg,20,g,19,g,2,g,0,g,0,g,0,g,19,g
+923,claim jumper,full house,50,g,60,mg,1530,g,80,g,10,g,20,g,0,g,0,g,10,g
+924,claim jumper,full house with bacon,50,g,70,mg,1820,g,80,g,10,g,20,g,0,g,0,g,10,g
+925,claim jumper,full house with scrambled,60,g,700,mg,2290,g,80,g,30,g,30,g,0,g,0,g,10,g
+926,claim jumper,full house with scrambled whites,50,g,60,mg,1850,g,80,g,30,g,20,g,0,g,0,g,10,g
+927,claim jumper,full house with steak,50,g,120,mg,2720,g,80,g,30,g,20,g,0,g,0,g,10,g
+928,claim jumper,greek yogurt,10,g,70,mg,110,g,20,g,10,g,10,g,0,g,0,g,10,g
+929,claim jumper,green beans,5,g,0,mg,45,g,5,g,1,g,1,g,0,g,2,g,1,g
+930,claim jumper,green beans 10 servings,60,g,0,mg,90,g,110,g,30,g,10,g,0,g,50,g,20,g
+931,claim jumper,green beans 6 servings,40,g,0,mg,50,g,60,g,10,g,10,g,0,g,30,g,10,g
+932,claim jumper,grilled mahi platter 4 6 6 servings,130,g,850,mg,11340,g,520,g,300,g,30,g,0,g,30,g,50,g
+933,claim jumper,grilled mahi platter 4 6 6 servings with balsamic vinaigrette,220,g,850,mg,12690,g,550,g,300,g,40,g,0,g,30,g,70,g
+934,claim jumper,grilled mahi platter 4 6 6 servings with balsamic vinegar,130,g,850,mg,11340,g,560,g,300,g,30,g,0,g,30,g,80,g
+935,claim jumper,grilled mahi platter 4 6 6 servings with bleu cheese,210,g,950,mg,12440,g,520,g,310,g,50,g,0,g,30,g,50,g
+936,claim jumper,grilled mahi platter 4 6 6 servings with caesar,240,g,960,mg,13280,g,530,g,300,g,50,g,0,g,30,g,50,g
+937,claim jumper,grilled mahi platter 4 6 6 servings with caesar salad,160,g,860,mg,12310,g,570,g,320,g,30,g,0,g,40,g,50,g
+938,claim jumper,grilled mahi platter 4 6 6 servings with citrus,190,g,850,mg,12130,g,570,g,300,g,30,g,0,g,30,g,90,g
+939,claim jumper,grilled mahi platter 4 6 6 servings with creamy italian,240,g,880,mg,12330,g,530,g,300,g,40,g,0,g,30,g,50,g
+940,claim jumper,grilled mahi platter 4 6 6 servings with honey mustard,230,g,930,mg,12280,g,540,g,300,g,40,g,0,g,30,g,70,g
+941,claim jumper,grilled mahi platter 4 6 6 servings with hot bacon,140,g,880,mg,11500,g,560,g,300,g,30,g,0,g,30,g,80,g
+942,claim jumper,grilled mahi platter 4 6 6 servings with house salad,170,g,1020,mg,12370,g,560,g,330,g,40,g,0,g,40,g,70,g
+943,claim jumper,grilled mahi platter 4 6 6 servings with olive oil,300,g,850,mg,11340,g,520,g,300,g,50,g,0,g,30,g,50,g
+944,claim jumper,grilled mahi platter 4 6 6 servings with olive oil blend,300,g,850,mg,11340,g,520,g,300,g,40,g,0,g,30,g,50,g
+945,claim jumper,grilled mahi platter 4 6 6 servings with ranch,200,g,920,mg,12320,g,530,g,300,g,40,g,0,g,30,g,50,g
+946,claim jumper,grilled mahi platter 4 6 6 servings with thousand island,180,g,890,mg,13620,g,550,g,300,g,40,g,0,g,30,g,70,g
+947,claim jumper,grilled mahi platter 8 10 10 servings,220,g,1360,mg,20540,g,930,g,490,g,50,g,0,g,40,g,80,g
+948,claim jumper,grilled mahi platter 8 10 10 servings with balsamic vinaigrette,370,g,1360,mg,22780,g,970,g,490,g,70,g,0,g,40,g,110,g
+949,claim jumper,grilled mahi platter 8 10 10 servings with balsamic vinegar,220,g,1360,mg,20540,g,990,g,490,g,50,g,0,g,40,g,140,g
+950,claim jumper,grilled mahi platter 8 10 10 servings with bleu cheese,350,g,1530,mg,22370,g,930,g,510,g,80,g,0,g,40,g,80,g
+951,claim jumper,grilled mahi platter 8 10 10 servings with caesar,400,g,1550,mg,23770,g,930,g,500,g,80,g,0,g,40,g,80,g
+952,claim jumper,grilled mahi platter 8 10 10 servings with caesar salad,260,g,1390,mg,22150,g,1000,g,520,g,60,g,0,g,60,g,90,g
+953,claim jumper,grilled mahi platter 8 10 10 servings with citrus,310,g,1360,mg,21850,g,1010,g,490,g,60,g,0,g,40,g,150,g
+954,claim jumper,grilled mahi platter 8 10 10 servings with creamy italian,400,g,1410,mg,22190,g,940,g,490,g,70,g,0,g,40,g,80,g
+955,claim jumper,grilled mahi platter 8 10 10 servings with honey mustard,390,g,1490,mg,22100,g,970,g,490,g,80,g,0,g,40,g,110,g
+956,claim jumper,grilled mahi platter 8 10 10 servings with hot bacon,240,g,1410,mg,20810,g,990,g,500,g,60,g,0,g,40,g,130,g
+957,claim jumper,grilled mahi platter 8 10 10 servings with house salad,290,g,1640,mg,22260,g,1000,g,540,g,80,g,0,g,50,g,110,g
+958,claim jumper,grilled mahi platter 8 10 10 servings with olive oil,500,g,1360,mg,20540,g,930,g,490,g,90,g,0,g,40,g,80,g
+959,claim jumper,grilled mahi platter 8 10 10 servings with olive oil blend,500,g,1360,mg,20540,g,930,g,490,g,70,g,0,g,40,g,80,g
+960,claim jumper,grilled mahi platter 8 10 10 servings with ranch,340,g,1480,mg,22170,g,940,g,500,g,70,g,0,g,40,g,80,g
+961,claim jumper,grilled mahi platter 8 10 10 servings with thousand island,300,g,1440,mg,24340,g,980,g,490,g,60,g,0,g,40,g,120,g
+962,claim jumper,grilled salmon dinner,40,g,130,mg,890,g,2,g,40,g,14,g,0,g,1,g,0,g
+963,claim jumper,grilled salmon platter 4 6 6 servings,190,g,600,mg,10730,g,500,g,280,g,50,g,0,g,20,g,40,g
+964,claim jumper,grilled salmon platter 4 6 6 servings with balsamic vinaigrette,290,g,600,mg,12080,g,530,g,290,g,60,g,0,g,20,g,60,g
+965,claim jumper,grilled salmon platter 4 6 6 servings with balsamic vinegar,190,g,600,mg,10730,g,540,g,280,g,50,g,0,g,20,g,70,g
+966,claim jumper,grilled salmon platter 4 6 6 servings with bleu cheese,270,g,710,mg,11830,g,510,g,300,g,70,g,0,g,20,g,40,g
+967,claim jumper,grilled salmon platter 4 6 6 servings with caesar,300,g,720,mg,12670,g,510,g,290,g,70,g,0,g,20,g,40,g
+968,claim jumper,grilled salmon platter 4 6 6 servings with caesar salad,220,g,620,mg,11700,g,550,g,300,g,60,g,0,g,30,g,40,g
+969,claim jumper,grilled salmon platter 4 6 6 servings with citrus,250,g,600,mg,11520,g,550,g,290,g,60,g,0,g,20,g,80,g
+970,claim jumper,grilled salmon platter 4 6 6 servings with creamy italian,310,g,630,mg,11730,g,510,g,290,g,70,g,0,g,20,g,40,g
+971,claim jumper,grilled salmon platter 4 6 6 servings with honey mustard,300,g,680,mg,11670,g,530,g,290,g,70,g,0,g,20,g,60,g
+972,claim jumper,grilled salmon platter 4 6 6 servings with hot bacon,210,g,630,mg,10900,g,540,g,290,g,60,g,0,g,20,g,70,g
+973,claim jumper,grilled salmon platter 4 6 6 servings with house salad,240,g,770,mg,11770,g,540,g,310,g,70,g,0,g,30,g,60,g
+974,claim jumper,grilled salmon platter 4 6 6 servings with olive oil,360,g,600,mg,10730,g,500,g,280,g,70,g,0,g,20,g,40,g
+975,claim jumper,grilled salmon platter 4 6 6 servings with olive oil blend,360,g,600,mg,10730,g,500,g,280,g,60,g,0,g,20,g,40,g
+976,claim jumper,grilled salmon platter 4 6 6 servings with ranch,270,g,680,mg,11710,g,510,g,290,g,60,g,0,g,20,g,40,g
+977,claim jumper,grilled salmon platter 4 6 6 servings with thousand island,250,g,650,mg,13010,g,530,g,290,g,60,g,0,g,30,g,60,g
+978,claim jumper,grilled salmon platter 8 10 10 servings,320,g,970,mg,19570,g,910,g,470,g,80,g,0,g,40,g,60,g
+979,claim jumper,grilled salmon platter 8 10 10 servings with balsamic vinaigrette,480,g,970,mg,21810,g,950,g,470,g,110,g,0,g,40,g,100,g
+980,claim jumper,grilled salmon platter 8 10 10 servings with balsamic vinegar,320,g,970,mg,19570,g,970,g,470,g,80,g,0,g,40,g,120,g
+981,claim jumper,grilled salmon platter 8 10 10 servings with bleu cheese,450,g,1140,mg,21400,g,910,g,490,g,120,g,0,g,40,g,70,g
+982,claim jumper,grilled salmon platter 8 10 10 servings with caesar,500,g,1160,mg,22800,g,910,g,480,g,120,g,0,g,40,g,60,g
+983,claim jumper,grilled salmon platter 8 10 10 servings with caesar salad,370,g,1000,mg,21180,g,980,g,500,g,100,g,0,g,50,g,70,g
+984,claim jumper,grilled salmon platter 8 10 10 servings with citrus,420,g,970,mg,20880,g,990,g,470,g,100,g,0,g,40,g,140,g
+985,claim jumper,grilled salmon platter 8 10 10 servings with creamy italian,510,g,1020,mg,21220,g,920,g,470,g,110,g,0,g,40,g,70,g
+986,claim jumper,grilled salmon platter 8 10 10 servings with honey mustard,500,g,1110,mg,21130,g,950,g,470,g,110,g,0,g,40,g,90,g
+987,claim jumper,grilled salmon platter 8 10 10 servings with hot bacon,340,g,1020,mg,19840,g,970,g,470,g,90,g,0,g,40,g,110,g
+988,claim jumper,grilled salmon platter 8 10 10 servings with house salad,390,g,1260,mg,21290,g,980,g,520,g,110,g,0,g,50,g,90,g
+989,claim jumper,grilled salmon platter 8 10 10 servings with olive oil,600,g,970,mg,19570,g,910,g,470,g,120,g,0,g,40,g,60,g
+990,claim jumper,grilled salmon platter 8 10 10 servings with olive oil blend,600,g,970,mg,19570,g,910,g,470,g,100,g,0,g,40,g,60,g
+991,claim jumper,grilled salmon platter 8 10 10 servings with ranch,450,g,1100,mg,21200,g,920,g,470,g,110,g,0,g,40,g,70,g
+992,claim jumper,grilled salmon platter 8 10 10 servings with thousand island,410,g,1050,mg,23370,g,960,g,470,g,100,g,0,g,40,g,100,g
+993,claim jumper,grilled shrimp dinner,22,g,185,mg,1560,g,53,g,30,g,6,g,0,g,3,g,5,g
+994,claim jumper,grilled shrimp platter 4 6 6 servings,130,g,920,mg,10590,g,520,g,210,g,30,g,0,g,30,g,40,g
+995,claim jumper,grilled shrimp platter 4 6 6 servings with balsamic vinaigrette,220,g,920,mg,11940,g,550,g,210,g,40,g,0,g,30,g,70,g
+996,claim jumper,grilled shrimp platter 4 6 6 servings with balsamic vinegar,130,g,920,mg,10590,g,560,g,210,g,30,g,0,g,30,g,80,g
+997,claim jumper,grilled shrimp platter 4 6 6 servings with bleu cheese,210,g,1020,mg,11690,g,520,g,220,g,50,g,0,g,30,g,50,g
+998,claim jumper,grilled shrimp platter 4 6 6 servings with caesar,240,g,1030,mg,12530,g,530,g,210,g,50,g,0,g,30,g,50,g
+999,claim jumper,grilled shrimp platter 4 6 6 servings with caesar salad,160,g,930,mg,11560,g,570,g,230,g,40,g,0,g,40,g,50,g

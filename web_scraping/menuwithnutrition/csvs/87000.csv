@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,joes crab shack,kids celery and ranch,13,g,0,mg,350,g,6,g,2,g,2.5,g,0,g,2,g,3,g
+1,joes crab shack,kids cheesy mac,9,g,20,mg,910,g,35,g,11,g,3,g,0,g,1,g,8,g
+2,joes crab shack,kids apple sauce,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,1,g,22,g
+3,joes crab shack,homestyle chicken tenders with sides,81,g,155,mg,2200,g,93,g,82,g,16,g,0,g,6,g,15,g
+4,joes crab shack,pan fried cheesy chicken with sides,100,g,235,mg,2460,g,110,g,58,g,34,g,18,g,7,g,8,g
+5,joes crab shack,ribeye with sides,82,g,205,mg,1680,g,26,g,77,g,34,g,5,g,5,g,4,g
+6,joes crab shack,joes steak deal with sides,32,g,120,mg,2060,g,53,g,53,g,8,g,0,g,8,g,2,g
+7,joes crab shack,chicken caesar salad with dressing,46,g,130,mg,1580,g,18,g,47,g,11,g,0,g,5,g,5,g
+8,joes crab shack,crab cake chipotle caesar salad with dressing,72,g,140,mg,2410,g,52,g,27,g,14,g,7,g,11,g,11,g
+9,joes crab shack,snow crab classic cobb salad with dressing,38,g,270,mg,1530,g,38,g,38,g,14,g,0,g,10,g,11,g
+10,joes crab shack,shrimp caesar salad with dressing,38,g,180,mg,2100,g,19,g,28,g,10,g,0,g,5,g,5,g
+11,joes crab shack,chicken classic cobb salad with dressing,46,g,325,mg,1800,g,38,g,59,g,15,g,0,g,10,g,11,g
+12,joes crab shack,house side salad without dressing,7,g,15,mg,250,g,10,g,6,g,3,g,0,g,2,g,3,g
+13,joes crab shack,caesar salad with dressing,37,g,35,mg,1110,g,18,g,13,g,9,g,0,g,5,g,5,g
+14,joes crab shack,aruba chicken salad with dressing,49,g,130,mg,1220,g,37,g,50,g,14,g,0,g,7,g,22,g
+15,joes crab shack,shrimp classic cobb salad with dressing,39,g,370,mg,1780,g,39,g,40,g,14,g,0,g,10,g,11,g
+16,joes crab shack,aruba shrimp salad with dressing,61,g,75,mg,1380,g,60,g,23,g,18,g,0,g,15,g,23,g
+17,joes crab shack,chicken chipotle caesar salad with dressing,46,g,110,mg,2390,g,42,g,44,g,9,g,0,g,10,g,9,g
+18,joes crab shack,caesar side salad with dressing,18,g,15,mg,540,g,8,g,6,g,4.5,g,0,g,2,g,2,g
+19,joes crab shack,crab cake sandwich without sides,61,g,135,mg,1490,g,40,g,22,g,12,g,10,g,3,g,4,g
+20,joes crab shack,chipotle bacon cheeseburger without sides,68,g,165,mg,2440,g,47,g,53,g,26,g,9,g,3,g,13,g
+21,joes crab shack,grilled chicken club sandwich without sides,49,g,135,mg,1730,g,36,g,51,g,17,g,7,g,2,g,5,g
+22,joes crab shack,blackened mahi sandwich without sides,53,g,205,mg,1090,g,38,g,54,g,12,g,8,g,2,g,7,g
+23,joes crab shack,blackened chicken club sandwich without sides,71,g,135,mg,1320,g,36,g,51,g,22,g,14,g,2,g,5,g
+24,joes crab shack,joes classic steampot with sides,75,g,285,mg,3110,g,70,g,62,g,19,g,14,g,7,g,6,g
+25,joes crab shack,bucket of snow crab with sides without butter,4,g,100,mg,1030,g,68,g,42,g,0,g,0,g,7,g,6,g
+26,joes crab shack,ragin cajun steampot with sides,107,g,250,mg,7320,g,89,g,68,g,26,g,28,g,10,g,9,g
+27,joes crab shack,shrimp trio platter with sides,53,g,350,mg,2920,g,96,g,50,g,14,g,2,g,14,g,21,g
+28,joes crab shack,bucket of crab daddy feast with sides without butter,4,g,125,mg,1410,g,69,g,49.3,g,0,g,0,g,7,g,6,g
+29,joes crab shack,fish and chips with sides,92,g,110,mg,3160,g,99,g,52,g,17,g,0,g,10,g,12,g
+30,joes crab shack,coconut shrimp with sides,72,g,90,mg,1550,g,127,g,24,g,20,g,0,g,25,g,24,g
+31,joes crab shack,shrimp pasta alfredo with sides,85,g,400,mg,3980,g,158,g,70,g,36,g,1,g,8,g,3,g
+32,joes crab shack,crab stuffed shrimp with sides,37,g,335,mg,2750,g,48,g,43,g,8,g,3.5,g,5,g,4,g
+33,joes crab shack,fish and shrimp with sides,92,g,170,mg,3050,g,111,g,71,g,18,g,0,g,7,g,18,g
+34,joes crab shack,bucket of king crab with sides without butter,3,g,65,mg,1410,g,68,g,33,g,0,g,0,g,7,g,6,g
+35,joes crab shack,maui mahi with sides,28,g,200,mg,3400,g,49,g,56,g,7,g,3.5,g,8,g,9,g
+36,joes crab shack,crab cake dinner with sides,109,g,260,mg,3420,g,82,g,42,g,21,g,14,g,9,g,14,g
+37,joes crab shack,skillet paella with sides,84,g,390,mg,5600,g,196,g,115,g,18,g,7,g,12,g,17,g
+38,joes crab shack,east coast platter with sides,144,g,335,mg,4650,g,143,g,61,g,27,g,9,g,13,g,9,g
+39,joes crab shack,big shrimp platter with sides,84,g,205,mg,3800,g,144,g,42,g,20,g,0,g,18,g,33,g
+40,joes crab shack,grilled sunset salmon with sides,45,g,135,mg,3650,g,66,g,53,g,10,g,4,g,8,g,25,g
+41,joes crab shack,bucket of dungeness crab with sides without butter,3,g,120,mg,640,g,69,g,44,g,0,g,0,g,7,g,6,g
+42,joes crab shack,kj steampot with sides,85,g,120,mg,2630,g,77,g,54,g,19,g,25,g,7,g,7,g
+43,joes crab shack,steak and malibu shrimp,22,g,265,mg,1910,g,48,g,68,g,6,g,0,g,5,g,6,g
+44,joes crab shack,old bay steampot with sides,74,g,170,mg,2560,g,72,g,60,g,19,g,14,g,7,g,6,g
+45,joes crab shack,blackened tilapia with sides,64,g,240,mg,1940,g,44,g,110,g,16,g,14,g,6,g,4,g
+46,joes crab shack,popcorn shrimp with sides,54,g,120,mg,2420,g,98,g,28,g,10,g,0,g,9,g,16,g
+47,joes crab shack,seaside platter with sides,92,g,160,mg,3740,g,117,g,64,g,18,g,0,g,8,g,19,g
+48,joes crab shack,bucket of lobster daddy feast with sides without butter,4,g,320,mg,1420,g,69,g,66,g,1,g,0,g,7,g,6,g
+49,joes crab shack,fishermans platter with sides,129,g,280,mg,4290,g,137,g,67,g,27,g,0,g,11,g,21,g
+50,joes crab shack,snapper pontchartrain with sides,74,g,180,mg,2000,g,44,g,61,g,21,g,16,g,5,g,5,g
+51,joes crab shack,sunset fire grilled steampot with sides,75,g,285,mg,10180,g,80,g,64,g,19,g,14,g,9,g,7,g
+52,joes crab shack,crispy shrimp with sides,58,g,180,mg,2650,g,100,g,36,g,12,g,0,g,7,g,16,g
+53,joes crab shack,caribbean feast platter with sides,59,g,385,mg,3620,g,105,g,82,g,16,g,7,g,16,g,29,g
+54,joes crab shack,get stuffed snapper with sides,43,g,200,mg,2030,g,48,g,61,g,14,g,3,g,4,g,6,g
+55,joes crab shack,orleans steampot with sides,65,g,730,mg,3930,g,72,g,105,g,16,g,14,g,8,g,7,g
+56,joes crab shack,crawfish half n half with sides,47,g,180,mg,1770,g,72,g,34,g,16,g,0,g,4,g,11,g
+57,joes crab shack,grilled malibu shrimp with sides,19,g,290,mg,2400,g,55,g,39,g,4,g,0,g,5,g,9,g
+58,joes crab shack,pasta laya with sides,94,g,335,mg,5140,g,161,g,82,g,24,g,14,g,12,g,10,g
+59,joes crab shack,salmon orleans with sides,65,g,285,mg,2210,g,34,g,65,g,20,g,7,g,1,g,2,g
+60,joes crab shack,samuel adams steampot with sides,74,g,175,mg,2400,g,72,g,54,g,19,g,14,g,7,g,6,g
+61,joes crab shack,crunchy catfish with sides,94,g,65,mg,2880,g,123,g,33,g,18,g,0,g,10,g,10,g
+62,joes crab shack,big hook up platter with sides,168,g,330,mg,5940,g,220,g,94,g,37,g,2,g,26,g,27,g
+63,joes crab shack,bean town bake steampot with sides,78,g,705,mg,4170,g,73,g,113,g,20,g,14,g,7,g,6,g
+64,joes crab shack,diablo steampot with sides,84,g,175,mg,2900,g,96,g,69,g,19,g,21,g,9,g,11,g
+65,joes crab shack,hush puppies,34,g,0,mg,1640,g,94,g,10,g,6,g,0,g,8,g,2,g
+66,joes crab shack,coleslaw,7,g,0,mg,90,g,13,g,2,g,1.5,g,0,g,2,g,10,g
+67,joes crab shack,add on fried shrimp,17,g,90,mg,1260,g,27,g,15,g,3.5,g,0,g,1,g,9,g
+68,joes crab shack,ear of corn,1,g,0,mg,170,g,14,g,2,g,0,g,0,g,2,g,2,g
+69,joes crab shack,broccoli florets,6,g,0,mg,110,g,6,g,3,g,1,g,0,g,3,g,2,g
+70,joes crab shack,dirty rice,2.5,g,20,mg,600,g,30,g,5,g,1,g,0,g,1,g,1,g
+71,joes crab shack,add on coconut shrimp,24,g,45,mg,600,g,42,g,9,g,8,g,0,g,9,g,15,g
+72,joes crab shack,add on snow crab,23,g,35,mg,520,g,0,g,12,g,5,g,7,g,0,g,0,g
+73,joes crab shack,cheesy new potatoes,15,g,35,mg,670,g,19,g,9,g,9,g,0.5,g,2,g,1,g
+74,joes crab shack,onion strings,23,g,0,mg,410,g,61,g,5,g,4.5,g,0,g,6,g,4,g
+75,joes crab shack,12oz ribeye,110,g,300,mg,1760,g,80,g,78,g,41,g,0,g,7,g,11,g
+76,joes crab shack,add flavor chesapeake style,0,g,0,mg,75,g,0,g,0,g,0,g,0,g,0,g,0,g
+77,joes crab shack,add flavor fire grilled,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+78,joes crab shack,add flavor garlic herb,3,g,0,mg,85,g,0,g,0,g,0,g,0,g,0,g,0,g
+79,joes crab shack,add flavor joes famous bbq,19,g,0,mg,180,g,1,g,0,g,3,g,0,g,0,g,0,g
+80,joes crab shack,add flavor simply steamed,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+81,joes crab shack,add flavor spicy boi,0,g,0,mg,105,g,0,g,0,g,0,g,0,g,0,g,0,g
+82,joes crab shack,add on coconut shrimp,56,g,185,mg,620,g,82,g,30,g,22,g,0,g,7,g,26,g
+83,joes crab shack,add on crab cake,26,g,120,mg,1410,g,20,g,19,g,3,g,0,g,1,g,9,g
+84,joes crab shack,add on dungeness crab,2,g,100,mg,510,g,1,g,30,g,0,g,0,g,0,g,0,g
+85,joes crab shack,add on fried shrimp,80,g,185,mg,1630,g,60,g,30,g,12,g,0,g,2,g,10,g
+86,joes crab shack,add on grilled shrimp,7,g,125,mg,970,g,42,g,20,g,1,g,0,g,1,g,0,g
+87,joes crab shack,add on popcorn shrimp,33,g,135,mg,1860,g,72,g,25,g,5,g,0,g,2,g,11,g
+88,joes crab shack,add on queen crab,8,g,120,mg,390,g,0,g,24,g,1,g,0,g,0,g,0,g
+89,joes crab shack,add on snow crab,7,g,105,mg,350,g,0,g,21,g,1,g,0,g,0,g,0,g
+90,joes crab shack,antarctic king crab add sides and flavor,2,g,165,mg,1090,g,2,g,46,g,0,g,0,g,0,g,1,g
+91,joes crab shack,arctic bay steampot steampot add sides,42,g,675,mg,3210,g,9,g,155,g,13,g,0,g,0,g,0,g
+92,joes crab shack,bairdi crab add sides and flavor,1,g,160,mg,1390,g,0,g,49,g,0,g,0,g,0,g,0,g
+93,joes crab shack,balsamic vinaigrette dressing,12,g,0,mg,700,g,4,g,0,g,2,g,0,g,0,g,4,g
+94,joes crab shack,bean town bake steampot add sides,48,g,1275,mg,5230,g,39,g,362,g,14,g,0,g,0,g,0,g
+95,joes crab shack,berry cobbler,44,g,75,mg,1900,g,244,g,19,g,16,g,0,g,13,g,149,g
+96,joes crab shack,blackened chicken club sandwich,83,g,135,mg,2000,g,40,g,50,g,14,g,0,g,3,g,3,g
+97,joes crab shack,blackened mahi tacos,50,g,135,mg,3280,g,92,g,47,g,5,g,0,g,9,g,7,g
+98,joes crab shack,bleu cheese dressing,24,g,10,mg,500,g,3,g,2,g,5,g,0,g,0,g,2,g
+99,joes crab shack,broccoli,6,g,0,mg,100,g,5,g,3,g,1,g,0,g,0,g,0,g
+100,joes crab shack,broccoli and carrots,14,g,0,mg,280,g,9,g,2,g,0,g,0,g,2,g,2,g
+101,joes crab shack,bucket of crab side of dipping butter,44,g,125,mg,350,g,0,g,0,g,32,g,0,g,0,g,0,g
+102,joes crab shack,bucket of crab sides fries and hushpuppies,15,g,35,mg,2190,g,69,g,6,g,3,g,0,g,2,g,2,g
+103,joes crab shack,bucket of crab sides potatoes and corn,2,g,0,mg,330,g,45,g,6,g,0,g,0,g,6,g,5,g
+104,joes crab shack,bucket of shrimp 12,3,g,250,mg,1030,g,11,g,34,g,1,g,0,g,1,g,7,g
+105,joes crab shack,bucket of shrimp 18,4,g,375,mg,1340,g,11,g,51,g,1,g,0,g,1,g,7,g
+106,joes crab shack,caesar dressing,24,g,20,mg,400,g,1,g,1,g,4,g,0,g,0,g,0,g
+107,joes crab shack,caesar salad,43,g,50,mg,1910,g,23,g,17,g,12,g,0,g,6,g,6,g
+108,joes crab shack,caesar salad with chicken,49,g,130,mg,3200,g,23,g,47,g,13,g,0,g,6,g,6,g
+109,joes crab shack,caesar salad with shrimp,44,g,175,mg,2730,g,24,g,34,g,12,g,0,g,6,g,6,g
+110,joes crab shack,caesar side salad,21,g,25,mg,600,g,9,g,8,g,6,g,0,g,2,g,1,g
+111,joes crab shack,campfire smores,43,g,60,mg,950,g,173,g,13,g,20,g,0,g,6,g,121,g
+112,joes crab shack,cedar roasted salmon,110,g,170,mg,1540,g,59,g,59,g,16,g,0,g,6,g,17,g
+113,joes crab shack,cheesy chicken,102,g,240,mg,3490,g,122,g,57,g,30,g,0,g,6,g,9,g
+114,joes crab shack,chipotle bacon cheeseburger,101,g,215,mg,2320,g,59,g,54,g,32,g,0,g,3,g,18,g
+115,joes crab shack,chocolate shack attack,57,g,105,mg,1610,g,192,g,15,g,27,g,0,g,8,g,127,g
+116,joes crab shack,clam strips,115,g,105,mg,2950,g,129,g,40,g,18,g,0,g,6,g,9,g
+117,joes crab shack,classic sampler,139,g,495,mg,3780,g,114,g,54,g,40,g,0,g,5,g,14,g
+118,joes crab shack,coleslaw,12,g,10,mg,280,g,13,g,1,g,2,g,0,g,2,g,8,g
+119,joes crab shack,crab cake chipotle caesar salad,58,g,145,mg,2530,g,57,g,28,g,8,g,0,g,10,g,14,g
+120,joes crab shack,crab cake dinner,81,g,245,mg,3300,g,89,g,43,g,12,g,0,g,7,g,18,g
+121,joes crab shack,crab cake sandwich,32,g,150,mg,1500,g,56,g,26,g,5,g,0,g,4,g,17,g
+122,joes crab shack,crab daddy feast add sides and flavor,9,g,155,mg,1300,g,0,g,39,g,1,g,0,g,0,g,0,g
+123,joes crab shack,crab nachos,140,g,260,mg,4200,g,119,g,46,g,53,g,0,g,10,g,11,g
+124,joes crab shack,crab rice,3,g,20,mg,610,g,27,g,5,g,2,g,0,g,1,g,1,g
+125,joes crab shack,crab stuffed mushrooms,36,g,155,mg,1660,g,46,g,38,g,15,g,0,g,3,g,5,g
+126,joes crab shack,crabby apple crumble,49,g,105,mg,550,g,178,g,6,g,28,g,0,g,3,g,121,g
+127,joes crab shack,crazy good crab dip,85,g,235,mg,2940,g,85,g,29,g,39,g,0,g,4,g,7,g
+128,joes crab shack,crispy calamari,84,g,565,mg,2210,g,86,g,49,g,15,g,0,g,2,g,10,g
+129,joes crab shack,crispy catch,207,g,545,mg,5040,g,182,g,79,g,39,g,0,g,11,g,20,g
+130,joes crab shack,crispy jumbo shrimp,110,g,345,mg,4900,g,220,g,63,g,17,g,0,g,12,g,26,g
+131,joes crab shack,dixie chicken salad,124,g,210,mg,4640,g,101,g,59,g,29,g,0,g,15,g,21,g
+132,joes crab shack,double dip,71,g,155,mg,2820,g,85,g,31,g,30,g,0,g,5,g,5,g
+133,joes crab shack,double shrimp,131,g,315,mg,2980,g,210,g,59,g,32,g,0,g,16,g,35,g
+134,joes crab shack,dungeness crab add sides and flavor,1,g,150,mg,1030,g,0,g,46,g,0,g,0,g,0,g,0,g
+135,joes crab shack,ear of corn,1,g,0,mg,140,g,22,g,4,g,0,g,0,g,3,g,4,g
+136,joes crab shack,east coast platter,181,g,290,mg,4720,g,182,g,68,g,32,g,0,g,10,g,24,g
+137,joes crab shack,fish and chips,145,g,200,mg,3530,g,177,g,66,g,22,g,0,g,10,g,8,g
+138,joes crab shack,fish and shrimp,134,g,295,mg,4370,g,186,g,72,g,21,g,0,g,11,g,20,g
+139,joes crab shack,french fries large,47,g,0,mg,1520,g,79,g,7,g,8,g,0,g,6,g,1,g
+140,joes crab shack,french fries medium,26,g,0,mg,870,g,45,g,4,g,4,g,0,g,3,g,0,g
+141,joes crab shack,garlicky mussels,40,g,305,mg,1790,g,62,g,123,g,3,g,0,g,2,g,2,g
+142,joes crab shack,go shrimpin,187,g,440,mg,5900,g,281,g,82,g,44,g,0,g,19,g,42,g
+143,joes crab shack,great balls of fire,96,g,150,mg,2730,g,89,g,35,g,25,g,0,g,7,g,6,g
+144,joes crab shack,green beans,15,g,10,mg,230,g,9,g,4,g,2,g,0,g,3,g,2,g
+145,joes crab shack,green beans and carrots,9,g,0,mg,440,g,10,g,2,g,0,g,0,g,4,g,3,g
+146,joes crab shack,grilled chicken club sandwich,61,g,135,mg,1690,g,40,g,50,g,14,g,0,g,3,g,3,g
+147,joes crab shack,grilled malibu shrimp,19,g,250,mg,1310,g,48,g,37,g,3,g,0,g,2,g,9,g
+148,joes crab shack,homemade ranch dressing,18,g,15,mg,340,g,1,g,1,g,3,g,0,g,0,g,1,g
+149,joes crab shack,homestyle chicken tenders,146,g,150,mg,5750,g,186,g,59,g,23,g,0,g,10,g,23,g
+150,joes crab shack,honey mustard dressing,25,g,10,mg,190,g,8,g,0,g,4,g,0,g,0,g,6,g
+151,joes crab shack,house side salad,4,g,5,mg,140,g,8,g,3,g,2,g,0,g,2,g,2,g
+152,joes crab shack,hushpuppies 8,44,g,85,mg,2190,g,104,g,13,g,7,g,0,g,5,g,26,g
+153,joes crab shack,island steak and shrimp,61,g,300,mg,3560,g,154,g,88,g,14,g,0,g,7,g,51,g
+154,joes crab shack,joes classic steampot add sides,37,g,395,mg,1580,g,4,g,78,g,10,g,0,g,0,g,0,g
+155,joes crab shack,joes classic steampot for 2 add sides,74,g,790,mg,3150,g,8,g,158,g,19,g,0,g,1,g,0,g
+156,joes crab shack,joes surf n turf burger,96,g,245,mg,3050,g,104,g,60,g,23,g,0,g,6,g,17,g
+157,joes crab shack,jumbo coconut shrimp,166,g,350,mg,3260,g,246,g,63,g,48,g,0,g,21,g,55,g
+158,joes crab shack,key lime pie,41,g,310,mg,350,g,93,g,14,g,26,g,0,g,0,g,70,g
+159,joes crab shack,kids apple sauce,0,g,0,mg,5,g,10,g,0,g,0,g,0,g,1,g,9,g
+160,joes crab shack,kids captains catch,96,g,160,mg,2600,g,127,g,42,g,17,g,0,g,5,g,4,g
+161,joes crab shack,kids celery and ranch,12,g,10,mg,270,g,2,g,1,g,2,g,0,g,1,g,2,g
+162,joes crab shack,kids cheesy mac,11,g,25,mg,1280,g,43,g,15,g,6,g,0,g,3,g,11,g
+163,joes crab shack,kids chicken dippers,52,g,95,mg,2110,g,49,g,33,g,8,g,0,g,1,g,9,g
+164,joes crab shack,kids chocolate sundae,18,g,60,mg,60,g,23,g,4,g,10,g,0,g,0,g,17,g
+165,joes crab shack,kids corn on the cob,1,g,0,mg,10,g,11,g,2,g,0,g,0,g,2,g,2,g
+166,joes crab shack,kids fish fingers,58,g,105,mg,1040,g,45,g,29,g,9,g,0,g,1,g,1,g
+167,joes crab shack,kids french fries,27,g,0,mg,510,g,44,g,4,g,4,g,0,g,3,g,0,g
+168,joes crab shack,kids kids snow crab,9,g,105,mg,360,g,22,g,25,g,1,g,0,g,3,g,4,g
+169,joes crab shack,kids mini beach burgers,44,g,60,mg,640,g,40,g,24,g,8,g,0,g,2,g,5,g
+170,joes crab shack,kids mini steampot,20,g,200,mg,790,g,2,g,35,g,5,g,0,g,0,g,0,g
+171,joes crab shack,kids paint a crab,9,g,5,mg,250,g,66,g,2,g,2,g,0,g,0,g,21,g
+172,joes crab shack,kids pizza,22,g,20,mg,830,g,58,g,19,g,11,g,0,g,4,g,5,g
+173,joes crab shack,kids rice,5,g,0,mg,150,g,41,g,4,g,1,g,0,g,1,g,0,g
+174,joes crab shack,kids rockin popcorn shrimp,51,g,145,mg,1690,g,67,g,25,g,8,g,0,g,2,g,7,g
+175,joes crab shack,kids shrimply grilled shrimp,6,g,125,mg,970,g,42,g,21,g,1,g,0,g,1,g,0,g
+176,joes crab shack,kids strawberry sundae,18,g,60,mg,60,g,23,g,4,g,10,g,0,g,0,g,17,g
+177,joes crab shack,king crab add sides and flavor,2,g,130,mg,1460,g,3,g,49,g,0,g,0,g,0,g,2,g
+178,joes crab shack,lobster daddy feast add sides and flavor,2,g,290,mg,2250,g,0,g,68,g,0,g,0,g,0,g,0,g
+179,joes crab shack,lunch blackened chicken club sandwich,83,g,135,mg,2000,g,40,g,50,g,14,g,0,g,3,g,3,g
+180,joes crab shack,lunch bottomless clam chowder caesar salad,62,g,60,mg,3200,g,50,g,32,g,23,g,0,g,9,g,7,g
+181,joes crab shack,lunch bottomless clam chowder house salad,32,g,35,mg,1650,g,40,g,24,g,18,g,0,g,5,g,4,g
+182,joes crab shack,lunch bottomless crab gumbo caesar salad,47,g,90,mg,3240,g,67,g,30,g,12,g,0,g,10,g,8,g
+183,joes crab shack,lunch bottomless crab gumbo house salad,16,g,65,mg,1690,g,57,g,22,g,7,g,0,g,6,g,5,g
+184,joes crab shack,lunch bottomless lobster bisque caesar salad,69,g,115,mg,2670,g,46,g,26,g,26,g,0,g,7,g,6,g
+185,joes crab shack,lunch bottomless lobster bisque house salad,38,g,105,mg,1120,g,36,g,18,g,21,g,0,g,3,g,3,g
+186,joes crab shack,lunch bottomless seafood gumbo caesar salad,53,g,140,mg,5790,g,97,g,36,g,13,g,0,g,10,g,8,g
+187,joes crab shack,lunch bottomless seafood gumbo house salad,23,g,115,mg,4250,g,59,g,28,g,8,g,0,g,6,g,5,g
+188,joes crab shack,lunch bottomless shrimp gumbo caesar salad,67,g,135,mg,6560,g,69,g,33,g,13,g,0,g,10,g,8,g
+189,joes crab shack,lunch bottomless shrimp gumbo house salad,24,g,110,mg,5020,g,59,g,25,g,8,g,0,g,6,g,5,g
+190,joes crab shack,lunch coconut shrimp 6,109,g,225,mg,2380,g,173,g,40,g,30,g,0,g,14,g,39,g
+191,joes crab shack,lunch dixie chicken,124,g,210,mg,4650,g,101,g,59,g,29,g,0,g,15,g,21,g
+192,joes crab shack,lunch fish and chips,97,g,110,mg,2420,g,108,g,35,g,15,g,0,g,6,g,8,g
+193,joes crab shack,lunch grilled chicken club sandwich,61,g,135,mg,1690,g,40,g,50,g,14,g,0,g,3,g,3,g
+194,joes crab shack,maine grill,118,g,615,mg,5170,g,63,g,148,g,31,g,0,g,2,g,2,g
+195,joes crab shack,maui mahi,14,g,140,mg,1210,g,46,g,42,g,2,g,0,g,2,g,8,g
+196,joes crab shack,mozzarella sticks,46,g,100,mg,2710,g,67,g,25,g,17,g,0,g,0,g,1,g
+197,joes crab shack,new england clam chowder bowl,20,g,10,mg,1290,g,27,g,14,g,12,g,0,g,3,g,1,g
+198,joes crab shack,new england clam chowder cup,15,g,5,mg,1000,g,23,g,11,g,9,g,0,g,2,g,1,g
+199,joes crab shack,onion strings,30,g,5,mg,1210,g,68,g,9,g,5,g,0,g,4,g,13,g
+200,joes crab shack,oven roasted vegetables,8,g,0,mg,350,g,10,g,2,g,1,g,0,g,3,g,5,g
+201,joes crab shack,popcorn shrimp,117,g,235,mg,5050,g,227,g,52,g,18,g,0,g,12,g,23,g
+202,joes crab shack,potatoes and corn,2,g,0,mg,330,g,45,g,6,g,0,g,0,g,6,g,5,g
+203,joes crab shack,queen crab add sides and flavor,1,g,115,mg,900,g,2,g,32,g,0,g,0,g,0,g,1,g
+204,joes crab shack,ragin cajun steampot add sides,35,g,405,mg,2130,g,5,g,81,g,10,g,0,g,0,g,0,g
+205,joes crab shack,red potatoes,0,g,0,mg,10,g,27,g,3,g,0,g,0,g,3,g,2,g
+206,joes crab shack,redfish n lobster,59,g,240,mg,2480,g,67,g,87,g,14,g,0,g,3,g,4,g
+207,joes crab shack,reel big catch,270,g,480,mg,6580,g,332,g,111,g,56,g,0,g,21,g,52,g
+208,joes crab shack,samuel adams steampot steampot add sides,68,g,780,mg,3340,g,27,g,185,g,15,g,0,g,0,g,0,g
+209,joes crab shack,sea turtle sundae,75,g,115,mg,950,g,141,g,16,g,28,g,0,g,6,g,91,g
+210,joes crab shack,seaside platter,149,g,265,mg,5250,g,231,g,71,g,23,g,0,g,12,g,22,g
+211,joes crab shack,shrimp and calamari,155,g,715,mg,2090,g,227,g,78,g,24,g,0,g,12,g,26,g
+212,joes crab shack,shrimp pasta alfredo,84,g,380,mg,2610,g,147,g,71,g,35,g,0,g,6,g,7,g
+213,joes crab shack,simply grilled salmon,42,g,175,mg,1480,g,44,g,59,g,14,g,0,g,6,g,5,g
+214,joes crab shack,snow crab add sides and flavor,2,g,155,mg,1430,g,0,g,44,g,0,g,0,g,0,g,0,g
+215,joes crab shack,southern stuffed shrimp,82,g,420,mg,3440,g,95,g,61,g,33,g,0,g,4,g,11,g
+216,joes crab shack,southern style catfish,169,g,165,mg,4730,g,215,g,58,g,28,g,0,g,13,g,20,g
+217,joes crab shack,steak frites,155,g,165,mg,4210,g,157,g,67,g,26,g,0,g,11,g,8,g
+218,joes crab shack,steampot side of dipping butter,44,g,125,mg,350,g,0,g,0,g,32,g,0,g,0,g,0,g
+219,joes crab shack,steampot sides fries and hushpuppies,15,g,35,mg,2190,g,69,g,6,g,3,g,0,g,2,g,2,g
+220,joes crab shack,steampot sides potatoes and corn,2,g,0,mg,330,g,45,g,6,g,0,g,0,g,6,g,5,g
+221,joes crab shack,sugar snap peas and veggies,11,g,0,mg,720,g,11,g,2,g,0,g,0,g,3,g,4,g
+222,joes crab shack,sunset fire grilled steampot add sides,34,g,395,mg,1880,g,4,g,79,g,10,g,0,g,0,g,0,g
+223,joes crab shack,sunset fire grilled steampot for 2 add sides,68,g,790,mg,3770,g,8,g,157,g,19,g,0,g,0,g,0,g
+224,joes crab shack,the kj steampot steampot add sides,59,g,355,mg,2170,g,22,g,107,g,4,g,0,g,1,g,1,g
+225,joes crab shack,the orleans steampot add sides,34,g,935,mg,2360,g,4,g,124,g,10,g,0,g,0,g,0,g
+226,joes crab shack,the shore grill,76,g,375,mg,3120,g,62,g,78,g,24,g,0,g,8,g,12,g
+227,joes crab shack,twice baked potato cake,16,g,40,mg,630,g,22,g,10,g,9,g,0,g,3,g,1,g
+228,johnny appleseed,apple cider 5 5 alc,0,g,0,mg,0,g,26,g,0,g,0,g,0,g,0,g,0,g
+229,johnny appleseed,lunch classic italian fettuccine alfredo with grilled shrimp,27,g,124,mg,873,g,66,g,29,g,12,g,0,g,3,g,4,g
+230,johnny appleseed,hard apple cider,0,g,0,mg,10,g,26,g,0.5,g,0,g,0,g,0,g,20,g
+231,johnny appleseed,hard apple cider caramel,0,g,0,mg,15,g,26,g,0,g,0,g,0,g,0,g,19,g
+232,johnny appleseed,spiced hard apple cider,0,g,0,mg,15,g,26,g,0,g,0,g,0,g,0,g,19,g
+233,johnny carinos,baked stuffed mushrooms,37,g,173,mg,1134,g,22,g,14,g,23,g,1,g,3,g,4,g
+234,johnny carinos,italian chicken nachos solo,31,g,105,mg,1968,g,91,g,50,g,14,g,0,g,7,g,2,g
+235,johnny carinos,boneless wings 5 with johnnys bbq sauce,22,g,44,mg,1525,g,65,g,19,g,4,g,0,g,1,g,40,g
+236,johnny carinos,hot wings 5,62,g,160,mg,805,g,3,g,32,g,13,g,0,g,0,g,3,g
+237,johnny carinos,fried calamari mini,7,g,337,mg,716,g,27,g,24,g,2,g,0,g,1,g,1,g
+238,johnny carinos,fried calamari family,28,g,1350,mg,2898,g,104,g,96,g,8,g,0,g,4,g,2,g
+239,johnny carinos,fried ravioli,22,g,246,mg,3268,g,139,g,27,g,11,g,0,g,6,g,44,g
+240,johnny carinos,fried calamari solo with spicy marinara sauce,15,g,675,mg,1968,g,57,g,49,g,4,g,0,g,3,g,4,g
+241,johnny carinos,spinach and artichoke dip,41,g,89,mg,2006,g,63,g,28,g,19,g,0,g,9,g,2,g
+242,johnny carinos,hot wings 5 with buffalo sauce,62,g,160,mg,3324,g,5,g,33,g,13,g,0,g,1,g,4,g
+243,johnny carinos,boneless wings 5 with buffalo sauce,22,g,44,mg,3319,g,23,g,19,g,4,g,0,g,3,g,1,g
+244,johnny carinos,fried mozzarella mini with spicy marinara sauce,31,g,76,mg,1823,g,44,g,25,g,14,g,1,g,2,g,7,g
+245,johnny carinos,boneless wings 5,22,g,44,mg,800,g,20,g,19,g,4,g,0,g,1,g,0,g
+246,johnny carinos,hot wings 5 with lemon pepper,62,g,160,mg,1315,g,4,g,33,g,13,g,0,g,0,g,3,g
+247,johnny carinos,italian chicken nachos family,62,g,210,mg,3936,g,183,g,100,g,27,g,0,g,15,g,4,g
+248,johnny carinos,hot wings 5 with cajun seasoning,62,g,160,mg,1255,g,4,g,33,g,13,g,0,g,0,g,3,g
+249,johnny carinos,fried calamari mini with spicy marinara sauce,7,g,337,mg,1235,g,31,g,25,g,2,g,0,g,2,g,3,g
+250,johnny carinos,fried mozzarella family with spicy marinara sauce,104,g,254,mg,5377,g,141,g,83,g,48,g,3,g,6,g,21,g
+251,johnny carinos,hot wings 5 with garlic teriyaki sauce,62,g,160,mg,2151,g,19,g,35,g,13,g,0,g,0,g,16,g
+252,johnny carinos,italian combo nachos mini,20,g,55,mg,1122,g,46,g,24,g,8,g,0,g,4,g,1,g
+253,johnny carinos,italian chicken nachos mini,22,g,62,mg,1175,g,46,g,27,g,9,g,0,g,4,g,1,g
+254,johnny carinos,hot wings 5 with crushed red pepper,63,g,160,mg,806,g,4,g,33,g,13,g,0,g,1,g,3,g
+255,johnny carinos,boneless wings 5 with cajun seasoning,22,g,44,mg,1250,g,22,g,19,g,4,g,0,g,2,g,0,g
+256,johnny carinos,boneless wings 5 with bbq spice,22,g,44,mg,865,g,21,g,19,g,4,g,0,g,2,g,0,g
+257,johnny carinos,hot wings 5 with sweet chili sauce,62,g,160,mg,1955,g,45,g,32,g,13,g,0,g,0,g,38,g
+258,johnny carinos,fried mozzarella family,103,g,254,mg,4339,g,131,g,82,g,48,g,3,g,4,g,15,g
+259,johnny carinos,boneless wings 5 with crushed red pepper,22,g,44,mg,801,g,21,g,19,g,4,g,0,g,2,g,0,g
+260,johnny carinos,chips and guacamole,29,g,0,mg,1612,g,115,g,16,g,4,g,0,g,17,g,4,g
+261,johnny carinos,italian sausage nachos family,100,g,232,mg,5041,g,185,g,89,g,40,g,0,g,16,g,5,g
+262,johnny carinos,boneless wings 5 with chipotle sauce,22,g,44,mg,3345,g,23,g,19,g,4,g,0,g,3,g,1,g
+263,johnny carinos,boneless wings 5 with sriracha habanero sauce,22,g,44,mg,2263,g,28,g,19,g,4,g,0,g,2,g,0,g
+264,johnny carinos,hot wins 5 with sriracha habanero sauce,62,g,160,mg,2269,g,10,g,33,g,13,g,0,g,0,g,3,g
+265,johnny carinos,fried calamari family with spicy marinara sauce,30,g,1350,mg,3936,g,114,g,98,g,8,g,0,g,6,g,8,g
+266,johnny carinos,italian combo nachos solo,40,g,110,mg,2244,g,92,g,47,g,17,g,0,g,8,g,2,g
+267,johnny carinos,fried mozzarella solo with spicy marinara sauce,53,g,129,mg,2715,g,71,g,42,g,24,g,1,g,3,g,11,g
+268,johnny carinos,italian sausage nachos solo,50,g,116,mg,2520,g,93,g,44,g,20,g,0,g,8,g,2,g
+269,johnny carinos,boneless wings 5 with sweet chili sauce,22,g,44,mg,1950,g,63,g,19,g,4,g,0,g,1,g,35,g
+270,johnny carinos,chips and guacamole from the bar,11,g,0,mg,734,g,55,g,7,g,1,g,0,g,7,g,2,g
+271,johnny carinos,queso italiano solo,95,g,226,mg,2557,g,95,g,67,g,46,g,0,g,7,g,3,g
+272,johnny carinos,hot wings 5 with bbq spice,63,g,160,mg,870,g,4,g,33,g,13,g,0,g,0,g,3,g
+273,johnny carinos,boneless wings 5 with lemon pepper,22,g,44,mg,1310,g,22,g,19,g,4,g,0,g,2,g,0,g
+274,johnny carinos,italian sausage nachos mini,24,g,69,mg,1228,g,46,g,30,g,10,g,0,g,14,g,1,g
+275,johnny carinos,fried mozzarella mini,31,g,76,mg,1303,g,39,g,25,g,14,g,1,g,1,g,5,g
+276,johnny carinos,queso italiano tavern,52,g,138,mg,1501,g,56,g,42,g,25,g,0,g,4,g,2,g
+277,johnny carinos,italian combo nachos family,81,g,221,mg,4488,g,184,g,94,g,34,g,0,g,15,g,5,g
+278,johnny carinos,hot wings 5 with chipotle sauce,63,g,160,mg,3350,g,6,g,33,g,13,g,0,g,1,g,4,g
+279,johnny carinos,hot wings 5 with johnnys bbq sauce,62,g,160,mg,1530,g,48,g,32,g,13,g,0,g,0,g,43,g
+280,johnny carinos,fried calamari solo,14,g,675,mg,1449,g,52,g,48,g,4,g,0,g,2,g,1,g
+281,johnny carinos,boneless wings 5 with garlic teriyaki sauce,22,g,44,mg,2146,g,37,g,21,g,4,g,0,g,1,g,13,g
+282,johnny carinos,fried mozzarella solo,52,g,129,mg,2195,g,66,g,41,g,24,g,1,g,2,g,8,g
+283,johnny carinos,italian cream soda with raspberry syrup,1,g,6,mg,28,g,26,g,0,g,1,g,0,g,0,g,26,g
+284,johnny carinos,italian soda with raspberry syrup,0,g,0,mg,17,g,26,g,0,g,0,g,0,g,0,g,26,g
+285,johnny carinos,italian soda with blackberry syrup,0,g,0,mg,11,g,26,g,0,g,0,g,0,g,0,g,26,g
+286,johnny carinos,italian soda with vanilla syrup,0,g,0,mg,11,g,26,g,0,g,0,g,0,g,0,g,26,g
+287,johnny carinos,italian soda with orange syrup,0,g,0,mg,11,g,26,g,0,g,0,g,0,g,0,g,26,g
+288,johnny carinos,hot tea,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+289,johnny carinos,iced sweet tea,0,g,0,mg,0,g,18,g,0,g,0,g,0,g,0,g,18,g
+290,johnny carinos,orange juice,0,g,0,mg,23,g,41,g,0,g,0,g,0,g,0,g,36,g
+291,johnny carinos,italian soda,0,g,0,mg,11,g,12,g,0,g,0,g,0,g,0,g,12,g
+292,johnny carinos,italian soda with hazelnut syrup,0,g,0,mg,11,g,27,g,0,g,0,g,0,g,0,g,26,g
+293,johnny carinos,grapefruit juice,0,g,0,mg,22,g,37,g,0,g,0,g,0,g,0,g,35,g
+294,johnny carinos,apple juice,0,g,0,mg,22,g,44,g,0,g,0,g,0,g,0,g,41,g
+295,johnny carinos,italian cream soda,1,g,6,mg,22,g,13,g,0,g,1,g,0,g,0,g,13,g
+296,johnny carinos,iced tea,0,g,0,mg,8,g,0,g,0,g,0,g,0,g,0,g,0,g
+297,johnny carinos,pineapple juice,0,g,0,mg,22,g,48,g,0,g,0,g,0,g,0,g,48,g
+298,johnny carinos,italian cream soda with vanilla syrup,1,g,6,mg,22,g,27,g,0,g,1,g,0,g,0,g,27,g
+299,johnny carinos,italian cream soda with orange syrup,1,g,6,mg,22,g,27,g,0,g,1,g,0,g,0,g,27,g
+300,johnny carinos,cranberry juice,0,g,0,mg,53,g,53,g,0,g,0,g,0,g,0,g,53,g
+301,johnny carinos,italian soda with cherry syrup,0,g,0,mg,11,g,26,g,0,g,0,g,0,g,0,g,26,g
+302,johnny carinos,coffee,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+303,johnny carinos,italian cream soda with blackberry syrup,1,g,6,mg,22,g,27,g,0,g,1,g,0,g,0,g,27,g
+304,johnny carinos,italian lemonade,0,g,0,mg,41,g,25,g,0,g,0,g,0,g,0,g,25,g
+305,johnny carinos,italian soda with lemon syrup,0,g,0,mg,11,g,26,g,0,g,0,g,0,g,0,g,26,g
+306,johnny carinos,italian cream soda with hazelnut syrup,1,g,6,mg,22,g,28,g,0,g,1,g,0,g,0,g,27,g
+307,johnny carinos,hot chocolate,1,g,0,mg,84,g,17,g,0,g,0,g,0,g,0,g,13,g
+308,johnny carinos,espresso,0,g,0,mg,2,g,0,g,0,g,0,g,0,g,0,g,0,g
+309,johnny carinos,italian cream soda with lemon syrup,1,g,6,mg,22,g,27,g,0,g,1,g,0,g,0,g,27,g
+310,johnny carinos,italian cream soda with cherry syrup,1,g,6,mg,22,g,27,g,0,g,1,g,0,g,0,g,27,g
+311,johnny carinos,ketchup,0,g,0,mg,533,g,16,g,1,g,0,g,0,g,1,g,14,g
+312,johnny carinos,new york style cheesecake,74,g,360,mg,790,g,84,g,19,g,43,g,3,g,2,g,68,g
+313,johnny carinos,lemon cream cake,32,g,91,mg,346,g,53,g,5,g,15,g,1,g,0,g,33,g
+314,johnny carinos,chocolate cannoli,26,g,55,mg,113,g,75,g,16,g,9,g,0,g,2,g,35,g
+315,johnny carinos,italian chocolate cake,31,g,65,mg,710,g,165,g,13,g,14,g,0,g,5,g,131,g
+316,johnny carinos,tiramisu,55,g,346,mg,175,g,57,g,14,g,31,g,0,g,2,g,39,g
+317,johnny carinos,french fries,17,g,0,mg,1040,g,46,g,4,g,5,g,0,g,4,g,0,g
+318,johnny carinos,kids chicken strips with fries,51,g,53,mg,1621,g,79,g,37,g,10,g,0,g,6,g,5,g
+319,johnny carinos,kids chicken and broccoli penne,20,g,59,mg,813,g,60,g,24,g,8,g,0,g,3,g,4,g
+320,johnny carinos,kids pizza with pepperoni,4,g,6,mg,320,g,17,g,5,g,2,g,0,g,0,g,1,g
+321,johnny carinos,kids ice cream sundae dessert,10,g,35,mg,85,g,47,g,4,g,5,g,0,g,0,g,41,g
+322,johnny carinos,kids pasta,12,g,0,mg,25,g,59,g,12,g,2,g,0,g,3,g,3,g
+323,johnny carinos,kids pasta with marinara sauce,12,g,0,mg,711,g,65,g,13,g,2,g,0,g,4,g,6,g
+324,johnny carinos,kids mac and cheese,45,g,133,mg,818,g,57,g,26,g,24,g,0,g,3,g,2,g
+325,johnny carinos,kids cheese tortellini,8,g,44,mg,849,g,42,g,14,g,4,g,0,g,4,g,6,g
+326,johnny carinos,kids pasta with tomato sauce,13,g,0,mg,465,g,67,g,13,g,2,g,0,g,4,g,7,g
+327,johnny carinos,kids pasta with alfredo sauce,25,g,45,mg,732,g,66,g,17,g,11,g,0,g,3,g,4,g
+328,johnny carinos,kids grilled chicken with vegetable medley,6,g,132,mg,465,g,6,g,55,g,1,g,0,g,2,g,2,g
+329,johnny carinos,kids pasta with meat sauce,21,g,18,mg,575,g,65,g,17,g,5,g,0,g,4,g,6,g
+330,johnny carinos,kids sliced apples,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,1,g,9,g
+331,johnny carinos,table bread,5,g,0,mg,790,g,55,g,8,g,2,g,0,g,2,g,2,g
+332,johnny carinos,sizzling 7oz sirloin without sides,30,g,104,mg,447,g,19,g,42,g,12,g,0,g,1,g,3,g
+333,johnny carinos,add on grilled chicken and grilled shrimp for skilletini family platter,6,g,474,mg,638,g,2,g,114,g,2,g,0,g,0,g,0,g
+334,johnny carinos,pronto bistro lunch combo choice half house salad without dressing,6,g,5,mg,301,g,16,g,6,g,1,g,0,g,2,g,2,g
+335,johnny carinos,baby back ribs without sides half rack,66,g,226,mg,622,g,22,g,46,g,24,g,0,g,0,g,18,g
+336,johnny carinos,pronto bistro lunch combo choice half italian wedge salad with roasted garlic ranch dressing,31,g,31,mg,645,g,15,g,8,g,7,g,0,g,3,g,10,g
+337,johnny carinos,combo bbq tri tip beef without sides,16,g,122,mg,1354,g,73,g,35,g,6,g,0,g,0,g,64,g
+338,johnny carinos,add on italian sausage for skilletini dinner,43,g,157,mg,1587,g,3,g,38,g,15,g,0,g,1,g,0,g
+339,johnny carinos,baby back ribs without sides full rack,99,g,339,mg,933,g,33,g,69,g,36,g,0,g,0,g,27,g
+340,johnny carinos,combo bbq chicken wings 5 without sides,41,g,162,mg,1024,g,54,g,39,g,11,g,0,g,0,g,48,g
+341,johnny carinos,combo quarter rack bbq ribs= without sides,33,g,113,mg,311,g,11,g,23,g,12,g,0,g,0,g,9,g
+342,johnny carinos,add on grilled shrimp for skilletini dinner,2,g,207,mg,201,g,2,g,27,g,0,g,0,g,0,g,0,g
+343,johnny carinos,add on italian sausage for skilletini family platter or create your own pasta,86,g,314,mg,3174,g,6,g,76,g,30,g,0,g,2,g,0,g
+344,johnny carinos,add on meatballs for cheese ravioli or create your own pasta,24,g,102,mg,902,g,10,g,22,g,9,g,0,g,1,g,1,g
+345,johnny carinos,sizzling 7oz sirloin with mushroom marsala without sides,72,g,133,mg,710,g,25,g,43,g,25,g,0,g,2,g,4,g
+346,johnny carinos,add on italian sausage and grilled shrimp for skilletini family platter,45,g,433,mg,1855,g,5,g,74,g,15,g,0,g,1,g,0,g
+347,johnny carinos,add on grilled chicken and italian sausage for skilletini family platter,47,g,355,mg,1957,g,3,g,116,g,17,g,0,g,1,g,0,g
+348,johnny carinos,add on grilled chicken for skilletini dinner or create your own pasta family platter,7,g,234,mg,117,g,0,g,69,g,2,g,0,g,0,g,0,g
+349,johnny carinos,sizzling 14oz sirloin with mushroom marsala sauce without sides,100,g,236,mg,961,g,26,g,83,g,36,g,0,g,2,g,4,g
+350,johnny carinos,pronto bistro lunch combo choice half caesar salad with dressing,22,g,20,mg,670,g,15,g,6,g,4,g,0,g,2,g,2,g
+351,johnny carinos,pronto bistro lunch combo choice hal chopped club salad without dressing,18,g,45,mg,917,g,9,g,13,g,6,g,0,g,3,g,6,g
+352,johnny carinos,combo entree choice lansagna,51,g,215,mg,2193,g,49,g,48,g,23,g,0,g,5,g,10,g
+353,johnny carinos,sizzling 7oz sirloin with mushroom gorgonzola sauce without sides,65,g,152,mg,1555,g,23,g,52,g,30,g,0,g,2,g,4,g
+354,johnny carinos,combo bbq chicken breast without sides,3,g,132,mg,437,g,18,g,52,g,1,g,0,g,0,g,16,g
+355,johnny carinos,add on italian sausage and grilled shrimp for skilletini dinner,23,g,217,mg,928,g,3,g,37,g,8,g,0,g,1,g,0,g
+356,johnny carinos,sizzling 14oz sirloin without sides,58,g,207,mg,697,g,20,g,82,g,23,g,0,g,1,g,3,g
+357,johnny carinos,add on grilled chicken for skilletini family platter,14,g,438,mg,234,g,0,g,138,g,4,g,0,g,0,g,0,g
+358,johnny carinos,add on grilled shrimp for create your own pasta family platter,2,g,276,mg,268,g,2,g,36,g,0,g,0,g,0,g,0,g
+359,johnny carinos,add on italian sausage for cheese ravioli or create your own pasta,43,g,157,mg,1587,g,3,g,38,g,15,g,0,g,1,g,0,g
+360,johnny carinos,add on grilled shrimp for cheese ravioli or create your own pasta,1,g,138,mg,134,g,1,g,18,g,0,g,0,g,0,g,0,g
+361,johnny carinos,add on grilled shrimp for skilletini family platter,3,g,414,mg,402,g,3,g,54,g,0,g,0,g,0,g,0,g
+362,johnny carinos,sizzling 14oz sirloin with mushroom gorgonzola sauce without sides,94,g,255,mg,1806,g,24,g,92,g,42,g,0,g,2,g,4,g
+363,johnny carinos,add on grilled chicken for cheese ravioli or create your own pasta,2,g,99,mg,185,g,0,g,39,g,1,g,0,g,0,g,0,g
+364,johnny carinos,add on grilled chicken and italian sausage for skilletini dinner,24,g,178,mg,979,g,2,g,58,g,9,g,0,g,1,g,0,g
+365,johnny carinos,add on meatballs for create your own pasta family platter,48,g,204,mg,1804,g,20,g,44,g,18,g,0,g,2,g,2,g
+366,johnny carinos,dinner lemon rosemary chicken with vegetable medley,17,g,132,mg,1299,g,63,g,66,g,3,g,0,g,8,g,14,g
+367,johnny carinos,lemon pepper salmon as served,51,g,113,mg,693,g,9,g,30,g,21,g,0,g,2,g,4,g
+368,johnny carinos,family spicy romano chicken,136,g,323,mg,3732,g,220,g,92,g,63,g,1,g,19,g,21,g
+369,johnny carinos,dinner chicken parmesan,34,g,235,mg,2115,g,94,g,78,g,10,g,0,g,6,g,12,g
+370,johnny carinos,combo entree choice baked cheese tortellini,8,g,55,mg,505,g,42,g,16,g,5,g,0,g,3,g,1,g
+371,johnny carinos,lunch eggplant parmesan,32,g,84,mg,1385,g,69,g,26,g,11,g,0,g,10,g,14,g
+372,johnny carinos,chicken marsala lunch with garlic sauteed spinach,21,g,96,mg,1218,g,20,g,31,g,10,g,0,g,2,g,1,g
+373,johnny carinos,dinner chicken scallopini,129,g,407,mg,1285,g,50,g,68,g,69,g,0,g,3,g,5,g
+374,johnny carinos,lobster ravioli as served,73,g,300,mg,1693,g,73,g,29,g,36,g,1,g,8,g,5,g
+375,johnny carinos,classic italian carinos combo solo,67,g,316,mg,3206,g,115,g,88,g,26,g,0,g,9,g,17,g
+376,johnny carinos,lunch chicken parmesan,21,g,117,mg,1163,g,69,g,43,g,5,g,0,g,4,g,8,g
+377,johnny carinos,skilletini combo dinner,86,g,118,mg,3303,g,107,g,54,g,19,g,0,g,9,g,19,g
+378,johnny carinos,dinner eggplant parmesan,32,g,84,mg,1385,g,69,g,26,g,11,g,0,g,10,g,14,g
+379,johnny carinos,dinner jalapeno garlic tilapia,123,g,346,mg,1102,g,58,g,46,g,67,g,0,g,4,g,5,g
+380,johnny carinos,dinner seafood fettuccine with white sauce,67,g,460,mg,1737,g,101,g,70,g,27,g,0,g,5,g,6,g
+381,johnny carinos,lunch grilled chicken parmesan,16,g,79,mg,875,g,51,g,39,g,4,g,0,g,4,g,9,g
+382,johnny carinos,lunch spicy romano chicken,58,g,146,mg,1306,g,73,g,37,g,28,g,0,g,6,g,8,g
+383,johnny carinos,chicken marsala dinner,24,g,162,mg,1336,g,23,g,57,g,11,g,0,g,1,g,1,g
+384,johnny carinos,dinner chicken marsala with fettuccini,49,g,194,mg,1432,g,65,g,65,g,22,g,0,g,3,g,4,g
+385,johnny carinos,entree choice grilled chicken jalapeno ravioli,29,g,96,mg,584,g,17,g,11,g,15,g,0,g,2,g,3,g
+386,johnny carinos,dinner seafood fettuccine with red sauce,63,g,515,mg,1723,g,104,g,65,g,10,g,0,g,7,g,11,g
+387,johnny carinos,family eggplant parmesan,62,g,162,mg,2686,g,137,g,50,g,21,g,0,g,19,g,29,g
+388,johnny carinos,dinner grilled chicken parmesan,22,g,159,mg,1465,g,58,g,70,g,7,g,0,g,5,g,12,g
+389,johnny carinos,family lemon rosemary chicken,27,g,264,mg,2107,g,109,g,125,g,4,g,0,g,10,g,22,g
+390,johnny carinos,combo entree choice chicken parmesan with pasta and sauce,17,g,117,mg,1057,g,47,g,39,g,5,g,0,g,3,g,6,g
+391,johnny carinos,lunch chicken marsala with fettuccine,28,g,96,mg,903,g,55,g,37,g,11,g,0,g,3,g,3,g
+392,johnny carinos,dinner picy romano chicken,78,g,162,mg,1974,g,110,g,46,g,36,g,1,g,10,g,10,g
+393,johnny carinos,lunch chicken scallopini,102,g,284,mg,816,g,48,g,39,g,55,g,0,g,3,g,4,g
+394,johnny carinos,skilletini combo grandioso,126,g,231,mg,5967,g,169,g,97,g,30,g,0,g,15,g,33,g
+395,johnny carinos,family chicken parmesan,66,g,458,mg,4177,g,188,g,153,g,18,g,0,g,12,g,24,g
+396,johnny carinos,add on grilled chicken and grilled shrimp for skilletini dinner,3,g,237,mg,319,g,1,g,57,g,1,g,0,g,0,g,0,g
+397,johnny carinos,combo entree choice top sirloin,30,g,104,mg,447,g,19,g,42,g,12,g,0,g,1,g,3,g
+398,johnny carinos,family grilled chicken parmesan,42,g,307,mg,2878,g,115,g,138,g,13,g,0,g,11,g,25,g
+399,johnny carinos,johnnys chop,77,g,420,mg,1034,g,31,g,40,g,38,g,0,g,1,g,10,g
+400,johnny carinos,chicken marsala lunch,20,g,96,mg,866,g,16,g,29,g,10,g,0,g,1,g,1,g
+401,johnny carinos,combo entree choice eggplant parmesan,16,g,42,mg,693,g,34,g,13,g,6,g,0,g,5,g,7,g
+402,johnny carinos,chicken marsala dinner with garlic sauteed spinach,25,g,162,mg,1688,g,27,g,59,g,11,g,0,g,2,g,2,g
+403,johnny carinos,dinner chicken and bacon green chile jalapeno ravioli,81,g,156,mg,1486,g,113,g,51,g,44,g,0,g,6,g,8,g
+404,johnny carinos,lunch jalapeno garlic tilapia,99,g,253,mg,682,g,49,g,27,g,54,g,0,g,3,g,4,g
+405,johnny carinos,familu chicken scallopini,247,g,775,mg,2441,g,102,g,137,g,132,g,0,g,7,g,10,g
+406,johnny carinos,family chicken marsala,98,g,387,mg,2864,g,130,g,130,g,44,g,0,g,6,g,7,g
+407,johnny carinos,dinner bowtie festival,76,g,151,mg,1447,g,103,g,47,g,34,g,0,g,5,g,7,g
+408,johnny carinos,classic cheese ravioli,25,g,142,mg,970,g,55,g,28,g,14,g,0,g,5,g,2,g
+409,johnny carinos,family classic italian fettuccine alfredo,80,g,143,mg,2426,g,198,g,56,g,35,g,0,g,9,g,12,g
+410,johnny carinos,lasagna,43,g,185,mg,1898,g,44,g,41,g,19,g,0,g,4,g,8,g
+411,johnny carinos,family chicken milano with fettuccine alfredo,136,g,507,mg,4686,g,121,g,173,g,69,g,0,g,5,g,9,g
+412,johnny carinos,solo classic italian angel hair pasta with artichokes,31,g,5,mg,1863,g,107,g,23,g,4,g,0,g,15,g,9,g
+413,johnny carinos,mama carinos spaghetti feast,159,g,416,mg,5354,g,222,g,132,g,51,g,0,g,18,g,25,g
+414,johnny carinos,family bowtie festival,132,g,303,mg,2687,g,206,g,94,g,59,g,0,g,11,g,15,g
+415,johnny carinos,lunch classic italian fettuccine alfredo with grilled shrimp,27,g,124,mg,873,g,66,g,29,g,12,g,0,g,3,g,4,g
+416,johnny carinos,dinner chicken and jalapeno cream ravioli,116,g,414,mg,2772,g,77,g,67,g,58,g,0,g,8,g,9,g
+417,johnny carinos,family shrimp scampi,190,g,612,mg,1514,g,144,g,62,g,102,g,0,g,10,g,14,g
+418,johnny carinos,dinner shrimp scampi,95,g,306,mg,757,g,72,g,31,g,51,g,0,g,5,g,7,g
+419,johnny carinos,lunch bowtie festival,60,g,151,mg,1176,g,71,g,41,g,29,g,0,g,4,g,6,g
+420,johnny carinos,lunch spicy romano shrimp and chicken pronto pasta,59,g,223,mg,1176,g,72,g,47,g,28,g,0,g,3,g,8,g
+421,johnny carinos,family seafood fettuccine with red sauce,104,g,830,mg,3238,g,227,g,135,g,17,g,0,g,14,g,22,g
+422,johnny carinos,solo classic italian fettuccine alfredo,40,g,72,mg,1213,g,99,g,28,g,17,g,0,g,5,g,6,g
+423,johnny carinos,dinner spicy romano shrimp and chicken,79,g,254,mg,1652,g,107,g,57,g,37,g,1,g,5,g,10,g
+424,johnny carinos,family seafood fettuccini with white sauce,117,g,920,mg,3269,g,221,g,143,g,45,g,0,g,11,g,12,g
+425,johnny carinos,angel hair pasta with artichokes grandioso with grilled sliced chicken,40,g,109,mg,3837,g,215,g,85,g,5,g,0,g,29,g,18,g
+426,johnny carinos,family spicy romano shrimp and chicken,139,g,507,mg,3088,g,214,g,114,g,65,g,1,g,10,g,21,g
+427,johnny carinos,family platter create your own pasta without protein or sauce,38,g,0,mg,74,g,176,g,36,g,6,g,0,g,10,g,10,g
+428,johnny carinos,lunch classic italian fettuccine alfredo,27,g,47,mg,799,g,66,g,18,g,11,g,0,g,3,g,4,g
+429,johnny carinos,lunch classic italian angel hair pasta with artichokes and grilled shrimp,21,g,97,mg,1142,g,73,g,28,g,3,g,0,g,9,g,7,g
+430,johnny carinos,lunch chicken milano with fettuccine alfredo,66,g,185,mg,2226,g,59,g,59,g,33,g,0,g,2,g,4,g
+431,johnny carinos,classic italian lasagna,51,g,215,mg,2193,g,49,g,48,g,23,g,0,g,5,g,10,g
+432,johnny carinos,family chicken milano,90,g,409,mg,3065,g,27,g,143,g,46,g,0,g,1,g,3,g
+433,johnny carinos,dinner create your own pasta without protein or sauce,19,g,0,mg,37,g,88,g,18,g,3,g,0,g,5,g,5,g
+434,johnny carinos,solo classic italian fettuccine alfredo with grilled shrimp,41,g,164,mg,1303,g,99,g,40,g,18,g,0,g,5,g,6,g
+435,johnny carinos,dinner chicken milano,55,g,205,mg,1644,g,13,g,72,g,28,g,0,g,0,g,1,g
+436,johnny carinos,lunch classic italian angel hair pasta with artichokes,20,g,5,mg,1052,g,72,g,16,g,3,g,0,g,9,g,7,g
+437,johnny carinos,lunch classic italian angel hair pasta with artichokes and grilled sliced chicken,21,g,54,mg,1108,g,72,g,36,g,3,g,0,g,9,g,7,g
+438,johnny carinos,lunch classic italian baked cheese tortelloni,39,g,154,mg,2152,g,75,g,48,g,22,g,0,g,5,g,6,g
+439,johnny carinos,lunch chicken milano,43,g,136,mg,1415,g,13,g,44,g,22,g,0,g,0,g,1,g
+440,johnny carinos,family classic italian angel hair pasta with artichokes and grilled shrimp,65,g,286,mg,3995,g,216,g,83,g,9,g,0,g,29,g,18,g
+441,johnny carinos,dinner classic italian baked cheese tortelloni,50,g,200,mg,2783,g,100,g,61,g,28,g,0,g,7,g,8,g
+442,johnny carinos,dinner spicy shrimp ravioli,86,g,290,mg,1817,g,117,g,62,g,41,g,1,g,6,g,11,g
+443,johnny carinos,solo classic italian angel hair pasta with artichokes and grilled shrimp,32,g,143,mg,1997,g,108,g,41,g,4,g,0,g,14,g,9,g
+444,johnny carinos,family classic italian lasagna,139,g,604,mg,5945,g,139,g,135,g,62,g,0,g,13,g,26,g
+445,johnny carinos,family classic italian fettuccine alfredo with grilled shrimp,82,g,327,mg,2605,g,199,g,80,g,35,g,0,g,9,g,12,g
+446,johnny carinos,dinner classic italian angel hair pasta with artichokes and grilled sliced chicken,32,g,54,mg,1918,g,107,g,43,g,4,g,0,g,14,g,9,g
+447,johnny carinos,dinner shrimp scampi ravioli,97,g,311,mg,763,g,77,g,33,g,53,g,0,g,5,g,7,g
+448,johnny carinos,family classic italian angel hair pasta with artichokes,62,g,10,mg,3726,g,215,g,46,g,8,g,0,g,29,g,18,g
+449,johnny carinos,dinner chicken milano with fettuccine alfredo,78,g,254,mg,2454,g,60,g,87,g,39,g,0,g,3,g,5,g
+450,johnny carinos,family classic italian baked cheese tortelloni,99,g,399,mg,5566,g,200,g,122,g,56,g,0,g,13,g,16,g
+451,johnny carinos,chicken alfredo pizza,7,g,18,mg,477,g,22,g,10,g,3,g,0,g,0,g,1,g
+452,johnny carinos,margherita pizza,5,g,6,mg,423,g,23,g,6,g,2,g,0,g,0,g,1,g
+453,johnny carinos,three meat pizza,8,g,20,mg,602,g,23,g,10,g,3,g,0,g,0,g,1,g
+454,johnny carinos,chicken ranch pizza,9,g,20,mg,510,g,23,g,11,g,3,g,0,g,0,g,1,g
+455,johnny carinos,ranch and roasted vegetable pizza,10,g,14,mg,550,g,23,g,8,g,3,g,0,g,0,g,1,g
+456,johnny carinos,spicy romano chicken pizza,6,g,16,mg,494,g,23,g,9,g,3,g,0,g,1,g,1,g
+457,johnny carinos,chopped club salad with chicken and dressing half portion,20,g,111,mg,1383,g,10,g,58,g,7,g,0,g,3,g,6,g
+458,johnny carinos,caesar salad with grilled chicken and dressing,69,g,192,mg,2941,g,46,g,70,g,13,g,0,g,6,g,6,g
+459,johnny carinos,italian wedge salad with creamy gorgonzola dressing,77,g,87,mg,1340,g,29,g,19,g,19,g,0,g,6,g,21,g
+460,johnny carinos,caesar side salad with dressing,22,g,20,mg,670,g,15,g,6,g,4,g,0,g,2,g,2,g
+461,johnny carinos,house side salad with ranch dressing,17,g,15,mg,571,g,17,g,6,g,3,g,0,g,2,g,3,g
+462,johnny carinos,family house salad,20,g,10,mg,1039,g,63,g,19,g,2,g,0,g,8,g,10,g
+463,johnny carinos,caesar salad with grilled salmon and dressing,91,g,194,mg,2256,g,45,g,63,g,17,g,0,g,6,g,6,g
+464,johnny carinos,chopped club salad with dressing half portion,17,g,21,mg,452,g,9,g,6,g,6,g,0,g,3,g,6,g
+465,johnny carinos,family house salad with ranch dressing,64,g,50,mg,2119,g,67,g,19,g,8,g,0,g,8,g,14,g
+466,johnny carinos,italian wedge salad with roasted garlic ranch dressing,64,g,63,mg,1314,g,30,g,16,g,14,g,0,g,6,g,21,g
+467,johnny carinos,grilled bbq chicken salad with dressing,45,g,131,mg,2048,g,96,g,40,g,10,g,0,g,10,g,37,g
+468,johnny carinos,house side salad,6,g,5,mg,301,g,16,g,6,g,1,g,0,g,2,g,2,g
+469,johnny carinos,caesar salad with grilled shrimp and dressing,68,g,198,mg,2144,g,46,g,36,g,12,g,0,g,6,g,6,g
+470,johnny carinos,italian wedge salad with chianti dressing,48,g,47,mg,2140,g,39,g,15,g,12,g,0,g,6,g,28,g
+471,johnny carinos,italian wedge salad with ranch dressing,67,g,67,mg,1400,g,29,g,15,g,15,g,0,g,6,g,21,g
+472,johnny carinos,italian wedge salad,45,g,47,mg,860,g,27,g,15,g,11,g,0,g,6,g,19,g
+473,johnny carinos,house side salad with roasted garlic ranch dressing,15,g,14,mg,5528,g,18,g,6,g,2,g,0,g,2,g,3,g
+474,johnny carinos,pecan breaded chicken salad solo,31,g,152,mg,1541,g,48,g,38,g,12,g,0,g,6,g,6,g
+475,johnny carinos,family house salad with chianti dressing,26,g,10,mg,3599,g,87,g,19,g,2,g,0,g,8,g,30,g
+476,johnny carinos,italian wedge salad half portion,31,g,31,mg,645,g,15,g,8,g,7,g,0,g,3,g,10,g
+477,johnny carinos,family house salad with roasted garlic ranch dressing,58,g,44,mg,1947,g,70,g,20,g,8,g,0,g,8,g,14,g
+478,johnny carinos,house side salad with chianti dressing,7,g,5,mg,941,g,22,g,6,g,1,g,0,g,2,g,7,g
+479,johnny carinos,pecan breaded chicken salad solo with chianti dressing,39,g,157,mg,2822,g,60,g,38,g,14,g,0,g,6,g,16,g
+480,johnny carinos,citrus pecan salad with grilled shrimp and dressing,76,g,163,mg,943,g,71,g,30,g,14,g,0,g,12,g,52,g
+481,johnny carinos,citrus pecan salad with dressing,75,g,25,mg,808,g,71,g,12,g,13,g,0,g,12,g,52,g
+482,johnny carinos,house side salad with creamy gorgonzola dressing,22,g,25,mg,541,g,17,g,8,g,5,g,0,g,2,g,3,g
+483,johnny carinos,caesar salad with dressing,66,g,60,mg,2010,g,45,g,18,g,12,g,0,g,6,g,6,g
+484,johnny carinos,citrus pecan salad with grilled chicken and dressing,77,g,157,mg,1740,g,72,g,64,g,14,g,0,g,12,g,52,g
+485,johnny carinos,family house salad with creamy gorgonzola dressing,84,g,90,mg,1999,g,67,g,27,g,16,g,0,g,8,g,14,g
+486,johnny carinos,johnnys famous burger without fries,52,g,145,mg,1343,g,70,g,52,g,20,g,0,g,1,g,22,g
+487,johnny carinos,chicken parmesan avocado club sandwich without fries,63,g,145,mg,1529,g,68,g,48,g,16,g,0,g,4,g,6,g
+488,johnny carinos,blackened chicken bacon and avocado sandwich without fries,40,g,86,mg,1423,g,51,g,41,g,10,g,0,g,4,g,7,g
+489,johnny carinos,bbq tri tip sandwich without fries,22,g,122,mg,2144,g,128,g,44,g,7,g,0,g,2,g,66,g
+490,johnny carinos,bacon and egg burger without fries,76,g,357,mg,1280,g,52,g,53,g,22,g,0,g,1,g,6,g
+491,johnny carinos,tri tip dip sandwich without fries,49,g,143,mg,2564,g,77,g,45,g,12,g,0,g,4,g,15,g
+492,johnny carinos,classic american burger without fries,66,g,145,mg,1386,g,52,g,43,g,18,g,0,g,1,g,11,g
+493,johnny carinos,guacamole burger without fries,70,g,155,mg,1044,g,45,g,48,g,22,g,0,g,1,g,5,g
+494,johnny carinos,black and bleu burger without fries,44,g,121,mg,875,g,47,g,45,g,16,g,0,g,1,g,5,g
+495,johnny carinos,santa fe bbq chicken sandwich without fries,30,g,96,mg,1274,g,63,g,45,g,12,g,0,g,1,g,21,g
+496,johnny carinos,johnnys famous tri tip sandwich without fries,83,g,183,mg,2368,g,83,g,49,g,16,g,0,g,7,g,17,g
+497,johnny carinos,the shroom burger without fries,66,g,139,mg,1535,g,59,g,45,g,19,g,0,g,1,g,18,g
+498,johnny carinos,pronto bistro lunch half market club sandwich,26,g,68,mg,2004,g,34,g,26,g,10,g,0,g,2,g,4,g
+499,johnny carinos,pronto bistro lunch half tri tip sandwich,41,g,91,mg,1184,g,41,g,25,g,8,g,0,g,1,g,8,g
+500,johnny carinos,amalfi strawberry lemonade,0,g,0,mg,20,g,54,g,0,g,0,g,0,g,2,g,51,g
+501,johnny carinos,angel hair with artichokes lunch,9,g,5,mg,970,g,75,g,15,g,1,g,0,g,7,g,9,g
+502,johnny carinos,baked cheese tortelloni,45,g,190,mg,2980,g,87,g,57,g,27,g,0,g,7,g,13,g
+503,johnny carinos,baked cheese tortelloni lunch,35,g,140,mg,2240,g,61,g,43,g,21,g,0,g,5,g,10,g
+504,johnny carinos,baked stuffed mushrooms,37,g,175,mg,1100,g,20,g,13,g,23,g,1,g,2,g,4,g
+505,johnny carinos,bbq chicken pizza,20,g,100,mg,3170,g,125,g,55,g,11,g,0,g,6,g,41,g
+506,johnny carinos,bellini,0,g,0,mg,15,g,46,g,0,g,0,g,0,g,0,g,39,g
+507,johnny carinos,caesar salad add on,21,g,20,mg,650,g,15,g,6,g,3,g,0,g,2,g,2,g
+508,johnny carinos,carinos favorites combo,63,g,365,mg,3140,g,129,g,101,g,29,g,0,g,10,g,24,g
+509,johnny carinos,cedar planked salmon,83,g,180,mg,1480,g,76,g,49,g,33,g,0,g,5,g,28,g
+510,johnny carinos,chicken balsamico lunch and dinner,19,g,135,mg,750,g,83,g,66,g,4,g,0,g,4,g,24,g
+511,johnny carinos,chicken caesar panini,38,g,125,mg,1520,g,69,g,57,g,10,g,0,g,4,g,5,g
+512,johnny carinos,chicken diavolo lunch and dinner,4,g,130,mg,960,g,55,g,62,g,1,g,0,g,5,g,9,g
+513,johnny carinos,chicken fettuccine,32,g,145,mg,1900,g,106,g,48,g,19,g,0,g,5,g,7,g
+514,johnny carinos,chicken fettuccine lunch,24,g,120,mg,1350,g,72,g,39,g,15,g,0,g,3,g,5,g
+515,johnny carinos,chicken marsala,77,g,195,mg,1410,g,62,g,63,g,26,g,0,g,3,g,4,g
+516,johnny carinos,chicken milano,74,g,270,mg,2640,g,63,g,90,g,39,g,0,g,3,g,5,g
+517,johnny carinos,chicken parmesan panini,39,g,160,mg,1670,g,83,g,59,g,17,g,0,g,3,g,1,g
+518,johnny carinos,chicken penne gorgonzola dinner,80,g,215,mg,1810,g,106,g,52,g,43,g,0,g,6,g,8,g
+519,johnny carinos,chicken penne gorgonzola lunch,53,g,155,mg,1350,g,72,g,42,g,29,g,0,g,4,g,6,g
+520,johnny carinos,chicken scallopini,122,g,400,mg,1310,g,53,g,69,g,63,g,0,g,3,g,5,g
+521,johnny carinos,chicken scallopini lunch,94,g,280,mg,810,g,51,g,39,g,50,g,0,g,3,g,4,g
+522,johnny carinos,classic caesar grilled chicken,46,g,100,mg,1530,g,34,g,38,g,6,g,0,g,6,g,6,g
+523,johnny carinos,classic caesar shrimp and artichokes,33,g,200,mg,1280,g,23,g,33,g,8,g,0,g,4,g,6,g
+524,johnny carinos,classic caesar shrimp and artichokes,33,g,200,mg,1280,g,23,g,33,g,8,g,0,g,4,g,6,g
+525,johnny carinos,classic pizza margherita,21,g,50,mg,2070,g,75,g,35,g,12,g,0,g,7,g,7,g
+526,johnny carinos,create your own pasta alfredo,25,g,75,mg,1200,g,105,g,28,g,15,g,0,g,6,g,7,g
+527,johnny carinos,create your own pasta alfredo lunch,17,g,50,mg,780,g,70,g,18,g,10,g,0,g,4,g,4,g
+528,johnny carinos,create your own pasta italian sausage,46,g,155,mg,1590,g,95,g,53,g,15,g,0,g,6,g,5,g
+529,johnny carinos,create your own pasta meat sauce,6,g,10,mg,690,g,107,g,23,g,1,g,0,g,7,g,15,g
+530,johnny carinos,create your own pasta spicy marinara,5,g,0,mg,510,g,102,g,20,g,0,g,0,g,7,g,10,g
+531,johnny carinos,create your own pasta spicy marinara lunch,3,g,0,mg,340,g,68,g,13,g,0,g,0,g,5,g,7,g
+532,johnny carinos,create your own pasta tomato,5,g,0,mg,630,g,106,g,18,g,0,g,0,g,7,g,13,g
+533,johnny carinos,create your own pasta tomato lunch,3,g,0,mg,420,g,71,g,12,g,0,g,0,g,5,g,8,g
+534,johnny carinos,create your own pizza,24,g,55,mg,2110,g,72,g,36,g,12,g,0,g,6,g,6,g
+535,johnny carinos,five meat tuscan pasta dinner,68,g,80,mg,1920,g,99,g,38,g,17,g,0,g,7,g,13,g
+536,johnny carinos,five meat tuscan pasta lunch,49,g,65,mg,1540,g,63,g,28,g,14,g,0,g,4,g,8,g
+537,johnny carinos,florentine pasta with chicken dinner,64,g,160,mg,1660,g,106,g,48,g,33,g,0,g,6,g,7,g
+538,johnny carinos,florentine pasta with chicken lunch,48,g,140,mg,1240,g,71,g,38,g,25,g,0,g,4,g,5,g
+539,johnny carinos,florentine pasta with shrimp dinner,64,g,200,mg,1690,g,107,g,41,g,33,g,0,g,6,g,7,g
+540,johnny carinos,florentine pasta with shrimp lunch,47,g,170,mg,1260,g,71,g,29,g,25,g,0,g,4,g,5,g
+541,johnny carinos,fresh caprese salad,38,g,85,mg,630,g,7,g,22,g,19,g,0,g,1,g,5,g
+542,johnny carinos,garlic potato soup,35,g,95,mg,1800,g,38,g,19,g,19,g,0,g,2,g,3,g
+543,johnny carinos,gorgonzola and tomato salad with chicken,36,g,75,mg,1280,g,46,g,35,g,9,g,0,g,6,g,14,g
+544,johnny carinos,grilled chicken bowtie festival,63,g,150,mg,1440,g,103,g,47,g,31,g,0,g,6,g,7,g
+545,johnny carinos,grilled chicken bowtie festival lunch,52,g,150,mg,1180,g,72,g,42,g,27,g,0,g,4,g,6,g
+546,johnny carinos,grilled new york strip,81,g,280,mg,860,g,3,g,65,g,37,g,0,g,1,g,0,g
+547,johnny carinos,hand breaded calamari,26,g,655,mg,5260,g,176,g,68,g,6,g,0,g,7,g,5,g
+548,johnny carinos,hand breaded calamari mini,8,g,325,mg,2880,g,91,g,34,g,2,g,0,g,4,g,4,g
+549,johnny carinos,homemade 16 layer lasagna,46,g,245,mg,2250,g,62,g,57,g,23,g,0,g,6,g,19,g
+550,johnny carinos,homemade 16 layer lasagna lunch,46,g,245,mg,2250,g,62,g,57,g,23,g,0,g,6,g,19,g
+551,johnny carinos,homemade parmigiana chicken,34,g,255,mg,2140,g,102,g,84,g,12,g,0,g,6,g,14,g
+552,johnny carinos,homemade parmigiana chicken lunch,18,g,130,mg,1160,g,74,g,45,g,6,g,0,g,4,g,9,g
+553,johnny carinos,homemade parmigiana eggplant,31,g,100,mg,1240,g,67,g,33,g,15,g,0,g,9,g,14,g
+554,johnny carinos,homemade parmigiana eggplant lunch,31,g,100,mg,1240,g,67,g,33,g,15,g,0,g,9,g,14,g
+555,johnny carinos,honey pecan salmon salad,45,g,115,mg,1660,g,52,g,45,g,7,g,0,g,7,g,38,g
+556,johnny carinos,italian chili soup,12,g,25,mg,880,g,23,g,11,g,4,g,0,g,4,g,6,g
+557,johnny carinos,italian chocolate cake,19,g,50,mg,400,g,94,g,10,g,11,g,0,g,3,g,77,g
+558,johnny carinos,italian chopped club salad,93,g,205,mg,4030,g,60,g,60,g,38,g,0,g,10,g,17,g
+559,johnny carinos,italian flat iron steak gorgonzola sauce,39,g,160,mg,920,g,5,g,46,g,18,g,0,g,1,g,1,g
+560,johnny carinos,italian flat iron steak marsala sauce,47,g,155,mg,540,g,7,g,41,g,17,g,0,g,0,g,1,g
+561,johnny carinos,italian margarita,0,g,0,mg,490,g,26,g,0,g,0,g,0,g,0,g,25,g
+562,johnny carinos,italian meatball panini,62,g,170,mg,3590,g,134,g,57,g,24,g,0,g,10,g,9,g
+563,johnny carinos,italian meatball sliders,67,g,230,mg,3300,g,107,g,62,g,25,g,0,g,10,g,28,g
+564,johnny carinos,italian nachos chicken,33,g,165,mg,2740,g,92,g,70,g,15,g,0,g,8,g,2,g
+565,johnny carinos,italian nachos combo,40,g,165,mg,2950,g,93,g,66,g,18,g,0,g,9,g,2,g
+566,johnny carinos,italian nachos mini,20,g,60,mg,1470,g,46,g,25,g,9,g,0,g,4,g,1,g
+567,johnny carinos,italian nachos sausage,47,g,165,mg,3160,g,93,g,61,g,20,g,0,g,9,g,2,g
+568,johnny carinos,italian pot roast with rosemary potatoes,72,g,100,mg,2820,g,47,g,54,g,17,g,0,g,6,g,12,g
+569,johnny carinos,italian sangria,0,g,0,mg,15,g,35,g,0,g,0,g,0,g,0,g,30,g
+570,johnny carinos,italian sodas with cream,1,g,5,mg,20,g,27,g,0,g,1,g,0,g,0,g,26,g
+571,johnny carinos,italian sodas without cream,0,g,0,mg,10,g,26,g,0,g,0,g,0,g,0,g,25,g
+572,johnny carinos,italian wedge salad,66,g,70,mg,1390,g,34,g,18,g,15,g,0,g,6,g,25,g
+573,johnny carinos,jalapeno garlic tilapia,114,g,365,mg,1580,g,58,g,56,g,60,g,0,g,3,g,3,g
+574,johnny carinos,jalapeno garlic tilapia panini,45,g,195,mg,1680,g,70,g,51,g,21,g,0,g,3,g,2,g
+575,johnny carinos,jalapeno garlic tilapia lunch,90,g,260,mg,900,g,51,g,31,g,48,g,0,g,3,g,3,g
+576,johnny carinos,kids apple juice,0,g,0,mg,20,g,36,g,0,g,0,g,0,g,0,g,35,g
+577,johnny carinos,kids cheese stuffed pasta,7,g,40,mg,770,g,39,g,13,g,4,g,0,g,4,g,6,g
+578,johnny carinos,kids chicken and broccoli penne,12,g,60,mg,800,g,60,g,24,g,7,g,0,g,3,g,4,g
+579,johnny carinos,kids grilled chicken with spaghetti,4,g,65,mg,290,g,56,g,36,g,0,g,0,g,3,g,5,g
+580,johnny carinos,kids ice cream sundae,8,g,35,mg,95,g,58,g,5,g,6,g,0,g,0,g,51,g
+581,johnny carinos,kids pasta alfredo,8,g,25,mg,360,g,55,g,12,g,5,g,0,g,3,g,3,g
+582,johnny carinos,kids pasta butter and cheese,23,g,5,mg,310,g,52,g,11,g,10,g,0,g,3,g,3,g
+583,johnny carinos,kids pasta meatballs,13,g,65,mg,870,g,66,g,22,g,4,g,0,g,5,g,8,g
+584,johnny carinos,kids pasta tomato sauce,2,g,0,mg,210,g,56,g,10,g,0,g,0,g,3,g,5,g
+585,johnny carinos,kids pasta butter and cheese,23,g,5,mg,310,g,52,g,11,g,10,g,0,g,3,g,3,g
+586,johnny carinos,kids pepperoni mac and cheese,17,g,40,mg,1100,g,55,g,15,g,5,g,0,g,2,g,13,g
+587,johnny carinos,kids pizza,18,g,50,mg,1430,g,68,g,33,g,10,g,0,g,5,g,3,g
+588,johnny carinos,kids pizza dippers with tomato sauce,19,g,50,mg,1660,g,81,g,34,g,11,g,0,g,5,g,4,g
+589,johnny carinos,kids pizza pasta,10,g,45,mg,590,g,59,g,25,g,4,g,0,g,4,g,7,g
+590,johnny carinos,kids turkey and cheese panini,12,g,60,mg,950,g,61,g,28,g,6,g,0,g,3,g,13,g
+591,johnny carinos,lemon cream cake,31,g,95,mg,310,g,63,g,6,g,14,g,1,g,1,g,39,g
+592,johnny carinos,lemon pepper mahi mahi with angel hair,53,g,195,mg,1150,g,38,g,51,g,21,g,0,g,5,g,8,g
+593,johnny carinos,lemon pepper salmon,70,g,165,mg,1400,g,21,g,53,g,25,g,0,g,5,g,10,g
+594,johnny carinos,lemon rosemary chicken,6,g,130,mg,1460,g,67,g,64,g,1,g,0,g,8,g,15,g
+595,johnny carinos,lobster ravioli,60,g,200,mg,1910,g,64,g,26,g,34,g,1,g,5,g,7,g
+596,johnny carinos,mascarpone bread pudding,96,g,515,mg,1620,g,175,g,29,g,56,g,0,g,3,g,103,g
+597,johnny carinos,minestrone soup,1,g,5,mg,1720,g,30,g,10,g,1,g,0,g,7,g,7,g
+598,johnny carinos,mini cheesecake with amerena cherries,13,g,65,mg,160,g,25,g,3,g,8,g,0,g,0,g,21,g
+599,johnny carinos,mini chocolate cake,4,g,10,mg,95,g,23,g,2,g,2,g,0,g,1,g,18,g
+600,johnny carinos,mini tiramisu,25,g,145,mg,35,g,16,g,5,g,14,g,0,g,0,g,13,g
+601,johnny carinos,mozzarella with marinara,53,g,125,mg,2660,g,70,g,41,g,24,g,1,g,3,g,11,g
+602,johnny carinos,mozzarella with marinara mini,24,g,75,mg,1820,g,44,g,25,g,13,g,1,g,2,g,7,g
+603,johnny carinos,pecan crusted chicken,46,g,165,mg,3220,g,86,g,44,g,15,g,0,g,6,g,16,g
+604,johnny carinos,pinot grigio chicken,47,g,150,mg,1310,g,54,g,46,g,24,g,0,g,5,g,5,g
+605,johnny carinos,pomegranate granita,0,g,0,mg,0,g,74,g,0,g,0,g,0,g,0,g,62,g
+606,johnny carinos,premium italian margarita,0,g,0,mg,480,g,27,g,0,g,0,g,0,g,0,g,20,g
+607,johnny carinos,seafood fettuccine with alfredo,49,g,355,mg,1500,g,114,g,52,g,23,g,0,g,5,g,6,g
+608,johnny carinos,seafood fettuccine with marinara,46,g,310,mg,1470,g,118,g,47,g,7,g,0,g,7,g,12,g
+609,johnny carinos,shredded beef pappardelle,66,g,180,mg,2940,g,94,g,46,g,32,g,0,g,8,g,12,g
+610,johnny carinos,shrimp scampi,136,g,490,mg,1120,g,114,g,46,g,81,g,0,g,7,g,10,g
+611,johnny carinos,shrimp scampi with garlic toast,150,g,540,mg,1790,g,91,g,40,g,90,g,0,g,5,g,8,g
+612,johnny carinos,sicilian fire sticks with ranch dressing,94,g,180,mg,4600,g,115,g,58,g,32,g,0,g,13,g,9,g
+613,johnny carinos,sicilian fire sticks with ranch dressing mini,53,g,80,mg,1910,g,39,g,20,g,14,g,0,g,4,g,4,g
+614,johnny carinos,skilletini chicken lunch,48,g,105,mg,1400,g,93,g,56,g,8,g,0,g,5,g,10,g
+615,johnny carinos,skilletini combo lunch,65,g,115,mg,1920,g,94,g,50,g,14,g,0,g,6,g,10,g
+616,johnny carinos,skilletini sausage lunch,82,g,120,mg,2430,g,95,g,43,g,20,g,0,g,7,g,10,g
+617,johnny carinos,smoked turkey and bacon panini,37,g,140,mg,2150,g,67,g,57,g,17,g,0,g,3,g,3,g
+618,johnny carinos,spaghetti and handmade meatballs,38,g,190,mg,2610,g,138,g,56,g,12,g,0,g,12,g,21,g
+619,johnny carinos,spaghetti and handmade meatballs lunch,25,g,130,mg,1740,g,92,g,37,g,8,g,0,g,8,g,14,g
+620,johnny carinos,spicy romano chicken,65,g,160,mg,1850,g,110,g,47,g,33,g,1,g,7,g,15,g
+621,johnny carinos,spicy romano chicken lunch,49,g,145,mg,1240,g,73,g,38,g,25,g,0,g,4,g,10,g
+622,johnny carinos,spicy shrimp and chicken,66,g,255,mg,1580,g,106,g,58,g,34,g,1,g,5,g,9,g
+623,johnny carinos,spicy shrimp and chicken lunch,50,g,220,mg,1150,g,72,g,47,g,26,g,0,g,3,g,8,g
+624,johnny carinos,spinach with artichoke dip,69,g,100,mg,2770,g,105,g,43,g,34,g,0,g,6,g,7,g
+625,johnny carinos,tiramisu,54,g,330,mg,85,g,59,g,12,g,29,g,0,g,0,g,42,g
+626,johnny carinos,turtle cheesecake,63,g,215,mg,770,g,105,g,12,g,38,g,2,g,2,g,84,g
+627,johnny carinos,vegetable primavera with chicken dinner,6,g,55,mg,960,g,109,g,43,g,1,g,0,g,8,g,13,g
+628,johnny carinos,vegetable primavera with chicken lunch,5,g,55,mg,620,g,73,g,35,g,1,g,0,g,5,g,9,g
+629,johnny carinos,vegetable primavera with shrimp dinner,6,g,95,mg,990,g,110,g,36,g,1,g,0,g,8,g,13,g
+630,johnny carinos,vegetable primavera with shrimp lunch,5,g,80,mg,640,g,74,g,26,g,1,g,0,g,5,g,9,g
+631,johnny carinos,zesty calamari,32,g,340,mg,3680,g,103,g,37,g,5,g,0,g,12,g,6,g
+632,johnny rockets,honey mustard dressing,13,g,10,mg,220,g,5,g,0,g,2,g,0,g,0,g,4,g
+633,johnny rockets,smokin chipotle ranch dressing,9,g,5,mg,220,g,1,g,1,g,1.5,g,0,g,0,g,1,g
+634,johnny rockets,onion rings with ranch dressing and ketchup starter,56,g,15,mg,2330,g,105,g,12,g,10,g,0,g,5,g,15,g
+635,johnny rockets,chili bowl,44,g,90,mg,990,g,22,g,22,g,21,g,1.5,g,3,g,2,g
+636,johnny rockets,onion rings with ranch dressing and ketchup side,38,g,15,mg,1460,g,56,g,7,g,7,g,0,g,3,g,10,g
+637,johnny rockets,half rings and half fries with ranch dressing and ketchup starter,53,g,15,mg,1780,g,95,g,12,g,10,g,0,g,7,g,10,g
+638,johnny rockets,strawberry original shake,43,g,155,mg,270,g,89,g,17,g,27,g,1.5,g,1,g,85,g
+639,johnny rockets,vanilla original shake,43,g,155,mg,270,g,106,g,17,g,27,g,1.5,g,1,g,103,g
+640,johnny rockets,strawberry oreo crumble deluxe shake,50,g,155,mg,410,g,114,g,18,g,28,g,1.5,g,2,g,98,g
+641,johnny rockets,chocolate banana deluxe shake,44,g,155,mg,290,g,127,g,18,g,27,g,1.5,g,4,g,111,g
+642,johnny rockets,hersheys chocolate original shake,44,g,155,mg,290,g,112,g,18,g,27,g,1.5,g,2,g,103,g
+643,johnny rockets,chocolate strawberry kiss deluxe shake,44,g,155,mg,280,g,107,g,17,g,27,g,1.5,g,2,g,99,g
+644,johnny rockets,banana deluxe shake,43,g,155,mg,270,g,91,g,18,g,27,g,1.5,g,2,g,82,g
+645,johnny rockets,peanut butter banana deluxe shake,71,g,155,mg,590,g,107,g,32,g,33,g,1.5,g,6,g,88,g
+646,johnny rockets,peanut butter deluxe shake,74,g,155,mg,630,g,94,g,32,g,33,g,1.5,g,5,g,80,g
+647,johnny rockets,butterfinger deluxe shake,52,g,155,mg,350,g,107,g,19,g,31,g,1.5,g,2,g,93,g
+648,johnny rockets,mandms candy deluxe shake,53,g,160,mg,310,g,116,g,19,g,33,g,1.5,g,2,g,109,g
+649,johnny rockets,chocolate peanut butter deluxe shake,75,g,155,mg,640,g,112,g,33,g,33,g,1.5,g,6,g,95,g
+650,johnny rockets,strawberry banana deluxe shake,43,g,155,mg,280,g,104,g,18,g,27,g,1.5,g,3,g,93,g
+651,johnny rockets,buttermilk pancakes 3 with sausage,78,g,120,mg,2260,g,111,g,20,g,24,g,0,g,1,g,48,g
+652,johnny rockets,buttermilk pancakes 2 with sausage,71,g,120,mg,1950,g,93,g,18,g,23,g,0,g,1,g,45,g
+653,johnny rockets,buttermilk pancakes 2 with bacon,36,g,60,mg,1420,g,93,g,17,g,11,g,0,g,1,g,46,g
+654,johnny rockets,one fried egg,19,g,185,mg,170,g,0,g,6,g,3.5,g,0,g,0,g,0,g
+655,johnny rockets,sausage biscuit breakfast sandwich,63,g,255,mg,1350,g,28,g,22,g,21,g,0.5,g,1,g,3,g
+656,johnny rockets,rocket breakfast burger,56,g,320,mg,1630,g,51,g,50,g,19,g,1.5,g,1,g,17,g
+657,johnny rockets,two eggs and sausage,106,g,475,mg,1550,g,38,g,31,g,27,g,0,g,3,g,0,g
+658,johnny rockets,buttermilk pancakes 3 with bacon,44,g,60,mg,1730,g,110,g,19,g,13,g,0,g,1,g,49,g
+659,johnny rockets,beef philly cheese steak scrambler without toast or butter,99,g,765,mg,2870,g,49,g,63,g,29,g,1,g,5,g,6,g
+660,johnny rockets,french toast 3 slices with sausage,93,g,530,mg,2270,g,123,g,38,g,28,g,0.5,g,4,g,49,g
+661,johnny rockets,french toast 2 slices and bacon,46,g,330,mg,1440,g,100,g,29,g,14,g,0,g,2,g,47,g
+662,johnny rockets,the works scrambler without toast or butter,107,g,725,mg,1820,g,59,g,51,g,32,g,1.5,g,8,g,8,g
+663,johnny rockets,bacon denver scrambler without toast or butter,91,g,705,mg,1600,g,50,g,47,g,24,g,0.5,g,6,g,7,g
+664,johnny rockets,cheesy bacon lovers scrambler without toast or butter,94,g,725,mg,1430,g,48,g,49,g,29,g,1,g,5,g,6,g
+665,johnny rockets,breakfast belt sandwich on sourdough,56,g,250,mg,1770,g,60,g,36,g,14,g,0.5,g,3,g,6,g
+666,johnny rockets,bacon biscuit breakfast sandwich,46,g,225,mg,1090,g,27,g,22,g,15,g,0.5,g,1,g,4,g
+667,johnny rockets,two eggs and bacon,71,g,415,mg,1020,g,38,g,29,g,16,g,0,g,3,g,2,g
+668,johnny rockets,french toast 2 slices with sausage,80,g,390,mg,1970,g,101,g,30,g,25,g,0,g,2,g,46,g
+669,johnny rockets,sausage english muffin breakfast sandwich,64,g,255,mg,1210,g,26,g,22,g,17,g,1,g,1,g,1,g
+670,johnny rockets,bacon english muffin breakfast sandwich,47,g,225,mg,950,g,25,g,21,g,11,g,1,g,1,g,2,g
+671,johnny rockets,three eggs and bacon,75,g,600,mg,1090,g,38,g,36,g,17,g,0.5,g,3,g,2,g
+672,johnny rockets,chicken philly cheese steak scrambler without toast or butter,85,g,685,mg,2740,g,47,g,79,g,23,g,1,g,5,g,5,g
+673,johnny rockets,biscuit sausage and gravy scrambler without toast or butter,136,g,790,mg,3340,g,68,g,58,g,46,g,1,g,1,g,8,g
+674,johnny rockets,plain scramber,64,g,635,mg,430,g,37,g,25,g,1,g,0.5,g,3,g,1,g
+675,johnny rockets,three eggs and sausage,110,g,660,mg,1620,g,39,g,37,g,29,g,0,g,3,g,1,g
+676,johnny rockets,sausage sourdough breakfast sandwich,66,g,255,mg,1660,g,58,g,29,g,17,g,1,g,2,g,3,g
+677,johnny rockets,country sausage and gravy scrambler without toast or butter,121,g,740,mg,2060,g,59,g,47,g,34,g,0.5,g,5,g,6,g
+678,johnny rockets,french toast 3 slices with bacon,58,g,465,mg,1740,g,122,g,37,g,16,g,0.5,g,4,g,50,g
+679,johnny rockets,bacon sourdough breakfast sandwich,49,g,225,mg,1400,g,57,g,28,g,11,g,1,g,2,g,3,g
+680,johnny rockets,one egg and sausage,101,g,290,mg,1480,g,38,g,24,g,25,g,0,g,3,g,0,g
+681,johnny rockets,one egg and bacon,66,g,225,mg,950,g,37,g,23,g,14,g,0,g,3,g,1,g
+682,johnny rockets,grab n go egg and cheese burrito,59,g,400,mg,2080,g,86,g,30,g,17,g,0,g,6,g,4,g
+683,johnny rockets,grab n go sausage burrito,82,g,450,mg,2690,g,87,g,37,g,25,g,0,g,6,g,4,g
+684,johnny rockets,grab n go burger burrito,74,g,465,mg,2320,g,92,g,49,g,22,g,1,g,7,g,7,g
+685,johnny rockets,grab n go bacon burrito,66,g,420,mg,2430,g,87,g,37,g,20,g,0,g,6,g,5,g
+686,johnny rockets,fries with ketchup side,15,g,0,mg,450,g,44,g,5,g,3,g,0,g,4,g,3,g
+687,johnny rockets,sweet potato fries with ketchup side,13,g,0,mg,630,g,43,g,3,g,2.5,g,0,g,5,g,19,g
+688,johnny rockets,chili cheese fries side,36,g,35,mg,1350,g,54,g,13,g,14,g,0.5,g,5,g,5,g
+689,johnny rockets,bacon cheese fries with ranch dressing and ketchup side,51,g,45,mg,1900,g,53,g,16,g,14,g,0,g,4,g,7,g
+690,johnny rockets,cheese fries starter,44,g,30,mg,1510,g,83,g,16,g,15,g,0,g,7,g,5,g
+691,johnny rockets,cheese fries side,25,g,15,mg,1100,g,50,g,9,g,9,g,0,g,4,g,4,g
+692,johnny rockets,sweet potato fries with ketchup starter,23,g,0,mg,1010,g,73,g,5,g,4,g,0,g,9,g,31,g
+693,johnny rockets,bacon cheese fries with ranch dressing and ketchup starter,70,g,60,mg,2130,g,86,g,24,g,21,g,0,g,7,g,7,g
+694,johnny rockets,fries starter with ketchup,27,g,0,mg,480,g,74,g,9,g,6,g,0,g,7,g,3,g
+695,johnny rockets,chili cheese fries starter,65,g,70,mg,2000,g,90,g,25,g,25,g,1,g,9,g,6,g
+696,johnny rockets,kids chicken tenders with fries bbq sauce and ketchup,32,g,65,mg,1550,g,93,g,29,g,6,g,0,g,7,g,27,g
+697,johnny rockets,kids grilled american cheese sandwich on sourdough with fries and ketchup,44,g,35,mg,1810,g,102,g,23,g,12,g,1,g,6,g,7,g
+698,johnny rockets,kids hamburger without cheese with fries and ketchup,35,g,75,mg,850,g,84,g,31,g,11,g,1,g,5,g,11,g
+699,johnny rockets,kids mini hot dogs with fries and ketchup without other condiments,47,g,50,mg,1640,g,76,g,22,g,16,g,1,g,5,g,6,g
+700,johnny rockets,kids chicken tenders with fries ranch dressing and ketchup,51,g,80,mg,1480,g,69,g,30,g,9,g,0,g,6,g,6,g
+701,johnny rockets,kids grilled swiss cheese sandwich on sourdough with fries and ketchup,45,g,40,mg,1290,g,102,g,28,g,13,g,1,g,6,g,6,g
+702,johnny rockets,kids hamburger without cheese with gluten free bun with fries and ketchup,36,g,65,mg,1060,g,83,g,29,g,8,g,1,g,9,g,9,g
+703,johnny rockets,kids grilled provolone cheese sandwich on sourdough with fries and ketchup,45,g,30,mg,1530,g,102,g,26,g,11,g,0,g,6,g,6,g
+704,johnny rockets,kids mini chili dogswith fries and ketchup,67,g,100,mg,2070,g,80,g,34,g,27,g,1.5,g,6,g,7,g
+705,johnny rockets,kids grilled cheddar cheese sandwich on sourdough with fries and ketchup,45,g,40,mg,1460,g,101,g,26,g,13,g,1,g,6,g,6,g
+706,johnny rockets,kids chicken tenders with fries honey mustard sauce and ketchup,58,g,90,mg,1460,g,76,g,29,g,10,g,0,g,6,g,12,g
+707,johnny rockets,kids grilled chicken with applesauce pouch and celery sticks,8,g,80,mg,560,g,16,g,27,g,1.5,g,0,g,3,g,10,g
+708,johnny rockets,applesauce,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,1,g,8,g
+709,johnny rockets,celery sticks,0,g,0,mg,70,g,3,g,1,g,0,g,0,g,1,g,1,g
+710,johnny rockets,kids mix hamburger and hot dog with fries and ketchup,51,g,100,mg,1440,g,100,g,40,g,18,g,1.5,g,6,g,13,g
+711,johnny rockets,kids grilled pepper jack cheese sandwich on sourdough with fries and ketchup,45,g,50,mg,1470,g,100,g,26,g,13,g,0,g,6,g,6,g
+712,johnny rockets,tomato slice,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+713,johnny rockets,avocado,7,g,0,mg,0,g,4,g,1,g,1,g,0,g,3,g,0,g
+714,johnny rockets,provolone cheese,6,g,15,mg,160,g,1,g,5,g,3,g,0,g,0,g,0,g
+715,johnny rockets,original all meat chili,11,g,20,mg,250,g,4,g,5,g,5,g,0.5,g,1,g,1,g
+716,johnny rockets,chicken tenders with bbq sauce,32,g,130,mg,1800,g,76,g,48,g,6,g,0,g,5,g,27,g
+717,johnny rockets,chicken tenders with honey mustard sauce,58,g,155,mg,1710,g,58,g,48,g,10,g,0,g,4,g,13,g
+718,johnny rockets,chicken tenders with ranch dressing,52,g,145,mg,1730,g,52,g,49,g,9,g,0,g,4,g,6,g
+719,johnny rockets,house made ranch dressing,10,g,5,mg,230,g,1,g,1,g,1.5,g,0,g,0,g,1,g
+720,johnny rockets,grilled chicken club salad without dressing,23,g,130,mg,1130,g,10,g,43,g,10,g,0,g,3,g,3,g
+721,johnny rockets,grab n go southwest grilled chicken salad,71,g,200,mg,1840,g,30,g,59,g,25,g,0,g,14,g,8,g
+722,johnny rockets,grab n go grilled chicken cobb saladq,72,g,360,mg,1780,g,30,g,60,g,23,g,0,g,14,g,9,g
+723,johnny rockets,crispy chicken club salad without dressing,26,g,95,mg,1020,g,21,g,32,g,10,g,0,g,4,g,4,g
+724,johnny rockets,grab n go grilled chicken with cool ranch and bacon salad,52,g,175,mg,1710,g,21,g,52,g,19,g,0,g,7,g,8,g
+725,johnny rockets,garden salad without dressing,9,g,30,mg,300,g,6,g,10,g,6,g,0,g,2,g,3,g
+726,johnny rockets,substitute chicken breast,1.5,g,60,mg,820,g,3,g,28,g,0,g,0,g,0,g,1,g
+727,johnny rockets,sliced onions,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,1,g
+728,johnny rockets,sliced onions,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,1,g
+729,johnny rockets,relish,0,g,0,mg,80,g,4,g,0,g,0,g,0,g,0,g,4,g
+730,johnny rockets,pepperjack cheese,6,g,25,mg,130,g,0,g,5,g,4,g,0,g,0,g,0,g
+731,johnny rockets,mayonnaise,19,g,10,mg,170,g,0,g,0,g,3,g,0,g,0,g,0,g
+732,johnny rockets,american cheese,6,g,20,mg,300,g,1,g,3,g,3.5,g,0,g,0,g,0,g
+733,johnny rockets,spicy jalapenos,0,g,0,mg,460,g,1,g,0,g,0,g,0,g,0,g,1,g
+734,johnny rockets,swiss cheese,6,g,20,mg,40,g,1,g,6,g,4,g,0,g,0,g,0,g
+735,johnny rockets,pickle,0,g,0,mg,100,g,0,g,0,g,0,g,0,g,0,g,0,g
+736,johnny rockets,grilled mushrooms,2,g,0,mg,140,g,3,g,1,g,0,g,0,g,1,g,1,g
+737,johnny rockets,bacon,7,g,20,mg,350,g,1,g,6,g,2.5,g,0,g,0,g,1,g
+738,johnny rockets,cheddar cheese,6,g,20,mg,125,g,0,g,5,g,4,g,0,g,0,g,0,g
+739,johnny rockets,cheese sauce,5,g,0,mg,560,g,6,g,0,g,2.5,g,0,g,0,g,1,g
+740,johnny rockets,rocket double burger,59,g,185,mg,1010,g,46,g,55,g,23,g,2,g,2,g,12,g
+741,johnny rockets,rocket 1 4lb single burger,40,g,100,mg,740,g,46,g,32,g,14,g,1,g,2,g,12,g
+742,johnny rockets,chicken philly cheese steak sandwich,27,g,50,mg,2970,g,59,g,66,g,11,g,0,g,5,g,8,g
+743,johnny rockets,bacon cheddar double burger,72,g,225,mg,1700,g,48,g,67,g,28,g,2,g,2,g,13,g
+744,johnny rockets,smoke house double burger,68,g,220,mg,1950,g,61,g,68,g,27,g,2,g,2,g,17,g
+745,johnny rockets,route 66 1 4lb burger,48,g,105,mg,780,g,47,g,34,g,15,g,1,g,3,g,11,g
+746,johnny rockets,bacon cheddar 1 4 lb burger,47,g,120,mg,1080,g,47,g,38,g,17,g,1,g,2,g,13,g
+747,johnny rockets,blt sandwich on sourdough,36,g,50,mg,1520,g,60,g,25,g,8,g,0,g,3,g,5,g
+748,johnny rockets,smoke house 1 4lb burger,42,g,115,mg,1330,g,60,g,39,g,16,g,1,g,2,g,16,g
+749,johnny rockets,beef philly cheese steak sandwich,41,g,130,mg,3100,g,60,g,49,g,16,g,0,g,5,g,9,g
+750,johnny rockets,grilled chicken sandwich,32,g,95,mg,940,g,43,g,35,g,6,g,0,g,4,g,5,g
+751,johnny rockets,original 1 4lb burger,40,g,85,mg,980,g,49,g,28,g,11,g,1,g,3,g,15,g
+752,johnny rockets,houston 1 4 lb burger,35,g,105,mg,1210,g,44,g,32,g,14,g,1,g,2,g,10,g
+753,johnny rockets,chili dog,54,g,100,mg,1630,g,36,g,29,g,24,g,1.5,g,2,g,4,g
+754,johnny rockets,streamliner burger,15,g,0,mg,1210,g,71,g,19,g,2,g,0,g,14,g,10,g
+755,johnny rockets,rocket dog without optional condiments,34,g,50,mg,1200,g,32,g,17,g,13,g,1,g,1,g,3,g
+756,johnny rockets,patty melt 1 3lb,47,g,125,mg,1400,g,60,g,44,g,16,g,2,g,3,g,4,g
+757,johnny rockets,houston 1 4lb burger with gluten free bun,36,g,95,mg,1420,g,43,g,30,g,11,g,1,g,6,g,8,g
+758,johnny rockets,bbq chicken melt,58,g,150,mg,2550,g,87,g,56,g,16,g,1,g,3,g,17,g
+759,johnny rockets,12 1 4lb burger with gluten free bun,47,g,95,mg,1300,g,47,g,30,g,12,g,1,g,6,g,10,g
+760,johnny rockets,smoke house 1 4lb burger with gluten free bun,43,g,105,mg,1540,g,59,g,37,g,13,g,1,g,6,g,14,g
+761,johnny rockets,rocket 1 4lb single burger with gluten free bun,41,g,90,mg,950,g,45,g,30,g,11,g,1,g,6,g,10,g
+762,johnny rockets,route 66 1 4lb burger with gluten free bun,49,g,95,mg,990,g,46,g,32,g,12,g,1,g,7,g,9,g
+763,johnny rockets,streamliner burger with gluten free bun,19,g,0,mg,1390,g,72,g,17,g,1,g,0,g,16,g,12,g
+764,johnny rockets,original 1 4lb burger with gluten free bun,41,g,75,mg,1190,g,48,g,26,g,8,g,1,g,7,g,13,g
+765,johnny rockets,grilled cheese sandwich on sourdough bread without sides,42,g,65,mg,1730,g,63,g,29,g,15,g,1,g,3,g,6,g
+766,johnny rockets,rocket chili dog without optional condiments,54,g,100,mg,1630,g,36,g,29,g,24,g,1.5,g,2,g,4,g
+767,johnny rockets,grab n go grilled chicken club sandwich,44,g,130,mg,1580,g,52,g,47,g,13,g,0,g,3,g,6,g
+768,johnny rockets,12 1 4lb burger,46,g,105,mg,1090,g,48,g,32,g,15,g,1,g,2,g,12,g
+769,johnny rockets,grilled chicken sandwich,32,g,95,mg,940,g,43,g,35,g,6,g,0,g,4,g,5,g
+770,johnny rockets,grab n go southwest turkey and bacon sandwich,26,g,100,mg,2700,g,51,g,41,g,10,g,0,g,3,g,6,g
+771,johnny rockets,grab n go oven roasted turkey sandwich,19,g,75,mg,2260,g,52,g,35,g,7,g,0,g,3,g,5,g
+772,johnny rockets,patty melt 1 4lb,43,g,105,mg,1370,g,60,g,38,g,14,g,1.5,g,3,g,4,g
+773,johnny rockets,grilled chicken sandwich with gluten free bun,35,g,95,mg,1120,g,44,g,33,g,5,g,0,g,6,g,7,g
+774,johnny rockets,rocket double burger on gluten free bun,60,g,175,mg,1220,g,45,g,53,g,20,g,2,g,6,g,10,g
+775,johnny rockets,grilled chicken sandwich with gluten free bun,35,g,95,mg,1120,g,44,g,33,g,5,g,0,g,6,g,7,g
+776,johnny rockets,smoke house double burger with gluten free bun,69,g,210,mg,2160,g,60,g,66,g,24,g,2,g,6,g,15,g
+777,johnny rockets,bacon cheddar double burger with gluten free bun,73,g,215,mg,1910,g,47,g,65,g,25,g,2,g,6,g,11,g
+778,johnny rockets,grab n go chicken tender and bacon sandwich,52,g,115,mg,1660,g,71,g,44,g,14,g,0,g,4,g,6,g
+779,johnny rockets,bacon cheddar 1 4lb burger with gluten free bun,48,g,110,mg,1290,g,46,g,36,g,14,g,1,g,6,g,11,g
+780,johnny rockets,grab n go ham and cheddar cheese sandwich,35,g,100,mg,1570,g,52,g,34,g,11,g,0,g,3,g,6,g
+781,johnny rockets,special sauce,14,g,10,mg,210,g,3,g,0,g,2,g,0,g,0,g,2,g
+782,johnny rockets,smoke house bbq sauce,5,g,5,mg,250,g,7,g,1,g,1,g,0,g,0,g,6,g
+783,johnny rockets,bbq sauce,0,g,0,mg,260,g,13,g,0,g,0,g,0,g,0,g,11,g
+784,johnny rockets,ketchup,0,g,0,mg,320,g,10,g,0,g,0,g,0,g,0,g,8,g
+785,johnny rockets,mustard,0.5,g,0,mg,170,g,1,g,1,g,0,g,0,g,0,g,0,g
+786,johnny rockets,rockin red sauce,0,g,0,mg,460,g,9,g,0,g,0,g,0,g,0,g,6,g
+787,johnny rockets,side salad without dressing,5,g,15,mg,125,g,2,g,4,g,3,g,0,g,1,g,1,g
+788,johnny rockets,potato tots side,40,g,0,mg,600,g,54,g,5,g,7,g,0,g,5,g,0,g
+789,johnny rockets,half rings and half fries with ranch dressing and ketchup side,37,g,15,mg,1320,g,51,g,7,g,7,g,0,g,3,g,8,g
+790,johnny rockets,crinkle cut pickle,0,g,0,mg,230,g,1,g,0,g,0,g,0,g,0,g,0,g
+791,johnny rockets,caramelized onions,1,g,0,mg,45,g,3,g,0,g,0,g,0,g,0,g,1,g
+792,johnny rockets,1000 island dressing,20,g,30,mg,490,g,10,g,0,g,0,g,0,g,0,g,10,g
+793,johnny rockets,2 applewood smoked bacon strips,10,g,20,mg,300,g,0,g,10,g,0,g,0,g,0,g,0,g
+794,johnny rockets,a 1 burger,40,g,60,mg,930,g,10,g,10,g,10,g,0,g,0,g,0,g
+795,johnny rockets,a 1 burger with bun choice gluten free,50,g,60,mg,1440,g,50,g,20,g,10,g,0,g,10,g,10,g
+796,johnny rockets,a 1 burger with bun choice gluten free burger patty choice beef burger,60,g,130,mg,2040,g,50,g,40,g,20,g,0,g,10,g,10,g
+797,johnny rockets,a 1 burger with bun choice gluten free burger patty choice boca veggie burger,50,g,60,mg,1960,g,60,g,40,g,10,g,0,g,10,g,10,g
+798,johnny rockets,a 1 burger with bun choice gluten free burger patty choice gardein burger,60,g,60,mg,2020,g,70,g,30,g,10,g,0,g,10,g,10,g
+799,johnny rockets,a 1 burger with bun choice gluten free burger patty choice grilled chicken,50,g,140,mg,1670,g,50,g,50,g,10,g,0,g,10,g,10,g
+800,johnny rockets,a 1 burger with bun choice gluten free burger patty choice turkey burger,80,g,150,mg,2310,g,50,g,40,g,20,g,0,g,10,g,10,g
+801,johnny rockets,a 1 burger with bun choice regular,40,g,60,mg,1280,g,40,g,20,g,10,g,0,g,0,g,10,g
+802,johnny rockets,a 1 burger with bun choice regular burger patty choice beef burger,60,g,130,mg,1880,g,40,g,40,g,20,g,0,g,0,g,10,g
+803,johnny rockets,a 1 burger with bun choice regular burger patty choice boca veggie burger,50,g,60,mg,1800,g,50,g,40,g,10,g,0,g,10,g,10,g
+804,johnny rockets,a 1 burger with bun choice regular burger patty choice gardein burger,50,g,60,mg,1860,g,70,g,30,g,10,g,0,g,10,g,10,g
+805,johnny rockets,a 1 burger with bun choice regular burger patty choice grilled chicken,50,g,140,mg,1510,g,40,g,50,g,10,g,0,g,0,g,10,g
+806,johnny rockets,a 1 burger with bun choice regular burger patty choice turkey burger,70,g,150,mg,2150,g,40,g,40,g,20,g,0,g,0,g,10,g
+807,johnny rockets,a 1 burger with bun choice wheat,40,g,60,mg,1190,g,50,g,20,g,10,g,0,g,0,g,10,g
+808,johnny rockets,a 1 burger with bun choice wheat burger patty choice beef burger,50,g,130,mg,1790,g,50,g,40,g,20,g,0,g,0,g,10,g
+809,johnny rockets,a 1 burger with bun choice wheat burger patty choice boca veggie burger,40,g,60,mg,1700,g,60,g,40,g,10,g,0,g,10,g,10,g
+810,johnny rockets,a 1 burger with bun choice wheat burger patty choice gardein burger,50,g,60,mg,1760,g,70,g,30,g,10,g,0,g,10,g,10,g
+811,johnny rockets,a 1 burger with bun choice wheat burger patty choice grilled chicken,40,g,140,mg,1410,g,50,g,50,g,10,g,0,g,0,g,10,g
+812,johnny rockets,a 1 burger with bun choice wheat burger patty choice turkey burger,70,g,150,mg,2050,g,50,g,50,g,20,g,0,g,0,g,10,g
+813,johnny rockets,a 1 burger with burger patty choice beef burger,50,g,130,mg,1530,g,10,g,30,g,10,g,0,g,0,g,0,g
+814,johnny rockets,a 1 burger with burger patty choice boca veggie burger,40,g,60,mg,1440,g,20,g,30,g,10,g,0,g,10,g,0,g
+815,johnny rockets,a 1 burger with burger patty choice gardein burger,40,g,60,mg,1500,g,30,g,20,g,10,g,0,g,10,g,10,g
+816,johnny rockets,a 1 burger with burger patty choice grilled chicken,40,g,140,mg,1150,g,10,g,50,g,10,g,0,g,0,g,0,g
+817,johnny rockets,a 1 burger with burger patty choice turkey burger,60,g,150,mg,1790,g,10,g,40,g,20,g,0,g,0,g,0,g
+818,johnny rockets,add chili,10,g,20,mg,250,g,4,g,5,g,4,g,0,g,1,g,0,g
+819,johnny rockets,add chili topping to any burger,10,g,20,mg,290,g,0,g,0,g,0,g,0,g,0,g,0,g
+820,johnny rockets,adult float,20,g,90,mg,130,g,40,g,10,g,10,g,0,g,0,g,40,g
+821,johnny rockets,adult float with coke,20,g,90,mg,140,g,70,g,10,g,10,g,0,g,0,g,70,g
+822,johnny rockets,adult float with diet coke,20,g,90,mg,140,g,40,g,10,g,10,g,0,g,0,g,40,g
+823,johnny rockets,adult float with fanta orange,20,g,90,mg,170,g,80,g,10,g,10,g,0,g,0,g,70,g
+824,johnny rockets,adult float with minute maid lemonade,20,g,90,mg,160,g,60,g,10,g,10,g,0,g,0,g,60,g
+825,johnny rockets,adult float with pibb xtra,20,g,90,mg,150,g,70,g,10,g,10,g,0,g,0,g,70,g
+826,johnny rockets,adult float with sprite,20,g,90,mg,160,g,70,g,10,g,10,g,0,g,0,g,70,g
+827,johnny rockets,american cheese,10,g,20,mg,300,g,0,g,0,g,0,g,0,g,0,g,0,g
+828,johnny rockets,apple juice 10 fuid ounces,0,g,0,mg,30,g,30,g,0,g,0,g,0,g,0,g,30,g
+829,johnny rockets,apple juice 14 fuid ounces,0,g,0,mg,40,g,50,g,0,g,0,g,0,g,0,g,40,g
+830,johnny rockets,avocado,10,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+831,johnny rockets,avocado chicken salad,40,g,140,mg,1370,g,10,g,50,g,10,g,0,g,10,g,0,g
+832,johnny rockets,avocado chicken salad with dressing choice 1000 island,60,g,170,mg,1870,g,20,g,50,g,20,g,0,g,10,g,10,g
+833,johnny rockets,avocado chicken salad with dressing choice balsamic vinaigrette,50,g,140,mg,1830,g,20,g,50,g,20,g,0,g,10,g,10,g
+834,johnny rockets,avocado chicken salad with dressing choice bleu cheese,70,g,170,mg,1910,g,10,g,60,g,20,g,0,g,10,g,0,g
+835,johnny rockets,avocado chicken salad with dressing choice fat free italian,40,g,140,mg,2090,g,20,g,50,g,10,g,0,g,10,g,10,g
+836,johnny rockets,avocado chicken salad with dressing choice honey mustard,60,g,160,mg,1870,g,20,g,50,g,20,g,0,g,10,g,10,g
+837,johnny rockets,avocado chicken salad with dressing choice ranch,60,g,160,mg,1830,g,10,g,60,g,20,g,0,g,10,g,0,g
+838,johnny rockets,avocado ranch burger,50,g,120,mg,1180,g,10,g,30,g,10,g,0,g,10,g,0,g
+839,johnny rockets,avocado ranch burger with bread choice hoagie roll,50,g,120,mg,1720,g,50,g,40,g,20,g,0,g,10,g,0,g
+840,johnny rockets,avocado ranch burger with bread choice sourdough,60,g,120,mg,1710,g,60,g,40,g,20,g,0,g,10,g,10,g
+841,johnny rockets,avocado ranch burger with bun choice gluten free,60,g,120,mg,1690,g,50,g,40,g,20,g,0,g,10,g,10,g
+842,johnny rockets,avocado ranch burger with bun choice regular,60,g,120,mg,1530,g,50,g,40,g,20,g,0,g,10,g,10,g
+843,johnny rockets,avocado ranch burger with bun choice wheat,50,g,120,mg,1440,g,50,g,40,g,20,g,0,g,10,g,10,g
+844,johnny rockets,avocado ranch chicken sandwich,40,g,130,mg,800,g,10,g,50,g,10,g,0,g,10,g,0,g
+845,johnny rockets,avocado ranch chicken sandwich with bread choice hoagie roll,40,g,130,mg,1340,g,50,g,60,g,10,g,0,g,10,g,0,g
+846,johnny rockets,avocado ranch chicken sandwich with bread choice sourdough,50,g,130,mg,1330,g,60,g,60,g,10,g,0,g,10,g,10,g
+847,johnny rockets,avocado ranch chicken sandwich with bun choice gluten free,50,g,130,mg,1320,g,50,g,50,g,10,g,0,g,10,g,10,g
+848,johnny rockets,avocado ranch chicken sandwich with bun choice regular,40,g,130,mg,1160,g,50,g,50,g,10,g,0,g,10,g,10,g
+849,johnny rockets,avocado ranch chicken sandwich with bun choice wheat,40,g,130,mg,1060,g,50,g,60,g,10,g,0,g,10,g,10,g
+850,johnny rockets,bacon,10,g,20,mg,300,g,0,g,10,g,0,g,0,g,0,g,0,g
+851,johnny rockets,bacon cheddar burger,30,g,60,mg,650,g,10,g,10,g,10,g,0,g,0,g,0,g
+852,johnny rockets,bacon cheddar burger with bun choice gluten free,40,g,60,mg,1170,g,50,g,20,g,10,g,0,g,10,g,10,g
+853,johnny rockets,bacon cheddar burger with bun choice gluten free burger patty choice beef burger,60,g,130,mg,1770,g,50,g,40,g,20,g,0,g,10,g,10,g
+854,johnny rockets,bacon cheddar burger with bun choice gluten free burger patty choice boca veggie burger,40,g,60,mg,1680,g,60,g,40,g,10,g,0,g,10,g,10,g
+855,johnny rockets,bacon cheddar burger with bun choice gluten free burger patty choice gardein burger,50,g,60,mg,1740,g,70,g,20,g,10,g,0,g,10,g,10,g
+856,johnny rockets,bacon cheddar burger with bun choice gluten free burger patty choice grilled chicken,40,g,140,mg,1390,g,50,g,50,g,10,g,0,g,10,g,10,g
+857,johnny rockets,bacon cheddar burger with bun choice gluten free burger patty choice turkey burger,70,g,150,mg,2030,g,50,g,40,g,20,g,0,g,10,g,10,g
+858,johnny rockets,bacon cheddar burger with bun choice regular,40,g,60,mg,1010,g,40,g,20,g,10,g,0,g,0,g,10,g
+859,johnny rockets,bacon cheddar burger with bun choice regular burger patty choice beef burger,50,g,130,mg,1610,g,40,g,40,g,20,g,0,g,0,g,10,g
+860,johnny rockets,bacon cheddar burger with bun choice regular burger patty choice boca veggie burger,40,g,60,mg,1520,g,50,g,40,g,10,g,0,g,10,g,10,g
+861,johnny rockets,bacon cheddar burger with bun choice regular burger patty choice gardein burger,40,g,60,mg,1580,g,60,g,20,g,10,g,0,g,10,g,10,g
+862,johnny rockets,bacon cheddar burger with bun choice regular burger patty choice grilled chicken,40,g,140,mg,1230,g,40,g,50,g,10,g,0,g,0,g,10,g
+863,johnny rockets,bacon cheddar burger with bun choice regular burger patty choice turkey burger,60,g,150,mg,1870,g,40,g,40,g,20,g,0,g,0,g,10,g
+864,johnny rockets,bacon cheddar burger with bun choice wheat,30,g,60,mg,910,g,40,g,20,g,10,g,0,g,0,g,10,g
+865,johnny rockets,bacon cheddar burger with bun choice wheat burger patty choice beef burger,50,g,130,mg,1510,g,40,g,40,g,20,g,0,g,0,g,10,g
+866,johnny rockets,bacon cheddar burger with bun choice wheat burger patty choice boca veggie burger,30,g,60,mg,1420,g,50,g,40,g,10,g,0,g,10,g,10,g
+867,johnny rockets,bacon cheddar burger with bun choice wheat burger patty choice gardein burger,40,g,60,mg,1480,g,70,g,30,g,10,g,0,g,10,g,10,g
+868,johnny rockets,bacon cheddar burger with bun choice wheat burger patty choice grilled chicken,30,g,140,mg,1140,g,40,g,50,g,10,g,0,g,0,g,10,g
+869,johnny rockets,bacon cheddar burger with bun choice wheat burger patty choice turkey burger,60,g,150,mg,1770,g,40,g,40,g,20,g,0,g,0,g,10,g
+870,johnny rockets,bacon cheddar burger with burger patty choice beef burger,40,g,130,mg,1250,g,10,g,30,g,10,g,0,g,0,g,0,g
+871,johnny rockets,bacon cheddar burger with burger patty choice boca veggie burger,30,g,60,mg,1160,g,10,g,30,g,10,g,0,g,10,g,0,g
+872,johnny rockets,bacon cheddar burger with burger patty choice gardein burger,40,g,60,mg,1220,g,30,g,20,g,10,g,0,g,10,g,10,g
+873,johnny rockets,bacon cheddar burger with burger patty choice grilled chicken,30,g,140,mg,880,g,10,g,40,g,10,g,0,g,0,g,0,g
+874,johnny rockets,bacon cheddar burger with burger patty choice turkey burger,60,g,150,mg,1510,g,10,g,40,g,20,g,0,g,0,g,0,g
+875,johnny rockets,bacon cheddar double burger,40,g,60,mg,930,g,10,g,10,g,10,g,0,g,0,g,0,g
+876,johnny rockets,bacon cheddar double burger with bun choice gluten free,50,g,60,mg,1440,g,50,g,20,g,10,g,0,g,10,g,10,g
+877,johnny rockets,bacon cheddar double burger with bun choice gluten free burger patty choice beef burgers,60,g,130,mg,2040,g,50,g,40,g,20,g,0,g,10,g,10,g
+878,johnny rockets,bacon cheddar double burger with bun choice gluten free burger patty choice boca veggie burgers,50,g,60,mg,1960,g,60,g,40,g,10,g,0,g,10,g,10,g
+879,johnny rockets,bacon cheddar double burger with bun choice gluten free burger patty choice gardein burgers,60,g,60,mg,2020,g,70,g,30,g,10,g,0,g,10,g,10,g
+880,johnny rockets,bacon cheddar double burger with bun choice gluten free burger patty choice grilled chicken,50,g,140,mg,1670,g,50,g,50,g,10,g,0,g,10,g,10,g
+881,johnny rockets,bacon cheddar double burger with bun choice gluten free burger patty choice turkey burgers,80,g,150,mg,2310,g,50,g,40,g,20,g,0,g,10,g,10,g
+882,johnny rockets,bacon cheddar double burger with bun choice regular,40,g,60,mg,1280,g,40,g,20,g,10,g,0,g,0,g,10,g
+883,johnny rockets,bacon cheddar double burger with bun choice regular burger patty choice beef burgers,60,g,130,mg,1880,g,40,g,40,g,20,g,0,g,0,g,10,g
+884,johnny rockets,bacon cheddar double burger with bun choice regular burger patty choice boca veggie burgers,50,g,60,mg,1800,g,50,g,40,g,10,g,0,g,10,g,10,g
+885,johnny rockets,bacon cheddar double burger with bun choice regular burger patty choice gardein burgers,50,g,60,mg,1860,g,70,g,30,g,10,g,0,g,10,g,10,g
+886,johnny rockets,bacon cheddar double burger with bun choice regular burger patty choice grilled chicken,50,g,140,mg,1510,g,40,g,50,g,10,g,0,g,0,g,10,g
+887,johnny rockets,bacon cheddar double burger with bun choice regular burger patty choice turkey burgers,70,g,150,mg,2150,g,40,g,40,g,20,g,0,g,0,g,10,g
+888,johnny rockets,bacon cheddar double burger with bun choice wheat,40,g,60,mg,1190,g,50,g,20,g,10,g,0,g,0,g,10,g
+889,johnny rockets,bacon cheddar double burger with bun choice wheat burger patty choice beef burgers,50,g,130,mg,1790,g,50,g,40,g,20,g,0,g,0,g,10,g
+890,johnny rockets,bacon cheddar double burger with bun choice wheat burger patty choice boca veggie burgers,40,g,60,mg,1700,g,60,g,40,g,10,g,0,g,10,g,10,g
+891,johnny rockets,bacon cheddar double burger with bun choice wheat burger patty choice gardein burgers,50,g,60,mg,1760,g,70,g,30,g,10,g,0,g,10,g,10,g
+892,johnny rockets,bacon cheddar double burger with bun choice wheat burger patty choice grilled chicken,40,g,140,mg,1410,g,50,g,50,g,10,g,0,g,0,g,10,g
+893,johnny rockets,bacon cheddar double burger with bun choice wheat burger patty choice turkey burgers,70,g,150,mg,2050,g,50,g,50,g,20,g,0,g,0,g,10,g
+894,johnny rockets,bacon cheddar double burger with burger patty choice beef burgers,50,g,130,mg,1530,g,10,g,30,g,10,g,0,g,0,g,0,g
+895,johnny rockets,bacon cheddar double burger with burger patty choice boca veggie burgers,40,g,60,mg,1440,g,20,g,30,g,10,g,0,g,10,g,0,g
+896,johnny rockets,bacon cheddar double burger with burger patty choice gardein burgers,40,g,60,mg,1500,g,30,g,20,g,10,g,0,g,10,g,10,g
+897,johnny rockets,bacon cheddar double burger with burger patty choice grilled chicken,40,g,140,mg,1150,g,10,g,50,g,10,g,0,g,0,g,0,g
+898,johnny rockets,bacon cheddar double burger with burger patty choice turkey burgers,60,g,150,mg,1790,g,10,g,40,g,20,g,0,g,0,g,0,g
+899,johnny rockets,bacon cheese fries,30,g,50,mg,2020,g,60,g,20,g,10,g,0,g,0,g,0,g
+900,johnny rockets,bacon cheese tots,70,g,50,mg,3630,g,80,g,20,g,20,g,0,g,10,g,10,g
+901,johnny rockets,bacon denver scrambler,60,g,890,mg,2020,g,80,g,50,g,20,g,0,g,0,g,10,g
+902,johnny rockets,bacon lettuce and tomato sandwich,50,g,60,mg,1280,g,50,g,20,g,10,g,0,g,0,g,0,g
+903,johnny rockets,balsamic vinaigrette,10,g,0,mg,460,g,10,g,0,g,0,g,0,g,0,g,10,g
+904,johnny rockets,banana shake,40,g,160,mg,290,g,90,g,20,g,30,g,0,g,0,g,80,g
+905,johnny rockets,banana shake with malt powder,40,g,160,mg,360,g,100,g,20,g,30,g,0,g,0,g,90,g
+906,johnny rockets,barqs root beer 24 fuid ounces,0,g,0,mg,40,g,50,g,0,g,0,g,0,g,0,g,50,g
+907,johnny rockets,bbq bacon cheese tots,70,g,50,mg,4110,g,110,g,20,g,20,g,0,g,10,g,40,g
+908,johnny rockets,bbq chicken melt,30,g,140,mg,2230,g,100,g,60,g,10,g,0,g,0,g,40,g
+909,johnny rockets,bbq sauce,0,g,0,mg,290,g,20,g,0,g,0,g,0,g,0,g,20,g
+910,johnny rockets,beef burger patty 4 oz,10,g,70,mg,600,g,0,g,20,g,10,g,0,g,0,g,0,g
+911,johnny rockets,beef burger patty 5 33 oz,20,g,90,mg,790,g,0,g,30,g,10,g,0,g,0,g,0,g
+912,johnny rockets,beef burger pstty 2 oz,10,g,40,mg,390,g,0,g,10,g,0,g,0,g,0,g,0,g
+913,johnny rockets,biscuits sausage and gravy scrambler,130,g,1000,mg,4710,g,120,g,70,g,40,g,10,g,0,g,10,g
+914,johnny rockets,bleu cheese dressing,30,g,30,mg,540,g,0,g,0,g,10,g,0,g,0,g,0,g
+915,johnny rockets,boca veggie burger patty,0,g,0,mg,510,g,10,g,20,g,0,g,0,g,10,g,0,g
+916,johnny rockets,breakfast belt sandwich,50,g,290,mg,1430,g,50,g,30,g,10,g,0,g,0,g,10,g
+917,johnny rockets,breakfast potatoes,10,g,0,mg,370,g,30,g,0,g,0,g,0,g,0,g,0,g
+918,johnny rockets,caramelized onions,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+919,johnny rockets,cheddar cheese,10,g,20,mg,140,g,0,g,10,g,0,g,0,g,0,g,0,g
+920,johnny rockets,cheddar cheese sauce,0,g,0,mg,280,g,0,g,0,g,0,g,0,g,0,g,0,g
+921,johnny rockets,cheese curds side,40,g,120,mg,700,g,0,g,30,g,20,g,0,g,0,g,0,g
+922,johnny rockets,cheese curds side with bbq,40,g,120,mg,1280,g,40,g,30,g,20,g,0,g,0,g,30,g
+923,johnny rockets,cheese curds side with honey mustard,60,g,140,mg,1200,g,10,g,30,g,30,g,0,g,0,g,10,g
+924,johnny rockets,cheese curds side with ranch,60,g,140,mg,1150,g,0,g,30,g,30,g,0,g,0,g,0,g
+925,johnny rockets,cheese curds starter,80,g,230,mg,1390,g,0,g,60,g,50,g,0,g,0,g,0,g
+926,johnny rockets,cheese curds starter with bbq,80,g,230,mg,1970,g,40,g,60,g,50,g,0,g,0,g,30,g
+927,johnny rockets,cheese curds starter with honey mustard,100,g,250,mg,1890,g,10,g,60,g,50,g,0,g,0,g,10,g
+928,johnny rockets,cheese curds starter with ranch,100,g,250,mg,1850,g,0,g,60,g,50,g,0,g,0,g,0,g
+929,johnny rockets,cheese fries,30,g,30,mg,1720,g,60,g,10,g,10,g,0,g,0,g,0,g
+930,johnny rockets,cheese tots,70,g,30,mg,3330,g,80,g,10,g,20,g,0,g,10,g,10,g
+931,johnny rockets,cheesy bacon lovers scrambler,70,g,910,mg,2060,g,80,g,60,g,30,g,0,g,0,g,10,g
+932,johnny rockets,chicken tenders,20,g,100,mg,1580,g,50,g,50,g,0,g,0,g,0,g,0,g
+933,johnny rockets,chicken tenders with bbq,20,g,100,mg,2160,g,90,g,50,g,0,g,0,g,0,g,30,g
+934,johnny rockets,chicken tenders with honey mustard,40,g,120,mg,2080,g,60,g,50,g,10,g,0,g,0,g,10,g
+935,johnny rockets,chicken tenders with ranch,40,g,130,mg,2030,g,50,g,50,g,10,g,0,g,0,g,0,g
+936,johnny rockets,chile burger,40,g,110,mg,880,g,0,g,30,g,10,g,0,g,0,g,0,g
+937,johnny rockets,chile burger with bread choice hoagie roll,40,g,110,mg,1420,g,50,g,30,g,10,g,0,g,0,g,0,g
+938,johnny rockets,chile burger with bread choice sourdough,50,g,110,mg,1410,g,50,g,30,g,10,g,0,g,0,g,10,g
+939,johnny rockets,chile burger with bun choice gluten free,50,g,110,mg,1390,g,50,g,30,g,10,g,0,g,10,g,10,g
+940,johnny rockets,chile burger with bun choice regular,50,g,110,mg,1230,g,40,g,30,g,10,g,0,g,0,g,10,g
+941,johnny rockets,chile burger with bun choice wheat,50,g,110,mg,1140,g,40,g,30,g,10,g,0,g,0,g,10,g
+942,johnny rockets,chili bowl,50,g,120,mg,1220,g,20,g,30,g,20,g,0,g,0,g,0,g
+943,johnny rockets,chili cheese fries,50,g,70,mg,2300,g,70,g,20,g,20,g,0,g,10,g,10,g
+944,johnny rockets,chili cheese tots,90,g,70,mg,3910,g,90,g,20,g,30,g,0,g,10,g,10,g
+945,johnny rockets,chocolate banana shake,40,g,160,mg,300,g,110,g,20,g,30,g,0,g,0,g,90,g
+946,johnny rockets,chocolate banana shake with malt powder,40,g,160,mg,370,g,120,g,20,g,30,g,0,g,0,g,100,g
+947,johnny rockets,chocolate peanut butter shake,60,g,160,mg,460,g,100,g,20,g,30,g,0,g,0,g,90,g
+948,johnny rockets,chocolate peanut butter shake with malt powder,60,g,160,mg,520,g,110,g,20,g,30,g,0,g,0,g,100,g
+949,johnny rockets,chocolate strawberry kiss shake,40,g,160,mg,310,g,110,g,10,g,30,g,0,g,0,g,100,g
+950,johnny rockets,chocolate strawberry kiss shake with malt powder,40,g,160,mg,370,g,120,g,20,g,30,g,0,g,0,g,100,g
+951,johnny rockets,choice of three ingredients scrambler,40,g,820,mg,1180,g,70,g,30,g,10,g,0,g,0,g,0,g
+952,johnny rockets,choice of three ingredients scrambler with american,50,g,860,mg,1780,g,70,g,40,g,20,g,0,g,0,g,0,g
+953,johnny rockets,choice of three ingredients scrambler with american cheese bacon,60,g,900,mg,2380,g,70,g,50,g,30,g,0,g,0,g,0,g
+954,johnny rockets,choice of three ingredients scrambler with american cheese chicken tenders,50,g,900,mg,2300,g,90,g,60,g,20,g,0,g,0,g,0,g
+955,johnny rockets,choice of three ingredients scrambler with american cheese chili,70,g,900,mg,2350,g,80,g,50,g,30,g,0,g,10,g,10,g
+956,johnny rockets,choice of three ingredients scrambler with american cheese diced tomatoes,50,g,860,mg,1780,g,70,g,40,g,20,g,0,g,0,g,10,g
+957,johnny rockets,choice of three ingredients scrambler with american cheese grilled chicken,50,g,940,mg,2000,g,70,g,70,g,20,g,0,g,0,g,0,g
+958,johnny rockets,choice of three ingredients scrambler with american cheese grilled peppers and onions,50,g,860,mg,1820,g,80,g,40,g,20,g,0,g,0,g,10,g
+959,johnny rockets,choice of three ingredients scrambler with american cheese grilled white onions,50,g,860,mg,1810,g,80,g,40,g,20,g,0,g,0,g,10,g
+960,johnny rockets,choice of three ingredients scrambler with american cheese philly cheese steak,70,g,960,mg,3720,g,70,g,70,g,30,g,0,g,0,g,10,g
+961,johnny rockets,choice of three ingredients scrambler with american cheese sausage,100,g,960,mg,3000,g,70,g,50,g,40,g,0,g,0,g,0,g
+962,johnny rockets,choice of three ingredients scrambler with american cheese seasoned ground beef,60,g,930,mg,2380,g,70,g,60,g,30,g,0,g,0,g,0,g
+963,johnny rockets,choice of three ingredients scrambler with american cheese sourdough,50,g,860,mg,2260,g,120,g,50,g,20,g,0,g,0,g,10,g
+964,johnny rockets,choice of three ingredients scrambler with american cheese toasted english muffin,50,g,860,mg,1980,g,100,g,40,g,20,g,0,g,0,g,10,g
+965,johnny rockets,choice of three ingredients scrambler with american bacon diced tomatoes,60,g,900,mg,2380,g,70,g,50,g,30,g,0,g,0,g,10,g
+966,johnny rockets,choice of three ingredients scrambler with american bacon grilled peppers and onions,60,g,900,mg,2420,g,80,g,50,g,30,g,0,g,0,g,10,g
+967,johnny rockets,choice of three ingredients scrambler with american bacon grilled white onions,60,g,900,mg,2410,g,80,g,50,g,30,g,0,g,0,g,10,g
+968,johnny rockets,choice of three ingredients scrambler with american bacon sourdough,60,g,900,mg,2860,g,120,g,60,g,30,g,0,g,0,g,10,g
+969,johnny rockets,choice of three ingredients scrambler with american bacon sourdough diced tomatoes,60,g,900,mg,2860,g,120,g,60,g,30,g,0,g,0,g,10,g
+970,johnny rockets,choice of three ingredients scrambler with american bacon sourdough grilled peppers and onions,70,g,900,mg,2900,g,120,g,60,g,30,g,0,g,0,g,10,g
+971,johnny rockets,choice of three ingredients scrambler with american bacon sourdough grilled white onions,70,g,900,mg,2890,g,120,g,60,g,30,g,0,g,0,g,10,g
+972,johnny rockets,choice of three ingredients scrambler with american bacon toasted english muffin,60,g,900,mg,2580,g,100,g,60,g,30,g,0,g,0,g,10,g
+973,johnny rockets,choice of three ingredients scrambler with american bacon toasted english muffin diced tomatoes,60,g,900,mg,2580,g,100,g,60,g,30,g,0,g,0,g,10,g
+974,johnny rockets,choice of three ingredients scrambler with american chicken tenders diced tomatoes,50,g,900,mg,2300,g,90,g,60,g,20,g,0,g,0,g,10,g
+975,johnny rockets,choice of three ingredients scrambler with american chicken tenders grilled peppers and onions,50,g,900,mg,2340,g,90,g,60,g,20,g,0,g,0,g,10,g
+976,johnny rockets,choice of three ingredients scrambler with american chicken tenders grilled white onions,50,g,900,mg,2340,g,90,g,60,g,20,g,0,g,0,g,10,g
+977,johnny rockets,choice of three ingredients scrambler with american chicken tenders sourdough,60,g,900,mg,2780,g,130,g,60,g,20,g,0,g,0,g,10,g
+978,johnny rockets,choice of three ingredients scrambler with american chicken tenders sourdough diced tomatoes,60,g,900,mg,2780,g,140,g,60,g,20,g,0,g,0,g,10,g
+979,johnny rockets,choice of three ingredients scrambler with american chicken tenders toasted english muffin,50,g,900,mg,2500,g,110,g,60,g,20,g,0,g,0,g,10,g
+980,johnny rockets,choice of three ingredients scrambler with american chili diced tomatoes,70,g,900,mg,2350,g,80,g,50,g,30,g,0,g,10,g,10,g
+981,johnny rockets,choice of three ingredients scrambler with american chili grilled peppers and onions,70,g,900,mg,2390,g,80,g,50,g,30,g,0,g,10,g,10,g
+982,johnny rockets,choice of three ingredients scrambler with american chili grilled white onions,70,g,900,mg,2390,g,90,g,50,g,30,g,0,g,10,g,10,g
+983,johnny rockets,choice of three ingredients scrambler with american chili sourdough,70,g,900,mg,2830,g,130,g,60,g,30,g,0,g,10,g,10,g
+984,johnny rockets,choice of three ingredients scrambler with american chili sourdough diced tomatoes,70,g,900,mg,2830,g,130,g,60,g,30,g,0,g,10,g,10,g
+985,johnny rockets,choice of three ingredients scrambler with american chili sourdough grilled peppers and onions,70,g,900,mg,2870,g,130,g,60,g,30,g,0,g,10,g,10,g
+986,johnny rockets,choice of three ingredients scrambler with american chili sourdough grilled white onions,70,g,900,mg,2870,g,130,g,60,g,30,g,0,g,10,g,10,g
+987,johnny rockets,choice of three ingredients scrambler with american chili toasted english muffin,70,g,900,mg,2550,g,110,g,50,g,30,g,0,g,10,g,10,g
+988,johnny rockets,choice of three ingredients scrambler with american chili toasted english muffin diced tomatoes,70,g,900,mg,2550,g,110,g,50,g,30,g,0,g,10,g,10,g
+989,johnny rockets,choice of three ingredients scrambler with american grilled chicken diced tomatoes,50,g,940,mg,2000,g,70,g,70,g,20,g,0,g,0,g,10,g
+990,johnny rockets,choice of three ingredients scrambler with american grilled chicken grilled peppers and onions,50,g,940,mg,2040,g,80,g,70,g,20,g,0,g,0,g,10,g
+991,johnny rockets,choice of three ingredients scrambler with american grilled chicken grilled white onions,50,g,940,mg,2040,g,80,g,70,g,20,g,0,g,0,g,10,g
+992,johnny rockets,choice of three ingredients scrambler with american grilled chicken sourdough,50,g,940,mg,2480,g,120,g,80,g,20,g,0,g,0,g,10,g
+993,johnny rockets,choice of three ingredients scrambler with american grilled chicken sourdough diced tomatoes,50,g,940,mg,2480,g,120,g,80,g,20,g,0,g,0,g,10,g
+994,johnny rockets,choice of three ingredients scrambler with american grilled chicken toasted english muffin,50,g,940,mg,2200,g,100,g,80,g,20,g,0,g,0,g,10,g
+995,johnny rockets,choice of three ingredients scrambler with american philly cheese steak diced tomatoes,70,g,960,mg,3720,g,80,g,70,g,30,g,0,g,0,g,10,g
+996,johnny rockets,choice of three ingredients scrambler with american philly cheese steak grilled peppers and onions,70,g,960,mg,3760,g,80,g,70,g,30,g,0,g,0,g,10,g
+997,johnny rockets,choice of three ingredients scrambler with american philly cheese steak grilled white onions,70,g,960,mg,3760,g,80,g,70,g,30,g,0,g,0,g,10,g
+998,johnny rockets,choice of three ingredients scrambler with american philly cheese steak sourdough,70,g,960,mg,4200,g,120,g,80,g,30,g,0,g,0,g,10,g
+999,johnny rockets,choice of three ingredients scrambler with american philly cheese steak sourdough diced tomatoes,70,g,960,mg,4200,g,120,g,80,g,30,g,0,g,0,g,10,g

@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,pita pit,parmesan cheese for regular pita,3.5,g,5,mg,160,g,0,g,4,g,2,g,0,g,0,g,0,g
+1,pita pit,spinach for regular pita,0,g,0,mg,35,g,2,g,1,g,0,g,0,g,1,g,0,g
+2,pita pit,carrots for small pita,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0.5,g,0.5,g
+3,pita pit,tomatoes for regular pita,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,1,g
+4,pita pit,roasted red pepper hummus for regular pita,6,g,0,mg,85,g,5,g,2,g,0,g,0,g,1,g,1,g
+5,pita pit,black olives for small pita,1,g,0,mg,90,g,0.5,g,0,g,0,g,0,g,0,g,0,g
+6,pita pit,roasted red pepper hummus for small pita,3,g,0,mg,45,g,3,g,1,g,0,g,0,g,0.5,g,0.5,g
+7,pita pit,pineapple for regular pita,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,3,g
+8,pita pit,green peppers for small pita,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+9,pita pit,onions for regular pita,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+10,pita pit,pineapple for small pita,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+11,pita pit,cucumbers for regular and small pitas,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+12,pita pit,add on egg,7,g,120,mg,160,g,1,g,6,g,2,g,0,g,0,g,1,g
+13,pita pit,tomatoes for small pita,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0.2,g,0.5,g
+14,pita pit,artisan pita filling sriracha chicken,5,g,75,mg,470,g,2,g,27,g,1.5,g,0,g,0,g,1,g
+15,pita pit,gyro strips for small pita,14,g,45,mg,460,g,6,g,10,g,6,g,0,g,0.5,g,0.5,g
+16,pita pit,chicken crave pita chicken and ham,6,g,75,mg,1360,g,44,g,31,g,2,g,0,g,2,g,3,g
+17,pita pit,cheddar veggie pita,18.5,g,50,mg,640,g,44,g,21,g,10,g,0,g,2,g,2,g
+18,pita pit,tzatziki sauce for regular pita,4,g,0,mg,70,g,2,g,1,g,3.5,g,0,g,0,g,1,g
+19,pita pit,ancho chipotle sauce for regular pita,7,g,0,mg,250,g,7,g,0,g,1,g,0,g,0,g,4,g
+20,pita pit,tzatziki sauce,8,g,0,mg,140,g,4,g,2,g,7,g,0,g,0,g,2,g
+21,pita pit,secret sauce spicy vinaigrette for regular pita,21,g,0,mg,65,g,0,g,0,g,1.5,g,0,g,0,g,0,g
+22,pita pit,side of boom boom sauce,32,g,30,mg,510,g,6,g,0,g,5,g,0,g,0,g,4,g
+23,pita pit,hot sauce for regular and small pitas,0,g,0,mg,1130,g,0,g,0,g,0,g,0,g,0,g,0,g
+24,pita pit,side of light mayo,13,g,20,mg,490,g,4,g,0,g,2,g,0,g,0,g,0,g
+25,pita pit,side of hummus,14,g,0,mg,240,g,10,g,4,g,1,g,0,g,4,g,2,g
+26,pita pit,sriracha sauce for regular pita,0,g,0,mg,450,g,7,g,0,g,0,g,0,g,0,g,7,g
+27,pita pit,boom boom sauce for regular pita,16,g,15,mg,260,g,3,g,0,g,2.5,g,0,g,0,g,2,g
+28,pita pit,boom boom sauce for small pita,8,g,5,mg,130,g,1,g,0,g,1,g,0,g,0,g,0.5,g
+29,pita pit,caesar sauce for regular pita,5,g,15,mg,360,g,4,g,1,g,1,g,0,g,0,g,1,g
+30,pita pit,side of thai satay sauce,7,g,0,mg,680,g,20,g,2,g,0,g,0,g,0,g,18,g
+31,pita pit,teriyaki sauce for regular pita,0,g,0,mg,230,g,7,g,0,g,0,g,0,g,0,g,6,g
+32,pita pit,thai satay sauce for regular pita,3,g,0,mg,340,g,10,g,1,g,0,g,0,g,0,g,9,g
+33,pita pit,side of jalapeno ranch sauce,24,g,20,mg,460,g,4,g,2,g,2,g,0,g,0,g,2,g
+34,pita pit,balsamic vinaigrette for small pita,2.5,g,0,mg,90,g,2,g,0,g,0,g,0,g,0,g,2,g
+35,pita pit,side of roasted red pepper hummus,12,g,0,mg,170,g,10,g,4,g,0,g,0,g,2,g,2,g
+36,pita pit,jalapeno ranch sauce for small pita,6,g,5,mg,115,g,1,g,0.5,g,0.5,g,0,g,0,g,0.5,g
+37,pita pit,side of caesar sauce,9.5,g,30,mg,720,g,8,g,2,g,2,g,0,g,0,g,2,g
+38,pita pit,light mayo sauce for regular pita,7,g,10,mg,250,g,2,g,0,g,1,g,0,g,0,g,0,g
+39,pita pit,side of yellow mustard,0,g,0,mg,620,g,0,g,0,g,0,g,0,g,0,g,0,g
+40,pita pit,side of pesto sauce,19,g,10,mg,360,g,2,g,4,g,3,g,0,g,1,g,0,g
+41,pita pit,side of light mayo,13,g,20,mg,490,g,4,g,0,g,2,g,0,g,0,g,0,g
+42,pita pit,honey mustard for small pita,4,g,5,mg,65,g,3,g,0,g,0.5,g,0,g,0,g,3,g
+43,pita pit,tzatziki sauce for small pita,2,g,0,mg,3,g,1,g,0.5,g,2,g,0,g,0,g,0.5,g
+44,pita pit,side of balsamic vinaigrette,9,g,0,mg,360,g,8,g,0,g,1,g,0,g,0,g,8,g
+45,pita pit,horseradish dijon sauce for regular pita,12,g,10,mg,240,g,6,g,0,g,2,g,0,g,0,g,5,g
+46,pita pit,ranch sauce for regular pita,5,g,5,mg,210,g,3,g,1,g,0,g,0,g,0,g,2,g
+47,pita pit,side of ancho chipotle sauce,14,g,0,mg,490,g,14,g,0,g,2,g,0,g,0,g,8,g
+48,pita pit,light mayo for small pita,3.5,g,5,mg,125,g,0.5,g,0,g,0,g,0,g,0,g,0,g
+49,pita pit,teriyaki sauce for small pita,0,g,0,mg,115,g,3,g,0,g,0,g,0,g,0,g,3,g
+50,pita pit,side of secret sauce spicy vinaigrette,42,g,0,mg,130,g,0.5,g,0,g,3,g,0,g,0,g,0,g
+51,pita pit,thai satay sauce for small pita,2,g,0,mg,170,g,5,g,0,g,0,g,0,g,0,g,5,g
+52,pita pit,side of bbq sauce,0,g,0,mg,550,g,34,g,0,g,0,g,0,g,0,g,30,g
+53,pita pit,sour cream for regular pita,6,g,20,mg,15,g,2,g,0.5,g,3.5,g,0,g,0,g,0.5,g
+54,pita pit,bbq sauce for small pita,0,g,0,mg,135,g,9,g,0,g,0,g,0,g,0,g,8,g
+55,pita pit,pesto sauce for regular pita,9.5,g,5,mg,180,g,1,g,2,g,1.5,g,0,g,0.5,g,0,g
+56,pita pit,sour cream for small pita,3,g,10,mg,5,g,0.5,g,0,g,1.5,g,0,g,0,g,0,g
+57,pita pit,balsamic vinaigrette for regular pita,4.5,g,0,mg,180,g,4,g,0,g,0.5,g,0,g,0,g,4,g
+58,pita pit,horseradish dijon for small pita,6,g,5,mg,120,g,3,g,0,g,1,g,0,g,0,g,2,g
+59,pita pit,ancho chipotle sauce for small pital,3.5,g,0,mg,125,g,4,g,0,g,0.5,g,0,g,0,g,2,g
+60,pita pit,side of buffalo sauce,1,g,0,mg,1720,g,1,g,0,g,0,g,0,g,0,g,0,g
+61,pita pit,side of teriyaki sauce,0,g,0,mg,450,g,13,g,0,g,0,g,0,g,0,g,11,g
+62,pita pit,side of sour cream,11,g,40,mg,30,g,4,g,0,g,7,g,0,g,0,g,2,g
+63,pita pit,pesto sauce for small pita,4.5,g,5,mg,90,g,0.5,g,1,g,1,g,0,g,0.5,g,0,g
+64,pita pit,caesar sauce for small pita,2.5,g,10,mg,180,g,2,g,0.5,g,0.5,g,0,g,0,g,0.5,g
+65,pita pit,ranch sauce for small pita,2.5,g,3,mg,105,g,2,g,0,g,0,g,0,g,0,g,1,g
+66,pita pit,side of honey mustard,15,g,20,mg,260,g,13,g,0,g,3,g,0,g,0,g,11,g
+67,pita pit,buffalo sauce for small pita,0,g,0,mg,430,g,0,g,0,g,0,g,0,g,0,g,0,g
+68,pita pit,side of ranch sauce,10,g,20,mg,420,g,6,g,2,g,0,g,0,g,0,g,4,g
+69,pita pit,bbq sauce for regular pita,0,g,0,mg,270,g,17,g,0,g,0,g,0,g,0,g,15,g
+70,pita pit,secret sauce spicy vinaigrette for small pita,10,g,0,mg,30,g,0,g,0,g,1,g,0,g,0,g,0,g
+71,pita pit,side of sriracha sauce,0,g,0,mg,910,g,11,g,0,g,0,g,0,g,0,g,11,g
+72,pita pit,side of horseradish dijon,25,g,20,mg,470,g,11,g,0,g,4,g,0,g,0,g,9,g
+73,pita pit,jalapeno ranch sauce for regular pita,12,g,10,mg,230,g,2,g,1,g,1,g,0,g,0,g,1,g
+74,pita pit,buffalo sauce for regular pita,0,g,0,mg,860,g,1,g,0,g,0,g,0,g,0,g,0,g
+75,pita pit,side of hot sauce,0,g,0,mg,2270,g,0,g,0,g,0,g,0,g,0,g,0,g
+76,pita pit,side of avocado,7.5,g,0,mg,0,g,4,g,2,g,1,g,0,g,4,g,0,g
+77,pita pit,broccoli and cheese soup whole milk based large,29,g,35,mg,1680,g,31,g,12,g,11,g,0,g,3,g,11,g
+78,pita pit,garden vegetable soup whole milk based small,6,g,10,mg,1210,g,26,g,6,g,3,g,0,g,3,g,15,g
+79,pita pit,chicken noodle soup water based large,6,g,50,mg,2130,g,23,g,15,g,3,g,0,g,3,g,5,g
+80,pita pit,tomato basil bisque whole milk based large,24,g,35,mg,2000,g,36,g,9,g,10,g,0,g,5,g,26,g
+81,pita pit,ultimate baked potato soup water based,14,g,25,mg,1170,g,24,g,9,g,5,g,0,g,2,g,2,g
+82,pita pit,chicken tortilla soup water based,3,g,15,mg,1050,g,21,g,6,g,1,g,0,g,5,g,6,g
+83,pita pit,ultimate baked potato soup whole milk based large,27,g,50,mg,2000,g,46,g,19,g,11,g,0,g,3,g,9,g
+84,pita pit,chicken and andouille sausage gumbo large,13,g,50,mg,2050,g,41,g,22,g,5,g,0,g,3,g,14,g
+85,pita pit,cheesy chicken enchilada soup,9,g,30,mg,1560,g,26,g,14,g,5,g,0,g,5,g,8,g
+86,pita pit,garden vegetable soup water based,2,g,0,mg,1160,g,20,g,2,g,0,g,0,g,3,g,9,g
+87,pita pit,wisconsin cheddar soup water based,20,g,40,mg,1190,g,15,g,8,g,11,g,0,g,0,g,5,g
+88,pita pit,ultimate baked potato soup whole milk based small,18,g,35,mg,1220,g,30,g,13,g,8,g,0,g,2,g,8,g
+89,pita pit,chicken and dumpling soup whole milk based large,13,g,100,mg,2000,g,56,g,22,g,6,g,0,g,5,g,11,g
+90,pita pit,minestrone soup water based,2,g,0,mg,1110,g,21,g,6,g,1,g,0,g,6,g,6,g
+91,pita pit,chicken and andouille sausage gumbo small,9,g,35,mg,1250,g,27,g,15,g,4,g,0,g,2,g,11,g
+92,pita pit,chicken noodle soup water based small,4,g,30,mg,1280,g,14,g,9,g,2,g,0,g,2,g,3,g
+93,pita pit,buffalo style chicken soup water based,18,g,60,mg,1140,g,20,g,12,g,6,g,0,g,2,g,3,g
+94,pita pit,chicken and dumpling soup water based,5,g,55,mg,1170,g,30,g,11,g,3,g,0,g,3,g,3,g
+95,pita pit,broccoli and cheese soup water based,15,g,15,mg,980,g,15,g,5,g,5,g,0,g,2,g,3,g
+96,pita pit,broccoli and cheese soup whole milk based small,19,g,25,mg,1030,g,21,g,9,g,8,g,0,g,2,g,9,g
+97,pita pit,minestrone soup whole milk based large,7,g,10,mg,1900,g,41,g,14,g,4,g,0,g,10,g,16,g
+98,pita pit,wisconsin cheddar soup whole milk based small,24,g,50,mg,1240,g,21,g,12,g,13,g,0,g,0,g,11,g
+99,pita pit,wisconsin cheddar soup whole milk based large,37,g,75,mg,2030,g,31,g,17,g,20,g,0,g,0,g,14,g
+100,pita pit,chicken and rice soup water based,8,g,25,mg,1170,g,21,g,8,g,3,g,0,g,2,g,3,g
+101,pita pit,chicken tortilla soup whole milk based large,9,g,35,mg,1800,g,41,g,14,g,4,g,0,g,8,g,16,g
+102,pita pit,tomato basil bisque water based,12,g,15,mg,1170,g,18,g,3,g,5,g,0,g,0,g,12,g
+103,pita pit,chicken and andouille sausage gumbo water based,5,g,25,mg,1200,g,21,g,11,g,2,g,0,g,2,g,5,g
+104,pita pit,chicken noodle soup whole milk based small,9.7,g,49,mg,1615,g,24.3,g,15.8,g,4.9,g,0,g,2.4,g,10.9,g
+105,pita pit,new england clam chowder water based,6,g,15,mg,1190,g,23,g,5,g,3,g,0,g,2,g,2,g
+106,pita pit,tomato basil bisque whole milk based small,16,g,25,mg,1220,g,24,g,7,g,7,g,0,g,3,g,18,g
+107,pita pit,chicken and wild rice soup whole milk based small,12,g,35,mg,1220,g,27,g,12,g,5,g,0,g,2,g,9,g
+108,pita pit,italian style wedding soup whole milk based small,9,g,25,mg,1160,g,27,g,12,g,4,g,0,g,2,g,9,g
+109,pita pit,chicken and wild rice soup whole milk based large,17,g,50,mg,2000,g,41,g,17,g,7,g,0,g,3,g,11,g
+110,pita pit,new england clam chowder whole milk based small,10,g,25,mg,1240,g,29,g,9,g,5,g,0,g,2,g,8,g
+111,pita pit,minestrone soup whole milk based small,6,g,10,mg,1160,g,27,g,10,g,3,g,0,g,6,g,12,g
+112,pita pit,buffalo style chicken soup whole milk based small,22,g,70,mg,11,g,26,g,16,g,8,g,0,g,2,g,9,g
+113,pita pit,buffalo style chicken soup whole milk based large,34,g,110,mg,1950,g,39,g,24,g,12,g,0,g,3,g,11,g
+114,pita pit,new england clam chowder whole milk based large,14,g,35,mg,2030,g,44,g,12,g,7,g,0,g,3,g,9,g
+115,pita pit,chicken and dumpling soup whole milk based small,9,g,65,mg,1220,g,36,g,15,g,5,g,0,g,3,g,9,g
+116,pita pit,chicken tortilla soup whole milk based small,7,g,25,mg,1100,g,27,g,10,g,3,g,0,g,5,g,12,g
+117,pita pit,garden vegetable soup whole milk based large,7,g,10,mg,1980,g,39,g,7,g,3,g,0,g,5,g,21,g
+118,pita pit,chicken noodle soup whole milk based large,10,g,60,mg,2180,g,29,g,19,g,5,g,0,g,3,g,11,g
+119,pita pit,italian style wedding soup water based,5,g,15,mg,1110,g,21,g,8,g,2,g,0,g,2,g,3,g
+120,pita pit,add avocado,4,g,0,mg,0,g,2,g,1,g,0.5,g,0,g,2,g,0,g
+121,pita pit,add bacon,6,g,15,mg,320,g,0,g,5,g,2,g,0,g,0,g,0,g
+122,pita pit,add egg,7,g,120,mg,160,g,1,g,6,g,1.5,g,0,g,0,g,1,g
+123,pita pit,add hummus,7,g,0,mg,120,g,5,g,2,g,0.5,g,0,g,2,g,1,g
+124,pita pit,aloha pita on gluten free wrap bigger,27,g,250,mg,2170,g,61,g,50,g,9,g,0,g,5,g,19,g
+125,pita pit,aloha pita on gluten free wrap smaller,18,g,190,mg,1330,g,52,g,27,g,5,g,0,g,4,g,12,g
+126,pita pit,aloha pita on wheat bigger,19,g,250,mg,2000,g,49,g,50,g,7,g,0,g,4,g,13,g
+127,pita pit,aloha pita on wheat smaller,10,g,190,mg,1090,g,34,g,26,g,3,g,0,g,3,g,6,g
+128,pita pit,aloha pita on white bigger,19,g,250,mg,2060,g,52,g,50,g,7,g,0,g,3,g,13,g
+129,pita pit,aloha pita on white smaller,10,g,190,mg,1140,g,36,g,26,g,3,g,0,g,1,g,6,g
+130,pita pit,aloha salad bigger,18,g,250,mg,1670,g,16,g,44,g,7,g,0,g,1,g,13,g
+131,pita pit,aloha salad smaller,9,g,190,mg,830,g,7,g,21,g,3,g,0,g,0,g,6,g
+132,pita pit,ancho chipotle sauce bigger portion,7,g,0,mg,250,g,7,g,0,g,1,g,0,g,0,g,4,g
+133,pita pit,ancho chipotle smaller portion,3.5,g,0,mg,125,g,4,g,0,g,0.5,g,0,g,0,g,2,g
+134,pita pit,avocado bigger portion,4,g,0,mg,0,g,2,g,1,g,0.5,g,0,g,2,g,0,g
+135,pita pit,avocado smaller portion,2,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,0,g
+136,pita pit,awakin with bacon pita on gluten free wrap bigger,49,g,85,mg,2340,g,57,g,34,g,16,g,0,g,5,g,11,g
+137,pita pit,awakin with bacon pita on gluten free wrap smaller,30,g,150,mg,1310,g,51,g,21,g,9,g,0,g,4,g,9,g
+138,pita pit,awakin with bacon pita on wheat bigger,41,g,85,mg,2170,g,45,g,34,g,14,g,0,g,4,g,5,g
+139,pita pit,awakin with bacon pita on wheat smaller,22,g,150,mg,1070,g,33,g,20,g,7,g,0,g,3,g,3,g
+140,pita pit,awakin with bacon pita on white bigger,41,g,85,mg,2230,g,48,g,34,g,14,g,0,g,3,g,5,g
+141,pita pit,awakin with bacon pita on white smaller,22,g,150,mg,1120,g,35,g,20,g,7,g,0,g,1,g,3,g
+142,pita pit,awakin with bacon salad bigger,42,g,295,mg,1520,g,14,g,30,g,13,g,0,g,1,g,7,g
+143,pita pit,awakin with bacon salad smaller,21,g,150,mg,810,g,6,g,15,g,7,g,0,g,0,g,3,g
+144,pita pit,bacon cheeseburger pita on gluten free wrap bigger,40,g,210,mg,2140,g,54,g,34,g,14,g,0,g,5,g,11,g
+145,pita pit,bacon cheeseburger pita on gluten free wrap smaller,25,g,165,mg,1330,g,47,g,21,g,7,g,0,g,4,g,7,g
+146,pita pit,bacon cheeseburger pita on wheat bigger,32,g,210,mg,1970,g,42,g,34,g,12,g,0,g,4,g,5,g
+147,pita pit,bacon cheeseburger pita on wheat smaller,17,g,165,mg,1090,g,29,g,20,g,5,g,0,g,3,g,1,g
+148,pita pit,bacon cheeseburger pita on white bigger,32,g,210,mg,2030,g,45,g,34,g,12,g,0,g,3,g,5,g
+149,pita pit,bacon cheeseburger pita on white smaller,17,g,165,mg,1140,g,31,g,20,g,5,g,0,g,1,g,1,g
+150,pita pit,bacon cheeseburger salad bigger,31,g,210,mg,1640,g,9,g,28,g,12,g,0,g,1,g,5,g
+151,pita pit,bacon cheeseburger salad smaller,16,g,165,mg,830,g,2,g,15,g,5,g,0,g,0,g,1,g
+152,pita pit,bacon bigger portion,6,g,15,mg,320,g,0,g,5,g,2,g,0,g,0,g,0,g
+153,pita pit,bacon smaller portion,3,g,10,mg,160,g,0,g,3,g,1,g,0,g,0,g,0,g
+154,pita pit,baja chicken bacon ranch pita on gluten free wrap bigger,44,g,125,mg,1600,g,53,g,47,g,11,g,0,g,7,g,9,g
+155,pita pit,baja chicken bacon ranch pita on gluten free wrap smaller,27,g,65,mg,1050,g,47,g,25,g,6,g,0,g,5,g,6,g
+156,pita pit,baja chicken bacon ranch pita on wheat bigger,36,g,125,mg,1430,g,41,g,47,g,9,g,0,g,6,g,3,g
+157,pita pit,baja chicken bacon ranch pita on wheat smaller,19,g,65,mg,810,g,29,g,24,g,4,g,0,g,4,g,0,g
+158,pita pit,baja chicken bacon ranch pita on white bigger,36,g,125,mg,1490,g,44,g,47,g,9,g,0,g,5,g,3,g
+159,pita pit,baja chicken bacon ranch pita on white smaller,19,g,65,mg,860,g,31,g,24,g,4,g,0,g,2,g,0,g
+160,pita pit,baja chicken bacon ranch salad bigger,35,g,125,mg,1100,g,8,g,41,g,9,g,0,g,3,g,3,g
+161,pita pit,baja chicken bacon ranch salad smaller,18,g,65,mg,550,g,2,g,19,g,4,g,0,g,1,g,0,g
+162,pita pit,balsamic vinaigrette bigger portion,4.5,g,0,mg,180,g,4,g,0,g,0.5,g,0,g,0,g,4,g
+163,pita pit,balsamic vinaigrette smaller portion,2.5,g,0,mg,90,g,2,g,0,g,0,g,0,g,0,g,2,g
+164,pita pit,banana peppers bigger portion,0,g,0,mg,200,g,1,g,0,g,0,g,0,g,1,g,0,g
+165,pita pit,banana peppers smaller portion,0,g,0,mg,100,g,1,g,0,g,0,g,0,g,1,g,0,g
+166,pita pit,banana very berry smoothie,0,g,5,mg,95,g,59,g,4,g,0,g,0,g,3,g,37,g
+167,pita pit,barqs caffeine free root beer,0,g,0,mg,130,g,86,g,0,g,0,g,0,g,0,g,86,g
+168,pita pit,barqs red creme soda,0,g,0,mg,115,g,87,g,0,g,0,g,0,g,0,g,87,g
+169,pita pit,barqs root beer,0,g,0,mg,130,g,86,g,0,g,0,g,0,g,0,g,86,g
+170,pita pit,bbq sauce bigger portion,0,g,0,mg,270,g,17,g,0,g,0,g,0,g,0,g,15,g
+171,pita pit,bbq smaller portion,0,g,0,mg,135,g,9,g,0,g,0,g,0,g,0,g,8,g
+172,pita pit,berry go round smoothie,0,g,5,mg,55,g,58,g,3,g,0,g,0,g,5,g,47,g
+173,pita pit,black bean patty bigger portion,3,g,0,mg,730,g,16,g,11,g,0,g,0,g,8,g,1,g
+174,pita pit,black bean patty smaller portion,1.5,g,0,mg,370,g,8,g,6,g,0,g,0,g,4,g,1,g
+175,pita pit,black olives bigger portion,2,g,0,mg,180,g,1,g,0,g,0,g,0,g,0,g,0,g
+176,pita pit,black olives smaller portion,1,g,0,mg,90,g,1,g,0,g,0,g,0,g,0,g,0,g
+177,pita pit,blu bayou smoothie,0,g,5,mg,95,g,52,g,3,g,0,g,0,g,4,g,36,g
+178,pita pit,blueberry cranberry white choco chip cookie,7,g,10,mg,140,g,24,g,2,g,3,g,0,g,0,g,16,g
+179,pita pit,boom boom black bean pita on gluten free wrap bigger,37,g,170,mg,1670,g,70,g,25,g,10,g,0,g,14,g,12,g
+180,pita pit,boom boom black bean pita on gluten free wrap smaller,23,g,150,mg,1090,g,55,g,16,g,6,g,0,g,8,g,6,g
+181,pita pit,boom boom black bean pita on wheat bigger,29,g,170,mg,1500,g,58,g,25,g,8,g,0,g,13,g,6,g
+182,pita pit,boom boom black bean pita on wheat smaller,15,g,150,mg,850,g,37,g,15,g,3.5,g,0,g,7,g,0,g
+183,pita pit,boom boom black bean pita on white bigger,29,g,170,mg,1560,g,61,g,25,g,8,g,0,g,12,g,6,g
+184,pita pit,boom boom black bean pita on white smaller,15,g,150,mg,900,g,39,g,15,g,3.5,g,0,g,5,g,0,g
+185,pita pit,boom boom black bean salad bigger,28,g,170,mg,1170,g,25,g,19,g,8,g,0,g,10,g,6,g
+186,pita pit,boom boom black bean salad smaller,14,g,150,mg,590,g,10,g,10,g,3.5,g,0,g,4,g,0,g
+187,pita pit,boom boom sauce bigger portion,16,g,15,mg,260,g,3,g,0,g,2.5,g,0,g,0,g,2,g
+188,pita pit,boom boom smaller portion,8,g,5,mg,130,g,1,g,0,g,1,g,0,g,0,g,1,g
+189,pita pit,buffalo chicken pita on gluten free wrap bigger,27,g,105,mg,2120,g,54,g,41,g,8,g,0,g,5,g,10,g
+190,pita pit,buffalo chicken pita on gluten free wrap smaller,18,g,55,mg,1310,g,47,g,22,g,4.5,g,0,g,4,g,7,g
+191,pita pit,buffalo chicken pita on wheat bigger,19,g,105,mg,1950,g,42,g,41,g,6,g,0,g,4,g,4,g
+192,pita pit,buffalo chicken pita on wheat smaller,10,g,55,mg,1070,g,29,g,21,g,2.5,g,0,g,3,g,1,g
+193,pita pit,buffalo chicken pita on white bigger,19,g,105,mg,2010,g,45,g,41,g,6,g,0,g,3,g,4,g
+194,pita pit,buffalo chicken pita on white smaller,10,g,55,mg,1120,g,31,g,21,g,2.5,g,0,g,1,g,1,g
+195,pita pit,buffalo chicken salad bigger,18,g,105,mg,1620,g,9,g,35,g,6,g,0,g,1,g,4,g
+196,pita pit,buffalo chicken salad smaller,9,g,55,mg,810,g,2,g,16,g,2.5,g,0,g,0,g,1,g
+197,pita pit,buffalo sauce bigger portion,0,g,0,mg,860,g,1,g,0,g,0,g,0,g,0,g,0,g
+198,pita pit,buffalo smaller portion,0,g,0,mg,430,g,0,g,0,g,0,g,0,g,0,g,0,g
+199,pita pit,build your own cheese bigger cheddar,9,g,25,mg,180,g,1,g,7,g,5,g,0,g,0,g,0,g
+200,pita pit,build your own cheese bigger feta,6,g,20,mg,320,g,1,g,5,g,4,g,0,g,1,g,0,g
+201,pita pit,build your own cheese bigger parmesan,3.5,g,5,mg,160,g,0,g,4,g,2,g,0,g,0,g,0,g
+202,pita pit,build your own cheese bigger pepper jack,8,g,25,mg,160,g,1,g,6,g,4,g,0,g,0,g,0,g
+203,pita pit,build your own cheese bigger provolone,6,g,15,mg,200,g,1,g,6,g,4,g,0,g,0,g,0,g
+204,pita pit,build your own extras add avocado,4,g,0,mg,0,g,2,g,1,g,0.5,g,0,g,2,g,0,g
+205,pita pit,build your own extras add bacon,6,g,15,mg,320,g,0,g,5,g,2,g,0,g,0,g,0,g
+206,pita pit,build your own extras add egg,7,g,120,mg,160,g,1,g,6,g,1.5,g,0,g,0,g,1,g
+207,pita pit,build your own extras add hummus,7,g,0,mg,120,g,5,g,2,g,0.5,g,0,g,2,g,1,g
+208,pita pit,build your own proteins bigger bacon,6,g,15,mg,320,g,0,g,5,g,2,g,0,g,0,g,0,g
+209,pita pit,build your own proteins bigger black bean patty,3,g,0,mg,730,g,16,g,11,g,0,g,0,g,8,g,1,g
+210,pita pit,build your own proteins bigger chicken breast,5,g,75,mg,390,g,1,g,27,g,1.5,g,0,g,0,g,0,g
+211,pita pit,build your own proteins bigger chicken souvlaki,7,g,80,mg,500,g,2,g,17,g,2,g,0,g,0,g,1,g
+212,pita pit,build your own proteins bigger deli ham,2,g,25,mg,640,g,1,g,9,g,1,g,0,g,0,g,1,g
+213,pita pit,build your own proteins bigger deli turkey,1,g,25,mg,530,g,2,g,9,g,0,g,0,g,0,g,0,g
+214,pita pit,build your own proteins bigger falafel balls,11,g,0,mg,430,g,24,g,6,g,1,g,0,g,5,g,3,g
+215,pita pit,build your own proteins bigger gyro strips,27,g,90,mg,910,g,12,g,19,g,11,g,0,g,1,g,1,g
+216,pita pit,build your own proteins bigger thinly sliced steak,9,g,45,mg,400,g,2,g,16,g,3.5,g,0,g,0,g,2,g
+217,pita pit,build your own proteins bigger tuna,1,g,25,mg,230,g,0,g,14,g,0,g,0,g,0,g,0,g
+218,pita pit,build your own proteins smaller bacon,3,g,10,mg,160,g,0,g,3,g,1,g,0,g,0,g,0,g
+219,pita pit,build your own proteins smaller black bean patty,1.5,g,0,mg,370,g,8,g,6,g,0,g,0,g,4,g,1,g
+220,pita pit,build your own proteins smaller chicken breast,2.5,g,35,mg,190,g,1,g,13,g,0.5,g,0,g,0,g,0,g
+221,pita pit,build your own proteins smaller chicken souvlaki,3.5,g,40,mg,250,g,1,g,9,g,1,g,0,g,0,g,1,g
+222,pita pit,build your own proteins smaller deli ham,1,g,15,mg,320,g,1,g,5,g,0.5,g,0,g,0,g,1,g
+223,pita pit,build your own proteins smaller deli turkey,0.5,g,15,mg,270,g,1,g,5,g,0,g,0,g,0,g,0,g
+224,pita pit,build your own proteins smaller falafel balls,5,g,0,mg,210,g,12,g,3,g,0.5,g,0,g,3,g,2,g
+225,pita pit,build your own proteins smaller gyro strips,14,g,45,mg,460,g,6,g,10,g,6,g,0,g,1,g,1,g
+226,pita pit,build your own proteins smaller thinly sliced steak,4.5,g,25,mg,200,g,1,g,8,g,1.5,g,0,g,0,g,1,g
+227,pita pit,build your own proteins smaller tuna,1,g,25,mg,230,g,0,g,14,g,0,g,0,g,0,g,0,g
+228,pita pit,build your own sauces bigger ancho chipotle,7,g,0,mg,250,g,7,g,0,g,1,g,0,g,0,g,4,g
+229,pita pit,build your own sauces bigger balsamic vinaigrette,4.5,g,0,mg,180,g,4,g,0,g,0.5,g,0,g,0,g,4,g
+230,pita pit,build your own sauces bigger bbq,0,g,0,mg,270,g,17,g,0,g,0,g,0,g,0,g,15,g
+231,pita pit,build your own sauces bigger boom boom,16,g,15,mg,260,g,3,g,0,g,2.5,g,0,g,0,g,2,g
+232,pita pit,build your own sauces bigger buffalo,0,g,0,mg,860,g,1,g,0,g,0,g,0,g,0,g,0,g
+233,pita pit,build your own sauces bigger caesar,5,g,15,mg,360,g,4,g,1,g,1,g,0,g,0,g,1,g
+234,pita pit,build your own sauces bigger honey mustard,8,g,10,mg,130,g,7,g,0,g,1.5,g,0,g,0,g,6,g
+235,pita pit,build your own sauces bigger horseradish dijon,12,g,10,mg,240,g,6,g,0,g,2,g,0,g,0,g,5,g
+236,pita pit,build your own sauces bigger hot sauce,0,g,0,mg,1130,g,0,g,0,g,0,g,0,g,0,g,0,g
+237,pita pit,build your own sauces bigger jalapeno ranch,12,g,10,mg,230,g,2,g,1,g,1,g,0,g,0,g,1,g
+238,pita pit,build your own sauces bigger light mayo,7,g,10,mg,250,g,2,g,0,g,1,g,0,g,0,g,0,g
+239,pita pit,build your own sauces bigger pesto,9,g,5,mg,180,g,1,g,2,g,1.5,g,0,g,1,g,0,g
+240,pita pit,build your own sauces bigger ranch,5,g,5,mg,210,g,3,g,1,g,0,g,0,g,0,g,2,g
+241,pita pit,build your own sauces bigger secret sauce,11,g,0,mg,35,g,0,g,0,g,1,g,0,g,0,g,0,g
+242,pita pit,build your own sauces bigger sour cream,6,g,20,mg,15,g,2,g,1,g,3.5,g,0,g,0,g,1,g
+243,pita pit,build your own sauces bigger srircha,0,g,0,mg,70,g,1,g,0,g,0,g,0,g,0,g,1,g
+244,pita pit,build your own sauces bigger teriyaki,0,g,0,mg,230,g,7,g,0,g,0,g,0,g,0,g,6,g
+245,pita pit,build your own sauces bigger thai satay sauce,4,g,0,mg,340,g,10,g,1,g,0,g,0,g,0,g,9,g
+246,pita pit,build your own sauces bigger tzatziki,4,g,0,mg,70,g,2,g,1,g,3.5,g,0,g,0,g,1,g
+247,pita pit,build your own sauces bigger yellow mustard,0,g,0,mg,310,g,0,g,0,g,0,g,0,g,0,g,0,g
+248,pita pit,build your own sauces smaller ancho chipotle,3.5,g,0,mg,125,g,4,g,0,g,0.5,g,0,g,0,g,2,g
+249,pita pit,build your own sauces smaller balsamic vinaigrette,2.5,g,0,mg,90,g,2,g,0,g,0,g,0,g,0,g,2,g
+250,pita pit,build your own sauces smaller bbq,0,g,0,mg,135,g,9,g,0,g,0,g,0,g,0,g,8,g
+251,pita pit,build your own sauces smaller boom boom,8,g,5,mg,130,g,1,g,0,g,1,g,0,g,0,g,1,g
+252,pita pit,build your own sauces smaller buffalo,0,g,0,mg,430,g,0,g,0,g,0,g,0,g,0,g,0,g
+253,pita pit,build your own sauces smaller caesar,2.5,g,10,mg,180,g,2,g,1,g,0.5,g,0,g,0,g,1,g
+254,pita pit,build your own sauces smaller honey mustard,4,g,5,mg,65,g,3,g,0,g,0.5,g,0,g,0,g,3,g
+255,pita pit,build your own sauces smaller horseradish dijon,6,g,5,mg,120,g,3,g,0,g,1,g,0,g,0,g,2,g
+256,pita pit,build your own sauces smaller hot sauce,0,g,0,mg,570,g,0,g,0,g,0,g,0,g,0,g,0,g
+257,pita pit,build your own sauces smaller jalapeno ranch,6,g,5,mg,115,g,1,g,1,g,0.5,g,0,g,0,g,1,g
+258,pita pit,build your own sauces smaller light mayo,3.5,g,5,mg,125,g,1,g,0,g,0,g,0,g,0,g,0,g
+259,pita pit,build your own sauces smaller pesto,4.5,g,5,mg,90,g,1,g,1,g,1,g,0,g,1,g,1,g
+260,pita pit,build your own sauces smaller ranch,2.5,g,5,mg,105,g,2,g,1,g,0,g,0,g,0,g,1,g
+261,pita pit,build your own sauces smaller secret sauce,5,g,0,mg,15,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+262,pita pit,build your own sauces smaller sour cream,3,g,10,mg,5,g,1,g,0,g,1.5,g,0,g,0,g,0,g
+263,pita pit,build your own sauces smaller srircha,0,g,0,mg,40,g,1,g,0,g,0,g,0,g,0,g,1,g
+264,pita pit,build your own sauces smaller teriyaki,0,g,0,mg,115,g,3,g,0,g,0,g,0,g,0,g,3,g
+265,pita pit,build your own sauces smaller thai satay,2,g,0,mg,170,g,5,g,1,g,0,g,0,g,0,g,5,g
+266,pita pit,build your own sauces smaller tzatziki,2,g,0,mg,35,g,1,g,1,g,2,g,0,g,0,g,1,g
+267,pita pit,build your own sauces smaller yellow mustard,0,g,0,mg,160,g,0,g,0,g,0,g,0,g,0,g,0,g
+268,pita pit,build your own toppings bigger avocado,4,g,0,mg,0,g,2,g,1,g,0.5,g,0,g,2,g,0,g
+269,pita pit,build your own toppings bigger banana peppers,0,g,0,mg,200,g,1,g,0,g,0,g,0,g,1,g,0,g
+270,pita pit,build your own toppings bigger black olives,2,g,0,mg,180,g,1,g,0,g,0,g,0,g,0,g,0,g
+271,pita pit,build your own toppings bigger carrots,0,g,0,mg,15,g,2,g,0,g,0,g,0,g,1,g,1,g
+272,pita pit,build your own toppings bigger croutons,1,g,0,mg,100,g,5,g,1,g,0,g,0,g,0,g,0,g
+273,pita pit,build your own toppings bigger green peppers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+274,pita pit,build your own toppings bigger hummus,7,g,0,mg,120,g,5,g,2,g,0.5,g,0,g,2,g,1,g
+275,pita pit,build your own toppings bigger iceberg lettuce,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+276,pita pit,build your own toppings bigger jalapenos,0,g,0,mg,340,g,0,g,0,g,0,g,0,g,0,g,0,g
+277,pita pit,build your own toppings bigger mushrooms,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+278,pita pit,build your own toppings bigger onions,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+279,pita pit,build your own toppings bigger pickles,0,g,0,mg,180,g,0,g,0,g,0,g,0,g,0,g,0,g
+280,pita pit,build your own toppings bigger pineapple,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,3,g
+281,pita pit,build your own toppings bigger roasted red pepper hummus,6,g,0,mg,85,g,5,g,2,g,0,g,0,g,1,g,1,g
+282,pita pit,build your own toppings bigger roasted red peppers,0,g,0,mg,85,g,1,g,0,g,0,g,0,g,0,g,0,g
+283,pita pit,build your own toppings bigger romaine lettuce,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,1,g
+284,pita pit,build your own toppings bigger salt,0,g,0,mg,100,g,0,g,0,g,0,g,0,g,0,g,0,g
+285,pita pit,build your own toppings bigger spinach,0,g,0,mg,35,g,2,g,1,g,0,g,0,g,1,g,0,g
+286,pita pit,build your own toppings bigger tomatoes,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,1,g
+287,pita pit,build your own toppings smaller avocado,2,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,0,g
+288,pita pit,build your own toppings smaller banana peppers,0,g,0,mg,100,g,1,g,0,g,0,g,0,g,1,g,0,g
+289,pita pit,build your own toppings smaller black olives,1,g,0,mg,90,g,1,g,0,g,0,g,0,g,0,g,0,g
+290,pita pit,build your own toppings smaller carrots,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,1,g,1,g
+291,pita pit,build your own toppings smaller croutons,0.5,g,0,mg,50,g,3,g,1,g,0,g,0,g,0,g,0,g
+292,pita pit,build your own toppings smaller hummus,3.5,g,0,mg,60,g,3,g,1,g,0,g,0,g,1,g,1,g
+293,pita pit,build your own toppings smaller jalapenos,0,g,0,mg,170,g,0,g,0,g,0,g,0,g,0,g,0,g
+294,pita pit,build your own toppings smaller pickles,0,g,0,mg,90,g,0,g,0,g,0,g,0,g,0,g,0,g
+295,pita pit,build your own toppings smaller pineapple,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+296,pita pit,build your own toppings smaller roasted red pepper hummus,3,g,0,mg,45,g,3,g,1,g,0,g,0,g,1,g,1,g
+297,pita pit,build your own toppings smaller roasted red peppers,0,g,0,mg,45,g,1,g,0,g,0,g,0,g,0,g,0,g
+298,pita pit,build your own toppings smaller salt,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+299,pita pit,build your own toppings smaller spinach,0,g,0,mg,20,g,1,g,1,g,0,g,0,g,1,g,0,g
+300,pita pit,build your own toppings smaller tomatoes,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,1,g
+301,pita pit,butter sugar cookie,7,g,15,mg,140,g,22,g,2,g,3.5,g,0,g,1,g,12,g
+302,pita pit,butter toffee cookie,8,g,10,mg,140,g,23,g,2,g,3.5,g,0,g,0,g,15,g
+303,pita pit,caesar sauce bigger portion,5,g,15,mg,360,g,4,g,1,g,1,g,0,g,0,g,1,g
+304,pita pit,caesar smaller portion,2.5,g,10,mg,180,g,2,g,1,g,0.5,g,0,g,0,g,1,g
+305,pita pit,carnival mandm cookie,7,g,10,mg,140,g,24,g,2,g,3.5,g,0,g,1,g,15,g
+306,pita pit,carrots bigger portion,0,g,0,mg,15,g,2,g,0,g,0,g,0,g,1,g,1,g
+307,pita pit,carrots smaller portion,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,1,g,1,g
+308,pita pit,cheddar,4.5,g,15,mg,90,g,1,g,4,g,2.5,g,0,g,0,g,0,g
+309,pita pit,cheddar quesapita,28,g,75,mg,930,g,39,g,27,g,15,g,0,g,2,g,0,g
+310,pita pit,cheetos crunchy,21,g,0,mg,500,g,26,g,3,g,3.5,g,0,g,1,g,2,g
+311,pita pit,cheetos oven baked crunchy,8,g,0,mg,350,g,30,g,3,g,1.5,g,0,g,1,g,1,g
+312,pita pit,cherry coca cola,0,g,0,mg,75,g,80,g,0,g,0,g,0,g,0,g,80,g
+313,pita pit,chicken breast bigger portion,5,g,75,mg,390,g,1,g,27,g,1.5,g,0,g,0,g,0,g
+314,pita pit,chicken breast smaller portion,2.5,g,35,mg,190,g,1,g,13,g,0.5,g,0,g,0,g,0,g
+315,pita pit,chicken caesar pita on gluten free wrap bigger,29,g,165,mg,1730,g,51,g,44,g,9,g,0,g,5,g,8,g
+316,pita pit,chicken caesar pita on gluten free wrap smaller,20,g,110,mg,1110,g,47,g,24,g,6,g,0,g,4,g,6,g
+317,pita pit,chicken caesar pita on wheat bigger,21,g,165,mg,1560,g,39,g,44,g,7,g,0,g,4,g,2,g
+318,pita pit,chicken caesar pita on wheat smaller,12,g,110,mg,870,g,29,g,23,g,3.5,g,0,g,3,g,0,g
+319,pita pit,chicken caesar pita on white bigger,21,g,165,mg,1620,g,42,g,44,g,7,g,0,g,3,g,2,g
+320,pita pit,chicken caesar pita on white smaller,12,g,110,mg,920,g,31,g,23,g,3.5,g,0,g,1,g,0,g
+321,pita pit,chicken caesar salad bigger,20,g,165,mg,1230,g,6,g,38,g,7,g,0,g,1,g,2,g
+322,pita pit,chicken caesar salad smaller,11,g,110,mg,610,g,2,g,18,g,3.5,g,0,g,0,g,0,g
+323,pita pit,chicken pesto pita on gluten free wrap bigger,29,g,260,mg,1480,g,53,g,41,g,9,g,0,g,7,g,9,g
+324,pita pit,chicken pesto pita on gluten free wrap smaller,19,g,205,mg,990,g,46,g,23,g,6,g,0,g,4,g,6,g
+325,pita pit,chicken pesto pita on wheat bigger,21,g,260,mg,1310,g,41,g,41,g,7,g,0,g,6,g,3,g
+326,pita pit,chicken pesto pita on wheat smaller,11,g,205,mg,750,g,28,g,22,g,3.5,g,0,g,3,g,0,g
+327,pita pit,chicken pesto pita on white bigger,21,g,260,mg,1370,g,44,g,41,g,7,g,0,g,5,g,3,g
+328,pita pit,chicken pesto pita on white smaller,11,g,205,mg,800,g,30,g,22,g,3.5,g,0,g,1,g,0,g
+329,pita pit,chicken pesto salad bigger,20,g,260,mg,980,g,8,g,35,g,7,g,0,g,3,g,3,g
+330,pita pit,chicken pesto salad smaller,10,g,205,mg,490,g,1,g,17,g,3.5,g,0,g,0,g,0,g
+331,pita pit,chicken souvlaki bigger portion,7,g,80,mg,500,g,2,g,17,g,2,g,0,g,0,g,1,g
+332,pita pit,chicken souvlaki smaller portion,3.5,g,40,mg,250,g,1,g,9,g,1,g,0,g,0,g,1,g
+333,pita pit,choco chip cookie,8,g,10,mg,120,g,24,g,2,g,4,g,0,g,1,g,15,g
+334,pita pit,choco chip reeses pieces cookie,8,g,10,mg,160,g,23,g,2,g,4,g,0,g,1,g,15,g
+335,pita pit,choco chip with pecan cookie,9,g,10,mg,110,g,22,g,2,g,4,g,0,g,1,g,14,g
+336,pita pit,choco chip with walnut cookie,9,g,10,mg,110,g,22,g,2,g,4,g,0,g,1,g,13,g
+337,pita pit,choco chunk cookie,8,g,10,mg,125,g,24,g,2,g,4,g,0,g,1,g,14,g
+338,pita pit,chocolate with pink candy cookie,8,g,10,mg,135,g,23,g,2,g,4,g,0,g,1,g,16,g
+339,pita pit,club pita on gluten free wrap bigger,39,g,100,mg,2750,g,60,g,36,g,12,g,0,g,6,g,15,g
+340,pita pit,club pita on gluten free wrap smaller,24,g,40,mg,1630,g,51,g,21,g,6,g,0,g,4,g,10,g
+341,pita pit,club pita on wheat bigger,31,g,100,mg,2580,g,48,g,36,g,10,g,0,g,5,g,9,g
+342,pita pit,club pita on wheat smaller,16,g,40,mg,1390,g,33,g,20,g,4,g,0,g,3,g,4,g
+343,pita pit,club pita on white bigger,31,g,100,mg,2640,g,51,g,36,g,10,g,0,g,4,g,9,g
+344,pita pit,club pita on white smaller,16,g,40,mg,1440,g,35,g,20,g,4,g,0,g,1,g,4,g
+345,pita pit,club salad bigger,30,g,100,mg,2250,g,15,g,30,g,10,g,0,g,2,g,9,g
+346,pita pit,club salad smaller,15,g,40,mg,1130,g,6,g,15,g,4,g,0,g,0,g,4,g
+347,pita pit,coca cola,0,g,0,mg,60,g,76,g,0,g,0,g,0,g,0,g,76,g
+348,pita pit,coca cola zero,0,g,0,mg,75,g,0,g,0,g,0,g,0,g,0,g,0,g
+349,pita pit,coffee,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+350,pita pit,cranberry oatmeal cookie,6,g,10,mg,90,g,23,g,2,g,2.5,g,0,g,1,g,13,g
+351,pita pit,croutons bigger portion,1,g,0,mg,100,g,5,g,1,g,0,g,0,g,0,g,0,g
+352,pita pit,croutons smaller portion,0.5,g,0,mg,50,g,3,g,1,g,0,g,0,g,0,g,0,g
+353,pita pit,dagwood pita on gluten free wrap bigger,37,g,100,mg,3070,g,60,g,39,g,11,g,0,g,6,g,15,g
+354,pita pit,dagwood pita on gluten free wrap smaller,25,g,60,mg,1890,g,52,g,26,g,7,g,0,g,4,g,10,g
+355,pita pit,dagwood pita on wheat bigger,29,g,100,mg,2900,g,48,g,39,g,9,g,0,g,5,g,9,g
+356,pita pit,dagwood pita on wheat smaller,17,g,60,mg,1650,g,34,g,25,g,5,g,0,g,3,g,4,g
+357,pita pit,dagwood pita on white bigger,29,g,100,mg,2960,g,51,g,39,g,9,g,0,g,4,g,9,g
+358,pita pit,dagwood pita on white smaller,17,g,60,mg,1700,g,36,g,25,g,5,g,0,g,1,g,4,g
+359,pita pit,dagwood salad bigger,28,g,100,mg,2570,g,15,g,33,g,9,g,0,g,2,g,9,g
+360,pita pit,dagwood salad smaller,16,g,60,mg,1390,g,7,g,20,g,5,g,0,g,0,g,4,g
+361,pita pit,deli ham bigger portion,2,g,25,mg,640,g,1,g,9,g,1,g,0,g,0,g,1,g
+362,pita pit,deli ham smaller portion,1,g,15,mg,320,g,1,g,5,g,0.5,g,0,g,0,g,1,g
+363,pita pit,deli turkey bigger portion,1,g,25,mg,530,g,2,g,9,g,0,g,0,g,0,g,0,g
+364,pita pit,deli turkey smaller portion,0.5,g,15,mg,270,g,1,g,5,g,0,g,0,g,0,g,0,g
+365,pita pit,diet coke,0,g,0,mg,90,g,0,g,0,g,0,g,0,g,0,g,0,g
+366,pita pit,diet coke with lime,0,g,0,mg,90,g,0,g,0,g,0,g,0,g,0,g,0,g
+367,pita pit,doritos nacho cheese,14,g,0,mg,360,g,28,g,3,g,2,g,0,g,2,g,1,g
+368,pita pit,double choco chip cookie,8,g,10,mg,135,g,23,g,2,g,4.5,g,0,g,1,g,15,g
+369,pita pit,falafel balls bigger portion,11,g,0,mg,430,g,24,g,6,g,1,g,0,g,5,g,3,g
+370,pita pit,falafel balls smaller portion,5,g,0,mg,210,g,12,g,3,g,0.5,g,0,g,3,g,2,g
+371,pita pit,falafel pita on gluten free wrap bigger,43,g,180,mg,1570,g,78,g,19,g,11,g,0,g,12,g,12,g
+372,pita pit,falafel pita on gluten free wrap smaller,25,g,170,mg,1030,g,60,g,12,g,7,g,0,g,7,g,9,g
+373,pita pit,falafel pita on wheat bigger,35,g,180,mg,1400,g,66,g,19,g,9,g,0,g,11,g,6,g
+374,pita pit,falafel pita on wheat smaller,17,g,170,mg,790,g,42,g,11,g,5,g,0,g,6,g,3,g
+375,pita pit,falafel pita on white bigger,35,g,180,mg,1460,g,69,g,19,g,9,g,0,g,10,g,6,g
+376,pita pit,falafel pita on white smaller,17,g,170,mg,840,g,44,g,11,g,5,g,0,g,4,g,3,g
+377,pita pit,falafel salad bigger,34,g,180,mg,1070,g,33,g,13,g,9,g,0,g,8,g,6,g
+378,pita pit,falafel salad smaller,16,g,170,mg,530,g,15,g,6,g,5,g,0,g,3,g,3,g
+379,pita pit,fanta apple,0,g,0,mg,105,g,85,g,0,g,0,g,0,g,0,g,85,g
+380,pita pit,fanta birch beer,0,g,0,mg,95,g,82,g,0,g,0,g,0,g,0,g,82,g
+381,pita pit,fanta blue raspberry,0,g,0,mg,90,g,89,g,0,g,0,g,0,g,0,g,89,g
+382,pita pit,fanta cherry,0,g,0,mg,85,g,81,g,0,g,0,g,0,g,0,g,81,g
+383,pita pit,fanta fruit punch,0,g,0,mg,95,g,79,g,0,g,0,g,0,g,0,g,79,g
+384,pita pit,fanta grape,0,g,0,mg,85,g,85,g,0,g,0,g,0,g,0,g,85,g
+385,pita pit,fanta kiwi strawberry,0,g,0,mg,90,g,90,g,0,g,0,g,0,g,0,g,90,g
+386,pita pit,fanta orange,0,g,0,mg,90,g,80,g,0,g,0,g,0,g,0,g,80,g
+387,pita pit,fanta red,0,g,0,mg,75,g,82,g,0,g,0,g,0,g,0,g,81,g
+388,pita pit,fanta strawberry,0,g,0,mg,90,g,88,g,0,g,0,g,0,g,0,g,88,g
+389,pita pit,fanta strawberry texas only,0,g,0,mg,70,g,79,g,0,g,0,g,0,g,0,g,79,g
+390,pita pit,feta,3,g,10,mg,160,g,1,g,3,g,2,g,0,g,1,g,0,g
+391,pita pit,feta quesapita,19,g,60,mg,1350,g,39,g,21,g,12,g,0,g,5,g,0,g
+392,pita pit,freestyle beverages barqs root beer,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+393,pita pit,freestyle beverages barqs root beer with vanilla,0,g,0,mg,65,g,79,g,0,g,0,g,0,g,0,g,79,g
+394,pita pit,freestyle beverages caffeine free diet coke,0,g,0,mg,65,g,79,g,0,g,0,g,0,g,0,g,79,g
+395,pita pit,freestyle beverages caffeine free diet coke cherry vanilla,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+396,pita pit,freestyle beverages caffeine free diet coke with cherry,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+397,pita pit,freestyle beverages caffeine free diet coke with lemon,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+398,pita pit,freestyle beverages caffeine free diet coke with lime,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+399,pita pit,freestyle beverages caffeine free diet coke with orange,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+400,pita pit,freestyle beverages caffeine free diet coke with raspberry,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+401,pita pit,freestyle beverages caffeine free diet coke with vanilla,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+402,pita pit,freestyle beverages coca cola,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+403,pita pit,freestyle beverages coke with cherry,0,g,0,mg,70,g,73,g,0,g,0,g,0,g,0,g,73,g
+404,pita pit,freestyle beverages coke with cherry vanilla,0,g,0,mg,65,g,73,g,0,g,0,g,0,g,0,g,73,g
+405,pita pit,freestyle beverages coke with lemon,0,g,0,mg,65,g,73,g,0,g,0,g,0,g,0,g,73,g
+406,pita pit,freestyle beverages coke with lime,0,g,0,mg,65,g,73,g,0,g,0,g,0,g,0,g,73,g
+407,pita pit,freestyle beverages coke with orange,0,g,0,mg,60,g,70,g,0,g,0,g,0,g,0,g,70,g
+408,pita pit,freestyle beverages coke with raspberry,0,g,0,mg,65,g,73,g,0,g,0,g,0,g,0,g,73,g
+409,pita pit,freestyle beverages coke with vanilla,0,g,0,mg,65,g,73,g,0,g,0,g,0,g,0,g,73,g
+410,pita pit,freestyle beverages coke zero,0,g,0,mg,65,g,73,g,0,g,0,g,0,g,0,g,73,g
+411,pita pit,freestyle beverages coke zero with cherry,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+412,pita pit,freestyle beverages coke zero with cherry vanilla,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+413,pita pit,freestyle beverages coke zero with lemon,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+414,pita pit,freestyle beverages coke zero with lime,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+415,pita pit,freestyle beverages coke zero with orange,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+416,pita pit,freestyle beverages coke zero with raspberry,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+417,pita pit,freestyle beverages coke zero with vanilla,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+418,pita pit,freestyle beverages dasani sparkling lemon lime seltzer,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+419,pita pit,freestyle beverages dasani sparkling seltzer,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+420,pita pit,freestyle beverages dasani with cherry,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+421,pita pit,freestyle beverages dasani with grape,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+422,pita pit,freestyle beverages dasani with lemon,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+423,pita pit,freestyle beverages dasani with lime,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+424,pita pit,freestyle beverages dasani with orange,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+425,pita pit,freestyle beverages dasani with peach,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+426,pita pit,freestyle beverages dasani with raspberry,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+427,pita pit,freestyle beverages dasani with strawberry,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+428,pita pit,freestyle beverages diet barqs root beer,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+429,pita pit,freestyle beverages diet barqs root beer with vanilla,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+430,pita pit,freestyle beverages diet coke,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+431,pita pit,freestyle beverages diet coke with cherry,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+432,pita pit,freestyle beverages diet coke with cherry vanilla,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+433,pita pit,freestyle beverages diet coke with lemon,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+434,pita pit,freestyle beverages diet coke with lime,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+435,pita pit,freestyle beverages diet coke with orange,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+436,pita pit,freestyle beverages diet coke with raspberry,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+437,pita pit,freestyle beverages diet coke with vanilla,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+438,pita pit,freestyle beverages diet fanta vanilla specialty,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+439,pita pit,freestyle beverages diet mello yello with strawberry peach,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+440,pita pit,freestyle beverages diet seagrams ginger ale,0,g,0,mg,60,g,45,g,0,g,0,g,0,g,0,g,45,g
+441,pita pit,freestyle beverages diet seagrams ginger ale with cherry,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+442,pita pit,freestyle beverages diet seagrams ginger ale with lime,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+443,pita pit,freestyle beverages diet seagrams ginger ale with orange,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+444,pita pit,freestyle beverages diet seagrams ginger ale with raspberry,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+445,pita pit,freestyle beverages diet seagrams ginger ale with vanilla,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+446,pita pit,freestyle beverages fanta cherry,0,g,0,mg,70,g,78,g,0,g,0,g,0,g,0,g,78,g
+447,pita pit,freestyle beverages fanta fruit punch,0,g,0,mg,60,g,78,g,0,g,0,g,0,g,0,g,78,g
+448,pita pit,freestyle beverages fanta grape,0,g,0,mg,60,g,78,g,0,g,0,g,0,g,0,g,78,g
+449,pita pit,freestyle beverages fanta lime,0,g,0,mg,60,g,78,g,0,g,0,g,0,g,0,g,78,g
+450,pita pit,freestyle beverages fanta orange,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+451,pita pit,freestyle beverages fanta peach,0,g,0,mg,60,g,78,g,0,g,0,g,0,g,0,g,78,g
+452,pita pit,freestyle beverages fanta raspberry,0,g,0,mg,60,g,78,g,0,g,0,g,0,g,0,g,78,g
+453,pita pit,freestyle beverages fanta strawberry,0,g,0,mg,60,g,78,g,0,g,0,g,0,g,0,g,78,g
+454,pita pit,freestyle beverages fanta vanilla specialty,0,g,0,mg,65,g,78,g,0,g,0,g,0,g,0,g,78,g
+455,pita pit,freestyle beverages fanta zero cherry,0,g,0,mg,75,g,0,g,0,g,0,g,0,g,0,g,0,g
+456,pita pit,freestyle beverages fanta zero fruit punch,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+457,pita pit,freestyle beverages fanta zero grape,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+458,pita pit,freestyle beverages fanta zero lime,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+459,pita pit,freestyle beverages fanta zero orange,0,g,0,mg,60,g,78,g,0,g,0,g,0,g,0,g,78,g
+460,pita pit,freestyle beverages fanta zero peach,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+461,pita pit,freestyle beverages fanta zero raspberry,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+462,pita pit,freestyle beverages fanta zero strawberry,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+463,pita pit,freestyle beverages fruitwater fizzy cherry lime,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+464,pita pit,freestyle beverages fruitwater fizzy lemon lime,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+465,pita pit,freestyle beverages fruitwater fizzy lemonade,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+466,pita pit,freestyle beverages fruitwater fizzy mixed berry,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+467,pita pit,freestyle beverages fruitwater fizzy peach lemonade,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+468,pita pit,freestyle beverages fruitwater fizzy strawberry lemonade,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+469,pita pit,freestyle beverages fuze diet lemon tea,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+470,pita pit,freestyle beverages fuze diet peach tea,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+471,pita pit,freestyle beverages fuze diet raspberry peach tea,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+472,pita pit,freestyle beverages fuze diet raspberry tea,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+473,pita pit,freestyle beverages fuze diet strawberry tea,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+474,pita pit,freestyle beverages fuze diet tea,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+475,pita pit,freestyle beverages fuze lemon tea,0,g,0,mg,60,g,59,g,0,g,0,g,0,g,0,g,59,g
+476,pita pit,freestyle beverages fuze peach tea,0,g,0,mg,60,g,59,g,0,g,0,g,0,g,0,g,59,g
+477,pita pit,freestyle beverages fuze raspberry peach tea,0,g,0,mg,65,g,59,g,0,g,0,g,0,g,0,g,59,g
+478,pita pit,freestyle beverages fuze raspberry tea,0,g,0,mg,60,g,59,g,0,g,0,g,0,g,0,g,59,g
+479,pita pit,freestyle beverages fuze strawberry tea,0,g,0,mg,65,g,59,g,0,g,0,g,0,g,0,g,59,g
+480,pita pit,freestyle beverages fuze sweet tea,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+481,pita pit,freestyle beverages fuze unsweetened tea,0,g,0,mg,65,g,59,g,0,g,0,g,0,g,0,g,59,g
+482,pita pit,freestyle beverages hi c cherry,0,g,0,mg,70,g,80,g,0,g,0,g,0,g,0,g,79,g
+483,pita pit,freestyle beverages hi c fruit punch,0,g,0,mg,65,g,79,g,0,g,0,g,0,g,0,g,79,g
+484,pita pit,freestyle beverages hi c grape,0,g,0,mg,60,g,79,g,0,g,0,g,0,g,0,g,79,g
+485,pita pit,freestyle beverages hi c lemon,0,g,0,mg,60,g,79,g,0,g,0,g,0,g,0,g,79,g
+486,pita pit,freestyle beverages hi c orange,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+487,pita pit,freestyle beverages hi c orange vanilla,0,g,0,mg,60,g,79,g,0,g,0,g,0,g,0,g,79,g
+488,pita pit,freestyle beverages hi c raspberry,0,g,0,mg,60,g,79,g,0,g,0,g,0,g,0,g,79,g
+489,pita pit,freestyle beverages hi c raspberry lime,0,g,0,mg,60,g,79,g,0,g,0,g,0,g,0,g,79,g
+490,pita pit,freestyle beverages hi c strawberry,0,g,0,mg,60,g,79,g,0,g,0,g,0,g,0,g,79,g
+491,pita pit,freestyle beverages master pour black cherry,0,g,0,mg,65,g,79,g,0,g,0,g,0,g,0,g,79,g
+492,pita pit,freestyle beverages master pour black cherry light,0,g,0,mg,65,g,73,g,0,g,0,g,0,g,0,g,73,g
+493,pita pit,freestyle beverages mello yello,0,g,0,mg,65,g,44,g,0,g,0,g,0,g,0,g,44,g
+494,pita pit,freestyle beverages mello yello cherry,0,g,0,mg,70,g,58,g,0,g,0,g,0,g,0,g,58,g
+495,pita pit,freestyle beverages mello yello fruit punch,0,g,0,mg,65,g,60,g,0,g,0,g,0,g,0,g,60,g
+496,pita pit,freestyle beverages mello yello grape,0,g,0,mg,65,g,60,g,0,g,0,g,0,g,0,g,60,g
+497,pita pit,freestyle beverages mello yello orange,0,g,0,mg,65,g,60,g,0,g,0,g,0,g,0,g,60,g
+498,pita pit,freestyle beverages mello yello peach,0,g,0,mg,65,g,60,g,0,g,0,g,0,g,0,g,60,g
+499,pita pit,freestyle beverages mello yello raspberry,0,g,0,mg,65,g,60,g,0,g,0,g,0,g,0,g,60,g
+500,pita pit,freestyle beverages mello yello strawberry,0,g,0,mg,65,g,60,g,0,g,0,g,0,g,0,g,60,g
+501,pita pit,freestyle beverages mello yello with strawberry peach,0,g,0,mg,65,g,60,g,0,g,0,g,0,g,0,g,60,g
+502,pita pit,freestyle beverages mello yello zero,0,g,0,mg,65,g,59,g,0,g,0,g,0,g,0,g,59,g
+503,pita pit,freestyle beverages mello yello zero cherry,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+504,pita pit,freestyle beverages mello yello zero fruit punch,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+505,pita pit,freestyle beverages mello yello zero grape,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+506,pita pit,freestyle beverages mello yello zero orange,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+507,pita pit,freestyle beverages mello yello zero peach,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+508,pita pit,freestyle beverages mello yello zero raspberry,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+509,pita pit,freestyle beverages mello yello zero strawberry,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+510,pita pit,freestyle beverages minute maid lemonade,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+511,pita pit,freestyle beverages minute maid lemonade with lime,0,g,0,mg,120,g,73,g,0,g,0,g,0,g,0,g,73,g
+512,pita pit,freestyle beverages minute maid lemonade with orange,0,g,0,mg,120,g,73,g,0,g,0,g,0,g,0,g,73,g
+513,pita pit,freestyle beverages minute maid lemonade with peach,0,g,0,mg,120,g,73,g,0,g,0,g,0,g,0,g,73,g
+514,pita pit,freestyle beverages minute maid lemonade with raspberry,0,g,0,mg,125,g,73,g,0,g,0,g,0,g,0,g,73,g
+515,pita pit,freestyle beverages minute maid lemonade with strawberry,0,g,0,mg,120,g,73,g,0,g,0,g,0,g,0,g,73,g
+516,pita pit,freestyle beverages minute maid light lemonade,0,g,0,mg,120,g,73,g,0,g,0,g,0,g,0,g,73,g
+517,pita pit,freestyle beverages minute maid light lemonade raspberry,0,g,0,mg,130,g,0,g,0,g,0,g,0,g,0,g,0,g
+518,pita pit,freestyle beverages minute maid light lemonade strawberry,0,g,0,mg,125,g,0,g,0,g,0,g,0,g,0,g,0,g
+519,pita pit,freestyle beverages minute maid light lemonade with lime,0,g,0,mg,125,g,0,g,0,g,0,g,0,g,0,g,0,g
+520,pita pit,freestyle beverages minute maid light lemonade with orange,0,g,0,mg,125,g,0,g,0,g,0,g,0,g,0,g,0,g
+521,pita pit,freestyle beverages minute maid light lemonade with peach,0,g,0,mg,125,g,0,g,0,g,0,g,0,g,0,g,0,g
+522,pita pit,freestyle beverages minute maid light pink lemonade,0,g,0,mg,125,g,0,g,0,g,0,g,0,g,0,g,0,g
+523,pita pit,freestyle beverages minute maid pink lemonade,0,g,0,mg,125,g,73,g,0,g,0,g,0,g,0,g,73,g
+524,pita pit,freestyle beverages pibb xtra,0,g,0,mg,125,g,0,g,0,g,0,g,0,g,0,g,0,g
+525,pita pit,freestyle beverages pibb xtra cherry,0,g,0,mg,70,g,68,g,0,g,0,g,0,g,0,g,68,g
+526,pita pit,freestyle beverages pibb xtra cherry vanilla,0,g,0,mg,70,g,68,g,0,g,0,g,0,g,0,g,68,g
+527,pita pit,freestyle beverages pibb xtra raspberry,0,g,0,mg,70,g,68,g,0,g,0,g,0,g,0,g,68,g
+528,pita pit,freestyle beverages pibb xtra raspberry vanilla,0,g,0,mg,70,g,68,g,0,g,0,g,0,g,0,g,68,g
+529,pita pit,freestyle beverages pibb xtra vanilla,0,g,0,mg,70,g,68,g,0,g,0,g,0,g,0,g,68,g
+530,pita pit,freestyle beverages pibb zero,0,g,0,mg,70,g,68,g,0,g,0,g,0,g,0,g,68,g
+531,pita pit,freestyle beverages pibb zero cherry,0,g,0,mg,75,g,0,g,0,g,0,g,0,g,0,g,0,g
+532,pita pit,freestyle beverages pibb zero cherry vanilla,0,g,0,mg,75,g,0,g,0,g,0,g,0,g,0,g,0,g
+533,pita pit,freestyle beverages pibb zero raspberry,0,g,0,mg,75,g,0,g,0,g,0,g,0,g,0,g,0,g
+534,pita pit,freestyle beverages pibb zero raspberry vanilla,0,g,0,mg,75,g,0,g,0,g,0,g,0,g,0,g,0,g
+535,pita pit,freestyle beverages pibb zero vanilla,0,g,0,mg,75,g,0,g,0,g,0,g,0,g,0,g,0,g
+536,pita pit,freestyle beverages powerade cherry,0,g,0,mg,200,g,44,g,0,g,0,g,0,g,0,g,44,g
+537,pita pit,freestyle beverages powerade fruit punch,0,g,0,mg,200,g,44,g,0,g,0,g,0,g,0,g,44,g
+538,pita pit,freestyle beverages powerade grape,0,g,0,mg,200,g,44,g,0,g,0,g,0,g,0,g,44,g
+539,pita pit,freestyle beverages powerade lemon,0,g,0,mg,200,g,44,g,0,g,0,g,0,g,0,g,44,g
+540,pita pit,freestyle beverages powerade lime,0,g,0,mg,200,g,44,g,0,g,0,g,0,g,0,g,44,g
+541,pita pit,freestyle beverages powerade orange,0,g,0,mg,75,g,0,g,0,g,0,g,0,g,0,g,0,g
+542,pita pit,freestyle beverages powerade raspberry,0,g,0,mg,200,g,44,g,0,g,0,g,0,g,0,g,44,g
+543,pita pit,freestyle beverages powerade strawberry,0,g,0,mg,200,g,44,g,0,g,0,g,0,g,0,g,44,g
+544,pita pit,freestyle beverages powerade zero cherry,0,g,0,mg,200,g,0,g,0,g,0,g,0,g,0,g,0,g
+545,pita pit,freestyle beverages powerade zero fruit punch,0,g,0,mg,200,g,0,g,0,g,0,g,0,g,0,g,0,g
+546,pita pit,freestyle beverages powerade zero grape,0,g,0,mg,200,g,0,g,0,g,0,g,0,g,0,g,0,g
+547,pita pit,freestyle beverages powerade zero lemon,0,g,0,mg,200,g,0,g,0,g,0,g,0,g,0,g,0,g
+548,pita pit,freestyle beverages powerade zero lime,0,g,0,mg,200,g,0,g,0,g,0,g,0,g,0,g,0,g
+549,pita pit,freestyle beverages powerade zero orange,0,g,0,mg,200,g,44,g,0,g,0,g,0,g,0,g,44,g
+550,pita pit,freestyle beverages powerade zero raspberry,0,g,0,mg,200,g,0,g,0,g,0,g,0,g,0,g,0,g
+551,pita pit,freestyle beverages powerade zero strawberry,0,g,0,mg,200,g,0,g,0,g,0,g,0,g,0,g,0,g
+552,pita pit,freestyle beverages seagrams ginger ale,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+553,pita pit,freestyle beverages seagrams ginger ale with cherry,0,g,0,mg,65,g,45,g,0,g,0,g,0,g,0,g,45,g
+554,pita pit,freestyle beverages seagrams ginger ale with lime,0,g,0,mg,60,g,45,g,0,g,0,g,0,g,0,g,45,g
+555,pita pit,freestyle beverages seagrams ginger ale with orange,0,g,0,mg,60,g,45,g,0,g,0,g,0,g,0,g,45,g
+556,pita pit,freestyle beverages seagrams ginger ale with raspberry,0,g,0,mg,60,g,45,g,0,g,0,g,0,g,0,g,45,g
+557,pita pit,freestyle beverages seagrams ginger ale with vanilla,0,g,0,mg,60,g,45,g,0,g,0,g,0,g,0,g,45,g
+558,pita pit,freestyle beverages sprite,0,g,0,mg,200,g,0,g,0,g,0,g,0,g,0,g,0,g
+559,pita pit,freestyle beverages sprite with cherry,0,g,0,mg,70,g,68,g,0,g,0,g,0,g,0,g,67,g
+560,pita pit,freestyle beverages sprite with grape,0,g,0,mg,65,g,67,g,0,g,0,g,0,g,0,g,67,g
+561,pita pit,freestyle beverages sprite with orange,0,g,0,mg,65,g,67,g,0,g,0,g,0,g,0,g,67,g
+562,pita pit,freestyle beverages sprite with peach,0,g,0,mg,65,g,67,g,0,g,0,g,0,g,0,g,67,g
+563,pita pit,freestyle beverages sprite with peach vanilla,0,g,0,mg,65,g,68,g,0,g,0,g,0,g,0,g,67,g
+564,pita pit,freestyle beverages sprite with raspberry,0,g,0,mg,65,g,67,g,0,g,0,g,0,g,0,g,67,g
+565,pita pit,freestyle beverages sprite with strawberry,0,g,0,mg,65,g,67,g,0,g,0,g,0,g,0,g,67,g
+566,pita pit,freestyle beverages sprite with vanilla,0,g,0,mg,65,g,67,g,0,g,0,g,0,g,0,g,67,g
+567,pita pit,freestyle beverages sprite zero,0,g,0,mg,65,g,68,g,0,g,0,g,0,g,0,g,67,g
+568,pita pit,freestyle beverages sprite zero with cherry,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+569,pita pit,freestyle beverages sprite zero with grape,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+570,pita pit,freestyle beverages sprite zero with orange,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+571,pita pit,freestyle beverages sprite zero with peach,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+572,pita pit,freestyle beverages sprite zero with peach vanilla,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+573,pita pit,freestyle beverages sprite zero with raspberry,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+574,pita pit,freestyle beverages sprite zero with strawberry,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+575,pita pit,freestyle beverages sprite zero with vanilla,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+576,pita pit,freestyle beverages vitaminwater lemonade c,0,g,0,mg,70,g,33,g,0,g,0,g,0,g,0,g,32,g
+577,pita pit,freestyle beverages vitaminwater orangeade c,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+578,pita pit,freestyle beverages vitaminwater pink squeezed,0,g,0,mg,65,g,34,g,0,g,0,g,0,g,0,g,33,g
+579,pita pit,freestyle beverages vitaminwater tropical c,0,g,0,mg,65,g,33,g,0,g,0,g,0,g,0,g,33,g
+580,pita pit,fresca,0,g,0,mg,85,g,2,g,0,g,0,g,0,g,0,g,0,g
+581,pita pit,fritos corn chips,20,g,0,mg,320,g,32,g,3,g,3,g,0,g,3,g,1,g
+582,pita pit,fruitopia strawberry passion awareness,0,g,0,mg,95,g,90,g,0,g,0,g,0,g,0,g,87,g
+583,pita pit,full throttle twisted,0,g,0,mg,220,g,79,g,0,g,0,g,0,g,0,g,79,g
+584,pita pit,fuze brewed tea green tea sweet,0,g,0,mg,60,g,37,g,0,g,0,g,0,g,0,g,37,g
+585,pita pit,fuze brewed tea raspberry tea sweet,0,g,0,mg,60,g,59,g,0,g,0,g,0,g,0,g,56,g
+586,pita pit,fuze brewed tea southern tea sweet,0,g,0,mg,60,g,68,g,0,g,0,g,0,g,0,g,68,g
+587,pita pit,fuze brewed tea strawberry kiwi tea sweet,0,g,0,mg,60,g,62,g,0,g,0,g,0,g,0,g,62,g
+588,pita pit,fuze brewed tea unsweetened,0,g,0,mg,60,g,1,g,0,g,0,g,0,g,0,g,1,g
+589,pita pit,fuze brewed tea with lemonade,0,g,0,mg,60,g,62,g,0,g,0,g,0,g,0,g,62,g
+590,pita pit,fuze lemon black tea,0,g,0,mg,80,g,44,g,0,g,0,g,0,g,0,g,44,g
+591,pita pit,fuze peach tea,0,g,0,mg,80,g,44,g,0,g,0,g,0,g,0,g,44,g
+592,pita pit,fuze raspberry tea,0,g,0,mg,80,g,44,g,0,g,0,g,0,g,0,g,44,g
+593,pita pit,fuze sweet tea,0,g,0,mg,85,g,44,g,0,g,0,g,0,g,0,g,44,g
+594,pita pit,fuze unsweet tea,0,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+595,pita pit,glaceau vitaminwater essential,0,g,0,mg,70,g,37,g,0,g,0,g,0,g,0,g,35,g
+596,pita pit,glaceau vitaminwater revive,0,g,0,mg,70,g,36,g,0,g,0,g,0,g,0,g,35,g
+597,pita pit,glaceau vitaminwater xxx,0,g,0,mg,70,g,36,g,0,g,0,g,0,g,0,g,35,g
+598,pita pit,glaceau vitaminwater xxx zero,0,g,0,mg,70,g,1,g,0,g,0,g,0,g,0,g,0,g
+599,pita pit,glaceau vitaminwatersqueezed zero,0,g,0,mg,70,g,2,g,0,g,0,g,0,g,0,g,0,g
+600,pita pit,gluten free wrap bigger,9,g,0,mg,500,g,45,g,6,g,2,g,0,g,4,g,6,g
+601,pita pit,gluten free wrap smaller,9,g,0,mg,500,g,45,g,6,g,2,g,0,g,4,g,6,g
+602,pita pit,gold peak citrus white tea,0,g,0,mg,80,g,62,g,0,g,0,g,0,g,0,g,62,g
+603,pita pit,gold peak classic blend tea,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+604,pita pit,gold peak diet black tea,0,g,0,mg,85,g,1,g,0,g,0,g,0,g,0,g,0,g
+605,pita pit,gold peak diet green tea,0,g,0,mg,80,g,1,g,0,g,0,g,0,g,0,g,1,g
+606,pita pit,gold peak green tea,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+607,pita pit,gold peak passionfruit mango tea,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+608,pita pit,gold peak peach papaya green tea,0,g,0,mg,60,g,34,g,0,g,0,g,0,g,0,g,34,g
+609,pita pit,gold peak peach tea,0,g,0,mg,80,g,44,g,0,g,0,g,0,g,0,g,44,g
+610,pita pit,gold peak premium unsweetened tea,0,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+611,pita pit,gold peak raspberry lemonade tea,0,g,0,mg,60,g,33,g,0,g,0,g,0,g,0,g,33,g
+612,pita pit,gold peak raspberry tea,0,g,0,mg,80,g,47,g,0,g,0,g,0,g,0,g,47,g
+613,pita pit,gold peak southern style tea,0,g,0,mg,85,g,69,g,0,g,0,g,0,g,0,g,68,g
+614,pita pit,gold peak strawberry kiwi tea,0,g,0,mg,60,g,33,g,0,g,0,g,0,g,0,g,33,g
+615,pita pit,gold peak sweetened black tea,0,g,0,mg,85,g,59,g,0,g,0,g,0,g,0,g,59,g
+616,pita pit,gold peak sweetened green tea,0,g,0,mg,90,g,47,g,0,g,0,g,0,g,0,g,47,g
+617,pita pit,green peppers bigger portion,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+618,pita pit,gyro pita on gluten free wrap bigger,48,g,110,mg,2020,g,66,g,32,g,21,g,0,g,8,g,10,g
+619,pita pit,gyro pita on gluten free wrap smaller,29,g,55,mg,1270,g,54,g,19,g,12,g,0,g,4,g,7,g
+620,pita pit,gyro pita on wheat bigger,40,g,110,mg,1850,g,54,g,32,g,19,g,0,g,7,g,4,g
+621,pita pit,gyro pita on wheat smaller,21,g,55,mg,1030,g,36,g,18,g,10,g,0,g,3,g,1,g
+622,pita pit,gyro pita on white bigger,40,g,110,mg,1910,g,57,g,32,g,19,g,0,g,6,g,4,g
+623,pita pit,gyro pita on white smaller,21,g,55,mg,1080,g,38,g,18,g,10,g,0,g,1,g,1,g
+624,pita pit,gyro salad bigger,39,g,110,mg,1520,g,21,g,26,g,19,g,0,g,4,g,4,g
+625,pita pit,gyro salad smaller,20,g,55,mg,770,g,9,g,13,g,10,g,0,g,0,g,1,g
+626,pita pit,gyro strips bigger portion,27,g,90,mg,910,g,12,g,19,g,11,g,0,g,1,g,1,g
+627,pita pit,gyro strips smaller portion,14,g,45,mg,460,g,6,g,10,g,6,g,0,g,1,g,1,g
+628,pita pit,hi c flashn fruit punch,0,g,0,mg,100,g,81,g,0,g,0,g,0,g,0,g,79,g
+629,pita pit,hi c orange lavaburst,0,g,0,mg,75,g,86,g,0,g,0,g,0,g,0,g,84,g
+630,pita pit,hi c poppin pink lemonade,0,g,0,mg,190,g,75,g,0,g,0,g,0,g,0,g,72,g
+631,pita pit,honest brewed classic green tea,0,g,0,mg,75,g,31,g,0,g,0,g,0,g,0,g,31,g
+632,pita pit,honest brewed just iced tea,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+633,pita pit,honest brewed lemon herbal tea,0,g,0,mg,75,g,31,g,0,g,0,g,0,g,0,g,31,g
+634,pita pit,honest brewed raspberry tea,0,g,0,mg,75,g,31,g,0,g,0,g,0,g,0,g,31,g
+635,pita pit,honey mustard sauce bigger portion,8,g,10,mg,130,g,7,g,0,g,1.5,g,0,g,0,g,6,g
+636,pita pit,honey mustard smaller portion,4,g,5,mg,65,g,3,g,0,g,0.5,g,0,g,0,g,3,g
+637,pita pit,horseradish dijon sauce bigger portion,12,g,10,mg,240,g,6,g,0,g,2,g,0,g,0,g,5,g
+638,pita pit,horseradish dijon smaller portion,6,g,5,mg,120,g,3,g,0,g,1,g,0,g,0,g,2,g
+639,pita pit,hot sauce bigger portion,0,g,0,mg,1130,g,0,g,0,g,0,g,0,g,0,g,0,g
+640,pita pit,hot sauce smaller portion,0,g,0,mg,570,g,0,g,0,g,0,g,0,g,0,g,0,g
+641,pita pit,hummus pita on gluten free wrap bigger,23,g,0,mg,1310,g,61,g,9,g,3,g,0,g,9,g,13,g
+642,pita pit,hummus pita on gluten free wrap smaller,16,g,0,mg,960,g,52,g,7,g,2,g,0,g,5,g,8,g
+643,pita pit,hummus pita on wheat bigger,15,g,0,mg,1140,g,49,g,9,g,1,g,0,g,8,g,7,g
+644,pita pit,hummus pita on wheat smaller,8,g,0,mg,720,g,34,g,6,g,0,g,0,g,4,g,2,g
+645,pita pit,hummus pita on white bigger,15,g,0,mg,1200,g,52,g,9,g,1,g,0,g,7,g,7,g
+646,pita pit,hummus pita on white smaller,8,g,0,mg,770,g,36,g,6,g,0,g,0,g,2,g,2,g
+647,pita pit,hummus salad bigger,14,g,0,mg,810,g,16,g,3,g,1,g,0,g,5,g,7,g
+648,pita pit,hummus salad smaller,7,g,0,mg,460,g,7,g,1,g,0,g,0,g,1,g,2,g
+649,pita pit,hummus bigger portion,7,g,0,mg,120,g,5,g,2,g,0.5,g,0,g,2,g,1,g
+650,pita pit,hummus smaller portion,3.5,g,0,mg,60,g,3,g,1,g,0,g,0,g,1,g,1,g
+651,pita pit,iceberg lettuce bigger portion,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+652,pita pit,jalapeno ranch sauce bigger portion,12,g,10,mg,230,g,2,g,1,g,1,g,0,g,0,g,1,g
+653,pita pit,jalapeno ranch smaller portion,6,g,5,mg,115,g,1,g,1,g,0.5,g,0,g,0,g,1,g
+654,pita pit,jalapenos bigger portion,0,g,0,mg,340,g,0,g,0,g,0,g,0,g,0,g,0,g
+655,pita pit,jalapenos smaller portion,0,g,0,mg,170,g,0,g,0,g,0,g,0,g,0,g,0,g
+656,pita pit,lays bbq,15,g,0,mg,230,g,23,g,3,g,2,g,0,g,2,g,3,g
+657,pita pit,lays classic,16,g,0,mg,250,g,23,g,3,g,2,g,0,g,2,g,1,g
+658,pita pit,lays oven baked original,2,g,0,mg,150,g,26,g,2,g,0,g,0,g,2,g,2,g
+659,pita pit,lays oven baked sour cream and onion,3.5,g,0,mg,190,g,24,g,2,g,0.5,g,0,g,1,g,3,g
+660,pita pit,lays salt and vinegar,15,g,340,mg,25,g,2,g,3,g,2,g,0,g,1,g,2,g
+661,pita pit,lays sour cream and onion,15,g,0,mg,240,g,23,g,2,g,2,g,0,g,2,g,1,g
+662,pita pit,light mayo sauce bigger portion,7,g,10,mg,250,g,2,g,0,g,1,g,0,g,0,g,0,g
+663,pita pit,light mayo smaller portion,3.5,g,5,mg,125,g,1,g,0,g,0,g,0,g,0,g,0,g
+664,pita pit,mango tango smoothie,0,g,5,mg,65,g,52,g,2,g,0,g,0,g,3,g,34,g
+665,pita pit,mello yello,0,g,0,mg,85,g,81,g,0,g,0,g,0,g,0,g,80,g
+666,pita pit,milk 2,5,g,20,mg,160,g,12,g,8,g,3,g,0,g,0,g,12,g
+667,pita pit,milk fat free,0,g,5,mg,105,g,12,g,8,g,0,g,0,g,0,g,12,g
+668,pita pit,milk whole,8,g,25,mg,105,g,12,g,8,g,4.5,g,0,g,0,g,12,g
+669,pita pit,minute maid lemonade,0,g,0,mg,190,g,75,g,0,g,0,g,0,g,0,g,72,g
+670,pita pit,minute maid light lemonade,0,g,0,mg,75,g,0,g,0,g,0,g,0,g,0,g,0,g
+671,pita pit,minute maid light pomegranate lemonade,0,g,0,mg,115,g,3,g,0,g,0,g,0,g,0,g,0,g
+672,pita pit,minute maid limeade,0,g,0,mg,95,g,88,g,0,g,0,g,0,g,0,g,87,g
+673,pita pit,miss vickies bbq,12,g,0,mg,200,g,23,g,3,g,2,g,0,g,2,g,3,g
+674,pita pit,miss vickies jalapeno,12,g,0,mg,180,g,22,g,2,g,1.5,g,0,g,2,g,2,g
+675,pita pit,miss vickies sea salt and vinegar,12,g,0,mg,230,g,23,g,3,g,1.5,g,0,g,2,g,2,g
+676,pita pit,miss vickies simply sea salt,13,g,0,mg,120,g,22,g,4,g,2,g,0,g,2,g,1,g
+677,pita pit,mushrooms bigger portion,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+678,pita pit,onions bigger portion,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+679,pita pit,parmesan,2,g,5,mg,80,g,0,g,2,g,1,g,0,g,0,g,0,g
+680,pita pit,peanut butter chunky chocolate cookie,7,g,10,mg,140,g,23,g,3,g,2.5,g,0,g,1,g,16,g
+681,pita pit,peanut butter cookie,9,g,10,mg,170,g,20,g,3,g,3.5,g,0,g,1,g,12,g
+682,pita pit,pepper jack,4,g,15,mg,80,g,1,g,3,g,2,g,0,g,0,g,0,g
+683,pita pit,pepperjack quesapita,25,g,75,mg,870,g,39,g,24,g,12,g,0,g,2,g,0,g
+684,pita pit,pesto sauce bigger portion,9,g,5,mg,180,g,1,g,2,g,1.5,g,0,g,1,g,0,g
+685,pita pit,pesto smaller portion,4.5,g,5,mg,90,g,1,g,1,g,1,g,0,g,1,g,1,g
+686,pita pit,philly pita on gluten free wrap bigger,31,g,60,mg,1450,g,57,g,28,g,11,g,0,g,4,g,14,g
+687,pita pit,philly pita on gluten free wrap smaller,20,g,110,mg,1110,g,47,g,24,g,6,g,0,g,4,g,6,g
+688,pita pit,philly pita on wheat bigger,23,g,60,mg,1280,g,45,g,28,g,9,g,0,g,3,g,8,g
+689,pita pit,philly pita on wheat smaller,12,g,35,mg,780,g,32,g,16,g,4,g,0,g,3,g,3,g
+690,pita pit,philly pita on white bigger,23,g,60,mg,1340,g,48,g,28,g,9,g,0,g,2,g,8,g
+691,pita pit,philly pita on white smaller,12,g,35,mg,830,g,34,g,16,g,4,g,0,g,1,g,3,g
+692,pita pit,philly salad bigger,22,g,60,mg,950,g,12,g,22,g,9,g,0,g,0,g,8,g
+693,pita pit,philly salad smaller,11,g,35,mg,520,g,5,g,11,g,4,g,0,g,0,g,3,g
+694,pita pit,pibb xtra,0,g,0,mg,100,g,74,g,0,g,0,g,0,g,0,g,74,g
+695,pita pit,pickles bigger portion,0,g,0,mg,180,g,0,g,0,g,0,g,0,g,0,g,0,g
+696,pita pit,pickles smaller portion,0,g,0,mg,90,g,0,g,0,g,0,g,0,g,0,g,0,g
+697,pita pit,pineapple bigger portion,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,3,g
+698,pita pit,pineapple smaller portion,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+699,pita pit,powerade fruit punch,0,g,0,mg,220,g,45,g,0,g,0,g,0,g,0,g,42,g
+700,pita pit,powerade lemon lime,0,g,0,mg,220,g,42,g,0,g,0,g,0,g,0,g,41,g
+701,pita pit,powerade mountain blast,0,g,0,mg,210,g,42,g,0,g,0,g,0,g,0,g,42,g
+702,pita pit,provolone,3,g,10,mg,100,g,0,g,3,g,2,g,0,g,0,g,0,g
+703,pita pit,provolone quesapita,20,g,50,mg,990,g,38,g,23,g,12,g,0,g,2,g,0,g
+704,pita pit,ranch sauce bigger portion,5,g,5,mg,210,g,3,g,1,g,0,g,0,g,0,g,2,g
+705,pita pit,ranch smaller portion,2.5,g,5,mg,105,g,2,g,1,g,0,g,0,g,0,g,1,g
+706,pita pit,red flash,0,g,0,mg,120,g,79,g,0,g,0,g,0,g,0,g,79,g
+707,pita pit,roasted red pepper hummus bigger portion,6,g,0,mg,85,g,5,g,2,g,0,g,0,g,1,g,1,g
+708,pita pit,roasted red pepper hummus smaller portion,3,g,0,mg,45,g,3,g,1,g,0,g,0,g,1,g,1,g
+709,pita pit,roasted red peppers bigger portion,0,g,0,mg,85,g,1,g,0,g,0,g,0,g,0,g,0,g
+710,pita pit,roasted red peppers smaller portion,0,g,0,mg,45,g,1,g,0,g,0,g,0,g,0,g,0,g
+711,pita pit,rold gold pretzels tiny twists,2,g,0,mg,900,g,47,g,3,g,0,g,0,g,2,g,1,g
+712,pita pit,romaine lettuce bigger portion,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,1,g
+713,pita pit,ruffles cheddar and sour cream,15,g,0,mg,280,g,23,g,4,g,2.5,g,0,g,2,g,2,g
+714,pita pit,salt bigger portion,0,g,0,mg,100,g,0,g,0,g,0,g,0,g,0,g,0,g
+715,pita pit,salt smaller portion,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+716,pita pit,seagrams ginger ale,0,g,0,mg,80,g,68,g,0,g,0,g,0,g,0,g,68,g
+717,pita pit,seagrams ginger ale reduced calorie,0,g,0,mg,80,g,47,g,0,g,0,g,0,g,0,g,47,g
+718,pita pit,seagrams tonic water,0,g,0,mg,90,g,62,g,0,g,0,g,0,g,0,g,62,g
+719,pita pit,secret sauce bigger portion,11,g,0,mg,35,g,0,g,0,g,1,g,0,g,0,g,0,g
+720,pita pit,secret sauce smaller portion,5,g,0,mg,15,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+721,pita pit,side sauce ancho chipotle,14,g,0,mg,490,g,14,g,0,g,2,g,0,g,0,g,8,g
+722,pita pit,side sauce avocado,8,g,0,mg,0,g,4,g,2,g,1,g,0,g,4,g,0,g
+723,pita pit,side sauce balsamic vinaigrette,9,g,0,mg,360,g,8,g,0,g,1,g,0,g,0,g,8,g
+724,pita pit,side sauce bbq,0,g,0,mg,550,g,34,g,0,g,0,g,0,g,0,g,30,g
+725,pita pit,side sauce boom boom sauce,32,g,30,mg,510,g,6,g,0,g,5,g,0,g,0,g,4,g
+726,pita pit,side sauce buffalo sauce,1,g,0,mg,1720,g,1,g,0,g,0,g,0,g,0,g,0,g
+727,pita pit,side sauce caesar,10,g,30,mg,720,g,8,g,2,g,2,g,0,g,0,g,2,g
+728,pita pit,side sauce honey mustard,15,g,20,mg,260,g,13,g,0,g,3,g,0,g,0,g,11,g
+729,pita pit,side sauce horseradish dijon,25,g,20,mg,470,g,11,g,0,g,4,g,0,g,0,g,9,g
+730,pita pit,side sauce hot suace,0,g,0,mg,2270,g,0,g,0,g,0,g,0,g,0,g,0,g
+731,pita pit,side sauce hummus,14,g,0,mg,240,g,10,g,4,g,1,g,0,g,4,g,2,g
+732,pita pit,side sauce jalapeno ranch,24,g,20,mg,460,g,4,g,2,g,2,g,0,g,0,g,2,g
+733,pita pit,side sauce light mayo,13,g,20,mg,490,g,4,g,0,g,2,g,0,g,0,g,0,g
+734,pita pit,side sauce pesto,19,g,10,mg,360,g,2,g,4,g,3,g,0,g,1,g,0,g
+735,pita pit,side sauce ranch,10,g,10,mg,420,g,6,g,2,g,0,g,0,g,0,g,4,g
+736,pita pit,side sauce roasted red pepper hummus,12,g,0,mg,170,g,10,g,4,g,0,g,0,g,2,g,2,g
+737,pita pit,side sauce secret sauce,42,g,0,mg,130,g,1,g,0,g,3,g,0,g,0,g,0,g
+738,pita pit,side sauce sour cream,11,g,40,mg,30,g,4,g,2,g,7,g,0,g,0,g,2,g
+739,pita pit,side sauce sriracha,0,g,0,mg,910,g,11,g,0,g,0,g,0,g,0,g,11,g
+740,pita pit,side sauce teriyaki,0,g,0,mg,450,g,13,g,0,g,0,g,0,g,0,g,11,g
+741,pita pit,side sauce thai satay sauce,7,g,0,mg,680,g,20,g,2,g,0,g,0,g,0,g,18,g
+742,pita pit,side sauce tzatziki,8,g,0,mg,140,g,4,g,2,g,7,g,0,g,0,g,2,g
+743,pita pit,side sauce yellow mustard,0,g,0,mg,620,g,0,g,0,g,0,g,0,g,0,g,0,g
+744,pita pit,small authentic pita bread,0,g,0,mg,20,g,13,g,2,g,0,g,0,g,0.5,g,0.5,g
+745,pita pit,sour cream bigger portion,6,g,20,mg,15,g,2,g,1,g,3.5,g,0,g,0,g,1,g
+746,pita pit,sour cream smaller portion,3,g,10,mg,5,g,1,g,0,g,1.5,g,0,g,0,g,0,g
+747,pita pit,souvlaki pita on gluten free wrap bigger,28,g,260,mg,1610,g,56,g,30,g,12,g,0,g,7,g,10,g
+748,pita pit,souvlaki pita on gluten free wrap smaller,19,g,210,mg,1060,g,49,g,18,g,7,g,0,g,4,g,7,g
+749,pita pit,souvlaki pita on wheat bigger,20,g,260,mg,1440,g,44,g,30,g,10,g,0,g,6,g,4,g
+750,pita pit,souvlaki pita on wheat smaller,11,g,210,mg,820,g,31,g,17,g,5,g,0,g,3,g,1,g
+751,pita pit,souvlaki pita on white bigger,20,g,260,mg,1500,g,47,g,30,g,10,g,0,g,5,g,4,g
+752,pita pit,souvlaki pita on white smaller,11,g,210,mg,870,g,33,g,17,g,5,g,0,g,1,g,1,g
+753,pita pit,souvlaki salad bigger,19,g,260,mg,1110,g,11,g,24,g,10,g,0,g,3,g,4,g
+754,pita pit,souvlaki salad smaller,10,g,210,mg,560,g,4,g,12,g,5,g,0,g,0,g,1,g
+755,pita pit,spinach bigger portion,0,g,0,mg,35,g,2,g,1,g,0,g,0,g,1,g,0,g
+756,pita pit,spinach smaller portion,0,g,0,mg,20,g,1,g,1,g,0,g,0,g,1,g,0,g
+757,pita pit,sprite,0,g,0,mg,125,g,74,g,0,g,0,g,0,g,0,g,74,g
+758,pita pit,sprite zero,0,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+759,pita pit,sriracha chicken pita on gluten free wrap bigger,31,g,170,mg,1820,g,60,g,40,g,10,g,0,g,6,g,16,g
+760,pita pit,sriracha chicken pita on gluten free wrap smaller,20,g,110,mg,1150,g,50,g,23,g,6,g,0,g,4,g,10,g
+761,pita pit,sriracha chicken pita on wheat bigger,23,g,170,mg,1650,g,48,g,40,g,8,g,0,g,5,g,10,g
+762,pita pit,sriracha chicken pita on wheat smaller,12,g,110,mg,910,g,32,g,22,g,3.5,g,0,g,3,g,4,g
+763,pita pit,sriracha chicken pita on white bigger,23,g,170,mg,1710,g,51,g,40,g,8,g,0,g,4,g,10,g
+764,pita pit,sriracha chicken pita on white smaller,12,g,110,mg,960,g,34,g,22,g,3.5,g,0,g,1,g,4,g
+765,pita pit,sriracha chicken salad bigger,22,g,170,mg,1310,g,15,g,34,g,8,g,0,g,2,g,10,g
+766,pita pit,sriracha chicken salad smaller,11,g,110,mg,650,g,5,g,17,g,3.5,g,0,g,0,g,4,g
+767,pita pit,srircha sauce bigger portion,0,g,0,mg,70,g,1,g,0,g,0,g,0,g,0,g,1,g
+768,pita pit,srircha smaller portion,0,g,0,mg,40,g,1,g,0,g,0,g,0,g,0,g,1,g
+769,pita pit,steak fajita pita on gluten free wrap smaller,24,g,180,mg,960,g,51,g,17,g,8,g,0,g,4,g,9,g
+770,pita pit,steak fajita pita on wheat smaller,16,g,180,mg,720,g,33,g,16,g,6,g,0,g,3,g,3,g
+771,pita pit,steak fajita pita on white smaller,16,g,180,mg,770,g,35,g,16,g,6,g,0,g,1,g,3,g
+772,pita pit,steak fajita pita original on gluten free wrap bigger,39,g,220,mg,1410,g,63,g,28,g,14,g,0,g,5,g,15,g
+773,pita pit,steak fajita pita original on wheat bigger,31,g,220,mg,1240,g,51,g,28,g,12,g,0,g,4,g,9,g
+774,pita pit,steak fajita pita original on white bigger,31,g,220,mg,1300,g,54,g,28,g,12,g,0,g,3,g,9,g
+775,pita pit,steak fajita salad bigger,30,g,220,mg,910,g,18,g,22,g,12,g,0,g,1,g,9,g
+776,pita pit,steak fajita salad smaller,15,g,180,mg,460,g,6,g,11,g,6,g,0,g,0,g,3,g
+777,pita pit,strawberry shortcake cookie,7,g,10,mg,135,g,23,g,2,g,4,g,0,g,1,g,15,g
+778,pita pit,sunchips french onion,9,g,0,mg,240,g,27,g,4,g,1,g,0,g,4,g,4,g
+779,pita pit,sunchips garden salsa,9,g,0,mg,220,g,27,g,4,g,1,g,0,g,4,g,4,g
+780,pita pit,sunchips harvest cheddar,9,g,0,mg,320,g,27,g,3,g,1.5,g,0,g,4,g,3,g
+781,pita pit,sunchips original,10,g,0,mg,180,g,28,g,0,g,1,g,0,g,4,g,3,g
+782,pita pit,teriyaki sauce bigger portion,0,g,0,mg,230,g,7,g,0,g,0,g,0,g,0,g,6,g
+783,pita pit,teriyaki smaller portion,0,g,0,mg,115,g,3,g,0,g,0,g,0,g,0,g,3,g
+784,pita pit,thai chicken pita on gluten free wrap bigger,18,g,205,mg,1440,g,63,g,35,g,3.5,g,0,g,6,g,17,g
+785,pita pit,thai chicken pita on gluten free wrap smaller,14,g,165,mg,970,g,53,g,19,g,2.5,g,0,g,4,g,12,g
+786,pita pit,thai chicken pita on wheat bigger,10,g,205,mg,1270,g,51,g,35,g,1.5,g,0,g,5,g,11,g
+787,pita pit,thai chicken pita on wheat smaller,6,g,165,mg,730,g,35,g,18,g,0.5,g,0,g,3,g,6,g
+788,pita pit,thai chicken pita on white bigger,10,g,205,mg,1330,g,54,g,35,g,1.5,g,0,g,4,g,11,g
+789,pita pit,thai chicken pita on white smaller,6,g,165,mg,780,g,37,g,18,g,0.5,g,0,g,1,g,6,g
+790,pita pit,thai chicken salad bigger,9,g,205,mg,940,g,18,g,29,g,1.5,g,0,g,2,g,11,g
+791,pita pit,thai chicken salad smaller,4.5,g,165,mg,470,g,8,g,13,g,0.5,g,0,g,0,g,6,g
+792,pita pit,thai satay sauce bigger portion,4,g,0,mg,340,g,10,g,1,g,0,g,0,g,0,g,9,g
+793,pita pit,thai satay smaller portion,2,g,0,mg,170,g,5,g,1,g,0,g,0,g,0,g,5,g
+794,pita pit,thinly sliced steak bigger portion,9,g,45,mg,400,g,2,g,16,g,3.5,g,0,g,0,g,2,g
+795,pita pit,thinly sliced steak smaller portion,4.5,g,25,mg,200,g,1,g,8,g,1.5,g,0,g,0,g,1,g
+796,pita pit,tomatoes bigger portion,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,1,g
+797,pita pit,tomatoes smaller portion,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,1,g
+798,pita pit,triple chocolate cookie,8,g,10,mg,115,g,23,g,2,g,3.5,g,0,g,1,g,14,g
+799,pita pit,tuna bigger portion,1,g,25,mg,230,g,0,g,14,g,0,g,0,g,0,g,0,g
+800,pita pit,tuna smaller portion,1,g,25,mg,230,g,0,g,14,g,0,g,0,g,0,g,0,g
+801,pita pit,turtle caramel pecan cookie,9,g,10,mg,140,g,22,g,2,g,3,g,0,g,1,g,14,g
+802,pita pit,tzatziki sauce bigger portion,4,g,0,mg,70,g,2,g,1,g,3.5,g,0,g,0,g,1,g
+803,pita pit,tzatziki smaller portion,2,g,0,mg,35,g,1,g,1,g,2,g,0,g,0,g,1,g
+804,pita pit,vanilla coke,0,g,0,mg,75,g,79,g,0,g,0,g,0,g,0,g,79,g
+805,pita pit,white chocolate macadamia nut cookie,9,g,15,mg,125,g,22,g,2,g,4,g,0,g,0,g,14,g
+806,pita pit,white pita bigger,1,g,0,mg,390,g,36,g,6,g,0,g,0,g,2,g,0,g
+807,pita pit,white pita smaller,1,g,0,mg,310,g,29,g,5,g,0,g,0,g,1,g,0,g
+808,pita pit,whole wheat pita bigger,1,g,0,mg,330,g,33,g,6,g,0,g,0,g,3,g,0,g
+809,pita pit,whole wheat pita smaller,1,g,0,mg,260,g,27,g,5,g,0,g,0,g,3,g,0,g
+810,pita pit,yellow mustard bigger portion,0,g,0,mg,310,g,0,g,0,g,0,g,0,g,0,g,0,g
+811,pita pit,yellow mustard smaller portion,0,g,0,mg,160,g,0,g,0,g,0,g,0,g,0,g,0,g
+812,pizza hut,breadstick sampler local,38,g,25,mg,1940,g,118,g,30,g,11,g,1,g,7,g,12,g
+813,pizza hut,hashbrowns,9,g,0,mg,440,g,27,g,2,g,1.5,g,0,g,3,g,0.5,g
+814,pizza hut,express personal pan egg and cheese breakfast pizza,4.5,g,65,mg,310,g,17,g,7,g,2.5,g,0,g,0.5,g,2,g
+815,pizza hut,sausage biscuit,28,g,40,mg,900,g,25,g,12,g,11,g,0,g,0.5,g,1,g
+816,pizza hut,egg and cheese biscuit,22,g,155,mg,1150,g,28,g,12,g,11,g,0,g,0.5,g,3,g
+817,pizza hut,express personal pan egg sausage and cheese breakfast pizza,10,g,75,mg,430,g,17,g,9,g,4,g,0,g,1,g,2,g
+818,pizza hut,small express hand tossed egg bacon and cheese breakfast pizza,12,g,85,mg,500,g,30,g,13,g,5,g,0,g,2,g,0.5,g
+819,pizza hut,express personal pan egg sausage bacon and cheese breakfast pizza,9,g,75,mg,450,g,17,g,10,g,4,g,0,g,1,g,2,g
+820,pizza hut,sausage egg and cheese biscuit,40,g,195,mg,1490,g,28,g,20,g,17,g,0.5,g,1,g,3,g
+821,pizza hut,small express hand tossed egg and cheese breakfast pizza,8,g,80,mg,410,g,29,g,11,g,4,g,0,g,2,g,0.5,g
+822,pizza hut,bacon egg and cheese biscuit,26,g,160,mg,1300,g,28,g,15,g,12,g,0,g,0.5,g,3,g
+823,pizza hut,express small hand tossed egg sausage bacon and cheese breakfast pizza,15,g,90,mg,550,g,30,g,14,g,6,g,0,g,2,g,0.5,g
+824,pizza hut,express personal pan egg bacon and cheese breakfast pizza,8,g,70,mg,450,g,17,g,10,g,3.5,g,0,g,1,g,2,g
+825,pizza hut,express small hand tossed egg sausage and cheese breakfast pizza,16,g,95,mg,590,g,30,g,14,g,7,g,0,g,2,g,0.5,g
+826,pizza hut,wingstreet hawaiian teriyaki traditional bone in wing,4.5,g,45,mg,310,g,4,g,10,g,1,g,0,g,0,g,3,g
+827,pizza hut,wingstreet cajun rub bone in wing,4.5,g,45,mg,220,g,0.5,g,9,g,1,g,0,g,0,g,0,g
+828,pizza hut,wingstreet cajun rub bone out wing,4,g,10,mg,210,g,6,g,5,g,1,g,0,g,0,g,0,g
+829,pizza hut,wingstreet cajun rub for bone out wings,4,g,10,mg,210,g,6,g,5,g,1,g,0,g,0,g,0,g
+830,pizza hut,wingstreet lemon pepper rub for wings average,0,g,0,mg,43,g,0,g,0,g,0,g,0,g,0,g,0,g
+831,pizza hut,the ultimate hersheys chocolate chip cookie,12,g,15,mg,150,g,35,g,2,g,6,g,0,g,1,g,23,g
+832,pizza hut,hersheys triple chocolate brownie 1 6th square,16,g,25,mg,120,g,51,g,4,g,5,g,0,g,3,g,34,g
+833,pizza hut,cinnamon sticks with white icing dipping cup,0,g,0,mg,5,g,44,g,0,g,0,g,0,g,0.5,g,38,g
+834,pizza hut,cinnabon mini roll,3,g,0,mg,15,g,12,g,2,g,1.5,g,0,g,0,g,0,g
+835,pizza hut,fried apple pie,9,g,0,mg,100,g,22,g,0.5,g,2.5,g,0,g,0.5,g,12,g
+836,pizza hut,hersheys chocolate chip cookie 4,14,g,15,mg,140,g,45,g,3,g,6,g,0,g,1,g,27,g
+837,pizza hut,blueberry dessert pizza,4,g,5,mg,190,g,46,g,4,g,1.5,g,0,g,2,g,21,g
+838,pizza hut,hersheys individual chocolate chip cookie local specialty,8,g,10,mg,90,g,23,g,2,g,4.5,g,0,g,0.5,g,16,g
+839,pizza hut,apple dessert pizza,4,g,5,mg,190,g,50,g,4,g,1.5,g,0,g,2,g,25,g
+840,pizza hut,new york style cheesecake with caramel sauce,57,g,290,mg,800,g,90,g,14,g,32,g,2.5,g,2,g,69,g
+841,pizza hut,new york style cheesecake,57,g,290,mg,750,g,69,g,14,g,32,g,2.5,g,2,g,53,g
+842,pizza hut,cherry dessert pizza,4,g,5,mg,190,g,47,g,4,g,1.5,g,0,g,2,g,22,g
+843,pizza hut,hersheys triple chocolate brownie 1 9th square,10,g,15,mg,80,g,34,g,3,g,3.5,g,0,g,2,g,25,g
+844,pizza hut,new york style cheesecake with cherry sauce,57,g,290,mg,760,g,101,g,15,g,32,g,2.5,g,3,g,80,g
+845,pizza hut,new york style cheesecake with blueberry sauce,57,g,290,mg,760,g,100,g,14,g,32,g,2.5,g,4,g,77,g
+846,pizza hut,new york style cheesecake with apple sauce,57,g,290,mg,760,g,108,g,14,g,32,g,2.5,g,3,g,86,g
+847,pizza hut,wingstreet straight cut fries with cajun style seasoning and ketchup,24,g,0,mg,1600,g,69,g,4,g,4.5,g,0,g,4,g,7,g
+848,pizza hut,wingstreet straight cut fries with ketchup,24,g,0,mg,1230,g,67,g,4,g,4.5,g,0,g,3,g,7,g
+849,pizza hut,fried nacho straight cut fries,77,g,65,mg,3370,g,133,g,24,g,21,g,1,g,9,g,6,g
+850,pizza hut,wingstreet straight cut fries with lemon pepper seasoning and ketchup,24,g,0,mg,1520,g,69,g,4,g,4.5,g,0,g,4,g,8,g
+851,pizza hut,fries with ketchup,24,g,0,mg,1230,g,67,g,4,g,4.5,g,0,g,3,g,7,g
+852,pizza hut,bacon cheddar fries with ranch dipping cup,99,g,80,mg,3750,g,104,g,29,g,25,g,1,g,9,g,7,g
+853,pizza hut,wingstreet mild buffalo traditional bone in wing,4.5,g,45,mg,380,g,5,g,9,g,1,g,0,g,0,g,0.5,g
+854,pizza hut,wingstreet medium buffalo bone out wing,4,g,10,mg,330,g,9,g,5,g,1,g,0,g,0,g,0.5,g
+855,pizza hut,wingstreet naked traditional bone in wings,4.5,g,45,mg,160,g,0,g,9,g,1,g,0,g,0,g,0,g
+856,pizza hut,wingstreet cajun rub for traditional bone in wings,4.5,g,45,mg,220,g,0.5,g,9,g,1,g,0,g,0,g,0,g
+857,pizza hut,wingstreet garlic parmesan traditional bone in wing,11,g,45,mg,300,g,0.5,g,10,g,2.5,g,0,g,0,g,0,g
+858,pizza hut,wingstreet honey bbq traditional bone in wing,4.5,g,45,mg,230,g,7,g,9,g,1,g,0,g,0,g,5,g
+859,pizza hut,wingstreet lemon pepper traditional bone in wing,4.5,g,45,mg,200,g,0.5,g,9,g,1,g,0,g,0,g,0,g
+860,pizza hut,wingstreet spicy garlic traditional bone in wing,8,g,45,mg,330,g,3,g,9,g,2,g,0,g,0,g,0.5,g
+861,pizza hut,wingstreet naked bone out wings,4,g,10,mg,160,g,6,g,5,g,0.5,g,0,g,0,g,0,g
+862,pizza hut,wingstreet honey bbq bone out wing,4,g,10,mg,220,g,11,g,5,g,1,g,0,g,0,g,4,g
+863,pizza hut,wingstreet hawaiian teriyaki bone out wing,4,g,10,mg,280,g,9,g,5,g,1,g,0,g,0,g,3,g
+864,pizza hut,wingstreet buffalo burnin hot traditional bone in wing,4.5,g,45,mg,390,g,5,g,9,g,1,g,0,g,0,g,0.5,g
+865,pizza hut,wingstreet medium buffalo traditional bone in wing,4.5,g,45,mg,370,g,5,g,9,g,1,g,0,g,0,g,0.5,g
+866,pizza hut,wingstreet spicy garlic bone out wing,6,g,10,mg,290,g,8,g,5,g,1,g,0,g,0,g,0,g
+867,pizza hut,wingstreet garlic parmesan bone out wing,9,g,10,mg,270,g,6,g,5,g,1.5,g,0,g,0,g,0,g
+868,pizza hut,wingstreet buffalo burnin hot bone out wing,4,g,10,mg,340,g,9,g,5,g,1,g,0,g,0,g,0.5,g
+869,pizza hut,wingstreet lemon pepper bone out wing,4,g,10,mg,200,g,6,g,5,g,1,g,0,g,0,g,0,g
+870,pizza hut,wingstreet mild buffalo bone out wing,4,g,10,mg,340,g,10,g,5,g,1,g,0,g,0,g,0.5,g
+871,pizza hut,wingstreet ranch rub traditional bone in wing,4.5,g,45,mg,200,g,0.5,g,9,g,1,g,0,g,0,g,0,g
+872,pizza hut,wingstreet nashville hot bone in wings,5,g,45,mg,320,g,4,g,9,g,1.5,g,0,g,0,g,0.5,g
+873,pizza hut,alfredo pasta without chicken buffet,139,g,120,mg,3420,g,181,g,69,g,35,g,1.5,g,14,g,15,g
+874,pizza hut,wingstreet smoky sriracha bone in wings,4.5,g,45,mg,240,g,5,g,9,g,1,g,0,g,0,g,3,g
+875,pizza hut,naked bone out wings with straight cut fries small plate,36,g,30,mg,1730,g,85,g,17,g,7,g,0,g,4,g,7,g
+876,pizza hut,wingstreet smoky garlic traditional bone in wing,7,g,45,mg,230,g,5,g,9,g,1.5,g,0,g,0,g,3,g
+877,pizza hut,wingstreet ranch rub bone out wing,4,g,10,mg,200,g,6,g,5,g,1,g,0,g,0,g,0,g
+878,pizza hut,wingstreet smoky sriracha bone out wings,4,g,10,mg,230,g,9,g,5,g,1,g,0,g,0,g,2,g
+879,pizza hut,garlic parmesan bone out wings with straight cut fries small plate,51,g,40,mg,2040,g,86,g,19,g,9,g,0,g,4,g,8,g
+880,pizza hut,wingstreet nashville hot bone out wings,4.5,g,10,mg,290,g,9,g,5,g,1,g,0,g,0,g,0.5,g
+881,pizza hut,wingstreet smoky garlic bone out wing,6,g,10,mg,220,g,9,g,5,g,1,g,0,g,0,g,2,g
+882,pizza hut,tuscani meaty marinara pasta,40,g,100,mg,1990,g,88,g,42,g,17,g,2,g,7,g,18,g
+883,pizza hut,tuscani creamy chicken alfredo pasta,57,g,95,mg,1850,g,77,g,42,g,16,g,0.5,g,6,g,8,g
+884,pizza hut,sauteed chicken alfredo pasta with garlic bread individual serve,64,g,65,mg,1500,g,105,g,43,g,14,g,0.5,g,7,g,7,g
+885,pizza hut,spaghetti with meat sauce and garlic bread individual serve,43,g,80,mg,2220,g,120,g,39,g,16,g,2,g,6,g,24,g
+886,pizza hut,creamy chicken alfredo bake pasta with garlic bread individual serve,53,g,115,mg,2180,g,62,g,43,g,20,g,1.5,g,4,g,5,g
+887,pizza hut,chicken milano bake pasta with garlic bread individual serve,52,g,115,mg,1710,g,64,g,42,g,21,g,1.5,g,6,g,5,g
+888,pizza hut,spaghetti with meat sauce and meatballs with garlic bread individual serve,66,g,155,mg,2910,g,128,g,59,g,24,g,2.5,g,6,g,26,g
+889,pizza hut,cavatini supreme pasta with garlic bread individual serve,25,g,35,mg,1110,g,113,g,27,g,8,g,0.5,g,8,g,15,g
+890,pizza hut,pounder meaty marinara express pasta whole pan,31,g,70,mg,1540,g,78,g,33,g,13,g,1.5,g,5,g,14,g
+891,pizza hut,meaty marinara bake pasta with roasted vegetable and garlic bread individual serve,40,g,85,mg,1510,g,64,g,33,g,17,g,1.5,g,5,g,9,g
+892,pizza hut,cavatini meat lovers pasta with garlic bread individual serve,36,g,60,mg,1380,g,112,g,31,g,12,g,1,g,7,g,14,g
+893,pizza hut,meaty marinara bake pasta with garlic bread individual serve,38,g,85,mg,1500,g,60,g,32,g,17,g,1.5,g,4,g,8,g
+894,pizza hut,sausage italiano bake pasta with garlic bread individual serve,49,g,110,mg,1780,g,62,g,37,g,21,g,1.5,g,4,g,8,g
+895,pizza hut,cavatini veggie lovers pasta with garlic bread individual serve,10,g,0,mg,730,g,113,g,21,g,2.5,g,0,g,7,g,14,g
+896,pizza hut,spaghetti with meat sauce meatballs and garlic bread half serve,43,g,85,mg,1620,g,73,g,36,g,14,g,1.5,g,4,g,12,g
+897,pizza hut,sauteed spaghetti with marinara sauce and garlic bread small serve,28,g,5,mg,790,g,64,g,14,g,6,g,0,g,7,g,6,g
+898,pizza hut,sauteed spaghetti with alfredo sauce and garlic bread individual serve,62,g,25,mg,1220,g,104,g,31,g,13,g,0.5,g,6,g,7,g
+899,pizza hut,sauteed sausage and pepper rustica pasta with garlic bread individual serve,48,g,45,mg,1880,g,119,g,32,g,13,g,0.5,g,17,g,14,g
+900,pizza hut,spaghetti with meat sauce meatballs and mushrooms with garlic bread individual serve,66,g,155,mg,2920,g,130,g,60,g,24,g,2.5,g,6,g,27,g
+901,pizza hut,pounder chicken express pasta whole pan,38,g,80,mg,1340,g,66,g,36,g,11,g,0,g,5,g,5,g
+902,pizza hut,cavatini meat sauce pasta with garlic bread individual serve,43,g,95,mg,1660,g,115,g,41,g,19,g,1.5,g,8,g,14,g
+903,pizza hut,meatless spaghetti with meatballs and garlic bread half serve,27,g,50,mg,1140,g,71,g,27,g,8,g,0.5,g,6,g,12,g
+904,pizza hut,sauteed bacon carbonara pasta with garlice bread individual serve,75,g,60,mg,1640,g,97,g,39,g,19,g,0.5,g,7,g,6,g
+905,pizza hut,spaghetti with marinara sauce meatballs and mushrooms with garlic bread individual serve,35,g,85,mg,1950,g,125,g,43,g,12,g,1,g,1,g,27,g
+906,pizza hut,sauteed pomodoro pasta with garlic bread individual serving,31,g,45,mg,2080,g,89,g,31,g,6,g,0,g,6,g,10,g
+907,pizza hut,meaty marinara pasta buffet,111,g,205,mg,4430,g,213,g,93,g,40,g,4.5,g,15,g,39,g
+908,pizza hut,sausage italiano bake pasta with roasted vegetables and garlic bread individual serve,51,g,110,mg,1790,g,65,g,37,g,21,g,2,g,5,g,9,g
+909,pizza hut,spaghetti with marinara sauce and garlic bread individual serve,12,g,10,mg,1250,g,115,g,22,g,3.5,g,0,g,10,g,24,g
+910,pizza hut,sauteed chicken florentine pasta with garlic bread individual serve,64,g,65,mg,1620,g,99,g,41,g,14,g,0.5,g,7,g,5,g
+911,pizza hut,spaghetti with meat sauce and garlic bread half serve,28,g,35,mg,1150,g,68,g,22,g,9,g,1,g,4,g,10,g
+912,pizza hut,cavatini supreme pasta whole pan,34,g,70,mg,1750,g,197,g,49,g,12,g,1,g,14,g,29,g
+913,pizza hut,sauteed spaghetti with meat sauce and garlic bread small serve,33,g,20,mg,950,g,64,g,18,g,7,g,0.5,g,7,g,6,g
+914,pizza hut,spaghetti with marinara sauce and meatballs with garlic bread individual serve,35,g,85,mg,1950,g,123,g,42,g,12,g,1,g,10,g,26,g
+915,pizza hut,sauteed spaghetti with meat sauce and garlic bread individual serve,43,g,35,mg,1710,g,118,g,33,g,10,g,0.5,g,14,g,13,g
+916,pizza hut,sauteed spaghetti with marinara sauce and garlic bread individual serve,34,g,10,mg,1410,g,114,g,25,g,7,g,0.5,g,13,g,12,g
+917,pizza hut,meatless spaghetti with garlic bread half serve,12,g,0,mg,670,g,66,g,14,g,2.5,g,0,g,6,g,10,g
+918,pizza hut,personal pan 6 pepperoni pizza,7,g,15,mg,310,g,17,g,6,g,2.5,g,0,g,1,g,2,g
+919,pizza hut,hand tossed large 14 pepperoni pizza,13,g,30,mg,590,g,34,g,13,g,6,g,0,g,3,g,2,g
+920,pizza hut,hand tossed large 14 meat lovers pizza,21,g,45,mg,830,g,34,g,17,g,8,g,0,g,3,g,2,g
+921,pizza hut,thin n crispy large 14 pepperoni pizza,13,g,35,mg,660,g,29,g,13,g,6,g,0,g,2,g,4,g
+922,pizza hut,original stuffed crust large 14 cheese only pizza,13,g,35,mg,660,g,35,g,14,g,7,g,0,g,3,g,2,g
+923,pizza hut,hand tossed small 10 cheese only pizza,4.5,g,10,mg,250,g,17,g,6,g,2,g,0,g,1,g,0.5,g
+924,pizza hut,original pan large 14 pepperoni pizza,18,g,35,mg,680,g,36,g,15,g,6,g,0,g,2,g,2,g
+925,pizza hut,thin n crispy medium 12 cheese only pizza,7,g,25,mg,440,g,22,g,10,g,4,g,0,g,2,g,3,g
+926,pizza hut,hand tossed medium 12 cheese only pizza,8,g,20,mg,390,g,26,g,10,g,3.5,g,0,g,2,g,1,g
+927,pizza hut,hand tossed large 14 supreme pizza,14,g,35,mg,630,g,35,g,14,g,6,g,0,g,3,g,2,g
+928,pizza hut,hand tossed large 14 veggie lovers pizza,9,g,20,mg,510,g,36,g,11,g,4,g,0,g,3,g,2,g
+929,pizza hut,personal pan 6 cheee only pizza,6,g,15,mg,310,g,17,g,7,g,2.5,g,0,g,1,g,2,g
+930,pizza hut,original stuffed crust large 14 pepperoni pizza,16,g,45,mg,730,g,35,g,15,g,7,g,0,g,2,g,2,g
+931,pizza hut,hand tossed small 10 pepperoni pizza,5,g,10,mg,260,g,16,g,6,g,2,g,0,g,1,g,0.5,g
+932,pizza hut,hand tossed large 14 cheese only pizza,10,g,30,mg,540,g,34,g,13,g,5,g,0,g,3,g,2,g
+933,pizza hut,hand tossed medium 12 meat lovers pizza,15,g,30,mg,590,g,26,g,12,g,6,g,0,g,2,g,1,g
+934,pizza hut,original pan medium 12 pepperoni lovers pizza,15,g,35,mg,580,g,29,g,13,g,6,g,0,g,2,g,0.5,g
+935,pizza hut,personal pan 6 veggie lovers pizza,5,g,10,mg,290,g,18,g,6,g,2,g,0,g,2,g,2,g
+936,pizza hut,thin n crispy large 14 meat lovers pizza,20,g,50,mg,880,g,29,g,17,g,9,g,0,g,2,g,4,g
+937,pizza hut,hand tossed large 14 backyard bbq chicken pizza,10,g,30,mg,530,g,40,g,14,g,4.5,g,0,g,2,g,7,g
+938,pizza hut,gluten free crust pepperoni pizza,5,g,15,mg,260,g,14,g,4,g,2,g,0,g,0.5,g,2,g
+939,pizza hut,personal pan 6 supreme pizza,8,g,15,mg,360,g,18,g,7,g,3,g,0,g,1,g,2,g
+940,pizza hut,rectangle pepperoni pizza,11,g,20,mg,490,g,28,g,10,g,4,g,0,g,2,g,1,g
+941,pizza hut,personal pan 6 meat lovers pizza,12,g,25,mg,460,g,18,g,9,g,4.5,g,0,g,1,g,2,g
+942,pizza hut,thin n crispy medium 12 veggie lovers pizza,6,g,15,mg,420,g,24,g,8,g,3,g,0,g,2,g,4,g
+943,pizza hut,thin n crispy small 10 pepperoni pizza,4.5,g,15,mg,270,g,13,g,5,g,2,g,0,g,0.5,g,2,g
+944,pizza hut,hand tossed large 14 pepperoni lovers pizza,18,g,50,mg,740,g,35,g,17,g,8,g,0,g,3,g,2,g
+945,pizza hut,personal pan 6 hawaiian chicken pizza,5,g,15,mg,330,g,18,g,8,g,2,g,0,g,1,g,3,g
+946,pizza hut,pzone pepperoni with marinara sauce,34,g,85,mg,1780,g,123,g,42,g,16,g,1,g,9,g,8,g
+947,pizza hut,thin n crispy small 10 veggie lovers pizza,3,g,10,mg,250,g,14,g,4,g,1.5,g,0,g,1,g,2,g
+948,pizza hut,original pan large 14 supreme pizza,20,g,40,mg,740,g,37,g,16,g,7,g,0,g,2,g,2,g
+949,pizza hut,hand tossed large 14 hawaiian chicken pizza,9,g,30,mg,580,g,36,g,15,g,4,g,0,g,3,g,3,g
+950,pizza hut,original stuffed crust large 14 meat lovers pizza,24,g,60,mg,960,g,35,g,19,g,10,g,0,g,2,g,2,g
+951,pizza hut,thin n crispy large 14 supreme pizza,14,g,40,mg,680,g,30,g,14,g,6,g,0,g,3,g,5,g
+952,pizza hut,original pan large 14 buffalo chicken pizza,14,g,30,mg,850,g,40,g,15,g,5,g,0,g,2,g,2,g
+953,pizza hut,hand tossed small 10 meat lovers pizza,9,g,20,mg,370,g,16,g,7,g,3.5,g,0,g,1,g,0.5,g
+954,pizza hut,thin n crispy large 14 cheese only pizza,10,g,35,mg,610,g,29,g,14,g,6,g,0,g,3,g,4,g
+955,pizza hut,original stuffed crust large 14 supreme pizza,18,g,45,mg,770,g,36,g,16,g,8,g,0,g,3,g,2,g
+956,pizza hut,hand tossed small 10 supreme pizza,6,g,15,mg,280,g,17,g,6,g,2.5,g,0,g,1,g,1,g
+957,pizza hut,original stuffed crust large 14 hawaiian chicken pizza,11,g,40,mg,700,g,37,g,16,g,6,g,0,g,3,g,3,g
+958,pizza hut,original stuffed crust large 14 veggie lovers pizza,12,g,30,mg,650,g,37,g,13,g,6,g,0,g,3,g,3,g
+959,pizza hut,extra large 18 cheese and mushroom pizza,10,g,30,mg,710,g,51,g,17,g,5,g,0,g,4,g,3,g
+960,pizza hut,personal pan 6 backyard bbq chicken pizza,6,g,15,mg,370,g,25,g,8,g,2,g,0,g,1,g,8,g
+961,pizza hut,original pan medium 12 meat lovers pizza,17,g,35,mg,640,g,28,g,13,g,6,g,0,g,2,g,1,g
+962,pizza hut,regional personal pan taco pizza,7,g,15,mg,330,g,19,g,7,g,3,g,0,g,2,g,2,g
+963,pizza hut,hand tossed medium 12 backyard bbq chicken pizza,7,g,20,mg,390,g,31,g,10,g,3,g,0,g,2,g,6,g
+964,pizza hut,regional medium thin n crispy taco pizza,11,g,30,mg,550,g,27,g,12,g,5,g,0,g,3,g,3,g
+965,pizza hut,gluten free crust veggie lovers pizza,3.5,g,10,mg,230,g,15,g,4,g,1.5,g,0,g,1,g,3,g
+966,pizza hut,hand tossed medium 12 buffalo chicken pizza,5,g,20,mg,560,g,28,g,9,g,2.5,g,0,g,2,g,1,g
+967,pizza hut,extra large 18 pepperoni pizza,14,g,35,mg,800,g,50,g,17,g,6,g,0,g,4,g,3,g
+968,pizza hut,original stuffed crust large 14 ultimate cheese lovers pizza,16,g,40,mg,660,g,34,g,15,g,8,g,0,g,2,g,2,g
+969,pizza hut,gluten free crust cheese pizza,4,g,10,mg,240,g,14,g,4,g,2,g,0,g,0.5,g,2,g
+970,pizza hut,extra large 18 meat lovers pizza,23,g,55,mg,1100,g,51,g,22,g,10,g,0,g,4,g,3,g
+971,pizza hut,original pan large 14 meat lovers pizza,27,g,50,mg,940,g,37,g,19,g,10,g,0,g,2,g,2,g
+972,pizza hut,extra large 18 italian sausage pizza,18,g,45,mg,890,g,51,g,19,g,8,g,0,g,4,g,3,g
+973,pizza hut,thin n crispy medium 12 hawaiian chicken pizza,6,g,20,mg,160,g,24,g,10,g,3,g,0,g,2,g,4,g
+974,pizza hut,thin n crispy large 14 pepperoni lovers pizza,18,g,55,mg,830,g,30,g,17,g,9,g,0.5,g,3,g,4,g
+975,pizza hut,thin n crispy small 10 backyard bbq chicken pizza,3.5,g,15,mg,270,g,17,g,6,g,1.5,g,0,g,0.5,g,5,g
+976,pizza hut,gluten free crust meat lovers pizza,9,g,20,mg,360,g,14,g,6,g,3.5,g,0,g,0.5,g,2,g
+977,pizza hut,thin n crispy small 10 hawaiian chicken pizza,3,g,10,mg,270,g,14,g,6,g,1.5,g,0,g,1,g,3,g
+978,pizza hut,original stuffed crust large 14 backyard bbq chicken pizza,13,g,45,mg,670,g,41,g,16,g,6,g,0,g,2,g,7,g
+979,pizza hut,personal pan 6 ultimate cheese lovers pizza,8,g,15,mg,330,g,17,g,8,g,3.5,g,0,g,1,g,2,g
+980,pizza hut,personal pan 6 buffalo chicken pizza,5,g,15,mg,570,g,22,g,7,g,2,g,0,g,1,g,2,g
+981,pizza hut,hand tossed small 10 hawaiian chicken pizza,4,g,10,mg,270,g,17,g,7,g,1.5,g,0,g,1,g,1,g
+982,pizza hut,original stuffed crust large 14 chicken bacon parmesan pizza,16,g,45,mg,700,g,34,g,17,g,7,g,0,g,2,g,2,g
+983,pizza hut,original pan medium 12 pepperoni pizza,11,g,25,mg,470,g,28,g,10,g,4.5,g,0,g,2,g,1,g
+984,pizza hut,regional large hand tossed taco pizza,16,g,40,mg,680,g,40,g,17,g,8,g,0,g,5,g,2,g
+985,pizza hut,pzone supremo with marinara sauce,35,g,80,mg,1760,g,125,g,42,g,16,g,0.5,g,9,g,9,g
+986,pizza hut,thin n crispy medium 12 chicken bacon parmesan pizza,9,g,30,mg,460,g,21,g,11,g,4,g,0,g,1,g,3,g
+987,pizza hut,regional personal pan super supreme pizza,11,g,20,mg,460,g,18,g,9,g,4,g,0,g,1,g,2,g
+988,pizza hut,original stuffed crust large 14 pepperoni lovers pizza,20,g,55,mg,850,g,35,g,18,g,9,g,0.5,g,3,g,2,g
+989,pizza hut,thin n crispy large 14 veggie lovers pizza,8,g,20,mg,580,g,31,g,11,g,4,g,0,g,3,g,5,g
+990,pizza hut,extra large 18 cheese pizza,14,g,40,mg,820,g,51,g,19,g,7,g,0,g,4,g,3,g
+991,pizza hut,gluten free crust supreme pizza,6,g,15,mg,270,g,15,g,5,g,2.5,g,0,g,1,g,2,g
+992,pizza hut,rectangle backyard bbq chicken pizza,9,g,20,mg,470,g,34,g,11,g,3.5,g,0,g,2,g,6,g
+993,pizza hut,rectangle cheese only pizza,9,g,20,mg,460,g,29,g,10,g,4,g,0,g,2,g,1,g
+994,pizza hut,personal pan 6 pepperoni lovers pizza,9,g,20,mg,370,g,17,g,8,g,3.5,g,0,g,1,g,2,g
+995,pizza hut,hand tossed medium 12 pepperoni lovers pizza,13,g,35,mg,530,g,26,g,12,g,6,g,0,g,2,g,1,g
+996,pizza hut,rectangle chicken bacon parmesan pizza,12,g,25,mg,490,g,28,g,12,g,4.5,g,0,g,2,g,1,g
+997,pizza hut,thin n crispy medium 12 pepperoni pizza,9,g,25,mg,480,g,22,g,9,g,4,g,0,g,2,g,3,g
+998,pizza hut,regional rectangle chicken fiesta taco pizza,11,g,20,mg,540,g,36,g,11,g,3.5,g,0,g,4,g,2,g
+999,pizza hut,regional large thin n crispy beef fiesta taco pizza,15,g,30,mg,730,g,37,g,13,g,6,g,0,g,4,g,4,g

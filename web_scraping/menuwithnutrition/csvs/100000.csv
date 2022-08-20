@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,lost pizza co,the kujo 8 inch 1 of 4 slices,9,g,25,mg,520,g,4,g,9,g,4.5,g,0,g,1,g,1,g
+1,lost pizza co,the lucille 12 inch 1 of 8 slices,7,g,20,mg,390,g,5,g,7,g,3,g,0,g,0,g,1,g
+2,lost pizza co,the lucille 15 inch 1 of 12 slices,7,g,25,mg,410,g,5,g,8,g,3.5,g,0,g,0,g,1,g
+3,lost pizza co,the lucille 8 inch 1 of 4 slices,7,g,25,mg,400,g,5,g,8,g,3.5,g,0,g,0,g,1,g
+4,lost pizza co,the otis 12 inch 1 of 8 slices,9,g,30,mg,520,g,4,g,9,g,4.5,g,0,g,0,g,1,g
+5,lost pizza co,the otis 15 inch 1 of 12 slices,9,g,30,mg,540,g,4,g,9,g,4.5,g,0,g,0,g,1,g
+6,lost pizza co,the otis 8 inch 1 of 4 slices,10,g,30,mg,520,g,4,g,10,g,5,g,0,g,0,g,1,g
+7,lost pizza co,the pit boss 8 inch 1 of 4 slices,9,g,35,mg,410,g,6,g,11,g,5,g,0,g,0,g,3,g
+8,lost pizza co,the pitt boss 12 inch 1 of 8 slices,8,g,30,mg,400,g,6,g,10,g,4,g,0,g,0,g,3,g
+9,lost pizza co,the pitt boss 15 inch 1 of 12 slices,8,g,35,mg,420,g,7,g,11,g,4.5,g,0,g,0,g,4,g
+10,lost pizza co,the popeye 12 inch 1 of 8 slices,6,g,20,mg,210,g,2,g,6,g,3,g,0,g,0,g,0,g
+11,lost pizza co,the popeye 15 inch 1 of 12 slices,6,g,20,mg,220,g,2,g,7,g,3.5,g,0,g,0,g,0,g
+12,lost pizza co,the popeye 8 inch 1 of 4 slices,7,g,25,mg,250,g,2,g,8,g,3.5,g,0,g,0,g,0,g
+13,lost pizza co,wings boneless 10 piece,27,g,175,mg,2080,g,53,g,71,g,4.5,g,0,g,0,g,4,g
+14,lost pizza co,wings boneless 20 piece,49,g,325,mg,3810,g,97,g,130,g,8,g,0,g,0,g,8,g
+15,lost pizza co,wings classic 12 piece,97,g,345,mg,2180,g,11,g,103,g,26,g,0,g,0,g,0,g
+16,lost pizza co,wings classic 6 piece,49,g,170,mg,1090,g,6,g,52,g,13,g,0,g,0,g,0,g
+17,lost pizza co,yardbird,27,g,105,mg,1450,g,51,g,39,g,7,g,0,g,2,g,3,g
+18,lyfe kitchen,add chicken,7,g,0,mg,0,g,1,g,24,g,1,g,0,g,0,g,0,g
+19,lyfe kitchen,add salmon,22,g,0,mg,0,g,2,g,28,g,4,g,0,g,0,g,0,g
+20,lyfe kitchen,add tofu,6,g,0,mg,0,g,17,g,11,g,2,g,0,g,0,g,0,g
+21,lyfe kitchen,ahi tuna poke bowl,32,g,0,mg,0,g,50,g,27,g,2.5,g,0,g,0,g,0,g
+22,lyfe kitchen,almond pecan morning muffin,33,g,0,mg,0,g,47,g,6,g,5,g,0,g,0,g,0,g
+23,lyfe kitchen,applewood smoked bacon,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+24,lyfe kitchen,avocado toast,34,g,0,mg,0,g,47,g,19,g,9,g,0,g,0,g,0,g
+25,lyfe kitchen,baked sweet potato fries,15,g,0,mg,0,g,43,g,7,g,0,g,0,g,5,g,13,g
+26,lyfe kitchen,bbq chicken flatbread,14,g,0,mg,0,g,49,g,18,g,5,g,0,g,4,g,14,g
+27,lyfe kitchen,beyond burger,27,g,0,mg,0,g,56,g,28,g,6,g,0,g,0,g,0,g
+28,lyfe kitchen,blueberry buckwheat muffin,18,g,0,mg,0,g,54,g,4,g,3,g,0,g,0,g,0,g
+29,lyfe kitchen,blueberry oat smoothie,13,g,0,mg,0,g,80,g,13,g,2,g,0,g,0,g,0,g
+30,lyfe kitchen,bold berry salad,36,g,0,mg,0,g,32,g,15,g,8,g,0,g,0,g,0,g
+31,lyfe kitchen,breakfast almond butter banana toast,26,g,0,mg,0,g,37,g,9,g,2.5,g,0,g,0,g,0,g
+32,lyfe kitchen,breakfast anti burnout bowl,16,g,0,mg,0,g,61,g,23,g,6,g,0,g,0,g,0,g
+33,lyfe kitchen,breakfast avocado toast,34,g,0,mg,0,g,47,g,19,g,9,g,0,g,0,g,0,g
+34,lyfe kitchen,breakfast balance bowl,39,g,0,mg,0,g,29,g,10,g,16,g,0,g,0,g,0,g
+35,lyfe kitchen,breakfast breakfast salad,27,g,0,mg,0,g,22,g,20,g,9,g,0,g,0,g,0,g
+36,lyfe kitchen,breakfast cinnamon bun ovn oats,35,g,0,mg,0,g,69,g,15,g,14,g,0,g,0,g,0,g
+37,lyfe kitchen,breakfast classic breakfast bacon,28,g,0,mg,0,g,31,g,21,g,6,g,0,g,0,g,0,g
+38,lyfe kitchen,breakfast classic breakfast sausage,32,g,0,mg,0,g,31,g,34,g,6,g,0,g,0,g,0,g
+39,lyfe kitchen,breakfast coconut chia seed bowl,24,g,0,mg,0,g,37,g,4,g,13,g,0,g,0,g,0,g
+40,lyfe kitchen,breakfast egg sandiwch plate,26,g,0,mg,0,g,58,g,23,g,4.5,g,0,g,0,g,0,g
+41,lyfe kitchen,breakfast glow up egg omelet,26,g,0,mg,0,g,33,g,18,g,4,g,0,g,0,g,0,g
+42,lyfe kitchen,breakfast keto scramble bacon,24,g,0,mg,0,g,8,g,34,g,9,g,0,g,0,g,0,g
+43,lyfe kitchen,breakfast mighty breakfast burrito,29,g,0,mg,0,g,87,g,34,g,6,g,0,g,3,g,4,g
+44,lyfe kitchen,breakfast nutella strawberry toast,12,g,0,mg,0,g,66,g,16,g,3.5,g,0,g,0,g,0,g
+45,lyfe kitchen,breakfast paleo power start bacon,24,g,0,mg,0,g,5,g,27,g,8,g,0,g,0,g,0,g
+46,lyfe kitchen,breakfast paleo power start sausage,23,g,0,mg,0,g,5,g,39,g,7,g,0,g,0,g,0,g
+47,lyfe kitchen,breakfast potatoes,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+48,lyfe kitchen,breakfast protein pancakes syrup and butter,15,g,0,mg,0,g,102,g,22,g,8,g,0,g,0,g,0,g
+49,lyfe kitchen,breakfast pumpkin pie ovn oats,28,g,0,mg,0,g,52,g,10,g,7,g,0,g,0,g,0,g
+50,lyfe kitchen,breakfast vegan burrito,31,g,0,mg,0,g,89,g,35,g,4.5,g,0,g,0,g,0,g
+51,lyfe kitchen,breakfast will wake for tacos,23,g,0,mg,0,g,57,g,25,g,6,g,0,g,3,g,2,g
+52,lyfe kitchen,buffalo cauliflower tacos,33,g,0,mg,0,g,39,g,7,g,3,g,0,g,0,g,0,g
+53,lyfe kitchen,buffalo chicken salad,26,g,0,mg,0,g,34,g,32,g,3,g,0,g,0,g,0,g
+54,lyfe kitchen,buffalo chicken strips,20,g,0,mg,0,g,27,g,31,g,4,g,0,g,0,g,0,g
+55,lyfe kitchen,carrot zucchini walnut muffin,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+56,lyfe kitchen,chicken and black bean burrito bowl,30,g,0,mg,0,g,95,g,52,g,8,g,0,g,0,g,0,g
+57,lyfe kitchen,chicken mushroom cashew penne bowl,20,g,0,mg,0,g,76,g,33,g,3.5,g,0,g,0,g,0,g
+58,lyfe kitchen,chicken sausage patties,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+59,lyfe kitchen,chips and guac,16,g,0,mg,0,g,46,g,6,g,2,g,0,g,0,g,0,g
+60,lyfe kitchen,chocolate chip banana chia muffin,24,g,0,mg,0,g,71,g,5,g,7,g,0,g,0,g,0,g
+61,lyfe kitchen,chocolate pomegranite parfait,17,g,0,mg,0,g,15,g,4,g,10,g,0,g,5,g,4,g
+62,lyfe kitchen,chocolate strawberry muffin,18,g,0,mg,0,g,53,g,6,g,4,g,0,g,0,g,0,g
+63,lyfe kitchen,coconut chia seed pudding,15,g,0,mg,0,g,28,g,4,g,6,g,0,g,0,g,0,g
+64,lyfe kitchen,crispy chicken and brussels,18,g,0,mg,0,g,61,g,37,g,1.5,g,0,g,4,g,8,g
+65,lyfe kitchen,garlic parmesan sweet potato fries,35,g,0,mg,0,g,36,g,10,g,5,g,0,g,5,g,14,g
+66,lyfe kitchen,gluten free brownie,19,g,0,mg,0,g,43,g,4,g,10,g,0,g,0,g,0,g
+67,lyfe kitchen,gluten free cookie,8,g,0,mg,0,g,24,g,2,g,3.5,g,0,g,0,g,0,g
+68,lyfe kitchen,grass fed burger,40,g,0,mg,0,g,42,g,39,g,10,g,0,g,0,g,0,g
+69,lyfe kitchen,grilled chicken and avocado,31,g,0,mg,0,g,45,g,32,g,4,g,0,g,0,g,0,g
+70,lyfe kitchen,hewn sourdough toast,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+71,lyfe kitchen,kale banana ginger smoothie,1,g,0,mg,0,g,58,g,3,g,0,g,0,g,0,g,0,g
+72,lyfe kitchen,mahi mahi tacos,29,g,0,mg,0,g,34,g,25,g,3,g,0,g,0,g,0,g
+73,lyfe kitchen,margherita flatbread,24,g,0,mg,0,g,58,g,15,g,7,g,0,g,2,g,9,g
+74,lyfe kitchen,mediterranean chop salad,34,g,0,mg,0,g,37,g,19,g,8,g,0,g,0,g,0,g
+75,lyfe kitchen,mighty kale caesar salad,22,g,0,mg,0,g,22,g,16,g,7,g,0,g,0,g,0,g
+76,lyfe kitchen,morning matcha smoothie,13,g,0,mg,0,g,24,g,9,g,2,g,0,g,0,g,0,g
+77,lyfe kitchen,quinoa crunch salad bowl,28,g,0,mg,0,g,62,g,20,g,3.5,g,0,g,9,g,9,g
+78,lyfe kitchen,red lentil and halloumi bowl,26,g,0,mg,0,g,65,g,37,g,9,g,0,g,0,g,0,g
+79,lyfe kitchen,roasted cauliflower and crispy chickpeas,23,g,0,mg,0,g,44,g,14,g,1.5,g,0,g,2,g,3,g
+80,lyfe kitchen,roasted mushroom and goat cheese flatbread,21,g,0,mg,0,g,54,g,21,g,12,g,0,g,5,g,18,g
+81,lyfe kitchen,roasted salmon and soba bowl,37,g,0,mg,0,g,63,g,58,g,6,g,0,g,0,g,0,g
+82,lyfe kitchen,seasonal fruit bowl,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+83,lyfe kitchen,silver bullet smoothie,14,g,0,mg,0,g,32,g,7,g,1.5,g,0,g,0,g,0,g
+84,lyfe kitchen,strawberry beet smoothie,2,g,0,mg,0,g,29,g,4,g,0,g,0,g,0,g,0,g
+85,lyfe kitchen,super food salad,40,g,0,mg,0,g,51,g,28,g,9,g,0,g,0,g,0,g
+86,lyfe kitchen,sweet corn chowder,7,g,0,mg,0,g,23,g,5,g,1,g,0,g,1,g,2,g
+87,lyfe kitchen,thai tofu bowl,48,g,0,mg,0,g,83,g,31,g,27,g,0,g,0,g,0,g
+88,lyfe kitchen,turkey havarti and avocado sandwich,42,g,0,mg,0,g,68,g,41,g,13,g,0,g,0,g,0,g
+89,lyfe kitchen,vegan chocolate chip cookie,7,g,0,mg,0,g,23,g,2,g,3,g,0,g,7,g,2,g
+90,macaroni grill,crispy brussels sprouts,25,g,0,mg,800,g,37,g,7,g,4,g,0,g,8,g,20,g
+91,macaroni grill,stuffed mushrooms,38,g,60,mg,590,g,20,g,21,g,13,g,0,g,3,g,5,g
+92,macaroni grill,bruchetta,43,g,25,mg,1830,g,55,g,17,g,9,g,0,g,4,g,7,g
+93,macaroni grill,calamari fritti,55,g,435,mg,700,g,33,g,33,g,9,g,0,g,4,g,7,g
+94,macaroni grill,spinach and artichoke dip,61,g,130,mg,1980,g,109,g,30,g,29,g,1.5,g,7,g,8,g
+95,macaroni grill,fried artichokes,45,g,5,mg,480,g,17,g,2,g,7,g,0,g,1,g,2,g
+96,macaroni grill,spinach and artichoke dip with shrimp,62,g,200,mg,2290,g,109,g,39,g,29,g,1.5,g,7,g,8,g
+97,macaroni grill,loaded fries,66,g,70,mg,1610,g,52,g,15,g,22,g,0.5,g,5,g,4,g
+98,macaroni grill,mac and cheese bites truffle dip,70,g,310,mg,1190,g,44,g,30,g,25,g,1,g,2,g,5,g
+99,macaroni grill,goat cheese peppadew peppers,11,g,25,mg,660,g,56,g,6,g,6,g,0,g,3,g,40,g
+100,macaroni grill,crispy fresh mozzarella,79,g,145,mg,210,g,17,g,13,g,16,g,0,g,1,g,1,g
+101,macaroni grill,crispy brussels sprouts with crispy prosciutto,28,g,15,mg,1080,g,37,g,11,g,5,g,0,g,8,g,20,g
+102,macaroni grill,baked prosciutto and mozzarella,36,g,100,mg,1430,g,35,g,38,g,19,g,0,g,1,g,3,g
+103,macaroni grill,summer berry crostata,49,g,100,mg,880,g,148,g,11,g,26,g,0,g,6,g,70,g
+104,macaroni grill,decadent chocolate cake,88,g,225,mg,500,g,79,g,9,g,48,g,1.5,g,5,g,48,g
+105,macaroni grill,tiramisu,39,g,170,mg,65,g,54,g,7,g,24,g,1.5,g,1,g,40,g
+106,macaroni grill,new york style cheesecake,41,g,20,mg,420,g,70,g,10,g,25,g,15,g,4,g,12,g
+107,macaroni grill,vanilla gelato,13,g,20,mg,105,g,42,g,6,g,10,g,0,g,0,g,27,g
+108,macaroni grill,dolce blood orange sorbet,0,g,0,mg,5,g,41,g,0,g,0,g,0,g,1,g,0,g
+109,macaroni grill,lemon passion,45,g,40,mg,430,g,77,g,8,g,25,g,1.5,g,3,g,7,g
+110,macaroni grill,side of parmesan fries,48,g,0,mg,1530,g,59,g,11,g,12,g,1,g,4,g,0,g
+111,macaroni grill,kids macaroni and cheese,31,g,145,mg,1190,g,44,g,21,g,18,g,1,g,1,g,8,g
+112,macaroni grill,kids spaghetti and meatballs with pomodorina sauce,37,g,185,mg,1140,g,48,g,33,g,15,g,0,g,4,g,4,g
+113,macaroni grill,kids grilled chicken and pasta with pomodorina sauce,5,g,55,mg,610,g,39,g,31,g,1,g,0,g,4,g,5,g
+114,macaroni grill,kids chicken strips with fries,73,g,170,mg,1750,g,108,g,46,g,13,g,0,g,7,g,20,g
+115,macaroni grill,kids cheese ravioli,21,g,70,mg,1160,g,36,g,19,g,8,g,0.5,g,4,g,8,g
+116,macaroni grill,kids fettuccine alfredo,24,g,120,mg,770,g,42,g,20,g,14,g,0.5,g,1,g,4,g
+117,macaroni grill,kids chicken strips with broccolini,45,g,170,mg,380,g,67,g,46,g,8,g,0,g,5,g,5,g
+118,macaroni grill,kids vanilla gelato,4,g,5,mg,30,g,15,g,2,g,4,g,0,g,1,g,11,g
+119,macaroni grill,kids pepperoni pizza,25,g,15,mg,1050,g,72,g,30,g,12,g,0,g,3,g,4,g
+120,macaroni grill,kids spaghetti and pomodina sauce,8,g,45,mg,470,g,43,g,9,g,1,g,0,g,3,g,5,g
+121,macaroni grill,kids spaghetti and meat sauce,14,g,70,mg,790,g,45,g,16,g,4,g,0,g,3,g,5,g
+122,macaroni grill,kids chicken strips with salad,49,g,175,mg,450,g,65,g,44,g,8,g,0,g,4,g,5,g
+123,macaroni grill,lunch porchetta sandwich mix and match,23,g,30,mg,970,g,29,g,20,g,7,g,0,g,3,g,3,g
+124,macaroni grill,lunch italian pesto caprese sandwich on ciabatta,28,g,0,mg,830,g,28,g,18,g,11,g,0,g,2,g,4,g
+125,macaroni grill,lunch fettuccine alfredo,29,g,65,mg,890,g,64,g,19,g,16,g,0.5,g,4,g,1,g
+126,macaroni grill,lunch prosciutto grilled cheese sandwich on ciabatta,38,g,110,mg,1620,g,51,g,42,g,20,g,0.5,g,2,g,4,g
+127,macaroni grill,lunch chicken marsala half portion,26,g,30,mg,810,g,74,g,31,g,7,g,0,g,5,g,4,g
+128,macaroni grill,lunch pepperoni calzonetto,60,g,105,mg,1670,g,142,g,64,g,26,g,0,g,5,g,6,g
+129,macaroni grill,lunch fettuccine alfredo with shrimp,43,g,120,mg,1400,g,64,g,25,g,19,g,1,g,4,g,1,g
+130,macaroni grill,lunch pasta milano,24,g,50,mg,990,g,69,g,28,g,9,g,0,g,5,g,4,g
+131,macaroni grill,lunch chicken parmesan sandwich on ciabatta,63,g,170,mg,1580,g,110,g,65,g,17,g,0,g,7,g,5,g
+132,macaroni grill,lunch sausage rigatoni,42,g,100,mg,970,g,61,g,25,g,18,g,0.5,g,4,g,2,g
+133,macaroni grill,lunch chicken caesar calzonetto,56,g,95,mg,3150,g,150,g,65,g,17,g,0.5,g,7,g,10,g
+134,macaroni grill,lunch penne rustica pasta,26,g,130,mg,1860,g,68,g,41,g,11,g,0,g,4,g,2,g
+135,macaroni grill,lunch caprese sandwich with crispy potatoes and ketchup,82,g,70,mg,3220,g,90,g,46,g,20,g,0,g,9,g,16,g
+136,macaroni grill,lunch chicken scaloppine half portion,76,g,175,mg,1350,g,59,g,35,g,39,g,2.5,g,6,g,2,g
+137,macaroni grill,lunch italian pesto caprese sandwich with crispy potatoes and ketchup,85,g,85,mg,2500,g,91,g,28,g,22,g,1,g,7,g,17,g
+138,macaroni grill,add on grilled chicken,0,g,30,mg,420,g,1,g,38,g,0,g,0,g,1,g,0,g
+139,macaroni grill,add on shrimp,14,g,45,mg,460,g,0,g,5,g,1,g,0,g,0,g,0,g
+140,macaroni grill,add on italian sausage,39,g,75,mg,740,g,2,g,17,g,10,g,0,g,1,g,0,g
+141,macaroni grill,chicken parmesan,92,g,260,mg,1890,g,120,g,79,g,17,g,0.5,g,10,g,13,g
+142,macaroni grill,chicken marsala,32,g,110,mg,1010,g,61,g,54,g,10,g,0.5,g,4,g,6,g
+143,macaroni grill,pollo caprese,22,g,70,mg,1080,g,40,g,50,g,4,g,0,g,5,g,6,g
+144,macaroni grill,chicken scaloppine,76,g,205,mg,1680,g,83,g,61,g,39,g,2.5,g,10,g,2,g
+145,macaroni grill,two eggs over easy,32,g,375,mg,640,g,1,g,13,g,7,g,5,g,0,g,0,g
+146,macaroni grill,eggs benedict with basil pesto hollandaise,94,g,520,mg,3050,g,131,g,39,g,34,g,1,g,10,g,34,g
+147,macaroni grill,grilled pork chop with wild mushroom and snap pea risotto,89,g,285,mg,2530,g,57,g,89,g,35,g,1.5,g,4,g,13,g
+148,macaroni grill,creme brulee oatmeal,15,g,15,mg,90,g,89,g,12,g,4,g,0,g,7,g,64,g
+149,macaroni grill,san marino grilled chicken,34,g,165,mg,2050,g,86,g,61,g,11,g,0.5,g,8,g,9,g
+150,macaroni grill,mattina porchetta sandwich with fried egg,98,g,255,mg,3680,g,91,g,52,g,23,g,3,g,9,g,17,g
+151,macaroni grill,eggs benedict with chared lemon hollandaise,78,g,520,mg,2980,g,129,g,38,g,32,g,1,g,9,g,34,g
+152,macaroni grill,avocado toast as served,102,g,195,mg,2450,g,120,g,24,g,19,g,3,g,21,g,39,g
+153,macaroni grill,italian biscuits and gravy,105,g,265,mg,2340,g,84,g,41,g,52,g,2,g,4,g,17,g
+154,macaroni grill,milanese steak and eggs as served,89,g,779,mg,1801,g,61,g,90,g,25,g,1,g,4,g,5,g
+155,macaroni grill,yogurt parfait,21,g,25,mg,65,g,60,g,19,g,7,g,0,g,8,g,23,g
+156,macaroni grill,grilled steak and potatoes with oreganata sauce,52,g,175,mg,2450,g,43,g,64,g,11,g,0.5,g,5,g,9,g
+157,macaroni grill,porchetta hash,82,g,445,mg,1540,g,31,g,30,g,22,g,0,g,4,g,6,g
+158,macaroni grill,grilled steak and potatoes with rosemary butter,61,g,225,mg,1930,g,34,g,63,g,22,g,1.5,g,5,g,4,g
+159,macaroni grill,peach and raspberry bellini pancakes,47,g,110,mg,2380,g,182,g,20,g,27,g,3,g,8,g,68,g
+160,macaroni grill,french toast with sweet berry topping,79,g,355,mg,1270,g,161,g,25,g,45,g,1,g,12,g,74,g
+161,macaroni grill,truffle mac and cheese,89,g,290,mg,2970,g,24,g,45,g,56,g,1.5,g,1,g,6,g
+162,macaroni grill,penne rustica pasta,52,g,315,mg,3020,g,82,g,66,g,21,g,0.5,g,3,g,5,g
+163,macaroni grill,eggplant parmesan pasta,90,g,220,mg,1520,g,103,g,34,g,16,g,0.5,g,10,g,15,g
+164,macaroni grill,pasta milano,39,g,100,mg,1850,g,123,g,49,g,13,g,0,g,13,g,13,g
+165,macaroni grill,lasagna bolognese,67,g,215,mg,2740,g,69,g,60,g,31,g,1,g,6,g,16,g
+166,macaroni grill,mamas trio with fettuccine alfredo,129,g,420,mg,3940,g,140,g,103,g,56,g,2.5,g,9,g,19,g
+167,macaroni grill,lobster ravioli,74,g,340,mg,1390,g,36,g,31,g,46,g,3,g,3,g,3,g
+168,macaroni grill,mushroom ravioli,66,g,195,mg,970,g,53,g,17,g,30,g,1.5,g,5,g,13,g
+169,macaroni grill,fettuccine alfredo with chicken,44,g,95,mg,1460,g,66,g,31,g,19,g,1,g,4,g,1,g
+170,macaroni grill,truffle mac and cheese with prosciutto,93,g,320,mg,2470,g,25,g,53,g,58,g,1.5,g,1,g,6,g
+171,macaroni grill,moms ricotta meatballs and spaghetti with bolognese,105,g,290,mg,3320,g,111,g,73,g,36,g,1,g,10,g,10,g
+172,macaroni grill,italian classic moms ricotta meatballs and spaghetti with pomodoro,55,g,0,mg,2660,g,91,g,43,g,14,g,1.5,g,9,g,0,g
+173,macaroni grill,butternut asiago tortellaci,66,g,290,mg,2380,g,63,g,33,g,39,g,1,g,6,g,6,g
+174,macaroni grill,carmelas chicken pasta,61,g,175,mg,1380,g,98,g,33,g,25,g,1.5,g,7,g,9,g
+175,macaroni grill,fettuccine alfredo,56,g,145,mg,1840,g,114,g,44,g,33,g,1.5,g,6,g,5,g
+176,macaroni grill,pasta di mare,43,g,225,mg,2450,g,101,g,55,g,11,g,0,g,7,g,5,g
+177,macaroni grill,fettuccine alfredo with shrimp,71,g,235,mg,2480,g,115,g,53,g,35,g,1.5,g,6,g,5,g
+178,macaroni grill,sausage rigatoni,67,g,170,mg,1260,g,87,g,36,g,29,g,1,g,6,g,4,g
+179,macaroni grill,lunch butternut asiago tortellaci,45,g,155,mg,1770,g,45,g,28,g,22,g,1,g,4,g,3,g
+180,macaroni grill,prosciutto and arugula pizza,53,g,155,mg,3010,g,140,g,58,g,27,g,0,g,1,g,10,g
+181,macaroni grill,cheese pizza,41,g,100,mg,2040,g,146,g,56,g,21,g,0.5,g,6,g,10,g
+182,macaroni grill,margherita pizza,41,g,65,mg,2310,g,146,g,48,g,16,g,0,g,6,g,10,g
+183,macaroni grill,farmhouse pizza,56,g,105,mg,2460,g,146,g,60,g,23,g,0,g,6,g,8,g
+184,macaroni grill,primo pepperoni pizza,41,g,0,mg,1960,g,97,g,53,g,19,g,0,g,6,g,0,g
+185,macaroni grill,piedmont pizza,57,g,145,mg,2040,g,146,g,65,g,27,g,0.5,g,6,g,10,g
+186,macaroni grill,italian chopped salad with dressing,42,g,220,mg,2490,g,29,g,32,g,17,g,6,g,6,g,11,g
+187,macaroni grill,parmesan crusted chicken salad with dressing,48,g,250,mg,910,g,100,g,64,g,9,g,0,g,7,g,16,g
+188,macaroni grill,rosas signature caesar salad with dressing,20,g,30,mg,460,g,7,g,7,g,5,g,0,g,2,g,2,g
+189,macaroni grill,bibb and blue salad with dressing,42,g,55,mg,1070,g,17,g,23,g,12,g,0,g,4,g,5,g
+190,macaroni grill,caprese salad,44,g,100,mg,510,g,15,g,16,g,18,g,0.5,g,2,g,7,g
+191,macaroni grill,fresh greens side salad with dressing,16,g,0,mg,190,g,11,g,2,g,2,g,0,g,2,g,5,g
+192,macaroni grill,rosas signature chicken caesar salad with dressing,41,g,90,mg,1090,g,15,g,51,g,11,g,0,g,5,g,3,g
+193,macaroni grill,chicken florentine salad with dressing,61,g,95,mg,2010,g,55,g,31,g,9,g,0,g,9,g,7,g
+194,macaroni grill,market chop salad with dressing,71,g,0,mg,2300,g,33,g,56,g,19,g,0,g,10,g,0,g
+195,macaroni grill,caesar side salad with dressing,21,g,30,mg,470,g,8,g,7,g,5,g,0,g,3,g,2,g
+196,macaroni grill,bibb and bleu salmon salad with dressingq,57,g,180,mg,1760,g,14,g,63,g,18,g,0,g,2,g,5,g
+197,macaroni grill,crunch lombardi salad with dressing,19,g,10,mg,830,g,48,g,10,g,4,g,0,g,7,g,35,g
+198,macaroni grill,salad sampler with dressing,80,g,0,mg,2720,g,36,g,42,g,20,g,1,g,9,g,0,g
+199,macaroni grill,rosas signature salmon caesar salad with dressing,77,g,190,mg,1290,g,18,g,60,g,18,g,15,g,4,g,3,g
+200,macaroni grill,bibb and bleu shrimp salad with dressing,43,g,170,mg,1850,g,18,g,36,g,12,g,0,g,4,g,5,g
+201,macaroni grill,bibb and bleu chicken salad with dressing,43,g,85,mg,1380,g,18,g,61,g,12,g,0,g,5,g,5,g
+202,macaroni grill,rosas signature shrimp caesar salad with dressing,42,g,180,mg,1710,g,15,g,26,g,11,g,0,g,4,g,3,g
+203,macaroni grill,shrimp portofino,78,g,320,mg,1820,g,93,g,36,g,38,g,2,g,7,g,2,g
+204,macaroni grill,grilled salmon,50,g,125,mg,1080,g,82,g,59,g,10,g,0,g,6,g,10,g
+205,macaroni grill,shrimp scampi,88,g,465,mg,2560,g,56,g,35,g,53,g,3.5,g,4,g,1,g
+206,macaroni grill,lunch shrimp portofino half portion,47,g,215,mg,1280,g,64,g,24,g,25,g,1.5,g,5,g,2,g
+207,macaroni grill,broccolini,7,g,0,mg,540,g,7,g,3,g,1,g,0,g,1,g,2,g
+208,macaroni grill,rosemary peasant bread,6,g,0,mg,1090,g,89,g,16,g,0,g,0,g,4,g,2,g
+209,macaroni grill,caprese side salad with dressing,18,g,50,mg,670,g,9,g,8,g,8,g,0,g,1,g,5,g
+210,macaroni grill,grilled asparagus,14,g,0,mg,260,g,3,g,2,g,3,g,0,g,2,g,2,g
+211,macaroni grill,crispy brussels sprouts with crispy prosciutto side,14,g,5,mg,690,g,19,g,6,g,3,g,0,g,4,g,10,g
+212,macaroni grill,crispy brussels sprouts side,13,g,0,mg,570,g,18,g,4,g,2,g,0,g,4,g,10,g
+213,macaroni grill,tuscan potatoes,37,g,0,mg,620,g,27,g,3,g,5,g,0,g,3,g,4,g
+214,macaroni grill,sausage,52,g,110,mg,1110,g,3,g,26,g,15,g,0,g,2,g,0,g
+215,macaroni grill,bibb and bleu side salad with dressing,22,g,30,mg,560,g,9,g,12,g,6,g,0,g,2,g,3,g
+216,macaroni grill,florentine side salad with dressing,22,g,0,mg,780,g,22,g,5,g,3,g,0,g,4,g,3,g
+217,macaroni grill,bacon,32,g,79,mg,788,g,2,g,15,g,11,g,0,g,0,g,1,g
+218,macaroni grill,toast brioche with fig jam,8,g,0,mg,460,g,64,g,7,g,3,g,0,g,5,g,19,g
+219,macaroni grill,crunchy lombardi side salad with dressing,9,g,5,mg,410,g,25,g,5,g,2,g,0,g,1,g,18,g
+220,macaroni grill,french greens side salad with dressing,16,g,0,mg,190,g,11,g,2,g,2,g,0,g,2,g,5,g
+221,macaroni grill,italian chopped side salad with dressing,28,g,70,mg,10600,g,15,g,19,g,11,g,0.5,g,3,g,6,g
+222,macaroni grill,two biscuits and honey,73,g,160,mg,1950,g,76,g,22,g,39,g,2,g,3,g,15,g
+223,macaroni grill,minestrone soup,3,g,10,mg,1040,g,28,g,6,g,0,g,0,g,5,g,5,g
+224,macaroni grill,italian herb soup,2,g,5,mg,125,g,8,g,4,g,1,g,0,g,2,g,1,g
+225,macaroni grill,tuscan spinach soup,32,g,95,mg,640,g,7,g,8,g,18,g,1,g,1,g,4,g
+226,mad greens,green detox juice,2,g,0,mg,123,g,23,g,9,g,0,g,0,g,0,g,4,g
+227,mad greens,beet it juice,1,g,0,mg,247,g,41,g,3,g,0,g,0,g,1,g,35,g
+228,mad greens,strawberry cooler juice,1,g,0,mg,14,g,49,g,2,g,0,g,0,g,2,g,41,g
+229,mad greens,wake up juice,1,g,0,mg,60,g,50,g,5,g,0,g,0,g,1,g,33,g
+230,mad greens,mint cooler juice,1,g,0,mg,22,g,34,g,2,g,0,g,0,g,1,g,29,g
+231,mad greens,maine root fountain soda,0,g,0,mg,30,g,40,g,0,g,0,g,0,g,0,g,40,g
+232,mad greens,bright buzz juice,1,g,0,mg,135,g,58,g,3,g,0,g,0,g,3,g,43,g
+233,mad greens,mad greenie juice,1,g,0,mg,133,g,47,g,2,g,0,g,0,g,1,g,38,g
+234,mad greens,7 layer bar,22,g,5,mg,190,g,37,g,5,g,11,g,0,g,2,g,25,g
+235,mad greens,chocolate chip cookie,18,g,20,mg,280,g,50,g,4,g,8,g,0,g,2,g,32,g
+236,mad greens,salted caramel cookie,18,g,55,mg,550,g,52,g,4,g,12,g,0,g,0,g,32,g
+237,mad greens,chocolate brownie,18,g,65,mg,140,g,38,g,4,g,9,g,0,g,2,g,28,g
+238,mad greens,sea salt caramel,3,g,12,mg,57,g,7,g,0,g,3,g,0,g,0,g,6,g
+239,mad greens,kids grilled cheese sandwich,14,g,35,mg,689,g,40,g,18,g,8,g,0,g,2,g,3,g
+240,mad greens,kids mac and cheese,10,g,10,mg,640,g,60,g,10,g,4,g,0,g,1,g,8,g
+241,mad greens,cilantro chili lime dressing heavy,13,g,9,mg,184,g,1,g,1,g,2,g,0,g,0,g,0,g
+242,mad greens,spicy sriracha almond vinaigrette heavy,11,g,0,mg,66,g,4,g,0,g,1,g,0,g,0,g,4,g
+243,mad greens,port wine vinaigrette medium,10,g,0,mg,187,g,1,g,0,g,1,g,0,g,0,g,1,g
+244,mad greens,roasted red pepper vinaigrette heavy,5,g,0,mg,496,g,4,g,0,g,0,g,0,g,0,g,3,g
+245,mad greens,ginger soy dressing heavy,5,g,0,mg,623,g,5,g,0,g,0,g,0,g,0,g,4,g
+246,mad greens,shallot tarragon vinaigrette medium,12,g,0,mg,135,g,1,g,0,g,1,g,0,g,0,g,1,g
+247,mad greens,sherry molasses vinaigrette heavy,18,g,0,mg,284,g,2,g,0,g,1,g,0,g,0,g,2,g
+248,mad greens,creamy ginger dressing heavy,17,g,7,mg,175,g,2,g,0,g,2,g,0,g,0,g,1,g
+249,mad greens,sherry molasses vinaigrette light,6,g,0,mg,95,g,1,g,0,g,0,g,0,g,0,g,1,g
+250,mad greens,blue cheese dressing light,5,g,3,mg,64,g,1,g,0,g,1,g,0,g,0,g,0,g
+251,mad greens,smokey cider vinaigrette medium,12,g,0,mg,63,g,2,g,0,g,1,g,0,g,0,g,2,g
+252,mad greens,ginger soy dressing light,2,g,0,mg,208,g,2,g,0,g,0,g,0,g,0,g,1,g
+253,mad greens,horseradish ranch dressing light,6,g,3,mg,61,g,1,g,0,g,1,g,0,g,0,g,0,g
+254,mad greens,roasted red pepper vinaigrette medium,3,g,0,mg,331,g,3,g,0,g,0,g,0,g,0,g,2,g
+255,mad greens,port wine vinaigrette heavy,15,g,0,mg,281,g,1,g,0,g,2,g,0,g,0,g,1,g
+256,mad greens,honey mint vinaigrette light,5,g,0,mg,25,g,2,g,0,g,1,g,0,g,0,g,1,g
+257,mad greens,chimichurri vinaigrette medium,11,g,0,mg,11,g,1,g,0,g,1,g,0,g,0,g,0,g
+258,mad greens,fat free balsamic vinaigrette light,0,g,0,mg,15,g,2,g,0,g,0,g,0,g,0,g,1,g
+259,mad greens,creamy ginger dressing light,6,g,2,mg,58,g,1,g,0,g,1,g,0,g,0,g,0,g
+260,mad greens,balsamic vinaigrette medium,14,g,0,mg,138,g,1,g,0,g,2,g,0,g,0,g,1,g
+261,mad greens,low fat ranch dressing heavy,7,g,7,mg,236,g,2,g,0,g,1,g,0,g,0,g,1,g
+262,mad greens,fat free spicy yogurt dressing heavy,0,g,1,mg,188,g,3,g,2,g,0,g,0,g,0,g,3,g
+263,mad greens,horseradish ranch dressing heavy,17,g,9,mg,184,g,2,g,1,g,3,g,0,g,0,g,1,g
+264,mad greens,fat free balsamic vinaigrette heavy,0,g,0,mg,45,g,6,g,1,g,0,g,0,g,1,g,4,g
+265,mad greens,cilantro chili lime dressing medium,9,g,6,mg,123,g,1,g,1,g,2,g,0,g,0,g,0,g
+266,mad greens,chimichurri vinaigrette light,5,g,0,mg,5,g,0,g,0,g,1,g,0,g,0,g,0,g
+267,mad greens,miso sesame vinaigrette heavy,17,g,0,mg,175,g,2,g,0,g,1,g,0,g,0,g,2,g
+268,mad greens,miso tahini dressing light,0,g,0,mg,111,g,2,g,0,g,0,g,0,g,0,g,1,g
+269,mad greens,smokey cider vinaigrette heavy,18,g,0,mg,94,g,3,g,0,g,1,g,0,g,0,g,3,g
+270,mad greens,caesar dressing medium,10,g,7,mg,132,g,1,g,1,g,2,g,0,g,0,g,0,g
+271,mad greens,miso tahini dressing medium,0,g,0,mg,221,g,4,g,1,g,0,g,0,g,1,g,2,g
+272,mad greens,roasted red pepper vinaigrette light,2,g,0,mg,165,g,1,g,0,g,0,g,0,g,0,g,1,g
+273,mad greens,miso tahini dressing heavy,1,g,0,mg,332,g,6,g,1,g,0,g,0,g,1,g,3,g
+274,mad greens,fat free spicy yogurt dressing medium,0,g,0,mg,125,g,2,g,1,g,0,g,0,g,0,g,2,g
+275,mad greens,shallot tarragon vinaigrette heavy,18,g,0,mg,202,g,2,g,0,g,2,g,0,g,0,g,1,g
+276,mad greens,low fat ranch dressing medium,4,g,5,mg,157,g,2,g,0,g,1,g,0,g,0,g,1,g
+277,mad greens,fat free balsamic vinaigrette medium,0,g,0,mg,30,g,4,g,1,g,0,g,0,g,1,g,3,g
+278,mad greens,honey mustard dressing heavy,6,g,0,mg,238,g,9,g,1,g,0,g,0,g,0,g,9,g
+279,mad greens,balsamic vinaigrette light,4,g,3,mg,61,g,0,g,0,g,1,g,0,g,0,g,0,g
+280,mad greens,honey mint vinaigrette medium,11,g,0,mg,50,g,3,g,0,g,1,g,0,g,0,g,3,g
+281,mad greens,chimichurri vinaigrette heavy,16,g,0,mg,16,g,1,g,0,g,2,g,0,g,0,g,0,g
+282,mad greens,low fat ranch dressing light,2,g,2,mg,79,g,1,g,0,g,0,g,0,g,0,g,0,g
+283,mad greens,red wine vinaigrette heavy,18,g,0,mg,267,g,2,g,0,g,2,g,0,g,0,g,2,g
+284,mad greens,ginger soy dressing medium,3,g,0,mg,415,g,3,g,0,g,0,g,0,g,0,g,3,g
+285,mad greens,tabasco prickly pear vinaigrette light,5,g,0,mg,4,g,1,g,0,g,0,g,0,g,0,g,1,g
+286,mad greens,low fat caesar dressing light,2,g,3,mg,94,g,1,g,0,g,0,g,0,g,0,g,0,g
+287,mad greens,blue cheese dressing medium,9,g,6,mg,129,g,1,g,1,g,2,g,0,g,0,g,1,g
+288,mad greens,miso sesame vinaigrette medium,11,g,0,mg,117,g,1,g,0,g,1,g,0,g,0,g,1,g
+289,mad greens,ranch dressing heavy,15,g,8,mg,174,g,2,g,1,g,2,g,0,g,0,g,1,g
+290,mad greens,low fat caesar dressing medium,4,g,6,mg,188,g,1,g,1,g,1,g,0,g,0,g,1,g
+291,mad greens,shallot tarragon vinaigrette light,6,g,0,mg,67,g,1,g,0,g,1,g,0,g,0,g,0,g
+292,mad greens,spicy sriracha almond vinaigrette light,4,g,0,mg,22,g,1,g,0,g,0,g,0,g,0,g,1,g
+293,mad greens,honey mint vinaigrette heavy,16,g,0,mg,75,g,5,g,0,g,2,g,0,g,0,g,4,g
+294,mad greens,red wine vinaigrette light,6,g,0,mg,89,g,1,g,0,g,1,g,0,g,0,g,1,g
+295,mad greens,balsamic vinaigrette heavy,21,g,0,mg,207,g,2,g,0,g,3,g,0,g,0,g,2,g
+296,mad greens,caesar dressing heavy,15,g,10,mg,198,g,1,g,1,g,2,g,0,g,0,g,1,g
+297,mad greens,honey mustard dressing light,2,g,0,mg,79,g,3,g,0,g,0,g,0,g,0,g,3,g
+298,mad greens,creamy ginger dressing medium,11,g,5,mg,117,g,1,g,0,g,2,g,0,g,0,g,0,g
+299,mad greens,fat free spicy yogurt dressing light,0,g,0,mg,63,g,1,g,1,g,0,g,0,g,0,g,1,g
+300,mad greens,port wine vinaigrette light,5,g,0,mg,94,g,0,g,0,g,1,g,0,g,0,g,0,g
+301,mad greens,tabasco prickly pear vinaigrette heavy,15,g,0,mg,11,g,3,g,0,g,1,g,0,g,0,g,3,g
+302,mad greens,blue cheese dressing heavy,14,g,10,mg,193,g,2,g,1,g,3,g,0,g,0,g,1,g
+303,mad greens,low fat caesar dressing heavy,7,g,10,mg,282,g,2,g,1,g,1,g,0,g,0,g,1,g
+304,mad greens,ranch dressing light,5,g,3,mg,58,g,1,g,0,g,1,g,0,g,0,g,0,g
+305,mad greens,miso sesame vinaigrette light,6,g,0,mg,58,g,1,g,0,g,0,g,0,g,0,g,1,g
+306,mad greens,ranch dressing medium,10,g,5,mg,116,g,1,g,0,g,2,g,0,g,0,g,0,g
+307,mad greens,cilantro chili lime dressing light,4,g,3,mg,61,g,0,g,0,g,1,g,0,g,0,g,0,g
+308,mad greens,smokey cider vinaigrette light,6,g,0,mg,31,g,1,g,0,g,0,g,0,g,0,g,1,g
+309,mad greens,sherry molasses vinaigrette medium,12,g,0,mg,189,g,1,g,0,g,1,g,0,g,0,g,1,g
+310,mad greens,honey mustard dressing medium,4,g,0,mg,159,g,6,g,1,g,0,g,0,g,0,g,6,g
+311,mad greens,red wine vinaigrette medium,12,g,0,mg,178,g,1,g,0,g,1,g,0,g,0,g,1,g
+312,mad greens,horseradish ranch dressing medium,11,g,6,mg,123,g,1,g,0,g,2,g,0,g,0,g,1,g
+313,mad greens,spicy sriracha almond vinaigrette medium,7,g,0,mg,44,g,3,g,0,g,1,g,0,g,0,g,3,g
+314,mad greens,tabasco prickly pear vinaigrette medium,10,g,0,mg,7,g,2,g,0,g,1,g,0,g,0,g,2,g
+315,mad greens,caesar dressing light,5,g,3,mg,66,g,0,g,0,g,1,g,0,g,0,g,0,g
+316,mad greens,ty cobb salad big without dressing,32,g,269,mg,1229,g,15,g,50,g,8,g,0,g,8,g,5,g
+317,mad greens,mad caesar salad big without dressing,15,g,93,mg,678,g,37,g,44,g,5,g,0,g,8,g,5,g
+318,mad greens,don quixote salad big without dressing,22,g,171,mg,934,g,28,g,27,g,7,g,0,g,6,g,13,g
+319,mad greens,edgar allan poe salad regular without dressing,35,g,135,mg,993,g,36,g,43,g,12,g,0,g,6,g,25,g
+320,mad greens,siam i am salad regular without dressing,26,g,96,mg,791,g,48,g,53,g,2,g,0,g,8,g,4,g
+321,mad greens,pancho villa salad regular without dressing,29,g,72,mg,519,g,53,g,45,g,4,g,0,g,8,g,4,g
+322,mad greens,ty cobb salad regular without dressing,32,g,269,mg,1219,g,11,g,48,g,8,g,0,g,5,g,4,g
+323,mad greens,mighty aphrodite salad regular without dressing,27,g,112,mg,476,g,12,g,44,g,9,g,0,g,5,g,6,g
+324,mad greens,bonnie parker salad big without dressing,27,g,126,mg,571,g,38,g,47,g,5,g,0,g,8,g,25,g
+325,mad greens,pancho villa salad big without dressing,29,g,72,mg,532,g,55,g,46,g,4,g,0,g,9,g,5,g
+326,mad greens,edgar allan poe salad big without dressing,35,g,135,mg,1006,g,38,g,44,g,12,g,0,g,7,g,26,g
+327,mad greens,siam i am salad big without dressing,26,g,96,mg,856,g,57,g,58,g,2,g,0,g,11,g,6,g
+328,mad greens,crazy ivan salad regular without dressing,23,g,72,mg,505,g,40,g,44,g,5,g,0,g,5,g,8,g
+329,mad greens,don quixote salad regular without dressing,22,g,171,mg,921,g,26,g,26,g,7,g,0,g,5,g,12,g
+330,mad greens,mark twain salad regular without dressing,16,g,117,mg,996,g,74,g,46,g,9,g,0,g,5,g,8,g
+331,mad greens,mad molly brown salad regular without dressing,14,g,112,mg,712,g,8,g,39,g,8,g,0,g,2,g,5,g
+332,mad greens,mad molly brown salad big without dressing,14,g,112,mg,762,g,10,g,41,g,8,g,0,g,3,g,5,g
+333,mad greens,mad caesar salad regular without dressing,15,g,93,mg,668,g,33,g,42,g,5,g,0,g,5,g,4,g
+334,mad greens,da vinci salad big without dressing,5,g,0,mg,942,g,44,g,13,g,2,g,0,g,10,g,24,g
+335,mad greens,mighty aphrodite salad big without dressing,27,g,112,mg,489,g,14,g,45,g,9,g,0,g,6,g,7,g
+336,mad greens,dionysos salad big without dressing,24,g,117,mg,1359,g,16,g,37,g,9,g,0,g,6,g,7,g
+337,mad greens,olomomo salad big without dressing,32,g,117,mg,857,g,45,g,37,g,11,g,0,g,7,g,33,g
+338,mad greens,mark twain salad big without dressing,18,g,117,mg,998,g,139,g,58,g,9,g,0,g,9,g,9,g
+339,mad greens,crazy ivan salad big without dressing,23,g,72,mg,518,g,42,g,45,g,5,g,0,g,6,g,9,g
+340,mad greens,olomomo salad regular without dressing,32,g,117,mg,844,g,43,g,36,g,11,g,0,g,6,g,32,g
+341,mad greens,doc holliday salad regular without dressing,20,g,72,mg,163,g,21,g,37,g,4,g,0,g,4,g,14,g
+342,mad greens,da vinci salad regular without dressing,5,g,0,mg,929,g,42,g,12,g,2,g,0,g,9,g,23,g
+343,mad greens,dionysos salad regular without dressing,24,g,117,mg,1349,g,12,g,35,g,9,g,0,g,3,g,6,g
+344,mad greens,bonnie parker salad regular without dressing,27,g,126,mg,558,g,36,g,46,g,5,g,0,g,7,g,24,g
+345,mad greens,butch cassidy salad big without dressing,21,g,72,mg,198,g,22,g,32,g,3,g,0,g,6,g,16,g
+346,mad greens,doc holliday salad big without dressing,20,g,72,mg,176,g,23,g,38,g,4,g,0,g,5,g,15,g
+347,mad greens,butch cassidy salad regular without dressing,21,g,72,mg,185,g,20,g,31,g,3,g,0,g,5,g,15,g
+348,mad greens,annie oakley panini,33,g,137,mg,983,g,54,g,59,g,8,g,0,g,4,g,2,g
+349,mad greens,ty cobb wrap without dressing,37,g,198,mg,1307,g,59,g,30,g,10,g,0,g,9,g,7,g
+350,mad greens,edgar allan poe wrap without dressing,35,g,23,mg,839,g,72,g,20,g,11,g,0,g,11,g,16,g
+351,mad greens,mad cuban panini,19,g,137,mg,1108,g,61,g,58,g,5,g,0,g,3,g,11,g
+352,mad greens,crazy ivan wrap without dressing,28,g,0,mg,770,g,88,g,27,g,7,g,0,g,10,g,11,g
+353,mad greens,bollywood wrap without dressing,11,g,72,mg,716,g,54,g,36,g,3,g,0,g,7,g,6,g
+354,mad greens,mad caesar wrap without dressing,20,g,18,mg,792,g,81,g,23,g,8,g,0,g,9,g,7,g
+355,mad greens,mark twain wrap without dressing,20,g,45,mg,1263,g,99,g,25,g,11,g,0,g,9,g,10,g
+356,mad greens,mona lisa panini,24,g,48,mg,752,g,54,g,25,g,10,g,0,g,3,g,6,g
+357,mad greens,mad molly brown wrap without dressing,19,g,40,mg,764,g,56,g,21,g,10,g,0,g,6,g,7,g
+358,mad greens,da vinci wrap without dressing,8,g,0,mg,1085,g,72,g,17,g,3,g,0,g,11,g,11,g
+359,mad greens,albert es blt wrap without dressing,48,g,111,mg,1701,g,56,g,46,g,11,g,0,g,7,g,6,g
+360,mad greens,olomomo wrap without dressing,23,g,45,mg,989,g,86,g,18,g,11,g,0,g,10,g,31,g
+361,mad greens,dionysos wrap without dressing,29,g,53,mg,1631,g,60,g,20,g,11,g,0,g,7,g,9,g
+362,mad greens,siam i am wrap without dressing,30,g,8,mg,1504,g,77,g,24,g,4,g,0,g,10,g,11,g
+363,mad greens,doc holliday wrap without dressing,12,g,0,mg,424,g,72,g,13,g,3,g,0,g,8,g,20,g
+364,mad greens,hummus trio without pita bread,7,g,0,mg,474,g,13,g,4,g,0,g,0,g,4,g,3,g
+365,mad greens,warm pita bread,3,g,0,mg,491,g,40,g,8,g,1,g,0,g,2,g,3,g
+366,mad greens,fruit salad,0,g,0,mg,11,g,116,g,1,g,0,g,0,g,14,g,90,g
+367,mad greens,roasted garlic hummus without pita bread,3,g,0,mg,150,g,4,g,1,g,0,g,0,g,1,g,1,g
+368,mad greens,spicy avocado hummus without pita bread,2,g,0,mg,169,g,5,g,2,g,0,g,0,g,2,g,1,g
+369,mad greens,roasted beet hummus without pita bread,2,g,0,mg,155,g,4,g,1,g,0,g,0,g,1,g,1,g
+370,mad greens,colorado green chili soup,5,g,20,mg,1540,g,16,g,8,g,0,g,0,g,2,g,4,g
+371,mad greens,organic split pea and kale soup,3,g,0,mg,980,g,52,g,20,g,0,g,0,g,20,g,8,g
+372,mad greens,loaded potato soup,16,g,55,mg,660,g,20,g,14,g,10,g,0,g,2,g,2,g
+373,mad greens,hearty vegetable soup,3.5,g,0,mg,670,g,15,g,3,g,0.5,g,0,g,5,g,7,g
+374,mad greens,chicken tortilla soup,10,g,40,mg,1360,g,28,g,20,g,3,g,0,g,10,g,8,g
+375,mad greens,three bean chili soup,3,g,0,mg,380,g,31,g,9,g,0,g,0,g,11,g,10,g
+376,maggie moos,coke float regular,23,g,90,mg,190,g,85,g,6,g,16,g,0,g,0,g,72,g
+377,maggie moos,cotton candy shake regular,56,g,215,mg,360,g,103,g,13,g,37,g,1.5,g,1,g,83,g
+378,maggie moos,strawberry malt shake small,38,g,145,mg,240,g,74,g,10,g,25,g,0,g,1,g,51,g
+379,maggie moos,chocolate malt shake,42,g,155,mg,410,g,84,g,12,g,27,g,0,g,3,g,57,g
+380,maggie moos,vanilla shake regular,55,g,225,mg,200,g,89,g,13,g,40,g,0,g,0,g,75,g
+381,maggie moos,snickers shake small,52,g,160,mg,350,g,108,g,14,g,32,g,0,g,1,g,77,g
+382,maggie moos,cotton candy shake small,42,g,160,mg,260,g,77,g,9,g,28,g,1,g,1,g,62,g
+383,maggie moos,vanilla malt shake,54,g,225,mg,250,g,98,g,15,g,39,g,0,g,0,g,80,g
+384,maggie moos,coke float small,12,g,45,mg,105,g,49,g,3,g,8,g,0,g,0,g,42,g
+385,maggie moos,strawberry shake regular,49,g,200,mg,190,g,98,g,12,g,35,g,0,g,1,g,85,g
+386,maggie moos,strawberry malt shake regular,49,g,185,mg,330,g,97,g,13,g,32,g,0,g,1,g,66,g
+387,maggie moos,cookies n cream shake regular,71,g,215,mg,650,g,141,g,16,g,42,g,1,g,2,g,89,g
+388,maggie moos,coffee shake,42,g,175,mg,150,g,74,g,10,g,30,g,0,g,0,g,64,g
+389,maggie moos,chocolate shake regular,53,g,210,mg,200,g,94,g,18,g,40,g,0,g,11,g,70,g
+390,maggie moos,snickers shake regular,70,g,215,mg,470,g,143,g,18,g,42,g,0,g,2,g,102,g
+391,maggie moos,strawberry shake small,38,g,160,mg,140,g,77,g,9,g,28,g,0,g,1,g,67,g
+392,maggie moos,chocolate shake small,42,g,155,mg,410,g,84,g,12,g,27,g,0,g,3,g,57,g
+393,maggie moos,cookies n cream ice cream cake,23.9,g,53,mg,220,g,52.5,g,4.8,g,14.3,g,1.9,g,1,g,34.4,g
+394,maggie moos,strawberry banana smoothie,6,g,10,mg,130,g,60,g,8,g,3.5,g,0,g,2,g,48,g
+395,maggie moos,birthday cake ice cream,11.5,g,43,mg,115,g,24,g,2.5,g,7.5,g,0,g,0,g,15,g
+396,maggie moos,maggies mud ice cream cake,28,g,55,mg,250,g,55,g,8,g,17,g,0,g,2,g,41,g
+397,maggie moos,turtle ice cream cake,42,g,55,mg,160,g,65,g,8,g,17,g,0,g,3,g,44,g
+398,maggie moos,cotton candy carnival ice cream cake,27.3,g,66,mg,126,g,68.8,g,6.1,g,18.2,g,0,g,1,g,51.6,g
+399,maggie moos,basic ice cream pizza,27,g,80,mg,190,g,56,g,7,g,12,g,0,g,0,g,40,g
+400,maggie moos,supreme ice cream pizza,24,g,65,mg,135,g,53,g,6,g,14,g,0,g,1,g,39,g
+401,maggie moos,forest berries yogurt,2.5,g,5,mg,63,g,21,g,3.5,g,1.8,g,0,g,0,g,15,g
+402,maggie moos,raspberry smoothie,3,g,5,mg,80,g,61,g,4,g,2,g,0,g,2,g,49,g
+403,maggie moos,sprinkle ice cream cake,20,g,50,mg,95,g,52,g,4,g,14,g,0.5,g,0,g,38,g
+404,maggie moos,chocolate heaven ice cream cake,24,g,55,mg,170,g,48,g,6,g,17,g,0,g,2,g,35,g
+405,maggie moos,vanilla shake,42,g,170,mg,150,g,68,g,10,g,31,g,0,g,0,g,57,g
+406,maggie moos,cookies n cream shake small,53,g,160,mg,490,g,106,g,12,g,31,g,1,g,2,g,67,g
+407,maggie moos,vanilla yogurt,3,g,5,mg,65,g,18.5,g,3.5,g,2,g,0,g,0,g,16,g
+408,maggie moos,caramel drizzle ice cream cake,38,g,65,mg,200,g,67,g,7,g,20,g,0,g,2,g,50,g
+409,maggie moos,vanilla malt shake small,43,g,180,mg,180,g,75,g,11,g,31,g,0,g,0,g,63,g
+410,maggie moos,pecan perfection ice cream cake,36,g,55,mg,170,g,54,g,7,g,16,g,0,g,3,g,37,g
+411,maggie moos,chocolate lovers ice cream pizza,21,g,65,mg,105,g,45,g,6,g,13,g,0,g,1,g,33,g
+412,maggie moos,strawberry smoothie,6,g,10,mg,130,g,56,g,8,g,4,g,0,g,2,g,46,g
+413,maggie moos,snowcap blush ice cream cupcake,18,g,45,mg,45,g,45,g,4,g,13,g,1,g,1,g,36,g
+414,maggie moos,chocolate ice cream,11.5,g,43,mg,120,g,22,g,3,g,7.5,g,0,g,1,g,15,g
+415,maggie moos,vanilla ice cream,11.5,g,45,mg,70,g,19.5,g,2.5,g,7.5,g,0,g,0,g,13,g
+416,maggie moos,butter pecan ice cream,10.5,g,43,mg,95,g,22,g,2.5,g,7,g,0,g,0,g,16,g
+417,maggie moos,better batter cake carnival ice cream,11.3,g,39,mg,69,g,41,g,3,g,7.4,g,0,g,0,g,26.1,g
+418,maggie moos,cotton candy ski jump ice cream,15.6,g,50,mg,105,g,43.2,g,4,g,10,g,0,g,0,g,31.6,g
+419,maggie moos,cappuccino ice cream,1.3,g,5,mg,8,g,2.3,g,0.3,g,0.9,g,0,g,0,g,1.5,g
+420,maggie moos,white chocolate waffle cone only with sprinkles waffle,7,g,10,mg,15,g,34,g,2,g,5,g,0,g,0,g,22,g
+421,maggie moos,sweet cream ice cream,12,g,45,mg,70,g,19.5,g,2.5,g,8,g,0,g,0,g,13,g
+422,maggie moos,dark chocolate ice cream,11.5,g,43,mg,105,g,21.5,g,3,g,7.5,g,0,g,1,g,14,g
+423,maggie moos,better batter boogie board ice cream,17.4,g,55,mg,116,g,49.1,g,4.8,g,9.5,g,0,g,0.5,g,34.3,g
+424,maggie moos,cheesecake ice cream,11,g,43,mg,65,g,21.5,g,2.5,g,7,g,0,g,0,g,14.5,g
+425,maggie moos,pina colada ice cream,10.5,g,43,mg,65,g,19,g,2.5,g,7,g,0,g,0,g,13,g
+426,maggie moos,caramel ice cream,11.5,g,45,mg,70,g,20.5,g,2.5,g,7.5,g,0,g,0,g,14,g
+427,maggie moos,peanut butter galaxy ice cream,29.4,g,44,mg,289,g,44.3,g,11.3,g,13.4,g,0,g,3.1,g,31.4,g
+428,maggie moos,coffee ice cream,11.5,g,45,mg,70,g,19,g,2.5,g,7.5,g,0,g,0,g,13,g
+429,maggie moos,red velvet cake ice cream,10.5,g,38,mg,145,g,26,g,3,g,7,g,0,g,0.5,g,16.5,g
+430,maggie moos,vanilla cookie dough yo yo ice cream,19.1,g,46,mg,185,g,51,g,4.6,g,10.3,g,2.1,g,1,g,33,g
+431,maggie moos,chocolate banana ice cream,10.5,g,40,mg,105,g,21.5,g,3,g,7,g,0,g,1,g,14,g
+432,maggie moos,strawberry ice cream,10.5,g,40,mg,65,g,19,g,2.5,g,7,g,0,g,0,g,13,g
+433,maggie moos,cool mint ice cream,11.5,g,45,mg,70,g,19.5,g,2.5,g,8,g,0,g,0,g,13,g
+434,maggie moos,cookie dough drizzle ice cream,19.1,g,44,mg,180,g,55.6,g,5.2,g,9.8,g,1.3,g,1,g,35,g
+435,maggie moos,banana ice cream,10,g,40,mg,35,g,19,g,2.5,g,7,g,0,g,0.5,g,16,g
+436,maggie moos,strawberry skydive ice cream,15.8,g,42,mg,164,g,47,g,4.2,g,9,g,0,g,1.6,g,32.2,g
+437,maggie moos,vanilla bean ice cream,11.5,g,45,mg,70,g,19.5,g,2.5,g,7.5,g,0,g,0,g,13,g
+438,maggie moos,blue cotton candy ice cream,12,g,45,mg,70,g,20,g,3,g,8,g,0,g,0,g,13,g
+439,maggie moos,cinamoo bun ice cream,11,g,43,mg,65,g,22.5,g,2.5,g,7.5,g,0,g,0,g,14.5,g
+440,maggie moos,butter pecan port of call ice cream,27.8,g,44,mg,144,g,45.9,g,5.2,g,11.9,g,0,g,2.6,g,30.9,g
+441,maggie moos,cinnamon ice cream,11.5,g,45,mg,70,g,20,g,2.5,g,8,g,0,g,0.5,g,13,g
+442,maggie moos,pistachio ice cream,11.5,g,45,mg,70,g,20,g,2.5,g,8,g,0,g,0,g,13,g
+443,maggie moos,cookies and cake ice cream,16.9,g,40,mg,159,g,43.8,g,4,g,8.5,g,1.2,g,0.5,g,25.9,g
+444,maggie moos,black cherry ice cream,11.5,g,45,mg,70,g,20,g,2.5,g,7.5,g,0,g,0,g,13.5,g
+445,maggie moos,key lime ice cream,9,g,35,mg,55,g,27,g,2,g,6,g,0,g,0,g,20.5,g
+446,maggie moos,chocolate raspberry ice cream,10.5,g,40,mg,110,g,23,g,2.5,g,7,g,0,g,0.5,g,16,g
+447,maggie moos,chocolate peanut butter ice cream,12.5,g,40,mg,130,g,22,g,4,g,7.5,g,0,g,1,g,14.5,g
+448,maggie moos,french vanilla ice cream,11,g,45,mg,45,g,21,g,3,g,8,g,0,g,0,g,19,g
+449,maggie moos,chocolate mint ice cream,11.5,g,43,mg,120,g,22,g,3,g,7.5,g,0,g,1,g,15,g
+450,maggie moos,peanut butter ice cream,14.5,g,43,mg,100,g,19.5,g,4,g,8,g,0,g,0.5,g,12.5,g
+451,maggie moos,carrot cake ice cream,11,g,40,mg,110,g,25,g,3,g,7,g,0,g,0,g,15.5,g
+452,maggie moos,rum ice cream,11.5,g,45,mg,85,g,20,g,3,g,7.5,g,0,g,0,g,13.5,g
+453,maggie moos,peanut butter banana ice cream,19.9,g,61,mg,130,g,29.8,g,5.4,g,11.5,g,0,g,0.8,g,19.1,g
+454,maggie moos,sweet orange sorbet,0,g,0,mg,9,g,24.5,g,0,g,0,g,0,g,0.5,g,21.5,g
+455,maggie moos,cherry vanilla vacation ice cream,16.9,g,61,mg,159,g,46.1,g,4.8,g,9.5,g,0,g,0,g,31.2,g
+456,maggie moos,banana pudding ice cream,10,g,35,mg,75,g,22.5,g,2.5,g,6,g,0,g,0.5,g,14,g
+457,maggie moos,snickerdoodle ice cream,16.4,g,49,mg,149,g,41.5,g,4.6,g,9.7,g,0,g,0.5,g,28.2,g
+458,maggie moos,white chocolate ice cream,11.5,g,43,mg,100,g,22,g,2.5,g,7.5,g,0,g,0,g,16,g
+459,maggie moos,raspberry sorbet,0,g,0,mg,9,g,25,g,0,g,0,g,0,g,0.5,g,20.5,g
+460,maggie moos,coconut ice cream,11.5,g,45,mg,70,g,19,g,2.5,g,7.5,g,0,g,0,g,13,g
+461,maggie moos,chocolate amaretto ice cream,11.5,g,43,mg,100,g,21,g,3,g,7.5,g,0,g,0.5,g,14,g
+462,maggie moos,black walnut ice cream,11.5,g,45,mg,70,g,20,g,2.5,g,7.5,g,0,g,0,g,13.5,g
+463,maggie moos,praline ice cream,10.5,g,40,mg,100,g,26.5,g,2.5,g,7,g,0,g,0,g,17,g
+464,maggie moos,peach ice cream,10.5,g,43,mg,115,g,22,g,2.5,g,7,g,0,g,4,g,16,g
+465,maggie moos,rainbow nanza ice cream,16,g,49,mg,88,g,38.1,g,3.6,g,10.3,g,0,g,0.5,g,28.9,g
+466,maggie moos,chocolate 2 the xtreme ice cream,169,g,433,mg,1473,g,446.2,g,47.7,g,108.3,g,0,g,21.7,g,311.9,g
+467,maggie moos,peppermint ice cream,11.5,g,43,mg,70,g,22,g,2.5,g,8,g,0,g,0,g,17.5,g
+468,maggie moos,caramel fudge swirlpool ice cream,17.4,g,49,mg,123,g,40,g,4.6,g,10.3,g,0,g,1,g,28.7,g
+469,maggie moos,chocolate fudge yogurt,3,g,5,mg,160,g,24,g,4.5,g,2,g,0,g,1.5,g,19,g
+470,maggie moos,strawberry bubble gum ice cream,11.5,g,45,mg,70,g,20,g,2.5,g,7.5,g,0,g,0,g,13,g
+471,maggie moos,double dark chocolate ice cream,11,g,40,mg,80,g,22.5,g,3,g,7.5,g,0,g,1,g,15,g
+472,maggie moos,blueberry ice cream,10.5,g,40,mg,65,g,20.5,g,2.5,g,7,g,0,g,0.5,g,14.5,g
+473,maggie moos,pumpkin pie ice cream,9.5,g,38,mg,80,g,19.5,g,2.5,g,6.5,g,0,g,0.5,g,14,g
+474,maggie moos,amaretto ice cream,12,g,45,mg,70,g,20,g,3,g,8,g,0,g,0,g,13,g
+475,maggie moos,egg nog ice cream,10.5,g,43,mg,65,g,24.5,g,2.5,g,7,g,0,g,0,g,16,g
+476,maggie moos,chocolate mallo ice cream,10,g,38,mg,100,g,21.5,g,2.5,g,6.5,g,0,g,0.5,g,15,g
+477,maggie moos,chocolate rum ice cream,11,g,43,mg,90,g,22,g,2.5,g,7,g,0,g,0.5,g,16,g
+478,maggie moos,strawberry cotton candy ice cream,10.5,g,40,mg,70,g,22.5,g,2.5,g,7,g,0,g,0,g,15,g
+479,maggie moos,smore ice cream,17.4,g,40,mg,164,g,47.3,g,4.5,g,10.5,g,0,g,2,g,29.4,g
+480,maggie moos,raspberry ice cream,10.5,g,40,mg,75,g,21.5,g,2.5,g,7,g,0,g,0,g,17.5,g
+481,maggie moos,vanilla cinnamon ice cream,11.5,g,45,mg,68,g,20,g,3,g,8,g,0,g,0,g,13,g
+482,maggie moos,birthday cake yogurt,3,g,5,mg,58,g,24.5,g,4,g,2,g,0,g,0,g,18.5,g
+483,maggie moos,mango sorbet,0,g,0,mg,0,g,25.5,g,0,g,0,g,0,g,0,g,15.5,g
+484,maggie moos,pumpkin cheesecake ice cream,9,g,35,mg,80,g,20.5,g,2.5,g,6,g,0,g,0.5,g,14.5,g
+485,maggie moos,fudge ice cream,11,g,38,mg,70,g,26,g,2.5,g,7,g,0,g,0.5,g,18.5,g
+486,maggie moos,birthday bonanza ice cream,11.4,g,40,mg,70,g,41.3,g,3,g,7.5,g,0,g,0,g,26.4,g
+487,maggie moos,chocolate birthday cake ice cream,11,g,40,mg,100,g,26,g,3.5,g,7,g,0,g,0.5,g,16.5,g
+488,maggie moos,mocha ice cream,11.5,g,43,mg,110,g,21.5,g,3,g,7.5,g,0,g,0.5,g,14.5,g
+489,maggie moos,chocolate swiss ice cream,10.5,g,40,mg,90,g,22.5,g,2.5,g,7,g,0,g,0.5,g,16,g
+490,maggie moos,grapefruit sorbet,0,g,0,mg,7,g,24.5,g,0,g,0,g,0,g,0.5,g,24,g
+491,maggie moos,very yellow marshmallow ice cream,10,g,40,mg,70,g,19.5,g,2,g,6.5,g,0,g,0,g,18.5,g
+492,maggie moos,mango ice cream,11.5,g,45,mg,70,g,19.5,g,2.5,g,7.5,g,0,g,0,g,13,g
+493,maggie moos,watermelon sorbet,0,g,0,mg,8,g,24.5,g,0,g,0,g,0,g,0,g,16.5,g
+494,maggie moos,greek 9 original crust pizza,11,g,20,mg,390,g,20,g,8,g,3.5,g,0,g,1,g,1,g
+495,maggie moos,strawberry shortcake ice cream cake,27,g,90,mg,440,g,70,g,8,g,15,g,1,g,1,g,47,g
+496,maggie moos,fudge brownie delight sundae,41,g,140,mg,210,g,84,g,10,g,24,g,0,g,0,g,66,g
+497,maggie moos,banana split sundae,731,g,1753,mg,2504,g,1532.2,g,210.3,g,400.6,g,0,g,110.2,g,1071.5,g
+498,maggie moos,cookie jar chaos ice cream cake,27,g,65,mg,200,g,66,g,6,g,16,g,1.5,g,1,g,42,g
+499,maggie moos,birthday cake cookie fudge ice cream cake,25.9,g,53,mg,182,g,63.3,g,4.8,g,17.3,g,1,g,1,g,44.1,g
+500,maggie moos,sprinkle ice cream cupcake,18,g,50,mg,50,g,42,g,4,g,13,g,0,g,0,g,34,g
+501,maggie moos,ho ho ho ice cream cupcake,18,g,45,mg,50,g,54,g,3,g,8,g,2,g,0,g,47,g
+502,maggie moos,peanut butter chocolate overload ice cream cake,31,g,65,mg,200,g,70,g,9,g,19,g,1,g,2,g,50,g
+503,maggie moos,oreo cookie slabwiche,19,g,55,mg,290,g,46,g,6,g,10,g,0,g,1,g,24,g
+504,maggie moos,fathers day argyle ice cream cake,24,g,55,mg,115,g,47,g,5,g,17,g,0,g,0,g,37,g
+505,maggie moos,mint chocolate melt down ice cream cake,28,g,55,mg,110,g,57,g,6,g,22,g,0,g,1,g,40,g
+506,maggie moos,mocha cappuccino fudge ice cream cake,23,g,65,mg,110,g,49,g,5,g,16,g,0,g,1,g,33,g
+507,maggie moos,chocolate rocky road brownie ice cream cake,25.4,g,71,mg,91,g,63,g,7.1,g,17.3,g,0,g,3,g,47.8,g
+508,maggie moos,gummy graveyard ice cream cupcake,19,g,50,mg,160,g,57,g,5,g,10,g,0,g,1,g,34,g
+509,maggie moos,cherry chocolate ice cream cupcake,13,g,50,mg,70,g,39,g,5,g,8,g,0,g,1,g,21,g
+510,maggie moos,scratch batter ice cream cone dipped and rolled in dark butterfinger,8,g,5,mg,35,g,23,g,2,g,6,g,0,g,1,g,9,g
+511,maggie moos,basketball ice cream cupcake,17,g,45,mg,80,g,44,g,4,g,12,g,1,g,0,g,33,g
+512,maggie moos,jack o lantern ice cream cupcake,14,g,45,mg,75,g,36,g,4,g,10,g,0,g,1,g,28,g
+513,maggie moos,cotton candy carnival ice cream cupcake,18,g,50,mg,50,g,41,g,4,g,13,g,1,g,0,g,32,g
+514,maggie moos,mothers day polka dot ice cream cake,23,g,70,mg,270,g,48,g,6,g,15,g,0,g,1,g,34,g
+515,maggie moos,pink flower ice cream cupcake,21,g,45,mg,90,g,46,g,4,g,16,g,1,g,2,g,35,g
+516,maggie moos,golden malted cone dipped in white dark chocolate average,6,g,0,mg,10,g,15,g,1,g,5,g,0,g,0,g,3,g
+517,maggie moos,golden malted ice cream bowl dipped in white chocolate,7,g,5,mg,10,g,22,g,1,g,5,g,0,g,0,g,6,g
+518,maggie moos,scratch batter ice cream cone dipped in dark chocolate,6,g,5,mg,0,g,13,g,1,g,5,g,0,g,1,g,3,g
+519,maggie moos,golden malted ice cream cone dipped and rolled in dark butterfinger,9,g,0,mg,35,g,25,g,2,g,6,g,0,g,1,g,10,g
+520,maggie moos,golden malted ice cream cone dipped and rolled in white sprinkles,9,g,0,mg,10,g,26,g,1,g,6,g,1,g,0,g,9,g
+521,maggie moos,heart ice cream cupcakes,23,g,40,mg,70,g,53,g,4,g,19,g,1,g,1,g,42,g
+522,maggie moos,scratch batter ice cream bowl dipped and rolled in dark butterfinger,9,g,5,mg,40,g,29,g,2,g,6,g,0,g,1,g,12,g
+523,maggie moos,scratch batter ice cream bowl,2,g,5,mg,0,g,12,g,1,g,0,g,0,g,0,g,5,g
+524,maggie moos,scratch batter ice cream cone dipped and rolled in dark nuts,13,g,5,mg,5,g,16,g,5,g,6,g,0,g,2,g,3,g
+525,maggie moos,golden malted ice cream bowl dipped and rolled in dark butterfinger,10,g,5,mg,40,g,31,g,2,g,7,g,0,g,1,g,13,g
+526,maggie moos,golden malted ice cream cone dipped and rolled in dark butterfinger,10,g,5,mg,40,g,31,g,2,g,7,g,0,g,1,g,13,g
+527,maggie moos,golden malted ice cream cone dipped in dark chocolate,7,g,5,mg,0,g,21,g,1,g,5,g,0,g,1,g,6,g
+528,maggie moos,golden malted ice cream cone dipped and rolled in dark nuts,14,g,5,mg,5,g,24,g,5,g,6,g,0,g,2,g,7,g
+529,maggie moos,mummy ice cream cake,13,g,50,mg,40,g,30,g,4,g,9,g,0,g,0,g,23,g
+530,maggie moos,sunflower ice cream cupcake,26,g,50,mg,110,g,53,g,5,g,20,g,1,g,1,g,40,g
+531,maggie moos,golden malted ice cream bowl,2,g,5,mg,0,g,14,g,1,g,0,g,0,g,0,g,6,g
+532,maggie moos,classic caramel sundae,30,g,115,mg,160,g,62,g,8,g,21,g,0,g,1,g,48,g
+533,maggie moos,scratch batter ice cream bowl dipped and rolled in white sprinkles,9,g,5,mg,10,g,31,g,1,g,6,g,1,g,0,g,11,g
+534,maggie moos,golden malted ice cream cone dipped and rolled in dark heath bar,11,g,5,mg,40,g,30,g,2,g,7,g,0,g,1,g,15,g
+535,maggie moos,scratch batter ice cream bowl dipped and rolled in dark heath bar,11,g,10,mg,55,g,28,g,2,g,8,g,0,g,1,g,14,g
+536,maggie moos,golden malted ice cream bowl dipped and rolled in white sprinkles,9,g,5,mg,10,g,33,g,1,g,6,g,1,g,0,g,12,g
+537,maggie moos,scratch batter ice cream cone dipped in white chocolate,6,g,5,mg,10,g,14,g,1,g,5,g,0,g,0,g,3,g
+538,maggie moos,strawberry short cake sundae,31,g,105,mg,150,g,72,g,8,g,20,g,1,g,0,g,46,g
+539,maggie moos,golden malted ice cream bowl dipped and rolled in dark heath bar,11,g,5,mg,40,g,30,g,2,g,7,g,0,g,1,g,15,g
+540,maggie moos,scratch batter ice cream cone,0.5,g,5,mg,0,g,6,g,1,g,0,g,0,g,0,g,3,g
+541,maggie moos,golden malted ice cream cone dipped in white chocolate,7,g,5,mg,10,g,22,g,1,g,5,g,0,g,0,g,6,g
+542,maggie moos,snickers snackers snuckers ice cream cake,26,g,50,mg,160,g,76,g,7,g,16,g,1,g,1,g,51,g
+543,maggie moos,frankenstein ice cream cupcake,15,g,45,mg,80,g,35,g,4,g,11,g,0,g,1,g,27,g
+544,maggie moos,golden malted ice cream cone dipped and rolled in white sprinkles,9,g,5,mg,10,g,33,g,1,g,6,g,1,g,0,g,12,g
+545,maggie moos,chocolate heaven ice cream cupcake,18,g,45,mg,100,g,41,g,5,g,13,g,0,g,1,g,32,g
+546,maggie moos,savanah banana fudge ice cream cake,31,g,60,mg,220,g,67,g,6,g,21,g,1,g,2,g,40,g
+547,maggie moos,scratch batter ice cream cone dipped and rolled in white sprinkles,8,g,5,mg,10,g,25,g,1,g,6,g,1,g,0,g,9,g
+548,maggie moos,football ice cream cupcake,17,g,45,mg,80,g,44,g,4,g,12,g,1,g,0,g,33,g
+549,maggie moos,gift ice cream cake,23,g,68,mg,64,g,41,g,4,g,15,g,0,g,1,g,32,g
+550,maggie moos,golden malted ice cream bowl dipped and rolled in dark nuts,14,g,5,mg,5,g,24,g,5,g,6,g,0,g,2,g,7,g
+551,maggie moos,scratch batter ice cream cone dipped and rolled in dark heath bar,10,g,5,mg,40,g,22,g,2,g,7,g,0,g,1,g,11,g
+552,maggie moos,birthday ice cream cupcake,21,g,45,mg,90,g,57,g,5,g,15,g,1,g,1,g,45,g
+553,maggie moos,carrot ice cream cupcake,24,g,45,mg,100,g,50,g,4,g,19,g,1,g,0,g,40,g
+554,maggie moos,scratch batter ice cream bowl dipped in white chocolate,6,g,5,mg,10,g,20,g,1,g,5,g,0,g,0,g,5,g
+555,maggie moos,golden malted ice cream cone dipped and rolled in dark nuts,20,g,0,mg,0,g,26.1,g,7.7,g,9.2,g,0,g,3.1,g,6.1,g
+556,maggie moos,graduation cap ice cream cake,29,g,75,mg,360,g,62,g,8,g,17,g,0.5,g,1,g,44,g
+557,maggie moos,golden malted ice cream cone dipped and rolled in dark heath bar,11,g,5,mg,55,g,23,g,1,g,8,g,0,g,1,g,12,g
+558,maggie moos,golden malted ice cream bowl dipped in dark chocolate,7,g,5,mg,0,g,21,g,1,g,5,g,0,g,1,g,6,g
+559,maggie moos,scratch batter ice cream bowl dipped and rolled in dark nuts,13,g,5,mg,10,g,22,g,5,g,6,g,0,g,2,g,6,g
+560,maggie moos,classic fudge sundae,31,g,110,mg,105,g,59,g,8,g,21,g,0,g,1,g,48,g
+561,maggie moos,cool swirl ice cream cupcake,19,g,45,mg,50,g,47,g,4,g,14,g,1,g,0,g,36,g
+562,maggie moos,eyeball ice cream cupcake,13,g,50,mg,55,g,31,g,4,g,8,g,0,g,0,g,23,g
+563,maggie moos,scratch batter ice cream bowl dipped in dark chocolate,6,g,5,mg,5,g,19,g,2,g,5,g,0,g,1,g,5,g
+564,maggie moos,raving craving sprinkle cones ice cream cake,27,g,65,mg,200,g,66,g,6,g,16,g,1.5,g,1,g,42,g
+565,maggie moos,golden malted ice cream cone,1,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,3,g
+566,maggie moos,visit to the candy shoppe ice cream cake,28,g,95,mg,450,g,87,g,8,g,15,g,0.5,g,1,g,57,g
+567,maggie moos,almonds,4,g,0,mg,0,g,2,g,2,g,0,g,0,g,1,g,0,g
+568,maggie moos,amaretto best value,48,g,180,mg,280,g,80,g,12,g,32,g,0,g,0,g,52,g
+569,maggie moos,amaretto child,12,g,45,mg,70,g,20,g,3,g,8,g,0,g,0,g,13,g
+570,maggie moos,amaretto pint,13,g,50,mg,75,g,22,g,3,g,9,g,0,g,0,g,14,g
+571,maggie moos,amaretto quart,13,g,50,mg,75,g,22,g,3,g,9,g,0,g,0,g,14,g
+572,maggie moos,amaretto regular,34,g,125,mg,200,g,66,g,9,g,23,g,0,g,0,g,37,g
+573,maggie moos,amaretto small,24,g,90,mg,140,g,40,g,6,g,16,g,0,g,0,g,26,g
+574,maggie moos,andes candies,5,g,0,mg,10,g,8,g,0,g,4,g,0,g,0,g,7,g
+575,maggie moos,banana pudding best value,39,g,140,mg,290,g,89,g,9,g,24,g,0,g,2,g,56,g
+576,maggie moos,banana pudding child,10,g,35,mg,75,g,22,g,3,g,6,g,0,g,1,g,14,g
+577,maggie moos,banana pudding pint,11,g,35,mg,80,g,24,g,3,g,7,g,0,g,1,g,15,g
+578,maggie moos,banana pudding quart,11,g,35,mg,80,g,24,g,3,g,7,g,0,g,1,g,15,g
+579,maggie moos,banana pudding regular,30,g,105,mg,220,g,67,g,8,g,18,g,0,g,2,g,42,g
+580,maggie moos,banana pudding small,20,g,70,mg,150,g,45,g,5,g,12,g,0,g,1,g,28,g
+581,maggie moos,banana split,73,g,175,mg,250,g,153,g,21,g,40,g,0,g,11,g,107,g
+582,maggie moos,banana best value,39,g,150,mg,240,g,78,g,9,g,26,g,0,g,2,g,50,g
+583,maggie moos,banana child,10,g,35,mg,60,g,20,g,3,g,7,g,0,g,0,g,13,g
+584,maggie moos,banana pint,11,g,40,mg,65,g,22,g,3,g,7,g,0,g,0,g,14,g
+585,maggie moos,banana quart,11,g,40,mg,65,g,22,g,3,g,7,g,0,g,0,g,14,g
+586,maggie moos,banana regular,30,g,110,mg,170,g,60,g,7,g,20,g,0,g,1,g,38,g
+587,maggie moos,banana small,20,g,80,mg,70,g,38,g,5,g,14,g,0,g,1,g,32,g
+588,maggie moos,bananas fresh,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,2,g
+589,maggie moos,basic pizza basic pizza,27,g,80,mg,190,g,56,g,7,g,12,g,0,g,0,g,40,g
+590,maggie moos,basketball cupcake,17,g,45,mg,80,g,44,g,4,g,12,g,1,g,0,g,33,g
+591,maggie moos,better batter boogie board best value,64,g,205,mg,420,g,178,g,18,g,35,g,1,g,2,g,124,g
+592,maggie moos,better batter boogie board child,18,g,55,mg,120,g,51,g,5,g,9,g,0,g,0,g,35,g
+593,maggie moos,better batter boogie board regular,49,g,155,mg,320,g,136,g,14,g,26,g,0.5,g,1,g,94,g
+594,maggie moos,better batter boogie board small,33,g,105,mg,220,g,93,g,9,g,18,g,0,g,1,g,65,g
+595,maggie moos,better batter cake carnival best value,75,g,170,mg,510,g,210,g,19,g,46,g,5,g,3,g,139,g
+596,maggie moos,better batter cake carnival child,19,g,45,mg,130,g,55,g,5,g,12,g,1,g,1,g,37,g
+597,maggie moos,better batter cake carnival regular,57,g,130,mg,380,g,158,g,14,g,35,g,3.5,g,2,g,105,g
+598,maggie moos,better batter cake carnival small,38,g,85,mg,260,g,107,g,10,g,23,g,2.5,g,1,g,71,g
+599,maggie moos,birthday bonanza best value,46,g,165,mg,280,g,166,g,12,g,30,g,0.5,g,0,g,106,g
+600,maggie moos,birthday bonanza child,11,g,40,mg,70,g,41,g,3,g,7,g,0,g,0,g,26,g
+601,maggie moos,birthday bonanza regular,34,g,125,mg,210,g,124,g,9,g,22,g,0.5,g,0,g,79,g
+602,maggie moos,birthday bonanza small,23,g,80,mg,140,g,83,g,6,g,15,g,0,g,0,g,53,g
+603,maggie moos,birthday cake cookie fudge cake 1 4 sheet cake,25,g,55,mg,190,g,63,g,5,g,16,g,0.5,g,1,g,43,g
+604,maggie moos,birthday cake cookie fudge cake 6 inch cake,27,g,55,mg,190,g,66,g,5,g,18,g,1,g,1,g,46,g
+605,maggie moos,birthday cake cookie fudge cake 8 inch cake,25,g,55,mg,190,g,63,g,5,g,16,g,0.5,g,1,g,43,g
+606,maggie moos,birthday cake yogurt best value,13,g,15,mg,230,g,97,g,15,g,8,g,1,g,0,g,73,g
+607,maggie moos,birthday cake yogurt child,3,g,5,mg,60,g,24,g,4,g,2,g,0,g,0,g,18,g
+608,maggie moos,birthday cake yogurt regular,10,g,15,mg,180,g,73,g,11,g,6,g,0.5,g,0,g,55,g
+609,maggie moos,birthday cake yogurt small,6,g,10,mg,115,g,49,g,8,g,4,g,0,g,0,g,37,g
+610,maggie moos,birthday cake best value,45,g,165,mg,470,g,96,g,11,g,29,g,0.5,g,0,g,61,g
+611,maggie moos,birthday cake child,11,g,40,mg,115,g,24,g,3,g,7,g,0,g,0,g,15,g
+612,maggie moos,birthday cake pint,12,g,45,mg,140,g,26,g,3,g,8,g,0,g,0,g,16,g
+613,maggie moos,birthday cake quart,12,g,45,mg,140,g,26,g,3,g,8,g,0,g,0,g,16,g
+614,maggie moos,birthday cake regular,34,g,125,mg,350,g,72,g,8,g,22,g,0.5,g,0,g,45,g
+615,maggie moos,birthday cake small,23,g,85,mg,230,g,48,g,5,g,15,g,0,g,0,g,30,g
+616,maggie moos,bithday cupcake,21,g,45,mg,90,g,57,g,5,g,15,g,1,g,1,g,45,g
+617,maggie moos,black cherry best value,46,g,180,mg,280,g,80,g,10,g,31,g,0,g,0,g,54,g
+618,maggie moos,black cherry child,12,g,45,mg,70,g,20,g,3,g,8,g,0,g,0,g,13,g
+619,maggie moos,black cherry pint,13,g,50,mg,75,g,22,g,3,g,9,g,0,g,0,g,14,g
+620,maggie moos,black cherry quart,13,g,50,mg,75,g,22,g,3,g,9,g,0,g,0,g,14,g
+621,maggie moos,black cherry regular,35,g,135,mg,210,g,60,g,8,g,23,g,0,g,0,g,40,g
+622,maggie moos,black cherry small,23,g,90,mg,140,g,40,g,5,g,15,g,0,g,0,g,27,g
+623,maggie moos,black walnut best value,46,g,180,mg,290,g,81,g,10,g,31,g,0,g,0,g,53,g
+624,maggie moos,black walnut child,12,g,45,mg,70,g,20,g,3,g,8,g,0,g,0,g,13,g
+625,maggie moos,black walnut pint,13,g,50,mg,75,g,22,g,3,g,9,g,0,g,0,g,14,g
+626,maggie moos,black walnut quart,13,g,50,mg,75,g,22,g,3,g,9,g,0,g,0,g,14,g
+627,maggie moos,black walnut regular,35,g,135,mg,220,g,61,g,8,g,23,g,0,g,0,g,40,g
+628,maggie moos,black walnut small,23,g,90,mg,140,g,40,g,5,g,15,g,0,g,0,g,27,g
+629,maggie moos,blue cotton candy best value,48,g,180,mg,290,g,78,g,12,g,32,g,0,g,0,g,52,g
+630,maggie moos,blue cotton candy child,12,g,45,mg,70,g,20,g,3,g,8,g,0,g,0,g,13,g
+631,maggie moos,blue cotton candy pint,13,g,50,mg,80,g,22,g,3,g,9,g,0,g,0,g,14,g
+632,maggie moos,blue cotton candy quart,13,g,50,mg,80,g,22,g,3,g,9,g,0,g,0,g,14,g
+633,maggie moos,blue cotton candy regular,36,g,135,mg,220,g,60,g,9,g,24,g,0,g,0,g,39,g
+634,maggie moos,blue cotton candy small,24,g,90,mg,140,g,40,g,6,g,16,g,0,g,0,g,26,g
+635,maggie moos,blueberries,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+636,maggie moos,blueberry best value,42,g,160,mg,260,g,83,g,10,g,28,g,0,g,1,g,58,g
+637,maggie moos,blueberry child,10,g,40,mg,65,g,21,g,2,g,7,g,0,g,0,g,15,g
+638,maggie moos,blueberry pint,12,g,45,mg,70,g,23,g,3,g,8,g,0,g,0,g,16,g
+639,maggie moos,blueberry quart,12,g,45,mg,70,g,23,g,3,g,8,g,0,g,0,g,16,g
+640,maggie moos,blueberry regular,31,g,120,mg,200,g,62,g,7,g,21,g,0,g,1,g,44,g
+641,maggie moos,blueberry small,21,g,80,mg,130,g,41,g,5,g,14,g,0,g,1,g,29,g
+642,maggie moos,brownie,5,g,15,mg,45,g,13,g,2,g,1,g,0,g,0,g,9,g
+643,maggie moos,butter pecan port of call best value,107,g,175,mg,540,g,174,g,21,g,46,g,0,g,10,g,117,g
+644,maggie moos,butter pecan port of call child,27,g,45,mg,150,g,47,g,5,g,12,g,0,g,3,g,31,g
+645,maggie moos,butter pecan port of call regular,81,g,130,mg,410,g,132,g,16,g,35,g,0,g,8,g,89,g
+646,maggie moos,butter pecan port of call small,54,g,85,mg,280,g,89,g,10,g,23,g,0,g,5,g,60,g
+647,maggie moos,butter pecan best value,43,g,165,mg,370,g,89,g,10,g,29,g,0,g,0,g,64,g
+648,maggie moos,butter pecan child,11,g,40,mg,95,g,22,g,2,g,7,g,0,g,0,g,16,g
+649,maggie moos,butter pecan pint,12,g,45,mg,100,g,24,g,3,g,8,g,0,g,0,g,17,g
+650,maggie moos,butter pecan quart,12,g,45,mg,100,g,24,g,3,g,8,g,0,g,0,g,17,g
+651,maggie moos,butter pecan regular,32,g,125,mg,280,g,67,g,7,g,21,g,0,g,0,g,48,g
+652,maggie moos,butter pecan small,21,g,85,mg,190,g,44,g,5,g,14,g,0,g,0,g,32,g
+653,maggie moos,butterfinger,2,g,0,mg,25,g,8,g,1,g,1,g,0,g,0,g,5,g
+654,maggie moos,cake yellow,2,g,10,mg,60,g,6,g,1,g,0,g,0,g,0,g,4,g
+655,maggie moos,cappuccino best value,46,g,180,mg,280,g,79,g,11,g,31,g,0,g,1,g,51,g
+656,maggie moos,cappuccino child,12,g,45,mg,70,g,20,g,3,g,8,g,0,g,0,g,13,g
+657,maggie moos,cappuccino pint,13,g,50,mg,75,g,22,g,3,g,9,g,0,g,0,g,13,g
+658,maggie moos,cappuccino quart,13,g,50,mg,75,g,22,g,3,g,9,g,0,g,0,g,13,g
+659,maggie moos,cappuccino regular,35,g,135,mg,210,g,59,g,8,g,23,g,0,g,1,g,39,g
+660,maggie moos,cappuccino small,23,g,90,mg,140,g,40,g,5,g,15,g,0,g,0,g,26,g
+661,maggie moos,caramel drizzle cake 1 4 sheet cake,34,g,65,mg,170,g,58,g,6,g,18,g,0,g,1,g,42,g
+662,maggie moos,caramel drizzle cake 6 inch cake,38,g,65,mg,200,g,67,g,7,g,20,g,0,g,2,g,50,g
+663,maggie moos,caramel drizzle cake 8 inch cake,34,g,65,mg,170,g,58,g,6,g,18,g,0,g,1,g,42,g
+664,maggie moos,caramel fudge swirlpool best value,67,g,190,mg,470,g,152,g,18,g,40,g,0,g,3,g,109,g
+665,maggie moos,caramel fudge swirlpool child,17,g,50,mg,115,g,41,g,5,g,11,g,0,g,1,g,29,g
+666,maggie moos,caramel fudge swirlpool regular,50,g,145,mg,350,g,115,g,14,g,30,g,0,g,2,g,83,g
+667,maggie moos,caramel fudge swirlpool small,34,g,95,mg,240,g,78,g,9,g,20,g,0,g,2,g,56,g
+668,maggie moos,caramel topping,0,g,0,mg,75,g,14,g,1,g,0,g,0,g,0,g,0,g
+669,maggie moos,caramel best value,45,g,175,mg,280,g,82,g,10,g,30,g,0,g,0,g,57,g
+670,maggie moos,caramel child,11,g,45,mg,70,g,21,g,3,g,8,g,0,g,0,g,14,g
+671,maggie moos,caramel pint,11,g,45,mg,80,g,26,g,3,g,8,g,0,g,0,g,18,g
+672,maggie moos,caramel quart,11,g,45,mg,80,g,26,g,3,g,8,g,0,g,0,g,18,g
+673,maggie moos,caramel regular,34,g,130,mg,210,g,62,g,8,g,23,g,0,g,0,g,43,g
+674,maggie moos,caramel small,23,g,90,mg,140,g,41,g,5,g,15,g,0,g,0,g,28,g
+675,maggie moos,carrot cake best value,44,g,160,mg,440,g,100,g,12,g,29,g,0.5,g,0,g,61,g
+676,maggie moos,carrot cake child,11,g,40,mg,110,g,25,g,3,g,7,g,0,g,0,g,15,g
+677,maggie moos,carrot cake pint,12,g,45,mg,120,g,27,g,3,g,8,g,0,g,0,g,17,g
+678,maggie moos,carrot cake quart,12,g,45,mg,120,g,27,g,3,g,8,g,0,g,0,g,17,g
+679,maggie moos,carrot cake regular,33,g,120,mg,330,g,75,g,9,g,22,g,0,g,0,g,46,g
+680,maggie moos,carrot cake small,22,g,80,mg,220,g,50,g,6,g,14,g,0,g,0,g,31,g
+681,maggie moos,carrot cupcake,24,g,45,mg,100,g,50,g,4,g,19,g,1,g,0,g,40,g
+682,maggie moos,cheesecake best value,43,g,170,mg,260,g,87,g,10,g,29,g,0,g,0,g,58,g
+683,maggie moos,cheesecake child,11,g,40,mg,65,g,22,g,3,g,7,g,0,g,0,g,14,g
+684,maggie moos,cheesecake pint,12,g,45,mg,70,g,24,g,3,g,8,g,0,g,0,g,16,g
+685,maggie moos,cheesecake quart,12,g,45,mg,70,g,24,g,3,g,8,g,0,g,0,g,16,g
+686,maggie moos,cheesecake regular,33,g,125,mg,200,g,65,g,8,g,22,g,0,g,0,g,43,g
+687,maggie moos,cheesecake small,22,g,85,mg,130,g,43,g,5,g,14,g,0,g,0,g,29,g
+688,maggie moos,cherry chocolate cupcake,13,g,50,mg,70,g,39,g,5,g,8,g,0,g,1,g,21,g
+689,maggie moos,cherry vanilla vacation best value,63,g,225,mg,560,g,172,g,17,g,35,g,0,g,1,g,117,g
+690,maggie moos,cherry vanilla vacation child,17,g,60,mg,160,g,48,g,5,g,9,g,0,g,0,g,32,g
+691,maggie moos,cherry vanilla vacation regular,47,g,170,mg,430,g,129,g,13,g,26,g,0,g,1,g,88,g
+692,maggie moos,cherry vanilla vacation small,32,g,115,mg,300,g,87,g,9,g,18,g,0,g,0,g,59,g
+693,maggie moos,chocolate 2 the xtreme best value,78,g,200,mg,670,g,201,g,22,g,50,g,0,g,10,g,141,g
+694,maggie moos,chocolate 2 the xtreme child,20,g,50,mg,170,g,53,g,6,g,13,g,0,g,3,g,38,g
+695,maggie moos,chocolate 2 the xtreme regular,59,g,150,mg,500,g,152,g,16,g,38,g,0,g,8,g,107,g
+696,maggie moos,chocolate 2 the xtreme small,39,g,100,mg,340,g,103,g,11,g,25,g,0,g,5,g,72,g
+697,maggie moos,chocolate amaretto best value,46,g,175,mg,410,g,85,g,11,g,30,g,0,g,2,g,56,g
+698,maggie moos,chocolate amaretto child,11,g,45,mg,100,g,21,g,3,g,8,g,0,g,1,g,14,g
+699,maggie moos,chocolate amaretto pint,13,g,45,mg,110,g,23,g,4,g,8,g,0,g,1,g,15,g
+700,maggie moos,chocolate amaretto quart,13,g,45,mg,110,g,23,g,4,g,8,g,0,g,1,g,15,g
+701,maggie moos,chocolate amaretto regular,34,g,130,mg,310,g,64,g,9,g,23,g,0,g,2,g,42,g
+702,maggie moos,chocolate amaretto small,23,g,85,mg,200,g,42,g,6,g,15,g,0,g,1,g,28,g
+703,maggie moos,chocolate banana best value,42,g,160,mg,410,g,86,g,11,g,28,g,0,g,3,g,57,g
+704,maggie moos,chocolate banana child,11,g,40,mg,105,g,22,g,3,g,7,g,0,g,1,g,14,g
+705,maggie moos,chocolate banana pint,12,g,40,mg,110,g,24,g,3,g,8,g,0,g,1,g,15,g
+706,maggie moos,chocolate banana quart,12,g,40,mg,110,g,24,g,3,g,8,g,0,g,1,g,15,g
+707,maggie moos,chocolate banana regular,32,g,120,mg,310,g,65,g,8,g,21,g,0,g,2,g,43,g
+708,maggie moos,chocolate banana small,21,g,80,mg,210,g,43,g,6,g,14,g,0,g,2,g,28,g
+709,maggie moos,chocolate birthday cake best value,44,g,155,mg,400,g,104,g,14,g,29,g,0.5,g,2,g,65,g
+710,maggie moos,chocolate birthday cake child,11,g,40,mg,100,g,25,g,3,g,7,g,0,g,1,g,16,g
+711,maggie moos,chocolate birthday cake pint,12,g,40,mg,110,g,28,g,4,g,8,g,0,g,1,g,18,g
+712,maggie moos,chocolate birthday cake quart,12,g,40,mg,110,g,28,g,4,g,8,g,0,g,1,g,18,g
+713,maggie moos,chocolate birthday cake regular,33,g,115,mg,300,g,78,g,10,g,22,g,0.5,g,2,g,49,g
+714,maggie moos,chocolate birthday cake small,22,g,80,mg,200,g,52,g,7,g,14,g,0,g,1,g,33,g
+715,maggie moos,chocolate chips,1,g,0,mg,0,g,2,g,0,g,0.5,g,0,g,0,g,2,g
+716,maggie moos,chocolate covered pretzels,2,g,0,mg,55,g,7,g,1,g,0.5,g,0,g,0,g,0,g
+717,maggie moos,chocolate fudge yogurt best value,12,g,15,mg,650,g,96,g,18,g,8,g,0,g,6,g,77,g
+718,maggie moos,chocolate fudge yogurt child,3,g,5,mg,160,g,24,g,4,g,2,g,0,g,2,g,19,g
+719,maggie moos,chocolate fudge yogurt regular,9,g,10,mg,490,g,72,g,13,g,6,g,0,g,5,g,57,g
+720,maggie moos,chocolate fudge yogurt small,6,g,10,mg,320,g,48,g,9,g,4,g,0,g,3,g,38,g
+721,maggie moos,chocolate heaven cake 1 4 sheet cake,24,g,55,mg,170,g,47,g,6,g,16,g,0,g,2,g,35,g
+722,maggie moos,chocolate heaven cake 6 inch cake,24,g,55,mg,170,g,48,g,6,g,17,g,0,g,2,g,35,g
+723,maggie moos,chocolate heaven cake 8 inch cake,24,g,55,mg,170,g,47,g,6,g,16,g,0,g,2,g,35,g
+724,maggie moos,chocolate heaven cupcake,18,g,45,mg,100,g,41,g,5,g,13,g,0,g,1,g,32,g
+725,maggie moos,chocolate lovers pizza chocolate lovers pizza,21,g,65,mg,105,g,45,g,6,g,13,g,0,g,1,g,33,g
+726,maggie moos,chocolate mallo best value,39,g,150,mg,410,g,86,g,10,g,26,g,0,g,2,g,59,g
+727,maggie moos,chocolate mallo child,10,g,35,mg,100,g,22,g,3,g,7,g,0,g,1,g,15,g
+728,maggie moos,chocolate mallo pint,11,g,40,mg,110,g,24,g,3,g,7,g,0,g,1,g,16,g
+729,maggie moos,chocolate mallo quart,11,g,40,mg,110,g,24,g,3,g,7,g,0,g,1,g,16,g
+730,maggie moos,chocolate mallo regular,30,g,110,mg,310,g,65,g,8,g,20,g,0,g,2,g,44,g
+731,maggie moos,chocolate mallo small,20,g,75,mg,200,g,43,g,5,g,13,g,0,g,1,g,30,g
+732,maggie moos,chocolate malt regular,53,g,200,mg,540,g,109,g,16,g,35,g,0,g,3,g,73,g
+733,maggie moos,chocolate malt small,42,g,155,mg,410,g,84,g,12,g,27,g,0,g,3,g,57,g
+734,maggie moos,chocolate mint best value,45,g,170,mg,480,g,89,g,12,g,30,g,0,g,3,g,59,g
+735,maggie moos,chocolate mint child,11,g,45,mg,120,g,22,g,3,g,8,g,0,g,1,g,15,g
+736,maggie moos,chocolate mint pint,12,g,45,mg,130,g,24,g,4,g,8,g,0,g,1,g,16,g
+737,maggie moos,chocolate mint quart,12,g,45,mg,130,g,24,g,4,g,8,g,0,g,1,g,16,g
+738,maggie moos,chocolate mint regular,34,g,130,mg,360,g,67,g,9,g,23,g,0,g,2,g,45,g
+739,maggie moos,chocolate mint small,23,g,85,mg,240,g,44,g,6,g,15,g,0,g,2,g,30,g
+740,maggie moos,chocolate peanut butter best value,50,g,165,mg,530,g,88,g,15,g,30,g,0,g,4,g,58,g
+741,maggie moos,chocolate peanut butter child,13,g,40,mg,130,g,22,g,4,g,8,g,0,g,1,g,15,g
+742,maggie moos,chocolate peanut butter pint,14,g,45,mg,140,g,24,g,4,g,8,g,0,g,1,g,16,g
+743,maggie moos,chocolate peanut butter quart,14,g,45,mg,140,g,24,g,4,g,8,g,0,g,1,g,16,g
+744,maggie moos,chocolate peanut butter regular,38,g,125,mg,400,g,66,g,11,g,23,g,0,g,3,g,44,g
+745,maggie moos,chocolate peanut butter small,25,g,80,mg,260,g,44,g,8,g,15,g,0,g,2,g,29,g
+746,maggie moos,chocolate raspberry best value,41,g,155,mg,440,g,92,g,11,g,27,g,0,g,3,g,64,g
+747,maggie moos,chocolate raspberry child,10,g,40,mg,110,g,23,g,3,g,7,g,0,g,1,g,16,g
+748,maggie moos,chocolate raspberry pint,11,g,40,mg,120,g,25,g,3,g,8,g,0,g,1,g,17,g
+749,maggie moos,chocolate raspberry quart,11,g,40,mg,120,g,25,g,3,g,8,g,0,g,1,g,17,g
+750,maggie moos,chocolate raspberry regular,31,g,120,mg,330,g,69,g,8,g,21,g,0,g,2,g,48,g
+751,maggie moos,chocolate raspberry small,21,g,80,mg,220,g,46,g,5,g,14,g,0,g,1,g,32,g
+752,maggie moos,chocolate rocky road brownie cake 1 4 sheet cake,25,g,70,mg,90,g,60,g,7,g,17,g,0,g,3,g,45,g
+753,maggie moos,chocolate rocky road brownie cake 6 inch cake,26,g,70,mg,95,g,65,g,7,g,18,g,0,g,3,g,49,g
+754,maggie moos,chocolate rocky road brownie cake 8 inch cake,25,g,70,mg,90,g,62,g,7,g,17,g,0,g,3,g,47,g
+755,maggie moos,chocolate rum best value,43,g,165,mg,370,g,89,g,10,g,29,g,0,g,1,g,67,g
+756,maggie moos,chocolate rum child,11,g,40,mg,90,g,22,g,3,g,7,g,0,g,0,g,16,g
+757,maggie moos,chocolate rum pint,12,g,45,mg,100,g,24,g,3,g,8,g,0,g,0,g,17,g
+758,maggie moos,chocolate rum quart,12,g,45,mg,100,g,24,g,3,g,8,g,0,g,0,g,17,g
+759,maggie moos,chocolate rum regular,32,g,125,mg,280,g,67,g,8,g,22,g,0,g,1,g,47,g
+760,maggie moos,chocolate rum small,22,g,85,mg,180,g,44,g,5,g,14,g,0,g,1,g,32,g
+761,maggie moos,chocolate shake regular,53,g,210,mg,200,g,94,g,18,g,40,g,0,g,11,g,70,g
+762,maggie moos,chocolate shake small,42,g,170,mg,150,g,75,g,14,g,30,g,0,g,9,g,56,g
+763,maggie moos,chocolate swiss best value,43,g,165,mg,360,g,91,g,11,g,29,g,0,g,2,g,65,g
+764,maggie moos,chocolate swiss child,11,g,40,mg,90,g,23,g,3,g,7,g,0,g,0,g,16,g
+765,maggie moos,chocolate swiss pint,12,g,45,mg,95,g,25,g,3,g,8,g,0,g,5,g,17,g
+766,maggie moos,chocolate swiss quart,12,g,45,mg,95,g,25,g,3,g,8,g,0,g,5,g,17,g
+767,maggie moos,chocolate swiss regular,32,g,125,mg,270,g,68,g,8,g,21,g,0,g,1,g,49,g
+768,maggie moos,chocolate swiss small,21,g,80,mg,180,g,45,g,5,g,14,g,0,g,1,g,32,g
+769,maggie moos,chocolate best value,45,g,170,mg,490,g,89,g,12,g,30,g,0,g,3,g,60,g
+770,maggie moos,chocolate child,11,g,45,mg,120,g,22,g,3,g,8,g,0,g,1,g,15,g
+771,maggie moos,chocolate pint,12,g,45,mg,130,g,24,g,4,g,8,g,0,g,1,g,16,g
+772,maggie moos,chocolate quart,12,g,45,mg,130,g,24,g,4,g,8,g,0,g,1,g,16,g
+773,maggie moos,chocolate regular,34,g,130,mg,360,g,67,g,9,g,23,g,0,g,2,g,45,g
+774,maggie moos,chocolate small,23,g,85,mg,240,g,44,g,6,g,15,g,0,g,2,g,30,g
+775,maggie moos,cinamoo bun best value,44,g,170,mg,260,g,87,g,11,g,29,g,0,g,1,g,57,g
+776,maggie moos,cinamoo bun child,11,g,40,mg,65,g,22,g,3,g,7,g,0,g,0,g,14,g
+777,maggie moos,cinamoo bun pint,12,g,45,mg,105,g,27,g,3,g,8,g,0,g,0,g,21,g
+778,maggie moos,cinamoo bun quart,12,g,45,mg,105,g,27,g,3,g,8,g,0,g,0,g,21,g
+779,maggie moos,cinamoo bun regular,33,g,125,mg,200,g,67,g,8,g,22,g,0,g,0,g,43,g
+780,maggie moos,cinamoo bun small,22,g,85,mg,130,g,45,g,5,g,15,g,0,g,0,g,29,g
+781,maggie moos,cinnamon best value,47,g,180,mg,290,g,80,g,10,g,31,g,0,g,1,g,52,g
+782,maggie moos,cinnamon child,12,g,45,mg,70,g,20,g,3,g,8,g,0,g,0,g,13,g
+783,maggie moos,cinnamon pint,13,g,50,mg,75,g,22,g,3,g,9,g,0,g,0,g,14,g
+784,maggie moos,cinnamon quart,13,g,50,mg,75,g,22,g,3,g,9,g,0,g,0,g,14,g
+785,maggie moos,cinnamon regular,35,g,135,mg,210,g,60,g,8,g,23,g,0,g,1,g,39,g
+786,maggie moos,cinnamon small,23,g,90,mg,140,g,40,g,5,g,16,g,0,g,1,g,26,g
+787,maggie moos,classic sundae caramel 12 fl oz cup,30,g,115,mg,160,g,62,g,8,g,21,g,0,g,1,g,48,g
+788,maggie moos,classic sundae fudge 12 fl oz cup,31,g,110,mg,105,g,59,g,8,g,21,g,0,g,1,g,48,g
+789,maggie moos,coconut flakes,3,g,0,mg,0,g,4,g,1,g,2.5,g,0,g,1,g,3,g
+790,maggie moos,coconut best value,46,g,180,mg,280,g,78,g,10,g,31,g,0,g,0,g,52,g
+791,maggie moos,coconut child,12,g,45,mg,70,g,19,g,3,g,8,g,0,g,0,g,13,g
+792,maggie moos,coconut pint,13,g,50,mg,75,g,21,g,3,g,9,g,0,g,0,g,14,g
+793,maggie moos,coconut quart,13,g,50,mg,75,g,21,g,3,g,9,g,0,g,0,g,14,g
+794,maggie moos,coconut regular,35,g,135,mg,210,g,57,g,8,g,23,g,0,g,0,g,39,g
+795,maggie moos,coconut small,23,g,90,mg,140,g,38,g,5,g,15,g,0,g,0,g,26,g
+796,maggie moos,coffee shake regular,57,g,235,mg,210,g,98,g,14,g,41,g,0,g,0,g,85,g
+797,maggie moos,coffee shake small,42,g,175,mg,150,g,74,g,10,g,30,g,0,g,0,g,64,g
+798,maggie moos,coffee best value,46,g,180,mg,280,g,78,g,11,g,31,g,0,g,0,g,52,g
+799,maggie moos,coffee child,12,g,45,mg,70,g,20,g,3,g,8,g,0,g,0,g,13,g
+800,maggie moos,coffee pint,13,g,50,mg,75,g,22,g,3,g,9,g,0,g,0,g,14,g
+801,maggie moos,coffee quart,13,g,50,mg,75,g,22,g,3,g,9,g,0,g,0,g,14,g
+802,maggie moos,coffee regular,35,g,135,mg,210,g,59,g,8,g,25,g,0,g,0,g,38,g
+803,maggie moos,coffee small,23,g,90,mg,140,g,39,g,5,g,15,g,0,g,0,g,36,g
+804,maggie moos,cookie dough,2,g,0,mg,20,g,8,g,1,g,0.5,g,1,g,0,g,5,g
+805,maggie moos,cookie dough drizzle best value,73,g,170,mg,700,g,213,g,19,g,38,g,5,g,4,g,132,g
+806,maggie moos,cookie dough drizzle child,19,g,45,mg,180,g,56,g,5,g,10,g,1,g,1,g,35,g
+807,maggie moos,cookie dough drizzle regular,55,g,125,mg,520,g,160,g,14,g,29,g,4,g,3,g,100,g
+808,maggie moos,cookie dough drizzle small,37,g,85,mg,350,g,108,g,10,g,19,g,2.5,g,2,g,68,g
+809,maggie moos,cookie jar chaos cake 1 4 sheet cake,26,g,65,mg,200,g,66,g,6,g,15,g,2,g,1,g,46,g
+810,maggie moos,cookie jar chaos cake 6 inch cake,27,g,65,mg,200,g,66,g,6,g,16,g,1.5,g,1,g,42,g
+811,maggie moos,cookie jar chaos cake 8 inch cake,26,g,65,mg,200,g,66,g,6,g,15,g,2,g,1,g,46,g
+812,maggie moos,cookies n cream shake regular,71,g,215,mg,650,g,141,g,16,g,42,g,1,g,2,g,89,g
+813,maggie moos,cookies n cream shake small,53,g,160,mg,490,g,106,g,12,g,31,g,1,g,2,g,67,g
+814,maggie moos,cookies and cake best value,68,g,165,mg,640,g,176,g,17,g,35,g,5,g,2,g,104,g
+815,maggie moos,cookies and cake child,17,g,40,mg,160,g,44,g,4,g,9,g,1,g,1,g,26,g
+816,maggie moos,cookies and cake regular,51,g,125,mg,480,g,132,g,13,g,26,g,3.5,g,2,g,78,g
+817,maggie moos,cookies and cake small,34,g,80,mg,320,g,88,g,8,g,17,g,2.5,g,1,g,52,g
+818,maggie moos,cookies n cream cake 1 4 sheet cake,24,g,55,mg,200,g,50,g,5,g,15,g,1.5,g,1,g,33,g
+819,maggie moos,cookies n cream cake 6 inch cake,25,g,55,mg,230,g,55,g,5,g,15,g,2,g,1,g,36,g
+820,maggie moos,cookies n cream cake 8 inch cake,24,g,55,mg,200,g,50,g,5,g,15,g,1.5,g,1,g,33,g
+821,maggie moos,cool mint best value,47,g,180,mg,290,g,78,g,10,g,31,g,0,g,0,g,52,g
+822,maggie moos,cool mint child,12,g,45,mg,70,g,20,g,3,g,8,g,0,g,0,g,13,g
+823,maggie moos,cool mint pint,13,g,50,mg,75,g,22,g,3,g,9,g,0,g,0,g,14,g
+824,maggie moos,cool mint quart,13,g,50,mg,75,g,22,g,3,g,9,g,0,g,0,g,14,g
+825,maggie moos,cool mint regular,35,g,135,mg,220,g,59,g,8,g,23,g,0,g,0,g,39,g
+826,maggie moos,cool mint small,23,g,90,mg,140,g,39,g,5,g,16,g,0,g,0,g,26,g
+827,maggie moos,cool swirl cupcake,19,g,45,mg,85,g,46,g,4,g,14,g,1,g,0,g,36,g
+828,maggie moos,cotton candy carnival cake 1 4 sheet cake,27,g,60,mg,125,g,67,g,6,g,18,g,0,g,1,g,50,g
+829,maggie moos,cotton candy carnival cake 6 inch cake,27,g,65,mg,125,g,68,g,6,g,18,g,0,g,1,g,51,g
+830,maggie moos,cotton candy carnival cake 8 inch cake,27,g,60,mg,125,g,67,g,6,g,18,g,0,g,1,g,50,g
+831,maggie moos,cotton candy carnival cupcake,18,g,50,mg,50,g,41,g,4,g,13,g,1,g,0,g,32,g
+832,maggie moos,cotton candy shake regular,56,g,215,mg,360,g,103,g,13,g,37,g,1.5,g,1,g,83,g
+833,maggie moos,cotton candy shake small,42,g,160,mg,260,g,77,g,9,g,28,g,1,g,1,g,62,g
+834,maggie moos,cotton candy ski jump best value,52,g,200,mg,420,g,176,g,16,g,40,g,0,g,0,g,129,g
+835,maggie moos,cotton candy ski jump child,15,g,50,mg,100,g,41,g,4,g,10,g,0,g,0,g,30,g
+836,maggie moos,cotton candy ski jump regular,46,g,150,mg,310,g,131,g,12,g,30,g,0,g,0,g,96,g
+837,maggie moos,cotton candy ski jump small,31,g,100,mg,210,g,86,g,8,g,20,g,0,g,0,g,63,g
+838,maggie moos,dark chocolate best value,46,g,175,mg,430,g,86,g,13,g,30,g,0,g,4,g,56,g
+839,maggie moos,dark chocolate child,11,g,45,mg,105,g,21,g,3,g,8,g,0,g,1,g,14,g
+840,maggie moos,dark chocolate pint,13,g,45,mg,115,g,24,g,4,g,8,g,0,g,1,g,15,g
+841,maggie moos,dark chocolate quart,13,g,45,mg,115,g,24,g,4,g,8,g,0,g,1,g,15,g
+842,maggie moos,dark chocolate regular,34,g,130,mg,320,g,64,g,9,g,23,g,0,g,3,g,42,g
+843,maggie moos,dark chocolate small,23,g,85,mg,210,g,43,g,6,g,15,g,0,g,2,g,28,g
+844,maggie moos,double dark chocolate best value,44,g,160,mg,310,g,89,g,12,g,29,g,0,g,5,g,59,g
+845,maggie moos,double dark chocolate child,11,g,40,mg,80,g,22,g,3,g,7,g,0,g,1,g,15,g
+846,maggie moos,double dark chocolate pint,12,g,45,mg,80,g,25,g,4,g,8,g,0,g,1,g,16,g
+847,maggie moos,double dark chocolate quart,12,g,45,mg,80,g,25,g,4,g,8,g,0,g,1,g,16,g
+848,maggie moos,double dark chocolate regular,33,g,120,mg,230,g,67,g,9,g,22,g,0,g,3,g,44,g
+849,maggie moos,double dark chocolate small,22,g,80,mg,160,g,45,g,6,g,15,g,0,g,2,g,30,g
+850,maggie moos,egg nog best value,42,g,175,mg,260,g,97,g,9,g,28,g,0,g,0,g,65,g
+851,maggie moos,egg nog child,10,g,45,mg,65,g,24,g,2,g,7,g,0,g,0,g,16,g
+852,maggie moos,egg nog pint,12,g,45,mg,65,g,27,g,3,g,8,g,0,g,0,g,17,g
+853,maggie moos,egg nog quart,12,g,45,mg,65,g,27,g,3,g,8,g,0,g,0,g,17,g
+854,maggie moos,egg nog regular,31,g,130,mg,190,g,73,g,7,g,21,g,0,g,0,g,49,g
+855,maggie moos,egg nog small,21,g,85,mg,130,g,49,g,5,g,14,g,0,g,0,g,32,g
+856,maggie moos,eyeball cupcake,13,g,50,mg,55,g,31,g,4,g,8,g,0,g,0,g,23,g
+857,maggie moos,fatheres day argyle cake 1 4 sheet cake,23,g,60,mg,110,g,47,g,5,g,16,g,0,g,0,g,35,g
+858,maggie moos,fatheres day argyle cake 6 inch cake,24,g,55,mg,115,g,47,g,5,g,17,g,0,g,0,g,37,g
+859,maggie moos,fatheres day argyle cake 8 inch cake,23,g,60,mg,110,g,47,g,5,g,16,g,0,g,0,g,35,g
+860,maggie moos,float coke regular,23,g,90,mg,190,g,85,g,6,g,16,g,0,g,0,g,72,g
+861,maggie moos,float coke small,12,g,45,mg,105,g,49,g,3,g,8,g,0,g,0,g,42,g
+862,maggie moos,football cupcake,17,g,45,mg,80,g,44,g,4,g,12,g,1,g,0,g,33,g
+863,maggie moos,forest berry yogurt best value,11,g,20,mg,250,g,85,g,14,g,7,g,0,g,0,g,61,g
+864,maggie moos,forest berry yogurt child,2.5,g,5,mg,65,g,22,g,4,g,2,g,0,g,0,g,15,g
+865,maggie moos,forest berry yogurt regular,8,g,15,mg,190,g,63,g,11,g,5,g,0,g,0,g,45,g
+866,maggie moos,forest berry yogurt small,5,g,10,mg,125,g,42,g,7,g,3.5,g,0,g,0,g,30,g
+867,maggie moos,frankenstein cupcake,15,g,45,mg,80,g,35,g,4,g,11,g,0,g,1,g,27,g
+868,maggie moos,fruity pebbles,1,g,0,mg,20,g,6,g,1,g,0,g,0,g,0,g,3,g
+869,maggie moos,fudge brownie delight 12 fl oz cup,41,g,140,mg,210,g,84,g,10,g,24,g,0,g,0,g,66,g
+870,maggie moos,fudge topping,2.5,g,0,mg,30,g,11,g,0,g,2,g,0,g,0,g,8,g
+871,maggie moos,fudge best value,43,g,150,mg,290,g,104,g,11,g,28,g,0,g,2,g,73,g
+872,maggie moos,fudge child,11,g,35,mg,70,g,26,g,3,g,7,g,0,g,0,g,18,g
+873,maggie moos,fudge pint,12,g,40,mg,75,g,28,g,3,g,8,g,0,g,0,g,20,g
+874,maggie moos,fudge quart,12,g,40,mg,75,g,28,g,3,g,8,g,0,g,0,g,20,g
+875,maggie moos,fudge regular,33,g,110,mg,220,g,78,g,8,g,21,g,0,g,1,g,55,g
+876,maggie moos,fudge small,22,g,75,mg,140,g,52,g,5,g,14,g,0,g,1,g,37,g
+877,maggie moos,gift cake 1 4 sheet cake,22,g,65,mg,60,g,39,g,4,g,14,g,0,g,1,g,30,g
+878,maggie moos,gift cake 6 inch cake,23,g,70,mg,65,g,41,g,4,g,15,g,0,g,1,g,32,g
+879,maggie moos,gift cake 8 inch cake,22,g,65,mg,60,g,39,g,4,g,14,g,0,g,1,g,30,g
+880,maggie moos,golden malted bowls bowl dipped and rolled dark butterfinger,11,g,5,mg,40,g,38,g,3,g,7,g,0,g,1,g,16,g
+881,maggie moos,golden malted bowls bowl dipped and rolled dark heath bar,12,g,10,mg,40,g,37,g,2,g,8,g,0,g,1,g,18,g
+882,maggie moos,golden malted bowls bowl dipped and rolled dark nuts,15,g,5,mg,5,g,30,g,6,g,6,g,0,g,2,g,10,g
+883,maggie moos,golden malted bowls bowl dipped and rolled white sprinkles,10,g,5,mg,10,g,40,g,2,g,6,g,1,g,0,g,15,g
+884,maggie moos,golden malted bowls bowl dipped dark chocolate,8,g,5,mg,5,g,28,g,2,g,5,g,0,g,1,g,9,g
+885,maggie moos,golden malted bowls bowl dipped white chocolate,8,g,5,mg,10,g,29,g,2,g,5,g,0,g,0,g,9,g
+886,maggie moos,golden malted bowls childs bowl,2,g,5,mg,0,g,14,g,1,g,0,g,0,g,0,g,6,g
+887,maggie moos,golden malted bowls childs bowl dipped and rolled dark butterfinger,10,g,5,mg,40,g,31,g,2,g,7,g,0,g,1,g,13,g
+888,maggie moos,golden malted bowls childs bowl dipped and rolled dark heath bar,11,g,5,mg,40,g,30,g,2,g,7,g,0,g,1,g,15,g
+889,maggie moos,golden malted bowls childs bowl dipped and rolled dark nuts,14,g,5,mg,5,g,24,g,5,g,6,g,0,g,2,g,7,g
+890,maggie moos,golden malted bowls childs bowl dipped and rolled white sprinkles,9,g,5,mg,10,g,33,g,1,g,6,g,1,g,0,g,12,g
+891,maggie moos,golden malted bowls childs bowl dipped dark chocolate,7,g,5,mg,0,g,21,g,1,g,5,g,0,g,1,g,6,g
+892,maggie moos,golden malted bowls childs bowl dipped white chocolate,7,g,5,mg,10,g,22,g,1,g,5,g,0,g,0,g,6,g
+893,maggie moos,golden malted bowls regular bowl,3,g,5,mg,0,g,20,g,1,g,1,g,0,g,0,g,9,g
+894,maggie moos,golden malted childs cone,1,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,3,g
+895,maggie moos,golden malted childs cone dipped and rolled dark butterfinger,9,g,0,mg,35,g,25,g,2,g,6,g,0,g,1,g,10,g
+896,maggie moos,golden malted childs cone dipped and rolled dark heath bar,11,g,5,mg,55,g,23,g,1,g,8,g,0,g,1,g,12,g
+897,maggie moos,golden malted childs cone dipped and rolled dark nuts,13,g,0,mg,0,g,17,g,5,g,6,g,0,g,2,g,4,g
+898,maggie moos,golden malted childs cone dipped and rolled white sprinkles,8,g,0,mg,10,g,26,g,1,g,6,g,1,g,0,g,9,g
+899,maggie moos,golden malted childs cone dipped dark chocolate,6,g,0,mg,0,g,14,g,1,g,5,g,0,g,1,g,3,g
+900,maggie moos,golden malted childs cone dipped white chocolate,6,g,0,mg,10,g,15,g,1,g,5,g,0,g,0,g,3,g
+901,maggie moos,golden malted cone dipped and rolled dark butterfinger,10,g,5,mg,40,g,31,g,2,g,7,g,0,g,1,g,13,g
+902,maggie moos,golden malted cone dipped and rolled dark heath bar,11,g,5,mg,40,g,30,g,2,g,7,g,0,g,1,g,15,g
+903,maggie moos,golden malted cone dipped and rolled dark nuts,14,g,5,mg,5,g,24,g,5,g,6,g,0,g,2,g,7,g
+904,maggie moos,golden malted cone dipped and rolled white sprinkles,9,g,5,mg,10,g,33,g,1,g,6,g,1,g,0,g,12,g
+905,maggie moos,golden malted cone dipped dark chocolate,7,g,5,mg,0,g,21,g,1,g,5,g,0,g,1,g,6,g
+906,maggie moos,golden malted cone dipped white chocolate,7,g,5,mg,10,g,22,g,1,g,5,g,0,g,0,g,6,g
+907,maggie moos,golden malted regular cone,2,g,5,mg,0,g,14,g,1,g,0,g,0,g,0,g,6,g
+908,maggie moos,graduation cap cake 1 4 sheet cake,25,g,70,mg,290,g,52,g,6,g,15,g,0,g,1,g,36,g
+909,maggie moos,graduation cap cake 6 inch cake,29,g,75,mg,360,g,62,g,8,g,17,g,0.5,g,1,g,44,g
+910,maggie moos,graduation cap cake 8 inch cake,25,g,70,mg,290,g,52,g,6,g,15,g,0,g,1,g,36,g
+911,maggie moos,grapefruit sorbet best value,0,g,0,mg,25,g,98,g,0,g,0,g,0,g,2,g,96,g
+912,maggie moos,grapefruit sorbet child,0,g,0,mg,5,g,25,g,0,g,0,g,0,g,1,g,24,g
+913,maggie moos,grapefruit sorbet regular,0,g,0,mg,20,g,74,g,0,g,0,g,0,g,2,g,72,g
+914,maggie moos,grapefruit sorbet small,0,g,0,mg,15,g,49,g,0,g,0,g,0,g,1,g,48,g
+915,maggie moos,gummy bears,0,g,0,mg,5,g,11,g,0,g,0,g,0,g,0,g,7,g
+916,maggie moos,gummy graveyard cupcake,19,g,50,mg,160,g,57,g,5,g,10,g,0,g,1,g,34,g
+917,maggie moos,heart cupcake,23,g,40,mg,70,g,53,g,4,g,19,g,1,g,1,g,42,g
+918,maggie moos,heath bar,3.5,g,5,mg,25,g,7,g,1,g,1.5,g,0,g,0,g,7,g
+919,maggie moos,ho ho ho cupcakes,18,g,45,mg,50,g,54,g,3,g,8,g,2,g,0,g,47,g
+920,maggie moos,jack o lantern cupcake,14,g,45,mg,75,g,36,g,4,g,10,g,0,g,1,g,28,g
+921,maggie moos,key lime best value,36,g,140,mg,220,g,108,g,8,g,24,g,0,g,0,g,83,g
+922,maggie moos,key lime child,9,g,35,mg,55,g,27,g,2,g,6,g,0,g,0,g,21,g
+923,maggie moos,key lime pint,10,g,40,mg,60,g,30,g,3,g,7,g,0,g,0,g,22,g
+924,maggie moos,key lime quart,10,g,40,mg,60,g,30,g,3,g,7,g,0,g,0,g,22,g
+925,maggie moos,key lime regular,27,g,105,mg,170,g,81,g,6,g,18,g,0,g,0,g,62,g
+926,maggie moos,key lime small,18,g,70,mg,110,g,54,g,4,g,12,g,0,g,0,g,41,g
+927,maggie moos,kit kat,3,g,0,mg,5,g,7,g,1,g,2,g,0,g,0,g,5,g
+928,maggie moos,mandms,2.5,g,0,mg,10,g,8,g,1,g,1.5,g,0,g,0,g,7,g
+929,maggie moos,mandms mini,3,g,5,mg,10,g,9,g,1,g,2,g,0,g,0,g,8,g
+930,maggie moos,maggies mud cake 1 4 sheet cake,25,g,55,mg,220,g,50,g,7,g,16,g,0,g,2,g,37,g
+931,maggie moos,maggies mud cake 6 inch cake,28,g,55,mg,250,g,55,g,8,g,17,g,0,g,2,g,41,g
+932,maggie moos,maggies mud cake 8 inch cake,25,g,55,mg,220,g,50,g,7,g,16,g,0,g,2,g,37,g
+933,maggie moos,mallo cream topping,0,g,0,mg,15,g,17,g,0,g,0,g,0,g,0,g,10,g
+934,maggie moos,malt powder,1,g,5,mg,35,g,7,g,1,g,0,g,0,g,0,g,4,g
+935,maggie moos,mango sorbet best value,1,g,0,mg,5,g,101,g,0,g,1,g,0,g,1,g,68,g
+936,maggie moos,mango sorbet child,0,g,0,mg,0,g,21,g,0,g,0,g,0,g,0,g,17,g
+937,maggie moos,mango sorbet regular,0,g,0,mg,0,g,74,g,0,g,0,g,0,g,1,g,52,g
+938,maggie moos,mango sorbet small,0,g,0,mg,0,g,51,g,0,g,0,g,0,g,0,g,31,g
+939,maggie moos,mango best value,46,g,180,mg,280,g,79,g,10,g,31,g,0,g,0,g,52,g
+940,maggie moos,mango child,12,g,45,mg,70,g,20,g,3,g,8,g,0,g,0,g,13,g
+941,maggie moos,mango pint,13,g,50,mg,75,g,22,g,3,g,9,g,0,g,0,g,14,g
+942,maggie moos,mango quart,13,g,50,mg,75,g,22,g,3,g,9,g,0,g,0,g,14,g
+943,maggie moos,mango regular,35,g,135,mg,210,g,59,g,8,g,23,g,0,g,0,g,38,g
+944,maggie moos,mango small,23,g,90,mg,140,g,39,g,5,g,15,g,0,g,0,g,26,g
+945,maggie moos,maraschino cherries,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,1,g,6,g
+946,maggie moos,marshmallows mini,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+947,maggie moos,mint chocolate meltdown cake 1 4 sheet cake,29,g,55,mg,110,g,57,g,6,g,22,g,0,g,1,g,40,g
+948,maggie moos,mint chocolate meltdown cake 6 inch cake,28,g,55,mg,110,g,57,g,6,g,22,g,0,g,1,g,40,g
+949,maggie moos,mint chocolate meltdown cake 8 inch cake,29,g,55,mg,110,g,57,g,6,g,22,g,0,g,1,g,40,g
+950,maggie moos,mixed nuts,4.5,g,0,mg,0,g,2,g,2,g,0.5,g,0,g,1,g,0,g
+951,maggie moos,mocha cappuccino fudge cake 1 4 sheet cake,24,g,65,mg,115,g,51,g,6,g,17,g,0,g,1,g,35,g
+952,maggie moos,mocha cappuccino fudge cake 6 inch cake,23,g,65,mg,110,g,49,g,5,g,16,g,0,g,1,g,33,g
+953,maggie moos,mocha cappuccino fudge cake 8 inch cake,23,g,65,mg,110,g,48,g,6,g,16,g,0,g,1,g,32,g
+954,maggie moos,mocha best value,45,g,170,mg,450,g,87,g,12,g,30,g,0,g,3,g,58,g
+955,maggie moos,mocha child,11,g,45,mg,110,g,22,g,3,g,8,g,0,g,1,g,14,g
+956,maggie moos,mocha pint,12,g,45,mg,120,g,24,g,4,g,8,g,0,g,1,g,16,g
+957,maggie moos,mocha quart,12,g,45,mg,120,g,24,g,4,g,8,g,0,g,1,g,16,g
+958,maggie moos,mocha regular,34,g,130,mg,330,g,65,g,9,g,23,g,0,g,2,g,43,g
+959,maggie moos,mocha small,23,g,85,mg,220,g,43,g,6,g,15,g,0,g,1,g,29,g
+960,maggie moos,motheres day polka dot cake 1 4 sheet cake,26,g,75,mg,280,g,58,g,7,g,17,g,0,g,1,g,42,g
+961,maggie moos,motheres day polka dot cake 6 inch cake,23,g,70,mg,270,g,48,g,6,g,15,g,0,g,1,g,34,g
+962,maggie moos,motheres day polka dot cake 8 inch cake,26,g,75,mg,280,g,58,g,7,g,17,g,0,g,1,g,42,g
+963,maggie moos,mummy cupcake,13,g,50,mg,40,g,30,g,4,g,9,g,0,g,0,g,23,g
+964,maggie moos,oreos crushed,1.5,g,0,mg,40,g,5,g,0,g,0,g,0,g,0,g,3,g
+965,maggie moos,peach best value,43,g,165,mg,260,g,88,g,9,g,28,g,0,g,0,g,65,g
+966,maggie moos,peach child,11,g,40,mg,65,g,22,g,2,g,7,g,0,g,0,g,16,g
+967,maggie moos,peach pint,12,g,45,mg,70,g,24,g,3,g,8,g,0,g,0,g,17,g
+968,maggie moos,peach quart,12,g,45,mg,70,g,24,g,3,g,8,g,0,g,0,g,17,g
+969,maggie moos,peach regular,32,g,125,mg,200,g,66,g,7,g,21,g,0,g,0,g,47,g
+970,maggie moos,peach small,21,g,85,mg,130,g,44,g,5,g,14,g,0,g,0,g,32,g
+971,maggie moos,peanut butter banana best value,52,g,160,mg,350,g,78,g,14,g,30,g,0,g,2,g,51,g
+972,maggie moos,peanut butter banana child,13,g,40,mg,85,g,20,g,4,g,7,g,0,g,0,g,13,g
+973,maggie moos,peanut butter banana pint,14,g,45,mg,95,g,23,g,4,g,8,g,0,g,1,g,14,g
+974,maggie moos,peanut butter banana quart,14,g,45,mg,95,g,23,g,4,g,8,g,0,g,1,g,14,g
+975,maggie moos,peanut butter banana regular,39,g,120,mg,260,g,59,g,11,g,22,g,0,g,1,g,38,g
+976,maggie moos,peanut butter banana small,26,g,80,mg,170,g,39,g,7,g,15,g,0,g,1,g,25,g
+977,maggie moos,peanut butter chocolate overload cake 1 4 sheet cake,29,g,65,mg,180,g,63,g,8,g,18,g,1,g,2,g,46,g
+978,maggie moos,peanut butter chocolate overload cake 6 inch cake,31,g,65,mg,200,g,70,g,9,g,19,g,1,g,2,g,50,g
+979,maggie moos,peanut butter chocolate overload cake 8 inch cake,30,g,70,mg,190,g,66,g,8,g,18,g,1,g,2,g,47,g
+980,maggie moos,peanut butter galaxy best value,110,g,170,mg,1090,g,170,g,42,g,52,g,0,g,11,g,122,g
+981,maggie moos,peanut butter galaxy child,30,g,45,mg,300,g,44,g,12,g,13,g,0,g,3,g,31,g
+982,maggie moos,peanut butter galaxy regular,83,g,130,mg,820,g,120,g,32,g,39,g,0,g,8,g,92,g
+983,maggie moos,peanut butter galaxy small,57,g,85,mg,560,g,86,g,22,g,26,g,0,g,6,g,61,g
+984,maggie moos,peanut butter topping,6,g,0,mg,60,g,9,g,2,g,2,g,0,g,1,g,8,g
+985,maggie moos,peanut butter best value,57,g,170,mg,390,g,78,g,17,g,31,g,0,g,2,g,51,g
+986,maggie moos,peanut butter child,14,g,40,mg,100,g,20,g,4,g,8,g,0,g,0,g,13,g
+987,maggie moos,peanut butter pint,16,g,45,mg,105,g,25,g,5,g,9,g,0,g,0,g,14,g
+988,maggie moos,peanut butter quart,16,g,45,mg,105,g,25,g,5,g,9,g,0,g,0,g,14,g
+989,maggie moos,peanut butter regular,43,g,125,mg,300,g,59,g,12,g,24,g,0,g,1,g,38,g
+990,maggie moos,peanut butter small,29,g,85,mg,200,g,39,g,8,g,16,g,0,g,1,g,25,g
+991,maggie moos,peanuts,4.5,g,0,mg,0,g,2,g,2,g,5,g,0,g,1,g,0,g
+992,maggie moos,pecan perfection cake 1 4 sheet cake,35,g,55,mg,170,g,53,g,7,g,16,g,0,g,3,g,36,g
+993,maggie moos,pecan perfection cake 6 inch cake,36,g,55,mg,170,g,54,g,7,g,16,g,0,g,3,g,37,g
+994,maggie moos,pecan perfection cake 8 inch cake,35,g,55,mg,170,g,53,g,7,g,16,g,0,g,3,g,36,g
+995,maggie moos,pecans,6,g,0,mg,0,g,1,g,1,g,0.5,g,0,g,1,g,0,g
+996,maggie moos,peppermint best value,46,g,175,mg,280,g,87,g,10,g,31,g,0,g,0,g,59,g
+997,maggie moos,peppermint child,12,g,45,mg,70,g,22,g,2,g,8,g,0,g,0,g,15,g
+998,maggie moos,peppermint pint,13,g,45,mg,75,g,24,g,3,g,9,g,0,g,0,g,16,g
+999,maggie moos,peppermint quart,13,g,45,mg,75,g,24,g,3,g,9,g,0,g,0,g,16,g

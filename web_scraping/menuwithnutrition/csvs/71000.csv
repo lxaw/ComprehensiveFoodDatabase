@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,gattis pizza,mr gattis byo bacon 12 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+1,gattis pizza,mr gattis byo bacon 12 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+2,gattis pizza,mr gattis byo bacon 16 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+3,gattis pizza,mr gattis byo bacon 16 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+4,gattis pizza,mr gattis byo banana peppers 12 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+5,gattis pizza,mr gattis byo banana peppers 12 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+6,gattis pizza,mr gattis byo banana peppers 16 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+7,gattis pizza,mr gattis byo banana peppers 16 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+8,gattis pizza,mr gattis byo base flatbread,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+9,gattis pizza,mr gattis byo base pizza 12 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+10,gattis pizza,mr gattis byo base pizza 16 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+11,gattis pizza,mr gattis byo bell pepper 12 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+12,gattis pizza,mr gattis byo bell pepper 12 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+13,gattis pizza,mr gattis byo bell pepper 16 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+14,gattis pizza,mr gattis byo bell pepper 16 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+15,gattis pizza,mr gattis byo black olives 12 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+16,gattis pizza,mr gattis byo black olives 12 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+17,gattis pizza,mr gattis byo black olives 16 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+18,gattis pizza,mr gattis byo black olives 16 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+19,gattis pizza,mr gattis byo canadian bacon 12 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+20,gattis pizza,mr gattis byo canadian bacon 12 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+21,gattis pizza,mr gattis byo canadian bacon 16 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+22,gattis pizza,mr gattis byo canadian bacon 16 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+23,gattis pizza,mr gattis byo caramelized onions 12 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+24,gattis pizza,mr gattis byo caramelized onions 12 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+25,gattis pizza,mr gattis byo caramelized onions 16 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+26,gattis pizza,mr gattis byo caramelized onions 16 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+27,gattis pizza,mr gattis byo chicken 12 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+28,gattis pizza,mr gattis byo chicken 12 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+29,gattis pizza,mr gattis byo chicken 16 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+30,gattis pizza,mr gattis byo chicken 16 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+31,gattis pizza,mr gattis byo diced tomatoes 12 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+32,gattis pizza,mr gattis byo diced tomatoes 12 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+33,gattis pizza,mr gattis byo diced tomatoes 16 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+34,gattis pizza,mr gattis byo diced tomatoes 16 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+35,gattis pizza,mr gattis byo green olives 12 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+36,gattis pizza,mr gattis byo green olives 12 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+37,gattis pizza,mr gattis byo green olives 16 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+38,gattis pizza,mr gattis byo green olives 16 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+39,gattis pizza,mr gattis byo ground beef 12 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+40,gattis pizza,mr gattis byo ground beef 12 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+41,gattis pizza,mr gattis byo ground beef 16 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+42,gattis pizza,mr gattis byo ground beef 16 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+43,gattis pizza,mr gattis byo italian sausage 12 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+44,gattis pizza,mr gattis byo italian sausage 12 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+45,gattis pizza,mr gattis byo italian sausage 16 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+46,gattis pizza,mr gattis byo italian sausage 16 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+47,gattis pizza,mr gattis byo meatball pieces 12 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+48,gattis pizza,mr gattis byo meatball pieces 12 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+49,gattis pizza,mr gattis byo meatball pieces 16 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+50,gattis pizza,mr gattis byo meatball pieces 16 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+51,gattis pizza,mr gattis byo mushrooms 12 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+52,gattis pizza,mr gattis byo mushrooms 12 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+53,gattis pizza,mr gattis byo mushrooms 16 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+54,gattis pizza,mr gattis byo mushrooms 16 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+55,gattis pizza,mr gattis byo pepperoni 12 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+56,gattis pizza,mr gattis byo pepperoni 12 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+57,gattis pizza,mr gattis byo pepperoni 16 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+58,gattis pizza,mr gattis byo pepperoni 16 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+59,gattis pizza,mr gattis byo pineapple 12 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+60,gattis pizza,mr gattis byo pineapple 12 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+61,gattis pizza,mr gattis byo pineapple 16 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+62,gattis pizza,mr gattis byo pineapple 16 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+63,gattis pizza,mr gattis byo prosciutto 12 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+64,gattis pizza,mr gattis byo prosciutto 12 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+65,gattis pizza,mr gattis byo prosciutto 16 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+66,gattis pizza,mr gattis byo prosciutto 16 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+67,gattis pizza,mr gattis byo red onions 12 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+68,gattis pizza,mr gattis byo red onions 12 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+69,gattis pizza,mr gattis byo red onions 16 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+70,gattis pizza,mr gattis byo red onions 16 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+71,gattis pizza,mr gattis byo salami 12 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+72,gattis pizza,mr gattis byo salami 12 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+73,gattis pizza,mr gattis byo salami 16 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+74,gattis pizza,mr gattis byo salami 16 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+75,gattis pizza,mr gattis byo spinach 12 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+76,gattis pizza,mr gattis byo spinach 12 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+77,gattis pizza,mr gattis byo spinach 16 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+78,gattis pizza,mr gattis byo spinach 16 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+79,gattis pizza,mr gattis byo sundried tomatoes 12 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+80,gattis pizza,mr gattis byo sundried tomatoes 12 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+81,gattis pizza,mr gattis byo sundried tomatoes 16 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+82,gattis pizza,mr gattis byo sundried tomatoes 16 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+83,gattis pizza,mr gattis byo white onions 12 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+84,gattis pizza,mr gattis byo white onions 12 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+85,gattis pizza,mr gattis byo white onions 16 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+86,gattis pizza,mr gattis byo white onions 16 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+87,gattis pizza,mr gattis byo zucchini 12 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+88,gattis pizza,mr gattis byo zucchini 12 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+89,gattis pizza,mr gattis byo zucchini 16 inch multi,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+90,gattis pizza,mr gattis byo zucchini 16 inch single,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+91,gattis pizza,mr gattis caesar salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+92,gattis pizza,mr gattis caesar salad dressing,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+93,gattis pizza,mr gattis caesar salad with chicken,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+94,gattis pizza,mr gattis calzone 12 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+95,gattis pizza,mr gattis calzone 16 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+96,gattis pizza,mr gattis carne trio pizza 12 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+97,gattis pizza,mr gattis carne trio pizza 16 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+98,gattis pizza,mr gattis cheese sticks,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+99,gattis pizza,mr gattis chicken parmesan,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+100,gattis pizza,mr gattis chop chop salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+101,gattis pizza,mr gattis clam flatbread,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+102,gattis pizza,mr gattis fettucini alfredo,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+103,gattis pizza,mr gattis fettucini alfredo with chicken,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+104,gattis pizza,mr gattis fire roasted chicken pizza 12 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+105,gattis pizza,mr gattis fire roasted chicken pizza 16 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+106,gattis pizza,mr gattis garlic alfredo shrimp flatbread,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+107,gattis pizza,mr gattis garlic knot,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+108,gattis pizza,mr gattis ginormous meatball appetizer,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+109,gattis pizza,mr gattis grilled four cheese sandwich,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+110,gattis pizza,mr gattis kids base pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+111,gattis pizza,mr gattis kids cheese pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+112,gattis pizza,mr gattis kids mac and cheese pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+113,gattis pizza,mr gattis kids pepperoni pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+114,gattis pizza,mr gattis lasagna,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+115,gattis pizza,mr gattis mac and cheese pizza 12 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+116,gattis pizza,mr gattis mac and cheese pizza 16 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+117,gattis pizza,mr gattis margheretta pizza 12 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+118,gattis pizza,mr gattis margheretta pizza 16 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+119,gattis pizza,mr gattis mediterranean chicken flatbread,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+120,gattis pizza,mr gattis mediterranean salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+121,gattis pizza,mr gattis mediterranean salad balsamic dressing,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+122,gattis pizza,mr gattis ole fashion salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+123,gattis pizza,mr gattis ole fashion salad ranch dressing,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+124,gattis pizza,mr gattis pepperoni rolls whole order,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+125,gattis pizza,mr gattis pig pie pizza 12 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+126,gattis pizza,mr gattis pig pie pizza 16 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+127,gattis pizza,mr gattis prosciutto and arugala pizza 12 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+128,gattis pizza,mr gattis prosciutto and arugala pizza 16 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+129,gattis pizza,mr gattis quattro fromaggio pizza 12 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+130,gattis pizza,mr gattis quattro fromaggio pizza 16 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+131,gattis pizza,mr gattis sampler flatbread,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+132,gattis pizza,mr gattis sampler pizza 12 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+133,gattis pizza,mr gattis sampler pizza 16 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+134,gattis pizza,mr gattis sicilian meat pizza 12 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+135,gattis pizza,mr gattis sicilian meat pizza 16 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+136,gattis pizza,mr gattis sicilian vegetarian pizza 12 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+137,gattis pizza,mr gattis sicilian vegetarian pizza 16 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+138,gattis pizza,mr gattis smores dessert 12 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+139,gattis pizza,mr gattis spagatti with a ginormous meatball,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+140,gattis pizza,mr gattis spagatti with marinara,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+141,gattis pizza,mr gattis spagatti with meatsauce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+142,gattis pizza,mr gattis spinach artichoke dip,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+143,gattis pizza,mr gattis thai chili flatbread,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+144,gattis pizza,mr gattis vegetarian pasta,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+145,gattis pizza,mr gattis verona pizza 12 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+146,gattis pizza,mr gattis verona pizza 16 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+147,gattis pizza,mr gattis woodfire baked cheese bread,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+148,gattis pizza,mushroom salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+149,gattis pizza,mustard potato salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+150,gattis pizza,nacho cheese sauce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+151,gattis pizza,oil cruet,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+152,gattis pizza,old fashioned mac and cheese,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+153,gattis pizza,oranges,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+154,gattis pizza,oreo crumbles,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+155,gattis pizza,oreo pudding,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+156,gattis pizza,orzo and beans,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+157,gattis pizza,oven roasted vegetables,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+158,gattis pizza,parmesan potato wedge,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+159,gattis pizza,pasta primavera,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+160,gattis pizza,pasta salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+161,gattis pizza,pasta with oven dried tomatoes,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+162,gattis pizza,pasta all types,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+163,gattis pizza,pea salad with bacon,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+164,gattis pizza,peaches,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+165,gattis pizza,peas,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+166,gattis pizza,penne salad with bacon,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+167,gattis pizza,pepperoni,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+168,gattis pizza,pepperoni rolls,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+169,gattis pizza,pickled okra,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+170,gattis pizza,pineapple,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+171,gattis pizza,potato salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+172,gattis pizza,powerade fruit punch kids cup,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+173,gattis pizza,powerade fruit punch large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+174,gattis pizza,powerade fruit punch regular,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+175,gattis pizza,powerade lemon lime kids cup,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+176,gattis pizza,powerade lemon lime large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+177,gattis pizza,powerade lemon lime regular,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+178,gattis pizza,powerade mountain berry blast kids cup,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+179,gattis pizza,powerade mountain berry blast large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+180,gattis pizza,powerade mountain berry blast regular,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+181,gattis pizza,provolone cheese,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+182,gattis pizza,red flash kids cup,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+183,gattis pizza,red flash large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+184,gattis pizza,red flash regular,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+185,gattis pizza,red onions,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+186,gattis pizza,reduced calorie ranch dressing,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+187,gattis pizza,rice pilaf,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+188,gattis pizza,roast beef sandwich,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+189,gattis pizza,romaine,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+190,gattis pizza,rotelli salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+191,gattis pizza,rtu mac and cheese,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+192,gattis pizza,rtu marinara sauce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+193,gattis pizza,rtu meat sauce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+194,gattis pizza,salad mix,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+195,gattis pizza,saltine crackers,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+196,gattis pizza,sampler pizza original crust large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+197,gattis pizza,sampler pizza original crust medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+198,gattis pizza,sampler pizza original crust small,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+199,gattis pizza,sampler pizza original crust xl,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+200,gattis pizza,sampler pizza pan crust large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+201,gattis pizza,sampler pizza pan crust medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+202,gattis pizza,sampler pizza thin crust large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+203,gattis pizza,sampler pizza thin crust medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+204,gattis pizza,sampler pizza thin crust small,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+205,gattis pizza,scalloped potatoes,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+206,gattis pizza,sicilian meat pizza large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+207,gattis pizza,sicilian meat pizza medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+208,gattis pizza,sicilian vegetarian pizza large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+209,gattis pizza,sicilian vegetarian pizza medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+210,gattis pizza,sliced beet salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+211,gattis pizza,softened margarine,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+212,gattis pizza,sour cream potato bar,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+213,gattis pizza,spanish slaw,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+214,gattis pizza,spicy pasta,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+215,gattis pizza,spinach,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+216,gattis pizza,spinach alfredo pizza original large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+217,gattis pizza,spinach alfredo pizza original medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+218,gattis pizza,spinach alfredo pizza original small,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+219,gattis pizza,spinach alfredo pizza original xl,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+220,gattis pizza,spinach alfredo pizza pan crust large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+221,gattis pizza,spinach alfredo pizza pan crust medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+222,gattis pizza,spinach alfredo pizza thin crust medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+223,gattis pizza,spinach alfredo pizza thin crust smalls,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+224,gattis pizza,spinach alfredo pizza thin crust large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+225,gattis pizza,sprite zero large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+226,gattis pizza,sprite kids cup,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+227,gattis pizza,sprite large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+228,gattis pizza,sprite regular,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+229,gattis pizza,strawberries,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+230,gattis pizza,strawberries and cream,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+231,gattis pizza,streusel sticks large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+232,gattis pizza,streusel sticks large 1 stick,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+233,gattis pizza,streusel sticks medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+234,gattis pizza,streusel sticks medium 1 stick,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+235,gattis pizza,submarine sandwich,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+236,gattis pizza,sunflower seeds,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+237,gattis pizza,superoni pizza original crust large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+238,gattis pizza,superoni pizza original crust medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+239,gattis pizza,superoni pizza original crust small,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+240,gattis pizza,superoni pizza original crust xl,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+241,gattis pizza,superoni pizza pan crust large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+242,gattis pizza,superoni pizza pan crust medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+243,gattis pizza,superoni pizza thin crust large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+244,gattis pizza,superoni pizza thin crust medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+245,gattis pizza,superoni pizza thin crust small,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+246,gattis pizza,sweet coleslaw,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+247,gattis pizza,tapioca pudding,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+248,gattis pizza,tea brew pouches with sugar 12 fl oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+249,gattis pizza,tea brew pouches with sugar 20 fl oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+250,gattis pizza,tea brew pouches with sugar 32 fl oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+251,gattis pizza,thousand island dressing,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+252,gattis pizza,three bean salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+253,gattis pizza,to go bbq wings large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+254,gattis pizza,to go bbq wings regular,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+255,gattis pizza,to go blue cheese dressing for wings large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+256,gattis pizza,to go blue cheese dressing for wings regular,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+257,gattis pizza,to go bucket of spagatti,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+258,gattis pizza,to go byo stromboli sandwich,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+259,gattis pizza,to go caesar salad with dressing,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+260,gattis pizza,to go chefs salad without dressing,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+261,gattis pizza,to go garlic toast,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+262,gattis pizza,to go hot ham sandwich,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+263,gattis pizza,to go hot wings large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+264,gattis pizza,to go hot wings regular,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+265,gattis pizza,to go pepperoni rolls whole order,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+266,gattis pizza,to go ranch dressing for wings large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+267,gattis pizza,to go ranch dressing for wings regular,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+268,gattis pizza,to go roast beef sandwich,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+269,gattis pizza,to go salad without dressing,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+270,gattis pizza,to go submarine sandwich,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+271,gattis pizza,torch pizza original crust large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+272,gattis pizza,torch pizza original crust large whole pie,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+273,gattis pizza,torch pizza original crust xl,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+274,gattis pizza,torch pizza original crust xl whole pie,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+275,gattis pizza,torch pizza original medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+276,gattis pizza,torch pizza original small,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+277,gattis pizza,torch pizza pan crust large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+278,gattis pizza,torch pizza pan crust large whole pie,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+279,gattis pizza,torch pizza pan crust medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+280,gattis pizza,torch pizza thin crust large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+281,gattis pizza,torch pizza thin crust large whole pie,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+282,gattis pizza,torch pizza thin crust medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+283,gattis pizza,torch pizza thin crust small,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+284,gattis pizza,tortilla chips,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+285,gattis pizza,tuna salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+286,gattis pizza,turkey ham,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+287,gattis pizza,vanila soft serve,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+288,gattis pizza,vanilla pudding,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+289,gattis pizza,vanilla wafer,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+290,gattis pizza,vegetable casserole,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+291,gattis pizza,vegetable soup,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+292,gattis pizza,vegetarian pasta,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+293,gattis pizza,vegetarian sampler pizza original crust large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+294,gattis pizza,vegetarian sampler pizza original crust medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+295,gattis pizza,vegetarian sampler pizza original crust small,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+296,gattis pizza,vegetarian sampler pizza original crust xl,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+297,gattis pizza,vegetarian sampler pizza pan crust large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+298,gattis pizza,vegetarian sampler pizza pan crust medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+299,gattis pizza,vegetarian sampler pizza thin crust large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+300,gattis pizza,vegetarian sampler pizza thin crust medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+301,gattis pizza,vegetarian sampler pizza thin crust small,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+302,gattis pizza,waldorf salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+303,gattis pizza,watermelon,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+304,gattis pizza,whip topping,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+305,gattis pizza,zesty bow tie salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+306,genghis grill,3g sauce,0,g,0,mg,730,g,17,g,1,g,0,g,0,g,0,g,15,g
+307,genghis grill,apple juice kids,0,g,0,mg,5,g,19,g,0,g,0,g,0,g,1,g,17,g
+308,genghis grill,asian chili sauce,0,g,0,mg,1410,g,1,g,0,g,0,g,0,g,1,g,1,g
+309,genghis grill,baby corn,0,g,0,mg,0,g,6,g,1,g,0,g,0,g,1,g,1,g
+310,genghis grill,bacon,15,g,15,mg,500,g,0,g,7,g,5,g,0,g,0,g,0,g
+311,genghis grill,bamboo shoots,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+312,genghis grill,banana peppers,0,g,0,mg,580,g,0,g,0,g,0,g,0,g,0,g,0,g
+313,genghis grill,basil,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+314,genghis grill,bean sprouts,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,1,g,1,g
+315,genghis grill,bell peppers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+316,genghis grill,blue dragon fishbowl,0,g,20,mg,300,g,49,g,1,g,5,g,0,g,1,g,43,g
+317,genghis grill,blue dragon schooner,0,g,5,mg,90,g,17,g,0,g,1.5,g,0,g,1,g,14,g
+318,genghis grill,blue dragon signature,0,g,5,mg,70,g,17,g,0,g,1,g,0,g,1,g,14,g
+319,genghis grill,blue moon bottle,0,g,0,mg,10,g,13,g,1,g,0,g,0,g,0,g,0,g
+320,genghis grill,broccoli,0,g,0,mg,10,g,1,g,1,g,0,g,0,g,1,g,0,g
+321,genghis grill,brown rice,1,g,0,mg,5,g,23,g,3,g,0,g,0,g,2,g,0,g
+322,genghis grill,bud light bottle,0,g,0,mg,10,g,7,g,0,g,0,g,0,g,0,g,0,g
+323,genghis grill,bud light draft short,0,g,0,mg,20,g,8,g,0,g,0,g,0,g,0,g,0,g
+324,genghis grill,bud light draft tall,0,g,0,mg,25,g,9,g,2,g,0,g,0,g,0,g,0,g
+325,genghis grill,bud light draft sake bomb portion,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+326,genghis grill,budweiser bottle,0,g,0,mg,10,g,11,g,1,g,0,g,0,g,0,g,0,g
+327,genghis grill,cabbage,0,g,0,mg,5,g,2,g,0,g,0,g,0,g,1,g,0,g
+328,genghis grill,cabbage side,0,g,0,mg,15,g,4,g,1,g,0,g,0,g,2,g,0,g
+329,genghis grill,cajun chicken,2,g,15,mg,160,g,1,g,5,g,0,g,0,g,0,g,0,g
+330,genghis grill,cajun spice,0,g,0,mg,630,g,2,g,0,g,0,g,0,g,0,g,0,g
+331,genghis grill,calamari,0,g,65,mg,10,g,1,g,4,g,0,g,0,g,0,g,0,g
+332,genghis grill,carribean sunset sangria schooner,0,g,0,mg,10,g,41,g,0,g,0,g,0,g,2,g,34,g
+333,genghis grill,carribean sunset sangria signature,0,g,0,mg,20,g,38,g,0,g,0,g,0,g,1,g,34,g
+334,genghis grill,carrots,0,g,0,mg,20,g,3,g,0,g,0,g,0,g,1,g,1,g
+335,genghis grill,cayenne,0.5,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,0,g
+336,genghis grill,cherry lime sparkler schooner,0,g,0,mg,20,g,90,g,0,g,0,g,0,g,3,g,67,g
+337,genghis grill,cherry lime sparkler signature,0,g,0,mg,25,g,54,g,0,g,0,g,0,g,1,g,44,g
+338,genghis grill,chicken breast,0,g,15,mg,170,g,0,g,6,g,0,g,0,g,0,g,0,g
+339,genghis grill,chicken potstickers,6,g,20,mg,2330,g,59,g,12,g,1,g,0,g,1,g,35,g
+340,genghis grill,chocolate milk kids,5,g,20,mg,120,g,24,g,8,g,3,g,0,g,1,g,22,g
+341,genghis grill,cilantro,0,g,0,mg,15,g,1,g,1,g,0,g,0,g,1,g,0,g
+342,genghis grill,citrus garlic herb,0,g,0,mg,610,g,2,g,0,g,0,g,0,g,0,g,0,g
+343,genghis grill,coca cola,0,g,0,mg,40,g,33,g,0,g,0,g,0,g,0,g,33,g
+344,genghis grill,coca cola zero kids,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+345,genghis grill,coca cola kids,0,g,0,mg,20,g,18,g,0,g,0,g,0,g,0,g,18,g
+346,genghis grill,coke zero,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+347,genghis grill,coke zero sugar,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+348,genghis grill,coors light bottle,0,g,0,mg,10,g,5,g,1,g,0,g,0,g,0,g,0,g
+349,genghis grill,corn,0,g,0,mg,80,g,2,g,0,g,0,g,0,g,1,g,2,g
+350,genghis grill,corona bottle,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,0,g,0,g
+351,genghis grill,corona light bottle,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,0,g
+352,genghis grill,cranberry juice kids,0,g,0,mg,25,g,17,g,0,g,0,g,0,g,0,g,17,g
+353,genghis grill,diet coke,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+354,genghis grill,diet coke kids,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+355,genghis grill,dos equis bottle,0,g,0,mg,0,g,12,g,2,g,0,g,0,g,0,g,0,g
+356,genghis grill,double fudge brownies,40,g,160,mg,510,g,132,g,8,g,12,g,0,g,2,g,87,g
+357,genghis grill,double fudge brownies a la mode,53,g,210,mg,600,g,159,g,12,g,20,g,0,g,3,g,111,g
+358,genghis grill,dr pepper kids,0,g,0,mg,30,g,18,g,0,g,0,g,0,g,0,g,18,g
+359,genghis grill,dr pepper,0,g,0,mg,50,g,33,g,0,g,0,g,0,g,0,g,32,g
+360,genghis grill,dragon fruit sunrise,0,g,0,mg,15,g,34,g,0,g,0,g,0,g,1,g,33,g
+361,genghis grill,dragon salt,0,g,0,mg,690,g,1,g,0,g,0,g,0,g,0,g,0,g
+362,genghis grill,dragon sauce,0,g,0,mg,350,g,20,g,0,g,0,g,0,g,0,g,19,g
+363,genghis grill,fiesta lime chicken,2.5,g,15,mg,240,g,0,g,5,g,0,g,0,g,0,g,0,g
+364,genghis grill,flavored lemonade mango,0,g,0,mg,40,g,55,g,1,g,0,g,0,g,0,g,53,g
+365,genghis grill,flavored lemonade passion fruit,0,g,0,mg,65,g,54,g,1,g,0,g,0,g,0,g,51,g
+366,genghis grill,flavored lemonade peach,0,g,0,mg,55,g,55,g,1,g,0,g,0,g,0,g,53,g
+367,genghis grill,flavored lemonade raspberry,0,g,0,mg,45,g,48,g,1,g,0,g,0,g,0,g,46,g
+368,genghis grill,flavored lemonade strawberry,0,g,0,mg,55,g,55,g,1,g,0,g,0,g,0,g,52,g
+369,genghis grill,flavored lemonade watermelon,0,g,0,mg,40,g,48,g,1,g,0,g,0,g,0,g,47,g
+370,genghis grill,flavored sweet tea mango,0,g,0,mg,75,g,39,g,5,g,0,g,0,g,0,g,38,g
+371,genghis grill,flavored sweet tea passion fruit,0,g,0,mg,95,g,38,g,5,g,0,g,0,g,0,g,38,g
+372,genghis grill,flavored sweet tea peach,0,g,0,mg,95,g,38,g,5,g,0,g,0,g,0,g,38,g
+373,genghis grill,flavored sweet tea raspberry,0,g,0,mg,85,g,32,g,5,g,0,g,0,g,0,g,31,g
+374,genghis grill,flavored sweet tea strawberry,0,g,0,mg,90,g,39,g,5,g,0,g,0,g,0,g,37,g
+375,genghis grill,flavored sweet tea watermelon,0,g,0,mg,75,g,32,g,5,g,0,g,0,g,0,g,32,g
+376,genghis grill,flavored unsweet tea mango,0,g,0,mg,35,g,19,g,2,g,0,g,0,g,0,g,18,g
+377,genghis grill,flavored unsweet tea passion fruit,0,g,0,mg,60,g,17,g,2,g,0,g,0,g,0,g,16,g
+378,genghis grill,flavored unsweet tea peach,0,g,0,mg,50,g,18,g,2,g,0,g,0,g,0,g,18,g
+379,genghis grill,flavored unsweet tea raspberry,0,g,0,mg,40,g,12,g,2,g,0,g,0,g,0,g,11,g
+380,genghis grill,flavored unsweet tea strawberry,0,g,0,mg,50,g,19,g,2,g,0,g,0,g,0,g,17,g
+381,genghis grill,flavored unsweet tea watermelon,0,g,0,mg,35,g,12,g,2,g,0,g,0,g,0,g,12,g
+382,genghis grill,fried rice,4,g,5,mg,460,g,39,g,4,g,1,g,0,g,1,g,1,g
+383,genghis grill,garlic,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+384,genghis grill,garlic citrus edamame,7,g,0,mg,490,g,16,g,21,g,0,g,0,g,10,g,11,g
+385,genghis grill,garlic lime marinated white fish,0,g,20,mg,30,g,0,g,5,g,0,g,0,g,0,g,0,g
+386,genghis grill,garlic water sauce,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+387,genghis grill,gekkeikan glass,0,g,0,mg,0,g,10,g,1,g,0,g,0,g,0,g,10,g
+388,genghis grill,gekkeikan sake only,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,3,g
+389,genghis grill,ginger,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,1,g,0,g
+390,genghis grill,ginger beer,0,g,0,mg,30,g,29,g,1,g,0,g,0,g,0,g,27,g
+391,genghis grill,ginger water sauce,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+392,genghis grill,green beans,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,1,g,1,g
+393,genghis grill,green onions,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,1,g,1,g
+394,genghis grill,ham,1,g,10,mg,390,g,2,g,4,g,0,g,0,g,0,g,2,g
+395,genghis grill,heineken bottle,0,g,0,mg,0,g,11,g,1,g,0,g,0,g,0,g,0,g
+396,genghis grill,honey soy sauce,0,g,0,mg,680,g,19,g,1,g,0,g,0,g,0,g,18,g
+397,genghis grill,island teriyaki sauce,0,g,0,mg,600,g,18,g,0,g,0,g,0,g,0,g,16,g
+398,genghis grill,jalapenos,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,1,g
+399,genghis grill,khans daquiris mango schooner,0,g,0,mg,20,g,113,g,1,g,0,g,0,g,2,g,102,g
+400,genghis grill,khans daquiris mango signature,0,g,0,mg,10,g,59,g,0,g,0,g,0,g,2,g,52,g
+401,genghis grill,khans daquiris strawberry schooner,0,g,0,mg,60,g,113,g,1,g,0,g,0,g,2,g,100,g
+402,genghis grill,khans daquiris strawberry signature,0,g,0,mg,30,g,59,g,0,g,0,g,0,g,2,g,51,g
+403,genghis grill,khans krab,0.5,g,5,mg,200,g,5,g,2,g,0,g,0,g,0,g,2,g
+404,genghis grill,khans krunch,9,g,0,mg,120,g,16,g,2,g,1,g,0,g,1,g,0,g
+405,genghis grill,khangarita mango fishbowl,0,g,0,mg,35,g,126,g,1,g,0,g,0,g,3,g,110,g
+406,genghis grill,khangarita mango schooner,0,g,0,mg,15,g,56,g,1,g,0,g,0,g,2,g,47,g
+407,genghis grill,khangarita mango signature,0,g,0,mg,10,g,39,g,0,g,0,g,0,g,2,g,32,g
+408,genghis grill,khangarita peach fishbowl,130,g,140,mg,170,g,237,g,151,g,133,g,135,g,148,g,228,g
+409,genghis grill,khangarita peach schooner,52,g,55,mg,70,g,100,g,61,g,53,g,54,g,60,g,94,g
+410,genghis grill,khangarita peach signature,39,g,40,mg,50,g,72,g,45,g,40,g,41,g,45,g,68,g
+411,genghis grill,khangarita raspberry fishbowl,124,g,130,mg,160,g,231,g,145,g,126,g,129,g,142,g,222,g
+412,genghis grill,khangarita raspberry schooner,50,g,55,mg,65,g,98,g,58,g,51,g,52,g,58,g,91,g
+413,genghis grill,khangarita raspberry signature,37,g,40,mg,50,g,70,g,44,g,38,g,39,g,43,g,66,g
+414,genghis grill,khangarita strawberry fishbowl,130,g,140,mg,170,g,237,g,151,g,133,g,135,g,148,g,228,g
+415,genghis grill,khangarita strawberry schooner,52,g,55,mg,70,g,100,g,61,g,53,g,54,g,60,g,94,g
+416,genghis grill,khangarita strawberry signature,39,g,40,mg,50,g,72,g,45,g,40,g,41,g,45,g,68,g
+417,genghis grill,khangarita watermelon fishbowl,124,g,130,mg,160,g,231,g,145,g,126,g,129,g,142,g,222,g
+418,genghis grill,khangarita watermelon schooner,50,g,55,mg,65,g,98,g,58,g,51,g,52,g,58,g,91,g
+419,genghis grill,khangarita watermelon signature,37,g,40,mg,50,g,70,g,44,g,38,g,39,g,43,g,66,g
+420,genghis grill,kids chicken lo mein,14,g,65,mg,1920,g,69,g,30,g,1.5,g,0,g,3,g,27,g
+421,genghis grill,kids mighty macaroni and cheese,12,g,20,mg,950,g,64,g,15,g,4,g,0,g,3,g,11,g
+422,genghis grill,kids teriyaki fried rice,15,g,70,mg,2120,g,74,g,27,g,2.5,g,0,g,3,g,27,g
+423,genghis grill,kirin bottle,0,g,0,mg,0,g,12,g,1,g,0,g,0,g,0,g,0,g
+424,genghis grill,korean bbq pork,1,g,10,mg,180,g,2,g,4,g,0,g,0,g,0,g,2,g
+425,genghis grill,kung pao chicken large,78,g,245,mg,9730,g,309,g,216,g,9,g,0,g,5,g,121,g
+426,genghis grill,kung pao chicken regular,55,g,180,mg,6830,g,208,g,153,g,6,g,0,g,3,g,81,g
+427,genghis grill,kung pao chicken small,33,g,120,mg,3920,g,107,g,90,g,4,g,0,g,2,g,42,g
+428,genghis grill,kung pao sauce,3,g,0,mg,480,g,13,g,1,g,0,g,0,g,0,g,12,g
+429,genghis grill,legondary lemonade,0,g,0,mg,10,g,41,g,0,g,0,g,0,g,1,g,38,g
+430,genghis grill,lemon berry stack,18,g,55,mg,130,g,30,g,3,g,10,g,0,g,1,g,20,g
+431,genghis grill,lemon pepper,0,g,0,mg,370,g,2,g,0,g,0,g,0,g,0,g,0,g
+432,genghis grill,mandarin oranges,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,2,g
+433,genghis grill,margarita schooner,0,g,0,mg,50,g,129,g,0,g,0,g,0,g,1,g,122,g
+434,genghis grill,margarita signature,0,g,0,mg,25,g,66,g,0,g,0,g,0,g,1,g,61,g
+435,genghis grill,meatballs,7,g,15,mg,85,g,2,g,4,g,2.5,g,0,g,0,g,1,g
+436,genghis grill,michelob ultra bottle,0,g,0,mg,10,g,3,g,1,g,0,g,0,g,0,g,0,g
+437,genghis grill,milk kids,4.5,g,20,mg,105,g,11,g,8,g,3,g,0,g,0,g,11,g
+438,genghis grill,miller lite bottle,0,g,0,mg,5,g,3,g,0,g,0,g,0,g,0,g,0,g
+439,genghis grill,mint,0,g,0,mg,10,g,4,g,1,g,0,g,0,g,2,g,0,g
+440,genghis grill,minute maid lemonade,0,g,0,mg,20,g,36,g,0,g,0,g,0,g,0,g,35,g
+441,genghis grill,minute maid lemonade kids,0,g,0,mg,10,g,19,g,0,g,0,g,0,g,0,g,19,g
+442,genghis grill,mojitos schooner,0,g,0,mg,40,g,86,g,1,g,0,g,0,g,2,g,76,g
+443,genghis grill,mojitos signature,0,g,0,mg,20,g,44,g,0,g,0,g,0,g,1,g,38,g
+444,genghis grill,mongo bbq sauce,0,g,0,mg,230,g,17,g,0,g,0,g,0,g,0,g,13,g
+445,genghis grill,mongolian beef large,82,g,250,mg,5350,g,294,g,83,g,28,g,0,g,1,g,125,g
+446,genghis grill,mongolian beef regular,62,g,185,mg,3810,g,197,g,61,g,21,g,0,g,1,g,83,g
+447,genghis grill,mongolian beef small,43,g,125,mg,2260,g,100,g,39,g,15,g,0,g,0,g,42,g
+448,genghis grill,mongolian mule,0,g,0,mg,10,g,54,g,0,g,0,g,0,g,1,g,28,g
+449,genghis grill,mushrooms,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+450,genghis grill,orange juice kids,0,g,0,mg,35,g,32,g,0,g,0,g,0,g,0,g,32,g
+451,genghis grill,oreo stack,18,g,55,mg,130,g,26,g,3,g,9,g,0,g,1,g,15,g
+452,genghis grill,peach sunrise sangria schooner,0,g,0,mg,50,g,80,g,1,g,0,g,0,g,2,g,72,g
+453,genghis grill,peach sunrise sangria signature,0,g,0,mg,35,g,51,g,0,g,0,g,0,g,1,g,47,g
+454,genghis grill,peanut butter stack,25,g,45,mg,140,g,31,g,4,g,12,g,0,g,2,g,23,g
+455,genghis grill,peanuts,14,g,0,mg,0,g,6,g,7,g,2,g,0,g,2,g,1,g
+456,genghis grill,peas,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,1,g,1,g
+457,genghis grill,pepper,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,1,g,0,g
+458,genghis grill,pepperoni,14,g,30,mg,510,g,1,g,6,g,6,g,0,g,0,g,0,g
+459,genghis grill,pina colada schooner,0,g,10,mg,190,g,60,g,0,g,2.5,g,0,g,0,g,57,g
+460,genghis grill,pina colada signature,0,g,0,mg,95,g,31,g,0,g,1,g,0,g,0,g,30,g
+461,genghis grill,pineapple,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,4,g
+462,genghis grill,pineapple fusion schooner,0,g,10,mg,190,g,20,g,0,g,3,g,0,g,0,g,20,g
+463,genghis grill,pineapple fusion signature,0,g,5,mg,100,g,15,g,0,g,1.5,g,0,g,0,g,15,g
+464,genghis grill,pineapple juice kids,0,g,10,mg,180,g,0,g,0,g,3.5,g,0,g,0,g,0,g
+465,genghis grill,pork,1,g,15,mg,120,g,0,g,4,g,0,g,0,g,0,g,0,g
+466,genghis grill,pork potstickers,11,g,20,mg,1440,g,67,g,9,g,3,g,0,g,1,g,44,g
+467,genghis grill,potatoes,0,g,0,mg,10,g,6,g,1,g,0,g,0,g,1,g,0,g
+468,genghis grill,red onions,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,1,g
+469,genghis grill,red pepper spice,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,0,g
+470,genghis grill,red sangria schooner,0,g,0,mg,25,g,36,g,0,g,0,g,0,g,1,g,19,g
+471,genghis grill,red sangria signature,0,g,0,mg,20,g,23,g,0,g,0,g,0,g,1,g,11,g
+472,genghis grill,rice noodles,0,g,0,mg,0,g,34,g,3,g,0,g,0,g,0,g,0,g
+473,genghis grill,roasted garlic sauce,0,g,0,mg,470,g,14,g,1,g,0,g,0,g,0,g,12,g
+474,genghis grill,roasted red peppers,0,g,0,mg,240,g,6,g,1,g,0,g,0,g,1,g,4,g
+475,genghis grill,roasted tomato sauce,0,g,0,mg,75,g,1,g,3,g,0,g,0,g,0,g,17,g
+476,genghis grill,salt,0,g,0,mg,2360,g,0,g,0,g,0,g,0,g,0,g,0,g
+477,genghis grill,sam adams draft short,0,g,0,mg,15,g,21,g,3,g,0,g,0,g,0,g,0,g
+478,genghis grill,sam adams draft tall,0,g,0,mg,20,g,27,g,2,g,0,g,0,g,0,g,0,g
+479,genghis grill,sam adams draft sake bomb portion,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+480,genghis grill,sapporo bottle,0,g,0,mg,0,g,19,g,3,g,0,g,0,g,0,g,0,g
+481,genghis grill,sausage,8,g,20,mg,250,g,2,g,3,g,3,g,0,g,0,g,2,g
+482,genghis grill,sesame beef large,127,g,275,mg,4890,g,143,g,81,g,33,g,0,g,0,g,89,g
+483,genghis grill,sesame beef regular,92,g,205,mg,3390,g,41,g,60,g,24,g,0,g,0,g,60,g
+484,genghis grill,sesame beef small,58,g,140,mg,1890,g,75,g,39,g,16,g,0,g,0,g,31,g
+485,genghis grill,sesame sauce,4.5,g,0,mg,320,g,12,g,0,g,1,g,0,g,0,g,9,g
+486,genghis grill,shiner bock bottle,0,g,0,mg,0,g,13,g,1,g,0,g,0,g,0,g,0,g
+487,genghis grill,sliced beef,5,g,20,mg,20,g,0,g,5,g,2,g,0,g,0,g,0,g
+488,genghis grill,spicy sriracha chicken,0,g,15,mg,190,g,0,g,5,g,0,g,0,g,0,g,0,g
+489,genghis grill,spinach,0,g,0,mg,20,g,1,g,1,g,0,g,0,g,1,g,0,g
+490,genghis grill,spiral pasta,4,g,0,mg,90,g,26,g,5,g,0,g,0,g,2,g,1,g
+491,genghis grill,sprite,0,g,0,mg,55,g,32,g,0,g,0,g,0,g,0,g,32,g
+492,genghis grill,sprite kids,0,g,0,mg,30,g,17,g,0,g,0,g,0,g,0,g,17,g
+493,genghis grill,squash,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+494,genghis grill,steak,5,g,20,mg,80,g,0,g,5,g,2,g,0,g,0,g,0,g
+495,genghis grill,steamed rice,0,g,0,mg,0,g,29,g,3,g,0,g,0,g,0,g,0,g
+496,genghis grill,stella artois bottle,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,0,g,0,g
+497,genghis grill,sweet ginger garlic,0.5,g,0,mg,230,g,2,g,0,g,0,g,0,g,1,g,1,g
+498,genghis grill,sweet iced tea,0,g,0,mg,60,g,20,g,4,g,0,g,0,g,0,g,20,g
+499,genghis grill,sweet n sour sauce,0,g,0,mg,160,g,11,g,0,g,0,g,0,g,0,g,10,g
+500,genghis grill,teriyaki chicken large,12,g,245,mg,9390,g,300,g,108,g,2,g,0,g,1,g,168,g
+501,genghis grill,teriyaki chicken regular,11,g,185,mg,6630,g,203,g,82,g,1,g,0,g,1,g,114,g
+502,genghis grill,teriyaki chicken small,8,g,120,mg,3790,g,107,g,52,g,1,g,0,g,0,g,60,g
+503,genghis grill,thai peanut sauce,7,g,0,mg,310,g,9,g,1,g,1,g,0,g,0,g,8,g
+504,genghis grill,tofu,2,g,0,mg,0,g,1,g,3,g,0,g,0,g,0,g,0,g
+505,genghis grill,tomatoes,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+506,genghis grill,tortillas,5,g,0,mg,510,g,38,g,6,g,1,g,0,g,2,g,3,g
+507,genghis grill,triple stack,61,g,155,mg,400,g,87,g,10,g,31,g,0,g,4,g,58,g
+508,genghis grill,tsingtao bottle,0,g,0,mg,0,g,15,g,0,g,0,g,0,g,0,g,0,g
+509,genghis grill,tyku glass,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,0,g
+510,genghis grill,tyku sake only,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+511,genghis grill,udon noodles,2,g,0,mg,135,g,25,g,4,g,0,g,0,g,1,g,0,g
+512,genghis grill,unsweet iced tea,0,g,0,mg,15,g,0,g,1,g,0,g,0,g,0,g,0,g
+513,genghis grill,water chestnuts,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,1,g
+514,genghis grill,white grapefruit juice kids,0,g,0,mg,50,g,16,g,1,g,0,g,0,g,1,g,6,g
+515,genghis grill,white sangria schooner,0,g,0,mg,25,g,35,g,0,g,0,g,0,g,1,g,19,g
+516,genghis grill,white sangria signature,0,g,0,mg,20,g,23,g,0,g,0,g,0,g,1,g,11,g
+517,genghis grill,wonton strips,6,g,0,mg,180,g,16,g,4,g,0,g,0,g,0,g,0,g
+518,genghis grill,yellow curry salt,0,g,0,mg,600,g,2,g,0,g,0,g,0,g,0,g,0,g
+519,genghis grill,yellow onions,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,1,g
+520,genghis grill,zucchini,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+521,giardino salads,1000 island dressing,19,g,0,mg,530,g,9,g,0,g,3,g,0,g,0,g,8,g
+522,giardino salads,add wrap plain tortilla,7,g,0,mg,310,g,52,g,7,g,1.5,g,0,g,2,g,0,g
+523,giardino salads,add wrap spinach and herb tortilla,7,g,0,mg,320,g,52,g,7,g,1.5,g,0,g,2,g,0,g
+524,giardino salads,add wrap tomato tortilla,7,g,0,mg,320,g,52,g,7,g,1.5,g,0,g,2,g,0,g
+525,giardino salads,add wrap wheat tortilla,8,g,0,mg,300,g,48,g,8,g,2,g,0,g,5,g,0,g
+526,giardino salads,almonds sliced,11,g,0,mg,0,g,4,g,5,g,0.5,g,0,g,3,g,0,g
+527,giardino salads,anchovy,1,g,5,mg,420,g,0,g,2,g,0,g,0,g,0,g,0,g
+528,giardino salads,apple honey dressing,21,g,0,mg,450,g,15,g,0,g,3,g,0,g,0,g,15,g
+529,giardino salads,apple red and green,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,1,g,6,g
+530,giardino salads,arugula,0,g,0,mg,15,g,2,g,1,g,0,g,0,g,0,g,1,g
+531,giardino salads,asiago cheese and ham soup basta size,36,g,100,mg,1480,g,34,g,12,g,18,g,1,g,2,g,6,g
+532,giardino salads,asiago cheese and ham soup piccolo size,18,g,50,mg,740,g,17,g,6,g,9,g,0,g,0,g,3,g
+533,giardino salads,asparagus soup basta size,14,g,10,mg,1620,g,26,g,6,g,3,g,1,g,0,g,8,g
+534,giardino salads,asparagus soup piccolo size,7,g,5,mg,810,g,13,g,3,g,1.5,g,0,g,0,g,4,g
+535,giardino salads,avocado,10,g,0,mg,0,g,6,g,1,g,1.5,g,0,g,5,g,0,g
+536,giardino salads,baby leaf,0,g,0,mg,60,g,3,g,2,g,0,g,0,g,2,g,0,g
+537,giardino salads,bacon,8,g,40,mg,570,g,0,g,12,g,4,g,0,g,0,g,0,g
+538,giardino salads,baja salad add sour guacamole dressing basta size,15,g,10,mg,260,g,4,g,2,g,4,g,0,g,0,g,2,g
+539,giardino salads,baja salad add sour guacamole dressing piccolo size,13,g,10,mg,230,g,3,g,2,g,3.5,g,0,g,0,g,2,g
+540,giardino salads,baja salad add tortilla chips basta size,5,g,0,mg,35,g,14,g,1,g,0.5,g,0,g,0,g,0,g
+541,giardino salads,baja salad add tortilla chips piccolo size,3,g,0,mg,25,g,9,g,1,g,0,g,0,g,0,g,0,g
+542,giardino salads,baja salad basta size,9,g,25,mg,360,g,35,g,15,g,4.5,g,0,g,13,g,9,g
+543,giardino salads,baja salad piccolo size,8,g,25,mg,350,g,32,g,14,g,4.5,g,0,g,12,g,7,g
+544,giardino salads,baja wrap without tortilla,8,g,25,mg,340,g,28,g,13,g,4.5,g,0,g,10,g,5,g
+545,giardino salads,baja wrap add sour guacamole dressing,11,g,5,mg,200,g,3,g,1,g,3,g,0,g,0,g,1,g
+546,giardino salads,baked chicken,1,g,40,mg,310,g,3,g,16,g,0,g,0,g,0,g,0,g
+547,giardino salads,basil pesto,4.5,g,0,mg,95,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+548,giardino salads,bean sprouts,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,0,g,1,g
+549,giardino salads,berry dressing,30,g,0,mg,190,g,6,g,0,g,4.5,g,0,g,0,g,6,g
+550,giardino salads,big apple salad add creamy cheese dressing basta size,32,g,30,mg,510,g,2,g,2,g,7,g,0,g,0,g,2,g
+551,giardino salads,big apple salad add creamy cheese dressing piccolo size,28,g,25,mg,450,g,2,g,2,g,6,g,0,g,0,g,2,g
+552,giardino salads,big apple salad add parmesan and herb croutons basta size,4.5,g,0,mg,120,g,8,g,2,g,1,g,0,g,0,g,0,g
+553,giardino salads,big apple salad add parmesan and herb croutons piccolo size,3,g,0,mg,80,g,5,g,1,g,0.5,g,0,g,0,g,0,g
+554,giardino salads,big apple salad basta size,21,g,0,mg,55,g,30,g,9,g,1.5,g,0,g,11,g,17,g
+555,giardino salads,big apple salad piccolo size,21,g,0,mg,50,g,25,g,8,g,1.5,g,0,g,9,g,15,g
+556,giardino salads,big apple wrap without tortilla,20,g,0,mg,45,g,21,g,7,g,1.5,g,0,g,7,g,13,g
+557,giardino salads,big apple wrap add creamy cheese dressing,24,g,20,mg,380,g,1,g,1,g,5,g,0,g,0,g,1,g
+558,giardino salads,black beans,0.5,g,0,mg,190,g,12,g,4,g,0,g,0,g,6,g,0,g
+559,giardino salads,blue cheese,8,g,20,mg,380,g,0,g,6,g,5,g,0,g,0,g,0,g
+560,giardino salads,brie cheese,9,g,30,mg,170,g,1,g,5,g,5,g,0,g,0,g,0,g
+561,giardino salads,broccoli,0,g,0,mg,15,g,3,g,1,g,0,g,0,g,1,g,0,g
+562,giardino salads,broccoli and cheese soup basta size,34,g,100,mg,1940,g,22,g,20,g,18,g,1,g,4,g,8,g
+563,giardino salads,broccoli and cheese soup piccolo size,17,g,50,mg,970,g,11,g,10,g,9,g,0,g,2,g,4,g
+564,giardino salads,brown rice,0,g,0,mg,0,g,10,g,1,g,0,g,0,g,0,g,0,g
+565,giardino salads,caesar dressing,38,g,0,mg,770,g,2,g,2,g,6,g,0,g,0,g,0,g
+566,giardino salads,caesar salad add caesar dressing basta size,38,g,30,mg,770,g,2,g,2,g,6,g,0,g,0,g,0,g
+567,giardino salads,caesar salad add caesar dressing piccolo size,33,g,25,mg,680,g,2,g,2,g,5,g,0,g,0,g,0,g
+568,giardino salads,caesar salad add garlic croutons basta size,4.5,g,0,mg,105,g,9,g,2,g,0.5,g,0,g,0,g,0,g
+569,giardino salads,caesar salad add garlic croutons piccolo size,3,g,0,mg,70,g,6,g,1,g,0,g,0,g,0,g,0,g
+570,giardino salads,caesar salad basta size,15,g,60,mg,1300,g,9,g,24,g,7,g,0,g,6,g,3,g
+571,giardino salads,caesar salad piccolo size,15,g,60,mg,1290,g,8,g,23,g,7,g,0,g,5,g,3,g
+572,giardino salads,caesar wrap without tortilla,15,g,60,mg,1280,g,4,g,22,g,7,g,0,g,4,g,4,g
+573,giardino salads,caesar wrap add caesar dressing,28,g,20,mg,580,g,1,g,1,g,4.5,g,0,g,0,g,0,g
+574,giardino salads,capers,0,g,0,mg,600,g,0,g,0,g,0,g,0,g,0,g,0,g
+575,giardino salads,caprese in the mix salad add balsamic dressing and basil pesto basta size,14,g,0,mg,450,g,8,g,0,g,1.5,g,0,g,0,g,8,g
+576,giardino salads,caprese in the mix salad add balsamic dressing and basil pesto piccolo size,11,g,0,mg,360,g,7,g,0,g,1,g,0,g,0,g,7,g
+577,giardino salads,caprese in the mix salad add garlic croutons basta size,4.5,g,0,mg,105,g,9,g,2,g,0.5,g,0,g,0,g,0,g
+578,giardino salads,caprese in the mix salad add garlic croutons piccolo size,3,g,0,mg,70,g,6,g,1,g,0,g,0,g,0,g,0,g
+579,giardino salads,caprese in the mix salad basta size,15,g,55,mg,860,g,13,g,18,g,8,g,0,g,7,g,6,g
+580,giardino salads,caprese in the mix salad piccolo size,15,g,55,mg,860,g,11,g,17,g,8,g,0,g,6,g,5,g
+581,giardino salads,caprese in the mix wrap without tortilla,14,g,55,mg,850,g,7,g,16,g,8,g,0,g,3,g,4,g
+582,giardino salads,caprese in the mix wrap add balsamic dressing and basil pesto,9,g,0,mg,320,g,6,g,0,g,1,g,0,g,0,g,6,g
+583,giardino salads,carrots,0,g,0,mg,25,g,3,g,0,g,0,g,0,g,0,g,2,g
+584,giardino salads,cashews,10,g,0,mg,0,g,6,g,4,g,1.5,g,0,g,2,g,1,g
+585,giardino salads,cauliflower,0,g,0,mg,15,g,2,g,1,g,0,g,0,g,0,g,0,g
+586,giardino salads,celery,0,g,0,mg,35,g,1,g,0,g,0,g,0,g,0,g,0,g
+587,giardino salads,cheddar cheese,7,g,25,mg,135,g,0,g,5,g,4.5,g,0,g,0,g,0,g
+588,giardino salads,chicken and cheese soup basta size,10,g,50,mg,2520,g,26,g,12,g,5,g,0,g,2,g,4,g
+589,giardino salads,chicken and cheese soup piccolo size,5,g,25,mg,1260,g,13,g,6,g,2.5,g,0,g,0,g,2,g
+590,giardino salads,chicken coconut curry basta size,28,g,90,mg,1640,g,34,g,14,g,14,g,0,g,4,g,12,g
+591,giardino salads,chicken coconut curry piccolo size,14,g,45,mg,820,g,17,g,7,g,7,g,0,g,2,g,6,g
+592,giardino salads,citrus cilantro dressing,2,g,0,mg,700,g,13,g,0,g,0,g,0,g,0,g,9,g
+593,giardino salads,classic balsamic dressing,9,g,0,mg,360,g,8,g,0,g,1,g,0,g,0,g,8,g
+594,giardino salads,classic spinach salad add balsamic dressing basta size,9,g,0,mg,360,g,8,g,0,g,1,g,0,g,0,g,8,g
+595,giardino salads,classic spinach salad add balsamic dressing piccolo size,8,g,0,mg,310,g,7,g,0,g,1,g,0,g,0,g,7,g
+596,giardino salads,classic spinach salad add garlic croutons basta size,4.5,g,0,mg,105,g,9,g,2,g,0.5,g,0,g,0,g,0,g
+597,giardino salads,classic spinach salad add garlic croutons piccolo size,3,g,0,mg,70,g,6,g,1,g,0,g,0,g,0,g,0,g
+598,giardino salads,classic spinach salad basta size,43,g,330,mg,1140,g,9,g,35,g,13,g,0,g,6,g,1,g
+599,giardino salads,classic spinach salad piccolo size,40,g,210,mg,1060,g,6,g,30,g,12,g,0,g,5,g,0,g
+600,giardino salads,classic spinach wrap without tortilla,40,g,210,mg,1040,g,5,g,29,g,12,g,0,g,4,g,0,g
+601,giardino salads,classic spinach wrap add balsamic dressing,7,g,0,mg,270,g,6,g,0,g,0.5,g,0,g,0,g,6,g
+602,giardino salads,corn,0,g,0,mg,0,g,11,g,1,g,0,g,0,g,1,g,2,g
+603,giardino salads,corn chowder soup basta size,14,g,10,mg,1480,g,43,g,4,g,5,g,0,g,4,g,10,g
+604,giardino salads,corn chowder soup piccolo size,7,g,5,mg,740,g,22,g,2,g,2.5,g,0,g,2,g,5,g
+605,giardino salads,country cobb salad add country garlic dressing basta size,31,g,20,mg,510,g,4,g,2,g,6,g,0,g,0,g,2,g
+606,giardino salads,country cobb salad add country garlic dressing piccolo size,27,g,15,mg,440,g,3,g,2,g,5,g,0,g,0,g,2,g
+607,giardino salads,country cobb salad add herb parmesan croutons basta size,4.5,g,0,mg,120,g,8,g,2,g,1,g,0,g,0,g,0,g
+608,giardino salads,country cobb salad add herb parmesan croutons piccolo size,3,g,0,mg,80,g,5,g,1,g,0.5,g,0,g,0,g,0,g
+609,giardino salads,country cobb salad basta size,12,g,305,mg,720,g,15,g,24,g,4,g,0,g,7,g,7,g
+610,giardino salads,country cobb salad piccolo size,10,g,245,mg,700,g,13,g,22,g,4,g,0,g,6,g,6,g
+611,giardino salads,country cobb wrap without tortilla,10,g,245,mg,690,g,9,g,20,g,3.5,g,0,g,3,g,5,g
+612,giardino salads,country cobb wrap add country garlic dressing,23,g,15,mg,380,g,3,g,1,g,4.5,g,0,g,0,g,1,g
+613,giardino salads,country garlic dressing,31,g,0,mg,510,g,4,g,2,g,6,g,0,g,0,g,2,g
+614,giardino salads,crab,0,g,10,mg,510,g,12,g,4,g,0,g,0,g,0,g,2,g
+615,giardino salads,cream of broccoli soup basta size,42,g,60,mg,1940,g,20,g,16,g,14,g,0,g,4,g,8,g
+616,giardino salads,cream of broccoli soup piccolo size,21,g,30,mg,970,g,10,g,8,g,7,g,0,g,2,g,4,g
+617,giardino salads,cream of carrot soup basta size,26,g,70,mg,2080,g,26,g,6,g,14,g,0,g,4,g,8,g
+618,giardino salads,cream of carrot soup piccolo size,13,g,35,mg,1040,g,13,g,3,g,7,g,0,g,2,g,4,g
+619,giardino salads,creamy cheese dressing,32,g,0,mg,510,g,2,g,2,g,7,g,0,g,0,g,2,g
+620,giardino salads,creamy tuna salad,15,g,25,mg,330,g,0,g,12,g,2.5,g,0,g,0,g,0,g
+621,giardino salads,cucumbers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+622,giardino salads,curry turkey salad,8,g,20,mg,480,g,9,g,9,g,1,g,0,g,0,g,6,g
+623,giardino salads,deli ham,1.5,g,20,mg,530,g,2,g,6,g,1,g,0,g,0,g,2,g
+624,giardino salads,deli turkey,0,g,15,mg,320,g,2,g,6,g,0,g,0,g,0,g,0,g
+625,giardino salads,dried cranberries,0,g,0,mg,0,g,29,g,0,g,0,g,0,g,2,g,23,g
+626,giardino salads,dried fruit,0,g,0,mg,20,g,42,g,1,g,0,g,0,g,4,g,27,g
+627,giardino salads,egg hard boiled,7,g,270,mg,80,g,1,g,8,g,2,g,0,g,0,g,0,g
+628,giardino salads,feta cheese,4,g,15,mg,340,g,2,g,6,g,3,g,0,g,0,g,1,g
+629,giardino salads,fizz salad add berry dressing basta size,30,g,0,mg,190,g,6,g,0,g,4.5,g,0,g,0,g,6,g
+630,giardino salads,fizz salad add berry dressing piccolo size,26,g,0,mg,170,g,5,g,0,g,4,g,0,g,0,g,5,g
+631,giardino salads,fizz salad add garlic croutons basta size,4.5,g,0,mg,105,g,9,g,2,g,0.5,g,0,g,0,g,0,g
+632,giardino salads,fizz salad add garlic croutons piccolo size,3,g,0,mg,70,g,6,g,1,g,0,g,0,g,0,g,0,g
+633,giardino salads,fizz salad basta size,30,g,20,mg,420,g,39,g,15,g,7,g,0,g,10,g,25,g
+634,giardino salads,fizz salad piccolo size,29,g,20,mg,410,g,37,g,14,g,7,g,0,g,9,g,24,g
+635,giardino salads,fizz wrap without tortilla,29,g,20,mg,400,g,35,g,13,g,7,g,0,g,8,g,23,g
+636,giardino salads,fizz wrap add berry dressing,23,g,0,mg,140,g,4,g,0,g,3.5,g,0,g,0,g,4,g
+637,giardino salads,french onion soup basta size,7,g,20,mg,2580,g,22,g,4,g,3,g,0,g,2,g,8,g
+638,giardino salads,french onion soup piccolo size,3.5,g,10,mg,1290,g,11,g,2,g,1.5,g,0,g,0,g,4,g
+639,giardino salads,fresh mozzarella,14,g,55,mg,240,g,0,g,14,g,8,g,0,g,0,g,0,g
+640,giardino salads,garbanzo beans,1,g,0,mg,200,g,9,g,3,g,0,g,0,g,2,g,0,g
+641,giardino salads,garden patch salad add parmesan dressing basta size,34,g,0,mg,700,g,2,g,2,g,6,g,0,g,0,g,2,g
+642,giardino salads,garden patch salad add parmesan dressing piccolo size,30,g,0,mg,610,g,2,g,2,g,5,g,0,g,0,g,2,g
+643,giardino salads,garden patch salad add wheat croutons basta size,4.5,g,0,mg,120,g,11,g,2,g,0.5,g,0,g,1,g,0,g
+644,giardino salads,garden patch salad add wheat croutons piccolo size,3,g,0,mg,80,g,7,g,2,g,0,g,0,g,0,g,0,g
+645,giardino salads,garden patch salad basta size,1,g,20,mg,310,g,17,g,20,g,0,g,0,g,8,g,6,g
+646,giardino salads,garden patch salad piccolo size,1,g,20,mg,290,g,16,g,19,g,0,g,0,g,7,g,6,g
+647,giardino salads,garden patch wrap without tortilla,0.5,g,20,mg,260,g,13,g,17,g,0,g,0,g,5,g,5,g
+648,giardino salads,garden patch wrap add parmesan dressing,26,g,0,mg,520,g,1,g,1,g,4.5,g,0,g,0,g,1,g
+649,giardino salads,garlic croutons,4.5,g,0,mg,105,g,9,g,2,g,0.5,g,0,g,0,g,0,g
+650,giardino salads,ginger dressing,26,g,0,mg,360,g,13,g,0,g,4.5,g,0,g,0,g,11,g
+651,giardino salads,goat cheese,4.5,g,10,mg,100,g,1,g,3,g,3,g,0,g,0,g,0,g
+652,giardino salads,gourmet chef salad add 1000 island dressing basta size,19,g,10,mg,530,g,9,g,0,g,3,g,0,g,0,g,8,g
+653,giardino salads,gourmet chef salad add 1000 island dressing piccolo size,17,g,10,mg,460,g,8,g,0,g,2.5,g,0,g,0,g,7,g
+654,giardino salads,gourmet chef salad add herb parmesan croutons basta size,4.5,g,0,mg,120,g,8,g,2,g,1,g,0,g,0,g,0,g
+655,giardino salads,gourmet chef salad add herb parmesan croutons piccolo size,3,g,0,mg,80,g,5,g,1,g,0.5,g,0,g,0,g,0,g
+656,giardino salads,gourmet chef salad basta size,23,g,310,mg,1040,g,15,g,23,g,8,g,0,g,6,g,10,g
+657,giardino salads,gourmet chef salad piccolo size,19,g,180,mg,740,g,11,g,16,g,6,g,0,g,4,g,7,g
+658,giardino salads,gourmet chef wrap without tortilla,18,g,185,mg,720,g,7,g,14,g,6,g,0,g,2,g,5,g
+659,giardino salads,gourmet chef wrap add 1000 island dressing,14,g,5,mg,400,g,7,g,0,g,2,g,0,g,0,g,6,g
+660,giardino salads,grapes,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,8,g
+661,giardino salads,greek village salad add olive dressing basta size,17,g,10,mg,510,g,4,g,0,g,3,g,0,g,0,g,2,g
+662,giardino salads,greek village salad add olive dressing piccolo size,15,g,10,mg,450,g,3,g,0,g,2.5,g,0,g,0,g,2,g
+663,giardino salads,greek village salad add toasted pitas basta size,3.5,g,0,mg,90,g,8,g,2,g,0.5,g,0,g,0,g,0,g
+664,giardino salads,greek village salad add toasted pitas piccolo size,2.5,g,0,mg,60,g,5,g,1,g,0,g,0,g,0,g,0,g
+665,giardino salads,greek village salad basta size,5,g,15,mg,370,g,17,g,10,g,3,g,0,g,7,g,8,g
+666,giardino salads,greek village salad piccolo size,5,g,15,mg,370,g,15,g,10,g,3,g,0,g,6,g,7,g
+667,giardino salads,greek village wrap without tortilla,4.5,g,15,mg,360,g,11,g,8,g,3,g,0,g,4,g,6,g
+668,giardino salads,greek village wrap add olive dressing,13,g,5,mg,380,g,3,g,0,g,2,g,0,g,0,g,1,g
+669,giardino salads,habanero salad add citrus cilantro dressing basta size,2,g,0,mg,700,g,13,g,0,g,0,g,0,g,0,g,9,g
+670,giardino salads,habanero salad add citrus cilantro dressing piccolo size,1.5,g,0,mg,610,g,12,g,0,g,0,g,0,g,0,g,8,g
+671,giardino salads,habanero salad add plantain chips basta size,6,g,0,mg,45,g,13,g,1,g,1,g,0,g,1,g,2,g
+672,giardino salads,habanero salad add plantain chips piccolo size,4,g,0,mg,30,g,8,g,0,g,0.5,g,0,g,0,g,1,g
+673,giardino salads,habanero salad basta size,12,g,0,mg,230,g,27,g,8,g,1.5,g,0,g,14,g,6,g
+674,giardino salads,habanero salad piccolo size,10,g,0,mg,230,g,24,g,7,g,1.5,g,0,g,12,g,5,g
+675,giardino salads,habanero wrap without tortilla,10,g,0,mg,220,g,20,g,6,g,1.5,g,0,g,9,g,4,g
+676,giardino salads,habanero wrap add citrus cilantro dressing,1.5,g,0,mg,520,g,10,g,0,g,0,g,0,g,0,g,7,g
+677,giardino salads,herb parmesan croutons,4.5,g,0,mg,120,g,8,g,2,g,1,g,0,g,0,g,0,g
+678,giardino salads,homecooking salad add berry dressing basta size,30,g,0,mg,190,g,6,g,0,g,4.5,g,0,g,0,g,6,g
+679,giardino salads,homecooking salad add berry dressing piccolo size,26,g,0,mg,170,g,5,g,0,g,4,g,0,g,0,g,5,g
+680,giardino salads,homecooking salad add sweet bread croutons basta size,7,g,0,mg,15,g,14,g,0,g,1,g,0,g,0,g,13,g
+681,giardino salads,homecooking salad add sweet bread croutons piccolo size,4.5,g,0,mg,10,g,9,g,0,g,0.5,g,0,g,0,g,9,g
+682,giardino salads,homecooking salad basta size,22,g,15,mg,390,g,50,g,17,g,1.5,g,0,g,11,g,27,g
+683,giardino salads,homecooking salad piccolo size,22,g,15,mg,380,g,49,g,16,g,1.5,g,0,g,10,g,27,g
+684,giardino salads,homecooking wrap without tortilla,22,g,15,mg,370,g,47,g,15,g,1.5,g,0,g,8,g,26,g
+685,giardino salads,homecooking wrap add berry dressing,23,g,0,mg,140,g,4,g,0,g,3.5,g,0,g,0,g,4,g
+686,giardino salads,iceberg lettuce,0,g,0,mg,20,g,5,g,2,g,0,g,0,g,2,g,3,g
+687,giardino salads,italian chianti dressing,11,g,0,mg,430,g,6,g,0,g,2,g,0,g,0,g,4,g
+688,giardino salads,jasmine rice,0,g,0,mg,0,g,12,g,1,g,0,g,0,g,0,g,0,g
+689,giardino salads,kandq salad add balsamic dressing basta size,9,g,0,mg,360,g,8,g,0,g,1,g,0,g,0,g,8,g
+690,giardino salads,kandq salad add balsamic dressing piccolo size,8,g,0,mg,310,g,7,g,0,g,1,g,0,g,0,g,7,g
+691,giardino salads,kandq salad add garlic croutons basta size,4.5,g,0,mg,105,g,9,g,2,g,0.5,g,0,g,0,g,0,g
+692,giardino salads,kandq salad add garlic croutons piccolo size,3,g,0,mg,70,g,6,g,1,g,0,g,0,g,0,g,0,g
+693,giardino salads,kandq salad basta size,22,g,25,mg,540,g,32,g,23,g,6,g,0,g,10,g,7,g
+694,giardino salads,kandq salad piccolo size,22,g,25,mg,530,g,29,g,22,g,6,g,0,g,9,g,7,g
+695,giardino salads,kandq wrap without tortilla,21,g,25,mg,520,g,27,g,21,g,6,g,0,g,7,g,6,g
+696,giardino salads,kandq wrap add balsamic dressing,7,g,0,mg,270,g,6,g,0,g,0.5,g,0,g,0,g,6,g
+697,giardino salads,kale,0.5,g,0,mg,35,g,8,g,3,g,0,g,0,g,2,g,0,g
+698,giardino salads,la fiesta grain bowl,3.5,g,55,mg,540,g,76,g,30,g,0,g,0,g,10,g,4,g
+699,giardino salads,la fiesta wrap without tortilla,3,g,55,mg,540,g,49,g,28,g,0,g,0,g,8,g,4,g
+700,giardino salads,la fiesta wrap add sour guacamole dressing,11,g,5,mg,200,g,3,g,1,g,3,g,0,g,0,g,1,g
+701,giardino salads,la fiesta add sour guacamole dressing,11,g,5,mg,200,g,3,g,1,g,3,g,0,g,0,g,1,g
+702,giardino salads,lemon dill seafood salad,11,g,40,mg,390,g,5,g,5,g,2,g,0,g,0,g,0,g
+703,giardino salads,loaded baked potato soup basta size,40,g,120,mg,1760,g,36,g,18,g,24,g,1,g,4,g,8,g
+704,giardino salads,loaded baked potato soup piccolo size,20,g,60,mg,880,g,18,g,9,g,12,g,0,g,2,g,4,g
+705,giardino salads,mama mia salad add garlic croutons basta size,4.5,g,0,mg,105,g,9,g,2,g,0.5,g,0,g,0,g,0,g
+706,giardino salads,mama mia salad add garlic croutons piccolo size,3,g,0,mg,70,g,6,g,1,g,0,g,0,g,0,g,0,g
+707,giardino salads,mama mia salad add italian chainti dressing basta size,11,g,0,mg,430,g,6,g,0,g,2,g,0,g,0,g,4,g
+708,giardino salads,mama mia salad add italian chainti dressing piccolo size,10,g,0,mg,380,g,5,g,0,g,1.5,g,0,g,0,g,3,g
+709,giardino salads,mama mia salad basta size,17,g,10,mg,190,g,20,g,13,g,4,g,0,g,12,g,5,g
+710,giardino salads,mama mia salad piccolo size,17,g,10,mg,180,g,18,g,13,g,4,g,0,g,11,g,5,g
+711,giardino salads,mama mia wrap without tortilla,16,g,10,mg,180,g,15,g,11,g,4,g,0,g,9,g,3,g
+712,giardino salads,mama mia wrap add italian chainti dressing,9,g,0,mg,330,g,4,g,0,g,1.5,g,0,g,0,g,3,g
+713,giardino salads,mandarin oranges,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,3,g
+714,giardino salads,mango poppy dressing,1,g,0,mg,720,g,15,g,0,g,0,g,0,g,0,g,13,g
+715,giardino salads,mediterranean lentil soup basta size,4,g,0,mg,1820,g,43,g,14,g,0,g,0,g,8,g,8,g
+716,giardino salads,mediterranean lentil soup piccolo size,2,g,0,mg,910,g,22,g,7,g,0,g,0,g,4,g,4,g
+717,giardino salads,minestrone soup basta size,2,g,0,mg,1780,g,29,g,6,g,0,g,0,g,6,g,4,g
+718,giardino salads,minestrone soup piccolo size,1,g,0,mg,890,g,15,g,3,g,0,g,0,g,3,g,2,g
+719,giardino salads,mushroom brie soup basta size,26,g,80,mg,1760,g,36,g,14,g,16,g,1,g,4,g,8,g
+720,giardino salads,mushroom brie soup piccolo size,13,g,40,mg,880,g,18,g,7,g,8,g,0,g,2,g,4,g
+721,giardino salads,mushroom harvest soup basta size,14,g,40,mg,2080,g,28,g,8,g,8,g,0,g,4,g,6,g
+722,giardino salads,mushroom harvest soup piccolo size,7,g,20,mg,1040,g,14,g,4,g,4,g,0,g,2,g,3,g
+723,giardino salads,mushrooms,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+724,giardino salads,mustard wine dressing,2,g,0,mg,1120,g,13,g,0,g,0,g,0,g,0,g,13,g
+725,giardino salads,napa salad add herb parmesan croutons basta size,4.5,g,0,mg,120,g,8,g,2,g,1,g,0,g,0,g,0,g
+726,giardino salads,napa salad add herb parmesan croutons piccolo size,3,g,0,mg,80,g,5,g,1,g,0.5,g,0,g,0,g,0,g
+727,giardino salads,napa salad add mustard wine dressing basta size,2,g,0,mg,1120,g,13,g,0,g,0,g,0,g,0,g,13,g
+728,giardino salads,napa salad add mustard wine dressing piccolo size,1.5,g,0,mg,980,g,12,g,0,g,0,g,0,g,0,g,12,g
+729,giardino salads,napa salad basta size,41,g,60,mg,630,g,23,g,16,g,12,g,0,g,7,g,12,g
+730,giardino salads,napa salad piccolo size,32,g,30,mg,460,g,20,g,10,g,7,g,0,g,6,g,11,g
+731,giardino salads,napa wrap without tortilla,32,g,30,mg,450,g,16,g,9,g,7,g,0,g,4,g,10,g
+732,giardino salads,napa wrap add mustard wine dressing,1.5,g,0,mg,840,g,10,g,0,g,0,g,0,g,0,g,10,g
+733,giardino salads,nut mix,17,g,0,mg,0,g,5,g,5,g,1.5,g,0,g,3,g,0,g
+734,giardino salads,odys toss salad add ginger dressing basta size,26,g,10,mg,360,g,13,g,0,g,4.5,g,0,g,0,g,11,g
+735,giardino salads,odys toss salad add ginger dressing piccolo size,26,g,10,mg,360,g,13,g,0,g,4.5,g,0,g,0,g,11,g
+736,giardino salads,odys toss salad add pumpernickel croutons basta size,5,g,5,mg,125,g,9,g,2,g,0.5,g,0,g,0,g,0,g
+737,giardino salads,odys toss salad add pumpernickel croutons piccolo size,3.5,g,5,mg,85,g,6,g,1,g,0,g,0,g,0,g,0,g
+738,giardino salads,odys toss salad basta size,29,g,460,mg,880,g,9,g,0,g,7,g,0,g,8,g,15,g
+739,giardino salads,odys toss salad piccolo size,29,g,20,mg,440,g,15,g,14,g,7,g,0,g,8,g,6,g
+740,giardino salads,odys toss wrap without tortilla,28,g,20,mg,410,g,12,g,13,g,7,g,0,g,6,g,5,g
+741,giardino salads,odys toss wrap add ginger dressing,20,g,5,mg,270,g,10,g,0,g,3.5,g,0,g,0,g,9,g
+742,giardino salads,olive dressing,17,g,0,mg,510,g,4,g,0,g,3,g,0,g,0,g,2,g
+743,giardino salads,olives,7,g,0,mg,270,g,0,g,0,g,0,g,0,g,0,g,0,g
+744,giardino salads,panzanella salad add parmesan dressing basta size,34,g,0,mg,700,g,2,g,2,g,6,g,0,g,0,g,2,g
+745,giardino salads,panzanella salad add parmesan dressing piccolo size,30,g,0,mg,610,g,2,g,2,g,5,g,0,g,0,g,2,g
+746,giardino salads,panzanella salad add soaked italian croutons basta size,7,g,0,mg,65,g,6,g,1,g,1,g,0,g,0,g,0,g
+747,giardino salads,panzanella salad add soaked italian croutons piccolo size,4.5,g,0,mg,40,g,4,g,1,g,0.5,g,0,g,0,g,0,g
+748,giardino salads,panzanella salad basta size,8,g,0,mg,290,g,15,g,4,g,0,g,0,g,7,g,7,g
+749,giardino salads,panzanella salad piccolo size,8,g,0,mg,290,g,13,g,4,g,0,g,0,g,6,g,6,g
+750,giardino salads,panzanella wrap without tortilla,7,g,0,mg,280,g,9,g,2,g,0,g,0,g,4,g,5,g
+751,giardino salads,panzanella wrap add parmesan dressing,26,g,0,mg,520,g,1,g,1,g,4.5,g,0,g,0,g,1,g
+752,giardino salads,parisian salad add apple honey cider dressing basta size,21,g,0,mg,450,g,15,g,0,g,3,g,0,g,0,g,15,g
+753,giardino salads,parisian salad add apple honey cider dressing piccolo size,18,g,0,mg,400,g,13,g,0,g,2.5,g,0,g,0,g,13,g
+754,giardino salads,parisian salad add garlic croutons basta size,4.5,g,0,mg,105,g,9,g,2,g,0.5,g,0,g,0,g,0,g
+755,giardino salads,parisian salad add garlic croutons piccolo size,3,g,0,mg,70,g,6,g,1,g,0,g,0,g,0,g,0,g
+756,giardino salads,parisian salad basta size,21,g,30,mg,240,g,28,g,15,g,6,g,0,g,9,g,16,g
+757,giardino salads,parisian salad piccolo size,21,g,30,mg,230,g,24,g,14,g,6,g,0,g,8,g,13,g
+758,giardino salads,parisian wrap without tortilla,21,g,30,mg,200,g,21,g,12,g,6,g,0,g,6,g,13,g
+759,giardino salads,parisian wrap add apple honey cider dressing,16,g,0,mg,340,g,11,g,0,g,2,g,0,g,0,g,11,g
+760,giardino salads,parmesan cheese,5,g,15,mg,290,g,1,g,7,g,3,g,0,g,0,g,0,g
+761,giardino salads,parmesan dressing,34,g,0,mg,700,g,2,g,2,g,6,g,0,g,0,g,2,g
+762,giardino salads,pasta fagioli soup basta size,3,g,10,mg,1850,g,41,g,14,g,0,g,0,g,6,g,12,g
+763,giardino salads,pasta fagioli soup piccolo size,1.5,g,5,mg,930,g,21,g,7,g,0,g,0,g,3,g,6,g
+764,giardino salads,pears,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,2,g,6,g
+765,giardino salads,pecans,16,g,0,mg,0,g,3,g,2,g,1.5,g,0,g,1,g,0,g
+766,giardino salads,plain tuna,0,g,20,mg,180,g,0,g,13,g,0,g,0,g,0,g,0,g
+767,giardino salads,plantain chips,6,g,0,mg,45,g,13,g,1,g,1,g,0,g,1,g,2,g
+768,giardino salads,pumpernickel croutons,5,g,5,mg,125,g,9,g,2,g,0.5,g,0,g,0,g,0,g
+769,giardino salads,quinoa,1,g,0,mg,0,g,9,g,2,g,0,g,0,g,1,g,0,g
+770,giardino salads,radish,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+771,giardino salads,red cabbage,0,g,0,mg,10,g,2,g,0,g,0,g,0,g,0,g,1,g
+772,giardino salads,red onions,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,1,g
+773,giardino salads,red peppers,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+774,giardino salads,roasted garlic tomato soup basta size,34,g,90,mg,1280,g,32,g,8,g,18,g,0,g,4,g,8,g
+775,giardino salads,roasted garlic tomato soup piccolo size,17,g,45,mg,640,g,16,g,4,g,9,g,0,g,2,g,4,g
+776,giardino salads,roasted red pepper and gouda soup basta size,48,g,120,mg,1680,g,42,g,8,g,24,g,1,g,2,g,26,g
+777,giardino salads,roasted red pepper and gouda soup piccolo size,24,g,60,mg,840,g,21,g,4,g,12,g,0,g,0,g,13,g
+778,giardino salads,roasted tomato and red pepper soup basta size,20,g,70,mg,1580,g,42,g,10,g,12,g,1,g,4,g,18,g
+779,giardino salads,roasted tomato and red pepper soup piccolo size,10,g,35,mg,790,g,21,g,5,g,6,g,0,g,2,g,9,g
+780,giardino salads,romaine lettuce,1,g,0,mg,20,g,9,g,3,g,0,g,0,g,6,g,3,g
+781,giardino salads,salmon capperi salad,14,g,30,mg,270,g,1,g,8,g,2.5,g,0,g,0,g,0,g
+782,giardino salads,seven bean medley soup basta size,3,g,0,mg,1960,g,38,g,10,g,0,g,0,g,10,g,6,g
+783,giardino salads,seven bean medley soup piccolo size,1.5,g,0,mg,980,g,19,g,5,g,0,g,0,g,5,g,3,g
+784,giardino salads,shrimp,0,g,50,mg,130,g,0,g,5,g,0,g,0,g,0,g,0,g
+785,giardino salads,soaked italian croutons,7,g,0,mg,65,g,6,g,1,g,1,g,0,g,0,g,0,g
+786,giardino salads,sour guacamole dressing,15,g,0,mg,260,g,4,g,2,g,4,g,0,g,0,g,2,g
+787,giardino salads,spicy peanut dressing,13,g,0,mg,830,g,21,g,4,g,2,g,0,g,2,g,17,g
+788,giardino salads,spinach,0.5,g,0,mg,110,g,5,g,4,g,0,g,0,g,3,g,0,g
+789,giardino salads,split pea and ham soup basta size,3,g,10,mg,1930,g,47,g,18,g,0,g,0,g,14,g,8,g
+790,giardino salads,split pea and ham soup piccolo size,1.5,g,5,mg,970,g,24,g,9,g,0,g,0,g,7,g,4,g
+791,giardino salads,strawberries,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,1,g,3,g
+792,giardino salads,sun dried tomato,0,g,0,mg,65,g,5,g,1,g,0,g,0,g,3,g,0,g
+793,giardino salads,sweet bread croutons,7,g,0,mg,15,g,14,g,0,g,1,g,0,g,13,g,0,g
+794,giardino salads,thai thai salad add garlic croutons basta size,4.5,g,0,mg,105,g,9,g,2,g,0.5,g,0,g,0,g,0,g
+795,giardino salads,thai thai salad add garlic croutons piccolo size,3,g,0,mg,70,g,6,g,1,g,0,g,0,g,0,g,0,g
+796,giardino salads,thai thai salad add spicy peanut dressing basta size,13,g,0,mg,830,g,21,g,4,g,2,g,0,g,2,g,17,g
+797,giardino salads,thai thai salad add spicy peanut dressing piccolo size,13,g,0,mg,830,g,21,g,3,g,2,g,0,g,2,g,17,g
+798,giardino salads,thai thai salad basta size,11,g,0,mg,60,g,24,g,9,g,1.5,g,0,g,10,g,11,g
+799,giardino salads,thai thai salad piccolo size,11,g,0,mg,55,g,21,g,8,g,1.5,g,0,g,8,g,10,g
+800,giardino salads,thai thai wrap without tortilla,11,g,0,mg,45,g,18,g,7,g,1.5,g,0,g,6,g,8,g
+801,giardino salads,thai thai wrap add spicy peanut dressing,10,g,0,mg,620,g,16,g,3,g,1.5,g,0,g,1,g,13,g
+802,giardino salads,the gardener grain bowl,18,g,0,mg,230,g,95,g,17,g,1.5,g,0,g,17,g,15,g
+803,giardino salads,the gardener grain bowl add olive vinaigrette,13,g,5,mg,380,g,3,g,0,g,2,g,0,g,0,g,1,g
+804,giardino salads,the gardener wrap without tortilla,15,g,0,mg,220,g,65,g,11,g,1.5,g,0,g,13,g,15,g
+805,giardino salads,the gardener wrap add olive vinaigrette,13,g,5,mg,380,g,3,g,0,g,2,g,0,g,0,g,1,g
+806,giardino salads,toasted pitas,3.5,g,0,mg,90,g,8,g,2,g,0.5,g,0,g,0,g,0,g
+807,giardino salads,tofu,3.5,g,0,mg,0,g,2,g,6,g,0,g,0,g,0,g,0,g
+808,giardino salads,tomato florentine soup basta size,2,g,0,mg,2010,g,35,g,6,g,0,g,0,g,2,g,12,g
+809,giardino salads,tomato florentine soup piccolo size,1,g,0,mg,1010,g,18,g,3,g,0,g,0,g,0,g,6,g
+810,giardino salads,tomatoes,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+811,giardino salads,tortilla chips croutons,5,g,0,mg,35,g,14,g,1,g,0.5,g,0,g,0,g,0,g
+812,giardino salads,tropical chicken salad,9,g,35,mg,300,g,6,g,11,g,1.5,g,0,g,0,g,3,g
+813,giardino salads,tropical salad add mango poppy dressing basta size,1,g,0,mg,720,g,15,g,0,g,0,g,0,g,0,g,13,g
+814,giardino salads,tropical salad add mango poppy dressing piccolo size,1,g,0,mg,630,g,13,g,0,g,0,g,0,g,0,g,12,g
+815,giardino salads,tropical salad add sweet bread croutons basta size,7,g,0,mg,15,g,14,g,0,g,1,g,0,g,0,g,13,g
+816,giardino salads,tropical salad add sweet bread croutons piccolo size,4.5,g,0,mg,10,g,9,g,0,g,0.5,g,0,g,0,g,9,g
+817,giardino salads,tropical salad basta size,18,g,0,mg,55,g,60,g,11,g,1.5,g,0,g,14,g,35,g
+818,giardino salads,tropical salad piccolo size,18,g,0,mg,45,g,57,g,9,g,1.5,g,0,g,12,g,34,g
+819,giardino salads,tropical wrap without tortilla,18,g,0,mg,35,g,53,g,8,g,1.5,g,0,g,10,g,32,g
+820,giardino salads,tropical wrap add mango poppy dressing,0.5,g,0,mg,540,g,11,g,0,g,0,g,0,g,0,g,10,g
+821,giardino salads,vegetarian chili and beans basta size,4,g,0,mg,1520,g,60,g,12,g,2,g,0,g,20,g,14,g
+822,giardino salads,vegetarian chili and beans piccolo size,2,g,0,mg,760,g,30,g,6,g,0,g,0,g,10,g,7,g
+823,giardino salads,walnuts,20,g,0,mg,0,g,3,g,5,g,1.5,g,0,g,3,g,0,g
+824,giardino salads,wheat croutons,4.5,g,0,mg,120,g,11,g,2,g,0.5,g,0,g,1,g,0,g
+825,giardino salads,white bean and ham soup basta size,4,g,10,mg,2040,g,45,g,12,g,1,g,0,g,12,g,4,g
+826,giardino salads,white bean and ham soup piccolo size,2,g,5,mg,1020,g,22,g,6,g,0,g,0,g,6,g,2,g
+827,giardino salads,wok grain bowl,1,g,55,mg,190,g,88,g,17,g,0,g,0,g,4,g,4,g
+828,giardino salads,wok grain bowl add spicy peanut dressing,10,g,0,mg,620,g,16,g,3,g,1.5,g,0,g,1,g,13,g
+829,giardino salads,wok wrap without tortilla,0.5,g,55,mg,190,g,40,g,12,g,0,g,0,g,3,g,4,g
+830,giardino salads,wok wrap add spicy peanut dressing,10,g,0,mg,620,g,16,g,3,g,1.5,g,0,g,0,g,13,g
+831,gigi cafe,acapulco turkey wrap,12,g,50,mg,2040,g,73,g,32,g,0,g,0,g,4,g,4,g
+832,gigi cafe,albacore solid white tuna,20,g,65,mg,2450,g,60,g,35,g,0,g,0,g,3,g,2,g
+833,gigi cafe,albacore tuna melt,23,g,55,mg,1330,g,75,g,33,g,0,g,0,g,4,g,4,g
+834,gigi cafe,albacore tuna salad,15,g,55,mg,760,g,22,g,30,g,0,g,0,g,5,g,6,g
+835,gigi cafe,almond croissant,18,g,40,mg,330,g,50,g,9,g,0,g,0,g,2,g,21,g
+836,gigi cafe,apple,0,g,0,mg,0,g,31,g,1,g,0,g,0,g,5,g,23,g
+837,gigi cafe,apple croissant,18,g,40,mg,320,g,51,g,8,g,0,g,0,g,2,g,22,g
+838,gigi cafe,apple slaw,30,g,40,mg,680,g,30,g,2,g,0,g,0,g,6,g,25,g
+839,gigi cafe,apple turnover,22,g,5,mg,500,g,53,g,3,g,0,g,0,g,1,g,18,g
+840,gigi cafe,b l t,33,g,45,mg,1150,g,44,g,17,g,0,g,0,g,5,g,6,g
+841,gigi cafe,balsamic chicken,16,g,185,mg,470,g,54,g,31,g,0,g,0,g,4,g,4,g
+842,gigi cafe,banana,0,g,0,mg,0,g,29,g,1,g,0,g,0,g,4,g,21,g
+843,gigi cafe,basil chicken salad,16,g,125,mg,430,g,12,g,44,g,0,g,0,g,2,g,2,g
+844,gigi cafe,beef sausage,10,g,30,mg,560,g,1,g,8,g,0,g,0,g,0,g,1,g
+845,gigi cafe,black bean,15,g,0,mg,250,g,20,g,4,g,0,g,0,g,4,g,3,g
+846,gigi cafe,blueberry scone,30,g,165,mg,350,g,68,g,9,g,0,g,0,g,2,g,20,g
+847,gigi cafe,broccoli cheddar,34,g,390,mg,1100,g,42,g,30,g,0,g,0,g,5,g,7,g
+848,gigi cafe,caesar salad,28,g,25,mg,680,g,26,g,11,g,0,g,0,g,4,g,4,g
+849,gigi cafe,california wrap,21,g,70,mg,230,g,61,g,33,g,0,g,0,g,4,g,4,g
+850,gigi cafe,canoli,18,g,25,mg,70,g,35,g,72,g,0,g,0,g,3,g,17,g
+851,gigi cafe,cantaloupe,0,g,0,mg,30,g,16,g,1,g,0,g,0,g,2,g,14,g
+852,gigi cafe,carrot cake,41,g,80,mg,430,g,69,g,7,g,0,g,0,g,3,g,52,g
+853,gigi cafe,carrot walnut loaf,22,g,85,mg,870,g,74,g,11,g,0,g,0,g,3,g,80,g
+854,gigi cafe,challah french toast,5,g,195,mg,510,g,47,g,15,g,0,g,0,g,3,g,7,g
+855,gigi cafe,cheddar and broccoli with sun dried tomato quiche,34,g,390,mg,1100,g,42,g,30,g,0,g,0,g,5,g,7,g
+856,gigi cafe,cheese danish,32,g,65,mg,480,g,54,g,8,g,0,g,0,g,2,g,22,g
+857,gigi cafe,cheese omelette sandwich,15,g,475,mg,930,g,61,g,25,g,0,g,0,g,4,g,10,g
+858,gigi cafe,chicken barley,9,g,45,mg,770,g,18,g,12,g,0,g,0,g,5,g,4,g
+859,gigi cafe,chicken bowtie caesar,21,g,50,mg,740,g,30,g,15,g,0,g,0,g,4,g,8,g
+860,gigi cafe,chicken caesar,22,g,80,mg,850,g,67,g,31,g,0,g,0,g,3,g,4,g
+861,gigi cafe,chicken caesar salad,31,g,90,mg,1430,g,29,g,46,g,0,g,0,g,4,g,4,g
+862,gigi cafe,chicken cutlet paramigiana,39,g,125,mg,1550,g,68,g,39,g,0,g,0,g,6,g,5,g
+863,gigi cafe,chicken gumbo,6,g,20,mg,1080,g,21,g,12,g,0,g,0,g,5,g,5,g
+864,gigi cafe,chicken milano,35,g,85,mg,1800,g,61,g,36,g,0,g,0,g,5,g,4,g
+865,gigi cafe,chicken noodle,2,g,35,mg,1890,g,16,g,11,g,0,g,0,g,3,g,3,g
+866,gigi cafe,chicken pot pie,24,g,120,mg,200,g,18,g,10,g,0,g,0,g,4,g,5,g
+867,gigi cafe,chilled gazpacho,3,g,0,mg,700,g,17,g,6,g,0,g,0,g,4,g,4,g
+868,gigi cafe,chipotle potato,20,g,170,mg,1320,g,28,g,7,g,0,g,0,g,3,g,0,g
+869,gigi cafe,chipotle turkey,22,g,65,mg,2270,g,69,g,35,g,0,g,0,g,4,g,3,g
+870,gigi cafe,chocolate croissant,22,g,55,mg,330,g,52,g,8,g,0,g,0,g,2,g,21,g
+871,gigi cafe,chocolate dipped almond horn,6,g,0,mg,80,g,66,g,2,g,0,g,0,g,7,g,52,g
+872,gigi cafe,chocolate loaf,17,g,100,mg,880,g,85,g,11,g,0,g,0,g,3,g,45,g
+873,gigi cafe,chocolate macaroon,15,g,10,mg,95,g,42,g,0,g,0,g,0,g,5,g,32,g
+874,gigi cafe,chocolate mousse slice,31,g,75,mg,220,g,67,g,7,g,0,g,0,g,3,g,54,g
+875,gigi cafe,chocolate pretzel,15,g,30,mg,200,g,73,g,1,g,0,g,0,g,6,g,50,g
+876,gigi cafe,chocolate pudding,3,g,300,mg,25,g,20,g,9,g,0,g,0,g,0,g,24,g
+877,gigi cafe,chocolate scone,36,g,155,mg,320,g,84,g,11,g,0,g,0,g,3,g,33,g
+878,gigi cafe,cinnamon bun,28,g,25,mg,460,g,89,g,11,g,0,g,0,g,4,g,35,g
+879,gigi cafe,clair,29,g,125,mg,135,g,42,g,8,g,0,g,0,g,0,g,32,g
+880,gigi cafe,coconut macaroon,14,g,10,mg,30,g,33,g,0,g,0,g,0,g,4,g,25,g
+881,gigi cafe,coffee toffee,8,g,5,mg,150,g,52,g,6,g,0,g,0,g,0,g,40,g
+882,gigi cafe,cookies and cream,6,g,5,mg,170,g,53,g,6,g,0,g,0,g,0,g,35,g
+883,gigi cafe,corn chowder,6,g,25,mg,115,g,30,g,9,g,0,g,0,g,3,g,2,g
+884,gigi cafe,cranberry scone,30,g,160,mg,350,g,70,g,9,g,0,g,0,g,3,g,21,g
+885,gigi cafe,cream of broccoli,3,g,10,mg,1540,g,13,g,5,g,0,g,0,g,2,g,2,g
+886,gigi cafe,cream of carrot,17,g,55,mg,1400,g,18,g,7,g,0,g,0,g,3,g,4,g
+887,gigi cafe,cream of mushroom,36,g,130,mg,770,g,15,g,8,g,0,g,0,g,0,g,8,g
+888,gigi cafe,cream of spinach,22,g,75,mg,55,g,9,g,9,g,0,g,0,g,3,g,4,g
+889,gigi cafe,cream of tomato,30,g,110,mg,70,g,24,g,6,g,0,g,0,g,0,g,11,g
+890,gigi cafe,cream of wheat,1,g,0,mg,360,g,32,g,4,g,0,g,0,g,1,g,0,g
+891,gigi cafe,creme caramel cup,12,g,275,mg,300,g,54,g,12,g,0,g,0,g,0,g,49,g
+892,gigi cafe,crispy chicken cutlet,44,g,55,mg,1620,g,68,g,32,g,0,g,0,g,5,g,19,g
+893,gigi cafe,curry chicken,27,g,95,mg,260,g,15,g,14,g,0,g,0,g,2,g,3,g
+894,gigi cafe,double fudge mocha,16,g,30,mg,210,g,62,g,10,g,0,g,0,g,4,g,35,g
+895,gigi cafe,egg muffin,35,g,465,mg,480,g,70,g,35,g,0,g,0,g,3,g,5,g
+896,gigi cafe,egg salad,35,g,525,mg,800,g,4,g,23,g,0,g,0,g,0,g,2,g
+897,gigi cafe,egg salad sandwich,35,g,90,mg,2470,g,85,g,32,g,0,g,0,g,3,g,2,g
+898,gigi cafe,egg white sandwich,4,g,0,mg,600,g,56,g,17,g,0,g,0,g,4,g,9,g
+899,gigi cafe,el paso chicken,36,g,105,mg,1670,g,80,g,52,g,0,g,0,g,9,g,14,g
+900,gigi cafe,fluffy buttermilk pancakes,3,g,60,mg,1510,g,130,g,21,g,0,g,0,g,4,g,27,g
+901,gigi cafe,french onion,5,g,10,mg,1880,g,17,g,12,g,0,g,0,g,2,g,2,g
+902,gigi cafe,fresh lemonade,0,g,0,mg,30,g,39,g,0,g,0,g,0,g,0,g,26,g
+903,gigi cafe,fresh squeezed orange juice,0,g,0,mg,20,g,54,g,4,g,0,g,0,g,2,g,40,g
+904,gigi cafe,frozen cappuccino,8,g,20,mg,200,g,59,g,8,g,0,g,0,g,0,g,32,g
+905,gigi cafe,fruit salad,5,g,0,mg,240,g,29,g,2,g,0,g,0,g,5,g,23,g
+906,gigi cafe,fruit tart,14,g,60,mg,30,g,40,g,0,g,0,g,0,g,0,g,22,g
+907,gigi cafe,funky monkey,6,g,5,mg,170,g,53,g,6,g,0,g,0,g,0,g,35,g
+908,gigi cafe,garden salad,2,g,0,mg,100,g,16,g,6,g,0,g,0,g,4,g,4,g
+909,gigi cafe,giant black and white cookie,17,g,50,mg,220,g,69,g,4,g,0,g,0,g,3,g,54,g
+910,gigi cafe,giant chocolate chip cookie,25,g,60,mg,190,g,69,g,5,g,0,g,0,g,4,g,42,g
+911,gigi cafe,giant oatmeal raisin cookie,18,g,80,mg,320,g,69,g,8,g,0,g,0,g,4,g,37,g
+912,gigi cafe,giant peanut butter cookie,33,g,60,mg,180,g,61,g,12,g,0,g,0,g,4,g,37,g
+913,gigi cafe,green apple,0,g,0,mg,0,g,31,g,1,g,0,g,0,g,5,g,23,g
+914,gigi cafe,grilled caribbean chicken,22,g,160,mg,400,g,36,g,37,g,0,g,0,g,6,g,6,g
+915,gigi cafe,grilled cheese,32,g,85,mg,1430,g,42,g,24,g,0,g,0,g,3,g,3,g
+916,gigi cafe,grilled chicken salad,17,g,95,mg,1150,g,45,g,35,g,0,g,0,g,4,g,3,g
+917,gigi cafe,grilled portobello mushroom,32,g,85,mg,1730,g,59,g,35,g,0,g,0,g,4,g,4,g
+918,gigi cafe,ham and cheese,31,g,440,mg,960,g,32,g,41,g,0,g,0,g,1,g,4,g
+919,gigi cafe,ham and cheese quiche,31,g,440,mg,960,g,32,g,41,g,0,g,0,g,1,g,4,g
+920,gigi cafe,ham and cheese,22,g,55,mg,1480,g,68,g,34,g,0,g,0,g,3,g,3,g
+921,gigi cafe,ham and cheese croissant,30,g,105,mg,1330,g,48,g,18,g,0,g,0,g,3,g,11,g
+922,gigi cafe,hard boiled egg,5,g,210,mg,55,g,1,g,6,g,0,g,0,g,0,g,1,g
+923,gigi cafe,hashbrown,2,g,0,mg,630,g,27,g,3,g,0,g,0,g,4,g,2,g
+924,gigi cafe,healthy egg wraps,8,g,0,mg,880,g,50,g,19,g,0,g,0,g,1,g,4,g
+925,gigi cafe,home fries,1,g,0,mg,970,g,27,g,3,g,0,g,0,g,5,g,3,g
+926,gigi cafe,homentashen,15,g,40,mg,15,g,66,g,1,g,0,g,0,g,3,g,31,g
+927,gigi cafe,honeydew melon,0,g,0,mg,30,g,16,g,1,g,0,g,0,g,1,g,14,g
+928,gigi cafe,hot oatmeal,5,g,0,mg,5,g,56,g,11,g,0,g,0,g,8,g,1,g
+929,gigi cafe,iced tea,0,g,0,mg,10,g,23,g,0,g,0,g,0,g,0,g,0,g
+930,gigi cafe,italian vegetable,10,g,15,mg,650,g,20,g,4,g,0,g,0,g,4,g,3,g
+931,gigi cafe,italian wedding,8,g,50,mg,1340,g,29,g,11,g,0,g,0,g,8,g,2,g
+932,gigi cafe,lemon poppy loaf,22,g,90,mg,920,g,78,g,11,g,0,g,0,g,3,g,35,g
+933,gigi cafe,lentil with roasted garlic,3,g,5,mg,650,g,30,g,7,g,0,g,0,g,4,g,3,g
+934,gigi cafe,linzer tart,10,g,30,mg,70,g,57,g,1,g,0,g,0,g,2,g,25,g
+935,gigi cafe,mango mania,3,g,0,mg,55,g,84,g,0,g,0,g,0,g,1,g,26,g
+936,gigi cafe,manhattan clam chowder,2,g,0,mg,690,g,27,g,3,g,0,g,0,g,2,g,2,g
+937,gigi cafe,marble loaf,17,g,100,mg,960,g,87,g,10,g,0,g,0,g,3,g,42,g
+938,gigi cafe,matzo ball,6,g,40,mg,270,g,38,g,6,g,0,g,0,g,2,g,3,g
+939,gigi cafe,mediterranean cousin cous,16,g,0,mg,1160,g,70,g,10,g,0,g,0,g,6,g,14,g
+940,gigi cafe,mediterranean fajita,24,g,95,mg,990,g,80,g,46,g,0,g,0,g,6,g,6,g
+941,gigi cafe,minestrone with spinach,2,g,10,mg,690,g,32,g,8,g,0,g,0,g,3,g,4,g
+942,gigi cafe,mushroom barley,2,g,10,mg,600,g,30,g,6,g,0,g,0,g,4,g,3,g
+943,gigi cafe,napoleon,32,g,130,mg,95,g,35,g,5,g,0,g,0,g,2,g,31,g
+944,gigi cafe,new england clam chowder,5,g,10,mg,460,g,18,g,5,g,0,g,0,g,3,g,3,g
+945,gigi cafe,ny cheesecake,62,g,135,mg,550,g,60,g,13,g,0,g,0,g,1,g,49,g
+946,gigi cafe,omelettes made to order 3 ingredients,195,g,425,mg,900,g,39,g,29,g,0,g,0,g,3,g,3,g
+947,gigi cafe,orange,0,g,0,mg,0,g,21,g,1,g,0,g,0,g,7,g,14,g
+948,gigi cafe,organic split pea,2,g,0,mg,1990,g,21,g,5,g,0,g,0,g,4,g,3,g
+949,gigi cafe,oriental chicken salad,18,g,140,mg,360,g,32,g,34,g,0,g,0,g,6,g,4,g
+950,gigi cafe,our gourmet suggestion,75,g,195,mg,1800,g,30,g,30,g,0,g,0,g,4,g,15,g
+951,gigi cafe,oven roasted fresh turkey,15,g,60,mg,1920,g,90,g,30,g,0,g,0,g,6,g,1,g
+952,gigi cafe,pasta fagioli,11,g,10,mg,1210,g,54,g,7,g,0,g,0,g,5,g,3,g
+953,gigi cafe,peach paradise,2,g,0,mg,30,g,72,g,1,g,0,g,0,g,1,g,31,g
+954,gigi cafe,philly cheese steak,41,g,125,mg,2440,g,70,g,40,g,0,g,0,g,5,g,3,g
+955,gigi cafe,pina colada,0,g,0,mg,45,g,32,g,0,g,0,g,0,g,1,g,20,g
+956,gigi cafe,pinapple salad,0,g,0,mg,0,g,22,g,1,g,0,g,0,g,2,g,16,g
+957,gigi cafe,plain croissant,19,g,55,mg,390,g,44,g,9,g,0,g,0,g,1,g,9,g
+958,gigi cafe,plain yogurt loaf,18,g,100,mg,1020,g,85,g,11,g,0,g,0,g,3,g,35,g
+959,gigi cafe,potato leek,15,g,15,mg,530,g,18,g,5,g,0,g,0,g,2,g,3,g
+960,gigi cafe,raisiin danish,26,g,55,mg,510,g,68,g,9,g,0,g,0,g,4,g,42,g
+961,gigi cafe,rare roast beef,42,g,105,mg,1350,g,48,g,48,g,0,g,0,g,5,g,6,g
+962,gigi cafe,rice pudding,3,g,30,mg,40,g,32,g,4,g,0,g,0,g,0,g,18,g
+963,gigi cafe,roast beef,31,g,115,mg,1540,g,66,g,42,g,0,g,0,g,0,g,0,g
+964,gigi cafe,roasted garlic tomato,19,g,25,mg,55,g,24,g,4,g,0,g,0,g,3,g,3,g
+965,gigi cafe,salmon corn chowder,18,g,25,mg,390,g,26,g,20,g,0,g,0,g,2,g,2,g
+966,gigi cafe,santa fe tortilla,2,g,0,mg,520,g,34,g,9,g,0,g,0,g,8,g,5,g
+967,gigi cafe,seafood bisque,17,g,60,mg,500,g,16,g,13,g,0,g,0,g,2,g,1,g
+968,gigi cafe,seafood gumbo,2,g,65,mg,1820,g,17,g,16,g,0,g,0,g,3,g,2,g
+969,gigi cafe,shrimp and corn chowder,3,g,65,mg,320,g,30,g,15,g,0,g,0,g,3,g,2,g
+970,gigi cafe,shrimp and crab chowder,29,g,110,mg,420,g,21,g,17,g,0,g,0,g,3,g,4,g
+971,gigi cafe,shrimp and chicken gumbo,6,g,75,mg,440,g,24,g,16,g,0,g,0,g,4,g,3,g
+972,gigi cafe,smoked turkey,1,g,25,mg,680,g,1,g,11,g,0,g,0,g,0,g,0,g
+973,gigi cafe,smoked turkey and brie cheese,23,g,95,mg,2420,g,68,g,43,g,0,g,0,g,4,g,5,g
+974,gigi cafe,smoked turkey corn chowder,9,g,35,mg,1060,g,23,g,20,g,0,g,0,g,6,g,6,g
+975,gigi cafe,southwestern black bean,2,g,0,mg,520,g,34,g,9,g,0,g,0,g,8,g,5,g
+976,gigi cafe,spicy asian chicken,10,g,155,mg,440,g,52,g,34,g,0,g,0,g,4,g,4,g
+977,gigi cafe,split pea,2,g,0,mg,2090,g,18,g,4,g,0,g,0,g,2,g,3,g
+978,gigi cafe,strawberry cheesecake,31,g,120,mg,440,g,105,g,13,g,0,g,0,g,1,g,64,g
+979,gigi cafe,strawberry croissant,21,g,55,mg,380,g,50,g,7,g,0,g,0,g,2,g,20,g
+980,gigi cafe,strawberry jell o,0,g,90,mg,35,g,0,g,2,g,0,g,0,g,0,g,34,g
+981,gigi cafe,sunset orange,3,g,0,mg,55,g,43,g,1,g,0,g,0,g,2,g,24,g
+982,gigi cafe,thai whole wheat noodle,5,g,10,mg,630,g,46,g,3,g,0,g,0,g,3,g,7,g
+983,gigi cafe,the meatless,29,g,90,mg,1140,g,62,g,29,g,0,g,0,g,5,g,4,g
+984,gigi cafe,tomato basil,2,g,5,mg,590,g,30,g,6,g,0,g,0,g,3,g,3,g
+985,gigi cafe,tomato bisque,3,g,5,mg,570,g,23,g,5,g,0,g,0,g,3,g,2,g
+986,gigi cafe,tomato couscous,3,g,5,mg,570,g,23,g,5,g,0,g,0,g,3,g,2,g
+987,gigi cafe,tomato florentine,2,g,5,mg,540,g,23,g,4,g,0,g,0,g,3,g,2,g
+988,gigi cafe,tomato orzo,2,g,5,mg,570,g,28,g,4,g,0,g,0,g,3,g,2,g
+989,gigi cafe,tomato rice,2,g,5,mg,560,g,28,g,4,g,0,g,0,g,2,g,2,g
+990,gigi cafe,tomato vegetable with couscous,14,g,5,mg,560,g,28,g,4,g,0,g,0,g,3,g,2,g
+991,gigi cafe,tomato wild rice,14,g,5,mg,580,g,29,g,5,g,0,g,0,g,3,g,2,g
+992,gigi cafe,traditional tuna salad,20,g,15,mg,1020,g,63,g,33,g,0,g,0,g,9,g,14,g
+993,gigi cafe,tropical cooler,1,g,0,mg,30,g,68,g,0,g,0,g,0,g,2,g,23,g
+994,gigi cafe,tropical green tea,4,g,5,mg,120,g,42,g,4,g,0,g,0,g,0,g,32,g
+995,gigi cafe,tropical tango,3,g,0,mg,55,g,84,g,0,g,0,g,0,g,1,g,26,g
+996,gigi cafe,tuna salad,12,g,55,mg,660,g,5,g,24,g,0,g,0,g,1,g,2,g
+997,gigi cafe,turkey bacon,10,g,30,mg,750,g,1,g,7,g,0,g,0,g,0,g,0,g
+998,gigi cafe,turkey chili,8,g,45,mg,350,g,17,g,19,g,0,g,0,g,6,g,9,g
+999,gigi cafe,turkey ham,5,g,25,mg,400,g,0,g,10,g,0,g,0,g,0,g,0,g

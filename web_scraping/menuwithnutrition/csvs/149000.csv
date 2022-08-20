@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,rock bottom restaurant,robert mondavi private selection cabernet sauvignon,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+1,rock bottom restaurant,rock bottom bloody mary,0,g,0,mg,860,g,11,g,1,g,0,g,0,g,2,g,4,g
+2,rock bottom restaurant,rock bottom boneless specialty wings short,41,g,160,mg,4020,g,81,g,60,g,7,g,0,g,4,g,5,g
+3,rock bottom restaurant,rock bottom boneless specialty wings short with blue cheese dressing,55,g,170,mg,4270,g,82,g,61,g,10,g,0,g,4,g,6,g
+4,rock bottom restaurant,rock bottom boneless specialty wings short with buffalo sauce,50,g,160,mg,5430,g,83,g,61,g,12,g,0,g,5,g,5,g
+5,rock bottom restaurant,rock bottom boneless specialty wings short with chipotle honey bbq sauce,41,g,160,mg,4570,g,118,g,60,g,7,g,0,g,5,g,37,g
+6,rock bottom restaurant,rock bottom boneless specialty wings short with jalapeno butter with crazy pepper,60,g,160,mg,4550,g,86,g,61,g,18,g,0,g,5,g,7,g
+7,rock bottom restaurant,rock bottom boneless specialty wings short with ranch dressing,53,g,165,mg,4180,g,83,g,61,g,9,g,0,g,5,g,6,g
+8,rock bottom restaurant,rock bottom boneless specialty wings short with screamin mango,41,g,160,mg,4190,g,93,g,60,g,7,g,0,g,4,g,13,g
+9,rock bottom restaurant,rock bottom boneless specialty wings short with thai chile sauce,41,g,160,mg,5080,g,122,g,60,g,7,g,0,g,5,g,43,g
+10,rock bottom restaurant,rock bottom boneless specialty wings short with wing spice choice blackened seasoning,41,g,160,mg,5730,g,86,g,61,g,7,g,0,g,6,g,5,g
+11,rock bottom restaurant,rock bottom boneless specialty wings tall,61,g,240,mg,6030,g,122,g,90,g,11,g,0,g,7,g,7,g
+12,rock bottom restaurant,rock bottom boneless specialty wings tall with blue cheese dressing,89,g,260,mg,6540,g,124,g,93,g,17,g,0,g,7,g,9,g
+13,rock bottom restaurant,rock bottom boneless specialty wings tall with buffalo sauce,76,g,240,mg,8150,g,124,g,91,g,18,g,0,g,7,g,8,g
+14,rock bottom restaurant,rock bottom boneless specialty wings tall with chipotle honey bbq sauce,61,g,240,mg,6850,g,176,g,90,g,11,g,0,g,7,g,55,g
+15,rock bottom restaurant,rock bottom boneless specialty wings tall with jalapeno butter with crazy pepper,90,g,240,mg,6830,g,129,g,92,g,26,g,0,g,8,g,10,g
+16,rock bottom restaurant,rock bottom boneless specialty wings tall with ranch dressing,86,g,250,mg,6360,g,125,g,91,g,15,g,0,g,7,g,9,g
+17,rock bottom restaurant,rock bottom boneless specialty wings tall with screamin mango sauce,61,g,240,mg,6290,g,140,g,90,g,11,g,0,g,7,g,19,g
+18,rock bottom restaurant,rock bottom boneless specialty wings tall with thai chile sauce,61,g,240,mg,7620,g,183,g,90,g,11,g,0,g,7,g,64,g
+19,rock bottom restaurant,rock bottom boneless specialty wings tall with wing spice choice blackened seasoning,62,g,240,mg,8600,g,130,g,92,g,11,g,0,g,10,g,8,g
+20,rock bottom restaurant,rock bottom smoked and grilled specialty wings short,39,g,190,mg,200,g,1,g,45,g,11,g,0,g,0,g,1,g
+21,rock bottom restaurant,rock bottom smoked and grilled specialty wings short with blue cheese dressing,53,g,200,mg,450,g,2,g,46,g,14,g,0,g,0,g,2,g
+22,rock bottom restaurant,rock bottom smoked and grilled specialty wings short with buffalo sauce,49,g,190,mg,1610,g,3,g,45,g,16,g,0,g,1,g,1,g
+23,rock bottom restaurant,rock bottom smoked and grilled specialty wings short with chipotle honey bbq sauce,39,g,190,mg,740,g,37,g,45,g,11,g,0,g,1,g,33,g
+24,rock bottom restaurant,rock bottom smoked and grilled specialty wings short with jalapeno butter with crazy pepper,58,g,190,mg,730,g,6,g,46,g,21,g,0,g,1,g,3,g
+25,rock bottom restaurant,rock bottom smoked and grilled specialty wings short with ranch dressing,51,g,195,mg,360,g,3,g,46,g,13,g,0,g,1,g,2,g
+26,rock bottom restaurant,rock bottom smoked and grilled specialty wings short with screamin mango,39,g,190,mg,370,g,13,g,45,g,11,g,0,g,0,g,9,g
+27,rock bottom restaurant,rock bottom smoked and grilled specialty wings short with thai chile sauce,39,g,190,mg,1260,g,42,g,45,g,11,g,0,g,1,g,39,g
+28,rock bottom restaurant,rock bottom smoked and grilled specialty wings short with wing spice choice blackened seasoning,40,g,190,mg,1910,g,6,g,46,g,11,g,0,g,2,g,1,g
+29,rock bottom restaurant,rock bottom smoked and grilled specialty wings tall,59,g,285,mg,300,g,2,g,68,g,16,g,0,g,1,g,1,g
+30,rock bottom restaurant,rock bottom smoked and grilled specialty wings tall with blue cheese dressing,87,g,305,mg,800,g,4,g,70,g,23,g,0,g,1,g,3,g
+31,rock bottom restaurant,rock bottom smoked and grilled specialty wings tall with buffalo sauce,73,g,285,mg,2410,g,4,g,68,g,24,g,0,g,1,g,2,g
+32,rock bottom restaurant,rock bottom smoked and grilled specialty wings tall with chipotle honey bbq sauce,59,g,285,mg,1120,g,56,g,68,g,16,g,0,g,1,g,49,g
+33,rock bottom restaurant,rock bottom smoked and grilled specialty wings tall with jalapeno butter with crazy pepper,87,g,285,mg,1090,g,9,g,69,g,32,g,0,g,2,g,4,g
+34,rock bottom restaurant,rock bottom smoked and grilled specialty wings tall with ranch dressing,83,g,295,mg,620,g,4,g,69,g,21,g,0,g,1,g,3,g
+35,rock bottom restaurant,rock bottom smoked and grilled specialty wings tall with screamin mango sauce,59,g,285,mg,550,g,20,g,68,g,16,g,0,g,1,g,13,g
+36,rock bottom restaurant,rock bottom smoked and grilled specialty wings tall with thai chile sauce,59,g,285,mg,1890,g,63,g,68,g,16,g,0,g,1,g,58,g
+37,rock bottom restaurant,rock bottom smoked and grilled specialty wings tall with wing spice choice blackened seasoning,60,g,285,mg,2860,g,9,g,69,g,17,g,0,g,4,g,2,g
+38,rock bottom restaurant,rock bottom specialty wings short,44,g,190,mg,200,g,1,g,45,g,12,g,0,g,0,g,1,g
+39,rock bottom restaurant,rock bottom specialty wings short with blue cheese dressing,58,g,200,mg,450,g,2,g,46,g,15,g,0,g,0,g,2,g
+40,rock bottom restaurant,rock bottom specialty wings short with buffalo sauce,54,g,190,mg,1610,g,3,g,45,g,17,g,0,g,1,g,1,g
+41,rock bottom restaurant,rock bottom specialty wings short with chipotle honey bbq sauce,44,g,190,mg,740,g,37,g,45,g,12,g,0,g,1,g,33,g
+42,rock bottom restaurant,rock bottom specialty wings short with jalapeno butter with crazy pepper,63,g,190,mg,730,g,6,g,46,g,22,g,0,g,1,g,3,g
+43,rock bottom restaurant,rock bottom specialty wings short with ranch dressing,56,g,195,mg,360,g,3,g,46,g,14,g,0,g,1,g,2,g
+44,rock bottom restaurant,rock bottom specialty wings short with screamin mango,44,g,190,mg,370,g,13,g,45,g,12,g,0,g,0,g,9,g
+45,rock bottom restaurant,rock bottom specialty wings short with thai chile sauce,44,g,190,mg,1260,g,42,g,45,g,12,g,0,g,1,g,39,g
+46,rock bottom restaurant,rock bottom specialty wings short with wing spice choice blackened seasoning,45,g,190,mg,1910,g,6,g,46,g,12,g,0,g,2,g,1,g
+47,rock bottom restaurant,rock bottom specialty wings tall,66,g,285,mg,300,g,2,g,68,g,18,g,0,g,1,g,1,g
+48,rock bottom restaurant,rock bottom specialty wings tall with blue cheese dressing,94,g,305,mg,800,g,4,g,70,g,24,g,0,g,1,g,3,g
+49,rock bottom restaurant,rock bottom specialty wings tall with buffalo sauce,80,g,285,mg,2410,g,4,g,68,g,25,g,0,g,1,g,2,g
+50,rock bottom restaurant,rock bottom specialty wings tall with chipotle honey bbq sauce,66,g,285,mg,1120,g,56,g,68,g,18,g,0,g,1,g,49,g
+51,rock bottom restaurant,rock bottom specialty wings tall with jalapeno butter with crazy pepper,94,g,285,mg,1090,g,9,g,69,g,33,g,0,g,2,g,4,g
+52,rock bottom restaurant,rock bottom specialty wings tall with ranch dressing,91,g,295,mg,620,g,4,g,69,g,22,g,0,g,1,g,3,g
+53,rock bottom restaurant,rock bottom specialty wings tall with screamin mango sauce,66,g,285,mg,550,g,20,g,68,g,18,g,0,g,1,g,13,g
+54,rock bottom restaurant,rock bottom specialty wings tall with thai chile sauce,66,g,285,mg,1890,g,63,g,68,g,18,g,0,g,1,g,58,g
+55,rock bottom restaurant,rock bottom specialty wings tall with wing spice choice blackened seasoning,67,g,285,mg,2860,g,9,g,69,g,18,g,0,g,4,g,2,g
+56,rock bottom restaurant,rock bottom wings large,66,g,285,mg,300,g,2,g,68,g,18,g,0,g,1,g,1,g
+57,rock bottom restaurant,rock bottom wings large with blue cheese dressing,94,g,305,mg,800,g,4,g,70,g,24,g,0,g,1,g,3,g
+58,rock bottom restaurant,rock bottom wings large with buffalo sauce,80,g,285,mg,2410,g,4,g,68,g,25,g,0,g,1,g,2,g
+59,rock bottom restaurant,rock bottom wings large with chipotle honey bbq sauce,66,g,285,mg,1120,g,56,g,68,g,18,g,0,g,1,g,49,g
+60,rock bottom restaurant,rock bottom wings large with ranch dressing,91,g,295,mg,620,g,4,g,69,g,22,g,0,g,1,g,3,g
+61,rock bottom restaurant,rock bottom wings small,44,g,190,mg,200,g,1,g,45,g,12,g,0,g,0,g,1,g
+62,rock bottom restaurant,rock bottom wings small with blue cheese dressing,58,g,200,mg,450,g,2,g,46,g,15,g,0,g,0,g,2,g
+63,rock bottom restaurant,rock bottom wings small with buffalo sauce,54,g,190,mg,1610,g,3,g,45,g,17,g,0,g,1,g,1,g
+64,rock bottom restaurant,rock bottom wings small with chipotle honey bbq sauce,44,g,190,mg,740,g,37,g,45,g,12,g,0,g,1,g,33,g
+65,rock bottom restaurant,rock bottom wings small with ranch dressing,56,g,195,mg,360,g,3,g,46,g,14,g,0,g,1,g,2,g
+66,rock bottom restaurant,rockin chicken skillet,46,g,105,mg,2160,g,39,g,38,g,13,g,0,g,4,g,5,g
+67,rock bottom restaurant,rockin pork skillet,61,g,135,mg,1700,g,37,g,37,g,19,g,0,g,3,g,4,g
+68,rock bottom restaurant,rockin red rice,0,g,0,mg,500,g,31,g,3,g,0,g,0,g,0,g,1,g
+69,rock bottom restaurant,rockin shrimp skillet,44,g,215,mg,1780,g,39,g,35,g,13,g,0,g,4,g,5,g
+70,rock bottom restaurant,rockin steak skillet,35,g,115,mg,1760,g,38,g,40,g,17,g,0,g,4,g,5,g
+71,rock bottom restaurant,salted caramel toffee mason jar dessert,69,g,240,mg,660,g,87,g,10,g,39,g,2,g,1,g,65,g
+72,rock bottom restaurant,santa fe ranch chicken salad,25,g,105,mg,2720,g,78,g,51,g,8,g,0,g,12,g,14,g
+73,rock bottom restaurant,santa fe ranch chicken salad with asiago caesar dressing,58,g,125,mg,2940,g,81,g,53,g,14,g,0,g,12,g,14,g
+74,rock bottom restaurant,santa fe ranch chicken salad with balsamic vinaigrette,35,g,105,mg,3100,g,86,g,51,g,9,g,0,g,12,g,20,g
+75,rock bottom restaurant,santa fe ranch chicken salad with bbq jalapeno ranch dressing,39,g,110,mg,3060,g,91,g,52,g,11,g,0,g,12,g,24,g
+76,rock bottom restaurant,santa fe ranch chicken salad with blue cheese dressing,53,g,125,mg,3220,g,80,g,53,g,14,g,0,g,12,g,16,g
+77,rock bottom restaurant,santa fe ranch chicken salad with caesar dressing,61,g,125,mg,2940,g,80,g,53,g,14,g,0,g,12,g,14,g
+78,rock bottom restaurant,santa fe ranch chicken salad with chimichurri dressing,55,g,110,mg,3340,g,82,g,52,g,13,g,0,g,12,g,16,g
+79,rock bottom restaurant,santa fe ranch chicken salad with honey dijon dressing,49,g,115,mg,3190,g,91,g,52,g,12,g,0,g,12,g,25,g
+80,rock bottom restaurant,santa fe ranch chicken salad with honey dijon vinaigrette,44,g,110,mg,3160,g,90,g,52,g,11,g,0,g,12,g,24,g
+81,rock bottom restaurant,santa fe ranch chicken salad with light balsamic vinaigrette,37,g,105,mg,3260,g,84,g,51,g,10,g,0,g,12,g,18,g
+82,rock bottom restaurant,santa fe ranch chicken salad with light raspberry vinaigrette,30,g,105,mg,2970,g,88,g,51,g,9,g,0,g,12,g,23,g
+83,rock bottom restaurant,santa fe ranch chicken salad with ranch dressing,45,g,115,mg,3000,g,82,g,53,g,12,g,0,g,12,g,16,g
+84,rock bottom restaurant,santa fe ranch chicken salad with roasted jalapeno ranch dressing,44,g,115,mg,2980,g,83,g,53,g,12,g,0,g,12,g,16,g
+85,rock bottom restaurant,santa fe seasoned fries 3 oz,9,g,0,mg,520,g,20,g,2,g,2,g,0,g,2,g,0,g
+86,rock bottom restaurant,santa fe seasoned fries 5 oz,15,g,0,mg,860,g,34,g,3,g,4,g,0,g,3,g,0,g
+87,rock bottom restaurant,santa fe seasoned fries 7 oz,20,g,0,mg,1210,g,47,g,5,g,5,g,0,g,5,g,0,g
+88,rock bottom restaurant,shrimp add on,3,g,130,mg,160,g,2,g,17,g,1,g,0,g,0,g,0,g
+89,rock bottom restaurant,shrimp and veggie bowl,34,g,260,mg,1880,g,35,g,38,g,5,g,0,g,3,g,10,g
+90,rock bottom restaurant,shrimp po boy,47,g,280,mg,2030,g,83,g,36,g,8,g,0,g,4,g,7,g
+91,rock bottom restaurant,shrimp tacos,15,g,180,mg,710,g,56,g,30,g,3,g,0,g,8,g,6,g
+92,rock bottom restaurant,side of onion rings,12,g,0,mg,810,g,26,g,3,g,2,g,0,g,0,g,4,g
+93,rock bottom restaurant,sierra mist,0,g,0,mg,40,g,43,g,0,g,0,g,0,g,0,g,43,g
+94,rock bottom restaurant,smashed and stacked burger,47,g,65,mg,1910,g,56,g,24,g,19,g,0,g,1,g,11,g
+95,rock bottom restaurant,smashed and stacked burger with 12 oz burger patty,89,g,280,mg,2520,g,56,g,84,g,35,g,0,g,1,g,11,g
+96,rock bottom restaurant,smashed and stacked burger with bison burger patty,67,g,145,mg,3750,g,56,g,47,g,28,g,0,g,1,g,11,g
+97,rock bottom restaurant,smashed and stacked burger with fresh angus burger patties,63,g,185,mg,3770,g,56,g,59,g,26,g,0,g,1,g,11,g
+98,rock bottom restaurant,smashed bacon burger,47,g,105,mg,2950,g,55,g,38,g,18,g,0,g,4,g,6,g
+99,rock bottom restaurant,smashed classic burger,35,g,90,mg,2550,g,53,g,33,g,14,g,0,g,4,g,5,g
+100,rock bottom restaurant,smashed makers mark burger,32,g,80,mg,2580,g,60,g,31,g,12,g,0,g,4,g,6,g
+101,rock bottom restaurant,smoked bbq bacon chicken sandwich,52,g,135,mg,2180,g,75,g,44,g,19,g,0,g,4,g,15,g
+102,rock bottom restaurant,smoked chicken tacos,27,g,70,mg,700,g,53,g,23,g,7,g,0,g,8,g,5,g
+103,rock bottom restaurant,smoked chicken tostada,31,g,95,mg,1490,g,44,g,28,g,11,g,0,g,8,g,6,g
+104,rock bottom restaurant,smothered green chile fries,98,g,125,mg,4450,g,121,g,15,g,37,g,0,g,13,g,5,g
+105,rock bottom restaurant,smothered green chile fries with santa fe pulled chicken,100,g,160,mg,4730,g,122,g,28,g,38,g,0,g,14,g,6,g
+106,rock bottom restaurant,smothered green chile fries with seasoned ground beef,107,g,155,mg,4670,g,126,g,21,g,41,g,0,g,14,g,5,g
+107,rock bottom restaurant,snack ball park pretzel pieces,16,g,35,mg,1290,g,167,g,31,g,7,g,0,g,5,g,6,g
+108,rock bottom restaurant,snack boneless wings,20,g,80,mg,2010,g,41,g,30,g,4,g,0,g,2,g,2,g
+109,rock bottom restaurant,snack boneless wings with blue cheese dressing,34,g,90,mg,2260,g,42,g,31,g,7,g,0,g,2,g,3,g
+110,rock bottom restaurant,snack boneless wings with buffalo sauce,30,g,80,mg,3420,g,42,g,30,g,9,g,0,g,2,g,3,g
+111,rock bottom restaurant,snack boneless wings with chipotle honey bbq sauce,20,g,80,mg,2560,g,77,g,30,g,4,g,0,g,2,g,34,g
+112,rock bottom restaurant,snack boneless wings with ranch dressing,33,g,85,mg,2170,g,42,g,31,g,6,g,0,g,2,g,3,g
+113,rock bottom restaurant,snack size nachos,51,g,145,mg,2610,g,67,g,38,g,29,g,0,g,7,g,6,g
+114,rock bottom restaurant,snack size nachos with guacamole,55,g,145,mg,2730,g,70,g,39,g,29,g,0,g,8,g,6,g
+115,rock bottom restaurant,snack size nachos with santa fe pulled chicken,53,g,175,mg,3000,g,68,g,51,g,29,g,0,g,7,g,6,g
+116,rock bottom restaurant,snack size nachos with seasoned beef,56,g,180,mg,3250,g,68,g,49,g,31,g,0,g,7,g,6,g
+117,rock bottom restaurant,snack traditional wings,22,g,95,mg,90,g,0,g,22,g,6,g,0,g,0,g,0,g
+118,rock bottom restaurant,snack traditional wings with blue cheese dressing,36,g,105,mg,340,g,1,g,24,g,9,g,0,g,0,g,1,g
+119,rock bottom restaurant,snack traditional wings with buffalo sauce,27,g,95,mg,800,g,1,g,23,g,8,g,0,g,0,g,0,g
+120,rock bottom restaurant,snack traditional wings with chipotle honey bbq sauce,22,g,95,mg,360,g,18,g,22,g,6,g,0,g,0,g,16,g
+121,rock bottom restaurant,snack traditional wings with ranch dressing,34,g,100,mg,250,g,1,g,23,g,8,g,0,g,0,g,1,g
+122,rock bottom restaurant,southwest egg rolls,25,g,65,mg,1430,g,54,g,33,g,9,g,0,g,5,g,11,g
+123,rock bottom restaurant,southwest egg rolls with roasted jalapeno ranch,39,g,75,mg,1620,g,58,g,34,g,12,g,0,g,6,g,12,g
+124,rock bottom restaurant,spicy firemans burger,33,g,30,mg,1430,g,62,g,15,g,11,g,0,g,4,g,12,g
+125,rock bottom restaurant,spicy firemans burger with 12 oz burger patty,75,g,245,mg,2040,g,62,g,75,g,27,g,0,g,4,g,12,g
+126,rock bottom restaurant,spicy firemans burger with bison burger patty,54,g,110,mg,3270,g,62,g,37,g,20,g,0,g,5,g,12,g
+127,rock bottom restaurant,spicy firemans burger with fresh angus burger patty,49,g,145,mg,3290,g,62,g,50,g,18,g,0,g,5,g,12,g
+128,rock bottom restaurant,spinach fruit and nut salad,27,g,15,mg,480,g,28,g,13,g,5,g,0,g,7,g,15,g
+129,rock bottom restaurant,steak tacos,18,g,45,mg,650,g,52,g,21,g,6,g,0,g,7,g,5,g
+130,rock bottom restaurant,steakhouse salad,77,g,200,mg,3290,g,13,g,73,g,29,g,0,g,4,g,6,g
+131,rock bottom restaurant,steakhouse salad with asiago caesar dressing,111,g,220,mg,3510,g,15,g,75,g,35,g,0,g,4,g,6,g
+132,rock bottom restaurant,steakhouse salad with balsamic vinaigrette,87,g,200,mg,3670,g,21,g,73,g,30,g,0,g,4,g,12,g
+133,rock bottom restaurant,steakhouse salad with bbq jalapeno ranch dressing,92,g,210,mg,3630,g,25,g,74,g,32,g,0,g,4,g,16,g
+134,rock bottom restaurant,steakhouse salad with blue cheese dressing,105,g,220,mg,3790,g,15,g,75,g,35,g,0,g,4,g,8,g
+135,rock bottom restaurant,steakhouse salad with caesar dressing,113,g,220,mg,3510,g,15,g,75,g,35,g,0,g,4,g,6,g
+136,rock bottom restaurant,steakhouse salad with chimichurri dressing,107,g,205,mg,3910,g,16,g,74,g,34,g,0,g,4,g,7,g
+137,rock bottom restaurant,steakhouse salad with honey dijon dressing,101,g,210,mg,3760,g,26,g,74,g,33,g,0,g,4,g,17,g
+138,rock bottom restaurant,steakhouse salad with honey dijon vinaigrette,97,g,205,mg,3730,g,24,g,74,g,32,g,0,g,4,g,16,g
+139,rock bottom restaurant,steakhouse salad with light balsamic vinaigrette,89,g,200,mg,3830,g,19,g,73,g,31,g,0,g,4,g,10,g
+140,rock bottom restaurant,steakhouse salad with light raspberry vinaigrette,83,g,200,mg,3540,g,22,g,73,g,30,g,0,g,4,g,15,g
+141,rock bottom restaurant,steakhouse salad with ranch dressing,97,g,210,mg,3570,g,17,g,75,g,33,g,0,g,4,g,8,g
+142,rock bottom restaurant,steakhouse salad with roasted jalapeno ranch dressing,96,g,210,mg,3550,g,17,g,75,g,33,g,0,g,4,g,8,g
+143,rock bottom restaurant,sterling vintners collection meritage wine,0,g,0,mg,5,g,4,g,0,g,0,g,0,g,0,g,1,g
+144,rock bottom restaurant,strawberry cheesecake,54,g,255,mg,470,g,80,g,11,g,31,g,2,g,3,g,62,g
+145,rock bottom restaurant,strawberry lemonade,0,g,0,mg,0,g,38,g,0,g,0,g,0,g,1,g,35,g
+146,rock bottom restaurant,strawberry margarita,0,g,0,mg,15,g,24,g,0,g,0,g,0,g,0,g,14,g
+147,rock bottom restaurant,tequila mojito,0,g,0,mg,0,g,21,g,0,g,0,g,0,g,1,g,17,g
+148,rock bottom restaurant,tropicana lemonade,0,g,0,mg,100,g,45,g,0,g,0,g,0,g,0,g,43,g
+149,rock bottom restaurant,tuna poke,21,g,45,mg,580,g,52,g,30,g,3,g,0,g,8,g,4,g
+150,rock bottom restaurant,ultimate arnold palmer,0,g,0,mg,0,g,19,g,0,g,0,g,0,g,0,g,17,g
+151,rock bottom restaurant,usda choice ribeye,60,g,430,mg,1110,g,1,g,90,g,24,g,0,g,0,g,0,g
+152,rock bottom restaurant,usda choice ribeye with chimichurri sauce,111,g,430,mg,1920,g,3,g,91,g,31,g,0,g,1,g,0,g
+153,rock bottom restaurant,usda choice ribeye with dark ale mushroom sauce,61,g,430,mg,1220,g,5,g,92,g,24,g,0,g,0,g,2,g
+154,rock bottom restaurant,usda choice ribeye with makers mark bourbon glaze,62,g,430,mg,2300,g,24,g,93,g,24,g,0,g,0,g,8,g
+155,rock bottom restaurant,usda choice ribeye with texas fire style,60,g,430,mg,1670,g,6,g,92,g,24,g,0,g,1,g,2,g
+156,rock bottom restaurant,veggie burger,37,g,10,mg,3110,g,99,g,17,g,11,g,0,g,8,g,15,g
+157,rock bottom restaurant,veggie tacos,32,g,60,mg,1130,g,58,g,25,g,16,g,0,g,8,g,3,g
+158,rock bottom restaurant,veggie tacos with black beans,32,g,60,mg,1670,g,72,g,30,g,16,g,0,g,12,g,5,g
+159,rock bottom restaurant,veggie tacos with red ale rice,34,g,60,mg,1900,g,89,g,28,g,16,g,0,g,8,g,5,g
+160,rock bottom restaurant,voodoo chicken,36,g,100,mg,3040,g,40,g,45,g,7,g,0,g,6,g,8,g
+161,rock bottom restaurant,voodoo tuna,11,g,65,mg,2420,g,39,g,39,g,3,g,0,g,6,g,7,g
+162,rock bottom restaurant,white cheddar mashed potatoes,19,g,45,mg,1360,g,45,g,10,g,11,g,0,g,5,g,5,g
+163,rock bottom restaurant,zonin prosecco,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+164,roly poly,wheat tortilla,7,g,0,mg,540,g,48,g,7,g,0,g,0,g,8,g,0,g
+165,roly poly,white tortilla,6,g,0,mg,530,g,48,g,7,g,1.5,g,0,g,2,g,1,g
+166,roly poly,gluten free tortilla,5,g,0,mg,400,g,34,g,2,g,1,g,0,g,1,g,4,g
+167,roly poly,chocolate chip cookie,17,g,25,mg,280,g,53,g,4,g,9,g,0,g,2,g,33,g
+168,roly poly,white chocolate macadamia nut cookie,20,g,30,mg,280,g,50,g,4,g,9,g,0,g,1,g,32,g
+169,roly poly,oatmeal raisin cookie,15,g,25,mg,290,g,52,g,5,g,9,g,0,g,3,g,28,g
+170,roly poly,kids peanut butter and jelly sandwich on white tortilla,9,g,0,mg,535,g,51,g,11,g,3,g,0,g,3,g,18,g
+171,roly poly,152 the gladiator sandwich on wheat tortilla,16,g,148,mg,715,g,27,g,17,g,8,g,0,g,2,g,3,g
+172,roly poly,kids chicken melt sandwich on white tortilla,6,g,32,mg,525,g,24,g,15,g,3,g,0,g,1,g,1,g
+173,roly poly,kids meat and cheese sandwich on white tortilla,5,g,32,mg,525,g,24,g,15,g,2,g,0,g,1,g,1,g
+174,roly poly,kids grilled cheese sandwich on white tortilla,8,g,20,mg,565,g,23,g,9,g,4,g,0,g,1,g,2,g
+175,roly poly,kids cheese dog sandwich on white tortilla,11,g,48,mg,829,g,24,g,14,g,7,g,0,g,1,g,2,g
+176,roly poly,pesto mayonnaise,11,g,5,mg,81,g,0,g,0,g,1,g,0,g,0,g,0,g
+177,roly poly,honey mustard relish,6,g,4,mg,147,g,2,g,0,g,1,g,0,g,0,g,2,g
+178,roly poly,spicy cajun mayonnaise,3,g,1,mg,34,g,0,g,0,g,1,g,0,g,0,g,0,g
+179,roly poly,curried mayonnaise fat free,0,g,0,mg,120,g,2,g,0,g,0,g,0,g,0,g,1,g
+180,roly poly,roasted red pepper hummus,3,g,0,mg,286,g,10,g,3,g,1,g,0,g,2,g,2,g
+181,roly poly,cranberry honey mustard,4,g,2,mg,35,g,4,g,0,g,0,g,0,g,0,g,4,g
+182,roly poly,peaches and pepper relish,0,g,0,mg,59,g,16,g,0,g,0,g,0,g,0,g,11,g
+183,roly poly,roasted red pepper mayonnaise,2,g,1,mg,41,g,0,g,0,g,0,g,0,g,0,g,0,g
+184,roly poly,tarragon mayonnaise,11,g,5,mg,76,g,0,g,0,g,1,g,0,g,0,g,0,g
+185,roly poly,bbq ranch dressing,7,g,4,mg,138,g,1,g,0,g,1,g,0,g,0,g,0,g
+186,roly poly,balsamic vinegar dressing,6,g,0,mg,135,g,0,g,0,g,1,g,0,g,0,g,0,g
+187,roly poly,basil mayo,9,g,4,mg,65,g,0,g,0,g,1,g,0,g,0,g,0,g
+188,roly poly,creamy italian dressing,5,g,0,mg,130,g,4,g,0,g,0,g,0,g,3,g,3,g
+189,roly poly,honey mustard dressing,7,g,5,mg,110,g,2,g,0,g,1,g,0,g,0,g,1,g
+190,roly poly,blue cheese dressing lower fat,4,g,0,mg,156,g,2,g,0,g,1,g,0,g,0,g,0,g
+191,roly poly,dill dressing,11,g,5,mg,90,g,0,g,0,g,1,g,0,g,0,g,0,g
+192,roly poly,horsey ranch dressing fat free,0,g,0,mg,182,g,5,g,0,g,0,g,0,g,0,g,1,g
+193,roly poly,lite dill dressing,1,g,2,mg,135,g,2,g,0,g,0,g,0,g,0,g,1,g
+194,roly poly,chipotle ranch dressing,8,g,0,mg,142,g,1,g,0,g,1,g,0,g,0,g,1,g
+195,roly poly,ranch dressing fat free,0,g,0,mg,170,g,4,g,0,g,0,g,0,g,0,g,1,g
+196,roly poly,ranch dressing,5,g,5,mg,135,g,0,g,0,g,0,g,0,g,0,g,0,g
+197,roly poly,apple ranch dressing fat free,0,g,0,mg,151,g,5,g,0,g,0,g,0,g,0,g,1,g
+198,roly poly,sundried tomato basil dressing fat free,0,g,0,mg,187,g,5,g,0,g,0,g,0,g,0,g,1,g
+199,roly poly,oriental sesame dressing,5,g,0,mg,200,g,3,g,0,g,0,g,0,g,0,g,0,g
+200,roly poly,caesar dressing,10,g,2,mg,175,g,0,g,0,g,1,g,0,g,0,g,0,g
+201,roly poly,blue cheese dressing,8,g,5,mg,170,g,1,g,0,g,1,g,0,g,0,g,0,g
+202,roly poly,asian tahini dressing,5,g,0,mg,123,g,3,g,1,g,1,g,0,g,0,g,2,g
+203,roly poly,chipotle caesar salad without dressing,25,g,126,mg,1160,g,21,g,45,g,12,g,0,g,4,g,4,g
+204,roly poly,las olas salad without dressing,11,g,67,mg,756,g,15,g,26,g,1,g,0,g,4,g,6,g
+205,roly poly,walnut spinach salad without dressing,33,g,48,mg,1033,g,14,g,24,g,9,g,0,g,7,g,5,g
+206,roly poly,just veggies salad without dressing,0,g,0,mg,64,g,19,g,6,g,0,g,0,g,8,g,6,g
+207,roly poly,alpine chef salad without dressing,16,g,77,mg,1557,g,13,g,32,g,8,g,0,g,4,g,6,g
+208,roly poly,buffalo chicken salad without dressing,25,g,133,mg,1411,g,13,g,49,g,10,g,0,g,5,g,5,g
+209,roly poly,spicy caesar salad without dressing,19,g,109,mg,1044,g,33,g,43,g,8,g,0,g,5,g,4,g
+210,roly poly,cobb salad without dressing,27,g,137,mg,1481,g,12,g,50,g,11,g,0,g,4,g,4,g
+211,roly poly,roly chef salad without dressing,19,g,67,mg,1385,g,12,g,31,g,6,g,0,g,2,g,7,g
+212,roly poly,buffalo cobb salad without dressing,22,g,128,mg,1111,g,10,g,46,g,9,g,0,g,3,g,3,g
+213,roly poly,frisco chicken salad without dressing,25,g,137,mg,1250,g,20,g,47,g,12,g,0,g,7,g,6,g
+214,roly poly,spa salad without dressing,15,g,0,mg,30,g,26,g,9,g,2,g,0,g,7,g,17,g
+215,roly poly,spa salad with chicken without dressing,18,g,89,mg,670,g,30,g,42,g,3,g,0,g,7,g,17,g
+216,roly poly,greek salad without dressing,10,g,33,mg,589,g,14,g,8,g,6,g,0,g,5,g,7,g
+217,roly poly,36 chicken fajita sandwich on white tortilla,9,g,60,mg,526,g,28,g,25,g,4,g,0,g,2,g,3,g
+218,roly poly,28 santa fe chicken sandwich on white tortilla,11,g,64,mg,551,g,28,g,26,g,4,g,0,g,2,g,3,g
+219,roly poly,53 chicken popper sandwich on white tortilla,8,g,59,mg,574,g,29,g,22,g,4,g,0,g,2,g,4,g
+220,roly poly,30 basil cashew chicken sandwich on white tortilla,10,g,46,mg,580,g,30,g,23,g,2,g,0,g,3,g,3,g
+221,roly poly,55 pesto chicken sandwich on white tortilla,9,g,57,mg,598,g,28,g,26,g,4,g,0,g,2,g,3,g
+222,roly poly,150 farmers omelette egg roly sandwich on white tortilla,17,g,154,mg,644,g,31,g,18,g,6,g,0,g,2,g,3,g
+223,roly poly,29 catalina chicken salad sandwich on white tortilla,11,g,72,mg,703,g,28,g,30,g,3,g,0,g,3,g,2,g
+224,roly poly,71 chipotle chicken sandwich on white tortilla,16,g,77,mg,831,g,27,g,30,g,7,g,0,g,2,g,3,g
+225,roly poly,52 hickory chicken sandwich on white tortilla,10,g,71,mg,716,g,25,g,28,g,3,g,0,g,1,g,1,g
+226,roly poly,103 veggie scramble egg roly sandwich on white tortilla,16,g,145,mg,623,g,32,g,14,g,8,g,0,g,3,g,4,g
+227,roly poly,37 chicken cordon bleu sandwich on white tortilla,11,g,52,mg,653,g,26,g,23,g,4,g,0,g,2,g,3,g
+228,roly poly,101 all american egg roly sandwich with bacon on white tortilla,22,g,185,mg,1344,g,24,g,29,g,9,g,0,g,1,g,2,g
+229,roly poly,13 hot honey turkey sandwich on white tortilla,8,g,55,mg,961,g,25,g,24,g,3,g,0,g,1,g,2,g
+230,roly poly,48 oriental chicken sandwich on white tortilla,4,g,44,mg,537,g,29,g,22,g,1,g,0,g,3,g,3,g
+231,roly poly,102 western egg roly sandwich on white tortilla,18,g,146,mg,639,g,32,g,14,g,8,g,0,g,2,g,4,g
+232,roly poly,101 all american egg roly sandwich with ham on white tortilla,19,g,167,mg,917,g,24,g,23,g,7,g,0,g,1,g,2,g
+233,roly poly,105 christo melt egg roly sandwich on white tortilla,16,g,158,mg,854,g,30,g,20,g,7,g,0,g,2,g,4,g
+234,roly poly,104 huevos rancheros egg roly sandwich on white tortilla,18,g,146,mg,748,g,35,g,16,g,8,g,0,g,4,g,4,g
+235,roly poly,151 la scramble egg roly sandwich on wheat tortilla,12,g,147,mg,687,g,28,g,17,g,7,g,0,g,3,g,4,g
+236,roly poly,106 steak and eggs egg roly sandwich on white tortilla,16,g,159,mg,798,g,31,g,19,g,6,g,0,g,2,g,3,g
+237,roly poly,27 chicken caesar sandwich on white tortilla,11,g,60,mg,595,g,30,g,27,g,3,g,0,g,3,g,4,g
+238,roly poly,26 chicken cobb salad sandwich on white tortilla,12,g,18,mg,466,g,27,g,11,g,3,g,0,g,3,g,3,g
+239,roly poly,fajita sauce,8,g,5,mg,144,g,1,g,0,g,1,g,0,g,0,g,0,g
+240,roly poly,dill horseradish sauce,5,g,1,mg,114,g,1,g,0,g,0,g,0,g,0,g,0,g
+241,roly poly,horsey horseradish sauce,10,g,4,mg,80,g,0,g,0,g,1,g,0,g,0,g,0,g
+242,roly poly,peach salsa,0,g,0,mg,54,g,2,g,0,g,0,g,0,g,0,g,1,g
+243,roly poly,curry sauce,11,g,5,mg,75,g,0,g,0,g,1,g,0,g,0,g,0,g
+244,roly poly,creole sauce fat free,0,g,0,mg,129,g,3,g,0,g,0,g,0,g,0,g,1,g
+245,roly poly,creamy chiken and wild rice soup,13,g,56,mg,645,g,13,g,6,g,7,g,0,g,2,g,3,g
+246,roly poly,broccoli cheddar soup,11,g,37,mg,710,g,10,g,6,g,6,g,0,g,1,g,2,g
+247,roly poly,mediterranean white bean soup,3,g,0,mg,481,g,16,g,5,g,0.5,g,0,g,7,g,3,g
+248,roly poly,baja chicken enchilada soup gluten free,14,g,52,mg,885,g,12,g,10,g,7,g,0,g,3,g,4,g
+249,roly poly,mexican style chicken tortilla soup,2.5,g,10,mg,580,g,18,g,8,g,0,g,0,g,4,g,3,g
+250,roly poly,artichoke chicken florentine soup,15.3,g,49,mg,809,g,5.2,g,8,g,8.3,g,0,g,2,g,1,g
+251,roly poly,loaded baked potato soup,11,g,15,mg,490,g,15,g,4,g,5,g,0,g,1,g,2,g
+252,roly poly,spring asparagus soup vegetarian,9,g,10,mg,841,g,10,g,4,g,5,g,0,g,1,g,2,g
+253,roly poly,southwestern roasted corn soup,3,g,2,mg,613,g,14,g,3,g,0.5,g,0,g,3,g,2,g
+254,roly poly,creamy tomato soup,7,g,22,mg,300,g,12,g,4,g,4,g,0,g,1,g,10,g
+255,roly poly,shrimp and roasted corn soup,12,g,55,mg,735,g,16,g,5,g,6.5,g,0,g,1,g,2,g
+256,roly poly,garden vegetable soup vegetarian,0,g,0,mg,610,g,12,g,3,g,0,g,0,g,2,g,2,g
+257,roly poly,hearty beef and vegetable stew,10,g,25,mg,544,g,12,g,10,g,1,g,0,g,2,g,1,g
+258,roly poly,old fashioned chicken noodle soup,1.5,g,10,mg,800,g,11,g,4,g,0,g,0,g,1,g,2,g
+259,roly poly,lobster bisque,12,g,49,mg,622,g,10,g,3,g,7,g,0,g,1,g,1,g
+260,roly poly,clam chowder soup,5,g,30,mg,720,g,12,g,4,g,4.5,g,0,g,1,g,2,g
+261,roly poly,harvest mushroom bisque classic soup,5,g,15,mg,700,g,11,g,3,g,2.5,g,0,g,1,g,2,g
+262,roly poly,seafood bisque,14,g,71,mg,735,g,12,g,8,g,9,g,0,g,0,g,3,g
+263,roly poly,autumn butternut squash,7,g,21,mg,537,g,17,g,2,g,4,g,0,g,1,g,6,g
+264,roly poly,roasted garlic tomato soup,11,g,50,mg,550,g,12,g,3,g,6,g,0,g,1,g,3,g
+265,roly poly,white cheddar and poblano soup,22,g,77,mg,655,g,10,g,5,g,14,g,0,g,1,g,3,g
+266,roly poly,italian wedding and meatballs soup,5,g,19,mg,540,g,8,g,5,g,2,g,0,g,1,g,1,g
+267,roly poly,classic chili,5,g,15,mg,730,g,18,g,9,g,2,g,0,g,6,g,3,g
+268,roly poly,corn and green chile bisque soup vegetarian,7,g,10,mg,760,g,14,g,3,g,3.5,g,0,g,1,g,3,g
+269,roly poly,57 roly poly pounder turkey sandwich on white tortilla,21,g,82,mg,1809,g,35,g,31,g,9,g,0,g,3,g,6,g
+270,roly poly,60 popeyes tuna salad sandwich on wheat tortilla,10,g,49,mg,778,g,31,g,21,g,2,g,0,g,4,g,4,g
+271,roly poly,18 philly melt roast beef sandwich on white tortilla,11,g,45,mg,715,g,25,g,20,g,5,g,0,g,2,g,2,g
+272,roly poly,39 turkey applejack sandwich on white tortilla,12,g,48,mg,995,g,30,g,20,g,3,g,0,g,2,g,4,g
+273,roly poly,6 california hummer sandwich on white tortilla,13,g,16,mg,445,g,32,g,13,g,3,g,0,g,4,g,4,g
+274,roly poly,23 key west cuban sandwich on white tortilla,9,g,42,mg,1177,g,44,g,20,g,4,g,0,g,6,g,12,g
+275,roly poly,38 hickory cristo turkey sandwich on white tortilla,9,g,54,mg,765,g,25,g,24,g,3,g,0,g,2,g,3,g
+276,roly poly,3 monster veggie sandwich on white tortilla,9,g,22,mg,269,g,27,g,12,g,3,g,0,g,4,g,3,g
+277,roly poly,160 nutty avocado sandwich on wheat tortilla,12,g,0,mg,136,g,35,g,8,g,2,g,0,g,5,g,9,g
+278,roly poly,47 nut and honey sandwich on white tortilla,17,g,29,mg,256,g,35,g,10,g,4,g,0,g,4,g,9,g
+279,roly poly,40 texas tuna salad sandwich on white tortilla,12,g,64,mg,765,g,30,g,24,g,4,g,0,g,2,g,3,g
+280,roly poly,10 california turkey sandwich on white tortilla,12,g,47,mg,1003,g,30,g,21,g,3,g,0,g,3,g,3,g
+281,roly poly,165 cape codder on wheat tortilla,12,g,41,mg,790,g,26,g,17,g,2,g,0,g,4,g,4,g
+282,roly poly,15 ranch roast beef sandwich on white tortilla,15,g,66,mg,1235,g,28,g,22,g,4,g,0,g,3,g,5,g
+283,roly poly,7 french twist sandwich on white tortilla,9,g,29,mg,267,g,27,g,13,g,4,g,0,g,3,g,4,g
+284,roly poly,161 black and bleu club sandwich on white tortilla,13,g,48,mg,958,g,25,g,22,g,5,g,0,g,2,g,2,g
+285,roly poly,33 thai hot tuna sandwich on white tortilla,11,g,49,mg,667,g,30,g,21,g,3,g,0,g,3,g,4,g
+286,roly poly,12 smokehouse turkey sandwich on white tortilla,10,g,52,mg,901,g,27,g,24,g,2,g,0,g,3,g,4,g
+287,roly poly,117 classic tuna melt on white tortilla,17,g,65,mg,740,g,26,g,25,g,6,g,0,g,2,g,3,g
+288,roly poly,42 veggie fajita sandwich on white tortilla,8,g,23,mg,283,g,27,g,11,g,2,g,0,g,3,g,3,g
+289,roly poly,10 california turkey sandwich,12,g,45,mg,1000,g,30,g,21,g,3,g,0,g,3,g,3,g
+290,roly poly,117 classic tuna melt sandwich,17,g,65,mg,740,g,26,g,25,g,6,g,0,g,2,g,3,g
+291,roly poly,12 smokehouse turkey sandwich,10,g,50,mg,900,g,27,g,24,g,2,g,0,g,3,g,4,g
+292,roly poly,13 hot honey sandwich,8,g,55,mg,960,g,25,g,24,g,3,g,0,g,1,g,2,g
+293,roly poly,15 ranch roast sandwich,15,g,65,mg,1240,g,28,g,22,g,4,g,0,g,3,g,5,g
+294,roly poly,160 nutty avocado wheat sandwich,12,g,0,mg,135,g,35,g,8,g,2,g,0,g,5,g,9,g
+295,roly poly,161 black and bleu club sandwich,13,g,50,mg,960,g,25,g,22,g,5,g,0,g,2,g,2,g
+296,roly poly,165 cape codder wheat sandwich,12,g,40,mg,790,g,26,g,17,g,2,g,0,g,4,g,4,g
+297,roly poly,18 philly melt sandwich,11,g,45,mg,720,g,25,g,20,g,5,g,0,g,2,g,2,g
+298,roly poly,23 key west cuban sandwich,9,g,40,mg,1180,g,44,g,20,g,4,g,0,g,6,g,12,g
+299,roly poly,26 cobb salad sandwich,12,g,20,mg,470,g,27,g,11,g,3,g,0,g,3,g,3,g
+300,roly poly,27 chicken caesar sandwich,11,g,60,mg,600,g,30,g,27,g,3,g,0,g,3,g,4,g
+301,roly poly,28 santa fe chicken sandwich,11,g,65,mg,550,g,28,g,26,g,4,g,0,g,2,g,3,g
+302,roly poly,29 catalina chicken sandwich,11,g,70,mg,700,g,28,g,30,g,3,g,0,g,3,g,2,g
+303,roly poly,3 monster veggie sandwich,9,g,20,mg,270,g,27,g,12,g,3,g,0,g,4,g,3,g
+304,roly poly,30 basil cashew chicken sandwich,10,g,45,mg,580,g,30,g,23,g,2,g,0,g,3,g,3,g
+305,roly poly,33 thai hot tuna sandwich,11,g,50,mg,670,g,30,g,21,g,3,g,0,g,3,g,4,g
+306,roly poly,36 chicken fajita sandwich,9,g,60,mg,530,g,28,g,25,g,4,g,0,g,2,g,3,g
+307,roly poly,37 chicken cordon bleu sandwich,11,g,50,mg,650,g,26,g,23,g,4,g,0,g,2,g,3,g
+308,roly poly,38 hickory cristo sandwich,9,g,55,mg,770,g,25,g,24,g,3,g,0,g,2,g,3,g
+309,roly poly,39 turkey applejack sandwich,12,g,50,mg,1000,g,30,g,20,g,3,g,0,g,2,g,4,g
+310,roly poly,40 texas tuna sandwich,12,g,65,mg,770,g,30,g,24,g,4,g,0,g,2,g,3,g
+311,roly poly,42 veggie fajita sandwich,8,g,25,mg,280,g,27,g,11,g,2,g,0,g,3,g,3,g
+312,roly poly,47 nut and honey sandwich,17,g,30,mg,260,g,35,g,10,g,4,g,0,g,4,g,9,g
+313,roly poly,48 oriental chicken sandwich,4,g,45,mg,540,g,29,g,22,g,1,g,0,g,3,g,3,g
+314,roly poly,52 hickory chicken sandwich,10,g,70,mg,720,g,25,g,28,g,3,g,0,g,1,g,1,g
+315,roly poly,53 chicken popper sandwich,8,g,60,mg,570,g,29,g,22,g,4,g,0,g,2,g,4,g
+316,roly poly,55 pesto chicken sandwich,9,g,55,mg,600,g,28,g,26,g,4,g,0,g,2,g,3,g
+317,roly poly,57 roly poly pounder sandwich,21,g,80,mg,1810,g,35,g,31,g,9,g,0,g,3,g,6,g
+318,roly poly,6 california hummer sandwich,13,g,15,mg,450,g,32,g,13,g,3,g,0,g,4,g,4,g
+319,roly poly,60 popeyes tuna wheat sandwich,10,g,50,mg,780,g,31,g,21,g,2,g,0,g,4,g,4,g
+320,roly poly,65 buffalo slim wheat sandwich,5,g,60,mg,590,g,28,g,25,g,2,g,0,g,3,g,2,g
+321,roly poly,7 french twist sandwich,9,g,30,mg,270,g,27,g,13,g,4,g,0,g,3,g,4,g
+322,roly poly,71 chipotle chicken sandwich,16,g,75,mg,830,g,27,g,30,g,7,g,0,g,2,g,3,g
+323,roly poly,72 buffalo chicken sandwich,9,g,60,mg,730,g,28,g,25,g,4,g,0,g,2,g,3,g
+324,roly poly,alpine chef salad,16,g,75,mg,1560,g,13,g,32,g,8,g,0,g,4,g,6,g
+325,roly poly,artichoke chicken florentine soup,15,g,50,mg,810,g,5,g,8,g,8,g,0,g,2,g,1,g
+326,roly poly,asian tahini dressing,5,g,0,mg,125,g,3,g,1,g,1,g,0,g,0,g,2,g
+327,roly poly,autumn butternut squash soup,7,g,20,mg,540,g,17,g,2,g,4,g,0,g,1,g,6,g
+328,roly poly,baja chicken enchilada gluten free soup,14,g,50,mg,890,g,12,g,10,g,7,g,0,g,3,g,4,g
+329,roly poly,balsamic vinegar dressing,6,g,0,mg,135,g,0,g,0,g,1,g,0,g,0,g,0,g
+330,roly poly,basil mayo,9,g,5,mg,65,g,0,g,0,g,1,g,0,g,0,g,0,g
+331,roly poly,bbq ranch dressing,7,g,5,mg,140,g,1,g,0,g,1,g,0,g,0,g,0,g
+332,roly poly,blue cheese dressing,8,g,5,mg,170,g,1,g,0,g,1,g,0,g,0,g,0,g
+333,roly poly,broccoli cheddar soup,11,g,35,mg,710,g,10,g,6,g,6,g,0,g,1,g,2,g
+334,roly poly,buffalo chicken salad,25,g,135,mg,1410,g,13,g,49,g,10,g,0,g,5,g,5,g
+335,roly poly,buffalo cobb salad,22,g,130,mg,1110,g,10,g,46,g,9,g,0,g,3,g,3,g
+336,roly poly,caesar dressing,10,g,5,mg,180,g,0,g,0,g,1,g,0,g,0,g,0,g
+337,roly poly,chicken buffalo soup,17,g,45,mg,810,g,12,g,8,g,5,g,0,g,1,g,0,g
+338,roly poly,chipotle caesar salad,25,g,125,mg,1160,g,21,g,45,g,12,g,0,g,4,g,4,g
+339,roly poly,chipotle ranch,8,g,0,mg,140,g,1,g,0,g,1,g,0,g,0,g,1,g
+340,roly poly,chocolate chip cookie,17,g,25,mg,280,g,53,g,4,g,9,g,0,g,2,g,33,g
+341,roly poly,clam chowder,5,g,30,mg,720,g,12,g,4,g,4.5,g,0,g,1,g,2,g
+342,roly poly,classic chili,5,g,15,mg,730,g,18,g,9,g,2,g,0,g,6,g,3,g
+343,roly poly,cobb salad,27,g,135,mg,1480,g,12,g,50,g,11,g,0,g,4,g,4,g
+344,roly poly,corn and green chile bisque vegetarian,7,g,10,mg,760,g,14,g,3,g,3.5,g,0,g,1,g,3,g
+345,roly poly,cranberry honey mustard,4,g,5,mg,35,g,4,g,0,g,0,g,0,g,0,g,4,g
+346,roly poly,creamy chicken and wild rice soup,13,g,55,mg,650,g,13,g,6,g,7,g,0,g,2,g,3,g
+347,roly poly,creamy italian dressing,5,g,0,mg,130,g,4,g,0,g,0,g,0,g,3,g,3,g
+348,roly poly,creamy tomato soup,7,g,20,mg,300,g,12,g,4,g,4,g,0,g,1,g,10,g
+349,roly poly,curry sauce,11,g,5,mg,75,g,0,g,0,g,1,g,0,g,0,g,0,g
+350,roly poly,dill dressing,11,g,5,mg,90,g,0,g,0,g,1,g,0,g,0,g,0,g
+351,roly poly,dill horseradish sauce,5,g,0,mg,115,g,1,g,0,g,0,g,0,g,0,g,0,g
+352,roly poly,fajita sauce,8,g,5,mg,140,g,1,g,0,g,1,g,0,g,0,g,0,g
+353,roly poly,fat free apple ranch dressing,0,g,0,mg,150,g,5,g,0,g,0,g,0,g,0,g,1,g
+354,roly poly,fat free creole sauce,0,g,0,mg,130,g,3,g,0,g,0,g,0,g,0,g,1,g
+355,roly poly,fat free curried mayonnaise,0,g,0,mg,120,g,2,g,0,g,0,g,0,g,0,g,1,g
+356,roly poly,fat free horsey ranch,0,g,0,mg,180,g,5,g,0,g,0,g,0,g,0,g,1,g
+357,roly poly,fat free ranch dressing,0,g,0,mg,170,g,4,g,0,g,0,g,0,g,0,g,1,g
+358,roly poly,fat free sundried tomato basil dressing,0,g,0,mg,190,g,5,g,0,g,0,g,0,g,0,g,1,g
+359,roly poly,frisco chicken salad,25,g,135,mg,1250,g,20,g,47,g,12,g,0,g,7,g,6,g
+360,roly poly,garden vegetable vegetarian soup,0,g,0,mg,610,g,12,g,3,g,0,g,0,g,2,g,2,g
+361,roly poly,gluten free tortilla,5,g,0,mg,400,g,34,g,2,g,1,g,0,g,1,g,4,g
+362,roly poly,greek salad,10,g,35,mg,590,g,14,g,8,g,6,g,0,g,5,g,7,g
+363,roly poly,harvest mushroom bisque,5,g,15,mg,700,g,11,g,3,g,2.5,g,0,g,1,g,2,g
+364,roly poly,hearty beef and vegetable stew soup,10,g,25,mg,540,g,12,g,10,g,1,g,0,g,2,g,1,g
+365,roly poly,honey mustard dressing,7,g,5,mg,110,g,2,g,0,g,1,g,0,g,0,g,1,g
+366,roly poly,honey mustard relish,6,g,5,mg,150,g,2,g,0,g,1,g,0,g,0,g,2,g
+367,roly poly,horsey horseradish sauce,10,g,5,mg,80,g,0,g,0,g,1,g,0,g,0,g,0,g
+368,roly poly,italian wedding with meatballs soup,5,g,20,mg,540,g,8,g,5,g,2,g,0,g,1,g,1,g
+369,roly poly,just veggies salad,0,g,0,mg,65,g,19,g,6,g,0,g,0,g,8,g,6,g
+370,roly poly,kids all american egg roly with bacon on white,22,g,185,mg,1340,g,24,g,29,g,9,g,0,g,1,g,2,g
+371,roly poly,kids all american egg roly with ham on white,19,g,165,mg,920,g,24,g,23,g,7,g,0,g,1,g,2,g
+372,roly poly,kids cheese dog on white,11,g,50,mg,830,g,24,g,14,g,7,g,0,g,1,g,2,g
+373,roly poly,kids chicken melt on white,6,g,30,mg,530,g,24,g,15,g,3,g,0,g,1,g,1,g
+374,roly poly,kids christo melt on white,16,g,160,mg,850,g,30,g,20,g,7,g,0,g,2,g,4,g
+375,roly poly,kids farmers omelette on white,17,g,155,mg,640,g,31,g,18,g,6,g,0,g,2,g,3,g
+376,roly poly,kids grilled cheese on white,8,g,20,mg,570,g,23,g,9,g,4,g,0,g,1,g,2,g
+377,roly poly,kids huevos rancheros on white,18,g,145,mg,750,g,35,g,16,g,8,g,0,g,4,g,4,g
+378,roly poly,kids la scramble on wheat,12,g,145,mg,690,g,28,g,17,g,7,g,0,g,3,g,4,g
+379,roly poly,kids meat and cheese on white,5,g,30,mg,530,g,24,g,15,g,2,g,0,g,1,g,1,g
+380,roly poly,kids peanut butter and jelly on white,9,g,0,mg,540,g,51,g,11,g,3,g,0,g,3,g,18,g
+381,roly poly,kids steak and eggs on white,16,g,160,mg,800,g,31,g,19,g,6,g,0,g,2,g,3,g
+382,roly poly,kids the gladiator on wheat,16,g,150,mg,720,g,27,g,17,g,8,g,0,g,2,g,3,g
+383,roly poly,kids veggie frittata on wheat,9,g,145,mg,680,g,27,g,13,g,5,g,0,g,2,g,3,g
+384,roly poly,kids veggie scramble egg roly on white,16,g,145,mg,620,g,32,g,14,g,8,g,0,g,3,g,4,g
+385,roly poly,kids western egg roly on white,18,g,145,mg,640,g,32,g,14,g,8,g,0,g,2,g,4,g
+386,roly poly,las olas salad,11,g,65,mg,760,g,15,g,26,g,1,g,0,g,4,g,6,g
+387,roly poly,lite dill dressing,1,g,5,mg,135,g,2,g,0,g,0,g,0,g,0,g,1,g
+388,roly poly,loaded baked potato soup,11,g,15,mg,490,g,15,g,4,g,5,g,0,g,1,g,2,g
+389,roly poly,lobster bisque soup,12,g,50,mg,620,g,10,g,3,g,7,g,0,g,1,g,1,g
+390,roly poly,lower fat blue cheese dressing,4,g,0,mg,160,g,2,g,0,g,1,g,0,g,0,g,0,g
+391,roly poly,mediterranean white bean soup,3,g,0,mg,480,g,16,g,5,g,0.5,g,0,g,7,g,3,g
+392,roly poly,mexican chicken tortilla soup,2.5,g,10,mg,580,g,18,g,8,g,0,g,0,g,4,g,3,g
+393,roly poly,oatmeal raisin cookie,15,g,25,mg,290,g,52,g,5,g,9,g,0,g,3,g,28,g
+394,roly poly,old fashioned chicken noodle soup,1.5,g,10,mg,800,g,11,g,4,g,0,g,0,g,1,g,2,g
+395,roly poly,oriental sesame dressing,5,g,0,mg,200,g,3,g,0,g,0,g,0,g,0,g,3,g
+396,roly poly,peach salsa,0,g,0,mg,55,g,2,g,0,g,0,g,0,g,0,g,1,g
+397,roly poly,peaches and pepper relish,0,g,0,mg,60,g,16,g,0,g,0,g,0,g,0,g,11,g
+398,roly poly,pesto mayonnaise,11,g,5,mg,80,g,0,g,0,g,1,g,0,g,0,g,0,g
+399,roly poly,ranch dressing,5,g,5,mg,135,g,0,g,0,g,0,g,0,g,0,g,0,g
+400,roly poly,roasted garlic tomato soup,11,g,50,mg,550,g,12,g,3,g,6,g,0,g,1,g,3,g
+401,roly poly,roasted red pepper hummus,3,g,0,mg,290,g,10,g,3,g,1,g,0,g,2,g,2,g
+402,roly poly,roasted red pepper mayonnaise,2,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+403,roly poly,roly chef salad,19,g,65,mg,1390,g,12,g,31,g,6,g,0,g,2,g,7,g
+404,roly poly,seafood bisque,14,g,70,mg,740,g,12,g,8,g,9,g,0,g,0,g,3,g
+405,roly poly,shrimp and roasted corn soup,12,g,55,mg,740,g,16,g,5,g,7,g,0,g,1,g,2,g
+406,roly poly,southwestern roasted corn soup,3,g,5,mg,610,g,14,g,3,g,0.5,g,0,g,3,g,2,g
+407,roly poly,spa salad,15,g,0,mg,30,g,26,g,9,g,2,g,0,g,7,g,17,g
+408,roly poly,spa with chicken salad,18,g,90,mg,670,g,30,g,42,g,3,g,0,g,7,g,17,g
+409,roly poly,spicy caesar salad,19,g,110,mg,1040,g,33,g,43,g,8,g,0,g,5,g,4,g
+410,roly poly,spicy cajun mayonnaise,3,g,0,mg,35,g,0,g,0,g,1,g,0,g,0,g,0,g
+411,roly poly,spring asparagus vegetarian soup,9,g,30,mg,840,g,10,g,4,g,5,g,0,g,1,g,2,g
+412,roly poly,tarragon mayonnaise,11,g,5,mg,75,g,0,g,0,g,1,g,0,g,0,g,0,g
+413,roly poly,thanksgiving everyday soup,16,g,65,mg,910,g,17,g,8,g,9,g,0,g,1,g,4,g
+414,roly poly,walnut spinach salad,33,g,50,mg,1030,g,14,g,24,g,9,g,0,g,7,g,5,g
+415,roly poly,wheat tortilla,7,g,0,mg,540,g,48,g,7,g,0,g,0,g,8,g,0,g
+416,roly poly,white cheddar and poblano soup,22,g,75,mg,660,g,10,g,5,g,14,g,0,g,1,g,3,g
+417,roly poly,white chocolate macadamia nut cookie,20,g,30,mg,280,g,50,g,4,g,9,g,0,g,1,g,32,g
+418,roly poly,white tortilla,6,g,0,mg,530,g,48,g,7,g,1.5,g,0,g,2,g,1,g
+419,round table pizza,garlic parmesan twists,5,g,10,mg,460,g,26,g,6,g,2,g,0,g,1,g,1,g
+420,round table pizza,buffalo wings,5,g,25,mg,290,g,1,g,6,g,1.5,g,0,g,0,g,0,g
+421,round table pizza,original boneless wings,2.5,g,15,mg,330,g,7,g,7,g,0,g,0,g,0,g,0,g
+422,round table pizza,garlic bread with cheese,6,g,10,mg,180,g,9,g,4,g,2.5,g,0,g,0,g,0,g
+423,round table pizza,original classic wings,3.5,g,30,mg,160,g,0,g,5,g,1,g,0,g,0,g,0,g
+424,round table pizza,bbq boneless wings,2.5,g,15,mg,450,g,12,g,7,g,0,g,0,g,1,g,5,g
+425,round table pizza,buffalo classic hot mild wings average,3.5,g,30,mg,340,g,1,g,5,g,1,g,0,g,1,g,0,g
+426,round table pizza,polynesian classic wings,3.5,g,30,mg,220,g,3,g,5,g,1,g,0,g,0,g,3,g
+427,round table pizza,honey bbq wings,27,g,150,mg,1080,g,12,g,36,g,9,g,0,g,0,g,0,g
+428,round table pizza,garlic bread,3.5,g,0,mg,115,g,9,g,2,g,1.5,g,0,g,0,g,0,g
+429,round table pizza,buffalo boneless hot mild wings average,4,g,15,mg,515,g,8,g,7,g,0,g,0,g,0,g,0,g
+430,round table pizza,polynesian boneless wings,2.5,g,15,mg,420,g,11,g,7,g,0,g,0,g,0,g,4,g
+431,round table pizza,bbq classic wings,3.5,g,30,mg,240,g,5,g,5,g,1,g,0,g,0,g,5,g
+432,round table pizza,side of chicken for salads,5,g,45,mg,590,g,0,g,13,g,1.5,g,0,g,0,g,0,g
+433,round table pizza,chicken bacon alfredo pasta individual,36,g,80,mg,1360,g,48,g,36,g,15,g,0.5,g,3,g,6,g
+434,round table pizza,penne marinara pasta with meatballs individual,42,g,95,mg,1940,g,71,g,40,g,17,g,0,g,11,g,14,g
+435,round table pizza,five cheese ravioli pasta individual,36,g,105,mg,1760,g,64,g,33,g,16,g,0,g,6,g,11,g
+436,round table pizza,marinara pasta with sausage and mushroom,29,g,65,mg,1500,g,57,g,29,g,11,g,0,g,7,g,13,g
+437,round table pizza,italian sausage lasagna individual,48,g,110,mg,3090,g,89,g,48,g,20,g,0,g,15,g,22,g
+438,round table pizza,pepperoni original crust pizza extra large 16,11,g,30,mg,610,g,24,g,10,g,5,g,0,g,1,g,2,g
+439,round table pizza,cheese original crust pizza small 9 5,8,g,25,mg,450,g,22,g,10,g,4.5,g,0,g,1,g,2,g
+440,round table pizza,pepperoni original crust pizza personal 6 5,8,g,25,mg,430,g,16,g,7,g,3.5,g,0,g,1,g,1,g
+441,round table pizza,hawaiian original crust pizza large 14,8,g,30,mg,590,g,27,g,11,g,4,g,0,g,1,g,4,g
+442,round table pizza,king arthur supreme original crust pizza medium 12,15,g,40,mg,720,g,28,g,14,g,6,g,0,g,2,g,3,g
+443,round table pizza,gourmet veggie pan crust pizza medium 12,13,g,35,mg,850,g,43,g,14,g,6,g,0,g,3,g,3,g
+444,round table pizza,wombo combo original crust pizza large 14,13,g,35,mg,790,g,26,g,13,g,6,g,0,g,2,g,3,g
+445,round table pizza,king arthurs supreme original crust pizza large 14,13,g,35,mg,650,g,26,g,12,g,6,g,0,g,2,g,2,g
+446,round table pizza,maui zaui pepperoni original crust pizza with zesty red sauce medium 12,14,g,35,mg,760,g,28,g,14,g,5,g,0,g,1,g,4,g
+447,round table pizza,pepperoni skinny crust pizza large 14,11,g,30,mg,550,g,18,g,10,g,5,g,0,g,1,g,2,g
+448,round table pizza,gourmet veggie original crust pizza personal 6 5,7,g,15,mg,400,g,18,g,7,g,3,g,0,g,1,g,2,g
+449,round table pizza,cheese original crust pizza personal 6 5,7,g,20,mg,340,g,16,g,7,g,3.5,g,0,g,1,g,1,g
+450,round table pizza,chicken and garlic gourmet pan crust pizza large 14,13,g,40,mg,810,g,39,g,16,g,6,g,0,g,2,g,2,g
+451,round table pizza,cheese original crust pizza medium 12,10,g,35,mg,540,g,27,g,12,g,5,g,0,g,1,g,2,g
+452,round table pizza,guineveres garden delight original crust pizza medium 12,9,g,25,mg,540,g,28,g,10,g,4,g,0,g,2,g,3,g
+453,round table pizza,pepperoni skinny crust pizza small 9 5,10,g,30,mg,520,g,16,g,9,g,5,g,0,g,1,g,1,g
+454,round table pizza,chicken and garlic gourmet original crust pizza medium 12,12,g,40,mg,670,g,27,g,13,g,5,g,0,g,1,g,2,g
+455,round table pizza,italiano pepperoni pizza medium 12,14,g,35,mg,950,g,46,g,15,g,6,g,0,g,2,g,3,g
+456,round table pizza,ulti meat premium all meat original crust pizza large 14,16,g,40,mg,770,g,25,g,14,g,7,g,0,g,2,g,2,g
+457,round table pizza,cheese skinny crust pizza personal 6 5,7,g,20,mg,290,g,11,g,7,g,3.5,g,0,g,1,g,1,g
+458,round table pizza,triple play pepperoni original crust pizza large 14,12,g,35,mg,680,g,24,g,12,g,6,g,0,g,1,g,2,g
+459,round table pizza,bbq chicken original crust pizza personal 6 5,8,g,15,mg,490,g,20,g,9,g,3.5,g,0,g,1,g,5,g
+460,round table pizza,gourmet veggie skinny crust pizza medium 12,11,g,25,mg,560,g,21,g,10,g,5,g,0,g,2,g,2,g
+461,round table pizza,italian garlic supreme original crust pizza large 14,14,g,35,mg,640,g,25,g,12,g,6,g,0,g,1,g,2,g
+462,round table pizza,montagues all meat marvel original crust pizza medium 12,17,g,50,mg,820,g,27,g,15,g,7,g,0,g,2,g,2,g
+463,round table pizza,pepperoni artisan flatbread,8,g,20,mg,390,g,14,g,7,g,2.5,g,0,g,1,g,1,g
+464,round table pizza,pepperoni original crust pizza large 14,11,g,30,mg,630,g,24,g,11,g,5,g,0,g,1,g,2,g
+465,round table pizza,pepperoni pan crust pizza large 14,13,g,35,mg,790,g,38,g,14,g,6,g,0,g,2,g,2,g
+466,round table pizza,king arthur supreme original crust pizza extra large 16,13,g,35,mg,640,g,25,g,12,g,6,g,0,g,2,g,2,g
+467,round table pizza,maui zaui oringinal crust pizza with polynesian sauce large 14,10,g,30,mg,710,g,29,g,12,g,5,g,0,g,2,g,6,g
+468,round table pizza,king arthur supreme original crust pizza personal 6 5,9,g,25,mg,430,g,17,g,8,g,4,g,0,g,1,g,1,g
+469,round table pizza,montagues all meat marvel original crust pizza extra large 16,15,g,40,mg,720,g,24,g,14,g,7,g,0,g,2,g,2,g
+470,round table pizza,tomato pesto flatbread,6,g,10,mg,280,g,13,g,5,g,2.5,g,0,g,1,g,1,g
+471,round table pizza,bbq chicken pan crust pizza large 14,14,g,25,mg,910,g,44,g,16,g,6,g,0,g,2,g,8,g
+472,round table pizza,king arthurs supreme skinny crust pizza large 14,13,g,35,mg,570,g,19,g,11,g,6,g,0,g,1,g,2,g
+473,round table pizza,king arthur supreme original crust pizza small 9 5,12,g,30,mg,590,g,24,g,11,g,5,g,0,g,2,g,2,g
+474,round table pizza,wombo combo original crust pizza medium 12,14,g,40,mg,840,g,29,g,14,g,7,g,0,g,2,g,3,g
+475,round table pizza,guineveres garden delight skinny crust pizza personal 6 5,5,g,15,mg,270,g,12,g,6,g,2.5,g,0,g,1,g,1,g
+476,round table pizza,maui zaui pan crust pizza with zesty red sauce medium 12,11,g,35,mg,720,g,29,g,13,g,5,g,0,g,2,g,4,g
+477,round table pizza,guineveres garden delight original crust pizza large 14,8,g,25,mg,500,g,26,g,9,g,4,g,0,g,2,g,2,g
+478,round table pizza,maui zaui original crust pizza with polynesian sauce personal 6 5,7,g,20,mg,470,g,19,g,8,g,3.5,g,0,g,1,g,4,g
+479,round table pizza,guineveres garden delight original crust pizza small 9 5,8,g,20,mg,450,g,24,g,9,g,3.5,g,0,g,2,g,2,g
+480,round table pizza,chicken and garlic gourmet skinny crust pizza small 9 5,10,g,30,mg,480,g,17,g,10,g,4.5,g,0,g,1,g,1,g
+481,round table pizza,gourmet veggie original crust pizza large 14,10,g,25,mg,620,g,27,g,10,g,4.5,g,0,g,2,g,2,g
+482,round table pizza,cheese original crust pizza large 14,9,g,30,mg,500,g,25,g,11,g,5,g,0,g,1,g,2,g
+483,round table pizza,cheese original crust pizza extra large 16,9,g,30,mg,490,g,24,g,10,g,5,g,0,g,1,g,2,g
+484,round table pizza,italian garlic supreme original crust pizza medium 12,15,g,40,mg,700,g,27,g,13,g,6,g,0,g,1,g,2,g
+485,round table pizza,cheese skinny crust pizza large 14,9,g,30,mg,420,g,18,g,10,g,5,g,0,g,1,g,1,g
+486,round table pizza,pepperoni original crust pizza medium 12,12,g,35,mg,700,g,27,g,12,g,6,g,0,g,2,g,2,g
+487,round table pizza,bbq chicken original crust pizza extra large 16,12,g,20,mg,710,g,29,g,13,g,5,g,0,g,1,g,8,g
+488,round table pizza,ulti meat premium all meat pan crust pizza extra large 16,18,g,45,mg,950,g,39,g,17,g,8,g,0,g,2,g,3,g
+489,round table pizza,maui zaui original crust pizza with polynesian sauce small 9 5,9,g,25,mg,640,g,26,g,11,g,4.5,g,0,g,1,g,5,g
+490,round table pizza,italiano cheese pizza medium 12,12,g,35,mg,830,g,46,g,15,g,6,g,0,g,2,g,3,g
+491,round table pizza,maui zaui pan crust pizza with polynesian sauce extra large 16,12,g,35,mg,900,g,43,g,15,g,6,g,0,g,2,g,6,g
+492,round table pizza,wombo combo original crust pizza small 9 5,12,g,30,mg,660,g,24,g,12,g,5,g,0,g,2,g,2,g
+493,round table pizza,gourmet veggie pan crust pizza extra large 16,12,g,30,mg,810,g,40,g,14,g,6,g,0,g,3,g,3,g
+494,round table pizza,west coast combo original crust pizza large 14,13,g,35,mg,630,g,23,g,12,g,6,g,0,g,1,g,2,g
+495,round table pizza,italian garlic supreme pan crust pizza personal 6 5,11,g,25,mg,590,g,28,g,10,g,4.5,g,0,g,1,g,2,g
+496,round table pizza,maui zaui skinny crust pizza with zesty sauce small 9 5,9,g,25,mg,520,g,18,g,10,g,4.5,g,0,g,1,g,3,g
+497,round table pizza,gourmet veggie skinny crust pizza personal 6 5,6,g,15,mg,350,g,13,g,6,g,3,g,0,g,1,g,1,g
+498,round table pizza,chicken and garlic gourmet pan crust pizza small 9 5,12,g,35,mg,750,g,37,g,14,g,5,g,0,g,2,g,2,g
+499,round table pizza,cheese pan crust pizza small 9 5,10,g,35,mg,640,g,36,g,13,g,5,g,0,g,2,g,2,g
+500,round table pizza,king arthurs supreme pan crust pizza large 14,14,g,40,mg,790,g,39,g,15,g,6,g,0,g,2,g,2,g
+501,round table pizza,wombo combo skinny crust pizza large 14,13,g,35,mg,710,g,20,g,12,g,6,g,0,g,2,g,2,g
+502,round table pizza,chicken maui zaui original crust pizza with polynesian sauce personal 6 5,7,g,25,mg,470,g,19,g,9,g,4,g,0,g,0.5,g,4,g
+503,round table pizza,montagues all meat marvel skinny crust pizza large 14,15,g,40,mg,650,g,18,g,13,g,7,g,0,g,1,g,2,g
+504,round table pizza,pepperoni original crust pizza small 9 5,11,g,30,mg,590,g,22,g,10,g,5,g,0,g,1,g,2,g
+505,round table pizza,king arthur supreme skinny crust pizza medium 12,14,g,40,mg,640,g,21,g,13,g,6,g,0,g,2,g,2,g
+506,round table pizza,hawaiian pan crust pizza extra large 16,10,g,35,mg,760,g,40,g,14,g,5,g,0,g,2,g,4,g
+507,round table pizza,pepperoni skinny crust pizza personal 6 5,8,g,25,mg,380,g,11,g,7,g,3.5,g,0,g,1,g,1,g
+508,round table pizza,chicken and garlic gourmet pan crust pizza extra large 16,13,g,40,mg,810,g,39,g,16,g,6,g,0,g,2,g,2,g
+509,round table pizza,chicken and garlic gourmet skinny crust pizza personal 6 5,7,g,25,mg,350,g,12,g,8,g,3,g,0,g,1,g,1,g
+510,round table pizza,guineveres garden delight skinny crust pizza large 14,8,g,25,mg,420,g,19,g,8,g,4,g,0,g,1,g,2,g
+511,round table pizza,hawaiian skinny crust pizza large 14,8,g,30,mg,510,g,20,g,10,g,4,g,0,g,1,g,4,g
+512,round table pizza,bbq chicken skinny crust pizza medium 12,11,g,25,mg,680,g,25,g,13,g,6,g,0,g,1,g,8,g
+513,round table pizza,roasted veggies and chicken flatbread,7,g,15,mg,360,g,14,g,7,g,2,g,0,g,1,g,1,g
+514,round table pizza,triple play pepperoni pan crust pizza personal 6 5,8,g,20,mg,530,g,26,g,9,g,3.5,g,0,g,1,g,1,g
+515,round table pizza,smokehouse combo original crust pizza personal 6 5,9,g,25,mg,480,g,17,g,8,g,4,g,0,g,1,g,2,g
+516,round table pizza,italian garlic supreme skinny crust pizza large 14,14,g,35,mg,570,g,18,g,11,g,6,g,0,g,1,g,1,g
+517,round table pizza,bbq chicken original crust pizza small 9 5,11,g,20,mg,650,g,27,g,12,g,4.5,g,0,g,1,g,7,g
+518,round table pizza,maui zaui pan crust pizza with polynesian sauce large 14,12,g,35,mg,900,g,43,g,15,g,6,g,0,g,2,g,6,g
+519,round table pizza,chicken and garlic gourmet original crust pizza personal 6 5,7,g,25,mg,400,g,17,g,8,g,3,g,0,g,1,g,1,g
+520,round table pizza,guineveres garden delight original crust pizza personal 6 5,6,g,15,mg,320,g,17,g,6,g,2.5,g,0,g,1,g,2,g
+521,round table pizza,pepperoni pan crust pizza personal 6 5,8,g,20,mg,520,g,27,g,9,g,3.5,g,0,g,1,g,1,g
+522,round table pizza,maui zaui pepperoni pan crust pizza with polynesian sauce personal,10,g,25,mg,660,g,29,g,11,g,4.5,g,0,g,1,g,4,g
+523,round table pizza,chicken and garlic gourmet pan crust pizza personal 6 5,8,g,25,mg,530,g,28,g,10,g,3.5,g,0,g,1,g,2,g
+524,round table pizza,guineveres garden delight pan crust pizza personal 6 5,6,g,15,mg,450,g,28,g,8,g,2.5,g,0,g,1,g,2,g
+525,round table pizza,king arthur supreme skinny crust pizza personal 6 5,9,g,25,mg,380,g,12,g,8,g,4,g,0,g,1,g,1,g
+526,round table pizza,pepperoni pan crust pizza small 9 5,12,g,35,mg,740,g,36,g,13,g,6,g,0,g,2,g,2,g
+527,round table pizza,chicken and garlic gourmet original crust pizza large 14,11,g,35,mg,620,g,25,g,12,g,5,g,0,g,1,g,2,g
+528,round table pizza,cheese skinny crust pizza small 9 5,8,g,25,mg,380,g,16,g,9,g,4.5,g,0,g,1,g,1,g
+529,round table pizza,italian garlic supreme skinny crust pizza personal 6 5,10,g,25,mg,410,g,12,g,8,g,4,g,0,g,1,g,1,g
+530,round table pizza,maui zaui skinny crust pizza with polynesian sauce small 9 5,9,g,25,mg,570,g,20,g,10,g,4.5,g,0,g,1,g,5,g
+531,round table pizza,big vinnie cheese pizza medium 12,17,g,55,mg,1070,g,54,g,20,g,9,g,0,g,3,g,3,g
+532,round table pizza,king arthur supreme pan crust pizza medium 12,15,g,40,mg,850,g,42,g,16,g,7,g,0,g,2,g,3,g
+533,round table pizza,triple play pepperoni skinny crust pizza personal 6 5,7,g,20,mg,350,g,11,g,7,g,3.5,g,0,g,0.5,g,1,g
+534,round table pizza,italian garlic supreme original crust pizza extra large 16,14,g,35,mg,620,g,24,g,11,g,6,g,0,g,1,g,2,g
+535,round table pizza,west coast combo pan crust pizza medium 12,16,g,45,mg,880,g,39,g,17,g,7,g,0,g,1,g,2,g
+536,round table pizza,chicken maui zaui pan crust pizza with polynesian sauce small 9 5,12,g,35,mg,820,g,38,g,16,g,7,g,0,g,1,g,6,g
+537,round table pizza,maui zaui pepperoni original crust pizza with polynesian sauce medium 12,14,g,35,mg,800,g,30,g,13,g,5,g,0,g,1,g,6,g
+538,round table pizza,caesar salad,3,g,5,mg,170,g,5,g,3,g,1,g,0,g,1,g,1,g
+539,round table pizza,garden salad,1,g,0,mg,95,g,7,g,1,g,0,g,0,g,1,g,2,g
+540,round table pizza,chicken club sandwich,43,g,135,mg,2300,g,59,g,43,g,14,g,0,g,3,g,4,g
+541,round table pizza,turkey pesto sandwich,37,g,90,mg,1600,g,56,g,40,g,14,g,0,g,3,g,2,g
+542,round table pizza,turkey club sandwich,38,g,95,mg,2090,g,59,g,40,g,14,g,0,g,3,g,4,g
+543,round table pizza,turkey sante fe sandwich,40,g,90,mg,1660,g,57,g,36,g,14,g,0,g,3,g,2,g
+544,round table pizza,rt veggie sandwich,32,g,50,mg,1740,g,65,g,23,g,11,g,0,g,5,g,5,g
+545,round table pizza,ham club sandwich,40,g,100,mg,2440,g,60,g,37,g,14,g,0,g,3,g,5,g
+546,round table pizza,bacon and cheddar fries,73,g,120,mg,2170,g,81,g,40,g,27,g,1.5,g,10,g,1,g
+547,round table pizza,bacon and cheddar twists,8,g,15,mg,550,g,25,g,9,g,3.5,g,0,g,1,g,1,g
+548,round table pizza,breadsticks,2.5,g,0,mg,170,g,12,g,2,g,1,g,0,g,0,g,0,g
+549,round table pizza,buffet breadsticks,2.5,g,0,mg,160,g,12,g,2,g,1,g,0,g,0,g,0,g
+550,round table pizza,buffet chow mein noodles,2.5,g,0,mg,85,g,10,g,2,g,0,g,0,g,1,g,1,g
+551,round table pizza,buffet cinnamon twists,1.5,g,0,mg,150,g,17,g,2,g,0,g,0,g,0,g,5,g
+552,round table pizza,buffet croutons,1.5,g,0,mg,65,g,4,g,1,g,0,g,0,g,0,g,0,g
+553,round table pizza,buffet garlic parmesan twists,2.5,g,5,mg,230,g,12,g,3,g,1,g,0,g,0,g,1,g
+554,round table pizza,buffet island flatbread,6,g,15,mg,380,g,15,g,7,g,2.5,g,0,g,1,g,2,g
+555,round table pizza,buffet pepperoni artisan flatbread,8,g,20,mg,390,g,14,g,7,g,2.5,g,0,g,1,g,1,g
+556,round table pizza,buffet raisins,0,g,0,mg,5,g,29,g,1,g,0,g,0,g,1,g,21,g
+557,round table pizza,buffet saltine crackers,1.5,g,0,mg,270,g,13,g,2,g,0,g,0,g,1,g,0,g
+558,round table pizza,buffet sunflower seeds,15,g,0,mg,140,g,6,g,7,g,1.5,g,0,g,3,g,1,g
+559,round table pizza,buffet tomato pesto flatbread,6,g,10,mg,280,g,13,g,5,g,2.5,g,0,g,1,g,1,g
+560,round table pizza,caesar salad family entree,60,g,95,mg,1450,g,30,g,15,g,12,g,0.5,g,6,g,6,g
+561,round table pizza,caesar salad individual,30,g,45,mg,720,g,15,g,8,g,6,g,0.5,g,3,g,3,g
+562,round table pizza,caesar salad party pack,179,g,280,mg,4340,g,89,g,45,g,35,g,15,g,18,g,17,g
+563,round table pizza,cheese classic sandwich,43,g,110,mg,1140,g,57,g,39,g,20,g,0,g,3,g,2,g
+564,round table pizza,chefs salad,67,g,215,mg,2230,g,34,g,33,g,16,g,1,g,5,g,8,g
+565,round table pizza,chicken and artichoke sandwich,24,g,75,mg,1980,g,57,g,46,g,11,g,0.5,g,4,g,2,g
+566,round table pizza,chicken and bacon alfredo,36,g,80,mg,1360,g,48,g,36,g,15,g,0.5,g,3,g,6,g
+567,round table pizza,chicken caesar salad,61,g,115,mg,2130,g,30,g,36,g,12,g,0.5,g,6,g,6,g
+568,round table pizza,chicken club,27,g,85,mg,1860,g,58,g,46,g,11,g,0.5,g,3,g,3,g
+569,round table pizza,chicken pesto on gourmet bun,39,g,90,mg,2180,g,80,g,35,g,11,g,0.5,g,4,g,5,g
+570,round table pizza,chocolate gelato,9,g,70,mg,40,g,29,g,5,g,4.5,g,0,g,0,g,25,g
+571,round table pizza,chocolate milk,45,g,0,mg,25,g,230,g,29,g,5,g,3.5,g,32,g,1,g
+572,round table pizza,cinnamon twists,3.5,g,0,mg,290,g,34,g,4,g,1,g,0,g,1,g,11,g
+573,round table pizza,classic brownie,14,g,10,mg,120,g,44,g,4,g,2,g,0,g,2,g,30,g
+574,round table pizza,cobb salad,63,g,205,mg,2550,g,34,g,46,g,14,g,0.5,g,7,g,8,g
+575,round table pizza,creamy pesto penne individual,60,g,160,mg,2470,g,53,g,53,g,19,g,0,g,3,g,4,g
+576,round table pizza,creamy pesto penne large family serves 6,40,g,105,mg,1650,g,35,g,35,g,13,g,0,g,2,g,3,g
+577,round table pizza,creamy pesto penne small family serves 3,40,g,105,mg,1650,g,35,g,35,g,13,g,0,g,2,g,3,g
+578,round table pizza,creamy pesto twists,5,g,10,mg,390,g,25,g,6,g,1.5,g,0,g,1,g,1,g
+579,round table pizza,cyo gluten free pizza anchovies,0.5,g,0,mg,140,g,0,g,1,g,0,g,0,g,0,g,0,g
+580,round table pizza,cyo gluten free pizza artichoke hearts,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+581,round table pizza,cyo gluten free pizza bacon armour,2,g,5,mg,90,g,0,g,2,g,1,g,0,g,0,g,0,g
+582,round table pizza,cyo gluten free pizza bbq,0,g,0,mg,120,g,5,g,0,g,0,g,0,g,0,g,4,g
+583,round table pizza,cyo gluten free pizza black olives,1,g,0,mg,70,g,1,g,0,g,0,g,0,g,0,g,0,g
+584,round table pizza,cyo gluten free pizza chicken,0,g,0,mg,60,g,0,g,2,g,0,g,0,g,0,g,0,g
+585,round table pizza,cyo gluten free pizza creamy garlic sauce,1,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+586,round table pizza,cyo gluten free pizza fresh mozzarella,1.5,g,5,mg,30,g,0,g,1,g,1,g,0,g,0,g,0,g
+587,round table pizza,cyo gluten free pizza ham,0,g,5,mg,80,g,0,g,1,g,0,g,0,g,0,g,0,g
+588,round table pizza,cyo gluten free pizza italian sausage clean label,2,g,5,mg,60,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+589,round table pizza,cyo gluten free pizza linguica burke,1,g,5,mg,70,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+590,round table pizza,cyo gluten free pizza mini pepperoni,2.5,g,5,mg,110,g,0,g,1,g,1,g,0,g,0,g,0,g
+591,round table pizza,cyo gluten free pizza pepperoni,2.5,g,5,mg,90,g,0,g,1,g,1,g,0,g,0,g,0,g
+592,round table pizza,cyo gluten free pizza pesto,2.5,g,0,mg,60,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+593,round table pizza,cyo gluten free pizza pineapple,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+594,round table pizza,cyo gluten free pizza pizza crust,8,g,20,mg,420,g,31,g,8,g,4,g,0,g,2,g,4,g
+595,round table pizza,cyo gluten free pizza polynesian,0,g,0,mg,60,g,4,g,0,g,0,g,0,g,0,g,2,g
+596,round table pizza,cyo gluten free pizza primo pepperoni,1.5,g,5,mg,90,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+597,round table pizza,cyo gluten free pizza roasted garlic,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+598,round table pizza,cyo gluten free pizza salami,2,g,5,mg,90,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+599,round table pizza,cyo gluten free pizza shredded parmesan,0.5,g,0,mg,30,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+600,round table pizza,cyo gluten free pizza shrimp,0,g,15,mg,50,g,0,g,1,g,0,g,0,g,0,g,0,g
+601,round table pizza,cyo gluten free pizza three cheese blend,2,g,5,mg,40,g,0,g,2,g,1,g,0,g,0,g,0,g
+602,round table pizza,cyo gluten free pizza zesty red sauce,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+603,round table pizza,cyo original crust pizza anchovies large,0.5,g,0,mg,190,g,0,g,1,g,0,g,0,g,0,g,0,g
+604,round table pizza,cyo original crust pizza anchovies medium,0.5,g,0,mg,210,g,0,g,1,g,0,g,0,g,0,g,0,g
+605,round table pizza,cyo original crust pizza anchovies personal,0.5,g,0,mg,140,g,0,g,1,g,0,g,0,g,0,g,0,g
+606,round table pizza,cyo original crust pizza anchovies small,0.5,g,0,mg,140,g,0,g,1,g,0,g,0,g,0,g,0,g
+607,round table pizza,cyo original crust pizza anchovies x large,0.5,g,0,mg,180,g,0,g,1,g,0,g,0,g,0,g,0,g
+608,round table pizza,cyo original crust pizza artichoke hearts large,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+609,round table pizza,cyo original crust pizza artichoke hearts medium,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+610,round table pizza,cyo original crust pizza artichoke hearts personal,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+611,round table pizza,cyo original crust pizza artichoke hearts small,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+612,round table pizza,cyo original crust pizza artichoke hearts x large,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+613,round table pizza,cyo original crust pizza bacon armour large,3,g,5,mg,140,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+614,round table pizza,cyo original crust pizza bacon armour medium,3.5,g,10,mg,150,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+615,round table pizza,cyo original crust pizza bacon armour personal,2,g,5,mg,90,g,0,g,2,g,1,g,0,g,0,g,0,g
+616,round table pizza,cyo original crust pizza bacon armour small,2,g,5,mg,90,g,0,g,2,g,1,g,0,g,0,g,0,g
+617,round table pizza,cyo original crust pizza bacon armour x large,3,g,5,mg,140,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+618,round table pizza,cyo original crust pizza bbq large,0,g,0,mg,80,g,4,g,0,g,0,g,0,g,0,g,3,g
+619,round table pizza,cyo original crust pizza bbq medium,0,g,0,mg,90,g,4,g,0,g,0,g,0,g,0,g,3,g
+620,round table pizza,cyo original crust pizza bbq personal,0,g,0,mg,120,g,5,g,0,g,0,g,0,g,0,g,4,g
+621,round table pizza,cyo original crust pizza bbq small,0,g,0,mg,120,g,5,g,0,g,0,g,0,g,0,g,4,g
+622,round table pizza,cyo original crust pizza bbq x large,0,g,0,mg,80,g,3,g,0,g,0,g,0,g,0,g,3,g
+623,round table pizza,cyo original crust pizza black olives large,1,g,0,mg,100,g,1,g,0,g,0,g,0,g,0,g,0,g
+624,round table pizza,cyo original crust pizza black olives medium,1.5,g,0,mg,110,g,1,g,0,g,0,g,0,g,0,g,0,g
+625,round table pizza,cyo original crust pizza black olives personal,1,g,0,mg,70,g,1,g,0,g,0,g,0,g,0,g,0,g
+626,round table pizza,cyo original crust pizza black olives small,1,g,0,mg,70,g,1,g,0,g,0,g,0,g,0,g,0,g
+627,round table pizza,cyo original crust pizza black olives x large,1,g,0,mg,100,g,1,g,0,g,0,g,0,g,0,g,0,g
+628,round table pizza,cyo original crust pizza chicken large,0,g,0,mg,90,g,0,g,3,g,0,g,0,g,0,g,0,g
+629,round table pizza,cyo original crust pizza chicken medium,0,g,0,mg,90,g,0,g,3,g,0,g,0,g,0,g,0,g
+630,round table pizza,cyo original crust pizza chicken personal,0,g,0,mg,60,g,0,g,2,g,0,g,0,g,0,g,0,g
+631,round table pizza,cyo original crust pizza chicken small,0,g,0,mg,60,g,0,g,2,g,0,g,0,g,0,g,0,g
+632,round table pizza,cyo original crust pizza chicken x large,0,g,0,mg,90,g,0,g,3,g,0,g,0,g,0,g,0,g
+633,round table pizza,cyo original crust pizza creamy garlic sauce large,2,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+634,round table pizza,cyo original crust pizza creamy garlic sauce medium,2,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+635,round table pizza,cyo original crust pizza creamy garlic sauce personal,1,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+636,round table pizza,cyo original crust pizza creamy garlic sauce small,1,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+637,round table pizza,cyo original crust pizza creamy garlic sauce x large,2,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+638,round table pizza,cyo original crust pizza fresh mozzarella large,2,g,5,mg,40,g,0,g,2,g,1,g,0,g,0,g,0,g
+639,round table pizza,cyo original crust pizza fresh mozzarella medium,2,g,10,mg,40,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+640,round table pizza,cyo original crust pizza fresh mozzarella personal,1.5,g,5,mg,30,g,0,g,1,g,1,g,0,g,0,g,0,g
+641,round table pizza,cyo original crust pizza fresh mozzarella small,1.5,g,5,mg,30,g,0,g,1,g,1,g,0,g,0,g,0,g
+642,round table pizza,cyo original crust pizza fresh mozzarella x large,1.5,g,15,mg,30,g,0,g,2,g,1,g,0,g,0,g,0,g
+643,round table pizza,cyo original crust pizza ham large,0,g,5,mg,120,g,0,g,1,g,0,g,0,g,0,g,0,g
+644,round table pizza,cyo original crust pizza ham medium,0,g,5,mg,130,g,0,g,1,g,0,g,0,g,0,g,0,g
+645,round table pizza,cyo original crust pizza ham personal,0,g,5,mg,80,g,0,g,1,g,0,g,0,g,0,g,0,g
+646,round table pizza,cyo original crust pizza ham small,0,g,5,mg,80,g,0,g,1,g,0,g,0,g,0,g,0,g
+647,round table pizza,cyo original crust pizza ham x large,0,g,5,mg,120,g,0,g,1,g,0,g,0,g,0,g,0,g
+648,round table pizza,cyo original crust pizza italian sausage clean label large,2.5,g,5,mg,80,g,0,g,1,g,1,g,0,g,0,g,0,g
+649,round table pizza,cyo original crust pizza italian sausage clean label medium,2.5,g,10,mg,90,g,0,g,2,g,1,g,0,g,0,g,0,g
+650,round table pizza,cyo original crust pizza italian sausage clean label personal,2,g,5,mg,60,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+651,round table pizza,cyo original crust pizza italian sausage clean label small,2,g,5,mg,60,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+652,round table pizza,cyo original crust pizza italian sausage clean label x large,2,g,5,mg,70,g,0,g,1,g,1,g,0,g,0,g,0,g
+653,round table pizza,cyo original crust pizza linguica burke large,2.5,g,5,mg,110,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+654,round table pizza,cyo original crust pizza linguica burke medium,2.5,g,5,mg,120,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+655,round table pizza,cyo original crust pizza linguica burke personal,1,g,5,mg,70,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+656,round table pizza,cyo original crust pizza linguica burke small,1,g,5,mg,70,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+657,round table pizza,cyo original crust pizza linguica burke x large,2,g,5,mg,100,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+658,round table pizza,cyo original crust pizza mini pepperoni large,3.5,g,10,mg,170,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+659,round table pizza,cyo original crust pizza mini pepperoni medium,4,g,10,mg,180,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+660,round table pizza,cyo original crust pizza mini pepperoni personal,2.5,g,5,mg,110,g,0,g,1,g,1,g,0,g,0,g,0,g
+661,round table pizza,cyo original crust pizza mini pepperoni small,2.5,g,5,mg,110,g,0,g,1,g,1,g,0,g,0,g,0,g
+662,round table pizza,cyo original crust pizza mini pepperoni x large,3.5,g,10,mg,160,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+663,round table pizza,cyo original crust pizza pepperoni large,4,g,10,mg,150,g,0,g,1,g,1.5,g,0,g,0,g,0,g
+664,round table pizza,cyo original crust pizza pepperoni medium,4,g,10,mg,160,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+665,round table pizza,cyo original crust pizza pepperoni personal,2.5,g,5,mg,90,g,0,g,1,g,1,g,0,g,0,g,0,g
+666,round table pizza,cyo original crust pizza pepperoni small,2.5,g,5,mg,90,g,0,g,1,g,1,g,0,g,0,g,0,g
+667,round table pizza,cyo original crust pizza pepperoni x large,3.5,g,10,mg,140,g,0,g,1,g,1.5,g,0,g,0,g,0,g
+668,round table pizza,cyo original crust pizza pesto large,4,g,5,mg,100,g,0,g,1,g,1,g,0,g,0,g,0,g
+669,round table pizza,cyo original crust pizza pesto medium,4,g,5,mg,110,g,0,g,1,g,1,g,0,g,0,g,0,g
+670,round table pizza,cyo original crust pizza pesto personal,2.5,g,0,mg,60,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+671,round table pizza,cyo original crust pizza pesto small,2.5,g,0,mg,60,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+672,round table pizza,cyo original crust pizza pesto x large,4,g,5,mg,100,g,0,g,1,g,1,g,0,g,0,g,0,g
+673,round table pizza,cyo original crust pizza pineapple large,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+674,round table pizza,cyo original crust pizza pineapple medium,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,3,g
+675,round table pizza,cyo original crust pizza pineapple personal,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+676,round table pizza,cyo original crust pizza pineapple small,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+677,round table pizza,cyo original crust pizza pineapple x large,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+678,round table pizza,cyo original crust pizza pizza crust large,8,g,25,mg,450,g,24,g,10,g,4.5,g,0,g,2,g,2,g
+679,round table pizza,cyo original crust pizza pizza crust medium,8,g,25,mg,490,g,26,g,11,g,5,g,0,g,2,g,2,g
+680,round table pizza,cyo original crust pizza pizza crust personal,5,g,15,mg,300,g,16,g,7,g,3,g,0,g,1,g,1,g
+681,round table pizza,cyo original crust pizza pizza crust small,4,g,15,mg,260,g,14,g,6,g,2.5,g,0,g,1,g,1,g
+682,round table pizza,cyo original crust pizza pizza crust x large,7,g,25,mg,440,g,23,g,10,g,4.5,g,0,g,2,g,2,g
+683,round table pizza,cyo original crust pizza polynesian large,0,g,0,mg,70,g,3,g,0,g,0,g,0,g,0,g,2,g
+684,round table pizza,cyo original crust pizza polynesian medium,0,g,0,mg,80,g,3,g,0,g,0,g,0,g,0,g,3,g
+685,round table pizza,cyo original crust pizza polynesian personal,0,g,0,mg,60,g,2,g,0,g,0,g,0,g,0,g,2,g
+686,round table pizza,cyo original crust pizza polynesian small,0,g,0,mg,60,g,2,g,0,g,0,g,0,g,0,g,2,g
+687,round table pizza,cyo original crust pizza polynesian x large,0,g,0,mg,70,g,3,g,0,g,0,g,0,g,0,g,2,g
+688,round table pizza,cyo original crust pizza primo pepperoni large,2.5,g,10,mg,150,g,0,g,2,g,1,g,0,g,0,g,0,g
+689,round table pizza,cyo original crust pizza primo pepperoni medium,3,g,10,mg,160,g,0,g,2,g,1,g,0,g,0,g,0,g
+690,round table pizza,cyo original crust pizza primo pepperoni personal,1.5,g,5,mg,90,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+691,round table pizza,cyo original crust pizza primo pepperoni small,1.5,g,5,mg,90,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+692,round table pizza,cyo original crust pizza primo pepperoni x large,2.5,g,10,mg,140,g,0,g,2,g,1,g,0,g,0,g,0,g
+693,round table pizza,cyo original crust pizza roasted garlic large,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,0,g,0,g
+694,round table pizza,cyo original crust pizza roasted garlic medium,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,0,g,0,g
+695,round table pizza,cyo original crust pizza roasted garlic personal,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+696,round table pizza,cyo original crust pizza roasted garlic small,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+697,round table pizza,cyo original crust pizza roasted garlic x large,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,0,g,0,g
+698,round table pizza,cyo original crust pizza salami large,3,g,10,mg,140,g,0,g,2,g,1,g,0,g,0,g,0,g
+699,round table pizza,cyo original crust pizza salami medium,3,g,10,mg,150,g,0,g,2,g,1,g,0,g,0,g,0,g
+700,round table pizza,cyo original crust pizza salami personal,2,g,5,mg,90,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+701,round table pizza,cyo original crust pizza salami small,2,g,5,mg,90,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+702,round table pizza,cyo original crust pizza salami x large,3,g,5,mg,140,g,0,g,2,g,1,g,0,g,0,g,0,g
+703,round table pizza,cyo original crust pizza shredded parmesan large,0.5,g,0,mg,30,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+704,round table pizza,cyo original crust pizza shredded parmesan medium,0.5,g,0,mg,30,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+705,round table pizza,cyo original crust pizza shredded parmesan personal,0.5,g,0,mg,30,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+706,round table pizza,cyo original crust pizza shredded parmesan small,0.5,g,0,mg,30,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+707,round table pizza,cyo original crust pizza shredded parmesan x large,0.5,g,0,mg,30,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+708,round table pizza,cyo original crust pizza shrimp large,0,g,20,mg,70,g,0,g,2,g,0,g,0,g,0,g,0,g
+709,round table pizza,cyo original crust pizza shrimp medium,0,g,20,mg,80,g,0,g,2,g,0,g,0,g,0,g,0,g
+710,round table pizza,cyo original crust pizza shrimp personal,0,g,15,mg,50,g,0,g,1,g,0,g,0,g,0,g,0,g
+711,round table pizza,cyo original crust pizza shrimp small,0,g,15,mg,50,g,0,g,1,g,0,g,0,g,0,g,0,g
+712,round table pizza,cyo original crust pizza shrimp x large,0,g,20,mg,70,g,0,g,2,g,0,g,0,g,0,g,0,g
+713,round table pizza,cyo original crust pizza three cheese blend large,2,g,5,mg,50,g,0,g,2,g,1,g,0,g,0,g,0,g
+714,round table pizza,cyo original crust pizza three cheese blend medium,2,g,5,mg,50,g,0,g,2,g,1,g,0,g,0,g,0,g
+715,round table pizza,cyo original crust pizza three cheese blend personal,2,g,5,mg,40,g,0,g,2,g,1,g,0,g,0,g,0,g
+716,round table pizza,cyo original crust pizza three cheese blend small,2,g,5,mg,40,g,0,g,2,g,1,g,0,g,0,g,0,g
+717,round table pizza,cyo original crust pizza three cheese blend x large,2,g,5,mg,50,g,0,g,2,g,1,g,0,g,0,g,0,g
+718,round table pizza,cyo original crust pizza zesty red sauce large,0,g,0,mg,20,g,1,g,0,g,0,g,0,g,0,g,1,g
+719,round table pizza,cyo original crust pizza zesty red sauce medium,0,g,0,mg,20,g,1,g,0,g,0,g,0,g,0,g,1,g
+720,round table pizza,cyo original crust pizza zesty red sauce personal,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+721,round table pizza,cyo original crust pizza zesty red sauce small,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+722,round table pizza,cyo original crust pizza zesty red sauce x large,0,g,0,mg,20,g,1,g,0,g,0,g,0,g,0,g,1,g
+723,round table pizza,cyo pan crust pizza anchovies large,0.5,g,0,mg,190,g,0,g,1,g,0,g,0,g,0,g,0,g
+724,round table pizza,cyo pan crust pizza anchovies medium,0.5,g,0,mg,210,g,0,g,1,g,0,g,0,g,0,g,0,g
+725,round table pizza,cyo pan crust pizza anchovies personal,0.5,g,0,mg,140,g,0,g,1,g,0,g,0,g,0,g,0,g
+726,round table pizza,cyo pan crust pizza anchovies small,0.5,g,0,mg,190,g,0,g,1,g,0,g,0,g,0,g,0,g
+727,round table pizza,cyo pan crust pizza anchovies x large,0.5,g,0,mg,180,g,0,g,1,g,0,g,0,g,0,g,0,g
+728,round table pizza,cyo pan crust pizza artichoke hearts large,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+729,round table pizza,cyo pan crust pizza artichoke hearts medium,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+730,round table pizza,cyo pan crust pizza artichoke hearts personal,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+731,round table pizza,cyo pan crust pizza artichoke hearts small,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+732,round table pizza,cyo pan crust pizza artichoke hearts x large,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+733,round table pizza,cyo pan crust pizza bacon armour large,3,g,5,mg,140,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+734,round table pizza,cyo pan crust pizza bacon armour medium,3.5,g,10,mg,150,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+735,round table pizza,cyo pan crust pizza bacon armour personal,2,g,5,mg,90,g,0,g,2,g,1,g,0,g,0,g,0,g
+736,round table pizza,cyo pan crust pizza bacon armour small,3,g,5,mg,140,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+737,round table pizza,cyo pan crust pizza bacon armour x large,3,g,5,mg,140,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+738,round table pizza,cyo pan crust pizza bbq large,0,g,0,mg,80,g,4,g,0,g,0,g,0,g,0,g,3,g
+739,round table pizza,cyo pan crust pizza bbq medium,0,g,0,mg,90,g,4,g,0,g,0,g,0,g,0,g,3,g
+740,round table pizza,cyo pan crust pizza bbq personal,0,g,0,mg,120,g,5,g,0,g,0,g,0,g,0,g,7,g
+741,round table pizza,cyo pan crust pizza bbq small,0,g,0,mg,80,g,4,g,0,g,0,g,0,g,0,g,3,g
+742,round table pizza,cyo pan crust pizza bbq x large,0,g,0,mg,80,g,3,g,0,g,0,g,0,g,0,g,3,g
+743,round table pizza,cyo pan crust pizza black olives large,1,g,0,mg,100,g,1,g,0,g,0,g,0,g,0,g,0,g
+744,round table pizza,cyo pan crust pizza black olives medium,1.5,g,0,mg,110,g,1,g,0,g,0,g,0,g,0,g,0,g
+745,round table pizza,cyo pan crust pizza black olives personal,1,g,0,mg,70,g,1,g,0,g,0,g,0,g,0,g,0,g
+746,round table pizza,cyo pan crust pizza black olives small,1,g,0,mg,90,g,1,g,0,g,0,g,0,g,0,g,0,g
+747,round table pizza,cyo pan crust pizza black olives x large,1,g,0,mg,100,g,1,g,0,g,0,g,0,g,0,g,0,g
+748,round table pizza,cyo pan crust pizza chicken large,0,g,0,mg,90,g,0,g,3,g,0,g,0,g,0,g,0,g
+749,round table pizza,cyo pan crust pizza chicken medium,0,g,0,mg,90,g,0,g,3,g,0,g,0,g,0,g,0,g
+750,round table pizza,cyo pan crust pizza chicken personal,0,g,0,mg,60,g,0,g,2,g,0,g,0,g,0,g,0,g
+751,round table pizza,cyo pan crust pizza chicken small,0,g,0,mg,80,g,0,g,2,g,0,g,0,g,0,g,0,g
+752,round table pizza,cyo pan crust pizza chicken x large,0,g,0,mg,90,g,0,g,3,g,0,g,0,g,0,g,0,g
+753,round table pizza,cyo pan crust pizza creamy garlic sauce large,2,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+754,round table pizza,cyo pan crust pizza creamy garlic sauce medium,2,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+755,round table pizza,cyo pan crust pizza creamy garlic sauce personal,1,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+756,round table pizza,cyo pan crust pizza creamy garlic sauce small,2,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+757,round table pizza,cyo pan crust pizza creamy garlic sauce x large,2,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+758,round table pizza,cyo pan crust pizza fresh mozzarella large,2,g,5,mg,40,g,0,g,2,g,1,g,0,g,0,g,0,g
+759,round table pizza,cyo pan crust pizza fresh mozzarella medium,2,g,10,mg,40,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+760,round table pizza,cyo pan crust pizza fresh mozzarella personal,1.5,g,5,mg,30,g,0,g,1,g,1,g,0,g,0,g,0,g
+761,round table pizza,cyo pan crust pizza fresh mozzarella small,2,g,5,mg,40,g,0,g,2,g,1,g,0,g,0,g,0,g
+762,round table pizza,cyo pan crust pizza fresh mozzarella x large,1.5,g,15,mg,30,g,0,g,2,g,1,g,0,g,0,g,0,g
+763,round table pizza,cyo pan crust pizza ham large,0,g,5,mg,120,g,0,g,1,g,0,g,0,g,0,g,0,g
+764,round table pizza,cyo pan crust pizza ham medium,0,g,5,mg,130,g,0,g,1,g,0,g,0,g,0,g,0,g
+765,round table pizza,cyo pan crust pizza ham personal,0,g,5,mg,80,g,0,g,1,g,0,g,0,g,0,g,0,g
+766,round table pizza,cyo pan crust pizza ham small,0,g,5,mg,120,g,0,g,2,g,0,g,0,g,0,g,0,g
+767,round table pizza,cyo pan crust pizza ham x large,0,g,5,mg,120,g,0,g,1,g,0,g,0,g,0,g,0,g
+768,round table pizza,cyo pan crust pizza italian sausage clean label large,2.5,g,5,mg,80,g,0,g,1,g,1,g,0,g,0,g,0,g
+769,round table pizza,cyo pan crust pizza italian sausage clean label medium,2.5,g,10,mg,90,g,0,g,2,g,1,g,0,g,0,g,0,g
+770,round table pizza,cyo pan crust pizza italian sausage clean label personal,2,g,5,mg,60,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+771,round table pizza,cyo pan crust pizza italian sausage clean label small,2.5,g,5,mg,80,g,0,g,1,g,1,g,0,g,0,g,0,g
+772,round table pizza,cyo pan crust pizza italian sausage clean label x large,2,g,5,mg,70,g,0,g,1,g,1,g,0,g,0,g,0,g
+773,round table pizza,cyo pan crust pizza linguica burke large,2.5,g,5,mg,110,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+774,round table pizza,cyo pan crust pizza linguica burke medium,2.5,g,5,mg,120,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+775,round table pizza,cyo pan crust pizza linguica burke personal,1,g,5,mg,70,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+776,round table pizza,cyo pan crust pizza linguica burke small,2.5,g,5,mg,110,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+777,round table pizza,cyo pan crust pizza linguica burke x large,2,g,5,mg,100,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+778,round table pizza,cyo pan crust pizza mini pepperoni large,3.5,g,10,mg,170,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+779,round table pizza,cyo pan crust pizza mini pepperoni medium,4,g,10,mg,180,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+780,round table pizza,cyo pan crust pizza mini pepperoni personal,2.5,g,5,mg,110,g,0,g,1,g,1,g,0,g,0,g,0,g
+781,round table pizza,cyo pan crust pizza mini pepperoni small,3.5,g,10,mg,170,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+782,round table pizza,cyo pan crust pizza mini pepperoni x large,3.5,g,10,mg,160,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+783,round table pizza,cyo pan crust pizza pepperoni large,4,g,10,mg,150,g,0,g,1,g,1.5,g,0,g,0,g,0,g
+784,round table pizza,cyo pan crust pizza pepperoni medium,4,g,10,mg,160,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+785,round table pizza,cyo pan crust pizza pepperoni personal,2.5,g,5,mg,90,g,0,g,1,g,1,g,0,g,0,g,0,g
+786,round table pizza,cyo pan crust pizza pepperoni small,4,g,10,mg,150,g,0,g,1,g,1.5,g,0,g,0,g,0,g
+787,round table pizza,cyo pan crust pizza pepperoni x large,3.5,g,10,mg,140,g,0,g,1,g,1.5,g,0,g,0,g,0,g
+788,round table pizza,cyo pan crust pizza pesto large,4,g,5,mg,100,g,0,g,1,g,1,g,0,g,0,g,0,g
+789,round table pizza,cyo pan crust pizza pesto medium,4,g,5,mg,110,g,0,g,1,g,1,g,0,g,0,g,0,g
+790,round table pizza,cyo pan crust pizza pesto personal,2.5,g,0,mg,60,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+791,round table pizza,cyo pan crust pizza pesto small,3,g,0,mg,80,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+792,round table pizza,cyo pan crust pizza pineapple large,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+793,round table pizza,cyo pan crust pizza pineapple medium,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,3,g
+794,round table pizza,cyo pan crust pizza pineapple personal,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+795,round table pizza,cyo pan crust pizza pineapple small,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+796,round table pizza,cyo pan crust pizza pineapple x large,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+797,round table pizza,cyo pan crust pizza pizza crust large,8,g,25,mg,570,g,34,g,12,g,4.5,g,0,g,2,g,2,g
+798,round table pizza,cyo pan crust pizza pizza crust medium,9,g,25,mg,620,g,37,g,13,g,5,g,0,g,2,g,2,g
+799,round table pizza,cyo pan crust pizza pizza crust personal,5,g,15,mg,400,g,14,g,8,g,3,g,0,g,1,g,1,g
+800,round table pizza,cyo pan crust pizza pizza crust small,7,g,20,mg,550,g,33,g,11,g,4.5,g,0,g,2,g,2,g
+801,round table pizza,cyo pan crust pizza pizza crust x large,8,g,25,mg,570,g,34,g,11,g,4.5,g,0,g,2,g,2,g
+802,round table pizza,cyo pan crust pizza polynesian large,0,g,0,mg,70,g,3,g,0,g,0,g,0,g,0,g,2,g
+803,round table pizza,cyo pan crust pizza polynesian medium,0,g,0,mg,80,g,3,g,0,g,0,g,0,g,0,g,3,g
+804,round table pizza,cyo pan crust pizza polynesian personal,0,g,0,mg,60,g,2,g,0,g,0,g,0,g,0,g,2,g
+805,round table pizza,cyo pan crust pizza polynesian small,0,g,0,mg,70,g,3,g,0,g,0,g,0,g,0,g,2,g
+806,round table pizza,cyo pan crust pizza polynesian x large,0,g,0,mg,70,g,3,g,0,g,0,g,0,g,0,g,2,g
+807,round table pizza,cyo pan crust pizza primo pepperoni large,2.5,g,10,mg,150,g,0,g,2,g,1,g,0,g,0,g,0,g
+808,round table pizza,cyo pan crust pizza primo pepperoni medium,3,g,10,mg,160,g,0,g,2,g,1,g,0,g,0,g,0,g
+809,round table pizza,cyo pan crust pizza primo pepperoni personal,1.5,g,5,mg,90,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+810,round table pizza,cyo pan crust pizza primo pepperoni small,2.5,g,10,mg,150,g,0,g,2,g,1,g,0,g,0,g,0,g
+811,round table pizza,cyo pan crust pizza primo pepperoni x large,2.5,g,10,mg,140,g,0,g,2,g,1,g,0,g,0,g,0,g
+812,round table pizza,cyo pan crust pizza roasted garlic large,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,0,g,0,g
+813,round table pizza,cyo pan crust pizza roasted garlic medium,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,0,g,0,g
+814,round table pizza,cyo pan crust pizza roasted garlic personal,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+815,round table pizza,cyo pan crust pizza roasted garlic small,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,0,g,0,g
+816,round table pizza,cyo pan crust pizza roasted garlic x large,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,0,g,0,g
+817,round table pizza,cyo pan crust pizza salami large,3,g,10,mg,140,g,0,g,2,g,1,g,0,g,0,g,0,g
+818,round table pizza,cyo pan crust pizza salami medium,3,g,10,mg,150,g,0,g,2,g,1,g,0,g,0,g,0,g
+819,round table pizza,cyo pan crust pizza salami personal,2,g,5,mg,90,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+820,round table pizza,cyo pan crust pizza salami small,3,g,10,mg,140,g,0,g,2,g,1,g,0,g,0,g,0,g
+821,round table pizza,cyo pan crust pizza salami x large,3,g,5,mg,140,g,0,g,2,g,1,g,0,g,0,g,0,g
+822,round table pizza,cyo pan crust pizza shredded parmesan large,0.5,g,0,mg,30,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+823,round table pizza,cyo pan crust pizza shredded parmesan medium,0.5,g,0,mg,30,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+824,round table pizza,cyo pan crust pizza shredded parmesan personal,0.5,g,0,mg,30,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+825,round table pizza,cyo pan crust pizza shredded parmesan small,0.5,g,0,mg,30,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+826,round table pizza,cyo pan crust pizza shredded parmesan x large,0.5,g,0,mg,30,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+827,round table pizza,cyo pan crust pizza shrimp large,0,g,20,mg,70,g,0,g,2,g,0,g,0,g,0,g,0,g
+828,round table pizza,cyo pan crust pizza shrimp medium,0,g,20,mg,80,g,0,g,2,g,0,g,0,g,0,g,0,g
+829,round table pizza,cyo pan crust pizza shrimp personal,0,g,15,mg,50,g,0,g,1,g,0,g,0,g,0,g,0,g
+830,round table pizza,cyo pan crust pizza shrimp small,0,g,20,mg,70,g,0,g,2,g,0,g,0,g,0,g,0,g
+831,round table pizza,cyo pan crust pizza shrimp x large,0,g,20,mg,70,g,0,g,2,g,0,g,0,g,0,g,0,g
+832,round table pizza,cyo pan crust pizza three cheese blend large,2,g,5,mg,50,g,0,g,2,g,1,g,0,g,0,g,0,g
+833,round table pizza,cyo pan crust pizza three cheese blend medium,2,g,5,mg,50,g,0,g,2,g,1,g,0,g,0,g,0,g
+834,round table pizza,cyo pan crust pizza three cheese blend personal,2,g,5,mg,40,g,0,g,2,g,1,g,0,g,0,g,0,g
+835,round table pizza,cyo pan crust pizza three cheese blend small,2,g,5,mg,40,g,0,g,2,g,1,g,0,g,0,g,0,g
+836,round table pizza,cyo pan crust pizza three cheese blend x large,2,g,5,mg,50,g,0,g,2,g,1,g,0,g,0,g,0,g
+837,round table pizza,cyo pan crust pizza zesty red sauce large,0,g,0,mg,20,g,1,g,0,g,0,g,0,g,0,g,1,g
+838,round table pizza,cyo pan crust pizza zesty red sauce medium,0,g,0,mg,20,g,1,g,0,g,0,g,0,g,0,g,1,g
+839,round table pizza,cyo pan crust pizza zesty red sauce personal,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+840,round table pizza,cyo pan crust pizza zesty red sauce small,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+841,round table pizza,cyo pan crust pizza zesty red sauce x large,0,g,0,mg,20,g,1,g,0,g,0,g,0,g,0,g,1,g
+842,round table pizza,cyo skinny pizza anchovies large,0.5,g,0,mg,190,g,0,g,1,g,0,g,0,g,0,g,0,g
+843,round table pizza,cyo skinny pizza anchovies medium,0.5,g,0,mg,210,g,0,g,1,g,0,g,0,g,0,g,0,g
+844,round table pizza,cyo skinny pizza anchovies personal,0.5,g,0,mg,140,g,0,g,1,g,0,g,0,g,0,g,0,g
+845,round table pizza,cyo skinny pizza anchovies small,0.5,g,0,mg,190,g,0,g,1,g,0,g,0,g,0,g,0,g
+846,round table pizza,cyo skinny pizza artichoke hearts large,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+847,round table pizza,cyo skinny pizza artichoke hearts medium,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+848,round table pizza,cyo skinny pizza artichoke hearts personal,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+849,round table pizza,cyo skinny pizza artichoke hearts small,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+850,round table pizza,cyo skinny pizza bacon armour large,3,g,5,mg,140,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+851,round table pizza,cyo skinny pizza bacon armour medium,3.5,g,10,mg,150,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+852,round table pizza,cyo skinny pizza bacon armour personal,2,g,5,mg,90,g,0,g,2,g,1,g,0,g,0,g,0,g
+853,round table pizza,cyo skinny pizza bacon armour small,3,g,5,mg,140,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+854,round table pizza,cyo skinny pizza bbq large,0,g,0,mg,80,g,4,g,0,g,0,g,0,g,0,g,3,g
+855,round table pizza,cyo skinny pizza bbq medium,0,g,0,mg,90,g,4,g,0,g,0,g,0,g,0,g,3,g
+856,round table pizza,cyo skinny pizza bbq personal,0,g,0,mg,120,g,5,g,0,g,0,g,0,g,0,g,4,g
+857,round table pizza,cyo skinny pizza bbq small,0,g,0,mg,80,g,4,g,0,g,0,g,0,g,0,g,3,g
+858,round table pizza,cyo skinny pizza black olives large,1,g,0,mg,100,g,1,g,0,g,0,g,0,g,0,g,0,g
+859,round table pizza,cyo skinny pizza black olives medium,1.5,g,0,mg,110,g,1,g,0,g,0,g,0,g,0,g,0,g
+860,round table pizza,cyo skinny pizza black olives personal,1,g,0,mg,70,g,1,g,0,g,0,g,0,g,0,g,0,g
+861,round table pizza,cyo skinny pizza black olives small,1,g,0,mg,90,g,1,g,0,g,0,g,0,g,0,g,0,g
+862,round table pizza,cyo skinny pizza chicken large,0,g,0,mg,90,g,0,g,3,g,0,g,0,g,0,g,0,g
+863,round table pizza,cyo skinny pizza chicken medium,0,g,0,mg,90,g,0,g,3,g,0,g,0,g,0,g,0,g
+864,round table pizza,cyo skinny pizza chicken personal,0,g,0,mg,60,g,0,g,2,g,0,g,0,g,0,g,0,g
+865,round table pizza,cyo skinny pizza chicken small,0,g,0,mg,80,g,0,g,2,g,0,g,0,g,0,g,0,g
+866,round table pizza,cyo skinny pizza creamy garlic sauce large,2,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+867,round table pizza,cyo skinny pizza creamy garlic sauce medium,2,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+868,round table pizza,cyo skinny pizza creamy garlic sauce personal,1,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+869,round table pizza,cyo skinny pizza creamy garlic sauce small,2,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+870,round table pizza,cyo skinny pizza fresh mozzarella large,2,g,5,mg,40,g,0,g,2,g,1,g,0,g,0,g,0,g
+871,round table pizza,cyo skinny pizza fresh mozzarella medium,2,g,10,mg,40,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+872,round table pizza,cyo skinny pizza fresh mozzarella personal,1.5,g,5,mg,30,g,0,g,1,g,1,g,0,g,0,g,0,g
+873,round table pizza,cyo skinny pizza fresh mozzarella small,2,g,5,mg,40,g,0,g,2,g,1,g,0,g,0,g,0,g
+874,round table pizza,cyo skinny pizza ham large,0,g,5,mg,120,g,0,g,1,g,0,g,0,g,0,g,0,g
+875,round table pizza,cyo skinny pizza ham medium,0,g,5,mg,130,g,0,g,1,g,0,g,0,g,0,g,0,g
+876,round table pizza,cyo skinny pizza ham personal,0,g,5,mg,80,g,0,g,1,g,0,g,0,g,0,g,0,g
+877,round table pizza,cyo skinny pizza ham small,0,g,5,mg,120,g,0,g,2,g,0,g,0,g,0,g,0,g
+878,round table pizza,cyo skinny pizza italian sausage clean label large,2.5,g,5,mg,80,g,0,g,1,g,1,g,0,g,0,g,0,g
+879,round table pizza,cyo skinny pizza italian sausage clean label medium,2.5,g,10,mg,90,g,0,g,2,g,1,g,0,g,0,g,0,g
+880,round table pizza,cyo skinny pizza italian sausage clean label personal,2,g,5,mg,60,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+881,round table pizza,cyo skinny pizza italian sausage clean label small,2.5,g,5,mg,80,g,0,g,1,g,1,g,0,g,0,g,0,g
+882,round table pizza,cyo skinny pizza linguica burke large,2.5,g,5,mg,110,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+883,round table pizza,cyo skinny pizza linguica burke medium,2.5,g,5,mg,120,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+884,round table pizza,cyo skinny pizza linguica burke personal,1,g,5,mg,70,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+885,round table pizza,cyo skinny pizza linguica burke small,2.5,g,5,mg,110,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+886,round table pizza,cyo skinny pizza mini pepperoni large,3.5,g,10,mg,170,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+887,round table pizza,cyo skinny pizza mini pepperoni medium,4,g,10,mg,180,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+888,round table pizza,cyo skinny pizza mini pepperoni personal,2.5,g,5,mg,110,g,0,g,1,g,1,g,0,g,0,g,0,g
+889,round table pizza,cyo skinny pizza mini pepperoni small,3.5,g,10,mg,170,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+890,round table pizza,cyo skinny pizza pepperoni large,4,g,10,mg,150,g,0,g,1,g,1.5,g,0,g,0,g,0,g
+891,round table pizza,cyo skinny pizza pepperoni medium,4,g,10,mg,160,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+892,round table pizza,cyo skinny pizza pepperoni personal,2.5,g,5,mg,90,g,0,g,1,g,1,g,0,g,0,g,0,g
+893,round table pizza,cyo skinny pizza pepperoni small,4,g,10,mg,150,g,0,g,1,g,1.5,g,0,g,0,g,0,g
+894,round table pizza,cyo skinny pizza pesto large,4,g,5,mg,100,g,0,g,1,g,1,g,0,g,0,g,0,g
+895,round table pizza,cyo skinny pizza pesto medium,4,g,5,mg,110,g,0,g,1,g,1,g,0,g,0,g,0,g
+896,round table pizza,cyo skinny pizza pesto personal,2.5,g,0,mg,60,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+897,round table pizza,cyo skinny pizza pesto small,3,g,0,mg,80,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+898,round table pizza,cyo skinny pizza pineapple large,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+899,round table pizza,cyo skinny pizza pineapple medium,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,3,g
+900,round table pizza,cyo skinny pizza pineapple personal,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+901,round table pizza,cyo skinny pizza pineapple small,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+902,round table pizza,cyo skinny pizza pizza crust large,7,g,25,mg,370,g,17,g,9,g,4.5,g,0,g,1,g,2,g
+903,round table pizza,cyo skinny pizza pizza crust medium,8,g,25,mg,410,g,19,g,10,g,5,g,0,g,2,g,2,g
+904,round table pizza,cyo skinny pizza pizza crust personal,5,g,15,mg,250,g,11,g,6,g,3,g,0,g,1,g,1,g
+905,round table pizza,cyo skinny pizza pizza crust small,7,g,20,mg,340,g,16,g,8,g,4,g,0,g,1,g,2,g
+906,round table pizza,cyo skinny pizza polynesian medium,0,g,0,mg,80,g,3,g,0,g,0,g,0,g,0,g,3,g
+907,round table pizza,cyo skinny pizza polynesian personal,0,g,0,mg,60,g,2,g,0,g,0,g,0,g,0,g,2,g
+908,round table pizza,cyo skinny pizza polynesian small,0,g,0,mg,70,g,3,g,0,g,0,g,0,g,0,g,2,g
+909,round table pizza,cyo skinny pizza primo pepperoni large,2.5,g,10,mg,150,g,0,g,2,g,1,g,0,g,0,g,0,g
+910,round table pizza,cyo skinny pizza primo pepperoni medium,3,g,10,mg,160,g,0,g,2,g,1,g,0,g,0,g,0,g
+911,round table pizza,cyo skinny pizza primo pepperoni personal,1.5,g,5,mg,90,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+912,round table pizza,cyo skinny pizza primo pepperoni small,2.5,g,10,mg,150,g,0,g,2,g,1,g,0,g,0,g,0,g
+913,round table pizza,cyo skinny pizza roasted garlic large,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,0,g,0,g
+914,round table pizza,cyo skinny pizza roasted garlic medium,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,0,g,0,g
+915,round table pizza,cyo skinny pizza roasted garlic personal,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+916,round table pizza,cyo skinny pizza roasted garlic small,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,0,g,0,g
+917,round table pizza,cyo skinny pizza salami large,3,g,10,mg,140,g,0,g,2,g,1,g,0,g,0,g,0,g
+918,round table pizza,cyo skinny pizza salami medium,3,g,10,mg,150,g,0,g,2,g,1,g,0,g,0,g,0,g
+919,round table pizza,cyo skinny pizza salami personal,2,g,5,mg,90,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+920,round table pizza,cyo skinny pizza salami small,3,g,10,mg,140,g,0,g,2,g,1,g,0,g,0,g,0,g
+921,round table pizza,cyo skinny pizza shredded parmesan large,0.5,g,0,mg,30,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+922,round table pizza,cyo skinny pizza shredded parmesan medium,0.5,g,0,mg,30,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+923,round table pizza,cyo skinny pizza shredded parmesan personal,0.5,g,0,mg,30,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+924,round table pizza,cyo skinny pizza shredded parmesan small,0.5,g,0,mg,30,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+925,round table pizza,cyo skinny pizza shrimp large,0,g,20,mg,70,g,0,g,2,g,0,g,0,g,0,g,0,g
+926,round table pizza,cyo skinny pizza shrimp medium,0,g,20,mg,80,g,0,g,2,g,0,g,0,g,0,g,0,g
+927,round table pizza,cyo skinny pizza shrimp personal,0,g,15,mg,50,g,0,g,1,g,0,g,0,g,0,g,0,g
+928,round table pizza,cyo skinny pizza shrimp small,0,g,20,mg,70,g,0,g,2,g,0,g,0,g,0,g,0,g
+929,round table pizza,cyo skinny pizza three cheese blend large,2,g,5,mg,50,g,0,g,2,g,1,g,0,g,0,g,0,g
+930,round table pizza,cyo skinny pizza three cheese blend medium,2,g,5,mg,50,g,0,g,2,g,1,g,0,g,0,g,0,g
+931,round table pizza,cyo skinny pizza three cheese blend personal,2,g,5,mg,40,g,0,g,2,g,1,g,0,g,0,g,0,g
+932,round table pizza,cyo skinny pizza three cheese blend small,2,g,5,mg,40,g,0,g,2,g,1,g,0,g,0,g,0,g
+933,round table pizza,cyo skinny pizza zesty red sauce large,0,g,0,mg,20,g,1,g,0,g,0,g,0,g,0,g,1,g
+934,round table pizza,cyo skinny pizza zesty red sauce medium,0,g,0,mg,20,g,1,g,0,g,0,g,0,g,0,g,1,g
+935,round table pizza,cyo skinny pizza zesty red sauce personal,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+936,round table pizza,cyo skinny pizza zesty red sauce small,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+937,round table pizza,dessert pizza,8,g,0,mg,250,g,32,g,3,g,1.5,g,0,g,1,g,10,g
+938,round table pizza,dessert cinnamon twists,3.5,g,0,mg,290,g,34,g,4,g,1,g,0,g,1,g,11,g
+939,round table pizza,dipping sauce bleu cheese 2 oz,31,g,30,mg,400,g,1,g,3,g,7,g,0.5,g,0,g,1,g
+940,round table pizza,dipping sauce bleu cheese 5 oz,78,g,80,mg,980,g,6,g,4,g,17,g,0.5,g,0,g,5,g
+941,round table pizza,dipping sauce creamy ranch 2 oz,23,g,15,mg,390,g,2,g,2,g,4,g,0,g,0,g,2,g
+942,round table pizza,dipping sauce creamy ranch 5 oz,58,g,40,mg,980,g,6,g,4,g,10,g,0.5,g,0,g,5,g
+943,round table pizza,dipping sauce creamy sriracha 2 oz,16,g,15,mg,520,g,3,g,1,g,2.5,g,0,g,0,g,0,g
+944,round table pizza,dipping sauce creamy sriracha 5 oz,39,g,30,mg,1300,g,8,g,2,g,6,g,0.5,g,0,g,1,g
+945,round table pizza,dipping sauce marinara sauce 2 oz,0,g,0,mg,220,g,6,g,1,g,0,g,0,g,1,g,4,g
+946,round table pizza,dipping sauce marinara sauce 5 oz,0.5,g,0,mg,560,g,15,g,3,g,0,g,0,g,4,g,9,g
+947,round table pizza,dipping sauce zesty red sauce 2 oz,0,g,0,mg,135,g,6,g,1,g,0,g,0,g,1,g,4,g
+948,round table pizza,dipping sauce zesty red sauce 5 oz,0.5,g,0,mg,330,g,15,g,3,g,0,g,0,g,4,g,9,g
+949,round table pizza,dressing balsamic vinaigrette,5,g,0,mg,190,g,4,g,0,g,0.5,g,0,g,0,g,4,g
+950,round table pizza,dressing balsamic vinegar,0,g,0,mg,5,g,3,g,0,g,0,g,0,g,0,g,2,g
+951,round table pizza,dressing bleu cheese,16,g,15,mg,230,g,1,g,1,g,3.5,g,0,g,0,g,0,g
+952,round table pizza,dressing fat free italian,0,g,0,mg,490,g,3,g,0,g,0,g,0,g,0,g,2,g
+953,round table pizza,dressing french,12,g,0,mg,150,g,6,g,0,g,2,g,0,g,0,g,5,g
+954,round table pizza,dressing honey mustard,11,g,15,mg,180,g,7,g,0,g,1.5,g,0,g,0,g,6,g
+955,round table pizza,dressing olive oil,13,g,0,mg,0,g,0,g,0,g,2,g,0,g,0,g,0,g
+956,round table pizza,dressing parmesan italian,13,g,0,mg,320,g,2,g,0,g,2,g,0,g,0,g,1,g
+957,round table pizza,dressing ranch dressing,11,g,5,mg,135,g,1,g,0,g,2,g,0,g,0,g,1,g
+958,round table pizza,dressing red wine vinegar,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+959,round table pizza,dressing rt caesar,13,g,20,mg,250,g,1,g,1,g,2.5,g,0,g,0,g,0,g
+960,round table pizza,dressing thousand island,15,g,10,mg,210,g,4,g,0,g,2.5,g,0,g,0,g,3,g
+961,round table pizza,fried boneless wings bbq,9,g,15,mg,350,g,10,g,6,g,1.5,g,0,g,0,g,4,g
+962,round table pizza,fried boneless wings garlic parmesan,12,g,15,mg,250,g,5,g,6,g,2,g,0,g,0,g,0,g
+963,round table pizza,fried boneless wings hot buffalo,11,g,15,mg,420,g,5,g,6,g,1.5,g,0,g,0,g,0,g
+964,round table pizza,fried boneless wings lemon pepper,10,g,15,mg,250,g,5,g,6,g,1.5,g,0,g,0,g,0,g
+965,round table pizza,fried boneless wings mango habanero,10,g,15,mg,330,g,9,g,6,g,1.5,g,0,g,0,g,4,g
+966,round table pizza,fried boneless wings mild buffalo,11,g,15,mg,410,g,5,g,6,g,1.5,g,0,g,0,g,0,g
+967,round table pizza,fried boneless wings no sauce,9,g,15,mg,230,g,5,g,6,g,1.5,g,0,g,0,g,0,g
+968,round table pizza,fried boneless wings polynesian,9,g,15,mg,340,g,8,g,6,g,1.5,g,0,g,0,g,3,g
+969,round table pizza,fried chicken breast,44,g,50,mg,400,g,6,g,21,g,8,g,1.5,g,0,g,0,g
+970,round table pizza,fried chicken leg,21,g,30,mg,190,g,3,g,7,g,4,g,0.5,g,0,g,0,g
+971,round table pizza,fried chicken thigh,43,g,65,mg,220,g,3,g,14,g,9,g,1,g,0,g,0,g
+972,round table pizza,fried chicken wing,22,g,20,mg,180,g,3,g,6,g,4,g,0.5,g,0,g,0,g
+973,round table pizza,fried classic wings bbq,8,g,0,mg,370,g,5,g,8,g,2,g,0,g,0,g,4,g
+974,round table pizza,fried classic wings garlic parmesan,11,g,0,mg,270,g,0,g,8,g,3,g,0,g,0,g,0,g
+975,round table pizza,fried classic wings hot buffalo,10,g,0,mg,440,g,0,g,7,g,2.5,g,0,g,0,g,8,g
+976,round table pizza,fried classic wings lemon pepper,9,g,0,mg,270,g,0,g,8,g,2,g,0,g,0,g,0,g
+977,round table pizza,fried classic wings mango habanero,8,g,0,mg,350,g,5,g,8,g,2,g,0,g,0,g,4,g
+978,round table pizza,fried classic wings mild buffalo,10,g,0,mg,430,g,0,g,8,g,2.5,g,0,g,0,g,0,g
+979,round table pizza,fried classic wings no sauce,8,g,0,mg,250,g,0,g,8,g,2,g,0,g,0,g,0,g
+980,round table pizza,fried classic wings polynesian,8,g,0,mg,360,g,4,g,8,g,2,g,0,g,0,g,3,g
+981,round table pizza,fries lg,37,g,0,mg,1240,g,76,g,8,g,7,g,0,g,8,g,0,g
+982,round table pizza,fries side,19,g,0,mg,620,g,38,g,4,g,3.5,g,0,g,4,g,0,g
+983,round table pizza,garden salad family entree,7,g,5,mg,310,g,32,g,7,g,0.5,g,0,g,6,g,9,g
+984,round table pizza,garden salad individual portion,3.5,g,5,mg,150,g,16,g,4,g,0.5,g,0,g,3,g,5,g
+985,round table pizza,garden salad party pack,20,g,5,mg,920,g,97,g,21,g,2,g,0.5,g,19,g,28,g
+986,round table pizza,garden salad side,6,g,60,mg,170,g,10,g,5,g,2,g,0,g,2,g,2,g
+987,round table pizza,garlic bread,3.5,g,0,mg,120,g,9,g,2,g,1.5,g,0,g,1,g,0,g
+988,round table pizza,garlic bread with cheese,6,g,10,mg,180,g,9,g,4,g,3,g,0,g,1,g,0,g
+989,round table pizza,garlic fries lg,53,g,5,mg,1350,g,79,g,11,g,10,g,0.5,g,8,g,0,g
+990,round table pizza,garlic fries side,27,g,5,mg,680,g,39,g,6,g,5,g,0,g,4,g,0,g
+991,round table pizza,garlic parmesan tots,65,g,40,mg,2110,g,78,g,24,g,17,g,1,g,9,g,1,g
+992,round table pizza,garlic parmesan twists,5,g,10,mg,460,g,25,g,6,g,2,g,0,g,1,g,1,g
+993,round table pizza,gelookie choc chunk chocolate,41,g,110,mg,460,g,118,g,10,g,21,g,0,g,4,g,80,g
+994,round table pizza,gelookie choc chunk salted caramel,43,g,70,mg,490,g,119,g,10,g,21,g,0,g,4,g,84,g
+995,round table pizza,gelookie choc chunk vanilla,42,g,75,mg,470,g,110,g,9,g,22,g,0,g,3,g,75,g
+996,round table pizza,gelookie white chocolate macadamia nut chocolate,37,g,110,mg,460,g,107,g,11,g,17,g,0.5,g,1,g,77,g
+997,round table pizza,gelookie white chocolate macadamia nut salted caramel,38,g,70,mg,500,g,108,g,11,g,17,g,0.5,g,1,g,81,g
+998,round table pizza,gelookie white chocolate macadamia nut vanilla,37,g,80,mg,470,g,98,g,10,g,18,g,0.5,g,1,g,72,g
+999,round table pizza,gluten free pizza bbq chicken,10,g,25,mg,650,g,36,g,10,g,4.5,g,0,g,2,g,8,g

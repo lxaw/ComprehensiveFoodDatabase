@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,brusters,sea salt caramel with toffee ice cream on a waffle cone small,21,g,50,mg,550,g,68,g,5,g,12,g,0,g,0,g,45,g
+1,brusters,snickerdoodle ice cream in a dish large,29,g,85,mg,210,g,93,g,7,g,17,g,0,g,0,g,80,g
+2,brusters,snickerdoodle ice cream in a dish regular,22,g,65,mg,160,g,70,g,6,g,13,g,0,g,0,g,60,g
+3,brusters,snickerdoodle ice cream in a dish small,15,g,45,mg,105,g,47,g,4,g,9,g,0,g,0,g,40,g
+4,brusters,snickerdoodle ice cream on a cake cone large,29,g,85,mg,220,g,98,g,8,g,17,g,0,g,0,g,80,g
+5,brusters,snickerdoodle ice cream on a cake cone regular,22,g,65,mg,170,g,75,g,6,g,13,g,0,g,0,g,60,g
+6,brusters,snickerdoodle ice cream on a cake cone small,15,g,45,mg,115,g,52,g,4,g,9,g,0,g,0,g,40,g
+7,brusters,snickerdoodle ice cream on a sugar cone large,30,g,85,mg,230,g,105,g,8,g,17,g,0,g,0,g,83,g
+8,brusters,snickerdoodle ice cream on a sugar cone regular,22,g,65,mg,180,g,82,g,6,g,13,g,0,g,0,g,63,g
+9,brusters,snickerdoodle ice cream on a sugar cone small,15,g,45,mg,125,g,59,g,4,g,9,g,0,g,0,g,43,g
+10,brusters,snickerdoodle ice cream on a waffle cone large,32,g,95,mg,210,g,116,g,9,g,18,g,0,g,0,g,90,g
+11,brusters,snickerdoodle ice cream on a waffle cone regular,25,g,70,mg,160,g,93,g,7,g,14,g,0,g,0,g,70,g
+12,brusters,snickerdoodle ice cream on a waffle cone small,18,g,50,mg,105,g,69,g,5,g,9,g,0,g,0,g,50,g
+13,brusters,snickers blast large,63,g,145,mg,410,g,138,g,18,g,34,g,0,g,2,g,111,g
+14,brusters,snickers blast regular,49,g,115,mg,310,g,106,g,14,g,26,g,0,g,1,g,86,g
+15,brusters,sour apple sherbet ice in a dish large,0,g,0,mg,30,g,84,g,0,g,0,g,0,g,0,g,78,g
+16,brusters,sour apple sherbet ice in a dish regular,0,g,0,mg,25,g,63,g,0,g,0,g,0,g,0,g,59,g
+17,brusters,sour apple sherbet ice in a dish small,0,g,0,mg,15,g,42,g,0,g,0,g,0,g,0,g,39,g
+18,brusters,sour apple sherbet ice on a cake cone large,0,g,0,mg,40,g,89,g,1,g,0,g,0,g,0,g,78,g
+19,brusters,sour apple sherbet ice on a cake cone regular,0,g,0,mg,35,g,68,g,1,g,0,g,0,g,0,g,59,g
+20,brusters,sour apple sherbet ice on a cake cone small,0,g,0,mg,25,g,47,g,1,g,0,g,0,g,0,g,39,g
+21,brusters,sour apple sherbet ice on a sugar cone large,0,g,0,mg,50,g,96,g,1,g,0,g,0,g,0,g,81,g
+22,brusters,sour apple sherbet ice on a sugar cone regular,0,g,0,mg,45,g,75,g,1,g,0,g,0,g,0,g,62,g
+23,brusters,sour apple sherbet ice on a sugar cone small,0,g,0,mg,35,g,54,g,1,g,0,g,0,g,0,g,42,g
+24,brusters,sour apple sherbet ice on a waffle cone large,3,g,10,mg,30,g,107,g,2,g,1,g,0,g,0,g,89,g
+25,brusters,sour apple sherbet ice on a waffle cone regular,3,g,10,mg,25,g,86,g,2,g,1,g,0,g,0,g,69,g
+26,brusters,sour apple sherbet ice on a waffle cone small,3,g,10,mg,15,g,65,g,2,g,1,g,0,g,0,g,49,g
+27,brusters,southern banana puddin ice cream in a dish large,32,g,90,mg,290,g,81,g,8,g,18,g,0,g,0,g,60,g
+28,brusters,southern banana puddin ice cream in a dish regular,24,g,65,mg,220,g,61,g,6,g,14,g,0,g,0,g,45,g
+29,brusters,southern banana puddin ice cream in a dish small,16,g,45,mg,150,g,41,g,4,g,9,g,0,g,0,g,30,g
+30,brusters,southern banana puddin ice cream on a cake cone large,32,g,90,mg,300,g,86,g,9,g,18,g,0,g,0,g,61,g
+31,brusters,southern banana puddin ice cream on a cake cone regular,24,g,65,mg,230,g,66,g,7,g,14,g,0,g,0,g,45,g
+32,brusters,southern banana puddin ice cream on a cake cone small,16,g,45,mg,160,g,46,g,5,g,9,g,0,g,0,g,30,g
+33,brusters,southern banana puddin ice cream on a sugar cone large,32,g,90,mg,310,g,93,g,9,g,18,g,0,g,0,g,63,g
+34,brusters,southern banana puddin ice cream on a sugar cone regular,24,g,65,mg,240,g,73,g,7,g,14,g,0,g,0,g,48,g
+35,brusters,southern banana puddin ice cream on a sugar cone small,16,g,45,mg,170,g,53,g,5,g,9,g,0,g,0,g,33,g
+36,brusters,southern banana puddin ice cream on a waffle cone large,35,g,95,mg,290,g,104,g,10,g,19,g,0,g,0,g,71,g
+37,brusters,southern banana puddin ice cream on a waffle cone regular,27,g,75,mg,220,g,84,g,8,g,14,g,0,g,0,g,56,g
+38,brusters,southern banana puddin ice cream on a waffle cone small,19,g,50,mg,150,g,63,g,6,g,10,g,0,g,0,g,40,g
+39,brusters,strawberry banana ice cream in a dish large,28,g,80,mg,140,g,71,g,7,g,16,g,0,g,1,g,55,g
+40,brusters,strawberry banana ice cream in a dish regular,21,g,60,mg,105,g,53,g,5,g,12,g,0,g,1,g,41,g
+41,brusters,strawberry banana ice cream in a dish small,14,g,40,mg,70,g,35,g,4,g,8,g,0,g,0,g,28,g
+42,brusters,strawberry banana ice cream on a cake cone large,28,g,80,mg,150,g,76,g,8,g,16,g,0,g,1,g,55,g
+43,brusters,strawberry banana ice cream on a cake cone regular,21,g,60,mg,115,g,58,g,6,g,12,g,0,g,1,g,42,g
+44,brusters,strawberry banana ice cream on a cake cone small,14,g,40,mg,80,g,40,g,4,g,8,g,0,g,0,g,28,g
+45,brusters,strawberry banana ice cream on a sugar cone large,28,g,80,mg,160,g,83,g,8,g,16,g,0,g,1,g,58,g
+46,brusters,strawberry banana ice cream on a sugar cone regular,21,g,60,mg,125,g,65,g,6,g,12,g,0,g,1,g,44,g
+47,brusters,strawberry banana ice cream on a sugar cone small,14,g,40,mg,90,g,47,g,4,g,8,g,0,g,0,g,31,g
+48,brusters,strawberry banana ice cream on a waffle cone large,31,g,90,mg,140,g,94,g,9,g,17,g,0,g,1,g,65,g
+49,brusters,strawberry banana ice cream on a waffle cone regular,24,g,70,mg,105,g,76,g,7,g,13,g,0,g,1,g,52,g
+50,brusters,strawberry banana ice cream on a waffle cone small,17,g,50,mg,70,g,58,g,5,g,9,g,0,g,0,g,38,g
+51,brusters,strawberry cheesecake ice cream in a dish large,27,g,80,mg,260,g,82,g,7,g,16,g,0,g,0,g,69,g
+52,brusters,strawberry cheesecake ice cream in a dish regular,20,g,60,mg,190,g,62,g,5,g,12,g,0,g,0,g,51,g
+53,brusters,strawberry cheesecake ice cream in a dish small,14,g,40,mg,130,g,41,g,3,g,8,g,0,g,0,g,34,g
+54,brusters,strawberry cheesecake ice cream on a cake cone large,27,g,80,mg,270,g,87,g,7,g,16,g,0,g,0,g,69,g
+55,brusters,strawberry cheesecake ice cream on a cake cone regular,20,g,60,mg,200,g,67,g,6,g,12,g,0,g,0,g,52,g
+56,brusters,strawberry cheesecake ice cream on a cake cone small,14,g,40,mg,140,g,46,g,4,g,8,g,0,g,0,g,34,g
+57,brusters,strawberry cheesecake ice cream on a sugar cone large,27,g,80,mg,280,g,94,g,7,g,16,g,0,g,0,g,72,g
+58,brusters,strawberry cheesecake ice cream on a sugar cone regular,21,g,60,mg,210,g,74,g,6,g,12,g,0,g,0,g,54,g
+59,brusters,strawberry cheesecake ice cream on a sugar cone small,14,g,40,mg,150,g,53,g,4,g,8,g,0,g,0,g,37,g
+60,brusters,strawberry cheesecake ice cream on a waffle cone large,30,g,90,mg,260,g,105,g,8,g,17,g,0,g,0,g,79,g
+61,brusters,strawberry cheesecake ice cream on a waffle cone regular,24,g,70,mg,190,g,85,g,7,g,13,g,0,g,0,g,62,g
+62,brusters,strawberry cheesecake ice cream on a waffle cone small,17,g,50,mg,130,g,64,g,5,g,9,g,0,g,0,g,45,g
+63,brusters,strawberry daiquiri sherbet ice in a dish large,0,g,0,mg,30,g,84,g,0,g,0,g,0,g,0,g,78,g
+64,brusters,strawberry daiquiri sherbet ice in a dish regular,0,g,0,mg,25,g,63,g,0,g,0,g,0,g,0,g,59,g
+65,brusters,strawberry daiquiri sherbet ice in a dish small,0,g,0,mg,15,g,42,g,0,g,0,g,0,g,0,g,39,g
+66,brusters,strawberry daiquiri sherbet ice on a cake cone large,0,g,0,mg,40,g,89,g,1,g,0,g,0,g,0,g,78,g
+67,brusters,strawberry daiquiri sherbet ice on a cake cone regular,0,g,0,mg,35,g,68,g,1,g,0,g,0,g,0,g,59,g
+68,brusters,strawberry daiquiri sherbet ice on a cake cone small,0,g,0,mg,25,g,47,g,1,g,0,g,0,g,0,g,39,g
+69,brusters,strawberry daiquiri sherbet ice on a sugar cone large,0,g,0,mg,50,g,96,g,1,g,0,g,0,g,0,g,81,g
+70,brusters,strawberry daiquiri sherbet ice on a sugar cone regular,0,g,0,mg,45,g,75,g,1,g,0,g,0,g,0,g,62,g
+71,brusters,strawberry daiquiri sherbet ice on a sugar cone small,0,g,0,mg,35,g,54,g,1,g,0,g,0,g,0,g,42,g
+72,brusters,strawberry daiquiri sherbet ice on a waffle cone large,3,g,10,mg,30,g,107,g,2,g,1,g,0,g,0,g,88,g
+73,brusters,strawberry daiquiri sherbet ice on a waffle cone regular,3,g,10,mg,25,g,86,g,2,g,1,g,0,g,0,g,69,g
+74,brusters,strawberry daiquiri sherbet ice on a waffle cone small,3,g,10,mg,15,g,65,g,2,g,1,g,0,g,0,g,49,g
+75,brusters,strawberry ice cream in a dish large,29,g,85,mg,140,g,68,g,7,g,17,g,0,g,1,g,55,g
+76,brusters,strawberry ice cream in a dish regular,22,g,60,mg,105,g,51,g,5,g,13,g,0,g,0,g,42,g
+77,brusters,strawberry ice cream in a dish small,14,g,40,mg,70,g,34,g,4,g,8,g,0,g,0,g,28,g
+78,brusters,strawberry ice cream on a cake cone large,29,g,85,mg,150,g,73,g,8,g,17,g,0,g,1,g,56,g
+79,brusters,strawberry ice cream on a cake cone regular,22,g,60,mg,115,g,56,g,6,g,13,g,0,g,0,g,42,g
+80,brusters,strawberry ice cream on a cake cone small,15,g,40,mg,80,g,39,g,4,g,8,g,0,g,0,g,28,g
+81,brusters,strawberry ice cream on a sugar cone large,29,g,85,mg,160,g,80,g,8,g,17,g,0,g,1,g,58,g
+82,brusters,strawberry ice cream on a sugar cone regular,22,g,60,mg,125,g,63,g,6,g,13,g,0,g,0,g,45,g
+83,brusters,strawberry ice cream on a sugar cone small,15,g,40,mg,90,g,46,g,4,g,8,g,0,g,0,g,31,g
+84,brusters,strawberry ice cream on a waffle cone large,32,g,90,mg,140,g,91,g,9,g,18,g,0,g,1,g,66,g
+85,brusters,strawberry ice cream on a waffle cone regular,25,g,70,mg,105,g,74,g,7,g,13,g,0,g,0,g,52,g
+86,brusters,strawberry ice cream on a waffle cone small,18,g,50,mg,70,g,57,g,5,g,9,g,0,g,0,g,38,g
+87,brusters,strawberry kiwi sherbet ice in a dish large,0,g,0,mg,30,g,84,g,0,g,0,g,0,g,0,g,78,g
+88,brusters,strawberry kiwi sherbet ice in a dish regular,0,g,0,mg,25,g,63,g,0,g,0,g,0,g,0,g,59,g
+89,brusters,strawberry kiwi sherbet ice in a dish small,0,g,0,mg,15,g,42,g,0,g,0,g,0,g,0,g,39,g
+90,brusters,strawberry kiwi sherbet ice on a cake cone large,0,g,0,mg,40,g,89,g,1,g,0,g,0,g,0,g,87,g
+91,brusters,strawberry kiwi sherbet ice on a cake cone regular,0,g,0,mg,35,g,68,g,1,g,0,g,0,g,0,g,59,g
+92,brusters,strawberry kiwi sherbet ice on a cake cone small,0,g,0,mg,25,g,47,g,1,g,0,g,0,g,0,g,39,g
+93,brusters,strawberry kiwi sherbet ice on a sugar cone large,0,g,0,mg,50,g,96,g,1,g,0,g,0,g,0,g,81,g
+94,brusters,strawberry kiwi sherbet ice on a sugar cone regular,0,g,0,mg,45,g,75,g,1,g,0,g,0,g,0,g,62,g
+95,brusters,strawberry kiwi sherbet ice on a sugar cone small,0,g,0,mg,35,g,54,g,1,g,0,g,0,g,0,g,42,g
+96,brusters,strawberry kiwi sherbet ice on a waffle cone large,3,g,10,mg,30,g,107,g,2,g,1,g,0,g,0,g,88,g
+97,brusters,strawberry kiwi sherbet ice on a waffle cone regular,3,g,10,mg,25,g,86,g,2,g,1,g,0,g,0,g,69,g
+98,brusters,strawberry kiwi sherbet ice on a waffle cone small,3,g,10,mg,15,g,65,g,2,g,1,g,0,g,0,g,49,g
+99,brusters,strawberry lemon sorbet in a dish large,0,g,0,mg,30,g,83,g,0,g,0,g,0,g,0,g,77,g
+100,brusters,strawberry lemon sorbet in a dish regular,0,g,0,mg,20,g,62,g,0,g,0,g,0,g,0,g,58,g
+101,brusters,strawberry lemon sorbet in a dish small,0,g,0,mg,15,g,41,g,0,g,0,g,0,g,0,g,39,g
+102,brusters,strawberry lemon sorbet on a cake cone large,0,g,0,mg,40,g,88,g,1,g,0,g,0,g,0,g,77,g
+103,brusters,strawberry lemon sorbet on a cake cone regular,0,g,0,mg,30,g,67,g,1,g,0,g,0,g,0,g,58,g
+104,brusters,strawberry lemon sorbet on a cake cone small,0,g,0,mg,25,g,46,g,1,g,0,g,0,g,0,g,39,g
+105,brusters,strawberry lemon sorbet on a sugar cone large,0,g,0,mg,50,g,95,g,1,g,0,g,0,g,0,g,80,g
+106,brusters,strawberry lemon sorbet on a sugar cone regular,0,g,0,mg,40,g,74,g,1,g,0,g,0,g,0,g,61,g
+107,brusters,strawberry lemon sorbet on a sugar cone small,0,g,0,mg,35,g,53,g,1,g,0,g,0,g,0,g,42,g
+108,brusters,strawberry lemon sorbet on a waffle cone large,3,g,10,mg,30,g,106,g,2,g,1,g,0,g,0,g,87,g
+109,brusters,strawberry lemon sorbet on a waffle cone regular,3,g,10,mg,20,g,85,g,2,g,1,g,0,g,0,g,68,g
+110,brusters,strawberry lemon sorbet on a waffle cone small,3,g,10,mg,15,g,64,g,2,g,1,g,0,g,0,g,49,g
+111,brusters,strawberry milkshake large,60,g,150,mg,350,g,135,g,18,g,36,g,0,g,1,g,104,g
+112,brusters,strawberry milkshake regular,38,g,110,mg,220,g,88,g,12,g,22,g,0,g,1,g,73,g
+113,brusters,strawberry sherbet ice in a dish large,4,g,10,mg,45,g,85,g,1,g,2.5,g,0,g,1,g,78,g
+114,brusters,strawberry sherbet ice in a dish regular,3,g,10,mg,35,g,64,g,1,g,2,g,0,g,0,g,59,g
+115,brusters,strawberry sherbet ice in a dish small,2,g,5,mg,25,g,43,g,1,g,1,g,0,g,0,g,39,g
+116,brusters,strawberry sherbet ice on a cake cone large,4,g,10,mg,55,g,90,g,2,g,2.5,g,0,g,1,g,78,g
+117,brusters,strawberry sherbet ice on a cake cone regular,3,g,10,mg,45,g,69,g,1,g,2,g,0,g,0,g,59,g
+118,brusters,strawberry sherbet ice on a cake cone small,2,g,5,mg,35,g,48,g,1,g,1,g,0,g,0,g,39,g
+119,brusters,strawberry sherbet ice on a sugar cone large,4.5,g,10,mg,65,g,97,g,2,g,2.5,g,0,g,1,g,81,g
+120,brusters,strawberry sherbet ice on a sugar cone regular,3.5,g,10,mg,55,g,76,g,1,g,2,g,0,g,0,g,62,g
+121,brusters,strawberry sherbet ice on a sugar cone small,2.5,g,5,mg,45,g,55,g,1,g,1,g,0,g,0,g,42,g
+122,brusters,strawberry sherbet ice on a waffle cone large,7,g,20,mg,45,g,108,g,3,g,3,g,0,g,1,g,88,g
+123,brusters,strawberry sherbet ice on a waffle cone regular,6,g,15,mg,35,g,87,g,2,g,2.5,g,0,g,0,g,69,g
+124,brusters,strawberry sherbet ice on a waffle cone small,5,g,15,mg,25,g,66,g,2,g,2,g,0,g,0,g,49,g
+125,brusters,strawberry sorbet in a dish large,0,g,0,mg,25,g,83,g,0,g,0,g,0,g,1,g,77,g
+126,brusters,strawberry sorbet in a dish regular,0,g,0,mg,20,g,62,g,0,g,0,g,0,g,1,g,58,g
+127,brusters,strawberry sorbet in a dish small,0,g,0,mg,15,g,42,g,0,g,0,g,0,g,0,g,39,g
+128,brusters,strawberry sorbet on a cake cone large,0,g,0,mg,150,g,143,g,1,g,0,g,0,g,1,g,105,g
+129,brusters,strawberry sorbet on a cake cone regular,0,g,0,mg,120,g,109,g,1,g,0,g,0,g,1,g,79,g
+130,brusters,strawberry sorbet on a cake cone small,0,g,0,mg,80,g,74,g,1,g,0,g,0,g,1,g,52,g
+131,brusters,strawberry sorbet on a sugar cone large,0,g,0,mg,160,g,150,g,1,g,0,g,0,g,1,g,108,g
+132,brusters,strawberry sorbet on a sugar cone regular,0,g,0,mg,130,g,116,g,1,g,0,g,0,g,1,g,81,g
+133,brusters,strawberry sorbet on a sugar cone small,0,g,0,mg,90,g,81,g,1,g,0,g,0,g,1,g,55,g
+134,brusters,strawberry sorbet on a waffle cone large,3.5,g,10,mg,25,g,106,g,2,g,1,g,0,g,1,g,88,g
+135,brusters,strawberry sorbet on a waffle cone regular,3.5,g,10,mg,20,g,85,g,2,g,1,g,0,g,1,g,68,g
+136,brusters,strawberry sorbet on a waffle cone small,3.5,g,10,mg,15,g,64,g,2,g,1,g,0,g,0,g,49,g
+137,brusters,strawberry swirl no sugar added ice cream in a dish large,0,g,0,mg,260,g,83,g,12,g,0,g,0,g,1,g,17,g
+138,brusters,strawberry swirl no sugar added ice cream in a dish regular,0,g,0,mg,200,g,63,g,9,g,0,g,0,g,1,g,13,g
+139,brusters,strawberry swirl no sugar added ice cream in a dish small,0,g,0,mg,130,g,42,g,6,g,0,g,0,g,1,g,9,g
+140,brusters,strawberry swirl no sugar added ice cream on a cake cone large,0,g,0,mg,270,g,88,g,13,g,0,g,0,g,1,g,18,g
+141,brusters,strawberry swirl no sugar added ice cream on a cake cone regular,0,g,0,mg,210,g,68,g,10,g,0,g,0,g,1,g,13,g
+142,brusters,strawberry swirl no sugar added ice cream on a cake cone small,0,g,0,mg,140,g,47,g,7,g,0,g,0,g,1,g,9,g
+143,brusters,strawberry swirl no sugar added ice cream on a sugar cone large,0,g,0,mg,280,g,95,g,13,g,0,g,0,g,1,g,20,g
+144,brusters,strawberry swirl no sugar added ice cream on a sugar cone regular,0,g,0,mg,220,g,75,g,10,g,0,g,0,g,1,g,16,g
+145,brusters,strawberry swirl no sugar added ice cream on a sugar cone small,0,g,0,mg,150,g,54,g,7,g,0,g,0,g,1,g,12,g
+146,brusters,strawberry swirl no sugar added ice cream on a waffle cone large,3,g,10,mg,260,g,106,g,14,g,1,g,0,g,1,g,28,g
+147,brusters,strawberry swirl no sugar added ice cream on a waffle cone regular,3,g,10,mg,200,g,85,g,11,g,1,g,0,g,1,g,23,g
+148,brusters,strawberry swirl no sugar added ice cream on a waffle cone small,3,g,10,mg,130,g,65,g,8,g,1,g,0,g,1,g,19,g
+149,brusters,super hero sherbet ice in a dish regular,0,g,0,mg,20,g,63,g,0,g,0,g,0,g,0,g,58,g
+150,brusters,super hero sherbet ice in a dish small,0,g,0,mg,15,g,42,g,0,g,0,g,0,g,0,g,39,g
+151,brusters,super hero sherbet ice on a cake cone large,0,g,0,mg,40,g,89,g,1,g,0,g,0,g,0,g,78,g
+152,brusters,super hero sherbet ice on a cake cone regular,0,g,0,mg,30,g,68,g,1,g,0,g,0,g,0,g,59,g
+153,brusters,super hero sherbet ice on a cake cone small,0,g,0,mg,25,g,47,g,1,g,0,g,0,g,0,g,39,g
+154,brusters,super hero sherbet ice on a sugar cone large,0,g,0,mg,50,g,96,g,1,g,0,g,0,g,0,g,81,g
+155,brusters,super hero sherbet ice on a sugar cone regular,0,g,0,mg,40,g,75,g,1,g,0,g,0,g,0,g,61,g
+156,brusters,super hero sherbet ice on a sugar cone small,0,g,0,mg,35,g,54,g,1,g,0,g,0,g,0,g,42,g
+157,brusters,super hero sherbet ice on a waffle cone large,3,g,10,mg,30,g,107,g,2,g,1,g,0,g,0,g,88,g
+158,brusters,super hero sherbet ice on a waffle cone regular,3,g,10,mg,20,g,86,g,2,g,1,g,0,g,0,g,69,g
+159,brusters,super hero sherbet ice on a waffle cone small,3,g,10,mg,15,g,65,g,2,g,1,g,0,g,0,g,49,g
+160,brusters,super hero sherbetice in a dish large,0,g,0,mg,30,g,84,g,0,g,0,g,0,g,0,g,78,g
+161,brusters,thin mint ice cream in a dish large,37,g,90,mg,250,g,79,g,8,g,22,g,0,g,0,g,56,g
+162,brusters,thin mint ice cream in a dish regular,28,g,65,mg,190,g,59,g,6,g,16,g,0,g,0,g,42,g
+163,brusters,thin mint ice cream in a dish small,19,g,45,mg,125,g,40,g,4,g,11,g,0,g,0,g,28,g
+164,brusters,thin mint ice cream on a cake cone large,37,g,90,mg,260,g,84,g,9,g,22,g,0,g,0,g,56,g
+165,brusters,thin mint ice cream on a cake cone regular,28,g,65,mg,200,g,64,g,7,g,16,g,0,g,0,g,42,g
+166,brusters,thin mint ice cream on a cake cone small,19,g,45,mg,135,g,45,g,5,g,11,g,0,g,0,g,28,g
+167,brusters,thin mint ice cream on a sugar cone large,37,g,90,mg,270,g,91,g,9,g,22,g,0,g,0,g,59,g
+168,brusters,thin mint ice cream on a sugar cone regular,28,g,65,mg,210,g,71,g,7,g,16,g,0,g,0,g,45,g
+169,brusters,thin mint ice cream on a sugar cone small,19,g,45,mg,150,g,52,g,5,g,11,g,0,g,0,g,31,g
+170,brusters,thin mint ice cream on a waffle cone large,40,g,95,mg,250,g,102,g,10,g,23,g,0,g,0,g,67,g
+171,brusters,thin mint ice cream on a waffle cone regular,31,g,75,mg,190,g,82,g,8,g,17,g,0,g,0,g,53,g
+172,brusters,thin mint ice cream on a waffle cone small,22,g,50,mg,125,g,62,g,6,g,12,g,0,g,0,g,38,g
+173,brusters,tin lizzy ice cream in a dish large,35,g,85,mg,500,g,87,g,7,g,22,g,0,g,0,g,70,g
+174,brusters,tin lizzy ice cream in a dish regular,27,g,65,mg,370,g,65,g,6,g,16,g,0,g,0,g,52,g
+175,brusters,tin lizzy ice cream in a dish small,18,g,45,mg,250,g,43,g,4,g,11,g,0,g,0,g,35,g
+176,brusters,tin lizzy ice cream on a cake cone large,35,g,85,mg,510,g,92,g,8,g,22,g,0,g,0,g,70,g
+177,brusters,tin lizzy ice cream on a cake cone regular,27,g,65,mg,380,g,70,g,6,g,16,g,0,g,0,g,53,g
+178,brusters,tin lizzy ice cream on a cake cone small,18,g,45,mg,260,g,48,g,4,g,11,g,0,g,0,g,35,g
+179,brusters,tin lizzy ice cream on a sugar cone large,36,g,85,mg,520,g,99,g,8,g,22,g,0,g,0,g,73,g
+180,brusters,tin lizzy ice cream on a sugar cone regular,27,g,65,mg,390,g,77,g,6,g,16,g,0,g,0,g,55,g
+181,brusters,tin lizzy ice cream on a sugar cone small,18,g,45,mg,270,g,55,g,4,g,11,g,0,g,0,g,38,g
+182,brusters,tin lizzy ice cream on a waffle cone large,38,g,95,mg,500,g,110,g,9,g,23,g,0,g,0,g,80,g
+183,brusters,tin lizzy ice cream on a waffle cone regular,30,g,70,mg,370,g,88,g,7,g,17,g,0,g,0,g,63,g
+184,brusters,tin lizzy ice cream on a waffle cone small,21,g,50,mg,250,g,66,g,5,g,12,g,0,g,0,g,45,g
+185,brusters,tiramisu ice cream in a dish large,32,g,80,mg,370,g,90,g,8,g,20,g,0,g,1,g,71,g
+186,brusters,tiramisu ice cream in a dish regular,24,g,60,mg,280,g,67,g,6,g,15,g,0,g,1,g,53,g
+187,brusters,tiramisu ice cream in a dish small,16,g,40,mg,180,g,45,g,4,g,10,g,0,g,0,g,35,g
+188,brusters,tiramisu ice cream on a cake cone large,32,g,80,mg,380,g,95,g,9,g,20,g,0,g,1,g,71,g
+189,brusters,tiramisu ice cream on a cake cone regular,24,g,60,mg,290,g,72,g,7,g,15,g,0,g,1,g,53,g
+190,brusters,tiramisu ice cream on a cake cone small,16,g,40,mg,190,g,50,g,5,g,10,g,0,g,0,g,35,g
+191,brusters,tiramisu ice cream on a sugar cone large,32,g,80,mg,390,g,102,g,9,g,20,g,0,g,1,g,74,g
+192,brusters,tiramisu ice cream on a sugar cone regular,24,g,60,mg,300,g,79,g,7,g,15,g,0,g,1,g,56,g
+193,brusters,tiramisu ice cream on a sugar cone small,16,g,40,mg,200,g,57,g,5,g,10,g,0,g,0,g,38,g
+194,brusters,tiramisu ice cream on a waffle cone large,35,g,85,mg,370,g,113,g,10,g,21,g,0,g,1,g,81,g
+195,brusters,tiramisu ice cream on a waffle cone regular,27,g,65,mg,280,g,90,g,8,g,16,g,0,g,1,g,63,g
+196,brusters,tiramisu ice cream on a waffle cone small,19,g,45,mg,180,g,68,g,6,g,11,g,0,g,0,g,45,g
+197,brusters,toasted almond ice cream in a dish large,44,g,90,mg,330,g,66,g,13,g,19,g,0,g,4,g,48,g
+198,brusters,toasted almond ice cream in a dish regular,33,g,65,mg,250,g,49,g,10,g,14,g,0,g,3,g,36,g
+199,brusters,toasted almond ice cream in a dish small,22,g,45,mg,160,g,33,g,6,g,9,g,0,g,2,g,24,g
+200,brusters,toasted almond ice cream on a cake cone large,45,g,90,mg,340,g,71,g,13,g,19,g,0,g,4,g,48,g
+201,brusters,toasted almond ice cream on a cake cone regular,33,g,65,mg,260,g,54,g,10,g,14,g,0,g,3,g,36,g
+202,brusters,toasted almond ice cream on a cake cone small,22,g,45,mg,170,g,38,g,7,g,9,g,0,g,2,g,24,g
+203,brusters,toasted almond ice cream on a sugar cone large,45,g,90,mg,350,g,78,g,13,g,19,g,0,g,4,g,51,g
+204,brusters,toasted almond ice cream on a sugar cone regular,34,g,65,mg,270,g,61,g,10,g,14,g,0,g,3,g,39,g
+205,brusters,toasted almond ice cream on a sugar cone small,22,g,45,mg,180,g,45,g,7,g,9,g,0,g,2,g,27,g
+206,brusters,toasted almond ice cream on a waffle cone large,48,g,95,mg,330,g,89,g,15,g,20,g,0,g,4,g,58,g
+207,brusters,toasted almond ice cream on a waffle cone regular,36,g,75,mg,250,g,72,g,11,g,15,g,0,g,3,g,46,g
+208,brusters,toasted almond ice cream on a waffle cone small,25,g,50,mg,160,g,56,g,8,g,10,g,0,g,2,g,34,g
+209,brusters,toffee bar crunch ice cream in a dish large,40,g,95,mg,290,g,75,g,8,g,24,g,0,g,0,g,62,g
+210,brusters,toffee bar crunch ice cream in a dish regular,30,g,70,mg,220,g,56,g,6,g,18,g,0,g,0,g,47,g
+211,brusters,toffee bar crunch ice cream in a dish small,20,g,50,mg,150,g,38,g,4,g,12,g,0,g,0,g,31,g
+212,brusters,toffee bar crunch ice cream on a cake cone large,40,g,95,mg,300,g,80,g,8,g,24,g,0,g,0,g,63,g
+213,brusters,toffee bar crunch ice cream on a cake cone regular,30,g,70,mg,230,g,61,g,6,g,18,g,0,g,0,g,47,g
+214,brusters,toffee bar crunch ice cream on a cake cone small,20,g,50,mg,160,g,43,g,4,g,12,g,0,g,0,g,31,g
+215,brusters,toffee bar crunch ice cream on a sugar cone large,40,g,95,mg,310,g,87,g,8,g,24,g,0,g,0,g,65,g
+216,brusters,toffee bar crunch ice cream on a sugar cone regular,30,g,70,mg,240,g,68,g,6,g,18,g,0,g,0,g,50,g
+217,brusters,toffee bar crunch ice cream on a sugar cone small,20,g,50,mg,170,g,50,g,4,g,12,g,0,g,0,g,34,g
+218,brusters,toffee bar crunch ice cream on a waffle cone large,43,g,105,mg,290,g,98,g,9,g,25,g,0,g,0,g,73,g
+219,brusters,toffee bar crunch ice cream on a waffle cone regular,33,g,80,mg,220,g,79,g,7,g,19,g,0,g,0,g,57,g
+220,brusters,toffee bar crunch ice cream on a waffle cone small,23,g,55,mg,150,g,60,g,5,g,13,g,0,g,0,g,41,g
+221,brusters,toffee bar ice cream in a dish large,39,g,95,mg,250,g,78,g,8,g,22,g,0,g,0,g,64,g
+222,brusters,toffee bar ice cream in a dish regular,29,g,70,mg,180,g,58,g,6,g,17,g,0,g,0,g,48,g
+223,brusters,toffee bar ice cream in a dish small,20,g,45,mg,125,g,39,g,4,g,11,g,0,g,0,g,32,g
+224,brusters,toffee bar ice cream on a cake cone large,39,g,95,mg,260,g,83,g,9,g,22,g,0,g,0,g,64,g
+225,brusters,toffee bar ice cream on a cake cone regular,29,g,70,mg,190,g,63,g,7,g,17,g,0,g,0,g,48,g
+226,brusters,toffee bar ice cream on a cake cone small,20,g,45,mg,135,g,44,g,5,g,11,g,0,g,0,g,32,g
+227,brusters,toffee bar ice cream on a sugar cone large,39,g,95,mg,270,g,90,g,9,g,22,g,0,g,0,g,67,g
+228,brusters,toffee bar ice cream on a sugar cone regular,30,g,70,mg,200,g,70,g,7,g,17,g,0,g,0,g,51,g
+229,brusters,toffee bar ice cream on a sugar cone small,20,g,45,mg,140,g,51,g,5,g,11,g,0,g,0,g,35,g
+230,brusters,toffee bar ice cream on a waffle cone large,42,g,100,mg,250,g,100,g,10,g,23,g,0,g,0,g,75,g
+231,brusters,toffee bar ice cream on a waffle cone regular,33,g,80,mg,180,g,81,g,8,g,18,g,0,g,0,g,58,g
+232,brusters,toffee bar ice cream on a waffle cone small,23,g,55,mg,125,g,62,g,6,g,12,g,0,g,0,g,42,g
+233,brusters,triple chocolate oreo ice cream in a dish large,36,g,75,mg,300,g,114,g,10,g,18,g,0.5,g,3,g,75,g
+234,brusters,triple chocolate oreo ice cream in a dish regular,28,g,55,mg,230,g,91,g,8,g,14,g,0,g,2,g,59,g
+235,brusters,triple chocolate oreo ice cream in a dish small,20,g,40,mg,150,g,68,g,6,g,9,g,0,g,1,g,43,g
+236,brusters,triple chocolate oreo ice cream on a cake cone large,34,g,65,mg,320,g,103,g,9,g,17,g,0.5,g,3,g,68,g
+237,brusters,triple chocolate oreo ice cream on a cake cone regular,25,g,50,mg,250,g,80,g,7,g,13,g,0,g,2,g,52,g
+238,brusters,triple chocolate oreo ice cream on a cake cone small,17,g,30,mg,170,g,57,g,5,g,9,g,0,g,1,g,35,g
+239,brusters,triple chocolate oreo ice cream on a sugar cone large,33,g,65,mg,300,g,91,g,8,g,17,g,0.5,g,3,g,65,g
+240,brusters,triple chocolate oreo ice cream on a sugar cone regular,25,g,50,mg,230,g,68,g,6,g,13,g,0,g,2,g,49,g
+241,brusters,triple chocolate oreo ice cream on a sugar cone small,17,g,30,mg,150,g,45,g,4,g,9,g,0,g,1,g,32,g
+242,brusters,triple chocolate oreo ice cream on a waffle cone large,33,g,65,mg,310,g,96,g,9,g,17,g,0.5,g,3,g,65,g
+243,brusters,triple chocolate oreo ice cream on a waffle cone regular,25,g,50,mg,240,g,73,g,7,g,13,g,0,g,2,g,49,g
+244,brusters,triple chocolate oreo ice cream on a waffle cone small,17,g,30,mg,160,g,50,g,5,g,9,g,0,g,1,g,33,g
+245,brusters,turtle cheesecake ice cream in a dish large,42,g,65,mg,370,g,82,g,8,g,17,g,0,g,3,g,63,g
+246,brusters,turtle cheesecake ice cream in a dish regular,31,g,50,mg,270,g,62,g,6,g,13,g,0,g,2,g,47,g
+247,brusters,turtle cheesecake ice cream in a dish small,21,g,35,mg,180,g,41,g,4,g,8,g,0,g,1,g,32,g
+248,brusters,turtle cheesecake ice cream on a cake cone large,42,g,65,mg,380,g,87,g,9,g,17,g,0,g,3,g,63,g
+249,brusters,turtle cheesecake ice cream on a cake cone regular,31,g,50,mg,280,g,67,g,7,g,13,g,0,g,2,g,47,g
+250,brusters,turtle cheesecake ice cream on a cake cone small,21,g,35,mg,190,g,46,g,5,g,8,g,0,g,1,g,32,g
+251,brusters,turtle cheesecake ice cream on a sugar cone large,42,g,65,mg,390,g,94,g,9,g,17,g,0,g,3,g,66,g
+252,brusters,turtle cheesecake ice cream on a sugar cone regular,31,g,50,mg,290,g,74,g,7,g,13,g,0,g,2,g,50,g
+253,brusters,turtle cheesecake ice cream on a sugar cone small,21,g,35,mg,200,g,53,g,5,g,8,g,0,g,1,g,35,g
+254,brusters,turtle cheesecake ice cream on a waffle cone large,45,g,75,mg,370,g,105,g,10,g,18,g,0,g,3,g,73,g
+255,brusters,turtle cheesecake ice cream on a waffle cone regular,34,g,60,mg,270,g,85,g,8,g,13,g,0,g,2,g,58,g
+256,brusters,turtle cheesecake ice cream on a waffle cone small,24,g,40,mg,180,g,64,g,6,g,9,g,0,g,1,g,42,g
+257,brusters,turtle ice cream in a dish large,44,g,70,mg,290,g,79,g,9,g,18,g,0,g,3,g,58,g
+258,brusters,turtle ice cream in a dish regular,33,g,55,mg,220,g,59,g,7,g,13,g,0,g,2,g,44,g
+259,brusters,turtle ice cream in a dish small,22,g,35,mg,140,g,39,g,4,g,9,g,0,g,1,g,29,g
+260,brusters,turtle ice cream on a cake cone large,45,g,70,mg,300,g,84,g,9,g,18,g,0,g,3,g,58,g
+261,brusters,turtle ice cream on a cake cone regular,33,g,55,mg,230,g,64,g,7,g,13,g,0,g,2,g,44,g
+262,brusters,turtle ice cream on a cake cone small,22,g,35,mg,150,g,44,g,5,g,9,g,0,g,1,g,29,g
+263,brusters,turtle ice cream on a sugar cone large,45,g,70,mg,310,g,91,g,9,g,18,g,0,g,3,g,61,g
+264,brusters,turtle ice cream on a sugar cone regular,34,g,55,mg,240,g,71,g,7,g,13,g,0,g,2,g,47,g
+265,brusters,turtle ice cream on a sugar cone small,22,g,35,mg,160,g,51,g,5,g,9,g,0,g,1,g,32,g
+266,brusters,turtle ice cream on a waffle cone large,48,g,80,mg,290,g,102,g,11,g,19,g,0,g,3,g,68,g
+267,brusters,turtle ice cream on a waffle cone regular,36,g,60,mg,220,g,82,g,8,g,14,g,0,g,2,g,54,g
+268,brusters,turtle ice cream on a waffle cone small,25,g,45,mg,140,g,62,g,6,g,10,g,0,g,1,g,39,g
+269,brusters,turtle sundae,52,g,75,mg,460,g,117,g,9,g,25,g,0,g,3,g,84,g
+270,brusters,tuxedo strawberry ice cream in a dish large,33,g,70,mg,190,g,87,g,7,g,22,g,0,g,1,g,73,g
+271,brusters,tuxedo strawberry ice cream in a dish regular,25,g,50,mg,150,g,65,g,6,g,16,g,0,g,1,g,55,g
+272,brusters,tuxedo strawberry ice cream in a dish small,16,g,35,mg,95,g,44,g,4,g,11,g,0,g,1,g,36,g
+273,brusters,tuxedo strawberry ice cream on a cake cone large,33,g,70,mg,200,g,92,g,8,g,22,g,0,g,1,g,73,g
+274,brusters,tuxedo strawberry ice cream on a cake cone regular,25,g,50,mg,160,g,70,g,6,g,16,g,0,g,1,g,55,g
+275,brusters,tuxedo strawberry ice cream on a cake cone small,16,g,35,mg,105,g,49,g,4,g,11,g,0,g,1,g,37,g
+276,brusters,tuxedo strawberry ice cream on a sugar cone large,33,g,70,mg,210,g,99,g,8,g,22,g,0,g,1,g,76,g
+277,brusters,tuxedo strawberry ice cream on a sugar cone regular,25,g,50,mg,170,g,77,g,6,g,16,g,0,g,1,g,58,g
+278,brusters,tuxedo strawberry ice cream on a sugar cone small,17,g,35,mg,115,g,56,g,4,g,11,g,0,g,1,g,39,g
+279,brusters,tuxedo strawberry ice cream on a waffle cone large,36,g,75,mg,190,g,110,g,9,g,22,g,0,g,1,g,83,g
+280,brusters,tuxedo strawberry ice cream on a waffle cone regular,28,g,60,mg,150,g,88,g,7,g,17,g,0,g,1,g,65,g
+281,brusters,tuxedo strawberry ice cream on a waffle cone small,19,g,40,mg,95,g,66,g,5,g,12,g,0,g,1,g,47,g
+282,brusters,vanilla ice cream cake 8 in,13,g,35,mg,170,g,36,g,4,g,7,g,0,g,0,g,26,g
+283,brusters,vanilla ice cream cake quarter sheet cake,16,g,45,mg,200,g,45,g,5,g,9,g,0,g,0,g,33,g
+284,brusters,vanilla ice cream in a dish large,34,g,100,mg,170,g,67,g,8,g,20,g,0,g,0,g,53,g
+285,brusters,vanilla ice cream in a dish regular,25,g,75,mg,125,g,50,g,6,g,15,g,0,g,0,g,40,g
+286,brusters,vanilla ice cream in a dish small,17,g,50,mg,85,g,34,g,4,g,10,g,0,g,0,g,27,g
+287,brusters,vanilla ice cream on a cake cone large,34,g,100,mg,180,g,72,g,9,g,20,g,0,g,0,g,53,g
+288,brusters,vanilla ice cream on a cake cone regular,25,g,75,mg,135,g,55,g,7,g,15,g,0,g,0,g,40,g
+289,brusters,vanilla ice cream on a cake cone small,17,g,50,mg,95,g,39,g,5,g,10,g,0,g,0,g,27,g
+290,brusters,vanilla ice cream on a sugar cone large,34,g,100,mg,190,g,79,g,9,g,20,g,0,g,0,g,56,g
+291,brusters,vanilla ice cream on a sugar cone regular,25,g,75,mg,150,g,62,g,7,g,15,g,0,g,0,g,43,g
+292,brusters,vanilla ice cream on a sugar cone small,17,g,50,mg,105,g,46,g,5,g,10,g,0,g,0,g,30,g
+293,brusters,vanilla ice cream on a waffle cone large,37,g,105,mg,170,g,90,g,10,g,20,g,0,g,0,g,63,g
+294,brusters,vanilla ice cream on a waffle cone regular,28,g,80,mg,125,g,73,g,8,g,15,g,0,g,0,g,50,g
+295,brusters,vanilla ice cream on a waffle cone small,20,g,55,mg,85,g,56,g,6,g,11,g,0,g,0,g,37,g
+296,brusters,vanilla ice cream pie,26,g,60,mg,240,g,63,g,6,g,14,g,0,g,1,g,44,g
+297,brusters,vanilla milkshake large,58,g,170,mg,350,g,167,g,20,g,34,g,0,g,0,g,139,g
+298,brusters,vanilla milkshake regular,38,g,110,mg,220,g,110,g,12,g,22,g,0,g,0,g,91,g
+299,brusters,vanilla no sugar added ice cream in a dish large,0,g,0,mg,290,g,73,g,14,g,0,g,0,g,1,g,20,g
+300,brusters,vanilla no sugar added ice cream in a dish regular,0,g,0,mg,220,g,55,g,11,g,0,g,0,g,1,g,15,g
+301,brusters,vanilla no sugar added ice cream in a dish small,0,g,0,mg,150,g,36,g,7,g,0,g,0,g,1,g,10,g
+302,brusters,vanilla no sugar added ice cream on a cake cone large,0,g,0,mg,300,g,78,g,15,g,0,g,0,g,1,g,20,g
+303,brusters,vanilla no sugar added ice cream on a cake cone regular,0,g,0,mg,230,g,60,g,11,g,0,g,0,g,1,g,15,g
+304,brusters,vanilla no sugar added ice cream on a cake cone small,0,g,0,mg,160,g,41,g,8,g,0,g,0,g,1,g,10,g
+305,brusters,vanilla no sugar added ice cream on a sugar cone large,0,g,0,mg,310,g,85,g,15,g,0,g,0,g,1,g,23,g
+306,brusters,vanilla no sugar added ice cream on a sugar cone regular,0,g,0,mg,240,g,67,g,11,g,0,g,0,g,1,g,18,g
+307,brusters,vanilla no sugar added ice cream on a sugar cone small,0,g,0,mg,170,g,48,g,8,g,0,g,0,g,1,g,13,g
+308,brusters,vanilla no sugar added ice cream on a waffle cone large,3,g,10,mg,290,g,96,g,16,g,1,g,0,g,1,g,30,g
+309,brusters,vanilla no sugar added ice cream on a waffle cone regular,3,g,10,mg,220,g,77,g,12,g,1,g,0,g,1,g,25,g
+310,brusters,vanilla no sugar added ice cream on a waffle cone small,3,g,10,mg,150,g,59,g,9,g,1,g,0,g,1,g,20,g
+311,brusters,warm peanut butter sundae,66,g,75,mg,500,g,96,g,19,g,30,g,0,g,5,g,79,g
+312,brusters,watermelon sherbet ice in a dish large,0,g,0,mg,30,g,85,g,0,g,0,g,0,g,0,g,79,g
+313,brusters,watermelon sherbet ice in a dish regular,0,g,0,mg,25,g,64,g,0,g,0,g,0,g,0,g,59,g
+314,brusters,watermelon sherbet ice in a dish small,0,g,0,mg,15,g,42,g,0,g,0,g,0,g,0,g,39,g
+315,brusters,watermelon sherbet ice on a cake cone large,0,g,0,mg,40,g,90,g,1,g,0,g,0,g,0,g,79,g
+316,brusters,watermelon sherbet ice on a cake cone regular,0,g,0,mg,35,g,69,g,1,g,0,g,0,g,0,g,59,g
+317,brusters,watermelon sherbet ice on a cake cone small,0,g,0,mg,25,g,47,g,1,g,0,g,0,g,0,g,40,g
+318,brusters,watermelon sherbet ice on a sugar cone large,0,g,0,mg,50,g,97,g,1,g,0,g,0,g,0,g,82,g
+319,brusters,watermelon sherbet ice on a sugar cone regular,0,g,0,mg,45,g,76,g,1,g,0,g,0,g,0,g,62,g
+320,brusters,watermelon sherbet ice on a sugar cone small,0,g,0,mg,35,g,54,g,1,g,0,g,0,g,0,g,42,g
+321,brusters,watermelon sherbet ice on a waffle cone large,3,g,10,mg,30,g,108,g,2,g,1,g,0,g,0,g,89,g
+322,brusters,watermelon sherbet ice on a waffle cone regular,3,g,10,mg,25,g,86,g,2,g,1,g,0,g,0,g,69,g
+323,brusters,watermelon sherbet ice on a waffle cone small,3,g,10,mg,15,g,65,g,2,g,1,g,0,g,0,g,50,g
+324,brusters,white almond fudge ice cream in a dish regular,18,g,35,mg,115,g,45,g,5,g,8,g,0,g,1,g,34,g
+325,brusters,white almond fudge ice cream in a dish regular 1,27,g,55,mg,170,g,67,g,8,g,12,g,0,g,2,g,51,g
+326,brusters,white almond fudge ice cream in a dish regular 2,36,g,70,mg,230,g,89,g,11,g,17,g,0,g,3,g,68,g
+327,brusters,white almond fudge ice cream on a cake cone regular,18,g,35,mg,125,g,50,g,6,g,8,g,0,g,1,g,34,g
+328,brusters,white almond fudge ice cream on a cake cone regular 1,27,g,55,mg,180,g,72,g,9,g,12,g,0,g,2,g,51,g
+329,brusters,white almond fudge ice cream on a cake cone regular 2,36,g,70,mg,240,g,94,g,11,g,17,g,0,g,3,g,68,g
+330,brusters,white almond fudge ice cream on a sugar cone regular,18,g,35,mg,135,g,57,g,6,g,8,g,0,g,1,g,37,g
+331,brusters,white almond fudge ice cream on a sugar cone regular 1,27,g,55,mg,190,g,79,g,9,g,12,g,0,g,2,g,54,g
+332,brusters,white almond fudge ice cream on a sugar cone regular 2,36,g,70,mg,250,g,101,g,11,g,17,g,0,g,3,g,71,g
+333,brusters,white almond fudge ice cream on a waffle cone regular,21,g,45,mg,115,g,67,g,7,g,9,g,0,g,1,g,44,g
+334,brusters,white almond fudge ice cream on a waffle cone regular 1,30,g,60,mg,170,g,90,g,10,g,13,g,0,g,2,g,61,g
+335,brusters,white almond fudge ice cream on a waffle cone regular 2,39,g,80,mg,230,g,112,g,12,g,17,g,0,g,3,g,78,g
+336,brusters,white chocolate oreo in a dish large,34,g,75,mg,290,g,94,g,9,g,18,g,0,g,1,g,71,g
+337,brusters,white chocolate oreo in a dish regular,25,g,60,mg,220,g,70,g,6,g,13,g,0,g,1,g,53,g
+338,brusters,white chocolate oreo in a dish small,17,g,40,mg,150,g,47,g,4,g,9,g,0,g,0,g,35,g
+339,brusters,white chocolate oreo on a cake cone large,34,g,75,mg,300,g,99,g,9,g,18,g,0,g,1,g,71,g
+340,brusters,white chocolate oreo on a cake cone regular,25,g,60,mg,230,g,75,g,7,g,13,g,0,g,1,g,53,g
+341,brusters,white chocolate oreo on a cake cone small,17,g,40,mg,160,g,52,g,5,g,9,g,0,g,0,g,35,g
+342,brusters,white chocolate oreo on a sugar cone large,34,g,75,mg,310,g,106,g,9,g,18,g,0,g,1,g,74,g
+343,brusters,white chocolate oreo on a sugar cone regular,25,g,60,mg,240,g,82,g,7,g,13,g,0,g,1,g,56,g
+344,brusters,white chocolate oreo on a sugar cone small,17,g,40,mg,170,g,59,g,5,g,9,g,0,g,0,g,38,g
+345,brusters,white chocolate oreo on a waffle cone large,37,g,85,mg,290,g,117,g,10,g,19,g,0,g,1,g,81,g
+346,brusters,white chocolate oreo on a waffle cone regular,28,g,65,mg,220,g,93,g,8,g,14,g,0,g,1,g,63,g
+347,brusters,white chocolate oreo on a waffle cone small,20,g,45,mg,150,g,70,g,6,g,10,g,0,g,0,g,46,g
+348,brusters,white galaxy in a dish large,30,g,85,mg,220,g,89,g,8,g,17,g,0,g,0,g,66,g
+349,brusters,white galaxy in a dish regular,22,g,65,mg,160,g,67,g,6,g,13,g,0,g,0,g,50,g
+350,brusters,white galaxy in a dish small,15,g,45,mg,110,g,44,g,4,g,9,g,0,g,0,g,33,g
+351,brusters,white galaxy on a cake cone large,30,g,85,mg,230,g,94,g,9,g,17,g,0,g,0,g,66,g
+352,brusters,white galaxy on a cake cone regular,22,g,65,mg,170,g,72,g,7,g,13,g,0,g,0,g,50,g
+353,brusters,white galaxy on a cake cone small,15,g,45,mg,120,g,49,g,5,g,9,g,0,g,0,g,33,g
+354,brusters,white galaxy on a sugar cone large,30,g,85,mg,240,g,101,g,9,g,17,g,0,g,0,g,69,g
+355,brusters,white galaxy on a sugar cone regular,23,g,65,mg,180,g,79,g,7,g,13,g,0,g,0,g,53,g
+356,brusters,white galaxy on a sugar cone small,15,g,45,mg,130,g,56,g,5,g,9,g,0,g,0,g,36,g
+357,brusters,white galaxy on a waffle cone large,33,g,95,mg,220,g,112,g,10,g,18,g,0,g,0,g,76,g
+358,brusters,white galaxy on a waffle cone regular,25,g,75,mg,160,g,90,g,8,g,14,g,0,g,0,g,60,g
+359,brusters,white galaxy on a waffle cone small,18,g,50,mg,110,g,67,g,6,g,10,g,0,g,0,g,43,g
+360,brusters,white raspberry truffle in a dish large,34,g,75,mg,240,g,88,g,8,g,22,g,0,g,1,g,69,g
+361,brusters,white raspberry truffle in a dish regular,26,g,60,mg,180,g,66,g,6,g,17,g,0,g,1,g,52,g
+362,brusters,white raspberry truffle in a dish small,17,g,40,mg,120,g,44,g,4,g,11,g,0,g,1,g,34,g
+363,brusters,white raspberry truffle on a cake cone large,34,g,75,mg,250,g,93,g,8,g,22,g,0,g,1,g,69,g
+364,brusters,white raspberry truffle on a cake cone regular,26,g,60,mg,190,g,71,g,6,g,17,g,0,g,1,g,52,g
+365,brusters,white raspberry truffle on a cake cone small,17,g,40,mg,130,g,49,g,4,g,11,g,0,g,1,g,34,g
+366,brusters,white raspberry truffle on a sugar cone large,34,g,75,mg,260,g,100,g,8,g,22,g,0,g,1,g,72,g
+367,brusters,white raspberry truffle on a sugar cone regular,26,g,60,mg,200,g,78,g,6,g,17,g,0,g,1,g,55,g
+368,brusters,white raspberry truffle on a sugar cone small,17,g,40,mg,140,g,56,g,4,g,11,g,0,g,1,g,37,g
+369,brusters,white raspberry truffle on a waffle cone large,37,g,85,mg,240,g,111,g,9,g,23,g,0,g,1,g,79,g
+370,brusters,white raspberry truffle on a waffle cone regular,29,g,65,mg,180,g,89,g,7,g,18,g,0,g,1,g,62,g
+371,brusters,white raspberry truffle on a waffle cone small,20,g,45,mg,120,g,67,g,5,g,12,g,0,g,1,g,45,g
+372,brusters,white turtle in a dish large,22,g,45,mg,420,g,158,g,7,g,10,g,0,g,1,g,104,g
+373,brusters,white turtle in a dish regular,17,g,35,mg,310,g,118,g,5,g,8,g,0,g,1,g,78,g
+374,brusters,white turtle in a dish small,11,g,25,mg,210,g,79,g,3,g,5,g,0,g,0,g,52,g
+375,brusters,white turtle on a cake cone large,22,g,45,mg,430,g,163,g,7,g,10,g,0,g,1,g,104,g
+376,brusters,white turtle on a cake cone regular,17,g,35,mg,320,g,123,g,5,g,8,g,0,g,1,g,78,g
+377,brusters,white turtle on a cake cone small,11,g,25,mg,220,g,84,g,4,g,5,g,0,g,0,g,52,g
+378,brusters,white turtle on a sugar cone large,22,g,45,mg,440,g,170,g,7,g,10,g,0,g,1,g,107,g
+379,brusters,white turtle on a sugar cone regular,17,g,35,mg,330,g,130,g,5,g,8,g,0,g,1,g,81,g
+380,brusters,white turtle on a sugar cone small,11,g,25,mg,230,g,91,g,4,g,5,g,0,g,0,g,55,g
+381,brusters,white turtle on a waffle cone large,25,g,55,mg,420,g,181,g,8,g,11,g,0,g,1,g,114,g
+382,brusters,white turtle on a waffle cone regular,20,g,45,mg,310,g,141,g,7,g,9,g,0,g,1,g,88,g
+383,brusters,white turtle on a waffle cone small,14,g,30,mg,210,g,102,g,5,g,6,g,0,g,0,g,62,g
+384,brusters,winter wonder in a dish large,31,g,80,mg,160,g,92,g,8,g,18,g,0,g,0,g,74,g
+385,brusters,winter wonder in a dish regular,23,g,60,mg,120,g,69,g,6,g,14,g,0,g,0,g,55,g
+386,brusters,winter wonder in a dish small,15,g,40,mg,80,g,46,g,4,g,9,g,0,g,0,g,37,g
+387,brusters,winter wonder on a cake cone large,31,g,80,mg,170,g,97,g,8,g,18,g,0,g,0,g,74,g
+388,brusters,winter wonder on a cake cone regular,23,g,60,mg,130,g,74,g,6,g,14,g,0,g,0,g,55,g
+389,brusters,winter wonder on a cake cone small,16,g,40,mg,90,g,51,g,4,g,9,g,0,g,0,g,37,g
+390,brusters,winter wonder on a sugar cone large,31,g,80,mg,180,g,104,g,8,g,18,g,0,g,0,g,77,g
+391,brusters,winter wonder on a sugar cone regular,23,g,60,mg,140,g,81,g,6,g,14,g,0,g,0,g,58,g
+392,brusters,winter wonder on a sugar cone small,16,g,40,mg,100,g,58,g,4,g,9,g,0,g,0,g,40,g
+393,brusters,winter wonder on a waffle cone large,34,g,90,mg,160,g,115,g,9,g,19,g,0,g,0,g,84,g
+394,brusters,winter wonder on a waffle cone regular,26,g,70,mg,120,g,92,g,7,g,14,g,0,g,0,g,65,g
+395,brusters,winter wonder on a waffle cone small,19,g,50,mg,80,g,69,g,5,g,10,g,0,g,0,g,47,g
+396,buca di beppo,small fried calamari,7,g,65,mg,270,g,8,g,5,g,1,g,0,g,1,g,2,g
+397,buca di beppo,small fried mozzarella,21,g,50,mg,790,g,25,g,18,g,7,g,0,g,2,g,7,g
+398,buca di beppo,small garlic bread,2.5,g,0,mg,110,g,8,g,2,g,0,g,0,g,0,g,0,g
+399,buca di beppo,small mussels bianca,37,g,260,mg,630,g,5,g,57,g,19,g,0,g,0,g,0,g
+400,buca di beppo,small mussels marinara,38,g,260,mg,790,g,8,g,58,g,19,g,0,g,1,g,2,g
+401,buca di beppo,small mozzarella garlic bread,3.5,g,0,mg,140,g,8,g,3,g,1,g,0,g,0,g,0,g
+402,buca di beppo,spicy shrimp small,26,g,95,mg,2130,g,28,g,11,g,9,g,0,g,4,g,1,g
+403,buca di beppo,bruschetta small,25,g,40,mg,1340,g,26,g,18,g,9,g,0.5,g,3,g,5,g
+404,buca di beppo,small fried mac n cheese,18,g,50,mg,1170,g,32,g,14,g,10,g,0,g,2,g,3,g
+405,buca di beppo,small world famous meatballs,16,g,120,mg,700,g,12,g,28,g,60,g,0.5,g,3,g,3,g
+406,buca di beppo,spinach artichoke dip small,22,g,30,mg,490,g,52,g,11,g,12,g,0,g,2,g,2,g
+407,buca di beppo,small mozzarella caprese,16,g,25,mg,430,g,3,g,7,g,5,g,0,g,1,g,2,g
+408,buca di beppo,small chocolate cake,28,g,50,mg,50,g,77,g,5,g,12,g,0,g,4,g,58,g
+409,buca di beppo,small italian creme cake,23,g,80,mg,180,g,40,g,3,g,12,g,0,g,1,g,27,g
+410,buca di beppo,small tiramisu,55,g,140,mg,135,g,70,g,13,g,29,g,1.5,g,1,g,54,g
+411,buca di beppo,small colossal brownie sundae,54,g,110,mg,600,g,174,g,8,g,27,g,0,g,6,g,133,g
+412,buca di beppo,small celebration cake,83,g,20,mg,610,g,162,g,4,g,39,g,0,g,0,g,39,g
+413,buca di beppo,small dolce platter,109,g,220,mg,930,g,222,g,23,g,57,g,1,g,5,g,144,g
+414,buca di beppo,kids small spaghetti marinara,6,g,0,mg,1020,g,102,g,18,g,0,g,0,g,7,g,17,g
+415,buca di beppo,kids small cheese pizza,14,g,15,mg,1380,g,59,g,19,g,4.5,g,0,g,2,g,7,g
+416,buca di beppo,kids small chicken parmigiana,71,g,60,mg,1300,g,72,g,32,g,12,g,1,g,6,g,14,g
+417,buca di beppo,kids small pepperoni pizza,23,g,45,mg,1750,g,59,g,22,g,9,g,0,g,2,g,7,g
+418,buca di beppo,kids pisa punch,0,g,0,mg,10,g,15,g,0,g,0,g,0,g,1,g,14,g
+419,buca di beppo,kids small fettuccine alfredo,19,g,50,mg,1680,g,72,g,19,g,11,g,0.5,g,4,g,7,g
+420,buca di beppo,kids small spaghetti with meatballs,14,g,85,mg,2140,g,76,g,31,g,4.5,g,0.5,g,7,g,14,g
+421,buca di beppo,kids small macaroni and cheese,33,g,100,mg,2400,g,77,g,27,g,20,g,0,g,3,g,8,g
+422,buca di beppo,kids chocolate milk,5,g,20,mg,130,g,30,g,9,g,3,g,0,g,1,g,26,g
+423,buca di beppo,small chicken marsala,14,g,100,mg,140,g,33,g,27,g,6,g,0,g,3,g,21,g
+424,buca di beppo,small chicken parmigiana,56,g,125,mg,1730,g,44,g,47,g,13,g,0.5,g,5,g,13,g
+425,buca di beppo,small chicken saltimbocca,42,g,150,mg,1080,g,7,g,37,g,17,g,1,g,1,g,1,g
+426,buca di beppo,small eggplant parmigiana,52,g,80,mg,2850,g,65,g,41,g,18,g,0.5,g,10,g,24,g
+427,buca di beppo,small chicken limone,28,g,135,mg,200,g,12,g,26,g,15,g,1,g,3,g,1,g
+428,buca di beppo,small prosciutto stuffed chicken,22,g,120,mg,1450,g,34,g,44,g,6,g,0,g,3,g,5,g
+429,buca di beppo,small salmon sorrento,60,g,150,mg,260,g,5,g,28,g,23,g,1,g,1,g,3,g
+430,buca di beppo,small veal marsala,27,g,85,mg,150,g,31,g,20,g,8,g,0,g,1,g,21,g
+431,buca di beppo,small veal parmigiana,40,g,95,mg,1200,g,52,g,34,g,9,g,0,g,4,g,8,g
+432,buca di beppo,small penne ala vodka,13,g,15,mg,1900,g,78,g,16,g,3.5,g,0,g,5,g,10,g
+433,buca di beppo,small chicken carbonara,56,g,160,mg,2140,g,74,g,35,g,24,g,0,g,4,g,6,g
+434,buca di beppo,small fettuccine alfredo,28,g,75,mg,2210,g,97,g,26,g,17,g,0.5,g,6,g,10,g
+435,buca di beppo,small lasagna,19,g,65,mg,1330,g,33,g,24,g,9,g,0,g,5,g,13,g
+436,buca di beppo,small baked ziti,20,g,60,mg,2270,g,80,g,29,g,10,g,0,g,5,g,10,g
+437,buca di beppo,small shrimp fra diavolo,25,g,120,mg,1910,g,79,g,30,g,8,g,0,g,5,g,9,g
+438,buca di beppo,small baked rigatoni,26,g,75,mg,2800,g,88,g,40,g,10,g,0,g,6,g,13,g
+439,buca di beppo,small spaghetti with meatballs,18,g,115,mg,2360,g,80,g,38,g,6,g,0.5,g,7,g,15,g
+440,buca di beppo,small spaghetti marinara pasta,4.5,g,0,mg,1800,g,70,g,13,g,0,g,0,g,5,g,13,g
+441,buca di beppo,small penne san remo,35,g,60,mg,2170,g,89,g,28,g,11,g,0.5,g,6,g,11,g
+442,buca di beppo,small stuffed shells pasta,21,g,65,mg,860,g,30,g,17,g,10,g,0,g,3,g,8,g
+443,buca di beppo,small cheese manicotti stuffed pasta,19,g,80,mg,970,g,43,g,17,g,11,g,0,g,2,g,8,g
+444,buca di beppo,small shrimp florentine,31,g,150,mg,1870,g,69,g,29,g,15,g,0,g,4,g,6,g
+445,buca di beppo,small ravioli with meat sauce stuffed pasta,25,g,105,mg,1520,g,39,g,26,g,12,g,0,g,4,g,11,g
+446,buca di beppo,small spicy chicken rigatoni,35,g,55,mg,1960,g,89,g,26,g,9,g,0,g,6,g,10,g
+447,buca di beppo,small ravioli al pomodoro stuffed pasta,12,g,55,mg,690,g,34,g,14,g,6,g,0,g,2,g,7,g
+448,buca di beppo,small pappardelle sugo,30,g,290,mg,1090,g,85,g,35,g,10,g,0,g,6,g,6,g
+449,buca di beppo,small chicken cannelloni stuffed pasta,22,g,110,mg,730,g,37,g,27,g,13,g,0,g,1,g,5,g
+450,buca di beppo,small bucatini amatriciana pasta,46,g,60,mg,1620,g,96,g,37,g,11,g,0,g,2,g,12,g
+451,buca di beppo,small spaghetti with meat sauce,6,g,30,mg,1760,g,68,g,21,g,1.5,g,0,g,5,g,12,g
+452,buca di beppo,small linguine frutti di mare,20,g,190,mg,1840,g,72,g,44,g,2,g,0,g,4,g,7,g
+453,buca di beppo,small quattro al forno stuffed pasta,36,g,140,mg,1400,g,62,g,34,g,19,g,0,g,4,g,11,g
+454,buca di beppo,small creamy short rib orecchiette,55,g,140,mg,940,g,103,g,33,g,26,g,1.5,g,2,g,9,g
+455,buca di beppo,small macaroni and cheese,45,g,155,mg,2110,g,68,g,21,g,30,g,0,g,2,g,3,g
+456,buca di beppo,small tortellini bianca,32,g,135,mg,690,g,45,g,14,g,18,g,0,g,1,g,3,g
+457,buca di beppo,small penne basillica,27,g,105,mg,1060,g,63,g,31,g,11,g,0,g,4,g,0,g
+458,buca di beppo,margherita pizza,6,g,15,mg,450,g,20,g,7,g,2.5,g,0,g,1,g,2,g
+459,buca di beppo,supremo italiano pizza,14,g,45,mg,770,g,20,g,15,g,7,g,0,g,1,g,2,g
+460,buca di beppo,spicy arrabbiata pizza,17,g,35,mg,810,g,21,g,12,g,6,g,0,g,1,g,3,g
+461,buca di beppo,pepperoni pizza,18,g,45,mg,980,g,20,g,13,g,8,g,0,g,1,g,2,g
+462,buca di beppo,veggie pizza,9,g,15,mg,640,g,25,g,11,g,3.5,g,0,g,2,g,4,g
+463,buca di beppo,pizza con formaggio,9,g,15,mg,570,g,20,g,9,g,3.5,g,0,g,1,g,2,g
+464,buca di beppo,italian sausage and arugula pizza,10,g,30,mg,620,g,18,g,12,g,4.5,g,0,g,0,g,0,g
+465,buca di beppo,bianca pizza,8,g,20,mg,340,g,18,g,10,g,4,g,0,g,0,g,0,g
+466,buca di beppo,chopped antipasto salad,34,g,55,mg,1570,g,10,g,12,g,11,g,0,g,3,g,3,g
+467,buca di beppo,caesar salad,11,g,10,mg,440,g,9,g,4,g,2,g,0,g,2,g,2,g
+468,buca di beppo,mixed green salad,14,g,5,mg,740,g,9,g,1,g,2,g,0,g,3,g,3,g
+469,buca di beppo,apple gorgonzola salad,39,g,30,mg,810,g,33,g,11,g,9,g,0,g,5,g,25,g
+470,buca di beppo,italian sausage,15,g,50,mg,740,g,5,g,13,g,45,g,0,g,2,g,2,g
+471,buca di beppo,meatball,22,g,170,mg,1320,g,24,g,40,g,0,g,1,g,5,g,9,g
+472,buca di beppo,brussels sprouts and prosciutto,14,g,15,mg,520,g,9,g,7,g,2.5,g,0,g,3,g,2,g
+473,buca di beppo,baby portobello mushroom risotto,29,g,105,mg,870,g,46,g,5,g,19,g,0,g,2,g,2,g
+474,buca di beppo,sausage and peppers,16,g,50,mg,490,g,9,g,14,g,5,g,0,g,2,g,3,g
+475,buca di beppo,green beans,16,g,0,mg,480,g,8,g,1,g,2.5,g,0,g,4,g,3,g
+476,buca di beppo,italian broccoli romano,19,g,0,mg,720,g,15,g,4,g,3,g,0,g,4,g,2,g
+477,buca di beppo,tomato basil soup bowl,42,g,125,mg,1270,g,56,g,10,g,22,g,0,g,2,g,6,g
+478,buca di beppo,minestrone soup cup,3,g,0,mg,600,g,19,g,3,g,0,g,0,g,2,g,5,g
+479,buca di beppo,tuscan bean soup bowl,2,g,5,mg,770,g,25,g,11,g,0.5,g,0,g,7,g,5,g
+480,buca di beppo,italian wedding soup bowl,17,g,65,mg,1770,g,35,g,27,g,6,g,0,g,3,g,2,g
+481,buca di beppo,minestrone soup bowl,5,g,0,mg,1200,g,27,g,4,g,0.5,g,0,g,4,g,9,g
+482,buca di beppo,tomato basil soup cup,21,g,65,mg,630,g,28,g,5,g,11,g,0,g,1,g,3,g
+483,buca di beppo,spicy italian sausage soup cup,22,g,85,mg,530,g,7,g,4,g,14,g,0,g,1,g,1,g
+484,buca di beppo,spicy italian sausage soup bowl,44,g,170,mg,1070,g,14,g,8,g,27,g,0,g,2,g,2,g
+485,buca di beppo,italian wedding soup cup,9,g,35,mg,880,g,25,g,15,g,3,g,0,g,2,g,1,g
+486,buca di beppo,tuscan bean soup cup,1,g,5,mg,390,g,13,g,5,g,0,g,0,g,4,g,2,g
+487,buca di beppo,apple gorgonzola salad,39,g,30,mg,810,g,33,g,11,g,9,g,0,g,5,g,25,g
+488,buca di beppo,baby portobello mushroom risotto,29,g,105,mg,870,g,46,g,5,g,19,g,0,g,2,g,2,g
+489,buca di beppo,baked rigatoni,26,g,75,mg,2800,g,88,g,40,g,10,g,0,g,6,g,13,g
+490,buca di beppo,baked ziti,20,g,60,mg,2270,g,80,g,29,g,10,g,0,g,5,g,10,g
+491,buca di beppo,bianca pizza,8,g,20,mg,340,g,18,g,10,g,4,g,0,g,0,g,0,g
+492,buca di beppo,bruschetta,25,g,40,mg,1340,g,26,g,18,g,9,g,0.5,g,3,g,5,g
+493,buca di beppo,brussels sprouts and prosciutto,14,g,15,mg,520,g,9,g,7,g,2.5,g,0,g,3,g,2,g
+494,buca di beppo,buca trio platter,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+495,buca di beppo,bucatini amatriciana,46,g,60,mg,1620,g,96,g,37,g,11,g,0,g,2,g,12,g
+496,buca di beppo,caesar salad,11,g,10,mg,440,g,9,g,4,g,2,g,0,g,2,g,2,g
+497,buca di beppo,celebraton cake,83,g,20,mg,610,g,162,g,4,g,39,g,0,g,0,g,39,g
+498,buca di beppo,cheese manicotti,19,g,80,mg,970,g,43,g,17,g,11,g,0,g,2,g,8,g
+499,buca di beppo,chicken cannelloni,22,g,110,mg,730,g,37,g,27,g,13,g,0,g,1,g,5,g
+500,buca di beppo,chicken carbonara,56,g,160,mg,2140,g,74,g,35,g,24,g,0,g,4,g,6,g
+501,buca di beppo,chicken limone,28,g,135,mg,200,g,12,g,26,g,15,g,1,g,3,g,1,g
+502,buca di beppo,chicken marsala,14,g,100,mg,140,g,33,g,27,g,6,g,0,g,3,g,21,g
+503,buca di beppo,chicken parmigiana,56,g,125,mg,1730,g,44,g,47,g,13,g,0.5,g,5,g,13,g
+504,buca di beppo,chicken saltimbocca,42,g,150,mg,1080,g,7,g,37,g,17,g,1,g,1,g,1,g
+505,buca di beppo,chocolate cake,28,g,50,mg,350,g,77,g,5,g,12,g,0,g,4,g,58,g
+506,buca di beppo,chocolate chip cannoli,13,g,0,mg,125,g,46,g,7,g,9,g,0,g,0,g,35,g
+507,buca di beppo,chocolate milk,5,g,20,mg,130,g,30,g,9,g,3,g,0,g,1,g,26,g
+508,buca di beppo,chopped antipasti salad,34,g,55,mg,1570,g,10,g,12,g,11,g,0,g,3,g,3,g
+509,buca di beppo,colossal brownie sundae,54,g,110,mg,600,g,174,g,8,g,27,g,0,g,6,g,133,g
+510,buca di beppo,creamy short rib orecchiete,55,g,140,mg,940,g,103,g,33,g,26,g,1.5,g,2,g,9,g
+511,buca di beppo,dolce platter,109,g,220,mg,930,g,222,g,23,g,57,g,1,g,5,g,144,g
+512,buca di beppo,eggplant parmigiana,52,g,80,mg,2850,g,65,g,41,g,18,g,0.5,g,10,g,24,g
+513,buca di beppo,fettuccine alfredo,28,g,75,mg,2210,g,97,g,26,g,17,g,0.5,g,6,g,10,g
+514,buca di beppo,fried calamari,7,g,65,mg,270,g,8,g,5,g,1,g,0,g,1,g,2,g
+515,buca di beppo,fried mac n cheese,18,g,50,mg,1170,g,32,g,14,g,10,g,0,g,2,g,3,g
+516,buca di beppo,fried mozzarella,21,g,50,mg,790,g,25,g,18,g,7,g,0,g,2,g,7,g
+517,buca di beppo,garlic bread,2.5,g,0,mg,110,g,8,g,2,g,0,g,0,g,0,g,0,g
+518,buca di beppo,green beans,16,g,0,mg,480,g,8,g,1,g,2.5,g,0,g,4,g,3,g
+519,buca di beppo,homemade cheesecake,30,g,20,mg,330,g,71,g,8,g,18,g,0,g,1,g,33,g
+520,buca di beppo,italian broccoli romano,19,g,0,mg,720,g,15,g,4,g,3,g,0,g,4,g,2,g
+521,buca di beppo,italian creme cake,23,g,80,mg,180,g,40,g,3,g,12,g,0,g,1,g,27,g
+522,buca di beppo,italian sausage,15,g,50,mg,740,g,5,g,13,g,4.5,g,0,g,2,g,2,g
+523,buca di beppo,italian sausage and arugula pizza,10,g,30,mg,620,g,18,g,12,g,4.5,g,0,g,0,g,0,g
+524,buca di beppo,italian wedding soup bowl,17,g,65,mg,1770,g,35,g,27,g,6,g,0,g,3,g,2,g
+525,buca di beppo,italian wedding soup cup,9,g,35,mg,880,g,25,g,15,g,3,g,0,g,2,g,1,g
+526,buca di beppo,kids cheese pizza,14,g,15,mg,1380,g,59,g,19,g,4.5,g,0,g,2,g,7,g
+527,buca di beppo,kids chicken parmigiana,71,g,60,mg,1300,g,72,g,32,g,12,g,1,g,6,g,14,g
+528,buca di beppo,kids fettuccine alfredo,19,g,50,mg,1680,g,72,g,19,g,11,g,0.5,g,4,g,7,g
+529,buca di beppo,kids pepperoni pizza,23,g,45,mg,1750,g,59,g,22,g,9,g,0,g,2,g,7,g
+530,buca di beppo,kids pisa punch,0,g,0,mg,10,g,15,g,0,g,0,g,0,g,1,g,14,g
+531,buca di beppo,kids spaghetti marinara,6,g,0,mg,1020,g,102,g,18,g,0,g,0,g,7,g,17,g
+532,buca di beppo,kids spaghetti with meatball,14,g,85,mg,2140,g,76,g,31,g,45,g,0.5,g,7,g,14,g
+533,buca di beppo,kids macaroni and cheese,33,g,100,mg,2400,g,77,g,27,g,20,g,0,g,3,g,8,g
+534,buca di beppo,lasagna,19,g,65,mg,1330,g,33,g,24,g,9,g,0,g,5,g,13,g
+535,buca di beppo,linguine frutti di mare,20,g,190,mg,1840,g,72,g,44,g,2,g,0,g,4,g,7,g
+536,buca di beppo,macaroni and cheese,45,g,155,mg,2110,g,68,g,21,g,30,g,0,g,2,g,3,g
+537,buca di beppo,margherita pizza,6,g,15,mg,450,g,20,g,7,g,2.5,g,0,g,1,g,2,g
+538,buca di beppo,meatball,22,g,170,mg,1320,g,24,g,40,g,89,g,1,g,5,g,9,g
+539,buca di beppo,minestrone soup bowl,5,g,0,mg,1200,g,27,g,4,g,0.5,g,0,g,4,g,9,g
+540,buca di beppo,minestrone soup cup,2.5,g,0,mg,600,g,19,g,3,g,0,g,0,g,2,g,5,g
+541,buca di beppo,mixed green salad,14,g,5,mg,740,g,9,g,1,g,2,g,0,g,3,g,3,g
+542,buca di beppo,mozzarella caprese,16,g,25,mg,430,g,3,g,7,g,5,g,0,g,1,g,2,g
+543,buca di beppo,mozzarella garlic bread,3.5,g,0,mg,140,g,8,g,3,g,1,g,0,g,0,g,0,g
+544,buca di beppo,mussels bianca,37,g,260,mg,630,g,5,g,57,g,19,g,0,g,0,g,0,g
+545,buca di beppo,mussels marinara,38,g,260,mg,790,g,8,g,58,g,19,g,0,g,1,g,2,g
+546,buca di beppo,pappardelle sugo,30,g,290,mg,1090,g,85,g,35,g,10,g,0,g,6,g,6,g
+547,buca di beppo,penne alla vodka,13,g,15,mg,1900,g,78,g,16,g,3.5,g,0,g,5,g,10,g
+548,buca di beppo,penne san remo,35,g,60,mg,2170,g,89,g,28,g,11,g,0.5,g,6,g,11,g
+549,buca di beppo,pepperoni pizza,18,g,45,mg,980,g,20,g,13,g,8,g,0,g,1,g,2,g
+550,buca di beppo,pizza con formaggio,9,g,15,mg,570,g,20,g,9,g,3.5,g,0,g,1,g,2,g
+551,buca di beppo,prosciutto stuffed chicken,22,g,120,mg,1450,g,34,g,44,g,6,g,0,g,3,g,5,g
+552,buca di beppo,quattro al forno,36,g,140,mg,1400,g,62,g,34,g,19,g,0,g,4,g,11,g
+553,buca di beppo,ravioli al pomodoro,12,g,55,mg,690,g,34,g,14,g,6,g,0,g,2,g,7,g
+554,buca di beppo,ravioli with meat sauce,25,g,105,mg,1520,g,39,g,26,g,12,g,0,g,4,g,11,g
+555,buca di beppo,salmon sorrento,60,g,150,mg,260,g,5,g,28,g,23,g,1,g,1,g,3,g
+556,buca di beppo,sausage and peppers,16,g,50,mg,490,g,9,g,14,g,5,g,0,g,2,g,3,g
+557,buca di beppo,shrimp florentine,31,g,150,mg,1870,g,69,g,29,g,15,g,0,g,4,g,6,g
+558,buca di beppo,shrimp fra diavolo,25,g,120,mg,1910,g,79,g,30,g,8,g,0,g,5,g,9,g
+559,buca di beppo,spaghetti marinara,4.5,g,0,mg,1800,g,70,g,13,g,0,g,0,g,5,g,13,g
+560,buca di beppo,spaghetti with meat sauce,6,g,30,mg,1760,g,68,g,21,g,1.5,g,0,g,5,g,12,g
+561,buca di beppo,spaghetti with meatballs,18,g,115,mg,2360,g,80,g,38,g,60,g,0.5,g,7,g,15,g
+562,buca di beppo,spicy arrabbiata pizza,17,g,35,mg,810,g,21,g,12,g,6,g,0,g,1,g,3,g
+563,buca di beppo,spicy chicken rigatoni,35,g,55,mg,1960,g,89,g,26,g,9,g,0,g,6,g,10,g
+564,buca di beppo,spicy italian sausage soup,44,g,170,mg,1070,g,14,g,8,g,27,g,0,g,2,g,2,g
+565,buca di beppo,spicy italian sausage soup cup,22,g,85,mg,530,g,7,g,4,g,14,g,0,g,1,g,1,g
+566,buca di beppo,spicy shrimp,26,g,95,mg,2130,g,28,g,11,g,9,g,0,g,4,g,1,g
+567,buca di beppo,spinach artichoke dip,22,g,30,mg,490,g,52,g,11,g,12,g,0,g,2,g,2,g
+568,buca di beppo,stuffed shells,21,g,65,mg,860,g,30,g,17,g,10,g,0,g,3,g,8,g
+569,buca di beppo,supremo italiano pizza,14,g,45,mg,770,g,20,g,15,g,7,g,0,g,1,g,2,g
+570,buca di beppo,tiramisu,55,g,140,mg,135,g,70,g,13,g,29,g,1.5,g,1,g,54,g
+571,buca di beppo,tomato basil soup bowl,42,g,125,mg,1270,g,56,g,10,g,22,g,0,g,2,g,6,g
+572,buca di beppo,tomato basil soup cup,21,g,65,mg,630,g,28,g,5,g,11,g,0,g,1,g,3,g
+573,buca di beppo,tortellini bianca,32,g,135,mg,690,g,45,g,14,g,18,g,0,g,1,g,3,g
+574,buca di beppo,tuscan bean soup bowl,2,g,5,mg,770,g,25,g,11,g,0.5,g,0,g,7,g,5,g
+575,buca di beppo,tuscan bean soup cup,1,g,5,mg,390,g,13,g,5,g,0,g,0,g,4,g,2,g
+576,buca di beppo,veal marsala,27,g,85,mg,150,g,31,g,20,g,8,g,0,g,1,g,21,g
+577,buca di beppo,veal parmigiana,40,g,95,mg,1200,g,52,g,34,g,9,g,0,g,4,g,8,g
+578,buca di beppo,veggie pizza,9,g,15,mg,640,g,25,g,11,g,3.5,g,0,g,2,g,4,g
+579,buca di beppo,world famous meatball,16,g,120,mg,700,g,12,g,28,g,60,g,0.5,g,3,g,3,g
+580,buffalo wild wings,classic chicken wrap with grilled chicken breast and signature sauce,20,g,135,mg,2240,g,60,g,42,g,8,g,0,g,4,g,6,g
+581,buffalo wild wings,buffalo ranch chicken wrap,51,g,85,mg,2860,g,79,g,34,g,16,g,1.5,g,5,g,6,g
+582,buffalo wild wings,pepper jack steak wrap without sides,69,g,115,mg,2780,g,60,g,56,g,21,g,1.5,g,3,g,9,g
+583,buffalo wild wings,classic chicken wrap with grilled chicken breast,20,g,135,mg,1560,g,56,g,42,g,8,g,0,g,3,g,5,g
+584,buffalo wild wings,classic chicken wrap with crispy tenders,31,g,75,mg,1580,g,76,g,33,g,13,g,0,g,4,g,5,g
+585,buffalo wild wings,classic crispy chicken wrap without sides,31,g,80,mg,1770,g,76,g,34,g,13,g,1.5,g,4,g,5,g
+586,buffalo wild wings,classic grilled chicken wrap without sides,19,g,30,mg,1800,g,55,g,46,g,8,g,0,g,2,g,5,g
+587,buffalo wild wings,buffalo ranch chicken wrap without sides,51,g,90,mg,3110,g,79,g,34,g,16,g,1.5,g,4,g,6,g
+588,buffalo wild wings,mozzarella sticks with marinara sauce,30,g,65,mg,1990,g,59,g,26,g,15,g,1.5,g,4,g,7,g
+589,buffalo wild wings,fried pickles with southwestern ranch dressing,70,g,45,mg,3380,g,63,g,7,g,21,g,2.5,g,3,g,2,g
+590,buffalo wild wings,add on ranch dressing for appetizers,34,g,10,mg,510,g,2,g,1,g,5,g,0.5,g,0,g,2,g
+591,buffalo wild wings,street tacos,37,g,20,mg,2270,g,28,g,36,g,7,g,0.5,g,2,g,5,g
+592,buffalo wild wings,chicken quesadilla,61,g,125,mg,2780,g,65,g,62,g,28,g,1.5,g,4,g,9,g
+593,buffalo wild wings,hatch chile con queso dip with chips,56,g,95,mg,2220,g,118,g,27,g,27,g,2.5,g,11,g,8,g
+594,buffalo wild wings,chips and salsa,35,g,25,mg,1890,g,121,g,13,g,14,g,1.5,g,14,g,9,g
+595,buffalo wild wings,french fries appetizer size,22,g,20,mg,1460,g,155,g,7,g,9,g,1.5,g,11,g,0,g
+596,buffalo wild wings,beer battered onion rings with southwestern ranch dressing,105,g,70,mg,2480,g,148,g,12,g,35,g,4.5,g,12,g,23,g
+597,buffalo wild wings,potato wedges,38,g,30,mg,2060,g,90,g,12,g,17,g,2,g,12,g,1,g
+598,buffalo wild wings,celery sticks for appetizers,0,g,0,mg,75,g,3,g,1,g,0,g,0,g,2,g,1,g
+599,buffalo wild wings,house sampler,174,g,280,mg,6880,g,264,g,87,g,67,g,7,g,25,g,30,g
+600,buffalo wild wings,cheddar cheese curds with southwestern ranch dressing,119,g,255,mg,3370,g,43,g,63,g,55,g,5,g,4,g,5,g
+601,buffalo wild wings,mini corn dogs with bourbon honey mustard,42,g,90,mg,2790,g,82,g,18,g,15,g,1.5,g,5,g,38,g
+602,buffalo wild wings,carrot and celery sticks for appetizers,0,g,0,mg,55,g,4,g,1,g,0,g,0,g,2,g,2,g
+603,buffalo wild wings,crispy jumbo shrimp,20,g,180,mg,1470,g,59,g,19,g,9,g,1,g,8,g,0,g
+604,buffalo wild wings,big twist pretzel with hatch chile queso,38,g,75,mg,3780,g,153,g,41,g,21,g,1,g,6,g,9,g
+605,buffalo wild wings,add on bleu cheese for appetizers,29,g,35,mg,550,g,2,g,2,g,6,g,0,g,0,g,2,g
+606,buffalo wild wings,carrot sticks for appetizers,0,g,0,mg,35,g,5,g,0,g,0,g,0,g,1,g,3,g
+607,buffalo wild wings,bleu cheese dressing for appetizers,29,g,35,mg,550,g,2,g,2,g,6,g,0,g,0,g,2,g
+608,buffalo wild wings,add on cocktail sauce for shrimp appetizer,0,g,0,mg,690,g,11,g,1,g,0,g,0,g,1,g,9,g
+609,buffalo wild wings,buffalo chips,27,g,20,mg,1180,g,76,g,8,g,12,g,1.5,g,10,g,1,g
+610,buffalo wild wings,ranch dressing for appetizers,34,g,10,mg,510,g,2,g,1,g,5,g,0.5,g,0,g,2,g
+611,buffalo wild wings,add on chili for appetizers,6,g,20,mg,350,g,5,g,8,g,2.5,g,0,g,2,g,2,g
+612,buffalo wild wings,add on strawberry lemonade,0,g,0,mg,30,g,49,g,0,g,0,g,0,g,1,g,45,g
+613,buffalo wild wings,wildberry lemonade,0,g,0,mg,65,g,34,g,0,g,0,g,0,g,0,g,32,g
+614,buffalo wild wings,huckleberry lemonade,0,g,0,mg,25,g,51,g,0,g,0,g,0,g,0,g,50,g
+615,buffalo wild wings,ginger lemonade,0,g,0,mg,30,g,38,g,0,g,0,g,0,g,0,g,34,g
+616,buffalo wild wings,add on blueberry mint lemonade,0,g,0,mg,30,g,50,g,0,g,0,g,0,g,1,g,46,g
+617,buffalo wild wings,mango lemonade,0,g,0,mg,20,g,32,g,0,g,0,g,0,g,0,g,30,g
+618,buffalo wild wings,add on citrus limeade,0,g,0,mg,45,g,42,g,0,g,0,g,0,g,1,g,39,g
+619,buffalo wild wings,add on black cherry limeade,0,g,0,mg,20,g,55,g,0,g,0,g,0,g,1,g,50,g
+620,buffalo wild wings,chicken and waffles with signature sauce,61,g,125,mg,2530,g,180,g,31,g,29,g,2.5,g,4,g,85,g
+621,buffalo wild wings,omelet with signature sauce,49,g,610,mg,2700,g,57,g,37,g,20,g,1.5,g,8,g,5,g
+622,buffalo wild wings,breakfast wrap,77,g,615,mg,4020,g,114,g,45,g,26,g,2,g,10,g,12,g
+623,buffalo wild wings,chili and rice hawaii only,21,g,65,mg,860,g,69,g,26,g,10,g,0,g,5,g,5,g
+624,buffalo wild wings,chicken and waffles without sauce,61,g,125,mg,1850,g,176,g,31,g,29,g,2.5,g,3,g,84,g
+625,buffalo wild wings,breakfast platter with sausage,91,g,465,mg,3390,g,102,g,37,g,35,g,1,g,9,g,10,g
+626,buffalo wild wings,buffalo tender sandwich without sauce,37,g,40,mg,2690,g,98,g,22,g,17,g,1.5,g,10,g,8,g
+627,buffalo wild wings,omelet without sauce,49,g,610,mg,2020,g,53,g,37,g,20,g,1.5,g,7,g,4,g
+628,buffalo wild wings,chicken and waffles without sauce atlanta airport only,39,g,65,mg,2550,g,175,g,32,g,14,g,1,g,5,g,65,g
+629,buffalo wild wings,omelet with salsa,50,g,610,mg,2530,g,59,g,38,g,20,g,1.5,g,9,g,7,g
+630,buffalo wild wings,buffalo tender sandwich with signature sauce,37,g,40,mg,3030,g,100,g,22,g,17,g,1.5,g,10,g,8,g
+631,buffalo wild wings,chicken and waffles with signature sauce atlanta airport only,39,g,65,mg,3230,g,179,g,32,g,14,g,1,g,6,g,66,g
+632,buffalo wild wings,biscuit sandwich,54,g,230,mg,3060,g,90,g,28,g,24,g,1,g,9,g,9,g
+633,buffalo wild wings,breakfast club sandwich,86,g,390,mg,2570,g,88,g,43,g,33,g,2,g,7,g,7,g
+634,buffalo wild wings,breakfast quesadilla with bacon,86,g,500,mg,4060,g,110,g,63,g,37,g,2.5,g,10,g,9,g
+635,buffalo wild wings,breakfast platter with bacon,61,g,415,mg,3520,g,91,g,40,g,25,g,1,g,9,g,11,g
+636,buffalo wild wings,breakfast quesadilla with sausage,93,g,510,mg,3620,g,115,g,53,g,39,g,2.5,g,10,g,9,g
+637,buffalo wild wings,chipotle bbq seasoning,0,g,0,mg,300,g,1,g,0,g,0,g,0,g,0,g,1,g
+638,buffalo wild wings,lemon pepper seasoning,0,g,0,mg,460,g,1,g,0,g,0,g,0,g,0,g,0,g
+639,buffalo wild wings,desert heat seasoning,0,g,0,mg,290,g,2,g,0,g,0,g,0,g,0,g,1,g
+640,buffalo wild wings,sour cream,9,g,40,mg,45,g,4,g,2,g,7,g,0,g,0,g,2,g
+641,buffalo wild wings,salt and pepper seasoning,0,g,0,mg,520,g,1,g,0,g,0,g,0,g,0,g,0,g
+642,buffalo wild wings,buffalo seasoning,0,g,0,mg,670,g,2,g,0,g,0,g,0,g,0,g,0,g
+643,buffalo wild wings,chocolate fudge cake,29,g,65,mg,360,g,102,g,8,g,14,g,0,g,1,g,85,g
+644,buffalo wild wings,loaded ice cream,21,g,45,mg,410,g,71,g,6,g,11,g,1,g,1,g,47,g
+645,buffalo wild wings,cheesecake bites with chocolate sauce,22,g,70,mg,500,g,87,g,7,g,12,g,1,g,3,g,56,g
+646,buffalo wild wings,key lime pie,17,g,35,mg,260,g,48,g,4,g,12,g,0,g,0.5,g,36,g
+647,buffalo wild wings,ice cream scoop,8,g,30,mg,55,g,17,g,8,g,5,g,0,g,0,g,14,g
+648,buffalo wild wings,dessert nachos,96,g,235,mg,1700,g,210,g,26,g,51,g,4,g,6,g,112,g
+649,buffalo wild wings,mini chocolate fudge cake,11,g,15,mg,1,g,56,g,3,g,4.5,g,0,g,1,g,48,g
+650,buffalo wild wings,cheesecake bites with caramel sauce,22,g,70,mg,500,g,75,g,5,g,12,g,1,g,2,g,39,g
+651,buffalo wild wings,strawberry cream cheese pie,15,g,5,mg,230,g,43,g,3,g,10,g,0,g,1,g,34,g
+652,buffalo wild wings,snickers creme pie,20,g,10,mg,320,g,67,g,5,g,11,g,0,g,3,g,50,g
+653,buffalo wild wings,ice cream scoop with caramel sauce,9,g,35,mg,125,g,46,g,8,g,5,g,0,g,0.5,g,36,g
+654,buffalo wild wings,french fries,11,g,10,mg,730,g,78,g,4,g,4.5,g,0.5,g,6,g,0,g
+655,buffalo wild wings,buffalo chips,14,g,10,mg,590,g,38,g,4,g,6,g,0.5,g,5,g,0,g
+656,buffalo wild wings,little buffalos boneless wings without sauce or sides,17,g,40,mg,770,g,27,g,17,g,7,g,0.5,g,2,g,0,g
+657,buffalo wild wings,little buffalos lowfat chocolate milk,2.5,g,10,mg,170,g,25,g,7,g,2,g,0,g,1,g,23,g
+658,buffalo wild wings,little buffalos naked chicken tenders without sides,1,g,90,mg,950,g,0,g,32,g,0,g,0,g,0,g,0,g
+659,buffalo wild wings,little buffalos traditional wings without sauce or sides,16,g,145,mg,110,g,0,g,36,g,5,g,0,g,0,g,0,g
+660,buffalo wild wings,little buffalos french fries,15,g,10,mg,940,g,44,g,4,g,7,g,1,g,4,g,0,g
+661,buffalo wild wings,little buffalos crispy chicken tenders without sauce or sides,21,g,70,mg,770,g,31,g,27,g,9,g,1,g,3,g,0,g
+662,buffalo wild wings,little buffalos mac and cheese without sides,28,g,75,mg,1130,g,52,g,19,g,17,g,1,g,4,g,1,g
+663,buffalo wild wings,little buffalos hamburger without sides,36,g,65,mg,1200,g,33,g,23,g,13,g,1,g,1,g,5,g
+664,buffalo wild wings,little buffalos diet pepsi,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+665,buffalo wild wings,little buffalos cheeseburger without sides,41,g,80,mg,1490,g,35,g,26,g,16,g,1,g,1,g,6,g
+666,buffalo wild wings,little buffalos cranberry juice,0,g,0,mg,30,g,19,g,0,g,0,g,0,g,0,g,19,g
+667,buffalo wild wings,little buffalos traditional wings with signature sauce without sides,16,g,145,mg,280,g,1,g,36,g,5,g,0,g,0,g,0,g
+668,buffalo wild wings,little buffalos celery sticks,0,g,0,mg,65,g,2,g,1,g,0,g,0,g,1,g,1,g
+669,buffalo wild wings,little buffalos mountain dew,0,g,0,mg,30,g,19,g,0,g,0,g,0,g,0,g,19,g
+670,buffalo wild wings,little buffalos boneless wings with signature sauce without sides,17,g,40,mg,1110,g,29,g,17,g,7,g,0.5,g,2,g,0,g
+671,buffalo wild wings,little buffalos mandarin oranges,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,1,g,9,g
+672,buffalo wild wings,little buffalos pineapple juice,0,g,0,mg,10,g,19,g,1,g,0,g,0,g,0,g,18,g
+673,buffalo wild wings,little buffalos mini corn dogs without sides,20,g,45,mg,600,g,24,g,8,g,7,g,1,g,2,g,6,g
+674,buffalo wild wings,little buffalos mist twist,0,g,0,mg,20,g,16,g,0,g,0,g,0,g,0,g,16,g
+675,buffalo wild wings,little buffalos grapefruit juice,0,g,0,mg,30,g,13,g,1,g,0,g,0,g,0,g,11,g
+676,buffalo wild wings,little buffalos lemonade,0,g,0,mg,15,g,19,g,0,g,0,g,0,g,0,g,18,g
+677,buffalo wild wings,little buffalos carrot sticks,0,g,0,mg,35,g,5,g,0,g,0,g,0,g,1,g,3,g
+678,buffalo wild wings,boneless wings with sweet bbq sauce snack,40,g,0,mg,3170,g,59,g,36,g,14,g,1.5,g,5,g,1,g
+679,buffalo wild wings,all beef hamburger patty,21,g,70,mg,420,g,0,g,23,g,8,g,1.5,g,0,g,0,g
+680,buffalo wild wings,boneless wings with spicy garlic sauce snack,40,g,90,mg,31780,g,59,g,36,g,14,g,1.5,g,5,g,1,g
+681,buffalo wild wings,grilled chicken breast,2,g,0,mg,650,g,0,g,27,g,0.5,g,0,g,0,g,0,g
+682,buffalo wild wings,black bean burger patty,6,g,0,mg,50,g,18,g,14,g,1,g,0,g,7,g,2,g
+683,buffalo wild wings,boneless wings with hot bbq sauce snack,36.5,g,80,mg,2490,g,61,g,36,g,13,g,1.5,g,5,g,5,g
+684,buffalo wild wings,boneless wings with thai curry snack,55,g,95,mg,2860,g,60,g,36,g,16.5,g,1.5,g,5,g,3,g
+685,buffalo wild wings,naked tenders without signature sauce 4 tenders,1.5,g,120,mg,1270,g,0,g,43,g,0,g,0,g,0,g,0,g
+686,buffalo wild wings,pepper jack cheese,6,g,20,mg,140,g,0,g,5,g,4,g,0,g,0,g,0,g
+687,buffalo wild wings,hatch chili con queso for burgers,3.5,g,10,mg,230,g,2,g,3,g,2,g,0,g,0,g,1,g
+688,buffalo wild wings,crispy chicken breast,11,g,55,mg,610,g,17,g,18,g,4.5,g,0.5,g,2,g,0,g
+689,buffalo wild wings,cheddar cheese,7,g,20,mg,140,g,1,g,5,g,4,g,0,g,0,g,0,g
+690,buffalo wild wings,swiss cheese,7,g,20,mg,40,g,0,g,6,g,4,g,0,g,0,g,0,g
+691,buffalo wild wings,add on avocado for burgers,8,g,0,mg,0,g,5,g,1,g,1,g,0,g,4,g,0,g
+692,buffalo wild wings,bleu cheese crumbles for burgers,4,g,10,mg,160,g,0,g,3,g,3,g,0,g,0,g,0,g
+693,buffalo wild wings,add on grilled onions for burgers,0,g,0,mg,85,g,3,g,0,g,0,g,0,g,1,g,2,g
+694,buffalo wild wings,add on bacon for burgers,8,g,15,mg,370,g,0,g,8,g,3,g,0,g,0,g,0,g
+695,buffalo wild wings,american cheese,6,g,20,mg,290,g,1,g,3,g,3.5,g,0,g,0,g,1,g
+696,buffalo wild wings,buffalo mac and cheese with buffalo sauce,77,g,145,mg,3410,g,109,g,46,g,32,g,2,g,8,g,4,g
+697,buffalo wild wings,house sampler with ranch dressing,171,g,170,mg,5960,g,227,g,70,g,58.5,g,6,g,21,g,25,g
+698,buffalo wild wings,sharables all star sampler with crispy tenders without sauce,149,g,210,mg,7360,g,212,g,70,g,56,g,6,g,18,g,12,g
+699,buffalo wild wings,ultimate nachos with grilled chicken,108,g,225,mg,5730,g,207,g,101,g,50,g,3.5,g,26,g,24,g
+700,buffalo wild wings,buffalo mac and cheese without sauce,75,g,145,mg,2830,g,108,g,46,g,32,g,2,g,8,g,4,g
+701,buffalo wild wings,house sampler,146,g,145,mg,5550,g,225,g,69,g,54,g,6,g,21,g,24,g
+702,buffalo wild wings,house sampler with blue cheese dressing,168,g,150,mg,5930,g,227,g,69,g,58,g,6,g,21,g,25,g
+703,buffalo wild wings,boneless wings with honey bbq sauce snack,34,g,80,mg,2170,g,80,g,35,g,13,g,1.5,g,4,g,21,g
+704,buffalo wild wings,boneless wings with parmesan garlic snack,52,g,100,mg,2430,g,58,g,37,g,16.5,g,1.5,g,4,g,2,g
+705,buffalo wild wings,boneless wings with mild sauce snack,41,g,90,mg,2870,g,57,g,35,g,14,g,1.5,g,5,g,1,g
+706,buffalo wild wings,boneless wings with medium sauce snack,38.5,g,90,mg,3070,g,57,g,35,g,13.5,g,1.5,g,5,g,1,g
+707,buffalo wild wings,traditional wings with bww sauce,449,g,1280,mg,9300,g,35,g,230,g,176,g,14,g,0,g,25,g
+708,buffalo wild wings,boneless wings with mango habanero sauce snack,35,g,80,mg,2260,g,82,g,35,g,13,g,1.5,g,5,g,22,g
+709,buffalo wild wings,buffalo loaded tots,140,g,190,mg,3270,g,127,g,35,g,57,g,6,g,15,g,3,g
+710,buffalo wild wings,boneless wings with asian zing sauce,34,g,80,mg,2340,g,84,g,36,g,13,g,1.5,g,5,g,28,g
+711,buffalo wild wings,ultimate nachoswithout chicken,106,g,225,mg,4990,g,207,g,70,g,49,g,3.5,g,26,g,24,g
+712,buffalo wild wings,boneless wings with teriyaki sauce snack,34,g,80,mg,2710,g,75,g,38,g,13,g,1.5,g,4,g,0,g
+713,buffalo wild wings,boneless wings with blazin sauce,42,g,80,mg,3360,g,58,g,36,g,14.5,g,1.5,g,5,g,1,g
+714,buffalo wild wings,queso cheese,3.5,g,5,mg,320,g,4,g,2,g,1.5,g,0,g,0,g,1,g
+715,buffalo wild wings,boneless wings with hot sauce snack,40,g,80,mg,3070,g,58,g,36,g,14,g,1.5,g,5,g,1,g
+716,buffalo wild wings,boneless wings with bourbon honey mustard,35.5,g,80,mg,2740,g,78,g,36,g,13,g,1.5,g,5,g,21,g
+717,buffalo wild wings,boneless wings with caribbean jerk,37.5,g,80,mg,2050,g,70,g,36,g,13.5,g,1.5,g,5,g,14,g
+718,buffalo wild wings,boneless wings without celery carrots or dressing,34,g,80,mg,1540,g,54,g,35,g,13,g,1.5,g,4,g,0,g
+719,buffalo wild wings,cheddar jack cheese,4.5,g,15,mg,90,g,1,g,3,g,2.5,g,0,g,0,g,0,g
+720,buffalo wild wings,boneless wings with wild sauce snack,40,g,80,mg,2740,g,58,g,35,g,14,g,1.5,g,5,g,2,g
+721,buffalo wild wings,popcorn shrimp 1 2 lb with cocktail sauce and fries,40,g,65,mg,3050,g,87,g,18,g,16,g,1.5,g,5,g,21,g
+722,buffalo wild wings,half pound ribs without sauce,57,g,210,mg,920,g,36,g,53,g,21,g,0,g,0,g,28,g
+723,buffalo wild wings,winger with bww sauce,138,g,470,mg,9070,g,128,g,82,g,56,g,7,g,4,g,21,g
+724,buffalo wild wings,half pound ribs with bww sauce,61,g,215,mg,2470,g,50,g,54,g,23,g,0,g,0,g,38,g
+725,buffalo wild wings,popcorn shrimp 1 2 lb with bww sauce and fries,44,g,75,mg,3950,g,89,g,17,g,18,g,1.5,g,5,g,23,g
+726,buffalo wild wings,popcorn shrimp 1 2 lb tarter sauce and fries,60,g,95,mg,2930,g,83,g,16,g,19,g,1.5,g,5,g,19,g
+727,buffalo wild wings,beer braised mushrooms,0,g,0,mg,240,g,6,g,2,g,0,g,0,g,2,g,1,g
+728,buffalo wild wings,southwestern ranch dressing,50,g,15,mg,1090,g,3,g,0,g,7,g,0,g,0,g,3,g
+729,buffalo wild wings,light balsamic dressing,8,g,0,mg,740,g,11,g,0,g,0,g,0,g,0,g,8,g
+730,buffalo wild wings,southwestern ranch dressing,35,g,15,mg,760,g,2,g,1,g,5,g,0.5,g,0,g,1,g
+731,buffalo wild wings,light caesar dressing,14,g,60,mg,520,g,10,g,2,g,2,g,0,g,0,g,2,g
+732,buffalo wild wings,light asian sesame dressing,13,g,0,mg,880,g,25,g,0,g,1.5,g,0,g,0,g,23,g
+733,buffalo wild wings,light french dressing,11,g,0,mg,620,g,19,g,1,g,1.5,g,0,g,1,g,16,g
+734,buffalo wild wings,buffalo blue cheese dressing,27,g,30,mg,930,g,3,g,2,g,5,g,0,g,0,g,2,g
+735,buffalo wild wings,fat free ranch dressing,0,g,0,mg,550,g,12,g,1,g,0,g,0,g,1,g,5,g
+736,buffalo wild wings,bbq ranch dressing,31,g,5,mg,540,g,5,g,1,g,4.5,g,0,g,0,g,4,g
+737,buffalo wild wings,lemon vinaigrette,18,g,0,mg,490,g,3,g,0,g,2.5,g,0,g,0,g,3,g
+738,buffalo wild wings,blue cheese dressing,47,g,10,mg,810,g,8,g,1,g,7,g,0.5,g,0,g,6,g
+739,buffalo wild wings,cilantro lime ranch dressing,35,g,10,mg,570,g,3,g,1,g,5,g,0.5,g,0,g,2,g
+740,buffalo wild wings,chicken caesar salad with light caesar dressing and garlic toast,38,g,210,mg,2170,g,57,g,42,g,8,g,0,g,6,g,7,g
+741,buffalo wild wings,buffalo chicken salad with buffalo blue cheese dressing and garlic toast,74,g,105,mg,3290,g,80,g,33,g,21,g,1.5,g,10,g,10,g
+742,buffalo wild wings,grilled chicken salad without dressing,17,g,85,mg,1170,g,38,g,39,g,6,g,0,g,6,g,7,g
+743,buffalo wild wings,side salad without dressing,2.5,g,0,mg,180,g,18,g,4,g,0,g,0,g,3,g,4,g
+744,buffalo wild wings,santa fe salad with grilled chicken cilantro lime ranch dressing soft tortillas and garlic toast,86,g,160,mg,2670,g,92,g,49,g,19,g,1.5,g,16,g,16,g
+745,buffalo wild wings,honey bbq chicken salad,62,g,100,mg,2210,g,38,g,34,g,14,g,0.5,g,5,g,25,g
+746,buffalo wild wings,garden salad without dressing,14,g,30,mg,570,g,36,g,15,g,6,g,0,g,6,g,7,g
+747,buffalo wild wings,garden salad with grilled chicken breast lemon vinaigrette and garlic toast,44,g,120,mg,1590,g,57,g,41,g,9,g,0.5,g,9,g,14,g
+748,buffalo wild wings,caesar side salad with light caesar dressing and garlic toast,21,g,65,mg,960,g,30,g,8,g,4,g,0,g,3,g,4,g
+749,buffalo wild wings,asian zing chicken salad,21,g,55,mg,2330,g,80,g,27,g,3.5,g,0,g,6,g,58,g
+750,buffalo wild wings,honey bbq chicken salad with honey bbq ranch dressing and garlic toast,76,g,160,mg,4070,g,75,g,48,g,19,g,1,g,7,g,41,g
+751,buffalo wild wings,buffalo chicken salad with buffalo blue cheese dressing buffalo sauce and garlic toast,76,g,105,mg,3870,g,81,g,33,g,21,g,1.5,g,10,g,10,g
+752,buffalo wild wings,garden salad with crispy tenders lemon vinaigrette signature sauce and garlic toast,62,g,75,mg,2800,g,89,g,40,g,17,g,1.5,g,11,g,14,g
+753,buffalo wild wings,garden salad with crispy tenders lemon vinaigrette garlic toast without signature sauce,62,g,75,mg,2460,g,87,g,40,g,17,g,1.5,g,11,g,14,g
+754,buffalo wild wings,santa fe salad with pulled pork cilantro lime ranch dressing soft tortillas and garlic toast,97,g,125,mg,2620,g,91,g,49,g,23,g,1.5,g,15,g,16,g
+755,buffalo wild wings,garden salad with blackened chicken breast lemon vinaigrette and garlic toast,44,g,110,mg,2760,g,57,g,39,g,9,g,0.5,g,9,g,14,g
+756,buffalo wild wings,10 count boneless wings,31,g,140,mg,2090,g,34,g,48,g,12,g,2,g,1,g,1,g
+757,buffalo wild wings,10 count boneless wings add asian zing sauce,0,g,0,mg,1150,g,41,g,1,g,0,g,0,g,1,g,38,g
+758,buffalo wild wings,10 count boneless wings add blazin carolina reaper sauce,6,g,0,mg,910,g,6,g,1,g,1,g,0,g,2,g,2,g
+759,buffalo wild wings,10 count boneless wings add buffalo seasoning,0,g,0,mg,640,g,1,g,0,g,0,g,0,g,0,g,0,g
+760,buffalo wild wings,10 count boneless wings add caribbean jerk sauce,5,g,0,mg,660,g,26,g,1,g,1,g,0,g,1,g,23,g
+761,buffalo wild wings,10 count boneless wings add chipotle bbq seasoning,0,g,0,mg,480,g,2,g,0,g,0,g,0,g,0,g,1,g
+762,buffalo wild wings,10 count boneless wings add desert heat seasoning,0,g,0,mg,330,g,2,g,0,g,0,g,0,g,0,g,1,g
+763,buffalo wild wings,10 count boneless wings add honey bbq sauce,0,g,0,mg,830,g,34,g,0,g,0,g,0,g,0,g,28,g
+764,buffalo wild wings,10 count boneless wings add hot sauce,8,g,0,mg,2200,g,4,g,1,g,1.5,g,0,g,1,g,0,g
+765,buffalo wild wings,10 count boneless wings add jammin jalapeno sauce,0,g,0,mg,1360,g,40,g,0,g,0,g,0,g,0,g,32,g
+766,buffalo wild wings,10 count boneless wings add lemon pepper sauce,38,g,0,mg,1380,g,3,g,0,g,6,g,0.5,g,1,g,1,g
+767,buffalo wild wings,10 count boneless wings add lemon pepper seasoning,0,g,0,mg,390,g,1,g,0,g,0,g,0,g,0,g,0,g
+768,buffalo wild wings,10 count boneless wings add mango habanero sauce,1,g,0,mg,870,g,35,g,0,g,0,g,0,g,1,g,26,g
+769,buffalo wild wings,10 count boneless wings add medium sauce,6,g,10,mg,2170,g,3,g,1,g,1,g,0,g,0,g,0,g
+770,buffalo wild wings,10 count boneless wings add mild sauce,9,g,10,mg,1850,g,3,g,1,g,1.5,g,0,g,0,g,0,g
+771,buffalo wild wings,10 count boneless wings add nashville hot sauce with pickles,6,g,5,mg,1380,g,5,g,1,g,2.5,g,0,g,1,g,2,g
+772,buffalo wild wings,10 count boneless wings add orange chicken sauce,0,g,0,mg,1020,g,30,g,1,g,0,g,0,g,0,g,25,g
+773,buffalo wild wings,10 count boneless wings add original buffalo sauce,24,g,0,mg,1980,g,2,g,0,g,4.5,g,0,g,0,g,0,g
+774,buffalo wild wings,10 count boneless wings add parmesan garlic sauce,25,g,25,mg,1250,g,6,g,2,g,4.5,g,0,g,1,g,2,g
+775,buffalo wild wings,10 count boneless wings add salt and vinegar seasoning,0,g,0,mg,710,g,1,g,0,g,0,g,0,g,0,g,1,g
+776,buffalo wild wings,10 count boneless wings add smoky adobo sauce,0,g,0,mg,1120,g,11,g,1,g,0,g,0,g,1,g,6,g
+777,buffalo wild wings,10 count boneless wings add spicy garlic sauce,8,g,15,mg,2270,g,4,g,1,g,1.5,g,0,g,0,g,0,g
+778,buffalo wild wings,10 count boneless wings add sweet bbq sauce,0,g,0,mg,1120,g,23,g,1,g,0,g,0,g,1,g,17,g
+779,buffalo wild wings,10 count boneless wings add teriyaki sauce,0,g,0,mg,1450,g,30,g,4,g,0,g,0,g,1,g,24,g
+780,buffalo wild wings,10 count boneless wings add thai curry sauce,29,g,15,mg,1800,g,8,g,1,g,5,g,0,g,1,g,4,g
+781,buffalo wild wings,10 count boneless wings add wild sauce,8,g,0,mg,1710,g,5,g,1,g,1.5,g,0,g,1,g,2,g
+782,buffalo wild wings,10 count traditional wings,41,g,360,mg,270,g,0,g,88,g,13,g,1,g,0,g,0,g
+783,buffalo wild wings,10 count traditional wings add asian zing sauce,0,g,0,mg,860,g,31,g,1,g,0,g,0,g,1,g,29,g
+784,buffalo wild wings,10 count traditional wings add blazin carolina reaper sauce,4.5,g,0,mg,680,g,5,g,1,g,0.5,g,0,g,1,g,2,g
+785,buffalo wild wings,10 count traditional wings add buffalo seasoning,0,g,0,mg,640,g,1,g,0,g,0,g,0,g,0,g,0,g
+786,buffalo wild wings,10 count traditional wings add caribbean jerk sauce,4,g,0,mg,490,g,19,g,0,g,0.5,g,0,g,1,g,17,g
+787,buffalo wild wings,10 count traditional wings add chipotle bbq seasoning,0,g,0,mg,480,g,2,g,0,g,0,g,0,g,0,g,1,g
+788,buffalo wild wings,10 count traditional wings add desert heat seasoning,0,g,0,mg,330,g,2,g,0,g,0,g,0,g,0,g,1,g
+789,buffalo wild wings,10 count traditional wings add honey bbq sauce,0,g,0,mg,620,g,25,g,0,g,0,g,0,g,0,g,21,g
+790,buffalo wild wings,10 count traditional wings add hot sauce,6,g,0,mg,1650,g,3,g,1,g,1,g,0,g,1,g,0,g
+791,buffalo wild wings,10 count traditional wings add jammin jalapeno sauce,0,g,0,mg,1020,g,30,g,0,g,0,g,0,g,0,g,24,g
+792,buffalo wild wings,10 count traditional wings add lemon pepper sauce,28,g,0,mg,1060,g,3,g,0,g,4.5,g,0,g,1,g,1,g
+793,buffalo wild wings,10 count traditional wings add lemon pepper seasoning,0,g,0,mg,390,g,1,g,0,g,0,g,0,g,0,g,0,g
+794,buffalo wild wings,10 count traditional wings add mango habanero sauce,1,g,0,mg,650,g,26,g,0,g,0,g,0,g,1,g,20,g
+795,buffalo wild wings,10 count traditional wings add medium sauce,4,g,10,mg,1630,g,2,g,0,g,0.5,g,0,g,0,g,0,g
+796,buffalo wild wings,10 count traditional wings add mild sauce,7,g,10,mg,1390,g,2,g,0,g,1,g,0,g,0,g,0,g
+797,buffalo wild wings,10 count traditional wings add nashville hot sauce with pickles,5,g,5,mg,1090,g,4,g,1,g,2,g,0,g,1,g,2,g
+798,buffalo wild wings,10 count traditional wings add orange chicken sauce,0,g,0,mg,770,g,22,g,1,g,0,g,0,g,0,g,19,g
+799,buffalo wild wings,10 count traditional wings add original buffalo sauce,18,g,0,mg,1480,g,2,g,0,g,3.5,g,0,g,0,g,0,g
+800,buffalo wild wings,10 count traditional wings add parmesan garlic sauce,19,g,20,mg,940,g,5,g,2,g,3.5,g,0,g,1,g,2,g
+801,buffalo wild wings,10 count traditional wings add salt and vinegar seasoning,0,g,0,mg,710,g,1,g,0,g,0,g,0,g,0,g,1,g
+802,buffalo wild wings,10 count traditional wings add smoky adobo sauce,0,g,0,mg,840,g,8,g,0,g,0,g,0,g,0,g,4,g
+803,buffalo wild wings,10 count traditional wings add spicy garlic sauce,6,g,10,mg,1700,g,3,g,1,g,1,g,0,g,0,g,0,g
+804,buffalo wild wings,10 count traditional wings add sweet bbq sauce,0,g,0,mg,840,g,17,g,1,g,0,g,0,g,1,g,13,g
+805,buffalo wild wings,10 count traditional wings add teriyaki sauce,0,g,0,mg,1090,g,22,g,3,g,0,g,0,g,0,g,18,g
+806,buffalo wild wings,10 count traditional wings add thai curry sauce,22,g,15,mg,1350,g,6,g,1,g,4,g,0,g,1,g,3,g
+807,buffalo wild wings,10 count traditional wings add wild sauce,6,g,0,mg,1280,g,4,g,0,g,1,g,0,g,1,g,1,g
+808,buffalo wild wings,100 count boneless wings,310,g,1425,mg,20950,g,340,g,479,g,120,g,19,g,12,g,6,g
+809,buffalo wild wings,100 count traditional wings,408,g,3605,mg,2670,g,0,g,883,g,135,g,9,g,0,g,0,g
+810,buffalo wild wings,15 count boneless wings,46,g,215,mg,3140,g,51,g,72,g,18,g,3,g,2,g,1,g
+811,buffalo wild wings,15 count boneless wings add asian zing sauce,0.5,g,0,mg,1720,g,62,g,1,g,0,g,0,g,1,g,57,g
+812,buffalo wild wings,15 count boneless wings add blazin carolina reaper sauce,9,g,0,mg,1360,g,9,g,1,g,1.5,g,0,g,3,g,3,g
+813,buffalo wild wings,15 count boneless wings add buffalo seasoning,0,g,0,mg,950,g,2,g,0,g,0,g,0,g,0,g,0,g
+814,buffalo wild wings,15 count boneless wings add caribbean jerk sauce,8,g,0,mg,990,g,39,g,1,g,1.5,g,0,g,1,g,34,g
+815,buffalo wild wings,15 count boneless wings add chipotle bbq seasoning,0,g,0,mg,720,g,3,g,0,g,0,g,0,g,0,g,1,g
+816,buffalo wild wings,15 count boneless wings add desert heat seasoning,0,g,0,mg,500,g,3,g,0,g,0,g,0,g,1,g,1,g
+817,buffalo wild wings,15 count boneless wings add honey bbq sauce,0,g,0,mg,1240,g,50,g,1,g,0,g,0,g,1,g,41,g
+818,buffalo wild wings,15 count boneless wings add hot sauce,12,g,0,mg,3300,g,6,g,1,g,2,g,0,g,1,g,0,g
+819,buffalo wild wings,15 count boneless wings add jammin jalapeno sauce,0,g,0,mg,2040,g,60,g,0,g,0,g,0,g,0,g,48,g
+820,buffalo wild wings,15 count boneless wings add lemon pepper sauce,57,g,0,mg,2070,g,5,g,0,g,9,g,1,g,1,g,1,g
+821,buffalo wild wings,15 count boneless wings add lemon pepper seasoning,0,g,0,mg,580,g,2,g,0,g,0,g,0,g,1,g,0,g
+822,buffalo wild wings,15 count boneless wings add mango habanero sauce,1.5,g,0,mg,1300,g,53,g,1,g,0,g,0,g,1,g,40,g
+823,buffalo wild wings,15 count boneless wings add medium sauce,8,g,20,mg,3260,g,4,g,1,g,1.5,g,0,g,0,g,0,g
+824,buffalo wild wings,15 count boneless wings add mild sauce,14,g,15,mg,2770,g,4,g,1,g,2.5,g,0,g,0,g,0,g
+825,buffalo wild wings,15 count boneless wings add nashville hot sauce with pickles,10,g,10,mg,1970,g,8,g,1,g,3.5,g,0,g,1,g,4,g
+826,buffalo wild wings,15 count boneless wings add orange chicken sauce,0.5,g,0,mg,1530,g,45,g,2,g,0,g,0,g,1,g,38,g
+827,buffalo wild wings,15 count boneless wings add original buffalo sauce,36,g,0,mg,2960,g,3,g,1,g,7,g,0,g,0,g,0,g
+828,buffalo wild wings,15 count boneless wings add parmesan garlic sauce,38,g,35,mg,1880,g,9,g,3,g,7,g,0.5,g,1,g,3,g
+829,buffalo wild wings,15 count boneless wings add salt and vinegar seasoning,0,g,0,mg,1070,g,2,g,0,g,0,g,0,g,0,g,1,g
+830,buffalo wild wings,15 count boneless wings add smoky adobo sauce,0.5,g,0,mg,1670,g,16,g,1,g,0,g,0,g,1,g,9,g
+831,buffalo wild wings,15 count boneless wings add spicy garlic sauce,12,g,20,mg,3400,g,6,g,1,g,2,g,0,g,0,g,0,g
+832,buffalo wild wings,15 count boneless wings add sweet bbq sauce,0,g,0,mg,1680,g,35,g,1,g,0,g,0,g,2,g,25,g
+833,buffalo wild wings,15 count boneless wings add teriyaki sauce,0,g,0,mg,2170,g,45,g,6,g,0,g,0,g,1,g,35,g
+834,buffalo wild wings,15 count boneless wings add thai curry sauce,43,g,25,mg,2710,g,11,g,2,g,8,g,0.5,g,2,g,7,g
+835,buffalo wild wings,15 count boneless wings add wild sauce,12,g,0,mg,2560,g,8,g,1,g,2,g,0,g,1,g,3,g
+836,buffalo wild wings,15 count traditional wings,61,g,540,mg,400,g,0,g,132,g,20,g,1.5,g,0,g,0,g
+837,buffalo wild wings,15 count traditional wings add asian zing sauce,0,g,0,mg,1150,g,41,g,1,g,0,g,0,g,1,g,38,g
+838,buffalo wild wings,15 count traditional wings add blazin carolina reaper sauce,6,g,0,mg,910,g,6,g,1,g,1,g,0,g,2,g,2,g
+839,buffalo wild wings,15 count traditional wings add buffalo seasoning,0,g,0,mg,950,g,2,g,0,g,0,g,0,g,0,g,0,g
+840,buffalo wild wings,15 count traditional wings add caribbean jerk sauce,5,g,0,mg,660,g,26,g,1,g,1,g,0,g,1,g,23,g
+841,buffalo wild wings,15 count traditional wings add chipotle bbq seasoning,0,g,0,mg,720,g,3,g,0,g,0,g,0,g,0,g,1,g
+842,buffalo wild wings,15 count traditional wings add desert heat seasoning,0,g,0,mg,500,g,3,g,0,g,0,g,0,g,1,g,1,g
+843,buffalo wild wings,15 count traditional wings add honey bbq sauce,0,g,0,mg,830,g,34,g,0,g,0,g,0,g,0,g,28,g
+844,buffalo wild wings,15 count traditional wings add hot sauce,8,g,0,mg,2200,g,4,g,1,g,1.5,g,0,g,1,g,0,g
+845,buffalo wild wings,15 count traditional wings add jammin jalapeno sauce,0,g,0,mg,1360,g,40,g,0,g,0,g,0,g,0,g,32,g
+846,buffalo wild wings,15 count traditional wings add lemon pepper sauce,38,g,0,mg,1430,g,4,g,0,g,6,g,0.5,g,1,g,1,g
+847,buffalo wild wings,15 count traditional wings add lemon pepper seasoning,0,g,0,mg,580,g,2,g,0,g,0,g,0,g,1,g,0,g
+848,buffalo wild wings,15 count traditional wings add mango habanero sauce,1,g,0,mg,870,g,35,g,0,g,0,g,0,g,1,g,26,g
+849,buffalo wild wings,15 count traditional wings add medium sauce,6,g,10,mg,2170,g,3,g,1,g,1,g,0,g,0,g,0,g
+850,buffalo wild wings,15 count traditional wings add mild sauce,9,g,10,mg,1850,g,3,g,1,g,1.5,g,0,g,0,g,0,g
+851,buffalo wild wings,15 count traditional wings add nashville hot sauce with pickles,6,g,5,mg,1380,g,5,g,1,g,2.5,g,0,g,1,g,2,g
+852,buffalo wild wings,15 count traditional wings add orange chicken sauce,0,g,0,mg,1020,g,30,g,1,g,0,g,0,g,0,g,25,g
+853,buffalo wild wings,15 count traditional wings add original buffalo sauce,24,g,0,mg,1980,g,2,g,0,g,4.5,g,0,g,0,g,0,g
+854,buffalo wild wings,15 count traditional wings add parmesan garlic sauce,25,g,25,mg,1250,g,6,g,2,g,4.5,g,0,g,1,g,2,g
+855,buffalo wild wings,15 count traditional wings add salt and vinegar seasoning,0,g,0,mg,1070,g,2,g,0,g,0,g,0,g,0,g,1,g
+856,buffalo wild wings,15 count traditional wings add smoky adobo sauce,0,g,0,mg,1120,g,11,g,1,g,0,g,0,g,1,g,6,g
+857,buffalo wild wings,15 count traditional wings add spicy garlic sauce,8,g,15,mg,2270,g,4,g,1,g,1.5,g,0,g,0,g,0,g
+858,buffalo wild wings,15 count traditional wings add sweet bbq sauce,0,g,0,mg,1120,g,23,g,1,g,0,g,0,g,1,g,17,g
+859,buffalo wild wings,15 count traditional wings add teriyaki sauce,0,g,0,mg,1450,g,30,g,4,g,0,g,0,g,1,g,24,g
+860,buffalo wild wings,15 count traditional wings add thai curry sauce,29,g,15,mg,1800,g,8,g,1,g,5,g,0,g,1,g,4,g
+861,buffalo wild wings,15 count traditional wings add wild sauce,8,g,0,mg,1710,g,5,g,1,g,1.5,g,0,g,1,g,2,g
+862,buffalo wild wings,150 count boneless wings,465,g,2135,mg,31420,g,509,g,719,g,180,g,28,g,18,g,9,g
+863,buffalo wild wings,150 count traditional wings,612,g,5410,mg,4010,g,0,g,1325,g,202,g,14,g,0,g,0,g
+864,buffalo wild wings,20 count boneless wings,62,g,285,mg,4190,g,68,g,96,g,24,g,4,g,2,g,1,g
+865,buffalo wild wings,20 count boneless wings add asian zing sauce,1,g,0,mg,2290,g,83,g,2,g,0,g,0,g,2,g,77,g
+866,buffalo wild wings,20 count boneless wings add blazin carolina reaper sauce,11,g,0,mg,1810,g,12,g,1,g,2,g,0,g,3,g,5,g
+867,buffalo wild wings,20 count boneless wings add buffalo seasoning,0,g,0,mg,1110,g,2,g,0,g,0,g,0,g,0,g,0,g
+868,buffalo wild wings,20 count boneless wings add caribbean jerk sauce,10,g,0,mg,1320,g,52,g,1,g,2,g,0,g,2,g,46,g
+869,buffalo wild wings,20 count boneless wings add chipotle bbq seasoning,0,g,0,mg,840,g,3,g,0,g,0,g,0,g,0,g,2,g
+870,buffalo wild wings,20 count boneless wings add desert heat seasoning,0.5,g,0,mg,590,g,3,g,0,g,0,g,0,g,1,g,1,g
+871,buffalo wild wings,20 count boneless wings add honey bbq sauce,0,g,0,mg,1650,g,67,g,1,g,0,g,0,g,1,g,55,g
+872,buffalo wild wings,20 count boneless wings add hot sauce,16,g,0,mg,4400,g,7,g,2,g,2.5,g,0,g,1,g,1,g
+873,buffalo wild wings,20 count boneless wings add jammin jalapeno sauce,0,g,0,mg,2720,g,80,g,0,g,0,g,0,g,0,g,64,g
+874,buffalo wild wings,20 count boneless wings add lemon pepper sauce,76,g,0,mg,2760,g,7,g,1,g,12,g,1,g,2,g,1,g
+875,buffalo wild wings,20 count boneless wings add lemon pepper seasoning,0,g,0,mg,680,g,2,g,0,g,0,g,0,g,1,g,0,g
+876,buffalo wild wings,20 count boneless wings add mango habanero sauce,2,g,0,mg,1740,g,70,g,1,g,0,g,0,g,2,g,53,g
+877,buffalo wild wings,20 count boneless wings add medium sauce,11,g,25,mg,4350,g,5,g,1,g,2,g,0,g,0,g,0,g
+878,buffalo wild wings,20 count boneless wings add mild sauce,19,g,25,mg,3700,g,5,g,1,g,3,g,0,g,0,g,0,g
+879,buffalo wild wings,20 count boneless wings add nashville hot sauce with pickles,13,g,10,mg,2760,g,11,g,1,g,5,g,0,g,2,g,5,g
+880,buffalo wild wings,20 count boneless wings add orange chicken sauce,0.5,g,0,mg,2050,g,59,g,2,g,0,g,0,g,1,g,51,g
+881,buffalo wild wings,20 count boneless wings add original buffalo sauce,47,g,0,mg,3950,g,4,g,1,g,9,g,0.5,g,1,g,0,g
+882,buffalo wild wings,20 count boneless wings add parmesan garlic sauce,50,g,45,mg,2500,g,12,g,5,g,9,g,1,g,2,g,5,g
+883,buffalo wild wings,20 count boneless wings add salt and vinegar seasoning,0,g,0,mg,1250,g,2,g,0,g,0,g,0,g,0,g,1,g
+884,buffalo wild wings,20 count boneless wings add smoky adobo sauce,1,g,0,mg,2230,g,22,g,1,g,0,g,0,g,1,g,12,g
+885,buffalo wild wings,20 count boneless wings add spicy garlic sauce,16,g,30,mg,4530,g,8,g,2,g,3,g,0,g,1,g,0,g
+886,buffalo wild wings,20 count boneless wings add sweet bbq sauce,0,g,0,mg,2230,g,46,g,1,g,0,g,0,g,2,g,34,g
+887,buffalo wild wings,20 count boneless wings add teriyaki sauce,0,g,0,mg,2900,g,60,g,8,g,0,g,0,g,1,g,47,g
+888,buffalo wild wings,20 count boneless wings add thai curry sauce,58,g,35,mg,3610,g,15,g,3,g,11,g,1,g,2,g,9,g
+889,buffalo wild wings,20 count boneless wings add wild sauce,17,g,0,mg,3410,g,10,g,1,g,2.5,g,0,g,2,g,3,g
+890,buffalo wild wings,20 count traditional wings,82,g,720,mg,530,g,0,g,177,g,27,g,2,g,0,g,0,g
+891,buffalo wild wings,20 count traditional wings add asian zing sauce,0.5,g,0,mg,1430,g,52,g,1,g,0,g,0,g,1,g,48,g
+892,buffalo wild wings,20 count traditional wings add blazin carolina reaper sauce,9,g,0,mg,1360,g,9,g,1,g,1.5,g,0,g,3,g,3,g
+893,buffalo wild wings,20 count traditional wings add buffalo seasoning,0,g,0,mg,1110,g,2,g,0,g,0,g,0,g,0,g,0,g
+894,buffalo wild wings,20 count traditional wings add caribbean jerk sauce,6,g,0,mg,820,g,32,g,1,g,1,g,0,g,1,g,29,g
+895,buffalo wild wings,20 count traditional wings add chipotle bbq seasoning,0,g,0,mg,840,g,3,g,0,g,0,g,0,g,0,g,2,g
+896,buffalo wild wings,20 count traditional wings add desert heat seasoning,0.5,g,0,mg,590,g,3,g,0,g,0,g,0,g,1,g,1,g
+897,buffalo wild wings,20 count traditional wings add honey bbq sauce,0,g,0,mg,1030,g,42,g,1,g,0,g,0,g,1,g,34,g
+898,buffalo wild wings,20 count traditional wings add hot sauce,10,g,0,mg,2750,g,5,g,1,g,1.5,g,0,g,1,g,0,g
+899,buffalo wild wings,20 count traditional wings add jammin jalapeno sauce,0,g,0,mg,1700,g,50,g,0,g,0,g,0,g,0,g,40,g
+900,buffalo wild wings,20 count traditional wings add lemon pepper sauce,57,g,0,mg,2120,g,5,g,1,g,9,g,1,g,2,g,1,g
+901,buffalo wild wings,20 count traditional wings add lemon pepper seasoning,0,g,0,mg,680,g,2,g,0,g,0,g,0,g,1,g,0,g
+902,buffalo wild wings,20 count traditional wings add mango habanero sauce,1.5,g,0,mg,1090,g,44,g,1,g,0,g,0,g,1,g,33,g
+903,buffalo wild wings,20 count traditional wings add medium sauce,7,g,15,mg,2720,g,3,g,1,g,1,g,0,g,0,g,0,g
+904,buffalo wild wings,20 count traditional wings add mild sauce,12,g,15,mg,2310,g,3,g,1,g,2,g,0,g,0,g,0,g
+905,buffalo wild wings,20 count traditional wings add nashville hot sauce with pickles,10,g,10,mg,1970,g,8,g,1,g,3.5,g,0,g,1,g,4,g
+906,buffalo wild wings,20 count traditional wings add orange chicken sauce,0.5,g,0,mg,1530,g,45,g,2,g,0,g,0,g,1,g,38,g
+907,buffalo wild wings,20 count traditional wings add original buffalo sauce,30,g,0,mg,2470,g,3,g,1,g,6,g,0,g,0,g,0,g
+908,buffalo wild wings,20 count traditional wings add parmesan garlic sauce,31,g,30,mg,1560,g,8,g,3,g,6,g,0.5,g,1,g,3,g
+909,buffalo wild wings,20 count traditional wings add salt and vinegar seasoning,0,g,0,mg,1250,g,2,g,0,g,0,g,0,g,0,g,1,g
+910,buffalo wild wings,20 count traditional wings add smoky adobo sauce,0.5,g,0,mg,1390,g,14,g,1,g,0,g,0,g,1,g,7,g
+911,buffalo wild wings,20 count traditional wings add spicy garlic sauce,10,g,20,mg,2830,g,5,g,1,g,1.5,g,0,g,0,g,0,g
+912,buffalo wild wings,20 count traditional wings add sweet bbq sauce,0,g,0,mg,1400,g,29,g,1,g,0,g,0,g,1,g,21,g
+913,buffalo wild wings,20 count traditional wings add teriyaki sauce,0,g,0,mg,1810,g,37,g,5,g,0,g,0,g,1,g,30,g
+914,buffalo wild wings,20 count traditional wings add thai curry sauce,36,g,20,mg,2250,g,9,g,2,g,7,g,0.5,g,2,g,5,g
+915,buffalo wild wings,20 count traditional wings add wild sauce,10,g,0,mg,2130,g,6,g,1,g,1.5,g,0,g,1,g,2,g
+916,buffalo wild wings,3 count hand breaded chicken tenders,24,g,110,mg,1490,g,34,g,35,g,9,g,1.5,g,2,g,0,g
+917,buffalo wild wings,3 count naked chicken tenders,1,g,0,mg,1140,g,0,g,37,g,0,g,0,g,0,g,0,g
+918,buffalo wild wings,30 count boneless wings,93,g,425,mg,6280,g,102,g,144,g,36,g,6,g,4,g,2,g
+919,buffalo wild wings,30 count boneless wings add asian zing sauce,1.5,g,0,mg,3440,g,124,g,2,g,0,g,0,g,3,g,115,g
+920,buffalo wild wings,30 count boneless wings add blazin carolina reaper sauce,17,g,0,mg,2720,g,18,g,2,g,2.5,g,0,g,5,g,7,g
+921,buffalo wild wings,30 count boneless wings add buffalo seasoning,0.5,g,0,mg,1910,g,4,g,0,g,0,g,0,g,0,g,0,g
+922,buffalo wild wings,30 count boneless wings add caribbean jerk sauce,15,g,0,mg,1980,g,77,g,2,g,3,g,0,g,3,g,69,g
+923,buffalo wild wings,30 count boneless wings add chipotle bbq seasoning,0,g,0,mg,1450,g,6,g,0,g,0,g,0,g,1,g,3,g
+924,buffalo wild wings,30 count boneless wings add desert heat seasoning,1,g,0,mg,1000,g,6,g,1,g,0,g,0,g,1,g,2,g
+925,buffalo wild wings,30 count boneless wings add honey bbq sauce,0,g,0,mg,2480,g,101,g,1,g,0,g,0,g,1,g,83,g
+926,buffalo wild wings,30 count boneless wings add hot sauce,24,g,0,mg,6610,g,11,g,2,g,4,g,0,g,2,g,1,g
+927,buffalo wild wings,30 count boneless wings add jammin jalapeno sauce,0,g,0,mg,4080,g,120,g,0,g,0,g,0,g,0,g,96,g
+928,buffalo wild wings,30 count boneless wings add lemon pepper sauce,114,g,0,mg,4140,g,10,g,1,g,18,g,1.5,g,3,g,2,g
+929,buffalo wild wings,30 count boneless wings add lemon pepper seasoning,0,g,0,mg,1160,g,3,g,0,g,0,g,0,g,1,g,0,g
+930,buffalo wild wings,30 count boneless wings add mango habanero sauce,3,g,0,mg,2610,g,106,g,1,g,0,g,0,g,3,g,79,g
+931,buffalo wild wings,30 count boneless wings add medium sauce,17,g,35,mg,6520,g,8,g,2,g,3,g,0,g,1,g,0,g
+932,buffalo wild wings,30 count boneless wings add mild sauce,28,g,35,mg,5540,g,8,g,2,g,4.5,g,0,g,1,g,0,g
+933,buffalo wild wings,30 count boneless wings add nashville hot sauce with pickles,19,g,15,mg,3740,g,16,g,2,g,7,g,0,g,3,g,7,g
+934,buffalo wild wings,30 count boneless wings add orange chicken sauce,1,g,0,mg,3070,g,89,g,3,g,0,g,0,g,1,g,76,g
+935,buffalo wild wings,30 count boneless wings add original buffalo sauce,71,g,0,mg,5930,g,7,g,1,g,14,g,1,g,1,g,0,g
+936,buffalo wild wings,30 count boneless wings add parmesan garlic sauce,75,g,70,mg,3750,g,18,g,7,g,14,g,1,g,2,g,7,g
+937,buffalo wild wings,30 count boneless wings add salt and vinegar seasoning,0,g,0,mg,2140,g,4,g,0,g,0,g,0,g,0,g,2,g
+938,buffalo wild wings,30 count boneless wings add smoky adobo sauce,1,g,0,mg,3350,g,33,g,2,g,0,g,0,g,2,g,18,g
+939,buffalo wild wings,30 count boneless wings add spicy garlic sauce,24,g,45,mg,6800,g,11,g,3,g,4,g,0,g,1,g,0,g
+940,buffalo wild wings,30 count boneless wings add sweet bbq sauce,0.5,g,0,mg,3350,g,70,g,2,g,0,g,0,g,3,g,51,g
+941,buffalo wild wings,30 count boneless wings add teriyaki sauce,0,g,0,mg,4350,g,90,g,11,g,0,g,0,g,2,g,71,g
+942,buffalo wild wings,30 count boneless wings add thai curry sauce,86,g,50,mg,5410,g,23,g,4,g,16,g,1,g,4,g,13,g
+943,buffalo wild wings,30 count boneless wings add wild sauce,25,g,0,mg,5120,g,15,g,2,g,4,g,0,g,2,g,5,g
+944,buffalo wild wings,30 count traditional wings,122,g,1080,mg,800,g,0,g,265,g,40,g,2.5,g,0,g,0,g
+945,buffalo wild wings,30 count traditional wings add asian zing sauce,0.5,g,0,mg,1720,g,62,g,1,g,0,g,0,g,1,g,57,g
+946,buffalo wild wings,30 count traditional wings add blazin carolina reaper sauce,11,g,0,mg,1810,g,12,g,1,g,2,g,0,g,3,g,5,g
+947,buffalo wild wings,30 count traditional wings add buffalo seasoning,0.5,g,0,mg,1910,g,4,g,0,g,0,g,0,g,0,g,0,g
+948,buffalo wild wings,30 count traditional wings add caribbean jerk sauce,8,g,0,mg,990,g,39,g,1,g,1.5,g,0,g,1,g,34,g
+949,buffalo wild wings,30 count traditional wings add chipotle bbq seasoning,0,g,0,mg,1450,g,6,g,0,g,0,g,0,g,1,g,3,g
+950,buffalo wild wings,30 count traditional wings add desert heat seasoning,1,g,0,mg,1000,g,6,g,1,g,0,g,0,g,1,g,2,g
+951,buffalo wild wings,30 count traditional wings add honey bbq sauce,0,g,0,mg,1240,g,50,g,1,g,0,g,0,g,1,g,41,g
+952,buffalo wild wings,30 count traditional wings add hot sauce,12,g,0,mg,3300,g,6,g,1,g,2,g,0,g,1,g,0,g
+953,buffalo wild wings,30 count traditional wings add jammin jalapeno sauce,0,g,0,mg,2040,g,60,g,0,g,0,g,0,g,0,g,48,g
+954,buffalo wild wings,30 count traditional wings add lemon pepper sauce,76,g,0,mg,2860,g,7,g,1,g,12,g,1,g,2,g,1,g
+955,buffalo wild wings,30 count traditional wings add lemon pepper seasoning,0,g,0,mg,1160,g,3,g,0,g,0,g,0,g,1,g,0,g
+956,buffalo wild wings,30 count traditional wings add mango habanero sauce,1.5,g,0,mg,1300,g,53,g,1,g,0,g,0,g,1,g,40,g
+957,buffalo wild wings,30 count traditional wings add medium sauce,8,g,20,mg,3260,g,4,g,1,g,1.5,g,0,g,0,g,0,g
+958,buffalo wild wings,30 count traditional wings add mild sauce,14,g,15,mg,2770,g,4,g,1,g,2.5,g,0,g,0,g,0,g
+959,buffalo wild wings,30 count traditional wings add nashville hot sauce with pickles,13,g,10,mg,2760,g,11,g,1,g,5,g,0,g,2,g,5,g
+960,buffalo wild wings,30 count traditional wings add orange chicken sauce,0.5,g,0,mg,2050,g,59,g,2,g,0,g,0,g,1,g,51,g
+961,buffalo wild wings,30 count traditional wings add original buffalo sauce,36,g,0,mg,2960,g,3,g,1,g,7,g,0,g,0,g,0,g
+962,buffalo wild wings,30 count traditional wings add parmesan garlic sauce,38,g,35,mg,1880,g,9,g,3,g,7,g,0.5,g,1,g,3,g
+963,buffalo wild wings,30 count traditional wings add salt and vinegar seasoning,0,g,0,mg,2140,g,4,g,0,g,0,g,0,g,0,g,2,g
+964,buffalo wild wings,30 count traditional wings add smoky adobo sauce,0.5,g,0,mg,1670,g,16,g,1,g,0,g,0,g,1,g,9,g
+965,buffalo wild wings,30 count traditional wings add spicy garlic sauce,12,g,20,mg,3400,g,6,g,1,g,2,g,0,g,0,g,0,g
+966,buffalo wild wings,30 count traditional wings add sweet bbq sauce,0,g,0,mg,1680,g,35,g,1,g,0,g,0,g,2,g,25,g
+967,buffalo wild wings,30 count traditional wings add teriyaki sauce,0,g,0,mg,2170,g,45,g,6,g,0,g,0,g,1,g,35,g
+968,buffalo wild wings,30 count traditional wings add thai curry sauce,43,g,25,mg,2710,g,11,g,2,g,8,g,0.5,g,2,g,7,g
+969,buffalo wild wings,30 count traditional wings add wild sauce,12,g,0,mg,2560,g,8,g,1,g,2,g,0,g,1,g,3,g
+970,buffalo wild wings,5 count hand breaded chicken tenders,40,g,185,mg,2480,g,56,g,58,g,16,g,2,g,3,g,0,g
+971,buffalo wild wings,5 count naked chicken tenders,2,g,0,mg,1910,g,0,g,61,g,0.5,g,0,g,0,g,0,g
+972,buffalo wild wings,50 count boneless wings,155,g,710,mg,10470,g,170,g,240,g,60,g,9,g,6,g,3,g
+973,buffalo wild wings,50 count traditional wings,204,g,1805,mg,1340,g,0,g,442,g,67,g,4.5,g,0,g,0,g
+974,buffalo wild wings,6 count boneless wings,19,g,85,mg,1260,g,20,g,29,g,7,g,1,g,1,g,0,g
+975,buffalo wild wings,6 count boneless wings add asian zing sauce,0,g,0,mg,860,g,31,g,1,g,0,g,0,g,1,g,29,g
+976,buffalo wild wings,6 count boneless wings add blazin carolina reaper sauce,4.5,g,0,mg,680,g,5,g,1,g,0.5,g,0,g,1,g,2,g
+977,buffalo wild wings,6 count boneless wings add buffalo seasoning,0,g,0,mg,480,g,1,g,0,g,0,g,0,g,0,g,0,g
+978,buffalo wild wings,6 count boneless wings add caribbean jerk sauce,4,g,0,mg,490,g,19,g,0,g,0.5,g,0,g,1,g,17,g
+979,buffalo wild wings,6 count boneless wings add chipotle bbq seasoning,0,g,0,mg,360,g,1,g,0,g,0,g,0,g,0,g,1,g
+980,buffalo wild wings,6 count boneless wings add desert heat seasoning,0,g,0,mg,250,g,1,g,0,g,0,g,0,g,0,g,1,g
+981,buffalo wild wings,6 count boneless wings add honey bbq sauce,0,g,0,mg,620,g,25,g,0,g,0,g,0,g,0,g,21,g
+982,buffalo wild wings,6 count boneless wings add hot sauce,6,g,0,mg,1650,g,3,g,1,g,1,g,0,g,1,g,0,g
+983,buffalo wild wings,6 count boneless wings add jammin jalapeno sauce,0,g,0,mg,1020,g,30,g,0,g,0,g,0,g,0,g,24,g
+984,buffalo wild wings,6 count boneless wings add lemon pepper sauce,28,g,0,mg,1010,g,3,g,0,g,4.5,g,0,g,1,g,1,g
+985,buffalo wild wings,6 count boneless wings add lemon pepper seasoning,0,g,0,mg,290,g,1,g,0,g,0,g,0,g,0,g,0,g
+986,buffalo wild wings,6 count boneless wings add mango habanero sauce,1,g,0,mg,650,g,26,g,0,g,0,g,0,g,1,g,20,g
+987,buffalo wild wings,6 count boneless wings add medium sauce,4,g,10,mg,1630,g,2,g,0,g,0.5,g,0,g,0,g,0,g
+988,buffalo wild wings,6 count boneless wings add mild sauce,7,g,10,mg,1390,g,2,g,0,g,1,g,0,g,0,g,0,g
+989,buffalo wild wings,6 count boneless wings add nashville hot sauce with pickles,5,g,5,mg,1090,g,4,g,1,g,2,g,0,g,1,g,2,g
+990,buffalo wild wings,6 count boneless wings add orange chicken sauce,0,g,0,mg,770,g,22,g,1,g,0,g,0,g,0,g,19,g
+991,buffalo wild wings,6 count boneless wings add original buffalo sauce,18,g,0,mg,1480,g,2,g,0,g,3.5,g,0,g,0,g,0,g
+992,buffalo wild wings,6 count boneless wings add parmesan garlic sauce,19,g,20,mg,940,g,5,g,2,g,3.5,g,0,g,1,g,2,g
+993,buffalo wild wings,6 count boneless wings add salt and vinegar seasoning,0,g,0,mg,540,g,1,g,0,g,0,g,0,g,0,g,0,g
+994,buffalo wild wings,6 count boneless wings add smoky adobo sauce,0,g,0,mg,840,g,8,g,0,g,0,g,0,g,0,g,4,g
+995,buffalo wild wings,6 count boneless wings add spicy garlic sauce,6,g,10,mg,1700,g,3,g,1,g,1,g,0,g,0,g,0,g
+996,buffalo wild wings,6 count boneless wings add sweet bbq sauce,0,g,0,mg,840,g,17,g,1,g,0,g,0,g,1,g,13,g
+997,buffalo wild wings,6 count boneless wings add teriyaki sauce,0,g,0,mg,1090,g,22,g,3,g,0,g,0,g,0,g,18,g
+998,buffalo wild wings,6 count boneless wings add thai curry sauce,22,g,15,mg,1350,g,6,g,1,g,4,g,0,g,1,g,3,g
+999,buffalo wild wings,6 count boneless wings add wild sauce,6,g,0,mg,1280,g,4,g,0,g,1,g,0,g,1,g,1,g

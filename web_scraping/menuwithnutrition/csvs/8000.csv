@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,aroma joes,fresh brewed coffee iced 24 oz,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+1,aroma joes,fresh brewed coffee iced 32 oz,0,g,0,mg,10,g,0,g,1,g,0,g,0,g,0,g,0,g
+2,aroma joes,fronog frojoe 12 oz,8,g,40,mg,180,g,43,g,9,g,5,g,0,g,0,g,40,g
+3,aroma joes,fronog frojoe 16 oz,12,g,55,mg,240,g,57,g,13,g,7,g,0,g,0,g,52,g
+4,aroma joes,fronog frojoe 20 oz,16,g,70,mg,320,g,74,g,17,g,9,g,0,g,0,g,68,g
+5,aroma joes,fronog frojoe 24 oz,18,g,80,mg,370,g,85,g,20,g,11,g,0,g,0,g,79,g
+6,aroma joes,fronog frojoe 32 oz,25,g,105,mg,490,g,114,g,26,g,14,g,0.5,g,0,g,105,g
+7,aroma joes,frozen black tea lemonade 12 oz,0,g,0,mg,0,g,30,g,0,g,0,g,0,g,0,g,28,g
+8,aroma joes,frozen black tea lemonade 16 oz,0,g,0,mg,0,g,40,g,0,g,0,g,0,g,0,g,37,g
+9,aroma joes,frozen black tea lemonade 20 oz,0,g,0,mg,0,g,50,g,0,g,0,g,0,g,0,g,47,g
+10,aroma joes,frozen black tea lemonade 24 oz,0,g,0,mg,0,g,60,g,0,g,0,g,0,g,0,g,56,g
+11,aroma joes,frozen black tea lemonade 32 oz,0,g,0,mg,0,g,79,g,0,g,0,g,0,g,0,g,75,g
+12,aroma joes,frozen fuel 32 oz,0,g,0,mg,160,g,38,g,1,g,0,g,0,g,0,g,37,g
+13,aroma joes,frozen green tea lemonade 12 oz,0,g,0,mg,0,g,30,g,0,g,0,g,0,g,0,g,28,g
+14,aroma joes,frozen green tea lemonade 16 oz,0,g,0,mg,0,g,40,g,0,g,0,g,0,g,0,g,37,g
+15,aroma joes,frozen green tea lemonade 20 oz,0,g,0,mg,0,g,50,g,0,g,0,g,0,g,0,g,47,g
+16,aroma joes,frozen green tea lemonade 24 oz,0,g,0,mg,0,g,60,g,0,g,0,g,0,g,0,g,56,g
+17,aroma joes,frozen green tea lemonade 32 oz,0,g,0,mg,0,g,79,g,0,g,0,g,0,g,0,g,75,g
+18,aroma joes,frozen lemonade 12 oz,0,g,0,mg,0,g,60,g,0,g,0,g,0,g,0,g,56,g
+19,aroma joes,frozen lemonade 16 oz,0,g,0,mg,0,g,79,g,0,g,0,g,0,g,0,g,75,g
+20,aroma joes,frozen lemonade 20 oz,0,g,0,mg,0,g,99,g,0,g,0,g,0,g,0,g,94,g
+21,aroma joes,frozen lemonade 24 oz,0,g,0,mg,0,g,119,g,0,g,0,g,0,g,0,g,112,g
+22,aroma joes,frozen lemonade 32 oz,0,g,0,mg,0,g,159,g,0,g,0,g,0,g,0,g,150,g
+23,aroma joes,frozen soda with mtn dew and torani syrup green apple,0,g,0,mg,65,g,63,g,0,g,0,g,0,g,0,g,63,g
+24,aroma joes,green alien ajs rush 24 oz,0,g,0,mg,140,g,67,g,1,g,0,g,0,g,0,g,66,g
+25,aroma joes,green alien ajs rush 32 oz,0,g,0,mg,170,g,90,g,1,g,0,g,0,g,0,g,89,g
+26,aroma joes,green alien frozen fuel 32 oz,0,g,0,mg,160,g,106,g,1,g,0,g,0,g,0,g,105,g
+27,aroma joes,green alien italian ajs rush 32 oz,0,g,0,mg,130,g,76,g,1,g,0,g,0,g,0,g,75,g
+28,aroma joes,h2joe with torani syrup green apple,0,g,0,mg,5,g,35,g,0,g,0,g,0,g,0,g,35,g
+29,aroma joes,handcrafted frojoe 12 oz,13,g,40,mg,125,g,31,g,4,g,8,g,0.5,g,0,g,28,g
+30,aroma joes,handcrafted frojoe 16 oz,21,g,70,mg,170,g,35,g,7,g,13,g,1,g,0,g,32,g
+31,aroma joes,handcrafted frojoe 20 oz,25,g,85,mg,220,g,50,g,8,g,16,g,1,g,0,g,45,g
+32,aroma joes,handcrafted frojoe 24 oz,31,g,105,mg,260,g,53,g,10,g,20,g,1.5,g,0,g,47,g
+33,aroma joes,handcrafted frojoe 32 oz,41,g,140,mg,340,g,71,g,13,g,26,g,2,g,0,g,63,g
+34,aroma joes,handcrafted soda with torani syrup green apple 12 oz,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,17,g
+35,aroma joes,handcrafted soda with torani syrup green apple 16 oz,0,g,0,mg,0,g,23,g,0,g,0,g,0,g,0,g,23,g
+36,aroma joes,handcrafted soda with torani syrup green apple 20 oz,0,g,0,mg,0,g,35,g,0,g,0,g,0,g,0,g,35,g
+37,aroma joes,handcrafted soda with torani syrup green apple 24 oz,0,g,0,mg,0,g,46,g,0,g,0,g,0,g,0,g,46,g
+38,aroma joes,handcrafted soda with torani syrup green apple 32 oz,0,g,0,mg,0,g,69,g,0,g,0,g,0,g,0,g,69,g
+39,aroma joes,hash brown bites,10,g,0,mg,460,g,20,g,1,g,1,g,0,g,2,g,1,g
+40,aroma joes,holiday brew hot 12 oz,4,g,60,mg,210,g,29,g,8,g,2.5,g,0,g,0,g,27,g
+41,aroma joes,holiday brew hot 16 oz,5,g,80,mg,280,g,38,g,10,g,3,g,0,g,0,g,36,g
+42,aroma joes,holiday brew hot 20 oz,6,g,100,mg,360,g,48,g,13,g,4,g,0,g,0,g,45,g
+43,aroma joes,holiday brew hot 24 oz,8,g,120,mg,430,g,57,g,15,g,4.5,g,0,g,0,g,54,g
+44,aroma joes,holiday brew iced 12 oz,1.5,g,25,mg,85,g,11,g,3,g,1,g,0,g,0,g,10,g
+45,aroma joes,holiday brew iced 16 oz,2,g,30,mg,105,g,14,g,4,g,1,g,0,g,0,g,14,g
+46,aroma joes,holiday brew iced 20 oz,3,g,45,mg,170,g,22,g,6,g,2,g,0,g,0,g,21,g
+47,aroma joes,holiday brew iced 24 oz,4,g,60,mg,220,g,29,g,8,g,2.5,g,0,g,0,g,27,g
+48,aroma joes,holiday brew iced 32 oz,4.5,g,75,mg,260,g,35,g,9,g,3,g,0,g,0,g,33,g
+49,aroma joes,hot chocolate 12 oz,12,g,55,mg,290,g,41,g,12,g,8,g,0,g,2,g,38,g
+50,aroma joes,hot chocolate 16 oz,16,g,70,mg,380,g,54,g,16,g,10,g,0,g,2,g,50,g
+51,aroma joes,hot chocolate 20 oz,20,g,90,mg,480,g,68,g,20,g,13,g,0,g,3,g,63,g
+52,aroma joes,hot chocolate 24 oz,24,g,105,mg,570,g,81,g,24,g,15,g,0,g,3,g,75,g
+53,aroma joes,house blend ajs double shot,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+54,aroma joes,iced black tea 12 oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+55,aroma joes,iced black tea 16 oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+56,aroma joes,iced black tea 20 oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+57,aroma joes,iced black tea 24 oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+58,aroma joes,iced black tea 32 oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+59,aroma joes,iced black tea lemonade 12 oz,0,g,0,mg,0,g,23,g,0,g,0,g,0,g,0,g,22,g
+60,aroma joes,iced black tea lemonade 16 oz,0,g,0,mg,0,g,30,g,0,g,0,g,0,g,0,g,28,g
+61,aroma joes,iced black tea lemonade 20 oz,0,g,0,mg,0,g,47,g,0,g,0,g,0,g,0,g,44,g
+62,aroma joes,iced black tea lemonade 24 oz,0,g,0,mg,0,g,61,g,0,g,0,g,0,g,0,g,57,g
+63,aroma joes,iced black tea lemonade 32 oz,0,g,0,mg,0,g,73,g,0,g,0,g,0,g,0,g,69,g
+64,aroma joes,iced green tea 12 oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+65,aroma joes,iced green tea 16 oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+66,aroma joes,iced green tea 20 oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+67,aroma joes,iced green tea 24 oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+68,aroma joes,iced green tea 32 oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+69,aroma joes,iced green tea lemonade 12 oz,0,g,0,mg,0,g,23,g,0,g,0,g,0,g,0,g,22,g
+70,aroma joes,iced green tea lemonade 16 oz,0,g,0,mg,0,g,30,g,0,g,0,g,0,g,0,g,28,g
+71,aroma joes,iced green tea lemonade 20 oz,0,g,0,mg,0,g,47,g,0,g,0,g,0,g,0,g,44,g
+72,aroma joes,iced green tea lemonade 24 oz,0,g,0,mg,0,g,61,g,0,g,0,g,0,g,0,g,57,g
+73,aroma joes,iced green tea lemonade 32 oz,0,g,0,mg,0,g,73,g,0,g,0,g,0,g,0,g,69,g
+74,aroma joes,iced lemonade 12 oz,0,g,0,mg,0,g,23,g,0,g,0,g,0,g,0,g,22,g
+75,aroma joes,iced lemonade 16 oz,0,g,0,mg,0,g,30,g,0,g,0,g,0,g,0,g,28,g
+76,aroma joes,iced lemonade 20 oz,0,g,0,mg,0,g,47,g,0,g,0,g,0,g,0,g,44,g
+77,aroma joes,iced lemonade 24 oz,0,g,0,mg,0,g,61,g,0,g,0,g,0,g,0,g,57,g
+78,aroma joes,iced lemonade 32 oz,0,g,0,mg,0,g,73,g,0,g,0,g,0,g,0,g,69,g
+79,aroma joes,iced lemonade sparkling 12 oz,0,g,0,mg,0,g,23,g,0,g,0,g,0,g,0,g,22,g
+80,aroma joes,iced lemonade sparkling 16 oz,0,g,0,mg,0,g,30,g,0,g,0,g,0,g,0,g,28,g
+81,aroma joes,iced lemonade sparkling 20 oz,0,g,0,mg,0,g,47,g,0,g,0,g,0,g,0,g,44,g
+82,aroma joes,iced lemonade sparkling 24 oz,0,g,0,mg,0,g,61,g,0,g,0,g,0,g,0,g,57,g
+83,aroma joes,iced lemonade sparkling 32 oz,0,g,0,mg,0,g,73,g,0,g,0,g,0,g,0,g,69,g
+84,aroma joes,irish kicker latte hot 12 oz,29,g,95,mg,180,g,31,g,9,g,19,g,1.5,g,0,g,29,g
+85,aroma joes,irish kicker latte hot 16 oz,41,g,140,mg,250,g,37,g,13,g,27,g,2,g,0,g,34,g
+86,aroma joes,irish kicker latte hot 20 oz,47,g,160,mg,290,g,46,g,14,g,30,g,2,g,0,g,42,g
+87,aroma joes,irish kicker latte hot 24 oz,59,g,195,mg,360,g,57,g,18,g,38,g,2.5,g,0,g,52,g
+88,aroma joes,irish kicker latte iced 12 oz,6,g,20,mg,45,g,21,g,2,g,4,g,0,g,0,g,20,g
+89,aroma joes,irish kicker latte iced 16 oz,10,g,35,mg,70,g,23,g,3,g,7,g,0,g,0,g,21,g
+90,aroma joes,irish kicker latte iced 20 oz,14,g,45,mg,100,g,31,g,4,g,9,g,0.5,g,0,g,29,g
+91,aroma joes,irish kicker latte iced 24 oz,22,g,75,mg,140,g,41,g,7,g,14,g,1,g,0,g,37,g
+92,aroma joes,irish kicker latte iced 32 oz,22,g,75,mg,150,g,53,g,7,g,14,g,1,g,0,g,49,g
+93,aroma joes,island pom ajs rush 24 oz,0,g,0,mg,190,g,66,g,1,g,0,g,0,g,0,g,65,g
+94,aroma joes,island pom ajs rush 32 oz,0,g,0,mg,240,g,89,g,1,g,0,g,0,g,0,g,87,g
+95,aroma joes,island pom frozen fuel 32 oz,0,g,0,mg,260,g,104,g,1,g,0,g,0,g,0,g,102,g
+96,aroma joes,island pom italian ajs rush 32 oz,0,g,0,mg,200,g,75,g,1,g,0,g,0,g,0,g,73,g
+97,aroma joes,italian ajs rush energy 32 oz,0,g,0,mg,160,g,37,g,1,g,0,g,0,g,0,g,36,g
+98,aroma joes,jugga joe,1,g,0,mg,55,g,0,g,4,g,0,g,0,g,0,g,0,g
+99,aroma joes,ketchup dip and squeeze,0,g,0,mg,250,g,8,g,0,g,0,g,0,g,0,g,6,g
+100,aroma joes,macchiato hot 12 oz,6,g,25,mg,150,g,16,g,10,g,4,g,0,g,0,g,15,g
+101,aroma joes,macchiato hot 16 oz,9,g,35,mg,210,g,21,g,14,g,5,g,0,g,0,g,20,g
+102,aroma joes,macchiato hot 20 oz,10,g,40,mg,250,g,25,g,16,g,6,g,0,g,0,g,23,g
+103,aroma joes,macchiato hot 24 oz,12,g,50,mg,300,g,31,g,20,g,8,g,0.5,g,0,g,29,g
+104,aroma joes,macchiato iced 12 oz,1.5,g,5,mg,45,g,5,g,3,g,1,g,0,g,0,g,4,g
+105,aroma joes,macchiato iced 16 oz,2.5,g,10,mg,65,g,7,g,4,g,1.5,g,0,g,0,g,6,g
+106,aroma joes,macchiato iced 20 oz,3.5,g,15,mg,95,g,10,g,6,g,2,g,0,g,0,g,8,g
+107,aroma joes,macchiato iced 24 oz,5,g,20,mg,135,g,14,g,8,g,3,g,0,g,0,g,12,g
+108,aroma joes,macchiato iced 32 oz,6,g,20,mg,150,g,16,g,9,g,3.5,g,0,g,0,g,13,g
+109,aroma joes,mango smoothie 12 oz,0,g,0,mg,10,g,69,g,0,g,0,g,0,g,3,g,65,g
+110,aroma joes,mango smoothie 16 oz,0,g,0,mg,10,g,92,g,0,g,0,g,0,g,4,g,86,g
+111,aroma joes,mango smoothie 20 oz,0,g,0,mg,15,g,115,g,0,g,0,g,0,g,5,g,108,g
+112,aroma joes,mango smoothie 24 oz,0,g,0,mg,15,g,138,g,0,g,0,g,0,g,6,g,129,g
+113,aroma joes,mango smoothie 32 oz,0,g,0,mg,20,g,184,g,0,g,0,g,0,g,8,g,172,g
+114,aroma joes,mighty leaf tea chamomile citrus,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+115,aroma joes,mighty leaf tea earl grey organic,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+116,aroma joes,mighty leaf tea marrakesh mint,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+117,aroma joes,mighty leaf tea masala chai,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+118,aroma joes,mighty leaf tea organic breakfast,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+119,aroma joes,mighty leaf tea organic green dragon,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+120,aroma joes,mighty leaf tea wildberry hibiscus,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+121,aroma joes,mint pattie latte hot 12 oz,9,g,40,mg,230,g,50,g,9,g,6,g,0,g,1,g,47,g
+122,aroma joes,mint pattie latte hot 16 oz,13,g,60,mg,320,g,64,g,13,g,8,g,0,g,2,g,59,g
+123,aroma joes,mint pattie latte hot 20 oz,15,g,65,mg,370,g,77,g,15,g,9,g,0,g,2,g,71,g
+124,aroma joes,mint pattie latte hot 24 oz,19,g,80,mg,460,g,95,g,19,g,12,g,0,g,2,g,88,g
+125,aroma joes,mint pattie latte iced 12 oz,2,g,10,mg,55,g,25,g,2,g,1,g,0,g,0,g,24,g
+126,aroma joes,mint pattie latte iced 16 oz,3.5,g,15,mg,85,g,30,g,3,g,2,g,0,g,0,g,28,g
+127,aroma joes,mint pattie latte iced 20 oz,4.5,g,20,mg,120,g,41,g,5,g,3,g,0,g,1,g,38,g
+128,aroma joes,mint pattie latte iced 24 oz,7,g,30,mg,180,g,55,g,7,g,4.5,g,0,g,1,g,51,g
+129,aroma joes,mint pattie latte iced 32 oz,7,g,30,mg,190,g,68,g,7,g,4.5,g,0,g,1,g,63,g
+130,aroma joes,mtn dew,0,g,0,mg,65,g,46,g,0,g,0,g,0,g,0,g,46,g
+131,aroma joes,night nog latte hot 12 oz,5,g,85,mg,300,g,56,g,10,g,3,g,0,g,1,g,51,g
+132,aroma joes,night nog latte hot 16 oz,8,g,125,mg,440,g,75,g,15,g,4.5,g,0,g,1,g,69,g
+133,aroma joes,night nog latte hot 20 oz,8,g,130,mg,480,g,85,g,17,g,5,g,0,g,1,g,78,g
+134,aroma joes,night nog latte hot 24 oz,11,g,170,mg,610,g,107,g,21,g,6,g,0,g,1,g,99,g
+135,aroma joes,night nog latte iced 12 oz,2,g,25,mg,100,g,29,g,3,g,1,g,0,g,1,g,26,g
+136,aroma joes,night nog latte iced 16 oz,2,g,35,mg,120,g,31,g,4,g,1.5,g,0,g,1,g,29,g
+137,aroma joes,night nog latte iced 20 oz,3,g,45,mg,170,g,43,g,6,g,2,g,0,g,1,g,39,g
+138,aroma joes,night nog latte iced 24 oz,4.5,g,70,mg,260,g,60,g,9,g,2.5,g,0,g,1,g,55,g
+139,aroma joes,night nog latte iced 32 oz,4.5,g,70,mg,270,g,70,g,9,g,3,g,0,g,1,g,65,g
+140,aroma joes,northreester latte hot 12 oz,9,g,30,mg,140,g,30,g,9,g,5,g,0,g,0,g,29,g
+141,aroma joes,northreester latte hot 16 oz,13,g,40,mg,190,g,36,g,13,g,8,g,0,g,0,g,35,g
+142,aroma joes,northreester latte hot 20 oz,15,g,45,mg,230,g,45,g,15,g,9,g,0,g,0,g,43,g
+143,aroma joes,northreester latte hot 24 oz,19,g,55,mg,280,g,55,g,18,g,11,g,0.5,g,0,g,53,g
+144,aroma joes,northreester latte iced 12 oz,2,g,5,mg,45,g,19,g,2,g,1,g,0,g,0,g,18,g
+145,aroma joes,northreester latte iced 16 oz,3.5,g,10,mg,60,g,21,g,3,g,2,g,0,g,0,g,20,g
+146,aroma joes,northreester latte iced 20 oz,4.5,g,15,mg,90,g,29,g,4,g,2.5,g,0,g,0,g,27,g
+147,aroma joes,northreester latte iced 24 oz,7,g,20,mg,125,g,38,g,7,g,4,g,0,g,0,g,36,g
+148,aroma joes,northreester latte iced 32 oz,7,g,20,mg,140,g,49,g,7,g,4,g,0,g,0,g,46,g
+149,aroma joes,nutty bar latte hot 12 oz,9,g,40,mg,230,g,48,g,9,g,6,g,0,g,1,g,45,g
+150,aroma joes,nutty bar latte hot 16 oz,13,g,60,mg,320,g,62,g,13,g,8,g,0,g,2,g,57,g
+151,aroma joes,nutty bar latte hot 20 oz,15,g,65,mg,370,g,74,g,15,g,9,g,0,g,2,g,68,g
+152,aroma joes,nutty bar latte hot 24 oz,19,g,80,mg,460,g,92,g,19,g,12,g,0,g,2,g,85,g
+153,aroma joes,nutty bar latte iced 12 oz,2,g,10,mg,55,g,23,g,2,g,1,g,0,g,0,g,22,g
+154,aroma joes,nutty bar latte iced 16 oz,3.5,g,15,mg,85,g,28,g,3,g,2,g,0,g,0,g,26,g
+155,aroma joes,nutty bar latte iced 20 oz,4.5,g,20,mg,125,g,38,g,5,g,3,g,0,g,1,g,35,g
+156,aroma joes,nutty bar latte iced 24 oz,7,g,30,mg,180,g,52,g,7,g,4.5,g,0,g,1,g,48,g
+157,aroma joes,nutty bar latte iced 32 oz,7,g,30,mg,190,g,64,g,7,g,4.5,g,0,g,1,g,58,g
+158,aroma joes,pango punch ajs rush 24 oz,0,g,0,mg,140,g,68,g,1,g,0,g,0,g,0,g,67,g
+159,aroma joes,pango punch ajs rush 32 oz,0,g,0,mg,170,g,91,g,1,g,0,g,0,g,0,g,90,g
+160,aroma joes,pango punch frozen fuel 32 oz,0,g,0,mg,160,g,107,g,1,g,0,g,0,g,0,g,106,g
+161,aroma joes,pango punch italian ajs rush 32 oz,0,g,0,mg,130,g,77,g,1,g,0,g,0,g,0,g,76,g
+162,aroma joes,paris toast latte hot 12 oz,6,g,25,mg,170,g,30,g,9,g,3.5,g,0,g,0,g,29,g
+163,aroma joes,paris toast latte hot 16 oz,8,g,30,mg,220,g,36,g,13,g,5,g,0,g,0,g,35,g
+164,aroma joes,paris toast latte hot 20 oz,9,g,35,mg,260,g,45,g,15,g,6,g,0,g,0,g,42,g
+165,aroma joes,paris toast latte hot 24 oz,11,g,45,mg,330,g,56,g,19,g,7,g,0.5,g,0,g,53,g
+166,aroma joes,paris toast latte iced 12 oz,1,g,5,mg,60,g,20,g,2,g,1,g,0,g,0,g,18,g
+167,aroma joes,paris toast latte iced 16 oz,2,g,10,mg,80,g,21,g,3,g,1.5,g,0,g,0,g,20,g
+168,aroma joes,paris toast latte iced 20 oz,3,g,10,mg,115,g,29,g,5,g,2,g,0,g,0,g,27,g
+169,aroma joes,paris toast latte iced 24 oz,4.5,g,15,mg,160,g,38,g,7,g,3,g,0,g,0,g,36,g
+170,aroma joes,paris toast latte iced 32 oz,4.5,g,15,mg,180,g,50,g,7,g,3,g,0,g,0,g,46,g
+171,aroma joes,pb mocha latte hot 12 oz,9,g,40,mg,230,g,49,g,9,g,6,g,0,g,1,g,45,g
+172,aroma joes,pb mocha latte hot 16 oz,13,g,60,mg,330,g,62,g,13,g,8,g,0,g,2,g,57,g
+173,aroma joes,pb mocha latte hot 20 oz,15,g,65,mg,380,g,75,g,15,g,9,g,0,g,2,g,68,g
+174,aroma joes,pb mocha latte hot 24 oz,19,g,80,mg,470,g,93,g,19,g,12,g,0,g,2,g,85,g
+175,aroma joes,pb mocha latte iced 12 oz,2,g,10,mg,55,g,24,g,2,g,1,g,0,g,0,g,22,g
+176,aroma joes,pb mocha latte iced 16 oz,3.5,g,15,mg,90,g,28,g,3,g,2,g,0,g,0,g,26,g
+177,aroma joes,pb mocha latte iced 20 oz,4.5,g,20,mg,125,g,39,g,5,g,3,g,0,g,1,g,35,g
+178,aroma joes,pb mocha latte iced 24 oz,7,g,30,mg,190,g,53,g,7,g,4.5,g,0,g,1,g,48,g
+179,aroma joes,pb mocha latte iced 32 oz,7,g,30,mg,200,g,65,g,7,g,4.5,g,0,g,1,g,58,g
+180,aroma joes,perfect cloud latte hot 12 oz,9,g,30,mg,140,g,29,g,9,g,5,g,0,g,0,g,28,g
+181,aroma joes,perfect cloud latte hot 16 oz,13,g,40,mg,190,g,35,g,13,g,8,g,0,g,0,g,34,g
+182,aroma joes,perfect cloud latte hot 20 oz,15,g,45,mg,230,g,43,g,15,g,9,g,0,g,0,g,41,g
+183,aroma joes,perfect cloud latte hot 24 oz,19,g,55,mg,280,g,54,g,18,g,11,g,0.5,g,0,g,52,g
+184,aroma joes,perfect cloud latte iced 12 oz,2,g,5,mg,45,g,18,g,2,g,1,g,0,g,0,g,17,g
+185,aroma joes,perfect cloud latte iced 16 oz,3.5,g,10,mg,65,g,20,g,3,g,2,g,0,g,0,g,19,g
+186,aroma joes,perfect cloud latte iced 20 oz,4.5,g,15,mg,90,g,28,g,4,g,2.5,g,0,g,0,g,26,g
+187,aroma joes,perfect cloud latte iced 24 oz,7,g,20,mg,130,g,36,g,7,g,4,g,0,g,0,g,34,g
+188,aroma joes,perfect cloud latte iced 32 oz,7,g,20,mg,150,g,47,g,7,g,4,g,0,g,0,g,44,g
+189,aroma joes,perfect pumpkin latte hot 12 oz,6,g,25,mg,140,g,30,g,9,g,3.5,g,0,g,0,g,29,g
+190,aroma joes,perfect pumpkin latte hot 16 oz,8,g,30,mg,200,g,36,g,13,g,5,g,0,g,0,g,35,g
+191,aroma joes,perfect pumpkin latte hot 20 oz,9,g,35,mg,230,g,45,g,15,g,6,g,0,g,0,g,43,g
+192,aroma joes,perfect pumpkin latte hot 24 oz,11,g,45,mg,290,g,56,g,19,g,7,g,0.5,g,0,g,53,g
+193,aroma joes,perfect pumpkin latte iced 12 oz,1,g,5,mg,35,g,20,g,2,g,1,g,0,g,0,g,18,g
+194,aroma joes,perfect pumpkin latte iced 16 oz,2,g,10,mg,55,g,22,g,3,g,1.5,g,0,g,0,g,20,g
+195,aroma joes,perfect pumpkin latte iced 20 oz,3,g,10,mg,80,g,30,g,5,g,2,g,0,g,0,g,27,g
+196,aroma joes,perfect pumpkin latte iced 24 oz,4.5,g,15,mg,115,g,39,g,7,g,3,g,0,g,0,g,36,g
+197,aroma joes,perfect pumpkin latte iced 32 oz,4.5,g,15,mg,125,g,50,g,7,g,3,g,0,g,0,g,46,g
+198,aroma joes,pina colada smoothie 12 oz,2.5,g,0,mg,10,g,62,g,0,g,1.5,g,0,g,3,g,54,g
+199,aroma joes,pina colada smoothie 16 oz,3,g,0,mg,10,g,82,g,0,g,2,g,0,g,4,g,72,g
+200,aroma joes,pina colada smoothie 20 oz,4,g,0,mg,15,g,103,g,0,g,2.5,g,0,g,5,g,90,g
+201,aroma joes,pina colada smoothie 24 oz,4.5,g,0,mg,15,g,123,g,0,g,3,g,0,g,6,g,108,g
+202,aroma joes,pina colada smoothie 32 oz,6,g,0,mg,20,g,164,g,0,g,4,g,0,g,8,g,144,g
+203,aroma joes,poland spring water,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+204,aroma joes,quad shot,0,g,0,mg,15,g,2,g,0,g,0,g,0,g,0,g,0,g
+205,aroma joes,red white and bliss latte hot 12 oz,9,g,30,mg,140,g,30,g,9,g,5,g,0,g,0,g,29,g
+206,aroma joes,red white and bliss latte hot 16 oz,13,g,40,mg,190,g,36,g,13,g,8,g,0,g,0,g,35,g
+207,aroma joes,red white and bliss latte hot 20 oz,15,g,45,mg,230,g,44,g,15,g,9,g,0,g,0,g,42,g
+208,aroma joes,red white and bliss latte hot 24 oz,19,g,55,mg,280,g,55,g,18,g,11,g,0.5,g,0,g,53,g
+209,aroma joes,red white and bliss latte iced 12 oz,2,g,5,mg,45,g,19,g,2,g,1,g,0,g,0,g,18,g
+210,aroma joes,red white and bliss latte iced 16 oz,3.5,g,10,mg,60,g,21,g,3,g,2,g,0,g,0,g,20,g
+211,aroma joes,red white and bliss latte iced 20 oz,4.5,g,15,mg,90,g,29,g,4,g,2.5,g,0,g,0,g,27,g
+212,aroma joes,red white and bliss latte iced 24 oz,7,g,20,mg,125,g,38,g,7,g,4,g,0,g,0,g,36,g
+213,aroma joes,red white and bliss latte iced 32 oz,7,g,20,mg,140,g,49,g,7,g,4,g,0,g,0,g,46,g
+214,aroma joes,rock it pop ajs rush 24 oz,0,g,0,mg,140,g,63,g,1,g,0,g,0,g,0,g,62,g
+215,aroma joes,rock it pop ajs rush 32 oz,0,g,0,mg,170,g,84,g,1,g,0,g,0,g,0,g,83,g
+216,aroma joes,rock it pop frozen fuel 32 oz,0,g,0,mg,160,g,98,g,1,g,0,g,0,g,0,g,97,g
+217,aroma joes,rock it pop italian ajs rush 32 oz,0,g,0,mg,130,g,71,g,1,g,0,g,0,g,0,g,70,g
+218,aroma joes,roo cookie latte hot 12 oz,6,g,25,mg,150,g,30,g,9,g,3.5,g,0,g,1,g,28,g
+219,aroma joes,roo cookie latte hot 16 oz,8,g,30,mg,210,g,36,g,14,g,5,g,0,g,1,g,34,g
+220,aroma joes,roo cookie latte hot 20 oz,9,g,35,mg,250,g,45,g,15,g,6,g,0,g,1,g,41,g
+221,aroma joes,roo cookie latte hot 24 oz,11,g,45,mg,300,g,55,g,19,g,7,g,0.5,g,1,g,52,g
+222,aroma joes,roo cookie latte iced 12 oz,1.5,g,5,mg,45,g,19,g,2,g,1,g,0,g,1,g,17,g
+223,aroma joes,roo cookie latte iced 16 oz,2,g,10,mg,65,g,21,g,3,g,1.5,g,0,g,1,g,19,g
+224,aroma joes,roo cookie latte iced 20 oz,3,g,10,mg,95,g,29,g,5,g,2,g,0,g,1,g,26,g
+225,aroma joes,roo cookie latte iced 24 oz,4.5,g,15,mg,135,g,38,g,7,g,3,g,0,g,1,g,34,g
+226,aroma joes,roo cookie latte iced 32 oz,4.5,g,15,mg,150,g,49,g,7,g,3,g,0,g,2,g,44,g
+227,aroma joes,smore fantasy latte hot 12 oz,9,g,40,mg,250,g,49,g,9,g,6,g,0,g,1,g,46,g
+228,aroma joes,smore fantasy latte hot 16 oz,13,g,60,mg,350,g,63,g,13,g,8,g,0,g,2,g,58,g
+229,aroma joes,smore fantasy latte hot 20 oz,15,g,65,mg,410,g,76,g,15,g,9,g,0,g,2,g,69,g
+230,aroma joes,smore fantasy latte hot 24 oz,19,g,80,mg,500,g,94,g,19,g,12,g,0,g,2,g,87,g
+231,aroma joes,smore fantasy latte iced 12 oz,2,g,10,mg,80,g,25,g,2,g,1,g,0,g,0,g,23,g
+232,aroma joes,smore fantasy latte iced 16 oz,3.5,g,15,mg,110,g,29,g,3,g,2,g,0,g,0,g,27,g
+233,aroma joes,smore fantasy latte iced 20 oz,4.5,g,20,mg,160,g,40,g,5,g,3,g,0,g,1,g,36,g
+234,aroma joes,smore fantasy latte iced 24 oz,7,g,30,mg,220,g,54,g,7,g,4.5,g,0,g,1,g,50,g
+235,aroma joes,smore fantasy latte iced 32 oz,7,g,30,mg,250,g,67,g,7,g,4.5,g,0,g,1,g,61,g
+236,aroma joes,schwepps gingerale,0,g,0,mg,25,g,32,g,0,g,0,g,0,g,0,g,32,g
+237,aroma joes,shamrock latte hot 12 oz,6,g,25,mg,150,g,31,g,9,g,3.5,g,0,g,0,g,30,g
+238,aroma joes,shamrock latte hot 16 oz,8,g,30,mg,210,g,37,g,13,g,5,g,0,g,0,g,36,g
+239,aroma joes,shamrock latte hot 20 oz,9,g,35,mg,250,g,46,g,15,g,6,g,0,g,0,g,44,g
+240,aroma joes,shamrock latte hot 24 oz,11,g,45,mg,300,g,56,g,19,g,7,g,0.5,g,0,g,54,g
+241,aroma joes,shamrock latte iced 12 oz,1,g,5,mg,45,g,20,g,2,g,1,g,0,g,0,g,19,g
+242,aroma joes,shamrock latte iced 16 oz,2,g,10,mg,65,g,22,g,3,g,1.5,g,0,g,0,g,21,g
+243,aroma joes,shamrock latte iced 20 oz,3,g,10,mg,95,g,30,g,5,g,2,g,0,g,0,g,28,g
+244,aroma joes,shamrock latte iced 24 oz,4.5,g,15,mg,135,g,39,g,7,g,3,g,0,g,0,g,37,g
+245,aroma joes,shamrock latte iced 32 oz,4.5,g,15,mg,150,g,51,g,7,g,3,g,0,g,0,g,48,g
+246,aroma joes,shamrock macchiato hot 12 oz,6,g,25,mg,160,g,38,g,10,g,3.5,g,0,g,0,g,36,g
+247,aroma joes,shamrock macchiato hot 16 oz,8,g,30,mg,220,g,44,g,14,g,5,g,0,g,0,g,42,g
+248,aroma joes,shamrock macchiato hot 20 oz,9,g,35,mg,250,g,53,g,16,g,6,g,0,g,0,g,50,g
+249,aroma joes,shamrock macchiato hot 24 oz,12,g,45,mg,300,g,64,g,19,g,7,g,0.5,g,0,g,62,g
+250,aroma joes,shamrock macchiato iced 12 oz,1.5,g,5,mg,55,g,27,g,2,g,1,g,0,g,0,g,25,g
+251,aroma joes,shamrock macchiato iced 16 oz,2,g,10,mg,75,g,29,g,4,g,1.5,g,0,g,0,g,27,g
+252,aroma joes,shamrock macchiato iced 20 oz,3,g,10,mg,100,g,38,g,5,g,2,g,0,g,0,g,35,g
+253,aroma joes,shamrock macchiato iced 24 oz,4.5,g,15,mg,135,g,47,g,7,g,3,g,0,g,0,g,44,g
+254,aroma joes,shamrock macchiato iced 32 oz,4.5,g,15,mg,140,g,60,g,8,g,3,g,0,g,0,g,56,g
+255,aroma joes,simply apple juice,0,g,0,mg,5,g,43,g,0,g,0,g,0,g,0,g,40,g
+256,aroma joes,simply orange juice,0,g,0,mg,0,g,37,g,2,g,0,g,0,g,0,g,33,g
+257,aroma joes,skinny latte hot 12 oz,0,g,5,mg,135,g,16,g,10,g,0,g,0,g,0,g,15,g
+258,aroma joes,skinny latte hot 16 oz,0,g,10,mg,190,g,22,g,15,g,0,g,0,g,0,g,21,g
+259,aroma joes,skinny latte hot 20 oz,0.5,g,10,mg,220,g,26,g,17,g,0,g,0,g,0,g,24,g
+260,aroma joes,skinny latte hot 24 oz,0.5,g,10,mg,270,g,32,g,21,g,0.5,g,0,g,0,g,30,g
+261,aroma joes,skinny latte iced 12 oz,0,g,0,mg,40,g,5,g,3,g,0,g,0,g,0,g,4,g
+262,aroma joes,skinny latte iced 16 oz,0,g,5,mg,60,g,7,g,4,g,0,g,0,g,0,g,6,g
+263,aroma joes,skinny latte iced 20 oz,0,g,5,mg,85,g,10,g,6,g,0,g,0,g,0,g,8,g
+264,aroma joes,skinny latte iced 24 oz,0,g,5,mg,120,g,14,g,9,g,0,g,0,g,0,g,12,g
+265,aroma joes,skinny latte iced 32 oz,0,g,5,mg,135,g,16,g,9,g,0,g,0,g,0,g,13,g
+266,aroma joes,steamer 12 oz,7,g,30,mg,170,g,18,g,12,g,4.5,g,0,g,0,g,18,g
+267,aroma joes,steamer 16 oz,10,g,40,mg,230,g,23,g,16,g,6,g,0,g,0,g,23,g
+268,aroma joes,steamer 20 oz,12,g,50,mg,290,g,29,g,20,g,8,g,0.5,g,0,g,29,g
+269,aroma joes,steamer 24 oz,14,g,60,mg,340,g,35,g,24,g,9,g,0.5,g,0,g,35,g
+270,aroma joes,sticky bunn latte hot 12 oz,6,g,25,mg,140,g,29,g,9,g,3.5,g,0,g,0,g,28,g
+271,aroma joes,sticky bunn latte hot 16 oz,8,g,30,mg,200,g,35,g,13,g,5,g,0,g,0,g,34,g
+272,aroma joes,sticky bunn latte hot 20 oz,9,g,35,mg,230,g,44,g,15,g,6,g,0,g,0,g,41,g
+273,aroma joes,sticky bunn latte hot 24 oz,11,g,45,mg,290,g,54,g,19,g,7,g,0.5,g,0,g,52,g
+274,aroma joes,sticky bunn latte iced 12 oz,1,g,5,mg,35,g,19,g,2,g,1,g,0,g,0,g,17,g
+275,aroma joes,sticky bunn latte iced 16 oz,2,g,10,mg,55,g,21,g,3,g,1.5,g,0,g,0,g,19,g
+276,aroma joes,sticky bunn latte iced 20 oz,3,g,10,mg,80,g,28,g,5,g,2,g,0,g,0,g,26,g
+277,aroma joes,sticky bunn latte iced 24 oz,4.5,g,15,mg,115,g,37,g,7,g,3,g,0,g,0,g,34,g
+278,aroma joes,sticky bunn latte iced 32 oz,4.5,g,15,mg,125,g,48,g,7,g,3,g,0,g,0,g,44,g
+279,aroma joes,strawberry banana smoothie 12 oz,0,g,0,mg,10,g,66,g,0,g,0,g,0,g,3,g,60,g
+280,aroma joes,strawberry banana smoothie 16 oz,0,g,0,mg,10,g,88,g,0,g,0,g,0,g,4,g,80,g
+281,aroma joes,strawberry banana smoothie 20 oz,0,g,0,mg,15,g,110,g,0,g,0,g,0,g,5,g,100,g
+282,aroma joes,strawberry banana smoothie 24 oz,0,g,0,mg,15,g,132,g,0,g,0,g,0,g,6,g,120,g
+283,aroma joes,strawberry banana smoothie 32 oz,0,g,0,mg,20,g,176,g,0,g,0,g,0,g,8,g,160,g
+284,aroma joes,strawberry smoothie 12 oz,0,g,0,mg,0,g,57,g,0,g,0,g,0,g,3,g,50,g
+285,aroma joes,strawberry smoothie 16 oz,0,g,0,mg,0,g,76,g,0,g,0,g,0,g,4,g,66,g
+286,aroma joes,strawberry smoothie 20 oz,0,g,0,mg,0,g,95,g,0,g,0,g,0,g,5,g,83,g
+287,aroma joes,strawberry smoothie 24 oz,0,g,0,mg,0,g,114,g,0,g,0,g,0,g,6,g,99,g
+288,aroma joes,strawberry smoothie 32 oz,0,g,0,mg,0,g,152,g,0,g,0,g,0,g,8,g,132,g
+289,aroma joes,sweet n tart ajs rush 24 oz,0,g,0,mg,140,g,66,g,1,g,0,g,0,g,0,g,65,g
+290,aroma joes,sweet n tart ajs rush 32 oz,0,g,0,mg,170,g,89,g,1,g,0,g,0,g,0,g,88,g
+291,aroma joes,sweet n tart frozen fuel 32 oz,0,g,0,mg,160,g,104,g,1,g,0,g,0,g,0,g,103,g
+292,aroma joes,sweet n tart italian ajs rush 32 oz,0,g,0,mg,130,g,75,g,1,g,0,g,0,g,0,g,74,g
+293,aroma joes,torcha latte hot 12 oz,9,g,40,mg,230,g,47,g,9,g,6,g,0,g,1,g,44,g
+294,aroma joes,torcha latte hot 16 oz,13,g,60,mg,320,g,61,g,13,g,8,g,0,g,2,g,56,g
+295,aroma joes,torcha latte hot 20 oz,15,g,65,mg,370,g,73,g,15,g,9,g,0,g,2,g,67,g
+296,aroma joes,torcha latte hot 24 oz,19,g,80,mg,460,g,90,g,19,g,12,g,0,g,2,g,84,g
+297,aroma joes,torcha latte iced 12 oz,2,g,10,mg,55,g,22,g,2,g,1,g,0,g,0,g,21,g
+298,aroma joes,torcha latte iced 16 oz,3.5,g,15,mg,85,g,27,g,3,g,2,g,0,g,0,g,25,g
+299,aroma joes,torcha latte iced 20 oz,4.5,g,20,mg,120,g,37,g,5,g,3,g,0,g,1,g,34,g
+300,aroma joes,torcha latte iced 24 oz,7,g,30,mg,180,g,50,g,7,g,4.5,g,0,g,1,g,47,g
+301,aroma joes,torcha latte iced 32 oz,7,g,30,mg,190,g,61,g,7,g,4.5,g,0,g,1,g,57,g
+302,aroma joes,tropic sunrise ajs rush 24 oz,0,g,0,mg,140,g,62,g,1,g,0,g,0,g,0,g,61,g
+303,aroma joes,tropic sunrise ajs rush 32 oz,0,g,0,mg,170,g,83,g,1,g,0,g,0,g,0,g,81,g
+304,aroma joes,tropic sunrise frozen fuel 32 oz,0,g,0,mg,160,g,96,g,1,g,0,g,0,g,0,g,94,g
+305,aroma joes,tropic sunrise italian ajs rush 32 oz,0,g,0,mg,130,g,69,g,1,g,0,g,0,g,0,g,68,g
+306,aroma joes,white hot chocolate 12 oz,11,g,35,mg,210,g,41,g,12,g,6,g,0,g,0,g,37,g
+307,aroma joes,white hot chocolate 16 oz,15,g,45,mg,270,g,47,g,15,g,9,g,0,g,0,g,43,g
+308,aroma joes,white hot chocolate 20 oz,19,g,55,mg,350,g,65,g,19,g,11,g,0.5,g,0,g,59,g
+309,aroma joes,white hot chocolate 24 oz,23,g,65,mg,430,g,82,g,23,g,13,g,0.5,g,0,g,74,g
+310,aroma joes,wicked mudslide latte hot 12 oz,9,g,40,mg,230,g,49,g,9,g,6,g,0,g,1,g,46,g
+311,aroma joes,wicked mudslide latte hot 16 oz,13,g,60,mg,320,g,63,g,13,g,8,g,0,g,2,g,58,g
+312,aroma joes,wicked mudslide latte hot 20 oz,15,g,65,mg,370,g,76,g,15,g,9,g,0,g,2,g,70,g
+313,aroma joes,wicked mudslide latte hot 24 oz,19,g,80,mg,460,g,94,g,19,g,12,g,0,g,2,g,87,g
+314,aroma joes,wicked mudslide latte iced 12 oz,2,g,10,mg,55,g,25,g,2,g,1,g,0,g,0,g,23,g
+315,aroma joes,wicked mudslide latte iced 16 oz,3.5,g,15,mg,85,g,29,g,3,g,2,g,0,g,0,g,27,g
+316,aroma joes,wicked mudslide latte iced 20 oz,4.5,g,20,mg,120,g,40,g,5,g,3,g,0,g,1,g,37,g
+317,aroma joes,wicked mudslide latte iced 24 oz,7,g,30,mg,180,g,54,g,7,g,4.5,g,0,g,1,g,50,g
+318,aroma joes,wicked mudslide latte iced 32 oz,7,g,30,mg,190,g,67,g,7,g,4.5,g,0,g,1,g,61,g
+319,asian chao,5 fruit salad,0,g,0,mg,45,g,50,g,2,g,0,g,0,g,4,g,44,g
+320,asian chao,b b q pork,14,g,125,mg,2480,g,12,g,37,g,4.5,g,0,g,2,g,9,g
+321,asian chao,bacon,42,g,65,mg,780,g,2,g,11,g,14,g,0,g,0,g,0,g
+322,asian chao,beef in black bean sauce,6,g,10,mg,870,g,13,g,7,g,1.5,g,0,g,1,g,5,g
+323,asian chao,beef sukiyaki,19,g,15,mg,2620,g,16,g,15,g,4,g,0,g,2,g,10,g
+324,asian chao,beef with broccoli,7,g,10,mg,1990,g,18,g,9,g,1.5,g,0,g,2,g,7,g
+325,asian chao,beginner combo,2.5,g,30,mg,250,g,50,g,14,g,0,g,0,g,2,g,2,g
+326,asian chao,biscuits and gravy,18,g,10,mg,1510,g,60,g,10,g,8,g,1,g,1,g,9,g
+327,asian chao,black pepper beef,10,g,10,mg,990,g,14,g,7,g,2,g,0,g,2,g,5,g
+328,asian chao,black pepper chicken,6,g,30,mg,970,g,12,g,9,g,1,g,0,g,1,g,4,g
+329,asian chao,bourbon chicken,6,g,135,mg,1050,g,9,g,35,g,1.5,g,0,g,0,g,8,g
+330,asian chao,breakfast sandwich with bacon and biscuit,52,g,635,mg,1210,g,30,g,27,g,16,g,0,g,2,g,4,g
+331,asian chao,breakfast sandwich with bacon and muffin,46,g,635,mg,850,g,28,g,28,g,13,g,0,g,2,g,2,g
+332,asian chao,breakfast sandwich with sausage and biscuit,51,g,645,mg,1250,g,29,g,30,g,16,g,0,g,2,g,4,g
+333,asian chao,breakfast sandwich with sausage and muffin,44,g,640,mg,870,g,27,g,30,g,12,g,0,g,2,g,2,g
+334,asian chao,california and terriyaki combo,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+335,asian chao,california roll,9,g,130,mg,290,g,76,g,18,g,1.5,g,0,g,4,g,2,g
+336,asian chao,cheese rangoon,8,g,35,mg,180,g,24,g,5,g,5,g,0,g,2,g,1,g
+337,asian chao,chicken broccoli,6,g,30,mg,1930,g,17,g,11,g,1,g,0,g,2,g,6,g
+338,asian chao,chicken in black bean sauce,6,g,25,mg,910,g,13,g,9,g,1,g,0,g,1,g,5,g
+339,asian chao,chicken teriyaki,15,g,160,mg,3400,g,19,g,45,g,3,g,0,g,2,g,4,g
+340,asian chao,chicken with mushroom,5,g,25,mg,1580,g,13,g,10,g,1,g,0,g,2,g,5,g
+341,asian chao,complete breakfast with bacon and biscuit,61,g,630,mg,1410,g,64,g,31,g,18,g,0,g,5,g,5,g
+342,asian chao,complete breakfast with bacon and muffin,56,g,630,mg,1050,g,63,g,32,g,15,g,0,g,5,g,2,g
+343,asian chao,complete breakfast with sausage and biscuit,59,g,640,mg,1430,g,65,g,34,g,18,g,0,g,5,g,5,g
+344,asian chao,complete breakfast with sausage and muffin,54,g,640,mg,1070,g,62,g,34,g,15,g,0,g,5,g,2,g
+345,asian chao,corn,3,g,5,mg,190,g,18,g,3,g,1,g,0,g,2,g,3,g
+346,asian chao,country gravy,5,g,10,mg,260,g,4,g,3,g,2,g,1,g,0,g,3,g
+347,asian chao,crab rangoon,23,g,95,mg,540,g,31,g,10,g,10,g,0,g,2,g,2,g
+348,asian chao,crab sushi imitation crab meat,0.5,g,10,mg,430,g,34,g,7,g,0,g,0,g,2,g,3,g
+349,asian chao,dragon roll,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+350,asian chao,eel roll,8,g,70,mg,610,g,82,g,18,g,1.5,g,0,g,2,g,11,g
+351,asian chao,eel sushi,4.5,g,45,mg,310,g,32,g,11,g,1,g,0,g,2,g,5,g
+352,asian chao,egg flower soup,2,g,45,mg,550,g,7,g,3,g,0,g,0,g,1,g,2,g
+353,asian chao,expert combo,4.5,g,55,mg,270,g,61,g,19,g,1,g,0,g,2,g,2,g
+354,asian chao,fried plantains,6,g,0,mg,5,g,59,g,2,g,1,g,0,g,4,g,28,g
+355,asian chao,fried rice,22,g,110,mg,750,g,54,g,10,g,3.5,g,0,g,2,g,2,g
+356,asian chao,green dragon roll,32,g,80,mg,720,g,56,g,16,g,0,g,0,g,8,g,0,g
+357,asian chao,home fries,15,g,0,mg,320,g,56,g,6,g,3.5,g,0,g,6,g,0,g
+358,asian chao,hot and sour soup,2.5,g,40,mg,820,g,8,g,3,g,0.5,g,0,g,2,g,2,g
+359,asian chao,kung pao chicken,4.5,g,20,mg,1820,g,15,g,8,g,1,g,0,g,1,g,6,g
+360,asian chao,lo mein noodles,17,g,40,mg,830,g,41,g,8,g,2.5,g,0,g,3,g,5,g
+361,asian chao,maki noodles,15,g,0,mg,820,g,38,g,9,g,2,g,0,g,1,g,4,g
+362,asian chao,maki platter,7,g,95,mg,180,g,73,g,19,g,1,g,0,g,3,g,1,g
+363,asian chao,maki roll,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+364,asian chao,meat omelet with biscuit,58,g,620,mg,1240,g,64,g,29,g,16,g,0,g,5,g,5,g
+365,asian chao,meat omelet with muffin,52,g,620,mg,880,g,62,g,30,g,13,g,0,g,5,g,2,g
+366,asian chao,miso soup,1,g,0,mg,510,g,3,g,2,g,0,g,0,g,0,g,2,g
+367,asian chao,mix vegetables,2.5,g,0,mg,480,g,9,g,2,g,0,g,0,g,2,g,3,g
+368,asian chao,orange chicken,10,g,60,mg,800,g,42,g,18,g,2,g,0,g,2,g,24,g
+369,asian chao,philadelphia roll,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+370,asian chao,pork and vegetable egg roll,12,g,10,mg,450,g,18,g,6,g,3,g,0,g,2,g,2,g
+371,asian chao,rainbow roll,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+372,asian chao,red potatoes,21,g,15,mg,670,g,33,g,3,g,6,g,0,g,3,g,2,g
+373,asian chao,salmon roll,10,g,40,mg,90,g,69,g,16,g,4,g,0,g,2,g,0,g
+374,asian chao,salmon sushi,3.5,g,0,mg,25,g,26,g,8,g,0.5,g,0,g,2,g,0,g
+375,asian chao,sausage,41,g,85,mg,880,g,0,g,17,g,14,g,0,g,0,g,0,g
+376,asian chao,sesame chicken,10,g,60,mg,760,g,44,g,17,g,2,g,0,g,2,g,27,g
+377,asian chao,shrimp roll,6,g,55,mg,105,g,69,g,12,g,3.5,g,0,g,2,g,0,g
+378,asian chao,shrimp sushi,0,g,25,mg,35,g,26,g,5,g,0,g,0,g,1,g,0,g
+379,asian chao,shrimp tempura roll,21,g,45,mg,0,g,64,g,20,g,1.5,g,0,g,5,g,0,g
+380,asian chao,southern breakfast,47,g,730,mg,1740,g,62,g,32,g,15,g,1,g,1,g,10,g
+381,asian chao,special combo,9,g,100,mg,390,g,110,g,33,g,1.5,g,0,g,5,g,5,g
+382,asian chao,spicy chicken,5,g,25,mg,830,g,12,g,8,g,1,g,0,g,2,g,5,g
+383,asian chao,spicy tofu,13,g,0,mg,1010,g,14,g,17,g,2,g,0,g,3,g,4,g
+384,asian chao,steam rice,0.5,g,0,mg,10,g,79,g,7,g,0,g,0,g,1,g,0,g
+385,asian chao,supreme combo,13,g,180,mg,490,g,131,g,35,g,2.5,g,0,g,7,g,5,g
+386,asian chao,sushi fuji combo,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+387,asian chao,tofu with vegetables,7,g,0,mg,1330,g,14,g,11,g,1,g,0,g,3,g,5,g
+388,asian chao,tropical chicken,10,g,55,mg,1060,g,26,g,17,g,1.5,g,0,g,1,g,9,g
+389,asian chao,tuna roll,1,g,20,mg,35,g,69,g,17,g,0,g,0,g,2,g,0,g
+390,asian chao,tuna sushi,0.5,g,15,mg,20,g,26,g,9,g,0,g,0,g,1,g,0,g
+391,asian chao,vegetable egg roll,10,g,5,mg,380,g,18,g,3,g,2,g,0,g,1,g,1,g
+392,asian chao,vegetable omelet with biscuit,38,g,600,mg,830,g,32,g,22,g,10,g,0,g,1,g,5,g
+393,asian chao,vegetable omelet with muffin,41,g,600,mg,660,g,64,g,27,g,9,g,0,g,6,g,3,g
+394,asian chao,vegetable roll,8,g,0,mg,45,g,76,g,8,g,1,g,0,g,6,g,2,g
+395,asian chao,vegetable spring roll,8,g,0,mg,0,g,0,g,0,g,2,g,0,g,0,g,0,g
+396,asian chao,volcano roll,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+397,austins pizza,aquafina alive berry pomegranate,0,g,0,mg,160,g,0,g,0,g,0,g,0,g,0,g,0,g
+398,austins pizza,atomic ranch dressing,22,g,20,mg,1000,g,20,g,1,g,3,g,0,g,0,g,0,g
+399,austins pizza,bbq chicken pizza large,8,g,25,mg,490,g,47,g,13,g,3,g,0,g,2,g,0,g
+400,austins pizza,bbq chicken pizza small,5,g,15,mg,330,g,31,g,9,g,2,g,0,g,1,g,0,g
+401,austins pizza,black olive and mushroom pizza large,8,g,20,mg,280,g,41,g,11,g,3,g,0,g,2,g,0,g
+402,austins pizza,black olives and mushrooms pizza small,5,g,15,mg,180,g,27,g,8,g,2,g,0,g,1,g,0,g
+403,austins pizza,bleu cheese dressing,76,g,60,mg,840,g,4,g,4,g,14,g,0,g,0,g,0,g
+404,austins pizza,blue bell ice cream,32,g,140,mg,300,g,84,g,20,g,24,g,0,g,0,g,0,g
+405,austins pizza,blue cheese dressing 4 oz,76,g,60,mg,840,g,4,g,4,g,14,g,0,g,0,g,0,g
+406,austins pizza,blue cheese dressing 8 oz,152,g,120,mg,1680,g,8,g,8,g,28,g,0,g,0,g,0,g
+407,austins pizza,boneless wings,20,g,175,mg,1580,g,3,g,57,g,6,g,0,g,0,g,0,g
+408,austins pizza,brazos pizza large,13,g,40,mg,700,g,42,g,17,g,6,g,0,g,2,g,0,g
+409,austins pizza,brazos pizza small,9,g,25,mg,480,g,28,g,11,g,4,g,0,g,1,g,0,g
+410,austins pizza,caesar dressing 4 oz,60,g,60,mg,1680,g,8,g,8,g,10,g,0,g,0,g,0,g
+411,austins pizza,caesar dressing 8 oz,120,g,120,mg,3360,g,16,g,16,g,20,g,0,g,0,g,0,g
+412,austins pizza,caesar salad,11,g,30,mg,680,g,18,g,16,g,6,g,0,g,5,g,0,g
+413,austins pizza,californian pizza large,10,g,30,mg,330,g,43,g,15,g,5,g,0,g,2,g,0,g
+414,austins pizza,californian pizza small,7,g,20,mg,220,g,28,g,10,g,3,g,0,g,2,g,0,g
+415,austins pizza,canadian bacon and pineapple pizza large,9,g,35,mg,600,g,42,g,16,g,4,g,0,g,2,g,0,g
+416,austins pizza,canadian bacon and pineapple pizza small,6,g,20,mg,400,g,28,g,11,g,3,g,0,g,1,g,0,g
+417,austins pizza,canadian bacon pizza large,9,g,35,mg,600,g,40,g,16,g,4,g,0,g,2,g,0,g
+418,austins pizza,canadian bacon pizza small,6,g,20,mg,400,g,27,g,11,g,3,g,0,g,1,g,0,g
+419,austins pizza,cheesticks regular crust,164,g,180,mg,1560,g,310,g,91,g,32,g,0,g,13,g,0,g
+420,austins pizza,cheesticks wheat crust,169,g,180,mg,1390,g,293,g,97,g,34,g,0,g,22,g,0,g
+421,austins pizza,classic wings,44,g,215,mg,200,g,0,g,51,g,12,g,0,g,0,g,0,g
+422,austins pizza,diet dr pepper,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+423,austins pizza,diet pepsi bottle,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+424,austins pizza,diet pepsi can,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+425,austins pizza,downtown special pizza large,12,g,30,mg,430,g,41,g,13,g,5,g,0,g,2,g,0,g
+426,austins pizza,downtown special pizza small,9,g,20,mg,320,g,27,g,9,g,3,g,0,g,2,g,0,g
+427,austins pizza,dr pepper,0,g,0,mg,55,g,38,g,0,g,0,g,0,g,0,g,0,g
+428,austins pizza,farmers market pizza large,9,g,20,mg,320,g,44,g,12,g,3,g,0,g,3,g,0,g
+429,austins pizza,farmers market pizza small,6,g,15,mg,210,g,29,g,8,g,2,g,0,g,2,g,0,g
+430,austins pizza,gatorade fruit punch,0,g,0,mg,280,g,35,g,0,g,0,g,0,g,0,g,0,g
+431,austins pizza,gatorade glacier freeze,0,g,0,mg,280,g,35,g,0,g,0,g,0,g,0,g,0,g
+432,austins pizza,gatorade lemon lime,0,g,0,mg,110,g,14,g,0,g,0,g,0,g,0,g,0,g
+433,austins pizza,greek dressing 4 oz,36,g,20,mg,1080,g,8,g,0,g,6,g,0,g,0,g,0,g
+434,austins pizza,greek dressing 8 oz,72,g,40,mg,2160,g,16,g,0,g,12,g,0,g,0,g,0,g
+435,austins pizza,greek salad,26,g,65,mg,2220,g,22,g,14,g,11,g,0,g,5,g,0,g
+436,austins pizza,green mint and honey tea,0,g,0,mg,0,g,38,g,0,g,0,g,0,g,0,g,0,g
+437,austins pizza,hamburger and bacon pizza large,10,g,30,mg,370,g,40,g,14,g,4,g,0,g,2,g,0,g
+438,austins pizza,hamburger and bacon pizza small,7,g,20,mg,270,g,26,g,9,g,3,g,0,g,1,g,0,g
+439,austins pizza,hamburger pizza large,9,g,25,mg,280,g,40,g,12,g,4,g,0,g,2,g,0,g
+440,austins pizza,hamburger pizza small,6,g,20,mg,210,g,26,g,8,g,3,g,0,g,1,g,0,g
+441,austins pizza,hot wing sauce,0,g,0,mg,360,g,8,g,0,g,0,g,0,g,0,g,0,g
+442,austins pizza,italian dressing 4 oz,56,g,0,mg,920,g,8,g,0,g,8,g,0,g,0,g,0,g
+443,austins pizza,italian dressing 8 oz,112,g,0,mg,1840,g,16,g,0,g,16,g,0,g,0,g,0,g
+444,austins pizza,lemon lime unsweetened tea,0,g,0,mg,120,g,0,g,0,g,0,g,0,g,0,g,0,g
+445,austins pizza,lipton brisk iced tea,0,g,0,mg,100,g,35,g,0,g,0,g,0,g,0,g,0,g
+446,austins pizza,margherita pizza large,8,g,20,mg,230,g,41,g,11,g,3,g,0,g,2,g,0,g
+447,austins pizza,margherita pizza small,5,g,15,mg,150,g,27,g,7,g,2,g,0,g,1,g,0,g
+448,austins pizza,meaty madness pizza large,14,g,45,mg,680,g,40,g,17,g,6,g,0,g,2,g,0,g
+449,austins pizza,meaty madness pizza small,9,g,30,mg,460,g,27,g,12,g,4,g,0,g,1,g,0,g
+450,austins pizza,mediterranean pizza large,10,g,25,mg,410,g,43,g,13,g,4,g,0,g,2,g,0,g
+451,austins pizza,mediterranean pizza small,7,g,15,mg,300,g,29,g,9,g,3,g,0,g,2,g,0,g
+452,austins pizza,mopac pizza large,13,g,35,mg,650,g,43,g,16,g,5,g,0,g,3,g,0,g
+453,austins pizza,mopac pizza small,9,g,20,mg,440,g,29,g,10,g,3,g,0,g,2,g,0,g
+454,austins pizza,mt dew live wire,0,g,0,mg,115,g,78,g,0,g,0,g,0,g,0,g,0,g
+455,austins pizza,mt dew bottle,0,g,0,mg,125,g,78,g,0,g,0,g,0,g,0,g,0,g
+456,austins pizza,mt dew can,0,g,0,mg,75,g,47,g,0,g,0,g,0,g,0,g,0,g
+457,austins pizza,mug root beer bottle,0,g,0,mg,115,g,73,g,0,g,0,g,0,g,0,g,0,g
+458,austins pizza,mug root beer can,0,g,0,mg,70,g,44,g,0,g,0,g,0,g,0,g,0,g
+459,austins pizza,peach tea,0,g,0,mg,0,g,52,g,0,g,0,g,0,g,0,g,0,g
+460,austins pizza,pepperoni and jalapeno pizza large,10,g,25,mg,380,g,40,g,12,g,4,g,0,g,2,g,0,g
+461,austins pizza,pepperoni and jalapeno pizza small,7,g,20,mg,270,g,27,g,8,g,3,g,0,g,1,g,0,g
+462,austins pizza,pepperoni and sausage pizza large,11,g,30,mg,370,g,40,g,13,g,5,g,0,g,2,g,0,g
+463,austins pizza,pepperoni and sausage pizza small,8,g,20,mg,270,g,27,g,9,g,3,g,0,g,1,g,0,g
+464,austins pizza,pepperoni pizza rolls regular crust,202,g,290,mg,2970,g,309,g,118,g,53,g,0,g,13,g,0,g
+465,austins pizza,pepperoni pizza rolls wheat crust,207,g,290,mg,1420,g,293,g,124,g,55,g,0,g,22,g,0,g
+466,austins pizza,pepperoni pizza large,10,g,25,mg,310,g,40,g,12,g,4,g,0,g,2,g,0,g
+467,austins pizza,pepperoni pizza small,7,g,20,mg,230,g,26,g,8,g,3,g,0,g,1,g,0,g
+468,austins pizza,pepsi bottle,0,g,0,mg,65,g,68,g,0,g,0,g,0,g,0,g,0,g
+469,austins pizza,pepsi can,0,g,0,mg,40,g,41,g,0,g,0,g,0,g,0,g,0,g
+470,austins pizza,pesto a go goat pizza large,19,g,30,mg,470,g,41,g,15,g,7,g,0,g,2,g,0,g
+471,austins pizza,pesto a go goat pizza small,13,g,20,mg,310,g,27,g,10,g,4,g,0,g,2,g,0,g
+472,austins pizza,plain cheese pizza large,8,g,20,mg,230,g,40,g,11,g,3,g,0,g,2,g,0,g
+473,austins pizza,plain cheese pizza small,5,g,15,mg,150,g,26,g,7,g,2,g,0,g,1,g,0,g
+474,austins pizza,ranch dressing,45,g,45,mg,680,g,5,g,2,g,6,g,0,g,0,g,0,g
+475,austins pizza,raspberry tea,0,g,0,mg,100,g,48,g,0,g,0,g,0,g,0,g,0,g
+476,austins pizza,sausage and mushroom pizza large,9,g,20,mg,290,g,40,g,12,g,4,g,0,g,2,g,0,g
+477,austins pizza,sausage and mushroom pizza small,6,g,15,mg,190,g,27,g,8,g,3,g,0,g,1,g,0,g
+478,austins pizza,sausage pizza large,9,g,20,mg,290,g,40,g,12,g,4,g,0,g,2,g,0,g
+479,austins pizza,sausage pizza small,6,g,15,mg,190,g,27,g,8,g,3,g,0,g,1,g,0,g
+480,austins pizza,side caesar salad,6,g,15,mg,340,g,9,g,8,g,3,g,0,g,2,g,0,g
+481,austins pizza,side garden salad,0,g,0,mg,50,g,9,g,3,g,0,g,0,g,4,g,0,g
+482,austins pizza,side greek salad,13,g,30,mg,1110,g,11,g,7,g,5,g,0,g,2,g,0,g
+483,austins pizza,sierra mist free,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+484,austins pizza,sierra mist bottle,0,g,0,mg,65,g,65,g,0,g,0,g,0,g,0,g,0,g
+485,austins pizza,sierra mist can,0,g,0,mg,40,g,39,g,0,g,0,g,0,g,0,g,0,g
+486,austins pizza,sobe energy,0,g,0,mg,40,g,80,g,0,g,0,g,0,g,0,g,0,g
+487,austins pizza,sobe power,0,g,0,mg,40,g,78,g,0,g,0,g,0,g,0,g,0,g
+488,austins pizza,spinach and artichoke pizza large,8,g,20,mg,260,g,41,g,12,g,3,g,0,g,2,g,0,g
+489,austins pizza,spinach and artichoke pizza small,5,g,15,mg,170,g,27,g,8,g,2,g,0,g,1,g,0,g
+490,austins pizza,sweet tea,0,g,0,mg,10,g,36,g,0,g,0,g,0,g,0,g,0,g
+491,austins pizza,the super pep pizza large,14,g,40,mg,450,g,40,g,15,g,7,g,0,g,2,g,0,g
+492,austins pizza,the super pep pizza small,10,g,25,mg,310,g,27,g,10,g,5,g,0,g,1,g,0,g
+493,austins pizza,tropicana fruit punch,0,g,0,mg,125,g,80,g,0,g,0,g,0,g,0,g,0,g
+494,austins pizza,tropicana lemonade bottle,0,g,0,mg,150,g,68,g,0,g,0,g,0,g,0,g,0,g
+495,austins pizza,tropicana lemonade can,0,g,0,mg,90,g,41,g,0,g,0,g,0,g,0,g,0,g
+496,austins pizza,tropicana orangeade,0,g,0,mg,90,g,42,g,0,g,0,g,0,g,0,g,0,g
+497,austins pizza,tropicana twister grape,0,g,0,mg,60,g,50,g,0,g,0,g,0,g,0,g,0,g
+498,austins pizza,tropicana twister orange,0,g,0,mg,40,g,53,g,0,g,0,g,0,g,0,g,0,g
+499,austins pizza,vegetated pizza large,8,g,20,mg,230,g,42,g,12,g,3,g,0,g,2,g,0,g
+500,austins pizza,vegetated pizza small,5,g,15,mg,150,g,28,g,8,g,2,g,0,g,2,g,0,g
+501,austins pizza,veggie pizza rolls regular crust,157,g,155,mg,1430,g,309,g,86,g,27,g,0,g,13,g,0,g
+502,austins pizza,veggie pizza rolls wheat crust,162,g,155,mg,1250,g,293,g,92,g,29,g,0,g,22,g,0,g
+503,backyard burgers,chicken tender basket,36,g,60,mg,810,g,27,g,24,g,6,g,0,g,3,g,3,g
+504,backyard burgers,ketchup,0,g,0,mg,160,g,5,g,0,g,0,g,0,g,0,g,4,g
+505,backyard burgers,mustard,0,g,0,mg,90,g,0.5,g,0,g,0,g,0,g,0,g,0,g
+506,backyard burgers,chocolate oreo shake with whipped topping,40,g,120,mg,400,g,115,g,14,g,22,g,0,g,1,g,101,g
+507,backyard burgers,blackberry cobbler,9,g,0,mg,180,g,53,g,3,g,3,g,0,g,4,g,33,g
+508,backyard burgers,chocolate shake with whipped topping,35,g,120,mg,280,g,100,g,13,g,22,g,0,g,1,g,93,g
+509,backyard burgers,strawberry shake with whipped topping,35,g,120,mg,240,g,97,g,12,g,22,g,0,g,0,g,91,g
+510,backyard burgers,blackberry cobbler a la mode,17,g,25,mg,230,g,73,g,5,g,8,g,0,g,4,g,52,g
+511,backyard burgers,pecan cobbler,26,g,255,mg,270,g,118,g,9,g,25,g,6,g,1,g,60,g
+512,backyard burgers,strawberry cobbler,16,g,0,mg,380,g,58,g,3,g,7,g,0,g,1,g,30,g
+513,backyard burgers,ice cream a la carte,8,g,25,mg,55,g,20,g,2,g,5,g,0,g,0,g,19,g
+514,backyard burgers,cherry cobbler,16,g,0,mg,380,g,58,g,3,g,7,g,0,g,1,g,30,g
+515,backyard burgers,apple cobbler,16,g,0,mg,390,g,58,g,3,g,7,g,0,g,3,g,30,g
+516,backyard burgers,apple cobbler a la mode,24,g,25,mg,440,g,78,g,5,g,12,g,0,g,3,g,49,g
+517,backyard burgers,vanilla shake with whipped topping,35,g,120,mg,230,g,97,g,12,g,22,g,0,g,0,g,91,g
+518,backyard burgers,peach cobbler,12,g,0,mg,260,g,57,g,3,g,4.5,g,0,g,1,g,37,g
+519,backyard burgers,peach cobbler a la mode,20,g,25,mg,310,g,77,g,5,g,9,g,0,g,1,g,56,g
+520,backyard burgers,pecan cobbler a la mode,33,g,280,mg,320,g,138,g,11,g,30,g,6,g,1,g,79,g
+521,backyard burgers,cherry cobbler a la mode,24,g,25,mg,430,g,78,g,5,g,12,g,0,g,1,g,49,g
+522,backyard burgers,peanut butter shake with whipped topping,51,g,120,mg,440,g,79,g,16,g,25,g,0,g,2,g,71,g
+523,backyard burgers,strawberry cobbler a la mode,24,g,25,mg,430,g,78,g,5,g,12,g,0,g,1,g,49,g
+524,backyard burgers,seasoned fries,35.4,g,0,mg,964,g,37.6,g,3.8,g,6,g,0,g,3.8,g,0,g
+525,backyard burgers,seasoned chili cheese fries large,76,g,40,mg,2020,g,70,g,18,g,17,g,0,g,7,g,0.5,g
+526,backyard burgers,sweet potato fries prepared regular,29,g,0,mg,770,g,40,g,2,g,4.5,g,0,g,13,g,19,g
+527,backyard burgers,waffle fries prepared regular,56,g,0,mg,1180,g,66,g,6,g,9,g,0,g,9,g,0,g
+528,backyard burgers,garlic parmesan waffle fries regular,59,g,5,mg,1730,g,68,g,8,g,11,g,0,g,9,g,0.5,g
+529,backyard burgers,waffle fries prepared large,75,g,0,mg,1490,g,88,g,8,g,12,g,0,g,11,g,0,g
+530,backyard burgers,waffle chili cheese fries regular,41,g,35,mg,970,g,36,g,12,g,11,g,0,g,5,g,0,g
+531,backyard burgers,seasoned chili cheese fries regular,59,g,35,mg,1530,g,52,g,14,g,14,g,0,g,5,g,0,g
+532,backyard burgers,waffle chili cheese fries large,52,g,40,mg,1200,g,49,g,15,g,13,g,0,g,6,g,0.5,g
+533,backyard burgers,garlic parmesan waffle fries large,77,g,5,mg,2100,g,90,g,10,g,1,g,0,g,12,g,0.5,g
+534,backyard burgers,kids back yard dog without ketchup and mustard,17,g,30,mg,770,g,26,g,10,g,6,g,0,g,0,g,5,g
+535,backyard burgers,kids seasoned fries prepared,28,g,0,mg,750,g,29,g,3,g,4.5,g,0,g,3,g,0,g
+536,backyard burgers,rice krispy treat,1,g,0,mg,55,g,9,g,0,g,0,g,0,g,0,g,4,g
+537,backyard burgers,kids breaded crispy tenders 2,48,g,80,mg,1080,g,36,g,32,g,8,g,0,g,4,g,4,g
+538,backyard burgers,kids waffle fries prepared,42,g,0,mg,840,g,49,g,4,g,7,g,0,g,6,g,0,g
+539,backyard burgers,pickles for kids meals,0,g,0,mg,125,g,0,g,0,g,0,g,0,g,0,g,0,g
+540,backyard burgers,kids back yard dog with ketchup mustard and pickles,17,g,30,mg,1020,g,31,g,10,g,6,g,0,g,0,g,9,g
+541,backyard burgers,wheat tortilla 12 inch,7,g,5,mg,810,g,52,g,8,g,1.5,g,0,g,7,g,4,g
+542,backyard burgers,white tortilla 12 inch,8,g,0,mg,560,g,49,g,8,g,2.5,g,0,g,1,g,3,g
+543,backyard burgers,hot dog bun,1,g,0,mg,230,g,23,g,4,g,0,g,0,g,0,g,3,g
+544,backyard burgers,bleu cheese crumbles,8,g,20,mg,380,g,1,g,6,g,5,g,0,g,0.5,g,6,g
+545,backyard burgers,shredded cheddar cheese,9,g,30,mg,180,g,0,g,7,g,6,g,0,g,0,g,0,g
+546,backyard burgers,parmesan cheese,15,g,55,mg,1020,g,2,g,23,g,11,g,0,g,0,g,0,g
+547,backyard burgers,raspberry walnut vinaigrette,18,g,0,mg,135,g,7,g,0,g,3,g,0,g,0,g,7,g
+548,backyard burgers,caesar dressing,26,g,10,mg,760,g,4,g,2,g,4.5,g,0,g,0,g,2,g
+549,backyard burgers,gorgonzola vinaigrette,15,g,10,mg,550,g,6,g,2,g,4,g,0,g,0,g,4,g
+550,backyard burgers,balsamic vinagrette,7,g,0,mg,270,g,6,g,0,g,1,g,0,g,0,g,6,g
+551,backyard burgers,chunky bleu cheese dressing,24,g,25,mg,440,g,1,g,2,g,4.5,g,0,g,0,g,1,g
+552,backyard burgers,homestyle ranch dressing,16,g,15,mg,370,g,1,g,1,g,2.5,g,0,g,0,g,1,g
+553,backyard burgers,honey mustard dressing,20,g,15,mg,160,g,7,g,0,g,3,g,0,g,0,g,6,g
+554,backyard burgers,lite ranch dressing,7,g,5,mg,250,g,1,g,1,g,1,g,0,g,0,g,1,g
+555,backyard burgers,cranberry pecan chicken salad without dressing,30,g,105,mg,1750,g,52,g,45,g,9,g,0,g,8,g,31,g
+556,backyard burgers,backyard salad with blackened chicken without cheese or dressing,21,g,85,mg,1680,g,22,g,38,g,4.5,g,0,g,5,g,8,g
+557,backyard burgers,backyard salad with grilled chicken without cheese or dressing,10,g,85,mg,1350,g,21,g,38,g,2.5,g,0,g,5,g,8,g
+558,backyard burgers,cranberry pecan blackened chicken salad without dressing,41,g,105,mg,2090,g,52,g,45,g,11,g,0,g,8,g,31,g
+559,backyard burgers,backyard salad with chicken tenderloins without cheese or dressing,32,g,40,mg,980,g,35,g,21,g,6,g,0,g,7,g,8,g
+560,backyard burgers,cranberry pecan tenderloin chicken salad without dressing,51,g,60,mg,1380,g,66,g,28,g,12,g,0,g,10,g,31,g
+561,backyard burgers,side salad without dressing,6,g,15,mg,250,g,14,g,6,g,3,g,0,g,3,g,4,g
+562,backyard burgers,wheat burger bun,2,g,0,mg,310,g,31,g,5,g,0,g,0,g,2,g,4,g
+563,backyard burgers,bun 3 inch,1.5,g,0,mg,190,g,19,g,3,g,0,g,0,g,1,g,3,g
+564,backyard burgers,white burger bun,3.5,g,0,mg,510,g,40,g,7,g,0.5,g,0,g,0,g,7,g
+565,backyard burgers,flatout white flatbread,1,g,0,mg,290,g,19,g,6,g,0,g,0,g,3,g,1,g
+566,backyard burgers,flatout wheat flatbread,2.5,g,0,mg,360,g,15,g,7,g,0,g,0,g,7,g,0.5,g
+567,backyard burgers,classic turkey burger on white bun,28,g,90,mg,1580,g,41,g,30,g,6,g,0,g,0,g,7,g
+568,backyard burgers,grilled chicken sandwich on white bun,12,g,90,mg,1460,g,45,g,40,g,2,g,0,g,0,g,9,g
+569,backyard burgers,mushroom swiss burger on white bun,37,g,115,mg,1300,g,43,g,41,g,14,g,1,g,0.5,g,8,g
+570,backyard burgers,veggie burger on white bun,11,g,0,mg,1320,g,67,g,25,g,1.5,g,0,g,9,g,12,g
+571,backyard burgers,blackened chicken sandwich on white bun,27,g,95,mg,1920,g,50,g,41,g,4.5,g,0,g,1,g,13,g
+572,backyard burgers,hawaiian chicken sandwich on white bun,12,g,90,mg,1740,g,63,g,42,g,2,g,0,g,2,g,23,g
+573,backyard burgers,back yard classic burger on white bun,28,g,95,mg,1560,g,48,g,35,g,9,g,1,g,0.5,g,12,g
+574,backyard burgers,back yard double classic burger on white bun,46,g,190,mg,2190,g,48,g,62,g,16,g,1.5,g,1,g,12,g
+575,backyard burgers,wild turkey burger on white bun,34,g,105,mg,1930,g,43,g,35,g,10,g,0,g,0.5,g,8,g
+576,backyard burgers,black jack chicken club sandwich on white bun,37,g,110,mg,2240,g,46,g,47,g,10,g,0,g,1,g,9,g
+577,backyard burgers,black jack burger on white bun,38,g,115,mg,2060,g,43,g,39,g,13,g,1,g,1,g,8,g
+578,backyard burgers,chipotle burger with white bun,48,g,120,mg,1990,g,55,g,42,g,16,g,1,g,1,g,16,g
+579,backyard burgers,junior burger on white bun,15,g,55,mg,1210,g,46,g,23,g,4.5,g,0,g,0,g,11,g
+580,backyard burgers,turkey club burger on white bun,38,g,110,mg,1820,g,42,g,38,g,11,g,0,g,0,g,8,g
+581,backyard burgers,black and bleu burger on white bun,46,g,120,mg,2430,g,45,g,43,g,16,g,1,g,2,g,9,g
+582,backyard burgers,bacon cheddar burger on white bun,39,g,120,mg,1900,g,48,g,42,g,15,g,1,g,0.5,g,12,g
+583,backyard burgers,back yard chili,18,g,65,mg,980,g,15,g,21,g,7,g,0,g,2,g,4,g
+584,backyard burgers,panko onion rings prepared regular,13,g,0,mg,340,g,47,g,5,g,2.5,g,0,g,3,g,8,g
+585,backyard burgers,creamy cole slaw,16,g,10,mg,430,g,15,g,0.5,g,2,g,0,g,2,g,14,g
+586,backyard burgers,panko onion rings prepared large,16,g,0,mg,420,g,58,g,6,g,3,g,0,g,4,g,10,g
+587,backyard burgers,baked potato,10,g,20,mg,110,g,45,g,6,g,5,g,0,g,5,g,4,g
+588,backyard burgers,loaded baked potato,21,g,35,mg,460,g,45,g,13,g,10,g,0,g,5,g,4,g
+589,backyard burgers,apple cobbler,16,g,0,mg,390,g,58,g,3,g,7,g,0,g,3,g,30,g
+590,backyard burgers,apple cobbler a la mode,24,g,25,mg,440,g,78,g,5,g,12,g,0,g,3,g,49,g
+591,backyard burgers,back yard chili,18,g,65,mg,980,g,15,g,21,g,7,g,0,g,2,g,4,g
+592,backyard burgers,back yard classic burger,47,g,110,mg,1570,g,49,g,33,g,17,g,0,g,2,g,14,g
+593,backyard burgers,back yard double classic burger,84,g,215,mg,2190,g,49,g,59,g,32,g,0,g,2,g,14,g
+594,backyard burgers,backyard salad with blackened chicken,21,g,85,mg,1680,g,22,g,38,g,4.5,g,0,g,5,g,8,g
+595,backyard burgers,backyard salad with chicken tenderloins,32,g,40,mg,980,g,35,g,21,g,6,g,0,g,7,g,8,g
+596,backyard burgers,backyard salad with grilled chicken,10,g,85,mg,1350,g,21,g,38,g,2.5,g,0,g,5,g,8,g
+597,backyard burgers,bacon cheddar burger,58,g,135,mg,1910,g,49,g,41,g,23,g,0,g,2,g,14,g
+598,backyard burgers,baked potato,10,g,20,mg,110,g,45,g,6,g,5,g,0,g,5,g,4,g
+599,backyard burgers,black and bleu burger,65,g,135,mg,2440,g,46,g,42,g,24,g,0,g,3,g,11,g
+600,backyard burgers,black jack burger,57,g,130,mg,2070,g,44,g,38,g,21,g,0,g,2,g,10,g
+601,backyard burgers,black jack chicken club,37,g,110,mg,2250,g,47,g,47,g,10,g,0,g,2,g,11,g
+602,backyard burgers,blackberry cobbler,9,g,0,mg,180,g,53,g,3,g,3,g,0,g,4,g,33,g
+603,backyard burgers,blackberry cobbler a la mode,17,g,25,mg,230,g,73,g,5,g,8,g,0,g,4,g,52,g
+604,backyard burgers,blackened chicken sandwich,27,g,95,mg,1930,g,51,g,41,g,4.5,g,0,g,2,g,15,g
+605,backyard burgers,buffalo chicken sandwich bundle,61,g,45,mg,3010,g,91,g,27,g,10,g,0,g,6,g,11,g
+606,backyard burgers,cherry cobbler,16,g,0,mg,380,g,58,g,3,g,7,g,0,g,1,g,30,g
+607,backyard burgers,cherry cobbler a la mode,24,g,25,mg,430,g,78,g,5,g,12,g,0,g,1,g,49,g
+608,backyard burgers,chicken tender basket,36,g,60,mg,810,g,27,g,24,g,6,g,0,g,3,g,3,g
+609,backyard burgers,chili cheese fries large using seasoned fries,76,g,40,mg,2020,g,70,g,18,g,17,g,0,g,7,g,1,g
+610,backyard burgers,chili cheese fries large using waffle fries,52,g,40,mg,1200,g,49,g,15,g,13,g,0,g,6,g,1,g
+611,backyard burgers,chili cheese fries regular using seasoned fries,59,g,35,mg,1530,g,52,g,14,g,14,g,0,g,5,g,0,g
+612,backyard burgers,chili cheese fries regular using waffle fries,41,g,35,mg,970,g,36,g,12,g,11,g,0,g,5,g,0,g
+613,backyard burgers,chili cheeseburger bundle,60,g,85,mg,3250,g,74,g,31,g,18,g,0,g,5,g,10,g
+614,backyard burgers,chipotle burger,67,g,135,mg,2000,g,56,g,41,g,24,g,0,g,2,g,18,g
+615,backyard burgers,classic turkey burger,28,g,90,mg,1590,g,42,g,30,g,6,g,0,g,1,g,9,g
+616,backyard burgers,cranberry pecan chicken salad,30,g,105,mg,1750,g,52,g,45,g,9,g,0,g,8,g,31,g
+617,backyard burgers,cranberry pecan chicken salad with blackened chicken,41,g,105,mg,2090,g,52,g,45,g,11,g,0,g,8,g,31,g
+618,backyard burgers,cranberry pecan chicken salad with chicken tenderloins,51,g,60,mg,1380,g,66,g,28,g,12,g,0,g,10,g,31,g
+619,backyard burgers,creamy cole slaw,16,g,10,mg,430,g,15,g,1,g,2,g,0,g,2,g,14,g
+620,backyard burgers,garlic parmesan fries large,77,g,5,mg,2100,g,90,g,10,g,1,g,0,g,12,g,1,g
+621,backyard burgers,garlic parmesan fries regular,59,g,5,mg,1730,g,68,g,8,g,11,g,0,g,9,g,1,g
+622,backyard burgers,grilled chicken sandwich,11,g,90,mg,1470,g,46,g,40,g,2,g,0,g,1,g,11,g
+623,backyard burgers,hawaiian chicken sandwich,11,g,90,mg,1750,g,64,g,42,g,2,g,0,g,3,g,25,g
+624,backyard burgers,hot dog bundle,52,g,55,mg,1910,g,63,g,16,g,13,g,1,g,4,g,8,g
+625,backyard burgers,ice cream a la carte,8,g,25,mg,55,g,20,g,2,g,5,g,0,g,0,g,19,g
+626,backyard burgers,junior burger,26,g,65,mg,1210,g,47,g,23,g,10,g,0,g,1,g,13,g
+627,backyard burgers,kids back yard dog,18,g,35,mg,990,g,33,g,11,g,7,g,0,g,1,g,8,g
+628,backyard burgers,kids crispy tenders,24,g,40,mg,540,g,18,g,16,g,4,g,0,g,2,g,2,g
+629,backyard burgers,lemonade kids 12 oz,0,g,0,mg,10,g,55,g,0,g,0,g,0,g,0,g,6,g
+630,backyard burgers,lemonade large 32 oz,0,g,0,mg,20,g,145,g,1,g,0,g,0,g,0,g,15,g
+631,backyard burgers,lemonade regular 20 oz,0,g,0,mg,15,g,91,g,0,g,0,g,0,g,0,g,9,g
+632,backyard burgers,loaded baked potato,21,g,35,mg,460,g,45,g,13,g,10,g,0,g,5,g,4,g
+633,backyard burgers,mountain dew kids 12 oz,0,g,0,mg,60,g,47,g,0,g,0,g,0,g,0,g,47,g
+634,backyard burgers,mountain dew large 32 oz,0,g,0,mg,160,g,124,g,0,g,0,g,0,g,0,g,124,g
+635,backyard burgers,mountain dew regular 20 oz,0,g,0,mg,100,g,78,g,0,g,0,g,0,g,0,g,78,g
+636,backyard burgers,mug root beer kids 12 oz,0,g,0,mg,60,g,44,g,0,g,0,g,0,g,0,g,44,g
+637,backyard burgers,mug root beer large 32 oz,0,g,0,mg,160,g,116,g,0,g,0,g,0,g,0,g,116,g
+638,backyard burgers,mug root beer regular 20 oz,0,g,0,mg,100,g,73,g,0,g,0,g,0,g,0,g,73,g
+639,backyard burgers,mushroom swiss burger,56,g,130,mg,1310,g,44,g,40,g,22,g,0,g,2,g,10,g
+640,backyard burgers,panko onion rings prepared 4 oz regular,13,g,0,mg,340,g,47,g,5,g,2.5,g,0,g,3,g,8,g
+641,backyard burgers,panko onion rings prepared 5 5 oz large,16,g,0,mg,420,g,58,g,6,g,3,g,0,g,4,g,10,g
+642,backyard burgers,peach cobbler,12,g,0,mg,260,g,57,g,3,g,4.5,g,0,g,1,g,37,g
+643,backyard burgers,peach cobbler a la mode,20,g,25,mg,310,g,77,g,5,g,9,g,0,g,1,g,56,g
+644,backyard burgers,pecan cobbler,26,g,255,mg,270,g,118,g,9,g,25,g,6,g,1,g,60,g
+645,backyard burgers,pecan cobbler a la mode,33,g,280,mg,320,g,138,g,11,g,30,g,6,g,1,g,79,g
+646,backyard burgers,pepsi kids 12 oz,0,g,0,mg,30,g,42,g,0,g,0,g,0,g,0,g,42,g
+647,backyard burgers,pepsi large 32 oz,0,g,0,mg,80,g,112,g,0,g,0,g,0,g,0,g,112,g
+648,backyard burgers,pepsi regular 20 oz,0,g,0,mg,50,g,70,g,0,g,0,g,0,g,0,g,70,g
+649,backyard burgers,picnic burger bundle,54,g,65,mg,2810,g,73,g,26,g,14,g,0,g,5,g,11,g
+650,backyard burgers,seasoned fries prepared 3 5 oz kids,28,g,0,mg,750,g,29,g,3,g,4.5,g,0,g,3,g,0,g
+651,backyard burgers,seasoned fries prepared 4 5 oz regular,36,g,0,mg,990,g,38,g,4,g,6,g,0,g,4,g,0,g
+652,backyard burgers,seasoned fries prepared 6 oz large,47,g,0,mg,1280,g,50,g,5,g,8,g,0,g,5,g,0,g
+653,backyard burgers,shake chocolate,35,g,120,mg,280,g,100,g,13,g,22,g,0,g,1,g,93,g
+654,backyard burgers,shake chocolate oreo,40,g,120,mg,400,g,115,g,14,g,22,g,0,g,1,g,101,g
+655,backyard burgers,shake peanut butter,51,g,120,mg,440,g,79,g,16,g,25,g,0,g,2,g,71,g
+656,backyard burgers,shake strawberry,35,g,120,mg,240,g,97,g,12,g,22,g,0,g,0,g,91,g
+657,backyard burgers,shake vanilla,35,g,120,mg,230,g,97,g,12,g,22,g,0,g,0,g,91,g
+658,backyard burgers,side salad,6,g,15,mg,250,g,14,g,6,g,3,g,0,g,3,g,4,g
+659,backyard burgers,sierra mist kids 12 oz,0,g,0,mg,40,g,39,g,0,g,0,g,0,g,0,g,39,g
+660,backyard burgers,sierra mist large 32 oz,0,g,0,mg,100,g,104,g,0,g,0,g,0,g,0,g,104,g
+661,backyard burgers,sierra mist regular 20 oz,0,g,0,mg,65,g,65,g,0,g,0,g,0,g,0,g,65,g
+662,backyard burgers,sobe lifewater yumberry kids 12 oz,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+663,backyard burgers,sobe lifewater yumberry large 32 oz,0,g,0,mg,120,g,0,g,0,g,0,g,0,g,0,g,0,g
+664,backyard burgers,sobe lifewater yumberry regular 20 oz,0,g,0,mg,75,g,0,g,0,g,0,g,0,g,0,g,0,g
+665,backyard burgers,strawberry cobbler,16,g,0,mg,380,g,58,g,3,g,7,g,0,g,1,g,30,g
+666,backyard burgers,strawberry cobbler a la mode,24,g,25,mg,430,g,78,g,5,g,12,g,0,g,1,g,49,g
+667,backyard burgers,strawberry lemonade kids 12 oz,0,g,0,mg,10,g,58,g,0,g,0,g,0,g,0,g,10,g
+668,backyard burgers,strawberry lemonade large 32 oz,0,g,0,mg,30,g,155,g,1,g,0,g,0,g,1,g,27,g
+669,backyard burgers,strawberry lemonade regular 20 oz,0,g,0,mg,15,g,97,g,0,g,0,g,0,g,0,g,17,g
+670,backyard burgers,sweet potato fries prepared 6 oz regular,29,g,0,mg,770,g,40,g,2,g,4.5,g,0,g,13,g,18,g
+671,backyard burgers,sweet potato fries prepared 9 oz large,39,g,0,mg,1110,g,54,g,3,g,6,g,0,g,18,g,24,g
+672,backyard burgers,sweet tea kids 12 oz,0,g,0,mg,30,g,31,g,0,g,0,g,0,g,0,g,31,g
+673,backyard burgers,sweet tea large 32 oz,0,g,0,mg,85,g,83,g,0,g,0,g,0,g,0,g,83,g
+674,backyard burgers,sweet tea regular 20 oz,0,g,0,mg,55,g,52,g,0,g,0,g,0,g,0,g,52,g
+675,backyard burgers,tropicana twister fruit punch kids 12 oz,0,g,0,mg,25,g,30,g,0,g,0,g,0,g,0,g,30,g
+676,backyard burgers,tropicana twister fruit punch large 32 oz,0,g,0,mg,65,g,80,g,0,g,0,g,0,g,0,g,80,g
+677,backyard burgers,tropicana twister fruit punch regular 20 oz,0,g,0,mg,40,g,50,g,0,g,0,g,0,g,0,g,50,g
+678,backyard burgers,tropicana twister orange large 32 oz,0,g,0,mg,95,g,139,g,0,g,0,g,0,g,0,g,139,g
+679,backyard burgers,tropicana twister orange regular 20 oz,0,g,0,mg,60,g,87,g,0,g,0,g,0,g,0,g,87,g
+680,backyard burgers,unsweet tea kids 12 oz,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+681,backyard burgers,unsweet tea large 32 oz,0,g,0,mg,95,g,0,g,0,g,0,g,0,g,0,g,0,g
+682,backyard burgers,unsweet tea regular 20 oz,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+683,backyard burgers,veggie burger,10,g,0,mg,1330,g,68,g,25,g,1.5,g,0,g,10,g,14,g
+684,backyard burgers,waffle fries prepared 4 5 oz kids,42,g,0,mg,840,g,49,g,4,g,7,g,0,g,6,g,0,g
+685,backyard burgers,waffle fries prepared 6 oz regular,56,g,0,mg,1180,g,66,g,6,g,9,g,0,g,9,g,0,g
+686,backyard burgers,waffle fries prepared 8 oz large,75,g,0,mg,1490,g,88,g,8,g,12,g,0,g,11,g,0,g
+687,backyard burgers,wild cherry pepsi kids 12 oz,0,g,0,mg,30,g,42,g,0,g,0,g,0,g,0,g,42,g
+688,backyard burgers,wild cherry pepsi large 32 oz,0,g,0,mg,80,g,112,g,0,g,0,g,0,g,0,g,112,g
+689,backyard burgers,wild cherry pepsi regular 20 oz,0,g,0,mg,50,g,70,g,0,g,0,g,0,g,0,g,70,g
+690,backyard burgers,wild turkey burger,33,g,105,mg,1940,g,44,g,35,g,10,g,0,g,2,g,10,g
+691,baja fresh,avocado salsa,0.5,g,0,mg,140,g,1,g,0,g,0,g,0,g,1,g,1,g
+692,baja fresh,molcajete salsa,0,g,0,mg,110,g,1,g,0,g,0,g,0,g,1,g,1,g
+693,baja fresh,pico de gallo,0,g,0,mg,120,g,1,g,0,g,0,g,0,g,0,g,1,g
+694,baja fresh,six chile salsa crema,1.5,g,5,mg,140,g,2,g,1,g,1,g,0,g,0,g,1,g
+695,baja fresh,salsa roja,0,g,0,mg,135,g,2,g,0,g,0,g,0,g,0,g,1,g
+696,baja fresh,mango salsa,0,g,0,mg,115,g,4,g,0,g,0,g,0,g,0,g,3,g
+697,baja fresh,salsa baja,0,g,0,mg,180,g,1,g,0,g,0,g,0,g,0,g,1,g
+698,baja fresh,sour cream,5,g,20,mg,15,g,1,g,1,g,3.5,g,0,g,0,g,1,g
+699,baja fresh,salsa verde,0,g,0,mg,210,g,2,g,0,g,0,g,0,g,0,g,1,g
+700,baja fresh,corn avocado salsa,2,g,0,mg,90,g,4,g,1,g,0,g,0,g,1,g,1,g
+701,baja fresh,six chile salsa,5,g,20,mg,15,g,1,g,1,g,3.5,g,0,g,0,g,1,g
+702,baja fresh,breakfast burrito without tortilla,29,g,475,mg,610,g,22,g,30,g,15,g,0.5,g,3,g,2,g
+703,baja fresh,veggie breakfast burrito,41,g,475,mg,1290,g,70,g,36,g,18,g,0.5,g,4,g,5,g
+704,baja fresh,pinto beans huevos rancheros breakfast,46,g,490,mg,2060,g,87,g,46,g,21,g,1,g,10,g,4,g
+705,baja fresh,breakfast baja papas,0,g,0,mg,95,g,20,g,2,g,0,g,0,g,2,g,1,g
+706,baja fresh,bacon breakfast burrito,45,g,485,mg,1670,g,64,g,41,g,20,g,0.5,g,3,g,3,g
+707,baja fresh,steak breakfast burrito,47,g,530,mg,1360,g,65,g,55,g,20,g,0.5,g,3,g,3,g
+708,baja fresh,bacon breakfast taco,14,g,155,mg,600,g,16,g,13,g,6,g,0,g,0,g,0,g
+709,baja fresh,bacon americano grande breakfast,18,g,430,mg,870,g,34,g,25,g,6,g,0,g,3,g,3,g
+710,baja fresh,breakfast sausage,30,g,70,mg,580,g,0,g,14,g,11,g,0,g,0,g,0,g
+711,baja fresh,breakfast burrito,40,g,475,mg,1200,g,64,g,36,g,18,g,1,g,3,g,3,g
+712,baja fresh,breakfast taco,11,g,150,mg,360,g,16,g,10,g,5,g,0,g,0,g,0,g
+713,baja fresh,veggie breakfast taco,12,g,150,mg,410,g,19,g,10,g,6,g,0,g,1,g,1,g
+714,baja fresh,sausage americano grande breakfast,42,g,490,mg,980,g,34,g,33,g,14,g,0,g,3,g,3,g
+715,baja fresh,breakfast bacon,6,g,10,mg,470,g,0,g,6,g,2,g,0,g,0,g,0,g
+716,baja fresh,sausage breakfast burrito,70,g,550,mg,1780,g,64,g,50,g,29,g,1,g,3,g,3,g
+717,baja fresh,steak breakfast burrito,15,g,175,mg,440,g,16,g,20,g,6,g,0,g,0,g,0,g
+718,baja fresh,black beans huevos rancheros breakfast,46,g,490,mg,2100,g,85,g,46,g,21,g,1,g,10,g,5,g
+719,baja fresh,sausage breakfast taco,26,g,185,mg,650,g,16,g,17,g,11,g,0,g,0,g,0,g
+720,baja fresh,grilled chicken caesar burrito,57,g,140,mg,1810,g,51,g,45,g,21,g,0,g,4,g,4,g
+721,baja fresh,steak baja burrito,45,g,130,mg,1810,g,53,g,48,g,17,g,0,g,5,g,5,g
+722,baja fresh,black beans veggie burrito,36,g,75,mg,1830,g,82,g,32,g,18,g,0.5,g,13,g,8,g
+723,baja fresh,chicken baja burrito,46,g,135,mg,1850,g,53,g,50,g,17,g,0,g,5,g,5,g
+724,baja fresh,shrimp baja burrito,44,g,250,mg,2790,g,55,g,43,g,16,g,0,g,5,g,5,g
+725,baja fresh,chicken diablo burrito,48,g,145,mg,1930,g,55,g,54,g,15,g,0,g,12,g,5,g
+726,baja fresh,black bean bean and cheese burrito,35,g,70,mg,2140,g,97,g,42,g,18,g,0.5,g,20,g,3,g
+727,baja fresh,steak and pinto beans dos manos burrito,67,g,170,mg,3580,g,151,g,69,g,27,g,0,g,15,g,13,g
+728,baja fresh,chicken ultimo burrito,50,g,150,mg,2040,g,78,g,51,g,21,g,1,g,4,g,8,g
+729,baja fresh,shrimp diablo burrito,57,g,260,mg,3460,g,98,g,54,g,18,g,0,g,12,g,6,g
+730,baja fresh,steak ultimo burrito,50,g,145,mg,2000,g,78,g,50,g,22,g,1,g,4,g,8,g
+731,baja fresh,shrimp nacho burrito,52,g,265,mg,3780,g,109,g,57,g,21,g,1,g,12,g,5,g
+732,baja fresh,carnitas diablo burrito,54,g,140,mg,2910,g,107,g,55,g,19,g,0,g,12,g,6,g
+733,baja fresh,rice black beans and cheese burrito,39,g,70,mg,1900,g,89,g,34,g,18,g,1,g,11,g,3,g
+734,baja fresh,chicken black bean and cheese burrito,44,g,145,mg,2390,g,98,g,69,g,20,g,1,g,20,g,3,g
+735,baja fresh,shrimp black beans and cheese burrito,42,g,260,mg,3330,g,99,g,63,g,19,g,1,g,20,g,4,g
+736,baja fresh,chicken and black beans veggie burrito,45,g,150,mg,2080,g,84,g,59,g,20,g,1,g,13,g,8,g
+737,baja fresh,chicken pinto bean and cheese burrito,44,g,145,mg,2280,g,103,g,70,g,20,g,1,g,21,g,2,g
+738,baja fresh,rice pinto beans and cheese burrito,39,g,70,mg,1850,g,92,g,35,g,18,g,1,g,11,g,2,g
+739,baja fresh,shrimp and black beans dos manos burrito,68,g,355,mg,5020,g,151,g,70,g,27,g,0,g,14,g,14,g
+740,baja fresh,steak nacho burrito,54,g,145,mg,2800,g,107,g,62,g,23,g,1,g,12,g,5,g
+741,baja fresh,shrimp and black beans mexicano burrito,25,g,190,mg,2890,g,96,g,39,g,6,g,0,g,11,g,5,g
+742,baja fresh,roasted vegetables baja burrito,38,g,60,mg,1730,g,61,g,24,g,15,g,0,g,7,g,9,g
+743,baja fresh,veggie diablo burrito,51,g,70,mg,2400,g,105,g,34,g,17,g,0,g,14,g,9,g
+744,baja fresh,steak fajita burrito,52,g,135,mg,1790,g,77,g,51,g,19,g,0,g,5,g,7,g
+745,baja fresh,roasted veggies and black beans mexicano burrito,19,g,0,mg,1840,g,102,g,19,g,5,g,0,g,13,g,9,g
+746,baja fresh,chicken fajita burrito,52,g,140,mg,1830,g,78,g,52,g,18,g,0,g,5,g,7,g
+747,baja fresh,carnitas baja burrito,41,g,130,mg,2240,g,63,g,44,g,16,g,0,g,5,g,5,g
+748,baja fresh,carnitas ultimo burrito,0.0001,g,0.0001,mg,3,g,0.1,g,0.0001,g,0.0001,g,0.0001,g,0.0001,g,0.0001,g
+749,baja fresh,pinto beans veggie burrito,36,g,75,mg,1770,g,85,g,32,g,18,g,0.5,g,13,g,8,g
+750,baja fresh,steak diablo burrito,58,g,140,mg,2480,g,97,g,59,g,19,g,0,g,12,g,6,g
+751,baja fresh,carnitas black bean and cheese burrito,39,g,140,mg,2780,g,108,g,64,g,20,g,1,g,2,g,4,g
+752,baja fresh,wahoo baja burrito,44,g,155,mg,2070,g,53,g,46,g,16,g,0,g,5,g,5,g
+753,baja fresh,wahoo pinto beans and cheese burrito,42,g,165,mg,2500,g,103,g,66,g,19,g,1,g,21,g,2,g
+754,baja fresh,roasted veggie nacho burrito,46,g,75,mg,2720,g,115,g,37,g,20,g,1,g,14,g,9,g
+755,baja fresh,crispy fish fajita burrito,56,g,115,mg,2200,g,95,g,38,g,19,g,0,g,6,g,7,g
+756,baja fresh,grilled wahoo ultimo burrito,48,g,170,mg,2260,g,78,g,48,g,20,g,1,g,4,g,8,g
+757,baja fresh,carnitas fajita burrito,48,g,135,mg,2220,g,87,g,47,g,18,g,0,g,6,g,7,g
+758,baja fresh,wahoo and pinto beans dos manos burrito,69,g,240,mg,4080,g,152,g,78,g,27,g,0,g,15,g,13,g
+759,baja fresh,carnitas and pinto beans mexicano burrito,22,g,70,mg,2290,g,107,g,40,g,6,g,0,g,12,g,5,g
+760,baja fresh,wahoo and pinto beans veggie burrito,44,g,170,mg,2240,g,86,g,56,g,20,g,1,g,13,g,8,g
+761,baja fresh,wahoo and black beans mexicano burrito,25,g,95,mg,2170,g,94,g,42,g,6,g,0,g,11,g,5,g
+762,baja fresh,carnitas and pinto beans veggie burrito,41,g,145,mg,2410,g,96,g,54,g,20,g,0.5,g,14,g,8,g
+763,baja fresh,carnitas and pinto beans dos manos burrito,63,g,170,mg,4010,g,161,g,65,g,27,g,0,g,15,g,13,g
+764,baja fresh,chicken and black beans dos manos burrito,67,g,170,mg,3680,g,149,g,70,g,27,g,0,g,14,g,14,g
+765,baja fresh,shrimp and pinto beans dos manos burrito,68,g,355,mg,4960,g,153,g,70,g,27,g,0,g,15,g,13,g
+766,baja fresh,shrimp fajita burrito,51,g,255,mg,2770,g,79,g,45,g,18,g,0,g,5,g,7,g
+767,baja fresh,wahoo and pinto beans mexicano burrito,25,g,95,mg,2120,g,97,g,42,g,6,g,0,g,11,g,5,g
+768,baja fresh,roasted veggie ultimo burrito,42,g,75,mg,1930,g,86,g,25,g,19,g,1,g,6,g,11,g
+769,baja fresh,chicken and pinto beans dos manos burrito,67,g,170,mg,3620,g,151,g,70,g,27,g,0,g,15,g,13,g
+770,baja fresh,wahoo nacho burrito,52,g,170,mg,3060,g,108,g,60,g,21,g,1,g,12,g,5,g
+771,baja fresh,wahoo black bean and cheese burrito,42,g,165,mg,2610,g,98,g,66,g,19,g,1,g,20,g,4,g
+772,baja fresh,steak and black beans dos manos burrito,67,g,170,mg,3640,g,149,g,68,g,27,g,0,g,14,g,14,g
+773,baja fresh,pinto bean and cheese burrito,35,g,70,mg,2030,g,102,g,42,g,18,g,0.5,g,21,g,2,g
+774,baja fresh,wahoo and black beans dos manos burrito,69,g,240,mg,4140,g,149,g,78,g,27,g,0,g,14,g,14,g
+775,baja fresh,chicken and pinto beans mexicano burrito,27,g,75,mg,1900,g,97,g,46,g,6,g,0,g,11,g,5,g
+776,baja fresh,chicken nacho burrito,54,g,150,mg,2840,g,108,g,63,g,22,g,1,g,12,g,5,g
+777,baja fresh,shrimp and black beans veggie burrito,44,g,265,mg,3020,g,86,g,53,g,20,g,1,g,13,g,8,g
+778,baja fresh,chicken and black beans mexicano burrito,27,g,75,mg,1950,g,94,g,45,g,6,g,0,g,11,g,5,g
+779,baja fresh,carnitas and black beans dos manos burrito,63,g,170,mg,4070,g,159,g,64,g,27,g,0,g,14,g,14,g
+780,baja fresh,chicken and pinto beans veggie burrito,45,g,150,mg,2020,g,86,g,59,g,20,g,1,g,14,g,8,g
+781,baja fresh,carnitas pinto beans and cheese burrito,40,g,140,mg,2670,g,113,g,64,g,20,g,1,g,21,g,3,g
+782,baja fresh,shrimp and pinto beans mexicano burrito,25,g,190,mg,2840,g,98,g,39,g,6,g,0,g,11,g,5,g
+783,baja fresh,charbroiled fish fajita burrito,50,g,160,mg,2050,g,78,g,49,g,18,g,0,g,5,g,7,g
+784,baja fresh,steak and black beans veggie burrito,45,g,145,mg,2040,g,83,g,58,g,21,g,1,g,13,g,8,g
+785,baja fresh,steak and pinto beans mexicano burrito,27,g,70,mg,1860,g,97,g,44,g,7,g,0,g,11,g,5,g
+786,baja fresh,carnitas and black beans veggie burrito,41,g,145,mg,2470,g,93,g,54,g,20,g,0.5,g,13,g,9,g
+787,baja fresh,roasted veggie and pinto beans dos manos burrito,58,g,100,mg,3370,g,150,g,43,g,25,g,0,g,14,g,13,g
+788,baja fresh,steak black beans and cheese burrito,44,g,140,mg,2360,g,98,g,68,g,20,g,1,g,20,g,3,g
+789,baja fresh,steak and pinto beans veggie burrito,45,g,145,mg,1980,g,86,g,58,g,21,g,1,g,13,g,8,g
+790,baja fresh,steak and black beans mexicano burrito,26,g,70,mg,1920,g,94,g,44,g,7,g,0,g,11,g,5,g
+791,baja fresh,roasted veggies and pinto beans mexicano burrito,19,g,0,mg,1780,g,105,g,20,g,5,g,0,g,13,g,8,g
+792,baja fresh,roasted veggie and black beans dos manos burrito,58,g,100,mg,3430,g,148,g,42,g,25,g,0,g,14,g,14,g
+793,baja fresh,shrimp and pinto beans veggie burrito,44,g,265,mg,3960,g,87,g,53,g,20,g,1,g,13,g,8,g
+794,baja fresh,shrimp pinto beans and cheese burrito,42,g,260,mg,3220,g,104,g,63,g,19,g,1,g,21,g,2,g
+795,baja fresh,steak pinto beans and cheese burrito,44,g,140,mg,2240,g,103,g,68,g,20,g,1,g,21,g,2,g
+796,baja fresh,carnitas and black beans mexicano burrito,22,g,70,mg,2340,g,104,g,40,g,6,g,0,g,11,g,5,g
+797,baja fresh,carnitas nacho burrito,49,g,145,mg,3230,g,117,g,58,g,22,g,1,g,13,g,5,g
+798,baja fresh,shrimp ultimo burrito,48,g,265,mg,2980,g,79,g,45,g,20,g,1,g,4,g,8,g
+799,baja fresh,wahoo and black beans veggie burrito,43,g,170,mg,2300,g,83,g,56,g,20,g,1,g,13,g,9,g
+800,baja fresh,wahoo diablo burrito,57,g,165,mg,2740,g,97,g,57,g,18,g,0,g,12,g,6,g
+801,baja fresh,churro,16,g,20,mg,1440,g,27,g,2,g,5,g,0,g,0,g,14,g
+802,baja fresh,chicken fajita with black or pinto beans with flour tortillas average,44,g,135,mg,2550,g,145,g,67,g,10,g,0,g,19,g,10,g
+803,baja fresh,steak fajita with black or pinto beans with corn tortillas average,38,g,130,mg,1800,g,120,g,59,g,11,g,0,g,20.5,g,7,g
+804,baja fresh,chicken fajita with black beans or pinto beans and corn tortillas average,38.5,g,135,mg,1850,g,120,g,60,g,10,g,0,g,21,g,7,g
+805,baja fresh,shrimp fajita with black or pinto beans with corn tortillas average,35,g,285,mg,3075,g,122,g,49,g,10,g,0,g,20.5,g,7.5,g
+806,baja fresh,carnitas fajita with black or pinto beans with flour tortillas average,35.5,g,100,mg,2835,g,155,g,50,g,9,g,0,g,19,g,11,g
+807,baja fresh,carnitas and black or pinto beans fajita with corn tortillas average,30,g,100,mg,2150,g,130,g,43,g,9,g,0,g,21,g,8,g
+808,baja fresh,wahoo fajita with black or pinto beans with corn tortillas average,35,g,155,mg,2110,g,120,g,52,g,9,g,0,g,20.5,g,7.5,g
+809,baja fresh,shrimp fajita with black or pinto beans with flour tortillas average,41,g,285,mg,3760,g,147,g,56,g,10,g,0,g,18.5,g,10.5,g
+810,baja fresh,wahoo fajita with black or pinto beans with flour tortillas average,40,g,155,mg,2790,g,145,g,59,g,9,g,0,g,18.5,g,10.5,g
+811,baja fresh,steak fajita with black or pinto beans with flour tortillas average,44,g,130,mg,2480,g,145,g,66,g,11,g,0,g,19,g,10,g
+812,baja fresh,kids black bean and cheese burrito,27,g,70,mg,980,g,52,g,23,g,14,g,1,g,5,g,12,g
+813,baja fresh,kids chicken taquitos 2,17,g,35,mg,200,g,17,g,15,g,4,g,0,g,1,g,1,g
+814,baja fresh,kids fresh apple slices,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,1,g,6,g
+815,baja fresh,kids grilled wahoo platter,7,g,105,mg,430,g,1,g,27,g,1,g,0,g,0,g,0,g
+816,baja fresh,kids steak quesadilla,23,g,80,mg,660,g,22,g,25,g,12,g,1,g,1,g,1,g
+817,baja fresh,kids pinto bean and cheese burrito,27,g,70,mg,970,g,52,g,23,g,14,g,1,g,5,g,12,g
+818,baja fresh,kids side of pinto beans,0,g,0,mg,280,g,16,g,5,g,0,g,0,g,6,g,0,g
+819,baja fresh,kids chicken quesadilla with charbroiled,23,g,80,mg,680,g,22,g,26,g,12,g,1,g,1,g,1,g
+820,baja fresh,kids carnitas quesadilla,21,g,80,mg,830,g,26,g,25,g,12,g,1,g,1,g,1,g
+821,baja fresh,kids apple juice,0,g,0,mg,10,g,26,g,0,g,0,g,0,g,0,g,25,g
+822,baja fresh,kids cheese quesadilla,20,g,60,mg,600,g,20,g,17,g,10,g,0,g,1,g,1,g
+823,baja fresh,kids side of rice,3,g,0,mg,200,g,12,g,1,g,0,g,0,g,0,g,0,g
+824,baja fresh,kids side of black beans,0,g,0,mg,310,g,15,g,5,g,0,g,0,g,5,g,1,g
+825,baja fresh,kids roasted corn,1.5,g,0,mg,0,g,14,g,2,g,0,g,0,g,4,g,5,g
+826,baja fresh,kids milk,2,g,10,mg,95,g,11,g,7,g,1.5,g,0,g,0,g,11,g
+827,baja fresh,kids grilled chicken platter,11,g,85,mg,280,g,1,g,31,g,2,g,0,g,0,g,0,g
+828,baja fresh,kids crispy wahoo platter,12,g,45,mg,600,g,18,g,13,g,2.5,g,0,g,1,g,0,g
+829,baja fresh,flour tortilla 6 inch,3.5,g,0,mg,220,g,15,g,2,g,1.5,g,0,g,0,g,0,g
+830,baja fresh,corn tortilla 2 x 5 inch,1,g,0,mg,0,g,14,g,2,g,0,g,0,g,1,g,0,g
+831,baja fresh,avocado slices,1.5,g,0,mg,100,g,6,g,1,g,0,g,0,g,0,g,0,g
+832,baja fresh,baja rice,1.5,g,0,mg,100,g,6,g,1,g,0,g,0,g,0,g,0,g
+833,baja fresh,whole wheat tortilla 10 inch,5,g,0,mg,510,g,34,g,6,g,2,g,0,g,4,g,0,g
+834,baja fresh,black beans,0,g,0,mg,105,g,5,g,2,g,0,g,0,g,2,g,0,g
+835,baja fresh,lettuce cabbage mix,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,1,g
+836,baja fresh,romaine lettuce,0,g,0,mg,10,g,5,g,2,g,0,g,0,g,3,g,2,g
+837,baja fresh,tortilla strips,1.5,g,0,mg,30,g,6,g,1,g,0,g,0,g,1,g,0,g
+838,baja fresh,flour tortilla 12 5 inch,11,g,0,mg,590,g,42,g,6,g,3.5,g,0,g,0,g,1,g
+839,baja fresh,jalapeno slices,0,g,0,mg,300,g,0,g,0,g,0,g,0,g,0,g,0,g
+840,baja fresh,pinto beans,0,g,0,mg,95,g,5,g,2,g,0,g,0,g,2,g,0,g
+841,baja fresh,lime wedges,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,2,g
+842,baja fresh,carnitas,5,g,70,mg,640,g,11,g,22,g,2,g,0,g,0,g,0,g
+843,baja fresh,shrimp,2.5,g,65,mg,400,g,1,g,7,g,0,g,0,g,0,g,0,g
+844,baja fresh,jack cheese mix,18,g,60,mg,360,g,0,g,14,g,10,g,0,g,0,g,0,g
+845,baja fresh,chicken,9,g,75,mg,250,g,1,g,27,g,2,g,0,g,0,g,0,g
+846,baja fresh,steak,9,g,70,mg,210,g,1,g,26,g,2.5,g,0,g,0,g,0,g
+847,baja fresh,cheddar and jack cheese blend,22,g,70,mg,440,g,2,g,17,g,14,g,1,g,1,g,0,g
+848,baja fresh,wahoo,7,g,95,mg,470,g,1,g,24,g,1.5,g,0,g,0,g,0,g
+849,baja fresh,lime rice,0.5,g,0,mg,110,g,8,g,1,g,0,g,0,g,0,g,0,g
+850,baja fresh,veggies,0.1,g,0,mg,13,g,0.9,g,0.0001,g,0,g,0,g,0.2,g,0.4,g
+851,baja fresh,cilantro onion mix,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+852,baja fresh,diced tomato,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+853,baja fresh,carnitas and black beans baja bowl,18,g,70,mg,2240,g,92,g,37,g,4,g,0,g,14,g,9,g
+854,baja fresh,chicken and black beans baja bowl,22,g,75,mg,1850,g,82,g,43,g,4,g,0,g,14,g,8,g
+855,baja fresh,shrimp and black beans baja bowl,20,g,190,mg,2790,g,83,g,36,g,3.5,g,0,g,13,g,8,g
+856,baja fresh,chicken taquitos with black or pinto beans average,55,g,105,mg,1430,g,88,g,45,g,15,g,0,g,16,g,5,g
+857,baja fresh,steak and black beans baja bowl,22,g,70,mg,1810,g,82,g,42,g,4.5,g,0,g,14,g,8,g
+858,baja fresh,grilled chicken soft taco,20,g,60,mg,760,g,25,g,23,g,6,g,0,g,2,g,4,g
+859,baja fresh,carnitas nachos with black or pinto beans,56,g,125,mg,1580,g,106,g,42,g,22,g,1,g,23,g,4,g
+860,baja fresh,veggie nachos with black and pinto beans average,98,g,175,mg,2520,g,172,g,60,g,41,g,2,g,43,g,10.5,g
+861,baja fresh,chicken nachos with black or pinto beans,60,g,135,mg,1410,g,101,g,48,g,23,g,1,g,23,g,3.5,g
+862,baja fresh,cheese nachos with black or pinto beans,54,g,90,mg,1245,g,101,g,31,g,22,g,1,g,23,g,3,g
+863,baja fresh,shrimp and pinto beans baja bowl,21,g,190,mg,2730,g,86,g,36,g,3.5,g,0,g,14,g,8,g
+864,baja fresh,steak and pinto beans baja bowl,22,g,70,mg,1750,g,84,g,42,g,4.5,g,0,g,14,g,8,g
+865,baja fresh,veggie and black beans baja bowl,14,g,0,mg,1730,g,90,g,17,g,2.5,g,0,g,15,g,12,g
+866,baja fresh,shrimp nachos with black or pinto beans average,104,g,370,mg,3580,g,165,g,79,g,43,g,2,g,39,g,7,g
+867,baja fresh,grilled carnitas soft taco,25,g,60,mg,1110,g,28,g,20,g,7,g,0,g,2,g,2,g
+868,baja fresh,veggie and pinto beans baja bowl,14,g,0,mg,1680,g,92,g,17,g,2.5,g,0,g,16,g,11,g
+869,baja fresh,chicken and pinto beans baja bowl,22,g,75,mg,1790,g,84,g,43,g,4,g,0,g,14,g,8,g
+870,baja fresh,steak nachos with black or pinto beans average,105,g,245,mg,2600,g,163,g,85,g,44,g,2,g,39,g,6.5,g
+871,baja fresh,wahoo nachos with black or pinto beans average,104,g,270,mg,2850,g,164,g,83,g,42,g,2,g,39,g,7,g
+872,baja fresh,wahoo and pinto beans baja bowl,20,g,95,mg,2010,g,84,g,39,g,3.5,g,0,g,14,g,8,g
+873,baja fresh,wahoo and black beans baja bowl,19.7,g,94,mg,2041,g,80.8,g,38.4,g,3.5,g,0,g,12.8,g,7.9,g
+874,baja fresh,carnitas and pinto beans baja bowl,18,g,70,mg,2180,g,94,g,38,g,4,g,0,g,14,g,8,g
+875,baja fresh,chicken quesadilla,80,g,255,mg,1920,g,49,g,71,g,37,g,0,g,3,g,3,g
+876,baja fresh,shrimp quesadilla,79,g,370,mg,2860,g,51,g,65,g,36,g,0,g,3,g,3,g
+877,baja fresh,steak quesadilla,80,g,250,mg,1880,g,49,g,70,g,37,g,0,g,3,g,3,g
+878,baja fresh,cheese quesadilla,71,g,180,mg,1670,g,48,g,44,g,35,g,0,g,3,g,3,g
+879,baja fresh,carnitas quesadilla,76,g,250,mg,2310,g,59,g,66,g,37,g,0,g,4,g,3,g
+880,baja fresh,wahoo quesadilla,78,g,275,mg,2140,g,49,g,68,g,36,g,0,g,3,g,3,g
+881,baja fresh,veggie quesadilla,72,g,180,mg,1800,g,57,g,45,g,35,g,0,g,5,g,7,g
+882,baja fresh,cilantro ranch dressing,9,g,15,mg,210,g,1,g,1,g,2.5,g,0,g,0,g,1,g
+883,baja fresh,chili lime dressing,12,g,0,mg,170,g,4,g,0,g,2,g,0,g,0,g,3,g
+884,baja fresh,vinaigrette,32,g,0,mg,390,g,5,g,0,g,5,g,0,g,0,g,2,g
+885,baja fresh,ranch dressing,10,g,15,mg,210,g,1,g,1,g,2.5,g,0,g,0,g,1,g
+886,baja fresh,grilled shrimp chile lime salad without dressing,17,g,190,mg,1740,g,29,g,27,g,3,g,0,g,11,g,7,g
+887,baja fresh,chicken baja ensalada without dressing,11,g,60,mg,810,g,18,g,25,g,2.5,g,0,g,6,g,5,g
+888,baja fresh,chicken and black beans tostada salad without dressing,53,g,125,mg,2240,g,86,g,55,g,17,g,0,g,18,g,9,g
+889,baja fresh,baja bbq chicken salad without dressing,17,g,55,mg,460,g,37,g,27,g,3,g,0,g,12,g,11,g
+890,baja fresh,shrimp baja ensalada without dressing,12,g,15,mg,1820,g,19,g,26,g,3,g,0,g,6,g,5,g
+891,baja fresh,steak baja ensalada without dressing,11,g,55,mg,790,g,17,g,24,g,3,g,0,g,6,g,5,g
+892,baja fresh,shrimp and black beans tostada salad without dressing,51,g,240,mg,3180,g,87,g,48,g,16,g,0,g,18,g,9,g
+893,baja fresh,chicken and pinto beans tostada salad without dressing,53,g,125,mg,2180,g,89,g,55,g,17,g,0,g,18,g,8,g
+894,baja fresh,carnitas and black beans tostada salad without dressing,48,g,120,mg,2630,g,96,g,50,g,16,g,0,g,18,g,9,g
+895,baja fresh,veggie and pinto beans tostada salad without dressing,45,g,50,mg,2070,g,96,g,29,g,15,g,0,g,20,g,12,g
+896,baja fresh,veggie and black beans tostada salad without dressing,45,g,50,mg,2130,g,94,g,29,g,15,g,0,g,20,g,12,g
+897,baja fresh,pinto beans tostada salad without meat or dressing,43,g,50,mg,1930,g,87,g,28,g,15,g,0,g,18,g,8,g
+898,baja fresh,veggie baja ensalada without dressing,6,g,5,mg,770,g,26,g,7,g,1.5,g,0,g,7,g,9,g
+899,baja fresh,baja ensalada without dressing,4,g,5,mg,640,g,17,g,6,g,1.5,g,0,g,6,g,5,g
+900,baja fresh,carnitas and pinto beans tostada salad without dressing,48,g,120,mg,2570,g,99,g,50,g,16,g,0,g,18,g,9,g
+901,baja fresh,steak and black beans tostada salad without dressing,52,g,120,mg,2200,g,86,g,54,g,17,g,0,g,18,g,9,g
+902,baja fresh,black beans tostada salad without meat or dressing,43,g,50,mg,1990,g,85,g,28,g,15,g,0,g,18,g,9,g
+903,baja fresh,grilled wahoo baja ensalada without dressing,12,g,100,mg,1110,g,18,g,29,g,2.5,g,0,g,6,g,5,g
+904,baja fresh,steak and pinto beans tostada salad without dressing,53,g,120,mg,2150,g,88,g,54,g,17,g,0,g,18,g,8,g
+905,baja fresh,carnitas baja ensalada without dressing,9,g,75,mg,1280,g,28,g,28,g,3,g,0,g,6,g,6,g
+906,baja fresh,shrimp and pinto beans tostada salad without dressing,51,g,240,mg,3120,g,90,g,48,g,16,g,0,g,18,g,8,g
+907,baja fresh,chicken torta sandwich without chips,23,g,100,mg,1330,g,64,g,45,g,6,g,0,g,6,g,0,g
+908,baja fresh,add enchilada style to burrito,24,g,45,mg,920,g,40,g,12,g,10,g,0,g,8,g,0,g
+909,baja fresh,add enchilado style to chips,18,g,35,mg,350,g,34,g,8,g,8,g,0,g,7,g,0,g
+910,baja fresh,americano taco carnitas,9,g,35,mg,500,g,21,g,12,g,5,g,0,g,1,g,0,g
+911,baja fresh,americano taco chicken,11,g,40,mg,400,g,19,g,15,g,5,g,0,g,1,g,0,g
+912,baja fresh,americano taco crispy wahoo,13,g,30,mg,540,g,25,g,11,g,5,g,0,g,1,g,0,g
+913,baja fresh,americano taco grilled wahoo,5,g,50,mg,490,g,19,g,15,g,5,g,0,g,1,g,0,g
+914,baja fresh,americano taco shrimp,11,g,80,mg,710,g,19,g,13,g,5,g,0,g,1,g,0,g
+915,baja fresh,americano taco steak,11,g,40,mg,380,g,19,g,15,g,5,g,0,g,1,g,0,g
+916,baja fresh,americano taco veggie,8,g,15,mg,310,g,18,g,6,g,4.5,g,0,g,1,g,0,g
+917,baja fresh,avocado salsa,0.5,g,0,mg,140,g,1,g,0,g,0,g,0,g,1,g,0,g
+918,baja fresh,avocado slices,4,g,0,mg,0,g,2,g,1,g,0.5,g,0,g,2,g,0,g
+919,baja fresh,bacon,6,g,10,mg,470,g,0,g,6,g,2,g,0,g,0,g,0,g
+920,baja fresh,baja bbq chicken salad,17,g,55,mg,460,g,37,g,27,g,3,g,0,g,12,g,0,g
+921,baja fresh,baja bbq sauce,0,g,0,mg,210,g,10,g,0,g,0,g,0,g,0,g,0,g
+922,baja fresh,baja bowl carnitas and black beans,18,g,70,mg,2240,g,92,g,37,g,4,g,0,g,14,g,0,g
+923,baja fresh,baja bowl carnitas and pinto beans,18,g,70,mg,2180,g,94,g,38,g,4,g,0,g,14,g,0,g
+924,baja fresh,baja bowl chicken and black beans,22,g,75,mg,1850,g,82,g,43,g,4,g,0,g,14,g,0,g
+925,baja fresh,baja bowl chicken and pinto beans,22,g,75,mg,1790,g,84,g,43,g,4,g,0,g,14,g,0,g
+926,baja fresh,baja bowl shrimp and black beans,20,g,190,mg,2790,g,83,g,36,g,3.5,g,0,g,13,g,0,g
+927,baja fresh,baja bowl shrimp and pinto beans,21,g,190,mg,2730,g,86,g,36,g,3.5,g,0,g,14,g,0,g
+928,baja fresh,baja bowl steak and black beans,22,g,70,mg,1810,g,82,g,42,g,4.5,g,0,g,14,g,0,g
+929,baja fresh,baja bowl steak and pinto beans,22,g,70,mg,1750,g,84,g,42,g,4.5,g,0,g,14,g,0,g
+930,baja fresh,baja bowl veggie and black beans,14,g,0,mg,1730,g,90,g,17,g,2.5,g,0,g,15,g,0,g
+931,baja fresh,baja bowl veggie and pinto beans,14,g,0,mg,1680,g,92,g,17,g,2.5,g,0,g,16,g,0,g
+932,baja fresh,baja bowl wahoo and black beans,20,g,95,mg,2070,g,82,g,39,g,3.5,g,0,g,13,g,0,g
+933,baja fresh,baja bowl wahoo and pinto beans,20,g,95,mg,2010,g,84,g,39,g,3.5,g,0,g,14,g,0,g
+934,baja fresh,baja burrito carnitas,41,g,130,mg,2240,g,63,g,44,g,16,g,0,g,5,g,0,g
+935,baja fresh,baja burrito chicken,46,g,135,mg,1850,g,53,g,50,g,17,g,0,g,5,g,0,g
+936,baja fresh,baja burrito roasted veggies,38,g,60,mg,1730,g,61,g,24,g,15,g,0,g,7,g,0,g
+937,baja fresh,baja burrito shrimp,44,g,250,mg,2790,g,55,g,43,g,16,g,0,g,5,g,0,g
+938,baja fresh,baja burrito steak,45,g,130,mg,1810,g,53,g,48,g,17,g,0,g,5,g,0,g
+939,baja fresh,baja burrito wahoo,44,g,155,mg,2070,g,53,g,46,g,16,g,0,g,5,g,0,g
+940,baja fresh,baja ensalada,4,g,5,mg,640,g,17,g,6,g,1.5,g,0,g,6,g,0,g
+941,baja fresh,baja ensalada carnitas,9,g,75,mg,1280,g,28,g,28,g,3,g,0,g,6,g,0,g
+942,baja fresh,baja ensalada chicken,11,g,60,mg,810,g,18,g,25,g,2.5,g,0,g,6,g,0,g
+943,baja fresh,baja ensalada grilled wahoo,12,g,100,mg,1110,g,18,g,29,g,2.5,g,0,g,6,g,0,g
+944,baja fresh,baja ensalada shrimp,12,g,195,mg,1820,g,19,g,26,g,3,g,0,g,6,g,0,g
+945,baja fresh,baja ensalada steak,11,g,55,mg,790,g,17,g,24,g,3,g,0,g,6,g,0,g
+946,baja fresh,baja ensalada veggie,6,g,5,mg,770,g,26,g,7,g,1.5,g,0,g,7,g,0,g
+947,baja fresh,baja papas,0,g,0,mg,95,g,20,g,2,g,0,g,0,g,2,g,0,g
+948,baja fresh,baja rice,1.5,g,0,mg,100,g,6,g,1,g,0,g,0,g,0,g,0,g
+949,baja fresh,baja taco carnitas with corn tortilla,435,g,20,mg,190,g,20,g,9,g,1,g,0,g,2,g,0,g
+950,baja fresh,baja taco chicken,6,g,25,mg,85,g,17,g,12,g,1,g,0,g,2,g,0,g
+951,baja fresh,baja taco shrimp,6,g,65,mg,400,g,17,g,9,g,1,g,0,g,2,g,0,g
+952,baja fresh,baja taco steak,6,g,25,mg,75,g,17,g,11,g,1.5,g,0,g,2,g,0,g
+953,baja fresh,baja taco veggie,3.5,g,0,mg,45,g,19,g,3,g,0,g,0,g,2,g,0,g
+954,baja fresh,baja taco wahoo,6,g,35,mg,180,g,17,g,11,g,1,g,0,g,2,g,0,g
+955,baja fresh,barqs caffeine free root beer 20 oz,0,g,0,mg,125,g,83,g,0,g,0,g,0,g,0,g,0,g
+956,baja fresh,barqs caffeine free root beer 32 oz,0,g,0,mg,200,g,132,g,0,g,0,g,0,g,0,g,0,g
+957,baja fresh,barqs red creme soda 20 oz,0,g,0,mg,110,g,85,g,0,g,0,g,0,g,0,g,0,g
+958,baja fresh,barqs red creme soda 32 oz,0,g,0,mg,180,g,135,g,0,g,0,g,0,g,0,g,0,g
+959,baja fresh,barqs root beer 20 oz,0,g,0,mg,125,g,83,g,0,g,0,g,0,g,0,g,0,g
+960,baja fresh,barqs root beer 32 oz,0,g,0,mg,200,g,132,g,0,g,0,g,0,g,0,g,0,g
+961,baja fresh,bean and cheese black bean,35,g,70,mg,2140,g,97,g,42,g,18,g,0.5,g,20,g,0,g
+962,baja fresh,bean and cheese carnitas and black beans,39,g,140,mg,2780,g,108,g,64,g,20,g,1,g,20,g,0,g
+963,baja fresh,bean and cheese chicken and black beans,44,g,145,mg,2390,g,98,g,69,g,20,g,1,g,20,g,0,g
+964,baja fresh,bean and cheese chicken and pinto beans,44,g,145,mg,2280,g,103,g,70,g,20,g,1,g,21,g,0,g
+965,baja fresh,bean and cheese pinto beans,35,g,70,mg,2030,g,102,g,42,g,18,g,0.5,g,21,g,0,g
+966,baja fresh,bean and cheese shrimp and black beans,42,g,260,mg,3330,g,99,g,63,g,19,g,1,g,20,g,0,g
+967,baja fresh,bean and cheese shrimp and pinto beans,42,g,260,mg,3220,g,104,g,63,g,19,g,1,g,21,g,0,g
+968,baja fresh,bean and cheese steak and black beans,44,g,140,mg,2360,g,98,g,68,g,20,g,1,g,20,g,0,g
+969,baja fresh,bean and cheese steak and pinto beans,44,g,140,mg,2240,g,103,g,68,g,20,g,1,g,21,g,0,g
+970,baja fresh,bean and cheese wahoo and black beans,42,g,165,mg,2610,g,98,g,66,g,19,g,1,g,20,g,0,g
+971,baja fresh,bean and cheese wahoo and pinto beans,42,g,165,mg,2500,g,103,g,66,g,19,g,1,g,21,g,0,g
+972,baja fresh,bean and cheese carnitas and pinto beans,40,g,140,mg,2670,g,113,g,64,g,20,g,1,g,21,g,0,g
+973,baja fresh,black beans,0,g,0,mg,105,g,5,g,2,g,0,g,0,g,2,g,0,g
+974,baja fresh,breakfast americano grande bacon,18,g,430,mg,870,g,34,g,25,g,6,g,0,g,3,g,0,g
+975,baja fresh,breakfast americano grande sausage,42,g,490,mg,980,g,34,g,33,g,14,g,0,g,3,g,0,g
+976,baja fresh,breakfast burrito,40,g,475,mg,1200,g,64,g,36,g,18,g,1,g,3,g,0,g
+977,baja fresh,breakfast burrito bacon,45,g,485,mg,1670,g,64,g,41,g,20,g,0.5,g,3,g,0,g
+978,baja fresh,breakfast burrito no tortilla,29,g,475,mg,610,g,22,g,30,g,15,g,0.5,g,3,g,0,g
+979,baja fresh,breakfast burrito sausage,70,g,550,mg,1780,g,64,g,50,g,29,g,1,g,3,g,0,g
+980,baja fresh,breakfast burrito steak,47,g,530,mg,1360,g,65,g,55,g,20,g,0.5,g,3,g,0,g
+981,baja fresh,breakfast burrito veggie,41,g,475,mg,1290,g,70,g,36,g,18,g,0.5,g,4,g,0,g
+982,baja fresh,breakfast huevos rancheros black,46,g,490,mg,2100,g,85,g,46,g,21,g,1,g,10,g,0,g
+983,baja fresh,breakfast huevos rancheros pinto,46,g,490,mg,2060,g,87,g,46,g,21,g,1,g,10,g,0,g
+984,baja fresh,breakfast taco,11,g,150,mg,360,g,16,g,10,g,5,g,0,g,0,g,0,g
+985,baja fresh,breakfast taco bacon,14,g,155,mg,600,g,16,g,13,g,6,g,0,g,0,g,0,g
+986,baja fresh,breakfast taco sausage,26,g,185,mg,650,g,16,g,17,g,11,g,0,g,0,g,0,g
+987,baja fresh,breakfast taco steak,15,g,175,mg,440,g,16,g,20,g,6,g,0,g,0,g,0,g
+988,baja fresh,breakfast taco veggie,12,g,150,mg,410,g,19,g,10,g,6,g,0,g,1,g,0,g
+989,baja fresh,burrito mexicano carnitas and black beans,22,g,70,mg,2340,g,104,g,40,g,6,g,0,g,11,g,0,g
+990,baja fresh,burrito mexicano carnitas and pinto beans,22,g,70,mg,2290,g,107,g,40,g,6,g,0,g,12,g,0,g
+991,baja fresh,burrito mexicano chicken and black beans,27,g,75,mg,1950,g,94,g,45,g,6,g,0,g,11,g,0,g
+992,baja fresh,burrito mexicano chicken and pinto beans,27,g,75,mg,1900,g,97,g,46,g,6,g,0,g,11,g,0,g
+993,baja fresh,burrito mexicano roasted veggies and black beans,19,g,0,mg,1840,g,102,g,19,g,5,g,0,g,13,g,0,g
+994,baja fresh,burrito mexicano roasted veggies and pinto beans,19,g,0,mg,1780,g,105,g,20,g,5,g,0,g,13,g,0,g
+995,baja fresh,burrito mexicano shrimp and black beans,25,g,190,mg,2890,g,96,g,39,g,6,g,0,g,11,g,0,g
+996,baja fresh,burrito mexicano shrimp and pinto beans,25,g,190,mg,2840,g,98,g,39,g,6,g,0,g,11,g,0,g
+997,baja fresh,burrito mexicano steak and black beans,26,g,70,mg,1920,g,94,g,44,g,7,g,0,g,11,g,0,g
+998,baja fresh,burrito mexicano steak and pinto beans,27,g,70,mg,1860,g,97,g,44,g,7,g,0,g,11,g,0,g
+999,baja fresh,burrito mexicano wahoo and black beans,25,g,95,mg,2170,g,94,g,42,g,6,g,0,g,11,g,0,g

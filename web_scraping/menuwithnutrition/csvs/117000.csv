@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,not your average joes,small toppings pepperoni,20,g,30,mg,780,g,2,g,9,g,8,g,0,g,0,g,2,g
+1,not your average joes,small toppings pineapple,0,g,0,mg,0,g,22,g,1,g,0,g,0,g,2,g,16,g
+2,not your average joes,small toppings red onions,0,g,0,mg,5,g,15,g,2,g,0,g,0,g,3,g,7,g
+3,not your average joes,small toppings roasted mushrooms,7,g,0,mg,330,g,5,g,2,g,0.5,g,0,g,1,g,0,g
+4,not your average joes,small toppings roasted sausage,28,g,45,mg,450,g,2,g,9,g,9,g,0,g,0,g,2,g
+5,not your average joes,small toppings shrimp,1,g,150,mg,170,g,0,g,16,g,0,g,0,g,0,g,0,g
+6,not your average joes,small toppings smoked mozzarella cheese,6,g,30,mg,340,g,4,g,10,g,4,g,0,g,0,g,0,g
+7,not your average joes,small toppings spanish onions,0,g,0,mg,5,g,15,g,2,g,0,g,0,g,3,g,7,g
+8,not your average joes,small toppings spinach,0,g,0,mg,25,g,1,g,1,g,0,g,0,g,0,g,0,g
+9,not your average joes,spaghetti squash bolognese dinner,13,g,0,mg,2020,g,46,g,10,g,2,g,0,g,10,g,15,g
+10,not your average joes,spaghetti squash bolognese lunch,12,g,0,mg,1820,g,40,g,8,g,2,g,0,g,9,g,13,g
+11,not your average joes,steak wedge,41,g,215,mg,1400,g,11,g,68,g,15,g,0,g,3,g,7,g
+12,not your average joes,strawberry shortcake,38,g,175,mg,440,g,80,g,8,g,19,g,0,g,2,g,53,g
+13,not your average joes,super crunch with orange sesame vinaigrette,37,g,110,mg,1170,g,73,g,51,g,4.5,g,0,g,14,g,32,g
+14,not your average joes,sweet blue burger with fries,86,g,225,mg,2850,g,80,g,63,g,33,g,2,g,4,g,20,g
+15,not your average joes,sweet blue burger with mixed greens,62,g,225,mg,2070,g,50,g,61,g,29,g,2,g,2,g,19,g
+16,not your average joes,sweet potato chorizo soup bowl,12,g,25,mg,910,g,23,g,3,g,4.5,g,0,g,3,g,8,g
+17,not your average joes,sweet potato chorizo soup cup,8,g,15,mg,610,g,15,g,2,g,3,g,0,g,2,g,5,g
+18,not your average joes,thai beef noodle salad,86,g,130,mg,2690,g,95,g,61,g,13,g,0,g,13,g,48,g
+19,not your average joes,the supreme joe large,133,g,365,mg,7400,g,266,g,137,g,62,g,0,g,14,g,22,g
+20,not your average joes,the supreme joe small,81,g,200,mg,4030,g,138,g,75,g,35,g,0,g,8,g,13,g
+21,not your average joes,tiki time cocktail,0,g,135,mg,30,g,29,g,0,g,0,g,0,g,0,g,0,g
+22,not your average joes,turkey avocado club sandwich with fries,79,g,120,mg,2880,g,78,g,51,g,13,g,0,g,11,g,7,g
+23,not your average joes,turkey avocado club sandwich with mixed greens,55,g,120,mg,2090,g,49,g,49,g,9,g,0,g,9,g,6,g
+24,not your average joes,tuscan grilled chicken sandwich with fries,84,g,175,mg,2710,g,76,g,54,g,23,g,0,g,5,g,9,g
+25,not your average joes,tuscan grilled chicken sandwich with mixed greens,60,g,175,mg,1920,g,47,g,52,g,19,g,0,g,3,g,8,g
+26,not your average joes,unsweetened iced tea,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,0,g
+27,not your average joes,veggie quinoa stir fry,38,g,0,mg,1430,g,72,g,14,g,3.5,g,0,g,9,g,26,g
+28,not your average joes,veggie satay lettuce wraps,40,g,15,mg,2340,g,119,g,23,g,6,g,0,g,20,g,58,g
+29,not your average joes,waldorf salad with creamy sherry vinaigrette,58,g,170,mg,1250,g,64,g,58,g,13,g,0,g,8,g,48,g
+30,not your average joes,waldorf side salad,24,g,25,mg,490,g,36,g,7,g,4.5,g,0,g,5,g,27,g
+31,not your average joes,wedge side salad,21,g,35,mg,1090,g,12,g,12,g,9,g,0,g,3,g,7,g
+32,nothing bundt cakes,blueberry bliss 10 inch cake,12,g,60,mg,260,g,42,g,3,g,5,g,0,g,0,g,31,g
+33,nothing bundt cakes,blueberry bliss 8 inch cake,13,g,60,mg,250,g,43,g,2,g,6,g,0,g,0,g,33,g
+34,nothing bundt cakes,blueberry bliss bundtini,9,g,45,mg,180,g,31,g,2,g,4.5,g,0,g,0,g,24,g
+35,nothing bundt cakes,blueberry bliss bundtlet,14,g,70,mg,300,g,47,g,3,g,6,g,0,g,0,g,35,g
+36,nothing bundt cakes,carrot 10 inch cake,11,g,50,mg,200,g,43,g,3,g,4.5,g,0,g,0,g,33,g
+37,nothing bundt cakes,carrot 8 inch cake,12,g,55,mg,200,g,45,g,3,g,4.5,g,0,g,0,g,35,g
+38,nothing bundt cakes,carrot bundtini,8,g,35,mg,135,g,30,g,2,g,3.5,g,0,g,0,g,24,g
+39,nothing bundt cakes,carrot bundtlet,13,g,65,mg,240,g,52,g,3,g,4.5,g,0,g,0,g,38,g
+40,nothing bundt cakes,chocolate chocolate chip 10 inch cake,12,g,50,mg,390,g,45,g,3,g,5,g,0,g,0,g,33,g
+41,nothing bundt cakes,chocolate chocolate chip 8 inch cake,12,g,45,mg,300,g,44,g,3,g,6,g,0,g,0,g,31,g
+42,nothing bundt cakes,chocolate chocolate chip bundtini,9,g,35,mg,260,g,32,g,2,g,3.5,g,0,g,0,g,24,g
+43,nothing bundt cakes,chocolate chocolate chip bundtlet,13,g,55,mg,490,g,51,g,3,g,4.5,g,0,g,0,g,35,g
+44,nothing bundt cakes,classic vanilla 10 inch cake,13,g,65,mg,270,g,41,g,3,g,6,g,0,g,0,g,31,g
+45,nothing bundt cakes,classic vanilla 8 inch cake,13,g,60,mg,240,g,39,g,2,g,6,g,0,g,0,g,31,g
+46,nothing bundt cakes,classic vanilla bundlet,13,g,60,mg,260,g,40,g,2,g,6,g,0,g,0,g,30,g
+47,nothing bundt cakes,classic vanilla bundtini,9,g,45,mg,180,g,29,g,2,g,4.5,g,0,g,0,g,22,g
+48,nothing bundt cakes,confetti 10 inch cake,13,g,65,mg,260,g,42,g,3,g,6,g,0,g,0,g,31,g
+49,nothing bundt cakes,confetti 8 inch cake,12,g,55,mg,230,g,40,g,2,g,6,g,0,g,0,g,31,g
+50,nothing bundt cakes,confetti bundtini,10,g,40,mg,150,g,31,g,1,g,5,g,0,g,0,g,27,g
+51,nothing bundt cakes,confetti bundtlet,13,g,65,mg,270,g,44,g,3,g,6,g,0,g,0,g,32,g
+52,nothing bundt cakes,gf chocolate chip cookie bundtlet,18,g,75,mg,260,g,56,g,3,g,6,g,0,g,0,g,42,g
+53,nothing bundt cakes,lemon 10 inch cake,13,g,80,mg,320,g,48,g,2,g,4.5,g,0,g,0,g,34,g
+54,nothing bundt cakes,lemon 8 inch cake,11,g,50,mg,310,g,44,g,2,g,4,g,0,g,0,g,32,g
+55,nothing bundt cakes,lemon bundtini,9,g,35,mg,230,g,33,g,2,g,3.5,g,0,g,0,g,24,g
+56,nothing bundt cakes,lemon bundtlet,13,g,55,mg,360,g,50,g,2,g,4.5,g,0,g,0,g,35,g
+57,nothing bundt cakes,lemon raspberry 10 inch cake,12,g,50,mg,330,g,47,g,2,g,4.5,g,0,g,0,g,33,g
+58,nothing bundt cakes,lemon raspberry 8 inch cake,12,g,50,mg,310,g,46,g,2,g,4.5,g,0,g,0,g,33,g
+59,nothing bundt cakes,lemon raspberry bundtini,9,g,40,mg,260,g,37,g,2,g,3.5,g,0,g,0,g,26,g
+60,nothing bundt cakes,lemon raspberry bundtlet,13,g,55,mg,380,g,53,g,3,g,4.5,g,0,g,0,g,38,g
+61,nothing bundt cakes,marble 10 inch cake,12,g,50,mg,380,g,47,g,2,g,5,g,0,g,0,g,35,g
+62,nothing bundt cakes,marble 8 inch cake,12,g,45,mg,330,g,44,g,2,g,5,g,0,g,0,g,34,g
+63,nothing bundt cakes,marble bundtini,9,g,35,mg,260,g,33,g,2,g,4,g,0,g,0,g,25,g
+64,nothing bundt cakes,marble bundtlet,12,g,55,mg,410,g,50,g,2,g,5,g,0,g,0,g,36,g
+65,nothing bundt cakes,peanut butter chocolate swirl 10 inch cake,12,g,45,mg,270,g,44,g,3,g,5,g,0,g,0,g,33,g
+66,nothing bundt cakes,peanut butter chocolate swirl 8 inch cake,11,g,40,mg,240,g,42,g,3,g,5,g,0,g,0,g,33,g
+67,nothing bundt cakes,peanut butter chocolate swirl bundtini,8,g,30,mg,190,g,31,g,2,g,3.5,g,0,g,0,g,24,g
+68,nothing bundt cakes,peanut butter chocolate swirl bundtlet,13,g,50,mg,320,g,50,g,4,g,5,g,0,g,0,g,37,g
+69,nothing bundt cakes,pecan praline 10 inch cake,13,g,50,mg,320,g,47,g,2,g,4.5,g,0,g,0,g,34,g
+70,nothing bundt cakes,pecan praline 8 inch cake,13,g,65,mg,270,g,44,g,2,g,5,g,0,g,0,g,33,g
+71,nothing bundt cakes,pecan praline bundtini,10,g,60,mg,240,g,37,g,2,g,3.5,g,0,g,0,g,27,g
+72,nothing bundt cakes,pecan praline bundtlet,14,g,80,mg,320,g,49,g,3,g,5,g,0,g,0,g,36,g
+73,nothing bundt cakes,peppermint chocolate chip 10 inch cake,14,g,65,mg,310,g,40,g,3,g,6,g,0,g,0,g,30,g
+74,nothing bundt cakes,peppermint chocolate chip 8 inch cake,13,g,55,mg,270,g,38,g,3,g,6,g,0,g,0,g,30,g
+75,nothing bundt cakes,peppermint chocolate chip bundtini,10,g,45,mg,210,g,28,g,2,g,4.5,g,0,g,0,g,22,g
+76,nothing bundt cakes,peppermint chocolate chip bundtlet,16,g,70,mg,360,g,45,g,3,g,7,g,0,g,0,g,34,g
+77,nothing bundt cakes,pumpkin spice 10 inch cake,13,g,50,mg,210,g,41,g,3,g,4,g,0,g,0,g,31,g
+78,nothing bundt cakes,pumpkin spice 8 inch cake,13,g,50,mg,210,g,43,g,3,g,4.5,g,0,g,0,g,32,g
+79,nothing bundt cakes,pumpkin spice bundtini,10,g,40,mg,170,g,33,g,2,g,3.5,g,0,g,0,g,25,g
+80,nothing bundt cakes,pumpkin spice bundtlet,11,g,45,mg,200,g,38,g,3,g,3,g,0,g,0,g,27,g
+81,nothing bundt cakes,red velvet 10 inch cake,14,g,110,mg,240,g,41,g,3,g,6,g,0,g,0,g,31,g
+82,nothing bundt cakes,red velvet 8 inch cake,14,g,95,mg,210,g,39,g,3,g,6,g,0,g,0,g,31,g
+83,nothing bundt cakes,red velvet bundtini,10,g,75,mg,160,g,29,g,2,g,4.5,g,0,g,0,g,22,g
+84,nothing bundt cakes,red velvet bundtlet,15,g,115,mg,250,g,43,g,3,g,6,g,0,g,0,g,32,g
+85,nothing bundt cakes,snickerdoodle 10 inch cake,13,g,70,mg,320,g,42,g,3,g,5,g,0,g,0,g,32,g
+86,nothing bundt cakes,snickerdoodle 8 inch cake,13,g,60,mg,280,g,40,g,2,g,6,g,0,g,0,g,31,g
+87,nothing bundt cakes,snickerdoodle bundtini,9,g,45,mg,210,g,29,g,2,g,4,g,0,g,0,g,22,g
+88,nothing bundt cakes,snickerdoodle bundtlet,14,g,80,mg,370,g,47,g,3,g,6,g,0,g,0,g,35,g
+89,nothing bundt cakes,strawberries and cream 10 inch cake,14,g,105,mg,250,g,42,g,3,g,6,g,0,g,0,g,32,g
+90,nothing bundt cakes,strawberries and cream 8 inch cake,14,g,90,mg,220,g,40,g,3,g,6,g,0,g,0,g,32,g
+91,nothing bundt cakes,strawberries and cream bundtini,10,g,70,mg,170,g,30,g,2,g,4.5,g,0,g,0,g,23,g
+92,nothing bundt cakes,strawberries and cream bundtlet,16,g,115,mg,280,g,46,g,3,g,7,g,0,g,0,g,35,g
+93,nothing bundt cakes,white chocolate raspberry 10 inch cake,12,g,95,mg,240,g,41,g,3,g,6,g,0,g,0,g,30,g
+94,nothing bundt cakes,white chocolate raspberry 8 inch cake,12,g,90,mg,230,g,40,g,3,g,6,g,0,g,0,g,31,g
+95,nothing bundt cakes,white chocolate raspberry bundtini,10,g,75,mg,190,g,33,g,2,g,4.5,g,0,g,0,g,24,g
+96,nothing bundt cakes,white chocolate raspberry bundtlet,14,g,100,mg,250,g,43,g,3,g,6,g,0,g,0,g,33,g
+97,nrgize,agave nectar,0,g,0,mg,0,g,23,g,0,g,0,g,0,g,0,g,22,g
+98,nrgize,apple juice regular,0.5,g,0,mg,25,g,64,g,1,g,0,g,0,g,1,g,55,g
+99,nrgize,apple juice small,0.5,g,0,mg,15,g,45,g,0,g,0,g,0,g,1,g,38,g
+100,nrgize,b12 shot boost caribbean delight,0,g,0,mg,10,g,3,g,0,g,0,g,0,g,0,g,1,g
+101,nrgize,b12 shot boost cherry charge,0,g,0,mg,10,g,3,g,0,g,0,g,0,g,0,g,1,g
+102,nrgize,b12 shot boost tropical blast,0,g,0,mg,5,g,3,g,0,g,0,g,0,g,0,g,1,g
+103,nrgize,banana,0,g,0,mg,0,g,11,g,1,g,0,g,0,g,1,g,6,g
+104,nrgize,banana banana smoothie large,10,g,0,mg,125,g,48,g,1,g,10,g,0,g,3,g,14,g
+105,nrgize,banana banana smoothie regular,8,g,0,mg,95,g,36,g,1,g,8,g,0,g,2,g,19,g
+106,nrgize,banana banana smoothie small,5,g,0,mg,65,g,24,g,1,g,5,g,0,g,1,g,7,g
+107,nrgize,banana split shake large,13,g,80,mg,310,g,55,g,30,g,11,g,0,g,2,g,12,g
+108,nrgize,banana split shake regular,10,g,80,mg,220,g,38,g,30,g,9,g,0,g,1,g,9,g
+109,nrgize,berrylicious shake large,13,g,80,mg,190,g,45,g,30,g,11,g,0,g,4,g,12,g
+110,nrgize,berrylicious shake regular,10,g,80,mg,160,g,32,g,30,g,9,g,0,g,2,g,8,g
+111,nrgize,blueberries,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,1,g,3,g
+112,nrgize,blueberry banana smoothie large,11,g,0,mg,130,g,43,g,1,g,10,g,0,g,3,g,13,g
+113,nrgize,blueberry banana smoothie regular,8,g,0,mg,95,g,31,g,1,g,8,g,0,g,3,g,9,g
+114,nrgize,blueberry banana smoothie small,5,g,0,mg,65,g,21,g,0,g,5,g,0,g,2,g,6,g
+115,nrgize,blueberry pineapple agave ice chiller large,1,g,0,mg,20,g,112,g,2,g,0,g,0,g,7,g,84,g
+116,nrgize,blueberry pineapple agave ice chiller regular,1,g,0,mg,15,g,81,g,2,g,0,g,0,g,6,g,58,g
+117,nrgize,blueberry pineapple agave ice chiller small,0.5,g,0,mg,10,g,49,g,1,g,0,g,0,g,4,g,33,g
+118,nrgize,blueberry pineapple smoothie large,10,g,0,mg,125,g,39,g,1,g,10,g,0,g,3,g,7,g
+119,nrgize,blueberry pineapple smoothie regular,8,g,0,mg,95,g,29,g,1,g,8,g,0,g,2,g,6,g
+120,nrgize,blueberry pineapple smoothie small,5,g,0,mg,65,g,20,g,0,g,5,g,0,g,1,g,4,g
+121,nrgize,body builder smoothie large,10,g,0,mg,125,g,42,g,1,g,10,g,0,g,3,g,11,g
+122,nrgize,body builder smoothie regular,8,g,0,mg,95,g,30,g,1,g,8,g,0,g,2,g,7,g
+123,nrgize,body builder smoothie small,5,g,0,mg,65,g,21,g,1,g,5,g,0,g,1,g,5,g
+124,nrgize,brewers yeast,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+125,nrgize,cardio crush smoothie large,11,g,0,mg,130,g,51,g,1,g,10,g,0,g,3,g,19,g
+126,nrgize,cardio crush smoothie regular,8,g,0,mg,95,g,39,g,1,g,8,g,0,g,2,g,16,g
+127,nrgize,cardio crush smoothie small,5,g,0,mg,65,g,27,g,1,g,5,g,0,g,1,g,10,g
+128,nrgize,carrot apple juice regular,1,g,0,mg,200,g,58,g,3,g,0,g,0,g,3,g,38,g
+129,nrgize,carrot apple juice small,0.5,g,0,mg,140,g,41,g,2,g,0,g,0,g,2,g,27,g
+130,nrgize,carrot apple orange juice regular,1,g,0,mg,140,g,59,g,3,g,0,g,0,g,2,g,41,g
+131,nrgize,carrot apple orange juice small,0.5,g,0,mg,100,g,41,g,2,g,0,g,0,g,2,g,29,g
+132,nrgize,carrot juice regular,1,g,0,mg,370,g,53,g,5,g,0,g,0,g,5,g,22,g
+133,nrgize,carrot juice small,0.5,g,0,mg,260,g,37,g,4,g,0,g,0,g,3,g,16,g
+134,nrgize,carrot orange juice regular,1,g,0,mg,190,g,56,g,5,g,0,g,0,g,3,g,35,g
+135,nrgize,carrot orange juice small,0,g,0,mg,135,g,39,g,3,g,0,g,0,g,2,g,24,g
+136,nrgize,coconut,1,g,0,mg,10,g,2,g,0,g,1,g,0,g,0,g,1,g
+137,nrgize,echinacea,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+138,nrgize,fat fighter smoothie large,10,g,0,mg,130,g,47,g,1,g,10,g,0,g,3,g,11,g
+139,nrgize,fat fighter smoothie regular,8,g,0,mg,100,g,35,g,1,g,8,g,0,g,3,g,7,g
+140,nrgize,fat fighter smoothie small,5,g,0,mg,70,g,26,g,1,g,5,g,0,g,2,g,6,g
+141,nrgize,fiber,3.5,g,0,mg,0,g,2,g,2,g,0,g,0,g,2,g,0,g
+142,nrgize,flu fighter smoothie large,10,g,0,mg,130,g,38,g,1,g,10,g,0,g,3,g,10,g
+143,nrgize,flu fighter smoothie regular,8,g,0,mg,95,g,29,g,1,g,8,g,0,g,2,g,7,g
+144,nrgize,flu fighter smoothie small,5,g,0,mg,65,g,19,g,0,g,5,g,0,g,1,g,4,g
+145,nrgize,get ripped smoothie large,15,g,0,mg,150,g,39,g,11,g,11,g,0,g,3,g,8,g
+146,nrgize,get ripped smoothie regular,13,g,0,mg,120,g,30,g,10,g,9,g,0,g,2,g,6,g
+147,nrgize,get ripped smoothie small,10,g,0,mg,90,g,20,g,10,g,6,g,0,g,1,g,4,g
+148,nrgize,ginseng,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+149,nrgize,glutamine,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+150,nrgize,holistic healer smoothie large,10,g,0,mg,135,g,47,g,1,g,10,g,0,g,1,g,13,g
+151,nrgize,holistic healer smoothie regular,8,g,0,mg,105,g,35,g,1,g,8,g,0,g,1,g,9,g
+152,nrgize,holistic healer smoothie small,5,g,0,mg,70,g,26,g,1,g,5,g,0,g,1,g,6,g
+153,nrgize,instant coffee,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+154,nrgize,jumpin ginseng smoothie large,11,g,25,mg,150,g,24,g,11,g,11,g,0,g,3,g,21,g
+155,nrgize,jumpin ginseng smoothie regular,8,g,25,mg,120,g,42,g,11,g,8,g,0,g,3,g,18,g
+156,nrgize,jumpin ginseng smoothie small,6,g,25,mg,85,g,28,g,10,g,5,g,0,g,2,g,11,g
+157,nrgize,lecithin,4,g,0,mg,0,g,1,g,0,g,1,g,0,g,0,g,0,g
+158,nrgize,mango,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,1,g,7,g
+159,nrgize,mango banana smoothie large,11,g,0,mg,130,g,49,g,1,g,10,g,0,g,3,g,19,g
+160,nrgize,mango banana smoothie regular,8,g,0,mg,95,g,39,g,1,g,8,g,0,g,3,g,17,g
+161,nrgize,mango banana smoothie small,5,g,0,mg,65,g,25,g,1,g,5,g,0,g,2,g,10,g
+162,nrgize,mocha java jolt smoothie large,11,g,25,mg,300,g,40,g,10,g,10,g,0,g,0,g,1,g
+163,nrgize,mocha java jolt smoothie regular,8,g,25,mg,240,g,31,g,10,g,8,g,0,g,0,g,1,g
+164,nrgize,mocha java jolt smoothie small,6,g,25,mg,150,g,20,g,10,g,5,g,0,g,0,g,1,g
+165,nrgize,muscle mass smoothie large,10,g,0,mg,130,g,43,g,1,g,10,g,0,g,3,g,7,g
+166,nrgize,muscle mass smoothie regular,8,g,0,mg,100,g,32,g,1,g,8,g,0,g,2,g,6,g
+167,nrgize,muscle mass smoothie small,5,g,0,mg,65,g,23,g,1,g,5,g,0,g,1,g,4,g
+168,nrgize,nutri blast smoothie large,11,g,25,mg,150,g,53,g,12,g,11,g,0,g,3,g,15,g
+169,nrgize,nutri blast smoothie regular,8,g,25,mg,120,g,37,g,12,g,8,g,0,g,2,g,9,g
+170,nrgize,nutri blast smoothie small,6,g,25,mg,90,g,27,g,12,g,6,g,0,g,1,g,8,g
+171,nrgize,oatmeal,1,g,0,mg,35,g,8,g,2,g,0,g,0,g,1,g,0,g
+172,nrgize,orange apple juice regular,1,g,0,mg,15,g,62,g,2,g,0,g,0,g,1,g,51,g
+173,nrgize,orange apple juice small,0.5,g,0,mg,10,g,43,g,2,g,0,g,0,g,1,g,36,g
+174,nrgize,orange juice regular,1,g,0,mg,5,g,59,g,4,g,0,g,0,g,1,g,48,g
+175,nrgize,orange juice small,1,g,0,mg,0,g,41,g,3,g,0,g,0,g,1,g,33,g
+176,nrgize,pbandj shake large,47,g,80,mg,390,g,50,g,47,g,16,g,0,g,9,g,8,g
+177,nrgize,pbandj shake regular,34,g,80,mg,300,g,36,g,41,g,12,g,0,g,6,g,5,g
+178,nrgize,pb2,3.5,g,0,mg,220,g,12,g,12,g,0,g,0,g,5,g,2,g
+179,nrgize,peach,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,3,g
+180,nrgize,peach mango smoothie large,10,g,0,mg,125,g,44,g,1,g,10,g,0,g,2,g,19,g
+181,nrgize,peach mango smoothie regular,8,g,0,mg,95,g,36,g,1,g,8,g,0,g,2,g,16,g
+182,nrgize,peach mango smoothie small,5,g,0,mg,65,g,22,g,1,g,5,g,0,g,1,g,9,g
+183,nrgize,peanut butter cup shake large,49,g,80,mg,550,g,58,g,46,g,16,g,0,g,7,g,4,g
+184,nrgize,peanut butter cup shake regular,36,g,80,mg,390,g,43,g,41,g,12,g,0,g,5,g,3,g
+185,nrgize,peanut butter gone bananas shake large,45,g,80,mg,430,g,67,g,47,g,15,g,0,g,9,g,14,g
+186,nrgize,peanut butter gone bananas shake regular,32,g,80,mg,330,g,51,g,42,g,12,g,0,g,7,g,10,g
+187,nrgize,peanut butter all natural,21,g,0,mg,130,g,9,g,11,g,2.5,g,0,g,4,g,1,g
+188,nrgize,pineapple,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,1,g,1,g
+189,nrgize,pineapple coconut orange smoothie large,11,g,0,mg,140,g,40,g,1,g,11,g,0,g,1,g,8,g
+190,nrgize,pineapple coconut orange smoothie regular,8,g,0,mg,100,g,30,g,1,g,8,g,0,g,1,g,5,g
+191,nrgize,pineapple coconut orange smoothie small,5,g,0,mg,70,g,20,g,1,g,5,g,0,g,1,g,4,g
+192,nrgize,pineapple mango agave ice chiller large,0,g,0,mg,15,g,132,g,3,g,0,g,0,g,8,g,104,g
+193,nrgize,pineapple mango agave ice chiller regular,0,g,0,mg,10,g,96,g,2,g,0,g,0,g,6,g,75,g
+194,nrgize,pineapple mango agave ice chiller small,0,g,0,mg,10,g,61,g,2,g,0,g,0,g,5,g,45,g
+195,nrgize,pineapple peach smoothie large,10,g,0,mg,125,g,38,g,1,g,10,g,0,g,2,g,7,g
+196,nrgize,pineapple peach smoothie regular,8,g,0,mg,95,g,29,g,1,g,8,g,0,g,1,g,4,g
+197,nrgize,pineapple peach smoothie small,5,g,0,mg,65,g,19,g,1,g,5,g,0,g,1,g,3,g
+198,nrgize,protein pump smoothie large,42,g,25,mg,350,g,50,g,26,g,14,g,0,g,7,g,10,g
+199,nrgize,protein pump smoothie regular,29,g,25,mg,250,g,40,g,21,g,11,g,0,g,5,g,9,g
+200,nrgize,protein pump smoothie small,27,g,25,mg,220,g,28,g,20,g,8,g,0,g,5,g,5,g
+201,nrgize,raspberries,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,1,g,2,g
+202,nrgize,raspberry banana smoothie large,10,g,0,mg,125,g,42,g,1,g,10,g,0,g,3,g,11,g
+203,nrgize,raspberry banana smoothie regular,8,g,0,mg,95,g,30,g,1,g,8,g,0,g,2,g,7,g
+204,nrgize,raspberry banana smoothie small,5,g,0,mg,65,g,21,g,1,g,5,g,0,g,1,g,5,g
+205,nrgize,smooth move smoothie large,13,g,0,mg,130,g,47,g,3,g,10,g,0,g,4,g,19,g
+206,nrgize,smooth move smoothie regular,11,g,0,mg,95,g,38,g,3,g,8,g,0,g,4,g,16,g
+207,nrgize,smooth move smoothie small,8,g,0,mg,65,g,24,g,2,g,5,g,0,g,3,g,10,g
+208,nrgize,soy protein,0,g,0,mg,0,g,0,g,10,g,0,g,0,g,0,g,0,g
+209,nrgize,spirulina,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,0,g,0,g
+210,nrgize,stamina squeeze smoothie large,11,g,25,mg,150,g,45,g,12,g,11,g,0,g,4,g,11,g
+211,nrgize,stamina squeeze smoothie regular,9,g,25,mg,120,g,33,g,11,g,8,g,0,g,3,g,8,g
+212,nrgize,stamina squeeze smoothie small,6,g,25,mg,90,g,23,g,11,g,5,g,0,g,2,g,6,g
+213,nrgize,strawberries,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,1,g,2,g
+214,nrgize,strawberry apple agave ice chiller large,0,g,0,mg,35,g,106,g,1,g,0,g,0,g,4,g,93,g
+215,nrgize,strawberry apple agave ice chiller regular,0,g,0,mg,25,g,76,g,1,g,0,g,0,g,4,g,65,g
+216,nrgize,strawberry apple agave ice chiller small,0,g,0,mg,20,g,45,g,1,g,0,g,0,g,3,g,38,g
+217,nrgize,strawberry banana smoothie large,10,g,0,mg,130,g,43,g,1,g,10,g,0,g,3,g,11,g
+218,nrgize,strawberry banana smoothie regular,8,g,0,mg,95,g,31,g,1,g,8,g,0,g,3,g,7,g
+219,nrgize,strawberry banana smoothie small,5,g,0,mg,65,g,21,g,0,g,5,g,0,g,2,g,5,g
+220,nrgize,strawberry mango agave ice chiller large,0,g,0,mg,20,g,128,g,3,g,0,g,0,g,9,g,110,g
+221,nrgize,strawberry mango agave ice chiller regular,0,g,0,mg,15,g,93,g,2,g,0,g,0,g,7,g,79,g
+222,nrgize,strawberry mango agave ice chiller small,0,g,0,mg,10,g,58,g,2,g,0,g,0,g,6,g,48,g
+223,nrgize,strawberry peach smoothie large,10,g,0,mg,130,g,37,g,1,g,10,g,0,g,3,g,10,g
+224,nrgize,strawberry peach smoothie regular,8,g,0,mg,95,g,28,g,1,g,8,g,0,g,2,g,7,g
+225,nrgize,strawberry peach smoothie small,5,g,0,mg,65,g,18,g,0,g,5,g,0,g,1,g,5,g
+226,nrgize,strawberry pineapple agave ice chiller large,0,g,0,mg,20,g,111,g,2,g,0,g,0,g,7,g,79,g
+227,nrgize,strawberry pineapple agave ice chiller regular,0,g,0,mg,15,g,80,g,2,g,0,g,0,g,6,g,55,g
+228,nrgize,strawberry pineapple agave ice chiller small,0,g,0,mg,10,g,48,g,1,g,0,g,0,g,4,g,30,g
+229,nrgize,sugar free chocolate syrup,0,g,0,mg,60,g,5,g,0,g,0,g,0,g,0,g,0,g
+230,nrgize,vita boost smoothie large,11,g,25,mg,150,g,41,g,10,g,10,g,0,g,3,g,8,g
+231,nrgize,vita boost smoothie regular,9,g,25,mg,120,g,30,g,10,g,8,g,0,g,2,g,7,g
+232,nrgize,vita boost smoothie small,6,g,25,mg,85,g,21,g,10,g,5,g,0,g,1,g,4,g
+233,nrgize,wheatgrass,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,1,g
+234,nrgize,whey protein,0,g,25,mg,25,g,1,g,10,g,0,g,0,g,0,g,1,g
+235,nrgize,yin yang smoothie large,11,g,0,mg,140,g,45,g,1,g,11,g,0,g,1,g,9,g
+236,nrgize,yin yang smoothie regular,8,g,0,mg,105,g,35,g,1,g,8,g,0,g,1,g,5,g
+237,nrgize,yin yang smoothie small,5,g,0,mg,75,g,25,g,1,g,5,g,0,g,1,g,4,g
+238,ocharleys,soft yeast roll,2,g,0,mg,105,g,25,g,4,g,0,g,0,g,1,g,8,g
+239,ocharleys,famous chicken tenders,65,g,200,mg,1490,g,37,g,72,g,11,g,0,g,2,g,6,g
+240,ocharleys,spicy jack cheese wedges,48,g,120,mg,1960,g,44,g,24,g,33,g,0,g,0,g,1,g
+241,ocharleys,nashville hot chicken tenders,87,g,205,mg,2710,g,44,g,67,g,19,g,0,g,0,g,14,g
+242,ocharleys,loaded potato skins,109,g,235,mg,2180,g,44,g,62,g,41,g,0,g,6,g,4,g
+243,ocharleys,fried green tomatoes,23,g,0,mg,2170,g,92,g,8,g,4,g,0,g,3,g,34,g
+244,ocharleys,spinach and artichoke dip,34,g,45,mg,1250,g,77,g,18,g,12,g,0,g,9,g,3,g
+245,ocharleys,top shelf combo appetizer,132,g,310,mg,3300,g,74,g,88,g,48,g,0,g,4,g,9,g
+246,ocharleys,nashville hot deviled eggs,61,g,525,mg,2020,g,24,g,18,g,12,g,0,g,2,g,20,g
+247,ocharleys,chipotle chicken tenders,40,g,185,mg,2230,g,107,g,80,g,8,g,0,g,13,g,47,g
+248,ocharleys,original chicken tenders,65,g,200,mg,1490,g,37,g,72,g,11,g,0,g,2,g,6,g
+249,ocharleys,buffalo chicken tenders,64,g,200,mg,3310,g,34,g,74,g,11,g,0,g,3,g,2,g
+250,ocharleys,chips and spicy white quezo,38,g,80,mg,1590,g,31,g,16,g,17,g,0,g,1,g,8,g
+251,ocharleys,strawberry waffle combo with ham steak,83,g,605,mg,3330,g,132,g,45,g,36,g,3,g,3,g,45,g
+252,ocharleys,brunch savannah scramble with wheat toast,97,g,775,mg,3560,g,92,g,65,g,31,g,3.5,g,11,g,13,g
+253,ocharleys,brunch ultimate omelet with wheat bread,76,g,715,mg,3050,g,95,g,62,g,21,g,3,g,7,g,30,g
+254,ocharleys,brunch overloaded brunch platter,92,g,515,mg,3210,g,112,g,55,g,30,g,2.5,g,5,g,32,g
+255,ocharleys,brunch deconstructed breakfast taco,85,g,755,mg,4240,g,101,g,74,g,27,g,2,g,9,g,11,g
+256,ocharleys,brunch bananas foster french toast with ham,43,g,495,mg,2580,g,139,g,58,g,13,g,0,g,5,g,72,g
+257,ocharleys,brunch classic eggs benedict,64,g,590,mg,2300,g,72,g,38,g,20,g,2.5,g,5,g,12,g
+258,ocharleys,brunch side applewood smoked bacon,8,g,25,mg,360,g,0,g,6,g,3,g,0,g,0,g,0,g
+259,ocharleys,brunch ultimate omelet with white toast,76,g,715,mg,3110,g,98,g,59,g,21,g,3,g,6,g,32,g
+260,ocharleys,brunch country sausage scramble with wheat toast,125,g,785,mg,4150,g,81,g,79,g,34,g,3.5,g,8,g,9,g
+261,ocharleys,brunch side wheat toast,9,g,0,mg,350,g,27,g,5,g,15,g,1,g,2,g,2,g
+262,ocharleys,brunch side ham steak,3,g,60,mg,1380,g,2,g,20,g,1,g,0,g,0,g,2,g
+263,ocharleys,brunch strawberries and cream french toast with bacon,41,g,475,mg,1420,g,108,g,37,g,17,g,0,g,3,g,56,g
+264,ocharleys,brunch cinnamon french toast with bacon,46,g,455,mg,1650,g,136,g,35,g,17,g,0,g,2,g,68,g
+265,ocharleys,belgian waffle combo with bacon,88,g,565,mg,2310,g,126,g,31,g,38,g,3,g,2,g,40,g
+266,ocharleys,brunch cinnamon french toast with ham,42,g,495,mg,2670,g,138,g,49,g,15,g,0,g,2,g,70,g
+267,ocharleys,brunch bananas foster french toast with bacon,48,g,455,mg,1560,g,137,g,38,g,15,g,0,g,5,g,70,g
+268,ocharleys,belgian waffle combo with ham,83,g,605,mg,3330,g,128,g,45,g,36,g,3,g,2,g,42,g
+269,ocharleys,brunch southern pecan waffle combo with ham steak,104,g,605,mg,3330,g,132,g,48,g,38,g,3,g,4,g,43,g
+270,ocharleys,brunch side two eggs,25,g,415,mg,270,g,1,g,14,g,6,g,2,g,0,g,0,g
+271,ocharleys,brunch side white toast,9,g,0,mg,390,g,29,g,2,g,1.5,g,1.5,g,1,g,4,g
+272,ocharleys,brunch strawberries and cream french toast with ham,37,g,515,mg,2440,g,110,g,51,g,15,g,0,g,3,g,58,g
+273,ocharleys,strawberry waffle combo with bacon,88,g,565,mg,2310,g,130,g,31,g,38,g,3,g,3,g,43,g
+274,ocharleys,brunch sideparmesan potatoeses,26,g,5,mg,950,g,41,g,6,g,5,g,0,g,4,g,0,g
+275,ocharleys,brunch country sausage scramble with white toast,125,g,785,mg,4190,g,83,g,76,g,34,g,3.5,g,7,g,11,g
+276,ocharleys,brunch souther npecan waffle combo with bacon,109,g,565,mg,2310,g,130,g,34,g,40,g,3,g,4,g,41,g
+277,ocharleys,ooey gooey caramel pie,39,g,115,mg,230,g,76,g,7,g,19,g,2.5,g,1,g,66,g
+278,ocharleys,country apple pie,35,g,40,mg,450,g,77,g,3,g,17,g,0,g,3,g,46,g
+279,ocharleys,french silk pie,43,g,80,mg,310,g,49,g,5,g,22,g,0.5,g,1,g,33,g
+280,ocharleys,double crust cherry pie,35,g,40,mg,450,g,69,g,4,g,16,g,0,g,2,g,34,g
+281,ocharleys,southern pecan pie,45,g,165,mg,450,g,78,g,7,g,16,g,0,g,3,g,34,g
+282,ocharleys,brownie lovers brownie,77,g,260,mg,1420,g,227,g,24,g,45,g,0,g,9,g,154,g
+283,ocharleys,goo goo crunch,93,g,235,mg,720,g,155,g,17,g,47,g,0.5,g,6,g,120,g
+284,ocharleys,kids chicken tenders without side,15,g,45,mg,1390,g,30,g,24,g,3,g,0,g,2,g,0,g
+285,ocharleys,kids cheese pizza,13,g,30,mg,1300,g,62,g,22,g,6,g,0,g,4,g,6,g
+286,ocharleys,kids side french fries,14,g,0,mg,260,g,23,g,2,g,2.5,g,0,g,2,g,0,g
+287,ocharleys,kids cheeseburger without side,30,g,75,mg,890,g,23,g,19,g,11,g,1,g,1,g,7,g
+288,ocharleys,kids grilled chicken breast without side,5,g,80,mg,540,g,3,g,27,g,1,g,0,g,0,g,1,g
+289,ocharleys,kids macaroni and cheese without side,23,g,45,mg,1560,g,27,g,14,g,9,g,3.5,g,0,g,5,g
+290,ocharleys,kids grilled chicken salad without side,9,g,65,mg,530,g,19,g,23,g,3,g,0,g,3,g,4,g
+291,ocharleys,kids mini corn dogs without side,37,g,40,mg,840,g,27,g,11,g,10,g,0,g,2,g,8,g
+292,ocharleys,kids steak tips with french fries,40,g,65,mg,660,g,24,g,19,g,9,g,0,g,2,g,0,g
+293,ocharleys,kids grilled cheese sandwich without side,26,g,40,mg,860,g,52,g,20,g,9,g,1.5,g,1,g,4,g
+294,ocharleys,kids side mandarin orange slices,0,g,0,mg,10,g,15,g,1,g,0,g,0,g,1,g,14,g
+295,ocharleys,kids jr waffle,58,g,230,mg,1520,g,120,g,11,g,30,g,1,g,2,g,37,g
+296,ocharleys,kids side carrot sticks with ranch dressing,17,g,15,mg,350,g,11,g,2,g,3,g,0,g,2,g,6,g
+297,ocharleys,kids brunch with wheat toast,43,g,160,mg,1170,g,73,g,15,g,8,g,3,g,4,g,22,g
+298,ocharleys,kids bbq ribs without side,16,g,60,mg,1750,g,41,g,17,g,6,g,0,g,1,g,31,g
+299,ocharleys,kids side broccoli,8,g,0,mg,450,g,6,g,3,g,2.5,g,0,g,3,g,0,g
+300,ocharleys,kids hamburger without cheese or side,24,g,55,mg,770,g,23,g,14,g,7,g,1,g,1,g,7,g
+301,ocharleys,kids side applesauce,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,1,g,11,g
+302,ocharleys,kids jr shrimp without side,29,g,105,mg,1150,g,23,g,15,g,7,g,0,g,1,g,4,g
+303,ocharleys,kids jr brunch with white toast,43,g,160,mg,1210,g,75,g,12,g,8,g,3,g,3,g,24,g
+304,ocharleys,santa fe tilapia with rice pilaf,14,g,90,mg,1190,g,33,g,46,g,3,g,1.5,g,2,g,6,g
+305,ocharleys,peach chutney chicken without sides,8,g,85,mg,850,g,69,g,31,g,2.5,g,0,g,6,g,46,g
+306,ocharleys,honey drizzled southern fried chicken,25,g,80,mg,980,g,18,g,30,g,5,g,0,g,1,g,1,g
+307,ocharleys,grilled top sirloin 6 oz without side,18,g,100,mg,850,g,0,g,25,g,7,g,0,g,0,g,0,g
+308,ocharleys,chicken tenders and fries,85,g,180,mg,1660,g,74,g,68,g,14,g,0,g,6,g,6,g
+309,ocharleys,filet mignon with garlic butter without sides,47,g,170,mg,1530,g,1,g,38,g,17,g,0,g,0,g,0,g
+310,ocharleys,louisiana sirloin without sides,43,g,200,mg,1710,g,3,g,50,g,16,g,1.5,g,1,g,0,g
+311,ocharleys,grilled top sirloin 12 oz without side,36,g,195,mg,1690,g,1,g,50,g,14,g,0,g,0,g,0,g
+312,ocharleys,grilled chicken bowl,41,g,100,mg,2850,g,46,g,37,g,11,g,0,g,10,g,7,g
+313,ocharleys,classic combo steak and grilled atlantic salmon without sides,33,g,180,mg,1740,g,5,g,73,g,8,g,1,g,1,g,1,g
+314,ocharleys,chicken italia,66,g,215,mg,2440,g,94,g,70,g,28,g,5,g,6,g,9,g
+315,ocharleys,chicken pot pie,89,g,175,mg,3310,g,90,g,31,g,45,g,1.5,g,6,g,10,g
+316,ocharleys,nashville baby back ribs without sides,110,g,260,mg,4750,g,63,g,70,g,33,g,1.5,g,5,g,52,g
+317,ocharleys,slow roasted prime rib 8 oz without sides,70,g,170,mg,1400,g,3,g,41,g,23,g,0,g,0,g,1,g
+318,ocharleys,classic combo 6 oz steak and chicken tenders without sides,55,g,160,mg,3410,g,53,g,70,g,10,g,1,g,3,g,6,g
+319,ocharleys,rib eye steak without sides,71,g,175,mg,1350,g,1,g,46,g,26,g,2,g,0,g,0,g
+320,ocharleys,nashville fried chicken breast 5 oz,48,g,0,mg,1830,g,24,g,32,g,10,g,0.5,g,2,g,5,g
+321,ocharleys,nashville hot chicken tender dinner without sides,87,g,205,mg,2710,g,44,g,67,g,19,g,0,g,0,g,14,g
+322,ocharleys,chicken tender dinner without side,65,g,200,mg,1490,g,37,g,72,g,11,g,0,g,2,g,6,g
+323,ocharleys,famous chicken tenders and twisted chips,93,g,130,mg,4070,g,133,g,67,g,16,g,2,g,10,g,12,g
+324,ocharleys,slow roasted prime rib 16 oz without sides,120,g,325,mg,2120,g,4,g,82,g,43,g,0,g,0,g,1,g
+325,ocharleys,bacon and bourbon glazed filet without sides,42,g,185,mg,2030,g,28,g,42,g,17,g,0,g,0,g,18,g
+326,ocharleys,chipotle chicken tender dinner without sides,40,g,185,mg,1860,g,77,g,77,g,8,g,0,g,9,g,29,g
+327,ocharleys,slow roasted prime rib 12 oz without sides,95,g,245,mg,980,g,3,g,61,g,33,g,0,g,0,g,1,g
+328,ocharleys,buffalo chicken tender dinner without side,64,g,200,mg,3250,g,31,g,74,g,11,g,0,g,2,g,1,g
+329,ocharleys,classic combo carolina ribs and chicken tenders without sides,37,g,160,mg,2770,g,80,g,55,g,10,g,0,g,2,g,59,g
+330,ocharleys,classic combo nashville hot ribs and chicken tenders without sides,87,g,180,mg,3300,g,42,g,58,g,21,g,1.5,g,4,g,20,g
+331,ocharleys,classic combo bbq ribs and chicken tenders without sides,37,g,160,mg,3410,g,84,g,55,g,10,g,0,g,2,g,51,g
+332,ocharleys,classic combo 6 oz steak and half portion baby back ribs without sides,49,g,220,mg,3750,g,48,g,59,g,18,g,0,g,2,g,38,g
+333,ocharleys,bbq ribs platter,249,g,965,mg,18300,g,381,g,269,g,89,g,2,g,11,g,304,g
+334,ocharleys,carolina baby back ribs without sides,62,g,240,mg,4150,g,96,g,67,g,22,g,0.5,g,0,g,86,g
+335,ocharleys,baby back ribs without sides,62,g,240,mg,4580,g,95,g,67,g,22,g,0.5,g,3,g,76,g
+336,ocharleys,barrel house pork chops without sides,45,g,210,mg,1990,g,62,g,68,g,16,g,0,g,7,g,34,g
+337,ocharleys,classic combo chipotle ribs and chicken tenders without sides,37,g,160,mg,2410,g,108,g,63,g,10,g,0,g,14,g,58,g
+338,ocharleys,new oreleans cajun chicken pasta,61,g,150,mg,3080,g,99,g,53,g,21,g,4,g,8,g,8,g
+339,ocharleys,garlic shrimp pasta,43,g,135,mg,2350,g,104,g,37,g,19,g,1.5,g,5,g,10,g
+340,ocharleys,honey mustard dressing,34,g,20,mg,300,g,10,g,0,g,5,g,0,g,0,g,8,g
+341,ocharleys,balsamic vinaigrette,26,g,0,mg,90,g,12,g,0,g,4,g,0,g,0,g,12,g
+342,ocharleys,ranch dressing,22,g,20,mg,380,g,4,g,2,g,4,g,0,g,0,g,2,g
+343,ocharleys,light ranch dressing,5,g,10,mg,520,g,4,g,2,g,1,g,0,g,0,g,4,g
+344,ocharleys,bleu cheese dressing,32,g,20,mg,520,g,2,g,2,g,4,g,0,g,0,g,2,g
+345,ocharleys,thousand island,22,g,20,mg,440,g,6,g,2,g,4,g,0,g,0,g,6,g
+346,ocharleys,california chicken salad full,67,g,100,mg,1110,g,71,g,38,g,13,g,0,g,7,g,56,g
+347,ocharleys,southern fried chicken salad full,110,g,440,mg,2210,g,48,g,82,g,26,g,0,g,5,g,18,g
+348,ocharleys,california chicken salad half,43,g,90,mg,850,g,40,g,33,g,8,g,0,g,4,g,31,g
+349,ocharleys,southern pecan chicken tender salad full,106,g,110,mg,1630,g,95,g,50,g,18,g,0,g,10,g,53,g
+350,ocharleys,side house salad without dressing,7,g,15,mg,250,g,19,g,7,g,2.5,g,0,g,3,g,4,g
+351,ocharleys,chicken caesar salad,40,g,110,mg,1200,g,17,g,38,g,8,g,0,g,3,g,2,g
+352,ocharleys,southern fried chicken salad half,49,g,375,mg,1410,g,31,g,72,g,14,g,0,g,4,g,5,g
+353,ocharleys,classic cobb salad,92,g,500,mg,2030,g,36,g,50,g,20,g,0.5,g,11,g,11,g
+354,ocharleys,southern pecan chicken tender salad half,82,g,100,mg,1390,g,65,g,45,g,13,g,0,g,8,g,29,g
+355,ocharleys,sonoma chicken salad,46,g,120,mg,2550,g,78,g,43,g,16,g,0,g,15,g,34,g
+356,ocharleys,california chicken salad platter,268,g,400,mg,4450,g,291,g,152,g,52,g,0,g,32,g,228,g
+357,ocharleys,steakhouses wedge salad with chicken,60,g,130,mg,1670,g,17,g,39,g,11,g,0.5,g,4,g,10,g
+358,ocharleys,classic french dip sandwich without side,44,g,160,mg,3820,g,79,g,66,g,19,g,3.5,g,3,g,1,g
+359,ocharleys,chicken sandwich with carolina bbq without sides,22,g,95,mg,2570,g,74,g,41,g,5,g,1,g,2,g,33,g
+360,ocharleys,better cheddar bacon burger without side,68,g,160,mg,2490,g,49,g,46,g,26,g,1.5,g,3,g,9,g
+361,ocharleys,club sandwich half without soup or sides,55,g,75,mg,1540,g,49,g,23,g,11,g,1,g,3,g,9,g
+362,ocharleys,classic cheeseburger without sides,61,g,145,mg,2250,g,47,g,42,g,23,g,1.5,g,2,g,9,g
+363,ocharleys,bltc sandwich with fried egg without sides,59,g,295,mg,1700,g,56,g,37,g,18,g,2,g,5,g,5,g
+364,ocharleys,fresh blackened grilled atlantic salmon 6 oz without sides,21,g,95,mg,610,g,3,g,34,g,4,g,0,g,1,g,1,g
+365,ocharleys,cedar planked salmon without side,28,g,145,mg,410,g,2,g,50,g,6,g,0,g,0,g,1,g
+366,ocharleys,fresh blackened grilled atlantic salmon 9 oz without sides,31,g,145,mg,670,g,3,g,51,g,6,g,0,g,1,g,1,g
+367,ocharleys,hand battered fish n chips,92,g,170,mg,2080,g,85,g,57,g,15,g,0,g,6,g,10,g
+368,ocharleys,hand breaded catfish dinner with fries and coleslaw,124,g,150,mg,2660,g,103,g,43,g,24,g,0,g,7,g,22,g
+369,ocharleys,buttermilk fried shrimp dinner without sides,49,g,185,mg,1680,g,56,g,25,g,8,g,0,g,4,g,10,g
+370,ocharleys,fresh bourbon atlantic grilled salmon 9 oz without sides,31,g,145,mg,760,g,29,g,51,g,6,g,0,g,1,g,18,g
+371,ocharleys,grilled salmon bowl,70,g,130,mg,2200,g,44,g,49,g,17,g,0,g,10,g,6,g
+372,ocharleys,fresh chipotle grilled atlantic salmon 9 oz without sides,31,g,145,mg,690,g,32,g,54,g,6,g,0,g,5,g,18,g
+373,ocharleys,fresh chipotle grilled atlantic salmon 6 oz without sides,21,g,95,mg,630,g,32,g,37,g,4,g,0,g,5,g,18,g
+374,ocharleys,fresh bourbon atlantic grilled salmon 6 oz without sides,21,g,95,mg,710,g,29,g,34,g,4,g,0,g,1,g,18,g
+375,ocharleys,cornmeal breaded whitefish with fries and coleslaw,101,g,95,mg,2850,g,74,g,40,g,19,g,0,g,6,g,14,g
+376,ocharleys,low country shrimp with rice,31,g,95,mg,1000,g,39,g,20,g,8,g,0.5,g,2,g,8,g
+377,ocharleys,mashed sweet potatoes,3.5,g,5,mg,27,g,35,g,3,g,1.5,g,0,g,4,g,18,g
+378,ocharleys,french fries,24,g,0,mg,310,g,40,g,4,g,4,g,0,g,4,g,0,g
+379,ocharleys,broccoli,8,g,0,mg,450,g,6,g,3,g,2.5,g,0,g,3,g,0,g
+380,ocharleys,seasoned rice pilaf,4,g,0,mg,620,g,27,g,3,g,0.5,g,0.5,g,1,g,3,g
+381,ocharleys,sweet potato fries,19,g,0,mg,420,g,27,g,3,g,3,g,0,g,5,g,11,g
+382,ocharleys,grilled asparagus,5,g,0,mg,290,g,3,g,2,g,2,g,0,g,2,g,1,g
+383,ocharleys,mac and cheese,22,g,35,mg,200,g,47,g,15,g,9,g,3.5,g,2,g,3,g
+384,ocharleys,bacon smashed potatoes,16,g,15,mg,860,g,44,g,8,g,3.5,g,0,g,4,g,4,g
+385,ocharleys,loaded baked potato,27,g,50,mg,1080,g,53,g,17,g,13,g,0,g,6,g,7,g
+386,ocharleys,coleslaw,15,g,25,mg,220,g,12,g,2,g,4,g,0,g,1,g,8,g
+387,ocharleys,baked potato,1,g,0,mg,730,g,50,g,8,g,0,g,0,g,6,g,6,g
+388,ocharleys,classic bleu cheese wedge salad,57,g,60,mg,1370,g,10,g,13,g,13,g,0,g,2,g,7,g
+389,ocharleys,loaded potato soup,27,g,25,mg,3620,g,44,g,12,g,9,g,8,g,1,g,5,g
+390,ocharleys,chicken tortilla soup,7,g,15,mg,790,g,20,g,13,g,0,g,0,g,2,g,0,g
+391,ocharleys,cream of tomato basil soup,58,g,195,mg,1190,g,18,g,6,g,37,g,2,g,3,g,12,g
+392,ocharleys,chicken harvest soup,13,g,0,mg,1370,g,20,g,2,g,3,g,5,g,1,g,6,g
+393,ocharleys,avocado salad add on,7,g,0,mg,0,g,4,g,1,g,1,g,0,g,3,g,0,g
+394,ocharleys,bacon and bourbon glazed filet no side,42,g,185,mg,2030,g,28,g,42,g,17,g,0,g,0,g,18,g
+395,ocharleys,bacon smashed potatoes,16,g,15,mg,860,g,44,g,8,g,3.5,g,0,g,4,g,4,g
+396,ocharleys,baked potato,1,g,0,mg,730,g,50,g,8,g,0,g,0,g,6,g,6,g
+397,ocharleys,balsamic vinaigrette 2 oz,26,g,0,mg,90,g,12,g,0,g,4,g,0,g,0,g,12,g
+398,ocharleys,balsamic vinaigrette 3 oz,39,g,0,mg,135,g,18,g,0,g,6,g,0,g,0,g,18,g
+399,ocharleys,bananas foster cheesecake,58,g,190,mg,810,g,110,g,12,g,28,g,1.5,g,3,g,83,g
+400,ocharleys,bananas foster french toast with bacon,48,g,455,mg,1560,g,137,g,38,g,15,g,0,g,5,g,70,g
+401,ocharleys,bananas foster french toast with ham,43,g,495,mg,2580,g,139,g,58,g,13,g,0,g,5,g,72,g
+402,ocharleys,belgian waffle comb with ham steak,83,g,605,mg,3330,g,128,g,45,g,36,g,3,g,2,g,42,g
+403,ocharleys,belgian waffle combo with bacon,88,g,565,mg,2310,g,126,g,31,g,38,g,3,g,2,g,40,g
+404,ocharleys,better cheddar bacon burger no side,68,g,160,mg,2490,g,49,g,46,g,26,g,1.5,g,3,g,9,g
+405,ocharleys,bleu cheese dressing 2 oz,32,g,20,mg,520,g,2,g,2,g,4,g,0,g,0,g,2,g
+406,ocharleys,bleu cheese dressing 3 oz,48,g,30,mg,780,g,3,g,3,g,6,g,0,g,0,g,3,g
+407,ocharleys,broccoli,8,g,0,mg,450,g,6,g,3,g,2.5,g,0,g,3,g,0,g
+408,ocharleys,brownie lovers brownie,77,g,260,mg,1420,g,227,g,24,g,45,g,0,g,9,g,154,g
+409,ocharleys,buttermilk fried shrimp dinner no side,49,g,185,mg,1680,g,56,g,25,g,8,g,0,g,4,g,10,g
+410,ocharleys,california chicken salad full,67,g,100,mg,1110,g,71,g,38,g,13,g,0,g,7,g,56,g
+411,ocharleys,california chicken salad half,43,g,90,mg,850,g,40,g,33,g,8,g,0,g,4,g,31,g
+412,ocharleys,california chicken salad platter,268,g,400,mg,4450,g,291,g,152,g,52,g,0,g,32,g,228,g
+413,ocharleys,cedar planked salmon no side,28,g,145,mg,410,g,2,g,50,g,6,g,0,g,0,g,1,g
+414,ocharleys,chicken breast burger substitute,5,g,80,mg,540,g,3,g,27,g,1,g,0,g,0,g,1,g
+415,ocharleys,chicken harvest soup,13,g,0,mg,1370,g,20,g,2,g,3,g,5,g,1,g,6,g
+416,ocharleys,chicken parmesan,64,g,145,mg,3200,g,122,g,66,g,16,g,0,g,7,g,10,g
+417,ocharleys,chicken pot pie,89,g,175,mg,3310,g,90,g,31,g,45,g,1.5,g,6,g,10,g
+418,ocharleys,chicken sandwich carolina bbq no side,22,g,95,mg,2570,g,74,g,41,g,5,g,1,g,2,g,33,g
+419,ocharleys,chicken tenders and fries,85,g,180,mg,1660,g,74,g,68,g,14,g,0,g,6,g,6,g
+420,ocharleys,chicken tortilla soup,7,g,15,mg,790,g,20,g,13,g,0,g,0,g,2,g,0,g
+421,ocharleys,chips and spicy white queso,38,g,80,mg,1590,g,31,g,16,g,17,g,0,g,1,g,8,g
+422,ocharleys,chopped steak,95,g,240,mg,2020,g,49,g,55,g,37,g,0.5,g,4,g,8,g
+423,ocharleys,cinnamon french toast with bacon,46,g,455,mg,1650,g,136,g,35,g,17,g,0,g,2,g,68,g
+424,ocharleys,cinnamon french toast with ham,42,g,495,mg,2670,g,138,g,49,g,15,g,0,g,2,g,70,g
+425,ocharleys,classic cheeseburger no side,61,g,145,mg,2250,g,47,g,42,g,23,g,1.5,g,2,g,9,g
+426,ocharleys,classic cobb salad,92,g,500,mg,2030,g,36,g,50,g,20,g,0.5,g,11,g,11,g
+427,ocharleys,classic eggs benedict,64,g,590,mg,2300,g,72,g,38,g,20,g,2.5,g,5,g,12,g
+428,ocharleys,classic french dip no side,44,g,160,mg,3820,g,79,g,66,g,19,g,3.5,g,3,g,1,g
+429,ocharleys,club sandwich no side,85,g,135,mg,2850,g,91,g,46,g,19,g,2,g,6,g,12,g
+430,ocharleys,club sandwich half no soup or salad,55,g,75,mg,1540,g,49,g,23,g,11,g,1,g,3,g,9,g
+431,ocharleys,coleslaw,15,g,25,mg,220,g,12,g,2,g,4,g,0,g,1,g,8,g
+432,ocharleys,cornmeal breaded catfish with fries and coleslaw,101,g,95,mg,2850,g,74,g,40,g,19,g,0,g,6,g,14,g
+433,ocharleys,country apple pie slice,35,g,40,mg,450,g,77,g,3,g,17,g,0,g,3,g,46,g
+434,ocharleys,country apple pie whole,150,g,5,mg,2640,g,437,g,18,g,66,g,0,g,18,g,251,g
+435,ocharleys,country sausage scramble with wheat toast,125,g,785,mg,4150,g,81,g,79,g,34,g,3.5,g,8,g,9,g
+436,ocharleys,country sausage scramble with white toast,125,g,785,mg,4190,g,83,g,76,g,34,g,3.5,g,7,g,11,g
+437,ocharleys,cream of tomato basil soup,58,g,195,mg,1190,g,18,g,6,g,37,g,2,g,3,g,12,g
+438,ocharleys,crispy chicken tacos no side,46,g,105,mg,2320,g,82,g,47,g,11,g,0,g,6,g,14,g
+439,ocharleys,crispy pickle chips,47,g,0,mg,2430,g,56,g,8,g,8,g,0,g,3,g,7,g
+440,ocharleys,deconstructed breakfast taco,85,g,755,mg,4240,g,101,g,74,g,27,g,2,g,9,g,11,g
+441,ocharleys,double crust cherry pie slice,35,g,40,mg,450,g,69,g,4,g,16,g,0,g,2,g,34,g
+442,ocharleys,double crust cherry pie whole,149,g,5,mg,2610,g,398,g,23,g,60,g,0,g,15,g,190,g
+443,ocharleys,filet mignon with garlic butter no side,47,g,170,mg,1530,g,1,g,38,g,17,g,0,g,0,g,0,g
+444,ocharleys,fish tacos no side,54,g,75,mg,3170,g,102,g,44,g,42,g,0,g,7,g,16,g
+445,ocharleys,french fries,24,g,0,mg,310,g,40,g,4,g,4,g,0,g,4,g,0,g
+446,ocharleys,french silk pie slice,43,g,80,mg,310,g,49,g,5,g,22,g,0.5,g,1,g,33,g
+447,ocharleys,french silk pie whole,318,g,695,mg,1920,g,314,g,30,g,165,g,3,g,6,g,224,g
+448,ocharleys,fresh atlantic grilled salmon blackened 6 oz no side,21,g,95,mg,610,g,3,g,34,g,4,g,0,g,1,g,1,g
+449,ocharleys,fresh atlantic grilled salmon blackened 9 oz no side,31,g,145,mg,670,g,3,g,51,g,6,g,0,g,1,g,1,g
+450,ocharleys,fresh atlantic grilled salmon bourbon 6 oz no side,21,g,95,mg,710,g,29,g,34,g,4,g,0,g,1,g,18,g
+451,ocharleys,fresh atlantic grilled salmon bourbon 9 oz no side,31,g,145,mg,760,g,29,g,51,g,6,g,0,g,1,g,18,g
+452,ocharleys,fresh atlantic grilled salmon chipotle 6 oz no side,21,g,95,mg,630,g,32,g,37,g,4,g,0,g,5,g,18,g
+453,ocharleys,fresh atlantic grilled salmon chipotle 9 oz no side,31,g,145,mg,690,g,32,g,54,g,6,g,0,g,5,g,18,g
+454,ocharleys,frozen strawberry lemonade pie slice,22,g,60,mg,200,g,112,g,6,g,11,g,0,g,2,g,95,g
+455,ocharleys,frozen strawberry lemonade pie whole,134,g,345,mg,1210,g,671,g,37,g,64,g,0,g,9,g,569,g
+456,ocharleys,garlic shrimp pasta,43,g,135,mg,2350,g,104,g,37,g,19,g,1.5,g,5,g,10,g
+457,ocharleys,goo goo crunch,93,g,235,mg,720,g,155,g,17,g,47,g,0.5,g,6,g,120,g
+458,ocharleys,grilled chicken bowl,41,g,100,mg,2850,g,46,g,37,g,11,g,0,g,10,g,7,g
+459,ocharleys,grilled salmon bowl,70,g,130,mg,2200,g,44,g,49,g,17,g,0,g,10,g,6,g
+460,ocharleys,grilled top sirloin 6 oz no side,18,g,100,mg,850,g,0,g,25,g,7,g,0,g,0,g,0,g
+461,ocharleys,grilled top sirloin 9 oz no side,27,g,145,mg,960,g,0,g,38,g,11,g,0,g,0,g,0,g
+462,ocharleys,hand battered fish n chips,92,g,170,mg,2080,g,85,g,57,g,15,g,0,g,6,g,10,g
+463,ocharleys,hand breaded catfish dinner with fries and coleslaw,124,g,150,mg,2660,g,103,g,43,g,24,g,0,g,7,g,22,g
+464,ocharleys,honey mustard dressing 2 oz,34,g,20,mg,300,g,10,g,0,g,5,g,0,g,0,g,8,g
+465,ocharleys,honey mustard dressing 3 oz,51,g,30,mg,450,g,15,g,0,g,7,g,0,g,0,g,12,g
+466,ocharleys,honey drizzled southern fried chicken,25,g,80,mg,980,g,18,g,30,g,5,g,0,g,1,g,1,g
+467,ocharleys,house salad side,7,g,15,mg,250,g,19,g,7,g,2.5,g,0,g,3,g,4,g
+468,ocharleys,kids applesauce,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,1,g,11,g
+469,ocharleys,kids bbq ribs no side,16,g,60,mg,1750,g,41,g,17,g,6,g,0,g,1,g,31,g
+470,ocharleys,kids broccoli,8,g,0,mg,450,g,6,g,3,g,2.5,g,0,g,3,g,0,g
+471,ocharleys,kids carrot sticks with ranch dressing,17,g,15,mg,350,g,11,g,2,g,3,g,0,g,2,g,6,g
+472,ocharleys,kids cheese pizza,13,g,30,mg,1300,g,62,g,22,g,6,g,0,g,4,g,6,g
+473,ocharleys,kids cheeseburger no side,30,g,75,mg,890,g,23,g,19,g,11,g,1,g,1,g,7,g
+474,ocharleys,kids chicken tenders no side,16,g,75,mg,510,g,12,g,29,g,3,g,0,g,1,g,0,g
+475,ocharleys,kids grilled cheese no side,26,g,40,mg,860,g,52,g,20,g,9,g,1.5,g,1,g,4,g
+476,ocharleys,kids grilled chicken breast no side,5,g,80,mg,540,g,3,g,27,g,1,g,0,g,0,g,1,g
+477,ocharleys,kids grilled chicken salad no side,9,g,65,mg,530,g,19,g,23,g,3,g,0,g,3,g,4,g
+478,ocharleys,kids hamburger no cheese no side,24,g,55,mg,770,g,23,g,14,g,7,g,1,g,1,g,7,g
+479,ocharleys,kids jr brunch with wheat toast,43,g,160,mg,1170,g,73,g,15,g,8,g,3,g,4,g,22,g
+480,ocharleys,kids jr brunch with white toast,43,g,160,mg,1210,g,75,g,12,g,8,g,3,g,3,g,24,g
+481,ocharleys,kids jr macaroni and cheese,22,g,35,mg,2000,g,47,g,15,g,9,g,3.5,g,2,g,3,g
+482,ocharleys,kids jr shrimp no side,29,g,105,mg,1150,g,23,g,15,g,7,g,0,g,1,g,4,g
+483,ocharleys,kids mandarin orange slices,0,g,0,mg,10,g,15,g,1,g,0,g,0,g,1,g,14,g
+484,ocharleys,kids mini corn dogs no sides,37,g,40,mg,840,g,27,g,11,g,10,g,0,g,2,g,8,g
+485,ocharleys,kids smashed potatoes,15,g,0,mg,550,g,24,g,3,g,2.5,g,0,g,2,g,0,g
+486,ocharleys,kids steak tips with french fries,40,g,65,mg,660,g,24,g,19,g,9,g,0,g,2,g,0,g
+487,ocharleys,light ranch dressing 2 oz,5,g,10,mg,520,g,4,g,2,g,1,g,0,g,0,g,4,g
+488,ocharleys,light ranch dressing 3 oz,7,g,15,mg,780,g,6,g,3,g,1.5,g,0,g,0,g,6,g
+489,ocharleys,loaded baked potato,27,g,50,mg,1080,g,53,g,17,g,13,g,0,g,6,g,7,g
+490,ocharleys,loaded potato skins,109,g,235,mg,2180,g,44,g,62,g,41,g,0,g,6,g,4,g
+491,ocharleys,loaded potato soup,27,g,25,mg,3620,g,44,g,12,g,9,g,8,g,1,g,5,g
+492,ocharleys,louisiana sirloin no side,43,g,200,mg,1710,g,3,g,50,g,16,g,1.5,g,1,g,0,g
+493,ocharleys,low country shrimp with rice,31,g,95,mg,1000,g,39,g,20,g,8,g,0.5,g,2,g,8,g
+494,ocharleys,mac and cheese,22,g,35,mg,200,g,47,g,15,g,9,g,3.5,g,2,g,3,g
+495,ocharleys,mashed sweet potatoes,3.5,g,5,mg,270,g,35,g,3,g,1.5,g,0,g,4,g,18,g
+496,ocharleys,nashville fried chicken 5 oz breast,48,g,90,mg,1830,g,24,g,32,g,10,g,0.5,g,2,g,5,g
+497,ocharleys,nashville hot chicken sandwich with french fries,101,g,115,mg,3020,g,119,g,47,g,21,g,2,g,8,g,19,g
+498,ocharleys,nashville hot chicken tacos no side,73,g,145,mg,3010,g,81,g,50,g,18,g,0.5,g,5,g,17,g
+499,ocharleys,nashville hot deviled eggs,61,g,525,mg,2020,g,24,g,18,g,12,g,0,g,2,g,20,g
+500,ocharleys,new orleans cajun chicken pasta,61,g,150,mg,3080,g,99,g,53,g,21,g,4,g,8,g,8,g
+501,ocharleys,ocharleys baby back ribs no side,62,g,240,mg,4580,g,95,g,67,g,22,g,0.5,g,3,g,76,g
+502,ocharleys,ocharleys baby back ribs carolina gold no side,62,g,240,mg,4150,g,96,g,67,g,22,g,0.5,g,3,g,86,g
+503,ocharleys,ocharleys baby back ribs nashville hot no side,110,g,260,mg,4750,g,63,g,70,g,33,g,1.5,g,5,g,52,g
+504,ocharleys,ocharleys bbq ribs platter,249,g,965,mg,18300,g,381,g,269,g,89,g,2,g,11,g,304,g
+505,ocharleys,ocharleys chicken tender appetizer chipotle,40,g,185,mg,2230,g,107,g,80,g,8,g,0,g,13,g,47,g
+506,ocharleys,ocharleys chicken tender dinner no side,65,g,200,mg,1490,g,37,g,72,g,11,g,0,g,2,g,6,g
+507,ocharleys,ocharleys chicken tender dinner buffalo no side,64,g,200,mg,3250,g,31,g,74,g,11,g,0,g,2,g,1,g
+508,ocharleys,ocharleys chicken tender dinner chipotle no side,40,g,185,mg,1860,g,77,g,77,g,8,g,0,g,9,g,29,g
+509,ocharleys,ocharleys chicken tenders appetizer buffalo,64,g,200,mg,3310,g,34,g,74,g,11,g,0,g,3,g,2,g
+510,ocharleys,ocharleys famous chicken tenders appetizer nashville hot,87,g,205,mg,2710,g,44,g,67,g,19,g,0,g,0,g,14,g
+511,ocharleys,ocharleys famous chicken tenders appetizer original,65,g,200,mg,1490,g,37,g,72,g,11,g,0,g,2,g,6,g
+512,ocharleys,ocharleys famous chicken tenders dinner nashville hot no side,87,g,205,mg,2710,g,44,g,67,g,19,g,0,g,0,g,14,g
+513,ocharleys,ocharleys fried green tomatoes,23,g,0,mg,2170,g,92,g,8,g,4,g,0,g,3,g,34,g
+514,ocharleys,ooey gooey caramel pie slice,39,g,115,mg,230,g,76,g,7,g,19,g,2.5,g,1,g,66,g
+515,ocharleys,ooey gooey caramel pie whole,217,g,640,mg,1780,g,588,g,58,g,109,g,19,g,10,g,513,g
+516,ocharleys,overloaded brunch platter,92,g,515,mg,3210,g,112,g,55,g,30,g,2.5,g,5,g,32,g
+517,ocharleys,peach chutney chicken no side,8,g,85,mg,850,g,69,g,31,g,2.5,g,0,g,6,g,46,g
+518,ocharleys,ranch dressing 2 oz,22,g,20,mg,380,g,4,g,2,g,4,g,0,g,0,g,2,g
+519,ocharleys,ranch dressing 3 oz,33,g,30,mg,570,g,6,g,3,g,6,g,0,g,0,g,3,g
+520,ocharleys,rib eye steak no side,71,g,175,mg,1350,g,1,g,46,g,26,g,2,g,0,g,0,g
+521,ocharleys,ribeye steak 10 oz no side,56,g,180,mg,1300,g,1,g,53,g,23,g,3.5,g,0,g,0,g
+522,ocharleys,ribs and chicken tenders bbq no sides,37,g,160,mg,3410,g,84,g,55,g,10,g,0,g,2,g,51,g
+523,ocharleys,ribs and chicken tenders carolina no sides,37,g,160,mg,2770,g,80,g,55,g,10,g,0,g,2,g,59,g
+524,ocharleys,ribs and chicken tenders chipotle no sides,37,g,160,mg,2410,g,108,g,63,g,10,g,0,g,14,g,59,g
+525,ocharleys,ribs and chicken tenders nash hot no sides,87,g,180,mg,3300,g,42,g,58,g,21,g,1.5,g,4,g,20,g
+526,ocharleys,santa fe tilpaia with rice pilaf,14,g,90,mg,1190,g,33,g,46,g,3,g,1.5,g,2,g,6,g
+527,ocharleys,savannah scramble with wheat toast,97,g,775,mg,3560,g,92,g,65,g,31,g,3.5,g,11,g,13,g
+528,ocharleys,savannah scramble with white toast,97,g,775,mg,3600,g,94,g,62,g,31,g,3.5,g,10,g,15,g
+529,ocharleys,seafood platter,121,g,265,mg,2970,g,141,g,71,g,22,g,0,g,9,g,27,g
+530,ocharleys,seasoned rice pilaf,4,g,0,mg,620,g,27,g,3,g,0.5,g,0.5,g,1,g,3,g
+531,ocharleys,side of applewood smoked bacon,8,g,25,mg,360,g,0,g,6,g,3,g,0,g,0,g,0,g
+532,ocharleys,side of eggs to order,25,g,415,mg,270,g,1,g,14,g,6,g,2,g,0,g,0,g
+533,ocharleys,side of ham steak,3,g,60,mg,1380,g,2,g,20,g,1,g,0,g,0,g,2,g
+534,ocharleys,side of parmesan brunch potatoes,26,g,5,mg,950,g,41,g,6,g,5,g,0,g,4,g,0,g
+535,ocharleys,slow roasted prime rib 12 oz no side,95,g,245,mg,980,g,3,g,61,g,33,g,0,g,0,g,1,g
+536,ocharleys,slow roasted prime rib 16 oz no side,120,g,325,mg,2120,g,4,g,82,g,43,g,0,g,0,g,1,g
+537,ocharleys,slow roasted prime rib 8 oz no side,70,g,170,mg,1400,g,3,g,41,g,23,g,0,g,0,g,1,g
+538,ocharleys,sonoma chicken salad,46,g,120,mg,2550,g,78,g,43,g,16,g,0,g,15,g,34,g
+539,ocharleys,southern fried chicken salad,110,g,440,mg,2210,g,48,g,82,g,26,g,0,g,5,g,18,g
+540,ocharleys,southern fried chicken salad half,49,g,375,mg,1410,g,31,g,72,g,14,g,0,g,4,g,5,g
+541,ocharleys,southern pecan chicken tender salad full,106,g,110,mg,1630,g,95,g,50,g,18,g,0,g,10,g,53,g
+542,ocharleys,southern pecan chicken tender salad half,82,g,100,mg,1390,g,65,g,45,g,13,g,0,g,8,g,29,g
+543,ocharleys,southern pecan pie slice,45,g,165,mg,450,g,78,g,7,g,16,g,0,g,3,g,34,g
+544,ocharleys,southern pecan pie whole,210,g,750,mg,2640,g,444,g,42,g,60,g,0,g,18,g,180,g
+545,ocharleys,southern pecan waffle combo with bacon,109,g,565,mg,2310,g,130,g,34,g,40,g,3,g,4,g,41,g
+546,ocharleys,southern pecan waffle combo with ham steak,104,g,605,mg,3330,g,132,g,48,g,38,g,3,g,4,g,43,g
+547,ocharleys,spicy jack cheese wedges,48,g,120,mg,1960,g,44,g,24,g,33,g,0,g,0,g,1,g
+548,ocharleys,spinach and artichoke dip,34,g,45,mg,1250,g,77,g,18,g,12,g,0,g,9,g,3,g
+549,ocharleys,steak and chicken tenders 6 oz no sides,67,g,225,mg,1830,g,26,g,68,g,15,g,0,g,1,g,6,g
+550,ocharleys,steak and grilled atlantic salmon 6 oz no sides,33,g,180,mg,1740,g,5,g,73,g,8,g,1,g,1,g,1,g
+551,ocharleys,steak 6 oz and half portion baby back ribs no sides,49,g,220,mg,3750,g,48,g,59,g,18,g,0,g,2,g,38,g
+552,ocharleys,steakhouse wedge salad with chicken,60,g,130,mg,1670,g,17,g,39,g,11,g,0.5,g,4,g,10,g
+553,ocharleys,steakhouse wedge salad with salmon,73,g,145,mg,1370,g,15,g,46,g,13,g,0.5,g,4,g,9,g
+554,ocharleys,steakhouse wedge salad with steak,78,g,175,mg,2200,g,15,g,44,g,19,g,0.5,g,4,g,9,g
+555,ocharleys,strawberries and cream french toast with bacon,41,g,475,mg,1420,g,108,g,37,g,17,g,0,g,3,g,56,g
+556,ocharleys,strawberries and cream french toastwith ham,37,g,515,mg,2440,g,110,g,51,g,15,g,0,g,3,g,58,g
+557,ocharleys,strawberry cheesecake,46,g,190,mg,530,g,71,g,9,g,26,g,1.5,g,2,g,59,g
+558,ocharleys,strawberry waffle combo with bacon,88,g,565,mg,2310,g,130,g,31,g,38,g,3,g,3,g,43,g
+559,ocharleys,strawberry waffle combo with ham steak,83,g,605,mg,3330,g,132,g,45,g,36,g,3,g,3,g,45,g
+560,ocharleys,sweet potato fries,19,g,0,mg,420,g,27,g,3,g,3,g,0,g,5,g,11,g
+561,ocharleys,thousand island dressing 2 oz,22,g,20,mg,440,g,6,g,2,g,4,g,0,g,0,g,6,g
+562,ocharleys,thousand island dressing 3 oz,33,g,30,mg,660,g,9,g,3,g,6,g,0,g,0,g,9,g
+563,ocharleys,top shelf combination appetizer,132,g,310,mg,3300,g,74,g,88,g,48,g,0,g,4,g,9,g
+564,ocharleys,ultimate omelet with wheat bread,76,g,715,mg,3050,g,95,g,62,g,21,g,3,g,7,g,30,g
+565,ocharleys,ultimate omelet with white toast,76,g,715,mg,3110,g,98,g,59,g,21,g,3,g,6,g,32,g
+566,ocharleys,unsliceably soft yeast roll,2,g,0,mg,105,g,25,g,4,g,0,g,0,g,1,g,8,g
+567,ocharleys,veggie omelet,65,g,675,mg,1750,g,47,g,44,g,19,g,2,g,6,g,8,g
+568,ocharleys,wheat toast,9,g,0,mg,350,g,27,g,5,g,1.5,g,1,g,2,g,2,g
+569,ocharleys,whiskey chicken pasta,63,g,190,mg,2570,g,108,g,53,g,25,g,0,g,8,g,13,g
+570,ocharleys,white toast,9,g,0,mg,390,g,29,g,2,g,1.5,g,1.5,g,1,g,4,g
+571,oberweis dairy,chocolate shake made with premium ice cream regular,82,g,310,mg,300,g,126,g,16,g,52,g,3,g,2,g,110,g
+572,oberweis dairy,chocolate shake made with soft serve ice cream,28,g,95,mg,370,g,120,g,16,g,18,g,1,g,2,g,90,g
+573,oberweis dairy,vanilla shake made with premium ice cream regular,79,g,300,mg,250,g,101,g,14,g,50,g,3,g,0,g,90,g
+574,oberweis dairy,strawberry shake made with premium ice cream regular,79,g,300,mg,220,g,101,g,14,g,50,g,3,g,1,g,88,g
+575,oberweis dairy,peanut butter shake made with premium ice cream large,131,g,320,mg,710,g,129,g,38,g,60,g,3,g,6,g,109,g
+576,oberweis dairy,chocolate cake shake made with premium ice cream large,109,g,405,mg,790,g,218,g,26,g,64,g,4,g,5,g,183,g
+577,oberweis dairy,strawberry smoothie,0,g,0,mg,10,g,67,g,0,g,0,g,0,g,3,g,60,g
+578,oberweis dairy,mango smoothie,0,g,0,mg,10,g,110,g,0,g,0,g,0,g,1,g,107,g
+579,oberweis dairy,strawberry banana smoothie,0,g,0,mg,10,g,93,g,1,g,0,g,0,g,6,g,75,g
+580,oberweis dairy,banana shake made with premium ice cream regular,74,g,280,mg,210,g,105,g,14,g,47,g,3,g,3,g,84,g
+581,oberweis dairy,pineapple shake made with premium ice cream,71,g,240,mg,275,g,128,g,13,g,42,g,2.5,g,0,g,113,g
+582,oberweis dairy,cookies extreme shake made with premium ice cream,71,g,230,mg,400,g,171,g,13,g,40,g,3,g,1,g,131,g
+583,oberweis dairy,strawberry shortcake shake made with premium ice cream large,110,g,430,mg,660,g,179,g,24,g,64,g,4,g,2,g,149,g
+584,oberweis dairy,mocha frozen latte regular,37,g,130,mg,320,g,146,g,12,g,24,g,2,g,3,g,124,g
+585,oberweis dairy,strawberries and cream smoothie,6,g,25,mg,125,g,98,g,7,g,4,g,0,g,3,g,88,g
+586,oberweis dairy,root beer float made with premium ice cream,31,g,115,mg,120,g,99,g,6,g,19,g,1,g,0,g,80,g
+587,oberweis dairy,caramel shake made with premium ice cream regular,84,g,315,mg,390,g,128,g,16,g,53,g,3,g,0,g,102,g
+588,oberweis dairy,butterscotch shake made with premium ice cream,71,g,240,mg,445,g,156,g,13,g,42,g,2.5,g,0,g,131,g
+589,oberweis dairy,strawberry raspberry smoothie,1,g,0,mg,10,g,72,g,1,g,0,g,0,g,8,g,60,g
+590,oberweis dairy,chocolate cake shake made with premium ice cream regular,84,g,310,mg,530,g,159,g,19,g,50,g,3,g,3,g,134,g
+591,oberweis dairy,caramel shake made with premium ice cream large,115,g,430,mg,610,g,191,g,24,g,72,g,4,g,0,g,151,g
+592,oberweis dairy,banana bread shake made with premium ice cream,76,g,250,mg,250,g,156,g,17,g,43,g,3,g,4,g,119,g
+593,oberweis dairy,peanut butter shake made with premium ice cream kids,30,g,50,mg,310,g,62,g,17,g,24,g,0,g,2,g,52,g
+594,oberweis dairy,caramel creme creamy latte,34,g,125,mg,225,g,63,g,10,g,20,g,1,g,0,g,55,g
+595,oberweis dairy,cinnamon creamy latte,39,g,140,mg,270,g,70,g,11,g,23,g,0.5,g,0,g,57,g
+596,oberweis dairy,brownie shake made with premium ice cream,79,g,240,mg,425,g,131,g,17,g,46,g,2.5,g,2,g,107,g
+597,oberweis dairy,banana mango smoothie,1,g,0,mg,0,g,104,g,2,g,0,g,0,g,6,g,87,g
+598,oberweis dairy,banana shake made with premium ice cream kids,31,g,110,mg,200,g,77,g,12,g,33,g,1,g,2,g,62,g
+599,oberweis dairy,berry creamy smoothie,10,g,30,mg,80,g,83,g,6,g,6,g,0,g,4,g,76,g
+600,oberweis dairy,mango rita smoothie,0,g,0,mg,45,g,105,g,0,g,0,g,0,g,0,g,92,g
+601,oberweis dairy,caramel frozen latte regular,38,g,140,mg,430,g,127,g,12,g,24,g,2,g,0,g,95,g
+602,oberweis dairy,ultimate hot chocolate cinnamon,32,g,115,mg,250,g,68,g,10,g,20,g,1,g,2,g,60,g
+603,oberweis dairy,blueberry banana smoothie,2,g,0,mg,0,g,105,g,2,g,0,g,0,g,5,g,97,g
+604,oberweis dairy,cherry cordial creamy latte,39,g,130,mg,180,g,57,g,11,g,23,g,1.5,g,1,g,51,g
+605,oberweis dairy,pineapple shake made with premium ice cream large,107,g,405,mg,340,g,158,g,21,g,67,g,4,g,1,g,142,g
+606,oberweis dairy,peppermint creamy latte,37,g,130,mg,190,g,59,g,10,g,21,g,1.5,g,0,g,49,g
+607,oberweis dairy,chocolate shake made with low fat yogurt,20,g,55,mg,475,g,128,g,12,g,13,g,0,g,2,g,97,g
+608,oberweis dairy,banana shake made with premium ice cream large,107,g,405,mg,330,g,151,g,22,g,67,g,4,g,4,g,123,g
+609,oberweis dairy,cherry shake made with premium ice cream,71,g,240,mg,250,g,97,g,13,g,42,g,2.5,g,0,g,82,g
+610,oberweis dairy,ultimate latte turtle,35,g,125,mg,240,g,72,g,11,g,22,g,1,g,1,g,58,g
+611,oberweis dairy,strawberry lemonade smoothie,0,g,0,mg,45,g,130,g,2,g,0,g,0,g,3,g,124,g
+612,oberweis dairy,berry mango smoothie,2,g,5,mg,35,g,135,g,2,g,1,g,0,g,3,g,110,g
+613,oberweis dairy,dreamsicle shake made with premium ice cream,74,g,240,mg,245,g,101,g,13,g,43,g,2.5,g,0,g,86,g
+614,oberweis dairy,whole lotta berry smoothie,0.5,g,0,mg,5,g,107,g,2,g,0,g,0,g,3,g,102,g
+615,oberweis dairy,hot caramel cider,3,g,10,mg,240,g,80,g,1,g,2,g,0,g,0,g,67,g
+616,oberweis dairy,smooth soup apple smoothie,9,g,30,mg,100,g,58,g,4,g,6,g,0,g,0,g,55,g
+617,oberweis dairy,ultimate caramel latte,31,g,120,mg,370,g,99,g,11,g,20,g,1,g,0,g,76,g
+618,oberweis dairy,yo berry smoothie,4,g,10,mg,125,g,96,g,5,g,2,g,0,g,4,g,87,g
+619,oberweis dairy,vanilla bean creamy latte,38,g,135,mg,195,g,53,g,11,g,22,g,1.5,g,0,g,46,g
+620,oberweis dairy,taffy apple shake made with premium ice cream,97,g,230,mg,695,g,142,g,23,g,44,g,2.5,g,4,g,109,g
+621,oberweis dairy,mocha iced latte regular,6,g,20,mg,210,g,50,g,10,g,4,g,0,g,2,g,43,g
+622,oberweis dairy,pineapple shake made with premium ice cream kids,32,g,115,mg,210,g,77,g,12,g,34,g,1,g,1,g,69,g
+623,oberweis dairy,chocolate shake made with low fat ice cream,21,g,70,mg,385,g,136,g,17,g,13,g,0.5,g,2,g,106,g
+624,oberweis dairy,triple chocolate shake made with premium ice cream,76,g,235,mg,340,g,141,g,18,g,45,g,2.5,g,4,g,119,g
+625,oberweis dairy,strawberry shortcake shake made with premium ice cream regular,85,g,335,mg,460,g,130,g,17,g,50,g,3,g,1,g,109,g
+626,oberweis dairy,frozen latte regular,36,g,130,mg,220,g,92,g,10,g,23,g,2,g,0,g,77,g
+627,oberweis dairy,raspberry vanilla shake made with premium ice cream,71,g,240,mg,250,g,107,g,13,g,42,g,2,g,0,g,92,g
+628,oberweis dairy,chocolate marshmallow creamy latte,39,g,130,mg,210,g,78,g,11,g,23,g,1.5,g,1,g,66,g
+629,oberweis dairy,traditional hot chocolate,7,g,25,mg,360,g,58,g,13,g,5,g,0,g,2,g,53,g
+630,oberweis dairy,root beer shake made with premium ice cream,71,g,240,mg,250,g,97,g,13,g,42,g,2.5,g,0,g,82,g
+631,oberweis dairy,peanut butter shake made with premium ice cream regular,95,g,245,mg,490,g,94,g,26,g,45,g,3,g,4,g,80,g
+632,oberweis dairy,iced latte regular,6,g,25,mg,170,g,17,g,10,g,4,g,0,g,0,g,15,g
+633,oberweis dairy,lemonade smoothie,0,g,0,mg,80,g,150,g,0,g,0,g,0,g,0,g,135,g
+634,oberweis dairy,mocha frozen latte large,54,g,125,mg,580,g,159,g,15,g,38,g,1,g,4,g,128,g
+635,oberweis dairy,raspberry shake made with premium ice cream,71,g,240,mg,245,g,112,g,13,g,42,g,2.5,g,0,g,97,g
+636,oberweis dairy,caramel frozen latte large,58,g,125,mg,900,g,156,g,15,g,42,g,1,g,0,g,125,g
+637,oberweis dairy,black forest shake made with premium ice cream,72,g,230,mg,230,g,117,g,15,g,42,g,2.5,g,2,g,103,g
+638,oberweis dairy,vanilla shake made with premium ice cream large,107,g,405,mg,370,g,148,g,21,g,67,g,4,g,0,g,133,g
+639,oberweis dairy,strawberry shake made with premium ice cream kids,32,g,115,mg,21,g,74,g,12,g,34,g,1,g,1,g,64,g
+640,oberweis dairy,frozen latte large,57,g,125,mg,700,g,148,g,10,g,42,g,1,g,2,g,110,g
+641,oberweis dairy,berry berry shake made with premium ice cream,71,g,240,mg,245,g,113,g,13,g,42,g,2.5,g,1,g,98,g
+642,oberweis dairy,caramel apple smoothie,13,g,40,mg,330,g,104,g,6,g,8,g,1,g,0,g,80,g
+643,oberweis dairy,turtle creamy latte,40,g,135,mg,255,g,73,g,12,g,24,g,1.5,g,1,g,60,g
+644,oberweis dairy,ultimate vanilla latte,26,g,100,mg,140,g,36,g,8,g,16,g,1,g,0,g,31,g
+645,oberweis dairy,latte,0,g,0,mg,180,g,19,g,13,g,0,g,0,g,0,g,18,g
+646,oberweis dairy,vanilla frozen latte regular,35,g,130,mg,220,g,88,g,10,g,22,g,2,g,0,g,78,g
+647,oberweis dairy,canilla iced latte large,8,g,30,mg,280,g,50,g,14,g,5,g,0,g,0,g,48,g
+648,oberweis dairy,mocha iced latte large,9,g,30,mg,340,g,77,g,16,g,6,g,0,g,3,g,68,g
+649,oberweis dairy,candy bar shake made with premium ice cream,95,g,215,mg,725,g,157,g,24,g,43,g,2,g,6,g,118,g
+650,oberweis dairy,strawberry colada smoothie,11,g,0,mg,10,g,121,g,3,g,4.5,g,0,g,2,g,99,g
+651,oberweis dairy,caramel iced latte large,14,g,50,mg,640,g,118,g,18,g,9,g,1,g,0,g,80,g
+652,oberweis dairy,caramel banana shake made with premium ice cream,74,g,250,mg,400,g,156,g,16,g,43,g,3,g,3,g,124,g
+653,oberweis dairy,wild raspberry pineapple smoothie,1,g,0,mg,10,g,90,g,1,g,0,g,0,g,6,g,78,g
+654,oberweis dairy,coffee creamy latte,38,g,135,mg,195,g,52,g,11,g,22,g,1.5,g,0,g,46,g
+655,oberweis dairy,pineapple shake made with premium ice cream regular,79,g,300,mg,230,g,107,g,14,g,50,g,3,g,1,g,96,g
+656,oberweis dairy,americano,0,g,0,mg,15,g,2,g,0,g,0,g,0,g,0,g,0,g
+657,oberweis dairy,hot chocolate add on hazelnut or raspberry flavor,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+658,oberweis dairy,ultimate hot chocolate marshmallow,25,g,90,mg,260,g,96,g,10,g,16,g,1,g,2,g,81,g
+659,oberweis dairy,ultimate hot chocolate min chip,28,g,95,mg,250,g,75,g,11,g,17,g,1,g,2,g,66,g
+660,oberweis dairy,caramel iced latte regular,8,g,30,mg,380,g,71,g,10,g,5,g,0,g,0,g,48,g
+661,oberweis dairy,iced latte large,10,g,35,mg,270,g,25,g,16,g,6,g,0,g,0,g,23,g
+662,oberweis dairy,chocolate creamy latte,39,g,130,mg,180,g,55,g,11,g,22,g,1.5,g,1,g,49,g
+663,oberweis dairy,hazelnut creamy latte,38,g,135,mg,195,g,100,g,10,g,22,g,1.5,g,0,g,94,g
+664,oberweis dairy,vanilla shake made with premium ice cream kids,32,g,115,mg,220,g,74,g,12,g,34,g,1,g,0,g,66,g
+665,oberweis dairy,vanilla frozen latte large,52,g,125,mg,360,g,153,g,11,g,38,g,1,g,0,g,135,g
+666,oberweis dairy,vanilla iced latte regular,5,g,20,mg,170,g,32,g,8,g,3,g,0,g,0,g,30,g
+667,oberweis dairy,island fruit fusion smoothie,0,g,0,mg,0,g,97,g,1,g,0,g,0,g,1,g,83,g
+668,oberweis dairy,caramel shake made with premium ice cream kids,34,g,125,mg,300,g,88,g,13,g,36,g,1,g,0,g,72,g
+669,oberweis dairy,chocolate shake made with premium ice cream large,112,g,420,mg,450,g,187,g,24,g,70,g,4,g,3,g,164,g
+670,oberweis dairy,chocolate shake made with premium ice cream kids,33,g,120,mg,250,g,87,g,13,g,35,g,1,g,1,g,76,g
+671,oberweis dairy,waffle cone,5,g,10,mg,5,g,35,g,0,g,1,g,0,g,1,g,16,g
+672,oberweis dairy,oreo frostbite,27,g,65,mg,460,g,116,g,16,g,13,g,1,g,3,g,86,g
+673,oberweis dairy,heath frostbite,34,g,75,mg,440,g,109,g,16,g,20,g,1,g,1,g,97,g
+674,oberweis dairy,chocolate dipped waffle cone,12,g,11,mg,42,g,48,g,0,g,7,g,0.5,g,1,g,29,g
+675,oberweis dairy,cookie dough frostbite,24,g,95,mg,410,g,113,g,16,g,15,g,1,g,1,g,87,g
+676,oberweis dairy,m and ms frostbite,27,g,70,mg,280,g,115,g,17,g,17,g,1,g,2,g,99,g
+677,oberweis dairy,strawberry torte 6 ice cream cake,16,g,25,mg,210,g,36,g,3,g,9,g,0,g,0,g,24,g
+678,oberweis dairy,cookie dough ice cream pie,26,g,45,mg,215,g,54,g,5,g,13,g,2.5,g,1,g,39,g
+679,oberweis dairy,sugar cone,0,g,0,mg,15,g,11,g,1.3,g,0,g,0,g,0,g,3,g
+680,oberweis dairy,brownie ala mode ice cream pie,24,g,40,mg,255,g,70,g,5,g,14,g,0.5,g,2,g,55,g
+681,oberweis dairy,turtle ice cream pie,30,g,40,mg,260,g,50,g,5,g,13,g,2.5,g,1,g,36,g
+682,oberweis dairy,peppermint ice cream pie,21,g,40,mg,155,g,40,g,4,g,10,g,2.5,g,1,g,31,g
+683,oberweis dairy,carrot 6 ice cream cake,34,g,50,mg,270,g,41,g,5,g,11,g,3,g,1,g,33,g
+684,oberweis dairy,strawberry cream cheese ice cream pie,30,g,55,mg,320,g,56,g,5,g,13,g,5,g,1,g,40,g
+685,oberweis dairy,celebration 8 ice cream cake,20,g,40,mg,315,g,51,g,5,g,12,g,1,g,1,g,38,g
+686,oberweis dairy,butter brickle ice cream pie,30,g,80,mg,200,g,54,g,3,g,17,g,1,g,0,g,46,g
+687,oberweis dairy,moolata mocha ice cream pie,18,g,40,mg,175,g,38,g,4,g,9,g,2,g,1,g,27,g
+688,oberweis dairy,frostbites made with low fat french vanilla yogurt,7.1,g,18,mg,248,g,58.8,g,7.1,g,4.3,g,0,g,0.7,g,48.9,g
+689,oberweis dairy,taffy apple ice cream pie,20,g,35,mg,225,g,54,g,5,g,11,g,2.5,g,1,g,37,g
+690,oberweis dairy,chocolate avalanche 8 ice cream cake,44,g,100,mg,505,g,71,g,5,g,26,g,2.5,g,2,g,58,g
+691,oberweis dairy,german chocolate 6 ice cream cake,27,g,50,mg,290,g,45,g,6,g,11,g,0,g,2,g,36,g
+692,oberweis dairy,key lime ice cream pie,20,g,40,mg,180,g,49,g,3,g,11,g,2,g,1,g,35,g
+693,oberweis dairy,pumpkin ice cream pie,23,g,45,mg,95,g,45,g,4,g,14,g,0.5,g,1,g,29,g
+694,oberweis dairy,cake cone,0,g,0,mg,7,g,4,g,1.5,g,0,g,0,g,0,g,0,g
+695,oberweis dairy,grasshopper ice cream pie,24,g,50,mg,175,g,42,g,3,g,14,g,1,g,1,g,34,g
+696,oberweis dairy,no sugar added chocolate frozen yogurt,1,g,3,mg,245,g,15,g,5,g,1,g,0,g,0,g,13,g
+697,oberweis dairy,low fat french vanilla frozen yogurt,5,g,10,mg,175,g,42,g,5,g,3,g,0,g,0,g,35,g
+698,oberweis dairy,soft serve vanilla ice cream,4,g,18,mg,63,g,19,g,4,g,3,g,0,g,0,g,16,g
+699,oberweis dairy,chocolate peanut butter premium ice cream,19,g,47,mg,109,g,22,g,5,g,9,g,0,g,2,g,18,g
+700,oberweis dairy,hot fudge sundae made with premium ice cream regular,47,g,165,mg,170,g,69,g,8,g,29,g,2,g,1,g,61,g
+701,oberweis dairy,banana royal sundae made with premium ice cream,104,g,225,mg,410,g,111,g,15,g,43,g,2,g,7,g,94,g
+702,oberweis dairy,butter pecan premium ice cream,16.5,g,45,mg,118,g,22.5,g,3,g,8,g,0.5,g,0,g,19.5,g
+703,oberweis dairy,lemon sorbet,0,g,0,mg,0,g,26,g,0,g,0,g,0,g,0,g,22,g
+704,oberweis dairy,mint chip premium ice cream,16,g,51,mg,43,g,23,g,3,g,10,g,0,g,0,g,20,g
+705,oberweis dairy,cookies n cream premium ice cream,15,g,55,mg,59,g,22,g,3,g,9,g,0,g,0,g,19,g
+706,oberweis dairy,low fat vanilla ice cream,2.5,g,10,mg,65,g,22.5,g,4,g,1.5,g,0,g,0,g,20,g
+707,oberweis dairy,chocolate peanut butter sundae made with premium ice cream,47,g,115,mg,350,g,81,g,13,g,23,g,1,g,4,g,60,g
+708,oberweis dairy,hot fudge brownie sundae made with premium ice cream regular,96,g,165,mg,670,g,142,g,17,g,33,g,2,g,9,g,110,g
+709,oberweis dairy,hot fudge brownie sundae made with soft serve ice cream,55,g,75,mg,470,g,130,g,17,g,21,g,0.5,g,6,g,107,g
+710,oberweis dairy,strawberry premium ice cream,12,g,47,mg,35,g,23,g,2,g,8,g,0,g,0,g,20,g
+711,oberweis dairy,coffee premium ice cream,15,g,60,mg,44,g,19,g,2,g,10,g,0,g,0,g,17,g
+712,oberweis dairy,cookie dough premium ice cream,15,g,54,mg,84,g,27,g,3,g,9,g,0,g,0,g,14,g
+713,oberweis dairy,black raspberry chocolate chunk premium ice cream,13,g,38,mg,30,g,27,g,3,g,8,g,0,g,1,g,24,g
+714,oberweis dairy,turtle candy sundae made with soft serve ice cream,46,g,75,mg,350,g,92,g,14,g,16,g,1,g,4,g,72,g
+715,oberweis dairy,orange or raspberry sherbet,0.8,g,3,mg,16,g,17,g,0.5,g,0.5,g,0,g,0,g,13.5,g
+716,oberweis dairy,birthday cake premium ice cream,34,g,101,mg,101,g,50,g,5,g,20,g,1,g,0,g,45,g
+717,oberweis dairy,hot fudge sundae made with soft serve ice cream,23,g,75,mg,270,g,96,g,13,g,15,g,0.5,g,2,g,84,g
+718,oberweis dairy,chocolate premium ice cream,16,g,55,mg,43,g,22,g,3,g,9,g,0,g,1,g,20,g
+719,oberweis dairy,lava cake sundae with premium ice cream large,113,g,295,mg,740,g,182,g,21,g,69,g,3,g,9,g,139,g
+720,oberweis dairy,turtle candy sundae made with premium ice cream regular,88,g,170,mg,430,g,80,g,13,g,33,g,2,g,6,g,61,g
+721,oberweis dairy,chocolate chip premium ice cream,17,g,46,mg,39,g,26,g,3,g,10,g,0,g,1,g,22,g
+722,oberweis dairy,dark chocolate sea salt caramel premium ice cream,12,g,41,mg,209,g,31,g,3,g,7,g,0,g,1,g,24,g
+723,oberweis dairy,chocolate marshmallow premium ice cream,14,g,50,mg,38,g,27,g,3,g,8,g,0,g,1,g,23,g
+724,oberweis dairy,coconut chocolate almond premium ice cream,18,g,46,mg,73,g,26,g,3,g,12,g,1,g,1,g,22,g
+725,oberweis dairy,lava cake sundae with premium ice cream regular,98,g,235,mg,710,g,164,g,19,g,59,g,2,g,9,g,123,g
+726,oberweis dairy,hot fudge sundae made with premium ice cream large,59,g,210,mg,230,g,96,g,11,g,37,g,2,g,2,g,85,g
+727,oberweis dairy,black cherry premium ice cream,13.5,g,51,mg,40,g,22,g,2.5,g,8.5,g,0.5,g,0,g,19.5,g
+728,oberweis dairy,low fat chocolate marshmallow ice cream,2.5,g,8,mg,68,g,27,g,3.5,g,1.5,g,0,g,0.5,g,21,g
+729,oberweis dairy,butterscotch sundae made with premium ice cream,38,g,200,mg,325,g,109,g,7,g,22,g,1.5,g,0,g,93,g
+730,oberweis dairy,low fat chocolate ice cream,6,g,20,mg,135,g,44,g,8,g,4,g,0,g,1,g,36,g
+731,oberweis dairy,rocky road premium ice cream,16,g,40,mg,78,g,26,g,4.5,g,8,g,0.5,g,1,g,21,g
+732,oberweis dairy,banana royal sundae made with soft serve ice cream,48,g,85,mg,385,g,134,g,16,g,17,g,0,g,7,g,106,g
+733,oberweis dairy,cookie dough peanut butter premium ice cream,17,g,46,mg,159,g,28,g,5,g,8,g,0,g,1,g,13,g
+734,oberweis dairy,dulce de leche premium ice cream,13.5,g,45,mg,73,g,25,g,3,g,7.5,g,0.5,g,0,g,22,g
+735,oberweis dairy,strawberry shortcake sundae made with premium ice cream,37,g,160,mg,300,g,93,g,8,g,20,g,1,g,2,g,76,g
+736,oberweis dairy,affogato made with premium ice cream,31,g,115,mg,100,g,40,g,6,g,19,g,1,g,0,g,35,g
+737,oberweis dairy,strawberry n sugar sundae cookie made with premium ice cream,41,g,135,mg,195,g,111,g,9,g,24,g,1,g,2,g,85,g
+738,oberweis dairy,chocolate chocolate chip premium ice cream,16,g,48,mg,48,g,23,g,3.5,g,9,g,0.5,g,1,g,20.5,g
+739,oberweis dairy,low fat strawberry ice cream,2,g,8,mg,58,g,25.5,g,3,g,1.5,g,0,g,0,g,22,g
+740,oberweis dairy,cinnamon premium ice cream,15,g,53,mg,58,g,20,g,3,g,9,g,0.5,g,0,g,17.5,g
+741,oberweis dairy,peanut butter sundae with premium ice cream large,119,g,125,mg,880,g,174,g,38,g,48,g,2,g,12,g,130,g
+742,oberweis dairy,peppermint premium ice cream,14.5,g,50,mg,55,g,23.5,g,3,g,8.5,g,0.5,g,0,g,19.5,g
+743,oberweis dairy,vanilla custard ice cream,2.5,g,5,mg,88,g,21,g,2.5,g,1.5,g,0,g,0,g,17.5,g
+744,oberweis dairy,brandy premium ice cream,14.5,g,50,mg,55,g,19.5,g,3,g,8.5,g,0.5,g,0,g,16.5,g
+745,oberweis dairy,strawberry sundae made with premium ice cream regular,43,g,160,mg,90,g,54,g,5,g,27,g,2,g,1,g,47,g
+746,oberweis dairy,pistachio premium ice cream,14,g,48,mg,58,g,23.5,g,2.5,g,8,g,0.5,g,0,g,21.5,g
+747,oberweis dairy,banana royal sundae made with low fat yogurt,43,g,55,mg,460,g,140,g,13,g,13,g,0,g,7,g,111,g
+748,oberweis dairy,vanilla premium ice cream,15,g,60,mg,44,g,19,g,3,g,10,g,0,g,0,g,17,g
+749,oberweis dairy,pineapple sundae made with premium ice cream,38,g,135,mg,155,g,81,g,7,g,22,g,1.5,g,0,g,75,g
+750,oberweis dairy,chocolate caramel crunch premium ice cream,13,g,40,mg,93,g,29,g,4,g,7.5,g,0.5,g,1,g,26.5,g
+751,oberweis dairy,vanila chocolate chunk sundae cookie made with premium ice cream,55,g,125,mg,420,g,115,g,13,g,31,g,1,g,3,g,88,g
+752,oberweis dairy,peanut butter sundae with premium ice cream regular,78,g,80,mg,530,g,131,g,24,g,34,g,1,g,7,g,95,g
+753,oberweis dairy,egg nog premium ice cream,14.5,g,70,mg,58,g,23,g,3,g,8,g,0.5,g,0,g,20.5,g
+754,oberweis dairy,udderly truffles premium ice cream,15,g,45,mg,68,g,25,g,3.5,g,9,g,0.5,g,0.5,g,22,g
+755,oberweis dairy,hot fudge sundae made with low fat ice cream,20,g,65,mg,275,g,104,g,13,g,12,g,0.5,g,2,g,92,g
+756,oberweis dairy,raspberry sundae made with premium ice cream,38,g,135,mg,125,g,65,g,7,g,22,g,1.5,g,0,g,59,g
+757,oberweis dairy,hot fudge brownie sundae made with low fat yogurt,51,g,55,mg,525,g,134,g,15,g,18,g,0,g,6,g,110,g
+758,oberweis dairy,peach premium ice cream,12,g,43,mg,58,g,23,g,2.5,g,7,g,0.5,g,0,g,20.5,g
+759,oberweis dairy,chocolate sundae made with premium ice cream,39,g,135,mg,225,g,79,g,8,g,23,g,1.5,g,2,g,60,g
+760,oberweis dairy,rainbow sherbet,5,g,15,mg,110,g,63,g,3,g,3,g,0,g,0,g,47,g
+761,oberweis dairy,strawberry cheesecake premium ice cream,14.5,g,45,mg,60,g,26.5,g,3,g,8,g,1,g,0,g,21.5,g
+762,oberweis dairy,turtle candy sundae made with low fat ice cream,43,g,61,mg,360,g,100,g,14,g,13,g,0.5,g,4,g,80,g
+763,oberweis dairy,chocolate almond premium ice cream,17,g,51,mg,51,g,21,g,4,g,9,g,0,g,1,g,18,g
+764,oberweis dairy,marshmallow sundae made with premium ice cream,38,g,135,mg,185,g,91,g,7,g,22,g,1.5,g,0,g,73,g
+765,oberweis dairy,banana sundae royal made with low fat ice cream,43,g,65,mg,395,g,146,g,17,g,13,g,0.5,g,7,g,118,g
+766,oberweis dairy,apple cin sundae made with premium ice cream,40,g,135,mg,315,g,112,g,9,g,22,g,1.5,g,0,g,78,g
+767,oberweis dairy,caramel sundae made with premium ice cream,40,g,145,mg,280,g,82,g,8,g,24,g,1.5,g,0,g,63,g
+768,oberweis dairy,apple strudel premium ice cream,14,g,48,mg,55,g,22,g,3,g,8,g,0.5,g,0,g,20,g
+769,oberweis dairy,caramel cream sundae made with premium ice cream,41,g,175,mg,490,g,112,g,11,g,23,g,1.5,g,1,g,82,g
+770,oberweis dairy,tin roof sundae made with premium ice cream,56,g,135,mg,335,g,98,g,17,g,25,g,1.5,g,3,g,74,g
+771,oberweis dairy,brownie fudge twirl premium ice cream,14,g,45,mg,80,g,26,g,3,g,8,g,0.5,g,0.5,g,22,g
+772,oberweis dairy,hot fudge sundae made with low fat yogurt,19,g,55,mg,320,g,100,g,11,g,12,g,0,g,2,g,87,g
+773,oberweis dairy,hot fudge brownie sundae made with premium ice cream large,135,g,230,mg,870,g,180,g,24,g,47,g,3,g,12,g,142,g
+774,oberweis dairy,butter brickle premium ice cream,15.5,g,53,mg,70,g,24,g,3,g,8.5,g,0.5,g,0,g,22,g
+775,oberweis dairy,turtle candy sundae made with low fat yogurt,43,g,50,mg,405,g,96,g,12,g,13,g,0.5,g,4,g,76,g
+776,oberweis dairy,twisted chocolate chunk sundae cookie made with premium ice cream,65,g,120,mg,605,g,145,g,16,g,34,g,1,g,5,g,106,g
+777,oberweis dairy,oreo sundae made with premium ice cream,42,g,130,mg,360,g,116,g,8,g,22,g,2,g,2,g,84,g
+778,oberweis dairy,strawberry sundae made with premium ice cream large,58,g,215,mg,135,g,81,g,8,g,36,g,2,g,1,g,70,g
+779,oberweis dairy,hot fudge brownie sundae made with low fat ice cream,52,g,65,mg,480,g,138,g,18,g,18,g,0.5,g,6,g,115,g
+780,oberweis dairy,blueberry cream cheese premium ice cream,29,g,90,mg,120,g,53,g,6,g,16,g,2,g,0,g,43,g
+781,oberweis dairy,rocky road sundae made with premium ice cream,56,g,130,mg,325,g,100,g,17,g,25,g,1.5,g,4,g,77,g
+782,oberweis dairy,pumpkin premium ice cream,14,g,48,mg,60,g,21,g,3,g,8,g,0.5,g,0,g,18.5,g
+783,oberweis dairy,amaretto premium ice cream,17.5,g,40,mg,110,g,27,g,3,g,9,g,0.5,g,0,g,23,g
+784,oberweis dairy,kids chocolate shake made with soft serve ice cream,17,g,55,mg,160,g,51,g,7,g,11,g,0.5,g,1,g,39,g
+785,oberweis dairy,kids strawberry shake made with soft serve ice cream,9,g,30,mg,130,g,54,g,7,g,5,g,0,g,1,g,47,g
+786,oberweis dairy,kids vanilla rootbeer or cherry shake made with soft serve ice cream,17,g,55,mg,115,g,37,g,6,g,11,g,0.5,g,0,g,31,g
+787,oberweis dairy,kids caramel shake made with soft serve ice cream,18,g,60,mg,185,g,53,g,7,g,11,g,0.5,g,0,g,41,g
+788,oberweis dairy,kids banana shake made with soft serve ice cream,17,g,55,mg,110,g,49,g,7,g,11,g,0.5,g,2,g,42,g
+789,oberweis dairy,kids gummie bears frostbites mix in,0,g,0,mg,10,g,23,g,1,g,0,g,0,g,0,g,16,g
+790,oberweis dairy,kids sundae add on raspberry topping,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,9,g
+791,oberweis dairy,kids butterscotch made with soft serve ice cream,17,g,55,mg,210,g,66,g,6,g,11,g,0.5,g,0,g,56,g
+792,oberweis dairy,kids sundae add on marshmallow topping,0,g,0,mg,30,g,22,g,0,g,0,g,0,g,0,g,16,g
+793,oberweis dairy,kids sundae add on caramel topping,1,g,5,mg,80,g,18,g,0,g,1,g,0,g,0,g,11,g
+794,oberweis dairy,kids sundae add on m and ms,6,g,10,mg,20,g,20,g,1,g,4,g,0,g,1,g,18,g
+795,oberweis dairy,kids sundae add on chocolate syrup,0,g,0,mg,50,g,16,g,0,g,0,g,0,g,1,g,10,g
+796,oberweis dairy,sundae add on crushed heath bars,9,g,10,mg,110,g,18,g,1,g,4,g,2,g,0,g,17,g
+797,oberweis dairy,kids sundae add on crushed butterfingers,5,g,0,mg,65,g,20,g,2,g,3,g,0,g,0,g,14,g
+798,oberweis dairy,kids sundae add on chopped reeses cups,9,g,0,mg,80,g,16,g,3,g,3,g,0,g,0,g,13,g
+799,oberweis dairy,kids sundae add on strawberry topping,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,7,g
+800,oberweis dairy,kids sundae add on cookie dough pieces,4,g,15,mg,90,g,20,g,1,g,2,g,0,g,0,g,12,g
+801,oberweis dairy,kids pineapple shake made with soft serve ice cream,17,g,55,mg,125,g,52,g,6,g,11,g,0.5,g,0,g,47,g
+802,oberweis dairy,kids sundae add on pineapple topping,0,g,0,mg,15,g,17,g,0,g,0,g,0,g,0,g,17,g
+803,oberweis dairy,kids cow spot sundae made with soft serve ice cream,14,g,30,mg,100,g,47,g,4,g,7,g,0,g,1,g,38,g
+804,oberweis dairy,kids u pik em sundae made with soft serve ice cream,7,g,20,mg,55,g,19,g,3,g,4,g,0,g,0,g,18,g
+805,oberweis dairy,kids raspberry shake made with soft serve ice cream,17,g,55,mg,110,g,44,g,6,g,11,g,0.5,g,0,g,39,g
+806,oberweis dairy,kids oo sundae made with soft serve ice cream,15,g,330,mg,230,g,50,g,4,g,7,g,0,g,2,g,34,g
+807,oberweis dairy,kids sundae add on oreo cookie pieces,6,g,0,mg,145,g,20,g,1,g,1,g,1,g,1,g,12,g
+808,oberweis dairy,kids sundae add on butterscotch topping,0,g,0,mg,100,g,31,g,0,g,0,g,0,g,0,g,26,g
+809,oberweis dairy,kids sundae add on chopped snickers,7,g,5,mg,70,g,17,g,2,g,3,g,0,g,1,g,14,g
+810,oberweis dairy,kids take five pieces frostbites mix in,7,g,0,mg,120,g,17,g,3,g,4,g,0,g,1,g,12,g
+811,oberweis dairy,chopped reeses cups frostbites mix in,8.5,g,2,mg,82,g,15.9,g,3,g,3,g,0,g,0,g,13.5,g
+812,oberweis dairy,malt add on for kids shakes,2,g,5,mg,100,g,15,g,2,g,1,g,1,g,1,g,2,g
+813,oberweis dairy,oreo cookies pieces frostbites mix in,6.5,g,0,mg,147,g,19.9,g,1,g,1,g,1,g,1,g,11.5,g
+814,oberweis dairy,crushed heath bars frostbites mix in,9,g,7,mg,110,g,17.9,g,1,g,4,g,1.2,g,0.5,g,16.4,g
+815,oberweis dairy,chopped take 5 bar frostbites mix in,14,g,5,mg,240,g,34,g,5,g,7,g,0,g,2,g,24,g
+816,oberweis dairy,chopped snickers frostbites mix in,13,g,10,mg,140,g,34,g,4,g,5,g,0,g,1,g,29,g
+817,oberweis dairy,gummie worms frostbites mix in,0,g,0,mg,25,g,40,g,3,g,0,g,0,g,0,g,29,g
+818,oberweis dairy,malt add on to shake large,3,g,8,mg,150,g,23,g,3,g,2,g,1,g,3,g,15,g
+819,oberweis dairy,cookie dough pieces frostbites mix in,8,g,30,mg,180,g,39,g,2,g,5,g,0,g,0,g,24,g
+820,oberweis dairy,malt add on to shake regular,2,g,5,mg,85,g,15,g,3,g,1,g,0,g,0,g,10,g
+821,oberweis dairy,crushed butterfingers frostbites mix in,10,g,0,mg,130,g,41,g,4,g,6,g,0,g,1,g,27,g
+822,oberweis dairy,turtle candy sundae made with premium ice cream large,106,g,195,mg,580,g,113,g,16,g,39,g,2,g,8,g,86,g
+823,oberweis dairy,mango pomegranate sorbet,0,g,0,mg,4,g,28,g,0,g,0,g,0,g,0,g,21,g
+824,oberweis dairy,affogato,31,g,115,mg,100,g,40,g,6,g,19,g,1,g,0,g,35,g
+825,oberweis dairy,americano,0,g,0,mg,15,g,2,g,0,g,0,g,0,g,0,g,0,g
+826,oberweis dairy,banana malt kids,33,g,115,mg,300,g,92,g,14,g,34,g,1,g,2,g,72,g
+827,oberweis dairy,banana malt large,110,g,415,mg,480,g,174,g,25,g,69,g,4,g,4,g,138,g
+828,oberweis dairy,banana malt regular,76,g,285,mg,310,g,120,g,16,g,48,g,3,g,3,g,94,g
+829,oberweis dairy,banana royale sundae,104,g,225,mg,410,g,111,g,15,g,43,g,2,g,7,g,94,g
+830,oberweis dairy,banana shake kids,31,g,110,mg,200,g,77,g,12,g,33,g,1,g,2,g,62,g
+831,oberweis dairy,banana shake large,107,g,405,mg,330,g,151,g,22,g,67,g,4,g,4,g,123,g
+832,oberweis dairy,banana shake regular,74,g,280,mg,210,g,105,g,14,g,47,g,3,g,3,g,84,g
+833,oberweis dairy,birthday cake ice cream 1 scoop,34,g,100,mg,100,g,50,g,5,g,20,g,1,g,0,g,45,g
+834,oberweis dairy,birthday cake ice cream 2 scoop,57,g,170,mg,170,g,83,g,8,g,34,g,1,g,0,g,75,g
+835,oberweis dairy,birthday cake ice cream 3 scoop,86,g,255,mg,250,g,125,g,12,g,51,g,2,g,0,g,113,g
+836,oberweis dairy,birthday cake ice cream kid scoop,17,g,50,mg,50,g,25,g,2,g,10,g,0,g,0,g,23,g
+837,oberweis dairy,black cherry ice cream 1 scoop,27,g,100,mg,80,g,44,g,5,g,17,g,1,g,0,g,39,g
+838,oberweis dairy,black cherry ice cream 2 scoop,45,g,170,mg,130,g,73,g,8,g,29,g,1,g,0,g,66,g
+839,oberweis dairy,black cherry ice cream 3 scoop,67,g,255,mg,200,g,110,g,12,g,43,g,2,g,0,g,98,g
+840,oberweis dairy,black cherry ice cream kid scoop,13,g,50,mg,40,g,22,g,2,g,9,g,0,g,0,g,20,g
+841,oberweis dairy,black raspberry chocolate chunk ice cream 1 scoop,26,g,75,mg,60,g,55,g,5,g,17,g,0,g,2,g,47,g
+842,oberweis dairy,black raspberry chocolate chunk ice cream 2 scoop,43,g,125,mg,100,g,91,g,8,g,28,g,0,g,3,g,78,g
+843,oberweis dairy,black raspberry chocolate chunk ice cream 3 scoop,65,g,190,mg,150,g,137,g,11,g,42,g,0,g,4,g,118,g
+844,oberweis dairy,black raspberry chocolate chunk ice cream kid scoop,13,g,40,mg,30,g,27,g,2,g,8,g,0,g,1,g,24,g
+845,oberweis dairy,caramel frozen latte large,58,g,125,mg,900,g,156,g,15,g,42,g,1,g,0,g,125,g
+846,oberweis dairy,caramel frozen latte regular,38,g,140,mg,430,g,127,g,12,g,24,g,2,g,0,g,95,g
+847,oberweis dairy,caramel iced latte large,14,g,50,mg,640,g,118,g,18,g,9,g,1,g,0,g,80,g
+848,oberweis dairy,caramel iced latte regular,8,g,30,mg,380,g,71,g,10,g,5,g,0,g,0,g,48,g
+849,oberweis dairy,caramel malt kids,36,g,130,mg,400,g,103,g,15,g,37,g,1,g,0,g,82,g
+850,oberweis dairy,caramel malt large,118,g,440,mg,760,g,214,g,27,g,74,g,4,g,0,g,166,g
+851,oberweis dairy,caramel malt regular,86,g,320,mg,490,g,143,g,18,g,54,g,3,g,0,g,112,g
+852,oberweis dairy,caramel shake kids,34,g,125,mg,300,g,88,g,13,g,36,g,1,g,0,g,72,g
+853,oberweis dairy,caramel shake large,115,g,430,mg,610,g,191,g,24,g,72,g,4,g,0,g,151,g
+854,oberweis dairy,caramel shake regular,84,g,315,mg,390,g,128,g,16,g,53,g,3,g,0,g,102,g
+855,oberweis dairy,chocolate almond ice cream 1 scoop,35,g,100,mg,100,g,43,g,8,g,19,g,1,g,2,g,36,g
+856,oberweis dairy,chocolate almond ice cream 2 scoop,58,g,170,mg,170,g,71,g,13,g,31,g,1,g,3,g,60,g
+857,oberweis dairy,chocolate almond ice cream 3 scoop,87,g,255,mg,260,g,106,g,20,g,47,g,2,g,4,g,91,g
+858,oberweis dairy,chocolate almond ice cream kid scoop,17,g,50,mg,50,g,21,g,4,g,9,g,0,g,1,g,18,g
+859,oberweis dairy,chocolate cake shake large,109,g,405,mg,790,g,218,g,26,g,64,g,4,g,5,g,183,g
+860,oberweis dairy,chocolate cake shake regular,84,g,310,mg,530,g,159,g,18,g,50,g,3,g,3,g,134,g
+861,oberweis dairy,chocolate chip ice cream 1 scoop,34,g,95,mg,75,g,51,g,6,g,20,g,1,g,2,g,43,g
+862,oberweis dairy,chocolate chip ice cream 2 scoop,57,g,155,mg,130,g,85,g,10,g,34,g,1,g,3,g,72,g
+863,oberweis dairy,chocolate chip ice cream 3 scoop,85,g,230,mg,190,g,128,g,15,g,50,g,2,g,4,g,108,g
+864,oberweis dairy,chocolate chip ice cream kid scoop,17,g,45,mg,40,g,26,g,3,g,10,g,0,g,1,g,22,g
+865,oberweis dairy,chocolate ice cream 1 scoop,31,g,110,mg,85,g,44,g,6,g,19,g,1,g,2,g,39,g
+866,oberweis dairy,chocolate ice cream 2 scoop,52,g,185,mg,140,g,73,g,10,g,31,g,1,g,3,g,66,g
+867,oberweis dairy,chocolate ice cream 3 scoop,79,g,275,mg,220,g,110,g,16,g,47,g,2,g,4,g,98,g
+868,oberweis dairy,chocolate ice cream kid scoop,16,g,55,mg,45,g,22,g,3,g,9,g,0,g,1,g,20,g
+869,oberweis dairy,chocolate malt kids,35,g,125,mg,350,g,102,g,15,g,36,g,1,g,1,g,86,g
+870,oberweis dairy,chocolate malt large,115,g,430,mg,600,g,210,g,27,g,72,g,4,g,3,g,179,g
+871,oberweis dairy,chocolate malt regular,84,g,315,mg,400,g,141,g,18,g,53,g,3,g,2,g,120,g
+872,oberweis dairy,chocolate marshmallow ice cream 1 scoop,28,g,100,mg,75,g,54,g,6,g,17,g,1,g,2,g,46,g
+873,oberweis dairy,chocolate marshmallow ice cream 2 scoop,46,g,165,mg,130,g,89,g,10,g,28,g,1,g,3,g,77,g
+874,oberweis dairy,chocolate marshmallow ice cream 3 scoop,69,g,250,mg,190,g,134,g,15,g,42,g,2,g,4,g,115,g
+875,oberweis dairy,chocolate marshmallow ice cream kid scoop,14,g,50,mg,40,g,27,g,3,g,8,g,0,g,1,g,23,g
+876,oberweis dairy,chocolate peanut butter ice cream 1 scoop,37,g,95,mg,220,g,44,g,9,g,19,g,1,g,3,g,36,g
+877,oberweis dairy,chocolate peanut butter ice cream 2 scoop,62,g,155,mg,360,g,73,g,16,g,31,g,1,g,5,g,60,g
+878,oberweis dairy,chocolate peanut butter ice cream 3 scoop,94,g,235,mg,550,g,109,g,23,g,47,g,2,g,8,g,90,g
+879,oberweis dairy,chocolate peanut butter ice cream kid scoop,19,g,45,mg,110,g,22,g,5,g,9,g,0,g,2,g,18,g
+880,oberweis dairy,chocolate shake kids,33,g,120,mg,250,g,87,g,13,g,35,g,1,g,1,g,76,g
+881,oberweis dairy,chocolate shake large,112,g,420,mg,450,g,187,g,24,g,70,g,4,g,3,g,164,g
+882,oberweis dairy,chocolate shake regular,82,g,310,mg,300,g,126,g,16,g,52,g,3,g,2,g,110,g
+883,oberweis dairy,coconut chocolate almond ice cream 1 scoop,36,g,95,mg,150,g,51,g,6,g,25,g,2,g,2,g,43,g
+884,oberweis dairy,coconut chocolate almond ice cream 2 scoop,59,g,155,mg,250,g,85,g,10,g,41,g,3,g,3,g,72,g
+885,oberweis dairy,coconut chocolate almond ice cream 3 scoop,89,g,230,mg,370,g,128,g,15,g,62,g,4,g,4,g,108,g
+886,oberweis dairy,coconut chocolate almond ice cream kid scoop,18,g,45,mg,75,g,26,g,3,g,12,g,1,g,1,g,22,g
+887,oberweis dairy,coffee ice cream 1 scoop,30,g,120,mg,85,g,38,g,5,g,19,g,1,g,0,g,35,g
+888,oberweis dairy,coffee ice cream 2 scoop,50,g,200,mg,150,g,64,g,8,g,32,g,1,g,0,g,58,g
+889,oberweis dairy,coffee ice cream 3 scoop,76,g,300,mg,220,g,95,g,12,g,48,g,2,g,0,g,87,g
+890,oberweis dairy,coffee ice cream kid scoop,15,g,60,mg,45,g,19,g,2,g,10,g,0,g,0,g,17,g
+891,oberweis dairy,cookie dough frostbite,24,g,95,mg,410,g,113,g,16,g,15,g,1,g,1,g,87,g
+892,oberweis dairy,cookie dough ice cream 1 scoop,29,g,105,mg,170,g,54,g,6,g,18,g,1,g,0,g,28,g
+893,oberweis dairy,cookie dough ice cream 2 scoop,49,g,180,mg,280,g,89,g,10,g,31,g,1,g,0,g,46,g
+894,oberweis dairy,cookie dough ice cream 3 scoop,73,g,270,mg,420,g,134,g,15,g,46,g,2,g,0,g,69,g
+895,oberweis dairy,cookie dough ice cream kid scoop,15,g,55,mg,85,g,27,g,3,g,9,g,0,g,0,g,14,g
+896,oberweis dairy,cookie dough peanut butter ice cream 1 scoop,35,g,90,mg,320,g,56,g,11,g,17,g,1,g,2,g,26,g
+897,oberweis dairy,cookie dough peanut butter ice cream 2 scoop,58,g,150,mg,530,g,94,g,18,g,28,g,1,g,3,g,43,g
+898,oberweis dairy,cookie dough peanut butter ice cream 3 scoop,87,g,230,mg,800,g,140,g,27,g,42,g,2,g,4,g,65,g
+899,oberweis dairy,cookie dough peanut butter ice cream kid scoop,17,g,45,mg,160,g,28,g,5,g,8,g,0,g,1,g,13,g
+900,oberweis dairy,cookies n cream ice cream 1 scoop,30,g,110,mg,120,g,44,g,6,g,19,g,1,g,0,g,38,g
+901,oberweis dairy,cookies n cream ice cream 2 scoop,50,g,185,mg,200,g,73,g,10,g,31,g,1,g,0,g,63,g
+902,oberweis dairy,cookies n cream ice cream 3 scoop,75,g,275,mg,300,g,110,g,16,g,47,g,2,g,0,g,94,g
+903,oberweis dairy,cookies n cream ice cream kid scoop,15,g,55,mg,60,g,22,g,3,g,9,g,0,g,0,g,19,g
+904,oberweis dairy,dark chocolate sea salt caramel ice cream 1 scoop,24,g,80,mg,420,g,61,g,6,g,15,g,1,g,3,g,48,g
+905,oberweis dairy,dark chocolate sea salt caramel ice cream 2 scoop,40,g,135,mg,700,g,102,g,10,g,25,g,1,g,5,g,80,g
+906,oberweis dairy,dark chocolate sea salt caramel ice cream 3 scoop,60,g,205,mg,1040,g,153,g,15,g,37,g,2,g,7,g,119,g
+907,oberweis dairy,dark chocolate sea salt caramel ice cream kid scoop,12,g,40,mg,210,g,31,g,3,g,7,g,0,g,1,g,24,g
+908,oberweis dairy,heath frostbite,34,g,75,mg,440,g,109,g,16,g,20,g,1,g,1,g,97,g
+909,oberweis dairy,hot fudge brownie large sundae,135,g,230,mg,870,g,180,g,24,g,47,g,3,g,12,g,142,g
+910,oberweis dairy,hot fudge brownie regular sundae,96,g,165,mg,670,g,142,g,17,g,33,g,2,g,9,g,110,g
+911,oberweis dairy,hot fudge large sundae,59,g,210,mg,230,g,96,g,11,g,37,g,2,g,2,g,85,g
+912,oberweis dairy,hot fudge regular sundae,47,g,165,mg,170,g,69,g,8,g,29,g,2,g,1,g,61,g
+913,oberweis dairy,latte,0,g,0,mg,180,g,19,g,13,g,0,g,0,g,0,g,18,g
+914,oberweis dairy,lava cake large sundae,113,g,295,mg,740,g,182,g,21,g,69,g,3,g,9,g,139,g
+915,oberweis dairy,lava cake regular sundae,98,g,235,mg,710,g,164,g,19,g,59,g,2,g,9,g,123,g
+916,oberweis dairy,lemon sorbet 1 scoop,0,g,0,mg,0,g,53,g,0,g,0,g,0,g,0,g,43,g
+917,oberweis dairy,lemon sorbet 2 scoop,0,g,0,mg,0,g,88,g,0,g,0,g,0,g,0,g,72,g
+918,oberweis dairy,lemon sorbet 3 scoop,0,g,0,mg,0,g,131,g,0,g,0,g,0,g,0,g,108,g
+919,oberweis dairy,lemon sorbet kid scoop,0,g,0,mg,0,g,26,g,0,g,0,g,0,g,0,g,22,g
+920,oberweis dairy,mandm frostbite,27,g,70,mg,280,g,115,g,17,g,17,g,1,g,2,g,99,g
+921,oberweis dairy,mango pomegranate sorbet 1 scoop,0,g,0,mg,10,g,56,g,0,g,0,g,0,g,0,g,43,g
+922,oberweis dairy,mango pomegranate sorbet 2 scoop,0,g,0,mg,15,g,94,g,0,g,0,g,0,g,0,g,71,g
+923,oberweis dairy,mango pomegranate sorbet 3 scoop,0,g,0,mg,20,g,140,g,0,g,0,g,0,g,0,g,106,g
+924,oberweis dairy,mango pomegranate sorbet kid scoop,0,g,0,mg,0,g,28,g,0,g,0,g,0,g,0,g,21,g
+925,oberweis dairy,mango smoothie,0,g,0,mg,10,g,110,g,0,g,0,g,0,g,1,g,107,g
+926,oberweis dairy,mint chip ice cream 1 scoop,31,g,100,mg,85,g,47,g,6,g,20,g,1,g,0,g,41,g
+927,oberweis dairy,mint chip ice cream 2 scoop,52,g,170,mg,140,g,78,g,10,g,34,g,1,g,0,g,68,g
+928,oberweis dairy,mint chip ice cream 3 scoop,78,g,255,mg,220,g,117,g,16,g,51,g,2,g,0,g,101,g
+929,oberweis dairy,mint chip ice cream kid scoop,16,g,50,mg,45,g,23,g,3,g,10,g,0,g,0,g,20,g
+930,oberweis dairy,mocha frozen latte large,54,g,125,mg,580,g,159,g,15,g,38,g,1,g,4,g,128,g
+931,oberweis dairy,mocha frozen latte regular,37,g,130,mg,320,g,146,g,12,g,24,g,2,g,3,g,124,g
+932,oberweis dairy,mocha iced latte large,9,g,30,mg,340,g,77,g,16,g,6,g,0,g,3,g,68,g
+933,oberweis dairy,mocha iced latte regular,6,g,20,mg,210,g,50,g,10,g,4,g,0,g,2,g,43,g
+934,oberweis dairy,oreo frostbite,27,g,65,mg,460,g,116,g,16,g,13,g,1,g,3,g,86,g
+935,oberweis dairy,peanut butter malt kids,31,g,55,mg,360,g,70,g,18,g,25,g,0,g,2,g,57,g
+936,oberweis dairy,peanut butter malt large,134,g,330,mg,860,g,152,g,41,g,62,g,3,g,6,g,124,g
+937,oberweis dairy,peanut butter malt regular,97,g,250,mg,590,g,109,g,28,g,46,g,3,g,4,g,90,g
+938,oberweis dairy,peanut butter shake kids,30,g,50,mg,310,g,62,g,17,g,24,g,0,g,2,g,52,g
+939,oberweis dairy,peanut butter shake large,131,g,320,mg,710,g,129,g,38,g,60,g,3,g,6,g,109,g
+940,oberweis dairy,peanut butter shake regular,95,g,245,mg,490,g,94,g,26,g,45,g,3,g,4,g,80,g
+941,oberweis dairy,peanut butter large sundae,119,g,125,mg,880,g,174,g,38,g,48,g,2,g,12,g,130,g
+942,oberweis dairy,peanut butter regular sundae,78,g,80,mg,530,g,131,g,24,g,34,g,1,g,7,g,95,g
+943,oberweis dairy,pineapple malt kids,34,g,120,mg,310,g,92,g,14,g,35,g,1,g,1,g,79,g
+944,oberweis dairy,pineapple malt large,110,g,415,mg,490,g,181,g,24,g,69,g,4,g,1,g,157,g
+945,oberweis dairy,pineapple malt regular,81,g,305,mg,330,g,122,g,16,g,51,g,3,g,1,g,106,g
+946,oberweis dairy,pineapple shake kids,32,g,115,mg,210,g,77,g,12,g,34,g,1,g,1,g,69,g
+947,oberweis dairy,pineapple shake large,107,g,405,mg,340,g,158,g,21,g,67,g,4,g,1,g,142,g
+948,oberweis dairy,pineapple shake regular,79,g,300,mg,230,g,107,g,14,g,50,g,3,g,1,g,96,g
+949,oberweis dairy,regular frozen latte large,57,g,125,mg,700,g,148,g,10,g,42,g,1,g,2,g,110,g
+950,oberweis dairy,regular frozen latte regular,36,g,130,mg,220,g,92,g,10,g,23,g,2,g,0,g,77,g
+951,oberweis dairy,regular iced latte large,10,g,35,mg,270,g,25,g,16,g,6,g,0,g,0,g,23,g
+952,oberweis dairy,regular iced latte regular,6,g,25,mg,170,g,17,g,10,g,4,g,0,g,0,g,15,g
+953,oberweis dairy,root beer float,31,g,115,mg,120,g,99,g,6,g,19,g,1,g,0,g,80,g
+954,oberweis dairy,soft serve vanilla ice cream 1 scoop,8,g,35,mg,125,g,38,g,7,g,5,g,0,g,0,g,32,g
+955,oberweis dairy,soft serve vanilla ice cream 2 scoop,13,g,60,mg,210,g,63,g,12,g,9,g,0,g,0,g,54,g
+956,oberweis dairy,soft serve vanilla ice cream 3 scoop,20,g,90,mg,310,g,94,g,18,g,13,g,0,g,0,g,81,g
+957,oberweis dairy,soft serve vanilla ice cream kid scoop,4,g,20,mg,65,g,19,g,4,g,3,g,0,g,0,g,16,g
+958,oberweis dairy,strawberries and cream smoothie,6,g,25,mg,125,g,98,g,7,g,4,g,0,g,3,g,88,g
+959,oberweis dairy,strawberry banana smoothie,0,g,0,mg,10,g,93,g,1,g,0,g,0,g,6,g,75,g
+960,oberweis dairy,strawberry ice cream 1 scoop,23,g,95,mg,70,g,45,g,5,g,16,g,1,g,0,g,41,g
+961,oberweis dairy,strawberry ice cream 2 scoop,39,g,155,mg,115,g,75,g,8,g,26,g,1,g,0,g,68,g
+962,oberweis dairy,strawberry ice cream 3 scoop,59,g,235,mg,180,g,113,g,12,g,39,g,2,g,0,g,101,g
+963,oberweis dairy,strawberry ice cream kid scoop,12,g,45,mg,35,g,23,g,2,g,8,g,0,g,0,g,20,g
+964,oberweis dairy,strawberry malt kids,34,g,120,mg,310,g,89,g,14,g,35,g,1,g,1,g,74,g
+965,oberweis dairy,strawberry malt large,110,g,415,mg,480,g,171,g,24,g,69,g,4,g,2,g,145,g
+966,oberweis dairy,strawberry malt regular,81,g,305,mg,320,g,116,g,16,g,51,g,3,g,1,g,98,g
+967,oberweis dairy,strawberry raspberry smoothie,1,g,0,mg,10,g,72,g,1,g,0,g,0,g,8,g,60,g
+968,oberweis dairy,strawberry shake kids,32,g,115,mg,210,g,74,g,12,g,34,g,1,g,1,g,64,g
+969,oberweis dairy,strawberry shake large,107,g,405,mg,330,g,148,g,21,g,67,g,4,g,2,g,130,g
+970,oberweis dairy,strawberry shake regular,79,g,300,mg,220,g,101,g,14,g,50,g,3,g,1,g,88,g
+971,oberweis dairy,strawberry shortcake shake large,110,g,430,mg,660,g,179,g,24,g,64,g,4,g,2,g,149,g
+972,oberweis dairy,strawberry shortcake shake regular,85,g,335,mg,460,g,130,g,17,g,50,g,3,g,1,g,109,g
+973,oberweis dairy,strawberry smoothie,0,g,0,mg,10,g,67,g,0,g,0,g,0,g,3,g,60,g
+974,oberweis dairy,strawberry large sundae,58,g,215,mg,135,g,81,g,8,g,36,g,2,g,1,g,70,g
+975,oberweis dairy,strawberry regular sundae,43,g,160,mg,90,g,54,g,5,g,27,g,2,g,1,g,47,g
+976,oberweis dairy,traditional hot chocolate,7,g,25,mg,360,g,58,g,13,g,5,g,0,g,2,g,53,g
+977,oberweis dairy,turtle candy large sundae,106,g,195,mg,580,g,113,g,16,g,39,g,2,g,8,g,86,g
+978,oberweis dairy,turtle candy regular sundae,88,g,170,mg,430,g,80,g,13,g,33,g,2,g,6,g,61,g
+979,oberweis dairy,ultimate hot chocolate cinnamon,32,g,115,mg,250,g,68,g,10,g,20,g,1,g,2,g,60,g
+980,oberweis dairy,ultimate hot chocolate marshmallow ice cream,25,g,90,mg,260,g,96,g,10,g,16,g,1,g,2,g,81,g
+981,oberweis dairy,ultimate hot chocolate mint chip ice cream,28,g,95,mg,250,g,75,g,11,g,17,g,1,g,2,g,66,g
+982,oberweis dairy,ultimate latte caramel,31,g,120,mg,370,g,99,g,11,g,20,g,1,g,0,g,76,g
+983,oberweis dairy,ultimate latte turtle,35,g,125,mg,240,g,72,g,11,g,22,g,1,g,1,g,58,g
+984,oberweis dairy,utimate latte vanilla,26,g,100,mg,140,g,36,g,8,g,16,g,1,g,0,g,31,g
+985,oberweis dairy,vanilla frozen latte large,50,g,125,mg,360,g,153,g,11,g,38,g,1,g,0,g,135,g
+986,oberweis dairy,vanilla frozen latte regular,35,g,130,mg,220,g,88,g,10,g,22,g,2,g,0,g,78,g
+987,oberweis dairy,vanilla ice cream 1 scoop,30,g,120,mg,85,g,38,g,6,g,19,g,1,g,0,g,35,g
+988,oberweis dairy,vanilla ice cream 2 scoop,50,g,200,mg,150,g,64,g,11,g,32,g,1,g,0,g,58,g
+989,oberweis dairy,vanilla ice cream 3 scoop,76,g,300,mg,220,g,95,g,16,g,48,g,2,g,0,g,87,g
+990,oberweis dairy,vanilla ice cream kid scoop,15,g,60,mg,45,g,19,g,3,g,10,g,0,g,0,g,17,g
+991,oberweis dairy,vanilla iced latte large,8,g,30,mg,280,g,50,g,14,g,5,g,0,g,0,g,48,g
+992,oberweis dairy,vanilla iced latte regular,5,g,20,mg,170,g,32,g,8,g,3,g,0,g,0,g,30,g
+993,oberweis dairy,vanilla malt kids,34,g,120,mg,320,g,89,g,14,g,35,g,1,g,0,g,76,g
+994,oberweis dairy,vanilla malt large,110,g,415,mg,520,g,171,g,24,g,69,g,4,g,0,g,148,g
+995,oberweis dairy,vanilla malt regular,81,g,305,mg,310,g,116,g,16,g,51,g,3,g,0,g,100,g
+996,oberweis dairy,vanilla shake kids,32,g,115,mg,220,g,74,g,12,g,34,g,1,g,0,g,66,g
+997,oberweis dairy,vanilla shake large,107,g,405,mg,370,g,148,g,21,g,67,g,4,g,0,g,133,g
+998,oberweis dairy,vanilla shake regular,79,g,300,mg,250,g,101,g,14,g,50,g,3,g,0,g,90,g
+999,old chicago,buffalo cauliflower with ranch dressing single,38,g,38,mg,2000,g,14,g,6.2,g,8.2,g,0.2,g,5,g,6.4,g
