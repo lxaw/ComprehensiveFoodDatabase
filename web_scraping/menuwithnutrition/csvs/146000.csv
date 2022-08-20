@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,red mango,pistachio mustachio fro yo mashup,1.5,g,0,mg,140,g,26,g,2,g,1.5,g,0,g,0,g,24,g
+1,red mango,pomegranate dark chocolate nonfat frozen yogurt,0,g,0,mg,120,g,27,g,2,g,0,g,0,g,0,g,26,g
+2,red mango,pomegranate nonfat frozen yogurt,0,g,0,mg,120,g,27,g,2,g,0,g,0,g,0,g,26,g
+3,red mango,pomegranate protector smoothie large,1,g,5,mg,250,g,97,g,7,g,0,g,0,g,6,g,76,g
+4,red mango,pomegranate protector smoothie regular,0.5,g,5,mg,220,g,75,g,5,g,0,g,0,g,4,g,61,g
+5,red mango,pomegranate smoothie large,0.5,g,5,mg,320,g,88,g,7,g,0,g,0,g,2,g,76,g
+6,red mango,pomegranate smoothie regular,0,g,5,mg,250,g,64,g,5,g,0,g,0,g,1,g,57,g
+7,red mango,pumpkin pie lowfat fro yo mashup,1,g,0,mg,140,g,30,g,2,g,0.5,g,0,g,0,g,27,g
+8,red mango,raspberry cheesecake lowfat fro yo mashup,1,g,5,mg,160,g,29,g,2,g,0,g,0,g,0,g,27,g
+9,red mango,raspberry nonfat frozen yogurt,0,g,0,mg,115,g,30,g,2,g,0,g,0,g,0,g,30,g
+10,red mango,raw6 resist juice beauty and the greens,0,g,0,mg,100,g,26,g,2,g,0,g,0,g,0,g,25,g
+11,red mango,raw6 resist juice citrus beets,0,g,0,mg,20,g,43,g,2,g,0,g,0,g,0,g,41,g
+12,red mango,raw6 resist juice cucumber cayenne water,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+13,red mango,raw6 resist juice ginger ninja,0,g,0,mg,135,g,20,g,3,g,0,g,0,g,0,g,19,g
+14,red mango,raw6 resist juice honey almond milk,5,g,0,mg,360,g,16,g,2,g,0,g,0,g,2,g,12,g
+15,red mango,raw6 resist juice sweet kale immunity,0,g,0,mg,75,g,34,g,3,g,0,g,0,g,0,g,32,g
+16,red mango,raw6 restore juice 24 carrot kale,0,g,0,mg,85,g,26,g,3,g,0,g,0,g,0,g,26,g
+17,red mango,raw6 restore juice cool as a cucumber,0,g,0,mg,90,g,35,g,3,g,0,g,0,g,0,g,34,g
+18,red mango,raw6 restore juice heart beeter,0,g,0,mg,90,g,35,g,3,g,0,g,0,g,0,g,34,g
+19,red mango,raw6 restore juice honey cinnamon almond milk,5,g,0,mg,360,g,16,g,2,g,0,g,0,g,2,g,12,g
+20,red mango,raw6 restore juice lemon cucumber water,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,2,g
+21,red mango,raw6 restore juice tropical detox,0,g,0,mg,15,g,53,g,1,g,0,g,0,g,0,g,42,g
+22,red mango,raw6 revive juice dark chocolate almond milk,5,g,0,mg,320,g,21,g,4,g,0,g,0,g,6,g,14,g
+23,red mango,raw6 revive juice ginger energy spark,0,g,0,mg,100,g,38,g,2,g,0,g,0,g,0,g,35,g
+24,red mango,raw6 revive juice lemon apple water,0,g,0,mg,5,g,8,g,0,g,0,g,0,g,0,g,7,g
+25,red mango,raw6 revive juice queen green,0,g,0,mg,115,g,37,g,3,g,0,g,0,g,0,g,31,g
+26,red mango,raw6 revive juice sweet green zing,0,g,0,mg,115,g,37,g,3,g,0,g,0,g,0,g,31,g
+27,red mango,raw6 revive juice sweet pineapple greens,0,g,0,mg,25,g,63,g,2,g,0,g,0,g,0,g,55,g
+28,red mango,skinny strawberry smoothie large,1.5,g,25,mg,35,g,51,g,12,g,0,g,0,g,4,g,35,g
+29,red mango,skinny strawberry smoothie regular,1.5,g,25,mg,30,g,37,g,11,g,0,g,0,g,3,g,26,g
+30,red mango,slamdunk lowfat fro yo mashup,1,g,0,mg,170,g,27,g,2,g,0,g,0,g,0,g,23,g
+31,red mango,southwest bbq salad,9,g,25,mg,920,g,48,g,17,g,1.5,g,0,g,5,g,5,g
+32,red mango,spiced apple cider fro no,0,g,0,mg,5,g,42,g,0,g,0,g,0,g,0,g,40,g
+33,red mango,spiced pumpkin nonfat frozen yogurt,0,g,0,mg,135,g,25,g,2,g,0,g,0,g,0,g,24,g
+34,red mango,spk smoothie smoothie large,0.5,g,0,mg,25,g,55,g,4,g,0,g,0,g,4,g,40,g
+35,red mango,spk smoothie smoothie regular,0,g,0,mg,20,g,36,g,2,g,0,g,0,g,3,g,27,g
+36,red mango,strawberry banana smoothie large,1,g,5,mg,230,g,73,g,6,g,0,g,0,g,5,g,56,g
+37,red mango,strawberry banana smoothie regular,0.5,g,5,mg,190,g,55,g,4,g,0,g,0,g,3,g,44,g
+38,red mango,strawberry energizer smoothie large,0.5,g,0,mg,240,g,73,g,5,g,0,g,0,g,5,g,56,g
+39,red mango,strawberry energizer smoothie regular,0,g,0,mg,200,g,55,g,4,g,0,g,0,g,3,g,44,g
+40,red mango,super pb cup smoothie large,18,g,30,mg,510,g,92,g,23,g,4,g,0,g,5,g,78,g
+41,red mango,super pb cup smoothie regular,14,g,30,mg,390,g,66,g,19,g,3,g,0,g,4,g,57,g
+42,red mango,the mighty green light smoothie large,14,g,0,mg,30,g,61,g,5,g,2,g,0,g,12,g,33,g
+43,red mango,the mighty green light smoothie regular,7,g,0,mg,20,g,42,g,3,g,1,g,0,g,7,g,23,g
+44,red mango,the mighty green smoothie large,14,g,5,mg,140,g,76,g,10,g,2,g,0,g,12,g,61,g
+45,red mango,the mighty green smoothie regular,7,g,5,mg,105,g,53,g,7,g,1,g,0,g,7,g,44,g
+46,red mango,tropical frozen yogurt parfait regular,4.5,g,0,mg,150,g,67,g,6,g,0,g,0,g,5,g,47,g
+47,red mango,tropical mango smoothie large,1,g,5,mg,230,g,71,g,5,g,0,g,0,g,3,g,62,g
+48,red mango,tropical mango smoothie regular,0.5,g,5,mg,190,g,53,g,4,g,0,g,0,g,2,g,48,g
+49,red mango,tropical pineapple smoothie large,0.5,g,5,mg,230,g,86,g,6,g,0,g,0,g,5,g,66,g
+50,red mango,tropical pineapple smoothie regular,0.5,g,5,mg,190,g,65,g,5,g,0,g,0,g,3,g,52,g
+51,red mango,vanilla bean nonfat frozen yogurt,0,g,0,mg,120,g,29,g,2,g,0,g,0,g,0,g,29,g
+52,red mango,vanilla latte lowfat fro yo mashups,1,g,0,mg,150,g,25,g,2,g,1,g,0,g,0,g,24,g
+53,red mango,white chocolate nonfat fro yo mashup,1,g,0,mg,130,g,29,g,2,g,1,g,0,g,0,g,28,g
+54,red mango,white peach nonfat frozen yogurt,0,g,0,mg,115,g,29,g,2,g,0,g,0,g,0,g,28,g
+55,red robin,jump starter fresh fried zucchini sticks,40,g,15,mg,610,g,19,g,4,g,7,g,0,g,2,g,4,g
+56,red robin,pretzel bites with beer cheese,20,g,40,mg,1600,g,97,g,22,g,9,g,0,g,6,g,6,g
+57,red robin,towering onion rings,121,g,35,mg,3340,g,171,g,19,g,21,g,0,g,36,g,22,g
+58,red robin,reds bold boneless wings with whiskey river bbq sauce large,60,g,130,mg,3000,g,115,g,54,g,11,g,0,g,21,g,21,g
+59,red robin,jump starter cheese sticks,32,g,65,mg,1590,g,53,g,25,g,12,g,0,g,6,g,7,g
+60,red robin,fried pickle nickels with campfire mayo,51,g,125,mg,3250,g,70,g,8,g,9,g,0,g,6,g,7,g
+61,red robin,creamy artichoke and spinach dip as served,47,g,35,mg,1390,g,72,g,17,g,14,g,1,g,17,g,7,g
+62,red robin,sweet potato fries,15,g,0,mg,1040,g,62,g,3,g,2.5,g,0,g,5,g,35,g
+63,red robin,fresh fried jalapeno coins,57,g,20,mg,2390,g,46,g,6,g,10,g,0,g,11,g,4,g
+64,red robin,bar wings n yukon chips with buzz sauce large,85,g,475,mg,2900,g,24,g,93,g,25,g,1,g,4,g,2,g
+65,red robin,jump starter wisconsin cheese curds,62,g,110,mg,1240,g,11,g,27,g,23,g,1,g,1,g,2,g
+66,red robin,reds bold boneless wings with banzai sauce large,55,g,130,mg,4270,g,137,g,56,g,11,g,0,g,19,g,46,g
+67,red robin,zucchini sticks,40,g,15,mg,610,g,19,g,4,g,7,g,0,g,2,g,4,g
+68,red robin,fresh fried cheese sticks,32,g,65,mg,1590,g,53,g,25,g,12,g,0,g,6,g,7,g
+69,red robin,yukon chips and french onion dip,62,g,0,mg,1703,g,46,g,7,g,0,g,0,g,4,g,3,g
+70,red robin,bar wings n yukon chips with whiskey river bbq sauce large,72,g,465,mg,2380,g,51,g,94,g,17,g,1,g,5,g,21,g
+71,red robin,guacamole salsa and chips,37,g,0,mg,1560,g,74,g,7,g,8,g,0,g,22,g,5,g
+72,red robin,chili chili cheese fries,97,g,140,mg,2640,g,116,g,50,g,30,g,1,g,30,g,6,g
+73,red robin,fresh fried mushrooms,23,g,0,mg,870,g,48,g,5,g,4,g,0,g,2,g,27,g
+74,red robin,jump starter fried pickle nickels,46,g,80,mg,2300,g,49,g,5,g,8,g,0,g,4,g,10,g
+75,red robin,jump starter sweet potato fries,15,g,0,mg,1040,g,62,g,3,g,3,g,0,g,5,g,35,g
+76,red robin,jump starter fresh fried mushrooms,23,g,0,mg,870,g,48,g,5,g,4,g,0,g,2,g,27,g
+77,red robin,voodoo fries with ranch sauce,85,g,100,mg,2990,g,114,g,36,g,23,g,1,g,29,g,8,g
+78,red robin,cheddar bacon skins,76,g,180,mg,2250,g,36,g,49,g,37,g,2,g,4,g,2,g
+79,red robin,reds bold bonless wings with buzz sauce large,73,g,140,mg,3530,g,88,g,54,g,19,g,1,g,20,g,3,g
+80,red robin,chili con queso,37,g,85,mg,2060,g,61,g,23,g,18,g,1,g,13,g,9,g
+81,red robin,nacho m g,71,g,145,mg,3030,g,115,g,43,g,33,g,2,g,27,g,11,g
+82,red robin,just in quesadilla,65,g,175,mg,3080,g,78,g,63,g,32,g,0,g,11,g,7,g
+83,red robin,saucy pork riblets,77,g,0,mg,2950,g,81,g,82,g,0,g,0,g,5,g,43,g
+84,red robin,voodoo fries with fiery ghost pepper sauce,67,g,90,mg,3260,g,120,g,35,g,20,g,1,g,30,g,11,g
+85,red robin,great northern poutine fries,83,g,80,mg,1310,g,112,g,31,g,25,g,1,g,28,g,3,g
+86,red robin,bar wings n yukon chips with banzai sauce large,67,g,465,mg,3640,g,73,g,95,g,16,g,1,g,4,g,45,g
+87,red robin,jump starter clamstrips,53,g,40,mg,1500,g,44,g,11,g,9,g,0,g,2,g,4,g
+88,red robin,jump starter fried jalapeno coins,57,g,20,mg,2390,g,46,g,6,g,10,g,0,g,11,g,4,g
+89,red robin,monster chocolate milkshake,39,g,150,mg,380,g,151,g,20,g,24,g,1,g,3,g,129,g
+90,red robin,classic kid chocolate milkshake,21,g,85,mg,190,g,78,g,10,g,13,g,1,g,1,g,67,g
+91,red robin,monster strawberry milkshake,39,g,150,mg,350,g,131,g,19,g,24,g,1,g,2,g,117,g
+92,red robin,monster nana nana moo moo milkshake,38,g,150,mg,370,g,162,g,20,g,23,g,1,g,2,g,141,g
+93,red robin,classic kid vanilla milkshake,21,g,85,mg,17,g,69,g,9,g,13,g,1,g,0,g,63,g
+94,red robin,coconut pineapple smoothie,17,g,30,mg,140,g,97,g,3,g,14,g,0,g,2,g,91,g
+95,red robin,chillin mango smoothie,0,g,0,mg,10,g,57,g,1,g,0,g,0,g,0,g,41,g
+96,red robin,monster vanilla milkshake,39,g,150,mg,350,g,134,g,18,g,24,g,1,g,1,g,120,g
+97,red robin,mayan mango smoothie,12,g,20,mg,120,g,121,g,3,g,10,g,0,g,1,g,113,g
+98,red robin,classic kid strawberry milkshake,21,g,85,mg,170,g,73,g,10,g,13,g,1,g,1,g,66,g
+99,red robin,monster salted caramel milkshake,39,g,155,mg,1460,g,154,g,19,g,25,g,1,g,1,g,120,g
+100,red robin,monster peach or raspberry milkshake,39,g,150,mg,350,g,139,g,18,g,24,g,1,g,1,g,124,g
+101,red robin,classic kid caramel milkshake,21,g,85,mg,740,g,82,g,10,g,13,g,1,g,0,g,64,g
+102,red robin,hawaiian heart throb smoothie,2,g,0,mg,30,g,82,g,1,g,2,g,0,g,1,g,74,g
+103,red robin,hawaiian heart throb smoothie,2,g,0,mg,3,g,82,g,1,g,2,g,0,g,1,g,74,g
+104,red robin,classic kid nana nana moo moo milkshake,20,g,85,mg,190,g,92,g,10,g,12,g,1,g,1,g,80,g
+105,red robin,monster mint brownie milkshake,56,g,180,mg,680,g,155,g,22,g,32,g,2,g,5,g,124,g
+106,red robin,classic kid banana milkshake,21,g,85,mg,180,g,78,g,9,g,13,g,1,g,0,g,70,g
+107,red robin,classic kid mint brownie milkshake,29,g,100,mg,340,g,84,g,11,g,16,g,1,g,2,g,68,g
+108,red robin,very berried oj frostie,0,g,0,mg,5,g,82,g,1,g,0,g,0,g,0,g,65,g
+109,red robin,mocha smoothie,12,g,60,mg,210,g,123,g,8,g,7,g,0,g,0,g,90,g
+110,red robin,classic kid peach or raspberry milkshake,21,g,85,mg,180,g,78,g,9,g,13,g,1,g,0,g,71,g
+111,red robin,monster banana milkshake,39,g,150,mg,350,g,139,g,18,g,24,g,1,g,1,g,124,g
+112,red robin,dreamy orange smoothie,9,g,40,mg,80,g,68,g,5,g,5,g,0,g,0,g,64,g
+113,red robin,cinnamon sugar doh rings,51,g,10,mg,1230,g,257,g,19,g,31,g,1,g,6,g,123,g
+114,red robin,mountain high mudd pie,59,g,125,mg,610,g,195,g,16,g,39,g,1,g,7,g,133,g
+115,red robin,gooey chocolate brownie cake,36,g,100,mg,350,g,135,g,10,g,15,g,1,g,2,g,103,g
+116,red robin,chocolate fruffles,40,g,70,mg,310,g,119,g,11,g,31,g,0,g,8,g,94,g
+117,red robin,cinnamon sugar doh ring shorty,25,g,5,mg,610,g,129,g,10,g,15,g,0,g,3,g,61,g
+118,red robin,double berry cheesecake,41,g,150,mg,440,g,65,g,11,g,22,g,2,g,2,g,56,g
+119,red robin,steak fries,17,g,0,mg,220,g,49,g,5,g,4,g,0,g,13,g,1,g
+120,red robin,sweet potato fries side,29,g,0,mg,810,g,70,g,6,g,5,g,0,g,9,g,24,g
+121,red robin,kids steak fries,10,g,0,mg,115,g,29,g,3,g,2,g,0,g,8,g,0,g
+122,red robin,kids cluck a doodles without sides,29,g,60,mg,1060,g,38,g,30,g,5,g,0,g,3,g,1,g
+123,red robin,kids mac it yours without sides,19,g,15,mg,860,g,39,g,13,g,5,g,0,g,1,g,11,g
+124,red robin,kids corn doggies without sides,33,g,105,mg,1250,g,43,g,16,g,8,g,0,g,2,g,7,g
+125,red robin,kids mandarin oranges,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,1,g,5,g
+126,red robin,kids sundae,10,g,40,mg,85,g,49,g,5,g,6,g,0,g,1,g,42,g
+127,red robin,kids reds chicken burger without sides,11,g,100,mg,780,g,31,g,28,g,3,g,0,g,1,g,5,g
+128,red robin,kids m v cheese pizza without sides,18,g,50,mg,1060,g,52,g,22,g,11,g,0,g,3,g,11,g
+129,red robin,kids reds beef burger without sides,18,g,40,mg,420,g,27,g,16,g,6,g,0,g,0,g,4,g
+130,red robin,kids chocolate milk,3,g,15,mg,140,g,50,g,11,g,2,g,0,g,1,g,44,g
+131,red robin,kids grilled chicken stickens with ranch without sides,27,g,125,mg,970,g,6,g,29,g,5,g,0,g,1,g,2,g
+132,red robin,kids m v pepperoni pizza without sides,21,g,55,mg,1180,g,52,g,24,g,12,g,0,g,3,g,11,g
+133,red robin,kids strawberry smoothie,0,g,0,mg,5,g,59,g,0,g,0,g,0,g,0,g,54,g
+134,red robin,kids meatballs on a stick with cheese sauce without sides,43,g,100,mg,1310,g,30,g,28,g,17,g,0,g,3,g,6,g
+135,red robin,kids reds veggie burger without sides,14,g,0,mg,600,g,42,g,10,g,3,g,0,g,4,g,8,g
+136,red robin,kids pineapple juice,0,g,0,mg,0,g,16,g,0,g,0,g,0,g,0,g,12,g
+137,red robin,kids orange juice,0,g,0,mg,10,g,13,g,1,g,0,g,0,g,0,g,12,g
+138,red robin,kids grilled cheesy sandwich without sides,28,g,45,mg,1430,g,45,g,17,g,11,g,1,g,2,g,3,g
+139,red robin,kids side salad without dressing,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,1,g
+140,red robin,kids reds turkey burger without sides,27,g,100,mg,86,g,30,g,28,g,7,g,0,g,0,g,4,g
+141,red robin,kids mac it yours with broccoli,20,g,15,mg,860,g,40,g,13,g,5,g,0,g,1,g,11,g
+142,red robin,kids freckled fruit salad,0,g,0,mg,0,g,16,g,1,g,0,g,0,g,1,g,14,g
+143,red robin,kids grilled chicken stickens with teriyaki sauce without sides,2,g,100,mg,2780,g,52,g,28,g,1,g,0,g,1,g,42,g
+144,red robin,kids corn,0,g,0,mg,0,g,8,g,1,g,0,g,0,g,1,g,1,g
+145,red robin,kids cod crunchers without sides,52,g,85,mg,1080,g,44,g,20,g,9,g,0,g,2,g,5,g
+146,red robin,kids meatballs on a stick without sides,32,g,70,mg,930,g,26,g,23,g,11,g,0,g,3,g,4,g
+147,red robin,kids steamed broccoli,0,g,0,mg,15,g,3,g,2,g,0,g,0,g,1,g,1,g
+148,red robin,kids milk,4,g,15,mg,150,g,17,g,11,g,2,g,0,g,0,g,17,g
+149,red robin,kids hi c fruit punch,0,g,0,mg,15,g,25,g,0,g,0,g,0,g,0,g,26,g
+150,red robin,kids apple juice,0,g,0,mg,10,g,12,g,0,g,0,g,0,g,0,g,12,g
+151,red robin,kids cranberry juice,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,15,g
+152,red robin,kids mac it yours with tomatoes without sides,20,g,15,mg,860,g,40,g,13,g,5,g,0,g,1,g,12,g
+153,red robin,kids lil appetites cluck a doodle without sides,20,g,40,mg,780,g,26,g,20,g,4,g,0,g,2,g,1,g
+154,red robin,kids lil appetites corn doggies without sides,22,g,70,mg,830,g,29,g,10,g,5,g,0,g,1,g,5,g
+155,red robin,kids lil appetites meatballs on a stick with marinara sauce without sides,22,g,45,mg,870,g,26,g,17,g,7,g,0,g,3,g,8,g
+156,red robin,kids lil appetites meatballs on a stick with teriyaki sauce without sides,22,g,45,mg,2890,g,66,g,19,g,7,g,0,g,2,g,43,g
+157,red robin,kids lil appetites meatballs on a stick with cheese sauce without sides,32,g,80,mg,1000,g,22,g,20,g,13,g,0,g,2,g,4,g
+158,red robin,kids meatballs on a stick with marinara sauce without sides,33,g,70,mg,1190,g,34,g,25,g,11,g,0,g,4,g,9,g
+159,red robin,kids swirly twirly pasta without sides,3,g,0,mg,550,g,71,g,15,g,1,g,0,g,7,g,12,g
+160,red robin,kids meatballs on a stick with teriyaki sauce without sides,32,g,70,mg,3200,g,74,g,27,g,11,g,0,g,3,g,45,g
+161,red robin,kids lil appetites meatballs on a stick without sides,22,g,45,mg,620,g,18,g,16,g,7,g,0,g,2,g,2,g
+162,red robin,classic sesame bun,5,g,0,mg,480,g,46,g,7,g,1,g,0,g,2,g,7,g
+163,red robin,add on ancient grain veggie patty,5,g,0,mg,320,g,15,g,6,g,1,g,0,g,4,g,4,g
+164,red robin,gluten free roll,5,g,0,mg,470,g,39,g,4,g,0,g,0,g,3,g,6,g
+165,red robin,ciabatta bread,2,g,0,mg,370,g,31,g,8,g,0,g,0,g,2,g,3,g
+166,red robin,monster beef patty,20,g,90,mg,80,g,0,g,27,g,8,g,1,g,0,g,0,g
+167,red robin,onion bun,6,g,0,mg,410,g,45,g,9,g,1,g,0,g,3,g,2,g
+168,red robin,cheddar cheese,9,g,30,mg,180,g,1,g,7,g,5,g,0,g,0,g,0,g
+169,red robin,whole grain bun,4,g,0,mg,420,g,52,g,8,g,1,g,0,g,2,g,5,g
+170,red robin,telera roll,4,g,0,mg,480,g,42,g,8,g,2,g,0,g,2,g,4,g
+171,red robin,bleu cheese crumbles,12,g,35,mg,570,g,1,g,9,g,8,g,0,g,0,g,0,g
+172,red robin,add on turkey,2,g,35,mg,590,g,0,g,16,g,1,g,0,g,0,g,0,g
+173,red robin,american cheese,12,g,35,mg,680,g,1,g,7,g,7,g,0,g,0,g,1,g
+174,red robin,pepper jack cheese,8,g,25,mg,190,g,1,g,6,g,5,g,0,g,0,g,0,g
+175,red robin,add on black beans,0,g,0,mg,130,g,17,g,6,g,0,g,0,g,4,g,1,g
+176,red robin,provolone cheese,6,g,20,mg,200,g,0,g,6,g,4,g,0,g,0,g,0,g
+177,red robin,swiss cheese,7,g,25,mg,0,g,1,g,8,g,5,g,0,g,0,g,0,g
+178,red robin,add on bacon,5,g,15,mg,250,g,0,g,5,g,2,g,0,g,0,g,0,g
+179,red robin,jalapeno cornmeal kaiser roll,3,g,0,mg,20,g,45,g,11,g,1,g,0,g,2,g,6,g
+180,red robin,ensenada chicken platter entree 1breast as served,11,g,110,mg,1300,g,19,g,29,g,3,g,0,g,4,g,6,g
+181,red robin,clucks and fries entree as served,82,g,95,mg,2200,g,102,g,47,g,15,g,0,g,17,g,4,g
+182,red robin,ensenada chicken platter entree 2 breasts as served,17,g,210,mg,2260,g,26,g,54,g,5,g,0,g,5,g,8,g
+183,red robin,arctic cod fish and steak fries as served,93,g,150,mg,2850,g,136,g,45,g,16,g,1,g,19,g,11,g
+184,red robin,sear ious salmon entree without sides,36,g,0,mg,760,g,7,g,34,g,6,g,0,g,1,g,3,g
+185,red robin,classic creamy mac n cheese entree,81,g,195,mg,2770,g,89,g,52,g,47,g,3,g,5,g,9,g
+186,red robin,chicken fajitas,39,g,150,mg,2210,g,89,g,66,g,11,g,0,g,9,g,8,g
+187,red robin,prime rib dip entree with steak fries,29,g,120,mg,2890,g,68,g,52,g,13,g,0,g,9,g,15,g
+188,red robin,buffalo style clucks and fries entree as served,114,g,115,mg,4060,g,103,g,48,g,28,g,1,g,18,g,3,g
+189,red robin,clucks and shrimp entree as served,59,g,150,mg,2750,g,72,g,37,g,10,g,0,g,5,g,18,g
+190,red robin,clamstrips entree with steak fries,116,g,70,mg,4060,g,175,g,38,g,20,g,1,g,18,g,10,g
+191,red robin,pub mac n cheese with house salad,43,g,130,mg,1620,g,71,g,30,g,26,g,2,g,8,g,12,g
+192,red robin,pub mac n cheese with caesar salad,60,g,150,mg,1920,g,76,g,34,g,29,g,2,g,8,g,12,g
+193,red robin,pasta alfredo,61,g,165,mg,1490,g,125,g,36,g,36,g,2,g,7,g,7,g
+194,red robin,southwest chicken pasta entree,67,g,185,mg,2930,g,137,g,59,g,34,g,2,g,19,g,8,g
+195,red robin,honey mustard poppyseed dressing,25,g,20,mg,410,g,14,g,0,g,4,g,0,g,0,g,12,g
+196,red robin,ranch dressing,25,g,15,mg,410,g,2,g,1,g,4,g,0,g,0,g,2,g
+197,red robin,balsamic vinegar dressing,11,g,0,mg,660,g,6,g,0,g,1,g,0,g,0,g,4,g
+198,red robin,bleu cheese dressing,34,g,30,mg,570,g,0,g,2,g,7,g,0,g,0,g,0,g
+199,red robin,caesar dressing,30,g,30,mg,420,g,2,g,2,g,5,g,0,g,0,g,0,g
+200,red robin,salsa ranch dressing,15,g,15,mg,270,g,2,g,1,g,4,g,0,g,0,g,1,g
+201,red robin,italian dressing,18,g,0,mg,480,g,6,g,0,g,3,g,0,g,0,g,4,g
+202,red robin,thousand island dressing,20,g,10,mg,290,g,6,g,0,g,3,g,0,g,0,g,5,g
+203,red robin,lite ranch dressing,15,g,15,mg,630,g,4.5,g,1.5,g,3,g,0,g,0,g,1.5,g
+204,red robin,dijon vinaigrette dressing,17,g,15,mg,720,g,13,g,0,g,3,g,0,g,0,g,13,g
+205,red robin,avo cobb o salad without dressing with garlic toast,29,g,315,mg,1380,g,30,g,48,g,11,g,0,g,9,g,9,g
+206,red robin,crispy chicken tender salad without dressing with garlic toast,47,g,0,mg,1545,g,45,g,54,g,0,g,0,g,6,g,7,g
+207,red robin,simply grilled chicken salad without dressing with garlic toast,15,g,0,mg,766,g,40,g,44,g,0,g,0,g,6,g,8,g
+208,red robin,southwest sombrero salad without side bread or dressing,48,g,145,mg,1840,g,47,g,37,g,13,g,0,g,13,g,11,g
+209,red robin,mighty caesar salad with caesar dressing and garlic toast,50,g,150,mg,1300,g,23,g,34,g,10,g,0,g,6,g,5,g
+210,red robin,house salad,5,g,15,mg,150,g,10,g,6,g,3,g,0,g,2,g,3,g
+211,red robin,classic wedge salad without dressing or side bread,35,g,30,mg,700,g,14,g,8,g,7,g,0,g,3,g,7,g
+212,red robin,whiskey river bbq chicken salad without side bread or dressing,38,g,0,mg,1471,g,64,g,46,g,0,g,0,g,12,g,17,g
+213,red robin,red robin gourmet cheeseburger without steak fries,55,g,135,mg,1480,g,47,g,44,g,20,g,1,g,1,g,8,g
+214,red robin,banzai burger without steak fries,63,g,130,mg,2000,g,74,g,43,g,20,g,2,g,3,g,30,g
+215,red robin,royal red robin burger without steak fries,80,g,330,mg,173,g,51,g,52,g,25,g,2,g,3,g,9,g
+216,red robin,whiskey river bbq burger without steak fries,78,g,130,mg,1610,g,75,g,44,g,22,g,2,g,5,g,8,g
+217,red robin,veggie burger without steak fries,87,g,35,mg,1010,g,71,g,26,g,16,g,1,g,8,g,12,g
+218,red robin,simply grilled chicken sandwich with steak fries,34,g,100,mg,1480,g,103,g,37,g,8,g,0,g,17,g,10,g
+219,red robin,reds double tavern burger without steak fries,42,g,115,mg,1210,g,31,g,35,g,16,g,1,g,1,g,6,g
+220,red robin,bacon cheeseburger without steak fries,71,g,50,mg,1780,g,50,g,48,g,24,g,2,g,3,g,9,g
+221,red robin,california chicken sandwich without steak fries,41,g,135,mg,1990,g,56,g,44,g,11,g,0,g,5,g,9,g
+222,red robin,crispy chicken sandwich without steak fries,78,g,75,mg,2180,g,120,g,39,g,15,g,0,g,18,g,10,g
+223,red robin,teriyaki chicken sandwich without steak fries,44,g,130,mg,2030,g,78,g,41,g,12,g,0,g,4,g,31,g
+224,red robin,burnin love burger without steak fries,58,g,130,mg,1750,g,60,g,46,g,18,g,2,g,6,g,9,g
+225,red robin,keep it simple beef burger without steak fries,34,g,90,mg,1040,g,50,g,35,g,11,g,1,g,3,g,9,g
+226,red robin,guacamole bacon burger without steak fries,60,g,135,mg,1370,g,54,g,48,g,20,g,2,g,4,g,10,g
+227,red robin,grilled turkey burger without steak fries,40,g,110,mg,1260,g,59,g,33,g,0,g,0,g,3,g,7,g
+228,red robin,the madlove burger without steak fries,57,g,200,mg,2280,g,58,g,70,g,23,g,3,g,7,g,19,g
+229,red robin,the southern charm burger without steak fries,59,g,170,mg,2820,g,86,g,57,g,20,g,2,g,6,g,38,g
+230,red robin,black and bleu burger without steak fries,57,g,160,mg,2110,g,51,g,51,g,19,g,2,g,10,g,12,g
+231,red robin,whiskey river bbq chicken sandwich without steak fries,60,g,135,mg,1820,g,79,g,41,g,15,g,0,g,5,g,19,g
+232,red robin,sauteed shroom burger without steak fries,49,g,120,mg,1220,g,56,g,46,g,19,g,2,g,6,g,11,g
+233,red robin,smoke and pepper burger without steak fries,49,g,170,mg,3300,g,55,g,59,g,19,g,2,g,3,g,22,g
+234,red robin,burnin love chicken burger without steak fries,40,g,135,mg,2170,g,64,g,43,g,11,g,0,g,7,g,10,g
+235,red robin,the wedge burger without steak fries,28,g,100,mg,710,g,12,g,33,g,9,g,1,g,5,g,6,g
+236,red robin,the big tavern burger without steak fries,54,g,125,mg,1550,g,53,g,41,g,19,g,2,g,3,g,11,g
+237,red robin,crispy arctic cod sandwich without steak fries,52,g,75,mg,1640,g,92,g,28,g,10,g,0,g,5,g,12,g
+238,red robin,blackened chicken sandwich without steak fries,32,g,105,mg,2150,g,50,g,39,g,9,g,0,g,1,g,8,g
+239,red robin,bleu ribbon burger without steak fries,71,g,135,mg,1930,g,74,g,47,g,23,g,2,g,5,g,12,g
+240,red robin,a 1 peppercorn burger without steak fries,69,g,135,mg,2000,g,71,g,50,g,22,g,2,g,5,g,9,g
+241,red robin,lone star burger without steak fries,55,g,125,mg,1650,g,50,g,42,g,18,g,2,g,2,g,8,g
+242,red robin,turkey club burger without steak fries,58,g,135,mg,1620,g,52,g,41,g,14,g,0,g,4,g,8,g
+243,red robin,all american patty melt burger,80,g,0,mg,1555,g,63,g,44,g,0,g,0,g,5,g,9,g
+244,red robin,citrus harissa salmon burger without steak fries,58,g,10,mg,1210,g,49,g,41,g,11,g,0,g,3,g,5,g
+245,red robin,baja turkey club sandwich,49,g,0,mg,2529,g,48,g,51,g,0,g,0,g,3,g,4,g
+246,red robin,bruschetta chicken sandwich without steak fries,69,g,120,mg,1200,g,36,g,39,g,12,g,0,g,3,g,4,g
+247,red robin,the big pig out burger without steak fries,62,g,150,mg,1940,g,53,g,49,g,21,g,2,g,3,g,11,g
+248,red robin,rajin cajun chicken sandwich without steak fries,75,g,110,mg,380,g,73,g,45,g,22,g,2,g,3,g,8,g
+249,red robin,pig out double tavern burger without steak fries,48,g,135,mg,1490,g,31,g,41,g,18,g,1,g,1,g,7,g
+250,red robin,four cheese melt without steak fries,41,g,85,mg,1130,g,50,g,36,g,20,g,1,g,2,g,1,g
+251,red robin,sub a salmon fillet sandwich without steak fries,33,g,0,mg,660,g,2,g,33,g,6,g,0,g,0,g,0,g
+252,red robin,chili chili cheeseburger without steak fries,49,g,140,mg,1660,g,61,g,50,g,17,g,2,g,5,g,10,g
+253,red robin,red robin gourmet cheeseburger with relish without steak fries,56,g,130,mg,1870,g,59,g,44,g,21,g,2,g,3,g,16,g
+254,red robin,wild west buffalo burger without steak fries,54,g,100,mg,740,g,73,g,46,g,17,g,0,g,7,g,11,g
+255,red robin,fiery ghost double tavern burger without steak fries,39,g,110,mg,1130,g,36,g,36,g,15,g,2,g,2,g,7,g
+256,red robin,philly cheesesteak sandwich without steak fries,62,g,110,mg,3040,g,54,g,43,g,20,g,1,g,3,g,7,g
+257,red robin,prime chophouse burger without steak fries,68,g,115,mg,1460,g,82,g,46,g,20,g,2,g,8,g,8,g
+258,red robin,the marco pollo burger without steak fries,34,g,170,mg,1910,g,49,g,54,g,11,g,0,g,3,g,6,g
+259,red robin,ooey gooey cheeseburger without steak fries,53,g,125,mg,1530,g,34,g,39,g,20,g,1,g,1,g,8,g
+260,red robin,chicken caesar sandwich,42,g,0,mg,1832,g,54,g,38,g,0,g,0,g,3,g,3,g
+261,red robin,wrappin california club sandwich,58,g,100,mg,2300,g,61,g,42,g,14,g,0,g,7,g,3,g
+262,red robin,the big taco tavern burger without steak fries,47,g,120,mg,1580,g,63,g,43,g,16,g,1,g,6,g,9,g
+263,red robin,the big ghost burger without steak fries,47,g,120,mg,1700,g,62,g,42,g,17,g,2,g,6,g,12,g
+264,red robin,taco double tavern burger without steak fries,36,g,110,mg,1030,g,35,g,37,g,14,g,1,g,2,g,5,g
+265,red robin,chicken caprese sandwich,46,g,170,mg,1740,g,47,g,51,g,16,g,0,g,3,g,7,g
+266,red robin,5 alarm burger without steak fries,49,g,130,mg,1400,g,51,g,41,g,17,g,2,g,2,g,9,g
+267,red robin,smoky jack double tavern burger without steak fries,40,g,115,mg,1180,g,40,g,36,g,15,g,1,g,1,g,13,g
+268,red robin,sir acha double tavern burger without steak fries,48,g,115,mg,1440,g,36,g,36,g,17,g,1,g,1,g,7,g
+269,red robin,the big sir acha tavern burger without steak fries,66,g,130,mg,1920,g,62,g,42,g,21,g,2,g,4,g,11,g
+270,red robin,the big smoky jack tavern burger without steak fries,50,g,125,mg,1650,g,62,g,42,g,18,g,2,g,3,g,18,g
+271,red robin,campfire dipping sauce,23,g,10,mg,590,g,11,g,1,g,4,g,0,g,1,g,8,g
+272,red robin,reds secret tavern dipping sauce,20,g,10,mg,290,g,6,g,0,g,3,g,0,g,0,g,5,g
+273,red robin,buzzard dipping sauce,16,g,0,mg,1420,g,0,g,0,g,7,g,0,g,0,g,0,g
+274,red robin,chipotle dipping sauce,16,g,20,mg,450,g,4,g,0,g,2,g,0,g,0,g,1,g
+275,red robin,sweet and spicy dipping ketchup,0,g,0,mg,620,g,27,g,0,g,0,g,0,g,0,g,23,g
+276,red robin,ranch dipping sauce,25,g,15,mg,410,g,2,g,1,g,4,g,0,g,0,g,2,g
+277,red robin,smoke and pepper dipping kechup,0,g,0,mg,930,g,25,g,2,g,0,g,0,g,1,g,20,g
+278,red robin,roasted garlic dipping sauce,27,g,15,mg,360,g,3,g,1,g,4,g,0,g,0,g,0,g
+279,red robin,sweet pepper thai dipping sauce,0,g,0,mg,630,g,28,g,0,g,0,g,0,g,0,g,24,g
+280,red robin,smoked bacon dipping sauce,29,g,35,mg,670,g,5,g,9,g,6,g,0,g,0,g,4,g
+281,red robin,whiskey river bbq chicken wrap without sides,59,g,120,mg,2270,g,74,g,47,g,17,g,1,g,4,g,10,g
+282,red robin,caesars chicken wrap without sides,43,g,90,mg,1640,g,57,g,36,g,8,g,0,g,3,g,2,g
+283,red robin,nacho chicken bacon wrap without steak fries,64,g,115,mg,2860,g,79,g,49,g,22,g,0,g,5,g,4,g
+284,red robin,5 alarm burger,55,g,130,mg,1250,g,48,g,41,g,18,g,1.5,g,3,g,11,g
+285,red robin,a 1 peppercorn burger,68,g,150,mg,1610,g,67,g,52,g,21,g,1.5,g,4,g,10,g
+286,red robin,add bacon,5,g,20,mg,270,g,1,g,5,g,1.5,g,0,g,0,g,1,g
+287,red robin,add bacon bits,9,g,35,mg,430,g,3,g,12,g,3.5,g,0,g,0,g,3,g
+288,red robin,add sliced turkey,1.5,g,35,mg,590,g,0,g,16,g,0.5,g,0,g,0,g,0,g
+289,red robin,alaskan amber 12 oz,0,g,0,mg,0,g,16,g,3,g,0,g,0,g,0,g,0,g
+290,red robin,alaskan amber 16 oz,0,g,0,mg,0,g,21,g,4,g,0,g,0,g,0,g,0,g
+291,red robin,american cheese,10,g,30,mg,570,g,1,g,6,g,6,g,0,g,0,g,1,g
+292,red robin,ancient grain veggie patty,4,g,0,mg,340,g,17,g,7,g,0.5,g,0,g,7,g,5,g
+293,red robin,angry orchard hard cider 12 oz bottle,0,g,0,mg,10,g,25,g,0,g,0,g,0,g,0,g,20,g
+294,red robin,angry orchard hard cider 16 oz,0,g,0,mg,15,g,33,g,0,g,0,g,0,g,1,g,27,g
+295,red robin,angry orchard hard cider 22 oz,0,g,0,mg,20,g,45,g,0,g,0,g,0,g,2,g,37,g
+296,red robin,angry orchard hard cider 32 oz,0,g,0,mg,30,g,66,g,0,g,0,g,0,g,3,g,54,g
+297,red robin,angry orchard rose cider 12 oz,0,g,0,mg,15,g,17,g,0,g,0,g,0,g,1,g,13,g
+298,red robin,angry orchard rose cider 16 oz,0,g,0,mg,20,g,23,g,0,g,0,g,0,g,1,g,17,g
+299,red robin,angry orchard rose cider 22 oz,0,g,0,mg,25,g,31,g,0,g,0,g,0,g,2,g,24,g
+300,red robin,angry orchard rose cider 32 oz,0,g,0,mg,35,g,45,g,0,g,0,g,0,g,3,g,35,g
+301,red robin,arctic cod fish and chips,89,g,135,mg,1970,g,136,g,46,g,15,g,1,g,11,g,11,g
+302,red robin,avo cobb o salad,28,g,310,mg,1350,g,34,g,49,g,11,g,0,g,8,g,10,g
+303,red robin,bacon cheeseburger,71,g,170,mg,1730,g,47,g,51,g,24,g,2,g,2,g,10,g
+304,red robin,baileys irish cream shake,25,g,90,mg,220,g,75,g,12,g,14,g,1,g,1,g,64,g
+305,red robin,baked potato soup bowl,29,g,70,mg,1260,g,39,g,14,g,14,g,0,g,3,g,9,g
+306,red robin,baked potato soup cup,15,g,40,mg,690,g,23,g,8,g,7,g,0,g,2,g,5,g
+307,red robin,balsamic vinegar dressing 2 oz,9,g,0,mg,490,g,6,g,0,g,1.5,g,0,g,0,g,4,g
+308,red robin,balsamic vinegar dressing 3 oz,14,g,0,mg,740,g,9,g,0,g,2,g,0,g,1,g,7,g
+309,red robin,banana malt classic kid,20,g,80,mg,200,g,83,g,10,g,13,g,0.5,g,1,g,73,g
+310,red robin,banana malt monster,38,g,150,mg,400,g,148,g,20,g,24,g,1.5,g,1,g,130,g
+311,red robin,banana milkshake classic kid,21,g,80,mg,180,g,79,g,10,g,13,g,0.5,g,1,g,70,g
+312,red robin,banana milkshake monster,38,g,145,mg,350,g,140,g,19,g,24,g,1.5,g,1,g,125,g
+313,red robin,banzai burger,60,g,135,mg,1360,g,63,g,42,g,19,g,2,g,3,g,25,g
+314,red robin,barefoot refresh moscato spritzer 6 oz,0,g,0,mg,20,g,13,g,0,g,0,g,0,g,0,g,10,g
+315,red robin,barefoot refresh moscato spritzer 9 oz,0,g,0,mg,25,g,20,g,1,g,0,g,0,g,0,g,15,g
+316,red robin,barqs root beer adult,0,g,0,mg,60,g,38,g,0,g,0,g,0,g,0,g,38,g
+317,red robin,barqs root beer kid,0,g,0,mg,35,g,23,g,0,g,0,g,0,g,0,g,23,g
+318,red robin,bistro sauce,13,g,5,mg,440,g,6,g,1,g,1.5,g,0,g,1,g,2,g
+319,red robin,black and bleu burger,61,g,165,mg,1470,g,53,g,50,g,20,g,2.5,g,4,g,13,g
+320,red robin,black beans,0,g,0,mg,130,g,17,g,6,g,0,g,0,g,4,g,1,g
+321,red robin,bleu cheese,12,g,35,mg,570,g,1,g,9,g,8,g,0,g,0,g,0,g
+322,red robin,bleu cheese dressing 2 oz,34,g,30,mg,570,g,0,g,2,g,7,g,0,g,0,g,0,g
+323,red robin,bleu cheese dressing 3 oz,51,g,50,mg,860,g,1,g,3,g,10,g,0.5,g,0,g,0,g
+324,red robin,bleu ribbon burger,75,g,140,mg,1760,g,67,g,47,g,23,g,2,g,4,g,13,g
+325,red robin,blta croissant,41,g,60,mg,1500,g,50,g,30,g,15,g,0.5,g,5,g,9,g
+326,red robin,blue moon beer shake,39,g,150,mg,260,g,97,g,15,g,25,g,1.5,g,2,g,78,g
+327,red robin,blue moon belgian white 12 oz,0,g,0,mg,15,g,14,g,2,g,0,g,0,g,0,g,11,g
+328,red robin,blue moon belgian white 16 oz,0,g,0,mg,20,g,19,g,3,g,0,g,0,g,0,g,14,g
+329,red robin,blue moon belgian white 22 oz,0,g,0,mg,30,g,26,g,3,g,0,g,0,g,0,g,20,g
+330,red robin,blue moon belgian white 32 oz,0,g,0,mg,45,g,38,g,5,g,0,g,0,g,0,g,29,g
+331,red robin,bone in bar wings with banzai sauce,67,g,465,mg,2450,g,50,g,93,g,16,g,0.5,g,4,g,26,g
+332,red robin,bone in bar wings with banzai sauce 1 2 order,41,g,235,mg,1390,g,38,g,48,g,9,g,0,g,3,g,15,g
+333,red robin,bone in bar wings with buzz sauce,85,g,475,mg,2930,g,26,g,94,g,25,g,1,g,5,g,3,g
+334,red robin,bone in bar wings with buzz sauce 1 2 order,51,g,240,mg,1710,g,25,g,49,g,14,g,0.5,g,4,g,2,g
+335,red robin,bone in bar wings with island heat sauce,93,g,465,mg,1480,g,59,g,92,g,16,g,0.5,g,5,g,35,g
+336,red robin,bone in bar wings with island heat sauce 1 2 order,54,g,235,mg,940,g,42,g,47,g,9,g,0,g,3,g,20,g
+337,red robin,bone in bar wings with whiskey river sauce,73,g,475,mg,2040,g,53,g,93,g,17,g,0.5,g,5,g,25,g
+338,red robin,bone in bar wings with whiskey river sauce 1 2 order,46,g,240,mg,1200,g,40,g,48,g,10,g,0,g,3,g,13,g
+339,red robin,bottomless steak fries,16,g,0,mg,210,g,48,g,5,g,2.5,g,0,g,5,g,1,g
+340,red robin,brioche bun,4.5,g,0,mg,350,g,39,g,7,g,1.5,g,0,g,2,g,6,g
+341,red robin,bruschetta chicken sandwich,38,g,130,mg,1690,g,45,g,40,g,9,g,0.5,g,3,g,8,g
+342,red robin,bud light 12 oz,0,g,0,mg,10,g,5,g,1,g,0,g,0,g,0,g,0,g
+343,red robin,bud light 16 oz,0,g,0,mg,15,g,6,g,1,g,0,g,0,g,0,g,0,g
+344,red robin,bud light 22 oz,0,g,0,mg,20,g,8,g,2,g,0,g,0,g,0,g,0,g
+345,red robin,bud light 32 oz,0,g,0,mg,30,g,12,g,2,g,0,g,0,g,0,g,0,g
+346,red robin,budweiser 12 oz,0,g,0,mg,10,g,11,g,1,g,0,g,0,g,0,g,0,g
+347,red robin,budweiser 12 oz bottle,0,g,0,mg,10,g,11,g,1,g,0,g,0,g,0,g,0,g
+348,red robin,budweiser 16 oz,0,g,0,mg,15,g,14,g,2,g,0,g,0,g,0,g,0,g
+349,red robin,budweiser 22 oz,0,g,0,mg,20,g,19,g,2,g,0,g,0,g,0,g,0,g
+350,red robin,burnin love burger,59,g,135,mg,1380,g,56,g,45,g,17,g,1.5,g,5,g,10,g
+351,red robin,burnin love chicken burger,41,g,140,mg,1800,g,59,g,43,g,10,g,1,g,5,g,10,g
+352,red robin,buzzard sauce,15,g,0,mg,1390,g,2,g,0,g,7,g,0,g,1,g,1,g
+353,red robin,caesar dressing 2 oz,38,g,30,mg,510,g,3,g,2,g,7,g,0.5,g,0,g,1,g
+354,red robin,caesar dressing 3 oz,57,g,40,mg,760,g,5,g,3,g,10,g,1,g,1,g,1,g
+355,red robin,caesar salad,20,g,15,mg,300,g,5,g,3,g,4,g,0,g,2,g,2,g
+356,red robin,caesars chicken wrap,50,g,90,mg,1890,g,59,g,33,g,12,g,0.5,g,4,g,2,g
+357,red robin,california chicken sandwich,38,g,150,mg,1930,g,52,g,46,g,11,g,0.5,g,4,g,10,g
+358,red robin,campfire mayo,30,g,25,mg,500,g,14,g,1,g,5,g,0,g,0,g,11,g
+359,red robin,canyon road cabernet sauvignon 6 oz,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,2,g
+360,red robin,canyon road cabernet sauvignon 9 oz,0,g,0,mg,0,g,11,g,0,g,0,g,0,g,0,g,3,g
+361,red robin,canyon road chardonnay 6 oz,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,3,g
+362,red robin,canyon road chardonnay 9 oz,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,4,g
+363,red robin,canyon road merlot 6 oz,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,3,g
+364,red robin,canyon road merlot 9 oz,0,g,0,mg,0,g,11,g,0,g,0,g,0,g,0,g,4,g
+365,red robin,canyon road pinot grigio 6 oz,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,2,g
+366,red robin,canyon road pinot grigio 9 oz,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,3,g
+367,red robin,canyon road white zinfandel 6 oz,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,7,g
+368,red robin,canyon road white zinfandel 9 oz,0,g,0,mg,0,g,14,g,0,g,0,g,0,g,0,g,11,g
+369,red robin,carnivor cabernet sauvignon 6 oz,0,g,0,mg,20,g,6,g,1,g,0,g,0,g,0,g,1,g
+370,red robin,carnivor cabernet sauvignon 9 oz,0,g,0,mg,25,g,9,g,1,g,0,g,0,g,0,g,2,g
+371,red robin,cheddar cheese,9,g,30,mg,180,g,1,g,7,g,5,g,0,g,0,g,0,g
+372,red robin,chicken fajitas,32,g,210,mg,2480,g,84,g,64,g,11,g,0.5,g,10,g,9,g
+373,red robin,chicken tortilla soup bowl,19,g,55,mg,1720,g,37,g,20,g,7,g,0,g,6,g,8,g
+374,red robin,chicken tortilla soup cup,9,g,30,mg,860,g,19,g,10,g,3.5,g,0,g,3,g,4,g
+375,red robin,chili chili cheese fries,94,g,145,mg,2260,g,121,g,51,g,29,g,2,g,15,g,9,g
+376,red robin,chili chili cheese fries side,60,g,85,mg,1400,g,64,g,27,g,16,g,1,g,8,g,7,g
+377,red robin,chili chili cheeseburger,47,g,150,mg,1450,g,56,g,51,g,16,g,1.5,g,5,g,10,g
+378,red robin,chipotle aioli,44,g,25,mg,390,g,5,g,0,g,7,g,0.5,g,0,g,2,g
+379,red robin,chocolate fruffles,40,g,70,mg,300,g,123,g,11,g,31,g,0,g,8,g,101,g
+380,red robin,chocolate hazelnut bliss milkshake monster,63,g,150,mg,530,g,158,g,26,g,40,g,1.5,g,8,g,129,g
+381,red robin,chocolate malt classic kid,20,g,80,mg,210,g,81,g,11,g,13,g,0.5,g,2,g,69,g
+382,red robin,chocolate malt monster,38,g,150,mg,390,g,173,g,20,g,24,g,1.5,g,1,g,156,g
+383,red robin,chocolate milkshake classic kid,21,g,80,mg,190,g,77,g,11,g,13,g,0.5,g,2,g,66,g
+384,red robin,chocolate milkshake monster,38,g,145,mg,380,g,150,g,21,g,24,g,1.5,g,3,g,128,g
+385,red robin,ciabatta bread,2,g,0,mg,360,g,31,g,8,g,0,g,0,g,2,g,3,g
+386,red robin,cinnamon sugar doh ring shorty,26,g,5,mg,620,g,129,g,10,g,15,g,0,g,3,g,62,g
+387,red robin,cinnamon sugar doh rings,51,g,10,mg,1230,g,259,g,19,g,31,g,0.5,g,6,g,124,g
+388,red robin,citrus freckled mojito,0,g,0,mg,25,g,24,g,2,g,0,g,0,g,0,g,21,g
+389,red robin,citrus harissa salmon burger,67,g,15,mg,1430,g,50,g,43,g,10,g,0,g,6,g,7,g
+390,red robin,clamdiggers clam chowder bowl,26,g,90,mg,1330,g,32,g,16,g,15,g,0.5,g,1,g,10,g
+391,red robin,clamdiggers clam chowder cup,13,g,45,mg,700,g,19,g,8,g,8,g,0,g,1,g,5,g
+392,red robin,classic wedge salad,36,g,35,mg,640,g,17,g,8,g,8,g,0,g,3,g,8,g
+393,red robin,clos du bois cabernet sauvignon 6 oz,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+394,red robin,clos du bois cabernet sauvignon 9 oz,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,3,g
+395,red robin,clucks and fries,82,g,100,mg,2040,g,104,g,47,g,14,g,0.5,g,9,g,5,g
+396,red robin,clucks and fries buffalo style,113,g,115,mg,4180,g,105,g,49,g,27,g,1,g,11,g,4,g
+397,red robin,clucks and shrimp,62,g,155,mg,2560,g,78,g,37,g,11,g,0.5,g,6,g,21,g
+398,red robin,coca cola zero adult,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+399,red robin,coca cola zero kid,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+400,red robin,coca cola classic adult,0,g,0,mg,40,g,33,g,0,g,0,g,0,g,0,g,33,g
+401,red robin,coca cola classic kid,0,g,0,mg,25,g,20,g,0,g,0,g,0,g,0,g,20,g
+402,red robin,coconut pineapple smoothie,16,g,25,mg,120,g,90,g,3,g,13,g,0,g,2,g,79,g
+403,red robin,coleslaw,15,g,15,mg,420,g,17,g,2,g,2.5,g,0,g,3,g,10,g
+404,red robin,coors light 12 oz,0,g,0,mg,10,g,5,g,1,g,0,g,0,g,0,g,0,g
+405,red robin,coors light 16 oz,0,g,0,mg,15,g,7,g,1,g,0,g,0,g,0,g,0,g
+406,red robin,coors light 22 oz,0,g,0,mg,20,g,9,g,2,g,0,g,0,g,0,g,0,g
+407,red robin,coors light 32 oz,0,g,0,mg,30,g,13,g,3,g,0,g,0,g,0,g,0,g
+408,red robin,copper ridge cabernet sauvignon 6 oz,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,2,g
+409,red robin,copper ridge cabernet sauvignon 9 oz,0,g,0,mg,0,g,9,g,1,g,0,g,0,g,0,g,3,g
+410,red robin,copper ridge chardonnay 6 oz,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,0,g
+411,red robin,copper ridge chardonnay 9 oz,0,g,0,mg,0,g,9,g,1,g,0,g,0,g,0,g,1,g
+412,red robin,copper ridge merlot 6 oz,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,2,g
+413,red robin,copper ridge merlot 9 oz,0,g,0,mg,0,g,11,g,1,g,0,g,0,g,0,g,3,g
+414,red robin,copper ridge white zinfandel 6 oz,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,6,g
+415,red robin,copper ridge white zinfandel 9 oz,0,g,0,mg,0,g,14,g,1,g,0,g,0,g,0,g,9,g
+416,red robin,corona extra 12 oz,0,g,0,mg,0,g,14,g,1,g,0,g,0,g,0,g,0,g
+417,red robin,corona extra 16 oz,0,g,0,mg,0,g,19,g,2,g,0,g,0,g,0,g,0,g
+418,red robin,cowboy ranch tavern double burger,38,g,110,mg,1150,g,44,g,33,g,13,g,1,g,1,g,15,g
+419,red robin,creamy artichoke and spinach dip,44,g,35,mg,1320,g,71,g,17,g,14,g,1,g,16,g,7,g
+420,red robin,crispy arctic cod sandwich,41,g,65,mg,1410,g,85,g,28,g,8,g,0,g,5,g,12,g
+421,red robin,crispy chicken sandwich,57,g,80,mg,1770,g,68,g,35,g,11,g,0,g,4,g,10,g
+422,red robin,crispy chicken tender salad,50,g,275,mg,1490,g,66,g,55,g,15,g,0.5,g,8,g,10,g
+423,red robin,croissant,15,g,0,mg,390,g,41,g,7,g,9,g,0,g,1,g,6,g
+424,red robin,cupcake sauvignon blanc 6 oz,0,g,0,mg,5,g,4,g,1,g,0,g,0,g,0,g,1,g
+425,red robin,cupcake sauvignon blanc 9 oz,0,g,0,mg,10,g,5,g,2,g,0,g,0,g,0,g,1,g
+426,red robin,customize your drink candied orange,0,g,0,mg,0,g,23,g,0,g,0,g,0,g,0,g,23,g
+427,red robin,customize your drink raspberry,0,g,0,mg,0,g,30,g,0,g,0,g,0,g,0,g,30,g
+428,red robin,customize your drink strawberry,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,0,g,12,g
+429,red robin,deschutes mirror pond pale ale 12 oz,0,g,0,mg,20,g,16,g,0,g,0,g,0,g,0,g,0,g
+430,red robin,deschutes mirror pond pale ale 16 oz,0,g,0,mg,25,g,21,g,0,g,0,g,0,g,0,g,0,g
+431,red robin,diet coke adult,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+432,red robin,diet coke kid,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+433,red robin,diet dr pepper adult,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+434,red robin,diet dr pepper kid,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+435,red robin,double berry cheesecake,40,g,145,mg,430,g,67,g,11,g,22,g,1.5,g,2,g,57,g
+436,red robin,dr pepper adult,0,g,0,mg,50,g,33,g,0,g,0,g,0,g,0,g,32,g
+437,red robin,dr pepper kid,0,g,0,mg,30,g,20,g,0,g,0,g,0,g,0,g,19,g
+438,red robin,ecco domani pinot grigio 6 oz,0,g,0,mg,20,g,4,g,0,g,0,g,0,g,0,g,1,g
+439,red robin,ecco domani pinot grigio 9 oz,0,g,0,mg,25,g,5,g,1,g,0,g,0,g,0,g,1,g
+440,red robin,electric watermelon,0,g,0,mg,20,g,54,g,0,g,0,g,0,g,0,g,38,g
+441,red robin,ensenada chicken platter,20,g,210,mg,2240,g,27,g,54,g,5,g,0,g,5,g,8,g
+442,red robin,ensenada chicken platter one chicken breast,12,g,110,mg,1290,g,19,g,29,g,3.5,g,0,g,4,g,6,g
+443,red robin,fanta orange adult,0,g,0,mg,65,g,49,g,0,g,0,g,0,g,0,g,48,g
+444,red robin,fanta orange kid,0,g,0,mg,30,g,23,g,0,g,0,g,0,g,0,g,22,g
+445,red robin,fiery ghost pepper sauce,0,g,0,mg,760,g,11,g,1,g,0,g,0,g,1,g,7,g
+446,red robin,fiery ghost tavern double burger,31,g,110,mg,960,g,35,g,36,g,13,g,1.5,g,2,g,7,g
+447,red robin,four cheese melt,42,g,90,mg,1210,g,51,g,34,g,20,g,1.5,g,2,g,2,g
+448,red robin,freckled fruit salad,0,g,0,mg,0,g,24,g,1,g,0,g,0,g,1,g,22,g
+449,red robin,freckled lemonade light adult,0,g,0,mg,10,g,22,g,1,g,0,g,0,g,1,g,20,g
+450,red robin,freckled lemonade light kid,0,g,0,mg,10,g,11,g,0,g,0,g,0,g,0,g,10,g
+451,red robin,freckled lemonade smoothie,8,g,30,mg,50,g,72,g,3,g,4.5,g,0,g,1,g,66,g
+452,red robin,freckled lemonade adult,0,g,0,mg,10,g,38,g,1,g,0,g,0,g,1,g,37,g
+453,red robin,freckled lemonade kid,0,g,0,mg,5,g,24,g,0,g,0,g,0,g,0,g,23,g
+454,red robin,french onion soup bowl,22,g,45,mg,1650,g,23,g,19,g,10,g,0.5,g,4,g,10,g
+455,red robin,french onion soup cup,11,g,25,mg,860,g,15,g,10,g,5,g,0,g,2,g,5,g
+456,red robin,fresh jalapenos,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+457,red robin,fresh salsa,0,g,0,mg,260,g,3,g,1,g,0,g,0,g,1,g,2,g
+458,red robin,fresh fried cheese sticks,59,g,115,mg,3210,g,79,g,50,g,29,g,1.5,g,5,g,21,g
+459,red robin,fried egg,7,g,185,mg,95,g,0,g,6,g,2,g,0,g,0,g,0,g
+460,red robin,fried pickle nickels,52,g,70,mg,2800,g,61,g,6,g,8,g,1,g,2,g,12,g
+461,red robin,garlic herbed fries,22,g,20,mg,310,g,50,g,7,g,7,g,0,g,5,g,2,g
+462,red robin,gluten free bun,4.5,g,0,mg,480,g,39,g,4,g,0,g,0,g,3,g,6,g
+463,red robin,gooey chocolate brownie cake,37,g,100,mg,360,g,150,g,10,g,15,g,0.5,g,1,g,118,g
+464,red robin,green chile side,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+465,red robin,green leaf lettuce,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,0,g
+466,red robin,grilled turkey burger,41,g,95,mg,780,g,38,g,30,g,8,g,0,g,4,g,5,g
+467,red robin,guac salsa and chips,35,g,0,mg,1500,g,74,g,7,g,7,g,0,g,21,g,6,g
+468,red robin,guacamole bacon burger,58,g,155,mg,1340,g,51,g,51,g,20,g,1.5,g,4,g,11,g
+469,red robin,guinness 12 oz bottle,0,g,0,mg,0,g,9,g,1,g,0,g,0,g,0,g,1,g
+470,red robin,guinness 14 9 oz can,0,g,0,mg,0,g,12,g,1,g,0,g,0,g,0,g,1,g
+471,red robin,guinness 16 oz,0,g,0,mg,0,g,13,g,1,g,0,g,0,g,0,g,1,g
+472,red robin,guinness 22 oz,0,g,0,mg,0,g,17,g,2,g,0,g,0,g,0,g,1,g
+473,red robin,guinness 32 oz,0,g,0,mg,0,g,25,g,3,g,0,g,0,g,0,g,2,g
+474,red robin,hawaiian heart throb smoothie,2.5,g,0,mg,30,g,98,g,1,g,2,g,0,g,1,g,88,g
+475,red robin,haystack tavern double burger,43,g,120,mg,1200,g,37,g,35,g,16,g,1.5,g,1,g,8,g
+476,red robin,heineken 12 oz,0,g,0,mg,10,g,11,g,1,g,0,g,0,g,0,g,2,g
+477,red robin,heineken 16 oz,0,g,0,mg,10,g,15,g,1,g,0,g,0,g,0,g,3,g
+478,red robin,hogue pinot grigio 6 oz,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,5,g
+479,red robin,hogue pinot grigio 9 oz,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,8,g
+480,red robin,honey mustard poppyseed dressing 2 oz,31,g,25,mg,510,g,17,g,1,g,5,g,0,g,0,g,16,g
+481,red robin,honey mustard poppyseed dressing 3 oz,47,g,40,mg,770,g,26,g,2,g,8,g,0.5,g,1,g,24,g
+482,red robin,house margarita rocks and frozen,0,g,0,mg,890,g,32,g,0,g,0,g,0,g,0,g,29,g
+483,red robin,house salad,6,g,15,mg,180,g,12,g,6,g,3,g,0,g,2,g,3,g
+484,red robin,irish beer shake,27,g,105,mg,260,g,90,g,14,g,17,g,1,g,1,g,73,g
+485,red robin,island heat sauce,25,g,0,mg,230,g,31,g,0,g,0,g,0,g,0,g,29,g
+486,red robin,italian dressing 2 oz,22,g,0,mg,580,g,6,g,0,g,3,g,0,g,0,g,4,g
+487,red robin,italian dressing 3 oz,33,g,0,mg,870,g,9,g,0,g,4.5,g,0,g,0,g,6,g
+488,red robin,jacobs creek chardonnay 6 oz,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+489,red robin,jacobs creek chardonnay 9 oz,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+490,red robin,jacobs creek shiraz 6 oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+491,red robin,jacobs creek shiraz 9 oz,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+492,red robin,jalapeno cornmeal kaiser roll,2.5,g,0,mg,390,g,42,g,10,g,0,g,0,g,2,g,5,g
+493,red robin,jump starters cheese sticks,30,g,55,mg,1730,g,43,g,26,g,14,g,1,g,2,g,13,g
+494,red robin,jump starters fresh fried mushrooms,23,g,5,mg,950,g,53,g,5,g,4,g,0,g,2,g,31,g
+495,red robin,jump starters fresh fried zucchini sticks,40,g,20,mg,1140,g,25,g,4,g,7,g,0,g,2,g,3,g
+496,red robin,jump starters fried jalapeno coins,41,g,20,mg,1440,g,38,g,5,g,7,g,0.5,g,7,g,6,g
+497,red robin,jump starters fried pickle nickels,45,g,55,mg,2160,g,48,g,4,g,7,g,0.5,g,2,g,12,g
+498,red robin,jump starters sweet potato fries,15,g,0,mg,1380,g,59,g,3,g,2.5,g,0,g,5,g,32,g
+499,red robin,keep it simple burger beef,24,g,90,mg,770,g,44,g,35,g,9,g,1,g,3,g,9,g
+500,red robin,keep it simple burger chicken,9,g,0,mg,870,g,62,g,15,g,2,g,0,g,9,g,14,g
+501,red robin,kendall jackson merlot 6 oz,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,5,g
+502,red robin,kendall jackson merlot 9 oz,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,7,g
+503,red robin,kendall jackson v r chardonnay 6 oz,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,5,g
+504,red robin,kendall jackson v r chardonnay 9 oz,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,7,g
+505,red robin,kids apple juice,0,g,0,mg,10,g,12,g,0,g,0,g,0,g,0,g,12,g
+506,red robin,kids apples,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,1,g,7,g
+507,red robin,kids chocolate milk,2.5,g,15,mg,140,g,50,g,11,g,1.5,g,0,g,1,g,44,g
+508,red robin,kids cluck a doodles,29,g,60,mg,1010,g,38,g,30,g,5,g,0,g,3,g,1,g
+509,red robin,kids corn,0.5,g,0,mg,0,g,14,g,2,g,0,g,0,g,2,g,1,g
+510,red robin,kids corn doggies,33,g,105,mg,1250,g,43,g,16,g,8,g,0,g,2,g,7,g
+511,red robin,kids cranberry juice,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,15,g
+512,red robin,kids freckled fruit salad,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,1,g,11,g
+513,red robin,kids grilled cheesy,27,g,45,mg,1190,g,22,g,13,g,11,g,0.5,g,1,g,2,g
+514,red robin,kids grilled chicken dipns,2,g,100,mg,510,g,4,g,24,g,0.5,g,0,g,1,g,1,g
+515,red robin,kids grilled chicken dipns with bbq sauce,2.5,g,110,mg,1190,g,30,g,25,g,0.5,g,0,g,1,g,23,g
+516,red robin,kids grilled chicken dipns with ranch,29,g,115,mg,890,g,8,g,26,g,5,g,0,g,1,g,3,g
+517,red robin,kids grilled chicken dipns with teriyaki sauce,2,g,100,mg,1630,g,28,g,26,g,0.5,g,0,g,1,g,21,g
+518,red robin,kids haystack tavern burger beef,37,g,70,mg,930,g,40,g,20,g,10,g,1,g,1,g,11,g
+519,red robin,kids lil appetites cluck a doodles,20,g,40,mg,720,g,26,g,20,g,3.5,g,0,g,2,g,1,g
+520,red robin,kids lil appetites corn doggies,22,g,70,mg,830,g,29,g,10,g,5,g,0,g,1,g,5,g
+521,red robin,kids m v pizza pepperoni,24,g,65,mg,1310,g,53,g,25,g,13,g,0.5,g,3,g,11,g
+522,red robin,kids mandarin oranges,0,g,0,mg,0,g,8,g,1,g,0,g,0,g,1,g,7,g
+523,red robin,kids milk,3.5,g,15,mg,150,g,17,g,11,g,2,g,0,g,0,g,17,g
+524,red robin,kids orange juice,0,g,0,mg,10,g,14,g,1,g,0,g,0,g,0,g,12,g
+525,red robin,kids pineapple juice,0,g,0,mg,0,g,16,g,0,g,0,g,0,g,0,g,12,g
+526,red robin,kids reds burger beef,12,g,40,mg,290,g,27,g,16,g,4,g,0,g,0,g,4,g
+527,red robin,kids reds burger chicken,5,g,100,mg,760,g,31,g,28,g,1,g,0,g,1,g,5,g
+528,red robin,kids reds burger turkey,18,g,80,mg,800,g,29,g,25,g,4.5,g,0,g,0,g,4,g
+529,red robin,kids reds burger veggie,7,g,0,mg,590,g,44,g,11,g,1,g,0,g,7,g,9,g
+530,red robin,kids reds cheeseburger beef,17,g,55,mg,710,g,29,g,20,g,7,g,0.5,g,0,g,5,g
+531,red robin,kids reds cheeseburger chicken,10,g,110,mg,1180,g,33,g,32,g,4,g,0,g,1,g,6,g
+532,red robin,kids reds cheeseburger turkey,22,g,95,mg,1220,g,31,g,28,g,8,g,0,g,0,g,5,g
+533,red robin,kids reds cheeseburger veggie,12,g,15,mg,1010,g,46,g,14,g,4,g,0,g,7,g,10,g
+534,red robin,kids side salad,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,1,g
+535,red robin,kids steak fries,9,g,0,mg,125,g,29,g,3,g,1.5,g,0,g,3,g,0,g
+536,red robin,kids steamed broccoli,0,g,0,mg,15,g,3,g,2,g,0,g,0,g,1,g,1,g
+537,red robin,kids strawberry smoothie,0,g,0,mg,5,g,75,g,0,g,0,g,0,g,0,g,69,g
+538,red robin,kids sundae,10,g,40,mg,90,g,50,g,5,g,7,g,0,g,1,g,42,g
+539,red robin,kids swirly twirly pasta,2.5,g,0,mg,550,g,71,g,15,g,1,g,0,g,7,g,12,g
+540,red robin,kids yukon chips,29,g,0,mg,660,g,42,g,5,g,5,g,0,g,4,g,0,g
+541,red robin,killians irish red 12 oz bottle,0,g,0,mg,10,g,15,g,2,g,0,g,0,g,0,g,11,g
+542,red robin,killians irish red 16 oz,0,g,0,mg,15,g,19,g,2,g,0,g,0,g,0,g,14,g
+543,red robin,killians irish red 22 oz,0,g,0,mg,20,g,27,g,3,g,0,g,0,g,0,g,20,g
+544,red robin,lagunitas ipa 12 oz,0,g,0,mg,15,g,14,g,3,g,0,g,0,g,0,g,0,g
+545,red robin,lagunitas ipa 16 oz,0,g,0,mg,20,g,18,g,3,g,0,g,0,g,0,g,0,g
+546,red robin,lagunitas ipa 22 oz,0,g,0,mg,25,g,25,g,5,g,0,g,0,g,0,g,0,g
+547,red robin,lagunitas ipa 4 oz,0,g,0,mg,0,g,5,g,1,g,0,g,0,g,0,g,0,g
+548,red robin,lettuce wrap your burger,0,g,0,mg,10,g,3,g,1,g,0,g,0,g,1,g,2,g
+549,red robin,long island iced tea,0,g,0,mg,10,g,60,g,0,g,0,g,0,g,0,g,57,g
+550,red robin,mac n cheese,16,g,50,mg,610,g,25,g,11,g,10,g,0.5,g,2,g,4,g
+551,red robin,make it a monster burger,29,g,120,mg,650,g,1,g,33,g,14,g,1.5,g,0,g,1,g
+552,red robin,mello yello adult,0,g,0,mg,40,g,39,g,0,g,0,g,0,g,0,g,39,g
+553,red robin,mello yello kid,0,g,0,mg,25,g,27,g,0,g,0,g,0,g,0,g,27,g
+554,red robin,mgd 64 12 oz,0,g,0,mg,5,g,2,g,1,g,0,g,0,g,0,g,0,g
+555,red robin,mgd 64 16 oz,0,g,0,mg,5,g,3,g,1,g,0,g,0,g,0,g,0,g
+556,red robin,michelob amberbock 12 oz,0,g,0,mg,10,g,12,g,1,g,0,g,0,g,0,g,0,g
+557,red robin,michelob amberbock 16 oz,0,g,0,mg,10,g,16,g,2,g,0,g,0,g,0,g,0,g
+558,red robin,michelob ultra 12 oz,0,g,0,mg,15,g,3,g,1,g,0,g,0,g,0,g,0,g
+559,red robin,michelob ultra 16 oz,0,g,0,mg,20,g,4,g,1,g,0,g,0,g,0,g,0,g
+560,red robin,michelob ultra 22 oz,0,g,0,mg,30,g,6,g,2,g,0,g,0,g,0,g,0,g
+561,red robin,michelob ultra 32 oz,0,g,0,mg,40,g,8,g,3,g,0,g,0,g,0,g,0,g
+562,red robin,mighty caesar,51,g,140,mg,1290,g,24,g,33,g,10,g,1,g,6,g,6,g
+563,red robin,miller genuine draft 12 oz,0,g,0,mg,5,g,13,g,1,g,0,g,0,g,0,g,0,g
+564,red robin,miller genuine draft 16 oz,0,g,0,mg,10,g,17,g,1,g,0,g,0,g,0,g,0,g
+565,red robin,miller lite 12 oz,0,g,0,mg,5,g,3,g,1,g,0,g,0,g,0,g,0,g
+566,red robin,miller lite 16 oz,0,g,0,mg,5,g,4,g,1,g,0,g,0,g,0,g,0,g
+567,red robin,miller lite 22 oz,0,g,0,mg,10,g,6,g,2,g,0,g,0,g,0,g,0,g
+568,red robin,miller lite 32 oz,0,g,0,mg,15,g,9,g,3,g,0,g,0,g,0,g,0,g
+569,red robin,mojito,0,g,0,mg,25,g,17,g,0,g,0,g,0,g,0,g,15,g
+570,red robin,monster burger,77,g,250,mg,2410,g,56,g,74,g,31,g,3,g,3,g,18,g
+571,red robin,mountain high mudd pie,59,g,115,mg,610,g,193,g,17,g,39,g,3,g,7,g,131,g
+572,red robin,multigrain bun,4,g,0,mg,35,g,32,g,9,g,0.5,g,0,g,3,g,3,g
+573,red robin,nacho chicken bacon wrap,70,g,135,mg,2740,g,82,g,49,g,24,g,0,g,5,g,6,g
+574,red robin,nacho m g,74,g,170,mg,4750,g,115,g,42,g,35,g,2,g,26,g,18,g
+575,red robin,new belgium fat tire 12 oz,0,g,0,mg,5,g,9,g,2,g,0,g,0,g,2,g,0,g
+576,red robin,new belgium fat tire 16 oz,0,g,0,mg,5,g,12,g,3,g,0,g,0,g,3,g,0,g
+577,red robin,new belgium fat tire 22 oz,0,g,0,mg,10,g,17,g,4,g,0,g,0,g,4,g,0,g
+578,red robin,new belgium fat tire 32 oz,0,g,0,mg,15,g,24,g,5,g,0,g,0,g,5,g,0,g
+579,red robin,odouls 12 oz,0,g,0,mg,10,g,13,g,1,g,0,g,0,g,0,g,0,g
+580,red robin,odouls 16 oz,0,g,0,mg,10,g,18,g,1,g,0,g,0,g,0,g,0,g
+581,red robin,one great margarita with grand marnier frozen,0,g,0,mg,890,g,38,g,0,g,0,g,0,g,0,g,31,g
+582,red robin,one great margarita with grand marnier rocks,0,g,0,mg,890,g,46,g,0,g,0,g,0,g,0,g,38,g
+583,red robin,one great margarita frozen peach,0,g,0,mg,10,g,57,g,0,g,0,g,0,g,0,g,49,g
+584,red robin,one great margarita frozen raspberry,0,g,0,mg,0,g,58,g,0,g,0,g,0,g,0,g,49,g
+585,red robin,one great margarita frozen strawberry,0,g,0,mg,0,g,46,g,1,g,0,g,0,g,2,g,40,g
+586,red robin,onion bun,6,g,0,mg,390,g,39,g,9,g,1,g,0,g,2,g,1,g
+587,red robin,onion rings,1,g,5,mg,1020,g,61,g,6,g,0,g,0,g,3,g,11,g
+588,red robin,onion straws,14,g,0,mg,100,g,16,g,2,g,2.5,g,0,g,1,g,3,g
+589,red robin,orange cream soda,2.5,g,10,mg,25,g,47,g,1,g,1.5,g,0,g,0,g,44,g
+590,red robin,oreo cookie magic milkshak classic kid,24,g,80,mg,270,g,80,g,11,g,14,g,0.5,g,1,g,63,g
+591,red robin,oreo cookie magic milkshak monster,43,g,145,mg,480,g,146,g,21,g,25,g,1.5,g,2,g,118,g
+592,red robin,peach malt classic kid,20,g,80,mg,200,g,82,g,10,g,13,g,0.5,g,1,g,72,g
+593,red robin,peach malt monster,38,g,150,mg,400,g,147,g,20,g,24,g,1.5,g,1,g,129,g
+594,red robin,peach milkshake classic kid,21,g,80,mg,180,g,77,g,10,g,13,g,0.5,g,1,g,69,g
+595,red robin,peach milkshake monster,38,g,145,mg,360,g,138,g,19,g,24,g,1.5,g,1,g,123,g
+596,red robin,pepper jack cheese,8,g,25,mg,190,g,1,g,7,g,5,g,0,g,0,g,0,g
+597,red robin,peppermint swirl milkshake,39,g,150,mg,400,g,140,g,20,g,25,g,1.5,g,1,g,116,g
+598,red robin,pickle slices,0,g,0,mg,180,g,0,g,0,g,0,g,0,g,0,g,0,g
+599,red robin,pig out tavern double burger,51,g,145,mg,1480,g,39,g,42,g,18,g,1.5,g,1,g,14,g
+600,red robin,poppin purple lemonade,0,g,0,mg,10,g,47,g,0,g,0,g,0,g,0,g,45,g
+601,red robin,pretzel bites,40,g,30,mg,1670,g,95,g,16,g,11,g,0,g,9,g,6,g
+602,red robin,prime chophouse burger,57,g,115,mg,1580,g,82,g,48,g,17,g,1.5,g,7,g,13,g
+603,red robin,prime rib dip,43,g,70,mg,2700,g,59,g,56,g,17,g,0,g,4,g,15,g
+604,red robin,provolone cheese,6,g,20,mg,200,g,0,g,6,g,3.5,g,0,g,0,g,0,g
+605,red robin,pub mac n cheese with caesar salad,69,g,165,mg,2140,g,85,g,37,g,33,g,2.5,g,9,g,13,g
+606,red robin,pub mac n cheese with house salad,54,g,165,mg,2010,g,91,g,40,g,32,g,2.5,g,9,g,15,g
+607,red robin,ragin cajun chicken sandwich,66,g,95,mg,3180,g,67,g,41,g,21,g,1,g,4,g,9,g
+608,red robin,ranch dressing 2 oz,27,g,20,mg,380,g,4,g,1,g,5,g,0,g,0,g,2,g
+609,red robin,ranch dressing 3 oz,40,g,30,mg,580,g,6,g,2,g,7,g,0.5,g,0,g,3,g
+610,red robin,ranch sauce,27,g,20,mg,380,g,4,g,1,g,5,g,0,g,0,g,2,g
+611,red robin,raspberry cream soda,2.5,g,10,mg,25,g,46,g,1,g,1.5,g,0,g,0,g,43,g
+612,red robin,raspberry malt classic kid,20,g,80,mg,200,g,82,g,10,g,13,g,0.5,g,1,g,72,g
+613,red robin,raspberry malt monster,38,g,150,mg,400,g,147,g,20,g,24,g,1.5,g,1,g,128,g
+614,red robin,raspberry milkshake classic kid,21,g,80,mg,180,g,78,g,10,g,13,g,0.5,g,1,g,69,g
+615,red robin,raspberry milkshake monster,38,g,145,mg,350,g,139,g,19,g,24,g,1.5,g,1,g,123,g
+616,red robin,rebel ipa 12 oz bottle,0,g,0,mg,15,g,15,g,2,g,0,g,0,g,0,g,0,g
+617,red robin,rebel ipa 16 oz,0,g,0,mg,20,g,20,g,3,g,0,g,0,g,2,g,0,g
+618,red robin,red onion,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+619,red robin,red robin 1969 lager 16 oz,0,g,0,mg,0,g,14,g,3,g,0,g,0,g,0,g,0,g
+620,red robin,red robin 1969 lager 22 oz,0,g,0,mg,0,g,19,g,4,g,0,g,0,g,0,g,0,g
+621,red robin,red robin 1969 lager 32 oz,0,g,0,mg,0,g,28,g,5,g,0,g,0,g,0,g,0,g
+622,red robin,red robin 1969 lager 4 oz,0,g,0,mg,0,g,4,g,1,g,0,g,0,g,0,g,0,g
+623,red robin,red robin gourmet cheeseburger,47,g,130,mg,1610,g,55,g,41,g,17,g,1.5,g,3,g,18,g
+624,red robin,red robin gourmet cheeseburger without relish,47,g,130,mg,1420,g,47,g,41,g,17,g,1.5,g,3,g,10,g
+625,red robin,red spanish sangria,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,1,g,13,g
+626,red robin,reds bold boneless wings with banzai sauce,39,g,175,mg,3080,g,107,g,71,g,7,g,0,g,3,g,25,g
+627,red robin,reds bold boneless wings with banzai sauce 1 2 order,27,g,85,mg,1700,g,67,g,37,g,5,g,0,g,3,g,15,g
+628,red robin,reds bold boneless wings with buzz sauce,57,g,180,mg,3560,g,83,g,72,g,16,g,0.5,g,4,g,2,g
+629,red robin,reds bold boneless wings with buzz sauce 1 2 order,37,g,95,mg,2020,g,53,g,38,g,10,g,0,g,4,g,2,g
+630,red robin,reds bold boneless wings with island heat sauce,64,g,175,mg,2180,g,116,g,70,g,7,g,0,g,4,g,34,g
+631,red robin,reds bold boneless wings with island heat sauce 1 2 order,40,g,85,mg,1250,g,71,g,36,g,5,g,0,g,3,g,19,g
+632,red robin,reds bold boneless wings with whiskey river sauce,44,g,185,mg,2670,g,111,g,71,g,8,g,0,g,4,g,24,g
+633,red robin,reds bold boneless wings with whiskey river sauce 1 2 order,32,g,90,mg,1520,g,68,g,37,g,6,g,0,g,3,g,12,g
+634,red robin,reds chili chili bowl,20,g,80,mg,1430,g,32,g,31,g,7,g,1,g,7,g,6,g
+635,red robin,reds chili chili cup,10,g,40,mg,710,g,16,g,15,g,3.5,g,0,g,3,g,3,g
+636,red robin,reds pickle relish,0,g,0,mg,500,g,22,g,1,g,0,g,0,g,0,g,20,g
+637,red robin,reds secret tavern sauce,18,g,15,mg,440,g,7,g,0,g,3,g,0,g,0,g,6,g
+638,red robin,reds signature margarita rocks and frozen,0,g,0,mg,890,g,39,g,0,g,0,g,0,g,0,g,31,g
+639,red robin,reds tavern double burger,35,g,115,mg,1160,g,31,g,35,g,14,g,1.5,g,1,g,7,g
+640,red robin,reel thing fish tacos,85,g,210,mg,2320,g,146,g,63,g,17,g,1,g,12,g,15,g
+641,red robin,roasted garlic aioli,42,g,25,mg,470,g,8,g,1,g,7,g,0.5,g,1,g,2,g
+642,red robin,root beer float adult,15,g,55,mg,250,g,116,g,7,g,9,g,0.5,g,0,g,110,g
+643,red robin,root beer float kid,5,g,20,mg,80,g,36,g,2,g,3,g,0,g,0,g,34,g
+644,red robin,royal red robin burger,78,g,350,mg,1850,g,48,g,54,g,25,g,2,g,2,g,11,g
+645,red robin,ruffino inchlumina inch pinot grigio 6 oz,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,4,g
+646,red robin,ruffino inchlumina inch pinot grigio 9 oz,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,6,g
+647,red robin,salsa ranch dressing 2 oz,19,g,20,mg,280,g,4,g,1,g,4,g,0,g,0,g,2,g
+648,red robin,salsa ranch dressing 3 oz,28,g,30,mg,420,g,6,g,2,g,6,g,0.5,g,0,g,3,g
+649,red robin,salted caramel milkshake classic kid,21,g,80,mg,890,g,105,g,10,g,13,g,0.5,g,1,g,83,g
+650,red robin,salted caramel milkshake monster,39,g,155,mg,1610,g,192,g,20,g,25,g,1.5,g,1,g,155,g
+651,red robin,sam adams hopscape 12 oz,0,g,0,mg,20,g,13,g,2,g,0,g,0,g,0,g,0,g
+652,red robin,sam adams hopscape 16 oz,0,g,0,mg,25,g,17,g,3,g,0,g,0,g,0,g,0,g
+653,red robin,sam adams hopscape 22 oz,0,g,0,mg,35,g,23,g,4,g,0,g,0,g,0,g,0,g
+654,red robin,sam adams hopscape 32 oz,0,g,0,mg,50,g,34,g,6,g,0,g,0,g,0,g,0,g
+655,red robin,sam adams octoberfest 12 oz,0,g,0,mg,20,g,19,g,2,g,0,g,0,g,0,g,1,g
+656,red robin,sam adams octoberfest 16 oz,0,g,0,mg,25,g,25,g,2,g,0,g,0,g,0,g,1,g
+657,red robin,sam adams octoberfest 22 oz,0,g,0,mg,35,g,34,g,3,g,0,g,0,g,0,g,1,g
+658,red robin,sam adams octoberfest 32 oz,0,g,0,mg,50,g,50,g,4,g,0,g,0,g,0,g,2,g
+659,red robin,sam adams summer ale 12 oz,0,g,0,mg,15,g,14,g,2,g,0,g,0,g,0,g,0,g
+660,red robin,sam adams summer ale 16 oz,0,g,0,mg,20,g,18,g,3,g,0,g,0,g,0,g,0,g
+661,red robin,sam adams summer ale 22 oz,0,g,0,mg,30,g,25,g,4,g,0,g,0,g,0,g,0,g
+662,red robin,sam adams winter lager 12 oz,0,g,0,mg,20,g,15,g,2,g,0,g,0,g,0,g,0,g
+663,red robin,sam adams winter lager 16 oz,0,g,0,mg,25,g,20,g,3,g,0,g,0,g,0,g,0,g
+664,red robin,sam adams winter lager 22 oz,0,g,0,mg,35,g,28,g,4,g,0,g,0,g,0,g,0,g
+665,red robin,sam adams winter lager 32 oz,0,g,0,mg,50,g,40,g,6,g,0,g,0,g,0,g,0,g
+666,red robin,samuel adams boston lager 12 oz,0,g,0,mg,25,g,19,g,2,g,0,g,0,g,0,g,2,g
+667,red robin,samuel adams boston lager 16 oz,0,g,0,mg,30,g,25,g,2,g,0,g,0,g,0,g,3,g
+668,red robin,samuel adams boston lager 22 oz,0,g,0,mg,40,g,34,g,3,g,0,g,0,g,0,g,4,g
+669,red robin,samuel adams boston lager 32 oz,0,g,0,mg,60,g,50,g,4,g,0,g,0,g,0,g,6,g
+670,red robin,samuel adams boston lager 4 oz,0,g,0,mg,10,g,6,g,1,g,0,g,0,g,0,g,1,g
+671,red robin,samuel adams cold snap 12 oz,0,g,0,mg,20,g,14,g,2,g,0,g,0,g,0,g,0,g
+672,red robin,samuel adams cold snap 16 oz,0,g,0,mg,25,g,19,g,3,g,0,g,0,g,0,g,0,g
+673,red robin,samuel adams cold snap 22 oz,0,g,0,mg,35,g,26,g,4,g,0,g,0,g,0,g,0,g
+674,red robin,samuel adams cold snap 32 oz,0,g,0,mg,55,g,37,g,5,g,0,g,0,g,0,g,0,g
+675,red robin,samuel adams fresh as helles 12 oz,0,g,0,mg,25,g,17,g,2,g,0,g,0,g,0,g,1,g
+676,red robin,samuel adams fresh as helles 16 oz,0,g,0,mg,30,g,22,g,3,g,0,g,0,g,0,g,1,g
+677,red robin,samuel adams fresh as helles 22 oz,0,g,0,mg,40,g,30,g,4,g,0,g,0,g,0,g,1,g
+678,red robin,samuel adams fresh as helles 32 oz,0,g,0,mg,60,g,44,g,6,g,0,g,0,g,0,g,2,g
+679,red robin,samuel adams sam 76 12 oz,0,g,0,mg,20,g,2,g,1,g,0,g,0,g,0,g,0,g
+680,red robin,samuel adams sam 76 16 oz,0,g,0,mg,25,g,3,g,1,g,0,g,0,g,0,g,0,g
+681,red robin,samuel adams sam 76 22 oz,0,g,0,mg,35,g,4,g,2,g,0,g,0,g,0,g,0,g
+682,red robin,samuel adams sam 76 32 oz,0,g,0,mg,55,g,5,g,3,g,0,g,0,g,0,g,0,g
+683,red robin,sand in your shorts,0,g,0,mg,0,g,65,g,1,g,0,g,0,g,1,g,55,g
+684,red robin,sauteed shroom burger,40,g,120,mg,1050,g,53,g,48,g,17,g,1.5,g,7,g,10,g
+685,red robin,sauteed mushrooms,3.5,g,0,mg,210,g,6,g,3,g,1.5,g,0,g,3,g,2,g
+686,red robin,sauteed onions,2.5,g,0,mg,0,g,3,g,1,g,0,g,0,g,2,g,3,g
+687,red robin,screaming red zombie,0,g,0,mg,15,g,61,g,1,g,0,g,0,g,1,g,52,g
+688,red robin,sear ious salmon,37,g,5,mg,780,g,9,g,34,g,7,g,0,g,2,g,3,g
+689,red robin,shiner bock 12 oz,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,0,g,0,g
+690,red robin,shiner bock 16 oz,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,0,g
+691,red robin,shrimp and cod duo,67,g,165,mg,2520,g,94,g,36,g,11,g,0.5,g,7,g,24,g
+692,red robin,shrimp and slaw platter,32,g,195,mg,2310,g,79,g,30,g,5,g,0,g,3,g,23,g
+693,red robin,sierra nevada pale ale 12 oz,0,g,0,mg,0,g,14,g,2,g,0,g,0,g,0,g,0,g
+694,red robin,sierra nevada pale ale 16 oz,0,g,0,mg,0,g,19,g,2,g,0,g,0,g,0,g,0,g
+695,red robin,silver patron margarita rocks and frozen,0,g,0,mg,890,g,39,g,0,g,0,g,0,g,0,g,31,g
+696,red robin,silver spoon smores milkshak monster,50,g,145,mg,510,g,185,g,22,g,31,g,1.5,g,3,g,144,g
+697,red robin,simply grilled chicken salad,9,g,115,mg,780,g,29,g,34,g,4.5,g,0,g,6,g,9,g
+698,red robin,simply grilled chicken sandwich,6,g,100,mg,1040,g,48,g,32,g,2,g,0,g,3,g,9,g
+699,red robin,skinny spiked freckled lemonade,0,g,0,mg,10,g,13,g,2,g,0,g,0,g,1,g,11,g
+700,red robin,smoke and pepper burger,45,g,185,mg,2710,g,58,g,59,g,19,g,2,g,2,g,17,g
+701,red robin,smoke and pepper ketchup,0,g,0,mg,1130,g,27,g,1,g,0,g,0,g,1,g,20,g
+702,red robin,smoky jack tavern double burger,43,g,125,mg,1150,g,41,g,36,g,15,g,1.5,g,1,g,14,g
+703,red robin,southwest salad,64,g,185,mg,1890,g,50,g,47,g,19,g,1.5,g,12,g,12,g
+704,red robin,spiked freckled lemonade,0,g,0,mg,10,g,41,g,3,g,0,g,0,g,1,g,40,g
+705,red robin,sprite adult,0,g,0,mg,30,g,34,g,0,g,0,g,0,g,0,g,30,g
+706,red robin,sprite kid,0,g,0,mg,20,g,20,g,0,g,0,g,0,g,0,g,18,g
+707,red robin,steamed broccoli,0,g,0,mg,30,g,6,g,3,g,0,g,0,g,3,g,2,g
+708,red robin,stella artois 12 oz,0,g,0,mg,45,g,12,g,1,g,0,g,0,g,0,g,2,g
+709,red robin,stella artois 16 oz,0,g,0,mg,60,g,16,g,1,g,0,g,0,g,0,g,3,g
+710,red robin,stella artois 22 oz,0,g,0,mg,85,g,22,g,2,g,0,g,0,g,0,g,4,g
+711,red robin,stella artois 32 oz,0,g,0,mg,120,g,32,g,3,g,0,g,0,g,0,g,5,g
+712,red robin,strawberry malt classic kid,20,g,80,mg,200,g,76,g,11,g,13,g,0.5,g,1,g,67,g
+713,red robin,strawberry malt monster,38,g,150,mg,390,g,138,g,21,g,24,g,1.5,g,2,g,122,g
+714,red robin,strawberry milkshake classic kid,21,g,80,mg,180,g,72,g,10,g,13,g,0.5,g,1,g,65,g
+715,red robin,strawberry milkshake monster,38,g,145,mg,350,g,130,g,20,g,24,g,1.5,g,2,g,116,g
+716,red robin,sweet and spicy ketchup,0,g,0,mg,660,g,24,g,0,g,0,g,0,g,0,g,20,g
+717,red robin,sweet pepper thai sauce,0,g,0,mg,710,g,32,g,0,g,0,g,0,g,0,g,28,g
+718,red robin,sweet potato fries,25,g,0,mg,800,g,58,g,5,g,4,g,0,g,8,g,20,g
+719,red robin,swiss cheese,9,g,30,mg,60,g,1,g,8,g,5,g,0,g,0,g,0,g
+720,red robin,taco tavern double burger,36,g,110,mg,960,g,35,g,36,g,14,g,1,g,2,g,5,g
+721,red robin,tavern bun,3,g,0,mg,250,g,27,g,4,g,0.5,g,0,g,0,g,4,g
+722,red robin,teriyaki chicken sandwich,42,g,140,mg,1520,g,67,g,41,g,12,g,1,g,4,g,25,g
+723,red robin,teriyaki sauce,0,g,0,mg,1130,g,24,g,2,g,0,g,0,g,0,g,20,g
+724,red robin,the big cowboy ranch burger,46,g,130,mg,1540,g,57,g,41,g,17,g,1.5,g,2,g,17,g
+725,red robin,the big ghost burger,35,g,120,mg,1310,g,53,g,42,g,15,g,1.5,g,4,g,12,g
+726,red robin,the big haystack burger,58,g,135,mg,1460,g,60,g,41,g,19,g,1.5,g,3,g,15,g
+727,red robin,the big pig out burger,70,g,175,mg,1810,g,62,g,52,g,23,g,1.5,g,2,g,24,g
+728,red robin,the big smoky jack burger,59,g,140,mg,1390,g,56,g,41,g,19,g,1.5,g,3,g,17,g
+729,red robin,the big taco tavern burger,46,g,120,mg,1350,g,55,g,43,g,16,g,1.5,g,6,g,8,g
+730,red robin,the big tavern burger,43,g,130,mg,1380,g,46,g,40,g,17,g,1.5,g,2,g,11,g
+731,red robin,the madlove burger,63,g,220,mg,2090,g,72,g,73,g,27,g,2.5,g,5,g,27,g
+732,red robin,the master cheese burger,50,g,180,mg,2100,g,48,g,57,g,21,g,2.5,g,2,g,9,g
+733,red robin,the naked grape chardonnay 6 oz,0,g,0,mg,20,g,5,g,0,g,0,g,0,g,0,g,2,g
+734,red robin,the naked grape chardonnay 9 oz,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,3,g
+735,red robin,the naked grape merlot 6 oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+736,red robin,the naked grape merlot 9 oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+737,red robin,the o ring shorty,58,g,50,mg,2100,g,92,g,9,g,10,g,1,g,4,g,26,g
+738,red robin,the southern charm burger,72,g,205,mg,1910,g,80,g,59,g,23,g,2.5,g,3,g,40,g
+739,red robin,the wedgie burger,35,g,125,mg,890,g,22,g,40,g,13,g,1,g,5,g,8,g
+740,red robin,thousand island dressing 2 oz,18,g,15,mg,440,g,7,g,0,g,3,g,0,g,0,g,6,g
+741,red robin,thousand island dressing 3 oz,27,g,20,mg,660,g,10,g,1,g,4.5,g,0,g,0,g,9,g
+742,red robin,tomato,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+743,red robin,towering onion rings,59,g,55,mg,3530,g,178,g,17,g,10,g,1,g,7,g,41,g
+744,red robin,tres leches,32,g,115,mg,490,g,74,g,10,g,15,g,0.5,g,1,g,57,g
+745,red robin,tres leches cake with caramel,34,g,120,mg,670,g,135,g,11,g,17,g,1,g,1,g,94,g
+746,red robin,tres leches cake with strawberries,32,g,115,mg,490,g,93,g,11,g,15,g,0.5,g,2,g,76,g
+747,red robin,trinity oaks pinot noir 6 oz,0,g,0,mg,0,g,6,g,1,g,0,g,0,g,0,g,0,g
+748,red robin,trinity oaks pinot noir 9 oz,0,g,0,mg,0,g,9,g,2,g,0,g,0,g,0,g,1,g
+749,red robin,tropical mai tai,0,g,0,mg,15,g,47,g,1,g,0,g,0,g,1,g,41,g
+750,red robin,turkey club burger,65,g,140,mg,1680,g,52,g,43,g,17,g,0.5,g,5,g,10,g
+751,red robin,vanilla malt classic kid,20,g,80,mg,200,g,73,g,10,g,13,g,0.5,g,1,g,64,g
+752,red robin,vanilla malt monster,38,g,150,mg,390,g,141,g,20,g,24,g,1.5,g,1,g,125,g
+753,red robin,vanilla milkshake classic kid,21,g,80,mg,180,g,69,g,10,g,13,g,0.5,g,1,g,62,g
+754,red robin,vanilla milkshake monster,38,g,145,mg,350,g,133,g,19,g,24,g,1.5,g,1,g,119,g
+755,red robin,veggie burger,58,g,40,mg,1180,g,68,g,28,g,15,g,0.5,g,15,g,13,g
+756,red robin,veggie vegan burger,17,g,0,mg,740,g,29,g,10,g,2.5,g,0,g,12,g,10,g
+757,red robin,very berry raspberry limeade,0,g,0,mg,20,g,46,g,0,g,0,g,0,g,0,g,43,g
+758,red robin,voodoo fries with fiery ghost pepper sauce,54,g,70,mg,3350,g,121,g,25,g,17,g,1,g,13,g,17,g
+759,red robin,voodoo fries with ranch sauce,74,g,85,mg,3070,g,116,g,25,g,21,g,1,g,12,g,14,g
+760,red robin,whiskey river bbq burger,74,g,140,mg,1290,g,71,g,43,g,21,g,2,g,4,g,20,g
+761,red robin,whiskey river bbq chicken sandwich,57,g,145,mg,1570,g,75,g,41,g,14,g,1,g,4,g,21,g
+762,red robin,whiskey river bbq chicken wrap,58,g,130,mg,2280,g,79,g,43,g,19,g,1,g,4,g,12,g
+763,red robin,whiskey river bbq sauce,0.5,g,10,mg,690,g,26,g,1,g,0,g,0,g,1,g,23,g
+764,red robin,white spanish sangria,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,0,g,13,g
+765,red robin,woodbridge cabernet sauvignon 6 oz,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+766,red robin,woodbridge cabernet sauvignon 9 oz,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+767,red robin,woodbridge chardonnay 6 oz,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,3,g
+768,red robin,woodbridge chardonnay 9 oz,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,4,g
+769,red robin,woodbridge merlot 6 oz,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,2,g
+770,red robin,woodbridge merlot 9 oz,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,4,g
+771,red robin,woodbridge white zinfandel 6 oz,0,g,0,mg,0,g,22,g,0,g,0,g,0,g,0,g,21,g
+772,red robin,woodbridge white zinfandel 9 oz,0,g,0,mg,0,g,33,g,0,g,0,g,0,g,0,g,32,g
+773,red robin,wrappin california club,64,g,100,mg,2290,g,64,g,41,g,18,g,1,g,6,g,4,g
+774,red robin,xtra sharp cheddar cheese,9,g,30,mg,180,g,1,g,7,g,5,g,0,g,0,g,0,g
+775,red robin,yuengling traditional lager 12 oz,0,g,0,mg,20,g,10,g,0,g,0,g,0,g,0,g,0,g
+776,red robin,yuengling traditional lager 16 oz,0,g,0,mg,25,g,13,g,0,g,0,g,0,g,0,g,0,g
+777,red robin,yukon chips,29,g,0,mg,660,g,42,g,5,g,5,g,0,g,4,g,0,g
+778,ritas,blue raspberry italian ice,0,g,0,mg,35,g,82,g,0,g,0,g,0,g,0,g,79,g
+779,ritas,banana italian ice,1,g,0,mg,35,g,74,g,0,g,1,g,0,g,0,g,71,g
+780,ritas,blood orange italian ice,0,g,0,mg,30,g,61,g,0,g,0,g,0,g,0,g,59,g
+781,ritas,apple berry blue italian ice,0,g,0,mg,45,g,63,g,0,g,0,g,0,g,0,g,60,g
+782,ritas,tangerine italian ice sugar free,0,g,0,mg,35,g,46,g,0,g,0,g,0,g,0,g,0,g
+783,ritas,mango italian ice,0,g,0,mg,35,g,82,g,0,g,0,g,0,g,0,g,80,g
+784,ritas,mango peach italian ice sugar free,0,g,0,mg,30,g,44,g,0,g,0,g,0,g,0,g,0,g
+785,ritas,cotton candy italian ice,0,g,0,mg,25,g,80,g,0,g,0,g,0,g,0,g,78,g
+786,ritas,cherry italian ice,0,g,0,mg,35,g,65,g,0,g,0,g,0,g,0,g,63,g
+787,ritas,swedish fish italian ice,0,g,0,mg,75,g,94,g,0,g,0,g,0,g,0,g,92,g
+788,ritas,cherry italian ice sugar free,0,g,0,mg,35,g,46,g,0,g,0,g,0,g,0,g,0,g
+789,ritas,chocolate italian ice,0,g,0,mg,65,g,98,g,1,g,0,g,0,g,1,g,94,g
+790,ritas,wild black cherry italian ice,0,g,0,mg,35,g,74,g,0,g,0,g,0,g,0,g,69,g
+791,ritas,root beer italian ice,0,g,0,mg,35,g,75,g,0,g,0,g,0,g,0,g,73,g
+792,ritas,chocolate milk shake,29,g,155,mg,340,g,102,g,13,g,17,g,0,g,0,g,78,g
+793,ritas,oreo cookies n cream milk shake,32,g,180,mg,400,g,92,g,13,g,19,g,0,g,0,g,71,g
+794,ritas,pina colada italian ice,0,g,0,mg,35,g,79,g,0,g,0,g,0,g,0,g,77,g
+795,ritas,root beer italian ice sugar free,0,g,0,mg,35,g,46,g,0,g,0,g,0,g,0,g,0,g
+796,ritas,watermelon italian ice,0,g,0,mg,35,g,89,g,0,g,0,g,0,g,0,g,87,g
+797,ritas,strawberry margarita italian ice,0,g,0,mg,45,g,87,g,0,g,0,g,0,g,0,g,84,g
+798,ritas,choc peanut butter italian ice,7,g,0,mg,60,g,100,g,3,g,1.5,g,0,g,2,g,94,g
+799,ritas,green apple italian ice,0,g,0,mg,35,g,82,g,0,g,0,g,0,g,0,g,80,g
+800,ritas,georgia peach italian ice,0,g,0,mg,30,g,77,g,0,g,0,g,0,g,0,g,75,g
+801,ritas,heath and vanilla milk shake,30,g,180,mg,470,g,102,g,14,g,20,g,0,g,0,g,75,g
+802,ritas,peanut butter milk shake,59,g,180,mg,730,g,74,g,21,g,25,g,0,g,4,g,57,g
+803,ritas,vanilla italian ice,0,g,0,mg,35,g,77,g,0,g,0,g,0,g,0,g,75,g
+804,ritas,strawberry italian ice,0,g,0,mg,35,g,85,g,0,g,0,g,0,g,0,g,83,g
+805,ritas,sour patch kids red italian ice,0,g,0,mg,35,g,72,g,0,g,0,g,0,g,0,g,71,g
+806,ritas,pineapple italian ice sugar free,0,g,0,mg,30,g,43,g,0,g,0,g,0,g,0,g,0,g
+807,ritas,blueberry italian ice,0,g,0,mg,35,g,86,g,0,g,0,g,0,g,0,g,84,g
+808,ritas,juicy pear italian ice,0,g,0,mg,35,g,77,g,0,g,0,g,0,g,0,g,74,g
+809,ritas,passion fruit italian ice,0,g,0,mg,35,g,89,g,0,g,0,g,0,g,0,g,89,g
+810,ritas,strawberry milk shake,32,g,180,mg,390,g,84,g,14,g,19,g,0,g,1,g,69,g
+811,ritas,key lime italian ice,0,g,0,mg,55,g,77,g,0,g,0,g,0,g,0,g,76,g
+812,ritas,florida orange italian ice,0,g,0,mg,40,g,76,g,0,g,0,g,0,g,0,g,68,g
+813,ritas,island fusion italian ice,0,g,0,mg,35,g,91,g,0,g,0,g,0,g,0,g,89,g
+814,ritas,strawberry lemonade italian ice,0,g,0,mg,35,g,73,g,0,g,0,g,0,g,0,g,71,g
+815,ritas,fruity pebbles and vanilla milk shake,32,g,180,mg,470,g,102,g,15,g,20,g,0,g,0,g,75,g
+816,ritas,strawberry colada italian ice,0,g,0,mg,35,g,89,g,0,g,0,g,0,g,0,g,87,g
+817,ritas,pineapple italian ice,0,g,0,mg,30,g,74,g,0,g,0,g,0,g,0,g,73,g
+818,ritas,raspberry italian ice,0,g,0,mg,95,g,81,g,0,g,0,g,0,g,1,g,76,g
+819,ritas,chocolate covered strawberry milk shake,33,g,155,mg,380,g,109,g,15,g,20,g,0,g,1,g,88,g
+820,ritas,cantaloupe italian ice,0,g,0,mg,35,g,77,g,0,g,0,g,0,g,0,g,75,g
+821,ritas,kiwi strawberry italian ice,0,g,0,mg,35,g,75,g,0,g,0,g,0,g,0,g,74,g
+822,ritas,pink lemonade talian ice sugar free,0,g,0,mg,35,g,47,g,0,g,0,g,0,g,0,g,0,g
+823,ritas,guava italian ice,0,g,0,mg,40,g,80,g,1,g,0,g,0,g,1,g,77,g
+824,ritas,alexs lemonade italian ice,0,g,0,mg,25,g,66,g,0,g,0,g,0,g,0,g,63,g
+825,ritas,peanut butter and jelly italian ice,7,g,0,mg,35,g,87,g,2,g,1.5,g,0,g,1,g,82,g
+826,ritas,vanilla milk shake,32,g,180,mg,400,g,92,g,13,g,19,g,0,g,0,g,71,g
+827,ritas,chocolate mint italian ice sugar free,0.5,g,0,mg,90,g,80,g,1,g,0,g,0,g,2,g,0,g
+828,ritas,raspberry lemonade italian ice,0,g,0,mg,30,g,91,g,0,g,0,g,0,g,0,g,88,g
+829,ritas,choc choc chip italian ice,3,g,0,mg,60,g,101,g,1,g,1.5,g,0,g,2,g,96,g
+830,ritas,tropical punch italian ice,0,g,0,mg,30,g,77,g,0,g,0,g,0,g,0,g,76,g
+831,ritas,honeydew italian ice,0,g,0,mg,35,g,89,g,0,g,0,g,0,g,0,g,87,g
+832,ritas,chocolate italian ice sugar free,0.5,g,0,mg,90,g,79,g,1,g,0,g,0,g,2,g,0,g
+833,ritas,starburst strawberry italian ice,0,g,0,mg,25,g,74,g,0,g,0,g,0,g,0,g,71,g
+834,ritas,margarita italian ice,0,g,0,mg,45,g,71,g,0,g,0,g,0,g,0,g,70,g
+835,ritas,mango orange italian ice,0,g,0,mg,30,g,87,g,0,g,0,g,0,g,0,g,82,g
+836,ritas,raspberry tea italian ice sugar free,0,g,0,mg,30,g,42,g,0,g,0,g,0,g,0,g,0,g
+837,ritas,light vanilla milk shake,15,g,120,mg,320,g,94,g,16,g,9,g,0,g,0,g,71,g
+838,ritas,orange cream milk shake,31,g,175,mg,390,g,93,g,13,g,19,g,0,g,0,g,72,g
+839,ritas,coffee milk shake,31,g,175,mg,390,g,95,g,13,g,19,g,0,g,0,g,71,g
+840,ritas,vanilla frozen custard,18,g,105,mg,230,g,37,g,7,g,11,g,0,g,0,g,29,g
+841,ritas,chocolate frozen custard,16,g,90,mg,190,g,44,g,7,g,10,g,0,g,0,g,34,g
+842,ritas,light vanilla frozen custard,7,g,65,mg,180,g,39,g,8,g,4,g,0,g,0,g,29,g
+843,ritas,strawberry frozen custard,17,g,100,mg,210,g,41,g,6,g,11,g,0,g,0,g,34,g
+844,ritas,orange cream frozen custard,18,g,105,mg,220,g,38,g,6,g,11,g,0,g,0,g,30,g
+845,ritas,coffee frozen custard,18,g,105,mg,220,g,39,g,6,g,11,g,0,g,0,g,30,g
+846,ritas,mint chocolate chip cream ice,6,g,0,mg,75,g,94,g,1,g,5,g,0,g,1,g,89,g
+847,ritas,cookies n cream cream ice,6,g,0,mg,125,g,123,g,1,g,4,g,0,g,0,g,113,g
+848,ritas,coconut cream cream ice,5,g,0,mg,80,g,80,g,0,g,4.5,g,0,g,0,g,76,g
+849,ritas,smores cream ice,6,g,0,mg,80,g,101,g,1,g,4.5,g,0,g,0,g,96,g
+850,ritas,birthday cake cream ice,4.5,g,0,mg,85,g,48,g,0,g,4.5,g,0,g,0,g,44,g
+851,ritas,fudge brownie cream ice,7,g,15,mg,135,g,97,g,2,g,5,g,0,g,2,g,85,g
+852,ritas,banana split cream cream ice,5,g,0,mg,75,g,91,g,1,g,4.5,g,0,g,1,g,85,g
+853,ritas,cookie dough cream ice,6,g,0,mg,110,g,86,g,1,g,4.5,g,0,g,0,g,78,g
+854,ritas,iced coffee cream ice,4,g,0,mg,220,g,78,g,1,g,3.5,g,0,g,0,g,73,g
+855,ritas,mint oreo cream ice,6,g,0,mg,130,g,95,g,1,g,4,g,0,g,0,g,87,g
+856,ritas,black cherry cheesecake cream ice,4.5,g,5,mg,85,g,89,g,1,g,4,g,0,g,0,g,81,g
+857,ritas,vanilla cream cream ice,3.5,g,0,mg,80,g,79,g,0,g,3.5,g,0,g,0,g,75,g
+858,ritas,cheesecake cream ice,4.5,g,5,mg,85,g,87,g,1,g,4,g,0,g,0,g,83,g
+859,ritas,marshmallow peanut butter cream ice,11,g,0,mg,80,g,95,g,2,g,4.5,g,0,g,1,g,90,g
+860,ritas,strawberry banana cream ice,3.5,g,0,mg,75,g,92,g,0,g,3.5,g,0,g,0,g,87,g
+861,ritas,pumpkin pie cream ice,4,g,0,mg,80,g,71,g,1,g,3.5,g,0,g,1,g,64,g
+862,ritas,oatmeal raisin cookie cream ice,4,g,0,mg,140,g,88,g,1,g,3.5,g,0,g,0,g,79,g
+863,ritas,choc chip cheesecake cream ice,7,g,5,mg,85,g,90,g,1,g,5,g,0,g,1,g,85,g
+864,ritas,red velvet cake cream ice,4,g,0,mg,130,g,87,g,2,g,3.5,g,0,g,0,g,81,g
+865,ritas,root beer float cream ice,1.5,g,0,mg,55,g,81,g,0,g,1.5,g,0,g,0,g,77,g
+866,ritas,oreo cookies topping,5,g,0,mg,160,g,20,g,1,g,1.5,g,0,g,1,g,12,g
+867,ritas,wet walnuts topping,9,g,0,mg,0,g,13,g,2,g,0.5,g,0,g,1,g,10,g
+868,ritas,hot fudge topping,3.5,g,0,mg,45,g,16,g,1,g,3.5,g,0,g,0,g,12,g
+869,ritas,peanut butter topping,15,g,0,mg,190,g,6,g,4,g,3,g,0,g,2,g,3,g
+870,ritas,reeses peanut butter cups topping,9,g,0,mg,110,g,16,g,3,g,3,g,0,g,1,g,13,g
+871,ritas,mandms minis topping,7,g,5,mg,20,g,19,g,1,g,4,g,0,g,1,g,18,g
+872,ritas,fruity pebbles topping,1,g,0,mg,180,g,24,g,1,g,1,g,0,g,0,g,9,g
+873,ritas,whipped cream topping,4.5,g,25,mg,0,g,5,g,0,g,2.5,g,0,g,0,g,5,g
+874,ritas,wonka nerds topping,0,g,0,mg,0,g,27,g,0,g,0,g,0,g,0,g,26,g
+875,ritas,nilla wafers topping,3,g,0,mg,150,g,22,g,1,g,1.5,g,0,g,0,g,10,g
+876,ritas,hot caramel topping,1.5,g,5,mg,90,g,19,g,1,g,1,g,0,g,0,g,12,g
+877,ritas,heath english toffee topping,9,g,5,mg,100,g,18,g,1,g,5,g,0,g,0,g,17,g
+878,ritas,strawberry topping,0,g,0,mg,5,g,10,g,0,g,0,g,0,g,0,g,0,g
+879,ritas,mini gummy bears topping,0,g,0,mg,5,g,21,g,2,g,0,g,0,g,0,g,14,g
+880,ritas,snickers topping,6,g,5,mg,70,g,17,g,2,g,2.5,g,0,g,1,g,14,g
+881,ritas,reeses mini pieces topping,7,g,0,mg,55,g,18,g,3,g,4.5,g,0,g,1,g,16,g
+882,ritas,chopped peanuts topping,14,g,0,mg,0,g,5,g,7,g,2,g,0,g,2,g,1,g
+883,ritas,mini chocolate chips topping,8,g,0,mg,0,g,18,g,1,g,5,g,0,g,2,g,15,g
+884,ritas,maraschino cherries topping,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+885,ritas,all natural banana ice ice flight portion,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,1,g,16,g
+886,ritas,all natural banana ice kids portion,0,g,0,mg,10,g,40,g,0,g,0,g,0,g,0,g,38,g
+887,ritas,all natural banana ice large portion,0,g,0,mg,20,g,88,g,1,g,0,g,0,g,3,g,83,g
+888,ritas,all natural banana ice quart portion,0,g,0,mg,35,g,155,g,2,g,0,g,0,g,6,g,148,g
+889,ritas,all natural banana ice small portion,0,g,0,mg,15,g,54,g,1,g,0,g,0,g,2,g,52,g
+890,ritas,all natural cranberry ice ice flight portion,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,16,g
+891,ritas,all natural cranberry ice kids portion,0,g,0,mg,10,g,40,g,0,g,0,g,0,g,0,g,38,g
+892,ritas,all natural cranberry ice large portion,0,g,0,mg,20,g,89,g,0,g,0,g,0,g,0,g,85,g
+893,ritas,all natural cranberry ice quart portion,0,g,0,mg,35,g,157,g,0,g,0,g,0,g,0,g,150,g
+894,ritas,all natural cranberry ice small portion,0,g,0,mg,10,g,55,g,0,g,0,g,0,g,0,g,52,g
+895,ritas,all natural cranberry pineapple ice ice flight portion,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,16,g
+896,ritas,all natural cranberry pineapple ice kids portion,0,g,0,mg,10,g,40,g,0,g,0,g,0,g,0,g,39,g
+897,ritas,all natural cranberry pineapple ice large portion,0,g,0,mg,20,g,89,g,0,g,0,g,0,g,0,g,85,g
+898,ritas,all natural cranberry pineapple ice quart portion,0,g,0,mg,35,g,157,g,0,g,0,g,0,g,0,g,151,g
+899,ritas,all natural cranberry pineapple ice small portion,0,g,0,mg,10,g,55,g,0,g,0,g,0,g,0,g,53,g
+900,ritas,all natural cranberry strawberry ice ice flight portion,0,g,0,mg,0,g,16,g,0,g,0,g,0,g,1,g,15,g
+901,ritas,all natural cranberry strawberry ice kids portion,0,g,0,mg,10,g,38,g,0,g,0,g,0,g,0,g,36,g
+902,ritas,all natural cranberry strawberry ice large portion,0,g,0,mg,20,g,85,g,1,g,0,g,0,g,3,g,79,g
+903,ritas,all natural cranberry strawberry ice quart portion,0,g,0,mg,35,g,150,g,2,g,0,g,0,g,5,g,139,g
+904,ritas,all natural cranberry strawberry ice small portion,0,g,0,mg,10,g,52,g,1,g,0,g,0,g,2,g,49,g
+905,ritas,all natural orange ice ice flight portion,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,16,g
+906,ritas,all natural orange ice kids portion,0,g,0,mg,10,g,40,g,0,g,0,g,0,g,0,g,39,g
+907,ritas,all natural orange ice large portion,0,g,0,mg,20,g,89,g,1,g,0,g,0,g,1,g,86,g
+908,ritas,all natural orange ice quart portion,0,g,0,mg,35,g,157,g,1,g,0,g,0,g,1,g,152,g
+909,ritas,all natural orange ice small portion,0,g,0,mg,10,g,55,g,0,g,0,g,0,g,0,g,53,g
+910,ritas,all natural pineapple ice ice flight portion,0,g,0,mg,0,g,18,g,0,g,0,g,0,g,0,g,18,g
+911,ritas,all natural pineapple ice kids portion,0,g,0,mg,10,g,43,g,0,g,0,g,0,g,0,g,42,g
+912,ritas,all natural pineapple ice large portion,0,g,0,mg,20,g,94,g,0,g,0,g,0,g,0,g,92,g
+913,ritas,all natural pineapple ice quart portion,0,g,0,mg,35,g,166,g,1,g,0,g,0,g,1,g,163,g
+914,ritas,all natural pineapple ice small portion,0,g,0,mg,15,g,58,g,0,g,0,g,0,g,0,g,57,g
+915,ritas,all natural strawberry banana ice ice flight portion,0,g,0,mg,0,g,15,g,0,g,0,g,0,g,1,g,14,g
+916,ritas,all natural strawberry banana ice kids portion,0,g,0,mg,10,g,35,g,0,g,0,g,0,g,0,g,34,g
+917,ritas,all natural strawberry banana ice large portion,0,g,0,mg,20,g,78,g,1,g,0,g,0,g,3,g,74,g
+918,ritas,all natural strawberry banana ice quart portion,0,g,0,mg,35,g,138,g,2,g,0,g,0,g,6,g,131,g
+919,ritas,all natural strawberry banana ice small portion,0,g,0,mg,10,g,48,g,1,g,0,g,0,g,2,g,46,g
+920,ritas,all natural strawberry ice ice flight portion,0,g,0,mg,0,g,14,g,0,g,0,g,0,g,1,g,13,g
+921,ritas,all natural strawberry ice kids portion,0,g,0,mg,10,g,33,g,1,g,0,g,0,g,0,g,30,g
+922,ritas,all natural strawberry ice large portion,0,g,0,mg,20,g,75,g,1,g,0,g,0,g,5,g,70,g
+923,ritas,all natural strawberry ice quart portion,0,g,0,mg,35,g,133,g,3,g,0,g,0,g,9,g,123,g
+924,ritas,all natural strawberry ice small portion,0,g,0,mg,10,g,47,g,1,g,0,g,0,g,3,g,43,g
+925,ritas,all natural strawberry pineapple ice ice flight portion,0,g,0,mg,0,g,14,g,0,g,0,g,0,g,1,g,13,g
+926,ritas,all natural strawberry pineapple ice kids portion,0,g,0,mg,10,g,32,g,0,g,0,g,0,g,0,g,31,g
+927,ritas,all natural strawberry pineapple ice large portion,0,g,0,mg,20,g,71,g,1,g,0,g,0,g,3,g,68,g
+928,ritas,all natural strawberry pineapple ice quart portion,0,g,0,mg,35,g,126,g,2,g,0,g,0,g,5,g,120,g
+929,ritas,all natural strawberry pineapple ice small portion,0,g,0,mg,10,g,44,g,1,g,0,g,0,g,2,g,42,g
+930,ritas,all natural orange pineapple ice ice flight portion,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,17,g
+931,ritas,all natural orange pineapple ice kids portion,0,g,0,mg,10,g,41,g,0,g,0,g,0,g,0,g,40,g
+932,ritas,all natural orange pineapple ice large portion,0,g,0,mg,20,g,91,g,1,g,0,g,0,g,0,g,88,g
+933,ritas,all natural orange pineapple ice quart portion,0,g,0,mg,35,g,161,g,1,g,0,g,0,g,1,g,156,g
+934,ritas,all natural orange pineapple ice small portion,0,g,0,mg,10,g,56,g,0,g,0,g,0,g,0,g,55,g
+935,ritas,apple berry blue ice ice flight portion,0,g,0,mg,15,g,19,g,0,g,0,g,0,g,0,g,19,g
+936,ritas,apple berry blue ice kids portion,0,g,0,mg,30,g,46,g,0,g,0,g,0,g,0,g,44,g
+937,ritas,apple berry blue ice large portion,0,g,0,mg,70,g,102,g,0,g,0,g,0,g,0,g,97,g
+938,ritas,apple berry blue ice quart portion,0,g,0,mg,120,g,180,g,0,g,0,g,0,g,0,g,172,g
+939,ritas,apple berry blue ice small portion,0,g,0,mg,45,g,63,g,0,g,0,g,0,g,0,g,60,g
+940,ritas,banana ice ice flight portion,0,g,0,mg,10,g,23,g,0,g,0,g,0,g,0,g,22,g
+941,ritas,banana ice kids portion,0,g,0,mg,25,g,54,g,0,g,0,g,0,g,0,g,52,g
+942,ritas,banana ice large portion,0,g,0,mg,60,g,117,g,0,g,0,g,0,g,0,g,113,g
+943,ritas,banana ice quart portion,2,g,0,mg,95,g,212,g,0,g,2,g,0,g,1,g,203,g
+944,ritas,banana ice small portion,1,g,0,mg,35,g,74,g,0,g,1,g,0,g,0,g,71,g
+945,ritas,banana milkshake large,35,g,235,mg,440,g,99,g,16,g,22,g,0,g,0,g,89,g
+946,ritas,banana milkshake small,25,g,170,mg,320,g,67,g,11,g,16,g,0,g,0,g,60,g
+947,ritas,banana pint,35,g,240,mg,400,g,77,g,13,g,22,g,0,g,0,g,67,g
+948,ritas,banana split cream ice ice flight portion,2,g,0,mg,15,g,22,g,0,g,1,g,0,g,0,g,21,g
+949,ritas,banana split cream ice kids portion,4,g,0,mg,35,g,54,g,0,g,3,g,0,g,0,g,50,g
+950,ritas,banana split cream ice large portion,8,g,0,mg,75,g,118,g,1,g,6,g,0,g,0,g,111,g
+951,ritas,banana split cream ice quart portion,13,g,0,mg,135,g,209,g,2,g,10,g,0,g,0,g,197,g
+952,ritas,banana split cream ice small portion,5,g,0,mg,45,g,73,g,1,g,4,g,0,g,0,g,69,g
+953,ritas,banana sundae kids portion,7,g,50,mg,85,g,16,g,3,g,5,g,0,g,0,g,14,g
+954,ritas,banana sundae large portion,18,g,120,mg,200,g,36,g,7,g,11,g,0,g,0,g,31,g
+955,ritas,banana sundae regular portion,13,g,90,mg,160,g,30,g,5,g,9,g,0,g,0,g,26,g
+956,ritas,birthday cake ice ice flight portion,1,g,0,mg,50,g,22,g,0,g,1,g,0,g,0,g,20,g
+957,ritas,birthday cake ice kids portion,3,g,0,mg,125,g,53,g,0,g,3,g,0,g,0,g,48,g
+958,ritas,birthday cake ice large portion,7,g,0,mg,270,g,117,g,1,g,5,g,0,g,0,g,105,g
+959,ritas,birthday cake ice quart portion,12,g,0,mg,480,g,207,g,2,g,9,g,0,g,0,g,186,g
+960,ritas,birthday cake ice small portion,4,g,0,mg,170,g,73,g,1,g,4,g,0,g,0,g,65,g
+961,ritas,black and white milkshake large,43,g,245,mg,610,g,125,g,18,g,29,g,0,g,0,g,110,g
+962,ritas,black and white milkshake small,30,g,175,mg,400,g,79,g,12,g,20,g,0,g,0,g,70,g
+963,ritas,black cherry cheesecake ice ice flight portion,1,g,0,mg,20,g,22,g,0,g,1,g,0,g,0,g,20,g
+964,ritas,black cherry cheesecake ice kids portion,3,g,0,mg,50,g,52,g,0,g,2,g,0,g,0,g,49,g
+965,ritas,black cherry cheesecake ice large portion,6,g,5,mg,115,g,117,g,1,g,5,g,0,g,0,g,104,g
+966,ritas,black cherry cheesecake ice quart portion,10,g,5,mg,200,g,205,g,2,g,9,g,0,g,0,g,190,g
+967,ritas,black cherry cheesecake ice small portion,4,g,0,mg,70,g,73,g,1,g,3,g,0,g,0,g,64,g
+968,ritas,black raspberry milkshake large,36,g,235,mg,440,g,95,g,16,g,23,g,0,g,0,g,84,g
+969,ritas,black raspberry milkshake small,26,g,170,mg,320,g,64,g,11,g,16,g,0,g,0,g,56,g
+970,ritas,black raspberry pint,36,g,245,mg,410,g,73,g,13,g,23,g,0,g,0,g,62,g
+971,ritas,black raspberry sundae kids portion,8,g,50,mg,85,g,16,g,3,g,5,g,0,g,0,g,13,g
+972,ritas,black raspberry sundae large portion,18,g,120,mg,200,g,36,g,6,g,11,g,0,g,0,g,30,g
+973,ritas,black raspberry sundae regular portion,14,g,95,mg,160,g,28,g,5,g,9,g,0,g,0,g,24,g
+974,ritas,blendini stuffed topping hot caramel,0,g,0,mg,30,g,58,g,4,g,0,g,0,g,0,g,36,g
+975,ritas,blendini stuffed topping hot fudge,0,g,0,mg,0,g,54,g,0,g,0,g,0,g,0,g,52,g
+976,ritas,blendini stuffed topping reesess peanut butter sauce,10,g,0,mg,0,g,40,g,0,g,8,g,0,g,0,g,24,g
+977,ritas,blendini stuffed topping strawberry topping,0,g,0,mg,10,g,21,g,0,g,0,g,0,g,1,g,18,g
+978,ritas,blendini topping apple pie filling,0,g,0,mg,20,g,25,g,0,g,0,g,0,g,0,g,20,g
+979,ritas,blendini topping brownie batter bites,3,g,5,mg,40,g,15,g,1,g,1,g,0,g,1,g,8,g
+980,ritas,blendini topping chocolate chips,7,g,0,mg,0,g,19,g,1,g,5,g,0,g,0,g,15,g
+981,ritas,blendini topping chopped peanuts,14,g,0,mg,0,g,6,g,7,g,2,g,0,g,0,g,1,g
+982,ritas,blendini topping cookie dough bites,3,g,5,mg,55,g,15,g,1,g,1,g,0,g,0,g,9,g
+983,ritas,blendini topping heath,9,g,5,mg,100,g,18,g,1,g,5,g,0,g,0,g,17,g
+984,ritas,blendini topping hot caramel,2,g,5,mg,70,g,19,g,1,g,1,g,0,g,0,g,14,g
+985,ritas,blendini topping hot fudge,3,g,0,mg,80,g,15,g,1,g,3,g,0,g,1,g,13,g
+986,ritas,blendini topping mandms minis,6,g,0,mg,20,g,20,g,1,g,4,g,0,g,1,g,18,g
+987,ritas,blendini topping maraschino cherries,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+988,ritas,blendini topping mini gummy bears,0,g,0,mg,15,g,29,g,2,g,0,g,0,g,0,g,18,g
+989,ritas,blendini topping nerds rainbow,0,g,0,mg,0,g,27,g,0,g,0,g,0,g,0,g,26,g
+990,ritas,blendini topping nilla wafers,5,g,5,mg,110,g,20,g,1,g,1,g,0,g,0,g,10,g
+991,ritas,blendini topping nutella,9,g,0,mg,10,g,17,g,2,g,3,g,0,g,1,g,16,g
+992,ritas,blendini topping oreo,5,g,0,mg,140,g,18,g,1,g,2,g,0,g,0,g,10,g
+993,ritas,blendini topping pie pieces,3,g,5,mg,15,g,7,g,1,g,1,g,0,g,0,g,2,g
+994,ritas,blendini topping reeses pb cups,8,g,0,mg,100,g,16,g,3,g,3,g,0,g,1,g,14,g
+995,ritas,blendini topping reeses peanut butter sauce,18,g,0,mg,130,g,6,g,6,g,3,g,0,g,2,g,3,g
+996,ritas,blendini topping sprinkles chocolate,5,g,0,mg,0,g,20,g,0,g,4,g,0,g,0,g,12,g
+997,ritas,blendini topping sprinkles rainbow,5,g,0,mg,0,g,20,g,0,g,4,g,0,g,0,g,12,g
+998,ritas,blendini topping strawberry topping,0,g,0,mg,10,g,21,g,0,g,0,g,0,g,1,g,18,g
+999,ritas,blendini topping wet walnuts,18,g,0,mg,0,g,25,g,4,g,2,g,0,g,3,g,20,g

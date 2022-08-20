@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,beef o bradys,grilled shrimp angus skirt streak and grilled seasoned chicken fajita trio with peppers and onions tortillas cheddar jack cheese salsa and sour cream,58,g,210,mg,4390,g,61,g,51,g,23,g,3,g,7,g,7,g
+1,beef o bradys,chicken and steak fajita duo with tortillas cheddar jack cheese salsa and sour cream,47,g,130,mg,3090,g,61,g,42,g,21,g,0,g,7,g,7,g
+2,beef o bradys,steak and shrimp duo fajitas with tortillas cheddar jack cheese salsa and sour cream,56,g,185,mg,3580,g,61,g,41,g,22,g,3,g,7,g,7,g
+3,beef o bradys,shrimp fajitas with tortillas cheddar jack cheese salsa and sour cream,60,g,230,mg,3870,g,61,g,38,g,21,g,6,g,7,g,7,g
+4,beef o bradys,chicken and shrimp fajitas duo with tortillas cheddar jack cheese salsa and sour cream,50,g,175,mg,3380,g,61,g,38,g,19,g,3,g,7,g,7,g
+5,beef o bradys,steak fajitas with tortillas cheddar jack cheese salsa and sour cream,53,g,140,mg,3290,g,61,g,45,g,24,g,0,g,7,g,7,g
+6,beef o bradys,curly fries side,23,g,0,mg,840,g,42,g,4,g,3.5,g,0,g,4,g,0,g
+7,beef o bradys,basket of curly fries,45,g,0,mg,1680,g,84,g,8,g,7,g,0,g,8,g,0,g
+8,beef o bradys,fries with queso basket,45,g,30,mg,2490,g,106,g,16,g,14,g,1,g,8,g,2,g
+9,beef o bradys,straight fries side,22,g,0,mg,940,g,50,g,4,g,4.5,g,0,g,4,g,0,g
+10,beef o bradys,basket of straight fries with queso dip,45,g,30,mg,2490,g,106,g,16,g,14,g,1,g,8,g,2,g
+11,beef o bradys,kids fried chicken tenders with treat without sauce or drink,10,g,50,mg,930,g,26,g,20,g,2,g,0,g,1,g,5,g
+12,beef o bradys,kids mini cheeseburgers with treat without sides or drink,36,g,60,mg,2290,g,46,g,21,g,13,g,3,g,0,g,1,g
+13,beef o bradys,kids grilled cheese sandwich with treat without sides or drink,29,g,40,mg,1410,g,54,g,1,g,11,g,3,g,1,g,8,g
+14,beef o bradys,kids pepperoni pizza 7 with treat,47,g,110,mg,2490,g,95,g,39,g,23,g,0.5,g,3,g,13,g
+15,beef o bradys,kids cheese pizza 7 with treat,31,g,65,mg,1920,g,95,g,33,g,16,g,0.5,g,3,g,13,g
+16,beef o bradys,kids chicken quesadilla with treat without sides or drink,22,g,80,mg,1290,g,41,g,28,g,13,g,0,g,2,g,5,g
+17,beef o bradys,kids fried chicken nuggets and treat without sides or drink,10,g,50,mg,930,g,26,g,20,g,2,g,0,g,1,g,5,g
+18,beef o bradys,kids mac and cheese with treat without sides or drink,10,g,15,mg,620,g,54,g,11,g,3,g,0,g,2,g,12,g
+19,beef o bradys,kids cheese quesadilla with treat without sides or sauce,21,g,60,mg,1030,g,40,g,21,g,13,g,0,g,2,g,5,g
+20,beef o bradys,applesauce side,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,1,g,22,g
+21,beef o bradys,kids hot dog with treat without sides or drink,23,g,45,mg,1020,g,42,g,15,g,9,g,1,g,1,g,8,g
+22,beef o bradys,lettuce wraps chicken with quinoa without broccoli,41,g,65,mg,1260,g,50,g,24,g,5,g,0,g,7,g,13,g
+23,beef o bradys,steak bowl with rice,74,g,5,mg,2500,g,79,g,38,g,8,g,3,g,5,g,7,g
+24,beef o bradys,grilled chicken dinner with rice and broccoli,37,g,75,mg,1990,g,68,g,38,g,7,g,9,g,4,g,2,g
+25,beef o bradys,lettuce wraps shrimp with broccol without quinoa,33,g,90,mg,1540,g,45,g,16,g,5,g,3,g,8,g,24,g
+26,beef o bradys,grilled chicken tender basket,38,g,110,mg,2100,g,70,g,41,g,7,g,0,g,6,g,16,g
+27,beef o bradys,lettuce wraps chicken with broccoli without quinoa,38,g,65,mg,1130,g,32,g,22,g,5,g,0,g,8,g,14,g
+28,beef o bradys,value menu hot dogs combo with fries without drink,61,g,90,mg,2880,g,116,g,34,g,22,g,2,g,6,g,8,g
+29,beef o bradys,chargrilled ribeye steak with caesar side salad without sides,59,g,165,mg,2620,g,17,g,58,g,17,g,0.5,g,3,g,1,g
+30,beef o bradys,ribs with fries and coleslaw full order,103,g,240,mg,6250,g,107,g,90,g,36,g,0,g,6,g,52,g
+31,beef o bradys,chargrilled sirloin steak with caesar side salad without sides,46,g,110,mg,2800,g,17,g,43,g,12,g,0.5,g,3,g,2,g
+32,beef o bradys,lettuce wraps chicken without quinoa or broccoli,38,g,65,mg,1110,g,27,g,19,g,5,g,0,g,5,g,13,g
+33,beef o bradys,nashville hot chicken dinner with rice and broccoli,16,g,75,mg,2120,g,69,g,38,g,3.5,g,0,g,5,g,3,g
+34,beef o bradys,chargrilled ribeye steak with garden side salad no dressing without sides,42,g,155,mg,2040,g,18,g,54,g,14,g,0,g,2,g,4,g
+35,beef o bradys,lettuce wraps shrimp with quinoa and broccoli,36,g,90,mg,1690,g,68,g,21,g,5,g,3,g,10,g,24,g
+36,beef o bradys,chargrilled pork chops with garden side salad no dressing without sides,37,g,170,mg,3100,g,18,g,53,g,14,g,0,g,1,g,4,g
+37,beef o bradys,steak bowl with side garden salad without dressing,80,g,145,mg,2840,g,89,g,45,g,22,g,3,g,7,g,9,g
+38,beef o bradys,ribs with fries and coleslaw half order,71,g,135,mg,4000,g,88,g,51,g,23,g,0,g,6,g,34,g
+39,beef o bradys,fish n chips basket combo with fries without drink,40,g,40,mg,1490,g,70,g,22,g,8,g,0,g,4,g,0,g
+40,beef o bradys,lettuce wraps shrimp without quinoa or broccoli,33,g,90,mg,1520,g,40,g,13,g,5,g,3,g,5,g,23,g
+41,beef o bradys,veggie bowl with quinoa,58,g,60,mg,1380,g,66,g,23,g,11,g,0.5,g,5,g,7,g
+42,beef o bradys,blackened chicken dinner with rice and broccoli,37,g,75,mg,2070,g,67,g,38,g,7,g,9,g,5,g,1,g
+43,beef o bradys,veggie bowl with rice,63,g,60,mg,1800,g,79,g,20,g,13,g,3,g,5,g,7,g
+44,beef o bradys,value menu chili dog combo with chii and fries without drink,71,g,115,mg,3380,g,127,g,43,g,25,g,2.5,g,8,g,1,g
+45,beef o bradys,lettuce wraps shrimp with quinoa without broccoli,36,g,90,mg,1670,g,63,g,18,g,5,g,3,g,7,g,23,g
+46,beef o bradys,value menu chicken tender basket combo with fries without drink,30,g,70,mg,2430,g,80,g,34,g,6,g,0,g,5,g,1,g
+47,beef o bradys,chargrilled pork chops with caesar side salad without sides,54,g,180,mg,3690,g,17,g,57,g,18,g,0.5,g,0,g,1,g
+48,beef o bradys,lettuce wraps chicken with quinoa and broccol,41,g,65,mg,1280,g,55,g,27,g,5,g,0,g,10,g,14,g
+49,beef o bradys,steak bowl with quinoa,70,g,115,mg,2080,g,66,g,42,g,16,g,0.5,g,5,g,7,g
+50,beef o bradys,veggie flatbread,36,g,40,mg,1260,g,43,g,20,g,12,g,0,g,2,g,6,g
+51,beef o bradys,chicken philly flatbread,38,g,75,mg,1540,g,39,g,23,g,10,g,0,g,1,g,4,g
+52,beef o bradys,kitchen sink pizza large,19,g,35,mg,980,g,42,g,16,g,8,g,0,g,0,g,6,g
+53,beef o bradys,cheese pizza large,10,g,20,mg,720,g,38,g,12,g,5,g,0,g,0,g,4,g
+54,beef o bradys,great white pizza,16,g,25,mg,680,g,32,g,14,g,5,g,0,g,2,g,2,g
+55,beef o bradys,great white pizza with chicken 7 personal,59,g,110,mg,2290,g,71,g,50,g,19,g,1,g,4,g,7,g
+56,beef o bradys,five meat pizza large,17,g,35,mg,100,g,39,g,16,g,8,g,0,g,0,g,4,g
+57,beef o bradys,great white pizza with chicken,16,g,30,mg,710,g,32,g,16,g,5,g,0,g,2,g,2,g
+58,beef o bradys,great white pizza 7 personal,58,g,90,mg,2200,g,71,g,41,g,19,g,1,g,4,g,7,g
+59,beef o bradys,bbq chicken flatbread,13,g,35,mg,1000,g,63,g,17,g,4,g,0,g,0,g,28,g
+60,beef o bradys,ultimate pepperoni pizza large,17,g,35,mg,920,g,37,g,15,g,8,g,0,g,0,g,3,g
+61,beef o bradys,add on ranch dressing,16.5,g,15,mg,345,g,1.5,g,1.5,g,3,g,0,g,0,g,1.5,g
+62,beef o bradys,add on greek vinaigrette salad dressing,27,g,0,mg,780,g,3,g,3,g,45,g,0,g,0,g,3,g
+63,beef o bradys,add on fat free ranch dressing,0,g,0,mg,1100,g,26,g,0,g,0,g,0,g,2,g,10,g
+64,beef o bradys,add on honey mustard dressing,36,g,15,mg,390,g,24,g,0,g,6,g,0,g,0,g,21,g
+65,beef o bradys,add on creamy poblano dressing,45,g,30,mg,840,g,3,g,0,g,7,g,0,g,0,g,0,g
+66,beef o bradys,add on blue cheese dressing,22.5,g,30,mg,360,g,3,g,1.5,g,4.5,g,0,g,0,g,1.5,g
+67,beef o bradys,add on 1000 island dressing,36,g,15,mg,720,g,15,g,0,g,6,g,0,g,0,g,9,g
+68,beef o bradys,add on blue cheese dressing to boneless wings,22,g,30,mg,360,g,3,g,1,g,4.5,g,0,g,0,g,1,g
+69,beef o bradys,add on ranch dressing to boneless wings,16,g,15,mg,340,g,1,g,1,g,3,g,0,g,0,g,1,g
+70,beef o bradys,add on light italian dressing,0,g,0,mg,740,g,10,g,0,g,0,g,0,g,0,g,6,g
+71,beef o bradys,add on caesar dressing,37,g,35,mg,960,g,2,g,3,g,7,g,0.5,g,1,g,0,g
+72,beef o bradys,add on balsamic vinaigrette dressing,15,g,0,mg,570,g,12,g,0,g,1.5,g,0,g,0,g,12,g
+73,beef o bradys,add on lite raspberry vinaigrette,18,g,0,mg,370,g,12,g,0,g,3,g,0,g,0,g,9,g
+74,beef o bradys,grilled chicken caesar salad with caesar dressing,50,g,95,mg,2150,g,31,g,32,g,12,g,0.5,g,5,g,2,g
+75,beef o bradys,chef salad without dressing,21,g,155,mg,1990,g,13,g,49,g,10,g,0,g,3,g,9,g
+76,beef o bradys,buffalo chicken salad without dressing,30,g,70,mg,1870,g,43,g,31,g,8,g,0,g,4,g,2,g
+77,beef o bradys,mediterranean chicken salad without dressing,19,g,65,mg,2460,g,20,g,25,g,7,g,0,g,6,g,6,g
+78,beef o bradys,blackened big catch salad without dressing,20,g,85,mg,1300,g,15,g,40,g,8,g,3,g,5,g,10,g
+79,beef o bradys,grilled shrimp caesar salad without dressing,23,g,105,mg,2440,g,28,g,25,g,7,g,3.5,g,4,g,2,g
+80,beef o bradys,mediterranean salad without dressing,17,g,30,mg,1950,g,19,g,11,g,7,g,0,g,6,g,6,g
+81,beef o bradys,garden salad large,12,g,30,mg,560,g,32,g,14,g,5,g,0,g,3,g,7,g
+82,beef o bradys,chargrilled black and blue steak salad without dressing,30,g,90,mg,1510,g,24,g,39,g,10,g,0,g,4,g,8,g
+83,beef o bradys,blackened chicken caesar salad without dressing,13,g,60,mg,1230,g,28,g,30,g,5,g,0,g,4,g,2,g
+84,beef o bradys,grilled big catch salad without dressing,20,g,85,mg,1400,g,15,g,40,g,8,g,3,g,5,g,10,g
+85,beef o bradys,value menu mediterranean salad without dressing,12,g,15,mg,1370,g,12,g,6,g,4,g,0,g,3,g,3,g
+86,beef o bradys,chargrilled salmon mediterranean salad,42,g,135,mg,3570,g,20,g,50,g,11,g,0,g,2,g,6,g
+87,beef o bradys,blackened shrimp salad without dressing,27,g,110,mg,1190,g,16,g,21,g,8,g,3,g,4,g,9,g
+88,beef o bradys,buffalo chicken salad with blue cheese dressing,75,g,130,mg,2590,g,49,g,34,g,17,g,0,g,4,g,2,g
+89,beef o bradys,mediterranean grilled shrimp salad without dressing,28,g,110,mg,3710,g,19,g,20,g,9,g,3,g,6,g,6,g
+90,beef o bradys,grilled shrimp caesar salad with caesar dressing,60,g,140,mg,3400,g,30,g,28,g,14,g,4,g,5,g,2,g
+91,beef o bradys,value menu small grilled chicken salad without dressing,9,g,35,mg,360,g,9,g,13,g,3.5,g,0,g,2,g,5,g
+92,beef o bradys,value menu quinoa power salad without dressing,9,g,25,mg,570,g,53,g,20,g,2,g,0.5,g,7,g,4,g
+93,beef o bradys,grilled chicken salad without dressing,18,g,85,mg,780,g,17,g,33,g,7,g,0,g,4,g,9,g
+94,beef o bradys,grilled shrimp salad without dressing,27,g,110,mg,1960,g,15,g,21,g,8,g,3,g,4,g,9,g
+95,beef o bradys,blackened shrimp caesar salad with caesar dressing,60,g,140,mg,2630,g,30,g,28,g,14,g,4,g,5,g,2,g
+96,beef o bradys,santa fe salad without sauce or dressing,30,g,95,mg,1400,g,64,g,39,g,14,g,0,g,5,g,6,g
+97,beef o bradys,mediterranean blackened shrimp salad without dressing,28,g,110,mg,2940,g,20,g,20,g,9,g,3,g,6,g,6,g
+98,beef o bradys,value menu small chef salad without dressing,19,g,110,mg,1290,g,7,g,30,g,10,g,0,g,2,g,5,g
+99,beef o bradys,mediterranean grilled lemon pepper fish salad without dressing,30,g,90,mg,3560,g,21,g,40,g,10,g,3,g,6,g,6,g
+100,beef o bradys,value menu grilled chicken caesar salad without dressing,7,g,30,mg,590,g,14,g,15,g,2.5,g,0,g,2,g,1,g
+101,beef o bradys,value menu mediterranean chicken salad without dressing,13,g,35,mg,1620,g,13,g,13,g,4,g,0,g,3,g,3,g
+102,beef o bradys,value menu blackened chicken caesar salad without dressing,7,g,30,mg,610,g,14,g,15,g,2.5,g,0,g,2,g,1,g
+103,beef o bradys,grilled chicken caesar salad without dressing,13,g,60,mg,1190,g,29,g,29,g,5,g,0,g,4,g,2,g
+104,beef o bradys,mediterranean blackened fish salad without dressing,30,g,90,mg,3330,g,21,g,40,g,10,g,3,g,6,g,6,g
+105,beef o bradys,blackened shrimp caesar salad without dressing,23,g,105,mg,1670,g,28,g,25,g,7,g,3.5,g,4,g,2,g
+106,beef o bradys,o brady burger,86,g,140,mg,2510,g,92,g,46,g,29,g,3.5,g,7,g,10,g
+107,beef o bradys,add 1000 island dressing,36,g,15,mg,720,g,15,g,0,g,6,g,0,g,0,g,9,g
+108,beef o bradys,add au jus,0,g,0,mg,480,g,2,g,0,g,0,g,0,g,0,g,0,g
+109,beef o bradys,add balsamic vinaigrette dressing,15,g,0,mg,570,g,12,g,0,g,1.5,g,0,g,0,g,12,g
+110,beef o bradys,add blue cheese dressing,22,g,30,mg,360,g,3,g,1,g,4.5,g,0,g,0,g,1,g
+111,beef o bradys,add blue cheese dressing to boneless wings,22,g,30,mg,360,g,3,g,1,g,4.5,g,0,g,0,g,1,g
+112,beef o bradys,add blue cheese dressing to traditional wings,22,g,30,mg,360,g,3,g,1,g,4.5,g,0,g,0,g,1,g
+113,beef o bradys,add blue cheese dressing 3 fl oz,45,g,60,mg,720,g,6,g,3,g,9,g,0,g,0,g,3,g
+114,beef o bradys,add butter,14,g,40,mg,110,g,0,g,0,g,10,g,0,g,0,g,0,g
+115,beef o bradys,add caesar dressing,37,g,35,mg,960,g,2,g,3,g,7,g,0.5,g,1,g,0,g
+116,beef o bradys,add cocktail sauce,0,g,0,mg,560,g,8,g,1,g,0,g,0,g,1,g,7,g
+117,beef o bradys,add creamy poblano dressing,45,g,30,mg,840,g,3,g,0,g,7,g,0,g,0,g,0,g
+118,beef o bradys,add fat free ranch dressing,0,g,0,mg,1100,g,26,g,0,g,0,g,0,g,2,g,10,g
+119,beef o bradys,add honey mustard,18,g,5,mg,190,g,12,g,0,g,3,g,0,g,0,g,10,g
+120,beef o bradys,add honey mustard dressing,36,g,15,mg,390,g,24,g,0,g,6,g,0,g,0,g,21,g
+121,beef o bradys,add honey mustard sauce,18,g,10,mg,200,g,12,g,0,g,3,g,0,g,0,g,11,g
+122,beef o bradys,add light italian dressing,0,g,0,mg,740,g,10,g,0,g,0,g,0,g,0,g,6,g
+123,beef o bradys,add lite raspberry vinaigrette,18,g,0,mg,370,g,12,g,0,g,3,g,0,g,0,g,9,g
+124,beef o bradys,add marinara sauce,1.5,g,0,mg,200,g,4,g,1,g,0,g,0,g,1,g,2,g
+125,beef o bradys,add on fried shrimp,5,g,60,mg,730,g,20,g,9,g,0.5,g,0,g,1,g,1,g
+126,beef o bradys,add on grilled shrimp,4,g,80,mg,1680,g,0,g,10,g,0,g,0,g,0,g,0,g
+127,beef o bradys,add on ranch dressing,16,g,15,mg,340,g,1,g,1,g,3,g,0,g,0,g,1,g
+128,beef o bradys,add pizza sauce,2,g,0,mg,200,g,4,g,1,g,0,g,0,g,1,g,2,g
+129,beef o bradys,add poblano sauce,24,g,20,mg,320,g,1,g,0,g,3,g,0,g,0,g,0,g
+130,beef o bradys,add ranch dressing,16,g,15,mg,340,g,1,g,1,g,3,g,0,g,0,g,1,g
+131,beef o bradys,add ranch dressing to boneless wings,16,g,15,mg,340,g,1,g,1,g,3,g,0,g,0,g,1,g
+132,beef o bradys,add ranch dressing to traditional wings,16,g,15,mg,340,g,1,g,1,g,3,g,0,g,0,g,1,g
+133,beef o bradys,add ranch dressing 3 fl oz,33,g,30,mg,690,g,3,g,3,g,6,g,0,g,0,g,3,g
+134,beef o bradys,add salsa,0,g,0,mg,200,g,1,g,0,g,0,g,0,g,0,g,1,g
+135,beef o bradys,add sour cream,7,g,30,mg,20,g,1,g,1,g,5,g,0,g,0,g,0,g
+136,beef o bradys,add spicy dipping sauce,14,g,15,mg,400,g,7,g,1,g,2.5,g,0,g,0,g,5,g
+137,beef o bradys,add sweet baby rays bbq sauce,0,g,0,mg,430,g,25,g,0,g,0,g,0,g,0,g,24,g
+138,beef o bradys,add tartar sauce,18,g,20,mg,270,g,6,g,0,g,3,g,0,g,0,g,0,g
+139,beef o bradys,amarillo firecracker burger,91,g,150,mg,3860,g,115,g,42,g,31,g,3.5,g,7,g,19,g
+140,beef o bradys,baja chicken enchilada soup bowl,16,g,55,mg,1220,g,30,g,10,g,6,g,0,g,5,g,5,g
+141,beef o bradys,baja chicken enchilada soup cup,12,g,40,mg,880,g,20,g,8,g,4.5,g,0,g,4,g,4,g
+142,beef o bradys,baked potato plain,0,g,0,mg,5,g,27,g,4,g,0,g,0,g,3,g,3,g
+143,beef o bradys,barefoot chardonnay,0,g,0,mg,15,g,4,g,0,g,0,g,0,g,0,g,1,g
+144,beef o bradys,barefoot pinot grigio,0,g,0,mg,15,g,4,g,0,g,0,g,0,g,0,g,2,g
+145,beef o bradys,barefoot white zinfandel,0,g,0,mg,15,g,8,g,0,g,0,g,0,g,0,g,6,g
+146,beef o bradys,basket of curly fries,45,g,0,mg,1680,g,84,g,8,g,7,g,0,g,8,g,0,g
+147,beef o bradys,basket of fries with cheese added,49,g,60,mg,2230,g,100,g,22,g,17,g,0,g,8,g,0,g
+148,beef o bradys,basket of fries with chili added,41,g,20,mg,2260,g,109,g,15,g,10,g,0.5,g,10,g,2,g
+149,beef o bradys,basket of fries with queso added,45,g,30,mg,2490,g,106,g,16,g,14,g,1,g,8,g,2,g
+150,beef o bradys,basket of straight fries,33,g,0,mg,1880,g,100,g,8,g,7,g,0,g,8,g,0,g
+151,beef o bradys,bbq bacon cheeseburger,87,g,135,mg,4390,g,139,g,41,g,30,g,3.5,g,8,g,42,g
+152,beef o bradys,beef and black bean soup bowl,3,g,10,mg,1200,g,34,g,9,g,0,g,0,g,8,g,3,g
+153,beef o bradys,beef and black bean soup cup,2,g,5,mg,860,g,23,g,7,g,0,g,0,g,6,g,2,g
+154,beef o bradys,beef obradys chili bowl,21,g,45,mg,1150,g,31,g,17,g,8,g,1,g,5,g,7,g
+155,beef o bradys,beef obradys chili cup,15,g,35,mg,820,g,21,g,13,g,6,g,1,g,4,g,5,g
+156,beef o bradys,beer battered onion rings,79,g,25,mg,2330,g,127,g,10,g,15,g,0.5,g,10,g,28,g
+157,beef o bradys,big catch dinner blackened,47,g,60,mg,2330,g,67,g,38,g,9,g,12,g,5,g,1,g
+158,beef o bradys,big catch dinner fried,47,g,60,mg,2340,g,83,g,39,g,9,g,9,g,4,g,1,g
+159,beef o bradys,big catch dinner grilled,46,g,60,mg,2570,g,67,g,38,g,9,g,12,g,5,g,2,g
+160,beef o bradys,big catch salad blackened,20,g,85,mg,1300,g,15,g,40,g,8,g,3,g,5,g,10,g
+161,beef o bradys,big catch salad grilled,20,g,85,mg,1400,g,15,g,40,g,8,g,3,g,5,g,10,g
+162,beef o bradys,black and blue steak salad,30,g,90,mg,1510,g,24,g,39,g,10,g,0,g,4,g,8,g
+163,beef o bradys,black widow tea,0,g,0,mg,5,g,31,g,0,g,0,g,0,g,0,g,30,g
+164,beef o bradys,blackened shrimp salad value menu,27,g,110,mg,1190,g,16,g,21,g,8,g,3,g,4,g,9,g
+165,beef o bradys,boneless dry rub blackened wing basket,75,g,90,mg,3810,g,97,g,32,g,14,g,6,g,8,g,16,g
+166,beef o bradys,boneless dry rub blackening wings 12 wings with celery,63,g,110,mg,3630,g,41,g,39,g,12,g,9,g,2,g,1,g
+167,beef o bradys,boneless dry rub blackening wings 18 wings with celery,88,g,165,mg,5140,g,60,g,59,g,17,g,12,g,3,g,1,g
+168,beef o bradys,boneless dry rub blackening wings 25 wings with celery,128,g,225,mg,7350,g,83,g,81,g,24,g,18,g,4,g,1,g
+169,beef o bradys,boneless dry rub blackening wings 8 wings with celery,42,g,75,mg,2440,g,28,g,26,g,8,g,6,g,2,g,1,g
+170,beef o bradys,boneless dry rub lemon pepper wing basket,75,g,90,mg,4040,g,97,g,31,g,15,g,6,g,8,g,17,g
+171,beef o bradys,boneless dry rub lemon pepper wings 12 wings with celery,63,g,110,mg,3970,g,41,g,39,g,12,g,9,g,2,g,2,g
+172,beef o bradys,boneless dry rub lemon pepper wings 18 wings with celery,88,g,165,mg,5600,g,60,g,58,g,17,g,12,g,2,g,2,g
+173,beef o bradys,boneless dry rub lemon pepper wings 25 wings with celery,127,g,225,mg,8040,g,83,g,81,g,24,g,18,g,2,g,2,g
+174,beef o bradys,boneless dry rub lemon pepper wings 8 wings with celery,42,g,75,mg,2670,g,28,g,26,g,8,g,6,g,2,g,2,g
+175,beef o bradys,boneless dry rub nashville hot wing basket,69,g,80,mg,3920,g,94,g,32,g,14,g,6,g,8,g,13,g
+176,beef o bradys,boneless garlic parmesan wing basket,94,g,80,mg,4120,g,99,g,33,g,18,g,0,g,6,g,13,g
+177,beef o bradys,boneless garlic parmesan wings 12 wings with celery,101,g,110,mg,4440,g,56,g,43,g,19,g,0,g,1,g,6,g
+178,beef o bradys,boneless garlic parmesan wings 18 wings with celery,156,g,165,mg,6760,g,84,g,65,g,30,g,0,g,1,g,8,g
+179,beef o bradys,boneless garlic parmesan wings 25 wings with celery,205,g,225,mg,8980,g,112,g,89,g,39,g,0,g,1,g,10,g
+180,beef o bradys,boneless garlic parmesan wings 8 wings with celery,68,g,75,mg,2980,g,38,g,29,g,13,g,0,g,1,g,4,g
+181,beef o bradys,boneless honey bbq wing basket,53,g,90,mg,3510,g,143,g,30,g,10,g,0,g,6,g,60,g
+182,beef o bradys,boneless honey bbq wings 12 wings with celery,29,g,110,mg,3270,g,114,g,39,g,6,g,0,g,1,g,69,g
+183,beef o bradys,boneless honey bbq wings 18 wings with celery,44,g,165,mg,4940,g,175,g,58,g,9,g,0,g,1,g,106,g
+184,beef o bradys,boneless honey bbq wings 25 wings with celery,61,g,225,mg,6640,g,229,g,80,g,12,g,0,g,1,g,136,g
+185,beef o bradys,boneless honey bbq wings 8 wings with celery,20,g,75,mg,2200,g,77,g,26,g,4,g,0,g,1,g,46,g
+186,beef o bradys,boneless hot wing basket,53,g,90,mg,4680,g,95,g,30,g,10,g,0,g,6,g,15,g
+187,beef o bradys,boneless hot wings 12 wings with celery,29,g,110,mg,5020,g,42,g,39,g,6,g,0,g,1,g,1,g
+188,beef o bradys,boneless hot wings 18 wings with celery,44,g,165,mg,7670,g,63,g,58,g,9,g,0,g,1,g,1,g
+189,beef o bradys,boneless hot wings 25 wings with celery,61,g,225,mg,10150,g,85,g,80,g,12,g,0,g,1,g,1,g
+190,beef o bradys,boneless hot wings 8 wings with celery,20,g,75,mg,3370,g,29,g,26,g,4,g,0,g,1,g,1,g
+191,beef o bradys,boneless mango habanero wing basket,53,g,90,mg,3120,g,141,g,31,g,10,g,0,g,7,g,55,g
+192,beef o bradys,boneless mango habanero wings 12 wings with celery,31,g,110,mg,2690,g,111,g,40,g,6,g,0,g,3,g,62,g
+193,beef o bradys,boneless mango habanero wings 18 wings with celery,46,g,165,mg,4030,g,169,g,60,g,9,g,0,g,5,g,95,g
+194,beef o bradys,boneless mango habanero wings 25 wings with celery,63,g,225,mg,5470,g,223,g,82,g,12,g,0,g,6,g,122,g
+195,beef o bradys,boneless mango habanero wings 8 wings with celery,20,g,75,mg,1810,g,75,g,27,g,4,g,0,g,3,g,42,g
+196,beef o bradys,boneless medium wing basket,53,g,90,mg,4530,g,95,g,30,g,10,g,0,g,6,g,15,g
+197,beef o bradys,boneless medium wings 12 wings with celery,29,g,110,mg,4800,g,42,g,39,g,6,g,0,g,1,g,1,g
+198,beef o bradys,boneless medium wings 18 wings with celery,44,g,165,mg,7320,g,63,g,58,g,9,g,0,g,1,g,1,g
+199,beef o bradys,boneless medium wings 25 wings with celery,61,g,225,mg,9700,g,85,g,80,g,12,g,0,g,1,g,1,g
+200,beef o bradys,boneless medium wings 8 wings with celery,20,g,75,mg,3220,g,29,g,26,g,4,g,0,g,1,g,1,g
+201,beef o bradys,boneless mild wing basket,53,g,90,mg,3690,g,95,g,30,g,10,g,0,g,6,g,15,g
+202,beef o bradys,boneless mild wings 12 wings with celery,29,g,110,mg,3540,g,42,g,39,g,6,g,0,g,1,g,1,g
+203,beef o bradys,boneless mild wings 18 wings with celery,44,g,165,mg,5360,g,63,g,58,g,9,g,0,g,1,g,1,g
+204,beef o bradys,boneless mild wings 25 wings with celery,61,g,225,mg,7180,g,85,g,80,g,12,g,0,g,1,g,1,g
+205,beef o bradys,boneless mild wings 8 wings with celery,20,g,75,mg,2380,g,29,g,26,g,4,g,0,g,1,g,1,g
+206,beef o bradys,boneless nashville hot wings 12 wings with celery,64,g,110,mg,4050,g,44,g,40,g,13,g,9,g,3,g,3,g
+207,beef o bradys,boneless nashville hot wings 18 wings with celery,91,g,165,mg,5700,g,64,g,59,g,18,g,12,g,3,g,4,g
+208,beef o bradys,boneless nashville hot wings 25 wings with celery,131,g,225,mg,8190,g,89,g,82,g,27,g,18,g,4,g,6,g
+209,beef o bradys,boneless nashville hot wings 8 wings with celery,43,g,75,mg,2720,g,30,g,27,g,9,g,6,g,2,g,3,g
+210,beef o bradys,boneless nuclear wing basket,54,g,90,mg,5790,g,98,g,32,g,11,g,0,g,9,g,16,g
+211,beef o bradys,boneless nuclear wing challenge 15 wings,39,g,135,mg,6610,g,53,g,49,g,8,g,0,g,4,g,2,g
+212,beef o bradys,boneless nuclear wings 12 wings with celery,32,g,110,mg,6690,g,47,g,41,g,6,g,0,g,6,g,3,g
+213,beef o bradys,boneless nuclear wings 18 wings with celery,48,g,165,mg,10260,g,70,g,61,g,9,g,0,g,9,g,4,g
+214,beef o bradys,boneless nuclear wings 25 wings with celery,66,g,225,mg,13480,g,95,g,84,g,13,g,0.5,g,11,g,5,g
+215,beef o bradys,boneless nuclear wings 8 wings with celery,21,g,75,mg,4480,g,32,g,27,g,4,g,0,g,4,g,3,g
+216,beef o bradys,boneless plain no sauce wing basket,53,g,90,mg,2700,g,92,g,30,g,10,g,0,g,6,g,15,g
+217,beef o bradys,boneless plain wings 12 wings with celery,29,g,110,mg,2050,g,38,g,39,g,6,g,0,g,1,g,1,g
+218,beef o bradys,boneless plain wings 18 wings with celery,44,g,165,mg,3050,g,56,g,58,g,9,g,0,g,1,g,1,g
+219,beef o bradys,boneless plain wings 25 wings with celery,61,g,225,mg,4210,g,76,g,80,g,12,g,0,g,1,g,1,g
+220,beef o bradys,boneless plain wings 8 wings with celery,20,g,75,mg,1390,g,26,g,26,g,4,g,0,g,1,g,1,g
+221,beef o bradys,boneless signature buffalo wing basket,71,g,90,mg,3810,g,95,g,30,g,13,g,0,g,6,g,15,g
+222,beef o bradys,boneless signature buffalo wings 12 wings with celery,56,g,110,mg,3720,g,42,g,39,g,10,g,0,g,1,g,1,g
+223,beef o bradys,boneless signature buffalo wings 18 wings with celery,86,g,165,mg,5640,g,63,g,58,g,16,g,0,g,1,g,1,g
+224,beef o bradys,boneless signature buffalo wings 25 wings with celery,115,g,225,mg,7540,g,85,g,80,g,21,g,0,g,1,g,1,g
+225,beef o bradys,boneless signature buffalo wings 8 wings with celery,38,g,75,mg,2500,g,29,g,26,g,7,g,0,g,1,g,1,g
+226,beef o bradys,boneless spicy garlic wing basket,57,g,90,mg,3780,g,94,g,31,g,11,g,0,g,6,g,16,g
+227,beef o bradys,boneless spicy garlic wings 12 wings with celery,36,g,110,mg,3670,g,41,g,39,g,7,g,0,g,2,g,2,g
+228,beef o bradys,boneless spicy garlic wings 18 wings with celery,55,g,165,mg,5560,g,60,g,59,g,11,g,0.5,g,3,g,2,g
+229,beef o bradys,boneless spicy garlic wings 25 wings with celery,75,g,225,mg,7440,g,82,g,81,g,14,g,0.5,g,3,g,2,g
+230,beef o bradys,boneless spicy garlic wings 8 wings with celery,24,g,75,mg,2470,g,28,g,26,g,4.5,g,0,g,2,g,2,g
+231,beef o bradys,boneless sweet jalapeno wing basket,54,g,90,mg,3460,g,130,g,31,g,11,g,0,g,7,g,46,g
+232,beef o bradys,boneless sweet jalapeno wings 12 wings with celery,32,g,110,mg,3190,g,95,g,40,g,6,g,0,g,2,g,47,g
+233,beef o bradys,boneless sweet jalapeno wings 18 wings with celery,47,g,165,mg,4820,g,144,g,59,g,9,g,0,g,3,g,72,g
+234,beef o bradys,boneless sweet jalapeno wings 25 wings with celery,66,g,225,mg,6480,g,190,g,82,g,13,g,0,g,4,g,92,g
+235,beef o bradys,boneless sweet jalapeno wings 8 wings with celery,21,g,75,mg,2150,g,64,g,27,g,4,g,0,g,2,g,32,g
+236,beef o bradys,boneless teriyaki wing basket,53,g,90,mg,4730,g,143,g,33,g,10,g,0,g,6,g,61,g
+237,beef o bradys,boneless teriyaki wings 12 wings with celery,29,g,110,mg,5090,g,115,g,42,g,6,g,0,g,1,g,70,g
+238,beef o bradys,boneless teriyaki wings 18 wings with celery,44,g,165,mg,7780,g,176,g,63,g,9,g,0,g,2,g,108,g
+239,beef o bradys,boneless teriyaki wings 25 wings with celery,61,g,225,mg,10290,g,231,g,87,g,12,g,0,g,2,g,138,g
+240,beef o bradys,boneless teriyaki wings 8 wings with celery,20,g,75,mg,3420,g,78,g,28,g,4,g,0,g,1,g,47,g
+241,beef o bradys,boneless wings and fried mozzarella,34,g,100,mg,3530,g,49,g,34,g,12,g,0.5,g,2,g,4,g
+242,beef o bradys,boneless wings and fried pickles,23,g,55,mg,3510,g,45,g,23,g,4.5,g,0,g,2,g,2,g
+243,beef o bradys,boneless wings and jalapeno corn fritters,47,g,75,mg,2080,g,69,g,29,g,11,g,0,g,4,g,7,g
+244,beef o bradys,boneless wings and onion rings,40,g,55,mg,1800,g,76,g,24,g,8,g,0,g,5,g,10,g
+245,beef o bradys,boneless x hot wings 12 wings with celery,30,g,110,mg,4330,g,44,g,39,g,6,g,0,g,2,g,2,g
+246,beef o bradys,boneless x hot wings 18 wings with celery,45,g,165,mg,6580,g,65,g,58,g,9,g,0,g,3,g,2,g
+247,beef o bradys,boneless x hot wings 25 wings with celery,62,g,225,mg,8750,g,88,g,81,g,12,g,0,g,4,g,2,g
+248,beef o bradys,boneless x hot wings 8 wings with celery,20,g,75,mg,2910,g,30,g,26,g,4,g,0,g,2,g,1,g
+249,beef o bradys,boneless x hot wing basket,53,g,90,mg,4210,g,96,g,31,g,10,g,0,g,7,g,16,g
+250,beef o bradys,boom boom shrimp,65,g,200,mg,2750,g,65,g,23,g,9,g,0,g,4,g,11,g
+251,beef o bradys,boston clam chowder bowl,12,g,25,mg,1010,g,31,g,10,g,4.5,g,0,g,1,g,6,g
+252,beef o bradys,boston clam chowder cup,9,g,20,mg,720,g,21,g,7,g,3,g,0,g,1,g,5,g
+253,beef o bradys,buffalo chicken dip,48,g,105,mg,3900,g,121,g,41,g,20,g,0,g,6,g,8,g
+254,beef o bradys,buffalo chicken salad,30,g,70,mg,1870,g,43,g,31,g,8,g,0,g,4,g,2,g
+255,beef o bradys,buffalo chicken salad value menu,30,g,70,mg,1870,g,43,g,31,g,8,g,0,g,4,g,2,g
+256,beef o bradys,buffalo chicken sandwich,69,g,65,mg,4090,g,127,g,32,g,16,g,3.5,g,7,g,10,g
+257,beef o bradys,buffalo chicken wrap,47,g,60,mg,3020,g,118,g,34,g,14,g,0,g,7,g,1,g
+258,beef o bradys,build your own burger,60,g,90,mg,2920,g,90,g,31,g,20,g,3.5,g,6,g,7,g
+259,beef o bradys,build your own burger combo,71,g,100,mg,3230,g,95,g,32,g,21,g,3.5,g,8,g,10,g
+260,beef o bradys,build your own burger american cheese,9,g,25,mg,510,g,0,g,5,g,5,g,0,g,0,g,0,g
+261,beef o bradys,build your own burger bacon,12,g,20,mg,200,g,0,g,3,g,4.5,g,0,g,0,g,0,g
+262,beef o bradys,build your own burger blue cheese dressing,30,g,40,mg,480,g,4,g,2,g,6,g,0,g,0,g,2,g
+263,beef o bradys,build your own burger gouda cheese,14,g,50,mg,430,g,0,g,12,g,8,g,0,g,0,g,0,g
+264,beef o bradys,build your own burger grilled mushrooms,7,g,0,mg,0,g,2,g,2,g,1,g,0,g,1,g,1,g
+265,beef o bradys,build your own burger grilled yellow onions,3,g,0,mg,0,g,5,g,1,g,0,g,0,g,1,g,2,g
+266,beef o bradys,build your own burger jalapenos,0,g,0,mg,480,g,0,g,0,g,0,g,0,g,0,g,0,g
+267,beef o bradys,build your own burger pepper jack cheese,10,g,30,mg,660,g,0,g,6,g,6,g,0,g,0,g,0,g
+268,beef o bradys,build your own burger provolone cheese,16,g,40,mg,480,g,0,g,14,g,8,g,0,g,0,g,0,g
+269,beef o bradys,build your own burger queso dip,8,g,20,mg,410,g,4,g,5,g,4.5,g,0.5,g,0,g,1,g
+270,beef o bradys,build your own burger swiss cheese,114,g,40,mg,80,g,0,g,12,g,10,g,0,g,0,g,0,g
+271,beef o bradys,build your own large pizza chopped bacon,1.5,g,0,mg,25,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+272,beef o bradys,build your own large pizza chopped burger,1,g,0,mg,50,g,0,g,1,g,0,g,0,g,0,g,0,g
+273,beef o bradys,build your own large pizza chopped ham,0,g,0,mg,35,g,0,g,1,g,0,g,0,g,0,g,0,g
+274,beef o bradys,build your own large pizza extra mozzarella cheese,2.5,g,10,mg,70,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+275,beef o bradys,build your own large pizza pepperoncini peppers,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+276,beef o bradys,build your own large pizza pepperoni,2.5,g,5,mg,90,g,0,g,1,g,1,g,0,g,0,g,0,g
+277,beef o bradys,build your own large pizza sausage crumbles,2,g,5,mg,85,g,0,g,1,g,0,g,0,g,0,g,0,g
+278,beef o bradys,build your own large pizza sliced grilled chicken,0,g,0,mg,10,g,0,g,1,g,0,g,0,g,0,g,0,g
+279,beef o bradys,build your own personal pizza broccoli florets,0,g,0,mg,10,g,1,g,1,g,0,g,0,g,1,g,0,g
+280,beef o bradys,build your own personal pizza chopped bacon,6,g,10,mg,100,g,0,g,2,g,2,g,0,g,0,g,0,g
+281,beef o bradys,build your own personal pizza chopped burger,3.5,g,10,mg,105,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+282,beef o bradys,build your own personal pizza chopped ham,0.5,g,5,mg,135,g,1,g,3,g,0,g,0,g,0,g,1,g
+283,beef o bradys,build your own personal pizza diced tomato,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+284,beef o bradys,build your own personal pizza extra mozzarella cheese,10,g,35,mg,280,g,1,g,8,g,6,g,0,g,1,g,0,g
+285,beef o bradys,build your own personal pizza pepperoncini peppers,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+286,beef o bradys,build your own personal pizza pepperoni,16,g,45,mg,570,g,0,g,6,g,7,g,0,g,0,g,0,g
+287,beef o bradys,build your own personal pizza red onion rings,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+288,beef o bradys,build your own personal pizza sausage crumbles,8,g,20,mg,330,g,2,g,4,g,2,g,0,g,0,g,0,g
+289,beef o bradys,build your own personal pizza sliced green peppers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+290,beef o bradys,build your own personal pizza sliced grilled chicken,0,g,10,mg,35,g,0,g,3,g,0,g,0,g,0,g,0,g
+291,beef o bradys,build your own personal pizza sliced mushrooms,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+292,beef o bradys,build your own pizza large,10,g,20,mg,720,g,38,g,12,g,5,g,0,g,0,g,4,g
+293,beef o bradys,build your own pizza personal,30,g,65,mg,1870,g,86,g,32,g,16,g,0.5,g,3,g,9,g
+294,beef o bradys,byo fried chicken sandwich,46,g,55,mg,2890,g,126,g,31,g,12,g,3.5,g,8,g,10,g
+295,beef o bradys,byo grilled chicken sandwich,37,g,50,mg,1850,g,92,g,27,g,10,g,3.5,g,7,g,8,g
+296,beef o bradys,cadillac margarita,0,g,0,mg,0,g,34,g,0,g,0,g,0,g,0,g,32,g
+297,beef o bradys,california turkey melt,62,g,145,mg,3010,g,113,g,64,g,21,g,3,g,9,g,3,g
+298,beef o bradys,california turkey melt combo,62,g,145,mg,3010,g,113,g,64,g,21,g,3,g,9,g,3,g
+299,beef o bradys,cheese pizza large,10,g,20,mg,720,g,38,g,12,g,5,g,0,g,0,g,4,g
+300,beef o bradys,cheese pizza personal,30,g,65,mg,1870,g,86,g,32,g,16,g,0.5,g,3,g,9,g
+301,beef o bradys,cheeseburger wrap,69,g,110,mg,4140,g,106,g,37,g,23,g,0,g,7,g,1,g
+302,beef o bradys,cheesy bacon pub chips,99,g,155,mg,5790,g,64,g,31,g,30,g,0,g,4,g,2,g
+303,beef o bradys,chef salad,21,g,155,mg,1990,g,13,g,49,g,10,g,0,g,3,g,9,g
+304,beef o bradys,chef salad value menu,19,g,110,mg,1290,g,7,g,30,g,10,g,0,g,2,g,5,g
+305,beef o bradys,chicken and dumplings soup bowl,11,g,40,mg,1190,g,28,g,7,g,2.5,g,0,g,1,g,4,g
+306,beef o bradys,chicken and dumplings soup cup,8,g,30,mg,850,g,19,g,5,g,2,g,0,g,1,g,3,g
+307,beef o bradys,chicken bowl with quinoa,59,g,95,mg,1520,g,66,g,37,g,12,g,0.5,g,5,g,7,g
+308,beef o bradys,chicken bowl with rice,64,g,95,mg,1940,g,79,g,33,g,13,g,3,g,5,g,7,g
+309,beef o bradys,chicken caesar salad blackened value menu,7,g,30,mg,610,g,14,g,15,g,2.5,g,0,g,2,g,1,g
+310,beef o bradys,chicken caesar salad grilled value menu,7,g,30,mg,590,g,14,g,15,g,2.5,g,0,g,2,g,1,g
+311,beef o bradys,chicken caesar salad blackened,13,g,60,mg,1230,g,28,g,30,g,5,g,0,g,4,g,2,g
+312,beef o bradys,chicken caesar salad grilled,13,g,60,mg,1190,g,29,g,29,g,5,g,0,g,4,g,2,g
+313,beef o bradys,chicken dinner blackened,37,g,75,mg,2070,g,67,g,38,g,7,g,9,g,5,g,1,g
+314,beef o bradys,chicken dinner grilled,37,g,75,mg,1990,g,68,g,38,g,7,g,9,g,4,g,2,g
+315,beef o bradys,chicken dinner nashville hot,16,g,75,mg,2120,g,69,g,38,g,3.5,g,3,g,5,g,3,g
+316,beef o bradys,chicken fajitas,40,g,120,mg,2890,g,61,g,38,g,17,g,0,g,7,g,7,g
+317,beef o bradys,chicken gumbo bowl,5,g,15,mg,1150,g,21,g,3,g,1.5,g,0,g,1,g,2,g
+318,beef o bradys,chicken gumbo cup,4,g,10,mg,820,g,13,g,2,g,1,g,0,g,1,g,1,g
+319,beef o bradys,chicken taco basket add a taco,76,g,145,mg,3080,g,102,g,48,g,18,g,0,g,8,g,4,g
+320,beef o bradys,chicken tacos basket,53,g,95,mg,2420,g,86,g,34,g,13,g,0,g,7,g,3,g
+321,beef o bradys,chicken tender basket combo,30,g,70,mg,2430,g,80,g,34,g,6,g,0,g,5,g,1,g
+322,beef o bradys,chicken tender basket nashville hot,66,g,105,mg,4300,g,103,g,46,g,14,g,6,g,8,g,14,g
+323,beef o bradys,chicken tortilla soup bowl,3.5,g,20,mg,1040,g,31,g,7,g,0,g,0,g,7,g,1,g
+324,beef o bradys,chicken tortilla soup cup,2.5,g,15,mg,740,g,21,g,5,g,0,g,0,g,5,g,1,g
+325,beef o bradys,chili dog combo,71,g,115,mg,3380,g,127,g,43,g,25,g,2.5,g,8,g,10,g
+326,beef o bradys,chips and salsa,15,g,0,mg,2180,g,103,g,13,g,1.5,g,0,g,8,g,3,g
+327,beef o bradys,chocolate molten cake,35,g,50,mg,440,g,76,g,8,g,19,g,0,g,4,g,55,g
+328,beef o bradys,chocolate molten cake with ice cream,43,g,80,mg,490,g,91,g,10,g,24,g,0,g,4,g,67,g
+329,beef o bradys,chocolate shake,39,g,60,mg,115,g,82,g,6,g,31,g,0,g,0,g,73,g
+330,beef o bradys,club wrap,63,g,135,mg,3240,g,107,g,50,g,18,g,0,g,7,g,4,g
+331,beef o bradys,combo appetizer,77,g,180,mg,3950,g,143,g,69,g,29,g,0.5,g,8,g,13,g
+332,beef o bradys,country vegetable with beef soup bowl,3.5,g,10,mg,1950,g,37,g,8,g,1,g,0,g,3,g,5,g
+333,beef o bradys,country vegetable with beef soup cup,2.5,g,5,mg,1420,g,25,g,6,g,0.5,g,0,g,2,g,4,g
+334,beef o bradys,cream of broccoli soup bowl,7,g,15,mg,1080,g,24,g,6,g,3.5,g,0,g,2,g,8,g
+335,beef o bradys,cream of broccoli soup cup,5,g,15,mg,770,g,15,g,4,g,2.5,g,0,g,1,g,6,g
+336,beef o bradys,cuban sandwich,71,g,145,mg,3880,g,120,g,54,g,24,g,0,g,7,g,10,g
+337,beef o bradys,dark horse cabernet sauvignon,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+338,beef o bradys,dark horse merlot,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,1,g
+339,beef o bradys,fajitas duos chicken and shrimp,50,g,175,mg,3380,g,61,g,38,g,19,g,3,g,7,g,7,g
+340,beef o bradys,fajitas duos chicken and steak,47,g,130,mg,3090,g,61,g,42,g,21,g,0,g,7,g,7,g
+341,beef o bradys,fajitas duos steak and shrimp,56,g,185,mg,3580,g,61,g,41,g,22,g,3,g,7,g,7,g
+342,beef o bradys,fajitas trio,58,g,210,mg,4390,g,61,g,51,g,23,g,3,g,7,g,7,g
+343,beef o bradys,fish n chips basket,82,g,90,mg,2370,g,100,g,29,g,15,g,0,g,6,g,15,g
+344,beef o bradys,fish n chips basket combo,40,g,40,mg,1490,g,70,g,22,g,8,g,0,g,4,g,0,g
+345,beef o bradys,fish taco basket add a taco,81,g,125,mg,3870,g,119,g,47,g,20,g,0,g,8,g,4,g
+346,beef o bradys,fish tacos basket,57,g,85,mg,2790,g,94,g,33,g,13,g,0,g,7,g,3,g
+347,beef o bradys,five meat pizza large,17,g,35,mg,1000,g,39,g,16,g,8,g,0,g,0,g,4,g
+348,beef o bradys,five meat pizza personal,64,g,155,mg,3110,g,89,g,50,g,29,g,0.5,g,3,g,10,g
+349,beef o bradys,flatbread bbq chicken,13,g,35,mg,1000,g,63,g,17,g,4,g,0,g,0,g,28,g
+350,beef o bradys,flatbread chipotle philly,38,g,75,mg,1540,g,39,g,23,g,10,g,0,g,1,g,4,g
+351,beef o bradys,flatbread veggie,36,g,40,mg,1260,g,43,g,20,g,12,g,0,g,1,g,6,g
+352,beef o bradys,french onion soup bowl,3,g,0,mg,1180,g,19,g,3,g,0,g,0,g,2,g,1,g
+353,beef o bradys,french onion soup cup,2,g,0,mg,840,g,7,g,2,g,0,g,0,g,1,g,1,g
+354,beef o bradys,fresh margarita frozen,0,g,0,mg,0,g,37,g,0,g,0,g,0,g,0,g,35,g
+355,beef o bradys,fresh margarita rocks,0,g,0,mg,0,g,28,g,0,g,0,g,0,g,0,g,26,g
+356,beef o bradys,fresh strawberry margarita frozen,0,g,0,mg,5,g,57,g,0,g,0,g,0,g,0,g,54,g
+357,beef o bradys,fresh strawberry margarita rocks,0,g,0,mg,5,g,44,g,0,g,0,g,0,g,0,g,43,g
+358,beef o bradys,fried mozzarella,39,g,90,mg,2340,g,64,g,30,g,17,g,1,g,3,g,8,g
+359,beef o bradys,fried pickles,33,g,20,mg,5290,g,54,g,8,g,6,g,0,g,2,g,4,g
+360,beef o bradys,fried shrimp basket,41,g,135,mg,2620,g,98,g,25,g,8,g,0,g,7,g,22,g
+361,beef o bradys,fried shrimp basket nashville hot,60,g,130,mg,4010,g,107,g,24,g,12,g,6,g,9,g,14,g
+362,beef o bradys,fruit stand spiked lemonade,0,g,0,mg,10,g,41,g,0,g,0,g,0,g,0,g,40,g
+363,beef o bradys,funnel fries,25,g,55,mg,480,g,141,g,8,g,9,g,0,g,2,g,96,g
+364,beef o bradys,garlic parmesan sauce,40,g,0,mg,1320,g,10,g,2,g,7,g,0,g,0,g,2,g
+365,beef o bradys,garlic parmesan traditional wing sauce,24,g,0,mg,790,g,6,g,1,g,4.5,g,0,g,0,g,1,g
+366,beef o bradys,grilled buffalo chicken wrap,39,g,60,mg,2490,g,106,g,36,g,13,g,0,g,7,g,1,g
+367,beef o bradys,grilled chicken salad,18,g,85,mg,780,g,17,g,33,g,7,g,0,g,4,g,9,g
+368,beef o bradys,grilled chicken salad value menu,9,g,35,mg,360,g,9,g,13,g,3.5,g,0,g,2,g,5,g
+369,beef o bradys,grilled chicken wrap,62,g,95,mg,2610,g,106,g,35,g,17,g,0,g,7,g,2,g
+370,beef o bradys,grilled shrimp salad value menu,27,g,110,mg,1960,g,15,g,21,g,8,g,3,g,4,g,9,g
+371,beef o bradys,hand breaded chicken tender basket,50,g,110,mg,3140,g,104,g,45,g,10,g,0,g,7,g,17,g
+372,beef o bradys,honey bbq boneless wing sauce,0,g,0,mg,680,g,43,g,0,g,0,g,0,g,0,g,38,g
+373,beef o bradys,honey bbq traditional wing sauce,0,g,0,mg,410,g,26,g,0,g,0,g,0,g,0,g,23,g
+374,beef o bradys,hot boneless wing sauce,0,g,0,mg,1650,g,3,g,0,g,0,g,0,g,0,g,0,g
+375,beef o bradys,hot dog combo,61,g,90,mg,2880,g,116,g,34,g,22,g,2,g,6,g,8,g
+376,beef o bradys,hot traditional wing sauce,0,g,0,mg,990,g,2,g,0,g,0,g,0,g,0,g,0,g
+377,beef o bradys,ice cream,8,g,30,mg,50,g,15,g,2,g,5,g,0,g,0,g,12,g
+378,beef o bradys,italian style wedding soup bowl,7,g,15,mg,1370,g,31,g,8,g,2.5,g,0,g,2,g,2,g
+379,beef o bradys,italian style wedding soup cup,4.5,g,10,mg,990,g,21,g,6,g,2,g,0,g,1,g,1,g
+380,beef o bradys,jalapeno corn fritters,32,g,20,mg,1040,g,50,g,21,g,8,g,0,g,3,g,6,g
+381,beef o bradys,jamaican storm,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,8,g
+382,beef o bradys,kentucky bourbon boneless wing sauce,0,g,0,mg,800,g,40,g,0,g,0,g,0,g,0,g,35,g
+383,beef o bradys,kentucky bourbon traditional wing sauce,0,g,0,mg,480,g,24,g,0,g,0,g,0,g,0,g,21,g
+384,beef o bradys,kids cheese pizza,31,g,65,mg,1920,g,95,g,33,g,16,g,0.5,g,3,g,13,g
+385,beef o bradys,kids cheese quesadillas,21,g,60,mg,1030,g,40,g,21,g,13,g,0,g,2,g,5,g
+386,beef o bradys,kids chicken nuggets,23,g,35,mg,680,g,23,g,14,g,4.5,g,0,g,1,g,4,g
+387,beef o bradys,kids chicken quesadillas,22,g,80,mg,1290,g,41,g,28,g,13,g,0,g,2,g,5,g
+388,beef o bradys,kids fried chicken tenders,10,g,50,mg,930,g,26,g,20,g,2,g,0,g,1,g,5,g
+389,beef o bradys,kids grilled cheese,29,g,40,mg,1410,g,54,g,16,g,11,g,3,g,1,g,8,g
+390,beef o bradys,kids hot dog,23,g,45,mg,1020,g,42,g,15,g,9,g,1,g,1,g,8,g
+391,beef o bradys,kids mac and cheese,10,g,15,mg,620,g,54,g,11,g,3,g,0,g,2,g,12,g
+392,beef o bradys,kids mini cheeseburgers,36,g,60,mg,2290,g,46,g,21,g,13,g,3,g,0,g,10,g
+393,beef o bradys,kids pepperoni pizza,47,g,110,mg,2490,g,95,g,39,g,23,g,0.5,g,3,g,13,g
+394,beef o bradys,kids add honey mustard,18,g,5,mg,190,g,12,g,0,g,3,g,0,g,0,g,10,g
+395,beef o bradys,kids add sweet baby rays bbq sauce,0,g,0,mg,430,g,25,g,0,g,0,g,0,g,0,g,24,g
+396,beef o bradys,kids applesauce,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,1,g,22,g
+397,beef o bradys,kids broccoli,0,g,0,mg,20,g,5,g,3,g,0,g,0,g,3,g,1,g
+398,beef o bradys,kids coleslaw,10,g,10,mg,260,g,13,g,1,g,1.5,g,0,g,2,g,10,g
+399,beef o bradys,kids french fries,17,g,0,mg,940,g,50,g,4,g,3.5,g,0,g,4,g,0,g
+400,beef o bradys,kids pub chips,25,g,0,mg,2210,g,31,g,2,g,3.5,g,0,g,2,g,0,g
+401,beef o bradys,kids seasoned rice,11,g,0,mg,710,g,60,g,6,g,2,g,3,g,2,g,0,g
+402,beef o bradys,kitchen sink pizza large,19,g,35,mg,980,g,42,g,16,g,8,g,0,g,0,g,6,g
+403,beef o bradys,kitchen sink pizza personal,60,g,135,mg,2950,g,101,g,46,g,27,g,0.5,g,5,g,17,g
+404,beef o bradys,large garden salad,12,g,30,mg,560,g,32,g,14,g,5,g,0,g,3,g,7,g
+405,beef o bradys,lemon tea twister,0,g,0,mg,5,g,20,g,0,g,0,g,0,g,0,g,20,g
+406,beef o bradys,lettuce wraps add broccoli,0,g,0,mg,20,g,5,g,3,g,0,g,0,g,3,g,1,g
+407,beef o bradys,lettuce wraps add quinoa,3,g,0,mg,150,g,23,g,5,g,0,g,0,g,2,g,0,g
+408,beef o bradys,lettuce wraps chicken,38,g,65,mg,1110,g,27,g,19,g,5,g,0,g,5,g,13,g
+409,beef o bradys,lettuce wraps shrimp,33,g,90,mg,1520,g,40,g,13,g,5,g,3,g,5,g,23,g
+410,beef o bradys,lower sodium vegetarian vegetable soup bowl,1,g,0,mg,790,g,30,g,5,g,0,g,0,g,3,g,6,g
+411,beef o bradys,lower sodium vegetarian vegetable soup cup,0.5,g,0,mg,550,g,20,g,4,g,0,g,0,g,2,g,5,g
+412,beef o bradys,mango flavored lemonade,0,g,0,mg,10,g,37,g,0,g,0,g,0,g,0,g,36,g
+413,beef o bradys,mango flavored tea,0,g,0,mg,0,g,19,g,0,g,0,g,0,g,0,g,18,g
+414,beef o bradys,mango habanero boneless wing sauce,1,g,0,mg,350,g,41,g,1,g,0,g,0,g,1,g,33,g
+415,beef o bradys,mango habanero traditional wing sauce,0,g,0,mg,210,g,24,g,0,g,0,g,0,g,1,g,20,g
+416,beef o bradys,mango moonshine,0,g,0,mg,5,g,30,g,0,g,0,g,0,g,0,g,29,g
+417,beef o bradys,maryland style crab soup bowl,2,g,15,mg,1590,g,29,g,6,g,0,g,0,g,2,g,5,g
+418,beef o bradys,maryland style crab soup cup,1,g,10,mg,1150,g,19,g,5,g,0,g,0,g,1,g,4,g
+419,beef o bradys,mediterranean salad,17,g,30,mg,1950,g,19,g,11,g,7,g,0,g,6,g,6,g
+420,beef o bradys,mediterranean salad chicken,19,g,65,mg,2460,g,20,g,25,g,7,g,0,g,6,g,6,g
+421,beef o bradys,mediterranean salad with blackened fish,30,g,90,mg,3330,g,21,g,40,g,10,g,3,g,6,g,6,g
+422,beef o bradys,mediterranean salad with blackened shrimp,28,g,110,mg,2940,g,20,g,20,g,9,g,3,g,6,g,6,g
+423,beef o bradys,mediterranean salad with chicken value menu,13,g,35,mg,1620,g,13,g,13,g,4,g,0,g,3,g,3,g
+424,beef o bradys,mediterranean salad with grilled lemon pepper fish,30,g,90,mg,3560,g,21,g,40,g,10,g,3,g,6,g,6,g
+425,beef o bradys,mediterranean salad with grilled shrimp,28,g,110,mg,3710,g,19,g,20,g,9,g,3,g,6,g,6,g
+426,beef o bradys,mediterranean salad value menu,12,g,15,mg,1370,g,12,g,6,g,4,g,0,g,3,g,3,g
+427,beef o bradys,medium boneless wing sauce,0,g,0,mg,1530,g,3,g,0,g,0,g,0,g,0,g,0,g
+428,beef o bradys,medium traditional wing sauce,0,g,0,mg,920,g,2,g,0,g,0,g,0,g,0,g,0,g
+429,beef o bradys,mild boneless wing sauce,0,g,0,mg,830,g,3,g,0,g,0,g,0,g,0,g,0,g
+430,beef o bradys,mild traditional wing sauce,0,g,0,mg,500,g,2,g,0,g,0,g,0,g,0,g,0,g
+431,beef o bradys,minestrone soup bowl,2,g,0,mg,920,g,25,g,3,g,0,g,0,g,2,g,4,g
+432,beef o bradys,minestrone soup cup,1,g,0,mg,650,g,16,g,2,g,0,g,0,g,1,g,3,g
+433,beef o bradys,moonshine punch,0,g,0,mg,75,g,53,g,0,g,0,g,0,g,0,g,47,g
+434,beef o bradys,mushroom swiss burger,80,g,130,mg,2970,g,91,g,45,g,31,g,3.5,g,7,g,9,g
+435,beef o bradys,nachos chicken,53,g,140,mg,3940,g,117,g,48,g,23,g,1.5,g,8,g,6,g
+436,beef o bradys,nachos steak,69,g,185,mg,4760,g,117,g,63,g,30,g,1.5,g,8,g,6,g
+437,beef o bradys,nuclear boneless wing sauce,1,g,0,mg,2580,g,5,g,1,g,0,g,0,g,3,g,1,g
+438,beef o bradys,nuclear traditional wing sauce,1,g,0,mg,1550,g,3,g,0,g,0,g,0,g,2,g,1,g
+439,beef o bradys,oh my mai tai,0,g,0,mg,55,g,44,g,0,g,0,g,0,g,0,g,39,g
+440,beef o bradys,old fashioned chicken noodle soup bowl,4,g,40,mg,1470,g,29,g,9,g,0,g,0,g,2,g,2,g
+441,beef o bradys,old fashioned chicken noodle soup cup,3,g,30,mg,1060,g,19,g,7,g,0,g,0,g,1,g,1,g
+442,beef o bradys,omg burger,127,g,255,mg,5950,g,94,g,68,g,49,g,3.5,g,7,g,9,g
+443,beef o bradys,philly steak sandwich,52,g,105,mg,3200,g,100,g,46,g,17,g,0,g,8,g,6,g
+444,beef o bradys,pick two caesar salad,27,g,40,mg,960,g,15,g,14,g,8,g,0.5,g,2,g,1,g
+445,beef o bradys,pick two california turkey melt,23,g,75,mg,1040,g,31,g,30,g,9,g,1.5,g,2,g,1,g
+446,beef o bradys,pick two cuban,27,g,75,mg,1470,g,35,g,25,g,10,g,0,g,2,g,5,g
+447,beef o bradys,pick two cup of baja chicken enchilada soup,12,g,40,mg,880,g,20,g,8,g,4.5,g,0,g,4,g,4,g
+448,beef o bradys,pick two cup of beef and black bean soup,2,g,5,mg,860,g,23,g,7,g,0,g,0,g,6,g,2,g
+449,beef o bradys,pick two cup of beef obradys chili,15,g,35,mg,820,g,21,g,13,g,6,g,1,g,4,g,5,g
+450,beef o bradys,pick two cup of boston clam chowder,9,g,20,mg,720,g,21,g,7,g,3,g,0,g,1,g,5,g
+451,beef o bradys,pick two cup of chicken and dumplings soup,8,g,30,mg,850,g,19,g,5,g,2,g,0,g,1,g,3,g
+452,beef o bradys,pick two cup of chicken gumbo,4,g,10,mg,820,g,13,g,2,g,1,g,0,g,1,g,1,g
+453,beef o bradys,pick two cup of chicken tortilla soup,2.5,g,15,mg,740,g,21,g,5,g,0,g,0,g,5,g,1,g
+454,beef o bradys,pick two cup of country vegetable with beef soup,2.5,g,5,mg,1420,g,25,g,6,g,0.5,g,0,g,2,g,4,g
+455,beef o bradys,pick two cup of cream of broccoli soup,5,g,15,mg,770,g,15,g,4,g,2.5,g,0,g,1,g,6,g
+456,beef o bradys,pick two cup of french onion soup,2,g,0,mg,840,g,7,g,2,g,0,g,0,g,1,g,1,g
+457,beef o bradys,pick two cup of lower sodium vegetarian vegetable soup,0.5,g,0,mg,550,g,20,g,4,g,0,g,0,g,2,g,5,g
+458,beef o bradys,pick two cup of maryland style crab soup,1,g,10,mg,1150,g,19,g,5,g,0,g,0,g,1,g,4,g
+459,beef o bradys,pick two cup of minestrone soup,1,g,0,mg,650,g,16,g,2,g,0,g,0,g,1,g,3,g
+460,beef o bradys,pick two cup of old fashioned chicken noodle soup,3,g,30,mg,1060,g,19,g,7,g,0,g,0,g,1,g,1,g
+461,beef o bradys,pick two cup of potato with bacon soup,7,g,15,mg,750,g,22,g,5,g,3,g,0,g,1,g,6,g
+462,beef o bradys,pick two cup of tomato basil soup,11,g,30,mg,880,g,22,g,2,g,5,g,0,g,1,g,8,g
+463,beef o bradys,pick two cup of wisconsin cheese soup,14,g,25,mg,720,g,21,g,6,g,6,g,0,g,0,g,10,g
+464,beef o bradys,pick two grilled cheese,18,g,35,mg,650,g,26,g,14,g,9,g,1.5,g,1,g,2,g
+465,beef o bradys,pick two hot dog,24,g,45,mg,970,g,28,g,15,g,9,g,1,g,1,g,4,g
+466,beef o bradys,pick two reuben,26,g,60,mg,1180,g,30,g,22,g,10,g,1.5,g,4,g,4,g
+467,beef o bradys,pick two side garden salad,10,g,30,mg,370,g,17,g,11,g,5,g,0,g,2,g,4,g
+468,beef o bradys,pick two watterson,24,g,55,mg,820,g,28,g,24,g,9,g,1.5,g,3,g,3,g
+469,beef o bradys,pick twocup of italian style wedding soup,4.5,g,10,mg,990,g,21,g,6,g,2,g,0,g,1,g,1,g
+470,beef o bradys,pina colada,10,g,0,mg,50,g,54,g,0,g,9,g,0,g,0,g,51,g
+471,beef o bradys,pina colada smoothie,5,g,5,mg,270,g,66,g,7,g,4.5,g,0,g,0,g,59,g
+472,beef o bradys,pina colada with floater,10,g,0,mg,50,g,54,g,0,g,9,g,0,g,0,g,51,g
+473,beef o bradys,pineapple express,0,g,0,mg,0,g,26,g,0,g,0,g,0,g,0,g,26,g
+474,beef o bradys,pork chops with side caesar salad,54,g,180,mg,3690,g,17,g,57,g,18,g,0.5,g,0,g,1,g
+475,beef o bradys,pork chops with side garden salad,37,g,170,mg,3100,g,18,g,53,g,14,g,0,g,1,g,4,g
+476,beef o bradys,potato with bacon soup bowl,10,g,20,mg,1050,g,32,g,7,g,4.5,g,0,g,2,g,8,g
+477,beef o bradys,potato with bacon soup cup,7,g,15,mg,750,g,22,g,5,g,3,g,0,g,1,g,6,g
+478,beef o bradys,prime rib sandwich,82,g,160,mg,3610,g,120,g,67,g,29,g,3,g,6,g,1,g
+479,beef o bradys,quesadilla cheese,47,g,150,mg,1650,g,55,g,38,g,29,g,0,g,3,g,1,g
+480,beef o bradys,quesadilla chicken,49,g,190,mg,2160,g,57,g,52,g,29,g,0,g,3,g,2,g
+481,beef o bradys,quesadilla steak,65,g,235,mg,2980,g,57,g,67,g,36,g,0,g,3,g,2,g
+482,beef o bradys,queso dip and chips,39,g,60,mg,2620,g,110,g,28,g,14,g,1.5,g,6,g,3,g
+483,beef o bradys,quinoa power salad,12,g,50,mg,840,g,58,g,30,g,3.5,g,0.5,g,8,g,7,g
+484,beef o bradys,quinoa power salad value menu,9,g,25,mg,570,g,53,g,20,g,2,g,0.5,g,7,g,4,g
+485,beef o bradys,raspberry flavored lemonade,0,g,0,mg,10,g,35,g,0,g,0,g,0,g,0,g,34,g
+486,beef o bradys,raspberry flavored tea,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,17,g
+487,beef o bradys,red sangria,0,g,0,mg,25,g,51,g,0,g,0,g,0,g,0,g,47,g
+488,beef o bradys,reuben,68,g,120,mg,3070,g,109,g,47,g,23,g,3,g,12,g,7,g
+489,beef o bradys,ribeye steak with side caesar salad,59,g,165,mg,2620,g,17,g,58,g,17,g,0.5,g,3,g,1,g
+490,beef o bradys,ribeye steak with side garden salad,42,g,155,mg,2040,g,18,g,54,g,14,g,0,g,2,g,4,g
+491,beef o bradys,ribs full order,103,g,240,mg,6250,g,107,g,90,g,36,g,0,g,6,g,52,g
+492,beef o bradys,ribs full order chargrilled,103,g,240,mg,6250,g,107,g,90,g,36,g,0,g,6,g,52,g
+493,beef o bradys,ribs half order,71,g,135,mg,4000,g,88,g,51,g,23,g,0,g,6,g,34,g
+494,beef o bradys,ribs half order chargrilled,71,g,135,mg,4000,g,88,g,51,g,23,g,0,g,6,g,34,g
+495,beef o bradys,roast beef garlic melt,83,g,145,mg,3010,g,116,g,65,g,29,g,6,g,7,g,6,g
+496,beef o bradys,royal gala,0,g,0,mg,5,g,18,g,0,g,0,g,0,g,0,g,15,g
+497,beef o bradys,salmon mediterranean salad,42,g,135,mg,3570,g,20,g,50,g,11,g,0,g,2,g,6,g
+498,beef o bradys,salmon with side caesar salad,53,g,145,mg,2580,g,17,g,53,g,12,g,0.5,g,3,g,1,g
+499,beef o bradys,salmon with side garden salad,36,g,135,mg,1990,g,18,g,49,g,9,g,0,g,2,g,4,g
+500,beef o bradys,sangria rita,0,g,0,mg,10,g,90,g,0,g,0,g,0,g,0,g,84,g
+501,beef o bradys,santa fe salad,30,g,95,mg,1400,g,64,g,39,g,14,g,0,g,5,g,6,g
+502,beef o bradys,santa fe salad add poblano sauce,24,g,20,mg,320,g,1,g,0,g,3,g,0,g,0,g,0,g
+503,beef o bradys,santa fe salad add salsa,0,g,0,mg,200,g,1,g,0,g,0,g,0,g,0,g,1,g
+504,beef o bradys,santa fe salad add sour cream,7,g,30,mg,20,g,1,g,1,g,5,g,0,g,0,g,0,g
+505,beef o bradys,seafood combo fried,39,g,100,mg,2930,g,102,g,30,g,8,g,0,g,7,g,11,g
+506,beef o bradys,seafood combo fried shrimp and grilled fish blackened,43,g,100,mg,2680,g,84,g,28,g,9,g,3,g,7,g,11,g
+507,beef o bradys,seafood combo fried shrimp and grilled fish lemon pepper,43,g,100,mg,2790,g,84,g,28,g,9,g,3,g,7,g,11,g
+508,beef o bradys,seafood combo grilled fish and shrimp blackened,49,g,120,mg,2940,g,66,g,29,g,10,g,6,g,7,g,10,g
+509,beef o bradys,seafood combo grilled fish blackened and shrimp pgs,49,g,120,mg,3710,g,65,g,28,g,10,g,6,g,6,g,10,g
+510,beef o bradys,seafood combo grilled fish lemon pepper and shrimp pgs,49,g,120,mg,3820,g,65,g,28,g,10,g,6,g,6,g,10,g
+511,beef o bradys,seafood combo grilled fish lemon pepper and shrimp blackened,49,g,120,mg,3060,g,66,g,29,g,10,g,6,g,6,g,10,g
+512,beef o bradys,seafood combo grilled shrimp blackened and fried fish,45,g,120,mg,3190,g,83,g,30,g,9,g,3,g,7,g,10,g
+513,beef o bradys,seafood combo grilled shrimp pgs and fried fish,45,g,120,mg,3950,g,82,g,30,g,9,g,3,g,7,g,10,g
+514,beef o bradys,shrimp bowl with quinoa,58,g,140,mg,1850,g,66,g,32,g,11,g,0.5,g,5,g,7,g
+515,beef o bradys,shrimp bowl with rice,63,g,140,mg,2270,g,79,g,29,g,13,g,3,g,5,g,7,g
+516,beef o bradys,shrimp caesar salad blackened,23,g,105,mg,1670,g,28,g,25,g,7,g,3.5,g,4,g,2,g
+517,beef o bradys,shrimp caesar salad grilled,23,g,105,mg,2440,g,28,g,25,g,7,g,3.5,g,4,g,2,g
+518,beef o bradys,shrimp dinner blackened,34,g,160,mg,2720,g,67,g,28,g,6,g,9,g,5,g,1,g
+519,beef o bradys,shrimp dinner grilled,33,g,160,mg,4250,g,66,g,27,g,6,g,9,g,5,g,1,g
+520,beef o bradys,shrimp fajitas,60,g,230,mg,3870,g,61,g,38,g,21,g,6,g,7,g,7,g
+521,beef o bradys,shrimp salad blackened,27,g,110,mg,1190,g,16,g,21,g,8,g,3,g,4,g,9,g
+522,beef o bradys,shrimp salad grilled,27,g,110,mg,1960,g,15,g,21,g,8,g,3,g,4,g,9,g
+523,beef o bradys,shrimp taco basket add a taco,95,g,185,mg,3750,g,105,g,39,g,22,g,6,g,1,g,4,g
+524,beef o bradys,shrimp tacos basket,62,g,130,mg,2820,g,86,g,29,g,14,g,3,g,1,g,3,g
+525,beef o bradys,side caesar salad,27,g,40,mg,960,g,15,g,14,g,8,g,0.5,g,2,g,1,g
+526,beef o bradys,side garden salad,10,g,30,mg,370,g,17,g,11,g,5,g,0,g,2,g,4,g
+527,beef o bradys,side of broccoli,0,g,0,mg,20,g,5,g,3,g,0,g,0,g,3,g,1,g
+528,beef o bradys,side of coleslaw,10,g,10,mg,260,g,13,g,1,g,1.5,g,0,g,2,g,10,g
+529,beef o bradys,side of curly fries,23,g,0,mg,840,g,42,g,4,g,3.5,g,0,g,4,g,0,g
+530,beef o bradys,side of fried pickle chips,9,g,0,mg,2470,g,26,g,3,g,2,g,0,g,1,g,1,g
+531,beef o bradys,side of fries,17,g,0,mg,940,g,50,g,4,g,3.5,g,0,g,4,g,0,g
+532,beef o bradys,side of guacamole,8,g,0,mg,170,g,6,g,1,g,1,g,0,g,4,g,1,g
+533,beef o bradys,side of onion rings,25,g,0,mg,760,g,57,g,4,g,5,g,0,g,4,g,9,g
+534,beef o bradys,side of pub chips,25,g,0,mg,2210,g,31,g,2,g,3.5,g,0,g,2,g,0,g
+535,beef o bradys,side of queso dip,12,g,30,mg,610,g,6,g,8,g,6,g,1,g,0,g,2,g
+536,beef o bradys,side of quinoa,3,g,0,mg,150,g,23,g,5,g,0,g,0,g,2,g,0,g
+537,beef o bradys,side of seasoned rice,11,g,0,mg,710,g,60,g,6,g,2,g,3,g,2,g,0,g
+538,beef o bradys,side of zucchini planks,14,g,0,mg,390,g,7,g,2,g,2,g,0,g,2,g,4,g
+539,beef o bradys,signature buffalo boneless wing sauce,15,g,0,mg,930,g,3,g,0,g,3,g,0,g,0,g,0,g
+540,beef o bradys,signature buffalo traditional wing sauce,9,g,0,mg,560,g,2,g,0,g,2,g,0,g,0,g,0,g
+541,beef o bradys,sirloin steak with side caesar salad,46,g,110,mg,2800,g,17,g,43,g,12,g,0.5,g,3,g,2,g
+542,beef o bradys,sirloin steak with side garden salad,29,g,100,mg,2220,g,19,g,40,g,9,g,0,g,2,g,5,g
+543,beef o bradys,southern fried chicken sliders,77,g,80,mg,2660,g,140,g,33,g,18,g,0,g,5,g,26,g
+544,beef o bradys,spicy dipping sauce,14,g,15,mg,400,g,7,g,1,g,2.5,g,0,g,0,g,5,g
+545,beef o bradys,spicy garlic boneless wing sauce,4,g,0,mg,900,g,2,g,0,g,1,g,0,g,1,g,0,g
+546,beef o bradys,spicy garlic traditional wing sauce,2,g,0,mg,540,g,1,g,0,g,0,g,0,g,0,g,0,g
+547,beef o bradys,spinach artichoke dip,46,g,45,mg,3070,g,121,g,33,g,17,g,0,g,9,g,13,g
+548,beef o bradys,steak bowl with quinoa,70,g,115,mg,2080,g,66,g,42,g,16,g,0.5,g,5,g,7,g
+549,beef o bradys,steak bowl with rice,74,g,115,mg,2500,g,79,g,38,g,18,g,3,g,5,g,7,g
+550,beef o bradys,steak fajitas,53,g,140,mg,3290,g,61,g,45,g,24,g,0,g,7,g,7,g
+551,beef o bradys,steak taco basket add a taco,91,g,170,mg,3920,g,102,g,56,g,25,g,0,g,8,g,4,g
+552,beef o bradys,steak tacos basket,63,g,115,mg,2980,g,86,g,39,g,17,g,0,g,7,g,3,g
+553,beef o bradys,strawberry flavored lemonade,0,g,0,mg,10,g,35,g,0,g,0,g,0,g,0,g,34,g
+554,beef o bradys,strawberry flavored tea,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,17,g
+555,beef o bradys,strawberry gin plunge,0,g,0,mg,0,g,25,g,0,g,0,g,0,g,0,g,24,g
+556,beef o bradys,strawberry pina colada,8,g,0,mg,45,g,67,g,0,g,7,g,0,g,0,g,65,g
+557,beef o bradys,strawberry pina colada with floater,8,g,0,mg,45,g,67,g,0,g,7,g,0,g,0,g,65,g
+558,beef o bradys,strawberry shake,37,g,60,mg,105,g,84,g,4,g,29,g,0,g,0,g,77,g
+559,beef o bradys,strawberry smoothie,0,g,5,mg,250,g,94,g,7,g,0,g,0,g,0,g,88,g
+560,beef o bradys,sweet jalapeno boneless wing sauce,1,g,0,mg,630,g,32,g,1,g,0,g,0,g,1,g,25,g
+561,beef o bradys,sweet jalapeno traditional wing sauce,1,g,0,mg,380,g,19,g,0,g,0,g,0,g,0,g,15,g
+562,beef o bradys,teriyaki boneless wing sauce,0,g,0,mg,1690,g,43,g,2,g,0,g,0,g,0,g,38,g
+563,beef o bradys,teriyaki traditional wing sauce,0,g,0,mg,1010,g,26,g,1,g,0,g,0,g,0,g,23,g
+564,beef o bradys,texas sliders,111,g,135,mg,4010,g,113,g,38,g,28,g,3,g,6,g,11,g
+565,beef o bradys,the mule,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,0,g,11,g
+566,beef o bradys,the steak burrito,87,g,145,mg,4120,g,145,g,53,g,25,g,1.5,g,10,g,5,g
+567,beef o bradys,tomato basil soup bowl,15,g,40,mg,1230,g,32,g,3,g,7,g,0,g,2,g,11,g
+568,beef o bradys,tomato basil soup cup,11,g,30,mg,880,g,22,g,2,g,5,g,0,g,1,g,8,g
+569,beef o bradys,top shelf long island,0,g,0,mg,75,g,27,g,0,g,0,g,0,g,0,g,22,g
+570,beef o bradys,traditional dry rub blackened wing basket,103,g,185,mg,2650,g,73,g,48,g,23,g,6,g,8,g,16,g
+571,beef o bradys,traditional dry rub blackening wings 12 wings with celery,104,g,255,mg,1880,g,6,g,64,g,24,g,9,g,2,g,1,g
+572,beef o bradys,traditional dry rub blackening wings 18 wings with celery,150,g,380,mg,2520,g,7,g,95,g,35,g,12,g,3,g,1,g
+573,beef o bradys,traditional dry rub blackening wings 25 wings with celery,214,g,525,mg,3710,g,10,g,132,g,50,g,18,g,4,g,1,g
+574,beef o bradys,traditional dry rub blackening wings 8 wings with celery,69,g,170,mg,1270,g,5,g,43,g,16,g,6,g,2,g,1,g
+575,beef o bradys,traditional dry rub lemon pepper wing basket,102,g,185,mg,2880,g,73,g,48,g,23,g,6,g,8,g,17,g
+576,beef o bradys,traditional dry rub lemon pepper wings 12 wings with celery,104,g,255,mg,2220,g,6,g,63,g,24,g,9,g,2,g,2,g
+577,beef o bradys,traditional dry rub lemon pepper wings 18 wings with celery,150,g,380,mg,2980,g,7,g,95,g,35,g,12,g,2,g,2,g
+578,beef o bradys,traditional dry rub lemon pepper wings 25 wings with celery,214,g,525,mg,4400,g,10,g,131,g,50,g,18,g,2,g,2,g
+579,beef o bradys,traditional dry rub lemon pepper wings 8 wings with celery,69,g,170,mg,1500,g,5,g,42,g,16,g,6,g,2,g,2,g
+580,beef o bradys,traditional dry rub nashville hot wing basket,97,g,175,mg,2760,g,70,g,48,g,22,g,6,g,8,g,13,g
+581,beef o bradys,traditional garlic parmesan wing basket,105,g,175,mg,2420,g,71,g,49,g,23,g,0,g,6,g,12,g
+582,beef o bradys,traditional garlic parmesan wings 12 wings with celery,119,g,255,mg,1900,g,15,g,66,g,27,g,0,g,1,g,4,g
+583,beef o bradys,traditional garlic parmesan wings 18 wings with celery,178,g,380,mg,2810,g,21,g,99,g,40,g,0,g,1,g,6,g
+584,beef o bradys,traditional garlic parmesan wings 25 wings with celery,243,g,525,mg,3740,g,27,g,137,g,55,g,0,g,1,g,7,g
+585,beef o bradys,traditional garlic parmesan wings 8 wings with celery,79,g,170,mg,1290,g,11,g,44,g,18,g,0,g,1,g,3,g
+586,beef o bradys,traditional honey bbq wing basket,80,g,185,mg,2070,g,102,g,47,g,19,g,0,g,6,g,45,g
+587,beef o bradys,traditional honey bbq wings 12 wings with celery,71,g,255,mg,1120,g,54,g,63,g,18,g,0,g,1,g,46,g
+588,beef o bradys,traditional honey bbq wings 18 wings with celery,106,g,380,mg,1640,g,79,g,94,g,27,g,0,g,1,g,69,g
+589,beef o bradys,traditional honey bbq wings 25 wings with celery,147,g,525,mg,2180,g,105,g,131,g,37,g,0,g,1,g,91,g
+590,beef o bradys,traditional honey bbq wings 8 wings with celery,47,g,170,mg,770,g,37,g,42,g,12,g,0,g,1,g,31,g
+591,beef o bradys,traditional hot wing basket,80,g,185,mg,2850,g,70,g,47,g,19,g,0,g,6,g,15,g
+592,beef o bradys,traditional hot wings 12 wings with celery,71,g,225,mg,2290,g,6,g,63,g,18,g,0,g,1,g,1,g
+593,beef o bradys,traditional hot wings 18 wings with celery,106,g,380,mg,3400,g,7,g,94,g,27,g,0,g,1,g,1,g
+594,beef o bradys,traditional hot wings 25 wings with celery,147,g,525,mg,4520,g,9,g,131,g,37,g,0,g,1,g,1,g
+595,beef o bradys,traditional hot wings 8 wings with celery,47,g,170,mg,1550,g,5,g,42,g,12,g,0,g,1,g,1,g
+596,beef o bradys,traditional kentucky bourbon wings 12 wings with celery,71,g,255,mg,1270,g,51,g,63,g,18,g,0,g,1,g,43,g
+597,beef o bradys,traditional kentucky bourbon wings 18 wings with celery,106,g,380,mg,1870,g,75,g,94,g,27,g,0,g,1,g,64,g
+598,beef o bradys,traditional kentucky bourbon wings 25 wings with celery,147,g,525,mg,2480,g,99,g,131,g,37,g,0,g,1,g,85,g
+599,beef o bradys,traditional kentucky bourbon wings 8 wings with celery,47,g,170,mg,870,g,35,g,42,g,12,g,0,g,1,g,29,g
+600,beef o bradys,traditional mango habanero wing basket,81,g,185,mg,1810,g,101,g,47,g,19,g,0,g,7,g,42,g
+601,beef o bradys,traditional mango habanero wings 12 wings with celery,71,g,255,mg,730,g,51,g,64,g,18,g,0,g,3,g,42,g
+602,beef o bradys,traditional mango habanero wings 18 wings with celery,107,g,380,mg,1060,g,76,g,96,g,27,g,0,g,3,g,62,g
+603,beef o bradys,traditional mango habanero wings 25 wings with celery,149,g,525,mg,1410,g,100,g,132,g,38,g,0,g,4,g,82,g
+604,beef o bradys,traditional mango habanero wings 8 wings with celery,48,g,170,mg,510,g,35,g,43,g,12,g,0,g,2,g,28,g
+605,beef o bradys,traditional medium wing basket,80,g,185,mg,2750,g,70,g,47,g,19,g,0,g,6,g,15,g
+606,beef o bradys,traditional medium wings 12 wings with celery,71,g,255,mg,2140,g,6,g,63,g,18,g,0,g,1,g,1,g
+607,beef o bradys,traditional medium wings 18 wings with celery,106,g,380,mg,3170,g,7,g,94,g,27,g,0,g,1,g,1,g
+608,beef o bradys,traditional medium wings 25 wings with celery,147,g,525,mg,4220,g,9,g,131,g,37,g,0,g,1,g,1,g
+609,beef o bradys,traditional medium wings 8 wings with celery,47,g,170,mg,1450,g,5,g,42,g,12,g,0,g,1,g,1,g
+610,beef o bradys,traditional mild wing basket,80,g,185,mg,2190,g,70,g,47,g,19,g,0,g,6,g,15,g
+611,beef o bradys,traditional mild wings 12 wings with celery,71,g,255,mg,1300,g,6,g,63,g,18,g,0,g,1,g,1,g
+612,beef o bradys,traditional mild wings 18 wings with celery,106,g,380,mg,1910,g,7,g,94,g,27,g,0,g,1,g,1,g
+613,beef o bradys,traditional mild wings 25 wings with celery,147,g,525,mg,2540,g,9,g,131,g,37,g,0,g,1,g,1,g
+614,beef o bradys,traditional mild wings 8 wings with celery,47,g,170,mg,890,g,5,g,42,g,12,g,0,g,1,g,1,g
+615,beef o bradys,traditional nashville hot wings 12 wings with celery,106,g,255,mg,2300,g,9,g,64,g,25,g,9,g,3,g,3,g
+616,beef o bradys,traditional nashville hot wings 18 wings with celery,153,g,380,mg,3080,g,11,g,96,g,37,g,12,g,3,g,4,g
+617,beef o bradys,traditional nashville hot wings 25 wings with celery,217,g,525,mg,4550,g,15,g,133,g,52,g,18,g,4,g,6,g
+618,beef o bradys,traditional nashville hot wings 8 wings with celery,71,g,170,mg,1550,g,7,g,43,g,17,g,6,g,2,g,3,g
+619,beef o bradys,traditional nuclear wing basket,81,g,185,mg,3590,g,73,g,48,g,19,g,0,g,8,g,16,g
+620,beef o bradys,traditional nuclear wing challenge,91,g,315,mg,4420,g,8,g,80,g,23,g,0,g,4,g,2,g
+621,beef o bradys,traditional nuclear wings 12 wings with celery,73,g,255,mg,3400,g,9,g,64,g,18,g,0,g,4,g,3,g
+622,beef o bradys,traditional nuclear wings 18 wings with celery,109,g,380,mg,5060,g,12,g,96,g,27,g,0,g,6,g,3,g
+623,beef o bradys,traditional nuclear wings 25 wings with celery,151,g,525,mg,6750,g,15,g,133,g,38,g,0.5,g,8,g,5,g
+624,beef o bradys,traditional nuclear wings 8 wings with celery,48,g,170,mg,2290,g,7,g,43,g,12,g,0,g,3,g,2,g
+625,beef o bradys,traditional plain no sauce wing basket,80,g,185,mg,1530,g,68,g,47,g,19,g,0,g,6,g,15,g
+626,beef o bradys,traditional plain wings 12 wings with celery,71,g,255,mg,310,g,3,g,63,g,18,g,0,g,1,g,1,g
+627,beef o bradys,traditional plain wings 18 wings with celery,106,g,380,mg,430,g,3,g,94,g,27,g,0,g,1,g,1,g
+628,beef o bradys,traditional plain wings 25 wings with celery,147,g,525,mg,560,g,3,g,131,g,37,g,0,g,1,g,1,g
+629,beef o bradys,traditional plain wings 8 wings with celery,47,g,170,mg,230,g,3,g,42,g,12,g,0,g,1,g,1,g
+630,beef o bradys,traditional signature buffalo wing basket,92,g,185,mg,2270,g,70,g,47,g,21,g,0,g,6,g,15,g
+631,beef o bradys,traditional signature buffalo wings 12 wings with celery,89,g,255,mg,1420,g,6,g,63,g,21,g,0,g,1,g,1,g
+632,beef o bradys,traditional signature buffalo wings 18 wings with celery,133,g,380,mg,2090,g,7,g,94,g,31,g,0,g,1,g,1,g
+633,beef o bradys,traditional signature buffalo wings 25 wings with celery,183,g,525,mg,2780,g,9,g,131,g,43,g,0,g,1,g,1,g
+634,beef o bradys,traditional signature buffalo wings 8 wings with celery,59,g,170,mg,970,g,5,g,42,g,14,g,0,g,1,g,1,g
+635,beef o bradys,traditional spicy garlic wing basket,83,g,185,mg,2250,g,70,g,47,g,19,g,0,g,6,g,15,g
+636,beef o bradys,traditional spicy garlic wings 12 wings with celery,75,g,255,mg,1380,g,4,g,63,g,19,g,0,g,2,g,2,g
+637,beef o bradys,traditional spicy garlic wings 18 wings with celery,113,g,380,mg,2040,g,5,g,95,g,28,g,0,g,2,g,2,g
+638,beef o bradys,traditional spicy garlic wings 25 wings with celery,156,g,525,mg,2720,g,6,g,132,g,39,g,0.5,g,2,g,2,g
+639,beef o bradys,traditional spicy garlic wings 8 wings with celery,50,g,170,mg,950,g,4,g,43,g,13,g,0,g,2,g,2,g
+640,beef o bradys,traditional sweet jalapeno wing basket,81,g,185,mg,2040,g,94,g,47,g,19,g,0,g,6,g,35,g
+641,beef o bradys,traditional sweet jalapeno wings 12 wings with celery,72,g,255,mg,1060,g,41,g,64,g,18,g,0,g,2,g,32,g
+642,beef o bradys,traditional sweet jalapeno wings 18 wings with celery,108,g,380,mg,1560,g,60,g,95,g,27,g,0,g,2,g,47,g
+643,beef o bradys,traditional sweet jalapeno wings 25 wings with celery,150,g,525,mg,2080,g,79,g,132,g,38,g,0,g,3,g,62,g
+644,beef o bradys,traditional sweet jalapeno wings 8 wings with celery,48,g,170,mg,730,g,28,g,43,g,12,g,0,g,2,g,22,g
+645,beef o bradys,traditional teriyaki wing basket,80,g,185,mg,2880,g,103,g,48,g,19,g,0,g,6,g,46,g
+646,beef o bradys,traditional teriyaki wings 12 wings with celery,71,g,255,mg,2330,g,54,g,65,g,18,g,0,g,1,g,47,g
+647,beef o bradys,traditional teriyaki wings 18 wings with celery,106,g,380,mg,3460,g,80,g,98,g,27,g,0,g,1,g,70,g
+648,beef o bradys,traditional teriyaki wings 25 wings with celery,147,g,525,mg,4620,g,106,g,135,g,37,g,0,g,2,g,92,g
+649,beef o bradys,traditional teriyaki wings 8 wings with celery,47,g,170,mg,1580,g,37,g,44,g,12,g,0,g,1,g,32,g
+650,beef o bradys,traditional wings and fried mozzarella,54,g,170,mg,1230,g,32,g,46,g,18,g,0.5,g,2,g,4,g
+651,beef o bradys,traditional wings and fried pickles,43,g,130,mg,2630,g,28,g,35,g,11,g,0,g,2,g,2,g
+652,beef o bradys,traditional wings and jalapeno corn fritters,68,g,150,mg,1200,g,52,g,42,g,17,g,0,g,4,g,7,g
+653,beef o bradys,traditional wings and onion rings,61,g,125,mg,920,g,58,g,36,g,14,g,0,g,5,g,10,g
+654,beef o bradys,traditional x hot wing basket,81,g,185,mg,2540,g,71,g,47,g,19,g,0,g,6,g,15,g
+655,beef o bradys,traditional x hot wings 12 wings with celery,71,g,255,mg,1820,g,6,g,63,g,18,g,0,g,2,g,2,g
+656,beef o bradys,traditional x hot wings 18 wings with celery,107,g,380,mg,2700,g,8,g,95,g,27,g,0,g,2,g,2,g
+657,beef o bradys,traditional x hot wings 25 wings with celery,148,g,525,mg,3600,g,10,g,131,g,38,g,0,g,3,g,2,g
+658,beef o bradys,traditional x hot wings 8 wings with celery,48,g,170,mg,1240,g,5,g,42,g,12,g,0,g,2,g,2,g
+659,beef o bradys,turkey reuben,57,g,135,mg,3560,g,109,g,57,g,18,g,3,g,12,g,7,g
+660,beef o bradys,ultimate pepperoni pizza personal,46,g,110,mg,2440,g,86,g,38,g,23,g,0.5,g,3,g,9,g
+661,beef o bradys,ultimate pepperoni pizza large,17,g,35,mg,920,g,37,g,15,g,8,g,0,g,0,g,3,g
+662,beef o bradys,up the creek,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,17,g
+663,beef o bradys,vanilla shake,47,g,90,mg,140,g,48,g,6,g,35,g,0,g,0,g,37,g
+664,beef o bradys,veggie bowl with quinoa,58,g,60,mg,1380,g,66,g,23,g,11,g,0.5,g,5,g,7,g
+665,beef o bradys,veggie bowl with rice,63,g,60,mg,1800,g,79,g,20,g,13,g,3,g,5,g,7,g
+666,beef o bradys,watterson,64,g,115,mg,2340,g,104,g,50,g,21,g,3,g,9,g,6,g
+667,beef o bradys,white sangria,0,g,0,mg,35,g,52,g,0,g,0,g,0,g,0,g,50,g
+668,beef o bradys,wisconsin cheese soup bowl,18,g,30,mg,1010,g,31,g,8,g,8,g,1,g,0,g,14,g
+669,beef o bradys,wisconsin cheese soup cup,14,g,25,mg,720,g,21,g,6,g,6,g,0,g,0,g,10,g
+670,beef o bradys,x hot boneless wing sauce,0,g,0,mg,1260,g,3,g,0,g,0,g,0,g,0,g,0,g
+671,beef o bradys,x hot traditional wing sauce,0,g,0,mg,760,g,2,g,0,g,0,g,0,g,0,g,0,g
+672,bertuccis italian restaurant,classic bruschetta,32,g,0,mg,850,g,10,g,3,g,3.5,g,0,g,3,g,0,g
+673,bertuccis italian restaurant,garlic knots with sauce,49,g,0,mg,820,g,90,g,14,g,16,g,0,g,4,g,0,g
+674,bertuccis italian restaurant,tuscan chicken wings,38,g,0,mg,230,g,10,g,37,g,9,g,0,g,1,g,0,g
+675,bertuccis italian restaurant,mozzarella fritta,33,g,0,mg,1930,g,54,g,27,g,14,g,0,g,5,g,0,g
+676,bertuccis italian restaurant,buffalo chicken wings,67,g,0,mg,1840,g,10,g,38,g,16,g,0,g,1,g,0,g
+677,bertuccis italian restaurant,garlic knots without sauce,48,g,0,mg,630,g,86,g,13,g,16,g,0,g,3,g,0,g
+678,bertuccis italian restaurant,roasted tuscan vegetables,28,g,0,mg,840,g,16,g,6,g,3,g,0,g,6,g,0,g
+679,bertuccis italian restaurant,brick oven spinach and artichoke dip,33,g,0,mg,740,g,72,g,24,g,17,g,0,g,6,g,0,g
+680,bertuccis italian restaurant,bbq chicken wings,32,g,0,mg,1170,g,51,g,36,g,9,g,0,g,0,g,0,g
+681,bertuccis italian restaurant,bertuccis sampler,63,g,0,mg,2860,g,57,g,64,g,26,g,0,g,7,g,0,g
+682,bertuccis italian restaurant,antipasto,46,g,0,mg,1320,g,79,g,36,g,17,g,0,g,7,g,0,g
+683,bertuccis italian restaurant,five layer chocolate cake,46,g,0,mg,260,g,72,g,7,g,20,g,0,g,4,g,0,g
+684,bertuccis italian restaurant,warm chocolate chip cookie with gelato,36,g,0,mg,410,g,105,g,9,g,17,g,0,g,3,g,0,g
+685,bertuccis italian restaurant,cheesecake,29,g,0,mg,420,g,52,g,10,g,16,g,0,g,1,g,0,g
+686,bertuccis italian restaurant,kids 4 cheese ravioli with pasta sauce,8,g,0,mg,710,g,38,g,16,g,4,g,0,g,3,g,0,g
+687,bertuccis italian restaurant,kids cheese pizza,24,g,0,mg,980,g,87,g,29,g,12,g,0,g,4,g,0,g
+688,bertuccis italian restaurant,kids spaghetti with meatballs,13,g,0,mg,900,g,82,g,23,g,4.5,g,0,g,5,g,0,g
+689,bertuccis italian restaurant,kids rigatoni with pasta sauce,2.5,g,0,mg,430,g,71,g,13,g,0,g,0,g,5,g,0,g
+690,bertuccis italian restaurant,kids macaroni and cheese,14,g,0,mg,710,g,78,g,11,g,8,g,0,g,3,g,0,g
+691,bertuccis italian restaurant,kids cheese ravioli with chicken and pasta sauce,13,g,0,mg,910,g,47,g,33,g,4.5,g,0,g,3,g,0,g
+692,bertuccis italian restaurant,kids crispy chicken with broccoli,21,g,0,mg,300,g,15,g,21,g,3.5,g,0,g,3,g,0,g
+693,bertuccis italian restaurant,kids rigatoni with butter,13,g,0,mg,60,g,62,g,11,g,7,g,0,g,3,g,0,g
+694,bertuccis italian restaurant,kids grilled chicken with broccoli,7,g,0,mg,180,g,5,g,28,g,4,g,0,g,3,g,0,g
+695,bertuccis italian restaurant,kids grilled chicken and rigatoni with butter,7,g,0,mg,230,g,63,g,36,g,3,g,0,g,3,g,0,g
+696,bertuccis italian restaurant,kids milk,2.5,g,0,mg,105,g,12,g,8,g,1.5,g,0,g,0,g,0,g
+697,bertuccis italian restaurant,kids chicken and rigatoni with butter,18,g,0,mg,260,g,71,g,27,g,8,g,0,g,3,g,0,g
+698,bertuccis italian restaurant,kids grilled chicken and rigatoni with pasta sauce,8,g,0,mg,610,g,71,g,38,g,3,g,0,g,5,g,0,g
+699,bertuccis italian restaurant,kids chicken and rigatoni with pasta sauce,10,g,0,mg,670,g,82,g,32,g,1,g,0,g,5,g,0,g
+700,bertuccis italian restaurant,kids focaccia,23,g,0,mg,890,g,74,g,26,g,11,g,0,g,3,g,0,g
+701,bertuccis italian restaurant,kids 4 cheese ravioli with butter,18,g,0,mg,340,g,30,g,14,g,11,g,0,g,1,g,0,g
+702,bertuccis italian restaurant,kids 4 cheese ravioli with chicken and butter,23,g,0,mg,540,g,39,g,31,g,12,g,0,g,1,g,0,g
+703,bertuccis italian restaurant,spaghetti with meatballs lunch,23,g,0,mg,1480,g,154,g,38,g,7,g,0,g,6,g,0,g
+704,bertuccis italian restaurant,four cheese ravioli lunch,19,g,0,mg,1430,g,82,g,37,g,10,g,0,g,5,g,0,g
+705,bertuccis italian restaurant,fettuccine alfredo lunch,43,g,0,mg,2550,g,88,g,34,g,25,g,0,g,5,g,0,g
+706,bertuccis italian restaurant,rigatoni abruzzi lunch,35,g,0,mg,990,g,75,g,22,g,8,g,0,g,5,g,0,g
+707,bertuccis italian restaurant,sauteed chicken piccata lunch,28,g,0,mg,1770,g,70,g,49,g,7,g,0,g,4,g,0,g
+708,bertuccis italian restaurant,chicken parma casserole lunch,29,g,0,mg,1730,g,104,g,63,g,11,g,0,g,5,g,0,g
+709,bertuccis italian restaurant,rigatone broccoli and chicken,32,g,0,mg,980,g,73,g,41,g,18,g,0,g,4,g,0,g
+710,bertuccis italian restaurant,meatball calzone,48,g,0,mg,2050,g,92,g,46,g,21,g,0,g,7,g,0,g
+711,bertuccis italian restaurant,grilled chicken marsala,72,g,0,mg,720,g,20,g,61,g,14,g,0,g,3,g,0,g
+712,bertuccis italian restaurant,shrimp scampi,70,g,0,mg,1590,g,102,g,53,g,15,g,0,g,5,g,0,g
+713,bertuccis italian restaurant,lasagna rustica,73,g,0,mg,3290,g,122,g,71,g,34,g,0,g,7,g,0,g
+714,bertuccis italian restaurant,rigatoni broccoli and chicken,25,g,0,mg,1050,g,112,g,50,g,13,g,0,g,10,g,0,g
+715,bertuccis italian restaurant,silano calzone,19,g,0,mg,1430,g,82,g,37,g,10,g,0,g,5,g,0,g
+716,bertuccis italian restaurant,chicken parma,49,g,0,mg,3020,g,126,g,95,g,20,g,0,g,7,g,0,g
+717,bertuccis italian restaurant,spaghetti with pomodoro sauce,47,g,0,mg,2830,g,196,g,69,g,18,g,0,g,13,g,0,g
+718,bertuccis italian restaurant,shrimp rossini,32,g,0,mg,1520,g,131,g,61,g,10,g,0,g,6,g,0,g
+719,bertuccis italian restaurant,baked tortellini and chicken gratinati,67,g,0,mg,4120,g,77,g,75,g,34,g,0,g,5,g,0,g
+720,bertuccis italian restaurant,maryland style crab cakes,91,g,0,mg,1650,g,56,g,35,g,11,g,0,g,5,g,0,g
+721,bertuccis italian restaurant,spaghetti with meatballs,84,g,0,mg,3740,g,198,g,86,g,35,g,0,g,11,g,0,g
+722,bertuccis italian restaurant,four cheese ravioli,29,g,0,mg,2110,g,118,g,54,g,16,g,0,g,7,g,0,g
+723,bertuccis italian restaurant,roasted eggplant pomodoro,50,g,0,mg,2540,g,113,g,40,g,15,g,0,g,15,g,0,g
+724,bertuccis italian restaurant,grilled salmon,42,g,0,mg,640,g,25,g,49,g,5,g,0,g,4,g,0,g
+725,bertuccis italian restaurant,sauteed chicken piccata,65,g,0,mg,2640,g,106,g,76,g,26,g,0,g,6,g,0,g
+726,bertuccis italian restaurant,cod puttanesca,80,g,0,mg,790,g,135,g,46,g,1.5,g,0,g,14,g,0,g
+727,bertuccis italian restaurant,rigatoni abruzzi,38,g,0,mg,1350,g,111,g,31,g,10,g,0,g,8,g,0,g
+728,bertuccis italian restaurant,chicken scampi,72,g,0,mg,1890,g,100,g,75,g,15,g,0,g,5,g,0,g
+729,bertuccis italian restaurant,tuscan vegetable calzone,44,g,0,mg,1440,g,85,g,29,g,14,g,0,g,7,g,0,g
+730,bertuccis italian restaurant,fettuccine alfredo,44,g,0,mg,2710,g,110,g,39,g,25,g,0,g,7,g,0,g
+731,bertuccis italian restaurant,jambalaya fettuccine,42,g,0,mg,1780,g,95,g,61,g,7,g,0,g,8,g,0,g
+732,bertuccis italian restaurant,brick oven margherita pizza small,11,g,0,mg,260,g,29,g,9,g,4,g,0,g,1,g,0,g
+733,bertuccis italian restaurant,brick oven margherita pizza large,11,g,0,mg,260,g,35,g,10,g,4,g,0,g,2,g,0,g
+734,bertuccis italian restaurant,brick oven bertucci pizza small,14,g,0,mg,560,g,30,g,10,g,5,g,0,g,1,g,0,g
+735,bertuccis italian restaurant,brick oven veggie pizza large,13,g,0,mg,490,g,39,g,10,g,3.5,g,0,g,3,g,0,g
+736,bertuccis italian restaurant,flatbread margherita pizza,28,g,0,mg,860,g,73,g,22,g,10,g,0,g,4,g,0,g
+737,bertuccis italian restaurant,chicken domani,62,g,0,mg,2500,g,107,g,73,g,24,g,0,g,7,g,0,g
+738,bertuccis italian restaurant,brick oven silano pizza small,13,g,0,mg,670,g,33,g,14,g,4.5,g,0,g,3,g,0,g
+739,bertuccis italian restaurant,flatbread sporkie pizza,38,g,0,mg,1180,g,75,g,29,g,15,g,0,g,3,g,0,g
+740,bertuccis italian restaurant,brick oven pucillo pizza small,15,g,0,mg,520,g,33,g,11,g,4.5,g,0,g,2,g,0,g
+741,bertuccis italian restaurant,flatbread pesto chicken pizza,42,g,0,mg,1340,g,75,g,32,g,12,g,0,g,3,g,0,g
+742,bertuccis italian restaurant,brick oven sporkie pizza small,16,g,0,mg,470,g,30,g,11,g,6,g,0,g,1,g,0,g
+743,bertuccis italian restaurant,brick oven bbq chicken pizza large,8,g,0,mg,570,g,45,g,14,g,3,g,0,g,1,g,0,g
+744,bertuccis italian restaurant,flatbread roasted eggplant pizza,26,g,0,mg,910,g,74,g,21,g,8,g,0,g,4,g,0,g
+745,bertuccis italian restaurant,brick oven spicy salami pizza large,23,g,0,mg,740,g,36,g,19,g,10,g,0,g,2,g,0,g
+746,bertuccis italian restaurant,brick oven silano pizza large,15,g,0,mg,730,g,40,g,16,g,5,g,0,g,3,g,0,g
+747,bertuccis italian restaurant,brick oven ultimate bertucci pizza small,16,g,0,mg,780,g,31,g,15,g,5,g,0,g,2,g,0,g
+748,bertuccis italian restaurant,brick oven verde pizza small,17,g,0,mg,270,g,28,g,11,g,6,g,0,g,1,g,0,g
+749,bertuccis italian restaurant,flatbread cheese pizza,24,g,0,mg,910,g,73,g,20,g,8,g,0,g,3,g,0,g
+750,bertuccis italian restaurant,brick oven ultimate bertucci pizza large,18,g,0,mg,840,g,37,g,17,g,6,g,0,g,2,g,0,g
+751,bertuccis italian restaurant,brick oven sporkie pizza large,16,g,0,mg,480,g,37,g,13,g,6,g,0,g,2,g,0,g
+752,bertuccis italian restaurant,brick oven spicy salami pizza small,14,g,0,mg,460,g,20,g,11,g,6,g,0,g,1,g,0,g
+753,bertuccis italian restaurant,brick oven pucillo pizza large,16,g,0,mg,570,g,40,g,13,g,5,g,0,g,2,g,0,g
+754,bertuccis italian restaurant,brick oven verde pizza large,17,g,0,mg,270,g,34,g,11,g,6,g,0,g,1,g,0,g
+755,bertuccis italian restaurant,brick oven bbq chicken pizza small,4.5,g,0,mg,340,g,25,g,8,g,1.5,g,0,g,1,g,0,g
+756,bertuccis italian restaurant,brick oven bertucci pizza large,15,g,0,mg,560,g,36,g,12,g,5,g,0,g,2,g,0,g
+757,bertuccis italian restaurant,brick oven balsamic bbq shrimp and blue cheese pizza small,7,g,0,mg,240,g,20,g,9,g,2.5,g,0,g,1,g,0,g
+758,bertuccis italian restaurant,brick oven balsamic bbq shrimp and blue cheese pizza large,12,g,0,mg,410,g,36,g,16,g,4.5,g,0,g,16,g,0,g
+759,bertuccis italian restaurant,crab cake,28,g,0,mg,750,g,15,g,15,g,4,g,0,g,1,g,0,g
+760,bertuccis italian restaurant,grilled salmon add on,15,g,0,mg,400,g,0,g,27,g,3,g,0,g,0,g,0,g
+761,bertuccis italian restaurant,grilled shrimp,4.5,g,0,mg,230,g,1,g,19,g,0,g,0,g,0,g,0,g
+762,bertuccis italian restaurant,grilled chicken,7,g,0,mg,350,g,1,g,25,g,0.5,g,0,g,0,g,0,g
+763,bertuccis italian restaurant,italian dressing,12,g,0,mg,200,g,1,g,0,g,2,g,0,g,0,g,0,g
+764,bertuccis italian restaurant,caesar dressing,12,g,0,mg,388,g,1,g,1,g,2,g,0,g,0,g,0,g
+765,bertuccis italian restaurant,lemon thyme vinaigrette,18,g,0,mg,135,g,1,g,0,g,13,g,0,g,0,g,0,g
+766,bertuccis italian restaurant,lemon dressing,18,g,0,mg,135,g,1,g,0,g,13,g,0,g,0,g,0,g
+767,bertuccis italian restaurant,balsamic vinaigrette,13,g,0,mg,230,g,2,g,0,g,2,g,0,g,0,g,0,g
+768,bertuccis italian restaurant,blue cheese dressing,14,g,0,mg,230,g,1,g,1,g,3,g,0,g,0,g,0,g
+769,bertuccis italian restaurant,lite burgundy dressing,0,g,0,mg,280,g,2,g,0,g,0,g,0,g,0,g,0,g
+770,bertuccis italian restaurant,farmhouse salad,37,g,0,mg,630,g,25,g,20,g,15,g,0,g,7,g,0,g
+771,bertuccis italian restaurant,grilled chicken caesar salad,55,g,0,mg,920,g,34,g,43,g,12,g,0,g,5,g,0,g
+772,bertuccis italian restaurant,chopped salad,26,g,0,mg,860,g,7,g,4,g,6,g,0,g,2,g,0,g
+773,bertuccis italian restaurant,grilled chicken cobb salad,59,g,0,mg,1810,g,17,g,39,g,12,g,0,g,7,g,0,g
+774,bertuccis italian restaurant,spinach goat cheese and candied walnuts salad,51,g,0,mg,960,g,24,g,9,g,12,g,0,g,6,g,0,g
+775,bertuccis italian restaurant,grilled chicken chopped salad,52,g,0,mg,1710,g,12,g,8,g,13,g,0,g,3,g,0,g
+776,bertuccis italian restaurant,insalata without dressing,6,g,0,mg,320,g,21,g,7,g,2.5,g,0,g,5,g,0,g
+777,bertuccis italian restaurant,spinach goat cheese candied walnuts and shrimp salad,36,g,0,mg,680,g,59,g,16,g,9,g,0,g,14,g,0,g
+778,bertuccis italian restaurant,caesar salad,40,g,0,mg,500,g,33,g,18,g,10,g,0,g,5,g,0,g
+779,bertuccis italian restaurant,chicken milanese focaccia sandwich,20,g,0,mg,930,g,89,g,32,g,4,g,0,g,4,g,0,g
+780,bertuccis italian restaurant,meatball focaccia sandwich,39,g,0,mg,2300,g,97,g,44,g,17,g,0,g,7,g,0,g
+781,bertuccis italian restaurant,grilled rosemary chicken focaccia sandwich,35,g,0,mg,580,g,72,g,37,g,4.5,g,0,g,4,g,0,g
+782,bertuccis italian restaurant,delicato focaccia sandwich,62,g,0,mg,2530,g,84,g,43,g,21,g,0,g,5,g,0,g
+783,bertuccis italian restaurant,grilled portobello focaccia sandwich,40,g,0,mg,290,g,70,g,14,g,8,g,0,g,4,g,0,g
+784,bertuccis italian restaurant,grilled sausage and pepper focaccia sandwich,45,g,0,mg,1560,g,85,g,31,g,13,g,0,g,5,g,0,g
+785,bertuccis italian restaurant,flavored oil,19,g,0,mg,55,g,1,g,1,g,3,g,0,g,0,g,0,g
+786,bertuccis italian restaurant,pomodoro sauce,0,g,0,mg,95,g,2,g,0,g,0,g,0,g,0,g,0,g
+787,bertuccis italian restaurant,piccata sauce,1.5,g,0,mg,70,g,1,g,0,g,0,g,0,g,0,g,0,g
+788,bertuccis italian restaurant,white wine sauce,0,g,0,mg,85,g,0,g,0,g,0,g,0,g,0,g,0,g
+789,bertuccis italian restaurant,tomato sauce with oil,3.5,g,0,mg,180,g,2,g,0,g,0,g,0,g,0,g,0,g
+790,bertuccis italian restaurant,lemon pepper cream sauce,3,g,0,mg,180,g,2,g,1,g,2,g,0,g,0,g,0,g
+791,bertuccis italian restaurant,marsala sauce,0,g,0,mg,65,g,1,g,1,g,0,g,0,g,0,g,0,g
+792,bertuccis italian restaurant,cheese sauce,2,g,0,mg,610,g,15,g,0,g,1,g,0,g,0,g,0,g
+793,bertuccis italian restaurant,balsamic nectar,0,g,0,mg,10,g,14,g,0,g,0,g,0,g,0,g,0,g
+794,bertuccis italian restaurant,roasted tomato sauce,2,g,0,mg,80,g,2,g,0,g,0,g,0,g,0,g,0,g
+795,bertuccis italian restaurant,balsamic marinade,6,g,0,mg,250,g,1,g,0,g,1,g,0,g,0,g,0,g
+796,bertuccis italian restaurant,dinner roll,1.5,g,0,mg,40,g,28,g,4,g,0,g,0,g,1,g,0,g
+797,bertuccis italian restaurant,caesar salad side,19,g,0,mg,170,g,16,g,7,g,4,g,0,g,2,g,0,g
+798,bertuccis italian restaurant,roasted meatballs with house made pomodoro,22,g,0,mg,1280,g,17,g,21,g,9,g,0,g,3,g,0,g
+799,bertuccis italian restaurant,roasted rosemary potatoes,32,g,0,mg,45,g,64,g,8,g,0,g,0,g,6,g,0,g
+800,bertuccis italian restaurant,insalata side without dressing,3,g,0,mg,180,g,12,g,4,g,1.5,g,0,g,3,g,0,g
+801,bertuccis italian restaurant,roasted green beans,7,g,0,mg,5,g,3,g,1,g,0,g,0,g,1,g,0,g
+802,bertuccis italian restaurant,sausage soup bowl,12,g,0,mg,1220,g,20,g,9,g,4.5,g,0,g,1,g,0,g
+803,bertuccis italian restaurant,tuscan minestrone soup bowl,6,g,0,mg,1330,g,28,g,12,g,3,g,0,g,3,g,0,g
+804,bertuccis italian restaurant,soup and caesar salad with dressing,28,g,0,mg,1420,g,32,g,15,g,8,g,0,g,3,g,0,g
+805,bertuccis italian restaurant,tuscan minestrone soup cup,2.5,g,0,mg,640,g,14,g,6,g,1.5,g,0,g,2,g,0,g
+806,bertuccis italian restaurant,soup and insalata with dressing,20,g,0,mg,1690,g,41,g,16,g,6,g,0,g,6,g,0,g
+807,bertuccis italian restaurant,sausage soup cup,6,g,0,mg,610,g,10,g,4,g,2.5,g,0,g,1,g,0,g
+808,bertuccis italian restaurant,antipasto,0,g,115,mg,4230,g,80,g,45,g,22,g,0,g,9,g,12,g
+809,bertuccis italian restaurant,bertucci pizza slice large,0,g,30,mg,790,g,35,g,12,g,6,g,0,g,2,g,3,g
+810,bertuccis italian restaurant,bertucci pizza slice small,0,g,20,mg,450,g,20,g,7,g,3.5,g,0,g,1,g,2,g
+811,bertuccis italian restaurant,bertuccis sampler,0,g,225,mg,4340,g,82,g,71,g,23,g,1.5,g,12,g,24,g
+812,bertuccis italian restaurant,brick oven spinach and artichoke dip,0,g,80,mg,2370,g,88,g,31,g,18,g,0.5,g,6,g,13,g
+813,bertuccis italian restaurant,broccoli and chicken rigatoni with cream sauce dinner,0,g,195,mg,2640,g,116,g,62,g,27,g,1.5,g,10,g,8,g
+814,bertuccis italian restaurant,bruschetta and burrata pizza slice large,0,g,20,mg,520,g,37,g,13,g,7,g,0,g,1,g,3,g
+815,bertuccis italian restaurant,bruschetta and burrata pizza slice small,0,g,15,mg,210,g,20,g,9,g,6,g,0,g,1,g,2,g
+816,bertuccis italian restaurant,cappuccino,0,g,10,mg,70,g,7,g,4,g,1.5,g,0,g,0,g,6,g
+817,bertuccis italian restaurant,cauliflower crust small only,0,g,5,mg,45,g,7,g,1,g,0,g,0,g,0,g,0,g
+818,bertuccis italian restaurant,cheese base pizza pizza slice large,0,g,20,mg,620,g,35,g,10,g,4,g,0,g,2,g,3,g
+819,bertuccis italian restaurant,cheese base pizza pizza slice small,0,g,10,mg,360,g,20,g,6,g,2.5,g,0,g,1,g,2,g
+820,bertuccis italian restaurant,chocolate chip cookie sundae,0,g,110,mg,560,g,106,g,9,g,18,g,0.5,g,4,g,71,g
+821,bertuccis italian restaurant,classic bruschetta with burrata,0,g,0,mg,1540,g,73,g,11,g,2.5,g,0,g,4,g,18,g
+822,bertuccis italian restaurant,classic margherita pizza slice large,0,g,15,mg,530,g,36,g,12,g,4.5,g,0,g,2,g,3,g
+823,bertuccis italian restaurant,classic margherita pizza slice small,0,g,10,mg,320,g,20,g,7,g,3,g,0,g,1,g,2,g
+824,bertuccis italian restaurant,classic soups creamy tomato bowl,0,g,105,mg,2550,g,14,g,12,g,18,g,0,g,0,g,9,g
+825,bertuccis italian restaurant,classic soups creamy tomato cup,0,g,50,mg,1270,g,7,g,6,g,9,g,0,g,0,g,5,g
+826,bertuccis italian restaurant,classic soups italian sausage bowl,0,g,55,mg,1570,g,41,g,15,g,6,g,0,g,1,g,2,g
+827,bertuccis italian restaurant,classic soups italian sausage cup,0,g,25,mg,790,g,20,g,7,g,3,g,0,g,1,g,1,g
+828,bertuccis italian restaurant,classic soups lentil bowl,0,g,0,mg,840,g,24,g,7,g,2,g,0,g,7,g,5,g
+829,bertuccis italian restaurant,classic soups lentil cup,0,g,0,mg,420,g,12,g,3,g,1,g,0,g,4,g,2,g
+830,bertuccis italian restaurant,craft your own calzone base only,0,g,65,mg,2090,g,93,g,33,g,12,g,0.5,g,5,g,23,g
+831,bertuccis italian restaurant,entree baked chicken gratinati,0,g,310,mg,3590,g,144,g,85,g,32,g,1.5,g,9,g,16,g
+832,bertuccis italian restaurant,entree chicken parma,0,g,195,mg,3170,g,105,g,78,g,20,g,1,g,10,g,14,g
+833,bertuccis italian restaurant,entree chicken piccata,0,g,265,mg,2350,g,80,g,64,g,33,g,1.5,g,5,g,4,g
+834,bertuccis italian restaurant,entree grilled chicken marsala,0,g,145,mg,2150,g,51,g,61,g,8,g,0,g,8,g,8,g
+835,bertuccis italian restaurant,entree grilled salmon,0,g,130,mg,1380,g,37,g,49,g,12,g,0,g,5,g,3,g
+836,bertuccis italian restaurant,entree grilled shrimp rissoto formaggi,0,g,365,mg,2450,g,170,g,53,g,26,g,0.5,g,0,g,2,g
+837,bertuccis italian restaurant,entree mushroom and prosciutto risotto,0,g,350,mg,3180,g,174,g,42,g,40,g,0.5,g,4,g,12,g
+838,bertuccis italian restaurant,entree roasted eggplant pomodoro,0,g,5,mg,2110,g,44,g,9,g,8,g,0,g,13,g,19,g
+839,bertuccis italian restaurant,espresso double,0,g,0,mg,15,g,2,g,0,g,0,g,0,g,0,g,0,g
+840,bertuccis italian restaurant,espresso single,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+841,bertuccis italian restaurant,famous fresh baked rolls,0,g,0,mg,290,g,29,g,4,g,1.5,g,0,g,1,g,1,g
+842,bertuccis italian restaurant,fettuccine alfredo,0,g,220,mg,2300,g,98,g,28,g,33,g,2,g,6,g,9,g
+843,bertuccis italian restaurant,fettuccine alfredo with grilled chicken,0,g,290,mg,2670,g,99,g,54,g,35,g,2,g,6,g,9,g
+844,bertuccis italian restaurant,fettuccine alfredo with shrimp,0,g,440,mg,2810,g,98,g,60,g,33,g,2,g,6,g,9,g
+845,bertuccis italian restaurant,fig and prosciutto pizza slice large,0,g,70,mg,760,g,43,g,12,g,12,g,0,g,10,g,11,g
+846,bertuccis italian restaurant,fig and prosciutto pizza slice small,0,g,0,mg,460,g,24,g,7,g,13,g,8,g,0,g,7,g
+847,bertuccis italian restaurant,fire roasted tuscan vegetables,0,g,5,mg,1420,g,25,g,5,g,6,g,0,g,8,g,9,g
+848,bertuccis italian restaurant,five layer chocolate cake,0,g,90,mg,560,g,81,g,10,g,22,g,0,g,4,g,53,g
+849,bertuccis italian restaurant,four cheese ravioli with meat sauce,0,g,235,mg,2670,g,87,g,49,g,25,g,1.5,g,7,g,11,g
+850,bertuccis italian restaurant,four cheese ravioli with pomodoro,0,g,185,mg,2500,g,89,g,40,g,19,g,1.5,g,8,g,15,g
+851,bertuccis italian restaurant,fresh entree salads caesar salad,0,g,30,mg,1280,g,28,g,14,g,10,g,0,g,5,g,5,g
+852,bertuccis italian restaurant,fresh entree salads farmhouse salad,0,g,60,mg,1100,g,45,g,26,g,13,g,0,g,8,g,30,g
+853,bertuccis italian restaurant,fresh entree salads insalata,0,g,5,mg,180,g,10,g,4,g,1.5,g,0,g,3,g,5,g
+854,bertuccis italian restaurant,garlic knots with pomodoro,0,g,50,mg,770,g,89,g,14,g,16,g,1,g,3,g,3,g
+855,bertuccis italian restaurant,grilled chicken tuscan wings 12 pieces,0,g,315,mg,2020,g,42,g,69,g,14,g,0,g,3,g,4,g
+856,bertuccis italian restaurant,grilled chicken tuscan wings 8 pieces,0,g,210,mg,1330,g,28,g,46,g,9,g,0,g,2,g,3,g
+857,bertuccis italian restaurant,hot chocolate,0,g,0,mg,180,g,16,g,0,g,1.5,g,0,g,1,g,13,g
+858,bertuccis italian restaurant,kids barqs root beer,0,g,0,mg,0,g,45,g,30,g,0,g,0,g,30,g,0,g
+859,bertuccis italian restaurant,kids cheese pizza,0,g,70,mg,1550,g,76,g,28,g,12,g,0.5,g,4,g,7,g
+860,bertuccis italian restaurant,kids cheese ravioli butter,0,g,90,mg,1390,g,79,g,16,g,11,g,0,g,4,g,4,g
+861,bertuccis italian restaurant,kids cheese ravioli pomodoro sauce,0,g,60,mg,1890,g,87,g,18,g,4.5,g,0,g,6,g,9,g
+862,bertuccis italian restaurant,kids cheese ravioli with chicken butter,0,g,140,mg,1810,g,87,g,35,g,14,g,0.5,g,4,g,4,g
+863,bertuccis italian restaurant,kids cheese ravioli with chicken pomodoro sauce,0,g,110,mg,2310,g,95,g,36,g,8,g,0,g,6,g,9,g
+864,bertuccis italian restaurant,kids cheese tortellini butter,0,g,100,mg,1650,g,65,g,31,g,9,g,0,g,0,g,4,g
+865,bertuccis italian restaurant,kids cheese tortellini pomodoro sauce,0,g,130,mg,1470,g,62,g,30,g,16,g,0,g,0,g,2,g
+866,bertuccis italian restaurant,kids chicken and salad,0,g,75,mg,330,g,3,g,27,g,3.5,g,0,g,2,g,1,g
+867,bertuccis italian restaurant,kids chicken rigatoni butter,0,g,85,mg,570,g,43,g,25,g,11,g,0.5,g,2,g,1,g
+868,bertuccis italian restaurant,kids chicken rigatoni pomodoro sauce,0,g,50,mg,1070,g,50,g,27,g,4,g,0,g,4,g,6,g
+869,bertuccis italian restaurant,kids chicken with broccoli,0,g,65,mg,260,g,3,g,24,g,3,g,0,g,1,g,0,g
+870,bertuccis italian restaurant,kids chocolate chip cookie sundae,0,g,50,mg,330,g,73,g,6,g,12,g,0,g,2,g,48,g
+871,bertuccis italian restaurant,kids chocolate shake,0,g,60,mg,120,g,63,g,7,g,14,g,0,g,1,g,58,g
+872,bertuccis italian restaurant,kids crispy bites with broccoli,0,g,50,mg,1000,g,26,g,20,g,3.5,g,0,g,1,g,13,g
+873,bertuccis italian restaurant,kids crispy chicken bites with seasonal fruit apple slices,0,g,50,mg,900,g,31,g,19,g,3.5,g,0,g,2,g,17,g
+874,bertuccis italian restaurant,kids crispy chicken bites with seasonal fruit strawberries,0,g,50,mg,900,g,26,g,19,g,3.5,g,0,g,1,g,14,g
+875,bertuccis italian restaurant,kids hoodsie ice cream cup,0,g,20,mg,35,g,12,g,2,g,3.5,g,0,g,0,g,9,g
+876,bertuccis italian restaurant,kids macaroni and cheese,0,g,60,mg,1410,g,62,g,17,g,14,g,0,g,3,g,1,g
+877,bertuccis italian restaurant,kids macaroni and cheese whole wheat,0,g,85,mg,1320,g,36,g,12,g,14,g,0,g,1,g,1,g
+878,bertuccis italian restaurant,kids minute maid light lemonade,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,1,g,0,g
+879,bertuccis italian restaurant,kids pasta butter,0,g,30,mg,220,g,52,g,10,g,7,g,0,g,3,g,1,g
+880,bertuccis italian restaurant,kids pasta pomodoro sauce,0,g,0,mg,730,g,60,g,12,g,0.5,g,0,g,5,g,6,g
+881,bertuccis italian restaurant,kids pasta with chicken whole wheat butter,0,g,105,mg,570,g,38,g,25,g,11,g,0.5,g,1,g,1,g
+882,bertuccis italian restaurant,kids pasta with chicken whole wheat pomodoro sauce,0,g,75,mg,1070,g,46,g,27,g,4,g,0,g,3,g,6,g
+883,bertuccis italian restaurant,kids pasta whole wheat butter,0,g,55,mg,150,g,30,g,6,g,7,g,0,g,1,g,1,g
+884,bertuccis italian restaurant,kids pasta whole wheat pomodoro sauce,0,g,25,mg,650,g,38,g,8,g,0.5,g,0,g,3,g,6,g
+885,bertuccis italian restaurant,kids pepperoni pizza,0,g,80,mg,1780,g,77,g,30,g,14,g,1,g,4,g,7,g
+886,bertuccis italian restaurant,kids raspberry nestea,0,g,0,mg,0,g,0,g,23,g,0,g,0,g,23,g,0,g
+887,bertuccis italian restaurant,kids strawberry shake,0,g,60,mg,100,g,59,g,6,g,14,g,0,g,0,g,59,g
+888,bertuccis italian restaurant,large pizza topping basil pesto,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+889,bertuccis italian restaurant,large pizza topping bell peppers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+890,bertuccis italian restaurant,large pizza topping broccoli,0,g,0,mg,190,g,4,g,1,g,0,g,0,g,2,g,1,g
+891,bertuccis italian restaurant,large pizza topping caramelized onions,0,g,0,mg,30,g,2,g,0,g,0,g,0,g,0,g,1,g
+892,bertuccis italian restaurant,large pizza topping chicken,0,g,20,mg,100,g,0,g,6,g,0,g,0,g,0,g,0,g
+893,bertuccis italian restaurant,large pizza topping chopped cherry peppers,0,g,0,mg,25,g,1,g,0,g,0,g,0,g,0,g,0,g
+894,bertuccis italian restaurant,large pizza topping fresh mozzarella,0,g,0,mg,230,g,0,g,1,g,0,g,0,g,0,g,0,g
+895,bertuccis italian restaurant,large pizza topping gorgonzola,0,g,15,mg,140,g,0,g,24,g,3,g,1,g,0,g,0,g
+896,bertuccis italian restaurant,large pizza topping meatballs,0,g,10,mg,135,g,1,g,4,g,1,g,0,g,0,g,0,g
+897,bertuccis italian restaurant,large pizza topping onions,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+898,bertuccis italian restaurant,large pizza topping pepperoni,0,g,5,mg,95,g,0,g,1,g,1,g,0,g,0,g,0,g
+899,bertuccis italian restaurant,large pizza topping prosciutto,0,g,10,mg,240,g,0,g,2,g,0.5,g,0,g,0,g,0,g
+900,bertuccis italian restaurant,large pizza topping ricotta,0,g,25,mg,550,g,15,g,10,g,3.5,g,0,g,0,g,15,g
+901,bertuccis italian restaurant,large pizza topping roasted artichokes,0,g,0,mg,95,g,1,g,0,g,0,g,0,g,1,g,0,g
+902,bertuccis italian restaurant,large pizza topping roasted bell peppers,0,g,0,mg,85,g,2,g,0,g,0,g,0,g,0,g,1,g
+903,bertuccis italian restaurant,large pizza topping roasted black olives,0,g,0,mg,170,g,1,g,1,g,0,g,0,g,1,g,0,g
+904,bertuccis italian restaurant,large pizza topping roasted eggplant,0,g,0,mg,180,g,6,g,1,g,1.5,g,0,g,2,g,2,g
+905,bertuccis italian restaurant,large pizza topping roasted garlic,0,g,0,mg,60,g,3,g,1,g,0,g,0,g,0,g,0,g
+906,bertuccis italian restaurant,large pizza topping roasted zucchini,0,g,0,mg,70,g,1,g,0,g,0,g,0,g,0,g,0,g
+907,bertuccis italian restaurant,large pizza topping spinach,0,g,0,mg,15,g,1,g,1,g,0,g,0,g,0,g,0,g
+908,bertuccis italian restaurant,large pizza topping sweet italian sausage,0,g,10,mg,100,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+909,bertuccis italian restaurant,lasagna rustica,0,g,240,mg,3380,g,111,g,68,g,27,g,1,g,8,g,38,g
+910,bertuccis italian restaurant,limoncello mascarpone cake,0,g,200,mg,95,g,72,g,7,g,7,g,0,g,1,g,41,g
+911,bertuccis italian restaurant,lunch caesar salad,0,g,15,mg,790,g,16,g,6,g,5,g,0,g,4,g,3,g
+912,bertuccis italian restaurant,lunch cheese flatbread pizza,0,g,5,mg,210,g,12,g,4,g,1.5,g,0,g,1,g,1,g
+913,bertuccis italian restaurant,lunch chicken milanese sandwich,0,g,45,mg,1160,g,65,g,26,g,4,g,0,g,3,g,5,g
+914,bertuccis italian restaurant,lunch chicken parma,0,g,120,mg,2250,g,91,g,54,g,13,g,0.5,g,8,g,11,g
+915,bertuccis italian restaurant,lunch chicken parma sandwich,0,g,70,mg,1650,g,71,g,33,g,9,g,0,g,5,g,8,g
+916,bertuccis italian restaurant,lunch chicken piccata,0,g,175,mg,1700,g,68,g,45,g,20,g,1,g,4,g,3,g
+917,bertuccis italian restaurant,lunch delicato italian sandwich,0,g,120,mg,2250,g,91,g,54,g,22,g,0.5,g,8,g,11,g
+918,bertuccis italian restaurant,lunch farmhouse salad,0,g,30,mg,550,g,23,g,13,g,6,g,0,g,4,g,15,g
+919,bertuccis italian restaurant,lunch fettuccine alfredo,0,g,180,mg,1720,g,74,g,21,g,29,g,1.5,g,5,g,6,g
+920,bertuccis italian restaurant,lunch four cheese ravioli,0,g,125,mg,1740,g,63,g,27,g,13,g,1,g,6,g,11,g
+921,bertuccis italian restaurant,lunch four cheese ravioli with meat sauce,0,g,165,mg,1870,g,62,g,35,g,17,g,1,g,5,g,8,g
+922,bertuccis italian restaurant,lunch grilled marengo chicken sandwich,0,g,100,mg,1800,g,80,g,40,g,9,g,0,g,5,g,10,g
+923,bertuccis italian restaurant,lunch insalata,0,g,0,mg,100,g,5,g,2,g,0.5,g,0,g,2,g,3,g
+924,bertuccis italian restaurant,lunch margherita flatbread pizza,0,g,5,mg,180,g,13,g,4,g,1.5,g,0,g,1,g,1,g
+925,bertuccis italian restaurant,lunch meatball sandwich,0,g,85,mg,1860,g,66,g,35,g,12,g,0.5,g,4,g,8,g
+926,bertuccis italian restaurant,lunch pepperoni flatbread pizza,0,g,60,mg,1500,g,78,g,24,g,12,g,0,g,6,g,6,g
+927,bertuccis italian restaurant,lunch rigatoni abruzzi,0,g,40,mg,1820,g,71,g,22,g,9,g,0,g,8,g,11,g
+928,bertuccis italian restaurant,lunch rigatoni broccoli and grilled chicken,0,g,160,mg,1670,g,65,g,43,g,21,g,1,g,5,g,6,g
+929,bertuccis italian restaurant,lunch roasted chicken and broccoli silano flatbread pizza,0,g,75,mg,1380,g,79,g,33,g,27,g,12,g,3,g,5,g
+930,bertuccis italian restaurant,lunch roasted vegetables flatbread pizza,0,g,30,mg,1760,g,83,g,22,g,10,g,0,g,4,g,10,g
+931,bertuccis italian restaurant,lunch salad additions from the grill grilled chicken,0,g,95,mg,500,g,1,g,35,g,2,g,0,g,0,g,0,g
+932,bertuccis italian restaurant,lunch salad additions from the grill grilled salmon,0,g,130,mg,600,g,0,g,44,g,7,g,0,g,0,g,0,g
+933,bertuccis italian restaurant,lunch salad additions from the grill grilled shrimp 6 pieces,0,g,0,mg,75,g,0,g,0,g,14,g,1.5,g,0,g,0,g
+934,bertuccis italian restaurant,lunch spaghetti and meat sauce,0,g,40,mg,1160,g,67,g,21,g,5,g,0,g,6,g,5,g
+935,bertuccis italian restaurant,lunch spaghetti and meatballs,0,g,50,mg,2370,g,86,g,33,g,6,g,0,g,10,g,17,g
+936,bertuccis italian restaurant,lunch spaghetti and pomodoro,0,g,5,mg,580,g,79,g,16,g,1.5,g,0,g,0,g,9,g
+937,bertuccis italian restaurant,lunch sporkie flatbread pizza,0,g,15,mg,330,g,15,g,6,g,2.5,g,0,g,1,g,3,g
+938,bertuccis italian restaurant,lunch tuscan vegetables with grilled chicken,0,g,75,mg,1790,g,26,g,31,g,7,g,0,g,9,g,9,g
+939,bertuccis italian restaurant,meatballs 5,0,g,125,mg,4170,g,56,g,52,g,13,g,1,g,12,g,29,g
+940,bertuccis italian restaurant,meatballs 8,0,g,200,mg,6180,g,83,g,81,g,21,g,1.5,g,17,g,42,g
+941,bertuccis italian restaurant,meatballs calzone,0,g,115,mg,2760,g,101,g,50,g,17,g,1,g,6,g,25,g
+942,bertuccis italian restaurant,mochachino,0,g,25,mg,135,g,28,g,7,g,2.5,g,0,g,1,g,20,g
+943,bertuccis italian restaurant,mozzarella fritta,0,g,65,mg,2060,g,54,g,25,g,15,g,1,g,6,g,10,g
+944,bertuccis italian restaurant,pan sauteed mussels with red wine sauce,0,g,250,mg,2490,g,49,g,112,g,10,g,0,g,3,g,26,g
+945,bertuccis italian restaurant,pan sauteed mussels with white wine sauce,0,g,290,mg,1930,g,39,g,110,g,19,g,0.5,g,0,g,19,g
+946,bertuccis italian restaurant,profiteroles,0,g,100,mg,65,g,48,g,3,g,29,g,0,g,0,g,34,g
+947,bertuccis italian restaurant,profiteroles and tiramisu,0,g,165,mg,100,g,38,g,7,g,39,g,0,g,1,g,54,g
+948,bertuccis italian restaurant,pucillo pizza slice large,0,g,30,mg,770,g,37,g,13,g,6,g,0,g,2,g,4,g
+949,bertuccis italian restaurant,pucillo pizza slice small,0,g,15,mg,440,g,21,g,7,g,3,g,0,g,1,g,3,g
+950,bertuccis italian restaurant,rigatoni abruzzi,0,g,75,mg,2750,g,105,g,37,g,14,g,0,g,12,g,16,g
+951,bertuccis italian restaurant,roasted chicken and broccoli silano pizza slice large,0,g,40,mg,850,g,37,g,17,g,5,g,0,g,2,g,3,g
+952,bertuccis italian restaurant,roasted chicken and broccoli silano pizza slice small,0,g,25,mg,480,g,21,g,10,g,2.5,g,0,g,1,g,2,g
+953,bertuccis italian restaurant,roasted vegetables calzone,0,g,50,mg,2860,g,105,g,34,g,16,g,0,g,9,g,27,g
+954,bertuccis italian restaurant,roasted vegetables pizza slice large,0,g,10,mg,820,g,41,g,10,g,4,g,0,g,2,g,5,g
+955,bertuccis italian restaurant,roasted vegetables pizza slice small,0,g,10,mg,520,g,23,g,7,g,3,g,0,g,1,g,3,g
+956,bertuccis italian restaurant,salad additions from the grill grilled chicken,0,g,95,mg,500,g,1,g,35,g,2,g,0,g,0,g,0,g
+957,bertuccis italian restaurant,salad additions from the grill grilled salmon,0,g,130,mg,600,g,0,g,44,g,7,g,0,g,0,g,0,g
+958,bertuccis italian restaurant,salad additions from the grill grilled shrimp 8 pieces,0,g,110,mg,780,g,0,g,17,g,1.5,g,0,g,0,g,0,g
+959,bertuccis italian restaurant,shrimp rossini,0,g,255,mg,1920,g,83,g,51,g,8,g,0,g,7,g,9,g
+960,bertuccis italian restaurant,shrimp scampi,0,g,280,mg,2520,g,78,g,51,g,19,g,0.5,g,6,g,4,g
+961,bertuccis italian restaurant,side meatballs 3,0,g,75,mg,2420,g,32,g,31,g,8,g,0.5,g,7,g,17,g
+962,bertuccis italian restaurant,side oven roasted broccoli,0,g,0,mg,310,g,6,g,2,g,1,g,0,g,2,g,1,g
+963,bertuccis italian restaurant,side rosemary roasted potatoes,0,g,0,mg,720,g,52,g,6,g,3.5,g,0,g,6,g,4,g
+964,bertuccis italian restaurant,side sauteed spinach,0,g,0,mg,290,g,3,g,1,g,3,g,0,g,1,g,0,g
+965,bertuccis italian restaurant,small pizza topping basil pesto,0,g,5,mg,0,g,1,g,1,g,1,g,0,g,0,g,0,g
+966,bertuccis italian restaurant,small pizza topping broccoli,0,g,0,mg,130,g,2,g,1,g,0,g,0,g,1,g,0,g
+967,bertuccis italian restaurant,small pizza topping caramelized onions,0,g,0,mg,20,g,1,g,0,g,0,g,0,g,0,g,1,g
+968,bertuccis italian restaurant,small pizza topping chicken,0,g,10,mg,65,g,0,g,4,g,0,g,0,g,0,g,0,g
+969,bertuccis italian restaurant,small pizza topping chopped cherry peppers,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+970,bertuccis italian restaurant,small pizza topping diced plum tomatoes,0,g,0,mg,105,g,1,g,0,g,0,g,0,g,0,g,0,g
+971,bertuccis italian restaurant,small pizza topping fresh mozzarella,0,g,5,mg,60,g,0,g,1,g,1,g,0,g,0,g,0,g
+972,bertuccis italian restaurant,small pizza topping gorgonzola,0,g,10,mg,90,g,1,g,3,g,0.5,g,0,g,0,g,0,g
+973,bertuccis italian restaurant,small pizza topping meatballs,0,g,10,mg,90,g,1,g,3,g,0.5,g,0,g,0,g,0,g
+974,bertuccis italian restaurant,small pizza topping onions,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+975,bertuccis italian restaurant,small pizza topping pepperoni,0,g,5,mg,65,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+976,bertuccis italian restaurant,small pizza topping prosciutto,0,g,5,mg,50,g,0,g,2,g,0,g,0,g,0,g,0,g
+977,bertuccis italian restaurant,small pizza topping ricotta,0,g,10,mg,180,g,5,g,3,g,1,g,0,g,0,g,5,g
+978,bertuccis italian restaurant,small pizza topping roasted artichokes,0,g,0,mg,65,g,1,g,0,g,0,g,0,g,0,g,0,g
+979,bertuccis italian restaurant,small pizza topping roasted bell peppers,0,g,0,mg,55,g,1,g,0,g,0,g,0,g,0,g,0,g
+980,bertuccis italian restaurant,small pizza topping roasted black olives,0,g,0,mg,115,g,1,g,0,g,0,g,0,g,0,g,0,g
+981,bertuccis italian restaurant,small pizza topping roasted eggplant,0,g,0,mg,120,g,4,g,0,g,1,g,0,g,1,g,1,g
+982,bertuccis italian restaurant,small pizza topping roasted garlic,0,g,0,mg,40,g,2,g,0,g,0,g,0,g,0,g,0,g
+983,bertuccis italian restaurant,small pizza topping roasted zucchini,0,g,0,mg,45,g,1,g,0,g,0,g,0,g,0,g,0,g
+984,bertuccis italian restaurant,small pizza topping spinach,0,g,0,mg,25,g,1,g,0,g,0,g,0,g,0,g,1,g
+985,bertuccis italian restaurant,small pizza topping sweet italian sausage,0,g,5,mg,65,g,0,g,1,g,1,g,0,g,0,g,0,g
+986,bertuccis italian restaurant,spaghetti and meat sauce,0,g,55,mg,1800,g,144,g,38,g,8,g,0,g,11,g,8,g
+987,bertuccis italian restaurant,spaghetti and meatballs,0,g,100,mg,4300,g,181,g,68,g,12,g,0.5,g,19,g,30,g
+988,bertuccis italian restaurant,spaghetti pomodoro,0,g,0,mg,1620,g,145,g,29,g,2,g,0,g,12,g,12,g
+989,bertuccis italian restaurant,sporkie pizza slice large,0,g,40,mg,1000,g,43,g,18,g,7,g,0,g,2,g,10,g
+990,bertuccis italian restaurant,sporkie pizza slice small,0,g,20,mg,550,g,24,g,10,g,3.5,g,0,g,1,g,7,g
+991,bertuccis italian restaurant,tiramisu,0,g,110,mg,60,g,26,g,3,g,9,g,0,g,0,g,17,g
+992,bertuccis italian restaurant,traditional cannoli,0,g,30,mg,710,g,63,g,16,g,7,g,0,g,2,g,49,g
+993,bfree,sesame and chia crispbread,3.5,g,0,mg,105,g,7,g,2,g,0.5,g,0,g,2,g,0,g
+994,bfree,plain bagel,2,g,0,mg,390,g,40,g,0,g,0,g,0,g,7,g,3,g
+995,bfree,multiseed bagel,2,g,0,mg,430,g,41,g,3,g,0,g,0,g,5,g,2,g
+996,bfree,soft white rolls,1,g,0,mg,220,g,19,g,5,g,0,g,0,g,5,g,0,g
+997,bfree,white demi baguettes,2,g,0,mg,450,g,57,g,5,g,0.5,g,0,g,7,g,4,g
+998,bfree,brown seeded rolls,5,g,0,mg,220,g,19,g,6,g,0.5,g,0,g,6,g,0,g
+999,bfree,multigrain wrap,1.5,g,0,mg,200,g,16,g,2,g,0,g,0,g,6,g,0,g

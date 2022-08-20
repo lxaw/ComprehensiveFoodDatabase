@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,pizza nova,side order of anchovies,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+1,pizza nova,side order of bruschetta,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+2,pizza nova,side order of meatballs,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+3,pizza nova,side order of tomato sauce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+4,pizza nova,side parmigiano cheese,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+5,pizza nova,small pizza anchovies,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+6,pizza nova,small pizza artichokes,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+7,pizza nova,small pizza asiago cheese,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+8,pizza nova,small pizza bacon,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+9,pizza nova,small pizza bbq,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+10,pizza nova,small pizza bbq sauce easy,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+11,pizza nova,small pizza bbq sauce extra,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+12,pizza nova,small pizza black olives,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+13,pizza nova,small pizza broccoli,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+14,pizza nova,small pizza bruschetta,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+15,pizza nova,small pizza cheddar cheese,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+16,pizza nova,small pizza cheese double,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+17,pizza nova,small pizza cheese extra,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+18,pizza nova,small pizza dairy free mozzarella,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+19,pizza nova,small pizza dairy free mozzarella double,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+20,pizza nova,small pizza dairy free mozzarella extra,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+21,pizza nova,small pizza feta cheese,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+22,pizza nova,small pizza goat cheese,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+23,pizza nova,small pizza green olives,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+24,pizza nova,small pizza green peppers,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+25,pizza nova,small pizza grilled chicken,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+26,pizza nova,small pizza grilled zucchini,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+27,pizza nova,small pizza hot peppers,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+28,pizza nova,small pizza hot soppressata,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+29,pizza nova,small pizza mozzarella blend,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+30,pizza nova,small pizza mozzarella cheese blend easy,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+31,pizza nova,small pizza mushrooms,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+32,pizza nova,small pizza parmigiano cheese,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+33,pizza nova,small pizza pepperoni,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+34,pizza nova,small pizza pesto,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+35,pizza nova,small pizza pesto sauce easy,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+36,pizza nova,small pizza pesto sauce extra,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+37,pizza nova,small pizza pineapple,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+38,pizza nova,small pizza plum tomatoes,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+39,pizza nova,small pizza porchetta,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+40,pizza nova,small pizza portobello mushrooms,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+41,pizza nova,small pizza red onions,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+42,pizza nova,small pizza regular,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+43,pizza nova,small pizza regular thick crust,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+44,pizza nova,small pizza regular thin crust,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+45,pizza nova,small pizza roasted garlic,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+46,pizza nova,small pizza roasted red peppers,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+47,pizza nova,small pizza sauteed spinach,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+48,pizza nova,small pizza seasoned ground beef,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+49,pizza nova,small pizza sliced tomatoes,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+50,pizza nova,small pizza smoked ham,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+51,pizza nova,small pizza spanish onions,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+52,pizza nova,small pizza spicy sausage,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+53,pizza nova,small pizza sundried olives,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+54,pizza nova,small pizza sundried tomatoes,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+55,pizza nova,small pizza tomato,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+56,pizza nova,small pizza tomato sauce easy,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+57,pizza nova,small pizza tomato sauce extra,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+58,pizza nova,small pizza white herbed olive oil,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+59,pizza nova,small pizza white herbed olive oil easy,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+60,pizza nova,small pizza white herbed olive oil extra,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+61,pizza nova,small pizza whole wheat,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+62,pizza nova,small pizza whole wheat thick crust,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+63,pizza nova,small pizza whole wheat thin crust,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+64,pizza nova,spicy green olives,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+65,pizza nova,spicy porchetta pizza gluten free,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+66,pizza nova,spicy porchetta pizza jumbo,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+67,pizza nova,spicy porchetta pizza large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+68,pizza nova,spicy porchetta pizza medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+69,pizza nova,spicy porchetta pizza party,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+70,pizza nova,spicy porchetta pizza slice,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+71,pizza nova,spicy porchetta pizza small,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+72,pizza nova,sprite can,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+73,pizza nova,sun chips,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+74,pizza nova,sundried black olives,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+75,pizza nova,super gourmet pizza gluten free,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+76,pizza nova,super gourmet pizza jumbo,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+77,pizza nova,super gourmet pizza large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+78,pizza nova,super gourmet pizza medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+79,pizza nova,super gourmet pizza party,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+80,pizza nova,super gourmet pizza slice,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+81,pizza nova,super gourmet pizza small,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+82,pizza nova,super hawaiian pizza gluten free,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+83,pizza nova,super hawaiian pizza jumbo,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+84,pizza nova,super hawaiian pizza large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+85,pizza nova,super hawaiian pizza medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+86,pizza nova,super hawaiian pizza party,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+87,pizza nova,super hawaiian pizza slice,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+88,pizza nova,super hawaiian pizza small,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+89,pizza nova,the founders pizza gluten free,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+90,pizza nova,the founders pizza jumbo,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+91,pizza nova,the founders pizza large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+92,pizza nova,the founders pizza medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+93,pizza nova,the founders pizza party,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+94,pizza nova,the founders pizza slice,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+95,pizza nova,the founders pizza small,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+96,pizza nova,tuscan pesto pizza gluten free,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+97,pizza nova,tuscan pesto pizza jumbo,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+98,pizza nova,tuscan pesto pizza large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+99,pizza nova,tuscan pesto pizza medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+100,pizza nova,tuscan pesto pizza party,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+101,pizza nova,tuscan pesto pizza slice,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+102,pizza nova,tuscan pesto pizza small,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+103,pizza nova,veal cutlet sandwich,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+104,pizza nova,veal cutlet sandwich with hot peppers,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+105,pizza nova,veal cutlet sandwich with roasted red peppers,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+106,pizza nova,veggie pizza gluten free,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+107,pizza nova,veggie pizza jumbo,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+108,pizza nova,veggie pizza large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+109,pizza nova,veggie pizza medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+110,pizza nova,veggie pizza party,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+111,pizza nova,veggie pizza slice,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+112,pizza nova,veggie pizza small,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+113,pizza nova,wings with bbq sauce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+114,pizza nova,wings with honey garlic sauce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+115,pizza nova,wings with hot sauce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+116,pizza nova,wings with medium sauce sauce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+117,pizza nova,wings with mild sauce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+118,pizza nova,wings italian,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+119,pizza nova,wings plain,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+120,pizza nova,xxx vitaminwater bottle,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+121,pizza pipeline,14 inch canadian bacon and pineapple pizza,8,g,0,mg,410,g,30,g,13,g,4,g,0,g,0,g,0,g
+122,pizza pipeline,14 inch cheese pizza,7,g,0,mg,340,g,29,g,12,g,4,g,0,g,0,g,0,g
+123,pizza pipeline,14 inch pepperoni pizza,10,g,0,mg,450,g,29,g,13,g,4.5,g,0,g,0,g,0,g
+124,pizza pipeline,american cheese,18,g,0,mg,1020,g,0,g,12,g,12,g,0,g,0,g,0,g
+125,pizza pipeline,cheese for 14 inch pizza,60,g,0,mg,1870,g,6,g,71,g,34,g,0,g,0,g,0,g
+126,pizza pipeline,club with american cheese sub,25,g,0,mg,4910,g,94,g,70,g,13,g,0,g,0,g,0,g
+127,pizza pipeline,club with swiss cheese sub,19,g,0,mg,4760,g,94,g,70,g,10,g,0,g,0,g,0,g
+128,pizza pipeline,dough for 14 inch pizza,13,g,0,mg,930,g,268,g,43,g,1,g,0,g,0,g,0,g
+129,pizza pipeline,gluten free dough,3,g,0,mg,270,g,50,g,3,g,20,g,0,g,0,g,0,g
+130,pizza pipeline,ham,6,g,0,mg,1710,g,9,g,27,g,2,g,0,g,0,g,0,g
+131,pizza pipeline,ham with american cheese sub,26,g,0,mg,3630,g,99,g,56,g,14,g,0,g,0,g,0,g
+132,pizza pipeline,ham with swiss cheese sub,20,g,0,mg,350,g,99,g,56,g,11,g,0,g,0,g,0,g
+133,pizza pipeline,ham turkey and roast beef,5,g,0,mg,3000,g,5,g,42,g,1,g,0,g,0,g,0,g
+134,pizza pipeline,roast beef,5,g,0,mg,3000,g,0,g,26,g,1,g,0,g,0,g,0,g
+135,pizza pipeline,roast beef with american cheese sub,23,g,0,mg,4040,g,90,g,55,g,13,g,0,g,0,g,0,g
+136,pizza pipeline,roast beef with swiss cheese sub,17,g,0,mg,3890,g,90,g,55,g,10,g,0,g,0,g,0,g
+137,pizza pipeline,sauce for 14 inch pizza,0,g,0,mg,610,g,11,g,2,g,0,g,0,g,0,g,0,g
+138,pizza pipeline,swiss cheese,12,g,0,mg,870,g,0,g,12,g,9,g,0,g,0,g,0,g
+139,pizza pipeline,tomato,0,g,0,mg,10,g,5,g,1,g,0,g,0,g,0,g,0,g
+140,pizza pipeline,tricky stix cinnamon sugar,58,g,0,mg,1830,g,193,g,9,g,8,g,0,g,0,g,0,g
+141,pizza pipeline,tricky stix parmesan,69,g,0,mg,3030,g,53,g,32,g,20,g,0,g,0,g,0,g
+142,pizza pipeline,turkey,2,g,0,mg,2160,g,0,g,30,g,0,g,0,g,0,g,0,g
+143,pizza pipeline,turkey with american cheese sub,21,g,0,mg,4080,g,90,g,56,g,13,g,0,g,0,g,0,g
+144,pizza pipeline,turkey with swiss cheese sub,15,g,0,mg,3930,g,90,g,59,g,10,g,0,g,0,g,0,g
+145,pizza plus,american style hoagie,55,g,85,mg,2100,g,76,g,39,g,21,g,1,g,6,g,8,g
+146,pizza plus,awesome apple sundae,6,g,20,mg,160,g,47,g,5,g,3,g,0,g,1,g,36,g
+147,pizza plus,bacon cheese fries large,49,g,95,mg,2080,g,63,g,32,g,22,g,0,g,9,g,0,g
+148,pizza plus,bacon cheese fries regular,29,g,60,mg,1190,g,35,g,20,g,14,g,0,g,5,g,0,g
+149,pizza plus,bacon large,3,g,5,mg,120,g,0,g,2,g,1,g,0,g,0,g,0,g
+150,pizza plus,bacon medium,3,g,5,mg,120,g,0,g,2,g,1,g,0,g,0,g,0,g
+151,pizza plus,bacon mini,5,g,10,mg,240,g,0,g,4,g,2,g,0,g,0,g,0,g
+152,pizza plus,bacon small,2,g,5,mg,80,g,0,g,1,g,1,g,0,g,0,g,0,g
+153,pizza plus,baked spaghetti with garlic bread large,33,g,35,mg,1660,g,220,g,45,g,11,g,0,g,12,g,15,g
+154,pizza plus,baked spaghetti with garlic bread regular,21,g,30,mg,970,g,111,g,26,g,8,g,0,g,6,g,8,g
+155,pizza plus,baked spaghetti with meatballs and garlic bread regular,31,g,50,mg,1240,g,113,g,33,g,12,g,0,g,7,g,9,g
+156,pizza plus,baked spaghetti with meatballs and garlic bread large,47,g,60,mg,2020,g,222,g,55,g,16,g,0,g,13,g,15,g
+157,pizza plus,banana pepper large,0,g,0,mg,135,g,0,g,0,g,0,g,0,g,0,g,0,g
+158,pizza plus,banana pepper medium,0,g,0,mg,150,g,0,g,0,g,0,g,0,g,0,g,0,g
+159,pizza plus,banana pepper mini,0,g,0,mg,230,g,0,g,0,g,0,g,0,g,0,g,0,g
+160,pizza plus,banana pepper small,0,g,0,mg,115,g,0,g,0,g,0,g,0,g,0,g,0,g
+161,pizza plus,bbq chicken hoagie,19,g,75,mg,1910,g,78,g,39,g,7,g,0,g,3,g,12,g
+162,pizza plus,bbq chicken pan pizza buffet,5,g,20,mg,410,g,31,g,10,g,2,g,0,g,1,g,2,g
+163,pizza plus,bbq chicken pan pizza large,7,g,25,mg,570,g,40,g,14,g,3,g,0,g,2,g,3,g
+164,pizza plus,bbq chicken pan pizza medium,7,g,25,mg,620,g,47,g,15,g,3,g,0,g,2,g,3,g
+165,pizza plus,bbq chicken pan pizza mini,13,g,45,mg,1140,g,89,g,25,g,7,g,0,g,3,g,7,g
+166,pizza plus,bbq chicken pan pizza small,5,g,20,mg,410,g,31,g,10,g,2,g,0,g,1,g,2,g
+167,pizza plus,bbq chicken thin crust pizza buffet,4,g,20,mg,360,g,17,g,7,g,2,g,0,g,1,g,2,g
+168,pizza plus,bbq chicken thin crust pizza large,6,g,25,mg,510,g,23,g,11,g,3,g,0,g,1,g,2,g
+169,pizza plus,bbq chicken thin crust pizza medium,7,g,25,mg,540,g,25,g,11,g,3,g,0,g,1,g,2,g
+170,pizza plus,bbq chicken thin crust pizza mini,13,g,45,mg,1200,g,67,g,21,g,7,g,0,g,3,g,5,g
+171,pizza plus,bbq chicken thin crust pizza small,5,g,20,mg,420,g,22,g,8,g,2,g,0,g,1,g,2,g
+172,pizza plus,black olive large,1,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+173,pizza plus,black olive medium,1,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+174,pizza plus,black olive mini,2,g,0,mg,125,g,0,g,0,g,0,g,0,g,0,g,0,g
+175,pizza plus,black olive small,1,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+176,pizza plus,blueberry bliss sundae,6,g,20,mg,160,g,50,g,5,g,3,g,0,g,1,g,35,g
+177,pizza plus,blueberry cyclone,13,g,55,mg,300,g,83,g,11,g,7,g,0,g,0,g,62,g
+178,pizza plus,california chicken pan pizza buffet,6,g,20,mg,430,g,30,g,10,g,3,g,0,g,1,g,1,g
+179,pizza plus,california chicken pan pizza large,9,g,30,mg,590,g,39,g,14,g,4,g,0,g,2,g,2,g
+180,pizza plus,california chicken pan pizza medium,10,g,30,mg,650,g,45,g,15,g,4,g,0,g,2,g,2,g
+181,pizza plus,california chicken pan pizza mini,19,g,50,mg,1170,g,85,g,25,g,8,g,0,g,3,g,4,g
+182,pizza plus,california chicken pan pizza small,6,g,20,mg,440,g,30,g,10,g,3,g,0,g,1,g,1,g
+183,pizza plus,california chicken thin crust pizza buffet,6,g,20,mg,380,g,16,g,7,g,3,g,0,g,1,g,1,g
+184,pizza plus,california chicken thin crust pizza large,9,g,30,mg,540,g,21,g,11,g,4,g,0,g,1,g,1,g
+185,pizza plus,california chicken thin crust pizza medium,9,g,30,mg,570,g,24,g,11,g,4,g,0,g,1,g,1,g
+186,pizza plus,california chicken thin crust pizza mini,18,g,50,mg,1240,g,64,g,21,g,8,g,0,g,3,g,2,g
+187,pizza plus,california chicken thin crust pizza small,6,g,20,mg,450,g,21,g,8,g,3,g,0,g,1,g,1,g
+188,pizza plus,calzone without toppings,11,g,25,mg,1200,g,128,g,25,g,5,g,0,g,6,g,6,g
+189,pizza plus,calzone add bacon,10,g,20,mg,490,g,0,g,8,g,4,g,0,g,0,g,0,g
+190,pizza plus,calzone add banana peppers,0,g,0,mg,470,g,0,g,0,g,0,g,0,g,0,g,0,g
+191,pizza plus,calzone add black olives,4,g,0,mg,250,g,0,g,0,g,0,g,0,g,0,g,0,g
+192,pizza plus,calzone add chicken,1,g,15,mg,105,g,0,g,7,g,0,g,0,g,0,g,0,g
+193,pizza plus,calzone add green peppers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+194,pizza plus,calzone add ham,3,g,15,mg,310,g,1,g,5,g,1,g,0,g,0,g,1,g
+195,pizza plus,calzone add hamburger,4,g,10,mg,320,g,2,g,5,g,2,g,0,g,1,g,1,g
+196,pizza plus,calzone add jalapenos,0,g,0,mg,130,g,1,g,0,g,0,g,0,g,0,g,0,g
+197,pizza plus,calzone add mushrooms,0,g,0,mg,125,g,1,g,0,g,0,g,0,g,1,g,0,g
+198,pizza plus,calzone add onion,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,1,g
+199,pizza plus,calzone add pepperoni,5,g,15,mg,115,g,0,g,2,g,2,g,0,g,0,g,0,g
+200,pizza plus,calzone add pineapples,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,3,g
+201,pizza plus,calzone add sausage,7,g,15,mg,330,g,1,g,5,g,2,g,0,g,1,g,0,g
+202,pizza plus,calzone add tomato,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+203,pizza plus,cheese only concession pizza large,9,g,25,mg,640,g,59,g,15,g,5,g,0,g,3,g,3,g
+204,pizza plus,cheese only pan pizza buffet,4,g,15,mg,320,g,30,g,8,g,2,g,0,g,1,g,1,g
+205,pizza plus,cheese only pan pizza large,6,g,20,mg,440,g,39,g,10,g,3,g,0,g,2,g,2,g
+206,pizza plus,cheese only pan pizza medium,7,g,20,mg,490,g,45,g,11,g,3,g,0,g,2,g,2,g
+207,pizza plus,cheese only pan pizza mini,13,g,40,mg,930,g,86,g,22,g,7,g,0,g,4,g,4,g
+208,pizza plus,cheese only pan pizza small,4,g,15,mg,320,g,30,g,8,g,2,g,0,g,1,g,1,g
+209,pizza plus,cheese only thin crust pizza buffet,4,g,15,mg,270,g,16,g,5,g,2,g,0,g,1,g,1,g
+210,pizza plus,cheese only thin crust pizza large,6,g,20,mg,380,g,21,g,8,g,3,g,0,g,1,g,1,g
+211,pizza plus,cheese only thin crust pizza medium,6,g,20,mg,410,g,24,g,8,g,3,g,0,g,1,g,1,g
+212,pizza plus,cheese only thin crust pizza mini,13,g,40,mg,990,g,64,g,18,g,7,g,0,g,3,g,2,g
+213,pizza plus,cheese only thin crust pizza small,4,g,15,mg,330,g,21,g,6,g,2,g,0,g,1,g,1,g
+214,pizza plus,chicken alfredo with garlic bread large,27,g,55,mg,2110,g,226,g,55,g,8,g,0,g,11,g,16,g
+215,pizza plus,chicken alfredo with garlic bread regular,14,g,25,mg,1120,g,115,g,26,g,4,g,0,g,6,g,9,g
+216,pizza plus,chicken club hoagie,34,g,85,mg,1830,g,72,g,44,g,11,g,0,g,4,g,6,g
+217,pizza plus,chicken fajita pan pizza buffet,4,g,15,mg,370,g,31,g,9,g,2,g,0,g,1,g,2,g
+218,pizza plus,chicken fajita pan pizza large,6,g,20,mg,520,g,41,g,12,g,2,g,0,g,2,g,3,g
+219,pizza plus,chicken fajita pan pizza medium,6,g,20,mg,560,g,47,g,13,g,2,g,0,g,2,g,3,g
+220,pizza plus,chicken fajita pan pizza mini,11,g,35,mg,1050,g,90,g,22,g,5,g,0,g,4,g,6,g
+221,pizza plus,chicken fajita pan pizza small,4,g,15,mg,380,g,32,g,9,g,2,g,0,g,1,g,2,g
+222,pizza plus,chicken fajita thin crust pizza buffet,3,g,15,mg,320,g,17,g,7,g,2,g,0,g,1,g,1,g
+223,pizza plus,chicken fajita thin crust pizza large,5,g,20,mg,460,g,23,g,9,g,2,g,0,g,1,g,2,g
+224,pizza plus,chicken fajita thin crust pizza medium,5,g,20,mg,480,g,26,g,10,g,2,g,0,g,1,g,2,g
+225,pizza plus,chicken fajita thin crust pizza mini,11,g,35,mg,1110,g,68,g,18,g,5,g,0,g,3,g,4,g
+226,pizza plus,chicken fajita thin crust pizza small,4,g,15,mg,390,g,23,g,7,g,2,g,0,g,1,g,1,g
+227,pizza plus,chicken mushroom swiss hoagie,32,g,75,mg,2030,g,73,g,40,g,9,g,0,g,4,g,6,g
+228,pizza plus,chicken stix,22,g,140,mg,860,g,18,g,20,g,5,g,0,g,3,g,0,g
+229,pizza plus,chicken large,0,g,10,mg,50,g,0,g,3,g,0,g,0,g,0,g,0,g
+230,pizza plus,chicken medium,0,g,10,mg,50,g,0,g,3,g,0,g,0,g,0,g,0,g
+231,pizza plus,chicken mini,0,g,10,mg,50,g,0,g,3,g,0,g,0,g,0,g,0,g
+232,pizza plus,chicken small,0,g,5,mg,35,g,0,g,2,g,0,g,0,g,0,g,0,g
+233,pizza plus,choco cherry dlite sundae,5,g,20,mg,130,g,53,g,5,g,3,g,0,g,1,g,41,g
+234,pizza plus,choco chip cookie sundae,11,g,25,mg,210,g,53,g,6,g,6,g,0,g,0,g,38,g
+235,pizza plus,choco peanut cyclone,34,g,55,mg,370,g,90,g,21,g,11,g,0,g,3,g,67,g
+236,pizza plus,chocolate chip cyclone,22,g,60,mg,430,g,109,g,14,g,12,g,0,g,1,g,80,g
+237,pizza plus,chocolate cyclone,13,g,55,mg,280,g,90,g,12,g,7,g,0,g,1,g,72,g
+238,pizza plus,chocolate sundae,5,g,20,mg,120,g,43,g,5,g,3,g,0,g,1,g,35,g
+239,pizza plus,cinnamon rolls family,63,g,0,mg,3890,g,605,g,70,g,16,g,1,g,20,g,139,g
+240,pizza plus,cinnamon rolls medium,46,g,0,mg,2990,g,462,g,54,g,11,g,0,g,16,g,104,g
+241,pizza plus,cinnamon rolls regular,27,g,0,mg,1530,g,246,g,27,g,7,g,0,g,8,g,65,g
+242,pizza plus,cinnamon stix family,63,g,0,mg,3890,g,605,g,70,g,16,g,1,g,20,g,139,g
+243,pizza plus,cinnamon stix medium,46,g,0,mg,2990,g,462,g,54,g,11,g,0,g,16,g,104,g
+244,pizza plus,cinnamon stix regular,27,g,0,mg,1530,g,246,g,27,g,7,g,0,g,8,g,65,g
+245,pizza plus,classic deluxe pan pizza buffet,7,g,20,mg,430,g,31,g,9,g,3,g,0,g,2,g,2,g
+246,pizza plus,classic deluxe pan pizza large,10,g,30,mg,590,g,40,g,13,g,5,g,0,g,2,g,2,g
+247,pizza plus,classic deluxe pan pizza medium,10,g,30,mg,640,g,46,g,14,g,5,g,0,g,2,g,2,g
+248,pizza plus,classic deluxe pan pizza mini,16,g,45,mg,1080,g,88,g,24,g,8,g,0,g,4,g,5,g
+249,pizza plus,classic deluxe pan pizza small,7,g,20,mg,440,g,31,g,9,g,3,g,0,g,2,g,2,g
+250,pizza plus,classic deluxe thin crust pizza buffet,7,g,20,mg,380,g,17,g,7,g,3,g,0,g,1,g,1,g
+251,pizza plus,classic deluxe thin crust pizza large,10,g,30,mg,530,g,23,g,10,g,5,g,0,g,2,g,1,g
+252,pizza plus,classic deluxe thin crust pizza medium,10,g,30,mg,570,g,25,g,10,g,5,g,0,g,2,g,1,g
+253,pizza plus,classic deluxe thin crust pizza mini,16,g,45,mg,1140,g,66,g,20,g,8,g,0,g,4,g,3,g
+254,pizza plus,classic deluxe thin crust pizza small,7,g,20,mg,450,g,22,g,8,g,3,g,0,g,1,g,1,g
+255,pizza plus,cookie,8,g,5,mg,125,g,23,g,2,g,5,g,0,g,0,g,13,g
+256,pizza plus,curly fries,10,g,0,mg,600,g,35,g,3,g,3,g,0,g,5,g,0,g
+257,pizza plus,dessert apple calzone,27,g,0,mg,1580,g,267,g,27,g,7,g,0,g,8,g,81,g
+258,pizza plus,dessert apple pizza family,77,g,0,mg,4330,g,789,g,75,g,19,g,5,g,27,g,273,g
+259,pizza plus,dessert apple pizza medium,55,g,0,mg,3280,g,585,g,58,g,13,g,3,g,20,g,193,g
+260,pizza plus,dessert apple pizza regular,32,g,0,mg,1680,g,308,g,29,g,8,g,2,g,10,g,110,g
+261,pizza plus,dessert blueberry calzone,27,g,0,mg,1570,g,270,g,27,g,7,g,0,g,8,g,80,g
+262,pizza plus,dessert blueberry pizza family,78,g,0,mg,4310,g,808,g,76,g,19,g,5,g,28,g,262,g
+263,pizza plus,dessert blueberry pizza medium,56,g,0,mg,3270,g,598,g,58,g,13,g,3,g,21,g,186,g
+264,pizza plus,dessert blueberry pizza regular,32,g,0,mg,1670,g,314,g,29,g,8,g,2,g,10,g,106,g
+265,pizza plus,diet dr pepper 16 oz,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+266,pizza plus,diet dr pepper 2 liter,0,g,0,mg,300,g,0,g,0,g,0,g,0,g,0,g,0,g
+267,pizza plus,diet dr pepper 32 oz,0,g,0,mg,140,g,0,g,0,g,0,g,0,g,0,g,0,g
+268,pizza plus,diet mountain dew 16 oz,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+269,pizza plus,diet mountain dew 2 liter,0,g,0,mg,280,g,1,g,0,g,0,g,0,g,0,g,1,g
+270,pizza plus,diet mountain dew 32 oz,0,g,0,mg,140,g,0,g,0,g,0,g,0,g,0,g,0,g
+271,pizza plus,diet pepsi 16 oz,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+272,pizza plus,diet pepsi 2 liter,0,g,0,mg,200,g,0,g,0,g,0,g,0,g,0,g,0,g
+273,pizza plus,diet pepsi 32 oz,0,g,0,mg,90,g,0,g,0,g,0,g,0,g,0,g,0,g
+274,pizza plus,dr pepper 16 oz,0,g,0,mg,70,g,54,g,0,g,0,g,0,g,0,g,54,g
+275,pizza plus,dr pepper 2 liter,0,g,0,mg,300,g,228,g,0,g,0,g,0,g,0,g,228,g
+276,pizza plus,dr pepper 32 oz,0,g,0,mg,140,g,108,g,0,g,0,g,0,g,0,g,108,g
+277,pizza plus,extra mozzarella cheese large,2,g,5,mg,45,g,1,g,2,g,1,g,0,g,0,g,0,g
+278,pizza plus,extra mozzarella cheese medium,2,g,5,mg,45,g,1,g,2,g,1,g,0,g,0,g,0,g
+279,pizza plus,extra mozzarella cheese mini,4,g,15,mg,85,g,0,g,3,g,2,g,0,g,0,g,0,g
+280,pizza plus,extra mozzarella cheese small,1,g,5,mg,30,g,0,g,1,g,1,g,0,g,0,g,0,g
+281,pizza plus,garden pasta marinara with garlic bread large,24,g,5,mg,1580,g,224,g,37,g,5,g,0,g,13,g,17,g
+282,pizza plus,garden pasta marinara with garlic bread regular,12,g,5,mg,830,g,113,g,19,g,3,g,0,g,7,g,9,g
+283,pizza plus,garlic bread,18,g,5,mg,1170,g,68,g,14,g,5,g,0,g,3,g,4,g
+284,pizza plus,garlic bread with cheese,25,g,30,mg,1340,g,68,g,20,g,9,g,0,g,3,g,4,g
+285,pizza plus,green pepper large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+286,pizza plus,green pepper medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+287,pizza plus,green pepper mini,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+288,pizza plus,green pepper small,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+289,pizza plus,ham large,1,g,5,mg,90,g,0,g,1,g,0,g,0,g,0,g,0,g
+290,pizza plus,ham medium,1,g,5,mg,95,g,0,g,1,g,0,g,0,g,0,g,0,g
+291,pizza plus,ham mini,2,g,10,mg,150,g,1,g,2,g,1,g,0,g,0,g,0,g
+292,pizza plus,ham small,1,g,5,mg,75,g,0,g,1,g,0,g,0,g,0,g,0,g
+293,pizza plus,ham n cheese hoagie,28,g,60,mg,1880,g,72,g,28,g,10,g,0,g,4,g,8,g
+294,pizza plus,hamburger large,2,g,5,mg,160,g,1,g,2,g,1,g,0,g,1,g,0,g
+295,pizza plus,hamburger medium,2,g,5,mg,160,g,1,g,2,g,1,g,0,g,1,g,0,g
+296,pizza plus,hamburger mini,2,g,5,mg,160,g,1,g,2,g,1,g,0,g,1,g,0,g
+297,pizza plus,hamburger small,2,g,5,mg,160,g,1,g,2,g,1,g,0,g,1,g,0,g
+298,pizza plus,honey mustard chicken hoagie,32,g,85,mg,1630,g,77,g,40,g,9,g,0,g,4,g,10,g
+299,pizza plus,ice cream bowl chocolate,5,g,15,mg,130,g,26,g,6,g,3,g,0,g,0,g,20,g
+300,pizza plus,ice cream bowl vanilla,5,g,20,mg,105,g,26,g,4,g,3,g,0,g,0,g,20,g
+301,pizza plus,ice cream cone chocolate,5,g,15,mg,140,g,31,g,6,g,3,g,0,g,0,g,20,g
+302,pizza plus,ice cream cone vanilla,5,g,20,mg,120,g,31,g,4,g,3,g,0,g,0,g,20,g
+303,pizza plus,italian style hoagie,40,g,85,mg,1760,g,76,g,39,g,17,g,1,g,6,g,8,g
+304,pizza plus,jalapeno large,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+305,pizza plus,jalapeno medium,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+306,pizza plus,jalapeno mini,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+307,pizza plus,jalapeno small,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+308,pizza plus,kids chicken stix and baked curly fries,19,g,85,mg,880,g,32,g,14,g,4,g,0,g,5,g,0,g
+309,pizza plus,kids mini cheese stix and cookie,24,g,45,mg,1350,g,107,g,25,g,12,g,0,g,3,g,16,g
+310,pizza plus,kids mini pan cheese pizza and cookie,21,g,45,mg,1050,g,109,g,24,g,11,g,0,g,4,g,17,g
+311,pizza plus,kids mini pan pepperoni pizza and cookie,24,g,55,mg,1130,g,109,g,25,g,13,g,0,g,4,g,17,g
+312,pizza plus,kids mini thin cheese pizza and cookie,21,g,45,mg,1120,g,87,g,20,g,11,g,0,g,3,g,15,g
+313,pizza plus,kids mini thin pepperoni pizza and cookie,24,g,55,mg,1190,g,88,g,21,g,13,g,0,g,3,g,15,g
+314,pizza plus,kids spaghetti with garlic bread,21,g,30,mg,970,g,111,g,26,g,8,g,0,g,6,g,8,g
+315,pizza plus,meat extravaganza pan pizza buffet,8,g,20,mg,500,g,31,g,10,g,4,g,0,g,2,g,2,g
+316,pizza plus,meat extravaganza pan pizza large,12,g,35,mg,700,g,40,g,14,g,6,g,0,g,2,g,2,g
+317,pizza plus,meat extravaganza pan pizza medium,12,g,35,mg,750,g,46,g,15,g,6,g,0,g,2,g,2,g
+318,pizza plus,meat extravaganza pan pizza mini,21,g,60,mg,1330,g,87,g,28,g,10,g,0,g,4,g,4,g
+319,pizza plus,meat extravaganza pan pizza small,8,g,25,mg,520,g,31,g,11,g,4,g,0,g,2,g,2,g
+320,pizza plus,meat extravaganza thin crust pizza buffet,8,g,20,mg,450,g,17,g,8,g,4,g,0,g,1,g,1,g
+321,pizza plus,meat extravaganza thin crust pizza large,12,g,35,mg,640,g,22,g,11,g,6,g,0,g,1,g,1,g
+322,pizza plus,meat extravaganza thin crust pizza medium,12,g,35,mg,680,g,25,g,12,g,6,g,0,g,2,g,1,g
+323,pizza plus,meat extravaganza thin crust pizza mini,21,g,60,mg,1390,g,65,g,24,g,10,g,0,g,3,g,3,g
+324,pizza plus,meat extravaganza thin crust pizza small,8,g,25,mg,530,g,22,g,9,g,4,g,0,g,1,g,1,g
+325,pizza plus,meatball sub,34,g,60,mg,1430,g,72,g,31,g,14,g,0,g,5,g,5,g
+326,pizza plus,mountain dew 16 oz,0,g,0,mg,60,g,51,g,0,g,0,g,0,g,0,g,51,g
+327,pizza plus,mountain dew 2 liter,0,g,0,mg,360,g,260,g,0,g,0,g,0,g,0,g,260,g
+328,pizza plus,mountain dew 32 oz,0,g,0,mg,125,g,102,g,0,g,0,g,0,g,0,g,102,g
+329,pizza plus,mozzarella cheese large,5,g,20,mg,130,g,1,g,5,g,3,g,0,g,0,g,0,g
+330,pizza plus,mozzarella cheese medium,5,g,20,mg,130,g,1,g,5,g,3,g,0,g,0,g,0,g
+331,pizza plus,mozzarella cheese mini,11,g,40,mg,260,g,1,g,9,g,7,g,0,g,0,g,0,g
+332,pizza plus,mozzarella cheese small,4,g,15,mg,85,g,1,g,3,g,2,g,0,g,0,g,0,g
+333,pizza plus,mushroom large,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+334,pizza plus,mushroom medium,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+335,pizza plus,mushroom mini,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+336,pizza plus,mushroom small,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+337,pizza plus,ny style cheese cake,19,g,65,mg,260,g,35,g,7,g,11,g,0,g,1,g,23,g
+338,pizza plus,onion large,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+339,pizza plus,onion medium,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+340,pizza plus,onion mini,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+341,pizza plus,onion small,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+342,pizza plus,original chicken hoagie,29,g,75,mg,1580,g,72,g,40,g,9,g,0,g,4,g,6,g
+343,pizza plus,pepe bread,25,g,5,mg,1680,g,189,g,30,g,4,g,0,g,8,g,8,g
+344,pizza plus,pepperoni concession pizza large,12,g,35,mg,700,g,59,g,16,g,6,g,0,g,3,g,3,g
+345,pizza plus,pepperoni pan pizza buffet,6,g,20,mg,360,g,30,g,8,g,3,g,0,g,1,g,1,g
+346,pizza plus,pepperoni pan pizza large,9,g,25,mg,490,g,39,g,11,g,4,g,0,g,2,g,2,g
+347,pizza plus,pepperoni pan pizza medium,9,g,30,mg,540,g,45,g,12,g,5,g,0,g,2,g,2,g
+348,pizza plus,pepperoni pan pizza mini,16,g,50,mg,1010,g,86,g,23,g,8,g,0,g,4,g,4,g
+349,pizza plus,pepperoni pan pizza small,6,g,20,mg,360,g,30,g,8,g,3,g,0,g,1,g,1,g
+350,pizza plus,pepperoni thin crust pizza buffet,6,g,20,mg,310,g,16,g,6,g,3,g,0,g,1,g,1,g
+351,pizza plus,pepperoni thin crust pizza large,9,g,25,mg,430,g,22,g,9,g,4,g,0,g,1,g,1,g
+352,pizza plus,pepperoni thin crust pizza medium,9,g,30,mg,470,g,24,g,9,g,5,g,0,g,1,g,1,g
+353,pizza plus,pepperoni thin crust pizza mini,16,g,50,mg,1070,g,65,g,19,g,8,g,0,g,3,g,2,g
+354,pizza plus,pepperoni thin crust pizza small,6,g,20,mg,370,g,21,g,7,g,3,g,0,g,1,g,1,g
+355,pizza plus,pepperoni large,3,g,10,mg,55,g,0,g,1,g,1,g,0,g,0,g,0,g
+356,pizza plus,pepperoni medium,3,g,10,mg,60,g,0,g,1,g,1,g,0,g,0,g,0,g
+357,pizza plus,pepperoni mini,4,g,10,mg,75,g,0,g,1,g,1,g,0,g,0,g,0,g
+358,pizza plus,pepperoni small,2,g,5,mg,40,g,0,g,1,g,1,g,0,g,0,g,0,g
+359,pizza plus,pepsi 16 oz,0,g,0,mg,35,g,49,g,0,g,0,g,0,g,0,g,49,g
+360,pizza plus,pepsi 2 liter,0,g,0,mg,180,g,232,g,0,g,0,g,0,g,0,g,232,g
+361,pizza plus,pepsi 32 oz,0,g,0,mg,70,g,98,g,0,g,0,g,0,g,0,g,98,g
+362,pizza plus,philly cheese steak hoagie,25,g,75,mg,2010,g,72,g,38,g,10,g,0,g,3,g,5,g
+363,pizza plus,pineapple large,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+364,pizza plus,pineapple medium,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+365,pizza plus,pineapple mini,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+366,pizza plus,pineapple small,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+367,pizza plus,pizza stix with cheese family,76,g,185,mg,6020,g,462,g,115,g,36,g,0,g,19,g,19,g
+368,pizza plus,pizza stix with cheese medium,56,g,135,mg,4550,g,357,g,86,g,26,g,0,g,14,g,14,g
+369,pizza plus,pizza stix with cheese mini,16,g,40,mg,1220,g,84,g,23,g,8,g,0,g,3,g,3,g
+370,pizza plus,pizza stix with cheese regular,33,g,80,mg,2530,g,178,g,47,g,16,g,0,g,7,g,7,g
+371,pizza plus,pizza sub without toppings,16,g,25,mg,970,g,69,g,19,g,7,g,0,g,3,g,5,g
+372,pizza plus,pizza sub add bacon,10,g,20,mg,490,g,0,g,8,g,4,g,0,g,0,g,0,g
+373,pizza plus,pizza sub add banana peppers,0,g,0,mg,230,g,0,g,0,g,0,g,0,g,0,g,0,g
+374,pizza plus,pizza sub add black olives,2,g,0,mg,125,g,0,g,0,g,0,g,0,g,0,g,0,g
+375,pizza plus,pizza sub add chicken,1,g,15,mg,105,g,0,g,7,g,0,g,0,g,0,g,0,g
+376,pizza plus,pizza sub add green peppers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+377,pizza plus,pizza sub add ham,3,g,15,mg,310,g,1,g,5,g,1,g,0,g,0,g,1,g
+378,pizza plus,pizza sub add hamburger,4,g,10,mg,320,g,2,g,5,g,2,g,0,g,1,g,1,g
+379,pizza plus,pizza sub add jalapenos,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+380,pizza plus,pizza sub add mushrooms,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+381,pizza plus,pizza sub add onion,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+382,pizza plus,pizza sub add pepperoni,5,g,15,mg,115,g,0,g,2,g,2,g,0,g,0,g,0,g
+383,pizza plus,pizza sub add pineapples,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+384,pizza plus,pizza sub add sausage,7,g,15,mg,330,g,1,g,5,g,2,g,0,g,1,g,0,g
+385,pizza plus,pizza sub add tomato,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+386,pizza plus,sausage large,4,g,5,mg,170,g,1,g,2,g,1,g,0,g,1,g,0,g
+387,pizza plus,sausage medium,4,g,5,mg,170,g,1,g,2,g,1,g,0,g,1,g,0,g
+388,pizza plus,sausage mini,4,g,5,mg,170,g,1,g,2,g,1,g,0,g,1,g,0,g
+389,pizza plus,sausage small,4,g,5,mg,170,g,1,g,2,g,1,g,0,g,1,g,0,g
+390,pizza plus,smoky bbq boneless wings 100 pack,200,g,875,mg,15500,g,350,g,400,g,38,g,0,g,25,g,0,g
+391,pizza plus,smoky bbq boneless wings 16 pack,32,g,140,mg,2480,g,56,g,64,g,6,g,0,g,4,g,0,g
+392,pizza plus,smoky bbq boneless wings 24 pack,48,g,210,mg,3720,g,84,g,96,g,9,g,0,g,6,g,0,g
+393,pizza plus,smoky bbq boneless wings 32 pack,64,g,280,mg,4960,g,112,g,128,g,12,g,0,g,8,g,0,g
+394,pizza plus,smoky bbq boneless wings 50 pack,100,g,440,mg,7750,g,175,g,200,g,19,g,0,g,13,g,0,g
+395,pizza plus,smoky bbq boneless wings 8 pack,16,g,70,mg,1240,g,28,g,32,g,3,g,0,g,2,g,0,g
+396,pizza plus,smoky bbq chicken wings 100 pack,567,g,2165,mg,13330,g,333,g,500,g,133,g,0,g,0,g,200,g
+397,pizza plus,smoky bbq chicken wings 16pack,91,g,345,mg,2130,g,53,g,80,g,21,g,0,g,0,g,32,g
+398,pizza plus,smoky bbq chicken wings 24 pack,136,g,520,mg,3200,g,80,g,120,g,32,g,0,g,0,g,48,g
+399,pizza plus,smoky bbq chicken wings 32 pack,181,g,695,mg,4270,g,107,g,160,g,43,g,0,g,0,g,64,g
+400,pizza plus,smoky bbq chicken wings 50 pack,283,g,1085,mg,6670,g,167,g,250,g,67,g,0,g,0,g,100,g
+401,pizza plus,smoky bbq chicken wings 8 pack,45,g,175,mg,1070,g,27,g,40,g,11,g,0,g,0,g,16,g
+402,pizza plus,spaghetti marinara with garlic bread large,22,g,5,mg,1390,g,221,g,37,g,5,g,0,g,12,g,16,g
+403,pizza plus,spaghetti marinara with garlic bread regular,11,g,5,mg,730,g,112,g,19,g,2,g,0,g,6,g,9,g
+404,pizza plus,spicy thriller boneless wings 100 pack,200,g,1000,mg,20000,g,325,g,425,g,38,g,0,g,25,g,0,g
+405,pizza plus,spicy thriller boneless wings 16 pack,32,g,160,mg,3200,g,52,g,68,g,6,g,0,g,4,g,0,g
+406,pizza plus,spicy thriller boneless wings 24 pack,48,g,240,mg,4800,g,78,g,102,g,9,g,0,g,6,g,0,g
+407,pizza plus,spicy thriller boneless wings 32 pack,64,g,320,mg,6400,g,104,g,136,g,12,g,0,g,8,g,0,g
+408,pizza plus,spicy thriller boneless wings 50 pack,100,g,500,mg,10000,g,163,g,213,g,19,g,0,g,13,g,0,g
+409,pizza plus,spicy thriller boneless wings 8 pack,16,g,80,mg,1600,g,26,g,34,g,3,g,0,g,2,g,0,g
+410,pizza plus,spicy thriller chicken wings 100 pack,367,g,1665,mg,22000,g,133,g,400,g,100,g,0,g,0,g,0,g
+411,pizza plus,spicy thriller chicken wings 16 pack,59,g,265,mg,3520,g,21,g,64,g,16,g,0,g,0,g,0,g
+412,pizza plus,spicy thriller chicken wings 24 pack,88,g,400,mg,5280,g,32,g,96,g,24,g,0,g,0,g,0,g
+413,pizza plus,spicy thriller chicken wings 32 pack,117,g,535,mg,7040,g,43,g,128,g,32,g,0,g,0,g,0,g
+414,pizza plus,spicy thriller chicken wings 50 pack,183,g,835,mg,11000,g,67,g,200,g,50,g,0,g,0,g,0,g
+415,pizza plus,spicy thriller chicken wings 8 pack,29,g,135,mg,1760,g,11,g,32,g,8,g,0,g,0,g,0,g
+416,pizza plus,strawberry cyclone,13,g,55,mg,280,g,92,g,11,g,7,g,0,g,0,g,76,g
+417,pizza plus,strawberry sundae,5,g,20,mg,120,g,43,g,5,g,3,g,0,g,1,g,35,g
+418,pizza plus,submarine,48,g,50,mg,2380,g,78,g,24,g,14,g,0,g,4,g,10,g
+419,pizza plus,super deluxe pan pizza buffet,8,g,20,mg,490,g,31,g,10,g,3,g,0,g,2,g,2,g
+420,pizza plus,super deluxe pan pizza large,11,g,30,mg,680,g,41,g,14,g,5,g,0,g,2,g,2,g
+421,pizza plus,super deluxe pan pizza medium,12,g,30,mg,730,g,47,g,15,g,5,g,0,g,3,g,2,g
+422,pizza plus,super deluxe pan pizza mini,19,g,50,mg,1300,g,88,g,26,g,9,g,0,g,5,g,5,g
+423,pizza plus,super deluxe pan pizza small,8,g,20,mg,510,g,31,g,10,g,4,g,0,g,2,g,2,g
+424,pizza plus,super deluxe thin crust pizza buffet,7,g,20,mg,440,g,17,g,7,g,3,g,0,g,1,g,1,g
+425,pizza plus,super deluxe thin crust pizza large,11,g,30,mg,620,g,23,g,11,g,5,g,0,g,2,g,1,g
+426,pizza plus,super deluxe thin crust pizza medium,11,g,30,mg,660,g,25,g,11,g,5,g,0,g,2,g,1,g
+427,pizza plus,super deluxe thin crust pizza mini,19,g,50,mg,1360,g,67,g,22,g,9,g,0,g,4,g,3,g
+428,pizza plus,super deluxe thin crust pizza small,8,g,20,mg,520,g,22,g,8,g,4,g,0,g,1,g,1,g
+429,pizza plus,taco pan pizza buffet,5,g,10,mg,400,g,32,g,8,g,2,g,0,g,2,g,2,g
+430,pizza plus,taco pan pizza large,7,g,15,mg,570,g,43,g,11,g,3,g,0,g,3,g,3,g
+431,pizza plus,taco pan pizza medium,7,g,15,mg,600,g,48,g,12,g,3,g,0,g,3,g,3,g
+432,pizza plus,taco pan pizza mini,13,g,30,mg,1100,g,92,g,22,g,6,g,0,g,5,g,6,g
+433,pizza plus,taco pan pizza small,5,g,10,mg,410,g,33,g,8,g,2,g,0,g,2,g,2,g
+434,pizza plus,taco thin crust pizza buffet,4,g,10,mg,350,g,18,g,6,g,2,g,0,g,1,g,1,g
+435,pizza plus,taco thin crust pizza large,7,g,15,mg,520,g,25,g,8,g,3,g,0,g,2,g,2,g
+436,pizza plus,taco thin crust pizza medium,6,g,15,mg,520,g,27,g,9,g,3,g,0,g,2,g,2,g
+437,pizza plus,taco thin crust pizza mini,13,g,30,mg,1160,g,70,g,18,g,6,g,0,g,4,g,4,g
+438,pizza plus,taco thin crust pizza small,5,g,10,mg,410,g,24,g,6,g,2,g,0,g,2,g,1,g
+439,pizza plus,tomato large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+440,pizza plus,tomato medium,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+441,pizza plus,tomato mini,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+442,pizza plus,tomato small,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+443,pizza plus,veggie dlite pan pizza buffet,5,g,15,mg,390,g,31,g,8,g,2,g,0,g,1,g,2,g
+444,pizza plus,veggie dlite pan pizza large,7,g,20,mg,560,g,40,g,11,g,3,g,0,g,2,g,2,g
+445,pizza plus,veggie dlite pan pizza medium,7,g,20,mg,580,g,46,g,11,g,3,g,0,g,2,g,3,g
+446,pizza plus,veggie dlite pan pizza mini,14,g,40,mg,1140,g,88,g,22,g,7,g,0,g,4,g,5,g
+447,pizza plus,veggie dlite pan pizza small,5,g,15,mg,390,g,31,g,8,g,2,g,0,g,2,g,2,g
+448,pizza plus,veggie dlite thin crust pizza buffet,4,g,15,mg,340,g,16,g,5,g,2,g,0,g,1,g,1,g
+449,pizza plus,veggie dlite thin crust pizza large,6,g,20,mg,500,g,22,g,8,g,3,g,0,g,1,g,1,g
+450,pizza plus,veggie dlite thin crust pizza medium,7,g,20,mg,510,g,25,g,8,g,3,g,0,g,1,g,1,g
+451,pizza plus,veggie dlite thin crust pizza mini,14,g,40,mg,1200,g,66,g,18,g,7,g,0,g,3,g,3,g
+452,pizza plus,veggie dlite thin crust pizza small,5,g,15,mg,400,g,22,g,6,g,2,g,0,g,1,g,1,g
+453,pizza plus,western steak hoagie,40,g,85,mg,2040,g,81,g,38,g,17,g,1,g,5,g,13,g
+454,pizza schmizza,12 inch alligator pie,11,g,30,mg,560,g,29,g,13,g,5,g,0,g,1,g,2,g
+455,pizza schmizza,12 inch bbq chicken pizza,9,g,25,mg,480,g,24,g,11,g,4.5,g,0,g,1,g,2,g
+456,pizza schmizza,12 inch burrito pizza,9,g,20,mg,460,g,23,g,8,g,4,g,0,g,1,g,1,g
+457,pizza schmizza,12 inch cheese pizza,10,g,25,mg,480,g,22,g,10,g,5,g,0,g,1,g,1,g
+458,pizza schmizza,12 inch cochino chicken pizza,11,g,30,mg,570,g,23,g,13,g,6,g,0,g,1,g,2,g
+459,pizza schmizza,12 inch combo classico pizza,10,g,20,mg,470,g,22,g,9,g,4,g,0,g,1,g,1,g
+460,pizza schmizza,12 inch creole pizza,9,g,25,mg,440,g,23,g,11,g,4,g,0,g,1,g,2,g
+461,pizza schmizza,12 inch don ho pizza,9,g,20,mg,510,g,25,g,10,g,4,g,0,g,1,g,5,g
+462,pizza schmizza,12 inch extreme veggie pizza,9,g,15,mg,430,g,24,g,9,g,3.5,g,0,g,2,g,2,g
+463,pizza schmizza,12 inch foo foo pizza,10,g,20,mg,460,g,25,g,10,g,4.5,g,0,g,2,g,2,g
+464,pizza schmizza,12 inch genoa pizza,13,g,30,mg,630,g,23,g,11,g,5,g,0,g,1,g,1,g
+465,pizza schmizza,12 inch greek veggie pizza,9,g,20,mg,470,g,24,g,9,g,4,g,0,g,1,g,2,g
+466,pizza schmizza,12 inch green chicken pie,10,g,30,mg,530,g,24,g,12,g,4.5,g,0,g,2,g,2,g
+467,pizza schmizza,12 inch italiano pizza,9,g,30,mg,480,g,28,g,12,g,4.5,g,0,g,1,g,2,g
+468,pizza schmizza,12 inch margherita pizza,9,g,20,mg,370,g,22,g,8,g,4,g,0,g,1,g,1,g
+469,pizza schmizza,12 inch no kiss tonight pizza,11,g,35,mg,470,g,22,g,12,g,5,g,0,g,1,g,1,g
+470,pizza schmizza,12 inch ol hickory pizza,12,g,25,mg,520,g,24,g,10,g,6,g,0,g,1,g,2,g
+471,pizza schmizza,12 inch pepperoni pizza,11,g,25,mg,520,g,22,g,10,g,4.5,g,0,g,1,g,1,g
+472,pizza schmizza,12 inch popeye and olive oil pizza,11,g,25,mg,420,g,22,g,9,g,5,g,0,g,1,g,1,g
+473,pizza schmizza,12 inch rustic pie,10,g,20,mg,470,g,24,g,9,g,4.5,g,0,g,1,g,2,g
+474,pizza schmizza,12 inch schmeatza pizza,15,g,35,mg,720,g,22,g,13,g,6,g,0,g,1,g,2,g
+475,pizza schmizza,12 inch schpaghetti and meatball pizza,12,g,25,mg,550,g,28,g,12,g,5,g,0,g,1,g,1,g
+476,pizza schmizza,12 inch spicy thai pizza,10,g,25,mg,430,g,23,g,12,g,4.5,g,0,g,1,g,2,g
+477,pizza schmizza,12 inch steak and potato pizza,11,g,25,mg,500,g,23,g,11,g,4.5,g,0,g,1,g,2,g
+478,pizza schmizza,12 inch sweet and sour chicken pizza,9,g,25,mg,430,g,27,g,11,g,3.5,g,0,g,1,g,5,g
+479,pizza schmizza,12 inch traditional pizza,12,g,25,mg,560,g,23,g,10,g,4.5,g,0,g,1,g,2,g
+480,pizza schmizza,12 inch veggie baby pizza,11,g,25,mg,420,g,23,g,9,g,5,g,0,g,1,g,2,g
+481,pizza schmizza,12 inch yucateco garlic noodle pizza,10,g,30,mg,510,g,30,g,13,g,4.5,g,0,g,2,g,2,g
+482,pizza schmizza,12 inch zorba pizza,10,g,30,mg,520,g,23,g,12,g,4.5,g,0,g,1,g,2,g
+483,pizza schmizza,14 inch alligator pie,15,g,40,mg,770,g,41,g,17,g,7,g,0,g,2,g,3,g
+484,pizza schmizza,14 inch bbq chicken pizza,11,g,35,mg,660,g,34,g,16,g,6,g,0,g,2,g,4,g
+485,pizza schmizza,14 inch burrito pizza,11,g,25,mg,610,g,32,g,11,g,5,g,0,g,2,g,1,g
+486,pizza schmizza,14 inch cheese pizza,14,g,30,mg,670,g,31,g,14,g,7,g,0,g,1,g,2,g
+487,pizza schmizza,14 inch cochino chicken pizza,15,g,45,mg,780,g,32,g,18,g,8,g,0,g,1,g,2,g
+488,pizza schmizza,14 inch combo classico pizza,13,g,25,mg,630,g,32,g,12,g,5,g,0,g,1,g,2,g
+489,pizza schmizza,14 inch creole pizza,11,g,35,mg,600,g,32,g,15,g,5,g,0,g,2,g,2,g
+490,pizza schmizza,14 inch don ho pizza,11,g,30,mg,680,g,35,g,13,g,5,g,0,g,1,g,5,g
+491,pizza schmizza,14 inch extreme veggie pizza,11,g,20,mg,580,g,34,g,11,g,4.5,g,0,g,2,g,3,g
+492,pizza schmizza,14 inch foo foo pizza,12,g,25,mg,660,g,35,g,13,g,6,g,0,g,3,g,3,g
+493,pizza schmizza,14 inch genoa pizza,18,g,40,mg,900,g,32,g,15,g,7,g,0,g,1,g,2,g
+494,pizza schmizza,14 inch greek veggie pizza,12,g,25,mg,640,g,33,g,12,g,5,g,0,g,2,g,3,g
+495,pizza schmizza,14 inch green chicken pie,13,g,40,mg,750,g,34,g,17,g,6,g,0,g,2,g,2,g
+496,pizza schmizza,14 inch italiano pizza,12,g,40,mg,660,g,39,g,17,g,6,g,0,g,2,g,2,g
+497,pizza schmizza,14 inch margherita pizza,11,g,25,mg,480,g,31,g,11,g,5,g,0,g,1,g,1,g
+498,pizza schmizza,14 inch no kiss tonight pizza,15,g,50,mg,640,g,31,g,16,g,7,g,0,g,1,g,2,g
+499,pizza schmizza,14 inch ol hickory pizza,15,g,30,mg,690,g,33,g,13,g,8,g,0,g,2,g,2,g
+500,pizza schmizza,14 inch pepperoni pizza,14,g,30,mg,690,g,31,g,13,g,6,g,0,g,1,g,2,g
+501,pizza schmizza,14 inch popeye and olive oil pizza,14,g,35,mg,580,g,31,g,12,g,7,g,0,g,1,g,2,g
+502,pizza schmizza,14 inch rustic pie,12,g,25,mg,640,g,34,g,12,g,6,g,0,g,2,g,2,g
+503,pizza schmizza,14 inch schmeatza pizza,20,g,50,mg,1030,g,32,g,18,g,8,g,0,g,1,g,2,g
+504,pizza schmizza,14 inch schpaghetti and meatball pizza,15,g,35,mg,760,g,40,g,16,g,7,g,0,g,2,g,2,g
+505,pizza schmizza,14 inch spicy thai pizza,13,g,35,mg,580,g,32,g,16,g,6,g,0,g,2,g,2,g
+506,pizza schmizza,14 inch steak and potato pizza,14,g,35,mg,680,g,33,g,14,g,6,g,0,g,2,g,2,g
+507,pizza schmizza,14 inch sweet and sour chicken pizza,11,g,30,mg,590,g,40,g,15,g,5,g,0,g,2,g,10,g
+508,pizza schmizza,14 inch traditional pizza,14,g,30,mg,740,g,32,g,13,g,6,g,0,g,2,g,2,g
+509,pizza schmizza,14 inch veggie baby pizza,14,g,35,mg,580,g,32,g,12,g,7,g,0,g,2,g,2,g
+510,pizza schmizza,14 inch yucateco garlic noodle pizza,12,g,40,mg,690,g,42,g,18,g,6,g,0,g,3,g,3,g
+511,pizza schmizza,14 inch zorba pizza,13,g,40,mg,720,g,33,g,16,g,6,g,0,g,2,g,3,g
+512,pizza schmizza,16 inch alligator pie,20,g,50,mg,1010,g,53,g,23,g,9,g,0,g,3,g,4,g
+513,pizza schmizza,16 inch bbq chicken pizza,15,g,50,mg,870,g,44,g,21,g,7,g,0,g,2,g,5,g
+514,pizza schmizza,16 inch burrito pizza,15,g,35,mg,810,g,42,g,15,g,7,g,0,g,2,g,2,g
+515,pizza schmizza,16 inch cheese pizza,18,g,40,mg,850,g,40,g,18,g,9,g,0,g,2,g,2,g
+516,pizza schmizza,16 inch cochino chicken pizza,20,g,55,mg,1010,g,41,g,24,g,10,g,0,g,2,g,3,g
+517,pizza schmizza,16 inch combo classico pizza,17,g,35,mg,840,g,41,g,16,g,7,g,0,g,2,g,3,g
+518,pizza schmizza,16 inch creole pizza,15,g,45,mg,800,g,42,g,20,g,7,g,0,g,2,g,3,g
+519,pizza schmizza,16 inch don ho pizza,15,g,40,mg,910,g,47,g,18,g,7,g,0,g,2,g,9,g
+520,pizza schmizza,16 inch extreme veggie pizza,15,g,30,mg,770,g,44,g,15,g,6,g,0,g,3,g,4,g
+521,pizza schmizza,16 inch foo foo pizza,17,g,35,mg,850,g,46,g,17,g,7,g,0,g,4,g,4,g
+522,pizza schmizza,16 inch genoa pizza,24,g,55,mg,1160,g,41,g,20,g,10,g,0,g,2,g,3,g
+523,pizza schmizza,16 inch greek veggie pizza,16,g,35,mg,830,g,43,g,16,g,7,g,0,g,2,g,3,g
+524,pizza schmizza,16 inch green chicken pie,17,g,50,mg,970,g,44,g,22,g,8,g,0,g,3,g,3,g
+525,pizza schmizza,16 inch italiano pizza,16,g,50,mg,860,g,50,g,22,g,8,g,0,g,3,g,3,g
+526,pizza schmizza,16 inch margherita pizza,15,g,35,mg,650,g,40,g,15,g,7,g,0,g,2,g,2,g
+527,pizza schmizza,16 inch no kiss tonight pizza,20,g,65,mg,850,g,41,g,22,g,10,g,0,g,2,g,2,g
+528,pizza schmizza,16 inch ol hickory pizza,21,g,40,mg,930,g,44,g,18,g,11,g,0,g,2,g,3,g
+529,pizza schmizza,16 inch pepperoni pizza,19,g,40,mg,930,g,40,g,17,g,8,g,0,g,2,g,3,g
+530,pizza schmizza,16 inch popeye and olive oil pizza,19,g,45,mg,760,g,41,g,16,g,10,g,0,g,2,g,2,g
+531,pizza schmizza,16 inch rustic pie,17,g,35,mg,850,g,44,g,16,g,8,g,0,g,2,g,3,g
+532,pizza schmizza,16 inch schmeatza pizza,27,g,65,mg,1320,g,41,g,23,g,11,g,0,g,2,g,3,g
+533,pizza schmizza,16 inch schpaghetti and meatball pizza,20,g,50,mg,990,g,52,g,21,g,9,g,0,g,2,g,3,g
+534,pizza schmizza,16 inch spicy thai pizza,18,g,45,mg,780,g,42,g,22,g,8,g,0,g,2,g,3,g
+535,pizza schmizza,16 inch steak and potato pizza,19,g,45,mg,920,g,43,g,19,g,8,g,0,g,2,g,3,g
+536,pizza schmizza,16 inch sweet and sour chicken pizza,15,g,45,mg,790,g,50,g,20,g,7,g,0,g,2,g,11,g
+537,pizza schmizza,16 inch traditional pizza,20,g,40,mg,990,g,42,g,17,g,8,g,0,g,2,g,3,g
+538,pizza schmizza,16 inch veggie baby pizza,19,g,45,mg,760,g,42,g,16,g,10,g,0,g,2,g,3,g
+539,pizza schmizza,16 inch yucateco garlic noodle pizza,17,g,50,mg,910,g,55,g,24,g,8,g,0,g,4,g,4,g
+540,pizza schmizza,16 inch zorba pizza,17,g,50,mg,940,g,43,g,22,g,8,g,0,g,2,g,4,g
+541,pizza schmizza,18 inch alligator pie,25,g,65,mg,1250,g,67,g,28,g,11,g,0,g,3,g,5,g
+542,pizza schmizza,18 inch bbq chicken pizza,19,g,60,mg,1070,g,55,g,25,g,9,g,0,g,2,g,6,g
+543,pizza schmizza,18 inch burrito pizza,19,g,40,mg,980,g,53,g,19,g,9,g,0,g,3,g,2,g
+544,pizza schmizza,18 inch cheese pizza,23,g,55,mg,1110,g,51,g,24,g,11,g,0,g,2,g,3,g
+545,pizza schmizza,18 inch cochino chicken pizza,24,g,70,mg,1250,g,53,g,29,g,12,g,0,g,2,g,4,g
+546,pizza schmizza,18 inch combo classico pizza,21,g,45,mg,1020,g,52,g,20,g,9,g,0,g,2,g,3,g
+547,pizza schmizza,18 inch creole pizza,18,g,55,mg,990,g,53,g,25,g,8,g,0,g,3,g,4,g
+548,pizza schmizza,18 inch don ho pizza,18,g,50,mg,1130,g,58,g,22,g,8,g,0,g,2,g,10,g
+549,pizza schmizza,18 inch extreme veggie pizza,18,g,35,mg,950,g,56,g,19,g,8,g,0,g,3,g,4,g
+550,pizza schmizza,18 inch foo foo pizza,21,g,45,mg,1060,g,58,g,21,g,9,g,0,g,5,g,5,g
+551,pizza schmizza,18 inch genoa pizza,29,g,65,mg,1400,g,52,g,24,g,12,g,0,g,2,g,3,g
+552,pizza schmizza,18 inch greek veggie pizza,20,g,45,mg,1030,g,55,g,20,g,9,g,0,g,3,g,4,g
+553,pizza schmizza,18 inch green chicken pie,21,g,60,mg,1210,g,56,g,27,g,9,g,0,g,4,g,4,g
+554,pizza schmizza,18 inch italiano pizza,20,g,60,mg,1070,g,62,g,27,g,9,g,0,g,3,g,4,g
+555,pizza schmizza,18 inch margherita pizza,19,g,40,mg,800,g,50,g,18,g,8,g,0,g,2,g,2,g
+556,pizza schmizza,18 inch no kiss tonight pizza,24,g,75,mg,1050,g,52,g,27,g,12,g,0,g,2,g,3,g
+557,pizza schmizza,18 inch ol hickory pizza,25,g,50,mg,1140,g,55,g,22,g,13,g,0,g,3,g,4,g
+558,pizza schmizza,18 inch pepperoni pizza,23,g,50,mg,1150,g,51,g,21,g,10,g,0,g,2,g,3,g
+559,pizza schmizza,18 inch popeye and olive oil pizza,24,g,60,mg,940,g,51,g,20,g,12,g,0,g,2,g,3,g
+560,pizza schmizza,18 inch rustic pie,21,g,45,mg,1030,g,56,g,20,g,9,g,0,g,3,g,4,g
+561,pizza schmizza,18 inch schmeatza pizza,32,g,75,mg,1590,g,52,g,28,g,13,g,0,g,2,g,4,g
+562,pizza schmizza,18 inch schpaghetti and meatball pizza,25,g,60,mg,1230,g,65,g,26,g,12,g,0,g,3,g,3,g
+563,pizza schmizza,18 inch spicy thai pizza,22,g,55,mg,960,g,53,g,27,g,10,g,0,g,3,g,4,g
+564,pizza schmizza,18 inch steak and potato pizza,23,g,55,mg,1130,g,55,g,24,g,10,g,0,g,3,g,4,g
+565,pizza schmizza,18 inch sweet and sour chicken pizza,19,g,55,mg,970,g,61,g,25,g,8,g,0,g,3,g,11,g
+566,pizza schmizza,18 inch traditional pizza,24,g,50,mg,1230,g,53,g,21,g,10,g,0,g,2,g,4,g
+567,pizza schmizza,18 inch veggie baby pizza,23,g,60,mg,940,g,53,g,20,g,12,g,0,g,3,g,4,g
+568,pizza schmizza,18 inch yucateco garlic noodle pizza,21,g,60,mg,1120,g,69,g,30,g,9,g,0,g,5,g,5,g
+569,pizza schmizza,18 inch zorba pizza,21,g,60,mg,1160,g,54,g,27,g,9,g,0,g,3,g,4,g
+570,pizza schmizza,cajunator alligator pasta,65,g,75,mg,1790,g,107,g,38,g,16,g,0,g,5,g,5,g
+571,pizza schmizza,cajunator chicken pasta,54,g,75,mg,1490,g,107,g,41,g,12,g,0,g,5,g,4,g
+572,pizza schmizza,frikin chicken pasta,56,g,80,mg,1540,g,106,g,44,g,13,g,0,g,6,g,3,g
+573,pizza schmizza,garden noodle pasta,69,g,25,mg,1020,g,113,g,29,g,12,g,0,g,7,g,6,g
+574,pizza schmizza,large caesar salad,38,g,40,mg,1330,g,20,g,15,g,9,g,0,g,3,g,4,g
+575,pizza schmizza,large chicken caesar salad,40,g,80,mg,1570,g,21,g,30,g,10,g,0,g,3,g,4,g
+576,pizza schmizza,large chicken greek salad,44,g,65,mg,1560,g,21,g,25,g,11,g,0,g,5,g,9,g
+577,pizza schmizza,large greek salad,43,g,25,mg,1310,g,20,g,10,g,10,g,0,g,5,g,8,g
+578,pizza schmizza,large steak caesar salad,42,g,70,mg,1680,g,21,g,26,g,10,g,0,g,4,g,4,g
+579,pizza schmizza,large steak greek salad,46,g,50,mg,1670,g,21,g,21,g,12,g,0,g,6,g,9,g
+580,pizza schmizza,schpaghetti and meatball pasta,34,g,75,mg,2650,g,124,g,44,g,13,g,0,g,6,g,6,g
+581,pizza schmizza,side caesar salad,19,g,20,mg,660,g,10,g,8,g,4.5,g,0,g,1,g,2,g
+582,pizza schmizza,side chicken caesar salad,20,g,40,mg,790,g,10,g,15,g,5,g,0,g,1,g,2,g
+583,pizza schmizza,side chicken greek salad,22,g,30,mg,780,g,10,g,13,g,5,g,0,g,2,g,4,g
+584,pizza schmizza,side greek salad,21,g,10,mg,660,g,10,g,5,g,5,g,0,g,2,g,4,g
+585,pizza schmizza,side steak caesar salad,21,g,35,mg,840,g,10,g,13,g,5,g,0,g,2,g,2,g
+586,pizza schmizza,side steak greek salad,23,g,25,mg,830,g,10,g,10,g,6,g,0,g,3,g,5,g
+587,pizza schmizza,steak strip alfredo pasta,73,g,145,mg,1670,g,112,g,40,g,28,g,0,g,5,g,9,g
+588,pizza shoppe,5 cheese roma pizza,8,g,20,mg,380,g,21,g,9,g,4,g,0,g,1,g,1,g
+589,pizza shoppe,bbq chicken pizza,8,g,30,mg,580,g,22,g,14,g,4,g,0,g,1,g,2,g
+590,pizza shoppe,big shoppe house salad,24,g,85,mg,1600,g,10,g,32,g,12,g,0,g,4,g,3,g
+591,pizza shoppe,blt salad,29,g,95,mg,1200,g,10,g,35,g,15,g,0,g,3,g,5,g
+592,pizza shoppe,butcher block pizza,21,g,45,mg,1170,g,24,g,22,g,9,g,0,g,2,g,2,g
+593,pizza shoppe,cannelloni,25,g,120,mg,2430,g,48,g,39,g,11,g,0,g,4,g,11,g
+594,pizza shoppe,cheese pizza,8,g,20,mg,380,g,21,g,12,g,5,g,0,g,1,g,1,g
+595,pizza shoppe,chicken pepper jack sandwich,23,g,105,mg,1410,g,39,g,37,g,11,g,0,g,1,g,2,g
+596,pizza shoppe,chicken sink pizza,12,g,40,mg,620,g,22,g,15,g,6,g,0,g,1,g,2,g
+597,pizza shoppe,classic chicken salad,18,g,95,mg,1360,g,11,g,34,g,10,g,0,g,3,g,6,g
+598,pizza shoppe,corned beef sandwich,18,g,75,mg,2330,g,38,g,43,g,8,g,0,g,2,g,2,g
+599,pizza shoppe,garden supreme pizza,8,g,20,mg,460,g,22,g,11,g,5,g,0,g,2,g,2,g
+600,pizza shoppe,garlic bread,15,g,0,mg,250,g,17,g,4,g,2.5,g,1.5,g,0,g,1,g
+601,pizza shoppe,garlic bread with cheese,27,g,30,mg,550,g,20,g,19,g,10,g,1.5,g,0,g,2,g
+602,pizza shoppe,ham n cheese sandwich,22,g,100,mg,2050,g,27,g,41,g,10,g,0,g,1,g,4,g
+603,pizza shoppe,italian salad,32,g,115,mg,2360,g,12,g,34,g,17,g,0,g,3,g,3,g
+604,pizza shoppe,italian sub sandwich,48,g,120,mg,2440,g,39,g,45,g,22,g,0,g,3,g,4,g
+605,pizza shoppe,lasagna,26,g,70,mg,2700,g,60,g,35,g,13,g,0,g,7,g,21,g
+606,pizza shoppe,manicotti,29,g,110,mg,2270,g,48,g,33,g,15,g,0,g,4,g,13,g
+607,pizza shoppe,meatball sub sandwich,38,g,115,mg,1830,g,45,g,40,g,16,g,0.5,g,3,g,5,g
+608,pizza shoppe,roast beef sandwich,23,g,100,mg,1680,g,26,g,43,g,11,g,0,g,1,g,3,g
+609,pizza shoppe,round table pizza,12,g,25,mg,690,g,23,g,14,g,6,g,0,g,2,g,2,g
+610,pizza shoppe,shoppe house salad,9,g,25,mg,310,g,3,g,10,g,5,g,0,g,1,g,1,g
+611,pizza shoppe,single topping pizza chicken,7,g,25,mg,520,g,21,g,14,g,3,g,0,g,1,g,1,g
+612,pizza shoppe,single topping pizza hamburger,11,g,20,mg,800,g,23,g,15,g,5,g,0,g,2,g,2,g
+613,pizza shoppe,single topping pizza italian sausage,16,g,30,mg,740,g,22,g,14,g,7,g,0,g,2,g,1,g
+614,pizza shoppe,single topping pizza pepperoni,11,g,25,mg,500,g,21,g,11,g,5,g,0,g,1,g,1,g
+615,pizza shoppe,single topping pizza sausage,13,g,25,mg,750,g,23,g,15,g,6,g,0,g,2,g,2,g
+616,pizza shoppe,spaghetti with meatballs,32,g,85,mg,2320,g,84,g,39,g,12,g,0.5,g,7,g,13,g
+617,pizza studio,7 inch firecracker crust,3,g,0,mg,440,g,42,g,7,g,0,g,0,g,1,g,1,g
+618,pizza studio,7 inch rosemary herb crust,3,g,0,mg,440,g,42,g,7,g,0,g,0,g,1,g,0,g
+619,pizza studio,7 inch traditional crust,1,g,0,mg,300,g,42,g,7,g,0,g,0,g,0,g,0,g
+620,pizza studio,7 inch whole grain and flax seed crust,5,g,0,mg,410,g,37,g,7,g,0,g,0,g,3,g,0,g
+621,pizza studio,alfredo sauce,4,g,5,mg,135,g,1,g,1,g,2,g,0,g,0,g,1,g
+622,pizza studio,artichoke,0,g,0,mg,105,g,2,g,0,g,0,g,0,g,1,g,0,g
+623,pizza studio,asian chicken salad,33,g,45,mg,1890,g,35,g,26,g,0,g,0,g,3,g,13,g
+624,pizza studio,baby beets marinated,2,g,0,mg,380,g,10,g,1,g,0,g,0,g,1,g,8,g
+625,pizza studio,backyard bbq chicken pizza,34,g,95,mg,270,g,109,g,40,g,19,g,0,g,1,g,19,g
+626,pizza studio,bacon and ham focaccia,53,g,220,mg,3370,g,34,g,48,g,19,g,0,g,1,g,1,g
+627,pizza studio,banana pepper,0,g,0,mg,290,g,0,g,0,g,0,g,0,g,0,g,0,g
+628,pizza studio,basil pesto sauce,9,g,5,mg,180,g,0,g,2,g,1,g,0,g,0,g,0,g
+629,pizza studio,basil tzatziki vinaigrette dressing,6,g,15,mg,300,g,2,g,3,g,2,g,0,g,0,g,2,g
+630,pizza studio,bbq chicken pizza,29,g,110,mg,2240,g,123,g,45,g,17,g,0,g,1,g,34,g
+631,pizza studio,bbq chopped chicken salad,25,g,80,mg,1550,g,27,g,34,g,6,g,0,g,2,g,3,g
+632,pizza studio,beet and goat cheese salad,22,g,5,mg,950,g,22,g,7,g,5,g,0,g,5,g,13,g
+633,pizza studio,beet and goat cheese salad side,11,g,5,mg,470,g,11,g,3,g,2,g,0,g,3,g,7,g
+634,pizza studio,beets,0,g,0,mg,230,g,10,g,1,g,0,g,0,g,2,g,7,g
+635,pizza studio,big cheese margherita pizza,34,g,105,mg,1990,g,89,g,45,g,19,g,0,g,3,g,5,g
+636,pizza studio,black beans,0,g,0,mg,35,g,5,g,2,g,0,g,0,g,2,g,0,g
+637,pizza studio,blue cheese dressing,8,g,5,mg,115,g,0,g,0,g,1,g,0,g,0,g,0,g
+638,pizza studio,blue cheese litehouse dressing,8,g,10,mg,100,g,0,g,0,g,1,g,0,g,0,g,0,g
+639,pizza studio,bone in bbq wings large,40,g,300,mg,2130,g,22,g,60,g,12,g,0,g,0,g,16,g
+640,pizza studio,bone in bbq wings small,20,g,150,mg,1070,g,11,g,30,g,6,g,0,g,0,g,8,g
+641,pizza studio,bone in buffalo wings large,40,g,300,mg,2760,g,4,g,60,g,12,g,0,g,0,g,0,g
+642,pizza studio,bone in buffalo wings small,20,g,150,mg,1380,g,2,g,30,g,6,g,0,g,0,g,0,g
+643,pizza studio,bone in wings large,40,g,300,mg,1840,g,4,g,60,g,12,g,0,g,0,g,0,g
+644,pizza studio,bone in wings small,20,g,150,mg,920,g,2,g,30,g,6,g,0,g,0,g,0,g
+645,pizza studio,boneless bbq wings bbq,36,g,500,mg,2010,g,74,g,56,g,6,g,0,g,0,g,16,g
+646,pizza studio,boneless bbq wings small,18,g,250,mg,1010,g,37,g,28,g,3,g,0,g,0,g,8,g
+647,pizza studio,boneless buffalo wings large,36,g,500,mg,2640,g,56,g,56,g,6,g,0,g,0,g,0,g
+648,pizza studio,boneless buffalo wings small,18,g,250,mg,1320,g,28,g,28,g,3,g,0,g,0,g,0,g
+649,pizza studio,boneless chicken wings large,36,g,500,mg,1720,g,56,g,56,g,6,g,0,g,0,g,0,g
+650,pizza studio,boneless chicken wings small,18,g,250,mg,860,g,28,g,28,g,3,g,0,g,0,g,0,g
+651,pizza studio,breakfast pizza with bacon,31,g,155,mg,1830,g,94,g,28,g,11,g,0,g,2,g,3,g
+652,pizza studio,breakfast pizza with sausage,33,g,155,mg,1830,g,94,g,30,g,11,g,0,g,2,g,3,g
+653,pizza studio,broccoli,0,g,0,mg,10,g,1,g,1,g,0,g,0,g,0,g,0,g
+654,pizza studio,buffalo chicken pizza,39,g,115,mg,3530,g,87,g,46,g,17,g,0,g,3,g,4,g
+655,pizza studio,caesar salad side,17,g,20,mg,780,g,6,g,9,g,4,g,0,g,2,g,2,g
+656,pizza studio,caramelized onion,0,g,0,mg,35,g,1,g,0,g,0,g,0,g,0,g,1,g
+657,pizza studio,cauliflower crust,10,g,40,mg,800,g,64,g,12,g,6,g,0,g,2,g,2,g
+658,pizza studio,cheese pizza,27,g,0,mg,0,g,0,g,17,g,15,g,0,g,0,g,0,g
+659,pizza studio,chicken alfredo pizza,39,g,125,mg,2200,g,91,g,50,g,21,g,0,g,1,g,3,g
+660,pizza studio,chicken sausage,3,g,20,mg,140,g,1,g,5,g,1,g,0,g,0,g,0,g
+661,pizza studio,chile roasted corn,1,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,2,g
+662,pizza studio,chipotle roasted pineapple,2,g,0,mg,0,g,16,g,0,g,0,g,0,g,0,g,15,g
+663,pizza studio,chocolate chip cookie,14,g,35,mg,230,g,44,g,3,g,8,g,0,g,2,g,29,g
+664,pizza studio,chocolate chip cookie bites,56,g,140,mg,920,g,176,g,12,g,32,g,0,g,8,g,116,g
+665,pizza studio,chocolate chunk cookie,8,g,20,mg,140,g,27,g,2,g,5,g,0,g,0,g,17,g
+666,pizza studio,chopped antipasto salad,60,g,40,mg,1530,g,14,g,8,g,6,g,0,g,0,g,8,g
+667,pizza studio,chopped greek salad,15,g,155,mg,140,g,23,g,14,g,6,g,0,g,9,g,13,g
+668,pizza studio,chopped greek salad side,7,g,75,mg,710,g,11,g,7,g,3,g,0,g,4,g,7,g
+669,pizza studio,chopped kale,0,g,0,mg,20,g,5,g,0,g,0,g,0,g,0,g,0,g
+670,pizza studio,cilantro crema dressing,3,g,15,mg,390,g,2,g,2,g,2,g,0,g,0,g,2,g
+671,pizza studio,classic chicken caesar salad,57,g,90,mg,2450,g,12,g,23,g,12,g,0,g,0,g,4,g
+672,pizza studio,crispy bacon,5,g,5,mg,330,g,0,g,0,g,2,g,0,g,0,g,0,g
+673,pizza studio,crouton finish,1,g,0,mg,80,g,4,g,1,g,0,g,0,g,0,g,0,g
+674,pizza studio,cucumber,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+675,pizza studio,cucumber lemonade,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,0,g,2,g
+676,pizza studio,daiya cheese,3,g,0,mg,140,g,4,g,0,g,1,g,0,g,0,g,0,g
+677,pizza studio,diced ham,2,g,30,mg,720,g,3,g,9,g,1,g,0,g,0,g,2,g
+678,pizza studio,dried cranberry finish,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,1,g,1,g
+679,pizza studio,egg and cheese focaccia,21,g,150,mg,530,g,3,g,12,g,3,g,0,g,1,g,1,g
+680,pizza studio,entree chicken ceasar salad,57,g,80,mg,1960,g,14,g,20,g,14,g,0,g,0,g,4,g
+681,pizza studio,entree greek salad,46,g,15,mg,1580,g,21,g,4,g,10,g,0,g,0,g,13,g
+682,pizza studio,evoo sauce,28,g,0,mg,0,g,0,g,0,g,2,g,0,g,0,g,0,g
+683,pizza studio,feta cheese,6,g,15,mg,350,g,1,g,4,g,3,g,0,g,0,g,0,g
+684,pizza studio,firecracker crust,6,g,0,mg,870,g,84,g,15,g,0,g,0,g,3,g,3,g
+685,pizza studio,garden pizza,39,g,75,mg,1820,g,89,g,36,g,15,g,0,g,10,g,9,g
+686,pizza studio,gluten free crust,14,g,40,mg,840,g,86,g,8,g,4,g,0,g,4,g,4,g
+687,pizza studio,goat cheese,6,g,10,mg,130,g,1,g,4,g,4,g,0,g,0,g,0,g
+688,pizza studio,grape tomato,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,4,g
+689,pizza studio,greek yogurt caesar dressing,26,g,20,mg,800,g,4,g,2,g,5,g,0,g,0,g,2,g
+690,pizza studio,greek yogurt caesar litehouse dressing,12,g,10,mg,500,g,4,g,4,g,2,g,0,g,0,g,2,g
+691,pizza studio,greek yogurt tzatziki ranch litehouse dressing,3,g,0,mg,400,g,4,g,4,g,0,g,0,g,0,g,4,g
+692,pizza studio,grilled chicken breast,1,g,20,mg,90,g,1,g,6,g,1,g,0,g,0,g,0,g
+693,pizza studio,hibiscus blueberry cooler,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,2,g
+694,pizza studio,homemade lemonade,0,g,0,mg,0,g,36,g,2,g,0,g,0,g,2,g,35,g
+695,pizza studio,house salad side,18,g,0,mg,500,g,14,g,0,g,3,g,0,g,1,g,10,g
+696,pizza studio,housemade parmesan breadsticks,27,g,20,mg,1150,g,49,g,11,g,3,g,0,g,0,g,5,g
+697,pizza studio,iced black tea,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+698,pizza studio,italian meatball,7,g,15,mg,180,g,2,g,4,g,2,g,0,g,0,g,0,g
+699,pizza studio,jalapeno,0,g,0,mg,150,g,0,g,0,g,0,g,0,g,0,g,0,g
+700,pizza studio,kale chicken caesar salad,35,g,40,mg,150,g,13,g,18,g,9,g,0,g,3,g,3,g
+701,pizza studio,lemon cooler cookie,9,g,25,mg,150,g,26,g,2,g,6,g,0,g,0,g,16,g
+702,pizza studio,marinated artichokes,2,g,0,mg,120,g,2,g,1,g,0,g,0,g,1,g,1,g
+703,pizza studio,mozzarella cheese,21,g,75,mg,540,g,0,g,18,g,14,g,0,g,0,g,0,g
+704,pizza studio,napa cabbage,0,g,0,mg,80,g,3,g,2,g,0,g,0,g,1,g,1,g
+705,pizza studio,oatmeal raisin cookie,9,g,15,mg,230,g,47,g,4,g,3,g,0,g,3,g,18,g
+706,pizza studio,olive,3,g,0,mg,230,g,2,g,0,g,0,g,0,g,0,g,0,g
+707,pizza studio,olive oil garlic finish,3,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+708,pizza studio,peanut butter cookie,16,g,10,mg,440,g,38,g,5,g,6,g,0,g,2,g,23,g
+709,pizza studio,peanut butter cookie bites,64,g,40,mg,1760,g,152,g,20,g,24,g,0,g,8,g,92,g
+710,pizza studio,pepperoni,11,g,30,mg,510,g,0,g,6,g,4,g,0,g,0,g,0,g
+711,pizza studio,pineapple chunks,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,4,g
+712,pizza studio,pork sausage,12,g,30,mg,500,g,3,g,8,g,4,g,0,g,1,g,1,g
+713,pizza studio,ranch litehouse dressing,18,g,15,mg,300,g,3,g,2,g,1,g,0,g,0,g,2,g
+714,pizza studio,ranch litehouse finish,12,g,10,mg,200,g,2,g,1,g,1,g,0,g,0,g,1,g
+715,pizza studio,raspberry agave limeade,0,g,0,mg,5,g,30,g,0,g,0,g,0,g,0,g,26,g
+716,pizza studio,red cabbage,0,g,0,mg,15,g,4,g,0,g,0,g,0,g,1,g,2,g
+717,pizza studio,red wine vinegar litehouse dressing,22,g,0,mg,280,g,4,g,0,g,2,g,0,g,0,g,2,g
+718,pizza studio,roasted mushrooms,3,g,0,mg,0,g,3,g,2,g,0,g,0,g,0,g,1,g
+719,pizza studio,roasted potatoes,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,0,g
+720,pizza studio,roasted red pepper strips,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+721,pizza studio,roasted zucchini,0,g,0,mg,10,g,3,g,1,g,0,g,0,g,0,g,2,g
+722,pizza studio,roma tomato,0,g,0,mg,0,g,5,g,1,g,0,g,0,g,1,g,4,g
+723,pizza studio,romaine,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+724,pizza studio,rosemary herb crust,6,g,0,mg,870,g,84,g,15,g,0,g,0,g,3,g,1,g
+725,pizza studio,sausage and peppers pizza,35,g,110,mg,1960,g,89,g,43,g,17,g,0,g,3,g,3,g
+726,pizza studio,shredded carrot,0,g,0,mg,25,g,3,g,0,g,0,g,0,g,1,g,2,g
+727,pizza studio,skinny greek pizza,53,g,40,mg,2340,g,92,g,3,g,11,g,0,g,10,g,10,g
+728,pizza studio,slivered almonds finish,2,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+729,pizza studio,smoked pulled chicken breast,1,g,30,mg,450,g,0,g,10,g,0,g,0,g,0,g,0,g
+730,pizza studio,smoky ranch dressing,22,g,20,mg,500,g,2,g,0,g,3,g,0,g,0,g,0,g
+731,pizza studio,smoky ranch finish,6,g,5,mg,100,g,1,g,0,g,0,g,0,g,0,g,0,g
+732,pizza studio,southwestern bbq salad,44,g,285,mg,90,g,340,g,8,g,5,g,2,g,8,g,16,g
+733,pizza studio,southwestern bbq salad side,22,g,145,mg,450,g,195,g,4,g,2,g,1,g,4,g,8,g
+734,pizza studio,spicy buffalo sauce,0,g,0,mg,920,g,0,g,0,g,0,g,0,g,0,g,0,g
+735,pizza studio,spinach and tomato focaccia,31,g,160,mg,740,g,36,g,15,g,4,g,0,g,1,g,4,g
+736,pizza studio,strawberry lemonade,0,g,0,mg,0,g,17,g,2,g,0,g,0,g,0,g,14,g
+737,pizza studio,tangy bbq sauce,0,g,0,mg,290,g,18,g,0,g,0,g,0,g,0,g,16,g
+738,pizza studio,the beast pizza,65,g,165,mg,3460,g,92,g,60,g,30,g,0,g,3,g,4,g
+739,pizza studio,tomato blend sauce,0,g,0,mg,125,g,3,g,0,g,0,g,0,g,1,g,2,g
+740,pizza studio,traditional crust,2,g,0,mg,900,g,84,g,15,g,0,g,0,g,1,g,1,g
+741,pizza studio,triple chocolate cookie,14,g,40,mg,200,g,43,g,3,g,9,g,0,g,2,g,28,g
+742,pizza studio,truffled mushroom pizza,43,g,90,mg,1740,g,90,g,38,g,18,g,0,g,2,g,4,g
+743,pizza studio,turkey chorizo,3,g,25,mg,180,g,1,g,5,g,0,g,0,g,0,g,0,g
+744,pizza studio,vegan beast pizza,15,g,0,mg,1530,g,100,g,24,g,2,g,0,g,3,g,3,g
+745,pizza studio,vegan meatball,2,g,0,mg,115,g,3,g,4,g,0,g,0,g,1,g,0,g
+746,pizza studio,vegan pizza,13,g,0,mg,1780,g,99,g,18,g,1,g,0,g,5,g,4,g
+747,pizza studio,vegan soy crumble,1,g,0,mg,210,g,3,g,5,g,0,g,0,g,0,g,0,g
+748,pizza studio,vegan veggie pizza,40,g,0,mg,1010,g,97,g,18,g,3,g,0,g,3,g,6,g
+749,pizza studio,wasabi oriental dressing,18,g,0,mg,960,g,15,g,3,g,0,g,0,g,0,g,12,g
+750,pizza studio,watermelon fresca,0,g,0,mg,0,g,17,g,2,g,0,g,0,g,0,g,14,g
+751,pizza studio,white chocolate macadamia cookie,11,g,20,mg,135,g,25,g,2,g,5,g,0,g,0,g,17,g
+752,pizza studio,whole grain and flax seed crust,10,g,0,mg,810,g,75,g,15,g,0,g,0,g,6,g,1,g
+753,pizza studio,wild style buffalo chicken pizza,29,g,90,mg,3060,g,90,g,36,g,12,g,0,g,1,g,4,g
+754,pizza studio,wonton strips finish,1,g,0,mg,40,g,4,g,1,g,0,g,0,g,0,g,0,g
+755,qdoba,chicken queso burrito,41,g,140,mg,2550,g,127,g,51,g,19,g,1,g,0,g,6,g
+756,qdoba,mango salsa,0,g,0,mg,160,g,6,g,0,g,0,g,0,g,2,g,5,g
+757,qdoba,double chocolate brownie,16,g,15,mg,210,g,52,g,4,g,3,g,0,g,2,g,35,g
+758,qdoba,chocolate chunk cookie,14,g,15,mg,180,g,34,g,2,g,7,g,0,g,1,g,20,g
+759,qdoba,kids quesadilla,12,g,30,mg,510,g,25,g,11,g,6,g,0,g,2,g,1,g
+760,qdoba,kids burrito,15,g,30,mg,1040,g,67,g,18,g,7,g,0,g,10,g,2,g
+761,qdoba,taco with chicken,11,g,65,mg,360,g,11,g,16,g,4.5,g,0,g,2,g,1,g
+762,qdoba,taco with beef,12,g,50,mg,370,g,11,g,15,g,5,g,0.5,g,1,g,1,g
+763,qdoba,beans with cheese side dish,3,g,10,mg,400,g,24,g,10,g,1.5,g,0,g,14,g,1,g
+764,qdoba,three cheese queso,15,g,50,mg,710,g,6,g,6,g,10,g,0.5,g,0,g,1,g
+765,qdoba,corn tortilla chips,26,g,0,mg,220,g,75,g,7,g,5,g,0,g,9,g,2,g
+766,qdoba,grilled adobo chicken,9,g,70,mg,360,g,2,g,16,g,3,g,0,g,0,g,1,g
+767,qdoba,black beans,1,g,0,mg,330,g,24,g,9,g,0,g,0,g,14,g,1,g
+768,qdoba,cilantro lime rice,3,g,0,mg,390,g,38,g,3,g,1,g,0,g,1,g,0,g
+769,qdoba,smoked beef brisket,20,g,70,mg,1220,g,3,g,20,g,8,g,0,g,0,g,1,g
+770,qdoba,queso diablo,7,g,45,mg,360,g,3,g,3,g,4,g,0,g,0,g,1,g
+771,qdoba,seasoned brown rice,2,g,0,mg,410,g,35,g,4,g,0,g,0,g,2,g,1,g
+772,qdoba,hand smashed guacamole,7,g,0,mg,200,g,5,g,1,g,1,g,0,g,0,g,0,g
+773,qdoba,pico de gallo,0,g,0,mg,70,g,3,g,0,g,0,g,0,g,1,g,2,g
+774,qdoba,shredded cheese,9,g,30,mg,180,g,1,g,7,g,5,g,0,g,0,g,0,g
+775,qdoba,flour tortilla 5 5,2,g,0,mg,170,g,12,g,2,g,1,g,0,g,1,g,0,g
+776,qdoba,plant based impossible protein,10,g,0,mg,780,g,9,g,13,g,5,g,0,g,2,g,1,g
+777,qdoba,pinto beans,1,g,0,mg,350,g,23,g,8,g,0,g,0,g,14,g,1,g
+778,qdoba,sour cream,5,g,15,mg,10,g,6,g,1,g,3,g,0,g,0,g,1,g
+779,qdoba,fajita veggies,2,g,0,mg,180,g,4,g,1,g,0,g,0,g,1,g,2,g
+780,qdoba,grilled steak,15,g,50,mg,390,g,4,g,19,g,3,g,0,g,0,g,1,g
+781,qdoba,crunchy flour tortilla bowl,22,g,0,mg,150,g,41,g,7,g,5,g,0,g,0,g,1,g
+782,qdoba,lettuce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+783,qdoba,crispy taco shell,3,g,0,mg,0,g,8,g,1,g,1,g,0,g,1,g,0,g
+784,qdoba,chili corn salsa,1,g,0,mg,105,g,10,g,2,g,0,g,0,g,2,g,1,g
+785,qdoba,salsa roja,0,g,0,mg,460,g,4,g,1,g,0,g,0,g,1,g,2,g
+786,qdoba,crispy corn tortilla strips,3,g,0,mg,30,g,9,g,0,g,0.5,g,0,g,0,g,0,g
+787,qdoba,pulled pork,4,g,70,mg,340,g,9,g,17,g,2,g,0,g,0,g,1,g
+788,qdoba,pickled jalapenos,0,g,0,mg,90,g,3,g,0,g,0,g,0,g,0,g,2,g
+789,qdoba,salsa verde,0,g,0,mg,280,g,3,g,0,g,0,g,0,g,1,g,1,g
+790,qdoba,romaine lettuce,0,g,0,mg,10,g,3,g,0,g,0,g,0,g,0,g,0,g
+791,qdoba,cojita cheese,1.5,g,5,mg,120,g,2,g,2,g,1.5,g,0,g,2,g,2,g
+792,qdoba,chopped cilantro,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+793,qdoba,ground beef,11,g,55,mg,510,g,4,g,17,g,5,g,0,g,1,g,1,g
+794,qdoba,habanero salsa,0,g,0,mg,260,g,3,g,1,g,0,g,0,g,1,g,2,g
+795,qdoba,diced onion,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+796,qdoba,seasoned potatoes,6,g,0,mg,260,g,17,g,2,g,1,g,0,g,2,g,0,g
+797,qdoba,chorizo,13,g,65,mg,790,g,6,g,16,g,5,g,0,g,2,g,1,g
+798,qdoba,eggs,16,g,600,mg,440,g,2,g,19,g,5,g,0,g,0,g,0,g
+799,qdoba,apple sauce,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,1,g,11,g
+800,qdoba,chicken protein bowl,29,g,140,mg,1830,g,48,g,44,g,8,g,0,g,0,g,9,g
+801,qdoba,impossible fajita bowl,15,g,0,mg,1930,g,85,g,28,g,6,g,0,g,0,g,5,g
+802,qdoba,chicken queso bowl,34,g,140,mg,1790,g,75,g,43,g,16,g,1,g,3,g,4,g
+803,qdoba,steak fajita quesadilla,68,g,190,mg,2420,g,72,g,57,g,30,g,2,g,0,g,9,g
+804,qdoba,picante ranch dressing,0,g,0,mg,500,g,10,g,0,g,0,g,0,g,1,g,3,g
+805,qdoba,cilantro lime vinaigrette,10,g,0,mg,360,g,5,g,0,g,1.5,g,0,g,0,g,3,g
+806,qdoba,mexican caesar dressing,13,g,5,mg,3310,g,13,g,2,g,2,g,0,g,0,g,6,g
+807,qdoba,ancho chili bbq sauce,1,g,0,mg,690,g,13,g,1,g,0,g,0,g,1,g,11,g
+808,qdoba,tortilla soup,5,g,0,mg,1390,g,11,g,3,g,1,g,0,g,4,g,2,g
+809,qdoba,street style chicken flour tacos 3,25,g,80,mg,1540,g,52,g,26,g,8,g,0,g,0,g,3,g
+810,qdoba,street style chicken corn tacos 3,22,g,80,mg,1340,g,50,g,24,g,7,g,0,g,0,g,3,g
+811,qdoba,whole wheat flour tortilla 12 5,5,g,0,mg,590,g,47,g,11,g,1,g,0,g,5,g,3,g
+812,qdoba,corn tortillas 5 5,1,g,0,mg,100,g,11,g,1,g,0,g,0,g,1,g,0,g
+813,qdoba,flour tortilla 12 5,7,g,0,mg,760,g,52,g,8,g,3,g,0,g,3,g,2,g
+814,qdoba,flour tortilla 10,5,g,0,mg,490,g,36,g,6,g,2,g,0,g,2,g,1,g
+815,qdoba,3 cheese queso 2 oz,8,g,25,mg,350,g,3,g,3,g,5,g,0,g,0,g,1,g
+816,qdoba,3 cheese queso 4 oz,15,g,50,mg,710,g,6,g,6,g,10,g,0.5,g,0,g,1,g
+817,qdoba,ancho chile bbq sauce,1,g,0,mg,690,g,13,g,1,g,0,g,0,g,1,g,11,g
+818,qdoba,barqs root beer large,0,g,0,mg,135,g,109,g,0,g,0,g,0,g,0,g,109,g
+819,qdoba,barqs root beer regular,0,g,0,mg,90,g,73,g,0,g,0,g,0,g,0,g,73,g
+820,qdoba,black beans,1,g,0,mg,330,g,24,g,9,g,0,g,0,g,14,g,1,g
+821,qdoba,caffeine free diet coke large,0,g,0,mg,120,g,0,g,0,g,0,g,0,g,0,g,0,g
+822,qdoba,caffeine free diet coke regular,0,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+823,qdoba,cherry coca cola large,0,g,0,mg,105,g,105,g,0,g,0,g,0,g,0,g,105,g
+824,qdoba,cherry coca cola regular,0,g,0,mg,70,g,70,g,0,g,0,g,0,g,0,g,70,g
+825,qdoba,chicken protein bowl,29,g,140,mg,1830,g,48,g,44,g,8,g,0,g,0,g,9,g
+826,qdoba,chicken queso bowl,34,g,140,mg,1790,g,75,g,43,g,16,g,1,g,3,g,4,g
+827,qdoba,chicken queso burrito,41,g,140,mg,2550,g,127,g,51,g,19,g,1,g,0,g,6,g
+828,qdoba,chile corn salsa,1,g,0,mg,105,g,10,g,2,g,0,g,0,g,2,g,1,g
+829,qdoba,chocolate chunk cookie,14,g,15,mg,180,g,34,g,2,g,7,g,0,g,1,g,20,g
+830,qdoba,chocolate milk lowfat 1,3,g,10,mg,210,g,29,g,10,g,2,g,0,g,1,g,26,g
+831,qdoba,chorizo,13,g,65,mg,790,g,6,g,16,g,5,g,0,g,2,g,1,g
+832,qdoba,cilantro lime rice,3,g,0,mg,390,g,38,g,3,g,1,g,0,g,1,g,0,g
+833,qdoba,cilantro lime vinaigrette,10,g,0,mg,360,g,5,g,0,g,1.5,g,0,g,0,g,3,g
+834,qdoba,coca cola,0,g,0,mg,75,g,65,g,0,g,0,g,0,g,0,g,65,g
+835,qdoba,coca cola zero large,0,g,0,mg,100,g,0,g,0,g,0,g,0,g,0,g,0,g
+836,qdoba,coca cola zero regular,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+837,qdoba,coca cola large,0,g,0,mg,95,g,100,g,0,g,0,g,0,g,0,g,100,g
+838,qdoba,coca cola regular,0,g,0,mg,65,g,67,g,0,g,0,g,0,g,0,g,67,g
+839,qdoba,corn tortilla 5 5 inch,1,g,0,mg,100,g,11,g,1,g,0,g,0,g,1,g,0,g
+840,qdoba,corn tortilla chips,26,g,0,mg,220,g,75,g,7,g,5,g,0,g,9,g,2,g
+841,qdoba,cotija cheese,14,g,5,mg,120,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+842,qdoba,crispy corn taco shell,3,g,0,mg,0,g,8,g,1,g,1,g,0,g,1,g,0,g
+843,qdoba,crunchy flour tortilla bowl,22,g,0,mg,150,g,41,g,7,g,5,g,0,g,0,g,1,g
+844,qdoba,diet coke,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+845,qdoba,diet coke large,0,g,0,mg,125,g,1,g,0,g,0,g,0,g,0,g,0,g
+846,qdoba,diet coke regular,0,g,0,mg,80,g,1,g,0,g,0,g,0,g,0,g,0,g
+847,qdoba,double chocolate brownie,16,g,15,mg,210,g,52,g,4,g,3,g,0,g,2,g,35,g
+848,qdoba,eggs,16,g,600,mg,440,g,2,g,19,g,5,g,0,g,0,g,0,g
+849,qdoba,fajita veggies,2,g,0,mg,180,g,4,g,1,g,0,g,0,g,1,g,2,g
+850,qdoba,fanta orange large,0,g,0,mg,100,g,109,g,0,g,0,g,0,g,0,g,107,g
+851,qdoba,fanta orange regular,0,g,0,mg,65,g,73,g,0,g,0,g,0,g,0,g,71,g
+852,qdoba,flour tortilla 10 inch,5,g,0,mg,490,g,36,g,6,g,2,g,0,g,2,g,1,g
+853,qdoba,flour tortilla 12 5 inch,7,g,0,mg,760,g,52,g,8,g,3,g,0,g,3,g,2,g
+854,qdoba,flour tortilla 5 5 inch,2,g,0,mg,170,g,12,g,2,g,1,g,0,g,1,g,0,g
+855,qdoba,fuze raspberry tea large,0,g,0,mg,125,g,57,g,0,g,0,g,0,g,0,g,55,g
+856,qdoba,fuze raspberry tea regular,0,g,0,mg,85,g,38,g,0,g,0,g,0,g,0,g,37,g
+857,qdoba,gold peak classic blend tea large,0,g,0,mg,90,g,0,g,0,g,0,g,0,g,0,g,0,g
+858,qdoba,gold peak classic blend tea regular,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+859,qdoba,gold peak classic sweet tea large,0,g,0,mg,90,g,55,g,0,g,0,g,0,g,0,g,55,g
+860,qdoba,gold peak classic sweet tea regular,0,g,0,mg,60,g,35,g,0,g,0,g,0,g,0,g,35,g
+861,qdoba,gold peak lemon ice tea,0,g,0,mg,30,g,45,g,0,g,0,g,0,g,0,g,44,g
+862,qdoba,gold peak raspberry ice tea,0,g,0,mg,45,g,44,g,0,g,0,g,0,g,0,g,44,g
+863,qdoba,gold peak southern tea large,0,g,0,mg,90,g,110,g,0,g,0,g,0,g,0,g,110,g
+864,qdoba,gold peak southern tea regular,0,g,0,mg,60,g,70,g,0,g,0,g,0,g,0,g,70,g
+865,qdoba,grilled adobo chicken,9,g,70,mg,360,g,2,g,16,g,3,g,0,g,0,g,1,g
+866,qdoba,grilled steak,15,g,50,mg,390,g,4,g,19,g,3,g,0,g,0,g,1,g
+867,qdoba,ground beef,11,g,55,mg,510,g,4,g,17,g,5,g,0,g,1,g,1,g
+868,qdoba,habanero salsa,0,g,0,mg,260,g,3,g,1,g,0,g,0,g,1,g,2,g
+869,qdoba,hand smashed guac 2 oz,7,g,0,mg,200,g,5,g,1,g,1,g,0,g,0,g,0,g
+870,qdoba,hand smashed guac 4 oz,14,g,0,mg,400,g,10,g,2,g,2,g,0,g,0,g,0,g
+871,qdoba,hi c flashin fruit punch large,0,g,0,mg,180,g,106,g,0,g,0,g,0,g,0,g,103,g
+872,qdoba,hi c flashin fruit punch regular,0,g,0,mg,120,g,71,g,0,g,0,g,0,g,0,g,69,g
+873,qdoba,honest tea half and half,0,g,0,mg,0,g,25,g,0,g,0,g,0,g,0,g,25,g
+874,qdoba,honest tea honey green tea,0,g,0,mg,15,g,19,g,0,g,0,g,0,g,0,g,19,g
+875,qdoba,honest tea organic peach,0,g,0,mg,20,g,25,g,0,g,0,g,0,g,0,g,25,g
+876,qdoba,impossible fajita bowl,15,g,0,mg,1930,g,85,g,28,g,6,g,0,g,0,g,5,g
+877,qdoba,jarritos soda,0,g,0,mg,40,g,44,g,0,g,0,g,0,g,0,g,44,g
+878,qdoba,kids 3 cheese queso,4,g,10,mg,180,g,2,g,2,g,2.5,g,0,g,0,g,0,g
+879,qdoba,kids black beans,0,g,0,mg,170,g,12,g,5,g,0,g,0,g,7,g,0,g
+880,qdoba,kids burrito,15,g,30,mg,1040,g,67,g,18,g,7,g,0,g,10,g,2,g
+881,qdoba,kids cilantro lime rice,2,g,0,mg,190,g,19,g,2,g,0,g,0,g,1,g,0,g
+882,qdoba,kids corn tortilla 5 5 inch,0,g,0,mg,50,g,6,g,1,g,0,g,0,g,1,g,0,g
+883,qdoba,kids corn tortilla chips,26,g,0,mg,220,g,75,g,7,g,5,g,0,g,9,g,2,g
+884,qdoba,kids flour tortilla,2,g,0,mg,170,g,12,g,2,g,1,g,0,g,1,g,0,g
+885,qdoba,kids grilled adobo chicken,4,g,50,mg,270,g,2,g,11,g,1,g,0,g,1,g,0,g
+886,qdoba,kids grilled steak,4,g,35,mg,230,g,1,g,13,g,2,g,0,g,0,g,0,g
+887,qdoba,kids hand smashed guacamole,4,g,0,mg,100,g,2,g,0,g,0,g,0,g,1,g,0,g
+888,qdoba,kids pinto beans,0,g,0,mg,180,g,12,g,4,g,0,g,0,g,7,g,0,g
+889,qdoba,kids pulled pork,2,g,40,mg,190,g,5,g,10,g,1,g,0,g,0,g,0,g
+890,qdoba,kids quesadilla,12,g,30,mg,510,g,25,g,11,g,6,g,0,g,2,g,1,g
+891,qdoba,kids seasoned brown rice,1,g,0,mg,125,g,18,g,2,g,0,g,0,g,1,g,1,g
+892,qdoba,kids shredded cheese,6,g,20,mg,270,g,2,g,2,g,4,g,0,g,1,g,0,g
+893,qdoba,kids side beans with cheese,3,g,10,mg,400,g,24,g,10,g,1.5,g,0,g,14,g,1,g
+894,qdoba,kids sour cream,5,g,15,mg,10,g,3,g,1,g,3,g,0,g,0,g,1,g
+895,qdoba,kids taco with beef,12,g,50,mg,370,g,11,g,15,g,5,g,0.5,g,1,g,1,g
+896,qdoba,kids taco with chicken,11,g,65,mg,360,g,11,g,16,g,4.5,g,0,g,2,g,1,g
+897,qdoba,lite sour cream,5,g,15,mg,40,g,2,g,3,g,3,g,0,g,0,g,2,g
+898,qdoba,mango salsa,0,g,0,mg,160,g,6,g,0,g,0,g,0,g,2,g,5,g
+899,qdoba,mello yello large,0,g,0,mg,125,g,109,g,0,g,0,g,0,g,0,g,109,g
+900,qdoba,mello yello regular,0,g,0,mg,85,g,73,g,0,g,0,g,0,g,0,g,73,g
+901,qdoba,mexican caesar dressing,13,g,5,mg,3310,g,13,g,2,g,2,g,0,g,0,g,6,g
+902,qdoba,mexican coca cola,0,g,0,mg,85,g,39,g,0,g,0,g,0,g,0,g,39,g
+903,qdoba,mexican sprite,0,g,0,mg,65,g,38,g,0,g,0,g,0,g,0,g,38,g
+904,qdoba,minute maid kids apple juice box,0,g,0,mg,15,g,21,g,0,g,0,g,0,g,0,g,19,g
+905,qdoba,minute maid lemonade hfcs large,0,g,0,mg,240,g,95,g,0,g,0,g,0,g,0,g,90,g
+906,qdoba,minute maid lemonade hfcs regular,0,g,0,mg,160,g,63,g,0,g,0,g,0,g,0,g,60,g
+907,qdoba,minute maid light lemonade large,0,g,0,mg,105,g,5,g,0,g,0,g,0,g,1,g,0,g
+908,qdoba,minute maid light lemonade regular,0,g,0,mg,70,g,3,g,0,g,0,g,0,g,0,g,0,g
+909,qdoba,natural apple sauce,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,1,g,11,g
+910,qdoba,picante ranch dressing,0,g,0,mg,500,g,10,g,0,g,0,g,0,g,1,g,3,g
+911,qdoba,pickled jalapenos,0,g,0,mg,90,g,3,g,0,g,0,g,0,g,0,g,2,g
+912,qdoba,pico de gallo,0,g,0,mg,70,g,3,g,0,g,0,g,0,g,1,g,2,g
+913,qdoba,pinto beans,1,g,0,mg,350,g,23,g,8,g,0,g,0,g,14,g,1,g
+914,qdoba,plant based impossible protein,10,g,0,mg,780,g,9,g,13,g,5,g,0,g,2,g,1,g
+915,qdoba,powerade mountain berry blast large,0,g,0,mg,280,g,55,g,0,g,0,g,0,g,0,g,55,g
+916,qdoba,powerade mountain berry blast regular,0,g,0,mg,190,g,37,g,0,g,0,g,0,g,0,g,36,g
+917,qdoba,pulled pork,4,g,70,mg,340,g,9,g,17,g,2,g,0,g,0,g,1,g
+918,qdoba,queso diablo,7,g,45,mg,360,g,3,g,3,g,4,g,0,g,0,g,1,g
+919,qdoba,romaine lettuce,0,g,0,mg,10,g,3,g,0,g,0,g,0,g,0,g,0,g
+920,qdoba,salsa roja,0,g,0,mg,460,g,4,g,1,g,0,g,0,g,1,g,2,g
+921,qdoba,salsa verde,0,g,0,mg,280,g,3,g,0,g,0,g,0,g,1,g,1,g
+922,qdoba,seasoned brown rice,1,g,0,mg,410,g,35,g,4,g,0,g,0,g,2,g,1,g
+923,qdoba,seasoned potatoes,6,g,0,mg,260,g,17,g,2,g,1,g,0,g,2,g,0,g
+924,qdoba,shredded cheese,9,g,30,mg,180,g,1,g,7,g,5,g,0,g,0,g,0,g
+925,qdoba,simply orange juice,0,g,0,mg,0,g,37,g,0,g,0,g,0,g,0,g,33,g
+926,qdoba,slow braised pork burrito canada only,40,g,155,mg,2570,g,129,g,54,g,20,g,1.5,g,0,g,5,g
+927,qdoba,smoked brisket,20,g,70,mg,1220,g,3,g,20,g,8,g,0,g,0,g,1,g
+928,qdoba,smoked brisket keto bowl canada only,45,g,130,mg,2000,g,18,g,36,g,19,g,1,g,0,g,4,g
+929,qdoba,sprite large,0,g,0,mg,170,g,92,g,0,g,0,g,0,g,0,g,91,g
+930,qdoba,sprite regular,0,g,0,mg,115,g,61,g,0,g,0,g,0,g,0,g,61,g
+931,qdoba,steak fajita quesadilla,68,g,190,mg,2420,g,72,g,57,g,30,g,2,g,0,g,9,g
+932,qdoba,street style chicken tacos 3 with corn tortilla,22,g,80,mg,1340,g,50,g,24,g,7,g,0,g,0,g,3,g
+933,qdoba,street style chicken tacos 3 with flour tortilla,25,g,80,mg,1540,g,52,g,26,g,8,g,0,g,0,g,3,g
+934,qdoba,tortilla soup,5,g,0,mg,1390,g,11,g,3,g,1,g,0,g,4,g,2,g
+935,qdoba,tortilla strips,3,g,0,mg,30,g,9,g,0,g,0.5,g,0,g,0,g,0,g
+936,qdoba,vitamin water power c,0,g,0,mg,0,g,27,g,0,g,0,g,0,g,0,g,27,g
+937,qdoba,vitamin water xxx,0,g,0,mg,0,g,28,g,0,g,0,g,0,g,0,g,27,g
+938,qdoba,vitamin water zero squeezed lemonade,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+939,qdoba,white milk lowfat 1 7 fl oz,2,g,10,mg,140,g,14,g,9,g,2,g,0,g,0,g,13,g
+940,qdoba,white milk lowfat 1 8 fl oz,3,g,10,mg,105,g,12,g,8,g,2,g,0,g,0,g,12,g
+941,qdoba,whole wheat flour tortilla 12 5 inch,5,g,0,mg,590,g,47,g,11,g,1,g,0,g,5,g,3,g
+942,quiznos,sausage egg and cheddar cheese breakfast biscuit,25,g,150,mg,1150,g,31,g,19,g,8,g,3.5,g,1,g,1,g
+943,quiznos,bacon egg and cheddar cheese breakfast sammie,19,g,145,mg,760,g,27,g,18,g,6,g,0,g,3,g,1,g
+944,quiznos,ham egg and cheddar cheese breakfast biscuit,25,g,145,mg,1230,g,32,g,17,g,8,g,3.5,g,1,g,2,g
+945,quiznos,egg and cheddar cheese breakfast biscuit,31,g,245,mg,1020,g,31,g,16,g,9,g,3.5,g,1,g,1,g
+946,quiznos,egg and cheddar cheese breakfast sub,20,g,245,mg,690,g,35,g,17,g,7,g,0,g,1,g,2,g
+947,quiznos,sausage egg and cheddar cheese breakfast sammie,16,g,150,mg,780,g,29,g,20,g,5,g,0,g,3,g,1,g
+948,quiznos,ham egg and cheddar cheese breakfast sub,14,g,145,mg,900,g,36,g,19,g,5,g,0,g,1,g,3,g
+949,quiznos,bacon egg and cheddar cheese breakfast biscuit,28,g,145,mg,1130,g,30,g,17,g,9,g,3.5,g,1,g,1,g
+950,quiznos,sausage egg and cheddar cheese breakfast sub,14,g,150,mg,820,g,35,g,21,g,5,g,0,g,1,g,2,g
+951,quiznos,ham egg and cheddar breakfast sammie,16,g,145,mg,860,g,29,g,18,g,5,g,0,g,3,g,3,g
+952,quiznos,egg and cheddar cheese breakfast sammie,22,g,245,mg,650,g,28,g,16,g,7,g,0,g,3,g,1,g
+953,quiznos,bacon egg and cheddar cheese breakfast sub,17,g,145,mg,810,g,34,g,19,g,7,g,0,g,1,g,2,g
+954,quiznos,au jus,3,g,0,mg,830,g,0,g,2,g,0,g,0,g,0,g,0,g
+955,quiznos,chocolate chunk cookie,18,g,45,mg,240,g,57,g,4,g,11,g,0,g,2,g,34,g
+956,quiznos,cinnamon sugar cookie,17,g,50,mg,310,g,58,g,3,g,11,g,0,g,1,g,33,g
+957,quiznos,oatmeal raisin cookie,12,g,50,mg,200,g,58,g,5,g,7,g,0,g,3,g,33,g
+958,quiznos,chocolate brownie,23,g,35,mg,270,g,56,g,5,g,6,g,0,g,2,g,37,g
+959,quiznos,kids triple cheese 4 sub,10,g,25,mg,420,g,23,g,12,g,6,g,0,g,1,g,2,g
+960,quiznos,kids artisan wheat 4 bread,1.5,g,0,mg,260,g,29,g,6,g,0,g,0,g,3,g,3,g
+961,quiznos,kids triple cheese flatbread,11,g,20,mg,400,g,29,g,12,g,4.5,g,0,g,1,g,3,g
+962,quiznos,kids artisan white 4 bread,1.5,g,0,mg,340,g,33,g,6,g,0.5,g,0,g,1,g,2,g
+963,quiznos,kids rosemary parmesan 4 bread,2.5,g,5,mg,270,g,25,g,5,g,1,g,0,g,1,g,2,g
+964,quiznos,kids jalapeno cheddar 4 bread,2,g,5,mg,260,g,26,g,6,g,1,g,0,g,1,g,2,g
+965,quiznos,kids sammie bread,3.5,g,0,mg,300,g,26,g,5,g,0.5,g,0,g,3,g,1,g
+966,quiznos,chef salad with ranch dressing full,46,g,90,mg,1860,g,13,g,32,g,13,g,1,g,2,g,9,g
+967,quiznos,honey mustard chicken salad with honey mustard dressing full,43,g,130,mg,1440,g,22,g,43,g,12,g,0.5,g,4,g,14,g
+968,quiznos,chef salad with ranch dressing half,37,g,50,mg,1120,g,8,g,16,g,9,g,0.5,g,1,g,5,g
+969,quiznos,apple harvest chicken salad with acai vinaigrette half,22,g,30,mg,300,g,29,g,9,g,3.5,g,0,g,3,g,24,g
+970,quiznos,lobster and seafood salad with ranch dressing full,28,g,60,mg,1440,g,21,g,15,g,4.5,g,0,g,5,g,6,g
+971,quiznos,italian salad with red wine vinaigrette half,28,g,55,mg,1170,g,9,g,16,g,8,g,0.5,g,3,g,4,g
+972,quiznos,apple harvest chicken salad with acai vinaigrette full,29,g,45,mg,500,g,48,g,19,g,5,g,0,g,8,g,38,g
+973,quiznos,lobster and seafood salad with ranch dressing half,24,g,40,mg,980,g,12,g,8,g,4,g,0,g,3,g,4,g
+974,quiznos,honey mustard chicken salad hioney mustard dressing half,35,g,75,mg,880,g,17,g,22,g,8,g,0.5,g,2,g,12,g
+975,quiznos,italian salad with red wine vinaigrette full,57,g,105,mg,2230,g,18,g,31,g,17,g,1,g,5,g,9,g
+976,quiznos,lobster and seafood sub on regular 8 white baguette,22,g,70,mg,1690,g,80,g,24,g,10,g,0.5,g,5,g,6,g
+977,quiznos,carbonara chicken sub on regular 8 white baguette,42,g,115,mg,2220,g,73,g,54,g,12,g,0.5,g,3,g,7,g
+978,quiznos,classic italian sub on regular 8 white baguette,48,g,90,mg,2540,g,79,g,38,g,15,g,1,g,5,g,10,g
+979,quiznos,veggie guacamole classic sub on regular 8 white baguette,44,g,50,mg,1610,g,81,g,28,g,14,g,0.5,g,7,g,10,g
+980,quiznos,baja chicken sub on regular 8 white baguette,32,g,120,mg,2370,g,76,g,52,g,12,g,0,g,3,g,11,g
+981,quiznos,black angus steak sub on regular 8 rosemary parmesan sub,27,g,100,mg,2010,g,88,g,47,g,13,g,0,g,4,g,19,g
+982,quiznos,mesquite chicken sub on regular 8 white baguette,33,g,125,mg,2230,g,73,g,53,g,12,g,0,g,4,g,7,g
+983,quiznos,tuna melt classic sub on regular 8 white baguette,22,g,75,mg,1850,g,76,g,44,g,9,g,0,g,3,g,6,g
+984,quiznos,italian meatball sub on regular 8 white baguette,43,g,100,mg,2020,g,88,g,53,g,16,g,0.5,g,8,g,12,g
+985,quiznos,honey bacon club premium sub on regular 8 white baguette,32,g,95,mg,2340,g,88,g,47,g,11,g,0,g,4,g,20,g
+986,quiznos,turkey ranch and swiss classic sub on regular 8 white baguette,25,g,75,mg,1870,g,73,g,39,g,9,g,0,g,4,g,7,g
+987,quiznos,honey mustard chicken sub on regular 8 white baguette,36,g,120,mg,1990,g,80,g,53,g,11,g,0.5,g,4,g,12,g
+988,quiznos,ultimate turkey club premium sub on regular 8 white baguette,29,g,100,mg,2400,g,73,g,47,g,11,g,0,g,4,g,7,g
+989,quiznos,turkey bacon guacamole premium sub on regular 8 white baguette,37,g,90,mg,2490,g,79,g,49,g,11,g,0,g,7,g,9,g
+990,quiznos,spicy monterey classic sub on regular 8 whie baguette,15,g,65,mg,2270,g,81,g,38,g,6,g,0,g,4,g,13,g
+991,quiznos,chipotle turkey premium sub on regular 8 white baguette,37,g,85,mg,2030,g,72,g,38,g,11,g,0,g,4,g,7,g
+992,quiznos,southwest chicken sub on regular 8 white baguette,45,g,105,mg,2000,g,73,g,43,g,12,g,0,g,5,g,5,g
+993,quiznos,the traditional club sub on regular 8 on white baguette,30,g,90,mg,2220,g,76,g,39,g,10,g,0,g,4,g,9,g
+994,quiznos,french dip steak sub on regular 8 white baguette with au jus,30,g,95,mg,2510,g,79,g,42,g,9,g,0,g,4,g,10,g
+995,quiznos,peppercorn steak sub on regular 8 white baguette,42,g,95,mg,1830,g,76,g,40,g,11,g,1,g,4,g,6,g
+996,quiznos,chipotle steak and cheddar sub on regular 8 white baguette,44,g,100,mg,1960,g,73,g,39,g,13,g,0,g,4,g,6,g
+997,quiznos,southwest club,24,g,50,mg,1430,g,49,g,24,g,4.5,g,0,g,2,g,4,g
+998,quiznos,apple harvest chicken sub 8,32,g,50,mg,1380,g,97,g,32,g,6,g,0,g,7,g,28,g
+999,quiznos,classic tater tots,11,g,0,mg,410,g,25,g,3,g,3,g,0,g,0,g,1,g

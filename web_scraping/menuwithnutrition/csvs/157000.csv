@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,schlotzskys deli,turkey original sandwich pick 2,17,g,65,mg,1290,g,41,g,24,g,8,g,0,g,3,g,3,g
+1,schlotzskys deli,turkey original sandwich small,27,g,95,mg,1720,g,55,g,31,g,12,g,0,g,4,g,4,g
+2,schlotzskys deli,veggie breakfast sandwiches half,10,g,125,mg,330,g,26,g,13,g,5,g,0,g,1,g,2,g
+3,schlotzskys deli,veggie breakfast sandwiches whole,21,g,255,mg,660,g,51,g,25,g,11,g,0,g,3,g,3,g
+4,schlotzskys deli,veggie burrito half,10,g,115,mg,440,g,22,g,10,g,4,g,0,g,3,g,3,g
+5,schlotzskys deli,veggie burrito whole,19,g,235,mg,880,g,44,g,19,g,8,g,0,g,6,g,7,g
+6,schlotzskys deli,veggie taco,10,g,120,mg,560,g,21,g,10,g,5,g,0,g,2,g,5,g
+7,second cup,chocolate almond croissant,38,g,130,mg,480,g,55,g,8,g,22,g,0,g,3,g,15,g
+8,second cup,wild blueberry scone,20,g,155,mg,380,g,55,g,8,g,12,g,0,g,2,g,15,g
+9,second cup,sea salt chocolate chip cookie,16,g,75,mg,220,g,47,g,4,g,10,g,0,g,2,g,30,g
+10,second cup,carrot oat muffin,30,g,160,mg,310,g,66,g,7,g,4.5,g,0,g,3,g,36,g
+11,second cup,butter tart,22,g,165,mg,250,g,45,g,4,g,10,g,1,g,0,g,18,g
+12,second cup,pecan square,28,g,180,mg,170,g,45,g,5,g,10,g,1,g,1,g,21,g
+13,second cup,banana loaf,19,g,155,mg,440,g,67,g,6,g,11,g,0,g,2,g,38,g
+14,second cup,butter croissant,27,g,80,mg,450,g,41,g,5,g,17,g,0,g,2,g,6,g
+15,second cup,wild blueberry crumble muffin,21,g,185,mg,360,g,54,g,8,g,4,g,0,g,2,g,21,g
+16,second cup,iced fudge brownie square,29,g,220,mg,110,g,52,g,5,g,16,g,0,g,2,g,41,g
+17,second cup,vanilla bean latte with skim milk,2.6,g,4,mg,180,g,31.5,g,6.8,g,2.3,g,0,g,0,g,25.5,g
+18,second cup,classic hot chocolate with skim milk without whipped cream,3,g,3,mg,238,g,29.6,g,6.5,g,2.5,g,0,g,1,g,24.6,g
+19,second cup,caramel corretto with skim milk,3.8,g,4,mg,210,g,41.3,g,6.8,g,3.4,g,0,g,0,g,33,g
+20,second cup,matcha green tea latte with skim milk,1,g,5,mg,210,g,47,g,14,g,0.5,g,0,g,0,g,44,g
+21,second cup,london fog tea with skim milk,0.5,g,5,mg,210,g,40,g,14,g,0.5,g,0,g,0,g,38,g
+22,second cup,sweet apple cider,0,g,0,mg,0,g,56,g,0,g,0,g,0,g,0,g,50,g
+23,second cup,london fog tea with 2 milk,8,g,30,mg,210,g,40,g,14,g,5,g,0.3,g,0,g,20,g
+24,second cup,iced vanilla bean latte with 2 milk,6,g,15,mg,143,g,32.3,g,6.8,g,4.5,g,0.0001,g,0,g,30,g
+25,second cup,classic hot chocolate with 2 milk without whipped cream,6,g,13,mg,220,g,28.6,g,6,g,4.5,g,0.1,g,1,g,24.1,g
+26,second cup,italian soda,0,g,0,mg,71,g,39,g,0,g,0,g,0,g,0,g,37.5,g
+27,second cup,matcha green tea latte with 2 milk,8,g,30,mg,210,g,47,g,14,g,5,g,0.3,g,0,g,27,g
+28,second cup,brewed black coffee,0,g,0,mg,7,g,0,g,0.7,g,0,g,0,g,0,g,0,g
+29,second cup,iced caramel corretto with skim milk,2.6,g,4,mg,143,g,48,g,5.3,g,2.6,g,0,g,0,g,45.8,g
+30,second cup,almond date smoothie,16,g,0,mg,85,g,49,g,8,g,1.5,g,0,g,8,g,29,g
+31,second cup,super green smoothie,2.5,g,64,mg,4,g,42,g,4,g,0.4,g,0,g,4,g,0,g
+32,second cup,sparkling green tea lemonade,0.1,g,0,mg,55,g,25,g,0.1,g,0,g,0,g,0,g,24,g
+33,second cup,chai latte with almond milk,3,g,0,mg,115,g,29,g,1,g,0,g,0,g,1,g,28,g
+34,second cup,caffe latte with 2 milk,4.5,g,20,mg,95,g,12,g,8,g,2.5,g,0.2,g,0,g,11,g
+35,second cup,cappuccino with skim milk,0,g,4,mg,128,g,12,g,8.3,g,0,g,0,g,0,g,11.3,g
+36,second cup,iced caffe latte with lactose free 2 milk,3.8,g,15,mg,101,g,9.8,g,7.5,g,2.3,g,0.0001,g,0,g,9.8,g
+37,second cup,matcha green tea frappe with almond milk 12 oz,2,g,0,mg,70,g,33,g,1,g,0,g,0,g,1,g,32,g
+38,second cup,honey vanilla tea latte with 2 milk 16 oz,7,g,20,mg,190,g,36,g,9,g,5,g,0,g,0,g,32,g
+39,second cup,london fog tea with soy milk,8,g,0,mg,230,g,41,g,19,g,1,g,0,g,5,g,22,g
+40,second cup,chillatte without whipped cream,6.8,g,0,mg,233,g,39.8,g,0.8,g,6,g,0,g,0,g,34.5,g
+41,second cup,hazelnut latte with soy milk,9.8,g,0,mg,154,g,39.8,g,6.8,g,5.6,g,0,g,0.8,g,32.3,g
+42,second cup,toasted nut frappe 16 oz,11,g,0,mg,100,g,46,g,5,g,1,g,0,g,0,g,33,g
+43,second cup,matcha green tea frappe with 2 milk 12 oz,3,g,10,mg,60,g,39,g,6,g,1.5,g,0.1,g,0,g,39,g
+44,second cup,power mocca with 2 milk,8,g,35,mg,0,g,30,g,16,g,6,g,0.1,g,1,g,30,g
+45,second cup,cappuccino with almond milk,2.6,g,0,mg,105,g,2.3,g,0.8,g,0,g,0,g,0.8,g,0,g
+46,second cup,mango cream frocho with 2 milk 12 oz,21,g,45,mg,270,g,68,g,4,g,16,g,0.5,g,1,g,59,g
+47,second cup,caramel corretto with almond milk,6,g,0,mg,203,g,32.3,g,1.5,g,3.8,g,0,g,0.8,g,24,g
+48,second cup,hazelnut latte with skim milk,6,g,4,mg,169,g,44.3,g,9,g,5.3,g,0,g,0,g,38.3,g
+49,second cup,matcha green tea frappe with skim milk 12 oz,0,g,5,mg,60,g,40,g,6,g,0,g,0,g,0,g,39,g
+50,second cup,pumpkin spice latte with skim milk,3,g,0,mg,0,g,33.8,g,6.8,g,2.6,g,0,g,0,g,3.8,g
+51,second cup,green mango boost,1,g,15,mg,75,g,79,g,11,g,0,g,0,g,5,g,59,g
+52,second cup,matcha green tea latte with soy milk,8,g,0,mg,230,g,47,g,18,g,1,g,0,g,5,g,29,g
+53,second cup,mango fruit smoothie,0,g,0,mg,10,g,85,g,0,g,0,g,0,g,4,g,78,g
+54,second cup,chai tea chiller with skim milk,5.3,g,4,mg,158,g,40.5,g,3.8,g,3,g,1.1,g,0,g,27.8,g
+55,second cup,classic hot chocolate with lactose free 2 milk without whipped cream,6,g,13,mg,205,g,26.1,g,7.5,g,4.3,g,0.1,g,1,g,21.5,g
+56,second cup,iced butter pecan latte with lactose free 2 milk,10.5,g,19,mg,120,g,39,g,10.5,g,7.9,g,0.2,g,0,g,33.8,g
+57,second cup,white hot chocolate with 2 milk without whipped cream,7.5,g,13,mg,90,g,28.1,g,5.5,g,6,g,0.1,g,0,g,23.5,g
+58,second cup,butter pecan latte with skim milk,6,g,4,mg,169,g,44.3,g,9,g,5.3,g,0,g,0,g,38.3,g
+59,second cup,toasted nut frappe 12 oz,10,g,0,mg,80,g,39,g,4,g,1,g,0,g,0,g,28,g
+60,second cup,matcha green tea frappe with almond milk,2.5,g,0,mg,100,g,32,g,1,g,0,g,0,g,1,g,31,g
+61,second cup,vanilla bean latte with almond milk,6,g,0,mg,230,g,31,g,1,g,3.5,g,0,g,1,g,21,g
+62,second cup,butter pecan latte with soy milk,9.8,g,0,mg,154,g,39.8,g,6.8,g,5.6,g,0,g,0.8,g,32.3,g
+63,second cup,brewed white coffee with lactose free 2 milk,2.6,g,11,mg,68,g,6.8,g,3,g,1.5,g,0.0001,g,0,g,4.5,g
+64,second cup,classic hot chocolate with soy milk without whipped cream,5.5,g,0,mg,228,g,26.6,g,5,g,2.8,g,0,g,1.5,g,20.5,g
+65,second cup,iced hazelnut latte with soy milk,9.8,g,0,mg,154,g,39.8,g,6.8,g,5.6,g,0,g,0.8,g,32.3,g
+66,second cup,strawberry banana glow,6,g,5,mg,30,g,75,g,6,g,1.5,g,0,g,7,g,54,g
+67,second cup,white mocca with skim milk without whipped cream,8,g,5,mg,215,g,50,g,12,g,7,g,0,g,0,g,42,g
+68,second cup,iced caffe latte with skim milk,0.0001,g,4,mg,105,g,10.5,g,7.5,g,0.0001,g,0,g,0,g,10.5,g
+69,second cup,iced moccaccino with skim milk without whipped cream,3,g,4,mg,218,g,26.3,g,6,g,2.6,g,0,g,0.8,g,21.8,g
+70,second cup,vanilla bean hot chocolate with 2 milk,20,g,50,mg,350,g,58,g,11,g,14,g,0.4,g,1,g,49,g
+71,second cup,chai latte with 2 milk,5,g,20,mg,100,g,40,g,9,g,3,g,0.2,g,0,g,40,g
+72,second cup,strawberry fruit smoothie,0,g,0,mg,4,g,70.5,g,0,g,0,g,0,g,3,g,67.5,g
+73,second cup,white hot chocolate with lactose free 2 milk without whipped cream,7.5,g,13,mg,75,g,25.6,g,7,g,5.8,g,0.1,g,0,g,21,g
+74,second cup,mango cream frocho with skim milk,20,g,40,mg,300,g,71,g,6,g,15,g,0.5,g,1,g,62,g
+75,second cup,brewed white coffee with soy milk,2.3,g,0,mg,71,g,4.5,g,4.5,g,0.3,g,0,g,0.8,g,3.8,g
+76,second cup,caffe latte with almond milk,3,g,0,mg,110,g,2,g,1,g,0,g,0,g,1,g,0,g
+77,second cup,iced vanilla bean latte with lactose free 2 milk,6,g,15,mg,143,g,32.3,g,6.8,g,4.5,g,0.0001,g,0,g,30,g
+78,second cup,mango cream frocho with soy milk 12 oz,21,g,40,mg,290,g,67,g,3,g,15,g,0.5,g,1,g,58,g
+79,second cup,iced coffee,0,g,0,mg,8,g,0,g,0.2,g,0,g,0,g,0,g,0,g
+80,second cup,macchiato with 2 milk,1,g,0,mg,25,g,1,g,1,g,0.5,g,0,g,0,g,1,g
+81,second cup,iced hazelnut latte with skim milk,6,g,4,mg,169,g,44.3,g,9,g,5.3,g,0,g,0,g,38.3,g
+82,second cup,strawberry dream frocho with skim milk 12 oz,21,g,40,mg,300,g,71,g,4,g,16,g,0.5,g,1,g,60,g
+83,second cup,caramel frappe with almond milk,6,g,0,mg,230,g,48,g,1,g,5,g,0,g,0,g,36,g
+84,second cup,frocho with 2 milk,15,g,55,mg,310,g,82,g,16,g,9,g,0.4,g,4,g,75,g
+85,second cup,brewed black tea hot or iced,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+86,second cup,iced white mocca with skim milk without whipped cream,6,g,5,mg,260,g,34,g,7,g,5,g,0,g,0,g,29,g
+87,second cup,pumpkin spice latte with almond milk,6,g,32,mg,1,g,26,g,1,g,4,g,0,g,1,g,0,g
+88,second cup,iced caramel corretto with lactose free 2 milk,5.3,g,11,mg,135,g,47.3,g,5.3,g,3.8,g,0.0001,g,0,g,45,g
+89,second cup,vanilla bean frappe with 2 milk,8,g,10,mg,260,g,50,g,4,g,7,g,0.1,g,0,g,38,g
+90,second cup,iced butter pecan latte with soy milk,9.8,g,0,mg,154,g,39.8,g,6.8,g,5.6,g,0,g,0.8,g,32.3,g
+91,second cup,espresso frappe with soy milk 16 oz,5,g,0,mg,220,g,30,g,2,g,4,g,0,g,0,g,22,g
+92,second cup,iced butter pecan latte with skim milk,6,g,4,mg,169,g,44.3,g,9,g,5.3,g,0,g,0,g,38.3,g
+93,second cup,caramel frappe with almond milk 12 oz,6,g,0,mg,210,g,48,g,1,g,5,g,0,g,0,g,36,g
+94,second cup,power mocca with soy milk,6,g,33,mg,0,g,26,g,13,g,4,g,0,g,1,g,15,g
+95,second cup,espresso frappe with 2 milk 16 oz,6,g,10,mg,190,g,31,g,4,g,5,g,0,g,0,g,24,g
+96,second cup,iced vanilla bean latte with soy milk,7,g,0,mg,200,g,39,g,7,g,3.5,g,0,g,1,g,34,g
+97,second cup,vanilla bean latte with soy milk,6,g,0,mg,300,g,38,g,5,g,3.5,g,0,g,0,g,28,g
+98,second cup,mocca frappe with skim milk 16 oz,1,g,5,mg,150,g,38,g,6,g,0.5,g,0,g,1,g,31,g
+99,second cup,strawberry dream frocho with 2 milk,23,g,40,mg,300,g,70,g,2,g,17,g,0.5,g,1,g,60,g
+100,second cup,vanilla bean frappe with 2 milk 12 oz,8,g,5,mg,250,g,49,g,3,g,7,g,0.1,g,0,g,37,g
+101,second cup,classic hot chocolate with 2 milk 16 oz,28,g,67,mg,521,g,74.8,g,14.7,g,20,g,0.5,g,2.7,g,64.1,g
+102,second cup,caramel frappe with 2 milk,7,g,10,mg,230,g,52,g,4,g,6,g,0,g,0,g,40,g
+103,second cup,frocho with soy milk 16 oz,14,g,40,mg,310,g,79,g,15,g,7,g,0.3,g,5,g,71,g
+104,second cup,americano double,0.2,g,0,mg,13,g,2,g,0.1,g,0.1,g,0,g,0,g,0,g
+105,second cup,pumpkin spice latte with soy milk,8.3,g,0,mg,263,g,42.8,g,6,g,5.3,g,0,g,0.8,g,35.3,g
+106,second cup,mango cream frocho with 2 milk,22,g,50,mg,300,g,71,g,6,g,16,g,0.5,g,1,g,62,g
+107,second cup,match green tea chiller with skim milk,0.0001,g,4,mg,68,g,25.5,g,4.5,g,0,g,0,g,0,g,25.5,g
+108,second cup,frrrozen hot chocolate with skim milk without whipped cream,1.1,g,8,mg,218,g,60,g,11.3,g,0.8,g,0,g,3,g,54.8,g
+109,second cup,brewed white coffee with skim milk,0,g,5,mg,95,g,9,g,7,g,0,g,0,g,0,g,9,g
+110,second cup,cinnamon swirl latte with skim,3,g,4,mg,180,g,32.3,g,6.8,g,2.6,g,0,g,0,g,30,g
+111,second cup,pumpkin spice latte with 2 milk,6.8,g,38,mg,0,g,33,g,6.8,g,4.5,g,0.0001,g,0,g,15,g
+112,second cup,icepresso,5.3,g,19,mg,120,g,31.5,g,9,g,3,g,0.0001,g,0,g,31.5,g
+113,second cup,butter pecan latte with lactose free 2 milk,10.5,g,19,mg,120,g,39,g,10.5,g,7.9,g,0.2,g,0,g,33.8,g
+114,second cup,match green tea chiller with soy milk,2.3,g,0,mg,68,g,23.3,g,3.8,g,0.3,g,0,g,0.8,g,21.8,g
+115,second cup,brewed white coffee with 2 milk,2.6,g,11,mg,68,g,6.8,g,5.3,g,1.5,g,0.0001,g,0,g,6.8,g
+116,second cup,vanilla bean hot chocolate with lactose free 2 milk without whipped cream,7,g,13,mg,210,g,27.6,g,7.5,g,3.8,g,1.3,g,0.5,g,22.5,g
+117,second cup,breakfast cookie,22,g,0,mg,240,g,31,g,10,g,7,g,0,g,5,g,18,g
+118,second cup,blueberry breakfast cookie,20,g,0,mg,240,g,29,g,8,g,3.5,g,0,g,4,g,15,g
+119,second cup,egg white pesto and swiss cheese on naan bread,15,g,15,mg,830,g,37,g,16,g,5,g,0.3,g,13,g,4,g
+120,second cup,egg white kale and feta wrap,12,g,15,mg,800,g,34,g,15,g,4,g,0.1,g,32,g,3,g
+121,second cup,egg and cheddar on english muffin,13,g,175,mg,440,g,29,g,13,g,2,g,0.2,g,1,g,4,g
+122,second cup,bagels plain,2.6,g,0,mg,188,g,55.4,g,6.6,g,0,g,0,g,3,g,9.6,g
+123,second cup,egg sausage and jack cheese on english muffin,28,g,205,mg,740,g,29,g,19,g,10,g,0.2,g,1,g,4,g
+124,second cup,strawberry pinkberry small,0,g,0,mg,70,g,33,g,5,g,0,g,0,g,0,g,30,g
+125,second cup,original pinkberry small,0,g,0,mg,80,g,31,g,6,g,0,g,0,g,0,g,28,g
+126,second cup,strawberry pinkberry regular,0,g,0,mg,115,g,52,g,9,g,0,g,0,g,0,g,48,g
+127,second cup,original pinkberry regular,0,g,6,mg,130,g,49,g,10,g,0,g,0,g,0,g,45,g
+128,second cup,ham and cheese melt with mustard,23,g,80,mg,1580,g,44,g,30,g,14,g,0.5,g,7,g,9,g
+129,second cup,aussie beef pie,35,g,95,mg,600,g,40,g,13,g,20,g,0.2,g,2,g,2,g
+130,second cup,chicken pot pie,35,g,105,mg,600,g,41,g,15,g,20,g,0,g,2,g,1,g
+131,second cup,three cheese melt on rye bread,27,g,65,mg,870,g,41,g,21,g,14,g,0.5,g,7,g,4,g
+132,second cup,tomato bisque,2.5,g,10,mg,380,g,5,g,1,g,1.5,g,0,g,1,g,3,g
+133,second cup,3 cheese melt,27,g,65,mg,870,g,41,g,21,g,14,g,0.5,g,7,g,4,g
+134,second cup,almond date blended drink,16,g,0,mg,85,g,49,g,8,g,1.5,g,0,g,8,g,29,g
+135,second cup,americano double,0,g,0,mg,15,g,2,g,0,g,0,g,0,g,0,g,0,g
+136,second cup,americano single,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,0,g
+137,second cup,apple cider 12 oz,0,g,0,mg,0,g,56,g,0,g,0,g,0,g,0,g,50,g
+138,second cup,apple cider 16 oz,0,g,0,mg,5,g,70,g,0,g,0,g,0,g,0,g,63,g
+139,second cup,apple cider 22 oz,0,g,0,mg,5,g,84,g,0,g,0,g,0,g,0,g,75,g
+140,second cup,aussie beef pie,35,g,95,mg,600,g,40,g,13,g,20,g,0,g,2,g,2,g
+141,second cup,bagels,2.5,g,0,mg,190,g,55,g,7,g,0,g,0,g,3,g,10,g
+142,second cup,banana loaf,19,g,155,mg,440,g,67,g,6,g,11,g,0,g,2,g,38,g
+143,second cup,blueberry bran muffin,12,g,95,mg,460,g,85,g,8,g,1.5,g,0,g,8,g,27,g
+144,second cup,blueberry breakfast cookie,20,g,0,mg,240,g,29,g,8,g,3.5,g,0,g,4,g,15,g
+145,second cup,breakfast cookie,22,g,0,mg,240,g,31,g,10,g,7,g,0,g,5,g,18,g
+146,second cup,brewed coffee 12 oz,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+147,second cup,brewed coffee 16 oz,0,g,0,mg,10,g,0,g,1,g,0,g,0,g,0,g,0,g
+148,second cup,brewed coffee 22 oz,0,g,0,mg,10,g,0,g,1,g,0,g,0,g,0,g,0,g
+149,second cup,brewed iced tea 12 oz sweetened,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,6,g
+150,second cup,brewed iced tea 16 oz sweetened,0,g,0,mg,5,g,13,g,0,g,0,g,0,g,0,g,13,g
+151,second cup,brewed iced tea 22 oz sweetened,0,g,0,mg,15,g,20,g,0,g,0,g,0,g,0,g,20,g
+152,second cup,butter croissant,27,g,80,mg,450,g,41,g,5,g,17,g,0,g,2,g,6,g
+153,second cup,butter tart,22,g,165,mg,250,g,45,g,4,g,10,g,1,g,0,g,18,g
+154,second cup,caffe latte 12 oz with 2 milk,4.5,g,20,mg,95,g,12,g,8,g,2.5,g,0,g,0,g,11,g
+155,second cup,caffe latte 12 oz with almond milk,3,g,0,mg,110,g,2,g,1,g,0,g,0,g,1,g,0,g
+156,second cup,caffe latte 12 oz with skim milk,0,g,5,mg,100,g,13,g,8,g,0,g,0,g,0,g,11,g
+157,second cup,caffe latte 12 oz with soy milk,3,g,0,mg,180,g,9,g,4,g,0,g,0,g,1,g,6,g
+158,second cup,caffe latte 16 oz with 2 milk,6,g,25,mg,125,g,15,g,10,g,3.5,g,0,g,0,g,14,g
+159,second cup,caffe latte 16 oz with almond milk,3.5,g,0,mg,140,g,3,g,1,g,0,g,0,g,1,g,0,g
+160,second cup,caffe latte 16 oz with skim milk,0,g,5,mg,130,g,16,g,10,g,0,g,0,g,0,g,15,g
+161,second cup,caffe latte 16 oz with soy milk,3.5,g,0,mg,230,g,12,g,6,g,0.5,g,0,g,1,g,8,g
+162,second cup,caffe latte 20 oz with 2 milk,7,g,30,mg,160,g,19,g,13,g,4,g,0,g,0,g,17,g
+163,second cup,caffe latte 20 oz with almond milk,4.5,g,0,mg,180,g,4,g,2,g,0,g,0,g,1,g,0,g
+164,second cup,caffe latte 20 oz with skim milk,0,g,5,mg,160,g,20,g,13,g,0,g,0,g,0,g,18,g
+165,second cup,caffe latte 20 oz with soy milk,4.5,g,0,mg,280,g,15,g,7,g,0.5,g,0,g,1,g,10,g
+166,second cup,cappuccino 12 oz with 2 milk,4,g,15,mg,100,g,10,g,7,g,2.5,g,0,g,0,g,10,g
+167,second cup,cappuccino 12 oz with almond milk,3,g,0,mg,110,g,2,g,1,g,0,g,0,g,1,g,0,g
+168,second cup,cappuccino 12 oz with skim milk,0,g,0,mg,110,g,10,g,7,g,0,g,0,g,0,g,9,g
+169,second cup,cappuccino 12 oz with soy milk,3.5,g,0,mg,110,g,7,g,5,g,0.5,g,0,g,1,g,5,g
+170,second cup,cappuccino 16 oz with 2 milk,6,g,25,mg,135,g,14,g,10,g,4,g,0,g,0,g,14,g
+171,second cup,cappuccino 16 oz with almond milk,3.5,g,0,mg,140,g,3,g,1,g,0,g,0,g,1,g,0,g
+172,second cup,cappuccino 16 oz with skim milk,0,g,5,mg,170,g,16,g,11,g,0,g,0,g,0,g,15,g
+173,second cup,cappuccino 16 oz with soy milk,5,g,0,mg,150,g,10,g,8,g,0.5,g,0,g,1,g,7,g
+174,second cup,cappuccino 20 oz with 2 milk,7,g,25,mg,160,g,16,g,11,g,4.5,g,0,g,0,g,16,g
+175,second cup,cappuccino 20 oz with almond milk,4.5,g,0,mg,180,g,4,g,2,g,0,g,0,g,1,g,0,g
+176,second cup,cappuccino 20 oz with skim milk,0,g,5,mg,200,g,18,g,12,g,0.5,g,0,g,0,g,17,g
+177,second cup,cappuccino 20 oz with soy milk,5,g,0,mg,180,g,11,g,9,g,1.5,g,0,g,1,g,8,g
+178,second cup,caramel corretto 12 oz with 2 milk,8,g,15,mg,210,g,41,g,7,g,6,g,0,g,0,g,33,g
+179,second cup,caramel corretto 12 oz with almond milk,6,g,0,mg,210,g,33,g,1,g,4,g,0,g,1,g,25,g
+180,second cup,caramel corretto 12 oz with skim milk,4,g,5,mg,210,g,41,g,7,g,3.5,g,0,g,0,g,34,g
+181,second cup,caramel corretto 12 oz with soy milk,6,g,0,mg,260,g,39,g,4,g,4,g,0,g,0,g,30,g
+182,second cup,caramel corretto 16 oz with 2 milk,10,g,20,mg,280,g,54,g,9,g,8,g,0,g,0,g,44,g
+183,second cup,caramel corretto 16 oz with almond milk,8,g,0,mg,270,g,43,g,2,g,5,g,0,g,1,g,32,g
+184,second cup,caramel corretto 16 oz with skim milk,5,g,5,mg,280,g,55,g,9,g,4.5,g,0,g,0,g,44,g
+185,second cup,caramel corretto 16 oz with soy milk,8,g,0,mg,350,g,51,g,5,g,5,g,0,g,0,g,39,g
+186,second cup,caramel corretto 20 oz with 2 milk,14,g,25,mg,390,g,76,g,11,g,10,g,0,g,0,g,61,g
+187,second cup,caramel corretto 20 oz with almond milk,11,g,0,mg,380,g,63,g,2,g,7,g,0,g,1,g,47,g
+188,second cup,caramel corretto 20 oz with skim milk,8,g,5,mg,390,g,77,g,11,g,7,g,0,g,0,g,63,g
+189,second cup,caramel corretto 20 oz with soy milk,11,g,0,mg,470,g,73,g,7,g,7,g,0,g,0,g,55,g
+190,second cup,caramel frappe 22 oz with soy milk,9,g,0,mg,350,g,72,g,3,g,7,g,0,g,0,g,54,g
+191,second cup,caramel frappe 12 oz with 2 milk,6,g,5,mg,210,g,51,g,3,g,5,g,0,g,0,g,39,g
+192,second cup,caramel frappe 12 oz with almond milk,6,g,0,mg,210,g,48,g,1,g,5,g,0,g,0,g,36,g
+193,second cup,caramel frappe 12 oz with skim milk,5,g,0,mg,220,g,51,g,3,g,4.5,g,0,g,0,g,39,g
+194,second cup,caramel frappe 12 oz with soy milk,6,g,0,mg,230,g,50,g,2,g,5,g,0,g,0,g,38,g
+195,second cup,caramel frappe 16 oz with 2 milk,7,g,10,mg,230,g,52,g,4,g,6,g,0,g,0,g,40,g
+196,second cup,caramel frappe 16 oz with almond milk,6,g,0,mg,230,g,48,g,1,g,5,g,0,g,0,g,36,g
+197,second cup,caramel frappe 16 oz with skim milk,5,g,5,mg,230,g,53,g,4,g,4.5,g,0,g,0,g,41,g
+198,second cup,caramel frappe 16 oz with soy milk,6,g,0,mg,250,g,51,g,3,g,5,g,0,g,0,g,39,g
+199,second cup,caramel frappe 22 oz with 2 milk,10,g,10,mg,320,g,73,g,5,g,8,g,0,g,0,g,57,g
+200,second cup,caramel frappe 22 oz with almond milk,9,g,0,mg,320,g,68,g,2,g,7,g,0,g,0,g,51,g
+201,second cup,caramel frappe 22 oz with skim milk,8,g,5,mg,320,g,74,g,5,g,7,g,0,g,0,g,57,g
+202,second cup,carrot oat muffin,30,g,160,mg,310,g,66,g,7,g,4.5,g,0,g,3,g,36,g
+203,second cup,chai frappe 22 oz with soy milk,6,g,0,mg,230,g,66,g,3,g,4,g,0,g,0,g,59,g
+204,second cup,chai frappe 12 oz with 2 milk,5,g,5,mg,170,g,57,g,3,g,4.5,g,0,g,0,g,51,g
+205,second cup,chai frappe 12 oz with almond milk,5,g,0,mg,170,g,55,g,1,g,4,g,0,g,0,g,48,g
+206,second cup,chai frappe 12 oz with skim milk,4.5,g,0,mg,170,g,58,g,3,g,4,g,0,g,0,g,51,g
+207,second cup,chai frappe 12 oz with soy milk,5,g,0,mg,190,g,57,g,2,g,4,g,0,g,0,g,50,g
+208,second cup,chai frappe 16 oz with 2 milk,6,g,10,mg,190,g,59,g,4,g,5,g,0,g,0,g,52,g
+209,second cup,chai frappe 16 oz with almond milk,5,g,0,mg,180,g,55,g,1,g,4,g,0,g,0,g,48,g
+210,second cup,chai frappe 16 oz with skim milk,4.5,g,0,mg,190,g,59,g,4,g,4,g,0,g,0,g,53,g
+211,second cup,chai frappe 16 oz with soy milk,5,g,0,mg,210,g,58,g,2,g,4,g,0,g,0,g,51,g
+212,second cup,chai frappe 22 oz with 2 milk,7,g,10,mg,200,g,67,g,5,g,5,g,0,g,0,g,61,g
+213,second cup,chai frappe 22 oz with almond milk,6,g,0,mg,200,g,62,g,1,g,4,g,0,g,0,g,55,g
+214,second cup,chai frappe 22 oz with skim milk,4.5,g,5,mg,200,g,68,g,5,g,4,g,0,g,0,g,61,g
+215,second cup,chai latte 12 oz with 2 milk,4,g,15,mg,75,g,30,g,7,g,2.5,g,0,g,0,g,30,g
+216,second cup,chai latte 12 oz with almond milk,2.5,g,0,mg,85,g,22,g,1,g,0,g,0,g,1,g,21,g
+217,second cup,chai latte 12 oz with skim milk,0,g,5,mg,80,g,31,g,7,g,0,g,0,g,0,g,31,g
+218,second cup,chai latte 12 oz with soy milk,2.5,g,0,mg,140,g,28,g,4,g,0,g,0,g,1,g,26,g
+219,second cup,chai latte 16 oz with 2 milk,5,g,20,mg,100,g,40,g,9,g,3,g,0,g,0,g,40,g
+220,second cup,chai latte 16 oz with almond milk,3,g,0,mg,115,g,29,g,1,g,0,g,0,g,1,g,28,g
+221,second cup,chai latte 16 oz with skim milk,0,g,5,mg,105,g,41,g,9,g,0,g,0,g,0,g,41,g
+222,second cup,chai latte 16 oz with soy milk,3,g,0,mg,190,g,37,g,5,g,0,g,0,g,1,g,35,g
+223,second cup,chai latte 20 oz with 2 milk,6,g,25,mg,125,g,50,g,11,g,4,g,0,g,0,g,50,g
+224,second cup,chai latte 20 oz with almond milk,4,g,0,mg,140,g,36,g,1,g,0,g,0,g,1,g,35,g
+225,second cup,chai latte 20 oz with skim milk,0,g,5,mg,130,g,51,g,11,g,0,g,0,g,0,g,51,g
+226,second cup,chai latte 20 oz with soy milk,4,g,0,mg,240,g,46,g,6,g,0.5,g,0,g,1,g,44,g
+227,second cup,chicken noodle soup,0.5,g,0,mg,360,g,3,g,3,g,0,g,0,g,0,g,1,g
+228,second cup,chicken pot pie,35,g,105,mg,600,g,41,g,15,g,20,g,0,g,2,g,1,g
+229,second cup,chocolate almond croissant,38,g,130,mg,480,g,55,g,8,g,22,g,0,g,3,g,15,g
+230,second cup,chocolate banana power smoothie with oatmilk,6,g,15,mg,270,g,85,g,17,g,1.5,g,0,g,5,g,59,g
+231,second cup,classic hot chocolate 12 oz with 2 milk,18,g,45,mg,310,g,45,g,9,g,13,g,0,g,1,g,39,g
+232,second cup,classic hot chocolate 12 oz with almond milk,17,g,30,mg,310,g,37,g,3,g,11,g,0,g,2,g,30,g
+233,second cup,classic hot chocolate 12 oz with skim milk,15,g,35,mg,310,g,46,g,9,g,11,g,0,g,1,g,39,g
+234,second cup,classic hot chocolate 12 oz with soy milk,17,g,30,mg,360,g,43,g,6,g,11,g,0,g,1,g,35,g
+235,second cup,classic hot chocolate 16 oz with 2 milk,21,g,50,mg,390,g,56,g,11,g,15,g,0,g,2,g,48,g
+236,second cup,classic hot chocolate 16 oz with almond milk,19,g,30,mg,390,g,46,g,4,g,12,g,0,g,3,g,37,g
+237,second cup,classic hot chocolate 16 oz with skim milk,16,g,35,mg,400,g,57,g,11,g,12,g,0,g,2,g,49,g
+238,second cup,classic hot chocolate 16 oz with soy milk,19,g,30,mg,460,g,53,g,7,g,12,g,0,g,2,g,44,g
+239,second cup,classic hot chocolate 20 oz with 2 milk,23,g,55,mg,470,g,68,g,14,g,16,g,0.5,g,2,g,58,g
+240,second cup,classic hot chocolate 20 oz with almond milk,21,g,30,mg,470,g,55,g,4,g,13,g,0,g,3,g,44,g
+241,second cup,classic hot chocolate 20 oz with skim milk,17,g,35,mg,480,g,69,g,14,g,13,g,0,g,2,g,59,g
+242,second cup,classic hot chocolate 20 oz with soy milk,21,g,30,mg,560,g,64,g,9,g,14,g,0,g,2,g,52,g
+243,second cup,classic hot chocolate 8 oz with 2 milk,16,g,45,mg,260,g,34,g,6,g,11,g,0,g,1,g,28,g
+244,second cup,classic hot chocolate 8 oz with almond milk,14,g,25,mg,250,g,28,g,3,g,9,g,0,g,2,g,23,g
+245,second cup,classic hot chocolate 8 oz with skim milk,12,g,30,mg,260,g,37,g,8,g,9,g,0,g,1,g,32,g
+246,second cup,classic hot chocolate 8 oz with soy milk,14,g,25,mg,300,g,34,g,5,g,9,g,0,g,1,g,28,g
+247,second cup,con panna double,16,g,20,mg,40,g,6,g,2,g,10,g,0,g,0,g,2,g
+248,second cup,con panna single,16,g,20,mg,35,g,6,g,2,g,10,g,0,g,0,g,2,g
+249,second cup,creme caramel flash cold brew 12 oz,2.5,g,0,mg,85,g,22,g,1,g,2.5,g,0,g,0,g,17,g
+250,second cup,creme caramel flash cold brew 16 oz,2.5,g,0,mg,85,g,22,g,1,g,2.5,g,0,g,0,g,17,g
+251,second cup,creme caramel flash cold brew 22 oz,5,g,0,mg,160,g,42,g,1,g,4.5,g,0,g,0,g,32,g
+252,second cup,egg and cheddar english muffin,13,g,175,mg,440,g,29,g,13,g,2,g,0,g,1,g,4,g
+253,second cup,egg white kale and feta wrap,12,g,15,mg,800,g,34,g,15,g,4,g,0,g,32,g,3,g
+254,second cup,egg white pesto swiss on naan,15,g,15,mg,830,g,37,g,16,g,5,g,0,g,13,g,4,g
+255,second cup,egg sausage and jack cheese,28,g,205,mg,740,g,29,g,19,g,10,g,0,g,1,g,4,g
+256,second cup,espresso frappe 12 oz with 2 milk,5,g,5,mg,180,g,30,g,3,g,4.5,g,0,g,0,g,22,g
+257,second cup,espresso frappe 12 oz with almond milk,5,g,0,mg,170,g,27,g,1,g,4,g,0,g,0,g,20,g
+258,second cup,espresso frappe 12 oz with skim milk,4.5,g,0,mg,180,g,30,g,3,g,4,g,0,g,0,g,23,g
+259,second cup,espresso frappe 12 oz with soy milk,5,g,0,mg,190,g,29,g,2,g,4,g,0,g,0,g,21,g
+260,second cup,espresso frappe 16 oz with 2 milk,6,g,10,mg,190,g,31,g,4,g,5,g,0,g,0,g,24,g
+261,second cup,espresso frappe 16 oz with almond milk,5,g,0,mg,190,g,27,g,1,g,4,g,0,g,0,g,20,g
+262,second cup,espresso frappe 16 oz with skim milk,4.5,g,0,mg,190,g,32,g,4,g,4,g,0,g,0,g,24,g
+263,second cup,espresso frappe 16 oz with soy milk,5,g,0,mg,220,g,30,g,2,g,4,g,0,g,0,g,22,g
+264,second cup,espresso frappe 22 oz with 2 milk,5,g,5,mg,180,g,30,g,3,g,4.5,g,0,g,0,g,22,g
+265,second cup,espresso frappe 22 oz with almond milk,11,g,0,mg,370,g,53,g,2,g,9,g,0,g,0,g,40,g
+266,second cup,espresso frappe 22 oz with skim milk,10,g,5,mg,370,g,59,g,6,g,9,g,0,g,0,g,46,g
+267,second cup,espresso frappe 22 oz with soy milk,11,g,0,mg,400,g,57,g,4,g,9,g,0,g,0,g,43,g
+268,second cup,espresso macchiato double with 2 milk,1,g,0,mg,25,g,1,g,1,g,0.5,g,0,g,0,g,1,g
+269,second cup,espresso macchiato double with almond milk,0,g,0,mg,25,g,1,g,0,g,0,g,0,g,0,g,0,g
+270,second cup,espresso macchiato double with skim milk,0.5,g,0,mg,25,g,2,g,1,g,0,g,0,g,0,g,2,g
+271,second cup,espresso macchiato double with soy milk,1,g,0,mg,25,g,1,g,1,g,0,g,0,g,0,g,1,g
+272,second cup,espresso macchiato single with 2 milk,0.5,g,0,mg,20,g,1,g,1,g,0,g,0,g,0,g,1,g
+273,second cup,espresso macchiato single with almond milk,0,g,0,mg,20,g,1,g,0,g,0,g,0,g,0,g,0,g
+274,second cup,espresso macchiato single with skim milk,0,g,0,mg,20,g,2,g,1,g,0,g,0,g,0,g,2,g
+275,second cup,espresso macchiato single with soy milk,0.5,g,0,mg,20,g,1,g,1,g,0,g,0,g,0,g,1,g
+276,second cup,espresso double,0,g,0,mg,15,g,2,g,0,g,0,g,0,g,0,g,0,g
+277,second cup,espresso single,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,0,g
+278,second cup,flash cold brew 12 oz sweetened,0,g,0,mg,10,g,10,g,0,g,0,g,0,g,0,g,7,g
+279,second cup,flash cold brew 12 oz unsweetened,0,g,0,mg,10,g,3,g,0,g,0,g,0,g,0,g,0,g
+280,second cup,flash cold brew 16 oz sweetened,0,g,0,mg,10,g,17,g,0,g,0,g,0,g,0,g,13,g
+281,second cup,flash cold brew 16 oz unsweetened,0,g,0,mg,10,g,4,g,0,g,0,g,0,g,0,g,0,g
+282,second cup,flash cold brew 22 oz sweetened,0.5,g,0,mg,15,g,26,g,0,g,0,g,0,g,0,g,20,g
+283,second cup,flash cold brew 22 oz unsweetened,0.5,g,0,mg,15,g,6,g,0,g,0,g,0,g,0,g,0,g
+284,second cup,flat white 8 oz with 2 milk,3.5,g,15,mg,85,g,9,g,6,g,2,g,0,g,0,g,9,g
+285,second cup,flat white 8 oz with almond milk,2.5,g,0,mg,95,g,2,g,1,g,0,g,0,g,1,g,0,g
+286,second cup,flat white 8 oz with skim milk,0,g,5,mg,90,g,9,g,6,g,0,g,0,g,0,g,9,g
+287,second cup,flat white 8 oz with soy milk,3,g,0,mg,90,g,6,g,5,g,0,g,0,g,1,g,5,g
+288,second cup,frocho 22 oz with soy milk,23,g,65,mg,420,g,105,g,19,g,12,g,0.5,g,6,g,94,g
+289,second cup,frocho 12 oz with 2 milk,13,g,45,mg,210,g,55,g,11,g,8,g,0,g,3,g,51,g
+290,second cup,frocho 12 oz with almond milk,15,g,40,mg,210,g,50,g,7,g,9,g,0,g,3,g,45,g
+291,second cup,frocho 12 oz with skim milk,11,g,40,mg,210,g,56,g,11,g,7,g,0,g,3,g,51,g
+292,second cup,frocho 12 oz with soy milk,13,g,40,mg,220,g,54,g,9,g,7,g,0,g,3,g,46,g
+293,second cup,frocho 16 oz with 2 milk,15,g,55,mg,310,g,82,g,16,g,9,g,0,g,4,g,75,g
+294,second cup,frocho 16 oz with almond milk,16,g,40,mg,300,g,73,g,10,g,9,g,0,g,5,g,66,g
+295,second cup,frocho 16 oz with skim milk,11,g,45,mg,310,g,82,g,16,g,7,g,0,g,4,g,76,g
+296,second cup,frocho 16 oz with soy milk,14,g,40,mg,310,g,79,g,15,g,7,g,0,g,5,g,71,g
+297,second cup,frocho 22 oz with 2 milk,23,g,85,mg,410,g,108,g,21,g,14,g,0.5,g,5,g,100,g
+298,second cup,frocho 22 oz with almond milk,17,g,40,mg,400,g,97,g,13,g,9,g,0,g,6,g,87,g
+299,second cup,frocho 22 oz with skim milk,19,g,70,mg,420,g,109,g,21,g,12,g,0.5,g,5,g,100,g
+300,second cup,green mango boost blended drink,1,g,15,mg,75,g,79,g,11,g,0,g,0,g,5,g,59,g
+301,second cup,ham and cheese melt,23,g,80,mg,1580,g,44,g,30,g,14,g,0.5,g,7,g,9,g
+302,second cup,hibiscus berry mint iced tea 12 oz,0,g,0,mg,0,g,18,g,0,g,0,g,0,g,0,g,18,g
+303,second cup,hibiscus berry mint iced tea 16 oz,0,g,0,mg,0,g,18,g,0,g,0,g,0,g,0,g,18,g
+304,second cup,hibiscus berry mint iced tea 22 oz,0,g,0,mg,0,g,30,g,0,g,0,g,0,g,0,g,29,g
+305,second cup,honey vanilla tea latte 12 oz with 2 milk,6,g,15,mg,160,g,34,g,7,g,4,g,0,g,0,g,29,g
+306,second cup,honey vanilla tea latte 12 oz with almond milk,4.5,g,0,mg,150,g,26,g,1,g,2.5,g,0,g,1,g,21,g
+307,second cup,honey vanilla tea latte 12 oz with skim milk,2.5,g,5,mg,160,g,34,g,7,g,2,g,0,g,0,g,30,g
+308,second cup,honey vanilla tea latte 12 oz with soy milk,4.5,g,0,mg,210,g,31,g,4,g,2.5,g,0,g,0,g,25,g
+309,second cup,honey vanilla tea latte 16 oz with 2 milk,7,g,20,mg,190,g,36,g,9,g,5,g,0,g,0,g,32,g
+310,second cup,honey vanilla tea latte 16 oz with almond milk,5,g,0,mg,180,g,26,g,1,g,2.5,g,0,g,1,g,21,g
+311,second cup,honey vanilla tea latte 16 oz with skim milk,2.5,g,5,mg,190,g,37,g,9,g,2,g,0,g,0,g,33,g
+312,second cup,honey vanilla tea latte 16 oz with soy milk,5,g,0,mg,250,g,34,g,5,g,2.5,g,0,g,0,g,27,g
+313,second cup,honey vanilla tea latte 20 oz with 2 milk,9,g,25,mg,250,g,49,g,11,g,7,g,0,g,0,g,42,g
+314,second cup,honey vanilla tea latte 20 oz with almond milk,7,g,0,mg,240,g,36,g,1,g,3.5,g,0,g,1,g,28,g
+315,second cup,honey vanilla tea latte 20 oz with skim milk,3.5,g,5,mg,260,g,50,g,11,g,3,g,0,g,0,g,43,g
+316,second cup,honey vanilla tea latte 20 oz with soy milk,7,g,0,mg,330,g,45,g,6,g,4,g,0,g,0,g,36,g
+317,second cup,iced caffe latte 12 oz with 2 milk,4.5,g,20,mg,95,g,12,g,8,g,2.5,g,0,g,0,g,11,g
+318,second cup,iced caffe latte 12 oz with almond milk,3,g,0,mg,110,g,2,g,1,g,0,g,0,g,1,g,0,g
+319,second cup,iced caffe latte 12 oz with skim milk,0,g,5,mg,100,g,13,g,8,g,0,g,0,g,0,g,11,g
+320,second cup,iced caffe latte 12 oz with soy milk,3,g,0,mg,180,g,9,g,4,g,0,g,0,g,1,g,6,g
+321,second cup,iced caffe latte 16 oz with 2 milk,5,g,20,mg,115,g,14,g,9,g,3,g,0,g,0,g,12,g
+322,second cup,iced caffe latte 16 oz with almond milk,3,g,0,mg,130,g,3,g,1,g,0,g,0,g,1,g,0,g
+323,second cup,iced caffe latte 16 oz with skim milk,0,g,5,mg,120,g,15,g,9,g,0,g,0,g,0,g,13,g
+324,second cup,iced caffe latte 16 oz with soy milk,3,g,0,mg,200,g,11,g,5,g,0.5,g,0,g,1,g,7,g
+325,second cup,iced caffe latte 22 oz with 2 milk,7,g,25,mg,150,g,17,g,12,g,4,g,0,g,0,g,15,g
+326,second cup,iced caffe latte 22 oz with almond milk,4,g,0,mg,160,g,4,g,1,g,0,g,0,g,1,g,0,g
+327,second cup,iced caffe latte 22 oz with skim milk,0,g,5,mg,150,g,19,g,12,g,0,g,0,g,0,g,16,g
+328,second cup,iced caffe latte 22 oz with soy milk,4,g,0,mg,260,g,14,g,6,g,0.5,g,0,g,1,g,9,g
+329,second cup,iced caramel corretto 12 oz with 2 milk,19,g,50,mg,210,g,43,g,7,g,13,g,0.5,g,0,g,35,g
+330,second cup,iced caramel corretto 12 oz with almond milk,18,g,40,mg,200,g,36,g,2,g,11,g,0,g,1,g,28,g
+331,second cup,iced caramel corretto 12 oz with skim milk,16,g,40,mg,210,g,43,g,7,g,11,g,0,g,0,g,36,g
+332,second cup,iced caramel corretto 12 oz with soy milk,18,g,40,mg,250,g,41,g,4,g,12,g,0,g,0,g,32,g
+333,second cup,iced caramel corretto 16 oz with 2 milk,21,g,55,mg,260,g,54,g,8,g,15,g,0.5,g,0,g,44,g
+334,second cup,iced caramel corretto 16 oz with almond milk,20,g,40,mg,260,g,46,g,2,g,13,g,0.5,g,1,g,35,g
+335,second cup,iced caramel corretto 16 oz with skim milk,17,g,45,mg,260,g,55,g,8,g,12,g,0.5,g,0,g,45,g
+336,second cup,iced caramel corretto 16 oz with soy milk,20,g,40,mg,310,g,51,g,5,g,13,g,0.5,g,0,g,40,g
+337,second cup,iced caramel corretto 22 oz with 2 milk,24,g,55,mg,350,g,75,g,9,g,17,g,0.5,g,0,g,60,g
+338,second cup,iced caramel corretto 22 oz with almond milk,22,g,40,mg,350,g,66,g,3,g,15,g,0.5,g,1,g,50,g
+339,second cup,iced caramel corretto 22 oz with skim milk,20,g,45,mg,360,g,76,g,9,g,15,g,0.5,g,0,g,61,g
+340,second cup,iced caramel corretto 22 oz with soy milk,22,g,40,mg,410,g,73,g,6,g,15,g,0.5,g,0,g,56,g
+341,second cup,iced fudge brownie square,29,g,220,mg,110,g,52,g,5,g,16,g,0,g,2,g,41,g
+342,second cup,iced moccaccino 12 oz with 2 milk,19,g,50,mg,250,g,37,g,8,g,13,g,0.5,g,1,g,31,g
+343,second cup,iced moccaccino 12 oz with almond milk,18,g,40,mg,250,g,30,g,3,g,11,g,0,g,2,g,24,g
+344,second cup,iced moccaccino 12 oz with skim milk,16,g,40,mg,250,g,37,g,8,g,11,g,0,g,1,g,32,g
+345,second cup,iced moccaccino 12 oz with soy milk,18,g,40,mg,290,g,35,g,5,g,12,g,0,g,1,g,28,g
+346,second cup,iced moccaccino 16 oz with 2 milk,21,g,55,mg,320,g,47,g,9,g,15,g,0.5,g,1,g,39,g
+347,second cup,iced moccaccino 16 oz with almond milk,20,g,40,mg,320,g,39,g,3,g,13,g,0,g,2,g,31,g
+348,second cup,iced moccaccino 16 oz with skim milk,17,g,40,mg,330,g,48,g,9,g,12,g,0,g,1,g,40,g
+349,second cup,iced moccaccino 16 oz with soy milk,20,g,40,mg,370,g,45,g,6,g,13,g,0,g,1,g,36,g
+350,second cup,iced moccaccino 22 oz with 2 milk,23,g,55,mg,400,g,58,g,11,g,16,g,0.5,g,2,g,48,g
+351,second cup,iced moccaccino 22 oz with almond milk,21,g,40,mg,390,g,49,g,4,g,14,g,0,g,2,g,38,g
+352,second cup,iced moccaccino 22 oz with skim milk,19,g,45,mg,400,g,59,g,11,g,14,g,0,g,2,g,49,g
+353,second cup,iced moccaccino 22 oz with soy milk,21,g,40,mg,460,g,55,g,7,g,14,g,0,g,2,g,44,g
+354,second cup,iced vanilla bean latte 12 oz with 2 milk,5,g,10,mg,150,g,27,g,6,g,4,g,0,g,0,g,21,g
+355,second cup,iced vanilla bean latte 12 oz with almond milk,4,g,0,mg,150,g,20,g,1,g,2.5,g,0,g,1,g,14,g
+356,second cup,iced vanilla bean latte 12 oz with skim milk,2.5,g,5,mg,150,g,27,g,6,g,2,g,0,g,0,g,22,g
+357,second cup,iced vanilla bean latte 12 oz with soy milk,4,g,0,mg,190,g,25,g,3,g,2.5,g,0,g,0,g,18,g
+358,second cup,iced vanilla bean latte 16 oz with 2 milk,7,g,15,mg,200,g,38,g,7,g,5,g,0,g,0,g,30,g
+359,second cup,iced vanilla bean latte 16 oz with almond milk,6,g,0,mg,200,g,30,g,1,g,3.5,g,0,g,1,g,21,g
+360,second cup,iced vanilla bean latte 16 oz with skim milk,3.5,g,5,mg,210,g,39,g,7,g,3,g,0,g,0,g,31,g
+361,second cup,iced vanilla bean latte 16 oz with soy milk,6,g,0,mg,250,g,36,g,4,g,3.5,g,0,g,0,g,26,g
+362,second cup,iced vanilla bean latte 22 oz with 2 milk,9,g,20,mg,270,g,50,g,9,g,7,g,0,g,0,g,39,g
+363,second cup,iced vanilla bean latte 22 oz with almond milk,7,g,0,mg,260,g,41,g,1,g,4.5,g,0,g,1,g,29,g
+364,second cup,iced vanilla bean latte 22 oz with skim milk,5,g,5,mg,270,g,51,g,9,g,4.5,g,0,g,0,g,40,g
+365,second cup,iced vanilla bean latte 22 oz with soy milk,7,g,0,mg,330,g,48,g,5,g,4.5,g,0,g,0,g,35,g
+366,second cup,italian soda 12 oz,0,g,0,mg,0,g,27,g,0,g,0,g,0,g,0,g,27,g
+367,second cup,italian soda 16 oz,0,g,0,mg,0,g,36,g,0,g,0,g,0,g,0,g,36,g
+368,second cup,italian soda 22 oz,0,g,0,mg,0,g,54,g,0,g,0,g,0,g,0,g,54,g
+369,second cup,london fog 12 oz with 2 milk,6,g,25,mg,160,g,28,g,10,g,3.5,g,0,g,0,g,13,g
+370,second cup,london fog 12 oz with skim milk,0.5,g,5,mg,160,g,29,g,11,g,0,g,0,g,0,g,27,g
+371,second cup,london fog 12 oz with soy milk,6,g,0,mg,170,g,29,g,14,g,0.5,g,0,g,4,g,15,g
+372,second cup,london fog 16 oz with 2 milk,8,g,30,mg,210,g,40,g,14,g,5,g,0,g,0,g,20,g
+373,second cup,london fog 16 oz with skim milk,0.5,g,5,mg,210,g,40,g,14,g,0.5,g,0,g,0,g,38,g
+374,second cup,london fog 16 oz with soy milk,8,g,0,mg,230,g,41,g,19,g,1,g,0,g,5,g,22,g
+375,second cup,london fog 20 oz with 2 milk,10,g,40,mg,260,g,51,g,17,g,6,g,0,g,0,g,27,g
+376,second cup,london fog 20 oz with skim milk,1,g,10,mg,270,g,52,g,18,g,0.5,g,0,g,0,g,49,g
+377,second cup,london fog 20 oz with soy milk,10,g,0,mg,280,g,52,g,23,g,1,g,0,g,7,g,29,g
+378,second cup,mango cream frocho 22 oz with soy milk,26,g,40,mg,470,g,98,g,5,g,19,g,0.5,g,2,g,84,g
+379,second cup,mango cream frocho 12 oz with 2 milk,21,g,45,mg,270,g,68,g,4,g,16,g,0.5,g,1,g,59,g
+380,second cup,mango cream frocho 12 oz with almond milk,21,g,40,mg,270,g,65,g,2,g,15,g,0.5,g,1,g,56,g
+381,second cup,mango cream frocho 12 oz with skim milk,20,g,40,mg,270,g,68,g,4,g,15,g,0.5,g,1,g,59,g
+382,second cup,mango cream frocho 12 oz with soy milk,21,g,40,mg,290,g,67,g,3,g,15,g,0.5,g,1,g,58,g
+383,second cup,mango cream frocho 16 oz with 2 milk,22,g,50,mg,300,g,71,g,6,g,16,g,0.5,g,1,g,62,g
+384,second cup,mango cream frocho 16 oz with almond milk,21,g,40,mg,290,g,65,g,2,g,15,g,0.5,g,2,g,56,g
+385,second cup,mango cream frocho 16 oz with skim milk,20,g,40,mg,300,g,71,g,6,g,15,g,0.5,g,1,g,62,g
+386,second cup,mango cream frocho 16 oz with soy milk,21,g,40,mg,330,g,69,g,4,g,15,g,0.5,g,1,g,59,g
+387,second cup,mango cream frocho 22 oz with 2 milk,27,g,50,mg,430,g,100,g,7,g,20,g,0.5,g,2,g,87,g
+388,second cup,mango cream frocho 22 oz with almond milk,26,g,40,mg,420,g,94,g,3,g,19,g,0.5,g,2,g,80,g
+389,second cup,mango cream frocho 22 oz with skim milk,24,g,40,mg,430,g,101,g,7,g,19,g,0.5,g,2,g,87,g
+390,second cup,maple flash cold brew 12 oz,2,g,0,mg,60,g,19,g,0,g,2,g,0,g,0,g,17,g
+391,second cup,maple flash cold brew 16 oz,2,g,0,mg,60,g,24,g,1,g,2,g,0,g,0,g,22,g
+392,second cup,maple flash cold brew 22 oz,4,g,0,mg,120,g,37,g,1,g,3.5,g,0,g,0,g,34,g
+393,second cup,maple latte 12 oz with 2 milk,8,g,15,mg,200,g,37,g,7,g,6,g,0,g,0,g,32,g
+394,second cup,maple latte 16 oz with skim milk,4,g,5,mg,240,g,46,g,9,g,3.5,g,0,g,0,g,41,g
+395,second cup,maple latte 20 oz with skim milk,6,g,5,mg,330,g,69,g,11,g,5,g,0,g,0,g,61,g
+396,second cup,maple tea latte 12 oz with 2 milk,3.5,g,15,mg,80,g,24,g,6,g,2,g,0,g,0,g,23,g
+397,second cup,maple tea latte 12 oz with almond milk,2,g,0,mg,75,g,16,g,1,g,0,g,0,g,1,g,15,g
+398,second cup,maple tea latte 12 oz with skim milk,0,g,0,mg,80,g,24,g,6,g,0,g,0,g,0,g,23,g
+399,second cup,maple tea latte 12 oz with soy milk,2,g,0,mg,135,g,21,g,4,g,0,g,0,g,1,g,19,g
+400,second cup,maple tea latte 16 oz with 2 milk,4.5,g,20,mg,105,g,31,g,9,g,3,g,0,g,0,g,30,g
+401,second cup,maple tea latte 16 oz with almond milk,3,g,0,mg,100,g,21,g,1,g,0,g,0,g,1,g,20,g
+402,second cup,maple tea latte 16 oz with skim milk,0,g,0,mg,110,g,31,g,9,g,0,g,0,g,0,g,30,g
+403,second cup,maple tea latte 16 oz with soy milk,3,g,0,mg,180,g,29,g,5,g,0,g,0,g,1,g,26,g
+404,second cup,maple tea latte 20 oz with 2 milk,6,g,25,mg,130,g,39,g,11,g,3.5,g,0,g,0,g,38,g
+405,second cup,maple tea latte 20 oz with almond milk,3.5,g,0,mg,125,g,26,g,1,g,0,g,0,g,1,g,25,g
+406,second cup,maple tea latte 20 oz with skim milk,0,g,0,mg,135,g,39,g,11,g,0,g,0,g,0,g,38,g
+407,second cup,maple tea latte 20 oz with soy milk,3.5,g,0,mg,220,g,36,g,6,g,0.5,g,0,g,1,g,32,g
+408,second cup,matcha tea frappe 22 oz with soy milk,3.5,g,0,mg,210,g,57,g,6,g,0.5,g,0,g,1,g,54,g
+409,second cup,matcha tea frappe 12 oz with 2 milk,3,g,10,mg,60,g,39,g,6,g,1.5,g,0,g,0,g,39,g
+410,second cup,matcha tea frappe 12 oz with almond milk,2,g,0,mg,70,g,33,g,1,g,0,g,0,g,1,g,32,g
+411,second cup,matcha tea frappe 12 oz with skim milk,0,g,5,mg,60,g,40,g,6,g,0,g,0,g,0,g,39,g
+412,second cup,matcha tea frappe 12 oz with soy milk,2,g,0,mg,110,g,37,g,3,g,0,g,0,g,1,g,36,g
+413,second cup,matcha tea frappe 16 oz with 2 milk,4.5,g,15,mg,85,g,41,g,8,g,2.5,g,0,g,0,g,41,g
+414,second cup,matcha tea frappe 16 oz with almond milk,2.5,g,0,mg,100,g,32,g,1,g,0,g,0,g,1,g,31,g
+415,second cup,matcha tea frappe 16 oz with skim milk,0,g,5,mg,90,g,42,g,8,g,0,g,0,g,0,g,42,g
+416,second cup,matcha tea frappe 16 oz with soy milk,2.5,g,0,mg,160,g,39,g,5,g,0,g,0,g,1,g,37,g
+417,second cup,matcha tea frappe 22 oz with 2 milk,6,g,20,mg,110,g,60,g,11,g,3,g,0,g,0,g,59,g
+418,second cup,matcha tea frappe 22 oz with almond milk,3.5,g,0,mg,130,g,48,g,2,g,0,g,0,g,1,g,46,g
+419,second cup,matcha tea frappe 22 oz with skim milk,0,g,5,mg,115,g,61,g,11,g,0,g,0,g,0,g,60,g
+420,second cup,matcha tea latte 12 oz with 2 milk,6,g,25,mg,150,g,36,g,10,g,3.5,g,0,g,0,g,21,g
+421,second cup,matcha tea latte 12 oz with skim milk,0.5,g,5,mg,160,g,36,g,10,g,0,g,0,g,0,g,34,g
+422,second cup,matcha tea latte 12 oz with soy milk,6,g,0,mg,170,g,36,g,14,g,0.5,g,0,g,4,g,22,g
+423,second cup,matcha tea latte 16 oz with 2 milk,8,g,30,mg,210,g,47,g,14,g,5,g,0,g,0,g,27,g
+424,second cup,matcha tea latte 16 oz with skim milk,1,g,5,mg,210,g,47,g,14,g,0.5,g,0,g,0,g,44,g
+425,second cup,matcha tea latte 16 oz with soy milk,8,g,0,mg,230,g,47,g,18,g,1,g,0,g,5,g,29,g
+426,second cup,matcha tea latte 20 oz with 2 milk,10,g,40,mg,260,g,58,g,17,g,6,g,0,g,0,g,32,g
+427,second cup,matcha tea latte 20 oz with skim milk,1,g,10,mg,270,g,58,g,17,g,0.5,g,0,g,0,g,55,g
+428,second cup,matcha tea latte 20 oz with soy milk,10,g,0,mg,280,g,58,g,23,g,1,g,0,g,7,g,35,g
+429,second cup,mocca flash cold brew 12 oz,2.5,g,0,mg,110,g,17,g,1,g,2.5,g,0,g,1,g,14,g
+430,second cup,mocca flash cold brew 16 oz,2.5,g,0,mg,115,g,17,g,1,g,2.5,g,0,g,1,g,14,g
+431,second cup,mocca flash cold brew 22 oz,5,g,0,mg,220,g,34,g,2,g,4.5,g,0,g,1,g,28,g
+432,second cup,mocca frappe 12 oz with 2 milk,2,g,5,mg,140,g,36,g,5,g,1.5,g,0,g,1,g,29,g
+433,second cup,mocca frappe 12 oz with almond milk,1.5,g,0,mg,135,g,33,g,3,g,1,g,0,g,2,g,27,g
+434,second cup,mocca frappe 12 oz with skim milk,1,g,5,mg,140,g,36,g,5,g,0.5,g,0,g,1,g,29,g
+435,second cup,mocca frappe 12 oz with soy milk,2,g,0,mg,140,g,35,g,5,g,1,g,0,g,2,g,28,g
+436,second cup,mocca frappe 16 oz with 2 milk,3,g,10,mg,150,g,37,g,6,g,2,g,0,g,1,g,31,g
+437,second cup,mocca frappe 16 oz with almond milk,2,g,0,mg,150,g,33,g,4,g,1,g,0,g,2,g,27,g
+438,second cup,mocca frappe 16 oz with skim milk,1,g,5,mg,150,g,38,g,6,g,0.5,g,0,g,1,g,31,g
+439,second cup,mocca frappe 16 oz with soy milk,2.5,g,0,mg,160,g,36,g,6,g,1,g,0,g,2,g,29,g
+440,second cup,mocca frappe 22 oz with 2 milk,4,g,10,mg,240,g,63,g,10,g,2.5,g,0,g,3,g,52,g
+441,second cup,mocca frappe 22 oz with almond milk,3,g,5,mg,240,g,57,g,7,g,1,g,0,g,3,g,48,g
+442,second cup,mocca frappe 22 oz with skim milk,1.5,g,5,mg,250,g,63,g,10,g,1,g,0,g,3,g,53,g
+443,second cup,mocca frappe 22 oz with soy milk,3.5,g,0,mg,250,g,61,g,9,g,1.5,g,0,g,3,g,49,g
+444,second cup,moccaccino 12 oz with 2 milk,17,g,45,mg,260,g,38,g,8,g,12,g,0,g,1,g,32,g
+445,second cup,moccaccino 12 oz with almond milk,16,g,30,mg,260,g,30,g,3,g,10,g,0,g,2,g,23,g
+446,second cup,moccaccino 12 oz with skim milk,13,g,35,mg,270,g,38,g,8,g,10,g,0,g,1,g,33,g
+447,second cup,moccaccino 12 oz with soy milk,16,g,30,mg,310,g,35,g,6,g,10,g,0,g,1,g,28,g
+448,second cup,moccaccino 16 oz with 2 milk,20,g,50,mg,350,g,49,g,11,g,14,g,0,g,1,g,42,g
+449,second cup,moccaccino 16 oz with almond milk,18,g,30,mg,350,g,39,g,3,g,11,g,0,g,2,g,30,g
+450,second cup,moccaccino 16 oz with skim milk,15,g,35,mg,350,g,50,g,11,g,11,g,0,g,1,g,43,g
+451,second cup,moccaccino 16 oz with soy milk,18,g,30,mg,420,g,46,g,7,g,11,g,0,g,1,g,37,g
+452,second cup,moccaccino 20 oz with 2 milk,22,g,55,mg,440,g,61,g,13,g,15,g,0.5,g,2,g,51,g
+453,second cup,moccaccino 20 oz with almond milk,20,g,30,mg,430,g,48,g,4,g,12,g,0,g,3,g,37,g
+454,second cup,moccaccino 20 oz with skim milk,16,g,35,mg,440,g,63,g,13,g,12,g,0,g,2,g,52,g
+455,second cup,moccaccino 20 oz with soy milk,20,g,30,mg,520,g,58,g,9,g,12,g,0,g,2,g,45,g
+456,second cup,oatmilk maple latte 12 oz dairy free,6,g,0,mg,125,g,43,g,3,g,0.5,g,0,g,1,g,27,g
+457,second cup,oatmilk maple latte 16 oz dairy free,8,g,0,mg,170,g,54,g,4,g,1,g,0,g,1,g,33,g
+458,second cup,oatmilk maple latte 20 oz dairy free,10,g,0,mg,220,g,71,g,5,g,1,g,0,g,1,g,44,g
+459,second cup,oatmilk mocca flash cold brew 12 oz,4.5,g,0,mg,150,g,21,g,2,g,2.5,g,0,g,0,g,14,g
+460,second cup,oatmilk mocca flash cold brew 16 oz,5,g,0,mg,160,g,24,g,2,g,2.5,g,0,g,0,g,15,g
+461,second cup,oatmilk mocca flash cold brew 22 oz,8,g,0,mg,290,g,43,g,4,g,5,g,0,g,1,g,29,g
+462,second cup,original frozen yogurt regular size,0,g,5,mg,130,g,49,g,10,g,0,g,0,g,0,g,45,g
+463,second cup,original frozen yogurt small size,0,g,0,mg,80,g,31,g,6,g,0,g,0,g,0,g,28,g
+464,second cup,pecan square,28,g,180,mg,170,g,45,g,5,g,10,g,1,g,1,g,21,g
+465,second cup,sea salt chocolate chip cookie,16,g,75,mg,220,g,47,g,4,g,10,g,0,g,2,g,30,g
+466,second cup,sparkling green tea lemonade 12 oz,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,2,g,23,g
+467,second cup,sparkling green tea lemonade 16 oz,0,g,0,mg,0,g,26,g,0,g,0,g,0,g,4,g,25,g
+468,second cup,sparkling green tea lemonade 22 oz,0,g,0,mg,5,g,42,g,0,g,0,g,0,g,7,g,40,g
+469,second cup,strawberry banana glow blended drink,6,g,5,mg,30,g,75,g,6,g,1.5,g,0,g,7,g,54,g
+470,second cup,strawberry frozen yogurt regular size,0,g,0,mg,115,g,52,g,9,g,0,g,0,g,0,g,48,g
+471,second cup,strawberry frozen yogurt small size,0,g,0,mg,70,g,33,g,5,g,0,g,0,g,0,g,30,g
+472,second cup,tomato bisque soup,2.5,g,10,mg,380,g,5,g,1,g,1.5,g,0,g,1,g,3,g
+473,second cup,tuna salad wrap,36,g,50,mg,1420,g,66,g,29,g,5,g,1,g,7,g,3,g
+474,second cup,vanilla bean flash cold brew 12 oz,2.5,g,0,mg,75,g,19,g,0,g,2,g,0,g,0,g,14,g
+475,second cup,vanilla bean flash cold brew 16 oz,2.5,g,0,mg,75,g,19,g,1,g,2,g,0,g,0,g,14,g
+476,second cup,vanilla bean flash cold brew 22 oz,4.5,g,0,mg,150,g,38,g,1,g,4,g,0,g,0,g,29,g
+477,second cup,vanilla bean frappe 12 oz with 2 milk,8,g,5,mg,250,g,49,g,3,g,7,g,0,g,0,g,37,g
+478,second cup,vanilla bean frappe 12 oz with almond milk,7,g,0,mg,250,g,46,g,1,g,6,g,0,g,0,g,34,g
+479,second cup,vanilla bean frappe 12 oz with skim milk,7,g,0,mg,250,g,49,g,3,g,6,g,0,g,0,g,37,g
+480,second cup,vanilla bean frappe 12 oz with soy milk,7,g,0,mg,260,g,48,g,2,g,6,g,0,g,0,g,36,g
+481,second cup,vanilla bean frappe 16 oz with 2 milk,8,g,10,mg,260,g,50,g,4,g,7,g,0,g,0,g,38,g
+482,second cup,vanilla bean frappe 16 oz with almond milk,8,g,0,mg,260,g,46,g,1,g,6,g,0,g,0,g,34,g
+483,second cup,vanilla bean frappe 16 oz with skim milk,7,g,5,mg,260,g,50,g,4,g,6,g,0,g,0,g,39,g
+484,second cup,vanilla bean frappe 16 oz with soy milk,8,g,0,mg,290,g,49,g,3,g,6,g,0,g,0,g,36,g
+485,second cup,vanilla bean frappe 22 oz with 2 milk,12,g,10,mg,370,g,70,g,5,g,10,g,0,g,0,g,54,g
+486,second cup,vanilla bean frappe 22 oz with almond milk,11,g,0,mg,370,g,65,g,2,g,9,g,0,g,0,g,48,g
+487,second cup,vanilla bean frappe 22 oz with skim milk,10,g,5,mg,370,g,70,g,5,g,9,g,0,g,0,g,54,g
+488,second cup,vanilla bean frappe 22 oz with soy milk,11,g,0,mg,400,g,68,g,4,g,9,g,0,g,0,g,51,g
+489,second cup,vanilla bean hot chocolate 12 oz with 2 milk,18,g,45,mg,270,g,47,g,8,g,13,g,0,g,1,g,39,g
+490,second cup,vanilla bean hot chocolate 12 oz with almond milk,16,g,30,mg,270,g,39,g,2,g,11,g,0,g,1,g,31,g
+491,second cup,vanilla bean hot chocolate 12 oz with skim milk,14,g,35,mg,270,g,48,g,8,g,10,g,0,g,1,g,40,g
+492,second cup,vanilla bean hot chocolate 12 oz with soy milk,16,g,30,mg,320,g,45,g,5,g,11,g,0,g,1,g,36,g
+493,second cup,vanilla bean hot chocolate 16 oz with 2 milk,20,g,50,mg,350,g,58,g,11,g,14,g,0,g,1,g,49,g
+494,second cup,vanilla bean hot chocolate 16 oz with almond milk,18,g,30,mg,350,g,48,g,3,g,12,g,0,g,2,g,38,g
+495,second cup,vanilla bean hot chocolate 16 oz with skim milk,16,g,35,mg,360,g,59,g,11,g,12,g,0,g,1,g,50,g
+496,second cup,vanilla bean hot chocolate 16 oz with soy milk,18,g,30,mg,420,g,55,g,7,g,12,g,0,g,1,g,44,g
+497,second cup,vanilla bean hot chocolate 20 oz with 2 milk,23,g,55,mg,420,g,70,g,13,g,16,g,0.5,g,1,g,59,g
+498,second cup,vanilla bean hot chocolate 20 oz with almond milk,20,g,30,mg,410,g,57,g,3,g,13,g,0,g,2,g,45,g
+499,second cup,vanilla bean hot chocolate 20 oz with skim milk,17,g,35,mg,420,g,72,g,13,g,13,g,0,g,1,g,60,g
+500,second cup,vanilla bean hot chocolate 20 oz with soy milk,20,g,30,mg,500,g,67,g,8,g,13,g,0,g,1,g,53,g
+501,second cup,vanilla bean hot chocolate 8 oz with 2 milk,15,g,35,mg,220,g,28,g,5,g,9,g,0,g,1,g,22,g
+502,second cup,vanilla bean hot chocolate 8 oz with almond milk,14,g,25,mg,230,g,29,g,2,g,9,g,0,g,1,g,23,g
+503,second cup,vanilla bean hot chocolate 8 oz with skim milk,13,g,40,mg,220,g,30,g,6,g,9,g,0,g,1,g,25,g
+504,second cup,vanilla bean hot chocolate 8 oz with soy milk,15,g,35,mg,220,g,28,g,5,g,9,g,0,g,1,g,22,g
+505,second cup,vanilla bean latte 12 oz with 2 milk,6,g,15,mg,160,g,28,g,7,g,4.5,g,0,g,0,g,23,g
+506,second cup,vanilla bean latte 12 oz with almond milk,4.5,g,0,mg,160,g,20,g,1,g,2.5,g,0,g,1,g,14,g
+507,second cup,vanilla bean latte 12 oz with skim milk,2.5,g,5,mg,170,g,29,g,7,g,2,g,0,g,0,g,24,g
+508,second cup,vanilla bean latte 12 oz with soy milk,4.5,g,0,mg,210,g,26,g,4,g,0,g,0,g,0,g,19,g
+509,second cup,vanilla bean latte 16 oz with 2 milk,8,g,20,mg,230,g,41,g,9,g,6,g,0,g,0,g,33,g
+510,second cup,vanilla bean latte 16 oz with almond milk,6,g,0,mg,230,g,31,g,1,g,3.5,g,0,g,1,g,21,g
+511,second cup,vanilla bean latte 16 oz with skim milk,3.5,g,5,mg,240,g,42,g,9,g,3,g,0,g,0,g,34,g
+512,second cup,vanilla bean latte 16 oz with soy milk,6,g,0,mg,300,g,38,g,5,g,3.5,g,0,g,0,g,28,g
+513,second cup,vanilla bean latte 20 oz with 2 milk,11,g,25,mg,300,g,54,g,11,g,8,g,0,g,0,g,43,g
+514,second cup,vanilla bean latte 20 oz with almond milk,8,g,0,mg,300,g,41,g,2,g,4.5,g,0,g,1,g,29,g
+515,second cup,vanilla bean latte 20 oz with skim milk,5,g,5,mg,310,g,55,g,11,g,4.5,g,0,g,0,g,44,g
+516,second cup,vanilla bean latte 20 oz with soy milk,8,g,0,mg,380,g,50,g,6,g,5,g,0,g,0,g,37,g
+517,second cup,white hot chocolate 12 oz with 2 milk,21,g,45,mg,310,g,45,g,8,g,15,g,0,g,0,g,38,g
+518,second cup,white hot chocolate 12 oz with almond milk,19,g,30,mg,310,g,37,g,2,g,13,g,0,g,1,g,30,g
+519,second cup,white hot chocolate 12 oz with skim milk,17,g,35,mg,310,g,46,g,8,g,13,g,0,g,0,g,39,g
+520,second cup,white hot chocolate 12 oz with soy milk,19,g,30,mg,360,g,43,g,5,g,13,g,0,g,0,g,35,g
+521,second cup,white hot chocolate 16 oz with 2 milk,24,g,50,mg,390,g,56,g,10,g,18,g,0.5,g,0,g,48,g
+522,second cup,white hot chocolate 16 oz with almond milk,22,g,30,mg,390,g,46,g,3,g,15,g,0,g,1,g,36,g
+523,second cup,white hot chocolate 16 oz with skim milk,19,g,35,mg,400,g,57,g,10,g,15,g,0,g,0,g,49,g
+524,second cup,white hot chocolate 16 oz with soy milk,22,g,30,mg,460,g,54,g,6,g,15,g,0,g,0,g,43,g
+525,second cup,white hot chocolate 20 oz with 2 milk,27,g,55,mg,480,g,68,g,12,g,20,g,0.5,g,0,g,57,g
+526,second cup,white hot chocolate 20 oz with almond milk,24,g,30,mg,470,g,55,g,3,g,17,g,0,g,1,g,43,g
+527,second cup,white hot chocolate 20 oz with skim milk,21,g,35,mg,480,g,69,g,12,g,16,g,0,g,0,g,59,g
+528,second cup,white hot chocolate 20 oz with soy milk,24,g,30,mg,560,g,64,g,8,g,17,g,0,g,0,g,51,g
+529,second cup,white hot chocolate 8 oz with 2 milk,17,g,45,mg,220,g,34,g,5,g,12,g,0,g,0,g,28,g
+530,second cup,white hot chocolate 8 oz with almond milk,16,g,25,mg,250,g,28,g,2,g,11,g,0,g,1,g,23,g
+531,second cup,white hot chocolate 8 oz with skim milk,15,g,40,mg,220,g,34,g,5,g,11,g,0,g,0,g,28,g
+532,second cup,white hot chocolate 8 oz with soy milk,16,g,25,mg,300,g,34,g,5,g,11,g,0,g,1,g,25,g
+533,second cup,wild blueberry crumble muffin,21,g,185,mg,360,g,54,g,8,g,4,g,0,g,2,g,21,g
+534,second cup,wild blueberry scone,20,g,155,mg,380,g,55,g,8,g,12,g,0,g,2,g,15,g
+535,shake n bake kraft,chocolate pudding,4,g,1,mg,156,g,25,g,4,g,1,g,0,g,0,g,25,g
+536,shake n bake kraft,raisins,0,g,0,mg,3,g,22,g,0,g,0,g,0,g,1,g,10,g
+537,shake n bake kraft,vinegar,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+538,shake n bake kraft,macaroni salad,14,g,10,mg,540,g,19,g,5,g,4,g,0,g,1,g,7,g
+539,shake n bake kraft,original chicken seasoned coating mix,1,g,0,mg,220,g,7,g,1,g,0,g,0,g,0,g,0,g
+540,shake n bake kraft,original pork seasoned coating mix,0,g,0,mg,240,g,8,g,1,g,0,g,0,g,0,g,1,g
+541,shake n bake kraft,extra crispy seasoned coating mix,0.5,g,0,mg,280,g,7,g,1,g,0,g,0,g,0,g,1,g
+542,shake n bake kraft,parmesan crusted seasoned coating mix,0.5,g,0,mg,290,g,7,g,1,g,0,g,0,g,0,g,1,g
+543,shake n bake kraft,italian seasoned coating mix,0.5,g,0,mg,280,g,7,g,1,g,0,g,0,g,0,g,0,g
+544,shake n bake kraft,ranch and herb crusted seasoned coating mix,0,g,0,mg,350,g,7,g,1,g,0,g,0,g,0,g,1,g
+545,shake n bake kraft,barbecue glaze seasoned coating mix,8.3,g,0,mg,3383,g,74.3,g,0,g,0,g,0,g,0,g,41.3,g
+546,shake n bake kraft,hot and spicy seasoned coating mix,1,g,0,mg,180,g,7,g,1,g,0,g,0,g,0,g,0,g
+547,shake n bake kraft,garlic and herb seasoned coating mix,0,g,0,mg,190,g,7,g,1,g,0,g,0,g,0,g,1,g
+548,shake shack,cookies and cream shake,44,g,235,mg,580,g,98,g,19,g,24,g,0,g,0,g,86,g
+549,shake shack,chocolate shake,45,g,255,mg,310,g,76,g,16,g,27,g,1.5,g,0,g,69,g
+550,shake shack,vanilla shake,36,g,235,mg,430,g,72,g,18,g,22,g,0,g,0,g,71,g
+551,shake shack,peanut butter shake,50,g,189,mg,708,g,79,g,20,g,24,g,0,g,2,g,69,g
+552,shake shack,prosecco,0,g,0,mg,20,g,10,g,0,g,0,g,0,g,0,g,4,g
+553,shake shack,shack made lemonade small,0,g,0,mg,10,g,43,g,0,g,0,g,0,g,0,g,40,g
+554,shake shack,strawberry shake,35,g,230,mg,430,g,77,g,17,g,21,g,0,g,0,g,75,g
+555,shake shack,salted caramel shake,42,g,260,mg,950,g,99,g,17,g,26,g,0,g,0,g,96,g
+556,shake shack,black and white shake,42,g,245,mg,460,g,80,g,19,g,26,g,0,g,0,g,76,g
+557,shake shack,root beer float,15,g,100,mg,220,g,70,g,7,g,9,g,0,g,0,g,69,g
+558,shake shack,coffee shake,35,g,235,mg,420,g,74,g,18,g,22,g,0,g,0,g,70,g
+559,shake shack,christmas cookie shake,52,g,285,mg,790,g,94,g,21,g,31,g,0,g,0,g,87,g
+560,shake shack,fifty fifty small,0,g,0,mg,10,g,22,g,0,g,0,g,0,g,0,g,20,g
+561,shake shack,featured lemonade large,0,g,0,mg,19,g,53,g,0,g,0,g,0,g,0,g,48,g
+562,shake shack,purple cow float,15,g,100,mg,210,g,79,g,7,g,9,g,0,g,0,g,78,g
+563,shake shack,fresh brewed iced tea large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+564,shake shack,loaded chocolate cookies and cream shake,56,g,265,mg,450,g,126,g,17,g,32,g,1.5,g,0,g,108,g
+565,shake shack,shack red wine,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,0,g
+566,shake shack,bourbon salted caramel shake,44,g,260,mg,700,g,89,g,18,g,27,g,0,g,0,g,87,g
+567,shake shack,featured lemonade small,0,g,0,mg,14,g,33,g,0,g,0,g,0,g,0,g,32,g
+568,shake shack,fifty fifty large,0,g,0,mg,15,g,36,g,0,g,0,g,0,g,0,g,33,g
+569,shake shack,fair shake,33,g,190,mg,480,g,72,g,17,g,21,g,0,g,0,g,68,g
+570,shake shack,fresh brewed sweetened iced tea small,0,g,0,mg,10,g,28,g,0,g,0,g,0,g,0,g,27,g
+571,shake shack,brooklyn brewery shackmeister draft ale,0,g,0,mg,0,g,16.7,g,1.3,g,0,g,0,g,0,g,0,g
+572,shake shack,creamsicle float,15,g,100,mg,240,g,75,g,7,g,9,g,0,g,0,g,74,g
+573,shake shack,shack made lemonade large,0,g,0,mg,15,g,70,g,0,g,0,g,0,g,0,g,66,g
+574,shake shack,white mocha shake,42,g,255,mg,440,g,100,g,19,g,25,g,0,g,0,g,99,g
+575,shake shack,traffic jam shake,35,g,230,mg,410,g,106,g,17,g,21,g,0,g,0,g,102,g
+576,shake shack,fresh brewed iced tea small,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+577,shake shack,shack white wine,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+578,shake shack,peachtree shake,38,g,240,mg,670,g,95,g,16,g,23,g,0,g,0,g,91,g
+579,shake shack,chocolate peppermint shake,52,g,270,mg,350,g,88,g,18,g,31,g,1.5,g,0,g,78,g
+580,shake shack,vitamin creamsicle shake,33,g,190,mg,480,g,76,g,14,g,21,g,0,g,0,g,65,g
+581,shake shack,fresh brewed sweetened iced tea large,0,g,0,mg,15,g,45,g,0,g,0,g,0,g,0,g,44,g
+582,shake shack,caramelized peach shake,37,g,215,mg,760,g,94,g,12,g,24,g,0,g,0,g,88,g
+583,shake shack,apple turnover,15,g,7,mg,443,g,46,g,4,g,5,g,0,g,3,g,10,g
+584,shake shack,double egg and cheese breakfast sandwich,20,g,384,mg,845,g,26,g,23,g,8,g,0,g,3,g,5,g
+585,shake shack,egg and cheese breakfast sandwich,13,g,200,mg,750,g,26,g,17,g,6,g,0,g,3,g,5,g
+586,shake shack,sausage and egg breakfast sandwich,25,g,399,mg,1145,g,26,g,30,g,10,g,0,g,3,g,5,g
+587,shake shack,bacon and double egg breakfast sandwich,29,g,260,mg,1440,g,28,g,28,g,12,g,0,g,3,g,7,g
+588,shake shack,sausage and double egg breakfast sandwich,36,g,444,mg,1535,g,28,g,34,g,14,g,0,g,3,g,7,g
+589,shake shack,bacon and egg breakfast sandwich,18,g,215,mg,1050,g,26,g,24,g,8,g,0,g,3,g,5,g
+590,shake shack,chickn bites 6 pieces,15,g,75,mg,1020,g,18,g,22,g,3,g,0,g,0,g,2,g
+591,shake shack,chickn bites 10 pieces,26,g,130,mg,1690,g,29,g,37,g,5,g,0,g,0,g,3,g
+592,shake shack,shack attack concrete single,35,g,130,mg,170,g,58,g,9,g,21,g,0.5,g,0,g,48,g
+593,shake shack,smores please concrete double,58,g,240,mg,390,g,125,g,17,g,33,g,1.5,g,1,g,96,g
+594,shake shack,double chocolate trouble concrete single,26,g,140,mg,420,g,57,g,9,g,15,g,0,g,0,g,40,g
+595,shake shack,chocolate and chip concrete single,35,g,130,mg,310,g,59,g,8,g,17,g,1,g,0,g,45,g
+596,shake shack,smores please concrete single,29,g,120,mg,200,g,63,g,8,g,16,g,0.5,g,0,g,48,g
+597,shake shack,frozen vanilla and chocolate custard cup single,17,g,105,mg,150,g,31,g,6,g,10,g,0,g,0,g,29,g
+598,shake shack,strawberry banana cone crete double,33,g,225,mg,450,g,89,g,16,g,20,g,0,g,1,g,78,g
+599,shake shack,chocolate and chip concrete double,71,g,265,mg,620,g,119,g,16,g,34,g,1.5,g,0,g,90,g
+600,shake shack,frozen vanilla and chocolate custard cone single,17,g,105,mg,200,g,41,g,7,g,10,g,0,g,0,g,33,g
+601,shake shack,shack attack concrete double,69,g,255,mg,340,g,116,g,18,g,43,g,1.5,g,0,g,95,g
+602,shake shack,frozen vanilla and chocolate custard cone double,28,g,170,mg,290,g,60,g,11,g,16,g,0,g,0,g,51,g
+603,shake shack,frozen vanilla and chocolate custard cup double,27,g,170,mg,230,g,50,g,10,g,16,g,0,g,0,g,47,g
+604,shake shack,double chocolate trouble concrete double,52,g,275,mg,840,g,114,g,18,g,30,g,0,g,0,g,79,g
+605,shake shack,frozen chocolate custard cone double,31,g,175,mg,250,g,61,g,10,g,18,g,1,g,0,g,50,g
+606,shake shack,frozen chocolate custard cup double,30,g,175,mg,190,g,51,g,9,g,18,g,1,g,0,g,47,g
+607,shake shack,mast brothers buttermilk chocolate bar,27,g,7,mg,63,g,33,g,5,g,17,g,0,g,2,g,32,g
+608,shake shack,strawberry banana cone crete single,17,g,110,mg,220,g,45,g,8,g,10,g,0,g,0,g,39,g
+609,shake shack,hot dog,26,g,60,mg,800,g,25,g,16,g,12,g,0,g,0,g,6,g
+610,shake shack,chicken dog,13,g,85,mg,930,g,27,g,24,g,6,g,0,g,0,g,8,g
+611,shake shack,shack cago dog,26,g,60,mg,1500,g,29,g,17,g,12,g,0.5,g,0,g,9,g
+612,shake shack,garden dog,10,g,20,mg,1020,g,28,g,8,g,6,g,0.5,g,1,g,8,g
+613,shake shack,chicken shake cago dog,13,g,85,mg,1630,g,31,g,24,g,6,g,0.5,g,0,g,10,g
+614,shake shack,regular fries,22,g,15,mg,740,g,63,g,6,g,4.5,g,0,g,7,g,1,g
+615,shake shack,cheese fries,44,g,95,mg,1020,g,64,g,12,g,19,g,0,g,7,g,1,g
+616,shake shack,bacon cheese fries,52,g,125,mg,1570,g,65,g,24,g,21,g,0,g,7,g,1,g
+617,shake shack,double down fries,117,g,270,mg,4020,g,164,g,41,g,49,g,1,g,16,g,5,g
+618,shake shack,big bobs cheese fries,46,g,115,mg,1020,g,92,g,17,g,19,g,0,g,7,g,11,g
+619,shake shack,frozen vanilla custard cup single,15,g,100,mg,180,g,30,g,7,g,9,g,0,g,0,g,30,g
+620,shake shack,frozen chocolate custard cup single,19,g,110,mg,120,g,32,g,6,g,11,g,0.5,g,0,g,29,g
+621,shake shack,frozen vanilla custard cup double,24,g,165,mg,280,g,49,g,11,g,14,g,0,g,0,g,48,g
+622,shake shack,frozen vanilla custard cone double,24,g,165,mg,340,g,59,g,11,g,15,g,0,g,0,g,51,g
+623,shake shack,frozen chocolate custard cone single,20,g,110,mg,180,g,42,g,7,g,11,g,0.5,g,0,g,33,g
+624,shake shack,cone only,0.5,g,0,mg,55,g,10,g,1,g,0,g,0,g,0,g,4,g
+625,shake shack,frozen vanilla custard cone single,15,g,100,mg,230,g,41,g,7,g,9,g,0,g,0,g,33,g
+626,shake shack,publican pork sausage,47,g,73,mg,1188,g,14,g,13,g,16,g,0,g,1,g,1,g
+627,shake shack,shack sauce,11,g,16,mg,156,g,0,g,0,g,1,g,0,g,0,g,0,g
+628,shake shack,cheese sauce,7,g,27,mg,160,g,1,g,2,g,4,g,0,g,0,g,0,g
+629,shake shack,martins potato roll,4,g,6,mg,200,g,25,g,6,g,1,g,0,g,3,g,7,g
+630,shake shack,herb mayonnaise,10,g,10,mg,140,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+631,shake shack,cheese,6,g,17,mg,339,g,1,g,4,g,4,g,0,g,0,g,0,g
+632,shake shack,jalapeno and cheddar sausage link,20,g,40,mg,682,g,2,g,9,g,7,g,0,g,0,g,0,g
+633,shake shack,onion,0,g,0,mg,1,g,1,g,0,g,0,g,0,g,0,g,1,g
+634,shake shack,cherry peppers,0,g,0,mg,280,g,0,g,0,g,0,g,0,g,0,g,2,g
+635,shake shack,bacon,5,g,15,mg,300,g,0,g,7,g,2,g,0,g,0,g,0,g
+636,shake shack,pickle,0,g,0,mg,120,g,1,g,0,g,0,g,0,g,0,g,0,g
+637,shake shack,tomato,0,g,0,mg,1,g,1,g,0,g,0,g,0,g,0,g,0,g
+638,shake shack,lettuce,0,g,0,mg,1,g,0,g,0,g,0,g,0,g,0,g,0,g
+639,shake shack,single shackburger,34,g,115,mg,1260,g,26,g,29,g,14,g,1,g,0,g,6,g
+640,shake shack,double shackburger,52,g,195,mg,2280,g,27,g,51,g,23,g,2,g,0,g,6,g
+641,shake shack,chickn shack burger,36,g,120,mg,1170,g,34,g,33,g,10,g,0,g,0,g,6,g
+642,shake shack,single smokeshack burger,39,g,130,mg,2010,g,28,g,36,g,16,g,1,g,0,g,7,g
+643,shake shack,single cheeseburger,28,g,105,mg,1200,g,25,g,29,g,14,g,1,g,0,g,5,g
+644,shake shack,double smokeshack burger,57,g,210,mg,3030,g,28,g,58,g,24,g,2,g,0,g,7,g
+645,shake shack,double cheeseburger,46,g,185,mg,2220,g,25,g,51,g,22,g,2,g,0,g,5,g
+646,shake shack,single hamburger,22,g,85,mg,850,g,24,g,25,g,10,g,1,g,0,g,5,g
+647,shake shack,hot chickn sandwich,31,g,115,mg,1220,g,38,g,33,g,9,g,0,g,1,g,8,g
+648,shake shack,shack stack burger,49,g,140,mg,1700,g,50,g,40,g,21,g,1.5,g,0,g,7,g
+649,shake shack,veggie shack vegan burger,22,g,0,mg,1130,g,50,g,6,g,1.5,g,0,g,6,g,8,g
+650,shake shack,double bacon cheeseburger,51,g,200,mg,2510,g,25,g,58,g,24,g,2,g,0,g,6,g
+651,shake shack,roadside double burger,61,g,142,mg,1160,g,36,g,55,g,25,g,2,g,4,g,11,g
+652,shake shack,double golden state burger,65,g,235,mg,2200,g,41,g,52,g,27,g,2,g,0,g,9,g
+653,shake shack,double hamburger,34,g,150,mg,1540,g,24,g,44,g,15,g,1.5,g,0,g,5,g
+654,shake shack,single bacon cheeseburger,33,g,120,mg,1480,g,25,g,35,g,15,g,1,g,0,g,5,g
+655,shake shack,double lockhart link burger,78,g,245,mg,3080,g,28,g,61,g,32,g,2,g,2,g,6,g
+656,shake shack,double link burger,68,g,200,mg,2550,g,28,g,59,g,28,g,2,g,2,g,8,g
+657,shake shack,shroom burger,31,g,55,mg,670,g,49,g,18,g,12,g,0.5,g,0,g,7,g
+658,shake shack,lockhart link burger,60,g,165,mg,2050,g,27,g,39,g,24,g,1,g,3,g,5,g
+659,shake shack,veggie shack burger,27,g,20,mg,1250,g,56,g,16,g,7,g,0,g,6,g,10,g
+660,shake shack,single green chile cheddarshack burger,36,g,110,mg,1690,g,33,g,33,g,16,g,1,g,1,g,11,g
+661,shake shack,double green chile cheddarshack burger,58,g,200,mg,2550,g,33,g,59,g,26,g,1.5,g,1,g,11,g
+662,shake shack,double crackle shack burger,49,g,185,mg,2080,g,25,g,53,g,20,g,2,g,0,g,5,g
+663,shake shack,corn dog,16,g,35,mg,860,g,47,g,12,g,6,g,0,g,8,g,2,g
+664,shake shack,single crackle shack burger,37,g,120,mg,1400,g,25,g,34,g,15,g,1,g,0,g,5,g
+665,shake shack,link burger,50,g,120,mg,1520,g,27,g,37,g,20,g,1,g,2,g,7,g
+666,shake shack,double mound city burger,52,g,195,mg,2380,g,26,g,56,g,22,g,1.5,g,0,g,6,g
+667,shake shack,double mountlake cut burger,64,g,235,mg,2410,g,36,g,53,g,29,g,1.5,g,1,g,4,g
+668,shake shack,honey mustard sauce,18,g,10,mg,260,g,4,g,0,g,2.5,g,0.5,g,0,g,4,g
+669,shake shack,bbq sauce,0,g,0,mg,400,g,16,g,0,g,0,g,0,g,0,g,15,g
+670,shake shack,donut doughnut plant,4,g,2,mg,93,g,14,g,1,g,1,g,0,g,0,g,1,g
+671,shake shack,lobster tail pastry north end,0,g,3,mg,4,g,2,g,0,g,0,g,0,g,0,g,0,g
+672,shake shack,chocolate chip cookies tates bake shop,4,g,15,mg,80,g,9,g,1,g,3,g,0,g,0,g,6,g
+673,shake shack,single concrete vanilla and chocolate,18,g,100,mg,198,g,33,g,6,g,11,g,0,g,1,g,29,g
+674,shake shack,coconut doughnut astro doughnuts,2,g,12,mg,30,g,4,g,1,g,1,g,0,g,0,g,2,g
+675,shake shack,red velvet cake south end buttery,10,g,20,mg,88,g,15,g,1,g,3,g,0,g,0,g,10,g
+676,shake shack,philly style soft pretzel,0,g,0,mg,60,g,15,g,2,g,0,g,0,g,0,g,0,g
+677,shake shack,belgian waffles,5,g,5,mg,68,g,5,g,1,g,1,g,0,g,0,g,1,g
+678,shake shack,blueberry pancake pie dangerously delicious,9,g,12,mg,278,g,15,g,3,g,3,g,0,g,0,g,9,g
+679,shake shack,french toast donut federal donuts,2,g,15,mg,68,g,13,g,1,g,1,g,0,g,0,g,6,g
+680,shake shack,malt,1,g,5,mg,70,g,19,g,2,g,0.5,g,0,g,0,g,16,g
+681,shake shack,sticky bun balthazar,5,g,10,mg,34,g,7,g,1,g,2,g,0,g,1,g,4,g
+682,shake shack,smores pie bang bang pie,6,g,0,mg,96,g,21,g,0,g,6,g,0,g,0,g,0,g
+683,shake shack,salted caramel old fashioned doughnut glazed and infused,8,g,4,mg,85,g,16,g,1,g,2,g,4,g,0,g,10,g
+684,shake shack,dark chocolate chunks vosges,3,g,0,mg,20,g,6,g,1,g,2,g,0,g,1,g,5,g
+685,shake shack,pie four twenty birds bittersweet chocolate pecan,7,g,19,mg,102,g,11,g,2,g,3,g,0,g,1,g,2,g
+686,shake shack,amarena cherries,0,g,0,mg,7,g,5,g,0,g,0,g,0,g,0,g,4,g
+687,shake shack,key lime pie,5,g,25,mg,76,g,19,g,3,g,3,g,0,g,0,g,17,g
+688,shake shack,cocoa nibs mast brothers,8,g,0,mg,0,g,4,g,2,g,5,g,0,g,3,g,0,g
+689,shake shack,dark chocolate chunks cocao atlanta,3,g,0,mg,0,g,3,g,1,g,2,g,0,g,1,g,1,g
+690,shake shack,sea salt and chocolate toffee,4,g,8,mg,68,g,8,g,1,g,3,g,0,g,0,g,7,g
+691,shake shack,bee sting bar baked and wired,10,g,16,mg,68,g,16,g,2,g,4,g,0,g,2,g,6,g
+692,shake shack,blueberry jam,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,9,g
+693,shake shack,white peach puree,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,5,g
+694,shake shack,chocolate crunchies valrhona,5,g,0,mg,23,g,7,g,1,g,3,g,0,g,2,g,6,g
+695,shake shack,salted peanuts,7,g,0,mg,115,g,3,g,0,g,1,g,0,g,1,g,1,g
+696,shake shack,spiced crumb donut cofax,4,g,0,mg,88,g,11,g,0,g,2,g,0,g,0,g,5,g
+697,shake shack,sea salt and chocolate sprinkles,1,g,0,mg,50,g,3,g,0,g,1,g,0,g,0,g,3,g
+698,shake shack,peanut butter toffee cookie larder baking company,7,g,0,mg,117,g,16,g,2,g,1,g,0,g,0,g,9,g
+699,shake shack,banana bread,3,g,14,mg,95,g,17,g,1,g,0,g,0,g,1,g,10,g
+700,shake shack,chocolate chip cookies balthazar,10,g,12,mg,128,g,20,g,2,g,2,g,0,g,0,g,0,g
+701,shake shack,chocolate peanut butter crispy bar baked nyc,10,g,9,mg,79,g,12,g,2.5,g,4,g,0,g,1,g,7,g
+702,shake shack,bananas,0,g,0,mg,0,g,4,g,1,g,0,g,0,g,1,g,2,g
+703,shake shack,cream cheese pound cake milk and cookies,4,g,21,mg,83,g,9,g,1,g,3,g,0,g,0,g,7,g
+704,shake shack,chocolate pearls valrhona,5,g,0,mg,15,g,7,g,1,g,3,g,0,g,1,g,7,g
+705,shake shack,coffee marshmallow sauce,0,g,0,mg,20,g,14,g,0,g,0,g,0,g,0,g,11,g
+706,shake shack,shortbread cookie,4,g,10,mg,23,g,8,g,1,g,2,g,0,g,0,g,3,g
+707,shake shack,cannoli shell termini bros,1,g,0,mg,0,g,2,g,1,g,1,g,0,g,0,g,0,g
+708,shake shack,citrus marinated fresh raspberries,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,3,g,4,g
+709,shake shack,salted caramel sauce,2,g,8,mg,107,g,8,g,0,g,2,g,0,g,0,g,7,g
+710,shake shack,chocolate sprinkles e guittard,1,g,0,mg,0,g,7,g,0,g,1,g,0,g,0,g,6,g
+711,shake shack,honeycomb candy liddabit sweets,0,g,0,mg,140,g,27,g,0,g,0,g,0,g,0,g,19,g
+712,shake shack,dark chocolate crack bar dude sweet chocolate,6,g,1,mg,3,g,7,g,1,g,4,g,0,g,2,g,4,g
+713,shake shack,banana cream pie the bakery phx,11,g,20,mg,120,g,13,g,0,g,6,g,0,g,0,g,8,g
+714,shake shack,whipped cream,5,g,20,mg,20,g,5,g,1,g,3.5,g,0,g,0,g,4,g
+715,shake shack,granola oats,4,g,0,mg,0,g,8,g,2,g,0,g,0,g,2,g,4,g
+716,shake shack,single concrete vanilla,15,g,88,mg,215,g,32,g,6,g,10,g,0,g,0,g,30,g
+717,shake shack,double concrete vanilla,29,g,175,mg,430,g,64,g,11,g,19,g,0,g,0,g,59,g
+718,shake shack,lobstah shell ricotta filling,2,g,10,mg,16,g,4,g,1,g,1,g,0,g,0,g,3,g
+719,shake shack,walnuts,9,g,0,mg,0,g,2,g,2,g,1,g,0,g,1,g,1,g
+720,shake shack,dark chocolate chunks mast brothers,6,g,1,mg,3,g,7,g,1,g,4,g,0,g,2,g,4,g
+721,shake shack,whoopie pie south end buttery,11,g,24,mg,111,g,24,g,5,g,3,g,0,g,0,g,17,g
+722,shake shack,graham crackers pollystyle,2,g,3,mg,50,g,8,g,1,g,1,g,0,g,0,g,4,g
+723,shake shack,miso huckleberry hazelnut blondie uchi,12,g,24,mg,414,g,36,g,2,g,6,g,0,g,0,g,24,g
+724,shake shack,peanut butter sauce,14,g,0,mg,190,g,7,g,5,g,2,g,0,g,2,g,3,g
+725,shake shack,cinnamon fudge sauce,6,g,8,mg,15,g,6,g,1,g,3,g,0,g,1,g,5,g
+726,shake shack,pecan shortbread scratch baking,12,g,24,mg,21,g,18,g,3,g,6,g,0,g,0,g,6,g
+727,shake shack,banana cream pie bang bang pie,11,g,20,mg,120,g,13,g,0,g,6,g,0,g,0,g,8,g
+728,shake shack,fudge sauce,4,g,5,mg,23,g,5,g,0,g,2,g,0,g,0,g,4,g
+729,shake shack,minted marshmallow sauce,0,g,0,mg,3,g,6,g,0,g,0,g,0,g,0,g,5,g
+730,shake shack,rainbow sprinkle sanding sugar,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,8,g
+731,shake shack,dark chocolate chunks tradestone,6,g,1,mg,3,g,7,g,1,g,4,g,0,g,2,g,4,g
+732,shake shack,salted caramel chocolate brownie larder baking company,6,g,24,mg,98,g,16,g,2,g,6,g,0,g,0,g,12,g
+733,shake shack,pecan walnut caramel toffee vosges,10,g,10,mg,20,g,14,g,2,g,6,g,0,g,2,g,12,g
+734,shake shack,caramelized cocoa nibs,2,g,0,mg,150,g,7,g,1,g,1,g,0,g,1,g,0,g
+735,shake shack,milk chocolate chunks guittard,6,g,3,mg,13,g,7,g,1,g,3,g,0,g,1,g,7,g
+736,shake shack,strawberries,0,g,0,mg,0,g,2.2,g,0,g,0,g,0,g,0.6,g,1.4,g
+737,shake shack,chocolate fudge brownie milk and cookies,4,g,14,mg,27,g,8,g,1,g,3,g,0,g,0,g,6,g
+738,shake shack,chocolate truffle cookie dough,3,g,15,mg,13,g,6,g,1,g,2,g,0,g,1,g,4,g
+739,shake shack,rainbow sprinkles,2,g,0,mg,0,g,13,g,0,g,2,g,0,g,0,g,11,g
+740,shake shack,chocolate covered pretzels,4,g,0,mg,70,g,10,g,1,g,2,g,0,g,1,g,6,g
+741,shake shack,dark chocolate chunks taza,6,g,0,mg,0,g,8,g,1,g,4,g,0,g,1,g,4.4,g
+742,shake shack,lemon blueberry pie scratch baking,8,g,37,mg,54,g,22,g,3,g,5,g,0,g,0,g,15,g
+743,shake shack,chocolate toffee,4,g,8,mg,48,g,8,g,1,g,3,g,0,g,0,g,7,g
+744,shake shack,banana cake with pb frosting the cupcakery,3,g,13,mg,95,g,16,g,0,g,1,g,0,g,0,g,12,g
+745,shake shack,hazelnut brown butter streusel milk and cookies,5,g,6,mg,0,g,7,g,1,g,2,g,0,g,0,g,4,g
+746,shake shack,coney island chocolate chunks compartes,6,g,3,mg,13,g,7,g,1,g,3,g,0,g,1,g,7,g
+747,shake shack,walnut sable cookie balthazar,5,g,5,mg,53,g,21,g,2,g,4,g,0,g,0,g,8,g
+748,shake shack,cinnamon marshmallow sauce,0,g,0,mg,20,g,17,g,0,g,0,g,0,g,0,g,13,g
+749,shake shack,marshmallow sauce,1,g,0,mg,5,g,10,g,0,g,0,g,0,g,0,g,8,g
+750,shake shack,graham crackers,2,g,0,mg,80,g,11,g,1,g,0,g,0,g,0,g,4,g
+751,shake shack,coffee beans,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+752,shake shack,cinnamon sugar,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+753,shake shack,lemon ricotta,2,g,8,mg,12,g,4,g,2,g,1,g,0,g,0,g,3,g
+754,shake shack,pecans,11,g,0,mg,0,g,1.7,g,1.4,g,1,g,0,g,1,g,0.3,g
+755,shake shack,milk chocolate chunks e guittard,6,g,3,mg,13,g,7,g,1,g,3,g,0,g,1,g,7,g
+756,shake shack,double concrete vanilla and chocolate,35,g,200,mg,395,g,66,g,11,g,22,g,0,g,2,g,56,g
+757,shake shack,pecan pie handf bread,10,g,26,mg,51,g,17,g,2,g,4,g,0,g,1,g,13,g
+758,shake shack,butter coffee caramel sauce,2,g,8,mg,15,g,11,g,0,g,1,g,0,g,0,g,10,g
+759,shake shack,cocoa powder,1,g,0,mg,36,g,1,g,1,g,1,g,0,g,1.5,g,1,g
+760,shake shack,chocolate cloud cookie baked,8,g,39,mg,51,g,30,g,3,g,5,g,0,g,1,g,25,g
+761,shake shack,almonds,7,g,0,mg,0,g,3,g,3,g,1,g,0,g,2,g,1,g
+762,shake shack,crispy crunchies,0,g,0,mg,75,g,6,g,1,g,0,g,0,g,0,g,6,g
+763,shake shack,strawberry preserves,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,5,g
+764,shake shack,seasonal pie,10,g,0,mg,57,g,19,g,0,g,2,g,0,g,0,g,9,g
+765,shake shack,veggie shack vegal lettuce wrap,18,g,0,mg,900,g,31,g,4,g,1.5,g,0,g,4,g,6,g
+766,shake shack,mallow monsoon concrete,22,g,120,mg,210,g,53,g,8,g,13,g,0,g,0,g,45,g
+767,shake shack,shroom burger,30,g,110,mg,930,g,39,g,18,g,9,g,1,g,7,g,9,g
+768,shake shack,125th street treat concrete,21,g,130,mg,310,g,61,g,9,g,12,g,0,g,0,g,51,g
+769,shake shack,125th street treat double concrete,41,g,265,mg,610,g,122,g,18,g,24,g,0,g,1,g,102,g
+770,shake shack,24 carrot magic concrete,27,g,150,mg,200,g,55,g,9,g,14,g,0.5,g,0,g,44,g
+771,shake shack,24 carrot magic double concrete,54,g,295,mg,390,g,111,g,17,g,27,g,1.5,g,0,g,89,g
+772,shake shack,abita root beer bottle,0,g,0,mg,15,g,44,g,0,g,0,g,0,g,0,g,38,g
+773,shake shack,abita root beer large,0,g,0,mg,25,g,66,g,0,g,0,g,0,g,0,g,57,g
+774,shake shack,abita root beer small,0,g,0,mg,15,g,40,g,0,g,0,g,0,g,0,g,35,g
+775,shake shack,add cheese sauce,7,g,30,mg,95,g,1,g,2,g,5,g,0,g,0,g,0,g
+776,shake shack,add ricks picks shack relish,0,g,0,mg,15,g,2,g,0,g,0,g,0,g,0,g,2,g
+777,shake shack,all in concrete,27,g,140,mg,480,g,61,g,8,g,17,g,0,g,0,g,58,g
+778,shake shack,all in double concrete,55,g,280,mg,960,g,122,g,16,g,34,g,0.5,g,0,g,115,g
+779,shake shack,almond sable irs delicious desserts concrete mix in,4.5,g,0,mg,50,g,8,g,1,g,1.5,g,0,g,0,g,3,g
+780,shake shack,almonds concrete mix in,7,g,0,mg,0,g,3,g,3,g,0.5,g,0,g,2,g,1,g
+781,shake shack,amarena cherries concrete mix in,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,8,g
+782,shake shack,american cheese,6,g,15,mg,340,g,1,g,4,g,3.5,g,0,g,0,g,0,g
+783,shake shack,apple fritter randys donuts concrete mix in,3,g,0,mg,45,g,5,g,1,g,1,g,0,g,0,g,1,g
+784,shake shack,austin street treat concrete,23,g,130,mg,290,g,51,g,7,g,14,g,0.5,g,0,g,42,g
+785,shake shack,austin street treat double concrete,46,g,255,mg,590,g,101,g,14,g,28,g,1.5,g,1,g,85,g
+786,shake shack,back bay blend concrete,33,g,150,mg,410,g,64,g,7,g,21,g,1,g,0,g,58,g
+787,shake shack,back bay blend double concrete,67,g,300,mg,820,g,129,g,14,g,41,g,2,g,1,g,116,g
+788,shake shack,bacon,4.5,g,15,mg,290,g,0,g,6,g,1.5,g,0,g,0,g,0,g
+789,shake shack,bacon breakfast sandwich,27,g,240,mg,890,g,25,g,23,g,13,g,0.5,g,0,g,5,g
+790,shake shack,bacon breakfast sandwich double egg,34,g,425,mg,990,g,26,g,29,g,15,g,0.5,g,0,g,6,g
+791,shake shack,bacon cheese fries,52,g,125,mg,1570,g,65,g,24,g,21,g,0,g,7,g,1,g
+792,shake shack,bacon cheeseburger double,51,g,200,mg,2510,g,25,g,58,g,24,g,2,g,0,g,6,g
+793,shake shack,bacon cheeseburger single,33,g,120,mg,1480,g,25,g,35,g,15,g,1,g,0,g,5,g
+794,shake shack,banana bread concrete mix in,3,g,5,mg,30,g,6,g,1,g,0,g,0,g,0,g,3,g
+795,shake shack,banana bread donut glazed and confused concrete mix in,1,g,0,mg,45,g,6,g,1,g,0,g,0,g,0,g,2,g
+796,shake shack,banana buyout concrete,20,g,120,mg,340,g,50,g,8,g,12,g,0,g,0,g,47,g
+797,shake shack,banana buyout double concrete,40,g,240,mg,680,g,99,g,16,g,25,g,0,g,0,g,93,g
+798,shake shack,banana caramel crunch concrete,19,g,120,mg,390,g,0,g,8,g,11,g,0,g,48,g,46,g
+799,shake shack,banana caramel crunch double concrete,38,g,240,mg,790,g,112,g,17,g,23,g,0,g,1,g,91,g
+800,shake shack,banana post road concrete,27,g,120,mg,530,g,45,g,8,g,16,g,0.5,g,0,g,38,g
+801,shake shack,banana post road double concrete,54,g,240,mg,1060,g,91,g,15,g,33,g,1.5,g,1,g,745,g
+802,shake shack,bananas concrete mix in,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,2,g
+803,shake shack,bananas foster cupcake sugar rays bakery concrete mix in,6,g,20,mg,150,g,23,g,1,g,2,g,0,g,0,g,16,g
+804,shake shack,bbq sauce,0.5,g,0,mg,610,g,25,g,1,g,0,g,0,g,0,g,23,g
+805,shake shack,bee sting bar baked and wired concrete mix in,3.5,g,5,mg,40,g,9,g,1,g,1.5,g,0,g,0,g,4,g
+806,shake shack,beer float,15,g,100,mg,190,g,52,g,8,g,9,g,0,g,0,g,30,g
+807,shake shack,belgian waffle concrete mix in,2,g,5,mg,50,g,6,g,1,g,0,g,0,g,0,g,2,g
+808,shake shack,bergen county blend concrete,22,g,130,mg,250,g,48,g,9,g,13,g,0,g,0,g,40,g
+809,shake shack,bergen county blend double concrete,44,g,255,mg,500,g,96,g,18,g,27,g,0,g,1,g,80,g
+810,shake shack,beverly chills concrete,29,g,130,mg,420,g,62,g,9,g,18,g,0,g,0,g,56,g
+811,shake shack,beverly chills double concrete,58,g,260,mg,850,g,124,g,18,g,37,g,0,g,1,g,113,g
+812,shake shack,big bobs cheese fries,46,g,115,mg,1020,g,92,g,17,g,19,g,0,g,7,g,11,g
+813,shake shack,birming graham concrete,20,g,130,mg,250,g,62,g,9,g,11,g,0,g,0,g,50,g
+814,shake shack,birming graham double concrete,40,g,265,mg,510,g,123,g,17,g,22,g,0,g,1,g,101,g
+815,shake shack,black and white cookie concrete,25,g,130,mg,230,g,51,g,8,g,15,g,0,g,0,g,41,g
+816,shake shack,black and white cookie double concrete,51,g,255,mg,450,g,102,g,16,g,30,g,0.5,g,0,g,82,g
+817,shake shack,black and white shake,42,g,245,mg,460,g,80,g,19,g,26,g,0,g,0,g,76,g
+818,shake shack,black magic brownie zingermans concrete mix in,2.5,g,0,mg,40,g,9,g,1,g,0.5,g,0,g,0,g,5,g
+819,shake shack,bourbon salted caramel shake,44,g,260,mg,700,g,89,g,18,g,27,g,0,g,0,g,87,g
+820,shake shack,brooklyn brewery shackmeister ale 16oz draft,0,g,0,mg,0,g,17,g,2,g,0,g,0,g,0,g,0,g
+821,shake shack,brooklyn brewery shackmeister ale 24oz draft,0,g,0,mg,0,g,25,g,4,g,0,g,0,g,0,g,0,g
+822,shake shack,brooklyn brewery shackmeister ale 32oz draft,0,g,0,mg,0,g,33,g,5,g,0,g,0,g,0,g,0,g
+823,shake shack,brooklyn brewery shackmeister ale 60oz draft,0,g,0,mg,0,g,62,g,9,g,0,g,0,g,0,g,0,g
+824,shake shack,brownie baked and wired concrete mix in,2,g,10,mg,35,g,8,g,1,g,0,g,0,g,0,g,6,g
+825,shake shack,brownie marks bake shoppe concrete mix in,4,g,10,mg,50,g,7,g,1,g,1,g,0,g,0,g,5,g
+826,shake shack,brownie mindys hot chocolate concrete mix in,3,g,15,mg,20,g,8,g,1,g,1.5,g,0,g,0,g,6,g
+827,shake shack,brownie rocket baby bakery concrete mix in,2.5,g,5,mg,40,g,9,g,1,g,0.5,g,0,g,0,g,5,g
+828,shake shack,brownie points concrete,28,g,135,mg,490,g,64,g,10,g,15,g,1,g,0,g,57,g
+829,shake shack,brownie points double concrete,56,g,275,mg,980,g,129,g,19,g,29,g,2.5,g,0,g,114,g
+830,shake shack,buffalo street brownie concrete,26,g,125,mg,410,g,68,g,9,g,14,g,0,g,0,g,57,g
+831,shake shack,buffalo street brownie double concrete,52,g,250,mg,830,g,135,g,19,g,29,g,0,g,0,g,114,g
+832,shake shack,burger patty,12,g,65,mg,690,g,0,g,19,g,4.5,g,0.5,g,0,g,0,g
+833,shake shack,burrowing banana concrete,23,g,130,mg,270,g,48,g,7,g,14,g,0.5,g,0,g,41,g
+834,shake shack,burrowing banana double concrete,48,g,255,mg,530,g,91,g,13,g,28,g,1.5,g,1,g,81,g
+835,shake shack,busy bee concrete,24,g,110,mg,270,g,53,g,9,g,12,g,0,g,0,g,43,g
+836,shake shack,busy bee double concrete,47,g,225,mg,530,g,106,g,19,g,23,g,0,g,1,g,86,g
+837,shake shack,cacao nibs concrete mix in,7,g,0,mg,10,g,4,g,2,g,4,g,0,g,4,g,0,g
+838,shake shack,cafe sua da marshmallow sauce greenway concrete mix in,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,8,g
+839,shake shack,campfire smores concrete,31,g,120,mg,200,g,66,g,9,g,18,g,0.5,g,0,g,50,g
+840,shake shack,campfire smores double concrete,63,g,240,mg,400,g,131,g,18,g,36,g,1.5,g,1,g,100,g
+841,shake shack,cannoli shell high street on hudson concrete mix in,3,g,10,mg,0,g,8,g,1,g,1,g,0,g,0,g,3,g
+842,shake shack,cannoli shell termini bros concrete mix in,2.5,g,5,mg,0,g,7,g,1,g,1,g,0,g,0,g,2,g
+843,shake shack,caramel aficiona dough concrete,26,g,140,mg,420,g,57,g,9,g,15,g,0,g,0,g,40,g
+844,shake shack,caramel aficiona dough double concrete,52,g,275,mg,840,g,114,g,18,g,30,g,0,g,0,g,79,g
+845,shake shack,caramel apple fritter concrete,29,g,120,mg,510,g,62,g,10,g,16,g,0,g,0,g,43,g
+846,shake shack,caramel apple fritter double concrete,57,g,240,mg,1030,g,123,g,21,g,32,g,0,g,0,g,86,g
+847,shake shack,caramel bourbon twist concrete,24,g,130,mg,400,g,54,g,8,g,15,g,0,g,0,g,51,g
+848,shake shack,caramel bourbon twist double concrete,49,g,260,mg,800,g,108,g,16,g,30,g,0,g,0,g,102,g
+849,shake shack,caramel carousel concrete,19,g,120,mg,390,g,54,g,8,g,11,g,0,g,0,g,45,g
+850,shake shack,caramel carousel double concrete,38,g,240,mg,790,g,108,g,17,g,23,g,0,g,0,g,90,g
+851,shake shack,caramel cone concrete,20,g,120,mg,360,g,50,g,8,g,12,g,0,g,0,g,45,g
+852,shake shack,caramel cone double concrete,40,g,240,mg,720,g,101,g,16,g,25,g,0,g,0,g,90,g
+853,shake shack,caramel crumble concrete,20,g,120,mg,360,g,50,g,8,g,12,g,0,g,0,g,45,g
+854,shake shack,caramel crumble double concrete,40,g,240,mg,720,g,101,g,18,g,25,g,0,g,0,g,90,g
+855,shake shack,carrot cake ub preserv concrete mix in,5,g,20,mg,45,g,12,g,1,g,0,g,0,g,1,g,5,g
+856,shake shack,carusos crunch concrete,24,g,130,mg,340,g,55,g,8,g,14,g,0.5,g,0,g,50,g
+857,shake shack,carusos crunch double concrete,48,g,265,mg,690,g,109,g,16,g,27,g,1.5,g,0,g,101,g
+858,shake shack,central west blend concrete,26,g,155,mg,620,g,71,g,10,g,15,g,0,g,0,g,61,g
+859,shake shack,central west blend double concrete,52,g,310,mg,1240,g,141,g,19,g,29,g,0,g,0,g,122,g
+860,shake shack,cheese fries,44,g,95,mg,1020,g,64,g,12,g,19,g,0,g,7,g,1,g
+861,shake shack,cherry peppers,0,g,0,mg,470,g,2,g,0,g,0,g,0,g,0,g,2,g
+862,shake shack,chickn bites 10 piece,26,g,130,mg,1690,g,29,g,37,g,5,g,0,g,0,g,3,g
+863,shake shack,chickn bites 6 piece,15,g,75,mg,1020,g,18,g,22,g,3,g,0,g,0,g,2,g
+864,shake shack,chickn shack,36,g,120,mg,1170,g,34,g,33,g,10,g,0,g,0,g,6,g
+865,shake shack,chicken dog,13,g,85,mg,930,g,27,g,24,g,6,g,0,g,0,g,8,g
+866,shake shack,chicken shack cago dog,13,g,85,mg,1630,g,31,g,24,g,6,g,0.5,g,0,g,10,g
+867,shake shack,choc n roll defend the blend concrete,30,g,135,mg,430,g,68,g,8,g,18,g,0.5,g,0,g,58,g
+868,shake shack,choc n roll defend the blend double concrete,61,g,270,mg,870,g,136,g,16,g,35,g,1.5,g,0,g,115,g
+869,shake shack,choc of the town concrete,30,g,125,mg,150,g,50,g,8,g,19,g,0.5,g,0,g,41,g
+870,shake shack,choc of the town double concrete,61,g,250,mg,310,g,99,g,16,g,37,g,1.5,g,1,g,82,g
+871,shake shack,chocolate and chip concrete,35,g,130,mg,310,g,59,g,8,g,17,g,1,g,0,g,45,g
+872,shake shack,chocolate and chip double concrete,71,g,265,mg,620,g,119,g,16,g,34,g,1.5,g,0,g,90,g
+873,shake shack,chocolate cake donut dus donuts concrete mix in,3,g,10,mg,30,g,8,g,1,g,0.5,g,0,g,0,g,4,g
+874,shake shack,chocolate caramel crunchcrete concrete,30,g,140,mg,340,g,60,g,7,g,19,g,1,g,0,g,53,g
+875,shake shack,chocolate caramel crunchcrete double concrete,61,g,280,mg,690,g,120,g,15,g,37,g,1.5,g,0,g,107,g
+876,shake shack,chocolate caramel pretzel concrete,25,g,125,mg,370,g,54,g,9,g,15,g,0,g,0,g,47,g
+877,shake shack,chocolate caramel pretzel crunch concrete,30,g,135,mg,310,g,55,g,8,g,18,g,0.5,g,0,g,47,g
+878,shake shack,chocolate caramel pretzel crunch double concrete,60,g,270,mg,610,g,111,g,18,g,35,g,1.5,g,1,g,93,g
+879,shake shack,chocolate caramel pretzel double concrete,51,g,250,mg,740,g,107,g,18,g,30,g,0,g,0,g,95,g
+880,shake shack,chocolate chip cookie baked and wired concrete mix in,3,g,5,mg,45,g,8,g,1,g,2,g,0,g,0,g,5,g
+881,shake shack,chocolate chip cookie baked nyc concrete mix in,4,g,10,mg,10,g,8,g,1,g,2,g,0,g,0,g,5,g
+882,shake shack,chocolate chip cookie winslows bakery concrete mix in,4,g,5,mg,65,g,9,g,1,g,2,g,0,g,0,g,6,g
+883,shake shack,chocolate chip cookie concrete,37,g,150,mg,370,g,66,g,9,g,22,g,0.5,g,0,g,43,g
+884,shake shack,chocolate chip cookie double concrete,73,g,295,mg,730,g,131,g,18,g,43,g,1.5,g,1,g,86,g
+885,shake shack,chocolate chip seasalt cookie mindys hot chocolate concrete mix in,3,g,10,mg,70,g,9,g,1,g,2,g,0,g,0,g,6,g
+886,shake shack,chocolate cloud cookie baked concrete mix in,3.5,g,10,mg,30,g,9,g,1,g,2,g,0,g,0,g,9,g
+887,shake shack,chocolate covered pretzels concrete mix in,2.5,g,0,mg,70,g,10,g,1,g,1,g,0,g,0,g,5,g
+888,shake shack,chocolate crunch cupcake cupcakery concrete mix in,3,g,5,mg,50,g,7,g,0,g,1,g,0,g,0,g,6,g
+889,shake shack,chocolate crunchies valrhona concrete mix in,4.5,g,0,mg,0,g,6,g,1,g,3,g,0,g,0,g,6,g
+890,shake shack,chocolate fudge brownie milk and cookies concrete mix in,3,g,15,mg,20,g,8,g,1,g,2,g,0,g,0,g,6,g
+891,shake shack,chocolate minted marshmallow concrete,24,g,125,mg,150,g,53,g,7,g,14,g,0.5,g,0,g,46,g
+892,shake shack,chocolate minted marshmallow double concrete,48,g,350,mg,300,g,105,g,15,g,29,g,1.5,g,0,g,92,g
+893,shake shack,chocolate shake,45,g,255,mg,310,g,76,g,16,g,27,g,1.5,g,0,g,69,g
+894,shake shack,chocolate sprinkles concrete mix in,3,g,0,mg,5,g,9,g,1,g,2,g,0,g,0,g,7,g
+895,shake shack,chocolate toffee concrete mix in,4.5,g,10,mg,70,g,9,g,0,g,3,g,0,g,0,g,8,g
+896,shake shack,chocolate truffle cookie cone concrete,22,g,120,mg,210,g,52,g,8,g,13,g,0,g,0,g,44,g
+897,shake shack,chocolate truffle cookie cone double concrete,44,g,240,mg,410,g,104,g,16,g,26,g,0.5,g,0,g,88,g
+898,shake shack,chocolate truffle cookie dough concrete mix in,3,g,5,mg,15,g,7,g,1,g,2,g,0,g,1,g,5,g
+899,shake shack,churn of the century concrete,36,g,130,mg,450,g,56,g,14,g,14,g,0,g,0,g,45,g
+900,shake shack,churn of the century double concrete,73,g,255,mg,890,g,112,g,28,g,27,g,0,g,0,g,90,g
+901,shake shack,cinnamon fudge sauce concrete mix in,3.5,g,5,mg,20,g,4,g,1,g,2,g,0,g,0,g,3,g
+902,shake shack,cinnamon marshmallow sauce concrete mix in,0,g,0,mg,25,g,10,g,0,g,0,g,0,g,0,g,9,g
+903,shake shack,cinnamon sugar concrete mix in,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,2,g,10,g
+904,shake shack,citrus marinated raspberries concrete mix in,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,1,g,3,g
+905,shake shack,cocoa powder concrete mix in,1,g,0,mg,35,g,1,g,1,g,1,g,0,g,1,g,1,g
+906,shake shack,coffee and donuts concrete,23,g,115,mg,290,g,55,g,9,g,12,g,0,g,0,g,41,g
+907,shake shack,coffee and donuts double concrete,45,g,225,mg,580,g,111,g,19,g,23,g,0,g,0,g,83,g
+908,shake shack,coffee caramel popcorn concrete,20,g,120,mg,400,g,47,g,10,g,12,g,0,g,0,g,43,g
+909,shake shack,coffee caramel popcorn double concrete,41,g,245,mg,790,g,94,g,19,g,23,g,0,g,0,g,87,g
+910,shake shack,coffee croissant concrete,25,g,125,mg,360,g,52,g,9,g,15,g,0,g,0,g,43,g
+911,shake shack,coffee croissant double concrete,49,g,255,mg,720,g,103,g,18,g,30,g,0,g,0,g,86,g
+912,shake shack,coffee marshmallow sauce concrete mix in,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,8,g
+913,shake shack,coffee shake,35,g,235,mg,420,g,74,g,18,g,22,g,0,g,0,g,70,g
+914,shake shack,coffee toffee concrete,22,g,120,mg,270,g,56,g,8,g,14,g,0,g,0,g,42,g
+915,shake shack,coffee toffee double concrete,45,g,245,mg,540,g,113,g,18,g,28,g,0,g,0,g,105,g
+916,shake shack,coke large,0,g,0,mg,65,g,58,g,0,g,0,g,0,g,0,g,58,g
+917,shake shack,coke small,0,g,0,mg,45,g,39,g,0,g,0,g,0,g,0,g,39,g
+918,shake shack,coke zero large,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+919,shake shack,coke zero small,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+920,shake shack,cold fashioned concrete,25,g,120,mg,460,g,57,g,9,g,14,g,0,g,0,g,47,g
+921,shake shack,cold fashioned double concrete,51,g,245,mg,920,g,114,g,18,g,29,g,0,g,1,g,93,g
+922,shake shack,concrete of troy concrete,26,g,125,mg,410,g,68,g,9,g,14,g,0,g,0,g,57,g
+923,shake shack,concrete of troy double concrete,52,g,250,mg,830,g,135,g,19,g,29,g,0,g,0,g,114,g
+924,shake shack,condensed milk concrete mix in,1,g,5,mg,20,g,8,g,1,g,1,g,0,g,0,g,8,g
+925,shake shack,cone,0.5,g,0,mg,55,g,10,g,1,g,0,g,0,g,0,g,4,g
+926,shake shack,cookie butter concrete mix in,6,g,0,mg,25,g,8,g,1,g,1,g,0,g,0,g,5,g
+927,shake shack,cookie butter blender concrete,32,g,135,mg,370,g,63,g,9,g,18,g,0,g,0,g,57,g
+928,shake shack,cookie butter blender double concrete,65,g,265,mg,730,g,126,g,17,g,36,g,0.5,g,0,g,114,g
+929,shake shack,cookie butter crunchcrete concrete,32,g,130,mg,230,g,56,g,8,g,18,g,1,g,0,g,48,g
+930,shake shack,cookie butter crunchcrete double concrete,65,g,265,mg,460,g,112,g,15,g,35,g,1.5,g,0,g,97,g
+931,shake shack,cookie dough country concrete,31,g,125,mg,270,g,51,g,10,g,16,g,0.5,g,0,g,41,g
+932,shake shack,cookie dough country double concrete,63,g,250,mg,540,g,102,g,20,g,31,g,1.5,g,0,g,81,g
+933,shake shack,cookies and cream shake,44,g,235,mg,580,g,98,g,19,g,24,g,0,g,0,g,86,g
+934,shake shack,cop donut morningstar concrete mix in,4,g,5,mg,55,g,6,g,1,g,2,g,0,g,0,g,2,g
+935,shake shack,coral crisp concrete,22,g,120,mg,470,g,72,g,9,g,13,g,0,g,0,g,57,g
+936,shake shack,coral crisp double concrete,43,g,240,mg,940,g,144,g,18,g,26,g,0,g,0,g,114,g
+937,shake shack,couch potato cookie dough fluff bake bar concrete mix in,8,g,20,mg,95,g,16,g,2,g,4,g,0,g,0,g,15,g
+938,shake shack,crackle shack double,49,g,185,mg,2080,g,25,g,53,g,20,g,2,g,0,g,5,g
+939,shake shack,crackle shack single,37,g,120,mg,1400,g,25,g,34,g,15,g,1,g,0,g,5,g
+940,shake shack,creamsicle float,15,g,100,mg,240,g,75,g,7,g,9,g,0,g,0,g,74,g
+941,shake shack,crimson red velvet concrete,19,g,120,mg,250,g,40,g,8,g,11,g,0,g,0,g,37,g
+942,shake shack,crimson red velvet double concrete,38,g,235,mg,510,g,79,g,16,g,22,g,0,g,0,g,74,g
+943,shake shack,criossant brittle sea wolf concrete mix in,4,g,10,mg,60,g,9,g,1,g,2.5,g,0,g,0,g,3,g
+944,shake shack,crispy crunchies concrete mix in,0,g,0,mg,130,g,12,g,1,g,0,g,0,g,0,g,1,g
+945,shake shack,cross county crunch concrete,29,g,130,mg,420,g,60,g,9,g,18,g,0,g,0,g,54,g
+946,shake shack,cross county crunch double concrete,58,g,260,mg,830,g,118,g,18,g,36,g,0,g,0,g,108,g
+947,shake shack,crunch time concrete,22,g,120,mg,350,g,59,g,9,g,13,g,0,g,0,g,53,g
+948,shake shack,crunch time double concrete,44,g,240,mg,710,g,119,g,17,g,26,g,0,g,0,g,106,g
+949,shake shack,crunch stellation concrete,26,g,125,mg,280,g,54,g,9,g,16,g,0,g,0,g,51,g
+950,shake shack,crunch stellation double concrete,51,g,245,mg,570,g,108,g,18,g,32,g,0,g,0,g,103,g
+951,shake shack,crush large,0,g,0,mg,110,g,65,g,0,g,0,g,0,g,0,g,64,g
+952,shake shack,crush small,0,g,0,mg,70,g,43,g,0,g,0,g,0,g,0,g,43,g
+953,shake shack,cup cake crunch concrete,28,g,135,mg,340,g,61,g,9,g,15,g,0,g,0,g,55,g
+954,shake shack,cup cake crunch double concrete,57,g,265,mg,690,g,123,g,18,g,31,g,0,g,0,g,109,g
+955,shake shack,d o d licious concrete,27,g,140,mg,420,g,60,g,9,g,16,g,0,g,0,g,42,g
+956,shake shack,d o d licious double concrete,54,g,275,mg,850,g,118,g,18,g,31,g,0,g,0,g,83,g
+957,shake shack,darien cookie dough concrete,30,g,145,mg,480,g,63,g,9,g,18,g,0,g,0,g,47,g
+958,shake shack,darien cookie dough double concrete,59,g,295,mg,960,g,127,g,18,g,35,g,0,g,0,g,95,g
+959,shake shack,dark chocolate chunks askinosie chocolate concrete mix in,5,g,0,mg,0,g,7,g,1,g,3.5,g,0,g,3,g,4,g
+960,shake shack,dark chocolate chunks dandelion concrete mix in,5,g,0,mg,0,g,7,g,1,g,3,g,0,g,0,g,4,g
+961,shake shack,dark chocolate chunks mast brothers concrete mix in,6,g,0,mg,5,g,7,g,1,g,4,g,0,g,2,g,4,g
+962,shake shack,dark chocolate chunks taza concrete mix in,4.5,g,0,mg,0,g,7,g,1,g,3.5,g,0,g,1,g,4,g
+963,shake shack,dark chocolate chunks theos concrete mix in,6,g,0,mg,5,g,7,g,1,g,4,g,0,g,2,g,4,g
+964,shake shack,dark chocolate chunks zaks concrete mix in,5,g,0,mg,0,g,7,g,1,g,3,g,0,g,0,g,4,g
+965,shake shack,dark chocolate cookie warm belly concrete mix in,4,g,15,mg,30,g,8,g,1,g,3,g,0,g,0,g,6,g
+966,shake shack,declaration of donuts concrete,23,g,115,mg,330,g,50,g,9,g,13,g,0,g,0,g,40,g
+967,shake shack,declaration of donuts double concrete,47,g,230,mg,650,g,100,g,18,g,26,g,0,g,1,g,79,g
+968,shake shack,devils food cake fluff bake bar concrete mix in,2,g,10,mg,70,g,7,g,1,g,0,g,0,g,0,g,4,g
+969,shake shack,devils food cake its delicious desserts concrete mix in,3.5,g,20,mg,140,g,13,g,1,g,1,g,0,g,0,g,8,g
+970,shake shack,devils in the details concrete,31,g,150,mg,460,g,64,g,9,g,16,g,1,g,0,g,50,g
+971,shake shack,devils in the details double concrete,62,g,295,mg,910,g,128,g,17,g,32,g,1.5,g,0,g,100,g
+972,shake shack,diet coke large,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+973,shake shack,diet coke small,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+974,shake shack,diet dr pepper large,0,g,0,mg,90,g,0,g,0,g,0,g,0,g,0,g,0,g
+975,shake shack,diet dr pepper small,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+976,shake shack,diet mountain dew large,0,g,0,mg,75,g,1,g,0,g,0,g,0,g,0,g,1,g
+977,shake shack,diet mountain dew small,0,g,0,mg,50,g,1,g,0,g,0,g,0,g,0,g,1,g
+978,shake shack,diet pepsi large,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+979,shake shack,diet pepsi small,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+980,shake shack,do it for the graham concrete,20,g,130,mg,250,g,62,g,9,g,11,g,0,g,0,g,50,g
+981,shake shack,do it for the graham double concrete,40,g,265,mg,510,g,123,g,17,g,22,g,0,g,1,g,101,g
+982,shake shack,donut doughnut plant concrete mix in,3,g,0,mg,50,g,6,g,1,g,1,g,0,g,1,g,4,g
+983,shake shack,double cheeseburger,46,g,185,mg,2220,g,25,g,51,g,22,g,2,g,0,g,5,g
+984,shake shack,double chocolate chip cookie bird bakery concrete mix in,3.5,g,0,mg,30,g,9,g,1,g,1.5,g,0,g,0,g,5,g
+985,shake shack,double chocolate cone,31,g,175,mg,250,g,61,g,10,g,18,g,1,g,0,g,50,g
+986,shake shack,double chocolate ice cream cup,30,g,175,mg,190,g,51,g,9,g,18,g,1,g,0,g,47,g
+987,shake shack,double chocolate trouble concrete,26,g,140,mg,420,g,57,g,9,g,15,g,0,g,0,g,40,g
+988,shake shack,double chocolate trouble double concrete,52,g,275,mg,840,g,114,g,18,g,30,g,0,g,0,g,79,g
+989,shake shack,double concrete chocolate concrete mix in,42,g,240,mg,260,g,70,g,13,g,25,g,1.5,g,3,g,64,g
+990,shake shack,double concrete vanilla concrete mix in,33,g,225,mg,380,g,67,g,15,g,20,g,0,g,3,g,66,g
+991,shake shack,double concrete vanilla and chocolate concrete mix in,37,g,235,mg,320,g,69,g,14,g,22,g,0.5,g,2,g,65,g
+992,shake shack,double down fries,117,g,270,mg,4020,g,164,g,41,g,49,g,1,g,16,g,5,g
+993,shake shack,double hamburger,34,g,150,mg,1540,g,24,g,44,g,15,g,1.5,g,0,g,5,g
+994,shake shack,double shackburger,52,g,195,mg,2280,g,27,g,51,g,23,g,2,g,0,g,6,g
+995,shake shack,double smokeshack,57,g,210,mg,3030,g,28,g,58,g,24,g,2,g,0,g,7,g
+996,shake shack,double vanilla and chocolate cone,28,g,170,mg,290,g,60,g,11,g,16,g,0,g,0,g,51,g
+997,shake shack,double vanilla and chocolate ice cream cup,27,g,170,mg,230,g,50,g,10,g,16,g,0,g,0,g,47,g
+998,shake shack,double vanilla cone,24,g,165,mg,340,g,59,g,11,g,15,g,0,g,0,g,51,g
+999,shake shack,double vanilla ice cream cup,24,g,165,mg,280,g,49,g,11,g,14,g,0,g,0,g,48,g

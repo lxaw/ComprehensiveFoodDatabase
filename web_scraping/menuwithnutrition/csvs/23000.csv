@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,bahama bucks,bahama soda large,0,g,0,mg,150,g,152,g,0,g,0,g,0,g,0,g,152,g
+1,bahama bucks,bahama soda regular,0,g,0,mg,100,g,104,g,0,g,0,g,0,g,0,g,104,g
+2,bahama bucks,bahama soda small,0,g,0,mg,60,g,58,g,0,g,0,g,0,g,0,g,58,g
+3,bahama bucks,bahamakazi lite with strawberries guava juice thin ice flavorings sugar free tropic creme small,6,g,0,mg,5,g,21,g,0,g,6,g,0,g,1,g,14,g
+4,bahama bucks,bahamakazi with strawberries guava juice original flavorings tropic creme avalanche,12,g,0,mg,10,g,133,g,0,g,12,g,0,g,1,g,130,g
+5,bahama bucks,bahamakazi with strawberries guava juice original flavorings tropic creme regular,9,g,0,mg,10,g,102,g,0,g,9,g,0,g,1,g,100,g
+6,bahama bucks,bahamakazi with strawberries guava juice original flavorings tropic creme small,6,g,0,mg,5,g,66,g,0,g,6,g,0,g,1,g,65,g
+7,bahama bucks,blonde mocha frostalatte regular,4,g,20,mg,150,g,88,g,4,g,3,g,0,g,0,g,85,g
+8,bahama bucks,blonde mocha frostalatte small,3,g,15,mg,110,g,65,g,3,g,2,g,0,g,0,g,63,g
+9,bahama bucks,blonde mocha iced coffee regular,10,g,45,mg,250,g,66,g,10,g,6,g,0,g,0,g,63,g
+10,bahama bucks,blonde mocha iced coffee small,8,g,35,mg,200,g,51,g,8,g,5,g,0,g,0,g,49,g
+11,bahama bucks,blonde mocha island latte large,10,g,45,mg,250,g,66,g,10,g,6,g,0,g,0,g,63,g
+12,bahama bucks,blonde mocha island latte regular,8,g,35,mg,200,g,51,g,8,g,5,g,0,g,0,g,49,g
+13,bahama bucks,blonde mocha island latte small,6,g,25,mg,140,g,37,g,6,g,4,g,0,g,0,g,35,g
+14,bahama bucks,cafe latte island latte large,12,g,55,mg,200,g,18,g,12,g,8,g,0,g,0,g,18,g
+15,bahama bucks,cafe latte island latte regular,10,g,45,mg,160,g,15,g,10,g,6,g,0,g,0,g,15,g
+16,bahama bucks,cafe latte island latte small,8,g,35,mg,130,g,12,g,8,g,5,g,0,g,0,g,12,g
+17,bahama bucks,cappuccino island latte large,12,g,55,mg,200,g,18,g,12,g,8,g,0,g,0,g,18,g
+18,bahama bucks,cappuccino island latte regular,10,g,45,mg,160,g,15,g,10,g,6,g,0,g,0,g,15,g
+19,bahama bucks,cappuccino island latte small,8,g,35,mg,130,g,12,g,8,g,5,g,0,g,0,g,12,g
+20,bahama bucks,caribbean cola lite large,9,g,0,mg,85,g,9,g,0,g,9,g,0,g,0,g,0,g
+21,bahama bucks,caribbean cola lite regular,6,g,0,mg,60,g,6,g,0,g,6,g,0,g,0,g,0,g
+22,bahama bucks,caribbean cola lite small,3,g,0,mg,35,g,3,g,0,g,3,g,0,g,0,g,0,g
+23,bahama bucks,caribbean cola large,9,g,0,mg,100,g,161,g,0,g,9,g,0,g,0,g,161,g
+24,bahama bucks,caribbean cola regular,6,g,0,mg,70,g,110,g,0,g,6,g,0,g,0,g,110,g
+25,bahama bucks,caribbean cola small,3,g,0,mg,40,g,61,g,0,g,3,g,0,g,0,g,61,g
+26,bahama bucks,cherry limeade extra large,0,g,0,mg,0,g,166,g,0,g,0,g,0,g,4,g,154,g
+27,bahama bucks,cherry limeade frozen extra large,0,g,0,mg,50,g,219,g,0,g,0,g,0,g,2,g,213,g
+28,bahama bucks,cherry limeade frozen regular,0,g,0,mg,25,g,109,g,0,g,0,g,0,g,1,g,106,g
+29,bahama bucks,cherry limeade regular,0,g,0,mg,0,g,83,g,0,g,0,g,0,g,2,g,77,g
+30,bahama bucks,cherry sublime lite large,0,g,0,mg,80,g,4,g,0,g,0,g,0,g,1,g,1,g
+31,bahama bucks,cherry sublime lite regular,0,g,0,mg,55,g,2,g,0,g,0,g,0,g,1,g,0,g
+32,bahama bucks,cherry sublime lite small,0,g,0,mg,35,g,2,g,0,g,0,g,0,g,1,g,0,g
+33,bahama bucks,cherry sublime large,0,g,0,mg,150,g,156,g,0,g,0,g,0,g,1,g,153,g
+34,bahama bucks,cherry sublime regular,0,g,0,mg,100,g,105,g,0,g,0,g,0,g,1,g,104,g
+35,bahama bucks,cherry sublime small,0,g,0,mg,60,g,60,g,0,g,0,g,0,g,1,g,59,g
+36,bahama bucks,cocomel frostalatte regular,5,g,25,mg,135,g,91,g,4,g,3,g,0,g,0,g,84,g
+37,bahama bucks,cocomel frostalatte small,3,g,15,mg,95,g,67,g,3,g,2,g,0,g,0,g,62,g
+38,bahama bucks,cocomel iced coffee regular,11,g,50,mg,240,g,69,g,10,g,6,g,0,g,0,g,62,g
+39,bahama bucks,cocomel iced coffee small,8,g,40,mg,190,g,54,g,8,g,5,g,0,g,0,g,48,g
+40,bahama bucks,cocomel island latte large,11,g,50,mg,240,g,69,g,10,g,6,g,0,g,0,g,62,g
+41,bahama bucks,cocomel island latte regular,8,g,40,mg,190,g,54,g,8,g,5,g,0,g,0,g,48,g
+42,bahama bucks,cocomel island latte small,6,g,30,mg,170,g,38,g,6,g,4,g,0,g,0,g,35,g
+43,bahama bucks,coconut kulana with coconut juice original flavorings vanilla ice cream avalanche,16,g,70,mg,135,g,156,g,8,g,10,g,0,g,0,g,156,g
+44,bahama bucks,coconut kulana with coconut juice original flavorings vanilla ice cream regular,12,g,55,mg,100,g,120,g,6,g,8,g,0,g,0,g,120,g
+45,bahama bucks,coconut kulana with coconut juice original flavorings vanilla ice cream small,8,g,35,mg,65,g,78,g,4,g,5,g,0,g,0,g,78,g
+46,bahama bucks,congo lite with bananas guava juice thin ice flavorings sugar free tropic creme avalanche,13,g,0,mg,10,g,60,g,1,g,12,g,0,g,3,g,37,g
+47,bahama bucks,congo lite with bananas guava juice thin ice flavorings sugar free tropic creme regular,10,g,0,mg,10,g,48,g,1,g,9,g,0,g,2,g,30,g
+48,bahama bucks,congo lite with bananas guava juice thin ice flavorings sugar free tropic creme small,6,g,0,mg,5,g,30,g,1,g,6,g,0,g,1,g,19,g
+49,bahama bucks,congo with bananas guava juice original flavorings tropic creme avalanche,13,g,0,mg,10,g,150,g,1,g,12,g,0,g,3,g,139,g
+50,bahama bucks,congo with bananas guava juice original flavorings tropic creme regular,10,g,0,mg,10,g,115,g,1,g,9,g,0,g,2,g,107,g
+51,bahama bucks,congo with bananas guava juice original flavorings tropic creme small,6,g,0,mg,5,g,75,g,1,g,6,g,0,g,1,g,70,g
+52,bahama bucks,costa colada lite large,9,g,0,mg,80,g,9,g,0,g,9,g,0,g,0,g,0,g
+53,bahama bucks,costa colada lite regular,6,g,0,mg,55,g,6,g,0,g,6,g,0,g,0,g,0,g
+54,bahama bucks,costa colada lite small,3,g,0,mg,35,g,3,g,0,g,3,g,0,g,0,g,0,g
+55,bahama bucks,costa colada large,9,g,0,mg,150,g,161,g,0,g,9,g,0,g,0,g,161,g
+56,bahama bucks,costa colada regular,6,g,0,mg,100,g,110,g,0,g,6,g,0,g,0,g,110,g
+57,bahama bucks,costa colada small,3,g,0,mg,60,g,61,g,0,g,3,g,0,g,0,g,61,g
+58,bahama bucks,funky monkey with bananas pineapple juice original flavorings chocolate creme avalanche,17,g,0,mg,95,g,165,g,3,g,12,g,0,g,3,g,150,g
+59,bahama bucks,funky monkey with bananas pineapple juice original flavorings chocolate creme regular,13,g,0,mg,70,g,126,g,3,g,9,g,0,g,2,g,115,g
+60,bahama bucks,funky monkey with bananas pineapple juice original flavorings chocolate creme small,8,g,0,mg,45,g,82,g,2,g,6,g,0,g,1,g,75,g
+61,bahama bucks,hot frost regular,13,g,45,mg,170,g,53,g,10,g,9,g,0,g,0,g,51,g
+62,bahama bucks,hot frost small,7,g,25,mg,100,g,33,g,6,g,5,g,0,g,0,g,32,g
+63,bahama bucks,hot koko regular,13,g,45,mg,220,g,42,g,12,g,9,g,0,g,2,g,38,g
+64,bahama bucks,hot koko small,8,g,25,mg,140,g,27,g,8,g,6,g,0,g,1,g,24,g
+65,bahama bucks,iced coffee add non dairy whipped topping,2,g,0,mg,0,g,1,g,1,g,2,g,0,g,0,g,1,g
+66,bahama bucks,island mocha frostalatte regular,5,g,20,mg,85,g,86,g,5,g,3,g,0,g,2,g,86,g
+67,bahama bucks,island mocha frostalatte small,3,g,15,mg,60,g,64,g,4,g,2,g,0,g,2,g,64,g
+68,bahama bucks,island mocha iced coffee regular,11,g,45,mg,190,g,64,g,11,g,6,g,0,g,2,g,64,g
+69,bahama bucks,island mocha iced coffee small,8,g,35,mg,150,g,50,g,9,g,5,g,0,g,2,g,50,g
+70,bahama bucks,kokomoko with coca cola original flavorings dark chocolate sauce chocolate ice cream avalanche,82,g,70,mg,480,g,256,g,14,g,66,g,0,g,2,g,248,g
+71,bahama bucks,kokomoko with coca cola original flavorings dark chocolate sauce chocolate ice cream regular,62,g,55,mg,360,g,193,g,11,g,50,g,0,g,2,g,187,g
+72,bahama bucks,kokomoko with coca cola original flavorings dark chocolate sauce chocolate ice cream small,41,g,35,mg,240,g,128,g,7,g,33,g,0,g,1,g,124,g
+73,bahama bucks,lemon limeade extra large,0,g,0,mg,0,g,104,g,1,g,0,g,0,g,4,g,94,g
+74,bahama bucks,lemon limeade frozen extra large,0,g,0,mg,50,g,159,g,0,g,0,g,0,g,2,g,153,g
+75,bahama bucks,lemon limeade frozen regular,0,g,0,mg,25,g,79,g,0,g,0,g,0,g,1,g,76,g
+76,bahama bucks,lemon limeade regular,0,g,0,mg,0,g,52,g,1,g,0,g,0,g,2,g,47,g
+77,bahama bucks,lemonade extra large,0,g,0,mg,0,g,102,g,2,g,0,g,0,g,4,g,94,g
+78,bahama bucks,lemonade frozen extra large,0,g,0,mg,50,g,157,g,1,g,0,g,0,g,2,g,153,g
+79,bahama bucks,lemonade frozen regular,0,g,0,mg,25,g,78,g,1,g,0,g,0,g,1,g,76,g
+80,bahama bucks,lemonade regular,0,g,0,mg,0,g,51,g,1,g,0,g,0,g,2,g,47,g
+81,bahama bucks,limeade extra large,0,g,0,mg,0,g,106,g,0,g,0,g,0,g,4,g,94,g
+82,bahama bucks,limeade frozen extra large,0,g,0,mg,50,g,159,g,0,g,0,g,0,g,2,g,153,g
+83,bahama bucks,limeade frozen regular,0,g,0,mg,25,g,79,g,0,g,0,g,0,g,1,g,76,g
+84,bahama bucks,limeade regular,0,g,0,mg,0,g,53,g,0,g,0,g,0,g,2,g,47,g
+85,bahama bucks,mahalo mocha frostalatte regular,4,g,20,mg,150,g,88,g,4,g,3,g,0,g,0,g,85,g
+86,bahama bucks,mahalo mocha frostalatte small,3,g,15,mg,110,g,65,g,3,g,2,g,0,g,0,g,63,g
+87,bahama bucks,mahalo mocha iced coffee regular,10,g,45,mg,250,g,66,g,10,g,6,g,0,g,0,g,63,g
+88,bahama bucks,mahalo mocha iced coffee small,8,g,35,mg,200,g,51,g,8,g,5,g,0,g,0,g,49,g
+89,bahama bucks,mahalo mocha island latte large,10,g,45,mg,250,g,66,g,10,g,6,g,0,g,0,g,63,g
+90,bahama bucks,mahalo mocha island latte regular,8,g,35,mg,200,g,51,g,8,g,5,g,0,g,0,g,49,g
+91,bahama bucks,mahalo mocha island latte small,6,g,25,mg,140,g,37,g,6,g,4,g,0,g,0,g,35,g
+92,bahama bucks,mainland coffee island latte large,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+93,bahama bucks,mainland coffee island latte regular,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+94,bahama bucks,mainland coffee island latte small,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+95,bahama bucks,mainland coffee regular,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+96,bahama bucks,mainland coffee small,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+97,bahama bucks,mango tango lite with mangos mango juice thin ice flavorings sugar free tropic creme avalanche,12,g,0,mg,5,g,54,g,0,g,12,g,0,g,2,g,38,g
+98,bahama bucks,mango tango lite with mangos mango juice thin ice flavorings sugar free tropic creme regular,9,g,0,mg,5,g,42,g,0,g,9,g,0,g,2,g,31,g
+99,bahama bucks,mango tango lite with mangos mango juice thin ice flavorings sugar free tropic creme small,6,g,0,mg,0,g,27,g,0,g,6,g,0,g,1,g,19,g
+100,bahama bucks,mango tango with mangos mango juice original flavorings tropic creme avalanche,12,g,0,mg,5,g,144,g,0,g,12,g,0,g,2,g,140,g
+101,bahama bucks,mango tango with mangos mango juice original flavorings tropic creme regular,9,g,0,mg,5,g,110,g,0,g,9,g,0,g,2,g,107,g
+102,bahama bucks,mango tango with mangos mango juice original flavorings tropic creme small,6,g,0,mg,0,g,72,g,0,g,6,g,0,g,1,g,70,g
+103,bahama bucks,mixed fruit cup regular,0,g,0,mg,15,g,66,g,1,g,0,g,0,g,9,g,51,g
+104,bahama bucks,mixed fruit cup small,0,g,0,mg,10,g,44,g,0,g,0,g,0,g,6,g,34,g
+105,bahama bucks,mocha island latte large,11,g,45,mg,190,g,64,g,11,g,6,g,0,g,2,g,64,g
+106,bahama bucks,mocha island latte regular,8,g,35,mg,150,g,50,g,9,g,5,g,0,g,2,g,50,g
+107,bahama bucks,mocha island latte small,6,g,25,mg,110,g,36,g,7,g,4,g,0,g,1,g,36,g
+108,bahama bucks,oasis with bananas strawberries orange juice original flavorings tropic creme avalanche,13,g,0,mg,10,g,152,g,2,g,12,g,0,g,4,g,139,g
+109,bahama bucks,oasis with bananas strawberries orange juice original flavorings tropic creme regular,10,g,0,mg,10,g,116,g,2,g,9,g,0,g,3,g,106,g
+110,bahama bucks,oasis with bananas strawberries orange juice original flavorings tropic creme small,6,g,0,mg,5,g,76,g,1,g,6,g,0,g,2,g,69,g
+111,bahama bucks,orange cruiser with orange juice original flavorings vanilla ice cream avalanche,16,g,70,mg,140,g,149,g,9,g,10,g,0,g,0,g,148,g
+112,bahama bucks,orange cruiser with orange juice original flavorings vanilla ice cream regular,12,g,55,mg,105,g,114,g,7,g,8,g,0,g,0,g,113,g
+113,bahama bucks,orange cruiser with orange juice original flavorings vanilla ice cream small,8,g,35,mg,70,g,75,g,4,g,5,g,0,g,0,g,74,g
+114,bahama bucks,original flavors shaved ice avalanche,0,g,0,mg,0,g,150,g,0,g,0,g,0,g,0,g,150,g
+115,bahama bucks,original flavors shaved ice baby,0,g,0,mg,0,g,45,g,0,g,0,g,0,g,0,g,45,g
+116,bahama bucks,original flavors shaved ice large,0,g,0,mg,0,g,90,g,0,g,0,g,0,g,0,g,90,g
+117,bahama bucks,original flavors shaved ice regular,0,g,0,mg,0,g,75,g,0,g,0,g,0,g,0,g,75,g
+118,bahama bucks,original flavors shaved ice small,0,g,0,mg,0,g,60,g,0,g,0,g,0,g,0,g,60,g
+119,bahama bucks,paradise royale frostalatte regular,5,g,20,mg,110,g,88,g,5,g,3,g,0,g,1,g,85,g
+120,bahama bucks,paradise royale frostalatte small,3,g,15,mg,80,g,66,g,3,g,2,g,0,g,1,g,63,g
+121,bahama bucks,paradise royale iced coffee regular,11,g,45,mg,210,g,66,g,11,g,6,g,0,g,1,g,63,g
+122,bahama bucks,paradise royale iced coffee small,8,g,35,mg,170,g,52,g,8,g,5,g,0,g,1,g,49,g
+123,bahama bucks,paradise royale island latte large,11,g,45,mg,210,g,66,g,11,g,6,g,0,g,1,g,63,g
+124,bahama bucks,paradise royale island latte regular,8,g,35,mg,170,g,52,g,8,g,5,g,0,g,1,g,49,g
+125,bahama bucks,paradise royale island latte small,6,g,30,mg,120,g,37,g,6,g,4,g,0,g,1,g,35,g
+126,bahama bucks,pineapple dream with pineapples pineapple juice original flavorings vanilla ice cream avalanche,16,g,70,mg,135,g,192,g,10,g,10,g,0,g,4,g,178,g
+127,bahama bucks,pineapple dream with pineapples pineapple juice original flavorings vanilla ice cream regular,12,g,55,mg,100,g,146,g,8,g,8,g,0,g,3,g,135,g
+128,bahama bucks,pineapple dream with pineapples pineapple juice original flavorings vanilla ice cream small,8,g,35,mg,65,g,96,g,5,g,5,g,0,g,2,g,89,g
+129,bahama bucks,playa del caramel frostalatte regular,5,g,25,mg,135,g,91,g,4,g,3,g,0,g,0,g,84,g
+130,bahama bucks,playa del caramel frostalatte small,3,g,15,mg,95,g,67,g,3,g,2,g,0,g,0,g,62,g
+131,bahama bucks,playa del caramel iced coffee regular,11,g,50,mg,240,g,69,g,10,g,6,g,0,g,0,g,62,g
+132,bahama bucks,playa del caramel iced coffee small,8,g,40,mg,190,g,54,g,8,g,5,g,0,g,0,g,48,g
+133,bahama bucks,playa del caramel island latte large,11,g,50,mg,240,g,69,g,10,g,6,g,0,g,0,g,62,g
+134,bahama bucks,playa del caramel island latte regular,8,g,40,mg,190,g,54,g,8,g,5,g,0,g,0,g,48,g
+135,bahama bucks,playa del caramel island latte small,6,g,30,mg,135,g,38,g,6,g,4,g,0,g,0,g,35,g
+136,bahama bucks,strawberry banana calypso with bananas strawberry juice original flavorings tropic creme regular,10,g,0,mg,10,g,112,g,1,g,9,g,0,g,2,g,103,g
+137,bahama bucks,strawberry banana calypso with bananas strawberry juice original flavorings tropic creme small,6,g,0,mg,5,g,73,g,1,g,6,g,0,g,1,g,67,g
+138,bahama bucks,strawberry cup regular,0,g,0,mg,0,g,36,g,0,g,0,g,0,g,18,g,18,g
+139,bahama bucks,strawberry cup small,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,12,g,12,g
+140,bahama bucks,strawberry freezecake with strawberries strawberry juice original flavorings tropic creme small,6,g,0,mg,5,g,64,g,0,g,6,g,0,g,1,g,63,g
+141,bahama bucks,strawberry lemonade extra large,0,g,0,mg,0,g,110,g,2,g,0,g,0,g,8,g,98,g
+142,bahama bucks,strawberry lemonade frozen extra large,0,g,0,mg,50,g,165,g,1,g,0,g,0,g,6,g,157,g
+143,bahama bucks,strawberry lemonade frozen regular,0,g,0,mg,25,g,82,g,1,g,0,g,0,g,3,g,78,g
+144,bahama bucks,strawberry lemonade regular,0,g,0,mg,0,g,55,g,1,g,0,g,0,g,4,g,49,g
+145,bahama bucks,strawberry banana cup regular,0,g,0,mg,0,g,81,g,0,g,0,g,0,g,20,g,41,g
+146,bahama bucks,strawberry banana cup small,0,g,0,mg,0,g,54,g,0,g,0,g,0,g,14,g,27,g
+147,bahama bucks,super sour flavors shaved ice avalanche,0,g,0,mg,0,g,150,g,0,g,0,g,0,g,0,g,150,g
+148,bahama bucks,super sour flavors shaved ice baby,0,g,0,mg,0,g,45,g,0,g,0,g,0,g,0,g,45,g
+149,bahama bucks,super sour flavors shaved ice large,0,g,0,mg,0,g,90,g,0,g,0,g,0,g,0,g,90,g
+150,bahama bucks,super sour flavors shaved ice regular,0,g,0,mg,0,g,75,g,0,g,0,g,0,g,0,g,75,g
+151,bahama bucks,super sour flavors shaved ice small,0,g,0,mg,0,g,60,g,0,g,0,g,0,g,0,g,60,g
+152,bahama bucks,vanilla vista frostalatte regular,4,g,20,mg,65,g,62,g,4,g,3,g,0,g,0,g,62,g
+153,bahama bucks,vanilla vista frostalatte small,3,g,15,mg,45,g,46,g,3,g,2,g,0,g,0,g,46,g
+154,bahama bucks,vanilla vista iced coffee regular,10,g,45,mg,170,g,40,g,10,g,6,g,0,g,0,g,40,g
+155,bahama bucks,vanilla vista iced coffee small,8,g,35,mg,135,g,32,g,8,g,5,g,0,g,0,g,32,g
+156,bahama bucks,vanilla vista island latte large,10,g,45,mg,170,g,40,g,10,g,6,g,0,g,0,g,40,g
+157,bahama bucks,vanilla vista island latte regular,8,g,35,mg,135,g,32,g,8,g,5,g,0,g,0,g,32,g
+158,bahama bucks,vanilla vista island latte small,6,g,25,mg,100,g,24,g,6,g,4,g,0,g,0,g,24,g
+159,bahama bucks,wavebender with bananas lime pineapple juice original flavorings tropic creme avalanche,13,g,0,mg,5,g,158,g,1,g,12,g,0,g,5,g,137,g
+160,bahama bucks,wavebender with bananas lime pineapple juice original flavorings tropic creme regular,10,g,0,mg,0,g,119,g,1,g,9,g,0,g,3,g,105,g
+161,bahama bucks,wavebender with bananas lime pineapple juice original flavorings tropic creme small,6,g,0,mg,0,g,79,g,1,g,6,g,0,g,2,g,69,g
+162,baker bros american deli,all americann baker,81,g,0,mg,1240,g,119,g,40,g,52,g,0,g,13,g,15,g
+163,baker bros american deli,baked potato soup bowl,18,g,0,mg,920,g,26,g,9,g,8,g,2,g,2,g,11,g
+164,baker bros american deli,baked potato soup cup,12,g,0,mg,620,g,18,g,6,g,5,g,1,g,1,g,7,g
+165,baker bros american deli,balsamic vinaigrette dressing,8,g,0,mg,290,g,6,g,0,g,1,g,0,g,0,g,5,g
+166,baker bros american deli,bbq chicken pizza,49,g,0,mg,2180,g,122,g,58,g,23,g,0,g,4,g,28,g
+167,baker bros american deli,bbq ranch dressing,22,g,0,mg,460,g,2,g,0,g,2,g,0,g,0,g,3,g
+168,baker bros american deli,beer cheese soup bowl,18,g,0,mg,1180,g,19,g,5,g,8,g,2,g,1,g,7,g
+169,baker bros american deli,beer cheese soup cup,12,g,0,mg,780,g,13,g,4,g,5,g,1,g,1,g,5,g
+170,baker bros american deli,big tex baker,22,g,0,mg,2460,g,150,g,51,g,11,g,0,g,13,g,45,g
+171,baker bros american deli,black bean soup bowl,5,g,0,mg,1260,g,29,g,11,g,2,g,0,g,7,g,5,g
+172,baker bros american deli,black bean soup cup,4,g,0,mg,840,g,19,g,7,g,1,g,0,g,5,g,4,g
+173,baker bros american deli,blue cheese dressing,23,g,0,mg,440,g,2,g,2,g,3,g,0,g,0,g,2,g
+174,baker bros american deli,broadway reuben specialty sandwich,23,g,0,mg,2620,g,74,g,38,g,9,g,0,g,8,g,4,g
+175,baker bros american deli,broadway reuben specialty sandwich half,12,g,0,mg,1310,g,37,g,19,g,5,g,0,g,4,g,2,g
+176,baker bros american deli,caesar dressing,20,g,0,mg,500,g,2,g,2,g,3,g,0,g,0,g,0,g
+177,baker bros american deli,chicago chop salad,24,g,0,mg,1480,g,18,g,39,g,11,g,0,g,8,g,9,g
+178,baker bros american deli,chicago chop salad half,12,g,0,mg,740,g,9,g,19,g,6,g,0,g,4,g,4,g
+179,baker bros american deli,chicken breast deli sandwich,21,g,0,mg,1390,g,68,g,40,g,4,g,0,g,9,g,4,g
+180,baker bros american deli,chicken breast deli sandwich half,10,g,0,mg,690,g,34,g,20,g,2,g,0,g,4,g,2,g
+181,baker bros american deli,chicken caesar salad,7,g,0,mg,690,g,30,g,26,g,2,g,0,g,7,g,3,g
+182,baker bros american deli,chicken caesar salad half,3,g,0,mg,340,g,15,g,13,g,1,g,0,g,4,g,2,g
+183,baker bros american deli,chicken pesto pizza,67,g,0,mg,1640,g,93,g,64,g,18,g,0,g,5,g,3,g
+184,baker bros american deli,chicken salad deli sandwich,55,g,0,mg,1610,g,70,g,35,g,8,g,0,g,9,g,6,g
+185,baker bros american deli,chicken salad deli sandwich half,27,g,0,mg,810,g,35,g,17,g,4,g,0,g,5,g,3,g
+186,baker bros american deli,chili cheese fritos baker,101,g,0,mg,3310,g,168,g,69,g,42,g,3,g,25,g,17,g
+187,baker bros american deli,chocolate chip cookie,14,g,0,mg,130,g,43,g,4,g,6,g,0,g,2,g,30,g
+188,baker bros american deli,cinnamon sugar cookie,12,g,0,mg,210,g,46,g,4,g,4,g,0,g,0,g,24,g
+189,baker bros american deli,corned beef deli sandwich,10,g,0,mg,2110,g,70,g,31,g,3,g,0,g,6,g,2,g
+190,baker bros american deli,corned beef deli sandwich half,5,g,0,mg,1050,g,35,g,16,g,2,g,0,g,3,g,1,g
+191,baker bros american deli,fat free raspberry dressing,0,g,0,mg,120,g,12,g,0,g,0,g,0,g,0,g,11,g
+192,baker bros american deli,fudge nut brownie,37,g,0,mg,35,g,75,g,7,g,18,g,0,g,5,g,58,g
+193,baker bros american deli,glorious cheese pizza,37,g,0,mg,1310,g,96,g,39,g,13,g,0,g,6,g,7,g
+194,baker bros american deli,ham deli sandwich,11,g,0,mg,2340,g,73,g,29,g,2,g,0,g,5,g,5,g
+195,baker bros american deli,ham deli sandwich half,5,g,0,mg,1170,g,37,g,14,g,1,g,0,g,3,g,3,g
+196,baker bros american deli,honey mustard dressing,24,g,0,mg,210,g,8,g,0,g,4,g,0,g,0,g,8,g
+197,baker bros american deli,italian sausage pizza,45,g,0,mg,1620,g,93,g,40,g,15,g,0,g,6,g,4,g
+198,baker bros american deli,k c old fashioned specialty sandwich,23,g,0,mg,2070,g,75,g,39,g,8,g,0,g,4,g,6,g
+199,baker bros american deli,k c old fashioned specialty sandwich half,11,g,0,mg,1030,g,38,g,20,g,4,g,0,g,2,g,3,g
+200,baker bros american deli,kentucky club specialty sandwich,36,g,0,mg,2740,g,74,g,44,g,11,g,0,g,4,g,4,g
+201,baker bros american deli,kentucky club specialty sandwich half,18,g,0,mg,1370,g,37,g,22,g,5,g,0,g,2,g,2,g
+202,baker bros american deli,kids cheese pizza,40,g,0,mg,1230,g,91,g,36,g,16,g,0,g,5,g,4,g
+203,baker bros american deli,kids cheese sandwich,12,g,0,mg,540,g,30,g,12,g,6,g,0,g,2,g,1,g
+204,baker bros american deli,kids ham sandwich,5,g,0,mg,1000,g,32,g,13,g,1,g,0,g,2,g,2,g
+205,baker bros american deli,kids hot dawg,35,g,0,mg,1540,g,38,g,18,g,15,g,0,g,3,g,6,g
+206,baker bros american deli,kids kids baker potato,40,g,0,mg,810,g,57,g,23,g,24,g,0,g,6,g,6,g
+207,baker bros american deli,kids roast beef sandwich,5,g,0,mg,810,g,32,g,15,g,2,g,0,g,2,g,1,g
+208,baker bros american deli,kids turkey sandwich,4,g,0,mg,910,g,33,g,13,g,1,g,0,g,2,g,1,g
+209,baker bros american deli,kowloon salad,9,g,0,mg,600,g,35,g,24,g,2,g,0,g,8,g,15,g
+210,baker bros american deli,kowloon salad half salad,4,g,0,mg,300,g,17,g,12,g,1,g,0,g,4,g,8,g
+211,baker bros american deli,l a prime time specialty sandwich,31,g,0,mg,1380,g,80,g,24,g,8,g,0,g,11,g,9,g
+212,baker bros american deli,l a prime time specialty sandwich half,16,g,0,mg,690,g,40,g,12,g,4,g,0,g,6,g,5,g
+213,baker bros american deli,lite ranch dressing,15,g,0,mg,440,g,2,g,2,g,2,g,0,g,0,g,2,g
+214,baker bros american deli,napa valley specialty sandwich,35,g,0,mg,2400,g,78,g,37,g,9,g,0,g,5,g,5,g
+215,baker bros american deli,napa valley specialty sandwich half,17,g,0,mg,1200,g,39,g,19,g,5,g,0,g,2,g,2,g
+216,baker bros american deli,new orleans muffaletta specialty sandwich,48,g,0,mg,2920,g,77,g,38,g,18,g,0,g,4,g,8,g
+217,baker bros american deli,new orleans muffaletta specialty sandwich half,24,g,0,mg,1460,g,39,g,19,g,9,g,0,g,2,g,4,g
+218,baker bros american deli,north beach specialty sandwich,33,g,0,mg,1300,g,72,g,47,g,10,g,0,g,4,g,3,g
+219,baker bros american deli,north beach specialty sandwich half,16,g,0,mg,650,g,36,g,24,g,5,g,0,g,2,g,1,g
+220,baker bros american deli,oriental dressing,7,g,0,mg,480,g,18,g,0,g,1,g,0,g,0,g,14,g
+221,baker bros american deli,pastrami deli sandwich,10,g,0,mg,2530,g,72,g,31,g,3,g,0,g,6,g,4,g
+222,baker bros american deli,pastrami deli sandwich half,5,g,0,mg,1260,g,36,g,16,g,2,g,0,g,3,g,2,g
+223,baker bros american deli,pepperoni pizza,60,g,0,mg,2170,g,93,g,40,g,20,g,0,g,7,g,4,g
+224,baker bros american deli,philly cheese steak specialty sandwich,23,g,0,mg,1970,g,75,g,40,g,10,g,0,g,4,g,4,g
+225,baker bros american deli,philly cheese steak specialty sandwich half,11,g,0,mg,990,g,37,g,20,g,5,g,0,g,2,g,2,g
+226,baker bros american deli,pueblo chicken baker,23,g,0,mg,1490,g,138,g,53,g,15,g,0,g,17,g,22,g
+227,baker bros american deli,ranch dressing,17,g,0,mg,440,g,2,g,0,g,2,g,0,g,0,g,2,g
+228,baker bros american deli,roast beef deli sandwich,12,g,0,mg,1730,g,73,g,32,g,4,g,0,g,4,g,3,g
+229,baker bros american deli,roast beef deli sandwich half,6,g,0,mg,860,g,36,g,16,g,2,g,0,g,2,g,2,g
+230,baker bros american deli,russian dressing,20,g,0,mg,450,g,8,g,0,g,3,g,0,g,0,g,6,g
+231,baker bros american deli,santa barbara salad,26,g,0,mg,1620,g,24,g,34,g,13,g,0,g,9,g,11,g
+232,baker bros american deli,santa barbara salad half,13,g,0,mg,810,g,12,g,17,g,6,g,0,g,4,g,5,g
+233,baker bros american deli,santa fe salad,18,g,0,mg,770,g,17,g,28,g,8,g,0,g,7,g,8,g
+234,baker bros american deli,santa fe salad half,9,g,0,mg,390,g,9,g,14,g,4,g,0,g,3,g,4,g
+235,baker bros american deli,scottsdale salad,27,g,0,mg,2230,g,35,g,43,g,13,g,0,g,6,g,5,g
+236,baker bros american deli,scottsdale salad half,13,g,0,mg,1120,g,17,g,22,g,7,g,0,g,3,g,2,g
+237,baker bros american deli,siciliano specialty sandwich,31,g,0,mg,2340,g,72,g,39,g,12,g,0,g,4,g,4,g
+238,baker bros american deli,siciliano specialty sandwich half,15,g,0,mg,1170,g,36,g,19,g,6,g,0,g,2,g,2,g
+239,baker bros american deli,sonoma chicken specialty sandwich,30,g,0,mg,1670,g,68,g,47,g,10,g,0,g,9,g,3,g
+240,baker bros american deli,sonoma chicken specialty sandwich half,15,g,0,mg,840,g,34,g,23,g,5,g,0,g,4,g,2,g
+241,baker bros american deli,south beach specialty sandwich,30,g,0,mg,2850,g,77,g,42,g,6,g,0,g,4,g,3,g
+242,baker bros american deli,south beach specialty sandwich half,15,g,0,mg,1420,g,39,g,21,g,3,g,0,g,2,g,1,g
+243,baker bros american deli,southwest honey mustard dressing,12,g,0,mg,370,g,5,g,0,g,2,g,0,g,0,g,5,g
+244,baker bros american deli,taos salad,13,g,0,mg,960,g,47,g,35,g,7,g,0,g,14,g,12,g
+245,baker bros american deli,taos salad half,7,g,0,mg,480,g,23,g,17,g,4,g,0,g,7,g,6,g
+246,baker bros american deli,texas chili bowl,62,g,0,mg,1600,g,27,g,30,g,26,g,2,g,6,g,3,g
+247,baker bros american deli,texas chili cup,41,g,0,mg,1070,g,18,g,20,g,17,g,2,g,4,g,2,g
+248,baker bros american deli,texas cobb salad,34,g,0,mg,1930,g,39,g,39,g,13,g,0,g,7,g,7,g
+249,baker bros american deli,texas cobb salad half,19,g,0,mg,980,g,21,g,20,g,7,g,0,g,4,g,5,g
+250,baker bros american deli,texas star specialty sandwich,28,g,0,mg,3240,g,104,g,49,g,12,g,0,g,4,g,29,g
+251,baker bros american deli,texas star specialty sandwich half,14,g,0,mg,1620,g,52,g,24,g,6,g,0,g,2,g,14,g
+252,baker bros american deli,tuna salad deli sandwich,40,g,0,mg,1120,g,70,g,36,g,6,g,0,g,10,g,5,g
+253,baker bros american deli,tuna salad deli sandwich half,20,g,0,mg,560,g,35,g,18,g,3,g,0,g,5,g,3,g
+254,baker bros american deli,turkey deli sandwich,19,g,0,mg,1900,g,72,g,30,g,3,g,0,g,9,g,4,g
+255,baker bros american deli,turkey deli sandwich half,9,g,0,mg,950,g,36,g,15,g,1,g,0,g,4,g,2,g
+256,baker bros american deli,veggie pesto pizza,69,g,0,mg,1170,g,101,g,44,g,18,g,0,g,7,g,7,g
+257,bakers square,10 oz chopped steak no side no bread,62,g,155,mg,1640,g,10,g,33,g,25,g,0,g,1,g,3,g
+258,bakers square,2 egg cheese omelette,27,g,505,mg,330,g,2,g,20,g,10,g,0,g,0,g,0,g
+259,bakers square,2 egg low cholesterol egg substitute omelette with part skim cheese,15,g,110,mg,490,g,2,g,21,g,5,g,0,g,0,g,1,g
+260,bakers square,2 egg white omelette with part skim cheese,13,g,15,mg,370,g,2,g,21,g,5,g,0,g,0,g,0,g
+261,bakers square,add on avocado,7,g,0,mg,0,g,4,g,1,g,1,g,0,g,3,g,0,g
+262,bakers square,add on bacon,4.5,g,15,mg,210,g,0,g,4,g,1.5,g,0,g,0,g,0,g
+263,bakers square,add on bacon 2 strips,4.5,g,15,mg,210,g,0,g,4,g,1.5,g,0,g,0,g,0,g
+264,bakers square,add on broccoli,0,g,0,mg,10,g,1,g,1,g,0,g,0,g,1,g,0,g
+265,bakers square,add on cheese american cheese,6,g,15,mg,240,g,0,g,4,g,3.5,g,0,g,0,g,0,g
+266,bakers square,add on cheese american 1 slice,6,g,15,mg,240,g,0,g,4,g,3.5,g,0,g,0,g,0,g
+267,bakers square,add on cheese american 2 slices,12,g,30,mg,480,g,0,g,8,g,7,g,0,g,0,g,0,g
+268,bakers square,add on cheese bleu cheese,8,g,25,mg,380,g,1,g,6,g,5,g,0,g,1,g,0,g
+269,bakers square,add on cheese bleu 1 oz,8,g,25,mg,380,g,1,g,6,g,5,g,0,g,1,g,0,g
+270,bakers square,add on cheese cheddar cheese,7,g,25,mg,135,g,0,g,5,g,4,g,0,g,0,g,0,g
+271,bakers square,add on cheese cheddar 2 slices,14,g,50,mg,270,g,0,g,10,g,8,g,0,g,0,g,0,g
+272,bakers square,add on cheese feta,6,g,20,mg,320,g,1,g,5,g,4,g,0,g,1,g,0,g
+273,bakers square,add on cheese feta 1 oz,6,g,20,mg,320,g,1,g,5,g,4,g,0,g,1,g,0,g
+274,bakers square,add on cheese mozzarella,6,g,15,mg,170,g,1,g,8,g,3.5,g,0,g,0,g,0,g
+275,bakers square,add on cheese mozzarella 1 oz,6,g,15,mg,170,g,1,g,8,g,3.5,g,0,g,0,g,0,g
+276,bakers square,add on cheese pepper jack cheese,5,g,15,mg,15,g,1,g,3,g,3,g,0,g,0,g,1,g
+277,bakers square,add on cheese pepper jack 2 slices,10,g,30,mg,30,g,2,g,6,g,6,g,0,g,0,g,1,g
+278,bakers square,add on cheese swiss cheese,8,g,25,mg,60,g,1,g,8,g,5,g,0,g,0,g,0,g
+279,bakers square,add on cheese swiss 2 slices,16,g,50,mg,120,g,2,g,16,g,10,g,0,g,0,g,0,g
+280,bakers square,add on crush burger patty 1 each,27,g,95,mg,190,g,0,g,18,g,12,g,0,g,0,g,0,g
+281,bakers square,add on diced ham,3,g,30,mg,690,g,3,g,9,g,1,g,0,g,0,g,2,g
+282,bakers square,add on fried egg,8,g,165,mg,60,g,0,g,6,g,2,g,0,g,0,g,0,g
+283,bakers square,add on garlic grilled mushrooms 2 oz,7,g,0,mg,85,g,2,g,2,g,2,g,0,g,1,g,1,g
+284,bakers square,add on garlic grilled onions 1 oz,6,g,0,mg,85,g,3,g,0,g,2,g,0,g,0,g,1,g
+285,bakers square,add on green peppers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+286,bakers square,add on mushrooms,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,1,g
+287,bakers square,add on onions,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,1,g
+288,bakers square,add on sausage links,14,g,45,mg,410,g,1,g,9,g,4.5,g,0,g,0,g,1,g
+289,bakers square,add on spinach,0,g,0,mg,20,g,1,g,1,g,0,g,0,g,1,g,0,g
+290,bakers square,add on tomatoes,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+291,bakers square,add on turkey,2.5,g,25,mg,300,g,1,g,10,g,1,g,0,g,0,g,1,g
+292,bakers square,albacore tuna melt on marbled rye bread no side,50,g,105,mg,1410,g,53,g,47,g,10,g,0,g,5,g,3,g
+293,bakers square,albacore tuna melt on marbled rye half,25,g,50,mg,710,g,26,g,23,g,5,g,0,g,2,g,2,g
+294,bakers square,albacore tuna melt on wheat bread half,25,g,50,mg,760,g,26,g,23,g,5,g,0,g,2,g,4,g
+295,bakers square,albacore tuna melt on wheat bread no side,50,g,105,mg,1510,g,53,g,47,g,10,g,0,g,5,g,7,g
+296,bakers square,albacore tuna melt on white bread half,25,g,50,mg,690,g,18,g,21,g,5,g,0,g,1,g,2,g
+297,bakers square,albacore tuna melt on white bread no side,49,g,105,mg,1370,g,37,g,43,g,10,g,0,g,2,g,3,g
+298,bakers square,albacore tuna salad on marbled rye half,11,g,25,mg,360,g,27,g,15,g,0,g,0,g,3,g,2,g
+299,bakers square,albacore tuna salad on wheat half,11,g,25,mg,410,g,27,g,15,g,0,g,0,g,3,g,4,g
+300,bakers square,albacore tuna salad on white half,11,g,25,mg,340,g,19,g,13,g,0,g,0,g,1,g,2,g
+301,bakers square,all american crush burger with grilled chicken breast no cheese no side,39,g,95,mg,830,g,45,g,27,g,15,g,0,g,2,g,8,g
+302,bakers square,all american crush burger no cheese no side,39,g,95,mg,830,g,45,g,27,g,15,g,0,g,2,g,8,g
+303,bakers square,all american crush cheeseburger no cheese no side,27,g,95,mg,390,g,4,g,19,g,12,g,0,g,1,g,2,g
+304,bakers square,apple and pecan salad artisan pie shop special with lite olive oil vinaigrette,17,g,5,mg,630,g,19,g,3,g,3.5,g,0,g,2,g,13,g
+305,bakers square,apple and pecan salad artisan pie shop special no dressing,5,g,5,mg,115,g,13,g,3,g,1.5,g,0,g,2,g,9,g
+306,bakers square,apple juice large,0,g,0,mg,40,g,61,g,0,g,0,g,0,g,0,g,59,g
+307,bakers square,apple juice small,0,g,0,mg,20,g,35,g,0,g,0,g,0,g,0,g,34,g
+308,bakers square,apple juice to go,0,g,0,mg,30,g,49,g,0,g,0,g,0,g,0,g,47,g
+309,bakers square,apple walnut chicken salad with light olive oil dressing full no bread,41,g,70,mg,1480,g,38,g,22,g,9,g,0,g,6,g,25,g
+310,bakers square,apple walnut chicken salad full no bread no dressing,23,g,70,mg,700,g,29,g,22,g,6,g,0,g,6,g,19,g
+311,bakers square,apple walnut chicken salad full no dressing,23,g,70,mg,700,g,29,g,22,g,6,g,0,g,6,g,19,g
+312,bakers square,apple walnut chicken salad lunch no bread no dressing,11,g,35,mg,350,g,15,g,11,g,3,g,0,g,3,g,10,g
+313,bakers square,apple walnut chicken salad lunch no dressing,11,g,35,mg,350,g,15,g,11,g,3,g,0,g,3,g,10,g
+314,bakers square,applesauce,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,1,g,11,g
+315,bakers square,artichoke melt,27,g,40,mg,1090,g,43,g,15,g,9,g,0,g,5,g,2,g
+316,bakers square,asian chicken stir fry full no bread,28,g,90,mg,3270,g,99,g,43,g,7,g,0,g,7,g,30,g
+317,bakers square,asian chicken stir fry just right portion no bread,14,g,45,mg,1630,g,49,g,21,g,3.5,g,0,g,3,g,15,g
+318,bakers square,avocado toast no side,56,g,355,mg,1770,g,78,g,33,g,13,g,0,g,15,g,18,g
+319,bakers square,bacon lovers blt on marbled rye bread no side,30,g,50,mg,1070,g,53,g,24,g,4.5,g,0,g,5,g,4,g
+320,bakers square,bacon lovers blt on marbled rye half,15,g,25,mg,540,g,27,g,12,g,2.5,g,0,g,2,g,2,g
+321,bakers square,bacon lovers blt on wheat bread no side,30,g,50,mg,1170,g,53,g,24,g,4.5,g,0,g,5,g,8,g
+322,bakers square,bacon lovers blt on wheat half,15,g,25,mg,590,g,27,g,12,g,2.5,g,0,g,2,g,4,g
+323,bakers square,bacon lovers blt on white bread no side,29,g,50,mg,1030,g,37,g,20,g,4.5,g,0,g,2,g,4,g
+324,bakers square,bacon lovers blt on white half,14,g,25,mg,520,g,19,g,10,g,2.5,g,0,g,1,g,2,g
+325,bakers square,bacon 2 strips,4.5,g,15,mg,210,g,0,g,4,g,1.5,g,0,g,0,g,0,g
+326,bakers square,bakers club on marbled rye bread no side,49,g,135,mg,2010,g,79,g,53,g,11,g,0,g,7,g,6,g
+327,bakers square,bakers club on wheat bread no side,49,g,135,mg,2160,g,79,g,53,g,11,g,0,g,7,g,12,g
+328,bakers square,bakers club on white bread no side,47,g,135,mg,1950,g,55,g,47,g,11,g,0,g,2,g,6,g
+329,bakers square,bakers omelette egg white no side no bread,18,g,45,mg,730,g,7,g,25,g,7,g,0,g,1,g,3,g
+330,bakers square,bakers omelette fresh fruit,29,g,520,mg,680,g,17,g,26,g,11,g,0,g,2,g,11,g
+331,bakers square,bakers omelette hash browns,43,g,520,mg,1280,g,27,g,28,g,13,g,0.5,g,2,g,3,g
+332,bakers square,bakers omelette low cholesterol eggs no side no bread,20,g,140,mg,850,g,7,g,25,g,7,g,0,g,1,g,3,g
+333,bakers square,bakers omelette no side,29,g,520,mg,670,g,7,g,26,g,11,g,0,g,1,g,3,g
+334,bakers square,bakers omelette no side no bread,29,g,520,mg,670,g,7,g,26,g,11,g,0,g,1,g,3,g
+335,bakers square,bakers scrambler no bread,58,g,575,mg,1830,g,37,g,35,g,18,g,0,g,4,g,5,g
+336,bakers square,banana cream pie slice,34,g,100,mg,380,g,52,g,7,g,17,g,0,g,2,g,29,g
+337,bakers square,banana cream pie whole,204,g,600,mg,2280,g,311,g,42,g,102,g,3,g,12,g,174,g
+338,bakers square,banana nut muffin,25,g,40,mg,450,g,59,g,8,g,3,g,0,g,2,g,29,g
+339,bakers square,barbeque chicken salad with bbq sauce and ranch dressing full no bread,47,g,135,mg,1940,g,66,g,50,g,10,g,0,g,14,g,25,g
+340,bakers square,barbeque chicken salad with bbq sauce and ranch dressing lunch no bread,36,g,75,mg,1320,g,43,g,25,g,6,g,0,g,7,g,22,g
+341,bakers square,belgian waffle combo 2 eggs no meat,43,g,630,mg,1030,g,53,g,21,g,17,g,0,g,1,g,1,g
+342,bakers square,biscuit with butter,18,g,0,mg,850,g,33,g,5,g,8,g,0,g,1,g,2,g
+343,bakers square,biscuit with gravy,22,g,5,mg,1170,g,38,g,7,g,10,g,0,g,1,g,2,g
+344,bakers square,blackberry rush iced tea,0,g,0,mg,0,g,37,g,0,g,0,g,0,g,0,g,35,g
+345,bakers square,blackberry twist lemonade,0,g,0,mg,0,g,71,g,0,g,0,g,0,g,0,g,66,g
+346,bakers square,blt frittata with hash browns no side no bread,35,g,730,mg,1180,g,19,g,27,g,8,g,0,g,2,g,2,g
+347,bakers square,blue cheese dressing 1 oz,17,g,15,mg,230,g,1,g,2,g,3.5,g,0,g,0,g,1,g
+348,bakers square,blue cheese dressing 1 5 oz,25,g,20,mg,340,g,1,g,3,g,5,g,0,g,0,g,1,g
+349,bakers square,blue cheese dressing 1 5 oz lunch,25,g,20,mg,340,g,1,g,3,g,5,g,0,g,0,g,1,g
+350,bakers square,blue cheese dressing 3 oz,51,g,45,mg,690,g,3,g,6,g,10,g,0,g,0,g,3,g
+351,bakers square,blue cheese dressing 3 oz full,51,g,45,mg,690,g,3,g,6,g,10,g,0,g,0,g,3,g
+352,bakers square,blueberry muffin,24,g,60,mg,470,g,63,g,6,g,3.5,g,0,g,2,g,35,g
+353,bakers square,blueberry pie slice,25,g,10,mg,420,g,68,g,3,g,11,g,0,g,3,g,33,g
+354,bakers square,blueberry pie whole,151,g,65,mg,2540,g,410,g,20,g,66,g,0,g,18,g,200,g
+355,bakers square,brisk raspberry iced tea,0,g,0,mg,80,g,19,g,0,g,0,g,0,g,0,g,19,g
+356,bakers square,brisk raspberry iced tea to go,0,g,0,mg,140,g,34,g,0,g,0,g,0,g,0,g,34,g
+357,bakers square,brownie pie slice,28,g,40,mg,250,g,61,g,6,g,7,g,0,g,3,g,44,g
+358,bakers square,brownie pie whole,168,g,240,mg,1500,g,366,g,36,g,42,g,0,g,18,g,264,g
+359,bakers square,burger patty 1 4 lb,13,g,60,mg,180,g,0,g,18,g,5,g,0.5,g,0,g,0,g
+360,bakers square,buttermilk pancake combo 2 eggs no meat,41,g,590,mg,1270,g,65,g,24,g,12,g,0,g,1,g,16,g
+361,bakers square,buttermilk pancakes 2 each with butter,14,g,60,mg,590,g,32,g,6,g,4.5,g,0,g,1,g,8,g
+362,bakers square,california frittata egg whites no side no bread,26,g,40,mg,1190,g,25,g,32,g,9,g,0,g,6,g,4,g
+363,bakers square,california frittata low cholesterol eggs no side no bread,30,g,180,mg,1370,g,25,g,31,g,10,g,0,g,6,g,5,g
+364,bakers square,california frittata no side no bread,43,g,750,mg,1100,g,25,g,32,g,15,g,0,g,6,g,4,g
+365,bakers square,caramel apple a la mode slice,33,g,35,mg,550,g,101,g,6,g,14,g,0,g,4,g,61,g
+366,bakers square,caramel pecan roll,41,g,45,mg,810,g,105,g,10,g,13,g,0,g,3,g,60,g
+367,bakers square,caramel pecan silk supreme pie slice,56,g,165,mg,390,g,64,g,6,g,31,g,1.5,g,1,g,44,g
+368,bakers square,caramel pecan silk supreme pie whole,336,g,990,mg,2340,g,383,g,36,g,186,g,9,g,6,g,264,g
+369,bakers square,carrot cake slice,31,g,35,mg,350,g,60,g,6,g,11,g,0.5,g,2,g,46,g
+370,bakers square,carrot cake whole,433,g,490,mg,4890,g,839,g,84,g,154,g,7,g,28,g,643,g
+371,bakers square,cheesecake slice,37,g,105,mg,430,g,46,g,8,g,20,g,0,g,1,g,31,g
+372,bakers square,cheesecake whole,448,g,1270,mg,5200,g,556,g,97,g,242,g,0,g,12,g,375,g
+373,bakers square,cherry pie no sugar added pie slice,28,g,15,mg,490,g,59,g,4,g,12,g,0,g,2,g,18,g
+374,bakers square,cherry pie no sugar added pie whole,170,g,95,mg,2970,g,355,g,26,g,73,g,0,g,12,g,108,g
+375,bakers square,cherry pie slice,25,g,10,mg,420,g,70,g,3,g,11,g,0,g,2,g,34,g
+376,bakers square,cherry pie whole,151,g,65,mg,2540,g,422,g,20,g,66,g,0,g,12,g,206,g
+377,bakers square,chicken avocado melt on marbled rye bread no side,55,g,150,mg,1320,g,58,g,58,g,19,g,0,g,8,g,4,g
+378,bakers square,chicken avocado melt on wheat bread no side,55,g,150,mg,1420,g,58,g,58,g,19,g,0,g,8,g,8,g
+379,bakers square,chicken avocado melt on white bread no side,54,g,150,mg,1280,g,42,g,54,g,19,g,0,g,5,g,4,g
+380,bakers square,chicken cheddar bacon melt on marbled rye bread no side,40,g,150,mg,1650,g,52,g,55,g,15,g,0,g,5,g,3,g
+381,bakers square,chicken cheddar bacon melt on wheat bread no side,40,g,150,mg,1750,g,52,g,55,g,15,g,0,g,5,g,7,g
+382,bakers square,chicken cheddar bacon melt on white bread no side,39,g,150,mg,1610,g,36,g,51,g,15,g,0,g,2,g,3,g
+383,bakers square,chicken noodle bowl no bread,0,g,30,mg,1510,g,15,g,6,g,0,g,0,g,3,g,2,g
+384,bakers square,chicken noodle cup with crackers,1,g,15,mg,920,g,18,g,3,g,0,g,0,g,1,g,1,g
+385,bakers square,chicken noodle cup no crackers,0,g,15,mg,760,g,8,g,3,g,0,g,0,g,1,g,1,g
+386,bakers square,chicken tenders full no side no bread,60,g,115,mg,2450,g,48,g,40,g,8,g,0,g,0,g,8,g
+387,bakers square,chicken tenders just right portion no side no bread,50,g,85,mg,1630,g,32,g,24,g,7,g,0,g,0,g,8,g
+388,bakers square,chicken apple and pecan salad with lite olive oil vinaigrette full no bread,49,g,115,mg,1950,g,58,g,40,g,12,g,0,g,8,g,42,g
+389,bakers square,chicken apple and pecan salad with lite olive oil vinaigrette lunch no bread,31,g,55,mg,1110,g,31,g,20,g,7,g,0,g,4,g,22,g
+390,bakers square,chicken apple and pecan salad full no bread no dressing,31,g,115,mg,1170,g,49,g,40,g,9,g,0,g,8,g,36,g
+391,bakers square,chicken apple and pecan salad lunch no bread no dressing,19,g,55,mg,590,g,25,g,20,g,5,g,0,g,4,g,18,g
+392,bakers square,chicken bacon and avocado no side,99,g,130,mg,2210,g,68,g,42,g,18,g,0,g,5,g,7,g
+393,bakers square,chicken fried steak and eggs no side no bread,52,g,540,mg,1800,g,40,g,36,g,14,g,0,g,1,g,0,g
+394,bakers square,chicken fried steak skillet no bread,79,g,550,mg,2810,g,73,g,41,g,17,g,0.5,g,4,g,2,g
+395,bakers square,chocolate chip pancakes 2 each with chocolate syrup and whipped cream,19,g,100,mg,830,g,81,g,10,g,8,g,0,g,3,g,40,g
+396,bakers square,chocolate milk large,6,g,25,mg,430,g,54,g,18,g,3.5,g,0,g,0,g,50,g
+397,bakers square,chocolate milk small,3.5,g,15,mg,250,g,32,g,11,g,2,g,0,g,0,g,29,g
+398,bakers square,chocolate peanut butter cup pie slice,56,g,165,mg,420,g,75,g,10,g,29,g,1,g,3,g,63,g
+399,bakers square,chocolate peanut butter cup pie whole,336,g,990,mg,2520,g,451,g,60,g,174,g,6,g,18,g,379,g
+400,bakers square,cinnamon apples and whipped cream,9,g,40,mg,100,g,31,g,0,g,6,g,0,g,1,g,28,g
+401,bakers square,cinnamon apples 3 oz,0,g,0,mg,90,g,27,g,0,g,0,g,0,g,1,g,25,g
+402,bakers square,cinnamon rol with icing and butter,38,g,45,mg,900,g,79,g,9,g,17,g,0,g,2,g,37,g
+403,bakers square,classic breakfast bacon fresh fruit,27,g,500,mg,580,g,12,g,22,g,8,g,0,g,1,g,8,g
+404,bakers square,classic breakfast bacon hash browns,41,g,500,mg,1190,g,22,g,24,g,11,g,0.5,g,1,g,0,g
+405,bakers square,classic breakfast bacon no side,27,g,500,mg,580,g,2,g,22,g,8,g,0,g,0,g,0,g
+406,bakers square,classic breakfast bacon no side no bread,27,g,500,mg,580,g,2,g,22,g,8,g,0,g,0,g,0,g
+407,bakers square,classic breakfast sausage links fresh fruit,46,g,560,mg,970,g,13,g,32,g,14,g,0,g,1,g,9,g
+408,bakers square,classic breakfast sausage links hash browns,59,g,560,mg,1570,g,23,g,34,g,16,g,1,g,1,g,1,g
+409,bakers square,classic breakfast sausage links no side,45,g,560,mg,960,g,3,g,32,g,14,g,0,g,0,g,1,g
+410,bakers square,classic breakfast sausage links no side no bread,45,g,560,mg,960,g,3,g,32,g,14,g,0,g,0,g,1,g
+411,bakers square,classic breakfast sausage patties fresh fruit,63,g,590,mg,1290,g,14,g,29,g,23,g,0,g,1,g,9,g
+412,bakers square,classic breakfast sausage patties hash browns,77,g,590,mg,1890,g,24,g,31,g,25,g,0.5,g,1,g,1,g
+413,bakers square,classic breakfast sausage patties no side,63,g,590,mg,1280,g,4,g,29,g,23,g,0,g,0,g,1,g
+414,bakers square,classic breakfast sausage patties no side no bread,61,g,590,mg,1280,g,4,g,29,g,22,g,0,g,0,g,1,g
+415,bakers square,classic breakfast turkey sausage no side no bread,34,g,555,mg,830,g,1,g,33,g,9,g,0,g,0,g,0,g
+416,bakers square,classic french dip with cheese half,11,g,60,mg,1650,g,42,g,29,g,4.5,g,0,g,3,g,0,g
+417,bakers square,classic french dip with cheese no side,21,g,115,mg,3080,g,65,g,56,g,9,g,0,g,4,g,1,g
+418,bakers square,classic french dip no cheese no side,13,g,90,mg,3020,g,64,g,48,g,3.5,g,0,g,4,g,1,g
+419,bakers square,cobb salad with bleu cheese dressing full no bread,88,g,410,mg,1470,g,16,g,55,g,22,g,0,g,7,g,7,g
+420,bakers square,cobb salad with bleu cheese dressing lunch no bread,48,g,205,mg,740,g,9,g,28,g,12,g,0,g,4,g,4,g
+421,bakers square,cobb salad with blue cheese dressing full,88,g,405,mg,1920,g,16,g,57,g,23,g,0,g,7,g,7,g
+422,bakers square,cobb salad with blue cheese dressing lunch,48,g,205,mg,960,g,9,g,29,g,12,g,0,g,4,g,4,g
+423,bakers square,cobb salad full no bread no dressing,37,g,360,mg,1230,g,13,g,51,g,12,g,0,g,7,g,4,g
+424,bakers square,cobb salad full no dressing,37,g,360,mg,1230,g,13,g,51,g,12,g,0,g,7,g,4,g
+425,bakers square,cobb salad lunch no bread no dressing,22,g,180,mg,620,g,7,g,26,g,7,g,0,g,4,g,2,g
+426,bakers square,cobb salad lunch no dressing,22,g,180,mg,620,g,7,g,26,g,7,g,0,g,4,g,2,g
+427,bakers square,coconut cream pie slice,37,g,110,mg,410,g,54,g,7,g,22,g,1,g,1,g,33,g
+428,bakers square,coconut cream pie whole,222,g,660,mg,2460,g,324,g,42,g,132,g,6,g,6,g,198,g
+429,bakers square,coffee 1 carafe,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,0,g
+430,bakers square,coffee 1 cup,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+431,bakers square,coleslaw 3 oz,7,g,10,mg,170,g,8,g,1,g,1,g,0,g,2,g,7,g
+432,bakers square,cornbread with butter,13,g,80,mg,380,g,33,g,5,g,5,g,0,g,1,g,11,g
+433,bakers square,corned beef hash no bread,44,g,545,mg,2050,g,37,g,37,g,9,g,0.5,g,4,g,4,g
+434,bakers square,cottage cheese,3.5,g,15,mg,330,g,3,g,10,g,2.5,g,0,g,0,g,2,g
+435,bakers square,country apple pie no sugar added slice,27,g,10,mg,400,g,52,g,3,g,11,g,0,g,3,g,16,g
+436,bakers square,country apple pie no sugar added whole,164,g,65,mg,2420,g,312,g,20,g,67,g,0,g,18,g,96,g
+437,bakers square,country apple pie slice,26,g,10,mg,440,g,74,g,3,g,11,g,0,g,4,g,38,g
+438,bakers square,country apple pie whole,158,g,65,mg,2660,g,446,g,20,g,67,g,0,g,24,g,230,g
+439,bakers square,cranberry juice large,0,g,0,mg,5,g,77,g,0,g,0,g,0,g,0,g,74,g
+440,bakers square,cranberry juice small,0,g,0,mg,0,g,45,g,0,g,0,g,0,g,0,g,43,g
+441,bakers square,cranberry juice to go,0,g,0,mg,0,g,62,g,0,g,0,g,0,g,0,g,60,g
+442,bakers square,create your own omelette egg whites no side no bread,7,g,0,mg,300,g,2,g,19,g,1.5,g,0,g,0,g,0,g
+443,bakers square,create your own omelette low cholesterol eggs no side no bread,10,g,140,mg,480,g,2,g,19,g,2.5,g,0,g,0,g,1,g
+444,bakers square,create your own omelette no side no bread,24,g,710,mg,220,g,2,g,20,g,7,g,0,g,0,g,0,g
+445,bakers square,crush patty melt no side,57,g,125,mg,1220,g,53,g,36,g,22,g,0,g,5,g,3,g
+446,bakers square,custard pie slice,20,g,140,mg,480,g,52,g,9,g,9,g,0,g,0,g,35,g
+447,bakers square,custard pie whole,120,g,840,mg,2870,g,311,g,54,g,54,g,0,g,0,g,209,g
+448,bakers square,diet pepsi,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+449,bakers square,diet pepsi to go,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+450,bakers square,dinner roll with butter,10,g,5,mg,260,g,19,g,3,g,3.5,g,0,g,1,g,3,g
+451,bakers square,dr pepper,0,g,0,mg,45,g,39,g,0,g,0,g,0,g,0,g,38,g
+452,bakers square,dr pepper to go,0,g,0,mg,80,g,72,g,0,g,0,g,0,g,0,g,70,g
+453,bakers square,egg whites 2 each,7,g,0,mg,200,g,1,g,13,g,1.5,g,0,g,0,g,0,g
+454,bakers square,eggs benedict no side,59,g,480,mg,2560,g,37,g,38,g,28,g,0,g,2,g,4,g
+455,bakers square,eggs 2 each,15,g,325,mg,125,g,1,g,11,g,4,g,0,g,0,g,0,g
+456,bakers square,eggs 2 each liquid,18,g,475,mg,150,g,1,g,13,g,5,g,0,g,0,g,0,g
+457,bakers square,eggs 2 each poached,8,g,325,mg,125,g,1,g,11,g,3,g,0,g,0,g,0,g
+458,bakers square,english muffin with butter,9,g,0,mg,430,g,30,g,6,g,2.5,g,0,g,2,g,1,g
+459,bakers square,fajita pita no side,46,g,140,mg,1850,g,60,g,55,g,16,g,0,g,8,g,8,g
+460,bakers square,fire roasted potato medley 3 oz,11,g,0,mg,390,g,19,g,2,g,1.5,g,0,g,2,g,3,g
+461,bakers square,fish and chips full no side no bread,101,g,95,mg,2760,g,97,g,31,g,14,g,0,g,14,g,5,g
+462,bakers square,fish and chips just right portion no side no bread,81,g,70,mg,1900,g,72,g,20,g,12,g,0,g,10,g,3,g
+463,bakers square,french apple cream cheese pie slice,38,g,160,mg,420,g,64,g,7,g,22,g,1,g,2,g,50,g
+464,bakers square,french apple cream cheese pie whole,228,g,960,mg,2520,g,384,g,42,g,132,g,6,g,12,g,300,g
+465,bakers square,french apple pie slice,18,g,0,mg,330,g,64,g,2,g,8,g,0,g,3,g,39,g
+466,bakers square,french apple pie whole,108,g,0,mg,1980,g,384,g,12,g,48,g,0,g,18,g,234,g
+467,bakers square,french fries 4 oz,20,g,0,mg,150,g,34,g,3,g,3,g,0,g,3,g,0,g
+468,bakers square,french silk pie slice,46,g,155,mg,320,g,51,g,6,g,25,g,1,g,2,g,36,g
+469,bakers square,french silk pie whole,276,g,930,mg,1920,g,306,g,36,g,150,g,6,g,12,g,216,g
+470,bakers square,french toast combo 2 eggs no meat,48,g,775,mg,820,g,66,g,34,g,13,g,0.5,g,1,g,16,g
+471,bakers square,french toast 2 pieces,18,g,150,mg,360,g,32,g,11,g,5,g,0,g,0,g,8,g
+472,bakers square,fresh bananas and strawberry sauce and whipped cream,9,g,40,mg,45,g,38,g,1,g,6,g,0,g,2,g,30,g
+473,bakers square,fresh fruit cup,0,g,0,mg,5,g,10,g,1,g,0,g,0,g,1,g,8,g
+474,bakers square,fresh raspberry pie slice,32,g,65,mg,270,g,47,g,4,g,16,g,0.5,g,5,g,27,g
+475,bakers square,fresh raspberry pie whole,192,g,390,mg,1620,g,282,g,24,g,96,g,3,g,30,g,162,g
+476,bakers square,fresh strawberries with strawberry sauce and whipped cream,9,g,40,mg,45,g,27,g,1,g,6,g,0,g,1,g,24,g
+477,bakers square,fresh strawberry pie slice,24,g,45,mg,230,g,46,g,3,g,12,g,0,g,3,g,25,g
+478,bakers square,fresh strawberry pie whole,144,g,270,mg,1380,g,276,g,18,g,72,g,0,g,18,g,150,g
+479,bakers square,fruity mango iced tea,0,g,0,mg,0,g,38,g,0,g,0,g,0,g,0,g,36,g
+480,bakers square,garden salad,1,g,0,mg,50,g,6,g,1,g,0,g,0,g,2,g,2,g
+481,bakers square,garlic grilled baguette,6,g,0,mg,310,g,19,g,3,g,2,g,0,g,1,g,0,g
+482,bakers square,gluten sensitive tomato basil soup bowl,29,g,90,mg,1180,g,18,g,3,g,18,g,0,g,3,g,9,g
+483,bakers square,grapefruit juice large,0,g,0,mg,0,g,52,g,2,g,0,g,0,g,0,g,50,g
+484,bakers square,grapefruit juice small,0,g,0,mg,0,g,30,g,1,g,0,g,0,g,0,g,29,g
+485,bakers square,grapefruit juice to go,0,g,0,mg,0,g,42,g,2,g,0,g,0,g,0,g,40,g
+486,bakers square,green beans 2 5 oz,7,g,0,mg,115,g,5,g,1,g,1.5,g,0,g,2,g,2,g
+487,bakers square,grilled breakfast potatoes,18,g,10,mg,800,g,28,g,3,g,1.5,g,0,g,3,g,1,g
+488,bakers square,grilled chicken breast 1 each,10,g,90,mg,620,g,0,g,30,g,2.5,g,0,g,0,g,0,g
+489,bakers square,grilled vegetables 4 5 oz,7,g,0,mg,135,g,5,g,2,g,1.5,g,0,g,2,g,2,g
+490,bakers square,ham and swiss sandwich on marbled rye half,18,g,55,mg,740,g,28,g,24,g,5,g,0,g,2,g,3,g
+491,bakers square,ham and swiss sandwich on wheat half,18,g,55,mg,790,g,28,g,24,g,5,g,0,g,2,g,5,g
+492,bakers square,ham and swiss sandwich on white half,17,g,55,mg,720,g,20,g,22,g,5,g,0,g,1,g,3,g
+493,bakers square,ham steak and eggs fresh fruit,25,g,580,mg,2570,g,16,g,52,g,8,g,0,g,1,g,13,g
+494,bakers square,ham steak and eggs hash browns,39,g,580,mg,3170,g,26,g,54,g,10,g,0.5,g,1,g,5,g
+495,bakers square,ham steak and eggs no side,25,g,580,mg,2560,g,6,g,52,g,8,g,0,g,0,g,5,g
+496,bakers square,ham steak and eggs no side no bread,25,g,580,mg,2560,g,6,g,52,g,8,g,0,g,0,g,5,g
+497,bakers square,hand carved turkey breast sandwich on marbled rye half,11,g,30,mg,520,g,27,g,15,g,1,g,0,g,2,g,2,g
+498,bakers square,hand carved turkey breast sandwich on wheat half,11,g,30,mg,570,g,27,g,15,g,1,g,0,g,2,g,4,g
+499,bakers square,hand carved turkey breast sandwich on white half,10,g,30,mg,500,g,19,g,13,g,1,g,0,g,1,g,2,g
+500,bakers square,harvest pumpkin pie slice,20,g,65,mg,430,g,64,g,6,g,8,g,0,g,2,g,45,g
+501,bakers square,harvest pumpkin pie whole,120,g,390,mg,2580,g,384,g,36,g,48,g,0,g,12,g,270,g
+502,bakers square,honey bran muffin,22,g,50,mg,580,g,65,g,7,g,3.5,g,0,g,8,g,28,g
+503,bakers square,honey mustard chicken salad with honey mustard dressing full no bread,81,g,105,mg,1990,g,59,g,28,g,11,g,0,g,6,g,28,g
+504,bakers square,honey mustard chicken salad with honey mustard dressing lunch no bread,43,g,60,mg,1210,g,34,g,18,g,6,g,0,g,3,g,14,g
+505,bakers square,honey mustard chicken salad full no bread no dressing,30,g,45,mg,1390,g,47,g,28,g,4,g,0,g,6,g,16,g
+506,bakers square,honey mustard chicken salad lunch no bread no dressing,17,g,30,mg,910,g,28,g,18,g,2.5,g,0,g,3,g,8,g
+507,bakers square,honey mustard chicken full no side,55,g,220,mg,1420,g,17,g,64,g,10,g,0,g,2,g,13,g
+508,bakers square,honey mustard chicken full no side no bread,55,g,220,mg,1420,g,17,g,64,g,10,g,0,g,2,g,13,g
+509,bakers square,honey mustard chicken just right portion no side,35,g,110,mg,710,g,8,g,32,g,6,g,0,g,1,g,6,g
+510,bakers square,honey mustard chicken just right portion no side no bread,35,g,110,mg,710,g,8,g,32,g,6,g,0,g,1,g,6,g
+511,bakers square,honey mustard club pita no side,38,g,125,mg,1680,g,49,g,49,g,14,g,0,g,3,g,7,g
+512,bakers square,honey mustard dressing 1 oz,17,g,20,mg,200,g,4,g,0,g,2.5,g,0,g,0,g,4,g
+513,bakers square,honey mustard dressing 1 5 oz,25,g,30,mg,300,g,6,g,0,g,3.5,g,0,g,0,g,6,g
+514,bakers square,honey mustard dressing 1 5 oz lunch,25,g,30,mg,300,g,6,g,0,g,3.5,g,0,g,0,g,6,g
+515,bakers square,honey mustard dressing 3 oz,51,g,60,mg,600,g,12,g,0,g,7,g,0,g,0,g,12,g
+516,bakers square,honey mustard dressing 3 oz full,51,g,60,mg,600,g,12,g,0,g,7,g,0,g,0,g,12,g
+517,bakers square,horseradish beef baguette,20,g,80,mg,1430,g,44,g,35,g,9,g,0,g,3,g,2,g
+518,bakers square,horseradish roast beef no side,60,g,170,mg,2820,g,67,g,66,g,25,g,0,g,4,g,10,g
+519,bakers square,hot chocolate,1.5,g,0,mg,440,g,56,g,0,g,1,g,0,g,0,g,42,g
+520,bakers square,hot fudge brownie a la mode,40,g,65,mg,330,g,92,g,9,g,15,g,0,g,3,g,68,g
+521,bakers square,iced tea to go,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+522,bakers square,junior breakfast bacon fresh fruit,12,g,245,mg,190,g,11,g,9,g,3.5,g,0,g,1,g,8,g
+523,bakers square,junior breakfast bacon hash browns,25,g,245,mg,790,g,21,g,11,g,6,g,0.5,g,1,g,0,g
+524,bakers square,junior breakfast sausage links fresh fruit,16,g,260,mg,280,g,11,g,12,g,4.5,g,0,g,1,g,8,g
+525,bakers square,junior breakfast sausage links hash browns,30,g,260,mg,890,g,21,g,14,g,7,g,0.5,g,1,g,0,g
+526,bakers square,key lime pie slice,30,g,90,mg,190,g,69,g,8,g,17,g,1,g,1,g,58,g
+527,bakers square,key lime pie whole,180,g,540,mg,1140,g,413,g,48,g,102,g,6,g,6,g,347,g
+528,bakers square,kids crush burger no cheese no side,18,g,60,mg,240,g,2,g,12,g,8,g,0,g,1,g,1,g
+529,bakers square,lemon meringue pie slice,13,g,20,mg,310,g,73,g,2,g,6,g,0,g,1,g,53,g
+530,bakers square,lemon meringue pie whole,78,g,120,mg,1860,g,439,g,12,g,36,g,0,g,6,g,318,g
+531,bakers square,lemon supreme pie slice,41,g,115,mg,400,g,66,g,5,g,23,g,1,g,1,g,47,g
+532,bakers square,lemon supreme pie whole,246,g,690,mg,2400,g,395,g,30,g,138,g,6,g,6,g,281,g
+533,bakers square,lemonade,0,g,0,mg,0,g,39,g,0,g,0,g,0,g,0,g,36,g
+534,bakers square,lemonade to go,0,g,0,mg,0,g,72,g,0,g,0,g,0,g,0,g,66,g
+535,bakers square,lite olive oil vinaigrette 1 oz,6,g,0,mg,260,g,3,g,0,g,1,g,0,g,0,g,2,g
+536,bakers square,lite olive oil vinaigrette 1 5 oz,9,g,0,mg,390,g,4,g,0,g,1.5,g,0,g,0,g,3,g
+537,bakers square,lite olive oil vinaigrette 3 oz,18,g,0,mg,780,g,9,g,0,g,3,g,0,g,0,g,6,g
+538,bakers square,loaded hash browns platter no bread,62,g,565,mg,1670,g,24,g,39,g,19,g,0.5,g,1,g,1,g
+539,bakers square,low cholesterol egg substitute,9,g,95,mg,320,g,1,g,13,g,2,g,0,g,0,g,1,g
+540,bakers square,low fat vanilla yogurt,0.5,g,5,mg,35,g,16,g,3,g,0,g,0,g,0,g,12,g
+541,bakers square,maple flavored syrup 1 fl oz,0,g,0,mg,45,g,27,g,0,g,0,g,0,g,0,g,17,g
+542,bakers square,marbled rye reuben half,22,g,60,mg,1010,g,30,g,23,g,8,g,0,g,2,g,3,g
+543,bakers square,marbled rye reuben no side,44,g,125,mg,2020,g,59,g,46,g,16,g,0,g,4,g,7,g
+544,bakers square,mashed potatoes with brown gravy 2 oz,6,g,0,mg,760,g,29,g,3,g,3.5,g,0,g,3,g,1,g
+545,bakers square,mashed potatoes with turkey gravy 2 oz,3.5,g,0,mg,830,g,29,g,3,g,2.5,g,0,g,3,g,2,g
+546,bakers square,mediterranean chicken salad with light olive oil dressing full no bread,36,g,110,mg,1900,g,22,g,39,g,10,g,0,g,6,g,11,g
+547,bakers square,mediterranean chicken salad with light olive oil dressing lunch no bread,22,g,55,mg,960,g,11,g,19,g,6,g,0,g,3,g,6,g
+548,bakers square,mediterranean chicken salad full no bread no dressing,18,g,110,mg,1120,g,13,g,39,g,7,g,0,g,6,g,5,g
+549,bakers square,mediterranean chicken salad lunch no bread no dressing,13,g,55,mg,570,g,7,g,19,g,4,g,0,g,3,g,3,g
+550,bakers square,mediterranean salad with light olive oil vinaigrette,10,g,10,mg,560,g,8,g,4,g,3,g,0,g,2,g,4,g
+551,bakers square,mediterranean salad no dressing,4,g,10,mg,300,g,5,g,4,g,2,g,0,g,2,g,2,g
+552,bakers square,milk small,7,g,25,mg,170,g,16,g,11,g,4,g,0,g,0,g,16,g
+553,bakers square,milk large,11,g,45,mg,290,g,27,g,18,g,7,g,0,g,0,g,27,g
+554,bakers square,mist twst,0,g,0,mg,35,g,39,g,0,g,0,g,0,g,0,g,39,g
+555,bakers square,mist twst to go,0,g,0,mg,65,g,72,g,0,g,0,g,0,g,0,g,72,g
+556,bakers square,mtn dew,0,g,0,mg,60,g,46,g,0,g,0,g,0,g,0,g,46,g
+557,bakers square,mtn dew to go,0,g,0,mg,110,g,84,g,0,g,0,g,0,g,0,g,84,g
+558,bakers square,oatmeal with milk brown sugar and raisins,24,g,10,mg,410,g,74,g,8,g,9,g,0,g,4,g,51,g
+559,bakers square,orange juice large,0,g,0,mg,5,g,61,g,4,g,0,g,0,g,0,g,54,g
+560,bakers square,orange juice small,0,g,0,mg,0,g,35,g,2,g,0,g,0,g,0,g,32,g
+561,bakers square,orange juice to go,0,g,0,mg,0,g,49,g,3,g,0,g,0,g,0,g,44,g
+562,bakers square,oreo cookie crunch pie slice,43,g,135,mg,350,g,63,g,4,g,23,g,1,g,1,g,48,g
+563,bakers square,oreo cookie crunch pie whole,258,g,810,mg,2100,g,378,g,24,g,138,g,6,g,6,g,288,g
+564,bakers square,peach pecan paradise slice,47,g,105,mg,410,g,54,g,6,g,25,g,1,g,2,g,33,g
+565,bakers square,peach pecan paradise whole,281,g,630,mg,2460,g,323,g,36,g,150,g,6,g,12,g,198,g
+566,bakers square,peach pie slice,25,g,10,mg,380,g,59,g,4,g,11,g,0,g,2,g,27,g
+567,bakers square,peach pie whole,151,g,65,mg,2300,g,356,g,26,g,66,g,0,g,12,g,164,g
+568,bakers square,pepper jack benedict no side,81,g,480,mg,1760,g,41,g,40,g,31,g,0,g,3,g,6,g
+569,bakers square,pepsi,0,g,0,mg,30,g,40,g,0,g,0,g,0,g,0,g,40,g
+570,bakers square,pepsi to go,0,g,0,mg,55,g,74,g,0,g,0,g,0,g,0,g,74,g
+571,bakers square,pomegranate iced tea,0,g,0,mg,0,g,32,g,0,g,0,g,0,g,0,g,32,g
+572,bakers square,pomegranate limeade,0,g,0,mg,30,g,67,g,0,g,0,g,0,g,0,g,65,g
+573,bakers square,pork loin chop no side no bread,17,g,105,mg,930,g,29,g,41,g,5,g,0,g,1,g,23,g
+574,bakers square,ranch dressing 1 oz,12,g,10,mg,160,g,1,g,1,g,0,g,0,g,0,g,1,g
+575,bakers square,ranch dressing 1 5 oz,18,g,15,mg,250,g,1,g,1,g,0,g,0,g,0,g,1,g
+576,bakers square,ranch dressing 1 5 oz lunch,18,g,15,mg,250,g,1,g,1,g,0,g,0,g,0,g,1,g
+577,bakers square,ranch dressing 3 oz,36,g,35,mg,490,g,2,g,2,g,0,g,0,g,0,g,2,g
+578,bakers square,ranch dressing 3 oz full,36,g,35,mg,490,g,2,g,2,g,0,g,0,g,0,g,2,g
+579,bakers square,rice pilaf 4 5 oz,4.5,g,0,mg,470,g,24,g,3,g,1.5,g,0,g,1,g,0,g
+580,bakers square,sausage links 2 each,14,g,45,mg,410,g,1,g,9,g,4.5,g,0,g,0,g,1,g
+581,bakers square,sausage patty 1 each,21,g,55,mg,570,g,1,g,8,g,9,g,0,g,0,g,1,g
+582,bakers square,savory pot roast full no side no bread,36,g,95,mg,1840,g,39,g,43,g,12,g,0,g,4,g,7,g
+583,bakers square,savory pot roast just right portion no side no bread,21,g,45,mg,920,g,19,g,21,g,7,g,0,g,2,g,3,g
+584,bakers square,seared steak tips no side no bread,30,g,150,mg,1170,g,4,g,50,g,6,g,0,g,1,g,1,g
+585,bakers square,seasoned hash browns,14,g,0,mg,610,g,20,g,3,g,2.5,g,0,g,1,g,0,g
+586,bakers square,seasoned hash browns side,14,g,0,mg,610,g,20,g,3,g,2.5,g,0,g,1,g,0,g
+587,bakers square,sliced tomatoes 1 oz,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+588,bakers square,slow roasted turkey full no side no bread,23,g,80,mg,2490,g,56,g,37,g,8,g,0,g,2,g,16,g
+589,bakers square,slow roasted turkey just right portion no side no bread,11,g,40,mg,1240,g,34,g,19,g,4,g,0,g,1,g,13,g
+590,bakers square,small chicken fried steak with gravy,18,g,35,mg,930,g,21,g,12,g,5,g,0,g,1,g,0,g
+591,bakers square,smoked ham steak,3.5,g,50,mg,1210,g,2,g,19,g,1.5,g,0,g,0,g,2,g
+592,bakers square,smothered meat lovers omelette egg whites no side no bread,44,g,110,mg,1720,g,12,g,42,g,17,g,0,g,1,g,3,g
+593,bakers square,smothered meat lovers omelette low cholesterol eggs no side no bread,48,g,250,mg,1900,g,12,g,42,g,19,g,0,g,1,g,4,g
+594,bakers square,smothered meat lovers omelette no side no bread,61,g,825,mg,1630,g,12,g,43,g,23,g,0,g,1,g,3,g
+595,bakers square,sour cream raisin pie slice,21,g,35,mg,430,g,50,g,4,g,11,g,0,g,1,g,31,g
+596,bakers square,sour cream raisin pie whole,126,g,210,mg,2580,g,300,g,24,g,66,g,0,g,6,g,186,g
+597,bakers square,southern pecan pie slice,33,g,130,mg,460,g,81,g,6,g,11,g,0,g,2,g,65,g
+598,bakers square,southern pecan pie whole,198,g,780,mg,2750,g,485,g,36,g,66,g,0,g,12,g,389,g
+599,bakers square,stir fry pita no chicken no side,28,g,50,mg,1480,g,66,g,28,g,12,g,0,g,6,g,15,g
+600,bakers square,stir fry pita no side,39,g,140,mg,1970,g,60,g,56,g,14,g,0,g,4,g,12,g
+601,bakers square,strawberry bleu salad with strawberry vinaigrette,13,g,15,mg,400,g,10,g,4,g,3.5,g,0,g,2,g,6,g
+602,bakers square,strawberry bleu salad no dressing,9,g,15,mg,200,g,5,g,4,g,3,g,0,g,2,g,2,g
+603,bakers square,strawberry cream cheese pie slice,38,g,160,mg,350,g,58,g,7,g,22,g,1,g,2,g,44,g
+604,bakers square,strawberry cream cheese pie whole,228,g,960,mg,2100,g,348,g,42,g,132,g,6,g,12,g,264,g
+605,bakers square,strawberry crepe,17,g,120,mg,150,g,40,g,7,g,8,g,0,g,1,g,23,g
+606,bakers square,strawberry crepes hashbrowns no meat,45,g,235,mg,910,g,103,g,16,g,18,g,0.5,g,5,g,47,g
+607,bakers square,strawberry lemonade,0,g,0,mg,20,g,46,g,0,g,0,g,0,g,0,g,42,g
+608,bakers square,strawberry rhubarb pie slice,25,g,10,mg,410,g,64,g,3,g,11,g,0,g,2,g,29,g
+609,bakers square,strawberry rhubarb pie whole,151,g,65,mg,2480,g,386,g,20,g,66,g,0,g,12,g,176,g
+610,bakers square,supreme grown up grilled cheese half,28,g,60,mg,990,g,18,g,21,g,13,g,0,g,1,g,2,g
+611,bakers square,supreme grown up grilled cheese no side,57,g,120,mg,1980,g,37,g,42,g,27,g,0,g,1,g,3,g
+612,bakers square,teriyaki glazed salmon no side no bread,29,g,110,mg,1070,g,11,g,36,g,5,g,0,g,0,g,7,g
+613,bakers square,the works burger with with grilled chicken breast no cheese no side,76,g,150,mg,1950,g,53,g,44,g,26,g,0,g,3,g,13,g
+614,bakers square,the works burger no side,76,g,150,mg,1950,g,53,g,44,g,26,g,0,g,3,g,13,g
+615,bakers square,toast 2 slices marbled rye with butter,15,g,0,mg,460,g,50,g,10,g,4,g,0,g,4,g,2,g
+616,bakers square,toast 2 slices wheat with butter,15,g,0,mg,560,g,50,g,10,g,4,g,0,g,4,g,6,g
+617,bakers square,toast 2 slices wheat buttered,15,g,0,mg,560,g,50,g,10,g,4,g,0,g,4,g,6,g
+618,bakers square,toast 2 slices white with butter,14,g,0,mg,420,g,34,g,6,g,4,g,0,g,1,g,2,g
+619,bakers square,toast 2 slices white buttered,14,g,0,mg,420,g,34,g,6,g,4,g,0,g,1,g,2,g
+620,bakers square,tomato basil bowl no bread,29,g,90,mg,1180,g,18,g,3,g,18,g,0,g,3,g,9,g
+621,bakers square,tomato basil cup with crackers,16,g,45,mg,750,g,19,g,1,g,9,g,0,g,1,g,4,g
+622,bakers square,tomato basil cup no crackers,15,g,45,mg,590,g,9,g,1,g,9,g,0,g,1,g,4,g
+623,bakers square,tomato juice large,0,g,0,mg,2250,g,33,g,7,g,0,g,0,g,7,g,23,g
+624,bakers square,tomato juice small,0,g,0,mg,1310,g,19,g,4,g,0,g,0,g,4,g,14,g
+625,bakers square,tomato juice to go,0,g,0,mg,1810,g,27,g,5,g,0,g,0,g,5,g,19,g
+626,bakers square,topping caramel 1 oz,0,g,0,mg,110,g,25,g,1,g,0,g,0,g,0,g,20,g
+627,bakers square,topping cherry topping 10 oz,0,g,0,mg,590,g,173,g,0,g,0,g,0,g,6,g,145,g
+628,bakers square,topping hot fudge 1 oz,5,g,0,mg,60,g,23,g,1,g,5,g,0,g,0,g,17,g
+629,bakers square,topping ice cream 1 scoop,5,g,25,mg,25,g,9,g,2,g,3,g,0,g,0,g,8,g
+630,bakers square,topping triple berry sauce 1 oz,0,g,0,mg,15,g,13,g,0,g,0,g,0,g,1,g,11,g
+631,bakers square,topping triple berry topping 10 oz,0,g,0,mg,170,g,140,g,0,g,0,g,0,g,11,g,118,g
+632,bakers square,topping whipped cream 5 oz,3,g,10,mg,0,g,3,g,0,g,1.5,g,0,g,0,g,3,g
+633,bakers square,topping whipped cream 10 oz,57,g,225,mg,0,g,57,g,0,g,28,g,0,g,0,g,51,g
+634,bakers square,traditional chicken pot pie with salad no dressing no bread,83,g,225,mg,2930,g,99,g,38,g,42,g,1,g,5,g,11,g
+635,bakers square,triple berry pie slice,25,g,10,mg,430,g,69,g,4,g,10,g,0,g,4,g,32,g
+636,bakers square,triple berry pie whole,151,g,65,mg,2600,g,416,g,26,g,60,g,0,g,24,g,194,g
+637,bakers square,triple berry sauce and whipped cream,9,g,40,mg,40,g,29,g,0,g,6,g,0,g,2,g,25,g
+638,bakers square,turkey bacon avocado baguette,22,g,60,mg,1230,g,43,g,27,g,3,g,0,g,4,g,1,g
+639,bakers square,turkey sausage links 2 each,8,g,40,mg,340,g,0,g,10,g,2,g,0,g,0,g,0,g
+640,bakers square,ultimate meat lovers breakfast fresh fruit,40,g,580,mg,1980,g,15,g,47,g,12,g,0,g,1,g,11,g
+641,bakers square,ultimate meat lovers breakfast hash browns,54,g,580,mg,2590,g,25,g,49,g,15,g,0.5,g,1,g,3,g
+642,bakers square,ultimate meat lovers breakfast no side,40,g,580,mg,1970,g,4,g,46,g,12,g,0,g,0,g,3,g
+643,bakers square,ultimate meat lovers breakfast no side no bread,40,g,580,mg,1970,g,4,g,46,g,12,g,0,g,0,g,3,g
+644,bakers square,ultimate skillet no bread,73,g,600,mg,2440,g,41,g,48,g,20,g,0.5,g,5,g,7,g
+645,bakers square,veggie asian stir fry full no chicken no bread,18,g,0,mg,2760,g,99,g,13,g,4.5,g,0,g,7,g,30,g
+646,bakers square,veggie asian stir fry just right portion no chicken no bread,9,g,0,mg,1380,g,49,g,6,g,2,g,0,g,3,g,15,g
+647,bakers square,veggie omelette egg whites no side no bread,13,g,20,mg,640,g,7,g,26,g,5,g,0,g,2,g,2,g
+648,bakers square,veggie omelette low cholesterol eggs no side no bread,17,g,160,mg,830,g,7,g,26,g,6,g,0,g,2,g,3,g
+649,bakers square,veggie omelette no side no bread,30,g,730,mg,560,g,7,g,26,g,11,g,0,g,2,g,2,g
+650,bakers square,veggie scrambler no bread,53,g,535,mg,1320,g,37,g,26,g,16,g,0,g,6,g,4,g
+651,bakers square,waffle 1 2 each with butter,16,g,80,mg,470,g,26,g,4,g,7,g,0,g,1,g,1,g
+652,bandanas bbq,apple pie,0,g,10,mg,360,g,58,g,3,g,10,g,0,g,3,g,30,g
+653,bandanas bbq,apple sauce,0,g,0,mg,10,g,20,g,0,g,0,g,0,g,2,g,16,g
+654,bandanas bbq,baked potato plain,0,g,0,mg,30,g,60,g,7,g,0,g,0,g,6,g,3,g
+655,bandanas bbq,bar b q beans,0,g,5,mg,540,g,29,g,6,g,1,g,0,g,3,g,17,g
+656,bandanas bbq,bar b q chicken nachos,0,g,365,mg,3580,g,112,g,105,g,43,g,0,g,16,g,6,g
+657,bandanas bbq,bar b q chicken nachos large,0,g,365,mg,3580,g,112,g,105,g,43,g,0,g,16,g,6,g
+658,bandanas bbq,bar b q salad with brisket,0,g,220,mg,1630,g,31,g,65,g,17,g,0,g,7,g,18,g
+659,bandanas bbq,bar b q salad with chicken,0,g,240,mg,1980,g,32,g,70,g,16,g,0,g,7,g,19,g
+660,bandanas bbq,bar b q salad with chicken tender,0,g,250,mg,1670,g,37,g,70,g,23,g,0,g,8,g,19,g
+661,bandanas bbq,bar b q salad with pork,0,g,240,mg,1590,g,31,g,69,g,20,g,0,g,7,g,18,g
+662,bandanas bbq,bar b q salad with turkey,0,g,230,mg,1200,g,30,g,73,g,13,g,0,g,7,g,17,g
+663,bandanas bbq,bar b q salad with wet brisket and pork,0,g,165,mg,2140,g,53,g,46,g,16,g,0,g,7,g,36,g
+664,bandanas bbq,bar b q salad with wet chicken and turkey,0,g,160,mg,1690,g,53,g,44,g,14,g,0,g,7,g,37,g
+665,bandanas bbq,brisket plate,0,g,130,mg,510,g,1,g,44,g,4,g,0,g,0,g,1,g
+666,bandanas bbq,brisket platter,0,g,195,mg,770,g,1,g,66,g,6,g,0,g,0,g,1,g
+667,bandanas bbq,brisket sandwich,0,g,110,mg,1040,g,51,g,44,g,6,g,2,g,2,g,5,g
+668,bandanas bbq,brownie ala mode,0,g,50,mg,250,g,74,g,6,g,10,g,0,g,2,g,56,g
+669,bandanas bbq,brunswick stew,0,g,10,mg,720,g,33,g,7,g,0,g,0,g,3,g,11,g
+670,bandanas bbq,chicago sweet sauce,0,g,0,mg,360,g,17,g,0,g,0,g,0,g,0,g,15,g
+671,bandanas bbq,chicken plate,0,g,95,mg,970,g,2,g,30,g,4,g,0,g,0,g,2,g
+672,bandanas bbq,chicken platter,0,g,190,mg,1940,g,4,g,59,g,8,g,0,g,0,g,4,g
+673,bandanas bbq,chicken sandwich,0,g,125,mg,1330,g,52,g,47,g,6,g,2,g,2,g,5,g
+674,bandanas bbq,choose two or three brisket,0,g,85,mg,340,g,1,g,29,g,3,g,0,g,0,g,1,g
+675,bandanas bbq,choose two or three chicken,0,g,95,mg,970,g,2,g,30,g,4,g,0,g,0,g,2,g
+676,bandanas bbq,choose two or three pork,0,g,100,mg,310,g,1,g,32,g,5,g,0,g,0,g,1,g
+677,bandanas bbq,choose two or three ribs,0,g,130,mg,860,g,22,g,31,g,12,g,0,g,0,g,22,g
+678,bandanas bbq,choose two or three turkey,0,g,95,mg,60,g,0,g,34,g,0,g,0,g,0,g,0,g
+679,bandanas bbq,coleslaw,0,g,10,mg,230,g,13,g,1,g,3,g,0,g,2,g,10,g
+680,bandanas bbq,donut holes full,0,g,20,mg,960,g,102,g,8,g,7,g,0,g,2,g,50,g
+681,bandanas bbq,donut holes half,0,g,10,mg,480,g,51,g,4,g,3.5,g,0,g,1,g,25,g
+682,bandanas bbq,french fries,0,g,0,mg,30,g,40,g,4,g,2,g,0,g,4,g,0,g
+683,bandanas bbq,fried chicken tenders platter,0,g,85,mg,3010,g,56,g,42,g,6,g,0,g,3,g,0,g
+684,bandanas bbq,fried okra,0,g,0,mg,1330,g,70,g,10,g,8,g,0,g,12,g,5,g
+685,bandanas bbq,fried okra side,0,g,0,mg,460,g,25,g,3,g,2.5,g,0,g,4,g,2,g
+686,bandanas bbq,full slab for two,0,g,555,mg,3790,g,96,g,133,g,51,g,0,g,0,g,96,g
+687,bandanas bbq,garlic bread,0,g,0,mg,470,g,40,g,6,g,1,g,1,g,2,g,2,g
+688,bandanas bbq,green beans,0,g,0,mg,620,g,7,g,2,g,0,g,0,g,3,g,1,g
+689,bandanas bbq,hot boiled peanuts,0,g,0,mg,1460,g,32,g,57,g,12,g,0,g,16,g,8,g
+690,bandanas bbq,ice cream sundae,0,g,25,mg,75,g,39,g,3,g,5,g,0,g,1,g,34,g
+691,bandanas bbq,kc style sauce,0,g,0,mg,280,g,16,g,0,g,0,g,0,g,0,g,13,g
+692,bandanas bbq,loaded bar b q baked potato with brisket and pork,0,g,110,mg,1080,g,76,g,37,g,12,g,0,g,6,g,16,g
+693,bandanas bbq,loaded bar b q baked potato with chicken and turkey,0,g,105,mg,780,g,75,g,36,g,11,g,0,g,6,g,17,g
+694,bandanas bbq,memphis style sauce,0,g,0,mg,420,g,12,g,0,g,0,g,0,g,0,g,11,g
+695,bandanas bbq,pork lovers feast for three,0,g,955,mg,5040,g,98,g,259,g,70,g,0,g,0,g,98,g
+696,bandanas bbq,pork plate,0,g,150,mg,470,g,1,g,47,g,7,g,0,g,0,g,1,g
+697,bandanas bbq,pork platter,0,g,225,mg,700,g,1,g,71,g,11,g,0,g,0,g,1,g
+698,bandanas bbq,pork sandwich,0,g,125,mg,1000,g,51,g,47,g,9,g,2,g,2,g,5,g
+699,bandanas bbq,potato salad,0,g,75,mg,330,g,18,g,3,g,2,g,0,g,2,g,6,g
+700,bandanas bbq,root beer float,0,g,45,mg,140,g,64,g,3,g,7,g,0,g,0,g,64,g
+701,bandanas bbq,sausage plate,0,g,105,mg,1310,g,6,g,24,g,12,g,1,g,0,g,3,g
+702,bandanas bbq,sausage platter,0,g,155,mg,1970,g,9,g,36,g,18,g,1,g,0,g,4,g
+703,bandanas bbq,sausage sandwich,0,g,85,mg,1710,g,55,g,27,g,13,g,2,g,2,g,6,g
+704,bandanas bbq,side salad,0,g,25,mg,340,g,10,g,6,g,4,g,0,g,2,g,5,g
+705,bandanas bbq,southern style original sauce,0,g,0,mg,500,g,9,g,1,g,0,g,0,g,1,g,7,g
+706,bandanas bbq,st louis style rib plate,0,g,170,mg,1150,g,29,g,41,g,16,g,0,g,0,g,29,g
+707,bandanas bbq,st louis style rib platter,0,g,255,mg,1720,g,44,g,61,g,23,g,0,g,0,g,44,g
+708,bandanas bbq,st louis style rib sandwich,0,g,130,mg,1810,g,101,g,42,g,14,g,2.5,g,3,g,25,g
+709,bandanas bbq,st louis sweet and smoky sauce,0,g,0,mg,320,g,14,g,0,g,0,g,0,g,0,g,12,g
+710,bandanas bbq,sweet cut corn,0,g,0,mg,330,g,27,g,3,g,1,g,1,g,2,g,10,g
+711,bandanas bbq,turkey plate,0,g,140,mg,90,g,0,g,51,g,1,g,0,g,0,g,0,g
+712,bandanas bbq,turkey platter,0,g,210,mg,135,g,0,g,77,g,1,g,0,g,0,g,0,g
+713,bandanas bbq,turkey sandwich,0,g,120,mg,680,g,50,g,50,g,3,g,2,g,2,g,4,g
+714,bandanas bbq,wet chicken and turkey sandwich,0,g,55,mg,1090,g,69,g,26,g,3.5,g,2,g,2,g,21,g
+715,bandanas bbq,wet pork and brisket sandwich,0,g,60,mg,1470,g,70,g,27,g,5,g,2,g,2,g,20,g
+716,bandanas bbq,white sauce,0,g,15,mg,320,g,2,g,1,g,2,g,0,g,0,g,1,g
+717,bar b cutie,baby back ribs 1 2 rack,57,g,195,mg,810,g,10,g,39,g,21,g,0,g,0,g,9,g
+718,bar b cutie,baby back ribs full rack,115,g,395,mg,1630,g,20,g,79,g,42,g,0,g,1,g,17,g
+719,bar b cutie,banana pudding,16,g,30,mg,600,g,81,g,9,g,12,g,0,g,1,g,56,g
+720,bar b cutie,bar b q beans,1,g,5,mg,990,g,38,g,6,g,0,g,0,g,6,g,20,g
+721,bar b cutie,beef pancho,66,g,225,mg,2640,g,47,g,58,g,35,g,0,g,4,g,16,g
+722,bar b cutie,brownie,28,g,90,mg,180,g,63,g,5,g,11,g,0,g,3,g,47,g
+723,bar b cutie,charro beans,1,g,0,mg,930,g,49,g,16,g,0,g,0,g,12,g,3,g
+724,bar b cutie,cheese fries,30,g,10,mg,750,g,194,g,20,g,5,g,0,g,16,g,14,g
+725,bar b cutie,chicken pancho,43,g,215,mg,2760,g,49,g,65,g,25,g,0,g,4,g,18,g
+726,bar b cutie,chopped beef brisket,18,g,65,mg,650,g,17,g,18,g,7,g,0,g,2,g,14,g
+727,bar b cutie,chopped beef brisket sandwich,21,g,50,mg,960,g,54,g,50,g,7,g,0,g,1,g,17,g
+728,bar b cutie,cole slaw,26,g,25,mg,660,g,35,g,1,g,5,g,0,g,2,g,33,g
+729,bar b cutie,corn nuggets,15,g,0,mg,840,g,42,g,6,g,2,g,0,g,2,g,4,g
+730,bar b cutie,corn on the cobb,1,g,0,mg,5,g,19,g,3,g,0,g,0,g,2,g,3,g
+731,bar b cutie,creamed corn,21,g,55,mg,180,g,23,g,4,g,12,g,0,g,2,g,9,g
+732,bar b cutie,fresh cut fries,12,g,0,mg,25,g,113,g,10,g,1,g,0,g,10,g,5,g
+733,bar b cutie,fried okra,5,g,0,mg,1030,g,62,g,9,g,0,g,0,g,3,g,6,g
+734,bar b cutie,fried pickles,7,g,0,mg,4100,g,64,g,0,g,1,g,0,g,0,g,0,g
+735,bar b cutie,homemade rice,0,g,0,mg,1010,g,36,g,3,g,0,g,0,g,0,g,1,g
+736,bar b cutie,jalapeno and cheese smoked sausage sandwich,29,g,60,mg,1180,g,44,g,18,g,11,g,0,g,1,g,7,g
+737,bar b cutie,jalapeno and cheese smoked sausage 1 2 link,27,g,60,mg,770,g,3,g,12,g,10,g,0,g,0,g,1,g
+738,bar b cutie,jalapeno and cheese smoked sausage whole link,54,g,120,mg,1540,g,6,g,24,g,20,g,0,g,0,g,2,g
+739,bar b cutie,kids chicken nuggets,18,g,45,mg,490,g,17,g,15,g,4,g,0,g,0,g,1,g
+740,bar b cutie,kids corn dog,15,g,15,mg,480,g,23,g,6,g,4,g,0,g,1,g,5,g
+741,bar b cutie,kids grilled cheese,19,g,40,mg,870,g,25,g,12,g,0,g,0,g,0,g,4,g
+742,bar b cutie,lean beef brisket,29,g,100,mg,270,g,3,g,28,g,11,g,0,g,0,g,2,g
+743,bar b cutie,mac and cheese,15,g,50,mg,870,g,24,g,12,g,10,g,0,g,1,g,3,g
+744,bar b cutie,mashed potatoes,25,g,65,mg,520,g,23,g,2,g,15,g,0,g,2,g,1,g
+745,bar b cutie,moist beef brisket,31,g,105,mg,270,g,3,g,26,g,13,g,0,g,0,g,2,g
+746,bar b cutie,moist beef brisket sandwich,31,g,80,mg,670,g,43,g,26,g,11,g,0,g,1,g,8,g
+747,bar b cutie,onion rings,5,g,0,mg,830,g,53,g,6,g,0,g,0,g,2,g,6,g
+748,bar b cutie,peach cobbler,3,g,0,mg,180,g,43,g,2,g,1,g,0,g,1,g,32,g
+749,bar b cutie,pecan pie,25,g,75,mg,530,g,70,g,9,g,8,g,0,g,1,g,25,g
+750,bar b cutie,pork pancho,58,g,220,mg,2540,g,44,g,57,g,31,g,0,g,4,g,14,g
+751,bar b cutie,potato salad,8,g,10,mg,690,g,39,g,3,g,1,g,0,g,2,g,14,g
+752,bar b cutie,pulled pork,20,g,100,mg,170,g,0,g,26,g,7,g,0,g,0,g,0,g
+753,bar b cutie,pulled pork sandwich,23,g,75,mg,600,g,41,g,26,g,7,g,0,g,1,g,6,g
+754,bar b cutie,regular smoked sausage sandwich,29,g,55,mg,1170,g,43,g,17,g,10,g,0,g,1,g,7,g
+755,bar b cutie,regular smoked sausage 1 2 link,37,g,55,mg,760,g,2,g,11,g,9,g,0,g,0,g,1,g
+756,bar b cutie,regular smoked sausage whole link,54,g,110,mg,1520,g,4,g,22,g,18,g,0,g,0,g,2,g
+757,bar b cutie,sausage pancho,82,g,210,mg,3620,g,47,g,48,g,39,g,0,g,4,g,15,g
+758,bar b cutie,smoked chicken breast sandwich,14,g,105,mg,890,g,48,g,46,g,2,g,0,g,1,g,11,g
+759,bar b cutie,smoked half chicken,10,g,155,mg,500,g,50,g,47,g,2,g,0,g,0,g,5,g
+760,bar b cutie,smoked potato,0,g,0,mg,15,g,51,g,6,g,0,g,0,g,4,g,2,g
+761,bar b cutie,smoked potato loaded with butter,44,g,0,mg,460,g,51,g,6,g,18,g,0,g,4,g,2,g
+762,bar b cutie,smoked potato loaded with cheese,27,g,90,mg,1280,g,51,g,24,g,18,g,0,g,4,g,2,g
+763,bar b cutie,smoked potato loaded with meat,14,g,50,mg,510,g,64,g,20,g,6,g,0,g,4,g,13,g
+764,bar b cutie,smoked turkey,1,g,45,mg,1010,g,2,g,28,g,0,g,0,g,0,g,2,g
+765,bar b cutie,smoked turkey sandwich,8,g,35,mg,1230,g,42,g,27,g,2,g,0,g,1,g,7,g
+766,bar b cutie,smoked wings 1 2 dozen,26,g,145,mg,140,g,0,g,34,g,6,g,0,g,0,g,0,g
+767,bar b cutie,smoked wings dozen,52,g,305,mg,300,g,0,g,73,g,13,g,0,g,0,g,0,g
+768,bar b cutie,st louis spareribs 1 2 rack,54,g,175,mg,800,g,10,g,39,g,20,g,0,g,0,g,9,g
+769,bar b cutie,st louis spareribs full rack,107,g,355,mg,1610,g,20,g,78,g,41,g,0,g,1,g,17,g
+770,bar b cutie,tossed salad,14,g,45,mg,330,g,17,g,14,g,8,g,0,g,6,g,7,g
+771,bar b cutie,tossed salad with meat,35,g,120,mg,1070,g,36,g,34,g,16,g,0,g,7,g,24,g
+772,bar b cutie,turkey pancho,39,g,170,mg,3380,g,46,g,58,g,24,g,0,g,4,g,15,g
+773,barbacoa mexican grill,12 inch flour tortilla,7,g,0,mg,0,g,52,g,7,g,0,g,0,g,0,g,0,g
+774,barbacoa mexican grill,12 inch wheat tortilla,7,g,0,mg,0,g,47,g,8,g,0,g,0,g,0,g,0,g
+775,barbacoa mexican grill,6 inch crispy corn shell,9,g,0,mg,0,g,6,g,1,g,0,g,0,g,0,g,0,g
+776,barbacoa mexican grill,6 inch flour tortilla,2.5,g,0,mg,0,g,19,g,3,g,0,g,0,g,0,g,0,g
+777,barbacoa mexican grill,barbacoa beef,20,g,0,mg,0,g,1,g,26,g,0,g,0,g,0,g,0,g
+778,barbacoa mexican grill,barbacoa pork,8,g,0,mg,0,g,1,g,29,g,0,g,0,g,0,g,0,g
+779,barbacoa mexican grill,black beans,0,g,0,mg,0,g,22,g,7,g,0,g,0,g,0,g,0,g
+780,barbacoa mexican grill,carnitas,9,g,0,mg,0,g,1,g,27,g,0,g,0,g,0,g,0,g
+781,barbacoa mexican grill,cheese,14,g,0,mg,0,g,2,g,11,g,0,g,0,g,0,g,0,g
+782,barbacoa mexican grill,chicken,2,g,0,mg,0,g,0,g,39,g,0,g,0,g,0,g,0,g
+783,barbacoa mexican grill,chipotle ranch dressing,39,g,0,mg,0,g,5,g,1,g,0,g,0,g,0,g,0,g
+784,barbacoa mexican grill,cilantro lime dressing,17,g,0,mg,0,g,8,g,1,g,0,g,0,g,0,g,0,g
+785,barbacoa mexican grill,cilantro lime rice,4.5,g,0,mg,0,g,14,g,1,g,0,g,0,g,0,g,0,g
+786,barbacoa mexican grill,fajita vegetables,0,g,0,mg,0,g,8,g,2,g,0,g,0,g,0,g,0,g
+787,barbacoa mexican grill,guacamole,12,g,0,mg,0,g,8,g,2,g,0,g,0,g,0,g,0,g
+788,barbacoa mexican grill,honey sweet pork,12,g,0,mg,0,g,51,g,36,g,0,g,0,g,0,g,0,g
+789,barbacoa mexican grill,hot salsa,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+790,barbacoa mexican grill,line lettuce,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,0,g,0,g
+791,barbacoa mexican grill,medium salsa,1,g,0,mg,0,g,19,g,3,g,0,g,0,g,0,g,0,g
+792,barbacoa mexican grill,mild salsa,0,g,0,mg,0,g,6,g,1,g,0,g,0,g,0,g,0,g
+793,barbacoa mexican grill,pinto beans,0.5,g,0,mg,0,g,31,g,10,g,0,g,0,g,0,g,0,g
+794,barbacoa mexican grill,salad lettuce,0,g,0,mg,0,g,5,g,2,g,0,g,0,g,0,g,0,g
+795,barbacoa mexican grill,soup,13,g,0,mg,0,g,61,g,7,g,0,g,0,g,0,g,0,g
+796,barbacoa mexican grill,sour cream,5,g,0,mg,0,g,2,g,1,g,0,g,0,g,0,g,0,g
+797,barbacoa mexican grill,steak,16,g,0,mg,0,g,1,g,22,g,0,g,0,g,0,g,0,g
+798,barbacoa mexican grill,tortilla strip,1.5,g,0,mg,0,g,25,g,3,g,0,g,0,g,0,g,0,g
+799,barberitos,avocado slices,10,g,0,mg,5,g,6,g,1,g,1,g,0,g,4,g,0,g
+800,barberitos,black beans,0,g,0,mg,160,g,11,g,3,g,0,g,0,g,2,g,0,g
+801,barberitos,black beans nachos,0,g,0,mg,160,g,11,g,3,g,0,g,0,g,2,g,0,g
+802,barberitos,black beans quesadilla,0,g,0,mg,130,g,9,g,3,g,0,g,0,g,2,g,0,g
+803,barberitos,black beans taco,0,g,0,mg,80,g,6,g,2,g,0,g,0,g,0,g,0,g
+804,barberitos,black olives,4.5,g,0,mg,310,g,3,g,0,g,0.5,g,0,g,1,g,0,g
+805,barberitos,cheese,13,g,40,mg,230,g,0,g,10,g,0,g,0,g,0,g,0,g
+806,barberitos,cheese bowl,20,g,65,mg,380,g,1,g,17,g,0,g,0,g,0,g,0,g
+807,barberitos,cheese nachos,25,g,75,mg,460,g,1,g,21,g,16,g,0,g,0,g,0,g
+808,barberitos,cheese quesadilla,20,g,65,mg,380,g,1,g,17,g,15,g,0,g,0,g,0,g
+809,barberitos,cheese taco,6,g,20,mg,115,g,0,g,5,g,0,g,0,g,0,g,0,g
+810,barberitos,chicken,3.5,g,70,mg,85,g,1,g,24,g,0,g,0,g,0,g,0,g
+811,barberitos,chicken bowl,5,g,105,mg,125,g,1,g,36,g,0,g,0,g,0,g,0,g
+812,barberitos,chicken nachos,3.5,g,70,mg,85,g,1,g,24,g,1,g,0,g,0,g,0,g
+813,barberitos,chicken taco,2,g,35,mg,45,g,1,g,12,g,0,g,0,g,0,g,0,g
+814,barberitos,chipotle hot sauce,0,g,0,mg,410,g,2,g,0,g,0,g,0,g,0,g,0,g
+815,barberitos,chipotle tortilla burrito,3,g,0,mg,880,g,39,g,8,g,2,g,0,g,2,g,0,g
+816,barberitos,chips served with dip,9,g,0,mg,55,g,55,g,9,g,0,g,0,g,4,g,0,g
+817,barberitos,chips served with entree,4.5,g,0,mg,30,g,30,g,4,g,1,g,0,g,2,g,0,g
+818,barberitos,chips nachos,9,g,0,mg,55,g,55,g,9,g,1.5,g,0,g,4,g,0,g
+819,barberitos,corn salsa,1,g,0,mg,230,g,17,g,4,g,0,g,0,g,4,g,0,g
+820,barberitos,corn tortilla taco shell,1,g,0,mg,15,g,15,g,2,g,0,g,0,g,1,g,0,g
+821,barberitos,fish,4,g,50,mg,410,g,1,g,20,g,0,g,0,g,0,g,0,g
+822,barberitos,fish nachos,4,g,50,mg,410,g,1,g,20,g,0.5,g,0,g,0,g,0,g
+823,barberitos,fish taco,2,g,25,mg,210,g,1,g,10,g,0,g,0,g,0,g,0,g
+824,barberitos,flour tortilla burrito,8,g,0,mg,770,g,47,g,10,g,2,g,1.5,g,3,g,0,g
+825,barberitos,flour tortilla quesadilla,6,g,0,mg,510,g,31,g,6,g,1,g,0,g,2,g,0,g
+826,barberitos,green pepper,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,0,g
+827,barberitos,ground beef,18,g,60,mg,230,g,2,g,20,g,0,g,0,g,0,g,0,g
+828,barberitos,ground beef nachos,18,g,60,mg,230,g,2,g,20,g,7,g,0,g,0,g,0,g
+829,barberitos,ground beef taco,9,g,30,mg,115,g,1,g,10,g,0,g,0,g,0,g,0,g
+830,barberitos,ground turkey,7,g,60,mg,400,g,2,g,14,g,0,g,0,g,0,g,0,g
+831,barberitos,ground turkey nachos,7,g,60,mg,400,g,2,g,14,g,1.5,g,0,g,0,g,0,g
+832,barberitos,ground turkey taco,3,g,30,mg,200,g,1,g,7,g,0,g,0,g,0,g,0,g
+833,barberitos,guacamole,3.5,g,0,mg,115,g,3,g,1,g,0,g,0,g,1,g,0,g
+834,barberitos,guacamole bowl,6,g,0,mg,180,g,5,g,1,g,0,g,0,g,2,g,0,g
+835,barberitos,guacamole nachos,5,g,0,mg,160,g,4,g,1,g,1,g,0,g,2,g,0,g
+836,barberitos,guacamole taco,2,g,0,mg,60,g,2,g,0,g,0,g,0,g,1,g,0,g
+837,barberitos,hard taco shell,3,g,0,mg,10,g,7,g,1,g,1,g,0,g,1,g,0,g
+838,barberitos,heavy d salsa,0,g,0,mg,160,g,2,g,2,g,0,g,0,g,1,g,0,g
+839,barberitos,hot sauce,0,g,0,mg,450,g,2,g,0,g,0,g,0,g,1,g,0,g
+840,barberitos,iceberg lettuce,0,g,0,mg,10,g,3,g,1,g,0,g,0,g,1,g,0,g
+841,barberitos,iceberg lettuce bowl,0,g,0,mg,5,g,2,g,1,g,0,g,0,g,1,g,0,g
+842,barberitos,jalapeno fresh,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,1,g,0,g
+843,barberitos,jalapeno pickled,0,g,0,mg,710,g,2,g,0,g,0,g,0,g,1,g,0,g
+844,barberitos,large cheese dip,47,g,155,mg,2080,g,9,g,81,g,0,g,0,g,0,g,0,g
+845,barberitos,medium cheese dip,23,g,80,mg,1040,g,5,g,40,g,0,g,0,g,0,g,0,g
+846,barberitos,mushrooms,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+847,barberitos,onions,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+848,barberitos,pinto beans,0,g,0,mg,105,g,10,g,3,g,0,g,0,g,6,g,0,g
+849,barberitos,pinto beans nachos,0,g,0,mg,105,g,10,g,3,g,0,g,0,g,6,g,0,g
+850,barberitos,pinto beans quesadilla,0,g,0,mg,90,g,8,g,3,g,0,g,0,g,5,g,0,g
+851,barberitos,pinto beans taco,0,g,0,mg,55,g,5,g,2,g,0,g,0,g,3,g,0,g
+852,barberitos,poblano,0,g,0,mg,320,g,4,g,0,g,0,g,0,g,2,g,0,g
+853,barberitos,rice,0,g,0,mg,330,g,28,g,3,g,0,g,0,g,0,g,0,g
+854,barberitos,rice taco,0,g,0,mg,170,g,14,g,1,g,0,g,0,g,0,g,0,g
+855,barberitos,romaine lettuce,0,g,0,mg,10,g,3,g,1,g,0,g,0,g,2,g,0,g
+856,barberitos,romaine lettuce bowl,0,g,0,mg,5,g,1,g,1,g,0,g,0,g,1,g,0,g
+857,barberitos,salad shell,15,g,0,mg,510,g,31,g,6,g,4,g,0,g,2,g,0,g
+858,barberitos,salsa,0,g,0,mg,140,g,3,g,1,g,0,g,0,g,1,g,0,g
+859,barberitos,salsa bowl,0,g,0,mg,170,g,3,g,1,g,0,g,0,g,1,g,0,g
+860,barberitos,salsa nachos,0,g,0,mg,140,g,3,g,1,g,0,g,0,g,1,g,0,g
+861,barberitos,salsa quesadilla,0,g,0,mg,115,g,2,g,1,g,0,g,0,g,1,g,0,g
+862,barberitos,salsa taco,0,g,0,mg,70,g,1,g,0,g,0,g,0,g,0,g,0,g
+863,barberitos,small cheese dip,12,g,40,mg,520,g,2,g,20,g,0,g,0,g,0,g,0,g
+864,barberitos,sour cream,6,g,25,mg,15,g,1,g,1,g,0,g,0,g,0,g,0,g
+865,barberitos,sour cream bowl,9,g,35,mg,30,g,2,g,2,g,0,g,0,g,0,g,0,g
+866,barberitos,sour cream nachos,9,g,35,mg,30,g,2,g,2,g,7,g,0,g,0,g,0,g
+867,barberitos,sour cream quesadilla,9,g,35,mg,30,g,2,g,2,g,7,g,0,g,0,g,0,g
+868,barberitos,sour cream taco,3,g,10,mg,10,g,1,g,1,g,0,g,0,g,0,g,0,g
+869,barberitos,spicy chicken,3.5,g,70,mg,310,g,2,g,24,g,0,g,0,g,0,g,0,g
+870,barberitos,spicy chicken nachos,3.5,g,70,mg,310,g,2,g,24,g,1,g,0,g,0,g,0,g
+871,barberitos,spicy chicken taco,2,g,35,mg,160,g,1,g,12,g,0,g,0,g,0,g,0,g
+872,barberitos,spinach,0,g,0,mg,35,g,1,g,1,g,0,g,0,g,0,g,0,g
+873,barberitos,spinach tortilla burrito,2,g,0,mg,700,g,41,g,8,g,2,g,0,g,4,g,0,g
+874,barberitos,spinach salad,0,g,0,mg,85,g,3,g,3,g,0,g,0,g,2,g,0,g
+875,barberitos,steak,10,g,90,mg,320,g,1,g,21,g,0,g,0,g,0,g,0,g
+876,barberitos,steak bowl,15,g,135,mg,480,g,2,g,32,g,0,g,0,g,0,g,0,g
+877,barberitos,steak nachos,10,g,90,mg,320,g,1,g,21,g,3.5,g,0,g,0,g,0,g
+878,barberitos,steak taco,5,g,45,mg,160,g,1,g,11,g,0,g,0,g,0,g,0,g
+879,barberitos,tofu,7,g,0,mg,810,g,3,g,8,g,0,g,0,g,1,g,0,g
+880,barberitos,tofu nachos,7,g,0,mg,810,g,3,g,8,g,1,g,0,g,1,g,0,g
+881,barberitos,tofu taco,3.5,g,0,mg,410,g,2,g,4,g,0,g,0,g,1,g,0,g
+882,barberitos,tomatillo,2,g,0,mg,420,g,4,g,1,g,0,g,0,g,3,g,0,g
+883,barberitos,tomatillo sauce,2,g,0,mg,420,g,4,g,1,g,0,g,0,g,3,g,0,g
+884,barberitos,wheat tortilla burrito,8,g,0,mg,770,g,37,g,9,g,2.5,g,0,g,5,g,0,g
+885,barberitos,wheat tortilla quesadilla,6,g,0,mg,470,g,24,g,5,g,1,g,0,g,3,g,0,g
+886,barry bagels,asiago cheese bagel,4,g,0,mg,650,g,43,g,10,g,0,g,0,g,2,g,3,g
+887,barry bagels,blueberry bagel,1,g,0,mg,430,g,56,g,10,g,0,g,0,g,2,g,5,g
+888,barry bagels,buckeye bagel,3.5,g,0,mg,480,g,62,g,9,g,0,g,0,g,2,g,16,g
+889,barry bagels,cheddar jalapeno bagel,1.5,g,0,mg,510,g,54,g,11,g,0,g,0,g,2,g,4,g
+890,barry bagels,chicken salad,34,g,0,mg,300,g,1,g,16,g,0,g,0,g,0,g,0,g
+891,barry bagels,chocolate chip bagel,3,g,0,mg,490,g,54,g,9,g,0,g,0,g,2,g,10,g
+892,barry bagels,cole slaw,2,g,0,mg,15,g,7,g,1,g,0,g,0,g,1,g,3,g
+893,barry bagels,cranberry bagel,1,g,0,mg,380,g,55,g,9,g,0,g,0,g,2,g,8,g
+894,barry bagels,egg salad,25,g,0,mg,240,g,1,g,10,g,0,g,0,g,0,g,0,g
+895,barry bagels,everything bagel,1.5,g,0,mg,540,g,56,g,11,g,0,g,0,g,2,g,2,g
+896,barry bagels,garlic bagel,1.5,g,0,mg,450,g,56,g,11,g,0,g,0,g,2,g,2,g
+897,barry bagels,honey brown sugar cream cheese,9,g,0,mg,90,g,6,g,2,g,0,g,0,g,0,g,5,g
+898,barry bagels,honey wheat bagel,0.5,g,0,mg,410,g,57,g,10,g,0,g,0,g,2,g,5,g
+899,barry bagels,lite cream cheese,6,g,0,mg,120,g,1,g,2,g,0,g,0,g,0,g,1,g
+900,barry bagels,macaroni salad,11,g,0,mg,160,g,22,g,4,g,0,g,0,g,1,g,1,g
+901,barry bagels,onion bagel,0.5,g,0,mg,420,g,56,g,11,g,0,g,0,g,2,g,2,g
+902,barry bagels,onion stix,0.5,g,0,mg,420,g,56,g,11,g,0,g,0,g,2,g,2,g
+903,barry bagels,plain bagel,0.5,g,0,mg,420,g,56,g,11,g,0,g,0,g,2,g,1,g
+904,barry bagels,plain cream cheese,10,g,0,mg,110,g,1,g,2,g,0,g,0,g,0,g,1,g
+905,barry bagels,poppy bagel,0.5,g,0,mg,430,g,56,g,10,g,0,g,0,g,2,g,5,g
+906,barry bagels,potato salad,19,g,0,mg,210,g,13,g,2,g,0,g,0,g,1,g,1,g
+907,barry bagels,pumpernickel bagel,0.5,g,0,mg,420,g,56,g,11,g,0,g,0,g,2,g,2,g
+908,barry bagels,pumpkin spice bagel,1.5,g,0,mg,480,g,57,g,9,g,0,g,0,g,2,g,12,g
+909,barry bagels,raisin bagel,0.5,g,0,mg,410,g,57,g,10,g,0,g,0,g,2,g,5,g
+910,barry bagels,raisin cinnamon cream cheese,6,g,0,mg,115,g,4,g,3,g,0,g,0,g,0,g,3,g
+911,barry bagels,salt bagel,0.5,g,0,mg,480,g,56,g,11,g,0,g,0,g,2,g,2,g
+912,barry bagels,scallion cream cheese,6,g,0,mg,115,g,1,g,3,g,0,g,0,g,0,g,1,g
+913,barry bagels,sesame bagel,2.5,g,0,mg,420,g,56,g,11,g,0,g,0,g,2,g,2,g
+914,barry bagels,southwest jalapeno cream cheese,6,g,0,mg,180,g,1,g,3,g,0,g,0,g,0,g,1,g
+915,barry bagels,spinach feta bagel,3,g,0,mg,730,g,45,g,9,g,0,g,0,g,2,g,3,g
+916,barry bagels,strawberry cream cheese,9,g,0,mg,85,g,5,g,2,g,0,g,0,g,0,g,4,g
+917,barry bagels,sundried tomato bagel,1,g,0,mg,420,g,51,g,10,g,0,g,0,g,2,g,3,g
+918,barry bagels,sunny grain bagel,3,g,0,mg,400,g,56,g,11,g,0,g,0,g,3,g,6,g
+919,barry bagels,tuna salad,20,g,0,mg,450,g,1,g,25,g,0,g,0,g,0,g,0,g
+920,barry bagels,vanilla cinnamon bagel,3,g,0,mg,400,g,56,g,9,g,0,g,0,g,2,g,14,g
+921,barry bagels,vegetable ranch cream cheese,6,g,0,mg,115,g,1,g,3,g,0,g,0,g,0,g,1,g
+922,baton rouge steakhouse and bar,amarillo chicken,89,g,200,mg,1750,g,10,g,69,g,18,g,0.5,g,2,g,5,g
+923,baton rouge steakhouse and bar,atlantic salmon filet,62,g,230,mg,500,g,4,g,64,g,10,g,0,g,0,g,3,g
+924,baton rouge steakhouse and bar,atlantic salmon filet lunch,55,g,195,mg,470,g,4,g,52,g,8,g,0,g,0,g,3,g
+925,baton rouge steakhouse and bar,bacon mushroom cheddar soup,50,g,155,mg,3200,g,17,g,22,g,26,g,1,g,1,g,5,g
+926,baton rouge steakhouse and bar,baked potato fully loaded,25,g,70,mg,320,g,91,g,19,g,15,g,0,g,9,g,6,g
+927,baton rouge steakhouse and bar,baked potato plain,0.5,g,0,mg,45,g,90,g,11,g,0,g,0,g,9,g,5,g
+928,baton rouge steakhouse and bar,baked potato with butter,12,g,30,mg,125,g,90,g,11,g,7,g,0,g,9,g,5,g
+929,baton rouge steakhouse and bar,baton rouge burger,68,g,205,mg,760,g,48,g,60,g,24,g,2,g,3,g,8,g
+930,baton rouge steakhouse and bar,baton rouge chicken tenders,94,g,85,mg,1160,g,86,g,23,g,14,g,0,g,11,g,20,g
+931,baton rouge steakhouse and bar,baton rouge chicken tenders platter,99,g,110,mg,1290,g,92,g,27,g,16,g,0,g,12,g,20,g
+932,baton rouge steakhouse and bar,baton rouge club sandwich,65,g,145,mg,2110,g,62,g,54,g,12,g,0,g,5,g,6,g
+933,baton rouge steakhouse and bar,bbq pork back ribs 10 oz,77,g,320,mg,820,g,32,g,81,g,30,g,1,g,1,g,27,g
+934,baton rouge steakhouse and bar,bbq pork back ribs 16 oz,122,g,510,mg,1480,g,63,g,130,g,48,g,1,g,1,g,54,g
+935,baton rouge steakhouse and bar,bbq pork back ribs and chicken,119,g,405,mg,1510,g,44,g,114,g,34,g,1,g,1,g,37,g
+936,baton rouge steakhouse and bar,bbq pork back ribs and shrimp,79,g,760,mg,1470,g,42,g,129,g,31,g,1,g,1,g,36,g
+937,baton rouge steakhouse and bar,bbq pork back ribs trio,76,g,655,mg,4000,g,194,g,118,g,17,g,0.5,g,5,g,164,g
+938,baton rouge steakhouse and bar,burger with caesar salad,46,g,140,mg,500,g,86,g,43,g,12,g,1.5,g,6,g,25,g
+939,baton rouge steakhouse and bar,burger with french fries,63,g,140,mg,420,g,113,g,45,g,16,g,1.5,g,11,g,24,g
+940,baton rouge steakhouse and bar,burger with house salad,27,g,150,mg,310,g,85,g,43,g,11,g,1,g,5,g,25,g
+941,baton rouge steakhouse and bar,caesar salad,82,g,5,mg,900,g,25,g,8,g,7,g,0.5,g,7,g,7,g
+942,baton rouge steakhouse and bar,caesar salad with garlic cheese toast,79,g,20,mg,1600,g,42,g,16,g,11,g,1,g,8,g,8,g
+943,baton rouge steakhouse and bar,caesar side salad,21,g,0,mg,250,g,10,g,3,g,2,g,0,g,3,g,2,g
+944,baton rouge steakhouse and bar,caesar side salad with cheese toast,34,g,15,mg,640,g,25,g,10,g,7,g,0,g,3,g,2,g
+945,baton rouge steakhouse and bar,canadian cheddar soup,20,g,60,mg,2830,g,12,g,8,g,12,g,0.5,g,1,g,4,g
+946,baton rouge steakhouse and bar,cheddar dip,21,g,35,mg,550,g,30,g,7,g,8,g,0.5,g,2,g,3,g
+947,baton rouge steakhouse and bar,chicken and shrimp,74,g,585,mg,1850,g,35,g,101,g,7,g,0.5,g,1,g,28,g
+948,baton rouge steakhouse and bar,chicken and leek soup,6,g,30,mg,2020,g,15,g,8,g,3,g,0,g,2,g,3,g
+949,baton rouge steakhouse and bar,chicken diablo soup,37,g,170,mg,1210,g,7,g,27,g,19,g,1,g,1,g,2,g
+950,baton rouge steakhouse and bar,chicken milanese soup,3.5,g,25,mg,1050,g,9,g,17,g,1,g,0,g,1,g,1,g
+951,baton rouge steakhouse and bar,chicken primavera soup,13,g,60,mg,640,g,12,g,12,g,7,g,0,g,1,g,3,g
+952,baton rouge steakhouse and bar,chicken tender salad,63,g,140,mg,1390,g,72,g,37,g,13,g,0,g,17,g,6,g
+953,baton rouge steakhouse and bar,chicken tenders with house salad,42,g,135,mg,1090,g,89,g,25,g,10,g,0,g,5,g,38,g
+954,baton rouge steakhouse and bar,chicken tortilla soup,7,g,5,mg,1620,g,14,g,3,g,1,g,0,g,1,g,3,g
+955,baton rouge steakhouse and bar,chili soup,5,g,25,mg,720,g,15,g,9,g,2,g,0,g,1,g,5,g
+956,baton rouge steakhouse and bar,coleslaw,63,g,40,mg,890,g,17,g,3,g,5,g,0,g,3,g,10,g
+957,baton rouge steakhouse and bar,colossal carrot cake,65,g,30,mg,95,g,117,g,12,g,19,g,0.5,g,5,g,78,g
+958,baton rouge steakhouse and bar,corn chowder,13,g,40,mg,510,g,35,g,10,g,7,g,0,g,3,g,3,g
+959,baton rouge steakhouse and bar,cream of mushroom artichoke soup,31,g,95,mg,940,g,16,g,8,g,19,g,1,g,1,g,2,g
+960,baton rouge steakhouse and bar,cream of salmon soup,8,g,25,mg,2380,g,16,g,4,g,3.5,g,0,g,1,g,4,g
+961,baton rouge steakhouse and bar,creamy potato soup,12,g,25,mg,1310,g,19,g,5,g,6,g,0,g,2,g,2,g
+962,baton rouge steakhouse and bar,decadent chocolate walnut brownie,76,g,250,mg,490,g,141,g,13,g,37,g,1.5,g,6,g,102,g
+963,baton rouge steakhouse and bar,deluxe hamburger,53,g,160,mg,740,g,46,g,50,g,13,g,2,g,4,g,5,g
+964,baton rouge steakhouse and bar,filet magnon,28,g,210,mg,125,g,0,g,63,g,11,g,1,g,0,g,0,g
+965,baton rouge steakhouse and bar,french fries,64,g,0,mg,270,g,63,g,8,g,10,g,0,g,14,g,3,g
+966,baton rouge steakhouse and bar,garlic cheese toast,13,g,15,mg,390,g,15,g,7,g,5,g,0,g,1,g,0,g
+967,baton rouge steakhouse and bar,garlic mashed potato,40,g,120,mg,1430,g,53,g,9,g,24,g,1.5,g,5,g,3,g
+968,baton rouge steakhouse and bar,grilled calamari,42,g,560,mg,1310,g,14,g,36,g,18,g,0.5,g,2,g,1,g
+969,baton rouge steakhouse and bar,grilled sirloin salad,40,g,165,mg,550,g,19,g,72,g,12,g,0,g,7,g,8,g
+970,baton rouge steakhouse and bar,grilled vegetable sandwich,39,g,30,mg,1310,g,75,g,20,g,10,g,0,g,7,g,11,g
+971,baton rouge steakhouse and bar,heavenly cheesecake trio,43,g,195,mg,410,g,108,g,12,g,27,g,1,g,4,g,85,g
+972,baton rouge steakhouse and bar,hot cinnamon apples,0,g,0,mg,25,g,51,g,1,g,0,g,0,g,5,g,43,g
+973,baton rouge steakhouse and bar,house or mixed salad,9,g,215,mg,180,g,22,g,12,g,2.5,g,0,g,5,g,6,g
+974,baton rouge steakhouse and bar,key lime pie,32,g,30,mg,240,g,70,g,8,g,20,g,0.5,g,1,g,57,g
+975,baton rouge steakhouse and bar,leek potato spinach soup,6,g,15,mg,200,g,18,g,2,g,3.5,g,0,g,2,g,1,g
+976,baton rouge steakhouse and bar,lentil soup,4.5,g,10,mg,1250,g,18,g,14,g,2,g,0,g,8,g,2,g
+977,baton rouge steakhouse and bar,linguini primavera,81,g,230,mg,1960,g,123,g,47,g,45,g,2,g,9,g,8,g
+978,baton rouge steakhouse and bar,louisian chicken salad,48,g,140,mg,1240,g,53,g,63,g,9,g,0,g,7,g,13,g
+979,baton rouge steakhouse and bar,louisiana bbq chicken,71,g,145,mg,1200,g,24,g,54,g,7,g,0.5,g,1,g,20,g
+980,baton rouge steakhouse and bar,louisiana chicken sandwich,95,g,150,mg,1340,g,53,g,55,g,17,g,0.5,g,4,g,8,g
+981,baton rouge steakhouse and bar,louisiana spinach dip,20,g,25,mg,490,g,32,g,7,g,6,g,0,g,3,g,2,g
+982,baton rouge steakhouse and bar,manhattan clam chowder,3,g,10,mg,170,g,13,g,5,g,1,g,0,g,2,g,2,g
+983,baton rouge steakhouse and bar,mexican corn chowder,3,g,0,mg,1900,g,31,g,4,g,0.5,g,0,g,3,g,11,g
+984,baton rouge steakhouse and bar,minestrone soup,5,g,5,mg,980,g,10,g,9,g,1,g,0,g,2,g,1,g
+985,baton rouge steakhouse and bar,mixed side salad,2,g,15,mg,60,g,10,g,3,g,0,g,0,g,2,g,2,g
+986,baton rouge steakhouse and bar,mixed side salad with cheese toast,15,g,25,mg,450,g,25,g,10,g,6,g,0,g,3,g,2,g
+987,baton rouge steakhouse and bar,mystique chocolate cake,64,g,10,mg,210,g,74,g,10,g,46,g,0.5,g,4,g,57,g
+988,baton rouge steakhouse and bar,new york striploin 10 oz,26,g,195,mg,160,g,0,g,81,g,10,g,1,g,0,g,0,g
+989,baton rouge steakhouse and bar,new york striploin 14 oz,37,g,275,mg,220,g,0,g,113,g,14,g,1.5,g,0,g,0,g
+990,baton rouge steakhouse and bar,pasta with tomato sauce,12,g,40,mg,290,g,115,g,19,g,6,g,0,g,7,g,28,g
+991,baton rouge steakhouse and bar,pork chop,44,g,220,mg,220,g,0,g,102,g,14,g,0,g,0,g,0,g
+992,baton rouge steakhouse and bar,prime rib,107,g,245,mg,180,g,2,g,55,g,46,g,3.5,g,0,g,1,g
+993,baton rouge steakhouse and bar,prime rib sandwich,77,g,215,mg,2090,g,63,g,68,g,33,g,3,g,3,g,6,g
+994,baton rouge steakhouse and bar,red velvet cake,57,g,20,mg,340,g,122,g,7,g,20,g,1,g,7,g,96,g
+995,baton rouge steakhouse and bar,rib steak,67,g,500,mg,250,g,0,g,123,g,26,g,2.5,g,0,g,0,g
+996,baton rouge steakhouse and bar,ribs with caesar salad,46,g,105,mg,1930,g,149,g,25,g,13,g,1,g,6,g,111,g
+997,baton rouge steakhouse and bar,ribs with french fries,63,g,100,mg,1840,g,176,g,27,g,17,g,0.5,g,12,g,110,g
+998,baton rouge steakhouse and bar,ribs with house salad,27,g,115,mg,1740,g,148,g,25,g,11,g,0.5,g,6,g,110,g
+999,baton rouge steakhouse and bar,santa fe chicken,109,g,155,mg,1160,g,8,g,55,g,11,g,0.5,g,1,g,4,g

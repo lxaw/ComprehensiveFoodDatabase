@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,de dutch pannekoek house,clubhouse debakon wrap,38,g,75,mg,2620,g,79,g,36,g,14,g,0,g,8,g,9,g
+1,de dutch pannekoek house,clubhouse turkey bacon wrap,45,g,125,mg,3060,g,82,g,34,g,16,g,0,g,8,g,9,g
+2,de dutch pannekoek house,clubhouse wrap,25,g,80,mg,2490,g,77,g,37,g,6,g,0,g,8,g,11,g
+3,de dutch pannekoek house,crispy blt chicken wrap,54,g,110,mg,3190,g,96,g,52,g,16,g,0,g,9,g,11,g
+4,de dutch pannekoek house,crush grape,0,g,0,mg,55,g,47,g,0,g,0,g,0,g,0,g,47,g
+5,de dutch pannekoek house,crush orange,0,g,0,mg,45,g,34,g,0,g,0,g,0,g,0,g,34,g
+6,de dutch pannekoek house,dairyland 1 m f chocolate milk beverage,2.5,g,10,mg,260,g,26,g,8,g,1.5,g,0,g,0,g,25,g
+7,de dutch pannekoek house,dairyland 2 partly skimmed milk,5,g,20,mg,120,g,12,g,9,g,3,g,0,g,0,g,12,g
+8,de dutch pannekoek house,debakon,9,g,30,mg,920,g,0,g,14,g,3,g,0,g,0,g,0,g
+9,de dutch pannekoek house,debakon and eggs with fruit,35,g,490,mg,1480,g,87,g,36,g,12,g,0.5,g,9,g,25,g
+10,de dutch pannekoek house,debakon and eggs with salad,50,g,490,mg,1490,g,70,g,36,g,13,g,0.5,g,8,g,10,g
+11,de dutch pannekoek house,debratwurst and eggs with fruit,71,g,590,mg,2060,g,91,g,50,g,25,g,1,g,9,g,29,g
+12,de dutch pannekoek house,debratwurst and eggs with salad,85,g,590,mg,2060,g,74,g,50,g,26,g,1,g,8,g,14,g
+13,de dutch pannekoek house,deham and eggs with fruit,28,g,485,mg,1680,g,89,g,33,g,9,g,0.5,g,9,g,27,g
+14,de dutch pannekoek house,deham and eggs with salad,43,g,485,mg,1690,g,72,g,33,g,10,g,0.5,g,8,g,12,g
+15,de dutch pannekoek house,desausage and eggs with fruit,48,g,520,mg,1280,g,89,g,36,g,17,g,0.5,g,9,g,27,g
+16,de dutch pannekoek house,desausage and eggs with salad,62,g,520,mg,1290,g,72,g,35,g,18,g,0.5,g,8,g,12,g
+17,de dutch pannekoek house,desnack,14,g,25,mg,470,g,51,g,6,g,3,g,0,g,5,g,3,g
+18,de dutch pannekoek house,desteak and eggs with fruit,40,g,545,mg,650,g,87,g,60,g,14,g,1,g,9,g,25,g
+19,de dutch pannekoek house,desteak and eggs with salad,54,g,545,mg,660,g,70,g,60,g,15,g,1,g,8,g,10,g
+20,de dutch pannekoek house,deturkey bacon and eggs with fruit,44,g,545,mg,2000,g,90,g,34,g,15,g,0.5,g,9,g,25,g
+21,de dutch pannekoek house,deturkey bacon and eggs with salad,58,g,545,mg,2010,g,72,g,33,g,15,g,0.5,g,8,g,10,g
+22,de dutch pannekoek house,deveggies and eggs with fruit,43,g,515,mg,1000,g,94,g,40,g,20,g,1,g,11,g,31,g
+23,de dutch pannekoek house,deveggies and eggs with salad,58,g,515,mg,1000,g,76,g,39,g,21,g,1,g,10,g,16,g
+24,de dutch pannekoek house,diet pepsi,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+25,de dutch pannekoek house,dr pepper,0,g,0,mg,55,g,38,g,0,g,0,g,0,g,0,g,38,g
+26,de dutch pannekoek house,edam cheese,25,g,70,mg,590,g,0,g,20,g,17,g,0.5,g,0,g,3,g
+27,de dutch pannekoek house,french toast canuck,36,g,900,mg,3000,g,154,g,64,g,11,g,1,g,9,g,1,g
+28,de dutch pannekoek house,french toast chocolate strawberry,43,g,500,mg,2070,g,239,g,44,g,21,g,1,g,9,g,24,g
+29,de dutch pannekoek house,french toast cinnamon raisin,24,g,480,mg,510,g,63,g,20,g,12,g,1,g,12,g,27,g
+30,de dutch pannekoek house,french toast dutch,24,g,455,mg,1990,g,180,g,38,g,9,g,0,g,11,g,25,g
+31,de dutch pannekoek house,french toast french vanilla,33,g,445,mg,2010,g,236,g,50,g,7,g,1,g,16,g,41,g
+32,de dutch pannekoek house,french toast fruit topping,18,g,440,mg,1950,g,163,g,38,g,5,g,1,g,9,g,11,g
+33,de dutch pannekoek house,french toast hawaiian,36,g,500,mg,2790,g,200,g,48,g,17,g,1,g,11,g,42,g
+34,de dutch pannekoek house,french toast maple,30,g,460,mg,2000,g,275,g,42,g,13,g,1,g,9,g,76,g
+35,de dutch pannekoek house,french toast pear maple,20,g,485,mg,2070,g,200,g,41,g,15,g,0.5,g,11,g,34,g
+36,de dutch pannekoek house,fresh fruit cup,1,g,0,mg,40,g,49,g,1,g,0,g,0,g,5,g,42,g
+37,de dutch pannekoek house,fruit,7,g,15,mg,230,g,66,g,9,g,3,g,0,g,8,g,22,g
+38,de dutch pannekoek house,fruit garnish,0,g,0,mg,15,g,22,g,1,g,0,g,0,g,3,g,18,g
+39,de dutch pannekoek house,gentle john burger,58,g,305,mg,2410,g,31,g,38,g,18,g,0,g,3,g,10,g
+40,de dutch pannekoek house,gentle john chicken burger,40,g,330,mg,2570,g,30,g,44,g,10,g,0,g,2,g,10,g
+41,de dutch pannekoek house,gouda cheese,23,g,95,mg,690,g,2,g,21,g,15,g,0,g,0,g,2,g
+42,de dutch pannekoek house,granola,21,g,10,mg,65,g,79,g,19,g,5,g,0,g,8,g,21,g
+43,de dutch pannekoek house,grilled 3 cheese and tomato,37,g,65,mg,1000,g,52,g,24,g,14,g,0,g,6,g,32,g
+44,de dutch pannekoek house,halibut burger,34,g,70,mg,630,g,36,g,45,g,4,g,0,g,5,g,12,g
+45,de dutch pannekoek house,ham,2,g,25,mg,1120,g,3,g,11,g,0,g,0,g,0,g,2,g
+46,de dutch pannekoek house,ham and cheese with hashrowns,60,g,565,mg,2760,g,126,g,65,g,29,g,1,g,12,g,55,g
+47,de dutch pannekoek house,ham and cheese with salad,67,g,555,mg,2670,g,92,g,62,g,30,g,1,g,9,g,57,g
+48,de dutch pannekoek house,ham with hashrowns,22,g,455,mg,1860,g,126,g,35,g,4,g,0,g,12,g,51,g
+49,de dutch pannekoek house,ham with salad,29,g,445,mg,1780,g,92,g,32,g,4,g,0,g,9,g,52,g
+50,de dutch pannekoek house,ham edam and pineapple on sour dough,24,g,95,mg,2620,g,58,g,32,g,12,g,0.5,g,3,g,10,g
+51,de dutch pannekoek house,ham edam and pineapple on whole wheat,25,g,95,mg,2570,g,52,g,32,g,13,g,0.5,g,5,g,12,g
+52,de dutch pannekoek house,ham edam and sliced tomato on sour dough,21,g,65,mg,1910,g,52,g,23,g,11,g,0.5,g,3,g,6,g
+53,de dutch pannekoek house,ham edam and sliced tomato on whole grain,22,g,65,mg,1860,g,46,g,23,g,12,g,0.5,g,5,g,8,g
+54,de dutch pannekoek house,hash n eggs bacon,51,g,550,mg,1810,g,73,g,40,g,21,g,1,g,9,g,13,g
+55,de dutch pannekoek house,hash n eggs chicken,44,g,520,mg,1440,g,73,g,43,g,19,g,1,g,9,g,13,g
+56,de dutch pannekoek house,hash n eggs ham,40,g,510,mg,1600,g,73,g,40,g,17,g,1,g,9,g,14,g
+57,de dutch pannekoek house,hash n eggs meat lovers,71,g,585,mg,3040,g,74,g,61,g,28,g,1,g,9,g,15,g
+58,de dutch pannekoek house,hash n eggs mushroom,39,g,495,mg,850,g,74,g,35,g,17,g,1,g,10,g,14,g
+59,de dutch pannekoek house,hash n eggs sausage,53,g,535,mg,1330,g,73,g,42,g,23,g,1,g,9,g,14,g
+60,de dutch pannekoek house,hash n eggs shrimp,47,g,610,mg,1070,g,79,g,47,g,19,g,1,g,9,g,13,g
+61,de dutch pannekoek house,hash n eggs smoked salmon,42,g,510,mg,1290,g,72,g,43,g,18,g,1,g,9,g,13,g
+62,de dutch pannekoek house,hash n eggs turkey bacon,51,g,550,mg,1810,g,73,g,40,g,21,g,1,g,9,g,13,g
+63,de dutch pannekoek house,hashbrowns,8,g,10,mg,105,g,39,g,4,g,1,g,0,g,4,g,2,g
+64,de dutch pannekoek house,heinz tomato juice,0,g,0,mg,540,g,12,g,0,g,0,g,0,g,3,g,7,g
+65,de dutch pannekoek house,hollandaise sauce,9,g,0,mg,3020,g,38,g,0,g,0,g,0,g,0,g,0,g
+66,de dutch pannekoek house,honey mustard mayo,64,g,80,mg,2060,g,38,g,0,g,8,g,0,g,0,g,37,g
+67,de dutch pannekoek house,humble helen burger,68,g,130,mg,2470,g,37,g,37,g,22,g,0,g,4,g,13,g
+68,de dutch pannekoek house,humble helen chicken burger,50,g,150,mg,2630,g,36,g,43,g,14,g,0,g,4,g,13,g
+69,de dutch pannekoek house,lemon flavored tea,0,g,0,mg,10,g,27,g,0,g,0,g,0,g,0,g,27,g
+70,de dutch pannekoek house,lettuce wedge,25,g,30,mg,220,g,12,g,10,g,7,g,0,g,4,g,8,g
+71,de dutch pannekoek house,low carb platter debakon,42,g,480,mg,1380,g,31,g,32,g,12,g,0,g,5,g,9,g
+72,de dutch pannekoek house,low carb platter ham,35,g,475,mg,1580,g,33,g,29,g,9,g,0,g,5,g,10,g
+73,de dutch pannekoek house,low carb platter sausage,55,g,515,mg,1180,g,33,g,32,g,17,g,0.5,g,5,g,11,g
+74,de dutch pannekoek house,low carb platter turkey bacon,51,g,535,mg,1910,g,34,g,29,g,15,g,0,g,5,g,9,g
+75,de dutch pannekoek house,maple syrup,9,g,205,mg,540,g,131,g,13,g,1,g,0,g,3,g,80,g
+76,de dutch pannekoek house,meek myrtle burger,54,g,95,mg,2210,g,37,g,33,g,16,g,0,g,4,g,12,g
+77,de dutch pannekoek house,meek myrtle chicken burger,37,g,120,mg,2370,g,36,g,39,g,9,g,0,g,4,g,12,g
+78,de dutch pannekoek house,mountain dew,0,g,0,mg,45,g,47,g,0,g,0,g,0,g,0,g,46,g
+79,de dutch pannekoek house,mug root beer,0,g,0,mg,45,g,43,g,0,g,0,g,0,g,0,g,43,g
+80,de dutch pannekoek house,no carb platter,39,g,520,mg,1780,g,4,g,40,g,14,g,0,g,0,g,2,g
+81,de dutch pannekoek house,oatmeal,6,g,10,mg,60,g,130,g,13,g,3,g,0,g,7,g,94,g
+82,de dutch pannekoek house,omelette boeres with fruit,112,g,975,mg,3670,g,94,g,72,g,37,g,1,g,11,g,22,g
+83,de dutch pannekoek house,omelette boeres with salad,98,g,975,mg,3670,g,111,g,72,g,36,g,1,g,12,g,36,g
+84,de dutch pannekoek house,omelette chicken with fruit,62,g,790,mg,1520,g,81,g,48,g,20,g,0.5,g,10,g,16,g
+85,de dutch pannekoek house,omelette chicken with salad,47,g,790,mg,1510,g,98,g,49,g,19,g,0.5,g,11,g,30,g
+86,de dutch pannekoek house,omelette denver with fruit,58,g,780,mg,1670,g,79,g,45,g,18,g,0.5,g,10,g,15,g
+87,de dutch pannekoek house,omelette denver with salad,43,g,780,mg,1660,g,96,g,46,g,17,g,0.5,g,11,g,30,g
+88,de dutch pannekoek house,omelette low carb,32,g,705,mg,530,g,32,g,25,g,6,g,2,g,8,g,6,g
+89,de dutch pannekoek house,omelette meat lovers with fruit,82,g,840,mg,3280,g,75,g,64,g,24,g,0.5,g,8,g,14,g
+90,de dutch pannekoek house,omelette meat lovers with salad,67,g,840,mg,3270,g,92,g,64,g,23,g,0.5,g,9,g,29,g
+91,de dutch pannekoek house,omelette mediterranean with fruit,54,g,760,mg,1110,g,83,g,37,g,16,g,0.5,g,11,g,16,g
+92,de dutch pannekoek house,omelette mediterranean with salad,39,g,760,mg,1100,g,100,g,37,g,15,g,0.5,g,12,g,31,g
+93,de dutch pannekoek house,omelette mexican,45,g,770,mg,1580,g,95,g,40,g,19,g,0.5,g,11,g,30,g
+94,de dutch pannekoek house,omelette mexican with fruit,60,g,770,mg,1590,g,78,g,39,g,20,g,0.5,g,10,g,15,g
+95,de dutch pannekoek house,omelette no carb,24,g,730,mg,1230,g,4,g,34,g,8,g,2,g,0,g,1,g
+96,de dutch pannekoek house,omelette plain,33,g,730,mg,730,g,89,g,30,g,11,g,0.5,g,9,g,26,g
+97,de dutch pannekoek house,omelette plain with fruit,47,g,730,mg,740,g,72,g,30,g,12,g,0.5,g,8,g,11,g
+98,de dutch pannekoek house,omelette rio grande,42,g,765,mg,1450,g,101,g,36,g,18,g,0.5,g,13,g,33,g
+99,de dutch pannekoek house,omelette rio grande with fruit,57,g,765,mg,1450,g,84,g,35,g,18,g,0.5,g,11,g,19,g
+100,de dutch pannekoek house,omelette shrimp,83,g,1055,mg,2410,g,108,g,38,g,21,g,0.5,g,9,g,28,g
+101,de dutch pannekoek house,omelette shrimp with fruit,98,g,1055,mg,2420,g,90,g,37,g,22,g,0.5,g,8,g,13,g
+102,de dutch pannekoek house,omelette smoked salmon,91,g,1050,mg,2450,g,108,g,45,g,23,g,0.5,g,10,g,28,g
+103,de dutch pannekoek house,omelette smoked salmon with fruit,106,g,1050,mg,2460,g,91,g,44,g,24,g,0.5,g,9,g,13,g
+104,de dutch pannekoek house,omelette southwest chili,51,g,805,mg,1570,g,108,g,51,g,22,g,0.5,g,10,g,30,g
+105,de dutch pannekoek house,omelette southwest chili with fruit,65,g,805,mg,1580,g,91,g,50,g,23,g,0.5,g,9,g,15,g
+106,de dutch pannekoek house,omelette spinach and cheese with fruit,57,g,760,mg,960,g,75,g,38,g,18,g,0.5,g,10,g,12,g
+107,de dutch pannekoek house,omelette spinach and cheese with salad,42,g,760,mg,950,g,92,g,38,g,17,g,0.5,g,11,g,26,g
+108,de dutch pannekoek house,omelette sweet apple with fruit,47,g,730,mg,740,g,88,g,30,g,12,g,0.5,g,10,g,26,g
+109,de dutch pannekoek house,omelette sweet apple with salad,33,g,730,mg,730,g,105,g,31,g,11,g,0.5,g,11,g,40,g
+110,de dutch pannekoek house,omelette swiss dutch style with fruit,57,g,775,mg,1690,g,73,g,44,g,18,g,1,g,8,g,13,g
+111,de dutch pannekoek house,omelette swiss dutch style with salad,42,g,775,mg,1680,g,91,g,44,g,17,g,1,g,9,g,28,g
+112,de dutch pannekoek house,omelette veggie with fruit,48,g,730,mg,830,g,84,g,33,g,12,g,0.5,g,11,g,17,g
+113,de dutch pannekoek house,omelette veggie with salad,33,g,730,mg,820,g,101,g,33,g,11,g,0.5,g,12,g,32,g
+114,de dutch pannekoek house,original dutch scramble,68,g,750,mg,1220,g,82,g,47,g,26,g,1,g,11,g,19,g
+115,de dutch pannekoek house,original dutch scramble with fresh fruit,53,g,750,mg,1220,g,100,g,47,g,25,g,1,g,12,g,34,g
+116,de dutch pannekoek house,pannekoeken with topping 2 eggs,18,g,635,mg,660,g,48,g,25,g,4,g,0,g,3,g,1,g
+117,de dutch pannekoek house,pannekoeken with topping 3 berry whip,28,g,270,mg,670,g,86,g,16,g,13,g,0,g,3,g,19,g
+118,de dutch pannekoek house,pannekoeken with topping apple sugar and cinnamon,9,g,205,mg,530,g,68,g,13,g,1,g,0,g,4,g,21,g
+119,de dutch pannekoek house,pannekoeken with topping apple sugar cinnamon and whip,28,g,270,mg,640,g,78,g,16,g,13,g,0,g,4,g,28,g
+120,de dutch pannekoek house,pannekoeken with topping banana whip,28,g,270,mg,640,g,89,g,17,g,13,g,0,g,6,g,29,g
+121,de dutch pannekoek house,pannekoeken with topping blackberry whip,28,g,270,mg,640,g,84,g,17,g,13,g,0,g,6,g,33,g
+122,de dutch pannekoek house,pannekoeken with topping blueberry whip,28,g,270,mg,640,g,81,g,16,g,13,g,0,g,4,g,31,g
+123,de dutch pannekoek house,pannekoeken with topping brown sugar,9,g,205,mg,530,g,136,g,13,g,1,g,0,g,3,g,92,g
+124,de dutch pannekoek house,pannekoeken with topping cheese,35,g,275,mg,1130,g,49,g,34,g,18,g,0.5,g,4,g,6,g
+125,de dutch pannekoek house,pannekoeken with topping cranberry and icing sugar,10,g,225,mg,590,g,104,g,14,g,1,g,0,g,6,g,53,g
+126,de dutch pannekoek house,pannekoeken with topping debakon and 2 eggs,27,g,665,mg,1580,g,47,g,39,g,7,g,0,g,3,g,1,g
+127,de dutch pannekoek house,pannekoeken with topping debakon and cheese,35,g,280,mg,1850,g,46,g,41,g,15,g,0,g,3,g,3,g
+128,de dutch pannekoek house,pannekoeken with topping debakon and mushrooms,18,g,235,mg,1450,g,45,g,28,g,4,g,0,g,3,g,1,g
+129,de dutch pannekoek house,pannekoeken with topping debakon and stroop,17,g,235,mg,1450,g,44,g,27,g,4,g,0,g,3,g,0,g
+130,de dutch pannekoek house,pannekoeken with topping debakon cottage roll,18,g,235,mg,1450,g,45,g,27,g,4,g,0,g,3,g,1,g
+131,de dutch pannekoek house,pannekoeken with topping debakon mushroom and cheese,35,g,280,mg,1850,g,46,g,42,g,15,g,0,g,3,g,4,g
+132,de dutch pannekoek house,pannekoeken with topping ginger,9,g,205,mg,530,g,128,g,15,g,1,g,0,g,3,g,78,g
+133,de dutch pannekoek house,pannekoeken with topping ham,11,g,230,mg,1660,g,48,g,24,g,1,g,0,g,3,g,3,g
+134,de dutch pannekoek house,pannekoeken with topping ham and 2 eggs,20,g,660,mg,1790,g,50,g,36,g,4,g,0,g,3,g,3,g
+135,de dutch pannekoek house,pannekoeken with topping ham and cheese,28,g,280,mg,2050,g,48,g,37,g,13,g,0,g,3,g,5,g
+136,de dutch pannekoek house,pannekoeken with topping ham and mushroom,11,g,230,mg,1660,g,49,g,25,g,1,g,0,g,3,g,3,g
+137,de dutch pannekoek house,pannekoeken with topping ham and pineapple,11,g,230,mg,1660,g,69,g,24,g,1,g,0,g,4,g,23,g
+138,de dutch pannekoek house,pannekoeken with topping ham mushroom and cheese,36,g,300,mg,2250,g,49,g,45,g,18,g,0.5,g,3,g,6,g
+139,de dutch pannekoek house,pannekoeken with topping icing sugar,9,g,205,mg,530,g,51,g,13,g,1,g,0,g,3,g,7,g
+140,de dutch pannekoek house,pannekoeken with topping lemon,9,g,205,mg,530,g,56,g,13,g,1,g,0,g,5,g,9,g
+141,de dutch pannekoek house,pannekoeken with topping maple syrup,9,g,205,mg,540,g,131,g,13,g,1,g,0,g,3,g,80,g
+142,de dutch pannekoek house,pannekoeken with topping mushroom,9,g,205,mg,540,g,47,g,15,g,1,g,0,g,4,g,2,g
+143,de dutch pannekoek house,pannekoeken with topping mushroom and cheese,26,g,250,mg,930,g,47,g,29,g,13,g,0,g,4,g,4,g
+144,de dutch pannekoek house,pannekoeken with topping ogopogo,19,g,235,mg,720,g,47,g,22,g,7,g,0,g,4,g,1,g
+145,de dutch pannekoek house,pannekoeken with topping peach and whip,28,g,270,mg,640,g,71,g,16,g,13,g,0,g,4,g,23,g
+146,de dutch pannekoek house,pannekoeken with topping pear and maple,12,g,270,mg,710,g,93,g,17,g,2,g,0,g,5,g,30,g
+147,de dutch pannekoek house,pannekoeken with topping pineapple,9,g,205,mg,550,g,78,g,13,g,1,g,0,g,4,g,32,g
+148,de dutch pannekoek house,pannekoeken with topping pineapple whip,28,g,270,mg,660,g,89,g,16,g,13,g,0,g,4,g,38,g
+149,de dutch pannekoek house,pannekoeken with topping raisin and sugar,9,g,205,mg,550,g,113,g,15,g,1,g,0,g,7,g,65,g
+150,de dutch pannekoek house,pannekoeken with topping raspberry whip,28,g,270,mg,640,g,84,g,16,g,13,g,0,g,6,g,33,g
+151,de dutch pannekoek house,pannekoeken with topping sausage,30,g,270,mg,1260,g,47,g,27,g,9,g,0,g,3,g,3,g
+152,de dutch pannekoek house,pannekoeken with topping sausage and 2 eggs,39,g,700,mg,1390,g,49,g,39,g,12,g,0,g,3,g,3,g
+153,de dutch pannekoek house,pannekoeken with topping sausage and apple sauce,30,g,270,mg,1260,g,56,g,26,g,9,g,0,g,4,g,11,g
+154,de dutch pannekoek house,pannekoeken with topping strawberry whip,28,g,270,mg,640,g,86,g,16,g,13,g,0,g,4,g,37,g
+155,de dutch pannekoek house,pannekoeken with topping stroop,9,g,205,mg,600,g,100,g,13,g,1,g,0,g,3,g,25,g
+156,de dutch pannekoek house,pannekoeken with topping turkey bacon,26,g,290,mg,1980,g,48,g,24,g,7,g,0,g,3,g,1,g
+157,de dutch pannekoek house,pannekoeken with topping turkey bacon and 2 eggs,35,g,720,mg,2110,g,50,g,36,g,10,g,0,g,3,g,1,g
+158,de dutch pannekoek house,pannekoeken with topping turkey bacon and cheese,43,g,335,mg,2380,g,48,g,38,g,18,g,0,g,3,g,3,g
+159,de dutch pannekoek house,pannekoeken with topping turkey bacon and mushroom,35,g,320,mg,2900,g,48,g,39,g,10,g,0,g,3,g,1,g
+160,de dutch pannekoek house,pannekoeken with topping turkey bacon and stroop,26,g,290,mg,2040,g,96,g,24,g,7,g,0,g,3,g,17,g
+161,de dutch pannekoek house,pannekoeken with topping turkey bacon mushroom and cheese,43,g,335,mg,2380,g,49,g,39,g,18,g,0,g,3,g,4,g
+162,de dutch pannekoek house,pannekoeken abby perogie,47,g,325,mg,1460,g,89,g,36,g,20,g,0,g,7,g,7,g
+163,de dutch pannekoek house,pannekoeken amsterkoek,90,g,1005,mg,3430,g,69,g,49,g,27,g,0,g,3,g,6,g
+164,de dutch pannekoek house,pannekoeken apple cheddar and stroop,28,g,265,mg,950,g,109,g,27,g,13,g,0,g,5,g,30,g
+165,de dutch pannekoek house,pannekoeken apple debakon and onion,26,g,230,mg,1460,g,85,g,27,g,6,g,0,g,8,g,17,g
+166,de dutch pannekoek house,pannekoeken banana strawberry and whip,28,g,270,mg,650,g,113,g,17,g,13,g,0,g,7,g,52,g
+167,de dutch pannekoek house,pannekoeken boers,97,g,1010,mg,4130,g,106,g,58,g,22,g,0,g,6,g,6,g
+168,de dutch pannekoek house,pannekoeken chocolate strawberry whip,40,g,290,mg,680,g,119,g,20,g,21,g,0,g,4,g,30,g
+169,de dutch pannekoek house,pannekoeken debratwurst and born 3 eggs,46,g,720,mg,1630,g,50,g,43,g,15,g,0,g,3,g,4,g
+170,de dutch pannekoek house,pannekoeken granola,22,g,215,mg,580,g,260,g,22,g,5,g,0,g,12,g,175,g
+171,de dutch pannekoek house,pannekoeken hash,51,g,370,mg,2240,g,95,g,40,g,14,g,0,g,8,g,6,g
+172,de dutch pannekoek house,pannekoeken maple banana walnut,48,g,205,mg,550,g,166,g,23,g,5,g,0,g,10,g,96,g
+173,de dutch pannekoek house,pannekoeken meat lovers and edam cheese,74,g,415,mg,4200,g,51,g,63,g,29,g,0,g,3,g,6,g
+174,de dutch pannekoek house,pannekoeken meat lovers hash,74,g,430,mg,3510,g,97,g,55,g,22,g,0,g,8,g,9,g
+175,de dutch pannekoek house,pannekoeken mixed fresh fruit and whip,28,g,270,mg,650,g,81,g,16,g,13,g,0,g,5,g,14,g
+176,de dutch pannekoek house,pannekoeken peach melba,28,g,270,mg,650,g,78,g,16,g,13,g,0,g,5,g,29,g
+177,de dutch pannekoek house,pannekoeken plain,9,g,205,mg,530,g,44,g,13,g,1,g,0,g,3,g,0,g
+178,de dutch pannekoek house,pannekoeken rio grande,23,g,255,mg,950,g,52,g,22,g,11,g,0,g,5,g,5,g
+179,de dutch pannekoek house,pannekoeken the canadian,25,g,660,mg,1440,g,128,g,37,g,7,g,0,g,3,g,74,g
+180,de dutch pannekoek house,pannekoeken the windmill,79,g,555,mg,2890,g,62,g,40,g,23,g,0,g,3,g,3,g
+181,de dutch pannekoek house,pannekoeken trail mix,22,g,215,mg,570,g,176,g,17,g,6,g,0,g,6,g,119,g
+182,de dutch pannekoek house,pannekoeken vegetarian,27,g,260,mg,910,g,51,g,28,g,13,g,0,g,5,g,6,g
+183,de dutch pannekoek house,pea soup with crackers,1,g,10,mg,380,g,11,g,5,g,0,g,3,g,2,g,2,g
+184,de dutch pannekoek house,pear walnut and feta salad,78,g,45,mg,610,g,34,g,19,g,18,g,0.5,g,8,g,21,g
+185,de dutch pannekoek house,pepsi,0,g,0,mg,15,g,41,g,0,g,0,g,0,g,0,g,41,g
+186,de dutch pannekoek house,plain jane burger,48,g,115,mg,2050,g,26,g,37,g,19,g,0,g,2,g,6,g
+187,de dutch pannekoek house,plain jane chicken burger,17,g,100,mg,2110,g,24,g,32,g,7,g,0,g,1,g,6,g
+188,de dutch pannekoek house,power breakfast with bagel,16,g,15,mg,710,g,169,g,32,g,3,g,0,g,12,g,67,g
+189,de dutch pannekoek house,power breakfast with muffin,19,g,30,mg,360,g,123,g,23,g,4,g,0,g,9,g,59,g
+190,de dutch pannekoek house,power breakfast with toast,24,g,35,mg,460,g,129,g,25,g,9,g,0,g,11,g,64,g
+191,de dutch pannekoek house,quesadilla cheese,58,g,115,mg,1910,g,75,g,28,g,26,g,0,g,10,g,16,g
+192,de dutch pannekoek house,quesadilla chicken,63,g,140,mg,2500,g,77,g,38,g,28,g,0,g,10,g,16,g
+193,de dutch pannekoek house,salmon and eggs with fruit,28,g,465,mg,780,g,87,g,28,g,9,g,0.5,g,9,g,25,g
+194,de dutch pannekoek house,salmon and eggs with salad,42,g,465,mg,790,g,70,g,27,g,10,g,0.5,g,8,g,10,g
+195,de dutch pannekoek house,sandwich pear chicken brie and spinach on sourdough,26,g,125,mg,1220,g,56,g,36,g,12,g,0.5,g,5,g,6,g
+196,de dutch pannekoek house,sausage,21,g,65,mg,730,g,2,g,14,g,8,g,0,g,0,g,2,g
+197,de dutch pannekoek house,schweppes ginger ale,0,g,0,mg,45,g,34,g,0,g,0,g,0,g,0,g,34,g
+198,de dutch pannekoek house,scramble chicken with fruit,46,g,780,mg,1530,g,101,g,49,g,18,g,1,g,12,g,33,g
+199,de dutch pannekoek house,scramble chicken with salad,61,g,780,mg,1540,g,84,g,48,g,19,g,1,g,11,g,18,g
+200,de dutch pannekoek house,scramble cottage roll with salad,62,g,775,mg,1560,g,83,g,48,g,20,g,1,g,11,g,18,g
+201,de dutch pannekoek house,scramble debakon with fruit,47,g,775,mg,1550,g,100,g,48,g,19,g,1,g,12,g,33,g
+202,de dutch pannekoek house,scramble ham with fruit,42,g,775,mg,1690,g,102,g,46,g,17,g,1,g,12,g,34,g
+203,de dutch pannekoek house,scramble ham with salad,57,g,775,mg,1690,g,84,g,46,g,18,g,1,g,11,g,19,g
+204,de dutch pannekoek house,scramble mushroom with fruit,42,g,755,mg,940,g,102,g,41,g,17,g,1,g,13,g,34,g
+205,de dutch pannekoek house,scramble mushroom with salad,56,g,755,mg,950,g,85,g,40,g,18,g,1,g,11,g,19,g
+206,de dutch pannekoek house,scramble original with fruit,41,g,755,mg,940,g,100,g,39,g,17,g,1,g,12,g,33,g
+207,de dutch pannekoek house,scramble original with salad,56,g,755,mg,950,g,83,g,38,g,18,g,1,g,11,g,18,g
+208,de dutch pannekoek house,scramble sausage with fruit,56,g,800,mg,1420,g,101,g,48,g,22,g,1,g,12,g,34,g
+209,de dutch pannekoek house,scramble sausage with salad,70,g,800,mg,1430,g,84,g,47,g,23,g,1,g,11,g,19,g
+210,de dutch pannekoek house,scramble smoked salmon with fruit,43,g,760,mg,1160,g,100,g,44,g,17,g,1,g,12,g,33,g
+211,de dutch pannekoek house,scramble smoked salmon with salad,57,g,760,mg,1170,g,83,g,43,g,18,g,1,g,11,g,18,g
+212,de dutch pannekoek house,scramble spinach with fruit,41,g,755,mg,980,g,103,g,39,g,17,g,1,g,13,g,33,g
+213,de dutch pannekoek house,scramble spinach with salad,56,g,755,mg,990,g,86,g,39,g,18,g,1,g,12,g,18,g
+214,de dutch pannekoek house,scramble turkey bacon with fruit,53,g,810,mg,1900,g,102,g,46,g,21,g,1,g,12,g,33,g
+215,de dutch pannekoek house,scramble turkey bacon with salad,67,g,810,mg,1910,g,85,g,46,g,21,g,1,g,11,g,18,g
+216,de dutch pannekoek house,side salad with dressing,15,g,0,mg,20,g,5,g,1,g,1,g,0,g,1,g,3,g
+217,de dutch pannekoek house,simple simon burger,53,g,90,mg,2230,g,30,g,33,g,16,g,0,g,3,g,10,g
+218,de dutch pannekoek house,simple simon chicken burger,36,g,115,mg,2390,g,30,g,39,g,9,g,0,g,3,g,10,g
+219,de dutch pannekoek house,smoked salmon red onion and brie on sour dough,28,g,85,mg,1430,g,51,g,26,g,16,g,0.5,g,4,g,4,g
+220,de dutch pannekoek house,smoked salmon red onion and brie whole grain,29,g,85,mg,1380,g,45,g,26,g,17,g,0.5,g,6,g,6,g
+221,de dutch pannekoek house,soup of the day with crackers,3,g,25,mg,800,g,17,g,8,g,1,g,3,g,2,g,2,g
+222,de dutch pannekoek house,souper deal pea soup,32,g,20,mg,1070,g,63,g,14,g,13,g,3,g,8,g,16,g
+223,de dutch pannekoek house,souper deal soup of the day,34,g,35,mg,1480,g,69,g,17,g,14,g,3,g,8,g,16,g
+224,de dutch pannekoek house,spinach and mushrooms salad,44,g,20,mg,880,g,62,g,7,g,12,g,0,g,9,g,30,g
+225,de dutch pannekoek house,spinach salad with sliced strawberries,44,g,20,mg,890,g,94,g,7,g,12,g,0,g,11,g,60,g
+226,de dutch pannekoek house,spinach mushroom and feta on sour dough,26,g,70,mg,1580,g,55,g,17,g,15,g,0.5,g,4,g,5,g
+227,de dutch pannekoek house,spinach mushroom and feta on whole grain,26,g,70,mg,1530,g,49,g,17,g,15,g,0.5,g,6,g,7,g
+228,de dutch pannekoek house,spinach mushroom bacon and egg salad,61,g,240,mg,1020,g,39,g,21,g,12,g,0,g,6,g,12,g
+229,de dutch pannekoek house,stormy fruit with bagel,9,g,15,mg,700,g,137,g,26,g,2,g,0,g,10,g,57,g
+230,de dutch pannekoek house,stormy fruit with muffin,14,g,35,mg,410,g,97,g,18,g,3,g,0,g,7,g,49,g
+231,de dutch pannekoek house,stormy fruit with toast,17,g,35,mg,450,g,98,g,20,g,7,g,0,g,9,g,55,g
+232,de dutch pannekoek house,strawberry lemonade,0,g,0,mg,0,g,32,g,0,g,0,g,0,g,1,g,30,g
+233,de dutch pannekoek house,stroop,0,g,0,mg,15,g,12,g,0,g,0,g,0,g,0,g,4,g
+234,de dutch pannekoek house,toastm 2 pieces,10,g,20,mg,310,g,24,g,5,g,5,g,0,g,3,g,5,g
+235,de dutch pannekoek house,turkey bacon,44,g,130,mg,1500,g,4,g,28,g,16,g,0,g,0,g,4,g
+236,de dutch pannekoek house,van gogh salad,25,g,95,mg,1460,g,49,g,41,g,6,g,0,g,7,g,28,g
+237,de dutch pannekoek house,veggie wrap,32,g,30,mg,1650,g,78,g,21,g,8,g,0,g,9,g,9,g
+238,de dutch pannekoek house,zomer salad,43,g,30,mg,1400,g,69,g,14,g,12,g,0,g,8,g,37,g
+239,deli delicious,01 italian dry salami and swiss 4 inch sourdough bread,19,g,50,mg,1100,g,51,g,21,g,8,g,0,g,2,g,1,g
+240,deli delicious,01 italian dry salami and swiss 4 inch wheat bread,21,g,50,mg,950,g,33,g,18,g,8,g,0,g,3,g,1,g
+241,deli delicious,01 italian dry salami and swiss 4 inch white bread,20,g,50,mg,940,g,26,g,18,g,8,g,0,g,1,g,1,g
+242,deli delicious,01 italian dry salami and swiss 6 inch lettuce wrap,22,g,55,mg,850,g,3,g,16,g,9,g,0,g,1,g,1,g
+243,deli delicious,01 italian dry salami and swiss 6 inch sourdough bread,22,g,55,mg,1430,g,76,g,26,g,9,g,0,g,3,g,1,g
+244,deli delicious,01 italian dry salami and swiss 6 inch wheat bread,19,g,40,mg,960,g,48,g,19,g,7,g,0,g,4,g,2,g
+245,deli delicious,01 italian dry salami and swiss 6 inch white bread,24,g,55,mg,1190,g,38,g,21,g,9,g,0,g,2,g,2,g
+246,deli delicious,01 italian dry salami and swiss 8 inch lettuce wrap,29,g,70,mg,1130,g,5,g,21,g,13,g,0,g,2,g,2,g
+247,deli delicious,01 italian dry salami and swiss 8 inch sourdough bread,29,g,70,mg,1900,g,102,g,34,g,12,g,0,g,4,g,1,g
+248,deli delicious,01 italian dry salami and swiss 8 inch wheat bread,32,g,70,mg,1610,g,64,g,29,g,12,g,0,g,6,g,2,g
+249,deli delicious,01 italian dry salami and swiss 8 inch white bread,32,g,70,mg,1580,g,51,g,28,g,12,g,0,g,3,g,2,g
+250,deli delicious,02 ham and swiss 4 inch sourdough bread,8,g,60,mg,1090,g,52,g,26,g,4.5,g,0,g,2,g,2,g
+251,deli delicious,02 ham and swiss 4 inch wheat bread,9,g,60,mg,940,g,34,g,23,g,4.5,g,0,g,3,g,2,g
+252,deli delicious,02 ham and swiss 4 inch white bread,9,g,60,mg,930,g,27,g,23,g,4.5,g,0,g,1,g,2,g
+253,deli delicious,02 ham and swiss 6 inch lettuce wrap,8,g,65,mg,840,g,5,g,22,g,4.5,g,0,g,1,g,2,g
+254,deli delicious,02 ham and swiss 6 inch sourdough bread,8,g,65,mg,1410,g,77,g,32,g,4.5,g,0,g,3,g,2,g
+255,deli delicious,02 ham and swiss 6 inch wheat bread,11,g,65,mg,1220,g,49,g,28,g,4.5,g,0,g,4,g,3,g
+256,deli delicious,02 ham and swiss 6 inch white bread,10,g,65,mg,1170,g,39,g,27,g,4.5,g,0,g,2,g,3,g
+257,deli delicious,02 ham and swiss 8 inch lettuce wrap,11,g,85,mg,1110,g,6,g,29,g,6,g,0,g,2,g,3,g
+258,deli delicious,02 ham and swiss 8 inch sourdough bread,11,g,85,mg,1890,g,103,g,42,g,6,g,0,g,4,g,2,g
+259,deli delicious,02 ham and swiss 8 inch wheat bread,14,g,85,mg,1590,g,66,g,37,g,6,g,0,g,6,g,4,g
+260,deli delicious,02 ham and swiss 8 inch white bread,14,g,85,mg,1560,g,52,g,36,g,6,g,0,g,3,g,4,g
+261,deli delicious,03 pepperoni and provolone 4 inch sourdough bread,20,g,50,mg,1110,g,50,g,21,g,9,g,0,g,2,g,0,g
+262,deli delicious,03 pepperoni and provolone 4 inch wheat bread,22,g,50,mg,960,g,32,g,18,g,9,g,0,g,3,g,1,g
+263,deli delicious,03 pepperoni and provolone 4 inch white bread,21,g,50,mg,950,g,25,g,18,g,9,g,0,g,1,g,1,g
+264,deli delicious,03 pepperoni and provolone 6 inch lettuce wrap,33,g,80,mg,1190,g,2,g,21,g,13,g,0,g,1,g,1,g
+265,deli delicious,03 pepperoni and provolone 6 inch sourdough bread,32,g,80,mg,1770,g,75,g,31,g,13,g,0,g,3,g,0,g
+266,deli delicious,03 pepperoni and provolone 6 inch wheat bread,35,g,80,mg,1570,g,47,g,27,g,13,g,0,g,4,g,1,g
+267,deli delicious,03 pepperoni and provolone 6 inch white bread,35,g,80,mg,1530,g,37,g,27,g,13,g,0,g,2,g,1,g
+268,deli delicious,03 pepperoni and provolone 8 inch lettuce wrap,49,g,120,mg,1790,g,4,g,31,g,20,g,0,g,2,g,1,g
+269,deli delicious,03 pepperoni and provolone 8 inch sourdough bread,49,g,120,mg,2560,g,100,g,44,g,20,g,0,g,4,g,0,g
+270,deli delicious,03 pepperoni and provolone 8 inch wheat bread,52,g,120,mg,2260,g,63,g,39,g,20,g,0,g,6,g,2,g
+271,deli delicious,03 pepperoni and provolone 8 inch white bread,52,g,120,mg,2230,g,49,g,39,g,20,g,0,g,3,g,2,g
+272,deli delicious,04 turkey breast and swiss 4 inch sourdough bread,8,g,50,mg,1060,g,54,g,23,g,4.5,g,0,g,2,g,0,g
+273,deli delicious,04 turkey breast and swiss 4 inch wheat bread,10,g,50,mg,920,g,35,g,20,g,4.5,g,0,g,3,g,1,g
+274,deli delicious,04 turkey breast and swiss 4 inch white bread,10,g,50,mg,900,g,28,g,20,g,4.5,g,0,g,1,g,1,g
+275,deli delicious,04 turkey breast and swiss 6 inch lettuce wrap,9,g,60,mg,800,g,6,g,19,g,4.5,g,0,g,1,g,1,g
+276,deli delicious,04 turkey breast and swiss 6 inch sourdough bread,9,g,60,mg,1380,g,79,g,29,g,4.5,g,0,g,3,g,0,g
+277,deli delicious,04 turkey breast and swiss 6 inch wheat bread,11,g,60,mg,1190,g,51,g,25,g,4.5,g,0,g,4,g,1,g
+278,deli delicious,04 turkey breast and swiss 6 inch white bread,11,g,60,mg,1140,g,41,g,24,g,4.5,g,0,g,2,g,1,g
+279,deli delicious,04 turkey breast and swiss 8 inch lettuce wrap,12,g,75,mg,1850,g,108,g,39,g,6,g,0,g,5,g,1,g
+280,deli delicious,04 turkey breast and swiss 8 inch sourdough bread,12,g,75,mg,1850,g,105,g,38,g,6,g,0,g,4,g,0,g
+281,deli delicious,04 turkey breast and swiss 8 inch wheat bread,15,g,75,mg,1550,g,68,g,33,g,6,g,0,g,6,g,2,g
+282,deli delicious,04 turkey breast and swiss 8 inch white bread,15,g,75,mg,1520,g,54,g,32,g,6,g,0,g,3,g,2,g
+283,deli delicious,05 roast beef and jack 4 inch sourdough bread,7,g,25,mg,1040,g,51,g,25,g,4,g,0,g,2,g,0,g
+284,deli delicious,05 roast beef and jack 4 inch wheat bread,9,g,25,mg,890,g,33,g,22,g,4,g,0,g,3,g,1,g
+285,deli delicious,05 roast beef and jack 4 inch white bread,9,g,25,mg,870,g,26,g,22,g,4,g,0,g,1,g,1,g
+286,deli delicious,05 roast beef and jack 6 inch lettuce wrap,13,g,40,mg,840,g,4,g,24,g,7,g,0,g,1,g,1,g
+287,deli delicious,05 roast beef and jack 6 inch sourdough bread,12,g,40,mg,1420,g,76,g,34,g,7,g,0,g,3,g,0,g
+288,deli delicious,05 roast beef and jack 6 inch wheat bread,15,g,40,mg,1220,g,48,g,30,g,7,g,0,g,4,g,1,g
+289,deli delicious,05 roast beef and jack 6 inch white bread,15,g,40,mg,1180,g,38,g,30,g,7,g,0,g,2,g,1,g
+290,deli delicious,05 roast beef and jack 8 inch lettuce wrap,18,g,60,mg,1150,g,5,g,34,g,10,g,0,g,2,g,1,g
+291,deli delicious,05 roast beef and jack 8 inch sourdough bread,18,g,60,mg,1920,g,102,g,47,g,10,g,0,g,4,g,0,g
+292,deli delicious,05 roast beef and jack 8 inch wheat bread,21,g,60,mg,1630,g,64,g,42,g,10,g,0,g,6,g,2,g
+293,deli delicious,05 roast beef and jack 8 inch white bread,21,g,60,mg,1600,g,51,g,41,g,10,g,0,g,3,g,2,g
+294,deli delicious,06 pastrami and swiss 4 inch sourdough bread,14,g,70,mg,960,g,68,g,28,g,11,g,0,g,2,g,0,g
+295,deli delicious,06 pastrami and swiss 4 inch wheat bread,15,g,70,mg,820,g,49,g,25,g,11,g,0,g,3,g,1,g
+296,deli delicious,06 pastrami and swiss 4 inch white bread,15,g,70,mg,800,g,42,g,25,g,11,g,0,g,1,g,1,g
+297,deli delicious,06 pastrami and swiss 6 inch lettuce wrap,15,g,80,mg,680,g,23,g,25,g,13,g,0,g,1,g,1,g
+298,deli delicious,06 pastrami and swiss 6 inch sourdough bread,15,g,80,mg,1260,g,96,g,35,g,13,g,0,g,3,g,0,g
+299,deli delicious,06 pastrami and swiss 6 inch wheat bread,17,g,80,mg,1060,g,68,g,31,g,13,g,0,g,4,g,1,g
+300,deli delicious,06 pastrami and swiss 6 inch white bread,17,g,80,mg,1020,g,58,g,30,g,13,g,0,g,2,g,1,g
+301,deli delicious,06 pastrami and swiss 8 inch lettuce wrap,20,g,105,mg,910,g,31,g,33,g,17,g,0,g,2,g,1,g
+302,deli delicious,06 pastrami and swiss 8 inch sourdough bread,20,g,105,mg,1680,g,128,g,46,g,17,g,0,g,4,g,0,g
+303,deli delicious,06 pastrami and swiss 8 inch wheat bread,23,g,105,mg,1390,g,90,g,41,g,17,g,0,g,6,g,2,g
+304,deli delicious,06 pastrami and swiss 8 inch white bread,23,g,105,mg,1360,g,77,g,40,g,17,g,0,g,3,g,2,g
+305,deli delicious,07 ham and salami 4 inch sourdough bread,7,g,40,mg,1180,g,51,g,20,g,2.5,g,0,g,2,g,1,g
+306,deli delicious,07 ham and salami 4 inch wheat bread,8,g,40,mg,1040,g,32,g,18,g,2.5,g,0,g,3,g,2,g
+307,deli delicious,07 ham and salami 4 inch white bread,8,g,40,mg,1020,g,26,g,17,g,2.5,g,0,g,1,g,2,g
+308,deli delicious,07 ham and salami 6 inch lettuce wrap,12,g,55,mg,1070,g,3,g,17,g,4,g,0,g,1,g,2,g
+309,deli delicious,07 ham and salami 6 inch sourdough bread,12,g,55,mg,1650,g,76,g,27,g,4,g,0,g,3,g,1,g
+310,deli delicious,07 ham and salami 6 inch wheat bread,14,g,55,mg,1450,g,48,g,23,g,4,g,0,g,4,g,2,g
+311,deli delicious,07 ham and salami 6 inch white bread,14,g,55,mg,1400,g,38,g,23,g,4,g,0,g,2,g,2,g
+312,deli delicious,07 ham and salami 8 inch lettuce wrap,18,g,70,mg,1470,g,5,g,23,g,6,g,0,g,2,g,3,g
+313,deli delicious,07 ham and salami 8 inch sourdough bread,18,g,70,mg,2240,g,101,g,36,g,6,g,0,g,4,g,2,g
+314,deli delicious,07 ham and salami 8 inch wheat bread,21,g,70,mg,1950,g,64,g,31,g,6,g,0,g,6,g,3,g
+315,deli delicious,07 ham and salami 8 inch white bread,20,g,70,mg,1920,g,50,g,30,g,6,g,0,g,3,g,3,g
+316,deli delicious,08 ham and turkey 4 inch sourdough bread,2,g,35,mg,1040,g,52,g,19,g,0.5,g,0,g,2,g,1,g
+317,deli delicious,08 ham and turkey 4 inch wheat bread,4,g,35,mg,890,g,33,g,16,g,0.5,g,0,g,3,g,1,g
+318,deli delicious,08 ham and turkey 4 inch white bread,3.5,g,35,mg,870,g,26,g,16,g,0.5,g,0,g,1,g,1,g
+319,deli delicious,08 ham and turkey 6 inch lettuce wrap,3,g,40,mg,780,g,4,g,14,g,1,g,0,g,1,g,1,g
+320,deli delicious,08 ham and turkey 6 inch sourdough bread,2.5,g,40,mg,1360,g,77,g,24,g,1,g,0,g,3,g,1,g
+321,deli delicious,08 ham and turkey 6 inch wheat bread,5,g,40,mg,1160,g,49,g,20,g,1,g,0,g,4,g,2,g
+322,deli delicious,08 ham and turkey 6 inch white bread,5,g,40,mg,1120,g,39,g,20,g,1,g,0,g,2,g,2,g
+323,deli delicious,08 ham and turkey 8 inch lettuce wrap,4,g,55,mg,1040,g,6,g,19,g,1,g,0,g,2,g,2,g
+324,deli delicious,08 ham and turkey 8 inch sourdough bread,3.5,g,55,mg,1810,g,103,g,32,g,1,g,0,g,4,g,1,g
+325,deli delicious,08 ham and turkey 8 inch wheat bread,7,g,55,mg,1520,g,65,g,27,g,1,g,0,g,6,g,2,g
+326,deli delicious,08 ham and turkey 8 inch white bread,6,g,55,mg,1490,g,52,g,27,g,1,g,0,g,3,g,2,g
+327,deli delicious,09 roast beef and turkey 4 inch sourdough bread,3,g,20,mg,990,g,52,g,19,g,1,g,0,g,2,g,0,g
+328,deli delicious,09 roast beef and turkey 4 inch wheat bread,4.5,g,20,mg,840,g,33,g,16,g,1,g,0,g,3,g,1,g
+329,deli delicious,09 roast beef and turkey 4 inch white bread,4.5,g,20,mg,830,g,26,g,16,g,1,g,0,g,1,g,1,g
+330,deli delicious,09 roast beef and turkey 6 inch lettuce wrap,3.5,g,25,mg,730,g,4,g,15,g,1,g,0,g,1,g,1,g
+331,deli delicious,09 roast beef and turkey 6 inch sourdough bread,3.5,g,25,mg,1310,g,77,g,25,g,1,g,0,g,3,g,0,g
+332,deli delicious,09 roast beef and turkey 6 inch wheat bread,6,g,25,mg,1110,g,49,g,21,g,1,g,0,g,4,g,1,g
+333,deli delicious,09 roast beef and turkey 6 inch white bread,6,g,25,mg,1060,g,39,g,21,g,1,g,0,g,2,g,1,g
+334,deli delicious,09 roast beef and turkey 8 inch lettuce wrap,5,g,35,mg,970,g,6,g,20,g,1.5,g,0,g,2,g,1,g
+335,deli delicious,09 roast beef and turkey 8 inch sourdough bread,4.5,g,35,mg,1740,g,103,g,34,g,1.5,g,0,g,4,g,0,g
+336,deli delicious,09 roast beef and turkey 8 inch wheat bread,8,g,35,mg,1450,g,65,g,28,g,1.5,g,0,g,6,g,1,g
+337,deli delicious,09 roast beef and turkey 8 inch white bread,7,g,35,mg,1420,g,52,g,28,g,1.5,g,0,g,3,g,1,g
+338,deli delicious,21 turkey avocado sprouts and cream cheese 4 inch sourdough bread,10,g,45,mg,1070,g,54,g,19,g,3.5,g,0,g,3,g,1,g
+339,deli delicious,21 turkey avocado sprouts and cream cheese 4 inch wheat bread,11,g,45,mg,920,g,36,g,16,g,3.5,g,0,g,4,g,1,g
+340,deli delicious,21 turkey avocado sprouts and cream cheese 4 inch white bread,11,g,45,mg,910,g,29,g,16,g,3.5,g,0,g,3,g,1,g
+341,deli delicious,21 turkey avocado sprouts and cream cheese 6 inch lettuce wrap,14,g,60,mg,830,g,8,g,15,g,5,g,0,g,3,g,1,g
+342,deli delicious,21 turkey avocado sprouts and cream cheese 6 inch sourdough bread,14,g,60,mg,1410,g,81,g,25,g,5,g,0,g,4,g,1,g
+343,deli delicious,21 turkey avocado sprouts and cream cheese 6 inch wheat bread,16,g,60,mg,1220,g,53,g,21,g,5,g,0,g,6,g,2,g
+344,deli delicious,21 turkey avocado sprouts and cream cheese 6 inch white bread,16,g,60,mg,1170,g,42,g,21,g,5,g,0,g,4,g,2,g
+345,deli delicious,21 turkey avocado sprouts and cream cheese 8 inch lettuce wrap,19,g,80,mg,1110,g,11,g,20,g,7,g,0,g,4,g,2,g
+346,deli delicious,21 turkey avocado sprouts and cream cheese 8 inch sourdough bread,18,g,80,mg,1890,g,108,g,34,g,7,g,0,g,6,g,1,g
+347,deli delicious,21 turkey avocado sprouts and cream cheese 8 inch wheat bread,21,g,80,mg,1590,g,70,g,28,g,7,g,0,g,8,g,2,g
+348,deli delicious,21 turkey avocado sprouts and cream cheese 8 inch white bread,21,g,80,mg,1560,g,57,g,28,g,7,g,0,g,5,g,2,g
+349,deli delicious,22 albacore white tuna and swiss 4 inch sourdough bread,16,g,40,mg,780,g,51,g,16,g,9,g,0,g,2,g,0,g
+350,deli delicious,22 albacore white tuna and swiss 4 inch wheat bread,18,g,40,mg,630,g,32,g,14,g,9,g,0,g,3,g,1,g
+351,deli delicious,22 albacore white tuna and swiss 4 inch white bread,18,g,40,mg,620,g,25,g,14,g,9,g,0,g,1,g,1,g
+352,deli delicious,22 albacore white tuna and swiss 6 inch lettuce wrap,22,g,55,mg,560,g,3,g,12,g,11,g,0,g,1,g,1,g
+353,deli delicious,22 albacore white tuna and swiss 6 inch sourdough bread,22,g,55,mg,1140,g,76,g,22,g,11,g,0,g,3,g,0,g
+354,deli delicious,22 albacore white tuna and swiss 6 inch wheat bread,24,g,55,mg,940,g,48,g,18,g,11,g,0,g,4,g,1,g
+355,deli delicious,22 albacore white tuna and swiss 6 inch white bread,24,g,55,mg,900,g,38,g,17,g,11,g,0,g,2,g,1,g
+356,deli delicious,22 albacore white tuna and swiss 8 inch lettuce wrap,29,g,70,mg,750,g,4,g,16,g,15,g,0,g,2,g,1,g
+357,deli delicious,22 albacore white tuna and swiss 8 inch sourdough bread,29,g,70,mg,1520,g,101,g,29,g,15,g,0,g,4,g,0,g
+358,deli delicious,22 albacore white tuna and swiss 8 inch wheat bread,32,g,70,mg,1230,g,64,g,24,g,15,g,0,g,6,g,2,g
+359,deli delicious,22 albacore white tuna and swiss 8 inch white bread,32,g,70,mg,1200,g,50,g,23,g,15,g,0,g,3,g,2,g
+360,deli delicious,23 ham bacon sprouts avocado and swiss 4 inch sourdough bread,17,g,55,mg,960,g,53,g,24,g,7,g,0,g,3,g,1,g
+361,deli delicious,23 ham bacon sprouts avocado and swiss 4 inch wheat bread,18,g,55,mg,810,g,35,g,21,g,7,g,0,g,4,g,2,g
+362,deli delicious,23 ham bacon sprouts avocado and swiss 4 inch white bread,25,g,65,mg,800,g,28,g,21,g,9,g,0,g,3,g,2,g
+363,deli delicious,23 ham bacon sprouts avocado and swiss 6 inch lettuce wrap,18,g,55,mg,580,g,6,g,18,g,7,g,0,g,3,g,2,g
+364,deli delicious,23 ham bacon sprouts avocado and swiss 6 inch sourdough bread,18,g,55,mg,1160,g,79,g,28,g,7,g,0,g,4,g,1,g
+365,deli delicious,23 ham bacon sprouts avocado and swiss 6 inch wheat bread,20,g,55,mg,960,g,51,g,24,g,7,g,0,g,6,g,2,g
+366,deli delicious,23 ham bacon sprouts avocado and swiss 6 inch white bread,20,g,55,mg,910,g,41,g,23,g,7,g,0,g,4,g,2,g
+367,deli delicious,23 ham bacon sprouts avocado and swiss 8 inch lettuce wrap,28,g,70,mg,600,g,8,g,20,g,11,g,0,g,4,g,3,g
+368,deli delicious,23 ham bacon sprouts avocado and swiss 8 inch sourdough bread,28,g,70,mg,1370,g,105,g,33,g,11,g,0,g,6,g,2,g
+369,deli delicious,23 ham bacon sprouts avocado and swiss 8 inch wheat bread,31,g,70,mg,1070,g,68,g,28,g,11,g,0,g,8,g,3,g
+370,deli delicious,23 ham bacon sprouts avocado and swiss 8 inch white bread,31,g,70,mg,1040,g,54,g,28,g,11,g,0,g,5,g,3,g
+371,deli delicious,24 turkey avocado sprouts and swiss 4 inch sourdough bread,11,g,50,mg,1060,g,55,g,24,g,4.5,g,0,g,3,g,0,g
+372,deli delicious,24 turkey avocado sprouts and swiss 4 inch wheat bread,12,g,50,mg,920,g,36,g,21,g,4.5,g,0,g,4,g,1,g
+373,deli delicious,24 turkey avocado sprouts and swiss 4 inch white bread,12,g,50,mg,900,g,29,g,21,g,4.5,g,0,g,3,g,1,g
+374,deli delicious,24 turkey avocado sprouts and swiss 6 inch lettuce wrap,12,g,60,mg,810,g,8,g,20,g,5,g,0,g,3,g,1,g
+375,deli delicious,24 turkey avocado sprouts and swiss 6 inch sourdough bread,12,g,60,mg,1390,g,81,g,30,g,5,g,0,g,4,g,0,g
+376,deli delicious,24 turkey avocado sprouts and swiss 6 inch wheat bread,15,g,60,mg,1190,g,53,g,26,g,5,g,0,g,6,g,1,g
+377,deli delicious,24 turkey avocado sprouts and swiss 6 inch white bread,14,g,60,mg,1150,g,43,g,25,g,5,g,0,g,4,g,1,g
+378,deli delicious,24 turkey avocado sprouts and swiss 8 inch lettuce wrap,17,g,75,mg,1080,g,11,g,26,g,7,g,0,g,4,g,1,g
+379,deli delicious,24 turkey avocado sprouts and swiss 8 inch sourdough bread,16,g,75,mg,1850,g,108,g,40,g,7,g,0,g,6,g,0,g
+380,deli delicious,24 turkey avocado sprouts and swiss 8 inch wheat bread,20,g,75,mg,1560,g,71,g,34,g,7,g,0,g,8,g,2,g
+381,deli delicious,24 turkey avocado sprouts and swiss 8 inch white bread,19,g,75,mg,1530,g,57,g,34,g,7,g,0,g,5,g,2,g
+382,deli delicious,25 salami avocado sprouts and cream cheese 4 inch sourdough bread,20,g,45,mg,1110,g,52,g,16,g,8,g,0,g,3,g,1,g
+383,deli delicious,25 salami avocado sprouts and cream cheese 4 inch wheat bread,22,g,45,mg,960,g,34,g,14,g,8,g,0,g,4,g,2,g
+384,deli delicious,25 salami avocado sprouts and cream cheese 4 inch white bread,22,g,45,mg,950,g,27,g,13,g,8,g,0,g,3,g,2,g
+385,deli delicious,25 salami avocado sprouts and cream cheese 6 inch lettuce wrap,27,g,55,mg,880,g,5,g,12,g,10,g,0,g,3,g,2,g
+386,deli delicious,25 salami avocado sprouts and cream cheese 6 inch sourdough bread,26,g,55,mg,1460,g,78,g,22,g,10,g,0,g,4,g,1,g
+387,deli delicious,25 salami avocado sprouts and cream cheese 6 inch wheat bread,29,g,55,mg,1260,g,50,g,18,g,10,g,0,g,6,g,2,g
+388,deli delicious,25 salami avocado sprouts and cream cheese 6 inch white bread,29,g,55,mg,1220,g,40,g,18,g,10,g,0,g,4,g,2,g
+389,deli delicious,25 salami avocado sprouts and cream cheese 8 inch lettuce wrap,35,g,75,mg,1170,g,7,g,16,g,14,g,0,g,4,g,3,g
+390,deli delicious,25 salami avocado sprouts and cream cheese 8 inch sourdough bread,35,g,75,mg,1940,g,104,g,30,g,14,g,0,g,6,g,2,g
+391,deli delicious,25 salami avocado sprouts and cream cheese 8 inch wheat bread,38,g,75,mg,1650,g,67,g,24,g,14,g,0,g,8,g,3,g
+392,deli delicious,25 salami avocado sprouts and cream cheese 8 inch white bread,38,g,75,mg,1620,g,53,g,24,g,14,g,0,g,5,g,3,g
+393,deli delicious,26 turkey bacon avocado and provolone 4 inch sourdough bread,19,g,50,mg,1150,g,54,g,23,g,8,g,0,g,3,g,0,g
+394,deli delicious,26 turkey bacon avocado and provolone 4 inch wheat bread,20,g,50,mg,1000,g,35,g,20,g,8,g,0,g,4,g,1,g
+395,deli delicious,26 turkey bacon avocado and provolone 4 inch white bread,20,g,50,mg,990,g,28,g,20,g,8,g,0,g,2,g,1,g
+396,deli delicious,26 turkey bacon avocado and provolone 6 inch lettuce wrap,20,g,50,mg,760,g,6,g,16,g,8,g,0,g,3,g,1,g
+397,deli delicious,26 turkey bacon avocado and provolone 6 inch sourdough bread,20,g,50,mg,1340,g,79,g,26,g,8,g,0,g,4,g,0,g
+398,deli delicious,26 turkey bacon avocado and provolone 6 inch wheat bread,22,g,50,mg,1140,g,51,g,22,g,8,g,0,g,6,g,1,g
+399,deli delicious,26 turkey bacon avocado and provolone 6 inch white bread,22,g,50,mg,1100,g,41,g,22,g,8,g,0,g,4,g,1,g
+400,deli delicious,26 turkey bacon avocado and provolone 8 inch lettuce wrap,32,g,70,mg,890,g,8,g,21,g,13,g,0,g,4,g,1,g
+401,deli delicious,26 turkey bacon avocado and provolone 8 inch sourdough bread,32,g,70,mg,1660,g,105,g,34,g,13,g,0,g,6,g,0,g
+402,deli delicious,26 turkey bacon avocado and provolone 8 inch wheat bread,35,g,70,mg,1370,g,68,g,28,g,13,g,0,g,7,g,2,g
+403,deli delicious,26 turkey bacon avocado and provolone 8 inch white bread,35,g,70,mg,1340,g,54,g,28,g,13,g,0,g,5,g,2,g
+404,deli delicious,27 veggie avocado sprouts cucumber provolone and cream cheese 4 inch sourdough bread,13,g,30,mg,620,g,53,g,14,g,7,g,0,g,3,g,1,g
+405,deli delicious,27 veggie avocado sprouts cucumber provolone and cream cheese 4 inch wheat bread,14,g,30,mg,480,g,34,g,11,g,7,g,0,g,4,g,2,g
+406,deli delicious,27 veggie avocado sprouts cucumber provolone and cream cheese 4 inch white bread,14,g,30,mg,460,g,27,g,11,g,7,g,0,g,3,g,2,g
+407,deli delicious,27 veggie avocado sprouts cucumber provolone and cream cheese 6 inch lettuce wrap,18,g,45,mg,320,g,6,g,10,g,9,g,0,g,3,g,2,g
+408,deli delicious,27 veggie avocado sprouts cucumber provolone and cream cheese 6 inch sourdough bread,18,g,45,mg,900,g,79,g,20,g,9,g,0,g,5,g,1,g
+409,deli delicious,27 veggie avocado sprouts cucumber provolone and cream cheese 6 inch wheat bread,21,g,45,mg,700,g,51,g,16,g,9,g,0,g,6,g,2,g
+410,deli delicious,27 veggie avocado sprouts cucumber provolone and cream cheese 6 inch white bread,20,g,45,mg,660,g,41,g,16,g,9,g,0,g,4,g,2,g
+411,deli delicious,27 veggie avocado sprouts cucumber provolone and cream cheese 8 inch lettuce wrap,26,g,60,mg,470,g,9,g,15,g,13,g,0,g,4,g,3,g
+412,deli delicious,27 veggie avocado sprouts cucumber provolone and cream cheese 8 inch sourdough bread,26,g,60,mg,1250,g,105,g,28,g,13,g,0,g,6,g,2,g
+413,deli delicious,27 veggie avocado sprouts cucumber provolone and cream cheese 8 inch wheat bread,29,g,60,mg,950,g,68,g,23,g,13,g,0,g,8,g,3,g
+414,deli delicious,27 veggie avocado sprouts cucumber provolone and cream cheese 8 inch white bread,28,g,60,mg,920,g,55,g,23,g,13,g,0,g,5,g,3,g
+415,deli delicious,28 smoked turkey and provolone 4 inch sourdough bread,1,g,25,mg,1120,g,54,g,17,g,0,g,0,g,2,g,0,g
+416,deli delicious,28 smoked turkey and provolone 4 inch wheat bread,2.5,g,25,mg,970,g,35,g,15,g,0,g,0,g,3,g,1,g
+417,deli delicious,28 smoked turkey and provolone 4 inch white bread,2.5,g,25,mg,960,g,28,g,15,g,0,g,0,g,1,g,1,g
+418,deli delicious,28 smoked turkey and provolone 6 inch lettuce wrap,8,g,50,mg,1120,g,7,g,20,g,5,g,0,g,1,g,1,g
+419,deli delicious,28 smoked turkey and provolone 6 inch sourdough bread,8,g,50,mg,1700,g,80,g,30,g,5,g,0,g,3,g,0,g
+420,deli delicious,28 smoked turkey and provolone 6 inch wheat bread,11,g,50,mg,1500,g,52,g,26,g,5,g,0,g,4,g,1,g
+421,deli delicious,28 smoked turkey and provolone 6 inch white bread,10,g,50,mg,1460,g,42,g,26,g,5,g,0,g,2,g,1,g
+422,deli delicious,28 smoked turkey and provolone 8 inch lettuce wrap,13,g,70,mg,1530,g,10,g,28,g,7,g,0,g,2,g,1,g
+423,deli delicious,28 smoked turkey and provolone 8 inch sourdough bread,12,g,70,mg,2300,g,106,g,41,g,7,g,0,g,4,g,0,g
+424,deli delicious,28 smoked turkey and provolone 8 inch wheat bread,16,g,70,mg,2010,g,69,g,36,g,7,g,0,g,6,g,2,g
+425,deli delicious,28 smoked turkey and provolone 8 inch white bread,15,g,70,mg,1980,g,56,g,36,g,7,g,0,g,3,g,2,g
+426,deli delicious,29 albacore tuna sprouts avocado and cream cheese 4 inch sourdough bread,18,g,40,mg,780,g,52,g,12,g,8,g,0,g,3,g,1,g
+427,deli delicious,29 albacore tuna sprouts avocado and cream cheese 4 inch wheat bread,19,g,40,mg,640,g,33,g,9,g,8,g,0,g,4,g,1,g
+428,deli delicious,29 albacore tuna sprouts avocado and cream cheese 4 inch white bread,19,g,40,mg,620,g,26,g,9,g,8,g,0,g,3,g,1,g
+429,deli delicious,29 albacore tuna sprouts avocado and cream cheese 6 inch lettuce wrap,27,g,55,mg,590,g,5,g,8,g,12,g,0,g,3,g,1,g
+430,deli delicious,29 albacore tuna sprouts avocado and cream cheese 6 inch sourdough bread,26,g,55,mg,1170,g,78,g,18,g,12,g,0,g,4,g,1,g
+431,deli delicious,29 albacore tuna sprouts avocado and cream cheese 6 inch wheat bread,29,g,55,mg,970,g,50,g,14,g,12,g,0,g,6,g,2,g
+432,deli delicious,29 albacore tuna sprouts avocado and cream cheese 6 inch white bread,29,g,55,mg,930,g,39,g,14,g,12,g,0,g,4,g,2,g
+433,deli delicious,29 albacore tuna sprouts avocado and cream cheese 8 inch lettuce wrap,35,g,75,mg,790,g,7,g,11,g,16,g,0,g,4,g,2,g
+434,deli delicious,29 albacore tuna sprouts avocado and cream cheese 8 inch sourdough bread,35,g,75,mg,1560,g,104,g,24,g,16,g,0,g,6,g,1,g
+435,deli delicious,29 albacore tuna sprouts avocado and cream cheese 8 inch wheat bread,38,g,75,mg,1270,g,66,g,19,g,16,g,0,g,8,g,2,g
+436,deli delicious,29 albacore tuna sprouts avocado and cream cheese 8 inch white bread,38,g,75,mg,1240,g,53,g,19,g,16,g,0,g,5,g,2,g
+437,deli delicious,31 french dip and jack cheese 4 inch sourdough bread,23,g,45,mg,2210,g,57,g,28,g,8,g,0,g,2,g,0,g
+438,deli delicious,31 french dip and jack cheese 4 inch wheat bread,24,g,45,mg,2060,g,38,g,25,g,8,g,0,g,3,g,1,g
+439,deli delicious,31 french dip and jack cheese 4 inch white bread,24,g,45,mg,2050,g,31,g,25,g,8,g,0,g,1,g,1,g
+440,deli delicious,31 french dip and jack cheese 6 inch lettuce wrap,32,g,70,mg,2130,g,9,g,31,g,14,g,0,g,1,g,1,g
+441,deli delicious,31 french dip and jack cheese 6 inch sourdough bread,32,g,70,mg,2710,g,82,g,41,g,14,g,0,g,3,g,0,g
+442,deli delicious,31 french dip and jack cheese 6 inch wheat bread,34,g,70,mg,2510,g,54,g,37,g,14,g,0,g,4,g,1,g
+443,deli delicious,31 french dip and jack cheese 6 inch white bread,34,g,70,mg,2470,g,44,g,37,g,14,g,0,g,2,g,1,g
+444,deli delicious,31 french dip and jack cheese 8 inch lettuce wrap,53,g,105,mg,2570,g,11,g,44,g,22,g,0,g,2,g,1,g
+445,deli delicious,31 french dip and jack cheese 8 inch sourdough bread,53,g,105,mg,3340,g,108,g,57,g,22,g,0,g,4,g,0,g
+446,deli delicious,31 french dip and jack cheese 8 inch wheat bread,56,g,105,mg,3050,g,70,g,52,g,22,g,0,g,6,g,2,g
+447,deli delicious,31 french dip and jack cheese 8 inch white bread,55,g,105,mg,3020,g,57,g,52,g,22,g,0,g,3,g,2,g
+448,deli delicious,32 bbq beef and provolone cheese 4 inch sourdough bread,7,g,20,mg,1180,g,57,g,25,g,3.5,g,0,g,2,g,5,g
+449,deli delicious,32 bbq beef and provolone cheese 4 inch wheat bread,9,g,20,mg,1030,g,39,g,22,g,3.5,g,0,g,3,g,6,g
+450,deli delicious,32 bbq beef and provolone cheese 4 inch white bread,8,g,20,mg,1020,g,32,g,22,g,3.5,g,0,g,1,g,6,g
+451,deli delicious,32 bbq beef and provolone cheese 6 inch lettuce wrap,12,g,35,mg,1130,g,16,g,25,g,6,g,0,g,1,g,10,g
+452,deli delicious,32 bbq beef and provolone cheese 6 inch sourdough bread,11,g,35,mg,1700,g,89,g,35,g,6,g,0,g,3,g,10,g
+453,deli delicious,32 bbq beef and provolone cheese 6 inch wheat bread,14,g,35,mg,1510,g,61,g,31,g,6,g,0,g,4,g,11,g
+454,deli delicious,32 bbq beef and provolone cheese 6 inch white bread,13,g,35,mg,1460,g,50,g,30,g,6,g,0,g,2,g,11,g
+455,deli delicious,32 bbq beef and provolone cheese 8 inch lettuce wrap,17,g,50,mg,1480,g,18,g,34,g,9,g,0,g,2,g,11,g
+456,deli delicious,32 bbq beef and provolone cheese 8 inch sourdough bread,16,g,50,mg,2250,g,114,g,47,g,9,g,0,g,4,g,10,g
+457,deli delicious,32 bbq beef and provolone cheese 8 inch wheat bread,20,g,50,mg,1960,g,77,g,42,g,9,g,0,g,6,g,11,g
+458,deli delicious,32 bbq beef and provolone cheese 8 inch white bread,19,g,50,mg,1930,g,63,g,42,g,9,g,0,g,3,g,11,g
+459,deli delicious,33 roast beef mushroom and jack 4 inch sourdough bread,7,g,25,mg,1070,g,52,g,25,g,4,g,0,g,2,g,0,g
+460,deli delicious,33 roast beef mushroom and jack 4 inch wheat bread,9,g,25,mg,930,g,33,g,22,g,4,g,0,g,3,g,1,g
+461,deli delicious,33 roast beef mushroom and jack 4 inch white bread,9,g,25,mg,910,g,26,g,22,g,4,g,0,g,2,g,1,g
+462,deli delicious,33 roast beef mushroom and jack 6 inch lettuce wrap,13,g,40,mg,880,g,4,g,25,g,7,g,0,g,1,g,1,g
+463,deli delicious,33 roast beef mushroom and jack 6 inch sourdough bread,12,g,40,mg,1460,g,77,g,35,g,7,g,0,g,3,g,0,g
+464,deli delicious,33 roast beef mushroom and jack 6 inch wheat bread,15,g,40,mg,1260,g,49,g,31,g,7,g,0,g,4,g,1,g
+465,deli delicious,33 roast beef mushroom and jack 6 inch white bread,15,g,40,mg,1220,g,38,g,30,g,7,g,0,g,2,g,1,g
+466,deli delicious,33 roast beef mushroom and jack 8 inch lettuce wrap,18,g,60,mg,1260,g,6,g,35,g,10,g,0,g,2,g,1,g
+467,deli delicious,33 roast beef mushroom and jack 8 inch sourdough bread,18,g,60,mg,2040,g,103,g,48,g,10,g,0,g,4,g,0,g
+468,deli delicious,33 roast beef mushroom and jack 8 inch wheat bread,21,g,60,mg,1740,g,65,g,43,g,10,g,0,g,6,g,2,g
+469,deli delicious,33 roast beef mushroom and jack 8 inch white bread,21,g,60,mg,1710,g,52,g,42,g,10,g,0,g,4,g,2,g
+470,deli delicious,34 blt 4 inch sourdough bread,42,g,40,mg,410,g,52,g,8,g,14,g,0,g,2,g,1,g
+471,deli delicious,34 blt 4 inch wheat bread,44,g,40,mg,260,g,33,g,5,g,14,g,0,g,3,g,2,g
+472,deli delicious,34 blt 4 inch white bread,44,g,40,mg,250,g,26,g,5,g,14,g,0,g,2,g,2,g
+473,deli delicious,34 blt 6 inch lettuce wrap,57,g,55,mg,25,g,4,g,1,g,18,g,0,g,2,g,2,g
+474,deli delicious,34 blt 6 inch sourdough bread,57,g,55,mg,600,g,77,g,11,g,18,g,0,g,4,g,2,g
+475,deli delicious,34 blt 6 inch wheat bread,59,g,55,mg,410,g,49,g,7,g,18,g,0,g,5,g,3,g
+476,deli delicious,34 blt 6 inch white bread,59,g,55,mg,360,g,39,g,7,g,18,g,0,g,3,g,3,g
+477,deli delicious,34 blt 8 inch lettuce wrap,71,g,70,mg,35,g,7,g,2,g,23,g,0,g,3,g,4,g
+478,deli delicious,34 blt 8 inch sourdough bread,71,g,70,mg,810,g,104,g,15,g,23,g,0,g,5,g,3,g
+479,deli delicious,34 blt 8 inch wheat bread,74,g,70,mg,520,g,66,g,10,g,23,g,0,g,7,g,4,g
+480,deli delicious,34 blt 8 inch white bread,74,g,70,mg,490,g,53,g,10,g,23,g,0,g,4,g,4,g
+481,deli delicious,35 bbq chicken and provolone cheese 4 inch sourdough bread,7,g,70,mg,820,g,57,g,32,g,3.5,g,0,g,2,g,5,g
+482,deli delicious,35 bbq chicken and provolone cheese 4 inch wheat bread,9,g,70,mg,670,g,38,g,29,g,3.5,g,0,g,3,g,6,g
+483,deli delicious,35 bbq chicken and provolone cheese 4 inch white bread,9,g,70,mg,660,g,31,g,29,g,3.5,g,0,g,2,g,6,g
+484,deli delicious,35 bbq chicken and provolone cheese 6 inch lettuce wrap,8,g,80,mg,570,g,15,g,30,g,3.5,g,0,g,2,g,10,g
+485,deli delicious,35 bbq chicken and provolone cheese 6 inch sourdough bread,8,g,80,mg,1150,g,88,g,40,g,3.5,g,0,g,3,g,10,g
+486,deli delicious,35 bbq chicken and provolone cheese 6 inch wheat bread,11,g,80,mg,950,g,60,g,36,g,3.5,g,0,g,5,g,11,g
+487,deli delicious,35 bbq chicken and provolone cheese 6 inch white bread,10,g,80,mg,910,g,49,g,36,g,3.5,g,0,g,2,g,11,g
+488,deli delicious,35 bbq chicken and provolone cheese 8 inch lettuce wrap,17,g,120,mg,900,g,17,g,46,g,9,g,0,g,2,g,11,g
+489,deli delicious,35 bbq chicken and provolone cheese 8 inch sourdough bread,17,g,120,mg,1670,g,113,g,59,g,9,g,0,g,4,g,10,g
+490,deli delicious,35 bbq chicken and provolone cheese 8 inch wheat bread,20,g,120,mg,1380,g,76,g,54,g,9,g,0,g,6,g,11,g
+491,deli delicious,35 bbq chicken and provolone cheese 8 inch white bread,20,g,120,mg,1350,g,62,g,53,g,9,g,0,g,3,g,11,g
+492,deli delicious,36 monterey ranch chicken 4 inch sourdough bread,10,g,75,mg,770,g,51,g,32,g,5,g,0,g,2,g,1,g
+493,deli delicious,36 monterey ranch chicken 4 inch wheat bread,12,g,75,mg,630,g,32,g,29,g,5,g,0,g,3,g,1,g
+494,deli delicious,36 monterey ranch chicken 4 inch white bread,12,g,75,mg,610,g,26,g,29,g,5,g,0,g,2,g,1,g
+495,deli delicious,36 monterey ranch chicken 6 inch lettuce wrap,18,g,100,mg,4450,g,4,g,34,g,9,g,0,g,2,g,2,g
+496,deli delicious,36 monterey ranch chicken 6 inch sourdough bread,18,g,100,mg,5030,g,76,g,44,g,9,g,0,g,3,g,1,g
+497,deli delicious,36 monterey ranch chicken 6 inch wheat bread,20,g,100,mg,990,g,48,g,40,g,9,g,0,g,5,g,2,g
+498,deli delicious,36 monterey ranch chicken 6 inch white bread,20,g,100,mg,4790,g,38,g,39,g,9,g,0,g,2,g,2,g
+499,deli delicious,36 monterey ranch chicken 8 inch lettuce wrap,24,g,135,mg,770,g,5,g,46,g,12,g,0,g,2,g,2,g
+500,deli delicious,36 monterey ranch chicken 8 inch sourdough bread,24,g,135,mg,1540,g,102,g,59,g,12,g,0,g,4,g,1,g
+501,deli delicious,36 monterey ranch chicken 8 inch wheat bread,27,g,135,mg,1250,g,64,g,54,g,12,g,0,g,6,g,3,g
+502,deli delicious,36 monterey ranch chicken 8 inch white bread,27,g,135,mg,1220,g,51,g,54,g,12,g,0,g,3,g,3,g
+503,deli delicious,37 hot pastrami and provolone cheese 4 inch sourdough bread,12,g,50,mg,960,g,60,g,24,g,9,g,0,g,2,g,0,g
+504,deli delicious,37 hot pastrami and provolone cheese 4 inch wheat bread,14,g,50,mg,810,g,42,g,21,g,9,g,0,g,3,g,1,g
+505,deli delicious,37 hot pastrami and provolone cheese 4 inch white bread,14,g,50,mg,800,g,35,g,21,g,9,g,0,g,1,g,1,g
+506,deli delicious,37 hot pastrami and provolone cheese 6 inch lettuce wrap,17,g,80,mg,890,g,22,g,26,g,14,g,0,g,1,g,1,g
+507,deli delicious,37 hot pastrami and provolone cheese 6 inch sourdough bread,17,g,80,mg,1470,g,95,g,36,g,14,g,0,g,3,g,0,g
+508,deli delicious,37 hot pastrami and provolone cheese 6 inch wheat bread,19,g,80,mg,1270,g,67,g,32,g,14,g,0,g,4,g,1,g
+509,deli delicious,37 hot pastrami and provolone cheese 6 inch white bread,19,g,80,mg,1230,g,57,g,32,g,14,g,0,g,2,g,1,g
+510,deli delicious,37 hot pastrami and provolone cheese 8 inch lettuce wrap,24,g,110,mg,1230,g,30,g,36,g,19,g,0,g,2,g,1,g
+511,deli delicious,37 hot pastrami and provolone cheese 8 inch sourdough bread,23,g,110,mg,2000,g,127,g,49,g,19,g,0,g,4,g,0,g
+512,deli delicious,37 hot pastrami and provolone cheese 8 inch white bread,26,g,110,mg,1680,g,76,g,44,g,19,g,0,g,3,g,2,g
+513,deli delicious,37 hot pastrami and provolone cheese 8 inch wheat bread,27,g,110,mg,1710,g,90,g,44,g,19,g,0,g,6,g,2,g
+514,deli delicious,38 pastrami pepperoni salami jack and provolone cheese 4 inch sourdough bread,20,g,75,mg,1290,g,64,g,30,g,13,g,0,g,2,g,0,g
+515,deli delicious,38 pastrami pepperoni salami jack and provolone cheese 4 inch wheat bread,21,g,75,mg,1150,g,45,g,27,g,13,g,0,g,3,g,1,g
+516,deli delicious,38 pastrami pepperoni salami jack and provolone cheese 4 inch white bread,21,g,75,mg,1130,g,38,g,27,g,13,g,0,g,1,g,1,g
+517,deli delicious,38 pastrami pepperoni salami jack and provolone cheese 6 inch lettuce wrap,18,g,65,mg,800,g,12,g,20,g,12,g,0,g,1,g,1,g
+518,deli delicious,38 pastrami pepperoni salami jack and provolone cheese 6 inch sourdough bread,18,g,65,mg,1380,g,85,g,30,g,12,g,0,g,3,g,0,g
+519,deli delicious,38 pastrami pepperoni salami jack and provolone cheese 6 inch wheat bread,21,g,65,mg,1180,g,57,g,26,g,12,g,0,g,4,g,1,g
+520,deli delicious,38 pastrami pepperoni salami jack and provolone cheese 6 inch white bread,20,g,65,mg,1140,g,47,g,26,g,12,g,0,g,2,g,1,g
+521,deli delicious,38 pastrami pepperoni salami jack and provolone cheese 8 inch lettuce wrap,32,g,120,mg,1500,g,24,g,36,g,21,g,0,g,2,g,1,g
+522,deli delicious,38 pastrami pepperoni salami jack and provolone cheese 8 inch sourdough bread,32,g,120,mg,2270,g,120,g,50,g,21,g,0,g,4,g,0,g
+523,deli delicious,38 pastrami pepperoni salami jack and provolone cheese 8 inch wheat bread,35,g,120,mg,1980,g,83,g,44,g,21,g,0,g,6,g,2,g
+524,deli delicious,38 pastrami pepperoni salami jack and provolone cheese 8 inch white bread,35,g,120,mg,1950,g,69,g,44,g,21,g,0,g,3,g,2,g
+525,deli delicious,39 turkey bacon and jack cheese 4 inch sourdough bread,13,g,40,mg,850,g,51,g,17,g,5,g,0,g,2,g,0,g
+526,deli delicious,39 turkey bacon and jack cheese 4 inch wheat bread,14,g,40,mg,700,g,33,g,14,g,5,g,0,g,3,g,1,g
+527,deli delicious,39 turkey bacon and jack cheese 4 inch white bread,14,g,40,mg,690,g,26,g,14,g,5,g,0,g,1,g,1,g
+528,deli delicious,39 turkey bacon and jack cheese 6 inch lettuce wrap,18,g,55,mg,660,g,4,g,16,g,8,g,0,g,1,g,1,g
+529,deli delicious,39 turkey bacon and jack cheese 6 inch sourdough bread,18,g,55,mg,1240,g,77,g,26,g,8,g,0,g,3,g,0,g
+530,deli delicious,39 turkey bacon and jack cheese 6 inch wheat bread,20,g,55,mg,1050,g,49,g,22,g,8,g,0,g,4,g,1,g
+531,deli delicious,39 turkey bacon and jack cheese 6 inch white bread,20,g,55,mg,1000,g,39,g,21,g,8,g,0,g,2,g,1,g
+532,deli delicious,39 turkey bacon and jack cheese 8 inch lettuce wrap,29,g,75,mg,740,g,5,g,20,g,13,g,0,g,2,g,1,g
+533,deli delicious,39 turkey bacon and jack cheese 8 inch sourdough bread,29,g,75,mg,1520,g,102,g,33,g,13,g,0,g,4,g,0,g
+534,deli delicious,39 turkey bacon and jack cheese 8 inch wheat bread,32,g,75,mg,1220,g,64,g,27,g,13,g,0,g,6,g,2,g
+535,deli delicious,39 turkey bacon and jack cheese 8 inch white bread,32,g,75,mg,1190,g,51,g,27,g,13,g,0,g,3,g,2,g
+536,deli delicious,40 chicken bacon and jack cheese 4 inch sourdough bread,15,g,75,mg,680,g,51,g,32,g,6,g,0,g,2,g,0,g
+537,deli delicious,40 chicken bacon and jack cheese 4 inch wheat bread,17,g,75,mg,530,g,32,g,29,g,6,g,0,g,3,g,1,g
+538,deli delicious,40 chicken bacon and jack cheese 4 inch white bread,16,g,75,mg,520,g,25,g,29,g,6,g,0,g,2,g,1,g
+539,deli delicious,40 chicken bacon and jack cheese 6 inch lettuce wrap,20,g,100,mg,410,g,3,g,33,g,9,g,0,g,2,g,1,g
+540,deli delicious,40 chicken bacon and jack cheese 6 inch sourdough bread,20,g,100,mg,990,g,76,g,43,g,9,g,0,g,3,g,0,g
+541,deli delicious,40 chicken bacon and jack cheese 6 inch wheat bread,22,g,100,mg,790,g,48,g,39,g,9,g,0,g,5,g,1,g
+542,deli delicious,40 chicken bacon and jack cheese 6 inch white bread,22,g,100,mg,750,g,38,g,39,g,9,g,0,g,2,g,1,g
+543,deli delicious,40 chicken bacon and jack cheese 8 inch lettuce wrap,33,g,145,mg,570,g,4,g,45,g,14,g,0,g,2,g,1,g
+544,deli delicious,40 chicken bacon and jack cheese 8 inch sourdough bread,33,g,145,mg,1340,g,101,g,59,g,14,g,0,g,4,g,0,g
+545,deli delicious,40 chicken bacon and jack cheese 8 inch wheat bread,36,g,145,mg,1050,g,64,g,53,g,14,g,0,g,6,g,2,g
+546,deli delicious,40 chicken bacon and jack cheese 8 inch white bread,36,g,145,mg,1020,g,50,g,53,g,14,g,0,g,3,g,2,g
+547,deli delicious,41 steak and cheese 4 inch sourdough bread,16,g,90,mg,810,g,52,g,34,g,7,g,0,g,2,g,1,g
+548,deli delicious,41 steak and cheese 4 inch wheat bread,17,g,90,mg,670,g,33,g,31,g,7,g,0,g,3,g,1,g
+549,deli delicious,41 steak and cheese 4 inch white bread,17,g,90,mg,650,g,26,g,31,g,7,g,0,g,2,g,1,g
+550,deli delicious,41 steak and cheese 6 inch lettuce wrap,18,g,105,mg,510,g,4,g,31,g,8,g,0,g,1,g,1,g
+551,deli delicious,41 steak and cheese 6 inch sourdough bread,18,g,105,mg,1090,g,77,g,41,g,8,g,0,g,3,g,1,g
+552,deli delicious,41 steak and cheese 6 inch wheat bread,20,g,105,mg,890,g,49,g,37,g,8,g,0,g,4,g,2,g
+553,deli delicious,41 steak and cheese 6 inch white bread,20,g,105,mg,840,g,38,g,37,g,8,g,0,g,2,g,2,g
+554,deli delicious,41 steak and cheese 8 inch lettuce wrap,28,g,155,mg,700,g,6,g,46,g,13,g,0,g,2,g,2,g
+555,deli delicious,41 steak and cheese 8 inch sourdough bread,28,g,155,mg,1470,g,103,g,59,g,13,g,0,g,4,g,1,g
+556,deli delicious,41 steak and cheese 8 inch wheat bread,31,g,155,mg,1180,g,66,g,54,g,13,g,0,g,6,g,2,g
+557,deli delicious,41 steak and cheese 8 inch white bread,31,g,155,mg,1150,g,52,g,53,g,13,g,0,g,3,g,2,g
+558,deli delicious,42 philly cheese steak 4 inch sourdough bread,15,g,85,mg,870,g,52,g,32,g,6,g,0,g,2,g,1,g
+559,deli delicious,42 philly cheese steak 4 inch wheat bread,16,g,85,mg,730,g,33,g,29,g,6,g,0,g,3,g,2,g
+560,deli delicious,42 philly cheese steak 4 inch white bread,16,g,85,mg,710,g,26,g,29,g,6,g,0,g,2,g,2,g
+561,deli delicious,42 philly cheese steak 6 inch lettuce wrap,21,g,110,mg,660,g,6,g,33,g,10,g,0,g,2,g,2,g
+562,deli delicious,42 philly cheese steak 6 inch sourdough bread,21,g,110,mg,1240,g,78,g,43,g,10,g,0,g,4,g,2,g
+563,deli delicious,42 philly cheese steak 6 inch wheat bread,24,g,110,mg,1040,g,50,g,39,g,10,g,0,g,5,g,3,g
+564,deli delicious,42 philly cheese steak 6 inch white bread,23,g,110,mg,1000,g,40,g,39,g,10,g,0,g,3,g,3,g
+565,deli delicious,42 philly cheese steak 8 inch lettuce wrap,30,g,155,mg,920,g,8,g,45,g,14,g,0,g,3,g,4,g
+566,deli delicious,42 philly cheese steak 8 inch sourdough bread,30,g,155,mg,1690,g,105,g,59,g,14,g,0,g,5,g,3,g
+567,deli delicious,42 philly cheese steak 8 inch wheat bread,33,g,155,mg,1400,g,68,g,53,g,14,g,0,g,7,g,4,g
+568,deli delicious,42 philly cheese steak 8 inch white bread,33,g,155,mg,1370,g,54,g,53,g,14,g,0,g,5,g,4,g
+569,deli delicious,43 buffalo chicken 4 inch sourdough bread,3.5,g,60,mg,780,g,51,g,28,g,1,g,0,g,2,g,0,g
+570,deli delicious,43 buffalo chicken 4 inch wheat bread,5,g,60,mg,640,g,32,g,26,g,1,g,0,g,3,g,1,g
+571,deli delicious,43 buffalo chicken 4 inch white bread,5,g,60,mg,620,g,25,g,26,g,1,g,0,g,2,g,1,g
+572,deli delicious,43 buffalo chicken 6 inch lettuce wrap,4.5,g,70,mg,720,g,3,g,26,g,1,g,0,g,2,g,1,g
+573,deli delicious,43 buffalo chicken 6 inch sourdough bread,4.5,g,70,mg,1300,g,76,g,36,g,1,g,0,g,3,g,0,g
+574,deli delicious,43 buffalo chicken 6 inch wheat bread,7,g,70,mg,1100,g,48,g,32,g,1,g,0,g,5,g,1,g
+575,deli delicious,43 buffalo chicken 6 inch white bread,7,g,70,mg,1060,g,37,g,32,g,1,g,0,g,2,g,1,g
+576,deli delicious,43 buffalo chicken 8 inch lettuce wrap,6,g,95,mg,810,g,4,g,35,g,1.5,g,0,g,2,g,1,g
+577,deli delicious,43 buffalo chicken 8 inch sourdough bread,6,g,95,mg,1580,g,101,g,48,g,1.5,g,0,g,4,g,0,g
+578,deli delicious,43 buffalo chicken 8 inch wheat bread,9,g,95,mg,1290,g,63,g,43,g,1.5,g,0,g,6,g,2,g
+579,deli delicious,43 buffalo chicken 8 inch white bread,9,g,95,mg,1260,g,50,g,43,g,1.5,g,0,g,3,g,2,g
+580,deli delicious,44 chipotle chicken 4 inch sourdough bread,7,g,60,mg,660,g,51,g,28,g,1.5,g,0,g,2,g,0,g
+581,deli delicious,44 chipotle chicken 4 inch wheat bread,9,g,60,mg,510,g,32,g,26,g,1.5,g,0,g,3,g,1,g
+582,deli delicious,44 chipotle chicken 4 inch white bread,9,g,60,mg,490,g,25,g,26,g,1.5,g,0,g,2,g,1,g
+583,deli delicious,44 chipotle chicken 6 inch lettuce wrap,23,g,80,mg,540,g,4,g,26,g,4,g,0,g,2,g,1,g
+584,deli delicious,44 chipotle chicken 6 inch sourdough bread,23,g,80,mg,1120,g,76,g,36,g,4,g,0,g,3,g,0,g
+585,deli delicious,44 chipotle chicken 6 inch wheat bread,25,g,80,mg,920,g,48,g,32,g,4,g,0,g,5,g,1,g
+586,deli delicious,44 chipotle chicken 6 inch white bread,25,g,80,mg,870,g,38,g,32,g,4,g,0,g,3,g,1,g
+587,deli delicious,44 chipotle chicken 8 inch lettuce wrap,25,g,100,mg,620,g,5,g,35,g,4,g,0,g,2,g,1,g
+588,deli delicious,44 chipotle chicken 8 inch sourdough bread,24,g,100,mg,1390,g,102,g,48,g,4,g,0,g,4,g,0,g
+589,deli delicious,44 chipotle chicken 8 inch wheat bread,28,g,100,mg,1100,g,64,g,43,g,4,g,0,g,6,g,2,g
+590,deli delicious,44 chipotle chicken 8 inch white bread,27,g,100,mg,1070,g,51,g,43,g,4,g,0,g,3,g,2,g
+591,deli delicious,45 bbq tri tip 4 inch sourdough bread,10,g,70,mg,870,g,56,g,28,g,3.5,g,0,g,2,g,5,g
+592,deli delicious,45 bbq tri tip 4 inch wheat bread,12,g,70,mg,720,g,38,g,25,g,3.5,g,0,g,3,g,6,g
+593,deli delicious,45 bbq tri tip 4 inch white bread,11,g,70,mg,710,g,31,g,25,g,3.5,g,0,g,2,g,6,g
+594,deli delicious,45 bbq tri tip 6 inch lettuce wrap,12,g,85,mg,650,g,15,g,26,g,4,g,0,g,1,g,10,g
+595,deli delicious,45 bbq tri tip 6 inch sourdough bread,12,g,85,mg,1230,g,87,g,36,g,4,g,0,g,3,g,10,g
+596,deli delicious,45 bbq tri tip 6 inch wheat bread,14,g,85,mg,1030,g,59,g,32,g,4,g,0,g,4,g,11,g
+597,deli delicious,45 bbq tri tip 6 inch white bread,14,g,85,mg,990,g,49,g,31,g,4,g,0,g,2,g,11,g
+598,deli delicious,45 bbq tri tip 8 inch lettuce wrap,16,g,115,mg,810,g,16,g,34,g,6,g,0,g,2,g,11,g
+599,deli delicious,45 bbq tri tip 8 inch sourdough bread,16,g,115,mg,1580,g,112,g,48,g,6,g,0,g,4,g,10,g
+600,deli delicious,45 bbq tri tip 8 inch wheat bread,19,g,115,mg,1290,g,75,g,42,g,6,g,0,g,6,g,11,g
+601,deli delicious,45 bbq tri tip 8 inch white bread,19,g,115,mg,1260,g,61,g,42,g,6,g,0,g,3,g,11,g
+602,deli delicious,add on black olives,3,g,0,mg,210,g,2,g,0,g,0,g,0,g,1,g,0,g
+603,deli delicious,add on black pepper,1,g,0,mg,5,g,18,g,3,g,0,g,0,g,7,g,0,g
+604,deli delicious,add on cheese american,7,g,20,mg,270,g,2,g,6,g,4.5,g,0,g,0,g,0,g
+605,deli delicious,add on cheese cheddar,9,g,30,mg,180,g,0,g,7,g,6,g,0,g,0,g,0,g
+606,deli delicious,add on cheese pepper jack,9,g,25,mg,150,g,0,g,7,g,5,g,0,g,0,g,0,g
+607,deli delicious,add on cheese provolone,8,g,20,mg,250,g,1,g,7,g,5,g,0,g,0,g,0,g
+608,deli delicious,add on cheese swiss,8,g,25,mg,55,g,2,g,8,g,5,g,0,g,0,g,0,g
+609,deli delicious,add on croutons,5,g,0,mg,310,g,18,g,3,g,1.5,g,0,g,1,g,1,g
+610,deli delicious,add on mayonnaise,22,g,10,mg,150,g,0,g,0,g,3,g,0,g,0,g,0,g
+611,deli delicious,add on mustard,1,g,0,mg,320,g,2,g,1,g,0,g,0,g,1,g,0,g
+612,deli delicious,add on oil and vinegar,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+613,deli delicious,add on pickles,0,g,0,mg,250,g,1,g,0,g,0,g,0,g,0,g,0,g
+614,deli delicious,add on red onions,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,1,g
+615,deli delicious,add on tomatoes,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+616,deli delicious,add on wax peppers,0,g,0,mg,270,g,2,g,0,g,0,g,0,g,1,g,0,g
+617,deli delicious,albacore tuna salad,34,g,60,mg,940,g,12,g,16,g,14,g,0,g,8,g,3,g
+618,deli delicious,all american burgers,75,g,215,mg,1980,g,62,g,53,g,29,g,3,g,4,g,16,g
+619,deli delicious,avocado bacon burgers,139,g,270,mg,1950,g,65,g,54,g,48,g,3,g,8,g,15,g
+620,deli delicious,blue cheese dressing,30,g,0,mg,910,g,4,g,0,g,9,g,0,g,0,g,0,g
+621,deli delicious,broccoli cheddar soup,24,g,75,mg,1460,g,29,g,12,g,14,g,0,g,3,g,8,g
+622,deli delicious,buffalo burgers,76,g,225,mg,2700,g,56,g,53,g,30,g,3,g,4,g,12,g
+623,deli delicious,caesar dressing,65,g,45,mg,1370,g,4,g,2,g,10,g,0,g,0,g,3,g
+624,deli delicious,caesar salad,8,g,20,mg,490,g,6,g,12,g,5,g,0,g,3,g,2,g
+625,deli delicious,chefs salad with turkey and ham,21,g,65,mg,1190,g,14,g,24,g,7,g,0,g,8,g,4,g
+626,deli delicious,chicken caesar salad,13,g,90,mg,740,g,7,g,38,g,6,g,0,g,3,g,2,g
+627,deli delicious,chicken tortilla soup,9,g,55,mg,1490,g,17,g,15,g,1,g,0,g,3,g,5,g
+628,deli delicious,chipotle burgers,81,g,225,mg,1730,g,57,g,54,g,31,g,3,g,5,g,12,g
+629,deli delicious,clam chowder,27,g,100,mg,1350,g,14,g,12,g,17,g,1,g,3,g,6,g
+630,deli delicious,diet pepsi 22 ounce,0,g,0,mg,5,g,76,g,0,g,0,g,0,g,0,g,76,g
+631,deli delicious,diet pepsi 32 ounce,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+632,deli delicious,dr pepper diet 22 ounce,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+633,deli delicious,dr pepper diet 32 ounce,0,g,0,mg,140,g,0,g,0,g,0,g,0,g,0,g,0,g
+634,deli delicious,dr pepper 22 ounce,0,g,0,mg,95,g,74,g,0,g,0,g,0,g,0,g,74,g
+635,deli delicious,dr pepper 32 ounce,0,g,0,mg,140,g,108,g,0,g,0,g,0,g,0,g,108,g
+636,deli delicious,fries beer battered,73,g,0,mg,1550,g,63,g,7,g,8,g,0,g,7,g,0,g
+637,deli delicious,fries curly,64,g,0,mg,1980,g,70,g,7,g,6,g,0,g,7,g,0,g
+638,deli delicious,fries regular,55,g,0,mg,680,g,77,g,7,g,4.5,g,0,g,7,g,2,g
+639,deli delicious,fries sweet potato,56,g,0,mg,1180,g,70,g,2,g,6,g,0,g,13,g,23,g
+640,deli delicious,green salad,18,g,25,mg,420,g,12,g,10,g,7,g,0,g,8,g,3,g
+641,deli delicious,grilled chicken salad,22,g,95,mg,670,g,13,g,36,g,8,g,0,g,8,g,3,g
+642,deli delicious,hickory burgers,134,g,285,mg,1590,g,59,g,53,g,49,g,3,g,4,g,15,g
+643,deli delicious,italian dressing,8,g,0,mg,1590,g,8,g,0,g,0,g,0,g,0,g,8,g
+644,deli delicious,lemonade 22 ounce,0,g,0,mg,70,g,30,g,0,g,0,g,0,g,0,g,30,g
+645,deli delicious,lemonade 32 ounce,0,g,0,mg,100,g,44,g,0,g,0,g,0,g,0,g,44,g
+646,deli delicious,mountain dew 22 ounce,0,g,0,mg,95,g,80,g,0,g,0,g,0,g,0,g,80,g
+647,deli delicious,mountain dew 32 ounce,0,g,0,mg,140,g,116,g,0,g,0,g,0,g,0,g,116,g
+648,deli delicious,oil and vinegar dressing,28,g,0,mg,5,g,0,g,0,g,2,g,0,g,0,g,0,g
+649,deli delicious,orange 22 ounce,0,g,0,mg,130,g,79,g,0,g,0,g,0,g,0,g,79,g
+650,deli delicious,orange 32 ounce,0,g,0,mg,190,g,115,g,0,g,0,g,0,g,0,g,115,g
+651,deli delicious,pepsi 22 ounce,0,g,0,mg,5,g,76,g,0,g,0,g,0,g,0,g,76,g
+652,deli delicious,pepsi 32 ounce,0,g,0,mg,10,g,110,g,0,g,0,g,0,g,0,g,110,g
+653,deli delicious,philly cheese burgers,77,g,230,mg,2090,g,66,g,58,g,29,g,3,g,6,g,18,g
+654,deli delicious,ranch dressing,20,g,25,mg,800,g,3,g,2,g,10,g,0,g,0,g,3,g
+655,deli delicious,raspberry tea 22 ounce,0,g,0,mg,70,g,58,g,0,g,0,g,0,g,0,g,58,g
+656,deli delicious,raspberry tea 32 ounce,0,g,0,mg,100,g,84,g,0,g,0,g,0,g,0,g,84,g
+657,deli delicious,sierra mist 22 ounce,0,g,0,mg,55,g,74,g,0,g,0,g,0,g,0,g,74,g
+658,deli delicious,sierra mist 32 ounce,0,g,0,mg,80,g,108,g,0,g,0,g,0,g,0,g,108,g
+659,deli delicious,so be yum berry 22 ounce,0,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+660,deli delicious,so be yum berry 32 ounce,0,g,0,mg,120,g,0,g,0,g,0,g,0,g,0,g,0,g
+661,deli delicious,sweet tea 22 ounce,0,g,0,mg,0,g,81,g,0,g,0,g,0,g,0,g,81,g
+662,deli delicious,sweet tea 32 ounce,0,g,0,mg,0,g,118,g,0,g,0,g,0,g,0,g,118,g
+663,deli delicious,thousand islanddressing,23,g,0,mg,790,g,15,g,0,g,6,g,0,g,0,g,11,g
+664,deweys pizza,add chicken regular salad,2,g,70,mg,65,g,0,g,24,g,0,g,0,g,0,g,0,g
+665,deweys pizza,add chicken side salad,1,g,35,mg,30,g,0,g,12,g,0,g,0,g,0,g,0,g
+666,deweys pizza,bronx bomber pizza 11 inch,8,g,15,mg,530,g,20,g,9,g,3,g,0,g,1,g,0,g
+667,deweys pizza,bronx bomber pizza 12 inch gf,8,g,15,mg,440,g,20,g,6,g,2.5,g,0,g,1,g,0,g
+668,deweys pizza,bronx bomber pizza 13 inch,13,g,25,mg,780,g,28,g,14,g,4.5,g,0,g,2,g,0,g
+669,deweys pizza,bronx bomber pizza 17 inch,13,g,20,mg,780,g,30,g,14,g,4.5,g,0,g,2,g,0,g
+670,deweys pizza,caesar dressing,13,g,10,mg,380,g,2,g,2,g,2.5,g,0,g,0,g,0,g
+671,deweys pizza,caesar salad regular,54,g,20,mg,1580,g,13,g,9,g,11,g,0,g,5,g,0,g
+672,deweys pizza,caesar salad side,33,g,10,mg,950,g,8,g,11,g,6,g,0,g,3,g,0,g
+673,deweys pizza,candied walnut dressing,16,g,0,mg,60,g,3,g,0,g,2,g,0,g,0,g,0,g
+674,deweys pizza,candied walnut salad regular,62,g,20,mg,520,g,25,g,12,g,12,g,0,g,5,g,0,g
+675,deweys pizza,candied walnut salad side,36,g,10,mg,300,g,14,g,7,g,7,g,0,g,3,g,0,g
+676,deweys pizza,caprice pizza 11 inch,9,g,15,mg,330,g,21,g,7,g,4.5,g,0,g,2,g,0,g
+677,deweys pizza,caprice pizza 12 inch gf,8,g,15,mg,220,g,21,g,5,g,4.5,g,0,g,1,g,0,g
+678,deweys pizza,caprice pizza 13 inch,14,g,25,mg,480,g,30,g,11,g,8,g,0,g,3,g,0,g
+679,deweys pizza,caprice pizza 17 inch,15,g,25,mg,540,g,34,g,12,g,8,g,0,g,3,g,0,g
+680,deweys pizza,cheese calzone,23,g,40,mg,1600,g,106,g,38,g,10,g,0,g,4,g,0,g
+681,deweys pizza,don corleone pizza 11 inch,9,g,20,mg,580,g,19,g,9,g,3,g,0,g,1,g,0,g
+682,deweys pizza,don corleone pizza 12 inch gf,9,g,20,mg,550,g,17,g,8,g,3,g,0,g,1,g,0,g
+683,deweys pizza,don corleone pizza 13 inch,14,g,30,mg,850,g,25,g,13,g,5,g,0,g,1,g,0,g
+684,deweys pizza,don corleone pizza 17 inch,13,g,30,mg,840,g,28,g,13,g,5,g,0,g,1,g,0,g
+685,deweys pizza,dr dre pizza 11 inch,7,g,20,mg,400,g,18,g,10,g,2,g,0,g,1,g,0,g
+686,deweys pizza,dr dre pizza 12 inch gf,6,g,20,mg,290,g,17,g,8,g,2,g,0,g,1,g,0,g
+687,deweys pizza,dr dre pizza 13 inch,11,g,25,mg,600,g,24,g,14,g,3.5,g,0,g,1,g,0,g
+688,deweys pizza,dr dre pizza 17 inch,11,g,20,mg,600,g,27,g,14,g,3,g,0,g,2,g,0,g
+689,deweys pizza,edgar alan poe pizza 11 inch,9,g,15,mg,380,g,21,g,8,g,3.5,g,0,g,1,g,0,g
+690,deweys pizza,edgar alan poe pizza 12 inch gf,8,g,15,mg,280,g,20,g,6,g,3.5,g,0,g,1,g,0,g
+691,deweys pizza,edgar alan poe pizza 13 inch,14,g,20,mg,570,g,29,g,12,g,6,g,0,g,2,g,0,g
+692,deweys pizza,edgar alan poe pizza 17 inch,14,g,20,mg,580,g,32,g,13,g,6,g,0,g,2,g,0,g
+693,deweys pizza,greek dressing,8,g,0,mg,320,g,3,g,0,g,1,g,0,g,0,g,0,g
+694,deweys pizza,greek salad regular,18,g,10,mg,910,g,29,g,5,g,3.5,g,0,g,3,g,0,g
+695,deweys pizza,greek salad side,10,g,5,mg,510,g,17,g,3,g,2,g,0,g,2,g,0,g
+696,deweys pizza,green lantern pizza 11 inch,8,g,10,mg,420,g,20,g,7,g,2,g,0,g,1,g,0,g
+697,deweys pizza,green lantern pizza 12 inch gf,7,g,5,mg,310,g,19,g,5,g,2,g,0,g,1,g,0,g
+698,deweys pizza,green lantern pizza 13 inch,11,g,10,mg,610,g,27,g,11,g,3.5,g,0,g,2,g,0,g
+699,deweys pizza,green lantern pizza 17 inch,11,g,10,mg,610,g,30,g,11,g,3,g,0,g,2,g,0,g
+700,deweys pizza,hawaiian pizza 11 inch,6,g,10,mg,520,g,20,g,9,g,2,g,0,g,1,g,0,g
+701,deweys pizza,hawaiian pizza 12 inch gf,5,g,10,mg,430,g,19,g,7,g,2,g,0,g,1,g,0,g
+702,deweys pizza,hawaiian pizza 13 inch,9,g,20,mg,760,g,28,g,14,g,3,g,0,g,1,g,0,g
+703,deweys pizza,hawaiian pizza 17 inch,8,g,20,mg,750,g,30,g,14,g,3,g,0,g,1,g,0,g
+704,deweys pizza,house salad dressing,14,g,0,mg,135,g,5,g,1,g,2,g,0,g,0,g,0,g
+705,deweys pizza,house salad regular,35,g,10,mg,330,g,25,g,8,g,7,g,0,g,3,g,0,g
+706,deweys pizza,house salad side,20,g,5,mg,180,g,14,g,5,g,4,g,0,g,2,g,0,g
+707,deweys pizza,killer veggie pizza 11 inch,6,g,10,mg,460,g,20,g,8,g,2,g,0,g,1,g,0,g
+708,deweys pizza,killer veggie pizza 12 inch gf,5,g,10,mg,360,g,20,g,5,g,2,g,0,g,1,g,0,g
+709,deweys pizza,killer veggie pizza 13 inch,9,g,15,mg,660,g,27,g,12,g,3,g,0,g,2,g,0,g
+710,deweys pizza,killer veggie pizza 17 inch,9,g,15,mg,660,g,30,g,12,g,3,g,0,g,2,g,0,g
+711,deweys pizza,meatball pizza 11 inch,6,g,10,mg,430,g,19,g,7,g,2,g,0,g,1,g,0,g
+712,deweys pizza,meatball pizza 12 inch gf,6,g,15,mg,360,g,19,g,5,g,2,g,0,g,1,g,0,g
+713,deweys pizza,meatball pizza 13 inch,11,g,20,mg,660,g,26,g,11,g,3.5,g,0,g,2,g,0,g
+714,deweys pizza,meatball pizza 17 inch,11,g,15,mg,660,g,29,g,12,g,3.5,g,0,g,2,g,0,g
+715,deweys pizza,original cyo red sauce pizza 11 inch,5,g,10,mg,400,g,19,g,8,g,2,g,0,g,1,g,0,g
+716,deweys pizza,original cyo red sauce pizza 12 inch gf,4.5,g,10,mg,310,g,18,g,5,g,2,g,0,g,0,g,0,g
+717,deweys pizza,original cyo red sauce pizza 13 inch,8,g,15,mg,580,g,26,g,11,g,3,g,0,g,1,g,0,g
+718,deweys pizza,original cyo red sauce pizza 17 inch,8,g,15,mg,580,g,28,g,11,g,3,g,0,g,1,g,0,g
+719,deweys pizza,original cyo white sauce pizza 11 inch,7,g,10,mg,270,g,17,g,7,g,3,g,0,g,1,g,0,g
+720,deweys pizza,original cyo white sauce pizza 12 inch gf,6,g,10,mg,170,g,17,g,4,g,2.5,g,0,g,0,g,0,g
+721,deweys pizza,original cyo white sauce pizza 13 inch,10,g,20,mg,390,g,24,g,10,g,4.5,g,0,g,1,g,0,g
+722,deweys pizza,original cyo white sauce pizza 17 inch,10,g,15,mg,420,g,27,g,11,g,4.5,g,0,g,1,g,0,g
+723,deweys pizza,peppercorn ranch dressing,11,g,10,mg,240,g,1,g,1,g,1.5,g,0,g,0,g,0,g
+724,deweys pizza,peppercorn ranch salad regular,45,g,65,mg,1420,g,13,g,21,g,12,g,0,g,6,g,0,g
+725,deweys pizza,peppercorn ranch salad side,25,g,35,mg,770,g,8,g,11,g,7,g,0,g,4,g,0,g
+726,deweys pizza,porky fig pizza 11 inch,6,g,15,mg,360,g,20,g,7,g,3,g,0,g,1,g,0,g
+727,deweys pizza,porky fig pizza 12 inch gf,5,g,15,mg,250,g,20,g,4,g,2.5,g,0,g,0,g,0,g
+728,deweys pizza,porky fig pizza 13 inch,9,g,20,mg,500,g,28,g,10,g,4.5,g,0,g,1,g,0,g
+729,deweys pizza,porky fig pizza 17 inch,10,g,25,mg,560,g,32,g,11,g,5,g,0,g,1,g,0,g
+730,deweys pizza,ryans inferno pizza 11 inch,7,g,20,mg,860,g,20,g,10,g,3,g,0,g,1,g,0,g
+731,deweys pizza,ryans inferno pizza 12 inch gf,7,g,20,mg,750,g,20,g,8,g,2.5,g,0,g,1,g,0,g
+732,deweys pizza,ryans inferno pizza 13 inch,12,g,25,mg,1130,g,27,g,15,g,4.5,g,0,g,2,g,0,g
+733,deweys pizza,ryans inferno pizza 17 inch,13,g,25,mg,1140,g,30,g,15,g,5,g,0,g,2,g,0,g
+734,deweys pizza,socrates revenge pizza 11 inch,7,g,10,mg,430,g,19,g,7,g,2.5,g,0,g,1,g,0,g
+735,deweys pizza,socrates revenge pizza 12 inch gf,7,g,10,mg,320,g,18,g,4,g,2.5,g,0,g,1,g,0,g
+736,deweys pizza,socrates revenge pizza 13 inch,11,g,15,mg,670,g,26,g,10,g,4,g,0,g,2,g,0,g
+737,deweys pizza,socrates revenge pizza 17 inch,12,g,15,mg,720,g,29,g,11,g,4.5,g,0,g,2,g,0,g
+738,deweys pizza,southwest bbq chicken pizza 11 inch,7,g,20,mg,470,g,20,g,11,g,3,g,0,g,1,g,0,g
+739,deweys pizza,southwest bbq chicken pizza 12 inch gf,6,g,20,mg,400,g,19,g,8,g,3,g,0,g,1,g,0,g
+740,deweys pizza,southwest bbq chicken pizza 13 inch,11,g,30,mg,680,g,27,g,15,g,4.5,g,0,g,2,g,0,g
+741,deweys pizza,southwest bbq chicken pizza 17 inch,11,g,30,mg,710,g,30,g,15,g,4.5,g,0,g,2,g,0,g
+742,dibellas subs,large antipasto salad,101,g,260,mg,7260,g,82,g,84,g,32,g,0,g,31,g,21,g
+743,dibellas subs,small antipasto salad,51,g,130,mg,3630,g,39,g,42,g,16,g,0,g,15,g,10,g
+744,dillys sandwiches,barqs root beer large,0,g,0,mg,60,g,72,g,0,g,0,g,0,g,0,g,72,g
+745,dillys sandwiches,barqs root beer small,0,g,0,mg,40,g,50,g,0,g,0,g,0,g,0,g,50,g
+746,dillys sandwiches,bbq chicken sandwich half,19,g,60,mg,860,g,10,g,18,g,6,g,0,g,0,g,7,g
+747,dillys sandwiches,beauty and beef sandwich half,8,g,50,mg,910,g,2,g,24,g,3,g,0,g,0,g,0,g
+748,dillys sandwiches,beef bullet sandwich half,4,g,50,mg,910,g,0,g,25,g,1.5,g,0,g,0,g,0,g
+749,dillys sandwiches,blt sandwich half,28,g,40,mg,840,g,3,g,19,g,9,g,0,g,0,g,1,g
+750,dillys sandwiches,blue cheese dressing,32,g,40,mg,640,g,4,g,2,g,7,g,0,g,0,g,2,g
+751,dillys sandwiches,boston clam chowder large,24,g,20,mg,1530,g,96,g,16,g,3.5,g,1,g,3,g,7,g
+752,dillys sandwiches,boston clam chowder small,19,g,15,mg,1160,g,65,g,11,g,2.5,g,0.5,g,2,g,4,g
+753,dillys sandwiches,bread bowl only large,4.5,g,0,mg,470,g,66,g,11,g,1,g,1,g,3,g,7,g
+754,dillys sandwiches,bread bowl only small,3,g,0,mg,280,g,40,g,7,g,0.5,g,0.5,g,2,g,4,g
+755,dillys sandwiches,brownie,20,g,25,mg,270,g,58,g,3,g,4,g,0,g,2,g,43,g
+756,dillys sandwiches,buena bella sandwich half,5,g,0,mg,210,g,6,g,3,g,1,g,0,g,2,g,3,g
+757,dillys sandwiches,buffalo chicken sandwich half,11,g,55,mg,960,g,3,g,15,g,4,g,0,g,0,g,2,g
+758,dillys sandwiches,caesar salad large,43,g,45,mg,910,g,20,g,9,g,8,g,0,g,4,g,4,g
+759,dillys sandwiches,caesar salad small,22,g,20,mg,460,g,10,g,5,g,4,g,0,g,2,g,2,g
+760,dillys sandwiches,caesar wrap on whole wheat wrap,40,g,100,mg,1370,g,57,g,42,g,10,g,0,g,8,g,2,g
+761,dillys sandwiches,carnival cookie,12,g,25,mg,200,g,38,g,3,g,7,g,0,g,2,g,21,g
+762,dillys sandwiches,catalina dressing,12,g,0,mg,840,g,20,g,0,g,2,g,0,g,0,g,18,g
+763,dillys sandwiches,chef salad large,22,g,120,mg,1060,g,15,g,41,g,12,g,0,g,5,g,6,g
+764,dillys sandwiches,chef salad small,12,g,60,mg,660,g,14,g,22,g,6,g,0,g,3,g,4,g
+765,dillys sandwiches,cherry coke large,0,g,0,mg,10,g,67,g,0,g,0,g,0,g,0,g,67,g
+766,dillys sandwiches,cherry coke small,0,g,0,mg,5,g,46,g,0,g,0,g,0,g,0,g,46,g
+767,dillys sandwiches,chicken caesar salad large,45,g,110,mg,980,g,20,g,35,g,8,g,0,g,4,g,4,g
+768,dillys sandwiches,chicken noodle soup large,7,g,30,mg,1500,g,80,g,20,g,1.5,g,1,g,4,g,9,g
+769,dillys sandwiches,chicken noodle soup small,7,g,55,mg,2110,g,65,g,22,g,2,g,0.5,g,4,g,7,g
+770,dillys sandwiches,chicken salad salad small,15,g,50,mg,350,g,13,g,17,g,2.5,g,0,g,3,g,4,g
+771,dillys sandwiches,chicken salad sandwich half,13,g,50,mg,210,g,2,g,15,g,2,g,0,g,1,g,0,g
+772,dillys sandwiches,chicken salad wrap on whole wheat wrap,33,g,95,mg,1170,g,55,g,39,g,7,g,0,g,7,g,1,g
+773,dillys sandwiches,chipotle coleslaw,10,g,10,mg,140,g,6,g,1,g,1.5,g,0,g,2,g,3,g
+774,dillys sandwiches,chocolate chip cookie,17,g,25,mg,220,g,36,g,3,g,6,g,3,g,1,g,24,g
+775,dillys sandwiches,club west sandwich half,21,g,70,mg,1130,g,3,g,27,g,6,g,0,g,0,g,0,g
+776,dillys sandwiches,coke zero large,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+777,dillys sandwiches,coke zero small,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+778,dillys sandwiches,coke large,0,g,0,mg,15,g,65,g,0,g,0,g,0,g,0,g,65,g
+779,dillys sandwiches,coke small,0,g,0,mg,10,g,45,g,0,g,0,g,0,g,0,g,45,g
+780,dillys sandwiches,corn and green chili bisque large,20,g,40,mg,1910,g,93,g,22,g,7,g,1,g,6,g,10,g
+781,dillys sandwiches,corn and green chili bisque small,15,g,35,mg,1470,g,62,g,16,g,5,g,0.5,g,4,g,7,g
+782,dillys sandwiches,cottage cheese,4,g,15,mg,570,g,8,g,21,g,2.5,g,0,g,0,g,6,g
+783,dillys sandwiches,cream of broccoli soup large,19,g,5,mg,1600,g,87,g,13,g,2.5,g,1,g,4,g,10,g
+784,dillys sandwiches,cream of broccoli soup small,15,g,5,mg,1210,g,58,g,9,g,1.5,g,0.5,g,3,g,7,g
+785,dillys sandwiches,diet coke large,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+786,dillys sandwiches,diet coke small,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+787,dillys sandwiches,dilly bird sandwich half,11,g,35,mg,320,g,2,g,12,g,2.5,g,0,g,1,g,0,g
+788,dillys sandwiches,dilly club sandwich half,20,g,60,mg,690,g,3,g,19,g,6,g,0,g,0,g,1,g
+789,dillys sandwiches,dillys chili large,11,g,25,mg,2010,g,93,g,23,g,3.5,g,1.5,g,11,g,15,g
+790,dillys sandwiches,dillys chili small,8,g,20,mg,1540,g,62,g,16,g,2.5,g,1,g,8,g,11,g
+791,dillys sandwiches,dillys dilly sandwich half,8,g,35,mg,770,g,7,g,15,g,2.5,g,0,g,1,g,6,g
+792,dillys sandwiches,dillys focaccia bread for half sandwich,5,g,0,mg,230,g,34,g,7,g,1,g,0.5,g,2,g,4,g
+793,dillys sandwiches,dillys fruit salad,0,g,0,mg,10,g,14,g,1,g,0,g,0,g,1,g,12,g
+794,dillys sandwiches,dillys macaroni salad,13,g,20,mg,600,g,23,g,4,g,2.5,g,0,g,1,g,10,g
+795,dillys sandwiches,dillys multigrain bread for half sandwich,3,g,0,mg,290,g,32,g,6,g,0.5,g,0,g,2,g,5,g
+796,dillys sandwiches,dillys pasta salad,7,g,0,mg,460,g,25,g,4,g,1,g,0,g,2,g,4,g
+797,dillys sandwiches,dillys potato salad,23,g,20,mg,270,g,32,g,2,g,3,g,0,g,2,g,5,g
+798,dillys sandwiches,dillys rye bread for half sandwich,1,g,0,mg,460,g,32,g,5,g,0,g,0,g,2,g,2,g
+799,dillys sandwiches,dillys sourdough roll for half sandwich,2,g,0,mg,410,g,44,g,8,g,0,g,0,g,2,g,2,g
+800,dillys sandwiches,dillys wheat bread for half sandwich,2.5,g,0,mg,270,g,32,g,6,g,0.5,g,0.5,g,2,g,4,g
+801,dillys sandwiches,dillys white bread for half sandwich,2.5,g,0,mg,230,g,32,g,5,g,0.5,g,0.5,g,1,g,4,g
+802,dillys sandwiches,doozy sandwich half,5,g,40,mg,520,g,13,g,15,g,2.5,g,0,g,0,g,10,g
+803,dillys sandwiches,double chocolate chip cookie,8,g,10,mg,135,g,23,g,2,g,4.5,g,0,g,1,g,15,g
+804,dillys sandwiches,fanta orange soda large,0,g,0,mg,90,g,70,g,0,g,0,g,0,g,0,g,70,g
+805,dillys sandwiches,fanta orange soda small,0,g,0,mg,60,g,48,g,0,g,0,g,0,g,0,g,48,g
+806,dillys sandwiches,fat free ranch dressing,0,g,0,mg,620,g,16,g,0,g,0,g,0,g,2,g,10,g
+807,dillys sandwiches,fat free raspberry vinaigrette,0,g,0,mg,260,g,24,g,0,g,0,g,0,g,0,g,10,g
+808,dillys sandwiches,gobbler sandwich half,9,g,35,mg,330,g,7,g,12,g,2.5,g,0,g,1,g,4,g
+809,dillys sandwiches,greek dressing,14,g,0,mg,1000,g,7,g,0,g,2,g,0,g,0,g,4,g
+810,dillys sandwiches,greek salad large,32,g,20,mg,2030,g,23,g,9,g,7,g,0,g,5,g,11,g
+811,dillys sandwiches,greek salad small,16,g,10,mg,1010,g,11,g,5,g,3.5,g,0,g,2,g,6,g
+812,dillys sandwiches,greek wrap on spinach wrap,23,g,10,mg,1750,g,63,g,14,g,6,g,0,g,5,g,6,g
+813,dillys sandwiches,hawaii 5 0 sandwich half,7,g,50,mg,870,g,20,g,15,g,3,g,0,g,1,g,18,g
+814,dillys sandwiches,hi c flashin fruit punch large,0,g,0,mg,20,g,67,g,0,g,0,g,0,g,0,g,67,g
+815,dillys sandwiches,hi c flashin fruit punch small,0,g,0,mg,15,g,46,g,0,g,0,g,0,g,0,g,46,g
+816,dillys sandwiches,honey do sandwich half,7,g,35,mg,470,g,8,g,15,g,3,g,0,g,1,g,5,g
+817,dillys sandwiches,honey mustard dressing,0,g,0,mg,620,g,20,g,2,g,0,g,0,g,0,g,12,g
+818,dillys sandwiches,humdinger sandwich half,16,g,65,mg,750,g,4,g,22,g,6,g,0,g,1,g,2,g
+819,dillys sandwiches,italian sandwich half,38,g,75,mg,1410,g,5,g,15,g,13,g,0,g,1,g,2,g
+820,dillys sandwiches,lobster bisque large,27,g,30,mg,1290,g,88,g,16,g,6,g,1,g,3,g,9,g
+821,dillys sandwiches,lobster bisque small,21,g,25,mg,960,g,58,g,10,g,4.5,g,0.5,g,2,g,6,g
+822,dillys sandwiches,mexi wrap on jalapeno wrap,27,g,120,mg,1610,g,58,g,43,g,12,g,0,g,4,g,4,g
+823,dillys sandwiches,minute maid lemonade large,0,g,0,mg,100,g,62,g,0,g,0,g,0,g,0,g,62,g
+824,dillys sandwiches,minute maid lemonade small,0,g,0,mg,70,g,43,g,0,g,0,g,0,g,0,g,43,g
+825,dillys sandwiches,oatmeal raisin cookie,8,g,15,mg,140,g,22,g,2,g,4,g,0,g,1,g,12,g
+826,dillys sandwiches,peanut butter cookie,11,g,15,mg,150,g,20,g,3,g,4.5,g,0,g,1,g,13,g
+827,dillys sandwiches,pibb xtra large,0,g,0,mg,35,g,62,g,0,g,0,g,0,g,0,g,62,g
+828,dillys sandwiches,pibb xtra small,0,g,0,mg,25,g,43,g,0,g,0,g,0,g,0,g,43,g
+829,dillys sandwiches,potato with bacon soup large,24,g,15,mg,1570,g,99,g,15,g,3.5,g,1,g,4,g,10,g
+830,dillys sandwiches,potato with bacon soup small,19,g,10,mg,1190,g,67,g,10,g,2.5,g,0.5,g,3,g,7,g
+831,dillys sandwiches,powerade mountain blast large,0,g,0,mg,240,g,34,g,0,g,0,g,0,g,0,g,32,g
+832,dillys sandwiches,powerade mountain blast small,0,g,0,mg,170,g,23,g,0,g,0,g,0,g,0,g,22,g
+833,dillys sandwiches,red bird sandwich half,4.5,g,20,mg,360,g,3,g,12,g,0.5,g,0,g,1,g,1,g
+834,dillys sandwiches,reuben sandwich half,16,g,45,mg,1080,g,6,g,21,g,5,g,0,g,0,g,3,g
+835,dillys sandwiches,sedona salad large,28,g,50,mg,590,g,38,g,22,g,10,g,0,g,8,g,6,g
+836,dillys sandwiches,sedona salad small,14,g,25,mg,290,g,19,g,11,g,5,g,0,g,5,g,3,g
+837,dillys sandwiches,smokehouse sandwich half,7,g,40,mg,700,g,5,g,20,g,2.5,g,0,g,1,g,6,g
+838,dillys sandwiches,smokey mountain sandwich half,9,g,45,mg,970,g,12,g,23,g,4,g,0,g,1,g,10,g
+839,dillys sandwiches,southwest wrap on tomato wrap,21,g,75,mg,1110,g,60,g,36,g,5,g,0,g,4,g,3,g
+840,dillys sandwiches,southwestern club sandwich half,10,g,45,mg,730,g,14,g,19,g,4,g,0,g,1,g,11,g
+841,dillys sandwiches,sprite large,0,g,0,mg,55,g,62,g,0,g,0,g,0,g,0,g,62,g
+842,dillys sandwiches,sprite small,0,g,0,mg,35,g,43,g,0,g,0,g,0,g,0,g,43,g
+843,dillys sandwiches,sugar cookie,8,g,15,mg,180,g,25,g,2,g,4,g,0,g,0,g,13,g
+844,dillys sandwiches,sugar cookie with strawberry frosting,12,g,15,mg,200,g,36,g,2,g,5,g,1,g,0,g,23,g
+845,dillys sandwiches,sugar cookie with vanilla frosting,12,g,15,mg,200,g,36,g,2,g,5,g,1,g,0,g,24,g
+846,dillys sandwiches,sweet leaf salad large,23,g,20,mg,470,g,38,g,13,g,6,g,0,g,5,g,28,g
+847,dillys sandwiches,sweet leaf salad small,11,g,10,mg,240,g,19,g,7,g,3,g,0,g,3,g,13,g
+848,dillys sandwiches,sweet leaf wrap on spinach wrap,28,g,5,mg,1770,g,75,g,37,g,7,g,0,g,4,g,18,g
+849,dillys sandwiches,thousand island dressing,22,g,10,mg,600,g,10,g,0,g,3,g,0,g,0,g,8,g
+850,dillys sandwiches,tossed salad large,3.5,g,0,mg,280,g,23,g,5,g,0.5,g,0,g,5,g,6,g
+851,dillys sandwiches,tossed salad small,1.5,g,0,mg,140,g,12,g,3,g,0,g,0,g,3,g,3,g
+852,dillys sandwiches,tuna salad large,10,g,65,mg,1040,g,32,g,30,g,1.5,g,0,g,6,g,14,g
+853,dillys sandwiches,tuna salad small,5,g,30,mg,520,g,16,g,15,g,1,g,0,g,3,g,7,g
+854,dillys sandwiches,veggie supreme sandwich half,9,g,25,mg,120,g,4,g,6,g,4.5,g,0,g,1,g,1,g
+855,dillys sandwiches,wisconsin cheese soup large,35,g,20,mg,1930,g,98,g,16,g,7,g,1,g,3,g,17,g
+856,dillys sandwiches,wisconsin cheese soup small,28,g,15,mg,1480,g,66,g,11,g,6,g,0.5,g,2,g,13,g
+857,dillys sandwiches,yahoo sandwich half,18,g,65,mg,840,g,3,g,24,g,5,g,0,g,0,g,0,g
+858,dining with darcy,alexs quesadillas,11,g,0,mg,0,g,29,g,52,g,0,g,0,g,0,g,0,g
+859,dining with darcy,chicken and dumplings in a crockpot 1 5 cups,14,g,0,mg,0,g,34,g,18,g,0,g,0,g,0,g,0,g
+860,dining with darcy,chicken and dumplings in a crockpot 6 servings,84,g,0,mg,0,g,204,g,108,g,0,g,0,g,0,g,0,g
+861,dining with darcy,chicos chili 1 cup,9,g,0,mg,0,g,18,g,25,g,0,g,0,g,0,g,0,g
+862,dining with darcy,chicos chili 8 servings,70,g,0,mg,0,g,144,g,200,g,0,g,0,g,0,g,0,g
+863,dining with darcy,egg muffins for breakfast 12 egg muffins,36,g,0,mg,0,g,15,g,72,g,0,g,0,g,0,g,0,g
+864,dining with darcy,egg muffins for breakfast 2 egg muffins,6,g,0,mg,0,g,3,g,12,g,0,g,0,g,0,g,0,g
+865,dining with darcy,flatbread pizza onions peppers mushrooms turkey sausage 1 5 pizza,15,g,0,mg,0,g,31,g,21,g,0,g,0,g,0,g,0,g
+866,dining with darcy,flatbread pizza onions peppers mushrooms turkey sausage whole pizza,75,g,0,mg,0,g,155,g,105,g,0,g,0,g,0,g,0,g
+867,dining with darcy,gnocchi with spinach and tomatoes,18,g,0,mg,0,g,45,g,11,g,0,g,0,g,0,g,0,g
+868,dining with darcy,high protein buffalo mac n cheese 1 cup,7,g,0,mg,0,g,18,g,32,g,0,g,0,g,0,g,0,g
+869,dining with darcy,high protein buffalo mac n cheese 6 servings,41,g,0,mg,0,g,110,g,191,g,0,g,0,g,0,g,0,g
+870,dining with darcy,homemade sweet potato fries,13,g,0,mg,0,g,37,g,4,g,0,g,0,g,0,g,0,g
+871,dining with darcy,homemade turkey burger 1 burger 4 oz,22,g,0,mg,0,g,27,g,34,g,0,g,0,g,0,g,0,g
+872,dining with darcy,homemade turkey burger 6 burgers,132,g,0,mg,0,g,108,g,204,g,0,g,0,g,0,g,0,g
+873,dining with darcy,italian chicken wrap,28,g,0,mg,0,g,48,g,41,g,0,g,0,g,0,g,0,g
+874,dining with darcy,level 1 mug cakes,4,g,0,mg,0,g,8,g,26,g,0,g,0,g,0,g,0,g
+875,dining with darcy,level 1 protein cookies 1 cookie,1.5,g,0,mg,0,g,9,g,3,g,0,g,0,g,0,g,0,g
+876,dining with darcy,level 1 protein cookies 14 cookies,21,g,0,mg,0,g,126,g,42,g,0,g,0,g,0,g,0,g
+877,dining with darcy,level 1 protein pancakes,5,g,0,mg,0,g,46,g,28,g,0,g,0,g,0,g,0,g
+878,dining with darcy,level 1 pumpkin muffins with chocolate chips 1 muffin,2,g,0,mg,0,g,10,g,6,g,0,g,0,g,0,g,0,g
+879,dining with darcy,level 1 pumpkin muffins with chocolate chips 12 muffins,24,g,0,mg,0,g,120,g,72,g,0,g,0,g,0,g,0,g
+880,dining with darcy,no bake oreo cheesecake bites 1 bite,2,g,0,mg,0,g,9,g,7,g,0,g,0,g,0,g,0,g
+881,dining with darcy,no bake oreo cheesecake bites 12 bites,21,g,0,mg,0,g,108,g,78,g,0,g,0,g,0,g,0,g
+882,dining with darcy,salmon asparagus and smashed baby potatoes,20,g,0,mg,0,g,19,g,22,g,0,g,0,g,0,g,0,g
+883,dining with darcy,spaghetti and chicken sausage,10,g,0,mg,0,g,40,g,19,g,0,g,0,g,0,g,0,g
+884,dining with darcy,stuffed peppers 1 pepper,10,g,0,mg,0,g,18,g,23,g,0,g,0,g,0,g,0,g
+885,dining with darcy,stuffed peppers 6 peppers,60,g,0,mg,0,g,108,g,138,g,0,g,0,g,0,g,0,g
+886,dining with darcy,summer strawberry spinach salad with avacado 1 4 serving,29,g,0,mg,0,g,18,g,9,g,0,g,0,g,0,g,0,g
+887,dining with darcy,summer strawberry spinach salad with avacado 4 servings,115,g,0,mg,0,g,70,g,34,g,0,g,0,g,0,g,0,g
+888,dining with darcy,turkey avacado roll,14,g,0,mg,0,g,17,g,32,g,0,g,0,g,0,g,0,g
+889,dining with darcy,turkey taco bowl,12,g,0,mg,0,g,45,g,33,g,0,g,0,g,0,g,0,g
+890,dions pizza,10 inch ham and swiss,24,g,145,mg,3050,g,78,g,59,g,15,g,0,g,7,g,12,g
+891,dions pizza,10 inch italian ham pepperoni and genoa salami,44,g,130,mg,3920,g,78,g,49,g,17,g,0.5,g,10,g,10,g
+892,dions pizza,10 inch meatball and provolone,44,g,115,mg,3550,g,81,g,83,g,24,g,0,g,20,g,3,g
+893,dions pizza,10 inch pastrami and provolone,24,g,155,mg,2840,g,78,g,69,g,16,g,0,g,7,g,9,g
+894,dions pizza,10 inch roast beef and provolone,23,g,140,mg,2480,g,75,g,63,g,15,g,0,g,7,g,6,g
+895,dions pizza,10 inch turkey and swiss,19,g,175,mg,2600,g,75,g,71,g,13,g,0,g,7,g,6,g
+896,dions pizza,10 inch veggie green chile and cheddar,26,g,70,mg,1810,g,82,g,32,g,16,g,0,g,11,g,10,g
+897,dions pizza,6 inch ham and swiss,13,g,80,mg,1760,g,52,g,34,g,8,g,0,g,5,g,8,g
+898,dions pizza,6 inch italian ham pepperoni and genoa salami,28,g,85,mg,2440,g,51,g,31,g,10,g,0.5,g,6,g,7,g
+899,dions pizza,6 inch meatball and provolone,22,g,60,mg,1830,g,52,g,44,g,12,g,0,g,11,g,1,g
+900,dions pizza,6 inch pastrami and provolone,13,g,85,mg,1600,g,52,g,40,g,8,g,0,g,5,g,6,g
+901,dions pizza,6 inch roast beef and provolone,12,g,80,mg,1390,g,50,g,36,g,7,g,0,g,5,g,4,g
+902,dions pizza,6 inch turkey and swiss,10,g,95,mg,1500,g,50,g,41,g,7,g,0,g,5,g,4,g
+903,dions pizza,6 inch veggie green chile and cheddar,14,g,35,mg,1030,g,53,g,18,g,8,g,0,g,6,g,7,g
+904,dions pizza,a slice from 10 inch duke city,10,g,25,mg,340,g,14,g,10,g,4.5,g,0,g,1,g,0,g
+905,dions pizza,a slice from 10 inch kansas city,9,g,20,mg,330,g,15,g,10,g,3.5,g,0,g,1,g,1,g
+906,dions pizza,a slice from 10 inch napoli,15,g,25,mg,570,g,16,g,10,g,6,g,0,g,1,g,0,g
+907,dions pizza,a slice from 10 inch santorini,9,g,10,mg,310,g,14,g,6,g,3.5,g,0,g,1,g,0,g
+908,dions pizza,a slice from 10 inch tuscany,13,g,10,mg,330,g,18,g,10,g,4,g,0,g,4,g,3,g
+909,dions pizza,a slice from 14 inch duke city,14,g,15,mg,510,g,20,g,15,g,6,g,0,g,2,g,1,g
+910,dions pizza,a slice from 14 inch kansas city,13,g,30,mg,510,g,21,g,16,g,5,g,0,g,1,g,2,g
+911,dions pizza,a slice from 14 inch napoli,21,g,35,mg,830,g,21,g,14,g,8,g,0,g,1,g,2,g
+912,dions pizza,a slice from 14 inch santorini,13,g,20,mg,480,g,19,g,9,g,5,g,0,g,2,g,0,g
+913,dions pizza,a slice from 14 inch tuscany,18,g,20,mg,500,g,27,g,13,g,6,g,0,g,6,g,3,g
+914,dions pizza,anchovies gourmet 10 inch,0,g,5,mg,160,g,0,g,0,g,0,g,0,g,0,g,0,g
+915,dions pizza,anchovies gourmet 14 inch,0,g,5,mg,160,g,0,g,0,g,0,g,0,g,0,g,0,g
+916,dions pizza,anchovies large 16 inch,0,g,5,mg,160,g,0,g,0,g,0,g,0,g,0,g,0,g
+917,dions pizza,anchovies medium 14 inch,0,g,5,mg,160,g,0,g,0,g,0,g,0,g,0,g,0,g
+918,dions pizza,anchovies slice,1,g,10,mg,380,g,0,g,0,g,0,g,0,g,0,g,0,g
+919,dions pizza,anchovies small 12 inch,0,g,5,mg,160,g,0,g,0,g,0,g,0,g,0,g,0,g
+920,dions pizza,apple juice,0,g,0,mg,25,g,35,g,0,g,0,g,0,g,0,g,32,g
+921,dions pizza,artichoke hearts gourmet 10 inch,0,g,0,mg,10,g,2,g,1,g,0,g,0,g,2,g,0,g
+922,dions pizza,artichoke hearts gourmet 14 inch,0,g,0,mg,30,g,6,g,1,g,0,g,0,g,4,g,0,g
+923,dions pizza,artichoke hearts large 16 inch,0,g,0,mg,60,g,12,g,2,g,0,g,0,g,8,g,0,g
+924,dions pizza,artichoke hearts medium 14 inch,0,g,0,mg,30,g,6,g,1,g,0,g,0,g,4,g,0,g
+925,dions pizza,artichoke hearts slice,0,g,0,mg,60,g,12,g,2,g,0,g,0,g,8,g,0,g
+926,dions pizza,artichoke hearts small 12 inch,0,g,0,mg,10,g,2,g,1,g,0,g,0,g,2,g,0,g
+927,dions pizza,bacon family salad 10 serving sizes,2.5,g,15,mg,190,g,0,g,3,g,1,g,0,g,0,g,0,g
+928,dions pizza,bacon family salad 4 serving sizes,7,g,40,mg,490,g,0,g,8,g,3,g,0,g,0,g,0,g
+929,dions pizza,bacon gourmet 10 inch,2.5,g,15,mg,160,g,0,g,3,g,1,g,0,g,0,g,0,g
+930,dions pizza,bacon gourmet 14 inch,2.5,g,15,mg,190,g,0,g,3,g,1,g,0,g,0,g,0,g
+931,dions pizza,bacon large 16 inch,3,g,15,mg,210,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+932,dions pizza,bacon medium 14 inch,2.5,g,15,mg,190,g,0,g,3,g,1,g,0,g,0,g,0,g
+933,dions pizza,bacon slice,7,g,40,mg,490,g,0,g,8,g,3,g,0,g,0,g,0,g
+934,dions pizza,bacon small 12 inch,2.5,g,15,mg,160,g,0,g,3,g,1,g,0,g,0,g,0,g
+935,dions pizza,bell peppers gourmet 10 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+936,dions pizza,bell peppers gourmet 14 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+937,dions pizza,bell peppers large 16 inch,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+938,dions pizza,bell peppers slice,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+939,dions pizza,bell peppers small 12 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+940,dions pizza,black olives gourmet 10 inch,1,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+941,dions pizza,black olives gourmet 14 inch,1,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+942,dions pizza,black olives large 16 inch,1,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+943,dions pizza,black olives medium 14 inch,1,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+944,dions pizza,black olives slice,2,g,0,mg,130,g,1,g,0,g,0.5,g,0,g,0,g,0,g
+945,dions pizza,black olives small 12 inch,1,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+946,dions pizza,bleu cheese family salad 10 serving sizes,4,g,15,mg,180,g,1,g,3,g,2.5,g,0,g,0,g,0,g
+947,dions pizza,bleu cheese family salad 4 serving sizes,10,g,35,mg,450,g,2,g,7,g,6,g,0,g,1,g,0,g
+948,dions pizza,bleu cheese dressing one container,32,g,40,mg,530,g,2,g,6,g,8,g,0,g,0,g,3,g
+949,dions pizza,caesar dressing one container,39,g,25,mg,180,g,1,g,1,g,6,g,0,g,0,g,0,g
+950,dions pizza,cheddar family salad 10 serving sizes,4.5,g,15,mg,90,g,1,g,4,g,3,g,0,g,0,g,0,g
+951,dions pizza,cheddar family salad 4 serving sizes,11,g,40,mg,230,g,1,g,9,g,8,g,0,g,0,g,0,g
+952,dions pizza,cheese blend gourmet 10 inch,2,g,5,mg,45,g,0,g,2,g,1,g,0,g,0,g,0,g
+953,dions pizza,cheese blend gourmet 14 inch,6,g,20,mg,150,g,1,g,5,g,3.5,g,0,g,0,g,0,g
+954,dions pizza,cheese blend large 16 inch,9,g,30,mg,230,g,1,g,8,g,6,g,0,g,0,g,0,g
+955,dions pizza,cheese blend medium 14 inch,8,g,25,mg,210,g,1,g,7,g,5,g,0,g,0,g,0,g
+956,dions pizza,cheese blend slice,13,g,45,mg,350,g,2,g,12,g,9,g,0,g,0,g,0,g
+957,dions pizza,cheese blend small 12 inch,7,g,25,mg,190,g,1,g,7,g,4.5,g,0,g,0,g,0,g
+958,dions pizza,cheese toast one piece,9,g,25,mg,170,g,20,g,8,g,6,g,0,g,1,g,0,g
+959,dions pizza,chicken gourmet 10 inch,0.5,g,10,mg,45,g,0,g,3,g,0,g,0,g,0,g,0,g
+960,dions pizza,chicken gourmet 14 inch,1,g,15,mg,70,g,0,g,5,g,0,g,0,g,0,g,0,g
+961,dions pizza,chicken large 16 inch,0.5,g,10,mg,40,g,0,g,3,g,0,g,0,g,0,g,0,g
+962,dions pizza,chicken medium 14 inch,0.5,g,10,mg,35,g,0,g,3,g,0,g,0,g,0,g,0,g
+963,dions pizza,chicken slice,2,g,35,mg,150,g,0,g,11,g,0.5,g,0,g,0,g,0,g
+964,dions pizza,chicken small 12 inch,0,g,5,mg,30,g,0,g,3,g,0,g,0,g,0,g,0,g
+965,dions pizza,chips,20,g,0,mg,320,g,30,g,4,g,3,g,0,g,2,g,2,g
+966,dions pizza,chocolate chip cookie,22,g,65,mg,260,g,65,g,5,g,13,g,0,g,2,g,40,g
+967,dions pizza,chocolate milk,8,g,35,mg,290,g,43,g,13,g,5,g,0,g,1,g,40,g
+968,dions pizza,crackers,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+969,dions pizza,crouton family salad 10 serving sizes,2,g,0,mg,180,g,11,g,2,g,0,g,0,g,1,g,0,g
+970,dions pizza,crouton family salad 4 serving sizes,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+971,dions pizza,crunchy wontons family salad 10 serving sizes,2,g,0,mg,50,g,5,g,1,g,0,g,0,g,0,g,0,g
+972,dions pizza,crunchy wontons family salad 4 serving sizes,4.5,g,0,mg,120,g,12,g,3,g,0,g,0,g,0,g,0,g
+973,dions pizza,dions pizza and pasta sauce extras,0,g,0,mg,1750,g,35,g,7,g,0,g,0,g,7,g,28,g
+974,dions pizza,dried cranberries family salad 10 serving sizes,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,3,g
+975,dions pizza,dried cranberries family salad 4 serving sizes,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,8,g
+976,dions pizza,edamame family salad 10 serving sizes,1.5,g,0,mg,0,g,2,g,3,g,0,g,0,g,1,g,1,g
+977,dions pizza,edamame family salad 4 serving sizes,4,g,0,mg,10,g,6,g,7,g,0,g,0,g,3,g,2,g
+978,dions pizza,extra cheese large 16 inch,3.5,g,10,mg,95,g,1,g,3,g,2.5,g,0,g,0,g,0,g
+979,dions pizza,extra cheese medium 14 inch,3,g,10,mg,85,g,0,g,3,g,2,g,0,g,0,g,0,g
+980,dions pizza,extra cheese slice,11,g,35,mg,280,g,2,g,10,g,7,g,0,g,0,g,0,g
+981,dions pizza,extra cheese small 12 inch,2.5,g,10,mg,70,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+982,dions pizza,family chef 10 servings,12,g,85,mg,550,g,6,g,13,g,6,g,0,g,1,g,3,g
+983,dions pizza,family chef 4 servings,30,g,215,mg,1360,g,14,g,31,g,15,g,0,g,2,g,6,g
+984,dions pizza,family chicken caesar 10 servings,7,g,30,mg,240,g,4,g,11,g,5,g,0,g,0,g,1,g
+985,dions pizza,family chicken caesar 4 servings,18,g,75,mg,590,g,10,g,27,g,12,g,0,g,1,g,2,g
+986,dions pizza,family chicken pecan 10 servings,10,g,35,mg,270,g,5,g,10,g,3,g,0,g,2,g,2,g
+987,dions pizza,family chicken pecan 4 servings,25,g,80,mg,680,g,11,g,24,g,8,g,0,g,4,g,5,g
+988,dions pizza,family crunchy spinach 10 servings,7,g,10,mg,190,g,12,g,8,g,2.5,g,0,g,2,g,4,g
+989,dions pizza,family crunchy spinach 4 servings,17,g,25,mg,460,g,30,g,19,g,6,g,0,g,5,g,9,g
+990,dions pizza,family greek 10 servings,8,g,10,mg,430,g,6,g,3,g,3.5,g,0,g,1,g,2,g
+991,dions pizza,family greek 4 servings,23,g,30,mg,1070,g,16,g,8,g,10,g,0,g,5,g,5,g
+992,dions pizza,family ranch 10 servings,7,g,20,mg,300,g,5,g,9,g,4.5,g,0,g,1,g,2,g
+993,dions pizza,family ranch 4 servings,18,g,55,mg,750,g,13,g,22,g,11,g,0,g,2,g,4,g
+994,dions pizza,family tossed 10 servings,2.5,g,0,mg,35,g,4,g,1,g,1.5,g,0,g,1,g,1,g
+995,dions pizza,family tossed 4 servings,7,g,0,mg,90,g,10,g,2,g,4,g,0,g,2,g,3,g
+996,dions pizza,family turkey 10 servings,9,g,35,mg,510,g,5,g,12,g,5,g,0,g,1,g,2,g
+997,dions pizza,family turkey 4 servings,22,g,95,mg,1280,g,13,g,30,g,13,g,0,g,2,g,4,g
+998,dions pizza,feta family salad 10 serving sizes,3,g,10,mg,150,g,1,g,2,g,2,g,0,g,1,g,1,g
+999,dions pizza,feta family salad 4 serving sizes,7,g,30,mg,370,g,3,g,5,g,5,g,0,g,2,g,1,g

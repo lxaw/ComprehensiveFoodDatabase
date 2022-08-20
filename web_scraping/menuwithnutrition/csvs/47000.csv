@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,davannis,works gluten free crust pizza medium or large,11,g,25,mg,462,g,16,g,9,g,5,g,0,g,1,g,3,g
+1,davannis,chicken florentine gluten free crust pizza medium or large,9,g,21,mg,344,g,15,g,9,g,4,g,0,g,1,g,2,g
+2,davannis,veggie thin crust pizza medium or large,10,g,25,mg,514,g,19,g,11,g,5,g,0,g,1,g,2,g
+3,davannis,five meat gluten free crust pizza medium or large,12,g,31,mg,531,g,16,g,10,g,5,g,0,g,1,g,3,g
+4,davannis,bbq chicken deep dish pizza solo,30,g,108,mg,1744,g,94,g,43,g,16,g,0,g,3,g,11,g
+5,davannis,bbq chicken traditional crust pizza solo,24,g,108,mg,1604,g,79,g,41,g,14,g,0,g,2,g,11,g
+6,davannis,chicken and roma tomato thin crust pizza medium or large,10,g,30,mg,361,g,19,g,13,g,5,g,0,g,1,g,1,g
+7,davannis,chicken florentine thin crust pizza solo,26,g,69,mg,1066,g,45,g,29,g,13,g,0,g,3,g,1,g
+8,davannis,bbq chicken traditional crust pizza medium and large,10,g,49,mg,691,g,33,g,18,g,6,g,49,g,1,g,4,g
+9,davannis,five meat deep dish crust pizza solo,42,g,116,mg,2165,g,85,g,43,g,19,g,0,g,3,g,5,g
+10,davannis,bbq chicken gluten free crust pizza medium or large,10,g,36,mg,481,g,18,g,12,g,5,g,0,g,1,g,5,g
+11,davannis,bbq chicken thin crust pizza solo,24,g,108,mg,1376,g,53,g,36,g,14,g,0,g,2,g,10,g
+12,davannis,five meat calzone,59,g,115,mg,1910,g,75,g,41,g,22,g,0,g,4,g,2,g
+13,davannis,veggie deep dish crust pizza medium or large,12,g,25,mg,598,g,28,g,13,g,6,g,0,g,1,g,2,g
+14,davannis,hawaiian thin crust pizza medium or large,8,g,23,mg,462,g,21,g,11,g,4,g,0,g,1,g,2,g
+15,davannis,chicken and roma tomato traditional crust pizza medium or large,10,g,30,mg,460,g,30,g,15,g,5,g,0,g,1,g,1,g
+16,davannis,italian chef salad without dressing,23,g,70,mg,1296,g,17,g,23,g,0,g,0,g,2,g,1,g
+17,davannis,chicken cobb salad without dressing,18,g,282,mg,1191,g,6,g,38,g,9,g,0,g,2,g,1,g
+18,davannis,caesar salad with caesar dressing,26,g,39,mg,948,g,14,g,12,g,7,g,0,g,2,g,1,g
+19,davannis,southwestern salad with chicken and dressing,28,g,70,mg,1324,g,33,g,30,g,0,g,0,g,6,g,7,g
+20,davannis,spinach salad with chicken without dressing,20,g,109,mg,1018,g,32,g,35,g,8,g,0,g,7,g,21,g
+21,davannis,asian salad with sesame asian dressing,22,g,86,mg,1188,g,47,g,34,g,4,g,0,g,5,g,20,g
+22,davannis,chicken caesar salad with caesar dressing,27,g,94,mg,1287,g,15,g,33,g,7,g,0,g,2,g,2,g
+23,davannis,turkey bacon chipotle white bun hot hoagie,33,g,65,mg,1307,g,39,g,29,g,11,g,0,g,1,g,4,g
+24,davannis,tuna melt ciabatta bun hot hoagie,44,g,24,mg,1010,g,43,g,26,g,7,g,0,g,0,g,1,g
+25,davannis,tuna melt whole grain bun hot hoagie,44,g,24,mg,1010,g,43,g,26,g,7,g,0,g,0,g,1,g
+26,davannis,salami white bun hot hoagie,43,g,93,mg,1402,g,39,g,23,g,14,g,0,g,1,g,4,g
+27,davannis,pizza whole grain bun hot hoagie,19,g,47,mg,1064,g,43,g,19,g,9,g,0,g,3,g,6,g
+28,davannis,turkey bacon chipotle ciabatta bun hot hoagie,33,g,57,mg,1429,g,41,g,28,g,11,g,0,g,0,g,1,g
+29,davannis,chicken bacon honey mustard white bun hot hoagie,22,g,82,mg,1154,g,46,g,35,g,7,g,0,g,7,g,4,g
+30,davannis,meatball whole grain bun hot hoagie,33,g,11,mg,1390,g,52,g,25,g,11,g,0,g,3,g,9,g
+31,davannis,meatball white bun hot hoagie,33,g,19,mg,1298,g,49,g,25,g,11,g,0,g,2,g,9,g
+32,davannis,salami whole grain bun hot hoagie,43,g,85,mg,1494,g,41,g,24,g,14,g,0,g,2,g,4,g
+33,davannis,chicken parmigiana whole grain bun hot hoagie,16,g,84,mg,1031,g,42,g,39,g,6,g,0,g,2,g,6,g
+34,davannis,turkey whole grain bun hot hoagie,24,g,238,mg,1114,g,42,g,25,g,5,g,0,g,2,g,4,g
+35,davannis,chicken bacon honey mustard whole grain bun hot hoagie,22,g,74,mg,1246,g,49,g,35,g,7,g,0,g,9,g,4,g
+36,davannis,chicken bacon honey mustard ciabatta bun hot hoagie,22,g,74,mg,1276,g,48,g,34,g,6,g,0,g,7,g,2,g
+37,davannis,ham white bun hot hoagie,25,g,49,mg,1122,g,39,g,23,g,6,g,0,g,1,g,5,g
+38,davannis,pizza ciabatta bun hot hoagie,19,g,47,mg,1094,g,42,g,18,g,9,g,0,g,1,g,4,g
+39,davannis,ham ciabatta bun hot hoagie,25,g,41,mg,1244,g,41,g,22,g,5,g,0,g,0,g,2,g
+40,davannis,cheese ciabatta bun hot hoagie,30,g,39,mg,866,g,40,g,21,g,9,g,0,g,0,g,1,g
+41,davannis,turkey white bun hot hoagie,24,g,46,mg,1022,g,39,g,25,g,5,g,0,g,1,g,4,g
+42,davannis,club white bun hot hoagie,27,g,54,mg,1185,g,40,g,25,g,7,g,0,g,1,g,4,g
+43,davannis,veggie ciabatta bun hot hoagie,24,g,15,mg,791,g,44,g,14,g,5,g,0,g,1,g,3,g
+44,davannis,pizza white bun hot hoagie,19,g,54,mg,972,g,40,g,18,g,9,g,0,g,2,g,6,g
+45,davannis,assorted white bun hot hoagie,30,g,55,mg,1156,g,39,g,21,g,8,g,0,g,1,g,4,g
+46,davannis,assorted ciabatta bun hot hoagie,30,g,47,mg,1278,g,41,g,21,g,7,g,0,g,0,g,1,g
+47,davannis,meatball ciabatta bun hot hoagie,33,g,11,mg,1420,g,51,g,24,g,11,g,0,g,1,g,6,g
+48,davannis,pastrami whole grain bun hot hoagie,26,g,40,mg,1174,g,42,g,22,g,6,g,0,g,2,g,5,g
+49,davannis,club ciabatta bun hot hoagie,27,g,46,mg,1307,g,41,g,25,g,6,g,0,g,0,g,1,g
+50,davannis,assorted whole grain bun hot hoagie,30,g,47,mg,1248,g,42,g,22,g,8,g,0,g,2,g,4,g
+51,davannis,chicken breast white bun hot hoagie,28,g,69,mg,791,g,40,g,31,g,6,g,0,g,1,g,4,g
+52,davannis,roast beef whole grain bun hot hoagie,25,g,45,mg,974,g,41,g,25,g,6,g,0,g,2,g,4,g
+53,davannis,southwestern chicken white bun hot hoagie,26,g,77,mg,1104,g,43,g,34,g,9,g,0,g,2,g,7,g
+54,davannis,roast beef white bun hot hoagie,25,g,53,mg,882,g,39,g,25,g,6,g,0,g,1,g,4,g
+55,davannis,veggie whole grain bun hot hoagie,24,g,15,mg,761,g,45,g,15,g,5,g,0,g,3,g,6,g
+56,davannis,cheese white bun hot hoagie,31,g,47,mg,744,g,39,g,21,g,10,g,0,g,1,g,4,g
+57,davannis,veggie white bun hot hoagie,24,g,23,mg,669,g,43,g,14,g,5,g,0,g,2,g,6,g
+58,davannis,tuna melt white bun hot hoagie,44,g,32,mg,887,g,42,g,26,g,8,g,0,g,1,g,4,g
+59,davannis,chicken parmigiana white bun hot hoagie,16,g,92,mg,938,g,40,g,38,g,6,g,0,g,1,g,7,g
+60,davannis,pastrami white bun hot hoagie,27,g,48,mg,1082,g,40,g,21,g,6,g,0,g,1,g,5,g
+61,davannis,chicken breast ciabatta bun hot hoagie,28,g,61,mg,913,g,41,g,30,g,6,g,0,g,0,g,2,g
+62,davannis,turkey ciabatta bun hot hoagie,24,g,38,mg,1144,g,41,g,24,g,5,g,0,g,0,g,1,g
+63,davannis,southwestern chicken ciabatta bun hot hoagie,26,g,69,mg,1227,g,45,g,34,g,9,g,0,g,1,g,4,g
+64,davannis,buffalo chicken white bun hot hoagie,22,g,75,mg,1114,g,38,g,29,g,3,g,0,g,1,g,4,g
+65,davannis,turkey bacon chipotle whole grain bun hot hoagie,33,g,57,mg,1399,g,42,g,29,g,11,g,0,g,2,g,4,g
+66,davannis,pastrami ciabatta bun hot hoagie,26,g,40,mg,1204,g,41,g,21,g,6,g,0,g,0,g,2,g
+67,davannis,roast beef ciabatta bun hot hoagie,25,g,45,mg,1004,g,40,g,24,g,6,g,0,g,0,g,1,g
+68,davannis,buffalo chicken ciabatta bun hot hoagie,22,g,67,mg,1237,g,40,g,29,g,3,g,0,g,0,g,2,g
+69,davannis,club whole grain bun hot hoagie,27,g,46,mg,1277,g,42,g,26,g,7,g,0,g,2,g,4,g
+70,davannis,chicken breast whole grain bun hot hoagie,28,g,61,mg,883,g,42,g,31,g,6,g,0,g,2,g,4,g
+71,davannis,ham whole grain bun hot hoagie,25,g,41,mg,1214,g,42,g,23,g,6,g,0,g,2,g,5,g
+72,davannis,southwestern chicken whole grain bun hot hoagie,26,g,69,mg,1197,g,46,g,35,g,9,g,0,g,3,g,7,g
+73,davannis,salami ciabatta bun hot hoagie,43,g,85,mg,1524,g,40,g,23,g,14,g,0,g,0,g,1,g
+74,davannis,buffalo chicken whole grain bun hot hoagie,22,g,67,mg,1207,g,41,g,30,g,3,g,0,g,2,g,4,g
+75,davannis,chicken parmigiana ciabatta bun hot hoagie,16,g,84,mg,1061,g,41,g,38,g,5,g,0,g,0,g,4,g
+76,davannis,whole grain bun garlic cheese bread with red sauce,13,g,11,mg,403,g,22,g,8,g,4,g,0,g,1,g,3,g
+77,davannis,white bun garlic cheese bread with red sauce,13,g,15,mg,357,g,21,g,7,g,4,g,0,g,1,g,4,g
+78,davannis,ciabatta bun garlic cheese bread with red sauce,13,g,11,mg,418,g,22,g,7,g,4,g,0,g,0,g,2,g
+79,davannis,breadstick with red sauce,4,g,3,mg,123,g,21,g,5,g,2,g,0,g,3,g,2,g
+80,davannis,salveo baked potato crisps,2,g,0,mg,180,g,25,g,1,g,0,g,0,g,2,g,1,g
+81,davannis,pasta sauce zesty gourmet,1,g,0,mg,750,g,9,g,2,g,0,g,0,g,2,g,5,g
+82,davannis,pizza and hot hoagies sauce,0,g,0,mg,180,g,5,g,1,g,0,g,0,g,1,g,3,g
+83,davannis,pizza and hot hoagies sausage lasagna,11,g,30,mg,630,g,24,g,12,g,4.5,g,0,g,2,g,6,g
+84,davannis,pizza sausage and pepperoni,19,g,60,mg,900,g,26,g,18,g,10,g,0,g,1,g,3,g
+85,davannis,potato chips jalapeno,15,g,0,mg,480,g,25,g,4,g,1.5,g,0,g,2,g,1,g
+86,davannis,potato chips parmesan and garlic,15,g,0,mg,310,g,25,g,4,g,1.5,g,0,g,2,g,1,g
+87,davannis,premium shredded parmesan cheese,6,g,20,mg,260,g,0,g,9,g,4,g,0,g,0,g,0,g
+88,davannis,premium shredded romano cheese,5,g,20,mg,290,g,0,g,9,g,3.5,g,0,g,0,g,0,g
+89,davannis,tavern style pizza four meat,17,g,60,mg,890,g,25,g,20,g,8,g,0,g,2,g,2,g
+90,davannis,tavern style pizza supreme,17,g,50,mg,850,g,26,g,17,g,8,g,0,g,2,g,3,g
+91,daylight donuts,glazed cinnamon roll,18,g,0,mg,228,g,55,g,5,g,9,g,0,g,1,g,18,g
+92,daylight donuts,glazed apple fritter,15,g,0,mg,217,g,59,g,4,g,8,g,0,g,1,g,27,g
+93,daylight donuts,glazed bear claw,17,g,0,mg,210,g,47,g,5,g,8,g,0,g,1,g,14,g
+94,daylight donuts,glazed donut holes,14,g,0,mg,181,g,49,g,4,g,7,g,0,g,1,g,20,g
+95,daylight donuts,chocolate iced chocolate cake donut with sprinkles,10,g,25,mg,242,g,32,g,3,g,4.5,g,0,g,2,g,16,g
+96,daylight donuts,chocolate iced long john donut,15,g,0,mg,221,g,50,g,4,g,8,g,0,g,1,g,17,g
+97,daylight donuts,white iced cake donut with sprinkles,8,g,27,mg,177,g,38,g,3,g,4,g,0,g,1,g,16,g
+98,daylight donuts,maple iced cake donut,7,g,27,mg,175,g,35,g,3,g,3.5,g,0,g,1,g,14,g
+99,daylight donuts,glazed old fashion cake donut,17,g,30,mg,220,g,51,g,3,g,9,g,0,g,0,g,25,g
+100,daylight donuts,glazed pinecone donut,20,g,0,mg,253,g,61,g,6,g,10,g,0,g,1,g,20,g
+101,daylight donuts,glazed ring donut,7,g,0,mg,90,g,22,g,2,g,3.5,g,0,g,0,g,8,g
+102,daylight donuts,glazed twist donut,14,g,0,mg,174,g,38,g,4,g,7,g,0,g,1,g,10,g
+103,daylight donuts,plain vanilla cake donut,6,g,27,mg,170,g,28,g,3,g,3,g,0,g,1,g,7,g
+104,daylight donuts,chocolate iced bismark donut with bavarian filling,10,g,0,mg,284,g,48,g,3,g,5,g,0,g,0,g,40,g
+105,daylight donuts,cinnamon sugar cake donut,6,g,27,mg,170,g,32,g,3,g,3,g,0,g,1,g,12,g
+106,daylight donuts,strawberry iced cake donut with sprinkles,8,g,27,mg,179,g,40,g,3,g,4,g,0,g,1,g,18,g
+107,daylight donuts,white iced cake donut,7,g,27,mg,179,g,36,g,3,g,3,g,0,g,1,g,15,g
+108,daylight donuts,chocolate iced ring donut,7,g,0,mg,96,g,20,g,2,g,3.5,g,0,g,0,g,5,g
+109,daylight donuts,strawberry iced cake donut,7,g,27,mg,179,g,37,g,3,g,3.5,g,0,g,1,g,16,g
+110,daylight donuts,glazed bismark donut with raspberry filling,10,g,0,mg,203,g,84,g,3,g,5,g,0,g,0,g,50,g
+111,daylight donuts,glazed bismark donut with strawberry filling,10,g,0,mg,221,g,74,g,3,g,5,g,0,g,0,g,46,g
+112,daylight donuts,strawberry iced ring donut,7,g,0,mg,103,g,27,g,2,g,3.5,g,0,g,0,g,12,g
+113,daylight donuts,chocolate iced bismark donut with holland creme filling,15,g,0,mg,176,g,37,g,3,g,2.2,g,0,g,0,g,16,g
+114,daylight donuts,glazed bismark donut with lemon filling,9,g,0,mg,254,g,60.2,g,2.7,g,4.5,g,0,g,0,g,31.5,g
+115,daylight donuts,powdered sugar cake donut,7,g,27,mg,170,g,32,g,3,g,3,g,0,g,1,g,10,g
+116,daylight donuts,orange iced cake donut,7,g,27,mg,179,g,37,g,3,g,3.5,g,0,g,1,g,16,g
+117,daylight donuts,orange iced ring donut,7,g,0,mg,103,g,27,g,2,g,3.5,g,0,g,0,g,12,g
+118,daylight donuts,chocolate iced cake donut with sprinkles,8,g,27,mg,180,g,38,g,3,g,4,g,0,g,1,g,17,g
+119,daylight donuts,white iced ring donut with coconut,9,g,0,mg,111,g,27,g,3,g,7,g,0,g,1,g,11,g
+120,daylight donuts,chocolate iced cake donut with peanuts,10,g,27,mg,182,g,38,g,3,g,4,g,0,g,1,g,16,g
+121,daylight donuts,glazed sour cream cake donut,25,g,25,mg,256,g,36,g,3,g,13,g,0,g,0,g,23,g
+122,daylight donuts,white iced cake donut with coconut,8,g,27,mg,185,g,37,g,4,g,4.5,g,0,g,2,g,16,g
+123,daylight donuts,maple iced ring donut,7,g,0,mg,95,g,22,g,2,g,3.5,g,0,g,0,g,7,g
+124,daylight donuts,maple iced cake donut with peanuts,9,g,27,mg,176,g,36,g,4,g,4,g,0,g,2,g,14,g
+125,daylight donuts,chocolate iced cake donut,7,g,27,mg,181,g,37,g,3,g,3,g,0,g,1,g,16,g
+126,daylight donuts,chocolate iced chocolate cake donut,9,g,25,mg,242,g,30,g,3,g,4.5,g,0,g,2,g,14,g
+127,daylight donuts,baked sweet dough,1.5,g,0,mg,95,g,13,g,2,g,0.5,g,0,g,1,g,2,g
+128,daylight donuts,chocolate iced bismark with bavarian filling,10,g,0,mg,280,g,48,g,3,g,5,g,0,g,0,g,40,g
+129,daylight donuts,chocolate iced bismark with holland creme filling,15,g,0,mg,180,g,37,g,3,g,2,g,0,g,0,g,16,g
+130,daylight donuts,chocolate iced cake,7,g,25,mg,180,g,37,g,3,g,3,g,0,g,1,g,16,g
+131,daylight donuts,chocolate iced cake with coconut,8,g,25,mg,190,g,38,g,4,g,5,g,0,g,2,g,16,g
+132,daylight donuts,chocolate iced cake with peanuts,10,g,25,mg,180,g,38,g,3,g,4,g,0,g,1,g,16,g
+133,daylight donuts,chocolate iced cake with sprinkles,8,g,25,mg,180,g,38,g,3,g,4,g,0,g,1,g,17,g
+134,daylight donuts,chocolate iced chocolate cake,9,g,25,mg,240,g,30,g,3,g,4.5,g,0,g,2,g,14,g
+135,daylight donuts,chocolate iced chocolate cake with sprinkles,10,g,25,mg,240,g,32,g,3,g,4.5,g,0,g,2,g,16,g
+136,daylight donuts,chocolate iced long john,15,g,0,mg,220,g,50,g,4,g,8,g,0,g,1,g,17,g
+137,daylight donuts,chocolate iced ring,7,g,0,mg,95,g,20,g,2,g,3.5,g,0,g,0,g,5,g
+138,daylight donuts,cinnamon sugar cake,6,g,25,mg,170,g,32,g,3,g,3,g,0,g,1,g,12,g
+139,daylight donuts,cinnamon sugar twist,14,g,0,mg,170,g,38,g,4,g,7,g,0,g,1,g,10,g
+140,daylight donuts,glazed apple fritter,15,g,0,mg,220,g,59,g,4,g,8,g,0,g,1,g,27,g
+141,daylight donuts,glazed bear claw,17,g,0,mg,210,g,47,g,5,g,8,g,0,g,1,g,14,g
+142,daylight donuts,glazed bismark with lemon filling,10,g,0,mg,280,g,67,g,3,g,5,g,0,g,0,g,35,g
+143,daylight donuts,glazed bismark with raspberry filling,10,g,0,mg,200,g,84,g,3,g,5,g,0,g,0,g,50,g
+144,daylight donuts,glazed bismark with strawberry filling,10,g,0,mg,220,g,74,g,3,g,5,g,0,g,0,g,46,g
+145,daylight donuts,glazed cinnamon roll,18,g,0,mg,230,g,55,g,5,g,9,g,0,g,1,g,18,g
+146,daylight donuts,glazed donut holes,14,g,0,mg,180,g,49,g,4,g,7,g,0,g,1,g,20,g
+147,daylight donuts,glazed old fashion cake,17,g,30,mg,220,g,51,g,3,g,9,g,0,g,0,g,25,g
+148,daylight donuts,glazed pinecone,20,g,0,mg,250,g,61,g,6,g,10,g,0,g,1,g,20,g
+149,daylight donuts,glazed ring,7,g,0,mg,90,g,22,g,2,g,3.5,g,0,g,0,g,8,g
+150,daylight donuts,glazed sour cream cake,25,g,25,mg,260,g,36,g,3,g,13,g,0,g,0,g,23,g
+151,daylight donuts,glazed twist,14,g,0,mg,170,g,41,g,4,g,7,g,0,g,1,g,13,g
+152,daylight donuts,maple iced cake,7,g,25,mg,180,g,35,g,3,g,3.5,g,0,g,1,g,14,g
+153,daylight donuts,maple iced cake with peanuts,9,g,25,mg,180,g,36,g,4,g,4,g,0,g,2,g,14,g
+154,daylight donuts,maple iced long john,15,g,0,mg,200,g,45,g,4,g,8,g,0,g,1,g,13,g
+155,daylight donuts,maple iced ring,7,g,0,mg,95,g,22,g,2,g,3.5,g,0,g,0,g,7,g
+156,daylight donuts,orange iced cake,7,g,25,mg,180,g,37,g,3,g,3.5,g,0,g,1,g,16,g
+157,daylight donuts,orange iced ring,7,g,0,mg,105,g,27,g,2,g,3.5,g,0,g,0,g,12,g
+158,daylight donuts,plain vanilla cake donut,6,g,25,mg,170,g,28,g,3,g,3,g,0,g,1,g,7,g
+159,daylight donuts,powdered sugar cake,7,g,25,mg,170,g,32,g,3,g,3,g,0,g,1,g,10,g
+160,daylight donuts,strawberry iced cake,7,g,25,mg,180,g,37,g,3,g,3.5,g,0,g,1,g,16,g
+161,daylight donuts,strawberry iced cake with sprinkles,8,g,25,mg,180,g,40,g,3,g,4,g,0,g,1,g,18,g
+162,daylight donuts,strawberry iced ring,7,g,0,mg,105,g,27,g,2,g,3.5,g,0,g,0,g,12,g
+163,daylight donuts,white iced cake,7,g,25,mg,180,g,36,g,3,g,3,g,0,g,1,g,15,g
+164,daylight donuts,white iced cake with coconut,8,g,25,mg,190,g,37,g,4,g,4.5,g,0,g,2,g,16,g
+165,daylight donuts,white iced cake with sprinkles,8,g,25,mg,180,g,38,g,3,g,4,g,0,g,1,g,16,g
+166,daylight donuts,white iced ring with coconut,9,g,0,mg,110,g,27,g,3,g,7,g,0,g,1,g,11,g
+167,del taco,chips and queso dip,17,g,15,mg,570,g,29,g,6,g,5,g,0,g,1,g,1,g
+168,del taco,large chips and queso dip,39,g,45,mg,1620,g,61,g,16,g,13,g,0,g,3,g,3,g
+169,del taco,strawberry shake,4.4,g,13,mg,133,g,42.1,g,6.7,g,4,g,0,g,0.4,g,35.5,g
+170,del taco,strawberry lemonade,0,g,0,mg,15,g,8,g,0,g,0,g,0,g,1,g,7,g
+171,del taco,chocolate shake,5.1,g,14,mg,164,g,49.1,g,7,g,4.2,g,0,g,0.5,g,39.7,g
+172,del taco,iced prima java coffee,1.5,g,5,mg,70,g,29,g,3,g,1.5,g,0,g,0,g,25,g
+173,del taco,large premium chocolate shake,15,g,40,mg,570,g,167,g,24,g,12,g,0,g,1,g,134,g
+174,del taco,vanilla shake,4.9,g,16,mg,142,g,41.7,g,7.1,g,4,g,0,g,0,g,34.6,g
+175,del taco,2 milk,5,g,25,mg,130,g,13,g,10,g,3,g,0,g,0,g,13,g
+176,del taco,prima java coffee,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+177,del taco,large premium vanilla shake,14,g,40,mg,450,g,133,g,23,g,11,g,0,g,0,g,111,g
+178,del taco,large premium strawberry shake,14,g,40,mg,470,g,153,g,23,g,11,g,0,g,2,g,129,g
+179,del taco,bacon breakfast burrito,36,g,405,mg,1620,g,38,g,32,g,15,g,0,g,1,g,2,g
+180,del taco,egg and cheese breakfast roller burrito,13,g,190,mg,620,g,28,g,13,g,6,g,0,g,1,g,1,g
+181,del taco,breakfast burrito,21,g,375,mg,890,g,38,g,20,g,9,g,0,g,1,g,2,g
+182,del taco,hashbrown sticks,17,g,0,mg,180,g,18,g,0,g,3.5,g,0,g,0,g,0,g
+183,del taco,chorizo breakfast taco,15,g,195,mg,480,g,16,g,11,g,8,g,0,g,1,g,2,g
+184,del taco,chorizo breakfast roller burrito,15,g,195,mg,730,g,29,g,13,g,6,g,0,g,1,g,1,g
+185,del taco,egg and cheese breakfast taco,11,g,190,mg,330,g,15,g,9,g,6,g,0,g,1,g,1,g
+186,del taco,chorizo breakfast burrito,28,g,395,mg,119,g,39,g,24,g,11,g,0,g,2,g,2,g
+187,del taco,epic bacon breakfast scrambler,62,g,590,mg,2030,g,71,g,39,g,23,g,0,g,3,g,5,g
+188,del taco,epic steak breakfast scramber,54,g,595,mg,1890,g,73,g,39,g,20,g,0,g,3,g,6,g
+189,del taco,steak breakfast burrito,24,g,400,mg,1240,g,40,g,28,g,10,g,0,g,1,g,2,g
+190,del taco,epic huevos rancheros breakfast scrambler,62,g,615,mg,2100,g,91,g,48,g,24,g,0,g,13,g,7,g
+191,del taco,breakfast bacon roller burrito,17,g,200,mg,820,g,28,g,15,g,7,g,0,g,1,g,1,g
+192,del taco,bacon breakfast taco,14,g,195,mg,450,g,15,g,11,g,7,g,0,g,1,g,1,g
+193,del taco,steak breakfast taco,0.1,g,2,mg,5,g,0.1,g,0.1,g,0.0001,g,0,g,0.0001,g,0.0001,g
+194,del taco,epic chorizo breakfast scrambler,62,g,410,mg,2310,g,73,g,36,g,22,g,0,g,3,g,4,g
+195,del taco,classic grilled chicken burrito,33,g,75,mg,1100,g,40,g,20,g,8,g,0,g,2,g,2,g
+196,del taco,1 2lb bean and cheese burrito with green sauce,10,g,20,mg,1250,g,70,g,21,g,6,g,0,g,12,g,0,g
+197,del taco,8 layer veggie burrito,18,g,30,mg,1200,g,72,g,18,g,8,g,0,g,9,g,3,g
+198,del taco,del beef burrito,24,g,75,mg,810,g,40,g,27,g,12,g,0.5,g,3,g,2,g
+199,del taco,macho combo burrito,37,g,110,mg,1840,g,100,g,46,g,20,g,0.5,g,16,g,6,g
+200,del taco,spicy grilled chicken burrito,17,g,55,mg,1450,g,71,g,26,g,6,g,0,g,7,g,0,g
+201,del taco,jacked up value bean rice and cheese burrito,8,g,15,mg,680,g,40,g,12,g,3.5,g,0,g,6,g,0,g
+202,del taco,del combo burrito,17,g,45,mg,1150,g,64,g,27,g,9,g,0,g,11,g,1,g
+203,del taco,epic grilled chicken avocado burrito,36,g,90,mg,2070,g,90,g,38,g,7,g,0,g,13,g,7,g
+204,del taco,1 2lb bean and cheese burrito with red sauce,10,g,20,mg,1220,g,69,g,21,g,6,g,0,g,13,g,0,g
+205,del taco,epic queso chicken burrito,45,g,115,mg,2430,g,78,g,38,g,17,g,0,g,5,g,4,g
+206,del taco,ranch chicken roller,12,g,40,mg,730,g,29,g,14,g,3.5,g,0,g,1,g,0,g
+207,del taco,chipotle chicken roller,12,g,4,mg,730,g,29,g,14,g,3.5,g,0,g,1,g,0,g
+208,del taco,epic steak and potato burrito,61,g,120,mg,2280,g,77,g,40,g,23,g,0,g,4,g,4,g
+209,del taco,epic cali steak and guacamole burrito,39,g,70,mg,1970,g,80,g,30,g,13,g,0,g,7,g,5,g
+210,del taco,wet chicken verde burrito,27,g,90,mg,2000,g,67,g,35,g,9,g,0,g,10,g,1,g
+211,del taco,epic steak burrito,24,g,75,mg,2450,g,90,g,42,g,9,g,0.5,g,9,g,4,g
+212,del taco,epic chipotle chicken avocado burrito,48,g,95,mg,2130,g,91,g,38,g,9,g,0,g,13,g,7,g
+213,del taco,original chicken roller,9,g,40,mg,750,g,30,g,14,g,3,g,0,g,1,g,0,g
+214,del taco,queso chicken roller,10,g,40,mg,800,g,29,g,14,g,4,g,0,g,1,g,0,g
+215,del taco,del turkey combo burrito,14,g,55,mg,1360,g,65,g,27,g,7,g,0,g,11,g,0,g
+216,del taco,queso bean burrito,13,g,25,mg,1350,g,70,g,23,g,7,g,0,g,12,g,1,g
+217,del taco,cinnamon churro,10,g,15,mg,105,g,27,g,1,g,3.5,g,0,g,0,g,18,g
+218,del taco,caramel cheesecake bites,28,g,40,mg,310,g,43,g,6,g,10,g,0,g,0,g,12,g
+219,del taco,chocolate chip cookie,10,g,15,mg,85,g,27,g,2,g,4.5,g,0,g,1,g,18,g
+220,del taco,crinkle cut fries,9.6,g,0,mg,185,g,16.8,g,1.7,g,1.4,g,0,g,1.7,g,0,g
+221,del taco,carne asada fries,59,g,85,mg,1360,g,46,g,24,g,15,g,0,g,6,g,2,g
+222,del taco,deluxe chili cheddar fries,37,g,60,mg,820,g,44,g,16,g,13,g,0,g,6,g,2,g
+223,del taco,queso loaded fries,42,g,70,mg,1470,g,47,g,20,g,15,g,0,g,5,g,4,g
+224,del taco,chili cheddar fries,35,g,50,mg,810,g,42,g,15,g,11,g,0,g,5,g,1,g
+225,del taco,kids hamburger,15,g,40,mg,520,g,34,g,13,g,5,g,1,g,1,g,7,g
+226,del taco,kids value bean and cheese burrito with red sauce,9,g,20,mg,790,g,44,g,14,g,4.5,g,0,g,7,g,0,g
+227,del taco,kids value bean and cheese burrito with green sauce,9,g,20,mg,810,g,45,g,14,g,4.5,g,0,g,7,g,0,g
+228,del taco,pollo asado avocado bowl,21,g,60,mg,1390,g,72,g,28,g,1.5,g,0,g,13,g,8,g
+229,del taco,crunchtada tosatada,14,g,20,mg,400,g,38,g,12,g,4.5,g,0,g,7,g,1,g
+230,del taco,avocado veggie bowl,15,g,0,mg,940,g,70,g,13,g,1.5,g,0,g,13,g,9,g
+231,del taco,large queso loaded beef nachos,55,g,105,mg,2060,g,100,g,43,g,20,g,1,g,17,g,8,g
+232,del taco,regular queso loaded beef nachos,32,g,65,mg,1280,g,52,g,23,g,13,g,0,g,8,g,5,g
+233,del taco,chicken verde wet burrito plate,47.5,g,100,mg,3200,g,154,g,53,g,12.5,g,0,g,25,g,4,g
+234,del taco,beer battered fish taco plate,44.5,g,40,mg,2140,g,139,g,32,g,7.5,g,0,g,21,g,7,g
+235,del taco,large queso loaded chicken nachos,46,g,110,mg,2460,g,99,g,41,g,13,g,0,g,15,g,6,g
+236,del taco,grilled chicken street taco plate,34.5,g,70,mg,1760,g,127,g,38,g,3.5,g,0,g,19,g,5,g
+237,del taco,beef del taco plate,60.5,g,180,mg,1840,g,115,g,52,g,25.5,g,0,g,19,g,7,g
+238,del taco,large queso loaded steak nachos,46,g,100,mg,2700,g,100,g,44,g,16,g,0.5,g,15,g,7,g
+239,del taco,steak wet burrito plate,47.5,g,95,mg,3330,g,150,g,55,g,15.5,g,0,g,26,g,55,g
+240,del taco,regular queso loaded chicken nachos,28,g,70,mg,1480,g,52,g,23,g,10,g,0,g,7,g,4,g
+241,del taco,steak taco plate,34.5,g,60,mg,2000,g,127,g,40,g,6.5,g,0,g,19,g,5,g
+242,del taco,regular queso loaded steak nachos,28,g,65,mg,1600,g,52,g,24,g,11,g,0,g,7,g,4,g
+243,del taco,turkey del taco plate,52.5,g,160,mg,2260,g,117,g,52,g,19.5,g,0,g,19,g,3,g
+244,del taco,cheddar quesadilla,26,g,85,mg,850,g,31,g,22,g,16,g,0,g,1,g,0,g
+245,del taco,chicken cheddar quesadilla,31,g,130,mg,1190,g,33,g,34,g,16,g,0,g,1,g,0,g
+246,del taco,spicy jack quesadilla,27,g,75,mg,830,g,33,g,23,g,14,g,0,g,1,g,0,g
+247,del taco,chicken spicy jack quesadilla,31,g,120,mg,1170,g,36,g,34,g,14,g,0,g,1,g,0,g
+248,del taco,mini cheddar quesadilla,6,g,20,mg,300,g,14,g,5,g,6,g,0,g,1,g,0,g
+249,del taco,kids quesadilla,6,g,20,mg,300,g,14,g,5,g,6,g,0,g,1,g,0,g
+250,del taco,chicken quesadilla stacker,9,g,50,mg,520,g,15,g,13,g,6,g,0,g,1,g,0,g
+251,del taco,mini bacon quesadilla,9,g,25,mg,420,g,14,g,8,g,7,g,0,g,1,g,0,g
+252,del taco,chicken bacon acocade salad without dressing,46,g,85,mg,1110,g,23,g,23,g,7,g,0,g,5,g,6,g
+253,del taco,mexican chopped chicken salad without dressing,23,g,90,mg,1340,g,39,g,31,g,6,g,0,g,11,g,9,g
+254,del taco,signature taco salad without salsa,29,g,80,mg,930,g,38,g,25,g,13,g,0,g,12,g,12,g
+255,del taco,double del cheeseburger,47,g,125,mg,1230,g,35,g,30,g,18,g,2,g,1,g,7,g
+256,del taco,cheeseburger,21,g,60,mg,950,g,35,g,17,g,9,g,1,g,1,g,7,g
+257,del taco,bacon double del cheeseburger,51,g,135,mg,1400,g,35,g,33,g,20,g,2,g,1,g,7,g
+258,del taco,del cheeseburger,28,g,70,mg,850,g,34,g,17,g,10,g,1,g,1,g,7,g
+259,del taco,bean and cheese cup,3.5,g,10,mg,830,g,52,g,20,g,2,g,0,g,18,g,1,g
+260,del taco,potato poppers,3.5,g,5,mg,109,g,5.1,g,1.8,g,1.5,g,0,g,0.5,g,0.3,g
+261,del taco,nachos,19,g,5,mg,540,g,30,g,5,g,4,g,0,g,1,g,4,g
+262,del taco,crunchy value taco,8,g,20,mg,130,g,9,g,6,g,3.5,g,0,g,2,g,1,g
+263,del taco,beer battered fish taco,12,g,15,mg,470,g,26,g,7,g,2,g,0,g,3,g,2,g
+264,del taco,grilled chicken taco,12,g,45,mg,590,g,16,g,12,g,5,g,0,g,1,g,1,g
+265,del taco,steak street taco,7,g,25,mg,400,g,20,g,11,g,1.5,g,0,g,2,g,1,g
+266,del taco,soft value taco,7,g,20,mg,260,g,15,g,7,g,6,g,0,g,2,g,1,g
+267,del taco,soft del taco,18,g,65,mg,410,g,17,g,18,g,12,g,0,g,2,g,2,g
+268,del taco,crunchy del taco,20,g,85,mg,320,g,14,g,17,g,11,g,0,g,2,g,2,g
+269,del taco,salsa chicken taco,5,g,30,mg,480,g,16,g,10,g,3,g,0,g,1,g,1,g
+270,del taco,chicken street taco,6,g,30,mg,280,g,20,g,10,g,0,g,0,g,2,g,1,g
+271,del taco,queso crunch taco,23,g,65,mg,640,g,28,g,20,g,15,g,0,g,3,g,2,g
+272,del taco,steak flatbread taco,15,g,40,mg,800,g,34,g,17,g,4.5,g,0,g,1,g,2,g
+273,del taco,soft turkey del taco,15,g,75,mg,630,g,17,g,18,g,10,g,0,g,2,g,1,g
+274,del taco,crunchy turkey del taco,16,g,75,mg,530,g,15,g,17,g,8,g,0,g,2,g,0,g
+275,del taco,chicken flatbread taco,14,g,40,mg,690,g,34,g,16,g,3,g,0,g,1,g,2,g
+276,del taco,2 milk,5,g,25,mg,130,g,13,g,10,g,3,g,0,g,0,g,13,g
+277,del taco,3 layer queso nachos,11,g,5,mg,680,g,36,g,9,g,3,g,0,g,7,g,1,g
+278,del taco,8 layer veggie burrito,17,g,30,mg,1310,g,69,g,17,g,7,g,0,g,9,g,2,g
+279,del taco,avocado veggie bowl,16,g,0,mg,1430,g,72,g,14,g,2,g,0,g,12,g,8,g
+280,del taco,bacon double del cheeseburger,51,g,145,mg,1530,g,35,g,37,g,20,g,2,g,1,g,7,g
+281,del taco,bean and cheese burrito green,10,g,20,mg,1250,g,70,g,21,g,6,g,0,g,12,g,0,g
+282,del taco,bean and cheese burrito red,10,g,20,mg,1220,g,69,g,21,g,6,g,0,g,13,g,0,g
+283,del taco,bean and cheese cup,3,g,10,mg,570,g,34,g,13,g,1.5,g,0,g,12,g,0,g
+284,del taco,beer battered fish taco,12,g,15,mg,470,g,26,g,7,g,2,g,0,g,3,g,2,g
+285,del taco,beyond avocado taco,14,g,0,mg,390,g,22,g,12,g,6,g,0,g,4,g,2,g
+286,del taco,beyond burrito,21,g,30,mg,1290,g,60,g,27,g,10,g,0,g,9,g,3,g
+287,del taco,beyond taco,19,g,35,mg,510,g,15,g,19,g,10,g,0,g,2,g,1,g
+288,del taco,bottled water,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+289,del taco,breakfast burrito with bacon,36,g,405,mg,1620,g,38,g,32,g,15,g,0,g,1,g,2,g
+290,del taco,breakfast burrito with carne asada,24,g,400,mg,1240,g,40,g,28,g,10,g,0,g,1,g,2,g
+291,del taco,breakfast burrito with chorizo,28,g,395,mg,1190,g,39,g,24,g,11,g,0,g,2,g,2,g
+292,del taco,breakfast burrito with egg and cheese,21,g,375,mg,890,g,38,g,20,g,9,g,0,g,1,g,2,g
+293,del taco,breakfast roller with bacon,17,g,200,mg,820,g,28,g,15,g,7,g,0,g,1,g,1,g
+294,del taco,breakfast roller with chorizo,15,g,195,mg,730,g,29,g,13,g,6,g,0,g,1,g,1,g
+295,del taco,breakfast roller with egg and cheese,13,g,190,mg,620,g,28,g,13,g,6,g,0,g,1,g,1,g
+296,del taco,breakfast toasted wrap with bacon,24,g,165,mg,1050,g,37,g,16,g,9,g,0,g,1,g,1,g
+297,del taco,breakfast toasted wrap with carne asada,22,g,180,mg,1150,g,39,g,21,g,9,g,0,g,1,g,1,g
+298,del taco,breakfast toasted wrap with chorizo,23,g,165,mg,960,g,37,g,14,g,9,g,0,g,2,g,1,g
+299,del taco,breakfast toasted wrap with egg and cheese,19,g,155,mg,810,g,37,g,12,g,7,g,0,g,1,g,1,g
+300,del taco,caesar chicken roller,13,g,40,mg,730,g,30,g,13,g,3,g,0,g,1,g,0,g
+301,del taco,caramel cheesecake bites 2 piece,28,g,40,mg,310,g,43,g,6,g,10,g,0,g,0,g,12,g
+302,del taco,caramel cheesecake bites 4 piece,55,g,80,mg,620,g,86,g,12,g,20,g,0,g,0,g,25,g
+303,del taco,carne asada al carbon taco,4.5,g,25,mg,430,g,20,g,11,g,1.5,g,0,g,1,g,1,g
+304,del taco,carne asada fries,59,g,85,mg,1360,g,46,g,24,g,15,g,0,g,6,g,2,g
+305,del taco,carne asada wet burrito,27,g,85,mg,2130,g,63,g,37,g,12,g,0,g,11,g,1,g
+306,del taco,carne asada wet burrito plato,48,g,95,mg,3680,g,154,g,56,g,17,g,0,g,25,g,4,g
+307,del taco,cheddar quesadilla,26,g,85,mg,850,g,31,g,22,g,16,g,0,g,1,g,0,g
+308,del taco,cheeseburger,21,g,60,mg,950,g,35,g,17,g,9,g,1,g,1,g,7,g
+309,del taco,chicken al carbon taco,4.5,g,30,mg,310,g,19,g,10,g,0,g,0,g,1,g,0,g
+310,del taco,chicken bacon avocado salad with caesar dressing,48,g,115,mg,1290,g,25,g,28,g,8,g,0,g,6,g,6,g
+311,del taco,chicken bacon avocado salad with ranch dressing,42,g,100,mg,1280,g,27,g,27,g,6,g,0,g,5,g,6,g
+312,del taco,chicken cheddar quesadilla,31,g,130,mg,1190,g,33,g,34,g,16,g,0,g,1,g,0,g
+313,del taco,chicken crunch burrito,19,g,35,mg,1120,g,57,g,15,g,3.5,g,0,g,2,g,1,g
+314,del taco,chicken quesadilla snacker,9,g,50,mg,520,g,15,g,13,g,6,g,0,g,1,g,0,g
+315,del taco,chicken roller chipotle,12,g,40,mg,730,g,29,g,14,g,3.5,g,0,g,1,g,0,g
+316,del taco,chicken roller original,9,g,40,mg,750,g,30,g,14,g,3,g,0,g,1,g,0,g
+317,del taco,chicken roller queso,10,g,40,mg,800,g,29,g,14,g,4,g,0,g,1,g,0,g
+318,del taco,chicken roller ranch,12,g,40,mg,730,g,29,g,14,g,3.5,g,0,g,1,g,0,g
+319,del taco,chicken spicy jack quesadilla,31,g,120,mg,1170,g,36,g,34,g,14,g,0,g,1,g,0,g
+320,del taco,chicken verde wet burrito,27,g,90,mg,2000,g,67,g,35,g,9,g,0,g,10,g,1,g
+321,del taco,chicken verde wet burrito plato,48,g,100,mg,3550,g,158,g,54,g,14,g,0,g,24,g,4,g
+322,del taco,chili cheddar fries,35,g,50,mg,810,g,42,g,15,g,11,g,0,g,5,g,1,g
+323,del taco,chips and guac snack size,11,g,0,mg,190,g,18,g,2,g,1.5,g,0,g,4,g,1,g
+324,del taco,chips and queso dip,17,g,15,mg,570,g,29,g,6,g,5,g,0,g,1,g,1,g
+325,del taco,chips and guac regular size,22,g,0,mg,370,g,36,g,5,g,3.5,g,0,g,7,g,2,g
+326,del taco,classic grilled chicken burrito,33,g,75,mg,1100,g,40,g,20,g,8,g,0,g,2,g,2,g
+327,del taco,crinkle cut fries macho,28,g,0,mg,540,g,49,g,5,g,4,g,0,g,5,g,0,g
+328,del taco,crinkle cut fries medium,19,g,0,mg,370,g,34,g,4,g,3,g,0,g,4,g,0,g
+329,del taco,crinkle cut fries small,13,g,0,mg,250,g,22,g,2,g,2,g,0,g,2,g,0,g
+330,del taco,crispy chicken taco,14,g,30,mg,540,g,19,g,10,g,6,g,0,g,1,g,1,g
+331,del taco,crunchtada tostada,14,g,20,mg,400,g,38,g,12,g,4.5,g,0,g,7,g,1,g
+332,del taco,del beef burrito,24,g,75,mg,1260,g,40,g,27,g,12,g,0.5,g,3,g,2,g
+333,del taco,del cheeseburger,28,g,70,mg,850,g,34,g,17,g,10,g,1,g,1,g,7,g
+334,del taco,del combo burrito,17,g,45,mg,1200,g,54,g,23,g,8,g,0,g,8,g,1,g
+335,del taco,deluxe chili cheddar fries,37,g,60,mg,920,g,44,g,16,g,13,g,0,g,6,g,2,g
+336,del taco,donut bites 4 piece,16,g,0,mg,150,g,22,g,3,g,6,g,0,g,1,g,8,g
+337,del taco,double del cheeseburger,47,g,125,mg,1230,g,35,g,30,g,18,g,2,g,1,g,7,g
+338,del taco,epic cali bacon burrito with beyond meat,67,g,80,mg,2260,g,75,g,52,g,26,g,0,g,7,g,5,g
+339,del taco,epic cali bacon burrito with carne asada,60,g,155,mg,2620,g,73,g,51,g,23,g,0,g,4,g,4,g
+340,del taco,epic cali bacon burrito with chicken,60,g,170,mg,2260,g,71,g,47,g,19,g,0,g,4,g,3,g
+341,del taco,epic crispy chicken and guac burrito,52,g,80,mg,1750,g,78,g,29,g,13,g,0,g,5,g,4,g
+342,del taco,epic fresh avocado burrito with beyond meat,42,g,0,mg,2240,g,93,g,44,g,14,g,0,g,16,g,9,g
+343,del taco,epic fresh avocado burrito with carne asada,35,g,75,mg,2600,g,91,g,42,g,11,g,0,g,13,g,8,g
+344,del taco,epic fresh avocado burrito with chicken,36,g,90,mg,2240,g,89,g,38,g,7,g,0,g,13,g,7,g
+345,del taco,epic loaded queso burrito with beyond meat,51,g,55,mg,2590,g,78,g,50,g,23,g,0,g,7,g,6,g
+346,del taco,epic loaded queso burrito with carne asada,44,g,130,mg,2950,g,76,g,48,g,20,g,0,g,4,g,5,g
+347,del taco,epic loaded queso burrito with chicken,45,g,145,mg,2590,g,74,g,45,g,16,g,0,g,4,g,4,g
+348,del taco,epic original mex burrito with beyond meat,32,g,0,mg,2110,g,91,g,44,g,13,g,0,g,13,g,5,g
+349,del taco,epic original mex burrito with carne asada,26,g,75,mg,2520,g,90,g,42,g,9,g,0,g,10,g,5,g
+350,del taco,epic original mex burrito with chicken,26,g,90,mg,2170,g,88,g,39,g,6,g,0,g,10,g,4,g
+351,del taco,epic scrambler with bacon,62,g,590,mg,2030,g,71,g,39,g,23,g,0,g,3,g,5,g
+352,del taco,epic scrambler with carne asada,54,g,595,mg,1890,g,73,g,39,g,20,g,0,g,3,g,6,g
+353,del taco,epic scrambler with chorizo,62,g,410,mg,2310,g,73,g,36,g,22,g,0,g,3,g,4,g
+354,del taco,epic scrambler with huevos rancheros,59,g,505,mg,2230,g,91,g,45,g,24,g,0,g,13,g,5,g
+355,del taco,grilled chicken taco,12,g,45,mg,590,g,16,g,12,g,5,g,0,g,1,g,1,g
+356,del taco,habanero crispy chicken taco,15,g,35,mg,550,g,18,g,10,g,7,g,0,g,1,g,1,g
+357,del taco,hashbrown sticks 5 piece,17,g,0,mg,180,g,18,g,0,g,3.5,g,0,g,0,g,0,g
+358,del taco,jacked up value bean rice and cheese burrito,7,g,10,mg,840,g,46,g,11,g,2.5,g,0,g,6,g,0,g
+359,del taco,kids bean and cheese burrito green,9,g,20,mg,800,g,45,g,13,g,4.5,g,0,g,7,g,0,g
+360,del taco,kids bean and cheese burrito red,9,g,20,mg,790,g,45,g,13,g,4.5,g,0,g,7,g,0,g
+361,del taco,kids hamburger,15,g,40,mg,520,g,34,g,13,g,5,g,1,g,1,g,7,g
+362,del taco,kids quesadilla,6,g,20,mg,300,g,14,g,5,g,6,g,0,g,1,g,0,g
+363,del taco,large chips and queso dip,39,g,45,mg,1620,g,61,g,16,g,13,g,0,g,3,g,3,g
+364,del taco,large premium shake chocolate,15,g,40,mg,570,g,167,g,24,g,12,g,0,g,1,g,134,g
+365,del taco,large premium shake strawberry,14,g,40,mg,470,g,153,g,23,g,11,g,0,g,2,g,129,g
+366,del taco,large premium shake vanilla,14,g,40,mg,450,g,133,g,23,g,11,g,0,g,0,g,111,g
+367,del taco,large queso loaded nachos with beef,55,g,105,mg,2510,g,100,g,43,g,20,g,1,g,17,g,8,g
+368,del taco,large queso loaded nachos with carne asada,46,g,100,mg,2700,g,100,g,44,g,16,g,0.5,g,15,g,7,g
+369,del taco,large queso loaded nachos with chicken,46,g,110,mg,2460,g,99,g,41,g,13,g,0,g,15,g,6,g
+370,del taco,macho combo burrito,37,g,110,mg,2290,g,100,g,46,g,20,g,0.5,g,16,g,6,g
+371,del taco,mini bacon quesadilla,9,g,25,mg,420,g,14,g,8,g,7,g,0,g,1,g,0,g
+372,del taco,mini cheddar quesadilla,6,g,20,mg,300,g,14,g,5,g,6,g,0,g,1,g,0,g
+373,del taco,mini churro dipper shake,10,g,20,mg,310,g,83,g,10,g,4.5,g,0,g,1,g,59,g
+374,del taco,mini cinnamon churro 1 piece,6,g,10,mg,65,g,13,g,1,g,1,g,0,g,1,g,4,g
+375,del taco,mini cinnamon churro 2 piece,10,g,15,mg,125,g,25,g,1,g,1.5,g,0,g,1,g,8,g
+376,del taco,mini shake chocolate,3.5,g,10,mg,170,g,50,g,7,g,3,g,0,g,0,g,40,g
+377,del taco,mini shake strawberry,3.5,g,10,mg,150,g,48,g,7,g,2.5,g,0,g,0,g,40,g
+378,del taco,mini shake vanilla,3.5,g,10,mg,150,g,42,g,7,g,3,g,0,g,0,g,35,g
+379,del taco,mini taco salad,8,g,20,mg,230,g,10,g,6,g,3,g,0,g,1,g,2,g
+380,del taco,nachos,19,g,5,mg,540,g,30,g,5,g,4,g,0,g,1,g,4,g
+381,del taco,pollo asado avocado bowl,21,g,60,mg,1740,g,68,g,28,g,2,g,0,g,12,g,7,g
+382,del taco,premium shake chocolate,11,g,30,mg,350,g,105,g,15,g,9,g,0,g,1,g,85,g
+383,del taco,premium shake strawberry,10,g,30,mg,300,g,95,g,15,g,9,g,0,g,1,g,80,g
+384,del taco,premium shake vanilla,11,g,35,mg,320,g,94,g,16,g,9,g,0,g,0,g,78,g
+385,del taco,prima java hot coffee,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+386,del taco,prima java iced coffee,1.5,g,5,mg,70,g,29,g,3,g,1.5,g,0,g,0,g,25,g
+387,del taco,prima java iced coffee large,3,g,5,mg,115,g,49,g,6,g,2,g,0,g,0,g,42,g
+388,del taco,queso bean burrito,13,g,25,mg,1350,g,70,g,23,g,7,g,0,g,12,g,1,g
+389,del taco,queso loaded fries,42,g,70,mg,1470,g,47,g,20,g,15,g,0,g,5,g,4,g
+390,del taco,real strawberry lemonade,0,g,0,mg,15,g,8,g,0,g,0,g,0,g,1,g,7,g
+391,del taco,regular queso loaded nachos with beef,32,g,65,mg,1480,g,52,g,23,g,13,g,0,g,8,g,5,g
+392,del taco,regular queso loaded nachos with carne asada,28,g,65,mg,1600,g,52,g,24,g,11,g,0,g,7,g,4,g
+393,del taco,regular queso loaded nachos with chicken,28,g,70,mg,1480,g,52,g,23,g,10,g,0,g,7,g,4,g
+394,del taco,signature taco salad,29,g,80,mg,1160,g,38,g,25,g,13,g,0,g,12,g,12,g
+395,del taco,simply orange,0,g,0,mg,0,g,37,g,2,g,0,g,0,g,0,g,33,g
+396,del taco,spicy grilled chicken burrito,17,g,60,mg,1600,g,69,g,26,g,6,g,0,g,7,g,1,g
+397,del taco,spicy jack quesadilla,27,g,75,mg,830,g,33,g,23,g,14,g,0,g,1,g,0,g
+398,del taco,the del taco crunchy,20,g,85,mg,540,g,14,g,17,g,11,g,0,g,2,g,2,g
+399,del taco,the del taco soft,18,g,65,mg,640,g,17,g,18,g,12,g,0,g,2,g,2,g
+400,del taco,value taco crunchy,8,g,20,mg,220,g,9,g,6,g,3.5,g,0,g,2,g,1,g
+401,del taco,value taco soft,7,g,20,mg,350,g,15,g,7,g,6,g,0,g,2,g,1,g
+402,dennys,country gravy,3,g,5,mg,160,g,3,g,1,g,1,g,0,g,0,g,1,g
+403,dennys,brown gravy,0,g,0,mg,135,g,2,g,0,g,0,g,0,g,0,g,0,g
+404,dennys,maple flavored syrup,0,g,0,mg,40,g,54,g,0,g,0,g,0,g,0,g,29,g
+405,dennys,sugar free maple flavored syrup,0,g,0,mg,110,g,6,g,0,g,0,g,0,g,0,g,0,g
+406,dennys,half and half creamer,1,g,5,mg,5,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+407,dennys,pico de gallo,0,g,0,mg,75,g,3,g,1,g,0,g,0,g,1,g,2,g
+408,dennys,hazelnut or french vanilla creamer,1,g,0,mg,0,g,5,g,0,g,0.5,g,0,g,0,g,5,g
+409,dennys,mayonnaise,11,g,5,mg,75,g,0,g,0,g,2,g,0,g,0,g,0,g
+410,dennys,whipped margarine,4.5,g,0,mg,35,g,0,g,0,g,1.5,g,0,g,0,g,0,g
+411,dennys,sour cream,4,g,15,mg,5,g,1,g,1,g,2,g,0,g,0,g,0,g
+412,dennys,zesty nachos,64.7,g,96,mg,1864,g,78.5,g,27.6,g,21.6,g,1.5,g,8.4,g,8.4,g
+413,dennys,mozzarella cheese sticks without sauce,22,g,75,mg,2460,g,60,g,32,g,13,g,0.5,g,2,g,4,g
+414,dennys,buffalo chicken strips without dipping sauce,30,g,105,mg,3130,g,68,g,43,g,5,g,0,g,4,g,1,g
+415,dennys,sweet and tangy bbq chicken strips without dipping sauce,21,g,105,mg,2180,g,106,g,43,g,4,g,0,g,4,g,37,g
+416,dennys,loaded nacho tots,63,g,140,mg,3680,g,66,g,40,g,26,g,1.5,g,7,g,10,g
+417,dennys,italian sampler,71,g,180,mg,4450,g,96,g,64,g,29,g,0.5,g,6,g,15,g
+418,dennys,sweet and sour chicken strips without dipping sauce,21,g,105,mg,2180,g,106,g,43,g,4,g,0,g,4,g,37,g
+419,dennys,pumpkin spice pancake puppies 6 pieces without creme cheese icing,20,g,10,mg,800,g,91,g,4,g,5,g,0,g,2,g,54,g
+420,dennys,brioche bun,4.5,g,0,mg,380,g,45,g,8,g,2,g,0,g,2,g,9,g
+421,dennys,cheddar bun,5,g,5,mg,430,g,40,g,8,g,2,g,0,g,1,g,5,g
+422,dennys,whole wheat bun,2.5,g,0,mg,380,g,41,g,10,g,0.5,g,0,g,5,g,8,g
+423,dennys,strawberry banana bliss smoothie,0,g,0,mg,30,g,65,g,3,g,0,g,0,g,3,g,49,g
+424,dennys,groovy mango smoothie,0,g,0,mg,45,g,71,g,1,g,0,g,0,g,0,g,64,g
+425,dennys,strawberry lemonade,0,g,0,mg,0,g,55,g,0,g,0,g,0,g,0,g,50,g
+426,dennys,chocolate milk reduced fat,4.5,g,25,mg,300,g,46,g,16,g,2,g,0,g,0,g,46,g
+427,dennys,orange juice,0,g,0,mg,0,g,51,g,3,g,0,g,0,g,0,g,45,g
+428,dennys,hot chocolate,3,g,5,mg,260,g,37,g,2,g,1.5,g,0,g,0,g,30,g
+429,dennys,mango lemonade,0,g,0,mg,0,g,55,g,0,g,0,g,0,g,0,g,53,g
+430,dennys,lemonade iced tea,0,g,0,mg,5,g,21,g,0,g,0,g,0,g,0,g,19,g
+431,dennys,cold brew coffee sweetened,2,g,5,mg,50,g,25,g,4,g,1,g,0,g,0,g,23,g
+432,dennys,iced tea sweetened,0,g,0,mg,10,g,40,g,0,g,0,g,0,g,0,g,39,g
+433,dennys,coffee average all varieties,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+434,dennys,apple juice,0,g,0,mg,10,g,52,g,1,g,0,g,0,g,0,g,49,g
+435,dennys,hot tea herbal tea,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+436,dennys,iced tea unsweetened,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+437,dennys,ruby red grapefruit juice,0,g,0,mg,65,g,60,g,0,g,0,g,0,g,0,g,60,g
+438,dennys,premium berry blend juice,0,g,0,mg,0,g,56,g,0,g,0,g,0,g,0,g,54,g
+439,dennys,cold brew coffee unsweetened,2,g,5,mg,50,g,6,g,4,g,1,g,0,g,0,g,4,g
+440,dennys,lemonade,0,g,0,mg,0,g,40,g,0,g,0,g,0,g,0,g,37,g
+441,dennys,tomato juice,0,g,0,mg,1130,g,19,g,4,g,0,g,0,g,2,g,11,g
+442,dennys,2 milk,9,g,35,mg,220,g,22,g,15,g,6,g,0,g,0,g,22,g
+443,dennys,stack of buttermilk pancakes 2,11,g,60,mg,1390,g,77,g,10,g,3.5,g,0,g,2,g,20,g
+444,dennys,hearty 9 grain pancake breakfast,11,g,40,mg,880,g,68,g,10,g,4,g,0,g,5,g,21,g
+445,dennys,ultimate omelette,60,g,785,mg,1220,g,5,g,36,g,20,g,0,g,1,g,2,g
+446,dennys,lumberjack slam,49,g,130,mg,3200,g,96,g,38,g,15,g,0,g,4,g,23,g
+447,dennys,moons over my hammy on grilled sourdough,60,g,560,mg,2560,g,57,g,44,g,20,g,1,g,2,g,4,g
+448,dennys,cinnamon roll pancake breakfast,34,g,75,mg,1760,g,247,g,10,g,16,g,0,g,4,g,184,g
+449,dennys,original grand slam without eggs,34,g,110,mg,2040,g,79,g,22,g,12,g,0,g,3,g,21,g
+450,dennys,loaded veggie omelette,33,g,740,mg,600,g,8,g,29,g,11,g,0,g,2,g,4,g
+451,dennys,all american slam with hash browns,74,g,815,mg,1800,g,19,g,44,g,26,g,0,g,2,g,2,g
+452,dennys,sausage links,31,g,60,mg,600,g,3,g,9,g,11,g,0,g,2,g,0,g
+453,dennys,fit slam,12,g,30,mg,860,g,56,g,27,g,2.5,g,0,g,4,g,22,g
+454,dennys,super slam breakfast,46,g,110,mg,2410,g,95,g,23,g,14,g,0,g,4,g,22,g
+455,dennys,country fried steak and hash browns,37,g,70,mg,1480,g,38,g,20,g,11,g,1.5,g,2,g,4,g
+456,dennys,santa fe sizzlin skillet,37,g,45,mg,1280,g,32,g,16,g,12,g,0,g,4,g,2,g
+457,dennys,blueberry pancake breakfast,11,g,60,mg,1400,g,80,g,10,g,3.5,g,0,g,3,g,22,g
+458,dennys,choconana pancake breakfast,36,g,60,mg,1360,g,143,g,16,g,20,g,0,g,3,g,64,g
+459,dennys,the grand slamwich with hash browns,86,g,585,mg,3320,g,87,g,52,g,28,g,1,g,3,g,10,g
+460,dennys,philly cheesesteak omelette,53,g,795,mg,1180,g,9,g,46,g,19,g,1,g,1,g,3,g
+461,dennys,berry vanilla crepe a la carte,12,g,15,mg,220,g,36,g,4,g,4.5,g,0,g,2,g,21,g
+462,dennys,salted caramel and banana cream pancake breakfast,27,g,85,mg,1940,g,207,g,17,g,17,g,0,g,6,g,110,g
+463,dennys,scrambled egg 1,9,g,240,mg,180,g,1,g,7,g,2.5,g,0,g,0,g,0,g
+464,dennys,fit fare veggie sizzlin skillet,16,g,0,mg,1270,g,40,g,22,g,3,g,0,g,7,g,6,g
+465,dennys,french toast slam without eggs,53,g,390,mg,1650,g,65,g,32,g,16,g,0,g,3,g,14,g
+466,dennys,turkey bacon strips,7,g,60,mg,660,g,1,g,15,g,2,g,0,g,0,g,1,g
+467,dennys,berry vanilla crepe breakfast,24,g,15,mg,580,g,52,g,5,g,7,g,0,g,3,g,22,g
+468,dennys,double berry banana pancake breakfast,10,g,60,mg,1360,g,103,g,12,g,4,g,0,g,8,g,36,g
+469,dennys,my hammy and cheese omelette,42,g,785,mg,1910,g,4,g,49,g,17,g,0.5,g,0,g,2,g
+470,dennys,wild west omelette,42,g,760,mg,2270,g,8,g,41,g,14,g,0,g,1,g,4,g
+471,dennys,grilled ham slice,3,g,20,mg,790,g,1,g,15,g,1,g,0,g,0,g,1,g
+472,dennys,english muffin without margarine,1,g,0,mg,230,g,25,g,5,g,1,g,0,g,1,g,1,g
+473,dennys,stack of hearty 9 grain pancakes 2,11,g,40,mg,880,g,68,g,10,g,4,g,0,g,5,g,21,g
+474,dennys,oatmeal with milk and brown sugar,2,g,5,mg,45,g,45,g,7,g,1,g,0,g,4,g,16,g
+475,dennys,supreme sizzlin skillet,42,g,50,mg,1180,g,34,g,15,g,13,g,0,g,5,g,3,g
+476,dennys,belgian waffle slam without eggs,43,g,175,mg,1290,g,45,g,18,g,18,g,0.5,g,2,g,2,g
+477,dennys,berry vanilla two crepe breakfast,36,g,30,mg,800,g,88,g,9,g,12,g,0,g,5,g,43,g
+478,dennys,t bone steak with hash browns,42,g,120,mg,1590,g,16,g,53,g,14,g,0.5,g,1,g,1,g
+479,dennys,wheat toast with margarine,11,g,0,mg,400,g,29,g,6,g,1.5,g,0,g,2,g,2,g
+480,dennys,egg white 1,0,g,0,mg,115,g,0,g,7,g,0,g,0,g,0,g,0,g
+481,dennys,buttermilk biscuits 2,26,g,0,mg,1320,g,54,g,8,g,13,g,0,g,2,g,4,g
+482,dennys,gluten free english muffin with margarine,6,g,0,mg,540,g,36,g,4,g,0.5,g,0,g,1,g,7,g
+483,dennys,double chocolate pancake puppies 10,47,g,10,mg,1290,g,176,g,9,g,17,g,0.5,g,5,g,110,g
+484,dennys,banana chocolate hazelnut crepe breakfast,30,g,15,mg,580,g,69,g,7,g,9,g,0,g,4,g,34,g
+485,dennys,fried or basted egg 1,8,g,165,mg,100,g,0,g,5,g,2,g,0,g,0,g,0,g
+486,dennys,sourdough toast with margarine,12,g,0,mg,460,g,37,g,6,g,2.5,g,0,g,1,g,2,g
+487,dennys,white toast with margarine,10,g,0,mg,400,g,31,g,5,g,2,g,0,g,0,g,2,g
+488,dennys,cheddar cheese hash browns,18,g,20,mg,480,g,15,g,6,g,6,g,0,g,1,g,1,g
+489,dennys,grits with margarine,4.5,g,0,mg,40,g,12,g,1,g,1.5,g,0,g,1,g,0,g
+490,dennys,banana chocolate hazelnut crepe al la carte,19,g,15,mg,220,g,53,g,5,g,7,g,0,g,3,g,33,g
+491,dennys,gluten free english muffin without margarine,1.5,g,0,mg,500,g,36,g,4,g,0,g,0,g,1,g,7,g
+492,dennys,pumpkin pancakes 2,11,g,55,mg,1310,g,78,g,10,g,3.5,g,0,g,2,g,24,g
+493,dennys,flour tortillas,2.7,g,0,mg,220,g,13.3,g,2.3,g,1.2,g,0,g,1.7,g,1,g
+494,dennys,boiled egg,4,g,165,mg,60,g,0,g,6,g,1.5,g,0,g,0,g,0,g
+495,dennys,wheat toast without margarine,2,g,0,mg,310,g,29,g,6,g,0,g,0,g,2,g,2,g
+496,dennys,banana chocolate hazelnut two crepe breakfast,49,g,30,mg,800,g,122,g,12,g,16,g,0,g,7,g,67,g
+497,dennys,tres leches pancake breakfast,36,g,135,mg,1510,g,129,g,17,g,19,g,0,g,2,g,67,g
+498,dennys,sourdough toast without margarine,3,g,0,mg,380,g,37,g,6,g,1,g,0,g,1,g,2,g
+499,dennys,dulce de leche crunch pancake breakfast,27,g,75,mg,2090,g,228,g,13,g,12,g,0,g,4,g,154,g
+500,dennys,everything hash browns,21,g,20,mg,690,g,24,g,7,g,7,g,0,g,2,g,3,g
+501,dennys,pumpkin spice pancake breakfast without sausage or bacon,46,g,395,mg,1990,g,159,g,22,g,15,g,0,g,4,g,85,g
+502,dennys,double chocolate pancake puppies 6,30,g,10,mg,800,g,122,g,6,g,11,g,0,g,3,g,82,g
+503,dennys,white toast without margarine,1.5,g,0,mg,320,g,31,g,5,g,0,g,0,g,0,g,2,g
+504,dennys,yogurt low fat,1.5,g,10,mg,100,g,19,g,6,g,1,g,0,g,0,g,18,g
+505,dennys,hearty breakfast sausage 1,31,g,70,mg,840,g,5,g,14,g,8,g,0,g,0,g,1,g
+506,dennys,english muffin with margarine,6,g,0,mg,280,g,25,g,5,g,1,g,0,g,1,g,1,g
+507,dennys,apple bourbon crepe breakfast,36,g,30,mg,850,g,73,g,7,g,10,g,0,g,3,g,42,g
+508,dennys,apple bourbon crepe a la carte,24,g,30,mg,3480,g,58,g,6,g,8,g,0,g,2,g,41,g
+509,dennys,pumpkin spice pancake puppies 10 pieces without cream cheese icing,30,g,10,mg,1280,g,135,g,7,g,8,g,0.5,g,3,g,75,g
+510,dennys,apple bourbon two crepe breakfast,60,g,60,mg,1320,g,131,g,13,g,18,g,1,g,5,g,82,g
+511,dennys,oreo milk shake,56,g,160,mg,610,g,125,g,15,g,32,g,0,g,2,g,90,g
+512,dennys,chocolate milk shake,43,g,160,mg,220,g,111,g,17,g,28,g,0,g,0,g,87,g
+513,dennys,cake batter milk shake,52,g,160,mg,890,g,147,g,13,g,37,g,0,g,0,g,122,g
+514,dennys,new york style cheesecake plain,34,g,150,mg,370,g,42,g,9,g,20,g,1,g,1,g,31,g
+515,dennys,strawberry milk shake,34,g,140,mg,270,g,110,g,12,g,22,g,0,g,1,g,80,g
+516,dennys,caramel apple pie crisp,26,g,65,mg,620,g,126,g,8,g,15,g,0,g,4,g,87,g
+517,dennys,chocolate lava cake,34,g,60,mg,330,g,85,g,6,g,20,g,0,g,2,g,65,g
+518,dennys,vanilla milk shake,43,g,160,mg,290,g,97,g,12,g,28,g,0,g,0,g,84,g
+519,dennys,peanut butter banana milk shake,74,g,160,mg,550,g,105,g,26,g,35,g,0,g,6,g,77,g
+520,dennys,new york style cheesecake with strawberry topping and whipped cream,35,g,150,mg,410,g,63,g,9,g,20,g,1,g,2,g,49,g
+521,dennys,chocolate peanut butter milk shake,74,g,160,mg,570,g,117,g,26,g,35,g,0,g,5,g,89,g
+522,dennys,horchata milk shake,33,g,130,mg,220,g,77,g,14,g,21,g,1,g,1,g,63,g
+523,dennys,hot fudge topping,3,g,0,mg,105,g,23,g,2,g,2.5,g,0,g,1,g,2,g
+524,dennys,strawberry topping,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,1,g,9,g
+525,dennys,oreo cookie pieces,4.5,g,0,mg,110,g,16,g,1,g,1,g,0,g,1,g,9,g
+526,dennys,tres leches dessert pancakes,36,g,135,mg,1510,g,129,g,17,g,19,g,0,g,2,g,67,g
+527,dennys,chopped nuts,13,g,0,mg,0,g,5,g,6,g,1.5,g,0,g,2,g,1,g
+528,dennys,dulce de leche crunch dessert pancakes,39,g,130,mg,2180,g,252,g,16,g,21,g,0,g,4,g,173,g
+529,dennys,french fries,22,g,0,mg,470,g,46,g,4,g,4,g,0,g,4,g,0,g
+530,dennys,seasoned fries,26,g,5,mg,1100,g,57,g,7,g,5,g,0,g,8,g,1,g
+531,dennys,kids chocolate chip pancakes,28.5,g,75,mg,1165,g,40,g,16,g,10.5,g,0,g,2.5,g,15.5,g
+532,dennys,kids spaghetti with tomato sauce,10,g,5,mg,500,g,50,g,10,g,2.5,g,0,g,2,g,5,g
+533,dennys,jr cheeseburger,26,g,100,mg,1100,g,31,g,29,g,26,g,1.5,g,1,g,4,g
+534,dennys,jr french toast,33,g,355,mg,740,g,32,g,21,g,10,g,0,g,4,g,10,g
+535,dennys,kids apple dunkers with caramel sauce,1.5,g,5,mg,140,g,26,g,1,g,1,g,0,g,1,g,20,g
+536,dennys,kids mac and cheese,9,g,10,mg,650,g,44,g,10,g,2.5,g,0,g,2,g,8,g
+537,dennys,jr vanilla milk shake,32,g,120,mg,220,g,78,g,9,g,21,g,0,g,0,g,68,g
+538,dennys,kidsgoldfish crackers,5,g,5,mg,210,g,16,g,3,g,1.5,g,0,g,1,g,0,g
+539,dennys,jr garden salad,2.5,g,0,mg,200,g,13,g,2,g,0,g,0,g,1,g,0,g
+540,dennys,jr oreo blender blaster,30,g,80,mg,340,g,74,g,8,g,14,g,0,g,1,g,48,g
+541,dennys,kids grapes,0,g,0,mg,0,g,14,g,1,g,0,g,0,g,1,g,12,g
+542,dennys,kids sweet petite corn,13,g,0,mg,310,g,20,g,4,g,2.5,g,0,g,5,g,8,g
+543,dennys,kids grilled chicken on a stick,9,g,75,mg,330,g,0,g,29,g,2,g,0,g,0,g,0,g
+544,dennys,jr strawberry milk shake,26,g,105,mg,220,g,78,g,9,g,16,g,0,g,1,g,56,g
+545,dennys,jr cake batter milk shake,37,g,120,mg,510,g,93,g,9,g,25,g,0,g,0,g,77,g
+546,dennys,kids steamed broccoli,0,g,0,mg,210,g,4,g,2,g,0,g,0,g,2,g,1,g
+547,dennys,jr chocoalte milk shake,43,g,160,mg,220,g,111,g,17,g,28,g,0,g,0,g,87,g
+548,dennys,jr vanilla ice cream,15,g,60,mg,90,g,27,g,3,g,10,g,0,g,0,g,22,g
+549,dennys,kids red skinned mashed potatoes,5,g,15,mg,590,g,17,g,3,g,3.5,g,0,g,0,g,2,g
+550,dennys,kids chicken nuggets 4,11,g,30,mg,530,g,10,g,11,g,2,g,0,g,0,g,0,g
+551,dennys,jr chocolate ice cream,15,g,60,mg,60,g,30,g,5,g,8,g,0,g,0,g,23,g
+552,dennys,dinner bourbon chicken sizzlin skillet,39,g,145,mg,1900,g,69,g,65,g,8,g,0.5,g,6,g,35,g
+553,dennys,dinner chicken strips,17,g,85,mg,1230,g,53,g,34,g,3,g,0,g,2,g,0,g
+554,dennys,dinner wild alaska salmon,23,g,115,mg,830,g,1,g,32,g,6,g,0,g,0,g,0,g
+555,dennys,dinner sirloin steak,15,g,140,mg,1080,g,1,g,54,g,4.5,g,0,g,0,g,0,g
+556,dennys,dinner crazy spicy sizzlin skillet,56,g,145,mg,2600,g,41,g,50,g,19,g,0.5,g,5,g,6,g
+557,dennys,dinner t bone steak,30,g,120,mg,1220,g,0,g,52,g,12,g,0.5,g,0,g,0,g
+558,dennys,dinner slow cooked pot roast,20,g,110,mg,1260,g,10,g,43,g,6,g,0,g,1,g,2,g
+559,dennys,dinner brooklyn spaghetti and meatballs,45,g,115,mg,2340,g,87,g,41,g,15,g,0,g,6,g,14,g
+560,dennys,grand slam slugger,34,g,110,mg,2050,g,79,g,22,g,12,g,0,g,3,g,21,g
+561,dennys,dinner mediterranean grilled chicken,40,g,165,mg,1520,g,6,g,65,g,9,g,0.5,g,1,g,3,g
+562,dennys,dinner homestyle meatloaf,29,g,155,mg,1760,g,46,g,34,g,12,g,0,g,4,g,27,g
+563,dennys,dinner country fried steak with gravy,40,g,110,mg,1780,g,37,g,30,g,14,g,2,g,2,g,5,g
+564,dennys,dinner pack turkey and dressing without sides,23,g,125,mg,2480,g,40,g,48,g,4,g,0,g,2,g,27,g
+565,dennys,dinner tilapia ranchero,12,g,90,mg,650,g,6,g,42,g,2.5,g,0,g,3,g,2,g
+566,dennys,dinner garlic peppercorn sirloin,25,g,145,mg,1240,g,3,g,43,g,10,g,0,g,0,g,0,g
+567,dennys,salad add on fried chicken strips,13,g,65,mg,920,g,39,g,25,g,2.5,g,0,g,1,g,0,g
+568,dennys,salad add on grilled chicken,9,g,75,mg,330,g,0,g,29,g,2,g,0,g,0,g,0,g
+569,dennys,salad add on wild alaska salmon,23,g,115,mg,830,g,1,g,32,g,6,g,0,g,0,g,0,g
+570,dennys,salad add on prime rib,8,g,35,mg,440,g,3,g,13,g,2,g,0,g,0,g,0,g
+571,dennys,salad add on avocado,4,g,0,mg,0,g,2,g,1,g,0.5,g,0,g,2,g,0,g
+572,dennys,croutons,2.5,g,0,mg,200,g,11,g,2,g,0,g,0,g,0,g,1,g
+573,dennys,ranch dressing,21,g,10,mg,290,g,1,g,0,g,4,g,0,g,0,g,0,g
+574,dennys,balsamic vinaigrette low fat,2,g,0,mg,240,g,12,g,0,g,0.5,g,0,g,0,g,11,g
+575,dennys,honey mustard dressing,15,g,15,mg,190,g,14,g,0,g,2,g,0,g,0,g,8,g
+576,dennys,bleu cheese dressing,16,g,30,mg,330,g,2,g,2,g,8,g,0,g,0,g,1,g
+577,dennys,thousand island dressing,16,g,20,mg,400,g,7,g,0,g,3,g,0,g,0,g,4,g
+578,dennys,fat free italian dressing,0,g,0,mg,410,g,4,g,0,g,0,g,0,g,0,g,3,g
+579,dennys,caesar dressing,20,g,30,mg,270,g,2,g,1,g,3.5,g,0,g,0,g,1,g
+580,dennys,blue cheese dressing,16,g,30,mg,330,g,2,g,2,g,4,g,0,g,0,g,1,g
+581,dennys,cobb salad without meat or dressing,30,g,255,mg,560,g,20,g,22,g,12,g,0,g,6,g,6,g
+582,dennys,house salad,9,g,20,mg,340,g,19,g,9,g,4.5,g,0,g,3,g,6,g
+583,dennys,caesar salad with caesar dressing,90,g,95,mg,1770,g,11,g,17,g,19,g,0,g,4,g,4,g
+584,dennys,grilled seasoned chicken breast,9,g,75,mg,650,g,0,g,29,g,2,g,0,g,0,g,0,g
+585,dennys,veggie patty,3,g,0,mg,490,g,19,g,17,g,0,g,0,g,5,g,4,g
+586,dennys,caramelized onions,7,g,0,mg,210,g,2,g,0,g,1,g,0,g,1,g,1,g
+587,dennys,american cheese,7,g,20,mg,390,g,1,g,4,g,4,g,0,g,0,g,1,g
+588,dennys,sauteed mushrooms,6,g,0,mg,55,g,1,g,1,g,1,g,0,g,0,g,0,g
+589,dennys,100 beef patty,26,g,120,mg,640,g,0,g,29,g,12,g,1.5,g,0,g,0,g
+590,dennys,cheddar cheese,7,g,20,mg,120,g,0,g,5,g,3.5,g,0,g,0,g,0,g
+591,dennys,swiss cheese,6,g,20,mg,45,g,0,g,6,g,4,g,0,g,0,g,0,g
+592,dennys,2 milk,9,g,35,mg,220,g,22,g,15,g,6,g,0,g,0,g,22,g
+593,dennys,55 belgian waffle slam,19,g,120,mg,640,g,43,g,7,g,10,g,0,g,1,g,1,g
+594,dennys,55 classic battered fish fillets,48,g,15,mg,1000,g,28,g,18,g,7,g,0,g,0,g,4,g
+595,dennys,55 club sandwich with wavy cut fries,58,g,90,mg,2470,g,97,g,46,g,12,g,0,g,10,g,11,g
+596,dennys,55 country fried steak with gravy,21,g,65,mg,1010,g,22,g,17,g,8,g,1,g,1,g,1,g
+597,dennys,55 fit fare loaded veggie omelette,9,g,20,mg,520,g,64,g,27,g,4.5,g,0,g,6,g,25,g
+598,dennys,55 grilled cheese sandwich and soup,25,g,40,mg,1250,g,39,g,14,g,11,g,0.5,g,1,g,3,g
+599,dennys,55 grilled chicken,9,g,75,mg,330,g,0,g,29,g,2,g,0,g,0,g,0,g
+600,dennys,55 omelette,38,g,525,mg,890,g,7,g,27,g,13,g,0,g,1,g,4,g
+601,dennys,55 scrambled eggs and cheddar breakfast,58,g,615,mg,2530,g,80,g,41,g,21,g,0,g,3,g,21,g
+602,dennys,55 starter,12,g,0,mg,360,g,15,g,1,g,2,g,0,g,1,g,1,g
+603,dennys,all you can eat pancakes refill 2 cakes,11,g,60,mg,1390,g,77,g,10,g,3.5,g,0,g,2,g,20,g
+604,dennys,all you can eat pancakes refill 3 cakes,14,g,90,mg,2070,g,115,g,15,g,5,g,0,g,3,g,30,g
+605,dennys,all american sauce,22,g,20,mg,420,g,4,g,3,g,3.5,g,0,g,0,g,0,g
+606,dennys,all american slam with hash browns,73,g,825,mg,1850,g,19,g,44,g,26,g,0,g,2,g,2,g
+607,dennys,americas diner burger double,83,g,290,mg,2520,g,52,g,74,g,36,g,4,g,2,g,13,g
+608,dennys,americas diner burger single,50,g,150,mg,1640,g,51,g,41,g,20,g,2,g,2,g,12,g
+609,dennys,apple juice,0,g,0,mg,10,g,52,g,1,g,0,g,0,g,0,g,49,g
+610,dennys,avocado toast with turkey bacon los angeles market only,14,g,30,mg,610,g,31,g,15,g,2.5,g,0,g,7,g,6,g
+611,dennys,bacon avocado cheeseburger,66,g,165,mg,1650,g,53,g,50,g,24,g,2,g,5,g,12,g
+612,dennys,banana chocolate hazelnut crepe breakfast 1 piece,19,g,15,mg,220,g,53,g,5,g,7,g,0,g,3,g,33,g
+613,dennys,banana chocolate hazelnut crepe breakfast 2 piece,37,g,30,mg,430,g,106,g,10,g,14,g,0,g,6,g,66,g
+614,dennys,banana chocolate hazelnut crepe 1 piece,19,g,15,mg,220,g,53,g,5,g,7,g,0,g,3,g,33,g
+615,dennys,banana chocolate hazelnut crepe 2 piece,37,g,30,mg,430,g,106,g,10,g,14,g,0,g,6,g,66,g
+616,dennys,barqs root beer,0,g,0,mg,80,g,55,g,0,g,0,g,0,g,0,g,55,g
+617,dennys,bbq chicken tender sandwich,18,g,40,mg,1800,g,68,g,24,g,2.5,g,0,g,3,g,24,g
+618,dennys,bbq sauce 1 5 oz,0,g,0,mg,470,g,30,g,0,g,0,g,0,g,1,g,28,g
+619,dennys,beer battered onion rings,54,g,5,mg,1430,g,71,g,9,g,9,g,0,g,6,g,11,g
+620,dennys,belgian waffle slam,42,g,185,mg,1350,g,45,g,19,g,18,g,0,g,2,g,2,g
+621,dennys,berry vanilla crepe breakfast 1 piece,12,g,15,mg,220,g,36,g,4,g,4.5,g,0,g,2,g,21,g
+622,dennys,berry vanilla crepe breakfast 2 piece,24,g,30,mg,440,g,73,g,7,g,9,g,0,g,4,g,42,g
+623,dennys,berry vanilla crepe 1 piece,12,g,15,mg,220,g,36,g,4,g,4.5,g,0,g,2,g,21,g
+624,dennys,berry vanilla crepe 2 piece,24,g,30,mg,440,g,73,g,7,g,9,g,0,g,4,g,42,g
+625,dennys,beyond burger,47,g,30,mg,1930,g,48,g,33,g,14,g,0,g,5,g,12,g
+626,dennys,beyond burger patty,25,g,0,mg,860,g,6,g,20,g,7,g,0,g,2,g,0,g
+627,dennys,beyond burger with wavy cut fries,66,g,25,mg,2240,g,93,g,38,g,17,g,0.5,g,10,g,11,g
+628,dennys,biscuit and gravy breakfast,32,g,10,mg,1320,g,47,g,7,g,11,g,0,g,2,g,3,g
+629,dennys,blue cheese dressing 1 5 oz,16,g,30,mg,330,g,2,g,2,g,4,g,0,g,0,g,1,g
+630,dennys,blue cheese dressing 3 oz,33,g,60,mg,650,g,4,g,4,g,8,g,0,g,0,g,2,g
+631,dennys,blueberry pancake breakfast,11,g,60,mg,1400,g,80,g,10,g,3.5,g,0,g,3,g,22,g
+632,dennys,blueberry pancake puppies 10 piece,42,g,10,mg,1260,g,153,g,8,g,18,g,0.5,g,3,g,96,g
+633,dennys,blueberry pancake puppies 6 piece,27,g,10,mg,790,g,108,g,5,g,12,g,0,g,2,g,74,g
+634,dennys,boneless chicken wings with bbq sauce,36,g,60,mg,3640,g,120,g,35,g,5,g,0,g,6,g,74,g
+635,dennys,boneless chicken wings with buffalo sauce,67,g,60,mg,5100,g,44,g,35,g,10,g,0.5,g,5,g,1,g
+636,dennys,bourbon bacon burger,51,g,160,mg,1700,g,64,g,50,g,21,g,2,g,4,g,22,g
+637,dennys,bourbon chicken sizzlin skillet dinner,39,g,145,mg,1900,g,69,g,65,g,8,g,0.5,g,6,g,34,g
+638,dennys,bourbon chicken skillet,39,g,145,mg,1900,g,69,g,65,g,8,g,0.5,g,6,g,34,g
+639,dennys,bourbon sauce 1 oz,0,g,0,mg,270,g,26,g,0,g,0,g,0,g,0,g,24,g
+640,dennys,breakfast side 1 boiled egg,4,g,165,mg,60,g,0,g,6,g,1.5,g,0,g,0,g,0,g
+641,dennys,breakfast side 1 egg white,0,g,0,mg,115,g,0,g,7,g,0,g,0,g,0,g,0,g
+642,dennys,breakfast side 1 fried basted egg,8,g,165,mg,100,g,0,g,6,g,2,g,0,g,0,g,0,g
+643,dennys,breakfast side 1 scrambled egg,9,g,240,mg,180,g,1,g,7,g,2.5,g,0,g,0,g,0,g
+644,dennys,breakfast side 3 flour tortillas,8,g,0,mg,660,g,40,g,7,g,3.5,g,0,g,5,g,3,g
+645,dennys,breakfast side bacon strips,16,g,45,mg,700,g,2,g,14,g,6,g,0,g,0,g,1,g
+646,dennys,breakfast side buttermilk biscuits,26,g,0,mg,1320,g,54,g,8,g,13,g,0,g,2,g,4,g
+647,dennys,breakfast side cheddar cheese hash browns,18,g,20,mg,480,g,15,g,6,g,6,g,0,g,1,g,1,g
+648,dennys,breakfast side english muffin with margarine,6,g,0,mg,270,g,29,g,5,g,1,g,0,g,1,g,1,g
+649,dennys,breakfast side english muffin without margarine,1,g,0,mg,220,g,29,g,5,g,0,g,0,g,1,g,1,g
+650,dennys,breakfast side everything hash browns,21,g,20,mg,690,g,24,g,7,g,7,g,0,g,2,g,3,g
+651,dennys,breakfast side gluten free english muffin with margarine,6,g,0,mg,540,g,36,g,4,g,0.5,g,0,g,1,g,7,g
+652,dennys,breakfast side gluten free english muffin without margarine,1.5,g,0,mg,500,g,36,g,4,g,0,g,0,g,1,g,7,g
+653,dennys,breakfast side grilled ham slice,3,g,20,mg,790,g,1,g,15,g,1,g,0,g,0,g,1,g
+654,dennys,breakfast side grits with margarine,4.5,g,0,mg,40,g,12,g,1,g,1.5,g,0,g,1,g,0,g
+655,dennys,breakfast side hash browns,12,g,0,mg,360,g,15,g,1,g,2,g,0,g,1,g,1,g
+656,dennys,breakfast side hearty breakfast sausage,31,g,70,mg,840,g,5,g,14,g,8,g,0,g,0,g,1,g
+657,dennys,breakfast side oatmeal with milk and brown sugar,2,g,5,mg,45,g,45,g,7,g,1,g,0,g,4,g,16,g
+658,dennys,breakfast side red skinned potatoes,8,g,0,mg,580,g,26,g,4,g,1.5,g,0,g,3,g,0,g
+659,dennys,breakfast side sausage links,29,g,80,mg,700,g,3,g,10,g,9,g,0,g,2,g,1,g
+660,dennys,breakfast side seasonal fruit,0,g,0,mg,5,g,27,g,1,g,0,g,0,g,3,g,19,g
+661,dennys,breakfast side sourdough toast with margarine,12,g,0,mg,460,g,37,g,6,g,3,g,0,g,1,g,2,g
+662,dennys,breakfast side sourdough toast without margarine,3,g,0,mg,380,g,37,g,6,g,1,g,0,g,1,g,2,g
+663,dennys,breakfast side turkey bacon strips,7,g,60,mg,660,g,1,g,15,g,2,g,0,g,0,g,1,g
+664,dennys,breakfast side wheat toast with margarine,11,g,0,mg,400,g,29,g,6,g,2,g,0,g,2,g,2,g
+665,dennys,breakfast side wheat toast without margarine,2,g,0,mg,310,g,29,g,6,g,1,g,0,g,2,g,2,g
+666,dennys,breakfast side white toast with margarine,10,g,0,mg,400,g,31,g,5,g,2,g,0,g,0,g,2,g
+667,dennys,breakfast side white toast without margarine,1.5,g,0,mg,320,g,31,g,5,g,0,g,0,g,0,g,2,g
+668,dennys,brooklyn spaghetti and meatballs,46,g,100,mg,2160,g,85,g,36,g,17,g,1,g,7,g,15,g
+669,dennys,brown gravy 1 oz,0,g,0,mg,130,g,2,g,0,g,0,g,0,g,0,g,0,g
+670,dennys,brussels sprouts appetizer,15,g,0,mg,480,g,23,g,6,g,2.5,g,0,g,6,g,10,g
+671,dennys,brussels sprouts side,7,g,0,mg,240,g,11,g,3,g,1.5,g,0,g,3,g,5,g
+672,dennys,buffalo chicken tender sandwich,26,g,40,mg,2160,g,49,g,24,g,4,g,0,g,3,g,5,g
+673,dennys,buffalo sauce 1 5 oz,12,g,0,mg,1010,g,1,g,0,g,2,g,0,g,0,g,0,g
+674,dennys,build your own burger 100 beef patty,26,g,120,mg,480,g,0,g,29,g,12,g,1.5,g,0,g,0,g
+675,dennys,build your own burger american cheese,7,g,20,mg,390,g,1,g,4,g,4,g,0,g,0,g,1,g
+676,dennys,build your own burger bacon strips,8,g,20,mg,350,g,1,g,7,g,3,g,0,g,0,g,1,g
+677,dennys,build your own burger bbq sauce,0,g,0,mg,310,g,20,g,0,g,0,g,0,g,0,g,19,g
+678,dennys,build your own burger beyond burger patty,25,g,0,mg,860,g,6,g,20,g,7,g,0,g,2,g,0,g
+679,dennys,build your own burger bourbon sauce,0,g,0,mg,270,g,26,g,0,g,0,g,0,g,0,g,24,g
+680,dennys,build your own burger brioche bun,4.5,g,0,mg,380,g,45,g,8,g,2,g,0,g,2,g,9,g
+681,dennys,build your own burger caramelized onions,7,g,0,mg,210,g,2,g,0,g,1,g,0,g,1,g,1,g
+682,dennys,build your own burger cheddar cheese,6,g,20,mg,120,g,0,g,5,g,3.5,g,0,g,0,g,0,g
+683,dennys,build your own burger fresh avocado,4,g,0,mg,0,g,2,g,1,g,0.5,g,0,g,2,g,0,g
+684,dennys,build your own burger grilled seasoned chicken breast,9,g,75,mg,650,g,0,g,29,g,2,g,0,g,0,g,0,g
+685,dennys,build your own burger jalapenos,0,g,0,mg,440,g,1,g,0,g,0,g,0,g,0,g,1,g
+686,dennys,build your own burger lettuce,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,0,g
+687,dennys,build your own burger mayo,11,g,5,mg,75,g,0,g,0,g,2,g,0,g,0,g,0,g
+688,dennys,build your own burger multigrain bun,3.5,g,0,mg,260,g,35,g,8,g,0.5,g,0,g,2,g,8,g
+689,dennys,build your own burger pickles,0,g,0,mg,180,g,0,g,0,g,0,g,0,g,0,g,0,g
+690,dennys,build your own burger ranch,8,g,5,mg,110,g,0,g,0,g,1.5,g,0,g,0,g,0,g
+691,dennys,build your own burger red onions,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+692,dennys,build your own burger sauteed mushrooms,6,g,0,mg,55,g,1,g,1,g,1,g,0,g,0,g,0,g
+693,dennys,build your own burger swiss cheese,6,g,20,mg,45,g,0,g,6,g,4,g,0,g,0,g,0,g
+694,dennys,build your own burger tomato,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+695,dennys,build your own chicken wraps with grilled chicken,42,g,95,mg,1380,g,74,g,44,g,13,g,0,g,8,g,3,g
+696,dennys,build your own chicken wraps with premium chicken tenders,49,g,65,mg,2040,g,89,g,33,g,13,g,0,g,9,g,3,g
+697,dennys,build your own grand slam 2 boiled eggs,8,g,325,mg,125,g,1,g,11,g,3,g,0,g,0,g,0,g
+698,dennys,build your own grand slam 2 egg whites,1,g,0,mg,230,g,1,g,13,g,0,g,0,g,0,g,0,g
+699,dennys,build your own grand slam 2 fried basted eggs,16,g,325,mg,200,g,1,g,11,g,4,g,0,g,0,g,0,g
+700,dennys,build your own grand slam 2 scrambled eggs,17,g,480,mg,360,g,1,g,14,g,5,g,0,g,0,g,0,g
+701,dennys,build your own grand slam bacon strips,8,g,20,mg,350,g,1,g,7,g,3,g,0,g,0,g,1,g
+702,dennys,build your own grand slam buttermilk biscuit,13,g,0,mg,660,g,27,g,4,g,7,g,0,g,1,g,2,g
+703,dennys,build your own grand slam buttermilk pancakes with margarine,11,g,60,mg,1390,g,77,g,10,g,4,g,0,g,2,g,20,g
+704,dennys,build your own grand slam english muffin with margarine,6,g,0,mg,270,g,29,g,5,g,1,g,0,g,1,g,1,g
+705,dennys,build your own grand slam english muffin without margarine,1,g,0,mg,220,g,29,g,5,g,0,g,0,g,1,g,1,g
+706,dennys,build your own grand slam gluten free english muffin with margarine,6,g,0,mg,540,g,36,g,4,g,1,g,0,g,1,g,7,g
+707,dennys,build your own grand slam gluten free english muffin without margarine,1.5,g,0,mg,500,g,36,g,4,g,0,g,0,g,1,g,7,g
+708,dennys,build your own grand slam grilled ham slice,3,g,20,mg,790,g,1,g,15,g,1,g,0,g,0,g,1,g
+709,dennys,build your own grand slam grits with margarine,4.5,g,0,mg,40,g,12,g,1,g,2,g,0,g,1,g,0,g
+710,dennys,build your own grand slam hash browns,12,g,0,mg,360,g,15,g,1,g,2,g,0,g,1,g,1,g
+711,dennys,build your own grand slam hearty 9 grain pancakes,11,g,40,mg,880,g,68,g,10,g,4,g,0,g,5,g,21,g
+712,dennys,build your own grand slam hearty breakfast sausage,31,g,70,mg,840,g,5,g,14,g,8,g,0,g,0,g,1,g
+713,dennys,build your own grand slam oatmeal with milk and brown sugar,2,g,5,mg,45,g,45,g,7,g,1,g,0,g,4,g,16,g
+714,dennys,build your own grand slam sausage links,15,g,40,mg,350,g,2,g,5,g,5,g,0,g,1,g,0,g
+715,dennys,build your own grand slam seasonal fruit,0,g,0,mg,5,g,27,g,1,g,0,g,0,g,3,g,19,g
+716,dennys,build your own grand slam sourdough toast with margarine,12,g,0,mg,460,g,37,g,6,g,3,g,0,g,1,g,2,g
+717,dennys,build your own grand slam sourdough toast without margarine,3,g,0,mg,380,g,37,g,6,g,1,g,0,g,1,g,2,g
+718,dennys,build your own grand slam turkey bacon strips,3.5,g,30,mg,330,g,1,g,7,g,1,g,0,g,0,g,1,g
+719,dennys,build your own grand slam wheat toast with margarine,11,g,0,mg,400,g,29,g,2,g,2,g,0,g,2,g,6,g
+720,dennys,build your own grand slam wheat toast without margarine,2,g,0,mg,310,g,29,g,6,g,1,g,0,g,2,g,2,g
+721,dennys,build your own grand slam white toast with margarine,10,g,0,mg,400,g,31,g,5,g,2,g,0,g,0,g,2,g
+722,dennys,build your own grand slam white toast without margarine,1.5,g,0,mg,320,g,31,g,5,g,0,g,0,g,0,g,2,g
+723,dennys,build your own jr grand slam bacon strip and sausage link,11,g,30,mg,350,g,1,g,6,g,4,g,0,g,1,g,1,g
+724,dennys,build your own jr grand slam bacon strips,8,g,20,mg,350,g,1,g,7,g,3,g,0,g,0,g,1,g
+725,dennys,build your own jr grand slam boiled egg,4,g,165,mg,60,g,0,g,6,g,1.5,g,0,g,0,g,0,g
+726,dennys,build your own jr grand slam egg white,0,g,0,mg,115,g,0,g,7,g,0,g,0,g,0,g,0,g
+727,dennys,build your own jr grand slam fried egg,8,g,165,mg,100,g,0,g,6,g,2,g,0,g,0,g,0,g
+728,dennys,build your own jr grand slam hash browns,6,g,0,mg,180,g,7,g,1,g,1,g,0,g,1,g,0,g
+729,dennys,build your own jr grand slam sausage links,15,g,40,mg,350,g,2,g,5,g,4.5,g,0,g,1,g,0,g
+730,dennys,build your own jr grand slam scrambled egg,9,g,240,mg,180,g,1,g,7,g,2.5,g,0,g,0,g,0,g
+731,dennys,build your own jr grand slam silver dollar pancakes,7,g,25,mg,550,g,29,g,4,g,2,g,0,g,1,g,8,g
+732,dennys,build your own jr grand slam sourdough toast with margarine,6,g,0,mg,230,g,19,g,3,g,1,g,0,g,1,g,1,g
+733,dennys,build your own jr grand slam turkey bacon strips,3.5,g,30,mg,330,g,1,g,7,g,1,g,0,g,0,g,1,g
+734,dennys,build your own jr grand slam wheat toast with margarine,5,g,0,mg,200,g,14,g,3,g,1,g,0,g,1,g,2,g
+735,dennys,build your own jr grand slam white toast with margarine,5,g,0,mg,200,g,15,g,3,g,1,g,0,g,1,g,1,g
+736,dennys,build your own omelette american cheese,7,g,20,mg,390,g,1,g,4,g,4,g,0,g,0,g,1,g
+737,dennys,build your own omelette bacon,8,g,20,mg,350,g,1,g,7,g,3,g,0,g,0,g,1,g
+738,dennys,build your own omelette caramelized onions,7,g,0,mg,210,g,2,g,0,g,1,g,0,g,1,g,1,g
+739,dennys,build your own omelette cheddar cheese,6,g,20,mg,120,g,0,g,5,g,4,g,0,g,0,g,0,g
+740,dennys,build your own omelette chorizo sausage,27,g,75,mg,830,g,4,g,17,g,10,g,0,g,0,g,0,g
+741,dennys,build your own omelette feta cheese,5,g,20,mg,420,g,2,g,7,g,4,g,0,g,0,g,1,g
+742,dennys,build your own omelette fire roasted bell peppers and onions,6,g,0,mg,110,g,4,g,0,g,1,g,0,g,1,g,2,g
+743,dennys,build your own omelette fresh avocado,4,g,0,mg,0,g,2,g,1,g,0.5,g,0,g,2,g,0,g
+744,dennys,build your own omelette fresh spinach,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+745,dennys,build your own omelette ham,3,g,20,mg,790,g,1,g,15,g,1,g,0,g,0,g,1,g
+746,dennys,build your own omelette italian cheese blend,6,g,20,mg,140,g,0,g,5,g,4,g,0,g,0,g,0,g
+747,dennys,build your own omelette jalapenos,0,g,0,mg,440,g,1,g,0,g,0,g,0,g,0,g,1,g
+748,dennys,build your own omelette pepper jack queso,7,g,25,mg,270,g,3,g,5,g,3,g,0,g,0,g,1,g
+749,dennys,build your own omelette pico de gallo,0,g,0,mg,75,g,3,g,1,g,0,g,0,g,1,g,2,g
+750,dennys,build your own omelette plain egg white omelette,1.5,g,0,mg,340,g,1,g,20,g,0,g,0,g,0,g,1,g
+751,dennys,build your own omelette plain omelette,26,g,720,mg,540,g,2,g,0,g,7,g,0,g,0,g,21,g
+752,dennys,build your own omelette sausage,18,g,35,mg,330,g,1,g,6,g,6,g,0,g,0,g,0,g
+753,dennys,build your own omelette sauteed mushrooms,6,g,0,mg,55,g,1,g,1,g,1,g,0,g,0,g,0,g
+754,dennys,build your own omelette swiss cheese,6,g,20,mg,45,g,0,g,6,g,4,g,0,g,0,g,0,g
+755,dennys,build your own omelette tomatoes,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,1,g
+756,dennys,build your own omelette turkey bacon,3.5,g,30,mg,330,g,1,g,7,g,1,g,0,g,0,g,1,g
+757,dennys,build your own sampler bacon cheddar tots,15,g,25,mg,950,g,31,g,10,g,5,g,0,g,2,g,3,g
+758,dennys,build your own sampler beer battered onion rings,27,g,0,mg,710,g,35,g,4,g,4.5,g,0,g,3,g,5,g
+759,dennys,build your own sampler boneless buffalo wings,34,g,30,mg,2550,g,22,g,17,g,5,g,0,g,3,g,0,g
+760,dennys,build your own sampler cheese quesadilla,44,g,65,mg,1040,g,47,g,22,g,20,g,0.5,g,2,g,0,g
+761,dennys,build your own sampler chips and queso,34,g,30,mg,620,g,57,g,10,g,9,g,0,g,4,g,3,g
+762,dennys,build your own sampler mozzarella cheese sticks,11,g,40,mg,1230,g,30,g,16,g,6,g,0,g,1,g,2,g
+763,dennys,build your own sampler premium chicken tenders,16,g,40,mg,1000,g,15,g,18,g,2,g,0,g,1,g,0,g
+764,dennys,build your own sampler seasoned fries,26,g,5,mg,1100,g,57,g,7,g,5,g,0,g,8,g,1,g
+765,dennys,build your own sampler wavy cut fries,22,g,0,mg,470,g,46,g,4,g,4,g,0,g,4,g,0,g
+766,dennys,caesar dressing 1 5 oz,22,g,10,mg,380,g,2,g,1,g,4,g,0,g,0,g,1,g
+767,dennys,caesar dressing 3 oz,44,g,20,mg,760,g,4,g,3,g,8,g,0.5,g,0,g,2,g
+768,dennys,caesar salad,40,g,40,mg,930,g,9,g,13,g,10,g,0,g,4,g,4,g
+769,dennys,cake batter milkshake,52,g,160,mg,890,g,147,g,13,g,37,g,0,g,0,g,122,g
+770,dennys,cali chicken burrito,80,g,115,mg,2130,g,105,g,52,g,23,g,1,g,9,g,4,g
+771,dennys,cali club sandwich,48,g,100,mg,2060,g,55,g,43,g,13,g,0,g,7,g,12,g
+772,dennys,caramel apple pie crisp,27,g,65,mg,690,g,142,g,7,g,15,g,0,g,4,g,100,g
+773,dennys,chicken loaded potato sizzlin skillet,49,g,145,mg,1930,g,39,g,51,g,17,g,1,g,5,g,5,g
+774,dennys,chicken noodle soup bowl,15,g,110,mg,3880,g,43,g,21,g,6,g,0,g,2,g,5,g
+775,dennys,chicken noodle soup cup,10,g,75,mg,2580,g,28,g,14,g,4,g,0,g,2,g,4,g
+776,dennys,chocolate lava cake,34,g,60,mg,330,g,85,g,6,g,20,g,0,g,2,g,65,g
+777,dennys,chocolate milkshake,43,g,160,mg,220,g,111,g,17,g,28,g,0,g,0,g,87,g
+778,dennys,chocolate peanut butter milkshake,74,g,160,mg,570,g,117,g,26,g,35,g,0,g,5,g,89,g
+779,dennys,choconana pancake breakfast,36,g,60,mg,1360,g,143,g,16,g,20,g,0,g,3,g,64,g
+780,dennys,cinnamon roll pancake breakfast with cream cheese icing,25,g,60,mg,1660,g,188,g,10,g,11,g,0,g,4,g,127,g
+781,dennys,cinnamon roll pancakes breakfast with salted caramel,27,g,60,mg,1750,g,188,g,11,g,10,g,0,g,4,g,123,g
+782,dennys,classic battered fish fillets dinner,61,g,15,mg,1340,g,40,g,27,g,9,g,0.5,g,0,g,5,g
+783,dennys,classic blt,71,g,80,mg,2250,g,88,g,32,g,17,g,0,g,6,g,6,g
+784,dennys,club sandwich,39,g,90,mg,2200,g,74,g,47,g,8,g,0,g,8,g,15,g
+785,dennys,cobb salad,30,g,255,mg,560,g,20,g,22,g,12,g,0,g,6,g,6,g
+786,dennys,coca cola,0,g,0,mg,40,g,49,g,0,g,0,g,0,g,0,g,49,g
+787,dennys,cold brew coffee sweetened,2,g,5,mg,50,g,25,g,4,g,1,g,0,g,0,g,23,g
+788,dennys,cold brew coffee unsweetened,2,g,5,mg,50,g,6,g,4,g,1,g,0,g,0,g,4,g
+789,dennys,country gravy 1 oz,1.5,g,0,mg,105,g,2,g,0,g,0,g,0,g,0,g,0,g
+790,dennys,country fried steak and eggs sizzlin skillet,42,g,85,mg,1790,g,52,g,26,g,15,g,1.5,g,4,g,3,g
+791,dennys,country fried steak and eggs with hash browns,33,g,65,mg,1380,g,38,g,2,g,10,g,1,g,2,g,19,g
+792,dennys,country fried steak with gravy,40,g,110,mg,1700,g,37,g,30,g,14,g,2,g,2,g,5,g
+793,dennys,crazy spicy sizzlin skillet,70,g,185,mg,2980,g,44,g,59,g,23,g,0.5,g,4,g,7,g
+794,dennys,crazy spicy skillet,70,g,185,mg,2980,g,44,g,59,g,23,g,0.5,g,4,g,7,g
+795,dennys,cream cheese icing 2 oz,6,g,10,mg,70,g,42,g,0,g,3.5,g,0,g,0,g,40,g
+796,dennys,creamer half and half,1,g,5,mg,5,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+797,dennys,creamer hazelnut or french vanilla,1,g,0,mg,0,g,5,g,0,g,0.5,g,0,g,0,g,5,g
+798,dennys,creamy sriracha sauce 1 5 oz,15,g,5,mg,420,g,4,g,0,g,3,g,0,g,0,g,4,g
+799,dennys,crispy brussels sprouts appetizer,30,g,0,mg,480,g,23,g,6,g,5,g,1,g,6,g,10,g
+800,dennys,croutons 1 5 oz,2.5,g,0,mg,200,g,11,g,2,g,0,g,0,g,0,g,1,g
+801,dennys,diet coke,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+802,dennys,dinner side broccoli,0,g,0,mg,150,g,5,g,3,g,0,g,0,g,3,g,1,g
+803,dennys,dinner side crispy brussels sprouts,15,g,0,mg,240,g,11,g,3,g,2.5,g,0,g,3,g,5,g
+804,dennys,dinner side fresh sauteed zucchini and squash,6,g,0,mg,440,g,3,g,1,g,1,g,0,g,1,g,2,g
+805,dennys,dinner side garlic toast dinner bread,7,g,0,mg,360,g,25,g,2,g,2,g,0,g,1,g,6,g
+806,dennys,dinner side red skinned mashed potatoes,5,g,15,mg,560,g,17,g,3,g,3.5,g,0,g,0,g,2,g
+807,dennys,dinner side red skinned potatoes,8,g,0,mg,580,g,26,g,4,g,1.5,g,0,g,3,g,0,g
+808,dennys,dinner side sweet petite corn,13,g,0,mg,310,g,20,g,4,g,2.5,g,0,g,5,g,8,g
+809,dennys,dinner side wavy cut fries,22,g,0,mg,470,g,46,g,4,g,4,g,0,g,4,g,0,g
+810,dennys,dinner side whole grain rice,2.5,g,0,mg,360,g,48,g,6,g,0.5,g,0,g,5,g,2,g
+811,dennys,double berry banana pancake breakfast,10,g,60,mg,1360,g,103,g,12,g,4,g,0,g,8,g,36,g
+812,dennys,double cheeseburger,56,g,235,mg,1540,g,50,g,66,g,25,g,3.5,g,3,g,11,g
+813,dennys,dr pepper,0,g,0,mg,45,g,39,g,0,g,0,g,0,g,0,g,39,g
+814,dennys,dulce de leche crunch dessert pancakes,36,g,120,mg,1840,g,211,g,14,g,19,g,0,g,4,g,142,g
+815,dennys,everyday value slam,11,g,60,mg,1390,g,77,g,10,g,3.5,g,0,g,2,g,20,g
+816,dennys,fanta orange,0,g,0,mg,50,g,52,g,0,g,0,g,0,g,0,g,51,g
+817,dennys,fit fare veggie sizzlin skillet,16,g,0,mg,1270,g,40,g,22,g,3,g,0,g,7,g,6,g
+818,dennys,fit slam,12,g,30,mg,860,g,59,g,27,g,2.5,g,0,g,5,g,22,g
+819,dennys,french dressing 1 5 oz,8,g,5,mg,430,g,2,g,0,g,1.5,g,0,g,0,g,0,g
+820,dennys,french dressing 3 oz,17,g,10,mg,850,g,4,g,0,g,2.5,g,0,g,1,g,0,g
+821,dennys,french toast slam,52,g,405,mg,1700,g,65,g,31,g,16,g,0,g,3,g,14,g
+822,dennys,french toast slugger,17,g,170,mg,520,g,32,g,10,g,4,g,0,g,1,g,7,g
+823,dennys,fried cheese melt,37,g,80,mg,2730,g,74,g,31,g,17,g,1,g,3,g,8,g
+824,dennys,fuze raspberry tea,0,g,0,mg,55,g,28,g,0,g,0,g,0,g,0,g,28,g
+825,dennys,garlic peppercorn sirloin dinner,25,g,145,mg,1240,g,3,g,43,g,10,g,0,g,0,g,0,g
+826,dennys,grand slam slugger,34,g,120,mg,2100,g,79,g,22,g,11,g,0,g,3,g,21,g
+827,dennys,grilled tuscan chicken sandwich,49,g,125,mg,1850,g,43,g,50,g,13,g,0,g,4,g,12,g
+828,dennys,groovy mango smoothie,0,g,0,mg,95,g,86,g,3,g,0,g,0,g,0,g,78,g
+829,dennys,hearty 9 grain pancake breakfast,11,g,40,mg,880,g,68,g,21,g,4,g,0,g,5,g,10,g
+830,dennys,hearty breakfast slam,54,g,130,mg,2590,g,98,g,26,g,14,g,0,g,4,g,22,g
+831,dennys,hi c fruit punch,0,g,0,mg,65,g,52,g,0,g,0,g,0,g,0,g,50,g
+832,dennys,honey buttermilk chicken tender sandwich,24,g,55,mg,1600,g,57,g,25,g,6,g,0,g,2,g,12,g
+833,dennys,honey mustard dressing 1 5 oz,15,g,15,mg,190,g,12,g,8,g,2,g,0,g,0,g,0,g
+834,dennys,honey mustard dressing 3 oz,30,g,30,mg,390,g,25,g,0,g,4.5,g,0,g,0,g,15,g
+835,dennys,hot chocolate,3,g,5,mg,260,g,37,g,2,g,1.5,g,0,g,0,g,30,g
+836,dennys,house salad,9,g,20,mg,340,g,19,g,9,g,4.5,g,0,g,3,g,6,g
+837,dennys,iced tea sweet,0,g,0,mg,10,g,40,g,0,g,0,g,0,g,0,g,39,g
+838,dennys,iced tea unsweet,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+839,dennys,italian dressing fat free 1 5 oz,0,g,0,mg,410,g,4,g,0,g,0,g,0,g,0,g,3,g
+840,dennys,italian dressing fat free 3 oz,0,g,0,mg,820,g,8,g,0,g,0,g,0,g,0,g,6,g
+841,dennys,jr 2 milk,6,g,25,mg,140,g,15,g,10,g,4,g,0,g,0,g,15,g
+842,dennys,jr apple dunkers with caramel,1,g,5,mg,125,g,28,g,1,g,0.5,g,0,g,1,g,21,g
+843,dennys,jr apple dunkers without caramel,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,1,g,6,g
+844,dennys,jr appley ever after honest kids organic juice box,0,g,0,mg,10,g,9,g,0,g,0,g,0,g,0,g,8,g
+845,dennys,jr birthday cake pancakes,8,g,20,mg,570,g,60,g,5,g,4,g,0,g,1,g,31,g
+846,dennys,jr cake batter milkshake,37,g,120,mg,510,g,93,g,9,g,25,g,0,g,0,g,77,g
+847,dennys,jr cheeseburger,26,g,100,mg,1130,g,34,g,29,g,13,g,1.5,g,1,g,5,g
+848,dennys,jr chocolate chip pancakes,6,g,20,mg,510,g,38,g,4,g,3,g,0,g,2,g,15,g
+849,dennys,jr chocolate ice cream,15,g,60,mg,60,g,30,g,5,g,10,g,0,g,0,g,23,g
+850,dennys,jr chocolate milkshake,32,g,120,mg,160,g,89,g,12,g,21,g,0,g,0,g,70,g
+851,dennys,jr french toast,9,g,85,mg,260,g,30,g,6,g,2,g,0,g,3,g,9,g
+852,dennys,jr french toast with egg whites and appley ever after juice,10,g,85,mg,390,g,39,g,13,g,2.5,g,0,g,3,g,18,g
+853,dennys,jr french toast with turkey bacon and appley ever after juice,13,g,115,mg,600,g,40,g,13,g,3.5,g,0,g,3,g,18,g
+854,dennys,jr fresh banana slices,0,g,0,mg,0,g,27,g,1,g,0,g,0,g,3,g,14,g
+855,dennys,jr garden salad,2.5,g,0,mg,210,g,13,g,2,g,0,g,0,g,1,g,2,g
+856,dennys,jr goldfish crackers,4,g,10,mg,210,g,17,g,3,g,1,g,0,g,1,g,0,g
+857,dennys,jr grapes,0,g,0,mg,0,g,14,g,1,g,0,g,0,g,1,g,12,g
+858,dennys,jr groovy mango smoothie,0,g,0,mg,50,g,50,g,2,g,0,g,0,g,0,g,46,g
+859,dennys,jr hot chocolate,3,g,5,mg,260,g,37,g,2,g,1.5,g,0,g,0,g,30,g
+860,dennys,jr lemonade,0,g,0,mg,0,g,26,g,0,g,0,g,0,g,0,g,24,g
+861,dennys,jr mac and cheese,9,g,10,mg,650,g,44,g,10,g,2.5,g,0,g,2,g,8,g
+862,dennys,jr mini corn dogs,21,g,55,mg,720,g,33,g,10,g,5,g,0,g,1,g,9,g
+863,dennys,jr orange juice,0,g,0,mg,0,g,34,g,2,g,0,g,0,g,0,g,30,g
+864,dennys,jr oreo blender blaster milkshake,41,g,120,mg,430,g,90,g,11,g,24,g,0,g,1,g,65,g
+865,dennys,jr premium chicken tenders,16,g,40,mg,1000,g,15,g,18,g,2,g,0,g,1,g,0,g
+866,dennys,jr premium chicken tenders add a chicken tender,8,g,20,mg,500,g,8,g,9,g,1,g,0,g,1,g,0,g
+867,dennys,jr red skinned mashed potatoes without gravy,5,g,15,mg,560,g,17,g,3,g,3.5,g,0,g,0,g,2,g
+868,dennys,jr reduced fat chocolate milk,3,g,15,mg,200,g,31,g,11,g,1.5,g,0,g,0,g,31,g
+869,dennys,jr spaghetti with broccoli bread and appley ever after juice,10,g,5,mg,660,g,64,g,13,g,2.5,g,0,g,5,g,14,g
+870,dennys,jr spaghetti with tomato sauce and bread,10,g,5,mg,500,g,50,g,10,g,2.5,g,0,g,2,g,5,g
+871,dennys,jr spaghetti add a meatball,13,g,30,mg,380,g,4,g,8,g,5,g,0,g,1,g,1,g
+872,dennys,jr steamed broccoli,0,g,0,mg,150,g,5,g,3,g,0,g,0,g,3,g,1,g
+873,dennys,jr strawberry banana bliss smoothie,0,g,0,mg,50,g,48,g,2,g,0,g,0,g,2,g,37,g
+874,dennys,jr strawberry ice cream,12,g,50,mg,85,g,32,g,3,g,7,g,0,g,0,g,22,g
+875,dennys,jr strawberry milkshake,26,g,105,mg,200,g,77,g,9,g,16,g,0,g,1,g,56,g
+876,dennys,jr sweet petite corn,13,g,0,mg,310,g,20,g,4,g,2.5,g,0,g,5,g,8,g
+877,dennys,jr vanilla ice cream,15,g,60,mg,90,g,27,g,3,g,10,g,0,g,0,g,22,g
+878,dennys,jr vanilla milkshake,32,g,120,mg,220,g,78,g,9,g,21,g,0,g,0,g,68,g
+879,dennys,kids grilled chicken on a stick,9,g,75,mg,330,g,0,g,29,g,2,g,0,g,0,g,0,g
+880,dennys,kids grilled chicken on a stick with broccoli and appley ever after juice,9,g,75,mg,490,g,15,g,31,g,2,g,0,g,3,g,10,g
+881,dennys,lemonade,0,g,0,mg,0,g,40,g,0,g,0,g,0,g,0,g,37,g
+882,dennys,lemonade iced tea,0,g,0,mg,5,g,21,g,0,g,0,g,0,g,0,g,19,g
+883,dennys,loaded baked potato soup bowl,31,g,70,mg,1770,g,36,g,12,g,13,g,0,g,2,g,5,g
+884,dennys,loaded baked potato soup cup,25,g,60,mg,1250,g,25,g,20,g,10,g,0,g,1,g,4,g
+885,dennys,loaded breakfast sandwich,34,g,85,mg,2260,g,48,g,30,g,11,g,0.5,g,2,g,4,g
+886,dennys,loaded nacho tots,62,g,135,mg,3740,g,68,g,39,g,25,g,1.5,g,7,g,11,g
+887,dennys,loaded veggie omelette with hash browns,44,g,740,mg,970,g,24,g,31,g,14,g,0.5,g,3,g,5,g
+888,dennys,lot fat balsamic vinaigrette 3 oz,4,g,0,mg,490,g,24,g,0,g,0.5,g,0,g,0,g,23,g
+889,dennys,low fat balsamic vinaigrette 1 5 oz,2,g,0,mg,240,g,12,g,0,g,0,g,0,g,0,g,11,g
+890,dennys,lumberjack slam,48,g,140,mg,3250,g,96,g,39,g,15,g,0,g,4,g,23,g
+891,dennys,mango habanero sauce 2 oz,0,g,0,mg,150,g,27,g,0,g,0,g,0,g,0,g,25,g
+892,dennys,mango lemonade,0,g,0,mg,0,g,57,g,0,g,0,g,0,g,0,g,53,g
+893,dennys,mango lime agua fresca los angeles market only,0,g,0,mg,0,g,22,g,0,g,0,g,0,g,0,g,21,g
+894,dennys,maple flavored syrup,0,g,0,mg,40,g,54,g,0,g,0,g,0,g,0,g,29,g
+895,dennys,maple flavored syrup sugar free,0,g,0,mg,110,g,6,g,0,g,0,g,0,g,0,g,0,g
+896,dennys,mediterranean grilled chicken,40,g,165,mg,1520,g,6,g,65,g,9,g,0.5,g,1,g,3,g
+897,dennys,mega philly cheese melt with grilled chicken breast,41,g,120,mg,1540,g,57,g,52,g,15,g,0,g,3,g,7,g
+898,dennys,mega philly cheese melt with prime rib,51,g,115,mg,2120,g,63,g,49,g,18,g,0.5,g,3,g,7,g
+899,dennys,moons over my hammy with hash browns,60,g,560,mg,2560,g,57,g,44,g,20,g,0.5,g,2,g,4,g
+900,dennys,mozzarella cheese sticks,22,g,75,mg,2460,g,60,g,32,g,13,g,0.5,g,2,g,4,g
+901,dennys,my hammy and cheese omelette with hash browns,54,g,785,mg,2270,g,20,g,50,g,19,g,1,g,1,g,3,g
+902,dennys,new york style cheesecake with strawberry topping and whipped cream,35,g,150,mg,410,g,63,g,9,g,20,g,1,g,2,g,49,g
+903,dennys,new york style cheesecake plain,34,g,150,mg,370,g,42,g,9,g,20,g,1,g,1,g,31,g
+904,dennys,orange juice,0,g,0,mg,0,g,51,g,3,g,0,g,0,g,0,g,45,g
+905,dennys,oreo milkshake,56,g,160,mg,610,g,125,g,15,g,32,g,0,g,2,g,90,g
+906,dennys,original grand slam,34,g,120,mg,2100,g,79,g,22,g,11,g,0,g,3,g,21,g
+907,dennys,parmesan chicken skillet,46,g,125,mg,1700,g,64,g,47,g,15,g,1,g,9,g,8,g
+908,dennys,peanut butter banana milkshake,74,g,160,mg,550,g,105,g,26,g,35,g,0,g,6,g,77,g
+909,dennys,philly cheesesteak omelette with hash browns,64,g,795,mg,1540,g,25,g,48,g,21,g,1,g,2,g,4,g
+910,dennys,pico de gallo 2 oz,0,g,0,mg,75,g,3,g,1,g,0,g,0,g,1,g,2,g
+911,dennys,pot roast melt,46,g,155,mg,2240,g,54,g,63,g,16,g,0.5,g,5,g,10,g
+912,dennys,premium chicken tenders,40,g,100,mg,2520,g,38,g,45,g,5,g,0,g,3,g,0,g
+913,dennys,premium chicken tenders dinner,32,g,80,mg,2000,g,30,g,36,g,4,g,0,g,2,g,0,g
+914,dennys,ranch dressing 1 5 oz,21,g,10,mg,290,g,1,g,0,g,4,g,0,g,0,g,0,g
+915,dennys,ranch dressing 3 oz,42,g,20,mg,580,g,2,g,0,g,8,g,0,g,0,g,1,g
+916,dennys,reduced fat chocolate milk,4.5,g,25,mg,300,g,46,g,16,g,2,g,0,g,0,g,46,g
+917,dennys,ruby red grapefruit juice,0,g,0,mg,65,g,60,g,2,g,0,g,0,g,0,g,60,g
+918,dennys,salad add ons fresh avocado,4,g,0,mg,0,g,2,g,1,g,0.5,g,0,g,2,g,0,g
+919,dennys,salad add ons grilled chicken,9,g,75,mg,330,g,0,g,29,g,2,g,0,g,0,g,0,g
+920,dennys,salad add ons premium chicken tenders,24,g,60,mg,1500,g,23,g,27,g,3,g,0,g,2,g,0,g
+921,dennys,salad add ons prime rib,8,g,35,mg,440,g,3,g,13,g,2,g,0,g,0,g,0,g
+922,dennys,salad add ons wild alaska salmon,23,g,115,mg,830,g,1,g,32,g,6,g,0,g,0,g,0,g
+923,dennys,salted caramel and banana cream pancake breakfast,24,g,75,mg,1600,g,166,g,15,g,15,g,0,g,6,g,79,g
+924,dennys,santa fe sizzlin skillet,53,g,95,mg,1700,g,35,g,27,g,18,g,0,g,4,g,3,g
+925,dennys,santa fe skillet,53,g,95,mg,1700,g,35,g,27,g,18,g,0,g,4,g,3,g
+926,dennys,side bacon cheddar tots,15,g,25,mg,950,g,31,g,10,g,5,g,0,g,2,g,3,g
+927,dennys,side beer battered onion rings,27,g,0,mg,710,g,35,g,4,g,4.5,g,0,g,3,g,5,g
+928,dennys,side caesar side salad,20,g,15,mg,520,g,16,g,6,g,4,g,0,g,3,g,3,g
+929,dennys,side crispy brussels sprouts,15,g,0,mg,240,g,11,g,3,g,2.5,g,0,g,3,g,5,g
+930,dennys,side garden side salad,9,g,20,mg,340,g,16,g,8,g,4.5,g,0,g,2,g,4,g
+931,dennys,side seasonal fruit,0,g,0,mg,5,g,27,g,1,g,0,g,0,g,3,g,19,g
+932,dennys,side seasoned fries,26,g,5,mg,1100,g,57,g,7,g,5,g,0,g,8,g,1,g
+933,dennys,side wavy cut fries,22,g,0,mg,470,g,46,g,4,g,4,g,0,g,4,g,0,g
+934,dennys,sirloin steak,17,g,125,mg,960,g,2,g,43,g,5,g,0,g,0,g,0,g
+935,dennys,slamburger,51,g,160,mg,1780,g,55,g,48,g,22,g,2,g,2,g,11,g
+936,dennys,slice of french toast,17,g,170,mg,520,g,32,g,10,g,4,g,1,g,1,g,7,g
+937,dennys,slow cooked pot roast,19,g,110,mg,1250,g,10,g,43,g,6,g,0,g,1,g,2,g
+938,dennys,sour cream,4,g,15,mg,5,g,1,g,1,g,2,g,0,g,0,g,0,g
+939,dennys,southern chicken slugger,38,g,60,mg,1990,g,46,g,28,g,14,g,0,g,2,g,5,g
+940,dennys,southwest chorizo burrito with hash browns and pico los angeles market only,88,g,595,mg,2500,g,71,g,3,g,31,g,1,g,4,g,50,g
+941,dennys,spicy sriracha burger,55,g,165,mg,2250,g,55,g,49,g,22,g,2,g,3,g,15,g
+942,dennys,sprite,0,g,0,mg,80,g,47,g,0,g,0,g,0,g,0,g,47,g
+943,dennys,stack of pancakes,11,g,60,mg,1390,g,77,g,10,g,3.5,g,0,g,2,g,20,g
+944,dennys,strawberry banana bliss smoothie,0.5,g,0,mg,95,g,82,g,4,g,0,g,0,g,2,g,68,g
+945,dennys,strawberry hibiscus agua fresca los angeles market only,0,g,0,mg,0,g,19,g,0,g,0,g,0,g,0,g,19,g
+946,dennys,strawberry lemonade,0,g,0,mg,0,g,55,g,0,g,0,g,0,g,0,g,50,g
+947,dennys,strawberry milkshake,34,g,140,mg,270,g,110,g,12,g,22,g,0,g,1,g,80,g
+948,dennys,super slam,45,g,120,mg,2460,g,95,g,22,g,13,g,0,g,4,g,23,g
+949,dennys,super slam with all you can eat pancakes refill,11,g,60,mg,1390,g,77,g,10,g,3.5,g,0,g,2,g,20,g
+950,dennys,supreme sizzlin skillet,44,g,55,mg,1200,g,32,g,16,g,14,g,0,g,4,g,3,g
+951,dennys,t bone steak,30,g,120,mg,1220,g,0,g,52,g,12,g,0.5,g,0,g,0,g
+952,dennys,t bone steak and eggs with hash browns,42,g,120,mg,1590,g,16,g,53,g,14,g,0.5,g,1,g,1,g
+953,dennys,the grand slamwich with hash browns,85,g,595,mg,3320,g,87,g,52,g,28,g,1,g,3,g,10,g
+954,dennys,the super bird,28,g,100,mg,1780,g,43,g,40,g,10,g,0,g,2,g,5,g
+955,dennys,thousand island dressing 1 5 oz,16,g,20,mg,400,g,7,g,0,g,3,g,0,g,0,g,4,g
+956,dennys,thousand island dressing 3 oz,33,g,45,mg,810,g,15,g,0,g,6,g,0,g,0,g,9,g
+957,dennys,tomato juice,0,g,0,mg,1130,g,19,g,4,g,0,g,0,g,2,g,11,g
+958,dennys,tomato sauce 1 5 oz,1,g,0,mg,190,g,3,g,1,g,0,g,0,g,0,g,2,g
+959,dennys,tropical green smoothie,0,g,0,mg,105,g,81,g,72,g,0,g,0,g,2,g,4,g
+960,dennys,ultimate omelette with hash browns,71,g,785,mg,1590,g,20,g,38,g,22,g,0,g,2,g,3,g
+961,dennys,vanilla flavor shot,0,g,0,mg,5,g,21,g,0,g,0,g,0,g,0,g,21,g
+962,dennys,vanilla milkshake,43,g,160,mg,290,g,97,g,12,g,28,g,0,g,0,g,84,g
+963,dennys,vegetable beef soup bowl,16,g,30,mg,3420,g,40,g,16,g,3,g,0,g,3,g,4,g
+964,dennys,vegetable beef soup cup,11,g,20,mg,2280,g,27,g,11,g,2,g,0,g,2,g,3,g
+965,dennys,whipped margarine,4.5,g,0,mg,35,g,0,g,0,g,1.5,g,0,g,0,g,0,g
+966,dennys,wild alaska salmon,23,g,115,mg,830,g,1,g,32,g,6,g,0,g,0,g,0,g
+967,dennys,wild west omelette with hash browns,53,g,760,mg,2630,g,24,g,43,g,16,g,0.5,g,2,g,5,g
+968,dennys,zesty nachos full order,105,g,150,mg,3250,g,135,g,43,g,34,g,2,g,14,g,15,g
+969,dennys,zesty nachos half order,55,g,80,mg,1760,g,70,g,24,g,18,g,1,g,8,g,9,g
+970,dickeys barbecue pit,classic yeast roll bread,2,g,4,mg,224,g,25,g,3.5,g,1,g,0,g,0.5,g,4.5,g
+971,dickeys barbecue pit,cornbread muffin,9,g,30,mg,280,g,30,g,3,g,1.5,g,0,g,0,g,0,g
+972,dickeys barbecue pit,kids grilled cheese sandwich,60,g,50,mg,1240,g,36,g,16,g,16,g,0,g,0,g,0,g
+973,dickeys barbecue pit,pork ribs 1lb,107,g,313,mg,200,g,0,g,72.5,g,38,g,0,g,0,g,0,g
+974,dickeys barbecue pit,texas toast,1,g,0,mg,210,g,18,g,3,g,0,g,0,g,0,g,0,g
+975,dickeys barbecue pit,brisket mac stack,44,g,146,mg,1493,g,26,g,41.5,g,19.5,g,1,g,2,g,2,g
+976,dickeys barbecue pit,texas fritos pie stack,52.5,g,118,mg,2236,g,101.5,g,50,g,15.5,g,1,g,18.5,g,32.5,g
+977,dickeys barbecue pit,classic brisket sandwich,31.5,g,1105,mg,283,g,25,g,33.5,g,11.5,g,0,g,0,g,6,g
+978,dickeys barbecue pit,classic turkey sandwich,11,g,75,mg,1160,g,20,g,23,g,4,g,0,g,0,g,0,g
+979,dickeys barbecue pit,beef brisket and pulled pork westerners sandwich,52,g,150,mg,704,g,47,g,43.5,g,76,g,1,g,2,g,17,g
+980,dickeys barbecue pit,pulled pork sliders,13,g,27,mg,224,g,25,g,7,g,0,g,0,g,0.5,g,11,g
+981,dickeys barbecue pit,classic chicken sandwich,6,g,66,mg,808,g,26,g,24.5,g,1.5,g,0,g,0,g,6,g
+982,dickeys barbecue pit,beef brisket slider,12.5,g,43,mg,251,g,25,g,14.5,g,5,g,0.5,g,0.5,g,4.5,g
+983,dickeys barbecue pit,polish kielbasa sausage slider,14,g,30,mg,566,g,26.5,g,9.5,g,5.5,g,0,g,0.5,g,5,g
+984,dickeys barbecue pit,chicken breast and pulled pork westerners sandwich,33.5,g,117,mg,1098,g,48,g,36.5,g,69,g,0,g,2,g,17,g
+985,dickeys barbecue pit,classic pork sandwich,33.5,g,66,mg,210,g,25,g,12.6,g,86.5,g,0,g,0,g,24,g
+986,dickeys barbecue pit,jalapeno cheddar kielbasa slider,15,g,30,mg,482,g,26,g,9.5,g,5.5,g,0,g,0.5,g,5,g
+987,dickeys barbecue pit,pork sandwich,33.5,g,66,mg,210,g,25,g,12.5,g,16.5,g,0,g,0,g,24,g
+988,dickeys barbecue pit,beef brisket and turkey westerner sandwich,33,g,142,mg,1469,g,48.5,g,50.5,g,12,g,1,g,2,g,4,g
+989,dickeys barbecue pit,classic polish kielbasa sandwich,38,g,76,mg,899,g,27,g,20,g,13,g,0,g,0,g,8,g
+990,dickeys barbecue pit,turkey and pulled pork westerners sandwich,34.5,g,109,mg,1415,g,48.5,g,35,g,68,g,0,g,2,g,17,g
+991,dickeys barbecue pit,classic jalapeno cheddar kielbasa sandwich,36,g,76,mg,1121,g,29,g,20,g,13,g,0,g,0,g,8,g
+992,dickeys barbecue pit,turkey slider,3,g,13,mg,894,g,41.5,g,8,g,1,g,0,g,2,g,17.5,g
+993,dickeys barbecue pit,turkey and chicken breast westerners sandwich,14,g,108,mg,1863,g,46.5,g,43.5,g,4,g,0,g,2,g,4,g
+994,dickeys barbecue pit,polish kielbasa and jalapeno cheddar kielbasa westerners sandwich,59,g,132,mg,1850,g,51.5,g,39.5,g,22,g,0,g,2,g,7,g
+995,dickeys barbecue pit,polish kielbasa and chicken breast westerners sandwich,36.5,g,124,mg,1615,g,49.5,g,42.5,g,13,g,0,g,2,g,5.5,g
+996,dickeys barbecue pit,double pulled pork westerners sandwich,54,g,117,mg,650,g,47,g,28,g,132,g,0,g,2,g,30,g
+997,dickeys barbecue pit,polish kielbasa and pulled pork westerners sandwich,57,g,124,mg,1167,g,48.5,g,33.5,g,0,g,0,g,2,g,18.5,g
+998,dickeys barbecue pit,jalapeno cheddar kielbasa and chicken breast westerners sandwich,35,g,124,mg,1782,g,51,g,42.5,g,13,g,0,g,2,g,5.5,g
+999,dickeys barbecue pit,double chicken breast westerners sandwich,13,g,116,mg,1546,g,48.5,g,45.5,g,5,g,0,g,2,g,4,g

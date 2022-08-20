@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,perkins restaurant and bakery,55 plus brioche french toast breakfast,31,g,290,mg,710,g,63,g,26,g,10,g,0,g,2,g,16,g
+1,perkins restaurant and bakery,55 plus build your own omelet 2 large fresh eggs,13,g,430,mg,130,g,2,g,12,g,3.5,g,0,g,0,g,0,g
+2,perkins restaurant and bakery,55 plus build your own omelet applewood smoked bacon,3,g,10,mg,125,g,0,g,2,g,1,g,0,g,0,g,0,g
+3,perkins restaurant and bakery,55 plus build your own omelet avocado,9,g,0,mg,0,g,6,g,2,g,1,g,0,g,2,g,0,g
+4,perkins restaurant and bakery,55 plus build your own omelet chorizo sausage,14,g,30,mg,310,g,1,g,8,g,5,g,0,g,0,g,0,g
+5,perkins restaurant and bakery,55 plus build your own omelet diced ham,6,g,10,mg,270,g,1,g,4,g,2,g,0,g,0,g,1,g
+6,perkins restaurant and bakery,55 plus build your own omelet diced tomatoes,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+7,perkins restaurant and bakery,55 plus build your own omelet fresh mushrooms,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,1,g
+8,perkins restaurant and bakery,55 plus build your own omelet fresh spinach,0,g,0,mg,20,g,1,g,1,g,0,g,0,g,1,g,0,g
+9,perkins restaurant and bakery,55 plus build your own omelet green peppers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,1,g
+10,perkins restaurant and bakery,55 plus build your own omelet hollandaise sauce,8,g,15,mg,440,g,9,g,1,g,5,g,0,g,0,g,2,g
+11,perkins restaurant and bakery,55 plus build your own omelet pork sausage,21,g,0,mg,240,g,1,g,6,g,8,g,0,g,0,g,0,g
+12,perkins restaurant and bakery,55 plus build your own omelet shredded american cheese,9,g,30,mg,160,g,1,g,7,g,5,g,0,g,0,g,0,g
+13,perkins restaurant and bakery,55 plus build your own omelet shredded mild cheddar cheese,9,g,30,mg,180,g,1,g,7,g,5,g,0,g,0,g,0,g
+14,perkins restaurant and bakery,55 plus build your own omelet shredded pepper jack cheese,8,g,30,mg,170,g,1,g,7,g,5,g,0,g,0,g,0,g
+15,perkins restaurant and bakery,55 plus build your own omelet swiss cheese,8,g,25,mg,110,g,1,g,7,g,5,g,0,g,0,g,0,g
+16,perkins restaurant and bakery,55 plus build your own omelet turkey sausage,10,g,35,mg,190,g,1,g,6,g,2.5,g,0,g,0,g,0,g
+17,perkins restaurant and bakery,55 plus build your own omelet yellow onions,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,1,g
+18,perkins restaurant and bakery,55 plus buttermilk pancake breakfast,26,g,55,mg,1700,g,66,g,8,g,7,g,0,g,0,g,12,g
+19,perkins restaurant and bakery,55 plus continental,15,g,10,mg,180,g,57,g,8,g,5,g,0,g,4,g,32,g
+20,perkins restaurant and bakery,55 plus egg benedict,30,g,240,mg,940,g,40,g,16,g,9,g,0,g,3,g,18,g
+21,perkins restaurant and bakery,55 plus egg classic,15,g,215,mg,65,g,1,g,6,g,3,g,0,g,0,g,0,g
+22,perkins restaurant and bakery,55 plus egg omelete,13,g,430,mg,130,g,2,g,12,g,3.5,g,0,g,0,g,0,g
+23,perkins restaurant and bakery,55 plus egg traveler,8,g,215,mg,65,g,1,g,6,g,2,g,0,g,0,g,0,g
+24,perkins restaurant and bakery,55 plus french toast breakfast,23,g,275,mg,660,g,51,g,19,g,6,g,0,g,2,g,8,g
+25,perkins restaurant and bakery,55 plus lunch and dinner cheeseburger,39,g,110,mg,860,g,41,g,32,g,12,g,1.5,g,1,g,8,g
+26,perkins restaurant and bakery,55 plus lunch and dinner chicken strips dinner,43,g,150,mg,2110,g,59,g,44,g,12,g,0,g,0,g,11,g
+27,perkins restaurant and bakery,55 plus lunch and dinner classic pot roast dinner,31,g,160,mg,1270,g,16,g,54,g,11,g,0,g,3,g,4,g
+28,perkins restaurant and bakery,55 plus lunch and dinner country fried steak,32,g,85,mg,1810,g,45,g,27,g,10,g,0.5,g,2,g,2,g
+29,perkins restaurant and bakery,55 plus lunch and dinner grilled chicken breast,8,g,95,mg,790,g,0,g,32,g,1.5,g,0,g,0,g,0,g
+30,perkins restaurant and bakery,55 plus lunch and dinner hamburger,32,g,90,mg,560,g,40,g,27,g,8,g,1.5,g,1,g,7,g
+31,perkins restaurant and bakery,55 plus lunch and dinner pork chop dinner,32,g,160,mg,1680,g,8,g,58,g,11,g,0,g,1,g,6,g
+32,perkins restaurant and bakery,55 plus lunch and dinner tilapia grille dinner,18,g,105,mg,420,g,9,g,42,g,3.5,g,0,g,0,g,6,g
+33,perkins restaurant and bakery,55 plus lunch and dinner turkey and dressing dinner,20,g,90,mg,1740,g,21,g,38,g,3.5,g,0,g,2,g,14,g
+34,perkins restaurant and bakery,55 plus potato pancakes,41,g,135,mg,1310,g,46,g,15,g,12,g,0,g,3,g,10,g
+35,perkins restaurant and bakery,55 plus strawberry topping,0,g,0,mg,60,g,46,g,0,g,0,g,0,g,2,g,39,g
+36,perkins restaurant and bakery,add on 4 breaded and fried fantail shrimp,7,g,65,mg,1060,g,41,g,10,g,2,g,0,g,1,g,12,g
+37,perkins restaurant and bakery,add on crimini mushrooms,3.5,g,0,mg,0,g,3,g,2,g,0.5,g,0,g,1,g,1,g
+38,perkins restaurant and bakery,alaskan amber,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,0,g,0,g
+39,perkins restaurant and bakery,alexander keiths,0,g,0,mg,0,g,11,g,0,g,0,g,0,g,0,g,0,g
+40,perkins restaurant and bakery,all american,21,g,445,mg,840,g,24,g,19,g,7,g,0,g,2,g,1,g
+41,perkins restaurant and bakery,amberbock,0,g,0,mg,0,g,15,g,1,g,0,g,0,g,0,g,0,g
+42,perkins restaurant and bakery,apple cinnamon muffin,33,g,80,mg,820,g,76,g,7,g,8,g,0,g,3,g,44,g
+43,perkins restaurant and bakery,apricot syrup,0,g,0,mg,25,g,30,g,0,g,0,g,0,g,0,g,26,g
+44,perkins restaurant and bakery,arthur guiness,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,0,g
+45,perkins restaurant and bakery,bacardi strawberry,0,g,0,mg,0,g,33,g,0,g,0,g,0,g,0,g,0,g
+46,perkins restaurant and bakery,banana cream pie slice,46,g,110,mg,320,g,67,g,2,g,23,g,1,g,1,g,35,g
+47,perkins restaurant and bakery,banana nut muffin,46,g,80,mg,890,g,85,g,11,g,10,g,0,g,2,g,46,g
+48,perkins restaurant and bakery,barqs diet orange creme soda,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+49,perkins restaurant and bakery,barqs diet peach creme soda,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+50,perkins restaurant and bakery,barqs diet root beer,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+51,perkins restaurant and bakery,barqs diet root beer vanilla,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+52,perkins restaurant and bakery,barqs diet strawberry creme soda,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+53,perkins restaurant and bakery,barqs diet vanilla creme soda,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+54,perkins restaurant and bakery,barqs orange creme soda,0,g,0,mg,55,g,51,g,0,g,0,g,0,g,0,g,51,g
+55,perkins restaurant and bakery,barqs peach creme soda,0,g,0,mg,45,g,51,g,0,g,0,g,0,g,0,g,51,g
+56,perkins restaurant and bakery,barqs root beer,0,g,0,mg,55,g,60,g,0,g,0,g,0,g,0,g,60,g
+57,perkins restaurant and bakery,barqs root beer vanilla,0,g,0,mg,55,g,60,g,0,g,0,g,0,g,0,g,60,g
+58,perkins restaurant and bakery,barqs strawberry creme sode,0,g,0,mg,45,g,51,g,0,g,0,g,0,g,0,g,51,g
+59,perkins restaurant and bakery,barqs vanilla creme soda,0,g,0,mg,45,g,51,g,0,g,0,g,0,g,0,g,51,g
+60,perkins restaurant and bakery,bbq sauce,0,g,0,mg,170,g,11,g,0,g,0,g,0,g,0,g,10,g
+61,perkins restaurant and bakery,bbq tangler burger,70,g,175,mg,1690,g,75,g,51,g,27,g,2,g,2,g,34,g
+62,perkins restaurant and bakery,bbq tangler burger combo,106,g,175,mg,2460,g,131,g,57,g,35,g,2,g,8,g,34,g
+63,perkins restaurant and bakery,belgian waffle,26,g,130,mg,1010,g,49,g,7,g,10,g,0,g,2,g,8,g
+64,perkins restaurant and bakery,belgian waffle platter,38,g,560,mg,1140,g,51,g,19,g,13,g,0,g,2,g,8,g
+65,perkins restaurant and bakery,bella sera pinot grigio,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+66,perkins restaurant and bakery,beringer white zinfandel,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,0,g
+67,perkins restaurant and bakery,big blt,40,g,70,mg,920,g,2,g,12,g,9,g,0,g,0,g,2,g
+68,perkins restaurant and bakery,blue cheese dressing 2 fl oz,28,g,25,mg,380,g,2,g,2,g,6,g,0,g,0,g,2,g
+69,perkins restaurant and bakery,blue cheese dressing 3 fl oz,43,g,40,mg,580,g,3,g,3,g,9,g,0,g,0,g,3,g
+70,perkins restaurant and bakery,blue moon,0,g,0,mg,10,g,13,g,2,g,0,g,0,g,0,g,0,g
+71,perkins restaurant and bakery,blueberry muffin,33,g,85,mg,820,g,81,g,10,g,8,g,0,g,3,g,42,g
+72,perkins restaurant and bakery,blueberry pancakes,26,g,55,mg,1700,g,73,g,8,g,7,g,0,g,1,g,19,g
+73,perkins restaurant and bakery,boulevard wheat,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,0,g
+74,perkins restaurant and bakery,breakfast burger combo,109,g,390,mg,2200,g,111,g,67,g,35,g,2,g,8,g,7,g
+75,perkins restaurant and bakery,brioche french toast platter,33,g,720,mg,730,g,68,g,38,g,13,g,0,g,2,g,19,g
+76,perkins restaurant and bakery,brioche french toast 2 slices,31,g,290,mg,710,g,63,g,26,g,10,g,0,g,2,g,16,g
+77,perkins restaurant and bakery,brioche french toast 3 slices,40,g,435,mg,1010,g,93,g,39,g,13,g,0,g,3,g,23,g
+78,perkins restaurant and bakery,brownstone cabernet,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,0,g
+79,perkins restaurant and bakery,brownstone chardonnay,0,g,0,mg,5,g,4,g,0,g,0,g,0,g,0,g,0,g
+80,perkins restaurant and bakery,brownstone merlot,0,g,0,mg,5,g,4,g,0,g,0,g,0,g,0,g,1,g
+81,perkins restaurant and bakery,brownstone moscato,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,0,g,0,g
+82,perkins restaurant and bakery,brownstone pinot grigio,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+83,perkins restaurant and bakery,brownstone syrah,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+84,perkins restaurant and bakery,brownstone white zinfandel,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,0,g
+85,perkins restaurant and bakery,bud light,0,g,0,mg,10,g,7,g,1,g,0,g,0,g,0,g,0,g
+86,perkins restaurant and bakery,budweiser,0,g,0,mg,0,g,11,g,1,g,0,g,0,g,0,g,0,g
+87,perkins restaurant and bakery,buffalo hot sauce,0,g,0,mg,1100,g,1,g,0,g,0,g,0,g,0,g,1,g
+88,perkins restaurant and bakery,build your own omelet add toppings,17,g,645,mg,200,g,3,g,18,g,5,g,0,g,0,g,0,g
+89,perkins restaurant and bakery,build your own omelet 2 egg whites,3.5,g,0,mg,150,g,1,g,10,g,0.5,g,0,g,0,g,0,g
+90,perkins restaurant and bakery,build your own omelet 3 egg whites,3.5,g,0,mg,230,g,2,g,15,g,0.5,g,0,g,0,g,0,g
+91,perkins restaurant and bakery,build your own omelet applewood smoked bacon,3,g,10,mg,125,g,0,g,2,g,1,g,0,g,0,g,0,g
+92,perkins restaurant and bakery,build your own omelet avocado,9,g,0,mg,0,g,6,g,2,g,1,g,0,g,2,g,0,g
+93,perkins restaurant and bakery,build your own omelet chorizo sausage,14,g,30,mg,310,g,1,g,8,g,5,g,0,g,0,g,0,g
+94,perkins restaurant and bakery,build your own omelet diced ham,11,g,15,mg,490,g,2,g,7,g,4,g,0,g,0,g,2,g
+95,perkins restaurant and bakery,build your own omelet diced tomatoes,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+96,perkins restaurant and bakery,build your own omelet fresh mushrooms,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,1,g
+97,perkins restaurant and bakery,build your own omelet fresh spinach,0,g,0,mg,45,g,2,g,2,g,0,g,0,g,1,g,0,g
+98,perkins restaurant and bakery,build your own omelet green bell peppers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,1,g
+99,perkins restaurant and bakery,build your own omelet hollandaise sauce,8,g,15,mg,440,g,9,g,1,g,5,g,0,g,0,g,2,g
+100,perkins restaurant and bakery,build your own omelet jalapeno peppers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+101,perkins restaurant and bakery,build your own omelet large fresh eggs,14,g,645,mg,200,g,3,g,18,g,4.5,g,0,g,0,g,0,g
+102,perkins restaurant and bakery,build your own omelet medium salsa,0,g,0,mg,190,g,2,g,0,g,0,g,0,g,1,g,1,g
+103,perkins restaurant and bakery,build your own omelet onions,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,1,g
+104,perkins restaurant and bakery,build your own omelet pork sausage,21,g,0,mg,240,g,1,g,6,g,8,g,0,g,0,g,0,g
+105,perkins restaurant and bakery,build your own omelet shredded american cheese,14,g,45,mg,240,g,1,g,11,g,8,g,0,g,0,g,0,g
+106,perkins restaurant and bakery,build your own omelet shredded cheddar cheese,14,g,45,mg,270,g,1,g,11,g,8,g,0,g,0,g,0,g
+107,perkins restaurant and bakery,build your own omelet shredded pepper jack cheese,12,g,45,mg,260,g,2,g,11,g,8,g,0,g,0,g,0,g
+108,perkins restaurant and bakery,build your own omelet swiss cheese,12,g,40,mg,170,g,2,g,11,g,8,g,0,g,0,g,0,g
+109,perkins restaurant and bakery,build your own omelet turkey bacon,6,g,40,mg,640,g,0,g,8,g,0,g,0,g,0,g,0,g
+110,perkins restaurant and bakery,build your own omelet turkey sausage,10,g,35,mg,190,g,1,g,6,g,2.5,g,0,g,0,g,0,g
+111,perkins restaurant and bakery,build a breakfast 2 fresh baked biscuits,36,g,0,mg,2090,g,68,g,12,g,25,g,0,g,2,g,6,g
+112,perkins restaurant and bakery,build a breakfast 2 large fresh eggs any style,13,g,430,mg,130,g,2,g,12,g,3.5,g,0,g,0,g,0,g
+113,perkins restaurant and bakery,build a breakfast 3 buttermilk pancakes,26,g,55,mg,1700,g,66,g,8,g,7,g,0,g,0,g,12,g
+114,perkins restaurant and bakery,build a breakfast apple cinnamon muffin,33,g,80,mg,820,g,76,g,7,g,8,g,0,g,3,g,44,g
+115,perkins restaurant and bakery,build a breakfast applewood smoked bacon,6,g,15,mg,250,g,0,g,4,g,2,g,0,g,0,g,0,g
+116,perkins restaurant and bakery,build a breakfast bagel,8,g,0,mg,550,g,49,g,6,g,2,g,0,g,2,g,5,g
+117,perkins restaurant and bakery,build a breakfast bagel and cream cheese,41,g,120,mg,840,g,51,g,14,g,24,g,0,g,2,g,5,g
+118,perkins restaurant and bakery,build a breakfast banana nut muffin,46,g,80,mg,890,g,85,g,11,g,10,g,0,g,2,g,46,g
+119,perkins restaurant and bakery,build a breakfast blueberry muffin,33,g,85,mg,820,g,81,g,10,g,8,g,0,g,3,g,42,g
+120,perkins restaurant and bakery,build a breakfast bowl of grits,0,g,0,mg,600,g,33,g,3,g,0,g,0,g,0,g,3,g
+121,perkins restaurant and bakery,build a breakfast breakfast potatoes,17,g,0,mg,470,g,30,g,3,g,3.5,g,0,g,3,g,0,g
+122,perkins restaurant and bakery,build a breakfast buttered rye toast,15,g,0,mg,530,g,54,g,10,g,3,g,0,g,4,g,2,g
+123,perkins restaurant and bakery,build a breakfast buttered sourdough toast,13,g,0,mg,710,g,58,g,10,g,3,g,0,g,2,g,2,g
+124,perkins restaurant and bakery,build a breakfast buttered wheat toast,13,g,0,mg,490,g,40,g,12,g,3,g,0,g,6,g,4,g
+125,perkins restaurant and bakery,build a breakfast buttered white toast,16,g,0,mg,460,g,34,g,7,g,4,g,0,g,1,g,2,g
+126,perkins restaurant and bakery,build a breakfast grilled ham,2,g,30,mg,700,g,3,g,12,g,0.5,g,0,g,0,g,2,g
+127,perkins restaurant and bakery,build a breakfast hash browns,13,g,0,mg,460,g,22,g,3,g,2.5,g,0,g,2,g,1,g
+128,perkins restaurant and bakery,build a breakfast homestyle potatoes,3,g,0,mg,40,g,40,g,4,g,1,g,0,g,4,g,3,g
+129,perkins restaurant and bakery,build a breakfast pork roll,16,g,40,mg,580,g,1,g,9,g,7,g,0,g,0,g,0,g
+130,perkins restaurant and bakery,build a breakfast pork sausage links,24,g,0,mg,290,g,1,g,6,g,9,g,0,g,0,g,0,g
+131,perkins restaurant and bakery,build a breakfast pork scrapple,24,g,70,mg,620,g,10,g,10,g,8,g,0,g,0,g,0,g
+132,perkins restaurant and bakery,build a breakfast sausage patties,38,g,0,mg,480,g,1,g,12,g,15,g,0,g,0,g,0,g
+133,perkins restaurant and bakery,build a breakfast side of corned beef hash,22,g,70,mg,900,g,20,g,18,g,10,g,1,g,2,g,1,g
+134,perkins restaurant and bakery,build a breakfast side of fresh fruit,0,g,0,mg,60,g,19,g,1,g,0,g,0,g,3,g,15,g
+135,perkins restaurant and bakery,build a breakfast side of tots,28,g,0,mg,980,g,47,g,5,g,7,g,0,g,5,g,2,g
+136,perkins restaurant and bakery,build a breakfast smoked sausage,34,g,70,mg,980,g,8,g,12,g,13,g,0,g,0,g,8,g
+137,perkins restaurant and bakery,build a breakfast turkey sausage patties,16,g,70,mg,380,g,2,g,12,g,4.5,g,0,g,0,g,0,g
+138,perkins restaurant and bakery,buttermilk short stack pancakes,26,g,55,mg,1700,g,66,g,8,g,7,g,0,g,0,g,12,g
+139,perkins restaurant and bakery,cabernet,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,0,g
+140,perkins restaurant and bakery,caffeine free diet cherry coke,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+141,perkins restaurant and bakery,caffeine free diet cherry vanilla coke,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+142,perkins restaurant and bakery,caffeine free diet coke,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+143,perkins restaurant and bakery,caffeine free diet ginger lemon coke,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+144,perkins restaurant and bakery,caffeine free diet ginger lime coke,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+145,perkins restaurant and bakery,caffeine free diet orange coke,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+146,perkins restaurant and bakery,caffeine free diet raspberry coke,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+147,perkins restaurant and bakery,caffeine free diet vanilla coke,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+148,perkins restaurant and bakery,california avocado benedict,66,g,505,mg,1660,g,78,g,36,g,23,g,0,g,10,g,19,g
+149,perkins restaurant and bakery,candied jalapenos,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,5,g
+150,perkins restaurant and bakery,caramel apple pie slice,22,g,0,mg,520,g,68,g,6,g,9,g,0,g,1,g,34,g
+151,perkins restaurant and bakery,caramelized red onions,1,g,0,mg,10,g,3,g,0,g,0,g,0,g,0,g,1,g
+152,perkins restaurant and bakery,cedar creek pinot gris,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+153,perkins restaurant and bakery,chardonnay,0,g,0,mg,5,g,4,g,0,g,0,g,0,g,0,g,0,g
+154,perkins restaurant and bakery,cherry coke kids,0,g,0,mg,35,g,42,g,0,g,0,g,0,g,0,g,42,g
+155,perkins restaurant and bakery,cherry coke large,0,g,0,mg,45,g,56,g,0,g,0,g,0,g,0,g,56,g
+156,perkins restaurant and bakery,cherry pie slice,27,g,0,mg,600,g,75,g,8,g,12,g,0,g,2,g,33,g
+157,perkins restaurant and bakery,chicken bacon and broccoli pasta,68,g,205,mg,2970,g,75,g,51,g,30,g,0,g,7,g,7,g
+158,perkins restaurant and bakery,chicken noodle soup bowl,6,g,10,mg,1430,g,37,g,11,g,0,g,0,g,2,g,1,g
+159,perkins restaurant and bakery,chicken noodle soup cup,3.5,g,10,mg,890,g,21,g,7,g,0,g,0,g,1,g,1,g
+160,perkins restaurant and bakery,chicken strips,49,g,155,mg,2200,g,62,g,44,g,12,g,0,g,0,g,15,g
+161,perkins restaurant and bakery,chicken strips dinner,43,g,150,mg,2110,g,59,g,44,g,12,g,0,g,0,g,11,g
+162,perkins restaurant and bakery,chicken strips for pick 3 4 with honey mustard dressing,44,g,130,mg,1830,g,53,g,36,g,11,g,0,g,0,g,15,g
+163,perkins restaurant and bakery,chicken strips melt,80,g,180,mg,3010,g,88,g,54,g,26,g,0,g,2,g,4,g
+164,perkins restaurant and bakery,chipotle ranch dressing for appetizers,15,g,10,mg,530,g,3,g,0,g,2,g,0,g,0,g,3,g
+165,perkins restaurant and bakery,chocolate chip cookie,20,g,25,mg,90,g,30,g,3,g,8,g,0,g,2,g,21,g
+166,perkins restaurant and bakery,chocolate chip cookie 2 piece,40,g,50,mg,180,g,60,g,6,g,16,g,0,g,4,g,42,g
+167,perkins restaurant and bakery,chocolate chocolate chip mammoth muffin,36,g,80,mg,790,g,88,g,10,g,10,g,0,g,3,g,42,g
+168,perkins restaurant and bakery,chocolate french silk pie slice,54,g,195,mg,330,g,66,g,6,g,27,g,0.5,g,3,g,44,g
+169,perkins restaurant and bakery,chocolate milk large,0,g,0,mg,550,g,78,g,20,g,0,g,0,g,0,g,70,g
+170,perkins restaurant and bakery,chocolate milk small,0,g,0,mg,330,g,47,g,12,g,0,g,0,g,0,g,42,g
+171,perkins restaurant and bakery,chocolate walnut brownie,27,g,90,mg,220,g,76,g,6,g,10,g,1,g,4,g,55,g
+172,perkins restaurant and bakery,cinnamon roll french toast,36,g,230,mg,790,g,71,g,17,g,15,g,0,g,3,g,21,g
+173,perkins restaurant and bakery,cinnamon roll french toast platter,45,g,660,mg,920,g,73,g,29,g,18,g,0,g,3,g,21,g
+174,perkins restaurant and bakery,classic cheeseburger burger combo,94,g,160,mg,1740,g,103,g,56,g,31,g,2,g,7,g,8,g
+175,perkins restaurant and bakery,classic eggs benedict,34,g,490,mg,1960,g,59,g,32,g,13,g,0,g,4,g,20,g
+176,perkins restaurant and bakery,classic pot roast dinner,31,g,160,mg,1270,g,16,g,54,g,11,g,0,g,3,g,4,g
+177,perkins restaurant and bakery,coca cola kids,0,g,0,mg,50,g,39,g,0,g,0,g,0,g,0,g,39,g
+178,perkins restaurant and bakery,coca cola large,0,g,0,mg,65,g,52,g,0,g,0,g,0,g,0,g,52,g
+179,perkins restaurant and bakery,coca cola,0,g,0,mg,45,g,56,g,0,g,0,g,0,g,0,g,56,g
+180,perkins restaurant and bakery,coca cola cherry,0,g,0,mg,55,g,59,g,0,g,0,g,0,g,0,g,59,g
+181,perkins restaurant and bakery,coca cola cherry vanilla,0,g,0,mg,55,g,59,g,0,g,0,g,0,g,0,g,59,g
+182,perkins restaurant and bakery,coca cola lemon,0,g,0,mg,55,g,59,g,0,g,0,g,0,g,0,g,59,g
+183,perkins restaurant and bakery,coca cola lime,0,g,0,mg,55,g,59,g,0,g,0,g,0,g,0,g,59,g
+184,perkins restaurant and bakery,coca cola orange,0,g,0,mg,55,g,59,g,0,g,0,g,0,g,0,g,59,g
+185,perkins restaurant and bakery,coca cola orange vanilla,0,g,0,mg,80,g,59,g,0,g,0,g,0,g,0,g,59,g
+186,perkins restaurant and bakery,coca cola raspberry,0,g,0,mg,55,g,59,g,0,g,0,g,0,g,0,g,59,g
+187,perkins restaurant and bakery,coca cola vanilla,0,g,0,mg,55,g,59,g,0,g,0,g,0,g,0,g,59,g
+188,perkins restaurant and bakery,coca cola zero,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+189,perkins restaurant and bakery,coca cola zero cherry,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+190,perkins restaurant and bakery,coca cola zero cherry vanilla,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+191,perkins restaurant and bakery,coca cola zero lemon,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+192,perkins restaurant and bakery,coca cola zero lime,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+193,perkins restaurant and bakery,coca cola zero orange,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+194,perkins restaurant and bakery,coca cola zero orange vanilla,0,g,0,mg,85,g,0,g,0,g,0,g,0,g,0,g,0,g
+195,perkins restaurant and bakery,coca cola zero raspberry,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+196,perkins restaurant and bakery,coca cola zero vanilla,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+197,perkins restaurant and bakery,cocktail sauce,1,g,5,mg,330,g,6,g,1,g,0.5,g,0,g,0,g,5,g
+198,perkins restaurant and bakery,coconut cream pie slice,40,g,85,mg,470,g,60,g,7,g,23,g,0.5,g,1,g,34,g
+199,perkins restaurant and bakery,coffee,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+200,perkins restaurant and bakery,coors banquet,0,g,0,mg,15,g,11,g,1,g,0,g,0,g,0,g,0,g
+201,perkins restaurant and bakery,coors light,0,g,0,mg,0,g,11,g,0,g,0,g,0,g,0,g,0,g
+202,perkins restaurant and bakery,copa chardonnay,0,g,0,mg,10,g,10,g,0,g,0,g,0,g,0,g,5,g
+203,perkins restaurant and bakery,copa merlot,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+204,perkins restaurant and bakery,copa pinot,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+205,perkins restaurant and bakery,copa zinfandel,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+206,perkins restaurant and bakery,copper moon sauvignon blanc,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+207,perkins restaurant and bakery,corned beef hash and eggs,35,g,500,mg,1030,g,22,g,30,g,14,g,1,g,2,g,1,g
+208,perkins restaurant and bakery,corona extra,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,0,g,0,g
+209,perkins restaurant and bakery,country biscuit and eggs breakfast,54,g,430,mg,2260,g,70,g,29,g,25,g,0,g,3,g,6,g
+210,perkins restaurant and bakery,country fried steak and eggs,45,g,515,mg,1940,g,47,g,39,g,14,g,0.5,g,2,g,2,g
+211,perkins restaurant and bakery,country fried steak dinner,32,g,85,mg,1810,g,45,g,27,g,10,g,0.5,g,2,g,2,g
+212,perkins restaurant and bakery,country sausage biscuit breakfast,67,g,530,mg,3570,g,85,g,46,g,38,g,0,g,2,g,8,g
+213,perkins restaurant and bakery,cranberry orange mammoth muffin,20,g,80,mg,680,g,75,g,10,g,7,g,0,g,0,g,39,g
+214,perkins restaurant and bakery,crazy cookie,17,g,40,mg,105,g,36,g,3,g,8,g,0,g,1,g,21,g
+215,perkins restaurant and bakery,creamed chipped beef,18,g,60,mg,1100,g,18,g,18,g,9,g,0,g,0,g,10,g
+216,perkins restaurant and bakery,crimini mushrooms,0,g,0,mg,0,g,3,g,2,g,0,g,0,g,1,g,1,g
+217,perkins restaurant and bakery,crispy fries,36,g,0,mg,770,g,55,g,6,g,8,g,0,g,6,g,0,g
+218,perkins restaurant and bakery,crispy tots,28,g,0,mg,980,g,47,g,5,g,7,g,0,g,5,g,2,g
+219,perkins restaurant and bakery,dasani cherry,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+220,perkins restaurant and bakery,dasani grape,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+221,perkins restaurant and bakery,dasani lemon,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+222,perkins restaurant and bakery,dasani lime,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+223,perkins restaurant and bakery,dasani orange,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+224,perkins restaurant and bakery,dasani peach,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+225,perkins restaurant and bakery,dasani raspberry,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+226,perkins restaurant and bakery,dasani sparkling lemon lime,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+227,perkins restaurant and bakery,dasani sparkling water,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+228,perkins restaurant and bakery,dasani strawberry,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+229,perkins restaurant and bakery,diet cherry coke,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+230,perkins restaurant and bakery,diet cherry vanilla coke,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+231,perkins restaurant and bakery,diet coke,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+232,perkins restaurant and bakery,diet coke kids,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+233,perkins restaurant and bakery,diet coke large,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+234,perkins restaurant and bakery,diet ginger lemon coke,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+235,perkins restaurant and bakery,diet ginger lime coke,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+236,perkins restaurant and bakery,diet lemon coke,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+237,perkins restaurant and bakery,diet orange coke,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+238,perkins restaurant and bakery,diet orange vanilla coke,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+239,perkins restaurant and bakery,diet raspberry coke,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+240,perkins restaurant and bakery,diet vanilla coke,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+241,perkins restaurant and bakery,dinner sides applesauce,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,1,g,9,g
+242,perkins restaurant and bakery,dinner sides baked potato,12,g,10,mg,150,g,42,g,6,g,5,g,0,g,4,g,5,g
+243,perkins restaurant and bakery,dinner sides brown gravy,4,g,0,mg,190,g,3,g,1,g,1,g,0,g,0,g,0,g
+244,perkins restaurant and bakery,dinner sides buttered corn,8,g,0,mg,70,g,17,g,3,g,2,g,0,g,2,g,3,g
+245,perkins restaurant and bakery,dinner sides chicken noodle soup,3.5,g,10,mg,890,g,21,g,7,g,0,g,0,g,1,g,1,g
+246,perkins restaurant and bakery,dinner sides cream gravy,1,g,0,mg,240,g,6,g,1,g,0.5,g,0,g,0,g,1,g
+247,perkins restaurant and bakery,dinner sides french fries,36,g,0,mg,770,g,56,g,6,g,8,g,0,g,6,g,0,g
+248,perkins restaurant and bakery,dinner sides fresh broccoli,10,g,0,mg,140,g,5,g,4,g,3,g,0,g,3,g,3,g
+249,perkins restaurant and bakery,dinner sides fresh fruit,0,g,0,mg,60,g,19,g,1,g,0,g,0,g,3,g,15,g
+250,perkins restaurant and bakery,dinner sides garden salad,4.5,g,10,mg,270,g,13,g,5,g,1.5,g,0,g,2,g,3,g
+251,perkins restaurant and bakery,dinner sides green beans and bacon,2.5,g,5,mg,630,g,4,g,2,g,0.5,g,0,g,3,g,0,g
+252,perkins restaurant and bakery,dinner sides grilled asparagus,3.5,g,0,mg,0,g,2,g,1,g,0.5,g,0,g,1,g,1,g
+253,perkins restaurant and bakery,dinner sides herb rice pilaf,6,g,0,mg,890,g,50,g,6,g,2,g,0,g,2,g,6,g
+254,perkins restaurant and bakery,dinner sides homestyle seasoned potato,3,g,0,mg,40,g,40,g,4,g,1,g,0,g,4,g,3,g
+255,perkins restaurant and bakery,dinner sides loaded baked potato,20,g,30,mg,350,g,42,g,11,g,8,g,0,g,4,g,5,g
+256,perkins restaurant and bakery,dinner sides loaded potato soup,17,g,25,mg,960,g,27,g,5,g,8,g,0,g,2,g,1,g
+257,perkins restaurant and bakery,dinner sides macaroni and cheese,16,g,40,mg,540,g,26,g,10,g,8,g,0,g,1,g,4,g
+258,perkins restaurant and bakery,dinner sides mashed potatoes and gravy,9,g,15,mg,860,g,34,g,5,g,4,g,0,g,3,g,1,g
+259,perkins restaurant and bakery,dinner sides potato pancakes,17,g,75,mg,630,g,27,g,7,g,5,g,0,g,1,g,3,g
+260,perkins restaurant and bakery,dinner sides sauteed spinach,3.5,g,0,mg,90,g,4,g,4,g,0.5,g,0,g,2,g,0,g
+261,perkins restaurant and bakery,dinner sides tomato basil soup,17,g,50,mg,1180,g,27,g,4,g,10,g,0,g,1,g,3,g
+262,perkins restaurant and bakery,dinner sides tots,28,g,0,mg,980,g,47,g,5,g,7,g,0,g,5,g,2,g
+263,perkins restaurant and bakery,dinner sides turkey gravy,4,g,0,mg,200,g,3,g,1,g,1,g,0,g,0,g,1,g
+264,perkins restaurant and bakery,double catch,77,g,120,mg,2800,g,121,g,34,g,16,g,0,g,7,g,14,g
+265,perkins restaurant and bakery,eclair,16,g,45,mg,380,g,87,g,3,g,7,g,0,g,2,g,66,g
+266,perkins restaurant and bakery,egg beaters exchange,3.5,g,0,mg,105,g,1,g,5,g,0.5,g,0,g,0,g,0,g
+267,perkins restaurant and bakery,egg in a hole,70,g,445,mg,1860,g,82,g,29,g,20,g,0,g,4,g,3,g
+268,perkins restaurant and bakery,egg white,3.5,g,0,mg,75,g,0,g,5,g,0.5,g,0,g,0,g,0,g
+269,perkins restaurant and bakery,everything skillet,38,g,490,mg,820,g,52,g,35,g,15,g,0,g,6,g,7,g
+270,perkins restaurant and bakery,fabulous five,14,g,230,mg,320,g,1,g,10,g,4,g,0,g,0,g,0,g
+271,perkins restaurant and bakery,fanta cherry,0,g,0,mg,55,g,59,g,0,g,0,g,0,g,0,g,59,g
+272,perkins restaurant and bakery,fanta cherry vanilla,0,g,0,mg,55,g,63,g,0,g,0,g,0,g,0,g,63,g
+273,perkins restaurant and bakery,fanta fruit punch,0,g,0,mg,55,g,59,g,0,g,0,g,0,g,0,g,59,g
+274,perkins restaurant and bakery,fanta grape,0,g,0,mg,55,g,59,g,0,g,0,g,0,g,0,g,59,g
+275,perkins restaurant and bakery,fanta lime,0,g,0,mg,45,g,59,g,0,g,0,g,0,g,0,g,59,g
+276,perkins restaurant and bakery,fanta orange,0,g,0,mg,55,g,59,g,0,g,0,g,0,g,0,g,59,g
+277,perkins restaurant and bakery,fanta peach,0,g,0,mg,55,g,59,g,0,g,0,g,0,g,0,g,59,g
+278,perkins restaurant and bakery,fanta raspberry,0,g,0,mg,55,g,59,g,0,g,0,g,0,g,0,g,59,g
+279,perkins restaurant and bakery,fanta raspberry vanilla,0,g,0,mg,55,g,59,g,0,g,0,g,0,g,0,g,59,g
+280,perkins restaurant and bakery,fanta strawberry,0,g,0,mg,55,g,59,g,0,g,0,g,0,g,0,g,59,g
+281,perkins restaurant and bakery,fanta vanilla,0,g,0,mg,45,g,63,g,0,g,0,g,0,g,0,g,63,g
+282,perkins restaurant and bakery,fanta zero cherry,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+283,perkins restaurant and bakery,fanta zero cherry vanilla,0,g,0,mg,55,g,1,g,0,g,0,g,0,g,0,g,0,g
+284,perkins restaurant and bakery,fanta zero fruit punch,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+285,perkins restaurant and bakery,fanta zero grape,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+286,perkins restaurant and bakery,fanta zero lime,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+287,perkins restaurant and bakery,fanta zero orange,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+288,perkins restaurant and bakery,fanta zero peach,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+289,perkins restaurant and bakery,fanta zero raspberry,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+290,perkins restaurant and bakery,fanta zero raspberry vanilla,0,g,0,mg,55,g,1,g,0,g,0,g,0,g,0,g,0,g
+291,perkins restaurant and bakery,fanta zero strawberry,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+292,perkins restaurant and bakery,fanta zero vanilla,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+293,perkins restaurant and bakery,farmers omelet,54,g,705,mg,930,g,8,g,39,g,22,g,0,g,1,g,2,g
+294,perkins restaurant and bakery,fat free chocolate milk,0,g,0,mg,330,g,47,g,12,g,0,g,0,g,0,g,42,g
+295,perkins restaurant and bakery,fat free italian dressing 2 fl oz,0,g,0,mg,820,g,5,g,0,g,0,g,0,g,0,g,3,g
+296,perkins restaurant and bakery,fat free italian dressing 3 fl oz,0,g,0,mg,1230,g,8,g,0,g,0,g,0,g,0,g,5,g
+297,perkins restaurant and bakery,fat tire,0,g,0,mg,0,g,14,g,0,g,0,g,0,g,0,g,0,g
+298,perkins restaurant and bakery,fish n chips dinner,85,g,80,mg,2400,g,97,g,33,g,17,g,0,g,6,g,8,g
+299,perkins restaurant and bakery,fish n chips with garden salad,88,g,85,mg,2540,g,108,g,38,g,18,g,0,g,8,g,11,g
+300,perkins restaurant and bakery,french dressing 2 fl oz,18,g,0,mg,570,g,17,g,0,g,2.5,g,0,g,0,g,15,g
+301,perkins restaurant and bakery,french dressing 3 fl oz,28,g,0,mg,850,g,25,g,0,g,4,g,0,g,0,g,23,g
+302,perkins restaurant and bakery,french fries,36,g,0,mg,770,g,56,g,6,g,8,g,0,g,6,g,0,g
+303,perkins restaurant and bakery,french toast platter,32,g,705,mg,790,g,53,g,31,g,9,g,0,g,2,g,8,g
+304,perkins restaurant and bakery,french toast 3 slices,23,g,275,mg,660,g,51,g,19,g,6,g,0,g,2,g,8,g
+305,perkins restaurant and bakery,fresh avocado,14,g,0,mg,0,g,9,g,3,g,1.5,g,0,g,3,g,0,g
+306,perkins restaurant and bakery,fried pickles,61,g,20,mg,2670,g,53,g,8,g,7,g,0,g,3,g,5,g
+307,perkins restaurant and bakery,fried pickles with ranch for pick 3 4,41,g,20,mg,1580,g,27,g,4,g,5,g,0,g,1,g,3,g
+308,perkins restaurant and bakery,fudge brownie supreme,43,g,135,mg,370,g,111,g,8,g,24,g,1,g,4,g,84,g
+309,perkins restaurant and bakery,fuze diet iced tea,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+310,perkins restaurant and bakery,fuze diet lemon iced tea,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+311,perkins restaurant and bakery,fuze diet lemonade iced tea,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+312,perkins restaurant and bakery,fuze diet peach iced tea,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+313,perkins restaurant and bakery,fuze diet raspberry iced tea,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+314,perkins restaurant and bakery,fuze diet raspberry peach iced tea,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+315,perkins restaurant and bakery,fuze diet strawberry iced tea,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+316,perkins restaurant and bakery,fuze iced tea with lemonade,0,g,0,mg,55,g,39,g,0,g,0,g,0,g,0,g,39,g
+317,perkins restaurant and bakery,fuze lemon iced tea,0,g,0,mg,40,g,35,g,0,g,0,g,0,g,0,g,35,g
+318,perkins restaurant and bakery,fuze peach iced tea,0,g,0,mg,40,g,35,g,0,g,0,g,0,g,0,g,35,g
+319,perkins restaurant and bakery,fuze raspberry iced tea,0,g,0,mg,40,g,35,g,0,g,0,g,0,g,0,g,35,g
+320,perkins restaurant and bakery,fuze raspberry peach iced tea,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+321,perkins restaurant and bakery,fuze strawberry iced tea,0,g,0,mg,40,g,35,g,0,g,0,g,0,g,0,g,35,g
+322,perkins restaurant and bakery,fuze sweet iced tea,0,g,0,mg,35,g,35,g,0,g,0,g,0,g,0,g,35,g
+323,perkins restaurant and bakery,gallo cabernet,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,1,g
+324,perkins restaurant and bakery,gallo chardonnay,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,1,g
+325,perkins restaurant and bakery,gallo merlot,0,g,0,mg,10,g,5,g,0,g,0,g,0,g,0,g,1,g
+326,perkins restaurant and bakery,gallo white zinfandel,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+327,perkins restaurant and bakery,gerwurtztraminer,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,0,g
+328,perkins restaurant and bakery,glazed blueberries,0,g,0,mg,25,g,51,g,0,g,0,g,0,g,5,g,44,g
+329,perkins restaurant and bakery,glazed strawberries,0,g,0,mg,0,g,36,g,0,g,0,g,0,g,0,g,6,g
+330,perkins restaurant and bakery,grannys country omelet,41,g,700,mg,1420,g,34,g,36,g,16,g,0,g,3,g,5,g
+331,perkins restaurant and bakery,grated parmesan cheese,8,g,25,mg,510,g,1,g,10,g,5,g,0,g,0,g,0,g
+332,perkins restaurant and bakery,grilled cajun tilapia and shrimp,11,g,110,mg,1520,g,57,g,35,g,3,g,0,g,4,g,11,g
+333,perkins restaurant and bakery,grilled chicken with mushroom and asparagus dinner fit favorite,20,g,95,mg,1950,g,62,g,40,g,4,g,0,g,4,g,13,g
+334,perkins restaurant and bakery,grilled garlic tilapia and shrimp dinner,20,g,135,mg,1400,g,57,g,35,g,8,g,0,g,4,g,11,g
+335,perkins restaurant and bakery,grilled pork chop dinner,32,g,160,mg,1680,g,8,g,58,g,11,g,0,g,1,g,6,g
+336,perkins restaurant and bakery,grilled salmon dinner,29,g,120,mg,120,g,2,g,40,g,4.5,g,0,g,0,g,2,g
+337,perkins restaurant and bakery,ham and cheese omelet with pancakes,66,g,760,mg,2550,g,71,g,43,g,23,g,0,g,0,g,14,g
+338,perkins restaurant and bakery,hammin egger,49,g,475,mg,1260,g,26,g,28,g,17,g,0,g,2,g,3,g
+339,perkins restaurant and bakery,hearty extras 2 biscuits,36,g,0,mg,2090,g,68,g,12,g,25,g,0,g,2,g,6,g
+340,perkins restaurant and bakery,hearty extras 2 egg beaters exchange,3.5,g,0,mg,210,g,2,g,10,g,0.5,g,0,g,0,g,1,g
+341,perkins restaurant and bakery,hearty extras 2 large fresh eggs any style,13,g,430,mg,130,g,2,g,12,g,3.5,g,0,g,0,g,0,g
+342,perkins restaurant and bakery,hearty extras 2 sausage patties,38,g,0,mg,480,g,1,g,12,g,15,g,0,g,0,g,0,g
+343,perkins restaurant and bakery,hearty extras 2 slices applewood smoked bacon,6,g,15,mg,250,g,0,g,4,g,2,g,0,g,0,g,0,g
+344,perkins restaurant and bakery,hearty extras 2 slices rye toast,15,g,0,mg,530,g,54,g,10,g,3,g,0,g,4,g,2,g
+345,perkins restaurant and bakery,hearty extras 2 slices sourdough toast,13,g,0,mg,710,g,58,g,10,g,3,g,0,g,2,g,2,g
+346,perkins restaurant and bakery,hearty extras 2 slices turkey bacon,3,g,20,mg,320,g,0,g,4,g,0,g,0,g,0,g,0,g
+347,perkins restaurant and bakery,hearty extras 2 slices white toast,16,g,0,mg,460,g,34,g,7,g,4,g,0,g,1,g,2,g
+348,perkins restaurant and bakery,hearty extras 2 slices whole wheat toast,13,g,0,mg,490,g,38,g,12,g,3,g,0,g,6,g,4,g
+349,perkins restaurant and bakery,hearty extras 2 turkey sausage patties,16,g,70,mg,380,g,2,g,12,g,4.5,g,0,g,0,g,0,g
+350,perkins restaurant and bakery,hearty extras 3 blueberry pancakes,26,g,55,mg,1670,g,71,g,8,g,7,g,0,g,1,g,18,g
+351,perkins restaurant and bakery,hearty extras 3 buttermilk pancakes,26,g,55,mg,1700,g,66,g,8,g,7,g,0,g,0,g,12,g
+352,perkins restaurant and bakery,hearty extras 3 egg beaters exchange,3.5,g,0,mg,310,g,2,g,15,g,0.5,g,0,g,0,g,1,g
+353,perkins restaurant and bakery,hearty extras 3 pork rolls,24,g,60,mg,870,g,2,g,14,g,11,g,0,g,0,g,0,g
+354,perkins restaurant and bakery,hearty extras 4 pork rolls,32,g,80,mg,1160,g,2,g,18,g,14,g,0,g,0,g,0,g
+355,perkins restaurant and bakery,hearty extras 4 sausage links,44,g,0,mg,580,g,2,g,12,g,17,g,0,g,0,g,0,g
+356,perkins restaurant and bakery,hearty extras 4 slices applewood smoked bacon,12,g,30,mg,500,g,0,g,8,g,4,g,0,g,0,g,0,g
+357,perkins restaurant and bakery,hearty extras 4 slices turkey bacon,6,g,40,mg,640,g,0,g,8,g,0,g,0,g,0,g,0,g
+358,perkins restaurant and bakery,hearty extras apple cinnamon muffin,33,g,80,mg,820,g,76,g,7,g,8,g,0,g,3,g,44,g
+359,perkins restaurant and bakery,hearty extras banana nut muffin,46,g,80,mg,890,g,85,g,11,g,10,g,0,g,2,g,46,g
+360,perkins restaurant and bakery,hearty extras blueberry muffin,33,g,85,mg,820,g,81,g,10,g,8,g,0,g,3,g,42,g
+361,perkins restaurant and bakery,hearty extras breakfast potatoes,17,g,0,mg,470,g,30,g,3,g,3.5,g,0,g,3,g,0,g
+362,perkins restaurant and bakery,hearty extras cinnamon roll,35,g,5,mg,780,g,90,g,9,g,16,g,0,g,3,g,38,g
+363,perkins restaurant and bakery,hearty extras english muffin,11,g,0,mg,410,g,28,g,5,g,3,g,0,g,1,g,2,g
+364,perkins restaurant and bakery,hearty extras grilled ham,4.5,g,60,mg,1390,g,6,g,24,g,1,g,0,g,0,g,4,g
+365,perkins restaurant and bakery,hearty extras grits,0,g,0,mg,600,g,33,g,3,g,0,g,0,g,0,g,3,g
+366,perkins restaurant and bakery,hearty extras hash browns,13,g,0,mg,460,g,22,g,3,g,2.5,g,0,g,2,g,1,g
+367,perkins restaurant and bakery,hearty extras homestyle potatoes,3,g,0,mg,40,g,40,g,4,g,1,g,0,g,4,g,3,g
+368,perkins restaurant and bakery,hearty extras oatmeal,15,g,10,mg,180,g,57,g,8,g,5,g,0,g,4,g,32,g
+369,perkins restaurant and bakery,hearty extras scrapple,24,g,70,mg,620,g,10,g,10,g,8,g,0,g,0,g,0,g
+370,perkins restaurant and bakery,hearty extras side of fresh fruit,0,g,0,mg,60,g,19,g,1,g,0,g,0,g,3,g,15,g
+371,perkins restaurant and bakery,hearty extras side of tots,28,g,0,mg,980,g,47,g,5,g,7,g,0,g,5,g,2,g
+372,perkins restaurant and bakery,hearty extras smoked sausage,34,g,70,mg,980,g,8,g,12,g,13,g,0,g,0,g,8,g
+373,perkins restaurant and bakery,hearty extras sweet sticky bun,41,g,0,mg,710,g,98,g,11,g,14,g,0,g,5,g,48,g
+374,perkins restaurant and bakery,hearty mans combo,69,g,515,mg,1650,g,11,g,34,g,26,g,0,g,0,g,8,g
+375,perkins restaurant and bakery,heath crunch cheesecake pie,49,g,120,mg,440,g,61,g,5,g,30,g,1,g,1,g,45,g
+376,perkins restaurant and bakery,heineken,0,g,0,mg,10,g,12,g,2,g,0,g,0,g,0,g,0,g
+377,perkins restaurant and bakery,hi c cherry,0,g,0,mg,55,g,59,g,0,g,0,g,0,g,0,g,59,g
+378,perkins restaurant and bakery,hi c fruit punch,0,g,0,mg,55,g,59,g,0,g,0,g,0,g,0,g,59,g
+379,perkins restaurant and bakery,hi c grape,0,g,0,mg,55,g,59,g,0,g,0,g,0,g,0,g,59,g
+380,perkins restaurant and bakery,hi c orange,0,g,0,mg,55,g,59,g,0,g,0,g,0,g,0,g,59,g
+381,perkins restaurant and bakery,hi c orange vanilla,0,g,0,mg,55,g,59,g,0,g,0,g,0,g,0,g,59,g
+382,perkins restaurant and bakery,hi c raspberry,0,g,0,mg,55,g,59,g,0,g,0,g,0,g,0,g,59,g
+383,perkins restaurant and bakery,hi c raspberry lime,0,g,0,mg,55,g,59,g,0,g,0,g,0,g,0,g,59,g
+384,perkins restaurant and bakery,hi c strawberry,0,g,0,mg,55,g,59,g,0,g,0,g,0,g,0,g,59,g
+385,perkins restaurant and bakery,hibachi fried chicken skillet,29,g,80,mg,3950,g,103,g,29,g,11,g,0,g,6,g,28,g
+386,perkins restaurant and bakery,hibachi grilled shrimp skillet,20,g,155,mg,3940,g,85,g,24,g,7,g,0,g,6,g,28,g
+387,perkins restaurant and bakery,holiday turkey and dressing dinner,34,g,145,mg,2150,g,81,g,46,g,9,g,0,g,3,g,54,g
+388,perkins restaurant and bakery,homestyle apple pie slice,27,g,0,mg,390,g,76,g,5,g,9,g,0,g,1,g,36,g
+389,perkins restaurant and bakery,honey mustard chicken crunch salad,63,g,155,mg,2050,g,63,g,44,g,17,g,0,g,5,g,28,g
+390,perkins restaurant and bakery,honey mustard dressing for appetizers,25,g,20,mg,380,g,15,g,2,g,4,g,0,g,0,g,15,g
+391,perkins restaurant and bakery,honey mustard dressing 2 fl oz,22,g,15,mg,330,g,13,g,2,g,3.5,g,0,g,0,g,13,g
+392,perkins restaurant and bakery,honey mustard dressing 3 fl oz,33,g,25,mg,500,g,20,g,3,g,5,g,0,g,0,g,20,g
+393,perkins restaurant and bakery,hot chocolate,2,g,0,mg,105,g,24,g,1,g,1.5,g,0,g,1,g,21,g
+394,perkins restaurant and bakery,hot tea,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+395,perkins restaurant and bakery,ice cream sundae hot fudge,21,g,40,mg,150,g,45,g,3,g,15,g,0,g,1,g,38,g
+396,perkins restaurant and bakery,ice cream sundae hot fudge with 2 scoops,32,g,80,mg,210,g,64,g,4,g,21,g,0,g,1,g,53,g
+397,perkins restaurant and bakery,ice cream sundae strawberry,14,g,40,mg,60,g,43,g,2,g,9,g,0,g,0,g,24,g
+398,perkins restaurant and bakery,ice cream sundae strawberry with 2 scoops,24,g,80,mg,120,g,62,g,3,g,15,g,0,g,0,g,39,g
+399,perkins restaurant and bakery,ice cream 1 scoop,13,g,50,mg,70,g,22,g,2,g,7,g,0,g,0,g,18,g
+400,perkins restaurant and bakery,ice cream 2 scoops,25,g,95,mg,140,g,44,g,4,g,14,g,0,g,0,g,36,g
+401,perkins restaurant and bakery,iced coffee,8,g,30,mg,190,g,19,g,13,g,5,g,0,g,0,g,17,g
+402,perkins restaurant and bakery,iced tea,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+403,perkins restaurant and bakery,india pale ale,0,g,0,mg,0,g,11,g,0,g,0,g,0,g,0,g,0,g
+404,perkins restaurant and bakery,jackson triggs malbec,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,0,g
+405,perkins restaurant and bakery,jackson triggs merlot,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,0,g
+406,perkins restaurant and bakery,jackson triggs sauvignon blanc,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+407,perkins restaurant and bakery,jalapeno popper burger combo,120,g,230,mg,2060,g,106,g,60,g,44,g,2,g,7,g,8,g
+408,perkins restaurant and bakery,juice apple large,0,g,0,mg,60,g,73,g,0,g,0,g,0,g,0,g,61,g
+409,perkins restaurant and bakery,juice apple small,0,g,0,mg,35,g,45,g,0,g,0,g,0,g,0,g,38,g
+410,perkins restaurant and bakery,juice cranberry small,0,g,0,mg,10,g,43,g,0,g,0,g,0,g,0,g,43,g
+411,perkins restaurant and bakery,juice orange large,0,g,0,mg,35,g,61,g,5,g,0,g,0,g,0,g,56,g
+412,perkins restaurant and bakery,juice orange small,0,g,0,mg,20,g,38,g,3,g,0,g,0,g,0,g,35,g
+413,perkins restaurant and bakery,juice tomato large,0,g,0,mg,1640,g,23,g,5,g,0,g,0,g,5,g,14,g
+414,perkins restaurant and bakery,juice tomato small,0,g,0,mg,1020,g,15,g,3,g,0,g,0,g,3,g,9,g
+415,perkins restaurant and bakery,jumbo shrimp dinner,7,g,65,mg,1060,g,41,g,10,g,2,g,0,g,1,g,12,g
+416,perkins restaurant and bakery,ketchup,0,g,0,mg,100,g,2,g,0,g,0,g,0,g,0,g,2,g
+417,perkins restaurant and bakery,key lime pie slice,29,g,85,mg,300,g,79,g,8,g,17,g,1.5,g,0,g,63,g
+418,perkins restaurant and bakery,kids applesauce,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,1,g,9,g
+419,perkins restaurant and bakery,kids bacon,6,g,15,mg,250,g,0,g,4,g,2,g,0,g,0,g,0,g
+420,perkins restaurant and bakery,kids breakfast potatoes,10,g,0,mg,280,g,18,g,2,g,2,g,0,g,2,g,0,g
+421,perkins restaurant and bakery,kids brioche french toast,22,g,145,mg,410,g,33,g,13,g,7,g,0,g,1,g,10,g
+422,perkins restaurant and bakery,kids broccoli,0,g,0,mg,35,g,5,g,4,g,0,g,0,g,3,g,3,g
+423,perkins restaurant and bakery,kids buttered corn,11,g,0,mg,810,g,17,g,3,g,3,g,0,g,2,g,6,g
+424,perkins restaurant and bakery,kids chicken noodle soup,2,g,10,mg,680,g,8,g,5,g,0,g,0,g,0,g,1,g
+425,perkins restaurant and bakery,kids chicken strips,39,g,100,mg,1470,g,43,g,27,g,9,g,0,g,0,g,15,g
+426,perkins restaurant and bakery,kids classic cheeseburger,37,g,105,mg,860,g,41,g,30,g,12,g,1.5,g,1,g,8,g
+427,perkins restaurant and bakery,kids egg hash browns and toast,13,g,215,mg,700,g,40,g,13,g,3.5,g,0,g,3,g,2,g
+428,perkins restaurant and bakery,kids french fries,20,g,0,mg,430,g,31,g,3,g,4.5,g,0,g,3,g,0,g
+429,perkins restaurant and bakery,kids fresh cut fruit,0,g,0,mg,60,g,19,g,1,g,0,g,0,g,3,g,15,g
+430,perkins restaurant and bakery,kids garden salad,4.5,g,10,mg,270,g,13,g,5,g,1.5,g,0,g,2,g,3,g
+431,perkins restaurant and bakery,kids grilled cheese sandwich,39,g,45,mg,1160,g,36,g,16,g,16,g,0,g,1,g,4,g
+432,perkins restaurant and bakery,kids hash browns,13,g,0,mg,460,g,22,g,3,g,2.5,g,0,g,2,g,1,g
+433,perkins restaurant and bakery,kids mac and cheese,9,g,15,mg,580,g,46,g,6,g,2.5,g,0,g,2,g,8,g
+434,perkins restaurant and bakery,kids mashed potatoes and gravy,9,g,15,mg,850,g,34,g,5,g,4,g,0,g,3,g,1,g
+435,perkins restaurant and bakery,kids perky bear pancakes,29,g,30,mg,990,g,37,g,4,g,9,g,0,g,0,g,11,g
+436,perkins restaurant and bakery,kids rainbow pancake breakfast,12,g,30,mg,790,g,40,g,4,g,5,g,0,g,0,g,13,g
+437,perkins restaurant and bakery,kids silver dollar pancake short stack,16,g,20,mg,700,g,24,g,3,g,4.5,g,0,g,0,g,5,g
+438,perkins restaurant and bakery,kids strawberry go gurt,0.5,g,5,mg,30,g,10,g,2,g,0,g,0,g,0,g,8,g
+439,perkins restaurant and bakery,kids tomato basil soup,15,g,50,mg,970,g,14,g,2,g,10,g,0,g,0,g,3,g
+440,perkins restaurant and bakery,kids tots,12,g,0,mg,420,g,20,g,2,g,3,g,0,g,2,g,1,g
+441,perkins restaurant and bakery,kids treats chocolate chip cookie,20,g,25,mg,90,g,30,g,3,g,8,g,0,g,2,g,21,g
+442,perkins restaurant and bakery,kids treats sugar cookie,14,g,50,mg,115,g,42,g,3,g,7,g,0,g,0,g,21,g
+443,perkins restaurant and bakery,kids white toast,8,g,0,mg,230,g,17,g,4,g,2,g,0,g,1,g,1,g
+444,perkins restaurant and bakery,labatt blue,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,0,g
+445,perkins restaurant and bakery,labatt blue light,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,0,g
+446,perkins restaurant and bakery,leinenkugal honey weiss,0,g,0,mg,5,g,12,g,2,g,0,g,0,g,0,g,0,g
+447,perkins restaurant and bakery,lemon meringue pie slice,17,g,30,mg,500,g,90,g,6,g,6,g,0,g,2,g,67,g
+448,perkins restaurant and bakery,lemon poppy seed muffin,30,g,100,mg,950,g,97,g,10,g,7,g,0,g,3,g,55,g
+449,perkins restaurant and bakery,lemonade kids,0,g,0,mg,50,g,38,g,0,g,0,g,0,g,0,g,37,g
+450,perkins restaurant and bakery,lemonade large,0,g,0,mg,70,g,50,g,0,g,0,g,0,g,0,g,49,g
+451,perkins restaurant and bakery,loaded potato soup bowl,26,g,40,mg,1520,g,46,g,9,g,11,g,0,g,3,g,1,g
+452,perkins restaurant and bakery,loaded potato soup cup,17,g,25,mg,960,g,27,g,5,g,8,g,0,g,2,g,1,g
+453,perkins restaurant and bakery,lunch duo and trio blt sandwich,20,g,35,mg,460,g,1,g,6,g,4.5,g,0,g,0,g,1,g
+454,perkins restaurant and bakery,lunch duo and trio chicken noodle soup,6,g,10,mg,1430,g,37,g,11,g,0,g,0,g,2,g,1,g
+455,perkins restaurant and bakery,lunch duo and trio chicken strips melt,45,g,110,mg,1660,g,46,g,32,g,16,g,0,g,1,g,2,g
+456,perkins restaurant and bakery,lunch duo and trio chocolate chip cookies,40,g,50,mg,180,g,60,g,6,g,16,g,0,g,4,g,42,g
+457,perkins restaurant and bakery,lunch duo and trio french dip sandwich,28,g,55,mg,840,g,16,g,20,g,10,g,0,g,0,g,3,g
+458,perkins restaurant and bakery,lunch duo and trio honey mustard chicken crunch salad,35,g,60,mg,920,g,30,g,16,g,8,g,0,g,2,g,18,g
+459,perkins restaurant and bakery,lunch duo and trio loaded potato soup,26,g,40,mg,1520,g,46,g,9,g,11,g,0,g,3,g,1,g
+460,perkins restaurant and bakery,lunch duo and trio oatmeal cranberry cookies,44,g,70,mg,540,g,90,g,6,g,12,g,0,g,2,g,36,g
+461,perkins restaurant and bakery,lunch duo and trio southwest avocado salad,32,g,50,mg,1310,g,34,g,17,g,5,g,0,g,6,g,7,g
+462,perkins restaurant and bakery,lunch duo and trio the garden salad,4.5,g,10,mg,270,g,13,g,5,g,1.5,g,0,g,2,g,3,g
+463,perkins restaurant and bakery,lunch duo and trio tomato basil soup,26,g,75,mg,1850,g,46,g,7,g,15,g,0,g,2,g,5,g
+464,perkins restaurant and bakery,lunch duo and trio turkey blt salad,10,g,55,mg,640,g,6,g,19,g,3.5,g,0,g,2,g,4,g
+465,perkins restaurant and bakery,malt chocolate,50,g,175,mg,360,g,127,g,12,g,30,g,0,g,0,g,104,g
+466,perkins restaurant and bakery,malt strawberry,50,g,175,mg,340,g,110,g,12,g,30,g,0,g,0,g,78,g
+467,perkins restaurant and bakery,malt vanilla,50,g,175,mg,340,g,105,g,12,g,30,g,0,g,0,g,88,g
+468,perkins restaurant and bakery,mango smoothie,1,g,0,mg,40,g,49,g,1,g,0,g,0,g,0,g,45,g
+469,perkins restaurant and bakery,marinara sauce for appetizers,2.5,g,0,mg,260,g,5,g,1,g,0,g,0,g,0,g,2,g
+470,perkins restaurant and bakery,mayonnaise,22,g,20,mg,170,g,0,g,0,g,3,g,0,g,0,g,0,g
+471,perkins restaurant and bakery,meat n potatoes omelet,79,g,715,mg,1920,g,35,g,47,g,29,g,0,g,3,g,4,g
+472,perkins restaurant and bakery,meatloaf dinner homemade,67,g,170,mg,2630,g,74,g,41,g,25,g,1.5,g,6,g,17,g
+473,perkins restaurant and bakery,mello yello,0,g,0,mg,45,g,47,g,0,g,0,g,0,g,0,g,47,g
+474,perkins restaurant and bakery,mello yello cherry,0,g,0,mg,55,g,48,g,0,g,0,g,0,g,0,g,48,g
+475,perkins restaurant and bakery,mello yello citrus twist,0,g,0,mg,55,g,48,g,0,g,0,g,0,g,0,g,48,g
+476,perkins restaurant and bakery,mello yello freestyle,0,g,0,mg,55,g,48,g,0,g,0,g,0,g,0,g,48,g
+477,perkins restaurant and bakery,mello yello limeade,0,g,0,mg,55,g,48,g,0,g,0,g,0,g,0,g,48,g
+478,perkins restaurant and bakery,mello yello orange,0,g,0,mg,55,g,48,g,0,g,0,g,0,g,0,g,48,g
+479,perkins restaurant and bakery,mello yello peach,0,g,0,mg,55,g,48,g,0,g,0,g,0,g,0,g,48,g
+480,perkins restaurant and bakery,mello yello raspberry peach,0,g,0,mg,55,g,48,g,0,g,0,g,0,g,0,g,48,g
+481,perkins restaurant and bakery,mello yello strawberry orange,0,g,0,mg,55,g,48,g,0,g,0,g,0,g,0,g,48,g
+482,perkins restaurant and bakery,mello yello zero,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+483,perkins restaurant and bakery,mello yello zero cherry,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+484,perkins restaurant and bakery,mello yello zero citrus twist,0,g,0,mg,55,g,3,g,0,g,0,g,0,g,0,g,0,g
+485,perkins restaurant and bakery,mello yello zero limeade,0,g,0,mg,55,g,3,g,0,g,0,g,0,g,0,g,0,g
+486,perkins restaurant and bakery,mello yello zero orange,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+487,perkins restaurant and bakery,mello yello zero peach,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+488,perkins restaurant and bakery,mello yello zero raspberry peach,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+489,perkins restaurant and bakery,mello yello zero strawberry orange,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+490,perkins restaurant and bakery,merlot,0,g,0,mg,5,g,4,g,0,g,0,g,0,g,0,g,1,g
+491,perkins restaurant and bakery,michelob,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,0,g,0,g
+492,perkins restaurant and bakery,michelob golden draft light,0,g,0,mg,0,g,7,g,1,g,0,g,0,g,0,g,0,g
+493,perkins restaurant and bakery,michelob light,0,g,0,mg,0,g,9,g,1,g,0,g,0,g,0,g,0,g
+494,perkins restaurant and bakery,michelob ultra,0,g,0,mg,10,g,3,g,1,g,0,g,0,g,0,g,0,g
+495,perkins restaurant and bakery,milk 2 large,13,g,55,mg,340,g,34,g,23,g,8,g,0,g,0,g,30,g
+496,perkins restaurant and bakery,milk 2 small,8,g,35,mg,200,g,20,g,14,g,5,g,0,g,0,g,18,g
+497,perkins restaurant and bakery,miller genuine draft,0,g,0,mg,5,g,13,g,1,g,0,g,0,g,0,g,0,g
+498,perkins restaurant and bakery,miller high life,0,g,0,mg,5,g,13,g,1,g,0,g,0,g,0,g,0,g
+499,perkins restaurant and bakery,miller lite,0,g,0,mg,5,g,3,g,1,g,0,g,0,g,0,g,0,g
+500,perkins restaurant and bakery,mimosa,0,g,0,mg,5,g,11,g,1,g,0,g,0,g,0,g,9,g
+501,perkins restaurant and bakery,mini chicken pot pie,43,g,95,mg,1580,g,50,g,23,g,19,g,0,g,2,g,5,g
+502,perkins restaurant and bakery,mini chicken pot pie combo,46,g,100,mg,1720,g,61,g,28,g,20,g,0,g,4,g,8,g
+503,perkins restaurant and bakery,mini chocolate chip cookie,10,g,15,mg,45,g,15,g,2,g,4,g,0,g,1,g,11,g
+504,perkins restaurant and bakery,mini oatmeal cranberry cookie,11,g,20,mg,135,g,23,g,2,g,3,g,0,g,1,g,9,g
+505,perkins restaurant and bakery,mini sugar cookie,7,g,25,mg,60,g,22,g,2,g,3.5,g,0,g,0,g,12,g
+506,perkins restaurant and bakery,minute maid cherry lemonade,0,g,0,mg,55,g,56,g,0,g,0,g,0,g,0,g,56,g
+507,perkins restaurant and bakery,minute maid cherry limeade,0,g,0,mg,100,g,68,g,0,g,0,g,0,g,0,g,67,g
+508,perkins restaurant and bakery,minute maid fruit punch,0,g,0,mg,100,g,68,g,0,g,0,g,0,g,0,g,67,g
+509,perkins restaurant and bakery,minute maid grape,0,g,0,mg,100,g,68,g,0,g,0,g,0,g,0,g,67,g
+510,perkins restaurant and bakery,minute maid lemonade,0,g,0,mg,100,g,57,g,0,g,0,g,0,g,0,g,56,g
+511,perkins restaurant and bakery,minute maid lemonberry splash,0,g,0,mg,65,g,55,g,0,g,0,g,0,g,0,g,53,g
+512,perkins restaurant and bakery,minute maid light cherry lemonade,0,g,0,mg,55,g,3,g,0,g,0,g,0,g,0,g,0,g
+513,perkins restaurant and bakery,minute maid light cherry limeade,0,g,0,mg,100,g,4,g,0,g,0,g,0,g,0,g,0,g
+514,perkins restaurant and bakery,minute maid light fruit punch,0,g,0,mg,100,g,4,g,0,g,0,g,0,g,0,g,0,g
+515,perkins restaurant and bakery,minute maid light grape,0,g,0,mg,100,g,3,g,0,g,0,g,0,g,0,g,0,g
+516,perkins restaurant and bakery,minute maid light lemon orange,0,g,0,mg,100,g,3,g,0,g,0,g,0,g,0,g,0,g
+517,perkins restaurant and bakery,minute maid light lemonade,0,g,0,mg,100,g,3,g,0,g,0,g,0,g,0,g,0,g
+518,perkins restaurant and bakery,minute maid light lemonade lemon lime,0,g,0,mg,100,g,3,g,0,g,0,g,0,g,0,g,0,g
+519,perkins restaurant and bakery,minute maid light lemonade peach,0,g,0,mg,100,g,3,g,0,g,0,g,0,g,0,g,0,g
+520,perkins restaurant and bakery,minute maid light lemonade raspberry,0,g,0,mg,100,g,3,g,0,g,0,g,0,g,0,g,0,g
+521,perkins restaurant and bakery,minute maid light lemonade strawberry,0,g,0,mg,100,g,4,g,0,g,0,g,0,g,0,g,0,g
+522,perkins restaurant and bakery,minute maid light lemonberry splash,0,g,0,mg,75,g,1,g,0,g,0,g,0,g,0,g,0,g
+523,perkins restaurant and bakery,minute maid light limeade,0,g,0,mg,100,g,3,g,0,g,0,g,0,g,0,g,0,g
+524,perkins restaurant and bakery,minute maid light mixed berry,0,g,0,mg,100,g,4,g,0,g,0,g,0,g,0,g,0,g
+525,perkins restaurant and bakery,minute maid light orange,0,g,0,mg,100,g,3,g,0,g,0,g,0,g,0,g,0,g
+526,perkins restaurant and bakery,minute maid light peach,0,g,0,mg,100,g,3,g,0,g,0,g,0,g,0,g,0,g
+527,perkins restaurant and bakery,minute maid light pink lemonade,0,g,0,mg,100,g,3,g,0,g,0,g,0,g,0,g,0,g
+528,perkins restaurant and bakery,minute maid lime lemonade,0,g,0,mg,100,g,57,g,0,g,0,g,0,g,0,g,56,g
+529,perkins restaurant and bakery,minute maid limeade,0,g,0,mg,95,g,68,g,0,g,0,g,0,g,0,g,67,g
+530,perkins restaurant and bakery,minute maid mixed berry,0,g,0,mg,100,g,68,g,0,g,0,g,0,g,0,g,67,g
+531,perkins restaurant and bakery,minute maid orange,0,g,0,mg,100,g,64,g,0,g,0,g,0,g,0,g,63,g
+532,perkins restaurant and bakery,minute maid orange lemonade,0,g,0,mg,100,g,57,g,0,g,0,g,0,g,0,g,56,g
+533,perkins restaurant and bakery,minute maid peach,0,g,0,mg,100,g,64,g,0,g,0,g,0,g,0,g,63,g
+534,perkins restaurant and bakery,minute maid peach lemonade,0,g,0,mg,100,g,57,g,0,g,0,g,0,g,0,g,56,g
+535,perkins restaurant and bakery,minute maid pink lemonade,0,g,0,mg,100,g,56,g,0,g,0,g,0,g,0,g,55,g
+536,perkins restaurant and bakery,minute maid raspberry lemonade,0,g,0,mg,100,g,57,g,0,g,0,g,0,g,0,g,56,g
+537,perkins restaurant and bakery,minute maid sparkling fizzy cherry limeade,0,g,0,mg,100,g,4,g,0,g,0,g,0,g,0,g,0,g
+538,perkins restaurant and bakery,minute maid sparkling fizzy fruit punch,0,g,0,mg,100,g,4,g,0,g,0,g,0,g,0,g,0,g
+539,perkins restaurant and bakery,minute maid sparkling fizzy limeade,0,g,0,mg,100,g,3,g,0,g,0,g,0,g,0,g,0,g
+540,perkins restaurant and bakery,minute maid sparkling fizzy mixed berry,0,g,0,mg,100,g,4,g,0,g,0,g,0,g,0,g,0,g
+541,perkins restaurant and bakery,minute maid sparkling fizzy peach lemonade,0,g,0,mg,100,g,3,g,0,g,0,g,0,g,0,g,0,g
+542,perkins restaurant and bakery,minute maid sparkling fizzy pink lemonade,0,g,0,mg,100,g,3,g,0,g,0,g,0,g,0,g,0,g
+543,perkins restaurant and bakery,minute maid sparkling fizzy strawberry lemonade,0,g,0,mg,100,g,4,g,0,g,0,g,0,g,0,g,0,g
+544,perkins restaurant and bakery,minute maid sparkling fizzy tropical citrus,0,g,0,mg,100,g,3,g,0,g,0,g,0,g,0,g,0,g
+545,perkins restaurant and bakery,minute maid sparkling lemonade,0,g,0,mg,100,g,3,g,0,g,0,g,0,g,0,g,0,g
+546,perkins restaurant and bakery,minute maid strawberry lemonade,0,g,0,mg,100,g,57,g,0,g,0,g,0,g,0,g,56,g
+547,perkins restaurant and bakery,molson canadian ale,0,g,0,mg,10,g,11,g,1,g,0,g,0,g,0,g,0,g
+548,perkins restaurant and bakery,molson old style pilsner,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,0,g
+549,perkins restaurant and bakery,monterey shrimp pasta,89,g,340,mg,2530,g,74,g,36,g,46,g,0,g,5,g,7,g
+550,perkins restaurant and bakery,moosehead,0,g,0,mg,0,g,11,g,0,g,0,g,0,g,0,g,0,g
+551,perkins restaurant and bakery,moscato,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,0,g,0,g
+552,perkins restaurant and bakery,motts clamato caesar,1,g,0,mg,1310,g,40,g,2,g,0,g,0,g,0,g,0,g
+553,perkins restaurant and bakery,mozzasticks,32,g,65,mg,1370,g,37,g,22,g,11,g,0,g,0,g,7,g
+554,perkins restaurant and bakery,mozzasticks with marinara for pick 3 4,25,g,50,mg,1100,g,29,g,17,g,8,g,0,g,0,g,6,g
+555,perkins restaurant and bakery,mushroom and swiss omelette with pancakes,55,g,740,mg,2070,g,73,g,38,g,20,g,0,g,1,g,13,g
+556,perkins restaurant and bakery,mustard,0.5,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+557,perkins restaurant and bakery,naked grape chardonnay,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+558,perkins restaurant and bakery,new castle brown ale,0,g,0,mg,0,g,13,g,1,g,0,g,0,g,0,g,0,g
+559,perkins restaurant and bakery,no sugar added apple pie slice,15,g,0,mg,420,g,52,g,5,g,6,g,0,g,2,g,15,g
+560,perkins restaurant and bakery,no sugar added wildberry pie slice,27,g,0,mg,470,g,50,g,5,g,12,g,0,g,3,g,6,g
+561,perkins restaurant and bakery,odouls,0,g,0,mg,0,g,18,g,2,g,0,g,0,g,0,g,18,g
+562,perkins restaurant and bakery,oatmeal cranberry cookie,22,g,35,mg,270,g,45,g,3,g,6,g,0,g,1,g,18,g
+563,perkins restaurant and bakery,one egg benedict,23,g,240,mg,940,g,40,g,16,g,8,g,0,g,3,g,18,g
+564,perkins restaurant and bakery,onion rings,45,g,30,mg,1700,g,77,g,9,g,7,g,0,g,4,g,15,g
+565,perkins restaurant and bakery,onion rings with chipotle ranch for pick 3 4,26,g,15,mg,970,g,39,g,4,g,4,g,0,g,2,g,8,g
+566,perkins restaurant and bakery,onion rings substitute,17,g,10,mg,680,g,54,g,7,g,3.5,g,0,g,3,g,9,g
+567,perkins restaurant and bakery,onion tanglers,8,g,0,mg,60,g,6,g,1,g,1.5,g,0,g,0,g,1,g
+568,perkins restaurant and bakery,pancake syrup,0,g,0,mg,50,g,35,g,0,g,0,g,0,g,0,g,29,g
+569,perkins restaurant and bakery,pasqua pinot grigio italy,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+570,perkins restaurant and bakery,patty melt,78,g,190,mg,1670,g,63,g,54,g,32,g,2,g,4,g,4,g
+571,perkins restaurant and bakery,patty melt combo,114,g,190,mg,2430,g,118,g,60,g,40,g,2,g,10,g,4,g
+572,perkins restaurant and bakery,peanut butter silk pie slice,65,g,145,mg,420,g,72,g,12,g,33,g,1,g,2,g,47,g
+573,perkins restaurant and bakery,peller estates shiraz,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+574,perkins restaurant and bakery,perkins steak and eggs,22,g,535,mg,230,g,2,g,48,g,7,g,0,g,0,g,0,g
+575,perkins restaurant and bakery,pibb xtra,0,g,0,mg,55,g,52,g,0,g,0,g,0,g,0,g,52,g
+576,perkins restaurant and bakery,pibb xtra cherry,0,g,0,mg,55,g,52,g,0,g,0,g,0,g,0,g,52,g
+577,perkins restaurant and bakery,pibb xtra cherry vanilla,0,g,0,mg,55,g,52,g,0,g,0,g,0,g,0,g,52,g
+578,perkins restaurant and bakery,pibb xtra raspberry vanilla,0,g,0,mg,55,g,55,g,0,g,0,g,0,g,0,g,55,g
+579,perkins restaurant and bakery,pibb xtra strawberry,0,g,0,mg,55,g,52,g,0,g,0,g,0,g,0,g,52,g
+580,perkins restaurant and bakery,pibb xtra vanilla,0,g,0,mg,55,g,52,g,0,g,0,g,0,g,0,g,52,g
+581,perkins restaurant and bakery,pibb zero,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+582,perkins restaurant and bakery,pibb zero cherry,0,g,0,mg,60,g,1,g,0,g,0,g,0,g,0,g,1,g
+583,perkins restaurant and bakery,pibb zero cherry vanilla,0,g,0,mg,60,g,3,g,0,g,0,g,0,g,0,g,3,g
+584,perkins restaurant and bakery,pibb zero raspberry,0,g,0,mg,60,g,1,g,0,g,0,g,0,g,0,g,0,g
+585,perkins restaurant and bakery,pibb zero raspberry vanilla,0,g,0,mg,60,g,3,g,0,g,0,g,0,g,0,g,0,g
+586,perkins restaurant and bakery,pibb zero strawberry,0,g,0,mg,60,g,1,g,0,g,0,g,0,g,0,g,1,g
+587,perkins restaurant and bakery,pibb zero vanilla,0,g,0,mg,60,g,1,g,0,g,0,g,0,g,0,g,1,g
+588,perkins restaurant and bakery,pibb ztra raspberry,0,g,0,mg,55,g,55,g,0,g,0,g,0,g,0,g,55,g
+589,perkins restaurant and bakery,pick 3 sampler,95,g,195,mg,3910,g,121,g,57,g,23,g,0,g,3,g,29,g
+590,perkins restaurant and bakery,pick 4 sampler,135,g,210,mg,5490,g,148,g,61,g,28,g,0,g,4,g,32,g
+591,perkins restaurant and bakery,pinot grigio,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+592,perkins restaurant and bakery,pinot noir,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+593,perkins restaurant and bakery,pomegranate berry smoothie,1,g,0,mg,40,g,24,g,1,g,0,g,0,g,0,g,21,g
+594,perkins restaurant and bakery,pork chops and eggs,41,g,590,mg,1810,g,10,g,70,g,14,g,0,g,1,g,6,g
+595,perkins restaurant and bakery,pot roast melt,62,g,160,mg,2640,g,65,g,58,g,28,g,0,g,2,g,4,g
+596,perkins restaurant and bakery,pot roast stroganoff pasta,66,g,305,mg,1160,g,71,g,49,g,40,g,0,g,3,g,7,g
+597,perkins restaurant and bakery,potato pancakes,41,g,135,mg,1310,g,46,g,15,g,12,g,0,g,3,g,10,g
+598,perkins restaurant and bakery,powerade cherry,0,g,0,mg,160,g,36,g,0,g,0,g,0,g,0,g,36,g
+599,perkins restaurant and bakery,powerade fruit punch,0,g,0,mg,160,g,36,g,0,g,0,g,0,g,0,g,36,g
+600,perkins restaurant and bakery,powerade grape,0,g,0,mg,160,g,36,g,0,g,0,g,0,g,0,g,36,g
+601,perkins restaurant and bakery,powerade lemon,0,g,0,mg,160,g,36,g,0,g,0,g,0,g,0,g,36,g
+602,perkins restaurant and bakery,powerade lime,0,g,0,mg,160,g,36,g,0,g,0,g,0,g,0,g,36,g
+603,perkins restaurant and bakery,powerade orange,0,g,0,mg,160,g,36,g,0,g,0,g,0,g,0,g,36,g
+604,perkins restaurant and bakery,powerade raspberry,0,g,0,mg,160,g,36,g,0,g,0,g,0,g,0,g,36,g
+605,perkins restaurant and bakery,powerade strawberry,0,g,0,mg,160,g,36,g,0,g,0,g,0,g,0,g,36,g
+606,perkins restaurant and bakery,powerade zero cherry,0,g,0,mg,160,g,0,g,0,g,0,g,0,g,0,g,0,g
+607,perkins restaurant and bakery,powerade zero fruit punch,0,g,0,mg,160,g,1,g,0,g,0,g,0,g,0,g,0,g
+608,perkins restaurant and bakery,powerade zero grape,0,g,0,mg,160,g,1,g,0,g,0,g,0,g,0,g,0,g
+609,perkins restaurant and bakery,powerade zero lemon,0,g,0,mg,160,g,1,g,0,g,0,g,0,g,0,g,0,g
+610,perkins restaurant and bakery,powerade zero lime,0,g,0,mg,160,g,1,g,0,g,0,g,0,g,0,g,0,g
+611,perkins restaurant and bakery,powerade zero orange,0,g,0,mg,160,g,1,g,0,g,0,g,0,g,0,g,0,g
+612,perkins restaurant and bakery,powerade zero raspberry,0,g,0,mg,160,g,1,g,0,g,0,g,0,g,0,g,0,g
+613,perkins restaurant and bakery,powerade zero strawberry,0,g,0,mg,160,g,1,g,0,g,0,g,0,g,0,g,0,g
+614,perkins restaurant and bakery,pumpkin cream cheese mammoth muffin,31,g,80,mg,780,g,95,g,10,g,9,g,0,g,3,g,55,g
+615,perkins restaurant and bakery,pumpkin doughnut mammoth muffin,33,g,110,mg,810,g,91,g,10,g,11,g,0,g,3,g,52,g
+616,perkins restaurant and bakery,pumpkin pie with whipped cream slice,30,g,115,mg,430,g,69,g,8,g,14,g,0.5,g,1,g,46,g
+617,perkins restaurant and bakery,pumpkin pie slice,15,g,55,mg,410,g,60,g,8,g,5,g,0,g,1,g,40,g
+618,perkins restaurant and bakery,quails gate pinot noir,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,0,g
+619,perkins restaurant and bakery,ranch dressing for appetizers,21,g,20,mg,510,g,2,g,0,g,3,g,0,g,0,g,2,g
+620,perkins restaurant and bakery,ranch dressing 2 fl oz,18,g,15,mg,450,g,2,g,0,g,2.5,g,0,g,0,g,2,g
+621,perkins restaurant and bakery,ranch dressing 3 fl oz,28,g,25,mg,680,g,3,g,0,g,4,g,0,g,0,g,3,g
+622,perkins restaurant and bakery,raspberry and cream muffin,26,g,80,mg,750,g,81,g,10,g,5,g,0,g,3,g,42,g
+623,perkins restaurant and bakery,raspberry iced tea,0,g,0,mg,75,g,34,g,0,g,0,g,0,g,0,g,34,g
+624,perkins restaurant and bakery,red wine blend,0,g,0,mg,5,g,4,g,0,g,0,g,0,g,0,g,3,g
+625,perkins restaurant and bakery,reuben melt,61,g,155,mg,3430,g,79,g,56,g,22,g,0,g,4,g,5,g
+626,perkins restaurant and bakery,rickards red beer,0,g,0,mg,0,g,11,g,0,g,0,g,0,g,0,g,0,g
+627,perkins restaurant and bakery,riesling,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,0,g
+628,perkins restaurant and bakery,rolling rock,0,g,0,mg,0,g,10,g,1,g,0,g,0,g,0,g,0,g
+629,perkins restaurant and bakery,root beer kids,0,g,0,mg,70,g,43,g,0,g,0,g,0,g,0,g,43,g
+630,perkins restaurant and bakery,root beer large,0,g,0,mg,95,g,57,g,0,g,0,g,0,g,0,g,57,g
+631,perkins restaurant and bakery,salsa,0,g,0,mg,190,g,2,g,0,g,0,g,0,g,1,g,1,g
+632,perkins restaurant and bakery,salsa medium,0,g,0,mg,190,g,2,g,0,g,0,g,0,g,1,g,1,g
+633,perkins restaurant and bakery,sam adams boston lager,0,g,0,mg,0,g,18,g,2,g,0,g,0,g,0,g,0,g
+634,perkins restaurant and bakery,santa carolina cabernet chile,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,0,g
+635,perkins restaurant and bakery,santa carolina chardonnay chile,0,g,0,mg,5,g,5,g,0,g,0,g,0,g,0,g,2,g
+636,perkins restaurant and bakery,santa carolina merlot chile,0,g,0,mg,5,g,4,g,0,g,0,g,0,g,0,g,0,g
+637,perkins restaurant and bakery,santa carolina shiraz chile,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+638,perkins restaurant and bakery,sauvignon blanc,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+639,perkins restaurant and bakery,sawmill creek chardonnay,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+640,perkins restaurant and bakery,sawmill creek merlot,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+641,perkins restaurant and bakery,seagrams diet ginger ale,0,g,0,mg,55,g,1,g,0,g,0,g,0,g,0,g,0,g
+642,perkins restaurant and bakery,seagrams diet ginger ale cherry,0,g,0,mg,55,g,1,g,0,g,0,g,0,g,0,g,0,g
+643,perkins restaurant and bakery,seagrams diet ginger ale lime,0,g,0,mg,55,g,1,g,0,g,0,g,0,g,0,g,0,g
+644,perkins restaurant and bakery,seagrams diet ginger ale orange,0,g,0,mg,55,g,1,g,0,g,0,g,0,g,0,g,0,g
+645,perkins restaurant and bakery,seagrams diet ginger ale raspberry,0,g,0,mg,55,g,1,g,0,g,0,g,0,g,0,g,0,g
+646,perkins restaurant and bakery,seagrams diet ginger ale vanilla,0,g,0,mg,55,g,1,g,0,g,0,g,0,g,0,g,0,g
+647,perkins restaurant and bakery,seagrams ginger ale,0,g,0,mg,45,g,47,g,0,g,0,g,0,g,0,g,47,g
+648,perkins restaurant and bakery,seagrams ginger ale cherry,0,g,0,mg,45,g,47,g,0,g,0,g,0,g,0,g,47,g
+649,perkins restaurant and bakery,seagrams ginger ale lime,0,g,0,mg,45,g,47,g,0,g,0,g,0,g,0,g,47,g
+650,perkins restaurant and bakery,seagrams ginger ale orange,0,g,0,mg,55,g,47,g,0,g,0,g,0,g,0,g,47,g
+651,perkins restaurant and bakery,seagrams ginger ale raspberry,0,g,0,mg,45,g,47,g,0,g,0,g,0,g,0,g,47,g
+652,perkins restaurant and bakery,seagrams ginger ale vanilla,0,g,0,mg,45,g,48,g,0,g,0,g,0,g,0,g,47,g
+653,perkins restaurant and bakery,shake chocolate,49,g,175,mg,330,g,122,g,11,g,29,g,0,g,0,g,100,g
+654,perkins restaurant and bakery,shake strawberry,49,g,175,mg,300,g,105,g,11,g,29,g,0,g,0,g,74,g
+655,perkins restaurant and bakery,shake vanilla,49,g,175,mg,300,g,100,g,11,g,29,g,0,g,0,g,85,g
+656,perkins restaurant and bakery,shiraz,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+657,perkins restaurant and bakery,shredded american cheese,9,g,30,mg,160,g,1,g,7,g,5,g,0,g,0,g,0,g
+658,perkins restaurant and bakery,shredded mild cheddar cheese,9,g,30,mg,180,g,1,g,7,g,5,g,0,g,0,g,0,g
+659,perkins restaurant and bakery,shredded monterey jack and swiss cheddar cheese,9,g,30,mg,180,g,1,g,7,g,5,g,0,g,0,g,0,g
+660,perkins restaurant and bakery,shredded monterey jack cheese,8,g,30,mg,170,g,0,g,7,g,5,g,0,g,0,g,0,g
+661,perkins restaurant and bakery,shredded parmesan cheese,8,g,20,mg,330,g,1,g,9,g,5,g,0,g,0,g,0,g
+662,perkins restaurant and bakery,shredded pepper jack cheese,8,g,30,mg,170,g,1,g,7,g,5,g,0,g,0,g,0,g
+663,perkins restaurant and bakery,shrimp bacon and broccoli pasta,61,g,240,mg,2440,g,75,g,33,g,28,g,0,g,7,g,7,g
+664,perkins restaurant and bakery,sliced american cheese,14,g,45,mg,600,g,2,g,9,g,9,g,0,g,0,g,2,g
+665,perkins restaurant and bakery,sliced pepper jack cheese,12,g,45,mg,260,g,0,g,11,g,8,g,0,g,0,g,0,g
+666,perkins restaurant and bakery,sliced swiss cheese,12,g,40,mg,170,g,2,g,11,g,8,g,0,g,0,g,0,g
+667,perkins restaurant and bakery,smirnoff grape,0,g,0,mg,0,g,36,g,0,g,0,g,0,g,0,g,0,g
+668,perkins restaurant and bakery,smirnoff green apple,0,g,0,mg,0,g,175,g,0,g,0,g,0,g,0,g,0,g
+669,perkins restaurant and bakery,southern fried chicken biscuit breakfast,76,g,555,mg,4230,g,110,g,58,g,42,g,0,g,3,g,10,g
+670,perkins restaurant and bakery,southern pecan pie slice,33,g,100,mg,430,g,86,g,7,g,9,g,0,g,1,g,58,g
+671,perkins restaurant and bakery,southwest avocado chicken salad,50,g,110,mg,2220,g,61,g,37,g,10,g,0,g,11,g,14,g
+672,perkins restaurant and bakery,sparkling brut,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+673,perkins restaurant and bakery,spinach and mushroom skillet fit favorite,10,g,0,mg,430,g,61,g,22,g,2,g,0,g,11,g,4,g
+674,perkins restaurant and bakery,spotted cow,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,0,g,0,g
+675,perkins restaurant and bakery,sprite,0,g,0,mg,55,g,51,g,0,g,0,g,0,g,0,g,51,g
+676,perkins restaurant and bakery,sprite cherry,0,g,0,mg,55,g,55,g,0,g,0,g,0,g,0,g,53,g
+677,perkins restaurant and bakery,sprite grape,0,g,0,mg,55,g,55,g,0,g,0,g,0,g,0,g,53,g
+678,perkins restaurant and bakery,sprite orange,0,g,0,mg,55,g,51,g,0,g,0,g,0,g,0,g,51,g
+679,perkins restaurant and bakery,sprite orange vanilla,0,g,0,mg,95,g,51,g,0,g,0,g,0,g,0,g,51,g
+680,perkins restaurant and bakery,sprite peach,0,g,0,mg,55,g,51,g,0,g,0,g,0,g,0,g,51,g
+681,perkins restaurant and bakery,sprite raspberry,0,g,0,mg,55,g,51,g,0,g,0,g,0,g,0,g,51,g
+682,perkins restaurant and bakery,sprite strawberry,0,g,0,mg,55,g,51,g,0,g,0,g,0,g,0,g,51,g
+683,perkins restaurant and bakery,sprite vanilla,0,g,0,mg,55,g,51,g,0,g,0,g,0,g,0,g,51,g
+684,perkins restaurant and bakery,sprite zero,0,g,0,mg,55,g,1,g,0,g,0,g,0,g,0,g,0,g
+685,perkins restaurant and bakery,sprite zero cherry,0,g,0,mg,55,g,1,g,0,g,0,g,0,g,0,g,0,g
+686,perkins restaurant and bakery,sprite zero grape,0,g,0,mg,55,g,1,g,0,g,0,g,0,g,0,g,0,g
+687,perkins restaurant and bakery,sprite zero orange,0,g,0,mg,55,g,1,g,0,g,0,g,0,g,0,g,0,g
+688,perkins restaurant and bakery,sprite zero orange vanilla,0,g,0,mg,55,g,1,g,0,g,0,g,0,g,0,g,0,g
+689,perkins restaurant and bakery,sprite zero peach,0,g,0,mg,55,g,1,g,0,g,0,g,0,g,0,g,0,g
+690,perkins restaurant and bakery,sprite zero raspberry,0,g,0,mg,55,g,1,g,0,g,0,g,0,g,0,g,0,g
+691,perkins restaurant and bakery,sprite zero strawberry,0,g,0,mg,55,g,1,g,0,g,0,g,0,g,0,g,0,g
+692,perkins restaurant and bakery,sprite zero vanilla,0,g,0,mg,55,g,1,g,0,g,0,g,0,g,0,g,0,g
+693,perkins restaurant and bakery,sprite kids,0,g,0,mg,70,g,38,g,0,g,0,g,0,g,0,g,38,g
+694,perkins restaurant and bakery,sprite large,0,g,0,mg,95,g,51,g,0,g,0,g,0,g,0,g,51,g
+695,perkins restaurant and bakery,steak and peppers skillet,43,g,120,mg,1710,g,58,g,44,g,13,g,1,g,7,g,5,g
+696,perkins restaurant and bakery,steak sauce,0,g,0,mg,500,g,6,g,0,g,0,g,0,g,0,g,4,g
+697,perkins restaurant and bakery,stella,0,g,0,mg,0,g,21,g,1,g,0,g,0,g,0,g,0,g
+698,perkins restaurant and bakery,strawberry and cream cheese crispers,18,g,25,mg,390,g,32,g,5,g,7,g,0,g,1,g,12,g
+699,perkins restaurant and bakery,strawberry croissant french toast,23,g,205,mg,390,g,97,g,10,g,13,g,0,g,3,g,67,g
+700,perkins restaurant and bakery,strawberry croissant french toast platter,32,g,635,mg,520,g,99,g,22,g,16,g,0,g,3,g,67,g
+701,perkins restaurant and bakery,strawberry smoothie,1,g,0,mg,40,g,47,g,1,g,0,g,0,g,0,g,42,g
+702,perkins restaurant and bakery,strawberry topping,0,g,0,mg,60,g,46,g,0,g,0,g,0,g,2,g,39,g
+703,perkins restaurant and bakery,sugar cookie,14,g,50,mg,115,g,42,g,3,g,7,g,0,g,0,g,21,g
+704,perkins restaurant and bakery,sugar free pancake syrup,0,g,0,mg,95,g,6,g,0,g,0,g,0,g,0,g,0,g
+705,perkins restaurant and bakery,sutter home cabernet,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+706,perkins restaurant and bakery,sutter home chardonnay,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+707,perkins restaurant and bakery,sutter home merlot,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,0,g
+708,perkins restaurant and bakery,sutter home riesling,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,0,g
+709,perkins restaurant and bakery,sutter home white wine spritzer,0,g,0,mg,10,g,3,g,0,g,0,g,0,g,0,g,0,g
+710,perkins restaurant and bakery,sutter home white zinfandel,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,0,g
+711,perkins restaurant and bakery,sweet sticky bun,41,g,0,mg,710,g,98,g,11,g,14,g,0,g,5,g,48,g
+712,perkins restaurant and bakery,sweet tea,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,0,g,24,g
+713,perkins restaurant and bakery,syrah wine,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+714,perkins restaurant and bakery,tartar sauce,9,g,10,mg,250,g,5,g,0,g,1.5,g,0,g,0,g,3,g
+715,perkins restaurant and bakery,teriyaki pineapple and bacon burger,87,g,135,mg,3060,g,116,g,48,g,26,g,2,g,7,g,22,g
+716,perkins restaurant and bakery,the big country sunrise skillet,71,g,510,mg,2660,g,64,g,39,g,23,g,0,g,5,g,6,g
+717,perkins restaurant and bakery,the breakfast burger,74,g,390,mg,1430,g,56,g,62,g,28,g,2,g,2,g,7,g
+718,perkins restaurant and bakery,the classic burger,45,g,120,mg,780,g,48,g,40,g,15,g,2,g,1,g,9,g
+719,perkins restaurant and bakery,the classic cheeseburger,59,g,160,mg,970,g,48,g,50,g,23,g,2,g,1,g,8,g
+720,perkins restaurant and bakery,the everything omelet,40,g,705,mg,850,g,14,g,37,g,16,g,0,g,2,g,5,g
+721,perkins restaurant and bakery,thousand island dressing 2 fl oz,18,g,25,mg,430,g,7,g,0,g,2.5,g,0,g,0,g,7,g
+722,perkins restaurant and bakery,thousand island dressing 3 fl oz,28,g,40,mg,650,g,10,g,0,g,4,g,0,g,0,g,10,g
+723,perkins restaurant and bakery,tilapia grille,18,g,105,mg,420,g,9,g,42,g,3.5,g,0,g,0,g,6,g
+724,perkins restaurant and bakery,tinhorn creek cab franc,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,0,g
+725,perkins restaurant and bakery,tomato basil soup bowl,26,g,75,mg,1850,g,46,g,7,g,15,g,0,g,2,g,5,g
+726,perkins restaurant and bakery,tomato basil soup cup,17,g,50,mg,1180,g,27,g,4,g,10,g,0,g,1,g,3,g
+727,perkins restaurant and bakery,top sirloin steak and fried shrimp dinner,20,g,170,mg,1000,g,38,g,46,g,5,g,0,g,1,g,10,g
+728,perkins restaurant and bakery,tremendous twelve,48,g,720,mg,2410,g,89,g,29,g,13,g,0,g,0,g,16,g
+729,perkins restaurant and bakery,triple decker club,49,g,120,mg,1600,g,3,g,32,g,9,g,0,g,0,g,5,g
+730,perkins restaurant and bakery,triple egg dare ya,84,g,890,mg,2690,g,97,g,54,g,27,g,0,g,2,g,15,g
+731,perkins restaurant and bakery,turkey and dressing dinner,20,g,90,mg,1740,g,21,g,38,g,3.5,g,0,g,2,g,14,g
+732,perkins restaurant and bakery,turkey blt salad fit favorite,19,g,105,mg,1280,g,11,g,38,g,7,g,0,g,3,g,8,g
+733,perkins restaurant and bakery,turkey sausage omelet fit favorite,23,g,75,mg,890,g,52,g,44,g,10,g,0,g,8,g,20,g
+734,perkins restaurant and bakery,twice as nice breakfast,31,g,485,mg,2180,g,90,g,23,g,9,g,0,g,2,g,13,g
+735,perkins restaurant and bakery,twinberry syrup,0,g,0,mg,35,g,31,g,0,g,0,g,0,g,0,g,25,g
+736,perkins restaurant and bakery,white balsamic dressing 2 fl oz,10,g,0,mg,270,g,5,g,0,g,1.5,g,0,g,0,g,3,g
+737,perkins restaurant and bakery,white balsamic dressing 3 fl oz,15,g,0,mg,400,g,8,g,0,g,2.5,g,0,g,0,g,5,g
+738,perkins restaurant and bakery,white wine spritzer,0,g,0,mg,10,g,3,g,0,g,0,g,0,g,0,g,0,g
+739,perkins restaurant and bakery,white zinfandel,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,0,g
+740,perkins restaurant and bakery,william hill estates chardonnay,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+741,perkins restaurant and bakery,woodbridge chardonnay,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+742,perkins restaurant and bakery,yuengling,0,g,0,mg,0,g,10,g,1,g,0,g,0,g,0,g,0,g
+743,peter piper pizza,wings,8,g,40,mg,190,g,0,g,9,g,2,g,0,g,0,g,0,g
+744,peter piper pizza,garlic cheese bread,14,g,10,mg,610,g,37,g,10,g,4,g,0,g,2,g,2,g
+745,peter piper pizza,breadsticks,10,g,0,mg,760,g,36,g,7,g,1.5,g,0,g,0,g,4,g
+746,peter piper pizza,buffalo boneless wings,38,g,132,mg,4406,g,44,g,56,g,6,g,0,g,4,g,0,g
+747,peter piper pizza,bbq boneless wings,28,g,132,mg,4682,g,82,g,56,g,8,g,0,g,8,g,38,g
+748,peter piper pizza,plain boneless wings,22,g,132,mg,1966,g,38,g,56,g,4,g,0,g,4,g,0,g
+749,peter piper pizza,cinnamon crunch dessert,1.5,g,0,mg,220,g,49,g,5,g,0,g,0,g,2,g,13,g
+750,peter piper pizza,original crust pepperoni pizza large 14,10,g,20,mg,550,g,36,g,16,g,4.5,g,0,g,2,g,2,g
+751,peter piper pizza,original crust pepperoni pizza personal 7,17.5,g,43,mg,959,g,70,g,23.6,g,8.3,g,0,g,3.4,g,3.3,g
+752,peter piper pizza,thin crust pepperoni pizza large 14,6,g,15,mg,340,g,13,g,9,g,3,g,0,g,1,g,1,g
+753,peter piper pizza,pan crust new york 3 cheese with pepperoni pizza extra large 16,15,g,30,mg,760,g,39,g,18,g,6,g,0,g,2,g,4,g
+754,peter piper pizza,original crust pepperoni pizza extra large 16,8,g,20,mg,460,g,32,g,14,g,4,g,0,g,1,g,2,g
+755,peter piper pizza,original crust new york 3 cheese with pepperoni pizza large 14,16,g,30,mg,710,g,38,g,21,g,7,g,0,g,2,g,3,g
+756,peter piper pizza,thin crust cheese pizza extra large 16,5,g,15,mg,290,g,13,g,10,g,3.5,g,0,g,1,g,1,g
+757,peter piper pizza,thin crust pepperoni pizza extra large 16,6,g,15,mg,340,g,13,g,9,g,3,g,0,g,1,g,1,g
+758,peter piper pizza,original crust personal cheese pizza,5,g,15,mg,3,g,18,g,7,g,3,g,0,g,1,g,1,g
+759,peter piper pizza,pan crust california veggie pizza extra large 16,6,g,15,mg,530,g,39,g,12,g,3,g,0,g,2,g,4,g
+760,peter piper pizza,thin crust 5 meat supreme pizza extra large 16,9,g,25,mg,580,g,14,g,13,g,4,g,0,g,1,g,2,g
+761,peter piper pizza,original crust the werx pizza extra large 16,10,g,25,mg,630,g,33,g,16,g,4.5,g,0,g,2,g,3,g
+762,peter piper pizza,original crust extra large 16 5 meat supreme pizza,16,g,45,mg,780,g,34,g,15,g,7,g,0,g,2,g,3,g
+763,peter piper pizza,original crust large 14 chicago classic pizza,13,g,35,mg,670,g,40,g,14,g,6,g,0,g,2,g,4,g
+764,peter piper pizza,thin crust california veggie pizza extra large 16,4,g,10,mg,270,g,14,g,8,g,2,g,0,g,1,g,2,g
+765,peter piper pizza,thin crust chicago classic pizza extra large 16,6,g,15,mg,350,g,14,g,9,g,3,g,0,g,1,g,2,g
+766,peter piper pizza,thin crust ham and pineapple pizza large 14,4,g,15,mg,320,g,15,g,9,g,2.5,g,0,g,1,g,3,g
+767,peter piper pizza,hand tossed crust pepperoni pizza extra large 16,8,g,20,mg,590,g,33,g,13,g,4,g,0,g,1,g,3,g
+768,peter piper pizza,original crust sausage pizza large 14,10,g,25,mg,580,g,38,g,17,g,4.5,g,0,g,2,g,3,g
+769,peter piper pizza,original crust medium california veggie pizza,6,g,15,mg,390,g,30,g,8,g,3,g,0,g,2,g,3,g
+770,peter piper pizza,thin crust the werx pizza large 14,7,g,15,mg,420,g,14,g,10,g,3,g,0,g,1,g,2,g
+771,peter piper pizza,pan crust pepperoni pizza large 14,10,g,20,mg,710,g,44,g,15,g,4.5,g,0,g,2,g,4,g
+772,peter piper pizza,original crust extra large 16 cheese pizza,10,g,35,mg,500,g,34,g,13,g,6,g,0,g,1,g,3,g
+773,peter piper pizza,pan crust 5 meat supreme pizza extra large 16,13,g,35,mg,950,g,39,g,19,g,5,g,0,g,2,g,4,g
+774,peter piper pizza,original crust medium 5 meat pizza,13,g,35,mg,620,g,28,g,12,g,6,g,0,g,1,g,3,g
+775,peter piper pizza,original crust ham and pineapple pizza large 14,7,g,20,mg,530,g,38,g,17,g,3.5,g,0,g,2,g,4,g
+776,peter piper pizza,hand tossed crust pepperoni pizza large 14,10,g,20,mg,670,g,37,g,14,g,4.5,g,0,g,2,g,4,g
+777,peter piper pizza,thin crust the werx pizza extra large 16,7,g,20,mg,440,g,14,g,10,g,3,g,0,g,1,g,2,g
+778,peter piper pizza,thin crust sausage pizza extra large 16,7,g,15,mg,370,g,14,g,10,g,3,g,0,g,1,g,2,g
+779,peter piper pizza,original crust cheese pizza medium,8,g,25,mg,380,g,28,g,10,g,4.5,g,0,g,1,g,3,g
+780,peter piper pizza,thin crust smokehouse pizza large 14,9,g,20,mg,570,g,15,g,13,g,3.5,g,0,g,1,g,2,g
+781,peter piper pizza,original crust small cheese pizza,7,g,25,mg,370,g,26,g,9,g,4.5,g,0,g,1,g,3,g
+782,peter piper pizza,original crust large 14 california veggie pizza,9,g,25,mg,570,g,41,g,12,g,4.5,g,0,g,2,g,4,g
+783,peter piper pizza,thin crust meat supreme pizza large 14,8,g,25,mg,540,g,14,g,12,g,4,g,0,g,1,g,2,g
+784,peter piper pizza,hand tossed crust new york 3 cheese with pepperoni pizza large 14,16,g,30,mg,830,g,39,g,19,g,7,g,0,g,2,g,4,g
+785,peter piper pizza,thin crust new york 3 cheese with pepperoni pizza large 14,10,g,20,mg,440,g,14,g,12,g,4.5,g,0,g,1,g,2,g
+786,peter piper pizza,original crust medium chicago classic pizza,9,g,25,mg,470,g,29,g,10,g,4,g,0,g,2,g,3,g
+787,peter piper pizza,original crust smokehouse pizza large 14,15,g,30,mg,890,g,38,g,23,g,5,g,0,g,2,g,3,g
+788,peter piper pizza,thin crust california veggie pizza large 14,4.5,g,10,mg,290,g,15,g,8,g,2,g,0,g,1,g,2,g
+789,peter piper pizza,thin crust pepperoni and sausage pizza large 14,7,g,15,mg,370,g,14,g,9,g,3,g,0,g,1,g,2,g
+790,peter piper pizza,pan crust smokehouse pizza large 14,15,g,30,mg,1050,g,46,g,22,g,5,g,0,g,2,g,5,g
+791,peter piper pizza,original crust pepperoni and sausage pizza extra large 16,10,g,25,mg,540,g,32,g,15,g,4.5,g,0,g,2,g,2,g
+792,peter piper pizza,original crust new york 3 cheese with pepperoni pizza extra large 16,14,g,30,mg,630,g,32,g,19,g,6,g,0,g,1,g,2,g
+793,peter piper pizza,original crust ham and pineapple pizza extra large 16,6,g,20,mg,470,g,33,g,15,g,3,g,0,g,1,g,4,g
+794,peter piper pizza,original crust the werx pizza large 14,11,g,25,mg,670,g,38,g,17,g,4.5,g,0,g,2,g,3,g
+795,peter piper pizza,thin crust chicago classic pizza large 14,6,g,15,mg,340,g,15,g,9,g,3,g,0,g,1,g,2,g
+796,peter piper pizza,pan crust the werx pizza extra large 16,10,g,25,mg,760,g,39,g,15,g,4,g,0,g,2,g,4,g
+797,peter piper pizza,pan crust ham and pineapple pizza large 14,7,g,20,mg,690,g,46,g,16,g,3.5,g,0,g,2,g,6,g
+798,peter piper pizza,hand tossed crust 5 meat supreme pizza large 14,13,g,35,mg,970,g,38,g,19,g,6,g,0,g,2,g,4,g
+799,peter piper pizza,thin crust pepperoni and sausage pizza extra large 16,7,g,15,mg,370,g,13,g,9,g,3.5,g,0,g,1,g,2,g
+800,peter piper pizza,hand tossed crust cheese pizza large 14,9,g,25,mg,590,g,38,g,17,g,4.5,g,0,g,2,g,4,g
+801,peter piper pizza,hand tossed crust sausage pizza extra large 16,10,g,20,mg,630,g,34,g,14,g,4,g,0,g,2,g,3,g
+802,peter piper pizza,pan crust 5 meat supreme pizza large 14,13,g,35,mg,1010,g,46,g,20,g,6,g,0,g,2,g,4,g
+803,peter piper pizza,pan crust pepperoni and sausage pizza large 14,11,g,25,mg,760,g,45,g,16,g,4.5,g,0,g,2,g,4,g
+804,peter piper pizza,pan crust sausage pizza extra large 16,10,g,20,mg,660,g,39,g,15,g,4,g,0,g,2,g,4,g
+805,peter piper pizza,pan crust chicago classic pizza extra large 16,9,g,20,mg,630,g,39,g,14,g,4,g,0,g,2,g,4,g
+806,peter piper pizza,hand tossed crust the werx pizza large 14,11,g,25,mg,790,g,39,g,16,g,4.5,g,0,g,2,g,4,g
+807,peter piper pizza,pan crust new york 3 cheese with pepperoni pizza large 14,16,g,30,mg,870,g,46,g,20,g,7,g,0,g,2,g,4,g
+808,peter piper pizza,thin crust sausage pizza large 14,7,g,15,mg,360,g,14,g,10,g,3,g,0,g,1,g,2,g
+809,peter piper pizza,hand tossed crust pepperoni and sausage pizza extra large 16,10,g,25,mg,640,g,33,g,14,g,4.5,g,0,g,2,g,3,g
+810,peter piper pizza,thin crust new york 3 cheese with pepperoni pizza extra large 16,10,g,20,mg,450,g,14,g,12,g,4.5,g,0,g,1,g,2,g
+811,peter piper pizza,hand tossed crust smokehouse pizza extra large 16,13,g,30,mg,940,g,34,g,19,g,4.5,g,0,g,2,g,4,g
+812,peter piper pizza,hand tossed crust the werx pizza extra large 16,10,g,25,mg,730,g,34,g,14,g,4,g,0,g,2,g,4,g
+813,peter piper pizza,hand tossed crust chicago classic pizza large 14,10,g,20,mg,660,g,39,g,15,g,4.5,g,0,g,2,g,4,g
+814,peter piper pizza,original crust pepperoni and sausage pizza large 14,11,g,25,mg,600,g,37,g,17,g,4.5,g,0,g,2,g,2,g
+815,peter piper pizza,thin crust cheese pizza large 14,5,g,15,mg,290,g,14,g,10,g,3,g,0,g,1,g,1,g
+816,peter piper pizza,thin crust smokehouse pizza extra large 16,10,g,20,mg,600,g,14,g,14,g,3.5,g,0,g,1,g,2,g
+817,peter piper pizza,original crust large 14 cheese pizza,11,g,35,mg,560,g,39,g,14,g,7,g,0,g,2,g,4,g
+818,peter piper pizza,original crust large 14 5 meat supreme pizza,15,g,45,mg,810,g,39,g,16,g,7,g,0,g,2,g,4,g
+819,peter piper pizza,pan crust cheese pizza large 14,9,g,25,mg,590,g,38,g,17,g,4.5,g,0,g,2,g,4,g
+820,peter piper pizza,pan crust chicago classic pizza large 14,10,g,20,mg,710,g,46,g,16,g,4.5,g,0,g,3,g,4,g
+821,peter piper pizza,pan crust pepperoni and sausage pizza extra large 16,10,g,25,mg,670,g,38,g,14,g,4.5,g,0,g,2,g,4,g
+822,peter piper pizza,thin crust ham and pineapple pizza extra large 16,4,g,15,mg,320,g,14,g,9,g,2.5,g,0,g,1,g,3,g
+823,peter piper pizza,pan crust sausage pizza large 14,11,g,25,mg,740,g,46,g,16,g,4.5,g,0,g,3,g,4,g
+824,peter piper pizza,hand tossed crust ham and pineapple pizza extra large 16,6,g,20,mg,570,g,35,g,13,g,3,g,0,g,1,g,5,g
+825,peter piper pizza,original crust extra large 16 california veggie pizza,8,g,25,mg,460,g,35,g,11,g,4,g,0,g,2,g,4,g
+826,peter piper pizza,pan crust smokehouse pizza extra large 16,14,g,30,mg,970,g,39,g,20,g,4.5,g,0,g,2,g,4,g
+827,peter piper pizza,hand tossed crust smokehouse pizza large 14,15,g,30,mg,1010,g,39,g,21,g,5,g,0,g,2,g,4,g
+828,peter piper pizza,hand tossed crust chicago classic pizza extra large 16,9,g,20,mg,600,g,34,g,14,g,4,g,0,g,2,g,4,g
+829,peter piper pizza,pan crust california veggie pizza large 14,7,g,15,mg,610,g,47,g,14,g,3,g,0,g,3,g,4,g
+830,peter piper pizza,pan crust ham and pineapple pizza extra large 16,6,g,20,mg,600,g,39,g,14,g,3,g,0,g,2,g,5,g
+831,peter piper pizza,hand tossed crust new york 3 cheese with pepperoni pizza extra large 16,14,g,30,mg,740,g,34,g,17,g,6,g,0,g,2,g,3,g
+832,peter piper pizza,original crust smokehouse pizza extra large 16,13,g,30,mg,840,g,33,g,21,g,5,g,0,g,2,g,3,g
+833,peter piper pizza,hand tossed crust cheese pizza extra large 16,8,g,20,mg,530,g,33,g,15,g,4,g,0,g,1,g,3,g
+834,peter piper pizza,hand tossed crust california veggie pizza large 14,7,g,15,mg,560,g,39,g,13,g,3,g,0,g,2,g,4,g
+835,peter piper pizza,pan crust the werx pizza large 14,11,g,25,mg,830,g,46,g,16,g,4.5,g,0,g,2,g,5,g
+836,peter piper pizza,pan crust cheese pizza extra large 16,8,g,20,mg,560,g,38,g,16,g,4.5,g,0,g,2,g,3,g
+837,peter piper pizza,hand tossed crust sausage pizza large 14,10,g,25,mg,690,g,39,g,15,g,4.5,g,0,g,2,g,4,g
+838,peter piper pizza,pan crust pepperoni pizza extra large 16,9,g,20,mg,620,g,37,g,13,g,4,g,0,g,2,g,3,g
+839,peter piper pizza,hand tossed crust pepperoni and sausage pizza large 14,11,g,25,mg,710,g,38,g,15,g,4.5,g,0,g,2,g,4,g
+840,peter piper pizza,hand tossed crust ham and pineapple pizza large 14,7,g,20,mg,640,g,39,g,15,g,3.5,g,0,g,2,g,5,g
+841,peter piper pizza,original crust sausage pizza extra large 16,10,g,20,mg,530,g,33,g,16,g,4.5,g,0,g,2,g,2,g
+842,peter piper pizza,hand tossed crust 5 meat supreme pizza extra large 16,13,g,35,mg,920,g,34,g,18,g,5,g,0,g,2,g,3,g
+843,peter piper pizza,hand tossed crust california veggie pizza extra large 16,6,g,15,mg,500,g,34,g,12,g,3,g,0,g,2,g,4,g
+844,peter piper pizza,side salad without dressing or croutons,0,g,0,mg,30,g,4,g,2,g,0,g,0,g,1,g,1,g
+845,peter piper pizza,chicken caesar salad without dressing or croutons,8,g,35,mg,900,g,10,g,21,g,1,g,0,g,4,g,3,g
+846,peter piper pizza,garden salad without dressing or croutons,0,g,0,mg,45,g,10,g,3,g,0,g,0,g,2,g,4,g
+847,peter piper pizza,italian chef salad without dressing or croutons,16,g,45,mg,1910,g,14,g,24,g,4,g,0,g,2,g,5,g
+848,peter piper pizza,family salad without dressing or croutons,0,g,0,mg,25,g,4,g,1,g,0,g,0,g,0,g,1,g
+849,peter piper pizza,5 meat supreme large slice,15,g,45,mg,810,g,39,g,16,g,7,g,0,g,2,g,4,g
+850,peter piper pizza,5 meat supreme medium slice,13,g,35,mg,620,g,28,g,12,g,6,g,0,g,1,g,3,g
+851,peter piper pizza,5 meat supreme xl slice,16,g,45,mg,780,g,34,g,15,g,7,g,0,g,2,g,3,g
+852,peter piper pizza,apple crunch large slice,3,g,0,mg,200,g,42,g,5,g,0.5,g,0.5,g,1,g,14,g
+853,peter piper pizza,apple crunch medium slice,2,g,0,mg,135,g,27,g,3,g,0,g,0,g,1,g,8,g
+854,peter piper pizza,apple crunch small slice,2.5,g,0,mg,170,g,34,g,4,g,0,g,0,g,1,g,10,g
+855,peter piper pizza,bacon extra large,30,g,95,mg,1260,g,0,g,22,g,10,g,0,g,0,g,0,g
+856,peter piper pizza,bacon large,23,g,70,mg,940,g,0,g,16,g,7,g,0,g,0,g,0,g
+857,peter piper pizza,bacon medium,17,g,55,mg,730,g,0,g,13,g,6,g,0,g,0,g,0,g
+858,peter piper pizza,bacon personal,9,g,30,mg,390,g,0,g,7,g,3,g,0,g,0,g,0,g
+859,peter piper pizza,bacon small,12,g,40,mg,520,g,0,g,9,g,4,g,0,g,0,g,0,g
+860,peter piper pizza,bbq sauce,0,g,0,mg,930,g,60,g,0,g,0,g,0,g,0,g,48,g
+861,peter piper pizza,beef extra large,30,g,70,mg,780,g,0,g,16,g,12,g,0,g,0,g,0,g
+862,peter piper pizza,beef large,22,g,50,mg,560,g,0,g,11,g,9,g,0,g,0,g,0,g
+863,peter piper pizza,beef medium,16,g,40,mg,420,g,0,g,9,g,7,g,0,g,0,g,0,g
+864,peter piper pizza,beef personal,9,g,20,mg,240,g,0,g,5,g,4,g,0,g,0,g,0,g
+865,peter piper pizza,beef small,13,g,30,mg,330,g,0,g,7,g,5,g,0,g,0,g,0,g
+866,peter piper pizza,black olives extra large,10,g,0,mg,680,g,6,g,1,g,1.5,g,0,g,3,g,0,g
+867,peter piper pizza,black olives large,7,g,0,mg,480,g,4,g,1,g,1,g,0,g,2,g,0,g
+868,peter piper pizza,black olives medium,5,g,0,mg,380,g,3,g,0,g,0.5,g,0,g,2,g,0,g
+869,peter piper pizza,black olives personal,3,g,0,mg,200,g,2,g,0,g,0,g,0,g,1,g,0,g
+870,peter piper pizza,black olives small,4,g,0,mg,280,g,2,g,0,g,0.5,g,0,g,1,g,0,g
+871,peter piper pizza,blueberry crunch large slice,3,g,0,mg,190,g,46,g,5,g,0.5,g,0.5,g,1,g,16,g
+872,peter piper pizza,blueberry crunch medium slice,2,g,0,mg,130,g,29,g,3,g,0,g,0,g,1,g,9,g
+873,peter piper pizza,blueberry crunch small slice,2.5,g,0,mg,160,g,37,g,4,g,0,g,0,g,1,g,12,g
+874,peter piper pizza,bone in no sauce no side,97,g,395,mg,280,g,0,g,60,g,20,g,0,g,0,g,0,g
+875,peter piper pizza,boneless no sauce no side,58,g,415,mg,1430,g,47,g,47,g,7,g,0,g,0,g,0,g
+876,peter piper pizza,brookie w vanilla soft serve,76,g,260,mg,760,g,245,g,20,g,32,g,0,g,4,g,157,g
+877,peter piper pizza,buffalo wing sauce,9,g,0,mg,2340,g,6,g,0,g,0,g,0,g,0,g,0,g
+878,peter piper pizza,buffet mac and cheese no breadsticks,14,g,5,mg,690,g,27,g,6,g,3.5,g,0,g,1,g,3,g
+879,peter piper pizza,buffet spinach alfredo no breadsticks,14,g,10,mg,340,g,24,g,7,g,4,g,0,g,2,g,2,g
+880,peter piper pizza,buffet ziti no breadsticks,6,g,10,mg,180,g,23,g,7,g,2,g,0,g,1,g,1,g
+881,peter piper pizza,caesar salad large no dressing or croutons,16,g,40,mg,980,g,8,g,24,g,10,g,0,g,4,g,3,g
+882,peter piper pizza,caesar salad large no dressing,28,g,40,mg,1650,g,69,g,36,g,10,g,0,g,4,g,3,g
+883,peter piper pizza,caesar salad large w dressing,59,g,120,mg,3570,g,73,g,79,g,30,g,0,g,4,g,4,g
+884,peter piper pizza,caesar salad small no dressing or croutons,8,g,20,mg,490,g,5,g,12,g,5,g,0,g,2,g,2,g
+885,peter piper pizza,caesar salad small no dressing,14,g,20,mg,820,g,35,g,18,g,5,g,0,g,2,g,2,g
+886,peter piper pizza,caesar salad small w dressing,30,g,60,mg,1790,g,37,g,40,g,15,g,0,g,2,g,2,g
+887,peter piper pizza,california veggie large slice,9,g,25,mg,570,g,41,g,12,g,4.5,g,0,g,2,g,4,g
+888,peter piper pizza,california veggie medium slice,6,g,15,mg,390,g,30,g,8,g,3,g,0,g,2,g,3,g
+889,peter piper pizza,california veggie xl slice,8,g,25,mg,460,g,35,g,11,g,4,g,0,g,2,g,4,g
+890,peter piper pizza,carrots,0,g,0,mg,55,g,6,g,0,g,0,g,0,g,2,g,3,g
+891,peter piper pizza,celery,0,g,0,mg,65,g,2,g,1,g,0,g,0,g,1,g,1,g
+892,peter piper pizza,cheddar bacon rolls,18,g,30,mg,520,g,34,g,12,g,6,g,0,g,1,g,0,g
+893,peter piper pizza,cheddar cheese extra large,35,g,105,mg,680,g,3,g,24,g,20,g,1,g,0,g,1,g
+894,peter piper pizza,cheddar cheese large,23,g,70,mg,460,g,2,g,16,g,13,g,0.5,g,0,g,0,g
+895,peter piper pizza,cheddar cheese medium,19,g,55,mg,370,g,2,g,13,g,11,g,0.5,g,0,g,0,g
+896,peter piper pizza,cheddar cheese personal,10,g,30,mg,190,g,1,g,7,g,6,g,0,g,0,g,0,g
+897,peter piper pizza,cheddar cheese small,17,g,50,mg,330,g,2,g,11,g,9,g,0,g,0,g,0,g
+898,peter piper pizza,cheese large slice,11,g,35,mg,560,g,39,g,14,g,7,g,0,g,2,g,4,g
+899,peter piper pizza,cheese medium slice,8,g,25,mg,380,g,28,g,10,g,4.5,g,0,g,1,g,3,g
+900,peter piper pizza,cheese personal slice,5,g,15,mg,230,g,18,g,7,g,3,g,0,g,1,g,1,g
+901,peter piper pizza,cheese small slice,7,g,25,mg,370,g,26,g,9,g,4.5,g,0,g,1,g,3,g
+902,peter piper pizza,cheese xl slice,10,g,35,mg,500,g,34,g,13,g,6,g,0,g,1,g,3,g
+903,peter piper pizza,chicago classic large slice,13,g,35,mg,670,g,40,g,14,g,6,g,0,g,2,g,4,g
+904,peter piper pizza,chicago classic medium slice,9,g,25,mg,470,g,29,g,10,g,4,g,0,g,2,g,3,g
+905,peter piper pizza,chicago classic personal slice,7,g,20,mg,300,g,19,g,7,g,3,g,0,g,1,g,2,g
+906,peter piper pizza,chicago classic small slice,9,g,25,mg,460,g,27,g,9,g,4,g,0,g,1,g,3,g
+907,peter piper pizza,chicago classic xl slice,12,g,35,mg,610,g,35,g,13,g,6,g,0,g,2,g,4,g
+908,peter piper pizza,chicken extra large,6,g,60,mg,300,g,0,g,22,g,1.5,g,0,g,0,g,0,g
+909,peter piper pizza,chicken large,4,g,40,mg,210,g,0,g,15,g,1,g,0,g,0,g,0,g
+910,peter piper pizza,chicken medium,3,g,35,mg,170,g,0,g,12,g,1,g,0,g,0,g,0,g
+911,peter piper pizza,chicken personal,1.5,g,20,mg,90,g,0,g,7,g,0,g,0,g,0,g,0,g
+912,peter piper pizza,chicken small,2.5,g,25,mg,135,g,0,g,10,g,0.5,g,0,g,0,g,0,g
+913,peter piper pizza,chicken tenders no sauce,41,g,75,mg,1480,g,35,g,38,g,3.5,g,0,g,3,g,0,g
+914,peter piper pizza,chicken add on,3.5,g,35,mg,180,g,0,g,13,g,1,g,0,g,0,g,0,g
+915,peter piper pizza,chopped house salad small,6,g,0,mg,360,g,35,g,8,g,0,g,0,g,3,g,1,g
+916,peter piper pizza,chopped italian salad small,19,g,40,mg,1080,g,10,g,12,g,8,g,0,g,3,g,5,g
+917,peter piper pizza,chorizo extra large,28,g,70,mg,1200,g,7,g,17,g,10,g,0,g,3,g,1,g
+918,peter piper pizza,chorizo large,21,g,55,mg,920,g,6,g,13,g,7,g,0,g,2,g,1,g
+919,peter piper pizza,chorizo medium,15,g,35,mg,630,g,4,g,9,g,5,g,0,g,1,g,0,g
+920,peter piper pizza,chorizo personal,8,g,20,mg,350,g,2,g,5,g,3,g,0,g,1,g,0,g
+921,peter piper pizza,chorizo small,10,g,25,mg,420,g,3,g,6,g,3.5,g,0,g,1,g,0,g
+922,peter piper pizza,cinnamon crunch large slice,6,g,0,mg,200,g,41,g,4,g,1,g,1,g,1,g,15,g
+923,peter piper pizza,cinnamon crunch small slice,9,g,0,mg,350,g,69,g,8,g,1.5,g,1.5,g,2,g,23,g
+924,peter piper pizza,croutons,6,g,0,mg,330,g,30,g,6,g,0,g,0,g,0,g,0,g
+925,peter piper pizza,french fries,32,g,0,mg,1090,g,53,g,5,g,1.5,g,0,g,5,g,0,g
+926,peter piper pizza,fresh potato chips w ranch,90,g,20,mg,750,g,70,g,7,g,12,g,0,g,7,g,3,g
+927,peter piper pizza,fresh potato chips buffalo style,72,g,25,mg,2870,g,73,g,13,g,10,g,0,g,7,g,3,g
+928,peter piper pizza,fried mushrooms w ranch,71,g,20,mg,1760,g,45,g,8,g,11,g,0,g,3,g,11,g
+929,peter piper pizza,garlic cheese bread,17,g,25,mg,510,g,45,g,14,g,6,g,0,g,2,g,2,g
+930,peter piper pizza,genoa salami extra large,90,g,270,mg,4050,g,9,g,54,g,36,g,0,g,0,g,0,g
+931,peter piper pizza,genoa salami large,70,g,210,mg,3150,g,7,g,42,g,28,g,0,g,0,g,0,g
+932,peter piper pizza,genoa salami medium,50,g,150,mg,2250,g,5,g,30,g,20,g,0,g,0,g,0,g
+933,peter piper pizza,genoa salami personal,13,g,40,mg,560,g,1,g,8,g,5,g,0,g,0,g,0,g
+934,peter piper pizza,genoa salami small,30,g,90,mg,1350,g,3,g,18,g,12,g,0,g,0,g,0,g
+935,peter piper pizza,glazed wings,61,g,215,mg,970,g,6,g,47,g,10,g,0,g,1,g,5,g
+936,peter piper pizza,gluten free cheese and pepperoni slice,8,g,20,mg,520,g,21,g,6,g,4,g,0,g,1,g,3,g
+937,peter piper pizza,gluten free cheese slice,8,g,25,mg,470,g,21,g,7,g,4,g,0,g,1,g,4,g
+938,peter piper pizza,grapes,0,g,0,mg,0,g,13,g,1,g,0,g,0,g,1,g,11,g
+939,peter piper pizza,green bell peppers extra large,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,1,g,2,g
+940,peter piper pizza,green bell peppers large,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,1,g
+941,peter piper pizza,green bell peppers medium,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,1,g
+942,peter piper pizza,green bell peppers personal,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+943,peter piper pizza,green bell peppers small,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+944,peter piper pizza,green chile peppers extra large,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,6,g,6,g
+945,peter piper pizza,green chile peppers large,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,4,g,4,g
+946,peter piper pizza,green chile peppers medium,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,3,g,3,g
+947,peter piper pizza,green chile peppers personal,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,2,g,2,g
+948,peter piper pizza,green chile peppers small,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,2,g,2,g
+949,peter piper pizza,greens and grapes salad buffet,2,g,5,mg,65,g,4,g,1,g,0.5,g,0,g,1,g,2,g
+950,peter piper pizza,greens and grapes salad no dressing,7,g,15,mg,280,g,21,g,9,g,4,g,0,g,3,g,12,g
+951,peter piper pizza,greens and grapes salad w poppy seed dressing,27,g,45,mg,800,g,37,g,9,g,7,g,0,g,3,g,26,g
+952,peter piper pizza,ham extra large,4,g,35,mg,800,g,0,g,10,g,3,g,0,g,0,g,0,g
+953,peter piper pizza,ham large,3,g,25,mg,620,g,0,g,8,g,2,g,0,g,0,g,0,g
+954,peter piper pizza,ham medium,2,g,20,mg,440,g,0,g,6,g,1.5,g,0,g,0,g,0,g
+955,peter piper pizza,ham personal,0.5,g,5,mg,110,g,0,g,1,g,0,g,0,g,0,g,0,g
+956,peter piper pizza,ham small,1.5,g,10,mg,270,g,0,g,3,g,1,g,0,g,0,g,0,g
+957,peter piper pizza,handmade breadsticks w marinara,31,g,5,mg,2910,g,199,g,37,g,5,g,0,g,7,g,21,g
+958,peter piper pizza,hearty hawaiian large slice,9,g,30,mg,660,g,41,g,13,g,5,g,0,g,2,g,7,g
+959,peter piper pizza,hearty hawaiian medium slice,6,g,20,mg,460,g,30,g,10,g,3.5,g,0,g,1,g,5,g
+960,peter piper pizza,hearty hawaiian personal slice,4,g,15,mg,260,g,20,g,6,g,2,g,0,g,1,g,2,g
+961,peter piper pizza,hearty hawaiian small slice,6,g,20,mg,430,g,27,g,9,g,3.5,g,0,g,1,g,4,g
+962,peter piper pizza,hearty hawaiian xl slice,8,g,30,mg,580,g,36,g,12,g,4.5,g,0,g,2,g,6,g
+963,peter piper pizza,hot sauce,6,g,0,mg,2480,g,5,g,0,g,0,g,0,g,0,g,0,g
+964,peter piper pizza,hot bone in,104,g,395,mg,2790,g,8,g,61,g,20,g,0,g,1,g,2,g
+965,peter piper pizza,hot boneless,65,g,415,mg,3950,g,55,g,47,g,7,g,0,g,1,g,2,g
+966,peter piper pizza,italian sausage extra large,32,g,75,mg,1110,g,6,g,15,g,9,g,0,g,1,g,0,g
+967,peter piper pizza,italian sausage large,23,g,55,mg,800,g,4,g,11,g,7,g,0,g,1,g,0,g
+968,peter piper pizza,italian sausage medium,18,g,45,mg,630,g,3,g,9,g,5,g,0,g,1,g,0,g
+969,peter piper pizza,italian sausage personal,10,g,25,mg,340,g,2,g,5,g,3,g,0,g,0,g,0,g
+970,peter piper pizza,italian sausage small,13,g,30,mg,450,g,2,g,6,g,4,g,0,g,1,g,0,g
+971,peter piper pizza,jalapenos extra large,0,g,0,mg,1200,g,4,g,0,g,0,g,0,g,4,g,0,g
+972,peter piper pizza,jalapenos large,0,g,0,mg,830,g,3,g,0,g,0,g,0,g,3,g,0,g
+973,peter piper pizza,jalapenos medium,0,g,0,mg,630,g,2,g,0,g,0,g,0,g,2,g,0,g
+974,peter piper pizza,jalapenos personal,0,g,0,mg,320,g,1,g,0,g,0,g,0,g,1,g,0,g
+975,peter piper pizza,jalapenos small,0,g,0,mg,450,g,2,g,0,g,0,g,0,g,2,g,0,g
+976,peter piper pizza,kids baked mac and cheese w breadsticks,48,g,40,mg,2270,g,111,g,28,g,14,g,0,g,5,g,11,g
+977,peter piper pizza,loaded tots,102,g,80,mg,3020,g,70,g,23,g,19,g,0,g,7,g,6,g
+978,peter piper pizza,louisiana honey hot sauce,0,g,0,mg,890,g,35,g,0,g,0,g,0,g,0,g,35,g
+979,peter piper pizza,louisiana honey hot bone in w ranch,134,g,420,mg,1550,g,28,g,61,g,27,g,0,g,1,g,25,g
+980,peter piper pizza,louisiana honey hot boneless w ranch,95,g,440,mg,2700,g,75,g,47,g,15,g,0,g,1,g,25,g
+981,peter piper pizza,mac and pepperoni w breadsticks,91,g,100,mg,4390,g,168,g,52,g,27,g,0.5,g,6,g,16,g
+982,peter piper pizza,mandarin cranberry salad small,6,g,0,mg,55,g,26,g,4,g,0.5,g,0,g,5,g,18,g
+983,peter piper pizza,mango habanero sauce,0,g,0,mg,1530,g,108,g,0,g,0,g,0,g,0,g,72,g
+984,peter piper pizza,mango habanero bone in w ranch,134,g,420,mg,1970,g,77,g,61,g,27,g,0,g,1,g,49,g
+985,peter piper pizza,mango habanero boneless w ranch,95,g,440,mg,3130,g,123,g,47,g,15,g,0,g,1,g,49,g
+986,peter piper pizza,marinara dipping sauce,1,g,0,mg,1110,g,14,g,3,g,0,g,0,g,2,g,14,g
+987,peter piper pizza,meat supreme large slice,19,g,55,mg,970,g,39,g,18,g,8,g,0,g,2,g,4,g
+988,peter piper pizza,meat supreme medium slice,13,g,40,mg,680,g,28,g,13,g,6,g,0,g,1,g,3,g
+989,peter piper pizza,meat supreme personal slice,10,g,30,mg,460,g,19,g,9,g,4,g,0,g,1,g,1,g
+990,peter piper pizza,meat supreme xl slice,18,g,50,mg,890,g,34,g,16,g,8,g,0,g,2,g,3,g
+991,peter piper pizza,meatball extra large,30,g,65,mg,1130,g,8,g,30,g,10,g,0,g,5,g,0,g
+992,peter piper pizza,meatball large,24,g,55,mg,910,g,7,g,24,g,8,g,0,g,4,g,0,g
+993,peter piper pizza,meatball medium,18,g,40,mg,680,g,5,g,18,g,6,g,0,g,3,g,0,g
+994,peter piper pizza,meatball personal,6,g,15,mg,230,g,2,g,6,g,2,g,0,g,1,g,0,g
+995,peter piper pizza,meatball small,12,g,25,mg,450,g,3,g,12,g,4,g,0,g,2,g,0,g
+996,peter piper pizza,meaty ziti w breadsticks,78,g,160,mg,2740,g,79,g,65,g,31,g,0,g,8,g,14,g
+997,peter piper pizza,mild buffalo bone in,106,g,395,mg,2650,g,9,g,61,g,20,g,0,g,1,g,1,g
+998,peter piper pizza,mild buffalo boneless,67,g,415,mg,3810,g,56,g,47,g,7,g,0,g,1,g,1,g
+999,peter piper pizza,mild sauce,9,g,0,mg,2340,g,6,g,0,g,0,g,0,g,0,g,0,g

@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,bfree,stone baked pita bread,1,g,0,mg,240,g,24,g,3,g,0.5,g,0,g,5,g,2,g
+1,bfree,quinoa and chia seed wrap,2,g,0,mg,190,g,19,g,4,g,0,g,0,g,6,g,0.5,g
+2,bfree,stone baked pizza crust,2.5,g,0,mg,450,g,44,g,3,g,0.5,g,0,g,9,g,3,g
+3,bfree,sweet potato wrap,1,g,0,mg,190,g,18,g,2,g,0,g,0,g,6,g,4,g
+4,bfree,brown seeded sandwich loaf,0.8,g,0,mg,417,g,28.3,g,6.7,g,0,g,0,g,10,g,0,g
+5,bfree,soft white sandwich loaf,0.5,g,0,mg,180,g,16,g,3,g,0.1,g,0,g,4,g,0,g
+6,bfree,avocado wraps,3,g,0,mg,200,g,15,g,6,g,0.4,g,0,g,6,g,0.5,g
+7,bfree,baguettes white demi,2,g,0,mg,450,g,57,g,5,g,0.5,g,0,g,7,g,4,g
+8,bfree,be wheat and gluten free,1.5,g,0,mg,200,g,17,g,3,g,0,g,0,g,5,g,0.5,g
+9,bfree,brown seeded loaf,1.86,g,0,mg,156,g,9.2,g,1.9,g,0.2,g,0,g,3.6,g,0.8,g
+10,bfree,brown seeded rolls,5,g,2.5,mg,320,g,21,g,6,g,0,g,0,g,5,g,1,g
+11,bfree,brown seeded sandwich loaf,2,g,0,mg,170,g,11,g,3,g,0,g,0,g,3,g,0.5,g
+12,bfree,burger buns,3.5,g,0,mg,270,g,27,g,1,g,1.3,g,0,g,2,g,0.5,g
+13,bfree,fajita kit,1.3,g,0,mg,400,g,23,g,3,g,0.4,g,0,g,5.7,g,2.4,g
+14,bfree,grilled panini rolls,3.5,g,0,mg,280,g,28,g,1,g,1.4,g,0,g,2,g,0.5,g
+15,bfree,multi grain wraps,1.5,g,0,mg,220,g,16,g,2,g,0.3,g,0,g,6,g,1,g
+16,bfree,multigrain wrap,1.2,g,0,mg,252,g,17.9,g,2.4,g,0.4,g,0,g,3.9,g,3.9,g
+17,bfree,multiseed bagels,2,g,0,mg,430,g,41,g,3,g,0,g,0,g,5,g,2,g
+18,bfree,oaty loaf,2.9,g,0,mg,280,g,14,g,2.8,g,0.6,g,0,g,4.7,g,0,g
+19,bfree,pita breads stone baked,1,g,0,mg,240,g,24,g,3,g,0.5,g,0,g,5,g,2,g
+20,bfree,pitta pockets,0.6,g,0,mg,160,g,14,g,1.7,g,0.2,g,0,g,2.9,g,1.2,g
+21,bfree,pizza crusts hand stretched,2.5,g,0,mg,450,g,44,g,3,g,0.5,g,0,g,9,g,3,g
+22,bfree,quinoa and chia seed wrap,2.4,g,0,mg,200,g,15.1,g,3.2,g,0.6,g,0,g,4.8,g,2.2,g
+23,bfree,quinoa and chia seed wraps,2.3,g,0,mg,189,g,14.2,g,3.1,g,0.3,g,0,g,5.5,g,0.9,g
+24,bfree,quinoa and chia seed wraps with teff seeds and flaxseeds,2.5,g,0,mg,190,g,13,g,5,g,0,g,0,g,6,g,0.5,g
+25,bfree,sandwich loaf,2,g,0,mg,180,g,14,g,3,g,0,g,0,g,4,g,0,g
+26,bfree,soft white dinner rolls,1,g,0,mg,100,g,10,g,0,g,0.5,g,0,g,0.5,g,0,g
+27,bfree,soft white loaf,0,g,0,mg,180,g,13,g,3,g,0,g,0,g,3,g,0,g
+28,bfree,soft white rolls,1,g,0,mg,310,g,21,g,5,g,0,g,0,g,5,g,1,g
+29,bfree,soft white sandwich loaf,0.5,g,0,mg,230,g,16,g,3,g,0,g,0,g,5,g,0,g
+30,bfree,stone baked pitta breads,1.1,g,0,mg,240,g,24,g,2.9,g,0.3,g,0,g,5,g,2.1,g
+31,bfree,stone baked pizza bases,2.6,g,0,mg,440,g,44.3,g,3.2,g,0.5,g,0,g,9,g,3.2,g
+32,bfree,sweet potato wrap,1,g,0,mg,190,g,18,g,2,g,0,g,0,g,6,g,4,g
+33,bfree,sweet potato wraps,0.9,g,0,mg,200,g,17.5,g,1.9,g,0.2,g,0,g,4.6,g,4.2,g
+34,bfree,white loaf gluten free,1.5,g,0,mg,170,g,16,g,2,g,0.2,g,0,g,2,g,2,g
+35,bfree,white loaf gluten free sliced,0.5,g,0,mg,210,g,17,g,4,g,0,g,0,g,5,g,0.5,g
+36,bfree,white sandwich loaf,0,g,0,mg,180,g,13,g,3,g,0,g,0,g,3,g,0,g
+37,bfree,white sourdough loaf,1.5,g,0,mg,170,g,16,g,2,g,0.2,g,0,g,2,g,2,g
+38,bfree,wholegrain pita breads,1.5,g,0,mg,220,g,21,g,3,g,0.3,g,0,g,5,g,2,g
+39,bfree,wholegrain pitta bread,1.6,g,0,mg,240,g,20.7,g,3,g,0.3,g,0,g,4.5,g,2,g
+40,bfree,wraps quinoa and chia seed,2.3,g,0,mg,200,g,14.2,g,3.1,g,0.3,g,0,g,5.5,g,0.9,g
+41,bfree,wraps wheat and gluten free,1,g,0,mg,220,g,15.9,g,2.6,g,0.2,g,0,g,4.6,g,0.8,g
+42,big apple bagels my favorite muffin,plain bagel,2,g,0,mg,500,g,64,g,11,g,0.5,g,0,g,2,g,4,g
+43,big apple bagels my favorite muffin,sesame seed bagel,5,g,0,mg,500,g,66,g,13,g,1,g,0,g,3,g,4,g
+44,big apple bagels my favorite muffin,whole wheat bagel,2,g,0,mg,480,g,65,g,11,g,0.5,g,0,g,2,g,4,g
+45,big apple bagels my favorite muffin,swiss melt bagel,6,g,10,mg,530,g,64,g,15,g,3.5,g,0,g,2,g,4,g
+46,big apple bagels my favorite muffin,garlic parmesan bagel,3,g,5,mg,580,g,64,g,13,g,1,g,0,g,3,g,4,g
+47,big apple bagels my favorite muffin,garlic bagel,2.5,g,0,mg,500,g,64,g,11,g,0.5,g,0,g,2,g,4,g
+48,big apple bagels my favorite muffin,mfm spinach bagel,1.5,g,0,mg,550,g,66,g,11,g,0,g,0,g,2,g,9,g
+49,big apple bagels my favorite muffin,mfm cheddar bagel,6,g,15,mg,640,g,68,g,14,g,3,g,0,g,2,g,10,g
+50,big apple bagels my favorite muffin,strawberry bagel,1.5,g,0,mg,480,g,68,g,11,g,0.5,g,0,g,2,g,12,g
+51,big apple bagels my favorite muffin,mfm chocolate chip bagel,2.5,g,0,mg,470,g,64,g,11,g,1.5,g,0,g,4,g,12,g
+52,big apple bagels my favorite muffin,mfm honey wheat bagel,1.5,g,0,mg,480,g,71,g,12,g,0,g,0,g,4,g,11,g
+53,big apple bagels my favorite muffin,mfm egg bagel,1.5,g,5,mg,560,g,67,g,11,g,0,g,0,g,2,g,10,g
+54,big apple bagels my favorite muffin,mfm spinach and swiss bagel,6,g,10,mg,570,g,65,g,14,g,3,g,0,g,2,g,9,g
+55,big apple bagels my favorite muffin,tomato basil bagel,1.5,g,0,mg,500,g,63,g,11,g,0.5,g,0,g,3,g,4,g
+56,big apple bagels my favorite muffin,jalapeno bagel,7,g,15,mg,650,g,57,g,14,g,3.5,g,0,g,2,g,3,g
+57,big apple bagels my favorite muffin,mfm french toast bagel,3.5,g,5,mg,530,g,68,g,11,g,1.5,g,0,g,2,g,13,g
+58,big apple bagels my favorite muffin,mfm sourdough bagel,1,g,0,mg,500,g,64,g,11,g,0,g,0,g,4,g,9,g
+59,big apple bagels my favorite muffin,mfm pumpernickel bagel,1,g,0,mg,500,g,65,g,10,g,0,g,0,g,4,g,10,g
+60,big apple bagels my favorite muffin,mfm poppy seed bagel,4.5,g,0,mg,560,g,69,g,12,g,0.5,g,0,g,3,g,10,g
+61,big apple bagels my favorite muffin,mfm everything bagel,3,g,0,mg,1120,g,69,g,12,g,0,g,0,g,3,g,10,g
+62,big apple bagels my favorite muffin,mfm cinnamon sugar bagel,1.5,g,0,mg,560,g,74,g,11,g,0,g,0,g,3,g,16,g
+63,big apple bagels my favorite muffin,mfm everything wheat bagel,3,g,0,mg,1050,g,73,g,12,g,0,g,0,g,5,g,12,g
+64,big apple bagels my favorite muffin,mfm jalapeno cheddar bagel,6,g,15,mg,730,g,63,g,14,g,3,g,0,g,2,g,9,g
+65,big apple bagels my favorite muffin,mfm swiss bagel,6,g,10,mg,590,g,67,g,15,g,3,g,0,g,2,g,10,g
+66,big apple bagels my favorite muffin,mfm plain bagel,1.5,g,0,mg,560,g,67,g,11,g,0,g,0,g,2,g,10,g
+67,big apple bagels my favorite muffin,mfm blueberry bagel,1.5,g,0,mg,550,g,69,g,11,g,0,g,0,g,2,g,12,g
+68,big apple bagels my favorite muffin,mfm chicolate chip bagel,2.5,g,0,mg,470,g,64,g,11,g,1.5,g,0,g,4,g,12,g
+69,big apple bagels my favorite muffin,mfm sesame seed bagel,5,g,0,mg,560,g,69,g,12,g,0.5,g,0,g,3,g,10,g
+70,big apple bagels my favorite muffin,poppy seed bagel,4.5,g,0,mg,500,g,66,g,13,g,1,g,0,g,3,g,4,g
+71,big apple bagels my favorite muffin,mfm onion bagel,1.5,g,0,mg,560,g,73,g,12,g,0,g,0,g,3,g,12,g
+72,big apple bagels my favorite muffin,mfm parmesan bagel,5,g,10,mg,750,g,68,g,16,g,2.5,g,0,g,2,g,10,g
+73,big apple bagels my favorite muffin,mfm cinnamon raisin bagel,1.5,g,0,mg,520,g,69,g,11,g,0,g,0,g,3,g,13,g
+74,big apple bagels my favorite muffin,mfm jalapeno bagel,1.5,g,0,mg,640,g,62,g,10,g,0,g,0,g,2,g,9,g
+75,big apple bagels my favorite muffin,mfm pepper jack bagel,5,g,10,mg,730,g,63,g,13,g,2.5,g,0,g,2,g,9,g
+76,big apple bagels my favorite muffin,mfm parmesan garlic bagel,2.5,g,0,mg,610,g,70,g,13,g,0.5,g,0,g,2,g,10,g
+77,big apple bagels my favorite muffin,large chocolate chip muffin,39,g,80,mg,510,g,100,g,10,g,11,g,0,g,4,g,60,g
+78,big apple bagels my favorite muffin,large blueberry muffin,28,g,75,mg,460,g,78,g,7,g,5,g,0,g,2,g,44,g
+79,big apple bagels my favorite muffin,large deep dish apple pie muffin,22,g,45,mg,350,g,85,g,5,g,6,g,0,g,1,g,57,g
+80,big apple bagels my favorite muffin,large cinnamon crumb cake muffin,40,g,85,mg,510,g,107,g,8,g,12,g,0,g,1,g,68,g
+81,big apple bagels my favorite muffin,banana nut bagel,3.5,g,0,mg,460,g,65,g,11,g,0.5,g,0,g,3,g,7,g
+82,big apple bagels my favorite muffin,mini blueberry muffin,4.5,g,10,mg,70,g,12,g,1,g,1,g,0,g,0,g,7,g
+83,big apple bagels my favorite muffin,large boston cream pie muffin,33,g,75,mg,550,g,105,g,7,g,7,g,1,g,1,g,69,g
+84,big apple bagels my favorite muffin,honey oat bagel,2,g,0,mg,460,g,70,g,11,g,0.5,g,0,g,2,g,12,g
+85,big apple bagels my favorite muffin,large pumpkin cheesecake muffin,36,g,100,mg,430,g,61,g,7,g,13,g,0,g,1,g,37,g
+86,big apple bagels my favorite muffin,poppy seed pizzaah bread base twist,6,g,0,mg,760,g,99,g,18,g,1,g,0,g,5,g,7,g
+87,big apple bagels my favorite muffin,everything bagel,3,g,0,mg,1070,g,66,g,12,g,0.5,g,0,g,3,g,5,g
+88,big apple bagels my favorite muffin,large lemon poppy seed muffin,32,g,75,mg,500,g,90,g,8,g,6,g,0,g,2,g,54,g
+89,big apple bagels my favorite muffin,mini cinnamon crumb cake muffin,6,g,15,mg,75,g,16,g,1,g,2,g,0,g,0,g,10,g
+90,big apple bagels my favorite muffin,large banana nut muffin,38,g,65,mg,400,g,71,g,9,g,6,g,0,g,3,g,39,g
+91,big apple bagels my favorite muffin,large orange cranberry muffin,33,g,85,mg,540,g,91,g,8,g,6,g,0,g,1,g,53,g
+92,big apple bagels my favorite muffin,mini banana nut muffin,7,g,10,mg,65,g,12,g,2,g,1,g,0,g,1,g,6,g
+93,big apple bagels my favorite muffin,large double chocolate muffin,37,g,0,mg,700,g,100,g,9,g,9,g,0,g,6,g,57,g
+94,big apple bagels my favorite muffin,blueberry bagel,2,g,0,mg,490,g,65,g,11,g,0.5,g,0,g,2,g,6,g
+95,big apple bagels my favorite muffin,cinnamon raisin bagel,1.5,g,0,mg,470,g,68,g,11,g,0.5,g,0,g,3,g,10,g
+96,big apple bagels my favorite muffin,large carrot cake muffin,42,g,95,mg,490,g,112,g,9,g,13,g,0,g,3,g,77,g
+97,big apple bagels my favorite muffin,large banana nut chocolate chip muffin,38,g,75,mg,460,g,92,g,10,g,9,g,0,g,4,g,53,g
+98,big apple bagels my favorite muffin,sesame seed pizzaah bread base twist,6,g,0,mg,750,g,99,g,18,g,1.5,g,0,g,4,g,6,g
+99,big apple bagels my favorite muffin,large chocolate cheesecake muffin,38,g,45,mg,540,g,70,g,8,g,14,g,0,g,4,g,42,g
+100,big apple bagels my favorite muffin,egg bagel,2,g,5,mg,500,g,63,g,11,g,0.5,g,0,g,2,g,3,g
+101,big apple bagels my favorite muffin,large new york almond cheesecake muffin,41,g,105,mg,400,g,74,g,8,g,16,g,0.5,g,1,g,49,g
+102,big apple bagels my favorite muffin,large strawberry cheesecake muffin,31,g,85,mg,400,g,67,g,7,g,12,g,0,g,1,g,46,g
+103,big apple bagels my favorite muffin,everything pizzaah bread base twist,4,g,0,mg,1320,g,99,g,18,g,1,g,0,g,4,g,7,g
+104,big apple bagels my favorite muffin,mini pumpkin spice muffin,4.5,g,10,mg,70,g,12,g,1,g,1,g,0,g,0,g,6,g
+105,big apple bagels my favorite muffin,large georgia peach muffin,27,g,70,mg,390,g,82,g,7,g,6,g,0,g,2,g,48,g
+106,big apple bagels my favorite muffin,rotella rye reuben bread,3,g,0,mg,440,g,38,g,8,g,0,g,0,g,4,g,2,g
+107,big apple bagels my favorite muffin,cinnamon laced apple pie bagel,3.5,g,0,mg,470,g,63,g,10,g,2,g,0,g,2,g,8,g
+108,big apple bagels my favorite muffin,large raspberry amaretto muffin,28,g,70,mg,470,g,91,g,7,g,5,g,0,g,1,g,57,g
+109,big apple bagels my favorite muffin,large blueberry cheesecake muffin,36,g,95,mg,430,g,60,g,7,g,13,g,0,g,1,g,38,g
+110,big apple bagels my favorite muffin,asiago melt bagel,6,g,15,mg,650,g,65,g,15,g,3.5,g,0,g,2,g,4,g
+111,big apple bagels my favorite muffin,mini cinnamon swirl cheesecake muffin,5,g,15,mg,55,g,9,g,1,g,2,g,0,g,0,g,6,g
+112,big apple bagels my favorite muffin,pumpernickel bagel,5,g,0,mg,410,g,65,g,14,g,0.5,g,0,g,12,g,3,g
+113,big apple bagels my favorite muffin,salt bagel,2,g,0,mg,3330,g,64,g,11,g,0.5,g,0,g,2,g,4,g
+114,big apple bagels my favorite muffin,mini deep dish apple pie muffin,3.5,g,10,mg,40,g,14,g,1,g,1.5,g,0,g,0,g,9,g
+115,big apple bagels my favorite muffin,mini chocolate chip muffin,6,g,10,mg,75,g,16,g,2,g,2,g,0,g,1,g,10,g
+116,big apple bagels my favorite muffin,large corn bread muffin,36,g,80,mg,510,g,94,g,9,g,7,g,0,g,2,g,45,g
+117,big apple bagels my favorite muffin,8 grain bagel,2,g,0,mg,510,g,65,g,11,g,0.5,g,0,g,2,g,4,g
+118,big apple bagels my favorite muffin,large cinnamon swirl cheesecake muffin,42,g,100,mg,450,g,70,g,8,g,16,g,0,g,1,g,47,g
+119,big apple bagels my favorite muffin,mfm wheat bagel,1.5,g,0,mg,560,g,67,g,11,g,0,g,0,g,4,g,10,g
+120,big apple bagels my favorite muffin,mini lemon poppy seed muffin,4.5,g,10,mg,70,g,12,g,1,g,1,g,0,g,0,g,7,g
+121,big apple bagels my favorite muffin,mini double chocolate muffin,6,g,0,mg,105,g,17,g,2,g,2,g,0,g,1,g,10,g
+122,big apple bagels my favorite muffin,cinnamon danish bagel,3.5,g,0,mg,460,g,68,g,11,g,0.5,g,0,g,3,g,10,g
+123,big apple bagels my favorite muffin,large cherry cheesecake muffin,35,g,95,mg,450,g,69,g,7,g,13,g,0,g,1,g,46,g
+124,big apple bagels my favorite muffin,mini orange cranberry muffin,5,g,15,mg,80,g,13,g,1,g,1,g,0,g,0,g,7,g
+125,big apple bagels my favorite muffin,rotella open top wheat berry bread,3,g,0,mg,440,g,44,g,8,g,0,g,0,g,2,g,4,g
+126,big apple bagels my favorite muffin,french toast bagel,4,g,5,mg,480,g,65,g,11,g,2,g,0,g,2,g,7,g
+127,big apple bagels my favorite muffin,cinnamon bun bagel,4,g,0,mg,480,g,66,g,11,g,2,g,0,g,2,g,9,g
+128,big apple bagels my favorite muffin,onion bagel,2,g,0,mg,500,g,70,g,12,g,0.5,g,0,g,3,g,7,g
+129,big apple bagels my favorite muffin,rotella open top white dinner loaf,6,g,0,mg,340,g,33,g,7,g,1,g,0,g,1,g,2,g
+130,big apple bagels my favorite muffin,large double berry crumb muffin,27,g,70,mg,430,g,73,g,7,g,5,g,0,g,2,g,41,g
+131,big apple bagels my favorite muffin,mini blueberry cheesecake muffin,4.5,g,15,mg,55,g,8,g,1,g,2,g,0,g,0,g,5,g
+132,big apple bagels my favorite muffin,plain pizzaah bread base twist,2.5,g,0,mg,750,g,97,g,17,g,1,g,0,g,3,g,6,g
+133,big apple bagels my favorite muffin,mini chocolate cheesecake muffin,5,g,5,mg,65,g,8,g,1,g,2,g,0,g,0,g,5,g
+134,big apple bagels my favorite muffin,cheddar herb bagel,7,g,15,mg,610,g,57,g,14,g,3.5,g,0,g,2,g,3,g
+135,big apple bagels my favorite muffin,large pumpkin spice muffin,26,g,70,mg,380,g,86,g,7,g,6,g,0,g,2,g,51,g
+136,big apple bagels my favorite muffin,cheddar herb twist,19,g,50,mg,1100,g,87,g,27,g,10,g,0.5,g,4,g,5,g
+137,big apple bagels my favorite muffin,chocolate chip bagel,3.5,g,0,mg,480,g,65,g,11,g,1.5,g,0,g,3,g,7,g
+138,big apple bagels my favorite muffin,cheddar melt bagel,6,g,15,mg,590,g,65,g,15,g,3,g,0,g,2,g,4,g
+139,big apple bagels my favorite muffin,cinnamon sugar bagel,2,g,0,mg,500,g,78,g,11,g,0.5,g,0,g,3,g,16,g
+140,big apple bagels my favorite muffin,mfm cheddar twist,19,g,50,mg,1100,g,87,g,27,g,10,g,0.5,g,4,g,5,g
+141,big apple bagels my favorite muffin,mocha icepresso,16,g,10,mg,115,g,54,g,3,g,14,g,0,g,1,g,39,g
+142,big apple bagels my favorite muffin,berry refresher island oasis smoothie,0,g,0,mg,60,g,85,g,2,g,0,g,0,g,3,g,72,g
+143,big apple bagels my favorite muffin,sweetduet brewsters choose one strawberry smoothie,3,g,40,mg,30,g,41,g,6,g,3,g,0,g,2,g,31,g
+144,big apple bagels my favorite muffin,black coffee,0,g,0,mg,6,g,0.6,g,0,g,0,g,0,g,0,g,0,g
+145,big apple bagels my favorite muffin,cafe mocha,10.4,g,32,mg,72,g,44.8,g,4,g,6.4,g,0,g,0,g,41.6,g
+146,big apple bagels my favorite muffin,creme caramel latte,12,g,44,mg,224,g,55.2,g,12,g,7.2,g,0,g,0,g,50.4,g
+147,big apple bagels my favorite muffin,hot chocolate drink,12,g,40,mg,224,g,70.4,g,15.2,g,7.2,g,0,g,0,g,68,g
+148,big apple bagels my favorite muffin,hawaiian cooler island oasis smoothie,0,g,0,mg,0,g,90,g,0,g,0,g,0,g,9,g,72,g
+149,big apple bagels my favorite muffin,turtle mocha,15.2,g,48,mg,288,g,140.1,g,11.2,g,9.6,g,0.4,g,0,g,127.3,g
+150,big apple bagels my favorite muffin,torani mango licious 2 milk smoothie,2.5,g,10,mg,70,g,108,g,4,g,1.5,g,0,g,1,g,106,g
+151,big apple bagels my favorite muffin,cafe caramella,15.2,g,48,mg,152,g,46.4,g,3.2,g,9.6,g,0.4,g,0,g,38.4,g
+152,big apple bagels my favorite muffin,java chip icepresso,16,g,10,mg,105,g,41,g,2,g,13,g,0,g,2,g,28,g
+153,big apple bagels my favorite muffin,cappuccino,7.2,g,28,mg,184,g,18.4,g,12,g,4.8,g,0,g,0,g,17.6,g
+154,big apple bagels my favorite muffin,sweetduet brewsters banana crunch smoothie,8,g,40,mg,85,g,121,g,11,g,3,g,0,g,6,g,66,g
+155,big apple bagels my favorite muffin,sweetduet brewsters chocolate avalanche smoothie,20,g,20,mg,165,g,90,g,10,g,13,g,0,g,5,g,75,g
+156,big apple bagels my favorite muffin,torani razzle dazzle skim milk smothie,0,g,0,mg,75,g,100,g,4,g,0,g,0,g,0,g,98,g
+157,big apple bagels my favorite muffin,mocha,8,g,28,mg,192,g,67.2,g,12,g,4.8,g,0,g,0,g,63.2,g
+158,big apple bagels my favorite muffin,islan d berry island oasis smoothie,0,g,0,mg,0,g,90,g,0,g,0,g,0,g,11,g,72,g
+159,big apple bagels my favorite muffin,sweetduet brewsters choose one banana smoothie,4,g,40,mg,30,g,57,g,7,g,3,g,0,g,3,g,39,g
+160,big apple bagels my favorite muffin,cinnamon toast latte,7.2,g,28,mg,176,g,48.8,g,11.2,g,4,g,0,g,0,g,47.2,g
+161,big apple bagels my favorite muffin,sweetduet brewsters berry trio smoothie,0,g,0,mg,115,g,49,g,3,g,0,g,0,g,5,g,36,g
+162,big apple bagels my favorite muffin,white chocolate mocha,8,g,28,mg,320,g,64.8,g,13.6,g,4.8,g,0,g,0,g,63.2,g
+163,big apple bagels my favorite muffin,tropical passion island oasis smoothie,0,g,0,mg,0,g,89,g,0,g,0,g,0,g,8,g,72,g
+164,big apple bagels my favorite muffin,banana berry freeze island oasis smoothie,0,g,0,mg,0,g,88,g,0,g,0,g,0,g,4,g,73,g
+165,big apple bagels my favorite muffin,sweetduet brewsters peanut butter cup smoothie,46,g,15,mg,430,g,91,g,25,g,15,g,0,g,9,g,69,g
+166,big apple bagels my favorite muffin,tropical bling island oasis smoothie,1.5,g,0,mg,10,g,88,g,0,g,1.5,g,0,g,3,g,74,g
+167,big apple bagels my favorite muffin,caramel decadence icepresso,15,g,15,mg,160,g,58,g,2,g,13,g,0,g,0,g,37,g
+168,big apple bagels my favorite muffin,berry passionate island oasis smoothied,0,g,0,mg,60,g,85,g,2,g,0,g,0,g,3,g,71,g
+169,big apple bagels my favorite muffin,latte,8,g,32,mg,192,g,20,g,12.8,g,4.8,g,0,g,0,g,18.4,g
+170,big apple bagels my favorite muffin,vanilla creme latte,7.2,g,28,mg,176,g,51.2,g,11.2,g,4,g,0,g,0,g,49.6,g
+171,big apple bagels my favorite muffin,sweetduet brewsters one blackberry smoothie,4,g,40,mg,30,g,49,g,7,g,3,g,0,g,6,g,37,g
+172,big apple bagels my favorite muffin,chai latte,4.8,g,20,mg,168,g,52.8,g,8,g,2.8,g,0,g,0,g,47.2,g
+173,big apple bagels my favorite muffin,banana bash island oasis smoothie,0,g,0,mg,60,g,87,g,2,g,0,g,0,g,2,g,72,g
+174,big apple bagels my favorite muffin,sweetduet brewsters choose one blueberry smoothie,5,g,40,mg,0,g,45,g,6,g,3,g,0,g,3,g,34,g
+175,big apple bagels my favorite muffin,torani razzle dazzle 2 milk smoothie,2.5,g,10,mg,80,g,99,g,4,g,1.5,g,0,g,0,g,98,g
+176,big apple bagels my favorite muffin,sweetduet brewsters cookies and cream smoothie,10,g,45,mg,210,g,71,g,8,g,6,g,0,g,0,g,59,g
+177,big apple bagels my favorite muffin,sweetduet brewsters choose one raspberry smoothie,5,g,40,mg,30,g,45,g,7,g,3,g,0,g,7,g,30,g
+178,big apple bagels my favorite muffin,cafe white mocha,10.4,g,32,mg,168,g,43.2,g,4.8,g,6.4,g,0,g,0,g,41.6,g
+179,big apple bagels my favorite muffin,sweetduet brewsters peanut butter crunch smoothie,40,g,40,mg,380,g,87,g,26,g,10,g,0,g,8,g,31,g
+180,big apple bagels my favorite muffin,torani mango licious skim milk smoothie,0,g,0,mg,65,g,108,g,4,g,0,g,0,g,1,g,106,g
+181,big apple bagels my favorite muffin,icepresso,18,g,10,mg,200,g,60,g,2,g,17,g,0,g,0,g,37,g
+182,big apple bagels my favorite muffin,torani berry berserk skim milk smoothie,0,g,0,mg,70,g,106,g,4,g,0,g,0,g,0,g,104,g
+183,big apple bagels my favorite muffin,strawberry banana island oasis smoothie,0,g,0,mg,60,g,86,g,2,g,0,g,0,g,3,g,72,g
+184,big apple bagels my favorite muffin,torani berry berserk 2 milk smoothie,2.5,g,10,mg,75,g,105,g,4,g,1.5,g,0,g,0,g,3,g
+185,big apple bagels my favorite muffin,sweetduet brewsters banana strawberry duet smoothie,0,g,0,mg,114,g,55,g,3,g,0,g,0,g,4,g,39,g
+186,big apple bagels my favorite muffin,espresso coffee,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,0,g
+187,big apple bagels my favorite muffin,northern omelette breakfast sandwich filling,32,g,2958,mg,680,g,3,g,17,g,12,g,0,g,0,g,2,g
+188,big apple bagels my favorite muffin,lox and plain cream cheese breakfast sandwich filling,23,g,80,mg,220,g,6,g,15,g,14,g,0,g,1,g,2,g
+189,big apple bagels my favorite muffin,bacon southern tradition breakfast sandwich filling,12,g,260,mg,410,g,1,g,12,g,5,g,0,g,0,g,1,g
+190,big apple bagels my favorite muffin,pork sausage southern tradition breakfast sandwich filling,32,g,295,mg,680,g,2,g,17,g,12,g,0,g,0,g,1,g
+191,big apple bagels my favorite muffin,just veggie breakfast sandwich filling,6,g,240,mg,75,g,3,g,7,g,2,g,0,g,1,g,1,g
+192,big apple bagels my favorite muffin,mfm french toast egg breakfast bagel sandwich,55,g,350,mg,1320,g,117,g,27,g,26,g,1,g,2,g,35,g
+193,big apple bagels my favorite muffin,ham breakfast sandwich filling,11,g,265,mg,720,g,3,g,14,g,4.5,g,0,g,0,g,2,g
+194,big apple bagels my favorite muffin,breakfast ranchero filling,15,g,260,mg,610,g,3,g,13,g,6,g,0,g,1,g,1,g
+195,big apple bagels my favorite muffin,french toast with egg bagel breakfast sandwich,55,g,345,mg,1210,g,107,g,26,g,26,g,1,g,2,g,28,g
+196,big apple bagels my favorite muffin,plain cream cheese filling for blt breakfast sandwich,12,g,35,mg,210,g,4,g,5,g,7,g,0,g,1,g,2,g
+197,big apple bagels my favorite muffin,start fresh breakfast sandwich filling,10,g,50,mg,490,g,4,g,18,g,4,g,0,g,1,g,2,g
+198,big apple bagels my favorite muffin,ham southern tradition breakfast filling,11,g,265,mg,720,g,3,g,14,g,4.5,g,0,g,0,g,2,g
+199,big apple bagels my favorite muffin,apple cinnamon cream cheese spread,11,g,30,mg,120,g,6,g,2,g,7,g,0,g,0,g,3,g
+200,big apple bagels my favorite muffin,blueberry cream cheese spread,11,g,30,mg,120,g,6,g,2,g,7,g,0,g,0,g,4,g
+201,big apple bagels my favorite muffin,plain cream cheese spread,13,g,35,mg,140,g,2,g,2,g,9,g,0,g,0,g,0,g
+202,big apple bagels my favorite muffin,maple walnut cream cheese spread,14,g,30,mg,115,g,6,g,2,g,8,g,0,g,0,g,4,g
+203,big apple bagels my favorite muffin,jalapeno cream cheese spread,11,g,30,mg,260,g,2,g,2,g,8,g,0,g,0,g,0,g
+204,big apple bagels my favorite muffin,tomato basil cream cheese spread,13,g,35,mg,135,g,3,g,2,g,9,g,0,g,0,g,1,g
+205,big apple bagels my favorite muffin,salsa cream cheese spread,12,g,35,mg,170,g,2,g,2,g,9,g,0,g,0,g,0,g
+206,big apple bagels my favorite muffin,chocolate chip cream spread,12,g,30,mg,115,g,7,g,2,g,8,g,0,g,0,g,5,g
+207,big apple bagels my favorite muffin,lox cream cheese spread,13,g,35,mg,130,g,2,g,3,g,8,g,0,g,0,g,0,g
+208,big apple bagels my favorite muffin,dill garlic cream cheese spread,14,g,35,mg,140,g,2,g,2,g,9,g,0,g,0,g,0,g
+209,big apple bagels my favorite muffin,vegetable cream cheese spread,11,g,30,mg,120,g,2,g,2,g,8,g,0,g,0,g,1,g
+210,big apple bagels my favorite muffin,walnut raisin cream cheese spread,12,g,30,mg,115,g,5,g,2,g,8,g,0,g,0,g,3,g
+211,big apple bagels my favorite muffin,scallion cream cheese spread,12,g,30,mg,125,g,2,g,2,g,8,g,0,g,0,g,0,g
+212,big apple bagels my favorite muffin,lite plain cream cheese spread,9,g,25,mg,140,g,2,g,4,g,6,g,0,g,0,g,1,g
+213,big apple bagels my favorite muffin,honey cinnamon cream cheese spread,13,g,35,mg,130,g,6,g,2,g,9,g,0,g,0,g,4,g
+214,big apple bagels my favorite muffin,cranberry walnut cream cheese spread,12,g,30,mg,110,g,6,g,2,g,7,g,0,g,0,g,4,g
+215,big apple bagels my favorite muffin,cucumber cream cheese spread,10,g,25,mg,100,g,2,g,2,g,7,g,0,g,0,g,0,g
+216,big apple bagels my favorite muffin,cheddar and bacon cream cheese spread,13,g,35,mg,150,g,2,g,3,g,9,g,0,g,0,g,1,g
+217,big apple bagels my favorite muffin,strawberry cream cheese spread,11,g,30,mg,120,g,5,g,2,g,7,g,0,g,0,g,4,g
+218,big apple bagels my favorite muffin,lite vegetable cream cheese spread,7,g,20,mg,120,g,2,g,3,g,4.5,g,0,g,0,g,1,g
+219,big apple bagels my favorite muffin,basic recipe bagel chips,10,g,30,mg,600,g,36,g,7,g,2.5,g,0,g,2,g,4,g
+220,big apple bagels my favorite muffin,add on chicken breast for salads,4.5,g,50,mg,530,g,3,g,14,g,1.5,g,0,g,0,g,2,g
+221,big apple bagels my favorite muffin,calypso grilled chicken salad with balsamic vinaigrette,44,g,50,mg,1160,g,38,g,24,g,6,g,0,g,7,g,25,g
+222,big apple bagels my favorite muffin,mediterranean bread salad with balsamic vinaigrette dressing,41,g,70,mg,2530,g,63,g,31,g,15,g,1,g,6,g,22,g
+223,big apple bagels my favorite muffin,cafe caesar salad with creamy caesar dressing,17,g,25,mg,590,g,10,g,8,g,4.5,g,0,g,2,g,2,g
+224,big apple bagels my favorite muffin,garden mix cafe salad with lite italian dressing,1.5,g,0,mg,670,g,10,g,2,g,0,g,0,g,2,g,6,g
+225,big apple bagels my favorite muffin,chicken club salad with ranch dressing,59,g,110,mg,2040,g,18,g,35,g,17,g,0.5,g,4,g,10,g
+226,big apple bagels my favorite muffin,caesar salad with creamy caesar dressing,34,g,50,mg,1180,g,19,g,15,g,9,g,0.5,g,4,g,4,g
+227,big apple bagels my favorite muffin,garden mix salad with lite italian dressing,3,g,0,mg,1350,g,20,g,4,g,0,g,0,g,5,g,13,g
+228,big apple bagels my favorite muffin,triple decker california club sandwich filling,25,g,8,mg,1640,g,8,g,27,g,9,g,0.5,g,2,g,4,g
+229,big apple bagels my favorite muffin,chicken caesar sandwich filling,16,g,70,mg,1220,g,8,g,20,g,5,g,0,g,2,g,4,g
+230,big apple bagels my favorite muffin,toasted roast beef grinder sandwich filling,12,g,60,mg,1080,g,4,g,21,g,6,g,0,g,1,g,2,g
+231,big apple bagels my favorite muffin,triple decker classic club sandwich filling,54,g,95,mg,1900,g,6,g,29,g,12,g,1,g,1,g,4,g
+232,big apple bagels my favorite muffin,classic turkey sandwich filling,13,g,40,mg,940,g,4,g,14,g,3,g,0,g,1,g,3,g
+233,big apple bagels my favorite muffin,tuna salad sandwich filling,22,g,30,mg,900,g,12,g,9,g,3.5,g,0,g,2,g,9,g
+234,big apple bagels my favorite muffin,holey guacamole sandwich filling,4.5,g,35,mg,900,g,6,g,14,g,1.5,g,0,g,2,g,3,g
+235,big apple bagels my favorite muffin,mediterranean veg out sandwich filling,19,g,50,mg,490,g,7,g,4,g,13,g,0,g,2,g,3,g
+236,big apple bagels my favorite muffin,big apple club sandwich filling,20,g,55,mg,1410,g,6,g,18,g,6,g,0,g,1,g,5,g
+237,big apple bagels my favorite muffin,blt sandwich filling,15,g,20,mg,540,g,3,g,5,g,3,g,0,g,1,g,2,g
+238,big apple bagels my favorite muffin,roma italian sandwich filling,22,g,70,mg,1820,g,9,g,21,g,8,g,0,g,1,g,6,g
+239,big apple bagels my favorite muffin,chicken bruschetta pizzaah filling,27,g,105,mg,1370,g,19,g,36,g,15,g,0,g,7,g,7,g
+240,big apple bagels my favorite muffin,bruschetta pizzaah filling,23,g,55,mg,840,g,16,g,22,g,13,g,0,g,7,g,5,g
+241,big apple bagels my favorite muffin,grilled chicken sandwich filling,15,g,55,mg,920,g,6,g,15,g,3,g,0,g,1,g,4,g
+242,big apple bagels my favorite muffin,sausage pizzaah filling,38,g,80,mg,1360,g,16,g,28,g,17,g,1,g,6,g,6,g
+243,big apple bagels my favorite muffin,cheese pizzaah filling,7,g,20,mg,490,g,4,g,10,g,4,g,0,g,1,g,2,g
+244,big apple bagels my favorite muffin,turkey club sandwich filling,20,g,60,mg,1280,g,5,g,19,g,6,g,0,g,1,g,3,g
+245,big apple bagels my favorite muffin,turkey havarti sandwich filling,22,g,90,mg,1150,g,6,g,22,g,14,g,0,g,1,g,3,g
+246,big apple bagels my favorite muffin,spicy italiantoaster sandwich filling,26,g,80,mg,2280,g,15,g,25,g,10,g,0.5,g,2,g,8,g
+247,big apple bagels my favorite muffin,ham and cheddar sandwich filling,20,g,55,mg,1340,g,7,g,16,g,6,g,0,g,1,g,5,g
+248,big apple bagels my favorite muffin,toasted deli style turkey sandwich filling,20,g,80,mg,1040,g,7,g,26,g,10,g,0,g,1,g,5,g
+249,big apple bagels my favorite muffin,pepperoni pizzaah filling,26,g,65,mg,1390,g,16,g,27,g,12,g,1,g,6,g,5,g
+250,big apple bagels my favorite muffin,toasted cafe chicken melt sandwich filling,29,g,110,mg,1470,g,13,g,32,g,11,g,0.5,g,1,g,11,g
+251,big apple bagels my favorite muffin,kick n roast beef sandwich filling,15,g,45,mg,1080,g,7,g,14,g,3.5,g,0,g,1,g,6,g
+252,biggby,everything bagel,2,g,0,mg,540,g,56,g,11,g,0,g,0,g,2,g,2,g
+253,biggby,asiago bagel,4,g,5,mg,650,g,43,g,10,g,2,g,0,g,2,g,3,g
+254,biggby,plain bagel,0.5,g,0,mg,420,g,56,g,11,g,0,g,0,g,2,g,1,g
+255,biggby,cinnamon vanilla bagel,3,g,0,mg,400,g,56,g,9,g,0,g,0,g,2,g,14,g
+256,biggby,honey wheat bagel,0.5,g,0,mg,410,g,57,g,10,g,0,g,0,g,2,g,5,g
+257,biggby,donut holes,4,g,2,mg,63,g,9,g,1,g,2,g,0,g,0,g,5,g
+258,biggby,blueberry muffin,28,g,110,mg,480,g,64,g,6,g,5,g,0,g,0,g,36,g
+259,biggby,tuxedo muffin,28,g,110,mg,460,g,68,g,6,g,8,g,0,g,2,g,38,g
+260,biggby,coffee cake muffin,30,g,100,mg,460,g,74,g,6,g,7,g,0,g,0,g,42,g
+261,biggby,chocolate chunk cookie,23,g,30,mg,650,g,66,g,1,g,14,g,0,g,2,g,36,g
+262,biggby,banana nut muffin,34,g,100,mg,400,g,72,g,8,g,14,g,0,g,2,g,42,g
+263,biggby,reduced calorie sugar free vanilla bean latte with nonfat milk without whipped cream,0,g,7,mg,155,g,18.7,g,12.7,g,0,g,0,g,0,g,15.5,g
+264,biggby,frozen mocha mocha latte with whipped cream,17,g,33,mg,98,g,89.5,g,2.5,g,11.5,g,0,g,1,g,78.5,g
+265,biggby,reduced calorie sugar free iced mocha mocha latte with nonfat milk without whipped cream,0.0001,g,8,mg,447,g,57.2,g,16.6,g,0,g,0,g,2.5,g,17.2,g
+266,biggby,reduced calorie sugar free frozen mocha mocha latte without whipped cream,3,g,0,mg,141,g,48.5,g,2.3,g,2.5,g,0,g,1,g,25,g
+267,biggby,frozen red bull creme freeze smoothie without whipped cream,6.3,g,0,mg,263,g,88,g,2.5,g,5,g,0,g,0,g,77,g
+268,biggby,reduced calorie hot chai latte with nonfat milk without whipped cream,0,g,9,mg,212,g,45.5,g,16.8,g,0,g,0,g,0,g,37.5,g
+269,biggby,iced teddy bear latte with 2 milk and whipped cream,10.5,g,41,mg,231,g,48.6,g,12.9,g,7,g,0,g,0,g,40.6,g
+270,biggby,reduced calorie hot caramel marvel latte with nonfat milk without whipped cream,1.6,g,12,mg,251,g,43,g,14,g,1,g,0,g,0,g,34,g
+271,biggby,hot vanilla bean latte with 2 milk and whipped cream,11.8,g,51,mg,155,g,38.7,g,12.7,g,7.4,g,0,g,0,g,38.7,g
+272,biggby,hot caramel marvel latte with 2 milk and whipped cream,16.8,g,67,mg,331,g,69,g,14,g,10.7,g,0,g,0,g,55,g
+273,biggby,hot butter bear latte with 2 milk and whipped cream,16,g,65,mg,291,g,69,g,14,g,10.2,g,0,g,0,g,58.4,g
+274,biggby,reduced calorie sugar free hot mocha caramel latte with nonfat milk without whipped cream,0.8,g,10,mg,321,g,46,g,15,g,0.5,g,0,g,1,g,25.6,g
+275,biggby,frozen teddy bear latte with whipped cream,13.6,g,35,mg,111,g,64,g,1.8,g,9.5,g,0,g,0,g,50.5,g
+276,biggby,reduced calorie sugar free frozen vanilla bean latte without whipped cream,2.5,g,0,mg,25,g,30,g,1,g,2,g,0,g,0,g,20,g
+277,biggby,frozen strawberry shortcake creme freeze smoothie with whipped cream,16,g,33,mg,63,g,109,g,2.5,g,11.5,g,0,g,0.6,g,97.4,g
+278,biggby,reduced calorie sugar free frozen mocha caramel latte without whipped cream,4,g,2,mg,126,g,52.5,g,1.8,g,3,g,0,g,0.5,g,33.5,g
+279,biggby,frozen caramel marvel latte with whipped cream,1.4,g,4,mg,11,g,6.3,g,0.1,g,1,g,0,g,0,g,4.8,g
+280,biggby,frozen butter bear latte with whipped cream and sugar,16.8,g,35,mg,103,g,90.3,g,2.5,g,12,g,0,g,0,g,76.7,g
+281,biggby,frozen banana berry creme freeze smoothie without whipped cream,7,g,0,mg,69,g,104,g,3.7,g,5.2,g,0,g,3.4,g,88.7,g
+282,biggby,reduced calorie hot butter bear latte with nonfat milk without whipped cream,1.1,g,11,mg,231,g,48.6,g,14,g,0.8,g,0,g,0,g,41.7,g
+283,biggby,frozen mango creme freeze smoothie without whipped cream,6.3,g,0,mg,63,g,158,g,2.5,g,5,g,0,g,0,g,141,g
+284,biggby,hot chai latte with 2 milk without whipped cream,9.3,g,47,mg,212,g,46.6,g,16.8,g,5.6,g,0,g,0,g,37.5,g
+285,biggby,frozen raspberry zinger creme freeze smoothie without whipped cream,6.3,g,0,mg,63,g,100,g,2.5,g,5,g,0,g,0.2,g,88.7,g
+286,biggby,reduced calorie sugar free hot mint mocha latte with nonfat milk without whipped cream,0,g,78,mg,336,g,52.7,g,15.5,g,0,g,0,g,1.5,g,28.7,g
+287,biggby,reduced calorie sugar free frozen butter bear latte without whipped cream,3.9,g,2,mg,73,g,51.5,g,1.3,g,3,g,0,g,0,g,39.4,g
+288,biggby,reduced calorie frozen caramel marvel latte without whipped cream,4.6,g,4,mg,111,g,56.5,g,1.3,g,3.5,g,0,g,0,g,42,g
+289,biggby,frozen chocolate chip cookie creme freeze smoothie with 2 milk and whipped cream,34.8,g,58,mg,260,g,145,g,11.5,g,21,g,0,g,1.5,g,116,g
+290,biggby,hot mint mocha latte with 2 milk and whipped cream,15.3,g,59,mg,224,g,67.2,g,14,g,8.7,g,0,g,1.5,g,65.7,g
+291,biggby,reduced calorie sugar free hot nutty buddy latte with nonfat milk without whipped cream,0,g,4,mg,98,g,11.5,g,7.7,g,0,g,0,g,0,g,9.4,g
+292,biggby,frozen white lightning latte with whipped cream,12.9,g,33,mg,111,g,65,g,2.3,g,9,g,0,g,0,g,52.5,g
+293,biggby,reduced calorie iced caramel marvel latte with non fat milk without whipped cream,1.5,g,11,mg,231,g,41,g,12.4,g,1,g,0,g,0,g,32,g
+294,biggby,frozen mocha caramel latte with whipped cream,17.3,g,35,mg,120,g,90,g,2.5,g,12,g,0,g,0.5,g,76,g
+295,biggby,frozen mint mocha latte with whipped cream,16.8,g,33,mg,89,g,89.6,g,2.5,g,11.5,g,0,g,0.8,g,78.8,g
+296,biggby,iced vanilla bean latte with 2 milk and whipped cream,7.8,g,32,mg,132,g,38.4,g,10.8,g,5.2,g,0,g,0,g,38.4,g
+297,biggby,reduced calorie sugar free hot hazelnut mocha latte with nonfat milk without whipped cream,0,g,8,mg,340,g,43,g,15.5,g,0,g,0,g,1.5,g,17.1,g
+298,biggby,reduced calorie iced teddy bear latte with nonfat milk without whipped cream,0.8,g,9,mg,231,g,42,g,13,g,0.5,g,0,g,0,g,34,g
+299,biggby,hot mocha mocha latte with 2 milk and whipped cream,1.6,g,6,mg,24,g,6.7,g,1.4,g,0.9,g,0,g,0.2,g,6.5,g
+300,biggby,reduced calorie hot teddy bear latte with nonfat milk without whipped cream,0.8,g,10,mg,251,g,44.1,g,14.5,g,0.5,g,0,g,0,g,36.1,g
+301,biggby,iced chocolate magic milk with 2 milk and whipped cream,20.3,g,76,mg,259,g,71.4,g,15.5,g,11.7,g,0,g,2,g,69.4,g
+302,biggby,orange creme freeze without whipped cream,6.3,g,0,mg,68,g,95.3,g,2.5,g,5,g,0,g,0,g,83.5,g
+303,biggby,iced lemonade,0.0001,g,0,mg,0,g,43.5,g,0,g,0,g,0,g,0,g,40.4,g
+304,biggby,iced butter bear latte with 2 milk and whipped cream,17.8,g,70,mg,211,g,53,g,12.4,g,11.4,g,0,g,0,g,46,g
+305,biggby,mellow hot chocolate with 2 milk and whipped cream,7,g,29,mg,309,g,72.4,g,16.9,g,4,g,0,g,1,g,66.4,g
+306,biggby,reduced calorie hot white lightning latte with nonfat milk without whipped cream,0,g,8,mg,251,g,45,g,15,g,0,g,0,g,0,g,38,g
+307,biggby,reduced calorie frozen teddy bear latte without whipped cream,4,g,2,mg,111,g,57.5,g,1.8,g,3,g,0,g,0,g,44,g
+308,biggby,reduced calorie sugar free frozen hot chocolate,1.6,g,1,mg,147,g,34.1,g,3.9,g,1.3,g,0,g,0.9,g,15.4,g
+309,biggby,cold brew black coffee without milk or whipped cream,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+310,biggby,reduced calorie iced white lightning latte with nonfat milk without whipped cream,0,g,7,mg,231,g,43.1,g,13.4,g,0,g,0,g,0,g,36.1,g
+311,biggby,hot coco marvel latte with 2 milk and whipped cream,16,g,65,mg,291,g,69.6,g,14,g,10.2,g,0,g,0,g,59,g
+312,biggby,reduced calorie sugar free iced mocha mocha latte with non fat milk without whipped cream,0,g,7,mg,371,g,47,g,14.4,g,0,g,0,g,2,g,15,g
+313,biggby,reduced calorie sugar free iced earl grey tea latte with nonfat milk without whipped cream,0,g,6,mg,138,g,17.8,g,11.3,g,0,g,0,g,0,g,13.8,g
+314,biggby,hot snickerdoodle latte with 2 milk and whipped cream,7,g,31,mg,291,g,71,g,14.8,g,4.8,g,0,g,0,g,62,g
+315,biggby,hot german mocha latte with 2 milk and whipped cream,15.7,g,62,mg,257,g,68.4,g,14,g,9.4,g,0,g,0.8,g,62.4,g
+316,biggby,frozen blueberry bliss latte with whipped cream,12.9,g,33,mg,91,g,64.5,g,2,g,9,g,0,g,0,g,53.3,g
+317,biggby,iced vanilla nut creme latte with 2 milk and whipped cream,17.3,g,70,mg,165,g,47,g,13.5,g,11,g,0,g,0,g,47,g
+318,biggby,reduced calorie sugar free frozen hazelnut mocha latte without whipped cream,3,g,0,mg,116,g,45,g,2,g,2.5,g,0,g,0.8,g,25,g
+319,biggby,reduced calorie sugar free iced mocha caramel latte with nonfat milk without whipped cream,0.8,g,9,mg,301,g,44,g,13.4,g,0.5,g,0,g,1,g,23.6,g
+320,biggby,frozen neapolitan latte with whipped cream,16.5,g,33,mg,80,g,90.5,g,2.5,g,11.5,g,0,g,0.5,g,80,g
+321,biggby,reduced calorie sugar free iced nutty buddy latte with nonfat milk without whipped cream,0,g,6,mg,141,g,16.9,g,11.1,g,0,g,0,g,0,g,13.5,g
+322,biggby,banana bread creme freeze breve with whipped cream,28.6,g,93,mg,134,g,132.6,g,7.7,g,19.7,g,0,g,2.8,g,110.8,g
+323,biggby,reduced calorie sugar free cinnamon roll latte with nonfat milk without whipped cream,0.5,g,6,mg,130,g,22.9,g,7.3,g,0.3,g,0,g,0,g,18.8,g
+324,biggby,iced earl grey tea latte with 2 milk without whipped cream,0,g,6,mg,138,g,38.8,g,11.3,g,0,g,0,g,0,g,38.8,g
+325,biggby,banana bonanza mocha creme freeze with soy milk without whipped cream,10,g,0,mg,177,g,128.7,g,7.2,g,5.4,g,0,g,4.3,g,113.4,g
+326,biggby,dark hot chocolate with 2 milk and whipped cream,15.9,g,61,mg,268,g,70.7,g,15.9,g,8.7,g,0,g,2.1,g,68.6,g
+327,biggby,reduced calorie sugar free hot bear cub latte with nonfat milk without whipped cream,0.6,g,9,mg,235,g,39.4,g,14.4,g,0.4,g,0,g,0,g,31.4,g
+328,biggby,banana chip creme freeze breve with whipped cream,29.7,g,93,mg,159,g,133.6,g,7.7,g,19.8,g,0,g,3.8,g,119.8,g
+329,biggby,frozen vanilla bean latte with whipped cream,6.3,g,0,mg,63,g,85,g,2.5,g,5,g,0,g,0,g,75,g
+330,biggby,reduced calorie sugar free frozen cocoa carmella with nonfat milk without whipped cream,4.3,g,6,mg,229,g,68.1,g,6.5,g,3.3,g,0,g,0.8,g,43.3,g
+331,biggby,coconut beach creme freeze with whipped cream,16,g,33,mg,63,g,109,g,2.5,g,11.5,g,0,g,0.6,g,97.4,g
+332,biggby,iced mint mocha with 2 milk and whipped cream,18,g,67,mg,204,g,67.7,g,12.4,g,10.6,g,0,g,1.5,g,33,g
+333,biggby,reduced calorie hot coco marvel latte with nonfat milk without whipped cream,1,g,11,mg,231,g,49,g,14,g,0.8,g,0,g,0,g,42.4,g
+334,biggby,reduced calorie sugar free frozen sugar bear latte without whipped cream,4.3,g,3,mg,93,g,51.5,g,1.3,g,3.3,g,0,g,0,g,37.8,g
+335,biggby,iced german mocha latte with 2 milk and whipped cream,18.5,g,70,mg,238,g,69,g,12.4,g,11.4,g,0,g,0.8,g,63,g
+336,biggby,reduced calorie hot chai charger latte with nonfat milk without whipped cream,0,g,8,mg,190,g,43.3,g,15,g,0,g,0,g,0,g,35.3,g
+337,biggby,iced wild zebra latte with 2 milk and whipped cream,17.6,g,67,mg,266,g,70.6,g,13.4,g,10.6,g,0,g,1,g,64.6,g
+338,biggby,reduced calorie sugar free iced mint hot chocolate with nonfat milk without whipped cream,0,g,9,mg,300,g,42.2,g,16.5,g,0,g,0,g,1,g,26.2,g
+339,biggby,midnight dream creme freeze with 2 milk and whipped cream,18.7,g,33,mg,158,g,108,g,6,g,11.7,g,0,g,1,g,96,g
+340,biggby,reduced calorie sugar free hot sugar bear latte with nonfat milk without whipped cream,1,g,11,mg,235,g,38.6,g,14,g,0.8,g,0,g,0,g,29.9,g
+341,biggby,hot cafe au lait with 2 milk without whipped cream,2.6,g,13,mg,57,g,5.7,g,4.7,g,1.5,g,0,g,0,g,5.7,g
+342,biggby,hot mocha caramel latte with 2 milk and whipped cream,8.5,g,32,mg,286,g,68.1,g,14,g,5,g,0,g,1,g,60.1,g
+343,biggby,reduced calorie sugar free iced hazelnut mocha latte with nonfat milk without whipped cream,0,g,7,mg,320,g,41,g,14,g,0,g,0,g,1.5,g,15,g
+344,biggby,frozen wild zebra latte with whipped cream,16.5,g,33,mg,120,g,91,g,3,g,11.5,g,0,g,0.5,g,78,g
+345,biggby,hot white lightning latte with 2 milk and whipped cream,6,g,28,mg,251,g,49.1,g,15,g,4,g,0,g,0,g,42.1,g
+346,biggby,hot black americano without milk or whipped cream,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+347,biggby,iced black tea without sugar,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+348,biggby,reduced calorie sugar free frozen dark hot chocolate with nonfat milk without whipped cream,3,g,3,mg,251,g,62,g,7.3,g,2.5,g,0,g,1.5,g,30.5,g
+349,biggby,reduced calorie iced sticky toffee latte with nonfat milk without whipped cream,0.8,g,9,mg,199,g,50.6,g,12.4,g,0.5,g,0,g,0,g,46,g
+350,biggby,reduced calorie sugar free iced sugar bear latte with nonfat milk without whipped cream,1.1,g,10,mg,215,g,36.6,g,12.4,g,0.8,g,0,g,0,g,28,g
+351,biggby,reduced calorie sugar free frozen nutty buddy latte without whipped cream,2.5,g,0,mg,30,g,29.2,g,1,g,2,g,0,g,0,g,20,g
+352,biggby,iced coco marvel latte with 2 milk and whipped cream,19,g,73,mg,273,g,70.3,g,12.5,g,12,g,0,g,0,g,59.8,g
+353,biggby,iced snickerdoodle latte with 2 milk and whipped cream,11,g,42,mg,271,g,71.4,g,13.1,g,7.3,g,0,g,0,g,62.4,g
+354,biggby,snickerdoodle creme freeze breve with whipped cream,28.8,g,95,mg,203,g,107.8,g,7,g,20,g,0,g,0,g,91.8,g
+355,biggby,reduced calorie sugar free chocolate magic milk,0,g,9,mg,409,g,51,g,17.5,g,0,g,0,g,2,g,19,g
+356,biggby,hot brewed coffee without milk or whipped cream,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+357,biggby,reduced calorie sugar free frozen mint mocha latte without whipped cream,3.1,g,0,mg,114,g,50.3,g,2,g,2.5,g,0,g,0.8,g,30.8,g
+358,biggby,banana bread creme freeze with 2 milk and whipped cream,28.6,g,93,mg,134,g,132.6,g,7.7,g,19.7,g,0,g,2.8,g,110.8,g
+359,biggby,frozen sugar bear latte with whipped cream and sugar,17,g,36,mg,123,g,90.3,g,2.5,g,12.3,g,0,g,0,g,75,g
+360,biggby,hot peppermint tea latte with 2 milk without whipped cream,0,g,10,mg,217,g,46.7,g,17.7,g,0,g,0,g,0,g,46.7,g
+361,biggby,banana bonanza mocha creme freeze with nonfat milk and whipped cream,16,g,29,mg,179,g,131.9,g,8,g,10.2,g,0,g,4,g,118.2,g
+362,biggby,yogurt parfait,13,g,8,mg,76,g,57,g,12,g,4,g,0,g,4,g,39,g
+363,biggby,seven layer dessert bar,43,g,10,mg,280,g,58,g,10,g,23,g,0,g,5,g,42,g
+364,biggby,sausage and egg bragel sandwich,32,g,68,mg,965,g,57,g,25,g,14,g,0,g,2,g,2,g
+365,biggby,turkey havarti bragel sandwich,14,g,60,mg,1111,g,58,g,25,g,9,g,0,g,2,g,3,g
+366,biggby,ham and cheese bragel sandwich,13,g,50,mg,908,g,58,g,22,g,8,g,0,g,2,g,2,g
+367,biggby,turkey harvarti bragel sandwich,14,g,60,mg,1111,g,58,g,25,g,9,g,0,g,2,g,3,g
+368,biggby,ham and cheese bragel sandwich,13,g,50,mg,908,g,58,g,22,g,8,g,0,g,2,g,3,g
+369,biggby,almond blizzard,12,g,50,mg,230,g,59,g,12,g,8,g,0,g,0,g,52,g
+370,biggby,almond blizzard creme freeze,17,g,40,mg,170,g,97,g,6,g,12,g,0,g,0,g,83,g
+371,biggby,avalanche latte,13,g,50,mg,200,g,56,g,11,g,8,g,0,g,1,g,53,g
+372,biggby,avalanche latte creme freeze,17,g,40,mg,150,g,95,g,6,g,12,g,0,g,1,g,84,g
+373,biggby,bagel asiago,4,g,5,mg,650,g,43,g,10,g,2,g,0,g,2,g,3,g
+374,biggby,bagel honey wheat,0.5,g,0,mg,410,g,57,g,10,g,0,g,0,g,2,g,5,g
+375,biggby,bagel plain,0.5,g,0,mg,420,g,56,g,11,g,0,g,0,g,2,g,1,g
+376,biggby,bagel raisin,0.5,g,0,mg,410,g,57,g,10,g,0,g,0,g,2,g,5,g
+377,biggby,bagel vanilla cinnamon,3,g,0,mg,400,g,56,g,9,g,0,g,0,g,2,g,14,g
+378,biggby,banana berry creme freeze,6,g,0,mg,55,g,89,g,3,g,4,g,0,g,3,g,76,g
+379,biggby,banana bonanza mocha freeze,16,g,35,mg,85,g,105,g,3,g,11,g,0,g,4,g,93,g
+380,biggby,banana bread freeze,7,g,10,mg,105,g,114,g,7,g,5,g,0,g,3,g,94,g
+381,biggby,banana creme freeze,6,g,0,mg,55,g,86,g,3,g,4,g,0,g,3,g,73,g
+382,biggby,banana mango creme freeze,6,g,0,mg,50,g,146,g,3,g,4,g,0,g,3,g,130,g
+383,biggby,banana mango freeze dairy free,0.5,g,0,mg,0,g,112,g,1,g,0,g,0,g,3,g,103,g
+384,biggby,banana split freeze,16,g,35,mg,90,g,118,g,3,g,11,g,0,g,4,g,104,g
+385,biggby,bear cub creme freeze,17,g,45,mg,170,g,96,g,6,g,12,g,0,g,0,g,84,g
+386,biggby,bear cub latte,13,g,50,mg,220,g,58,g,11,g,8,g,0,g,0,g,53,g
+387,biggby,beautiful haze,7,g,35,mg,150,g,33,g,12,g,4,g,0,g,0,g,33,g
+388,biggby,beautiful haze creme freeze,7,g,10,mg,90,g,88,g,5,g,5,g,0,g,0,g,80,g
+389,biggby,berry nutty oatmeal apples and cinnamon,6,g,0,mg,170,g,42,g,6,g,1,g,0,g,4,g,20,g
+390,biggby,berry nutty oatmeal cinnamon spice,7,g,0,mg,240,g,50,g,7,g,1,g,0,g,4,g,21,g
+391,biggby,berry nutty oatmeal maple syrup,7,g,0,mg,240,g,42,g,6,g,1,g,0,g,4,g,20,g
+392,biggby,berry nutty oatmeal plain,6,g,0,mg,85,g,33,g,7,g,1,g,0,g,4,g,9,g
+393,biggby,berry nutty oatmeal raisin and spice,6,g,0,mg,240,g,48,g,7,g,1,g,0,g,3,g,26,g
+394,biggby,berry white latte,12,g,50,mg,190,g,55,g,11,g,8,g,0,g,0,g,51,g
+395,biggby,berry white latte creme freeze,17,g,40,mg,150,g,97,g,6,g,12,g,0,g,0,g,85,g
+396,biggby,black bear,14,g,50,mg,200,g,56,g,11,g,8,g,0,g,1,g,53,g
+397,biggby,black bear creme freeze,18,g,45,mg,140,g,95,g,5,g,12,g,0,g,1,g,84,g
+398,biggby,black forest creme freeze,18,g,45,mg,140,g,95,g,5,g,12,g,0,g,1,g,85,g
+399,biggby,black forest latte,14,g,50,mg,200,g,56,g,11,g,8,g,0,g,1,g,54,g
+400,biggby,black white and red all over freeze,17,g,40,mg,180,g,98,g,6,g,12,g,0,g,1,g,85,g
+401,biggby,blackberry banana freeze,6,g,0,mg,55,g,111,g,3,g,4,g,0,g,3,g,98,g
+402,biggby,blackout freeze,5,g,0,mg,50,g,72,g,2,g,4,g,0,g,0,g,64,g
+403,biggby,blackout latte,6,g,30,mg,130,g,31,g,11,g,3.5,g,0,g,0,g,31,g
+404,biggby,blue streak freeze,10,g,10,mg,115,g,94,g,7,g,7,g,0,g,1,g,81,g
+405,biggby,blueberry bliss,12,g,50,mg,230,g,59,g,12,g,8,g,0,g,0,g,52,g
+406,biggby,blueberry bliss creme freeze,17,g,40,mg,170,g,97,g,6,g,12,g,0,g,0,g,84,g
+407,biggby,bragel sandwich beef and cheddar asiago,17,g,55,mg,1080,g,44,g,21,g,4,g,2,g,2,g,4,g
+408,biggby,bragel sandwich ham and cheese,13,g,50,mg,920,g,58,g,22,g,4,g,0,g,2,g,2,g
+409,biggby,bragel sandwich turkey havarti,14,g,55,mg,1100,g,58,g,25,g,9,g,0,g,2,g,2,g
+410,biggby,brownie,21,g,55,mg,240,g,62,g,4,g,5,g,0,g,2,g,47,g
+411,biggby,butter bear,14,g,55,mg,220,g,57,g,11,g,9,g,0,g,0,g,53,g
+412,biggby,butter bear creme freeze,18,g,45,mg,160,g,96,g,5,g,13,g,0,g,0,g,84,g
+413,biggby,cafe au lait,4,g,20,mg,90,g,9,g,8,g,2.5,g,0,g,0,g,9,g
+414,biggby,caffe latte,7,g,35,mg,160,g,16,g,13,g,4.5,g,0,g,0,g,16,g
+415,biggby,cappuccino,4.5,g,20,mg,95,g,10,g,8,g,2.5,g,0,g,0,g,10,g
+416,biggby,caramel marvel,14,g,55,mg,240,g,55,g,11,g,9,g,0,g,0,g,50,g
+417,biggby,caramel marvel creme freeze,19,g,50,mg,200,g,96,g,5,g,13,g,0,g,0,g,84,g
+418,biggby,caramel mellow,13,g,55,mg,240,g,55,g,12,g,8,g,0,g,0,g,49,g
+419,biggby,caramel mellow creme freeze,18,g,45,mg,200,g,97,g,6,g,12,g,0,g,0,g,83,g
+420,biggby,chai charger,7,g,30,mg,150,g,49,g,12,g,4,g,0,g,0,g,40,g
+421,biggby,chai latte,8,g,40,mg,180,g,51,g,14,g,4.5,g,0,g,0,g,42,g
+422,biggby,cherries in the snow,12,g,50,mg,230,g,59,g,12,g,8,g,0,g,0,g,53,g
+423,biggby,cherries in the snow creme freeze,17,g,40,mg,170,g,97,g,6,g,12,g,0,g,0,g,84,g
+424,biggby,cherry cordial latte,13,g,50,mg,160,g,53,g,11,g,8,g,0,g,1,g,52,g
+425,biggby,cherry cordial latte creme freeze,17,g,40,mg,120,g,95,g,5,g,12,g,0,g,1,g,86,g
+426,biggby,cherry mocha kiss creme freeze,18,g,40,mg,125,g,94,g,5,g,12,g,0,g,1,g,85,g
+427,biggby,cherry o,7,g,35,mg,150,g,34,g,12,g,4,g,0,g,0,g,33,g
+428,biggby,cherry o creme freeze,7,g,10,mg,90,g,89,g,5,g,5,g,0,g,0,g,80,g
+429,biggby,chocolate brownie blast freeze,27,g,70,mg,200,g,113,g,7,g,16,g,0,g,3,g,97,g
+430,biggby,chocolate chip cookie freeze,33,g,55,mg,230,g,132,g,10,g,20,g,0,g,2,g,105,g
+431,biggby,chocolate covered leprechaun,13,g,50,mg,170,g,54,g,11,g,8,g,0,g,1,g,53,g
+432,biggby,chocolate covered leprechaun creme,18,g,40,mg,125,g,93,g,5,g,12,g,0,g,1,g,84,g
+433,biggby,chuckle bear,14,g,50,mg,200,g,56,g,11,g,8,g,0,g,1,g,53,g
+434,biggby,chuckle bear creme freeze,18,g,45,mg,140,g,95,g,5,g,12,g,0,g,1,g,84,g
+435,biggby,cocoa carmella,15,g,60,mg,230,g,55,g,13,g,9,g,0,g,1,g,52,g
+436,biggby,coconut beach creme freeze,5,g,0,mg,50,g,87,g,2,g,4,g,0,g,1,g,78,g
+437,biggby,coconut creme,7,g,35,mg,150,g,34,g,12,g,4,g,0,g,0,g,34,g
+438,biggby,coconut creme creme freeze,7,g,10,mg,90,g,90,g,5,g,5,g,0,g,0,g,82,g
+439,biggby,cookie chocolate chip,25,g,25,mg,210,g,74,g,6,g,10,g,0,g,3,g,48,g
+440,biggby,cream cheese,9,g,30,mg,90,g,2,g,2,g,6,g,0,g,0,g,1,g
+441,biggby,crisp b treat,6,g,10,mg,330,g,55,g,2,g,3,g,1,g,0,g,29,g
+442,biggby,dark chocolate cookie freeze,31,g,55,mg,250,g,130,g,8,g,17,g,0,g,3,g,108,g
+443,biggby,dark hot chocolate,15,g,55,mg,210,g,54,g,13,g,8,g,0,g,2,g,52,g
+444,biggby,donut holes 4 ct,16,g,25,mg,510,g,60,g,4,g,8,g,0.5,g,0,g,28,g
+445,biggby,enlightened chai,13,g,55,mg,220,g,56,g,13,g,8,g,0,g,0,g,48,g
+446,biggby,enlightened chai creme freeze,7,g,10,mg,160,g,89,g,6,g,5,g,0,g,0,g,73,g
+447,biggby,fluffy clouds,13,g,50,mg,260,g,57,g,13,g,8,g,0,g,0,g,50,g
+448,biggby,fluffy clouds creme freeze,17,g,40,mg,210,g,98,g,7,g,12,g,0,g,0,g,82,g
+449,biggby,foggy irishman,12,g,50,mg,230,g,58,g,12,g,8,g,0,g,0,g,52,g
+450,biggby,foggy irishman creme freeze,17,g,40,mg,170,g,96,g,6,g,12,g,0,g,0,g,83,g
+451,biggby,frisbee freeze,7,g,10,mg,90,g,93,g,5,g,5,g,0,g,1,g,84,g
+452,biggby,frozen hot chocolate,18,g,40,mg,140,g,93,g,5,g,12,g,0,g,2,g,84,g
+453,biggby,frozen mint hot chocolate,18,g,40,mg,125,g,93,g,5,g,12,g,0,g,1,g,84,g
+454,biggby,frozen raspberry hot chocolate,18,g,40,mg,125,g,94,g,5,g,12,g,0,g,1,g,85,g
+455,biggby,frozen teddy bear hot chocolate,18,g,45,mg,200,g,97,g,6,g,12,g,0,g,0,g,83,g
+456,biggby,galaxy bear creme freeze,17,g,40,mg,170,g,98,g,6,g,12,g,0,g,0,g,84,g
+457,biggby,german mocha,14,g,50,mg,200,g,56,g,11,g,8,g,0,g,1,g,54,g
+458,biggby,german mocha creme freeze,18,g,45,mg,140,g,95,g,5,g,12,g,0,g,1,g,85,g
+459,biggby,hazelnut iced coffee,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,17,g
+460,biggby,hazelnut mocha,13,g,50,mg,170,g,54,g,11,g,8,g,0,g,1,g,53,g
+461,biggby,hazelnut mocha creme freeze,18,g,40,mg,125,g,93,g,5,g,12,g,0,g,1,g,84,g
+462,biggby,hopscotch bear creme freeze,18,g,40,mg,130,g,121,g,7,g,12,g,0,g,4,g,109,g
+463,biggby,hot muesli w milk,12,g,10,mg,50,g,35,g,9,g,4,g,0,g,3,g,21,g
+464,biggby,irish bog,14,g,55,mg,220,g,57,g,11,g,9,g,0,g,0,g,53,g
+465,biggby,irish bog creme freeze,18,g,45,mg,160,g,95,g,5,g,13,g,0,g,0,g,84,g
+466,biggby,irish cream creme freeze,7,g,10,mg,90,g,87,g,5,g,5,g,0,g,0,g,79,g
+467,biggby,irish cream latte,7,g,35,mg,150,g,32,g,12,g,4,g,0,g,0,g,32,g
+468,biggby,latte of joy,13,g,50,mg,220,g,58,g,11,g,8,g,0,g,0,g,53,g
+469,biggby,latte of joy creme freeze,17,g,45,mg,170,g,96,g,6,g,12,g,0,g,0,g,84,g
+470,biggby,lemon pound cake,16,g,100,mg,470,g,59,g,6,g,4,g,0,g,1,g,38,g
+471,biggby,lemonade,0,g,0,mg,0,g,44,g,0,g,0,g,0,g,0,g,41,g
+472,biggby,lissas luscious latte,12,g,50,mg,230,g,59,g,12,g,8,g,0,g,0,g,53,g
+473,biggby,lissas luscious latte creme freeze,17,g,40,mg,170,g,97,g,6,g,12,g,0,g,0,g,84,g
+474,biggby,lotta love latte,12,g,50,mg,230,g,59,g,12,g,8,g,0,g,0,g,53,g
+475,biggby,lotta love latte creme freeze,17,g,40,mg,170,g,97,g,6,g,12,g,0,g,0,g,84,g
+476,biggby,lucky charm,12,g,50,mg,230,g,58,g,12,g,8,g,0,g,0,g,52,g
+477,biggby,lucky charm creme freeze,17,g,40,mg,170,g,96,g,6,g,12,g,0,g,0,g,83,g
+478,biggby,magic milk chocolate,18,g,65,mg,190,g,45,g,12,g,11,g,0,g,1,g,44,g
+479,biggby,magic milk strawberry,17,g,65,mg,150,g,47,g,12,g,11,g,0,g,0,g,47,g
+480,biggby,magic milk vanilla,17,g,65,mg,150,g,47,g,12,g,11,g,0,g,0,g,47,g
+481,biggby,mandarin mocha,13,g,50,mg,170,g,54,g,11,g,8,g,0,g,1,g,53,g
+482,biggby,mandarin mocha creme freeze,18,g,40,mg,125,g,93,g,5,g,12,g,0,g,1,g,84,g
+483,biggby,mango creme freeze,5,g,0,mg,50,g,118,g,2,g,4,g,0,g,0,g,105,g
+484,biggby,mango creme freeze dairy free,0,g,0,mg,0,g,84,g,0,g,0,g,0,g,0,g,78,g
+485,biggby,mellow hot chocolate,14,g,55,mg,240,g,56,g,13,g,8,g,0,g,1,g,52,g
+486,biggby,mellow mellow,12,g,50,mg,250,g,56,g,12,g,8,g,0,g,0,g,49,g
+487,biggby,mellow mellow creme freeze,17,g,40,mg,210,g,98,g,7,g,12,g,0,g,0,g,82,g
+488,biggby,mellow mochanut latte,13,g,50,mg,200,g,56,g,11,g,8,g,0,g,1,g,53,g
+489,biggby,mellow mochanut latte creme freeze,17,g,40,mg,150,g,96,g,6,g,12,g,0,g,1,g,85,g
+490,biggby,mint hot chocolate,14,g,55,mg,200,g,57,g,13,g,8,g,0,g,1,g,56,g
+491,biggby,mint mocha,13,g,50,mg,170,g,54,g,11,g,8,g,0,g,1,g,53,g
+492,biggby,mocha caramel,14,g,55,mg,210,g,53,g,11,g,8,g,0,g,1,g,50,g
+493,biggby,mocha caramel creme freeze,19,g,45,mg,170,g,95,g,5,g,12,g,0,g,1,g,84,g
+494,biggby,mocha mellow,13,g,50,mg,220,g,54,g,12,g,8,g,0,g,1,g,49,g
+495,biggby,mocha mellow creme freeze,17,g,40,mg,180,g,95,g,6,g,12,g,0,g,1,g,83,g
+496,biggby,mocha mocha,14,g,50,mg,180,g,52,g,11,g,8,g,0,g,2,g,50,g
+497,biggby,mocha nut,13,g,50,mg,170,g,55,g,11,g,8,g,0,g,1,g,54,g
+498,biggby,mocha nut creme freeze,18,g,40,mg,125,g,94,g,5,g,12,g,0,g,1,g,85,g
+499,biggby,moonboot latte,12,g,50,mg,230,g,58,g,12,g,8,g,0,g,0,g,52,g
+500,biggby,moonboot latte creme freeze,17,g,40,mg,170,g,96,g,6,g,12,g,0,g,0,g,83,g
+501,biggby,muffin blueberry,17,g,55,mg,360,g,65,g,7,g,3,g,0,g,2,g,37,g
+502,biggby,muffin choc chip,25,g,85,mg,410,g,76,g,9,g,7,g,0,g,3,g,46,g
+503,biggby,muffin cranberry orange,19,g,60,mg,390,g,63,g,8,g,4,g,0,g,3,g,34,g
+504,biggby,neapolitan creme freeze,17,g,40,mg,120,g,95,g,5,g,12,g,0,g,1,g,86,g
+505,biggby,neapolitan latte,13,g,50,mg,160,g,53,g,11,g,8,g,0,g,1,g,52,g
+506,biggby,nutty buddy,7,g,35,mg,150,g,32,g,12,g,4,g,0,g,0,g,32,g
+507,biggby,nutty buddy creme freeze,7,g,10,mg,90,g,87,g,5,g,5,g,0,g,0,g,79,g
+508,biggby,nutty mocha caramel,14,g,50,mg,200,g,56,g,11,g,8,g,0,g,1,g,53,g
+509,biggby,nutty mocha caramel creme freeze,18,g,45,mg,140,g,94,g,5,g,12,g,0,g,1,g,84,g
+510,biggby,nutty squirrel freeze,15,g,35,mg,95,g,79,g,2,g,11,g,0,g,0,g,69,g
+511,biggby,oatmeal apples and cinnamon,3,g,0,mg,340,g,54,g,6,g,0,g,0,g,6,g,24,g
+512,biggby,oatmeal cinnamon spice,4,g,0,mg,480,g,70,g,8,g,0,g,0,g,6,g,26,g
+513,biggby,oatmeal maple syrup,4,g,0,mg,480,g,54,g,6,g,0,g,0,g,6,g,24,g
+514,biggby,oatmeal plain,3,g,0,mg,160,g,36,g,8,g,0,g,0,g,6,g,2,g
+515,biggby,oatmeal raisin and spice,3,g,0,mg,480,g,66,g,8,g,0,g,0,g,4,g,36,g
+516,biggby,orange creme freeze,5,g,0,mg,55,g,80,g,2,g,4,g,0,g,0,g,71,g
+517,biggby,orange juice,0,g,0,mg,20,g,54,g,0,g,0,g,0,g,0,g,46,g
+518,biggby,peanut butter cup creme freeze,27,g,40,mg,230,g,109,g,7,g,15,g,0,g,2,g,98,g
+519,biggby,peppermint blizzard,12,g,50,mg,230,g,58,g,12,g,8,g,0,g,0,g,52,g
+520,biggby,peppermint blizzard creme freeze,17,g,40,mg,170,g,96,g,6,g,12,g,0,g,0,g,83,g
+521,biggby,pina colada freeze,6,g,0,mg,55,g,111,g,3,g,4,g,0,g,3,g,98,g
+522,biggby,pink panther freeze,5,g,0,mg,55,g,86,g,2,g,4,g,0,g,1,g,76,g
+523,biggby,pomaberry creme freeze,5,g,0,mg,55,g,88,g,2,g,4,g,0,g,1,g,77,g
+524,biggby,purple haze,14,g,55,mg,220,g,58,g,11,g,9,g,0,g,0,g,54,g
+525,biggby,purple haze creme freeze,18,g,45,mg,160,g,96,g,5,g,13,g,0,g,0,g,85,g
+526,biggby,raspberry creme mocha,13,g,50,mg,160,g,53,g,11,g,8,g,0,g,1,g,52,g
+527,biggby,raspberry creme mocha freeze,17,g,40,mg,120,g,95,g,5,g,12,g,0,g,1,g,86,g
+528,biggby,raspberry iced tea,0,g,0,mg,0,g,25,g,0,g,0,g,0,g,0,g,25,g
+529,biggby,raspberry mocha,13,g,50,mg,170,g,55,g,11,g,8,g,0,g,1,g,54,g
+530,biggby,raspberry nut mocha creme freeze,17,g,40,mg,120,g,94,g,5,g,12,g,0,g,1,g,85,g
+531,biggby,raspberry zinger creme freeze,5,g,0,mg,50,g,85,g,2,g,4,g,0,g,0,g,75,g
+532,biggby,red bull creme freeze,5,g,0,mg,250,g,76,g,2,g,4,g,0,g,0,g,67,g
+533,biggby,salted caramel latte,14,g,55,mg,320,g,55,g,11,g,9,g,0,g,0,g,50,g
+534,biggby,scone blueberry,21,g,70,mg,420,g,61,g,6,g,12,g,1,g,2,g,18,g
+535,biggby,scone cinnamon,17,g,10,mg,470,g,60,g,6,g,9,g,0,g,2,g,18,g
+536,biggby,scuba bear creme freeze,18,g,40,mg,180,g,126,g,7,g,12,g,0,g,4,g,110,g
+537,biggby,seven layer bar,43,g,10,mg,280,g,58,g,10,g,23,g,0,g,5,g,42,g
+538,biggby,snow bear,12,g,50,mg,230,g,58,g,12,g,8,g,0,g,0,g,52,g
+539,biggby,snow bear creme freeze,17,g,40,mg,170,g,96,g,6,g,12,g,0,g,0,g,83,g
+540,biggby,snow berry,12,g,50,mg,230,g,59,g,12,g,8,g,0,g,0,g,53,g
+541,biggby,snow berry creme freeze,17,g,40,mg,170,g,97,g,6,g,12,g,0,g,0,g,84,g
+542,biggby,snowball mocha,13,g,50,mg,160,g,53,g,11,g,8,g,0,g,1,g,52,g
+543,biggby,snowball mocha creme freeze,17,g,40,mg,120,g,94,g,5,g,12,g,0,g,1,g,85,g
+544,biggby,spotted owl latte,12,g,50,mg,190,g,55,g,11,g,8,g,0,g,0,g,51,g
+545,biggby,spotted owl latte creme freeze,17,g,40,mg,150,g,96,g,6,g,12,g,0,g,0,g,84,g
+546,biggby,strawberry chai freeze,7,g,10,mg,100,g,90,g,5,g,5,g,0,g,1,g,72,g
+547,biggby,strawberry puff,12,g,50,mg,230,g,59,g,12,g,8,g,0,g,0,g,53,g
+548,biggby,strawberry puff creme freeze,17,g,40,mg,170,g,97,g,6,g,12,g,0,g,0,g,84,g
+549,biggby,strawberry shortcake freeze,5,g,0,mg,50,g,87,g,2,g,4,g,0,g,1,g,78,g
+550,biggby,sugar bear,14,g,55,mg,220,g,57,g,11,g,9,g,0,g,0,g,53,g
+551,biggby,sugar bear creme freeze,18,g,45,mg,160,g,95,g,5,g,13,g,0,g,0,g,84,g
+552,biggby,summer breeze freeze,7,g,10,mg,170,g,91,g,6,g,5,g,0,g,0,g,78,g
+553,biggby,sunburn latte,13,g,50,mg,200,g,57,g,11,g,8,g,0,g,1,g,53,g
+554,biggby,sunburn latte creme freeze,17,g,40,mg,150,g,96,g,6,g,12,g,0,g,1,g,85,g
+555,biggby,sweet tooth special latte,13,g,50,mg,220,g,58,g,11,g,8,g,0,g,0,g,53,g
+556,biggby,sweeth tooth special latte creme freeze,17,g,45,mg,170,g,96,g,6,g,12,g,0,g,0,g,84,g
+557,biggby,tan line,14,g,55,mg,220,g,58,g,11,g,9,g,0,g,0,g,54,g
+558,biggby,tan line creme freeze,18,g,45,mg,160,g,96,g,5,g,13,g,0,g,0,g,85,g
+559,biggby,tea latte african autumn,8,g,40,mg,170,g,36,g,14,g,4.5,g,0,g,0,g,36,g
+560,biggby,tea latte chinese flower,8,g,40,mg,170,g,36,g,14,g,4.5,g,0,g,0,g,36,g
+561,biggby,tea latte cinnamon spice,8,g,40,mg,170,g,36,g,14,g,4.5,g,0,g,0,g,36,g
+562,biggby,tea latte earl grey,8,g,40,mg,170,g,36,g,14,g,4.5,g,0,g,0,g,36,g
+563,biggby,tea latte english breakfast,8,g,40,mg,170,g,36,g,14,g,4.5,g,0,g,0,g,36,g
+564,biggby,tea latte peppermint,8,g,40,mg,170,g,36,g,14,g,4.5,g,0,g,0,g,36,g
+565,biggby,tea latte pomegranate oolong,8,g,40,mg,170,g,36,g,14,g,4.5,g,0,g,0,g,36,g
+566,biggby,teddy bear,13,g,55,mg,240,g,55,g,12,g,8,g,0,g,0,g,49,g
+567,biggby,teddy bear creme freeze,18,g,45,mg,200,g,97,g,6,g,12,g,0,g,0,g,83,g
+568,biggby,teddy berry,13,g,50,mg,220,g,58,g,11,g,8,g,0,g,0,g,53,g
+569,biggby,teddy berry creme freeze,17,g,45,mg,170,g,97,g,6,g,12,g,0,g,0,g,85,g
+570,biggby,vanilla bean,7,g,35,mg,150,g,34,g,12,g,4,g,0,g,0,g,34,g
+571,biggby,vanilla creme freeze,7,g,10,mg,90,g,90,g,5,g,5,g,0,g,0,g,82,g
+572,biggby,vanilla nut creme,7,g,35,mg,150,g,33,g,12,g,4,g,0,g,0,g,33,g
+573,biggby,vanilla nut creme freeze,7,g,10,mg,90,g,88,g,5,g,5,g,0,g,0,g,80,g
+574,biggby,white lightning,12,g,50,mg,250,g,56,g,12,g,8,g,0,g,0,g,49,g
+575,biggby,white lightning creme freeze,17,g,40,mg,210,g,98,g,7,g,12,g,0,g,0,g,82,g
+576,biggby,wild berry freeze dairy free,0,g,0,mg,0,g,78,g,0,g,0,g,0,g,0,g,72,g
+577,biggby,wild zebra,13,g,50,mg,220,g,54,g,12,g,8,g,0,g,1,g,49,g
+578,biggby,wild zebra creme freeze,17,g,40,mg,180,g,95,g,6,g,12,g,0,g,1,g,83,g
+579,biggby,yogurt parfait,13,g,10,mg,75,g,57,g,12,g,4,g,0,g,4,g,39,g
+580,biscuitville,sweet tea,0,g,0,mg,10,g,75,g,0,g,0,g,0,g,0,g,75,g
+581,biscuitville,orange juice,0,g,0,mg,15,g,44,g,2,g,0,g,0,g,0,g,43,g
+582,biscuitville,classic black coffee,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+583,biscuitville,chocolate milk,0,g,5,mg,180,g,20,g,8,g,0,g,0,g,0,g,18,g
+584,biscuitville,milk 2,5,g,20,mg,115,g,12,g,8,g,3,g,0,g,0,g,12,g
+585,biscuitville,low carb breakfast platter with bacon and scrambled eggs,22,g,680,mg,580,g,8,g,28,g,5,g,0,g,0,g,0,g
+586,biscuitville,buttermilk pancakes short stack 3 with syrup only,8,g,0,mg,1230,g,102,g,9,g,3,g,0,g,3,g,40,g
+587,biscuitville,turkey sausage egg and cheese english muffin without toppings or condiments,17,g,200,mg,750,g,33,g,22,g,5,g,0,g,1,g,1,g
+588,biscuitville,grilled chicken egg and cheese english muffin without toppings or condiments,11,g,225,mg,720,g,33,g,33,g,4,g,0,g,1,g,1,g
+589,biscuitville,spicy chicken and honey on plain breakfast biscuit without toppings or condiments,19,g,45,mg,1350,g,78,g,21,g,6,g,0,g,3,g,36,g
+590,biscuitville,bacon egg and cheese biscuit with butter biscuit without toppings or condiments,25,g,160,mg,1110,g,35,g,17,g,10,g,0,g,2,g,2,g
+591,biscuitville,bacon egg and cheese english muffin without toppings or condiments,14,g,160,mg,800,g,33,g,18,g,5,g,0,g,1,g,1,g
+592,biscuitville,fried chicken on plain breakfast biscuit without toppings or condiments,22,g,55,mg,1110,g,45,g,21,g,7,g,0,g,3,g,2,g
+593,biscuitville,gravy with plain breakfast biscuit without toppings or condiments,14,g,0,mg,950,g,42,g,5,g,6,g,0,g,2,g,4,g
+594,biscuitville,grilled chicken club english muffin without toppings or condiments,9,g,75,mg,880,g,35,g,29,g,3,g,0,g,2,g,3,g
+595,biscuitville,plain biscuit,11,g,0,mg,530,g,34,g,5,g,5,g,0,g,2,g,2,g
+596,biscuitville,country ham on plain breakfast biscuit without toppings or condiments,14,g,30,mg,1270,g,34,g,15,g,6,g,0,g,2,g,2,g
+597,biscuitville,low carb breakfast platter with grilled chicken and scrambled eggs,20,g,745,mg,500,g,8,g,43,g,4,g,0,g,0,g,0,g
+598,biscuitville,breakfast platter with bacon,26,g,340,mg,990,g,38,g,21,g,8,g,0,g,2,g,2,g
+599,biscuitville,fried steak on plain breakfast biscuit without toppings or condiments,35,g,45,mg,1210,g,46,g,19,g,12,g,0.5,g,3,g,2,g
+600,biscuitville,fried egg on breakfast butter biscuit without toppings or condiments,18,g,150,mg,620,g,34,g,11,g,7,g,0,g,2,g,2,g
+601,biscuitville,ultimate sausage plain breakfast biscuit without toppings or condiments,47,g,240,mg,1680,g,36,g,33,g,19,g,0,g,2,g,2,g
+602,biscuitville,ultimate breakfast platter with country ham,37,g,740,mg,2310,g,42,g,49,g,11,g,0,g,2,g,2,g
+603,biscuitville,low carb breakfast platter with turkey sausage and scrambled eggs,25,g,720,mg,530,g,8,g,32,g,6,g,0,g,0,g,0,g
+604,biscuitville,sausage and fried egg on plain breakfast biscuit without toppings or condiments,28,g,185,mg,950,g,34,g,20,g,11,g,0,g,2,g,2,g
+605,biscuitville,pork chop on plain breakfast biscuit without toppings or condiments,24,g,35,mg,990,g,50,g,22,g,7,g,0,g,3,g,3,g
+606,biscuitville,ultimate breakfast platter with sausage,55,g,750,mg,1530,g,42,g,47,g,17,g,0,g,2,g,2,g
+607,biscuitville,breakfast platter with ham,34,g,375,mg,1040,g,38,g,26,g,11,g,0,g,2,g,2,g
+608,biscuitville,ultimate breakfast platter with bacon,39,g,680,mg,1430,g,42,g,37,g,11,g,0,g,2,g,2,g
+609,biscuitville,original style english muffin without toppings or condiments,1.5,g,0,mg,240,g,32,g,6,g,0,g,0,g,1,g,1,g
+610,biscuitville,buttermilk pancakes platter with country ham,20,g,370,mg,2110,g,106,g,31,g,6,g,0,g,3,g,40,g
+611,biscuitville,low carb breakfast platter with sausage and scrambled eggs,30,g,715,mg,630,g,8,g,33,g,8,g,0,g,0,g,0,g
+612,biscuitville,sausage egg and cheese waffle sandwich,39,g,215,mg,990,g,40,g,23,g,16,g,0,g,1,g,13,g
+613,biscuitville,low carb breakfast platter with country ham and scrambled eggs,21,g,710,mg,1020,g,8,g,34,g,5,g,0,g,0,g,0,g
+614,biscuitville,cheese breakfast butter biscuit without toppings or condiments,20,g,20,mg,930,g,36,g,9,g,10,g,0,g,2,g,2,g
+615,biscuitville,belgian waffles short stack 4 with syrup only,38,g,40,mg,790,g,108,g,12,g,16,g,0,g,2,g,48,g
+616,biscuitville,buttermilk pancakes short stack 5 with syrup only,13,g,0,mg,2030,g,150,g,15,g,5,g,0,g,5,g,52,g
+617,biscuitville,turkey sausage on plain breakfast biscuit without toppings or condiments,18,g,40,mg,780,g,34,g,13,g,7,g,0,g,2,g,2,g
+618,biscuitville,belgian waffles short stack 2 with syrup only,19,g,20,mg,410,g,69,g,6,g,8,g,0,g,1,g,35,g
+619,biscuitville,buttermilk pancakes platter with sausage,29,g,375,mg,1720,g,106,g,30,g,9,g,0,g,3,g,40,g
+620,biscuitville,buttermilk pancakes platter with turkey sausage,24,g,380,mg,1620,g,106,g,29,g,7,g,0,g,3,g,40,g
+621,biscuitville,ultimate bacon plain breakfast biscuit,31,g,170,mg,1580,g,36,g,23,g,13,g,0,g,2,g,2,g
+622,biscuitville,bacon egg and cheese plain breakfast biscuit without toppings or condiments,23,g,160,mg,1090,g,35,g,17,g,10,g,0,g,2,g,2,g
+623,biscuitville,breakfast platter with country ham,25,g,370,mg,1430,g,38,g,27,g,8,g,0,g,2,g,2,g
+624,biscuitville,buttermilk pancakes platter with bacon,21,g,340,mg,1670,g,106,g,25,g,6,g,0,g,3,g,40,g
+625,biscuitville,ultimate breakfast platter with turkey sausage,45,g,760,mg,1330,g,42,g,45,g,12,g,0,g,2,g,2,g
+626,biscuitville,ultimate turkey sausage plain breakfast biscuit without toppings or condiments,37,g,250,mg,1480,g,36,g,31,g,14,g,0,g,2,g,2,g
+627,biscuitville,ultimate country ham plain breakfast biscuit without toppings or condiments,29,g,230,mg,2460,g,36,g,35,g,13,g,0,g,2,g,2,g
+628,biscuitville,strawberry jam,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,8,g
+629,biscuitville,grape jelly,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,8,g
+630,biscuitville,mayonnaise,10,g,10,mg,65,g,0,g,0,g,1.5,g,0,g,0,g,0,g
+631,biscuitville,sugar free syrup,0,g,0,mg,75,g,4,g,0,g,0,g,0,g,0,g,0,g
+632,biscuitville,french vanilla or hazelnut creamer,1.5,g,0,mg,0,g,5,g,0,g,0.5,g,0,g,0,g,5,g
+633,biscuitville,honey,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,7,g
+634,biscuitville,golding farms honey,0,g,0,mg,0,g,68,g,0,g,0,g,0,g,0,g,68,g
+635,biscuitville,salt,0,g,0,mg,190,g,0,g,0,g,0,g,0,g,0,g,0,g
+636,biscuitville,half and half creamer,1,g,0,mg,5,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+637,biscuitville,gravy,5,g,0,mg,740,g,14,g,0,g,2,g,0,g,0,g,4,g
+638,biscuitville,maple brown sugar butter spread,8,g,15,mg,50,g,3,g,0,g,4,g,0,g,0,g,2,g
+639,biscuitville,mustard,0,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+640,biscuitville,margarine,5,g,0,mg,75,g,0,g,0,g,1.5,g,0,g,0,g,0,g
+641,biscuitville,ketchup,0,g,0,mg,85,g,3,g,0,g,0,g,0,g,0,g,2,g
+642,biscuitville,sugar,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,3,g
+643,biscuitville,syrup,0,g,0,mg,25,g,30,g,0,g,0,g,0,g,0,g,22,g
+644,biscuitville,blueberry muffin,6,g,50,mg,440,g,99,g,6,g,1,g,0,g,3,g,49,g
+645,biscuitville,seasonal strawberry muffin,21,g,60,mg,450,g,77,g,6,g,4,g,0,g,2,g,43,g
+646,biscuitville,honey bun,15,g,0,mg,360,g,56,g,6,g,6,g,0,g,2,g,22,g
+647,biscuitville,country fries,22,g,0,mg,190,g,44,g,6,g,2.5,g,0,g,5,g,0,g
+648,biscuitville,buttermilk ranch dressing,22,g,15,mg,210,g,2,g,1,g,4,g,0,g,0,g,2,g
+649,biscuitville,cackalacky fried pork chop sandwich with brioche bun carolina cole slaw and cackalacky cheerwine sweet sauce,28,g,40,mg,150,g,70,g,26,g,6,g,0,g,3,g,20,g
+650,biscuitville,spicy chicken and waffle sandwich,27,g,65,mg,1200,g,49,g,22,g,9,g,0,g,2,g,13,g
+651,biscuitville,grilled chicken bacon ranch sandwich on brioche hun without toppings or condiments,29,g,80,mg,990,g,44,g,30,g,6,g,0,g,2,g,11,g
+652,biscuitville,bacon egg and cheese waffle sandwich,31,g,180,mg,940,g,40,g,18,g,13,g,0,g,1,g,13,g
+653,biscuitville,cackalacky cheerwine sweet sauce,0,g,0,mg,170,g,11,g,0,g,0,g,0,g,0,g,10,g
+654,biscuitville,texas pete hot sauce,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+655,biscuitville,honey mustard sauce,8,g,5,mg,140,g,7,g,0,g,1,g,0,g,0.5,g,5,g
+656,biscuitville,hashbrowns,9,g,0,mg,280,g,13,g,1,g,1,g,0,g,1,g,0,g
+657,biscuitville,oatmeal,2.5,g,0,mg,210,g,21,g,5,g,0.5,g,0,g,3,g,0,g
+658,biscuitville,grits,2.5,g,0,mg,440,g,23,g,2,g,0,g,0,g,2,g,0,g
+659,biscuitville,cheese grits,12,g,30,mg,440,g,23,g,9,g,6,g,0,g,2,g,0,g
+660,biscuitville,buttered biscuit,13,g,0,mg,550,g,34,g,5,g,5,g,0,g,2,g,2,g
+661,biscuitville,apple fritter,26,g,0,mg,420,g,52,g,7,g,11,g,0,g,2,g,15,g
+662,biscuitville,bacon mini biscuit,4.5,g,0,mg,210,g,11,g,2,g,2,g,0,g,0,g,1,g
+663,biscuitville,bacon egg and cheese biscuit,23,g,160,mg,1090,g,35,g,17,g,10,g,0,g,2,g,2,g
+664,biscuitville,bacon egg and cheese english muffin,14,g,160,mg,800,g,33,g,18,g,5,g,0,g,1,g,1,g
+665,biscuitville,black pepper,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+666,biscuitville,blueberry muffin,6,g,50,mg,440,g,99,g,6,g,1,g,0,g,3,g,49,g
+667,biscuitville,bologna egg and cheese biscuit,27,g,175,mg,1210,g,38,g,16,g,11,g,0,g,2,g,4,g
+668,biscuitville,bologna hashbrown and cheese biscuit,31,g,25,mg,1430,g,51,g,11,g,11,g,0,g,3,g,4,g
+669,biscuitville,bologna hashbrown egg and cheese biscuit,36,g,175,mg,1490,g,51,g,17,g,12,g,0,g,3,g,4,g
+670,biscuitville,breakfast platter with bacon,26,g,340,mg,990,g,38,g,21,g,8,g,0,g,2,g,2,g
+671,biscuitville,breakfast platter with country ham,25,g,370,mg,1430,g,38,g,27,g,8,g,0,g,2,g,2,g
+672,biscuitville,breakfast platter with sausage,34,g,375,mg,1040,g,38,g,26,g,11,g,0,g,2,g,2,g
+673,biscuitville,buttered biscuit,13,g,0,mg,550,g,34,g,5,g,5,g,0,g,2,g,2,g
+674,biscuitville,buttermilk pancakes platter with bacon,21,g,340,mg,1670,g,106,g,25,g,6,g,0,g,3,g,40,g
+675,biscuitville,buttermilk pancakes platter with country ham,20,g,370,mg,2110,g,106,g,31,g,6,g,0,g,3,g,40,g
+676,biscuitville,buttermilk pancakes platter with sausage,29,g,375,mg,1720,g,106,g,30,g,9,g,0,g,3,g,40,g
+677,biscuitville,buttermilk pancakes platter with turkey sausage,24,g,380,mg,1620,g,106,g,29,g,7,g,0,g,3,g,40,g
+678,biscuitville,buttermilk pancakes short stack 3,8,g,0,mg,1230,g,102,g,9,g,3,g,0,g,3,g,40,g
+679,biscuitville,buttermilk pancakes stack 5,13,g,0,mg,2030,g,150,g,15,g,5,g,0,g,5,g,52,g
+680,biscuitville,buttermilk ranch,22,g,15,mg,210,g,2,g,1,g,4,g,0,g,0,g,2,g
+681,biscuitville,cackalacky cheerwine sweet sauce,0,g,0,mg,170,g,11,g,0,g,0,g,0,g,0,g,10,g
+682,biscuitville,canadian style turkey bacon egg and cheese,12,g,190,mg,800,g,34,g,22,g,5,g,0,g,1,g,2,g
+683,biscuitville,caramel pumpkin spice latte,7,g,0,mg,480,g,28,g,1,g,6,g,0,g,0,g,22,g
+684,biscuitville,cheerwine large,0,g,0,mg,60,g,112,g,0,g,0,g,0,g,0,g,112,g
+685,biscuitville,cheerwine small,0,g,0,mg,40,g,74,g,0,g,0,g,0,g,0,g,74,g
+686,biscuitville,cheese biscuit,20,g,20,mg,930,g,36,g,9,g,10,g,0,g,2,g,2,g
+687,biscuitville,cheese grits,12,g,30,mg,440,g,23,g,9,g,6,g,0,g,2,g,0,g
+688,biscuitville,chocolate milk,0,g,5,mg,180,g,20,g,8,g,0,g,0,g,0,g,18,g
+689,biscuitville,classic coffee half gallon,0,g,0,mg,40,g,0,g,2,g,0,g,0,g,0,g,0,g
+690,biscuitville,classic coffee large,0,g,0,mg,10,g,0,g,1,g,0,g,0,g,0,g,0,g
+691,biscuitville,classic coffee small,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+692,biscuitville,country fries,22,g,0,mg,190,g,44,g,6,g,2.5,g,0,g,5,g,0,g
+693,biscuitville,country ham biscuit,14,g,30,mg,1270,g,34,g,15,g,6,g,0,g,2,g,2,g
+694,biscuitville,country ham mini biscuit,5,g,10,mg,360,g,11,g,4,g,2,g,0,g,0,g,1,g
+695,biscuitville,decaf coffee half gallon,0,g,0,mg,40,g,0,g,2,g,0,g,0,g,0,g,0,g
+696,biscuitville,decaf coffee large,0,g,0,mg,10,g,0,g,1,g,0,g,0,g,0,g,0,g
+697,biscuitville,decaf coffee small,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+698,biscuitville,diet dr pepper large,0,g,0,mg,200,g,0,g,0,g,0,g,0,g,0,g,0,g
+699,biscuitville,diet dr pepper small,0,g,0,mg,135,g,0,g,0,g,0,g,0,g,0,g,0,g
+700,biscuitville,diet mtn dew large,0,g,0,mg,160,g,0,g,0,g,0,g,0,g,0,g,0,g
+701,biscuitville,diet mtn dew small,0,g,0,mg,105,g,0,g,0,g,0,g,0,g,0,g,0,g
+702,biscuitville,diet pepsi large,0,g,0,mg,160,g,0,g,0,g,0,g,0,g,0,g,0,g
+703,biscuitville,diet pepsi small,0,g,0,mg,105,g,0,g,0,g,0,g,0,g,0,g,0,g
+704,biscuitville,dipped bbq biscuit with fried chicken,30,g,215,mg,1540,g,57,g,29,g,10,g,0,g,3,g,12,g
+705,biscuitville,dipped bbq biscuit with fried steak,43,g,205,mg,1640,g,58,g,27,g,16,g,0.5,g,3,g,12,g
+706,biscuitville,dipped bbq biscuit with grilled chicken,21,g,225,mg,1180,g,46,g,32,g,9,g,0,g,2,g,12,g
+707,biscuitville,dipped bbq biscuit with spicy chicken,27,g,205,mg,1780,g,56,g,29,g,10,g,0,g,3,g,12,g
+708,biscuitville,dr pepper large,0,g,0,mg,120,g,104,g,0,g,0,g,0,g,0,g,104,g
+709,biscuitville,dr pepper small,0,g,0,mg,80,g,69,g,0,g,0,g,0,g,0,g,69,g
+710,biscuitville,egg biscuit,18,g,150,mg,620,g,34,g,11,g,7,g,0,g,2,g,2,g
+711,biscuitville,french vanilla creamer,1.5,g,0,mg,0,g,5,g,0,g,0.5,g,0,g,0,g,5,g
+712,biscuitville,fried chicken biscuit,22,g,55,mg,1110,g,45,g,21,g,7,g,0,g,3,g,2,g
+713,biscuitville,fried chicken mini biscuit,7,g,15,mg,320,g,14,g,6,g,2,g,0,g,1,g,1,g
+714,biscuitville,fried steak biscuit,35,g,45,mg,1210,g,46,g,19,g,12,g,0.5,g,3,g,2,g
+715,biscuitville,golding farms honey,0,g,0,mg,0,g,68,g,0,g,0,g,0,g,0,g,68,g
+716,biscuitville,grape jelly,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,8,g
+717,biscuitville,gravy,5,g,0,mg,740,g,14,g,0,g,2,g,0,g,0,g,4,g
+718,biscuitville,gravy biscuit,14,g,0,mg,950,g,42,g,5,g,6,g,0,g,2,g,4,g
+719,biscuitville,grilled chicken club english muffin,9,g,75,mg,800,g,35,g,29,g,3,g,0,g,2,g,3,g
+720,biscuitville,grilled chicken egg and cheese english muffin,11,g,225,mg,720,g,33,g,33,g,4,g,0,g,1,g,1,g
+721,biscuitville,grits,2.5,g,0,mg,440,g,23,g,2,g,0,g,0,g,2,g,0,g
+722,biscuitville,half and half creamer,1,g,0,mg,5,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+723,biscuitville,hashbrown,9,g,0,mg,280,g,13,g,1,g,1,g,0,g,1,g,0,g
+724,biscuitville,hazelnut creamer,1.5,g,0,mg,0,g,5,g,0,g,0.5,g,0,g,0,g,5,g
+725,biscuitville,honey,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,7,g
+726,biscuitville,honey bun,15,g,0,mg,360,g,56,g,6,g,6,g,0,g,2,g,22,g
+727,biscuitville,honey mustard sauce,8,g,5,mg,140,g,7,g,0,g,1,g,0,g,1,g,5,g
+728,biscuitville,iced vanilla latte,5,g,0,mg,400,g,21,g,2,g,5,g,0,g,0,g,18,g
+729,biscuitville,ketchup,0,g,0,mg,85,g,3,g,0,g,0,g,0,g,0,g,2,g
+730,biscuitville,kiwi strawberry infused water,0,g,0,mg,95,g,0,g,0,g,0,g,0,g,0,g,0,g
+731,biscuitville,low carb breakfast platter with bacon,22,g,680,mg,580,g,8,g,28,g,5,g,0,g,0,g,0,g
+732,biscuitville,low carb breakfast platter with country ham,21,g,710,mg,1020,g,8,g,34,g,5,g,0,g,0,g,0,g
+733,biscuitville,low carb breakfast platter with grilled chicken,20,g,745,mg,500,g,8,g,43,g,4,g,0,g,0,g,0,g
+734,biscuitville,low carb breakfast platter with sausage,30,g,715,mg,630,g,8,g,33,g,8,g,0,g,0,g,0,g
+735,biscuitville,low carb breakfast platter with turkey sausage,25,g,720,mg,530,g,8,g,32,g,6,g,0,g,0,g,0,g
+736,biscuitville,maple brown sugar butter spread,8,g,15,mg,50,g,3,g,0,g,4,g,0,g,0,g,2,g
+737,biscuitville,margarine,5,g,0,mg,75,g,0,g,0,g,1.5,g,0,g,0,g,0,g
+738,biscuitville,mayonnaise,10,g,10,mg,65,g,0,g,0,g,1.5,g,0,g,0,g,0,g
+739,biscuitville,milk,5,g,20,mg,115,g,12,g,8,g,3,g,0,g,0,g,12,g
+740,biscuitville,mist twist large,0,g,0,mg,80,g,108,g,0,g,0,g,0,g,0,g,108,g
+741,biscuitville,mist twist small,0,g,0,mg,55,g,71,g,0,g,0,g,0,g,0,g,71,g
+742,biscuitville,mtn dew large,0,g,0,mg,140,g,116,g,0,g,0,g,0,g,0,g,116,g
+743,biscuitville,mtn dew small,0,g,0,mg,90,g,76,g,0,g,0,g,0,g,0,g,76,g
+744,biscuitville,mustard,0,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+745,biscuitville,njoy blue sweetener,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+746,biscuitville,njoy pink sweetener,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+747,biscuitville,njoy yellow sweetener,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+748,biscuitville,oatmeal,2.5,g,0,mg,210,g,21,g,5,g,0.5,g,0,g,3,g,0,g
+749,biscuitville,oatmeal andndash dried fruit and harvest nut,11,g,5,mg,210,g,45,g,8,g,0.5,g,0,g,6,g,21,g
+750,biscuitville,orange juice half gallon,0,g,0,mg,80,g,232,g,8,g,0,g,0,g,0,g,224,g
+751,biscuitville,orange juice large,0,g,0,mg,20,g,58,g,2,g,0,g,0,g,0,g,56,g
+752,biscuitville,orange juice small,0,g,0,mg,15,g,44,g,2,g,0,g,0,g,0,g,42,g
+753,biscuitville,original style english muffin,1.5,g,0,mg,240,g,32,g,6,g,0,g,0,g,1,g,1,g
+754,biscuitville,peach hand pie,18,g,0,mg,560,g,93,g,4,g,7,g,0,g,1,g,58,g
+755,biscuitville,peach lemonade,0,g,0,mg,20,g,49,g,1,g,0,g,0,g,1,g,48,g
+756,biscuitville,pepsi large,0,g,0,mg,80,g,112,g,0,g,0,g,0,g,0,g,112,g
+757,biscuitville,pepsi small,0,g,0,mg,55,g,74,g,0,g,0,g,0,g,0,g,74,g
+758,biscuitville,plain biscuit,11,g,0,mg,530,g,34,g,5,g,5,g,0,g,2,g,2,g
+759,biscuitville,plain biscuit side,11,g,0,mg,530,g,34,g,5,g,5,g,0,g,2,g,2,g
+760,biscuitville,plain mini biscuit,4,g,0,mg,170,g,11,g,2,g,2,g,0,g,0,g,1,g
+761,biscuitville,plain mini biscuit 1 dozen,48,g,5,mg,2080,g,134,g,21,g,21,g,0,g,6,g,6,g
+762,biscuitville,pork chop biscuit,24,g,35,mg,990,g,50,g,22,g,7,g,0,g,3,g,3,g
+763,biscuitville,salt,0,g,0,mg,190,g,0,g,0,g,0,g,0,g,0,g,0,g
+764,biscuitville,sausage and egg biscuit,28,g,185,mg,950,g,34,g,20,g,11,g,0,g,2,g,2,g
+765,biscuitville,sausage ball,4,g,10,mg,125,g,4,g,3,g,2,g,0,g,0,g,0,g
+766,biscuitville,sausage balls 1 dozen,51,g,95,mg,1530,g,50,g,32,g,23,g,0,g,3,g,3,g
+767,biscuitville,sausage mini biscuit,7,g,10,mg,260,g,11,g,4,g,3,g,0,g,0,g,1,g
+768,biscuitville,spicy chicken and honey biscuit,19,g,45,mg,1350,g,78,g,21,g,6,g,0,g,3,g,36,g
+769,biscuitville,spicy chicken mini biscuit,6,g,10,mg,380,g,14,g,6,g,2,g,0,g,1,g,1,g
+770,biscuitville,strawberry jam,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,8,g
+771,biscuitville,strawberry lemonade,0,g,0,mg,20,g,32,g,1,g,0,g,0,g,1,g,30,g
+772,biscuitville,sugar,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,3,g
+773,biscuitville,sugar free syrup,0,g,0,mg,75,g,4,g,0,g,0,g,0,g,0,g,0,g
+774,biscuitville,sweet peach iced tea,0,g,0,mg,5,g,73,g,0,g,0,g,0,g,1,g,72,g
+775,biscuitville,sweet strawberry iced tea,0,g,0,mg,10,g,73,g,0,g,0,g,0,g,0,g,71,g
+776,biscuitville,sweet tea half gallon,0,g,0,mg,30,g,232,g,0,g,0,g,0,g,0,g,232,g
+777,biscuitville,sweet tea large,0,g,0,mg,20,g,115,g,0,g,0,g,0,g,0,g,114,g
+778,biscuitville,sweet tea small,0,g,0,mg,10,g,75,g,0,g,0,g,0,g,0,g,75,g
+779,biscuitville,syrup,0,g,0,mg,25,g,30,g,0,g,0,g,0,g,0,g,22,g
+780,biscuitville,texas pete hot sauce,0,g,0,mg,65,g,1,g,0,g,0,g,0,g,0,g,0,g
+781,biscuitville,turkey sausage biscuit,18,g,40,mg,780,g,34,g,13,g,7,g,0,g,2,g,2,g
+782,biscuitville,turkey sausage mini biscuit,6,g,10,mg,240,g,11,g,4,g,2,g,0,g,0,g,1,g
+783,biscuitville,turkey sausage egg and cheese english muffin,17,g,200,mg,750,g,33,g,22,g,5,g,0,g,1,g,1,g
+784,biscuitville,ultimate bacon biscuit,31,g,170,mg,1580,g,36,g,23,g,13,g,0,g,2,g,2,g
+785,biscuitville,ultimate breakfast platter with bacon,39,g,680,mg,1430,g,42,g,37,g,11,g,0,g,2,g,2,g
+786,biscuitville,ultimate breakfast platter with country ham,37,g,740,mg,2310,g,42,g,49,g,11,g,0,g,2,g,2,g
+787,biscuitville,ultimate breakfast platter with sausage,55,g,750,mg,1530,g,42,g,47,g,17,g,0,g,2,g,2,g
+788,biscuitville,ultimate breakfast platter with turkey sausage,45,g,760,mg,1330,g,42,g,45,g,12,g,0,g,2,g,2,g
+789,biscuitville,ultimate country ham biscuit,29,g,230,mg,2460,g,36,g,35,g,13,g,0,g,2,g,2,g
+790,biscuitville,ultimate sausage biscuit,47,g,240,mg,1680,g,36,g,33,g,19,g,0,g,2,g,2,g
+791,biscuitville,ultimate turkey sausage biscuit,37,g,250,mg,1480,g,36,g,31,g,14,g,0,g,2,g,2,g
+792,biscuitville,unsweet peach iced tea,0,g,0,mg,10,g,22,g,0,g,0,g,0,g,1,g,21,g
+793,biscuitville,unsweet strawberry iced tea,0,g,0,mg,15,g,22,g,0,g,0,g,0,g,0,g,20,g
+794,biscuitville,unsweet tea half gallon,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+795,biscuitville,unsweet tea large,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+796,biscuitville,unsweet tea small,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+797,bjs restaurant,california club flatbread pizza,6,g,14,mg,234,g,10,g,5,g,2,g,0,g,1,g,0,g
+798,bjs restaurant,avocado egg rolls,65,g,74,mg,1583,g,107,g,16,g,15,g,0,g,19,g,23,g
+799,bjs restaurant,margherita fresca flatbread,5,g,12,mg,223,g,10,g,5,g,2,g,0,g,1,g,1,g
+800,bjs restaurant,honey sriracha brussels sprouts,6,g,0,mg,1346,g,31,g,11,g,1,g,0,g,9,g,15,g
+801,bjs restaurant,pepperoni extreme flatbread pizza,7,g,17,mg,304,g,10,g,5,g,3,g,0,g,0,g,0,g
+802,bjs restaurant,boneless chicken wings without sauce,41,g,192,mg,3522,g,59,g,65,g,7,g,0,g,1,g,1,g
+803,bjs restaurant,crispy calamari,19,g,534,mg,1660,g,58,g,46,g,4,g,0,g,3,g,6,g
+804,bjs restaurant,chicken pot stickers,11,g,40,mg,1752,g,59,g,18,g,2,g,0,g,3,g,14,g
+805,bjs restaurant,mozzarella sticks,39,g,107,mg,1931,g,76,g,33,g,17,g,0,g,0,g,12,g
+806,bjs restaurant,loaded nachos with chicken,160,g,516,mg,5568,g,174,g,158,g,87,g,1,g,26,g,40,g
+807,bjs restaurant,ahi poke,10,g,51,mg,1340,g,24,g,32,g,2,g,0,g,2,g,6,g
+808,bjs restaurant,fried wisconsin cheese curds,91,g,194,mg,1849,g,20,g,48,g,42,g,2,g,0,g,2,g
+809,bjs restaurant,spinach and artichoke dip,54,g,135,mg,1771,g,111,g,34,g,28,g,0,g,16,g,22,g
+810,bjs restaurant,crisp potato skins platter,59,g,134,mg,1772,g,116,g,38,g,26,g,0,g,18,g,5,g
+811,bjs restaurant,sliders,32,g,121,mg,1497,g,97,g,49,g,10,g,0,g,2,g,18,g
+812,bjs restaurant,brewhouse meatballs,42,g,133,mg,1126,g,23,g,25,g,17,g,0,g,2,g,5,g
+813,bjs restaurant,creamy couscous mac and cheese,38,g,101,mg,1036,g,36,g,26,g,21,g,0,g,2,g,5,g
+814,bjs restaurant,root beer glazed ribs,17,g,57,mg,2942,g,85,g,15,g,6,g,0,g,2,g,75,g
+815,bjs restaurant,chicken lettuce wraps,21,g,49,mg,2661,g,43,g,31,g,3,g,0,g,5,g,27,g
+816,bjs restaurant,bbq trip tip sliders with fries,31,g,130,mg,2819,g,133,g,49,g,7,g,0,g,1,g,520,g
+817,bjs restaurant,chips and fire roasted salsa,10,g,0,mg,1444,g,105,g,21,g,1,g,0,g,14,g,24,g
+818,bjs restaurant,spinach stuffed mushrooms,20,g,32,mg,597,g,17,g,12,g,9,g,0,g,3,g,4,g
+819,bjs restaurant,housemade guacamole and chips,30,g,0,mg,1173,g,112,g,23,g,3,g,0,g,22,g,22,g
+820,bjs restaurant,garlic parmesan knots,17,g,0,mg,983,g,66,g,13,g,4,g,0,g,4,g,6,g
+821,bjs restaurant,turmeric roasted cauliflower,18,g,0,mg,554,g,21,g,7,g,2,g,0,g,8,g,5,g
+822,bjs restaurant,sriracha queso dip,48,g,107,mg,2492,g,110,g,39,g,24,g,1,g,14,g,23,g
+823,bjs restaurant,crispy fried artichokes,16,g,6,mg,2202,g,52,g,9,g,3,g,0,g,4,g,4,g
+824,bjs restaurant,crispy zucchini strings,34,g,80,mg,3252,g,103,g,14,g,15,g,0,g,6,g,9,g
+825,bjs restaurant,sliders with fries,52,g,121,mg,2138,g,137,g,53,g,14,g,0,g,6,g,18,g
+826,bjs restaurant,loaded nachos with piranhar pale ale chill,164,g,441,mg,5631,g,193,g,130,g,90,g,1,g,30,g,42,g
+827,bjs restaurant,loaded nachos with carnitas,176,g,530,mg,5347,g,177,g,149,g,94,g,1,g,26,g,42,g
+828,bjs restaurant,sriracha queso dip with piranha pale ale chili,37,g,73,mg,1990,g,113,g,37,g,16,g,1,g,16,g,22,g
+829,bjs restaurant,best beginnings appetizer combo with lemon pepper sesame dry rub,120,g,302,mg,5833,g,192,g,84,g,38,g,0,g,19,g,34,g
+830,bjs restaurant,blistered shishitos and crispy pepperoni,43,g,90,mg,1944,g,13,g,18,g,16,g,0,g,0,g,6,g
+831,bjs restaurant,sriracha queso dip with seared hatch chiles,41,g,88,mg,2232,g,112,g,38,g,20,g,1,g,14,g,24,g
+832,bjs restaurant,best beginnings appetizer combo with exxxxtra hot buffalo,120,g,302,mg,6753,g,195,g,85,g,38,g,0,g,20,g,35,g
+833,bjs restaurant,best beginnings appetizer combo with garlic parmesan,141,g,302,mg,5681,g,196,g,84,g,42,g,0,g,19,g,34,g
+834,bjs restaurant,best beginnings appetizer combo with peppered bbq,120,g,302,mg,5948,g,222,g,84,g,38,g,0,g,19,g,61,g
+835,bjs restaurant,best beginnings appetizer combo with hot and spicy buffalo sauce,120,g,302,mg,6784,g,194,g,85,g,38,g,0,g,20,g,35,g
+836,bjs restaurant,best beginnings appetizer combo with nashville hot sauce,141,g,302,mg,6170,g,200,g,85,g,45,g,0,g,21,g,38,g
+837,bjs restaurant,best beginnings appetizer combo with sriracha dry rub,120,g,302,mg,5462,g,195,g,85,g,38,g,0,g,20,g,35,g
+838,bjs restaurant,hickory smoked sausage,51,g,94,mg,2571,g,74,g,33,g,15,g,0,g,4,g,19,g
+839,bjs restaurant,best beginnings appetizer combo with root beer glaze,120,g,302,mg,5819,g,224,g,84,g,38,g,0,g,19,g,64,g
+840,bjs restaurant,best beginnings appetizer combo with cherry chipotle glaze,120,g,302,mg,5442,g,218,g,84,g,38,g,0,g,19,g,56,g
+841,bjs restaurant,strawberry lemonade,0,g,0,mg,15,g,47,g,0,g,0,g,0,g,1,g,42,g
+842,bjs restaurant,handcrafted root beer,0,g,0,mg,28,g,58,g,0,g,0,g,0,g,0,g,56,g
+843,bjs restaurant,handcrafted vanilla cream soda,0,g,0,mg,32,g,47,g,0,g,0,g,0,g,0,g,47,g
+844,bjs restaurant,handcrafted orange cream soda,0,g,0,mg,34,g,51,g,0,g,0,g,0,g,0,g,50,g
+845,bjs restaurant,sweet tea,0,g,0,mg,1,g,48,g,0,g,0,g,0,g,0,g,48,g
+846,bjs restaurant,handcrafted root beer float with ice cream and toppings,19,g,70,mg,132,g,85,g,5,g,12,g,0,g,0,g,79,g
+847,bjs restaurant,sparkling raspberry lemonade,0,g,0,mg,18,g,61,g,0,g,0,g,0,g,1,g,57,g
+848,bjs restaurant,handcrafted orange cream soda float with ice cream and toppings,19,g,70,mg,136,g,81,g,5,g,12,g,0,g,0,g,75,g
+849,bjs restaurant,handcrafted cream soda float with ice cream and toppings,19,g,70,mg,130,g,79,g,5,g,12,g,0,g,0,g,74,g
+850,bjs restaurant,handcrafted black cherry soda,0,g,0,mg,32,g,47,g,0,g,0,g,0,g,0,g,47,g
+851,bjs restaurant,handcrafted ginger beer,0,g,0,mg,22,g,31,g,0,g,0,g,0,g,0,g,30,g
+852,bjs restaurant,peachberry iced tea,0,g,0,mg,0,g,38,g,0,g,0,g,0,g,0,g,37,g
+853,bjs restaurant,salted caramel cold brew iced coffee,18,g,75,mg,214,g,36,g,0,g,12,g,0,g,0,g,36,g
+854,bjs restaurant,orange twist,0,g,0,mg,30,g,66,g,0,g,0,g,0,g,0,g,64,g
+855,bjs restaurant,berry sweet limeade,0,g,0,mg,29,g,56,g,0,g,0,g,0,g,1,g,52,g
+856,bjs restaurant,roy rogers,0,g,0,mg,38,g,54,g,0,g,0,g,0,g,0,g,54,g
+857,bjs restaurant,lemonade,0,g,0,mg,17,g,45,g,0,g,0,g,0,g,0,g,41,g
+858,bjs restaurant,hot chocolate,6,g,0,mg,174,g,25,g,1,g,4,g,0,g,1,g,19,g
+859,bjs restaurant,chocolate milk,9,g,44,mg,293,g,73,g,18,g,5,g,0,g,0,g,61,g
+860,bjs restaurant,mist twist,0,g,0,mg,29,g,33,g,0,g,0,g,0,g,0,g,33,g
+861,bjs restaurant,handcrafted black cherry soda float with ice cream and toppings,19,g,70,mg,135,g,78,g,5,g,12,g,0,g,0,g,73,g
+862,bjs restaurant,milk,10,g,50,mg,300,g,28,g,20,g,6,g,0,g,0,g,26,g
+863,bjs restaurant,brunch avocado toast,20,g,212,mg,616,g,47,g,12,g,4,g,0,g,8,g,20,g
+864,bjs restaurant,brunch french toast 4 pieces,45,g,134,mg,1050,g,123,g,14,g,17,g,0,g,3,g,41,g
+865,bjs restaurant,brunch classic buttermilk pancakes full stack,58,g,0,mg,3144,g,211,g,19,g,17,g,0,g,5,g,65,g
+866,bjs restaurant,breakfast two eggs any style with bacon and sourdough toast,31,g,303,mg,1614,g,85,g,27,g,9,g,0,g,6,g,6,g
+867,bjs restaurant,breakfast sourdough toast,6,g,0,mg,487,g,38,g,7,g,2,g,0,g,2,g,2,g
+868,bjs restaurant,brunch french toast 6 pieces,57,g,201,mg,1530,g,202,g,22,g,22,g,0,g,4,g,73,g
+869,bjs restaurant,brunch enlightened veggie omelette with fresh fruit,8,g,13,mg,767,g,23,g,22,g,3,g,0,g,3,g,13,g
+870,bjs restaurant,brunch blueberry topping,0,g,0,mg,1,g,14,g,1,g,0,g,0,g,2,g,11,g
+871,bjs restaurant,wheat toast,8,g,0,mg,352,g,42,g,6,g,3,g,0,g,3,g,5,g
+872,bjs restaurant,brunch baked italian omelette,63,g,923,mg,2550,g,93,g,53,g,23,g,0,g,9,g,9,g
+873,bjs restaurant,brunch classic buttermilk pancakes short stack,32,g,0,mg,1885,g,143,g,12,g,10,g,0,g,3,g,49,g
+874,bjs restaurant,breakfast fresh fruit,0,g,0,mg,1,g,13,g,1,g,0,g,0,g,1,g,10,g
+875,bjs restaurant,brunch california scramble with sourdough toast,69,g,895,mg,2008,g,90,g,53,g,21,g,0,g,10,g,9,g
+876,bjs restaurant,breakfast ham,5,g,38,mg,840,g,2,g,14,g,2,g,0,g,0,g,2,g
+877,bjs restaurant,brunch classic breakfast bacon sandwich on toasted wheat bread,41,g,620,mg,2203,g,89,g,45,g,14,g,0,g,8,g,9,g
+878,bjs restaurant,brunch breakfast flatbread pizza,12,g,124,mg,336,g,11,g,9,g,4,g,0,g,1,g,1,g
+879,bjs restaurant,breakfast two eggs any style with sausage and sourdough toast,73,g,370,mg,1889,g,85,g,33,g,23,g,0,g,6,g,5,g
+880,bjs restaurant,brunch tacos with breakfast potatoes,65,g,653,mg,2288,g,68,g,48,g,25,g,0,g,7,g,6,g
+881,bjs restaurant,brunch monkey bread pizookie as served,49,g,42,mg,983,g,171,g,14,g,9,g,0,g,6,g,100,g
+882,bjs restaurant,brunch buttermilk pancake combo,23,g,0,mg,1822,g,143,g,12,g,6,g,0,g,3,g,49,g
+883,bjs restaurant,brunch classic breakfast bacon sandwich on toasted sourdough bread,45,g,605,mg,1903,g,85,g,40,g,15,g,0,g,6,g,6,g
+884,bjs restaurant,breakfast seasoned country potatoes,6,g,0,mg,620,g,45,g,4,g,1,g,0,g,5,g,3,g
+885,bjs restaurant,brunch buttermilk pancake combo with bacon,33,g,23,mg,2227,g,144,g,19,g,10,g,0,g,3,g,51,g
+886,bjs restaurant,brunch classic buttermilk pancakes just for kids,25,g,174,mg,800,g,53,g,12,g,8,g,0,g,2,g,24,g
+887,bjs restaurant,breakfast country sausage links,52,g,90,mg,680,g,2,g,14,g,18,g,0,g,0,g,0,g
+888,bjs restaurant,brunch buttermilk pancake combo with ham,27,g,38,mg,2662,g,144,g,25,g,7,g,0,g,3,g,51,g
+889,bjs restaurant,brunch classic breakfast bacon sandwich on toasted gourmet bun,46,g,620,mg,1806,g,93,g,42,g,18,g,0,g,7,g,14,g
+890,bjs restaurant,breakfast strawberry topping,0,g,0,mg,0,g,10,g,1,g,0,g,0,g,1,g,8,g
+891,bjs restaurant,breakfast two eggs any style with sourdough bread,21,g,280,mg,1209,g,83,g,19,g,5,g,0,g,6,g,5,g
+892,bjs restaurant,brunch buttermilk pancake combo with sausage,75,g,90,mg,2502,g,145,g,26,g,24,g,0,g,3,g,49,g
+893,bjs restaurant,brunch bacon slices 3,11,g,23,mg,405,g,2,g,8,g,4,g,0,g,0,g,2,g
+894,bjs restaurant,breakfast two eggs any style with ham and sourdough toast,25,g,318,mg,2049,g,85,g,33,g,6,g,0,g,6,g,6,g
+895,bjs restaurant,bone in wings 10 piece,57,g,172,mg,1405,g,6,g,50,g,14,g,0,g,1,g,1,g
+896,bjs restaurant,bjs original wings,63,g,177,mg,2982,g,8,g,51,g,15,g,0,g,1,g,2,g
+897,bjs restaurant,boneless chicken wings 1 lb,41,g,192,mg,3522,g,59,g,65,g,7,g,0,g,1,g,1,g
+898,bjs restaurant,chocolate chunk pizookie with chocolate chunk ice cream,45,g,119,mg,869,g,172,g,14,g,28,g,0,g,3,g,122,g
+899,bjs restaurant,mini pizookie with chocolate chunk ice cream,23,g,59,mg,434,g,86,g,7,g,14,g,0,g,2,g,61,g
+900,bjs restaurant,cookies n cream pizookie vanilla bean ice cram and mousse dollop,60,g,69,mg,1040,g,159,g,14,g,31,g,0,g,3,g,101,g
+901,bjs restaurant,gluten free chocolate chip pizookie with vanilla bean ice cream,52,g,143,mg,697,g,165,g,13,g,30,g,0,g,4,g,125,g
+902,bjs restaurant,monkey bread pizookie with vanilla ice cream,56,g,112,mg,1082,g,177,g,17,g,20,g,0,g,4,g,105,g
+903,bjs restaurant,mini pizookie with cookies n cream ice cream,32,g,43,mg,534,g,86,g,8,g,17,g,0,g,2,g,56,g
+904,bjs restaurant,hot fudge brownie pizookie with vanilla ice cream whipped cream and cherry,66,g,193,mg,394,g,144,g,18,g,32,g,0,g,6,g,112,g
+905,bjs restaurant,white chocolate macadamia nut pizookie with vanilla bean ice cream,58,g,119,mg,869,g,162,g,14,g,28,g,0,g,3,g,112,g
+906,bjs restaurant,mini gluten free pizookie with chocolate chip ice cream,26,g,71,mg,349,g,83,g,6,g,15,g,0,g,2,g,63,g
+907,bjs restaurant,mini hot fudge brownie pizookie with vanilla ice cream whipped cream and cherry,32,g,95,mg,188,g,72,g,8,g,16,g,0,g,3,g,58,g
+908,bjs restaurant,salted caramel pizookie with vanilla bean ice cream and toppings,55,g,124,mg,1420,g,200,g,14,g,29,g,0,g,1,g,154,g
+909,bjs restaurant,peanut butter pizookie with vanilla ice cream,66,g,111,mg,830,g,136,g,20,g,30,g,0,g,5,g,97,g
+910,bjs restaurant,triple ghirardelli chocolate pizookie with double chocolate chip ice cream,58,g,115,mg,498,g,151,g,16,g,30,g,0,g,8,g,99,g
+911,bjs restaurant,vanilla bean ice cream,9,g,35,mg,58,g,26,g,2,g,6,g,0,g,0,g,23,g
+912,bjs restaurant,baked beignet with ice cream and toppings,25,g,35,mg,494,g,91,g,9,g,9,g,0,g,3,g,56,g
+913,bjs restaurant,ghirardelli double chocolate chip ice cream,10,g,30,mg,54,g,24,g,4,g,6,g,0,g,1,g,20,g
+914,bjs restaurant,sweet potato fries,12,g,0,mg,230,g,52,g,2,g,1,g,0,g,6,g,14,g
+915,bjs restaurant,kids sides fries,13,g,0,mg,430,g,27,g,3,g,3,g,0,g,3,g,0,g
+916,bjs restaurant,kids chicken tenders with ranch dressing without sides or drink,26,g,82,mg,1714,g,31,g,27,g,4,g,0,g,1,g,0,g
+917,bjs restaurant,kids 6 deep dish pepperoni pizza without sides or drink,9,g,16,mg,440,g,17,g,7,g,3,g,0,g,1,g,1,g
+918,bjs restaurant,kids grilled chicken breast without sides or drink,6,g,99,mg,851,g,0,g,39,g,1,g,0,g,0,g,0,g
+919,bjs restaurant,kids mini corn dog without sides or drink,29,g,40,mg,1059,g,36,g,14,g,8,g,0,g,0,g,8,g
+920,bjs restaurant,kids alfredo pasta sauce,29,g,73,mg,695,g,7,g,6,g,17,g,1,g,0,g,4,g
+921,bjs restaurant,kids boneless wings with root beer bbq sauce and ranch dressing without sides or drink,26,g,101,mg,2225,g,51,g,33,g,4,g,0,g,0,g,20,g
+922,bjs restaurant,kids sides happy face potatoes,8,g,0,mg,230,g,24,g,2,g,1,g,0,g,2,g,0,g
+923,bjs restaurant,kids 6 cheese pizza without sides or drink,6,g,12,mg,360,g,16,g,6,g,2,g,0,g,1,g,1,g
+924,bjs restaurant,kids spaghetti,1,g,0,mg,5,g,48,g,8,g,0,g,0,g,2,g,1,g
+925,bjs restaurant,kids burger without sides or drink,27,g,102,mg,948,g,49,g,35,g,12,g,0,g,3,g,10,g
+926,bjs restaurant,kids broiled shrimp with tartar sauce without sides or drink,28,g,210,mg,462,g,4,g,26,g,5,g,0,g,1,g,0,g
+927,bjs restaurant,kids side steamed broccoli,0,g,0,mg,235,g,6,g,3,g,0,g,0,g,2,g,2,g
+928,bjs restaurant,kids fettuccini pasta,1,g,0,mg,9,g,48,g,8,g,0,g,0,g,2,g,3,g
+929,bjs restaurant,kids lemonade,0,g,0,mg,17,g,44,g,0,g,0,g,0,g,0,g,40,g
+930,bjs restaurant,kids marinara pasta sauce,3,g,0,mg,489,g,9,g,2,g,1,g,0,g,2,g,6,g
+931,bjs restaurant,kids garlic knot,4,g,0,mg,210,g,16,g,3,g,1,g,0,g,1,g,1,g
+932,bjs restaurant,kids sides fresh fruit,0,g,0,mg,0,g,13,g,1,g,0,g,0,g,1,g,10,g
+933,bjs restaurant,kids mac and cheese without sides or drink,16,g,35,mg,1190,g,68,g,17,g,5,g,0,g,3,g,16,g
+934,bjs restaurant,kids salted caramel pizookie,28,g,63,mg,736,g,108,g,7,g,14,g,0,g,1,g,85,g
+935,bjs restaurant,kids spaghetti marinara without sides or drink,5,g,0,mg,490,g,57,g,10,g,1,g,0,g,4,g,7,g
+936,bjs restaurant,kids grilled chicken for pasta,3,g,49,mg,425,g,0,g,20,g,1,g,0,g,0,g,0,g
+937,bjs restaurant,kids grilled mahi mahi taco without sides or drink,27,g,72,mg,497,g,13,g,16,g,7,g,0,g,1,g,0,g
+938,bjs restaurant,kids sides mashed potatoes,14,g,41,mg,823,g,25,g,5,g,8,g,0,g,3,g,3,g
+939,bjs restaurant,kids sundae,16,g,35,mg,73,g,56,g,2,g,11,g,0,g,0,g,49,g
+940,bjs restaurant,kids butter and parmesan pasta sauce,2,g,4,mg,31,g,0,g,1,g,1,g,0,g,0,g,0,g
+941,bjs restaurant,kids sides applesauce,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,1,g,15,g
+942,bjs restaurant,kids chocolate milk,4,g,22,mg,146,g,36,g,9,g,3,g,0,g,0,g,30,g
+943,bjs restaurant,kids sides steamed veggies,12,g,0,mg,410,g,13,g,3,g,2,g,0,g,4,g,5,g
+944,bjs restaurant,kids grilled cheese sandwich without sides or drink,22,g,45,mg,750,g,38,g,17,g,10,g,0,g,2,g,2,g
+945,bjs restaurant,kids hot fudge brownie pizookie,32,g,95,mg,188,g,72,g,8,g,16,g,0,g,3,g,58,g
+946,bjs restaurant,kids pizzookie with chocolate chunk ice cream,23,g,59,mg,434,g,86,g,7,g,14,g,0,g,2,g,61,g
+947,bjs restaurant,kids house salad without dressing,3,g,7,mg,205,g,8,g,5,g,1,g,0,g,1,g,1,g
+948,bjs restaurant,kids monkey bread pizookie,28,g,56,mg,541,g,89,g,8,g,10,g,0,g,2,g,52,g
+949,bjs restaurant,kids penne pasta,2,g,0,mg,6,g,31,g,5,g,0,g,0,g,2,g,2,g
+950,bjs restaurant,kids meatball for pasta,12,g,40,mg,185,g,4,g,7,g,5,g,0,g,0,g,1,g
+951,bjs restaurant,kids milk,5,g,25,mg,150,g,14,g,10,g,3,g,0,g,0,g,13,g
+952,bjs restaurant,kids sides small salad,19,g,15,mg,430,g,16,g,2,g,2,g,0,g,1,g,2,g
+953,bjs restaurant,kids pizookie with triple chocolate ice cream,29,g,58,mg,249,g,75,g,8,g,15,g,0,g,4,g,49,g
+954,bjs restaurant,kids mist twist drink,0,g,0,mg,29,g,33,g,0,g,0,g,0,g,0,g,33,g
+955,bjs restaurant,kids cranberry juice,0,g,0,mg,35,g,35,g,0,g,0,g,0,g,0,g,35,g
+956,bjs restaurant,kids sides wedge cut seasoned fries,15,g,0,mg,540,g,36,g,4,g,4,g,0,g,4,g,0,g
+957,bjs restaurant,kids crispy mahi mahi taco without sides or drink,27,g,52,mg,945,g,34,g,13,g,7,g,0,g,2,g,1,g
+958,bjs restaurant,kids veggies and dip,17,g,15,mg,523,g,6,g,2,g,2,g,0,g,2,g,2,g
+959,bjs restaurant,kids pancakes,16,g,0,mg,618,g,54,g,3,g,5,g,0,g,1,g,23,g
+960,bjs restaurant,kids peanut butter pizookie,33,g,56,mg,415,g,68,g,10,g,15,g,0,g,2,g,49,g
+961,bjs restaurant,kids side brown rice and quinoa,3,g,0,mg,139,g,33,g,6,g,0,g,0,g,3,g,0,g
+962,bjs restaurant,kids crispy chicken tender taco without sides or drink,26,g,47,mg,891,g,27,g,15,g,7,g,0,g,1,g,5,g
+963,bjs restaurant,kids sides pasta bread,4,g,0,mg,210,g,16,g,3,g,1,g,0,g,1,g,1,g
+964,bjs restaurant,kids white chocolate macadamia nut ic cream pizookie,29,g,59,mg,434,g,81,g,7,g,14,g,0,g,2,g,56,g
+965,bjs restaurant,dids side sweet potato fries,8,g,0,mg,288,g,35,g,1,g,1,g,0,g,4,g,9,g
+966,bjs restaurant,kids pizookie with cookies n cream ice cream,32,g,43,mg,534,g,86,g,8,g,17,g,0,g,2,g,56,g
+967,bjs restaurant,kids sides rice pilaf,6,g,0,mg,620,g,39,g,5,g,1,g,0,g,1,g,5,g
+968,bjs restaurant,kids gluten free pizookie with chocolate chip ice cream,26,g,71,mg,349,g,83,g,6,g,15,g,0,g,2,g,63,g
+969,bjs restaurant,kids handcrafted root beet,0,g,0,mg,28,g,58,g,0,g,0,g,0,g,0,g,56,g
+970,bjs restaurant,kids apple juice,0,g,0,mg,25,g,29,g,0,g,0,g,0,g,0,g,26,g
+971,bjs restaurant,kids drinks orange juice,0,g,0,mg,20,g,26,g,2,g,0,g,0,g,2,g,21,g
+972,bjs restaurant,lunch chicken tenders with french fries,59,g,110,mg,2844,g,85,g,40,g,10,g,0,g,5,g,5,g
+973,bjs restaurant,lunch classic grilled cheese sandwich with french fries,58,g,96,mg,1714,g,78,g,29,g,25,g,0,g,6,g,2,g
+974,bjs restaurant,lunch grilled chicken alfredo,33,g,105,mg,1003,g,58,g,29,g,17,g,1,g,3,g,8,g
+975,bjs restaurant,lunch jumbo spaghetti and meatballs,43,g,79,mg,1543,g,89,g,29,g,13,g,0,g,7,g,15,g
+976,bjs restaurant,lunch hot ham and grilled cheese sandwich with french fries,61,g,98,mg,3329,g,84,g,35,g,23,g,0,g,8,g,4,g
+977,bjs restaurant,lunch half california club flatbread pizza,22,g,56,mg,936,g,40,g,20,g,8,g,0,g,4,g,0,g
+978,bjs restaurant,lunch grilled chicken alfredo with zucchini noodles,37,g,122,mg,1371,g,35,g,33,g,18,g,1,g,5,g,10,g
+979,bjs restaurant,lunch half pepperoni extreme flatbread pizza,28,g,68,mg,1216,g,40,g,20,g,12,g,0,g,0,g,0,g
+980,bjs restaurant,lunch half margherita flatbread pizza,20,g,48,mg,892,g,40,g,20,g,8,g,0,g,4,g,4,g
+981,bjs restaurant,lunch piranha pale ale chili and cheese stuffed potato,36,g,110,mg,1112,g,84,g,34,g,21,g,0,g,8,g,6,g
+982,bjs restaurant,lunch caprese piadina with french fries,45,g,54,mg,1514,g,94,g,30,g,15,g,0,g,8,g,6,g
+983,bjs restaurant,lunch half california chicken club sandwich,43,g,81,mg,1672,g,65,g,39,g,12,g,0,g,7,g,3,g
+984,bjs restaurant,lunch lemon lime chicken as served,16,g,100,mg,2009,g,39,g,45,g,2,g,0,g,5,g,5,g
+985,bjs restaurant,lunch buffalo chicken grilled cheese sandwich with french fries,66,g,114,mg,536,g,104,g,45,g,20,g,0,g,7,g,4,g
+986,bjs restaurant,lunch southern fried chicken as served,53,g,237,mg,2086,g,69,g,38,g,31,g,0,g,5,g,8,g
+987,bjs restaurant,lunch chicken bacon ranch piadina with french fries,62,g,106,mg,2353,g,92,g,43,g,17,g,0,g,7,g,4,g
+988,bjs restaurant,lunch creamy broccoli potato,44,g,128,mg,1010,g,82,g,34,g,27,g,1,g,8,g,8,g
+989,bjs restaurant,lunch grilled chicken potato,50,g,226,mg,1830,g,77,g,70,g,28,g,1,g,6,g,6,g
+990,bjs restaurant,lunch meat lovers piadina with french fries,67,g,105,mg,2231,g,97,g,31,g,22,g,0,g,8,g,5,g
+991,bjs restaurant,lunch bacon and cheese potato,69,g,139,mg,1287,g,72,g,40,g,34,g,0,g,5,g,6,g
+992,bjs restaurant,lunch jumbo spaghetti and meatballs with zucchini noodles,42,g,79,mg,1564,g,49,g,24,g,13,g,0,g,7,g,18,g
+993,bjs restaurant,burger substitute veggie patty,7,g,10,mg,630,g,21,g,8,g,2,g,0,g,3,g,0,g
+994,bjs restaurant,burger substitutes parker house bun,9,g,15,mg,460,g,47,g,9,g,5,g,0,g,2,g,9,g
+995,bjs restaurant,gluten free burger bun,7,g,0,mg,480,g,43,g,6,g,1,g,0,g,5,g,6,g
+996,bjs restaurant,add on grilled chicken,6,g,99,mg,851,g,0,g,39,g,1,g,0,g,0,g,0,g
+997,bjs restaurant,add on blackened salmon,25,g,117,mg,742,g,6,g,40,g,5,g,0,g,0,g,0,g
+998,bjs restaurant,add on blackened chicken,6,g,99,mg,697,g,4,g,40,g,1,g,0,g,0,g,0,g
+999,bjs restaurant,burger substitute brewhouse burger patty,19,g,87,mg,870,g,1,g,26,g,7,g,0,g,0,g,0,g

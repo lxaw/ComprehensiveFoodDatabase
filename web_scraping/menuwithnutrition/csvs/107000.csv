@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,moes southwest grill,kids corn pico,1,g,0,mg,95,g,4,g,1,g,1,g,0,g,1,g,1,g
+1,moes southwest grill,kids diced cucumbers,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,1,g
+2,moes southwest grill,kids diced onions,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+3,moes southwest grill,kids diced tomatoes,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,1,g,2,g
+4,moes southwest grill,kids fish,3,g,15,mg,20,g,1,g,11,g,1,g,0,g,1,g,1,g
+5,moes southwest grill,kids fish double portion,6,g,35,mg,40,g,2,g,22,g,2,g,0,g,2,g,2,g
+6,moes southwest grill,kids fresh jalapenos,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,2,g
+7,moes southwest grill,kids grilled mushrooms,2,g,0,mg,25,g,2,g,1,g,1,g,0,g,1,g,1,g
+8,moes southwest grill,kids grilled onions,2,g,0,mg,15,g,2,g,1,g,1,g,0,g,1,g,2,g
+9,moes southwest grill,kids grilled peppers,1,g,0,mg,15,g,2,g,1,g,1,g,0,g,1,g,1,g
+10,moes southwest grill,kids ground beef,4,g,15,mg,190,g,3,g,6,g,2,g,0,g,2,g,2,g
+11,moes southwest grill,kids ground beef double portion,8,g,25,mg,370,g,6,g,12,g,4,g,0,g,4,g,4,g
+12,moes southwest grill,kids guacamole,3,g,0,mg,115,g,3,g,1,g,1,g,0,g,2,g,1,g
+13,moes southwest grill,kids lime wedge,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+14,moes southwest grill,kids organic tofu,4,g,0,mg,105,g,2,g,5,g,2,g,0,g,2,g,1,g
+15,moes southwest grill,kids organic tofu double portion,8,g,0,mg,210,g,4,g,10,g,4,g,0,g,4,g,2,g
+16,moes southwest grill,kids pickled jalapenos,0,g,0,mg,240,g,1,g,0,g,0,g,0,g,0,g,0,g
+17,moes southwest grill,kids pico de gallo,1,g,0,mg,135,g,3,g,1,g,0,g,0,g,1,g,1,g
+18,moes southwest grill,kids pinto beans,1,g,0,mg,50,g,8,g,4,g,1,g,0,g,4,g,0,g
+19,moes southwest grill,kids pork carnitas,4,g,15,mg,190,g,1,g,7,g,2,g,0,g,0,g,1,g
+20,moes southwest grill,kids pork carnitas double portion,8,g,35,mg,380,g,2,g,14,g,4,g,0,g,0,g,2,g
+21,moes southwest grill,kids queso,8,g,25,mg,350,g,5,g,5,g,5,g,0,g,0,g,0,g
+22,moes southwest grill,kids seasoned rice,1,g,0,mg,70,g,12,g,2,g,1,g,0,g,1,g,1,g
+23,moes southwest grill,kids shredded cheese,6,g,20,mg,110,g,1,g,5,g,4,g,0,g,0,g,0,g
+24,moes southwest grill,kids shredded lettuce,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,1,g
+25,moes southwest grill,kids sour cream,3,g,10,mg,10,g,1,g,1,g,2,g,0,g,0,g,1,g
+26,moes southwest grill,kids southwest slaw,2,g,0,mg,25,g,1,g,1,g,1,g,0,g,0,g,0,g
+27,moes southwest grill,kids southwest vinaigrette,6,g,0,mg,140,g,2,g,0,g,2,g,0,g,0,g,0,g
+28,moes southwest grill,kids steak,2,g,15,mg,180,g,1,g,5,g,0,g,0,g,1,g,0,g
+29,moes southwest grill,kids steak double portion,4,g,30,mg,360,g,2,g,10,g,0,g,0,g,2,g,0,g
+30,moes southwest grill,kids tortilla 6 inch corn tortilla,4,g,0,mg,0,g,8,g,1,g,1,g,0,g,1,g,0,g
+31,moes southwest grill,kids white meat chicken,2,g,35,mg,75,g,0,g,10,g,0,g,0,g,0,g,0,g
+32,moes southwest grill,kids white meat chicken double portion,4,g,65,mg,150,g,0,g,20,g,0,g,0,g,0,g,0,g
+33,moes southwest grill,nachos adobo chicken,8,g,75,mg,380,g,2,g,19,g,3,g,0,g,0,g,0,g
+34,moes southwest grill,nachos adobo chicken double portion,16,g,155,mg,760,g,4,g,38,g,6,g,0,g,0,g,0,g
+35,moes southwest grill,nachos bacon pieces,7,g,30,mg,390,g,1,g,10,g,3,g,0,g,1,g,1,g
+36,moes southwest grill,nachos black beans,2,g,0,mg,350,g,22,g,8,g,1,g,0,g,10,g,1,g
+37,moes southwest grill,nachos black olives,4,g,0,mg,180,g,2,g,0,g,1,g,0,g,0,g,0,g
+38,moes southwest grill,nachos chipotle ranch,8,g,5,mg,70,g,1,g,1,g,2,g,0,g,0,g,1,g
+39,moes southwest grill,nachos chips,38,g,0,mg,350,g,86,g,9,g,8,g,0,g,9,g,2,g
+40,moes southwest grill,nachos chopped cilantro,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+41,moes southwest grill,nachos corn pico,2,g,0,mg,160,g,7,g,1,g,0,g,0,g,1,g,1,g
+42,moes southwest grill,nachos diced cucumbers,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,1,g
+43,moes southwest grill,nachos diced onions,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+44,moes southwest grill,nachos diced tomatoes,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,1,g,2,g
+45,moes southwest grill,nachos extras queso,11,g,35,mg,490,g,6,g,6,g,7,g,0,g,0,g,0,g
+46,moes southwest grill,nachos fish,4,g,45,mg,55,g,1,g,20,g,1,g,0,g,1,g,1,g
+47,moes southwest grill,nachos fish double portion,8,g,90,mg,105,g,2,g,40,g,2,g,0,g,2,g,2,g
+48,moes southwest grill,nachos fresh jalapenos,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,2,g
+49,moes southwest grill,nachos grilled mushrooms,2,g,0,mg,45,g,2,g,1,g,1,g,0,g,1,g,1,g
+50,moes southwest grill,nachos grilled onions,2,g,0,mg,25,g,3,g,1,g,1,g,0,g,1,g,2,g
+51,moes southwest grill,nachos grilled peppers,1,g,0,mg,30,g,2,g,1,g,1,g,0,g,1,g,1,g
+52,moes southwest grill,nachos ground beef,7,g,30,mg,420,g,5,g,11,g,3,g,0,g,2,g,2,g
+53,moes southwest grill,nachos ground beef double portion,14,g,55,mg,840,g,10,g,22,g,6,g,0,g,4,g,4,g
+54,moes southwest grill,nachos guacamole,5,g,0,mg,190,g,4,g,1,g,1,g,0,g,2,g,1,g
+55,moes southwest grill,nachos lime wedge,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+56,moes southwest grill,nachos organic tofu,8,g,0,mg,270,g,2,g,10,g,2,g,0,g,2,g,1,g
+57,moes southwest grill,nachos organic tofu double portion,16,g,0,mg,530,g,4,g,20,g,4,g,0,g,4,g,2,g
+58,moes southwest grill,nachos pickled jalapenos,0,g,0,mg,430,g,1,g,0,g,0,g,0,g,0,g,0,g
+59,moes southwest grill,nachos pico de gallo,1,g,0,mg,220,g,4,g,1,g,0,g,0,g,1,g,1,g
+60,moes southwest grill,nachos pinto beans,1,g,0,mg,150,g,21,g,8,g,1,g,0,g,10,g,0,g
+61,moes southwest grill,nachos pork carnitas,8,g,55,mg,510,g,1,g,17,g,3,g,0,g,0,g,1,g
+62,moes southwest grill,nachos pork carnitas double portion,16,g,110,mg,1020,g,2,g,34,g,6,g,0,g,0,g,2,g
+63,moes southwest grill,nachos queso,22,g,70,mg,990,g,12,g,12,g,14,g,0,g,0,g,0,g
+64,moes southwest grill,nachos shredded cheese,10,g,35,mg,200,g,2,g,8,g,6,g,0,g,0,g,0,g
+65,moes southwest grill,nachos shredded lettuce,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,1,g
+66,moes southwest grill,nachos sour cream,6,g,25,mg,15,g,2,g,2,g,4,g,0,g,0,g,2,g
+67,moes southwest grill,nachos southwest vinaigrette,8,g,0,mg,210,g,2,g,0,g,2,g,0,g,0,g,0,g
+68,moes southwest grill,nachos steak,5,g,35,mg,250,g,3,g,15,g,1,g,0,g,1,g,0,g
+69,moes southwest grill,nachos steak double portion,10,g,70,mg,500,g,6,g,30,g,2,g,0,g,2,g,0,g
+70,moes southwest grill,nachos white meat chicken,4,g,75,mg,170,g,0,g,23,g,1,g,0,g,0,g,0,g
+71,moes southwest grill,nachos white meat chicken double portion,8,g,150,mg,340,g,0,g,46,g,2,g,0,g,0,g,0,g
+72,moes southwest grill,quesadillas 10 inch flour tortilla,5,g,0,mg,200,g,32,g,5,g,2,g,0,g,1,g,1,g
+73,moes southwest grill,quesadillas adobo chicken,8,g,75,mg,380,g,2,g,19,g,3,g,0,g,0,g,0,g
+74,moes southwest grill,quesadillas adobo chicken double portion,16,g,155,mg,760,g,4,g,38,g,6,g,0,g,0,g,0,g
+75,moes southwest grill,quesadillas bacon pieces,7,g,30,mg,390,g,1,g,10,g,3,g,0,g,1,g,1,g
+76,moes southwest grill,quesadillas black beans,2,g,0,mg,350,g,22,g,8,g,1,g,0,g,10,g,1,g
+77,moes southwest grill,quesadillas black olives,4,g,0,mg,180,g,2,g,0,g,1,g,0,g,0,g,0,g
+78,moes southwest grill,quesadillas chipotle ranch,8,g,5,mg,70,g,1,g,1,g,2,g,0,g,0,g,1,g
+79,moes southwest grill,quesadillas chopped cilantro,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+80,moes southwest grill,quesadillas corn pico,2,g,0,mg,160,g,7,g,1,g,0,g,0,g,1,g,1,g
+81,moes southwest grill,quesadillas diced cucumbers,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,1,g
+82,moes southwest grill,quesadillas diced onions,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+83,moes southwest grill,quesadillas diced tomatoes,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,1,g,2,g
+84,moes southwest grill,quesadillas fish,4,g,45,mg,55,g,1,g,20,g,1,g,0,g,1,g,1,g
+85,moes southwest grill,quesadillas fish double portion,8,g,90,mg,105,g,2,g,40,g,2,g,0,g,2,g,2,g
+86,moes southwest grill,quesadillas fresh jalapenos,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,2,g
+87,moes southwest grill,quesadillas grilled mushrooms,2,g,0,mg,45,g,2,g,1,g,1,g,0,g,1,g,1,g
+88,moes southwest grill,quesadillas grilled onions,2,g,0,mg,25,g,3,g,1,g,1,g,0,g,1,g,2,g
+89,moes southwest grill,quesadillas grilled peppers,1,g,0,mg,30,g,2,g,1,g,1,g,0,g,1,g,1,g
+90,moes southwest grill,quesadillas ground beef,7,g,30,mg,420,g,5,g,11,g,3,g,0,g,2,g,2,g
+91,moes southwest grill,quesadillas ground beef double portion,14,g,55,mg,840,g,10,g,22,g,6,g,0,g,4,g,4,g
+92,moes southwest grill,quesadillas guacamole,5,g,0,mg,190,g,4,g,1,g,1,g,0,g,2,g,1,g
+93,moes southwest grill,quesadillas lime wedge,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+94,moes southwest grill,quesadillas organic tofu,8,g,0,mg,270,g,2,g,10,g,2,g,0,g,2,g,1,g
+95,moes southwest grill,quesadillas organic tofu double portion,16,g,0,mg,530,g,4,g,20,g,4,g,0,g,4,g,2,g
+96,moes southwest grill,quesadillas pickled jalapenos,0,g,0,mg,430,g,1,g,0,g,0,g,0,g,0,g,0,g
+97,moes southwest grill,quesadillas pico de gallo,1,g,0,mg,220,g,4,g,1,g,0,g,0,g,1,g,1,g
+98,moes southwest grill,quesadillas pinto beans,1,g,0,mg,150,g,21,g,8,g,1,g,0,g,10,g,0,g
+99,moes southwest grill,quesadillas pork carnitas,8,g,55,mg,510,g,1,g,17,g,3,g,0,g,0,g,1,g
+100,moes southwest grill,quesadillas pork carnitas double portion,16,g,110,mg,1020,g,2,g,34,g,6,g,0,g,0,g,2,g
+101,moes southwest grill,quesadillas queso,11,g,35,mg,490,g,6,g,6,g,7,g,0,g,0,g,0,g
+102,moes southwest grill,quesadillas shredded cheese,20,g,65,mg,400,g,4,g,16,g,12,g,0,g,0,g,0,g
+103,moes southwest grill,quesadillas shredded lettuce,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,1,g
+104,moes southwest grill,quesadillas sour cream,6,g,25,mg,15,g,2,g,2,g,4,g,0,g,0,g,2,g
+105,moes southwest grill,quesadillas southwest vinaigrette,8,g,0,mg,210,g,2,g,0,g,2,g,0,g,0,g,0,g
+106,moes southwest grill,quesadillas steak,5,g,35,mg,250,g,3,g,15,g,1,g,0,g,1,g,0,g
+107,moes southwest grill,quesadillas steak double portion,10,g,70,mg,500,g,6,g,30,g,2,g,0,g,2,g,0,g
+108,moes southwest grill,quesadillas white meat chicken,4,g,75,mg,170,g,0,g,23,g,1,g,0,g,0,g,0,g
+109,moes southwest grill,quesadillas white meat chicken double portion,8,g,150,mg,340,g,0,g,46,g,2,g,0,g,0,g,0,g
+110,moes southwest grill,salads adobo chicken,8,g,75,mg,380,g,2,g,19,g,3,g,0,g,0,g,0,g
+111,moes southwest grill,salads adobo chicken double portion,16,g,155,mg,760,g,4,g,38,g,6,g,0,g,0,g,0,g
+112,moes southwest grill,salads bacon pieces,7,g,30,mg,390,g,1,g,10,g,3,g,0,g,1,g,1,g
+113,moes southwest grill,salads black beans,2,g,0,mg,350,g,22,g,8,g,1,g,0,g,10,g,1,g
+114,moes southwest grill,salads black olives,4,g,0,mg,180,g,2,g,0,g,1,g,0,g,0,g,0,g
+115,moes southwest grill,salads chipotle ranch,8,g,5,mg,70,g,1,g,1,g,2,g,0,g,0,g,1,g
+116,moes southwest grill,salads chopped cilantro,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+117,moes southwest grill,salads chopped romaine,0,g,0,mg,0,g,2,g,2,g,0,g,0,g,2,g,0,g
+118,moes southwest grill,salads corn pico,2,g,0,mg,160,g,7,g,1,g,0,g,0,g,1,g,1,g
+119,moes southwest grill,salads diced cucumbers,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,1,g
+120,moes southwest grill,salads diced onions,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+121,moes southwest grill,salads diced tomatoes,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,1,g,2,g
+122,moes southwest grill,salads fish,4,g,45,mg,55,g,1,g,20,g,1,g,0,g,1,g,1,g
+123,moes southwest grill,salads fish double portion,8,g,90,mg,105,g,2,g,40,g,2,g,0,g,2,g,2,g
+124,moes southwest grill,salads fresh jalapenos,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,2,g
+125,moes southwest grill,salads grilled mushrooms,2,g,0,mg,45,g,2,g,1,g,1,g,0,g,1,g,1,g
+126,moes southwest grill,salads grilled onions,2,g,0,mg,25,g,3,g,1,g,1,g,0,g,1,g,2,g
+127,moes southwest grill,salads grilled peppers,1,g,0,mg,30,g,2,g,1,g,1,g,0,g,1,g,1,g
+128,moes southwest grill,salads ground beef,7,g,30,mg,420,g,5,g,11,g,3,g,0,g,2,g,2,g
+129,moes southwest grill,salads ground beef double portion,14,g,55,mg,840,g,10,g,22,g,6,g,0,g,4,g,4,g
+130,moes southwest grill,salads guacamole,5,g,0,mg,190,g,4,g,1,g,1,g,0,g,2,g,1,g
+131,moes southwest grill,salads lime wedge,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+132,moes southwest grill,salads organic tofu,8,g,0,mg,270,g,2,g,10,g,2,g,0,g,2,g,1,g
+133,moes southwest grill,salads organic tofu double portion,16,g,0,mg,530,g,4,g,20,g,4,g,0,g,4,g,2,g
+134,moes southwest grill,salads pickled jalapenos,0,g,0,mg,430,g,1,g,0,g,0,g,0,g,0,g,0,g
+135,moes southwest grill,salads pico de gallo,1,g,0,mg,220,g,4,g,1,g,0,g,0,g,1,g,1,g
+136,moes southwest grill,salads pinto beans,1,g,0,mg,150,g,21,g,8,g,1,g,0,g,10,g,0,g
+137,moes southwest grill,salads pork carnitas,8,g,55,mg,510,g,1,g,17,g,3,g,0,g,0,g,1,g
+138,moes southwest grill,salads pork carnitas double portion,16,g,110,mg,1020,g,2,g,34,g,6,g,0,g,0,g,2,g
+139,moes southwest grill,salads queso,11,g,35,mg,490,g,6,g,6,g,7,g,0,g,0,g,0,g
+140,moes southwest grill,salads salad bowl,33,g,0,mg,270,g,34,g,7,g,6,g,0,g,2,g,1,g
+141,moes southwest grill,salads shredded cheese,10,g,35,mg,200,g,2,g,8,g,6,g,0,g,0,g,0,g
+142,moes southwest grill,salads shredded lettuce,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,1,g
+143,moes southwest grill,salads sour cream,6,g,25,mg,15,g,2,g,2,g,4,g,0,g,0,g,2,g
+144,moes southwest grill,salads southwest vinaigrette,8,g,0,mg,210,g,2,g,0,g,2,g,0,g,0,g,0,g
+145,moes southwest grill,salads steak,5,g,35,mg,250,g,3,g,15,g,1,g,0,g,1,g,0,g
+146,moes southwest grill,salads steak double portion,10,g,70,mg,500,g,6,g,30,g,2,g,0,g,2,g,0,g
+147,moes southwest grill,salads white meat chicken,4,g,75,mg,170,g,0,g,23,g,1,g,0,g,0,g,0,g
+148,moes southwest grill,salads white meat chicken double portion,8,g,150,mg,340,g,0,g,46,g,2,g,0,g,0,g,0,g
+149,moes southwest grill,salsas el guapo,0,g,0,mg,95,g,2,g,1,g,0,g,0,g,1,g,1,g
+150,moes southwest grill,salsas kaiser,0,g,0,mg,120,g,3,g,1,g,0,g,0,g,1,g,1,g
+151,moes southwest grill,salsas space bgreen us,2,g,0,mg,170,g,2,g,0,g,0,g,0,g,1,g,1,g
+152,moes southwest grill,salsas tomatillo,1,g,0,mg,150,g,2,g,1,g,0,g,0,g,1,g,1,g
+153,moes southwest grill,salsas tres jalapeno,0,g,0,mg,30,g,2,g,1,g,0,g,0,g,1,g,1,g
+154,moes southwest grill,sides bowl of baja enchilada soup,19,g,70,mg,1190,g,17,g,13,g,9,g,1,g,3,g,6,g
+155,moes southwest grill,sides bowl of guacamole,30,g,0,mg,1120,g,24,g,7,g,7,g,0,g,12,g,7,g
+156,moes southwest grill,sides bowl of queso,69,g,210,mg,2760,g,39,g,39,g,45,g,0,g,0,g,0,g
+157,moes southwest grill,sides chipotle ranch,26,g,10,mg,240,g,3,g,1,g,4,g,0,g,0,g,2,g
+158,moes southwest grill,sides chips,21,g,0,mg,200,g,48,g,5,g,4,g,0,g,5,g,1,g
+159,moes southwest grill,sides cup of black bean queso,49,g,140,mg,2270,g,38,g,31,g,32,g,0,g,5,g,2,g
+160,moes southwest grill,sides cup of chili con queso,51,g,160,mg,2360,g,32,g,34,g,32,g,0,g,4,g,5,g
+161,moes southwest grill,sides cup of guacamole,23,g,0,mg,870,g,18,g,5,g,5,g,0,g,9,g,5,g
+162,moes southwest grill,sides cup of queso,46,g,140,mg,2060,g,26,g,26,g,30,g,0,g,0,g,0,g
+163,moes southwest grill,sides cup of spicy queso,51,g,160,mg,2320,g,29,g,34,g,32,g,0,g,2,g,4,g
+164,moes southwest grill,sides guacamole,5,g,0,mg,190,g,4,g,1,g,1,g,0,g,2,g,1,g
+165,moes southwest grill,sides hard rock and roll hot sauce,1,g,0,mg,70,g,1,g,1,g,0,g,0,g,1,g,1,g
+166,moes southwest grill,sides pico de gallo,1,g,0,mg,220,g,4,g,1,g,0,g,0,g,1,g,1,g
+167,moes southwest grill,sides queso,11,g,35,mg,490,g,6,g,6,g,7,g,0,g,0,g,0,g
+168,moes southwest grill,sides side of quinoa,1,g,0,mg,70,g,5,g,1,g,0,g,0,g,1,g,1,g
+169,moes southwest grill,sides sour cream,6,g,25,mg,15,g,2,g,2,g,4,g,0,g,0,g,2,g
+170,moes southwest grill,sides southwest vinaigrette,21,g,0,mg,570,g,5,g,1,g,4,g,0,g,1,g,0,g
+171,moes southwest grill,stacks 12 inch flour tortilla,8,g,0,mg,320,g,51,g,8,g,3,g,0,g,1,g,1,g
+172,moes southwest grill,stacks adobo chicken,8,g,75,mg,380,g,2,g,19,g,3,g,0,g,0,g,0,g
+173,moes southwest grill,stacks adobo chicken double portion,16,g,155,mg,760,g,4,g,38,g,6,g,0,g,0,g,0,g
+174,moes southwest grill,stacks bacon pieces,7,g,30,mg,390,g,1,g,10,g,3,g,0,g,1,g,1,g
+175,moes southwest grill,stacks black beans,2,g,0,mg,350,g,22,g,8,g,1,g,0,g,10,g,1,g
+176,moes southwest grill,stacks black olives,4,g,0,mg,180,g,2,g,0,g,1,g,0,g,0,g,0,g
+177,moes southwest grill,stacks chipotle ranch,8,g,5,mg,70,g,1,g,1,g,2,g,0,g,0,g,1,g
+178,moes southwest grill,stacks chopped cilantro,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+179,moes southwest grill,stacks corn pico,2,g,0,mg,160,g,7,g,1,g,0,g,0,g,1,g,1,g
+180,moes southwest grill,stacks diced cucumbers,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,1,g
+181,moes southwest grill,stacks diced onions,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+182,moes southwest grill,stacks diced tomatoes,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,1,g,2,g
+183,moes southwest grill,stacks extras queso,11,g,35,mg,490,g,6,g,6,g,7,g,0,g,0,g,0,g
+184,moes southwest grill,stacks fish,4,g,45,mg,55,g,1,g,20,g,1,g,0,g,1,g,1,g
+185,moes southwest grill,stacks fish double portion,8,g,90,mg,105,g,2,g,40,g,2,g,0,g,2,g,2,g
+186,moes southwest grill,stacks fresh jalapenos,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,2,g
+187,moes southwest grill,stacks grilled mushrooms,2,g,0,mg,45,g,2,g,1,g,1,g,0,g,1,g,1,g
+188,moes southwest grill,stacks grilled onions,2,g,0,mg,25,g,3,g,1,g,1,g,0,g,1,g,2,g
+189,moes southwest grill,stacks grilled peppers,1,g,0,mg,30,g,2,g,1,g,1,g,0,g,1,g,1,g
+190,moes southwest grill,stacks ground beef,7,g,30,mg,420,g,5,g,11,g,3,g,0,g,2,g,2,g
+191,moes southwest grill,stacks ground beef double portion,14,g,55,mg,840,g,10,g,22,g,6,g,0,g,4,g,4,g
+192,moes southwest grill,stacks guacamole,5,g,0,mg,190,g,4,g,1,g,1,g,0,g,2,g,1,g
+193,moes southwest grill,stacks lime wedge,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+194,moes southwest grill,stacks organic tofu,8,g,0,mg,270,g,2,g,10,g,2,g,0,g,2,g,1,g
+195,moes southwest grill,stacks organic tofu double portion,16,g,0,mg,530,g,4,g,20,g,4,g,0,g,4,g,2,g
+196,moes southwest grill,stacks pickled jalapenos,0,g,0,mg,430,g,1,g,0,g,0,g,0,g,0,g,0,g
+197,moes southwest grill,stacks pico de gallo,1,g,0,mg,220,g,4,g,1,g,0,g,0,g,1,g,1,g
+198,moes southwest grill,stacks pinto beans,1,g,0,mg,150,g,21,g,8,g,1,g,0,g,10,g,0,g
+199,moes southwest grill,stacks pork carnitas,8,g,55,mg,510,g,1,g,17,g,3,g,0,g,0,g,1,g
+200,moes southwest grill,stacks pork carnitas double portion,16,g,110,mg,1020,g,2,g,34,g,6,g,0,g,0,g,2,g
+201,moes southwest grill,stacks queso,12,g,35,mg,520,g,8,g,8,g,8,g,0,g,0,g,0,g
+202,moes southwest grill,stacks shredded cheese,12,g,35,mg,220,g,2,g,10,g,8,g,0,g,0,g,0,g
+203,moes southwest grill,stacks shredded lettuce,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,1,g
+204,moes southwest grill,stacks sour cream,6,g,25,mg,15,g,2,g,2,g,4,g,0,g,0,g,2,g
+205,moes southwest grill,stacks southwest vinaigrette,8,g,0,mg,210,g,2,g,0,g,2,g,0,g,0,g,0,g
+206,moes southwest grill,stacks steak,5,g,35,mg,250,g,3,g,15,g,1,g,0,g,1,g,0,g
+207,moes southwest grill,stacks steak double portion,10,g,70,mg,500,g,6,g,30,g,2,g,0,g,2,g,0,g
+208,moes southwest grill,stacks white meat chicken,4,g,75,mg,170,g,0,g,23,g,1,g,0,g,0,g,0,g
+209,moes southwest grill,stacks white meat chicken double portion,8,g,150,mg,340,g,0,g,46,g,2,g,0,g,0,g,0,g
+210,moes southwest grill,tacos avocado lime crema,0,g,5,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+211,moes southwest grill,tacos bacon pieces,5,g,20,mg,240,g,1,g,7,g,2,g,0,g,1,g,1,g
+212,moes southwest grill,tacos black beans,2,g,0,mg,220,g,14,g,6,g,1,g,0,g,7,g,1,g
+213,moes southwest grill,tacos black olives,3,g,0,mg,100,g,2,g,0,g,1,g,0,g,0,g,0,g
+214,moes southwest grill,tacos chicken,4,g,30,mg,140,g,2,g,8,g,2,g,0,g,0,g,0,g
+215,moes southwest grill,tacos chicken double portion,16,g,115,mg,560,g,8,g,32,g,8,g,0,g,0,g,0,g
+216,moes southwest grill,tacos chipotle ranch,5,g,5,mg,45,g,1,g,1,g,2,g,0,g,0,g,1,g
+217,moes southwest grill,tacos chopped cilantro,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+218,moes southwest grill,tacos corn pico,1,g,0,mg,95,g,4,g,1,g,1,g,0,g,1,g,1,g
+219,moes southwest grill,tacos diced cucumbers,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,1,g
+220,moes southwest grill,tacos diced onions,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+221,moes southwest grill,tacos diced tomatoes,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,1,g,2,g
+222,moes southwest grill,tacos fish,3,g,15,mg,20,g,1,g,11,g,1,g,0,g,1,g,1,g
+223,moes southwest grill,tacos fish double portion,6,g,35,mg,40,g,2,g,22,g,2,g,0,g,2,g,2,g
+224,moes southwest grill,tacos fresh jalapenos,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,2,g
+225,moes southwest grill,tacos grilled mushrooms,2,g,0,mg,25,g,2,g,1,g,1,g,0,g,1,g,1,g
+226,moes southwest grill,tacos grilled onions,2,g,0,mg,15,g,2,g,1,g,1,g,0,g,1,g,2,g
+227,moes southwest grill,tacos grilled peppers,1,g,0,mg,15,g,2,g,1,g,1,g,0,g,1,g,1,g
+228,moes southwest grill,tacos ground beef,5,g,20,mg,290,g,4,g,9,g,3,g,0,g,3,g,3,g
+229,moes southwest grill,tacos ground beef double portion,10,g,40,mg,570,g,8,g,18,g,6,g,0,g,6,g,6,g
+230,moes southwest grill,tacos guacamole,3,g,0,mg,115,g,3,g,1,g,1,g,0,g,2,g,1,g
+231,moes southwest grill,tacos lime wedge,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+232,moes southwest grill,tacos mojo chicken,8,g,20,mg,200,g,2,g,6,g,1,g,0,g,0,g,1,g
+233,moes southwest grill,tacos mojo chicken double portion,16,g,40,mg,400,g,4,g,12,g,2,g,0,g,0,g,2,g
+234,moes southwest grill,tacos pickled jalapenos,0,g,0,mg,240,g,1,g,0,g,0,g,0,g,0,g,0,g
+235,moes southwest grill,tacos pickled red onions,0,g,0,mg,20,g,1,g,1,g,0,g,0,g,1,g,1,g
+236,moes southwest grill,tacos pico de gallo,1,g,0,mg,135,g,3,g,1,g,0,g,0,g,1,g,1,g
+237,moes southwest grill,tacos pinto beans,1,g,0,mg,95,g,14,g,6,g,1,g,0,g,7,g,0,g
+238,moes southwest grill,tacos pork carnitas,4,g,15,mg,190,g,1,g,7,g,2,g,0,g,0,g,1,g
+239,moes southwest grill,tacos pork carnitas double portion,8,g,35,mg,380,g,2,g,14,g,4,g,0,g,0,g,2,g
+240,moes southwest grill,tacos queso,8,g,25,mg,350,g,5,g,5,g,5,g,0,g,0,g,0,g
+241,moes southwest grill,tacos queso fresco,2,g,5,mg,35,g,0,g,0,g,1,g,0,g,0,g,0,g
+242,moes southwest grill,tacos shredded cabbage,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+243,moes southwest grill,tacos shredded cheese,6,g,20,mg,110,g,1,g,5,g,4,g,0,g,0,g,0,g
+244,moes southwest grill,tacos shredded lettuce,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,1,g
+245,moes southwest grill,tacos sour cream,3,g,10,mg,10,g,1,g,1,g,2,g,0,g,0,g,1,g
+246,moes southwest grill,tacos southwest slaw,2,g,0,mg,25,g,1,g,1,g,1,g,0,g,0,g,0,g
+247,moes southwest grill,tacos southwest vinaigrette,6,g,0,mg,140,g,2,g,0,g,2,g,0,g,0,g,0,g
+248,moes southwest grill,tacos steak,2,g,15,mg,180,g,1,g,5,g,0,g,0,g,0,g,0,g
+249,moes southwest grill,tacos steak double portion,4,g,30,mg,360,g,2,g,10,g,0,g,0,g,0,g,0,g
+250,moes southwest grill,tacos tofu,4,g,0,mg,105,g,2,g,5,g,2,g,0,g,2,g,1,g
+251,moes southwest grill,tacos tofu double portion,8,g,0,mg,210,g,4,g,10,g,4,g,0,g,4,g,2,g
+252,moes southwest grill,tacos white meat chicken,2,g,35,mg,75,g,0,g,10,g,0,g,0,g,0,g,0,g
+253,moes southwest grill,tacos white meat chicken double portion,4,g,65,mg,150,g,0,g,20,g,0,g,0,g,0,g,0,g
+254,moes southwest grill,tortilla 2 6 inch corn tortillas,8,g,0,mg,0,g,16,g,2,g,2,g,0,g,2,g,0,g
+255,monicals pizza,fried hot wings 12 with buffalo wing sauce,76,g,241,mg,5555,g,13,g,73,g,19,g,0,g,1.8,g,2,g
+256,monicals pizza,pepperollies 3 with marinara sauce,31,g,64,mg,1756,g,82,g,33,g,15,g,0,g,2.9,g,8.5,g
+257,monicals pizza,meatballs 10 with colby cheese,72,g,180,mg,2403,g,23,g,67,g,26,g,0,g,6.7,g,0,g
+258,monicals pizza,homestyle baked chicken dippin strips 3 without sauce,24,g,75,mg,1200,g,36,g,36,g,4.5,g,0,g,0,g,0,g
+259,monicals pizza,baked chicken tenders with ranch dressing,72,g,135,mg,2340,g,57,g,48,g,12,g,0,g,3,g,6,g
+260,monicals pizza,baked chicken tenders with bbq sauce,27,g,90,mg,2550,g,105,g,45,g,4.5,g,0,g,3,g,51,g
+261,monicals pizza,bbq wings 24 without sauce,118,g,943,mg,3888,g,47,g,153,g,24,g,0,g,0,g,12,g
+262,monicals pizza,homestyle fried chicken dippin strips 6 with buffalo wing sauce,56,g,150,mg,5422,g,76,g,73,g,9.5,g,0,g,1.4,g,1.5,g
+263,monicals pizza,fried mozzarella sticks without marinara,25,g,50,mg,1350,g,40,g,20,g,10,g,0,g,0,g,0,g
+264,monicals pizza,bbq wings 12 without sauce,59,g,471,mg,1944,g,24,g,77,g,12,g,0,g,0,g,6,g
+265,monicals pizza,homestyle fried chicken dippin strips 3 with bleu cheese dressing,70,g,120,mg,2040,g,39,g,36,g,12,g,0,g,0,g,0,g
+266,monicals pizza,villa grove mozzarella sticks with marinara sauce,25,g,50,mg,1750,g,51,g,22,g,10,g,0,g,2.3,g,8,g
+267,monicals pizza,mozzarella sticks 5 with marinara sauce,26,g,50,mg,1170,g,49,g,21,g,11,g,0,g,1.9,g,6.3,g
+268,monicals pizza,deluxe nachos with nacho cheese sauce,61,g,77,mg,3964,g,72,g,41,g,21,g,0,g,7.6,g,8,g
+269,monicals pizza,nachos with nacho cheese sauce,53,g,77,mg,3300,g,66,g,41,g,19,g,0,g,7.3,g,7.1,g
+270,monicals pizza,toasted ravioli 6 with marinara sauce and parmesan cheese,25,g,32,mg,1261,g,50,g,17,g,6.8,g,0,g,6.4,g,7.8,g
+271,monicals pizza,homestyle fried chicken dippin strips 3 with buffalo wing sauce,28,g,75,mg,4222,g,40,g,37,g,4.8,g,0,g,1.4,g,1.5,g
+272,monicals pizza,homestyle baked chicken dippin strips 3 with bleu cheese dressing,66,g,120,mg,2040,g,39,g,36,g,12,g,0,g,0,g,0,g
+273,monicals pizza,homestyle baked chicken dippin strips 6 with honey mustard,66,g,165,mg,3390,g,96,g,72,g,12,g,0,g,0,g,24,g
+274,monicals pizza,homestyle fried chicken dippin strips 6 with ranch dressing,101,g,195,mg,3060,g,78,g,75,g,17,g,0,g,0,g,3,g
+275,monicals pizza,baked chicken nuggets with marinara sauce,27,g,0,mg,1576,g,41,g,22,g,14,g,0,g,19,g,6.3,g
+276,monicals pizza,mozzarella sticks 10 with marinara sauce,52,g,100,mg,3541,g,98,g,43,g,21,g,0,g,3.7,g,13,g
+277,monicals pizza,fried oven roasted wings with bleu cheese dressing,80,g,165,mg,1603,g,7,g,36,g,17,g,0,g,0,g,0,g
+278,monicals pizza,fried onion rings,22,g,0,mg,872,g,65,g,5,g,4,g,0,g,5,g,10,g
+279,monicals pizza,homestyle fried chicken dippin strips 3 with honey mustard,46,g,90,mg,2190,g,60,g,36,g,7.8,g,0,g,0,g,24,g
+280,monicals pizza,nachos with cheddar cheese sauce,55,g,107,mg,3630,g,63,g,47,g,22,g,0,g,7.3,g,4.1,g
+281,monicals pizza,fried hot wings 24 with bleu cheese dressing,291,g,632,mg,5850,g,26,g,144,g,62,g,0.1,g,0,g,0,g
+282,monicals pizza,homestyle baked chicken dippin strips 3 with ranch dressing,69,g,120,mg,1860,g,42,g,39,g,12,g,0,g,0,g,3,g
+283,monicals pizza,arcola hot wings without sauce,34,g,120,mg,763,g,4,g,36,g,9,g,0,g,0,g,0,g
+284,monicals pizza,pepperollies 6 with marinara sauce,58,g,129,mg,3091,g,155,g,64,g,30,g,0,g,4,g,11,g
+285,monicals pizza,homestyle baked chicken dippin strips 6 with bleu cheese dressing,90,g,195,mg,3240,g,75,g,72,g,17,g,0,g,0,g,0,g
+286,monicals pizza,homestyle baked chicken dippin strips 6 with buffalo wing sauce,48,g,150,mg,5422,g,76,g,73,g,9,g,0,g,1.4,g,1.5,g
+287,monicals pizza,baked chicken tenders with honey mustard,42,g,103,mg,2506,g,71,g,45,g,7,g,0,g,3,g,23,g
+288,monicals pizza,baked chicken tenders with buffalo wing sauce,27,g,90,mg,4702,g,55,g,46,g,4.5,g,0,g,4.4,g,4.5,g
+289,monicals pizza,deluxe nachos with cheddar cheese sauce,62,g,107,mg,4294,g,69,g,47,g,24,g,0,g,7.6,g,5,g
+290,monicals pizza,fried oven roasted wings with ranch dressing,83,g,165,mg,1423,g,10,g,39,g,17,g,0,g,0,g,3,g
+291,monicals pizza,homestyle baked chicken dippin strips 6 with ranch dressing,93,g,195,mg,3060,g,78,g,75,g,17,g,0,g,0,g,3,g
+292,monicals pizza,baked boneless chicken chunks with honey mustard dressing,33,g,118,mg,2202,g,55,g,41,g,5.5,g,0,g,0,g,27,g
+293,monicals pizza,homestyle baked chicken dippin strips 3 with bbq sauce,24,g,75,mg,2070,g,90,g,36,g,4.5,g,0,g,0,g,48,g
+294,monicals pizza,homestyle baked chicken dippin strips 3 with honey mustard,42,g,90,mg,2190,g,60,g,36,g,7.5,g,0,g,0,g,24,g
+295,monicals pizza,bbq wings 6 without sauce,29,g,236,mg,972,g,12,g,39,g,6,g,0,g,0,g,23,g
+296,monicals pizza,homestyle fried chicken dippin strips 3 with bbq sauce,28,g,75,mg,2070,g,90,g,36,g,4.8,g,0,g,0,g,48,g
+297,monicals pizza,homestyle fried chicken dippin strips 6 with bleu cheese dressing,98,g,195,mg,3240,g,75,g,72,g,17,g,0,g,0,g,0,g
+298,monicals pizza,homestyle fried chicken dippin strips 6 with honey mustard,74,g,165,mg,3390,g,96,g,72,g,13,g,0,g,0,g,24,g
+299,monicals pizza,homestyle fried chicken dippin strips 3 with ranch dressing,73,g,120,mg,1860,g,42,g,39,g,12,g,0,g,0,g,3,g
+300,monicals pizza,fried hot wings 12 with ranch dressing,165,g,331,mg,2845,g,20,g,78,g,34,g,0,g,0,g,6,g
+301,monicals pizza,baked boneless chicken chunks with bleu cheese dressing,57,g,148,mg,2053,g,34,g,41,g,10,g,0,g,0,g,2.6,g
+302,monicals pizza,tuscola garlic bread with marinara sauce,38,g,0,mg,1805,g,78,g,15,g,9,g,0,g,5.3,g,10,g
+303,monicals pizza,baked boneless chicken chunks with ranch dressing,60,g,148,mg,1872,g,37,g,44,g,10,g,0,g,0,g,5.6,g
+304,monicals pizza,arcola bbq wings baked oven wings 6 without dressing,34,g,120,mg,763,g,4,g,36,g,9,g,0,g,0,g,0,g
+305,monicals pizza,homestyle fried chicken dippin strips 3 without sauce,28,g,75,mg,1200,g,36,g,36,g,4.8,g,0,g,0,g,0,g
+306,monicals pizza,garlic cheese bread with marinara sauce,75,g,40,mg,3260,g,147,g,46,g,23,g,0,g,8.7,g,16,g
+307,monicals pizza,homestyle baked chicken dippin strips 6 with bbq sauce,48,g,150,mg,3270,g,126,g,72,g,9,g,0,g,0,g,48,g
+308,monicals pizza,toasted ravioli 12 with marinara sauce and parmesan cheese,51,g,65,mg,2521,g,99,g,35,g,14,g,0,g,13,g,16,g
+309,monicals pizza,garlic bread,29,g,0,mg,1437,g,69,g,13,g,6.5,g,0,g,3.4,g,4,g
+310,monicals pizza,homestyle baked chicken dippin strips 3 with buffalo wing sauce,24,g,75,mg,4222,g,40,g,37,g,4.5,g,0,g,1.4,g,1.5,g
+311,monicals pizza,meatballs 10 with marinara sauce,73,g,150,mg,3355,g,47,g,64,g,21,g,0,g,12,g,17,g
+312,monicals pizza,meatballs 10 with mozzarella cheese,84,g,198,mg,2803,g,23,g,81,g,32,g,0,g,6.7,g,0,g
+313,monicals pizza,fried mozzarella sticks with marinara sauce,29,g,50,mg,1771,g,49,g,21,g,11,g,0,g,12,g,6.3,g
+314,monicals pizza,baked chicken tenders with bleu cheese dressing,69,g,135,mg,2520,g,54,g,45,g,12,g,0,g,3,g,3,g
+315,monicals pizza,fried hot wings 24 with ranch dressing,301,g,632,mg,5250,g,36,g,154,g,62,g,0.1,g,0,g,10,g
+316,monicals pizza,fried hot wings 12 with bleu cheese dressing,159,g,331,mg,3205,g,14,g,72,g,34,g,0,g,0,g,0,g
+317,monicals pizza,tuscola garlic cheese bread with marinara sauce and colby cheese,61,g,62,mg,2355,g,78,g,36,g,23,g,0,g,5.3,g,10,g
+318,monicals pizza,homestyle fried chicken dippin strips 6 with bbq sauce,56,g,150,mg,3270,g,126,g,72,g,9.5,g,0,g,0,g,48,g
+319,monicals pizza,fried oven roasted wings without dressing,38,g,120,mg,763,g,4,g,36,g,9.3,g,0,g,0,g,0,g
+320,monicals pizza,ranch dressing for 6 wings,45,g,45,mg,660,g,6,g,3,g,7.5,g,0,g,0,g,3,g
+321,monicals pizza,bleu cheese dressing for 6 wings,42,g,45,mg,840,g,3,g,0,g,7.5,g,0,g,0,g,0,g
+322,monicals pizza,bleu cheese dressing for 24 wings,140,g,150,mg,2800,g,10,g,0,g,25,g,0,g,0,g,0,g
+323,monicals pizza,ranch dressing for 24 wings,150,g,150,mg,2200,g,20,g,10,g,25,g,0,g,0,g,10,g
+324,monicals pizza,monkey bread,24,g,0,mg,205,g,271,g,24,g,4,g,0,g,2.4,g,100,g
+325,monicals pizza,apple dessert pizza,40,g,0,mg,607,g,422,g,30,g,14,g,0,g,10,g,198,g
+326,monicals pizza,blueberry dessert pizza,40,g,0,mg,981,g,454,g,30,g,14,g,0,g,11,g,218,g
+327,monicals pizza,grandmahs chocolate chip cookie,17,g,10,mg,220,g,44,g,4,g,6,g,0.5,g,2,g,22,g
+328,monicals pizza,cherry dessert pizza,40,g,10,mg,612,g,451,g,30,g,147,g,0,g,5.5,g,210,g
+329,monicals pizza,cinnamon dessert pizza,18,g,0,mg,140,g,406,g,24,g,2.6,g,0,g,6.4,g,229,g
+330,monicals pizza,cheese fries with bacon and nacho cheese sauce small,30,g,17,mg,1671,g,76,g,12,g,4.5,g,0,g,8,g,3,g
+331,monicals pizza,cheese fries with bacon and cheddar cheese sauce large,62,g,65,mg,3672,g,148,g,30,g,12,g,0,g,16,g,3,g
+332,monicals pizza,cheese fries with bacon and cheddar cheese sauce small,31,g,32,mg,1836,g,74,g,15,g,6,g,0,g,8,g,1.5,g
+333,monicals pizza,cheese fries with bacon and nacho cheese sauce large,60,g,35,mg,3342,g,151,g,24,g,9,g,0,g,16,g,6,g
+334,monicals pizza,kids pepperollies 3,27,g,64,mg,1335,g,73,g,31,g,15,g,0,g,1,g,2.3,g
+335,monicals pizza,kids spaghetti alfredo without breadstick,2.3,g,0,mg,356,g,40,g,6.5,g,1,g,0,g,1.5,g,4.6,g
+336,monicals pizza,kids cheese 8 thin crust pizza,18,g,40,mg,1164,g,58,g,26,g,10,g,0,g,1.4,g,2.3,g
+337,monicals pizza,kids spaghetti marinara without breadstick,3,g,0,mg,280,g,40,g,6.4,g,0.3,g,0,g,2.7,g,6.7,g
+338,monicals pizza,kids side salad without dressing,4.7,g,15,mg,110,g,5.7,g,4.7,g,3,g,0,g,2,g,3,g
+339,monicals pizza,kids mac and cheese,9,g,10,mg,650,g,44,g,10,g,2.5,g,0,g,2,g,8,g
+340,monicals pizza,meatballs add on for pasta,19,g,45,mg,670,g,7,g,18,g,6,g,0,g,2,g,0,g
+341,monicals pizza,cheese tortellini for one,7.5,g,19,mg,1145,g,73,g,15,g,1.9,g,0,g,5.5,g,12,g
+342,monicals pizza,spaghetti marinara for one,6,g,0,mg,561,g,80,g,13,g,0.7,g,0,g,5.5,g,13,g
+343,monicals pizza,baked cheese ravioli pasta for one,30,g,142,mg,1579,g,71,g,36,g,15,g,0,g,4.5,g,9.3,g
+344,monicals pizza,lasagna for one,30,g,121,mg,1257,g,54,g,30,g,17,g,0,g,4.5,g,14,g
+345,monicals pizza,spaghetti and meatballs for one,25,g,45,mg,1231,g,87,g,31,g,6.7,g,0,g,7.5,g,13,g
+346,monicals pizza,cheese ravioli for one,12,g,94,mg,802,g,69,g,19,g,5.2,g,0,g,6,g,13,g
+347,monicals pizza,beef tortellini for one,11,g,40,mg,1267,g,68,g,15,g,3.1,g,0,g,5.7,g,9.9,g
+348,monicals pizza,deluxe 14 thin crust pizza,111,g,241,mg,7104,g,195,g,107,g,53,g,0,g,8.5,g,12,g
+349,monicals pizza,gluten free pizza crust with mozzarella cheese and thin crust sauce,37,g,94,mg,2291,g,76,g,32,g,18,g,0,g,4.7,g,6.3,g
+350,monicals pizza,cheese 8 thin crust pizza base with thin crust sauce,18,g,40,mg,1164,g,58,g,26,g,10,g,0,g,1.4,g,2.6,g
+351,monicals pizza,delight 16 thin crust pizza,120,g,306,mg,6549,g,241,g,135,g,59,g,0,g,8.2,g,15,g
+352,monicals pizza,delight 8 thin crust pizza,30,g,78,mg,1676,g,62,g,34,g,15,g,0,g,2,g,3.6,g
+353,monicals pizza,oven ready sausage 12 thin crust pizza frozen,69,g,156,mg,3498,g,129,g,72,g,32,g,0,g,3,g,5.3,g
+354,monicals pizza,veggie 12 thin crust pizza,64,g,134,mg,3385,g,139,g,71,g,34,g,0,g,5.4,g,10,g
+355,monicals pizza,delight gluten free crust pizza,56,g,150,mg,3060,g,81,g,45,g,25,g,0,g,5.8,g,8.5,g
+356,monicals pizza,deluxe 8 thin crust pizza,36,g,78,mg,2334,g,64,g,34,g,17,g,0,g,2.3,g,4,g
+357,monicals pizza,steak 16 thin crust pizza,89,g,266,mg,5427,g,252,g,138,g,46,g,0,g,5,g,32,g
+358,monicals pizza,mighty meat 14 thin crust pizza,128,g,406,mg,7852,g,178,g,154,g,59,g,0,g,5,g,6.7,g
+359,monicals pizza,veggie 8 thin crust pizza,29,g,63,mg,1541,g,64,g,32,g,16,g,0,g,2.4,g,4.4,g
+360,monicals pizza,italian special 16 thin crust pizza,122,g,260,mg,8571,g,249,g,130,g,57,g,0,g,8.7,g,15,g
+361,monicals pizza,mighty meat 8 pan crust pizza,53,g,133,mg,2812,g,105,g,56,g,21,g,0,g,2,g,4.7,g
+362,monicals pizza,mighty meat 10 pan crust pizza,100,g,249,mg,4876,g,181,g,106,g,42,g,0,g,3,g,8,g
+363,monicals pizza,delight 12 thin crust pizza,68,g,171,mg,3698,g,133,g,77,g,34,g,0,g,4.6,g,8.2,g
+364,monicals pizza,veggie 10 pan crust pizza,76,g,126,mg,3028,g,189,g,76,g,34,g,0,g,4.7,g,11,g
+365,monicals pizza,veggie 14 thin crust pizza,88,g,188,mg,4489,g,194,g,99,g,47,g,0,g,8.5,g,13,g
+366,monicals pizza,the point cheese free pizza,1.7,g,0,mg,2697,g,390,g,55,g,0.3,g,0,g,9,g,23,g
+367,monicals pizza,the point delight pizza,112,g,2958,mg,5595,g,389,g,146,g,56,g,0,g,7.6,g,22,g
+368,monicals pizza,oven ready pepperoni 12 thin crust pizza,60,g,144,mg,3319,g,126,g,67,g,32,g,0,g,31,g,5.3,g
+369,monicals pizza,calzone shell only,3.1,g,0,mg,491,g,98,g,14,g,0.4,g,0,g,0.3,g,0.8,g
+370,monicals pizza,florentine 12 thin crust pizza,29,g,64,mg,2318,g,133,g,47,g,16,g,0,g,4.7,g,8,g
+371,monicals pizza,veggie 8 pan crust pizza,41,g,63,mg,1725,g,111,g,38,g,17,g,0,g,3,g,7,g
+372,monicals pizza,mozzarella cheese 8 pan crust pizza base with sauce,29,g,40,mg,1349,g,105,g,32,g,12,g,0,g,1.8,g,4.7,g
+373,monicals pizza,hawaiian 8 thin crust pizza,20,g,60,mg,1589,g,70,g,32,g,11,g,0,g,2,g,13,g
+374,monicals pizza,bbq chicken 14 thin crust pizza,79,g,298,mg,5845,g,257,g,132,g,45,g,0,g,3.1,g,80,g
+375,monicals pizza,bbq chicken 12 thin crust pizza,56,g,2047,mg,4365,g,190,g,92,g,32,g,0,g,1.4,g,64,g
+376,monicals pizza,delight 14 thin crust pizza,95,g,241,mg,5000,g,187,g,107,g,47,g,0,g,7.2,g,11,g
+377,monicals pizza,deluxe 12 thin crust pizza,80,g,171,mg,5145,g,139,g,77,g,38,g,0,g,5.3,g,9,g
+378,monicals pizza,the point pizza crust base with point pizza sauce,66,g,158,mg,3724,g,378,g,115,g,38,g,0,g,5.5,g,18,g
+379,monicals pizza,veggie 16 thin crust pizza,115,g,250,mg,5942,g,250,g,128,g,62,g,0,g,9.7,g,18,g
+380,monicals pizza,the point florentine pizza,53,g,126,mg,3381,g,389,g,103,g,30,g,0,g,8,g,22,g
+381,monicals pizza,cheeseburger 12 thin crust pizza,127,g,234,mg,4914,g,156,g,85,g,46,g,0,g,6,g,30,g
+382,monicals pizza,delight 14 pan crust pizza,155,g,306,mg,7288,g,392,g,155,g,65,g,0,g,10,g,24,g
+383,monicals pizza,the point bbq chicken pizza,79,g,298,mg,5261,g,446,g,157,g,45,g,0,g,2.4,g,80,g
+384,monicals pizza,cheese 12 thin crust pizza base with thin crust sauce,42,g,96,mg,2673,g,126,g,60,g,24,g,0,g,3,g,5.3,g
+385,monicals pizza,stuffed pizza crust base with pizza sauce,52,g,74,mg,2595,g,287,g,71,g,21,g,0,g,4.3,g,16,g
+386,monicals pizza,the point hawaiian pizza,73,g,229,mg,5206,g,415,g,136,g,41,g,0,g,7.3,g,51,g
+387,monicals pizza,cheeseburger 10 pan crust pizza,128,g,216,mg,4441,g,202,g,90,g,45,g,0,g,5.5,g,27,g
+388,monicals pizza,hawaiian 14 pan crust pizza,115,g,251,mg,7205,g,427,g,149,g,48,g,0,g,9.5,g,62,g
+389,monicals pizza,mozzarella cheese 10 pan crust pizza base with sauce,60,g,96,mg,2485,g,180,g,67,g,27,g,0,g,3,g,8,g
+390,monicals pizza,mighty meat 16 thin crust pizza,163,g,516,mg,10143,g,229,g,195,g,75,g,0,g,5.4,g,9.3,g
+391,monicals pizza,cheese free 10 pan crust pizza,18,g,0,mg,1611,g,185,g,26,g,2.6,g,0,g,4.7,g,11,g
+392,monicals pizza,mighty meat 14 pan crust pizza,198,g,516,mg,10880,g,380,g,215,g,80,g,0,g,7,g,19,g
+393,monicals pizza,bbq chicken 14 pan crust pizza,139,g,397,mg,7853,g,481,g,191,g,65,g,0,g,3,g,115,g
+394,monicals pizza,italian special 14 pan crust pizza,158,g,260,mg,9310,g,400,g,150,g,62,g,0,g,10,g,24,g
+395,monicals pizza,the point steak pizza,80,g,238,mg,4175,g,391,g,142,g,43,g,0,g,4.6,g,30,g
+396,monicals pizza,italian 8 special thin crust pizzaq,30,g,60,mg,2099,g,63,g,31,g,14,g,0,g,2,g,3.5,g
+397,monicals pizza,the point veggie pizza,89,g,188,mg,4580,g,396,g,126,g,47,g,0,g,8.7,g,24,g
+398,monicals pizza,cheeseburger 14 thin crust pizza,168,g,318,mg,6463,g,215,g,117,g,63,g,0,g,9,g,38,g
+399,monicals pizza,hawaiian 16 thin crust pizza,80,g,251,mg,6466,g,276,g,129,g,43,g,0,g,8,g,53,g
+400,monicals pizza,cheese free 14 pan crust pizza,37,g,0,mg,4194,g,393,g,56,g,5.3,g,0,g,12,g,26,g
+401,monicals pizza,mighty meat 12 thin crust pizza,92,g,290,mg,5733,g,127,g,111,g,43,g,0,g,3,g,5.3,g
+402,monicals pizza,mighty meat gluten free crust pizza,73,g,233,mg,4485,g,77,g,68,g,31,g,0,g,4.7,g,6.3,g
+403,monicals pizza,italian special 10 pan crust pizza,87,g,156,mg,4365,g,189,g,83,g,36,g,0,g,4.3,g,10,g
+404,monicals pizza,steak 14 thin crust pizza,70,g,208,mg,4049,g,192,g,108,g,37,g,0,g,4.4,g,21,g
+405,monicals pizza,deluxe 10 pan crust pizza,93,g,167,mg,4502,g,189,g,83,g,39,g,0,g,4.7,g,11,g
+406,monicals pizza,hawaiian 14 thin crust pizza,64,g,199,mg,4945,g,213,g,103,g,34,g,0,g,7,g,39,g
+407,monicals pizza,florentine 14 pan crust pizza,93,g,128,mg,4967,g,392,g,111,g,37,g,0,g,10,g,24,g
+408,monicals pizza,cheese 16 thin crust pizza base with thin crust sauce,71,g,160,mg,4558,g,227,g,102,g,40,g,0,g,5.4,g,9.3,g
+409,monicals pizza,cheeseburger 8 pan crust pizza,66,g,100,mg,2395,g,118,g,43,g,22,g,0,g,3.2,g,16,g
+410,monicals pizza,hawaiian 12 thin crust pizza,47,g,147,mg,3733,g,154,g,75,g,26,g,0,g,4.5,g,30,g
+411,monicals pizza,cheese free 8 thin crust pizza,0.3,g,0,mg,823,g,62,g,9,g,0.1,g,0,g,2.3,g,4,g
+412,monicals pizza,cheese free 16 thin crust pizza,1.3,g,0,mg,3456,g,242,g,36,g,0.2,g,0,g,9.7,g,16,g
+413,monicals pizza,steak 14 pan crust pizza,124,g,266,mg,6061,g,401,g,158,g,51,g,0,g,6.3,g,40,g
+414,monicals pizza,delight 10 pan crust pizza,83,g,167,mg,3449,g,185,g,83,g,36,g,0,g,4.2,g,10,g
+415,monicals pizza,steak gluten free crust pizza,73,g,233,mg,4485,g,77,g,68,g,31,g,0,g,4.7,g,6.3,g
+416,monicals pizza,delight 8 pan crust pizza,42,g,78,mg,1861,g,108,g,40,g,17,g,0,g,2.5,g,6,g
+417,monicals pizza,bbq chicken 10 pan crust pizza,71,g,181,mg,3449,g,224,g,91,g,33,g,0,g,12,g,49,g
+418,monicals pizza,italian special 8 pan crust pizza,41,g,60,mg,2283,g,110,g,38,g,16,g,0,g,2.5,g,6,g
+419,monicals pizza,florentine 8 pan crust pizza,26,g,32,mg,1266,g,108,g,29,g,9.7,g,0,g,2.6,g,6,g
+420,monicals pizza,cheeseburger 14 pan crust pizza,260,g,420,mg,9393,g,429,g,170,g,88,g,0,g,12,g,62,g
+421,monicals pizza,hawaiian 8 pan crust pizza,31,g,60,mg,1774,g,117,g,38,g,12,g,0,g,2.4,g,16,g
+422,monicals pizza,deluxe 8 pan crust pizza,48,g,78,mg,2519,g,111,g,40,g,19,g,0,g,3,g,6.3,g
+423,monicals pizza,the point might meat pizza,145,g,461,mg,8447,g,380,g,193,g,68,g,0,g,5.5,g,18,g
+424,monicals pizza,italian 14 thin crust pizza,98,g,208,mg,6672,g,194,g,104,g,46,g,0,g,7.7,g,11,g
+425,monicals pizza,cheese free 12 thin crust pizza,0.7,g,0,mg,1932,g,134,g,20,g,0.1,g,0,g,5.3,g,9,g
+426,monicals pizza,steak 12 thin crust pizza,53,g,158,mg,3153,g,138,g,81,g,28,g,0,g,2.8,g,17,g
+427,monicals pizza,cheese free 8 pan crust pizza,12,g,0,mg,1008,g,108,g,15,g,1.7,g,0,g,2.8,g,6.3,g
+428,monicals pizza,steak 8 pan crust pizza,34,g,67,mg,1576,g,113,g,41,g,13,g,0,g,16,g,12,g
+429,monicals pizza,florentine 16 thin crust pizza,57,g,128,mg,4228,g,241,g,91,g,32,g,0,g,8.6,g,14,g
+430,monicals pizza,fforentine 8 thin crust pizza,14,g,32,mg,1082,g,62,g,23,g,8,g,0,g,2.2,g,3.6,g
+431,monicals pizza,bbq chicken 16 thin crust pizza,103,g,397,mg,7850,g,340,g,171,g,59,g,0,g,2.6,g,112,g
+432,monicals pizza,florentine 10 pan crust pizza,46,g,64,mg,2123,g,186,g,54,g,19,g,0,g,4.4,g,10,g
+433,monicals pizza,deluxe 14 pan crust pizza,176,g,306,mg,9918,g,402,g,155,g,72,g,0,g,12,g,26,g
+434,monicals pizza,deluxe 16 thin crust pizza,141,g,306,mg,9179,g,251,g,135,g,67,g,0,g,9.7,g,16,g
+435,monicals pizza,mighty meat 8 thin crust pizza,44,g,138,mg,2593,g,59,g,49,g,20,g,0,g,1.4,g,2.3,g
+436,monicals pizza,deluxe gluten free crust pizza,65,g,150,mg,4112,g,85,g,45,g,28,g,0,g,6.3,g,9,g
+437,monicals pizza,cheeseburger 16 thin crust pizza,225,g,420,mg,8654,g,279,g,150,g,83,g,0,g,10,g,53,g
+438,monicals pizza,bbq chicken 8 pan crust pizza,37,g,99,mg,1988,g,131,g,49,g,17,g,0,g,0.8,g,29,g
+439,monicals pizza,italian special 12 thin crust pizza,73,g,156,mg,4949,g,138,g,77,g,34,g,0,g,5,g,8,g
+440,monicals pizza,veggie gluten free crust pizza,51,g,117,mg,2792,g,85,g,39,g,23,g,0,g,6.4,g,0,g
+441,monicals pizza,steak 8 thin crust pizza,22,g,67,mg,1417,g,67,g,35,g,12,g,0,g,12,g,10,g
+442,monicals pizza,florentine 14 thin crust pizza,43,g,96,mg,3120,g,187,g,70,g,24,g,0,g,7.5,g,11,g
+443,monicals pizza,bbq chicken 8 thin crust pizza,26,g,99,mg,1987,g,86,g,43,g,15,g,0,g,0.7,g,28,g
+444,monicals pizza,hawaiian 10 pan crust pizza,64,g,136,mg,3331,g,199,g,79,g,28,g,0,g,4,g,25,g
+445,monicals pizza,cheeseburger 8 thin crust pizza,55,g,100,mg,2210,g,71,g,37,g,20,g,0,g,2.7,g,13,g
+446,monicals pizza,steak 10 pan crust pizza,67,g,136,mg,2907,g,193,g,80,g,29,g,0,g,3.1,g,20,g
+447,monicals pizza,cheese free 14 thin crust pizza,1.1,g,0,mg,2606,g,188,g,28,g,0.2,g,0,g,8.5,g,12,g
+448,monicals pizza,plain breadstick,3,g,0,mg,15,g,28,g,4,g,0.5,g,0,g,0,g,0,g
+449,monicals pizza,garlic breadstick,3,g,0,mg,15,g,28,g,4,g,0.5,g,0,g,0,g,0,g
+450,monicals pizza,garlic bread for salad,17,g,0,mg,1670,g,35,g,7,g,4.2,g,0,g,2.1,g,2,g
+451,monicals pizza,monicals sweet and tart dressing,10,g,5,mg,250,g,9,g,0,g,1.5,g,0,g,0,g,9,g
+452,monicals pizza,monicals light sweet and tart dressing,4.5,g,5,mg,240,g,6,g,0,g,0.5,g,0,g,2,g,1,g
+453,monicals pizza,ranch dressing,15,g,15,mg,220,g,2,g,1,g,2.5,g,0,g,0,g,1,g
+454,monicals pizza,creamy italian dressing,9,g,0,mg,250,g,6,g,0,g,1.5,g,0,g,0,g,5,g
+455,monicals pizza,mullens imitation french dressing,6,g,0,mg,70,g,13,g,0,g,1,g,0,g,1,g,4,g
+456,monicals pizza,fat free raspberry vinaigrette,0,g,0,mg,290,g,7,g,0,g,0,g,0,g,0,g,0,g
+457,monicals pizza,balsamic vinaigrette,14,g,0,mg,250,g,5,g,0,g,2,g,0,g,0,g,4,g
+458,monicals pizza,caesar dressing,21,g,20,mg,600,g,4,g,2,g,4,g,0,g,0,g,2,g
+459,monicals pizza,golden italian dressing,8,g,0,mg,330,g,2,g,0,g,1,g,0,g,0,g,2,g
+460,monicals pizza,blue cheese dressing,14,g,15,mg,280,g,1,g,0,g,2.5,g,0,g,0,g,0,g
+461,monicals pizza,poppyseed dressing,7,g,0,mg,100,g,9,g,0,g,1,g,0,g,0,g,8,g
+462,monicals pizza,fat free ranch dressing,0,g,0,mg,350,g,11,g,0,g,0,g,0,g,1,g,2,g
+463,monicals pizza,sweet and tart dressing,12,g,0,mg,350,g,10,g,0,g,2,g,0,g,0,g,10,g
+464,monicals pizza,1000 island dressing,14,g,10,mg,240,g,5,g,0,g,2,g,0,g,0,g,5,g
+465,monicals pizza,parmesan peppercorn dressing,17,g,8,mg,211,g,2,g,1,g,3,g,0,g,0,g,1,g
+466,monicals pizza,light ranch dressing,8,g,5,mg,260,g,2,g,1,g,1.5,g,0,g,0,g,1,g
+467,monicals pizza,honey mustard dressing,6,g,5,mg,330,g,8,g,0,g,1,g,0,g,0,g,8,g
+468,monicals pizza,fat free italian dressing,0,g,0,mg,350,g,3,g,0,g,0,g,0,g,0,g,2,g
+469,monicals pizza,pecan grilled chicken salad without dressing,17,g,82,mg,944,g,17,g,34,g,4.3,g,0,g,8.2,g,5.6,g
+470,monicals pizza,antipasto salad without dressing,24,g,42,mg,1491,g,26,g,18,g,10,g,0,g,6.2,g,6.7,g
+471,monicals pizza,southwest chicken salad without dressing,12,g,103,mg,964,g,13,g,36,g,6.8,g,0,g,6.5,g,4.2,g
+472,monicals pizza,chef salad without dressing,24,g,42,mg,1491,g,26,g,18,g,10,g,0,g,6.2,g,6.7,g
+473,monicals pizza,garden fresh salad for 4 without dressing,19,g,60,mg,451,g,25,g,20,g,12,g,0,g,9.2,g,14,g
+474,monicals pizza,individual garden salad without dressing,4.5,g,15,mg,110,g,5.7,g,4.7,g,3,g,0,g,2,g,3.2,g
+475,monicals pizza,chicken caesar salad with dressing,34,g,108,mg,1982,g,34,g,40,g,8.5,g,0,g,5.8,g,4.4,g
+476,monicals pizza,steak for calzone,4.6,g,27,mg,137,g,0,g,9.1,g,1.5,g,0,g,0,g,0,g
+477,monicals pizza,banana peppers for calzones,0,g,0,mg,210,g,1,g,0,g,0,g,0,g,0.8,g,0,g
+478,monicals pizza,toasted sweet hoagie roll sandwich option,2,g,0,mg,160,g,73,g,12,g,0.5,g,0,g,2,g,17,g
+479,monicals pizza,mushrooms for calzone,0.1,g,0,mg,2,g,1.4,g,1.3,g,0,g,0,g,0.4,g,0.7,g
+480,monicals pizza,green olives for calzone,9,g,0,mg,790,g,3,g,0,g,3,g,0,g,0,g,0,g
+481,monicals pizza,red peppers for calzone,0.1,g,0,mg,1,g,2.1,g,0.4,g,0,g,0,g,0.7,g,15,g
+482,monicals pizza,sauce for calzone,0,g,0,mg,284,g,6.7,g,0.8,g,0,g,0,g,1.7,g,3.3,g
+483,monicals pizza,ham for calzone,2,g,20,mg,418,g,0,g,6,g,0.7,g,0,g,0,g,0,g
+484,monicals pizza,onions red onions for calzone,0,g,0,mg,1,g,3.6,g,0.3,g,0,g,0,g,0.5,g,1.5,g
+485,monicals pizza,hamburger for calzones,5.6,g,20,mg,19,g,0,g,4.8,g,2.2,g,0,g,0,g,0,g
+486,monicals pizza,extra cheese for calzones,11,g,24,mg,285,g,0,g,11,g,6,g,0,g,0,g,0,g
+487,monicals pizza,garlic for calzone,0,g,0,mg,0,g,0.7,g,0.1,g,0,g,0,g,0,g,0,g
+488,monicals pizza,toasted white sub roll sandwich option,6,g,0,mg,723,g,68,g,13,g,2.4,g,0,g,3,g,4,g
+489,monicals pizza,black olives for calzone,6.6,g,0,mg,346,g,2.7,g,0,g,1.3,g,0,g,0,g,0,g
+490,monicals pizza,apples for calzones,0,g,0,mg,0,g,4.7,g,0,g,0,g,0,g,0.8,g,3.5,g
+491,monicals pizza,giardiniera for calzones,6.8,g,0,mg,150,g,3,g,0,g,0.8,g,0,g,0,g,1.5,g
+492,monicals pizza,premium blend cheese for calzones,6.8,g,23,mg,128,g,0,g,5.3,g,4.5,g,0,g,0,g,0,g
+493,monicals pizza,anchovies for calzone,3.9,g,24,mg,1638,g,0,g,6.5,g,0,g,0,g,0,g,0,g
+494,monicals pizza,chicken for calzone,1.3,g,37,mg,387,g,1.3,g,13,g,0.3,g,0,g,0.5,g,0,g
+495,monicals pizza,italian sausage for calzones,9,g,20,mg,275,g,1,g,4,g,2.5,g,0,g,0,g,0,g
+496,monicals pizza,pepperon for calzone,8.1,g,22,mg,294,g,0,g,3.1,g,3.8,g,0,g,0,g,0,g
+497,monicals pizza,jalapenos for calzones,0,g,0,mg,144,g,0.7,g,0,g,0,g,0,g,0,g,0,g
+498,monicals pizza,toasted whole wheat sub roll sandwich option,4,g,54,mg,460,g,54,g,12,g,1,g,0,g,5,g,7,g
+499,monicals pizza,pineapple for calzones,0,g,0,mg,7,g,14,g,0,g,0,g,0,g,0.7,g,13,g
+500,monicals pizza,green peppers for calzone,0.1,g,0,mg,1,g,1.6,g,0.3,g,0,g,0,g,0.7,g,0.9,g
+501,monicals pizza,italian beef sandwich on toasted whole wheat roll,20,g,143,mg,1784,g,58,g,43,g,6.2,g,0.1,g,5.1,g,8.6,g
+502,monicals pizza,turkey blt sandwich on toasted whole wheat sub,19,g,120,mg,2058,g,63,g,39,g,5,g,0,g,7,g,11,g
+503,monicals pizza,italian sub sandwich on toasted whole wheat roll,44,g,192,mg,2568,g,61,g,39,g,19,g,0,g,6,g,11,g
+504,monicals pizza,bbq chicken sandwich on toasted whole wheat sub roll,21,g,159,mg,2193,g,93,g,51,g,9.7,g,0,g,6,g,39,g
+505,monicals pizza,turkey sandwich on toasted whole wheat roll,20,g,126,mg,2075,g,62,g,46,g,9.7,g,0,g,7,g,11,g
+506,monicals pizza,paris sub sandwich on toasted whole wheat roll,34,g,178,mg,1985,g,60,g,37,g,15,g,0,g,6,g,11,g
+507,monicals pizza,super sub sandwich on toasted whole wheat roll,34,g,178,mg,1985,g,60,g,37,g,15,g,0,g,6,g,11,g
+508,monicals pizza,meatball sandwich on toasted whole wheat roll,54,g,161,mg,2518,g,78,g,58,g,20,g,0,g,11,g,15,g
+509,monicals pizza,veggie sandwich on toasted whole wheat roll,21,g,86,mg,1482,g,63,g,27,g,9.5,g,0,g,7.3,g,11,g
+510,monicals pizza,calzone a la carte base,19,g,37,mg,1329,g,105,g,30,g,9.7,g,0,g,1.8,g,4.7,g
+511,monicals pizza,marinara sauce for bread,0,g,0,mg,400,g,11,g,2.1,g,0,g,0,g,2.5,g,8,g
+512,monicals pizza,alfredo sauce substitute for pasta,3.1,g,0,mg,712,g,13,g,2.1,g,2.1,g,0,g,0,g,4.2,g
+513,monicals pizza,supreme cheese sauce option for pasta,12,g,31,mg,275,g,0,g,11,g,7,g,0,g,0,g,0,g
+514,monicals pizza,meat sauce substitute for pasta dishes,5.7,g,6,mg,545,g,10,g,4.7,g,1.2,g,0,g,2.4,g,6.9,g
+515,monicals pizza,barbecue sauce for wings,0,g,0,mg,580,g,36,g,0,g,0,g,0,g,0,g,32,g
+516,monicals pizza,side of lays baked potato chips,9,g,0,mg,196,g,18,g,1.6,g,2.4,g,0,g,0.8,g,0,g
+517,monicals pizza,side of ruffles potato chips,10,g,0,mg,150,g,15,g,2,g,1.5,g,0,g,1,g,0,g
+518,monicals pizza,marinara sauce substitute for pasta,4.6,g,0,mg,561,g,12,g,1.9,g,0.7,g,0,g,2.5,g,8.3,g
+519,monicals pizza,side of apples,0.2,g,0,mg,1,g,19,g,0.4,g,0,g,0,g,3.3,g,14,g
+520,monicals pizza,side of applesauce,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,0.9,g,22,g
+521,monicals pizza,1000 island dressing,14,g,10,mg,240,g,5,g,0,g,2,g,0,g,0,g,0,g
+522,monicals pizza,2 milk,2.5,g,15,mg,125,g,13,g,9,g,1.5,g,0,g,0,g,0,g
+523,monicals pizza,5 cheese ravioli individual,31,g,130,mg,1380,g,59,g,25,g,16,g,0,g,4,g,0,g
+524,monicals pizza,add meatballs,20,g,50,mg,630,g,1,g,23,g,8,g,0,g,0,g,0,g
+525,monicals pizza,add supreme cheese,12,g,30,mg,280,g,0,g,11,g,7,g,0,g,0,g,0,g
+526,monicals pizza,alfredo sauce,9,g,30,mg,390,g,2,g,1,g,5,g,0,g,0,g,0,g
+527,monicals pizza,apple juice,0,g,0,mg,25,g,29,g,0,g,0,g,0,g,0,g,0,g
+528,monicals pizza,apple slices,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,1,g,0,g
+529,monicals pizza,arcola italian sub,46,g,115,mg,2830,g,75,g,42,g,18,g,0,g,4,g,0,g
+530,monicals pizza,baked ravioli individual,38,g,170,mg,1350,g,53,g,33,g,20,g,0,g,4,g,0,g
+531,monicals pizza,barqs root beer,0,g,0,mg,35,g,45,g,0,g,0,g,0,g,0,g,0,g
+532,monicals pizza,bbq chicken 8 inch pan pizza,28,g,100,mg,1700,g,130,g,49,g,15,g,0,g,1,g,0,g
+533,monicals pizza,bbq chicken 8 inch thin pizza,26,g,100,mg,1600,g,93,g,44,g,15,g,0,g,1,g,0,g
+534,monicals pizza,bbq chicken sandwich,23,g,105,mg,2460,g,105,g,52,g,11,g,0,g,4,g,0,g
+535,monicals pizza,big cookie sundae,56,g,110,mg,690,g,184,g,10,g,23,g,0,g,3,g,0,g
+536,monicals pizza,breadsticks plain,1,g,0,mg,0,g,28,g,4,g,0,g,0,g,0,g,0,g
+537,monicals pizza,cheddar cheese,8,g,15,mg,800,g,8,g,5,g,3,g,0,g,0,g,0,g
+538,monicals pizza,cheese 8 inch pan pizza,19,g,40,mg,1060,g,106,g,32,g,10,g,0,g,2,g,0,g
+539,monicals pizza,cheese 8 inch thin pizza,18,g,40,mg,770,g,67,g,27,g,10,g,0,g,2,g,0,g
+540,monicals pizza,cheese free 8 inch pan pizza,2,g,0,mg,850,g,111,g,16,g,0,g,0,g,4,g,0,g
+541,monicals pizza,cheese free 8 inch thin pizza,0,g,0,mg,430,g,70,g,10,g,0,g,0,g,3,g,0,g
+542,monicals pizza,chef salad,18,g,65,mg,930,g,18,g,27,g,11,g,0,g,7,g,0,g
+543,monicals pizza,chicken bacon ranch sandwich,62,g,170,mg,2850,g,75,g,65,g,19,g,0,g,4,g,0,g
+544,monicals pizza,chicken dippin strips without sauce,32,g,90,mg,1680,g,51,g,45,g,5,g,0,g,3,g,0,g
+545,monicals pizza,chicken fettuccini alfredo individual,20,g,115,mg,1440,g,95,g,48,g,10,g,0,g,5,g,0,g
+546,monicals pizza,chicken bacon ranch 8 inch pan pizza,56,g,140,mg,1980,g,104,g,57,g,18,g,0,g,1,g,0,g
+547,monicals pizza,chicken bacon ranch 8 inch thin pizza,54,g,140,mg,1880,g,67,g,51,g,18,g,0,g,1,g,0,g
+548,monicals pizza,chocolate chunk cookie,27,g,25,mg,580,g,75,g,7,g,10,g,0,g,3,g,0,g
+549,monicals pizza,club sandwich,30,g,110,mg,3160,g,75,g,54,g,11,g,0,g,5,g,0,g
+550,monicals pizza,coca cola,0,g,0,mg,10,g,41,g,0,g,0,g,0,g,0,g,0,g
+551,monicals pizza,coffee,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+552,monicals pizza,creamy italian dressing,9,g,0,mg,270,g,5,g,0,g,1.5,g,0,g,0,g,0,g
+553,monicals pizza,delight 8 inch pan pizza,32,g,80,mg,2570,g,109,g,41,g,15,g,0,g,3,g,0,g
+554,monicals pizza,delight 8 inch thin pizza,30,g,80,mg,1290,g,70,g,35,g,15,g,0,g,2,g,0,g
+555,monicals pizza,deluxe 8 inch pan pizza,37,g,80,mg,1930,g,111,g,41,g,16,g,0,g,3,g,0,g
+556,monicals pizza,deluxe 8 inch thin pizza,35,g,80,mg,1650,g,72,g,35,g,16,g,0,g,3,g,0,g
+557,monicals pizza,diet coca cola,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+558,monicals pizza,family salad,19,g,60,mg,450,g,25,g,20,g,12,g,0,g,9,g,0,g
+559,monicals pizza,fat free raspberry vinaigrettte dressing,0,g,0,mg,290,g,7,g,0,g,0,g,0,g,0,g,0,g
+560,monicals pizza,garlic bread without marinara sauce,48,g,0,mg,3430,g,70,g,14,g,44,g,0,g,4,g,0,g
+561,monicals pizza,garlic breadsticks,2,g,0,mg,5,g,56,g,8,g,0,g,0,g,0,g,0,g
+562,monicals pizza,garlic butter sauce,25,g,0,mg,380,g,0,g,0,g,4.5,g,0,g,0,g,0,g
+563,monicals pizza,garlic cheese bread without marinara sauce,63,g,30,mg,3810,g,70,g,28,g,20,g,0,g,4,g,0,g
+564,monicals pizza,grilled chicken salad,13,g,55,mg,610,g,13,g,22,g,7,g,0,g,5,g,0,g
+565,monicals pizza,ham mozzarella and colby cheddar cheese sandwich,27,g,90,mg,2030,g,70,g,41,g,14,g,0,g,4,g,0,g
+566,monicals pizza,hawaiian 8 inch pan pizza,21,g,60,mg,1480,g,117,g,38,g,11,g,0,g,3,g,0,g
+567,monicals pizza,hawaiian 8 inch thin pizza,20,g,60,mg,1200,g,77,g,33,g,11,g,0,g,2,g,0,g
+568,monicals pizza,hot sicilian sandwich,49,g,140,mg,2900,g,70,g,52,g,22,g,0,g,4,g,0,g
+569,monicals pizza,hot wings without ranch,35,g,255,mg,1310,g,3,g,48,g,8,g,0,g,0,g,0,g
+570,monicals pizza,iced tea,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+571,monicals pizza,individual salad,4.5,g,15,mg,110,g,6,g,5,g,3,g,0,g,2,g,0,g
+572,monicals pizza,italian beef sandwich,22,g,90,mg,2050,g,72,g,44,g,8,g,0,g,3,g,0,g
+573,monicals pizza,italian special 8 inch pan pizza,33,g,65,mg,2060,g,111,g,39,g,15,g,0,g,3,g,0,g
+574,monicals pizza,italian special 8 inch thin pizza,31,g,65,mg,1780,g,72,g,34,g,15,g,0,g,2,g,0,g
+575,monicals pizza,kids 8 inch thin crust cheese pizza,18,g,40,mg,770,g,67,g,27,g,10,g,0,g,2,g,0,g
+576,monicals pizza,kids kids chicken dippin strips without sauce,16,g,45,mg,840,g,25,g,22,g,2.5,g,0,g,2,g,0,g
+577,monicals pizza,kids mac and cheese,11,g,25,mg,830,g,48,g,12,g,3,g,0,g,2,g,0,g
+578,monicals pizza,kids spaghetti with marinara,2.5,g,0,mg,280,g,23,g,4,g,0,g,0,g,2,g,0,g
+579,monicals pizza,lasagna individual,30,g,120,mg,1260,g,54,g,30,g,17,g,0,g,5,g,0,g
+580,monicals pizza,light ranch dressing,0,g,0,mg,350,g,11,g,0,g,0,g,0,g,1,g,0,g
+581,monicals pizza,marinara sauce for starters,3.5,g,0,mg,420,g,9,g,1,g,0.5,g,0,g,2,g,0,g
+582,monicals pizza,meat tortellini individual,12,g,45,mg,960,g,66,g,18,g,4.5,g,0,g,5,g,0,g
+583,monicals pizza,meatball sub sandwich,41,g,75,mg,2190,g,81,g,40,g,18,g,0,g,6,g,0,g
+584,monicals pizza,mellow yellow,0,g,0,mg,10,g,44,g,0,g,0,g,0,g,0,g,0,g
+585,monicals pizza,mighty meat 8 inch pan pizza,49,g,155,mg,2540,g,106,g,61,g,21,g,0,g,2,g,0,g
+586,monicals pizza,mighty meat 8 inch thin pizza,47,g,155,mg,2260,g,67,g,56,g,21,g,0,g,2,g,0,g
+587,monicals pizza,minute maid lemonade,0,g,0,mg,60,g,39,g,0,g,0,g,0,g,0,g,0,g
+588,monicals pizza,monicals sweet and tart dressing,10,g,5,mg,250,g,9,g,0,g,1.5,g,0,g,0,g,0,g
+589,monicals pizza,monicals sweet and tart light dressing,4.5,g,5,mg,240,g,6,g,0,g,0.5,g,0,g,2,g,0,g
+590,monicals pizza,mozzarella sticks without marinara sauce,23,g,50,mg,1350,g,40,g,20,g,10,g,0,g,0,g,0,g
+591,monicals pizza,pepperoni 8 inch pan pizza,28,g,60,mg,1350,g,106,g,35,g,14,g,0,g,2,g,0,g
+592,monicals pizza,pepperoni 8 inch thin pizza,26,g,60,mg,1070,g,67,g,30,g,14,g,0,g,2,g,0,g
+593,monicals pizza,pibb xtra,0,g,0,mg,20,g,39,g,0,g,0,g,0,g,0,g,0,g
+594,monicals pizza,purple rider special 8 inch pan pizza,41,g,110,mg,2110,g,110,g,52,g,19,g,0,g,3,g,0,g
+595,monicals pizza,purple rider special 8 inch thin pizza,39,g,110,mg,1820,g,70,g,46,g,18,g,0,g,2,g,0,g
+596,monicals pizza,ranch dressing,15,g,15,mg,220,g,2,g,1,g,2.5,g,0,g,0,g,0,g
+597,monicals pizza,russian dressing,10,g,0,mg,190,g,9,g,0,g,1.5,g,0,g,0,g,0,g
+598,monicals pizza,russian sub,26,g,60,mg,2020,g,77,g,34,g,9,g,0,g,4,g,0,g
+599,monicals pizza,sausage 8 inch pan pizza,25,g,60,mg,1330,g,106,g,37,g,12,g,0,g,2,g,0,g
+600,monicals pizza,sausage 8 inch thin pizza,24,g,60,mg,1050,g,67,g,32,g,12,g,0,g,2,g,0,g
+601,monicals pizza,side of marinara sauce,1,g,0,mg,320,g,7,g,1,g,0,g,0,g,1,g,0,g
+602,monicals pizza,side of pepperoncinis,4,g,0,mg,420,g,8,g,2,g,0.5,g,0,g,2,g,0,g
+603,monicals pizza,snickerdoodle cookie,23,g,30,mg,620,g,79,g,6,g,7,g,0,g,2,g,0,g
+604,monicals pizza,spaghetti individual,5,g,0,mg,560,g,46,g,7,g,0.5,g,0,g,4,g,0,g
+605,monicals pizza,sprite,0,g,0,mg,35,g,39,g,0,g,0,g,0,g,0,g,0,g
+606,monicals pizza,sweet tea,0,g,0,mg,5,g,14,g,0,g,0,g,0,g,0,g,0,g
+607,monicals pizza,turkey sub sandwich,22,g,75,mg,2390,g,77,g,48,g,11,g,0,g,5,g,0,g
+608,monicals pizza,veggie 8 inch pan pizza,26,g,65,mg,1190,g,109,g,39,g,15,g,0,g,3,g,0,g
+609,monicals pizza,veggie 8 inch thin pizza,24,g,65,mg,900,g,71,g,33,g,15,g,0,g,3,g,0,g
+610,mooyah,vanilla shake little moo,30,g,120,mg,270,g,68,g,10,g,20,g,0,g,0,g,54,g
+611,mooyah,oreo shake little moo,33,g,100,mg,380,g,85,g,10,g,19,g,0,g,1,g,61,g
+612,mooyah,oreo shake big moo,55,g,170,mg,620,g,138,g,16,g,32,g,0,g,2,g,101,g
+613,mooyah,hersheys chocolate shake little moo,28,g,110,mg,260,g,86,g,10,g,19,g,0,g,1,g,70,g
+614,mooyah,strawberry shake big moo,47,g,180,mg,420,g,145,g,16,g,31,g,0,g,0,g,124,g
+615,mooyah,mint chocolate chip shake little moo,40,g,90,mg,210,g,109,g,10,g,30,g,0,g,3,g,94,g
+616,mooyah,strawberry shake little moo,28,g,110,mg,250,g,89,g,9,g,19,g,0,g,0,g,77,g
+617,mooyah,cookie dough shake big moo,62,g,170,mg,670,g,152,g,17,g,37,g,0,g,1,g,107,g
+618,mooyah,low fat chocolate milk,2.5,g,15,mg,160,g,24,g,8,g,1.5,g,0,g,3,g,20,g
+619,mooyah,vanilla shake big moo,51,g,195,mg,450,g,113,g,17,g,34,g,0,g,0,g,90,g
+620,mooyah,banana shake big moo,47,g,180,mg,420,g,145,g,16,g,31,g,0,g,0,g,124,g
+621,mooyah,mandm shake big moo,59,g,175,mg,440,g,157,g,18,g,39,g,0,g,2,g,131,g
+622,mooyah,cookie dough shake little moo,38,g,100,mg,420,g,94,g,10,g,23,g,0,g,0.5,g,65,g
+623,mooyah,mint chocolate chip shake big moo,64,g,155,mg,350,g,175,g,17,g,48,g,0,g,4,g,150,g
+624,mooyah,reeses pb cup shake little moo,39,g,100,mg,410,g,84,g,14,g,23,g,0,g,1,g,71,g
+625,mooyah,hersheys chocolate shake big moo,47,g,180,mg,440,g,140,g,17,g,31,g,0,g,2,g,113,g
+626,mooyah,reeses pb cup shake big moo,64,g,170,mg,650,g,138,g,23,g,38,g,0,g,2,g,116,g
+627,mooyah,strawberry banana shake little moo,25,g,100,mg,240,g,111,g,8,g,17,g,0,g,0,g,99,g
+628,mooyah,mandm shake little moo,36,g,105,mg,260,g,97,g,11,g,24,g,0,g,2,g,81,g
+629,mooyah,low fat milk,2.5,g,10,mg,105,g,12,g,8,g,1.5,g,0,g,0,g,13,g
+630,mooyah,banana shake little moo,28,g,110,mg,250,g,89,g,9,g,19,g,0,g,0,g,77,g
+631,mooyah,strawberry banana shake big moo,43,g,170,mg,400,g,177,g,14,g,29,g,0,g,0,g,158,g
+632,mooyah,french fries,18,g,0,mg,680,g,50,g,6,g,1.5,g,0,g,4,g,2,g
+633,mooyah,sweet potato fries,8,g,0,mg,320,g,31,g,1,g,1,g,0,g,2,g,7,g
+634,mooyah,french fries,37,g,0,mg,1030,g,100,g,12,g,3,g,0,g,7,g,3,g
+635,mooyah,french fries,55,g,0,mg,1380,g,150,g,18,g,4,g,0,g,11,g,5,g
+636,mooyah,sweet potato fries,47,g,0,mg,1720,g,185,g,7,g,7,g,0,g,14,g,41,g
+637,mooyah,half and half fries,36,g,0,mg,1040,g,98,g,8,g,5,g,0,g,13,g,18,g
+638,mooyah,sweet potato fries,31,g,0,mg,1180,g,123,g,5,g,5,g,0,g,10,g,28,g
+639,mooyah,chili cheese fries,52,g,40,mg,1820,g,106,g,22,g,11,g,0,g,8,g,6,g
+640,mooyah,sweet potato fries,16,g,0,mg,640,g,62,g,2,g,2.5,g,0,g,5,g,14,g
+641,mooyah,half and half fries,18,g,0,mg,630,g,49,g,4,g,2.5,g,0,g,7,g,9,g
+642,mooyah,half and half fries,54,g,0,mg,1450,g,147,g,12,g,7,g,0,g,19,g,27,g
+643,mooyah,french fries,9,g,0,mg,340,g,25,g,3,g,0.5,g,0,g,2,g,0.5,g
+644,mooyah,kids little burger,27,g,70,mg,800,g,34,g,27,g,7,g,0.5,g,1,g,6,g
+645,mooyah,kids chicken tenders,15,g,50,mg,720,g,14,g,21,g,2,g,0,g,1,g,0,g
+646,mooyah,kids hot dog,40,g,50,mg,1260,g,36,g,18,g,13,g,1,g,1,g,6,g
+647,mooyah,kids applesauce,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,1,g,22,g
+648,mooyah,kids grilled cheese,28,g,50,mg,1160,g,36,g,15,g,11,g,0,g,1,g,8,g
+649,mooyah,salad protein grilled chicken breast,6,g,115,mg,820,g,0,g,34,g,1.5,g,0,g,0,g,0,g
+650,mooyah,salad protein veggie burger patty,7,g,0,mg,1210,g,22,g,17,g,1,g,0,g,8,g,2,g
+651,mooyah,salad protein crispy chicken tenders,23,g,75,mg,1080,g,21,g,31,g,2.5,g,0,g,2,g,0,g
+652,mooyah,salad protein turkey burger patty,12,g,115,mg,970,g,0,g,28,g,3,g,0,g,0,g,0,g
+653,mooyah,spicy ranch dressing,6,g,3,mg,450,g,0.5,g,0,g,1,g,0,g,0,g,0,g
+654,mooyah,blue cheese dressing,17,g,15,mg,260,g,1,g,1,g,3.5,g,0,g,0,g,1,g
+655,mooyah,ranch dressing,13,g,10,mg,240,g,2,g,0,g,2,g,0,g,0,g,0.5,g
+656,mooyah,lite raspberry vinaigrette,11,g,0,mg,85,g,5,g,0,g,2,g,0,g,0,g,5,g
+657,mooyah,mooyah sauce,11,g,0,mg,230,g,5,g,0,g,2,g,0,g,0,g,3,g
+658,mooyah,honey mustard dressing,12,g,10,mg,210,g,4,g,0,g,2,g,0,g,0,g,4,g
+659,mooyah,balsamic dressing,4.5,g,0,mg,180,g,4,g,0,g,0,g,0,g,0,g,4,g
+660,mooyah,loaded salad,17,g,25,mg,610,g,13,g,12,g,4,g,0,g,5,g,4,g
+661,mooyah,side salad,0,g,0,mg,5,g,3,g,1,g,0,g,0,g,1,g,2,g
+662,mooyah,fried onion strings,5,g,0,mg,320,g,6,g,0.5,g,0,g,0,g,0,g,0.5,g
+663,mooyah,veggie burger patty with mooyah seasoning,7,g,0,mg,1210,g,22,g,17,g,1,g,0,g,8,g,2,g
+664,mooyah,turkey burger patty with mooyah seasoning,12,g,115,mg,970,g,0,g,28,g,3,g,0,g,0,g,0,g
+665,mooyah,triple beef burger patty with mooyah seasoning,40,g,210,mg,1210,g,0.5,g,60,g,15,g,2,g,0,g,0,g
+666,mooyah,hot dog bun,14,g,0,mg,400,g,34,g,7,g,2,g,0,g,1,g,6,g
+667,mooyah,lettuce cup,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0.5,g,0.5,g
+668,mooyah,beef burger patty without mooyah seasoning,13,g,70,mg,70,g,0,g,20,g,5,g,0.5,g,0,g,0,g
+669,mooyah,grilled chicken breast with mooyah seasoning,6,g,115,mg,820,g,0,g,34,g,1.5,g,0,g,0,g,0,g
+670,mooyah,diced onions,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0.5,g,2,g
+671,mooyah,avocado,5,g,0,mg,0,g,3,g,0.5,g,0.5,g,0,g,2,g,0,g
+672,mooyah,bacon,8,g,25,mg,390,g,0,g,8,g,3,g,0,g,0,g,0,g
+673,mooyah,sliced tomatoes,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+674,mooyah,grilled onions,1.5,g,0,mg,65,g,5,g,0.5,g,0,g,0,g,0.5,g,2,g
+675,mooyah,swiss cheese,10,g,30,mg,600,g,0,g,8,g,6,g,0,g,0,g,0,g
+676,mooyah,grilled chicken breast without mooyah seasoning,6,g,115,mg,150,g,0,g,34,g,1.5,g,0,g,0,g,0,g
+677,mooyah,wheat bun,2.5,g,0,mg,310,g,35,g,8,g,0,g,0,g,2,g,4,g
+678,mooyah,gluten free bun,7,g,0,mg,530,g,41,g,4,g,1,g,0,g,4,g,9,g
+679,mooyah,cheddar cheese,8,g,25,mg,150,g,0.5,g,5,g,4.5,g,0,g,0,g,0,g
+680,mooyah,american cheese,14,g,50,mg,760,g,2,g,8,g,9,g,0,g,0,g,2,g
+681,mooyah,veggie burger patty without mooyah seasoning,7,g,0,mg,540,g,22,g,17,g,1,g,0,g,8,g,2,g
+682,mooyah,white potato bun,14,g,0,mg,400,g,34,g,7,g,2,g,0,g,1,g,6,g
+683,mooyah,beef burger patty with mooyah seasoning,13,g,70,mg,400,g,0,g,20,g,5,g,0.5,g,0,g,0,g
+684,mooyah,cheddar cheese,15,g,55,mg,300,g,2,g,11,g,9,g,0,g,0,g,0,g
+685,mooyah,turkey burger patty without mooyah seasoning,12,g,115,mg,300,g,0,g,28,g,3,g,0,g,0,g,0,g
+686,mooyah,pepper jack cheese,12,g,50,mg,260,g,0,g,10,g,8,g,0,g,0,g,0,g
+687,mooyah,crispy chicken breast,23,g,95,mg,940,g,17,g,38,g,3,g,0,g,1,g,0,g
+688,mooyah,pickles,0,g,0,mg,240,g,0,g,0,g,0,g,0,g,0,g,0,g
+689,mooyah,beef patty with mooyah seasoning,18,g,90,mg,760,g,0,g,26,g,7,g,1,g,0,g,0,g
+690,mooyah,double beef burger patty without mooyah seasoning,26,g,140,mg,135,g,0,g,40,g,10,g,1.5,g,0,g,0,g
+691,mooyah,green chilies,0,g,0,mg,150,g,2,g,0,g,0,g,0,g,0,g,0,g
+692,mooyah,pickled jalapeno,0,g,0,mg,170,g,0,g,0,g,0,g,0,g,0,g,0,g
+693,mooyah,lettuce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+694,mooyah,sauerkraut,0,g,0,mg,490,g,1,g,0,g,0,g,0,g,1,g,0,g
+695,mooyah,relish,0,g,0,mg,230,g,10,g,0,g,0,g,0,g,0,g,8,g
+696,mooyah,blue cheese,16,g,45,mg,790,g,1,g,12,g,11,g,0,g,0,g,0,g
+697,mooyah,all beef hot dog frank,26,g,50,mg,860,g,2,g,11,g,11,g,1,g,0,g,0,g
+698,mooyah,chili,6,g,15,mg,250,g,3,g,6,g,2.5,g,0,g,0.5,g,0.5,g
+699,mooyah,double beef burger patty with mooyah seasoning,26,g,140,mg,810,g,0,g,40,g,10,g,1.5,g,0,g,0,g
+700,mooyah,buffalo crispy chicken breast,23,g,95,mg,3090,g,18,g,38,g,3,g,0,g,1,g,0,g
+701,mooyah,swiss cheese,5,g,15,mg,300,g,0,g,4,g,3,g,0,g,0,g,0,g
+702,mooyah,american cheese,7,g,25,mg,380,g,1,g,4,g,4.5,g,0,g,0,g,1,g
+703,mooyah,pepper jack cheese,6,g,25,mg,130,g,0,g,5,g,4,g,0,g,0,g,0,g
+704,mooyah,sauteed mushrooms,8,g,0,mg,125,g,1,g,1,g,0.5,g,0,g,0,g,0.5,g
+705,mooyah,triple beef burger patty without mooyah seasoning,40,g,210,mg,210,g,0,g,60,g,15,g,2,g,0,g,0,g
+706,mooyah,beef patty without mooyah seasoning,17,g,90,mg,90,g,0,g,26,g,7,g,1,g,0,g,0,g
+707,mooyah,mooyah cheeseburger,50,g,120,mg,1770,g,42,g,38,g,15,g,1,g,2,g,11,g
+708,mooyah,mooyah burger,43,g,95,mg,1390,g,41,g,34,g,11,g,1,g,2,g,10,g
+709,mooyah,avocado ranch black bean burger,34,g,35,mg,1900,g,64,g,31,g,8,g,0,g,13,g,8,g
+710,mooyah,crispy buffalo chicken sandwich,47,g,130,mg,4080,g,58,g,52,g,10,g,0,g,4,g,6,g
+711,mooyah,turkey burger club sandwich,33,g,145,mg,1860,g,41,g,42,g,9,g,0,g,5,g,6,g
+712,mooyah,grilled chicken avocado club sandwich,35,g,150,mg,1770,g,43,g,50,g,7,g,0,g,5,g,6,g
+713,mooyah,new york hot dog,42,g,50,mg,2140,g,44,g,20,g,13,g,1,g,4,g,9,g
+714,mooyah,buffalo chicken tenders burger,30,g,100,mg,3590,g,29,g,42,g,3.5,g,0,g,2,g,0,g
+715,mooyah,original chicken tenders burger,30,g,100,mg,1440,g,28,g,42,g,3.5,g,0,g,2,g,0,g
+716,mooyah,all american hot dog,40,g,50,mg,1810,g,54,g,19,g,13,g,1,g,2,g,19,g
+717,mooyah,chili cheese hog dog,52,g,90,mg,1600,g,39,g,28,g,19,g,1,g,2,g,7,g
+718,mooyah,mooyah sauce,11,g,0,mg,230,g,5,g,0,g,2,g,0,g,0,g,3,g
+719,mooyah,green chili queso,16,g,40,mg,1000,g,6,g,8,g,10,g,0,g,0,g,3,g
+720,mooyah,cholula sauce,0,g,0,mg,650,g,0,g,0,g,0,g,0,g,0,g,0,g
+721,mooyah,a1 sauce,0,g,0,mg,470,g,5,g,0,g,0,g,0,g,0,g,3,g
+722,mooyah,mayo,22,g,10,mg,200,g,0,g,0,g,3.5,g,0,g,0,g,0,g
+723,mooyah,mustard sauce,1,g,0,mg,320,g,2,g,1,g,0,g,0,g,0.5,g,0,g
+724,mooyah,ketchup,0,g,0,mg,320,g,7,g,0,g,0,g,0,g,0,g,7,g
+725,mooyah,spicy ranch sauce,6,g,3,mg,450,g,0.5,g,0,g,1,g,0,g,0,g,0,g
+726,mooyah,ranch sauce,13,g,10,mg,240,g,2,g,0,g,2,g,0,g,0,g,0.5,g
+727,mooyah,buffalo sauce,0,g,0,mg,1080,g,0.5,g,0,g,0,g,0,g,0,g,0,g
+728,mooyah,bbq sauce,0,g,0,mg,190,g,12,g,0,g,0,g,0,g,0,g,9,g
+729,mooyah,honey mustard sauce,12,g,10,mg,210,g,4,g,0,g,2,g,0,g,0,g,4,g
+730,mooyah,a 1 cheeseburger,43,g,120,mg,1860,g,44,g,40,g,14,g,0.5,g,2,g,11,g
+731,mooyah,avocado ranch black bean burger,32,g,35,mg,1130,g,60,g,33,g,7,g,0,g,8,g,8,g
+732,mooyah,balsamic,4.5,g,0,mg,180,g,4,g,0,g,0,g,0,g,0,g,4,g
+733,mooyah,barqs root beer 12 oz no ice,0,g,0,mg,35,g,45,g,0,g,0,g,0,g,0,g,45,g
+734,mooyah,barqs root beer 20 oz no ice,0,g,0,mg,60,g,75,g,0,g,0,g,0,g,0,g,75,g
+735,mooyah,barqs root beer 32 oz no ice,0,g,0,mg,95,g,120,g,0,g,0,g,0,g,0,g,120,g
+736,mooyah,beef 1 4 lb,13,g,70,mg,400,g,0,g,20,g,5,g,0.5,g,0,g,0,g
+737,mooyah,buns gluten free,7,g,0,mg,530,g,41,g,4,g,1,g,0,g,4,g,9,g
+738,mooyah,buns hot dog,13,g,0,mg,380,g,32,g,6,g,2,g,0,g,1,g,5,g
+739,mooyah,buns lettuce cup,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,1,g
+740,mooyah,buns multigrain,2.5,g,0,mg,310,g,35,g,8,g,0,g,0,g,2,g,4,g
+741,mooyah,buns potato,13,g,0,mg,380,g,32,g,6,g,2,g,0,g,1,g,5,g
+742,mooyah,cheese american 1 slice,7,g,25,mg,380,g,1,g,4,g,4.5,g,0,g,0,g,1,g
+743,mooyah,cheese american 2 slice,14,g,50,mg,760,g,2,g,8,g,9,g,0,g,0,g,2,g
+744,mooyah,cheese blue cheese,16,g,45,mg,790,g,1,g,12,g,11,g,0,g,0,g,0,g
+745,mooyah,cheese cheddar 1 slice,8,g,25,mg,150,g,1,g,5,g,4.5,g,0,g,0,g,0,g
+746,mooyah,cheese cheddar 2 slice,15,g,55,mg,300,g,2,g,11,g,9,g,0,g,0,g,0,g
+747,mooyah,cheese green chili queso,8,g,20,mg,500,g,3,g,4,g,5,g,0,g,0,g,2,g
+748,mooyah,cheese pepper jack 1 slice,6,g,25,mg,130,g,0,g,5,g,4,g,0,g,0,g,0,g
+749,mooyah,cheese pepper jack 2 slice,12,g,50,mg,260,g,0,g,10,g,8,g,0,g,0,g,0,g
+750,mooyah,cheese swiss 1 slice,5,g,15,mg,300,g,0,g,4,g,3,g,0,g,0,g,0,g
+751,mooyah,cheese swiss 2 slice,10,g,30,mg,600,g,0,g,8,g,6,g,0,g,0,g,0,g
+752,mooyah,cherry coke 12 oz no ice,0,g,0,mg,40,g,42,g,0,g,0,g,0,g,0,g,42,g
+753,mooyah,cherry coke 20 oz no ice,0,g,0,mg,70,g,70,g,0,g,0,g,0,g,0,g,70,g
+754,mooyah,cherry coke 32 oz no ice,0,g,0,mg,110,g,112,g,0,g,0,g,0,g,0,g,112,g
+755,mooyah,chocolate shavings 12oz,17,g,0,mg,0,g,36,g,2,g,15,g,0,g,3,g,31,g
+756,mooyah,chocolate shavings 20oz,25,g,0,mg,5,g,54,g,3,g,22,g,0,g,4,g,47,g
+757,mooyah,coca cola 12 oz no ice,0,g,0,mg,50,g,41,g,0,g,0,g,0,g,0,g,41,g
+758,mooyah,coca cola 20 oz no ice,0,g,0,mg,85,g,68,g,0,g,0,g,0,g,0,g,68,g
+759,mooyah,coca cola 32 oz no ice,0,g,0,mg,130,g,108,g,0,g,0,g,0,g,0,g,108,g
+760,mooyah,coke zero 12 oz no ice,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+761,mooyah,coke zero 20 oz no ice,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+762,mooyah,coke zero 32 oz no ice,0,g,0,mg,110,g,0,g,0,g,0,g,0,g,0,g,0,g
+763,mooyah,cookie dough 12oz,12,g,0,mg,190,g,37,g,2,g,6,g,0,g,1,g,20,g
+764,mooyah,cookie dough 20oz,19,g,0,mg,290,g,56,g,3,g,9,g,0,g,1,g,30,g
+765,mooyah,cookie dough big moo,62,g,170,mg,670,g,152,g,17,g,37,g,0,g,1,g,107,g
+766,mooyah,cookie dough little moo,38,g,100,mg,420,g,94,g,10,g,23,g,0,g,1,g,65,g
+767,mooyah,country time lemonade 12 oz no ice,0,g,0,mg,30,g,15,g,0,g,0,g,0,g,0,g,15,g
+768,mooyah,country time lemonade 20 oz no ice,0,g,0,mg,50,g,25,g,0,g,0,g,0,g,0,g,25,g
+769,mooyah,country time lemonade 32 oz no ice,0,g,0,mg,80,g,40,g,0,g,0,g,0,g,0,g,40,g
+770,mooyah,country time pink lemonade 12 oz no ice,0,g,0,mg,30,g,15,g,0,g,0,g,0,g,0,g,15,g
+771,mooyah,country time pink lemonade 20 oz no ice,0,g,0,mg,50,g,25,g,0,g,0,g,0,g,0,g,25,g
+772,mooyah,country time pink lemonade 32 oz no ice,0,g,0,mg,80,g,40,g,0,g,0,g,0,g,0,g,40,g
+773,mooyah,crispy chicken tenders 3 piece,23,g,75,mg,1080,g,21,g,31,g,2.5,g,0,g,2,g,0,g
+774,mooyah,diet coke caffeine free 12 oz no ice,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+775,mooyah,diet coke caffeine free 20 oz no ice,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+776,mooyah,diet coke caffeine free 32 oz no ice,0,g,0,mg,110,g,0,g,0,g,0,g,0,g,0,g,0,g
+777,mooyah,diet coke 12 oz no ice,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+778,mooyah,diet coke 20 oz no ice,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+779,mooyah,diet coke 32 oz no ice,0,g,0,mg,110,g,0,g,0,g,0,g,0,g,0,g,0,g
+780,mooyah,diet dr pepper 12 oz no ice,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+781,mooyah,diet dr pepper 20 oz no ice,0,g,0,mg,90,g,0,g,0,g,0,g,0,g,0,g,0,g
+782,mooyah,diet dr pepper 32 oz no ice,0,g,0,mg,140,g,0,g,0,g,0,g,0,g,0,g,0,g
+783,mooyah,double diablo burger,81,g,225,mg,2850,g,33,g,64,g,26,g,1.5,g,1,g,5,g
+784,mooyah,dr pepper 12 oz no ice,0,g,0,mg,55,g,41,g,0,g,0,g,0,g,0,g,41,g
+785,mooyah,dr pepper 20 oz no ice,0,g,0,mg,95,g,68,g,0,g,0,g,0,g,0,g,68,g
+786,mooyah,dr pepper 32 oz no ice,0,g,0,mg,150,g,108,g,0,g,0,g,0,g,0,g,108,g
+787,mooyah,dressing mooyah sauce,11,g,0,mg,230,g,5,g,0,g,2,g,0,g,0,g,3,g
+788,mooyah,dressing ranch,13,g,10,mg,240,g,2,g,0,g,2,g,0,g,0,g,1,g
+789,mooyah,dressing spicy ranch,6,g,5,mg,450,g,1,g,0,g,1,g,0,g,0,g,0,g
+790,mooyah,extras avocado,5,g,0,mg,0,g,3,g,1,g,0.5,g,0,g,2,g,0,g
+791,mooyah,extras bacon,8,g,25,mg,390,g,0,g,8,g,3,g,0,g,0,g,0,g
+792,mooyah,fanta orange 12 oz no ice,0,g,0,mg,0,g,44,g,0,g,0,g,0,g,0,g,44,g
+793,mooyah,fanta orange 20 oz no ice,0,g,0,mg,0,g,73,g,0,g,0,g,0,g,0,g,73,g
+794,mooyah,fanta orange 32 oz no ice,0,g,0,mg,0,g,116,g,0,g,0,g,0,g,0,g,116,g
+795,mooyah,fanta strawberry 12 oz no ice,0,g,0,mg,10,g,44,g,0,g,0,g,0,g,0,g,42,g
+796,mooyah,fanta strawberry 20 oz no ice,0,g,0,mg,20,g,73,g,0,g,0,g,0,g,0,g,70,g
+797,mooyah,fanta strawberry 32 oz no ice,0,g,0,mg,30,g,116,g,0,g,0,g,0,g,0,g,112,g
+798,mooyah,french fries 16 oz shareable,59,g,0,mg,1380,g,160,g,19,g,4.5,g,0,g,12,g,5,g
+799,mooyah,french fries 24 oz family,88,g,0,mg,3080,g,240,g,28,g,7,g,0,g,17,g,8,g
+800,mooyah,french fries 5 oz,18,g,0,mg,680,g,50,g,6,g,1.5,g,0,g,4,g,2,g
+801,mooyah,french fries 8 oz personal,29,g,0,mg,1360,g,80,g,10,g,2.5,g,0,g,6,g,3,g
+802,mooyah,fries green chili queso,16,g,40,mg,1000,g,6,g,8,g,10,g,0,g,0,g,3,g
+803,mooyah,hersheys chocolate 12oz,0,g,0,mg,15,g,24,g,1,g,0,g,0,g,1,g,20,g
+804,mooyah,hersheys chocolate 20oz,0,g,0,mg,25,g,36,g,2,g,0,g,0,g,2,g,30,g
+805,mooyah,hersheys chocolate big moo,47,g,180,mg,440,g,140,g,17,g,31,g,0,g,2,g,113,g
+806,mooyah,hersheys chocolate little moo,28,g,110,mg,260,g,86,g,10,g,19,g,0,g,1,g,70,g
+807,mooyah,hi c fruit punch 12 oz no ice,0,g,0,mg,15,g,42,g,0,g,0,g,0,g,0,g,42,g
+808,mooyah,hi c fruit punch 20 oz no ice,0,g,0,mg,25,g,70,g,0,g,0,g,0,g,0,g,70,g
+809,mooyah,hi c fruit punch 32 oz no ice,0,g,0,mg,35,g,112,g,0,g,0,g,0,g,0,g,112,g
+810,mooyah,hi c orange 12 oz no ice,0,g,0,mg,0,g,45,g,0,g,0,g,0,g,0,g,45,g
+811,mooyah,hi c orange 20 oz no ice,0,g,0,mg,0,g,75,g,0,g,0,g,0,g,0,g,75,g
+812,mooyah,hi c orange 32 oz no ice,0,g,0,mg,0,g,120,g,0,g,0,g,0,g,0,g,120,g
+813,mooyah,kids applesauce,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,1,g,22,g
+814,mooyah,kids chicken tenders,15,g,50,mg,720,g,14,g,21,g,2,g,0,g,1,g,0,g
+815,mooyah,kids french fries,9,g,0,mg,340,g,25,g,3,g,0.5,g,0,g,2,g,1,g
+816,mooyah,kids grilled cheese,27,g,50,mg,1140,g,34,g,14,g,11,g,0,g,1,g,7,g
+817,mooyah,kids hot dog,39,g,50,mg,1240,g,34,g,17,g,13,g,1,g,1,g,5,g
+818,mooyah,kids little burger,26,g,70,mg,780,g,32,g,26,g,7,g,0.5,g,1,g,5,g
+819,mooyah,kids low fat chocolate milk,2.5,g,15,mg,160,g,24,g,8,g,1.5,g,0,g,3,g,20,g
+820,mooyah,kids low fat milk,2.5,g,10,mg,105,g,12,g,8,g,1.5,g,0,g,0,g,13,g
+821,mooyah,kids sweet potato fries,8,g,0,mg,320,g,31,g,1,g,1,g,0,g,2,g,7,g
+822,mooyah,loaded house salad,17,g,25,mg,610,g,13,g,12,g,4,g,0,g,5,g,4,g
+823,mooyah,mint chocolate chip big moo,64,g,155,mg,350,g,175,g,17,g,48,g,0,g,4,g,150,g
+824,mooyah,mint chocolate chip little moo,40,g,90,mg,210,g,109,g,10,g,30,g,0,g,3,g,94,g
+825,mooyah,mint syrup 12oz,0,g,0,mg,0,g,22,g,0,g,0,g,0,g,0,g,22,g
+826,mooyah,mint syrup 20oz,0,g,0,mg,0,g,33,g,0,g,0,g,0,g,0,g,33,g
+827,mooyah,minute maid lemonade 12 oz no ice,0,g,0,mg,60,g,39,g,0,g,0,g,0,g,0,g,39,g
+828,mooyah,minute maid lemonade 20 oz no ice,0,g,0,mg,105,g,65,g,0,g,0,g,0,g,0,g,65,g
+829,mooyah,minute maid lemonade 32 oz no ice,0,g,0,mg,160,g,104,g,0,g,0,g,0,g,0,g,104,g
+830,mooyah,mooyah burger,38,g,70,mg,1020,g,39,g,26,g,9,g,0.5,g,2,g,9,g
+831,mooyah,mooyah cheeseburger,45,g,95,mg,1400,g,40,g,30,g,13,g,0.5,g,2,g,10,g
+832,mooyah,mushroom swiss burger,61,g,95,mg,1420,g,34,g,31,g,14,g,0.5,g,1,g,6,g
+833,mooyah,oreo 12oz,8,g,0,mg,160,g,28,g,1,g,2,g,0,g,1,g,16,g
+834,mooyah,oreo 20oz,12,g,0,mg,230,g,43,g,2,g,3,g,0,g,2,g,24,g
+835,mooyah,oreo big moo,55,g,170,mg,620,g,138,g,16,g,32,g,0,g,2,g,101,g
+836,mooyah,oreo little moo,33,g,100,mg,380,g,85,g,10,g,19,g,0,g,1,g,61,g
+837,mooyah,passionfruit mango tea 12 oz no ice,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+838,mooyah,passionfruit mango tea 20 oz no ice,0,g,0,mg,20,g,2,g,0,g,0,g,0,g,0,g,0,g
+839,mooyah,passionfruit mango tea 32 oz no ice,0,g,0,mg,30,g,3,g,0,g,0,g,0,g,0,g,0,g
+840,mooyah,pomegranate acai vitamin water 12 oz no ice,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,0,g,20,g
+841,mooyah,pomegranate acai vitamin water 20 oz no ice,0,g,0,mg,0,g,33,g,0,g,0,g,0,g,0,g,33,g
+842,mooyah,pomegranate acai vitamin water 32 oz no ice,0,g,0,mg,0,g,52,g,0,g,0,g,0,g,0,g,52,g
+843,mooyah,powerade fruit punch 12 oz no ice,0,g,0,mg,80,g,23,g,0,g,0,g,0,g,0,g,23,g
+844,mooyah,powerade fruit punch 20 oz no ice,0,g,0,mg,130,g,38,g,0,g,0,g,0,g,0,g,38,g
+845,mooyah,powerade fruit punch 32 oz no ice,0,g,0,mg,210,g,60,g,0,g,0,g,0,g,0,g,60,g
+846,mooyah,powerade mountain blast 12 oz no ice,0,g,0,mg,80,g,23,g,0,g,0,g,0,g,0,g,23,g
+847,mooyah,powerade mountain blast 20 oz no ice,0,g,0,mg,130,g,38,g,0,g,0,g,0,g,0,g,38,g
+848,mooyah,powerade mountain blast 32 oz no ice,0,g,0,mg,210,g,60,g,0,g,0,g,0,g,0,g,60,g
+849,mooyah,proteins 100 all beef hot dog,26,g,50,mg,860,g,2,g,11,g,11,g,1,g,0,g,0,g
+850,mooyah,proteins black bean vegan burger,5,g,0,mg,450,g,18,g,20,g,0.5,g,0,g,4,g,3,g
+851,mooyah,proteins double beef,26,g,140,mg,810,g,0,g,40,g,10,g,1.5,g,0,g,0,g
+852,mooyah,proteins double beef no mooyah seasoning,26,g,140,mg,135,g,0,g,40,g,10,g,1.5,g,0,g,0,g
+853,mooyah,proteins single beef,13,g,70,mg,400,g,0,g,20,g,5,g,0.5,g,0,g,0,g
+854,mooyah,proteins single beef no mooyah seasoning,13,g,70,mg,70,g,0,g,20,g,5,g,0.5,g,0,g,0,g
+855,mooyah,proteins turkey burger,12,g,115,mg,970,g,0,g,28,g,3,g,0,g,0,g,0,g
+856,mooyah,proteins turkey burger no mooyah seasoning,12,g,115,mg,300,g,0,g,28,g,3,g,0,g,0,g,0,g
+857,mooyah,raspberry tea 12 oz no ice,0,g,0,mg,10,g,24,g,0,g,0,g,0,g,0,g,24,g
+858,mooyah,raspberry tea 20 oz no ice,0,g,0,mg,20,g,40,g,0,g,0,g,0,g,0,g,40,g
+859,mooyah,raspberry tea 32 oz no ice,0,g,0,mg,30,g,64,g,0,g,0,g,0,g,0,g,64,g
+860,mooyah,reeses pb cup 12oz,14,g,0,mg,180,g,28,g,6,g,6,g,0,g,1,g,26,g
+861,mooyah,reeses pb cup 20oz,21,g,0,mg,270,g,42,g,9,g,9,g,0,g,2,g,39,g
+862,mooyah,reeses pb cup big moo,64,g,170,mg,650,g,138,g,23,g,38,g,0,g,2,g,116,g
+863,mooyah,reeses pb cup little moo,39,g,100,mg,410,g,84,g,14,g,23,g,0,g,1,g,71,g
+864,mooyah,sauce a1,0,g,0,mg,470,g,5,g,0,g,0,g,0,g,0,g,3,g
+865,mooyah,sauce bbq,0,g,0,mg,190,g,12,g,0,g,0,g,0,g,0,g,9,g
+866,mooyah,sauce buffalo,0,g,0,mg,1080,g,1,g,0,g,0,g,0,g,0,g,0,g
+867,mooyah,sauce cholula,0,g,0,mg,650,g,0,g,0,g,0,g,0,g,0,g,0,g
+868,mooyah,sauce heinz ketchup,0,g,0,mg,320,g,7,g,0,g,0,g,0,g,0,g,7,g
+869,mooyah,sauce mayo,22,g,10,mg,200,g,0,g,0,g,3.5,g,0,g,0,g,0,g
+870,mooyah,sauce mooyah sauce,11,g,0,mg,230,g,5,g,0,g,2,g,0,g,0,g,3,g
+871,mooyah,sauce mustard,1,g,0,mg,320,g,2,g,1,g,0,g,0,g,1,g,0,g
+872,mooyah,sauce ranch,13,g,10,mg,240,g,2,g,0,g,2,g,0,g,0,g,1,g
+873,mooyah,sauce spicy ranch,6,g,5,mg,450,g,1,g,0,g,1,g,0,g,0,g,0,g
+874,mooyah,side salad,0,g,0,mg,5,g,3,g,1,g,0,g,0,g,1,g,2,g
+875,mooyah,sprite 12 oz no ice,0,g,0,mg,70,g,38,g,0,g,0,g,0,g,0,g,38,g
+876,mooyah,sprite 20 oz no ice,0,g,0,mg,115,g,63,g,0,g,0,g,0,g,0,g,63,g
+877,mooyah,sprite 32 oz no ice,0,g,0,mg,190,g,101,g,0,g,0,g,0,g,0,g,101,g
+878,mooyah,strawberry puree 12oz,0,g,0,mg,5,g,27,g,0,g,0,g,0,g,0,g,27,g
+879,mooyah,strawberry puree 20oz,0,g,0,mg,10,g,41,g,0,g,0,g,0,g,0,g,41,g
+880,mooyah,strawberry big moo,47,g,180,mg,420,g,145,g,16,g,31,g,0,g,0,g,124,g
+881,mooyah,strawberry little moo,28,g,110,mg,250,g,89,g,9,g,19,g,0,g,0,g,77,g
+882,mooyah,sweet potato 16 oz shareable,50,g,0,mg,2020,g,198,g,8,g,8,g,0,g,16,g,44,g
+883,mooyah,sweet potato 24 oz family,75,g,0,mg,3030,g,297,g,12,g,12,g,0,g,23,g,66,g
+884,mooyah,sweet potato 5 oz,16,g,0,mg,640,g,62,g,2,g,2.5,g,0,g,5,g,14,g
+885,mooyah,sweet potato 8 oz personal,25,g,0,mg,1010,g,99,g,4,g,4,g,0,g,8,g,22,g
+886,mooyah,sweet tea 12 oz no ice,0,g,0,mg,10,g,28,g,0,g,0,g,0,g,0,g,27,g
+887,mooyah,sweet tea 20 oz no ice,0,g,0,mg,15,g,47,g,0,g,0,g,0,g,0,g,46,g
+888,mooyah,sweet tea 32 oz no ice,0,g,0,mg,25,g,76,g,0,g,0,g,0,g,0,g,73,g
+889,mooyah,the best quesonario,61,g,100,mg,1970,g,43,g,30,g,16,g,1,g,1,g,8,g
+890,mooyah,the diablo dog,64,g,105,mg,2340,g,35,g,30,g,21,g,1,g,1,g,5,g
+891,mooyah,the farmers favorite,21,g,15,mg,1200,g,24,g,24,g,5,g,0,g,6,g,4,g
+892,mooyah,the full count hot dog,55,g,100,mg,2370,g,43,g,30,g,20,g,1,g,2,g,12,g
+893,mooyah,the gluten free burger,56,g,130,mg,2470,g,41,g,37,g,17,g,1,g,4,g,9,g
+894,mooyah,the hamburdog,73,g,170,mg,2990,g,48,g,51,g,26,g,1.5,g,1,g,13,g
+895,mooyah,the indulgent bbq burger,86,g,225,mg,2550,g,50,g,64,g,27,g,2,g,1,g,14,g
+896,mooyah,the keto turkey burger,47,g,150,mg,1490,g,6,g,33,g,12,g,0,g,2,g,1,g
+897,mooyah,the lean green turkey burger,23,g,130,mg,1460,g,17,g,33,g,7,g,0,g,3,g,11,g
+898,mooyah,the low cal burger,18,g,70,mg,1050,g,10,g,20,g,6,g,1,g,2,g,3,g
+899,mooyah,the mdc mooyah double cheeseburger,65,g,190,mg,2180,g,41,g,54,g,23,g,1.5,g,2,g,11,g
+900,mooyah,the meatless beast,61,g,60,mg,1900,g,65,g,36,g,15,g,0,g,5,g,12,g
+901,mooyah,the paleo burger,40,g,165,mg,1760,g,12,g,49,g,14,g,1.5,g,3,g,3,g
+902,mooyah,the ranch hand,47,g,105,mg,1410,g,36,g,34,g,12,g,1,g,1,g,6,g
+903,mooyah,the turcali club,38,g,145,mg,2340,g,42,g,44,g,8,g,0,g,5,g,6,g
+904,mooyah,the vegan black bean burger,33,g,0,mg,1210,g,73,g,27,g,3,g,0,g,7,g,20,g
+905,mooyah,the vegetarian black bean burger,29,g,0,mg,1550,g,69,g,28,g,3,g,0,g,8,g,11,g
+906,mooyah,the well donion,46,g,100,mg,1760,g,49,g,33,g,13,g,0.5,g,3,g,11,g
+907,mooyah,the wing it on,55,g,165,mg,3700,g,38,g,47,g,18,g,0,g,2,g,7,g
+908,mooyah,turkey,12,g,115,mg,970,g,0,g,28,g,3,g,0,g,0,g,0,g
+909,mooyah,turkey burger club,41,g,165,mg,2250,g,42,g,50,g,12,g,0,g,5,g,6,g
+910,mooyah,vanilla big moo,51,g,195,mg,450,g,113,g,17,g,34,g,0,g,0,g,90,g
+911,mooyah,vanilla little moo,30,g,120,mg,270,g,68,g,10,g,20,g,0,g,0,g,54,g
+912,mooyah,vegan,5,g,0,mg,450,g,18,g,20,g,0.5,g,0,g,4,g,3,g
+913,mooyah,veggies diced onions,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,1,g,2,g
+914,mooyah,veggies fried onion strings,5,g,0,mg,320,g,6,g,1,g,0,g,0,g,0,g,1,g
+915,mooyah,veggies green chiles,0,g,0,mg,150,g,2,g,0,g,0,g,0,g,0,g,0,g
+916,mooyah,veggies grilled onions,1.5,g,0,mg,65,g,5,g,1,g,0,g,0,g,1,g,2,g
+917,mooyah,veggies pickled jalapeno,0,g,0,mg,170,g,0,g,0,g,0,g,0,g,0,g,0,g
+918,mooyah,veggies pickles,0,g,0,mg,240,g,0,g,0,g,0,g,0,g,0,g,0,g
+919,mooyah,veggies relish,0,g,0,mg,230,g,10,g,0,g,0,g,0,g,0,g,8,g
+920,mooyah,veggies sauteed mushrooms,8,g,0,mg,125,g,1,g,1,g,0.5,g,0,g,0,g,1,g
+921,mooyah,veggies tomato,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+922,mountain mikes pizza,buffalo style chicken wings 10 pieces,32.5,g,138,mg,1150,g,2.5,g,35,g,8.8,g,0,g,0,g,0,g
+923,mountain mikes pizza,garlic bread with cheese,27.5,g,26,mg,1090,g,59.4,g,17.6,g,8.2,g,0,g,2.1,g,1.4,g
+924,mountain mikes pizza,garlic sticks,7.3,g,1,mg,112,g,35.1,g,5.4,g,1.3,g,0,g,1.4,g,1.5,g
+925,mountain mikes pizza,mozzarella sticks,48,g,80,mg,1760,g,48,g,32,g,16,g,0,g,0,g,0,g
+926,mountain mikes pizza,garlic sticks with cheese,10.1,g,10,mg,183,g,35.2,g,7.9,g,2.9,g,0,g,1.4,g,1.5,g
+927,mountain mikes pizza,jalapeno poppers,28.5,g,38,mg,1785,g,46.5,g,13.5,g,10.5,g,1.5,g,7.5,g,7.5,g
+928,mountain mikes pizza,cream cheese poppers,36,g,60,mg,1215,g,45,g,9,g,15,g,1.5,g,10.5,g,9,g
+929,mountain mikes pizza,buffalo style chicken wings 6 pieces,19.5,g,83,mg,690,g,1.5,g,21,g,5.3,g,0,g,0,g,0,g
+930,mountain mikes pizza,garlic bread,20.7,g,4,mg,911,g,59.1,g,11.3,g,4.3,g,0,g,2.1,g,1.4,g
+931,mountain mikes pizza,chicken bites,12,g,120,mg,2320,g,29.3,g,50.7,g,2.7,g,0,g,2.7,g,2.7,g
+932,mountain mikes pizza,dessert pizza,2.6,g,0.0001,mg,34,g,15.9,g,1.9,g,0.6,g,0,g,0.6,g,4.2,g
+933,mountain mikes pizza,mt veggiemore pizza large 14,6.3,g,13,mg,236,g,31.7,g,8.4,g,2.3,g,0,g,1.6,g,2.4,g
+934,mountain mikes pizza,the everest pizza small 10,7,g,18,mg,263,g,18.9,g,7.6,g,2.8,g,0.0001,g,0.9,g,1.4,g
+935,mountain mikes pizza,the everest pizza large 14,10.4,g,26,mg,387,g,30.1,g,11.4,g,4,g,0.0001,g,1.5,g,2.1,g
+936,mountain mikes pizza,the chicken club pizza large 14,12.1,g,27,mg,382,g,29.3,g,11.8,g,3.8,g,0,g,1.4,g,1.8,g
+937,mountain mikes pizza,the pineapple chicken luau pizza large 14,10.3,g,29,mg,412,g,34.3,g,12.9,g,4.1,g,0,g,1.2,g,6.4,g
+938,mountain mikes pizza,mckinley pizza large 14,6,g,15,mg,217,g,30,g,9,g,3,g,0,g,2,g,2,g
+939,mountain mikes pizza,pikes peak pizza large 14,11.7,g,33,mg,498,g,29.3,g,13.3,g,4.8,g,0.0001,g,1.3,g,1.8,g
+940,mountain mikes pizza,mt veggiemore pizza small 10,4.3,g,9,mg,164,g,20,g,5.6,g,1.6,g,0,g,1,g,1.6,g
+941,mountain mikes pizza,mt veggiemore pizza medium 12,5.4,g,12,mg,204,g,27.3,g,7.3,g,2,g,0,g,1.4,g,2,g
+942,mountain mikes pizza,snowy alps creamy garlic combo pizza large 14,10.1,g,18,mg,315,g,29.7,g,8.3,g,2.9,g,0,g,1.4,g,2,g
+943,mountain mikes pizza,snowy alps creamy garlic combo pizza medium 12,8.8,g,16,mg,275,g,25.7,g,7.3,g,2.5,g,0,g,1.2,g,1.7,g
+944,mountain mikes pizza,the everest pizza mountain 20,14.4,g,37,mg,541,g,40.7,g,15.8,g,5.6,g,0.0001,g,2,g,2.8,g
+945,mountain mikes pizza,mckinley pizza small 10,4,g,10,mg,159,g,10,g,4,g,2,g,0,g,0.6,g,1,g
+946,mountain mikes pizza,sizzlin bacon classic pizza large 14,11.6,g,23,mg,424,g,29.2,g,10.8,g,3.4,g,0,g,1.3,g,1.7,g
+947,mountain mikes pizza,mckinley pizza medium 12,6,g,15,mg,202,g,26,g,8,g,3,g,0,g,1,g,2,g
+948,mountain mikes pizza,robbers roost pizza with white sauce medium 12,7.2,g,15,mg,226,g,25.8,g,7.6,g,1.9,g,0,g,1.2,g,1.7,g
+949,mountain mikes pizza,the chicken club pizza mini,6.5,g,14,mg,202,g,14.1,g,6,g,2,g,0,g,0.7,g,0.9,g
+950,mountain mikes pizza,the everest pizza medium 12,9,g,23,mg,338,g,26,g,9.9,g,3.5,g,0.0001,g,1.3,g,1.8,g
+951,mountain mikes pizza,the pineapple chicken luau pizza mini,5.4,g,15,mg,219,g,16.6,g,6.6,g,2.2,g,0,g,0.6,g,3.3,g
+952,mountain mikes pizza,mt veggiemore pizza mountain 20,8.8,g,18,mg,329,g,42.9,g,11.5,g,3.3,g,0,g,2.2,g,3.2,g
+953,mountain mikes pizza,the pineapple chicken luau pizza medium 12,8.9,g,25,mg,357,g,29.6,g,11.1,g,3.6,g,0,g,1.1,g,5.4,g
+954,mountain mikes pizza,snowy alps creamy garlic veggie pizza small 10,5.7,g,8,mg,166,g,19,g,4.6,g,1.4,g,0,g,1,g,1.3,g
+955,mountain mikes pizza,diamond head pizza large 14,5.6,g,19,mg,345,g,30.7,g,10.6,g,2.5,g,0,g,1.4,g,3.3,g
+956,mountain mikes pizza,mckinley pizza mountain 20,10,g,24,mg,368,g,41,g,13,g,4,g,0,g,2,g,3,g
+957,mountain mikes pizza,diamond head pizza medium 12,4.9,g,17,mg,301,g,26.5,g,9.2,g,2.2,g,0,g,1.2,g,2.8,g
+958,mountain mikes pizza,robbers roost pizza with white sauce small 10,5.7,g,12,mg,178,g,18.7,g,5.8,g,1.5,g,0,g,0.9,g,1.2,g
+959,mountain mikes pizza,garlic tuscan pizza small 10,7.2,g,18,mg,344,g,20.8,g,7.8,g,2.9,g,0,g,1.2,g,2,g
+960,mountain mikes pizza,the pineapple chicken luau pizza mountain 20,14.3,g,40,mg,575,g,46.6,g,17.8,g,5.7,g,0,g,1.7,g,8.9,g
+961,mountain mikes pizza,snowy alps creamy garlic combo pizza mountain 20,14.1,g,25,mg,440,g,40.2,g,11.5,g,4.1,g,0,g,2,g,2.7,g
+962,mountain mikes pizza,robbers roost pizza with red sauce large 14,6.5,g,19,mg,252,g,30.2,g,10.3,g,2.5,g,0,g,1.6,g,2.1,g
+963,mountain mikes pizza,robbers roost pizza with white sauce large 14,8.3,g,17,mg,260,g,29.8,g,8.8,g,2.2,g,0,g,1.4,g,1.9,g
+964,mountain mikes pizza,pikes peak pizza small 10,8.1,g,23,mg,347,g,18.3,g,9,g,3.3,g,0.0001,g,0.8,g,1.2,g
+965,mountain mikes pizza,sizzlin bacon classic pizza medium 12,10.1,g,20,mg,371,g,25.3,g,9.4,g,3,g,0,g,1.1,g,1.5,g
+966,mountain mikes pizza,diamond head pizza mountain 20,7.8,g,27,mg,482,g,41.5,g,14.7,g,3.5,g,0,g,1.9,g,4.5,g
+967,mountain mikes pizza,the pineapple chicken luau pizza small 10,6.9,g,20,mg,279,g,21.4,g,8.5,g,2.8,g,0,g,0.8,g,4,g
+968,mountain mikes pizza,pikes peak pizza medium 12,10.2,g,29,mg,436,g,25.3,g,11.6,g,4.2,g,0.0001,g,1.1,g,1.6,g
+969,mountain mikes pizza,mt st helens pizza large 14,4,g,13,mg,117,g,0.0001,g,3.9,g,2.3,g,0,g,0,g,0,g
+970,mountain mikes pizza,robbers roost pizza with white sauce mountain 20,11.5,g,24,mg,363,g,40.3,g,12.1,g,3,g,0,g,2,g,2.6,g
+971,mountain mikes pizza,garlic tuscan pizza mini,6,g,15,mg,286,g,16.2,g,6.4,g,2.4,g,0,g,1,g,1.7,g
+972,mountain mikes pizza,sizzlin bacon classic pizza mountain 20,16.2,g,32,mg,593,g,39.5,g,14.9,g,4.8,g,0,g,1.7,g,2.3,g
+973,mountain mikes pizza,mt st helens pizza mountain 20,10.4,g,26,mg,459,g,40.3,g,12.6,g,4.7,g,0,g,2.5,g,3,g
+974,mountain mikes pizza,garlic tuscan pizza large 14,10.5,g,25,mg,493,g,32.9,g,11.6,g,4.2,g,0,g,1.8,g,3.1,g
+975,mountain mikes pizza,garlic tuscan pizza medium 12,9.1,g,22,mg,431,g,28.5,g,10.1,g,3.7,g,0,g,1.6,g,2.7,g
+976,mountain mikes pizza,robbers roost pizza with red sauce mountain 20,7.8,g,23,mg,315,g,40.8,g,13,g,2.8,g,0,g,2.2,g,2.9,g
+977,mountain mikes pizza,diamond head pizza small 10,3.7,g,11,mg,177,g,19.2,g,6.2,g,1.7,g,0,g,0.9,g,2.1,g
+978,mountain mikes pizza,pikes peak pizza mountain 20,21.9,g,65,mg,860,g,39.6,g,23.9,g,9.9,g,0.0001,g,1.8,g,2.5,g
+979,mountain mikes pizza,mt st helens pizza medium 12,6.5,g,16,mg,285,g,25.8,g,7.9,g,2.9,g,0,g,1.6,g,1.9,g
+980,mountain mikes pizza,the chicken club pizza small 10,8.2,g,18,mg,258,g,18.3,g,7.7,g,2.6,g,0,g,0.9,g,1.2,g
+981,mountain mikes pizza,mt st helens pizza small 10,5.1,g,13,mg,225,g,18.7,g,6.1,g,2.3,g,0,g,1.2,g,1.4,g
+982,mountain mikes pizza,the chicken club pizza medium 12,10.5,g,23,mg,330,g,25.3,g,10.2,g,3.3,g,0,g,1.2,g,1.6,g
+983,mountain mikes pizza,the chicken club pizza mountain 20,16.9,g,38,mg,533,g,39.6,g,16.3,g,5.3,g,0,g,1.8,g,2.5,g
+984,mountain mikes pizza,garlic tuscan pizza mountain 20,14.6,g,36,mg,689,g,44.6,g,16,g,5.9,g,0,g,2.5,g,4.2,g
+985,mountain mikes pizza,sizzlin bacon classic pizza small 10,8,g,16,mg,295,g,18.3,g,7.2,g,2.4,g,0,g,0.8,g,1.1,g
+986,mountain mikes pizza,snowy alps creamy garlic combo pizza small 10,7,g,12,mg,219,g,18.6,g,5.5,g,2,g,0,g,0.9,g,1.3,g
+987,mountain mikes pizza,snowy alps creamy garlic veggie pizza medium 12,7.2,g,10,mg,209,g,26.2,g,6.1,g,1.7,g,0,g,1.4,g,1.7,g
+988,mountain mikes pizza,snowy alps creamy garlic veggie pizza mountain 20,11.5,g,16,mg,334,g,41,g,9.6,g,2.7,g,0,g,2.1,g,2.7,g
+989,mountain mikes pizza,robbers roost pizza with red sauce small 10,4.4,g,13,mg,173,g,18.9,g,6.8,g,1.8,g,0,g,1,g,1.4,g
+990,mountain mikes pizza,snowy alps creamy garlic veggie pizza large 14,8.2,g,12,mg,239,g,30.3,g,7,g,2,g,0,g,1.6,g,2,g
+991,mountain mikes pizza,robbers roost pizza with red sauce medium 12,5.6,g,17,mg,219,g,26.1,g,8.9,g,2.2,g,0,g,1.4,g,1.8,g
+992,mountain mikes pizza,cherry tomatoes,0.0001,g,0,mg,1,g,1.1,g,0.2,g,0.0001,g,0,g,0.3,g,0.7,g
+993,mountain mikes pizza,cottage cheese,1.3,g,5,mg,85,g,0.8,g,3.5,g,0.8,g,0,g,0,g,0.8,g
+994,mountain mikes pizza,chopped eggs,3,g,120,mg,35,g,0.3,g,3.6,g,0.9,g,0,g,0,g,0.3,g
+995,mountain mikes pizza,baby carrots,0.0001,g,0,mg,23,g,2.3,g,0.2,g,0,g,0,g,0.6,g,1.4,g
+996,mountain mikes pizza,salad mix,0.0001,g,0,mg,3,g,0.9,g,0.3,g,0,g,0,g,0.4,g,0.5,g
+997,mountain mikes pizza,broccoli,0.0001,g,0,mg,8,g,1.5,g,0.8,g,0.0001,g,0,g,0,g,0,g
+998,mountain mikes pizza,sliced beets,0,g,0,mg,49,g,1.6,g,0,g,0,g,0,g,0.5,g,1.2,g
+999,mountain mikes pizza,kidney beans,0.0001,g,0,mg,97,g,4.4,g,1.5,g,0.0001,g,0,g,1.8,g,0.0001,g

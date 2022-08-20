@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,nothing but noodles,asian spicy japanese noodle bowl,8,g,0,mg,1453,g,74,g,10,g,1,g,0,g,4,g,13,g
+1,nothing but noodles,italian basil pesto noodle bowl,42,g,87,mg,334,g,36,g,14,g,18,g,0,g,3,g,1,g
+2,nothing but noodles,primavera chicken and vegetable wrap pasta less bowl,15,g,54,mg,722,g,26,g,22,g,3,g,0,g,2,g,16,g
+3,nothing but noodles,general tsos chicken rice dish,44,g,50,mg,1538,g,69,g,24,g,5,g,0,g,1,g,12,g
+4,nothing but noodles,american spicy cajun pasta noodle bowl,50,g,148,mg,1517,g,44,g,9,g,29,g,0,g,4,g,6,g
+5,nothing but noodles,asian pad thai noodle noodle bowl,10,g,106,mg,2817,g,118,g,14,g,2,g,0,g,4,g,39,g
+6,nothing but noodles,asian thai peanut noodle bowl,20,g,0,mg,1638,g,89,g,11,g,5,g,0,g,5,g,12,g
+7,nothing but noodles,cheesy chicken and vegetables pasta less bowl,21,g,103,mg,970,g,6,g,29,g,12,g,0,g,2,g,2,g
+8,nothing but noodles,chicken pomodoro pasta less bowl,34,g,137,mg,1040,g,7,g,28,g,19,g,0,g,2,g,2,g
+9,nothing but noodles,stuffed shells baked dish,57,g,210,mg,1238,g,28,g,27,g,33.5,g,0,g,3,g,3,g
+10,nothing but noodles,italian cappellini primavera noodle bowl,28,g,7,mg,333,g,56,g,10,g,5,g,0,g,4,g,18,g
+11,nothing but noodles,italian margherita pasta noodle bowl,31,g,5,mg,2153,g,36,g,9,g,5,g,0,g,3,g,3,g
+12,nothing but noodles,lobster ravioli baked dish,50,g,253,mg,1189,g,21,g,24,g,38.5,g,0,g,3.5,g,2,g
+13,nothing but noodles,asian sesame lo mein noodle bowl,11,g,7,mg,1737,g,64,g,5,g,2,g,0,g,4,g,8,g
+14,nothing but noodles,shrimp pesto florentine pasta less bowl,25,g,154,mg,357,g,5,g,16,g,12,g,0,g,2,g,1,g
+15,nothing but noodles,american beef stroganoff noodle bowl,31,g,122,mg,1499,g,33,g,26,g,14,g,0,g,2,g,3,g
+16,nothing but noodles,thai peanut stir fry rice dish,27,g,50,mg,885,g,59,g,29,g,5,g,0,g,3,g,12,g
+17,nothing but noodles,italian fettuccini alfredo noodle bowl,56,g,175,mg,1053,g,36,g,20,g,35,g,0,g,2,g,1,g
+18,nothing but noodles,american santa fe pasta noodle bowl,54,g,140,mg,1714,g,40,g,18,g,29,g,0,g,3,g,4,g
+19,nothing but noodles,thai curry beef and vegetables pasta less bowl,30,g,91,mg,899,g,16,g,32,g,13,g,0,g,4,g,7,g
+20,nothing but noodles,kung pao chicken rice dish,51,g,50,mg,460,g,89,g,31,g,6,g,0,g,5,g,23,g
+21,nothing but noodles,eggplant parmesan baked dish,37,g,68,mg,746,g,79,g,19,g,8,g,0,g,6.5,g,8,g
+22,nothing but noodles,american southwest chipotle noodle bowl,58,g,156,mg,1822,g,41,g,11,g,32,g,0,g,4,g,3,g
+23,nothing but noodles,italian marinara pasta noodle bowl,11,g,17,mg,1075,g,77,g,23,g,5,g,0,g,8,g,4,g
+24,nothing but noodles,american buttery noodle noodle bowl,44,g,178,mg,1538,g,46,g,19,g,26,g,0,g,2,g,1,g
+25,nothing but noodles,buttermilk ranch dressing,6,g,5,mg,140,g,1,g,0,g,1,g,0,g,0,g,1,g
+26,nothing but noodles,poppy seed dressing,6,g,2,mg,175,g,5,g,0,g,1,g,0,g,0,g,4,g
+27,nothing but noodles,creamy balsamic dressing,10,g,0,mg,12,g,20,g,0,g,1,g,0,g,0,g,14,g
+28,nothing but noodles,roasted garlic balsamic vinaigrette,3,g,0,mg,155,g,2,g,0,g,1,g,0,g,0,g,2,g
+29,nothing but noodles,tuscan caesar dressing,7,g,8,mg,180,g,1,g,0,g,1,g,0,g,0,g,1,g
+30,nothing but noodles,oriental salad dressing,10,g,0,mg,132,g,12,g,0,g,1,g,0,g,0,g,10,g
+31,nothing but noodles,golden italian dressing,6,g,0,mg,150,g,2,g,0,g,1,g,0,g,0,g,2,g
+32,nothing but noodles,spicy cucumber and chicken salad,15,g,70,mg,911,g,10,g,28,g,5,g,0,g,3,g,4,g
+33,nothing but noodles,bbq chicken salad,15,g,28,mg,225,g,11,g,9,g,3,g,0,g,3,g,3,g
+34,nothing but noodles,steak salad,19,g,35,mg,220,g,7,g,11,g,5,g,0,g,2,g,2,g
+35,nothing but noodles,greek salad,31,g,23,mg,661,g,26,g,9,g,8,g,0,g,3,g,2,g
+36,nothing but noodles,sun dried tomato salad,12,g,5,mg,773,g,32,g,11,g,2,g,0,g,4,g,5,g
+37,nothing but noodles,caesar salad,19,g,20,mg,677,g,14,g,7,g,4,g,0,g,2,g,3,g
+38,nothing but noodles,pear and balsamic spinach salad,28,g,11,mg,249,g,38,g,7,g,5,g,0,g,3,g,24,g
+39,nothing but noodles,hunk of lettuce salad,21,g,16,mg,706,g,7,g,6,g,6,g,0,g,2,g,2,g
+40,nothing but noodles,oriental salad,11,g,0,mg,151,g,20,g,4,g,2,g,0,g,4,g,5,g
+41,nothing but noodles,cranberry spinach salad,10,g,3,mg,92,g,18,g,3,g,2,g,0,g,3,g,10,g
+42,nothing but noodles,chopped salad,15,g,15,mg,480,g,10,g,7,g,4,g,0,g,3,g,3,g
+43,nothing but noodles,mandarin orange salad,14,g,8,mg,245,g,13,g,2,g,2,g,0,g,2,g,10,g
+44,nothing but noodles,garden fresh salad,5,g,7,mg,249,g,12,g,5,g,2,g,0,g,2,g,2,g
+45,nothing but noodles,tomato bisque soup,23,g,71,mg,434,g,9,g,2,g,0,g,0,g,1,g,2,g
+46,nothing but noodles,almonds drizzled with non alcoholic amaretto liqueur topping,3,g,3,mg,9,g,20,g,1,g,1,g,0,g,0,g,20,g
+47,nothing but noodles,chocolate syrup topping,0,g,0,mg,20,g,23,g,1,g,0,g,0,g,0,g,16,g
+48,nothing but noodles,alfredo,55,g,175,mg,950,g,39,g,19,g,34,g,0,g,2,g,1,g
+49,nothing but noodles,basil pesto,42,g,85,mg,330,g,36,g,14,g,18,g,0,g,3,g,1,g
+50,nothing but noodles,bbq chicken salad,15,g,30,mg,230,g,11,g,9,g,3,g,0,g,3,g,3,g
+51,nothing but noodles,beef,4,g,45,mg,230,g,0,g,17,g,1,g,0,g,0,g,0,g
+52,nothing but noodles,beef stroganoff,31,g,120,mg,1500,g,33,g,26,g,14,g,0,g,2,g,3,g
+53,nothing but noodles,buttermilk ranch,6,g,5,mg,140,g,1,g,0,g,1,g,0,g,0,g,1,g
+54,nothing but noodles,buttery noodles,44,g,180,mg,1540,g,46,g,19,g,26,g,0,g,2,g,1,g
+55,nothing but noodles,buttery noodles kids,49,g,200,mg,1710,g,51,g,21,g,29,g,0,g,2,g,1,g
+56,nothing but noodles,caesar salad,19,g,20,mg,680,g,14,g,7,g,4,g,0,g,2,g,3,g
+57,nothing but noodles,cannoli,17,g,35,mg,90,g,44,g,10,g,7,g,0,g,1,g,34,g
+58,nothing but noodles,cappelini primavera,28,g,5,mg,330,g,56,g,10,g,5,g,0,g,4,g,18,g
+59,nothing but noodles,cheesy chicken and vegetables,21,g,105,mg,970,g,6,g,29,g,12,g,0,g,2,g,2,g
+60,nothing but noodles,chicken,3,g,50,mg,490,g,0,g,18,g,1,g,0,g,0,g,0,g
+61,nothing but noodles,chicken pomodoro,34,g,135,mg,1040,g,7,g,28,g,19,g,0,g,2,g,2,g
+62,nothing but noodles,chopped salad,15,g,15,mg,480,g,10,g,7,g,4,g,0,g,3,g,3,g
+63,nothing but noodles,cotton candy,0,g,0,mg,5,g,17,g,0,g,0,g,0,g,0,g,18,g
+64,nothing but noodles,cranberry spinach salad,10,g,5,mg,90,g,18,g,3,g,2,g,0,g,3,g,10,g
+65,nothing but noodles,creamy balsamic,10,g,0,mg,10,g,20,g,0,g,1,g,0,g,0,g,14,g
+66,nothing but noodles,cucumber side salad,16,g,0,mg,650,g,13,g,2,g,1,g,0,g,1,g,6,g
+67,nothing but noodles,eggplant parmesan,37,g,70,mg,750,g,79,g,19,g,8,g,0,g,7,g,8,g
+68,nothing but noodles,fettuccini alfredo,56,g,175,mg,1050,g,36,g,20,g,35,g,0,g,2,g,1,g
+69,nothing but noodles,fresh mozzarella,27,g,50,mg,490,g,134,g,20,g,10,g,0,g,1,g,88,g
+70,nothing but noodles,garden fresh salad,5,g,5,mg,250,g,12,g,5,g,2,g,0,g,2,g,2,g
+71,nothing but noodles,garlic breadsticks,4,g,0,mg,210,g,28,g,2,g,1,g,0,g,1,g,1,g
+72,nothing but noodles,general tsos chicken,44,g,50,mg,1540,g,69,g,24,g,5,g,0,g,1,g,12,g
+73,nothing but noodles,golden italian,6,g,0,mg,150,g,2,g,0,g,1,g,0,g,0,g,2,g
+74,nothing but noodles,greek salad,31,g,25,mg,660,g,26,g,9,g,8,g,0,g,3,g,2,g
+75,nothing but noodles,hunk of lettuce,21,g,15,mg,710,g,7,g,6,g,6,g,0,g,2,g,2,g
+76,nothing but noodles,key lime ple,33,g,225,mg,290,g,67,g,11,g,19,g,0,g,1,g,50,g
+77,nothing but noodles,kung pao chicken,51,g,50,mg,460,g,89,g,31,g,6,g,0,g,5,g,23,g
+78,nothing but noodles,lobster ravioli,81,g,255,mg,1190,g,21,g,24,g,39,g,0,g,4,g,2,g
+79,nothing but noodles,macaroni and cheese,26,g,80,mg,750,g,38,g,18,g,16,g,0,g,2,g,2,g
+80,nothing but noodles,mandarin orange salad,14,g,10,mg,250,g,13,g,2,g,2,g,0,g,2,g,10,g
+81,nothing but noodles,margherita pasta,31,g,5,mg,2150,g,36,g,9,g,5,g,0,g,3,g,3,g
+82,nothing but noodles,marinara pasta,11,g,15,mg,1080,g,77,g,23,g,5,g,0,g,8,g,4,g
+83,nothing but noodles,mozzarella cheese bread,17,g,40,mg,1310,g,86,g,33,g,8,g,0,g,3,g,5,g
+84,nothing but noodles,new york cheesecake,53,g,245,mg,0,g,59,g,15,g,32,g,0,g,0,g,49,g
+85,nothing but noodles,new york cheesecake w almonds drizzled with non alcoholic amaretto liqueur,3,g,5,mg,10,g,20,g,1,g,1,g,0,g,0,g,20,g
+86,nothing but noodles,new york cheesecake w chocolate syrup,0,g,0,mg,20,g,23,g,1,g,0,g,0,g,0,g,16,g
+87,nothing but noodles,new york cheesecake w strawberry puree,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,7,g
+88,nothing but noodles,oriental salad,11,g,0,mg,150,g,20,g,4,g,2,g,0,g,4,g,5,g
+89,nothing but noodles,oriental salad dressing,10,g,0,mg,130,g,12,g,0,g,1,g,0,g,0,g,10,g
+90,nothing but noodles,pad thai noodles,10,g,105,mg,2820,g,118,g,14,g,2,g,0,g,4,g,39,g
+91,nothing but noodles,pear and balsamic spinach salad,28,g,10,mg,250,g,38,g,7,g,5,g,0,g,3,g,24,g
+92,nothing but noodles,poppy seed,6,g,5,mg,180,g,5,g,0,g,1,g,0,g,0,g,4,g
+93,nothing but noodles,potstidairs,33,g,10,mg,2160,g,39,g,11,g,3,g,0,g,5,g,10,g
+94,nothing but noodles,primavera chicken and vegetable wrap,15,g,55,mg,720,g,26,g,22,g,3,g,0,g,2,g,16,g
+95,nothing but noodles,roasted garlic balsamic vinaigrette,3,g,0,mg,160,g,2,g,0,g,1,g,0,g,0,g,2,g
+96,nothing but noodles,santa fe pasta,54,g,140,mg,1710,g,40,g,18,g,29,g,0,g,3,g,4,g
+97,nothing but noodles,sesame lo mein,11,g,5,mg,1740,g,64,g,5,g,2,g,0,g,4,g,8,g
+98,nothing but noodles,shrimp,1,g,75,mg,75,g,1,g,10,g,0,g,0,g,0,g,0,g
+99,nothing but noodles,shrimp pests florentine,25,g,155,mg,360,g,5,g,16,g,12,g,0,g,2,g,1,g
+100,nothing but noodles,southwest chipoue,58,g,155,mg,1820,g,41,g,11,g,32,g,0,g,4,g,3,g
+101,nothing but noodles,spaghetti,6,g,10,mg,610,g,47,g,13,g,3,g,0,g,5,g,2,g
+102,nothing but noodles,spicy cajun pasta,50,g,150,mg,1520,g,44,g,9,g,29,g,0,g,4,g,6,g
+103,nothing but noodles,spicy cucumber and chicken salad,15,g,70,mg,910,g,10,g,28,g,5,g,0,g,3,g,4,g
+104,nothing but noodles,spicy japanese noodles,8,g,0,mg,1450,g,74,g,10,g,1,g,0,g,4,g,13,g
+105,nothing but noodles,steak salad,19,g,35,mg,220,g,7,g,11,g,5,g,0,g,2,g,2,g
+106,nothing but noodles,stuffed shells,57,g,210,mg,1240,g,28,g,27,g,34,g,0,g,3,g,3,g
+107,nothing but noodles,sun dried tomato,12,g,5,mg,770,g,32,g,11,g,2,g,0,g,4,g,5,g
+108,nothing but noodles,thai curry beef and vegetables,30,g,90,mg,900,g,16,g,32,g,13,g,0,g,4,g,7,g
+109,nothing but noodles,thai lettuce wraps,23,g,60,mg,1240,g,15,g,24,g,6,g,0,g,2,g,7,g
+110,nothing but noodles,thai peanut,20,g,0,mg,1640,g,89,g,11,g,5,g,0,g,5,g,12,g
+111,nothing but noodles,thai peanut stir fry,27,g,50,mg,890,g,59,g,29,g,5,g,0,g,3,g,12,g
+112,nothing but noodles,three cheese macaroni,21,g,115,mg,390,g,45,g,20,g,12,g,0,g,2,g,2,g
+113,nothing but noodles,tofu,4,g,0,mg,5,g,1,g,7,g,1,g,0,g,0,g,0,g
+114,nothing but noodles,tomato bisque,23,g,70,mg,430,g,9,g,2,g,0,g,0,g,1,g,2,g
+115,nothing but noodles,triple chocolate cake,33,g,50,mg,620,g,106,g,6,g,9,g,0,g,4,g,61,g
+116,nothing but noodles,tuscan caesar,7,g,10,mg,10,g,180,g,1,g,1,g,0,g,1,g,0,g
+117,naf naf grill,bowl base basmati rice,18,g,0,mg,470,g,48,g,6,g,3,g,0,g,4,g,1,g
+118,naf naf grill,bowl base couscous,5,g,0,mg,590,g,13,g,2,g,1,g,0,g,1,g,0,g
+119,naf naf grill,bowl base hummus,36,g,0,mg,480,g,17,g,7,g,4,g,0,g,6,g,3,g
+120,naf naf grill,bowl base salad,0,g,0,mg,5,g,3,g,1,g,0,g,0,g,2,g,1,g
+121,naf naf grill,bowl filling chicken shawarma,17,g,185,mg,620,g,0,g,39,g,5,g,0,g,1,g,0,g
+122,naf naf grill,bowl filling falafel,21,g,0,mg,620,g,32,g,9,g,3,g,0,g,8,g,3,g
+123,naf naf grill,bowl filling steak,16,g,90,mg,660,g,3,g,33,g,5,g,1,g,0,g,1,g
+124,naf naf grill,bowl toppings amba sauce,1,g,0,mg,460,g,7,g,1,g,0,g,0,g,0,g,3,g
+125,naf naf grill,bowl toppings chopped salad,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,1,g,2,g
+126,naf naf grill,bowl toppings garlic sauce,17,g,10,mg,120,g,1,g,0,g,3,g,0,g,0,g,0,g
+127,naf naf grill,bowl toppings harissa hot sauce,0,g,0,mg,120,g,1,g,0,g,1,g,0,g,1,g,0,g
+128,naf naf grill,bowl toppings pickles,0,g,0,mg,210,g,0,g,0,g,0,g,0,g,0,g,0,g
+129,naf naf grill,bowl toppings purple cabbage salad,3,g,0,mg,350,g,4,g,1,g,0,g,0,g,1,g,2,g
+130,naf naf grill,bowl toppings skhug hot sauce,1,g,0,mg,100,g,1,g,0,g,0,g,0,g,0,g,0,g
+131,naf naf grill,bowl toppings sumac onions,0,g,0,mg,5,g,2,g,0,g,0,g,0,g,0,g,0,g
+132,naf naf grill,bowl toppings tahini sauce,6,g,0,mg,150,g,3,g,2,g,1,g,0,g,1,g,0,g
+133,naf naf grill,extras basmati rice,18,g,0,mg,470,g,48,g,6,g,0,g,0,g,4,g,0,g
+134,naf naf grill,extras falafel,4,g,0,mg,230,g,12,g,1,g,0,g,0,g,1,g,0,g
+135,naf naf grill,extras large baba ghanoush,16,g,0,mg,1650,g,24,g,6,g,2,g,0,g,8,g,6,g
+136,naf naf grill,extras large hummus includes 2 pitas,61,g,5,mg,2040,g,122,g,32,g,8,g,0,g,104,g,14,g
+137,naf naf grill,extras lentil soup,4,g,0,mg,660,g,22,g,8,g,0,g,0,g,8,g,2,g
+138,naf naf grill,extras naf fries,33,g,0,mg,290,g,56,g,8,g,5,g,0,g,7,g,1,g
+139,naf naf grill,extras pita,0,g,0,mg,640,g,47,g,11,g,0,g,0,g,2,g,5,g
+140,naf naf grill,extras small baba ghanoush,8,g,0,mg,820,g,12,g,3,g,1,g,0,g,4,g,3,g
+141,naf naf grill,extras small hummus includes 1 pita,31,g,0,mg,1020,g,61,g,16,g,4,g,0,g,52,g,7,g
+142,naf naf grill,fillings 4 falafel,17,g,0,mg,500,g,26,g,7,g,3,g,0,g,6,g,2,g
+143,naf naf grill,fillings baba ghanoush,8,g,0,mg,820,g,12,g,3,g,1,g,0,g,4,g,3,g
+144,naf naf grill,fillings chopped salad,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,1,g,2,g
+145,naf naf grill,fillings hummus,36,g,0,mg,480,g,17,g,7,g,4,g,0,g,6,g,3,g
+146,naf naf grill,fillings purple cabbage,3,g,0,mg,350,g,4,g,1,g,0,g,0,g,1,g,2,g
+147,naf naf grill,fillings sumac onions,0,g,0,mg,5,g,2,g,0,g,0,g,0,g,0,g,1,g
+148,naf naf grill,pita base baba ghanoush swipe,1,g,0,mg,140,g,2,g,1,g,0,g,0,g,1,g,1,g
+149,naf naf grill,pita base hummus swipe,6,g,0,mg,85,g,3,g,1,g,1,g,0,g,0,g,1,g
+150,naf naf grill,pita base pita,2,g,0,mg,640,g,47,g,11,g,0,g,0,g,2,g,5,g
+151,naf naf grill,pita filling chicken shawarma,17,g,185,mg,620,g,0,g,39,g,5,g,0,g,1,g,0,g
+152,naf naf grill,pita filling falafel,17,g,0,mg,500,g,26,g,7,g,3,g,0,g,6,g,2,g
+153,naf naf grill,pita filling steak,16,g,90,mg,660,g,3,g,33,g,5,g,1,g,0,g,1,g
+154,naf naf grill,pita toppings amba sauce,1,g,0,mg,460,g,7,g,1,g,0,g,0,g,0,g,3,g
+155,naf naf grill,pita toppings chopped salad,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+156,naf naf grill,pita toppings garlic sauce,17,g,10,mg,120,g,1,g,0,g,3,g,0,g,0,g,0,g
+157,naf naf grill,pita toppings harissa hot sauce,0,g,0,mg,120,g,1,g,0,g,1,g,0,g,1,g,0,g
+158,naf naf grill,pita toppings pickles,0,g,0,mg,150,g,0,g,0,g,0,g,0,g,0,g,0,g
+159,naf naf grill,pita toppings purple cabbage salad,0,g,0,mg,150,g,0,g,0,g,0,g,0,g,0,g,0,g
+160,naf naf grill,pita toppings skhug hot sauce,1,g,0,mg,100,g,1,g,0,g,0,g,0,g,0,g,0,g
+161,naf naf grill,pita toppings sumac onions,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+162,naf naf grill,pita toppings tahini sauce,6,g,0,mg,150,g,3,g,2,g,1,g,0,g,1,g,0,g
+163,nalley fresh,alfredo bowl,67,g,220,mg,1520,g,43,g,36,g,28,g,1,g,4,g,11,g
+164,nalley fresh,asian bowl,33,g,60,mg,1070,g,44,g,26,g,7,g,0,g,6,g,12,g
+165,nalley fresh,asian salad,19,g,30,mg,1270,g,68,g,16,g,2,g,0,g,10,g,26,g
+166,nalley fresh,asian wrap,19,g,15,mg,1190,g,88,g,18,g,3.5,g,0,g,11,g,20,g
+167,nalley fresh,blue collar salad,34,g,215,mg,920,g,71,g,27,g,8,g,0,g,14,g,7,g
+168,nalley fresh,blue collar wrap,28,g,200,mg,920,g,86,g,26,g,7,g,0,g,12,g,7,g
+169,nalley fresh,brown rice bowl,23,g,10,mg,540,g,71,g,23,g,3.5,g,0,g,17,g,8,g
+170,nalley fresh,caesar salad,48,g,215,mg,1020,g,22,g,19,g,10,g,0,g,5,g,4,g
+171,nalley fresh,caesar wrap,36,g,200,mg,1010,g,61,g,23,g,9,g,0,g,8,g,6,g
+172,nalley fresh,cajun bowl,24,g,75,mg,1370,g,69,g,37,g,6,g,0,g,13,g,5,g
+173,nalley fresh,californian salad,35,g,10,mg,540,g,20,g,9,g,4.5,g,0,g,7,g,6,g
+174,nalley fresh,californian wrap,28,g,5,mg,750,g,62,g,15,g,5,g,0,g,10,g,7,g
+175,nalley fresh,classic garden salad,31,g,10,mg,700,g,30,g,9,g,3.5,g,0,g,6,g,14,g
+176,nalley fresh,classic garden wrap,24,g,5,mg,810,g,65,g,15,g,5,g,0,g,9,g,10,g
+177,nalley fresh,greek salad,46,g,10,mg,1750,g,28,g,11,g,6,g,0,g,7,g,12,g
+178,nalley fresh,greek wrap,34,g,5,mg,1400,g,65,g,15,g,6,g,0,g,9,g,9,g
+179,nalley fresh,harvest salad,29,g,10,mg,670,g,61,g,10,g,4.5,g,0,g,8,g,35,g
+180,nalley fresh,harvest wrap,24,g,5,mg,770,g,80,g,14,g,5,g,0,g,9,g,21,g
+181,nalley fresh,healthy salad,41,g,0,mg,300,g,42,g,12,g,4,g,0,g,10,g,14,g
+182,nalley fresh,healthy wrap,30,g,0,mg,580,g,71,g,16,g,4.5,g,0,g,10,g,10,g
+183,nalley fresh,layered soup bowl,25,g,30,mg,1230,g,71,g,24,g,3,g,0,g,15,g,10,g
+184,nalley fresh,nalley fiesta salad,32,g,15,mg,760,g,48,g,17,g,6,g,0,g,15,g,8,g
+185,nalley fresh,nalley fiesta wrap,24,g,5,mg,820,g,75,g,18,g,5,g,0,g,13,g,7,g
+186,nalley fresh,noodle bowl,48,g,110,mg,1380,g,48,g,22,g,17,g,0.5,g,7,g,14,g
+187,nalley fresh,shades of green salad,29,g,0,mg,560,g,19,g,8,g,2.5,g,0,g,6,g,5,g
+188,nalley fresh,shades of green wrap,23,g,0,mg,700,g,59,g,13,g,4,g,0,g,9,g,6,g
+189,nalley fresh,sweet potato bowl,39,g,15,mg,670,g,69,g,17,g,6,g,0,g,11,g,27,g
+190,nalley fresh,turkey chili bowl,14,g,40,mg,1160,g,51,g,20,g,5,g,0,g,7,g,5,g
+191,nandos peri peri,2 chicken thigh skewers plain ish,9,g,190,mg,200,g,8,g,46,g,2,g,0,g,2,g,5,g
+192,nandos peri peri,add ons avocado,11,g,0,mg,5,g,7,g,2,g,2,g,0,g,5,g,1,g
+193,nandos peri peri,add ons cheddar cheese,10,g,30,mg,180,g,0,g,8,g,5,g,0,g,0,g,0,g
+194,nandos peri peri,add ons chili jam,0,g,0,mg,90,g,21,g,0,g,0,g,0,g,1,g,20,g
+195,nandos peri peri,add ons grilled chicken breast tenders plain ish,2,g,75,mg,105,g,0,g,30,g,0,g,0,g,0,g,0,g
+196,nandos peri peri,add ons grilled halloumi cheese,14,g,40,mg,560,g,1,g,12,g,10,g,0,g,0,g,1,g
+197,nandos peri peri,add ons grilled pineapple slice,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,1,g,7,g
+198,nandos peri peri,add ons roasted whole portabello mushroom,1,g,0,mg,190,g,9,g,4,g,0,g,0,g,3,g,3,g
+199,nandos peri peri,ancient grain peri dried tomato and chicken salad with dressing,49,g,95,mg,1410,g,38,g,50,g,7,g,0,g,8,g,12,g
+200,nandos peri peri,beers and ciders blue moon belgian white ale 14 fl oz,0,g,0,mg,10,g,15,g,2,g,0,g,0,g,0,g,0,g
+201,nandos peri peri,beers and ciders corona extra 12 oz bottle,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,0,g,0,g
+202,nandos peri peri,beers and ciders dc brau seasonal 14 fl oz,0,g,0,mg,0,g,21,g,3,g,0,g,0,g,0,g,0,g
+203,nandos peri peri,beers and ciders lagunitas ipa 14 fl oz,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,0,g,0,g
+204,nandos peri peri,beers and ciders sam adams boston lager,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+205,nandos peri peri,beers and ciders superbock,0,g,0,mg,5,g,3,g,0,g,0,g,0,g,0,g,1,g
+206,nandos peri peri,blood orange and mango lemonade,0,g,0,mg,5,g,39,g,1,g,0,g,0,g,1,g,34,g
+207,nandos peri peri,blood orange and mango spiked lemonade,0,g,0,mg,0,g,21,g,1,g,0,g,0,g,0,g,17,g
+208,nandos peri peri,blood orange and mango spiked lemonade pitcher,0,g,0,mg,10,g,62,g,2,g,0,g,0,g,0,g,51,g
+209,nandos peri peri,borges lello red wine 8 fl oz,0,g,0,mg,10,g,6,g,0,g,0,g,0,g,0,g,1,g
+210,nandos peri peri,borges lello wine red bottle,0,g,0,mg,30,g,19,g,1,g,0,g,0,g,0,g,5,g
+211,nandos peri peri,braai cabernet wine 8 fl oz,0,g,0,mg,10,g,6,g,0,g,0,g,0,g,0,g,1,g
+212,nandos peri peri,braai cabernet wine bottle,0,g,0,mg,30,g,19,g,1,g,0,g,0,g,0,g,0,g
+213,nandos peri peri,buternut squash and corn fall winter,8,g,0,mg,1260,g,76,g,6,g,2,g,0,g,10,g,34,g
+214,nandos peri peri,caesar side salad,25,g,25,mg,660,g,6,g,10,g,6,g,5,g,2,g,2,g
+215,nandos peri peri,cara viva red wine 8 fl oz,0,g,0,mg,10,g,6,g,0,g,0,g,0,g,0,g,1,g
+216,nandos peri peri,cara viva white wine bottle,0,g,0,mg,35,g,19,g,1,g,0,g,0,g,0,g,7,g
+217,nandos peri peri,cara viva white 8 fl oz,0,g,0,mg,10,g,6,g,0,g,0,g,0,g,0,g,2,g
+218,nandos peri peri,cara viva wine red bottle,0,g,0,mg,30,g,19,g,1,g,0,g,0,g,0,g,5,g
+219,nandos peri peri,caramelized pineapple lemonade,0,g,0,mg,5,g,32,g,0,g,0,g,0,g,0,g,29,g
+220,nandos peri peri,caramelized pineapple spiked lemonade,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,15,g
+221,nandos peri peri,caramelized pineapple spiked lemonade pitcher,0,g,0,mg,10,g,50,g,0,g,0,g,0,g,0,g,44,g
+222,nandos peri peri,charred cauliflower and chicken salad with dressing,33,g,40,mg,1220,g,40,g,22,g,13,g,0,g,8,g,22,g
+223,nandos peri peri,chicken breast sandwich plain ish,12,g,85,mg,920,g,51,g,38,g,1,g,0,g,3,g,7,g
+224,nandos peri peri,chicken breast wrap plain ish,13,g,80,mg,910,g,58,g,44,g,5,g,0,g,10,g,16,g
+225,nandos peri peri,chicken burger plain ish,22,g,115,mg,1090,g,59,g,46,g,6,g,0,g,4,g,14,g
+226,nandos peri peri,chicken caesar salad with dressing,53,g,110,mg,1880,g,12,g,47,g,9,g,10,g,4,g,4,g
+227,nandos peri peri,chicken caesar wrap plain ish,44,g,60,mg,2010,g,57,g,29,g,10,g,5,g,6,g,8,g
+228,nandos peri peri,chicken livers plain ish,22,g,980,mg,1490,g,1,g,48,g,5,g,0,g,0,g,0,g
+229,nandos peri peri,chicken pita plain ish,11,g,85,mg,780,g,44,g,37,g,1,g,0,g,4,g,5,g
+230,nandos peri peri,chocolate gelado,8,g,0,mg,35,g,18,g,2,g,6,g,0,g,3,g,17,g
+231,nandos peri peri,coleslaw large,38,g,30,mg,150,g,13,g,2,g,2,g,0,g,3,g,10,g
+232,nandos peri peri,coleslaw regular,16,g,15,mg,60,g,5,g,1,g,1,g,0,g,1,g,4,g
+233,nandos peri peri,condiments balsamic vinaigrete,10,g,0,mg,380,g,8,g,0,g,1,g,0,g,0,g,8,g
+234,nandos peri peri,condiments balsamic vinegar,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,6,g
+235,nandos peri peri,condiments caesar dressing,19,g,0,mg,240,g,0,g,1,g,1,g,5,g,0,g,0,g
+236,nandos peri peri,condiments extra hot sauce,2,g,0,mg,1480,g,2,g,0,g,0,g,0,g,0,g,0,g
+237,nandos peri peri,condiments garlic sauce,4,g,0,mg,2540,g,4,g,0,g,0,g,0,g,0,g,0,g
+238,nandos peri peri,condiments hot sauce,2,g,0,mg,1180,g,2,g,0,g,0,g,0,g,0,g,0,g
+239,nandos peri peri,condiments ketchup,0,g,0,mg,530,g,16,g,1,g,0,g,0,g,1,g,14,g
+240,nandos peri peri,condiments lemon and herb sauce,6,g,0,mg,560,g,4,g,0,g,0,g,0,g,0,g,4,g
+241,nandos peri peri,condiments medium sauce,2,g,0,mg,1310,g,2,g,0,g,0,g,0,g,0,g,0,g
+242,nandos peri peri,condiments olive oil,27,g,0,mg,0,g,0,g,0,g,4,g,0,g,0,g,0,g
+243,nandos peri peri,condiments perinaise,14,g,20,mg,610,g,8,g,0,g,2,g,0,g,0,g,8,g
+244,nandos peri peri,condiments poppy seed dressing,17,g,0,mg,160,g,3,g,1,g,1,g,0,g,1,g,3,g
+245,nandos peri peri,condiments wild herb sauce,2,g,0,mg,1300,g,2,g,0,g,0,g,0,g,0,g,0,g
+246,nandos peri peri,condiments xx hot sauce,2,g,0,mg,1480,g,2,g,0,g,0,g,0,g,0,g,0,g
+247,nandos peri peri,cucumber and poppy seed salad spring summer,17,g,0,mg,190,g,14,g,2,g,1,g,0,g,2,g,8,g
+248,nandos peri peri,deboned chicken thighs plain ish,15,g,280,mg,600,g,0,g,67,g,3,g,0,g,0,g,0,g
+249,nandos peri peri,desserts bottomless dole whip,0,g,0,mg,30,g,63,g,0,g,0,g,0,g,0,g,60,g
+250,nandos peri peri,desserts naughty natas,8,g,75,mg,70,g,30,g,4,g,4,g,0,g,2,g,16,g
+251,nandos peri peri,extra hot basting,6,g,0,mg,4610,g,6,g,0,g,0,g,0,g,0,g,0,g
+252,nandos peri peri,feta avo and crispy chickpea salad with dressing,39,g,30,mg,1200,g,36,g,19,g,9,g,0,g,14,g,13,g
+253,nandos peri peri,feta avo and grains wrap,55,g,15,mg,1200,g,73,g,23,g,11,g,5,g,19,g,12,g
+254,nandos peri peri,flame grilled chicken breast plain ish,23,g,160,mg,160,g,0,g,52,g,7,g,0,g,0,g,0,g
+255,nandos peri peri,flame grilled corn on the cob,1,g,0,mg,15,g,17,g,3,g,0,g,0,g,2,g,3,g
+256,nandos peri peri,flame grilled corn on the cob with butter chips,3,g,5,mg,30,g,17,g,3,g,1,g,0,g,2,g,3,g
+257,nandos peri peri,flame grilled corn on the cob with butter chips 2 ears,6,g,10,mg,60,g,34,g,6,g,3,g,0,g,5,g,6,g
+258,nandos peri peri,flame grilled corn on the cob 2 ears,2,g,0,mg,30,g,34,g,6,g,0,g,0,g,5,g,6,g
+259,nandos peri peri,four high carrot cake,64,g,170,mg,600,g,78,g,10,g,26,g,1,g,2,g,58,g
+260,nandos peri peri,garlic bread,22,g,55,mg,470,g,43,g,8,g,13,g,0,g,2,g,2,g
+261,nandos peri peri,garlic breadlarge,44,g,110,mg,940,g,86,g,16,g,26,g,0,g,4,g,4,g
+262,nandos peri peri,garlic sticks,44,g,110,mg,940,g,86,g,16,g,26,g,0,g,4,g,4,g
+263,nandos peri peri,gatao vinho verde wine 8 fl oz,0,g,0,mg,10,g,6,g,0,g,0,g,0,g,0,g,2,g
+264,nandos peri peri,gatao vinho verde wine bottle,0,g,0,mg,35,g,0,g,1,g,0,g,0,g,0,g,7,g
+265,nandos peri peri,half chicken plain ish,26,g,160,mg,370,g,0,g,44,g,7,g,0,g,0,g,0,g
+266,nandos peri peri,heirloom tomato halloumi and chicken salad with dressing,23,g,115,mg,1090,g,28,g,49,g,11,g,0,g,6,g,12,g
+267,nandos peri peri,hot basting,3,g,0,mg,1950,g,3,g,0,g,0,g,0,g,0,g,0,g
+268,nandos peri peri,hummus and veggies with peri drizzle,56,g,0,mg,780,g,47,g,17,g,5,g,5,g,16,g,12,g
+269,nandos peri peri,hummus with peri drizzle and pita,56,g,0,mg,1740,g,139,g,33,g,5,g,5,g,21,g,6,g
+270,nandos peri peri,iced black tea,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+271,nandos peri peri,indaba chardonay wine 8 fl oz,0,g,0,mg,10,g,5,g,0,g,0,g,0,g,0,g,3,g
+272,nandos peri peri,indaba chardonnay wine bottle,0,g,0,mg,30,g,16,g,0,g,0,g,0,g,0,g,10,g
+273,nandos peri peri,kids apple slices,0,g,0,mg,0,g,29,g,1,g,0,g,0,g,5,g,22,g
+274,nandos peri peri,kids coleslaw,11,g,10,mg,40,g,3,g,1,g,1,g,0,g,1,g,3,g
+275,nandos peri peri,kids corn on the cob 1 2,1,g,0,mg,5,g,9,g,2,g,0,g,0,g,1,g,2,g
+276,nandos peri peri,kids fries,16,g,0,mg,460,g,25,g,3,g,3,g,5,g,3,g,0,g
+277,nandos peri peri,kids garlic roll 1 2,11,g,30,mg,240,g,22,g,4,g,7,g,0,g,1,g,1,g
+278,nandos peri peri,kids mash,10,g,20,mg,620,g,21,g,2,g,5,g,0,g,2,g,1,g
+279,nandos peri peri,kids portuguese roll,1,g,0,mg,470,g,42,g,8,g,0,g,0,g,2,g,2,g
+280,nandos peri peri,kids side of veggies,0,g,0,mg,35,g,6,g,1,g,0,g,0,g,2,g,3,g
+281,nandos peri peri,lemon and herb basting,1,g,0,mg,80,g,1,g,0,g,0,g,0,g,0,g,1,g
+282,nandos peri peri,macho peas large,50,g,105,mg,340,g,36,g,16,g,26,g,0,g,14,g,10,g
+283,nandos peri peri,macho peas regular,25,g,55,mg,170,g,18,g,8,g,13,g,0,g,7,g,5,g
+284,nandos peri peri,mango and lime basting,1,g,0,mg,300,g,4,g,0,g,0,g,0,g,0,g,4,g
+285,nandos peri peri,mango gelado,0,g,0,mg,0,g,22,g,0,g,0,g,0,g,2,g,19,g
+286,nandos peri peri,medium basting,2,g,0,mg,1110,g,2,g,0,g,0,g,0,g,0,g,0,g
+287,nandos peri peri,mixed leaf side salad,8,g,0,mg,490,g,11,g,2,g,1,g,0,g,3,g,8,g
+288,nandos peri peri,nandino chicken breast fillet sandwich,3,g,75,mg,800,g,42,g,38,g,0,g,0,g,2,g,2,g
+289,nandos peri peri,nandino chicken breast fillet sandwich with peri tamer sauce,3,g,75,mg,1230,g,38,g,37,g,0,g,0,g,1,g,7,g
+290,nandos peri peri,nandino chicken wings with peri tamer sauce,9,g,80,mg,540,g,1,g,28,g,2,g,0,g,0,g,0,g
+291,nandos peri peri,nandino chicken wings plain,9,g,80,mg,210,g,0,g,28,g,2,g,0,g,0,g,0,g
+292,nandos peri peri,nandino grilled cheese sandwich,29,g,80,mg,780,g,42,g,18,g,15,g,0,g,4,g,3,g
+293,nandos peri peri,nandino grilled chicken breast strips with peri tamer sauce,3,g,75,mg,750,g,1,g,30,g,1,g,0,g,0,g,0,g
+294,nandos peri peri,nandino grilled chicken breast strips plain ish,2,g,75,mg,105,g,0,g,30,g,0,g,0,g,0,g,0,g
+295,nandos peri peri,nandino grilled drumstick and thigh,15,g,70,mg,690,g,1,g,15,g,3,g,0,g,0,g,0,g
+296,nandos peri peri,nandino grilled drumstick and thigh with peri tamer sauce,16,g,70,mg,1340,g,2,g,15,g,4,g,0,g,0,g,0,g
+297,nandos peri peri,original sangria glass,0,g,0,mg,15,g,35,g,0,g,0,g,0,g,3,g,29,g
+298,nandos peri peri,original sangria jug,0,g,0,mg,50,g,105,g,1,g,0,g,0,g,8,g,88,g
+299,nandos peri peri,peach and mango sangria glass,0,g,0,mg,20,g,31,g,0,g,0,g,0,g,1,g,25,g
+300,nandos peri peri,peach and mango sangria pitcher,0,g,0,mg,60,g,92,g,1,g,0,g,0,g,3,g,76,g
+301,nandos peri peri,peri peri chicken bowl plain ish,32,g,95,mg,1790,g,78,g,43,g,7,g,1,g,6,g,7,g
+302,nandos peri peri,peri fries large,47,g,0,mg,1360,g,77,g,8,g,9,g,14,g,8,g,0,g
+303,nandos peri peri,peri fries regular,24,g,0,mg,680,g,38,g,4,g,4,g,7,g,4,g,0,g
+304,nandos peri peri,peri peri nuts,60,g,0,mg,2220,g,31,g,20,g,8,g,0,g,7,g,7,g
+305,nandos peri peri,peri peri wings plain ish 12 pieces,35,g,310,mg,880,g,2,g,112,g,9,g,0,g,1,g,1,g
+306,nandos peri peri,peri peri wings plain ish 24 pieces,71,g,625,mg,1750,g,4,g,225,g,17,g,0,g,1,g,1,g
+307,nandos peri peri,peri peri wings plain ish,18,g,155,mg,440,g,1,g,56,g,4,g,0,g,0,g,0,g
+308,nandos peri peri,portuguese rice large,23,g,30,mg,1360,g,77,g,9,g,8,g,1,g,1,g,1,g
+309,nandos peri peri,portuguese rice regular,12,g,15,mg,680,g,39,g,4,g,4,g,1,g,1,g,1,g
+310,nandos peri peri,portuguese roll,1,g,0,mg,470,g,42,g,8,g,0,g,0,g,2,g,2,g
+311,nandos peri peri,portuguese roll with butter chip,7,g,15,mg,520,g,42,g,8,g,4,g,0,g,2,g,2,g
+312,nandos peri peri,quarter chicken breast and wing plain ish,15,g,95,mg,200,g,0,g,29,g,4,g,0,g,0,g,0,g
+313,nandos peri peri,quarter chicken leg and thigh plain ish,11,g,70,mg,170,g,0,g,15,g,3,g,0,g,0,g,0,g
+314,nandos peri peri,raspberry white choc cheesecake,43,g,85,mg,500,g,49,g,9,g,26,g,0.5,g,2,g,33,g
+315,nandos peri peri,red skin mashed potatoes large,26,g,55,mg,1610,g,54,g,5,g,12,g,0,g,5,g,3,g
+316,nandos peri peri,red skin mashed potatoes regular,15,g,30,mg,920,g,31,g,2,g,7,g,0,g,3,g,2,g
+317,nandos peri peri,roasted mushroom and halloumi wrap,25,g,45,mg,1350,g,71,g,30,g,14,g,0,g,12,g,21,g
+318,nandos peri peri,roasted vegetables fall winter,10,g,0,mg,330,g,13,g,4,g,1,g,0,g,4,g,6,g
+319,nandos peri peri,roasted vegetables spring summer,5,g,0,mg,680,g,15,g,3,g,1,g,0,g,3,g,7,g
+320,nandos peri peri,sparkling water,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+321,nandos peri peri,spicy mixed olives,18,g,0,mg,1030,g,4,g,0,g,1,g,0,g,0,g,0,g
+322,nandos peri peri,sweet tea,0,g,0,mg,15,g,23,g,0,g,0,g,0,g,0,g,23,g
+323,nandos peri peri,the nandocas choice sandwich plain ish,53,g,240,mg,1010,g,52,g,75,g,15,g,0,g,4,g,9,g
+324,nandos peri peri,thigh and mighty sandwich plain ish,16,g,165,mg,950,g,47,g,45,g,3,g,0,g,2,g,7,g
+325,nandos peri peri,vanilla gelado,9,g,0,mg,160,g,18,g,3,g,7,g,0,g,0,g,17,g
+326,nandos peri peri,veggie burger plain ish,23,g,15,mg,2030,g,61,g,38,g,4,g,0,g,9,g,7,g
+327,nandos peri peri,whole chicken plain ish,52,g,325,mg,740,g,1,g,88,g,14,g,0,g,0,g,0,g
+328,nanoosh,babananoosh,11,g,0,mg,380,g,12,g,4,g,2,g,0,g,0,g,0,g
+329,nanoosh,butternut squash soup 12 oz,5,g,0,mg,780,g,41,g,4,g,1,g,0,g,0,g,7,g
+330,nanoosh,butternut squash soup 8 oz,4,g,0,mg,510,g,27,g,3,g,1,g,0,g,0,g,5,g
+331,nanoosh,chicken and pepper salad,22,g,30,mg,610,g,21,g,14,g,4,g,0,g,0,g,3,g
+332,nanoosh,garden salad,6,g,0,mg,480,g,34,g,12,g,1,g,0,g,0,g,9,g
+333,nanoosh,greek salad,13,g,30,mg,710,g,11,g,4,g,5,g,0,g,0,g,6,g
+334,nanoosh,house green salad,0,g,0,mg,5,g,3,g,1,g,0,g,0,g,0,g,1,g
+335,nanoosh,hummus,19,g,0,mg,190,g,22,g,10,g,3,g,0,g,0,g,2,g
+336,nanoosh,hummus chicken,41,g,85,mg,340,g,37,g,48,g,6,g,0,g,0,g,4,g
+337,nanoosh,hummus chicken wrap,32,g,30,mg,1010,g,73,g,27,g,5,g,0,g,0,g,4,g
+338,nanoosh,hummus egg wrap,31,g,320,mg,540,g,61,g,26,g,6,g,0,g,0,g,5,g
+339,nanoosh,hummus mushroom wrap,21,g,0,mg,640,g,64,g,19,g,3,g,0,g,0,g,6,g
+340,nanoosh,hummus nanoosh,41,g,35,mg,530,g,41,g,30,g,8,g,0,g,0,g,6,g
+341,nanoosh,hummus tahini,33,g,0,mg,220,g,34,g,17,g,5,g,0,g,0,g,3,g
+342,nanoosh,hummus tahini wrap,23,g,0,mg,450,g,60,g,17,g,3,g,0,g,0,g,4,g
+343,nanoosh,hummus topped w mushrooms,29,g,0,mg,380,g,36,g,17,g,4,g,0,g,0,g,6,g
+344,nanoosh,hummus topped w red and green peppers,33,g,0,mg,620,g,36,g,15,g,5,g,0,g,0,g,7,g
+345,nanoosh,hummus topped w sun dried tomato,36,g,0,mg,1100,g,49,g,19,g,5,g,0,g,0,g,15,g
+346,nanoosh,hummus topped w warm chickpeas,36,g,0,mg,230,g,63,g,26,g,5,g,0,g,0,g,8,g
+347,nanoosh,lebane,21,g,50,mg,65,g,7,g,3,g,12,g,0,g,0,g,7,g
+348,nanoosh,lebane wrap,23,g,45,mg,280,g,49,g,11,g,11,g,0,g,0,g,8,g
+349,nanoosh,lentil soup 12 oz,5,g,0,mg,560,g,28,g,10,g,1,g,0,g,0,g,3,g
+350,nanoosh,lentil soup 8 oz,3,g,0,mg,350,g,18,g,6,g,0,g,0,g,0,g,2,g
+351,nanoosh,marinated chicken salad,21,g,30,mg,530,g,21,g,15,g,4,g,0,g,0,g,3,g
+352,nanoosh,mediterranean salad,0,g,0,mg,10,g,5,g,1,g,0,g,0,g,0,g,3,g
+353,nanoosh,mediterranean tuna salad,18,g,250,mg,360,g,10,g,26,g,4,g,0,g,0,g,5,g
+354,nanoosh,mediterranean tuna wrap,17,g,35,mg,500,g,45,g,26,g,3,g,0,g,0,g,3,g
+355,nanoosh,nanoosh green salad,15,g,0,mg,75,g,31,g,7,g,1,g,0,g,0,g,20,g
+356,nanoosh,nanoosh green salad sides,7,g,0,mg,35,g,16,g,3,g,1,g,0,g,0,g,10,g
+357,nanoosh,nanoosh wrap,29,g,35,mg,920,g,64,g,30,g,6,g,0,g,0,g,5,g
+358,nanoosh,organic rice pudding cardamom almonds,6,g,20,mg,55,g,10,g,5,g,4,g,0,g,0,g,18,g
+359,nanoosh,organic rice pudding cinnamon raisins,6,g,20,mg,60,g,46,g,6,g,4,g,0,g,0,g,31,g
+360,nanoosh,quinoa salad,19,g,0,mg,440,g,81,g,15,g,2,g,0,g,0,g,13,g
+361,nanoosh,quinoa salad sides,8,g,0,mg,190,g,36,g,6,g,1,g,0,g,0,g,6,g
+362,nanoosh,tabouleh salad,17,g,0,mg,800,g,73,g,11,g,2,g,0,g,0,g,12,g
+363,nanoosh,tabouleh salad sides,9,g,0,mg,400,g,36,g,5,g,1,g,0,g,0,g,6,g
+364,nanoosh,tomato soup 12 oz,8,g,0,mg,480,g,6,g,1,g,0,g,0,g,0,g,3,g
+365,nanoosh,tomato soup 8 oz,5,g,0,mg,330,g,1,g,1,g,0,g,0,g,0,g,2,g
+366,nanoosh,veggie plate,0,g,0,mg,85,g,8,g,2,g,0,g,0,g,0,g,4,g
+367,national coney island,asian zinger salad with crispy chicken,24,g,25,mg,750,g,60,g,28,g,4,g,2,g,9,g,16,g
+368,national coney island,asian zinger salad with grilled chicken,22,g,75,mg,770,g,45,g,42,g,3,g,2,g,9,g,16,g
+369,national coney island,baby greek salad with pita,6,g,15,mg,740,g,21,g,8,g,3,g,0,g,3,g,4,g
+370,national coney island,bacon and cheese omelette,32,g,695,mg,1290,g,1,g,35,g,13,g,0,g,0,g,1,g
+371,national coney island,bacon and ranch hani,40,g,75,mg,2060,g,64,g,34,g,12,g,0,g,4,g,7,g
+372,national coney island,bacon burger,31,g,120,mg,1030,g,27,g,39,g,12,g,0,g,0,g,4,g
+373,national coney island,bacon lettuce and tomato sandwich with mayo,41,g,60,mg,1360,g,39,g,19,g,10,g,0,g,1,g,5,g
+374,national coney island,bacon omelette,23,g,670,mg,790,g,1,g,29,g,7,g,0,g,0,g,1,g
+375,national coney island,bagel,1,g,0,mg,350,g,34,g,6,g,1,g,0,g,2,g,3,g
+376,national coney island,bbq hani,19,g,55,mg,1800,g,78,g,29,g,8,g,0,g,4,g,21,g
+377,national coney island,bean with ham soup bowl,3,g,5,mg,1430,g,29,g,8,g,1,g,0,g,5,g,3,g
+378,national coney island,bean with ham soup cup,1,g,5,mg,710,g,14,g,4,g,0,g,0,g,3,g,1,g
+379,national coney island,big breakfast special,40,g,750,mg,3250,g,32,g,67,g,14,g,0,g,3,g,5,g
+380,national coney island,biscuits and gravy,28,g,30,mg,1720,g,60,g,12,g,10,g,0,g,2,g,6,g
+381,national coney island,black bean burger,8,g,0,mg,1180,g,63,g,22,g,1,g,0,g,8,g,7,g
+382,national coney island,blue cakes,8,g,25,mg,1360,g,84,g,11,g,3,g,0,g,4,g,20,g
+383,national coney island,boston clam chowder bowl,13,g,40,mg,1130,g,26,g,10,g,6,g,0,g,0,g,7,g
+384,national coney island,boston clam chowder cup,6,g,20,mg,560,g,13,g,5,g,3,g,0,g,0,g,3,g
+385,national coney island,breakfast special with bacon,22,g,455,mg,1330,g,28,g,26,g,7,g,0,g,3,g,1,g
+386,national coney island,breakfast special with ham,18,g,500,mg,2430,g,31,g,46,g,6,g,0,g,3,g,4,g
+387,national coney island,breakfast special with sausage,32,g,475,mg,1550,g,30,g,36,g,11,g,0,g,3,g,3,g
+388,national coney island,buffalo hani,38,g,70,mg,2800,g,63,g,30,g,11,g,0,g,5,g,7,g
+389,national coney island,cheese fries,27,g,15,mg,780,g,42,g,6,g,7,g,0,g,3,g,0,g
+390,national coney island,cheese omelette,24,g,660,mg,720,g,1,g,25,g,11,g,0,g,0,g,1,g
+391,national coney island,chef salad,47,g,380,mg,3240,g,17,g,62,g,24,g,0,g,2,g,12,g
+392,national coney island,cherry coke 24 oz,0,g,0,mg,5,g,50,g,0,g,0,g,0,g,0,g,50,g
+393,national coney island,cherry coke 32 oz,0,g,0,mg,10,g,67,g,0,g,0,g,0,g,0,g,67,g
+394,national coney island,chicken and dumpling soup bowl,13,g,55,mg,1300,g,21,g,10,g,3,g,0,g,0,g,5,g
+395,national coney island,chicken and dumpling soup cup,6,g,30,mg,650,g,11,g,5,g,2,g,0,g,0,g,3,g
+396,national coney island,chicken gumbo bowl,6,g,25,mg,1200,g,14,g,5,g,2,g,0,g,1,g,3,g
+397,national coney island,chicken gumbo cup,3,g,15,mg,600,g,7,g,3,g,1,g,0,g,1,g,1,g
+398,national coney island,chicken lemon rice soup bowl,4,g,185,mg,900,g,14,g,4,g,2,g,0,g,0,g,1,g
+399,national coney island,chicken lemon rice soup cup,2,g,95,mg,450,g,7,g,2,g,1,g,0,g,0,g,1,g
+400,national coney island,chicken noodle soup bowl,3,g,30,mg,1020,g,14,g,9,g,1,g,0,g,1,g,1,g
+401,national coney island,chicken noodle soup cup,1,g,15,mg,510,g,7,g,4,g,0,g,0,g,1,g,1,g
+402,national coney island,chicken pot pie soup bowl,18,g,55,mg,1560,g,24,g,10,g,6,g,0,g,1,g,5,g
+403,national coney island,chicken pot pie soup cup,9,g,30,mg,780,g,12,g,5,g,3,g,0,g,1,g,3,g
+404,national coney island,chicken quesadilla,35,g,120,mg,1860,g,55,g,50,g,13,g,0,g,5,g,3,g
+405,national coney island,chicken tenders 5,11,g,65,mg,1130,g,38,g,37,g,1,g,0,g,2,g,0,g
+406,national coney island,chili and cheese fries,47,g,40,mg,1320,g,55,g,20,g,20,g,0,g,6,g,0,g
+407,national coney island,chili con carne bowl,25,g,30,mg,1470,g,41,g,23,g,13,g,0,g,11,g,3,g
+408,national coney island,chili con carne cup,12,g,15,mg,730,g,21,g,11,g,7,g,0,g,5,g,1,g
+409,national coney island,chili fries,38,g,30,mg,820,g,50,g,18,g,17,g,0,g,6,g,0,g
+410,national coney island,chocolate chip cakes,39,g,25,mg,1360,g,155,g,11,g,23,g,0,g,2,g,78,g
+411,national coney island,chocolate ice cream,9,g,35,mg,40,g,16,g,3,g,6,g,0,g,1,g,13,g
+412,national coney island,chocolate milk shake,39,g,95,mg,320,g,85,g,14,g,28,g,0,g,2,g,66,g
+413,national coney island,classic cheeseburger,25,g,105,mg,710,g,27,g,34,g,10,g,0,g,0,g,4,g
+414,national coney island,club sandwich,21,g,80,mg,2090,g,62,g,42,g,5,g,0,g,1,g,9,g
+415,national coney island,coca cola 24 oz,0,g,0,mg,10,g,49,g,0,g,0,g,0,g,0,g,49,g
+416,national coney island,coca cola 32 oz,0,g,0,mg,15,g,65,g,0,g,0,g,0,g,0,g,65,g
+417,national coney island,coney hamburger,36,g,80,mg,1580,g,35,g,29,g,16,g,0,g,3,g,4,g
+418,national coney island,coney hot dog,30,g,50,mg,1440,g,34,g,22,g,13,g,0,g,3,g,4,g
+419,national coney island,coney special,41,g,90,mg,1840,g,35,g,31,g,17,g,0,g,3,g,4,g
+420,national coney island,country omelette,41,g,685,mg,870,g,8,g,27,g,12,g,0,g,1,g,2,g
+421,national coney island,cream of broccoli soup bowl,8,g,30,mg,1190,g,18,g,8,g,4,g,0,g,1,g,9,g
+422,national coney island,cream of broccoli soup cup,4,g,15,mg,590,g,9,g,4,g,2,g,0,g,1,g,5,g
+423,national coney island,crispy chicken and bacon salad,44,g,355,mg,2510,g,25,g,52,g,16,g,0,g,3,g,8,g
+424,national coney island,decaf tea,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+425,national coney island,diet coke 16 oz,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+426,national coney island,diet coke 24 oz,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+427,national coney island,diet coke 32 oz,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+428,national coney island,english muffin,1,g,0,mg,410,g,28,g,5,g,0,g,0,g,0,g,1,g
+429,national coney island,fanta orange 24 oz,0,g,0,mg,65,g,53,g,0,g,0,g,0,g,0,g,53,g
+430,national coney island,fanta orange 32 oz,0,g,0,mg,90,g,71,g,0,g,0,g,0,g,0,g,71,g
+431,national coney island,farmers omelette,25,g,670,mg,1340,g,20,g,32,g,11,g,0,g,3,g,3,g
+432,national coney island,fish and chips,34,g,50,mg,660,g,61,g,26,g,6,g,1,g,4,g,2,g
+433,national coney island,fish sandwich,12,g,25,mg,750,g,59,g,19,g,1,g,0,g,4,g,5,g
+434,national coney island,french fries,14,g,0,mg,40,g,35,g,3,g,3,g,0,g,3,g,0,g
+435,national coney island,french toast,8,g,190,mg,750,g,78,g,18,g,2,g,0,g,0,g,27,g
+436,national coney island,grapefruit juice 8 oz,0,g,0,mg,35,g,21,g,2,g,0,g,0,g,0,g,17,g
+437,national coney island,greek omelette,23,g,665,mg,830,g,7,g,28,g,9,g,0,g,1,g,2,g
+438,national coney island,grilled cheese,10,g,20,mg,910,g,38,g,12,g,6,g,0,g,0,g,4,g
+439,national coney island,grilled cheese and bacon,22,g,55,mg,1460,g,40,g,21,g,9,g,0,g,0,g,6,g
+440,national coney island,grilled chicken breast sandwich,6,g,75,mg,870,g,27,g,32,g,1,g,0,g,0,g,3,g
+441,national coney island,grilled chicken gyro,7,g,75,mg,990,g,45,g,38,g,2,g,0,g,4,g,4,g
+442,national coney island,grilled chicken hani,18,g,105,mg,1730,g,46,g,43,g,8,g,0,g,3,g,5,g
+443,national coney island,grilled chicken salad,29,g,340,mg,1830,g,10,g,46,g,13,g,0,g,2,g,8,g
+444,national coney island,grilled ham and cheese,14,g,60,mg,1780,g,40,g,27,g,7,g,0,g,0,g,6,g
+445,national coney island,gyro,19,g,40,mg,1250,g,49,g,19,g,7,g,0,g,2,g,2,g
+446,national coney island,ham and cheese omelette,25,g,670,mg,1010,g,2,g,30,g,11,g,0,g,0,g,2,g
+447,national coney island,ham omelette,16,g,650,mg,500,g,2,g,24,g,5,g,0,g,0,g,2,g
+448,national coney island,hash browns,0,g,0,mg,550,g,27,g,3,g,0,g,0,g,3,g,0,g
+449,national coney island,hi c 24 oz,0,g,0,mg,15,g,50,g,0,g,0,g,0,g,0,g,50,g
+450,national coney island,hi c 32 oz,0,g,0,mg,20,g,67,g,0,g,0,g,0,g,0,g,67,g
+451,national coney island,hummus,23,g,0,mg,1440,g,77,g,19,g,5,g,0,g,10,g,6,g
+452,national coney island,hummus wrap,17,g,0,mg,790,g,61,g,18,g,3,g,0,g,12,g,10,g
+453,national coney island,italian style wedding soup bowl,4,g,15,mg,930,g,16,g,6,g,2,g,0,g,0,g,1,g
+454,national coney island,italian style wedding soup cup,2,g,5,mg,460,g,8,g,3,g,1,g,0,g,0,g,1,g
+455,national coney island,jumbo all beef hot dog,36,g,70,mg,550,g,25,g,17,g,14,g,0,g,0,g,4,g
+456,national coney island,kids 1 egg with white toast,6,g,210,mg,470,g,38,g,12,g,2,g,0,g,0,g,4,g
+457,national coney island,kids 1 egg bacon with white toast,12,g,225,mg,790,g,38,g,17,g,4,g,0,g,0,g,4,g
+458,national coney island,kids 1 egg ham with white toast,10,g,250,mg,1340,g,40,g,27,g,3,g,0,g,0,g,6,g
+459,national coney island,kids 1 egg sausage with white toast,17,g,235,mg,900,g,39,g,22,g,6,g,0,g,0,g,5,g
+460,national coney island,kids apple sauce,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,1,g,22,g
+461,national coney island,kids blue cakes,5,g,15,mg,910,g,56,g,7,g,2,g,0,g,3,g,13,g
+462,national coney island,kids blue cakes with bacon,11,g,30,mg,1230,g,56,g,12,g,4,g,0,g,3,g,13,g
+463,national coney island,kids blue cakes with ham,9,g,55,mg,1780,g,58,g,22,g,3,g,0,g,3,g,15,g
+464,national coney island,kids blue cakes with sausage,16,g,40,mg,1340,g,57,g,17,g,6,g,0,g,3,g,14,g
+465,national coney island,kids cheeseburger with apple sauce,21,g,80,mg,530,g,26,g,27,g,8,g,0,g,0,g,3,g
+466,national coney island,kids cheeseburger with fries,29,g,80,mg,560,g,47,g,29,g,10,g,0,g,2,g,3,g
+467,national coney island,kids chicken tenders with apple sauce,4,g,25,mg,450,g,39,g,15,g,1,g,0,g,2,g,22,g
+468,national coney island,kids chicken tenders with fries,13,g,25,mg,480,g,36,g,17,g,3,g,0,g,3,g,0,g
+469,national coney island,kids chocolate chip cakes,26,g,15,mg,910,g,103,g,7,g,15,g,0,g,1,g,52,g
+470,national coney island,kids chocolate chip cakes with bacon,32,g,30,mg,1230,g,103,g,12,g,17,g,0,g,1,g,52,g
+471,national coney island,kids chocolate chip cakes with ham,30,g,55,mg,1780,g,105,g,22,g,17,g,0,g,1,g,53,g
+472,national coney island,kids chocolate chip cakes with sausage,37,g,40,mg,1340,g,104,g,17,g,19,g,0,g,1,g,53,g
+473,national coney island,kids coney dog with apple sauce,38,g,60,mg,1700,g,63,g,27,g,18,g,0,g,4,g,26,g
+474,national coney island,kids coney dog with fries,46,g,60,mg,1720,g,60,g,29,g,20,g,0,g,6,g,4,g
+475,national coney island,kids fish with apple sauce,10,g,25,mg,310,g,37,g,11,g,1,g,0,g,1,g,23,g
+476,national coney island,kids fish with fries,18,g,25,mg,340,g,34,g,13,g,3,g,0,g,2,g,1,g
+477,national coney island,kids french toast,5,g,125,mg,500,g,52,g,12,g,1,g,0,g,0,g,18,g
+478,national coney island,kids french toast with bacon,11,g,140,mg,820,g,52,g,17,g,3,g,0,g,0,g,18,g
+479,national coney island,kids french toast with ham,9,g,165,mg,1370,g,54,g,27,g,3,g,0,g,0,g,20,g
+480,national coney island,kids french toast with sausage,16,g,150,mg,930,g,53,g,22,g,5,g,0,g,0,g,19,g
+481,national coney island,kids grilled cheese with apple sauce,10,g,20,mg,910,g,62,g,12,g,6,g,0,g,1,g,26,g
+482,national coney island,kids grilled cheese with fries,19,g,20,mg,930,g,59,g,14,g,8,g,0,g,2,g,4,g
+483,national coney island,kids hamburger with apple sauce,16,g,70,mg,280,g,50,g,24,g,5,g,0,g,1,g,25,g
+484,national coney island,kids hamburger with fries,25,g,70,mg,300,g,47,g,26,g,7,g,0,g,2,g,3,g
+485,national coney island,kids hot dog with apple sauce,13,g,30,mg,650,g,46,g,11,g,4,g,0,g,1,g,25,g
+486,national coney island,kids hot dog with fries,22,g,30,mg,680,g,43,g,13,g,6,g,0,g,2,g,3,g
+487,national coney island,kids mac and cheese with apple sauce,11,g,25,mg,830,g,72,g,12,g,3,g,0,g,3,g,33,g
+488,national coney island,kids mac and cheese with fries,20,g,25,mg,860,g,69,g,14,g,5,g,0,g,4,g,11,g
+489,national coney island,kids pancakes,5,g,15,mg,910,g,49,g,7,g,2,g,0,g,1,g,9,g
+490,national coney island,kids pancakes with bacon,11,g,30,mg,1230,g,49,g,12,g,4,g,0,g,1,g,9,g
+491,national coney island,kids pancakes with ham,8,g,55,mg,1780,g,51,g,22,g,3,g,0,g,1,g,10,g
+492,national coney island,kids pancakes with sausage,16,g,40,mg,1340,g,50,g,17,g,6,g,0,g,1,g,10,g
+493,national coney island,large hani,43,g,75,mg,1670,g,61,g,29,g,12,g,0,g,4,g,5,g
+494,national coney island,lava cake without ice cream,31,g,45,mg,400,g,57,g,7,g,17,g,0,g,4,g,38,g
+495,national coney island,lemonade 24 oz,0,g,0,mg,75,g,47,g,0,g,0,g,0,g,0,g,47,g
+496,national coney island,lemonade 32 oz,0,g,0,mg,100,g,62,g,0,g,0,g,0,g,0,g,62,g
+497,national coney island,mello yello 24 oz,0,g,0,mg,15,g,52,g,0,g,0,g,0,g,0,g,52,g
+498,national coney island,mello yello 32 oz,0,g,0,mg,20,g,70,g,0,g,0,g,0,g,0,g,70,g
+499,national coney island,milk 16 oz,16,g,70,mg,240,g,24,g,16,g,10,g,0,g,0,g,22,g
+500,national coney island,minestrone soup bowl,1,g,0,mg,980,g,23,g,5,g,0,g,0,g,3,g,5,g
+501,national coney island,minestrone soup cup,1,g,0,mg,490,g,11,g,3,g,0,g,0,g,1,g,3,g
+502,national coney island,mr papadopoulos favorite burger,36,g,110,mg,950,g,54,g,38,g,12,g,0,g,5,g,4,g
+503,national coney island,mushroom and swiss burger,27,g,110,mg,770,g,31,g,37,g,10,g,0,g,1,g,6,g
+504,national coney island,mushroom and swiss omelette,26,g,670,mg,830,g,5,g,28,g,11,g,0,g,0,g,3,g
+505,national coney island,nacho supreme,56,g,100,mg,3280,g,200,g,43,g,15,g,0,g,14,g,4,g
+506,national coney island,new york style cheese cake,29,g,130,mg,310,g,33,g,7,g,16,g,0,g,1,g,22,g
+507,national coney island,oatmeal with milk,11,g,10,mg,35,g,80,g,16,g,3,g,0,g,11,g,6,g
+508,national coney island,onion rings,26,g,0,mg,860,g,41,g,4,g,6,g,0,g,4,g,6,g
+509,national coney island,oreo cookie milk shake,51,g,165,mg,680,g,113,g,16,g,31,g,0,g,2,g,75,g
+510,national coney island,palmer 24 oz,0,g,0,mg,60,g,42,g,0,g,0,g,0,g,0,g,42,g
+511,national coney island,palmer 32 oz,0,g,0,mg,80,g,56,g,0,g,0,g,0,g,0,g,56,g
+512,national coney island,pancakes,7,g,25,mg,1360,g,74,g,11,g,3,g,0,g,2,g,13,g
+513,national coney island,patty melt,30,g,125,mg,1120,g,46,g,43,g,14,g,0,g,0,g,3,g
+514,national coney island,plain chili bowl,40,g,50,mg,1300,g,25,g,25,g,23,g,0,g,5,g,0,g
+515,national coney island,plain chili cup,20,g,25,mg,650,g,13,g,13,g,11,g,0,g,3,g,0,g
+516,national coney island,plain dog,13,g,30,mg,650,g,22,g,11,g,4,g,0,g,0,g,3,g
+517,national coney island,potato with bacon soup bowl,13,g,35,mg,1160,g,29,g,9,g,6,g,0,g,1,g,9,g
+518,national coney island,potato with bacon soup cup,6,g,15,mg,580,g,14,g,4,g,3,g,0,g,1,g,5,g
+519,national coney island,raspberry lemonade 24 oz,0,g,0,mg,25,g,58,g,0,g,0,g,0,g,0,g,54,g
+520,national coney island,raspberry lemonade 32 oz,0,g,0,mg,35,g,77,g,0,g,0,g,0,g,0,g,72,g
+521,national coney island,root beer float,13,g,40,mg,70,g,49,g,2,g,9,g,0,g,0,g,46,g
+522,national coney island,root beer 24 oz,0,g,0,mg,45,g,54,g,0,g,0,g,0,g,0,g,54,g
+523,national coney island,root beer 32 oz,0,g,0,mg,60,g,72,g,0,g,0,g,0,g,0,g,72,g
+524,national coney island,rye toast,1,g,0,mg,430,g,40,g,8,g,0,g,0,g,0,g,0,g
+525,national coney island,sanders hot fudge cream puff,54,g,235,mg,300,g,114,g,14,g,32,g,1,g,0,g,85,g
+526,national coney island,sausage and cheese omelette,34,g,680,mg,900,g,1,g,29,g,14,g,0,g,0,g,1,g
+527,national coney island,sausage omelette,25,g,655,mg,390,g,1,g,23,g,8,g,0,g,0,g,1,g
+528,national coney island,seasoned cheese waffle fries,32,g,15,mg,1340,g,39,g,7,g,9,g,0,g,4,g,0,g
+529,national coney island,seasoned chili and cheese waffle fries,52,g,40,mg,1880,g,52,g,21,g,21,g,0,g,7,g,0,g
+530,national coney island,seasoned chili waffle fries,44,g,30,mg,1380,g,47,g,19,g,18,g,0,g,7,g,0,g
+531,national coney island,seasoned waffle fries,20,g,0,mg,600,g,32,g,4,g,5,g,0,g,4,g,0,g
+532,national coney island,side of bacon,12,g,30,mg,640,g,0,g,10,g,4,g,0,g,0,g,0,g
+533,national coney island,side of ham,8,g,75,mg,1740,g,3,g,30,g,3,g,0,g,0,g,3,g
+534,national coney island,side of sausage,22,g,50,mg,860,g,2,g,20,g,8,g,0,g,0,g,2,g
+535,national coney island,side of sausage gravy,16,g,30,mg,480,g,4,g,4,g,4,g,0,g,0,g,0,g
+536,national coney island,side of sausage patties,40,g,80,mg,720,g,0,g,16,g,14,g,0,g,0,g,0,g
+537,national coney island,small greek salad w pita,12,g,30,mg,1470,g,42,g,16,g,7,g,0,g,5,g,8,g
+538,national coney island,small hani,10,g,30,mg,830,g,33,g,17,g,4,g,0,g,2,g,3,g
+539,national coney island,smoked turkey and bacon,20,g,65,mg,1830,g,48,g,36,g,9,g,0,g,4,g,1,g
+540,national coney island,sourdough toast,1,g,0,mg,460,g,46,g,8,g,0,g,0,g,4,g,0,g
+541,national coney island,spinach tomato and feta omelette,19,g,650,mg,630,g,5,g,26,g,7,g,0,g,2,g,2,g
+542,national coney island,split pea with ham soup bowl,2,g,5,mg,1330,g,31,g,11,g,1,g,0,g,4,g,5,g
+543,national coney island,split pea with ham soup cup,1,g,5,mg,660,g,16,g,6,g,0,g,0,g,2,g,3,g
+544,national coney island,sprite 24 oz,0,g,0,mg,40,g,47,g,0,g,0,g,0,g,0,g,47,g
+545,national coney island,sprite 32 oz,0,g,0,mg,55,g,62,g,0,g,0,g,0,g,0,g,62,g
+546,national coney island,strawberry milk shake,29,g,105,mg,180,g,49,g,10,g,20,g,0,g,1,g,41,g
+547,national coney island,strawberry pancakes,7,g,25,mg,1360,g,92,g,11,g,3,g,0,g,2,g,32,g
+548,national coney island,sweetened tea 24 oz,0,g,0,mg,45,g,38,g,0,g,0,g,0,g,0,g,38,g
+549,national coney island,sweetened tea 32 oz,0,g,0,mg,60,g,50,g,0,g,0,g,0,g,0,g,50,g
+550,national coney island,taco salad,83,g,150,mg,3370,g,81,g,55,g,37,g,0,g,10,g,10,g
+551,national coney island,texas toast,2,g,0,mg,450,g,40,g,8,g,0,g,0,g,0,g,6,g
+552,national coney island,toast,1,g,0,mg,400,g,38,g,6,g,0,g,0,g,4,g,4,g
+553,national coney island,tomato florentine soup bowl,2,g,0,mg,1290,g,35,g,8,g,1,g,0,g,3,g,8,g
+554,national coney island,tomato florentine soup cup,1,g,0,mg,650,g,18,g,4,g,0,g,0,g,1,g,4,g
+555,national coney island,tossed salad,0,g,0,mg,10,g,3,g,1,g,0,g,0,g,1,g,2,g
+556,national coney island,tuna melt,41,g,95,mg,1560,g,45,g,42,g,12,g,0,g,0,g,3,g
+557,national coney island,turkey melt,11,g,30,mg,1230,g,70,g,28,g,2,g,0,g,4,g,16,g
+558,national coney island,vanilla ice cream,10,g,40,mg,45,g,17,g,2,g,7,g,0,g,0,g,14,g
+559,national coney island,vanilla milk shake,29,g,105,mg,180,g,45,g,10,g,20,g,0,g,0,g,38,g
+560,national coney island,vegetable beef barley soup bowl,4,g,5,mg,1030,g,18,g,5,g,2,g,0,g,3,g,3,g
+561,national coney island,vegetable beef barley soup cup,2,g,5,mg,510,g,9,g,3,g,1,g,0,g,1,g,1,g
+562,national coney island,vegetable soup bowl,6,g,5,mg,1140,g,19,g,3,g,5,g,0,g,3,g,5,g
+563,national coney island,vegetable soup cup,3,g,5,mg,570,g,9,g,1,g,3,g,0,g,1,g,3,g
+564,national coney island,vegetarian omelette,15,g,635,mg,210,g,5,g,19,g,5,g,0,g,1,g,3,g
+565,national coney island,vernors float,13,g,40,mg,60,g,45,g,2,g,9,g,0,g,0,g,42,g
+566,national coney island,vernors 24 oz,0,g,0,mg,25,g,47,g,0,g,0,g,0,g,0,g,47,g
+567,national coney island,vernors 32 oz,0,g,0,mg,35,g,62,g,0,g,0,g,0,g,0,g,62,g
+568,national coney island,western omelette,16,g,650,mg,500,g,4,g,24,g,5,g,0,g,1,g,3,g
+569,national coney island,white toast,1,g,0,mg,400,g,38,g,6,g,0,g,0,g,0,g,4,g
+570,national coney island,wisconsin cheese soup bowl,24,g,40,mg,1510,g,28,g,10,g,9,g,0,g,0,g,17,g
+571,national coney island,wisconsin cheese soup cup,12,g,20,mg,760,g,14,g,5,g,5,g,0,g,0,g,8,g
+572,natures plate,african bean soup large serving,14,g,0,mg,890,g,59,g,18,g,2,g,0,g,15,g,15,g
+573,natures plate,african bean soup regular serving,9,g,0,mg,600,g,39,g,12,g,1,g,0,g,10,g,10,g
+574,natures plate,andis summer zucchini salad large serving,12,g,0,mg,1110,g,77,g,21,g,1.5,g,0,g,16,g,11,g
+575,natures plate,andis summer zucchini salad regular serving,8,g,0,mg,750,g,53,g,14,g,1,g,0,g,11,g,8,g
+576,natures plate,apple cinnamon oatmeal,13,g,0,mg,125,g,43,g,9,g,1.5,g,0,g,10,g,10,g
+577,natures plate,arabian lentil and rice soup large serving,3.5,g,0,mg,1140,g,85,g,23,g,0,g,0,g,23,g,9,g
+578,natures plate,arabian lentil and rice soup regular serving,3.5,g,0,mg,760,g,57,g,15,g,0,g,0,g,16,g,6,g
+579,natures plate,bbq plate large serving,17,g,0,mg,980,g,86,g,33,g,2.5,g,0,g,12,g,35,g
+580,natures plate,bbq plate regular serving,11,g,0,mg,650,g,57,g,22,g,1.5,g,0,g,8,g,24,g
+581,natures plate,bbq ribs,6,g,0,mg,490,g,18,g,33,g,1,g,0,g,3,g,6,g
+582,natures plate,black bean and quinoa taco,2.5,g,0,mg,350,g,33,g,7,g,0,g,0,g,6,g,2,g
+583,natures plate,blt salad,16,g,0,mg,740,g,43,g,24,g,3,g,0,g,13,g,10,g
+584,natures plate,blueberry almond oatmeal,12,g,0,mg,125,g,39,g,9,g,1,g,0,g,9,g,8,g
+585,natures plate,blueberry apple crisp,3.5,g,0,mg,120,g,37,g,6,g,0.5,g,0,g,7,g,16,g
+586,natures plate,blueberry cream pops,5,g,0,mg,35,g,18,g,3,g,1,g,0,g,2,g,12,g
+587,natures plate,breakfast biscuit,9,g,0,mg,740,g,33,g,24,g,3.5,g,0,g,6,g,3,g
+588,natures plate,breakfast burrito bowl regular serving,15,g,0,mg,810,g,49,g,14,g,1.5,g,0,g,8,g,5,g
+589,natures plate,broccoli and cheese potato regular serving,8,g,0,mg,550,g,69,g,16,g,1.5,g,0,g,10,g,5,g
+590,natures plate,buffalo chickpea salad,7,g,0,mg,290,g,26,g,10,g,1,g,0,g,7,g,5,g
+591,natures plate,buffalo chickpea salad on romaine,21,g,0,mg,610,g,41,g,15,g,2.5,g,0,g,13,g,10,g
+592,natures plate,buffalo chickpea salad wrap,18,g,0,mg,680,g,47,g,13,g,2,g,0,g,9,g,7,g
+593,natures plate,carrot cake breakfast cookie,17,g,0,mg,350,g,34,g,8,g,4,g,0,g,8,g,13,g
+594,natures plate,carrot cake oatmeal,14,g,0,mg,350,g,61,g,9,g,1.5,g,0,g,11,g,24,g
+595,natures plate,carrot raisin slaw,47,g,0,mg,1410,g,155,g,18,g,4,g,0,g,21,g,101,g
+596,natures plate,chana masala large serving,10,g,0,mg,630,g,91,g,19,g,4,g,0,g,18,g,19,g
+597,natures plate,chana masala regular serving,6,g,0,mg,420,g,61,g,13,g,2.5,g,0,g,12,g,13,g
+598,natures plate,chickpea jalfrezi with cilantro chutney large serving,9,g,0,mg,1050,g,98,g,18,g,1,g,0,g,18,g,14,g
+599,natures plate,chickpea jalfrezi with cilantro chutney regular serving,6,g,0,mg,710,g,59,g,11,g,1,g,0,g,11,g,10,g
+600,natures plate,chickpea noodle soup large serving,11,g,0,mg,1090,g,75,g,23,g,1.5,g,0,g,17,g,12,g
+601,natures plate,chickpea noodle soup regular serving,7,g,0,mg,730,g,50,g,15,g,1,g,0,g,12,g,8,g
+602,natures plate,chickpea scramble plate,7,g,0,mg,780,g,70,g,13,g,1,g,0,g,15,g,15,g
+603,natures plate,chickpea spaghetti large serving,14,g,0,mg,1150,g,80,g,28,g,2.5,g,0,g,17,g,14,g
+604,natures plate,chickpea spaghetti regular serving,8,g,0,mg,660,g,46,g,16,g,1.5,g,0,g,10,g,8,g
+605,natures plate,chili mac large serving,15,g,0,mg,1180,g,87,g,28,g,2.5,g,0,g,21,g,11,g
+606,natures plate,chili mac regular serving,10,g,0,mg,790,g,60,g,20,g,1.5,g,0,g,15,g,7,g
+607,natures plate,chili topped sweet potato large serving,1.5,g,0,mg,580,g,125,g,22,g,0,g,0,g,25,g,22,g
+608,natures plate,chili topped sweet potato regular serving,1,g,0,mg,490,g,85,g,15,g,0,g,0,g,17,g,15,g
+609,natures plate,chipotle black bean tacos with corn salsa large serving,5,g,0,mg,880,g,113,g,26,g,0,g,0,g,22,g,10,g
+610,natures plate,chipotle black bean tacos with corn salsa regular serving,3,g,0,mg,580,g,75,g,17,g,0,g,0,g,15,g,7,g
+611,natures plate,chocolate chip cookies,9,g,0,mg,85,g,14,g,4,g,1,g,0,g,2,g,8,g
+612,natures plate,chocolate chip snack bar,17,g,0,mg,105,g,33,g,6,g,5,g,0,g,4,g,20,g
+613,natures plate,chocolate frosted peanut butter bar,16,g,0,mg,190,g,33,g,5,g,5,g,0,g,4,g,12,g
+614,natures plate,chocolate muffins,6,g,0,mg,170,g,32,g,4,g,1.5,g,0,g,5,g,14,g
+615,natures plate,chocolate pops,7,g,0,mg,115,g,21,g,4,g,1.5,g,0,g,4,g,12,g
+616,natures plate,chocolate pudding,6,g,0,mg,140,g,40,g,5,g,1.5,g,0,g,4,g,26,g
+617,natures plate,chocolate dipped coconut macaroons,14,g,0,mg,50,g,13,g,3,g,9,g,0,g,4,g,7,g
+618,natures plate,claires kale and sweet potato soup large serving,3.5,g,0,mg,870,g,51,g,12,g,0.5,g,0,g,12,g,10,g
+619,natures plate,claires kale and sweet potato soup regular serving,2.5,g,0,mg,580,g,34,g,8,g,0,g,0,g,8,g,7,g
+620,natures plate,classic chili large serving,2.5,g,0,mg,1140,g,93,g,30,g,0,g,0,g,34,g,14,g
+621,natures plate,classic chili regular serving,1.5,g,0,mg,760,g,62,g,20,g,0,g,0,g,23,g,10,g
+622,natures plate,classic lasagna large serving,21,g,0,mg,1220,g,80,g,25,g,3,g,0,g,16,g,20,g
+623,natures plate,classic lasagna regular serving,14,g,0,mg,820,g,53,g,17,g,2,g,0,g,11,g,14,g
+624,natures plate,coconut berry smoothie,1.5,g,0,mg,260,g,61,g,4,g,0.5,g,0,g,11,g,45,g
+625,natures plate,corn chowder large serving,12,g,0,mg,1060,g,85,g,20,g,2,g,0,g,17,g,13,g
+626,natures plate,corn chowder regular serving,8,g,0,mg,710,g,57,g,13,g,1,g,0,g,11,g,8,g
+627,natures plate,cranberry chickpea salad,15,g,0,mg,400,g,37,g,10,g,1.5,g,0,g,9,g,13,g
+628,natures plate,cranberry chickpea salad snack plate,17,g,0,mg,520,g,44,g,10,g,2,g,0,g,10,g,9,g
+629,natures plate,cranberry chickpea salad with mixed greens,17,g,0,mg,490,g,49,g,13,g,2,g,0,g,12,g,19,g
+630,natures plate,cranberry chickpea salad wrap,14,g,0,mg,570,g,51,g,12,g,1,g,0,g,9,g,11,g
+631,natures plate,cranberry orange oatmeal,13,g,0,mg,80,g,49,g,7,g,1,g,0,g,9,g,17,g
+632,natures plate,creamy chipotle quinoa large serving,13,g,0,mg,950,g,100,g,25,g,2,g,0,g,18,g,12,g
+633,natures plate,creamy chipotle quinoa regular serving,9,g,0,mg,640,g,67,g,17,g,1.5,g,0,g,12,g,8,g
+634,natures plate,creamy dill potato salad,4.5,g,0,mg,370,g,20,g,4,g,1,g,0,g,2,g,3,g
+635,natures plate,curry rice with peas and cauliflower large serving,19,g,0,mg,1190,g,95,g,16,g,15,g,0,g,13,g,20,g
+636,natures plate,curry rice with peas and cauliflower regular serving,13,g,0,mg,800,g,63,g,11,g,10,g,0,g,9,g,13,g
+637,natures plate,edamame and broccoli with peanut sauce large serving,18,g,0,mg,490,g,65,g,26,g,3,g,0,g,15,g,13,g
+638,natures plate,edamame and broccoli with peanut sauce regular serving,12,g,0,mg,320,g,43,g,18,g,2,g,0,g,10,g,9,g
+639,natures plate,eggless salad,12,g,0,mg,330,g,6,g,9,g,1.5,g,0,g,2,g,1,g
+640,natures plate,eggless salad snack plate,21,g,0,mg,660,g,37,g,14,g,2.5,g,0,g,10,g,6,g
+641,natures plate,eggless salad wrap,15,g,0,mg,650,g,37,g,14,g,1.5,g,0,g,7,g,6,g
+642,natures plate,enchiladas verdes with sour cream large serving,10,g,0,mg,850,g,105,g,26,g,1.5,g,0,g,22,g,11,g
+643,natures plate,enchiladas verdes with sour cream regular serving,7,g,0,mg,570,g,70,g,18,g,1,g,0,g,14,g,7,g
+644,natures plate,enchiladas with cheese sauce large serving,13,g,0,mg,1160,g,96,g,29,g,1.5,g,0,g,18,g,8,g
+645,natures plate,enchiladas with cheese sauce regular serving,9,g,0,mg,770,g,64,g,19,g,1,g,0,g,12,g,5,g
+646,natures plate,frittata muffins,7,g,0,mg,510,g,44,g,19,g,1,g,0,g,11,g,20,g
+647,natures plate,fudge brownies,15,g,0,mg,260,g,28,g,6,g,3.5,g,0,g,4,g,15,g
+648,natures plate,ginger molasses cookies,4,g,0,mg,130,g,18,g,3,g,0,g,0,g,2,g,9,g
+649,natures plate,green smoothie,1,g,0,mg,25,g,49,g,4,g,0,g,0,g,6,g,26,g
+650,natures plate,grilled sesame wrap,11,g,0,mg,590,g,30,g,14,g,1,g,0,g,5,g,4,g
+651,natures plate,grilled tempeh salad with lemon thyme dressing,12,g,0,mg,750,g,29,g,20,g,2,g,0,g,10,g,12,g
+652,natures plate,hearty breakfast plate large serving,12,g,0,mg,1100,g,61,g,29,g,1.5,g,0,g,9,g,8,g
+653,natures plate,hearty breakfast plate regular serving,8,g,0,mg,730,g,41,g,19,g,1,g,0,g,6,g,5,g
+654,natures plate,hoppin john plate large serving,10,g,0,mg,1110,g,108,g,23,g,1.5,g,0,g,18,g,19,g
+655,natures plate,hoppin john plate regular serving,6,g,0,mg,740,g,72,g,15,g,1,g,0,g,12,g,13,g
+656,natures plate,hummus,7,g,0,mg,180,g,7,g,3,g,1,g,0,g,2,g,1,g
+657,natures plate,hummus and crackers snack plate,26,g,0,mg,770,g,43,g,11,g,3.5,g,0,g,11,g,5,g
+658,natures plate,hummus and veggie snack plate,20,g,0,mg,650,g,34,g,9,g,2.5,g,0,g,11,g,12,g
+659,natures plate,immunity boost smoothie,1,g,0,mg,5,g,64,g,3,g,0,g,0,g,8,g,45,g
+660,natures plate,jambalaya large serving,6,g,0,mg,1100,g,89,g,18,g,1,g,0,g,23,g,13,g
+661,natures plate,jambalaya regular serving,4,g,0,mg,740,g,59,g,12,g,0.5,g,0,g,15,g,9,g
+662,natures plate,kale salad with lemon garlic dressing and pecan topping,19,g,0,mg,320,g,17,g,6,g,2,g,0,g,5,g,5,g
+663,natures plate,lemon tahini bowl large serving,9,g,0,mg,1090,g,99,g,21,g,1,g,0,g,21,g,17,g
+664,natures plate,lemon tahini bowl regular serving,7,g,0,mg,780,g,67,g,15,g,1,g,0,g,14,g,12,g
+665,natures plate,lemon tea bread,0.5,g,0,mg,300,g,46,g,3,g,0,g,0,g,5,g,21,g
+666,natures plate,lentil sloppy joes,4.5,g,0,mg,770,g,63,g,17,g,0,g,0,g,14,g,11,g
+667,natures plate,lentil sloppy joes filling,3,g,0,mg,600,g,35,g,9,g,0,g,0,g,10,g,13,g
+668,natures plate,mac and cheese,9,g,0,mg,470,g,51,g,15,g,1.5,g,0,g,7,g,3,g
+669,natures plate,macaroni salad,10,g,0,mg,250,g,20,g,4,g,1,g,0,g,3,g,3,g
+670,natures plate,meatloaf with potatoes and green beans large serving,20,g,0,mg,1190,g,73,g,23,g,2.5,g,0,g,15,g,15,g
+671,natures plate,meatloaf with potatoes and green beans regular serving,13,g,0,mg,790,g,49,g,16,g,1.5,g,0,g,10,g,10,g
+672,natures plate,mediterranean loaded sweet potato large serving,10,g,0,mg,1180,g,108,g,23,g,1,g,0,g,23,g,23,g
+673,natures plate,mediterranean loaded sweet potato regular serving,7,g,0,mg,790,g,72,g,15,g,0.5,g,0,g,15,g,15,g
+674,natures plate,nacho cheese sauce,3,g,0,mg,210,g,6,g,4,g,0.5,g,0,g,2,g,1,g
+675,natures plate,number 29 burgers,3,g,0,mg,550,g,35,g,14,g,0.5,g,0,g,8,g,10,g
+676,natures plate,orzo stuffed peppers large serving,10,g,0,mg,1100,g,101,g,25,g,1,g,0,g,23,g,15,g
+677,natures plate,orzo stuffed peppers regular serving,7,g,0,mg,730,g,67,g,17,g,0.5,g,0,g,16,g,10,g
+678,natures plate,pb and apples snack plate,19,g,0,mg,50,g,31,g,10,g,2.5,g,0,g,8,g,19,g
+679,natures plate,peanut butter and chocolate sandwich cookies,21,g,0,mg,240,g,44,g,7,g,6,g,0,g,5,g,16,g
+680,natures plate,peanut butter banana pops,6,g,0,mg,60,g,15,g,4,g,1,g,0,g,3,g,11,g
+681,natures plate,peanut butter banana smoothie,14,g,0,mg,810,g,71,g,10,g,2,g,0,g,10,g,42,g
+682,natures plate,pesto bowl large serving,20,g,0,mg,1150,g,85,g,20,g,2,g,0,g,17,g,15,g
+683,natures plate,pesto bowl regular serving,14,g,0,mg,790,g,58,g,14,g,1.5,g,0,g,12,g,10,g
+684,natures plate,picadillo potato taco,5,g,0,mg,280,g,31,g,7,g,0,g,0,g,6,g,2,g
+685,natures plate,pumpkin muffins,9,g,0,mg,190,g,32,g,4,g,0.5,g,0,g,5,g,13,g
+686,natures plate,pumpkin pie pops,5,g,0,mg,90,g,17,g,3,g,1,g,0,g,3,g,10,g
+687,natures plate,quinoa and black bean salad large serving,6,g,0,mg,870,g,83,g,20,g,0.5,g,0,g,16,g,6,g
+688,natures plate,quinoa and black bean salad regular serving,3.5,g,0,mg,580,g,55,g,14,g,0.5,g,0,g,11,g,4,g
+689,natures plate,quinoa tabbouleh with falafel,16,g,0,mg,680,g,46,g,13,g,2,g,0,g,11,g,7,g
+690,natures plate,ranch dressing,7,g,0,mg,125,g,6,g,3,g,1.5,g,0,g,1,g,1,g
+691,natures plate,raspberry almond thumbprint cookies,10,g,0,mg,45,g,12,g,4,g,1.5,g,0,g,3,g,6,g
+692,natures plate,raspberry breakfast parfait,6,g,0,mg,270,g,67,g,12,g,1,g,0,g,12,g,39,g
+693,natures plate,red beans and rice large serving,4.5,g,0,mg,1060,g,98,g,33,g,1,g,0,g,26,g,10,g
+694,natures plate,red beans and rice regular serving,3,g,0,mg,680,g,60,g,21,g,0.5,g,0,g,16,g,4,g
+695,natures plate,red cabbage slaw,4.5,g,0,mg,170,g,9,g,2,g,0,g,0,g,2,g,6,g
+696,natures plate,red lentil dhal large serving,11,g,0,mg,1190,g,80,g,28,g,8,g,0,g,31,g,9,g
+697,natures plate,red lentil dhal regular serving,8,g,0,mg,800,g,53,g,19,g,5,g,0,g,21,g,6,g
+698,natures plate,red thai tofu with brown rice large serving,12,g,0,mg,1110,g,63,g,26,g,1.5,g,0,g,9,g,15,g
+699,natures plate,red thai tofu with brown rice regular serving,8,g,0,mg,740,g,43,g,17,g,1,g,0,g,6,g,10,g
+700,natures plate,shepherds pie large serving,11,g,0,mg,1210,g,97,g,24,g,2,g,0,g,27,g,11,g
+701,natures plate,shepherds pie regular serving,7,g,0,mg,810,g,65,g,17,g,1,g,0,g,17,g,8,g
+702,natures plate,side salad large,0.5,g,0,mg,75,g,11,g,3,g,0,g,0,g,4,g,5,g
+703,natures plate,side salad regular,0,g,0,mg,50,g,7,g,2,g,0,g,0,g,3,g,3,g
+704,natures plate,soba noodles with kale and peanut sauce large serving,22,g,0,mg,1020,g,70,g,21,g,3,g,0,g,12,g,11,g
+705,natures plate,soba noodles with kale and peanut sauce regular serving,15,g,0,mg,680,g,47,g,14,g,2,g,0,g,9,g,8,g
+706,natures plate,sour cherry and pumpkin seed snack bar,11,g,0,mg,105,g,23,g,5,g,1.5,g,0,g,3,g,12,g
+707,natures plate,sour cream,7,g,0,mg,160,g,5,g,3,g,1,g,0,g,0,g,1,g
+708,natures plate,southwest baked potato large serving,14,g,0,mg,1100,g,104,g,25,g,2.5,g,0,g,17,g,9,g
+709,natures plate,southwest baked potato regular serving,9,g,0,mg,730,g,69,g,16,g,1.5,g,0,g,11,g,6,g
+710,natures plate,spaghetti and meatballs large serving,9,g,0,mg,910,g,84,g,18,g,1.5,g,0,g,16,g,17,g
+711,natures plate,spaghetti and meatballs regular serving,6,g,0,mg,580,g,55,g,12,g,1,g,0,g,11,g,10,g
+712,natures plate,spicy black eyed peas and greens soup,2,g,0,mg,590,g,38,g,9,g,0,g,0,g,6,g,11,g
+713,natures plate,spicy black eyed peas and greens soup with rosemary crackers,10,g,0,mg,800,g,51,g,13,g,1,g,0,g,9,g,12,g
+714,natures plate,sweet and sour tofu and vegetables large serving,13,g,0,mg,1200,g,91,g,22,g,2,g,0,g,13,g,40,g
+715,natures plate,sweet and sour tofu and vegetables regular serving,9,g,0,mg,810,g,61,g,15,g,1.5,g,0,g,9,g,26,g
+716,natures plate,sweet potato enchiladas large serving,15,g,0,mg,1050,g,110,g,19,g,1.5,g,0,g,18,g,19,g
+717,natures plate,sweet potato enchiladas regular serving,10,g,0,mg,710,g,74,g,13,g,1,g,0,g,12,g,13,g
+718,natures plate,taco salad with sour cream and salsa,15,g,0,mg,640,g,49,g,18,g,2,g,0,g,17,g,7,g
+719,natures plate,tamale pie large serving,11,g,0,mg,1150,g,105,g,23,g,1.5,g,0,g,24,g,18,g
+720,natures plate,tamale pie regular serving,8,g,0,mg,770,g,70,g,15,g,1,g,0,g,16,g,12,g
+721,natures plate,tex mex bowl large serving,10,g,0,mg,1150,g,100,g,23,g,2,g,0,g,22,g,15,g
+722,natures plate,tex mex bowl regular serving,7,g,0,mg,770,g,67,g,15,g,1.5,g,0,g,15,g,10,g
+723,natures plate,tex mex scramble taco,5,g,0,mg,390,g,22,g,8,g,0.5,g,0,g,3,g,3,g
+724,natures plate,thai butternut squash soup large serving,20,g,0,mg,930,g,80,g,14,g,15,g,0,g,16,g,10,g
+725,natures plate,thai butternut squash soup regular serving,13,g,0,mg,620,g,53,g,10,g,10,g,0,g,11,g,7,g
+726,natures plate,thai green curry vegetables with brown rice large serving,27,g,0,mg,1200,g,69,g,14,g,22,g,0,g,12,g,16,g
+727,natures plate,thai green curry vegetables with brown rice regular serving,18,g,0,mg,810,g,46,g,10,g,15,g,0,g,8,g,11,g
+728,natures plate,tortilla soup large serving,12,g,0,mg,1150,g,71,g,14,g,1.5,g,0,g,14,g,13,g
+729,natures plate,tortilla soup regular serving,8,g,0,mg,770,g,48,g,9,g,1,g,0,g,9,g,9,g
+730,natures plate,trail mix cookies,8,g,0,mg,85,g,14,g,4,g,1.5,g,0,g,3,g,6,g
+731,natures plate,trail mix snack plate,23,g,0,mg,80,g,32,g,9,g,4.5,g,0,g,8,g,16,g
+732,natures plate,untuna salad,6,g,0,mg,370,g,19,g,6,g,1,g,0,g,5,g,5,g
+733,natures plate,untuna salad with mixed greens,12,g,0,mg,780,g,44,g,14,g,1.5,g,0,g,12,g,11,g
+734,natures plate,untuna salad wrap,9,g,0,mg,690,g,50,g,11,g,1,g,0,g,10,g,9,g
+735,natures plate,vegetable pot pie large serving,16,g,0,mg,1160,g,81,g,17,g,6,g,0,g,14,g,10,g
+736,natures plate,vegetable pot pie regular serving,11,g,0,mg,770,g,54,g,11,g,4,g,0,g,10,g,6,g
+737,natures plate,veggie mac large serving,22,g,0,mg,1200,g,88,g,29,g,3.5,g,0,g,15,g,9,g
+738,natures plate,veggie mac regular serving,14,g,0,mg,800,g,59,g,19,g,2.5,g,0,g,10,g,6,g
+739,natures plate,wasabi peanut quinoa salad large serving,21,g,0,mg,1140,g,68,g,25,g,2,g,0,g,14,g,15,g
+740,natures plate,wasabi peanut quinoa salad regular serving,14,g,0,mg,760,g,45,g,16,g,1.5,g,0,g,9,g,10,g
+741,nekter juice bar,boosts blueberries,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+742,nekter juice bar,boosts cashews,6,g,0,mg,0,g,4,g,3,g,0,g,0,g,0,g,1,g
+743,nekter juice bar,boosts coconut flakes,8,g,0,mg,0,g,3,g,1,g,0,g,0,g,0,g,0,g
+744,nekter juice bar,boosts gluten free granola,9,g,0,mg,0,g,34,g,6,g,0,g,0,g,0,g,9,g
+745,nekter juice bar,boosts hemp protein,1,g,0,mg,0,g,2,g,4,g,0,g,0,g,0,g,0,g
+746,nekter juice bar,boosts hempseed granola,7,g,0,mg,30,g,24,g,4,g,0,g,0,g,3,g,7,g
+747,nekter juice bar,boosts mixed berries,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+748,nekter juice bar,boosts pb protein granola,14,g,0,mg,75,g,33,g,11,g,0,g,0,g,5,g,10,g
+749,nekter juice bar,boosts pea protein,0,g,0,mg,140,g,1,g,8,g,0,g,0,g,0,g,0,g
+750,nekter juice bar,boosts pineapple,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+751,nekter juice bar,boosts protein almond butter,9,g,0,mg,35,g,3,g,3,g,0,g,0,g,2,g,1,g
+752,nekter juice bar,boosts protein peanut butter,12,g,0,mg,0,g,5,g,6,g,0,g,0,g,2,g,1,g
+753,nekter juice bar,boosts sliced green apples,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+754,nekter juice bar,boosts strawberries,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+755,nekter juice bar,boosts superfoods bee pollen,1,g,0,mg,0,g,7,g,4,g,0,g,0,g,0,g,0,g
+756,nekter juice bar,boosts superfoods cacao nibs,6,g,0,mg,0,g,3,g,1,g,0,g,0,g,2,g,1,g
+757,nekter juice bar,boosts superfoods chia seeds,3,g,0,mg,0,g,4,g,2,g,0,g,0,g,4,g,0,g
+758,nekter juice bar,boosts superfoods goji berries,0,g,0,mg,15,g,4,g,1,g,0,g,0,g,3,g,1,g
+759,nekter juice bar,boosts superfoods hemp seeds,4,g,0,mg,0,g,1,g,3,g,0,g,0,g,1,g,0,g
+760,nekter juice bar,boosts superfoods spinach and kale,1,g,0,mg,95,g,7,g,5,g,0,g,0,g,4,g,1,g
+761,nekter juice bar,boosts vanilla whey protein,0,g,0,mg,0,g,1,g,11,g,0,g,0,g,0,g,0,g
+762,nekter juice bar,boosts whey protein,1,g,0,mg,55,g,3,g,9,g,0,g,0,g,0,g,1,g
+763,nekter juice bar,fresh juices green apple detox 10 oz,0,g,0,mg,25,g,28,g,2,g,0,g,0,g,1,g,18,g
+764,nekter juice bar,fresh juices green apple detox 16 oz,0,g,0,mg,35,g,44,g,3,g,0,g,0,g,1,g,29,g
+765,nekter juice bar,fresh juices green apple detox 24 oz,0,g,0,mg,55,g,66,g,5,g,0,g,0,g,2,g,44,g
+766,nekter juice bar,fresh juices green apple detox 32 oz,0,g,0,mg,70,g,88,g,6,g,0,g,0,g,2,g,58,g
+767,nekter juice bar,fresh juices the buzz 10 oz,0,g,0,mg,130,g,22,g,3,g,0,g,0,g,0,g,6,g
+768,nekter juice bar,fresh juices the buzz 16 oz,0,g,0,mg,210,g,35,g,4,g,0,g,0,g,0,g,10,g
+769,nekter juice bar,fresh juices the buzz 24 oz,0,g,0,mg,320,g,53,g,6,g,0,g,0,g,0,g,15,g
+770,nekter juice bar,fresh juices the buzz 32 oz,0.5,g,0,mg,420,g,70,g,8,g,0,g,0,g,0,g,20,g
+771,nekter juice bar,fresh juices the greenie 10 oz,0,g,0,mg,135,g,14,g,3,g,0,g,0,g,3,g,5,g
+772,nekter juice bar,fresh juices the greenie 16 oz,0,g,0,mg,220,g,23,g,5,g,0,g,0,g,4,g,8,g
+773,nekter juice bar,fresh juices the greenie 24 oz,0,g,0,mg,330,g,35,g,7,g,0,g,0,g,6,g,11,g
+774,nekter juice bar,fresh juices the greenie 32 oz,0,g,0,mg,440,g,46,g,10,g,0,g,0,g,8,g,16,g
+775,nekter juice bar,fresh juices the little beet 10 oz,0,g,0,mg,70,g,21,g,2,g,0,g,0,g,1,g,13,g
+776,nekter juice bar,fresh juices the little beet 16 oz,0.5,g,0,mg,110,g,34,g,3,g,0,g,0,g,1,g,21,g
+777,nekter juice bar,fresh juices the little beet 24 oz,1,g,0,mg,170,g,51,g,5,g,0,g,0,g,2,g,32,g
+778,nekter juice bar,fresh juices the little beet 32 oz,1,g,0,mg,220,g,68,g,6,g,0,g,0,g,2,g,42,g
+779,nekter juice bar,fresh juices the sublime 10 oz,0,g,0,mg,20,g,18,g,3,g,0,g,0,g,0,g,10,g
+780,nekter juice bar,fresh juices the sublime 16 oz,0,g,0,mg,35,g,28,g,4,g,0,g,0,g,0,g,16,g
+781,nekter juice bar,fresh juices the sublime 24 oz,0,g,0,mg,50,g,42,g,6,g,0,g,0,g,1,g,24,g
+782,nekter juice bar,fresh juices the sublime 32 oz,1,g,0,mg,70,g,56,g,8,g,0,g,0,g,1,g,32,g
+783,nekter juice bar,fresh juices toxin flush 10 oz,0,g,0,mg,40,g,23,g,1,g,0,g,0,g,0,g,19,g
+784,nekter juice bar,fresh juices toxin flush 16 oz,0,g,0,mg,65,g,36,g,2,g,0,g,0,g,0,g,31,g
+785,nekter juice bar,fresh juices toxin flush 24 oz,0,g,0,mg,95,g,54,g,2,g,0,g,0,g,0,g,41,g
+786,nekter juice bar,fresh juices toxin flush 32 oz,0,g,0,mg,125,g,72,g,4,g,0,g,0,g,0,g,62,g
+787,nekter juice bar,fusion blends banana boost 16 oz,5,g,0,mg,125,g,50,g,6,g,0,g,0,g,13,g,24,g
+788,nekter juice bar,fusion blends banana boost 24 oz,5,g,0,mg,190,g,68,g,7,g,0,g,0,g,14,g,35,g
+789,nekter juice bar,fusion blends slender greens 16 oz,1,g,0,mg,110,g,51,g,3,g,0,g,0,g,4,g,38,g
+790,nekter juice bar,fusion blends slender greens 24 oz,2,g,0,mg,160,g,76,g,5,g,0,g,0,g,5,g,56,g
+791,nekter juice bar,fusion blends tropical cooler 16 oz,6,g,0,mg,350,g,36,g,4,g,0,g,0,g,5,g,24,g
+792,nekter juice bar,fusion blends tropical cooler 24 oz,9,g,0,mg,530,g,55,g,6,g,0,g,0,g,7,g,36,g
+793,nekter juice bar,grab n go bottles cold pressed juice celery detox,0,g,0,mg,380,g,11,g,2,g,0,g,0,g,3,g,5,g
+794,nekter juice bar,grab n go bottles cold pressed juice classic greens,0.5,g,0,mg,45,g,33,g,3,g,0,g,0,g,2,g,28,g
+795,nekter juice bar,grab n go bottles cold pressed juice healing greens,1,g,0,mg,40,g,48,g,3,g,0,g,0,g,8,g,30,g
+796,nekter juice bar,grab n go bottles skinny lemonade berry detox,0,g,0,mg,15,g,44,g,1,g,0,g,0,g,3,g,34,g
+797,nekter juice bar,grab n go bottles skinny lemonade charcoal,0,g,0,mg,15,g,37,g,1,g,0,g,0,g,1,g,27,g
+798,nekter juice bar,grab n go bottles skinny lemonade original,0,g,0,mg,15,g,37,g,1,g,0,g,0,g,1,g,28,g
+799,nekter juice bar,grab n go bottles skinny lemonade turmeric citrus,1,g,0,mg,20,g,45,g,2,g,0,g,0,g,2,g,33,g
+800,nekter juice bar,grab n go bottles superfood protein original,24,g,0,mg,15,g,51,g,11,g,0,g,0,g,8,g,40,g
+801,nekter juice bar,grab n go bottles superfood protein strawberry pitaya,24,g,0,mg,40,g,48,g,11,g,0,g,0,g,9,g,32,g
+802,nekter juice bar,handcrafted bowls acai banana berry,14,g,0,mg,30,g,69,g,9,g,0,g,0,g,4,g,35,g
+803,nekter juice bar,handcrafted bowls acai mango,18,g,0,mg,30,g,89,g,7,g,0,g,0,g,7,g,50,g
+804,nekter juice bar,handcrafted bowls acai peanut butter,23,g,0,mg,35,g,104,g,14,g,0,g,0,g,12,g,58,g
+805,nekter juice bar,handcrafted bowls acai superfood,19,g,0,mg,90,g,83,g,13,g,0,g,0,g,14,g,40,g
+806,nekter juice bar,handcrafted bowls dragon fruit,15,g,0,mg,30,g,80,g,5,g,0,g,0,g,7,g,47,g
+807,nekter juice bar,handcrafted bowls protein powder,32,g,0,mg,100,g,96,g,45,g,0,g,0,g,13,g,40,g
+808,nekter juice bar,nektar cleanses 6 day celery detox celery detox,0,g,0,mg,380,g,11,g,2,g,0,g,0,g,3,g,5,g
+809,nekter juice bar,nektar cleanses classic detox cleanse celery detox,0,g,0,mg,380,g,11,g,2,g,0,g,0,g,3,g,5,g
+810,nekter juice bar,nektar cleanses classic detox cleanse charcoal,0,g,0,mg,15,g,37,g,1,g,0,g,0,g,1,g,27,g
+811,nekter juice bar,nektar cleanses classic detox cleanse classic greens,0.5,g,0,mg,45,g,33,g,3,g,0,g,0,g,2,g,28,g
+812,nekter juice bar,nektar cleanses classic detox cleanse healing greens,1,g,0,mg,40,g,48,g,3,g,0,g,0,g,8,g,30,g
+813,nekter juice bar,nektar cleanses classic detox cleanse original protein,24,g,0,mg,15,g,51,g,11,g,0,g,0,g,8,g,40,g
+814,nekter juice bar,nektar cleanses classic detox cleanse turmeric citrus,1,g,0,mg,20,g,45,g,2,g,0,g,0,g,2,g,33,g
+815,nekter juice bar,shots ginger shot,0,g,0,mg,10,g,10,g,1,g,0,g,0,g,0,g,0,g
+816,nekter juice bar,shots turmeric shot,0,g,0,mg,5,g,11,g,0,g,0,g,0,g,0,g,10,g
+817,nekter juice bar,skoop toppings blueberries,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+818,nekter juice bar,skoop toppings cacao nibs,6,g,0,mg,0,g,3,g,1,g,0,g,0,g,2,g,1,g
+819,nekter juice bar,skoop toppings chocolate chips,2,g,0,mg,0,g,5,g,1,g,0,g,0,g,0,g,1,g
+820,nekter juice bar,skoop toppings chocolate drizzle,0,g,0,mg,5,g,9,g,0,g,0,g,0,g,1,g,9,g
+821,nekter juice bar,skoop toppings coconut flakes,4,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+822,nekter juice bar,skoop toppings gluten free granola,1,g,0,mg,0,g,5,g,1,g,0,g,0,g,0,g,1,g
+823,nekter juice bar,skoop toppings hemp seed granola,1,g,0,mg,5,g,4,g,1,g,0,g,0,g,1,g,1,g
+824,nekter juice bar,skoop toppings pineapple,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+825,nekter juice bar,skoop toppings strawberries,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+826,nekter juice bar,skoop chocolate bliss,9,g,0,mg,75,g,36,g,2,g,0,g,0,g,7,g,24,g
+827,nekter juice bar,skoop coconut vanilla,7,g,0,mg,5,g,28,g,2,g,0,g,0,g,5,g,18,g
+828,nekter juice bar,superfood smoothies berry banana burst 10 oz,9,g,0,mg,5,g,31,g,4,g,0,g,0,g,4,g,19,g
+829,nekter juice bar,superfood smoothies berry banana burst 16 oz,14,g,0,mg,10,g,50,g,6,g,0,g,0,g,6,g,30,g
+830,nekter juice bar,superfood smoothies berry banana burst 24 oz,20,g,0,mg,15,g,74,g,10,g,0,g,0,g,9,g,46,g
+831,nekter juice bar,superfood smoothies berry banana burst 32 oz,28,g,0,mg,20,g,100,g,12,g,0,g,0,g,12,g,60,g
+832,nekter juice bar,superfood smoothies health nut with almond butter 10 oz,18,g,0,mg,150,g,32,g,14,g,0,g,0,g,7,g,15,g
+833,nekter juice bar,superfood smoothies health nut with almond butter 16 oz,29,g,0,mg,240,g,51,g,23,g,0,g,0,g,12,g,25,g
+834,nekter juice bar,superfood smoothies health nut with almond butter 24 oz,43,g,0,mg,370,g,76,g,34,g,0,g,0,g,18,g,37,g
+835,nekter juice bar,superfood smoothies health nut with almond butter 32 oz,58,g,0,mg,490,g,102,g,46,g,0,g,0,g,23,g,50,g
+836,nekter juice bar,superfood smoothies health nut with peanut butter 10 oz,22,g,0,mg,115,g,34,g,17,g,0,g,0,g,8,g,15,g
+837,nekter juice bar,superfood smoothies health nut with peanut butter 16 oz,35,g,0,mg,180,g,54,g,30,g,0,g,0,g,13,g,24,g
+838,nekter juice bar,superfood smoothies health nut with peanut butter 24 oz,52,g,0,mg,270,g,81,g,41,g,0,g,0,g,20,g,36,g
+839,nekter juice bar,superfood smoothies health nut with peanut butter 32 oz,69,g,0,mg,360,g,109,g,60,g,0,g,0,g,25,g,49,g
+840,nekter juice bar,superfood smoothies mango delight 10 oz,5,g,0,mg,5,g,26,g,4,g,0,g,0,g,2,g,20,g
+841,nekter juice bar,superfood smoothies mango delight 16 oz,10,g,0,mg,10,g,42,g,6,g,0,g,0,g,3,g,32,g
+842,nekter juice bar,superfood smoothies mango delight 24 oz,14,g,0,mg,10,g,74,g,9,g,0,g,0,g,5,g,61,g
+843,nekter juice bar,superfood smoothies mango delight 32 oz,19,g,0,mg,15,g,83,g,12,g,0,g,0,g,6,g,64,g
+844,nekter juice bar,superfood smoothies orange crush 10 oz,0,g,0,mg,0,g,28,g,1,g,0,g,0,g,1,g,23,g
+845,nekter juice bar,superfood smoothies orange crush 16 oz,0.5,g,0,mg,5,g,44,g,2,g,0,g,0,g,2,g,36,g
+846,nekter juice bar,superfood smoothies orange crush 24 oz,1,g,0,mg,10,g,66,g,3,g,0,g,0,g,3,g,55,g
+847,nekter juice bar,superfood smoothies orange crush 32 oz,1,g,0,mg,10,g,88,g,4,g,0,g,0,g,4,g,72,g
+848,nekter juice bar,superfood smoothies pink flamingo 10 oz,0,g,0,mg,160,g,25,g,3,g,0,g,0,g,5,g,18,g
+849,nekter juice bar,superfood smoothies pink flamingo 16 oz,1,g,0,mg,260,g,40,g,6,g,0,g,0,g,8,g,28,g
+850,nekter juice bar,superfood smoothies pink flamingo 24 oz,1,g,0,mg,390,g,60,g,7,g,0,g,0,g,12,g,43,g
+851,nekter juice bar,superfood smoothies pink flamingo 32 oz,2,g,0,mg,520,g,80,g,12,g,0,g,0,g,16,g,56,g
+852,nekter juice bar,superfood smoothies popeyes acai 10 oz,9,g,0,mg,15,g,30,g,5,g,0,g,0,g,4,g,17,g
+853,nekter juice bar,superfood smoothies popeyes acai 16 oz,14,g,0,mg,25,g,49,g,8,g,0,g,0,g,5,g,28,g
+854,nekter juice bar,superfood smoothies popeyes acai 24 oz,20,g,0,mg,35,g,73,g,12,g,0,g,0,g,8,g,43,g
+855,nekter juice bar,superfood smoothies popeyes acai 32 oz,29,g,0,mg,45,g,98,g,16,g,0,g,0,g,11,g,56,g
+856,nekter juice bar,superfood smoothies turmeric sunrise 10 oz,0.5,g,0,mg,0,g,31,g,1,g,0,g,0,g,2,g,10,g
+857,nekter juice bar,superfood smoothies turmeric sunrise 16 oz,1,g,0,mg,0,g,60,g,1,g,0,g,0,g,3,g,15,g
+858,nekter juice bar,superfood smoothies turmeric sunrise 24 oz,2,g,0,mg,0,g,89,g,2,g,0,g,0,g,4,g,23,g
+859,nekter juice bar,superfood smoothies turmeric sunrise 32 oz,3,g,0,mg,0,g,107,g,5,g,0,g,0,g,9,g,33,g
+860,nekter juice bar,wellness shots cold buster,0,g,0,mg,30,g,6,g,0,g,0,g,0,g,1,g,3,g
+861,nekter juice bar,wellness shots energy,0,g,0,mg,0,g,7,g,3,g,0,g,0,g,1,g,4,g
+862,nekter juice bar,wellness shots fat burner,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,3,g
+863,nestle tollhouse cafe,100 arabica coffee 12 oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+864,nestle tollhouse cafe,100 arabica coffee 16 oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+865,nestle tollhouse cafe,12 inch cookie cake,30,g,25,mg,410,g,71,g,2,g,14,g,0,g,0,g,58,g
+866,nestle tollhouse cafe,12 inch cookie cake ts,30,g,25,mg,430,g,71,g,3,g,15,g,0,g,0,g,58,g
+867,nestle tollhouse cafe,12 inch heart cookie cake,30,g,25,mg,410,g,71,g,2,g,14,g,0,g,0,g,58,g
+868,nestle tollhouse cafe,12 inch heart cookie cake ts,30,g,25,mg,430,g,71,g,3,g,15,g,0,g,0,g,58,g
+869,nestle tollhouse cafe,12 inch mint chocolate chip cookie cake,37,g,15,mg,340,g,91,g,0,g,19,g,0,g,0,g,72,g
+870,nestle tollhouse cafe,12 inch mint chocolate chip cookie cake ts,37,g,15,mg,370,g,90,g,2,g,20,g,0,g,0,g,72,g
+871,nestle tollhouse cafe,15 inch cookie cake,15,g,10,mg,200,g,34,g,1,g,7,g,0,g,0,g,28,g
+872,nestle tollhouse cafe,15 inch cookie cake ts,15,g,10,mg,210,g,34,g,2,g,7,g,0,g,0,g,27,g
+873,nestle tollhouse cafe,15 inch mint chocolate chip cookie cake,21,g,10,mg,200,g,48,g,1,g,10,g,0,g,2,g,40,g
+874,nestle tollhouse cafe,15 inch mint chocolate chip cookie cake ts,20,g,10,mg,220,g,48,g,2,g,11,g,0,g,0,g,40,g
+875,nestle tollhouse cafe,3 cheese croissant sandwich,27,g,65,mg,750,g,39,g,8,g,16,g,0,g,1,g,6,g
+876,nestle tollhouse cafe,3 cheese panini sandwich,13,g,20,mg,370,g,11,g,8,g,5,g,0,g,1,g,8,g
+877,nestle tollhouse cafe,9 inch cookie cake,22,g,15,mg,270,g,53,g,1,g,10,g,0,g,0,g,44,g
+878,nestle tollhouse cafe,9 inch cookie cake ts,22,g,15,mg,290,g,53,g,2,g,11,g,0,g,0,g,44,g
+879,nestle tollhouse cafe,9 inch heart cookie cake,22,g,15,mg,270,g,53,g,1,g,10,g,0,g,0,g,44,g
+880,nestle tollhouse cafe,9 inch heart cookie cake ts,22,g,15,mg,290,g,53,g,2,g,11,g,0,g,0,g,44,g
+881,nestle tollhouse cafe,9 inch mint chocolate chip cookie cake,24,g,10,mg,220,g,59,g,0,g,13,g,0,g,0,g,47,g
+882,nestle tollhouse cafe,9 inch mint chocolate chip cookie cake ts,15,g,5,mg,150,g,36,g,1,g,8,g,0,g,0,g,28,g
+883,nestle tollhouse cafe,a little bit of trouble,13,g,10,mg,125,g,37,g,1,g,5,g,0,g,0,g,29,g
+884,nestle tollhouse cafe,a little bit of trouble ts,13,g,10,mg,140,g,37,g,2,g,6,g,0,g,0,g,28,g
+885,nestle tollhouse cafe,abuelita,1.5,g,0,mg,95,g,8,g,1,g,0,g,0,g,1,g,6,g
+886,nestle tollhouse cafe,almond iced sugar cookie,27,g,60,mg,250,g,77,g,14,g,11,g,0,g,2,g,20,g
+887,nestle tollhouse cafe,almond iced sugar cookie ts,27,g,60,mg,250,g,77,g,14,g,11,g,0,g,2,g,20,g
+888,nestle tollhouse cafe,almond turnovers,4.5,g,0,mg,30,g,68,g,0,g,1.5,g,0,g,0,g,65,g
+889,nestle tollhouse cafe,apple cinnamon muffin batch recipe,17,g,45,mg,420,g,49,g,5,g,2.5,g,0,g,1,g,24,g
+890,nestle tollhouse cafe,apple cinnamon square,6,g,30,mg,125,g,52,g,2,g,4.5,g,0,g,6,g,19,g
+891,nestle tollhouse cafe,apple cobbler sundae bliss,60,g,100,mg,500,g,92,g,15,g,21,g,0,g,4,g,57,g
+892,nestle tollhouse cafe,apple cranberry square,6,g,30,mg,125,g,71,g,1,g,4.5,g,0,g,5,g,38,g
+893,nestle tollhouse cafe,apple crisp cobbler cup,34,g,70,mg,340,g,165,g,23,g,14,g,0,g,12,g,70,g
+894,nestle tollhouse cafe,apple crisp cobbler cup ts,30,g,70,mg,340,g,119,g,11,g,14,g,0,g,5,g,68,g
+895,nestle tollhouse cafe,apple pie cookie creamer,68,g,145,mg,270,g,108,g,14,g,26,g,0,g,4,g,68,g
+896,nestle tollhouse cafe,apple pie frappe 12 oz,23,g,90,mg,65,g,48,g,4,g,15,g,0,g,0,g,43,g
+897,nestle tollhouse cafe,apple pie frappe 20 oz,23,g,90,mg,65,g,48,g,4,g,15,g,0,g,0,g,43,g
+898,nestle tollhouse cafe,apple pie latte 12 oz,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,0,g,23,g
+899,nestle tollhouse cafe,apple pie latte 16 oz,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,0,g,23,g
+900,nestle tollhouse cafe,apple walnut salad,22,g,35,mg,1050,g,59,g,12,g,10,g,0,g,11,g,36,g
+901,nestle tollhouse cafe,asian chicken and broccoli bowl,9,g,45,mg,2960,g,254,g,49,g,0,g,0,g,14,g,13,g
+902,nestle tollhouse cafe,baked fresh yesterday cookie,12,g,20,mg,210,g,33,g,3,g,5,g,0,g,1,g,19,g
+903,nestle tollhouse cafe,banana berry coconut smoothie 12 oz,16,g,5,mg,35,g,33,g,5,g,14,g,0,g,5,g,21,g
+904,nestle tollhouse cafe,banana berry coconut smoothie 20 oz,25,g,10,mg,50,g,36,g,7,g,21,g,0,g,5,g,21,g
+905,nestle tollhouse cafe,banana bliss square,23,g,30,mg,180,g,59,g,8,g,10,g,0,g,8,g,29,g
+906,nestle tollhouse cafe,banana fudge sundae,28,g,110,mg,190,g,115,g,10,g,18,g,0,g,5,g,78,g
+907,nestle tollhouse cafe,banana nut muffin,20,g,45,mg,430,g,53,g,6,g,3.5,g,0,g,2,g,26,g
+908,nestle tollhouse cafe,banana split,44,g,150,mg,230,g,125,g,14,g,26,g,0,g,3,g,104,g
+909,nestle tollhouse cafe,banoffee sundae bliss,41,g,210,mg,280,g,76,g,14,g,22,g,0,g,2,g,67,g
+910,nestle tollhouse cafe,bbq chicken grilled flatbread,2.5,g,35,mg,1370,g,37,g,29,g,0,g,0,g,2,g,18,g
+911,nestle tollhouse cafe,beef fajita sandwich,31,g,125,mg,2090,g,116,g,54,g,12,g,0,g,4,g,7,g
+912,nestle tollhouse cafe,berry peach smoothie 12 oz,0,g,0,mg,0,g,41,g,1,g,0,g,0,g,2,g,37,g
+913,nestle tollhouse cafe,berry peach smoothie 20 oz,0,g,0,mg,0,g,67,g,1,g,0,g,0,g,3,g,62,g
+914,nestle tollhouse cafe,berry rainbow sherbert,2,g,5,mg,35,g,29,g,1,g,0,g,0,g,0,g,22,g
+915,nestle tollhouse cafe,birthday cake frappe 12 oz,18,g,70,mg,45,g,52,g,3,g,12,g,0,g,0,g,49,g
+916,nestle tollhouse cafe,birthday cake frappe 20 oz,28,g,100,mg,85,g,67,g,6,g,19,g,0,g,0,g,44,g
+917,nestle tollhouse cafe,birthday cake latte 12 oz,0,g,0,mg,0,g,29,g,0,g,0,g,0,g,0,g,29,g
+918,nestle tollhouse cafe,birthday cake latte 16 oz,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,0,g,24,g
+919,nestle tollhouse cafe,biscone,10,g,15,mg,180,g,24,g,2,g,6,g,0,g,0,g,15,g
+920,nestle tollhouse cafe,biscone ts,10,g,15,mg,180,g,24,g,2,g,6,g,0,g,0,g,15,g
+921,nestle tollhouse cafe,black beans and rice bowl,34,g,90,mg,1420,g,238,g,43,g,15,g,0,g,11,g,2,g
+922,nestle tollhouse cafe,black forest brownie,16,g,20,mg,90,g,40,g,3,g,6,g,0,g,2,g,35,g
+923,nestle tollhouse cafe,black forest brownie ts,16,g,20,mg,90,g,40,g,3,g,6,g,0,g,2,g,35,g
+924,nestle tollhouse cafe,black forest square,25,g,40,mg,230,g,85,g,4,g,539,g,0,g,5,g,55,g
+925,nestle tollhouse cafe,black forest sundae bliss,48,g,130,mg,360,g,127,g,9,g,23,g,0,g,4,g,99,g
+926,nestle tollhouse cafe,blackberry mango lemonade granita 12 oz,0,g,0,mg,15,g,38,g,0,g,0,g,0,g,1,g,36,g
+927,nestle tollhouse cafe,blackberry mango lemonade granita 20 oz,0,g,0,mg,25,g,61,g,0,g,0,g,0,g,1,g,59,g
+928,nestle tollhouse cafe,blueberry banana smoothie 12 oz,1,g,0,mg,0,g,39,g,2,g,0,g,0,g,5,g,27,g
+929,nestle tollhouse cafe,blueberry banana smoothie 20 oz,1.5,g,0,mg,5,g,53,g,2,g,0,g,0,g,7,g,40,g
+930,nestle tollhouse cafe,blueberry muffin,14,g,50,mg,580,g,50,g,6,g,2.5,g,0,g,1,g,20,g
+931,nestle tollhouse cafe,brown grilled halloumi sandwhich,34,g,5,mg,2710,g,129,g,36,g,2,g,0,g,8,g,15,g
+932,nestle tollhouse cafe,brownie brownie ts,21,g,30,mg,190,g,56,g,3,g,6,g,0,g,4,g,45,g
+933,nestle tollhouse cafe,brownie button,21,g,30,mg,190,g,56,g,3,g,6,g,0,g,4,g,45,g
+934,nestle tollhouse cafe,brownie cookie cake,28,g,40,mg,210,g,74,g,4,g,7,g,0,g,6,g,63,g
+935,nestle tollhouse cafe,brownie cookie cake ts,28,g,40,mg,210,g,73,g,4,g,8,g,0,g,6,g,63,g
+936,nestle tollhouse cafe,brownie cupcake ts,12,g,10,mg,100,g,44,g,3,g,4,g,0,g,2,g,33,g
+937,nestle tollhouse cafe,brownie cupcakes,12,g,10,mg,100,g,44,g,3,g,3.5,g,0,g,2,g,33,g
+938,nestle tollhouse cafe,brownie fudge sundae,49,g,140,mg,350,g,134,g,11,g,24,g,0,g,5,g,103,g
+939,nestle tollhouse cafe,bruschetta crepe,19,g,30,mg,640,g,7,g,15,g,7,g,0,g,1,g,3,g
+940,nestle tollhouse cafe,buffalo chicken panini,26,g,80,mg,1270,g,18,g,28,g,9,g,0,g,2,g,3,g
+941,nestle tollhouse cafe,butter pecan ice cream,9,g,20,mg,100,g,16,g,2,g,4,g,0,g,1,g,13,g
+942,nestle tollhouse cafe,butter pecan sundae,45,g,120,mg,400,g,100,g,10,g,21,g,0,g,5,g,71,g
+943,nestle tollhouse cafe,butterfinger brownie,20,g,25,mg,160,g,54,g,3,g,6,g,0,g,4,g,44,g
+944,nestle tollhouse cafe,butterfinger brownie ts,20,g,25,mg,160,g,54,g,3,g,6,g,0,g,4,g,44,g
+945,nestle tollhouse cafe,butterfinger cookie creamer,40,g,105,mg,330,g,91,g,10,g,23,g,0,g,1,g,66,g
+946,nestle tollhouse cafe,butterfinger frappe 12 oz,15,g,30,mg,210,g,53,g,7,g,9,g,0,g,2,g,41,g
+947,nestle tollhouse cafe,butterfinger frappe 20 oz,21,g,35,mg,290,g,84,g,10,g,12,g,0,g,3,g,62,g
+948,nestle tollhouse cafe,butterfinger hot fudge sundae,33,g,120,mg,220,g,94,g,10,g,21,g,0,g,1,g,66,g
+949,nestle tollhouse cafe,butterfinger ice cream,9,g,20,mg,70,g,20,g,3,g,4.5,g,0,g,0,g,16,g
+950,nestle tollhouse cafe,butterfinger muffin batch recipe,4,g,5,mg,110,g,17,g,7,g,2.5,g,0,g,0,g,14,g
+951,nestle tollhouse cafe,caesar salad,25,g,30,mg,970,g,28,g,14,g,7,g,0,g,5,g,6,g
+952,nestle tollhouse cafe,cappuccino brownie,16,g,25,mg,115,g,43,g,3,g,4.5,g,0,g,3,g,38,g
+953,nestle tollhouse cafe,cappuccino brownie ts,16,g,25,mg,115,g,44,g,3,g,105,g,0,g,3,g,38,g
+954,nestle tollhouse cafe,cappuccino 12 oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+955,nestle tollhouse cafe,cappuccino 16 oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+956,nestle tollhouse cafe,caprise panini sandwich,28,g,30,mg,1630,g,71,g,29,g,11,g,0,g,5,g,14,g
+957,nestle tollhouse cafe,caramel delight ice cream,6,g,20,mg,50,g,21,g,2,g,4,g,0,g,0,g,18,g
+958,nestle tollhouse cafe,caramel latte 12 oz,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,9,g
+959,nestle tollhouse cafe,caramel latte 16 oz,0,g,0,mg,0,g,14,g,0,g,0,g,0,g,0,g,13,g
+960,nestle tollhouse cafe,caramel muffin batch recipe,17,g,45,mg,420,g,49,g,5,g,2.5,g,0,g,1,g,24,g
+961,nestle tollhouse cafe,caramel sundae,25,g,95,mg,170,g,69,g,6,g,16,g,0,g,1,g,53,g
+962,nestle tollhouse cafe,caramel walnut bar,20,g,15,mg,220,g,55,g,6,g,7,g,0,g,2,g,39,g
+963,nestle tollhouse cafe,caramel walnut bar ts,35,g,15,mg,230,g,64,g,12,g,8,g,0,g,3,g,52,g
+964,nestle tollhouse cafe,carrot cake,8,g,0,mg,290,g,50,g,3,g,2,g,0,g,1,g,11,g
+965,nestle tollhouse cafe,carrot cake squares ts,13,g,10,mg,310,g,59,g,4,g,307,g,0,g,1,g,18,g
+966,nestle tollhouse cafe,chai latte 12 oz,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,10,g
+967,nestle tollhouse cafe,chai latte 16 oz,0,g,0,mg,0,g,14,g,0,g,0,g,0,g,0,g,13,g
+968,nestle tollhouse cafe,cheddar chicken and broccoli bowl,49,g,135,mg,1460,g,249,g,65,g,17,g,0,g,11,g,9,g
+969,nestle tollhouse cafe,cheesecake cookie cup,18,g,40,mg,240,g,62,g,4,g,128,g,0,g,1,g,42,g
+970,nestle tollhouse cafe,cheesecake cookie cup ts,18,g,40,mg,240,g,62,g,4,g,128,g,0,g,1,g,42,g
+971,nestle tollhouse cafe,cheesey cheese crepe,24,g,70,mg,730,g,2,g,21,g,14,g,0,g,0,g,0,g
+972,nestle tollhouse cafe,chef salad,15,g,25,mg,900,g,47,g,13,g,3,g,0,g,9,g,21,g
+973,nestle tollhouse cafe,cherry chocolate square,12,g,30,mg,85,g,42,g,3,g,8,g,0,g,5,g,21,g
+974,nestle tollhouse cafe,cherry cup cake square,30,g,65,mg,340,g,99,g,5,g,539,g,0,g,4,g,60,g
+975,nestle tollhouse cafe,cherry jubilee square,6,g,30,mg,90,g,34,g,2,g,4.5,g,0,g,4,g,14,g
+976,nestle tollhouse cafe,cherry turnovers,3,g,10,mg,15,g,23,g,3,g,1.5,g,0,g,0,g,14,g
+977,nestle tollhouse cafe,chicken avacado sandwich,18,g,50,mg,2050,g,135,g,35,g,2.5,g,0,g,7,g,17,g
+978,nestle tollhouse cafe,chicken bacon club sandwich,45,g,325,mg,1780,g,89,g,62,g,16,g,0,g,0,g,8,g
+979,nestle tollhouse cafe,chicken caesar salad,28,g,75,mg,1370,g,29,g,34,g,7,g,0,g,7,g,4,g
+980,nestle tollhouse cafe,chicken ceasar wrap,7,g,40,mg,860,g,20,g,21,g,2,g,0,g,2,g,6,g
+981,nestle tollhouse cafe,chicken chipotle crepe,27,g,85,mg,1050,g,4,g,23,g,11,g,0,g,0,g,2,g
+982,nestle tollhouse cafe,chicken florentine bowl,195,g,80,mg,1510,g,248,g,53,g,9,g,0,g,12,g,4,g
+983,nestle tollhouse cafe,chicken pesto panini,49,g,55,mg,790,g,17,g,29,g,6,g,0,g,1,g,2,g
+984,nestle tollhouse cafe,chicken piazza wrap,49,g,55,mg,800,g,19,g,29,g,6,g,0,g,2,g,3,g
+985,nestle tollhouse cafe,chipotle chicken wrap,8,g,30,mg,590,g,20,g,17,g,1,g,0,g,2,g,6,g
+986,nestle tollhouse cafe,choco roon cookie creamer,58,g,140,mg,200,g,148,g,17,g,41,g,0,g,7,g,127,g
+987,nestle tollhouse cafe,chocolate banana square,12,g,30,mg,80,g,55,g,3,g,8,g,0,g,6,g,27,g
+988,nestle tollhouse cafe,chocolate cherry almond brownie,31,g,25,mg,250,g,83,g,4,g,11,g,0,g,4,g,65,g
+989,nestle tollhouse cafe,chocolate cherry almond brownie ts,26,g,25,mg,150,g,63,g,3,g,161,g,0,g,4,g,53,g
+990,nestle tollhouse cafe,chocolate cherry delight walk away sundae,34,g,70,mg,360,g,134,g,12,g,20,g,0,g,5,g,90,g
+991,nestle tollhouse cafe,chocolate chip brownie bar,21,g,30,mg,290,g,48,g,3,g,9,g,0,g,2,g,38,g
+992,nestle tollhouse cafe,chocolate chip brownie bar ts,21,g,30,mg,290,g,48,g,3,g,9,g,0,g,2,g,38,g
+993,nestle tollhouse cafe,chocolate chip cookie,9,g,10,mg,170,g,20,g,1,g,5,g,0,g,0,g,15,g
+994,nestle tollhouse cafe,chocolate chip cookie cup,16,g,10,mg,180,g,39,g,1,g,7,g,0,g,0,g,33,g
+995,nestle tollhouse cafe,chocolate chip cookie cup ts,16,g,10,mg,190,g,39,g,2,g,8,g,0,g,0,g,33,g
+996,nestle tollhouse cafe,chocolate chip cookie walk away sundae,28,g,60,mg,350,g,116,g,10,g,17,g,0,g,6,g,74,g
+997,nestle tollhouse cafe,chocolate chip ice cream,8,g,20,mg,35,g,18,g,2,g,6,g,0,g,0,g,16,g
+998,nestle tollhouse cafe,chocolate chip mini cookie,6,g,10,mg,110,g,17,g,1,g,3,g,0,g,0,g,10,g
+999,nestle tollhouse cafe,chocolate chip muffin batch recipe,19,g,45,mg,420,g,52,g,6,g,3.5,g,0,g,2,g,27,g

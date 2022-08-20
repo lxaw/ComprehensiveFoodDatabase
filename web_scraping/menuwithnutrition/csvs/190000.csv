@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,uno pizzeria and grill,uno colada,4,g,0,mg,20,g,29,g,1,g,3.5,g,0,g,1,g,18,g
+1,uno pizzeria and grill,uno deep dish sundae,74,g,155,mg,700,g,206,g,19,g,39,g,0,g,5,g,139,g
+2,uno pizzeria and grill,veggie soup,1.5,g,0,mg,930,g,27,g,5,g,0,g,0,g,4,g,4,g
+3,uno pizzeria and grill,wedge salad pick and choose,19,g,25,mg,550,g,10,g,7,g,5,g,0,g,3,g,5,g
+4,uno pizzeria and grill,wedge starter salad,19,g,25,mg,550,g,10,g,7,g,5,g,0,g,3,g,5,g
+5,uno pizzeria and grill,whole grain brown rice,6,g,0,mg,100,g,32,g,4,g,0.5,g,0,g,2,g,4,g
+6,uno pizzeria and grill,whole hog burger,252,g,525,mg,8690,g,146,g,157,g,83,g,0,g,13,g,18,g
+7,uno pizzeria and grill,wildberry mango smoothie,6,g,10,mg,105,g,54,g,5,g,3,g,0,g,1,g,35,g
+8,uno pizzeria and grill,windy city hurricane,0,g,0,mg,10,g,32,g,1,g,0,g,0,g,1,g,19,g
+9,uno pizzeria and grill,ziti and sausage pick and choose,45,g,115,mg,2110,g,71,g,39,g,20,g,0,g,4,g,11,g
+10,uberrito,balsamic vinaigrette,7,g,0,mg,0,g,280,g,6,g,1.5,g,0,g,6,g,0,g
+11,uberrito,barqs root beer,0,g,0,mg,0,g,100,g,64,g,0,g,0,g,64,g,0,g
+12,uberrito,beer battered cod,9,g,0,mg,20,g,280,g,0,g,1,g,0,g,13,g,1,g
+13,uberrito,black beans,0,g,0,mg,0,g,830,g,0,g,0,g,0,g,16,g,6,g
+14,uberrito,cabbage slaw,1.5,g,0,mg,0,g,125,g,7,g,0,g,0,g,8,g,1,g
+15,uberrito,cherry coke,0,g,0,mg,0,g,50,g,60,g,0,g,0,g,60,g,0,g
+16,uberrito,chicken cheesy taco,29,g,0,mg,75,g,1250,g,2,g,10,g,0,g,19,g,2,g
+17,uberrito,chips and guacamole 8 oz,40,g,0,mg,0,g,610,g,2,g,6,g,0,g,60,g,21,g
+18,uberrito,chips and pico de gallo salsa 8 fl oz,11,g,0,mg,0,g,960,g,6,g,1.5,g,0,g,52,g,10,g
+19,uberrito,chips and queso,27,g,0,mg,55,g,1160,g,7,g,12,g,0,g,48,g,7,g
+20,uberrito,chips and queso 8 fl oz,48,g,0,mg,125,g,2500,g,15,g,26,g,0,g,57,g,7,g
+21,uberrito,chips and raging habanero salsa 8 fl oz,11,g,0,mg,0,g,1010,g,2,g,1.5,g,0,g,49,g,8,g
+22,uberrito,chips and serrano ranch salsa 8 fl oz,103,g,0,mg,80,g,860,g,6,g,18,g,0,g,49,g,7,g
+23,uberrito,chips and smoky chile de arbol salsa 8 fl oz,12,g,0,mg,0,g,780,g,5,g,1.5,g,0,g,61,g,10,g
+24,uberrito,chips and spicy avocado salsa 8 fl oz,27,g,0,mg,0,g,1720,g,12,g,4,g,0,g,63,g,13,g
+25,uberrito,chips and tomatillo tomato salsa 8 fl oz,12,g,0,mg,0,g,1210,g,10,g,1.5,g,0,g,59,g,12,g
+26,uberrito,chips and totally tomato salsa 8 fl oz,11,g,0,mg,0,g,980,g,8,g,1.5,g,0,g,55,g,10,g
+27,uberrito,chips and zesty tomatillo salsa 8 fl oz,13,g,0,mg,0,g,1140,g,11,g,2,g,0,g,61,g,12,g
+28,uberrito,chopped red onions,0,g,0,mg,0,g,0,g,1,g,0,g,0,g,3,g,0,g
+29,uberrito,cilantro lime rice,7,g,0,mg,0,g,420,g,0,g,1,g,0,g,29,g,1,g
+30,uberrito,coke,0,g,0,mg,0,g,65,g,55,g,0,g,0,g,55,g,0,g
+31,uberrito,cotija cheese,4.5,g,0,mg,15,g,220,g,0,g,2.5,g,0,g,1,g,0,g
+32,uberrito,diablo shrimp taco,24,g,0,mg,55,g,760,g,2,g,6,g,0,g,24,g,4,g
+33,uberrito,diced tomatoes,0,g,0,mg,0,g,0,g,1,g,0,g,0,g,1,g,0,g
+34,uberrito,dr pepper,0,g,0,mg,0,g,75,g,57,g,0,g,0,g,57,g,0,g
+35,uberrito,fajita steak,5,g,0,mg,40,g,470,g,0,g,2,g,0,g,1,g,0,g
+36,uberrito,fajita veggies,1.5,g,0,mg,0,g,30,g,2,g,0,g,0,g,5,g,1,g
+37,uberrito,flour tortilla 10 inch,6,g,0,mg,0,g,340,g,0,g,2.5,g,0,g,33,g,2,g
+38,uberrito,flour tortilla 12 inch,8,g,0,mg,0,g,570,g,1,g,4,g,0,g,48,g,2,g
+39,uberrito,flour tortilla 6 inch,2.5,g,0,mg,0,g,150,g,0,g,1,g,0,g,14,g,1,g
+40,uberrito,forked pork taco,24,g,0,mg,40,g,690,g,2,g,8,g,0,g,20,g,3,g
+41,uberrito,fresh jalapenos,0,g,0,mg,0,g,0,g,1,g,0,g,0,g,2,g,1,g
+42,uberrito,giant cookie chocolate chunk,35,g,0,mg,75,g,590,g,50,g,22,g,0,g,89,g,2,g
+43,uberrito,giant cookie oatmeal raisin,26,g,0,mg,75,g,650,g,46,g,15,g,0,g,94,g,4,g
+44,uberrito,giant cookie sugar,31,g,0,mg,100,g,720,g,84,g,17,g,0,g,130,g,2,g
+45,uberrito,green onions,0,g,0,mg,0,g,0,g,1,g,0,g,0,g,2,g,1,g
+46,uberrito,grilled cajun shrimp,5,g,0,mg,85,g,450,g,0,g,0.5,g,0,g,0,g,0,g
+47,uberrito,grilled chicken,2,g,0,mg,55,g,910,g,0,g,0,g,0,g,1,g,0,g
+48,uberrito,guacamole,7,g,0,mg,0,g,125,g,1,g,1,g,0,g,5,g,4,g
+49,uberrito,hi c fruit punch,0,g,0,mg,0,g,40,g,63,g,0,g,0,g,63,g,0,g
+50,uberrito,jalapeno cheddar tortilla 12 inch,9,g,0,mg,0,g,600,g,1,g,4,g,0,g,48,g,5,g
+51,uberrito,jicama slaw,0,g,0,mg,0,g,5,g,1,g,0,g,0,g,3,g,1,g
+52,uberrito,kids animal crackers,4,g,0,mg,0,g,110,g,8,g,1,g,0,g,21,g,2,g
+53,uberrito,kids apple juice box,0,g,0,mg,0,g,15,g,19,g,0,g,0,g,21,g,0,g
+54,uberrito,kids bowl with chicken cilantro rice and black beans,12,g,0,mg,20,g,1400,g,8,g,2,g,0,g,63,g,9,g
+55,uberrito,kids bowl with chicken cilantro rice and pinto beans,12,g,0,mg,20,g,1510,g,8,g,2,g,0,g,64,g,9,g
+56,uberrito,kids bowl with chicken spanish rice and black beans,11,g,0,mg,20,g,1300,g,9,g,2,g,0,g,60,g,9,g
+57,uberrito,kids bowl with chicken spanish rice and pinto beans,11,g,0,mg,20,g,1410,g,9,g,2,g,0,g,62,g,9,g
+58,uberrito,kids bowl with ground beef cilantro rice and black beans,16,g,0,mg,15,g,1150,g,9,g,4,g,0,g,63,g,9,g
+59,uberrito,kids bowl with ground beef cilantro rice and pinto beans,16,g,0,mg,15,g,1270,g,9,g,4,g,0,g,65,g,9,g
+60,uberrito,kids bowl with ground beef spanish rice and black beans,15,g,0,mg,15,g,1050,g,10,g,4,g,0,g,61,g,9,g
+61,uberrito,kids bowl with ground beef spanish rice and pinto beans,15,g,0,mg,15,g,1170,g,10,g,4,g,0,g,62,g,9,g
+62,uberrito,kids bowl with steak cilantro rice and black beans,13,g,0,mg,15,g,1260,g,8,g,3,g,0,g,63,g,9,g
+63,uberrito,kids bowl with steak cilantro rice and pinto beans,14,g,0,mg,15,g,1380,g,8,g,3,g,0,g,64,g,9,g
+64,uberrito,kids bowl with steak spanish rice and black beans,13,g,0,mg,15,g,1160,g,9,g,3,g,0,g,60,g,9,g
+65,uberrito,kids bowl with steak spanish rice and pinto beans,13,g,0,mg,15,g,1280,g,9,g,3,g,0,g,62,g,9,g
+66,uberrito,kids burrito with chicken cilantro rice and black beans,18,g,0,mg,20,g,1740,g,8,g,4.5,g,0,g,96,g,11,g
+67,uberrito,kids burrito with chicken cilantro rice and pinto beans,18,g,0,mg,20,g,1850,g,8,g,4.5,g,0,g,97,g,11,g
+68,uberrito,kids burrito with chicken spanish rice and black beans,17,g,0,mg,20,g,1640,g,9,g,4.5,g,0,g,93,g,11,g
+69,uberrito,kids burrito with chicken spanish rice and pinto beans,17,g,0,mg,20,g,1750,g,9,g,4.5,g,0,g,95,g,11,g
+70,uberrito,kids burrito with ground beef cilantro rice and black beans,22,g,0,mg,15,g,1490,g,9,g,7,g,0,g,96,g,11,g
+71,uberrito,kids burrito with ground beef cilantro rice and pinto beans,22,g,0,mg,15,g,1610,g,9,g,7,g,0,g,98,g,11,g
+72,uberrito,kids burrito with ground beef spanish rice and black beans,21,g,0,mg,15,g,1390,g,10,g,6,g,0,g,94,g,11,g
+73,uberrito,kids burrito with ground beef spanish rice and pinto beans,21,g,0,mg,15,g,1510,g,10,g,6,g,0,g,95,g,11,g
+74,uberrito,kids burrito with steak cilantro rice and black beans,19,g,0,mg,15,g,1600,g,8,g,5,g,0,g,96,g,11,g
+75,uberrito,kids burrito with steak cilantro rice and pinto beans,20,g,0,mg,15,g,1720,g,8,g,5,g,0,g,97,g,11,g
+76,uberrito,kids burrito with steak spanish rice and black beans,19,g,0,mg,15,g,1500,g,9,g,5,g,0,g,93,g,11,g
+77,uberrito,kids burrito with steak spanish rice and pinto beans,19,g,0,mg,15,g,1620,g,9,g,5,g,0,g,95,g,11,g
+78,uberrito,kids chicken nuggets,30,g,0,mg,40,g,680,g,11,g,6,g,0,g,49,g,4,g
+79,uberrito,kids quesadilla with cheese,35,g,0,mg,30,g,610,g,8,g,11,g,0,g,59,g,6,g
+80,uberrito,kids quesadilla with chicken,36,g,0,mg,50,g,1000,g,8,g,11,g,0,g,60,g,6,g
+81,uberrito,kids quesadilla with steak,37,g,0,mg,50,g,850,g,8,g,12,g,0,g,60,g,6,g
+82,uberrito,kids taco,28,g,0,mg,50,g,470,g,9,g,11,g,0,g,53,g,7,g
+83,uberrito,lemonade,0,g,0,mg,0,g,75,g,57,g,0,g,0,g,60,g,0,g
+84,uberrito,lettuce,0,g,0,mg,0,g,0,g,1,g,0,g,0,g,1,g,1,g
+85,uberrito,mountain blast powerade,0,g,0,mg,0,g,210,g,30,g,0,g,0,g,30,g,0,g
+86,uberrito,off the hook taco,26,g,0,mg,25,g,490,g,6,g,5,g,0,g,31,g,4,g
+87,uberrito,pibb xtra,0,g,0,mg,0,g,55,g,55,g,0,g,0,g,55,g,0,g
+88,uberrito,pickled jalapenos,0,g,0,mg,0,g,310,g,0,g,0,g,0,g,0,g,0,g
+89,uberrito,pico de gallo,0,g,0,mg,0,g,210,g,2,g,0,g,0,g,3,g,1,g
+90,uberrito,pinto beans,0.5,g,0,mg,0,g,980,g,0,g,0,g,0,g,18,g,6,g
+91,uberrito,queso,9,g,0,mg,30,g,600,g,4,g,6,g,0,g,4,g,0,g
+92,uberrito,raging habanero salsa,0,g,0,mg,0,g,110,g,0,g,0,g,0,g,1,g,0,g
+93,uberrito,refried beans,4.5,g,0,mg,0,g,300,g,0,g,0.5,g,0,g,17,g,6,g
+94,uberrito,roasted corn,0.5,g,0,mg,0,g,10,g,5,g,0,g,0,g,18,g,3,g
+95,uberrito,sauteed mushrooms,3,g,0,mg,0,g,160,g,1,g,0,g,0,g,2,g,1,g
+96,uberrito,sauteed spinach,1.5,g,0,mg,0,g,280,g,0,g,0,g,0,g,3,g,1,g
+97,uberrito,seasoned ground beef,10,g,0,mg,35,g,200,g,1,g,5,g,0,g,2,g,0,g
+98,uberrito,serrano ranch hand taco,30,g,0,mg,65,g,900,g,4,g,7,g,0,g,38,g,4,g
+99,uberrito,serrano ranch salsa,17,g,0,mg,15,g,140,g,1,g,3,g,0,g,1,g,0,g
+100,uberrito,shredded beef,5,g,0,mg,25,g,470,g,3,g,2,g,0,g,5,g,0,g
+101,uberrito,shredded cheese,9,g,0,mg,30,g,180,g,0,g,6,g,0,g,0,g,0,g
+102,uberrito,shredded pork carnitas,3,g,0,mg,30,g,530,g,0,g,1.5,g,0,g,0,g,0,g
+103,uberrito,sliced avocado,7,g,0,mg,0,g,0,g,0,g,1,g,0,g,4,g,3,g
+104,uberrito,sloppy cowboy taco,29,g,0,mg,30,g,510,g,3,g,8,g,0,g,24,g,2,g
+105,uberrito,smoky chile de arbol salsa,0,g,0,mg,0,g,85,g,1,g,0,g,0,g,2,g,0,g
+106,uberrito,sour cream,6,g,0,mg,30,g,15,g,0,g,6,g,0,g,0,g,0,g
+107,uberrito,spanish rice,6,g,0,mg,0,g,260,g,2,g,1,g,0,g,26,g,1,g
+108,uberrito,spicy avocado salsa salsa,2,g,0,mg,0,g,200,g,1,g,0,g,0,g,3,g,1,g
+109,uberrito,spinach tortilla 12 inch,8,g,0,mg,0,g,640,g,0,g,4,g,0,g,47,g,2,g
+110,uberrito,sprite,0,g,0,mg,0,g,90,g,54,g,0,g,0,g,54,g,0,g
+111,uberrito,texas cheesesteak taco,37,g,0,mg,60,g,760,g,2,g,11,g,0,g,18,g,2,g
+112,uberrito,tomatillo tomato salsa,0,g,0,mg,0,g,210,g,2,g,0,g,0,g,3,g,1,g
+113,uberrito,tortilla soup,13,g,0,mg,30,g,1690,g,6,g,4,g,0,g,25,g,6,g
+114,uberrito,totally tomato salsa,0,g,0,mg,0,g,160,g,2,g,0,g,0,g,3,g,1,g
+115,uberrito,tree hugger taco,73,g,0,mg,50,g,740,g,7,g,13,g,0,g,38,g,6,g
+116,uberrito,triple t taco,21,g,0,mg,10,g,690,g,2,g,5,g,0,g,27,g,6,g
+117,uberrito,two timer taco,17,g,0,mg,35,g,430,g,1,g,7,g,0,g,32,g,5,g
+118,uberrito,vegan picadillo,1.5,g,0,mg,0,g,300,g,3,g,0,g,0,g,9,g,2,g
+119,uberrito,wheat tortilla 12 inch,9,g,0,mg,0,g,520,g,1,g,2.5,g,0,g,49,g,6,g
+120,uberrito,zesty tomatillo salsa,0,g,0,mg,0,g,190,g,2,g,0,g,0,g,4,g,1,g
+121,ufood grill,add albacore tuna salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+122,ufood grill,add chicken,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+123,ufood grill,add egg white,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+124,ufood grill,add grilled shrimp,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+125,ufood grill,add steak tips,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+126,ufood grill,add turkey bacon,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+127,ufood grill,add turkey sausage,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+128,ufood grill,add whole egg,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+129,ufood grill,albacore tuna flatbread,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+130,ufood grill,american cheese,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+131,ufood grill,baked chicken nuggets,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+132,ufood grill,baked unfries side,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+133,ufood grill,balsamic sauce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+134,ufood grill,bbq sauce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+135,ufood grill,berrylicious,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+136,ufood grill,black bean veggie burger,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+137,ufood grill,breakfast sandwich,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+138,ufood grill,broccoli side,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+139,ufood grill,brussel sprout and bacon bowl,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+140,ufood grill,brussel sprouts side,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+141,ufood grill,buffalo chicken panini,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+142,ufood grill,buffalo chicken pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+143,ufood grill,caesar salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+144,ufood grill,caesar sauce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+145,ufood grill,caramelized onions,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+146,ufood grill,cheddar cheese,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+147,ufood grill,cheese pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+148,ufood grill,cheeseburger,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+149,ufood grill,cheesesteak,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+150,ufood grill,chicken banh mi flatbread,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+151,ufood grill,chicken pesto panini,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+152,ufood grill,chicken pesto pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+153,ufood grill,chicken sandwich,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+154,ufood grill,chili,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+155,ufood grill,chipotle chicken sandwich,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+156,ufood grill,chipotle mayonaise sauce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+157,ufood grill,cranberry vinaigrette,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+158,ufood grill,crispy sweet potato wedges side,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+159,ufood grill,curry masala bowl,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+160,ufood grill,dijonnaise sauce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+161,ufood grill,egg white and guacamole wrap,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+162,ufood grill,fallafel sandwich,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+163,ufood grill,fired up cheesesteak,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+164,ufood grill,fruit cup,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+165,ufood grill,go man go,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+166,ufood grill,greek yogurt parfait,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+167,ufood grill,grilled cheese,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+168,ufood grill,guacamole,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+169,ufood grill,guacamole sauce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+170,ufood grill,hamburger,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+171,ufood grill,huevos rancheros burrito,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+172,ufood grill,jalapeno,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+173,ufood grill,kale verde,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+174,ufood grill,mediterranean salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+175,ufood grill,mediterranean veggie panini,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+176,ufood grill,modern cobb salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+177,ufood grill,passionate peach smoothie,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+178,ufood grill,pepperjack,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+179,ufood grill,pineapple frapple,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+180,ufood grill,power slaw,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+181,ufood grill,power slaw side,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+182,ufood grill,ranch sauce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+183,ufood grill,roasted mushroom,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+184,ufood grill,roasted pepper,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+185,ufood grill,smoked turkey cuban,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+186,ufood grill,southwest bowl,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+187,ufood grill,southwest breakfast sandwich,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+188,ufood grill,spa water,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+189,ufood grill,spinach florentine breakfast panini,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+190,ufood grill,steamed brown rice and quinoa side,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+191,ufood grill,steel cut oatmeal,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+192,ufood grill,strawbanilla,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+193,ufood grill,sweet thai chili bowl,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+194,ufood grill,sweet thai chili sauce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+195,ufood grill,swiss cheese,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+196,ufood grill,tikka masala,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+197,ufood grill,turkey bacon,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+198,ufood grill,turkey burger,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+199,ufood grill,turkey guacamole and turkey bacon flatbread,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+200,ufood grill,veggie flatbread,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+201,uncle julios,2 milk,0,g,40,mg,230,g,23,g,16,g,6,g,0,g,0,g,23,g
+202,uncle julios,3 pepper ranch dressing 1 5 oz,0,g,10,mg,260,g,2,g,1,g,2.5,g,0,g,0,g,1,g
+203,uncle julios,3 pepper ranch dressing 3 5 oz,0,g,25,mg,600,g,4,g,2,g,6,g,0,g,1,g,3,g
+204,uncle julios,acapulco seafood salad,0,g,0,mg,85,g,19,g,4,g,1.5,g,0,g,10,g,5,g
+205,uncle julios,acapulco seafood salad add grilled beef fajita,0,g,145,mg,600,g,1,g,34,g,13,g,0,g,1,g,0,g
+206,uncle julios,acapulco seafood salad add grilled chicken,0,g,165,mg,990,g,3,g,38,g,1.5,g,0,g,1,g,0,g
+207,uncle julios,acapulco seafood salad add grilled portabella,0,g,0,mg,570,g,5,g,3,g,0.5,g,0,g,2,g,3,g
+208,uncle julios,acapulco seafood salad add grilled shrimp,0,g,30,mg,125,g,0,g,3,g,0,g,0,g,0,g,0,g
+209,uncle julios,acapulco seafood salad add mesquite grilled salmon,0,g,135,mg,130,g,0,g,53,g,4,g,0,g,0,g,0,g
+210,uncle julios,acapulco seafood salad add spicy tuna seared,0,g,40,mg,190,g,0,g,24,g,0,g,0,g,0,g,0,g
+211,uncle julios,add agave queso sauce,0,g,25,mg,300,g,3,g,3,g,4.5,g,0,g,0,g,2,g
+212,uncle julios,add beef sauce,0,g,15,mg,170,g,3,g,4,g,0.5,g,0,g,1,g,0,g
+213,uncle julios,add creamy hatch chile sauce,0,g,10,mg,190,g,6,g,2,g,2,g,0,g,2,g,1,g
+214,uncle julios,add el paso style red sauce,0,g,5,mg,240,g,3,g,1,g,1.5,g,0,g,1,g,0,g
+215,uncle julios,add green sauce,0,g,0,mg,240,g,4,g,1,g,0,g,0,g,1,g,2,g
+216,uncle julios,add new mexico red sauce,0,g,15,mg,280,g,3,g,1,g,3.5,g,0,g,1,g,1,g
+217,uncle julios,add sour cream,0,g,5,mg,450,g,4,g,11,g,0.5,g,0,g,0,g,0,g
+218,uncle julios,agave queso chicken,0,g,375,mg,4740,g,80,g,95,g,25,g,0,g,12,g,10,g
+219,uncle julios,bacon wrapped camerones,0,g,380,mg,2850,g,51,g,60,g,47,g,0,g,10,g,4,g
+220,uncle julios,baja gold,0,g,0,mg,5,g,16,g,1,g,0,g,0,g,0,g,15,g
+221,uncle julios,baja gold large,0,g,0,mg,15,g,19,g,2,g,0,g,0,g,0,g,15,g
+222,uncle julios,bbq chicken quesadilla,0,g,205,mg,3180,g,111,g,67,g,38,g,0,g,10,g,15,g
+223,uncle julios,bbq chicken quesadillas,0,g,205,mg,3180,g,111,g,67,g,38,g,0,g,10,g,15,g
+224,uncle julios,beef enchiladas 2 piece with agave queso sauce,0,g,155,mg,2540,g,76,g,46,g,23,g,0,g,9,g,9,g
+225,uncle julios,beef enchiladas 2 piece with beef sauce,0,g,130,mg,2260,g,76,g,48,g,15,g,0,g,10,g,5,g
+226,uncle julios,beef enchiladas 3 piece with agave queso sauce,0,g,225,mg,3350,g,57,g,63,g,34,g,0,g,9,g,14,g
+227,uncle julios,beef enchiladas 3 piece with beef sauce,0,g,190,mg,2940,g,57,g,65,g,21,g,0,g,10,g,8,g
+228,uncle julios,beef fajita especial for 1,0,g,230,mg,2760,g,78,g,68,g,30,g,0,g,19,g,11,g
+229,uncle julios,beef fajita especial for 2,0,g,460,mg,5360,g,147,g,135,g,59,g,0,g,35,g,20,g
+230,uncle julios,bloody mary,0,g,0,mg,2250,g,6,g,1,g,0,g,0,g,0,g,4,g
+231,uncle julios,brunch quesadillas,0,g,575,mg,3560,g,117,g,62,g,43,g,0,g,14,g,11,g
+232,uncle julios,bud light,0,g,0,mg,10,g,5,g,1,g,0,g,0,g,0,g,0,g
+233,uncle julios,cajeta,0,g,130,mg,340,g,98,g,17,g,32,g,0,g,4,g,90,g
+234,uncle julios,camerones diablo,0,g,300,mg,2520,g,53,g,41,g,17,g,0,g,10,g,5,g
+235,uncle julios,carne asada,0,g,230,mg,2470,g,50,g,61,g,46,g,0,g,9,g,5,g
+236,uncle julios,carnitas azteca fajitas for 1,0,g,260,mg,4760,g,130,g,97,g,25,g,0,g,18,g,56,g
+237,uncle julios,carnitas azteca fajitas for 2,0,g,520,mg,8870,g,226,g,191,g,48,g,0,g,34,g,87,g
+238,uncle julios,carnitas tacos,0,g,170,mg,3600,g,143,g,71,g,15,g,0,g,18,g,7,g
+239,uncle julios,ceviche fresca,0,g,95,mg,810,g,40,g,26,g,2,g,0,g,4,g,3,g
+240,uncle julios,cheese and onion enchiladas 2 piece with beef sauce,0,g,175,mg,2240,g,77,g,55,g,33,g,0,g,10,g,6,g
+241,uncle julios,cheese and onion enchiladas 2 piece with new mexico red sauce,0,g,180,mg,2440,g,79,g,49,g,38,g,0,g,11,g,8,g
+242,uncle julios,cheese and onion enchiladas 3 piece with beef sauce,0,g,255,mg,2910,g,59,g,76,g,48,g,0,g,11,g,9,g
+243,uncle julios,cheese and onion enchiladas 3 piece with new mexico red sauce,0,g,260,mg,3250,g,61,g,67,g,56,g,0,g,12,g,12,g
+244,uncle julios,cheese chile relleno plate,0,g,860,mg,2640,g,115,g,73,g,106,g,0,g,25,g,22,g
+245,uncle julios,chicken enchiladas 2 piece,0,g,95,mg,1880,g,72,g,42,g,11,g,0,g,9,g,6,g
+246,uncle julios,chicken enchiladas 2 piece with creamy hatch chile sauce,0,g,20,mg,390,g,12,g,3,g,4,g,0,g,3,g,2,g
+247,uncle julios,chicken enchiladas 2 piece with el paso style red sauce,0,g,10,mg,480,g,7,g,2,g,2.5,g,0,g,2,g,1,g
+248,uncle julios,chicken enchiladas 2 piece with new mexico red sauce,0,g,30,mg,530,g,7,g,2,g,7,g,0,g,2,g,3,g
+249,uncle julios,chicken enchiladas 2 piece with salsa blanca,0,g,10,mg,900,g,7,g,2,g,1,g,0,g,0,g,0,g
+250,uncle julios,chicken enchiladas 2 piece with salsa verde,0,g,0,mg,490,g,8,g,2,g,0.5,g,0,g,2,g,4,g
+251,uncle julios,chicken enchiladas 3 piece,0,g,135,mg,2370,g,50,g,57,g,16,g,0,g,9,g,9,g
+252,uncle julios,chicken enchiladas 3 piece with creamy hatch chile sauce,0,g,30,mg,590,g,17,g,5,g,6,g,0,g,5,g,3,g
+253,uncle julios,chicken enchiladas 3 piece with el paso style red sauce,0,g,20,mg,720,g,10,g,3,g,4,g,0,g,3,g,1,g
+254,uncle julios,chicken enchiladas 3 piece with new mexico red sauce,0,g,50,mg,830,g,10,g,3,g,10,g,0,g,2,g,4,g
+255,uncle julios,chicken enchiladas 3 piece with salsa blanca,0,g,15,mg,1350,g,11,g,3,g,1.5,g,0,g,0,g,0,g
+256,uncle julios,chicken enchiladas 3 piece with salsa verde,0,g,5,mg,730,g,12,g,2,g,1,g,0,g,3,g,6,g
+257,uncle julios,chicken fajita cobb salad,0,g,15,mg,1180,g,32,g,14,g,6,g,0,g,11,g,5,g
+258,uncle julios,chicken fajita cobb salad add fajita beef,0,g,85,mg,360,g,0,g,21,g,8,g,0,g,0,g,0,g
+259,uncle julios,chicken fajita cobb salad add fajita chicken,0,g,100,mg,600,g,2,g,23,g,1,g,0,g,1,g,0,g
+260,uncle julios,chicken fajita especial for 1,0,g,265,mg,3050,g,81,g,72,g,20,g,0,g,19,g,11,g
+261,uncle julios,chicken fajita especial for 2,0,g,520,mg,5870,g,153,g,143,g,36,g,0,g,36,g,20,g
+262,uncle julios,chicken fajita 12 oz,0,g,395,mg,2380,g,8,g,90,g,4,g,0,g,3,g,0,g
+263,uncle julios,chicken fajita 9 oz,0,g,295,mg,1790,g,6,g,68,g,3,g,0,g,2,g,0,g
+264,uncle julios,chicken tortilla soup bowl,0,g,75,mg,990,g,23,g,17,g,2,g,0,g,5,g,3,g
+265,uncle julios,chicken tortilla soup cup,0,g,35,mg,500,g,12,g,9,g,1,g,0,g,3,g,2,g
+266,uncle julios,chilaquiles,0,g,595,mg,2400,g,57,g,46,g,30,g,0,g,7,g,29,g
+267,uncle julios,chile con queso with picadillo bowl,0,g,135,mg,2200,g,11,g,32,g,21,g,0,g,0,g,11,g
+268,uncle julios,chile con queso with picadillo cup,0,g,80,mg,1380,g,8,g,19,g,13,g,0,g,0,g,7,g
+269,uncle julios,chile con queso bowl,0,g,120,mg,2240,g,15,g,24,g,22,g,0,g,1,g,14,g
+270,uncle julios,chile con queso cup,0,g,75,mg,1400,g,9,g,15,g,15,g,0,g,0,g,9,g
+271,uncle julios,chipotle ranch dressing 1 5 oz,0,g,15,mg,250,g,2,g,1,g,3.5,g,0,g,0,g,1,g
+272,uncle julios,chipotle ranch dressing 3 5 oz,0,g,30,mg,580,g,4,g,2,g,8,g,0,g,0,g,2,g
+273,uncle julios,chispas,0,g,0,mg,5,g,10,g,0,g,0,g,0,g,0,g,6,g
+274,uncle julios,chocolate lovers pinata,0,g,375,mg,1530,g,672,g,44,g,238,g,0,g,14,g,494,g
+275,uncle julios,chocolate pinata,0,g,360,mg,900,g,585,g,35,g,203,g,0,g,21,g,447,g
+276,uncle julios,choose your base chipotle crema,0,g,15,mg,300,g,1,g,0,g,4,g,0,g,0,g,1,g
+277,uncle julios,choose your base chopped cilantro,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+278,uncle julios,choose your base chopped white onion,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,1,g,1,g
+279,uncle julios,choose your base corn pico,0,g,0,mg,190,g,6,g,1,g,0,g,0,g,1,g,2,g
+280,uncle julios,choose your base cotija cheese,0,g,20,mg,440,g,0,g,7,g,5,g,0,g,0,g,0,g
+281,uncle julios,choose your base lettuce,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,1,g
+282,uncle julios,choose your base lime crema,0,g,20,mg,15,g,2,g,1,g,3.5,g,0,g,0,g,2,g
+283,uncle julios,choose your base lime wedges,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,1,g,0,g
+284,uncle julios,choose your base nacho cheese,0,g,70,mg,0,g,0,g,18,g,15,g,0,g,0,g,0,g
+285,uncle julios,choose your base red onion,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,1,g,2,g
+286,uncle julios,choose your base spicy red chile sauce,0,g,10,mg,240,g,3,g,1,g,2.5,g,0,g,1,g,1,g
+287,uncle julios,choose your base tomato,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,1,g,1,g
+288,uncle julios,choose your base tumbleweed onions,0,g,0,mg,200,g,8,g,1,g,2,g,0,g,1,g,2,g
+289,uncle julios,choose your protein chicken fajita for 2,0,g,200,mg,1190,g,4,g,45,g,2,g,0,g,1,g,0,g
+290,uncle julios,choose your protein filet mignon,0,g,115,mg,420,g,1,g,43,g,4.5,g,0,g,0,g,0,g
+291,uncle julios,choose your protein picadillo for 2,0,g,95,mg,1040,g,0,g,27,g,6,g,0,g,0,g,0,g
+292,uncle julios,choose your protein pork carnitas,0,g,150,mg,1490,g,2,g,51,g,7,g,0,g,0,g,0,g
+293,uncle julios,choose your protein pulled chicken for 2,0,g,85,mg,1160,g,3,g,30,g,1,g,0,g,0,g,3,g
+294,uncle julios,choose your protein steak fajita for 2,0,g,175,mg,730,g,1,g,41,g,16,g,0,g,1,g,0,g
+295,uncle julios,choose your wrap corn tortilla,0,g,0,mg,780,g,100,g,10,g,2,g,0,g,9,g,1,g
+296,uncle julios,choose your wrap crispy taco shells,0,g,0,mg,45,g,53,g,5,g,1.5,g,0,g,4,g,1,g
+297,uncle julios,choose your wrap flour tortillas,0,g,0,mg,1080,g,89,g,12,g,3.5,g,0,g,6,g,2,g
+298,uncle julios,choose your wrap lettuce wrap,0,g,0,mg,10,g,5,g,3,g,0,g,0,g,2,g,2,g
+299,uncle julios,citrus vinagrette 1 5 oz,0,g,0,mg,90,g,7,g,0,g,1.5,g,0,g,0,g,6,g
+300,uncle julios,citrus vinagrette 3 5 oz,0,g,0,mg,210,g,16,g,1,g,4,g,0,g,0,g,15,g
+301,uncle julios,classic taco salad,0,g,30,mg,500,g,25,g,135,g,9,g,0,g,12,g,7,g
+302,uncle julios,classic taco salad add fajita beef,0,g,115,mg,480,g,1,g,27,g,10,g,0,g,1,g,0,g
+303,uncle julios,classic taco salad add fajita chicken,0,g,130,mg,790,g,3,g,30,g,1.5,g,0,g,1,g,0,g
+304,uncle julios,classic taco salad add picadillo,0,g,80,mg,870,g,2,g,27,g,6,g,0,g,2,g,1,g
+305,uncle julios,classic taco salad add pulled chicken,0,g,100,mg,1410,g,2,g,25,g,0.5,g,0,g,1,g,1,g
+306,uncle julios,coca cola,0,g,0,mg,80,g,66,g,0,g,0,g,0,g,0,g,66,g
+307,uncle julios,coffee,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+308,uncle julios,combination enchiladas with beef enchilada single,0,g,45,mg,510,g,16,g,15,g,6,g,0,g,2,g,2,g
+309,uncle julios,combination enchiladas with cheese enchilada single,0,g,65,mg,500,g,15,g,17,g,14,g,0,g,2,g,2,g
+310,uncle julios,combination enchiladas with chicken enchilada single,0,g,50,mg,670,g,14,g,15,g,4,g,0,g,2,g,1,g
+311,uncle julios,coors light,0,g,0,mg,10,g,5,g,1,g,0,g,0,g,0,g,0,g
+312,uncle julios,cowboy queso,0,g,150,mg,2170,g,13,g,35,g,25,g,0,g,1,g,11,g
+313,uncle julios,cozumel shrimp tacos,0,g,250,mg,2850,g,154,g,40,g,8,g,0,g,17,g,21,g
+314,uncle julios,crispy taco plate ground beef,0,g,150,mg,2450,g,87,g,53,g,18,g,0,g,10,g,6,g
+315,uncle julios,crispy taco plate pulled chicken,0,g,135,mg,2370,g,88,g,58,g,14,g,0,g,10,g,7,g
+316,uncle julios,diet coke,0,g,0,mg,75,g,0,g,0,g,0,g,0,g,0,g,0,g
+317,uncle julios,dijon honey dressing 1 5 oz,0,g,0,mg,210,g,4,g,0,g,3.5,g,0,g,0,g,3,g
+318,uncle julios,dijon honey dressing 3 5 oz,0,g,0,mg,490,g,9,g,0,g,8,g,0,g,0,g,8,g
+319,uncle julios,dos equis amber,0,g,0,mg,15,g,13,g,2,g,0,g,0,g,0,g,0,g
+320,uncle julios,dr pepper,0,g,0,mg,90,g,68,g,0,g,0,g,0,g,0,g,68,g
+321,uncle julios,enchilada norteno with carne asada and el paso style sauce,0,g,605,mg,2510,g,68,g,68,g,51,g,0,g,8,g,9,g
+322,uncle julios,enchilada norteno with carne asada and new mexico red sauce,0,g,620,mg,2560,g,68,g,69,g,54,g,0,g,8,g,10,g
+323,uncle julios,enchilada norteno with chicken and el paso syle sauce,0,g,685,mg,3230,g,72,g,89,g,30,g,0,g,10,g,9,g
+324,uncle julios,enchilada norteno with chicken and new mexican red sauce,0,g,700,mg,3280,g,72,g,89,g,33,g,0,g,9,g,10,g
+325,uncle julios,enchilada norteno without sauce,0,g,500,mg,2650,g,106,g,57,g,33,g,0,g,13,g,10,g
+326,uncle julios,enchilada norteno add new mexico red sauce,0,g,20,mg,350,g,4,g,1,g,4.5,g,0,g,1,g,2,g
+327,uncle julios,enchilada norteno add red el paso style sauce,0,g,5,mg,300,g,4,g,1,g,1.5,g,0,g,1,g,1,g
+328,uncle julios,fajita beef quesadillas,0,g,230,mg,2510,g,98,g,72,g,46,g,0,g,10,g,6,g
+329,uncle julios,fajita chicken quesadillas,0,g,240,mg,2750,g,99,g,72,g,40,g,0,g,11,g,6,g
+330,uncle julios,fajita especial combinations beef and chicken for 1,0,g,255,mg,3080,g,80,g,71,g,27,g,0,g,19,g,11,g
+331,uncle julios,fajita especial combinations beef and chicken for 2,0,g,495,mg,5650,g,150,g,139,g,49,g,0,g,35,g,20,g
+332,uncle julios,fajita especial combinations chicken and filet for 1,0,g,225,mg,2920,g,80,g,72,g,21,g,0,g,19,g,11,g
+333,uncle julios,fajita especial combinations chicken and filet for 2,0,g,440,mg,5350,g,150,g,141,g,38,g,0,g,34,g,20,g
+334,uncle julios,fajitas nino beef,0,g,100,mg,1280,g,44,g,34,g,11,g,0,g,6,g,123,g
+335,uncle julios,fajitas nino chicken,0,g,110,mg,1520,g,45,g,36,g,4,g,0,g,7,g,123,g
+336,uncle julios,filet mignon fajitas for 1,0,g,195,mg,2430,g,80,g,72,g,22,g,0,g,18,g,13,g
+337,uncle julios,filet mignon fajitas for 2,0,g,365,mg,4470,g,149,g,141,g,41,g,0,g,33,g,22,g
+338,uncle julios,filet mignon 12 oz,0,g,235,mg,840,g,3,g,86,g,9,g,0,g,0,g,0,g
+339,uncle julios,filet mignon 9 oz,0,g,175,mg,630,g,2,g,65,g,7,g,0,g,0,g,0,g
+340,uncle julios,fresh fruit and sweet cream,0,g,25,mg,25,g,33,g,2,g,6,g,0,g,3,g,27,g
+341,uncle julios,fresh margarita of the day,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+342,uncle julios,frozen margarita,0,g,0,mg,490,g,37,g,0,g,0,g,0,g,0,g,35,g
+343,uncle julios,frozen raspberry margarita,0,g,0,mg,5,g,41,g,0,g,0,g,0,g,0,g,39,g
+344,uncle julios,frozen sangria tx md ga and fl,0,g,0,mg,10,g,68,g,0,g,0,g,0,g,1,g,60,g
+345,uncle julios,frozen sangria va and il,0,g,0,mg,10,g,65,g,0,g,0,g,0,g,1,g,58,g
+346,uncle julios,frozen strawberry margarita,0,g,0,mg,10,g,34,g,0,g,0,g,0,g,1,g,31,g
+347,uncle julios,frozen swirl va and il,0,g,0,mg,10,g,45,g,0,g,0,g,0,g,0,g,42,g
+348,uncle julios,grand mimosa,0,g,0,mg,10,g,19,g,1,g,0,g,0,g,0,g,15,g
+349,uncle julios,grilled fish tacos,0,g,325,mg,2070,g,129,g,89,g,11,g,0,g,17,g,9,g
+350,uncle julios,guacamole and queso combo,0,g,75,mg,1740,g,19,g,17,g,17,g,0,g,7,g,10,g
+351,uncle julios,guacamole large,0,g,0,mg,670,g,17,g,4,g,4,g,0,g,12,g,3,g
+352,uncle julios,guacamole small,0,g,0,mg,340,g,9,g,2,g,2,g,0,g,6,g,2,g
+353,uncle julios,guadalajara fajitas with beef,0,g,410,mg,3620,g,75,g,84,g,57,g,0,g,18,g,10,g
+354,uncle julios,guadalajara fajitas with beef and chicken,0,g,490,mg,4120,g,77,g,103,g,57,g,0,g,18,g,10,g
+355,uncle julios,guadalajara fajitas with chicken,0,g,430,mg,3750,g,78,g,87,g,45,g,0,g,18,g,10,g
+356,uncle julios,guadalajara fajitas with filet,0,g,320,mg,3230,g,75,g,71,g,46,g,0,g,17,g,10,g
+357,uncle julios,guadalajara fajitas with filet and chicken,0,g,405,mg,3720,g,77,g,90,g,47,g,0,g,17,g,10,g
+358,uncle julios,habanero honey bacon shrimp,0,g,185,mg,2390,g,39,g,33,g,12,g,0,g,1,g,34,g
+359,uncle julios,hickory smoked bacon,0,g,15,mg,630,g,0,g,9,g,8,g,0,g,0,g,0,g
+360,uncle julios,homemade corn tortilla,0,g,0,mg,125,g,21,g,2,g,0,g,0,g,3,g,0,g
+361,uncle julios,homemade flour tortilla,0,g,0,mg,250,g,21,g,3,g,1,g,0,g,1,g,1,g
+362,uncle julios,honey chipotle chicken fajitas for 1,0,g,275,mg,4040,g,146,g,79,g,25,g,0,g,25,g,33,g
+363,uncle julios,honey chipotle chicken fajitas for 2,0,g,550,mg,7920,g,240,g,163,g,49,g,0,g,42,g,62,g
+364,uncle julios,honey chipotle salmon,0,g,150,mg,1260,g,80,g,59,g,7,g,0,g,4,g,33,g
+365,uncle julios,huevos manchacado with beef,0,g,535,mg,1820,g,105,g,40,g,24,g,0,g,9,g,28,g
+366,uncle julios,huevos manchacado with chicken,0,g,545,mg,1980,g,106,g,41,g,19,g,0,g,9,g,28,g
+367,uncle julios,huevos mexicanos,0,g,505,mg,1900,g,115,g,34,g,24,g,0,g,12,g,30,g
+368,uncle julios,huevos rancheros with carne asada,0,g,500,mg,2100,g,82,g,57,g,43,g,0,g,13,g,4,g
+369,uncle julios,huevos rancheros with chicken,0,g,580,mg,2820,g,86,g,78,g,22,g,0,g,14,g,4,g
+370,uncle julios,huevos tejanos,0,g,515,mg,2330,g,111,g,41,g,30,g,0,g,11,g,30,g
+371,uncle julios,jalisco fajitas with beef,0,g,355,mg,3370,g,76,g,74,g,38,g,0,g,17,g,11,g
+372,uncle julios,jalisco fajitas with beef and chicken,0,g,450,mg,3950,g,78,g,93,g,42,g,0,g,18,g,11,g
+373,uncle julios,jalisco fajitas with chicken,0,g,390,mg,3580,g,79,g,77,g,30,g,0,g,18,g,10,g
+374,uncle julios,jalisco fajitas with filet and chicken,0,g,365,mg,3550,g,78,g,81,g,32,g,0,g,17,g,11,g
+375,uncle julios,juanitas platter beans and rice,0,g,15,mg,900,g,43,g,13,g,2.5,g,0,g,6,g,2,g
+376,uncle julios,juanitas platter choose your crispy taco beef,0,g,45,mg,510,g,16,g,15,g,6,g,0,g,2,g,2,g
+377,uncle julios,juanitas platter choose your crispy taco chicken,0,g,55,mg,730,g,16,g,15,g,3.5,g,0,g,2,g,2,g
+378,uncle julios,juanitas platter choose your enchilada beef,0,g,45,mg,510,g,16,g,15,g,6,g,0,g,2,g,2,g
+379,uncle julios,juanitas platter choose your enchilada cheese,0,g,65,mg,500,g,15,g,17,g,14,g,0,g,2,g,2,g
+380,uncle julios,juanitas platter choose your enchilada chicken,0,g,50,mg,670,g,14,g,15,g,4,g,0,g,2,g,1,g
+381,uncle julios,juanitas platter choose your sauce agave queso sauce,0,g,25,mg,300,g,27,g,3,g,4.5,g,0,g,0,g,2,g
+382,uncle julios,juanitas platter choose your sauce beef sauce,0,g,15,mg,170,g,3,g,4,g,0.5,g,0,g,1,g,0,g
+383,uncle julios,juanitas platter choose your sauce creamy hatch chile sauce,0,g,10,mg,190,g,6,g,2,g,2,g,0,g,2,g,1,g
+384,uncle julios,juanitas platter choose your sauce el paso style red sauce,0,g,5,mg,240,g,3,g,1,g,1.5,g,0,g,1,g,0,g
+385,uncle julios,juanitas platter choose your sauce green sauce,0,g,0,mg,240,g,4,g,1,g,0,g,0,g,1,g,2,g
+386,uncle julios,juanitas platter choose your sauce new mexico red sauce,0,g,15,mg,280,g,3,g,1,g,3.5,g,0,g,1,g,1,g
+387,uncle julios,juanitas platter choose your sauce sour cream,0,g,5,mg,450,g,4,g,11,g,0.5,g,0,g,0,g,0,g
+388,uncle julios,juanitas platter choose your tamale chicken,0,g,10,mg,490,g,19,g,5,g,3.5,g,0,g,7,g,1,g
+389,uncle julios,juanitas platter choose your tamale pork,0,g,15,mg,390,g,18,g,7,g,3.5,g,0,g,2,g,0,g
+390,uncle julios,juarez fajitas with beef,0,g,510,mg,2610,g,97,g,92,g,80,g,0,g,19,g,21,g
+391,uncle julios,juarez fajitas with beef and chicken,0,g,735,mg,3710,g,99,g,145,g,94,g,0,g,20,g,21,g
+392,uncle julios,juarez fajitas with chicken,0,g,235,mg,3430,g,100,g,129,g,85,g,0,g,20,g,21,g
+393,uncle julios,juarez fajitas with chicken and filet,0,g,650,mg,3310,g,99,g,132,g,83,g,0,g,20,g,21,g
+394,uncle julios,juarez fajitas with filet,0,g,570,mg,2820,g,97,g,113,g,82,g,0,g,19,g,21,g
+395,uncle julios,julios gold,0,g,0,mg,480,g,8,g,0,g,0,g,0,g,0,g,7,g
+396,uncle julios,kids chicken tenders,0,g,75,mg,810,g,34,g,23,g,3,g,0,g,1,g,13,g
+397,uncle julios,kids chicken tenders add ketchup,0,g,15,mg,400,g,13,g,0,g,0,g,0,g,0,g,10,g
+398,uncle julios,kids chicken tenders add ranch dressing,0,g,15,mg,250,g,1,g,1,g,3.5,g,0,g,0,g,1,g
+399,uncle julios,kids diet coke,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+400,uncle julios,kids dr pepper,0,g,0,mg,70,g,54,g,0,g,0,g,0,g,0,g,54,g
+401,uncle julios,kids fresh fruit,0,g,0,mg,0,g,16,g,1,g,0,g,0,g,1,g,13,g
+402,uncle julios,kids ice cream,0,g,45,mg,95,g,27,g,6,g,8,g,0,g,0,g,27,g
+403,uncle julios,kids sprite,0,g,0,mg,90,g,52,g,0,g,0,g,0,g,0,g,52,g
+404,uncle julios,kidsadilla,0,g,70,mg,1310,g,63,g,22,g,16,g,0,g,5,g,16,g
+405,uncle julios,kidsadilla with chicken,0,g,120,mg,1610,g,64,g,33,g,16,g,0,g,5,g,16,g
+406,uncle julios,laredo fajitas with chicken,0,g,375,mg,4430,g,104,g,102,g,40,g,0,g,20,g,13,g
+407,uncle julios,laredo fajitas with steak,0,g,345,mg,4210,g,101,g,99,g,48,g,0,g,20,g,14,g
+408,uncle julios,lemonade,0,g,0,mg,105,g,65,g,0,g,0,g,0,g,0,g,65,g
+409,uncle julios,lettuce cups,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,1,g
+410,uncle julios,liquours cointreau,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,7,g
+411,uncle julios,liquours grand marnier,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,0,g
+412,uncle julios,liquours patron citronage,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,7,g
+413,uncle julios,lobster y fajitas for 1 with beef,0,g,435,mg,3650,g,75,g,89,g,39,g,0,g,17,g,11,g
+414,uncle julios,lobster y fajitas for 1 with chicken,0,g,465,mg,3870,g,78,g,92,g,31,g,0,g,18,g,10,g
+415,uncle julios,lobster y fajitas for 1 with combo,0,g,515,mg,4110,g,77,g,106,g,49,g,0,g,18,g,11,g
+416,uncle julios,lobster y fajitas for 1 with filet,0,g,350,mg,3000,g,75,g,76,g,28,g,0,g,17,g,10,g
+417,uncle julios,lobster y fajitas for 1 with filet combo,0,g,430,mg,3720,g,77,g,94,g,38,g,0,g,17,g,11,g
+418,uncle julios,lotta enchilada,0,g,95,mg,1590,g,60,g,34,g,18,g,0,g,8,g,125,g
+419,uncle julios,lucky horseshoe,0,g,0,mg,480,g,5,g,0,g,0,g,0,g,0,g,5,g
+420,uncle julios,lunch carnita tacos,0,g,120,mg,2590,g,94,g,48,g,11,g,0,g,13,g,5,g
+421,uncle julios,lunch chicken tortilla burrito bowl,0,g,70,mg,2380,g,71,g,21,g,8,g,0,g,12,g,10,g
+422,uncle julios,lunch chicken tortilla burrito bowl with picadillo,0,g,75,mg,2010,g,68,g,23,g,11,g,0,g,10,g,9,g
+423,uncle julios,lunch cozumel shrimp tacos lunch,0,g,190,mg,2170,g,108,g,31,g,5,g,0,g,14,g,17,g
+424,uncle julios,lunch el dorado chicken fajita,0,g,180,mg,1510,g,71,g,45,g,25,g,0,g,6,g,24,g
+425,uncle julios,lunch el dorado ground beef,0,g,115,mg,1530,g,72,g,36,g,18,g,0,g,7,g,26,g
+426,uncle julios,lunch el dorado pulled chicken,0,g,130,mg,1840,g,71,g,35,g,24,g,0,g,6,g,25,g
+427,uncle julios,lunch el dorado steak fajita,0,g,170,mg,1320,g,71,g,42,g,23,g,0,g,6,g,25,g
+428,uncle julios,lunch fajita carnita azteca,0,g,210,mg,3650,g,97,g,78,g,22,g,0,g,17,g,30,g
+429,uncle julios,lunch fajita especial all chicken,0,g,235,mg,2780,g,76,g,64,g,19,g,0,g,18,g,10,g
+430,uncle julios,lunch fajita especial beef and chicken,0,g,225,mg,2840,g,75,g,63,g,25,g,0,g,17,g,10,g
+431,uncle julios,lunch fajita especial filet and chicken,0,g,210,mg,2750,g,75,g,67,g,21,g,0,g,17,g,10,g
+432,uncle julios,lunch honey chipotle salmon lunch,0,g,150,mg,1190,g,77,g,59,g,7,g,0,g,4,g,31,g
+433,uncle julios,lunch nachos especial with beef fajita,0,g,145,mg,1410,g,53,g,42,g,26,g,0,g,10,g,4,g
+434,uncle julios,lunch nachos especial with chicken fajita,0,g,150,mg,1550,g,54,g,44,g,22,g,0,g,10,g,4,g
+435,uncle julios,lunch nachos with bean and cheese,0,g,95,mg,1190,g,52,g,30,g,21,g,0,g,10,g,4,g
+436,uncle julios,lunch quesadilla with fruit bbq pulled chicken,0,g,110,mg,1870,g,95,g,27,g,27,g,0,g,10,g,34,g
+437,uncle julios,lunch quesadilla with fruit fajita beef,0,g,150,mg,1360,g,77,g,38,g,31,g,0,g,8,g,26,g
+438,uncle julios,lunch quesadilla with fruit fajita chicken,0,g,155,mg,1480,g,77,g,39,g,28,g,0,g,8,g,26,g
+439,uncle julios,lunch quesadilla with fruit grilled shirmp,0,g,195,mg,1790,g,77,g,37,g,28,g,0,g,8,g,25,g
+440,uncle julios,lunch quesadilla with fruit pulled chicken,0,g,145,mg,1890,g,84,g,38,g,28,g,0,g,6,g,27,g
+441,uncle julios,lunch quesadilla with fruit spinach,0,g,110,mg,1330,g,80,g,29,g,29,g,0,g,9,g,26,g
+442,uncle julios,lunch quesadilla with fruit vegetable,0,g,115,mg,1710,g,87,g,29,g,30,g,0,g,7,g,28,g
+443,uncle julios,lunch reynosa chicken fajita,0,g,180,mg,1030,g,57,g,42,g,14,g,0,g,5,g,24,g
+444,uncle julios,lunch reynosa ground beef,0,g,115,mg,1050,g,57,g,32,g,17,g,0,g,6,g,25,g
+445,uncle julios,lunch reynosa pulled chicken,0,g,130,mg,1490,g,57,g,31,g,12,g,0,g,5,g,26,g
+446,uncle julios,lunch reynosa steak fajita,0,g,170,mg,840,g,56,g,38,g,22,g,0,g,5,g,25,g
+447,uncle julios,lunch seared bowl substitution options carnitas,0,g,60,mg,740,g,0,g,22,g,2.5,g,0,g,0,g,0,g
+448,uncle julios,lunch seared bowl substitution options chicken fajita,0,g,100,mg,600,g,2,g,23,g,1,g,0,g,1,g,0,g
+449,uncle julios,lunch seared bowl substitution options grilled portabella,0,g,0,mg,570,g,5,g,3,g,0.5,g,0,g,2,g,3,g
+450,uncle julios,lunch seared bowl substitution options line chicken,0,g,45,mg,890,g,3,g,11,g,0,g,0,g,1,g,1,g
+451,uncle julios,lunch seared bowl substitution options picadillo,0,g,45,mg,520,g,0,g,13,g,3,g,0,g,0,g,0,g
+452,uncle julios,lunch seared bowl substitution options shrimp al pastor,0,g,65,mg,530,g,1,g,10,g,0,g,0,g,1,g,1,g
+453,uncle julios,lunch seared bowl substitution options steak fajita,0,g,85,mg,360,g,0,g,21,g,8,g,0,g,0,g,0,g
+454,uncle julios,lunch seared chile shrimp bowl,0,g,90,mg,1290,g,52,g,16,g,9,g,0,g,6,g,6,g
+455,uncle julios,lunch spicy carnitas bowl,0,g,105,mg,2230,g,59,g,30,g,13,g,0,g,8,g,10,g
+456,uncle julios,lunch steak fajita bowl,0,g,115,mg,1670,g,63,g,29,g,17,g,0,g,7,g,7,g
+457,uncle julios,lunch tex mex mix and match choose your enchilada beef enchilada,0,g,45,mg,510,g,16,g,15,g,6,g,0,g,2,g,2,g
+458,uncle julios,lunch tex mex mix and match choose your enchilada cheese enchilada,0,g,65,mg,500,g,15,g,17,g,14,g,0,g,2,g,2,g
+459,uncle julios,lunch tex mex mix and match choose your enchilada chicken enchilada,0,g,50,mg,670,g,14,g,15,g,4,g,0,g,2,g,1,g
+460,uncle julios,lunch tex mex mix and match choose your sauce agave queso sauce,0,g,25,mg,310,g,2,g,3,g,5,g,0,g,0,g,2,g
+461,uncle julios,lunch tex mex mix and match choose your sauce creamy hatch chile sauce,0,g,10,mg,200,g,6,g,2,g,2,g,0,g,2,g,1,g
+462,uncle julios,lunch tex mex mix and match choose your sauce el paso style red,0,g,5,mg,240,g,3,g,1,g,1.5,g,0,g,1,g,0,g
+463,uncle julios,lunch tex mex mix and match choose your sauce new mexico red sauce,0,g,15,mg,280,g,3,g,1,g,3.5,g,0,g,1,g,1,g
+464,uncle julios,lunch tex mex mix and match choose your taco crispy chicken taco,0,g,55,mg,730,g,16,g,15,g,3.5,g,0,g,2,g,2,g
+465,uncle julios,lunch tex mex mix and match choose your taco soft beef taco,0,g,50,mg,910,g,23,g,17,g,4,g,0,g,2,g,2,g
+466,uncle julios,lunch tex mex mix and match choose your taco soft chicken taco,0,g,50,mg,1010,g,25,g,17,g,4.5,g,0,g,2,g,2,g
+467,uncle julios,lunch tex mex mix and match choose your taco taco crispy beef,0,g,45,mg,510,g,16,g,15,g,6,g,0,g,2,g,2,g
+468,uncle julios,lunch tex mex mix and match choose your tamale chicken,0,g,10,mg,490,g,19,g,5,g,3.5,g,0,g,7,g,1,g
+469,uncle julios,lunch tex mex mix and match choose your tamale pork,0,g,15,mg,390,g,18,g,7,g,3.5,g,0,g,2,g,0,g
+470,uncle julios,lunch tex mex mix and match choose your tamale relleno,0,g,425,mg,870,g,36,g,29,g,52,g,0,g,8,g,8,g
+471,uncle julios,mama julios nachos with bean and cheese,0,g,145,mg,1870,g,83,g,49,g,32,g,0,g,14,g,4,g
+472,uncle julios,mama julios nachos with black beans,0,g,130,mg,2060,g,87,g,45,g,30,g,0,g,19,g,6,g
+473,uncle julios,mama julios nachos with chicken fajita,0,g,240,mg,2460,g,85,g,72,g,33,g,0,g,14,g,4,g
+474,uncle julios,mama julios nachos with steak fajita,0,g,230,mg,2230,g,84,g,70,g,40,g,0,g,14,g,4,g
+475,uncle julios,mango passion lemonade,0,g,0,mg,30,g,35,g,0,g,0,g,0,g,1,g,33,g
+476,uncle julios,mango passion rita,0,g,0,mg,480,g,13,g,0,g,0,g,0,g,1,g,12,g
+477,uncle julios,mesquite grilled salmon,0,g,135,mg,720,g,20,g,57,g,5,g,0,g,5,g,12,g
+478,uncle julios,mexican mojito,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,0,g,17,g
+479,uncle julios,migas with el paso style sauce,0,g,490,mg,2270,g,75,g,26,g,20,g,0,g,13,g,29,g
+480,uncle julios,migas with new mexico red sauce,0,g,500,mg,2310,g,75,g,26,g,22,g,0,g,12,g,30,g
+481,uncle julios,miller lite,0,g,0,mg,5,g,7,g,1,g,0,g,0,g,0,g,0,g
+482,uncle julios,mini cajeta,0,g,45,mg,115,g,35,g,6,g,11,g,0,g,1,g,33,g
+483,uncle julios,modelo especial,0,g,0,mg,15,g,13,g,2,g,0,g,0,g,0,g,0,g
+484,uncle julios,mojito,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,0,g,17,g
+485,uncle julios,nino nacho,0,g,50,mg,650,g,46,g,19,g,11,g,0,g,5,g,18,g
+486,uncle julios,odouls,0,g,0,mg,10,g,15,g,1,g,0,g,0,g,0,g,0,g
+487,uncle julios,pacifico corona,0,g,0,mg,0,g,15,g,0,g,0,g,0,g,0,g,0,g
+488,uncle julios,passion fruit margarita,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,7,g
+489,uncle julios,patron classic rocks,0,g,0,mg,490,g,30,g,0,g,0,g,0,g,0,g,23,g
+490,uncle julios,pechuga de pollo,0,g,340,mg,3600,g,83,g,83,g,21,g,0,g,20,g,10,g
+491,uncle julios,picadillo 12 oz,0,g,185,mg,2080,g,0,g,54,g,12,g,0,g,0,g,0,g
+492,uncle julios,picadillo 9 oz,0,g,140,mg,1560,g,0,g,40,g,9,g,0,g,0,g,0,g
+493,uncle julios,pineapple bacon guacamole,0,g,10,mg,870,g,18,g,9,g,8,g,0,g,10,g,5,g
+494,uncle julios,plato americano,0,g,460,mg,1330,g,47,g,28,g,28,g,0,g,10,g,2,g
+495,uncle julios,plato grande fajitas for 2 3,0,g,1510,mg,8590,g,241,g,279,g,208,g,0,g,46,g,45,g
+496,uncle julios,plato grande fajitas for 2 3 with beef,0,g,1655,mg,9190,g,242,g,313,g,221,g,0,g,46,g,45,g
+497,uncle julios,plato grande fajitas for 2 3 with filet,0,g,1625,mg,9010,g,242,g,322,g,212,g,0,g,46,g,45,g
+498,uncle julios,plato grande fajitas for 4,0,g,1795,mg,11420,g,316,g,343,g,237,g,0,g,63,g,55,g
+499,uncle julios,plato grande fajitas for 4 with beef,0,g,1940,mg,12030,g,316,g,377,g,250,g,0,g,64,g,55,g
+500,uncle julios,plato grande fajitas for 4 with filet,0,g,1970,mg,12050,g,318,g,408,g,244,g,0,g,63,g,55,g
+501,uncle julios,pork carnitas 12 oz,0,g,75,mg,1620,g,3,g,23,g,2.5,g,0,g,1,g,1,g
+502,uncle julios,pork carnitas 9 oz,0,g,55,mg,1220,g,2,g,17,g,1.5,g,0,g,1,g,1,g
+503,uncle julios,pulled chicken quesadillas,0,g,200,mg,2920,g,97,g,69,g,39,g,0,g,9,g,7,g
+504,uncle julios,pulled chicken 12 oz,0,g,175,mg,2310,g,6,g,59,g,2,g,0,g,0,g,5,g
+505,uncle julios,pulled chicken 9 oz,0,g,130,mg,1730,g,4,g,44,g,1.5,g,0,g,0,g,4,g
+506,uncle julios,ranch dressing 1 5 oz,0,g,15,mg,260,g,1,g,1,g,3.5,g,0,g,0,g,1,g
+507,uncle julios,ranch dressing 3 5 oz,0,g,35,mg,600,g,3,g,2,g,8,g,0,g,0,g,2,g
+508,uncle julios,raspberry tea,0,g,0,mg,5,g,31,g,0,g,0,g,0,g,1,g,28,g
+509,uncle julios,salmon jardin fajitas,0,g,155,mg,2590,g,20,g,57,g,13,g,0,g,6,g,11,g
+510,uncle julios,salty juanita,0,g,0,mg,1830,g,5,g,1,g,0,g,0,g,0,g,3,g
+511,uncle julios,sangria on the rocks,0,g,0,mg,0,g,16,g,0,g,0,g,0,g,0,g,13,g
+512,uncle julios,shaken to order margaritas,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+513,uncle julios,shrimp and lobster soup bowl,0,g,100,mg,1710,g,23,g,16,g,6,g,0,g,4,g,3,g
+514,uncle julios,shrimp and lobster soup cup,0,g,50,mg,850,g,13,g,5,g,3,g,0,g,3,g,1,g
+515,uncle julios,shrimp al pastor fajitas,0,g,350,mg,2060,g,45,g,37,g,2.5,g,0,g,7,g,25,g
+516,uncle julios,shrimp quesadillas,0,g,390,mg,3160,g,102,g,70,g,43,g,0,g,11,g,8,g
+517,uncle julios,single chicken tamale with creamy hatch chile sauce,0,g,20,mg,690,g,25,g,6,g,5,g,0,g,8,g,2,g
+518,uncle julios,single chicken tamale with green sauce,0,g,15,mg,740,g,23,g,6,g,3.5,g,0,g,8,g,3,g
+519,uncle julios,single pork tamale with beef sauce,0,g,25,mg,560,g,21,g,12,g,4,g,0,g,2,g,0,g
+520,uncle julios,single pork tamale with new mexico red sauce,0,g,30,mg,670,g,22,g,8,g,7,g,0,g,3,g,1,g
+521,uncle julios,skinny guava rita,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,8,g
+522,uncle julios,skinny rita,0,g,0,mg,480,g,12,g,0,g,0,g,0,g,0,g,6,g
+523,uncle julios,slow smoked pork ribs,0,g,850,mg,1510,g,54,g,132,g,133,g,0,g,8,g,24,g
+524,uncle julios,small ensalada,0,g,0,mg,45,g,10,g,2,g,1,g,0,g,6,g,2,g
+525,uncle julios,small ensalada add fajita beef,0,g,60,mg,240,g,0,g,14,g,5,g,0,g,0,g,0,g
+526,uncle julios,small ensalada add fajita chicken,0,g,65,mg,400,g,1,g,15,g,0.5,g,0,g,0,g,0,g
+527,uncle julios,small ensalada add grilled portobello mushroom,0,g,0,mg,280,g,3,g,1,g,0,g,0,g,1,g,1,g
+528,uncle julios,soft taco para ninos beef,0,g,60,mg,1770,g,69,g,30,g,9,g,0,g,8,g,126,g
+529,uncle julios,soft taco para ninos chicken,0,g,65,mg,1930,g,68,g,30,g,7,g,0,g,8,g,125,g
+530,uncle julios,soft taco plate fajita beef,0,g,225,mg,2910,g,115,g,73,g,29,g,0,g,13,g,7,g
+531,uncle julios,soft taco plate fajita chicken,0,g,250,mg,3190,g,116,g,79,g,16,g,0,g,13,g,6,g
+532,uncle julios,soft taco plate ground beef,0,g,150,mg,3220,g,114,g,59,g,19,g,0,g,12,g,7,g
+533,uncle julios,soft taco plate pulled chicken,0,g,135,mg,3150,g,115,g,63,g,15,g,0,g,12,g,8,g
+534,uncle julios,sopapillas,0,g,5,mg,1020,g,119,g,16,g,4.5,g,0,g,10,g,42,g
+535,uncle julios,soup and ensalada choose your soup chicken tortilla soup,0,g,75,mg,990,g,23,g,17,g,2,g,0,g,5,g,3,g
+536,uncle julios,soup and ensalada salad,0,g,0,mg,45,g,12,g,3,g,1,g,0,g,6,g,3,g
+537,uncle julios,soup and ensalada salad choose your dressing 3 pepper ranch,0,g,10,mg,260,g,2,g,1,g,2.5,g,0,g,0,g,1,g
+538,uncle julios,soup and ensalada salad choose your dressing citrus vinaigrette,0,g,0,mg,90,g,7,g,0,g,1.5,g,0,g,0,g,6,g
+539,uncle julios,soup and taco al carbon with chicken,0,g,100,mg,1350,g,53,g,30,g,3.5,g,0,g,7,g,3,g
+540,uncle julios,soup and taco al carbon with steak,0,g,85,mg,1110,g,51,g,28,g,10,g,0,g,7,g,3,g
+541,uncle julios,spicy seared ahi tuna fajitas,0,g,90,mg,1120,g,17,g,51,g,6,g,0,g,6,g,11,g
+542,uncle julios,spicy seared tuna tacos,0,g,70,mg,2350,g,144,g,42,g,11,g,0,g,19,g,12,g
+543,uncle julios,spinach quesadillas,0,g,160,mg,2410,g,103,g,53,g,42,g,0,g,13,g,8,g
+544,uncle julios,sprite,0,g,0,mg,115,g,65,g,0,g,0,g,0,g,0,g,65,g
+545,uncle julios,steak and enchilada dinner,0,g,215,mg,2490,g,70,g,81,g,44,g,0,g,13,g,7,g
+546,uncle julios,steak fajita 12 oz,0,g,345,mg,1450,g,2,g,82,g,31,g,0,g,2,g,0,g
+547,uncle julios,steak fajita 9 oz,0,g,260,mg,1090,g,1,g,62,g,23,g,0,g,1,g,0,g
+548,uncle julios,strawberry guava lemonade,0,g,0,mg,30,g,30,g,0,g,0,g,0,g,1,g,26,g
+549,uncle julios,sweet tea,0,g,0,mg,15,g,61,g,0,g,0,g,0,g,0,g,59,g
+550,uncle julios,tableside guacamole with jalapeno,0,g,0,mg,1190,g,27,g,6,g,8,g,0,g,19,g,4,g
+551,uncle julios,tableside guacamole without jalapeno,0,g,0,mg,1180,g,26,g,6,g,8,g,0,g,19,g,3,g
+552,uncle julios,tequila all varieties,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+553,uncle julios,the silversmith,0,g,0,mg,480,g,6,g,0,g,0,g,0,g,0,g,5,g
+554,uncle julios,three flautas dinner beef,0,g,130,mg,2520,g,93,g,38,g,15,g,0,g,14,g,6,g
+555,uncle julios,three flautas dinner chicken,0,g,175,mg,2450,g,86,g,49,g,30,g,0,g,14,g,7,g
+556,uncle julios,three pepper spicy guacamole,0,g,5,mg,710,g,20,g,5,g,5,g,0,g,13,g,4,g
+557,uncle julios,tonic water,0,g,0,mg,25,g,36,g,0,g,0,g,0,g,0,g,36,g
+558,uncle julios,unsweet tea,0,g,0,mg,30,g,1,g,0,g,0,g,0,g,0,g,0,g
+559,uncle julios,vanilla ice cream scoop,0,g,35,mg,75,g,21,g,5,g,6,g,0,g,0,g,21,g
+560,uncle julios,vegetable fajitas for 1,0,g,50,mg,3460,g,86,g,26,g,16,g,0,g,23,g,18,g
+561,uncle julios,vegetable fajitas for 2,0,g,115,mg,6920,g,161,g,53,g,34,g,0,g,42,g,34,g
+562,uncle julios,veggie quesadillas,0,g,165,mg,2410,g,102,g,51,g,43,g,0,g,11,g,9,g
+563,uncle julios,victoria,0,g,0,mg,15,g,13,g,2,g,0,g,0,g,0,g,0,g
+564,uncle julios,yukon gold brunch potatoes,0,g,0,mg,270,g,31,g,5,g,13,g,0,g,4,g,0,g
+565,urbane cafe,ahi tuna,1,g,45,mg,30,g,0,g,19,g,0,g,0,g,0,g,0,g
+566,urbane cafe,aioli sauce,8,g,5,mg,70,g,1,g,0,g,1,g,0,g,0,g,0,g
+567,urbane cafe,applewood smoked bacon salads,7,g,10,mg,380,g,0,g,4,g,3,g,0,g,0,g,0,g
+568,urbane cafe,applewood smoked bacon sandwiches,12,g,20,mg,1000,g,0,g,12,g,4,g,0,g,0,g,0,g
+569,urbane cafe,artichoke bisque,21,g,60,mg,1680,g,26,g,9,g,12,g,0,g,3,g,12,g
+570,urbane cafe,artichoke hearts,1.5,g,0,mg,610,g,5,g,2,g,0,g,0,g,1,g,0,g
+571,urbane cafe,asian salad mix,0,g,0,mg,95,g,6,g,2,g,0,g,0,g,3,g,0,g
+572,urbane cafe,avocado,4,g,0,mg,0,g,2,g,1,g,0.5,g,0,g,2,g,0,g
+573,urbane cafe,baja chicken enchilada soup,23,g,75,mg,1530,g,29,g,15,g,9,g,0,g,6,g,9,g
+574,urbane cafe,balsamic vinaigrette 1oz,17,g,5,mg,20,g,4,g,0,g,2.5,g,0,g,0,g,3,g
+575,urbane cafe,basil,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+576,urbane cafe,bbq chicken,14,g,90,mg,990,g,72,g,40,g,5,g,0,g,4,g,30,g
+577,urbane cafe,bbq chicken salad,12,g,100,mg,620,g,25,g,36,g,6,g,0,g,4,g,15,g
+578,urbane cafe,bbq sauce,0,g,0,mg,290,g,17,g,0,g,0,g,0,g,0,g,16,g
+579,urbane cafe,bbq tri tip,24,g,110,mg,960,g,67,g,43,g,10,g,0,g,3,g,25,g
+580,urbane cafe,blat,28,g,30,mg,1400,g,46,g,24,g,6,g,0,g,5,g,3,g
+581,urbane cafe,blue cheese dressing,17,g,15,mg,310,g,1,g,1,g,3.5,g,0,g,0,g,1,g
+582,urbane cafe,bread,4.5,g,0,mg,320,g,41,g,10,g,0,g,0,g,2,g,2,g
+583,urbane cafe,caesar dressing,15,g,0,mg,330,g,1,g,1,g,2.5,g,0,g,0,g,0,g
+584,urbane cafe,caprese mix salads,18,g,50,mg,340,g,4,g,14,g,8,g,0,g,1,g,3,g
+585,urbane cafe,caprese mix sandwiches,22,g,65,mg,410,g,1,g,17,g,11,g,0,g,0,g,0,g
+586,urbane cafe,caprese sandwich,37,g,80,mg,850,g,43,g,29,g,13,g,0,g,3,g,3,g
+587,urbane cafe,cheddar broccoli soup,23,g,55,mg,1710,g,26,g,14,g,9,g,0,g,2,g,12,g
+588,urbane cafe,cheddar cheese,9,g,30,mg,180,g,1,g,7,g,5,g,0,g,0,g,0,g
+589,urbane cafe,chicken corn chowder,12,g,55,mg,1430,g,33,g,15,g,7,g,0,g,3,g,12,g
+590,urbane cafe,chicken noodle soup,3,g,15,mg,1550,g,23,g,8,g,1.5,g,0,g,2,g,5,g
+591,urbane cafe,chipotle mayonnaise,9,g,10,mg,80,g,1,g,0,g,1.5,g,0,g,0,g,0,g
+592,urbane cafe,chipotle ranch dressing,9,g,10,mg,190,g,2,g,1,g,1,g,0,g,0,g,1,g
+593,urbane cafe,chop salad mix,0,g,0,mg,35,g,5,g,2,g,0,g,0,g,2,g,2,g
+594,urbane cafe,cilantro,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,0,g
+595,urbane cafe,cilantro chicken salad,18,g,110,mg,770,g,18,g,40,g,7,g,0,g,8,g,5,g
+596,urbane cafe,club sandwich,35,g,110,mg,1860,g,47,g,47,g,9,g,0,g,5,g,3,g
+597,urbane cafe,corn black bean salsa,0,g,0,mg,140,g,5,g,2,g,0,g,0,g,1,g,1,g
+598,urbane cafe,feta cheese,1,g,0,mg,45,g,0,g,1,g,0,g,0,g,0,g,0,g
+599,urbane cafe,feta cheese crumbles,2,g,10,mg,170,g,1,g,3,g,1.5,g,0,g,0,g,1,g
+600,urbane cafe,fresh marinated mozzarella and cherry tomatoes,20,g,50,mg,340,g,4,g,14,g,10,g,0,g,1,g,3,g
+601,urbane cafe,fresh tomato,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+602,urbane cafe,fruit jelly,0,g,0,mg,20,g,26,g,0,g,0,g,0,g,0,g,26,g
+603,urbane cafe,garbanzo beans,0,g,0,mg,100,g,5,g,1,g,0,g,0,g,1,g,0,g
+604,urbane cafe,goat cheese,5,g,10,mg,105,g,1,g,3,g,3.5,g,0,g,0,g,1,g
+605,urbane cafe,gorgonzola cheese,4,g,15,mg,130,g,0,g,4,g,2.5,g,0,g,0,g,0,g
+606,urbane cafe,gourmet grilled cheese,31,g,75,mg,920,g,45,g,28,g,14,g,0,g,5,g,2,g
+607,urbane cafe,green leaf lettuce,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,0,g
+608,urbane cafe,grilled bbq chicken,2.5,g,65,mg,250,g,11,g,23,g,0.5,g,0,g,0,g,11,g
+609,urbane cafe,grilled cajun chicken,14,g,80,mg,260,g,0,g,26,g,2,g,0,g,0,g,0,g
+610,urbane cafe,grilled chicken salads,7,g,90,mg,130,g,0,g,32,g,1,g,0,g,0,g,0,g
+611,urbane cafe,grilled chicken sandwiches,9,g,70,mg,160,g,0,g,26,g,1,g,0,g,0,g,0,g
+612,urbane cafe,grilled pesto chicken,8,g,75,mg,160,g,0,g,27,g,1.5,g,0,g,0,g,0,g
+613,urbane cafe,grilled portabello mushroom,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,1,g
+614,urbane cafe,grilled portobello mushroom,25,g,35,mg,610,g,45,g,18,g,6,g,0,g,4,g,5,g
+615,urbane cafe,grilled rosemary chicken,10,g,80,mg,180,g,0,g,30,g,1,g,0,g,0,g,0,g
+616,urbane cafe,herb mayonnaise,10,g,10,mg,80,g,1,g,0,g,1.5,g,0,g,0,g,0,g
+617,urbane cafe,honey mustard,6,g,5,mg,120,g,1,g,0,g,1,g,0,g,0,g,1,g
+618,urbane cafe,hot pastrami,43,g,160,mg,1980,g,46,g,19,g,13,g,0,g,3,g,4,g
+619,urbane cafe,house roasted bbq marinated tri tip steak,11,g,80,mg,300,g,15,g,25,g,4,g,0,g,0,g,14,g
+620,urbane cafe,house side salad,1,g,0,mg,55,g,3,g,1,g,0,g,0,g,0,g,2,g
+621,urbane cafe,italian chicken,28,g,105,mg,670,g,44,g,43,g,7,g,0,g,4,g,4,g
+622,urbane cafe,italian dressing,11,g,0,mg,190,g,0,g,0,g,1,g,0,g,0,g,0,g
+623,urbane cafe,jack cheese,9,g,30,mg,180,g,1,g,7,g,5,g,0,g,0,g,0,g
+624,urbane cafe,japanese garlic,25,g,10,mg,620,g,8,g,0,g,4.5,g,0,g,0,g,6,g
+625,urbane cafe,kids grilled cheese,23,g,60,mg,680,g,43,g,24,g,10,g,0,g,2,g,2,g
+626,urbane cafe,kids turkey sandwich,21,g,85,mg,1270,g,44,g,37,g,4.5,g,0,g,3,g,3,g
+627,urbane cafe,lean pastrami,27,g,135,mg,1240,g,2,g,2,g,7,g,0,g,0,g,0,g
+628,urbane cafe,mandarin oranges,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+629,urbane cafe,marinated cilantro chicken,3,g,65,mg,310,g,1,g,24,g,0.5,g,0,g,0,g,0,g
+630,urbane cafe,marinated fresh mozzarella,25,g,65,mg,420,g,1,g,17,g,14,g,0,g,0,g,0,g
+631,urbane cafe,mayonnaise,11,g,10,mg,85,g,1,g,0,g,1.5,g,0,g,0,g,0,g
+632,urbane cafe,mixed greens,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+633,urbane cafe,mixed greens side salad,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+634,urbane cafe,mozzarella cheese,7,g,25,mg,120,g,1,g,6,g,4,g,0,g,1,g,1,g
+635,urbane cafe,mushrooms,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,1,g
+636,urbane cafe,oven roasted turkey,1,g,60,mg,770,g,0,g,22,g,0,g,0,g,0,g,0,g
+637,urbane cafe,pasta fagioli soup,11,g,15,mg,1370,g,27,g,9,g,3,g,0,g,5,g,6,g
+638,urbane cafe,pbandj sandwich,21,g,0,mg,490,g,74,g,17,g,3.5,g,0,g,4,g,31,g
+639,urbane cafe,peanut butter,16,g,0,mg,150,g,7,g,7,g,3,g,0,g,2,g,3,g
+640,urbane cafe,pears,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,1,g,6,g
+641,urbane cafe,pecans,10,g,0,mg,0,g,2,g,1,g,1,g,0,g,1,g,1,g
+642,urbane cafe,pepper jack cheese,9,g,30,mg,180,g,0,g,7,g,5,g,0,g,0,g,0,g
+643,urbane cafe,pesto and sundried tomato,31,g,110,mg,810,g,50,g,46,g,8,g,0,g,6,g,7,g
+644,urbane cafe,pesto mayonnaise,12,g,10,mg,100,g,1,g,0,g,1.5,g,0,g,0,g,0,g
+645,urbane cafe,protein salad,28,g,125,mg,650,g,22,g,49,g,8,g,0,g,8,g,6,g
+646,urbane cafe,provolone cheese,8,g,20,mg,250,g,1,g,7,g,5,g,0,g,0,g,0,g
+647,urbane cafe,ranch dressing,11,g,10,mg,240,g,2,g,1,g,1.5,g,0,g,0,g,1,g
+648,urbane cafe,red onions,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+649,urbane cafe,roast beef stack,28,g,60,mg,1500,g,48,g,40,g,9,g,0,g,3,g,4,g
+650,urbane cafe,roast turkey sandwich,20,g,90,mg,1470,g,44,g,40,g,6,g,0,g,3,g,4,g
+651,urbane cafe,roasted bell pepper,0,g,0,mg,0,g,68,g,0,g,0,g,0,g,1,g,1,g
+652,urbane cafe,rosemary chicken,30,g,110,mg,830,g,111,g,48,g,8,g,0,g,4,g,3,g
+653,urbane cafe,sliced roast beef,5,g,20,mg,910,g,2,g,22,g,2,g,0,g,0,g,0,g
+654,urbane cafe,so cal sandwich,36,g,110,mg,860,g,45,g,44,g,8,g,0,g,5,g,3,g
+655,urbane cafe,southwest chicken,41,g,120,mg,980,g,50,g,45,g,10,g,0,g,5,g,3,g
+656,urbane cafe,southwestern tortilla soup,4.5,g,0,mg,1400,g,32,g,6,g,0,g,0,g,5,g,6,g
+657,urbane cafe,sundried tomatoes,0.5,g,0,mg,100,g,6,g,2,g,0,g,0,g,3,g,4,g
+658,urbane cafe,the californian,30,g,40,mg,1300,g,58,g,23,g,8,g,0,g,8,g,6,g
+659,urbane cafe,tomatillo salsa,0,g,0,mg,105,g,1,g,0,g,0,g,0,g,0,g,0,g
+660,urbane cafe,tomato bisque,11,g,25,mg,1440,g,32,g,9,g,4.5,g,0,g,3,g,18,g
+661,urbane cafe,urbane cafe salad,26,g,100,mg,260,g,13,g,38,g,6,g,0,g,5,g,8,g
+662,urbane cafe,urbane cobb salad,37,g,160,mg,1020,g,7,g,55,g,16,g,0,g,3,g,2,g
+663,urbane cafe,urbane mustard,3.5,g,5,mg,170,g,1,g,0,g,0.5,g,0,g,0,g,1,g
+664,urbane cafe,vegetable medley soup,0,g,0,mg,1110,g,18,g,3,g,0,g,0,g,3,g,6,g
+665,urbane cafe,wild brown rice with chicken soup,19,g,55,mg,1390,g,32,g,12,g,7,g,0,g,1,g,11,g
+666,vocelli pizza,garlic vocelli rolls,19,g,25,mg,1480,g,138,g,36,g,6,g,0,g,8,g,28,g
+667,vocelli pizza,pepperoni vocelli rolls with garlic and marinara sauce,38,g,75,mg,2160,g,138,g,44,g,14,g,0,g,8,g,28,g
+668,vocelli pizza,spinach and mushroom vocelli rolls with garlic and marinara sauce,19,g,25,mg,1500,g,140,g,38,g,6,g,0,g,9,g,28,g
+669,vocelli pizza,garlic romano bone in wings without dipping sauce,129,g,275,mg,2330,g,11,g,82,g,30,g,0,g,1,g,0,g
+670,vocelli pizza,buffalo boneless wings without dipping sauce,26,g,135,mg,3050,g,41,g,57,g,3.5,g,0,g,3,g,0,g
+671,vocelli pizza,breadstick bites with pizza sauce,10,g,5,mg,1530,g,137,g,30,g,1,g,0,g,7,g,26,g
+672,vocelli pizza,hot vesuvius buffalo boneless wings without dipping sauce,26,g,135,mg,3050,g,43,g,58,g,3.5,g,0,g,4,g,0,g
+673,vocelli pizza,chicken tenders without dipping sauce,28,g,100,mg,1340,g,34,g,42,g,5,g,0,g,2,g,0,g
+674,vocelli pizza,breadsticks with pizza sauce,10,g,5,mg,1530,g,137,g,30,g,1,g,0,g,7,g,26,g
+675,vocelli pizza,cheesesticks with garlic sauce,54,g,105,mg,2110,g,139,g,56,g,24,g,0,g,9,g,30,g
+676,vocelli pizza,mango habanero bone in wings without dipping sauce,76,g,270,mg,2030,g,33,g,80,g,20,g,0,g,0,g,16,g
+677,vocelli pizza,garlic romano boneless wings without dipping sauce,77,g,140,mg,2520,g,43,g,59,g,13,g,0,g,4,g,0,g
+678,vocelli pizza,bruschetta with garlic sauce,31,g,65,mg,1620,g,137,g,48,g,15,g,0,g,10,g,25,g
+679,vocelli pizza,bacon cheddar vocelli rolls with garlic and marinara sauce,27,g,45,mg,1660,g,137,g,42,g,9,g,0,g,7,g,29,g
+680,vocelli pizza,hot bbq bone in wings without dipping sauce,76,g,270,mg,2280,g,47,g,81,g,20,g,0,g,0.5,g,32,g
+681,vocelli pizza,hot vesuvius bone in wings without dipping sauce,78,g,270,mg,2860,g,11,g,81,g,20,g,0,g,0.5,g,0,g
+682,vocelli pizza,bbq bone in wings without dipping sauce,76,g,270,mg,2270,g,45,g,80,g,20,g,0,g,0,g,32,g
+683,vocelli pizza,buffalo bone in wings without dipping sauce,78,g,270,mg,2850,g,9,g,80,g,20,g,0,g,0,g,0,g
+684,vocelli pizza,garlic bone in wings without dipping sauce,128,g,270,mg,2250,g,11,g,80,g,29,g,0,g,1,g,0,g
+685,vocelli pizza,vocelli rolls with garlic and marinara sauce,19,g,25,mg,1480,g,138,g,36,g,6,g,0,g,8,g,28,g
+686,vocelli pizza,hot bbq boneless wings without dipping sauce,24,g,135,mg,2470,g,79,g,58,g,3.5,g,0,g,4,g,32,g
+687,vocelli pizza,bbq boneless wings without dipping sauce,24,g,135,mg,2470,g,77,g,57,g,3.5,g,0,g,3,g,32,g
+688,vocelli pizza,garlic boneless wings without dipping sauce,76,g,135,mg,2450,g,43,g,57,g,12,g,0,g,4,g,0,g
+689,vocelli pizza,mango habanero boneless wings without dipping sauce,24,g,135,mg,2230,g,65,g,57,g,3.5,g,0,g,3,g,16,g
+690,vocelli pizza,chocolate chip cookie,6,g,10,mg,75,g,17,g,2,g,3,g,0,g,1,g,10,g
+691,vocelli pizza,cinnamon sugar breadsticks,20,g,0,mg,1030,g,290,g,28,g,2.5,g,0,g,6,g,175,g
+692,vocelli pizza,cannoli,7,g,15,mg,35,g,17,g,4,g,3,g,0,g,0,g,12,g
+693,vocelli pizza,chocolate cake,14,g,35,mg,250,g,46,g,4,g,4.5,g,0,g,0,g,37,g
+694,vocelli pizza,double fudge chunk brownie,28,g,90,mg,180,g,62,g,5,g,11,g,0,g,3,g,47,g
+695,vocelli pizza,chicken pesto linquini pasta with garlic bread single,57,g,120,mg,2010,g,128,g,48,g,19,g,0.5,g,6,g,13,g
+696,vocelli pizza,chicken alfredo linguini pasta with garlic bread single,54,g,130,mg,1990,g,129,g,47,g,21,g,1,g,6,g,15,g
+697,vocelli pizza,mac n cheese with garlic bread single,42,g,80,mg,2920,g,110,g,37,g,18,g,1,g,2,g,11,g
+698,vocelli pizza,chicken alfredo penne pasta with garlic bread single,54,g,130,mg,1990,g,126,g,47,g,21,g,1,g,4,g,11,g
+699,vocelli pizza,pasta diablo penne pasta with garlic bread single,30,g,35,mg,1740,g,135,g,32,g,7,g,0,g,8,g,20,g
+700,vocelli pizza,chicken parmesan linguini pasta with garlic bread single,26,g,40,mg,1670,g,144,g,37,g,5,g,0,g,10,g,23,g
+701,vocelli pizza,chicken pesto penne pasta with garlic bread single,57,g,120,mg,2010,g,125,g,48,g,19,g,0.5,g,4,g,9,g
+702,vocelli pizza,pasta diablo linguini pasta with garlic brad single,30,g,35,mg,1740,g,138,g,32,g,7,g,0,g,10,g,24,g
+703,vocelli pizza,chicken parmesan penne pasta with garlic bread single,26,g,40,mg,1670,g,141,g,37,g,5,g,0,g,8,g,19,g
+704,vocelli pizza,meatball marinara penne pasta with garlic bread single,33,g,80,mg,1970,g,140,g,43,g,9,g,1,g,9,g,19,g
+705,vocelli pizza,meatball marinara linguini pasta with garlic bread single,33,g,80,mg,1970,g,143,g,43,g,9,g,1,g,11,g,23,g
+706,vocelli pizza,large artisan thin crust spring veggie pizza,14,g,20,mg,490,g,32,g,11,g,6,g,0,g,2,g,2,g
+707,vocelli pizza,artisan cauliflower crust deluxe pizza,17,g,35,mg,770,g,23,g,12,g,9,g,0,g,4,g,3,g
+708,vocelli pizza,artisan cauliflower crust red top pizza,16,g,30,mg,670,g,22,g,10,g,8,g,0,g,4,g,3,g
+709,vocelli pizza,small artisan chicken pesto pizza,8,g,25,mg,490,g,24,g,13,g,3.5,g,0,g,2,g,4,g
+710,vocelli pizza,large artisan thin crust chicken pesto pizza,18,g,35,mg,580,g,29,g,17,g,6,g,0,g,2,g,0.5,g
+711,vocelli pizza,medium artisan red top pizza,11,g,20,mg,560,g,28,g,11,g,5,g,0,g,2,g,5,g
+712,vocelli pizza,small artisan quattro cheese pizza,9,g,25,mg,500,g,24,g,12,g,5,g,0,g,2,g,5,g
+713,vocelli pizza,artisan cauliflower crust quattro cheese pizza,16,g,35,mg,660,g,21,g,13,g,10,g,0,g,3,g,3,g
+714,vocelli pizza,small artisan original buffalo chicken pizza,9,g,25,mg,530,g,24,g,13,g,3.5,g,0,g,2,g,4,g
+715,vocelli pizza,artisan cauliflower crust original buffalo chicken pizza,17,g,40,mg,740,g,20,g,13,g,7,g,0,g,3,g,2,g
+716,vocelli pizza,small artisan macncheese pizza,10,g,25,mg,500,g,27,g,12,g,5,g,0,g,1,g,5,g
+717,vocelli pizza,small artisan garlic spinaci pizza white,8,g,15,mg,360,g,24,g,10,g,3.5,g,0,g,2,g,4,g
+718,vocelli pizza,large artisan red top pizza,14,g,30,mg,760,g,38,g,15,g,7,g,0,g,3,g,7,g
+719,vocelli pizza,medium artisan chicken carbonara pizza,11,g,35,mg,560,g,27,g,16,g,5,g,0,g,2,g,5,g
+720,vocelli pizza,large artisan quattro cheese pizza,14,g,35,mg,750,g,36,g,18,g,8,g,0,g,3,g,7,g
+721,vocelli pizza,small artisan red top pizza,10,g,20,mg,520,g,25,g,10,g,4.5,g,0,g,2,g,5,g
+722,vocelli pizza,large artisan philly steak pizza,16,g,40,mg,630,g,37,g,20,g,8,g,0,g,3,g,7,g
+723,vocelli pizza,large artisan thin crust hawaiian pizza,20,g,40,mg,710,g,33,g,17,g,9,g,0,g,2,g,4,g
+724,vocelli pizza,medium artisan spring veggie pizza,7,g,15,mg,480,g,29,g,11,g,3.5,g,0,g,3,g,6,g
+725,vocelli pizza,large artisan thin crust meat magnifico pizza,22,g,50,mg,960,g,31,g,18,g,9,g,0,g,2,g,2,g
+726,vocelli pizza,large artisan thin crust deluxe pizza,20,g,35,mg,690,g,32,g,14,g,8,g,0,g,2,g,2,g
+727,vocelli pizza,artisan cauliflower crust macncheese pizza,18,g,40,mg,660,g,25,g,14,g,10,g,0,g,2,g,3,g
+728,vocelli pizza,artisan cauliflower crust bbq chicken pizza,15,g,40,mg,750,g,33,g,15,g,8,g,0,g,2,g,14,g
+729,vocelli pizza,colosso artisan deluxe pizza,12,g,25,mg,650,g,27,g,12,g,5,g,0,g,3,g,5,g
+730,vocelli pizza,medium artisan deluxe pizza,10,g,25,mg,630,g,29,g,12,g,5,g,0,g,3,g,6,g
+731,vocelli pizza,medium artisan meat magnifico pizza,13,g,35,mg,820,g,28,g,15,g,6,g,0,g,2,g,6,g
+732,vocelli pizza,medium artisan chicken spinaci pizza,9,g,25,mg,470,g,28,g,15,g,4,g,0,g,2,g,5,g
+733,vocelli pizza,large artisan deluxe pizza,15,g,35,mg,860,g,38,g,17,g,7,g,0,g,4,g,8,g
+734,vocelli pizza,artisan neapolitan crust original buffalo chicken pizza,8,g,20,mg,470,g,23,g,12,g,3.5,g,0,g,2,g,4,g
+735,vocelli pizza,artisan cauliflower crust garlic spinaci pizza white,14,g,20,mg,430,g,21,g,10,g,7,g,0,g,3,g,3,g
+736,vocelli pizza,small artisan bbq chicken pizza,9,g,30,mg,560,g,32,g,13,g,4,g,0,g,1,g,12,g
+737,vocelli pizza,large artisan thin crust garlic spinaci pizza white,16,g,20,mg,340,g,30,g,12,g,6,g,0,g,2,g,1,g
+738,vocelli pizza,artisan neapolitan crust deluxe pizza,9,g,20,mg,550,g,26,g,11,g,4.5,g,0,g,2,g,5,g
+739,vocelli pizza,small artisan spring veggie pizza,6,g,15,mg,440,g,26,g,9,g,3,g,0,g,2,g,5,g
+740,vocelli pizza,large artisan thin crust chicken spinaci pizza,16,g,35,mg,420,g,30,g,16,g,6,g,0,g,2,g,1,g
+741,vocelli pizza,medium artisan macncheese pizza,12,g,30,mg,560,g,30,g,14,g,6,g,0,g,1,g,5,g
+742,vocelli pizza,large artisan macncheese pizza,16,g,40,mg,750,g,40,g,19,g,8,g,0,g,2,g,7,g
+743,vocelli pizza,artisan cauliflower crust philly steak pizza,18,g,40,mg,540,g,22,g,14,g,10,g,0,g,4,g,3,g
+744,vocelli pizza,large artisan spring veggie pizza,9,g,20,mg,670,g,39,g,14,g,4.5,g,0,g,4,g,8,g
+745,vocelli pizza,small artisan chicken carbonara pizza,10,g,30,mg,490,g,24,g,14,g,4.5,g,0,g,2,g,4,g
+746,vocelli pizza,large artisan meat magnifico pizza,18,g,50,mg,1130,g,37,g,21,g,8,g,0,g,3,g,8,g
+747,vocelli pizza,small artisan hawaiian pizza,10,g,25,mg,590,g,27,g,13,g,5,g,0,g,2,g,6,g
+748,vocelli pizza,colosso artisan meat magnifico pizza,15,g,50,mg,820,g,28,g,17,g,8,g,0,g,1,g,2,g
+749,vocelli pizza,large artisan chicken carbonara pizza,16,g,45,mg,770,g,36,g,21,g,7,g,0,g,3,g,7,g
+750,vocelli pizza,large artisan chicken pesto pizza,14,g,35,mg,760,g,36,g,20,g,5,g,0,g,3,g,6,g
+751,vocelli pizza,large artisan original buffalo chicken pizza,15,g,40,mg,830,g,35,g,18,g,5,g,0,g,2,g,6,g
+752,vocelli pizza,artisan cauliflower crust chicken pesto pizza,16,g,35,mg,670,g,21,g,15,g,7,g,0,g,3,g,2,g
+753,vocelli pizza,medium artisan garlic spinaci pizza white,9,g,15,mg,390,g,27,g,11,g,4,g,0,g,2,g,5,g
+754,vocelli pizza,large artisan garlic spinaci pizza white,12,g,20,mg,520,g,36,g,15,g,5,g,0,g,3,g,7,g
+755,vocelli pizza,artisan cauliflower crust meat magnifico pizza,20,g,50,mg,1040,g,22,g,16,g,10,g,0,g,3,g,3,g
+756,vocelli pizza,small artisan meat magnifico pizza,11,g,30,mg,740,g,25,g,14,g,5,g,0,g,2,g,5,g
+757,vocelli pizza,colosso artisan garlic spinaci pizza white,10,g,20,mg,390,g,25,g,11,g,4.5,g,0,g,2,g,5,g
+758,vocelli pizza,small artisan deluxe pizza,10,g,25,mg,580,g,26,g,11,g,4.5,g,0,g,2,g,5,g
+759,vocelli pizza,large artisan hawaiian pizza,15,g,40,mg,890,g,40,g,20,g,8,g,0,g,3,g,9,g
+760,vocelli pizza,colosso artisan chicken carbonara pizza,12,g,35,mg,560,g,24,g,16,g,6,g,0,g,2,g,5,g
+761,vocelli pizza,colosso artisan chicken pesto pizza,10,g,25,mg,540,g,24,g,14,g,4.5,g,0,g,2,g,4,g
+762,vocelli pizza,small artisan chicken spinaci pizza,8,g,25,mg,410,g,25,g,13,g,3.5,g,0,g,2,g,5,g
+763,vocelli pizza,colosso artisan original buffalo chicken pizza,10,g,25,mg,540,g,23,g,13,g,4,g,0,g,2,g,4,g
+764,vocelli pizza,artisan neapolitan crust chicken carbonara pizza,10,g,30,mg,480,g,24,g,13,g,4.5,g,0,g,2,g,4,g
+765,vocelli pizza,colosso artisan spring veggie pizza,7,g,15,mg,510,g,27,g,11,g,4,g,0,g,3,g,6,g
+766,vocelli pizza,large artisan thin crust original buffalo chicken pizza,19,g,40,mg,620,g,28,g,15,g,6,g,0,g,1,g,0.5,g
+767,vocelli pizza,artisan neapolitan crust garlic spinaci pizza white,8,g,15,mg,80,g,24,g,10,g,4,g,0,g,2,g,5,g
+768,vocelli pizza,meddium artisan chicken pesto pizza,10,g,30,mg,570,g,27,g,15,g,4,g,0,g,2,g,5,g
+769,vocelli pizza,colosso artisan chicken spinaci pizza,9,g,25,mg,440,g,25,g,14,g,4,g,0,g,2,g,5,g
+770,vocelli pizza,medium artisan hawaiian pizza,11,g,30,mg,650,g,29,g,15,g,6,g,0,g,3,g,7,g
+771,vocelli pizza,medium artisan bbq chicken pizza,10,g,30,mg,620,g,35,g,15,g,5,g,0,g,2,g,13,g
+772,vocelli pizza,large artisan thin crust chicken carbonara pizza,20,g,40,mg,540,g,29,g,17,g,8,g,0,g,1,g,0.5,g
+773,vocelli pizza,colosso artisan macncheese pizza,13,g,30,mg,590,g,28,g,14,g,7,g,0,g,1,g,5,g
+774,vocelli pizza,colosso artisan red top pizza,12,g,25,mg,610,g,26,g,12,g,5,g,0,g,2,g,5,g
+775,vocelli pizza,colosso artisan quattro cheese pizza,11,g,30,mg,590,g,25,g,14,g,7,g,0,g,2,g,5,g
+776,vocelli pizza,artisan neapolitan crust macncheese pizza,10,g,25,mg,500,g,27,g,12,g,5,g,0,g,1,g,5,g
+777,vocelli pizza,colosso artisan hawaiian pizza,12,g,35,mg,700,g,27,g,16,g,7,g,0,g,3,g,7,g
+778,vocelli pizza,small artisan philly steak pizza,12,g,25,mg,430,g,25,g,13,g,6,g,0,g,2,g,4,g
+779,vocelli pizza,artisan neapolitan crust quattro cheese pizza,9,g,25,mg,530,g,24,g,12,g,5,g,0,g,2,g,5,g
+780,vocelli pizza,large artisan thin crust macncheese pizza,20,g,40,mg,570,g,33,g,16,g,9,g,0,g,0.5,g,1,g
+781,vocelli pizza,artisan neapolitan crust spring veggie pizza,6,g,15,mg,440,g,26,g,9,g,3,g,0,g,2,g,5,g
+782,vocelli pizza,artisan cauliflower crust chicken spinaci pizza,14,g,35,mg,510,g,22,g,14,g,7,g,0,g,3,g,3,g
+783,vocelli pizza,medium artisan quattro cheese pizza,10,g,30,mg,550,g,27,g,13,g,6,g,0,g,2,g,5,g
+784,vocelli pizza,medium artisan original buffalo pizza,10,g,25,mg,590,g,26,g,14,g,4,g,0,g,2,g,5,g
+785,vocelli pizza,large artisan thin crust red top pizza,19,g,30,mg,590,g,31,g,12,g,8,g,0,g,2,g,2,g
+786,vocelli pizza,large artisan thin crust quattro cheese pizza,18,g,35,mg,570,g,30,g,15,g,9,g,0,g,1,g,2,g
+787,vocelli pizza,large artisan chicken spinaci pizza,12,g,35,mg,600,g,37,g,19,g,5,g,0,g,3,g,7,g
+788,vocelli pizza,artisan neapolitan crust bbq chicken pizza,9,g,30,mg,560,g,32,g,13,g,4,g,0,g,1,g,12,g
+789,vocelli pizza,artisan neapolitan crust chicken pesto pizza,9,g,25,mg,500,g,24,g,13,g,3.5,g,0,g,2,g,4,g
+790,vocelli pizza,artisan cauliflower crust hawaiian pizza,17,g,40,mg,800,g,24,g,15,g,10,g,0,g,4,g,5,g
+791,vocelli pizza,large artisan thin crust philly steak pizza,21,g,40,mg,450,g,30,g,16,g,9,g,0,g,2,g,1,g
+792,vocelli pizza,artisan neapolitan crust hawaiian pizza,10,g,25,mg,590,g,26,g,13,g,5,g,0,g,2,g,6,g
+793,vocelli pizza,medium artisan philly steak pizza,12,g,30,mg,460,g,28,g,14,g,6,g,0,g,3,g,5,g
+794,vocelli pizza,large artisan thin crust bbq chicken pizza,18,g,40,mg,660,g,41,g,17,g,7,g,0,g,0.5,g,13,g
+795,vocelli pizza,large artisan bbq chicken pizza,13,g,40,mg,840,g,48,g,20,g,6,g,0,g,2,g,19,g
+796,vocelli pizza,colosso artisan bbq chicken pizza,10,g,35,mg,660,g,35,g,15,g,5,g,0,g,1,g,15,g
+797,vocelli pizza,artisan cauliflower crust chicken carbonara pizza,18,g,45,mg,680,g,21,g,16,g,9,g,0,g,3,g,3,g
+798,vocelli pizza,artisan cauliflower crust spring veggie pizza,11,g,20,mg,580,g,24,g,9,g,6,g,0,g,4,g,4,g
+799,vocelli pizza,artisan neapolitan crust philly steak pizza,11,g,25,mg,420,g,24,g,13,g,5,g,0,g,2,g,4,g
+800,vocelli pizza,artisan neapolitan crust meat magnifico pizza,11,g,30,mg,730,g,25,g,14,g,5,g,0,g,2,g,5,g
+801,vocelli pizza,artisan neapolitan crust red top pizza,10,g,20,mg,510,g,25,g,10,g,4.5,g,0,g,2,g,5,g
+802,vocelli pizza,artisan neapolitan crust chicken spinaci pizza,8,g,20,mg,380,g,24,g,12,g,3.5,g,0,g,2,g,5,g
+803,vocelli pizza,colosso artisan philly steak pizza,13,g,35,mg,480,g,25,g,15,g,7,g,0,g,3,g,5,g
+804,vocelli pizza,blue cheese salad dressing,24,g,25,mg,330,g,2,g,2,g,4.5,g,0,g,0,g,2,g
+805,vocelli pizza,balsamic vinaigrette,17,g,0,mg,330,g,3,g,0,g,2.5,g,0,g,0,g,3,g
+806,vocelli pizza,caesar salad dressing,23,g,0,mg,390,g,2,g,1,g,3.5,g,0,g,0,g,1,g
+807,vocelli pizza,greek salad dressing,24,g,0,mg,190,g,1,g,0,g,3.5,g,0,g,0,g,1,g
+808,vocelli pizza,golden italian salad dressing,15,g,0,mg,380,g,4,g,0,g,2.5,g,0,g,0,g,3,g
+809,vocelli pizza,fat free italian dressing,0,g,0,mg,700,g,5,g,0,g,0,g,0,g,1,g,3,g
+810,vocelli pizza,ranch salad dressing,21,g,15,mg,280,g,2,g,1,g,3,g,0,g,0,g,1,g
+811,vocelli pizza,tuscan grilled chicken salad regular without dressing,13,g,75,mg,940,g,22,g,30,g,6,g,0,g,5,g,9,g
+812,vocelli pizza,mediterranean salad regular without dressing,11,g,30,mg,2030,g,22,g,14,g,6,g,0,g,6,g,7,g
+813,vocelli pizza,chicken caesar salad with caesar dressing regular,27,g,50,mg,1040,g,16,g,23,g,4,g,0,g,3,g,5,g
+814,vocelli pizza,spinach salad regular without dressing,17,g,45,mg,1220,g,19,g,20,g,8,g,0,g,4,g,5,g
+815,vocelli pizza,garden della casa salad regular without dressing,10,g,20,mg,470,g,21,g,11,g,5,g,0,g,6,g,7,g
+816,vocelli pizza,chicken caesar salad side without dressing,2.5,g,25,mg,380,g,10,g,12,g,0,g,0,g,2,g,3,g
+817,vocelli pizza,italian sub bread,1.5,g,0,mg,750,g,79,g,13,g,0,g,0,g,3,g,3,g
+818,vocelli pizza,ciabatta sub bread,1.5,g,0,mg,630,g,67,g,12,g,0,g,0,g,2,g,0.5,g
+819,vocelli pizza,wheat sub bread,2,g,0,mg,870,g,79,g,13,g,0,g,0,g,5,g,6,g
+820,vocelli pizza,pepperoni stromboli with marinara side sauce,57,g,125,mg,3190,g,149,g,59,g,26,g,0,g,11,g,31,g
+821,vocelli pizza,steak stromboli with marinara side sauce,48,g,140,mg,2870,g,156,g,73,g,21,g,0,g,12,g,33,g
+822,vocelli pizza,chicken parmesan sub on ciabatta,39,g,115,mg,2160,g,93,g,53,g,17,g,0,g,7,g,6,g
+823,vocelli pizza,spicy italiano stromboli with marinara side sauce,56,g,165,mg,5510,g,156,g,78,g,24,g,0,g,12,g,35,g
+824,vocelli pizza,turkey bacon cheddar sub on wheat,38,g,135,mg,2830,g,89,g,65,g,18,g,0,g,8,g,9,g
+825,vocelli pizza,steak sub on ciabatta,51,g,140,mg,1850,g,80,g,54,g,22,g,0,g,7,g,4,g
+826,vocelli pizza,turkey sub on ciabatta,29,g,110,mg,2400,g,78,g,59,g,14,g,0,g,6,g,3,g
+827,vocelli pizza,chicken florentine sub on italian,33,g,130,mg,2110,g,89,g,59,g,15,g,0,g,8,g,6,g
+828,vocelli pizza,vegetarian sub on ciabatta,42,g,65,mg,1680,g,81,g,34,g,17,g,0,g,9,g,5,g
+829,vocelli pizza,chicken sub on ciabatta,30,g,130,mg,1890,g,77,g,56,g,14,g,0,g,6,g,4,g
+830,vocelli pizza,italiano sub on italian,45,g,145,mg,3380,g,92,g,56,g,21,g,0,g,7,g,10,g
+831,vocelli pizza,club sub on ciabatta,36,g,120,mg,2520,g,78,g,57,g,17,g,0,g,6,g,4,g
+832,vocelli pizza,meatball sub on ciabatta,55,g,200,mg,2760,g,91,g,66,g,26,g,1.5,g,9,g,7,g
+833,vocelli pizza,ham sub on ciabatta,32,g,120,mg,2560,g,80,g,51,g,15,g,0,g,6,g,7,g
+834,vocelli pizza,buffalo chicken sub on ciabatta,39,g,155,mg,3430,g,74,g,63,g,15,g,0,g,5,g,3,g
+835,vocelli pizza,chicken florentine sub on ciabatta,33,g,130,mg,190,g,77,g,58,g,15,g,0,g,7,g,4,g
+836,vocelli pizza,buffalo chicken sub on italian,39,g,155,mg,3550,g,86,g,64,g,15,g,0,g,6,g,6,g
+837,vocelli pizza,chicken sub on italian,30,g,130,mg,2010,g,89,g,57,g,14,g,0,g,7,g,7,g
+838,vocelli pizza,turkey bacon cheddar sub on ciabatta,37,g,135,mg,2590,g,77,g,64,g,18,g,0,g,5,g,4,g
+839,vocelli pizza,meatball sub on italian,55,g,200,mg,2880,g,103,g,67,g,26,g,1.5,g,10,g,9,g
+840,vocelli pizza,steak sub on wheat,52,g,140,mg,2090,g,92,g,55,g,22,g,0,g,10,g,10,g
+841,vocelli pizza,turkey sub on wheat,30,g,110,mg,2640,g,90,g,60,g,14,g,0,g,9,g,8,g
+842,vocelli pizza,chicken sub on wheat,31,g,130,mg,2130,g,89,g,57,g,14,g,0,g,9,g,10,g
+843,vocelli pizza,steak sub on italian,51,g,140,mg,1970,g,92,g,55,g,22,g,0,g,8,g,7,g
+844,vocelli pizza,italiano sub on wheat,46,g,145,mg,3500,g,92,g,56,g,21,g,0,g,9,g,13,g
+845,vocelli pizza,italiano sub on ciabatta,45,g,145,mg,3260,g,80,g,55,g,21,g,0,g,6,g,7,g
+846,vocelli pizza,ham sub on italian,32,g,120,mg,2680,g,92,g,52,g,15,g,0,g,7,g,9,g
+847,vocelli pizza,turkey bacon cheddar sub on italian,37,g,135,mg,2710,g,89,g,65,g,18,g,0,g,6,g,6,g
+848,vocelli pizza,turkey sub on italian,29,g,110,mg,2520,g,90,g,60,g,14,g,0,g,7,g,5,g
+849,vocelli pizza,chicken parmesan sub on wheat,40,g,115,mg,2400,g,105,g,54,g,17,g,0,g,10,g,11,g
+850,vocelli pizza,vegetarian sub on wheat,42,g,65,mg,1920,g,93,g,35,g,17,g,0,g,12,g,11,g
+851,vocelli pizza,vegetarian sub on italian,42,g,65,mg,1800,g,93,g,35,g,17,g,0,g,10,g,8,g
+852,vocelli pizza,club sub on italian,36,g,120,mg,2640,g,90,g,58,g,17,g,0,g,7,g,7,g
+853,vocelli pizza,meatball sub on wheat,56,g,200,mg,3000,g,103,g,67,g,26,g,1.5,g,12,g,12,g
+854,vocelli pizza,ham sub on wheat,32,g,120,mg,2800,g,92,g,52,g,15,g,0,g,9,g,12,g
+855,vocelli pizza,club sub on wheat,37,g,120,mg,2760,g,90,g,58,g,17,g,0,g,9,g,10,g
+856,vocelli pizza,chicken parmesan sub on italian,39,g,115,mg,2280,g,105,g,54,g,17,g,0,g,8,g,8,g
+857,vocelli pizza,buffalo chicken sub on wheat,39,g,155,mg,3670,g,86,g,64,g,15,g,0,g,8,g,9,g
+858,vocelli pizza,chicken florentine sub on wheat,33,g,130,mg,2230,g,89,g,59,g,15,g,0,g,10,g,9,g
+859,vocelli pizza,marinara dipping sauce,2,g,0,mg,240,g,6,g,1,g,0,g,0,g,1,g,5,g
+860,vocelli pizza,alfredo sauce for small artisan pizzas,1.5,g,5,mg,35,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+861,vocelli pizza,garlic dipping sauce,33,g,0,mg,310,g,0,g,0,g,6,g,1,g,0,g,0,g
+862,vocelli pizza,mango habanero dipping sauce,0,g,0,mg,340,g,24,g,0,g,0,g,0,g,0,g,16,g
+863,vocelli pizza,pesto sauce for small artisan pizzas,1.5,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+864,vocelli pizza,pizza sauce for small artisan pizzas,0,g,0,mg,120,g,2,g,0,g,0,g,0,g,0,g,0.5,g
+865,vocelli pizza,hot bbq dipping sauce,0.5,g,0,mg,580,g,38,g,0,g,0,g,0,g,0.5,g,32,g
+866,vocelli pizza,ranch dressing for small artisan pizzas,2.5,g,5,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+867,vocelli pizza,bbq dipping sauce,0,g,0,mg,580,g,36,g,0,g,0,g,0,g,0,g,32,g
+868,vocelli pizza,garlic sauce for small artisan pizzas,2,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+869,vocelli pizza,ranch dipping sauce,28,g,20,mg,370,g,3,g,1,g,4,g,0,g,0,g,2,g
+870,vocelli pizza,garlic romano dipping sauce,34,g,5,mg,360,g,0,g,1,g,7,g,1,g,0,g,0,g
+871,vocelli pizza,buffalo sauce for small artisan pizzas,0,g,95,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+872,vocelli pizza,hot vesuvius buffalo dipping sauce,2.5,g,0,mg,1160,g,2,g,0,g,0,g,0,g,0.5,g,0,g
+873,vocelli pizza,buffalo dipping sauce,2,g,0,mg,1160,g,0,g,0,g,0,g,0,g,0,g,0,g
+874,vocelli pizza,bbq sauce for small artisan pizzas,0,g,0,mg,60,g,4,g,0,g,0,g,0,g,0,g,3,g
+875,vocelli pizza,blue cheese dipping sauce,32,g,30,mg,440,g,3,g,2,g,6,g,0,g,0,g,3,g
+876,vocelli pizza,honey mustard dipping sauce,20,g,20,mg,200,g,6,g,1,g,3,g,0,g,0,g,6,g
+877,vocelli pizza,pizza dipping sauce,0,g,0,mg,480,g,6,g,1,g,0,g,0,g,1,g,3,g
+878,vocelli pizza,mediterranean salad side without dressing,6,g,15,mg,1070,g,14,g,8,g,3,g,0,g,3,g,4,g
+879,vocelli pizza,spinach salad side without dressing,9,g,20,mg,670,g,12,g,11,g,4,g,0,g,2,g,2,g
+880,vocelli pizza,tuscan grilled chicken salad side without dressing,7,g,40,mg,520,g,14,g,16,g,3,g,0,g,3,g,5,g
+881,vocelli pizza,garden della casa salad side without dressing,6,g,10,mg,290,g,14,g,6,g,2.5,g,0,g,6,g,4,g
+882,vocelli pizza,pepperoni for small artisan pizza,2,g,5,mg,70,g,0,g,0.5,g,1,g,0,g,0,g,0,g
+883,vocelli pizza,anchovies for small artisan pizza,0.5,g,5,mg,250,g,0,g,1,g,0,g,0,g,0,g,0,g
+884,vocelli pizza,chicken breast for small artisan pizza,0.5,g,5,mg,65,g,0,g,3,g,0,g,0,g,0,g,0,g
+885,vocelli pizza,italian sausage for small artisan pizza,2,g,5,mg,60,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+886,vocelli pizza,meatballs for small artisan pizza,1,g,5,mg,45,g,0.5,g,1,g,0,g,0,g,0,g,0,g
+887,vocelli pizza,bacon for small artisan pizza,2,g,5,mg,70,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+888,vocelli pizza,genoa salami for small pizzas,0.5,g,0,mg,35,g,0,g,0.5,g,0,g,0,g,0,g,0,g
+889,vocelli pizza,capicola for small artisan pizza,0.5,g,5,mg,105,g,0,g,1,g,0,g,0,g,0,g,0,g
+890,vocelli pizza,ham for small artisan pizza,0,g,5,mg,55,g,0,g,1,g,0,g,0,g,0,g,0,g
+891,vocelli pizza,beef for small artisan pizza,1,g,5,mg,90,g,0.5,g,1,g,0,g,0,g,0,g,0,g
+892,vocelli pizza,bone in wings bbq,76,g,270,mg,2270,g,45,g,80,g,20,g,0,g,0,g,32,g
+893,vocelli pizza,bone in wings bbq party tray,379,g,1340,mg,11370,g,225,g,401,g,100,g,0,g,0,g,160,g
+894,vocelli pizza,bone in wings buffalo,78,g,270,mg,2850,g,9,g,80,g,20,g,0,g,0,g,0,g
+895,vocelli pizza,bone in wings buffalo party tray,389,g,1340,mg,14270,g,45,g,401,g,100,g,0,g,0,g,0,g
+896,vocelli pizza,bone in wings garlic,128,g,270,mg,2250,g,11,g,80,g,29,g,0,g,1,g,0,g
+897,vocelli pizza,bone in wings garlic party tray,639,g,1340,mg,11270,g,55,g,401,g,145,g,0,g,5,g,0,g
+898,vocelli pizza,bone in wings garlic romano,129,g,275,mg,2330,g,11,g,82,g,30,g,0,g,1,g,0,g
+899,vocelli pizza,bone in wings garlic romano party tray,646,g,1365,mg,11630,g,55,g,409,g,150,g,0,g,5,g,0,g
+900,vocelli pizza,bone in wings hot bbq,76,g,270,mg,2280,g,47,g,81,g,20,g,0,g,1,g,32,g
+901,vocelli pizza,bone in wings hot bbq party tray,382,g,1340,mg,11380,g,235,g,404,g,101,g,0,g,5,g,162,g
+902,vocelli pizza,bone in wings hot vesuvius buffalo,78,g,270,mg,2860,g,11,g,81,g,20,g,0,g,1,g,0,g
+903,vocelli pizza,bone in wings hot vesuvius buffalo party tray,392,g,1340,mg,14280,g,55,g,404,g,101,g,0,g,5,g,2,g
+904,vocelli pizza,bone in wings mango habanero,76,g,270,mg,2030,g,33,g,80,g,20,g,0,g,0,g,16,g
+905,vocelli pizza,bone in wings mango habanero party tray,379,g,1340,mg,10170,g,165,g,401,g,100,g,0,g,0,g,80,g
+906,vocelli pizza,boneless wings bbq,24,g,135,mg,2470,g,77,g,57,g,3.5,g,0,g,3,g,32,g
+907,vocelli pizza,boneless wings bbq party tray,118,g,675,mg,12350,g,383,g,287,g,17,g,0,g,17,g,160,g
+908,vocelli pizza,boneless wings buffalo,26,g,135,mg,3050,g,41,g,57,g,3.5,g,0,g,3,g,0,g
+909,vocelli pizza,boneless wings buffalo party tray,128,g,675,mg,15250,g,203,g,287,g,17,g,0,g,17,g,0,g
+910,vocelli pizza,boneless wings garlic,76,g,135,mg,2450,g,43,g,57,g,12,g,0,g,4,g,0,g
+911,vocelli pizza,boneless wings garlic party tray,378,g,675,mg,12250,g,213,g,287,g,62,g,0,g,22,g,0,g
+912,vocelli pizza,boneless wings garlic romano,77,g,140,mg,2520,g,43,g,59,g,13,g,0,g,4,g,0,g
+913,vocelli pizza,boneless wings garlic romano party tray,385,g,700,mg,12610,g,213,g,295,g,66,g,0,g,22,g,0,g
+914,vocelli pizza,boneless wings hot bbq,24,g,135,mg,2470,g,79,g,58,g,3.5,g,0,g,4,g,32,g
+915,vocelli pizza,boneless wings hot bbq party tray,121,g,675,mg,12360,g,393,g,289,g,17,g,0,g,22,g,162,g
+916,vocelli pizza,boneless wings hot vesuvius buffalo,26,g,135,mg,3050,g,43,g,58,g,3.5,g,0,g,4,g,0,g
+917,vocelli pizza,boneless wings hot vesuvius buffalo party tray,131,g,675,mg,15260,g,213,g,289,g,17,g,0,g,22,g,2,g
+918,vocelli pizza,boneless wings mango habanero,24,g,135,mg,2230,g,65,g,57,g,3.5,g,0,g,3,g,16,g
+919,vocelli pizza,boneless wings mango habanero party tray,118,g,675,mg,11150,g,323,g,287,g,17,g,0,g,17,g,80,g
+920,vocelli pizza,breadstick bites,10,g,5,mg,1530,g,137,g,30,g,1,g,0,g,7,g,26,g
+921,vocelli pizza,breadstick bites party tray,30,g,10,mg,5070,g,416,g,92,g,3.5,g,0,g,21,g,80,g
+922,vocelli pizza,breadsticks,10,g,5,mg,1530,g,137,g,30,g,1,g,0,g,7,g,26,g
+923,vocelli pizza,breadsticks party tray,30,g,10,mg,5070,g,416,g,92,g,3.5,g,0,g,21,g,80,g
+924,vocelli pizza,bruschetta,31,g,65,mg,1620,g,137,g,48,g,15,g,0,g,10,g,25,g
+925,vocelli pizza,buffalo chicken sub on ciabatta,39,g,155,mg,3430,g,74,g,63,g,15,g,0,g,5,g,3,g
+926,vocelli pizza,buffalo chicken sub on italian,39,g,155,mg,3550,g,86,g,64,g,15,g,0,g,6,g,6,g
+927,vocelli pizza,buffalo chicken sub on wheat,39,g,155,mg,3670,g,86,g,64,g,15,g,0,g,8,g,9,g
+928,vocelli pizza,build your own 3 topping stromboli,33,g,65,mg,2340,g,149,g,50,g,15,g,0,g,11,g,31,g
+929,vocelli pizza,cannoli,7,g,15,mg,35,g,17,g,4,g,3,g,0,g,0,g,12,g
+930,vocelli pizza,cauliflower crust bbq chicken pizza slice,15,g,40,mg,750,g,33,g,15,g,8,g,0,g,2,g,14,g
+931,vocelli pizza,cauliflower crust chicken carbonara pizza slice,18,g,45,mg,680,g,21,g,16,g,9,g,0,g,3,g,3,g
+932,vocelli pizza,cauliflower crust chicken pesto pizza slice,16,g,35,mg,670,g,21,g,15,g,7,g,0,g,3,g,2,g
+933,vocelli pizza,cauliflower crust chicken spinaci pizza slice,14,g,35,mg,510,g,22,g,14,g,7,g,0,g,3,g,3,g
+934,vocelli pizza,cauliflower crust deluxe pizza slice,17,g,35,mg,770,g,23,g,12,g,9,g,0,g,4,g,3,g
+935,vocelli pizza,cauliflower crust garlic spinaci pizza white slice,14,g,20,mg,430,g,21,g,10,g,7,g,0,g,3,g,3,g
+936,vocelli pizza,cauliflower crust hawaiian pizza slice,17,g,40,mg,800,g,24,g,15,g,10,g,0,g,4,g,5,g
+937,vocelli pizza,cauliflower crust macncheese pizza slice,18,g,40,mg,660,g,25,g,14,g,10,g,0,g,2,g,3,g
+938,vocelli pizza,cauliflower crust meat magnifico pizza slice,20,g,50,mg,1040,g,22,g,16,g,10,g,0,g,3,g,3,g
+939,vocelli pizza,cauliflower crust original buffalo chicken pizza slice,17,g,40,mg,740,g,20,g,13,g,7,g,0,g,3,g,2,g
+940,vocelli pizza,cauliflower crust philly steak pizza slice,18,g,40,mg,540,g,22,g,14,g,10,g,0,g,4,g,3,g
+941,vocelli pizza,cauliflower crust quattro cheese pizza slice,16,g,35,mg,660,g,21,g,13,g,10,g,0,g,3,g,3,g
+942,vocelli pizza,cauliflower crust red top pizza slice,16,g,30,mg,670,g,22,g,10,g,8,g,0,g,4,g,3,g
+943,vocelli pizza,cauliflower crust spring veggie pizza slice,11,g,20,mg,580,g,24,g,9,g,6,g,0,g,4,g,4,g
+944,vocelli pizza,cheesesticks,54,g,105,mg,2110,g,139,g,56,g,24,g,0,g,9,g,30,g
+945,vocelli pizza,chicken alfredo pasta with linguini family,228,g,505,mg,7980,g,520,g,178,g,92,g,3.5,g,23,g,59,g
+946,vocelli pizza,chicken alfredo pasta with linguini party,456,g,1015,mg,15950,g,1040,g,357,g,183,g,7,g,45,g,119,g
+947,vocelli pizza,chicken alfredo pasta with linguini single,54,g,130,mg,1990,g,129,g,47,g,21,g,1,g,6,g,15,g
+948,vocelli pizza,chicken alfredo pasta with penne family,228,g,505,mg,7980,g,508,g,178,g,92,g,3.5,g,15,g,43,g
+949,vocelli pizza,chicken alfredo pasta with penne party,456,g,1015,mg,15950,g,1016,g,357,g,183,g,7,g,29,g,87,g
+950,vocelli pizza,chicken alfredo pasta with penne single,54,g,130,mg,1990,g,126,g,47,g,21,g,1,g,4,g,11,g
+951,vocelli pizza,chicken caesar salad family,21,g,130,mg,2290,g,67,g,60,g,5,g,0,g,8,g,13,g
+952,vocelli pizza,chicken caesar salad party,41,g,260,mg,4580,g,134,g,120,g,10,g,0,g,16,g,25,g
+953,vocelli pizza,chicken caesar salad regular,4,g,50,mg,650,g,14,g,22,g,0,g,0,g,3,g,4,g
+954,vocelli pizza,chicken caesar salad side,2.5,g,25,mg,380,g,10,g,12,g,0,g,0,g,2,g,3,g
+955,vocelli pizza,chicken florentine sub on ciabatta,33,g,130,mg,1990,g,77,g,58,g,15,g,0,g,7,g,4,g
+956,vocelli pizza,chicken florentine sub on italian,33,g,130,mg,2110,g,89,g,59,g,15,g,0,g,8,g,6,g
+957,vocelli pizza,chicken florentine sub on wheat,33,g,130,mg,2230,g,89,g,59,g,15,g,0,g,10,g,9,g
+958,vocelli pizza,chicken parmesan pasta with linguini family,107,g,155,mg,6920,g,582,g,150,g,21,g,0,g,40,g,95,g
+959,vocelli pizza,chicken parmesan pasta with linguini party,214,g,310,mg,13840,g,1163,g,299,g,42,g,0,g,79,g,190,g
+960,vocelli pizza,chicken parmesan pasta with linguini single,26,g,40,mg,1670,g,144,g,37,g,5,g,0,g,10,g,23,g
+961,vocelli pizza,chicken parmesan pasta with penne family,107,g,155,mg,6920,g,570,g,150,g,21,g,0,g,32,g,79,g
+962,vocelli pizza,chicken parmesan pasta with penne party,214,g,310,mg,13840,g,1139,g,299,g,42,g,0,g,63,g,158,g
+963,vocelli pizza,chicken parmesan pasta with penne single,26,g,40,mg,1670,g,141,g,37,g,5,g,0,g,8,g,19,g
+964,vocelli pizza,chicken parmesan sub on ciabatta,39,g,115,mg,2160,g,93,g,53,g,17,g,0,g,7,g,6,g
+965,vocelli pizza,chicken parmesan sub on italian,39,g,115,mg,2280,g,105,g,54,g,17,g,0,g,8,g,8,g
+966,vocelli pizza,chicken parmesan sub on wheat,40,g,115,mg,2400,g,105,g,54,g,17,g,0,g,10,g,11,g
+967,vocelli pizza,chicken pesto pasta with linguini family,248,g,445,mg,8100,g,514,g,184,g,78,g,2.5,g,27,g,51,g
+968,vocelli pizza,chicken pesto pasta with linguini party,496,g,895,mg,16190,g,1028,g,369,g,155,g,4.5,g,53,g,103,g
+969,vocelli pizza,chicken pesto pasta with linguini single,57,g,120,mg,2010,g,128,g,48,g,19,g,0.5,g,6,g,13,g
+970,vocelli pizza,chicken pesto pasta with penne family,248,g,445,mg,8100,g,502,g,184,g,78,g,2.5,g,19,g,35,g
+971,vocelli pizza,chicken pesto pasta with penne party,496,g,895,mg,16190,g,1004,g,369,g,155,g,4.5,g,37,g,71,g
+972,vocelli pizza,chicken pesto pasta with penne single,153,g,295,mg,5140,g,226,g,88,g,59,g,2,g,8,g,24,g
+973,vocelli pizza,chicken sub on ciabatta,30,g,130,mg,1890,g,77,g,56,g,14,g,0,g,6,g,4,g
+974,vocelli pizza,chicken sub on italian,30,g,130,mg,2010,g,89,g,57,g,14,g,0,g,7,g,7,g
+975,vocelli pizza,chicken sub on wheat,31,g,130,mg,2130,g,89,g,57,g,14,g,0,g,9,g,10,g
+976,vocelli pizza,chicken tenders,28,g,100,mg,1340,g,34,g,42,g,5,g,0,g,2,g,0,g
+977,vocelli pizza,chicken tenders party tray,245,g,875,mg,11730,g,298,g,368,g,44,g,0,g,18,g,0,g
+978,vocelli pizza,chocolate cake,14,g,35,mg,250,g,46,g,4,g,4.5,g,0,g,0,g,37,g
+979,vocelli pizza,chocolate cake party tray,196,g,490,mg,3500,g,644,g,56,g,63,g,0,g,0,g,518,g
+980,vocelli pizza,chocolate chip cookie,6,g,10,mg,75,g,17,g,2,g,3,g,0,g,1,g,10,g
+981,vocelli pizza,chocolate chip cookies party tray,216,g,360,mg,2700,g,612,g,72,g,108,g,0,g,36,g,360,g
+982,vocelli pizza,cinnamon sugar breadsticks,20,g,0,mg,1030,g,290,g,28,g,2.5,g,0,g,6,g,175,g
+983,vocelli pizza,cinnamon sugar breadsticks catering tray,60,g,0,mg,3080,g,869,g,85,g,8,g,0,g,19,g,525,g
+984,vocelli pizza,club sub on ciabatta,36,g,120,mg,2520,g,78,g,57,g,17,g,0,g,6,g,4,g
+985,vocelli pizza,club sub on italian,36,g,120,mg,2640,g,90,g,58,g,17,g,0,g,7,g,7,g
+986,vocelli pizza,club sub on wheat,37,g,120,mg,2760,g,90,g,58,g,17,g,0,g,9,g,10,g
+987,vocelli pizza,colosso bbq chicken pizza slice,10,g,35,mg,660,g,35,g,15,g,5,g,0,g,1,g,15,g
+988,vocelli pizza,colosso chicken carbonara pizza slice,12,g,35,mg,560,g,24,g,16,g,6,g,0,g,2,g,5,g
+989,vocelli pizza,colosso chicken pesto pizza slice,10,g,25,mg,540,g,24,g,14,g,4.5,g,0,g,2,g,4,g
+990,vocelli pizza,colosso chicken spinaci pizza slice,9,g,25,mg,440,g,25,g,14,g,4,g,0,g,2,g,5,g
+991,vocelli pizza,colosso crust slice,1,g,0,mg,160,g,22,g,5,g,0,g,0,g,1,g,4,g
+992,vocelli pizza,colosso deluxe pizza slice,12,g,25,mg,650,g,27,g,12,g,5,g,0,g,3,g,5,g
+993,vocelli pizza,colosso garlic spinaci pizza white slice,10,g,20,mg,390,g,25,g,11,g,4.5,g,0,g,2,g,5,g
+994,vocelli pizza,colosso hawaiian pizza slice,12,g,35,mg,700,g,27,g,16,g,7,g,0,g,3,g,7,g
+995,vocelli pizza,colosso macncheese pizza slice,13,g,30,mg,590,g,28,g,14,g,7,g,0,g,1,g,5,g
+996,vocelli pizza,colosso meat magnifico pizza slice,14,g,40,mg,890,g,26,g,16,g,6,g,0,g,2,g,5,g
+997,vocelli pizza,colosso original buffalo chicken pizza slice,10,g,25,mg,540,g,23,g,13,g,4,g,0,g,2,g,4,g
+998,vocelli pizza,colosso philly steak pizza slice,13,g,35,mg,480,g,25,g,15,g,7,g,0,g,3,g,5,g
+999,vocelli pizza,colosso quattro cheese pizza slice,11,g,30,mg,590,g,25,g,14,g,7,g,0,g,2,g,5,g

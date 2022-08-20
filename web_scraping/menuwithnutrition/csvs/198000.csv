@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,wahlburgers,moms sloppy joe with grilled gluten free white bread,44,g,100,mg,1130,g,38,g,21,g,16,g,0,g,2,g,13,g
+1,wahlburgers,moms sloppy joe with grilled white bread,43,g,100,mg,1220,g,50,g,24,g,16,g,0,g,2,g,15,g
+2,wahlburgers,mud pie adult frappe,44,g,155,mg,470,g,129,g,11,g,25,g,2,g,1,g,97,g
+3,wahlburgers,murphy goode pinot noir,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+4,wahlburgers,odouls na,0,g,0,mg,0,g,13,g,1,g,0,g,0,g,0,g,0,g
+5,wahlburgers,o f d burger,41,g,175,mg,1310,g,5,g,50,g,17,g,0,g,0,g,3,g
+6,wahlburgers,o f d burger with toasted bun,53,g,185,mg,1720,g,38,g,56,g,21,g,0,g,1,g,7,g
+7,wahlburgers,o f d burger with toasted gluten free bun,54,g,175,mg,1800,g,44,g,56,g,18,g,0,g,5,g,9,g
+8,wahlburgers,our burger wahlbowl,40,g,110,mg,1370,g,9,g,31,g,12,g,0,g,3,g,5,g
+9,wahlburgers,panko crusted fried pickles,16,g,150,mg,420,g,79,g,16,g,3,g,0,g,4,g,5,g
+10,wahlburgers,panko crusted fried pickles with buttermilk ranch dressing,52,g,165,mg,780,g,80,g,17,g,9,g,0,g,4,g,6,g
+11,wahlburgers,panko crusted fried pickles with wahl sauce,31,g,155,mg,830,g,88,g,16,g,6,g,0,g,4,g,12,g
+12,wahlburgers,portobello salad,14,g,0,mg,1280,g,9,g,4,g,1,g,0,g,2,g,3,g
+13,wahlburgers,portobello sandwich,14,g,0,mg,1280,g,9,g,4,g,1,g,0,g,2,g,3,g
+14,wahlburgers,portobello sandwich with toasted bun,26,g,10,mg,1700,g,42,g,10,g,5,g,0,g,3,g,7,g
+15,wahlburgers,portobello sandwich with toasted gluten free bun,27,g,0,mg,1780,g,48,g,10,g,2,g,0,g,7,g,9,g
+16,wahlburgers,pulled pork sangy,38,g,95,mg,1680,g,56,g,31,g,11,g,0,g,4,g,18,g
+17,wahlburgers,pulled pork sliders,43,g,95,mg,1260,g,52,g,29,g,14,g,0,g,2,g,14,g
+18,wahlburgers,redbridge,0,g,0,mg,0,g,16,g,0,g,0,g,0,g,0,g,0,g
+19,wahlburgers,rodney strong chardonnay,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,2,g
+20,wahlburgers,root beer float,29,g,110,mg,160,g,72,g,7,g,19,g,0,g,0,g,72,g
+21,wahlburgers,smores adult frappe,53,g,185,mg,360,g,141,g,15,g,34,g,0,g,4,g,110,g
+22,wahlburgers,sam adams boston lager 14 fl oz,0,g,0,mg,0,g,22,g,2,g,0,g,0,g,0,g,1,g
+23,wahlburgers,sam adams boston lager 16 fl oz,0,g,0,mg,0,g,25,g,3,g,0,g,0,g,0,g,1,g
+24,wahlburgers,sam adams boston lager 20 fl oz,0,g,0,mg,0,g,31,g,3,g,0,g,0,g,0,g,2,g
+25,wahlburgers,sam adams boston lager 21 fl oz,0,g,0,mg,0,g,33,g,4,g,0,g,0,g,0,g,2,g
+26,wahlburgers,sam adams boston lager 32 fl oz,0,g,0,mg,0,g,50,g,5,g,0,g,0,g,0,g,3,g
+27,wahlburgers,sam adams seasonal 14 fl oz,0,g,0,mg,0,g,15,g,0,g,0,g,0,g,0,g,0,g
+28,wahlburgers,sam adams seasonal 16 fl oz,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,0,g
+29,wahlburgers,sam adams seasonal 20 fl oz,0,g,0,mg,0,g,22,g,0,g,0,g,0,g,0,g,0,g
+30,wahlburgers,sam adams seasonal 21 fl oz,0,g,0,mg,0,g,23,g,0,g,0,g,0,g,0,g,0,g
+31,wahlburgers,sam adams seasonal 32 fl oz,0,g,0,mg,0,g,35,g,0,g,0,g,0,g,0,g,0,g
+32,wahlburgers,sam adams 14 fl oz,0,g,0,mg,0,g,22,g,2,g,0,g,0,g,0,g,1,g
+33,wahlburgers,sam adams 16 fl oz,0,g,0,mg,0,g,25,g,3,g,0,g,0,g,0,g,1,g
+34,wahlburgers,sam adams 20 fl oz,0,g,0,mg,0,g,31,g,3,g,0,g,0,g,0,g,2,g
+35,wahlburgers,sam adams 21 fl oz,0,g,0,mg,0,g,33,g,4,g,0,g,0,g,0,g,2,g
+36,wahlburgers,sam adams 32 fl oz,0,g,0,mg,0,g,50,g,5,g,0,g,0,g,0,g,3,g
+37,wahlburgers,sloppy chips,59,g,150,mg,1330,g,54,g,28,g,27,g,0,g,4,g,10,g
+38,wahlburgers,sloppy joe sliders,70,g,175,mg,2000,g,70,g,30,g,32,g,0,g,3,g,16,g
+39,wahlburgers,smoked bacon arugula salad,36,g,15,mg,380,g,10,g,9,g,6,g,0,g,3,g,6,g
+40,wahlburgers,smoked bacon arugula salad with beef,54,g,105,mg,450,g,10,g,34,g,13,g,0,g,3,g,6,g
+41,wahlburgers,smoked bacon arugula salad with fried haddock file,41,g,115,mg,520,g,26,g,34,g,7,g,0,g,4,g,6,g
+42,wahlburgers,smoked bacon arugula salad with grilled chicken,40,g,100,mg,1290,g,10,g,42,g,7,g,0,g,3,g,6,g
+43,wahlburgers,smoked bacon arugula salad with turkey,44,g,95,mg,460,g,10,g,30,g,9,g,0,g,3,g,6,g
+44,wahlburgers,smoked bacon mac n cheese,46,g,140,mg,740,g,93,g,23,g,27,g,0,g,4,g,6,g
+45,wahlburgers,smoked bacon mac n cheese with beef,63,g,230,mg,810,g,93,g,48,g,33,g,0,g,4,g,6,g
+46,wahlburgers,smoked bacon mac n cheese with fried haddock file,50,g,235,mg,880,g,110,g,48,g,27,g,0,g,5,g,7,g
+47,wahlburgers,smoked bacon mac n cheese with grilled chicken,49,g,220,mg,1650,g,94,g,56,g,27,g,0,g,5,g,6,g
+48,wahlburgers,smoked bacon mac n cheese with pulled pork,59,g,195,mg,840,g,94,g,38,g,30,g,0,g,5,g,6,g
+49,wahlburgers,smoked bacon mac n cheese with turkey,54,g,220,mg,820,g,93,g,44,g,29,g,0,g,4,g,6,g
+50,wahlburgers,south of the border poutine,113,g,210,mg,3940,g,79,g,35,g,39,g,0,g,6,g,21,g
+51,wahlburgers,spiced orchard sangria,0,g,0,mg,5,g,17,g,0,g,0,g,0,g,1,g,12,g
+52,wahlburgers,spicy cheese and bacon tots,87,g,145,mg,2950,g,59,g,26,g,34,g,0,g,5,g,9,g
+53,wahlburgers,spicy queso roasted corn dip,71,g,235,mg,1430,g,35,g,19,g,43,g,0,g,3,g,5,g
+54,wahlburgers,sprite 12 fl oz,0,g,0,mg,20,g,23,g,0,g,0,g,0,g,0,g,23,g
+55,wahlburgers,sprite 16 fl oz,0,g,0,mg,25,g,31,g,0,g,0,g,0,g,0,g,31,g
+56,wahlburgers,sprite 22 fl oz,0,g,0,mg,35,g,43,g,0,g,0,g,0,g,0,g,43,g
+57,wahlburgers,sriracha buffalo chicken tenders,52,g,370,mg,1640,g,9,g,106,g,16,g,0,g,1,g,8,g
+58,wahlburgers,sriracha buffalo chicken wings,69,g,210,mg,2610,g,9,g,53,g,25,g,0,g,1,g,8,g
+59,wahlburgers,stella artois,0,g,0,mg,15,g,12,g,0,g,0,g,0,g,0,g,0,g
+60,wahlburgers,stella artois 14 fl oz,0,g,0,mg,20,g,14,g,0,g,0,g,0,g,0,g,0,g
+61,wahlburgers,stella artois 16 fl oz,0,g,0,mg,25,g,15,g,0,g,0,g,0,g,0,g,0,g
+62,wahlburgers,stella artois 20 fl oz,0,g,0,mg,30,g,19,g,0,g,0,g,0,g,0,g,0,g
+63,wahlburgers,stella artois 21 fl oz,0,g,0,mg,30,g,20,g,0,g,0,g,0,g,0,g,0,g
+64,wahlburgers,stella artois 32 fl oz,0,g,0,mg,45,g,31,g,0,g,0,g,0,g,0,g,0,g
+65,wahlburgers,strawberry frappe,43,g,165,mg,220,g,59,g,14,g,27,g,0,g,1,g,58,g
+66,wahlburgers,strawberry frappe with malt powder,45,g,170,mg,360,g,80,g,17,g,29,g,0,g,1,g,71,g
+67,wahlburgers,strawberry ice cream,13,g,50,mg,50,g,17,g,3,g,8,g,0,g,0,g,17,g
+68,wahlburgers,sweet and spicy cranberry glazed chicken tenders,30,g,315,mg,720,g,38,g,100,g,3,g,0,g,2,g,33,g
+69,wahlburgers,sweet and spicy cranberry glazed chicken wings,46,g,150,mg,1680,g,38,g,47,g,11,g,0,g,2,g,33,g
+70,wahlburgers,sweet potato tots,10,g,0,mg,880,g,46,g,2,g,0,g,0,g,4,g,16,g
+71,wahlburgers,tater tots,19,g,0,mg,1140,g,38,g,4,g,4,g,0,g,4,g,0,g
+72,wahlburgers,thanksgiving turkey burger,21,g,90,mg,400,g,15,g,22,g,5,g,0,g,1,g,9,g
+73,wahlburgers,thanksgiving turkey burger with toasted bun,33,g,100,mg,820,g,48,g,28,g,9,g,0,g,2,g,13,g
+74,wahlburgers,thanksgiving turkey burger with toasted gluten fr,34,g,90,mg,900,g,54,g,28,g,6,g,0,g,6,g,15,g
+75,wahlburgers,the beast burger,54,g,230,mg,2340,g,11,g,64,g,19,g,0,g,1,g,9,g
+76,wahlburgers,the beast burger with toasted bun,66,g,240,mg,2760,g,44,g,70,g,24,g,0,g,2,g,13,g
+77,wahlburgers,the beast burger with toasted gluten free bun,67,g,230,mg,2840,g,50,g,70,g,21,g,0,g,6,g,15,g
+78,wahlburgers,the double decker burger,38,g,140,mg,2340,g,9,g,37,g,16,g,0,g,1,g,6,g
+79,wahlburgers,the double decker burger with toasted bun,50,g,150,mg,2750,g,42,g,43,g,20,g,0,g,2,g,10,g
+80,wahlburgers,the double decker burger with toasted gluten free bun,51,g,140,mg,2830,g,48,g,43,g,17,g,0,g,6,g,12,g
+81,wahlburgers,the fiesta burger,53,g,170,mg,1850,g,3,g,45,g,17,g,0,g,1,g,2,g
+82,wahlburgers,the fiesta burger with toasted bun,65,g,180,mg,2260,g,36,g,51,g,22,g,0,g,2,g,6,g
+83,wahlburgers,the fiesta burger with toasted gluten free bun,66,g,170,mg,2340,g,42,g,51,g,19,g,0,g,6,g,8,g
+84,wahlburgers,the impossible burger,33,g,25,mg,990,g,14,g,32,g,19,g,0,g,1,g,5,g
+85,wahlburgers,the impossible burger with toasted bun,45,g,35,mg,1410,g,47,g,38,g,23,g,0,g,2,g,9,g
+86,wahlburgers,the impossible burger with toasted gluten free bun,46,g,25,mg,1490,g,53,g,38,g,20,g,0,g,6,g,11,g
+87,wahlburgers,the melt,50,g,155,mg,2260,g,7,g,40,g,21,g,0,g,1,g,5,g
+88,wahlburgers,the melt with grilled gluten free white bread,63,g,155,mg,2790,g,42,g,46,g,22,g,0,g,3,g,8,g
+89,wahlburgers,the melt with grilled white bread,61,g,155,mg,2970,g,65,g,52,g,22,g,0,g,3,g,13,g
+90,wahlburgers,the our burger,30,g,110,mg,1290,g,8,g,30,g,11,g,0,g,1,g,5,g
+91,wahlburgers,the our burger with toasted bun,42,g,120,mg,1700,g,41,g,36,g,16,g,0,g,2,g,9,g
+92,wahlburgers,the our burger with toasted gluten free bun,43,g,110,mg,1780,g,47,g,36,g,13,g,0,g,6,g,11,g
+93,wahlburgers,the super melt,59,g,200,mg,2300,g,7,g,53,g,25,g,0,g,1,g,5,g
+94,wahlburgers,the triple decker burger,55,g,205,mg,3420,g,10,g,55,g,23,g,0,g,1,g,7,g
+95,wahlburgers,the triple decker burger with toasted bun,67,g,215,mg,3840,g,43,g,61,g,27,g,0,g,2,g,11,g
+96,wahlburgers,the triple decker burger with toasted gluten free bun,68,g,205,mg,3920,g,49,g,61,g,24,g,0,g,6,g,13,g
+97,wahlburgers,thin crispy onion rings,3,g,0,mg,620,g,36,g,4,g,0,g,0,g,2,g,6,g
+98,wahlburgers,vanilla frappe,50,g,190,mg,240,g,64,g,15,g,32,g,0,g,0,g,63,g
+99,wahlburgers,vanilla frappe with malt powder,53,g,195,mg,380,g,84,g,18,g,34,g,0,g,0,g,77,g
+100,wahlburgers,vanilla ice cream,14,g,55,mg,55,g,18,g,3,g,9,g,0,g,0,g,18,g
+101,wahlburgers,wachusett blueberry 14 fl oz,0,g,0,mg,0,g,23,g,1,g,0,g,0,g,0,g,0,g
+102,wahlburgers,wachusett blueberry 16 fl oz,0,g,0,mg,0,g,27,g,2,g,0,g,0,g,0,g,0,g
+103,wahlburgers,wachusett blueberry 20 fl oz,0,g,0,mg,0,g,34,g,2,g,0,g,0,g,0,g,0,g
+104,wahlburgers,wachusett blueberry 21 fl oz,0,g,0,mg,0,g,35,g,2,g,0,g,0,g,0,g,0,g
+105,wahlburgers,wachusett blueberry 32 fl oz,0,g,0,mg,0,g,54,g,3,g,0,g,0,g,0,g,0,g
+106,wahlburgers,wahlbrewski 14 fl oz,0,g,0,mg,0,g,13,g,2,g,0,g,0,g,0,g,0,g
+107,wahlburgers,wahlbrewski 16 fl oz,0,g,0,mg,0,g,15,g,2,g,0,g,0,g,0,g,0,g
+108,wahlburgers,wahlbrewski 20 fl oz,0,g,0,mg,0,g,19,g,3,g,0,g,0,g,0,g,0,g
+109,wahlburgers,wahlbrewski 21 fl oz,0,g,0,mg,0,g,20,g,3,g,0,g,0,g,0,g,0,g
+110,wahlburgers,wahlbrewski 32 fl oz,0,g,0,mg,0,g,31,g,4,g,0,g,0,g,0,g,0,g
+111,wahlburgers,wicked red sangria,0,g,0,mg,10,g,20,g,0,g,0,g,0,g,1,g,15,g
+112,wahlburgers,william hill cabernet sauvignon,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+113,wahlburgers,yuengling,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,0,g,0,g
+114,wards restaurants,bacon,10,g,10,mg,25,g,0,g,9,g,3.5,g,0,g,0,g,0,g
+115,wards restaurants,bacon breakfast biscuit,19,g,20,mg,1290,g,50,g,12,g,5,g,0,g,1,g,14,g
+116,wards restaurants,bacon breakfast wrap,15,g,135,mg,720,g,38,g,17,g,4.5,g,0,g,1,g,0,g
+117,wards restaurants,bacon combo breakfast biscuit,37,g,20,mg,2350,g,158,g,17,g,9,g,0,g,5,g,63,g
+118,wards restaurants,bbq beef,5,g,10,mg,420,g,33,g,9,g,2,g,0,g,1,g,7,g
+119,wards restaurants,big one,29,g,100,mg,1030,g,41,g,34,g,11,g,1,g,3,g,9,g
+120,wards restaurants,big one double,44,g,170,mg,1040,g,37,g,56,g,16,g,2,g,3,g,7,g
+121,wards restaurants,blt,15,g,25,mg,740,g,30,g,12,g,4,g,0,g,1,g,5,g
+122,wards restaurants,budget burger,16,g,40,mg,730,g,37,g,18,g,4.5,g,0,g,2,g,8,g
+123,wards restaurants,butter breakfast biscuit,16,g,0,mg,970,g,50,g,6,g,4,g,0,g,1,g,14,g
+124,wards restaurants,butter combo breakfast biscuit,31,g,0,mg,1980,g,158,g,11,g,7,g,0,g,5,g,63,g
+125,wards restaurants,catfish sandwich,31,g,75,mg,810,g,52,g,22,g,7,g,0,g,2,g,6,g
+126,wards restaurants,chicken breakfast biscuit,20,g,30,mg,1520,g,70,g,21,g,4.5,g,0,g,2,g,14,g
+127,wards restaurants,chicken combo breakfast biscuit,38,g,30,mg,2580,g,178,g,26,g,8,g,0,g,6,g,63,g
+128,wards restaurants,chicken wrap,34,g,70,mg,1210,g,40,g,25,g,10,g,0,g,3,g,2,g
+129,wards restaurants,chili cheese dog,26,g,50,mg,1650,g,55,g,21,g,11,g,1,g,4,g,9,g
+130,wards restaurants,chili dog,23,g,35,mg,1470,g,53,g,18,g,9,g,1,g,4,g,8,g
+131,wards restaurants,corn dog,8,g,35,mg,420,g,24,g,7,g,2,g,0,g,0,g,0,g
+132,wards restaurants,egg 3 oz,8,g,355,mg,105,g,1,g,15,g,2.5,g,0,g,0,g,0,g
+133,wards restaurants,grilled cheese,8,g,25,mg,610,g,27,g,10,g,4,g,0,g,1,g,5,g
+134,wards restaurants,grilled chicken sandwich,21,g,45,mg,870,g,44,g,21,g,4.5,g,0,g,4,g,6,g
+135,wards restaurants,grilled chicken wrap,41,g,80,mg,1110,g,31,g,25,g,12,g,0,g,4,g,3,g
+136,wards restaurants,grits bowl 8 oz,0,g,0,mg,5,g,29,g,3,g,0,g,0,g,1,g,0,g
+137,wards restaurants,grits platter,6,g,0,mg,105,g,29,g,3,g,1.5,g,0,g,1,g,0,g
+138,wards restaurants,ham and cheese sandwich,23,g,60,mg,1660,g,55,g,22,g,8,g,0,g,2,g,11,g
+139,wards restaurants,ham breakfast biscuit,22,g,20,mg,1170,g,50,g,10,g,7,g,0,g,1,g,15,g
+140,wards restaurants,ham combo breakfast biscuit,49,g,40,mg,2470,g,159,g,19,g,14,g,0,g,5,g,64,g
+141,wards restaurants,ham sandwich,16,g,40,mg,1300,g,52,g,17,g,3.5,g,0,g,2,g,9,g
+142,wards restaurants,ham wrap,28,g,55,mg,930,g,13,g,21,g,11,g,0,g,4,g,0,g
+143,wards restaurants,hashbrown tator bucks,18,g,0,mg,1240,g,63,g,5,g,3.5,g,0,g,4,g,5,g
+144,wards restaurants,hot dog,31,g,40,mg,1660,g,60,g,17,g,9,g,1,g,3,g,13,g
+145,wards restaurants,lil one,20,g,55,mg,920,g,37,g,22,g,7,g,0,g,3,g,7,g
+146,wards restaurants,lil one double,28,g,95,mg,960,g,37,g,33,g,10,g,1,g,3,g,7,g
+147,wards restaurants,pancake,12,g,25,mg,1720,g,143,g,134,g,2.5,g,0,g,3,g,0,g
+148,wards restaurants,platter,36,g,335,mg,1670,g,82,g,28,g,10,g,0,g,2,g,0,g
+149,wards restaurants,pork chop breakfast biscuit,26,g,30,mg,1410,g,65,g,18,g,7,g,0,g,1,g,14,g
+150,wards restaurants,pork chop combo breakfast biscuit,48,g,40,mg,2630,g,179,g,26,g,11,g,0,g,6,g,63,g
+151,wards restaurants,quarder,24,g,80,mg,620,g,35,g,29,g,7,g,0,g,2,g,5,g
+152,wards restaurants,quarder double,39,g,155,mg,700,g,35,g,52,g,13,g,2,g,2,g,6,g
+153,wards restaurants,quarder double w cheese,43,g,170,mg,880,g,36,g,55,g,16,g,2,g,2,g,7,g
+154,wards restaurants,quarder w cheese,27,g,90,mg,800,g,36,g,32,g,9,g,1,g,2,g,7,g
+155,wards restaurants,regular burger,16,g,40,mg,580,g,35,g,18,g,4.5,g,0,g,2,g,6,g
+156,wards restaurants,regular burger double,24,g,80,mg,620,g,35,g,298,g,7,g,1,g,2,g,6,g
+157,wards restaurants,regular burger double with cheese,26,g,90,mg,720,g,36,g,33,g,9,g,1,g,2,g,7,g
+158,wards restaurants,regular burger with cheese,19,g,55,mg,760,g,36,g,21,g,6,g,0,g,2,g,7,g
+159,wards restaurants,roast beef,9,g,95,mg,2140,g,45,g,45,g,1,g,0,g,2,g,4,g
+160,wards restaurants,sausage gravy breakfast biscuit,34,g,35,mg,1560,g,50,g,14,g,9,g,0,g,2,g,8,g
+161,wards restaurants,sausage gravy combo breakfast biscuit,38,g,0,mg,2540,g,174,g,13,g,9,g,0,g,6,g,66,g
+162,wards restaurants,sausage link,16,g,35,mg,650,g,3,g,10,g,5,g,0,g,1,g,0,g
+163,wards restaurants,sausage link breakfast biscuit,28,g,35,mg,1570,g,52,g,16,g,9,g,0,g,2,g,0,g
+164,wards restaurants,sausage link combo breakfast biscuit,46,g,35,mg,2630,g,161,g,21,g,12,g,0,g,6,g,0,g
+165,wards restaurants,sausage patty,14,g,40,mg,360,g,0,g,6,g,4.5,g,0,g,0,g,0,g
+166,wards restaurants,sausage patty breakfast biscuit,27,g,40,mg,1290,g,50,g,13,g,8,g,0,g,1,g,14,g
+167,wards restaurants,sausage patty combo breakfast biscuit,42,g,30,mg,2270,g,158,g,16,g,11,g,0,g,5,g,63,g
+168,wards restaurants,sausage patty pancake,26,g,65,mg,2080,g,143,g,19,g,7,g,0,g,3,g,0,g
+169,wards restaurants,southern deluxe sandwich,72,g,225,mg,4210,g,86,g,85,g,29,g,2,g,16,g,21,g
+170,wards restaurants,steak 2 25 oz,16,g,30,mg,520,g,13,g,9,g,6,g,0,g,0,g,0,g
+171,wards restaurants,steak breakfast biscuit,29,g,30,mg,1450,g,62,g,15,g,9,g,0,g,1,g,0,g
+172,wards restaurants,steak combo breakfast biscuit,47,g,30,mg,2500,g,171,g,20,g,13,g,0,g,5,g,0,g
+173,wards restaurants,steak sandwich,19,g,30,mg,810,g,43,g,15,g,6,g,0,g,2,g,5,g
+174,wards restaurants,toast,2,g,0,mg,390,g,39,g,4,g,0,g,0,g,1,g,10,g
+175,wawa test account,1 milk fl 1tbsp,0,g,0,mg,5,g,1,g,1,g,0,g,0,g,0,g,1,g
+176,wawa test account,16 oz andndash frozen watermelon lemonade,0,g,0,mg,0,g,105,g,0,g,0,g,0,g,0,g,91,g
+177,wawa test account,16 oz andndash iced watermelon lemonade,0,g,0,mg,0,g,57,g,0,g,0,g,0,g,0,g,45,g
+178,wawa test account,16 oz andndash watermelon freeze,13,g,50,mg,130,g,103,g,5,g,8,g,0,g,0,g,85,g
+179,wawa test account,16 oz 1 milk,4.5,g,25,mg,210,g,24,g,16,g,3,g,0,g,0,g,24,g
+180,wawa test account,16 oz 100 orange juice,0,g,0,mg,15,g,54,g,3,g,0,g,0,g,1,g,47,g
+181,wawa test account,16 oz 2 milk,10,g,40,mg,230,g,23,g,16,g,6,g,0,g,0,g,23,g
+182,wawa test account,16 oz banana cream,26,g,95,mg,260,g,85,g,10,g,16,g,1,g,4,g,69,g
+183,wawa test account,16 oz bananas fosters,32,g,115,mg,390,g,137,g,10,g,20,g,1,g,4,g,113,g
+184,wawa test account,16 oz black and white milkshake,42,g,160,mg,420,g,89,g,15,g,27,g,1.5,g,1,g,74,g
+185,wawa test account,16 oz blackberry iced tea,0,g,0,mg,20,g,41,g,0,g,0,g,0,g,0,g,39,g
+186,wawa test account,16 oz blueberry pomegranate iced lemonade,0,g,0,mg,10,g,53,g,0,g,0,g,0,g,0,g,50,g
+187,wawa test account,16 oz blueberry pomegranate mango smoothie,0,g,0,mg,20,g,89,g,1,g,0,g,0,g,0,g,85,g
+188,wawa test account,16 oz blueberry pomegranate mango yogurt smoothie,0,g,0,mg,90,g,83,g,3,g,0,g,0,g,0,g,78,g
+189,wawa test account,16 oz blueberry pomegranate milkshake,42,g,160,mg,420,g,101,g,15,g,26,g,1.5,g,0,g,88,g
+190,wawa test account,16 oz blueberry pomegranate smoothie,0,g,0,mg,15,g,77,g,1,g,0,g,0,g,0,g,74,g
+191,wawa test account,16 oz blueberry pomegranate smoothie with yogurt,0,g,5,mg,120,g,74,g,5,g,0,g,0,g,0,g,69,g
+192,wawa test account,16 oz cafe con leche iced,6,g,20,mg,60,g,13,g,2,g,3.5,g,0,g,0,g,11,g
+193,wawa test account,16 oz caramel cheesecake smoothie,32,g,110,mg,730,g,97,g,13,g,20,g,0.5,g,1,g,68,g
+194,wawa test account,16 oz caramel chocolate chip cream,37,g,110,mg,330,g,101,g,10,g,23,g,1,g,2,g,88,g
+195,wawa test account,16 oz caramel chocolate chip frozen cappuccino,31,g,85,mg,260,g,87,g,8,g,19,g,0.5,g,2,g,76,g
+196,wawa test account,16 oz caramel cream,32,g,115,mg,390,g,108,g,9,g,20,g,1,g,0,g,92,g
+197,wawa test account,16 oz caramel double shot frozen cappuccino,22,g,80,mg,260,g,68,g,7,g,14,g,1,g,0,g,58,g
+198,wawa test account,16 oz caramel frozen cappuccino,25,g,90,mg,330,g,94,g,7,g,16,g,0.5,g,0,g,80,g
+199,wawa test account,16 oz caramel latte iced,3,g,10,mg,60,g,26,g,0,g,2,g,0,g,0,g,22,g
+200,wawa test account,16 oz caramel macchiato iced,0.5,g,0,mg,15,g,18,g,0,g,0,g,0,g,0,g,17,g
+201,wawa test account,16 oz chai tea frozen latte,10,g,35,mg,100,g,42,g,3,g,6,g,0,g,0,g,39,g
+202,wawa test account,16 oz chocolate banana cream,26,g,95,mg,280,g,110,g,11,g,17,g,1,g,3,g,86,g
+203,wawa test account,16 oz chocolate caramel frozen cappuccino,23,g,80,mg,280,g,93,g,8,g,15,g,0.5,g,0,g,81,g
+204,wawa test account,16 oz chocolate chip flurricane,54,g,160,mg,420,g,119,g,17,g,34,g,1.5,g,3,g,105,g
+205,wawa test account,16 oz chocolate chocolate chip cream,35,g,100,mg,280,g,99,g,11,g,22,g,1,g,2,g,89,g
+206,wawa test account,16 oz chocolate chocolate chip frozen cappuccino,28,g,75,mg,210,g,85,g,9,g,18,g,0.5,g,2,g,77,g
+207,wawa test account,16 oz chocolate cookie cheesecake smoothie,33,g,105,mg,580,g,90,g,13,g,20,g,0.5,g,0,g,74,g
+208,wawa test account,16 oz chocolate cookies and cream frozen cappuccino,24,g,75,mg,280,g,86,g,8,g,14,g,0.5,g,0,g,71,g
+209,wawa test account,16 oz chocolate cookies and cream milkshake,46,g,160,mg,510,g,133,g,17,g,28,g,1.5,g,1,g,109,g
+210,wawa test account,16 oz chocolate cookies and cream smoothie,30,g,95,mg,350,g,100,g,11,g,18,g,1,g,0,g,83,g
+211,wawa test account,16 oz chocolate covered strawberry cream smoothie new,20,g,75,mg,220,g,91,g,8,g,13,g,0.5,g,1,g,81,g
+212,wawa test account,16 oz chocolate milk,4.5,g,25,mg,400,g,54,g,16,g,3,g,0,g,1,g,51,g
+213,wawa test account,16 oz chocolate milkshake,43,g,160,mg,440,g,114,g,16,g,27,g,1.5,g,1,g,97,g
+214,wawa test account,16 oz chocolate mint cookies and cream milkshake,46,g,160,mg,510,g,157,g,17,g,28,g,1.5,g,1,g,134,g
+215,wawa test account,16 oz coffee milkshake,32,g,120,mg,330,g,70,g,11,g,20,g,1,g,0,g,60,g
+216,wawa test account,16 oz cookies and cream flavored milk,18,g,75,mg,300,g,82,g,16,g,11,g,0.5,g,1,g,81,g
+217,wawa test account,16 oz cookies and cream flurricane,54,g,160,mg,650,g,151,g,17,g,30,g,1.5,g,0,g,117,g
+218,wawa test account,16 oz cookies and cream milkshake,45,g,160,mg,490,g,110,g,15,g,28,g,1.5,g,0,g,91,g
+219,wawa test account,16 oz crazy cookie cream smoothie,41,g,105,mg,570,g,142,g,11,g,26,g,1,g,0,g,104,g
+220,wawa test account,16 oz crazy cookie frozen cappuccino,38,g,95,mg,540,g,135,g,10,g,24,g,1,g,0,g,98,g
+221,wawa test account,16 oz diet green tea,0,g,0,mg,15,g,1,g,0,g,0,g,0,g,0,g,0,g
+222,wawa test account,16 oz diet iced tea w lemon,0,g,0,mg,30,g,2,g,0,g,0,g,0,g,0,g,0,g
+223,wawa test account,16 oz diet lemonade,0,g,0,mg,20,g,3,g,0,g,0,g,0,g,0,g,1,g
+224,wawa test account,16 oz diet lemonade tea,0,g,0,mg,25,g,3,g,0,g,0,g,0,g,0,g,2,g
+225,wawa test account,16 oz diet peach tea,0,g,0,mg,45,g,3,g,0,g,0,g,0,g,0,g,0,g
+226,wawa test account,16 oz diet raspberry tea,0,g,0,mg,15,g,2,g,0,g,0,g,0,g,0,g,0,g
+227,wawa test account,16 oz double dutch chocolate milk,18,g,70,mg,360,g,58,g,17,g,11,g,0.5,g,2,g,57,g
+228,wawa test account,16 oz double shot frozen cappuccino,19,g,75,mg,200,g,42,g,7,g,12,g,0.5,g,0,g,36,g
+229,wawa test account,16 oz dulce de leche latte iced,6,g,20,mg,120,g,58,g,0,g,4,g,0,g,0,g,50,g
+230,wawa test account,16 oz extra sweet tea,0,g,0,mg,15,g,52,g,0,g,0,g,0,g,0,g,50,g
+231,wawa test account,16 oz frozen blueberry pomegranate lemonade,0,g,0,mg,10,g,89,g,0,g,0,g,0,g,0,g,85,g
+232,wawa test account,16 oz frozen cappuccino with sugar free caramel sauce,19,g,75,mg,210,g,43,g,7,g,12,g,0.5,g,0,g,36,g
+233,wawa test account,16 oz frozen lemonade,0,g,0,mg,10,g,96,g,0,g,0,g,0,g,0,g,91,g
+234,wawa test account,16 oz fruit punch,0,g,0,mg,20,g,58,g,0,g,0,g,0,g,0,g,57,g
+235,wawa test account,16 oz green tea,0,g,0,mg,15,g,35,g,0,g,0,g,0,g,0,g,34,g
+236,wawa test account,16 oz green tea mango,0,g,0,mg,15,g,39,g,0,g,0,g,0,g,0,g,38,g
+237,wawa test account,16 oz iced lemonade,0,g,0,mg,10,g,54,g,0,g,0,g,0,g,0,g,51,g
+238,wawa test account,16 oz iced peach lemonade,0,g,0,mg,10,g,61,g,0,g,0,g,0,g,0,g,58,g
+239,wawa test account,16 oz iced strawberry lemonade,0,g,0,mg,10,g,60,g,0,g,0,g,0,g,0,g,55,g
+240,wawa test account,16 oz iced tea w lemon,0,g,0,mg,30,g,44,g,0,g,0,g,0,g,0,g,43,g
+241,wawa test account,16 oz lemon freeze smoothie,13,g,50,mg,140,g,92,g,5,g,8,g,0,g,0,g,85,g
+242,wawa test account,16 oz lemonade,0,g,0,mg,15,g,61,g,0,g,0,g,0,g,0,g,58,g
+243,wawa test account,16 oz lemonade milkshake,29,g,110,mg,290,g,127,g,10,g,18,g,1,g,0,g,115,g
+244,wawa test account,16 oz lemonade tea,0,g,0,mg,30,g,49,g,0,g,0,g,0,g,0,g,48,g
+245,wawa test account,16 oz mango banana smoothie,0,g,0,mg,35,g,138,g,1,g,0,g,0,g,4,g,125,g
+246,wawa test account,16 oz mango banana with yogurt smoothie,0,g,5,mg,125,g,123,g,5,g,0,g,0,g,4,g,109,g
+247,wawa test account,16 oz mango cream,13,g,50,mg,150,g,83,g,4,g,8,g,0,g,0,g,76,g
+248,wawa test account,16 oz mango drink,0,g,0,mg,20,g,55,g,0,g,0,g,0,g,0,g,53,g
+249,wawa test account,16 oz mango freeze smoothie,6,g,25,mg,85,g,100,g,2,g,4,g,0,g,0,g,94,g
+250,wawa test account,16 oz mango smoothie,0,g,0,mg,35,g,109,g,0,g,0,g,0,g,0,g,104,g
+251,wawa test account,16 oz mango with yogurt smoothie,0,g,5,mg,125,g,94,g,4,g,0,g,0,g,0,g,88,g
+252,wawa test account,16 oz mint chocolate chip flurricane,54,g,160,mg,430,g,151,g,17,g,34,g,1.5,g,3,g,137,g
+253,wawa test account,16 oz mint cookies and cream frozen cappuccino,23,g,75,mg,270,g,85,g,8,g,13,g,0.5,g,0,g,72,g
+254,wawa test account,16 oz mint cookies and cream milkshake,45,g,160,mg,500,g,134,g,15,g,28,g,1.5,g,0,g,115,g
+255,wawa test account,16 oz mint cookies and cream smoothie,29,g,95,mg,340,g,94,g,10,g,18,g,1,g,0,g,79,g
+256,wawa test account,16 oz mint cream,26,g,95,mg,270,g,81,g,9,g,16,g,1,g,0,g,73,g
+257,wawa test account,16 oz mixed berry banana smoothie,0,g,0,mg,25,g,117,g,1,g,0,g,0,g,0,g,91,g
+258,wawa test account,16 oz mixed berry banana yogurt smoothie,0,g,0,mg,90,g,112,g,4,g,0,g,0,g,0,g,89,g
+259,wawa test account,16 oz mixed berry smoothie,0,g,0,mg,25,g,88,g,0,g,0,g,0,g,0,g,70,g
+260,wawa test account,16 oz mixed berry smoothie with yogurt,0,g,0,mg,90,g,83,g,3,g,0,g,0,g,0,g,68,g
+261,wawa test account,16 oz mocha double shot frozen cappuccino,20,g,75,mg,270,g,65,g,8,g,12,g,0.5,g,0,g,58,g
+262,wawa test account,16 oz mocha frozen cappuccino,20,g,75,mg,210,g,67,g,8,g,13,g,0.5,g,0,g,59,g
+263,wawa test account,16 oz mocha latte iced,1,g,0,mg,15,g,25,g,1,g,0,g,0,g,0,g,23,g
+264,wawa test account,16 oz mocha macchiato iced,0,g,0,mg,0,g,18,g,0,g,0,g,0,g,0,g,18,g
+265,wawa test account,16 oz nitro cold brew coffee,0,g,0,mg,15,g,5,g,1,g,0,g,0,g,0,g,0,g
+266,wawa test account,16 oz orange drink,0,g,0,mg,15,g,60,g,0,g,0,g,0,g,0,g,58,g
+267,wawa test account,16 oz original cheesecake smoothie,29,g,105,mg,670,g,83,g,13,g,18,g,0.5,g,1,g,58,g
+268,wawa test account,16 oz peach banana smoothie,0,g,0,mg,25,g,134,g,2,g,0,g,0,g,4,g,122,g
+269,wawa test account,16 oz peach banana with yogurt smoothie,0,g,5,mg,120,g,120,g,6,g,0,g,0,g,4,g,107,g
+270,wawa test account,16 oz peach cream,13,g,50,mg,150,g,80,g,5,g,8,g,0,g,0,g,75,g
+271,wawa test account,16 oz peach frozen lemonade,0,g,0,mg,15,g,93,g,0,g,0,g,0,g,0,g,89,g
+272,wawa test account,16 oz peach lemonade tea,0,g,0,mg,20,g,49,g,0,g,0,g,0,g,0,g,48,g
+273,wawa test account,16 oz peach mango smoothie,0,g,0,mg,30,g,107,g,1,g,0,g,0,g,0,g,102,g
+274,wawa test account,16 oz peach mango with yogurt smoothie,0,g,0,mg,90,g,97,g,3,g,0,g,0,g,0,g,92,g
+275,wawa test account,16 oz peach smoothie,0,g,0,mg,25,g,105,g,1,g,0,g,0,g,0,g,101,g
+276,wawa test account,16 oz peach tea,0,g,0,mg,30,g,46,g,0,g,0,g,0,g,0,g,44,g
+277,wawa test account,16 oz peach with yogurt smoothie,0,g,5,mg,120,g,91,g,5,g,0,g,0,g,0,g,86,g
+278,wawa test account,16 oz peachy freeze smoothie,7,g,25,mg,80,g,88,g,3,g,4,g,0,g,0,g,83,g
+279,wawa test account,16 oz peppermint mocha frozen cappuccino,20,g,75,mg,210,g,91,g,8,g,13,g,0.5,g,0,g,83,g
+280,wawa test account,16 oz peppermint mocha latte iced,1,g,0,mg,15,g,43,g,1,g,0,g,0,g,0,g,41,g
+281,wawa test account,16 oz raspberry lemonade,0,g,0,mg,20,g,61,g,0,g,0,g,0,g,0,g,57,g
+282,wawa test account,16 oz raspberry lemonade tea,0,g,0,mg,20,g,46,g,0,g,0,g,0,g,0,g,45,g
+283,wawa test account,16 oz raspberry tea,0,g,0,mg,30,g,46,g,0,g,0,g,0,g,0,g,44,g
+284,wawa test account,16 oz regular frozen cappuccino,19,g,75,mg,200,g,42,g,7,g,12,g,0.5,g,0,g,36,g
+285,wawa test account,16 oz salted caramel frozen cappuccino,19,g,75,mg,310,g,70,g,7,g,12,g,0.5,g,0,g,63,g
+286,wawa test account,16 oz salted caramel latte iced,0,g,0,mg,60,g,14,g,0,g,0,g,0,g,0,g,14,g
+287,wawa test account,16 oz salted caramel macchiato iced,0.5,g,0,mg,75,g,26,g,0,g,0,g,0,g,0,g,25,g
+288,wawa test account,16 oz shortbread cream smoothie,26,g,95,mg,470,g,91,g,11,g,17,g,1,g,0,g,66,g
+289,wawa test account,16 oz shortbread frozen cappuccino,23,g,85,mg,440,g,84,g,10,g,15,g,1,g,0,g,60,g
+290,wawa test account,16 oz shortbread latte iced,0,g,0,mg,75,g,15,g,0,g,0,g,0,g,0,g,15,g
+291,wawa test account,16 oz skim milk,0,g,10,mg,210,g,24,g,16,g,0,g,0,g,0,g,24,g
+292,wawa test account,16 oz strawberry banana cream,13,g,50,mg,150,g,78,g,5,g,8,g,0,g,0,g,71,g
+293,wawa test account,16 oz strawberry banana smoothie,0,g,0,mg,35,g,127,g,1,g,0,g,0,g,4,g,88,g
+294,wawa test account,16 oz strawberry banana with yogurt smoothie,0,g,5,mg,125,g,116,g,5,g,0,g,0,g,4,g,86,g
+295,wawa test account,16 oz strawberry cheesecake smoothie,29,g,105,mg,670,g,82,g,13,g,18,g,0.5,g,1,g,54,g
+296,wawa test account,16 oz strawberry chocolate chip cream,28,g,75,mg,220,g,110,g,9,g,18,g,0.5,g,2,g,94,g
+297,wawa test account,16 oz strawberry cream smoothie,12,g,45,mg,130,g,103,g,5,g,7,g,0,g,0,g,77,g
+298,wawa test account,16 oz strawberry freeze smoothie,6,g,25,mg,85,g,95,g,2,g,4,g,0,g,0,g,76,g
+299,wawa test account,16 oz strawberry frozen lemonade,0,g,0,mg,15,g,92,g,0,g,0,g,0,g,0,g,84,g
+300,wawa test account,16 oz strawberry mango banana smoothie,0,g,0,mg,35,g,133,g,1,g,0,g,0,g,0,g,106,g
+301,wawa test account,16 oz strawberry mango banana yogurt smoothie,0,g,0,mg,100,g,124,g,4,g,0,g,0,g,0,g,100,g
+302,wawa test account,16 oz strawberry mango smoothie,0,g,0,mg,35,g,104,g,0,g,0,g,0,g,0,g,85,g
+303,wawa test account,16 oz strawberry mango yogurt smoothie,0,g,5,mg,130,g,90,g,4,g,0,g,0,g,0,g,74,g
+304,wawa test account,16 oz strawberry milk,2,g,10,mg,110,g,30,g,8,g,1.5,g,0,g,0,g,30,g
+305,wawa test account,16 oz strawberry milkshake,41,g,160,mg,420,g,103,g,14,g,26,g,1.5,g,0,g,87,g
+306,wawa test account,16 oz strawberry smoothie,0,g,0,mg,35,g,98,g,0,g,0,g,0,g,0,g,67,g
+307,wawa test account,16 oz strawberry with yogurt smoothie,0,g,5,mg,125,g,87,g,4,g,0,g,0,g,0,g,65,g
+308,wawa test account,16 oz summer berry freeze smoothie,7,g,25,mg,75,g,85,g,3,g,4,g,0,g,1,g,79,g
+309,wawa test account,16 oz tropical punch,0,g,0,mg,15,g,62,g,0,g,0,g,0,g,0,g,60,g
+310,wawa test account,16 oz up mountain swizzle on tap,0,g,0,mg,0,g,19,g,0,g,0,g,0,g,0,g,15,g
+311,wawa test account,16 oz vanilla chai tea frozen latte,10,g,35,mg,105,g,59,g,3,g,6,g,0,g,0,g,56,g
+312,wawa test account,16 oz vanilla flavored milk,16,g,70,mg,240,g,59,g,16,g,10,g,0.5,g,0,g,57,g
+313,wawa test account,16 oz vanilla latte iced,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,0,g,12,g
+314,wawa test account,16 oz vanilla milkshake,41,g,160,mg,420,g,91,g,14,g,26,g,1.5,g,0,g,79,g
+315,wawa test account,16 oz white tea w tangerine,0,g,0,mg,15,g,41,g,0,g,0,g,0,g,0,g,40,g
+316,wawa test account,16 oz whole milk,16,g,50,mg,210,g,23,g,15,g,9,g,0,g,0,g,23,g
+317,wawa test account,2 milk 1 tbs,0,g,0,mg,5,g,1,g,1,g,0,g,0,g,0,g,1,g
+318,wawa test account,2 milk fl 1tbsp,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,1,g
+319,wawa test account,24 oz andndash frozen watermelon lemonade,0,g,0,mg,0,g,139,g,0,g,0,g,0,g,0,g,121,g
+320,wawa test account,24 oz andndash iced watermelon lemonade,0,g,0,mg,0,g,91,g,0,g,0,g,0,g,0,g,76,g
+321,wawa test account,24 oz andndash watermelon freeze,19,g,70,mg,190,g,154,g,7,g,12,g,0.5,g,0,g,127,g
+322,wawa test account,24 oz banana cream smoothie,32,g,120,mg,330,g,128,g,13,g,20,g,1,g,8,g,102,g
+323,wawa test account,24 oz bananas foster cream smoothie,38,g,140,mg,460,g,151,g,12,g,24,g,1,g,4,g,125,g
+324,wawa test account,24 oz black and white milkshake,55,g,205,mg,550,g,117,g,19,g,35,g,2,g,2,g,98,g
+325,wawa test account,24 oz blueberry pomegranate iced lemonade,0,g,0,mg,10,g,89,g,0,g,0,g,0,g,0,g,85,g
+326,wawa test account,24 oz blueberry pomegranate mango smoothie,0,g,0,mg,30,g,132,g,1,g,0,g,0,g,0,g,125,g
+327,wawa test account,24 oz blueberry pomegranate mango yogurt smoothie,0,g,5,mg,170,g,123,g,6,g,0,g,0,g,0,g,115,g
+328,wawa test account,24 oz blueberry pomegranate milkshake,70,g,265,mg,710,g,174,g,25,g,45,g,2.5,g,0,g,151,g
+329,wawa test account,24 oz blueberry pomegranate smoothie,0,g,0,mg,20,g,116,g,1,g,0,g,0,g,0,g,110,g
+330,wawa test account,24 oz blueberry pomegranate smoothie with yogurt,0,g,5,mg,160,g,111,g,7,g,0,g,0,g,0,g,104,g
+331,wawa test account,24 oz cafe con leche iced,10,g,35,mg,95,g,21,g,3,g,6,g,0,g,0,g,18,g
+332,wawa test account,24 oz caramel cheesecake smoothie,52,g,175,mg,1320,g,166,g,22,g,32,g,1,g,2,g,112,g
+333,wawa test account,24 oz caramel chocolate chip cream smoothie,61,g,170,mg,520,g,174,g,16,g,39,g,1.5,g,4,g,152,g
+334,wawa test account,24 oz caramel chocolate chip frozen cappuccino,55,g,145,mg,460,g,160,g,14,g,34,g,1,g,4,g,140,g
+335,wawa test account,24 oz caramel cream smoothie,45,g,165,mg,520,g,136,g,13,g,28,g,1.5,g,0,g,116,g
+336,wawa test account,24 oz caramel double shot frozen cappuccino,35,g,130,mg,430,g,115,g,11,g,22,g,1.5,g,0,g,98,g
+337,wawa test account,24 oz caramel frozen cappuccino,41,g,150,mg,520,g,148,g,11,g,26,g,1,g,0,g,126,g
+338,wawa test account,24 oz caramel latte iced,6,g,20,mg,120,g,52,g,0,g,4,g,0,g,0,g,44,g
+339,wawa test account,24 oz caramel macchiato iced,0.5,g,0,mg,15,g,24,g,0,g,0,g,0,g,0,g,23,g
+340,wawa test account,24 oz chai tea frozen latte,13,g,50,mg,135,g,69,g,4,g,8,g,0,g,0,g,65,g
+341,wawa test account,24 oz chocolate banana cream smoothie,33,g,120,mg,360,g,177,g,15,g,21,g,1,g,6,g,136,g
+342,wawa test account,24 oz chocolate banana yogurt cream smoothie,2.5,g,5,mg,55,g,241,g,21,g,1.5,g,0,g,6,g,187,g
+343,wawa test account,24 oz chocolate caramel frozen cappuccino,36,g,130,mg,430,g,140,g,11,g,23,g,1,g,0,g,121,g
+344,wawa test account,24 oz chocolate cheesecake cookie cream smoothie,53,g,155,mg,1040,g,152,g,21,g,31,g,1,g,1,g,124,g
+345,wawa test account,24 oz chocolate chocolate chip cream smoothie,56,g,150,mg,420,g,171,g,18,g,36,g,1.5,g,4,g,154,g
+346,wawa test account,24 oz chocolate chocolate chip frozen cappuccino,50,g,125,mg,360,g,157,g,16,g,32,g,1,g,4,g,142,g
+347,wawa test account,24 oz chocolate cookies and cream frozen cappuccino,41,g,120,mg,500,g,157,g,15,g,24,g,1,g,0,g,130,g
+348,wawa test account,24 oz chocolate cookies and cream milkshake,64,g,205,mg,730,g,204,g,23,g,38,g,2,g,2,g,167,g
+349,wawa test account,24 oz chocolate cookies and cream smoothie,64,g,205,mg,730,g,204,g,23,g,38,g,2,g,2,g,167,g
+350,wawa test account,24 oz chocolate covered strawberry cream smoothie new,27,g,95,mg,310,g,138,g,11,g,17,g,1,g,1,g,122,g
+351,wawa test account,24 oz chocolate milkshake,56,g,205,mg,580,g,166,g,21,g,36,g,2,g,2,g,143,g
+352,wawa test account,24 oz chocolate mint cookies and cream milkshake,64,g,205,mg,740,g,253,g,23,g,38,g,2,g,2,g,216,g
+353,wawa test account,24 oz coffee milkshake,45,g,170,mg,460,g,98,g,16,g,28,g,1.5,g,0,g,85,g
+354,wawa test account,24 oz cookies and cream milkshake,62,g,205,mg,700,g,158,g,21,g,37,g,2,g,0,g,127,g
+355,wawa test account,24 oz crazy cookie cream smoothie,48,g,130,mg,640,g,156,g,13,g,30,g,1,g,0,g,116,g
+356,wawa test account,24 oz crazy cookie frozen cappuccino,48,g,130,mg,640,g,156,g,13,g,30,g,1,g,0,g,116,g
+357,wawa test account,24 oz double shot frozen cappuccino,29,g,110,mg,300,g,63,g,10,g,18,g,1,g,0,g,54,g
+358,wawa test account,24 oz dulce de leche latte iced,9,g,30,mg,180,g,90,g,0,g,6,g,0,g,0,g,78,g
+359,wawa test account,24 oz frozen blueberry pomegranate lemonade,0,g,0,mg,20,g,115,g,1,g,0,g,0,g,1,g,109,g
+360,wawa test account,24 oz frozen cappuccino,32,g,120,mg,330,g,70,g,11,g,20,g,1,g,0,g,60,g
+361,wawa test account,24 oz frozen cappuccino with sugar free caramel sauce,32,g,120,mg,350,g,71,g,11,g,20,g,1,g,0,g,60,g
+362,wawa test account,24 oz frozen lemonade,0,g,0,mg,15,g,127,g,0,g,0,g,0,g,0,g,121,g
+363,wawa test account,24 oz iced lemonade,0,g,0,mg,10,g,81,g,0,g,0,g,0,g,0,g,77,g
+364,wawa test account,24 oz iced peach lemonade,0,g,0,mg,15,g,94,g,0,g,0,g,0,g,0,g,90,g
+365,wawa test account,24 oz iced strawberry lemonade,0,g,0,mg,15,g,93,g,0,g,0,g,0,g,0,g,85,g
+366,wawa test account,24 oz lemon freeze smoothie,19,g,75,mg,210,g,138,g,7,g,12,g,0.5,g,0,g,127,g
+367,wawa test account,24 oz lemonade milkshake,39,g,145,mg,390,g,164,g,14,g,24,g,1.5,g,1,g,148,g
+368,wawa test account,24 oz mango banana smoothie,0,g,0,mg,40,g,166,g,1,g,0,g,0,g,4,g,151,g
+369,wawa test account,24 oz mango banana smoothie with yogurt,0,g,5,mg,135,g,150,g,5,g,0,g,0,g,4,g,135,g
+370,wawa test account,24 oz mango cream smoothie,19,g,75,mg,220,g,124,g,7,g,12,g,0.5,g,0,g,114,g
+371,wawa test account,24 oz mango freeze smoothie,10,g,35,mg,130,g,151,g,4,g,6,g,0,g,0,g,141,g
+372,wawa test account,24 oz mango smoothie,0,g,0,mg,45,g,164,g,0,g,0,g,0,g,0,g,155,g
+373,wawa test account,24 oz mango smoothie with yogurt,0,g,5,mg,170,g,143,g,6,g,0,g,0,g,0,g,134,g
+374,wawa test account,24 oz mint chocolate chip cream smoothie,46,g,145,mg,400,g,151,g,15,g,29,g,1.5,g,2,g,138,g
+375,wawa test account,24 oz mint cookies and cream frozen cappuccino,40,g,120,mg,480,g,157,g,13,g,23,g,1,g,0,g,133,g
+376,wawa test account,24 oz mint cookies and cream milkshake,62,g,205,mg,710,g,206,g,21,g,37,g,2,g,0,g,175,g
+377,wawa test account,24 oz mint cookies and cream smoothie,46,g,145,mg,540,g,159,g,15,g,27,g,1.5,g,0,g,134,g
+378,wawa test account,24 oz mint cream smoothie,38,g,145,mg,400,g,121,g,13,g,24,g,1.5,g,0,g,110,g
+379,wawa test account,24 oz mixed berry banana smoothie,0,g,0,mg,35,g,139,g,2,g,0,g,0,g,0,g,109,g
+380,wawa test account,24 oz mixed berry banana yogurt smoothie,0,g,5,mg,135,g,133,g,6,g,0,g,0,g,0,g,105,g
+381,wawa test account,24 oz mixed berry smoothie,0,g,0,mg,35,g,132,g,1,g,0,g,0,g,0,g,106,g
+382,wawa test account,24 oz mixed berry smoothie with yogurt,0,g,5,mg,170,g,122,g,6,g,0,g,0,g,0,g,101,g
+383,wawa test account,24 oz mocha double shot frozen cappuccino,30,g,110,mg,440,g,110,g,12,g,19,g,1,g,0,g,97,g
+384,wawa test account,24 oz mocha frozen cappuccino,33,g,120,mg,360,g,119,g,13,g,21,g,1,g,0,g,106,g
+385,wawa test account,24 oz mocha latte iced,2,g,0,mg,30,g,50,g,2,g,0,g,0,g,0,g,46,g
+386,wawa test account,24 oz mocha macchiato iced,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,0,g,24,g
+387,wawa test account,24 oz nitro cold brew coffee,0,g,0,mg,20,g,8,g,2,g,0,g,0,g,0,g,0,g
+388,wawa test account,24 oz original cheesecake cream smoothie,45,g,155,mg,1200,g,131,g,22,g,28,g,1,g,2,g,86,g
+389,wawa test account,24 oz peach banana smoothie,0,g,0,mg,30,g,160,g,2,g,0,g,0,g,4,g,147,g
+390,wawa test account,24 oz peach banana smoothie with yogurt,0,g,5,mg,130,g,146,g,6,g,0,g,0,g,4,g,132,g
+391,wawa test account,24 oz peach cream smoothie,19,g,75,mg,220,g,120,g,7,g,12,g,0.5,g,0,g,112,g
+392,wawa test account,24 oz peach frozen lemonade,0,g,0,mg,20,g,123,g,1,g,0,g,0,g,0,g,117,g
+393,wawa test account,24 oz peach mango smoothie,0,g,0,mg,45,g,160,g,1,g,0,g,0,g,0,g,154,g
+394,wawa test account,24 oz peach mango smoothie with yogurt,0,g,5,mg,180,g,141,g,6,g,0,g,0,g,0,g,133,g
+395,wawa test account,24 oz peach smoothie,0,g,0,mg,35,g,157,g,2,g,0,g,0,g,0,g,152,g
+396,wawa test account,24 oz peach smoothie with yogurt,0,g,5,mg,170,g,139,g,7,g,0,g,0,g,0,g,132,g
+397,wawa test account,24 oz peachy freeze smoothie,10,g,35,mg,120,g,132,g,4,g,6,g,0,g,0,g,125,g
+398,wawa test account,24 oz peppermint mocha frozen cappuccino,33,g,120,mg,360,g,168,g,13,g,21,g,1,g,0,g,154,g
+399,wawa test account,24 oz peppermint mocha latte iced,2,g,0,mg,30,g,74,g,2,g,0,g,0,g,0,g,70,g
+400,wawa test account,24 oz salted caramel frozen cappuccino,32,g,120,mg,500,g,112,g,11,g,20,g,1,g,0,g,101,g
+401,wawa test account,24 oz salted caramel latte iced,0,g,0,mg,90,g,21,g,0,g,0,g,0,g,0,g,21,g
+402,wawa test account,24 oz salted caramel macchiato iced,0.5,g,0,mg,105,g,39,g,0,g,0,g,0,g,0,g,38,g
+403,wawa test account,24 oz shortbread cream smoothie,40,g,145,mg,790,g,148,g,18,g,25,g,1.5,g,0,g,102,g
+404,wawa test account,24 oz shortbread frozen cappuccino,34,g,120,mg,730,g,134,g,15,g,21,g,1,g,0,g,90,g
+405,wawa test account,24 oz shortbread latte iced,0,g,0,mg,100,g,20,g,0,g,0,g,0,g,0,g,20,g
+406,wawa test account,24 oz strawberry banana cream smoothie,19,g,75,mg,220,g,117,g,7,g,12,g,0.5,g,0,g,107,g
+407,wawa test account,24 oz strawberry banana smoothie,0,g,0,mg,45,g,181,g,2,g,0,g,0,g,8,g,126,g
+408,wawa test account,24 oz strawberry banana smoothie with yogurt,0,g,5,mg,130,g,169,g,6,g,0,g,0,g,8,g,124,g
+409,wawa test account,24 oz strawberry cheesecake cream smoothie,45,g,155,mg,1200,g,136,g,22,g,28,g,1,g,2,g,84,g
+410,wawa test account,24 oz strawberry chocolate chip cream smoothie,50,g,125,mg,370,g,181,g,16,g,32,g,1,g,4,g,159,g
+411,wawa test account,24 oz strawberry cream smoothie,14,g,55,mg,160,g,151,g,7,g,9,g,0.5,g,0,g,111,g
+412,wawa test account,24 oz strawberry freeze smoothie,10,g,35,mg,130,g,142,g,4,g,6,g,0,g,0,g,114,g
+413,wawa test account,24 oz strawberry frozen lemonade,0,g,0,mg,20,g,117,g,0,g,0,g,0,g,0,g,106,g
+414,wawa test account,24 oz strawberry mango banana smoothie,0,g,0,mg,45,g,159,g,1,g,0,g,0,g,0,g,128,g
+415,wawa test account,24 oz strawberry mango banana yogurt smoothie,0,g,5,mg,140,g,144,g,5,g,0,g,0,g,0,g,116,g
+416,wawa test account,24 oz strawberry mango smoothie,0,g,0,mg,55,g,155,g,0,g,0,g,0,g,0,g,128,g
+417,wawa test account,24 oz strawberry mango yogurt smoothie,0,g,5,mg,180,g,138,g,6,g,0,g,0,g,0,g,116,g
+418,wawa test account,24 oz strawberry milkshake,54,g,205,mg,560,g,144,g,19,g,34,g,2,g,0,g,119,g
+419,wawa test account,24 oz strawberry smoothie,0,g,0,mg,45,g,147,g,0,g,0,g,0,g,0,g,101,g
+420,wawa test account,24 oz strawberry smoothie with yogurt,0,g,5,mg,170,g,132,g,6,g,0,g,0,g,0,g,98,g
+421,wawa test account,24 oz summer berry freeze smoothie,10,g,35,mg,115,g,127,g,4,g,6,g,0,g,1,g,119,g
+422,wawa test account,24 oz vanilla chai tea frozen latte,13,g,50,mg,140,g,97,g,4,g,8,g,0,g,0,g,93,g
+423,wawa test account,24 oz vanilla latte iced,0,g,0,mg,0,g,18,g,0,g,0,g,0,g,0,g,18,g
+424,wawa test account,24 oz vanilla milkshake,54,g,205,mg,550,g,119,g,19,g,34,g,2,g,0,g,103,g
+425,wawa test account,32 oz iced blueberry pomegranate lemonade,0,g,0,mg,15,g,110,g,1,g,0,g,0,g,0,g,105,g
+426,wawa test account,32 oz iced lemonade,0,g,0,mg,15,g,96,g,0,g,0,g,0,g,0,g,91,g
+427,wawa test account,32 oz iced peach lemonade,0,g,0,mg,15,g,112,g,1,g,0,g,0,g,0,g,106,g
+428,wawa test account,32 oz iced strawberry lemonade,0,g,0,mg,20,g,111,g,0,g,0,g,0,g,0,g,101,g
+429,wawa test account,32 oz iced watermelon lemonade,0,g,0,mg,0,g,89,g,0,g,0,g,0,g,0,g,72,g
+430,wawa test account,add applewood smoked bacon 2 strips,4,g,10,mg,150,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+431,wawa test account,add pepperoni 2 slices,6,g,15,mg,260,g,1,g,3,g,2.5,g,0,g,0,g,0,g
+432,wawa test account,add roasted veggies 1 scoop,1.5,g,0,mg,110,g,3,g,1,g,0,g,0,g,1,g,2,g
+433,wawa test account,almond milk 1 tbsp,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,1,g
+434,wawa test account,apple fritter,32,g,0,mg,650,g,82,g,9,g,16,g,0,g,2,g,30,g
+435,wawa test account,apple fritter fl,16,g,0,mg,460,g,61,g,7,g,6,g,0,g,3,g,24,g
+436,wawa test account,applewood smoked bacon,4,g,10,mg,150,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+437,wawa test account,applewood smoked bacon mac and cheese,36,g,70,mg,1800,g,56,g,30,g,15,g,0,g,1,g,8,g
+438,wawa test account,avocado 1 scoop,4,g,0,mg,0,g,2,g,1,g,0.5,g,0,g,2,g,0,g
+439,wawa test account,bacon and egg omelet,20,g,245,mg,580,g,3,g,15,g,8,g,0,g,0,g,2,g
+440,wawa test account,bacon and maple waffles,30,g,45,mg,810,g,79,g,9,g,11,g,0,g,0,g,36,g
+441,wawa test account,bacon and scrambled egg,42,g,975,mg,1750,g,12,g,35,g,14,g,0,g,0,g,4,g
+442,wawa test account,bacon egg and cheese bagel,18,g,185,mg,980,g,42,g,19,g,7,g,0,g,0,g,5,g
+443,wawa test account,bacon egg and cheese bagel fl,18,g,185,mg,940,g,44,g,20,g,7,g,0,g,0,g,4,g
+444,wawa test account,bacon egg and cheese croissant,28,g,210,mg,770,g,27,g,16,g,12,g,0,g,0,g,6,g
+445,wawa test account,baked potato with cheddar soup family size,80,g,180,mg,3100,g,80,g,43,g,39,g,2.5,g,11,g,9,g
+446,wawa test account,baked potato with cheddar soup large,36,g,80,mg,1380,g,36,g,19,g,17,g,1,g,5,g,4,g
+447,wawa test account,baked potato with cheddar soup medium,27,g,60,mg,1030,g,26,g,14,g,13,g,1,g,4,g,3,g
+448,wawa test account,baked potato with cheddar soup small,19,g,45,mg,730,g,19,g,10,g,9,g,0.5,g,3,g,2,g
+449,wawa test account,banana nut muffin,30,g,90,mg,540,g,69,g,7,g,6,g,0,g,1,g,39,g
+450,wawa test account,banana nut muffin fl,34,g,100,mg,560,g,71,g,9,g,6,g,0,g,2,g,43,g
+451,wawa test account,beans bowl,6,g,0,mg,790,g,40,g,14,g,0,g,0,g,14,g,0,g
+452,wawa test account,beef steak,6,g,20,mg,230,g,1,g,8,g,2.5,g,0,g,0,g,0,g
+453,wawa test account,beyond meatball large,21,g,0,mg,1530,g,18,g,24,g,6,g,0,g,0,g,6,g
+454,wawa test account,beyond meatball medium,14,g,0,mg,1020,g,12,g,16,g,4,g,0,g,0,g,4,g
+455,wawa test account,beyond meatball small,7,g,0,mg,510,g,6,g,8,g,2,g,0,g,0,g,2,g
+456,wawa test account,biscuit,17,g,0,mg,1050,g,45,g,5,g,8,g,0,g,1,g,3,g
+457,wawa test account,black bean and egg quesadilla,33,g,60,mg,1220,g,57,g,17,g,14,g,0,g,5,g,5,g
+458,wawa test account,black beans family size,20,g,0,mg,2540,g,130,g,45,g,0,g,0,g,45,g,0,g
+459,wawa test account,black beans large,9,g,0,mg,1210,g,62,g,22,g,0,g,0,g,22,g,0,g
+460,wawa test account,black beans medium,7,g,0,mg,900,g,46,g,16,g,0,g,0,g,16,g,0,g
+461,wawa test account,black beans small,4.5,g,0,mg,600,g,30,g,11,g,0,g,0,g,11,g,0,g
+462,wawa test account,blt,8,g,20,mg,300,g,1,g,5,g,3,g,0,g,0,g,1,g
+463,wawa test account,blueberry cheese danish,22,g,60,mg,300,g,36,g,5,g,13,g,0,g,0,g,14,g
+464,wawa test account,blueberry cheesecake fl,20,g,0,mg,580,g,65,g,7,g,7,g,0,g,0,g,35,g
+465,wawa test account,blueberry muffin,28,g,85,mg,500,g,70,g,6,g,6,g,0,g,2,g,37,g
+466,wawa test account,blueberry muffin fl,31,g,85,mg,560,g,77,g,7,g,7,g,0,g,2,g,48,g
+467,wawa test account,boston cream donut fl,12,g,0,mg,380,g,48,g,4,g,5,g,0,g,1,g,19,g
+468,wawa test account,boston creme donut,18,g,0,mg,370,g,47,g,5,g,9,g,0,g,1,g,17,g
+469,wawa test account,breaded chicken strip,1.5,g,30,mg,670,g,13,g,11,g,0,g,0,g,1,g,1,g
+470,wawa test account,broccoli cheddar soup family size,65,g,215,mg,3440,g,43,g,29,g,39,g,0,g,4,g,11,g
+471,wawa test account,broccoli cheddar soup large,29,g,100,mg,1570,g,20,g,13,g,18,g,0,g,2,g,5,g
+472,wawa test account,broccoli cheddar soup medium,21,g,70,mg,1120,g,14,g,9,g,13,g,0,g,1,g,4,g
+473,wawa test account,broccoli cheddar soup small,15,g,50,mg,820,g,10,g,7,g,9,g,0,g,1,g,3,g
+474,wawa test account,buffalo chicken mac and cheese,39,g,80,mg,3120,g,59,g,48,g,15,g,0,g,1,g,9,g
+475,wawa test account,buffalo mac and cheese large,36,g,60,mg,2240,g,66,g,29,g,14,g,0,g,1,g,9,g
+476,wawa test account,buffalo mac and cheese medium,26,g,45,mg,1620,g,49,g,22,g,10,g,0,g,0,g,7,g
+477,wawa test account,buffalo mac and cheese small,19,g,35,mg,1170,g,35,g,15,g,7,g,0,g,1,g,5,g
+478,wawa test account,buffalo sauce,2.5,g,0,mg,360,g,1,g,0,g,0,g,0,g,0,g,0,g
+479,wawa test account,burrito bowl beef steak,12,g,40,mg,460,g,2,g,16,g,5,g,0,g,0,g,0,g
+480,wawa test account,burrito bowl chicken steak,5,g,30,mg,540,g,2,g,22,g,2,g,0,g,0,g,2,g
+481,wawa test account,burrito bowl roasted chicken,3,g,75,mg,650,g,2,g,23,g,0.5,g,0,g,0,g,1,g
+482,wawa test account,butter with canola regular,6,g,10,mg,5,g,0,g,0,g,2,g,0,g,0,g,0,g
+483,wawa test account,buttermilk ranch dressing,18,g,10,mg,460,g,3,g,1,g,3,g,0,g,0,g,2,g
+484,wawa test account,caesar dressing,18,g,10,mg,440,g,2,g,1,g,3,g,0,g,0,g,1,g
+485,wawa test account,caramel soft serve sundae,32,g,125,mg,360,g,91,g,10,g,21,g,1,g,0,g,78,g
+486,wawa test account,cheddar cheese,4.5,g,15,mg,90,g,0,g,4,g,2.5,g,0,g,0,g,0,g
+487,wawa test account,cheddar cheese sauce,2.5,g,10,mg,240,g,1,g,1,g,1.5,g,0,g,0,g,1,g
+488,wawa test account,cheddar cheese sauce side,13,g,40,mg,1110,g,6,g,7,g,8,g,0,g,0,g,3,g
+489,wawa test account,cheese croissant,22,g,70,mg,410,g,38,g,8,g,13,g,0,g,1,g,7,g
+490,wawa test account,cheese quesito with sugar topping fl,22,g,5,mg,460,g,32,g,4,g,12,g,0,g,0,g,7,g
+491,wawa test account,cheese steak mac and cheese,39,g,95,mg,1970,g,58,g,41,g,17,g,0,g,1,g,9,g
+492,wawa test account,cheeseburger quesadilla,37,g,100,mg,2690,g,56,g,36,g,18,g,0,g,1,g,11,g
+493,wawa test account,cheeseburger sourdough melt,23,g,70,mg,2480,g,88,g,40,g,10,g,0,g,4,g,8,g
+494,wawa test account,chef salad,37,g,265,mg,1760,g,34,g,35,g,11,g,0,g,6,g,8,g
+495,wawa test account,cherry cheese danish,21,g,60,mg,300,g,35,g,5,g,13,g,0,g,0,g,13,g
+496,wawa test account,cherry pepper relish,0,g,0,mg,200,g,1,g,0,g,0,g,0,g,0,g,1,g
+497,wawa test account,chicken bacon ranch quesadilla,54,g,120,mg,1930,g,46,g,46,g,21,g,0,g,1,g,5,g
+498,wawa test account,chicken corn chowder family size,58,g,125,mg,2930,g,127,g,22,g,22,g,0,g,11,g,33,g
+499,wawa test account,chicken corn chowder large,26,g,55,mg,1320,g,57,g,10,g,10,g,0,g,5,g,15,g
+500,wawa test account,chicken corn chowder medium,19,g,40,mg,960,g,41,g,7,g,7,g,0,g,0,g,11,g
+501,wawa test account,chicken corn chowder small,13,g,30,mg,670,g,29,g,5,g,5,g,0,g,2,g,7,g
+502,wawa test account,chicken noodle soup family size,17,g,130,mg,3710,g,60,g,37,g,4.5,g,0,g,0,g,6,g
+503,wawa test account,chicken noodle soup large,8,g,60,mg,1730,g,28,g,17,g,2,g,0,g,0,g,3,g
+504,wawa test account,chicken noodle soup medium,6,g,45,mg,1270,g,21,g,13,g,1.5,g,0,g,0,g,2,g
+505,wawa test account,chicken noodle soup small,4.5,g,30,mg,920,g,15,g,9,g,1,g,0,g,1,g,1,g
+506,wawa test account,chicken parmesan sourdough melt,30,g,65,mg,2080,g,82,g,49,g,10,g,0,g,5,g,3,g
+507,wawa test account,chicken salad,9,g,30,mg,270,g,3,g,8,g,1.5,g,0,g,0,g,1,g
+508,wawa test account,chicken salad fl,13,g,30,mg,370,g,3,g,7,g,1,g,0,g,1,g,1,g
+509,wawa test account,chicken salad garden salad,27,g,60,mg,1260,g,38,g,21,g,4,g,0,g,6,g,10,g
+510,wawa test account,chicken steak,2.5,g,15,mg,270,g,1,g,11,g,1,g,0,g,0,g,1,g
+511,wawa test account,chicken steak and egg white omelet,10,g,30,mg,640,g,4,g,24,g,3.5,g,0,g,0,g,2,g
+512,wawa test account,chicken tenders 3 piece,2.5,g,45,mg,1010,g,20,g,16,g,0,g,0,g,1,g,1,g
+513,wawa test account,chicken tenders 5 piece,4,g,75,mg,1690,g,34,g,27,g,0,g,0,g,2,g,2,g
+514,wawa test account,chili family size,46,g,110,mg,4260,g,99,g,60,g,19,g,2.5,g,30,g,33,g
+515,wawa test account,chili large,21,g,50,mg,1950,g,45,g,28,g,8,g,1,g,14,g,15,g
+516,wawa test account,chili medium,15,g,35,mg,1420,g,33,g,20,g,6,g,1,g,10,g,11,g
+517,wawa test account,chili small,11,g,25,mg,990,g,23,g,14,g,4.5,g,0.5,g,7,g,8,g
+518,wawa test account,chipotle beyond bowl,33,g,10,mg,1850,g,77,g,19,g,6,g,0,g,1,g,3,g
+519,wawa test account,chipotle mac and cheese large,43,g,70,mg,2030,g,67,g,29,g,16,g,0,g,1,g,11,g
+520,wawa test account,chipotle mac and cheese medium,31,g,50,mg,1480,g,49,g,22,g,11,g,0,g,0,g,8,g
+521,wawa test account,chipotle mac and cheese small,21,g,40,mg,1040,g,35,g,15,g,8,g,0,g,1,g,6,g
+522,wawa test account,chocolate chip cookie,17,g,55,mg,360,g,59,g,5,g,10,g,0,g,0,g,37,g
+523,wawa test account,chocolate chip cookie fl,17,g,50,mg,180,g,62,g,6,g,10,g,0,g,0,g,36,g
+524,wawa test account,chocolate chip muffin,31,g,85,mg,510,g,68,g,6,g,8,g,0,g,2,g,41,g
+525,wawa test account,chocolate chunk brownie ma,21,g,0,mg,260,g,73,g,5,g,7,g,0,g,0,g,47,g
+526,wawa test account,chocolate chunk brownie fl,13,g,0,mg,250,g,65,g,4,g,5,g,0,g,0,g,44,g
+527,wawa test account,chocolate croissant,22,g,75,mg,420,g,45,g,9,g,13,g,0,g,2,g,7,g
+528,wawa test account,chocolate frosted donut w sprinkles,12,g,0,mg,310,g,37,g,4,g,7,g,0,g,1,g,19,g
+529,wawa test account,chocolate frosted sprinkle donut fl,12,g,0,mg,300,g,36,g,4,g,4.5,g,0,g,1,g,13,g
+530,wawa test account,chocolate frosted yellow cake donut,15,g,15,mg,460,g,45,g,6,g,7,g,0,g,2,g,21,g
+531,wawa test account,chocolate soft serve sundae,30,g,115,mg,320,g,90,g,11,g,19,g,1,g,0,g,79,g
+532,wawa test account,chorizo croissant,36,g,225,mg,860,g,28,g,17,g,15,g,0,g,0,g,6,g
+533,wawa test account,cinnamon raisin bagel,1,g,0,mg,550,g,63,g,10,g,0,g,0,g,4,g,9,g
+534,wawa test account,cinnamon raisin bagel fl,1,g,0,mg,380,g,58,g,9,g,0,g,0,g,1,g,9,g
+535,wawa test account,cinnamon twist,16,g,5,mg,430,g,44,g,6,g,8,g,0,g,1,g,12,g
+536,wawa test account,classic roll,3,g,0,mg,680,g,65,g,13,g,0,g,0,g,2,g,2,g
+537,wawa test account,coffee roll fl,14,g,0,mg,560,g,66,g,8,g,5,g,0,g,3,g,21,g
+538,wawa test account,cold brew coffee mocha,2.5,g,10,mg,20,g,15,g,4,g,1.5,g,0,g,0,g,14,g
+539,wawa test account,cold brew coffee sweetened,2.5,g,10,mg,35,g,16,g,4,g,1.5,g,0,g,0,g,15,g
+540,wawa test account,cold brew coffee vanilla,2.5,g,10,mg,45,g,15,g,4,g,1.5,g,0,g,0,g,14,g
+541,wawa test account,colombian coffee 12 oz,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+542,wawa test account,colombian coffee 16 oz,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+543,wawa test account,colombian coffee 20 oz,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+544,wawa test account,colombian coffee 24 oz,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+545,wawa test account,cream cheese regular,7,g,25,mg,120,g,2,g,2,g,4.5,g,0,g,0,g,2,g
+546,wawa test account,creamed chipped beef biscuit bowl,36,g,5,mg,1960,g,61,g,19,g,12,g,0.5,g,0,g,12,g
+547,wawa test account,creamy chipotle sauce,6,g,5,mg,150,g,1,g,0,g,1,g,0,g,0,g,1,g
+548,wawa test account,crispy chicken blt salad,40,g,100,mg,2160,g,48,g,32,g,11,g,0,g,7,g,7,g
+549,wawa test account,croissant,10,g,25,mg,210,g,24,g,4,g,5,g,0,g,2,g,4,g
+550,wawa test account,croissant fl,10,g,25,mg,210,g,24,g,4,g,5,g,0,g,2,g,4,g
+551,wawa test account,cuban roast coffee 16 oz,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+552,wawa test account,cuban roast coffee 20 oz,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+553,wawa test account,cuban roast coffee 24 oz,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+554,wawa test account,cuban sourdough fl,17,g,75,mg,2710,g,76,g,54,g,9,g,0,g,4,g,0,g
+555,wawa test account,custom gyro salad,28,g,60,mg,640,g,8,g,14,g,12,g,0,g,0,g,2,g
+556,wawa test account,dark roast coffee 12 oz,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+557,wawa test account,dark roast coffee 16 oz,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+558,wawa test account,dark roast coffee 20 oz,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+559,wawa test account,dark roast coffee 24 oz,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+560,wawa test account,decaffeinated coffee 12 oz,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+561,wawa test account,decaffeinated coffee 16 oz,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+562,wawa test account,decaffeinated coffee 20 oz,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+563,wawa test account,decaffeinated coffee 24 oz,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+564,wawa test account,double bacon double cheese bagel,28,g,220,mg,1360,g,44,g,27,g,12,g,0,g,0,g,6,g
+565,wawa test account,double bacon double cheese bagel fl,29,g,220,mg,1320,g,46,g,27,g,12,g,0,g,0,g,5,g
+566,wawa test account,egg omelet,9,g,215,mg,250,g,3,g,8,g,3,g,0,g,0,g,2,g
+567,wawa test account,egg salad,15,g,165,mg,250,g,3,g,5,g,3,g,0,g,0,g,1,g
+568,wawa test account,egg white omelet,2.5,g,0,mg,260,g,3,g,9,g,0,g,0,g,0,g,1,g
+569,wawa test account,everything bagel,6,g,0,mg,530,g,56,g,10,g,1,g,0,g,3,g,5,g
+570,wawa test account,everything bagel fl,1.5,g,0,mg,410,g,55,g,9,g,0,g,0,g,2,g,4,g
+571,wawa test account,everything pretzel,3,g,0,mg,1180,g,55,g,10,g,1,g,0,g,5,g,2,g
+572,wawa test account,fire roasted poblano ranch dressing,21,g,15,mg,400,g,2,g,1,g,3.5,g,0,g,0,g,2,g
+573,wawa test account,french vanilla coffee 16 oz,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+574,wawa test account,french vanilla coffee 20 oz,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+575,wawa test account,french vanilla coffee 24 0z,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+576,wawa test account,french vanilla creamer 1 tbsp,1,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,4,g
+577,wawa test account,garden salad,20,g,205,mg,1340,g,34,g,20,g,7,g,0,g,4,g,9,g
+578,wawa test account,garlic aioli sauce,12,g,5,mg,50,g,1,g,0,g,2,g,0,g,0,g,0,g
+579,wawa test account,garlic barbecue turkey sourdough melt,19,g,75,mg,2680,g,88,g,42,g,6,g,0,g,4,g,10,g
+580,wawa test account,garlic mac and cheese large,54,g,70,mg,1870,g,67,g,29,g,17,g,0,g,1,g,9,g
+581,wawa test account,garlic mac and cheese medium,37,g,50,mg,1360,g,49,g,22,g,12,g,0,g,0,g,7,g
+582,wawa test account,garlic mac and cheese small,22,g,35,mg,960,g,34,g,15,g,8,g,0,g,1,g,5,g
+583,wawa test account,garlic mash beyond bowl,65,g,95,mg,1720,g,56,g,21,g,26,g,0,g,5,g,3,g
+584,wawa test account,garlic smoked turkey and egg quesadilla,35,g,70,mg,1420,g,48,g,25,g,14,g,0,g,1,g,4,g
+585,wawa test account,glazed donut,11,g,0,mg,310,g,35,g,4,g,6,g,0,g,0,g,16,g
+586,wawa test account,glazed donut fl,9,g,0,mg,270,g,35,g,3,g,3.5,g,0,g,1,g,14,g
+587,wawa test account,glazed old fashioned cake donut,11,g,0,mg,520,g,58,g,5,g,5,g,0,g,1,g,35,g
+588,wawa test account,glazed twist,16,g,10,mg,510,g,56,g,7,g,8,g,0,g,1,g,28,g
+589,wawa test account,grated parmesan,1.5,g,5,mg,90,g,1,g,1,g,1,g,0,g,0,g,0,g
+590,wawa test account,greek chicken salad,15,g,95,mg,1450,g,32,g,37,g,7,g,0,g,2,g,7,g
+591,wawa test account,greek grain bowl,22,g,95,mg,1570,g,56,g,44,g,6,g,0,g,0,g,7,g
+592,wawa test account,greek gyro meat bowl,50,g,80,mg,1580,g,70,g,37,g,20,g,0,g,0,g,9,g
+593,wawa test account,greek gyro salad,40,g,80,mg,1440,g,38,g,28,g,19,g,0,g,2,g,8,g
+594,wawa test account,greek roasted chicken bowl,25,g,95,mg,1590,g,64,g,46,g,8,g,0,g,0,g,8,g
+595,wawa test account,greek yogurt wheat roll,2,g,0,mg,260,g,38,g,9,g,0.5,g,0,g,5,g,6,g
+596,wawa test account,grilled cheese sourdough melt,38,g,80,mg,1650,g,75,g,37,g,16,g,0,g,4,g,0,g
+597,wawa test account,grilled panini bread,3.5,g,0,mg,330,g,31,g,5,g,0,g,0,g,1,g,0,g
+598,wawa test account,grits family size,131,g,395,mg,3790,g,105,g,35,g,80,g,0,g,0,g,18,g
+599,wawa test account,grits large,59,g,180,mg,1710,g,47,g,16,g,36,g,0,g,0,g,8,g
+600,wawa test account,grits medium,44,g,130,mg,1260,g,35,g,12,g,27,g,0,g,0,g,6,g
+601,wawa test account,grits small,32,g,95,mg,920,g,26,g,9,g,19,g,0,g,0,g,4,g
+602,wawa test account,grits bowl,48,g,140,mg,1360,g,36,g,12,g,28,g,0,g,0,g,8,g
+603,wawa test account,grits mac and cheese bowl,38,g,95,mg,1430,g,45,g,18,g,20,g,0,g,0,g,8,g
+604,wawa test account,guava and cheese turnover fl,18,g,0,mg,340,g,49,g,6,g,8,g,0,g,0,g,18,g
+605,wawa test account,gyro meat,14,g,30,mg,320,g,4,g,7,g,6,g,0,g,0,g,1,g
+606,wawa test account,half and half pc 1,1.5,g,5,mg,5,g,1,g,0,g,1,g,0,g,0,g,0,g
+607,wawa test account,half and half 1 tbs,1.5,g,5,mg,10,g,1,g,0,g,1,g,0,g,0,g,1,g
+608,wawa test account,ham,1.5,g,25,mg,390,g,1,g,8,g,1,g,0,g,0,g,0,g
+609,wawa test account,ham and egg quesadilla,25,g,80,mg,1220,g,45,g,24,g,14,g,0,g,1,g,3,g
+610,wawa test account,ham and swiss stacked sandwich,25,g,110,mg,2580,g,55,g,44,g,7,g,0,g,2,g,6,g
+611,wawa test account,ham breakfast club bagel,27,g,165,mg,1430,g,61,g,27,g,9,g,0,g,3,g,7,g
+612,wawa test account,ham egg and cheese croissant,23,g,220,mg,970,g,27,g,20,g,11,g,0,g,0,g,5,g
+613,wawa test account,hash brown,8,g,0,mg,300,g,15,g,2,g,2,g,0,g,0,g,1,g
+614,wawa test account,hazelnut coffee 16 oz,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+615,wawa test account,hazelnut coffee 20 oz,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+616,wawa test account,hazelnut coffee 24 oz,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+617,wawa test account,hazelnut creamer 1 tbsp,1,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,4,g
+618,wawa test account,honey hot brisket bowl,62,g,180,mg,2020,g,37,g,30,g,34,g,0,g,0,g,8,g
+619,wawa test account,honey hot chicken bowl,50,g,185,mg,2370,g,56,g,29,g,28,g,0,g,2,g,10,g
+620,wawa test account,honey hot sauce,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,7,g
+621,wawa test account,honey smoked turkey,0.5,g,25,mg,480,g,3,g,9,g,0,g,0,g,0,g,3,g
+622,wawa test account,hot peppers,0,g,0,mg,360,g,1,g,0,g,0,g,0,g,0,g,0,g
+623,wawa test account,hot turkey,2,g,20,mg,340,g,4,g,8,g,0,g,0,g,0,g,1,g
+624,wawa test account,irish cream creamer 1 tbsp,1,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,5,g
+625,wawa test account,italian,6,g,25,mg,480,g,1,g,8,g,2,g,0,g,0,g,0,g
+626,wawa test account,italian antipasto salad,29,g,75,mg,2250,g,13,g,26,g,12,g,0,g,2,g,6,g
+627,wawa test account,italian grain beyond bowl,29,g,25,mg,4340,g,104,g,38,g,10,g,0,g,0,g,40,g
+628,wawa test account,italian mac beyond meatball,39,g,55,mg,2370,g,60,g,38,g,16,g,0,g,1,g,9,g
+629,wawa test account,jalapeno peppers,0,g,0,mg,230,g,1,g,0,g,0,g,0,g,0,g,0,g
+630,wawa test account,junior roll,1,g,0,mg,230,g,22,g,4,g,0,g,0,g,1,g,1,g
+631,wawa test account,junior wheat roll,1.5,g,0,mg,200,g,30,g,6,g,0,g,0,g,5,g,1,g
+632,wawa test account,ketchup,0,g,0,mg,130,g,5,g,0,g,0,g,0,g,0,g,4,g
+633,wawa test account,large cinnamon brown sugar oatmeal,7,g,0,mg,200,g,90,g,9,g,0,g,0,g,0,g,50,g
+634,wawa test account,lettuce bowl,0,g,0,mg,30,g,3,g,1,g,0,g,0,g,0,g,1,g
+635,wawa test account,light balsamic vinaigrette,6,g,0,mg,490,g,4,g,0,g,1,g,0,g,0,g,3,g
+636,wawa test account,light cream 1 tbsp,2.5,g,10,mg,5,g,1,g,0,g,1.5,g,0,g,0,g,0,g
+637,wawa test account,lighter style garden salad,17,g,205,mg,1120,g,19,g,18,g,7,g,0,g,3,g,9,g
+638,wawa test account,lighter style roasted chicken and veggie,12,g,75,mg,1380,g,36,g,28,g,1.5,g,0,g,6,g,10,g
+639,wawa test account,lighter style southwest chicken salad,19,g,75,mg,1260,g,33,g,31,g,2,g,0,g,10,g,8,g
+640,wawa test account,lite cream cheese regular,5,g,15,mg,160,g,2,g,2,g,3,g,0,g,0,g,2,g
+641,wawa test account,mac and cheese bowl,27,g,50,mg,1500,g,55,g,25,g,12,g,0,g,1,g,8,g
+642,wawa test account,macaroni and cheese family size,71,g,135,mg,3910,g,143,g,65,g,31,g,0,g,2,g,20,g
+643,wawa test account,macaroni and cheese large,33,g,60,mg,1780,g,65,g,29,g,14,g,0,g,1,g,9,g
+644,wawa test account,macaroni and cheese medium,24,g,45,mg,1300,g,48,g,22,g,10,g,0,g,0,g,7,g
+645,wawa test account,macaroni and cheese small,17,g,35,mg,940,g,34,g,15,g,7,g,0,g,1,g,5,g
+646,wawa test account,marble rye,0,g,0,mg,170,g,32,g,7,g,0,g,0,g,1,g,0,g
+647,wawa test account,marinara sauce contains beef and pork,0,g,0,mg,115,g,3,g,1,g,0,g,0,g,1,g,1,g
+648,wawa test account,mashed potato bowl,29,g,80,mg,1050,g,50,g,8,g,18,g,0,g,5,g,3,g
+649,wawa test account,mashed potato mac and cheese bowl,28,g,65,mg,1280,g,52,g,16,g,15,g,0,g,3,g,5,g
+650,wawa test account,mashed potatoes family size,81,g,220,mg,2940,g,140,g,22,g,52,g,0,g,15,g,7,g
+651,wawa test account,mashed potatoes large,36,g,100,mg,1330,g,63,g,10,g,23,g,0,g,7,g,3,g
+652,wawa test account,mashed potatoes medium,27,g,75,mg,980,g,47,g,7,g,17,g,0,g,5,g,2,g
+653,wawa test account,mashed potatoes small,20,g,55,mg,720,g,34,g,5,g,13,g,0,g,4,g,2,g
+654,wawa test account,mayo ketchup fl,7,g,5,mg,120,g,1,g,0,g,1,g,0,g,0,g,1,g
+655,wawa test account,meatballs in a cup family size,153,g,205,mg,5610,g,82,g,51,g,51,g,5,g,0,g,31,g
+656,wawa test account,meatballs in a cup large,57,g,75,mg,2100,g,31,g,19,g,19,g,2,g,0,g,11,g
+657,wawa test account,meatballs in a cup medium,38,g,50,mg,1400,g,20,g,13,g,13,g,1.5,g,0,g,8,g
+658,wawa test account,meatballs in a cup small,19,g,25,mg,700,g,10,g,6,g,6,g,0.5,g,0,g,4,g
+659,wawa test account,meatballs in marinara sauce,19,g,25,mg,700,g,10,g,6,g,6,g,0.5,g,0,g,4,g
+660,wawa test account,medium cinnamon brown sugar oatmeal,5,g,0,mg,150,g,67,g,7,g,0,g,0,g,0,g,37,g
+661,wawa test account,miracle whip,3.5,g,5,mg,140,g,3,g,0,g,0.5,g,0,g,0,g,2,g
+662,wawa test account,mixed berry cream cheese regular,3.5,g,10,mg,60,g,5,g,1,g,2,g,0,g,0,g,4,g
+663,wawa test account,multigrain bread,4.5,g,0,mg,490,g,47,g,10,g,0.5,g,0,g,2,g,6,g
+664,wawa test account,new england clam chowder family size,58,g,230,mg,3110,g,69,g,28,g,35,g,1,g,1,g,15,g
+665,wawa test account,new england clam chowder large,26,g,105,mg,1410,g,31,g,13,g,16,g,0,g,1,g,7,g
+666,wawa test account,new england clam chowder medium,20,g,80,mg,1060,g,23,g,10,g,12,g,0,g,0,g,5,g
+667,wawa test account,new england clam chowder small,14,g,55,mg,720,g,16,g,6,g,8,g,0,g,0,g,3,g
+668,wawa test account,non fat skim milk fl 1tbsp,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,1,g
+669,wawa test account,non fat skim milk 1 tbs,0,g,0,mg,5,g,1,g,1,g,0,g,0,g,0,g,1,g
+670,wawa test account,old bay,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+671,wawa test account,old fashioned cake donut fl,10,g,25,mg,430,g,41,g,5,g,1.5,g,0,g,1,g,15,g
+672,wawa test account,old fashioned donut,18,g,20,mg,430,g,38,g,6,g,8,g,0,g,2,g,13,g
+673,wawa test account,onions,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+674,wawa test account,oven roasted turkey,1,g,20,mg,460,g,1,g,9,g,0,g,0,g,0,g,1,g
+675,wawa test account,pancake and bacon bowl,15,g,30,mg,670,g,52,g,9,g,6,g,0,g,1,g,19,g
+676,wawa test account,pancake and creamed chipped beef bowl,29,g,20,mg,1390,g,68,g,18,g,7,g,0.5,g,0,g,28,g
+677,wawa test account,pancake and sausage bowl,26,g,45,mg,690,g,52,g,10,g,9,g,0,g,1,g,19,g
+678,wawa test account,pancake and sausage gravy bowl,21,g,35,mg,1300,g,60,g,11,g,7,g,0,g,0,g,23,g
+679,wawa test account,pancake and turkey sausage bowl,14,g,50,mg,700,g,52,g,12,g,5,g,0,g,1,g,19,g
+680,wawa test account,pastrami and rye stacked sandwich,13,g,105,mg,2720,g,39,g,43,g,1,g,0,g,1,g,5,g
+681,wawa test account,patriotic star donut fl,9,g,0,mg,280,g,38,g,4,g,3.5,g,0,g,1,g,15,g
+682,wawa test account,pepper jack cheese,4,g,15,mg,95,g,0,g,3,g,2.5,g,0,g,0,g,0,g
+683,wawa test account,pepperoni,16,g,35,mg,650,g,1,g,7,g,6,g,0,g,0,g,1,g
+684,wawa test account,peppers and eggs beyond sausage bagel sandwich,16,g,0,mg,320,g,2,g,14,g,6,g,0,g,0,g,0,g
+685,wawa test account,pickles,0,g,0,mg,240,g,0,g,0,g,0,g,0,g,0,g,0,g
+686,wawa test account,pico de gallo,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,1,g
+687,wawa test account,pierogi quesadilla,35,g,80,mg,1500,g,61,g,24,g,18,g,0,g,2,g,5,g
+688,wawa test account,pita,7,g,0,mg,360,g,39,g,8,g,0.5,g,0,g,0,g,2,g
+689,wawa test account,plain bagel,1,g,0,mg,580,g,55,g,9,g,0,g,0,g,3,g,5,g
+690,wawa test account,plain bagel fl,1,g,0,mg,420,g,55,g,9,g,0,g,0,g,2,g,4,g
+691,wawa test account,pork roll egg and cheese bagel,19,g,190,mg,930,g,42,g,19,g,7,g,0,g,0,g,5,g
+692,wawa test account,pork roll egg and cheese bagel fl,19,g,190,mg,890,g,44,g,19,g,7,g,0,g,2,g,4,g
+693,wawa test account,premium orange juice,0,g,0,mg,0,g,26,g,2,g,0,g,0,g,0,g,21,g
+694,wawa test account,provolone cheese,4,g,10,mg,125,g,0,g,4,g,2,g,0,g,0,g,0,g
+695,wawa test account,pulled pork,3.5,g,25,mg,300,g,0,g,14,g,1.5,g,0,g,0,g,0,g
+696,wawa test account,pumpkin glazed cake donut fl,12,g,25,mg,360,g,45,g,4,g,4.5,g,0,g,1,g,22,g
+697,wawa test account,pumpkin spice coffee 16 oz,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+698,wawa test account,pumpkin spice coffee 20 oz,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+699,wawa test account,pumpkin spice coffee 24 oz,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+700,wawa test account,pumpkin spice donut,17,g,15,mg,400,g,42,g,4,g,8,g,0,g,0,g,19,g
+701,wawa test account,pumpkin spice donut fl,12,g,25,mg,360,g,45,g,4,g,4.5,g,0,g,1,g,22,g
+702,wawa test account,pumpkin spice muffin,36,g,105,mg,570,g,74,g,7,g,9,g,0,g,1,g,45,g
+703,wawa test account,pumpkin spice muffin fl,28,g,95,mg,510,g,66,g,7,g,6,g,0,g,1,g,35,g
+704,wawa test account,quinoa bowl,0,g,0,mg,135,g,39,g,9,g,0,g,0,g,0,g,3,g
+705,wawa test account,rainbow cookie,13,g,55,mg,240,g,61,g,4,g,8,g,0,g,0,g,35,g
+706,wawa test account,rainbow cookie fl,17,g,60,mg,200,g,69,g,6,g,10,g,0,g,0,g,41,g
+707,wawa test account,ranch dressing,9,g,5,mg,100,g,1,g,0,g,1.5,g,0,g,0,g,1,g
+708,wawa test account,ranch mac and cheese large,86,g,90,mg,2370,g,71,g,29,g,23,g,0,g,1,g,15,g
+709,wawa test account,ranch mac and cheese medium,57,g,65,mg,1670,g,52,g,22,g,16,g,0,g,0,g,11,g
+710,wawa test account,ranch mac and cheese small,26,g,40,mg,1040,g,35,g,15,g,9,g,0,g,1,g,6,g
+711,wawa test account,red velvet muffin,40,g,110,mg,640,g,85,g,7,g,9,g,0.5,g,1,g,54,g
+712,wawa test account,regular coffee 16 oz,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+713,wawa test account,regular coffee 20 oz,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+714,wawa test account,regular coffee 24 oz,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+715,wawa test account,regular soft serve sundae,29,g,115,mg,300,g,65,g,10,g,19,g,1,g,0,g,56,g
+716,wawa test account,remoulade sauce,7,g,5,mg,190,g,1,g,0,g,1,g,0,g,0,g,1,g
+717,wawa test account,rice and beans family size,8,g,0,mg,2330,g,135,g,27,g,0,g,0,g,19,g,0,g
+718,wawa test account,rice and beans large,4.5,g,0,mg,1180,g,68,g,15,g,0,g,0,g,11,g,0,g
+719,wawa test account,rice and beans medium,3.5,g,0,mg,850,g,49,g,11,g,0,g,0,g,8,g,0,g
+720,wawa test account,rice and beans small,2.5,g,0,mg,570,g,33,g,7,g,0,g,0,g,5,g,0,g
+721,wawa test account,rice family size,0,g,0,mg,90,g,6,g,1,g,0,g,0,g,0,g,0,g
+722,wawa test account,rice large,0,g,0,mg,1150,g,73,g,8,g,0,g,0,g,0,g,0,g
+723,wawa test account,rice medium,0,g,0,mg,810,g,52,g,5,g,0,g,0,g,0,g,0,g
+724,wawa test account,rice small,0,g,0,mg,540,g,35,g,4,g,0,g,0,g,0,g,0,g
+725,wawa test account,rice bowl,0,g,0,mg,990,g,63,g,6,g,0,g,0,g,0,g,0,g
+726,wawa test account,rice beans bowl,3,g,0,mg,890,g,52,g,10,g,0,g,0,g,7,g,0,g
+727,wawa test account,roast beef,1,g,35,mg,290,g,0,g,7,g,0,g,0,g,0,g,0,g
+728,wawa test account,roast beef stacked sandwich,16,g,150,mg,1400,g,36,g,35,g,2,g,0,g,1,g,0,g
+729,wawa test account,roasted chicken,3,g,75,mg,650,g,2,g,23,g,0.5,g,0,g,0,g,1,g
+730,wawa test account,roasted chicken caesar salad,35,g,110,mg,1690,g,26,g,36,g,11,g,0,g,5,g,4,g
+731,wawa test account,roasted chicken sourdough melt,25,g,100,mg,1900,g,79,g,47,g,7,g,0,g,4,g,1,g
+732,wawa test account,roasted peppers,1,g,0,mg,100,g,1,g,0,g,0,g,0,g,0,g,1,g
+733,wawa test account,roasted veggies,1.5,g,0,mg,110,g,3,g,1,g,0,g,0,g,1,g,2,g
+734,wawa test account,romaine bowl,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,0,g,1,g
+735,wawa test account,salt,0,g,0,mg,100,g,0,g,0,g,0,g,0,g,0,g,0,g
+736,wawa test account,sausage crumble,20,g,35,mg,330,g,0,g,6,g,7,g,0,g,0,g,0,g
+737,wawa test account,sausage gravy and biscuit,29,g,20,mg,1880,g,53,g,12,g,11,g,0,g,1,g,7,g
+738,wawa test account,sausage patty,17,g,30,mg,210,g,0,g,6,g,6,g,0,g,0,g,0,g
+739,wawa test account,sausage egg and cheese bagel,29,g,200,mg,1000,g,42,g,20,g,11,g,0,g,0,g,5,g
+740,wawa test account,sausage egg and cheese bagel fl,29,g,200,mg,960,g,44,g,21,g,11,g,0,g,0,g,4,g
+741,wawa test account,sausage egg and cheese biscuit,45,g,200,mg,1630,g,48,g,19,g,19,g,0,g,0,g,5,g
+742,wawa test account,sausage egg and cheese croissant,39,g,225,mg,790,g,27,g,18,g,16,g,0,g,0,g,6,g
+743,wawa test account,sausage egg and cheese muffin,30,g,200,mg,800,g,28,g,17,g,11,g,0,g,0,g,2,g
+744,wawa test account,sausage egg and cheese pancake,35,g,210,mg,900,g,37,g,16,g,13,g,0,g,0,g,14,g
+745,wawa test account,sausage egg and cheese waffle,44,g,220,mg,940,g,34,g,18,g,17,g,0,g,0,g,12,g
+746,wawa test account,scrambled eggs,9,g,240,mg,380,g,3,g,8,g,3,g,0,g,0,g,1,g
+747,wawa test account,shorti roll,2,g,0,mg,470,g,45,g,9,g,0,g,0,g,2,g,1,g
+748,wawa test account,shredded brisket,14,g,40,mg,660,g,1,g,18,g,6,g,0,g,0,g,0,g
+749,wawa test account,side of hot peppers,0,g,0,mg,470,g,1,g,0,g,0,g,0,g,0,g,0,g
+750,wawa test account,side of sour cream,5,g,20,mg,30,g,2,g,1,g,3,g,0,g,0,g,1,g
+751,wawa test account,side of sweet peppers,0,g,0,mg,115,g,5,g,0,g,0,g,0,g,0,g,0,g
+752,wawa test account,small cinnamon brown sugar oatmeal,3.5,g,0,mg,105,g,47,g,5,g,0,g,0,g,0,g,26,g
+753,wawa test account,soft pretzel,3,g,0,mg,1740,g,61,g,11,g,2,g,0,g,4,g,2,g
+754,wawa test account,soft pretzel fl,3,g,0,mg,1740,g,61,g,11,g,2,g,0,g,4,g,2,g
+755,wawa test account,sourdough bread,1,g,0,mg,470,g,37,g,8,g,0,g,0,g,2,g,0,g
+756,wawa test account,southern honey hot chicken and scrambled egg bowl,62,g,1075,mg,3210,g,50,g,55,g,26,g,0,g,2,g,10,g
+757,wawa test account,southern honey hot loaded breakfast bowl,97,g,1065,mg,3580,g,75,g,49,g,41,g,0,g,1,g,11,g
+758,wawa test account,southwest chicken salad,42,g,115,mg,1330,g,32,g,38,g,10,g,0,g,10,g,7,g
+759,wawa test account,spicy cheesesteak sourdough melt,34,g,65,mg,1900,g,78,g,40,g,11,g,0,g,4,g,1,g
+760,wawa test account,spicy italian sourdough melt,34,g,75,mg,2410,g,80,g,40,g,10,g,0,g,4,g,1,g
+761,wawa test account,spicy mustard,1,g,0,mg,230,g,1,g,1,g,0,g,0,g,0,g,0,g
+762,wawa test account,spicy pepperoni sourdough melt,54,g,95,mg,2740,g,78,g,38,g,18,g,0,g,4,g,3,g
+763,wawa test account,spicy turkey and egg quesadilla,23,g,75,mg,1500,g,46,g,23,g,13,g,0,g,1,g,5,g
+764,wawa test account,spicy veggie beyond bowl,14,g,0,mg,1690,g,14,g,14,g,3.5,g,0,g,1,g,6,g
+765,wawa test account,spicy veggie beyond salad,20,g,0,mg,1700,g,22,g,19,g,5,g,0,g,5,g,8,g
+766,wawa test account,spinach,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+767,wawa test account,spinach bowl,0,g,0,mg,35,g,2,g,1,g,0,g,0,g,0,g,0,g
+768,wawa test account,sriracha mac and cheese large,33,g,60,mg,1990,g,67,g,29,g,14,g,0,g,1,g,11,g
+769,wawa test account,sriracha mac and cheese medium,24,g,45,mg,1540,g,50,g,22,g,10,g,0,g,0,g,9,g
+770,wawa test account,sriracha mac and cheese small,17,g,35,mg,1010,g,35,g,15,g,7,g,0,g,1,g,6,g
+771,wawa test account,sriracha sauce,0,g,0,mg,115,g,1,g,0,g,0,g,0,g,0,g,1,g
+772,wawa test account,star donut,15,g,0,mg,360,g,47,g,5,g,7,g,0,g,1,g,20,g
+773,wawa test account,stuffing bowl,27,g,30,mg,1360,g,62,g,12,g,9,g,0,g,3,g,6,g
+774,wawa test account,sugar in the raw 1,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,5,g
+775,wawa test account,sugar ring donut fl,10,g,0,mg,320,g,34,g,5,g,2,g,0,g,1,g,10,g
+776,wawa test account,sweet peppers,0,g,0,mg,85,g,4,g,0,g,0,g,0,g,0,g,0,g
+777,wawa test account,sweet potato bowl,28,g,145,mg,250,g,90,g,5,g,16,g,0,g,0,g,62,g
+778,wawa test account,sweet potato mashed potato bowl,28,g,115,mg,660,g,70,g,6,g,17,g,0,g,3,g,32,g
+779,wawa test account,sweet potato stuffing bowl,27,g,90,mg,810,g,76,g,8,g,13,g,0,g,1,g,34,g
+780,wawa test account,swiss cheese,4,g,0,mg,25,g,0,g,4,g,2.5,g,0,g,0,g,0,g
+781,wawa test account,tomato,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+782,wawa test account,tomato soup family size,66,g,90,mg,2590,g,84,g,11,g,18,g,0,g,11,g,58,g
+783,wawa test account,tomato soup large,30,g,40,mg,1190,g,38,g,5,g,8,g,0,g,5,g,27,g
+784,wawa test account,tomato soup medium,22,g,30,mg,870,g,28,g,4,g,6,g,0,g,0,g,20,g
+785,wawa test account,tomato soup small,15,g,20,mg,590,g,19,g,2,g,4,g,0,g,2,g,13,g
+786,wawa test account,tortilla,7,g,0,mg,530,g,42,g,6,g,3,g,0,g,1,g,1,g
+787,wawa test account,triple berry muffin fl,28,g,95,mg,480,g,62,g,7,g,5,g,0,g,2,g,36,g
+788,wawa test account,tuna salad,13,g,25,mg,260,g,5,g,7,g,2,g,0,g,0,g,0,g
+789,wawa test account,tuna salad garden salad,35,g,50,mg,1240,g,42,g,19,g,5,g,0,g,6,g,8,g
+790,wawa test account,tuna salad fl,17,g,30,mg,280,g,2,g,8,g,2.5,g,0,g,1,g,0,g
+791,wawa test account,turkey bacon ranch salad,28,g,70,mg,1690,g,15,g,26,g,6,g,0,g,5,g,9,g
+792,wawa test account,turkey breakfast club bagel,26,g,160,mg,1500,g,61,g,28,g,8,g,0,g,3,g,8,g
+793,wawa test account,turkey harvest salad,34,g,60,mg,2040,g,46,g,36,g,9,g,0,g,6,g,27,g
+794,wawa test account,turkey sausage patty,5,g,40,mg,220,g,1,g,7,g,1.5,g,0,g,0,g,0,g
+795,wawa test account,turkey sausage egg and cheese croissant,27,g,235,mg,810,g,28,g,19,g,11,g,0,g,0,g,6,g
+796,wawa test account,turkey sausage egg white and cheese bagel,10,g,55,mg,1010,g,42,g,23,g,4.5,g,0,g,0,g,5,g
+797,wawa test account,turkey sausage egg white and cheese bagel fl,11,g,55,mg,970,g,44,g,23,g,4.5,g,0,g,0,g,4,g
+798,wawa test account,turkey veggie stacked sandwich,21,g,90,mg,2410,g,56,g,46,g,2.5,g,0,g,2,g,10,g
+799,wawa test account,tzatziki sauce,2.5,g,0,mg,85,g,2,g,1,g,2,g,0,g,0,g,1,g
+800,wawa test account,vanilla iced donut,10,g,0,mg,310,g,40,g,4,g,6,g,0,g,1,g,17,g
+801,wawa test account,vanilla iced donut fl,9,g,0,mg,280,g,43,g,4,g,4,g,0,g,1,g,21,g
+802,wawa test account,vanilla iced sprinkle donut,8,g,0,mg,310,g,36,g,4,g,4,g,0,g,1,g,7,g
+803,wawa test account,vanilla iced sprinkle donut fl,10,g,0,mg,0,g,38,g,0,g,4.5,g,0,g,0,g,16,g
+804,wawa test account,veggie and cheese beyond sausage bagel sandwich,23,g,25,mg,440,g,4,g,16,g,11,g,0,g,0,g,2,g
+805,wawa test account,veggie breakfast bagel,18,g,25,mg,890,g,63,g,17,g,6,g,0,g,4,g,9,g
+806,wawa test account,veggie cream cheese bagel,13,g,25,mg,650,g,60,g,12,g,6,g,0,g,3,g,7,g
+807,wawa test account,veggie cream cheese regular,7,g,25,mg,120,g,2,g,2,g,4.5,g,0,g,0,g,2,g
+808,wawa test account,vinegar,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+809,wawa test account,western breakfast bagel,20,g,140,mg,1130,g,58,g,19,g,7,g,0,g,3,g,8,g
+810,wawa test account,wheat classic roll,3.5,g,0,mg,660,g,74,g,15,g,0.5,g,0,g,0,g,7,g
+811,wawa test account,wheat shorti roll,2.5,g,0,mg,430,g,49,g,10,g,0,g,0,g,0,g,4,g
+812,wawa test account,white american cheese,4.5,g,15,mg,190,g,1,g,3,g,2.5,g,0,g,0,g,1,g
+813,wawa test account,white bread,2,g,0,mg,460,g,31,g,5,g,0,g,0,g,1,g,1,g
+814,wawa test account,white bread fl,1,g,0,mg,190,g,24,g,6,g,0,g,0,g,2,g,2,g
+815,wawa test account,white sugar packet 1,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,3,g
+816,wawa test account,whole milk fl 1tbsp,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,1,g
+817,wawa test account,whole milk 1 tbs,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,1,g
+818,wawa test account,yellow american cheese,4,g,10,mg,250,g,0,g,3,g,2.5,g,0,g,0,g,0,g
+819,wawa test account,yellow mustard,0,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+820,weathervane seafood,apple harvest chicken,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+821,weathervane seafood,broiled haddock,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+822,weathervane seafood,broiled haddock sandwich,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+823,weathervane seafood,broiled sea scallops,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+824,weathervane seafood,broiled seafood platter,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+825,weathervane seafood,grilled chicken caesar salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+826,weathervane seafood,grilled maple salmon,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+827,weathervane seafood,grilled salmon house salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+828,weathervane seafood,seafarer steamers,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+829,weathervane seafood,single lobster dinner,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+830,weathervane seafood,steamed mussles,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+831,well informed,american cheese,9,g,25,mg,340,g,1,g,6,g,5,g,0,g,0,g,1,g
+832,well informed,apple slices,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,2,g,6,g
+833,well informed,apple slices bag,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,2,g,6,g
+834,well informed,artichoke hearts,0,g,0,mg,105,g,2,g,1,g,0,g,0,g,1,g,0,g
+835,well informed,artisan white ciabatta roll,1,g,0,mg,230,g,21,g,4,g,0,g,0,g,1,g,0,g
+836,well informed,artisan white panini roll,2,g,0,mg,460,g,42,g,8,g,0,g,0,g,2,g,0,g
+837,well informed,asian noodles,1.5,g,5,mg,110,g,7,g,1,g,0,g,0,g,1,g,3,g
+838,well informed,baby spinach,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+839,well informed,bacon,4.5,g,0,mg,410,g,0,g,11,g,0,g,0,g,0,g,0,g
+840,well informed,balsamic dressing,10,g,0,mg,280,g,3,g,0,g,1.5,g,0,g,0,g,3,g
+841,well informed,balsamic vinegar,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,0,g
+842,well informed,banana nut muffin,25,g,75,mg,340,g,57,g,6,g,4,g,0,g,1,g,31,g
+843,well informed,barbecue sauce,0,g,0,mg,300,g,17,g,0,g,0,g,0,g,0,g,15,g
+844,well informed,beets,0,g,0,mg,65,g,2,g,0,g,0,g,0,g,0,g,2,g
+845,well informed,black bean burger,5,g,0,mg,700,g,61,g,14,g,0.5,g,0,g,8,g,4,g
+846,well informed,black bean burger patty,2.5,g,0,mg,330,g,20,g,8,g,0,g,0,g,4,g,1,g
+847,well informed,black beans,0,g,0,mg,100,g,5,g,2,g,0,g,0,g,2,g,0,g
+848,well informed,black olives,2,g,0,mg,135,g,1,g,0,g,0,g,0,g,0,g,0,g
+849,well informed,blue cheese,8,g,20,mg,390,g,1,g,6,g,5,g,0,g,0,g,0,g
+850,well informed,blue cheese dressing,16,g,0,mg,290,g,1,g,0,g,2.5,g,0,g,0,g,1,g
+851,well informed,blueberries,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,2,g,7,g
+852,well informed,blueberry bagel,1,g,0,mg,350,g,56,g,11,g,0,g,0,g,2,g,6,g
+853,well informed,blueberry muffin,21,g,70,mg,320,g,54,g,5,g,3,g,0,g,1,g,30,g
+854,well informed,buttermilk ranch dressing,20,g,5,mg,260,g,1,g,0,g,3,g,0,g,0,g,1,g
+855,well informed,cabot yogurt,0,g,0,mg,20,g,2,g,1,g,0,g,0,g,0,g,1,g
+856,well informed,caesar dressing,15,g,5,mg,210,g,1,g,1,g,2.5,g,0,g,0,g,0,g
+857,well informed,cantelope,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+858,well informed,capicola,14,g,60,mg,1680,g,4,g,18,g,5,g,0,g,0,g,4,g
+859,well informed,carrot and celery sticks,0,g,0,mg,60,g,9,g,1,g,0,g,0,g,2,g,5,g
+860,well informed,carrot raisin muffin,21,g,65,mg,360,g,56,g,5,g,3.5,g,0,g,2,g,20,g
+861,well informed,carrots,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,0,g
+862,well informed,cheddar cheese,9,g,30,mg,180,g,0,g,7,g,5,g,0,g,0,g,0,g
+863,well informed,cherry tomatoes,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+864,well informed,chicken breast,9,g,65,mg,890,g,37,g,32,g,1,g,0,g,4,g,4,g
+865,well informed,chocolate chip muffin,26,g,75,mg,300,g,62,g,6,g,6,g,0,g,1,g,37,g
+866,well informed,chopped eggs,12,g,470,mg,140,g,4,g,14,g,4,g,0,g,0,g,2,g
+867,well informed,chow mein noodles,1,g,0,mg,75,g,5,g,1,g,0,g,0,g,1,g,0,g
+868,well informed,cinnamon raisin bagel,2.5,g,0,mg,350,g,66,g,11,g,0,g,0,g,3,g,8,g
+869,well informed,cinnamon raisin bread,1,g,0,mg,220,g,32,g,4,g,0,g,0,g,1,g,14,g
+870,well informed,corn muffin,22,g,75,mg,310,g,63,g,6,g,4,g,0,g,1,g,30,g
+871,well informed,cottage cheese,1,g,5,mg,100,g,1,g,3,g,1,g,0,g,0,g,1,g
+872,well informed,craisins,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,1,g,10,g
+873,well informed,cranberry orange nut muffin,22,g,70,mg,310,g,53,g,5,g,3.5,g,0,g,1,g,28,g
+874,well informed,croissant,19,g,60,mg,320,g,36,g,7,g,11,g,1.5,g,2,g,6,g
+875,well informed,croutons,1.5,g,0,mg,30,g,13,g,0,g,0,g,0,g,0,g,0,g
+876,well informed,crushed cherry peppers,0,g,0,mg,370,g,1,g,0,g,0,g,0,g,0,g,0,g
+877,well informed,cucumbers,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+878,well informed,diced onions,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+879,well informed,diced tomato,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,1,g,1,g
+880,well informed,dill pickle,0,g,0,mg,250,g,1,g,0,g,0,g,0,g,0,g,0,g
+881,well informed,double chocolate chip muffin,26,g,70,mg,530,g,57,g,6,g,6,g,0,g,2,g,37,g
+882,well informed,egg bagel,1,g,0,mg,330,g,51,g,9,g,0,g,0,g,2,g,5,g
+883,well informed,egg beaters,0,g,0,mg,250,g,2,g,12,g,0,g,0,g,0,g,0,g
+884,well informed,egg on deli thin,5,g,190,mg,210,g,21,g,10,g,1.5,g,0,g,5,g,3,g
+885,well informed,egg sandwich,6,g,190,mg,300,g,25,g,12,g,1.5,g,0,g,3,g,1,g
+886,well informed,egg whites,0,g,0,mg,210,g,0,g,5,g,0,g,0,g,0,g,0,g
+887,well informed,fat free ranch dressing,0,g,0,mg,420,g,7,g,0,g,0,g,0,g,1,g,3,g
+888,well informed,feta cheese,4,g,0,mg,340,g,2,g,6,g,3,g,0,g,0,g,1,g
+889,well informed,french fries,18,g,0,mg,330,g,44,g,4,g,2.5,g,0,g,4,g,1,g
+890,well informed,french toast,4.5,g,135,mg,210,g,22,g,8,g,2.5,g,0,g,1,g,2,g
+891,well informed,fruit salad,0,g,0,mg,10,g,14,g,1,g,0,g,0,g,1,g,12,g
+892,well informed,garbonzo beans,0.5,g,0,mg,100,g,5,g,1,g,0,g,0,g,2,g,0,g
+893,well informed,genoa salami,30,g,95,mg,1650,g,2,g,10,g,11,g,0,g,0,g,0,g
+894,well informed,gluten free bread,4,g,0,mg,300,g,44,g,4,g,0,g,0,g,1,g,2,g
+895,well informed,greek feta dressing,10,g,0,mg,350,g,2,g,1,g,2,g,0,g,0,g,1,g
+896,well informed,green leaf lettuce,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+897,well informed,green olives,1.5,g,0,mg,250,g,0,g,0,g,0,g,0,g,0,g,0,g
+898,well informed,grilled cheese,4,g,15,mg,310,g,2,g,7,g,2.5,g,0,g,0,g,1,g
+899,well informed,guacamole spread,8,g,0,mg,135,g,4,g,1,g,1,g,0,g,2,g,1,g
+900,well informed,ham,3.5,g,35,mg,1100,g,2,g,6,g,2,g,0,g,0,g,2,g
+901,well informed,hamburger,28,g,90,mg,330,g,27,g,24,g,10,g,1.5,g,1,g,3,g
+902,well informed,hamburger patty,26,g,90,mg,60,g,0,g,20,g,10,g,1.5,g,0,g,0,g
+903,well informed,hamburger roll,1.5,g,0,mg,270,g,27,g,4,g,0,g,0,g,1,g,3,g
+904,well informed,hardboiled egg,5,g,190,mg,55,g,1,g,6,g,1.5,g,0,g,0,g,1,g
+905,well informed,hash corned beef libby,25,g,60,mg,1280,g,31,g,22,g,12,g,1.5,g,3,g,1,g
+906,well informed,hearty dark rye bread,3,g,0,mg,340,g,44,g,8,g,0,g,0,g,4,g,2,g
+907,well informed,hearty light rye bread,3,g,0,mg,400,g,46,g,8,g,0,g,0,g,4,g,2,g
+908,well informed,hearty marble rye bread,3,g,0,mg,360,g,44,g,8,g,0,g,0,g,4,g,2,g
+909,well informed,hearty multigrain bread,3,g,0,mg,360,g,46,g,8,g,0,g,0,g,2,g,4,g
+910,well informed,hearty white bread,3,g,0,mg,400,g,44,g,8,g,0,g,0,g,4,g,2,g
+911,well informed,hearty whole wheat bread,3,g,0,mg,340,g,44,g,8,g,0,g,0,g,2,g,4,g
+912,well informed,honey mustard dressing,4,g,10,mg,230,g,7,g,0,g,0.5,g,0,g,0,g,7,g
+913,well informed,honey wheat bagel,1,g,0,mg,340,g,55,g,11,g,0,g,0,g,5,g,6,g
+914,well informed,honeydew melon,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+915,well informed,horseradish mayo,11,g,10,mg,55,g,2,g,0,g,2,g,0,g,1,g,0,g
+916,well informed,hot dog,15,g,30,mg,450,g,2,g,6,g,6,g,0,g,0,g,1,g
+917,well informed,hot dog roll,1.5,g,0,mg,230,g,23,g,4,g,0,g,0,g,1,g,3,g
+918,well informed,hummus spread,1.5,g,0,mg,30,g,5,g,1,g,0,g,0,g,2,g,0,g
+919,well informed,kidney beans,0,g,0,mg,85,g,5,g,2,g,0,g,0,g,2,g,1,g
+920,well informed,leaf lettuce,0,g,0,mg,20,g,1,g,0,g,0,g,0,g,1,g,1,g
+921,well informed,lemon poppy seed muffin,25,g,80,mg,360,g,58,g,6,g,4,g,0,g,1,g,32,g
+922,well informed,light cholesterol free mayonnaise,4,g,0,mg,120,g,2,g,0,g,0.5,g,0,g,0,g,1,g
+923,well informed,light mayonnaise dressing,8,g,0,mg,240,g,4,g,0,g,1,g,0,g,0,g,2,g
+924,well informed,lite and fit yogurt,0,g,0,mg,20,g,3,g,1,g,0,g,0,g,0,g,2,g
+925,well informed,lite italian dressing,4.5,g,0,mg,440,g,1,g,0,g,0.5,g,0,g,0,g,1,g
+926,well informed,mandarin oranges,0,g,0,mg,5,g,5,g,0,g,0,g,0,g,0,g,5,g
+927,well informed,marble bagel,1,g,0,mg,410,g,50,g,9,g,0,g,0,g,2,g,3,g
+928,well informed,mixed greens,0,g,0,mg,0,g,10,g,1,g,0,g,0,g,3,g,0,g
+929,well informed,mortadella,28,g,60,mg,1020,g,2,g,7,g,9,g,0,g,0,g,0,g
+930,well informed,mozzarella balls,3,g,10,mg,90,g,0,g,3,g,2,g,0,g,0,g,0,g
+931,well informed,mushrooms,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+932,well informed,mustard,1,g,0,mg,200,g,1,g,0,g,0,g,0,g,0,g,0,g
+933,well informed,olive oil,4.5,g,0,mg,0,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+934,well informed,omelet,12,g,570,mg,170,g,3,g,18,g,4.5,g,0,g,0,g,0,g
+935,well informed,onion bagel,1,g,0,mg,350,g,56,g,11,g,0,g,0,g,2,g,6,g
+936,well informed,onion rings,6,g,0,mg,380,g,27,g,2,g,1.5,g,0,g,3,g,5,g
+937,well informed,onion rolls,4,g,20,mg,770,g,35,g,6,g,0.5,g,0,g,2,g,6,g
+938,well informed,orange mandarin dressing,12,g,0,mg,170,g,10,g,0,g,2,g,0,g,0,g,9,g
+939,well informed,parmesan cheese,1.5,g,5,mg,30,g,0,g,2,g,1,g,0,g,0,g,0,g
+940,well informed,peppercorn dressing,20,g,5,mg,260,g,1,g,0,g,3,g,0,g,0,g,1,g
+941,well informed,pepperjack cheese,9,g,30,mg,170,g,1,g,7,g,6,g,0,g,0,g,0,g
+942,well informed,pepperoncini,0,g,0,mg,330,g,1,g,0,g,0,g,0,g,0,g,0,g
+943,well informed,pesto mayo,43,g,15,mg,120,g,4,g,3,g,3,g,0,g,0,g,0,g
+944,well informed,pickle chips,0,g,0,mg,310,g,1,g,0,g,0,g,0,g,0,g,1,g
+945,well informed,pineapple,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,1,g,5,g
+946,well informed,pistachio muffin,27,g,80,mg,330,g,57,g,6,g,4.5,g,0,g,1,g,31,g
+947,well informed,plain bagel,1,g,0,mg,350,g,56,g,11,g,0,g,0,g,2,g,6,g
+948,well informed,poppy seed bagel,1,g,0,mg,330,g,50,g,9,g,0,g,0,g,2,g,4,g
+949,well informed,provolone cheese,8,g,25,mg,250,g,1,g,7,g,5,g,0,g,0,g,1,g
+950,well informed,quinoa bread,2,g,0,mg,170,g,76,g,7,g,0,g,0,g,4,g,3,g
+951,well informed,raisin bran muffin,21,g,70,mg,290,g,64,g,6,g,3.5,g,0,g,3,g,31,g
+952,well informed,raisins,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,1,g,7,g
+953,well informed,raspberry vinaigrettte dressing,12,g,0,mg,70,g,12,g,0,g,2,g,0,g,0,g,12,g
+954,well informed,red hot sauce,0,g,0,mg,450,g,1,g,0,g,0,g,0,g,0,g,0,g
+955,well informed,red onions,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+956,well informed,roast beef,3.5,g,55,mg,330,g,2,g,21,g,2,g,0,g,0,g,2,g
+957,well informed,roasted red peppers,0,g,0,mg,390,g,2,g,1,g,0,g,0,g,1,g,1,g
+958,well informed,roasted vegetables,2.5,g,0,mg,40,g,10,g,2,g,0,g,0,g,2,g,2,g
+959,well informed,romaine lettuce,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+960,well informed,salmon,17,g,85,mg,470,g,0,g,28,g,3.5,g,0,g,0,g,0,g
+961,well informed,salmon burger,8,g,25,mg,390,g,20,g,21,g,1,g,0,g,5,g,4,g
+962,well informed,salmon burger patty,7,g,25,mg,240,g,0,g,17,g,1,g,0,g,0,g,1,g
+963,well informed,salsa,0,g,0,mg,210,g,2,g,0,g,0,g,0,g,0,g,2,g
+964,well informed,sausage links,15,g,30,mg,270,g,1,g,6,g,6,g,0,g,0,g,0,g
+965,well informed,seafood mix,1.5,g,5,mg,950,g,21,g,8,g,0,g,0,g,1,g,7,g
+966,well informed,sesame bagel,1,g,0,mg,350,g,56,g,11,g,0,g,0,g,2,g,6,g
+967,well informed,shredded cheddar cheese,2.5,g,10,mg,45,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+968,well informed,sliced chicken breast,6,g,65,mg,520,g,1,g,26,g,0.5,g,0,g,0,g,1,g
+969,well informed,sliced tomato,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+970,well informed,small bulkie roll,1.5,g,0,mg,330,g,33,g,6,g,0,g,0,g,1,g,2,g
+971,well informed,smoked turkey,2.5,g,55,mg,930,g,2,g,16,g,0,g,0,g,0,g,2,g
+972,well informed,spicy brown mustard,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+973,well informed,spinach wrap,3,g,0,mg,380,g,34,g,6,g,1,g,0,g,3,g,1,g
+974,well informed,steak,13,g,95,mg,320,g,0,g,18,g,5,g,0,g,0,g,0,g
+975,well informed,steak sandwich,17,g,95,mg,770,g,44,g,26,g,5,g,0,g,2,g,3,g
+976,well informed,steamed carrots,0,g,0,mg,0,g,8,g,1,g,0,g,0,g,3,g,24,g
+977,well informed,steamed corn,1,g,0,mg,0,g,30,g,4,g,0,g,0,g,4,g,5,g
+978,well informed,strawberries,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+979,well informed,sub roll 6 inch,3.5,g,0,mg,450,g,44,g,8,g,0,g,0,g,2,g,3,g
+980,well informed,sweet potato fries,17,g,5,mg,590,g,47,g,3,g,3,g,0,g,6,g,19,g
+981,well informed,swiss cheese reduced fat and sodium,6,g,20,mg,230,g,1,g,8,g,3.5,g,0,g,0,g,1,g
+982,well informed,tater tots,8,g,0,mg,420,g,20,g,2,g,1.5,g,0,g,2,g,1,g
+983,well informed,texas toast,2,g,0,mg,270,g,26,g,4,g,0,g,0,g,1,g,1,g
+984,well informed,the works bagel,1,g,0,mg,350,g,56,g,11,g,0,g,0,g,2,g,6,g
+985,well informed,tofu,1.5,g,0,mg,0,g,1,g,3,g,0,g,0,g,0,g,0,g
+986,well informed,tomato basil wrap,4.5,g,0,mg,350,g,38,g,5,g,2,g,0,g,2,g,1,g
+987,well informed,trail mix,2.5,g,0,mg,0,g,3,g,1,g,0,g,0,g,1,g,2,g
+988,well informed,triple berry muffin,21,g,75,mg,300,g,54,g,5,g,3.5,g,0,g,1,g,30,g
+989,well informed,tuna,6,g,70,mg,500,g,2,g,24,g,2,g,0,g,0,g,0,g
+990,well informed,turkey bacon,1.5,g,20,mg,280,g,0,g,6,g,0.5,g,0,g,0,g,0,g
+991,well informed,turkey burger,12,g,110,mg,620,g,47,g,22,g,3,g,0,g,5,g,7,g
+992,well informed,turkey burger patty,9,g,110,mg,250,g,11,g,16,g,2.5,g,0,g,1,g,4,g
+993,well informed,turkey sausage,8,g,45,mg,310,g,1,g,8,g,2.5,g,0,g,0,g,1,g
+994,well informed,vegan veggie burger,5,g,0,mg,760,g,51,g,18,g,0.5,g,0,g,9,g,4,g
+995,well informed,vegan veggie burger patty,2.5,g,0,mg,390,g,15,g,12,g,0,g,0,g,5,g,1,g
+996,well informed,vinegar cole slaw,1,g,0,mg,220,g,28,g,1,g,0,g,0,g,1,g,24,g
+997,well informed,walnut halves,4,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,0,g
+998,well informed,watermelon,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+999,well informed,wheat roll,2.5,g,0,mg,370,g,36,g,6,g,0.5,g,0,g,4,g,3,g

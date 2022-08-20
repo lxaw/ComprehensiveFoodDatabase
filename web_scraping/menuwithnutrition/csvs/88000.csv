@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,johnny rockets,choice of three ingredients scrambler with american philly cheese steak toasted english muffin,70,g,960,mg,3920,g,100,g,70,g,30,g,0,g,0,g,10,g
+1,johnny rockets,choice of three ingredients scrambler with american sausage diced tomatoes,100,g,960,mg,3000,g,80,g,60,g,40,g,0,g,0,g,10,g
+2,johnny rockets,choice of three ingredients scrambler with american sausage grilled peppers and onions,100,g,960,mg,3040,g,80,g,60,g,40,g,0,g,0,g,10,g
+3,johnny rockets,choice of three ingredients scrambler with american sausage grilled white onions,100,g,960,mg,3030,g,80,g,60,g,40,g,0,g,0,g,10,g
+4,johnny rockets,choice of three ingredients scrambler with american sausage sourdough,100,g,960,mg,3480,g,120,g,60,g,40,g,0,g,0,g,10,g
+5,johnny rockets,choice of three ingredients scrambler with american sausage sourdough diced tomatoes,100,g,960,mg,3480,g,120,g,60,g,40,g,0,g,0,g,10,g
+6,johnny rockets,choice of three ingredients scrambler with american sausage sourdough grilled peppers and onions,100,g,960,mg,3520,g,120,g,60,g,40,g,0,g,0,g,10,g
+7,johnny rockets,choice of three ingredients scrambler with american sausage sourdough grilled white onions,100,g,960,mg,3510,g,130,g,60,g,40,g,0,g,0,g,10,g
+8,johnny rockets,choice of three ingredients scrambler with american sausage toasted english muffin,100,g,960,mg,3200,g,100,g,60,g,40,g,0,g,0,g,10,g
+9,johnny rockets,choice of three ingredients scrambler with american sausage toasted english muffin diced tomatoes,100,g,960,mg,3200,g,100,g,60,g,40,g,0,g,0,g,10,g
+10,johnny rockets,choice of three ingredients scrambler with american seasoned ground beef diced tomatoes,60,g,930,mg,2380,g,70,g,60,g,30,g,0,g,0,g,10,g
+11,johnny rockets,choice of three ingredients scrambler with american seasoned ground beef grilled white onions,60,g,930,mg,2410,g,80,g,60,g,30,g,0,g,0,g,10,g
+12,johnny rockets,choice of three ingredients scrambler with american seasoned ground beef sourdough,60,g,930,mg,2860,g,120,g,70,g,30,g,0,g,0,g,10,g
+13,johnny rockets,choice of three ingredients scrambler with american seasoned ground beef sourdough diced tomatoes,60,g,930,mg,2860,g,120,g,70,g,30,g,0,g,0,g,10,g
+14,johnny rockets,choice of three ingredients scrambler with american seasoned ground beef toasted english muffin,60,g,930,mg,2580,g,100,g,60,g,30,g,0,g,0,g,10,g
+15,johnny rockets,choice of three ingredients scrambler with american sourdough diced tomatoes,50,g,860,mg,2260,g,120,g,50,g,20,g,0,g,0,g,10,g
+16,johnny rockets,choice of three ingredients scrambler with american sourdough grilled peppers and onions,50,g,860,mg,2300,g,120,g,50,g,20,g,0,g,0,g,10,g
+17,johnny rockets,choice of three ingredients scrambler with american sourdough grilled white onions,50,g,860,mg,2290,g,120,g,50,g,20,g,0,g,0,g,10,g
+18,johnny rockets,choice of three ingredients scrambler with american toasted english muffin diced tomatoes,50,g,860,mg,1980,g,100,g,50,g,20,g,0,g,0,g,10,g
+19,johnny rockets,choice of three ingredients scrambler with american toasted english muffin grilled white onions,50,g,860,mg,2010,g,100,g,50,g,20,g,0,g,0,g,10,g
+20,johnny rockets,choice of three ingredients scrambler with bacon,50,g,860,mg,1780,g,70,g,50,g,20,g,0,g,0,g,0,g
+21,johnny rockets,choice of three ingredients scrambler with bacon diced tomatoes,50,g,860,mg,1780,g,70,g,50,g,20,g,0,g,0,g,10,g
+22,johnny rockets,choice of three ingredients scrambler with bacon grilled peppers and onions,50,g,860,mg,1820,g,80,g,50,g,20,g,0,g,0,g,10,g
+23,johnny rockets,choice of three ingredients scrambler with bacon grilled white onions,50,g,860,mg,1810,g,80,g,50,g,20,g,0,g,0,g,10,g
+24,johnny rockets,choice of three ingredients scrambler with bacon sourdough,50,g,860,mg,2260,g,120,g,50,g,20,g,0,g,0,g,10,g
+25,johnny rockets,choice of three ingredients scrambler with bacon sourdough diced tomatoes,50,g,860,mg,2260,g,120,g,60,g,20,g,0,g,0,g,10,g
+26,johnny rockets,choice of three ingredients scrambler with bacon sourdough grilled peppers and onions,50,g,860,mg,2300,g,120,g,60,g,20,g,0,g,0,g,10,g
+27,johnny rockets,choice of three ingredients scrambler with bacon sourdough grilled white onions,50,g,860,mg,2290,g,120,g,60,g,20,g,0,g,0,g,10,g
+28,johnny rockets,choice of three ingredients scrambler with bacon toasted english muffin,50,g,860,mg,1980,g,100,g,50,g,20,g,0,g,0,g,10,g
+29,johnny rockets,choice of three ingredients scrambler with bacon toasted english muffin diced tomatoes,50,g,860,mg,1980,g,100,g,50,g,20,g,0,g,0,g,10,g
+30,johnny rockets,choice of three ingredients scrambler with bacon toasted english muffin grilled peppers and onions,50,g,860,mg,2020,g,100,g,50,g,20,g,0,g,0,g,10,g
+31,johnny rockets,choice of three ingredients scrambler with bacon toasted english muffin grilled white onions,50,g,860,mg,2010,g,100,g,50,g,20,g,0,g,0,g,10,g
+32,johnny rockets,choice of three ingredients scrambler with cheddar,50,g,860,mg,1450,g,70,g,50,g,20,g,0,g,0,g,0,g
+33,johnny rockets,choice of three ingredients scrambler with cheddar bacon,60,g,900,mg,2050,g,70,g,60,g,30,g,0,g,0,g,0,g
+34,johnny rockets,choice of three ingredients scrambler with cheddar bacon diced tomatoes,60,g,900,mg,2050,g,70,g,60,g,30,g,0,g,0,g,10,g
+35,johnny rockets,choice of three ingredients scrambler with cheddar bacon grilled peppers and onions,70,g,900,mg,2090,g,80,g,60,g,30,g,0,g,0,g,10,g
+36,johnny rockets,choice of three ingredients scrambler with cheddar bacon grilled white onions,60,g,900,mg,2090,g,80,g,60,g,30,g,0,g,0,g,10,g
+37,johnny rockets,choice of three ingredients scrambler with cheddar bacon sourdough,70,g,900,mg,2530,g,120,g,70,g,30,g,0,g,0,g,10,g
+38,johnny rockets,choice of three ingredients scrambler with cheddar bacon sourdough diced tomatoes,70,g,900,mg,2530,g,120,g,70,g,30,g,0,g,0,g,10,g
+39,johnny rockets,choice of three ingredients scrambler with cheddar bacon sourdough grilled peppers and onions,70,g,900,mg,2570,g,120,g,70,g,30,g,0,g,0,g,10,g
+40,johnny rockets,choice of three ingredients scrambler with cheddar bacon sourdough grilled white onions,70,g,900,mg,2570,g,120,g,70,g,30,g,0,g,0,g,10,g
+41,johnny rockets,choice of three ingredients scrambler with cheddar bacon toasted english muffin,60,g,900,mg,2250,g,100,g,60,g,30,g,0,g,0,g,10,g
+42,johnny rockets,choice of three ingredients scrambler with cheddar bacon toasted english muffin diced tomatoes,60,g,900,mg,2250,g,100,g,60,g,30,g,0,g,0,g,10,g
+43,johnny rockets,choice of three ingredients scrambler with cheddar chicken tenders,50,g,900,mg,1980,g,90,g,60,g,20,g,0,g,0,g,0,g
+44,johnny rockets,choice of three ingredients scrambler with cheddar chicken tenders diced tomatoes,50,g,900,mg,1980,g,90,g,60,g,20,g,0,g,0,g,10,g
+45,johnny rockets,choice of three ingredients scrambler with cheddar chicken tenders grilled peppers and onions,60,g,900,mg,2020,g,90,g,60,g,20,g,0,g,0,g,10,g
+46,johnny rockets,choice of three ingredients scrambler with cheddar chicken tenders grilled white onions,60,g,900,mg,2020,g,90,g,60,g,20,g,0,g,0,g,10,g
+47,johnny rockets,choice of three ingredients scrambler with cheddar chicken tenders sourdough,60,g,900,mg,2460,g,140,g,70,g,20,g,0,g,0,g,10,g
+48,johnny rockets,choice of three ingredients scrambler with cheddar chicken tenders sourdough diced tomatoes,60,g,900,mg,2460,g,140,g,70,g,20,g,0,g,0,g,10,g
+49,johnny rockets,choice of three ingredients scrambler with cheddar chicken tenders sourdough grilled white onions,60,g,900,mg,2500,g,140,g,70,g,20,g,0,g,0,g,10,g
+50,johnny rockets,choice of three ingredients scrambler with cheddar chicken tenders toasted english muffin,60,g,900,mg,2180,g,110,g,70,g,20,g,0,g,0,g,10,g
+51,johnny rockets,choice of three ingredients scrambler with cheddar chili,70,g,910,mg,2030,g,80,g,50,g,30,g,0,g,10,g,10,g
+52,johnny rockets,choice of three ingredients scrambler with cheddar chili diced tomatoes,70,g,910,mg,2030,g,80,g,50,g,30,g,0,g,10,g,10,g
+53,johnny rockets,choice of three ingredients scrambler with cheddar chili grilled peppers and onions,70,g,910,mg,2070,g,90,g,50,g,30,g,0,g,10,g,10,g
+54,johnny rockets,choice of three ingredients scrambler with cheddar chili grilled white onions,70,g,910,mg,2060,g,90,g,50,g,30,g,0,g,10,g,10,g
+55,johnny rockets,choice of three ingredients scrambler with cheddar chili sourdough,70,g,910,mg,2510,g,130,g,60,g,30,g,0,g,10,g,10,g
+56,johnny rockets,choice of three ingredients scrambler with cheddar chili sourdough diced tomatoes,70,g,910,mg,2510,g,130,g,60,g,30,g,0,g,10,g,10,g
+57,johnny rockets,choice of three ingredients scrambler with cheddar chili sourdough grilled peppers and onions,80,g,910,mg,2550,g,130,g,60,g,30,g,0,g,10,g,10,g
+58,johnny rockets,choice of three ingredients scrambler with cheddar chili sourdough grilled white onions,80,g,910,mg,2540,g,130,g,60,g,30,g,0,g,10,g,10,g
+59,johnny rockets,choice of three ingredients scrambler with cheddar chili toasted english muffin,70,g,910,mg,2230,g,110,g,60,g,30,g,0,g,10,g,10,g
+60,johnny rockets,choice of three ingredients scrambler with cheddar chili toasted english muffin diced tomatoes,70,g,910,mg,2230,g,110,g,60,g,30,g,0,g,10,g,10,g
+61,johnny rockets,choice of three ingredients scrambler with cheddar diced tomatoes,50,g,860,mg,1450,g,70,g,50,g,20,g,0,g,0,g,10,g
+62,johnny rockets,choice of three ingredients scrambler with cheddar grilled chicken,50,g,950,mg,1670,g,70,g,80,g,20,g,0,g,0,g,0,g
+63,johnny rockets,choice of three ingredients scrambler with cheddar grilled chicken diced tomatoes,50,g,950,mg,1680,g,70,g,80,g,20,g,0,g,0,g,10,g
+64,johnny rockets,choice of three ingredients scrambler with cheddar grilled chicken grilled peppers and onions,50,g,950,mg,1720,g,80,g,80,g,20,g,0,g,0,g,10,g
+65,johnny rockets,choice of three ingredients scrambler with cheddar grilled chicken grilled white onions,50,g,950,mg,1710,g,80,g,80,g,20,g,0,g,0,g,10,g
+66,johnny rockets,choice of three ingredients scrambler with cheddar grilled chicken sourdough,50,g,950,mg,2150,g,120,g,90,g,20,g,0,g,0,g,10,g
+67,johnny rockets,choice of three ingredients scrambler with cheddar grilled chicken sourdough diced tomatoes,50,g,950,mg,2160,g,120,g,90,g,20,g,0,g,0,g,10,g
+68,johnny rockets,choice of three ingredients scrambler with cheddar grilled chicken sourdough grilled white onions,60,g,950,mg,2190,g,120,g,90,g,20,g,0,g,0,g,10,g
+69,johnny rockets,choice of three ingredients scrambler with cheddar grilled chicken toasted english muffin,50,g,950,mg,1870,g,100,g,80,g,20,g,0,g,0,g,10,g
+70,johnny rockets,choice of three ingredients scrambler with cheddar grilled peppers and onions,50,g,860,mg,1490,g,80,g,50,g,20,g,0,g,0,g,10,g
+71,johnny rockets,choice of three ingredients scrambler with cheddar grilled white onions,50,g,860,mg,1490,g,80,g,50,g,20,g,0,g,0,g,10,g
+72,johnny rockets,choice of three ingredients scrambler with cheddar philly cheese steak,70,g,960,mg,3390,g,80,g,70,g,30,g,0,g,0,g,10,g
+73,johnny rockets,choice of three ingredients scrambler with cheddar philly cheese steak diced tomatoes,70,g,960,mg,3400,g,80,g,70,g,30,g,0,g,0,g,10,g
+74,johnny rockets,choice of three ingredients scrambler with cheddar philly cheese steak grilled peppers and onions,70,g,960,mg,3440,g,80,g,80,g,30,g,0,g,0,g,10,g
+75,johnny rockets,choice of three ingredients scrambler with cheddar philly cheese steak grilled white onions,70,g,960,mg,3430,g,80,g,80,g,30,g,0,g,0,g,10,g
+76,johnny rockets,choice of three ingredients scrambler with cheddar philly cheese steak sourdough,80,g,960,mg,3870,g,120,g,80,g,30,g,0,g,0,g,10,g
+77,johnny rockets,choice of three ingredients scrambler with cheddar philly cheese steak sourdough diced tomatoes,80,g,960,mg,3880,g,120,g,80,g,30,g,0,g,0,g,10,g
+78,johnny rockets,choice of three ingredients scrambler with cheddar philly cheese steak toasted english muffin,70,g,960,mg,3590,g,100,g,80,g,30,g,0,g,0,g,10,g
+79,johnny rockets,choice of three ingredients scrambler with cheddar sausage,100,g,960,mg,2670,g,70,g,60,g,40,g,0,g,0,g,0,g
+80,johnny rockets,choice of three ingredients scrambler with cheddar sausage diced tomatoes,100,g,960,mg,2670,g,80,g,60,g,40,g,0,g,0,g,10,g
+81,johnny rockets,choice of three ingredients scrambler with cheddar sausage grilled peppers and onions,100,g,960,mg,2710,g,80,g,60,g,40,g,0,g,0,g,10,g
+82,johnny rockets,choice of three ingredients scrambler with cheddar sausage grilled white onions,100,g,960,mg,2710,g,80,g,60,g,40,g,0,g,0,g,10,g
+83,johnny rockets,choice of three ingredients scrambler with cheddar sausage sourdough,100,g,960,mg,3150,g,120,g,70,g,40,g,0,g,0,g,10,g
+84,johnny rockets,choice of three ingredients scrambler with cheddar sausage sourdough diced tomatoes,100,g,960,mg,3150,g,120,g,70,g,40,g,0,g,0,g,10,g
+85,johnny rockets,choice of three ingredients scrambler with cheddar sausage sourdough grilled peppers and onions,100,g,960,mg,3190,g,120,g,70,g,40,g,0,g,0,g,10,g
+86,johnny rockets,choice of three ingredients scrambler with cheddar sausage sourdough grilled white onions,100,g,960,mg,3190,g,130,g,70,g,40,g,0,g,0,g,10,g
+87,johnny rockets,choice of three ingredients scrambler with cheddar sausage toasted english muffin,100,g,960,mg,2870,g,100,g,60,g,40,g,0,g,0,g,10,g
+88,johnny rockets,choice of three ingredients scrambler with cheddar sausage toasted english muffin diced tomatoes,100,g,960,mg,2870,g,100,g,60,g,40,g,0,g,0,g,10,g
+89,johnny rockets,choice of three ingredients scrambler with cheddar seasoned ground beef,60,g,930,mg,2050,g,70,g,70,g,30,g,0,g,0,g,0,g
+90,johnny rockets,choice of three ingredients scrambler with cheddar seasoned ground beef diced tomatoes,60,g,930,mg,2050,g,70,g,70,g,30,g,0,g,0,g,10,g
+91,johnny rockets,choice of three ingredients scrambler with cheddar seasoned ground beef grilled peppers and onions,60,g,930,mg,2090,g,80,g,70,g,30,g,0,g,0,g,10,g
+92,johnny rockets,choice of three ingredients scrambler with cheddar seasoned ground beef grilled white onions,60,g,930,mg,2090,g,80,g,70,g,30,g,0,g,0,g,10,g
+93,johnny rockets,choice of three ingredients scrambler with cheddar seasoned ground beef sourdough,70,g,930,mg,2530,g,120,g,70,g,30,g,0,g,0,g,10,g
+94,johnny rockets,choice of three ingredients scrambler with cheddar seasoned ground beef sourdough diced tomatoes,70,g,930,mg,2530,g,120,g,70,g,30,g,0,g,0,g,10,g
+95,johnny rockets,choice of three ingredients scrambler with cheddar seasoned ground beef toasted english muffin,60,g,930,mg,2250,g,100,g,70,g,30,g,0,g,0,g,10,g
+96,johnny rockets,choice of three ingredients scrambler with cheddar sourdough,50,g,860,mg,1930,g,120,g,50,g,20,g,0,g,0,g,10,g
+97,johnny rockets,choice of three ingredients scrambler with cheddar sourdough diced tomatoes,50,g,860,mg,1930,g,120,g,50,g,20,g,0,g,0,g,10,g
+98,johnny rockets,choice of three ingredients scrambler with cheddar sourdough grilled peppers and onions,50,g,860,mg,1970,g,120,g,50,g,20,g,0,g,0,g,10,g
+99,johnny rockets,choice of three ingredients scrambler with cheddar sourdough grilled white onions,50,g,860,mg,1970,g,120,g,50,g,20,g,0,g,0,g,10,g
+100,johnny rockets,choice of three ingredients scrambler with cheddar toasted english muffin,50,g,860,mg,1650,g,100,g,50,g,20,g,0,g,0,g,10,g
+101,johnny rockets,choice of three ingredients scrambler with cheddar toasted english muffin diced tomatoes,50,g,860,mg,1650,g,100,g,50,g,20,g,0,g,0,g,10,g
+102,johnny rockets,choice of three ingredients scrambler with cheddar toasted english muffin grilled white onions,50,g,860,mg,1690,g,100,g,50,g,20,g,0,g,0,g,10,g
+103,johnny rockets,choice of three ingredients scrambler with chicken tenders,40,g,860,mg,1700,g,90,g,50,g,10,g,0,g,0,g,0,g
+104,johnny rockets,choice of three ingredients scrambler with chicken tenders diced tomatoes,40,g,860,mg,1700,g,90,g,50,g,10,g,0,g,0,g,10,g
+105,johnny rockets,choice of three ingredients scrambler with chicken tenders grilled peppers and onions,40,g,860,mg,1740,g,90,g,50,g,10,g,0,g,0,g,10,g
+106,johnny rockets,choice of three ingredients scrambler with chicken tenders grilled white onions,40,g,860,mg,1740,g,90,g,50,g,10,g,0,g,0,g,10,g
+107,johnny rockets,choice of three ingredients scrambler with chicken tenders sourdough,40,g,860,mg,2180,g,130,g,60,g,20,g,0,g,0,g,10,g
+108,johnny rockets,choice of three ingredients scrambler with chicken tenders sourdough diced tomatoes,40,g,860,mg,2180,g,140,g,60,g,20,g,0,g,0,g,10,g
+109,johnny rockets,choice of three ingredients scrambler with chicken tenders sourdough grilled peppers and onions,40,g,860,mg,2220,g,140,g,60,g,20,g,0,g,0,g,10,g
+110,johnny rockets,choice of three ingredients scrambler with chicken tenders sourdough grilled white onions,40,g,860,mg,2220,g,140,g,60,g,20,g,0,g,0,g,10,g
+111,johnny rockets,choice of three ingredients scrambler with chicken tenders toasted english muffin,40,g,860,mg,1900,g,110,g,50,g,10,g,0,g,0,g,10,g
+112,johnny rockets,choice of three ingredients scrambler with chicken tenders toasted english muffin diced tomatoes,40,g,860,mg,1900,g,110,g,50,g,10,g,0,g,10,g,10,g
+113,johnny rockets,choice of three ingredients scrambler with chili,60,g,860,mg,1750,g,80,g,40,g,20,g,0,g,10,g,10,g
+114,johnny rockets,choice of three ingredients scrambler with chili diced tomatoes,60,g,860,mg,1750,g,80,g,40,g,20,g,0,g,10,g,10,g
+115,johnny rockets,choice of three ingredients scrambler with chili grilled peppers and onions,60,g,860,mg,1790,g,80,g,40,g,20,g,0,g,10,g,10,g
+116,johnny rockets,choice of three ingredients scrambler with chili grilled white onions,60,g,860,mg,1790,g,90,g,40,g,20,g,0,g,10,g,10,g
+117,johnny rockets,choice of three ingredients scrambler with chili sourdough,60,g,860,mg,2230,g,130,g,50,g,20,g,0,g,10,g,10,g
+118,johnny rockets,choice of three ingredients scrambler with chili sourdough diced tomatoes,60,g,860,mg,2230,g,130,g,50,g,20,g,0,g,10,g,10,g
+119,johnny rockets,choice of three ingredients scrambler with chili sourdough grilled peppers and onions,60,g,860,mg,2270,g,130,g,50,g,20,g,0,g,10,g,10,g
+120,johnny rockets,choice of three ingredients scrambler with chili sourdough grilled white onions,60,g,860,mg,2270,g,130,g,50,g,20,g,0,g,10,g,10,g
+121,johnny rockets,choice of three ingredients scrambler with chili toasted english muffin,60,g,860,mg,1950,g,110,g,50,g,20,g,0,g,10,g,10,g
+122,johnny rockets,choice of three ingredients scrambler with chili toasted english muffin diced tomatoes,60,g,860,mg,1950,g,110,g,50,g,20,g,0,g,10,g,10,g
+123,johnny rockets,choice of three ingredients scrambler with chili toasted english muffin grilled peppers and onions,60,g,860,mg,1990,g,110,g,50,g,20,g,0,g,10,g,10,g
+124,johnny rockets,choice of three ingredients scrambler with chili toasted english muffin grilled white onions,60,g,860,mg,1990,g,110,g,50,g,20,g,0,g,10,g,10,g
+125,johnny rockets,choice of three ingredients scrambler with diced tomatoes,40,g,820,mg,1180,g,70,g,40,g,10,g,0,g,0,g,10,g
+126,johnny rockets,choice of three ingredients scrambler with grilled chicken,40,g,900,mg,1400,g,70,g,70,g,10,g,0,g,0,g,0,g
+127,johnny rockets,choice of three ingredients scrambler with grilled chicken diced tomatoes,40,g,900,mg,1400,g,70,g,70,g,10,g,0,g,0,g,10,g
+128,johnny rockets,choice of three ingredients scrambler with grilled chicken grilled peppers and onions,40,g,900,mg,1440,g,80,g,70,g,10,g,0,g,0,g,10,g
+129,johnny rockets,choice of three ingredients scrambler with grilled chicken grilled white onions,40,g,900,mg,1440,g,80,g,70,g,10,g,0,g,0,g,10,g
+130,johnny rockets,choice of three ingredients scrambler with grilled chicken sourdough,40,g,900,mg,1880,g,120,g,80,g,20,g,0,g,0,g,10,g
+131,johnny rockets,choice of three ingredients scrambler with grilled chicken sourdough diced tomatoes,40,g,900,mg,1880,g,120,g,80,g,20,g,0,g,0,g,10,g
+132,johnny rockets,choice of three ingredients scrambler with grilled chicken sourdough grilled peppers and onions,40,g,900,mg,1920,g,120,g,80,g,20,g,0,g,0,g,10,g
+133,johnny rockets,choice of three ingredients scrambler with grilled chicken sourdough grilled white onions,40,g,900,mg,1920,g,120,g,80,g,20,g,0,g,0,g,10,g
+134,johnny rockets,choice of three ingredients scrambler with grilled chicken toasted english muffin,40,g,900,mg,1600,g,100,g,70,g,10,g,0,g,0,g,10,g
+135,johnny rockets,choice of three ingredients scrambler with grilled chicken toasted english muffin diced tomatoes,40,g,900,mg,1600,g,100,g,70,g,10,g,0,g,0,g,10,g
+136,johnny rockets,choice of three ingredients scrambler with grilled peppers and onions,40,g,820,mg,1220,g,80,g,40,g,10,g,0,g,0,g,10,g
+137,johnny rockets,choice of three ingredients scrambler with grilled white onions,40,g,820,mg,1210,g,80,g,40,g,10,g,0,g,0,g,10,g
+138,johnny rockets,choice of three ingredients scrambler with pepper jack,50,g,870,mg,1430,g,70,g,50,g,20,g,0,g,0,g,0,g
+139,johnny rockets,choice of three ingredients scrambler with pepper jack bacon,60,g,910,mg,2030,g,70,g,60,g,30,g,0,g,0,g,0,g
+140,johnny rockets,choice of three ingredients scrambler with pepper jack bacon diced tomatoes,60,g,910,mg,2030,g,70,g,60,g,30,g,0,g,0,g,10,g
+141,johnny rockets,choice of three ingredients scrambler with pepper jack bacon grilled peppers and onions,60,g,910,mg,2070,g,80,g,60,g,30,g,0,g,0,g,10,g
+142,johnny rockets,choice of three ingredients scrambler with pepper jack bacon grilled white onions,60,g,910,mg,2070,g,80,g,60,g,30,g,0,g,0,g,10,g
+143,johnny rockets,choice of three ingredients scrambler with pepper jack bacon sourdough,70,g,910,mg,2510,g,120,g,70,g,30,g,0,g,0,g,10,g
+144,johnny rockets,choice of three ingredients scrambler with pepper jack bacon sourdough diced tomatoes,70,g,910,mg,2510,g,120,g,70,g,30,g,0,g,0,g,10,g
+145,johnny rockets,choice of three ingredients scrambler with pepper jack bacon sourdough grilled peppers and onions,70,g,910,mg,2550,g,120,g,70,g,30,g,0,g,0,g,10,g
+146,johnny rockets,choice of three ingredients scrambler with pepper jack bacon sourdough grilled white onions,70,g,910,mg,2550,g,120,g,70,g,30,g,0,g,0,g,10,g
+147,johnny rockets,choice of three ingredients scrambler with pepper jack bacon toasted english muffin,60,g,910,mg,2230,g,100,g,60,g,30,g,0,g,0,g,10,g
+148,johnny rockets,choice of three ingredients scrambler with pepper jack chicken tenders,50,g,900,mg,1960,g,90,g,60,g,20,g,0,g,0,g,0,g
+149,johnny rockets,choice of three ingredients scrambler with pepper jack chicken tenders diced tomatoes,50,g,900,mg,1960,g,90,g,60,g,20,g,0,g,0,g,10,g
+150,johnny rockets,choice of three ingredients scrambler with pepper jack chicken tenders grilled peppers and onions,60,g,900,mg,2000,g,90,g,60,g,20,g,0,g,0,g,10,g
+151,johnny rockets,choice of three ingredients scrambler with pepper jack chicken tenders grilled white onions,60,g,900,mg,2000,g,100,g,60,g,20,g,0,g,0,g,10,g
+152,johnny rockets,choice of three ingredients scrambler with pepper jack chicken tenders sourdough,60,g,900,mg,2440,g,140,g,70,g,20,g,0,g,0,g,10,g
+153,johnny rockets,choice of three ingredients scrambler with pepper jack chicken tenders sourdough diced tomatoes,60,g,900,mg,2440,g,140,g,70,g,20,g,0,g,0,g,10,g
+154,johnny rockets,choice of three ingredients scrambler with pepper jack chicken tenders toasted english muffin,50,g,900,mg,2160,g,110,g,70,g,20,g,0,g,0,g,10,g
+155,johnny rockets,choice of three ingredients scrambler with pepper jack chili,70,g,910,mg,2010,g,80,g,50,g,30,g,0,g,10,g,10,g
+156,johnny rockets,choice of three ingredients scrambler with pepper jack chili diced tomatoes,70,g,910,mg,2010,g,80,g,50,g,30,g,0,g,10,g,10,g
+157,johnny rockets,choice of three ingredients scrambler with pepper jack chili grilled peppers and onions,70,g,910,mg,2050,g,90,g,50,g,30,g,0,g,10,g,10,g
+158,johnny rockets,choice of three ingredients scrambler with pepper jack chili grilled white onions,70,g,910,mg,2040,g,90,g,50,g,30,g,0,g,10,g,10,g
+159,johnny rockets,choice of three ingredients scrambler with pepper jack chili sourdough,70,g,910,mg,2490,g,130,g,60,g,30,g,0,g,10,g,10,g
+160,johnny rockets,choice of three ingredients scrambler with pepper jack chili sourdough diced tomatoes,70,g,910,mg,2490,g,130,g,60,g,30,g,0,g,10,g,10,g
+161,johnny rockets,choice of three ingredients scrambler with pepper jack chili sourdough grilled peppers and onions,70,g,910,mg,2530,g,130,g,60,g,30,g,0,g,10,g,10,g
+162,johnny rockets,choice of three ingredients scrambler with pepper jack chili sourdough grilled white onions,70,g,910,mg,2520,g,130,g,60,g,30,g,0,g,10,g,10,g
+163,johnny rockets,choice of three ingredients scrambler with pepper jack chili toasted english muffin,70,g,910,mg,2210,g,110,g,60,g,30,g,0,g,10,g,10,g
+164,johnny rockets,choice of three ingredients scrambler with pepper jack diced tomatoes,50,g,870,mg,1430,g,70,g,50,g,20,g,0,g,0,g,10,g
+165,johnny rockets,choice of three ingredients scrambler with pepper jack grilled chicken,50,g,950,mg,1650,g,70,g,80,g,20,g,0,g,0,g,0,g
+166,johnny rockets,choice of three ingredients scrambler with pepper jack grilled chicken diced tomatoes,50,g,950,mg,1660,g,70,g,80,g,20,g,0,g,0,g,10,g
+167,johnny rockets,choice of three ingredients scrambler with pepper jack grilled chicken grilled peppers and onions,50,g,950,mg,1700,g,80,g,80,g,20,g,0,g,0,g,10,g
+168,johnny rockets,choice of three ingredients scrambler with pepper jack grilled chicken grilled white onions,50,g,950,mg,1690,g,80,g,80,g,20,g,0,g,0,g,10,g
+169,johnny rockets,choice of three ingredients scrambler with pepper jack grilled chicken sourdough,50,g,950,mg,2130,g,120,g,90,g,20,g,0,g,0,g,10,g
+170,johnny rockets,choice of three ingredients scrambler with pepper jack grilled chicken sourdough diced tomatoes,50,g,950,mg,2140,g,120,g,90,g,20,g,0,g,0,g,10,g
+171,johnny rockets,choice of three ingredients scrambler with pepper jack grilled chicken toasted english muffin,50,g,950,mg,1850,g,100,g,80,g,20,g,0,g,0,g,10,g
+172,johnny rockets,choice of three ingredients scrambler with pepper jack grilled peppers and onions,50,g,870,mg,1470,g,80,g,50,g,20,g,0,g,0,g,10,g
+173,johnny rockets,choice of three ingredients scrambler with pepper jack grilled white onions,50,g,870,mg,1470,g,80,g,50,g,20,g,0,g,0,g,10,g
+174,johnny rockets,choice of three ingredients scrambler with pepper jack philly cheese steak,70,g,960,mg,3370,g,80,g,70,g,30,g,0,g,0,g,10,g
+175,johnny rockets,choice of three ingredients scrambler with pepper jack philly cheese steak diced tomatoes,70,g,960,mg,3380,g,80,g,70,g,30,g,0,g,0,g,10,g
+176,johnny rockets,choice of three ingredients scrambler with pepper jack philly cheese steak grilled white onions,70,g,960,mg,3410,g,80,g,70,g,30,g,0,g,0,g,10,g
+177,johnny rockets,choice of three ingredients scrambler with pepper jack philly cheese steak sourdough,70,g,960,mg,3850,g,120,g,80,g,30,g,0,g,0,g,10,g
+178,johnny rockets,choice of three ingredients scrambler with pepper jack philly cheese steak toasted english muffin,70,g,960,mg,3570,g,100,g,80,g,30,g,0,g,0,g,10,g
+179,johnny rockets,choice of three ingredients scrambler with pepper jack sausage,100,g,970,mg,2650,g,70,g,60,g,40,g,0,g,0,g,0,g
+180,johnny rockets,choice of three ingredients scrambler with pepper jack sausage diced tomatoes,100,g,970,mg,2650,g,80,g,60,g,40,g,0,g,0,g,10,g
+181,johnny rockets,choice of three ingredients scrambler with pepper jack sausage grilled peppers and onions,100,g,970,mg,2690,g,80,g,60,g,40,g,0,g,0,g,10,g
+182,johnny rockets,choice of three ingredients scrambler with pepper jack sausage grilled white onions,100,g,970,mg,2690,g,80,g,60,g,40,g,0,g,0,g,10,g
+183,johnny rockets,choice of three ingredients scrambler with pepper jack sausage sourdough,100,g,970,mg,3130,g,120,g,70,g,40,g,0,g,0,g,10,g
+184,johnny rockets,choice of three ingredients scrambler with pepper jack sausage sourdough diced tomatoes,100,g,970,mg,3130,g,120,g,70,g,40,g,0,g,0,g,10,g
+185,johnny rockets,choice of three ingredients scrambler with pepper jack sausage sourdough grilled white onions,100,g,970,mg,3170,g,130,g,70,g,40,g,0,g,0,g,10,g
+186,johnny rockets,choice of three ingredients scrambler with pepper jack sausage toasted english muffin,100,g,970,mg,2850,g,100,g,60,g,40,g,0,g,0,g,10,g
+187,johnny rockets,choice of three ingredients scrambler with pepper jack seasoned ground beef,60,g,940,mg,2030,g,70,g,70,g,30,g,0,g,0,g,0,g
+188,johnny rockets,choice of three ingredients scrambler with pepper jack seasoned ground beef diced tomatoes,60,g,940,mg,2030,g,80,g,70,g,30,g,0,g,0,g,10,g
+189,johnny rockets,choice of three ingredients scrambler with pepper jack seasoned ground beef grilled white onions,60,g,940,mg,2070,g,80,g,70,g,30,g,0,g,0,g,10,g
+190,johnny rockets,choice of three ingredients scrambler with pepper jack seasoned ground beef sourdough,70,g,940,mg,2510,g,120,g,70,g,30,g,0,g,0,g,10,g
+191,johnny rockets,choice of three ingredients scrambler with pepper jack seasoned ground beef toasted english muffin,60,g,940,mg,2230,g,100,g,70,g,30,g,0,g,0,g,10,g
+192,johnny rockets,choice of three ingredients scrambler with pepper jack sourdough,50,g,870,mg,1910,g,120,g,50,g,20,g,0,g,0,g,10,g
+193,johnny rockets,choice of three ingredients scrambler with pepper jack sourdough diced tomatoes,50,g,870,mg,1910,g,120,g,50,g,20,g,0,g,0,g,10,g
+194,johnny rockets,choice of three ingredients scrambler with pepper jack sourdough grilled peppers and onions,50,g,870,mg,1950,g,120,g,50,g,20,g,0,g,0,g,10,g
+195,johnny rockets,choice of three ingredients scrambler with pepper jack sourdough grilled white onions,50,g,870,mg,1950,g,120,g,50,g,20,g,0,g,0,g,10,g
+196,johnny rockets,choice of three ingredients scrambler with pepper jack toasted english muffin,50,g,870,mg,1630,g,100,g,50,g,20,g,0,g,0,g,10,g
+197,johnny rockets,choice of three ingredients scrambler with pepper jack toasted english muffin diced tomatoes,50,g,870,mg,1630,g,100,g,50,g,20,g,0,g,0,g,10,g
+198,johnny rockets,choice of three ingredients scrambler with pepper jack toasted english muffin grilled white onions,50,g,870,mg,1670,g,100,g,50,g,20,g,0,g,0,g,10,g
+199,johnny rockets,choice of three ingredients scrambler with philly cheese steak,60,g,920,mg,3120,g,70,g,60,g,20,g,0,g,0,g,10,g
+200,johnny rockets,choice of three ingredients scrambler with philly cheese steak diced tomatoes,60,g,920,mg,3120,g,80,g,60,g,20,g,0,g,0,g,10,g
+201,johnny rockets,choice of three ingredients scrambler with philly cheese steak grilled peppers and onions,60,g,920,mg,3160,g,80,g,60,g,20,g,0,g,0,g,10,g
+202,johnny rockets,choice of three ingredients scrambler with philly cheese steak grilled white onions,60,g,920,mg,3160,g,80,g,60,g,20,g,0,g,0,g,10,g
+203,johnny rockets,choice of three ingredients scrambler with philly cheese steak sourdough,60,g,920,mg,3600,g,120,g,70,g,20,g,0,g,0,g,10,g
+204,johnny rockets,choice of three ingredients scrambler with philly cheese steak sourdough diced tomatoes,60,g,920,mg,3600,g,120,g,70,g,20,g,0,g,0,g,10,g
+205,johnny rockets,choice of three ingredients scrambler with philly cheese steak sourdough grilled white onions,60,g,920,mg,3640,g,130,g,70,g,20,g,0,g,0,g,10,g
+206,johnny rockets,choice of three ingredients scrambler with philly cheese steak toasted english muffin,60,g,920,mg,3320,g,100,g,70,g,20,g,0,g,0,g,10,g
+207,johnny rockets,choice of three ingredients scrambler with sausage,80,g,920,mg,2400,g,70,g,50,g,30,g,0,g,0,g,0,g
+208,johnny rockets,choice of three ingredients scrambler with sausage diced tomatoes,80,g,920,mg,2400,g,80,g,50,g,30,g,0,g,0,g,10,g
+209,johnny rockets,choice of three ingredients scrambler with sausage grilled peppers and onions,80,g,920,mg,2440,g,80,g,50,g,30,g,0,g,0,g,10,g
+210,johnny rockets,choice of three ingredients scrambler with sausage grilled white onions,80,g,920,mg,2430,g,80,g,50,g,30,g,0,g,0,g,10,g
+211,johnny rockets,choice of three ingredients scrambler with sausage sourdough,90,g,920,mg,2880,g,120,g,60,g,30,g,0,g,0,g,10,g
+212,johnny rockets,choice of three ingredients scrambler with sausage sourdough diced tomatoes,90,g,920,mg,2880,g,120,g,60,g,30,g,0,g,0,g,10,g
+213,johnny rockets,choice of three ingredients scrambler with sausage sourdough grilled peppers and onions,90,g,920,mg,2920,g,120,g,60,g,30,g,0,g,0,g,10,g
+214,johnny rockets,choice of three ingredients scrambler with sausage sourdough grilled white onions,90,g,920,mg,2910,g,130,g,60,g,30,g,0,g,0,g,10,g
+215,johnny rockets,choice of three ingredients scrambler with sausage toasted english muffin,80,g,920,mg,2600,g,100,g,50,g,30,g,0,g,0,g,10,g
+216,johnny rockets,choice of three ingredients scrambler with sausage toasted english muffin diced tomatoes,80,g,920,mg,2600,g,100,g,50,g,30,g,0,g,0,g,10,g
+217,johnny rockets,choice of three ingredients scrambler with sausage toasted english muffin grilled white onions,90,g,920,mg,2630,g,100,g,50,g,30,g,0,g,0,g,10,g
+218,johnny rockets,choice of three ingredients scrambler with seasoned ground beef,50,g,890,mg,1780,g,70,g,50,g,20,g,0,g,0,g,0,g
+219,johnny rockets,choice of three ingredients scrambler with seasoned ground beef diced tomatoes,50,g,890,mg,1780,g,70,g,60,g,20,g,0,g,0,g,10,g
+220,johnny rockets,choice of three ingredients scrambler with seasoned ground beef grilled peppers and onions,50,g,890,mg,1820,g,80,g,60,g,20,g,0,g,0,g,10,g
+221,johnny rockets,choice of three ingredients scrambler with seasoned ground beef grilled white onions,50,g,890,mg,1810,g,80,g,60,g,20,g,0,g,0,g,10,g
+222,johnny rockets,choice of three ingredients scrambler with seasoned ground beef sourdough,50,g,890,mg,2260,g,120,g,60,g,20,g,0,g,0,g,10,g
+223,johnny rockets,choice of three ingredients scrambler with seasoned ground beef sourdough diced tomatoes,50,g,890,mg,2260,g,120,g,60,g,20,g,0,g,0,g,10,g
+224,johnny rockets,choice of three ingredients scrambler with seasoned ground beef sourdough grilled white onions,50,g,890,mg,2290,g,120,g,60,g,20,g,0,g,0,g,10,g
+225,johnny rockets,choice of three ingredients scrambler with seasoned ground beef toasted english muffin,50,g,890,mg,1980,g,100,g,60,g,20,g,0,g,0,g,10,g
+226,johnny rockets,choice of three ingredients scrambler with sourdough,40,g,820,mg,1660,g,120,g,40,g,10,g,0,g,0,g,10,g
+227,johnny rockets,choice of three ingredients scrambler with sourdough diced tomatoes,40,g,820,mg,1660,g,120,g,40,g,10,g,0,g,0,g,10,g
+228,johnny rockets,choice of three ingredients scrambler with sourdough grilled peppers and onions,40,g,820,mg,1700,g,120,g,40,g,10,g,0,g,0,g,10,g
+229,johnny rockets,choice of three ingredients scrambler with sourdough grilled white onions,40,g,820,mg,1690,g,120,g,40,g,10,g,0,g,0,g,10,g
+230,johnny rockets,choice of three ingredients scrambler with swiss,50,g,860,mg,1260,g,70,g,50,g,20,g,0,g,0,g,0,g
+231,johnny rockets,choice of three ingredients scrambler with swiss bacon,60,g,900,mg,1860,g,70,g,60,g,30,g,0,g,0,g,0,g
+232,johnny rockets,choice of three ingredients scrambler with swiss bacon diced tomatoes,60,g,900,mg,1860,g,70,g,60,g,30,g,0,g,0,g,10,g
+233,johnny rockets,choice of three ingredients scrambler with swiss bacon grilled peppers and onions,60,g,900,mg,1900,g,80,g,60,g,30,g,0,g,0,g,10,g
+234,johnny rockets,choice of three ingredients scrambler with swiss bacon grilled white onions,60,g,900,mg,1900,g,80,g,60,g,30,g,0,g,0,g,10,g
+235,johnny rockets,choice of three ingredients scrambler with swiss bacon sourdough,60,g,900,mg,2340,g,120,g,70,g,30,g,0,g,0,g,10,g
+236,johnny rockets,choice of three ingredients scrambler with swiss bacon sourdough diced tomatoes,60,g,900,mg,2340,g,120,g,70,g,30,g,0,g,0,g,10,g
+237,johnny rockets,choice of three ingredients scrambler with swiss bacon sourdough grilled peppers and onions,70,g,900,mg,2380,g,120,g,70,g,30,g,0,g,0,g,10,g
+238,johnny rockets,choice of three ingredients scrambler with swiss bacon sourdough grilled white onions,70,g,900,mg,2380,g,120,g,70,g,30,g,0,g,0,g,10,g
+239,johnny rockets,choice of three ingredients scrambler with swiss bacon toasted english muffin,60,g,900,mg,2060,g,100,g,60,g,30,g,0,g,0,g,10,g
+240,johnny rockets,choice of three ingredients scrambler with swiss bacon toasted english muffin diced tomatoes,60,g,900,mg,2060,g,100,g,60,g,30,g,0,g,0,g,10,g
+241,johnny rockets,choice of three ingredients scrambler with swiss chicken tenders,50,g,900,mg,1780,g,90,g,60,g,20,g,0,g,0,g,0,g
+242,johnny rockets,choice of three ingredients scrambler with swiss chicken tenders diced tomatoes,50,g,900,mg,1790,g,90,g,60,g,20,g,0,g,0,g,10,g
+243,johnny rockets,choice of three ingredients scrambler with swiss chicken tenders grilled peppers and onions,50,g,900,mg,1830,g,90,g,60,g,20,g,0,g,0,g,10,g
+244,johnny rockets,choice of three ingredients scrambler with swiss chicken tenders grilled white onions,50,g,900,mg,1820,g,90,g,60,g,20,g,0,g,0,g,10,g
+245,johnny rockets,choice of three ingredients scrambler with swiss chicken tenders sourdough,60,g,900,mg,2260,g,140,g,70,g,20,g,0,g,0,g,10,g
+246,johnny rockets,choice of three ingredients scrambler with swiss chicken tenders sourdough diced tomatoes,60,g,900,mg,2270,g,140,g,70,g,20,g,0,g,0,g,10,g
+247,johnny rockets,choice of three ingredients scrambler with swiss chicken tenders sourdough grilled white onions,60,g,900,mg,2300,g,140,g,70,g,20,g,0,g,0,g,10,g
+248,johnny rockets,choice of three ingredients scrambler with swiss chicken tenders toasted english muffin,50,g,900,mg,1980,g,110,g,70,g,20,g,0,g,0,g,10,g
+249,johnny rockets,choice of three ingredients scrambler with swiss chili,70,g,900,mg,1830,g,80,g,60,g,30,g,0,g,10,g,10,g
+250,johnny rockets,choice of three ingredients scrambler with swiss chili diced tomatoes,70,g,900,mg,1840,g,80,g,60,g,30,g,0,g,10,g,10,g
+251,johnny rockets,choice of three ingredients scrambler with swiss chili grilled peppers and onions,70,g,900,mg,1880,g,90,g,60,g,30,g,0,g,10,g,10,g
+252,johnny rockets,choice of three ingredients scrambler with swiss chili grilled white onions,70,g,900,mg,1870,g,90,g,60,g,30,g,0,g,10,g,10,g
+253,johnny rockets,choice of three ingredients scrambler with swiss chili sourdough,70,g,900,mg,2310,g,130,g,60,g,30,g,0,g,10,g,10,g
+254,johnny rockets,choice of three ingredients scrambler with swiss chili sourdough diced tomatoes,70,g,900,mg,2320,g,130,g,60,g,30,g,0,g,10,g,10,g
+255,johnny rockets,choice of three ingredients scrambler with swiss chili sourdough grilled peppers and onions,70,g,900,mg,2360,g,130,g,60,g,30,g,0,g,10,g,10,g
+256,johnny rockets,choice of three ingredients scrambler with swiss chili sourdough grilled white onions,70,g,900,mg,2350,g,130,g,60,g,30,g,0,g,10,g,10,g
+257,johnny rockets,choice of three ingredients scrambler with swiss chili toasted english muffin,70,g,900,mg,2030,g,110,g,60,g,30,g,0,g,10,g,10,g
+258,johnny rockets,choice of three ingredients scrambler with swiss chili toasted english muffin diced tomatoes,70,g,900,mg,2040,g,110,g,60,g,30,g,0,g,10,g,10,g
+259,johnny rockets,choice of three ingredients scrambler with swiss diced tomatoes,50,g,860,mg,1260,g,70,g,50,g,20,g,0,g,0,g,10,g
+260,johnny rockets,choice of three ingredients scrambler with swiss grilled chicken,50,g,940,mg,1480,g,70,g,80,g,20,g,0,g,0,g,0,g
+261,johnny rockets,choice of three ingredients scrambler with swiss grilled chicken diced tomatoes,50,g,940,mg,1490,g,70,g,80,g,20,g,0,g,0,g,10,g
+262,johnny rockets,choice of three ingredients scrambler with swiss grilled chicken grilled peppers and onions,50,g,940,mg,1530,g,80,g,80,g,20,g,0,g,0,g,10,g
+263,johnny rockets,choice of three ingredients scrambler with swiss grilled chicken grilled white onions,50,g,940,mg,1520,g,80,g,80,g,20,g,0,g,0,g,10,g
+264,johnny rockets,choice of three ingredients scrambler with swiss grilled chicken sourdough,50,g,940,mg,1960,g,120,g,90,g,20,g,0,g,0,g,10,g
+265,johnny rockets,choice of three ingredients scrambler with swiss grilled chicken sourdough diced tomatoes,50,g,940,mg,1970,g,120,g,90,g,20,g,0,g,0,g,10,g
+266,johnny rockets,choice of three ingredients scrambler with swiss grilled chicken sourdough grilled white onions,50,g,940,mg,2000,g,120,g,90,g,20,g,0,g,0,g,10,g
+267,johnny rockets,choice of three ingredients scrambler with swiss grilled chicken toasted english muffin,50,g,940,mg,1680,g,100,g,80,g,20,g,0,g,0,g,10,g
+268,johnny rockets,choice of three ingredients scrambler with swiss grilled peppers and onions,50,g,860,mg,1300,g,80,g,50,g,20,g,0,g,0,g,10,g
+269,johnny rockets,choice of three ingredients scrambler with swiss grilled white onions,50,g,860,mg,1300,g,80,g,50,g,20,g,0,g,0,g,10,g
+270,johnny rockets,choice of three ingredients scrambler with swiss philly cheese steak,70,g,960,mg,3200,g,80,g,80,g,30,g,0,g,0,g,10,g
+271,johnny rockets,choice of three ingredients scrambler with swiss philly cheese steak diced tomatoes,70,g,960,mg,3200,g,80,g,80,g,30,g,0,g,0,g,10,g
+272,johnny rockets,choice of three ingredients scrambler with swiss philly cheese steak grilled peppers and onions,70,g,960,mg,3250,g,80,g,80,g,30,g,0,g,0,g,10,g
+273,johnny rockets,choice of three ingredients scrambler with swiss philly cheese steak grilled white onions,70,g,960,mg,3240,g,80,g,80,g,30,g,0,g,0,g,10,g
+274,johnny rockets,choice of three ingredients scrambler with swiss philly cheese steak sourdough,70,g,960,mg,3680,g,120,g,80,g,30,g,0,g,0,g,10,g
+275,johnny rockets,choice of three ingredients scrambler with swiss philly cheese steak sourdough diced tomatoes,70,g,960,mg,3680,g,120,g,80,g,30,g,0,g,0,g,10,g
+276,johnny rockets,choice of three ingredients scrambler with swiss philly cheese steak toasted english muffin,70,g,960,mg,3400,g,100,g,80,g,30,g,0,g,0,g,10,g
+277,johnny rockets,choice of three ingredients scrambler with swiss sausage,90,g,960,mg,2480,g,70,g,60,g,40,g,0,g,0,g,0,g
+278,johnny rockets,choice of three ingredients scrambler with swiss sausage diced tomatoes,100,g,960,mg,2480,g,80,g,60,g,40,g,0,g,0,g,10,g
+279,johnny rockets,choice of three ingredients scrambler with swiss sausage grilled peppers and onions,100,g,960,mg,2520,g,80,g,60,g,40,g,0,g,0,g,10,g
+280,johnny rockets,choice of three ingredients scrambler with swiss sausage grilled white onions,100,g,960,mg,2520,g,80,g,60,g,40,g,0,g,0,g,10,g
+281,johnny rockets,choice of three ingredients scrambler with swiss sausage sourdough,100,g,960,mg,2960,g,120,g,70,g,40,g,0,g,0,g,10,g
+282,johnny rockets,choice of three ingredients scrambler with swiss sausage sourdough diced tomatoes,100,g,960,mg,2960,g,120,g,70,g,40,g,0,g,0,g,10,g
+283,johnny rockets,choice of three ingredients scrambler with swiss sausage sourdough grilled peppers and onions,100,g,960,mg,3000,g,120,g,70,g,40,g,0,g,0,g,10,g
+284,johnny rockets,choice of three ingredients scrambler with swiss sausage sourdough grilled white onions,100,g,960,mg,3000,g,130,g,70,g,40,g,0,g,0,g,10,g
+285,johnny rockets,choice of three ingredients scrambler with swiss sausage toasted english muffin,100,g,960,mg,2680,g,100,g,60,g,40,g,0,g,0,g,10,g
+286,johnny rockets,choice of three ingredients scrambler with swiss sausage toasted english muffin diced tomatoes,100,g,960,mg,2680,g,100,g,70,g,40,g,0,g,0,g,10,g
+287,johnny rockets,choice of three ingredients scrambler with swiss seasoned ground beef,60,g,930,mg,1860,g,70,g,70,g,30,g,0,g,0,g,0,g
+288,johnny rockets,choice of three ingredients scrambler with swiss seasoned ground beef diced tomatoes,60,g,930,mg,1860,g,70,g,70,g,30,g,0,g,0,g,10,g
+289,johnny rockets,choice of three ingredients scrambler with swiss seasoned ground beef grilled peppers and onions,60,g,930,mg,1900,g,80,g,70,g,30,g,0,g,0,g,10,g
+290,johnny rockets,choice of three ingredients scrambler with swiss seasoned ground beef grilled white onions,60,g,930,mg,1900,g,80,g,70,g,30,g,0,g,0,g,10,g
+291,johnny rockets,choice of three ingredients scrambler with swiss seasoned ground beef sourdough,60,g,930,mg,2340,g,120,g,70,g,30,g,0,g,0,g,10,g
+292,johnny rockets,choice of three ingredients scrambler with swiss seasoned ground beef sourdough diced tomatoes,60,g,930,mg,2340,g,120,g,80,g,30,g,0,g,0,g,10,g
+293,johnny rockets,choice of three ingredients scrambler with swiss seasoned ground beef toasted english muffin,60,g,930,mg,2060,g,100,g,70,g,30,g,0,g,0,g,10,g
+294,johnny rockets,choice of three ingredients scrambler with swiss sourdough,50,g,860,mg,1740,g,120,g,50,g,20,g,0,g,0,g,10,g
+295,johnny rockets,choice of three ingredients scrambler with swiss sourdough diced tomatoes,50,g,860,mg,1740,g,120,g,60,g,20,g,0,g,0,g,10,g
+296,johnny rockets,choice of three ingredients scrambler with swiss sourdough grilled peppers and onions,50,g,860,mg,1780,g,120,g,60,g,20,g,0,g,0,g,10,g
+297,johnny rockets,choice of three ingredients scrambler with swiss sourdough grilled white onions,50,g,860,mg,1780,g,120,g,60,g,20,g,0,g,0,g,10,g
+298,johnny rockets,choice of three ingredients scrambler with swiss toasted english muffin,50,g,860,mg,1460,g,100,g,50,g,20,g,0,g,0,g,10,g
+299,johnny rockets,choice of three ingredients scrambler with swiss toasted english muffin diced tomatoes,50,g,860,mg,1460,g,100,g,50,g,20,g,0,g,0,g,10,g
+300,johnny rockets,choice of three ingredients scrambler with swiss toasted english muffin grilled peppers and onions,50,g,860,mg,1500,g,100,g,50,g,20,g,0,g,0,g,10,g
+301,johnny rockets,choice of three ingredients scrambler with swiss toasted english muffin grilled white onions,50,g,860,mg,1500,g,100,g,50,g,20,g,0,g,0,g,10,g
+302,johnny rockets,choice of three ingredients scrambler with toasted english muffin,40,g,820,mg,1380,g,100,g,40,g,10,g,0,g,0,g,10,g
+303,johnny rockets,choice of three ingredients scrambler with toasted english muffin diced tomatoes,40,g,820,mg,1380,g,100,g,40,g,10,g,0,g,0,g,10,g
+304,johnny rockets,choice of three ingredients scrambler with toasted english muffin grilled peppers and onions,40,g,820,mg,1420,g,100,g,40,g,10,g,0,g,0,g,10,g
+305,johnny rockets,choice of three ingredients scrambler with toasted english muffin grilled white onions,40,g,820,mg,1410,g,100,g,40,g,10,g,0,g,0,g,10,g
+306,johnny rockets,coffee 8 fuid ounces,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+307,johnny rockets,coffee shake,40,g,160,mg,290,g,80,g,10,g,30,g,0,g,0,g,70,g
+308,johnny rockets,coke 12 fuid ounces,0,g,0,mg,10,g,20,g,0,g,0,g,0,g,0,g,20,g
+309,johnny rockets,coke 16 fuid ounces,0,g,0,mg,10,g,30,g,0,g,0,g,0,g,0,g,30,g
+310,johnny rockets,coke 20 fuid ounces,0,g,0,mg,10,g,40,g,0,g,0,g,0,g,0,g,40,g
+311,johnny rockets,coke 24 fuid ounces,0,g,0,mg,10,g,50,g,0,g,0,g,0,g,0,g,50,g
+312,johnny rockets,country sausage and gravy scrambler,90,g,950,mg,2740,g,90,g,60,g,30,g,0,g,0,g,10,g
+313,johnny rockets,crinkle cut pickles,0,g,0,mg,160,g,0,g,0,g,0,g,0,g,0,g,0,g
+314,johnny rockets,crispy chicken club salad with dressing choice 1000 island,50,g,110,mg,1580,g,30,g,30,g,10,g,0,g,0,g,10,g
+315,johnny rockets,crispy chicken club salad with dressing choice balsamic vinaigrette,30,g,80,mg,1550,g,30,g,30,g,10,g,0,g,0,g,10,g
+316,johnny rockets,crispy chicken club salad with dressing choice bleu cheese,60,g,110,mg,1630,g,30,g,30,g,20,g,0,g,0,g,0,g
+317,johnny rockets,crispy chicken club salad with dressing choice fat free italian,20,g,80,mg,1810,g,30,g,30,g,10,g,0,g,0,g,10,g
+318,johnny rockets,crispy chicken club salad with dressing choice honey mustard,50,g,100,mg,1590,g,30,g,30,g,10,g,0,g,0,g,10,g
+319,johnny rockets,crispy chicken club salad with dressing choice ranch,40,g,110,mg,1550,g,30,g,30,g,10,g,0,g,0,g,0,g
+320,johnny rockets,diet coke 12 fuid ounces,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+321,johnny rockets,diet coke 16 fuid ounces,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+322,johnny rockets,diet coke 20 fuid ounces,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+323,johnny rockets,diet coke 24 fuid ounces,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+324,johnny rockets,egg salad sandwich,50,g,510,mg,520,g,0,g,10,g,10,g,0,g,0,g,0,g
+325,johnny rockets,egg salad sandwich with bread choice sourdough,50,g,510,mg,1000,g,50,g,20,g,10,g,0,g,0,g,10,g
+326,johnny rockets,egg salad sandwich with bread choice wheat,50,g,510,mg,1020,g,40,g,20,g,10,g,0,g,0,g,0,g
+327,johnny rockets,egg salad sandwich with bread choice white,60,g,510,mg,1220,g,80,g,30,g,10,g,0,g,0,g,10,g
+328,johnny rockets,eggs my way one egg,20,g,230,mg,510,g,30,g,10,g,10,g,0,g,0,g,0,g
+329,johnny rockets,eggs my way one egg with bacon,30,g,270,mg,1110,g,30,g,20,g,10,g,0,g,0,g,0,g
+330,johnny rockets,eggs my way one egg with bacon sourdough,40,g,270,mg,1590,g,70,g,30,g,10,g,0,g,0,g,0,g
+331,johnny rockets,eggs my way one egg with bacon toasted english muffin,30,g,270,mg,1310,g,50,g,20,g,10,g,0,g,0,g,0,g
+332,johnny rockets,eggs my way one egg with sausage,70,g,330,mg,1730,g,30,g,20,g,20,g,0,g,0,g,0,g
+333,johnny rockets,eggs my way one egg with sausage sourdough,70,g,330,mg,2210,g,70,g,30,g,30,g,0,g,0,g,0,g
+334,johnny rockets,eggs my way one egg with sausage toasted english muffin,70,g,330,mg,1930,g,50,g,30,g,20,g,0,g,0,g,0,g
+335,johnny rockets,eggs my way one egg with sourdough,20,g,230,mg,990,g,70,g,20,g,10,g,0,g,0,g,0,g
+336,johnny rockets,eggs my way one egg with toasted english muffin,20,g,230,mg,710,g,50,g,10,g,10,g,0,g,0,g,0,g
+337,johnny rockets,eggs my way three eggs,30,g,660,mg,650,g,30,g,20,g,10,g,0,g,0,g,0,g
+338,johnny rockets,eggs my way three eggs with bacon,40,g,700,mg,1250,g,30,g,30,g,20,g,0,g,0,g,0,g
+339,johnny rockets,eggs my way three eggs with bacon sourdough,50,g,700,mg,1730,g,70,g,40,g,20,g,0,g,0,g,10,g
+340,johnny rockets,eggs my way three eggs with bacon toasted english muffin,40,g,700,mg,1450,g,50,g,40,g,20,g,0,g,0,g,0,g
+341,johnny rockets,eggs my way three eggs with sausage,80,g,760,mg,1870,g,30,g,40,g,30,g,0,g,0,g,0,g
+342,johnny rockets,eggs my way three eggs with sausage sourdough,80,g,760,mg,2350,g,70,g,40,g,30,g,0,g,0,g,10,g
+343,johnny rockets,eggs my way three eggs with sausage toasted english muffin,80,g,760,mg,2070,g,50,g,40,g,30,g,0,g,0,g,0,g
+344,johnny rockets,eggs my way three eggs with sourdough,30,g,660,mg,1130,g,70,g,30,g,10,g,0,g,0,g,10,g
+345,johnny rockets,eggs my way three eggs with toasted english muffin,30,g,660,mg,850,g,50,g,30,g,10,g,0,g,0,g,0,g
+346,johnny rockets,eggs my way two eggs,20,g,450,mg,580,g,30,g,20,g,10,g,0,g,0,g,0,g
+347,johnny rockets,eggs my way two eggs with bacon,40,g,490,mg,1180,g,30,g,30,g,10,g,0,g,0,g,0,g
+348,johnny rockets,eggs my way two eggs with bacon sourdough,40,g,490,mg,1660,g,70,g,40,g,20,g,0,g,0,g,0,g
+349,johnny rockets,eggs my way two eggs with bacon toasted english muffin,40,g,490,mg,1380,g,50,g,30,g,10,g,0,g,0,g,0,g
+350,johnny rockets,eggs my way two eggs with sausage,70,g,550,mg,1800,g,30,g,30,g,30,g,0,g,0,g,0,g
+351,johnny rockets,eggs my way two eggs with sausage sourdough,80,g,550,mg,2280,g,70,g,40,g,30,g,0,g,0,g,0,g
+352,johnny rockets,eggs my way two eggs with sausage toasted english muffin,70,g,550,mg,2000,g,50,g,30,g,30,g,0,g,0,g,0,g
+353,johnny rockets,eggs my way two eggs with sourdough,30,g,450,mg,1060,g,70,g,20,g,10,g,0,g,0,g,0,g
+354,johnny rockets,eggs my way two eggs with toasted english muffin,30,g,450,mg,780,g,50,g,20,g,10,g,0,g,0,g,0,g
+355,johnny rockets,english muffin,0,g,0,mg,200,g,30,g,0,g,0,g,0,g,0,g,0,g
+356,johnny rockets,fanta orange 12 fuid ounces,0,g,0,mg,30,g,30,g,0,g,0,g,0,g,0,g,30,g
+357,johnny rockets,fanta orange 16 fuid ounces,0,g,0,mg,40,g,40,g,0,g,0,g,0,g,0,g,40,g
+358,johnny rockets,fanta orange 20 fuid ounces,0,g,0,mg,60,g,40,g,0,g,0,g,0,g,0,g,40,g
+359,johnny rockets,fanta orange 24 fuid ounces,0,g,0,mg,70,g,50,g,0,g,0,g,0,g,0,g,50,g
+360,johnny rockets,fat free italian dressing,0,g,0,mg,720,g,10,g,0,g,0,g,0,g,0,g,0,g
+361,johnny rockets,flavors for flavored sodas with flavor choice cherry,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,0,g,20,g
+362,johnny rockets,flavors for flavored sodas with flavor choice chocolate,0,g,0,mg,10,g,20,g,0,g,0,g,0,g,0,g,10,g
+363,johnny rockets,flavors for flavored sodas with flavor choice lemon,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,0,g
+364,johnny rockets,flavors for flavored sodas with flavor choice strawberry,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,10,g
+365,johnny rockets,flavors for flavored sodas with flavor choice vanilla,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,0,g,20,g
+366,johnny rockets,french toast 2 slices,10,g,310,mg,690,g,100,g,20,g,10,g,0,g,0,g,40,g
+367,johnny rockets,french toast 2 slices with bacon,30,g,350,mg,1290,g,100,g,30,g,10,g,0,g,0,g,40,g
+368,johnny rockets,french toast 2 slices with sausage,60,g,410,mg,1910,g,100,g,30,g,20,g,0,g,0,g,40,g
+369,johnny rockets,french toast 3 slices,20,g,450,mg,990,g,130,g,30,g,10,g,0,g,0,g,40,g
+370,johnny rockets,french toast 3 slices with bacon,30,g,490,mg,1590,g,130,g,40,g,10,g,0,g,0,g,40,g
+371,johnny rockets,french toast 3 slices with sausage,70,g,550,mg,2210,g,130,g,40,g,20,g,0,g,0,g,40,g
+372,johnny rockets,fried chicken club sandwich,50,g,100,mg,1920,g,70,g,40,g,10,g,0,g,0,g,0,g
+373,johnny rockets,fries,10,g,0,mg,700,g,50,g,0,g,0,g,0,g,0,g,0,g
+374,johnny rockets,gardein black bean burger,30,g,60,mg,650,g,10,g,10,g,10,g,0,g,0,g,0,g
+375,johnny rockets,gardein burger patty,10,g,0,mg,570,g,20,g,10,g,0,g,0,g,10,g,0,g
+376,johnny rockets,garden salad,10,g,30,mg,260,g,10,g,10,g,10,g,0,g,0,g,0,g
+377,johnny rockets,garden salad with dressing choice 1000 island,30,g,60,mg,760,g,10,g,10,g,10,g,0,g,0,g,10,g
+378,johnny rockets,garden salad with dressing choice balsamic vinaigrette,20,g,30,mg,720,g,10,g,10,g,10,g,0,g,0,g,10,g
+379,johnny rockets,garden salad with dressing choice bleu cheese,40,g,60,mg,800,g,10,g,10,g,10,g,0,g,0,g,0,g
+380,johnny rockets,garden salad with dressing choice fat free italian,10,g,30,mg,980,g,10,g,10,g,10,g,0,g,0,g,10,g
+381,johnny rockets,garden salad with dressing choice honey mustard,40,g,50,mg,760,g,20,g,10,g,10,g,0,g,0,g,10,g
+382,johnny rockets,garden salad with dressing choice ranch,30,g,50,mg,720,g,10,g,10,g,10,g,0,g,0,g,0,g
+383,johnny rockets,gluten free bun,10,g,0,mg,510,g,40,g,10,g,0,g,0,g,10,g,10,g
+384,johnny rockets,grilled cheese with american,30,g,80,mg,1730,g,50,g,20,g,20,g,0,g,0,g,0,g
+385,johnny rockets,grilled cheese with cheddar,40,g,80,mg,1080,g,50,g,30,g,20,g,0,g,0,g,0,g
+386,johnny rockets,grilled cheese with pepper jack,40,g,90,mg,1040,g,50,g,30,g,20,g,0,g,0,g,0,g
+387,johnny rockets,grilled cheese with provolone,30,g,60,mg,1100,g,50,g,30,g,20,g,0,g,0,g,0,g
+388,johnny rockets,grilled cheese with swiss,30,g,80,mg,700,g,50,g,30,g,20,g,0,g,0,g,0,g
+389,johnny rockets,grilled chicken,0,g,80,mg,220,g,0,g,30,g,0,g,0,g,0,g,0,g
+390,johnny rockets,grilled chicken breast sandwich,30,g,100,mg,640,g,40,g,40,g,0,g,0,g,0,g,0,g
+391,johnny rockets,grilled chicken club salad with dressing choice 1000 island,40,g,160,mg,1280,g,20,g,50,g,10,g,0,g,0,g,10,g
+392,johnny rockets,grilled chicken club salad with dressing choice balsamic vinaigrette,30,g,130,mg,1250,g,20,g,50,g,10,g,0,g,0,g,10,g
+393,johnny rockets,grilled chicken club salad with dressing choice bleu cheese,50,g,160,mg,1330,g,10,g,50,g,10,g,0,g,0,g,0,g
+394,johnny rockets,grilled chicken club salad with dressing choice fat free italian,20,g,130,mg,1510,g,10,g,50,g,10,g,0,g,0,g,10,g
+395,johnny rockets,grilled chicken club salad with dressing choice honey mustard,40,g,150,mg,1290,g,20,g,50,g,10,g,0,g,0,g,10,g
+396,johnny rockets,grilled chicken club salad with dressing choice ranch,40,g,150,mg,1240,g,10,g,50,g,10,g,0,g,0,g,0,g
+397,johnny rockets,grilled chicken club sandwich,40,g,130,mg,1360,g,50,g,50,g,10,g,0,g,0,g,0,g
+398,johnny rockets,grilled green peppers,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+399,johnny rockets,grilled mushrooms,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+400,johnny rockets,hersheys chocolate shake,40,g,160,mg,310,g,110,g,10,g,30,g,0,g,0,g,100,g
+401,johnny rockets,hersheys chocolate shake with malt powder,40,g,160,mg,380,g,120,g,20,g,30,g,0,g,0,g,110,g
+402,johnny rockets,hoagie roll,0,g,0,mg,540,g,40,g,10,g,0,g,0,g,0,g,0,g
+403,johnny rockets,honey mustard,10,g,10,mg,250,g,10,g,0,g,0,g,0,g,0,g,10,g
+404,johnny rockets,honey mustard dressing,30,g,20,mg,500,g,10,g,0,g,0,g,0,g,0,g,10,g
+405,johnny rockets,hot chocolate 8 fuid ounces,0,g,0,mg,190,g,20,g,0,g,0,g,0,g,0,g,10,g
+406,johnny rockets,hot tea 8 fuid ounces,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+407,johnny rockets,housemade ranch,10,g,10,mg,230,g,0,g,0,g,0,g,0,g,0,g,0,g
+408,johnny rockets,iced tea 16 fuid ounces,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+409,johnny rockets,iced tea 20 fuid ounces,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+410,johnny rockets,iced tea 24 fuid ounces,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+411,johnny rockets,jalapenos,0,g,0,mg,350,g,0,g,0,g,0,g,0,g,0,g,0,g
+412,johnny rockets,johnnys breakfast sandwich,20,g,230,mg,230,g,0,g,10,g,10,g,0,g,0,g,0,g
+413,johnny rockets,johnnys breakfast sandwich with bacon,20,g,250,mg,530,g,0,g,20,g,10,g,0,g,0,g,0,g
+414,johnny rockets,johnnys breakfast sandwich with bread choice biscuit,30,g,230,mg,1130,g,40,g,20,g,10,g,0,g,0,g,0,g
+415,johnny rockets,johnnys breakfast sandwich with bread choice biscuit bacon,30,g,250,mg,1430,g,40,g,20,g,10,g,0,g,0,g,0,g
+416,johnny rockets,johnnys breakfast sandwich with bread choice biscuit sausage,50,g,280,mg,1740,g,40,g,20,g,20,g,0,g,0,g,0,g
+417,johnny rockets,johnnys breakfast sandwich with bread choice sourdough toast,20,g,230,mg,710,g,50,g,20,g,10,g,0,g,0,g,0,g
+418,johnny rockets,johnnys breakfast sandwich with bread choice sourdough toast bacon,30,g,250,mg,1010,g,50,g,30,g,10,g,0,g,0,g,0,g
+419,johnny rockets,johnnys breakfast sandwich with bread choice sourdough toast sausage,40,g,280,mg,1320,g,50,g,30,g,20,g,0,g,0,g,0,g
+420,johnny rockets,johnnys breakfast sandwich with bread choice toasted english muffin,20,g,230,mg,430,g,30,g,20,g,10,g,0,g,0,g,0,g
+421,johnny rockets,johnnys breakfast sandwich with bread choice toasted english muffin bacon,20,g,250,mg,730,g,30,g,20,g,10,g,0,g,0,g,0,g
+422,johnny rockets,johnnys breakfast sandwich with bread choice toasted english muffin sausage,40,g,280,mg,1040,g,30,g,20,g,10,g,0,g,0,g,0,g
+423,johnny rockets,johnnys breakfast sandwich with sausage,40,g,280,mg,840,g,0,g,20,g,10,g,0,g,0,g,0,g
+424,johnny rockets,ketchup,0,g,0,mg,320,g,10,g,0,g,0,g,0,g,0,g,10,g
+425,johnny rockets,kids banana shake,30,g,100,mg,190,g,60,g,10,g,20,g,0,g,0,g,50,g
+426,johnny rockets,kids banana shake with malt powder,30,g,110,mg,230,g,70,g,10,g,20,g,0,g,0,g,60,g
+427,johnny rockets,kids chicken tenders,10,g,50,mg,1250,g,60,g,30,g,0,g,0,g,0,g,0,g
+428,johnny rockets,kids chicken tenders with bbq,10,g,50,mg,1830,g,90,g,30,g,0,g,0,g,0,g,30,g
+429,johnny rockets,kids chicken tenders with honey mustard,40,g,70,mg,1750,g,70,g,30,g,10,g,0,g,0,g,10,g
+430,johnny rockets,kids chicken tenders with ranch,40,g,70,mg,1700,g,60,g,30,g,10,g,0,g,0,g,0,g
+431,johnny rockets,kids chocolate banana shake,30,g,100,mg,200,g,80,g,10,g,20,g,0,g,0,g,70,g
+432,johnny rockets,kids chocolate banana shake with malt powder,30,g,110,mg,240,g,80,g,10,g,20,g,0,g,0,g,70,g
+433,johnny rockets,kids chocolate peanut butter shake,50,g,100,mg,360,g,80,g,20,g,20,g,0,g,0,g,70,g
+434,johnny rockets,kids chocolate peanut butter shake with malt powder,50,g,110,mg,390,g,80,g,20,g,20,g,0,g,0,g,70,g
+435,johnny rockets,kids chocolate strawberry kiss shake,30,g,100,mg,210,g,80,g,10,g,20,g,0,g,0,g,70,g
+436,johnny rockets,kids chocolate strawberry kiss shake with malt powder,30,g,110,mg,240,g,90,g,10,g,20,g,0,g,0,g,80,g
+437,johnny rockets,kids float,10,g,40,mg,60,g,20,g,0,g,10,g,0,g,0,g,20,g
+438,johnny rockets,kids float with coke,10,g,40,mg,70,g,40,g,0,g,10,g,0,g,0,g,40,g
+439,johnny rockets,kids float with diet coke,10,g,40,mg,70,g,20,g,0,g,10,g,0,g,0,g,20,g
+440,johnny rockets,kids float with fanta orange,10,g,40,mg,90,g,40,g,0,g,10,g,0,g,0,g,40,g
+441,johnny rockets,kids float with minute maid lemonade,10,g,40,mg,80,g,30,g,0,g,10,g,0,g,0,g,30,g
+442,johnny rockets,kids float with pibb xtra,10,g,40,mg,80,g,40,g,0,g,10,g,0,g,0,g,40,g
+443,johnny rockets,kids float with sprite,10,g,40,mg,80,g,40,g,0,g,10,g,0,g,0,g,40,g
+444,johnny rockets,kids grilled cheese with american,30,g,40,mg,1590,g,80,g,20,g,10,g,0,g,0,g,10,g
+445,johnny rockets,kids grilled cheese with cheddar,30,g,40,mg,1270,g,80,g,20,g,10,g,0,g,0,g,10,g
+446,johnny rockets,kids grilled cheese with pepper jack,30,g,50,mg,1250,g,80,g,20,g,10,g,0,g,0,g,10,g
+447,johnny rockets,kids grilled cheese with provolone,30,g,30,mg,1280,g,80,g,20,g,10,g,0,g,0,g,10,g
+448,johnny rockets,kids grilled cheese with swiss,30,g,40,mg,1080,g,80,g,20,g,10,g,0,g,0,g,10,g
+449,johnny rockets,kids grilled chicken strips,10,g,80,mg,690,g,30,g,40,g,0,g,0,g,0,g,0,g
+450,johnny rockets,kids hersheys chocolate shake,30,g,100,mg,200,g,70,g,10,g,20,g,0,g,0,g,60,g
+451,johnny rockets,kids hersheys chocolate shake with malt powder,30,g,110,mg,240,g,80,g,10,g,20,g,0,g,0,g,70,g
+452,johnny rockets,kids hot dog,30,g,50,mg,2050,g,70,g,20,g,10,g,0,g,0,g,10,g
+453,johnny rockets,kids maple bacon shake,30,g,110,mg,380,g,80,g,10,g,20,g,0,g,0,g,70,g
+454,johnny rockets,kids mini burgers,20,g,100,mg,1390,g,60,g,30,g,10,g,0,g,0,g,10,g
+455,johnny rockets,kids mini burgers with american,30,g,120,mg,1690,g,60,g,30,g,10,g,0,g,0,g,10,g
+456,johnny rockets,kids mini burgers with cheddar,30,g,120,mg,1530,g,60,g,30,g,10,g,0,g,0,g,10,g
+457,johnny rockets,kids oreo cookies and cream shake,30,g,100,mg,470,g,80,g,10,g,20,g,0,g,0,g,60,g
+458,johnny rockets,kids oreo cookies and cream shake with malt powder,40,g,110,mg,500,g,80,g,10,g,20,g,0,g,0,g,60,g
+459,johnny rockets,kids peanut butter banana shake,50,g,100,mg,350,g,70,g,20,g,20,g,0,g,0,g,60,g
+460,johnny rockets,kids peanut butter banana shake with malt powder,50,g,110,mg,380,g,70,g,20,g,20,g,0,g,0,g,60,g
+461,johnny rockets,kids peanut butter shake,50,g,100,mg,350,g,60,g,20,g,20,g,0,g,0,g,50,g
+462,johnny rockets,kids peanut butter shake with malt powder,50,g,110,mg,380,g,60,g,20,g,20,g,0,g,0,g,60,g
+463,johnny rockets,kids soft serve banana shake,30,g,120,mg,300,g,70,g,10,g,20,g,0,g,0,g,60,g
+464,johnny rockets,kids soft serve banana shake with malt powder,30,g,120,mg,340,g,70,g,10,g,20,g,0,g,0,g,70,g
+465,johnny rockets,kids soft serve chocolate banana shake,30,g,120,mg,310,g,80,g,10,g,20,g,0,g,0,g,80,g
+466,johnny rockets,kids soft serve chocolate banana shake with malt powder,30,g,120,mg,350,g,90,g,10,g,20,g,0,g,0,g,80,g
+467,johnny rockets,kids soft serve chocolate peanut butter shake,50,g,120,mg,470,g,80,g,20,g,30,g,0,g,0,g,70,g
+468,johnny rockets,kids soft serve chocolate peanut butter shake with malt powder,50,g,120,mg,500,g,90,g,20,g,30,g,0,g,0,g,80,g
+469,johnny rockets,kids soft serve chocolate shake,30,g,120,mg,310,g,80,g,10,g,20,g,0,g,0,g,70,g
+470,johnny rockets,kids soft serve chocolate shake with malt powder,30,g,120,mg,350,g,80,g,10,g,20,g,0,g,0,g,70,g
+471,johnny rockets,kids soft serve chocolate strawberry kiss shake,30,g,120,mg,320,g,90,g,10,g,20,g,0,g,0,g,80,g
+472,johnny rockets,kids soft serve chocolate strawberry kiss shake with malt powder,30,g,120,mg,350,g,90,g,10,g,20,g,0,g,0,g,80,g
+473,johnny rockets,kids soft serve maple bacon shake,30,g,130,mg,490,g,90,g,10,g,20,g,0,g,0,g,80,g
+474,johnny rockets,kids soft serve oreo cookies and cream shake,40,g,120,mg,580,g,80,g,10,g,20,g,0,g,0,g,70,g
+475,johnny rockets,kids soft serve oreo cookies and cream shake with malt powder,40,g,120,mg,610,g,90,g,10,g,20,g,0,g,0,g,70,g
+476,johnny rockets,kids soft serve peanut butter banana shake,50,g,120,mg,460,g,70,g,20,g,30,g,0,g,0,g,60,g
+477,johnny rockets,kids soft serve peanut butter banana shake with malt powder,50,g,120,mg,490,g,80,g,20,g,30,g,0,g,0,g,70,g
+478,johnny rockets,kids soft serve peanut butter shake,50,g,120,mg,460,g,60,g,20,g,30,g,0,g,0,g,60,g
+479,johnny rockets,kids soft serve peanut butter shake with malt powder,50,g,120,mg,490,g,70,g,20,g,30,g,0,g,0,g,60,g
+480,johnny rockets,kids soft serve strawberry banana shake,30,g,120,mg,310,g,80,g,10,g,20,g,0,g,0,g,70,g
+481,johnny rockets,kids soft serve strawberry banana shake with malt powder,30,g,120,mg,340,g,80,g,10,g,20,g,0,g,0,g,70,g
+482,johnny rockets,kids soft serve strawberry oreo crumble shake,40,g,120,mg,580,g,90,g,10,g,20,g,0,g,0,g,80,g
+483,johnny rockets,kids soft serve strawberry oreo crumble shake with malt powder,40,g,120,mg,620,g,100,g,10,g,20,g,0,g,0,g,80,g
+484,johnny rockets,kids soft serve strawberry shake,30,g,120,mg,310,g,70,g,10,g,20,g,0,g,0,g,70,g
+485,johnny rockets,kids soft serve strawberry shake with malt powder,30,g,120,mg,340,g,70,g,10,g,20,g,0,g,0,g,70,g
+486,johnny rockets,kids soft serve vanilla shake,30,g,120,mg,300,g,70,g,10,g,20,g,0,g,0,g,70,g
+487,johnny rockets,kids soft serve vanilla shake with malt powder,30,g,120,mg,340,g,80,g,10,g,20,g,0,g,0,g,80,g
+488,johnny rockets,kids strawberry banana shake,30,g,100,mg,200,g,70,g,10,g,20,g,0,g,0,g,60,g
+489,johnny rockets,kids strawberry banana shake with malt powder,30,g,110,mg,230,g,80,g,10,g,20,g,0,g,0,g,70,g
+490,johnny rockets,kids strawberry oreo crumble shake,30,g,100,mg,470,g,90,g,10,g,20,g,0,g,0,g,70,g
+491,johnny rockets,kids strawberry oreo crumble shake with malt powder,40,g,110,mg,510,g,90,g,10,g,20,g,0,g,0,g,70,g
+492,johnny rockets,kids strawberry shake,30,g,100,mg,200,g,60,g,10,g,20,g,0,g,0,g,60,g
+493,johnny rockets,kids strawberry shake with malt powder,30,g,110,mg,230,g,70,g,10,g,20,g,0,g,0,g,60,g
+494,johnny rockets,kids vanilla shake,30,g,100,mg,190,g,70,g,10,g,20,g,0,g,0,g,60,g
+495,johnny rockets,kids vanilla shake with malt powder,30,g,110,mg,230,g,70,g,10,g,20,g,0,g,0,g,70,g
+496,johnny rockets,maple bacon shake,40,g,170,mg,510,g,130,g,20,g,30,g,0,g,0,g,100,g
+497,johnny rockets,mayonnaise,20,g,20,mg,150,g,0,g,0,g,0,g,0,g,0,g,0,g
+498,johnny rockets,milk 12 fuid ounces,10,g,50,mg,190,g,20,g,10,g,10,g,0,g,0,g,20,g
+499,johnny rockets,milk 16 fuid ounces,20,g,70,mg,250,g,30,g,20,g,10,g,0,g,0,g,20,g
+500,johnny rockets,milk 20 fuid ounces,20,g,90,mg,310,g,30,g,20,g,10,g,0,g,0,g,30,g
+501,johnny rockets,milk 24 fuid ounces,20,g,110,mg,380,g,40,g,20,g,20,g,0,g,0,g,40,g
+502,johnny rockets,minute maid lemonade 12 fuid ounces,0,g,0,mg,40,g,20,g,0,g,0,g,0,g,0,g,20,g
+503,johnny rockets,minute maid lemonade 16 fuid ounces,0,g,0,mg,50,g,30,g,0,g,0,g,0,g,0,g,30,g
+504,johnny rockets,minute maid lemonade 20 fuid ounces,0,g,0,mg,60,g,40,g,0,g,0,g,0,g,0,g,40,g
+505,johnny rockets,minute maid lemonade 24 fuid ounces,0,g,0,mg,70,g,50,g,0,g,0,g,0,g,0,g,50,g
+506,johnny rockets,mocha fudge shake,50,g,160,mg,330,g,90,g,10,g,30,g,0,g,0,g,80,g
+507,johnny rockets,mozzarella sticks,30,g,60,mg,2460,g,60,g,30,g,10,g,0,g,10,g,10,g
+508,johnny rockets,mustard,0,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+509,johnny rockets,nachos,90,g,280,mg,2660,g,20,g,60,g,50,g,0,g,10,g,10,g
+510,johnny rockets,no 12 burger,40,g,110,mg,1280,g,10,g,30,g,10,g,0,g,0,g,0,g
+511,johnny rockets,no 12 burger with bread choice hoagie roll,50,g,110,mg,1820,g,50,g,30,g,10,g,0,g,0,g,10,g
+512,johnny rockets,no 12 burger with bread choice sourdough,50,g,110,mg,1810,g,50,g,30,g,10,g,0,g,0,g,10,g
+513,johnny rockets,no 12 burger with bun choice gluten free,50,g,110,mg,1790,g,50,g,30,g,10,g,0,g,10,g,10,g
+514,johnny rockets,no 12 burger with bun choice regular,50,g,110,mg,1630,g,40,g,30,g,10,g,0,g,0,g,10,g
+515,johnny rockets,no 12 burger with bun choice wheat,50,g,110,mg,1540,g,50,g,30,g,10,g,0,g,0,g,10,g
+516,johnny rockets,onion rings,30,g,20,mg,1730,g,80,g,10,g,0,g,0,g,0,g,10,g
+517,johnny rockets,onion rings create your burger topping,0,g,0,mg,320,g,20,g,0,g,0,g,0,g,0,g,0,g
+518,johnny rockets,onion slice,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+519,johnny rockets,orange juice 10 fuid ounces,0,g,0,mg,40,g,40,g,0,g,0,g,0,g,0,g,40,g
+520,johnny rockets,orange juice 14 fuid ounces,0,g,0,mg,60,g,50,g,0,g,0,g,0,g,0,g,50,g
+521,johnny rockets,oreo cookies and cream shake,50,g,160,mg,730,g,120,g,20,g,30,g,0,g,0,g,90,g
+522,johnny rockets,oreo cookies and cream shake with malt powder,50,g,160,mg,800,g,130,g,20,g,30,g,0,g,0,g,100,g
+523,johnny rockets,pancakes three,10,g,10,mg,1330,g,140,g,10,g,0,g,0,g,0,g,50,g
+524,johnny rockets,pancakes three with bacon,20,g,50,mg,1930,g,140,g,20,g,10,g,0,g,0,g,50,g
+525,johnny rockets,pancakes three with sausage,60,g,110,mg,2550,g,140,g,20,g,20,g,0,g,0,g,50,g
+526,johnny rockets,pancakes two,10,g,10,mg,920,g,110,g,10,g,0,g,0,g,0,g,40,g
+527,johnny rockets,pancakes two with bacon,20,g,50,mg,1520,g,110,g,20,g,10,g,0,g,0,g,40,g
+528,johnny rockets,pancakes two with sausage,50,g,110,mg,2140,g,110,g,20,g,20,g,0,g,0,g,40,g
+529,johnny rockets,peanut butter banana shake,60,g,160,mg,450,g,100,g,20,g,30,g,0,g,0,g,80,g
+530,johnny rockets,peanut butter banana shake with malt powder,60,g,160,mg,510,g,110,g,20,g,30,g,0,g,0,g,90,g
+531,johnny rockets,peanut butter shake,80,g,160,mg,570,g,90,g,30,g,30,g,0,g,0,g,80,g
+532,johnny rockets,peanut butter shake with malt powder,80,g,160,mg,640,g,100,g,30,g,30,g,0,g,0,g,90,g
+533,johnny rockets,pepper jack cheese,10,g,20,mg,130,g,0,g,10,g,0,g,0,g,0,g,0,g
+534,johnny rockets,philly cheese steak scrambler,70,g,950,mg,3360,g,80,g,70,g,30,g,0,g,0,g,10,g
+535,johnny rockets,philly cheese steak scrambler with add green peppers,70,g,950,mg,3360,g,90,g,70,g,30,g,0,g,10,g,10,g
+536,johnny rockets,philly cheese steak scrambler with add green peppers add mushrooms,70,g,950,mg,3360,g,90,g,70,g,30,g,0,g,10,g,10,g
+537,johnny rockets,philly cheese steak scrambler with add mushrooms,70,g,950,mg,3360,g,90,g,70,g,30,g,0,g,0,g,10,g
+538,johnny rockets,pibb xtra 12 fuid ounces,0,g,0,mg,10,g,20,g,0,g,0,g,0,g,0,g,20,g
+539,johnny rockets,pibb xtra 16 fuid ounces,0,g,0,mg,20,g,30,g,0,g,0,g,0,g,0,g,30,g
+540,johnny rockets,pibb xtra 20 fuid ounces,0,g,0,mg,20,g,40,g,0,g,0,g,0,g,0,g,40,g
+541,johnny rockets,pibb xtra 24 fuid ounces,0,g,0,mg,30,g,50,g,0,g,0,g,0,g,0,g,50,g
+542,johnny rockets,provolone cheese,10,g,20,mg,140,g,0,g,10,g,0,g,0,g,0,g,0,g
+543,johnny rockets,ranch dressing,20,g,20,mg,460,g,0,g,0,g,0,g,0,g,0,g,0,g
+544,johnny rockets,regular bun,10,g,0,mg,350,g,40,g,10,g,0,g,0,g,0,g,10,g
+545,johnny rockets,relish,0,g,0,mg,110,g,0,g,0,g,0,g,0,g,0,g,0,g
+546,johnny rockets,rocket breaded wings 12,50,g,200,mg,2000,g,20,g,50,g,10,g,0,g,0,g,0,g
+547,johnny rockets,rocket breaded wings 12 with dressing choice blue cheese,90,g,230,mg,2540,g,30,g,50,g,20,g,0,g,0,g,0,g
+548,johnny rockets,rocket breaded wings 12 with dressing choice blue cheese wing hot,90,g,230,mg,4290,g,30,g,50,g,20,g,0,g,0,g,0,g
+549,johnny rockets,rocket breaded wings 12 with dressing choice blue cheese wing sweet bbq,90,g,230,mg,3120,g,60,g,50,g,20,g,0,g,0,g,30,g
+550,johnny rockets,rocket breaded wings 12 with dressing choice ranch,70,g,220,mg,2460,g,30,g,50,g,20,g,0,g,0,g,0,g
+551,johnny rockets,rocket breaded wings 12 with dressing choice ranch wing hot,80,g,220,mg,4200,g,30,g,50,g,20,g,0,g,0,g,0,g
+552,johnny rockets,rocket breaded wings 12 with dressing choice ranch wing sweet bbq,70,g,220,mg,3040,g,60,g,50,g,20,g,0,g,0,g,30,g
+553,johnny rockets,rocket breaded wings 12 with wing hot,50,g,200,mg,3750,g,30,g,50,g,10,g,0,g,0,g,0,g
+554,johnny rockets,rocket breaded wings 12 with wing sweet bbq,50,g,200,mg,2580,g,60,g,50,g,10,g,0,g,0,g,30,g
+555,johnny rockets,rocket breaded wings 16,70,g,270,mg,2670,g,30,g,60,g,20,g,0,g,0,g,0,g
+556,johnny rockets,rocket breaded wings 16 with dressing choice blue cheese,100,g,300,mg,3210,g,30,g,70,g,30,g,0,g,0,g,0,g
+557,johnny rockets,rocket breaded wings 16 with dressing choice blue cheese wing hot,100,g,300,mg,4950,g,40,g,70,g,30,g,0,g,0,g,0,g
+558,johnny rockets,rocket breaded wings 16 with dressing choice blue cheese wing sweet bbq,100,g,300,mg,3790,g,70,g,70,g,30,g,0,g,0,g,30,g
+559,johnny rockets,rocket breaded wings 16 with dressing choice ranch,90,g,290,mg,3120,g,30,g,70,g,20,g,0,g,0,g,0,g
+560,johnny rockets,rocket breaded wings 16 with dressing choice ranch wing hot,90,g,290,mg,4870,g,40,g,70,g,20,g,0,g,0,g,0,g
+561,johnny rockets,rocket breaded wings 16 with dressing choice ranch wing sweet bbq,90,g,290,mg,3700,g,70,g,70,g,20,g,0,g,0,g,30,g
+562,johnny rockets,rocket breaded wings 16 with wing hot,70,g,270,mg,4410,g,30,g,60,g,20,g,0,g,0,g,0,g
+563,johnny rockets,rocket breaded wings 16 with wing sweet bbq,70,g,270,mg,3250,g,70,g,60,g,20,g,0,g,0,g,30,g
+564,johnny rockets,rocket breaded wings 4,20,g,70,mg,670,g,10,g,20,g,0,g,0,g,0,g,0,g
+565,johnny rockets,rocket breaded wings 4 with dressing choice blue cheese,50,g,100,mg,1210,g,10,g,20,g,10,g,0,g,0,g,0,g
+566,johnny rockets,rocket breaded wings 4 with dressing choice blue cheese wing hot,50,g,100,mg,2950,g,10,g,20,g,10,g,0,g,0,g,0,g
+567,johnny rockets,rocket breaded wings 4 with dressing choice blue cheese wing sweet bbq,50,g,100,mg,1790,g,50,g,20,g,10,g,0,g,0,g,30,g
+568,johnny rockets,rocket breaded wings 4 with dressing choice ranch,40,g,90,mg,1120,g,10,g,20,g,10,g,0,g,0,g,0,g
+569,johnny rockets,rocket breaded wings 4 with dressing choice ranch wing hot,40,g,90,mg,2870,g,10,g,20,g,10,g,0,g,0,g,0,g
+570,johnny rockets,rocket breaded wings 4 with dressing choice ranch wing sweet bbq,40,g,90,mg,1700,g,50,g,20,g,10,g,0,g,0,g,30,g
+571,johnny rockets,rocket breaded wings 4 with wing hot,20,g,70,mg,2410,g,10,g,20,g,0,g,0,g,0,g,0,g
+572,johnny rockets,rocket breaded wings 4 with wing sweet bbq,20,g,70,mg,1250,g,40,g,20,g,0,g,0,g,0,g,30,g
+573,johnny rockets,rocket breaded wings 6,30,g,100,mg,1000,g,10,g,20,g,10,g,0,g,0,g,0,g
+574,johnny rockets,rocket breaded wings 6 with dressing choice blue cheese,60,g,130,mg,1540,g,10,g,30,g,10,g,0,g,0,g,0,g
+575,johnny rockets,rocket breaded wings 6 with dressing choice blue cheese wing hot,60,g,130,mg,3290,g,20,g,30,g,10,g,0,g,0,g,0,g
+576,johnny rockets,rocket breaded wings 6 with dressing choice blue cheese wing sweet bbq,60,g,130,mg,2120,g,50,g,30,g,10,g,0,g,0,g,30,g
+577,johnny rockets,rocket breaded wings 6 with dressing choice ranch,50,g,120,mg,1460,g,10,g,30,g,10,g,0,g,0,g,0,g
+578,johnny rockets,rocket breaded wings 6 with dressing choice ranch wing hot,50,g,120,mg,3200,g,20,g,30,g,10,g,0,g,0,g,0,g
+579,johnny rockets,rocket breaded wings 6 with dressing choice ranch wing sweet bbq,50,g,120,mg,2040,g,50,g,30,g,10,g,0,g,0,g,30,g
+580,johnny rockets,rocket breaded wings 6 with wing hot,30,g,100,mg,2750,g,10,g,20,g,10,g,0,g,0,g,0,g
+581,johnny rockets,rocket breaded wings 6 with wing sweet bbq,30,g,100,mg,1580,g,50,g,20,g,10,g,0,g,0,g,30,g
+582,johnny rockets,rocket breaded wings 8,30,g,130,mg,1330,g,20,g,30,g,10,g,0,g,0,g,0,g
+583,johnny rockets,rocket breaded wings 8 with dressing choice blue cheese,70,g,160,mg,1870,g,20,g,30,g,20,g,0,g,0,g,0,g
+584,johnny rockets,rocket breaded wings 8 with dressing choice blue cheese wing hot,70,g,160,mg,3620,g,20,g,30,g,20,g,0,g,0,g,0,g
+585,johnny rockets,rocket breaded wings 8 with dressing choice blue cheese wing sweet bbq,70,g,160,mg,2450,g,50,g,30,g,20,g,0,g,0,g,30,g
+586,johnny rockets,rocket breaded wings 8 with dressing choice ranch,60,g,160,mg,1790,g,20,g,30,g,10,g,0,g,0,g,0,g
+587,johnny rockets,rocket breaded wings 8 with dressing choice ranch wing hot,60,g,160,mg,3530,g,20,g,30,g,10,g,0,g,0,g,0,g
+588,johnny rockets,rocket breaded wings 8 with dressing choice ranch wing sweet bbq,60,g,160,mg,2370,g,50,g,30,g,10,g,0,g,0,g,30,g
+589,johnny rockets,rocket breaded wings 8 with wing hot,40,g,130,mg,3080,g,20,g,30,g,10,g,0,g,0,g,0,g
+590,johnny rockets,rocket breaded wings 8 with wing sweet bbq,30,g,130,mg,1910,g,50,g,30,g,10,g,0,g,0,g,30,g
+591,johnny rockets,rocket breakfast burger,40,g,320,mg,1800,g,50,g,40,g,20,g,0,g,0,g,10,g
+592,johnny rockets,rocket chili dog,50,g,100,mg,1620,g,40,g,30,g,20,g,0,g,0,g,0,g
+593,johnny rockets,rocket dog,30,g,50,mg,1590,g,40,g,20,g,10,g,0,g,0,g,10,g
+594,johnny rockets,rocket double burger,40,g,60,mg,1010,g,40,g,20,g,10,g,0,g,0,g,10,g
+595,johnny rockets,rocket double burger with bun choice gluten free,30,g,60,mg,910,g,40,g,20,g,10,g,0,g,0,g,10,g
+596,johnny rockets,rocket double burger with bun choice gluten free burger patty choice beef burgers,50,g,60,mg,1740,g,70,g,20,g,10,g,0,g,10,g,10,g
+597,johnny rockets,rocket double burger with bun choice gluten free burger patty choice boca veggie burgers,40,g,140,mg,1390,g,50,g,50,g,10,g,0,g,10,g,10,g
+598,johnny rockets,rocket double burger with bun choice gluten free burger patty choice gardein burgers,70,g,150,mg,2030,g,50,g,40,g,20,g,0,g,10,g,10,g
+599,johnny rockets,rocket double burger with bun choice gluten free burger patty choice grilled chicken,50,g,130,mg,1610,g,40,g,40,g,20,g,0,g,0,g,10,g
+600,johnny rockets,rocket double burger with bun choice gluten free burger patty choice turkey burgers,40,g,60,mg,1520,g,50,g,40,g,10,g,0,g,10,g,10,g
+601,johnny rockets,rocket double burger with bun choice regular,40,g,130,mg,1250,g,10,g,30,g,10,g,0,g,0,g,0,g
+602,johnny rockets,rocket double burger with bun choice regular burger patty choice beef burgers,40,g,60,mg,1580,g,60,g,20,g,10,g,0,g,10,g,10,g
+603,johnny rockets,rocket double burger with bun choice regular burger patty choice boca veggie burgers,40,g,140,mg,1230,g,40,g,50,g,10,g,0,g,0,g,10,g
+604,johnny rockets,rocket double burger with bun choice regular burger patty choice gardein burgers,60,g,150,mg,1870,g,40,g,40,g,20,g,0,g,0,g,10,g
+605,johnny rockets,rocket double burger with bun choice regular burger patty choice grilled chicken,50,g,130,mg,1510,g,40,g,40,g,20,g,0,g,0,g,10,g
+606,johnny rockets,rocket double burger with bun choice regular burger patty choice turkey burgers,30,g,60,mg,1420,g,50,g,40,g,10,g,0,g,10,g,10,g
+607,johnny rockets,rocket double burger with bun choice wheat,30,g,60,mg,1160,g,10,g,30,g,10,g,0,g,10,g,0,g
+608,johnny rockets,rocket double burger with bun choice wheat burger patty choice beef burgers,40,g,60,mg,1480,g,70,g,30,g,10,g,0,g,10,g,10,g
+609,johnny rockets,rocket double burger with bun choice wheat burger patty choice boca veggie burgers,30,g,140,mg,1140,g,40,g,50,g,10,g,0,g,0,g,10,g
+610,johnny rockets,rocket double burger with bun choice wheat burger patty choice gardein burgers,60,g,150,mg,1770,g,40,g,40,g,20,g,0,g,0,g,10,g
+611,johnny rockets,rocket double burger with burger patty choice beef burgers,40,g,60,mg,1220,g,30,g,20,g,10,g,0,g,10,g,10,g
+612,johnny rockets,rocket double burger with burger patty choice boca veggie burgers,30,g,140,mg,880,g,10,g,40,g,10,g,0,g,0,g,0,g
+613,johnny rockets,rocket double burger with burger patty choice gardein burgers,60,g,150,mg,1510,g,10,g,40,g,20,g,0,g,0,g,0,g
+614,johnny rockets,rocket double burger with burger patty choice grilled chicken,60,g,130,mg,1770,g,50,g,40,g,20,g,0,g,10,g,10,g
+615,johnny rockets,rocket double burger with burger patty choice turkey burgers,40,g,60,mg,1680,g,60,g,40,g,10,g,0,g,10,g,10,g
+616,johnny rockets,rocket single burger,20,g,40,mg,350,g,10,g,10,g,10,g,0,g,0,g,0,g
+617,johnny rockets,rocket single burger with bun choice gluten free,30,g,40,mg,870,g,50,g,10,g,10,g,0,g,10,g,10,g
+618,johnny rockets,rocket single burger with bun choice gluten free burger patty choice beef burger,50,g,110,mg,1470,g,50,g,30,g,10,g,0,g,10,g,10,g
+619,johnny rockets,rocket single burger with bun choice gluten free burger patty choice boca veggie burger,40,g,40,mg,1380,g,60,g,30,g,10,g,0,g,10,g,10,g
+620,johnny rockets,rocket single burger with bun choice gluten free burger patty choice gardein burger,40,g,40,mg,1440,g,70,g,20,g,10,g,0,g,10,g,10,g
+621,johnny rockets,rocket single burger with bun choice gluten free burger patty choice grilled chicken,40,g,120,mg,1090,g,50,g,40,g,10,g,0,g,10,g,10,g
+622,johnny rockets,rocket single burger with bun choice gluten free burger patty choice turkey burger,60,g,130,mg,1730,g,50,g,40,g,20,g,0,g,10,g,10,g
+623,johnny rockets,rocket single burger with bun choice regular,30,g,40,mg,710,g,40,g,10,g,10,g,0,g,0,g,10,g
+624,johnny rockets,rocket single burger with bun choice regular burger patty choice beef burger,40,g,110,mg,1310,g,40,g,30,g,10,g,0,g,0,g,10,g
+625,johnny rockets,rocket single burger with bun choice regular burger patty choice boca veggie burger,30,g,40,mg,1220,g,50,g,30,g,10,g,0,g,10,g,10,g
+626,johnny rockets,rocket single burger with bun choice regular burger patty choice gardein burger,40,g,40,mg,1280,g,60,g,20,g,10,g,0,g,10,g,10,g
+627,johnny rockets,rocket single burger with bun choice regular burger patty choice grilled chicken,30,g,120,mg,930,g,40,g,40,g,10,g,0,g,0,g,10,g
+628,johnny rockets,rocket single burger with bun choice regular burger patty choice turkey burger,60,g,130,mg,1570,g,40,g,40,g,20,g,0,g,0,g,10,g
+629,johnny rockets,rocket single burger with bun choice wheat,30,g,40,mg,610,g,40,g,10,g,10,g,0,g,0,g,10,g
+630,johnny rockets,rocket single burger with bun choice wheat burger patty choice beef burger,40,g,110,mg,1210,g,40,g,30,g,10,g,0,g,0,g,10,g
+631,johnny rockets,rocket single burger with bun choice wheat burger patty choice boca veggie burger,30,g,40,mg,1120,g,50,g,30,g,10,g,0,g,10,g,10,g
+632,johnny rockets,rocket single burger with bun choice wheat burger patty choice gardein burger,30,g,40,mg,1180,g,70,g,20,g,10,g,0,g,10,g,10,g
+633,johnny rockets,rocket single burger with bun choice wheat burger patty choice grilled chicken,30,g,120,mg,840,g,40,g,50,g,10,g,0,g,0,g,10,g
+634,johnny rockets,rocket single burger with bun choice wheat burger patty choice turkey burger,50,g,130,mg,1470,g,40,g,40,g,20,g,0,g,0,g,10,g
+635,johnny rockets,rocket single burger with burger patty choice beef burger,40,g,110,mg,950,g,10,g,30,g,10,g,0,g,0,g,0,g
+636,johnny rockets,rocket single burger with burger patty choice boca veggie burger,20,g,40,mg,860,g,10,g,20,g,10,g,0,g,10,g,0,g
+637,johnny rockets,rocket single burger with burger patty choice gardein burger,30,g,40,mg,920,g,30,g,10,g,10,g,0,g,10,g,10,g
+638,johnny rockets,rocket single burger with burger patty choice grilled chicken,20,g,120,mg,580,g,10,g,40,g,10,g,0,g,0,g,0,g
+639,johnny rockets,rocket single burger with burger patty choice turkey burger,50,g,130,mg,1210,g,10,g,30,g,10,g,0,g,0,g,0,g
+640,johnny rockets,rocket wings 12,70,g,460,mg,350,g,0,g,70,g,20,g,0,g,0,g,0,g
+641,johnny rockets,rocket wings 12 with dressing choice blue cheese,110,g,490,mg,890,g,0,g,80,g,30,g,0,g,0,g,0,g
+642,johnny rockets,rocket wings 12 with dressing choice blue cheese wing hot,110,g,490,mg,2640,g,0,g,80,g,30,g,0,g,0,g,0,g
+643,johnny rockets,rocket wings 12 with dressing choice blue cheese wing sweet bbq,110,g,490,mg,1470,g,40,g,80,g,30,g,0,g,0,g,30,g
+644,johnny rockets,rocket wings 12 with dressing choice ranch,90,g,490,mg,810,g,0,g,80,g,20,g,0,g,0,g,0,g
+645,johnny rockets,rocket wings 12 with dressing choice ranch wing hot,90,g,490,mg,2550,g,0,g,80,g,20,g,0,g,0,g,0,g
+646,johnny rockets,rocket wings 12 with dressing choice ranch wing sweet bbq,90,g,490,mg,1390,g,40,g,80,g,20,g,0,g,0,g,30,g
+647,johnny rockets,rocket wings 12 with wing hot,70,g,460,mg,2100,g,0,g,70,g,20,g,0,g,0,g,0,g
+648,johnny rockets,rocket wings 12 with wing sweet bbq,70,g,460,mg,930,g,40,g,70,g,20,g,0,g,0,g,30,g
+649,johnny rockets,rocket wings 16,90,g,620,mg,470,g,0,g,100,g,30,g,0,g,0,g,0,g
+650,johnny rockets,rocket wings 16 with dressing choice blue cheese,130,g,650,mg,1010,g,0,g,100,g,30,g,0,g,0,g,0,g
+651,johnny rockets,rocket wings 16 with dressing choice blue cheese wing hot,130,g,650,mg,2760,g,0,g,100,g,30,g,0,g,0,g,0,g
+652,johnny rockets,rocket wings 16 with dressing choice blue cheese wing sweet bbq,130,g,650,mg,1590,g,40,g,100,g,30,g,0,g,0,g,30,g
+653,johnny rockets,rocket wings 16 with dressing choice ranch,120,g,640,mg,920,g,0,g,100,g,30,g,0,g,0,g,0,g
+654,johnny rockets,rocket wings 16 with dressing choice ranch wing hot,120,g,640,mg,2670,g,0,g,100,g,30,g,0,g,0,g,0,g
+655,johnny rockets,rocket wings 16 with dressing choice ranch wing sweet bbq,120,g,640,mg,1500,g,40,g,100,g,30,g,0,g,0,g,30,g
+656,johnny rockets,rocket wings 16 with wing hot,100,g,620,mg,2220,g,0,g,100,g,30,g,0,g,0,g,0,g
+657,johnny rockets,rocket wings 16 with wing sweet bbq,90,g,620,mg,1050,g,40,g,100,g,30,g,0,g,0,g,30,g
+658,johnny rockets,rocket wings 4,20,g,150,mg,120,g,0,g,20,g,10,g,0,g,0,g,0,g
+659,johnny rockets,rocket wings 4 with dressing choice blue cheese,60,g,180,mg,660,g,0,g,30,g,10,g,0,g,0,g,0,g
+660,johnny rockets,rocket wings 4 with dressing choice blue cheese wing hot,60,g,180,mg,2400,g,0,g,30,g,10,g,0,g,0,g,0,g
+661,johnny rockets,rocket wings 4 with dressing choice blue cheese wing sweet bbq,60,g,180,mg,1240,g,40,g,30,g,10,g,0,g,0,g,30,g
+662,johnny rockets,rocket wings 4 with dressing choice ranch,50,g,180,mg,570,g,0,g,30,g,10,g,0,g,0,g,0,g
+663,johnny rockets,rocket wings 4 with dressing choice ranch wing hot,50,g,180,mg,2320,g,0,g,30,g,10,g,0,g,0,g,0,g
+664,johnny rockets,rocket wings 4 with dressing choice ranch wing sweet bbq,50,g,180,mg,1150,g,40,g,30,g,10,g,0,g,0,g,30,g
+665,johnny rockets,rocket wings 4 with wing hot,20,g,150,mg,1860,g,0,g,30,g,10,g,0,g,0,g,0,g
+666,johnny rockets,rocket wings 4 with wing sweet bbq,20,g,150,mg,700,g,40,g,20,g,10,g,0,g,0,g,30,g
+667,johnny rockets,rocket wings 6,40,g,230,mg,180,g,0,g,40,g,10,g,0,g,0,g,0,g
+668,johnny rockets,rocket wings 6 with dressing choice blue cheese,70,g,260,mg,720,g,0,g,40,g,20,g,0,g,0,g,0,g
+669,johnny rockets,rocket wings 6 with dressing choice blue cheese wing hot,70,g,260,mg,2460,g,0,g,40,g,20,g,0,g,0,g,0,g
+670,johnny rockets,rocket wings 6 with dressing choice blue cheese wing sweet bbq,70,g,260,mg,1300,g,40,g,40,g,20,g,0,g,0,g,30,g
+671,johnny rockets,rocket wings 6 with dressing choice ranch,60,g,250,mg,630,g,0,g,40,g,10,g,0,g,0,g,0,g
+672,johnny rockets,rocket wings 6 with dressing choice ranch wing hot,60,g,250,mg,2380,g,0,g,40,g,10,g,0,g,0,g,0,g
+673,johnny rockets,rocket wings 6 with dressing choice ranch wing sweet bbq,60,g,250,mg,1210,g,40,g,40,g,10,g,0,g,0,g,30,g
+674,johnny rockets,rocket wings 6 with wing hot,40,g,230,mg,1920,g,0,g,40,g,10,g,0,g,0,g,0,g
+675,johnny rockets,rocket wings 6 with wing sweet bbq,40,g,230,mg,760,g,40,g,40,g,10,g,0,g,0,g,30,g
+676,johnny rockets,rocket wings 8,50,g,310,mg,230,g,0,g,50,g,10,g,0,g,0,g,0,g
+677,johnny rockets,rocket wings 8 with dressing choice blue cheese,80,g,340,mg,770,g,0,g,50,g,20,g,0,g,0,g,0,g
+678,johnny rockets,rocket wings 8 with dressing choice blue cheese wing hot,80,g,340,mg,2520,g,0,g,50,g,20,g,0,g,0,g,0,g
+679,johnny rockets,rocket wings 8 with dressing choice blue cheese wing sweet bbq,80,g,340,mg,1350,g,40,g,50,g,20,g,0,g,0,g,30,g
+680,johnny rockets,rocket wings 8 with dressing choice ranch,70,g,330,mg,690,g,0,g,50,g,20,g,0,g,0,g,0,g
+681,johnny rockets,rocket wings 8 with dressing choice ranch wing hot,70,g,330,mg,2440,g,0,g,50,g,20,g,0,g,0,g,0,g
+682,johnny rockets,rocket wings 8 with dressing choice ranch wing sweet bbq,70,g,330,mg,1270,g,40,g,50,g,20,g,0,g,0,g,30,g
+683,johnny rockets,rocket wings 8 with wing hot,50,g,310,mg,1980,g,0,g,50,g,10,g,0,g,0,g,0,g
+684,johnny rockets,rocket wings 8 with wing sweet bbq,50,g,310,mg,810,g,40,g,50,g,10,g,0,g,0,g,30,g
+685,johnny rockets,route 66 burger,30,g,40,mg,280,g,10,g,10,g,10,g,0,g,0,g,0,g
+686,johnny rockets,route 66 burger with bun choice gluten free,40,g,40,mg,790,g,50,g,10,g,10,g,0,g,10,g,10,g
+687,johnny rockets,route 66 burger with bun choice gluten free burger patty choice beef burger,60,g,110,mg,1390,g,50,g,30,g,10,g,0,g,10,g,10,g
+688,johnny rockets,route 66 burger with bun choice gluten free burger patty choice boca veggie burger,40,g,40,mg,1310,g,60,g,30,g,10,g,0,g,10,g,10,g
+689,johnny rockets,route 66 burger with bun choice gluten free burger patty choice gardein burger,50,g,40,mg,1370,g,70,g,20,g,10,g,0,g,10,g,10,g
+690,johnny rockets,route 66 burger with bun choice gluten free burger patty choice grilled chicken,40,g,120,mg,1020,g,50,g,50,g,10,g,0,g,10,g,10,g
+691,johnny rockets,route 66 burger with bun choice gluten free burger patty choice turkey burger,70,g,130,mg,1660,g,50,g,40,g,20,g,0,g,10,g,10,g
+692,johnny rockets,route 66 burger with bun choice regular,40,g,40,mg,630,g,40,g,10,g,10,g,0,g,0,g,10,g
+693,johnny rockets,route 66 burger with bun choice regular burger patty choice beef burger,50,g,110,mg,1230,g,40,g,30,g,10,g,0,g,0,g,10,g
+694,johnny rockets,route 66 burger with bun choice regular burger patty choice boca veggie burger,40,g,40,mg,1150,g,50,g,30,g,10,g,0,g,10,g,10,g
+695,johnny rockets,route 66 burger with bun choice regular burger patty choice gardein burger,40,g,40,mg,1210,g,60,g,20,g,10,g,0,g,10,g,10,g
+696,johnny rockets,route 66 burger with bun choice regular burger patty choice grilled chicken,40,g,120,mg,860,g,40,g,50,g,10,g,0,g,0,g,10,g
+697,johnny rockets,route 66 burger with bun choice regular burger patty choice turkey burger,60,g,130,mg,1500,g,40,g,40,g,20,g,0,g,0,g,10,g
+698,johnny rockets,route 66 burger with bun choice wheat,30,g,40,mg,540,g,40,g,20,g,10,g,0,g,0,g,10,g
+699,johnny rockets,route 66 burger with bun choice wheat burger patty choice beef burger,50,g,110,mg,1140,g,40,g,40,g,10,g,0,g,0,g,10,g
+700,johnny rockets,route 66 burger with bun choice wheat burger patty choice boca veggie burger,30,g,40,mg,1050,g,50,g,40,g,10,g,0,g,10,g,10,g
+701,johnny rockets,route 66 burger with bun choice wheat burger patty choice gardein burger,40,g,40,mg,1110,g,70,g,20,g,10,g,0,g,10,g,10,g
+702,johnny rockets,route 66 burger with bun choice wheat burger patty choice grilled chicken,30,g,120,mg,760,g,40,g,50,g,10,g,0,g,0,g,10,g
+703,johnny rockets,route 66 burger with bun choice wheat burger patty choice turkey burger,60,g,130,mg,1400,g,40,g,40,g,20,g,0,g,0,g,10,g
+704,johnny rockets,route 66 burger with burger patty choice beef burger,40,g,110,mg,880,g,10,g,30,g,10,g,0,g,0,g,0,g
+705,johnny rockets,route 66 burger with burger patty choice boca veggie burger,30,g,40,mg,790,g,10,g,30,g,10,g,0,g,10,g,0,g
+706,johnny rockets,route 66 burger with burger patty choice gardein burger,40,g,40,mg,850,g,30,g,20,g,10,g,0,g,10,g,10,g
+707,johnny rockets,route 66 burger with burger patty choice grilled chicken,30,g,120,mg,500,g,10,g,40,g,10,g,0,g,0,g,0,g
+708,johnny rockets,route 66 burger with burger patty choice turkey burger,60,g,130,mg,1140,g,10,g,30,g,10,g,0,g,0,g,0,g
+709,johnny rockets,route 66 double burger,40,g,60,mg,320,g,10,g,10,g,10,g,0,g,0,g,0,g
+710,johnny rockets,route 66 double burger with bun choice gluten free,50,g,60,mg,830,g,50,g,20,g,10,g,0,g,10,g,10,g
+711,johnny rockets,route 66 double burger with bun choice gluten free burger patty choice beef burgers,80,g,200,mg,2030,g,50,g,60,g,20,g,0,g,10,g,10,g
+712,johnny rockets,route 66 double burger with bun choice gluten free burger patty choice boca veggie burgers,50,g,60,mg,1860,g,70,g,60,g,10,g,0,g,20,g,10,g
+713,johnny rockets,route 66 double burger with bun choice gluten free burger patty choice gardein burgers,60,g,60,mg,1980,g,100,g,30,g,10,g,0,g,20,g,10,g
+714,johnny rockets,route 66 double burger with bun choice gluten free burger patty choice grilled chicken,50,g,220,mg,1280,g,50,g,90,g,10,g,0,g,10,g,10,g
+715,johnny rockets,route 66 double burger with bun choice gluten free burger patty choice turkey burgers,100,g,240,mg,2560,g,50,g,70,g,30,g,0,g,10,g,10,g
+716,johnny rockets,route 66 double burger with bun choice regular,40,g,60,mg,670,g,40,g,20,g,10,g,0,g,0,g,10,g
+717,johnny rockets,route 66 double burger with bun choice regular burger patty choice beef burgers,70,g,200,mg,1870,g,40,g,60,g,20,g,0,g,0,g,10,g
+718,johnny rockets,route 66 double burger with bun choice regular burger patty choice boca veggie burgers,50,g,60,mg,1700,g,60,g,60,g,10,g,0,g,10,g,10,g
+719,johnny rockets,route 66 double burger with bun choice regular burger patty choice gardein burgers,60,g,60,mg,1820,g,90,g,30,g,10,g,0,g,20,g,10,g
+720,johnny rockets,route 66 double burger with bun choice regular burger patty choice grilled chicken,50,g,220,mg,1120,g,40,g,90,g,10,g,0,g,0,g,10,g
+721,johnny rockets,route 66 double burger with bun choice regular burger patty choice turkey burgers,100,g,240,mg,2400,g,40,g,70,g,30,g,0,g,0,g,10,g
+722,johnny rockets,route 66 double burger with bun choice wheat,40,g,60,mg,580,g,40,g,20,g,10,g,0,g,0,g,10,g
+723,johnny rockets,route 66 double burger with bun choice wheat burger patty choice beef burgers,70,g,200,mg,1780,g,40,g,60,g,20,g,0,g,0,g,10,g
+724,johnny rockets,route 66 double burger with bun choice wheat burger patty choice boca veggie burgers,40,g,60,mg,1610,g,60,g,60,g,10,g,0,g,20,g,10,g
+725,johnny rockets,route 66 double burger with bun choice wheat burger patty choice gardein burgers,50,g,60,mg,1730,g,90,g,40,g,10,g,0,g,20,g,10,g
+726,johnny rockets,route 66 double burger with bun choice wheat burger patty choice grilled chicken,40,g,220,mg,1030,g,40,g,90,g,10,g,0,g,0,g,10,g
+727,johnny rockets,route 66 double burger with bun choice wheat burger patty choice turkey burgers,90,g,240,mg,2310,g,40,g,70,g,30,g,0,g,0,g,10,g
+728,johnny rockets,route 66 double burger with burger patty choice beef burgers,60,g,200,mg,1520,g,10,g,50,g,20,g,0,g,0,g,0,g
+729,johnny rockets,route 66 double burger with burger patty choice boca veggie burgers,40,g,60,mg,1350,g,20,g,50,g,10,g,0,g,10,g,0,g
+730,johnny rockets,route 66 double burger with burger patty choice gardein burgers,50,g,60,mg,1470,g,50,g,30,g,10,g,0,g,20,g,10,g
+731,johnny rockets,route 66 double burger with burger patty choice grilled chicken,40,g,220,mg,770,g,10,g,80,g,10,g,0,g,0,g,0,g
+732,johnny rockets,route 66 double burger with burger patty choice turkey burgers,90,g,240,mg,2050,g,10,g,60,g,30,g,0,g,0,g,0,g
+733,johnny rockets,sausage,30,g,90,mg,740,g,0,g,20,g,10,g,0,g,0,g,0,g
+734,johnny rockets,side of bacon cheese fries,20,g,30,mg,1260,g,40,g,10,g,10,g,0,g,0,g,0,g
+735,johnny rockets,side of bacon cheese tots,40,g,30,mg,2010,g,40,g,10,g,10,g,0,g,0,g,10,g
+736,johnny rockets,side of cheese fries,20,g,20,mg,1110,g,40,g,10,g,10,g,0,g,0,g,0,g
+737,johnny rockets,side of cheese tots,30,g,20,mg,1860,g,40,g,10,g,10,g,0,g,0,g,10,g
+738,johnny rockets,side of chili cheese fries,30,g,40,mg,1400,g,40,g,10,g,10,g,0,g,0,g,10,g
+739,johnny rockets,side of chili cheese tots,40,g,40,mg,2150,g,50,g,10,g,10,g,0,g,10,g,10,g
+740,johnny rockets,side of fries,10,g,0,mg,460,g,30,g,0,g,0,g,0,g,0,g,0,g
+741,johnny rockets,side of onion rings,30,g,20,mg,1090,g,40,g,10,g,0,g,0,g,0,g,10,g
+742,johnny rockets,side of tots,20,g,0,mg,1210,g,40,g,0,g,0,g,0,g,0,g,10,g
+743,johnny rockets,side salad,0,g,20,mg,110,g,0,g,0,g,0,g,0,g,0,g,0,g
+744,johnny rockets,side salad with dressing choice 1000 island,30,g,40,mg,610,g,10,g,0,g,10,g,0,g,0,g,10,g
+745,johnny rockets,side salad with dressing choice balsamic vinaigrette,10,g,20,mg,570,g,10,g,0,g,0,g,0,g,0,g,10,g
+746,johnny rockets,side salad with dressing choice bleu cheese,40,g,50,mg,650,g,0,g,10,g,10,g,0,g,0,g,0,g
+747,johnny rockets,side salad with dressing choice fat free italian,0,g,20,mg,830,g,10,g,0,g,0,g,0,g,0,g,0,g
+748,johnny rockets,side salad with dressing choice honey mustard,30,g,40,mg,610,g,10,g,0,g,10,g,0,g,0,g,10,g
+749,johnny rockets,side salad with dressing choice ranch,30,g,40,mg,570,g,0,g,10,g,10,g,0,g,0,g,0,g
+750,johnny rockets,smoke house bbq ranch,10,g,10,mg,260,g,10,g,0,g,0,g,0,g,0,g,10,g
+751,johnny rockets,smoke house burger,20,g,50,mg,1010,g,30,g,10,g,10,g,0,g,0,g,10,g
+752,johnny rockets,smoke house burger with bun choice gluten free,30,g,50,mg,1530,g,70,g,20,g,10,g,0,g,10,g,20,g
+753,johnny rockets,smoke house burger with bun choice gluten free burger patty choice beef burger,50,g,120,mg,2130,g,70,g,40,g,10,g,0,g,10,g,20,g
+754,johnny rockets,smoke house burger with bun choice gluten free burger patty choice boca veggie burger,30,g,50,mg,2040,g,80,g,40,g,10,g,0,g,10,g,20,g
+755,johnny rockets,smoke house burger with bun choice gluten free burger patty choice gardein burger,40,g,50,mg,2100,g,100,g,30,g,10,g,0,g,10,g,20,g
+756,johnny rockets,smoke house burger with bun choice gluten free burger patty choice grilled chicken,30,g,130,mg,1750,g,70,g,50,g,10,g,0,g,10,g,20,g
+757,johnny rockets,smoke house burger with bun choice gluten free burger patty choice turkey burger,60,g,140,mg,2390,g,70,g,40,g,20,g,0,g,10,g,20,g
+758,johnny rockets,smoke house burger with bun choice regular,30,g,50,mg,1370,g,70,g,20,g,10,g,0,g,0,g,20,g
+759,johnny rockets,smoke house burger with bun choice regular burger patty choice beef burger,40,g,120,mg,1970,g,70,g,40,g,20,g,0,g,0,g,20,g
+760,johnny rockets,smoke house burger with bun choice regular burger patty choice boca veggie burger,30,g,50,mg,1880,g,80,g,40,g,10,g,0,g,10,g,20,g
+761,johnny rockets,smoke house burger with bun choice regular burger patty choice gardein burger,40,g,50,mg,1940,g,90,g,30,g,10,g,0,g,10,g,20,g
+762,johnny rockets,smoke house burger with bun choice regular burger patty choice grilled chicken,30,g,130,mg,1590,g,70,g,50,g,10,g,0,g,0,g,20,g
+763,johnny rockets,smoke house burger with bun choice regular burger patty choice turkey burger,60,g,140,mg,2230,g,70,g,40,g,20,g,0,g,0,g,20,g
+764,johnny rockets,smoke house burger with bun choice wheat,20,g,50,mg,1270,g,70,g,20,g,10,g,0,g,0,g,10,g
+765,johnny rockets,smoke house burger with bun choice wheat burger patty choice beef burger,40,g,120,mg,1870,g,70,g,40,g,10,g,0,g,0,g,10,g
+766,johnny rockets,smoke house burger with bun choice wheat burger patty choice boca veggie burger,20,g,50,mg,1790,g,80,g,40,g,10,g,0,g,10,g,10,g
+767,johnny rockets,smoke house burger with bun choice wheat burger patty choice gardein burger,30,g,50,mg,1850,g,90,g,30,g,10,g,0,g,10,g,20,g
+768,johnny rockets,smoke house burger with bun choice wheat burger patty choice grilled chicken,30,g,130,mg,1500,g,70,g,50,g,10,g,0,g,0,g,10,g
+769,johnny rockets,smoke house burger with bun choice wheat burger patty choice turkey burger,50,g,140,mg,2140,g,70,g,50,g,20,g,0,g,0,g,10,g
+770,johnny rockets,smoke house burger with burger patty choice beef burger,30,g,120,mg,1610,g,30,g,30,g,10,g,0,g,0,g,10,g
+771,johnny rockets,smoke house burger with burger patty choice boca veggie burger,20,g,50,mg,1530,g,40,g,30,g,10,g,0,g,10,g,10,g
+772,johnny rockets,smoke house burger with burger patty choice gardein burger,30,g,50,mg,1590,g,50,g,20,g,10,g,0,g,10,g,10,g
+773,johnny rockets,smoke house burger with burger patty choice grilled chicken,20,g,130,mg,1240,g,30,g,50,g,10,g,0,g,0,g,10,g
+774,johnny rockets,smoke house burger with burger patty choice turkey burger,50,g,140,mg,1880,g,30,g,40,g,20,g,0,g,0,g,10,g
+775,johnny rockets,smoke house double burger,40,g,90,mg,1450,g,30,g,30,g,10,g,0,g,0,g,10,g
+776,johnny rockets,smoke house double burger with bun choice gluten free,50,g,90,mg,1970,g,70,g,30,g,20,g,0,g,10,g,20,g
+777,johnny rockets,smoke house double burger with bun choice gluten free burger patty choice beef burgers,70,g,230,mg,3160,g,70,g,70,g,30,g,0,g,10,g,20,g
+778,johnny rockets,smoke house double burger with bun choice gluten free burger patty choice boca veggie burgers,50,g,90,mg,2990,g,90,g,70,g,20,g,0,g,20,g,20,g
+779,johnny rockets,smoke house double burger with bun choice gluten free burger patty choice gardein burgers,60,g,90,mg,3110,g,120,g,50,g,20,g,0,g,20,g,20,g
+780,johnny rockets,smoke house double burger with bun choice gluten free burger patty choice grilled chicken,50,g,250,mg,2410,g,70,g,100,g,20,g,0,g,10,g,20,g
+781,johnny rockets,smoke house double burger with bun choice gluten free burger patty choice turkey burgers,100,g,270,mg,3690,g,70,g,80,g,30,g,0,g,10,g,20,g
+782,johnny rockets,smoke house double burger with bun choice regular,40,g,90,mg,1810,g,70,g,30,g,20,g,0,g,0,g,20,g
+783,johnny rockets,smoke house double burger with bun choice regular burger patty choice beef burgers,70,g,230,mg,3000,g,70,g,70,g,30,g,0,g,0,g,20,g
+784,johnny rockets,smoke house double burger with bun choice regular burger patty choice boca veggie burgers,40,g,90,mg,2830,g,90,g,70,g,20,g,0,g,10,g,20,g
+785,johnny rockets,smoke house double burger with bun choice regular burger patty choice gardein burgers,60,g,90,mg,2950,g,110,g,50,g,20,g,0,g,20,g,20,g
+786,johnny rockets,smoke house double burger with bun choice regular burger patty choice grilled chicken,50,g,250,mg,2250,g,70,g,100,g,20,g,0,g,0,g,20,g
+787,johnny rockets,smoke house double burger with bun choice regular burger patty choice turkey burgers,100,g,270,mg,3530,g,70,g,80,g,30,g,0,g,0,g,20,g
+788,johnny rockets,smoke house double burger with bun choice wheat,40,g,90,mg,1710,g,70,g,30,g,20,g,0,g,0,g,10,g
+789,johnny rockets,smoke house double burger with bun choice wheat burger patty choice beef burgers,70,g,230,mg,2910,g,70,g,70,g,30,g,0,g,0,g,10,g
+790,johnny rockets,smoke house double burger with bun choice wheat burger patty choice boca veggie burgers,40,g,90,mg,2740,g,90,g,70,g,20,g,0,g,20,g,10,g
+791,johnny rockets,smoke house double burger with bun choice wheat burger patty choice gardein burgers,50,g,90,mg,2860,g,120,g,50,g,20,g,0,g,20,g,20,g
+792,johnny rockets,smoke house double burger with bun choice wheat burger patty choice grilled chicken,40,g,250,mg,2160,g,70,g,100,g,20,g,0,g,0,g,10,g
+793,johnny rockets,smoke house double burger with bun choice wheat burger patty choice turkey burgers,90,g,270,mg,3440,g,70,g,80,g,30,g,0,g,0,g,10,g
+794,johnny rockets,smoke house double burger with burger patty choice beef burgers,60,g,230,mg,2650,g,30,g,70,g,20,g,0,g,0,g,10,g
+795,johnny rockets,smoke house double burger with burger patty choice boca veggie burgers,40,g,90,mg,2480,g,50,g,60,g,10,g,0,g,10,g,10,g
+796,johnny rockets,smoke house double burger with burger patty choice gardein burgers,50,g,90,mg,2600,g,80,g,40,g,20,g,0,g,20,g,20,g
+797,johnny rockets,smoke house double burger with burger patty choice grilled chicken,40,g,250,mg,1900,g,30,g,90,g,20,g,0,g,0,g,10,g
+798,johnny rockets,smoke house double burger with burger patty choice turkey burgers,90,g,270,mg,3180,g,30,g,70,g,30,g,0,g,0,g,10,g
+799,johnny rockets,smokin chipotle ranch,10,g,10,mg,220,g,0,g,0,g,0,g,0,g,0,g,0,g
+800,johnny rockets,soft serve banana shake,40,g,160,mg,400,g,90,g,10,g,30,g,0,g,0,g,80,g
+801,johnny rockets,soft serve banana shake with malt powder,40,g,160,mg,460,g,100,g,10,g,30,g,0,g,0,g,90,g
+802,johnny rockets,soft serve chocolate banana shake,40,g,160,mg,410,g,110,g,10,g,30,g,0,g,0,g,100,g
+803,johnny rockets,soft serve chocolate banana shake with malt powder,40,g,160,mg,480,g,120,g,10,g,30,g,0,g,0,g,100,g
+804,johnny rockets,soft serve chocolate peanut butter shake,60,g,160,mg,560,g,100,g,20,g,30,g,0,g,0,g,90,g
+805,johnny rockets,soft serve chocolate peanut butter shake with malt powder,60,g,160,mg,630,g,110,g,20,g,30,g,0,g,0,g,100,g
+806,johnny rockets,soft serve chocolate shake,40,g,160,mg,420,g,110,g,10,g,30,g,0,g,0,g,100,g
+807,johnny rockets,soft serve chocolate shake with malt powder,40,g,160,mg,490,g,120,g,10,g,30,g,0,g,0,g,110,g
+808,johnny rockets,soft serve chocolate strawberry kiss shake,40,g,160,mg,410,g,100,g,10,g,30,g,0,g,0,g,100,g
+809,johnny rockets,soft serve chocolate strawberry kiss shake with malt powder,40,g,160,mg,480,g,110,g,10,g,30,g,0,g,0,g,100,g
+810,johnny rockets,soft serve maple bacon shake,40,g,170,mg,610,g,130,g,10,g,30,g,0,g,0,g,110,g
+811,johnny rockets,soft serve oreo cookies and cream shake,50,g,160,mg,900,g,120,g,20,g,30,g,0,g,0,g,90,g
+812,johnny rockets,soft serve oreo cookies and cream shake with malt powder,50,g,160,mg,960,g,130,g,20,g,30,g,0,g,0,g,100,g
+813,johnny rockets,soft serve peanut butter banana shake,60,g,160,mg,550,g,90,g,20,g,30,g,0,g,0,g,90,g
+814,johnny rockets,soft serve peanut butter banana shake with malt powder,60,g,160,mg,620,g,100,g,20,g,30,g,0,g,0,g,90,g
+815,johnny rockets,soft serve peanut butter shake,70,g,160,mg,680,g,90,g,30,g,30,g,0,g,0,g,80,g
+816,johnny rockets,soft serve peanut butter shake with malt powder,80,g,160,mg,740,g,100,g,30,g,30,g,0,g,0,g,90,g
+817,johnny rockets,soft serve strawberry banana shake,40,g,160,mg,400,g,100,g,10,g,30,g,0,g,0,g,90,g
+818,johnny rockets,soft serve strawberry banana shake with malt powder,40,g,160,mg,470,g,110,g,10,g,30,g,0,g,0,g,100,g
+819,johnny rockets,soft serve strawberry oreo crumble shake,50,g,160,mg,900,g,130,g,20,g,30,g,0,g,0,g,100,g
+820,johnny rockets,soft serve strawberry oreo crumble shake with malt powder,50,g,160,mg,970,g,140,g,20,g,30,g,0,g,0,g,110,g
+821,johnny rockets,soft serve strawberry shake,40,g,160,mg,400,g,80,g,10,g,30,g,0,g,0,g,80,g
+822,johnny rockets,soft serve strawberry shake with malt powder,40,g,160,mg,470,g,90,g,10,g,30,g,0,g,0,g,90,g
+823,johnny rockets,soft serve vanilla shake,40,g,160,mg,400,g,100,g,10,g,30,g,0,g,0,g,100,g
+824,johnny rockets,soft serve vanilla shake with malt powder,40,g,160,mg,460,g,110,g,10,g,30,g,0,g,0,g,110,g
+825,johnny rockets,sourdough bun,10,g,0,mg,530,g,50,g,10,g,0,g,0,g,0,g,0,g
+826,johnny rockets,sourdough burger melt,40,g,110,mg,1590,g,50,g,40,g,10,g,0,g,0,g,10,g
+827,johnny rockets,sourdough toast,0,g,0,mg,480,g,50,g,10,g,0,g,0,g,0,g,0,g
+828,johnny rockets,special sauce,20,g,10,mg,210,g,0,g,0,g,0,g,0,g,0,g,0,g
+829,johnny rockets,sprite 12 fuid ounces,0,g,0,mg,20,g,20,g,0,g,0,g,0,g,0,g,20,g
+830,johnny rockets,sprite 16 fuid ounces,0,g,0,mg,30,g,30,g,0,g,0,g,0,g,0,g,30,g
+831,johnny rockets,sprite 20 fuid ounces,0,g,0,mg,30,g,40,g,0,g,0,g,0,g,0,g,40,g
+832,johnny rockets,sprite 24 fuid ounces,0,g,0,mg,40,g,50,g,0,g,0,g,0,g,0,g,50,g
+833,johnny rockets,strawberry banana shake,40,g,160,mg,290,g,100,g,20,g,30,g,0,g,0,g,90,g
+834,johnny rockets,strawberry banana shake with malt powder,40,g,160,mg,360,g,110,g,20,g,30,g,0,g,0,g,90,g
+835,johnny rockets,strawberry oreo crumble shake,50,g,160,mg,790,g,140,g,20,g,30,g,0,g,0,g,100,g
+836,johnny rockets,strawberry oreo crumble shake with malt powder,50,g,160,mg,860,g,150,g,20,g,30,g,0,g,0,g,110,g
+837,johnny rockets,strawberry shake,40,g,160,mg,290,g,90,g,10,g,30,g,0,g,0,g,80,g
+838,johnny rockets,strawberry shake with malt powder,40,g,160,mg,360,g,100,g,20,g,30,g,0,g,0,g,90,g
+839,johnny rockets,streamliner burger,0,g,0,mg,1120,g,50,g,30,g,0,g,0,g,10,g,10,g
+840,johnny rockets,sweet potato fries side,10,g,0,mg,370,g,30,g,0,g,0,g,0,g,0,g,10,g
+841,johnny rockets,sweet potato fries starter,20,g,0,mg,650,g,60,g,0,g,0,g,0,g,10,g,20,g
+842,johnny rockets,swiss cheese,10,g,20,mg,40,g,0,g,10,g,0,g,0,g,0,g,0,g
+843,johnny rockets,the original burger,20,g,20,mg,590,g,10,g,0,g,0,g,0,g,0,g,0,g
+844,johnny rockets,the original burger with bun choice gluten free,30,g,20,mg,1100,g,50,g,10,g,0,g,0,g,10,g,10,g
+845,johnny rockets,the original burger with bun choice gluten free burger patty choice beef burger,50,g,90,mg,1700,g,50,g,30,g,10,g,0,g,10,g,10,g
+846,johnny rockets,the original burger with bun choice gluten free burger patty choice boca veggie burger,40,g,20,mg,1610,g,60,g,30,g,0,g,0,g,10,g,10,g
+847,johnny rockets,the original burger with bun choice gluten free burger patty choice gardein burger,40,g,20,mg,1670,g,70,g,10,g,10,g,0,g,10,g,10,g
+848,johnny rockets,the original burger with bun choice gluten free burger patty choice grilled chicken,40,g,100,mg,1330,g,50,g,40,g,10,g,0,g,10,g,10,g
+849,johnny rockets,the original burger with bun choice gluten free burger patty choice turkey burger,60,g,110,mg,1960,g,50,g,30,g,10,g,0,g,10,g,10,g
+850,johnny rockets,the original burger with bun choice regular,30,g,20,mg,940,g,40,g,10,g,10,g,0,g,0,g,10,g
+851,johnny rockets,the original burger with bun choice regular burger patty choice beef burger,40,g,90,mg,1540,g,40,g,30,g,10,g,0,g,0,g,10,g
+852,johnny rockets,the original burger with bun choice regular burger patty choice boca veggie burger,30,g,20,mg,1450,g,50,g,30,g,10,g,0,g,10,g,10,g
+853,johnny rockets,the original burger with bun choice regular burger patty choice gardein burger,40,g,20,mg,1510,g,70,g,10,g,10,g,0,g,10,g,10,g
+854,johnny rockets,the original burger with bun choice regular burger patty choice grilled chicken,30,g,100,mg,1170,g,40,g,40,g,10,g,0,g,0,g,10,g
+855,johnny rockets,the original burger with bun choice regular burger patty choice turkey burger,60,g,110,mg,1800,g,40,g,30,g,10,g,0,g,0,g,10,g
+856,johnny rockets,the original burger with bun choice wheat,30,g,20,mg,850,g,50,g,10,g,0,g,0,g,0,g,10,g
+857,johnny rockets,the original burger with bun choice wheat burger patty choice beef burger,40,g,90,mg,1450,g,50,g,30,g,10,g,0,g,0,g,10,g
+858,johnny rockets,the original burger with bun choice wheat burger patty choice boca veggie burger,30,g,20,mg,1360,g,50,g,30,g,0,g,0,g,10,g,10,g
+859,johnny rockets,the original burger with bun choice wheat burger patty choice gardein burger,30,g,20,mg,1420,g,70,g,20,g,10,g,0,g,10,g,10,g
+860,johnny rockets,the original burger with bun choice wheat burger patty choice grilled chicken,30,g,100,mg,1070,g,50,g,40,g,0,g,0,g,0,g,10,g
+861,johnny rockets,the original burger with bun choice wheat burger patty choice turkey burger,50,g,110,mg,1710,g,50,g,30,g,10,g,0,g,0,g,10,g
+862,johnny rockets,the original burger with burger patty choice beef burger,40,g,90,mg,1190,g,10,g,20,g,10,g,0,g,0,g,0,g
+863,johnny rockets,the original burger with burger patty choice boca veggie burger,20,g,20,mg,1100,g,20,g,20,g,0,g,0,g,10,g,0,g
+864,johnny rockets,the original burger with burger patty choice gardein burger,30,g,20,mg,1160,g,30,g,10,g,0,g,0,g,10,g,10,g
+865,johnny rockets,the original burger with burger patty choice grilled chicken,20,g,100,mg,810,g,10,g,30,g,0,g,0,g,0,g,0,g
+866,johnny rockets,the original burger with burger patty choice turkey burger,50,g,110,mg,1450,g,10,g,30,g,10,g,0,g,0,g,0,g
+867,johnny rockets,the spicy houston burger,20,g,30,mg,700,g,0,g,10,g,10,g,0,g,0,g,0,g
+868,johnny rockets,the spicy houston burger with bun choice gluten free,30,g,30,mg,1220,g,50,g,10,g,10,g,0,g,10,g,10,g
+869,johnny rockets,the spicy houston burger with bun choice gluten free burger patty choice beef burger,40,g,100,mg,1820,g,50,g,30,g,10,g,0,g,10,g,10,g
+870,johnny rockets,the spicy houston burger with bun choice gluten free burger patty choice boca veggie burger,30,g,30,mg,1730,g,60,g,30,g,10,g,0,g,10,g,10,g
+871,johnny rockets,the spicy houston burger with bun choice gluten free burger patty choice gardein burger,40,g,30,mg,1790,g,70,g,20,g,10,g,0,g,10,g,10,g
+872,johnny rockets,the spicy houston burger with bun choice gluten free burger patty choice grilled chicken,30,g,110,mg,1440,g,50,g,40,g,10,g,0,g,10,g,10,g
+873,johnny rockets,the spicy houston burger with bun choice gluten free burger patty choice turkey burger,60,g,120,mg,2080,g,50,g,40,g,10,g,0,g,10,g,10,g
+874,johnny rockets,the spicy houston burger with bun choice regular,20,g,30,mg,1060,g,40,g,10,g,10,g,0,g,0,g,10,g
+875,johnny rockets,the spicy houston burger with bun choice regular burger patty choice beef burger,40,g,100,mg,1660,g,40,g,30,g,10,g,0,g,0,g,10,g
+876,johnny rockets,the spicy houston burger with bun choice regular burger patty choice boca veggie burger,30,g,30,mg,1570,g,50,g,30,g,10,g,0,g,10,g,10,g
+877,johnny rockets,the spicy houston burger with bun choice regular burger patty choice gardein burger,30,g,30,mg,1630,g,60,g,20,g,10,g,0,g,10,g,10,g
+878,johnny rockets,the spicy houston burger with bun choice regular burger patty choice grilled chicken,30,g,110,mg,1280,g,40,g,40,g,10,g,0,g,0,g,10,g
+879,johnny rockets,the spicy houston burger with bun choice regular burger patty choice turkey burger,50,g,120,mg,1920,g,40,g,40,g,20,g,0,g,0,g,10,g
+880,johnny rockets,the spicy houston burger with bun choice wheat,20,g,30,mg,960,g,40,g,10,g,10,g,0,g,0,g,10,g
+881,johnny rockets,the spicy houston burger with bun choice wheat burger patty choice beef burger,30,g,100,mg,1560,g,40,g,30,g,10,g,0,g,0,g,10,g
+882,johnny rockets,the spicy houston burger with bun choice wheat burger patty choice boca veggie burger,20,g,30,mg,1480,g,50,g,30,g,10,g,0,g,10,g,10,g
+883,johnny rockets,the spicy houston burger with bun choice wheat burger patty choice gardein burger,30,g,30,mg,1540,g,70,g,20,g,10,g,0,g,10,g,10,g
+884,johnny rockets,the spicy houston burger with bun choice wheat burger patty choice grilled chicken,20,g,110,mg,1190,g,40,g,50,g,10,g,0,g,0,g,10,g
+885,johnny rockets,the spicy houston burger with bun choice wheat burger patty choice turkey burger,50,g,120,mg,1830,g,40,g,40,g,10,g,0,g,0,g,10,g
+886,johnny rockets,the spicy houston burger with burger patty choice beef burger,30,g,100,mg,1300,g,0,g,30,g,10,g,0,g,0,g,0,g
+887,johnny rockets,the spicy houston burger with burger patty choice boca veggie burger,20,g,30,mg,1220,g,10,g,30,g,10,g,0,g,10,g,0,g
+888,johnny rockets,the spicy houston burger with burger patty choice gardein burger,20,g,30,mg,1280,g,30,g,10,g,10,g,0,g,10,g,0,g
+889,johnny rockets,the spicy houston burger with burger patty choice grilled chicken,20,g,110,mg,930,g,0,g,40,g,10,g,0,g,0,g,0,g
+890,johnny rockets,the spicy houston burger with burger patty choice turkey burger,40,g,120,mg,1570,g,0,g,30,g,10,g,0,g,0,g,0,g
+891,johnny rockets,the spicy houston double burger,20,g,60,mg,830,g,0,g,10,g,10,g,0,g,0,g,0,g
+892,johnny rockets,the spicy houston double burger with bun choice gluten free,40,g,60,mg,1340,g,50,g,20,g,10,g,0,g,10,g,10,g
+893,johnny rockets,the spicy houston double burger with bun choice gluten free burger patty choice beef burgers,60,g,200,mg,2540,g,50,g,60,g,20,g,0,g,10,g,10,g
+894,johnny rockets,the spicy houston double burger with bun choice gluten free burger patty choice boca veggie burgers,40,g,60,mg,2370,g,70,g,60,g,10,g,0,g,20,g,10,g
+895,johnny rockets,the spicy houston double burger with bun choice gluten free burger patty choice gardein burgers,50,g,60,mg,2490,g,90,g,30,g,10,g,0,g,20,g,10,g
+896,johnny rockets,the spicy houston double burger with bun choice gluten free burger patty choice grilled chicken,40,g,220,mg,1790,g,50,g,80,g,10,g,0,g,10,g,10,g
+897,johnny rockets,the spicy houston double burger with bun choice gluten free burger patty choice turkey burgers,90,g,240,mg,3070,g,50,g,70,g,30,g,0,g,10,g,10,g
+898,johnny rockets,the spicy houston double burger with bun choice regular,30,g,60,mg,1180,g,40,g,20,g,10,g,0,g,0,g,10,g
+899,johnny rockets,the spicy houston double burger with bun choice regular burger patty choice beef burgers,60,g,200,mg,2380,g,40,g,60,g,20,g,0,g,0,g,10,g
+900,johnny rockets,the spicy houston double burger with bun choice regular burger patty choice boca veggie burgers,30,g,60,mg,2210,g,60,g,60,g,10,g,0,g,10,g,10,g
+901,johnny rockets,the spicy houston double burger with bun choice regular burger patty choice gardein burgers,50,g,60,mg,2330,g,90,g,30,g,10,g,0,g,20,g,10,g
+902,johnny rockets,the spicy houston double burger with bun choice regular burger patty choice grilled chicken,40,g,220,mg,1630,g,40,g,80,g,10,g,0,g,0,g,10,g
+903,johnny rockets,the spicy houston double burger with bun choice regular burger patty choice turkey burgers,90,g,240,mg,2910,g,40,g,70,g,30,g,0,g,0,g,10,g
+904,johnny rockets,the spicy houston double burger with bun choice wheat,30,g,60,mg,1090,g,40,g,20,g,10,g,0,g,0,g,10,g
+905,johnny rockets,the spicy houston double burger with bun choice wheat burger patty choice beef burgers,50,g,200,mg,2290,g,40,g,60,g,20,g,0,g,0,g,10,g
+906,johnny rockets,the spicy houston double burger with bun choice wheat burger patty choice boca veggie burgers,30,g,60,mg,2120,g,60,g,60,g,10,g,0,g,20,g,10,g
+907,johnny rockets,the spicy houston double burger with bun choice wheat burger patty choice gardein burgers,40,g,60,mg,2240,g,90,g,30,g,10,g,0,g,20,g,10,g
+908,johnny rockets,the spicy houston double burger with bun choice wheat burger patty choice grilled chicken,30,g,220,mg,1540,g,40,g,80,g,10,g,0,g,0,g,10,g
+909,johnny rockets,the spicy houston double burger with bun choice wheat burger patty choice turkey burgers,80,g,240,mg,2820,g,40,g,70,g,30,g,0,g,0,g,10,g
+910,johnny rockets,the spicy houston double burger with burger patty choice beef burgers,50,g,200,mg,2030,g,10,g,50,g,20,g,0,g,0,g,0,g
+911,johnny rockets,the spicy houston double burger with burger patty choice boca veggie burgers,30,g,60,mg,1860,g,20,g,50,g,10,g,0,g,10,g,0,g
+912,johnny rockets,the spicy houston double burger with burger patty choice gardein burgers,40,g,60,mg,1980,g,50,g,30,g,10,g,0,g,10,g,10,g
+913,johnny rockets,the spicy houston double burger with burger patty choice grilled chicken,30,g,220,mg,1280,g,10,g,80,g,10,g,0,g,0,g,0,g
+914,johnny rockets,the spicy houston double burger with burger patty choice turkey burgers,80,g,240,mg,2560,g,10,g,60,g,30,g,0,g,0,g,0,g
+915,johnny rockets,the works scrambler,80,g,910,mg,2290,g,90,g,60,g,30,g,0,g,10,g,10,g
+916,johnny rockets,tots,50,g,0,mg,2310,g,70,g,10,g,10,g,0,g,10,g,10,g
+917,johnny rockets,tuna melt with bread choice sourdough,40,g,80,mg,1510,g,50,g,40,g,10,g,0,g,0,g,0,g
+918,johnny rockets,tuna melt with bread choice wheat,40,g,80,mg,1530,g,40,g,40,g,10,g,0,g,0,g,0,g
+919,johnny rockets,tuna melt with bread choice white,40,g,80,mg,1730,g,80,g,40,g,10,g,0,g,0,g,10,g
+920,johnny rockets,tuna salad sandwich with bread choice sourdough,50,g,60,mg,1390,g,50,g,20,g,10,g,0,g,0,g,0,g
+921,johnny rockets,tuna salad sandwich with bread choice wheat,50,g,60,mg,1410,g,40,g,20,g,10,g,0,g,0,g,0,g
+922,johnny rockets,tuna salad sandwich with bread choice white,50,g,60,mg,1610,g,80,g,30,g,10,g,0,g,0,g,10,g
+923,johnny rockets,turkey burger patty,30,g,90,mg,860,g,0,g,20,g,10,g,0,g,0,g,0,g
+924,johnny rockets,vanilla shake,40,g,160,mg,290,g,110,g,10,g,30,g,0,g,0,g,100,g
+925,johnny rockets,vanilla shake with malt powder,40,g,160,mg,360,g,120,g,20,g,30,g,0,g,0,g,110,g
+926,johnny rockets,wheat bun,0,g,0,mg,260,g,40,g,10,g,0,g,0,g,0,g,0,g
+927,johnny rockets,wheat toast,0,g,0,mg,500,g,40,g,10,g,0,g,0,g,0,g,0,g
+928,johnny rockets,white toast,10,g,0,mg,700,g,70,g,10,g,0,g,0,g,0,g,10,g
+929,j gumbos,black and bleu dip,13,g,15,mg,500,g,32,g,6,g,5,g,0,g,2,g,8,g
+930,j gumbos,bourbon chicken,15,g,240,mg,1010,g,2,g,51,g,4,g,0,g,0,g,2,g
+931,j gumbos,bread,10,g,5,mg,200,g,21,g,4,g,2,g,0,g,0,g,0,g
+932,j gumbos,bumble bee stew,14,g,10,mg,1220,g,65,g,7,g,7,g,0,g,4,g,42,g
+933,j gumbos,crawfish cheese dip,20,g,35,mg,430,g,24,g,10,g,8,g,0.5,g,2,g,1,g
+934,j gumbos,creole spinach and mush,9,g,0,mg,910,g,33,g,8,g,3.5,g,0,g,8,g,14,g
+935,j gumbos,drunken chicken,18,g,145,mg,1250,g,19,g,47,g,4,g,0,g,2,g,5,g
+936,j gumbos,drunken chicken po boy,17,g,120,mg,1820,g,85,g,52,g,4,g,0,g,5,g,8,g
+937,j gumbos,etouffee with chicken,23,g,50,mg,770,g,22,g,13,g,9,g,0,g,2,g,4,g
+938,j gumbos,etouffee with crawfish,21,g,45,mg,750,g,22,g,9,g,8,g,0,g,2,g,4,g
+939,j gumbos,etouffee with shrimp,20,g,80,mg,1060,g,22,g,12,g,8,g,0,g,2,g,3,g
+940,j gumbos,gumbo,25,g,45,mg,960,g,36,g,14,g,6,g,0,g,4,g,6,g
+941,j gumbos,honey sriracha,15,g,185,mg,840,g,26,g,41,g,4.5,g,0,g,2,g,20,g
+942,j gumbos,honey sriracha po boy,17,g,185,mg,1640,g,86,g,51,g,4.5,g,0,g,6,g,24,g
+943,j gumbos,jalapenos,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+944,j gumbos,jambalaya,25,g,65,mg,560,g,77,g,25,g,7,g,0,g,6,g,10,g
+945,j gumbos,jean lafitte,38,g,150,mg,1620,g,71,g,39,g,18,g,3,g,6,g,27,g
+946,j gumbos,jean lafitte po boy,65,g,200,mg,1940,g,121,g,64,g,37,g,1,g,8,g,35,g
+947,j gumbos,nola nachos,21,g,45,mg,830,g,29,g,16,g,9,g,0.5,g,4,g,3,g
+948,j gumbos,red beans,17,g,40,mg,930,g,36,g,18,g,6,g,0,g,9,g,5,g
+949,j gumbos,red hot chicken,11,g,185,mg,1060,g,10,g,40,g,3,g,0,g,1,g,3,g
+950,j gumbos,red hot chicken po boy,27,g,190,mg,1610,g,79,g,59,g,13,g,0,g,4,g,6,g
+951,j gumbos,shredded cheese,19,g,55,mg,370,g,2,g,13,g,11,g,0.5,g,0,g,0,g
+952,j gumbos,sour cream,2.5,g,5,mg,10,g,0,g,0,g,1.5,g,0.5,g,0,g,0,g
+953,j gumbos,tortilla,3.5,g,0,mg,330,g,27,g,4,g,1,g,2,g,2,g,2,g
+954,j gumbos,voodoo chicken,12,g,160,mg,620,g,17,g,36,g,2.5,g,0,g,5,g,7,g
+955,j gumbos,voodoo chicken po boy,12,g,130,mg,1310,g,83,g,44,g,2.5,g,0,g,7,g,10,g
+956,j gumbos,voodoo nachos,20,g,60,mg,670,g,25,g,16,g,9,g,0,g,2,g,3,g
+957,j gumbos,white chili,9,g,0,mg,1200,g,56,g,17,g,1.5,g,0,g,17,g,7,g
+958,j gumbos,white rice,1,g,0,mg,5,g,73,g,8,g,0,g,0,g,3,g,0,g
+959,jack astors bar and grill,add on buddha salad,15,g,10,mg,380,g,26,g,5,g,3,g,0,g,4,g,16,g
+960,jack astors bar and grill,add on classic poutine,72,g,60,mg,2360,g,101,g,23,g,19,g,14,g,7,g,1,g
+961,jack astors bar and grill,add on fiesta salad,22,g,15,mg,710,g,38,g,11,g,5,g,0,g,8,g,12,g
+962,jack astors bar and grill,add on loaded baked potato,35,g,45,mg,1250,g,86,g,18,g,13,g,2.5,g,6,g,4,g
+963,jack astors bar and grill,add on truffle fries,124,g,0,mg,1040,g,76,g,8,g,15,g,28,g,6,g,1,g
+964,jack astors bar and grill,add on twice baked potato,34,g,25,mg,590,g,65,g,9,g,9,g,3.5,g,5,g,4,g
+965,jack astors bar and grill,add on vanilla ice cream,10,g,45,mg,95,g,26,g,2,g,6,g,0,g,0,g,12,g
+966,jack astors bar and grill,bacon cheeseburger,91,g,220,mg,1890,g,55,g,58,g,33,g,5,g,3,g,11,g
+967,jack astors bar and grill,buddha salad,29,g,20,mg,760,g,51,g,10,g,6,g,0,g,8,g,31,g
+968,jack astors bar and grill,buffalo sauce hot,22,g,5,mg,1400,g,2,g,0,g,4,g,4,g,1,g,2,g
+969,jack astors bar and grill,buffalo sauce medium,27,g,5,mg,1430,g,2,g,0,g,5,g,5,g,1,g,0,g
+970,jack astors bar and grill,buffalo sauce mild,32,g,5,mg,1220,g,1,g,0,g,6,g,6,g,0,g,0,g
+971,jack astors bar and grill,burgers and sandwiches chicken clubhouse,39,g,130,mg,1410,g,53,g,43,g,10,g,1,g,2,g,6,g
+972,jack astors bar and grill,burgers and sandwiches hold the beef,27,g,20,mg,1100,g,54,g,30,g,7,g,1.5,g,9,g,10,g
+973,jack astors bar and grill,burgers and sandwiches the classic,75,g,175,mg,1210,g,52,g,45,g,24,g,4.5,g,3,g,11,g
+974,jack astors bar and grill,chicken parmigiana sandwich,73,g,115,mg,2090,g,77,g,51,g,14,g,11,g,5,g,8,g
+975,jack astors bar and grill,chicken wings buffalo sauce hot,22,g,5,mg,1400,g,2,g,0,g,4,g,4,g,1,g,2,g
+976,jack astors bar and grill,chicken wings buffalo sauce medium,27,g,5,mg,1430,g,2,g,0,g,5,g,5,g,1,g,0,g
+977,jack astors bar and grill,chicken wings buffalo sauce mild,32,g,5,mg,1220,g,1,g,0,g,6,g,6,g,0,g,0,g
+978,jack astors bar and grill,chicken wings sauce honey garlic,0,g,0,mg,390,g,63,g,1,g,0,g,0,g,0,g,54,g
+979,jack astors bar and grill,featured soup add on beer and cheddar soup,18,g,25,mg,2410,g,41,g,7,g,11,g,0,g,7,g,12,g
+980,jack astors bar and grill,fiesta salad,51,g,30,mg,1420,g,82,g,24,g,12,g,1,g,19,g,25,g
+981,jack astors bar and grill,fresh bowls thai sesame stir fry,22,g,0,mg,990,g,197,g,18,g,2,g,2,g,11,g,66,g
+982,jack astors bar and grill,greens classic caesar,78,g,100,mg,1150,g,23,g,14,g,19,g,1,g,6,g,8,g
+983,jack astors bar and grill,greens epic asiago chicken caesar,88,g,200,mg,2000,g,61,g,55,g,21,g,1,g,8,g,12,g
+984,jack astors bar and grill,holy smoke bbq burger,107,g,220,mg,2670,g,82,g,64,g,34,g,9,g,5,g,21,g
+985,jack astors bar and grill,jacks chicken wings 1 lb,73,g,520,mg,1610,g,49,g,80,g,22,g,0.5,g,5,g,7,g
+986,jack astors bar and grill,jacks chicken wings 2 lb,156,g,1025,mg,1790,g,27,g,149,g,43,g,4,g,4,g,7,g
+987,jack astors bar and grill,jacks famous chicken fingers dry seasoning lemon pepper,0,g,0,mg,730,g,2,g,0,g,0,g,0,g,0,g,1,g
+988,jack astors bar and grill,jacks famous chicken fingers dry seasoning lime sriracha,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,1,g,0,g
+989,jack astors bar and grill,jacks famous chicken fingers sauced and tossed add sauce,79,g,190,mg,1650,g,31,g,56,g,11,g,11,g,2,g,3,g
+990,jack astors bar and grill,kids menu apples with caramel dip,3,g,0,mg,180,g,57,g,0,g,1,g,0,g,3,g,37,g
+991,jack astors bar and grill,kids menu brownie,11,g,20,mg,60,g,62,g,2,g,6,g,0,g,1,g,56,g
+992,jack astors bar and grill,kids menu chicken fingers,33,g,95,mg,870,g,47,g,34,g,4,g,8,g,1,g,25,g
+993,jack astors bar and grill,kids menu chicken wings,63,g,280,mg,1050,g,22,g,39,g,14,g,2.5,g,2,g,10,g
+994,jack astors bar and grill,kids menu jacks pasta,3,g,0,mg,550,g,77,g,12,g,0,g,0,g,5,g,4,g
+995,jack astors bar and grill,kids menu my cookie ate your brownie,37,g,40,mg,530,g,141,g,8,g,19,g,0,g,4,g,103,g
+996,jack astors bar and grill,kids menu orange sorbet,0,g,0,mg,10,g,18,g,0,g,0,g,0,g,0,g,14,g
+997,jack astors bar and grill,kids menu root beer,0,g,0,mg,45,g,38,g,0,g,0,g,0,g,0,g,38,g
+998,jack astors bar and grill,kids menu side creamy coleslaw,13,g,10,mg,390,g,16,g,2,g,2,g,0,g,4,g,11,g
+999,jack astors bar and grill,kids menu side russet fries,47,g,0,mg,1150,g,68,g,6,g,6,g,10,g,5,g,0,g

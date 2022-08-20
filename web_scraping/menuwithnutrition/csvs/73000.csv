@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,gordon biersch brewery,goat cheese spinach salad with grilled chicken creamy herb dressing,72,g,275,mg,1890,g,32,g,52,g,16,g,0.5,g,4,g,7,g
+1,gordon biersch brewery,goat cheese spinach salad with grilled chicken lemon vinaigrette,61,g,270,mg,1970,g,37,g,52,g,17,g,0.5,g,4,g,10,g
+2,gordon biersch brewery,goat cheese spinach salad with grilled chicken light balsamic italian dressing,31,g,270,mg,1830,g,34,g,52,g,13,g,0.5,g,4,g,8,g
+3,gordon biersch brewery,goat cheese spinach salad with grilled chicken marzen balsamic vinaigrette,64,g,270,mg,2150,g,34,g,51,g,15,g,0.5,g,4,g,7,g
+4,gordon biersch brewery,goat cheese spinach salad with grilled chicken ranch dressing,54,g,280,mg,2130,g,33,g,53,g,17,g,0.5,g,4,g,7,g
+5,gordon biersch brewery,goat cheese spinach salad with grilled chicken roasted jalapeno ranch dressing,52,g,280,mg,2090,g,33,g,53,g,17,g,0.5,g,4,g,7,g
+6,gordon biersch brewery,goat cheese spinach salad with grilled chicken tangy vinaigrette,52,g,270,mg,1910,g,44,g,52,g,14,g,0.5,g,4,g,18,g
+7,gordon biersch brewery,goat cheese spinach salad with grilled chicken thousand island dressing,54,g,290,mg,2280,g,37,g,52,g,17,g,0.5,g,4,g,11,g
+8,gordon biersch brewery,goat cheese spinach salad with grilled chicken warm bacon vinaigrette,46,g,280,mg,2090,g,36,g,54,g,15,g,0.5,g,4,g,10,g
+9,gordon biersch brewery,goat cheese spinach salad with grilled chicken wihout dressing,30,g,270,mg,1790,g,31,g,51,g,13,g,0.5,g,4,g,6,g
+10,gordon biersch brewery,goat cheese spinach salad with grilled salmon bleu cheese dressing,67,g,295,mg,1770,g,30,g,51,g,22,g,0.5,g,3,g,5,g
+11,gordon biersch brewery,goat cheese spinach salad with grilled salmon bloody mary vinaigrette,61,g,265,mg,2150,g,32,g,48,g,17,g,0.5,g,4,g,6,g
+12,gordon biersch brewery,goat cheese spinach salad with grilled salmon creamy herb dressing,83,g,275,mg,1570,g,31,g,48,g,17,g,0.5,g,4,g,5,g
+13,gordon biersch brewery,goat cheese spinach salad with grilled salmon lemon vinaigrette,72,g,265,mg,1650,g,35,g,48,g,18,g,0.5,g,4,g,9,g
+14,gordon biersch brewery,goat cheese spinach salad with grilled salmon light balsamic italian dressing,42,g,265,mg,1510,g,33,g,48,g,14,g,0.5,g,4,g,6,g
+15,gordon biersch brewery,goat cheese spinach salad with grilled salmon marzen balsamic vinaigrette,75,g,265,mg,1830,g,32,g,48,g,16,g,0.5,g,4,g,6,g
+16,gordon biersch brewery,goat cheese spinach salad with grilled salmon ranch dressing,65,g,280,mg,1810,g,31,g,49,g,18,g,0.5,g,4,g,5,g
+17,gordon biersch brewery,goat cheese spinach salad with grilled salmon roasted jalapeno ranch dressing,62,g,275,mg,1770,g,31,g,49,g,18,g,0.5,g,4,g,5,g
+18,gordon biersch brewery,goat cheese spinach salad with grilled salmon tangy vinaigrette,63,g,265,mg,1590,g,42,g,48,g,15,g,0.5,g,4,g,16,g
+19,gordon biersch brewery,goat cheese spinach salad with grilled salmon thousand island dressing,65,g,290,mg,1960,g,35,g,48,g,18,g,0.5,g,4,g,9,g
+20,gordon biersch brewery,goat cheese spinach salad with grilled salmon warm bacon vinaigrette,57,g,275,mg,1770,g,34,g,51,g,17,g,0.5,g,4,g,8,g
+21,gordon biersch brewery,goat cheese spinach salad with grilled salmon without dressing,40,g,265,mg,1470,g,29,g,48,g,14,g,0.5,g,3,g,4,g
+22,gordon biersch brewery,goat cheese spinach salad with lemon vinaigrette,60,g,205,mg,1240,g,35,g,25,g,17,g,0.5,g,4,g,9,g
+23,gordon biersch brewery,goat cheese spinach salad with light balsamic italian dressing,30,g,205,mg,1100,g,33,g,25,g,12,g,0.5,g,4,g,6,g
+24,gordon biersch brewery,goat cheese spinach salad with marzen balsamic vinaigrette,63,g,205,mg,1420,g,32,g,25,g,15,g,0.5,g,4,g,6,g
+25,gordon biersch brewery,goat cheese spinach salad with ranch dressing,53,g,215,mg,1400,g,31,g,26,g,17,g,0.5,g,3,g,5,g
+26,gordon biersch brewery,goat cheese spinach salad with roasted jalapeno ranch dressing,50,g,215,mg,1360,g,31,g,26,g,16,g,0.5,g,4,g,5,g
+27,gordon biersch brewery,goat cheese spinach salad with tangy vinaigrette,51,g,205,mg,1180,g,42,g,25,g,14,g,0.5,g,4,g,16,g
+28,gordon biersch brewery,goat cheese spinach salad with thousand island dressing,53,g,225,mg,1550,g,35,g,26,g,16,g,0.5,g,4,g,9,g
+29,gordon biersch brewery,goat cheese spinach salad with warm bacon vinaigrette,45,g,210,mg,1360,g,34,g,28,g,15,g,0.5,g,4,g,8,g
+30,gordon biersch brewery,goat cheese spinach salad without dressing,28,g,205,mg,1060,g,29,g,25,g,12,g,0.5,g,3,g,4,g
+31,gordon biersch brewery,gorgonzola pear salad with 1000 island dressing,50,g,115,mg,1710,g,49,g,39,g,12,g,0,g,8,g,25,g
+32,gordon biersch brewery,gorgonzola pear salad with bleu cheese dressing,51,g,120,mg,1530,g,44,g,42,g,16,g,0,g,8,g,21,g
+33,gordon biersch brewery,gorgonzola pear salad with bloody mary vinaigrette,45,g,90,mg,1910,g,46,g,39,g,11,g,0,g,8,g,22,g
+34,gordon biersch brewery,gorgonzola pear salad with creamy herb dressing,67,g,100,mg,1320,g,45,g,39,g,11,g,0,g,8,g,22,g
+35,gordon biersch brewery,gorgonzola pear salad with lemon vinaigrette,56,g,90,mg,1400,g,50,g,39,g,12,g,0,g,8,g,25,g
+36,gordon biersch brewery,gorgonzola pear salad with light balsamic italian dressing,26,g,90,mg,1270,g,47,g,39,g,8,g,0,g,8,g,23,g
+37,gordon biersch brewery,gorgonzola pear salad with marzen balsamic vinaigrette,59,g,90,mg,1580,g,46,g,39,g,10,g,0,g,8,g,22,g
+38,gordon biersch brewery,gorgonzola pear salad with ranch dressing,50,g,105,mg,1560,g,45,g,40,g,12,g,0,g,8,g,22,g
+39,gordon biersch brewery,gorgonzola pear salad with roasted jalapeno ranch dressing,47,g,100,mg,1530,g,46,g,40,g,12,g,0,g,9,g,22,g
+40,gordon biersch brewery,gorgonzola pear salad with tangy vinaigrette,47,g,90,mg,1350,g,56,g,39,g,9,g,0,g,8,g,33,g
+41,gordon biersch brewery,gorgonzola pear salad with warm bacon vinaigrette,41,g,100,mg,1530,g,48,g,41,g,11,g,0,g,8,g,25,g
+42,gordon biersch brewery,gorgonzola pear salad without dressing,25,g,90,mg,1220,g,43,g,39,g,8,g,0,g,8,g,20,g
+43,gordon biersch brewery,grass fed beef sliders individual,18,g,55,mg,590,g,16,g,17,g,7,g,0,g,1,g,2,g
+44,gordon biersch brewery,grass fed beef sliders shareable,53,g,170,mg,1710,g,44,g,49,g,20,g,0.5,g,3,g,5,g
+45,gordon biersch brewery,grilled asparagus,2.5,g,0,mg,330,g,5,g,3,g,0,g,0,g,3,g,3,g
+46,gordon biersch brewery,grilled vegetable salad with grilled crostini with goat cheese,20,g,5,mg,620,g,22,g,5,g,3,g,0,g,4,g,6,g
+47,gordon biersch brewery,grilled vegetable salad without crostini,17,g,0,mg,300,g,13,g,3,g,2.5,g,0,g,4,g,6,g
+48,gordon biersch brewery,gruyere pancetta pizza slice,9,g,15,mg,300,g,22,g,7,g,4,g,0,g,0,g,1,g
+49,gordon biersch brewery,gruyere pancetta pizza whole,72,g,130,mg,2440,g,176,g,57,g,30,g,0,g,2,g,8,g
+50,gordon biersch brewery,harvest grilled chicken salad with 1000 island dressing,44,g,110,mg,1250,g,38,g,35,g,10,g,0,g,6,g,28,g
+51,gordon biersch brewery,harvest grilled chicken salad with bleu cheese dressing,46,g,115,mg,1060,g,34,g,38,g,13,g,0,g,6,g,24,g
+52,gordon biersch brewery,harvest grilled chicken salad with bloody mary vinaigrette,40,g,85,mg,1440,g,36,g,35,g,8,g,0,g,6,g,25,g
+53,gordon biersch brewery,harvest grilled chicken salad with creamy herb dressing,62,g,95,mg,860,g,34,g,35,g,9,g,0,g,6,g,25,g
+54,gordon biersch brewery,harvest grilled chicken salad with lemon vinaigrette,51,g,85,mg,930,g,39,g,35,g,10,g,0,g,6,g,28,g
+55,gordon biersch brewery,harvest grilled chicken salad with light balsamic italian dressing,21,g,85,mg,800,g,36,g,35,g,6,g,0,g,6,g,26,g
+56,gordon biersch brewery,harvest grilled chicken salad with marzen balsamic vinaigrette,54,g,85,mg,1110,g,35,g,35,g,8,g,0,g,6,g,25,g
+57,gordon biersch brewery,harvest grilled chicken salad with ranch dressing,44,g,95,mg,1090,g,35,g,36,g,10,g,0,g,6,g,25,g
+58,gordon biersch brewery,harvest grilled chicken salad with roasted jalapeno ranch dressing,42,g,95,mg,1060,g,35,g,36,g,9,g,0,g,7,g,25,g
+59,gordon biersch brewery,harvest grilled chicken salad with tangy vinaigrette,42,g,85,mg,880,g,46,g,35,g,7,g,0,g,6,g,36,g
+60,gordon biersch brewery,harvest grilled chicken salad with warm bacon vinaigrette,36,g,95,mg,1060,g,37,g,38,g,8,g,0,g,6,g,27,g
+61,gordon biersch brewery,harvest grilled chicken salad without dressing,20,g,85,mg,750,g,32,g,35,g,5,g,0,g,6,g,23,g
+62,gordon biersch brewery,house salad with 1000 island dressing,17,g,20,mg,460,g,21,g,5,g,4.5,g,0,g,3,g,7,g
+63,gordon biersch brewery,house salad with bloody mary vinaigrette,15,g,10,mg,550,g,20,g,5,g,3.5,g,0,g,3,g,6,g
+64,gordon biersch brewery,house salad with blue cheese dressing,18,g,25,mg,360,g,19,g,6,g,6,g,0,g,3,g,5,g
+65,gordon biersch brewery,house salad with creamy herb dressing,26,g,15,mg,260,g,19,g,5,g,4,g,0,g,3,g,5,g
+66,gordon biersch brewery,house salad with lemon vinaigrette,21,g,10,mg,300,g,22,g,5,g,4.5,g,0,g,3,g,7,g
+67,gordon biersch brewery,house salad with light balsamic italian dressing,6,g,10,mg,230,g,20,g,5,g,2.5,g,0,g,3,g,6,g
+68,gordon biersch brewery,house salad with marzen balsamic vinaigrette,22,g,10,mg,390,g,20,g,5,g,3.5,g,0,g,3,g,6,g
+69,gordon biersch brewery,house salad with ranch dressing,17,g,15,mg,380,g,20,g,5,g,4.5,g,0,g,3,g,5,g
+70,gordon biersch brewery,house salad with roasted jalapeno ranch dressing,16,g,15,mg,360,g,20,g,5,g,4,g,0,g,4,g,5,g
+71,gordon biersch brewery,house salad with tangy vinaigrette,16,g,10,mg,270,g,25,g,5,g,3,g,0,g,3,g,11,g
+72,gordon biersch brewery,house salad with warm bacon vinaigrette,13,g,15,mg,360,g,21,g,6,g,3.5,g,0,g,3,g,7,g
+73,gordon biersch brewery,house salad without dressing,5,g,10,mg,210,g,18,g,5,g,2,g,0,g,3,g,5,g
+74,gordon biersch brewery,housemade potato chips,2.5,g,0,mg,110,g,11,g,1,g,0,g,0,g,1,g,1,g
+75,gordon biersch brewery,housemade tacos cajun fish,114,g,165,mg,4010,g,86,g,64,g,27,g,0,g,11,g,3,g
+76,gordon biersch brewery,housemade tacos cajun fish with garlic fries,137,g,165,mg,4070,g,132,g,70,g,29,g,0,g,17,g,4,g
+77,gordon biersch brewery,housemade tacos lobster and shrimp,92,g,230,mg,2670,g,83,g,48,g,22,g,0,g,10,g,3,g
+78,gordon biersch brewery,housemade tacos lobster and shrimp with garlic fries,115,g,230,mg,2730,g,129,g,54,g,24,g,0,g,16,g,4,g
+79,gordon biersch brewery,iceberg lettuce wedge with 1000 island dressing full,57,g,90,mg,1680,g,13,g,18,g,16,g,0,g,2,g,10,g
+80,gordon biersch brewery,iceberg lettuce wedge with 1000 island dressing half,29,g,45,mg,840,g,7,g,9,g,8,g,0,g,1,g,5,g
+81,gordon biersch brewery,iceberg lettuce wedge with bleu cheese dressing full,60,g,100,mg,1410,g,7,g,22,g,22,g,0,g,2,g,4,g
+82,gordon biersch brewery,iceberg lettuce wedge with bloody mary vinaigrette full,51,g,55,mg,1970,g,9,g,18,g,14,g,0,g,2,g,6,g
+83,gordon biersch brewery,iceberg lettuce wedge with bloody mary vinaigrette half,25,g,30,mg,990,g,5,g,9,g,7,g,0,g,1,g,3,g
+84,gordon biersch brewery,iceberg lettuce wedge with blue cheese dressing half,30,g,50,mg,700,g,3,g,11,g,11,g,0,g,1,g,2,g
+85,gordon biersch brewery,iceberg lettuce wedge with creamy herb dressing full,84,g,70,mg,1100,g,7,g,18,g,15,g,0,g,2,g,5,g
+86,gordon biersch brewery,iceberg lettuce wedge with creamy herb dressing half,42,g,35,mg,550,g,4,g,9,g,8,g,0,g,1,g,2,g
+87,gordon biersch brewery,iceberg lettuce wedge with lemon vinaigrette full,68,g,55,mg,1210,g,14,g,17,g,17,g,0,g,2,g,10,g
+88,gordon biersch brewery,iceberg lettuce wedge with lemon vinaigrette half,34,g,30,mg,610,g,7,g,9,g,8,g,0,g,1,g,5,g
+89,gordon biersch brewery,iceberg lettuce wedge with light balsamic italian dressing full,23,g,55,mg,1010,g,10,g,17,g,10,g,0,g,2,g,6,g
+90,gordon biersch brewery,iceberg lettuce wedge with light balsamic italian dressing half,11,g,30,mg,510,g,5,g,9,g,5,g,0,g,1,g,3,g
+91,gordon biersch brewery,iceberg lettuce wedge with marzen balsamic vinaigrette full,72,g,55,mg,1480,g,9,g,17,g,14,g,0,g,2,g,5,g
+92,gordon biersch brewery,iceberg lettuce wedge with marzen balsamic vinaigrette half,36,g,30,mg,740,g,4,g,9,g,7,g,0,g,1,g,3,g
+93,gordon biersch brewery,iceberg lettuce wedge with ranch dressing full,57,g,75,mg,1450,g,8,g,19,g,17,g,0,g,2,g,5,g
+94,gordon biersch brewery,iceberg lettuce wedge with ranch dressing half,29,g,35,mg,730,g,4,g,9,g,8,g,0,g,1,g,2,g
+95,gordon biersch brewery,iceberg lettuce wedge with roasted jalapeno ranch dressing full,54,g,75,mg,1400,g,8,g,19,g,16,g,0,g,2,g,5,g
+96,gordon biersch brewery,iceberg lettuce wedge with roasted jalapeno ranch dressing half,27,g,35,mg,700,g,4,g,10,g,8,g,0,g,1,g,2,g
+97,gordon biersch brewery,iceberg lettuce wedge with tangy vinaigrette full,54,g,55,mg,1130,g,25,g,17,g,12,g,0,g,2,g,21,g
+98,gordon biersch brewery,iceberg lettuce wedge with tangy vinaigrette half,27,g,30,mg,570,g,12,g,9,g,6,g,0,g,1,g,11,g
+99,gordon biersch brewery,iceberg lettuce wedge with warm bacon vinaigrette full,51,g,55,mg,1970,g,9,g,18,g,14,g,0,g,2,g,6,g
+100,gordon biersch brewery,iceberg lettuce wedge with warm bacon vinaigrette half,22,g,35,mg,700,g,6,g,11,g,7,g,0,g,1,g,4,g
+101,gordon biersch brewery,iceberg lettuce wedge without dressing full,20,g,55,mg,940,g,4,g,17,g,10,g,0,g,2,g,3,g
+102,gordon biersch brewery,iceberg lettuce wedge without dressing half,10,g,30,mg,470,g,2,g,9,g,5,g,0,g,1,g,1,g
+103,gordon biersch brewery,jumbo gulf shrimp frites with bearnaise sauce,62,g,385,mg,1770,g,69,g,53,g,17,g,1,g,9,g,4,g
+104,gordon biersch brewery,jumbo gulf shrimp frites with gorgonzola garlic sauce,69,g,400,mg,1920,g,66,g,54,g,22,g,0,g,8,g,2,g
+105,gordon biersch brewery,jumbo gulf shrimp frites with lemon caper sauce,74,g,395,mg,1640,g,69,g,51,g,24,g,0,g,9,g,2,g
+106,gordon biersch brewery,jumbo gulf shrimp frites with mushroom beer sauce,51,g,335,mg,1740,g,68,g,52,g,10,g,0,g,8,g,3,g
+107,gordon biersch brewery,jumbo gulf shrimp frites with red wine reduction,56,g,355,mg,1650,g,66,g,52,g,14,g,0,g,8,g,2,g
+108,gordon biersch brewery,jumbo gulf shrimp frites without sauce,41,g,320,mg,1490,g,63,g,50,g,5,g,0,g,8,g,1,g
+109,gordon biersch brewery,kids burger with cheddar cheese,19,g,90,mg,660,g,32,g,31,g,8,g,0,g,1,g,4,g
+110,gordon biersch brewery,kids burger without cheese,12,g,65,mg,520,g,31,g,26,g,4,g,0,g,1,g,4,g
+111,gordon biersch brewery,kids carrots and ranch,19,g,10,mg,300,g,9,g,2,g,3.5,g,0,g,2,g,4,g
+112,gordon biersch brewery,kids cheese pizza slice,2,g,5,mg,160,g,14,g,4,g,1,g,0,g,0,g,0,g
+113,gordon biersch brewery,kids cheese pizza whole,12,g,25,mg,970,g,84,g,25,g,6,g,0,g,1,g,2,g
+114,gordon biersch brewery,kids chicken cheddar sandwich,13,g,75,mg,1020,g,33,g,31,g,5,g,0.5,g,1,g,5,g
+115,gordon biersch brewery,kids chicken fingers with ranch dressing,25,g,25,mg,500,g,15,g,8,g,4,g,0,g,1,g,4,g
+116,gordon biersch brewery,kids chicken fingers without ranch dressing,6,g,15,mg,290,g,14,g,7,g,1,g,0,g,1,g,3,g
+117,gordon biersch brewery,kids corn dog,18,g,40,mg,670,g,32,g,10,g,4.5,g,0,g,1,g,10,g
+118,gordon biersch brewery,kids garden salad with 1000 island dressing,12,g,10,mg,260,g,6,g,1,g,2,g,0,g,2,g,4,g
+119,gordon biersch brewery,kids garden salad with bleu cheese dressing,13,g,15,mg,170,g,4,g,3,g,4,g,0,g,2,g,2,g
+120,gordon biersch brewery,kids garden salad with creamy herb dressing,21,g,5,mg,70,g,4,g,1,g,2,g,0,g,2,g,2,g
+121,gordon biersch brewery,kids garden salad with light balsamic italian dressing,1,g,0,mg,40,g,5,g,1,g,0,g,0,g,2,g,2,g
+122,gordon biersch brewery,kids garden salad with marzen balsamic vinaigrette,17,g,0,mg,200,g,5,g,1,g,1.5,g,0,g,2,g,2,g
+123,gordon biersch brewery,kids garden salad with miso vinaigrette,19,g,10,mg,290,g,4,g,2,g,1.5,g,0,g,2,g,2,g
+124,gordon biersch brewery,kids garden salad with ranch dressing,13,g,5,mg,190,g,4,g,2,g,2,g,0,g,2,g,2,g
+125,gordon biersch brewery,kids garden salad with roasted jalapeno ranch dressing,11,g,5,mg,170,g,4,g,2,g,2,g,0,g,2,g,2,g
+126,gordon biersch brewery,kids garden salad with tangy vinaigrette,11,g,0,mg,80,g,10,g,1,g,1,g,0,g,2,g,7,g
+127,gordon biersch brewery,kids garden salad without dressing,0,g,0,mg,15,g,3,g,1,g,0,g,0,g,2,g,1,g
+128,gordon biersch brewery,kids grilled cheese,28,g,50,mg,810,g,40,g,16,g,10,g,0,g,0,g,2,g
+129,gordon biersch brewery,kids mac n cheese,11,g,25,mg,830,g,48,g,12,g,3,g,0,g,2,g,11,g
+130,gordon biersch brewery,kids oreo pie,16,g,35,mg,370,g,48,g,5,g,7,g,0,g,1,g,30,g
+131,gordon biersch brewery,kids pasta,8,g,0,mg,380,g,69,g,12,g,0.5,g,0,g,5,g,8,g
+132,gordon biersch brewery,kids pb and j,19,g,0,mg,600,g,71,g,14,g,3,g,0,g,2,g,31,g
+133,gordon biersch brewery,kids pepperoni pizza slice,3.5,g,5,mg,220,g,14,g,5,g,1.5,g,0,g,0,g,0,g
+134,gordon biersch brewery,kids pepperoni pizza whole,21,g,45,mg,1300,g,84,g,28,g,9,g,0,g,1,g,2,g
+135,gordon biersch brewery,kids sliders,14,g,55,mg,750,g,38,g,23,g,4,g,0,g,2,g,3,g
+136,gordon biersch brewery,kids sliders with garlic fries,31,g,55,mg,790,g,71,g,27,g,6,g,0,g,6,g,4,g
+137,gordon biersch brewery,kobe black and bleu burger,41,g,155,mg,1280,g,67,g,53,g,14,g,0,g,2,g,15,g
+138,gordon biersch brewery,kobe cheeseburger with american cheese,31,g,155,mg,1770,g,58,g,54,g,13,g,0,g,1,g,9,g
+139,gordon biersch brewery,kobe cheeseburger with american cheese blue cheese,37,g,175,mg,2050,g,58,g,58,g,17,g,0,g,1,g,9,g
+140,gordon biersch brewery,kobe cheeseburger with american cheese cheddar cheese,38,g,180,mg,1910,g,59,g,59,g,17,g,0,g,1,g,9,g
+141,gordon biersch brewery,kobe cheeseburger with american cheese gorgonzola cheese,38,g,175,mg,2060,g,58,g,58,g,18,g,0,g,1,g,9,g
+142,gordon biersch brewery,kobe cheeseburger with american cheese mozzarella cheese,35,g,170,mg,1920,g,58,g,59,g,16,g,0,g,1,g,9,g
+143,gordon biersch brewery,kobe cheeseburger with american cheese pepper jack cheese,37,g,180,mg,1900,g,58,g,59,g,17,g,0,g,1,g,9,g
+144,gordon biersch brewery,kobe cheeseburger with american cheese swiss cheese,37,g,175,mg,1820,g,59,g,60,g,17,g,0,g,1,g,9,g
+145,gordon biersch brewery,kobe cheeseburger with blue cheese,31,g,160,mg,1670,g,58,g,54,g,13,g,0,g,1,g,9,g
+146,gordon biersch brewery,kobe cheeseburger with cheddar cheese,32,g,165,mg,1530,g,59,g,54,g,13,g,0,g,1,g,9,g
+147,gordon biersch brewery,kobe cheeseburger with gorgonzola cheese,31,g,160,mg,1680,g,58,g,54,g,13,g,0,g,1,g,9,g
+148,gordon biersch brewery,kobe cheeseburger with mozzarella cheese,29,g,155,mg,1540,g,58,g,54,g,11,g,0,g,1,g,9,g
+149,gordon biersch brewery,kobe cheeseburger with pepper jack cheese,31,g,165,mg,1520,g,58,g,54,g,13,g,0,g,1,g,9,g
+150,gordon biersch brewery,kobe cheeseburger with swiss cheese,31,g,160,mg,1440,g,59,g,55,g,13,g,0,g,1,g,9,g
+151,gordon biersch brewery,kobe cheeseburger without cheese,25,g,140,mg,1390,g,58,g,49,g,9,g,0,g,1,g,9,g
+152,gordon biersch brewery,linguini primavera,58,g,45,mg,820,g,96,g,20,g,16,g,1.5,g,7,g,12,g
+153,gordon biersch brewery,lobster and shrimp mac n cheese with cheese garlic crostini,107,g,485,mg,1750,g,94,g,58,g,65,g,0,g,5,g,7,g
+154,gordon biersch brewery,lobster and shrimp mac n cheese without crostini,102,g,475,mg,1130,g,88,g,53,g,63,g,0,g,5,g,7,g
+155,gordon biersch brewery,lobster bisque bowl,22,g,70,mg,970,g,15,g,3,g,13,g,0,g,1,g,3,g
+156,gordon biersch brewery,lobster bisque cup,17,g,55,mg,770,g,12,g,2,g,10,g,0,g,1,g,3,g
+157,gordon biersch brewery,margherita flatbread piece,3.5,g,5,mg,120,g,9,g,3,g,1,g,0,g,1,g,0,g
+158,gordon biersch brewery,margherita flatbread whole,27,g,45,mg,950,g,75,g,26,g,10,g,0,g,4,g,3,g
+159,gordon biersch brewery,marzen bbq burger,51,g,195,mg,2300,g,72,g,62,g,20,g,0,g,1,g,18,g
+160,gordon biersch brewery,marzen bbq chicken sandwich,30,g,150,mg,2590,g,75,g,61,g,10,g,2,g,1,g,20,g
+161,gordon biersch brewery,marzen glazed chicken wings,57,g,210,mg,640,g,21,g,51,g,14,g,0,g,0,g,12,g
+162,gordon biersch brewery,mini bratwurst sliders individual,18,g,35,mg,1080,g,19,g,12,g,4.5,g,0,g,1,g,3,g
+163,gordon biersch brewery,mini bratwurst sliders shareable,51,g,110,mg,3170,g,50,g,36,g,14,g,0,g,2,g,7,g
+164,gordon biersch brewery,new england clam chowder,15,g,70,mg,1530,g,10,g,20,g,9,g,0,g,1,g,3,g
+165,gordon biersch brewery,new england clam chowder with oyster crackers,17,g,70,mg,1670,g,20,g,21,g,9,g,0,g,1,g,3,g
+166,gordon biersch brewery,nola yellowfin tuna with garlic herb flatbread chips,35,g,100,mg,610,g,16,g,49,g,5,g,0,g,2,g,1,g
+167,gordon biersch brewery,nola yellowfin tuna without chips,32,g,100,mg,290,g,5,g,47,g,4.5,g,0,g,2,g,1,g
+168,gordon biersch brewery,our legendary garlic fries,47,g,0,mg,1540,g,82,g,10,g,5,g,0,g,11,g,1,g
+169,gordon biersch brewery,our legendary garlic fries small portion,29,g,0,mg,900,g,48,g,6,g,3,g,0,g,6,g,1,g
+170,gordon biersch brewery,pan fried chicken with grilled asparagus,37,g,220,mg,1250,g,31,g,50,g,17,g,0,g,4,g,4,g
+171,gordon biersch brewery,pan fried chicken with grilled asparagus roasted garlic mashed potatoes,54,g,270,mg,1520,g,62,g,54,g,28,g,0,g,8,g,7,g
+172,gordon biersch brewery,pan fried chicken with roasted garlic mashed potatoes,52,g,270,mg,1190,g,57,g,51,g,28,g,0,g,5,g,4,g
+173,gordon biersch brewery,pan fried chicken without sides,35,g,220,mg,920,g,25,g,48,g,17,g,0,g,2,g,2,g
+174,gordon biersch brewery,pan roasted citrus chicken with grilled asparagus,33,g,105,mg,2270,g,42,g,45,g,6,g,0,g,5,g,10,g
+175,gordon biersch brewery,pan roasted citrus chicken without sides,31,g,105,mg,1940,g,37,g,43,g,5,g,0,g,3,g,7,g
+176,gordon biersch brewery,pan roasted citrus salmon with grilled asparagus,42,g,100,mg,1680,g,39,g,40,g,7,g,0,g,5,g,8,g
+177,gordon biersch brewery,pan roasted citrus salmon without sides,39,g,100,mg,1350,g,34,g,37,g,6,g,0,g,3,g,5,g
+178,gordon biersch brewery,pecan crusted chicken and pear sliders individual,14,g,40,mg,660,g,29,g,18,g,2.5,g,0,g,3,g,6,g
+179,gordon biersch brewery,pecan crusted chicken and pear sliders shareable,40,g,120,mg,1930,g,80,g,54,g,8,g,0.5,g,8,g,18,g
+180,gordon biersch brewery,pepper crusted tuna frites with bearnaise sauce,54,g,140,mg,880,g,67,g,50,g,16,g,1,g,10,g,4,g
+181,gordon biersch brewery,pepper crusted tuna frites with gorgonzola garlic sauce,60,g,160,mg,1030,g,64,g,52,g,20,g,0,g,9,g,2,g
+182,gordon biersch brewery,pepper crusted tuna frites with lemon caper sauce,66,g,155,mg,750,g,66,g,48,g,22,g,0,g,9,g,2,g
+183,gordon biersch brewery,pepper crusted tuna frites with mushroom beer sauce,42,g,95,mg,850,g,66,g,49,g,8,g,0,g,9,g,3,g
+184,gordon biersch brewery,pepper crusted tuna frites with red wine reduction,48,g,115,mg,750,g,64,g,49,g,13,g,0,g,9,g,2,g
+185,gordon biersch brewery,pepper crusted tuna frites without sauce,33,g,75,mg,600,g,61,g,47,g,3.5,g,0,g,8,g,1,g
+186,gordon biersch brewery,prosciutto and gorgonzola chips with gorgonzola garlic sauce,21,g,60,mg,500,g,12,g,6,g,12,g,0,g,1,g,2,g
+187,gordon biersch brewery,prosciutto and gorgonzola chips without gorgonzola garlic sauce,12,g,30,mg,360,g,11,g,4,g,6,g,0,g,1,g,2,g
+188,gordon biersch brewery,quinoa and kale,7,g,0,mg,200,g,10,g,2,g,1,g,0,g,1,g,3,g
+189,gordon biersch brewery,roasted cod nicoise,35,g,100,mg,1750,g,35,g,39,g,6,g,0,g,3,g,8,g
+190,gordon biersch brewery,roasted garlic mashed potatoes,17,g,50,mg,270,g,31,g,4,g,11,g,0,g,3,g,3,g
+191,gordon biersch brewery,roasted turkey sandwich,29,g,95,mg,2000,g,61,g,44,g,9,g,1,g,3,g,6,g
+192,gordon biersch brewery,rustic chicken salad,34,g,45,mg,770,g,15,g,13,g,6,g,0,g,2,g,2,g
+193,gordon biersch brewery,sauteed mushrooms,19,g,40,mg,570,g,5,g,4,g,10,g,1.5,g,2,g,2,g
+194,gordon biersch brewery,seafood carbonara,93,g,565,mg,1220,g,92,g,64,g,48,g,1.5,g,5,g,9,g
+195,gordon biersch brewery,seafood cobb salad with 1000 island dressing,68,g,410,mg,2070,g,20,g,54,g,23,g,0,g,7,g,10,g
+196,gordon biersch brewery,seafood cobb salad with bleu cheese dressing,70,g,415,mg,1880,g,16,g,56,g,27,g,0,g,7,g,5,g
+197,gordon biersch brewery,seafood cobb salad with bloody mary vinaigrette,64,g,385,mg,2260,g,18,g,53,g,22,g,0,g,7,g,7,g
+198,gordon biersch brewery,seafood cobb salad with creamy herb dressing,86,g,395,mg,1680,g,16,g,53,g,22,g,0,g,7,g,6,g
+199,gordon biersch brewery,seafood cobb salad with lemon vinaigrette,75,g,385,mg,1750,g,21,g,53,g,23,g,0,g,7,g,9,g
+200,gordon biersch brewery,seafood cobb salad with light balsamic italian dressing,45,g,385,mg,1620,g,18,g,53,g,19,g,0,g,7,g,7,g
+201,gordon biersch brewery,seafood cobb salad with marzen balsamic vinaigrette,78,g,385,mg,1930,g,17,g,53,g,21,g,0,g,7,g,6,g
+202,gordon biersch brewery,seafood cobb salad with ranch dressing,68,g,400,mg,1910,g,17,g,54,g,23,g,0,g,7,g,6,g
+203,gordon biersch brewery,seafood cobb salad with roasted jalapeno ranch dressing,65,g,395,mg,1880,g,17,g,54,g,23,g,0,g,8,g,6,g
+204,gordon biersch brewery,seafood cobb salad with tangy vinaigrette,66,g,385,mg,1700,g,28,g,53,g,20,g,0,g,7,g,17,g
+205,gordon biersch brewery,seafood cobb salad with warm bacon vinaigrette,60,g,395,mg,1880,g,19,g,56,g,22,g,0,g,7,g,9,g
+206,gordon biersch brewery,seafood cobb salad without dressing,43,g,385,mg,1570,g,14,g,53,g,19,g,0,g,7,g,5,g
+207,gordon biersch brewery,seasonal fruit,0,g,0,mg,15,g,20,g,1,g,0,g,0,g,2,g,17,g
+208,gordon biersch brewery,seasonal vegetables,4.5,g,0,mg,340,g,5,g,1,g,0,g,0,g,2,g,2,g
+209,gordon biersch brewery,seasoned swordfish frites with bearnaise sauce,59,g,130,mg,1050,g,66,g,43,g,18,g,1,g,9,g,4,g
+210,gordon biersch brewery,seasoned swordfish frites with gorgonzola garlic sauce,65,g,150,mg,1200,g,63,g,45,g,22,g,0,g,8,g,2,g
+211,gordon biersch brewery,seasoned swordfish frites with lemon caper sauce,71,g,145,mg,930,g,65,g,42,g,24,g,0,g,8,g,2,g
+212,gordon biersch brewery,seasoned swordfish frites with mushroom beer sauce,47,g,85,mg,1020,g,65,g,43,g,10,g,0,g,8,g,3,g
+213,gordon biersch brewery,seasoned swordfish frites with red wine reduction,53,g,105,mg,930,g,63,g,43,g,14,g,0,g,8,g,2,g
+214,gordon biersch brewery,seasoned swordfish frites without sauce,38,g,65,mg,780,g,59,g,41,g,5,g,0,g,8,g,1,g
+215,gordon biersch brewery,side caesar salad,28,g,30,mg,400,g,15,g,9,g,6,g,0,g,3,g,2,g
+216,gordon biersch brewery,smoked chicken and mushroom pasta,65,g,215,mg,1130,g,97,g,42,g,27,g,0.5,g,6,g,11,g
+217,gordon biersch brewery,southwest egg rolls with roasted jalapeno ranch,38,g,95,mg,2570,g,46,g,28,g,13,g,0,g,3,g,7,g
+218,gordon biersch brewery,southwest egg rolls without ranch,21,g,85,mg,2340,g,44,g,27,g,10,g,0,g,3,g,6,g
+219,gordon biersch brewery,spicy chicken risotto fritters,44,g,145,mg,2180,g,85,g,28,g,15,g,0,g,5,g,6,g
+220,gordon biersch brewery,sweet potato fries,9,g,0,mg,590,g,47,g,2,g,1,g,0,g,7,g,18,g
+221,gordon biersch brewery,triple chocolate brownie,46,g,210,mg,260,g,108,g,9,g,28,g,0,g,1,g,95,g
+222,gordon biersch brewery,tuna nicoise salad with 1000 island dressing,39,g,275,mg,1490,g,30,g,32,g,6,g,0,g,7,g,10,g
+223,gordon biersch brewery,tuna nicoise salad with bleu cheese dressing,40,g,280,mg,1310,g,26,g,35,g,10,g,0,g,6,g,5,g
+224,gordon biersch brewery,tuna nicoise salad with bloody mary vinaigrette,34,g,250,mg,1690,g,27,g,32,g,5,g,0,g,6,g,7,g
+225,gordon biersch brewery,tuna nicoise salad with creamy herb dressing,56,g,260,mg,1100,g,26,g,32,g,6,g,0,g,6,g,6,g
+226,gordon biersch brewery,tuna nicoise salad with lemon vinaigrette,45,g,250,mg,1180,g,31,g,32,g,7,g,0,g,7,g,9,g
+227,gordon biersch brewery,tuna nicoise salad with light balsamic italian dressing,15,g,250,mg,1050,g,28,g,32,g,2.5,g,0,g,7,g,7,g
+228,gordon biersch brewery,tuna nicoise salad with marzen balsamic vinaigrette,48,g,250,mg,1360,g,27,g,32,g,4.5,g,0,g,6,g,6,g
+229,gordon biersch brewery,tuna nicoise salad with ranch dressing,39,g,265,mg,1340,g,26,g,33,g,7,g,0,g,6,g,6,g
+230,gordon biersch brewery,tuna nicoise salad with roasted jalapeno ranch dressing,36,g,260,mg,1310,g,27,g,33,g,6,g,0,g,7,g,6,g
+231,gordon biersch brewery,tuna nicoise salad with tangy vinaigrette,36,g,250,mg,1130,g,38,g,32,g,3.5,g,0,g,6,g,17,g
+232,gordon biersch brewery,tuna nicoise salad with warm bacon vinaigrette,30,g,260,mg,1310,g,29,g,34,g,5,g,0,g,7,g,9,g
+233,gordon biersch brewery,tuna nicoise salad without dressing,14,g,250,mg,1000,g,24,g,32,g,2,g,0,g,6,g,4,g
+234,gordon biersch brewery,tuna steak sandwich,21,g,90,mg,1110,g,57,g,51,g,4.5,g,0,g,3,g,3,g
+235,gordon biersch brewery,tuscan chicken pasta,88,g,125,mg,2770,g,102,g,49,g,20,g,1.5,g,7,g,19,g
+236,gordon biersch brewery,tuscan shrimp pasta,72,g,220,mg,1700,g,94,g,43,g,16,g,1.5,g,6,g,11,g
+237,gordon biersch brewery,vanilla creme brulee,47,g,185,mg,20,g,51,g,1,g,33,g,0,g,1,g,42,g
+238,gordon biersch brewery,veggie burger,35,g,15,mg,1640,g,123,g,23,g,7,g,1,g,10,g,20,g
+239,gordon biersch brewery,veggie burger sliders individual,16,g,10,mg,450,g,27,g,6,g,4,g,0.5,g,3,g,4,g
+240,gordon biersch brewery,veggie burger sliders individual with chips with watercress garnish,17,g,10,mg,480,g,29,g,6,g,4,g,0.5,g,4,g,4,g
+241,gordon biersch brewery,veggie burger sliders shareable,49,g,35,mg,1360,g,79,g,18,g,12,g,1.5,g,10,g,11,g
+242,gordon biersch brewery,veggie burger sliders shareable with chips with watercress garnish,50,g,35,mg,1390,g,82,g,18,g,12,g,1.5,g,10,g,11,g
+243,gordon biersch brewery,veggie pizza slice,7,g,10,mg,350,g,22,g,7,g,2,g,0,g,1,g,1,g
+244,gordon biersch brewery,veggie pizza whole,53,g,60,mg,2820,g,177,g,59,g,16,g,0,g,5,g,8,g
+245,gordon biersch brewery,warm apple bread pudding,61,g,315,mg,650,g,149,g,13,g,35,g,0,g,2,g,115,g
+246,gordon biersch brewery,wild halibut and mushroom ragout,13,g,70,mg,1000,g,31,g,41,g,4.5,g,0,g,3,g,2,g
+247,gordon biersch brewery,wild halibut and mushroom ragout with grilled asparagus,15,g,70,mg,1330,g,36,g,43,g,4.5,g,0,g,5,g,5,g
+248,gordon biersch brewery,wild salmon sliders individual,19,g,45,mg,510,g,22,g,9,g,5,g,0,g,2,g,3,g
+249,gordon biersch brewery,wild salmon sliders individual with chips with watercress garnish,20,g,45,mg,540,g,24,g,9,g,5,g,0,g,2,g,3,g
+250,gordon biersch brewery,wild salmon sliders shareable,58,g,135,mg,1530,g,64,g,27,g,14,g,1,g,4,g,8,g
+251,gordon biersch brewery,wild salmon sliders shareable with chips with watercress garnish,59,g,135,mg,1560,g,67,g,27,g,14,g,1,g,5,g,8,g
+252,gordon biersch brewery,woodford reserve bourbon glazed chicken breast,20,g,100,mg,2850,g,62,g,45,g,2,g,0,g,4,g,25,g
+253,gordon biersch brewery,woodford reserve bourbon glazed chicken breast and jumbo gulf shrimp,26,g,260,mg,3800,g,70,g,67,g,3,g,0,g,4,g,29,g
+254,gordon biersch brewery,woodford reserve bourbon glazed jumbo gulf shrimp,28,g,320,mg,3140,g,63,g,49,g,3,g,0,g,4,g,22,g
+255,gordon biersch brewery,woodford reserve bourbon glazed wild alaskan salmon,29,g,95,mg,1900,g,60,g,40,g,3.5,g,0,g,4,g,22,g
+256,gordon biersch brewery,woodford reserve bourbon glazed wild alaskan salmon and jumbo gulf shrimp,34,g,255,mg,2850,g,67,g,61,g,4,g,0,g,4,g,27,g
+257,graeters ice cream,ice cream banana chocolate chip,21,g,55,mg,50,g,37,g,4,g,11,g,0.5,g,0,g,36,g
+258,graeters ice cream,ice cream birthday cake,20,g,65,mg,160,g,44,g,5,g,13,g,0.5,g,0,g,36,g
+259,graeters ice cream,ice cream black cherry chocolate chip,24,g,65,mg,55,g,38,g,4,g,13,g,0.5,g,0,g,35,g
+260,graeters ice cream,ice cream black raspberry chocolate chip,24,g,60,mg,50,g,38,g,5,g,13,g,0.5,g,0,g,35,g
+261,graeters ice cream,ice cream boldly bearcat,26,g,60,mg,90,g,41,g,5,g,14,g,0.5,g,0,g,34,g
+262,graeters ice cream,ice cream brown butter bourbon pecan,23,g,70,mg,150,g,37,g,5,g,13,g,0.5,g,0,g,36,g
+263,graeters ice cream,ice cream buckeye blitz,26,g,60,mg,105,g,46,g,7,g,13,g,0,g,0,g,38,g
+264,graeters ice cream,ice cream butter pecan,27,g,70,mg,95,g,29,g,5,g,13,g,0.5,g,0,g,27,g
+265,graeters ice cream,ice cream cherry chocolate chip,27,g,70,mg,55,g,35,g,5,g,15,g,0.5,g,0,g,33,g
+266,graeters ice cream,ice cream chocolate chip,27,g,70,mg,60,g,34,g,5,g,15,g,0.5,g,0,g,32,g
+267,graeters ice cream,ice cream chocolate coconut almond chocolate chip,30,g,65,mg,60,g,38,g,7,g,15,g,0.5,g,0,g,35,g
+268,graeters ice cream,ice cream chunky chunky hippo,28,g,65,mg,140,g,36,g,8,g,15,g,0.5,g,1,g,31,g
+269,graeters ice cream,ice cream cinnamon,20,g,75,mg,60,g,33,g,4,g,13,g,0.5,g,0,g,32,g
+270,graeters ice cream,ice cream coconut chocolate chip,28,g,70,mg,60,g,35,g,5,g,16,g,0.5,g,0,g,33,g
+271,graeters ice cream,ice cream cookie dough chocolate chip,28,g,80,mg,120,g,44,g,5,g,16,g,0.5,g,0,g,37,g
+272,graeters ice cream,ice cream cookies and cream,21,g,65,mg,100,g,36,g,5,g,12,g,0.5,g,0,g,31,g
+273,graeters ice cream,ice cream cotton candy,19,g,65,mg,55,g,35,g,4,g,12,g,0.5,g,0,g,34,g
+274,graeters ice cream,ice cream dark chocolate brownie,20,g,70,mg,120,g,36,g,6,g,12,g,0.5,g,0,g,30,g
+275,graeters ice cream,ice cream double chocolate chip,27,g,70,mg,60,g,38,g,6,g,15,g,0.5,g,0,g,36,g
+276,graeters ice cream,ice cream dutch milk chocolate,20,g,70,mg,60,g,33,g,5,g,13,g,0.5,g,0,g,32,g
+277,graeters ice cream,ice cream eggnog,20,g,75,mg,55,g,35,g,4,g,12,g,0.5,g,0,g,32,g
+278,graeters ice cream,ice cream elenas blueberry pie,20,g,65,mg,60,g,35,g,4,g,13,g,0.5,g,0,g,30,g
+279,graeters ice cream,ice cream key lime pie,21,g,70,mg,85,g,35,g,5,g,13,g,0.5,g,0,g,31,g
+280,graeters ice cream,ice cream madagascar vanilla bean,20,g,75,mg,60,g,29,g,4,g,13,g,0.5,g,0,g,28,g
+281,graeters ice cream,ice cream maple cinnamon crunch,21,g,75,mg,90,g,39,g,4,g,13,g,0.5,g,0,g,35,g
+282,graeters ice cream,ice cream mint chocolate chip,27,g,70,mg,60,g,34,g,5,g,15,g,0.5,g,0,g,32,g
+283,graeters ice cream,ice cream mint cookies and cream,21,g,65,mg,100,g,36,g,5,g,12,g,0.5,g,0,g,31,g
+284,graeters ice cream,ice cream mocha chocolate chip,27,g,70,mg,55,g,34,g,5,g,15,g,0.5,g,0,g,32,g
+285,graeters ice cream,ice cream orange and cream,20,g,70,mg,60,g,31,g,4,g,13,g,0.5,g,0,g,28,g
+286,graeters ice cream,ice cream oregon strawberry,17,g,60,mg,50,g,30,g,4,g,10,g,0.5,g,0,g,29,g
+287,graeters ice cream,ice cream original salted caramel,20,g,70,mg,130,g,36,g,4,g,12,g,0.5,g,0,g,35,g
+288,graeters ice cream,ice cream peach,16,g,60,mg,40,g,35,g,3,g,10,g,0.5,g,0,g,34,g
+289,graeters ice cream,ice cream peanut butter and jelly,18,g,65,mg,90,g,45,g,6,g,11,g,0.5,g,0,g,38,g
+290,graeters ice cream,ice cream peanut butter chocolate chip,27,g,60,mg,105,g,39,g,7,g,13,g,0,g,0,g,36,g
+291,graeters ice cream,ice cream peppermint,19,g,65,mg,60,g,36,g,4,g,12,g,0.5,g,0,g,34,g
+292,graeters ice cream,ice cream perfect indulgence black cherry chocolate chip,27,g,0,mg,170,g,35,g,4,g,14,g,0,g,1,g,31,g
+293,graeters ice cream,ice cream perfect indulgence chocolate,22,g,0,mg,200,g,34,g,4,g,13,g,0,g,1,g,30,g
+294,graeters ice cream,ice cream perfect indulgence chocolate chip,30,g,0,mg,190,g,30,g,4,g,16,g,0,g,1,g,26,g
+295,graeters ice cream,ice cream perfect indulgence cookies and cream,24,g,0,mg,230,g,32,g,4,g,13,g,0,g,0,g,26,g
+296,graeters ice cream,ice cream perfect indulgence mint chocolate chip,30,g,0,mg,190,g,30,g,4,g,16,g,0,g,1,g,26,g
+297,graeters ice cream,ice cream perfect indulgence oregon strawberry,23,g,0,mg,190,g,24,g,4,g,13,g,0,g,0,g,22,g
+298,graeters ice cream,ice cream pistachio,24,g,70,mg,55,g,31,g,6,g,13,g,0.5,g,1,g,28,g
+299,graeters ice cream,ice cream pumpkin,18,g,65,mg,55,g,32,g,4,g,12,g,0.5,g,0,g,30,g
+300,graeters ice cream,ice cream smores,22,g,60,mg,80,g,43,g,4,g,12,g,0.5,g,0,g,36,g
+301,graeters ice cream,ice cream salted caramel chocolate chip,25,g,65,mg,115,g,38,g,4,g,14,g,0.5,g,0,g,36,g
+302,graeters ice cream,ice cream strawberry chocolate chip,21,g,55,mg,45,g,32,g,4,g,12,g,0,g,0,g,30,g
+303,graeters ice cream,ice cream toffee chocolate chip,29,g,70,mg,125,g,39,g,5,g,16,g,0.5,g,0,g,38,g
+304,graeters ice cream,ice cream vienna coffee,20,g,70,mg,60,g,29,g,4,g,13,g,0.5,g,0,g,28,g
+305,graeters ice cream,lemon sorbet,0,g,0,mg,5,g,46,g,0,g,0,g,0,g,0,g,44,g
+306,graeters ice cream,raspberry sorbet,0,g,0,mg,0,g,44,g,0,g,0,g,0,g,0,g,43,g
+307,graeters ice cream,watermelon sorbet,0,g,0,mg,0,g,47,g,1,g,0,g,0,g,2,g,40,g
+308,grand traverse pie company,1 2 macaroni and cheese in combo,25,g,55,mg,1350,g,39,g,18,g,12,g,0,g,1,g,5,g
+309,grand traverse pie company,10 inch special occasion apple crumb pie,31,g,0,mg,350,g,69,g,4,g,12,g,0,g,2,g,33,g
+310,grand traverse pie company,10 inch special occasion cherry crumb pie,32,g,0,mg,260,g,66,g,5,g,12,g,0,g,2,g,27,g
+311,grand traverse pie company,16 inch special occasion apple crumb pie,19,g,0,mg,290,g,68,g,2,g,8,g,0,g,2,g,45,g
+312,grand traverse pie company,16 inch special occasion cherry crumb pie,19,g,0,mg,180,g,64,g,4,g,8,g,0,g,2,g,38,g
+313,grand traverse pie company,16 oz cappuccino with 2 milk,6,g,25,mg,160,g,15,g,10,g,4,g,0,g,0,g,14,g
+314,grand traverse pie company,16 oz cappuccino with skim milk,0,g,5,mg,160,g,16,g,10,g,0,g,0,g,0,g,14,g
+315,grand traverse pie company,16 oz cappuccino with soy milk,4,g,0,mg,125,g,13,g,8,g,1,g,0,g,1,g,10,g
+316,grand traverse pie company,16 oz cappuccino with whole milk,10,g,40,mg,140,g,15,g,10,g,6,g,0,g,0,g,13,g
+317,grand traverse pie company,16 oz chai with 2 milk,8,g,35,mg,180,g,57,g,8,g,5,g,0,g,0,g,50,g
+318,grand traverse pie company,16 oz chai with skim milk,2,g,5,mg,180,g,56,g,8,g,2,g,0,g,0,g,49,g
+319,grand traverse pie company,16 oz chai with soy milk,6,g,0,mg,160,g,54,g,6,g,3,g,0,g,1,g,46,g
+320,grand traverse pie company,16 oz chai with whole milk,10,g,35,mg,170,g,55,g,8,g,7,g,0,g,0,g,48,g
+321,grand traverse pie company,16 oz coffee,2,g,0,mg,20,g,6,g,0,g,1,g,0,g,0,g,6,g
+322,grand traverse pie company,16 oz hot chocolate with 2 milk,11,g,35,mg,240,g,62,g,14,g,7,g,0,g,2,g,55,g
+323,grand traverse pie company,16 oz hot chocolate with skim milk,3,g,10,mg,240,g,63,g,14,g,2,g,0,g,2,g,55,g
+324,grand traverse pie company,16 oz hot chocolate with soy milk,9,g,0,mg,200,g,59,g,11,g,3,g,0,g,3,g,50,g
+325,grand traverse pie company,16 oz hot chocolate with whole milk,16,g,60,mg,220,g,62,g,14,g,11,g,0,g,2,g,54,g
+326,grand traverse pie company,16 oz iced cappuccino with 2 milk,4,g,15,mg,95,g,14,g,6,g,2,g,0,g,0,g,13,g
+327,grand traverse pie company,16 oz iced cappuccino with skim milk,0,g,5,mg,95,g,14,g,6,g,0,g,0,g,0,g,13,g
+328,grand traverse pie company,16 oz iced cappuccino with soy milk,3,g,0,mg,75,g,13,g,5,g,0,g,0,g,1,g,11,g
+329,grand traverse pie company,16 oz iced cappuccino with whole milk,6,g,25,mg,85,g,14,g,6,g,4,g,0,g,0,g,12,g
+330,grand traverse pie company,16 oz latte with 2 milk,6,g,25,mg,160,g,15,g,10,g,4,g,0,g,0,g,14,g
+331,grand traverse pie company,16 oz latte with skim milk,0,g,5,mg,160,g,16,g,10,g,0,g,0,g,0,g,14,g
+332,grand traverse pie company,16 oz latte with soy milk,4,g,0,mg,125,g,13,g,8,g,1,g,0,g,1,g,10,g
+333,grand traverse pie company,16 oz latte with whole milk,10,g,40,mg,140,g,15,g,10,g,6,g,0,g,0,g,13,g
+334,grand traverse pie company,16 oz mocha with 2 milk,9,g,25,mg,190,g,66,g,11,g,6,g,0,g,2,g,57,g
+335,grand traverse pie company,16 oz mocha with skim milk,3,g,5,mg,190,g,67,g,11,g,3,g,0,g,2,g,57,g
+336,grand traverse pie company,16 oz mocha with soy milk,7,g,0,mg,160,g,65,g,9,g,3,g,0,g,4,g,53,g
+337,grand traverse pie company,16 oz mocha with whole milk,12,g,40,mg,170,g,66,g,11,g,8,g,0,g,2,g,56,g
+338,grand traverse pie company,16 oz sugar free iced cappuccino with 2 milk,4,g,15,mg,95,g,9,g,6,g,2,g,0,g,0,g,9,g
+339,grand traverse pie company,16 oz sugar free iced cappuccino with skim,0,g,5,mg,95,g,10,g,6,g,0,g,0,g,0,g,9,g
+340,grand traverse pie company,16 oz sugar free iced cappuccino with soy,3,g,0,mg,80,g,8,g,5,g,0,g,0,g,1,g,6,g
+341,grand traverse pie company,16 oz sugar free iced cappuccino with whole,6,g,25,mg,90,g,9,g,6,g,4,g,0,g,0,g,8,g
+342,grand traverse pie company,20 inch special occasion abc crumb pie,18,g,0,mg,170,g,62,g,3,g,7,g,0,g,2,g,38,g
+343,grand traverse pie company,20 inch special occasion apple crumb pie,17,g,0,mg,280,g,64,g,2,g,7,g,0,g,1,g,42,g
+344,grand traverse pie company,20 inch special occasion cherry crumb pie,18,g,0,mg,170,g,60,g,3,g,7,g,0,g,2,g,35,g
+345,grand traverse pie company,20 oz cappuccino with 2 milk,8,g,35,mg,220,g,20,g,13,g,5,g,0,g,0,g,20,g
+346,grand traverse pie company,20 oz cappuccino with skim milk,0,g,10,mg,220,g,22,g,13,g,0,g,0,g,0,g,20,g
+347,grand traverse pie company,20 oz cappuccino with soy milk,6,g,0,mg,180,g,18,g,11,g,1,g,0,g,2,g,14,g
+348,grand traverse pie company,20 oz cappuccino with whole milk,13,g,60,mg,200,g,20,g,13,g,8,g,0,g,0,g,18,g
+349,grand traverse pie company,20 oz chai with 2 milk,10,g,45,mg,220,g,71,g,10,g,6,g,0,g,0,g,62,g
+350,grand traverse pie company,20 oz chai with skim milk,2,g,5,mg,230,g,69,g,10,g,2,g,0,g,0,g,61,g
+351,grand traverse pie company,20 oz chai with soy milk,6,g,0,mg,200,g,67,g,8,g,3,g,0,g,1,g,57,g
+352,grand traverse pie company,20 oz chai with whole milk,12,g,40,mg,210,g,68,g,10,g,8,g,0,g,0,g,60,g
+353,grand traverse pie company,20 oz coffee,3,g,0,mg,25,g,8,g,0,g,1,g,0,g,0,g,8,g
+354,grand traverse pie company,20 oz hot chocolate with 2 milk,13,g,40,mg,290,g,83,g,17,g,9,g,0,g,2,g,74,g
+355,grand traverse pie company,20 oz hot chocolate with skim milk,3,g,10,mg,290,g,85,g,17,g,3,g,0,g,2,g,74,g
+356,grand traverse pie company,20 oz iced cappuccino with 2,6,g,25,mg,160,g,19,g,10,g,4,g,0,g,0,g,19,g
+357,grand traverse pie company,20 oz iced cappuccino with soy,4,g,0,mg,125,g,18,g,8,g,1,g,0,g,1,g,15,g
+358,grand traverse pie company,20 oz iced cappuccino with whole milk,10,g,40,mg,140,g,19,g,10,g,6,g,0,g,0,g,18,g
+359,grand traverse pie company,20 oz latte with 2 milk,8,g,35,mg,220,g,20,g,13,g,5,g,0,g,0,g,20,g
+360,grand traverse pie company,20 oz latte with skim milk,0,g,10,mg,220,g,22,g,13,g,0,g,0,g,0,g,20,g
+361,grand traverse pie company,20 oz latte with soy milk,6,g,0,mg,180,g,18,g,11,g,1,g,0,g,2,g,14,g
+362,grand traverse pie company,20 oz latte with whole milk,13,g,60,mg,200,g,20,g,13,g,8,g,0,g,0,g,18,g
+363,grand traverse pie company,20 oz mocha with 2 milk,12,g,35,mg,260,g,93,g,15,g,8,g,0,g,3,g,80,g
+364,grand traverse pie company,20 oz mocha with skim milk,3,g,10,mg,260,g,94,g,15,g,3,g,0,g,3,g,80,g
+365,grand traverse pie company,20 oz mocha with soy milk,9,g,0,mg,220,g,90,g,13,g,4,g,0,g,5,g,74,g
+366,grand traverse pie company,20 oz mocha with whole milk,17,g,60,mg,240,g,93,g,15,g,11,g,0,g,3,g,78,g
+367,grand traverse pie company,20 oz sugar free iced cappuccino with 2,6,g,25,mg,160,g,15,g,10,g,4,g,0,g,0,g,14,g
+368,grand traverse pie company,20 oz sugar free iced cappuccino with skim,0,g,5,mg,160,g,16,g,10,g,0,g,0,g,0,g,14,g
+369,grand traverse pie company,20 oz sugar free iced cappuccino with soy,4,g,0,mg,130,g,13,g,8,g,1,g,0,g,1,g,10,g
+370,grand traverse pie company,20 oz sugar free iced cappuccino with whole,10,g,40,mg,150,g,15,g,10,g,6,g,0,g,0,g,13,g
+371,grand traverse pie company,8 inch special occasion apple crumb pie,38,g,0,mg,440,g,95,g,5,g,15,g,0,g,2,g,51,g
+372,grand traverse pie company,8 inch special occasion cherry crumb pie,38,g,0,mg,320,g,91,g,6,g,15,g,0,g,3,g,44,g
+373,grand traverse pie company,add baked chicken breasts,6,g,60,mg,630,g,0,g,22,g,1,g,0,g,0,g,0,g
+374,grand traverse pie company,add pumpkin bread,15,g,35,mg,210,g,61,g,6,g,1,g,0,g,7,g,37,g
+375,grand traverse pie company,add slice of baguette,3,g,0,mg,210,g,19,g,4,g,0,g,0,g,1,g,0,g
+376,grand traverse pie company,americano,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+377,grand traverse pie company,apple crumb pie,30,g,0,mg,410,g,97,g,4,g,13,g,0,g,2,g,60,g
+378,grand traverse pie company,apple crumb with pecans and caramel,36,g,0,mg,410,g,103,g,3,g,13,g,0,g,2,g,64,g
+379,grand traverse pie company,apple dumpling,43,g,5,mg,400,g,87,g,5,g,17,g,0,g,2,g,38,g
+380,grand traverse pie company,apple dumpling pie,28,g,5,mg,380,g,66,g,4,g,11,g,0,g,3,g,29,g
+381,grand traverse pie company,apple dumpling with caramel,28,g,0,mg,340,g,77,g,3,g,11,g,0,g,3,g,41,g
+382,grand traverse pie company,apple dumpling with pecans,47,g,5,mg,400,g,91,g,5,g,17,g,0,g,3,g,41,g
+383,grand traverse pie company,apple honey pie,28,g,5,mg,370,g,87,g,4,g,11,g,0,g,2,g,52,g
+384,grand traverse pie company,apple mountain top pie,20,g,0,mg,370,g,82,g,1,g,3,g,0,g,3,g,42,g
+385,grand traverse pie company,apple muffin,28,g,70,mg,530,g,97,g,6,g,6,g,0,g,2,g,59,g
+386,grand traverse pie company,apple pie,29,g,5,mg,430,g,80,g,4,g,11,g,0,g,2,g,45,g
+387,grand traverse pie company,apple turnover,38,g,0,mg,430,g,97,g,5,g,14,g,0,g,1,g,52,g
+388,grand traverse pie company,asparagus quiche lorraine slice,42,g,240,mg,680,g,28,g,21,g,19,g,0,g,1,g,5,g
+389,grand traverse pie company,au jus,0,g,0,mg,600,g,0,g,0,g,0,g,0,g,0,g,0,g
+390,grand traverse pie company,bacon lorraine quiche slice,50,g,305,mg,900,g,29,g,24,g,23,g,0,g,1,g,5,g
+391,grand traverse pie company,bacon topping choice,15,g,20,mg,590,g,0,g,8,g,6,g,0,g,0,g,0,g
+392,grand traverse pie company,bacon topping choice in combo,8,g,10,mg,300,g,0,g,4,g,3,g,0,g,0,g,0,g
+393,grand traverse pie company,bacon egg and cheese breakfast sandwich,64,g,495,mg,1540,g,68,g,37,g,18,g,0,g,6,g,1,g
+394,grand traverse pie company,baileys cheesecake,39,g,150,mg,410,g,45,g,8,g,21,g,0,g,1,g,28,g
+395,grand traverse pie company,baileys cream pie,34,g,70,mg,230,g,61,g,8,g,19,g,0,g,3,g,38,g
+396,grand traverse pie company,baked potato soup bowl,15,g,55,mg,790,g,35,g,11,g,9,g,0,g,3,g,7,g
+397,grand traverse pie company,baked potato soup cup,9,g,35,mg,470,g,21,g,6,g,5,g,0,g,2,g,4,g
+398,grand traverse pie company,balsamic vinaigrette,30,g,0,mg,660,g,6,g,0,g,5,g,0,g,0,g,5,g
+399,grand traverse pie company,banana cream pie,26,g,90,mg,260,g,62,g,7,g,14,g,0,g,2,g,32,g
+400,grand traverse pie company,banana fruit smoothie,0,g,0,mg,250,g,78,g,11,g,0,g,0,g,3,g,53,g
+401,grand traverse pie company,banana nut bread,20,g,45,mg,310,g,50,g,4,g,3,g,0,g,2,g,25,g
+402,grand traverse pie company,banana nut muffin,36,g,70,mg,510,g,86,g,7,g,6,g,0,g,3,g,44,g
+403,grand traverse pie company,base macaroni and cheese,36,g,75,mg,1840,g,51,g,23,g,18,g,1.5,g,3,g,8,g
+404,grand traverse pie company,bavarian cream turnover,46,g,0,mg,390,g,81,g,5,g,17,g,0,g,2,g,32,g
+405,grand traverse pie company,beef gravy,4,g,5,mg,340,g,6,g,0,g,1,g,0,g,1,g,0,g
+406,grand traverse pie company,beef pot pie,33,g,40,mg,600,g,43,g,16,g,13,g,0,g,2,g,2,g
+407,grand traverse pie company,bipartisan pie,38,g,0,mg,320,g,120,g,7,g,15,g,0,g,5,g,66,g
+408,grand traverse pie company,black bean corn relish topping choice,1,g,0,mg,90,g,9,g,2,g,0,g,0,g,2,g,2,g
+409,grand traverse pie company,black bean corn relish topping choice in combo,1,g,0,mg,45,g,5,g,1,g,0,g,0,g,1,g,1,g
+410,grand traverse pie company,black bean vegetable soup bowl,6,g,0,mg,1200,g,33,g,10,g,1,g,0,g,10,g,1,g
+411,grand traverse pie company,black bean vegetable soup cup,3,g,0,mg,710,g,20,g,6,g,0,g,0,g,6,g,1,g
+412,grand traverse pie company,blackberry peach crumb pie,30,g,0,mg,260,g,96,g,5,g,13,g,0,g,1,g,45,g
+413,grand traverse pie company,blackberry pie,29,g,5,mg,210,g,94,g,5,g,11,g,0,g,1,g,40,g
+414,grand traverse pie company,blueberry applesauce,0,g,0,mg,5,g,15,g,0,g,0,g,0,g,2,g,12,g
+415,grand traverse pie company,blueberry crumb pie,31,g,0,mg,270,g,95,g,4,g,13,g,0,g,4,g,56,g
+416,grand traverse pie company,blueberry lemon silk,43,g,50,mg,290,g,54,g,2,g,16,g,0,g,2,g,28,g
+417,grand traverse pie company,blueberry muffins,22,g,70,mg,450,g,66,g,5,g,3,g,0,g,2,g,37,g
+418,grand traverse pie company,blueberry peach pie,29,g,5,mg,210,g,84,g,5,g,11,g,0,g,2,g,36,g
+419,grand traverse pie company,blueberry pie,29,g,5,mg,210,g,77,g,4,g,11,g,0,g,4,g,40,g
+420,grand traverse pie company,blueberry turnover,38,g,0,mg,290,g,97,g,6,g,14,g,0,g,2,g,50,g
+421,grand traverse pie company,broccoli cheddar quiche slice,41,g,230,mg,490,g,29,g,17,g,19,g,0,g,2,g,5,g
+422,grand traverse pie company,brownie with fudge icing,49,g,145,mg,270,g,130,g,8,g,28,g,0,g,7,g,104,g
+423,grand traverse pie company,brownie with fudge icing and pecans,51,g,145,mg,270,g,130,g,8,g,28,g,0,g,7,g,104,g
+424,grand traverse pie company,brownie with powdered sugar,41,g,145,mg,220,g,109,g,10,g,25,g,0,g,6,g,85,g
+425,grand traverse pie company,butternut squash bisque bowl,22,g,50,mg,790,g,40,g,5,g,10,g,0,g,1,g,23,g
+426,grand traverse pie company,butternut squash bisque cup,13,g,30,mg,470,g,23,g,3,g,6,g,0,g,1,g,14,g
+427,grand traverse pie company,butterscotch cream pie,32,g,85,mg,280,g,65,g,8,g,20,g,0,g,1,g,45,g
+428,grand traverse pie company,butterscotch oatmeal cookies,21,g,30,mg,370,g,69,g,6,g,11,g,0,g,2,g,36,g
+429,grand traverse pie company,caesar salad without chicken,39,g,35,mg,900,g,16,g,2,g,7,g,0,g,4,g,3,g
+430,grand traverse pie company,caesar wrap without chicken,27,g,80,mg,1320,g,44,g,31,g,4.5,g,0,g,4,g,1,g
+431,grand traverse pie company,caramel pecan roll,17,g,15,mg,280,g,57,g,5,g,5,g,0,g,2,g,34,g
+432,grand traverse pie company,carolina pork sandwich,40,g,70,mg,3320,g,66,g,25,g,7,g,0,g,4,g,18,g
+433,grand traverse pie company,carrot cake slice,33,g,50,mg,470,g,98,g,6,g,7,g,0,g,4,g,70,g
+434,grand traverse pie company,cc topped cheesecake,50,g,165,mg,530,g,77,g,11,g,27,g,0,g,2,g,51,g
+435,grand traverse pie company,cheddar cheese topping choice,4,g,10,mg,75,g,0,g,3,g,2,g,0,g,0,g,0,g
+436,grand traverse pie company,cheddar cheese topping choice in combo,2,g,5,mg,40,g,0,g,2,g,1,g,0,g,0,g,0,g
+437,grand traverse pie company,cherry apple crumb pie,31,g,0,mg,320,g,97,g,4,g,13,g,0,g,2,g,59,g
+438,grand traverse pie company,cherry balsamic vinaigrette,28,g,0,mg,230,g,19,g,0,g,2,g,0,g,0,g,32,g
+439,grand traverse pie company,cherry berry pie,29,g,5,mg,220,g,80,g,5,g,11,g,0,g,2,g,35,g
+440,grand traverse pie company,cherry chicken salad,12,g,75,mg,940,g,46,g,29,g,4,g,0,g,3,g,23,g
+441,grand traverse pie company,cherry chicken wrap,12,g,75,mg,1070,g,55,g,33,g,4,g,0,g,11,g,13,g
+442,grand traverse pie company,cherry crumb pie,31,g,0,mg,280,g,92,g,5,g,13,g,0,g,3,g,53,g
+443,grand traverse pie company,cherry fruit smoothie,0,g,0,mg,270,g,65,g,12,g,0,g,0,g,1,g,30,g
+444,grand traverse pie company,cherry ganache pie,33,g,25,mg,190,g,75,g,5,g,16,g,0,g,3,g,45,g
+445,grand traverse pie company,cherry kale salad,21,g,240,mg,740,g,54,g,23,g,8,g,0,g,11,g,30,g
+446,grand traverse pie company,cherry oatmeal cookies,18,g,30,mg,370,g,71,g,5,g,8,g,0,g,3,g,35,g
+447,grand traverse pie company,cherry peach crumb pie,31,g,0,mg,270,g,94,g,5,g,13,g,0,g,2,g,48,g
+448,grand traverse pie company,cherry pecan bread,19,g,45,mg,300,g,45,g,4,g,3,g,0,g,1,g,25,g
+449,grand traverse pie company,cherry pecan muffin,36,g,70,mg,520,g,83,g,7,g,6,g,0,g,3,g,47,g
+450,grand traverse pie company,cherry pie,29,g,5,mg,230,g,80,g,5,g,11,g,0,g,2,g,38,g
+451,grand traverse pie company,cherry turnover,38,g,0,mg,300,g,92,g,6,g,14,g,0,g,2,g,44,g
+452,grand traverse pie company,cherrywood blt,55,g,40,mg,1620,g,71,g,21,g,12,g,0,g,3,g,1,g
+453,grand traverse pie company,chicken and rice soup bowl,5,g,15,mg,1800,g,23,g,6,g,1,g,0,g,1,g,4,g
+454,grand traverse pie company,chicken and rice soup cup,3,g,10,mg,1060,g,14,g,4,g,1,g,0,g,1,g,2,g
+455,grand traverse pie company,chicken caesar salad,9,g,65,mg,800,g,18,g,25,g,3,g,0,g,6,g,0,g
+456,grand traverse pie company,chicken caesar wrap,9,g,65,mg,910,g,38,g,29,g,2,g,0,g,12,g,0,g
+457,grand traverse pie company,chicken fiesta salad,23,g,90,mg,1470,g,34,g,36,g,7,g,0,g,7,g,6,g
+458,grand traverse pie company,chicken fiesta wrap,20,g,80,mg,1590,g,57,g,38,g,6,g,0,g,14,g,3,g
+459,grand traverse pie company,chicken focaccia,44,g,150,mg,2070,g,54,g,56,g,14,g,0.5,g,2,g,2,g
+460,grand traverse pie company,chicken parmesan,32,g,120,mg,3760,g,63,g,51,g,10,g,0,g,3,g,10,g
+461,grand traverse pie company,chicken pesto with roasted red pepper,24,g,90,mg,2140,g,53,g,37,g,5,g,0,g,3,g,2,g
+462,grand traverse pie company,chicken pot pie,32,g,40,mg,770,g,40,g,17,g,12,g,0,g,2,g,3,g
+463,grand traverse pie company,chicken quesadilla,51,g,195,mg,1970,g,64,g,58,g,23,g,0,g,14,g,5,g
+464,grand traverse pie company,chili topping choice,2,g,5,mg,160,g,5,g,3,g,1,g,0,g,1,g,2,g
+465,grand traverse pie company,chili topping choice in combo,1,g,5,mg,80,g,3,g,2,g,1,g,0,g,1,g,1,g
+466,grand traverse pie company,chili bowl,13,g,45,mg,1320,g,23,g,18,g,5,g,0,g,6,g,5,g
+467,grand traverse pie company,chili cup,8,g,25,mg,780,g,14,g,11,g,3,g,0,g,4,g,3,g
+468,grand traverse pie company,chipotle ranch,48,g,20,mg,620,g,4,g,0,g,8,g,0,g,0,g,4,g
+469,grand traverse pie company,chocolate cherry specialty smoothie,1,g,0,mg,400,g,113,g,17,g,0,g,0,g,2,g,104,g
+470,grand traverse pie company,chocolate chip cheesecake,44,g,155,mg,410,g,58,g,10,g,26,g,0,g,2,g,42,g
+471,grand traverse pie company,chocolate chip cookies,25,g,70,mg,320,g,72,g,5,g,15,g,0,g,3,g,44,g
+472,grand traverse pie company,chocolate chunk pecan cookie,32,g,65,mg,350,g,64,g,7,g,17,g,0,g,5,g,35,g
+473,grand traverse pie company,chocolate cream pie,34,g,85,mg,250,g,62,g,8,g,19,g,0,g,3,g,39,g
+474,grand traverse pie company,chocolate mint cream pie,34,g,85,mg,250,g,62,g,8,g,19,g,0,g,2,g,39,g
+475,grand traverse pie company,chocolate peppermint cheesecake,48,g,175,mg,420,g,54,g,9,g,26,g,0,g,2,g,35,g
+476,grand traverse pie company,chocolate stout pie,45,g,80,mg,135,g,56,g,4,g,26,g,0,g,3,g,33,g
+477,grand traverse pie company,choice of coffee syrup,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,5,g
+478,grand traverse pie company,choice of sugar free coffee syrup,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+479,grand traverse pie company,cinnamon roll with cream cheese icing,15,g,30,mg,330,g,124,g,4,g,9,g,0,g,10,g,100,g
+480,grand traverse pie company,cinnamon roll with maple icing,11,g,30,mg,280,g,121,g,4,g,7,g,0,g,1,g,98,g
+481,grand traverse pie company,clam chowder bowl,10,g,40,mg,1130,g,24,g,10,g,5,g,0,g,1,g,6,g
+482,grand traverse pie company,clam chowder cup,6,g,25,mg,670,g,14,g,6,g,3,g,0,g,1,g,4,g
+483,grand traverse pie company,classic turkey,26,g,70,mg,1820,g,71,g,32,g,4,g,0,g,3,g,3,g
+484,grand traverse pie company,cobb salad,34,g,190,mg,1080,g,14,g,33,g,13,g,0,g,6,g,5,g
+485,grand traverse pie company,coconut cream pie,31,g,85,mg,260,g,63,g,8,g,18,g,0,g,3,g,38,g
+486,grand traverse pie company,coleslaw,6,g,10,mg,150,g,13,g,1,g,1,g,0,g,1,g,11,g
+487,grand traverse pie company,creamy caesar dressing,37,g,30,mg,820,g,9,g,0,g,6,g,0,g,0,g,3,g
+488,grand traverse pie company,death by chocolate cake,39,g,75,mg,690,g,117,g,8,g,15,g,0,g,5,g,88,g
+489,grand traverse pie company,double chocolate muffin,33,g,65,mg,520,g,88,g,8,g,10,g,0,g,4,g,61,g
+490,grand traverse pie company,egg and cheese breakfast sandwich,56,g,380,mg,1240,g,66,g,31,g,15,g,0,g,6,g,1,g
+491,grand traverse pie company,egg salad sandwich,24,g,495,mg,1050,g,69,g,29,g,5,g,0,g,6,g,4,g
+492,grand traverse pie company,extreme peach smoothie,1,g,0,mg,35,g,98,g,0,g,0,g,0,g,2,g,93,g
+493,grand traverse pie company,fresh fruit cup,0,g,0,mg,25,g,18,g,1,g,0,g,0,g,2,g,16,g
+494,grand traverse pie company,fruit bar,29,g,0,mg,280,g,67,g,4,g,12,g,0,g,2,g,31,g
+495,grand traverse pie company,gluten free apple crumb pie,26,g,35,mg,210,g,41,g,1,g,12,g,0.5,g,2,g,31,g
+496,grand traverse pie company,gluten free apple muffin,10,g,40,mg,480,g,43,g,3,g,1,g,0,g,4,g,26,g
+497,grand traverse pie company,gluten free blueberry crumb pie,26,g,35,mg,110,g,22,g,1,g,12,g,0.5,g,1,g,15,g
+498,grand traverse pie company,gluten free brownie,27,g,90,mg,380,g,54,g,8,g,15,g,0,g,6,g,36,g
+499,grand traverse pie company,gluten free cherry pie,26,g,45,mg,110,g,45,g,2,g,12,g,0.5,g,2,g,35,g
+500,grand traverse pie company,gluten free chocolate cream pie,41,g,125,mg,250,g,64,g,8,g,23,g,0.5,g,3,g,50,g
+501,grand traverse pie company,gluten free cowboy cookie,18,g,35,mg,280,g,47,g,4,g,9,g,0,g,4,g,30,g
+502,grand traverse pie company,gluten free pumpkin pie,26,g,80,mg,360,g,49,g,6,g,12,g,0.5,g,3,g,40,g
+503,grand traverse pie company,goody bar,45,g,35,mg,320,g,110,g,12,g,25,g,0,g,6,g,82,g
+504,grand traverse pie company,great lakes potato chips,14,g,0,mg,190,g,24,g,3,g,2,g,0,g,2,g,1,g
+505,grand traverse pie company,greek salad,7,g,10,mg,1510,g,19,g,3,g,2,g,0,g,8,g,1,g
+506,grand traverse pie company,greek salad wrap,24,g,5,mg,1460,g,52,g,9,g,4.5,g,0,g,5,g,2,g
+507,grand traverse pie company,gt beef pasty,58,g,130,mg,1880,g,77,g,13,g,23,g,1,g,4,g,3,g
+508,grand traverse pie company,gt breakfast pasty,65,g,450,mg,2270,g,80,g,29,g,22,g,0,g,3,g,3,g
+509,grand traverse pie company,gt buffalo chicken pasty,45,g,120,mg,2780,g,74,g,28,g,12,g,0,g,2,g,3,g
+510,grand traverse pie company,gt chicken salad sandwich,42,g,95,mg,1120,g,45,g,31,g,10,g,0,g,1,g,12,g
+511,grand traverse pie company,gt club,38,g,100,mg,2170,g,73,g,43,g,10,g,0,g,3,g,3,g
+512,grand traverse pie company,gt grilled cheese,54,g,90,mg,1790,g,68,g,35,g,22,g,0,g,2,g,0,g
+513,grand traverse pie company,ham and cheese scramble wrap,24,g,360,mg,830,g,32,g,25,g,10,g,0,g,1,g,2,g
+514,grand traverse pie company,ham egg and cheese breakfast sandwich,59,g,400,mg,1750,g,66,g,38,g,16,g,0,g,6,g,1,g
+515,grand traverse pie company,honey mustard dressing,35,g,40,mg,560,g,15,g,1,g,6,g,0,g,1,g,13,g
+516,grand traverse pie company,honey mustard vinaigrette,32,g,20,mg,520,g,19,g,0,g,5,g,0,g,0,g,18,g
+517,grand traverse pie company,house made berry cherry vinaigrette,15,g,0,mg,450,g,19,g,0,g,2,g,0,g,0,g,18,g
+518,grand traverse pie company,house salad,7,g,20,mg,320,g,13,g,8,g,4,g,0,g,2,g,2,g
+519,grand traverse pie company,house salad wrap,8,g,20,mg,510,g,40,g,13,g,4,g,0,g,11,g,2,g
+520,grand traverse pie company,housemade ranch dressing,11,g,10,mg,115,g,1,g,1,g,2.5,g,0,g,0,g,1,g
+521,grand traverse pie company,italian,77,g,85,mg,1690,g,7,g,20,g,16,g,0.5,g,3,g,1,g
+522,grand traverse pie company,italian salad,40,g,130,mg,2440,g,16,g,41,g,18,g,0.5,g,6,g,6,g
+523,grand traverse pie company,key lime cheesecake,36,g,265,mg,360,g,56,g,11,g,20,g,0,g,1,g,43,g
+524,grand traverse pie company,key lime pie,18,g,170,mg,250,g,66,g,10,g,11,g,0,g,0,g,56,g
+525,grand traverse pie company,kids cheese quesadilla,24,g,65,mg,680,g,36,g,24,g,12,g,0,g,10,g,0,g
+526,grand traverse pie company,kids grilled cheese,27,g,35,mg,930,g,65,g,20,g,9,g,0,g,6,g,0,g
+527,grand traverse pie company,kids mac and cheese,25,g,55,mg,1330,g,38,g,17,g,12,g,0,g,1,g,5,g
+528,grand traverse pie company,kids pb and j,18,g,0,mg,800,g,85,g,21,g,4,g,0,g,8,g,15,g
+529,grand traverse pie company,lakeshore berry,29,g,5,mg,250,g,88,g,4,g,11,g,0,g,2,g,46,g
+530,grand traverse pie company,lakeshore berry crumb,31,g,0,mg,300,g,95,g,4,g,13,g,0,g,2,g,55,g
+531,grand traverse pie company,lemon bar,28,g,130,mg,440,g,426,g,8,g,12,g,0,g,1,g,95,g
+532,grand traverse pie company,lemon meringue pie,16,g,110,mg,160,g,93,g,4,g,7,g,0,g,2,g,63,g
+533,grand traverse pie company,lemon poppy seed bread,14,g,45,mg,280,g,41,g,3,g,2,g,0,g,1,g,24,g
+534,grand traverse pie company,lemon poppy seed muffin,22,g,70,mg,450,g,64,g,5,g,3,g,0,g,1,g,37,g
+535,grand traverse pie company,lighthouse turkey cheddar,48,g,105,mg,1990,g,69,g,40,g,12,g,0,g,7,g,2,g
+536,grand traverse pie company,lobster bisque bowl,37,g,155,mg,1430,g,24,g,14,g,23,g,0,g,0,g,10,g
+537,grand traverse pie company,lobster bisque cup,22,g,90,mg,840,g,14,g,8,g,14,g,0,g,0,g,6,g
+538,grand traverse pie company,mandarin orange passion smoothie,1,g,0,mg,125,g,118,g,0,g,0,g,0,g,0,g,106,g
+539,grand traverse pie company,mango mania smoothie,1,g,0,mg,45,g,104,g,0,g,0,g,0,g,0,g,89,g
+540,grand traverse pie company,manitou,53,g,95,mg,2190,g,69,g,40,g,14,g,0,g,7,g,1,g
+541,grand traverse pie company,maurice salad,13,g,190,mg,1340,g,18,g,33,g,7,g,0,g,3,g,14,g
+542,grand traverse pie company,maurice wrap,12,g,160,mg,790,g,11,g,22,g,6,g,0,g,1,g,10,g
+543,grand traverse pie company,mediterranean feta dressing,31,g,0,mg,1160,g,3,g,3,g,6,g,0,g,0,g,0,g
+544,grand traverse pie company,mediterranean quiche slice,42,g,295,mg,960,g,33,g,19,g,20,g,0,g,2,g,5,g
+545,grand traverse pie company,mediterranean veggie,15,g,10,mg,1090,g,77,g,17,g,3,g,0,g,6,g,4,g
+546,grand traverse pie company,michigan abc crumb pie,32,g,0,mg,300,g,94,g,5,g,13,g,0,g,3,g,54,g
+547,grand traverse pie company,michigan abc pie,30,g,5,mg,250,g,85,g,5,g,12,g,0,g,3,g,43,g
+548,grand traverse pie company,michigan fall salad,32,g,35,mg,860,g,78,g,18,g,7,g,0,g,9,g,15,g
+549,grand traverse pie company,mini apple crumb pie,40,g,0,mg,540,g,128,g,5,g,17,g,0,g,3,g,79,g
+550,grand traverse pie company,mini apple crumb withpecans and caramel,49,g,0,mg,570,g,140,g,4,g,17,g,0,g,3,g,86,g
+551,grand traverse pie company,mini apple honey pie,39,g,5,mg,510,g,104,g,6,g,15,g,0,g,2,g,57,g
+552,grand traverse pie company,mini apple mountain top,8,g,0,mg,610,g,125,g,2,g,5,g,0,g,5,g,59,g
+553,grand traverse pie company,mini apple pie,41,g,5,mg,530,g,97,g,6,g,15,g,0,g,2,g,48,g
+554,grand traverse pie company,mini baileys cream pie,44,g,80,mg,280,g,74,g,10,g,25,g,0,g,3,g,43,g
+555,grand traverse pie company,mini banana cream pie,33,g,75,mg,270,g,65,g,7,g,18,g,0,g,2,g,30,g
+556,grand traverse pie company,mini beef pot pie,44,g,35,mg,730,g,62,g,18,g,16,g,0,g,3,g,1,g
+557,grand traverse pie company,mini bipartisan pie,36,g,0,mg,310,g,128,g,8,g,14,g,0,g,5,g,74,g
+558,grand traverse pie company,mini blackberry peach crumb pie,40,g,0,mg,350,g,127,g,7,g,17,g,0,g,2,g,59,g
+559,grand traverse pie company,mini blackberry pie,41,g,5,mg,300,g,114,g,8,g,15,g,0,g,1,g,40,g
+560,grand traverse pie company,mini blueberry crumb pie,41,g,0,mg,350,g,127,g,6,g,17,g,0,g,5,g,75,g
+561,grand traverse pie company,mini blueberry lemon silk,36,g,50,mg,380,g,63,g,2,g,16,g,0,g,2,g,28,g
+562,grand traverse pie company,mini blueberry peach pie,41,g,5,mg,300,g,108,g,7,g,15,g,0,g,3,g,44,g
+563,grand traverse pie company,mini blueberry pie,41,g,5,mg,300,g,96,g,6,g,15,g,0,g,5,g,43,g
+564,grand traverse pie company,mini broccoli cheddar quiche,36,g,190,mg,420,g,25,g,15,g,16,g,0,g,1,g,4,g
+565,grand traverse pie company,mini butterscotch cream pie,41,g,90,mg,330,g,77,g,10,g,25,g,0,g,1,g,51,g
+566,grand traverse pie company,mini cherry apple crumb pie,41,g,0,mg,420,g,127,g,6,g,17,g,0,g,3,g,77,g
+567,grand traverse pie company,mini cherry berry pie,41,g,5,mg,310,g,106,g,7,g,15,g,0,g,2,g,42,g
+568,grand traverse pie company,mini cherry crumb pie,41,g,0,mg,370,g,121,g,7,g,17,g,0,g,3,g,68,g
+569,grand traverse pie company,mini cherry ganache pie,45,g,25,mg,300,g,110,g,7,g,21,g,0,g,4,g,64,g
+570,grand traverse pie company,mini cherry peach crumb pie,41,g,0,mg,360,g,123,g,7,g,17,g,0,g,2,g,63,g
+571,grand traverse pie company,mini cherry pie,41,g,5,mg,320,g,104,g,8,g,15,g,0,g,3,g,46,g
+572,grand traverse pie company,mini chicken pot pie,43,g,35,mg,880,g,59,g,19,g,16,g,0,g,3,g,3,g
+573,grand traverse pie company,mini chocolate cream pie,24,g,105,mg,170,g,50,g,8,g,17,g,0.5,g,2,g,42,g
+574,grand traverse pie company,mini chocolate mint cream pie,43,g,90,mg,300,g,73,g,10,g,24,g,0,g,3,g,44,g
+575,grand traverse pie company,mini chocolate stout pie,49,g,80,mg,160,g,55,g,4,g,27,g,0,g,3,g,28,g
+576,grand traverse pie company,mini coconut cream pie,40,g,90,mg,300,g,75,g,9,g,24,g,0,g,4,g,44,g
+577,grand traverse pie company,mini gluten free apple crumb,26,g,35,mg,230,g,65,g,4,g,12,g,0,g,5,g,34,g
+578,grand traverse pie company,mini gluten free blueberry crumb pie,26,g,35,mg,105,g,42,g,2,g,12,g,0.5,g,3,g,30,g
+579,grand traverse pie company,mini gluten free cherry crumb pie,26,g,35,mg,115,g,64,g,5,g,12,g,0,g,5,g,34,g
+580,grand traverse pie company,mini gluten free chocolate cream pie,37,g,95,mg,190,g,52,g,7,g,20,g,0.5,g,3,g,40,g
+581,grand traverse pie company,mini gluten free pumpkin pie,25,g,65,mg,280,g,40,g,4,g,11,g,0.5,g,3,g,32,g
+582,grand traverse pie company,mini key lime pie,31,g,170,mg,250,g,70,g,11,g,15,g,0,g,1,g,49,g
+583,grand traverse pie company,mini lakeshore berry crumb pie,41,g,0,mg,390,g,125,g,6,g,17,g,0,g,3,g,72,g
+584,grand traverse pie company,mini lakeshore berry pie,41,g,5,mg,340,g,94,g,6,g,15,g,0,g,2,g,41,g
+585,grand traverse pie company,mini lemon meringue pie,23,g,110,mg,200,g,100,g,4,g,9,g,0,g,2,g,63,g
+586,grand traverse pie company,mini michigan abc crumb pie,45,g,0,mg,420,g,129,g,7,g,18,g,0,g,4,g,72,g
+587,grand traverse pie company,mini michigan abc pie,45,g,5,mg,370,g,113,g,7,g,17,g,0,g,4,g,53,g
+588,grand traverse pie company,mini mocha cream pie,42,g,85,mg,290,g,72,g,10,g,24,g,0,g,3,g,42,g
+589,grand traverse pie company,mini mountain berry crumb pie,34,g,0,mg,280,g,123,g,7,g,13,g,0,g,4,g,65,g
+590,grand traverse pie company,mini natural apple pie,41,g,5,mg,390,g,71,g,6,g,15,g,0,g,2,g,21,g
+591,grand traverse pie company,mini natural cherry pie,41,g,5,mg,320,g,63,g,7,g,15,g,0,g,3,g,15,g
+592,grand traverse pie company,mini oreo pie,43,g,110,mg,380,g,76,g,9,g,21,g,0,g,2,g,37,g
+593,grand traverse pie company,mini peach crumb pie,40,g,0,mg,350,g,129,g,7,g,17,g,0,g,2,g,63,g
+594,grand traverse pie company,mini peach pie,41,g,5,mg,300,g,98,g,7,g,15,g,0,g,1,g,32,g
+595,grand traverse pie company,mini peach raspberry honey pie,40,g,5,mg,290,g,113,g,7,g,15,g,0,g,4,g,55,g
+596,grand traverse pie company,mini peach strawberry pie,41,g,5,mg,300,g,85,g,7,g,15,g,0,g,3,g,29,g
+597,grand traverse pie company,mini peanut butter cream pie,46,g,90,mg,400,g,65,g,14,g,21,g,0,g,2,g,36,g
+598,grand traverse pie company,mini pecan chocolate pie,44,g,105,mg,240,g,86,g,8,g,16,g,0,g,3,g,47,g
+599,grand traverse pie company,mini pecan pie,48,g,135,mg,270,g,96,g,8,g,15,g,0,g,2,g,55,g
+600,grand traverse pie company,mini pumpkin cream pie,33,g,75,mg,270,g,56,g,8,g,18,g,0,g,2,g,30,g
+601,grand traverse pie company,mini pumpkin pecan pie,28,g,50,mg,400,g,90,g,15,g,10,g,0,g,21,g,48,g
+602,grand traverse pie company,mini pumpkin pie,24,g,50,mg,400,g,86,g,14,g,9,g,0,g,20,g,45,g
+603,grand traverse pie company,mini quiche lorraine,37,g,200,mg,590,g,25,g,19,g,17,g,0,g,1,g,3,g
+604,grand traverse pie company,mini raspberry apple crumb pie,41,g,0,mg,410,g,129,g,6,g,17,g,0,g,2,g,74,g
+605,grand traverse pie company,mini raspberry lemon silk pie,32,g,50,mg,170,g,48,g,3,g,19,g,0,g,1,g,26,g
+606,grand traverse pie company,mini raspberry pie,42,g,5,mg,300,g,112,g,7,g,15,g,0,g,1,g,40,g
+607,grand traverse pie company,mini rhubarb pie,41,g,5,mg,300,g,99,g,8,g,15,g,0,g,1,g,40,g
+608,grand traverse pie company,mini sausage pepper quiche,45,g,210,mg,650,g,25,g,18,g,19,g,0,g,1,g,3,g
+609,grand traverse pie company,mini shepherds pot pie,50,g,20,mg,1170,g,70,g,12,g,19,g,0,g,6,g,2,g
+610,grand traverse pie company,mini spinach bacon quiche,37,g,200,mg,1790,g,25,g,16,g,16,g,0,g,1,g,3,g
+611,grand traverse pie company,mini spinach mushroom quiche,36,g,190,mg,380,g,25,g,16,g,17,g,0,g,1,g,4,g
+612,grand traverse pie company,mini splenda apple pie,41,g,5,mg,530,g,63,g,6,g,15,g,0,g,2,g,15,g
+613,grand traverse pie company,mini splenda blueberry,28,g,5,mg,200,g,43,g,4,g,10,g,0,g,3,g,8,g
+614,grand traverse pie company,mini splenda cherry pie,41,g,5,mg,320,g,64,g,8,g,15,g,0,g,3,g,12,g
+615,grand traverse pie company,mini strawberry cream pie,34,g,85,mg,290,g,61,g,8,g,18,g,0,g,1,g,34,g
+616,grand traverse pie company,mini strawberry rhubarb crumb pie,41,g,0,mg,350,g,112,g,7,g,17,g,0,g,3,g,61,g
+617,grand traverse pie company,mini strawberry rhubarb pie,41,g,5,mg,300,g,96,g,7,g,15,g,0,g,3,g,42,g
+618,grand traverse pie company,mini taco pot pie,50,g,35,mg,950,g,51,g,17,g,19,g,0,g,2,g,0,g
+619,grand traverse pie company,mini turkey and corn bread stuffing pot pie,21,g,20,mg,980,g,45,g,15,g,8,g,0,g,3,g,5,g
+620,grand traverse pie company,mini vernors cherry pie,39,g,5,mg,310,g,83,g,7,g,15,g,0,g,3,g,30,g
+621,grand traverse pie company,mixed berry smoothie,0,g,0,mg,120,g,44,g,2,g,0,g,0,g,0,g,39,g
+622,grand traverse pie company,mocha cream pie,33,g,85,mg,250,g,62,g,8,g,19,g,0,g,3,g,39,g
+623,grand traverse pie company,mocha specialty smoothie,0,g,0,mg,390,g,104,g,16,g,0,g,0,g,1,g,96,g
+624,grand traverse pie company,mountain berry crumb pie,27,g,0,mg,220,g,98,g,5,g,11,g,0,g,3,g,53,g
+625,grand traverse pie company,natural apple pie,29,g,5,mg,280,g,52,g,4,g,11,g,0,g,2,g,17,g
+626,grand traverse pie company,natural cherry pie,29,g,5,mg,230,g,46,g,5,g,11,g,0,g,2,g,11,g
+627,grand traverse pie company,oreo cheesecake,45,g,155,mg,520,g,61,g,9,g,22,g,0,g,2,g,29,g
+628,grand traverse pie company,oreo pie,38,g,110,mg,340,g,70,g,8,g,19,g,0,g,2,g,37,g
+629,grand traverse pie company,peach crumb pie,30,g,0,mg,260,g,98,g,5,g,13,g,0,g,1,g,48,g
+630,grand traverse pie company,peach fruit smoothie,0,g,0,mg,250,g,70,g,12,g,0,g,0,g,0,g,53,g
+631,grand traverse pie company,peach pie,29,g,5,mg,210,g,82,g,5,g,11,g,0,g,1,g,33,g
+632,grand traverse pie company,peach raspberry honey pie,28,g,0,mg,200,g,86,g,5,g,10,g,0,g,1,g,41,g
+633,grand traverse pie company,peach strawberry pie,29,g,5,mg,210,g,80,g,5,g,11,g,0,g,2,g,35,g
+634,grand traverse pie company,peach turnover,38,g,0,mg,290,g,96,g,6,g,14,g,0,g,1,g,42,g
+635,grand traverse pie company,peanut butter bar,62,g,0,mg,540,g,146,g,27,g,19,g,0,g,10,g,103,g
+636,grand traverse pie company,peanut butter chocolate chip cookie,29,g,25,mg,410,g,64,g,9,g,10,g,0,g,3,g,42,g
+637,grand traverse pie company,peanut butter cookie,28,g,25,mg,460,g,60,g,9,g,9,g,0,g,2,g,38,g
+638,grand traverse pie company,peanut butter cream pie,39,g,85,mg,360,g,55,g,13,g,17,g,0,g,2,g,32,g
+639,grand traverse pie company,peanut butter cup,51,g,30,mg,580,g,92,g,13,g,15,g,0,g,6,g,64,g
+640,grand traverse pie company,pecan chocolate pie,40,g,120,mg,220,g,89,g,7,g,15,g,0,g,3,g,54,g
+641,grand traverse pie company,pecan pie,35,g,105,mg,210,g,74,g,6,g,11,g,0,g,2,g,43,g
+642,grand traverse pie company,pesto bacon quiche,51,g,300,mg,890,g,30,g,23,g,22,g,0,g,1,g,5,g
+643,grand traverse pie company,pesto mayo dressing,21,g,15,mg,180,g,1,g,1,g,4,g,0,g,0,g,1,g
+644,grand traverse pie company,pesto topping choice,2,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+645,grand traverse pie company,pesto topping choice in combo,1,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+646,grand traverse pie company,pie shake,42,g,100,mg,340,g,101,g,13,g,21,g,0,g,1,g,70,g
+647,grand traverse pie company,pie swirls,9,g,5,mg,75,g,11,g,1,g,4,g,0,g,0,g,3,g
+648,grand traverse pie company,pie topped cheesecake,50,g,165,mg,530,g,78,g,11,g,27,g,0,g,2,g,51,g
+649,grand traverse pie company,pina colada smoothie,4,g,0,mg,35,g,108,g,0,g,0,g,0,g,2,g,96,g
+650,grand traverse pie company,plain cheesecake,40,g,165,mg,430,g,45,g,9,g,23,g,0,g,1,g,31,g
+651,grand traverse pie company,pomegranate blueberry smoothie,1,g,0,mg,45,g,110,g,0,g,0,g,0,g,0,g,98,g
+652,grand traverse pie company,pumpkin bar,28,g,55,mg,440,g,83,g,4,g,6,g,0,g,2,g,62,g
+653,grand traverse pie company,pumpkin bread,15,g,35,mg,210,g,61,g,6,g,1,g,0,g,7,g,37,g
+654,grand traverse pie company,pumpkin cheesecake,32,g,125,mg,400,g,56,g,10,g,18,g,0,g,7,g,38,g
+655,grand traverse pie company,pumpkin cream cheese muffin,28,g,75,mg,370,g,96,g,9,g,6,g,0,g,10,g,62,g
+656,grand traverse pie company,pumpkin cream pie,25,g,75,mg,230,g,48,g,7,g,14,g,0,g,2,g,27,g
+657,grand traverse pie company,pumpkin dressing,9,g,10,mg,170,g,2,g,0,g,2,g,0,g,0,g,2,g
+658,grand traverse pie company,pumpkin muffin,21,g,50,mg,310,g,88,g,8,g,2,g,0,g,10,g,53,g
+659,grand traverse pie company,pumpkin pecan muffin,25,g,50,mg,310,g,91,g,9,g,2,g,0,g,10,g,56,g
+660,grand traverse pie company,pumpkin pecan pie,21,g,40,mg,330,g,75,g,12,g,7,g,0,g,18,g,42,g
+661,grand traverse pie company,pumpkin pie,19,g,40,mg,340,g,75,g,12,g,7,g,0,g,18,g,42,g
+662,grand traverse pie company,quiche lorraine slice,42,g,245,mg,680,g,28,g,22,g,20,g,0,g,1,g,5,g
+663,grand traverse pie company,quinoa almond wrap,17,g,0,mg,960,g,72,g,15,g,1,g,0,g,18,g,16,g
+664,grand traverse pie company,raspberry apple crumb pie,31,g,0,mg,320,g,97,g,4,g,13,g,0,g,2,g,57,g
+665,grand traverse pie company,raspberry cream pie,26,g,70,mg,220,g,62,g,6,g,14,g,0,g,1,g,37,g
+666,grand traverse pie company,raspberry fruit smoothie,1,g,0,mg,250,g,64,g,11,g,0,g,0,g,0,g,53,g
+667,grand traverse pie company,raspberry key lime pie,18,g,245,mg,200,g,62,g,8,g,11,g,0,g,0,g,45,g
+668,grand traverse pie company,raspberry lemon silk pie,32,g,50,mg,170,g,48,g,3,g,19,g,0,g,1,g,26,g
+669,grand traverse pie company,raspberry muffin,22,g,70,mg,450,g,65,g,5,g,3,g,0,g,1,g,34,g
+670,grand traverse pie company,raspberry pie,30,g,5,mg,210,g,92,g,5,g,11,g,0,g,1,g,40,g
+671,grand traverse pie company,raspberry turnover,38,g,0,mg,290,g,93,g,6,g,14,g,0,g,1,g,42,g
+672,grand traverse pie company,raspberry vinaigrette dressing,26,g,0,mg,730,g,22,g,0,g,4,g,0,g,0,g,21,g
+673,grand traverse pie company,reuben,38,g,85,mg,2260,g,60,g,37,g,10,g,0,g,2,g,9,g
+674,grand traverse pie company,rhubarb pie,29,g,5,mg,210,g,84,g,5,g,11,g,0,g,1,g,40,g
+675,grand traverse pie company,rice krispy treat,18,g,50,mg,470,g,93,g,5,g,11,g,0,g,0,g,38,g
+676,grand traverse pie company,roasted squash and kale quiche slice,42,g,285,mg,500,g,41,g,19,g,19,g,0,g,3,g,6,g
+677,grand traverse pie company,sausage and red pepper scramble wrap,34,g,485,mg,1100,g,36,g,27,g,14,g,0,g,1,g,2,g
+678,grand traverse pie company,shepherds pot pie,23,g,15,mg,720,g,30,g,6,g,9,g,0,g,4,g,2,g
+679,grand traverse pie company,shrimp and corn chowder bowl,17,g,75,mg,960,g,31,g,10,g,6,g,0,g,3,g,9,g
+680,grand traverse pie company,shrimp and corn chowder cup,10,g,45,mg,560,g,18,g,6,g,4,g,0,g,2,g,5,g
+681,grand traverse pie company,shrimp asparagus quiche slice,40,g,270,mg,950,g,30,g,22,g,19,g,0,g,2,g,5,g
+682,grand traverse pie company,smoked ham and havarti,23,g,70,mg,2140,g,63,g,32,g,9,g,0,g,3,g,2,g
+683,grand traverse pie company,spinach bacon quiche slice,46,g,295,mg,830,g,29,g,22,g,21,g,0,g,2,g,4,g
+684,grand traverse pie company,spinach mushroom quiche slice,45,g,245,mg,570,g,29,g,22,g,22,g,0,g,1,g,5,g
+685,grand traverse pie company,spinach salad with goat cheese,13,g,25,mg,190,g,20,g,5,g,4,g,0,g,5,g,10,g
+686,grand traverse pie company,spinach with goat cheese wrap,15,g,25,mg,400,g,52,g,12,g,4,g,0,g,14,g,10,g
+687,grand traverse pie company,splenda apple,29,g,5,mg,430,g,46,g,4,g,11,g,0,g,2,g,12,g
+688,grand traverse pie company,splenda blueberry pie,29,g,5,mg,210,g,46,g,4,g,11,g,0,g,4,g,8,g
+689,grand traverse pie company,splenda cherry pie,29,g,5,mg,230,g,46,g,5,g,11,g,0,g,2,g,9,g
+690,grand traverse pie company,sriracha topping choice,0,g,0,mg,125,g,1,g,0,g,0,g,0,g,0,g,1,g
+691,grand traverse pie company,sriracha topping choice in combo,0,g,0,mg,65,g,1,g,0,g,0,g,0,g,0,g,1,g
+692,grand traverse pie company,strawberry banana fruit smoothie,0,g,0,mg,370,g,95,g,16,g,0,g,0,g,2,g,87,g
+693,grand traverse pie company,strawberry banana smoothie,0,g,0,mg,120,g,47,g,2,g,0,g,0,g,0,g,40,g
+694,grand traverse pie company,strawberry bomb smoothie,0,g,0,mg,30,g,101,g,0,g,0,g,0,g,0,g,75,g
+695,grand traverse pie company,strawberry cream pie,25,g,70,mg,230,g,48,g,6,g,13,g,0,g,1,g,8,g
+696,grand traverse pie company,strawberry fields salad,11,g,10,mg,130,g,29,g,5,g,2,g,0,g,4,g,20,g
+697,grand traverse pie company,strawberry fields salad wrap,13,g,10,mg,370,g,61,g,11,g,2,g,0,g,13,g,20,g
+698,grand traverse pie company,strawberry fruit smoothie,0,g,0,mg,250,g,55,g,11,g,0,g,0,g,1,g,54,g
+699,grand traverse pie company,strawberry rhubarb crumb pie,30,g,0,mg,260,g,84,g,5,g,13,g,0,g,2,g,47,g
+700,grand traverse pie company,strawberry rhubarb pie,29,g,5,mg,210,g,74,g,5,g,11,g,0,g,2,g,35,g
+701,grand traverse pie company,sugar cookie no frosting,29,g,20,mg,250,g,54,g,4,g,7,g,0,g,1,g,23,g
+702,grand traverse pie company,sweet potato pie with pecan topping,31,g,65,mg,300,g,91,g,5,g,12,g,0,g,2,g,69,g
+703,grand traverse pie company,swiss cheese topping choice,4,g,10,mg,25,g,0,g,3,g,2,g,0,g,0,g,0,g
+704,grand traverse pie company,swiss cheese topping choice in combo,2,g,5,mg,15,g,0,g,2,g,1,g,0,g,0,g,0,g
+705,grand traverse pie company,taco pot pie,39,g,35,mg,880,g,40,g,15,g,16,g,0,g,2,g,0,g
+706,grand traverse pie company,thousand island dressing,42,g,40,mg,700,g,12,g,0,g,6,g,0,g,0,g,12,g
+707,grand traverse pie company,tomato basil bisque bowl,31,g,105,mg,1250,g,19,g,6,g,20,g,0,g,4,g,12,g
+708,grand traverse pie company,tomato basil bisque cup,19,g,65,mg,740,g,12,g,4,g,12,g,0,g,2,g,7,g
+709,grand traverse pie company,tomato topping choice,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+710,grand traverse pie company,tomato topping choice in combo,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+711,grand traverse pie company,tuna sandwich,25,g,55,mg,1180,g,69,g,38,g,4,g,0,g,7,g,2,g
+712,grand traverse pie company,turkey reuben with coleslaw,37,g,85,mg,1890,g,71,g,35,g,9,g,0,g,3,g,19,g
+713,grand traverse pie company,turkey with cherrywood smoked bacon,8,g,65,mg,2430,g,54,g,32,g,3,g,0,g,2,g,4,g
+714,grand traverse pie company,turkey bacon and avocado,32,g,80,mg,2230,g,54,g,33,g,6,g,0,g,5,g,6,g
+715,grand traverse pie company,turtle bar,46,g,110,mg,950,g,123,g,11,g,18,g,0,g,2,g,81,g
+716,grand traverse pie company,turtle cheesecake,47,g,165,mg,450,g,62,g,10,g,24,g,0,g,2,g,44,g
+717,grand traverse pie company,ultimate chocolate cheesecake,48,g,155,mg,400,g,55,g,9,g,26,g,0,g,3,g,35,g
+718,grand traverse pie company,vernors cherry pie,38,g,0,mg,270,g,129,g,10,g,14,g,0,g,3,g,39,g
+719,grand traverse pie company,very cherry smoothie,1,g,0,mg,30,g,88,g,0,g,0,g,0,g,0,g,69,g
+720,grand traverse pie company,white chili bowl,6,g,20,mg,1830,g,32,g,17,g,1,g,0,g,9,g,4,g
+721,grand traverse pie company,white chili cup,3,g,10,mg,1080,g,19,g,10,g,0,g,0,g,5,g,2,g
+722,grand traverse pie company,white chocolate macadamia nut cookie,25,g,55,mg,340,g,60,g,6,g,15,g,0,g,1,g,40,g
+723,grand traverse pie company,whole grain oatmeal,9,g,5,mg,260,g,38,g,6,g,1,g,0,g,5,g,9,g
+724,grand traverse pie company,wild berry smoothie,1,g,0,mg,45,g,100,g,0,g,0,g,0,g,0,g,92,g
+725,grand traverse pie company,yogurt parfait with granola,3,g,10,mg,115,g,42,g,9,g,2,g,0,g,2,g,34,g
+726,grandys,apple pie bites,26,g,0,mg,430,g,56,g,5,g,5,g,3.5,g,5,g,26,g
+727,grandys,b e t sandwich,63,g,220,mg,1170,g,43,g,24,g,13,g,0.5,g,1,g,10,g
+728,grandys,baked beans large,23,g,20,mg,3040,g,119,g,16,g,6,g,0,g,13,g,68,g
+729,grandys,baked beans small,4.5,g,5,mg,570,g,22,g,3,g,1,g,0,g,2,g,13,g
+730,grandys,biscuit sandwich bacon,36,g,10,mg,1320,g,35,g,9,g,13,g,1.5,g,3,g,3,g
+731,grandys,biscuit sandwich bacon with cheese,44,g,35,mg,1800,g,37,g,14,g,18,g,1.5,g,0,g,4,g
+732,grandys,biscuit sandwich fried egg,40,g,200,mg,1320,g,36,g,13,g,15,g,1.5,g,0,g,4,g
+733,grandys,biscuit sandwich sausage,48,g,50,mg,1410,g,35,g,15,g,18,g,1.5,g,0,g,3,g
+734,grandys,biscuit sandwich sausage with cheese,56,g,75,mg,1890,g,37,g,20,g,23,g,1.5,g,0,g,4,g
+735,grandys,biscuit sandwich steak,48,g,30,mg,1510,g,44,g,14,g,16,g,4,g,0,g,3,g
+736,grandys,biscuit sandwich steak with cheese,56,g,55,mg,1990,g,46,g,19,g,21,g,4,g,0,g,4,g
+737,grandys,biscuits and gravy 1 biscuit,32,g,5,mg,1250,g,39,g,6,g,12,g,2.5,g,0,g,4,g
+738,grandys,biscuits and gravy 2 biscuits,63,g,10,mg,2490,g,78,g,12,g,23,g,5,g,2,g,8,g
+739,grandys,breakfast buffet bacon,4.5,g,5,mg,150,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+740,grandys,breakfast buffet biscuit,27,g,0,mg,1020,g,35,g,5,g,10,g,1.5,g,0,g,3,g
+741,grandys,breakfast buffet cheese shredded,5,g,0,mg,260,g,2,g,3,g,1,g,1.5,g,0,g,0,g
+742,grandys,breakfast buffet donut rounds,3.5,g,5,mg,40,g,10,g,1,g,0.5,g,0.5,g,0,g,7,g
+743,grandys,breakfast buffet eggs scrambled,14,g,290,mg,250,g,1,g,10,g,3.5,g,1,g,0,g,0,g
+744,grandys,breakfast buffet french toast sticks,6,g,10,mg,45,g,11,g,1,g,1,g,0.5,g,0,g,1,g
+745,grandys,breakfast buffet fruit canned mandarin oranges,0,g,0,mg,25,g,29,g,2,g,0,g,0,g,2,g,24,g
+746,grandys,breakfast buffet fruit canned peaches sliced,0,g,0,mg,5,g,20,g,0,g,0,g,0,g,0,g,21,g
+747,grandys,breakfast buffet fruit canned pineapple,0,g,0,mg,0,g,26,g,0,g,0,g,0,g,0,g,25,g
+748,grandys,breakfast buffet fruit canned tropical fruit salad,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,2,g,15,g
+749,grandys,breakfast buffet fruit fresh cantaloupe,0,g,0,mg,15,g,7,g,1,g,0,g,0,g,0,g,6,g
+750,grandys,breakfast buffet fruit fresh grapefruit,0,g,0,mg,0,g,10,g,1,g,0,g,0,g,1,g,9,g
+751,grandys,breakfast buffet fruit fresh grapes,0,g,0,mg,0,g,14,g,1,g,0,g,0,g,0,g,12,g
+752,grandys,breakfast buffet fruit fresh honey dew,0,g,0,mg,15,g,8,g,0,g,0,g,0,g,0,g,7,g
+753,grandys,breakfast buffet fruit fresh orange,0,g,0,mg,0,g,8,g,1,g,0,g,0,g,2,g,6,g
+754,grandys,breakfast buffet fruit fresh pineapple chunks,0,g,0,mg,0,g,11,g,0,g,0,g,0,g,1,g,8,g
+755,grandys,breakfast buffet fruit fresh strawberries,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,1,g,4,g
+756,grandys,breakfast buffet fruit fresh watermelon,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,5,g
+757,grandys,breakfast buffet grits,15,g,0,mg,290,g,10,g,1,g,2.5,g,2.5,g,0,g,0,g
+758,grandys,breakfast buffet ham sliced,4.5,g,25,mg,710,g,3,g,8,g,1.5,g,0,g,0,g,3,g
+759,grandys,breakfast buffet hash browns home style,4.5,g,0,mg,170,g,13,g,1,g,0.5,g,0,g,1,g,2,g
+760,grandys,breakfast buffet hash browns shredded,2,g,0,mg,200,g,14,g,1,g,0,g,0,g,1,g,0,g
+761,grandys,breakfast buffet hotcake buffet,2,g,5,mg,110,g,5,g,1,g,0,g,0,g,0,g,1,g
+762,grandys,breakfast buffet jalapeno whole,0,g,0,mg,1920,g,4,g,0,g,0,g,0,g,0,g,0,g
+763,grandys,breakfast buffet mini sinnamon rolls,11,g,5,mg,180,g,25,g,3,g,2.5,g,0.5,g,1,g,12,g
+764,grandys,breakfast buffet oatmeal,3,g,0,mg,105,g,27,g,5,g,0.5,g,0,g,4,g,1,g
+765,grandys,breakfast buffet salsa,0,g,0,mg,250,g,2,g,0,g,0,g,0,g,0,g,2,g
+766,grandys,breakfast buffet sausage patty,22,g,50,mg,390,g,0,g,10,g,8,g,0,g,0,g,0,g
+767,grandys,breakfast buffet steak fingers,9,g,15,mg,180,g,4,g,4,g,2.5,g,1,g,0,g,0,g
+768,grandys,breakfast burrito bacon,50,g,260,mg,1690,g,53,g,22,g,13,g,3,g,4,g,2,g
+769,grandys,breakfast burrito sausage,58,g,295,mg,1630,g,53,g,26,g,17,g,3,g,4,g,2,g
+770,grandys,breakfast burrito steak fingers,55,g,275,mg,1610,g,62,g,24,g,14,g,6,g,4,g,3,g
+771,grandys,breakfast side bacon,13,g,15,mg,450,g,0,g,6,g,4.5,g,0,g,0,g,0,g
+772,grandys,breakfast side biscuit,27,g,0,mg,1020,g,35,g,5,g,10,g,1.5,g,0,g,3,g
+773,grandys,breakfast side biscuit and gravy,32,g,5,mg,1250,g,39,g,6,g,12,g,2.5,g,0,g,4,g
+774,grandys,breakfast side biscuits and gravy,63,g,10,mg,2490,g,78,g,12,g,23,g,5,g,2,g,8,g
+775,grandys,breakfast side eggs scrambled,14,g,290,mg,250,g,1,g,10,g,3.5,g,1,g,0,g,0,g
+776,grandys,breakfast side french toast sticks,25,g,30,mg,180,g,45,g,2,g,4,g,2.5,g,0,g,5,g
+777,grandys,breakfast side gravy,5,g,5,mg,230,g,4,g,1,g,1.5,g,1,g,0,g,0,g
+778,grandys,breakfast side hashbrown patty,18,g,0,mg,230,g,14,g,1,g,3.5,g,2,g,2,g,0,g
+779,grandys,breakfast side hotcakes,19,g,75,mg,1350,g,58,g,12,g,3,g,0,g,1,g,15,g
+780,grandys,breakfast side sausage patty,22,g,50,mg,390,g,0,g,10,g,8,g,0,g,0,g,0,g
+781,grandys,breakfast side steak,21,g,30,mg,490,g,9,g,9,g,6,g,2.5,g,0,g,0,g
+782,grandys,breakfast sinnamon roll,22,g,15,mg,490,g,77,g,10,g,5,g,0.5,g,0,g,38,g
+783,grandys,brownie bites,27,g,40,mg,260,g,66,g,5,g,5,g,2,g,2,g,38,g
+784,grandys,catfish filet fried 1 each,16,g,55,mg,630,g,16,g,15,g,2.5,g,3,g,0,g,0,g
+785,grandys,catfish filet fried 2 each,32,g,110,mg,1270,g,32,g,31,g,5,g,6,g,2,g,0,g
+786,grandys,chicken fried chicken 1 each,31,g,55,mg,1220,g,21,g,22,g,4.5,g,4.5,g,0,g,0,g
+787,grandys,chicken fried chicken 2 each,63,g,110,mg,2440,g,42,g,44,g,9,g,9,g,0,g,0,g
+788,grandys,chicken fried breast,65,g,190,mg,3010,g,39,g,75,g,10,g,12,g,1,g,0,g
+789,grandys,chicken fried leg,18,g,50,mg,590,g,6,g,15,g,3.5,g,2.5,g,0,g,0,g
+790,grandys,chicken fried thigh,51,g,115,mg,1860,g,28,g,35,g,10,g,7,g,0,g,0,g
+791,grandys,chicken fried wing,16,g,30,mg,730,g,10,g,11,g,3.5,g,2,g,0,g,0,g
+792,grandys,chicken 1 2 roast white and dark meat,69,g,315,mg,3170,g,3,g,101,g,16,g,0,g,0,g,0,g
+793,grandys,chicken 1 4 roast dark meat,37,g,155,mg,1430,g,1,g,42,g,9,g,0,g,0,g,0,g
+794,grandys,chicken 1 4 roast white meat,31,g,165,mg,1740,g,2,g,59,g,7,g,0,g,0,g,0,g
+795,grandys,chicken nuggets,19,g,45,mg,580,g,9,g,16,g,2.5,g,3.5,g,0,g,0,g
+796,grandys,chicken southwest grilled filet,24,g,130,mg,2640,g,36,g,45,g,4.5,g,1.5,g,2,g,3,g
+797,grandys,chicken tenders 3 each,24,g,50,mg,1710,g,35,g,21,g,3,g,4.5,g,1,g,0,g
+798,grandys,chicken tenders 4 each,32,g,70,mg,2280,g,47,g,27,g,4,g,6,g,2,g,0,g
+799,grandys,cobbler apple,24,g,0,mg,490,g,65,g,3,g,9,g,0,g,3,g,32,g
+800,grandys,cobbler blackberry,21,g,0,mg,430,g,74,g,12,g,7,g,0,g,2,g,37,g
+801,grandys,cobbler cherry,24,g,0,mg,480,g,65,g,3,g,9,g,0,g,2,g,32,g
+802,grandys,cobbler peach,24,g,0,mg,460,g,65,g,3,g,9,g,0,g,2,g,32,g
+803,grandys,coffee large,0,g,0,mg,10,g,0,g,1,g,0,g,0,g,0,g,0,g
+804,grandys,coffee regular,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+805,grandys,coffee small,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+806,grandys,cole slaw large,35,g,20,mg,1030,g,55,g,4,g,7,g,0,g,8,g,41,g
+807,grandys,cole slaw small,7,g,5,mg,190,g,10,g,1,g,1,g,0,g,2,g,8,g
+808,grandys,corn sweet large,6,g,0,mg,1410,g,86,g,13,g,0,g,0,g,9,g,59,g
+809,grandys,corn sweet small,1,g,0,mg,260,g,16,g,3,g,0,g,0,g,2,g,11,g
+810,grandys,country fried steak 1 each,34,g,55,mg,1160,g,30,g,18,g,9,g,4.5,g,1,g,0,g
+811,grandys,country fried steak 2 each,68,g,110,mg,2320,g,60,g,36,g,18,g,9,g,2,g,0,g
+812,grandys,deluxe biscuit sandwich bacon with egg,45,g,195,mg,1380,g,35,g,15,g,15,g,1.5,g,0,g,3,g
+813,grandys,deluxe biscuit sandwich bacon with egg and cheese,53,g,220,mg,1860,g,37,g,20,g,20,g,1.5,g,0,g,4,g
+814,grandys,deluxe biscuit sandwich sausage with egg,58,g,235,mg,1470,g,35,g,20,g,20,g,1.5,g,0,g,3,g
+815,grandys,deluxe biscuit sandwich sausage with egg and cheese,66,g,260,mg,1950,g,37,g,25,g,25,g,1.5,g,0,g,4,g
+816,grandys,deluxe biscuit sandwich steak with egg,57,g,215,mg,1570,g,44,g,20,g,18,g,4,g,0,g,3,g
+817,grandys,deluxe biscuit sandwich steak with egg and cheese,65,g,240,mg,2060,g,46,g,25,g,23,g,4,g,0,g,4,g
+818,grandys,dinner roll,7,g,15,mg,100,g,19,g,4,g,1.5,g,1,g,1,g,4,g
+819,grandys,dressing blue cheese,22,g,15,mg,470,g,2,g,1,g,4,g,0.5,g,0,g,1,g
+820,grandys,dressing light ranch,7,g,15,mg,700,g,9,g,1,g,1,g,0,g,0,g,3,g
+821,grandys,dressing ranch,20,g,25,mg,490,g,2,g,1,g,3.5,g,0,g,0,g,1,g
+822,grandys,dressing ranch 1 oz,16,g,5,mg,300,g,2,g,0,g,2.5,g,0,g,0,g,0,g
+823,grandys,eggs scrambled,14,g,290,mg,250,g,1,g,10,g,3.5,g,1,g,0,g,0,g
+824,grandys,french fries large,73,g,0,mg,2170,g,97,g,9,g,13,g,13,g,14,g,0,g
+825,grandys,french fries small,14,g,0,mg,410,g,18,g,2,g,2.5,g,2.5,g,3,g,0,g
+826,grandys,fruit punch extra large,0,g,0,mg,140,g,165,g,0,g,0,g,0,g,0,g,165,g
+827,grandys,fruit punch kids,0,g,0,mg,40,g,45,g,0,g,0,g,0,g,0,g,45,g
+828,grandys,fruit punch large,0,g,0,mg,100,g,120,g,0,g,0,g,0,g,0,g,120,g
+829,grandys,fruit punch regular,0,g,0,mg,65,g,75,g,0,g,0,g,0,g,0,g,75,g
+830,grandys,funnel cake sticks,21,g,20,mg,250,g,55,g,2,g,4.5,g,3,g,0,g,43,g
+831,grandys,gizzard fried side,11,g,280,mg,100,g,17,g,25,g,1.5,g,2,g,0,g,0,g
+832,grandys,gizzards fried,22,g,560,mg,200,g,35,g,51,g,3,g,3.5,g,1,g,0,g
+833,grandys,gravy breakfast,5,g,5,mg,250,g,4,g,1,g,1.5,g,1,g,0,g,0,g
+834,grandys,gravy brown,3,g,0,mg,250,g,5,g,0,g,1,g,0,g,0,g,1,g
+835,grandys,gravy cream white,3,g,0,mg,230,g,5,g,0,g,1,g,1.5,g,0,g,0,g
+836,grandys,gravy pot roast,4,g,5,mg,210,g,3,g,1,g,2,g,0,g,0,g,0,g
+837,grandys,green beans large,7,g,10,mg,1540,g,11,g,4,g,2.5,g,0,g,5,g,2,g
+838,grandys,green beans small,1.5,g,0,mg,290,g,2,g,1,g,0,g,0,g,0,g,0,g
+839,grandys,jelly grape,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,7,g
+840,grandys,jelly strawberry,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,7,g
+841,grandys,juice apple small,0,g,0,mg,15,g,34,g,1,g,0,g,0,g,0,g,31,g
+842,grandys,juice orange small,0,g,0,mg,20,g,33,g,2,g,0,g,0,g,0,g,28,g
+843,grandys,ketchup,0,g,0,mg,85,g,3,g,0,g,0,g,0,g,0,g,2,g
+844,grandys,kids chicken fried leg,18,g,50,mg,590,g,6,g,15,g,3.5,g,2.5,g,0,g,0,g
+845,grandys,kids chicken nuggets,19,g,45,mg,580,g,9,g,16,g,2.5,g,3.5,g,0,g,0,g
+846,grandys,kids chicken tenders,16,g,35,mg,1140,g,23,g,14,g,2,g,3,g,0,g,0,g
+847,grandys,kids eggs scrambled,14,g,290,mg,250,g,1,g,10,g,3.5,g,1,g,0,g,0,g
+848,grandys,kids french toast sticks,25,g,30,mg,180,g,45,g,2,g,4,g,2.5,g,0,g,5,g
+849,grandys,kids hotcakes menu,9,g,35,mg,670,g,29,g,6,g,1.5,g,0,g,0,g,7,g
+850,grandys,lemonade extra large,0,g,0,mg,580,g,149,g,0,g,0,g,0,g,0,g,149,g
+851,grandys,lemonade kids,0,g,0,mg,160,g,41,g,0,g,0,g,0,g,0,g,41,g
+852,grandys,lemonade large,0,g,0,mg,420,g,108,g,0,g,0,g,0,g,0,g,108,g
+853,grandys,lemonade regular,0,g,0,mg,260,g,68,g,0,g,0,g,0,g,0,g,68,g
+854,grandys,liver fried side,25,g,570,mg,170,g,16,g,30,g,5,g,3.5,g,0,g,0,g
+855,grandys,livers fried,50,g,1145,mg,350,g,31,g,60,g,10,g,7,g,0,g,0,g
+856,grandys,macaroni and cheese large,32,g,70,mg,2270,g,64,g,23,g,16,g,0,g,0,g,9,g
+857,grandys,macaroni and cheese small,6,g,15,mg,430,g,12,g,4,g,3,g,0,g,0,g,2,g
+858,grandys,margarine whipped,2.5,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+859,grandys,mashed potatoes large,24,g,0,mg,1440,g,56,g,6,g,4.5,g,7,g,5,g,3,g
+860,grandys,mashed potatoes small,4.5,g,0,mg,270,g,10,g,1,g,1,g,1,g,0,g,0,g
+861,grandys,milk 1 kids,2,g,10,mg,105,g,10,g,7,g,1.5,g,0,g,0,g,10,g
+862,grandys,mirinda strawberry large,0,g,0,mg,190,g,115,g,0,g,0,g,0,g,0,g,115,g
+863,grandys,mirinda strawberry kids,0,g,0,mg,70,g,43,g,0,g,0,g,0,g,0,g,43,g
+864,grandys,mirinda strawberry regular,0,g,0,mg,115,g,72,g,0,g,0,g,0,g,0,g,72,g
+865,grandys,mist twst extra large,0,g,0,mg,120,g,143,g,0,g,0,g,0,g,0,g,143,g
+866,grandys,mist twst kids,0,g,0,mg,35,g,39,g,0,g,0,g,0,g,0,g,39,g
+867,grandys,mist twst large,0,g,0,mg,90,g,104,g,0,g,0,g,0,g,0,g,104,g
+868,grandys,mist twst regular,0,g,0,mg,55,g,65,g,0,g,0,g,0,g,0,g,65,g
+869,grandys,mountain dew diet extra large,0,g,0,mg,220,g,0,g,0,g,0,g,0,g,0,g,0,g
+870,grandys,mountain dew diet kids,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+871,grandys,mountain dew diet large,0,g,0,mg,220,g,0,g,0,g,0,g,0,g,0,g,0,g
+872,grandys,mountain dew diet regular,0,g,0,mg,100,g,0,g,0,g,0,g,0,g,0,g,0,g
+873,grandys,mountain dew extra large,0,g,0,mg,190,g,159,g,0,g,0,g,0,g,0,g,159,g
+874,grandys,mountain dew kids,0,g,0,mg,55,g,44,g,0,g,0,g,0,g,0,g,44,g
+875,grandys,mountain dew large,0,g,0,mg,140,g,116,g,0,g,0,g,0,g,0,g,116,g
+876,grandys,mountain dew regular,0,g,0,mg,85,g,72,g,0,g,0,g,0,g,0,g,72,g
+877,grandys,mustard,0,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+878,grandys,okra fried large,59,g,0,mg,1190,g,59,g,11,g,8,g,13,g,16,g,5,g
+879,grandys,okra fried small,11,g,0,mg,220,g,11,g,2,g,1.5,g,2.5,g,3,g,0,g
+880,grandys,pepsi diet extra large,0,g,0,mg,135,g,0,g,0,g,0,g,0,g,0,g,0,g
+881,grandys,pepsi diet kids,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+882,grandys,pepsi diet large,0,g,0,mg,100,g,0,g,0,g,0,g,0,g,0,g,0,g
+883,grandys,pepsi diet regular,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+884,grandys,pepsi extra large,0,g,0,mg,110,g,154,g,0,g,0,g,0,g,0,g,154,g
+885,grandys,pepsi kids,0,g,0,mg,30,g,42,g,0,g,0,g,0,g,0,g,42,g
+886,grandys,pepsi large,0,g,0,mg,80,g,112,g,0,g,0,g,0,g,0,g,112,g
+887,grandys,pepsi regular,0,g,0,mg,50,g,70,g,0,g,0,g,0,g,0,g,70,g
+888,grandys,pickles fried,33,g,0,mg,1700,g,23,g,3,g,5,g,4,g,2,g,0,g
+889,grandys,pot roast with gravy,23,g,155,mg,1480,g,6,g,44,g,8,g,0,g,0,g,0,g
+890,grandys,rice southwest large,16,g,0,mg,1770,g,100,g,8,g,3,g,4.5,g,4,g,4,g
+891,grandys,rice southwest small,3,g,0,mg,330,g,19,g,1,g,0.5,g,1,g,0,g,0,g
+892,grandys,root beer large,0,g,0,mg,180,g,120,g,0,g,0,g,0,g,0,g,118,g
+893,grandys,root beer mug extra large,0,g,0,mg,80,g,143,g,0,g,0,g,0,g,0,g,143,g
+894,grandys,root beer mug kids,0,g,0,mg,20,g,39,g,0,g,0,g,0,g,0,g,39,g
+895,grandys,root beer mug large,0,g,0,mg,60,g,104,g,0,g,0,g,0,g,0,g,104,g
+896,grandys,root beer mug regular,0,g,0,mg,35,g,65,g,0,g,0,g,0,g,0,g,65,g
+897,grandys,salsa,0,g,0,mg,220,g,2,g,0,g,0,g,0,g,0,g,2,g
+898,grandys,sandwich catfish filet,28,g,55,mg,1040,g,58,g,26,g,3.5,g,3,g,2,g,10,g
+899,grandys,sandwich catfish filet with tartar sauce,40,g,60,mg,1230,g,61,g,26,g,6,g,3,g,2,g,12,g
+900,grandys,sandwich chicken fried chicken,43,g,55,mg,1630,g,63,g,33,g,6,g,5,g,2,g,9,g
+901,grandys,sandwich chicken fried chicken with mayonnaise,55,g,65,mg,1680,g,63,g,33,g,8,g,5,g,2,g,9,g
+902,grandys,sandwich chicken fried steak,48,g,60,mg,1650,g,74,g,30,g,11,g,5,g,3,g,10,g
+903,grandys,sandwich chicken fried steak with mayonnaise,60,g,65,mg,1710,g,75,g,30,g,13,g,5,g,3,g,11,g
+904,grandys,sandwich chicken southwest grilled filet,33,g,130,mg,1630,g,43,g,52,g,5,g,0,g,2,g,9,g
+905,grandys,sandwich chicken southwest grilled filet with mayonnaise,44,g,140,mg,1680,g,43,g,52,g,7,g,0.5,g,2,g,10,g
+906,grandys,sauce bbq sweet baby rays,0,g,0,mg,280,g,16,g,0,g,0,g,0,g,0,g,15,g
+907,grandys,sauce buffalo sweet baby rays 1 5 oz,0,g,0,mg,910,g,0,g,0,g,0,g,0,g,0,g,0,g
+908,grandys,sauce cocktail,1,g,0,mg,320,g,5,g,1,g,0,g,0,g,0,g,3,g
+909,grandys,sauce honey mustard,12,g,10,mg,210,g,4,g,0,g,2,g,0,g,0,g,4,g
+910,grandys,sauce sweet and sour,0,g,0,mg,160,g,12,g,0,g,0,g,0,g,0,g,9,g
+911,grandys,sauce tartar new england,9,g,5,mg,140,g,2,g,0,g,1.5,g,0,g,0,g,2,g
+912,grandys,shrimp fried,37,g,170,mg,1440,g,74,g,32,g,5,g,7,g,0,g,0,g
+913,grandys,shrimp fried side,19,g,85,mg,720,g,37,g,16,g,2.5,g,3.5,g,0,g,0,g
+914,grandys,sinnamon roll,22,g,15,mg,490,g,77,g,10,g,5,g,0.5,g,3,g,38,g
+915,grandys,sinnamon roll bread pudding,24,g,35,mg,420,g,60,g,10,g,10,g,0,g,2,g,39,g
+916,grandys,strawberry mirinda extra large,0,g,0,mg,260,g,158,g,0,g,0,g,0,g,0,g,158,g
+917,grandys,strawberry shortcake,10,g,0,mg,350,g,30,g,2,g,5,g,0.5,g,2,g,18,g
+918,grandys,syrup hotcake,0,g,0,mg,65,g,22,g,0,g,0,g,0,g,0,g,14,g
+919,grandys,syrup sugar free,0,g,0,mg,55,g,8,g,0,g,0,g,0,g,0,g,0,g
+920,grandys,tea sweet extra large,0,g,0,mg,35,g,64,g,0,g,0,g,0,g,0,g,61,g
+921,grandys,tea sweet gallon,0,g,0,mg,95,g,187,g,0,g,0,g,0,g,0,g,177,g
+922,grandys,tea sweet kids,0,g,0,mg,10,g,18,g,0,g,0,g,0,g,0,g,17,g
+923,grandys,tea sweet regular,0,g,0,mg,15,g,29,g,0,g,0,g,0,g,0,g,28,g
+924,grandys,tea unsweet extra large,0,g,0,mg,40,g,4,g,0,g,0,g,0,g,0,g,0,g
+925,grandys,tea unsweet gallon,0,g,0,mg,115,g,11,g,0,g,0,g,0,g,0,g,0,g
+926,grandys,tea unsweet kids,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+927,grandys,tea unsweet regular,0,g,0,mg,20,g,2,g,0,g,0,g,0,g,0,g,0,g
+928,grandys,tea sweet large,0,g,0,mg,25,g,47,g,0,g,0,g,0,g,0,g,44,g
+929,grandys,tea unsweet large,0,g,0,mg,30,g,3,g,0,g,0,g,0,g,0,g,0,g
+930,granite city food and brewery,add atlantic salmon to salad,20,g,105,mg,105,g,0,g,36,g,4,g,0,g,0,g,0,g
+931,granite city food and brewery,add chicken to salad,9,g,125,mg,125,g,1,g,43,g,2,g,0,g,0,g,0,g
+932,granite city food and brewery,add jumbo shrimp to salad,3,g,230,mg,220,g,1,g,31,g,1,g,0,g,0,g,0,g
+933,granite city food and brewery,add top sirloin to salad,20,g,105,mg,390,g,1,g,28,g,8,g,0,g,0,g,0,g
+934,granite city food and brewery,alexander valley cabernet sauvignon bottle,0,g,0,mg,0,g,19,g,1,g,0,g,0,g,0,g,0,g
+935,granite city food and brewery,alexander valley cabernet sauvignon glass,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,0,g
+936,granite city food and brewery,as big as your head cookie,78,g,190,mg,1220,g,210,g,19,g,41,g,0,g,8,g,154,g
+937,granite city food and brewery,asian glazed shrimp,3,g,80,mg,820,g,20,g,12,g,0,g,0,g,0,g,15,g
+938,granite city food and brewery,asian salad lunch,22,g,55,mg,880,g,40,g,23,g,5,g,0,g,7,g,19,g
+939,granite city food and brewery,asparagus,14,g,0,mg,520,g,4,g,2,g,2,g,0,g,2,g,2,g
+940,granite city food and brewery,avocado bruschetta,31,g,5,mg,1510,g,57,g,12,g,6,g,0,g,9,g,20,g
+941,granite city food and brewery,baked french onion bowl,21,g,45,mg,2510,g,27,g,16,g,11,g,0,g,3,g,8,g
+942,granite city food and brewery,baked french onion cup,10,g,20,mg,1260,g,14,g,8,g,6,g,0,g,1,g,4,g
+943,granite city food and brewery,baked ziti,40,g,120,mg,2780,g,55,g,40,g,18,g,0,g,6,g,4,g
+944,granite city food and brewery,barefoot spritzers crisp white,0,g,0,mg,0,g,14,g,0,g,0,g,0,g,0,g,0,g
+945,granite city food and brewery,barefoot spritzers moscato,0,g,0,mg,10,g,20,g,0,g,0,g,0,g,0,g,18,g
+946,granite city food and brewery,barefoot spritzers red sangria,0,g,0,mg,20,g,17,g,0,g,0,g,0,g,0,g,16,g
+947,granite city food and brewery,barefoot spritzers rose,0,g,0,mg,10,g,17,g,0,g,0,g,0,g,0,g,16,g
+948,granite city food and brewery,barefoot spritzers summer red,0,g,0,mg,10,g,16,g,0,g,0,g,0,g,0,g,15,g
+949,granite city food and brewery,barone fini pinot grigio bottle,0,g,0,mg,0,g,15,g,1,g,0,g,0,g,0,g,0,g
+950,granite city food and brewery,barone fini pinot grigio glass,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+951,granite city food and brewery,bbq chicken flatbread,10,g,45,mg,590,g,25,g,15,g,6,g,0,g,0,g,13,g
+952,granite city food and brewery,bbq pork nacho,38,g,70,mg,850,g,45,g,23,g,13,g,0,g,4,g,5,g
+953,granite city food and brewery,bedda chedda burger,131,g,375,mg,2840,g,68,g,72,g,54,g,3,g,0,g,38,g
+954,granite city food and brewery,beer battered cheese bites,58,g,95,mg,1690,g,49,g,4,g,14,g,0,g,0,g,4,g
+955,granite city food and brewery,beer battered onion rings,40,g,25,mg,860,g,48,g,4,g,8,g,0,g,4,g,10,g
+956,granite city food and brewery,beer bennie 16oz,0,g,0,mg,20,g,18,g,2,g,0,g,0,g,0,g,0,g
+957,granite city food and brewery,beer bennie 20oz,0,g,0,mg,25,g,22,g,2,g,0,g,0,g,0,g,0,g
+958,granite city food and brewery,beer bennie 25oz,0,g,0,mg,30,g,29,g,3,g,0,g,0,g,0,g,0,g
+959,granite city food and brewery,beer bennie growler,0,g,0,mg,95,g,89,g,9,g,0,g,0,g,0,g,0,g
+960,granite city food and brewery,beer bennie pitcher,0,g,0,mg,70,g,63,g,6,g,0,g,0,g,0,g,0,g
+961,granite city food and brewery,beer broad axe 16oz,0,g,0,mg,15,g,19,g,2,g,0,g,0,g,0,g,0,g
+962,granite city food and brewery,beer broad axe 25oz,0,g,0,mg,25,g,30,g,3,g,0,g,0,g,0,g,0,g
+963,granite city food and brewery,beer broad axe growler,0,g,0,mg,85,g,91,g,8,g,0,g,0,g,0,g,0,g
+964,granite city food and brewery,beer broad axe pitcher,0,g,0,mg,60,g,65,g,6,g,0,g,0,g,0,g,0,g
+965,granite city food and brewery,beer duke 16oz,0,g,0,mg,20,g,16,g,2,g,0,g,0,g,1,g,0,g
+966,granite city food and brewery,beer duke 25oz,0,g,0,mg,35,g,25,g,2,g,0,g,0,g,1,g,0,g
+967,granite city food and brewery,beer duke growler,0,g,0,mg,100,g,76,g,8,g,0,g,0,g,4,g,0,g
+968,granite city food and brewery,beer duke pitcher,0,g,0,mg,70,g,54,g,5,g,0,g,0,g,3,g,0,g
+969,granite city food and brewery,beer northern 16oz,0,g,0,mg,20,g,10,g,2,g,0,g,0,g,0,g,0,g
+970,granite city food and brewery,beer northern 25 oz,0,g,0,mg,30,g,16,g,3,g,0,g,0,g,0,g,0,g
+971,granite city food and brewery,beer northern growler,0,g,0,mg,95,g,49,g,9,g,0,g,0,g,0,g,0,g
+972,granite city food and brewery,beer northern pitcher,0,g,0,mg,70,g,35,g,6,g,0,g,0,g,0,g,0,g
+973,granite city food and brewery,beet bruschetta,16,g,20,mg,250,g,16,g,8,g,7,g,0,g,2,g,8,g
+974,granite city food and brewery,benzinger sauvignon blanc bottle,0,g,0,mg,0,g,15,g,1,g,0,g,0,g,0,g,0,g
+975,granite city food and brewery,benzinger sauvignon blanc glass,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+976,granite city food and brewery,berry cheesecake,24,g,85,mg,240,g,25,g,4,g,16,g,1,g,1,g,22,g
+977,granite city food and brewery,beyond burger,52,g,20,mg,3150,g,64,g,39,g,16,g,0,g,7,g,8,g
+978,granite city food and brewery,big bavarian pretzel,11,g,25,mg,1220,g,33,g,11,g,4,g,0,g,0,g,0,g
+979,granite city food and brewery,big chocolate cake,87,g,200,mg,1010,g,168,g,15,g,46,g,2,g,9,g,123,g
+980,granite city food and brewery,bleu peppercorn burger,149,g,330,mg,1350,g,66,g,59,g,48,g,4,g,6,g,14,g
+981,granite city food and brewery,blistered green beans,55,g,0,mg,1300,g,88,g,14,g,8,g,0,g,24,g,41,g
+982,granite city food and brewery,blue chi chi shareable,1,g,0,mg,30,g,100,g,2,g,1,g,0,g,4,g,81,g
+983,granite city food and brewery,bock and cheese pasta,82,g,260,mg,2880,g,83,g,71,g,38,g,0,g,5,g,4,g
+984,granite city food and brewery,boneless wings fiery buffalo,23,g,50,mg,1300,g,35,g,15,g,4,g,0,g,1,g,0,g
+985,granite city food and brewery,boneless wings gochujang,20,g,50,mg,1430,g,48,g,18,g,4,g,0,g,3,g,11,g
+986,granite city food and brewery,boneless wings mango habanero,20,g,50,mg,950,g,45,g,18,g,4,g,0,g,1,g,15,g
+987,granite city food and brewery,boneless wings old bay,20,g,50,mg,1190,g,33,g,15,g,4,g,0,g,1,g,0,g
+988,granite city food and brewery,bruschetta chicken salad,119,g,195,mg,3210,g,96,g,67,g,23,g,0,g,11,g,12,g
+989,granite city food and brewery,bta grilled cheese,77,g,95,mg,1850,g,105,g,33,g,28,g,0,g,9,g,27,g
+990,granite city food and brewery,buddha bowl,17,g,0,mg,3360,g,101,g,16,g,2,g,0,g,16,g,33,g
+991,granite city food and brewery,buffalo chicken wrap,42,g,215,mg,7430,g,103,g,65,g,11,g,0,g,8,g,14,g
+992,granite city food and brewery,caesar salad,33,g,35,mg,1130,g,34,g,10,g,7,g,0,g,4,g,4,g
+993,granite city food and brewery,caesar salad lunch,29,g,35,mg,1020,g,33,g,10,g,6,g,0,g,4,g,4,g
+994,granite city food and brewery,cajun pasta,62,g,230,mg,3160,g,88,g,76,g,26,g,0,g,8,g,9,g
+995,granite city food and brewery,caprese bruschetta,31,g,65,mg,390,g,16,g,23,g,16,g,0,g,1,g,4,g
+996,granite city food and brewery,cauliflower wings,10,g,5,mg,1240,g,25,g,3,g,1,g,0,g,4,g,13,g
+997,granite city food and brewery,center cut filet steak,100,g,245,mg,5030,g,54,g,57,g,30,g,0,g,9,g,5,g
+998,granite city food and brewery,chateau st micheal bottle,0,g,0,mg,0,g,28,g,1,g,0,g,0,g,0,g,0,g
+999,granite city food and brewery,chateau st micheal glass,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,0,g

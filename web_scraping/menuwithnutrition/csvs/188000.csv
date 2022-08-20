@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,timber lodge steakhouse,fettuccini with crab,85,g,330,mg,3500,g,100,g,64,g,48,g,0,g,8,g,13,g
+1,timber lodge steakhouse,field and stream combos grilled pork chop,17,g,105,mg,75,g,0,g,37,g,6,g,0,g,0,g,0,g
+2,timber lodge steakhouse,field and stream combos half rack of ribs,34,g,230,mg,880,g,10,g,79,g,14,g,0,g,3,g,0,g
+3,timber lodge steakhouse,field and stream combos prairie chicken,48,g,260,mg,1230,g,4,g,50,g,24,g,0,g,0,g,3,g
+4,timber lodge steakhouse,field and stream combos three jumbo shrimp broiled,55,g,200,mg,800,g,1,g,56,g,26,g,0,g,0,g,0,g
+5,timber lodge steakhouse,field and stream combos three jumbo shrimp fried,16,g,120,mg,410,g,16,g,18,g,1.5,g,0,g,1,g,0,g
+6,timber lodge steakhouse,field and stream combos top sirloin,12,g,150,mg,110,g,0,g,51,g,5,g,0,g,0,g,0,g
+7,timber lodge steakhouse,field and stream combos walleye fillet broiled,17,g,195,mg,200,g,0,g,43,g,2,g,0,g,0,g,0,g
+8,timber lodge steakhouse,field and stream combos walleye fillet deep fried,33,g,195,mg,910,g,46,g,49,g,3,g,0,g,3,g,2,g
+9,timber lodge steakhouse,field and stream combos walleye fillet pan fried,24,g,195,mg,240,g,0,g,43,g,3,g,0,g,0,g,0,g
+10,timber lodge steakhouse,fish fry lunch portion,44,g,125,mg,960,g,19,g,35,g,8,g,0,g,0,g,2,g
+11,timber lodge steakhouse,four coconut shrimp,9,g,120,mg,590,g,3,g,15,g,2.5,g,0,g,0,g,19,g
+12,timber lodge steakhouse,four jumbo shrimp broiled,74,g,265,mg,1070,g,1,g,20,g,34,g,0,g,1,g,0,g
+13,timber lodge steakhouse,four jumbo shrimp fried,22,g,165,mg,550,g,21,g,24,g,2,g,0,g,1,g,0,g
+14,timber lodge steakhouse,french dip,41,g,140,mg,1570,g,77,g,58,g,16,g,0,g,4,g,6,g
+15,timber lodge steakhouse,french onion soup,24,g,35,mg,2230,g,58,g,26,g,14,g,0,g,4,g,29,g
+16,timber lodge steakhouse,fresh vegetables,8,g,20,mg,125,g,10,g,4,g,5,g,0,g,4,g,4,g
+17,timber lodge steakhouse,fried onions,8,g,0,mg,200,g,20,g,3,g,1,g,0,g,4,g,14,g
+18,timber lodge steakhouse,garlic mashed potatoes,11,g,15,mg,870,g,34,g,5,g,5,g,0,g,5,g,6,g
+19,timber lodge steakhouse,grilled ham and cheese sandwich,38,g,120,mg,3240,g,58,g,55,g,14,g,0,g,5,g,8,g
+20,timber lodge steakhouse,grilled turkey and cheese sandwich,32,g,190,mg,2860,g,43,g,72,g,12,g,0,g,4,g,4,g
+21,timber lodge steakhouse,homemade cheesecake,67,g,185,mg,300,g,75,g,9,g,36,g,0,g,2,g,52,g
+22,timber lodge steakhouse,honey wheat bread,2,g,0,mg,310,g,29,g,5,g,0,g,0,g,2,g,3,g
+23,timber lodge steakhouse,horseradish crusting,12,g,30,mg,240,g,7,g,4,g,8,g,0,g,0,g,1,g
+24,timber lodge steakhouse,house salad,3,g,105,mg,50,g,9,g,5,g,1,g,0,g,2,g,6,g
+25,timber lodge steakhouse,house salad without tomatoes,3,g,105,mg,45,g,8,g,5,g,1,g,0,g,2,g,5,g
+26,timber lodge steakhouse,iron ranger forest ranger,33,g,230,mg,200,g,0,g,80,g,14,g,0,g,0,g,0,g
+27,timber lodge steakhouse,kids baked potato,1.5,g,0,mg,600,g,73,g,7,g,0,g,0,g,5,g,6,g
+28,timber lodge steakhouse,kids cheeseburger,27,g,75,mg,1170,g,71,g,28,g,11,g,0,g,2,g,4,g
+29,timber lodge steakhouse,kids chicken fingers,18,g,60,mg,830,g,25,g,17,g,5,g,0,g,3,g,9,g
+30,timber lodge steakhouse,kids french fries,29,g,0,mg,370,g,60,g,7,g,6,g,0,g,5,g,1,g
+31,timber lodge steakhouse,kids fresh vegetables,8,g,20,mg,125,g,10,g,4,g,5,g,0,g,4,g,4,g
+32,timber lodge steakhouse,kids grilled cheese,26,g,70,mg,1020,g,26,g,14,g,16,g,0,g,2,g,1,g
+33,timber lodge steakhouse,kids hamburger,21,g,55,mg,870,g,71,g,23,g,7,g,0,g,2,g,3,g
+34,timber lodge steakhouse,kids hashbrowns,30,g,45,mg,1060,g,36,g,6,g,10,g,0,g,5,g,1,g
+35,timber lodge steakhouse,kids hot dog,18,g,35,mg,810,g,21,g,11,g,7,g,0,g,1,g,4,g
+36,timber lodge steakhouse,kids macaroni and cheese,11,g,35,mg,830,g,48,g,12,g,8,g,0,g,2,g,11,g
+37,timber lodge steakhouse,kids mashed potatoes,6,g,10,mg,440,g,17,g,3,g,3,g,0,g,3,g,3,g
+38,timber lodge steakhouse,kids tenderloin tips,8,g,90,mg,340,g,3,g,37,g,2.5,g,0,g,2,g,1,g
+39,timber lodge steakhouse,kids wild rice,2,g,5,mg,530,g,27,g,0,g,1,g,0,g,1,g,1,g
+40,timber lodge steakhouse,king crab legs,53,g,360,mg,4870,g,1,g,88,g,30,g,0,g,0,g,0,g
+41,timber lodge steakhouse,lobster tail,57,g,145,mg,680,g,1,g,3,g,32,g,0,g,0,g,0,g
+42,timber lodge steakhouse,lodge fries,38,g,0,mg,490,g,90,g,9,g,9,g,0,g,7,g,1,g
+43,timber lodge steakhouse,lodge k bobs,35,g,215,mg,850,g,15,g,76,g,11,g,0,g,3,g,9,g
+44,timber lodge steakhouse,lumberjack hashbrowns,30,g,45,mg,1060,g,39,g,6,g,10,g,0,g,5,g,1,g
+45,timber lodge steakhouse,meat loaf dinner,55,g,340,mg,2470,g,61,g,51,g,24,g,0,g,8,g,12,g
+46,timber lodge steakhouse,mesabi big pasta,83,g,270,mg,2290,g,100,g,42,g,48,g,0,g,8,g,13,g
+47,timber lodge steakhouse,mesabi big pasta with chicken,96,g,405,mg,2400,g,100,g,90,g,52,g,0,g,8,g,13,g
+48,timber lodge steakhouse,missi shrimpi deep fried,40,g,300,mg,1010,g,39,g,45,g,4,g,0,g,3,g,0,g
+49,timber lodge steakhouse,missi shrimpi broiled,40,g,370,mg,750,g,3,g,46,g,10,g,0,g,0,g,0,g
+50,timber lodge steakhouse,mosquito bites,46,g,90,mg,980,g,32,g,19,g,13,g,0,g,4,g,2,g
+51,timber lodge steakhouse,north shroe northwoods strip,24,g,190,mg,170,g,0,g,72,g,9,g,0,g,0,g,0,g
+52,timber lodge steakhouse,northern lights chicken,27,g,130,mg,680,g,17,g,56,g,3.5,g,0,g,0,g,0,g
+53,timber lodge steakhouse,norwegian atlantic salmon,26,g,125,mg,170,g,0,g,56,g,4,g,0,g,0,g,0,g
+54,timber lodge steakhouse,open faced hot turkey sandwich,36,g,205,mg,2720,g,100,g,68,g,17,g,0,g,9,g,34,g
+55,timber lodge steakhouse,oven roasted tureky sandwich on focaccia,15,g,135,mg,1070,g,51,g,63,g,7,g,0,g,2,g,5,g
+56,timber lodge steakhouse,parmesan cheese crusting,17,g,45,mg,440,g,11,g,6,g,10,g,0,g,1,g,1,g
+57,timber lodge steakhouse,parmesan crusted walleye,58,g,195,mg,1180,g,22,g,47,g,14,g,0,g,1,g,4,g
+58,timber lodge steakhouse,paul bunyan onion,29,g,5,mg,480,g,40,g,6,g,3,g,0,g,5,g,15,g
+59,timber lodge steakhouse,peppercorn seasoning,0,g,0,mg,590,g,7,g,2,g,0,g,0,g,3,g,2,g
+60,timber lodge steakhouse,peppercorned blue cheese burger,40,g,180,mg,1050,g,33,g,56,g,17,g,0,g,4,g,3,g
+61,timber lodge steakhouse,pepperjack burger,55,g,210,mg,1540,g,48,g,67,g,18,g,0,g,3,g,18,g
+62,timber lodge steakhouse,philly cheese steak,107,g,185,mg,1600,g,82,g,66,g,39,g,0,g,5,g,10,g
+63,timber lodge steakhouse,pork chop with stuffing,48,g,270,mg,2400,g,75,g,97,g,19,g,0,g,8,g,11,g
+64,timber lodge steakhouse,potato canoes,31,g,50,mg,520,g,26,g,8,g,10,g,0,g,6,g,2,g
+65,timber lodge steakhouse,prairie chicken,48,g,260,mg,1230,g,4,g,50,g,24,g,0,g,0,g,3,g
+66,timber lodge steakhouse,prairie chicken sandwich,35,g,195,mg,1400,g,34,g,71,g,20,g,0,g,4,g,4,g
+67,timber lodge steakhouse,prime rib 12 oz,44,g,180,mg,4450,g,1,g,61,g,18,g,0,g,0,g,0,g
+68,timber lodge steakhouse,prime rib 16 oz,59,g,245,mg,5940,g,1,g,82,g,23,g,0,g,0,g,0,g
+69,timber lodge steakhouse,prime rib 20 oz,74,g,300,mg,7420,g,1,g,100,g,29,g,0,g,0,g,0,g
+70,timber lodge steakhouse,prime rib 8 oz,29,g,120,mg,2970,g,1,g,41,g,12,g,0,g,0,g,0,g
+71,timber lodge steakhouse,prime rib lena 10 oz,37,g,150,mg,3710,g,1,g,51,g,15,g,0,g,0,g,0,g
+72,timber lodge steakhouse,prime rib lumberjack 22 oz,81,g,330,mg,8160,g,1,g,100,g,32,g,0,g,0,g,0,g
+73,timber lodge steakhouse,prime rib ole 14 oz,51,g,215,mg,5190,g,1,g,72,g,20,g,0,g,0,g,0,g
+74,timber lodge steakhouse,prime rib sven 18 oz,66,g,275,mg,6680,g,1,g,92,g,26,g,0,g,0,g,0,g
+75,timber lodge steakhouse,prince eriks trophy rack full,68,g,460,mg,1760,g,21,g,100,g,28,g,0,g,5,g,0,g
+76,timber lodge steakhouse,prince eriks trophy rack half,34,g,230,mg,880,g,10,g,79,g,14,g,0,g,3,g,0,g
+77,timber lodge steakhouse,rachael sandwich,38,g,190,mg,1450,g,44,g,71,g,12,g,0,g,7,g,11,g
+78,timber lodge steakhouse,red buffalo wings,42,g,85,mg,260,g,4,g,27,g,7,g,0,g,2,g,1,g
+79,timber lodge steakhouse,reuben sandwich,57,g,165,mg,2780,g,44,g,58,g,21,g,0,g,7,g,11,g
+80,timber lodge steakhouse,sauteed mushrooms,38,g,45,mg,1010,g,8,g,3,g,14,g,0,g,1,g,2,g
+81,timber lodge steakhouse,snowflake shrimp,11,g,145,mg,710,g,40,g,18,g,3,g,0,g,0,g,23,g
+82,timber lodge steakhouse,spinach dip,52,g,30,mg,1100,g,56,g,6,g,7,g,0,g,2,g,5,g
+83,timber lodge steakhouse,spinach salad,6,g,210,mg,160,g,11,g,11,g,2,g,0,g,5,g,6,g
+84,timber lodge steakhouse,steak salad,90,g,195,mg,1880,g,37,g,68,g,28,g,0,g,4,g,20,g
+85,timber lodge steakhouse,steak sandwich,43,g,210,mg,1030,g,33,g,69,g,16,g,0,g,4,g,3,g
+86,timber lodge steakhouse,steak wrap,42,g,85,mg,1510,g,76,g,37,g,13,g,0,g,6,g,7,g
+87,timber lodge steakhouse,steakhouse bruschetta,20,g,35,mg,420,g,22,g,15,g,4,g,0,g,2,g,5,g
+88,timber lodge steakhouse,steakhouse chili,26,g,85,mg,1910,g,47,g,31,g,11,g,0,g,6,g,17,g
+89,timber lodge steakhouse,superior sticks,16,g,15,mg,1370,g,38,g,0,g,10,g,0,g,0,g,0,g
+90,timber lodge steakhouse,swiss mushroom burger,53,g,180,mg,730,g,36,g,60,g,20,g,0,g,4,g,4,g
+91,timber lodge steakhouse,the blue ox,47,g,350,mg,260,g,0,g,100,g,18,g,0,g,0,g,0,g
+92,timber lodge steakhouse,the viking lumberjack special 12 oz,18,g,225,mg,170,g,0,g,77,g,7,g,0,g,0,g,0,g
+93,timber lodge steakhouse,the viking lumberjack special 7 oz,11,g,130,mg,10,g,0,g,45,g,5,g,0,g,0,g,0,g
+94,timber lodge steakhouse,third pound cheeseburger,26,g,145,mg,1160,g,56,g,53,g,11,g,0,g,4,g,14,g
+95,timber lodge steakhouse,timber creek filet medallions,17,g,140,mg,105,g,0,g,47,g,6,g,0,g,0,g,0,g
+96,timber lodge steakhouse,timber lodge chopped salad,48,g,65,mg,1170,g,49,g,30,g,13,g,0,g,9,g,37,g
+97,timber lodge steakhouse,timber shrimp,9,g,120,mg,720,g,6,g,17,g,3,g,0,g,1,g,5,g
+98,timber lodge steakhouse,turkey blt,46,g,105,mg,1320,g,54,g,42,g,11,g,0,g,3,g,7,g
+99,timber lodge steakhouse,tuscan chicken sandwich,38,g,215,mg,1590,g,61,g,87,g,10,g,0,g,4,g,13,g
+100,timber lodge steakhouse,twins woodchoppino chops,34,g,215,mg,150,g,0,g,75,g,13,g,0,g,0,g,0,g
+101,timber lodge steakhouse,vanilla bean ice cream 1 scoop,11,g,40,mg,35,g,15,g,2,g,7,g,0,g,0,g,15,g
+102,timber lodge steakhouse,vanilla bean ice cream 2 scoops,21,g,80,mg,70,g,30,g,5,g,13,g,0,g,0,g,29,g
+103,timber lodge steakhouse,walleye fillet broiled,18,g,245,mg,230,g,0,g,54,g,2,g,0,g,0,g,0,g
+104,timber lodge steakhouse,walleye fillet deep fried,33,g,245,mg,940,g,46,g,60,g,3,g,0,g,3,g,2,g
+105,timber lodge steakhouse,walleye fillet pan fried,25,g,245,mg,270,g,0,g,54,g,3,g,0,g,0,g,0,g
+106,timber lodge steakhouse,walleye sandwich,59,g,95,mg,2380,g,100,g,51,g,11,g,0,g,5,g,9,g
+107,timber lodge steakhouse,wild rice blend,2,g,5,mg,530,g,27,g,0,g,1,g,0,g,1,g,1,g
+108,timber lodge steakhouse,wild rice soup cup,15,g,35,mg,630,g,16,g,5,g,8,g,0,g,1,g,3,g
+109,tokyo joes,ahi tuna poke bowl,5,g,0,mg,45,g,0,g,22,g,0,g,0,g,0,g,0,g
+110,tokyo joes,arizona roll,15,g,0,mg,490,g,26,g,10,g,2,g,0,g,2,g,0,g
+111,tokyo joes,asparagus bowls,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,2,g,0,g
+112,tokyo joes,avocado bowls,15,g,0,mg,10,g,6,g,2,g,2,g,0,g,5,g,0,g
+113,tokyo joes,avocado poke bowl,8,g,0,mg,5,g,3,g,1,g,1,g,0,g,3,g,0,g
+114,tokyo joes,broccoli bowls,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+115,tokyo joes,brown rice bento box,1,g,0,mg,0,g,30,g,3,g,0,g,0,g,3,g,0,g
+116,tokyo joes,brown rice bowls,2,g,0,mg,0,g,60,g,6,g,0,g,0,g,5,g,0,g
+117,tokyo joes,brown rice poke bowl,2,g,0,mg,0,g,60,g,6,g,0,g,0,g,5,g,0,g
+118,tokyo joes,cali poke roll,26,g,0,mg,540,g,32,g,14,g,4,g,0,g,2,g,0,g
+119,tokyo joes,california roll,9,g,0,mg,370,g,24,g,9,g,1,g,0,g,1,g,0,g
+120,tokyo joes,california roll bento box,9,g,0,mg,370,g,24,g,9,g,1,g,0,g,1,g,0,g
+121,tokyo joes,carrots bowls,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+122,tokyo joes,chicken skewers,5,g,0,mg,780,g,9,g,23,g,1,g,0,g,1,g,0,g
+123,tokyo joes,chili pepper flakes poke bowl,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+124,tokyo joes,chocolate chip cookie kids bento,18,g,0,mg,300,g,52,g,4,g,8,g,0,g,2,g,0,g
+125,tokyo joes,chopped greens poke bowl,0,g,0,mg,55,g,3,g,1,g,0,g,0,g,1,g,0,g
+126,tokyo joes,crab cheese wonton roll,25,g,0,mg,560,g,34,g,9,g,3,g,0,g,1,g,0,g
+127,tokyo joes,crispy onions poke bowl,4,g,0,mg,60,g,3,g,0,g,2,g,0,g,0,g,0,g
+128,tokyo joes,cucumber poke bowl,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,1,g,0,g
+129,tokyo joes,dark chicken bento box,12,g,0,mg,100,g,0,g,29,g,4.5,g,0,g,0,g,0,g
+130,tokyo joes,dark chicken bowls,12,g,0,mg,100,g,0,g,29,g,4.5,g,0,g,0,g,0,g
+131,tokyo joes,dark chicken kids bento,6,g,0,mg,50,g,0,g,15,g,2,g,0,g,0,g,0,g
+132,tokyo joes,edamame,6,g,0,mg,290,g,18,g,18,g,0,g,0,g,6,g,0,g
+133,tokyo joes,edamame beans bowls,1,g,0,mg,0,g,3,g,3,g,0,g,0,g,1,g,0,g
+134,tokyo joes,edamame bento box,3,g,0,mg,180,g,9,g,9,g,0,g,0,g,3,g,0,g
+135,tokyo joes,edamame poke bowl,2,g,0,mg,0,g,6,g,6,g,0,g,0,g,2,g,0,g
+136,tokyo joes,fresh pineapple bowls,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,2,g,0,g
+137,tokyo joes,general joes soup,26,g,0,mg,1400,g,21,g,33,g,17,g,0,g,4,g,0,g
+138,tokyo joes,gluten free teriyaki sauce bowls,0,g,0,mg,1100,g,25,g,0,g,0,g,0,g,0,g,0,g
+139,tokyo joes,green curry sauce bowls,10,g,0,mg,230,g,3,g,0,g,10,g,0,g,0,g,0,g
+140,tokyo joes,green dragon sauce bowls,25,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+141,tokyo joes,green onion bowls,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+142,tokyo joes,green onions poke bowl,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,1,g,0,g
+143,tokyo joes,hardboiled egg bowls,5,g,0,mg,60,g,0,g,6,g,2,g,0,g,0,g,0,g
+144,tokyo joes,ichigo salad summer,29,g,0,mg,360,g,40,g,31,g,5,g,0,g,10,g,0,g
+145,tokyo joes,ichigo salad winter,32,g,0,mg,280,g,30,g,33,g,5,g,0,g,7,g,0,g
+146,tokyo joes,jalapeno bowls,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,0,g
+147,tokyo joes,jalapenos poke bowl,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+148,tokyo joes,joes lettuce wraps,11,g,0,mg,290,g,42,g,33,g,2,g,0,g,5,g,0,g
+149,tokyo joes,joes original teriyaki bowl,14,g,0,mg,1350,g,99,g,43,g,5,g,0,g,1,g,0,g
+150,tokyo joes,joes roll,25,g,0,mg,170,g,24,g,9,g,2,g,0,g,1,g,0,g
+151,tokyo joes,lemongrass basil dressing,16,g,0,mg,950,g,9,g,0,g,1,g,0,g,0,g,0,g
+152,tokyo joes,macadamia nuts poke bowl,11,g,0,mg,40,g,2,g,1,g,2,g,0,g,1,g,0,g
+153,tokyo joes,mahi mahi bowl,42,g,0,mg,1720,g,95,g,31,g,7,g,0,g,1,g,0,g
+154,tokyo joes,mandarin oranges kids bento,0,g,0,mg,5,g,13,g,0,g,0,g,0,g,1,g,0,g
+155,tokyo joes,mango poke bowl,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,1,g,0,g
+156,tokyo joes,miso dressing,9,g,0,mg,950,g,9,g,2,g,0,g,0,g,0,g,0,g
+157,tokyo joes,miso soup,3.5,g,0,mg,1400,g,9,g,6,g,0,g,0,g,3,g,0,g
+158,tokyo joes,mojoe bowl,8,g,0,mg,1640,g,103,g,34,g,3,g,0,g,0,g,0,g
+159,tokyo joes,mushrooms bowls,1,g,0,mg,35,g,2,g,1,g,0,g,0,g,1,g,0,g
+160,tokyo joes,nikko dressing,21,g,0,mg,630,g,14,g,0,g,2,g,0,g,0,g,0,g
+161,tokyo joes,nikko salad with white chicken,18,g,0,mg,460,g,18,g,27,g,2.5,g,0,g,5,g,0,g
+162,tokyo joes,nikko poke bowl,18,g,0,mg,540,g,10,g,0,g,2,g,0,g,0,g,0,g
+163,tokyo joes,oyako broth sauce bowls,0,g,0,mg,480,g,7,g,1,g,0,g,0,g,0,g,0,g
+164,tokyo joes,peanut sauce bowls,18,g,0,mg,550,g,8,g,8,g,4,g,0,g,3,g,0,g
+165,tokyo joes,pineapple poke bowl,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,1,g,0,g
+166,tokyo joes,poppy seed dressing,30,g,0,mg,720,g,27,g,0,g,3,g,0,g,3,g,0,g
+167,tokyo joes,potstickers with sauce,8,g,0,mg,1440,g,22,g,9,g,2.5,g,0,g,0,g,0,g
+168,tokyo joes,potstickers bento box,6,g,0,mg,1360,g,18,g,7,g,2,g,0,g,0,g,0,g
+169,tokyo joes,ramen egg noodles bowls,1.5,g,0,mg,590,g,94,g,14,g,0,g,0,g,3,g,0,g
+170,tokyo joes,red dragon sauce bowls,5,g,0,mg,950,g,15,g,0,g,0,g,0,g,0,g,0,g
+171,tokyo joes,red onion bowls,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+172,tokyo joes,rice noodles bowls,0,g,0,mg,0,g,63,g,6,g,0,g,0,g,3,g,0,g
+173,tokyo joes,salmon bento box,15,g,0,mg,65,g,0,g,23,g,2.5,g,0,g,0,g,0,g
+174,tokyo joes,salmon bowls,15,g,0,mg,65,g,0,g,23,g,2.5,g,0,g,0,g,0,g
+175,tokyo joes,salmon poke bowl,14,g,0,mg,60,g,0,g,18,g,4,g,0,g,0,g,0,g
+176,tokyo joes,scrambled egg bowls,5,g,0,mg,60,g,1,g,6,g,2,g,0,g,0,g,0,g
+177,tokyo joes,sesame dressing,30,g,0,mg,580,g,9,g,0,g,2.5,g,0,g,0,g,0,g
+178,tokyo joes,sesame seeds poke bowl,2,g,0,mg,0,g,0,g,1,g,0,g,0,g,0,g,0,g
+179,tokyo joes,shrimp poke bowl,0,g,0,mg,150,g,0,g,35,g,0,g,0,g,0,g,0,g
+180,tokyo joes,side salad,0,g,0,mg,30,g,2,g,0,g,0,g,0,g,0,g,0,g
+181,tokyo joes,side salad no dressing bento box,0,g,0,mg,30,g,2,g,0,g,0,g,0,g,0,g,0,g
+182,tokyo joes,snap peas bowls,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+183,tokyo joes,soy ginger dressing,6,g,0,mg,950,g,12,g,2,g,0,g,0,g,0,g,0,g
+184,tokyo joes,spicy aioli poke bowl,10,g,0,mg,45,g,12,g,1,g,1,g,0,g,1,g,0,g
+185,tokyo joes,spicy stevi yaki sauce bowls,0,g,0,mg,1400,g,10,g,5,g,0,g,0,g,0,g,0,g
+186,tokyo joes,spicy tuna roll,25,g,0,mg,260,g,24,g,6,g,2,g,0,g,1,g,0,g
+187,tokyo joes,spicy tuna roll bento box,12,g,0,mg,260,g,24,g,6,g,2,g,0,g,1,g,0,g
+188,tokyo joes,spicy aki sauce bowls,0,g,0,mg,900,g,20,g,0,g,0,g,0,g,0,g,0,g
+189,tokyo joes,spinach bowls,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+190,tokyo joes,spring rolls without sauce chicken,8,g,0,mg,410,g,30,g,9,g,1,g,0,g,3,g,0,g
+191,tokyo joes,spring rolls without sauce shrimp,8,g,0,mg,360,g,30,g,15,g,1,g,0,g,3,g,0,g
+192,tokyo joes,spring rolls without sauce tofu,14,g,0,mg,450,g,33,g,11,g,2,g,0,g,3,g,0,g
+193,tokyo joes,steak bento box,5,g,0,mg,60,g,0,g,22,g,2,g,0,g,0,g,0,g
+194,tokyo joes,steak bowls,5,g,0,mg,60,g,0,g,22,g,2,g,0,g,0,g,0,g
+195,tokyo joes,stevi yaki sauce bowls,0,g,0,mg,1200,g,5,g,5,g,0,g,0,g,0,g,0,g
+196,tokyo joes,sunomono,0,g,0,mg,430,g,18,g,1,g,0,g,0,g,1,g,0,g
+197,tokyo joes,sunomono bento box,0,g,0,mg,430,g,18,g,1,g,0,g,0,g,1,g,0,g
+198,tokyo joes,surf and turf bowl,8,g,0,mg,1210,g,87,g,44,g,1,g,0,g,2,g,0,g
+199,tokyo joes,sushi ginger poke bowl,0,g,0,mg,105,g,2,g,0,g,0,g,0,g,0,g,0,g
+200,tokyo joes,sweet onions poke bowl,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+201,tokyo joes,tataki salad,13,g,0,mg,500,g,50,g,24,g,1,g,0,g,7,g,0,g
+202,tokyo joes,teriyaki sauce bowls,0,g,0,mg,1250,g,25,g,5,g,0,g,0,g,0,g,0,g
+203,tokyo joes,texas roll,25,g,0,mg,130,g,24,g,3,g,1,g,0,g,1,g,0,g
+204,tokyo joes,tofu bento box,9,g,0,mg,220,g,5,g,14,g,2,g,0,g,0,g,0,g
+205,tokyo joes,tofu bowls,9,g,0,mg,220,g,5,g,14,g,2,g,0,g,0,g,0,g
+206,tokyo joes,tofu kids bento,5,g,0,mg,110,g,3,g,1,g,1,g,0,g,0,g,0,g
+207,tokyo joes,top 5 veggie mix bento box,1,g,0,mg,0,g,6,g,3,g,0,g,0,g,1,g,0,g
+208,tokyo joes,top 5 veggie mix bowls,1,g,0,mg,0,g,6,g,3,g,0,g,0,g,1,g,0,g
+209,tokyo joes,traditional hawaiian poke bowl,11,g,0,mg,600,g,2,g,1,g,1,g,0,g,1,g,0,g
+210,tokyo joes,traditional oyako bowl,13,g,0,mg,1220,g,90,g,42,g,5,g,0,g,0,g,0,g
+211,tokyo joes,udon noodles bento box,0.5,g,0,mg,220,g,27,g,7,g,0,g,0,g,3,g,0,g
+212,tokyo joes,udon noodles bowls,1,g,0,mg,440,g,56,g,14,g,0,g,0,g,6,g,0,g
+213,tokyo joes,veggie tofu roll,25,g,0,mg,290,g,30,g,4,g,0.5,g,0,g,2,g,0,g
+214,tokyo joes,water chestnuts bowls,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+215,tokyo joes,white chicken bento box,2.5,g,0,mg,330,g,1,g,22,g,1,g,0,g,0,g,0,g
+216,tokyo joes,white chicken bowls,2.5,g,0,mg,330,g,1,g,22,g,1,g,0,g,0,g,0,g
+217,tokyo joes,white chicken kids bento,1,g,0,mg,170,g,0,g,11,g,1,g,0,g,0,g,0,g
+218,tokyo joes,white rice bento box,0,g,0,mg,0,g,41,g,3,g,0,g,0,g,0,g,0,g
+219,tokyo joes,white rice bowls,0.5,g,0,mg,0,g,73,g,6,g,0,g,0,g,1,g,0,g
+220,tokyo joes,white rice poke bowl,1,g,0,mg,0,g,73,g,6,g,0,g,0,g,1,g,0,g
+221,tokyo joes,wonton strips poke bowl,2,g,0,mg,45,g,4,g,0,g,0,g,0,g,0,g,0,g
+222,tokyo joes,yakitori bowl,12,g,0,mg,2180,g,115,g,45,g,1,g,0,g,1,g,0,g
+223,tokyo joes,yakitori sauce bowls,8,g,0,mg,1350,g,20,g,5,g,0,g,0,g,0,g,0,g
+224,tokyo joes,yellow curry sauce bowls,10,g,0,mg,180,g,5,g,0,g,10,g,0,g,0,g,0,g
+225,tokyo joes,yo roll,25,g,0,mg,110,g,25,g,6,g,0.5,g,0,g,1,g,0,g
+226,tokyo joes,zucchini bowls,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+227,tom and chee,american cheese,20,g,60,mg,1280,g,8,g,12,g,12,g,0,g,0,g,0,g
+228,tom and chee,armagoetta,60,g,105,mg,2370,g,70,g,39,g,27,g,0,g,7,g,11,g
+229,tom and chee,ashleys strawberry salad with white balsamic dressing,37,g,40,mg,270,g,53,g,23,g,3,g,0,g,8,g,39,g
+230,tom and chee,avocado,8,g,0,mg,0,g,4,g,2,g,2,g,0,g,4,g,0,g
+231,tom and chee,bacon,13,g,30,mg,510,g,0,g,9,g,4,g,0,g,0,g,0,g
+232,tom and chee,bacon potato salad,30,g,45,mg,800,g,18,g,9,g,8,g,0,g,2,g,2,g
+233,tom and chee,balsamic vinaigrette,24,g,0,mg,5,g,15,g,0,g,1.5,g,0,g,0,g,14,g
+234,tom and chee,banana,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,2,g,6,g
+235,tom and chee,bananarama grilled cheese donut,39,g,25,mg,1000,g,55,g,14,g,16,g,0,g,4,g,29,g
+236,tom and chee,barqs root beer,0,g,0,mg,95,g,80,g,0,g,0,g,0,g,0,g,80,g
+237,tom and chee,basil,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+238,tom and chee,basil pesto,16,g,5,mg,80,g,1,g,2,g,2.5,g,0,g,0,g,0,g
+239,tom and chee,bbq bacon,64,g,115,mg,3830,g,90,g,42,g,24,g,0,g,5,g,33,g
+240,tom and chee,bbq sauce,0,g,0,mg,290,g,18,g,0,g,0,g,0,g,0,g,16,g
+241,tom and chee,beer cheese dip with pita chips,40,g,85,mg,2000,g,75,g,33,g,19,g,0,g,2,g,5,g
+242,tom and chee,beer cheese soup,42,g,130,mg,1010,g,24,g,30,g,25,g,0,g,2,g,1,g
+243,tom and chee,bell pepper,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,1,g
+244,tom and chee,black bean tomatillo soup,1.5,g,0,mg,550,g,22,g,5,g,0,g,0,g,5,g,5,g
+245,tom and chee,blt chee,55,g,130,mg,1290,g,42,g,41,g,24,g,0,g,5,g,5,g
+246,tom and chee,blt ranch salad with ranch dressing,64,g,80,mg,2140,g,24,g,23,g,16,g,0,g,5,g,6,g
+247,tom and chee,blt salad with horseradish dressing,69,g,80,mg,1970,g,25,g,22,g,16,g,0,g,5,g,7,g
+248,tom and chee,blue cheese,24,g,60,mg,1140,g,3,g,18,g,15,g,0,g,3,g,0,g
+249,tom and chee,blue cheese chili,16,g,75,mg,500,g,17,g,26,g,7,g,0,g,3,g,7,g
+250,tom and chee,blue cheese dressing,23,g,20,mg,400,g,2,g,3,g,7,g,0,g,0,g,0,g
+251,tom and chee,blueberry compote,0,g,0,mg,0,g,19,g,0,g,0,g,0,g,2,g,15,g
+252,tom and chee,bossier club,52,g,180,mg,2030,g,43,g,46,g,24,g,0,g,5,g,5,g
+253,tom and chee,brie cheese,27,g,60,mg,360,g,0,g,12,g,12,g,0,g,0,g,0,g
+254,tom and chee,brisket,13,g,45,mg,400,g,0,g,14,g,5,g,0,g,0,g,0,g
+255,tom and chee,brisket bbq,47,g,120,mg,2720,g,78,g,42,g,20,g,0,g,5,g,34,g
+256,tom and chee,brisket bomber,84,g,145,mg,2130,g,58,g,48,g,31,g,0,g,5,g,4,g
+257,tom and chee,broccoli cheese soup,47,g,165,mg,530,g,95,g,8,g,31,g,0,g,6,g,0,g
+258,tom and chee,buffalo celery slaw,31,g,40,mg,1120,g,16,g,7,g,9,g,0,g,3,g,13,g
+259,tom and chee,buffalo chicken soup,47,g,165,mg,1600,g,83,g,13,g,30,g,0,g,6,g,0,g
+260,tom and chee,caesar dressing,26,g,25,mg,270,g,0,g,0,g,4.5,g,0,g,0,g,0,g
+261,tom and chee,candied lemons,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,5,g
+262,tom and chee,carrots,0,g,0,mg,10,g,2,g,0,g,0,g,0,g,1,g,1,g
+263,tom and chee,celery slaw,48,g,40,mg,630,g,10,g,0,g,8,g,0,g,1,g,7,g
+264,tom and chee,cheddar cheese,28,g,100,mg,550,g,0,g,20,g,16,g,0,g,0,g,0,g
+265,tom and chee,cheeseburger soup,42,g,160,mg,680,g,77,g,16,g,27,g,0,g,6,g,0,g
+266,tom and chee,cherry coca cola,0,g,0,mg,75,g,77,g,0,g,0,g,0,g,0,g,77,g
+267,tom and chee,chicken bacon ranch,62,g,170,mg,1440,g,43,g,51,g,25,g,0,g,5,g,5,g
+268,tom and chee,chicken broccoli curry soup,43,g,160,mg,330,g,99,g,5,g,29,g,0,g,7,g,0,g
+269,tom and chee,chicken caesar salad with caesar dressing,45,g,80,mg,740,g,32,g,31,g,12,g,0,g,5,g,4,g
+270,tom and chee,chicken noodle soup,2,g,20,mg,930,g,14,g,11,g,0,g,0,g,1,g,2,g
+271,tom and chee,chicken pot pie soup,47,g,175,mg,530,g,109,g,5,g,31,g,0,g,7,g,1,g
+272,tom and chee,chicken tortilla with corn salsa,3.5,g,60,mg,600,g,20,g,18,g,0,g,0,g,3,g,9,g
+273,tom and chee,chili mac,32,g,115,mg,570,g,61,g,20,g,18,g,0,g,4,g,3,g
+274,tom and chee,chipotle slaw,36,g,30,mg,330,g,15,g,1,g,6,g,0,g,2,g,11,g
+275,tom and chee,choco bacon bliss grilled cheese donut,38,g,40,mg,780,g,53,g,13,g,17,g,0,g,1,g,31,g
+276,tom and chee,chocolate chip cookie,18,g,40,mg,210,g,52,g,4,g,9,g,0,g,2,g,30,g
+277,tom and chee,chocolate mascarpone,6,g,15,mg,15,g,10,g,1,g,3.5,g,0,g,0,g,8,g
+278,tom and chee,chocolate milk 2,2,g,10,mg,210,g,32,g,8,g,2,g,0,g,1,g,30,g
+279,tom and chee,chocolate mint candies,5,g,0,mg,10,g,8,g,1,g,4.5,g,0,g,1,g,8,g
+280,tom and chee,chocolate pieces,3,g,5,mg,10,g,7,g,1,g,2,g,0,g,0,g,6,g
+281,tom and chee,chunky tomato soup,1,g,0,mg,470,g,17,g,3,g,0,g,0,g,3,g,9,g
+282,tom and chee,cinnamon toast grilled cheese donut,27,g,25,mg,450,g,58,g,5,g,12,g,0,g,2,g,34,g
+283,tom and chee,classic tomato soup,2,g,0,mg,530,g,15,g,2,g,0.5,g,0,g,2,g,8,g
+284,tom and chee,coca cola,0,g,0,mg,65,g,73,g,0,g,0,g,0,g,0,g,73,g
+285,tom and chee,coca cola zero,0,g,0,mg,75,g,0,g,0,g,0,g,0,g,0,g,0,g
+286,tom and chee,creamy coleslaw,33,g,30,mg,630,g,14,g,2,g,6,g,0,g,3,g,9,g
+287,tom and chee,creamy pasta salad,30,g,25,mg,600,g,35,g,6,g,5,g,0,g,2,g,3,g
+288,tom and chee,creamy pesto pasta salad,27,g,20,mg,660,g,34,g,7,g,4.5,g,0,g,2,g,3,g
+289,tom and chee,creamy tomato soup,12,g,45,mg,560,g,14,g,2,g,9,g,0,g,2,g,6,g
+290,tom and chee,crunchy garlic chicken,56,g,120,mg,1980,g,61,g,51,g,23,g,0,g,4,g,14,g
+291,tom and chee,cubano chee,43,g,140,mg,1460,g,50,g,53,g,22,g,0,g,4,g,11,g
+292,tom and chee,cucumber ranch,48,g,85,mg,1040,g,47,g,33,g,21,g,0,g,6,g,7,g
+293,tom and chee,cucumbers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+294,tom and chee,diet coke,0,g,0,mg,90,g,0,g,0,g,0,g,0,g,0,g,0,g
+295,tom and chee,dill potato salad,28,g,5,mg,5,g,600,g,3,g,5,g,0,g,2,g,2,g
+296,tom and chee,donut bite,107,g,85,mg,1480,g,158,g,22,g,45,g,0,g,5,g,89,g
+297,tom and chee,dried cranberries,0,g,0,mg,0,g,23,g,0,g,0,g,0,g,2,g,19,g
+298,tom and chee,earth balance butter,11,g,0,mg,90,g,0,g,0,g,4,g,0,g,0,g,0,g
+299,tom and chee,fanta orange,0,g,0,mg,75,g,80,g,0,g,0,g,0,g,0,g,79,g
+300,tom and chee,flying pig,46,g,85,mg,2320,g,43,g,42,g,22,g,0,g,7,g,3,g
+301,tom and chee,french onion soup,6,g,0,mg,560,g,15,g,3,g,2,g,0,g,2,g,4,g
+302,tom and chee,fresh mozzarella cheese,18,g,90,mg,200,g,3,g,15,g,12,g,0,g,0,g,0,g
+303,tom and chee,fried onions,11,g,0,mg,90,g,8,g,0,g,4.5,g,0,g,0,g,0,g
+304,tom and chee,garlic hummus,3.5,g,0,mg,70,g,4,g,1,g,0,g,0,g,1,g,0,g
+305,tom and chee,garlic seasoning,0,g,0,mg,10,g,3,g,0,g,0,g,0,g,0,g,0,g
+306,tom and chee,glazed donut,14,g,0,mg,380,g,36,g,4,g,6,g,0,g,1,g,16,g
+307,tom and chee,gluten free bread,8,g,0,mg,520,g,44,g,10,g,0,g,0,g,4,g,6,g
+308,tom and chee,goat cheese,18,g,30,mg,390,g,3,g,12,g,12,g,0,g,0,g,0,g
+309,tom and chee,goetta,12,g,30,mg,480,g,10,g,8,g,4.5,g,0,g,2,g,1,g
+310,tom and chee,goldfish crackers,4,g,0,mg,240,g,19,g,3,g,1,g,0,g,1,g,1,g
+311,tom and chee,gouda potato soup,34,g,110,mg,750,g,22,g,11,g,25,g,0,g,3,g,1,g
+312,tom and chee,graham crackers,1,g,0,mg,35,g,6,g,1,g,0,g,0,g,0,g,2,g
+313,tom and chee,green goat salad with balsamic dressing,55,g,65,mg,470,g,50,g,30,g,14,g,0,g,7,g,36,g
+314,tom and chee,green goat salad with white balsamic dressing,50,g,65,mg,520,g,50,g,30,g,12,g,0,g,7,g,36,g
+315,tom and chee,grilled cheese bites,67,g,125,mg,2220,g,87,g,59,g,36,g,0,g,7,g,6,g
+316,tom and chee,grilled cheese croutons,12,g,15,mg,460,g,26,g,8,g,5,g,0,g,2,g,1,g
+317,tom and chee,grilled cheese salad without dressing,28,g,40,mg,900,g,42,g,26,g,10,g,0,g,7,g,9,g
+318,tom and chee,grilled pita chips,8,g,0,mg,740,g,64,g,12,g,0,g,0,g,2,g,4,g
+319,tom and chee,gumbo mac,74,g,200,mg,2350,g,139,g,57,g,36,g,0,g,9,g,6,g
+320,tom and chee,guy gardener,45,g,35,mg,1020,g,45,g,27,g,17,g,0,g,3,g,8,g
+321,tom and chee,ham,2,g,40,mg,530,g,0,g,11,g,1,g,0,g,0,g,0,g
+322,tom and chee,hamchee,35,g,100,mg,2280,g,47,g,33,g,17,g,0,g,4,g,2,g
+323,tom and chee,hammy whammy,50,g,130,mg,2900,g,83,g,48,g,23,g,0,g,5,g,34,g
+324,tom and chee,hic flashin fruit punch,0,g,0,mg,95,g,75,g,0,g,0,g,0,g,0,g,73,g
+325,tom and chee,hippy chee,48,g,100,mg,1150,g,50,g,34,g,21,g,0,g,5,g,10,g
+326,tom and chee,honey mustard,30,g,0,mg,180,g,7,g,0,g,2,g,0,g,0,g,7,g
+327,tom and chee,horseradish sauce,28,g,25,mg,250,g,2,g,0,g,4.5,g,0,g,0,g,2,g
+328,tom and chee,hot sauce,0,g,0,mg,600,g,0,g,0,g,0,g,0,g,0,g,0,g
+329,tom and chee,hotspicy,63,g,135,mg,2940,g,40,g,44,g,28,g,0,g,3,g,7,g
+330,tom and chee,hummus plate with pita chips,30,g,5,mg,1250,g,92,g,23,g,3.5,g,0,g,10,g,7,g
+331,tom and chee,italian,65,g,150,mg,2810,g,50,g,59,g,28,g,0,g,5,g,3,g
+332,tom and chee,kids grilled cheese with american cheese and white bread,17,g,30,mg,760,g,23,g,11,g,8,g,0,g,2,g,0,g
+333,tom and chee,kids maccheese,29,g,100,mg,440,g,61,g,13,g,18,g,0,g,4,g,0,g
+334,tom and chee,kids pbj,17,g,0,mg,230,g,42,g,14,g,4,g,0,g,4,g,20,g
+335,tom and chee,kids side of fruit,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,3,g,10,g
+336,tom and chee,lays kettle mesquite bbq chips,12,g,0,mg,200,g,23,g,2,g,2,g,0,g,2,g,3,g
+337,tom and chee,lays kettle original chips,13,g,0,mg,120,g,22,g,2,g,2,g,0,g,2,g,1,g
+338,tom and chee,lays kettle salt and vinegar chips,12,g,0,mg,230,g,23,g,2,g,0,g,0,g,2,g,2,g
+339,tom and chee,lemon mascarpone,5,g,20,mg,10,g,9,g,0,g,3,g,0,g,0,g,7,g
+340,tom and chee,loaded potato soup,36,g,110,mg,900,g,50,g,16,g,20,g,0,g,4,g,1,g
+341,tom and chee,mac daddy,58,g,145,mg,1180,g,129,g,45,g,30,g,0,g,9,g,4,g
+342,tom and chee,macchee,69,g,145,mg,1360,g,138,g,45,g,33,g,0,g,9,g,4,g
+343,tom and chee,maccheese,29,g,100,mg,440,g,61,g,13,g,18,g,0,g,4,g,0,g
+344,tom and chee,marshmallow mascarpone,7,g,10,mg,10,g,9,g,1,g,3.5,g,0,g,0,g,7,g
+345,tom and chee,mascarpone,13,g,20,mg,5,g,0,g,2,g,7,g,0,g,0,g,0,g
+346,tom and chee,mello yello,0,g,0,mg,95,g,80,g,0,g,0,g,0,g,0,g,80,g
+347,tom and chee,milk 2,5,g,20,mg,130,g,12,g,8,g,3,g,0,g,0,g,12,g
+348,tom and chee,minute main lemonade,0,g,0,mg,180,g,69,g,0,g,0,g,0,g,0,g,66,g
+349,tom and chee,motts apple juice,0,g,0,mg,10,g,24,g,0,g,0,g,0,g,0,g,23,g
+350,tom and chee,mozzarella cheese,18,g,45,mg,630,g,3,g,21,g,12,g,0,g,0,g,0,g
+351,tom and chee,mozzarella cheese bites,62,g,105,mg,1930,g,78,g,57,g,33,g,0,g,7,g,6,g
+352,tom and chee,mushrooms,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+353,tom and chee,oatmeal cookie,18,g,30,mg,210,g,52,g,4,g,9,g,0,g,2,g,32,g
+354,tom and chee,onion,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+355,tom and chee,parmesan romano cheese,2,g,5,mg,70,g,0,g,2,g,1,g,0,g,0,g,0,g
+356,tom and chee,peanut butter,17,g,0,mg,160,g,5,g,9,g,4,g,0,g,2,g,3,g
+357,tom and chee,peanut butter cup grilled cheese donut,37,g,20,mg,560,g,50,g,10,g,14,g,0,g,2,g,27,g
+358,tom and chee,peanut butter mascarpone,7,g,10,mg,40,g,7,g,2,g,3,g,0,g,0,g,9,g
+359,tom and chee,pepchee,56,g,105,mg,1950,g,43,g,44,g,25,g,0,g,4,g,3,g
+360,tom and chee,pepper jack cheese,24,g,75,mg,570,g,0,g,21,g,15,g,0,g,0,g,0,g
+361,tom and chee,pepperoni,25,g,60,mg,1000,g,0,g,13,g,9,g,0,g,0,g,0,g
+362,tom and chee,pesto turkey,50,g,75,mg,1660,g,47,g,43,g,19,g,0,g,3,g,9,g
+363,tom and chee,pibb xtra,0,g,0,mg,100,g,69,g,0,g,0,g,0,g,0,g,69,g
+364,tom and chee,pickles,0,g,0,mg,370,g,2,g,0,g,0,g,0,g,0,g,0,g
+365,tom and chee,pork roll chee,73,g,120,mg,2250,g,51,g,32,g,27,g,0,g,5,g,5,g
+366,tom and chee,powerade mountain berry blast,0,g,0,mg,210,g,40,g,0,g,0,g,0,g,0,g,40,g
+367,tom and chee,ranch,23,g,25,mg,410,g,1,g,0,g,4.5,g,0,g,0,g,1,g
+368,tom and chee,roast beef,13,g,80,mg,240,g,1,g,20,g,5,g,0,g,0,g,0,g
+369,tom and chee,roasted chicken,2.5,g,40,mg,200,g,0,g,15,g,0.5,g,0,g,0,g,0,g
+370,tom and chee,roasted garlic potato salad,37,g,30,mg,600,g,17,g,2,g,6,g,0,g,2,g,2,g
+371,tom and chee,roasted turkey,2,g,35,mg,240,g,1,g,11,g,1,g,0,g,0,g,1,g
+372,tom and chee,rodeo chee,72,g,160,mg,2830,g,85,g,49,g,30,g,0,g,4,g,33,g
+373,tom and chee,rold gold tiny twists pretzels,2,g,0,mg,900,g,47,g,4,g,0,g,0,g,2,g,1,g
+374,tom and chee,romaine and spring mix,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,0,g
+375,tom and chee,rye bread,2,g,0,mg,560,g,44,g,10,g,0,g,0,g,4,g,2,g
+376,tom and chee,smore grilled cheese donut,31,g,25,mg,480,g,57,g,6,g,14,g,0,g,2,g,32,g
+377,tom and chee,salty swiss,43,g,100,mg,950,g,51,g,44,g,20,g,0,g,5,g,3,g
+378,tom and chee,side caesar salad with caesar dressing,20,g,20,mg,330,g,15,g,8,g,5,g,0,g,2,g,2,g
+379,tom and chee,side salad without dressing,1,g,0,mg,20,g,4,g,1,g,0,g,0,g,2,g,2,g
+380,tom and chee,smoked gouda cheese,24,g,45,mg,1140,g,3,g,18,g,15,g,0,g,3,g,0,g
+381,tom and chee,spicy cherry peppers,0,g,0,mg,220,g,1,g,0,g,0,g,0,g,1,g,0,g
+382,tom and chee,spicy pasta salad,29,g,25,mg,700,g,34,g,6,g,4.5,g,0,g,2,g,3,g
+383,tom and chee,spicy potato salad,35,g,30,mg,630,g,19,g,2,g,6,g,0,g,2,g,2,g
+384,tom and chee,sprite,0,g,0,mg,125,g,71,g,0,g,0,g,0,g,0,g,70,g
+385,tom and chee,strawberries,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,2,g,2,g
+386,tom and chee,strawberry lemonade grilled cheese donut,28,g,25,mg,520,g,50,g,8,g,13,g,0,g,2,g,27,g
+387,tom and chee,strawberry grape jam,0,g,0,mg,10,g,18,g,0,g,0,g,0,g,0,g,16,g
+388,tom and chee,sweet hot mustard,0,g,0,mg,220,g,8,g,0,g,0,g,0,g,0,g,8,g
+389,tom and chee,swiss cheese,24,g,75,mg,180,g,3,g,24,g,15,g,0,g,0,g,0,g
+390,tom and chee,swissshroom,40,g,75,mg,1260,g,52,g,36,g,19,g,0,g,5,g,4,g
+391,tom and chee,the divide,73,g,170,mg,1180,g,48,g,52,g,27,g,0,g,8,g,5,g
+392,tom and chee,the king grilled cheese donut,34,g,15,mg,580,g,52,g,11,g,13,g,0,g,3,g,26,g
+393,tom and chee,the longhorn,55,g,90,mg,1790,g,48,g,44,g,25,g,0,g,10,g,5,g
+394,tom and chee,the original grilled cheese donut,34,g,50,mg,700,g,36,g,14,g,16,g,0,g,1,g,16,g
+395,tom and chee,tomchee,39,g,80,mg,940,g,52,g,34,g,20,g,0,g,5,g,6,g
+396,tom and chee,tomato,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,3,g
+397,tom and chee,tomato dill soup,2,g,0,mg,600,g,13,g,2,g,0,g,0,g,3,g,7,g
+398,tom and chee,tomato gazpacho,5,g,0,mg,200,g,19,g,2,g,0,g,0,g,3,g,14,g
+399,tom and chee,turkey club,75,g,160,mg,1900,g,44,g,45,g,27,g,0,g,4,g,10,g
+400,tom and chee,turkey gumbo,12,g,5,mg,870,g,8,g,4,g,4.5,g,0,g,0,g,1,g
+401,tom and chee,turkey pot pie soup with crust,16,g,10,mg,1100,g,21,g,8,g,6,g,0,g,2,g,2,g
+402,tom and chee,turkey reuben,57,g,125,mg,1760,g,57,g,50,g,24,g,0,g,6,g,8,g
+403,tom and chee,tx rancher,57,g,125,mg,2570,g,55,g,39,g,22,g,0,g,5,g,4,g
+404,tom and chee,vegan cheese,15,g,0,mg,510,g,15,g,0,g,14,g,0,g,0,g,0,g
+405,tom and chee,veggie lentil soup,0.5,g,0,mg,570,g,21,g,6,g,0,g,0,g,7,g,4,g
+406,tom and chee,very gouda bbq,49,g,70,mg,4330,g,120,g,38,g,23,g,0,g,7,g,59,g
+407,tom and chee,vinaigrette pasta salad,31,g,0,mg,330,g,79,g,15,g,2.5,g,0,g,4,g,5,g
+408,tom and chee,west of philly with brisket,71,g,105,mg,2020,g,45,g,46,g,25,g,0,g,5,g,3,g
+409,tom and chee,westsider,70,g,320,mg,2300,g,49,g,55,g,30,g,0,g,6,g,3,g
+410,tom and chee,wheat bread,3,g,0,mg,400,g,38,g,10,g,0,g,0,g,2,g,6,g
+411,tom and chee,white balsamic vinaigrette,25,g,0,mg,65,g,22,g,0,g,1.5,g,0,g,0,g,21,g
+412,tom and chee,white bean chicken chili,3.5,g,15,mg,820,g,21,g,12,g,1,g,0,g,5,g,0,g
+413,tom and chee,white bread,2,g,0,mg,140,g,38,g,10,g,0,g,0,g,4,g,2,g
+414,tom and chee,yogurt dressing,3,g,5,mg,140,g,59,g,5,g,0,g,0,g,0,g,2,g
+415,tony romas,add fish grill toppings garlic scampi butter,29,g,55,mg,150,g,3,g,0,g,14,g,0,g,0,g,0,g
+416,tony romas,add fish grill toppings kickin sauce,29,g,15,mg,320,g,2,g,0,g,6,g,0,g,0,g,2,g
+417,tony romas,add fish grill toppings mojo glaze,0,g,0,mg,25,g,6,g,0,g,0,g,0,g,0,g,5,g
+418,tony romas,add fish grill toppings pineapple salsa,0,g,0,mg,200,g,4,g,2,g,0,g,0,g,1,g,3,g
+419,tony romas,add fish grill toppings shrimp piccata,16,g,170,mg,1210,g,4,g,22,g,7,g,0,g,1,g,1,g
+420,tony romas,add fish grill toppings sweet thai chili sauce,0,g,0,mg,540,g,27,g,0,g,0,g,0,g,0,g,18,g
+421,tony romas,add fish grill toppings tomato pesto salad,2,g,0,mg,115,g,3,g,0,g,1,g,0,g,1,g,2,g
+422,tony romas,asian salad with crispy chicken,27,g,60,mg,1950,g,81,g,37,g,5,g,0,g,5,g,17,g
+423,tony romas,asian salad with grilled chicken,3,g,70,mg,2010,g,46,g,35,g,0,g,0,g,5,g,17,g
+424,tony romas,asian salad with grilled salmon,17,g,85,mg,1110,g,45,g,35,g,3,g,0,g,5,g,17,g
+425,tony romas,asian salad lunch size with crispy chicken,20,g,45,mg,1500,g,60,g,26,g,4,g,0,g,3,g,15,g
+426,tony romas,asian salad lunch size with grilled chicken,2,g,70,mg,1910,g,34,g,32,g,0,g,0,g,3,g,15,g
+427,tony romas,asian salad lunch size with grilled salmon,16,g,85,mg,780,g,33,g,32,g,3,g,0,g,3,g,15,g
+428,tony romas,bacon macaroni and cheese,28,g,65,mg,1240,g,31,g,21,g,14,g,0,g,2,g,5,g
+429,tony romas,baked potato,0,g,0,mg,25,g,69,g,9,g,0,g,0,g,7,g,4,g
+430,tony romas,baked potato soup bowl,31,g,25,mg,2090,g,43,g,9,g,6,g,0,g,5,g,1,g
+431,tony romas,baked potato soup cup,20,g,15,mg,1340,g,26,g,5,g,4,g,0,g,3,g,0,g
+432,tony romas,baked potato add bacon pieces,3,g,10,mg,135,g,0,g,2,g,2,g,0,g,0,g,0,g
+433,tony romas,baked potato add chedder cheese,5,g,15,mg,90,g,1,g,3,g,3,g,0,g,0,g,0,g
+434,tony romas,baked potato add chives,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+435,tony romas,baked potato add sour cream,3,g,10,mg,10,g,1,g,0,g,2,g,0,g,0,g,0,g
+436,tony romas,baked potato add whipped margarine,5,g,0,mg,85,g,0,g,0,g,1,g,0,g,0,g,0,g
+437,tony romas,balsamic dijon dressing 1 5 fl oz,11,g,10,mg,380,g,4,g,1,g,2,g,0,g,0,g,3,g
+438,tony romas,balsamic dijon dressing 3 fl oz,22,g,20,mg,770,g,8,g,2,g,4,g,0,g,1,g,6,g
+439,tony romas,balsamic fig dressing 1 5 fl oz,0,g,0,mg,290,g,24,g,0,g,0,g,0,g,0,g,21,g
+440,tony romas,balsamic fig dressing 3 fl oz,0,g,0,mg,570,g,48,g,0,g,0,g,0,g,0,g,42,g
+441,tony romas,bbq 1 2 chicken,35,g,175,mg,1920,g,44,g,44,g,10,g,0,g,0,g,40,g
+442,tony romas,bbq 1 4 chicken lunch,18,g,90,mg,960,g,22,g,22,g,5,g,0,g,0,g,20,g
+443,tony romas,beef ribs full slab,189,g,395,mg,2900,g,66,g,75,g,82,g,0,g,0,g,60,g
+444,tony romas,beef ribs roma rack,126,g,265,mg,2370,g,55,g,50,g,55,g,0,g,0,g,50,g
+445,tony romas,bleu cheese dressing 1 5 fl oz,26,g,30,mg,330,g,2,g,3,g,5,g,0,g,0,g,2,g
+446,tony romas,bleu cheese dressing 3 fl oz,51,g,60,mg,660,g,3,g,6,g,11,g,0,g,0,g,3,g
+447,tony romas,bleu cheese wedge chop salad,89,g,105,mg,1940,g,15,g,18,g,22,g,0,g,2,g,11,g
+448,tony romas,boneless chicken bites with buffalo sauce,73,g,130,mg,4490,g,39,g,50,g,12,g,0,g,0,g,4,g
+449,tony romas,boneless chicken bites with carolina honeys,54,g,130,mg,3290,g,85,g,50,g,10,g,0,g,0,g,46,g
+450,tony romas,bourbon pecan vanilla cupcake,47,g,60,mg,510,g,86,g,7,g,20,g,0,g,1,g,62,g
+451,tony romas,bread loaf,13,g,0,mg,890,g,72,g,13,g,5,g,0,g,3,g,3,g
+452,tony romas,broccoli with herb butter,12,g,0,mg,150,g,6,g,3,g,5,g,0,g,2,g,2,g
+453,tony romas,buttermilk ranch dressing 1 5 fl oz,19,g,25,mg,390,g,1,g,1,g,4,g,0,g,0,g,1,g
+454,tony romas,buttermilk ranch dressing 3 fl oz,37,g,50,mg,780,g,3,g,2,g,8,g,0,g,0,g,2,g
+455,tony romas,caesar dressing 1 5 fl oz,23,g,25,mg,630,g,3,g,3,g,4,g,0,g,0,g,3,g
+456,tony romas,caesar dressing 3 fl oz,45,g,45,mg,1260,g,6,g,6,g,8,g,0,g,0,g,6,g
+457,tony romas,caesar salad full,51,g,60,mg,1570,g,21,g,13,g,10,g,0,g,3,g,8,g
+458,tony romas,caesar salad full with grilled chicken,53,g,130,mg,3030,g,21,g,42,g,10,g,0,g,3,g,8,g
+459,tony romas,caesar salad full with grilled salmon,67,g,140,mg,1880,g,21,g,41,g,13,g,0,g,3,g,8,g
+460,tony romas,cajun onion burger,52,g,170,mg,2900,g,82,g,59,g,22,g,0,g,6,g,15,g
+461,tony romas,cajun seared mahi includes wild rice blend and fire roasted vegetable,6,g,205,mg,2360,g,47,g,60,g,1,g,0,g,6,g,5,g
+462,tony romas,calamari ceasar salad lunch size,27,g,280,mg,1880,g,59,g,30,g,5,g,0,g,6,g,6,g
+463,tony romas,cheesy burger,49,g,185,mg,1990,g,34,g,58,g,23,g,0,g,2,g,5,g
+464,tony romas,chicken alfredo florentine pasta,40,g,140,mg,3380,g,119,g,62,g,14,g,0,g,11,g,22,g
+465,tony romas,chicken jack and bacon sandwich,50,g,125,mg,2010,g,40,g,50,g,15,g,0,g,1,g,13,g
+466,tony romas,chicken spinach stack lunch includes wild rice,18,g,170,mg,3910,g,40,g,69,g,7,g,0,g,2,g,3,g
+467,tony romas,chicken tortilla soup bowl,9,g,50,mg,1340,g,34,g,20,g,3,g,0,g,9,g,2,g
+468,tony romas,chicken tortilla soup cup,6,g,30,mg,890,g,23,g,13,g,2,g,0,g,6,g,2,g
+469,tony romas,chipotle chicken salad lunch size,46,g,155,mg,2480,g,58,g,55,g,22,g,0,g,9,g,4,g
+470,tony romas,chipotle salad with gilled chicken,74,g,215,mg,3420,g,112,g,82,g,35,g,0,g,16,g,7,g
+471,tony romas,chocolate chunk cookie sandwich,21,g,30,mg,350,g,70,g,5,g,12,g,0,g,2,g,47,g
+472,tony romas,classic burger lunch,31,g,125,mg,1920,g,34,g,42,g,11,g,0,g,2,g,5,g
+473,tony romas,cole slaw,11,g,5,mg,330,g,7,g,1,g,2,g,0,g,1,g,6,g
+474,tony romas,corn on the cob,6,g,0,mg,85,g,37,g,5,g,1,g,0,g,4,g,5,g
+475,tony romas,dinner caesar side salad,18,g,20,mg,580,g,10,g,6,g,4,g,0,g,2,g,3,g
+476,tony romas,filet medallions,47,g,180,mg,1870,g,1,g,56,g,20,g,0,g,0,g,0,g
+477,tony romas,filet medallions lunch with loaded mashed potatoes,62,g,245,mg,2160,g,36,g,44,g,33,g,0,g,4,g,3,g
+478,tony romas,filet mignon 8 oz,73,g,235,mg,1110,g,1,g,44,g,36,g,0,g,0,g,0,g
+479,tony romas,french fries,19,g,0,mg,1220,g,53,g,4,g,4,g,0,g,5,g,0,g
+480,tony romas,golden apple cranberry tart,19,g,20,mg,180,g,63,g,7,g,10,g,0,g,1,g,34,g
+481,tony romas,grilled chicken and fire roasted salad,15,g,100,mg,1700,g,15,g,41,g,6,g,0,g,6,g,7,g
+482,tony romas,honey mustard dressing 1 5 fl oz,27,g,0,mg,260,g,8,g,0,g,4,g,0,g,0,g,8,g
+483,tony romas,honey mustard dressing 3 fl oz,54,g,0,mg,510,g,15,g,0,g,8,g,0,g,0,g,15,g
+484,tony romas,italian fat free dressing 1 5 fl oz,0,g,0,mg,740,g,5,g,0,g,0,g,0,g,0,g,3,g
+485,tony romas,italian fat free dressing 3 fl oz,0,g,0,mg,1470,g,9,g,0,g,0,g,0,g,0,g,6,g
+486,tony romas,kickin shrimp,59,g,295,mg,1310,g,19,g,39,g,12,g,0,g,3,g,5,g
+487,tony romas,kids appetizer celery and carrots with buttermilk dressing,19,g,25,mg,410,g,3,g,1,g,4,g,0,g,1,g,2,g
+488,tony romas,kids chicken strips with fries and honey mustard,61,g,45,mg,2250,g,77,g,26,g,11,g,0,g,4,g,8,g
+489,tony romas,kids hamburger with fries,36,g,70,mg,1390,g,73,g,30,g,11,g,0,g,5,g,4,g
+490,tony romas,kids mac and cheese with fries,31,g,35,mg,2170,g,110,g,21,g,8,g,0,g,7,g,16,g
+491,tony romas,kids ribs with original barbecue sauce and fries,39,g,105,mg,1720,g,59,g,32,g,13,g,0,g,4,g,15,g
+492,tony romas,kids sundae with chocolate or caramel topping,7,g,15,mg,90,g,54,g,3,g,4,g,0,g,0,g,43,g
+493,tony romas,kids pizza with fries,33,g,30,mg,2180,g,112,g,30,g,12,g,0,g,8,g,6,g
+494,tony romas,loaded mashed potatoes,22,g,65,mg,580,g,29,g,5,g,14,g,0,g,3,g,2,g
+495,tony romas,mahi mahi blackened,2,g,205,mg,1740,g,9,g,54,g,1,g,0,g,3,g,1,g
+496,tony romas,mahi mahi grilled,2,g,205,mg,1050,g,3,g,53,g,0,g,0,g,1,g,1,g
+497,tony romas,memphis burger,64,g,225,mg,3990,g,46,g,66,g,27,g,0,g,2,g,16,g
+498,tony romas,mojo chicken with wild rice,4,g,140,mg,3760,g,50,g,62,g,0,g,0,g,2,g,14,g
+499,tony romas,mojo chicken lunch with wild rice and broccoli,14,g,70,mg,2400,g,49,g,36,g,5,g,0,g,4,g,10,g
+500,tony romas,new york strip 12 oz,76,g,295,mg,1960,g,1,g,72,g,37,g,0,g,0,g,0,g
+501,tony romas,nolitas panini,73,g,205,mg,4180,g,65,g,69,g,32,g,0,g,2,g,3,g
+502,tony romas,onion loaf full served with original bbq sauce,23,g,0,mg,2660,g,205,g,23,g,4,g,0,g,12,g,48,g
+503,tony romas,onion loaf half served with original bbq sauce,12,g,0,mg,1330,g,114,g,11,g,2,g,0,g,6,g,34,g
+504,tony romas,original baby back ribs full slab,38,g,155,mg,4050,g,83,g,45,g,14,g,0,g,0,g,75,g
+505,tony romas,original baby back ribs half slab,19,g,80,mg,2910,g,64,g,23,g,7,g,0,g,0,g,57,g
+506,tony romas,original baby back ribs lunch includes cole slaw,30,g,85,mg,3230,g,71,g,23,g,9,g,0,g,1,g,63,g
+507,tony romas,original baby back ribs roma rack,25,g,105,mg,2700,g,55,g,30,g,9,g,0,g,0,g,50,g
+508,tony romas,pan asian dressing 1 5 fl oz,17,g,0,mg,620,g,11,g,0,g,2,g,0,g,0,g,11,g
+509,tony romas,pan asian dressing 3 fl oz,33,g,0,mg,1230,g,21,g,0,g,3,g,0,g,0,g,21,g
+510,tony romas,potato skins with sour cream,51,g,135,mg,1470,g,41,g,35,g,25,g,0,g,0,g,2,g
+511,tony romas,pulled pork bbq sandwich,31,g,85,mg,3080,g,46,g,25,g,11,g,0,g,2,g,15,g
+512,tony romas,raspberry brownie royale,18,g,20,mg,240,g,74,g,5,g,5,g,0,g,2,g,57,g
+513,tony romas,red velvet cake,18,g,50,mg,510,g,85,g,6,g,8,g,1,g,1,g,65,g
+514,tony romas,red wine vinaigrette 1 5 fl oz,23,g,0,mg,500,g,5,g,0,g,3,g,0,g,0,g,3,g
+515,tony romas,red wine vinaigrette 3 fl oz,45,g,0,mg,990,g,9,g,0,g,6,g,0,g,0,g,6,g
+516,tony romas,rib combos st louis ribs 0 6 lbs and bbq 1 4 chicken,55,g,255,mg,2850,g,66,g,68,g,20,g,0,g,0,g,60,g
+517,tony romas,rib combos st louis ribs 0 6 lbs and chicken tenderloins,90,g,225,mg,3500,g,88,g,76,g,23,g,0,g,0,g,48,g
+518,tony romas,rib combos st louis ribs 0 6 lbs and grilled salmon,90,g,320,mg,2600,g,38,g,75,g,36,g,10,g,0,g,30,g
+519,tony romas,ribeye 14 oz,97,g,580,mg,1210,g,1,g,106,g,45,g,0,g,0,g,0,g
+520,tony romas,roasted garlic green beans,28,g,0,mg,450,g,9,g,2,g,5,g,0,g,4,g,2,g
+521,tony romas,romas dinner salad,3,g,5,mg,170,g,11,g,4,g,1,g,0,g,2,g,3,g
+522,tony romas,romas sampler served with original bbq sauce,135,g,255,mg,15400,g,225,g,85,g,48,g,0,g,16,g,46,g
+523,tony romas,romas side caesar dinner salad,18,g,20,mg,580,g,10,g,6,g,4,g,0,g,2,g,3,g
+524,tony romas,romas side dinner salad,3,g,5,mg,170,g,11,g,4,g,1,g,0,g,2,g,3,g
+525,tony romas,salmon blackened,31,g,165,mg,1660,g,6,g,58,g,6,g,0,g,2,g,0,g
+526,tony romas,salmon grilled,31,g,165,mg,1660,g,6,g,58,g,6,g,0,g,2,g,0,g
+527,tony romas,shrimp and salmon piccata includes wild rice blend and broccoli,59,g,340,mg,2170,g,4,g,78,g,18,g,0,g,1,g,1,g
+528,tony romas,shrimp scampi pasta,66,g,410,mg,1900,g,108,g,62,g,30,g,0,g,6,g,10,g
+529,tony romas,shrimp scampi lunch,33,g,200,mg,940,g,59,g,31,g,15,g,0,g,3,g,5,g
+530,tony romas,side barbecue sauce blue ridge smokies,0,g,0,mg,620,g,17,g,0,g,0,g,0,g,0,g,15,g
+531,tony romas,side barbecue sauce bourbon,1,g,0,mg,160,g,11,g,0,g,0,g,0,g,0,g,9,g
+532,tony romas,side barbecue sauce carolina honey,0,g,0,mg,740,g,24,g,0,g,0,g,0,g,0,g,21,g
+533,tony romas,side barbecue sauce original,0,g,0,mg,660,g,17,g,0,g,0,g,0,g,0,g,15,g
+534,tony romas,side barbecue sauce red hots,0,g,0,mg,680,g,18,g,0,g,0,g,0,g,0,g,17,g
+535,tony romas,south miami fried shrimp,32,g,230,mg,1360,g,64,g,38,g,5,g,0,g,6,g,13,g
+536,tony romas,southwest dressing 1 5 fl oz,18,g,0,mg,480,g,5,g,0,g,2,g,0,g,0,g,3,g
+537,tony romas,southwest dressing 3 fl oz,36,g,0,mg,960,g,9,g,0,g,5,g,0,g,0,g,6,g
+538,tony romas,spinach artichoke dip with chips,80,g,170,mg,12230,g,100,g,46,g,38,g,0,g,10,g,18,g
+539,tony romas,st louis ribs full slab,94,g,420,mg,2080,g,45,g,115,g,37,g,0,g,0,g,40,g
+540,tony romas,st louis ribs half rack,31,g,140,mg,1860,g,44,g,38,g,12,g,0,g,0,g,40,g
+541,tony romas,st louis ribs roma rack,63,g,280,mg,1970,g,45,g,77,g,25,g,0,g,0,g,40,g
+542,tony romas,st louis sampler with full slab ribs,94,g,420,mg,4870,g,121,g,115,g,37,g,0,g,0,g,108,g
+543,tony romas,steak and wild mushroom flatbread,93,g,235,mg,2370,g,3,g,45,g,42,g,0,g,2,g,3,g
+544,tony romas,steak topping asiago crust,36,g,45,mg,500,g,1,g,5,g,8,g,0,g,0,g,0,g
+545,tony romas,steak topping bbq onions,1,g,0,mg,115,g,7,g,0,g,0,g,0,g,1,g,5,g
+546,tony romas,steak topping cabernet demi glace,3,g,0,mg,270,g,3,g,0,g,1,g,0,g,0,g,0,g
+547,tony romas,steak topping peppercorn sauce,7,g,20,mg,250,g,3,g,0,g,4,g,0,g,1,g,0,g
+548,tony romas,steak topping wild mushrooms,4,g,10,mg,50,g,2,g,1,g,2,g,0,g,0,g,0,g
+549,tony romas,steakhouse burger,58,g,190,mg,3030,g,40,g,55,g,25,g,0,g,3,g,7,g
+550,tony romas,strawberry cheesecake,27,g,105,mg,240,g,42,g,7,g,16,g,0,g,0,g,30,g
+551,tony romas,tomato pesto vinaigrette 1 5 fl oz,17,g,0,mg,380,g,4,g,0,g,2,g,0,g,0,g,3,g
+552,tony romas,tomato pesto vinaigrette 3 fl oz,33,g,0,mg,9770,g,8,g,0,g,4,g,0,g,0,g,5,g
+553,tony romas,wild mushroom and havarti burger,53,g,185,mg,2080,g,36,g,55,g,26,g,0,g,2,g,6,g
+554,tony romas,wild rice blend,0,g,0,mg,600,g,32,g,5,g,0,g,0,g,1,g,1,g
+555,toojays gourmet deli,2 milk,13,g,55,mg,320,g,32,g,22,g,8,g,0.5,g,0,g,34,g
+556,toojays gourmet deli,add apple jelly to toast,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,8,g
+557,toojays gourmet deli,add avocado to salad,15,g,0,mg,5,g,9,g,2,g,2,g,0,g,7,g,0,g
+558,toojays gourmet deli,add butter to bagel,9,g,25,mg,95,g,0,g,0,g,6,g,0,g,0,g,0,g
+559,toojays gourmet deli,add butter to toast,9,g,25,mg,95,g,0,g,0,g,6,g,0,g,0,g,0,g
+560,toojays gourmet deli,add caramelized onions to chicken sandwich,4.5,g,0,mg,40,g,5,g,1,g,1,g,0,g,0,g,2,g
+561,toojays gourmet deli,add chicken to salad,5,g,115,mg,560,g,6,g,42,g,1.5,g,0,g,0,g,4,g
+562,toojays gourmet deli,add cream cheese to bagel,11,g,35,mg,160,g,2,g,2,g,6,g,0,g,0,g,0,g
+563,toojays gourmet deli,add grape jelly to toast,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,8,g
+564,toojays gourmet deli,add orange marmalade to toast,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,8,g
+565,toojays gourmet deli,add strawberry jam to toast,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,9,g
+566,toojays gourmet deli,almond rugalach,31,g,35,mg,400,g,36,g,5,g,10,g,3,g,2,g,12,g
+567,toojays gourmet deli,apple danish,31,g,60,mg,390,g,61,g,9,g,13,g,0,g,2,g,28,g
+568,toojays gourmet deli,apricot rugalach,29,g,25,mg,380,g,35,g,4,g,10,g,2.5,g,2,g,13,g
+569,toojays gourmet deli,arnold palmer,0,g,0,mg,105,g,26,g,0,g,0,g,0,g,0,g,25,g
+570,toojays gourmet deli,bacon,8,g,20,mg,340,g,0,g,6,g,3,g,0,g,0,g,0,g
+571,toojays gourmet deli,baked atlantic salmon with dill sauce and rice pilaf,103,g,210,mg,2210,g,44,g,51,g,23,g,4,g,3,g,3,g
+572,toojays gourmet deli,balsamic vinaigrette,48,g,0,mg,920,g,8,g,0,g,8,g,0,g,0,g,8,g
+573,toojays gourmet deli,banana dream cake,81,g,175,mg,520,g,123,g,13,g,35,g,4.5,g,7,g,89,g
+574,toojays gourmet deli,basket of fries,49,g,0,mg,50,g,61,g,6,g,7,g,0,g,3,g,0,g
+575,toojays gourmet deli,beef brisket dip on french bread,59,g,115,mg,3560,g,134,g,69,g,14,g,0.5,g,8,g,16,g
+576,toojays gourmet deli,beef brisket on rye bread,18,g,95,mg,2850,g,49,g,52,g,4.5,g,0,g,6,g,14,g
+577,toojays gourmet deli,beef brisket platter with 2 potato pancakes,29,g,220,mg,2410,g,85,g,57,g,14,g,1,g,7,g,15,g
+578,toojays gourmet deli,beef cabbage soup bowl,7,g,25,mg,430,g,14,g,13,g,2.5,g,0,g,2,g,10,g
+579,toojays gourmet deli,beef cabbage soup cup,6,g,20,mg,380,g,12,g,11,g,2.5,g,0,g,2,g,8,g
+580,toojays gourmet deli,beer battered onion rings with remoulade sauce,119,g,25,mg,2180,g,95,g,10,g,19,g,0,g,0,g,19,g
+581,toojays gourmet deli,belgian waffle,26,g,155,mg,940,g,118,g,8,g,15,g,0,g,2,g,56,g
+582,toojays gourmet deli,belgian waffle add blueberry topping,0,g,0,mg,170,g,6,g,0,g,0,g,0,g,0,g,29,g
+583,toojays gourmet deli,belgian waffle add strawberries and whipped cream,3.5,g,15,mg,0,g,12,g,1,g,3,g,0,g,2,g,9,g
+584,toojays gourmet deli,black and bleu chopped sirloin bowl,83,g,340,mg,3930,g,70,g,84,g,45,g,3.5,g,6,g,30,g
+585,toojays gourmet deli,blintzes with blueberry topping,31,g,145,mg,460,g,34,g,9,g,12,g,0,g,0,g,35,g
+586,toojays gourmet deli,blintzes with cherry topping,31,g,145,mg,390,g,45,g,9,g,12,g,0,g,0,g,29,g
+587,toojays gourmet deli,blintzes plain,31,g,145,mg,380,g,31,g,9,g,12,g,0,g,0,g,20,g
+588,toojays gourmet deli,blt on challah bread,57,g,70,mg,1700,g,91,g,19,g,11,g,0,g,7,g,17,g
+589,toojays gourmet deli,blt with avocado and lemon garlic aioli on challah bread,82,g,85,mg,1910,g,97,g,21,g,15,g,0,g,11,g,18,g
+590,toojays gourmet deli,blue cheese dressing,60,g,40,mg,1160,g,4,g,4,g,8,g,0,g,0,g,4,g
+591,toojays gourmet deli,blueberry danish,31,g,60,mg,410,g,54,g,9,g,13,g,0,g,2,g,30,g
+592,toojays gourmet deli,blueberry muffin,29,g,120,mg,430,g,67,g,7,g,5,g,0.5,g,2,g,38,g
+593,toojays gourmet deli,bran muffin,27,g,85,mg,660,g,84,g,9,g,4,g,0,g,9,g,45,g
+594,toojays gourmet deli,breakfast combo platter without toast or bagel,64,g,585,mg,2930,g,132,g,29,g,23,g,0,g,4,g,49,g
+595,toojays gourmet deli,breakfast wrap add american cheese,9,g,25,mg,300,g,1,g,6,g,6,g,0,g,0,g,0,g
+596,toojays gourmet deli,breakfast wrap add cheddar cheese,9,g,30,mg,180,g,0,g,7,g,6,g,0,g,0,g,0,g
+597,toojays gourmet deli,breakfast wrap add muenster cheese,14,g,45,mg,270,g,0,g,11,g,9,g,0,g,0,g,0,g
+598,toojays gourmet deli,breakfast wrap add provolone cheese,8,g,20,mg,190,g,1,g,7,g,4.5,g,0,g,0,g,0,g
+599,toojays gourmet deli,brioche bun,5,g,0,mg,360,g,34,g,6,g,1,g,0,g,1,g,1,g
+600,toojays gourmet deli,broccoli and carrot medley,4,g,5,mg,120,g,9,g,2,g,1.5,g,0,g,4,g,3,g
+601,toojays gourmet deli,broiled cod,35,g,130,mg,1330,g,41,g,42,g,14,g,5,g,2,g,2,g
+602,toojays gourmet deli,brownie,34,g,70,mg,270,g,65,g,5,g,13,g,1,g,2,g,51,g
+603,toojays gourmet deli,buffalo chicken wrap on sundried tomato tortilla,87,g,65,mg,4930,g,88,g,34,g,17,g,0,g,8,g,15,g
+604,toojays gourmet deli,buffalo chicken wrap on whole wheat tortilla,87,g,65,mg,4880,g,87,g,34,g,17,g,0,g,9,g,15,g
+605,toojays gourmet deli,buffalo style chicken tenders with blue cheese dressing,160,g,135,mg,6060,g,94,g,54,g,23,g,0.5,g,5,g,13,g
+606,toojays gourmet deli,build your own beef burger,75,g,145,mg,2330,g,86,g,51,g,18,g,2,g,6,g,12,g
+607,toojays gourmet deli,build your own black bean burger,56,g,5,mg,1950,g,106,g,28,g,9,g,0,g,14,g,14,g
+608,toojays gourmet deli,build your own burger add american cheese,9,g,25,mg,300,g,1,g,6,g,6,g,0,g,0,g,0,g
+609,toojays gourmet deli,build your own burger add avocado,15,g,0,mg,5,g,9,g,2,g,2,g,0,g,7,g,0,g
+610,toojays gourmet deli,build your own burger add bacon,4,g,10,mg,170,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+611,toojays gourmet deli,build your own burger add bbq sauce,0,g,0,mg,740,g,18,g,0,g,0,g,0,g,4,g,12,g
+612,toojays gourmet deli,build your own burger add caramelized onions,4.5,g,0,mg,40,g,5,g,1,g,1,g,0,g,0,g,2,g
+613,toojays gourmet deli,build your own burger add cheddar cheese,9,g,30,mg,180,g,0,g,7,g,6,g,0,g,0,g,0,g
+614,toojays gourmet deli,build your own burger add chipotle mayo,35,g,35,mg,300,g,2,g,1,g,6,g,0,g,0,g,0,g
+615,toojays gourmet deli,build your own burger add feta cheese,6,g,20,mg,320,g,1,g,5,g,4,g,0,g,1,g,0,g
+616,toojays gourmet deli,build your own burger add fried egg,12,g,210,mg,125,g,0,g,6,g,3,g,0,g,0,g,0,g
+617,toojays gourmet deli,build your own burger add gorgonzola cheese,8,g,25,mg,380,g,1,g,6,g,6,g,0,g,0,g,0,g
+618,toojays gourmet deli,build your own burger add grilled green peppers,7,g,0,mg,60,g,2,g,0,g,1.5,g,0,g,0,g,1,g
+619,toojays gourmet deli,build your own burger add horseradish sauce,7,g,25,mg,120,g,5,g,1,g,4.5,g,0,g,0,g,1,g
+620,toojays gourmet deli,build your own burger add lemon garlic aioli,36,g,30,mg,430,g,3,g,0,g,5,g,0,g,0,g,1,g
+621,toojays gourmet deli,build your own burger add muenster cheese,14,g,45,mg,270,g,0,g,11,g,9,g,0,g,0,g,0,g
+622,toojays gourmet deli,build your own burger add onion ring,4.5,g,0,mg,90,g,4,g,0,g,1,g,0,g,0,g,0,g
+623,toojays gourmet deli,build your own burger add provolone cheese,8,g,20,mg,190,g,1,g,7,g,4.5,g,0,g,0,g,0,g
+624,toojays gourmet deli,build your own burger add remoulade,30,g,30,mg,700,g,4,g,2,g,5,g,0,g,0,g,2,g
+625,toojays gourmet deli,build your own burger add salsa,0,g,0,mg,460,g,6,g,0,g,0,g,0,g,2,g,4,g
+626,toojays gourmet deli,build your own burger add sauteed mushrooms,3,g,0,mg,25,g,2,g,2,g,0.5,g,0,g,0,g,1,g
+627,toojays gourmet deli,build your own burger add swiss cheese,9,g,30,mg,55,g,0,g,7,g,6,g,0,g,0,g,0,g
+628,toojays gourmet deli,build your own chicken burger,15,g,115,mg,1290,g,36,g,47,g,3,g,0,g,1,g,1,g
+629,toojays gourmet deli,build your own turkey burger,83,g,120,mg,3170,g,86,g,42,g,18,g,0,g,6,g,12,g
+630,toojays gourmet deli,burger a la toojays on a brioche bun,94,g,200,mg,2800,g,89,g,66,g,29,g,2,g,7,g,14,g
+631,toojays gourmet deli,caesar dressing,44,g,40,mg,1280,g,8,g,4,g,8,g,0,g,0,g,4,g
+632,toojays gourmet deli,california fruit salad with fruit and vanilla yogurt,6,g,5,mg,150,g,77,g,11,g,0.5,g,0,g,8,g,64,g
+633,toojays gourmet deli,candied yams,1.5,g,5,mg,35,g,32,g,2,g,1,g,0,g,1,g,18,g
+634,toojays gourmet deli,carrot and broccoli medley with garlic butter,4,g,5,mg,120,g,9,g,2,g,1.5,g,0,g,4,g,3,g
+635,toojays gourmet deli,carrot and green bean medley wtih garlic butter,4,g,5,mg,105,g,10,g,1,g,1.5,g,0,g,4,g,3,g
+636,toojays gourmet deli,carrot cake,62,g,140,mg,480,g,100,g,9,g,17,g,0,g,3,g,74,g
+637,toojays gourmet deli,challah bread,8,g,40,mg,250,g,38,g,6,g,1.5,g,0,g,1,g,5,g
+638,toojays gourmet deli,challah toast,8,g,40,mg,250,g,38,g,6,g,1.5,g,0,g,1,g,5,g
+639,toojays gourmet deli,cheese blintzes with blueberry topping,63,g,290,mg,930,g,68,g,19,g,25,g,0,g,1,g,69,g
+640,toojays gourmet deli,cheese blintzes with cherry topping,63,g,290,mg,790,g,90,g,19,g,25,g,0,g,1,g,59,g
+641,toojays gourmet deli,cheese blintzes plain,63,g,290,mg,760,g,62,g,19,g,25,g,0,g,0,g,39,g
+642,toojays gourmet deli,cheese danish,47,g,95,mg,610,g,81,g,13,g,23,g,0,g,3,g,40,g
+643,toojays gourmet deli,cheesecake with strawberries,44,g,240,mg,600,g,66,g,11,g,25,g,0,g,2,g,50,g
+644,toojays gourmet deli,cherry danish,31,g,60,mg,360,g,60,g,9,g,13,g,0,g,2,g,27,g
+645,toojays gourmet deli,chicken and waffles,67,g,205,mg,2640,g,127,g,31,g,21,g,0,g,1,g,45,g
+646,toojays gourmet deli,chicken a la toojays on a brioche bun,73,g,170,mg,2440,g,94,g,69,g,20,g,0,g,7,g,18,g
+647,toojays gourmet deli,chicken caesar salad,13,g,120,mg,1200,g,40,g,54,g,3,g,0,g,5,g,7,g
+648,toojays gourmet deli,chicken caesar wrap on sundried tomato tortilla,22,g,120,mg,1550,g,80,g,53,g,7,g,0,g,6,g,24,g
+649,toojays gourmet deli,chicken caesar wrap on whole wheat tortilla,22,g,120,mg,1500,g,79,g,53,g,7,g,0,g,7,g,24,g
+650,toojays gourmet deli,chicken capri with roasted red potatoes,94,g,295,mg,1930,g,63,g,72,g,38,g,1.5,g,7,g,5,g
+651,toojays gourmet deli,chicken noodle soup bowl,1.5,g,30,mg,160,g,12,g,10,g,0,g,0,g,1,g,2,g
+652,toojays gourmet deli,chicken noodle soup cup,1,g,20,mg,100,g,9,g,6,g,0,g,0,g,0,g,2,g
+653,toojays gourmet deli,chicken quesadilla w salsa and sour cream fries slaw and pickle not included,88,g,250,mg,2360,g,67,g,80,g,39,g,0.5,g,6,g,11,g
+654,toojays gourmet deli,chicken tenders add bbq sauce,0,g,0,mg,740,g,18,g,0,g,0,g,0,g,4,g,12,g
+655,toojays gourmet deli,chicken tenders add honey mustard dressing,36,g,25,mg,350,g,21,g,0,g,5,g,0,g,0,g,18,g
+656,toojays gourmet deli,chicken tenders add ranch dressing,44,g,15,mg,390,g,5,g,3,g,6,g,0,g,0,g,3,g
+657,toojays gourmet deli,chipotle bacon burger on a brioche bun,107,g,205,mg,2740,g,93,g,63,g,29,g,2,g,8,g,16,g
+658,toojays gourmet deli,chocolate iced macaroon,40,g,25,mg,130,g,72,g,7,g,30,g,0,g,8,g,50,g
+659,toojays gourmet deli,chocolate layer cake,47,g,45,mg,470,g,173,g,8,g,16,g,5,g,6,g,144,g
+660,toojays gourmet deli,chocolate muffin,38,g,135,mg,500,g,85,g,11,g,9,g,0.5,g,6,g,47,g
+661,toojays gourmet deli,chocolate rugalach,29,g,25,mg,370,g,40,g,4,g,11,g,2.5,g,2,g,18,g
+662,toojays gourmet deli,choose too beef brisket sandwich,13,g,50,mg,1920,g,30,g,27,g,3,g,0,g,4,g,12,g
+663,toojays gourmet deli,choose too caesar salad,5,g,5,mg,350,g,19,g,8,g,1.5,g,0,g,4,g,2,g
+664,toojays gourmet deli,choose too chopped chicken liver salad,19,g,365,mg,940,g,32,g,20,g,5,g,0,g,3,g,8,g
+665,toojays gourmet deli,choose too chopped liver sandwich,25,g,370,mg,1690,g,38,g,19,g,6,g,0,g,5,g,16,g
+666,toojays gourmet deli,choose too corned beef sandwich,15,g,50,mg,2230,g,30,g,17,g,3.5,g,0,g,4,g,12,g
+667,toojays gourmet deli,choose too dill chicken salad,20,g,70,mg,840,g,25,g,24,g,3,g,0,g,3,g,4,g
+668,toojays gourmet deli,choose too dill chicken sandwich,26,g,75,mg,1600,g,31,g,24,g,4,g,0,g,5,g,13,g
+669,toojays gourmet deli,choose too egg salad,21,g,330,mg,740,g,25,g,14,g,4,g,0,g,3,g,5,g
+670,toojays gourmet deli,choose too egg salad sandwich,27,g,335,mg,1500,g,31,g,13,g,5,g,0,g,4,g,13,g
+671,toojays gourmet deli,choose too house salad no dressing,0,g,0,mg,15,g,8,g,2,g,0,g,0,g,3,g,4,g
+672,toojays gourmet deli,choose too liverwurst sandwich,31,g,170,mg,2250,g,32,g,17,g,9,g,0,g,4,g,12,g
+673,toojays gourmet deli,choose too mandarin chicken salad,10,g,40,mg,640,g,39,g,19,g,1,g,0,g,4,g,16,g
+674,toojays gourmet deli,choose too pastrami sandwich,23,g,55,mg,1660,g,30,g,17,g,7,g,0,g,4,g,12,g
+675,toojays gourmet deli,choose too roast beef sandwich,11,g,80,mg,1460,g,30,g,27,g,3,g,0,g,4,g,12,g
+676,toojays gourmet deli,choose too shrimp salad,13,g,145,mg,870,g,26,g,19,g,1.5,g,0,g,3,g,4,g
+677,toojays gourmet deli,choose too shrimp salad sandwich,20,g,150,mg,1630,g,32,g,19,g,3,g,0,g,4,g,12,g
+678,toojays gourmet deli,choose too tongue sandwich,20,g,75,mg,1750,g,30,g,14,g,6,g,0,g,4,g,12,g
+679,toojays gourmet deli,choose too traditional chicken salad,25,g,75,mg,800,g,24,g,24,g,3.5,g,0,g,3,g,4,g
+680,toojays gourmet deli,choose too traditional chicken salad sandwich,31,g,75,mg,1560,g,31,g,24,g,4.5,g,0,g,5,g,12,g
+681,toojays gourmet deli,choose too triple j sandwich,30,g,80,mg,2460,g,44,g,25,g,8,g,0,g,6,g,24,g
+682,toojays gourmet deli,choose too tuna salad,18,g,35,mg,840,g,30,g,21,g,2,g,0,g,4,g,9,g
+683,toojays gourmet deli,choose too tuna salad sandwich,24,g,40,mg,1600,g,36,g,21,g,3.5,g,0,g,5,g,17,g
+684,toojays gourmet deli,choose too turkey avocado sandwich,24,g,50,mg,2270,g,36,g,19,g,3,g,0,g,7,g,14,g
+685,toojays gourmet deli,choose too turkey sandwich,11,g,40,mg,2160,g,32,g,17,g,1.5,g,0,g,4,g,12,g
+686,toojays gourmet deli,choose too whitefish salad,20,g,50,mg,1400,g,25,g,22,g,4,g,0,g,3,g,4,g
+687,toojays gourmet deli,choose too whitefish salad sandwich,26,g,55,mg,2150,g,31,g,22,g,5,g,0,g,4,g,12,g
+688,toojays gourmet deli,chopped chicken liver,37,g,730,mg,1510,g,44,g,36,g,10,g,0,g,4,g,14,g
+689,toojays gourmet deli,chopped chicken liver on rye bread,43,g,735,mg,2410,g,69,g,38,g,12,g,0,g,7,g,24,g
+690,toojays gourmet deli,chopped chicken liver starter,19,g,365,mg,940,g,32,g,20,g,5,g,0,g,3,g,8,g
+691,toojays gourmet deli,cinnamon danish,26,g,45,mg,360,g,66,g,7,g,13,g,0,g,2,g,37,g
+692,toojays gourmet deli,cinnamon raisin bagel,1.5,g,0,mg,760,g,78,g,14,g,0,g,0,g,4,g,9,g
+693,toojays gourmet deli,cinnamon rugalach,32,g,30,mg,440,g,38,g,4,g,11,g,3.5,g,2,g,15,g
+694,toojays gourmet deli,classic nova on a bagel plain bagel,23,g,90,mg,1070,g,98,g,37,g,9,g,0,g,6,g,16,g
+695,toojays gourmet deli,coconut cake,56,g,15,mg,480,g,103,g,8,g,32,g,4,g,8,g,75,g
+696,toojays gourmet deli,cole slaw,8,g,5,mg,340,g,11,g,1,g,1.5,g,0,g,2,g,10,g
+697,toojays gourmet deli,combo deli platter base no meat,26,g,15,mg,2960,g,75,g,10,g,4,g,0,g,11,g,20,g
+698,toojays gourmet deli,combo deli platter corned beef,4.5,g,30,mg,670,g,0,g,9,g,1.5,g,0,g,0,g,0,g
+699,toojays gourmet deli,combo deli platter pastrami,10,g,35,mg,290,g,0,g,9,g,4,g,0,g,0,g,0,g
+700,toojays gourmet deli,combo deli platter roast beef,2,g,50,mg,150,g,0,g,15,g,1,g,0,g,0,g,0,g
+701,toojays gourmet deli,combo deli platter turkey,2,g,25,mg,620,g,1,g,9,g,0,g,0,g,0,g,0,g
+702,toojays gourmet deli,corned beef hash and eggs with home fries,39,g,485,mg,2570,g,37,g,33,g,11,g,0,g,3,g,4,g
+703,toojays gourmet deli,cran grape juice,0,g,0,mg,150,g,58,g,0,g,0,g,0,g,0,g,54,g
+704,toojays gourmet deli,cranberry juice,0,g,0,mg,55,g,45,g,0,g,0,g,0,g,0,g,41,g
+705,toojays gourmet deli,cranberry muffin,37,g,115,mg,430,g,66,g,9,g,6,g,0.5,g,3,g,35,g
+706,toojays gourmet deli,creamed spinach,12,g,0,mg,400,g,8,g,4,g,2,g,0,g,3,g,3,g
+707,toojays gourmet deli,create your own omelette base egg beaters,14,g,0,mg,460,g,3,g,18,g,2.5,g,0,g,0,g,3,g
+708,toojays gourmet deli,create your own omelette base egg whites,14,g,0,mg,410,g,1,g,20,g,2.5,g,0,g,0,g,1,g
+709,toojays gourmet deli,create your own omelette base regular eggs,29,g,635,mg,320,g,1,g,19,g,7,g,0,g,0,g,1,g
+710,toojays gourmet deli,create your own omelette add american cheese,9,g,25,mg,300,g,1,g,6,g,6,g,0,g,0,g,0,g
+711,toojays gourmet deli,create your own omelette add bacon,4,g,10,mg,170,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+712,toojays gourmet deli,create your own omelette add cheddar cheese,9,g,30,mg,180,g,0,g,7,g,6,g,0,g,0,g,0,g
+713,toojays gourmet deli,create your own omelette add corned beef,4.5,g,30,mg,670,g,0,g,9,g,1.5,g,0,g,0,g,0,g
+714,toojays gourmet deli,create your own omelette add ham,3.5,g,30,mg,370,g,4,g,9,g,1,g,0,g,0,g,3,g
+715,toojays gourmet deli,create your own omelette add muenster cheese,14,g,45,mg,270,g,0,g,11,g,9,g,0,g,0,g,0,g
+716,toojays gourmet deli,create your own omelette add mushrooms,0,g,0,mg,0,g,2,g,2,g,0,g,0,g,0,g,1,g
+717,toojays gourmet deli,create your own omelette add nova,7,g,35,mg,35,g,0,g,13,g,1.5,g,0,g,0,g,0,g
+718,toojays gourmet deli,create your own omelette add onions,0,g,0,mg,0,g,5,g,1,g,0,g,0,g,0,g,2,g
+719,toojays gourmet deli,create your own omelette add peppers,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,1,g
+720,toojays gourmet deli,create your own omelette add provolone cheese,8,g,20,mg,190,g,1,g,7,g,4.5,g,0,g,0,g,0,g
+721,toojays gourmet deli,create your own omelette add sausage links,28,g,35,mg,270,g,1,g,6,g,10,g,0,g,0,g,0,g
+722,toojays gourmet deli,create your own omelette add swiss cheese,9,g,30,mg,55,g,0,g,7,g,6,g,0,g,0,g,0,g
+723,toojays gourmet deli,create your own omelette add tomato,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+724,toojays gourmet deli,crispy chicken salad,39,g,70,mg,1930,g,48,g,36,g,4.5,g,0,g,8,g,10,g
+725,toojays gourmet deli,crock of french onion soup,15,g,25,mg,480,g,11,g,11,g,7,g,1.5,g,1,g,3,g
+726,toojays gourmet deli,deli benedict with corned beef,71,g,530,mg,2370,g,28,g,43,g,23,g,0.5,g,3,g,5,g
+727,toojays gourmet deli,deli benedict with pastrami,81,g,545,mg,1610,g,28,g,42,g,28,g,1,g,3,g,5,g
+728,toojays gourmet deli,deli dogs,85,g,90,mg,2820,g,94,g,32,g,15,g,2,g,8,g,6,g
+729,toojays gourmet deli,deli dogs with bacon and cheddar cheese,107,g,150,mg,2180,g,93,g,49,g,26,g,2,g,4,g,6,g
+730,toojays gourmet deli,deli dogs with pastrami cole slaw and russian dressing,105,g,115,mg,2920,g,102,g,37,g,19,g,2,g,6,g,17,g
+731,toojays gourmet deli,deli dogs with sauerkraut,85,g,90,mg,3460,g,94,g,32,g,15,g,2,g,9,g,7,g
+732,toojays gourmet deli,deli sandwich add american cheese,9,g,25,mg,300,g,1,g,6,g,6,g,0,g,0,g,0,g
+733,toojays gourmet deli,deli sandwich add bacon to sandwich,4,g,10,mg,170,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+734,toojays gourmet deli,deli sandwich add cheddar cheese,9,g,30,mg,180,g,0,g,7,g,6,g,0,g,0,g,0,g
+735,toojays gourmet deli,deli sandwich add muenster cheese,14,g,45,mg,270,g,0,g,11,g,9,g,0,g,0,g,0,g
+736,toojays gourmet deli,deli sandwich add provolone cheese,8,g,20,mg,190,g,1,g,7,g,4.5,g,0,g,0,g,0,g
+737,toojays gourmet deli,deli sandwich add schmear of chopped liver,8,g,180,mg,230,g,4,g,8,g,2.5,g,0,g,0,g,2,g
+738,toojays gourmet deli,deli sandwich add swiss cheese,9,g,30,mg,55,g,0,g,7,g,6,g,0,g,0,g,0,g
+739,toojays gourmet deli,diet pepsi,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+740,toojays gourmet deli,diet root beer,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+741,toojays gourmet deli,dill chicken salad,39,g,135,mg,1310,g,30,g,44,g,6,g,0,g,4,g,6,g
+742,toojays gourmet deli,dill chicken salad on rye bread,45,g,140,mg,2220,g,54,g,47,g,7,g,0,g,7,g,16,g
+743,toojays gourmet deli,dr browns black cherry soda,0,g,0,mg,25,g,45,g,0,g,0,g,0,g,0,g,45,g
+744,toojays gourmet deli,dr browns cel ray soda,0,g,0,mg,10,g,34,g,0,g,0,g,0,g,0,g,34,g
+745,toojays gourmet deli,dr browns cream soda,0,g,0,mg,25,g,44,g,0,g,0,g,0,g,0,g,44,g
+746,toojays gourmet deli,dr browns diet black cherry soda,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+747,toojays gourmet deli,dr browns diet cream soda,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+748,toojays gourmet deli,dr browns ginger ale,0,g,0,mg,20,g,31,g,0,g,0,g,0,g,0,g,31,g
+749,toojays gourmet deli,dr browns root beer,0,g,0,mg,0,g,42,g,0,g,0,g,0,g,0,g,42,g
+750,toojays gourmet deli,dr pepper,0,g,0,mg,75,g,49,g,0,g,0,g,0,g,0,g,48,g
+751,toojays gourmet deli,egg salad,41,g,665,mg,1130,g,30,g,24,g,8,g,0,g,4,g,7,g
+752,toojays gourmet deli,egg salad on rye bread,47,g,670,mg,2030,g,56,g,27,g,9,g,0,g,8,g,17,g
+753,toojays gourmet deli,egg sandwich with bacon served with home fries no cheese,30,g,435,mg,1920,g,25,g,18,g,7,g,0,g,3,g,4,g
+754,toojays gourmet deli,egg sandwich with ham served with home fries no cheese,29,g,455,mg,2120,g,29,g,25,g,7,g,0,g,3,g,6,g
+755,toojays gourmet deli,egg sandwich with home fries no cheese,25,g,425,mg,1750,g,25,g,15,g,6,g,0,g,3,g,4,g
+756,toojays gourmet deli,egg sandwich with sausage served with home fries no cheese,52,g,470,mg,2270,g,26,g,22,g,15,g,0,g,3,g,4,g
+757,toojays gourmet deli,egg sandwich add american cheese,9,g,25,mg,300,g,1,g,6,g,6,g,0,g,0,g,0,g
+758,toojays gourmet deli,egg sandwich add cheddar cheese,9,g,30,mg,180,g,0,g,7,g,6,g,0,g,0,g,0,g
+759,toojays gourmet deli,egg sandwich add muenster cheese,14,g,45,mg,270,g,0,g,11,g,9,g,0,g,0,g,0,g
+760,toojays gourmet deli,egg sandwich add provolone cheese,8,g,20,mg,190,g,1,g,7,g,4.5,g,0,g,0,g,0,g
+761,toojays gourmet deli,egg sandwich add swiss cheese,9,g,30,mg,55,g,0,g,7,g,6,g,0,g,0,g,0,g
+762,toojays gourmet deli,egg avocado spinach and swiss sandwich with home fries,43,g,455,mg,1830,g,31,g,24,g,13,g,0,g,7,g,4,g
+763,toojays gourmet deli,everything bagel,4.5,g,0,mg,1610,g,77,g,15,g,1,g,0,g,4,g,6,g
+764,toojays gourmet deli,everything salmon,47,g,165,mg,3200,g,54,g,56,g,9,g,0,g,10,g,6,g
+765,toojays gourmet deli,fish and chips,127,g,155,mg,2790,g,104,g,50,g,18,g,0,g,9,g,27,g
+766,toojays gourmet deli,fish and chips lunch portion,109,g,115,mg,2440,g,91,g,35,g,16,g,0,g,8,g,25,g
+767,toojays gourmet deli,florida orange juice,1,g,0,mg,0,g,48,g,3,g,0,g,0,g,0,g,39,g
+768,toojays gourmet deli,french bread,1,g,0,mg,710,g,69,g,10,g,0,g,0,g,2,g,2,g
+769,toojays gourmet deli,french toast,68,g,770,mg,980,g,119,g,32,g,20,g,0.5,g,2,g,57,g
+770,toojays gourmet deli,french toast add cinnamon and almonds,11,g,0,mg,0,g,18,g,4,g,1,g,0,g,2,g,13,g
+771,toojays gourmet deli,fresh strawberries,0,g,0,mg,0,g,9,g,1,g,0,g,0,g,2,g,6,g
+772,toojays gourmet deli,fried dill pickles,45,g,40,mg,2260,g,55,g,8,g,11,g,0,g,2,g,4,g
+773,toojays gourmet deli,fruit salad,0,g,0,mg,15,g,11,g,1,g,0,g,0,g,1,g,10,g
+774,toojays gourmet deli,garlic bagel,1.5,g,0,mg,760,g,80,g,15,g,0,g,0,g,5,g,3,g
+775,toojays gourmet deli,garlic bread,15,g,20,mg,600,g,36,g,5,g,6,g,2,g,1,g,1,g
+776,toojays gourmet deli,glazed carrots,9,g,25,mg,470,g,18,g,1,g,5,g,0,g,3,g,14,g
+777,toojays gourmet deli,grapefruit juice,0,g,0,mg,70,g,46,g,0,g,0,g,0,g,0,g,46,g
+778,toojays gourmet deli,gravy,1.5,g,5,mg,50,g,1,g,0,g,1,g,0,g,0,g,0,g
+779,toojays gourmet deli,greek dressing,36,g,20,mg,1080,g,8,g,0,g,6,g,0,g,0,g,4,g
+780,toojays gourmet deli,greek salad with pita bread,9,g,15,mg,2280,g,66,g,17,g,3.5,g,0,g,9,g,9,g
+781,toojays gourmet deli,green bean and carrot medley,4,g,5,mg,105,g,10,g,1,g,1.5,g,0,g,4,g,3,g
+782,toojays gourmet deli,green beans almondine,21,g,5,mg,210,g,12,g,7,g,3,g,0,g,5,g,2,g
+783,toojays gourmet deli,grilled cheese on challah bread,73,g,120,mg,2140,g,91,g,29,g,25,g,0,g,6,g,15,g
+784,toojays gourmet deli,grilled cheese with bacon and tomato on challah bread,77,g,130,mg,2320,g,93,g,32,g,26,g,0,g,7,g,17,g
+785,toojays gourmet deli,grilled chopped sirloin with mashed potatoes,68,g,260,mg,1460,g,35,g,58,g,32,g,4,g,3,g,5,g
+786,toojays gourmet deli,grits with 2 butter cups,10,g,25,mg,730,g,46,g,4,g,6,g,0,g,3,g,0,g
+787,toojays gourmet deli,home fries,1.5,g,0,mg,1500,g,24,g,3,g,0,g,0,g,3,g,3,g
+788,toojays gourmet deli,honey mustard dressing,56,g,40,mg,540,g,32,g,0,g,8,g,0,g,0,g,28,g
+789,toojays gourmet deli,hot corned beef on rye bread,22,g,95,mg,3480,g,49,g,34,g,6,g,0,g,6,g,14,g
+790,toojays gourmet deli,hot pastrami on rye bread,39,g,110,mg,2340,g,49,g,32,g,13,g,0,g,6,g,14,g
+791,toojays gourmet deli,hot tea,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,0,g
+792,toojays gourmet deli,house salad,0,g,0,mg,15,g,8,g,2,g,0,g,0,g,3,g,4,g
+793,toojays gourmet deli,hummus wrap on sundried tomato tortilla,44,g,5,mg,3620,g,94,g,19,g,6,g,0,g,23,g,19,g
+794,toojays gourmet deli,hummus wrap on whole wheat tortilla,44,g,5,mg,3570,g,93,g,19,g,6,g,0,g,24,g,19,g
+795,toojays gourmet deli,key lime pie,26,g,110,mg,300,g,80,g,9,g,15,g,0,g,1,g,65,g
+796,toojays gourmet deli,kids applesauce,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,0,g,11,g
+797,toojays gourmet deli,kids bacon,4,g,10,mg,170,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+798,toojays gourmet deli,kids belgian waffle with butter and syrup,13,g,75,mg,460,g,53,g,4,g,7,g,0,g,0,g,23,g
+799,toojays gourmet deli,kids cheeseburger with american cheese,23,g,85,mg,1050,g,57,g,34,g,10,g,1,g,2,g,2,g
+800,toojays gourmet deli,kids chicken salad chop chop,36,g,45,mg,980,g,35,g,18,g,4.5,g,0,g,4,g,14,g
+801,toojays gourmet deli,kids chocolate pudding,2,g,10,mg,150,g,26,g,3,g,1.5,g,0,g,1,g,20,g
+802,toojays gourmet deli,kids crispy carrot stix with ranch dressing,21,g,5,mg,240,g,11,g,2,g,3,g,0,g,2,g,5,g
+803,toojays gourmet deli,kids dippin chickn,48,g,60,mg,2100,g,44,g,25,g,6,g,0,g,2,g,16,g
+804,toojays gourmet deli,kids french fries,22,g,0,mg,20,g,28,g,3,g,3.5,g,0,g,1,g,0,g
+805,toojays gourmet deli,kids french toast,34,g,385,mg,490,g,60,g,16,g,10,g,0,g,0,g,28,g
+806,toojays gourmet deli,kids grilled cheese,49,g,80,mg,910,g,40,g,15,g,16,g,0.5,g,1,g,5,g
+807,toojays gourmet deli,kids hamburger,14,g,60,mg,750,g,56,g,28,g,4.5,g,1,g,2,g,2,g
+808,toojays gourmet deli,kids jr tuna melt,21,g,40,mg,610,g,22,g,19,g,3,g,0,g,1,g,8,g
+809,toojays gourmet deli,kids mac n cheese,13,g,25,mg,1370,g,42,g,16,g,5,g,0,g,0,g,11,g
+810,toojays gourmet deli,kids mandarin oranges,0,g,0,mg,10,g,8,g,0,g,0,g,0,g,0,g,7,g
+811,toojays gourmet deli,kids mini black and white cookie,2.5,g,5,mg,20,g,9,g,1,g,0.5,g,0,g,0,g,40,g
+812,toojays gourmet deli,kids red grapes,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,9,g
+813,toojays gourmet deli,kids sausage 2 links,18,g,25,mg,180,g,0,g,4,g,6,g,0,g,0,g,0,g
+814,toojays gourmet deli,kids scrambled egg,12,g,210,mg,125,g,0,g,6,g,3,g,0,g,0,g,0,g
+815,toojays gourmet deli,killer cake,51,g,200,mg,380,g,191,g,14,g,28,g,1,g,8,g,192,g
+816,toojays gourmet deli,lemonade,0,g,0,mg,190,g,56,g,0,g,0,g,0,g,0,g,54,g
+817,toojays gourmet deli,light olive oil vinaigrette dressing,24,g,0,mg,920,g,12,g,0,g,4,g,0,g,0,g,8,g
+818,toojays gourmet deli,lite italian dressing,4,g,0,mg,1720,g,12,g,0,g,0,g,0,g,0,g,8,g
+819,toojays gourmet deli,liver and onions with mashed potatoes,70,g,685,mg,1580,g,46,g,52,g,25,g,2,g,3,g,6,g
+820,toojays gourmet deli,liverwurst on rye bread,55,g,340,mg,3520,g,55,g,34,g,16,g,0,g,6,g,15,g
+821,toojays gourmet deli,loaded latkes,86,g,355,mg,2560,g,88,g,57,g,48,g,0,g,7,g,10,g
+822,toojays gourmet deli,macaroons,26,g,20,mg,125,g,42,g,4,g,21,g,0,g,5,g,26,g
+823,toojays gourmet deli,mandarin chicken salad,23,g,80,mg,710,g,55,g,35,g,3,g,0,g,10,g,40,g
+824,toojays gourmet deli,martinellis apple juice,0,g,0,mg,0,g,96,g,3,g,0,g,0,g,0,g,85,g
+825,toojays gourmet deli,mashed potatoes,19,g,50,mg,980,g,29,g,4,g,12,g,0,g,2,g,3,g
+826,toojays gourmet deli,matzo ball soup bowl,65,g,280,mg,1220,g,48,g,19,g,10,g,0,g,3,g,4,g
+827,toojays gourmet deli,matzo ball soup cup,33,g,145,mg,640,g,25,g,11,g,5,g,0,g,2,g,2,g
+828,toojays gourmet deli,mediterranean health trio,23,g,0,mg,1850,g,87,g,18,g,1.5,g,0,g,12,g,22,g
+829,toojays gourmet deli,mini black and white cookies,2.5,g,5,mg,20,g,9,g,1,g,0.5,g,0,g,0,g,40,g
+830,toojays gourmet deli,mini eclair,11,g,45,mg,70,g,14,g,2,g,5,g,0,g,0,g,10,g
+831,toojays gourmet deli,mini napoleon,12,g,15,mg,105,g,38,g,1,g,5,g,2,g,0,g,243,g
+832,toojays gourmet deli,mini potato pancakes,9,g,65,mg,340,g,39,g,5,g,6,g,0,g,3,g,12,g
+833,toojays gourmet deli,mini potato pancakes starter,10,g,115,mg,860,g,86,g,11,g,6,g,0,g,7,g,15,g
+834,toojays gourmet deli,mountain dew,0,g,0,mg,65,g,54,g,0,g,0,g,0,g,0,g,54,g
+835,toojays gourmet deli,multigrain bagel,2.5,g,0,mg,680,g,75,g,15,g,0,g,0,g,7,g,3,g
+836,toojays gourmet deli,murphys chowder bowl,18,g,90,mg,1250,g,32,g,22,g,10,g,0,g,3,g,7,g
+837,toojays gourmet deli,murphys chowder cup,16,g,80,mg,1110,g,28,g,20,g,9,g,0,g,2,g,7,g
+838,toojays gourmet deli,mushroom barley soup bowl,4.5,g,10,mg,160,g,13,g,3,g,2,g,0,g,3,g,3,g
+839,toojays gourmet deli,mushroom barley soup cup,4,g,10,mg,150,g,11,g,2,g,2,g,0,g,2,g,3,g
+840,toojays gourmet deli,no sugar added rugalach,35,g,30,mg,450,g,32,g,5,g,12,g,3,g,2,g,6,g
+841,toojays gourmet deli,nova latkes,14,g,170,mg,1840,g,112,g,23,g,7,g,0,g,10,g,10,g
+842,toojays gourmet deli,nova on a plain bagel,23,g,90,mg,1070,g,98,g,37,g,9,g,0,g,6,g,16,g
+843,toojays gourmet deli,nova salmon benedict,67,g,500,mg,1260,g,32,g,37,g,17,g,0.5,g,3,g,7,g
+844,toojays gourmet deli,nova salmon platter with cream cheese and plain bagel,29,g,110,mg,1420,g,98,g,45,g,10,g,0,g,8,g,10,g
+845,toojays gourmet deli,nova eggs and onion omelette with home fries,40,g,755,mg,1880,g,28,g,37,g,10,g,0,g,3,g,5,g
+846,toojays gourmet deli,oatmeal add brown sugar,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,16,g
+847,toojays gourmet deli,oatmeal add fresh strawberries,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,1,g,3,g
+848,toojays gourmet deli,oatmeal add raisins,0,g,0,mg,0,g,19,g,1,g,0,g,0,g,1,g,17,g
+849,toojays gourmet deli,oatmeal add toasted almonds,7,g,0,mg,0,g,3,g,3,g,0.5,g,0,g,1,g,0,g
+850,toojays gourmet deli,oil and vinegar dressing,54,g,0,mg,0,g,0,g,0,g,7,g,0,g,0,g,0,g
+851,toojays gourmet deli,old fashioned pot roast with mashed potatoes,45,g,225,mg,2670,g,34,g,56,g,22,g,1.5,g,2,g,6,g
+852,toojays gourmet deli,onion bagel,1.5,g,0,mg,780,g,77,g,14,g,0,g,0,g,3,g,5,g
+853,toojays gourmet deli,open faced tuna melt on rye bread,95,g,125,mg,2550,g,87,g,53,g,21,g,0,g,8,g,27,g
+854,toojays gourmet deli,open faced turkey melt on rye bread,73,g,140,mg,3840,g,79,g,49,g,18,g,0,g,7,g,18,g
+855,toojays gourmet deli,original chicken tenders without dipping sauce,93,g,110,mg,3350,g,91,g,52,g,12,g,0,g,5,g,11,g
+856,toojays gourmet deli,pastrami burger,135,g,245,mg,2230,g,105,g,69,g,35,g,2,g,12,g,19,g
+857,toojays gourmet deli,patty melt on rye bread without protein,115,g,70,mg,2110,g,93,g,19,g,24,g,0.5,g,9,g,16,g
+858,toojays gourmet deli,patty melt add beef patty,26,g,140,mg,920,g,1,g,40,g,10,g,2,g,0,g,0,g
+859,toojays gourmet deli,patty melt add black bean patty,7,g,0,mg,540,g,22,g,17,g,1,g,0,g,8,g,2,g
+860,toojays gourmet deli,patty melt add turkey patty,34,g,115,mg,1760,g,1,g,30,g,10,g,0,g,0,g,0,g
+861,toojays gourmet deli,peach tea sweetened,0,g,0,mg,20,g,39,g,0,g,0,g,0,g,0,g,38,g
+862,toojays gourmet deli,peach tea sweetened gallon,0,g,0,mg,230,g,513,g,0,g,0,g,0,g,0,g,501,g
+863,toojays gourmet deli,peach tea unsweetened,0,g,0,mg,20,g,13,g,0,g,0,g,0,g,0,g,12,g
+864,toojays gourmet deli,peach tea unsweetened gallon,0,g,0,mg,230,g,155,g,0,g,0,g,0,g,0,g,144,g
+865,toojays gourmet deli,pepsi,0,g,0,mg,40,g,53,g,0,g,0,g,0,g,0,g,53,g
+866,toojays gourmet deli,pickle,0,g,0,mg,640,g,0,g,0,g,0,g,0,g,1,g,1,g
+867,toojays gourmet deli,pita bread,0,g,0,mg,430,g,48,g,9,g,0,g,0,g,2,g,2,g
+868,toojays gourmet deli,plain bagel,1.5,g,0,mg,830,g,78,g,15,g,0,g,0,g,3,g,3,g
+869,toojays gourmet deli,plain cheesecake,44,g,240,mg,590,g,46,g,10,g,25,g,0,g,0,g,33,g
+870,toojays gourmet deli,plain oatmeal,3,g,0,mg,10,g,31,g,6,g,0.5,g,0,g,4,g,0,g
+871,toojays gourmet deli,poppy bagel,6,g,0,mg,760,g,74,g,16,g,0,g,0,g,5,g,3,g
+872,toojays gourmet deli,portobello parmesan,24,g,35,mg,1130,g,61,g,24,g,9,g,0,g,8,g,13,g
+873,toojays gourmet deli,potato salad,15,g,10,mg,490,g,17,g,2,g,2.5,g,0,g,2,g,0,g
+874,toojays gourmet deli,prune danish,30,g,45,mg,480,g,68,g,8,g,15,g,0,g,3,g,32,g
+875,toojays gourmet deli,pumpernickel bagel,2,g,0,mg,650,g,77,g,14,g,0,g,0,g,4,g,4,g
+876,toojays gourmet deli,rachel on rye bread,118,g,145,mg,3800,g,95,g,43,g,31,g,0,g,11,g,18,g
+877,toojays gourmet deli,raisin rugalach,30,g,30,mg,410,g,40,g,4,g,10,g,3,g,2,g,18,g
+878,toojays gourmet deli,ranch dressing,68,g,20,mg,600,g,8,g,4,g,10,g,0,g,0,g,4,g
+879,toojays gourmet deli,raspberry rugalach,27,g,25,mg,380,g,38,g,4,g,9,g,2.5,g,1,g,17,g
+880,toojays gourmet deli,raspberry vinaigrette,48,g,0,mg,360,g,20,g,0,g,8,g,0,g,0,g,20,g
+881,toojays gourmet deli,reuben on rye bread,101,g,130,mg,4940,g,95,g,45,g,23,g,0,g,11,g,18,g
+882,toojays gourmet deli,rice pilaf,2.5,g,5,mg,740,g,36,g,4,g,1.5,g,0,g,0,g,2,g
+883,toojays gourmet deli,rice pudding,3,g,15,mg,160,g,27,g,4,g,1.5,g,0,g,0,g,17,g
+884,toojays gourmet deli,roast beef on rye bread,15,g,155,mg,1940,g,49,g,52,g,4.5,g,0,g,6,g,14,g
+885,toojays gourmet deli,roasted asparagus,20,g,0,mg,160,g,5,g,3,g,3,g,0,g,2,g,2,g
+886,toojays gourmet deli,roasted broccoli,21,g,0,mg,200,g,8,g,3,g,3,g,0,g,3,g,2,g
+887,toojays gourmet deli,roasted brussels sprouts,29,g,5,mg,125,g,18,g,6,g,4.5,g,0,g,5,g,6,g
+888,toojays gourmet deli,roasted brussels sprouts medley,41,g,5,mg,230,g,28,g,9,g,6,g,0,g,8,g,11,g
+889,toojays gourmet deli,roasted brussels sprouts without bacon,27,g,0,mg,100,g,21,g,5,g,4,g,0,g,5,g,7,g
+890,toojays gourmet deli,roasted green beans with cherry tomatoes,21,g,0,mg,160,g,11,g,3,g,3,g,0,g,4,g,3,g
+891,toojays gourmet deli,roasted red potatoes,10,g,0,mg,310,g,44,g,5,g,1.5,g,0,g,4,g,3,g
+892,toojays gourmet deli,roasted stuffed chicken breast with mashed potatoes,70,g,240,mg,2980,g,65,g,47,g,37,g,3.5,g,4,g,11,g
+893,toojays gourmet deli,roasted vegetable wrap on sundried tomato tortilla,44,g,20,mg,2370,g,74,g,15,g,13,g,0,g,9,g,19,g
+894,toojays gourmet deli,roasted vegetable wrap on whole wheat tortilla,44,g,20,mg,2370,g,74,g,15,g,13,g,0,g,9,g,19,g
+895,toojays gourmet deli,roasted veggie omelette with home fries no salsa,50,g,750,mg,3010,g,32,g,37,g,16,g,0,g,5,g,6,g
+896,toojays gourmet deli,roasted veggie skillet,64,g,425,mg,410,g,37,g,20,g,12,g,0,g,7,g,7,g
+897,toojays gourmet deli,roasted veggie skillet add bacon,4,g,10,mg,170,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+898,toojays gourmet deli,root beer,0,g,0,mg,30,g,49,g,0,g,0,g,0,g,0,g,49,g
+899,toojays gourmet deli,russian dressing,44,g,20,mg,1160,g,20,g,0,g,6,g,0,g,0,g,16,g
+900,toojays gourmet deli,rye bread,1.5,g,0,mg,500,g,38,g,6,g,0,g,0,g,3,g,3,g
+901,toojays gourmet deli,rye toast,1.5,g,0,mg,500,g,38,g,6,g,0,g,0,g,3,g,3,g
+902,toojays gourmet deli,sausage links,27,g,35,mg,270,g,1,g,6,g,10,g,0,g,0,g,0,g
+903,toojays gourmet deli,sausage patties,52,g,90,mg,1040,g,2,g,14,g,18,g,0,g,0,g,0,g
+904,toojays gourmet deli,seedless rye bread,1.5,g,0,mg,530,g,35,g,6,g,0,g,0,g,3,g,3,g
+905,toojays gourmet deli,sesame bagel,7,g,0,mg,760,g,74,g,15,g,1.5,g,0,g,4,g,3,g
+906,toojays gourmet deli,shrimp salad,25,g,290,mg,1380,g,33,g,35,g,3.5,g,0,g,5,g,6,g
+907,toojays gourmet deli,shrimp salad on rye bread,32,g,295,mg,2280,g,57,g,37,g,4.5,g,0,g,8,g,16,g
+908,toojays gourmet deli,side caesar salad,5,g,5,mg,350,g,19,g,8,g,1.5,g,0,g,4,g,2,g
+909,toojays gourmet deli,side garlic bread,15,g,20,mg,600,g,36,g,5,g,6,g,2,g,1,g,1,g
+910,toojays gourmet deli,side of french fries,31,g,0,mg,30,g,39,g,4,g,4.5,g,0,g,2,g,0,g
+911,toojays gourmet deli,side of sweet potato fries,40,g,0,mg,350,g,43,g,2,g,8,g,0,g,4,g,16,g
+912,toojays gourmet deli,sierra mist,0,g,0,mg,40,g,51,g,0,g,0,g,0,g,0,g,51,g
+913,toojays gourmet deli,smoked fish combo platter with cream cheese and plain bagel,23,g,120,mg,2830,g,98,g,66,g,9,g,0,g,8,g,10,g
+914,toojays gourmet deli,smoked whitefish platter with cream cheese and plain bagel,17,g,110,mg,3660,g,98,g,73,g,8,g,0,g,8,g,10,g
+915,toojays gourmet deli,smoked whitefish salad,38,g,100,mg,2440,g,31,g,41,g,8,g,0,g,5,g,5,g
+916,toojays gourmet deli,sobe lifewater yumberry pomegranate,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+917,toojays gourmet deli,split pea soup bowl,12,g,15,mg,540,g,23,g,7,g,5,g,1.5,g,7,g,9,g
+918,toojays gourmet deli,split pea soup cup,11,g,15,mg,480,g,20,g,6,g,5,g,1.5,g,6,g,8,g
+919,toojays gourmet deli,steamed asparagus with garlic butter,4,g,5,mg,75,g,5,g,3,g,1.5,g,0,g,2,g,2,g
+920,toojays gourmet deli,steamed broccoli with garlic butter,4,g,5,mg,105,g,8,g,3,g,1.5,g,0,g,4,g,2,g
+921,toojays gourmet deli,steamed green beans with garlic butter,4,g,5,mg,60,g,9,g,2,g,1.5,g,0,g,4,g,2,g
+922,toojays gourmet deli,strawberry citrus salad,15,g,30,mg,470,g,48,g,14,g,7,g,0,g,11,g,33,g
+923,toojays gourmet deli,strawberry lemonade,0,g,0,mg,150,g,52,g,0,g,0,g,0,g,0,g,52,g
+924,toojays gourmet deli,strawberry lemonade gallon,0,g,0,mg,1630,g,523,g,0,g,0,g,0,g,0,g,523,g
+925,toojays gourmet deli,stuffed cabbage,39,g,235,mg,3740,g,125,g,59,g,13,g,2.5,g,12,g,38,g
+926,toojays gourmet deli,stuffed cabbage starter,16,g,110,mg,1810,g,62,g,29,g,4.5,g,1,g,6,g,19,g
+927,toojays gourmet deli,stuffed tomato dill chicken salad,39,g,135,mg,1330,g,36,g,46,g,6,g,0,g,6,g,11,g
+928,toojays gourmet deli,stuffed tomato egg salad,42,g,680,mg,1150,g,37,g,26,g,8,g,0,g,6,g,12,g
+929,toojays gourmet deli,stuffed tomato traditional chicken salad,49,g,145,mg,1250,g,35,g,46,g,7,g,0,g,6,g,10,g
+930,toojays gourmet deli,stuffed tomato tuna salad,34,g,70,mg,1340,g,46,g,40,g,4.5,g,0,g,7,g,20,g
+931,toojays gourmet deli,substitute egg beaters 1 egg serving,0,g,0,mg,115,g,1,g,6,g,0,g,0,g,0,g,0,g
+932,toojays gourmet deli,substitute egg whites 1 egg serving,0,g,0,mg,100,g,0,g,7,g,0,g,0,g,0,g,0,g
+933,toojays gourmet deli,substitute french fries,18,g,0,mg,15,g,22,g,2,g,2.5,g,0,g,1,g,0,g
+934,toojays gourmet deli,substitute sweet potato fries,40,g,0,mg,350,g,43,g,2,g,8,g,0,g,4,g,16,g
+935,toojays gourmet deli,sweet tea,0,g,0,mg,15,g,45,g,0,g,0,g,0,g,0,g,44,g
+936,toojays gourmet deli,t j s trio base includes one slice of rye bread,1,g,0,mg,270,g,24,g,4,g,0,g,0,g,3,g,2,g
+937,toojays gourmet deli,t j s trio add dill chicken salad,18,g,70,mg,360,g,1,g,20,g,3,g,0,g,0,g,0,g
+938,toojays gourmet deli,t j s trio add egg salad,19,g,330,mg,270,g,1,g,10,g,4,g,0,g,0,g,0,g
+939,toojays gourmet deli,t j s trio add shrimp salad,11,g,145,mg,390,g,1,g,15,g,1.5,g,0,g,0,g,0,g
+940,toojays gourmet deli,t j s trio add traditional chicken salad,23,g,75,mg,320,g,0,g,20,g,3.5,g,0,g,0,g,0,g
+941,toojays gourmet deli,t j s trio add tuna salad,16,g,35,mg,370,g,6,g,17,g,2,g,0,g,0,g,5,g
+942,toojays gourmet deli,t j s trio add whitefish salad,18,g,50,mg,920,g,1,g,18,g,4,g,0,g,0,g,0,g
+943,toojays gourmet deli,t j s ultimate omelette with home fries no cheese,48,g,750,mg,2290,g,41,g,34,g,13,g,0,g,4,g,8,g
+944,toojays gourmet deli,three eggs and bacon,23,g,655,mg,550,g,1,g,25,g,8,g,0,g,0,g,1,g
+945,toojays gourmet deli,three eggs and ham,22,g,695,mg,960,g,9,g,38,g,7,g,0,g,0,g,6,g
+946,toojays gourmet deli,three eggs and sausage,42,g,670,mg,480,g,2,g,25,g,14,g,0,g,0,g,1,g
+947,toojays gourmet deli,tollhouse square,41,g,115,mg,300,g,54,g,8,g,17,g,0,g,3,g,40,g
+948,toojays gourmet deli,tomato cucumber salad,1.5,g,0,mg,1040,g,18,g,3,g,0,g,0,g,4,g,10,g
+949,toojays gourmet deli,tomato cucumber salad substitute for cole slaw,0.5,g,0,mg,510,g,7,g,1,g,0,g,0,g,1,g,4,g
+950,toojays gourmet deli,tomato cucumber salad substitute for dinner salad,0.5,g,0,mg,520,g,9,g,2,g,0,g,0,g,2,g,5,g
+951,toojays gourmet deli,tomato dill soup bowl,7,g,25,mg,390,g,12,g,3,g,4.5,g,0,g,2,g,5,g
+952,toojays gourmet deli,tomato dill soup cup,6,g,20,mg,350,g,11,g,3,g,4,g,0,g,2,g,4,g
+953,toojays gourmet deli,tongue on rye bread,33,g,140,mg,2520,g,49,g,28,g,10,g,0,g,6,g,14,g
+954,toojays gourmet deli,toojays benedict,60,g,475,mg,1460,g,34,g,27,g,16,g,0.5,g,3,g,9,g
+955,toojays gourmet deli,toojays breakfast wrap with bacon no cheese,46,g,730,mg,2700,g,86,g,35,g,14,g,0,g,7,g,15,g
+956,toojays gourmet deli,toojays breakfast wrap with ham no cheese,44,g,740,mg,2760,g,88,g,38,g,14,g,0,g,7,g,17,g
+957,toojays gourmet deli,toojays breakfast wrap with sausage no cheese,60,g,745,mg,2710,g,86,g,36,g,19,g,0,g,7,g,15,g
+958,toojays gourmet deli,toojays chopped salad,25,g,295,mg,1840,g,23,g,29,g,11,g,0,g,9,g,11,g
+959,toojays gourmet deli,toojays classic on rye bread,31,g,100,mg,2910,g,49,g,33,g,10,g,0,g,6,g,14,g
+960,toojays gourmet deli,toojays cobb salad,32,g,375,mg,1220,g,21,g,51,g,13,g,0,g,7,g,11,g
+961,toojays gourmet deli,toojays famous knish potato,13,g,75,mg,570,g,50,g,9,g,4.5,g,0,g,3,g,2,g
+962,toojays gourmet deli,toojays famous knish spinach,13,g,85,mg,640,g,47,g,10,g,4.5,g,0,g,4,g,2,g
+963,toojays gourmet deli,toojays shepherds pie,36,g,130,mg,990,g,24,g,31,g,21,g,1,g,3,g,4,g
+964,toojays gourmet deli,toojays water,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+965,toojays gourmet deli,traditional chicken salad on rye bread,55,g,150,mg,2130,g,53,g,47,g,8,g,0,g,7,g,16,g
+966,toojays gourmet deli,traditional chicken salad platter,49,g,145,mg,1240,g,28,g,44,g,7,g,0,g,4,g,6,g
+967,toojays gourmet deli,traditional turkey dinner with mashed potatoes,56,g,165,mg,5290,g,109,g,40,g,22,g,6,g,4,g,21,g
+968,toojays gourmet deli,triple j on rye bread,45,g,150,mg,3590,g,66,g,48,g,13,g,0,g,7,g,27,g
+969,toojays gourmet deli,tuna salad,34,g,70,mg,1330,g,41,g,39,g,4.5,g,0,g,6,g,15,g
+970,toojays gourmet deli,tuna salad on rye bread,40,g,75,mg,2220,g,63,g,41,g,6,g,0,g,8,g,25,g
+971,toojays gourmet deli,turkey avocado on wheat bread,40,g,95,mg,3470,g,59,g,39,g,4.5,g,0,g,11,g,17,g
+972,toojays gourmet deli,turkey avocado wrap on sundried tomato tortilla,57,g,105,mg,3030,g,83,g,39,g,10,g,0,g,9,g,21,g
+973,toojays gourmet deli,turkey avocado wrap on whole wheat tortilla,57,g,105,mg,2980,g,82,g,39,g,10,g,0,g,10,g,21,g
+974,toojays gourmet deli,turkey breast on rye bread,15,g,80,mg,3340,g,52,g,34,g,1.5,g,0,g,6,g,14,g
+975,toojays gourmet deli,turkey reuben on rye bread,93,g,115,mg,4790,g,99,g,45,g,19,g,0.5,g,11,g,18,g
+976,toojays gourmet deli,turkey bacon lettuce and tomato on wheat bread,19,g,90,mg,3430,g,52,g,41,g,3,g,0,g,7,g,15,g
+977,toojays gourmet deli,tuscan chicken sandwich,85,g,155,mg,2320,g,98,g,68,g,20,g,0,g,13,g,21,g
+978,toojays gourmet deli,two eggs and bacon,18,g,445,mg,480,g,1,g,19,g,6,g,0,g,0,g,0,g
+979,toojays gourmet deli,two eggs and ham,17,g,485,mg,890,g,9,g,31,g,5,g,0,g,0,g,6,g
+980,toojays gourmet deli,two eggs and sausage,37,g,460,mg,410,g,1,g,18,g,13,g,0,g,0,g,0,g
+981,toojays gourmet deli,unsweet tea,0,g,0,mg,15,g,1,g,0,g,0,g,0,g,0,g,0,g
+982,toojays gourmet deli,vegetarian vegetable soup bowl,1.5,g,0,mg,210,g,11,g,2,g,0,g,0,g,3,g,3,g
+983,toojays gourmet deli,vegetarian vegetable soup cup,1.5,g,0,mg,180,g,10,g,2,g,0,g,0,g,3,g,3,g
+984,toojays gourmet deli,veggie breakfast wrap,33,g,30,mg,1810,g,73,g,35,g,13,g,0,g,8,g,19,g
+985,toojays gourmet deli,waffle sliders with bacon,49,g,580,mg,2630,g,68,g,30,g,18,g,0,g,3,g,23,g
+986,toojays gourmet deli,waffle sliders with sausage,70,g,615,mg,2980,g,69,g,34,g,26,g,0,g,3,g,23,g
+987,toojays gourmet deli,western skillet,65,g,800,mg,1150,g,29,g,42,g,22,g,0.5,g,3,g,6,g
+988,toojays gourmet deli,wheat bread,1.5,g,0,mg,410,g,35,g,9,g,0,g,0,g,3,g,3,g
+989,toojays gourmet deli,wheat toast,1.5,g,0,mg,410,g,35,g,9,g,0,g,0,g,3,g,3,g
+990,toojays gourmet deli,whitefish salad on a plain bagel,37,g,100,mg,2690,g,97,g,53,g,9,g,0,g,6,g,16,g
+991,toojays gourmet deli,whitefish salad sandwich on rye bread,45,g,105,mg,3330,g,57,g,44,g,10,g,0,g,8,g,16,g
+992,toojays gourmet deli,whole milk,22,g,65,mg,290,g,32,g,21,g,13,g,0,g,0,g,35,g
+993,una mas,vegetariano burrito,19,g,0,mg,0,g,55,g,75,g,0,g,0,g,0,g,0,g
+994,una mas,carnitas burrito,83,g,0,mg,0,g,78,g,77,g,0,g,0,g,0,g,0,g
+995,una mas,gallito burrito,60,g,0,mg,0,g,53,g,59.5,g,0,g,0,g,0,g,0,g
+996,una mas,chicken burrito,20,g,0,mg,0,g,96,g,35,g,0,g,0,g,0,g,0,g
+997,una mas,chico wet style steak burrito,36,g,0,mg,0,g,78,g,35,g,0,g,0,g,0,g,0,g
+998,una mas,thai chicken burrito,22,g,0,mg,0,g,79,g,27.5,g,0,g,0,g,0,g,0,g
+999,una mas,chicken burrito wet style,38,g,0,mg,0,g,99,g,42,g,0,g,0,g,0,g,0,g

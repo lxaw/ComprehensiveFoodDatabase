@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,kfc,chicken pot pie,41,g,80,mg,1750,g,60,g,26,g,25,g,0,g,7,g,5,g
+1,kfc,original recipe chicken breast bone in,21,g,120,mg,1190,g,11,g,39,g,4,g,0,g,2,g,0,g
+2,kfc,original recipe chicken thigh bone in,19,g,100,mg,910,g,8,g,19,g,4.5,g,0,g,1,g,0,g
+3,kfc,popcorn chicken nuggets large,39,g,65,mg,1820,g,39,g,27,g,5,g,0,g,2,g,0,g
+4,kfc,original recipe chicken whole wing bone in,8,g,55,mg,380,g,3,g,10,g,2,g,0,g,0,g,0,g
+5,kfc,extra crispy chicken breast bone in,35,g,105,mg,1150,g,18,g,35,g,6,g,0,g,0,g,0,g
+6,kfc,kentucky grilled chicken breast bone in,7,g,130,mg,710,g,0,g,38,g,2,g,0,g,0,g,0,g
+7,kfc,extra crispy chicken thigh bone in,23,g,100,mg,700,g,9,g,22,g,4.5,g,0,g,0,g,0,g
+8,kfc,extra crispy chicken drumstick bone in,12,g,50,mg,390,g,5,g,10,g,2,g,0,g,0,g,0,g
+9,kfc,kentucky grilled chicken drumstick bone in,4,g,55,mg,220,g,0,g,11,g,1,g,0,g,0,g,0,g
+10,kfc,popcorn chicken nuggets kids,19,g,30,mg,870,g,19,g,13,g,2.5,g,0,g,1,g,0,g
+11,kfc,extra crispy chicken whole wing bone in,13,g,45,mg,340,g,5,g,10,g,2,g,0,g,0,g,0,g
+12,kfc,spicy crispy chicken breast bone in,20,g,100,mg,1100,g,11,g,30,g,3.5,g,0,g,0.5,g,0,g
+13,kfc,kentucky grilled chicken thigh bone in,9,g,90,mg,420,g,0,g,17,g,3,g,0,g,0,g,0,g
+14,kfc,spicy crispy chicken thigh bone in,20,g,65,mg,720,g,10,g,13,g,3.5,g,0,g,1,g,0,g
+15,kfc,kentucky grilled chicken whole wing bone in,3,g,45,mg,180,g,0,g,9,g,1,g,0,g,0,g,0,g
+16,kfc,spicy crispy chicken drumstick bone in,8,g,40,mg,420,g,5,g,9,g,1.5,g,0,g,1,g,0,g
+17,kfc,spicy crispy chicken whole wing bone in,8,g,35,mg,350,g,5,g,7,g,1.5,g,0,g,0,g,0,g
+18,kfc,chicken livers,13,g,285,mg,750,g,12,g,17,g,2.5,g,0,g,0,g,0,g
+19,kfc,country fried steak with peppered white gravy,26,g,35,mg,910,g,26,g,13,g,7,g,0,g,2,g,0,g
+20,kfc,country fried steak without peppered white gravy,24,g,35,mg,750,g,22,g,13,g,7,g,1,g,2,g,0,g
+21,kfc,chicken gizzards,16,g,210,mg,770,g,18,g,20,g,2,g,0,g,0.5,g,0,g
+22,kfc,parmesan garlic crouton,3,g,0,mg,135,g,8,g,2,g,0,g,0,g,0.5,g,0.5,g
+23,kfc,potato salad,28.1,g,23,mg,289,g,18.6,g,2.3,g,4.6,g,0,g,2.3,g,3.4,g
+24,kfc,heinz buttermilk dressing,17,g,10,mg,220,g,1,g,0,g,2,g,0,g,0,g,1,g
+25,kfc,creamy parmesan caesar dressing,26,g,15,mg,540,g,4,g,2,g,5,g,0,g,0,g,2,g
+26,kfc,marzetti light italian dressing,0.5,g,0,mg,510,g,2,g,0,g,0,g,0,g,0,g,1,g
+27,kfc,hidden valley original ranch fat free dressing,0,g,0,mg,410,g,8,g,1,g,0,g,0,g,0,g,2,g
+28,kfc,house side salad without dressing or croutons,0,g,0,mg,10,g,3,g,1,g,0,g,0,g,2,g,2,g
+29,kfc,caesar side salad without dressing or croutons,2,g,5,mg,90,g,2,g,3,g,1,g,0,g,1,g,1,g
+30,kfc,spicy chicken sandwich,33,g,85,mg,2140,g,49,g,34,g,4,g,0,g,1,g,6,g
+31,kfc,chicken littles sandwich,15,g,30,mg,620,g,27,g,14,g,2.5,g,0,g,1,g,3,g
+32,kfc,honey bbq sandwich,3.5,g,55,mg,1350,g,55,g,24,g,0.5,g,0,g,2,g,22,g
+33,kfc,crispy colonels sandwich,24,g,60,mg,1170,g,39,g,24,g,3.5,g,0,g,0.5,g,4,g
+34,kfc,classic chicken sandwich,35,g,90,mg,1260,g,49,g,34,g,4.5,g,0,g,1,g,6,g
+35,kfc,honey bbq chicken littles sandwich,15,g,30,mg,680,g,31,g,14,g,2.5,g,0,g,1,g,7,g
+36,kfc,buffalo chicken littles sandwich,17,g,30,mg,790,g,27,g,14,g,2.5,g,0,g,1,g,3,g
+37,kfc,nashville hot crispy colonels sandwich,32,g,60,mg,1290,g,40,g,24,g,4.5,g,0,g,0.5,g,5,g
+38,kfc,buffalo crispy colonels sandwich,27,g,60,mg,1500,g,39,g,24,g,4,g,0,g,0.5,g,4,g
+39,kfc,nashville hot chicken littles sandwich,19,g,30,mg,680,g,27,g,14,g,3,g,0,g,1,g,3,g
+40,kfc,honey bbq crispy colonels sandwich,25,g,60,mg,1290,g,48,g,24,g,3.5,g,0,g,0.5,g,12,g
+41,kfc,kfc sauce cup,8,g,10,mg,170,g,5,g,0,g,1.5,g,0,g,0,g,5,g
+42,kfc,honey sauce,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,5,g
+43,kfc,honey mustard dipping sauce cup,9,g,5,mg,120,g,6,g,0,g,1.5,g,0,g,0,g,6,g
+44,kfc,bbq dipping sauce cup,0,g,0,mg,150,g,11,g,0,g,0,g,0,g,0,g,11,g
+45,kfc,ranch dipping sauce cup,14,g,10,mg,240,g,2,g,0,g,2.5,g,0,g,0,g,1,g
+46,kfc,hot sauce,0,g,0,mg,270,g,0,g,0,g,0,g,0,g,0,g,0,g
+47,kfc,mashed potatoes with gravy individual,4.5,g,0,mg,520,g,20,g,3,g,1,g,0,g,1,g,0,g
+48,kfc,biscuit,8,g,0,mg,520,g,22,g,4,g,4.5,g,0,g,1,g,1,g
+49,kfc,mashed potatoes without gravy,3.5,g,0,mg,330,g,17,g,2,g,0.5,g,0,g,1,g,0,g
+50,kfc,sweet kernel corn,0.5,g,0,mg,0,g,16,g,2,g,0,g,0,g,2,g,2,g
+51,kfc,bbq baked beans,1,g,0,mg,650,g,34,g,11,g,0,g,0,g,7,g,15,g
+52,kfc,coleslaw,12,g,5,mg,180,g,14,g,0.5,g,2,g,0,g,4,g,10,g
+53,kfc,cornbread muffin,9,g,35,mg,240,g,28,g,3,g,1.5,g,0,g,0.5,g,11,g
+54,kfc,macaroni and cheese,6.1,g,3,mg,585,g,17.4,g,4.7,g,1.6,g,0,g,1.3,g,2.1,g
+55,kfc,secret recipe fries,15,g,0,mg,1100,g,41,g,5,g,2,g,0,g,3,g,0,g
+56,kfc,mashed potatoes with gravy family,21,g,0,mg,2590,g,88,g,12,g,5,g,0,g,6,g,1,g
+57,kfc,green beans,0,g,0,mg,304,g,4.9,g,1.3,g,0,g,0,g,2.9,g,1,g
+58,kfc,corn on the cob,0.5,g,0,mg,4,g,16.8,g,2.3,g,0,g,0,g,2,g,2.8,g
+59,kfc,macaroni salad,8,g,15,mg,290,g,14,g,1,g,1,g,0,g,0,g,9,g
+60,kfc,7up 12 fl oz,0,g,0,mg,50,g,35,g,0,g,0,g,0,g,0,g,35,g
+61,kfc,7up 16 fl oz,0,g,0,mg,70,g,46,g,0,g,0,g,0,g,0,g,46,g
+62,kfc,7up 20 fl oz,0,g,0,mg,85,g,58,g,0,g,0,g,0,g,0,g,58,g
+63,kfc,7up 30 fl oz,0,g,0,mg,125,g,87,g,0,g,0,g,0,g,0,g,87,g
+64,kfc,apple turnover,10,g,0,mg,140,g,32,g,2,g,2.5,g,0,g,1,g,12,g
+65,kfc,bbq dipping sauce cup,0,g,0,mg,150,g,11,g,0,g,0,g,0,g,0,g,11,g
+66,kfc,bbq baked beans,1,g,0,mg,650,g,34,g,11,g,0,g,0,g,7,g,15,g
+67,kfc,bbq baked beans family,5,g,0,mg,2810,g,148,g,47,g,1,g,0,g,31,g,63,g
+68,kfc,biscuit,8,g,0,mg,520,g,22,g,4,g,4.5,g,0,g,1,g,1,g
+69,kfc,caesar side salad,2,g,5,mg,90,g,2,g,3,g,1,g,0,g,1,g,1,g
+70,kfc,cafe valley chocolate chip cake 1 slice,15,g,50,mg,260,g,39,g,4,g,3,g,0,g,1,g,27,g
+71,kfc,cafe valley lemon cake 1 slice,10,g,30,mg,170,g,30,g,2,g,2,g,0,g,0,g,20,g
+72,kfc,cafe valley mini chocolate chip cake,12,g,40,mg,190,g,49,g,3,g,2.5,g,0,g,1,g,35,g
+73,kfc,cafe valley mini lemon cake,13,g,50,mg,230,g,43,g,3,g,2.5,g,0,g,0,g,31,g
+74,kfc,capri sun 100 juice fruit punch,0,g,0,mg,25,g,21,g,0,g,0,g,0,g,0,g,20,g
+75,kfc,chicken littles,15,g,30,mg,620,g,27,g,14,g,2.5,g,0,g,1,g,3,g
+76,kfc,chicken littles buffalo,17,g,30,mg,790,g,27,g,14,g,2.5,g,0,g,1,g,3,g
+77,kfc,chicken littles honey bbq,15,g,30,mg,680,g,31,g,14,g,2.5,g,0,g,1,g,7,g
+78,kfc,chicken littles nashville hot,19,g,30,mg,680,g,27,g,14,g,3,g,0,g,1,g,3,g
+79,kfc,chicken pot pie,41,g,80,mg,1750,g,60,g,26,g,25,g,0,g,7,g,5,g
+80,kfc,chocolate chip cookie,6,g,5,mg,70,g,18,g,1,g,3,g,0,g,1,g,12,g
+81,kfc,chocolate milk 1,2.5,g,10,mg,170,g,26,g,7,g,1.5,g,0,g,0,g,23,g
+82,kfc,cinnabon dessert biscuits,13,g,5,mg,580,g,40,g,4,g,7,g,0,g,2,g,17,g
+83,kfc,classic chicken sandwich,35,g,90,mg,1260,g,49,g,34,g,4.5,g,0,g,1,g,6,g
+84,kfc,classic lemonade 1 2 gallon,0,g,0,mg,780,g,234,g,0,g,0,g,0,g,0,g,228,g
+85,kfc,classic lemonade 20 fl oz,0,g,0,mg,130,g,39,g,0,g,0,g,0,g,0,g,38,g
+86,kfc,code red mountain dew 12 fl oz,0,g,0,mg,50,g,46,g,0,g,0,g,0,g,0,g,46,g
+87,kfc,code red mountain dew 16 fl oz,0,g,0,mg,65,g,62,g,0,g,0,g,0,g,0,g,62,g
+88,kfc,code red mountain dew 20 fl oz,0,g,0,mg,85,g,77,g,0,g,0,g,0,g,0,g,77,g
+89,kfc,code red mountain dew 30 fl oz,0,g,0,mg,125,g,116,g,0,g,0,g,0,g,0,g,115,g
+90,kfc,coleslaw,12,g,5,mg,180,g,14,g,1,g,2,g,0,g,4,g,10,g
+91,kfc,coleslaw family,46,g,15,mg,670,g,54,g,4,g,7,g,0,g,14,g,37,g
+92,kfc,colonels buttery spread,4,g,0,mg,35,g,0,g,0,g,1.5,g,0,g,0,g,0,g
+93,kfc,corn on the cob,0.5,g,0,mg,0,g,17,g,2,g,0,g,0,g,2,g,3,g
+94,kfc,corn on the cob family,2,g,0,mg,15,g,67,g,9,g,0,g,0,g,8,g,11,g
+95,kfc,country fried steak with peppered white gravy,26,g,35,mg,910,g,26,g,13,g,7,g,1,g,2,g,0,g
+96,kfc,country fried steak without peppered white gravy,24,g,35,mg,750,g,22,g,13,g,7,g,1,g,2,g,0,g
+97,kfc,crispy colonels sandwich,24,g,60,mg,1170,g,39,g,24,g,3.5,g,0,g,1,g,4,g
+98,kfc,crispy colonels sandwich buffalo,27,g,60,mg,1500,g,39,g,24,g,4,g,0,g,1,g,4,g
+99,kfc,crispy colonels sandwich honey bbq,25,g,60,mg,1290,g,48,g,24,g,3.5,g,0,g,1,g,12,g
+100,kfc,crispy colonels sandwich nashville hot,32,g,60,mg,1290,g,40,g,24,g,4.5,g,0,g,1,g,5,g
+101,kfc,crispy twister,34,g,70,mg,1260,g,53,g,28,g,7,g,0,g,4,g,3,g
+102,kfc,diet dr pepper 12 fl oz,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+103,kfc,diet dr pepper 16 fl oz,0,g,0,mg,95,g,0,g,0,g,0,g,0,g,0,g,0,g
+104,kfc,diet dr pepper 20 fl oz,0,g,0,mg,120,g,0,g,0,g,0,g,0,g,0,g,0,g
+105,kfc,diet dr pepper 30 fl oz,0,g,0,mg,180,g,0,g,0,g,0,g,0,g,0,g,0,g
+106,kfc,diet mist twst 12 fl oz,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+107,kfc,diet mist twst 16 fl oz,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+108,kfc,diet mist twst 20 fl oz,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+109,kfc,diet mist twst 30 fl oz,0,g,0,mg,95,g,0,g,0,g,0,g,0,g,0,g,0,g
+110,kfc,diet mountain dew 12 fl oz,0,g,0,mg,55,g,1,g,0,g,0,g,0,g,0,g,0,g
+111,kfc,diet mountain dew 16 fl oz,0,g,0,mg,75,g,1,g,0,g,0,g,0,g,0,g,0,g
+112,kfc,diet mountain dew 20 fl oz,0,g,0,mg,90,g,1,g,0,g,0,g,0,g,0,g,1,g
+113,kfc,diet mountain dew 30 fl oz,0,g,0,mg,140,g,1,g,0,g,0,g,0,g,0,g,1,g
+114,kfc,diet pepsi 12 fl oz,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+115,kfc,diet pepsi 16 fl oz,0,g,0,mg,75,g,0,g,0,g,0,g,0,g,0,g,0,g
+116,kfc,diet pepsi 20 fl oz,0,g,0,mg,95,g,0,g,0,g,0,g,0,g,0,g,0,g
+117,kfc,diet pepsi 30 fl oz,0,g,0,mg,140,g,0,g,0,g,0,g,0,g,0,g,0,g
+118,kfc,diet pepsi wild cherry pepsi 12 fl oz,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+119,kfc,diet pepsi wild cherry pepsi 16 fl oz,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+120,kfc,diet pepsi wild cherry pepsi 20 fl oz,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+121,kfc,diet pepsi wild cherry pepsi 30 fl oz,0,g,0,mg,95,g,0,g,0,g,0,g,0,g,0,g,0,g
+122,kfc,dr pepper 12 fl oz,0,g,0,mg,45,g,39,g,0,g,0,g,0,g,0,g,38,g
+123,kfc,dr pepper 16 fl oz,0,g,0,mg,60,g,52,g,0,g,0,g,0,g,0,g,51,g
+124,kfc,dr pepper 20 fl oz,0,g,0,mg,75,g,65,g,0,g,0,g,0,g,0,g,64,g
+125,kfc,dr pepper 30 fl oz,0,g,0,mg,110,g,98,g,0,g,0,g,0,g,0,g,96,g
+126,kfc,extra crispy chicken breast,35,g,105,mg,1150,g,18,g,35,g,6,g,0,g,0,g,0,g
+127,kfc,extra crispy chicken drumstick,12,g,50,mg,390,g,5,g,10,g,2,g,0,g,0,g,0,g
+128,kfc,extra crispy chicken thigh,23,g,100,mg,700,g,9,g,22,g,4.5,g,0,g,0,g,0,g
+129,kfc,extra crispy chicken whole wing,13,g,45,mg,340,g,5,g,10,g,2,g,0,g,0,g,0,g
+130,kfc,grape jelly packet,0,g,0,mg,10,g,9,g,0,g,0,g,0,g,0,g,7,g
+131,kfc,green beans,0,g,0,mg,300,g,5,g,1,g,0,g,0,g,3,g,1,g
+132,kfc,green beans family,0,g,0,mg,930,g,15,g,4,g,0,g,0,g,9,g,3,g
+133,kfc,heinz buttermilk dressing,17,g,10,mg,220,g,1,g,0,g,2,g,0,g,0,g,1,g
+134,kfc,hidden valley the original ranch fat free dressing,0,g,0,mg,410,g,8,g,1,g,0,g,0,g,0,g,2,g
+135,kfc,honey bbq sandwich,3.5,g,55,mg,1350,g,55,g,24,g,0.5,g,0,g,2,g,22,g
+136,kfc,honey mustard dipping sauce cup,9,g,5,mg,120,g,6,g,0,g,1.5,g,0,g,0,g,6,g
+137,kfc,honey sauce packet,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,5,g
+138,kfc,house side salad,0,g,0,mg,10,g,3,g,1,g,0,g,0,g,2,g,2,g
+139,kfc,kentucky fried wings buffalo,7,g,20,mg,310,g,3,g,5,g,1.5,g,0,g,0,g,0,g
+140,kfc,kentucky fried wings honey bbq,6,g,20,mg,210,g,8,g,5,g,1,g,0,g,0,g,4,g
+141,kfc,kentucky fried wings nashville hot,11,g,20,mg,230,g,4,g,5,g,2,g,0,g,0,g,0,g
+142,kfc,kentucky fried wings unsauced,6,g,20,mg,150,g,3,g,5,g,1,g,0,g,0,g,0,g
+143,kfc,kentucky grilled chicken breast,7,g,130,mg,710,g,0,g,38,g,2,g,0,g,0,g,0,g
+144,kfc,kentucky grilled chicken drumstick,4,g,55,mg,220,g,0,g,11,g,1,g,0,g,0,g,0,g
+145,kfc,kentucky grilled chicken thigh,9,g,90,mg,420,g,0,g,17,g,3,g,0,g,0,g,0,g
+146,kfc,kentucky grilled chicken whole wing,3,g,45,mg,180,g,0,g,9,g,1,g,0,g,0,g,0,g
+147,kfc,ketchup,0,g,0,mg,250,g,8,g,0,g,0,g,0,g,0,g,6,g
+148,kfc,kfc cornbread muffin,9,g,35,mg,240,g,28,g,3,g,1.5,g,0,g,1,g,11,g
+149,kfc,kfc creamy parmesan caesar dressing,26,g,15,mg,540,g,4,g,2,g,5,g,0,g,0,g,2,g
+150,kfc,kfc famous bowl,35,g,45,mg,2350,g,81,g,26,g,6,g,0,g,6,g,2,g
+151,kfc,kfc famous bowl snack size,14,g,20,mg,850,g,27,g,11,g,3.5,g,0,g,2,g,1,g
+152,kfc,kfc gizzards,16,g,210,mg,770,g,18,g,20,g,2,g,0,g,1,g,0,g
+153,kfc,kfc livers,13,g,285,mg,750,g,12,g,17,g,2.5,g,0,g,0,g,0,g
+154,kfc,kfc sauce dipping sauce cup,8,g,10,mg,170,g,5,g,0,g,1.5,g,0,g,0,g,5,g
+155,kfc,lemon juice packet,0,g,0,mg,20,g,1,g,0,g,0,g,0,g,0,g,0,g
+156,kfc,lipton brisk lemon tea 12 fl oz,0,g,0,mg,40,g,22,g,0,g,0,g,0,g,0,g,22,g
+157,kfc,lipton brisk lemon tea 16 fl oz,0,g,0,mg,55,g,29,g,0,g,0,g,0,g,0,g,29,g
+158,kfc,lipton brisk lemon tea 20 fl oz,0,g,0,mg,70,g,36,g,0,g,0,g,0,g,0,g,36,g
+159,kfc,lipton brisk lemon tea 30 fl oz,0,g,0,mg,105,g,55,g,0,g,0,g,0,g,0,g,54,g
+160,kfc,lipton brisk no calorie peach iced green tea 12 fl oz,0,g,0,mg,105,g,0,g,0,g,0,g,0,g,0,g,0,g
+161,kfc,lipton brisk no calorie peach iced green tea 16 fl oz,0,g,0,mg,140,g,0,g,0,g,0,g,0,g,0,g,0,g
+162,kfc,lipton brisk no calorie peach iced green tea 20 fl oz,0,g,0,mg,180,g,0,g,0,g,0,g,0,g,0,g,0,g
+163,kfc,lipton brisk no calorie peach iced green tea 30 fl oz,0,g,0,mg,270,g,0,g,0,g,0,g,0,g,0,g,0,g
+164,kfc,lipton brisk raspberry tea 12 fl oz,0,g,0,mg,45,g,20,g,0,g,0,g,0,g,0,g,20,g
+165,kfc,lipton brisk raspberry tea 16 fl oz,0,g,0,mg,55,g,26,g,0,g,0,g,0,g,0,g,26,g
+166,kfc,lipton brisk raspberry tea 20 fl oz,0,g,0,mg,70,g,33,g,0,g,0,g,0,g,0,g,33,g
+167,kfc,lipton brisk raspberry tea 30 fl oz,0,g,0,mg,110,g,49,g,0,g,0,g,0,g,0,g,49,g
+168,kfc,lipton brisk sweet iced tea 12 fl oz,0,g,0,mg,45,g,22,g,0,g,0,g,0,g,0,g,21,g
+169,kfc,lipton brisk sweet iced tea 16 fl oz,0,g,0,mg,65,g,29,g,0,g,0,g,0,g,0,g,29,g
+170,kfc,lipton brisk sweet iced tea 20 fl oz,0,g,0,mg,80,g,36,g,0,g,0,g,0,g,0,g,36,g
+171,kfc,lipton brisk sweet iced tea 30 fl oz,0,g,0,mg,120,g,54,g,0,g,0,g,0,g,0,g,54,g
+172,kfc,lipton brisk unsweetened no lemon iced tea 12 fl oz,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+173,kfc,lipton brisk unsweetened no lemon iced tea 16 fl oz,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+174,kfc,lipton brisk unsweetened no lemon iced tea 20 fl oz,0,g,0,mg,75,g,0,g,0,g,0,g,0,g,0,g,0,g
+175,kfc,lipton brisk unsweetened no lemon iced tea 30 fl oz,0,g,0,mg,115,g,0,g,0,g,0,g,0,g,0,g,0,g
+176,kfc,macaroni and cheese,6,g,5,mg,590,g,17,g,5,g,1.5,g,0,g,1,g,2,g
+177,kfc,macaroni and cheese family,23,g,10,mg,2220,g,66,g,18,g,6,g,0,g,5,g,8,g
+178,kfc,macaroni salad,8,g,15,mg,290,g,14,g,1,g,1,g,0,g,0,g,9,g
+179,kfc,macaroni salad family,28,g,55,mg,990,g,50,g,3,g,3.5,g,0,g,0,g,30,g
+180,kfc,manzanita sol 12 fl oz,0,g,0,mg,35,g,42,g,0,g,0,g,0,g,0,g,42,g
+181,kfc,manzanita sol 16 fl oz,0,g,0,mg,45,g,57,g,0,g,0,g,0,g,0,g,57,g
+182,kfc,manzanita sol 20 fl oz,0,g,0,mg,55,g,71,g,0,g,0,g,0,g,0,g,71,g
+183,kfc,manzanita sol 30 fl oz,0,g,0,mg,80,g,106,g,0,g,0,g,0,g,0,g,106,g
+184,kfc,marzetti light italian dressing,0.5,g,0,mg,510,g,2,g,0,g,0,g,0,g,0,g,1,g
+185,kfc,mashed potatoes,3.5,g,0,mg,330,g,17,g,2,g,0.5,g,0,g,1,g,0,g
+186,kfc,mashed potatoes family,15,g,0,mg,1410,g,72,g,9,g,3,g,0,g,6,g,0,g
+187,kfc,mashed potatoes with gravy,4.5,g,0,mg,520,g,20,g,3,g,1,g,0,g,1,g,0,g
+188,kfc,mashed potatoes with gravy family,21,g,0,mg,2590,g,88,g,12,g,5,g,0,g,6,g,1,g
+189,kfc,milk 1,2,g,10,mg,105,g,10,g,7,g,1.5,g,0,g,0,g,10,g
+190,kfc,miranda strawberry 12 fl oz,0,g,0,mg,70,g,44,g,0,g,0,g,0,g,0,g,44,g
+191,kfc,miranda strawberry 16 fl oz,0,g,0,mg,95,g,58,g,0,g,0,g,0,g,0,g,58,g
+192,kfc,miranda strawberry 20 fl oz,0,g,0,mg,120,g,73,g,0,g,0,g,0,g,0,g,73,g
+193,kfc,miranda strawberry 30 fl oz,0,g,0,mg,180,g,109,g,0,g,0,g,0,g,0,g,109,g
+194,kfc,mist twst 12 fl oz,0,g,0,mg,35,g,41,g,0,g,0,g,0,g,0,g,41,g
+195,kfc,mist twst 16 fl oz,0,g,0,mg,45,g,54,g,0,g,0,g,0,g,0,g,54,g
+196,kfc,mist twst 20 fl oz,0,g,0,mg,55,g,68,g,0,g,0,g,0,g,0,g,68,g
+197,kfc,mist twst 30 fl oz,0,g,0,mg,80,g,101,g,0,g,0,g,0,g,0,g,101,g
+198,kfc,mnt dew sweet lightning 20 fl oz,0,g,0,mg,190,g,32,g,0,g,0,g,0,g,0,g,25,g
+199,kfc,mountain dew 12 fl oz,0,g,0,mg,50,g,44,g,0,g,0,g,0,g,0,g,44,g
+200,kfc,mountain dew 16 fl oz,0,g,0,mg,70,g,59,g,0,g,0,g,0,g,0,g,58,g
+201,kfc,mountain dew 20 fl oz,0,g,0,mg,85,g,73,g,0,g,0,g,0,g,0,g,73,g
+202,kfc,mountain dew 30 fl oz,0,g,0,mg,125,g,110,g,0,g,0,g,0,g,0,g,109,g
+203,kfc,mug root beer 12 fl oz,0,g,0,mg,45,g,39,g,0,g,0,g,0,g,0,g,39,g
+204,kfc,mug root beer 16 fl oz,0,g,0,mg,60,g,52,g,0,g,0,g,0,g,0,g,52,g
+205,kfc,mug root beer 20 fl oz,0,g,0,mg,75,g,65,g,0,g,0,g,0,g,0,g,65,g
+206,kfc,mug root beer 30 fl oz,0,g,0,mg,110,g,98,g,0,g,0,g,0,g,0,g,98,g
+207,kfc,musselmans applesauce,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,1,g,8,g
+208,kfc,nashville hot extra crispy chicken breast,60,g,105,mg,1530,g,21,g,35,g,10,g,0,g,1,g,1,g
+209,kfc,nashville hot extra crispy chicken drumstick,21,g,50,mg,530,g,6,g,11,g,3.5,g,0,g,1,g,0,g
+210,kfc,nashville hot extra crispy chicken thigh,40,g,100,mg,970,g,11,g,22,g,7,g,0,g,1,g,1,g
+211,kfc,nashville hot extra crispy chicken whole wing,25,g,45,mg,520,g,6,g,10,g,4,g,0,g,1,g,1,g
+212,kfc,nashville hot kentucky grilled chicken breast,12,g,130,mg,790,g,1,g,38,g,3,g,0,g,0,g,0,g
+213,kfc,nashville hot kentucky grilled chicken drumstick,6,g,55,mg,260,g,0,g,11,g,1.5,g,0,g,0,g,0,g
+214,kfc,nashville hot kentucky grilled chicken thigh,12,g,90,mg,470,g,0,g,17,g,3.5,g,0,g,0,g,0,g
+215,kfc,nashville hot kentucky grilled chicken whole wing,6,g,45,mg,210,g,1,g,9,g,1.5,g,0,g,0,g,0,g
+216,kfc,nashville hot spicy crispy chicken breast,40,g,100,mg,1390,g,14,g,31,g,7,g,0,g,2,g,1,g
+217,kfc,nashville hot spicy crispy chicken drumstick,14,g,40,mg,510,g,6,g,9,g,2.5,g,0,g,1,g,0,g
+218,kfc,nashville hot spicy crispy chicken thigh,32,g,65,mg,900,g,12,g,13,g,6,g,0,g,2,g,1,g
+219,kfc,nashville hot spicy crispy chicken whole wing,15,g,35,mg,450,g,5,g,8,g,2.5,g,0,g,1,g,0,g
+220,kfc,oreo cookies and creme pie,13,g,5,mg,210,g,35,g,3,g,8,g,0,g,1,g,24,g
+221,kfc,original recipe chicken breast,21,g,120,mg,1190,g,11,g,39,g,4,g,0,g,2,g,0,g
+222,kfc,original recipe chicken drumstick,8,g,55,mg,430,g,4,g,12,g,1.5,g,0,g,1,g,0,g
+223,kfc,original recipe chicken thigh,19,g,100,mg,910,g,8,g,19,g,4.5,g,0,g,1,g,0,g
+224,kfc,original recipe chicken whole wing,8,g,55,mg,380,g,3,g,10,g,2,g,0,g,0,g,0,g
+225,kfc,parmesan garlic croutons,3,g,0,mg,135,g,8,g,2,g,0,g,0,g,1,g,1,g
+226,kfc,pepsi 12 fl oz,0,g,0,mg,30,g,41,g,0,g,0,g,0,g,0,g,41,g
+227,kfc,pepsi 16 fl oz,0,g,0,mg,45,g,55,g,0,g,0,g,0,g,0,g,55,g
+228,kfc,pepsi 20 fl oz,0,g,0,mg,55,g,69,g,0,g,0,g,0,g,0,g,69,g
+229,kfc,pepsi 30 fl oz,0,g,0,mg,80,g,104,g,0,g,0,g,0,g,0,g,103,g
+230,kfc,pepsi zero sugar 12 fl oz,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+231,kfc,pepsi zero sugar 16 fl oz,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+232,kfc,pepsi zero sugar 20 fl oz,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+233,kfc,pepsi zero sugar 30 fl oz,0,g,0,mg,95,g,1,g,0,g,0,g,0,g,0,g,0,g
+234,kfc,popcorn nuggets kids,19,g,30,mg,870,g,19,g,13,g,2.5,g,0,g,1,g,0,g
+235,kfc,popcorn nuggets large,39,g,65,mg,1820,g,39,g,27,g,5,g,0,g,2,g,0,g
+236,kfc,potato salad,28,g,25,mg,290,g,19,g,2,g,4.5,g,0,g,2,g,3,g
+237,kfc,potato salad family,98,g,80,mg,1010,g,65,g,8,g,16,g,0,g,8,g,12,g
+238,kfc,ranch dipping sauce cup,14,g,10,mg,240,g,2,g,0,g,2.5,g,0,g,0,g,1,g
+239,kfc,reeses peanut butter pie,17,g,5,mg,270,g,33,g,5,g,9,g,0,g,1,g,22,g
+240,kfc,secret recipe fries,15,g,0,mg,1100,g,41,g,5,g,2,g,0,g,3,g,0,g
+241,kfc,secret recipe fries family,40,g,0,mg,2890,g,108,g,13,g,5,g,0,g,9,g,0,g
+242,kfc,sobe lifewater yumberry pomegranate 12 fl oz,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+243,kfc,sobe lifewater yumberry pomegranate 16 fl oz,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+244,kfc,sobe lifewater yumberry pomegranate 20 fl oz,0,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+245,kfc,sobe lifewater yumberry pomegranate 30 fl oz,0,g,0,mg,120,g,1,g,0,g,0,g,0,g,0,g,0,g
+246,kfc,spicy chicken sandwich,33,g,85,mg,2140,g,49,g,34,g,4,g,0,g,1,g,6,g
+247,kfc,spicy crispy chicken breast,20,g,100,mg,1100,g,11,g,30,g,3.5,g,0,g,1,g,0,g
+248,kfc,spicy crispy chicken drumstick,8,g,40,mg,420,g,5,g,9,g,1.5,g,0,g,1,g,0,g
+249,kfc,spicy crispy chicken thigh,20,g,65,mg,720,g,10,g,13,g,3.5,g,0,g,1,g,0,g
+250,kfc,spicy crispy chicken whole wing,8,g,35,mg,350,g,5,g,7,g,1.5,g,0,g,0,g,0,g
+251,kfc,strawberry jam packet,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,6,g
+252,kfc,strawberry lemonade 1 2 gallon,0,g,0,mg,790,g,270,g,0,g,0,g,0,g,0,g,264,g
+253,kfc,strawberry lemonade 20 fl oz,0,g,0,mg,130,g,45,g,0,g,0,g,0,g,0,g,44,g
+254,kfc,sweet kernel corn,0.5,g,0,mg,0,g,16,g,2,g,0,g,0,g,2,g,2,g
+255,kfc,sweet kernel corn family,2.5,g,0,mg,10,g,67,g,10,g,0,g,0,g,7,g,8,g
+256,kfc,tropicana fruit punch 12 fl oz,0,g,0,mg,35,g,45,g,0,g,0,g,0,g,0,g,45,g
+257,kfc,tropicana fruit punch 16 fl oz,0,g,0,mg,45,g,60,g,0,g,0,g,0,g,0,g,60,g
+258,kfc,tropicana fruit punch 20 fl oz,0,g,0,mg,60,g,75,g,0,g,0,g,0,g,0,g,75,g
+259,kfc,tropicana fruit punch 30 fl oz,0,g,0,mg,90,g,113,g,0,g,0,g,0,g,0,g,112,g
+260,kfc,tropicana light lemonade 12 fl oz,0,g,0,mg,140,g,0,g,0,g,0,g,0,g,0,g,0,g
+261,kfc,tropicana light lemonade 16 fl oz,0,g,0,mg,190,g,0,g,0,g,0,g,0,g,0,g,0,g
+262,kfc,tropicana light lemonade 20 fl oz,0,g,0,mg,240,g,0,g,0,g,0,g,0,g,0,g,0,g
+263,kfc,tropicana light lemonade 30 fl oz,0,g,0,mg,350,g,1,g,0,g,0,g,0,g,0,g,0,g
+264,kfc,tropicana pink lemonade 12 fl oz,0,g,0,mg,160,g,40,g,0,g,0,g,0,g,0,g,40,g
+265,kfc,tropicana pink lemonade 16 fl oz,0,g,0,mg,210,g,53,g,0,g,0,g,0,g,0,g,53,g
+266,kfc,tropicana pink lemonade 20 fl oz,0,g,0,mg,260,g,67,g,0,g,0,g,0,g,0,g,67,g
+267,kfc,tropicana pink lemonade 30 fl oz,0,g,0,mg,390,g,100,g,0,g,0,g,0,g,0,g,100,g
+268,kfc,tropicana twister orange 12 fl oz,0,g,0,mg,35,g,46,g,0,g,0,g,0,g,0,g,46,g
+269,kfc,tropicana twister orange 16 fl oz,0,g,0,mg,50,g,61,g,0,g,0,g,0,g,0,g,61,g
+270,kfc,tropicana twister orange 20 fl oz,0,g,0,mg,60,g,76,g,0,g,0,g,0,g,0,g,76,g
+271,kfc,tropicana twister orange 30 fl oz,0,g,0,mg,90,g,115,g,0,g,0,g,0,g,0,g,114,g
+272,kfc,wild cherry pepsi 12 fl oz,0,g,0,mg,30,g,42,g,0,g,0,g,0,g,0,g,42,g
+273,kfc,wild cherry pepsi 16 fl oz,0,g,0,mg,40,g,56,g,0,g,0,g,0,g,0,g,56,g
+274,kfc,wild cherry pepsi 20 fl oz,0,g,0,mg,50,g,70,g,0,g,0,g,0,g,0,g,70,g
+275,kfc,wild cherry pepsi 30 fl oz,0,g,0,mg,80,g,105,g,0,g,0,g,0,g,0,g,105,g
+276,www.menuwithnutrition.com,kfc menu,,,,,,,,,,,,,,,,,,
+277,kite hill,plain cream cheese style spread,7,g,0,mg,170,g,1,g,2,g,0.5,g,0,g,0,g,0,g
+278,kite hill,plain unsweetened artisan almond milk yogurt 16 oz,13,g,0,mg,0,g,1,g,6,g,2,g,0,g,0,g,0,g
+279,kite hill,vanilla artisan almond milk yogurt 16 oz,11,g,0,mg,5,g,15,g,5,g,1.5,g,0,g,0,g,14,g
+280,kite hill,chive cream cheese style spread,7,g,0,mg,170,g,1,g,2,g,0.5,g,0,g,0,g,0,g
+281,kite hill,plain unsweetened almond milk drinkable yogurt,10,g,0,mg,15,g,4,g,6,g,1,g,0,g,0,g,1,g
+282,kite hill,ricotta artisan almond milk cheese,7,g,0,mg,115,g,1,g,2,g,0.5,g,0,g,0,g,0,g
+283,kite hill,plain artisan almond milk yogurt,11,g,0,mg,10,g,8,g,4,g,1,g,0,g,2,g,5,g
+284,kite hill,vanilla artisan almond milk yogurt,10,g,0,mg,10,g,25,g,4,g,0.5,g,0,g,2,g,20,g
+285,kite hill,key lime artisan almond milk yogurt,10,g,0,mg,10,g,21,g,3,g,0.5,g,0,g,2,g,17,g
+286,kite hill,summer berry almond milk drinkable yogurt,9,g,0,mg,20,g,15,g,6,g,0.5,g,0,g,0,g,12,g
+287,kite hill,jalapeno cream cheese style spread,7,g,0,mg,170,g,1,g,2,g,0.5,g,0,g,0,g,0,g
+288,kite hill,pineapple artisan almond milk yogurt,10,g,0,mg,10,g,22,g,3,g,0.5,g,0,g,2,g,19,g
+289,kite hill,vanilla almond milk drinkable yogurt,9,g,0,mg,15,g,15,g,6,g,0.5,g,0,g,0,g,12,g
+290,kite hill,strawberry artisan almond milk yogurt,10,g,0,mg,10,g,21,g,3,g,0.5,g,0,g,2,g,17,g
+291,kite hill,blueberry artisan almond milk yogurt,9,g,0,mg,10,g,21,g,4,g,0.5,g,0,g,2,g,17,g
+292,kite hill,peach artisan almond milk yogurt,9,g,0,mg,10,g,22,g,4,g,0.5,g,0,g,2,g,18,g
+293,kite hill,mushroom almond milk ricotta ravioli,6,g,0,mg,490,g,34,g,7,g,0,g,0,g,2,g,1,g
+294,kite hill,almond milk drinkable yogurt mango,11,g,0,mg,10,g,15,g,6,g,0,g,0,g,0,g,13,g
+295,kite hill,almond milk drinkable yogurt plain unsweetened,12,g,0,mg,10,g,3,g,7,g,0,g,0,g,0,g,1,g
+296,kite hill,almond milk drinkable yogurt summer berry,9,g,0,mg,20,g,15,g,6,g,0.5,g,0,g,0,g,12,g
+297,kite hill,almond milk greek style yogurt vanilla unsweetened,15,g,0,mg,10,g,10,g,13,g,1,g,0,g,5,g,3,g
+298,kite hill,almond milk ricotta alternative tortellini,5,g,0,mg,280,g,47,g,10,g,0,g,0,g,0,g,2,g
+299,kite hill,almond milk yogurt dips,2,g,0,mg,75,g,2,g,1,g,0,g,0,g,0,g,0,g
+300,kite hill,almond milk yogurt blueberry,11,g,0,mg,6,g,15,g,5,g,1.5,g,0,g,0,g,14,g
+301,kite hill,almond milk yogurt peach,11,g,0,mg,0,g,16,g,5,g,1.5,g,0,g,0,g,15,g
+302,kite hill,almond milk yogurt plain,13,g,0,mg,0,g,5,g,6,g,2,g,0,g,0,g,5,g
+303,kite hill,almond milk yogurt plain unsweetened,11,g,0,mg,10,g,4,g,5,g,1,g,0,g,2,g,1,g
+304,kite hill,almond milk yogurt raspberry,10,g,0,mg,10,g,20,g,3,g,0.5,g,0,g,2,g,15,g
+305,kite hill,almond milk yogurt strawberry,11,g,0,mg,0,g,15,g,5,g,1.5,g,0,g,0,g,15,g
+306,kite hill,almond milk yogurt strawberry banana,3.5,g,0,mg,5,g,7,g,2,g,0,g,0,g,0,g,6,g
+307,kite hill,almond milk yogurt vanilla,11,g,0,mg,5,g,15,g,5,g,1.5,g,0,g,0,g,14,g
+308,kite hill,almond milk soft fresh truffle dill and chive,7,g,0,mg,105,g,3,g,3,g,0.5,g,0,g,0,g,0,g
+309,kite hill,artisan almond milk,4,g,0,mg,150,g,4,g,5,g,0.5,g,0,g,0,g,0,g
+310,kite hill,artisan almond milk product soft fresh original,7,g,0,mg,150,g,2,g,3,g,0,g,0,g,0,g,0,g
+311,kite hill,artisan almond milk yogurt caramel,11,g,0,mg,75,g,21,g,4,g,1,g,0,g,1,g,17,g
+312,kite hill,artisan almond milk yogurt key lime,10,g,0,mg,0,g,18,g,5,g,1.5,g,0,g,0,g,17,g
+313,kite hill,artisan almond milk yogurt pineapple,10,g,0,mg,0,g,18,g,5,g,1.5,g,0,g,0,g,17,g
+314,kite hill,artisan almond milk yogurt plain unsweetened,10,g,0,mg,10,g,9,g,4,g,1,g,0,g,3,g,1,g
+315,kite hill,artisan almond milk yogurt strawberry,10,g,0,mg,10,g,21,g,3,g,0.5,g,0,g,2,g,17,g
+316,kite hill,artisan almond milk yogurt vanilla,10,g,0,mg,10,g,22,g,3,g,0.5,g,0,g,2,g,18,g
+317,kite hill,artisan almond milk yogurt wild berry,3.5,g,0,mg,5,g,7,g,2,g,0,g,0,g,0,g,6,g
+318,kite hill,blissful creamy coconut milk yogurt blueberry limoncello,6,g,0,mg,50,g,22,g,1,g,6,g,0,g,1,g,15,g
+319,kite hill,blissful creamy coconut milk yogurt salted caramel,6,g,0,mg,135,g,21,g,1,g,6,g,0,g,0,g,13,g
+320,kite hill,blissful creamy coconut milk yogurt decadent vanilla bean,6,g,0,mg,55,g,21,g,1,g,6,g,0,g,0,g,14,g
+321,kite hill,blissful creamy coconut milk yogurt peaches and creme,6,g,0,mg,50,g,22,g,1,g,6,g,0,g,0,g,15,g
+322,kite hill,blueberry plant based yogurt,6,g,0,mg,85,g,10,g,10,g,2,g,0,g,1,g,5,g
+323,kite hill,butternut squash ravioli,6,g,0,mg,300,g,33,g,8,g,0,g,0,g,0,g,1,g
+324,kite hill,cream cheese,6,g,0,mg,180,g,3,g,2,g,0,g,0,g,1,g,1,g
+325,kite hill,cream cheese alternative,6,g,0,mg,150,g,2,g,2,g,0,g,0,g,1,g,0,g
+326,kite hill,cream cheese alternative strawberry,5,g,0,mg,0,g,4,g,2,g,0,g,0,g,1,g,3,g
+327,kite hill,cream cheese style spread,7,g,0,mg,170,g,1,g,2,g,0.5,g,0,g,0,g,0,g
+328,kite hill,creamy coconut milk yogurt strawberries and creme,6,g,0,mg,50,g,22,g,1,g,6,g,0,g,0,g,15,g
+329,kite hill,dips almond milk yogurt based ranch dip,2,g,0,mg,115,g,2,g,1,g,0,g,0,g,0,g,0,g
+330,kite hill,french onion dip,2,g,0,mg,190,g,2,g,1,g,0,g,0,g,0,g,0,g
+331,kite hill,greek style yogurt plain unsweetened,10,g,0,mg,10,g,8,g,11,g,1,g,0,g,4,g,2,g
+332,kite hill,greek style yogurt plain unsweetened almond milk,15,g,0,mg,10,g,10,g,13,g,1,g,0,g,5,g,3,g
+333,kite hill,greek yogurt black cherry,10,g,0,mg,15,g,15,g,10,g,0,g,0,g,0,g,11,g
+334,kite hill,greek style artisan almond milk yogurt plain unsweetened,12,g,0,mg,5,g,6,g,11,g,0,g,0,g,0,g,1,g
+335,kite hill,greek style yogurt blueberry,10,g,0,mg,5,g,16,g,10,g,0,g,0,g,0,g,12,g
+336,kite hill,greek style yogurt mango,10,g,0,mg,10,g,15,g,10,g,0,g,0,g,0,g,12,g
+337,kite hill,greek style yogurt peach,10,g,0,mg,5,g,17,g,10,g,0,g,0,g,0,g,13,g
+338,kite hill,greek style yogurt vanilla,10,g,0,mg,10,g,8,g,11,g,1,g,0,g,4,g,2,g
+339,kite hill,medium queso alternative,6,g,0,mg,100,g,2,g,1,g,3.5,g,0,g,0,g,0,g
+340,kite hill,mushroom and ricotta,6,g,0,mg,490,g,34,g,7,g,0,g,0,g,2,g,1,g
+341,kite hill,plain cream cheese alternative made with almond milk,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+342,kite hill,plain unsweetened almond milk yogurt,11,g,0,mg,10,g,4,g,5,g,1,g,0,g,2,g,1,g
+343,kite hill,plain unsweetened plant based yogurt,7,g,0,mg,95,g,7,g,12,g,2.5,g,0,g,1,g,1,g
+344,kite hill,plain unsweetened yogurt almond,12,g,0,mg,15,g,5,g,5,g,1,g,0,g,3,g,1,g
+345,kite hill,plant based artisans alternative sour cream,5,g,0,mg,15,g,2,g,1,g,3,g,0,g,0,g,0,g
+346,kite hill,plant based butter,10,g,0,mg,60,g,0,g,0,g,4,g,0,g,0,g,0,g
+347,kite hill,probiotic almond milk drinkable yogurt vanilla,9,g,0,mg,15,g,15,g,6,g,0.5,g,0,g,0,g,12,g
+348,kite hill,ravioli made with almond milk ricotta,6,g,0,mg,310,g,31,g,9,g,0,g,0,g,2,g,0,g
+349,kite hill,ricotta almond milk,6,g,0,mg,90,g,2,g,3,g,0,g,0,g,0,g,0,g
+350,kite hill,soft spreadable cheese,5,g,0,mg,115,g,3,g,2,g,0,g,0,g,1,g,0,g
+351,kite hill,sour cream,5,g,2,mg,15,g,2,g,1,g,3,g,0,g,0,g,0,g
+352,kite hill,soy and dairy free plain unsweetened greek style yogurt,12,g,0,mg,5,g,6,g,11,g,0,g,0,g,0,g,1,g
+353,kite hill,spinach tortellini,6,g,0,mg,290,g,45,g,10,g,0,g,0,g,1,g,1,g
+354,kite hill,spread cream cheese style jalapeno,7,g,0,mg,190,g,1,g,2,g,0.5,g,0,g,1,g,0,g
+355,kite hill,strawberry greek style yogurt,10,g,0,mg,10,g,14,g,10,g,0,g,0,g,0,g,11,g
+356,kite hill,strawberry plant based yogurt,6,g,0,mg,85,g,10,g,10,g,2,g,0,g,1,g,5,g
+357,kite hill,vanilla plant based yogurt,6,g,0,mg,85,g,10,g,10,g,2,g,0,g,1,g,5,g
+358,kohr bros,vanilla frozen custard ice cream,12,g,50,mg,120,g,32,g,8,g,8,g,0,g,0,g,32,g
+359,kohr bros,chocolate frozen custard ice cream,12,g,50,mg,150,g,36,g,8,g,8,g,0,g,0,g,36,g
+360,kohr bros,orange sherbet frozen custard ice cream,4,g,16,mg,66,g,42,g,2,g,2,g,0,g,0,g,42,g
+361,kolache factory,bar b q brisket kolache,6,g,20,mg,270,g,31,g,8,g,2,g,0,g,0,g,9,g
+362,kolache factory,raspberry kolache,2,g,5,mg,130,g,42,g,3,g,0,g,0,g,0,g,12,g
+363,kolache factory,peach kolache,2,g,5,mg,140,g,39,g,3,g,0,g,0,g,0,g,14,g
+364,kolache factory,blueberry muffin,22,g,70,mg,400,g,52,g,6,g,4,g,0,g,2,g,26,g
+365,kolache factory,chocolate muffin,26,g,70,mg,460,g,54,g,6,g,6,g,0,g,2,g,32,g
+366,kolache factory,philly cheese steak kolache,6,g,35,mg,360,g,28,g,12,g,2.5,g,0,g,0,g,6,g
+367,kolache factory,apple strudel,26,g,0,mg,320,g,49,g,5,g,10,g,0,g,2,g,16,g
+368,kolache factory,cinnamon roll,6,g,0,mg,40,g,59,g,5,g,0,g,0,g,0,g,19,g
+369,kolache factory,banana nut muffin,24,g,80,mg,380,g,54,g,6,g,2,g,0,g,2,g,28,g
+370,kolache factory,cinnamon twist,23,g,545,mg,160,g,35,g,7,g,14,g,0,g,2,g,7,g
+371,kolache factory,lemon kolache,4,g,10,mg,200,g,42,g,3,g,0.5,g,0,g,0,g,17,g
+372,kolache factory,blackforest or raspberry strudel,19,g,0,mg,325,g,53,g,5,g,7,g,0,g,2,g,16,g
+373,kolache factory,pecan pie,7,g,20,mg,180,g,43,g,4,g,1,g,0,g,0.5,g,16,g
+374,kolache factory,strawberry kolache,2,g,5,mg,140,g,39,g,3,g,0,g,0,g,0,g,14,g
+375,kolache factory,iced caramel macchiato large,14.5,g,48,mg,232,g,50.5,g,12,g,7,g,0,g,0,g,40.5,g
+376,kolache factory,latte frappe large,15.5,g,27,mg,245,g,79,g,9.8,g,3.8,g,0,g,0,g,71.5,g
+377,kolache factory,mocha frappe small,11,g,18,mg,178,g,77.5,g,7.5,g,2.5,g,0,g,0,g,69.5,g
+378,kolache factory,latte frappe small,10.5,g,18,mg,163,g,52.5,g,6.5,g,2.5,g,0,g,0,g,47.5,g
+379,kolache factory,iced latte large,12,g,53,mg,188,g,18,g,12,g,7.5,g,0,g,0,g,18,g
+380,kolache factory,hot chocolate small,10.5,g,44,mg,171,g,45,g,11,g,6.5,g,0,g,0,g,42,g
+381,kolache factory,mocha frappe large,16,g,27,mg,267,g,116,g,11.5,g,3.8,g,0,g,0,g,104,g
+382,kolache factory,iced latte small,8,g,35,mg,125,g,12,g,8,g,5,g,0,g,0,g,12,g
+383,kolache factory,caramel macchiato large,14.5,g,62,mg,234,g,56,g,15,g,8.8,g,0,g,0,g,53,g
+384,kolache factory,iced caramel macchiato small,8.8,g,31,mg,139,g,32.5,g,7.5,g,4.4,g,0,g,0,g,27.5,g
+385,kolache factory,caramel macchiato small,14.5,g,62,mg,226,g,38.5,g,14.5,g,8.8,g,0,g,0,g,37,g
+386,kolache factory,hot chocolate,18,g,75,mg,296,g,80.5,g,19,g,10.5,g,0,g,0,g,74.5,g
+387,kolache factory,sausage jalapeno and cheese kolache,9,g,20,mg,410,g,28,g,7,g,3.5,g,0,g,0,g,6,g
+388,kolache factory,sausage and cheese kolache,8,g,20,mg,380,g,35,g,7,g,3,g,0,g,0,g,8,g
+389,kolache factory,potato egg and cheese kolache,9,g,190,mg,880,g,46,g,13,g,3.5,g,0,g,0,g,10,g
+390,kolache factory,texas hot polish sausage kolache,16,g,60,mg,1010,g,56,g,17,g,5,g,0,g,0,g,1,g
+391,kolache factory,sausage and gravy kolache,7,g,20,mg,320,g,29,g,6,g,2,g,0.5,g,0,g,7,g
+392,kolache factory,sausage egg and cheese kolache,15,g,280,mg,810,g,42,g,17,g,5,g,0,g,0,g,10,g
+393,kolache factory,bacon and cheese kolache,11,g,35,mg,500,g,28,g,10,g,5,g,0,g,0,g,6,g
+394,kolache factory,cream spinach kolache,13,g,35,mg,420,g,29,g,8,g,6,g,0,g,0.5,g,7,g
+395,kolache factory,ham and cheese kolache,4,g,20,mg,510,g,29,g,7,g,1.5,g,0.5,g,0,g,7,g
+396,kolache factory,cream cheese kolache,6,g,25,mg,200,g,32,g,5,g,3,g,0,g,0,g,11,g
+397,kolache factory,sausage kolache,4,g,10,mg,190,g,24,g,4,g,1,g,0,g,0,g,5,g
+398,kolache factory,ranchero kolache,9,g,200,mg,570,g,42,g,14,g,3.5,g,0,g,0,g,10,g
+399,kolache factory,bacon egg and cheese kolache,15,g,280,mg,550,g,42,g,18,g,6,g,0,g,0,g,10,g
+400,kolache factory,pepperoni pizza kolache,12,g,30,mg,590,g,29,g,10,g,4.5,g,0,g,0,g,7,g
+401,kolache factory,jalapeno popper kolache,15,g,40,mg,580,g,27,g,8,g,8,g,0,g,0,g,6,g
+402,kolache factory,ham egg and cheese croissant,27,g,85,mg,1400,g,40,g,18,g,17,g,1.5,g,0,g,9,g
+403,kolache factory,polish sausage kolache,21,g,60,mg,940,g,56,g,17,g,8,g,0,g,0,g,1,g
+404,kolache factory,country breakfast kolache,19,g,205,mg,460,g,48,g,14,g,8,g,0,g,2,g,10,g
+405,kolache factory,chorizo egg and cheese kolache,7,g,25,mg,210,g,38,g,5,g,3.5,g,0,g,0,g,16,g
+406,kolache factory,chicken enchilada kolache,6,g,30,mg,740,g,30,g,11,g,2.5,g,0,g,0,g,7,g
+407,kolache factory,italian chicken kolache,6,g,35,mg,540,g,28,g,12,g,2.5,g,0,g,0,g,6,g
+408,kolache factory,denver omelet kolache,14,g,270,mg,550,g,44,g,16,g,6,g,0,g,1,g,11,g
+409,kolache factory,egg and cheese kolache,16,g,220,mg,700,g,42,g,18,g,8,g,0,g,0,g,9,g
+410,kolache factory,steak and eggs kolache,21,g,295,mg,490,g,42,g,21,g,9,g,5,g,1,g,10,g
+411,kolache factory,philly chicken kolache,11,g,30,mg,350,g,27,g,11,g,4,g,0,g,1,g,6,g
+412,kolache factory,fiesta kolache,14,g,45,mg,450,g,31,g,10,g,7,g,0,g,1,g,7,g
+413,kolache factory,italian chicken croissant,34,g,130,mg,1450,g,39,g,30,g,21,g,0,g,0,g,4,g
+414,kolache factory,sausage and peppers kolache,10,g,30,mg,350,g,29,g,8,g,4,g,0,g,1,g,7,g
+415,kolache factory,ham and egg croissant,29,g,220,mg,980,g,38,g,19,g,17,g,0.5,g,0,g,7,g
+416,kolache factory,hot polish sausage kolache,19,g,60,mg,1040,g,55,g,19,g,7,g,0,g,0,g,13,g
+417,kolache factory,caramel macchiato iced large,15,g,50,mg,230,g,51,g,12,g,7,g,0,g,0,g,41,g
+418,kolache factory,caramel macchiato iced small,9,g,30,mg,140,g,33,g,8,g,4.5,g,0,g,0,g,28,g
+419,kolache factory,caramel macchiato large,15,g,60,mg,230,g,56,g,15,g,9,g,0,g,0,g,53,g
+420,kolache factory,caramel macchiato small,14,g,60,mg,230,g,39,g,15,g,9,g,0,g,0,g,37,g
+421,kolache factory,croissant ham and egg,29,g,220,mg,980,g,38,g,19,g,17,g,0,g,0,g,7,g
+422,kolache factory,croissant ham egg and cheese,27,g,85,mg,1400,g,40,g,18,g,17,g,0,g,0,g,9,g
+423,kolache factory,croissant italian chicken,34,g,130,mg,1450,g,39,g,30,g,21,g,0,g,0,g,4,g
+424,kolache factory,hot chocolate large,18,g,75,mg,300,g,81,g,19,g,11,g,0,g,0,g,75,g
+425,kolache factory,hot chocolate small,11,g,45,mg,170,g,45,g,11,g,6,g,0,g,0,g,42,g
+426,kolache factory,iced latte large,12,g,55,mg,190,g,18,g,12,g,8,g,0,g,0,g,18,g
+427,kolache factory,iced latte small,8,g,35,mg,125,g,12,g,8,g,5,g,0,g,0,g,12,g
+428,kolache factory,kolache apple,2,g,5,mg,150,g,38,g,3,g,0,g,0,g,0,g,14,g
+429,kolache factory,kolache apricot,2,g,5,mg,170,g,38,g,4,g,0,g,0,g,0,g,20,g
+430,kolache factory,kolache bacon and cheese,11,g,35,mg,500,g,28,g,10,g,5,g,0,g,0,g,6,g
+431,kolache factory,kolache bacon egg and cheese,15,g,280,mg,550,g,42,g,18,g,6,g,0,g,0,g,10,g
+432,kolache factory,kolache bar b q brisket,6,g,20,mg,270,g,31,g,8,g,2,g,0,g,0,g,9,g
+433,kolache factory,kolache caramel apple,9,g,30,mg,210,g,41,g,5,g,4.5,g,0,g,1,g,18,g
+434,kolache factory,kolache cherry,2,g,5,mg,140,g,35,g,3,g,0,g,0,g,0,g,10,g
+435,kolache factory,kolache chicken enchilada,6,g,30,mg,740,g,30,g,11,g,2.5,g,0,g,0,g,7,g
+436,kolache factory,kolache chorizo egg and cheese,21,g,255,mg,530,g,43,g,16,g,10,g,0,g,1,g,10,g
+437,kolache factory,kolache country breakfast,19,g,205,mg,460,g,48,g,14,g,8,g,0,g,2,g,10,g
+438,kolache factory,kolache cream cheese,6,g,25,mg,200,g,32,g,5,g,3,g,0,g,0,g,11,g
+439,kolache factory,kolache denver omelet,14,g,270,mg,550,g,44,g,16,g,6,g,0,g,1,g,11,g
+440,kolache factory,kolache egg and cheese,16,g,220,mg,700,g,42,g,18,g,8,g,0,g,0,g,9,g
+441,kolache factory,kolache fiesta,14,g,45,mg,450,g,31,g,10,g,7,g,0,g,1,g,7,g
+442,kolache factory,kolache ham and cheese,4,g,20,mg,510,g,29,g,7,g,1.5,g,0,g,0,g,7,g
+443,kolache factory,kolache italian chicken,6,g,35,mg,540,g,28,g,12,g,2.5,g,0,g,0,g,6,g
+444,kolache factory,kolache jalapeno popper,15,g,40,mg,580,g,27,g,8,g,8,g,0,g,0,g,6,g
+445,kolache factory,kolache lemon,4,g,10,mg,200,g,42,g,3,g,0.5,g,0,g,0,g,17,g
+446,kolache factory,kolache peach,2,g,5,mg,140,g,39,g,3,g,0,g,0,g,0,g,14,g
+447,kolache factory,kolache pecan pie,7,g,20,mg,180,g,43,g,4,g,1,g,0,g,1,g,16,g
+448,kolache factory,kolache philly cheese steak,6,g,35,mg,360,g,28,g,12,g,2.5,g,0,g,0,g,6,g
+449,kolache factory,kolache philly chicken,11,g,30,mg,350,g,27,g,11,g,4,g,0,g,1,g,6,g
+450,kolache factory,kolache pizza,12,g,30,mg,590,g,29,g,10,g,4.5,g,0,g,0,g,7,g
+451,kolache factory,kolache polish sausage,21,g,60,mg,940,g,56,g,17,g,8,g,0,g,0,g,13,g
+452,kolache factory,kolache polish sausage hot,19,g,60,mg,1040,g,55,g,19,g,7,g,0,g,0,g,13,g
+453,kolache factory,kolache polish sausage texas hot,16,g,60,mg,1010,g,56,g,17,g,5,g,0,g,0,g,13,g
+454,kolache factory,kolache poppys cheeseburger,16,g,75,mg,620,g,42,g,19,g,10,g,0,g,1,g,9,g
+455,kolache factory,kolache potato egg and cheese,9,g,190,mg,880,g,46,g,13,g,3.5,g,0,g,0,g,10,g
+456,kolache factory,kolache pumpkin pie,2,g,5,mg,150,g,32,g,4,g,0,g,0,g,0,g,11,g
+457,kolache factory,kolache ranchero,9,g,200,mg,570,g,42,g,14,g,3.5,g,0,g,0,g,10,g
+458,kolache factory,kolache raspberry,2,g,5,mg,130,g,42,g,3,g,0,g,0,g,0,g,12,g
+459,kolache factory,kolache sausage,4,g,10,mg,190,g,24,g,4,g,1,g,0,g,0,g,5,g
+460,kolache factory,kolache sausage and cheese,8,g,20,mg,380,g,35,g,7,g,3,g,0,g,0,g,8,g
+461,kolache factory,kolache sausage and gravy,7,g,20,mg,320,g,29,g,6,g,2,g,0,g,0,g,7,g
+462,kolache factory,kolache sausage and peppers,10,g,30,mg,350,g,29,g,8,g,4,g,0,g,1,g,7,g
+463,kolache factory,kolache sausage egg and cheese,15,g,280,mg,810,g,42,g,17,g,5,g,0,g,0,g,10,g
+464,kolache factory,kolache sausage jalapeo and cheese,9,g,20,mg,410,g,28,g,7,g,3.5,g,0,g,0,g,6,g
+465,kolache factory,kolache spinach,13,g,35,mg,420,g,29,g,8,g,6,g,0,g,1,g,7,g
+466,kolache factory,kolache steak and eggs,21,g,295,mg,490,g,42,g,21,g,9,g,0,g,1,g,10,g
+467,kolache factory,kolache strawberry,2,g,5,mg,140,g,39,g,3,g,0,g,0,g,0,g,14,g
+468,kolache factory,kolache turkey and dressing,5,g,40,mg,1040,g,48,g,16,g,1,g,0,g,0,g,10,g
+469,kolache factory,latte frappe large,15,g,25,mg,250,g,79,g,10,g,4,g,0,g,0,g,71,g
+470,kolache factory,latte frappe small,10,g,20,mg,160,g,53,g,7,g,2.5,g,0,g,0,g,48,g
+471,kolache factory,mocha frappe large,16,g,25,mg,270,g,116,g,11,g,4,g,0,g,0,g,104,g
+472,kolache factory,mocha frappe small,11,g,20,mg,180,g,78,g,8,g,2.5,g,0,g,0,g,70,g
+473,kolache factory,spcialties cinnamon roll,6,g,0,mg,40,g,59,g,5,g,0,g,0,g,0,g,19,g
+474,kolache factory,spcialties cinnamon twist,23,g,545,mg,160,g,35,g,7,g,14,g,0,g,2,g,7,g
+475,kolache factory,spcialties muffin banana nut,24,g,80,mg,380,g,54,g,6,g,2,g,0,g,2,g,28,g
+476,kolache factory,spcialties muffin blueberry,22,g,70,mg,400,g,52,g,6,g,4,g,0,g,2,g,26,g
+477,kolache factory,spcialties muffin chocolate,26,g,70,mg,460,g,54,g,6,g,6,g,0,g,2,g,32,g
+478,kolache factory,spcialties strudel nik apple,26,g,0,mg,320,g,49,g,5,g,10,g,0,g,2,g,16,g
+479,kolache factory,spcialties studel nik black forest,19,g,0,mg,330,g,52,g,5,g,7,g,0,g,2,g,16,g
+480,kolache factory,spcialties studel nik raspberry,19,g,0,mg,320,g,54,g,5,g,7,g,0,g,2,g,17,g
+481,krispy kreme,original glazed cinnamon roll,30,g,5,mg,590,g,88,g,7,g,14,g,0.5,g,3,g,53,g
+482,krispy kreme,plain bagel,1,g,0,mg,490,g,54,g,10,g,0,g,0,g,2,g,1,g
+483,krispy kreme,classic cinnamon roll,38,g,15,mg,65,g,76,g,7,g,18,g,1,g,3,g,41,g
+484,krispy kreme,blueberry muffin,19,g,75,mg,280,g,48,g,4,g,3.5,g,0,g,1,g,26,g
+485,krispy kreme,chocolate chip muffin,23,g,75,mg,300,g,55,g,5,g,6,g,0,g,1,g,33,g
+486,krispy kreme,blueberry bagel,1,g,0,mg,470,g,57,g,9,g,0,g,0,g,3,g,6,g
+487,krispy kreme,everything bagel,3.5,g,0,mg,1160,g,54,g,10,g,0,g,0,g,3,g,2,g
+488,krispy kreme,corn muffin,13,g,45,mg,340,g,44,g,6,g,2,g,0,g,3,g,19,g
+489,krispy kreme,cinnamon coffee cake muffin,23,g,65,mg,290,g,55,g,4,g,6,g,0,g,1,g,32,g
+490,krispy kreme,lemon poppy seed muffin,22,g,70,mg,310,g,52,g,5,g,3.5,g,0,g,1,g,28,g
+491,krispy kreme,poppy seed bagel,4,g,0,mg,460,g,52,g,10,g,0.5,g,0,g,3,g,2,g
+492,krispy kreme,asiago cheese bagel,3.5,g,5,mg,660,g,57,g,11,g,1.5,g,0,g,3,g,2,g
+493,krispy kreme,reduced fat triple berry muffin,6,g,0,mg,400,g,57,g,5,g,1.5,g,0,g,2,g,29,g
+494,krispy kreme,onion bagel,1,g,0,mg,580,g,55,g,10,g,0,g,0,g,3,g,2,g
+495,krispy kreme,cinnamon raisin bagel,1,g,0,mg,440,g,54,g,9,g,0,g,0,g,3,g,5,g
+496,krispy kreme,wholegrain whole wheat bagel,5,g,0,mg,500,g,54,g,11,g,0.5,g,0,g,9,g,3,g
+497,krispy kreme,sesame bagel,4,g,0,mg,460,g,52,g,10,g,0.5,g,0,g,3,g,2,g
+498,krispy kreme,iced coffee,1.5,g,5,mg,55,g,4,g,3,g,1,g,0,g,0,g,4,g
+499,krispy kreme,house blend coffee,0,g,0,mg,0,g,0,g,0.6,g,0,g,0,g,0,g,0,g
+500,krispy kreme,frozen caramel latte with whipped cream and drizzle,9,g,34,mg,233,g,57,g,0.8,g,6,g,0,g,0,g,46.5,g
+501,krispy kreme,hot chocolate with water whipped cream and drizzle,10,g,10,mg,270,g,52,g,5,g,7,g,0,g,3,g,40,g
+502,krispy kreme,iced latte with 2 milk,4.5,g,20,mg,150,g,14,g,9,g,3,g,0,g,0,g,0,g
+503,krispy kreme,vanilla iced coffee,1.5,g,5,mg,55,g,30,g,3,g,1,g,0,g,0,g,36,g
+504,krispy kreme,cappuccino with skim milk,0,g,5,mg,135,g,15,g,10,g,0,g,0,g,0,g,15,g
+505,krispy kreme,iced caramel latte with 2 milk whipped cream and drizzle,11,g,40,mg,300,g,72,g,9,g,7,g,0,g,0,g,45,g
+506,krispy kreme,frozen mocha with whipped cream and drizzle,9,g,30,mg,180,g,52.5,g,0.4,g,6,g,0,g,1.5,g,29.3,g
+507,krispy kreme,iced caramel mocha latte with skim milk whipped cream and drizzle,3.4,g,15,mg,255,g,38.3,g,10.5,g,2.3,g,0,g,0,g,21.8,g
+508,krispy kreme,iced hazelnut coffee,1.1,g,4,mg,41,g,28.5,g,2.3,g,0.8,g,0,g,0,g,24.8,g
+509,krispy kreme,mocha with skim milk whipped cream and drizzle,6,g,23,mg,180,g,45,g,10.5,g,3.8,g,0,g,1.5,g,1.5,g
+510,krispy kreme,caramel iced coffee,2.3,g,8,mg,143,g,45,g,3,g,1.1,g,0,g,0,g,30.8,g
+511,krispy kreme,skinny vanilla latte,0.8,g,4,mg,158,g,18,g,9.8,g,0.4,g,0,g,0,g,0,g
+512,krispy kreme,iced vanilla latte with 2 milk,4,g,15,mg,120,g,37,g,7,g,2.5,g,0,g,0,g,26,g
+513,krispy kreme,iced mocha with skim milk whipped cream and drizzle,6,g,19,mg,120,g,39,g,6,g,3.8,g,0,g,1.5,g,1.5,g
+514,krispy kreme,chocolate iced coffee,1.9,g,4,mg,53,g,30.8,g,3.8,g,1.1,g,0,g,1.5,g,27,g
+515,krispy kreme,frozen lemonade,0,g,0,mg,11,g,52.5,g,0,g,0,g,0,g,0,g,51,g
+516,krispy kreme,very berry chiller,0,g,0,mg,10,g,43,g,0,g,0,g,0,g,0,g,43,g
+517,krispy kreme,iced latte with skim milk,0,g,4,mg,83,g,9,g,6,g,0,g,0,g,0,g,9,g
+518,krispy kreme,dark roast coffee,0,g,0,mg,6,g,0,g,0.6,g,0,g,0,g,0,g,0,g
+519,krispy kreme,hazelnut shot,0,g,0,mg,0,g,34.8,g,0,g,0,g,0,g,0,g,32.7,g
+520,krispy kreme,hot or iced americano,0,g,0,mg,25,g,1,g,0,g,0,g,0,g,0,g,0,g
+521,krispy kreme,hot chocolate with 2 milk whipped cream and drizzle,12.8,g,30,mg,345,g,53.3,g,14.3,g,8.3,g,0,g,2.3,g,30,g
+522,krispy kreme,cappuccino with 2 milk,5,g,20,mg,120,g,12,g,8,g,3,g,0,g,0,g,12,g
+523,krispy kreme,chocolate whole milk,8,g,35,mg,200,g,25,g,8,g,5,g,0,g,0,g,23,g
+524,krispy kreme,caramel latte with skim milk whipped cream and drizzle,4.5,g,19,mg,270,g,59.3,g,10.5,g,2.6,g,0,g,0,g,33,g
+525,krispy kreme,iced hazelnut latte with 2 milk,3,g,11,mg,90,g,33.8,g,5.3,g,1.9,g,0,g,0,g,24.8,g
+526,krispy kreme,mocha latte with 2 milk whipped cream and drizzle,8.3,g,30,mg,165,g,43.5,g,10.5,g,5.3,g,0,g,1.5,g,0.8,g
+527,krispy kreme,caramel mocha latte with 2 milk whipped cream and drizzle,7.5,g,30,mg,255,g,37.5,g,10.5,g,5.3,g,0,g,0,g,21.8,g
+528,krispy kreme,decaf coffee,0,g,0,mg,8,g,0.8,g,0,g,0,g,0,g,0,g,0,g
+529,krispy kreme,berries and kreme chiller,28,g,30,mg,220,g,92,g,3,g,24,g,0,g,0.5,g,71,g
+530,krispy kreme,decaffeinated house blend coffee,0,g,0,mg,0,g,0,g,0.6,g,0,g,0,g,0,g,0,g
+531,krispy kreme,latte with 2 milk,5.3,g,19,mg,158,g,14.3,g,9.8,g,3,g,0,g,0,g,0,g
+532,krispy kreme,caramel shot,0,g,0,mg,60,g,36,g,3,g,0,g,0,g,0,g,36,g
+533,krispy kreme,iced skinny vanilla latte,0.4,g,4,mg,90,g,11.3,g,5.3,g,0,g,0,g,0,g,0,g
+534,krispy kreme,iced caramel mocha with skim milk whipped cream and drizzle,5.3,g,19,mg,210,g,33,g,6.8,g,3.4,g,0,g,0,g,22.5,g
+535,krispy kreme,whipped topping,1.5,g,5,mg,0,g,1,g,0,g,1,g,0,g,0,g,1,g
+536,krispy kreme,chocolate 1 fat milk,2.5,g,15,mg,200,g,24,g,8,g,1.5,g,0,g,0,g,23,g
+537,krispy kreme,original kreme shot,0,g,0,mg,0,g,26.6,g,0,g,0,g,0,g,0,g,26.6,g
+538,krispy kreme,fat free milk,0,g,5,mg,130,g,13,g,8,g,0,g,0,g,0,g,12,g
+539,krispy kreme,iced vanilla latte with skim milk,0.4,g,4,mg,90,g,28.5,g,5.3,g,0,g,0,g,0,g,19.5,g
+540,krispy kreme,california fat free milk,0,g,5,mg,135,g,13,g,9,g,0,g,0,g,0,g,12,g
+541,krispy kreme,skinny latte,0.8,g,4,mg,158,g,15,g,9.8,g,0.4,g,0,g,0,g,0,g
+542,krispy kreme,iced mocha with 2 milk whipped cream and drizzle,8.3,g,26,mg,120,g,37.5,g,6,g,5.3,g,0,g,1.5,g,1.5,g
+543,krispy kreme,caramel mocha with 2 milk whipped cream and drizzle,7.5,g,30,mg,255,g,37.5,g,10.5,g,5.3,g,0,g,0,g,21.8,g
+544,krispy kreme,vanilla latte with 2 milk,5.3,g,19,mg,158,g,34.5,g,9.8,g,3,g,0,g,0,g,19.5,g
+545,krispy kreme,california 1 low fat milk,2.5,g,15,mg,160,g,16,g,10,g,1.5,g,0,g,0,g,15,g
+546,krispy kreme,espresso shot,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+547,krispy kreme,iced hazelnut latte with skim milk,0.5,g,5,mg,120,g,45,g,7,g,0,g,0,g,0,g,33,g
+548,krispy kreme,mocha with 2 milk whipped cream and drizzle,8.3,g,30,mg,165,g,43.5,g,10.5,g,5.3,g,0,g,1.5,g,0.8,g
+549,krispy kreme,chocolate shot,0.3,g,0,mg,17,g,23.9,g,0.7,g,0,g,0,g,1.4,g,20.5,g
+550,krispy kreme,horizon chocolate organic milk box reduced fat,5,g,20,mg,160,g,27,g,8,g,3,g,0,g,0,g,27,g
+551,krispy kreme,0 5 low fat milk,1,g,10,mg,130,g,13,g,8,g,1,g,0,g,0,g,12,g
+552,krispy kreme,iced caramel latte with skim milk whipped cream and drizzle,6,g,23,mg,225,g,54.8,g,6.8,g,3.8,g,0,g,0,g,33.8,g
+553,krispy kreme,california 2 reduced fat milk,5,g,20,mg,150,g,14,g,10,g,3,g,0,g,0,g,13,g
+554,krispy kreme,skinny caramel latte,2.3,g,11,mg,225,g,36.8,g,9.8,g,1.9,g,0,g,6,g,0.4,g
+555,krispy kreme,beverage chocolate drizzle,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+556,krispy kreme,iced skinny caramel latte,1.9,g,11,mg,165,g,30.8,g,5.3,g,1.5,g,0,g,6,g,0.4,g
+557,krispy kreme,skiny vanilla latte,0.8,g,4,mg,158,g,18,g,9.8,g,0.4,g,0,g,0,g,0,g
+558,krispy kreme,skinny cappuccino with skim milk,0.4,g,4,mg,120,g,11.3,g,7.5,g,0,g,0,g,0,g,0,g
+559,krispy kreme,california 3 5 milk,9,g,35,mg,130,g,13,g,8,g,5,g,0,g,0,g,12,g
+560,krispy kreme,3 25 milk,8,g,35,mg,120,g,12,g,8,g,5,g,0,g,0,g,11,g
+561,krispy kreme,frozen vanilla latte with whipped cream and drizzle,8.3,g,30,mg,180,g,53.3,g,0.4,g,5.3,g,0,g,0,g,48.8,g
+562,krispy kreme,hazelnut latte with 2 milk,5.3,g,19,mg,158,g,39.8,g,9.8,g,3,g,0,g,0,g,24.8,g
+563,krispy kreme,vanilla latte with skim milk,0.8,g,4,mg,158,g,34.5,g,9.8,g,0.4,g,0,g,0,g,19.5,g
+564,krispy kreme,iced skinny latte,0.4,g,4,mg,94,g,8.3,g,5.3,g,0,g,0,g,0,g,0,g
+565,krispy kreme,caramel latte with 2 milk whipped cream and drizzle,8.3,g,34,mg,270,g,59.3,g,10.5,g,5.3,g,0,g,0,g,33,g
+566,krispy kreme,strawberry organic milk box reduced fat,4.5,g,20,mg,130,g,31,g,8,g,2.5,g,0,g,0,g,31,g
+567,krispy kreme,iced caramel mocha with 2 milk whipped cream and drizzle,8.3,g,30,mg,210,g,33,g,6.8,g,5.3,g,0,g,0,g,22.5,g
+568,krispy kreme,caramel mocha with skim milk whipped cream and drizzle,3.4,g,15,mg,255,g,38.3,g,10.5,g,2.3,g,0,g,0,g,21.8,g
+569,krispy kreme,horizon plain organic milk box 1 low fat,2.5,g,10,mg,130,g,13,g,8,g,1.5,g,0,g,0,g,12,g
+570,krispy kreme,hazelnut latte with skim milk,0.8,g,4,mg,158,g,40.5,g,9.8,g,0.4,g,0,g,0,g,24.8,g
+571,krispy kreme,fat free chocolate milk,0,g,5,mg,190,g,25,g,8,g,0,g,0,g,0,g,23,g
+572,krispy kreme,1 5 reduced fat milk,3.5,g,15,mg,130,g,12,g,8,g,2.5,g,0,g,0,g,12,g
+573,krispy kreme,1 low fat milk,2.5,g,10,mg,130,g,13,g,9,g,1.5,g,0,g,0,g,12,g
+574,krispy kreme,mocha latte with skim milk whipped cream and drizzle,6,g,23,mg,180,g,45,g,10.5,g,3.8,g,0,g,1.5,g,1.5,g
+575,krispy kreme,vanilla organic milk box reduced fat,4.5,g,20,mg,115,g,30,g,8,g,2.5,g,0,g,0,g,29,g
+576,krispy kreme,2 reduced fat milk,5,g,20,mg,130,g,12,g,8,g,3,g,0,g,0,g,12,g
+577,krispy kreme,vanilla shot,0,g,0,mg,0,g,36.8,g,0,g,0,g,0,g,0,g,36.8,g
+578,krispy kreme,brown sugar oatmeal topping,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,0,g,13,g
+579,krispy kreme,quaker organic instant oatmeal,2,g,0,mg,0,g,19,g,4,g,0,g,0,g,3,g,0,g
+580,krispy kreme,apple cinnamon medley oatmeal topping,0,g,0,mg,5,g,17,g,1,g,0,g,0,g,1,g,15,g
+581,krispy kreme,1 2 banana oatmeal topping,0,g,0,mg,0,g,15,g,1,g,0,g,0,g,2,g,10,g
+582,krispy kreme,dried fruit blend oatmeal topping,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,2,g,17,g
+583,krispy kreme,plain cream cheese,8,g,30,mg,115,g,1,g,1,g,5,g,0,g,0,g,1,g
+584,krispy kreme,strawberry reduced fat cream cheese,7,g,25,mg,100,g,4,g,1,g,4,g,0,g,0,g,4,g
+585,krispy kreme,salted butter,10,g,30,mg,115,g,0,g,0,g,7,g,0,g,0,g,0,g
+586,krispy kreme,reduced fat plain cream cheese,5,g,20,mg,130,g,2,g,2,g,3,g,0,g,0,g,2,g
+587,krispy kreme,garden vegetable cream cheese,7,g,30,mg,150,g,2,g,1,g,4.5,g,0,g,0,g,1,g
+588,krispy kreme,vanilla shake,24,g,60,mg,470,g,108,g,18,g,15,g,0.5,g,0,g,91,g
+589,krispy kreme,chocolate shake,24,g,60,mg,460,g,112,g,20,g,16,g,0.5,g,4,g,90,g
+590,krispy kreme,jelly average all flavors,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,0,g
+591,krispy kreme,strawberry cake doughnut sundae,20,g,35,mg,380,g,90,g,7,g,11,g,0,g,2,g,70,g
+592,krispy kreme,original glazed doughnut shake,26,g,80,mg,480,g,80,g,14,g,15,g,1,g,1,g,58,g
+593,krispy kreme,strawberry shake,21,g,50,mg,460,g,137,g,17,g,13,g,0.5,g,2,g,119,g
+594,krispy kreme,caramel butterscotch sundae,10,g,40,mg,280,g,80,g,10,g,7,g,0,g,0,g,58,g
+595,krispy kreme,banana,0,g,0,mg,1,g,27,g,1,g,0,g,0,g,3,g,14,g
+596,krispy kreme,original glazed doughnut sundae,17,g,20,mg,230,g,69,g,7,g,9,g,0,g,1,g,48,g
+597,krispy kreme,chocolate cake doughnut shake,30,g,80,mg,410,g,86,g,14,g,17,g,1,g,3,g,63,g
+598,krispy kreme,raspberry filled doughnut shake,26,g,80,mg,500,g,87,g,14,g,15,g,1,g,1,g,64,g
+599,krispy kreme,chocolate cone,9,g,20,mg,170,g,50,g,8,g,6,g,0,g,2,g,33,g
+600,krispy kreme,vanilla cone,8,g,20,mg,180,g,48,g,7,g,5,g,0,g,0,g,34,g
+601,krispy kreme,caramel butterscotch topping,2.5,g,5,mg,95,g,40,g,3,g,1.5,g,0,g,0,g,27,g
+602,krispy kreme,hot fudge sundae,18,g,20,mg,250,g,68,g,8,g,15,g,0,g,0.5,g,57,g
+603,krispy kreme,strawberry sundae,8,g,20,mg,200,g,73,g,7,g,5,g,0,g,2,g,65,g
+604,krispy kreme,swirl cone,9,g,20,mg,170,g,49,g,8,g,5,g,0,g,1,g,34,g
+605,krispy kreme,chocolate cake doughnut sundae,21,g,30,mg,360,g,89,g,8,g,11,g,0,g,4,g,64,g
+606,krispy kreme,strawberry topping,0,g,0,mg,15,g,23,g,1,g,0,g,0,g,1,g,22,g
+607,krispy kreme,chocolate syrup topping,0,g,0,mg,40,g,33,g,1,g,0,g,0,g,1,g,26,g
+608,krispy kreme,hot fudge topping,10,g,0,mg,110,g,30,g,2,g,9,g,0,g,1,g,25,g
+609,krispy kreme,original glazed doughnut,11,g,0,mg,85,g,22,g,3,g,5,g,0,g,0,g,10,g
+610,krispy kreme,chocolate iced glazed doughnut with sprinkles,11,g,0,mg,90,g,36,g,3,g,5,g,0,g,0.5,g,22,g
+611,krispy kreme,chocolate iced custard filled doughnut,15,g,0,mg,140,g,37,g,4,g,7,g,0,g,0.5,g,16,g
+612,krispy kreme,strawberry iced doughnut with sprinkles,11,g,0,mg,85,g,24,g,3,g,5,g,0,g,0.5,g,11,g
+613,krispy kreme,original glazed doughnut holes,12,g,0,mg,85,g,25,g,3,g,5,g,0,g,0.5,g,13,g
+614,krispy kreme,mini original glazed doughnut,4.3,g,0,mg,38,g,10,g,1,g,2,g,0,g,0.2,g,4.7,g
+615,krispy kreme,glazed raspberry filled doughnut,15,g,0,mg,140,g,38,g,4,g,7,g,0,g,0.5,g,19,g
+616,krispy kreme,glazed blueberry cake doughnut,15,g,20,mg,210,g,40,g,2,g,6,g,0,g,0.5,g,26,g
+617,krispy kreme,glazed lemon filled doughnut,15,g,0,mg,130,g,37,g,4,g,7,g,0,g,0.5,g,16,g
+618,krispy kreme,cake batter doughnut,18,g,0,mg,170,g,45,g,4,g,8,g,0,g,0.5,g,26,g
+619,krispy kreme,cinnamon sugar doughnut,11,g,0,mg,85,g,21,g,3,g,4.5,g,0,g,0.5,g,8,g
+620,krispy kreme,maple iced glazed doughnut,11,g,0,mg,85,g,34,g,3,g,5,g,0,g,0.5,g,21,g
+621,krispy kreme,new york cheesecake doughnut,18,g,10,mg,170,g,35,g,4,g,8,g,0,g,0.5,g,17,g
+622,krispy kreme,powdered strawberry filled doughnut,15,g,0,mg,130,g,30,g,4,g,7,g,0,g,0.5,g,11,g
+623,krispy kreme,glazed chocolate cake doughnut,10,g,20,mg,210,g,38,g,3,g,4.5,g,0,g,1,g,24,g
+624,krispy kreme,chocolate iced glazed doughnut,11,g,0,mg,90,g,33,g,3,g,5,g,0,g,0.5,g,20,g
+625,krispy kreme,traditional cake doughnut,18,g,25,mg,360,g,28,g,3,g,7,g,0,g,0.5,g,10,g
+626,krispy kreme,apple fritter doughnut,19,g,0,mg,110,g,42,g,3,g,9,g,0,g,1,g,26,g
+627,krispy kreme,glazed sour cream doughnut,15,g,20,mg,220,g,40,g,2,g,6,g,0,g,0.5,g,26,g
+628,krispy kreme,mini chocolate iced glazed doughnut,4.5,g,0,mg,40,g,18,g,1,g,2,g,0,g,0.3,g,12,g
+629,krispy kreme,chocolate iced doughnut with kreme filling,19,g,0,mg,140,g,41,g,4,g,9,g,0,g,0.5,g,22,g
+630,krispy kreme,cinnamon apple filled doughnut,15,g,0,mg,130,g,31,g,4,g,7,g,0,g,0.5,g,11,g
+631,krispy kreme,cinnamon twist doughnut,11,g,0,mg,90,g,26,g,3,g,5,g,0,g,0.5,g,13,g
+632,krispy kreme,glazed doughnut with kreme filling,19,g,0,mg,140,g,40,g,4,g,9,g,0,g,0.5,g,22,g
+633,krispy kreme,mini chocolate iced doughnut with sprinkles,5,g,0,mg,40,g,20,g,1,g,2,g,0,g,0.3,g,13.5,g
+634,krispy kreme,dulce de leche doughnut,16,g,0,mg,140,g,35,g,4,g,7,g,0,g,0.5,g,16,g
+635,krispy kreme,cinnamon bun doughnut,16,g,0,mg,115,g,29,g,4,g,7,g,0,g,1,g,12,g
+636,krispy kreme,double dark chocolate doughnut,20,g,0,mg,160,g,46,g,4,g,9,g,0,g,2,g,26,g
+637,krispy kreme,glazed cinnamon doughnut,11,g,0,mg,85,g,29,g,2,g,5,g,0,g,0.5,g,16,g
+638,krispy kreme,powdered cake doughnut,19,g,25,mg,370,g,32,g,3,g,7,g,0,g,0.5,g,13,g
+639,krispy kreme,chocolate iced glazed cruller doughnut,15,g,15,mg,230,g,25,g,2,g,6,g,0,g,0,g,14,g
+640,krispy kreme,pumpkin spice cake doughnut,14,g,20,mg,210,g,39,g,2,g,6,g,0,g,0.5,g,25,g
+641,krispy kreme,chocolate iced cake doughnut,19,g,25,mg,370,g,40,g,3,g,7,g,0,g,0.5,g,21,g
+642,krispy kreme,strawberry iced glazed doughnut,11,g,0,mg,30,g,22,g,3,g,5,g,0,g,0.5,g,10,g
+643,krispy kreme,monster batter doughnut,18,g,0,mg,160,g,46,g,4,g,8,g,0,g,0.5,g,27,g
+644,krispy kreme,glazed chocolate cake doughnut holes,1.8,g,4,mg,53,g,6.8,g,0.5,g,0.6,g,0,g,0.1,g,4,g
+645,krispy kreme,powdered blueberry filled doughnut,15,g,0,mg,130,g,31,g,4,g,7,g,0,g,0.5,g,10,g
+646,krispy kreme,glazed cruller cake doughnut,1616.3,g,1515,mg,23234,g,2525.5,g,202,g,606.1,g,0,g,0,g,1414.3,g
+647,krispy kreme,chocolate iced glazed doughnut with halloween sprinkles,11,g,0,mg,90,g,36,g,3,g,5,g,0,g,0.5,g,22,g
+648,krispy kreme,glazed blueberry cake doughnut holes,1.8,g,4,mg,55,g,7,g,0.5,g,0.8,g,0,g,0,g,4.3,g
+649,krispy kreme,chocolate iced raspberry filled doughnut,15,g,0,mg,140,g,41,g,4,g,7,g,0,g,0.5,g,22,g
+650,krispy kreme,jack o lantern doughnut,15,g,0,mg,120,g,41,g,4,g,7,g,0,g,0.5,g,24,g
+651,krispy kreme,powdered strawberry kreme doughnut,17,g,0,mg,135,g,32,g,4,g,8,g,0,g,0.5,g,13,g
+652,krispy kreme,trick or treat doughnut,16,g,0,mg,200,g,53,g,4,g,8,g,0,g,0.5,g,36,g
+653,krispy kreme,powdered cinnamon cake doughnut,16,g,25,mg,340,g,24,g,3,g,6,g,0,g,1,g,6,g
+654,krispy kreme,powdered lemon kreme doughnut,17,g,0,mg,135,g,32,g,4,g,8,g,0,g,0.5,g,12,g
+655,krispy kreme,glazed honey bun,19,g,5,mg,160,g,37,g,3,g,8,g,0,g,1,g,19,g
+656,krispy kreme,jumbo white iced honey bun,24,g,0,mg,330,g,78,g,8,g,9,g,0,g,2,g,42,g
+657,krispy kreme,apple fritter,19,g,0,mg,110,g,42,g,3,g,9,g,0,g,1,g,26,g
+658,krispy kreme,cake batter doughnut,18,g,0,mg,170,g,45,g,4,g,8,g,0,g,1,g,26,g
+659,krispy kreme,cappuccino with 2 milk 12 fl oz,5,g,20,mg,120,g,12,g,8,g,3,g,0,g,0,g,12,g
+660,krispy kreme,cappuccino with 2 milk 16 fl oz,6,g,25,mg,150,g,15,g,10,g,4,g,0,g,0,g,15,g
+661,krispy kreme,cappuccino with 2 milk 20 fl oz,7,g,30,mg,180,g,18,g,12,g,4.5,g,0,g,0,g,18,g
+662,krispy kreme,cappuccino with skim milk 12 fl oz,0,g,5,mg,105,g,12,g,8,g,0,g,0,g,0,g,12,g
+663,krispy kreme,cappuccino with skim milk 16 fl oz,0,g,5,mg,135,g,15,g,10,g,0,g,0,g,0,g,15,g
+664,krispy kreme,cappuccino with skim milk 20 fl oz,0,g,5,mg,170,g,18,g,12,g,0,g,0,g,0,g,18,g
+665,krispy kreme,caramel latte with 2 milk 12 fl oz,9,g,30,mg,180,g,53,g,11,g,7,g,0,g,0,g,52,g
+666,krispy kreme,caramel latte with 2 milk 16 fl oz,10,g,35,mg,230,g,66,g,14,g,8,g,0,g,0,g,66,g
+667,krispy kreme,caramel latte with 2 milk 20 fl oz,11,g,40,mg,290,g,82,g,17,g,9,g,0,g,0,g,82,g
+668,krispy kreme,caramel latte with skim milk 12 fl oz,4,g,15,mg,170,g,53,g,11,g,4,g,0,g,0,g,53,g
+669,krispy kreme,caramel latte with skim milk 16 fl oz,4,g,20,mg,220,g,67,g,14,g,4.5,g,0,g,0,g,66,g
+670,krispy kreme,caramel latte with skim milk 20 fl oz,4.5,g,20,mg,270,g,83,g,17,g,5,g,0,g,0,g,82,g
+671,krispy kreme,caramel mocha with 2 milk 12 fl oz,9,g,30,mg,220,g,40,g,8,g,6,g,0,g,0,g,40,g
+672,krispy kreme,caramel mocha with 2 milk 16 fl oz,10,g,35,mg,300,g,55,g,10,g,6,g,0,g,0,g,55,g
+673,krispy kreme,caramel mocha with 2 milk 20 fl oz,11,g,40,mg,390,g,70,g,12,g,7,g,0,g,0,g,70,g
+674,krispy kreme,caramel mocha with skim milk 12 fl oz,4,g,15,mg,210,g,40,g,8,g,2.5,g,0,g,0,g,40,g
+675,krispy kreme,caramel mocha with skim milk 16 fl oz,4,g,20,mg,290,g,55,g,11,g,2.5,g,0,g,0,g,55,g
+676,krispy kreme,caramel mocha with skim milk 20 fl oz,4,g,20,mg,370,g,70,g,13,g,3,g,0,g,0,g,70,g
+677,krispy kreme,chocolate chip cookie doughnut made with chips ahoy cookie,22,g,0,mg,210,g,50,g,4,g,9,g,0,g,1,g,26,g
+678,krispy kreme,chocolate iced cake doughnut,19,g,25,mg,370,g,40,g,3,g,7,g,0,g,1,g,21,g
+679,krispy kreme,chocolate iced custard filled doughnut,15,g,0,mg,140,g,37,g,4,g,7,g,0,g,1,g,16,g
+680,krispy kreme,chocolate iced doughnut with kreme filling,19,g,0,mg,140,g,41,g,4,g,9,g,0,g,1,g,22,g
+681,krispy kreme,chocolate iced doughnut with sprinkles,12,g,0,mg,80,g,35,g,3,g,5,g,0,g,1,g,24,g
+682,krispy kreme,chocolate iced glazed cruller,15,g,15,mg,230,g,37,g,2,g,6,g,0,g,1,g,25,g
+683,krispy kreme,chocolate iced glazed doughnut,11,g,0,mg,90,g,33,g,3,g,5,g,0,g,1,g,20,g
+684,krispy kreme,chocolate iced glazed doughnut with sprinkles,11,g,0,mg,90,g,40,g,3,g,5,g,0,g,1,g,22,g
+685,krispy kreme,chocolate iced raspberry filled doughnut,15,g,0,mg,140,g,41,g,4,g,7,g,0,g,1,g,22,g
+686,krispy kreme,cinnamon apple filled doughnut,15,g,0,mg,130,g,31,g,4,g,7,g,0,g,1,g,11,g
+687,krispy kreme,cinnamon bun doughnut,16,g,0,mg,115,g,29,g,4,g,7,g,0,g,1,g,12,g
+688,krispy kreme,cinnamon sugar doughnut,11,g,0,mg,85,g,21,g,3,g,4.5,g,0,g,1,g,8,g
+689,krispy kreme,cinnamon twist doughnut,11,g,0,mg,90,g,26,g,3,g,5,g,0,g,1,g,13,g
+690,krispy kreme,double chocolate eclair,15,g,0,mg,140,g,47,g,4,g,6,g,0,g,2,g,29,g
+691,krispy kreme,double dark chocolate doughnut,20,g,0,mg,160,g,46,g,4,g,9,g,0,g,2,g,26,g
+692,krispy kreme,dulce de leche doughnut,16,g,0,mg,150,g,35,g,4,g,7,g,0,g,1,g,16,g
+693,krispy kreme,football doughnut,16,g,0,mg,140,g,35,g,7,g,7,g,0,g,3,g,16,g
+694,krispy kreme,frozen caramel latte 12 oz,10,g,35,mg,30,g,43,g,2,g,6,g,0,g,0,g,41,g
+695,krispy kreme,frozen caramel latte 16 oz,11,g,40,mg,55,g,59,g,2,g,7,g,0,g,1,g,55,g
+696,krispy kreme,frozen caramel latte 20 oz,12,g,45,mg,75,g,76,g,3,g,8,g,0,g,1,g,70,g
+697,krispy kreme,frozen lemonade 12 fl oz,0,g,0,mg,10,g,52,g,0,g,0,g,0,g,0,g,50,g
+698,krispy kreme,frozen lemonade 16 fl oz,0,g,0,mg,15,g,70,g,0,g,0,g,0,g,0,g,68,g
+699,krispy kreme,frozen lemonade 20 fl oz,0,g,0,mg,20,g,87,g,0,g,0,g,0,g,0,g,85,g
+700,krispy kreme,frozen mocha 12 oz,10,g,35,mg,20,g,42,g,2,g,6,g,0,g,1,g,42,g
+701,krispy kreme,frozen mocha 16 oz,11,g,35,mg,30,g,58,g,3,g,7,g,0,g,1,g,58,g
+702,krispy kreme,frozen mocha 20 oz,12,g,40,mg,40,g,73,g,3,g,7,g,0,g,2,g,73,g
+703,krispy kreme,frozen vanilla latte 12 oz,9,g,35,mg,10,g,58,g,1,g,6,g,0,g,0,g,59,g
+704,krispy kreme,frozen vanilla latte 16 oz,10,g,35,mg,10,g,74,g,2,g,7,g,0,g,0,g,75,g
+705,krispy kreme,frozen vanilla latte 20 oz,11,g,40,mg,15,g,90,g,2,g,7,g,0,g,0,g,90,g
+706,krispy kreme,glazed blueberry cake doughnut,15,g,20,mg,210,g,40,g,2,g,6,g,0,g,1,g,26,g
+707,krispy kreme,glazed blueberry cake doughnut holes,7,g,15,mg,220,g,28,g,2,g,3,g,0,g,0,g,17,g
+708,krispy kreme,glazed cake doughnut holes,10,g,15,mg,230,g,24,g,2,g,4,g,0,g,1,g,12,g
+709,krispy kreme,glazed chocolate cake doughnut,10,g,20,mg,210,g,38,g,3,g,4.5,g,0,g,1,g,24,g
+710,krispy kreme,glazed chocolate cake doughnut holes,7,g,15,mg,210,g,27,g,2,g,2.5,g,0,g,1,g,16,g
+711,krispy kreme,glazed cinnamon doughnut,11,g,0,mg,85,g,29,g,3,g,5,g,0,g,1,g,16,g
+712,krispy kreme,glazed cruller,15,g,15,mg,230,g,25,g,2,g,6,g,0,g,0,g,14,g
+713,krispy kreme,glazed doughnut with kreme filling,19,g,0,mg,140,g,40,g,4,g,9,g,0,g,1,g,22,g
+714,krispy kreme,glazed lemon filled doughnut,15,g,0,mg,130,g,37,g,4,g,7,g,0,g,1,g,16,g
+715,krispy kreme,glazed raspberry filled doughnut,15,g,0,mg,140,g,38,g,4,g,7,g,0,g,1,g,19,g
+716,krispy kreme,glazed sour cream doughnut,15,g,20,mg,220,g,40,g,2,g,6,g,0,g,1,g,26,g
+717,krispy kreme,hazelnut latte with 2 milk 12 fl oz,5,g,20,mg,120,g,37,g,8,g,3,g,0,g,0,g,36,g
+718,krispy kreme,hazelnut latte with 2 milk 16 fl oz,6,g,25,mg,150,g,49,g,10,g,4,g,0,g,0,g,47,g
+719,krispy kreme,hazelnut latte with 2 milk 20 fl oz,7,g,30,mg,180,g,60,g,12,g,4.5,g,0,g,0,g,58,g
+720,krispy kreme,hazelnut latte with skim milk 12 fl oz,0,g,5,mg,105,g,38,g,8,g,0,g,0,g,0,g,36,g
+721,krispy kreme,hazelnut latte with skim milk 16 fl oz,0,g,5,mg,135,g,49,g,10,g,0,g,0,g,0,g,48,g
+722,krispy kreme,hazelnut latte with skim milk 20 fl oz,0,g,5,mg,170,g,61,g,12,g,0,g,0,g,0,g,59,g
+723,krispy kreme,hot chocolate made with 2 milk 12 fl oz,14,g,30,mg,310,g,57,g,12,g,10,g,0,g,2,g,48,g
+724,krispy kreme,hot chocolate made with 2 milk 16 fl oz,17,g,35,mg,400,g,72,g,15,g,12,g,0,g,3,g,62,g
+725,krispy kreme,hot chocolate made with 2 milk 20 fl oz,20,g,45,mg,490,g,87,g,18,g,14,g,0,g,4,g,74,g
+726,krispy kreme,hot chocolate made with water 12 fl oz,10,g,15,mg,210,g,45,g,4,g,7,g,0,g,2,g,37,g
+727,krispy kreme,hot chocolate made with water 16 fl oz,11,g,15,mg,280,g,58,g,5,g,8,g,0,g,3,g,47,g
+728,krispy kreme,hot chocolate made with water 20 fl oz,13,g,15,mg,330,g,69,g,6,g,9,g,0,g,4,g,56,g
+729,krispy kreme,iced caramel latte with 2 milk 12 fl oz,7,g,25,mg,150,g,50,g,9,g,6,g,0,g,0,g,49,g
+730,krispy kreme,iced caramel latte with 2 milk 16 fl oz,9,g,30,mg,210,g,63,g,12,g,7,g,0,g,0,g,63,g
+731,krispy kreme,iced caramel latte with 2 milk 20 fl oz,10,g,35,mg,260,g,79,g,15,g,9,g,0,g,0,g,79,g
+732,krispy kreme,iced caramel latte with skim milk 12 fl oz,4,g,15,mg,150,g,50,g,9,g,4,g,0,g,0,g,50,g
+733,krispy kreme,iced caramel latte with skim milk 16 fl oz,4,g,20,mg,190,g,64,g,12,g,4.5,g,0,g,0,g,63,g
+734,krispy kreme,iced caramel latte with skim milk 20 fl oz,4,g,20,mg,250,g,80,g,15,g,5,g,0,g,0,g,79,g
+735,krispy kreme,iced caramel mocha with 2 milk 12 fl oz,7,g,25,mg,190,g,37,g,6,g,5,g,0,g,0,g,37,g
+736,krispy kreme,iced caramel mocha with 2 milk 16 fl oz,9,g,30,mg,280,g,52,g,8,g,6,g,0,g,0,g,52,g
+737,krispy kreme,iced caramel mocha with 2 milk 20 fl oz,10,g,35,mg,360,g,67,g,10,g,6,g,0,g,0,g,67,g
+738,krispy kreme,iced caramel mocha with skim milk 12 fl oz,4,g,15,mg,190,g,38,g,6,g,2.5,g,0,g,0,g,38,g
+739,krispy kreme,iced caramel mocha with skim milk 16 fl oz,4,g,15,mg,260,g,52,g,8,g,2.5,g,0,g,0,g,52,g
+740,krispy kreme,iced caramel mocha with skim milk 20 fl oz,4,g,20,mg,340,g,67,g,11,g,2.5,g,0,g,0,g,67,g
+741,krispy kreme,iced chocolate coffee 12 fl oz,2,g,5,mg,50,g,26,g,3,g,1,g,0,g,2,g,23,g
+742,krispy kreme,iced chocolate coffee 16 fl oz,2.5,g,5,mg,70,g,41,g,5,g,1.5,g,0,g,2,g,36,g
+743,krispy kreme,iced chocolate coffee 20 fl oz,3,g,10,mg,90,g,51,g,6,g,2,g,0,g,3,g,45,g
+744,krispy kreme,iced hazelnut coffee 12 fl oz,1.5,g,5,mg,35,g,28,g,2,g,1,g,0,g,0,g,27,g
+745,krispy kreme,iced hazelnut coffee 16 fl oz,1.5,g,5,mg,45,g,38,g,3,g,1,g,0,g,0,g,36,g
+746,krispy kreme,iced hazelnut coffee 20 fl oz,2,g,10,mg,55,g,47,g,4,g,1.5,g,0,g,0,g,45,g
+747,krispy kreme,iced hazelnut latte with 2 milk 12 fl oz,3.5,g,15,mg,90,g,34,g,6,g,2.5,g,0,g,0,g,33,g
+748,krispy kreme,iced hazelnut latte with 2 milk 16 fl oz,5,g,20,mg,125,g,46,g,8,g,3,g,0,g,0,g,44,g
+749,krispy kreme,iced hazelnut latte with 2 milk 20 fl oz,6,g,25,mg,160,g,57,g,10,g,4,g,0,g,0,g,55,g
+750,krispy kreme,iced hazelnut latte with skim milk 12 fl oz,0,g,5,mg,80,g,35,g,6,g,0,g,0,g,0,g,33,g
+751,krispy kreme,iced hazelnut latte with skim milk 16 fl oz,0,g,5,mg,110,g,46,g,8,g,0,g,0,g,0,g,44,g
+752,krispy kreme,iced hazelnut latte with skim milk 20 fl oz,0,g,5,mg,140,g,58,g,10,g,0,g,0,g,0,g,56,g
+753,krispy kreme,iced latte with 2 milk 12 fl oz,3.5,g,15,mg,90,g,9,g,6,g,2.5,g,0,g,0,g,9,g
+754,krispy kreme,iced latte with 2 milk 16 fl oz,5,g,20,mg,125,g,12,g,8,g,3,g,0,g,0,g,12,g
+755,krispy kreme,iced latte with 2 milk 20 fl oz,6,g,25,mg,160,g,15,g,10,g,4,g,0,g,0,g,15,g
+756,krispy kreme,iced latte with skim milk 12 fl oz,0,g,5,mg,80,g,9,g,6,g,0,g,0,g,0,g,9,g
+757,krispy kreme,iced latte with skim milk 16 fl oz,0,g,5,mg,110,g,12,g,8,g,0,g,0,g,0,g,12,g
+758,krispy kreme,iced latte with skim milk 20 fl oz,0,g,5,mg,140,g,15,g,10,g,0,g,0,g,0,g,15,g
+759,krispy kreme,iced mocha with 2 milk 12 fl oz,8,g,25,mg,115,g,48,g,8,g,5,g,0,g,2,g,43,g
+760,krispy kreme,iced mocha with 2 milk 16 fl oz,10,g,30,mg,160,g,61,g,10,g,6,g,0,g,3,g,55,g
+761,krispy kreme,iced mocha with 2 milk 20 fl oz,11,g,35,mg,200,g,76,g,13,g,7,g,0,g,4,g,68,g
+762,krispy kreme,iced mocha with skim milk 12 fl oz,4.5,g,15,mg,110,g,48,g,8,g,3,g,0,g,2,g,43,g
+763,krispy kreme,iced mocha with skim milk 16 fl oz,5,g,15,mg,140,g,61,g,10,g,3,g,0,g,3,g,55,g
+764,krispy kreme,iced mocha with skim milk 20 fl oz,5,g,20,mg,180,g,77,g,13,g,3.5,g,0,g,4,g,69,g
+765,krispy kreme,iced original kreme coffee with 2 milk 12 fl oz,3.5,g,15,mg,90,g,28,g,6,g,2.5,g,0,g,0,g,28,g
+766,krispy kreme,iced original kreme coffee with 2 milk 16 fl oz,5,g,20,mg,125,g,38,g,8,g,3,g,0,g,0,g,38,g
+767,krispy kreme,iced original kreme coffee with 2 milk 20 fl oz,6,g,25,mg,160,g,47,g,10,g,4,g,0,g,0,g,47,g
+768,krispy kreme,iced original kreme coffee with skim milk 12 fl oz,0,g,5,mg,80,g,29,g,6,g,0,g,0,g,0,g,29,g
+769,krispy kreme,iced original kreme coffee with skim milk 16 fl oz,0,g,5,mg,110,g,38,g,8,g,0,g,0,g,0,g,38,g
+770,krispy kreme,iced original kreme coffee with skim milk 20 fl oz,0,g,5,mg,140,g,48,g,10,g,0,g,0,g,0,g,48,g
+771,krispy kreme,iced original kreme latte with 2 milk 12 fl oz,3.5,g,15,mg,90,g,28,g,6,g,2.5,g,0,g,0,g,28,g
+772,krispy kreme,iced original kreme latte with 2 milk 16 fl oz,5,g,20,mg,125,g,38,g,8,g,3,g,0,g,0,g,38,g
+773,krispy kreme,iced original kreme latte with 2 milk 20 fl oz,6,g,25,mg,160,g,47,g,10,g,4,g,0,g,0,g,47,g
+774,krispy kreme,iced original kreme latte with skim milk 12 fl oz,0,g,5,mg,80,g,29,g,6,g,0,g,0,g,0,g,29,g
+775,krispy kreme,iced original kreme latte with skim milk 16 fl oz,0,g,5,mg,110,g,38,g,8,g,0,g,0,g,0,g,38,g
+776,krispy kreme,iced original kreme latte with skim milk 20 fl oz,0,g,5,mg,140,g,48,g,10,g,0,g,0,g,0,g,48,g
+777,krispy kreme,iced skinny caramel latte with 2 milk 12 fl oz,5,g,20,mg,140,g,26,g,6,g,2.5,g,0,g,5,g,9,g
+778,krispy kreme,iced skinny caramel latte with 2 milk 16 fl oz,8,g,25,mg,200,g,38,g,8,g,3,g,0,g,7,g,12,g
+779,krispy kreme,iced skinny caramel latte with 2 milk 20 fl oz,10,g,35,mg,270,g,49,g,10,g,4,g,0,g,9,g,15,g
+780,krispy kreme,iced skinny caramel latte with skim milk 12 fl oz,2,g,10,mg,135,g,26,g,6,g,0,g,0,g,5,g,9,g
+781,krispy kreme,iced skinny caramel latte with skim milk 16 fl oz,3,g,10,mg,190,g,38,g,8,g,0,g,0,g,7,g,12,g
+782,krispy kreme,iced skinny caramel latte with skim milk 20 fl oz,4,g,15,mg,250,g,50,g,10,g,0,g,0,g,9,g,15,g
+783,krispy kreme,iced skinny vanilla latte with 2 milk 12 fl oz,3.5,g,15,mg,90,g,12,g,6,g,2.5,g,0,g,0,g,9,g
+784,krispy kreme,iced skinny vanilla latte with 2 milk 16 fl oz,5,g,20,mg,125,g,16,g,8,g,3,g,0,g,0,g,12,g
+785,krispy kreme,iced skinny vanilla latte with 2 milk 20 fl oz,6,g,25,mg,160,g,20,g,10,g,4,g,0,g,0,g,15,g
+786,krispy kreme,iced skinny vanilla latte with skim milk 12 fl oz,0,g,5,mg,80,g,12,g,6,g,0,g,0,g,0,g,9,g
+787,krispy kreme,iced skinny vanilla latte with skim milk 16 fl oz,0,g,5,mg,110,g,16,g,8,g,0,g,0,g,0,g,12,g
+788,krispy kreme,iced skinny vanilla latte with skim milk 20 fl oz,0,g,5,mg,140,g,20,g,10,g,0,g,0,g,0,g,15,g
+789,krispy kreme,iced vanilla coffee 12 fl oz,1.5,g,5,mg,35,g,30,g,2,g,1,g,0,g,0,g,30,g
+790,krispy kreme,iced vanilla coffee 16 fl oz,1.5,g,5,mg,45,g,39,g,3,g,1,g,0,g,0,g,40,g
+791,krispy kreme,iced vanilla coffee 20 fl oz,2,g,10,mg,55,g,49,g,4,g,1.5,g,0,g,0,g,50,g
+792,krispy kreme,iced vanilla latte with 2 milk 12 fl oz,3.5,g,15,mg,90,g,35,g,6,g,2.5,g,0,g,0,g,36,g
+793,krispy kreme,iced vanilla latte with 2 milk 16 fl oz,5,g,20,mg,125,g,47,g,8,g,3,g,0,g,0,g,47,g
+794,krispy kreme,iced vanilla latte with 2 milk 20 fl oz,6,g,25,mg,160,g,59,g,10,g,4,g,0,g,0,g,59,g
+795,krispy kreme,iced vanilla latte with skim milk 12 fl oz,0,g,5,mg,80,g,36,g,6,g,0,g,0,g,0,g,36,g
+796,krispy kreme,iced vanilla latte with skim milk 16 fl oz,0,g,5,mg,110,g,48,g,8,g,0,g,0,g,0,g,48,g
+797,krispy kreme,iced vanilla latte with skim milk 20 fl oz,0,g,5,mg,140,g,60,g,10,g,0,g,0,g,0,g,60,g
+798,krispy kreme,latte with 2 milk 12 fl oz,5,g,20,mg,120,g,12,g,8,g,3,g,0,g,0,g,12,g
+799,krispy kreme,latte with 2 milk 16 fl oz,6,g,25,mg,150,g,15,g,10,g,4,g,0,g,0,g,15,g
+800,krispy kreme,latte with 2 milk 20 fl oz,7,g,30,mg,180,g,18,g,12,g,4.5,g,0,g,0,g,18,g
+801,krispy kreme,latte with skim milk 12 fl oz,0,g,5,mg,105,g,12,g,8,g,0,g,0,g,0,g,12,g
+802,krispy kreme,latte with skim milk 16 fl oz,0,g,5,mg,135,g,15,g,10,g,0,g,0,g,0,g,15,g
+803,krispy kreme,latte with skim milk 20 fl oz,0,g,5,mg,170,g,18,g,12,g,0,g,0,g,0,g,18,g
+804,krispy kreme,maple iced glazed doughnut,11,g,0,mg,85,g,34,g,3,g,5,g,0,g,1,g,21,g
+805,krispy kreme,mini chocolate iced doughnuts with sprinkles,10,g,0,mg,80,g,40,g,2,g,4,g,0,g,1,g,27,g
+806,krispy kreme,mini chocolate iced glazed doughnuts,9,g,0,mg,80,g,36,g,2,g,4,g,0,g,1,g,24,g
+807,krispy kreme,mini original glazed doughnuts,13,g,0,mg,115,g,30,g,3,g,6,g,0,g,1,g,14,g
+808,krispy kreme,mocha latte with 2 milk 12 fl oz,9,g,30,mg,150,g,51,g,10,g,6,g,0,g,2,g,46,g
+809,krispy kreme,mocha latte with 2 milk 16 fl oz,11,g,35,mg,190,g,64,g,12,g,7,g,0,g,3,g,58,g
+810,krispy kreme,mocha latte with 2 milk 20 fl oz,12,g,40,mg,230,g,79,g,15,g,8,g,0,g,4,g,71,g
+811,krispy kreme,mocha latte with skim milk 12 fl oz,4.5,g,15,mg,135,g,51,g,10,g,3,g,0,g,2,g,46,g
+812,krispy kreme,mocha latte with skim milk 16 fl oz,5,g,20,mg,170,g,64,g,12,g,3.5,g,0,g,3,g,58,g
+813,krispy kreme,mocha latte with skim milk 20 fl oz,5,g,20,mg,210,g,80,g,15,g,3.5,g,0,g,4,g,72,g
+814,krispy kreme,nutter butter cookie twist doughnut,14,g,0,mg,180,g,43,g,4,g,5,g,0,g,1,g,27,g
+815,krispy kreme,oreo cookies and kreme doughnut,21,g,0,mg,180,g,49,g,4,g,9,g,0,g,1,g,27,g
+816,krispy kreme,original glazed doughnut,11,g,0,mg,85,g,21,g,3,g,5,g,0,g,1,g,10,g
+817,krispy kreme,original glazed doughnut holes,8,g,15,mg,230,g,29,g,2,g,3,g,0,g,0,g,16,g
+818,krispy kreme,original kreme latte with 2 milk 12 fl oz,5,g,20,mg,120,g,31,g,8,g,3,g,0,g,0,g,31,g
+819,krispy kreme,original kreme latte with 2 milk 16 fl oz,6,g,25,mg,150,g,41,g,10,g,4,g,0,g,0,g,41,g
+820,krispy kreme,original kreme latte with 2 milk 20 fl oz,7,g,30,mg,190,g,50,g,12,g,4.5,g,0,g,0,g,50,g
+821,krispy kreme,original kreme latte with skim milk 12 fl oz,0,g,5,mg,105,g,32,g,8,g,0,g,0,g,0,g,32,g
+822,krispy kreme,original kreme latte with skim milk 16 fl oz,0,g,5,mg,135,g,41,g,10,g,0,g,0,g,0,g,41,g
+823,krispy kreme,original kreme latte with skim milk 20 fl oz,0,g,5,mg,170,g,51,g,12,g,0,g,0,g,0,g,51,g
+824,krispy kreme,powdered blueberry filled doughnut,15,g,0,mg,130,g,31,g,4,g,7,g,0,g,1,g,10,g
+825,krispy kreme,powdered cake doughnut,19,g,25,mg,370,g,32,g,3,g,7,g,0,g,1,g,13,g
+826,krispy kreme,powdered cinnamon cake doughnut,16,g,25,mg,340,g,24,g,3,g,6,g,0,g,1,g,6,g
+827,krispy kreme,powdered doughnut with lemon kreme,17,g,0,mg,135,g,32,g,5,g,8,g,0,g,1,g,12,g
+828,krispy kreme,powdered doughnut with strawberry kreme,17,g,0,mg,135,g,32,g,4,g,8,g,0,g,1,g,13,g
+829,krispy kreme,powdered strawberry filled doughnut,15,g,0,mg,130,g,30,g,4,g,7,g,0,g,1,g,11,g
+830,krispy kreme,skinny caramel latte with 2 milk 12 fl oz,7,g,25,mg,170,g,29,g,8,g,3,g,0,g,5,g,12,g
+831,krispy kreme,skinny caramel latte with 2 milk 16 fl oz,9,g,30,mg,230,g,41,g,10,g,4,g,0,g,7,g,15,g
+832,krispy kreme,skinny caramel latte with 2 milk 20 fl oz,11,g,40,mg,290,g,52,g,12,g,4.5,g,0,g,9,g,18,g
+833,krispy kreme,skinny caramel latte with skim milk 12 fl oz,2,g,10,mg,160,g,29,g,8,g,0,g,0,g,5,g,12,g
+834,krispy kreme,skinny caramel latte with skim milk 16 fl oz,3,g,15,mg,220,g,41,g,10,g,0,g,0,g,7,g,15,g
+835,krispy kreme,skinny caramel latte with skim milk 20 fl oz,4,g,15,mg,280,g,53,g,12,g,0,g,0,g,9,g,18,g
+836,krispy kreme,skinny latte with skim milk 12 fl oz,0,g,5,mg,105,g,12,g,8,g,0,g,0,g,0,g,12,g
+837,krispy kreme,skinny latte with skim milk 16 fl oz,0,g,5,mg,135,g,15,g,10,g,0,g,0,g,0,g,15,g
+838,krispy kreme,skinny latte with skim milk 20 fl oz,0,g,5,mg,170,g,18,g,12,g,0,g,0,g,0,g,18,g
+839,krispy kreme,skinny vanilla latte with 2 milk 12 fl oz,5,g,20,mg,120,g,15,g,8,g,3,g,0,g,0,g,12,g
+840,krispy kreme,skinny vanilla latte with 2 milk 16 fl oz,6,g,25,mg,150,g,19,g,10,g,4,g,0,g,0,g,15,g
+841,krispy kreme,skinny vanilla latte with 2 milk 20 fl oz,7,g,30,mg,180,g,23,g,12,g,4.5,g,0,g,0,g,18,g
+842,krispy kreme,skinny vanilla latte with skim milk 12 fl oz,0,g,5,mg,105,g,15,g,8,g,0,g,0,g,0,g,12,g
+843,krispy kreme,skinny vanilla latte with skim milk 16 fl oz,0,g,5,mg,135,g,19,g,10,g,0,g,0,g,0,g,15,g
+844,krispy kreme,skinny vanilla latte with skim milk 20 fl oz,0,g,5,mg,170,g,23,g,12,g,0,g,0,g,0,g,18,g
+845,krispy kreme,strawberry iced doughnut,11,g,0,mg,85,g,22,g,3,g,5,g,0,g,1,g,10,g
+846,krispy kreme,traditional cake doughnut,18,g,25,mg,360,g,28,g,3,g,7,g,0,g,1,g,10,g
+847,krispy kreme,vanilla latte with 2 milk 12 fl oz,5,g,20,mg,120,g,38,g,8,g,3,g,0,g,0,g,39,g
+848,krispy kreme,vanilla latte with 2 milk 16 fl oz,6,g,25,mg,150,g,50,g,10,g,4,g,0,g,0,g,50,g
+849,krispy kreme,vanilla latte with 2 milk 20 fl oz,7,g,30,mg,180,g,62,g,12,g,4.5,g,0,g,0,g,62,g
+850,krispy kreme,vanilla latte with skim milk 12 fl oz,0,g,5,mg,105,g,39,g,8,g,0,g,0,g,0,g,39,g
+851,krispy kreme,vanilla latte with skim milk 16 fl oz,0,g,5,mg,135,g,51,g,10,g,0,g,0,g,0,g,51,g
+852,krispy kreme,vanilla latte with skim milk 20 fl oz,0,g,5,mg,170,g,63,g,12,g,0,g,0,g,0,g,63,g
+853,krispy kreme,white iced doughnut with chocolate drizzle,11,g,0,mg,90,g,37,g,3,g,5,g,0,g,1,g,24,g
+854,krystal,cherry coke icee,0,g,0,mg,25,g,53,g,0,g,0,g,0,g,0,g,53,g
+855,krystal,sweet iced tea,0,g,0,mg,17,g,83.6,g,0,g,0,g,0,g,0,g,81.6,g
+856,krystal,coke icee,0,g,0,mg,0,g,40,g,0,g,0,g,0,g,0,g,40,g
+857,krystal,green apple or grape kool aid slushie,0,g,0,mg,105,g,80,g,0,g,0,g,0,g,0,g,77,g
+858,krystal,oreo shake regular,22,g,60,mg,460,g,101,g,13,g,13,g,0,g,0,g,82,g
+859,krystal,strawberry shake regular,17,g,60,mg,320,g,92,g,12,g,11,g,0,g,0,g,80,g
+860,krystal,vanilla shake large,22,g,80,mg,510,g,117,g,18,g,15,g,0,g,0,g,104,g
+861,krystal,oreo shake large,33,g,80,mg,730,g,159,g,20,g,18,g,0,g,0,g,127,g
+862,krystal,vanilla shake regular,17,g,60,mg,350,g,80,g,12,g,11,g,0,g,0,g,70,g
+863,krystal,chocolate shake regular,18,g,60,mg,360,g,114,g,14,g,11,g,0,g,3,g,100,g
+864,krystal,strawberry shake large,22,g,80,mg,450,g,128,g,17,g,15,g,0,g,0,g,112,g
+865,krystal,chocolate shake large,24,g,80,mg,510,g,161,g,20,g,15,g,0,g,4,g,142,g
+866,krystal,orange juice,0,g,0,mg,20,g,34,g,3,g,0,g,0,g,0,g,30,g
+867,krystal,milk 1,3.5,g,20,mg,160,g,18,g,12,g,2.5,g,0,g,0,g,18,g
+868,krystal,low carb scrambler with sausage,34,g,255,mg,600,g,2,g,16,g,12,g,0,g,0,g,1,g
+869,krystal,original scrambler with sausage,24,g,235,mg,670,g,16,g,14,g,9,g,0,g,1,g,1,g
+870,krystal,low carb scrambler with bacon,23,g,250,mg,890,g,3,g,20,g,9,g,0,g,0,g,2,g
+871,krystal,original scrambler with bacon,19,g,235,mg,820,g,17,g,16,g,7,g,0,g,1,g,2,g
+872,krystal,grits bowl side,5,g,0,mg,520,g,36,g,4,g,1,g,0,g,3,g,0,g
+873,krystal,three egg breakfast plate with sausage and biscuit,36,g,430,mg,1030,g,28,g,21,g,20,g,0,g,1,g,3,g
+874,krystal,chik biscuit sandwich,21,g,30,mg,1070,g,36,g,12,g,16,g,0,g,1,g,3,g
+875,krystal,sausage gravy biscuit,21,g,5,mg,1430,g,41,g,5,g,16,g,0,g,1,g,3,g
+876,krystal,breakfast toast sandwich with bacon,13,g,125,mg,730,g,30,g,15,g,5,g,0,g,2,g,5,g
+877,krystal,sausage gravy scrambler,40,g,230,mg,1810,g,45,g,15,g,22,g,0,g,1,g,3,g
+878,krystal,breakfast biscuit sandwich with sausage,29,g,130,mg,1030,g,28,g,11,g,18,g,0,g,1,g,3,g
+879,krystal,kryspers 5 side,18,g,10,mg,280,g,21,g,2,g,4.5,g,0.5,g,2,g,0,g
+880,krystal,sundriser breakfast sandwiches 2,32,g,255,mg,730,g,16,g,19,g,11,g,0,g,1,g,2,g
+881,krystal,breakfast biscuit sandwich with bacon,23,g,125,mg,1180,g,28,g,13,g,17,g,0,g,1,g,4,g
+882,krystal,three egg breakfast plate with sausage and toast,30,g,425,mg,1170,g,29,g,23,g,18,g,0,g,1,g,3,g
+883,krystal,breakfast toast sandwich with sausage,19,g,130,mg,580,g,30,g,13,g,6,g,0,g,2,g,4,g
+884,krystal,three egg breakfast plate with bacon and biscuit,30,g,425,mg,1170,g,29,g,23,g,18,g,0,g,1,g,3,g
+885,krystal,three egg breakfast plate with bacon and toast,19,g,425,mg,580,g,16,g,22,g,6,g,0,g,1,g,3,g
+886,krystal,apple turnover,18,g,10,mg,190,g,31,g,3,g,8,g,0.5,g,1,g,11,g
+887,krystal,strawberry sundae,7,g,25,mg,150,g,58,g,5,g,5,g,0,g,0,g,51,g
+888,krystal,chocolate sundae,8,g,25,mg,170,g,57,g,6,g,5,g,0,g,1,g,50,g
+889,krystal,oreo sundae,13,g,25,mg,260,g,54,g,6,g,7,g,0,g,0,g,40,g
+890,krystal,soft serve in a cone,8,g,25,mg,180,g,40,g,6,g,5,g,0,g,0,g,31,g
+891,krystal,cookies 2,10,g,15,mg,190,g,36,g,3,g,6,g,0,g,0,g,23,g
+892,krystal,soft serve in a cup,8,g,25,mg,160,g,36,g,5,g,5,g,0,g,0,g,31,g
+893,krystal,french fries small,9,g,5,mg,140,g,14,g,2,g,3.5,g,0,g,2,g,0,g
+894,krystal,chili cheese fries,47,g,100,mg,1580,g,40,g,25,g,23,g,1.5,g,7,g,2,g
+895,krystal,french fries medium,15,g,10,mg,240,g,24,g,3,g,6,g,1,g,0,g,0,g
+896,krystal,junkyard fries,59,g,110,mg,1910,g,42,g,28,g,26,g,1.5,g,7,g,3,g
+897,krystal,french fries large,19,g,15,mg,300,g,30,g,3,g,7,g,1,g,3,g,0,g
+898,krystal,chili fries,29,g,80,mg,2820,g,25,g,23,g,11,g,1,g,4,g,7,g
+899,krystal,wings 12 without dipping sauce,90,g,405,mg,2940,g,36,g,54,g,33,g,3,g,6,g,12,g
+900,krystal,chik nuggets 4 without dipping sauce,19,g,30,mg,400,g,8,g,10,g,6,g,0,g,1,g,0,g
+901,krystal,chik nuggets 10 without dipping sauce,47,g,75,mg,990,g,20,g,26,g,14,g,1,g,1.5,g,0,g
+902,krystal,original krystal burger,6,g,15,mg,300,g,15,g,6,g,2,g,0,g,1,g,1,g
+903,krystal,original krystal burger with cheese,8,g,20,mg,430,g,16,g,8,g,3.5,g,0,g,1,g,1,g
+904,krystal,chili cheese pup hot dog,19,g,55,mg,730,g,23,g,14,g,11,g,0,g,2,g,1,g
+905,krystal,chik burger,16,g,30,mg,570,g,23,g,12,g,4,g,0,g,2,g,2,g
+906,krystal,corn pup hot dog,17,g,30,mg,510,g,18,g,5,g,8,g,0,g,0,g,5,g
+907,krystal,double krystal burger with cheese,15,g,45,mg,670,g,16,g,12,g,7,g,0,g,1,g,2,g
+908,krystal,bacon and cheese krystal burger,10,g,30,mg,570,g,16,g,10,g,4.5,g,0,g,1,g,2,g
+909,krystal,double krystal burger,11,g,30,mg,420,g,16,g,10,g,4,g,0,g,1,g,1,g
+910,krystal,triple krystal burger,15,g,50,mg,530,g,16,g,13,g,6,g,0,g,1,g,2,g
+911,krystal,plain pup hot dog,9,g,20,mg,450,g,21,g,6,g,4,g,0,g,1,g,1,g
+912,krystal,double angus bacon and cheese krystal burger,42,g,130,mg,1360,g,41,g,38,g,16,g,1.5,g,2,g,4,g
+913,krystal,triple krystal burger with cheese,20,g,60,mg,780,g,17,g,15,g,9,g,0,g,1,g,2,g
+914,krystal,anus bacon and cheese krystal burger,23,g,70,mg,1010,g,40,g,24,g,9,g,1,g,2,g,4,g
+915,krystal,chik burger with cheese,18,g,35,mg,700,g,23,g,14,g,6,g,0,g,2,g,2,g
+916,krystal,sweet baby rays bbq sauce,0,g,0,mg,280,g,18,g,0,g,0,g,0,g,0,g,16,g
+917,krystal,honey mustard dipping sauce,12,g,10,mg,200,g,4,g,0,g,2,g,0,g,0,g,4,g
+918,krystal,sweet and sour dipping sauce,0,g,0,mg,1060,g,13,g,0,g,0,g,0,g,0,g,10,g
+919,krystal,ranch dipping sauce,13,g,10,mg,180,g,1,g,0,g,2,g,0,g,0,g,1,g
+920,krystal,2 sunrisers,32,g,255,mg,730,g,16,g,19,g,11,g,0,g,1,g,2,g
+921,krystal,3 egg breakfast plate add coffee,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+922,krystal,3 egg breakfast plate add grits,5,g,0,mg,520,g,36,g,4,g,1,g,0,g,3,g,0,g
+923,krystal,3 egg breakfast plate add tots,19,g,10,mg,600,g,235,g,2,g,6,g,0,g,2,g,0,g
+924,krystal,3 egg breakfast plate with bacon and biscuit only,30,g,425,mg,1170,g,29,g,23,g,18,g,0,g,1,g,3,g
+925,krystal,3 egg breakfast plate with sausage and biscuit only,36,g,430,mg,1030,g,28,g,21,g,20,g,0,g,1,g,3,g
+926,krystal,6 cheese krystals and 6 chiks,146,g,315,mg,6000,g,233,g,119,g,45,g,0,g,17,g,19,g
+927,krystal,apple turnover,18,g,10,mg,190,g,31,g,3,g,8,g,0,g,1,g,11,g
+928,krystal,bacon cheese krystal,10,g,30,mg,570,g,16,g,10,g,4.5,g,0,g,1,g,2,g
+929,krystal,barqs root beer roadie,0,g,0,mg,190,g,160,g,0,g,0,g,0,g,0,g,160,g
+930,krystal,breakfast coffee,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+931,krystal,breakfast milk,3.5,g,20,mg,160,g,18,g,12,g,2.5,g,0,g,0,g,18,g
+932,krystal,breakfast orange juice,0,g,0,mg,20,g,34,g,3,g,0,g,0,g,0,g,30,g
+933,krystal,breakfast side of grits,5,g,0,mg,520,g,36,g,4,g,1,g,0,g,3,g,0,g
+934,krystal,breakfast side of tots,19,g,10,mg,600,g,235,g,2,g,6,g,0,g,2,g,0,g
+935,krystal,breakfast biscuit with bacon,23,g,130,mg,1180,g,28,g,13,g,17,g,0,g,1,g,3,g
+936,krystal,breakfast biscuit with sausage,29,g,130,mg,1030,g,27,g,11,g,19,g,0,g,1,g,2,g
+937,krystal,cheese krystals 12 piece,95,g,265,mg,5130,g,191,g,90,g,40,g,0,g,14,g,17,g
+938,krystal,cheese krystals 24 piece,140,g,385,mg,7270,g,372,g,151,g,48,g,0,g,27,g,29,g
+939,krystal,cherry icee,0,g,0,mg,20,g,40,g,0,g,0,g,0,g,0,g,40,g
+940,krystal,chik,16,g,30,mg,570,g,23,g,12,g,4,g,0,g,2,g,2,g
+941,krystal,chik biscuit,21,g,30,mg,1070,g,36,g,12,g,16,g,0,g,1,g,3,g
+942,krystal,chik nuggets 10 piece,47,g,75,mg,990,g,20,g,26,g,14,g,0,g,2,g,0,g
+943,krystal,chik nuggets 4 piece,19,g,30,mg,400,g,8,g,10,g,6,g,0,g,1,g,0,g
+944,krystal,chili cheese pup,20,g,55,mg,710,g,16,g,14,g,10,g,0,g,2,g,1,g
+945,krystal,chocolate sundae,8,g,25,mg,170,g,57,g,6,g,5,g,0,g,1,g,50,g
+946,krystal,classic pup,10,g,20,mg,420,g,14,g,6,g,3,g,0,g,1,g,1,g
+947,krystal,coffee,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+948,krystal,coke icee,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,0,g,24,g
+949,krystal,coke zero large,0,g,0,mg,100,g,0,g,0,g,0,g,0,g,0,g,0,g
+950,krystal,coke zero medium,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+951,krystal,coke zero roadie,0,g,0,mg,150,g,1,g,0,g,0,g,0,g,0,g,0,g
+952,krystal,coke zero small,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+953,krystal,coke large,0,g,0,mg,100,g,100,g,0,g,0,g,0,g,0,g,100,g
+954,krystal,coke medium,0,g,0,mg,65,g,67,g,0,g,0,g,0,g,0,g,67,g
+955,krystal,coke roadie,0,g,0,mg,150,g,147,g,0,g,0,g,0,g,0,g,147,g
+956,krystal,coke small,0,g,0,mg,55,g,54,g,0,g,0,g,0,g,0,g,54,g
+957,krystal,corn pup,21,g,30,mg,470,g,18,g,5,g,7,g,0,g,1,g,5,g
+958,krystal,diet coke large,0,g,0,mg,120,g,1,g,0,g,0,g,0,g,0,g,0,g
+959,krystal,diet coke medium,0,g,0,mg,80,g,1,g,0,g,0,g,0,g,0,g,0,g
+960,krystal,diet coke roadie,0,g,0,mg,180,g,1,g,0,g,0,g,0,g,0,g,0,g
+961,krystal,diet coke small,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+962,krystal,dipping sauce honey mustard,12,g,10,mg,200,g,4,g,0,g,2,g,0,g,0,g,4,g
+963,krystal,dipping sauce ranch,13,g,10,mg,180,g,1,g,0,g,2,g,0,g,0,g,1,g
+964,krystal,dipping sauce sweet and sour,0,g,0,mg,160,g,13,g,0,g,0,g,0,g,0,g,10,g
+965,krystal,dipping sauce sweet baby rays bbq,0,g,0,mg,280,g,18,g,0,g,0,g,0,g,0,g,16,g
+966,krystal,double krystal,11,g,30,mg,420,g,16,g,10,g,4,g,0,g,1,g,1,g
+967,krystal,double krystal with cheese,15,g,45,mg,670,g,16,g,12,g,7,g,0,g,1,g,2,g
+968,krystal,dr pepper large,0,g,0,mg,150,g,99,g,0,g,0,g,0,g,0,g,96,g
+969,krystal,dr pepper medium,0,g,0,mg,100,g,66,g,0,g,0,g,0,g,0,g,64,g
+970,krystal,dr pepper roadie,0,g,0,mg,220,g,145,g,0,g,0,g,0,g,0,g,141,g
+971,krystal,dr pepper small,0,g,0,mg,80,g,53,g,0,g,0,g,0,g,0,g,51,g
+972,krystal,fanta cherry large,0,g,0,mg,125,g,77,g,0,g,0,g,0,g,0,g,77,g
+973,krystal,fanta cherry medium,0,g,0,mg,85,g,51,g,0,g,0,g,0,g,0,g,51,g
+974,krystal,fanta cherry roadie,0,g,0,mg,190,g,113,g,0,g,0,g,0,g,0,g,113,g
+975,krystal,fanta cherry small,0,g,0,mg,65,g,41,g,0,g,0,g,0,g,0,g,41,g
+976,krystal,fanta orange roadie,0,g,0,mg,150,g,148,g,0,g,0,g,0,g,0,g,146,g
+977,krystal,fanta strawberry roadie,0,g,0,mg,300,g,157,g,0,g,0,g,0,g,0,g,156,g
+978,krystal,french fries large,19,g,15,mg,300,g,30,g,3,g,7,g,0,g,3,g,0,g
+979,krystal,french fries medium,15,g,10,mg,240,g,24,g,3,g,6,g,0,g,3,g,0,g
+980,krystal,french fries small,9,g,5,mg,140,g,14,g,2,g,3.5,g,0,g,2,g,0,g
+981,krystal,fruit punch sprite slushie,0,g,0,mg,180,g,71,g,0,g,0,g,0,g,0,g,68,g
+982,krystal,grape sprite slushie,0,g,0,mg,230,g,71,g,0,g,0,g,0,g,0,g,68,g
+983,krystal,hand spun milkshakes chocolate large,24,g,80,mg,510,g,161,g,20,g,15,g,0,g,4,g,142,g
+984,krystal,hand spun milkshakes chocolate regular,18,g,60,mg,360,g,114,g,14,g,11,g,0,g,3,g,100,g
+985,krystal,hand spun milkshakes oreo large,33,g,80,mg,730,g,159,g,20,g,18,g,0,g,0,g,127,g
+986,krystal,hand spun milkshakes oreo regular,22,g,60,mg,460,g,101,g,13,g,13,g,0,g,0,g,82,g
+987,krystal,hand spun milkshakes strawberry large,22,g,80,mg,450,g,128,g,17,g,15,g,0,g,0,g,112,g
+988,krystal,hand spun milkshakes strawberry regular,17,g,60,mg,320,g,92,g,12,g,11,g,0,g,0,g,80,g
+989,krystal,hand spun milkshakes vanilla large,22,g,80,mg,510,g,117,g,18,g,15,g,0,g,0,g,104,g
+990,krystal,hand spun milkshakes vanilla regular,17,g,60,mg,350,g,80,g,12,g,11,g,0,g,0,g,70,g
+991,krystal,hi c flashin fruit punch roadie,0,g,0,mg,270,g,155,g,0,g,0,g,0,g,0,g,152,g
+992,krystal,krystal with cheese,8,g,20,mg,430,g,16,g,8,g,3.5,g,0,g,1,g,1,g
+993,krystal,krystals 12 piece,70,g,190,mg,3630,g,186,g,75,g,24,g,0,g,14,g,15,g
+994,krystal,krystals 24 piece,140,g,385,mg,7270,g,372,g,151,g,48,g,0,g,27,g,29,g
+995,krystal,lemonade sprite slushie,0,g,0,mg,25,g,77,g,0,g,0,g,0,g,0,g,70,g
+996,krystal,loaded fries bacon cheddar ranch,51,g,70,mg,960,g,46,g,17,g,20,g,0,g,6,g,2,g
+997,krystal,loaded fries chili cheese,47,g,100,mg,1580,g,40,g,25,g,23,g,0,g,7,g,2,g
+998,krystal,loaded fries junkyard,59,g,110,mg,1910,g,42,g,28,g,26,g,0,g,7,g,3,g
+999,krystal,loaded tots bacon cheddar ranch,58,g,70,mg,1630,g,430,g,16,g,19,g,0,g,4,g,2,g

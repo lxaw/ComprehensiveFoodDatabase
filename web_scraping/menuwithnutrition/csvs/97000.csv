@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,lollicup,strawberry slush,0,g,0,mg,310,g,61,g,1,g,0,g,0,g,1,g,60,g
+1,lollicup,lychee slush,0,g,0,mg,109,g,60,g,1,g,0,g,0,g,1,g,59,g
+2,lollicup,passion fruit slush,0,g,0,mg,300,g,64,g,0,g,0,g,0,g,1,g,63,g
+3,lollicup,honey green or black tea,0,g,0,mg,0,g,47,g,0,g,0,g,0,g,0,g,45,g
+4,lollicup,peach slush,0,g,0,mg,320,g,67,g,0,g,0,g,0,g,1,g,66,g
+5,lollicup,mango snow,8,g,0,mg,190,g,84,g,1,g,8,g,0,g,1,g,68,g
+6,lollicup,wintermelon slush,0,g,0,mg,72,g,56,g,1,g,0,g,0,g,1,g,55,g
+7,lollicup,starfruit slush,0,g,0,mg,95,g,63,g,0,g,0,g,0,g,1,g,62,g
+8,lollicup,peach snow,8,g,0,mg,360,g,82,g,1,g,8,g,0,g,1,g,66,g
+9,lollicup,espresso mocha mint chocolate mocha mocha or white chocolate mocha with whole milk,14,g,9,mg,329,g,44.8,g,8,g,13.3,g,0,g,2,g,30.8,g
+10,lollicup,green apple green or black tea,0,g,0,mg,141,g,49.7,g,0.3,g,0,g,0,g,0,g,6.8,g
+11,lollicup,kiwi slush,0,g,0,mg,310,g,66,g,0,g,0,g,0,g,1,g,65,g
+12,lollicup,green tea without fructose,0,g,0,mg,0,g,0.8,g,0,g,0,g,0,g,0,g,0,g
+13,lollicup,green apple slush,0,g,0,mg,320,g,65,g,0,g,0,g,0,g,1,g,64,g
+14,lollicup,yogurt green or black tea,0,g,0,mg,170,g,53.5,g,0.9,g,0,g,0,g,0,g,6.8,g
+15,lollicup,caramel latte with whole milk,14,g,9,mg,329,g,44.8,g,8,g,13.8,g,0,g,2,g,30.8,g
+16,lollicup,plum slush,0,g,0,mg,300,g,60,g,0,g,0,g,0,g,1,g,59,g
+17,lollicup,yogurt slush,0,g,0,mg,92,g,65,g,1,g,0,g,0,g,1,g,64,g
+18,lollicup,vanilla latte with whole milk,14,g,9,mg,329,g,44.8,g,5,g,13.3,g,0,g,1,g,30.8,g
+19,lollicup,passion fruit snow,8,g,0,mg,340,g,79,g,1,g,8,g,0,g,1,g,63,g
+20,lollicup,toffee mocha with water,16,g,0,mg,300,g,46,g,4,g,16,g,0,g,2,g,34,g
+21,lollicup,green apple snow,8,g,0,mg,360,g,80,g,1,g,8,g,0,g,1,g,64,g
+22,lollicup,lemon slush,0,g,0,mg,400,g,62,g,1,g,0,g,0,g,1,g,61,g
+23,lollicup,ginger slush,0,g,0,mg,190,g,61,g,0,g,0,g,0,g,1,g,60,g
+24,lollicup,starfruit green or black tea,0,g,0,mg,141,g,50,g,0.3,g,0,g,0,g,0,g,6.8,g
+25,lollicup,dark plum slush,0,g,0,mg,300,g,61,g,0,g,0,g,0,g,1,g,60,g
+26,lollicup,espresso mocha mint chocolate mocha mocha or white chocolate mocha with water,12,g,0,mg,300,g,42,g,6,g,12,g,0,g,2,g,28,g
+27,lollicup,plum green or black tea,0,g,0,mg,141,g,49,g,2,g,0,g,0,g,0,g,6.8,g
+28,lollicup,toffee mocha with whole milk,18,g,9,mg,329,g,48.8,g,6,g,17.3,g,0,g,2,g,36.8,g
+29,lollicup,grape slush,0,g,0,mg,330,g,66,g,1,g,0,g,0,g,1,g,65,g
+30,lollicup,vanilla latte with water,12,g,0,mg,300,g,42,g,6,g,12,g,0,g,1,g,28,g
+31,lollicup,grapefruit slush,0,g,0,mg,150,g,60,g,0,g,0,g,0,g,1,g,59,g
+32,lollicup,orange slush,0,g,0,mg,310,g,66,g,1,g,0,g,0,g,1,g,65,g
+33,lollicup,cantaloupe slush,0,g,0,mg,216,g,67,g,0,g,0,g,0,g,1,g,66,g
+34,lollicup,caramel latte with water,12,g,0,mg,300,g,42,g,6,g,12,g,0,g,2,g,28,g
+35,lollicup,oval kumquat slush,0,g,0,mg,330,g,66,g,0,g,0,g,0,g,1,g,65,g
+36,lollicup,lychee jelly,0,g,0,mg,65,g,19.5,g,0,g,0,g,0,g,0,g,13.5,g
+37,lollicup,boba,0,g,0,mg,22,g,21.3,g,0,g,0,g,0,g,0,g,15.1,g
+38,lollicup,jelly assorted coffee mango yogo,0,g,0,mg,60,g,19.5,g,0,g,0,g,0,g,0,g,13.5,g
+39,long john silvers,iceflow lemonade,0,g,0,mg,15,g,47,g,0,g,0,g,0,g,0,g,40,g
+40,long john silvers,sweetened silvers tea,0,g,0,mg,13,g,34,g,0,g,0,g,0,g,0,g,34,g
+41,long john silvers,strawberry iceflow lemonade,0,g,0,mg,35,g,79,g,0,g,0,g,0,g,0,g,76,g
+42,long john silvers,unsweetened silvers tea,0,g,0,mg,14,g,0,g,0,g,0,g,0,g,0,g,0,g
+43,long john silvers,chocolate cream pie,16,g,6,mg,233,g,31,g,3,g,11,g,0,g,1,g,21,g
+44,long john silvers,pineapple cream pie,16,g,9,mg,277,g,34,g,3,g,11,g,0,g,0,g,24,g
+45,long john silvers,chocolate chip cookie,11,g,5,mg,170,g,22,g,2,g,5,g,0,g,1,g,13,g
+46,long john silvers,pecan pie,21,g,50,mg,184,g,47,g,3,g,6,g,0,g,1,g,20,g
+47,long john silvers,fries,17,g,0,mg,500,g,44,g,4,g,3,g,0,g,4,g,0,g
+48,long john silvers,chicken tenders,7,g,20,mg,570,g,11,g,10,g,1,g,0,g,1,g,0,g
+49,long john silvers,crispy fish sandwich,16,g,30,mg,1230,g,44,g,14,g,2,g,0,g,1,g,7,g
+50,long john silvers,chicken sandwich,23,g,45,mg,1290,g,46,g,22,g,3,g,0,g,2,g,6,g
+51,long john silvers,tartar sauce,4,g,5,mg,110,g,3,g,0,g,1,g,0,g,0,g,2,g
+52,long john silvers,malt vinegar,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+53,long john silvers,cocktail sauce,0,g,0,mg,230,g,4,g,1,g,0,g,0,g,0,g,0,g
+54,long john silvers,sweet and sour sauce,0,g,0,mg,120,g,12,g,0,g,0,g,0,g,0,g,7,g
+55,long john silvers,ketchup,0,g,0,mg,250,g,8,g,0,g,0,g,0,g,0,g,6,g
+56,long john silvers,creamy garlic butter sauce,11,g,29,mg,213,g,1,g,0,g,7,g,0,g,0,g,0,g
+57,long john silvers,sweet thai chili sauce,0,g,0,mg,300,g,14,g,0,g,0,g,0,g,0,g,9,g
+58,long john silvers,honey mustard sauce,6,g,5,mg,55,g,2,g,0,g,1,g,0,g,0,g,2,g
+59,long john silvers,louisiana hot sauce,0,g,0,mg,140,g,0,g,0,g,0,g,0,g,0,g,0,g
+60,long john silvers,sweet and zesty asian sauce,0,g,0,mg,217,g,11,g,0,g,0,g,0,g,0,g,10,g
+61,long john silvers,marinara sauce,0,g,0,mg,125,g,4,g,1,g,0,g,0,g,1,g,2,g
+62,long john silvers,bbq sauce,0,g,0,mg,230,g,10,g,0,g,0,g,0,g,0,g,6,g
+63,long john silvers,lemon juice,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+64,long john silvers,battered cod,11,g,40,mg,560,g,9,g,15,g,1,g,0,g,1,g,0,g
+65,long john silvers,battered shrimp,2.3,g,15,mg,143,g,1.7,g,2,g,0.3,g,0,g,0,g,0,g
+66,long john silvers,popcorn shrimp,9,g,45,mg,790,g,24,g,8,g,1,g,0,g,1,g,0,g
+67,long john silvers,breaded clams strips,20,g,10,mg,680,g,35,g,10,g,4,g,0,g,3,g,0,g
+68,long john silvers,battered alaskan pollock,10,g,25,mg,810,g,16,g,10,g,1,g,0,g,1,g,0,g
+69,long john silvers,crab cake,15,g,35,mg,880,g,26,g,10,g,6,g,0,g,1,g,3,g
+70,long john silvers,baked cod,1,g,120,mg,390,g,1,g,36,g,0,g,0,g,0,g,0,g
+71,long john silvers,salmon,7,g,20,mg,570,g,11,g,10,g,1,g,0,g,1,g,0,g
+72,long john silvers,baked shrimp,0,g,45,mg,105,g,0,g,5,g,0,g,0,g,0,g,0,g
+73,long john silvers,hushpuppy,7,g,0,mg,510,g,19,g,3,g,1,g,0,g,1,g,0.5,g
+74,long john silvers,cole slaw,11,g,20,mg,410,g,18,g,1,g,2,g,0,g,2,g,16,g
+75,long john silvers,seasoned green beans,0,g,0,mg,600,g,4,g,1,g,0,g,0,g,1,g,0.5,g
+76,long john silvers,corn,8,g,0,mg,370,g,19,g,3,g,2,g,0,g,2,g,2,g
+77,long john silvers,broccoli cheese bites,14.4,g,5,mg,266,g,10.6,g,3,g,3,g,0,g,1.5,g,1.5,g
+78,long john silvers,crumblies,12,g,0,mg,530,g,13,g,1,g,1,g,0,g,0,g,0,g
+79,long john silvers,rice,1,g,2,mg,614,g,47,g,5,g,1,g,0,g,0,g,2,g
+80,long john silvers,breaded mozzarella sticks,21.2,g,41,mg,599,g,21.9,g,13.6,g,7.6,g,0,g,0,g,0,g
+81,long john silvers,macaroni and cheese,6,g,10,mg,490,g,19,g,6,g,3,g,0,g,1,g,3,g
+82,long john silvers,broccoli,0,g,0,mg,35,g,7,g,3,g,0,g,0,g,3,g,2,g
+83,long john silvers,battered onion rings,35,g,0,mg,1330,g,39,g,3,g,3,g,0,g,2,g,3,g
+84,long john silvers,jalapeno peppers,0,g,0,mg,190,g,2,g,1,g,0,g,0,g,0,g,1,g
+85,long john silvers,sweet potato fries,15,g,0,mg,250,g,27,g,1,g,1,g,0,g,4,g,10,g
+86,long john silvers,baked potato,0,g,0,mg,360,g,67,g,6,g,0,g,0,g,8,g,3,g
+87,long john silvers,jalapeno cheddar bites,9.7,g,7,mg,376,g,11.1,g,3.7,g,2.2,g,0,g,0.7,g,2.2,g
+88,long john silvers,clam chowder,16,g,35,mg,820,g,16,g,9,g,6,g,0,g,0,g,0,g
+89,long john silvers,broccoli cheese soup,17,g,40,mg,1160,g,13,g,8,g,8,g,0,g,0,g,0,g
+90,long john silvers,baja fish taco,21,g,35,mg,1290,g,40,g,13,g,4,g,0,g,3,g,7,g
+91,long john silvers,lemon crumb topping,6,g,5,mg,1080,g,15,g,2,g,5,g,0,g,0,g,3,g
+92,long john silvers,creamy ranch dressing,5,g,0,mg,15,g,1,g,0,g,1,g,0,g,0,g,0,g
+93,long john silvers,baja fish taco,21,g,35,mg,1290,g,40,g,13,g,4,g,0,g,3,g,7,g
+94,long john silvers,baja grilled salmon bowl,15,g,20,mg,1230,g,45,g,26,g,3,g,0,g,3,g,11,g
+95,long john silvers,baja grilled salmon taco,9,g,15,mg,590,g,23,g,13,g,2,g,0,g,2,g,8,g
+96,long john silvers,baja grilled shrimp bowl,16,g,70,mg,1580,g,48,g,20,g,3,g,0,g,3,g,13,g
+97,long john silvers,baja grilled shrimp taco,10,g,75,mg,770,g,21,g,12,g,2,g,0,g,2,g,8,g
+98,long john silvers,baked alaskan cod,1,g,120,mg,390,g,1,g,36,g,0,g,0,g,0,g,0,g
+99,long john silvers,baked potato,0,g,0,mg,360,g,67,g,6,g,0,g,0,g,8,g,3,g
+100,long john silvers,baked shrimp,0,g,45,mg,105,g,0,g,5,g,0,g,0,g,0,g,0,g
+101,long john silvers,battered alaskan cod,11,g,40,mg,560,g,9,g,15,g,1,g,0,g,1,g,0,g
+102,long john silvers,battered alaskan pollock,10,g,25,mg,810,g,16,g,10,g,1,g,0,g,1,g,0,g
+103,long john silvers,battered shrimp,7,g,45,mg,430,g,5,g,6,g,1,g,0,g,0,g,0,g
+104,long john silvers,bbq sauce,0,g,0,mg,230,g,10,g,0,g,0,g,0,g,0,g,6,g
+105,long john silvers,breaded clam strips,20,g,10,mg,680,g,35,g,10,g,4,g,0,g,3,g,0,g
+106,long john silvers,breaded mozzarella sticks,23,g,45,mg,660,g,24,g,15,g,8,g,0,g,0,g,0,g
+107,long john silvers,broccoli and cheese bites veggie bites,24,g,10,mg,440,g,18,g,5,g,5,g,0,g,3,g,3,g
+108,long john silvers,broccoli cheese soup,18,g,30,mg,650,g,8,g,5,g,8,g,0,g,1,g,2,g
+109,long john silvers,chicken tender,7,g,20,mg,570,g,11,g,10,g,1,g,0,g,1,g,0,g
+110,long john silvers,chocolate chip cookie,11,g,5,mg,170,g,22,g,2,g,5,g,0,g,1,g,13,g
+111,long john silvers,chocolate cream pie,17,g,10,mg,230,g,28,g,3,g,10,g,0,g,1,g,19,g
+112,long john silvers,clam chowder soup,16,g,35,mg,820,g,16,g,9,g,6,g,0,g,0,g,0,g
+113,long john silvers,cocktail sauce,0,g,0,mg,230,g,4,g,1,g,0,g,0,g,0,g,0,g
+114,long john silvers,cole slaw,11,g,20,mg,410,g,18,g,1,g,2,g,0,g,2,g,16,g
+115,long john silvers,corn kernels,8,g,0,mg,370,g,19,g,3,g,2,g,0,g,2,g,2,g
+116,long john silvers,creamy garlic butter sauce,11,g,30,mg,210,g,1,g,0,g,7,g,0,g,0,g,0,g
+117,long john silvers,creamy ranch dressing,6,g,0,mg,115,g,1,g,0,g,1,g,0,g,0,g,0,g
+118,long john silvers,crumblies,12,g,0,mg,530,g,13,g,1,g,1,g,0,g,0,g,0,g
+119,long john silvers,diet mountain dew kids,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+120,long john silvers,diet mountain dew large,0,g,0,mg,200,g,0,g,0,g,0,g,0,g,0,g,0,g
+121,long john silvers,diet mountain dew medium,0,g,0,mg,160,g,0,g,0,g,0,g,0,g,0,g,0,g
+122,long john silvers,diet mountain dew small,0,g,0,mg,100,g,0,g,0,g,0,g,0,g,0,g,0,g
+123,long john silvers,diet pepsi kids,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+124,long john silvers,diet pepsi large,0,g,0,mg,125,g,0,g,0,g,0,g,0,g,0,g,0,g
+125,long john silvers,diet pepsi medium,0,g,0,mg,100,g,0,g,0,g,0,g,0,g,0,g,0,g
+126,long john silvers,diet pepsi small,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+127,long john silvers,dr pepper kids,0,g,0,mg,50,g,40,g,0,g,0,g,0,g,0,g,40,g
+128,long john silvers,dr pepper large,0,g,0,mg,180,g,135,g,0,g,0,g,0,g,0,g,135,g
+129,long john silvers,dr pepper medium,0,g,0,mg,140,g,108,g,0,g,0,g,0,g,0,g,108,g
+130,long john silvers,dr pepper small,0,g,0,mg,85,g,67,g,0,g,0,g,0,g,0,g,67,g
+131,long john silvers,fish sandwich,16,g,30,mg,1230,g,44,g,14,g,2,g,0,g,1,g,7,g
+132,long john silvers,fries,17,g,0,mg,500,g,44,g,4,g,3,g,0,g,4,g,0,g
+133,long john silvers,green beans,0,g,0,mg,600,g,4,g,1,g,0,g,0,g,1,g,1,g
+134,long john silvers,honey mustard,6,g,5,mg,55,g,2,g,0,g,1,g,0,g,0,g,2,g
+135,long john silvers,hushpuppies,7,g,0,mg,510,g,19,g,3,g,1,g,0,g,1,g,1,g
+136,long john silvers,jalapeno and cheddar bites veggie bites,16,g,10,mg,630,g,18,g,6,g,4,g,0,g,1,g,3,g
+137,long john silvers,jalapeno peppers,0,g,0,mg,190,g,2,g,1,g,0,g,0,g,0,g,1,g
+138,long john silvers,ketchup,0,g,0,mg,250,g,8,g,0,g,0,g,0,g,0,g,6,g
+139,long john silvers,lipton raspberry tea kids,0,g,0,mg,35,g,31,g,0,g,0,g,0,g,0,g,31,g
+140,long john silvers,lipton raspberry tea large,0,g,0,mg,125,g,105,g,0,g,0,g,0,g,0,g,105,g
+141,long john silvers,lipton raspberry tea medium,0,g,0,mg,100,g,84,g,0,g,0,g,0,g,0,g,84,g
+142,long john silvers,lipton raspberry tea small,0,g,0,mg,60,g,52,g,0,g,0,g,0,g,0,g,52,g
+143,long john silvers,lobster stuffed crab cake,15,g,35,mg,880,g,26,g,10,g,6,g,0,g,1,g,3,g
+144,long john silvers,louisiana hot sauce,0,g,0,mg,140,g,0,g,0,g,0,g,0,g,0,g,0,g
+145,long john silvers,macaroni and cheese,6,g,10,mg,490,g,19,g,6,g,3,g,0,g,1,g,3,g
+146,long john silvers,malt vinegar,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+147,long john silvers,marinara sauce,0,g,0,mg,125,g,4,g,1,g,0,g,0,g,1,g,2,g
+148,long john silvers,motts apple juice,0,g,0,mg,5,g,15,g,0,g,0,g,0,g,0,g,14,g
+149,long john silvers,motts apple sauce,0,g,0,mg,5,g,18,g,0,g,0,g,0,g,1,g,17,g
+150,long john silvers,mountain dew kids,0,g,0,mg,50,g,43,g,0,g,0,g,0,g,0,g,43,g
+151,long john silvers,mountain dew large,0,g,0,mg,170,g,146,g,0,g,0,g,0,g,0,g,146,g
+152,long john silvers,mountain dew medium,0,g,0,mg,140,g,116,g,0,g,0,g,0,g,0,g,116,g
+153,long john silvers,mountain dew small,0,g,0,mg,85,g,72,g,0,g,0,g,0,g,0,g,72,g
+154,long john silvers,onion rings battered,35,g,0,mg,1330,g,39,g,3,g,3,g,0,g,2,g,3,g
+155,long john silvers,pepsi kids,0,g,0,mg,35,g,42,g,0,g,0,g,0,g,0,g,40,g
+156,long john silvers,pepsi large,0,g,0,mg,125,g,140,g,0,g,0,g,0,g,0,g,135,g
+157,long john silvers,pepsi medium,0,g,0,mg,100,g,112,g,0,g,0,g,0,g,0,g,108,g
+158,long john silvers,pepsi small,0,g,0,mg,60,g,70,g,0,g,0,g,0,g,0,g,67,g
+159,long john silvers,popcorn shrimp,9,g,45,mg,790,g,24,g,8,g,1,g,0,g,1,g,0,g
+160,long john silvers,rice,1,g,0,mg,470,g,37,g,4,g,1,g,0,g,2,g,1,g
+161,long john silvers,seasoned grilled salmon rice bowl,8,g,85,mg,1750,g,45,g,21,g,1,g,0,g,2,g,15,g
+162,long john silvers,seasoned grilled salmon taco,4,g,20,mg,580,g,21,g,16,g,1,g,0,g,2,g,8,g
+163,long john silvers,seasoned grilled shrimp rice bowl,8,g,85,mg,1740,g,47,g,21,g,1,g,0,g,2,g,16,g
+164,long john silvers,seasoned grilled shrimp taco,5,g,60,mg,820,g,23,g,12,g,1,g,0,g,2,g,6,g
+165,long john silvers,sierra mist kids,0,g,0,mg,30,g,40,g,0,g,0,g,0,g,0,g,40,g
+166,long john silvers,sierra mist large,0,g,0,mg,100,g,135,g,0,g,0,g,0,g,0,g,135,g
+167,long john silvers,sierra mist medium,0,g,0,mg,80,g,108,g,0,g,0,g,0,g,0,g,108,g
+168,long john silvers,sierra mist small,0,g,0,mg,50,g,67,g,0,g,0,g,0,g,0,g,67,g
+169,long john silvers,silvers tea sweetened kids,0,g,0,mg,15,g,32,g,0,g,0,g,0,g,0,g,32,g
+170,long john silvers,silvers tea sweetened large,0,g,0,mg,40,g,108,g,0,g,0,g,0,g,0,g,108,g
+171,long john silvers,silvers tea sweetened medium,0,g,0,mg,35,g,87,g,0,g,0,g,0,g,0,g,87,g
+172,long john silvers,silvers tea sweetened small,0,g,0,mg,20,g,54,g,0,g,0,g,0,g,0,g,54,g
+173,long john silvers,silvers tea unsweetened kids,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+174,long john silvers,silvers tea unsweetened large,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+175,long john silvers,silvers tea unsweetened medium,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+176,long john silvers,silvers tea unsweetened small,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+177,long john silvers,southwest battered fish taco,21,g,35,mg,1280,g,41,g,13,g,4,g,0,g,5,g,7,g
+178,long john silvers,southwest grilled salmon rice bowl,15,g,20,mg,1230,g,45,g,26,g,3,g,0,g,3,g,11,g
+179,long john silvers,southwest grilled salmon taco,9,g,15,mg,590,g,23,g,13,g,2,g,0,g,2,g,8,g
+180,long john silvers,southwest grilled shrimp rice bowl,16,g,70,mg,1580,g,48,g,20,g,3,g,0,g,3,g,13,g
+181,long john silvers,southwest grilled shrimp taco,10,g,75,mg,770,g,21,g,12,g,2,g,0,g,2,g,8,g
+182,long john silvers,strawberry swirl cheesecake,17,g,60,mg,250,g,35,g,7,g,10,g,1,g,1,g,23,g
+183,long john silvers,sweet and sour sauce,0,g,0,mg,120,g,12,g,0,g,0,g,0,g,0,g,7,g
+184,long john silvers,sweet and zesty asian sauce,0,g,0,mg,220,g,11,g,0,g,0,g,0,g,0,g,10,g
+185,long john silvers,sweet chili battered fish taco,21,g,35,mg,1260,g,42,g,13,g,4,g,0,g,4,g,7,g
+186,long john silvers,sweet chili grilled salmon bowl,9,g,25,mg,1340,g,48,g,26,g,2,g,0,g,2,g,18,g
+187,long john silvers,sweet chili grilled salmon taco,5,g,20,mg,630,g,22,g,16,g,1,g,0,g,2,g,9,g
+188,long john silvers,sweet chili grilled shrimp rice bowl,11,g,85,mg,1790,g,51,g,21,g,2,g,0,g,2,g,18,g
+189,long john silvers,sweet chili grilled shrimp taco,6,g,60,mg,870,g,26,g,11,g,1,g,0,g,2,g,9,g
+190,long john silvers,tartar sauce,4,g,5,mg,110,g,3,g,0,g,1,g,0,g,0,g,2,g
+191,long john silvers,tropicana fruit punch kids,0,g,0,mg,35,g,45,g,0,g,0,g,0,g,0,g,45,g
+192,long john silvers,tropicana fruit punch large,0,g,0,mg,125,g,150,g,0,g,0,g,0,g,0,g,150,g
+193,long john silvers,tropicana fruit punch medium,0,g,0,mg,100,g,120,g,0,g,0,g,0,g,0,g,120,g
+194,long john silvers,tropicana fruit punch small,0,g,0,mg,60,g,75,g,0,g,0,g,0,g,0,g,75,g
+195,long john silvers,tropicana lemonade kids,0,g,0,mg,160,g,41,g,0,g,0,g,0,g,0,g,41,g
+196,long john silvers,tropicana lemonade large,0,g,0,mg,530,g,135,g,0,g,0,g,0,g,0,g,135,g
+197,long john silvers,tropicana lemonade medium,0,g,0,mg,420,g,108,g,0,g,0,g,0,g,0,g,108,g
+198,long john silvers,tropicana lemonade small,0,g,0,mg,270,g,68,g,0,g,0,g,0,g,0,g,68,g
+199,long john silvers,tropicana twister orange kids,0,g,0,mg,40,g,47,g,0,g,0,g,0,g,0,g,45,g
+200,long john silvers,tropicana twister orange large,0,g,0,mg,125,g,155,g,0,g,0,g,0,g,0,g,150,g
+201,long john silvers,tropicana twister orange medium,0,g,0,mg,100,g,124,g,0,g,0,g,0,g,0,g,120,g
+202,long john silvers,tropicana twister orange small,0,g,0,mg,65,g,78,g,0,g,0,g,0,g,0,g,75,g
+203,long john silvers,wild cherry pepsi kids,0,g,0,mg,30,g,42,g,0,g,0,g,0,g,0,g,42,g
+204,long john silvers,wild cherry pepsi large,0,g,0,mg,100,g,140,g,0,g,0,g,0,g,0,g,140,g
+205,long john silvers,wild cherry pepsi medium,0,g,0,mg,80,g,112,g,0,g,0,g,0,g,0,g,112,g
+206,long john silvers,wild cherry pepsi small,0,g,0,mg,50,g,70,g,0,g,0,g,0,g,0,g,70,g
+207,www.menuwithnutrition.com,long john silvers menu,,,,,,,,,,,,,,,,,,
+208,longhorn steakhouse,wild west shrimp without dressing,62,g,290,mg,3740,g,65,g,39,g,17,g,0.5,g,6,g,2,g
+209,longhorn steakhouse,roasted white cheddar stuffed mushrooms,50,g,130,mg,1310,g,12,g,27,g,30,g,2,g,1,g,3,g
+210,longhorn steakhouse,firecracker chicken wraps without sauce,42,g,75,mg,2130,g,62,g,28,g,16,g,0.5,g,6,g,10,g
+211,longhorn steakhouse,seasoned steakhouse wings without dressing,28,g,245,mg,1030,g,0,g,53,g,7,g,0,g,0.5,g,0,g
+212,longhorn steakhouse,spicy chicken bites without sauce large,49,g,140,mg,1780,g,66,g,54,g,9,g,0,g,0,g,21,g
+213,longhorn steakhouse,texas tonion without sauce,69,g,0,mg,2720,g,126,g,15,g,12,g,0,g,9,g,9,g
+214,longhorn steakhouse,texas brisket queso without fries,89,g,20,mg,2560,g,19,g,50,g,49,g,3,g,1,g,8,g
+215,longhorn steakhouse,fried pickle,44,g,5,mg,3930,g,65,g,11,g,8,g,0,g,10,g,10,g
+216,longhorn steakhouse,surf and turf dip,60,g,275,mg,2430,g,12,g,35,g,28,g,0.5,g,1,g,1,g
+217,longhorn steakhouse,flatbread,49,g,5,mg,1750,g,99,g,19,g,9,g,0,g,5,g,7,g
+218,longhorn steakhouse,spicy chicken bites without sauce small,30,g,85,mg,1070,g,39,g,33,g,5,g,0,g,0,g,12,g
+219,longhorn steakhouse,butcher board without mustard or pickles,71,g,140,mg,2780,g,17,g,49,g,30,g,1,g,2,g,3,g
+220,longhorn steakhouse,butter for bread,13,g,35,mg,80,g,0,g,0,g,8,g,0,g,0,g,0,g
+221,longhorn steakhouse,buffalo sauce for seasoned steakhouse wings,8,g,10,mg,1280,g,3,g,0,g,1.5,g,0,g,0,g,0,g
+222,longhorn steakhouse,sweet chili ginger sauce small,16,g,15,mg,340,g,16,g,0.5,g,2.5,g,0,g,0,g,15,g
+223,longhorn steakhouse,ranch dressing for appetizers,25,g,20,mg,380,g,2,g,0.5,g,4,g,0,g,0,g,1,g
+224,longhorn steakhouse,garlic butter,26,g,55,mg,230,g,2,g,0.5,g,13,g,1,g,0,g,0,g
+225,longhorn steakhouse,steak addition butter sauce for lobster tail,22,g,0,mg,260,g,2,g,0,g,14,g,1,g,0,g,0,g
+226,longhorn steakhouse,cajun remoulade for buttermilk fried shrimp,21,g,15,mg,480,g,3,g,0,g,3,g,0,g,0,g,0,g
+227,longhorn steakhouse,gravy,9,g,10,mg,660,g,18,g,1,g,5,g,0,g,0,g,2,g
+228,longhorn steakhouse,mustard for appetizers,2.5,g,0,mg,760,g,3,g,2,g,0,g,0,g,0,g,0,g
+229,longhorn steakhouse,dip for texas tonion appetizer,52,g,30,mg,700,g,9,g,0.5,g,8,g,1,g,0,g,8,g
+230,longhorn steakhouse,dip for buttermilk fried shrimp,26,g,15,mg,350,g,5,g,0,g,4,g,0,g,0,g,4,g
+231,longhorn steakhouse,sweet chili ginger sauce large,33,g,30,mg,670,g,32,g,1,g,5,g,0,g,0.5,g,30,g
+232,longhorn steakhouse,pickles for appetizers,0,g,0,mg,630,g,1,g,0,g,0,g,0,g,0,g,1,g
+233,longhorn steakhouse,bleu cheese dressing for seasoned steakhouse wings,17,g,15,mg,390,g,3,g,2,g,3.5,g,0,g,0,g,2,g
+234,longhorn steakhouse,chocolate stampede,132,g,325,mg,1040,g,289,g,28,g,74,g,3.5,g,12,g,191,g
+235,longhorn steakhouse,strawberries and cream shortcake,37,g,150,mg,630,g,74,g,7,g,14,g,0.5,g,2,g,49,g
+236,longhorn steakhouse,molen lava cake,40,g,90,mg,790,g,171,g,13,g,18,g,0.5,g,8,g,123,g
+237,longhorn steakhouse,caramel apple goldrush,71,g,0,mg,930,g,237,g,13,g,25,g,11,g,0,g,0,g
+238,longhorn steakhouse,praline cheesecake,59,g,260,mg,650,g,100,g,13,g,34,g,2,g,2,g,80,g
+239,longhorn steakhouse,chocolate peanut butter jar,26,g,25,mg,380,g,68,g,9,g,14,g,0,g,3,g,47,g
+240,longhorn steakhouse,red white and blue cheesecake,53,g,27,mg,530,g,72,g,13,g,32,g,2.5,g,1,g,60,g
+241,longhorn steakhouse,warm apple and pecan cobber jar,24,g,25,mg,600,g,75,g,5,g,10,g,0,g,2,g,48,g
+242,longhorn steakhouse,gooey butter cake,62,g,245,mg,690,g,156,g,15,g,30,g,1.5,g,1,g,110,g
+243,longhorn steakhouse,key lime pie jar,16,g,60,mg,270,g,89,g,11,g,10,g,0,g,2,g,68,g
+244,longhorn steakhouse,chili cheese fries small,61,g,140,mg,1580,g,72,g,36,g,27,g,1.5,g,7,g,5,g
+245,longhorn steakhouse,chips side for texas brisket queso appetizer,30,g,0,mg,560,g,76,g,8,g,5,g,0,g,7,g,1,g
+246,longhorn steakhouse,chili cheese fries large,122,g,280,mg,3160,g,144,g,72,g,54,g,3,g,14,g,10,g
+247,longhorn steakhouse,kids chicken tenders,14,g,50,mg,450,g,12,g,23,g,2.5,g,0,g,2,g,0,g
+248,longhorn steakhouse,kids cheeseburger,37,g,125,mg,570,g,44,g,42,g,17,g,2,g,2,g,7,g
+249,longhorn steakhouse,kids sirloin steak,11,g,100,mg,240,g,0,g,33,g,4,g,0,g,0,g,0,g
+250,longhorn steakhouse,kids grilled chicken tenders,14,g,50,mg,450,g,12,g,23,g,2.5,g,0,g,2,g,0,g
+251,longhorn steakhouse,kids macaroni and cheese,9,g,15,mg,550,g,45,g,11,g,2.5,g,0,g,2,g,8,g
+252,longhorn steakhouse,kids peanut butter cup smoothie,39,g,95,mg,240,g,76,g,11,g,22,g,0,g,1,g,71,g
+253,longhorn steakhouse,kids banana berry smoothie,0,g,0,mg,5,g,62,g,0.5,g,0,g,0,g,1,g,57,g
+254,longhorn steakhouse,kids fountain drink,0,g,0,mg,35,g,29,g,0,g,0,g,0,g,0,g,29,g
+255,longhorn steakhouse,kids oranges,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,1,g,4,g
+256,longhorn steakhouse,kids 1 milk chug,2.5,g,0,mg,130,g,13,g,9,g,1.5,g,0,g,0,g,0,g
+257,longhorn steakhouse,kids raspberry dream smoothie,6,g,15,mg,30,g,51,g,2,g,4,g,0,g,2,g,45,g
+258,longhorn steakhouse,chicken tenders 6 pieces,22,g,80,mg,680,g,19,g,36,g,4,g,0,g,2,g,0.5,g
+259,longhorn steakhouse,lunch 18 oz outlaw ribeye,79,g,175,mg,1500,g,1,g,84,g,34,g,4,g,0,g,0,g
+260,longhorn steakhouse,lunch flos 6 oz filet,15,g,115,mg,330,g,2,g,37,g,5,g,0.5,g,0,g,0.5,g
+261,longhorn steakhouse,lunch combo crispy buttermilk chicken sandwich,28,g,65,mg,1240,g,43,g,23,g,5,g,0,g,3,g,5,g
+262,longhorn steakhouse,lunch half grilled chicken and strawberry salad with vinaigrette,11,g,55,mg,580,g,28,g,20,g,2.5,g,0,g,4,g,22,g
+263,longhorn steakhouse,lunch steak tips,27,g,150,mg,1590,g,15,g,53,g,9,g,1,g,0,g,10,g
+264,longhorn steakhouse,buttermilk fried shrimp 8,31,g,190,mg,2070,g,33,g,25,g,6,g,0,g,2,g,2,g
+265,longhorn steakhouse,chicken tenders 9 pieces,33,g,120,mg,1030,g,28,g,53,g,6,g,0,g,4,g,0.5,g
+266,longhorn steakhouse,lunch renegade 8oz sirloin,16,g,125,mg,670,g,2,g,51,g,6,g,1,g,0,g,0,g
+267,longhorn steakhouse,lunch combo grilled chicken sandwich,23,g,75,mg,840,g,33,g,26,g,8,g,0,g,1,g,4,g
+268,longhorn steakhouse,lunch combo half 7 pepper sirloin salad,13,g,65,mg,560,g,11,g,23,g,6,g,0.5,g,2,g,2,g
+269,longhorn steakhouse,lunch grilled chicken sandwich,25,g,120,mg,1230,g,44,g,45,g,8,g,0,g,2,g,5,g
+270,longhorn steakhouse,lunch flos 8 oz filet,18,g,150,mg,430,g,3,g,50,g,6,g,0.5,g,0,g,0.5,g
+271,longhorn steakhouse,lunch steakhouse burger,35,g,145,mg,880,g,43,g,48,g,15,g,2,g,3,g,5,g
+272,longhorn steakhouse,lunch combo half shaved prime rib sandwith,23,g,75,mg,980,g,44,g,35,g,11,g,1,g,2,g,4,g
+273,longhorn steakhouse,lunch chicken fried chicken,20,g,100,mg,1170,g,21,g,35,g,4,g,0,g,2,g,1,g
+274,longhorn steakhouse,lunch bbq bacon cheddar burger,59,g,170,mg,1680,g,62,g,56,g,26,g,2.5,g,2,g,19,g
+275,longhorn steakhouse,lunch combo half chicken caesar salad with dressing,21,g,60,mg,880,g,12,g,23,g,6,g,0,g,0,g,1,g
+276,longhorn steakhouse,lunch chicken fried steak,26,g,75,mg,760,g,24,g,30,g,6,g,0,g,3,g,2,g
+277,longhorn steakhouse,lunch combo third pound cheeseburger,28,g,115,mg,740,g,32,g,37,g,13,g,1.5,g,2,g,4,g
+278,longhorn steakhouse,lunch combo third pound bacon cheddar burger,40,g,140,mg,990,g,33,g,43,g,17,g,1.5,g,2,g,4,g
+279,longhorn steakhouse,lunch combo longhorn chili,20,g,75,mg,1400,g,15,g,26,g,8,g,1,g,6,g,3,g
+280,longhorn steakhouse,lunch combo third pound mushroom swiss burger,52,g,150,mg,1190,g,34,g,42,g,17,g,2,g,1,g,3,g
+281,longhorn steakhouse,lunch nolan ryan beef chicken fried steak,26,g,75,mg,760,g,24,g,30,g,6,g,0,g,0,g,2,g
+282,longhorn steakhouse,steak additions lobster tail,3,g,110,mg,590,g,0,g,14,g,1.5,g,0,g,0,g,0,g
+283,longhorn steakhouse,steak additions sauteed mushrooms,12,g,30,mg,480,g,9,g,6,g,8,g,0,g,3,g,6,g
+284,longhorn steakhouse,steak additions parmesan cheese crust,30,g,65,mg,1020,g,12,g,17,g,13,g,0.5,g,2,g,2,g
+285,longhorn steakhouse,steak additions sauteed mushrooms and onions,14,g,25,mg,630,g,14,g,4,g,6,g,0,g,4,g,9,g
+286,longhorn steakhouse,steak additions grilled shrimp,1.5,g,115,mg,480,g,1,g,15,g,1,g,0,g,0,g,0,g
+287,longhorn steakhouse,steak additions grilled onions,17,g,20,mg,790,g,19,g,3,g,5,g,0,g,5,g,12,g
+288,longhorn steakhouse,french garlic bread,7,g,15,mg,200,g,15,g,3,g,3.5,g,0,g,0,g,0,g
+289,longhorn steakhouse,cheese,6,g,20,mg,140,g,0.5,g,5,g,4,g,0,g,0,g,0,g
+290,longhorn steakhouse,add on bacon strip,12,g,25,mg,250,g,0,g,7,g,4.5,g,0,g,0,g,0,g
+291,longhorn steakhouse,renegade 6 oz sirloin and lobster topped mac and cheese,61,g,395,mg,2790,g,51,g,85,g,28,g,2,g,4,g,0.5,g
+292,longhorn steakhouse,parmesan crusted chicken 9 oz,36,g,205,mg,1860,g,12,g,68,g,15,g,0.5,g,2,g,2,g
+293,longhorn steakhouse,dinner grilled lamb chops,62,g,205,mg,1420,g,41,g,51,g,30,g,2.5,g,1,g,4,g
+294,longhorn steakhouse,baby back ribs half rack,56,g,255,mg,740,g,16,g,62,g,21,g,0,g,1,g,15,g
+295,longhorn steakhouse,lunch dinner 12 oz ribeye,54,g,205,mg,670,g,4,g,66,g,22,g,3,g,0,g,0,g
+296,longhorn steakhouse,new york strip kansas city strip 12 oz,33,g,175,mg,1740,g,1,g,72,g,13,g,2,g,1,g,0.5,g
+297,longhorn steakhouse,dinner cowboy pork chops,32,g,185,mg,2460,g,0,g,87,g,12,g,0,g,0,g,0,g
+298,longhorn steakhouse,chop steak,45,g,135,mg,1100,g,17,g,47,g,15,g,2.5,g,3,g,5,g
+299,longhorn steakhouse,parmesan crusted chicken 12 oz,69,g,320,mg,3160,g,24,g,102,g,28,g,1.5,g,4,g,3,g
+300,longhorn steakhouse,fire grilled t bone steak 18 oz,62,g,285,mg,2030,g,1,g,123,g,24,g,4.5,g,2,g,1,g
+301,longhorn steakhouse,the 22 oz longhorn steak,67,g,365,mg,2450,g,1,g,150,g,27,g,5,g,2,g,1,g
+302,longhorn steakhouse,dinner renegade sirloin 6 oz with redrock grilled shrimp,18,g,320,mg,1490,g,4,g,66,g,7,g,1,g,0.5,g,0.5,g
+303,longhorn steakhouse,dinner prime rib 12 oz,84,g,245,mg,1730,g,1,g,69,g,41,g,6,g,2,g,0.5,g
+304,longhorn steakhouse,baby back ribs full rack,112,g,510,mg,1490,g,32,g,123,g,42,g,0.5,g,2,g,31,g
+305,longhorn steakhouse,dinner renegade sirloin 6 oz with parmesan crusted chicken,49,g,255,mg,2120,g,14,g,86,g,19,g,1.5,g,2,g,2,g
+306,longhorn steakhouse,churrasco steak with plantains,52,g,150,mg,670,g,47,g,49,g,12,g,1,g,5,g,31,g
+307,longhorn steakhouse,dinner prime rib 16 oz,111,g,325,mg,2090,g,1,g,91,g,54,g,7,g,2,g,1,g
+308,longhorn steakhouse,dinner steak tips,34,g,200,mg,1740,g,15,g,64,g,12,g,1.5,g,0,g,11,g
+309,longhorn steakhouse,dinner flos filet 6 oz with salmon,31,g,205,mg,640,g,4,g,70,g,8,g,0.5,g,0,g,2,g
+310,longhorn steakhouse,farmers market chicken 6 oz,8,g,100,mg,1010,g,5,g,37,g,1.5,g,0,g,1,g,2,g
+311,longhorn steakhouse,dinner renegade sirloin 8 oz with rdrock grilled shrimp,19,g,355,mg,1630,g,4,g,81,g,7,g,1,g,0.5,g,0.5,g
+312,longhorn steakhouse,dinner flos filet 6 oz with half rack baby back ribs,71,g,370,mg,1080,g,18,g,99,g,26,g,1,g,1,g,16,g
+313,longhorn steakhouse,dinner buttermilk fried shrimp 12,47,g,285,mg,3110,g,49,g,37,g,10,g,0,g,3,g,2,g
+314,longhorn steakhouse,prime delmonico 16 oz,73,g,230,mg,1690,g,3,g,88,g,30,g,4,g,2,g,0.5,g
+315,longhorn steakhouse,dinner renegade sirloin 6 oz with half rack baby back ribs,71,g,350,mg,1280,g,19,g,97,g,26,g,1,g,1,g,15,g
+316,longhorn steakhouse,loaded chili baked potato,29,g,90,mg,2780,g,68,g,21,g,16,g,1,g,7,g,8,g
+317,longhorn steakhouse,dinner nolan ryan beef chicken fried steak,51,g,150,mg,1530,g,48,g,60,g,11,g,0.5,g,0,g,3,g
+318,longhorn steakhouse,gumbo bowl,12,g,40,mg,1650,g,21,g,7,g,1.5,g,0,g,0,g,6,g
+319,longhorn steakhouse,dinner chicken fried steak,51,g,150,mg,1530,g,49,g,60,g,11,g,0.5,g,0,g,3,g
+320,longhorn steakhouse,dinner 9 oz farmers market chicken,14,g,150,mg,1750,g,10,g,57,g,2.5,g,0,g,2,g,4,g
+321,longhorn steakhouse,gumbo cup,10,g,30,mg,1300,g,18,g,6,g,1.5,g,0,g,0,g,2,g
+322,longhorn steakhouse,raspberry vinaigrette,0.5,g,0,mg,220,g,14,g,0,g,0,g,0,g,0,g,12,g
+323,longhorn steakhouse,ranch dressing,25,g,20,mg,380,g,2,g,0.5,g,4,g,0,g,0,g,1,g
+324,longhorn steakhouse,blue cheese dressing,17,g,15,mg,390,g,3,g,2,g,3.5,g,0,g,0,g,2,g
+325,longhorn steakhouse,honey mustard dressing,23,g,25,mg,200,g,8,g,0,g,3,g,0,g,0,g,6,g
+326,longhorn steakhouse,balsamic vinaigrette,22,g,0,mg,360,g,2,g,0,g,3,g,0,g,0,g,2,g
+327,longhorn steakhouse,italian dressing,9,g,0,mg,700,g,5,g,0,g,1.5,g,0,g,0,g,4,g
+328,longhorn steakhouse,thousand island dressing,18,g,15,mg,360,g,5,g,0,g,3,g,0,g,0,g,5,g
+329,longhorn steakhouse,white balsamic vinaigrettte,20,g,0,mg,240,g,6,g,0,g,1.5,g,0,g,0,g,5,g
+330,longhorn steakhouse,green goddess dressing,9,g,5,mg,180,g,2,g,1,g,1,g,0,g,0,g,1,g
+331,longhorn steakhouse,grilled chicken and strawberry salad with vinaigrette,19,g,125,mg,1310,g,52,g,43,g,7,g,0,g,7,g,41,g
+332,longhorn steakhouse,7 pepper sirloin salad without dressing,26,g,15,mg,1120,g,22,g,45,g,12,g,1,g,5,g,5,g
+333,longhorn steakhouse,strawberry and pecan side salad with dressing,8,g,10,mg,300,g,28,g,4,g,2,g,0,g,4,g,22,g
+334,longhorn steakhouse,mixed green side salad without dressing,4.5,g,5,mg,170,g,12,g,4,g,1.5,g,0,g,2,g,4,g
+335,longhorn steakhouse,longhorn caesar salad with chicken and dressing,43,g,130,mg,1760,g,24,g,46,g,11,g,1,g,0,g,2,g
+336,longhorn steakhouse,grilled salmon and mixed green salad without dressing,29,g,115,mg,710,g,23,g,43,g,9,g,1,g,5,g,7,g
+337,longhorn steakhouse,caesar side salad with caesar dressing,19,g,15,mg,600,g,12,g,6,g,5,g,0,g,2,g,1,g
+338,longhorn steakhouse,farm fresh field greens salad with grilled chicken without dressing,17,g,115,mg,970,g,21,g,44,g,7,g,1,g,5,g,6,g
+339,longhorn steakhouse,grilled salmon caesar salad without dressing,55,g,125,mg,1510,g,26,g,45,g,13,g,1,g,0,g,3,g
+340,longhorn steakhouse,crispy buttermilk chicken tenders salad without dressing,35,g,105,mg,1090,g,41,g,46,g,10,g,1,g,7,g,6,g
+341,longhorn steakhouse,longhorn caesar salad with sirloin and dressing,50,g,135,mg,1660,g,24,g,45,g,14,g,1.5,g,0,g,2,g
+342,longhorn steakhouse,blue ridge wedge salad without dressing,46,g,70,mg,1120,g,14,g,15,g,14,g,0.5,g,4,g,6,g
+343,longhorn steakhouse,farm fresh field greens salad with sirloin without dressing,24,g,125,mg,860,g,22,g,44,g,10,g,1.5,g,5,g,6,g
+344,longhorn steakhouse,longhorn caesar salad with shrimp and dressing,41,g,265,mg,2080,g,25,g,38,g,10,g,1,g,0,g,3,g
+345,longhorn steakhouse,farm fresh field greens salad with shrimp without dressing,15,g,255,mg,1280,g,23,g,36,g,6,g,1,g,5,g,7,g
+346,longhorn steakhouse,crispy buttermilk chicken cobb salad without dressing,60,g,260,mg,1170,g,37,g,58,g,16,g,0,g,13,g,6,g
+347,longhorn steakhouse,third pound steakhouse burger without cheese or fries,36,g,120,mg,690,g,48,g,42,g,16,g,1.5,g,3,g,8,g
+348,longhorn steakhouse,prime rib cheesesteak sandwich,50,g,140,mg,2420,g,93,g,68,g,24,g,3,g,4,g,10,g
+349,longhorn steakhouse,half pound steakhouse cheeeburger,51,g,165,mg,1150,g,45,g,48,g,15,g,2,g,3,g,5,g
+350,longhorn steakhouse,the longhorn burger,63,g,190,mg,1400,g,46,g,54,g,20,g,2,g,3,g,5,g
+351,longhorn steakhouse,big sky burger,79,g,205,mg,1990,g,55,g,63,g,26,g,3,g,5,g,6,g
+352,longhorn steakhouse,steakhouse bacon cheeseburger,48,g,175,mg,1130,g,43,g,55,g,20,g,2,g,3,g,5,g
+353,longhorn steakhouse,blackened chicken club sandwich,43,g,60,mg,1700,g,46,g,54,g,14,g,0.5,g,3,g,6,g
+354,longhorn steakhouse,shaved prim rib sandwich,46,g,150,mg,1960,g,88,g,69,g,21,g,2,g,4,g,7,g
+355,longhorn steakhouse,crispy buttermilk chicken sandwich,55,g,125,mg,2190,g,66,g,43,g,10,g,0,g,5,g,8,g
+356,longhorn steakhouse,smothered white cheddar mushroom burger,62,g,185,mg,1360,g,49,g,48,g,22,g,1.5,g,4,g,8,g
+357,longhorn steakhouse,mushroom swiss burger,60,g,185,mg,1490,g,47,g,54,g,19,g,2,g,3,g,5,g
+358,longhorn steakhouse,7 pepper sirloin salad,26,g,135,mg,1120,g,22,g,45,g,12,g,1,g,5,g,5,g
+359,longhorn steakhouse,baby back ribs full rack,112,g,510,mg,1490,g,32,g,123,g,42,g,0.5,g,2,g,31,g
+360,longhorn steakhouse,baby back ribs full rack add bbq sauce,0,g,0,mg,470,g,26,g,0,g,0,g,0,g,0,g,23,g
+361,longhorn steakhouse,baby back ribs half rack,56,g,255,mg,740,g,16,g,62,g,21,g,0,g,1,g,15,g
+362,longhorn steakhouse,baby back ribs half rack add bbq sauce,0,g,0,mg,470,g,26,g,0,g,0,g,0,g,0,g,23,g
+363,longhorn steakhouse,bacon,12,g,25,mg,250,g,0,g,7,g,4.5,g,0,g,0,g,0,g
+364,longhorn steakhouse,blue cheese 1 5 oz,17,g,15,mg,390,g,3,g,2,g,3.5,g,0,g,0,g,2,g
+365,longhorn steakhouse,blue cheese 3 oz,34,g,35,mg,770,g,6,g,4,g,7,g,0,g,0,g,3,g
+366,longhorn steakhouse,caesar side salad with caesar dressing,19,g,15,mg,600,g,12,g,6,g,5,g,0,g,2,g,1,g
+367,longhorn steakhouse,caramel apple goldrush,71,g,0,mg,930,g,237,g,13,g,25,g,11,g,0,g,0,g
+368,longhorn steakhouse,cheese,6,g,20,mg,140,g,1,g,5,g,4,g,0,g,0,g,0,g
+369,longhorn steakhouse,chicken fried chicken,39,g,195,mg,2330,g,42,g,70,g,8,g,0,g,4,g,3,g
+370,longhorn steakhouse,chicken fried chicken add gravy,9,g,10,mg,660,g,18,g,1,g,5,g,0,g,0,g,2,g
+371,longhorn steakhouse,chicken fried chicken add mashed potatoes,19,g,40,mg,790,g,37,g,5,g,10,g,0,g,4,g,2,g
+372,longhorn steakhouse,chicken fried steak,51,g,150,mg,1530,g,48,g,60,g,11,g,0.5,g,0,g,3,g
+373,longhorn steakhouse,chicken fried steak add gravy,9,g,10,mg,660,g,18,g,1,g,5,g,0,g,0,g,2,g
+374,longhorn steakhouse,chicken fried steak add mashed potatoes,19,g,40,mg,790,g,37,g,5,g,10,g,0,g,4,g,2,g
+375,longhorn steakhouse,chocolate milk,3.5,g,15,mg,170,g,38,g,10,g,2,g,0,g,0,g,37,g
+376,longhorn steakhouse,chocolate stampede,132,g,325,mg,1040,g,289,g,28,g,74,g,3.5,g,12,g,191,g
+377,longhorn steakhouse,chop steak,41,g,135,mg,860,g,9,g,42,g,18,g,2.5,g,3,g,6,g
+378,longhorn steakhouse,cider bottle,0,g,0,mg,15,g,21,g,0,g,0,g,0,g,0,g,21,g
+379,longhorn steakhouse,cider draft 16 oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+380,longhorn steakhouse,cider draft 20 oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+381,longhorn steakhouse,coffee,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+382,longhorn steakhouse,coke,0,g,0,mg,45,g,39,g,0,g,0,g,0,g,0,g,39,g
+383,longhorn steakhouse,cowboy pork chops,32,g,185,mg,2460,g,0,g,87,g,12,g,0,g,0,g,0,g
+384,longhorn steakhouse,cranberry juice,0,g,0,mg,35,g,30,g,0,g,0,g,0,g,0,g,30,g
+385,longhorn steakhouse,crispy brussels sprouts,23,g,35,mg,590,g,27,g,5,g,9,g,0,g,5,g,17,g
+386,longhorn steakhouse,crispy buttermilk chicken cobb salad,60,g,260,mg,1170,g,37,g,58,g,16,g,0,g,13,g,6,g
+387,longhorn steakhouse,diet coke or coke zero sugar,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+388,longhorn steakhouse,dr pepper,0,g,0,mg,35,g,27,g,0,g,0,g,0,g,0,g,27,g
+389,longhorn steakhouse,farm fresh field greens with crispy chicken tenders,35,g,105,mg,1090,g,41,g,46,g,10,g,1,g,7,g,6,g
+390,longhorn steakhouse,farm fresh field greens with salmon,29,g,115,mg,710,g,23,g,43,g,9,g,1,g,5,g,7,g
+391,longhorn steakhouse,fire grilled t bone 18 oz,62,g,285,mg,2030,g,1,g,123,g,24,g,4.5,g,2,g,1,g
+392,longhorn steakhouse,firecracker chicken wraps,42,g,70,mg,2120,g,62,g,28,g,15,g,0,g,0,g,0,g
+393,longhorn steakhouse,firecracker chicken wraps add avocado lime sauce,23,g,15,mg,450,g,3,g,1,g,3.5,g,0,g,1,g,2,g
+394,longhorn steakhouse,flos filet 6 oz,15,g,115,mg,330,g,2,g,37,g,5,g,0.5,g,0,g,1,g
+395,longhorn steakhouse,flos filet 6 oz with lobster tail,18,g,225,mg,920,g,2,g,51,g,7,g,0.5,g,0,g,1,g
+396,longhorn steakhouse,flos filet 6 oz with lobster tail add butter sauce,22,g,0,mg,260,g,2,g,0,g,14,g,1,g,0,g,0,g
+397,longhorn steakhouse,flos filet 9 oz,19,g,170,mg,480,g,3,g,56,g,7,g,1,g,0,g,1,g
+398,longhorn steakhouse,fresh steamed asparagus,7,g,5,mg,15,g,9,g,8,g,1.5,g,0,g,5,g,3,g
+399,longhorn steakhouse,fresh steamed broccoli,4,g,0,mg,125,g,7,g,4,g,1,g,0,g,4,g,3,g
+400,longhorn steakhouse,fried okra,19,g,0,mg,690,g,28,g,5,g,3.5,g,0,g,5,g,4,g
+401,longhorn steakhouse,fried pickles,44,g,5,mg,3930,g,65,g,11,g,8,g,0,g,10,g,10,g
+402,longhorn steakhouse,fried pickles add ranch dressing,25,g,20,mg,380,g,2,g,1,g,4,g,0,g,0,g,1,g
+403,longhorn steakhouse,grilled chicken and strawberry salad with vinaigrette,19,g,125,mg,1310,g,52,g,43,g,7,g,0,g,7,g,41,g
+404,longhorn steakhouse,grilled mushrooms only,12,g,30,mg,480,g,9,g,6,g,8,g,0,g,3,g,6,g
+405,longhorn steakhouse,grilled shrimp,1.5,g,115,mg,480,g,1,g,15,g,1,g,0,g,0,g,0,g
+406,longhorn steakhouse,grilled shrimp add garlic butter,26,g,55,mg,230,g,2,g,1,g,13,g,1,g,0,g,0,g
+407,longhorn steakhouse,grilled shrimp add rice,6,g,0,mg,1120,g,41,g,3,g,2,g,0,g,1,g,4,g
+408,longhorn steakhouse,hand breaded chicken tenders 6 tenders,22,g,80,mg,680,g,19,g,36,g,4,g,0,g,2,g,1,g
+409,longhorn steakhouse,hand breaded chicken tenders 6 tenders add honey mustard,23,g,25,mg,200,g,8,g,0,g,3,g,0,g,0,g,6,g
+410,longhorn steakhouse,hand breaded chicken tenders 9 tenders,33,g,120,mg,1030,g,28,g,53,g,6,g,0,g,4,g,1,g
+411,longhorn steakhouse,hand breaded chicken tenders 9 tenders add honey mustard,23,g,25,mg,200,g,8,g,0,g,3,g,0,g,0,g,6,g
+412,longhorn steakhouse,honey mustard 1 5 oz,23,g,25,mg,200,g,8,g,0,g,3,g,0,g,0,g,6,g
+413,longhorn steakhouse,honey mustard 3 oz,45,g,45,mg,410,g,15,g,0,g,6,g,0,g,0,g,12,g
+414,longhorn steakhouse,honey wheat bread full loaf,7,g,0,mg,920,g,88,g,16,g,1,g,0,g,2,g,8,g
+415,longhorn steakhouse,honey wheat bread full loaf add add butter,13,g,35,mg,80,g,0,g,0,g,8,g,0,g,0,g,0,g
+416,longhorn steakhouse,hurricane margarita,0,g,0,mg,10,g,26,g,0,g,0,g,0,g,0,g,24,g
+417,longhorn steakhouse,ipa bottle,0,g,0,mg,15,g,1,g,3,g,0,g,0,g,0,g,0,g
+418,longhorn steakhouse,ipa draft 16 oz,0,g,0,mg,20,g,1,g,4,g,0,g,0,g,0,g,0,g
+419,longhorn steakhouse,ipa draft 20 oz,0,g,0,mg,25,g,2,g,5,g,0,g,0,g,0,g,0,g
+420,longhorn steakhouse,jack and coke,0,g,0,mg,15,g,13,g,0,g,0,g,0,g,0,g,13,g
+421,longhorn steakhouse,kids 1 milk chug,2.5,g,15,mg,130,g,13,g,9,g,1.5,g,0,g,0,g,12,g
+422,longhorn steakhouse,kids cheeseburger,36,g,150,mg,760,g,40,g,47,g,16,g,2,g,2,g,3,g
+423,longhorn steakhouse,kids chicken tenders,14,g,50,mg,450,g,12,g,23,g,2.5,g,0,g,2,g,0,g
+424,longhorn steakhouse,kids fountain drink,0,g,0,mg,35,g,29,g,0,g,0,g,0,g,0,g,29,g
+425,longhorn steakhouse,kids fresh fruit,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,1,g,4,g
+426,longhorn steakhouse,kids grilled chicken tenders,3.5,g,75,mg,440,g,0,g,26,g,1,g,0,g,0,g,0,g
+427,longhorn steakhouse,kids seasoned french fries,19,g,0,mg,240,g,62,g,5,g,3,g,0,g,6,g,0,g
+428,longhorn steakhouse,kids sirloin steak,11,g,100,mg,240,g,0,g,33,g,4,g,0,g,0,g,0,g
+429,longhorn steakhouse,kraft macaroni and cheese,9,g,15,mg,550,g,45,g,11,g,2.5,g,0,g,2,g,8,g
+430,longhorn steakhouse,light draft beer 16 oz,0,g,0,mg,20,g,8,g,0,g,0,g,0,g,0,g,0,g
+431,longhorn steakhouse,light draft beer 20 oz,0,g,0,mg,25,g,10,g,1,g,0,g,0,g,0,g,1,g
+432,longhorn steakhouse,light draft bottle beer 12 oz,0,g,0,mg,15,g,6,g,0,g,0,g,0,g,0,g,0,g
+433,longhorn steakhouse,loaded idaho baked potato,20,g,55,mg,2570,g,65,g,11,g,12,g,0,g,6,g,4,g
+434,longhorn steakhouse,loaded potato soup bowl,27,g,65,mg,970,g,21,g,15,g,13,g,0.5,g,2,g,2,g
+435,longhorn steakhouse,loaded potato soup cup,19,g,45,mg,670,g,16,g,10,g,9,g,0,g,2,g,2,g
+436,longhorn steakhouse,lobster tail,3,g,110,mg,590,g,0,g,14,g,1.5,g,0,g,0,g,0,g
+437,longhorn steakhouse,lobster tail add butter sauce,22,g,0,mg,260,g,2,g,0,g,14,g,1,g,0,g,0,g
+438,longhorn steakhouse,longhorn caesar salad with chicken,43,g,130,mg,1760,g,24,g,46,g,11,g,1,g,0,g,2,g
+439,longhorn steakhouse,longhorn caesar salad with salmon,55,g,125,mg,1510,g,26,g,45,g,13,g,1,g,0,g,3,g
+440,longhorn steakhouse,longhorn churrasco steak with plantains,52,g,150,mg,670,g,47,g,49,g,12,g,1,g,5,g,31,g
+441,longhorn steakhouse,longhorn old fashioned with longhorn barrel select knob creek bourbon,0,g,0,mg,0,g,19,g,0,g,0,g,0,g,0,g,19,g
+442,longhorn steakhouse,longhorn salmon 10 oz,23,g,130,mg,440,g,3,g,47,g,4,g,0,g,0,g,2,g
+443,longhorn steakhouse,longhorn salmon 10 oz add rice,6,g,0,mg,1120,g,41,g,3,g,2,g,0,g,1,g,4,g
+444,longhorn steakhouse,longhorn salmon 7 oz,16,g,90,mg,310,g,2,g,33,g,3,g,0,g,0,g,1,g
+445,longhorn steakhouse,longhorn salmon 7 oz add rice,6,g,0,mg,1120,g,41,g,3,g,2,g,0,g,1,g,4,g
+446,longhorn steakhouse,longhorn steak tips,34,g,200,mg,1740,g,15,g,64,g,12,g,1.5,g,0,g,11,g
+447,longhorn steakhouse,lunch 7 pepper sirloin lunch salad,13,g,65,mg,560,g,11,g,23,g,6,g,0.5,g,2,g,2,g
+448,longhorn steakhouse,lunch baby back ribs full rack,112,g,510,mg,1490,g,32,g,123,g,42,g,0.5,g,2,g,31,g
+449,longhorn steakhouse,lunch baby back ribs full rack add bbq sauce,0,g,0,mg,470,g,26,g,0,g,0,g,0,g,0,g,23,g
+450,longhorn steakhouse,lunch baby back ribs half rack,56,g,255,mg,740,g,16,g,62,g,21,g,0,g,1,g,15,g
+451,longhorn steakhouse,lunch baby back ribs half rack add bbq sauce,0,g,0,mg,470,g,26,g,0,g,0,g,0,g,0,g,23,g
+452,longhorn steakhouse,lunch chicken fried chicken,20,g,100,mg,1170,g,21,g,35,g,4,g,0,g,2,g,1,g
+453,longhorn steakhouse,lunch chicken fried chicken add gravy,9,g,10,mg,660,g,18,g,1,g,5,g,0,g,0,g,2,g
+454,longhorn steakhouse,lunch chicken fried chicken add mashed potatoes,19,g,40,mg,790,g,37,g,5,g,10,g,0,g,4,g,2,g
+455,longhorn steakhouse,lunch chicken fried steak,26,g,75,mg,760,g,24,g,30,g,6,g,0,g,0,g,2,g
+456,longhorn steakhouse,lunch chicken fried steak add gravy,9,g,10,mg,660,g,18,g,1,g,5,g,0,g,0,g,2,g
+457,longhorn steakhouse,lunch chicken fried steak add mashed potatoes,19,g,40,mg,790,g,37,g,5,g,10,g,0,g,4,g,2,g
+458,longhorn steakhouse,lunch chop steak,45,g,135,mg,1100,g,17,g,47,g,15,g,2.5,g,3,g,5,g
+459,longhorn steakhouse,lunch crispy buttermilk chicken sandwich,55,g,125,mg,2190,g,66,g,43,g,10,g,0,g,5,g,8,g
+460,longhorn steakhouse,lunch fire grilled t bone 18 oz,62,g,285,mg,2030,g,1,g,123,g,24,g,4.5,g,2,g,1,g
+461,longhorn steakhouse,lunch flos filet 6 oz,15,g,115,mg,330,g,2,g,37,g,5,g,0.5,g,0,g,1,g
+462,longhorn steakhouse,lunch flos filet 9 oz,19,g,170,mg,480,g,3,g,56,g,7,g,1,g,0,g,1,g
+463,longhorn steakhouse,lunch grilled chicken and strawberry lunch salad with vinaigrette,11,g,55,mg,580,g,28,g,20,g,2.5,g,0,g,4,g,22,g
+464,longhorn steakhouse,lunch half pound steakhouse cheeseburger,51,g,165,mg,1150,g,45,g,48,g,15,g,2,g,3,g,5,g
+465,longhorn steakhouse,lunch hand breaded chicken tenders 6 tenders,22,g,80,mg,680,g,19,g,36,g,4,g,0,g,2,g,1,g
+466,longhorn steakhouse,lunch hand breaded chicken tenders 6 tenders add honey mustard,23,g,25,mg,200,g,8,g,0,g,3,g,0,g,0,g,6,g
+467,longhorn steakhouse,lunch hand breaded chicken tenders 6 tenders add seasoned french fries,19,g,0,mg,240,g,62,g,5,g,3,g,0,g,6,g,0,g
+468,longhorn steakhouse,lunch hand breaded chicken tenders 9 tenders,33,g,120,mg,1030,g,28,g,53,g,6,g,0,g,4,g,1,g
+469,longhorn steakhouse,lunch hand breaded chicken tenders 9 tenders add honey mustard,23,g,25,mg,200,g,8,g,0,g,3,g,0,g,0,g,6,g
+470,longhorn steakhouse,lunch hand breaded chicken tenders 9 tenders add seasoned french fries,19,g,0,mg,240,g,62,g,5,g,3,g,0,g,6,g,0,g
+471,longhorn steakhouse,lunch loaded potato soup,27,g,65,mg,970,g,21,g,15,g,13,g,0.5,g,2,g,2,g
+472,longhorn steakhouse,lunch longhorn churrasco steak with plantains,52,g,150,mg,670,g,47,g,49,g,12,g,1,g,5,g,31,g
+473,longhorn steakhouse,lunch longhorn salmon 7 oz,16,g,90,mg,310,g,2,g,33,g,3,g,0,g,0,g,1,g
+474,longhorn steakhouse,lunch longhorn salmon 7 oz add rice,6,g,0,mg,1120,g,41,g,3,g,2,g,0,g,1,g,4,g
+475,longhorn steakhouse,lunch longhorn steak tips,27,g,150,mg,1590,g,15,g,53,g,9,g,1,g,0,g,10,g
+476,longhorn steakhouse,lunch maverick ribeye sandwich,62,g,200,mg,1440,g,60,g,63,g,25,g,1.5,g,1,g,2,g
+477,longhorn steakhouse,lunch new york strip kansas city strip 12 oz,33,g,175,mg,1740,g,1,g,72,g,13,g,2,g,1,g,1,g
+478,longhorn steakhouse,lunch nolan ryan beef chicken fried steak,26,g,75,mg,760,g,24,g,30,g,6,g,0,g,0,g,2,g
+479,longhorn steakhouse,lunch nolan ryan beef chicken fried steak add gravy,9,g,10,mg,660,g,18,g,1,g,5,g,0,g,0,g,2,g
+480,longhorn steakhouse,lunch nolan ryan beef chicken fried steak add mashed potatoes,19,g,40,mg,790,g,37,g,5,g,10,g,0,g,4,g,2,g
+481,longhorn steakhouse,lunch outlaw ribeye 20 oz,87,g,310,mg,1670,g,2,g,94,g,38,g,4.5,g,0,g,0,g
+482,longhorn steakhouse,lunch parmesan crusted chicken 12 oz,69,g,320,mg,3160,g,24,g,102,g,28,g,1.5,g,4,g,3,g
+483,longhorn steakhouse,lunch parmesan crusted chicken 9 oz,36,g,205,mg,1860,g,12,g,68,g,15,g,0.5,g,2,g,2,g
+484,longhorn steakhouse,lunch redrock grilled shrimp 8 piece,3,g,225,mg,960,g,2,g,30,g,1.5,g,0,g,1,g,1,g
+485,longhorn steakhouse,lunch redrock grilled shrimp 8 piece add garlic butter,26,g,55,mg,230,g,2,g,1,g,13,g,1,g,0,g,0,g
+486,longhorn steakhouse,lunch redrock grilled shrimp 8 piece add rice,6,g,0,mg,1120,g,41,g,3,g,2,g,0,g,1,g,4,g
+487,longhorn steakhouse,lunch renegade sirloin 6 oz,15,g,95,mg,530,g,2,g,36,g,5,g,0.5,g,0,g,0,g
+488,longhorn steakhouse,lunch renegade sirloin 8 oz,16,g,125,mg,670,g,2,g,51,g,6,g,1,g,0,g,0,g
+489,longhorn steakhouse,lunch ribeye 12 oz,54,g,205,mg,670,g,4,g,66,g,22,g,3,g,0,g,0,g
+490,longhorn steakhouse,lunch shrimp and lobster chowder,15,g,90,mg,760,g,23,g,10,g,8,g,0,g,3,g,5,g
+491,longhorn steakhouse,lunch the longhorn 22 oz,67,g,365,mg,2450,g,1,g,150,g,27,g,5,g,2,g,1,g
+492,longhorn steakhouse,lunch usda prime delmonico 16 oz,73,g,230,mg,1690,g,3,g,88,g,30,g,4,g,2,g,1,g
+493,longhorn steakhouse,mango longpour margarita,0,g,0,mg,20,g,118,g,0,g,0,g,0,g,0,g,117,g
+494,longhorn steakhouse,mango margarita,0,g,0,mg,10,g,74,g,0,g,0,g,0,g,0,g,74,g
+495,longhorn steakhouse,mashed potatoes,19,g,40,mg,790,g,37,g,5,g,10,g,0,g,4,g,2,g
+496,longhorn steakhouse,mashed potatoes add gravy,9,g,10,mg,660,g,18,g,1,g,5,g,0,g,0,g,2,g
+497,longhorn steakhouse,maverick ribeye sandwich,62,g,200,mg,1440,g,60,g,63,g,25,g,1.5,g,1,g,2,g
+498,longhorn steakhouse,maverick ribeye sandwich add seasoned french fries,19,g,0,mg,240,g,62,g,5,g,3,g,0,g,6,g,0,g
+499,longhorn steakhouse,milk,6,g,25,mg,140,g,15,g,10,g,4,g,0,g,0,g,15,g
+500,longhorn steakhouse,minute maid lemonade,0,g,0,mg,40,g,26,g,0,g,0,g,0,g,0,g,26,g
+501,longhorn steakhouse,mixed greens salad,8,g,15,mg,270,g,13,g,6,g,3,g,0,g,3,g,3,g
+502,longhorn steakhouse,mixed greens salad add egg,2,g,65,mg,20,g,0,g,2,g,0.5,g,0,g,0,g,0,g
+503,longhorn steakhouse,molten lava cake,40,g,90,mg,790,g,171,g,13,g,18,g,0.5,g,8,g,123,g
+504,longhorn steakhouse,new york strip kansas city strip 12 oz,33,g,175,mg,1740,g,1,g,72,g,13,g,2,g,1,g,1,g
+505,longhorn steakhouse,nolan ryan beef chicken fried steak,51,g,150,mg,1530,g,48,g,60,g,11,g,0.5,g,0,g,3,g
+506,longhorn steakhouse,nolan ryan beef chicken fried steak add gravy,9,g,10,mg,660,g,18,g,1,g,5,g,0,g,0,g,2,g
+507,longhorn steakhouse,nolan ryan beef chicken fried steak add mashed potatoes,19,g,40,mg,790,g,37,g,5,g,10,g,0,g,4,g,2,g
+508,longhorn steakhouse,non alcoholic beer,0,g,0,mg,45,g,29,g,1,g,0,g,0,g,0,g,29,g
+509,longhorn steakhouse,orange or apple juice,0,g,0,mg,15,g,27,g,2,g,0,g,0,g,0,g,24,g
+510,longhorn steakhouse,outlaw ribeye 20 oz,87,g,310,mg,1670,g,2,g,94,g,38,g,4.5,g,0,g,0,g
+511,longhorn steakhouse,parmesan cheese crust,30,g,65,mg,1020,g,12,g,17,g,13,g,0.5,g,2,g,2,g
+512,longhorn steakhouse,parmesan crusted chicken 12 oz,69,g,320,mg,3160,g,24,g,102,g,28,g,1.5,g,4,g,3,g
+513,longhorn steakhouse,parmesan crusted chicken 9 oz,36,g,205,mg,1860,g,12,g,68,g,15,g,0.5,g,2,g,2,g
+514,longhorn steakhouse,peach iced tea,0,g,0,mg,10,g,14,g,0,g,0,g,0,g,0,g,12,g
+515,longhorn steakhouse,pibb xtra,0,g,0,mg,40,g,39,g,0,g,0,g,0,g,0,g,39,g
+516,longhorn steakhouse,plain idaho baked potato,2,g,0,mg,2370,g,64,g,8,g,0,g,0,g,6,g,3,g
+517,longhorn steakhouse,plain sweet potato,0,g,0,mg,95,g,55,g,5,g,0,g,0,g,9,g,17,g
+518,longhorn steakhouse,praline cheesecake,59,g,260,mg,650,g,100,g,13,g,34,g,2,g,2,g,80,g
+519,longhorn steakhouse,ranch 1 5 oz,25,g,20,mg,380,g,2,g,1,g,4,g,0,g,0,g,1,g
+520,longhorn steakhouse,ranch 3 oz,49,g,40,mg,750,g,4,g,2,g,8,g,0.5,g,0,g,3,g
+521,longhorn steakhouse,raspberry iced tea,0,g,0,mg,10,g,13,g,0,g,0,g,0,g,0,g,12,g
+522,longhorn steakhouse,raspberry lemonade,0,g,0,mg,0,g,41,g,1,g,0,g,0,g,0,g,39,g
+523,longhorn steakhouse,red wine bottle,0,g,0,mg,0,g,21,g,1,g,0,g,0,g,0,g,0,g
+524,longhorn steakhouse,red wine glass,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,0,g
+525,longhorn steakhouse,red wine longpour,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,0,g
+526,longhorn steakhouse,redrock grilled shrimp 12 piece,4.5,g,340,mg,1440,g,3,g,46,g,2.5,g,0,g,1,g,1,g
+527,longhorn steakhouse,redrock grilled shrimp 12 piece add garlic butter,26,g,55,mg,230,g,2,g,1,g,13,g,1,g,0,g,0,g
+528,longhorn steakhouse,redrock grilled shrimp 12 piece add rice,6,g,0,mg,1120,g,41,g,3,g,2,g,0,g,1,g,4,g
+529,longhorn steakhouse,redrock grilled shrimp 8 piece,3,g,225,mg,960,g,2,g,30,g,1.5,g,0,g,1,g,1,g
+530,longhorn steakhouse,redrock grilled shrimp 8 piece add garlic butter,26,g,55,mg,230,g,2,g,1,g,13,g,1,g,0,g,0,g
+531,longhorn steakhouse,redrock grilled shrimp 8 piece add rice,6,g,0,mg,1120,g,41,g,3,g,2,g,0,g,1,g,4,g
+532,longhorn steakhouse,regular bottle beer 12 oz,0,g,0,mg,15,g,12,g,0,g,0,g,0,g,0,g,0,g
+533,longhorn steakhouse,regular draft beer 16 oz,0,g,0,mg,20,g,16,g,0,g,0,g,0,g,0,g,0,g
+534,longhorn steakhouse,regular draft beer 20 oz,0,g,0,mg,25,g,20,g,0,g,0,g,0,g,0,g,0,g
+535,longhorn steakhouse,renegade sirloin 6 oz,15,g,95,mg,530,g,2,g,36,g,5,g,0.5,g,0,g,0,g
+536,longhorn steakhouse,renegade sirloin 6 oz with redrock grilled shrimp,18,g,320,mg,1490,g,4,g,66,g,7,g,1,g,1,g,1,g
+537,longhorn steakhouse,renegade sirloin 6 oz with redrock grilled shrimp add garlic butter,26,g,55,mg,230,g,2,g,1,g,13,g,1,g,0,g,0,g
+538,longhorn steakhouse,renegade sirloin 6 oz with redrock grilled shrimp add rice,6,g,0,mg,1120,g,41,g,3,g,2,g,0,g,1,g,4,g
+539,longhorn steakhouse,renegade sirloin 8 oz,16,g,125,mg,670,g,2,g,51,g,6,g,1,g,0,g,0,g
+540,longhorn steakhouse,ribeye 12 oz,54,g,205,mg,670,g,4,g,66,g,22,g,3,g,0,g,0,g
+541,longhorn steakhouse,seasoned french fries,19,g,0,mg,240,g,62,g,5,g,3,g,0,g,6,g,0,g
+542,longhorn steakhouse,seasoned rice pilaf,6,g,0,mg,1120,g,41,g,3,g,2,g,0,g,1,g,4,g
+543,longhorn steakhouse,seasoned steakhouse wings,28,g,245,mg,1030,g,0,g,53,g,7,g,0,g,1,g,0,g
+544,longhorn steakhouse,seasoned steakhouse wings add blue cheese dressing,17,g,15,mg,390,g,3,g,2,g,3.5,g,0,g,0,g,2,g
+545,longhorn steakhouse,seasoned steakhouse wings add buffalo sauce,8,g,10,mg,1280,g,3,g,0,g,1.5,g,0,g,0,g,0,g
+546,longhorn steakhouse,shrimp and lobster chowder bowl,15,g,90,mg,760,g,23,g,10,g,8,g,0,g,3,g,5,g
+547,longhorn steakhouse,shrimp and lobster chowder cup,11,g,65,mg,570,g,17,g,8,g,6,g,0,g,2,g,4,g
+548,longhorn steakhouse,spicy chicken bites,39,g,110,mg,1420,g,53,g,43,g,7,g,0,g,0,g,17,g
+549,longhorn steakhouse,spicy chicken bites larger portion,49,g,140,mg,1780,g,66,g,54,g,9,g,0,g,0,g,21,g
+550,longhorn steakhouse,spicy chicken bites larger portion add sweet chili ginger sauce,33,g,30,mg,670,g,32,g,1,g,5,g,0,g,1,g,30,g
+551,longhorn steakhouse,spicy chicken bites add sweet chili ginger sauce,16,g,15,mg,340,g,16,g,1,g,2.5,g,0,g,0,g,15,g
+552,longhorn steakhouse,sprite,0,g,0,mg,65,g,38,g,0,g,0,g,0,g,0,g,38,g
+553,longhorn steakhouse,steakhouse mac and cheese,37,g,120,mg,1210,g,43,g,26,g,22,g,1,g,5,g,3,g
+554,longhorn steakhouse,strawberries and cream shortcake,37,g,150,mg,630,g,74,g,7,g,14,g,0.5,g,2,g,49,g
+555,longhorn steakhouse,strawberry and pecan side salad with dressing,8,g,10,mg,300,g,28,g,4,g,2,g,0,g,4,g,22,g
+556,longhorn steakhouse,strawberry lemonade,0,g,0,mg,15,g,50,g,0,g,0,g,0,g,1,g,46,g
+557,longhorn steakhouse,strawberry longpour margarita,0,g,0,mg,10,g,76,g,0,g,0,g,0,g,0,g,75,g
+558,longhorn steakhouse,strawberry margarita,0,g,0,mg,10,g,52,g,0,g,0,g,0,g,0,g,51,g
+559,longhorn steakhouse,surf and surf dip,60,g,275,mg,2430,g,12,g,35,g,28,g,0.5,g,1,g,1,g
+560,longhorn steakhouse,surf and surf dip add flatbread,49,g,5,mg,1750,g,99,g,19,g,9,g,0,g,5,g,7,g
+561,longhorn steakhouse,sweet potato with cinnamon sugar and butter,14,g,35,mg,170,g,62,g,5,g,9,g,0,g,9,g,24,g
+562,longhorn steakhouse,sweet tea,0,g,0,mg,10,g,33,g,0,g,0,g,0,g,0,g,32,g
+563,longhorn steakhouse,texas brisket queso,89,g,20,mg,2560,g,19,g,50,g,49,g,3,g,1,g,8,g
+564,longhorn steakhouse,texas brisket queso add chips,30,g,0,mg,560,g,76,g,8,g,5,g,0,g,7,g,1,g
+565,longhorn steakhouse,texas margarita,0,g,0,mg,990,g,28,g,0,g,0,g,0,g,0,g,0,g
+566,longhorn steakhouse,texas old fashioned with herman marshall bourbon,0,g,0,mg,0,g,19,g,0,g,0,g,0,g,0,g,17,g
+567,longhorn steakhouse,texas tonion,69,g,0,mg,2720,g,126,g,15,g,12,g,0,g,9,g,9,g
+568,longhorn steakhouse,texas tonion add dip,52,g,30,mg,700,g,9,g,1,g,8,g,1,g,0,g,8,g
+569,longhorn steakhouse,the lh burger,63,g,190,mg,1400,g,46,g,54,g,20,g,2,g,3,g,5,g
+570,longhorn steakhouse,the lh burger add seasoned french fries,19,g,0,mg,240,g,62,g,5,g,3,g,0,g,6,g,0,g
+571,longhorn steakhouse,the longhorn 22 oz,67,g,365,mg,2450,g,1,g,150,g,27,g,5,g,2,g,1,g
+572,longhorn steakhouse,the perfect longpour margarita,0,g,0,mg,15,g,64,g,0,g,0,g,0,g,0,g,64,g
+573,longhorn steakhouse,the perfect margarita,0,g,0,mg,10,g,46,g,0,g,0,g,0,g,0,g,45,g
+574,longhorn steakhouse,three dons margarita,0,g,0,mg,10,g,49,g,0,g,0,g,0,g,0,g,49,g
+575,longhorn steakhouse,unsweetened tea,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+576,longhorn steakhouse,usda prime delmonico 16 oz,73,g,230,mg,1690,g,3,g,88,g,30,g,4,g,2,g,1,g
+577,longhorn steakhouse,white balsamic vinaigrette 1 5 oz,20,g,0,mg,240,g,6,g,0,g,1.5,g,0,g,0,g,5,g
+578,longhorn steakhouse,white balsamic vinaigrette 3 oz,39,g,0,mg,480,g,12,g,0,g,3,g,0,g,0,g,9,g
+579,longhorn steakhouse,white wine bottle,0,g,0,mg,35,g,16,g,1,g,0,g,0,g,0,g,7,g
+580,longhorn steakhouse,white wine glass,0,g,0,mg,10,g,4,g,0,g,0,g,0,g,0,g,2,g
+581,longhorn steakhouse,white wine longpour,0,g,0,mg,15,g,6,g,0,g,0,g,0,g,0,g,3,g
+582,longhorn steakhouse,wild west shrimp,62,g,290,mg,3740,g,65,g,39,g,17,g,0.5,g,6,g,2,g
+583,longhorn steakhouse,wild west shrimp add ranch dressing,25,g,20,mg,380,g,2,g,1,g,4,g,0,g,0,g,1,g
+584,lou malnatis,garlic bread,32,g,12,mg,1518,g,102,g,18,g,14,g,0,g,0,g,4,g
+585,lou malnatis,mozzarella sticks,36,g,70,mg,1960,g,56,g,22,g,14,g,6,g,6,g,0,g
+586,lou malnatis,three cheese bread,48,g,84,mg,1662,g,80,g,36,g,26,g,0,g,0,g,4,g
+587,lou malnatis,breaded zucchini,50,g,0,mg,1528,g,76,g,8,g,12,g,16,g,8,g,16,g
+588,lou malnatis,bruschetta,54,g,42,mg,1200,g,48,g,22,g,20,g,0,g,2,g,8,g
+589,lou malnatis,bar b lou wings,132,g,336,mg,5620,g,30,g,84,g,38,g,2,g,4,g,16,g
+590,lou malnatis,calamari,42,g,604,mg,730,g,16,g,42,g,10,g,12,g,0,g,0,g
+591,lou malnatis,cheddar cubes,62,g,88,mg,2798,g,52,g,10,g,28,g,10,g,0,g,10,g
+592,lou malnatis,spinach bread,52,g,88,mg,1220,g,58,g,34,g,22,g,0,g,2,g,2,g
+593,lou malnatis,breaded mushrooms,32,g,0,mg,1312,g,60,g,10,g,6,g,10,g,4,g,10,g
+594,lou malnatis,buffo lou wings,205.2,g,573,mg,8779,g,38.9,g,148.6,g,63.7,g,14.2,g,3.5,g,17.7,g
+595,lou malnatis,combo platter,48,g,44,mg,2102,g,68,g,18,g,16,g,10,g,4,g,6,g
+596,lou malnatis,trio of dips and pizza chips,120,g,106,mg,1890,g,128,g,56,g,36,g,0,g,10,g,4,g
+597,lou malnatis,reduced calorie ranch dressing dipping sauce for wings,12,g,6,mg,534,g,6,g,2,g,2,g,0,g,0,g,2,g
+598,lou malnatis,reduced calorie ranch dressing dipping sauce,18,g,10,mg,756,g,8,g,2,g,2,g,0,g,0,g,4,g
+599,lou malnatis,tiramisu,14,g,55,mg,55,g,23,g,4,g,8,g,0,g,0,g,18,g
+600,lou malnatis,chocolate chip pizza,92,g,230,mg,688,g,184,g,18,g,46,g,0,g,6,g,126,g
+601,lou malnatis,tre dolci tiramisu,7,g,28,mg,28,g,13,g,2,g,4,g,0,g,0,g,9,g
+602,lou malnatis,tre dolci key lime pie,23,g,130,mg,370,g,95,g,13,g,13,g,1,g,1,g,80,g
+603,lou malnatis,homekade peach cobbler,22,g,40,mg,870,g,68,g,7,g,11,g,3,g,4,g,33,g
+604,lou malnatis,individual chocolate chip pizza,20,g,45,mg,190,g,53,g,4,g,14,g,0,g,1,g,38,g
+605,lou malnatis,french fries,17,g,1,mg,364,g,42,g,4,g,3,g,0,g,4,g,0,g
+606,lou malnatis,kids mini burger without cheese,27,g,79,mg,357,g,28,g,23,g,12,g,1,g,1,g,3,g
+607,lou malnatis,kids cheese ravioli with meat sauce,8,g,20,mg,750,g,29,g,9,g,4,g,0,g,3,g,10,g
+608,lou malnatis,kids spaghetti with meat sauce,16,g,43,mg,855,g,68,g,22,g,6,g,1,g,5,g,12,g
+609,lou malnatis,kids cheese ravioli with marinara sauce,3,g,5,mg,1080,g,37,g,7,g,2,g,0,g,5,g,14,g
+610,lou malnatis,kids mini burger with cheese,37,g,109,mg,533,g,28,g,30,g,18,g,1,g,1,g,3,g
+611,lou malnatis,kids chicken nuggets,21,g,46,mg,590,g,15,g,16,g,4,g,0,g,2,g,0,g
+612,lou malnatis,kids spaghetti with marinara sauce,3,g,0,mg,1643,g,86,g,16,g,1,g,0,g,9,g,20,g
+613,lou malnatis,lasagna with marinara sauce,36,g,98,mg,3803,g,82,g,49,g,21,g,1,g,9,g,22,g
+614,lou malnatis,penne ala malnati,69,g,193,mg,2000,g,115,g,76,g,39,g,2,g,7,g,12,g
+615,lou malnatis,chicken louie pasta,85,g,360,mg,3857,g,127,g,130,g,45,g,1,g,6,g,7,g
+616,lou malnatis,lasagna with meat sauce,43,g,120,mg,3412,g,73,g,52,g,24,g,1,g,7,g,18,g
+617,lou malnatis,spaghetti with meat sauce,33,g,86,mg,1710,g,136,g,45,g,13,g,1,g,10,g,23,g
+618,lou malnatis,lasagna without sauce,35,g,98,mg,3096,g,65,g,46,g,21,g,1,g,6,g,13,g
+619,lou malnatis,spaghetti with marinara sauce,6,g,0,mg,3274,g,172,g,32,g,1,g,0,g,19,g,40,g
+620,lou malnatis,crustless deep dish pizza small,13,g,45,mg,510,g,2,g,15,g,6,g,0,g,0,g,1,g
+621,lou malnatis,sausage deep dish pizza large,34,g,65,mg,810,g,49,g,31,g,11,g,0,g,1,g,1,g
+622,lou malnatis,cheese deep dish pizza individual,22,g,25,mg,310,g,31,g,16,g,7,g,0,g,0,g,2,g
+623,lou malnatis,the lou thin crust pizza large,19,g,25,mg,340,g,23,g,13,g,8,g,0,g,1,g,3,g
+624,lou malnatis,cheese deep dish pizza small,26,g,35,mg,430,g,38,g,23,g,10,g,0.5,g,0,g,2,g
+625,lou malnatis,cheese thin crust pizza small,14,g,20,mg,160,g,15,g,8,g,6,g,0,g,0,g,1,g
+626,lou malnatis,cheese gluten free thin crust pizza small,13,g,26,mg,485,g,19,g,15,g,6,g,0,g,1,g,3,g
+627,lou malnatis,chicago classic deep dish pizza medium,41,g,85,mg,840,g,45,g,33,g,16,g,0.5,g,1,g,2,g
+628,lou malnatis,crustless deep dish pizza individual,14,g,40,mg,490,g,2,g,15,g,6,g,0,g,0,g,1,g
+629,lou malnatis,pepperoni deep dish pizza large,39,g,55,mg,780,g,50,g,30,g,14,g,0.5,g,0,g,2,g
+630,lou malnatis,chicago classic deep dish pizza large,44,g,90,mg,900,g,50,g,35,g,17,g,0.5,g,1,g,2,g
+631,lou malnatis,cheese deep dish pizza medium,29,g,40,mg,440,g,45,g,25,g,11,g,0.5,g,0,g,2,g
+632,lou malnatis,the lou deep dish pizza large,34,g,40,mg,500,g,52,g,24,g,12,g,0,g,1,g,3,g
+633,lou malnatis,sausage deep dish pizza individual,23,g,35,mg,440,g,30,g,18,g,7,g,0,g,0,g,1,g
+634,lou malnatis,pepperoni thin crust pizza small,18,g,30,mg,330,g,15,g,9,g,7,g,0,g,0,g,1,g
+635,lou malnatis,cheese and spinach deep dish pizza small,24,g,25,mg,410,g,38,g,18,g,8,g,0,g,1,g,2,g
+636,lou malnatis,sausage thin crust pizza small,15,g,30,mg,260,g,15,g,10,g,6,g,0,g,0,g,1,g
+637,lou malnatis,cheese and spinach deep dish pizza individual,24,g,25,mg,410,g,32,g,15,g,7,g,0,g,1,g,2,g
+638,lou malnatis,cheese deep dish pizza large,31,g,40,mg,480,g,50,g,27,g,12,g,0.5,g,0,g,2,g
+639,lou malnatis,chicago classic deep dish pizza small,37,g,75,mg,730,g,38,g,29,g,15,g,0.5,g,1,g,2,g
+640,lou malnatis,sausage thin crust pizza medium,19,g,35,mg,350,g,19,g,13,g,8,g,0,g,0,g,1,g
+641,lou malnatis,sausage deep dish pizza small,27,g,50,mg,590,g,36,g,23,g,9,g,0,g,0,g,1,g
+642,lou malnatis,lower fat cheese deep dish pizza large,29,g,45,mg,550,g,49,g,32,g,11,g,0,g,0,g,1,g
+643,lou malnatis,sausage deep dish pizza medium,31,g,60,mg,740,g,44,g,28,g,10,g,0,g,1,g,1,g
+644,lou malnatis,the lou deep dish pizza medium,31,g,40,mg,490,g,47,g,23,g,11,g,0,g,1,g,3,g
+645,lou malnatis,the lou thin crust pizza medium,19,g,25,mg,330,g,22,g,13,g,7,g,0,g,1,g,3,g
+646,lou malnatis,sausage thin crust pizza large,22,g,45,mg,430,g,21,g,16,g,9,g,0,g,0,g,1,g
+647,lou malnatis,cheese thin crust pizza large,19,g,30,mg,250,g,21,g,12,g,8,g,0,g,0,g,1,g
+648,lou malnatis,pepperoni deep dish pizza small,32,g,50,mg,670,g,38,g,25,g,12,g,0.5,g,0,g,2,g
+649,lou malnatis,crustless deep dish pizza large,13,g,45,mg,560,g,2,g,16,g,6,g,0,g,0,g,1,g
+650,lou malnatis,cheese and spinach deep dish pizza large,30,g,30,mg,480,g,50,g,22,g,9,g,0,g,1,g,2,g
+651,lou malnatis,the lou thin crust pizza small,16,g,20,mg,290,g,18,g,11,g,6,g,0,g,1,g,2,g
+652,lou malnatis,cheese and spinach deep dish pizza medium,28,g,30,mg,470,g,45,g,20,g,9,g,0,g,1,g,2,g
+653,lou malnatis,deluxe deep dish pizza small,27,g,50,mg,590,g,38,g,24,g,9,g,0,g,1,g,2,g
+654,lou malnatis,cheese mushroom and onion deep dish pizza small,26,g,35,mg,430,g,42,g,24,g,10,g,0,g,1,g,4,g
+655,lou malnatis,lower fat cheese thin crust pizza medium,16,g,30,mg,250,g,19,g,13,g,7,g,0,g,0,g,1,g
+656,lou malnatis,the lou deep dish pizza individual,28,g,35,mg,440,g,33,g,19,g,10,g,0,g,1,g,3,g
+657,lou malnatis,cheese thin crust pizza medium,17,g,25,mg,220,g,20,g,11,g,7,g,0,g,0,g,1,g
+658,lou malnatis,crustless deep dish pizza medium,14,g,45,mg,570,g,2,g,16,g,6,g,0,g,0,g,1,g
+659,lou malnatis,chicago classic deep dish pizza individual,32,g,60,mg,510,g,30,g,21,g,12,g,0.5,g,0,g,1,g
+660,lou malnatis,the lou deep dish pizza small,28,g,35,mg,460,g,40,g,21,g,10,g,0,g,1,g,3,g
+661,lou malnatis,pepperoni thin crust pizza medium,21,g,35,mg,400,g,19,g,12,g,9,g,0,g,0,g,1,g
+662,lou malnatis,deluxe deep dish pizza individual,23,g,35,mg,440,g,31,g,18,g,7,g,0,g,1,g,2,g
+663,lou malnatis,pepperoni thin crust pizza large,24,g,40,mg,470,g,21,g,14,g,10,g,0,g,0,g,1,g
+664,lou malnatis,lower fat cheese and sausage deep dish pizza large,33,g,70,mg,850,g,48,g,33,g,10,g,0,g,1,g,1,g
+665,lou malnatis,lower fat cheese thin crust pizza small,13,g,20,mg,190,g,15,g,10,g,5,g,0,g,0,g,1,g
+666,lou malnatis,lower fat cheese and pepperoni thin crust pizza small,17,g,30,mg,350,g,15,g,10,g,7,g,0,g,0,g,1,g
+667,lou malnatis,deluxe deep dish pizza large,34,g,65,mg,810,g,51,g,31,g,11,g,0,g,1,g,2,g
+668,lou malnatis,deluxe thin crust pizza small,14,g,25,mg,240,g,17,g,9,g,5,g,0,g,1,g,2,g
+669,lou malnatis,lower fat cheese and pepperoni thin crust pizza large,23,g,45,mg,500,g,20,g,16,g,10,g,0,g,0,g,1,g
+670,lou malnatis,deluxe thin crust pizza large,20,g,40,mg,390,g,22,g,15,g,8,g,0,g,1,g,2,g
+671,lou malnatis,pepperoni deep dish pizza medium,36,g,50,mg,730,g,45,g,28,g,13,g,0.5,g,0,g,2,g
+672,lou malnatis,lower fat cheese and pepperoni deep dish pizza individual,26,g,40,mg,600,g,30,g,21,g,9,g,0,g,0,g,1,g
+673,lou malnatis,lower fat cheese deep dish pizza individual,20,g,25,mg,360,g,30,g,19,g,7,g,0,g,0,g,1,g
+674,lou malnatis,lower fat cheese thin crust pizza large,18,g,35,mg,280,g,20,g,14,g,8,g,0,g,0,g,1,g
+675,lou malnatis,deluxe thin crust pizza medium,17,g,30,mg,300,g,21,g,11,g,6,g,0,g,1,g,2,g
+676,lou malnatis,lower fat cheese and sausage thin crust pizza small,15,g,30,mg,280,g,15,g,11,g,6,g,0,g,0,g,1,g
+677,lou malnatis,lower fat cheese and pepperoni deep dish pizza medium,34,g,55,mg,800,g,44,g,32,g,13,g,0,g,0,g,1,g
+678,lou malnatis,pepperoni deep dish pizza individual,28,g,35,mg,550,g,31,g,19,g,9,g,0,g,0,g,2,g
+679,lou malnatis,lower fat cheese deep dish pizza small,24,g,40,mg,490,g,37,g,27,g,9,g,0,g,0,g,1,g
+680,lou malnatis,deluxe deep dish pizza medium,31,g,60,mg,740,g,46,g,29,g,10,g,0,g,1,g,3,g
+681,lou malnatis,lower fat cheese and pepperoni thin crust pizza medium,20,g,35,mg,420,g,19,g,13,g,8,g,0,g,0,g,1,g
+682,lou malnatis,lower fat cheese and sausage deep dish pizza individual,22,g,35,mg,470,g,29,g,20,g,7,g,0,g,0,g,1,g
+683,lou malnatis,lower fat cheese and sausage deep dish pizza small,26,g,50,mg,630,g,36,g,26,g,8,g,0,g,0,g,1,g
+684,lou malnatis,cheese mushroom and onion deep dish pizza individual,22,g,25,mg,310,g,34,g,17,g,7,g,0,g,1,g,3,g
+685,lou malnatis,cheese mushroom and onion deep dish pizza large,31,g,40,mg,480,g,55,g,29,g,12,g,0.5,g,1,g,4,g
+686,lou malnatis,cheese mushroom and onion deep dish pizza medium,29,g,40,mg,450,g,50,g,26,g,11,g,0.5,g,1,g,4,g
+687,lou malnatis,lower fat cheese and sausage thin crust pizza medium,18,g,40,mg,370,g,19,g,15,g,7,g,0,g,0,g,1,g
+688,lou malnatis,lower fat cheese deep dish pizza medium,27,g,40,mg,510,g,44,g,29,g,10,g,0,g,0,g,1,g
+689,lou malnatis,lower fat cheese and pepperoni deep dish small,30,g,50,mg,740,g,37,g,29,g,12,g,0,g,0,g,1,g
+690,lou malnatis,lower fat cheese and sausage deep dish pizza medium,30,g,60,mg,780,g,43,g,30,g,9,g,0,g,1,g,1,g
+691,lou malnatis,lower fat cheese and pepperoni deep dish pizza large,37,g,60,mg,860,g,49,g,35,g,14,g,0,g,0,g,1,g
+692,lou malnatis,lower fat cheese and sausage thin crust pizza large,21,g,50,mg,460,g,20,g,18,g,9,g,0,g,0,g,1,g
+693,lou malnatis,sweet vinaigrette dressing,48,g,0,mg,1264,g,35,g,0,g,7,g,0,g,0,g,33,g
+694,lou malnatis,creamy lemon garlic dressing,73,g,47,mg,507,g,5,g,2,g,13,g,0,g,0,g,2,g
+695,lou malnatis,gorgonzola dressing,74,g,51,mg,742,g,5,g,3,g,14,g,0,g,0,g,2,g
+696,lou malnatis,house red wine vinaigrette dressing,26,g,0,mg,207,g,18,g,0,g,4,g,0,g,0,g,18,g
+697,lou malnatis,thousand island dressing,67,g,42,mg,687,g,11,g,2,g,12,g,0,g,0,g,9,g
+698,lou malnatis,club dressing,41,g,22,mg,881,g,23,g,2,g,7,g,0,g,0,g,10,g
+699,lou malnatis,reduced calorie ranch,21,g,12,mg,917,g,9,g,3,g,3,g,0,g,0,g,5,g
+700,lou malnatis,balsamic vinaigrette,48,g,0,mg,160,g,12,g,0,g,6,g,0,g,0,g,8,g
+701,lou malnatis,malnati salad with dressing,104,g,114,mg,4170,g,62,g,42,g,28,g,0,g,10,g,46,g
+702,lou malnatis,caesar salad with dressing,62,g,76,mg,1680,g,16,g,20,g,16,g,0,g,8,g,8,g
+703,lou malnatis,chicken bbq club salad with dressing,96,g,252,mg,3208,g,58,g,82,g,30,g,0,g,8,g,16,g
+704,lou malnatis,house salad with dressing,2,g,0,mg,1162,g,50,g,12,g,0,g,0,g,14,g,30,g
+705,lou malnatis,caesar salad with grilled chicken and dressing,66,g,172,mg,1762,g,16,g,56,g,16,g,0,g,8,g,8,g
+706,lou malnatis,spinach salad with strawberry chicken and dressing,28,g,120,mg,460,g,18,g,50,g,12,g,0,g,6,g,10,g
+707,lou malnatis,spinach salad with pear chicken and dressing,28,g,120,mg,460,g,28,g,50,g,12,g,0,g,6,g,16,g
+708,lou malnatis,buffalo chicken salad with dressing medium,38,g,100,mg,2330,g,38,g,29,g,14,g,0,g,5,g,28,g
+709,lou malnatis,italian beef and mozzarella cheese sandwich,25,g,258,mg,3450,g,63,g,78,g,11,g,0,g,0,g,5,g
+710,lou malnatis,meatball and mozzarella cheese sandwich,51,g,121,mg,2917,g,74,g,52,g,21,g,0,g,5,g,13,g
+711,lou malnatis,grilled chicken sandwich,12,g,193,mg,575,g,42,g,78,g,3,g,0,g,2,g,5,g
+712,lou malnatis,buffalo chicken sandwich,44,g,255,mg,4240,g,133,g,98,g,18,g,1,g,8,g,13,g
+713,lou malnatis,westside bbq sandwich,37,g,195,mg,1800,g,194,g,92,g,7,g,0,g,8,g,54,g
+714,lou malnatis,marinara dipping sauce,0,g,0,mg,658,g,16,g,2,g,0,g,0,g,2,g,8,g
+715,lou malnatis,meat sauce for spaghetti penne,7,g,21,mg,316,g,8,g,6,g,3,g,0,g,1,g,5,g
+716,lou malnatis,marinara sauce for spaghetti penne,1,g,0,mg,707,g,17,g,3,g,1,g,0,g,3,g,9,g
+717,lou malnatis,marinara dipping sauce for garlic or three cheese bread,2,g,0,mg,1642,g,40,g,6,g,0,g,0,g,8,g,22,g
+718,lou malnatis,cocktail sauce,0,g,0,mg,329,g,8,g,1,g,0,g,0,g,1,g,4,g
+719,lou malnatis,chicken wings,143,g,370,mg,2640,g,44,g,113.5,g,34,g,0,g,3.5,g,0,g
+720,lou malnatis,meatballs,25,g,60,mg,890,g,7,g,18,g,9,g,0,g,1,g,1,g
+721,lou malnatis,croutons,3,g,1,mg,78,g,4,g,1,g,1,g,0,g,0,g,0,g
+722,lou malnatis,greens with cornbread,7,g,20,mg,830,g,53,g,11,g,3.5,g,0,g,9,g,3,g
+723,lou malnatis,celery,0,g,0,mg,20,g,1,g,0,g,0,g,0,g,0,g,0,g
+724,lou malnatis,beef and barley soup,10,g,35,mg,1610,g,15,g,12,g,5,g,0,g,3,g,1,g
+725,lou malnatis,clam chowder soup,31,g,137,mg,1121,g,22,g,28,g,19,g,1,g,1,g,2,g
+726,lou malnatis,meatball soup,12,g,30,mg,660,g,9,g,8,g,5,g,0,g,1,g,2,g
+727,lou malnatis,minestrone soup,15,g,26,mg,1520,g,23,g,9,g,4,g,0,g,5,g,9,g
+728,lou malnatis,santa fe chicken soup,8,g,35,mg,680,g,11,g,10,g,2,g,0,g,3,g,6,g
+729,lou malnatis,baked potato soup,16,g,25,mg,470,g,24,g,4,g,8,g,0,g,2,g,4,g
+730,lou malnatis,baked potato soup bowl,16,g,25,mg,470,g,24,g,4,g,8,g,0,g,2,g,4,g
+731,lou malnatis,baked potato soup cup,10,g,15,mg,320,g,16,g,3,g,5,g,0,g,1,g,3,g
+732,lou malnatis,balsamic vinaigrette,48,g,0,mg,160,g,12,g,0,g,6,g,0,g,0,g,8,g
+733,lou malnatis,bar b lou wings,66,g,170,mg,2810,g,15,g,42,g,19,g,1,g,2,g,8,g
+734,lou malnatis,beef barley soup bowl,10,g,35,mg,1510,g,15,g,12,g,5,g,0,g,3,g,1,g
+735,lou malnatis,beef barley soup cup,7,g,20,mg,1010,g,10,g,8,g,3,g,0,g,2,g,1,g
+736,lou malnatis,breaded mushrooms,16,g,0,mg,660,g,30,g,5,g,3,g,5,g,2,g,5,g
+737,lou malnatis,breaded zucchini,25,g,0,mg,760,g,38,g,4,g,6,g,8,g,4,g,8,g
+738,lou malnatis,bruschetta,27,g,20,mg,600,g,24,g,11,g,10,g,0,g,1,g,4,g
+739,lou malnatis,buffa lou wings,58,g,160,mg,2480,g,11,g,42,g,18,g,4,g,1,g,5,g
+740,lou malnatis,buffalo chicken salad medium,19,g,50,mg,1170,g,19,g,15,g,7,g,0,g,3,g,14,g
+741,lou malnatis,buffalo chicken sandwich lawndale only,44,g,255,mg,4240,g,133,g,98,g,18,g,1,g,8,g,13,g
+742,lou malnatis,caesar salad with grilled chicken family,67,g,175,mg,1770,g,16,g,56,g,16,g,0,g,7,g,8,g
+743,lou malnatis,caesar salad with grilled chicken medium,33,g,85,mg,880,g,8,g,28,g,8,g,0,g,4,g,4,g
+744,lou malnatis,caesar salad family,63,g,75,mg,1690,g,16,g,21,g,15,g,0,g,7,g,8,g
+745,lou malnatis,caesar salad medium,31,g,40,mg,840,g,8,g,10,g,8,g,0,g,4,g,4,g
+746,lou malnatis,calamari,21,g,300,mg,370,g,8,g,21,g,5,g,6,g,0,g,0,g
+747,lou malnatis,candied yams lawndale only,1.5,g,0,mg,135,g,128,g,8,g,0.5,g,0,g,13,g,74,g
+748,lou malnatis,celery,0,g,0,mg,20,g,1,g,0,g,0,g,0,g,0,g,0,g
+749,lou malnatis,cheddar cubes,31,g,45,mg,1400,g,26,g,5,g,14,g,5,g,0,g,5,g
+750,lou malnatis,cheese deep dish pizza slice individual,22,g,25,mg,310,g,31,g,16,g,7,g,0,g,0,g,2,g
+751,lou malnatis,cheese deep dish pizza slice large,31,g,40,mg,480,g,50,g,27,g,12,g,0.5,g,0,g,2,g
+752,lou malnatis,cheese deep dish pizza slice medium,29,g,40,mg,440,g,45,g,25,g,11,g,0.5,g,0,g,2,g
+753,lou malnatis,cheese deep dish pizza slice small,26,g,35,mg,430,g,38,g,23,g,10,g,0.5,g,0,g,2,g
+754,lou malnatis,cheese thin crust pizza slice large,19,g,30,mg,250,g,21,g,12,g,8,g,0,g,0,g,1,g
+755,lou malnatis,cheese thin crust pizza slice medium,17,g,25,mg,220,g,20,g,11,g,7,g,0,g,0,g,1,g
+756,lou malnatis,cheese thin crust pizza slice small,14,g,20,mg,160,g,15,g,8,g,6,g,0,g,0,g,1,g
+757,lou malnatis,cheese mushroom onion deep dish pizza slice individual,22,g,25,mg,310,g,34,g,17,g,7,g,0,g,1,g,3,g
+758,lou malnatis,cheese mushroom onion deep dish pizza slice large,31,g,40,mg,480,g,55,g,29,g,12,g,0.5,g,1,g,4,g
+759,lou malnatis,cheese mushroom onion deep dish pizza slice medium,29,g,40,mg,450,g,50,g,26,g,11,g,0.5,g,1,g,4,g
+760,lou malnatis,cheese mushroom onion deep dish pizza slice small,26,g,35,mg,430,g,42,g,24,g,10,g,0,g,1,g,4,g
+761,lou malnatis,cheese spinach deep dish pizza slice individual,24,g,25,mg,410,g,32,g,15,g,7,g,0,g,1,g,2,g
+762,lou malnatis,cheese spinach deep dish pizza slice large,30,g,30,mg,480,g,50,g,22,g,9,g,0,g,1,g,2,g
+763,lou malnatis,cheese spinach deep dish pizza slice medium,28,g,30,mg,470,g,45,g,20,g,9,g,0,g,1,g,2,g
+764,lou malnatis,cheese spinach deep dish pizza slice small,24,g,25,mg,410,g,38,g,18,g,8,g,0,g,1,g,2,g
+765,lou malnatis,chicago classic deep dish pizza slice individual,32,g,60,mg,510,g,30,g,21,g,12,g,0.5,g,0,g,1,g
+766,lou malnatis,chicago classic deep dish pizza slice large,44,g,90,mg,900,g,50,g,35,g,17,g,0.5,g,1,g,2,g
+767,lou malnatis,chicago classic deep dish pizza slice medium,41,g,85,mg,840,g,45,g,33,g,16,g,0.5,g,1,g,2,g
+768,lou malnatis,chicago classic deep dish pizza slice small,37,g,75,mg,730,g,38,g,29,g,15,g,0.5,g,1,g,2,g
+769,lou malnatis,chicken bbq club salad family,47,g,125,mg,1600,g,27,g,41,g,15,g,0,g,4,g,8,g
+770,lou malnatis,chicken bbq club salad medium,48,g,125,mg,1600,g,29,g,41,g,15,g,0,g,4,g,8,g
+771,lou malnatis,chicken louie,85,g,360,mg,3860,g,127,g,130,g,45,g,1,g,6,g,7,g
+772,lou malnatis,chicken wings lawndale only,143,g,370,mg,2640,g,44,g,114,g,34,g,0,g,4,g,0,g
+773,lou malnatis,chocolate chip pizza,46,g,115,mg,340,g,92,g,9,g,23,g,0,g,3,g,63,g
+774,lou malnatis,clam chowder bowl,31,g,135,mg,1120,g,22,g,28,g,19,g,1,g,1,g,2,g
+775,lou malnatis,clam chowder cup,16,g,70,mg,590,g,12,g,15,g,10,g,0,g,0,g,1,g
+776,lou malnatis,club dressing,41,g,20,mg,880,g,23,g,2,g,7,g,0,g,0,g,10,g
+777,lou malnatis,cocktail sauce,0,g,0,mg,330,g,8,g,1,g,0,g,0,g,1,g,4,g
+778,lou malnatis,combo platter,24,g,20,mg,1050,g,34,g,9,g,8,g,5,g,2,g,3,g
+779,lou malnatis,creamy lemon garlic dressing,73,g,45,mg,510,g,5,g,2,g,13,g,0,g,0,g,2,g
+780,lou malnatis,croutons,3,g,0,mg,80,g,4,g,1,g,1,g,0,g,0,g,0,g
+781,lou malnatis,crustless deep dish pizza slice individual,14,g,40,mg,490,g,2,g,15,g,6,g,0,g,0,g,1,g
+782,lou malnatis,crustless deep dish pizza slice large,13,g,45,mg,560,g,2,g,16,g,6,g,0,g,0,g,1,g
+783,lou malnatis,crustless deep dish pizza slice medium,14,g,45,mg,570,g,2,g,16,g,6,g,0,g,0,g,1,g
+784,lou malnatis,crustless deep dish pizza slice small,13,g,45,mg,510,g,2,g,15,g,6,g,0,g,0,g,1,g
+785,lou malnatis,deluxe deep dish pizza slice individual,23,g,35,mg,440,g,31,g,18,g,7,g,0,g,1,g,2,g
+786,lou malnatis,deluxe deep dish pizza slice large,34,g,65,mg,810,g,51,g,31,g,11,g,0,g,1,g,2,g
+787,lou malnatis,deluxe deep dish pizza slice medium,31,g,60,mg,740,g,46,g,29,g,10,g,0,g,1,g,3,g
+788,lou malnatis,deluxe deep dish pizza slice small,27,g,50,mg,590,g,38,g,24,g,9,g,0,g,1,g,2,g
+789,lou malnatis,deluxe thin crust pizza slice large,20,g,40,mg,390,g,22,g,15,g,8,g,0,g,1,g,2,g
+790,lou malnatis,deluxe thin crust pizza slice medium,17,g,30,mg,300,g,21,g,11,g,6,g,0,g,1,g,2,g
+791,lou malnatis,deluxe thin crust pizza slice small,14,g,25,mg,240,g,17,g,9,g,5,g,0,g,1,g,2,g
+792,lou malnatis,french fries,17,g,0,mg,360,g,42,g,4,g,3,g,0,g,4,g,0,g
+793,lou malnatis,garlic bread,16,g,5,mg,760,g,51,g,9,g,7,g,0,g,0,g,2,g
+794,lou malnatis,gluten free cheese thin crust pizza slice,13,g,25,mg,490,g,19,g,15,g,6,g,0,g,1,g,3,g
+795,lou malnatis,gorgonzola dressing,74,g,50,mg,740,g,5,g,3,g,14,g,0,g,0,g,2,g
+796,lou malnatis,greens with cornbread lawndale only,7,g,20,mg,830,g,53,g,11,g,3.5,g,0,g,9,g,3,g
+797,lou malnatis,grilled chicken sandwich,12,g,195,mg,580,g,42,g,78,g,3,g,0,g,2,g,5,g
+798,lou malnatis,homemade peach cobbler lawndale only,22,g,40,mg,870,g,68,g,7,g,11,g,3,g,4,g,33,g
+799,lou malnatis,house red wine vinaigrette dressing,26,g,0,mg,210,g,18,g,0,g,4,g,0,g,0,g,18,g
+800,lou malnatis,house salad family,0,g,0,mg,30,g,11,g,3,g,0,g,0,g,4,g,6,g
+801,lou malnatis,house salad medium,1,g,0,mg,580,g,25,g,6,g,0,g,0,g,7,g,15,g
+802,lou malnatis,individual chocolate chip pizza,20,g,45,mg,190,g,53,g,4,g,14,g,0,g,1,g,38,g
+803,lou malnatis,italian beef sandwich with mozzarella cheese,25,g,260,mg,3450,g,63,g,78,g,11,g,0,g,0,g,5,g
+804,lou malnatis,kids cheese ravioli with marinara,3,g,5,mg,1080,g,37,g,7,g,2,g,0,g,5,g,14,g
+805,lou malnatis,kids cheese ravioli with meat sauce,8,g,20,mg,750,g,29,g,9,g,4,g,0,g,3,g,10,g
+806,lou malnatis,kids chicken nuggets,21,g,45,mg,590,g,15,g,16,g,4,g,0,g,2,g,0,g
+807,lou malnatis,kids mini burger with cheese,37,g,110,mg,530,g,28,g,30,g,18,g,1,g,1,g,3,g
+808,lou malnatis,kids mini burger without cheese,27,g,80,mg,360,g,28,g,23,g,12,g,1,g,1,g,3,g
+809,lou malnatis,kids spaghetti with marinara,3,g,0,mg,1640,g,86,g,16,g,1,g,0,g,9,g,20,g
+810,lou malnatis,kids spaghetti with meat sauce,16,g,45,mg,860,g,68,g,22,g,6,g,1,g,5,g,12,g
+811,lou malnatis,lasagna no sauce,35,g,100,mg,3100,g,65,g,46,g,21,g,1,g,6,g,13,g
+812,lou malnatis,lasagna with marinara,36,g,100,mg,3800,g,82,g,49,g,21,g,1,g,9,g,22,g
+813,lou malnatis,lasagna with meat sauce,43,g,120,mg,3410,g,73,g,52,g,24,g,1,g,7,g,18,g
+814,lou malnatis,lower fat cheese deep dish pizza slice individual,20,g,25,mg,360,g,30,g,19,g,7,g,0,g,0,g,1,g
+815,lou malnatis,lower fat cheese deep dish pizza slice large,29,g,45,mg,550,g,49,g,32,g,11,g,0,g,0,g,1,g
+816,lou malnatis,lower fat cheese deep dish pizza slice medium,27,g,40,mg,510,g,44,g,29,g,10,g,0,g,0,g,1,g
+817,lou malnatis,lower fat cheese deep dish pizza slice small,24,g,40,mg,490,g,37,g,27,g,9,g,0,g,0,g,1,g
+818,lou malnatis,lower fat cheese thin crust pizza slice large,18,g,35,mg,280,g,20,g,14,g,8,g,0,g,0,g,1,g
+819,lou malnatis,lower fat cheese thin crust pizza slice medium,16,g,30,mg,250,g,19,g,13,g,7,g,0,g,0,g,1,g
+820,lou malnatis,lower fat cheese thin crust pizza slice small,13,g,20,mg,190,g,15,g,10,g,5,g,0,g,0,g,1,g
+821,lou malnatis,lower fat cheese pepperoni deep dish pizza slice individual,26,g,40,mg,600,g,30,g,21,g,9,g,0,g,0,g,1,g
+822,lou malnatis,lower fat cheese pepperoni deep dish pizza slice large,37,g,60,mg,860,g,49,g,35,g,14,g,0,g,0,g,1,g
+823,lou malnatis,lower fat cheese pepperoni deep dish pizza slice medium,34,g,55,mg,800,g,44,g,32,g,13,g,0,g,0,g,1,g
+824,lou malnatis,lower fat cheese pepperoni deep dish pizza slice small,30,g,50,mg,740,g,37,g,29,g,12,g,0,g,0,g,1,g
+825,lou malnatis,lower fat cheese pepperoni thin crust pizza slice large,23,g,45,mg,500,g,20,g,16,g,10,g,0,g,0,g,1,g
+826,lou malnatis,lower fat cheese pepperoni thin crust pizza slice medium,20,g,35,mg,420,g,19,g,13,g,8,g,0,g,0,g,1,g
+827,lou malnatis,lower fat cheese pepperoni thin crust pizza slice small,17,g,30,mg,350,g,15,g,10,g,7,g,0,g,0,g,1,g
+828,lou malnatis,lower fat cheese sausage deep dish pizza slice individual,22,g,35,mg,470,g,29,g,20,g,7,g,0,g,0,g,1,g
+829,lou malnatis,lower fat cheese sausage deep dish pizza slice large,33,g,70,mg,850,g,48,g,33,g,10,g,0,g,1,g,1,g
+830,lou malnatis,lower fat cheese sausage deep dish pizza slice medium,30,g,60,mg,780,g,43,g,30,g,9,g,0,g,1,g,1,g
+831,lou malnatis,lower fat cheese sausage deep dish pizza slice small,26,g,50,mg,630,g,36,g,26,g,8,g,0,g,0,g,1,g
+832,lou malnatis,lower fat cheese sausage thin crust pizza slice large,21,g,50,mg,460,g,20,g,18,g,9,g,0,g,0,g,1,g
+833,lou malnatis,lower fat cheese sausage thin crust pizza slice medium,18,g,40,mg,370,g,19,g,15,g,7,g,0,g,0,g,1,g
+834,lou malnatis,lower fat cheese sausage thin crust pizza slice small,15,g,30,mg,280,g,15,g,11,g,6,g,0,g,0,g,1,g
+835,lou malnatis,malnati salad family,52,g,55,mg,2080,g,30,g,20,g,14,g,0,g,5,g,23,g
+836,lou malnatis,malnati salad medium,52,g,55,mg,2090,g,31,g,21,g,14,g,0,g,5,g,23,g
+837,lou malnatis,marinara dipping sauce,0,g,0,mg,330,g,8,g,1,g,0,g,0,g,1,g,4,g
+838,lou malnatis,marinara dipping sauce for garlic bread and three cheese bread,1,g,0,mg,820,g,20,g,3,g,0,g,0,g,4,g,11,g
+839,lou malnatis,marinara sauce,1,g,0,mg,710,g,17,g,3,g,1,g,0,g,3,g,9,g
+840,lou malnatis,meat sauce,7,g,20,mg,320,g,8,g,6,g,3,g,0,g,1,g,5,g
+841,lou malnatis,meatball sandwich with mozzarella cheese,51,g,120,mg,2920,g,74,g,52,g,21,g,0,g,5,g,13,g
+842,lou malnatis,meatball soup bowl,12,g,30,mg,660,g,9,g,8,g,5,g,0,g,1,g,2,g
+843,lou malnatis,meatball soup cup,8,g,20,mg,440,g,6,g,5,g,3,g,0,g,1,g,1,g
+844,lou malnatis,meatballs,25,g,60,mg,890,g,7,g,18,g,9,g,0,g,1,g,1,g
+845,lou malnatis,minestrone soup bowl,15,g,25,mg,1520,g,23,g,9,g,4,g,0,g,5,g,9,g
+846,lou malnatis,minestrone soup cup,8,g,15,mg,800,g,12,g,5,g,2,g,0,g,3,g,5,g
+847,lou malnatis,mozzarella sticks,18,g,35,mg,980,g,28,g,11,g,7,g,3,g,3,g,0,g
+848,lou malnatis,penne ala malnati,69,g,195,mg,2000,g,115,g,76,g,39,g,2,g,7,g,12,g
+849,lou malnatis,pepperoni deep dish pizza slice individual,28,g,35,mg,550,g,31,g,19,g,9,g,0,g,0,g,2,g
+850,lou malnatis,pepperoni deep dish pizza slice large,39,g,55,mg,780,g,50,g,30,g,14,g,0.5,g,0,g,2,g
+851,lou malnatis,pepperoni deep dish pizza slice medium,36,g,50,mg,730,g,45,g,28,g,13,g,0.5,g,0,g,2,g
+852,lou malnatis,pepperoni deep dish pizza slice small,32,g,50,mg,670,g,38,g,25,g,12,g,0.5,g,0,g,2,g
+853,lou malnatis,pepperoni thin crust pizza slice large,24,g,40,mg,470,g,21,g,14,g,10,g,0,g,0,g,1,g
+854,lou malnatis,pepperoni thin crust pizza slice medium,21,g,35,mg,400,g,19,g,12,g,9,g,0,g,0,g,1,g
+855,lou malnatis,pepperoni thin crust pizza slice small,18,g,30,mg,330,g,15,g,9,g,7,g,0,g,0,g,1,g
+856,lou malnatis,reduced calorie ranch dressing,21,g,10,mg,920,g,9,g,3,g,3,g,0,g,0,g,5,g
+857,lou malnatis,reduced calorie ranch dressing dipping sauce,9,g,5,mg,380,g,4,g,1,g,1,g,0,g,0,g,2,g
+858,lou malnatis,reduced calorie ranch dressing dipping sauce for wings,6,g,5,mg,270,g,3,g,1,g,1,g,0,g,0,g,1,g
+859,lou malnatis,santa fe chicken soup bowl,8,g,35,mg,680,g,11,g,10,g,2,g,0,g,3,g,6,g
+860,lou malnatis,santa fe chicken soup cup,5,g,20,mg,450,g,7,g,7,g,2,g,0,g,2,g,4,g
+861,lou malnatis,sausage deep dish pizza slice individual,23,g,35,mg,440,g,30,g,18,g,7,g,0,g,0,g,1,g
+862,lou malnatis,sausage deep dish pizza slice large,34,g,65,mg,810,g,49,g,31,g,11,g,0,g,1,g,1,g
+863,lou malnatis,sausage deep dish pizza slice medium,31,g,60,mg,740,g,44,g,28,g,10,g,0,g,1,g,1,g
+864,lou malnatis,sausage deep dish pizza slice small,27,g,50,mg,590,g,36,g,23,g,9,g,0,g,0,g,1,g
+865,lou malnatis,sausage thin crust pizza slice large,22,g,45,mg,430,g,21,g,16,g,9,g,0,g,0,g,1,g
+866,lou malnatis,sausage thin crust pizza slice medium,19,g,35,mg,350,g,19,g,13,g,8,g,0,g,0,g,1,g
+867,lou malnatis,sausage thin crust pizza slice small,15,g,30,mg,260,g,15,g,10,g,6,g,0,g,0,g,1,g
+868,lou malnatis,spaghetti with marinara,6,g,0,mg,3270,g,172,g,32,g,1,g,0,g,19,g,40,g
+869,lou malnatis,spaghetti with meat sauce,33,g,85,mg,1710,g,136,g,45,g,13,g,1,g,10,g,23,g
+870,lou malnatis,spinach bread,26,g,45,mg,610,g,29,g,17,g,11,g,0,g,1,g,1,g
+871,lou malnatis,spinach salad with pear and chicken family,14,g,60,mg,240,g,14,g,25,g,6,g,0,g,3,g,8,g
+872,lou malnatis,spinach salad with pear and chicken medium,14,g,60,mg,230,g,14,g,25,g,6,g,0,g,3,g,8,g
+873,lou malnatis,spinach salad with strawberry and chicken family,14,g,60,mg,240,g,9,g,25,g,6,g,0,g,3,g,5,g
+874,lou malnatis,spinach salad with strawberry and chicken medium,14,g,60,mg,230,g,9,g,25,g,6,g,0,g,3,g,5,g
+875,lou malnatis,sweet vinaigrette dressing,48,g,0,mg,1260,g,35,g,0,g,7,g,0,g,0,g,33,g
+876,lou malnatis,the lou deep dish pizza slice individual,28,g,35,mg,440,g,33,g,19,g,10,g,0,g,1,g,3,g
+877,lou malnatis,the lou deep dish pizza slice large,34,g,40,mg,500,g,52,g,24,g,12,g,0,g,1,g,3,g
+878,lou malnatis,the lou deep dish pizza slice medium,31,g,40,mg,490,g,47,g,23,g,11,g,0,g,1,g,3,g
+879,lou malnatis,the lou deep dish pizza slice small,28,g,35,mg,460,g,40,g,21,g,10,g,0,g,1,g,3,g
+880,lou malnatis,the lou thin crust pizza slice large,19,g,25,mg,340,g,23,g,13,g,8,g,0,g,1,g,3,g
+881,lou malnatis,the lou thin crust pizza slice medium,19,g,25,mg,330,g,22,g,13,g,7,g,0,g,1,g,3,g
+882,lou malnatis,the lou thin crust pizza slice small,16,g,20,mg,290,g,18,g,11,g,6,g,0,g,1,g,2,g
+883,lou malnatis,thousand island dressing,67,g,40,mg,690,g,11,g,2,g,12,g,0,g,0,g,9,g
+884,lou malnatis,three cheese bread,24,g,40,mg,830,g,40,g,18,g,13,g,0,g,0,g,2,g
+885,lou malnatis,tiramisu,14,g,55,mg,55,g,23,g,4,g,8,g,0,g,0,g,18,g
+886,lou malnatis,tre dolci key lime pie,23,g,130,mg,370,g,95,g,13,g,13,g,1,g,1,g,80,g
+887,lou malnatis,tre dolci tiramisu,7,g,30,mg,30,g,12,g,2,g,4,g,0,g,0,g,9,g
+888,lou malnatis,trio of dips and pizza chips,60,g,55,mg,950,g,64,g,28,g,18,g,0,g,5,g,2,g
+889,lou malnatis,west side bbq sandwich lawndale only,37,g,195,mg,1800,g,194,g,92,g,7,g,0,g,8,g,54,g
+890,lubys,white roll,3,g,0,mg,0,g,23,g,3,g,0,g,0,g,1,g,0,g
+891,lubys,whole wheat roll,5,g,0,mg,0,g,23,g,8.5,g,0,g,0,g,2,g,0,g
+892,lubys,jell o,0,g,0,mg,0,g,38,g,2,g,0,g,0,g,0,g,0,g
+893,lubys,pineapple,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,2,g,0,g
+894,lubys,mixed melons,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,2,g,0,g
+895,lubys,1 2 roasted chicken without skin,23,g,0,mg,0,g,0,g,63.5,g,0,g,0,g,0,g,0,g
+896,lubys,blackened tilapia,11,g,0,mg,0,g,5,g,38,g,0,g,0,g,2,g,0,g
+897,lubys,lemon basil salmon,20,g,0,mg,0,g,1,g,43,g,0,g,0,g,0,g,0,g
+898,lubys,grilled chicken breast with skin,23,g,0,mg,0,g,1,g,51,g,0,g,0,g,0,g,0,g
+899,lubys,mushroom turkey chopped steak,22,g,0,mg,0,g,0,g,48,g,0,g,0,g,0,g,0,g
+900,lubys,grilled chicken a la frontera without queso,22,g,0,mg,0,g,3,g,80,g,0,g,0,g,1,g,0,g
+901,lubys,roasted turkey without skin or gravy,3,g,0,mg,0,g,0,g,63.5,g,0,g,0,g,0,g,0,g
+902,lubys,lemon pepper salmon,16,g,0,mg,0,g,4,g,46,g,0,g,0,g,0,g,0,g
+903,lubys,grilled chicken breast without skin,16,g,0,mg,0,g,1,g,47,g,0,g,0,g,0,g,0,g
+904,lubys,cuban grilled tilapia,16,g,0,mg,0,g,10,g,41.5,g,0,g,0,g,2,g,0,g
+905,lubys,grilled summer tilapia,12,g,0,mg,0,g,30,g,63,g,0,g,0,g,4,g,0,g
+906,lubys,tuscan chicken,25,g,0,mg,0,g,15,g,60,g,0,g,0,g,3,g,0,g
+907,lubys,baked ham,11,g,0,mg,0,g,6,g,44.5,g,0,g,0,g,0,g,0,g
+908,lubys,parmesan chicken alfredo without sauce,22,g,0,mg,0,g,22,g,37,g,0,g,0,g,1,g,0,g
+909,lubys,shrimp and crawfish jambalaya,25,g,0,mg,0,g,20,g,24,g,0,g,0,g,3,g,0,g
+910,lubys,lemon basil tilapia,12,g,0,mg,0,g,0,g,55.5,g,0,g,0,g,0,g,0,g
+911,lubys,lemon dill salmon without sauce,14,g,0,mg,0,g,3,g,48.5,g,0,g,0,g,0,g,0,g
+912,lubys,chipotle lime chicken,17,g,0,mg,0,g,17,g,17.5,g,0,g,0,g,17,g,0,g
+913,lubys,chicken piccata,22,g,0,mg,0,g,22,g,33.5,g,0,g,0,g,1,g,0,g
+914,lubys,cajun fried turkey breast,24,g,0,mg,0,g,0,g,71,g,0,g,0,g,0,g,0,g
+915,lubys,pan grilled fillet,12,g,0,mg,0,g,19,g,36.5,g,0,g,0,g,2,g,0,g
+916,lubys,ranch dressing,6,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+917,lubys,italian dressing,7,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+918,lubys,french dressing,7,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,0,g
+919,lubys,bleu cheese dressing,9,g,0,mg,0,g,0,g,2,g,0,g,0,g,0,g,0,g
+920,lubys,caesar dressing,8,g,0,mg,0,g,0,g,0.5,g,0,g,0,g,0,g,0,g
+921,lubys,thousand island dressing,5,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+922,lubys,marinated cucumbers with oil and vinegar,4,g,0,mg,0,g,13,g,0,g,0,g,0,g,1,g,0,g
+923,lubys,spinach salad without dressing,0,g,0,mg,0,g,2,g,2,g,0,g,0,g,1,g,0,g
+924,lubys,grilled chicken caesar salad with skin and dressing,50,g,0,mg,0,g,23,g,62,g,0,g,0,g,6,g,0,g
+925,lubys,spring mix salad with oil and vinegar,0,g,0,mg,0,g,3,g,0.5,g,0,g,0,g,1,g,0,g
+926,lubys,grilled chicken caesar salad with skin without dressing,26,g,0,mg,0,g,23,g,56,g,0,g,0,g,6,g,0,g
+927,lubys,sauteed mushrooms,4,g,0,mg,0,g,10,g,3.5,g,0,g,0,g,1,g,0,g
+928,lubys,skillet fried cabbage,4,g,0,mg,0,g,7,g,1.5,g,0,g,0,g,4,g,0,g
+929,lubys,hibachi rice,5,g,0,mg,0,g,45,g,6.5,g,0,g,0,g,1,g,0,g
+930,lubys,fresh green beans,3,g,0,mg,0,g,10,g,2,g,0,g,0,g,4,g,0,g
+931,lubys,buttered corn,3,g,0,mg,0,g,42,g,0,g,0,g,0,g,4,g,0,g
+932,lubys,spinach,2,g,0,mg,0,g,7,g,3.5,g,0,g,0,g,4,g,0,g
+933,lubys,fresh broccoli,2,g,0,mg,0,g,8,g,0,g,0,g,0,g,5,g,0,g
+934,lubys,black eyed peas,4,g,0,mg,0,g,40,g,15,g,0,g,0,g,11,g,0,g
+935,lubys,seasoned green beans,3,g,0,mg,0,g,5,g,3.5,g,0,g,0,g,3,g,0,g
+936,lubys,roasted mixed vegetables,5,g,0,mg,0,g,14,g,0,g,0,g,0,g,4,g,0,g
+937,lubys,roasted cauliflower,5,g,0,mg,0,g,4,g,0,g,0,g,0,g,2,g,0,g
+938,lubys,buttered fresh carrots,2,g,0,mg,0,g,20,g,0.5,g,0,g,0,g,5,g,0,g
+939,lubys,brussels sprouts and carrots,3,g,0,mg,0,g,24,g,3,g,0,g,0,g,9,g,0,g
+940,lubys,pinto beans,4,g,0,mg,0,g,44,g,14.5,g,0,g,0,g,15,g,0,g
+941,lubys,whole baked potato,6,g,0,mg,0,g,55,g,6.5,g,0,g,0,g,6,g,0,g
+942,lubys,squash saute,5,g,0,mg,0,g,15,g,1.5,g,0,g,0,g,8,g,0,g
+943,lubys,stir fry zucchini,5,g,0,mg,0,g,15,g,5,g,0,g,0,g,4,g,0,g
+944,lubys,lima beans,5,g,0,mg,0,g,45,g,14,g,0,g,0,g,14,g,0,g
+945,lubys,broccoli cauliflower and carrots,3,g,0,mg,0,g,17,g,0,g,0,g,0,g,17,g,0,g
+946,lubys,green peas and carrots,4,g,0,mg,0,g,25,g,7.5,g,0,g,0,g,8,g,0,g
+947,lubys,almond rice,5,g,0,mg,0,g,38,g,7,g,0,g,0,g,4,g,0,g
+948,lubys,holiday rice,5,g,0,mg,0,g,40,g,4,g,0,g,0,g,1,g,0,g
+949,lubys,wild cranberry rice,5,g,0,mg,0,g,70,g,1.5,g,0,g,0,g,7,g,0,g
+950,lubys,normandy vegetables,5,g,0,mg,0,g,15,g,0,g,0,g,0,g,10,g,0,g
+951,lubys,fresh corn on the cob,5,g,0,mg,0,g,22,g,0,g,0,g,0,g,2,g,0,g
+952,lubys,butter beans,5,g,0,mg,0,g,50,g,19,g,0,g,0,g,16,g,0,g
+953,lubys,wild mushroom rice,5,g,0,mg,0,g,55,g,2.5,g,0,g,0,g,6,g,0,g
+954,lubys,cauliflower peas and carrots,2,g,0,mg,0,g,10,g,3,g,0,g,0,g,6,g,0,g
+955,lubys,fresh asparagus,4,g,0,mg,0,g,7,g,1.5,g,0,g,0,g,4,g,0,g
+956,lubys,lemon roasted asparagus,1,g,0,mg,0,g,2,g,8.5,g,0,g,0,g,1,g,0,g
+957,lubys,vegetable soup,1,g,0,mg,0,g,10,g,5.5,g,0,g,0,g,2,g,0,g
+958,lubys,chicken noodle soup,7,g,0,mg,0,g,15,g,13,g,0,g,0,g,1,g,0,g
+959,lubys,almond rice,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,4,g,0,g
+960,lubys,baked ham,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+961,lubys,blacke eyed peas,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,11,g,0,g
+962,lubys,blackened tilapia,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,2,g,0,g
+963,lubys,bleu cheese,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+964,lubys,broccoli cauliflower and carrots,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,17,g,0,g
+965,lubys,brussels sprouts and carrots,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,9,g,0,g
+966,lubys,butter beans,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,16,g,0,g
+967,lubys,buttered corn,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,4,g,0,g
+968,lubys,buttered fresh carrots,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,5,g,0,g
+969,lubys,caesar,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+970,lubys,cajun fried turkey breast,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+971,lubys,cauliflower peas and carrots,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,6,g,0,g
+972,lubys,chicken noodle soup,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,1,g,0,g
+973,lubys,chicken piccata precooked,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,1,g,0,g
+974,lubys,chipotle lime chicken,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,17,g,0,g
+975,lubys,cuban grilled tilapia,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,2,g,0,g
+976,lubys,french,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+977,lubys,fresh asparagus,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,4,g,0,g
+978,lubys,fresh broccoli,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,5,g,0,g
+979,lubys,fresh corn on the cob,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,2,g,0,g
+980,lubys,fresh green beans,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,4,g,0,g
+981,lubys,green peas and carrots,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,8,g,0,g
+982,lubys,grilled chicken a la frontera without queso,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,1,g,0,g
+983,lubys,grilled chicken breast with skin,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+984,lubys,grilled chicken breast without skin,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+985,lubys,grilled chicken caesar with skin and dressing,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,6,g,0,g
+986,lubys,grilled chicken caesar with skin and no dressing,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,6,g,0,g
+987,lubys,grilled summer tilapia,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,4,g,0,g
+988,lubys,hibachi rice,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,1,g,0,g
+989,lubys,holiday rice,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,1,g,0,g
+990,lubys,italian,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+991,lubys,jell o,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+992,lubys,lemon basil salmon,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+993,lubys,lemon basil tilapia,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+994,lubys,lemon dill salmon without sauce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+995,lubys,lemon pepper salmon,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+996,lubys,lemon roasted asparagus,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,1,g,0,g
+997,lubys,lima beans,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,14,g,0,g
+998,lubys,marinated cucumbers with oil and vinegar,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,1,g,0,g
+999,lubys,mixed melons,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,2,g,0,g

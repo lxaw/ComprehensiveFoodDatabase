@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,biaggis ristorante italiano,pp baguette,3,g,0,mg,840,g,66,g,10,g,0,g,0,g,4,g,0,g
+1,biaggis ristorante italiano,pp biaggis oil for tables,54,g,0,mg,90,g,0,g,0,g,5,g,0,g,0,g,0,g
+2,biaggis ristorante italiano,pp butternut squash ravioli,207,g,390,mg,8010,g,195,g,66,g,72,g,0,g,6,g,27,g
+3,biaggis ristorante italiano,pp caesar salad,60,g,50,mg,2220,g,18,g,18,g,14,g,0,g,4,g,8,g
+4,biaggis ristorante italiano,pp farfalle alfredo,198,g,540,mg,6540,g,129,g,153,g,81,g,2,g,6,g,36,g
+5,biaggis ristorante italiano,pp focaccia,23,g,5,mg,930,g,90,g,15,g,3,g,1,g,4,g,3,g
+6,biaggis ristorante italiano,pp grated cheese,8,g,20,mg,360,g,0,g,4,g,4,g,0,g,0,g,0,g
+7,biaggis ristorante italiano,pp house salad,82,g,0,mg,680,g,24,g,4,g,9,g,0,g,4,g,14,g
+8,biaggis ristorante italiano,pp lasagna,117,g,420,mg,6060,g,204,g,105,g,60,g,0,g,21,g,18,g
+9,biaggis ristorante italiano,pp ravioli quattro formaggi,177,g,495,mg,5250,g,144,g,111,g,87,g,3,g,9,g,30,g
+10,biaggis ristorante italiano,pp rigatoni alla toscana,186,g,240,mg,8490,g,189,g,105,g,42,g,0,g,12,g,51,g
+11,biaggis ristorante italiano,pp rigatoni bolognese,198,g,480,mg,11730,g,171,g,171,g,69,g,0,g,9,g,39,g
+12,biaggis ristorante italiano,pp spaghetti and meatballs,111,g,285,mg,10350,g,222,g,144,g,39,g,0,g,12,g,51,g
+13,biaggis ristorante italiano,pp spaghetti marinara,60,g,15,mg,4590,g,210,g,39,g,9,g,0,g,12,g,48,g
+14,biaggis ristorante italiano,pp ziti al forno,321,g,1395,mg,9960,g,123,g,210,g,201,g,6,g,3,g,24,g
+15,biaggis ristorante italiano,prime rib and three cheese sandwich,132,g,245,mg,3280,g,122,g,77,g,45,g,0,g,1,g,15,g
+16,biaggis ristorante italiano,prime rib and three cheese sandwich half,66,g,125,mg,1640,g,61,g,39,g,23,g,0,g,1,g,8,g
+17,biaggis ristorante italiano,ravioli quattro formaggi,59,g,165,mg,1750,g,48,g,37,g,29,g,1,g,3,g,10,g
+18,biaggis ristorante italiano,ravioli quattro formaggi half,30,g,85,mg,880,g,24,g,19,g,15,g,1,g,2,g,5,g
+19,biaggis ristorante italiano,rigatoni alla toscana,62,g,80,mg,2830,g,63,g,35,g,14,g,0,g,4,g,17,g
+20,biaggis ristorante italiano,rigatoni alla toscana half,31,g,40,mg,1420,g,32,g,18,g,7,g,0,g,2,g,9,g
+21,biaggis ristorante italiano,rigatoni bolognese,66,g,160,mg,3910,g,57,g,57,g,23,g,0,g,3,g,13,g
+22,biaggis ristorante italiano,rigatoni bolognese half,33,g,80,mg,1960,g,29,g,29,g,12,g,0,g,2,g,7,g
+23,biaggis ristorante italiano,roasted turkey and avocado sandwich,40,g,95,mg,2720,g,79,g,50,g,10,g,0,g,4,g,8,g
+24,biaggis ristorante italiano,roasted turkey and avocado sandwich half,20,g,50,mg,1360,g,40,g,25,g,5,g,0,g,2,g,4,g
+25,biaggis ristorante italiano,roasted vegetable risotto,41,g,10,mg,3820,g,17,g,9,g,6,g,0,g,5,g,7,g
+26,biaggis ristorante italiano,roasted vegetable risotto with chicken,50,g,185,mg,4640,g,17,g,61,g,8,g,0,g,5,g,7,g
+27,biaggis ristorante italiano,roasted vegetable risotto with salmon,51,g,90,mg,3950,g,21,g,45,g,8,g,0,g,7,g,7,g
+28,biaggis ristorante italiano,roasted vegetable risotto with shrimp,49,g,80,mg,4860,g,18,g,17,g,7,g,0,g,5,g,7,g
+29,biaggis ristorante italiano,salmon and shrimp risotto dinner,70,g,215,mg,3060,g,34,g,49,g,23,g,0,g,5,g,3,g
+30,biaggis ristorante italiano,salmon and shrimp risotto lunch,51,g,160,mg,2280,g,32,g,45,g,17,g,0,g,5,g,2,g
+31,biaggis ristorante italiano,sausage and mushroom pizza,118,g,265,mg,6210,g,178,g,73,g,55,g,1,g,3,g,9,g
+32,biaggis ristorante italiano,sausage and mushroom pizza half,59,g,135,mg,3110,g,89,g,37,g,28,g,0,g,2,g,5,g
+33,biaggis ristorante italiano,sea scallop risotto dinner,61,g,115,mg,2570,g,55,g,38,g,15,g,0,g,4,g,11,g
+34,biaggis ristorante italiano,sea scallop risotto lunch,60,g,90,mg,2470,g,53,g,29,g,15,g,0,g,4,g,11,g
+35,biaggis ristorante italiano,seared salmon salad,56,g,135,mg,1460,g,20,g,42,g,5,g,0,g,7,g,6,g
+36,biaggis ristorante italiano,sherry tomato soup bowl,17,g,55,mg,4450,g,16,g,3,g,9,g,0,g,2,g,3,g
+37,biaggis ristorante italiano,sherry tomato soup cup,11,g,35,mg,2970,g,11,g,2,g,6,g,0,g,1,g,2,g
+38,biaggis ristorante italiano,shrimp and crab cannelloni dinner,78,g,415,mg,3370,g,46,g,56,g,35,g,1,g,1,g,6,g
+39,biaggis ristorante italiano,shrimp and crab cannelloni lunch,67,g,355,mg,2910,g,38,g,47,g,28,g,1,g,1,g,5,g
+40,biaggis ristorante italiano,shrimp and crab cannelloni half,51,g,235,mg,1920,g,27,g,32,g,21,g,1,g,1,g,3,g
+41,biaggis ristorante italiano,shrimp and crab cannelloni half and half,50,g,205,mg,1850,g,23,g,25,g,21,g,1,g,1,g,4,g
+42,biaggis ristorante italiano,smoked chicken salad,94,g,120,mg,4110,g,80,g,34,g,25,g,0,g,9,g,62,g
+43,biaggis ristorante italiano,spaghetti and meatballs,37,g,95,mg,3450,g,74,g,48,g,13,g,0,g,4,g,17,g
+44,biaggis ristorante italiano,spaghetti and meatballs half,19,g,50,mg,1730,g,37,g,24,g,7,g,0,g,2,g,9,g
+45,biaggis ristorante italiano,spaghetti marinara,20,g,5,mg,1530,g,70,g,13,g,3,g,0,g,4,g,16,g
+46,biaggis ristorante italiano,spaghetti marinara half,10,g,5,mg,770,g,35,g,7,g,2,g,0,g,2,g,8,g
+47,biaggis ristorante italiano,spinach and artichoke dip,81,g,140,mg,6460,g,205,g,42,g,32,g,1,g,2,g,4,g
+48,biaggis ristorante italiano,spinach salad half,39,g,65,mg,960,g,9,g,7,g,7,g,0,g,2,g,6,g
+49,biaggis ristorante italiano,spinach salad large,154,g,260,mg,3840,g,36,g,28,g,26,g,1,g,6,g,24,g
+50,biaggis ristorante italiano,spinach salad small,77,g,130,mg,1920,g,18,g,14,g,13,g,1,g,3,g,12,g
+51,biaggis ristorante italiano,steak pommes frites,76,g,295,mg,4540,g,84,g,104,g,27,g,2,g,8,g,6,g
+52,biaggis ristorante italiano,stuffed mushrooms,33,g,45,mg,1730,g,22,g,20,g,10,g,0,g,4,g,5,g
+53,biaggis ristorante italiano,supreme pizza,77,g,180,mg,4890,g,176,g,65,g,32,g,0,g,4,g,12,g
+54,biaggis ristorante italiano,supreme pizza half,39,g,90,mg,2450,g,88,g,33,g,16,g,0,g,2,g,6,g
+55,biaggis ristorante italiano,sweet potato fries,22,g,0,mg,520,g,92,g,3,g,2,g,0,g,0,g,22,g
+56,biaggis ristorante italiano,tiramisu,44,g,225,mg,160,g,95,g,8,g,28,g,0,g,3,g,70,g
+57,biaggis ristorante italiano,vegetable minestrone soup bowl,2,g,0,mg,960,g,21,g,4,g,0,g,0,g,5,g,3,g
+58,biaggis ristorante italiano,vegetable minestrone soup cup,1,g,0,mg,640,g,14,g,3,g,0,g,0,g,3,g,2,g
+59,biaggis ristorante italiano,wedge salad,59,g,75,mg,1100,g,10,g,13,g,14,g,0,g,3,g,7,g
+60,biaggis ristorante italiano,wedge salad half,30,g,40,mg,550,g,5,g,7,g,7,g,0,g,2,g,4,g
+61,biaggis ristorante italiano,white chocolate bread pudding,110,g,495,mg,250,g,115,g,19,g,64,g,2,g,3,g,81,g
+62,big apple bagels,8 grain bagel,2,g,0,mg,510,g,65,g,11,g,0.5,g,0,g,2,g,4,g
+63,big apple bagels,add chicken breast,4.5,g,50,mg,530,g,3,g,14,g,1.5,g,0,g,0,g,2,g
+64,big apple bagels,apple cinnamon cream cheese 1 5 oz,11,g,30,mg,120,g,6,g,2,g,7,g,0,g,0,g,3,g
+65,big apple bagels,asiago melt bagel,6,g,15,mg,650,g,65,g,15,g,3.5,g,0,g,2,g,4,g
+66,big apple bagels,bagel chips 2 oz,10,g,30,mg,600,g,36,g,7,g,2.5,g,0,g,2,g,4,g
+67,big apple bagels,banana nut bagel,3.5,g,0,mg,460,g,65,g,11,g,0.5,g,0,g,3,g,7,g
+68,big apple bagels,banana nut chocolate chip muffin large,38,g,75,mg,460,g,92,g,10,g,9,g,0,g,4,g,53,g
+69,big apple bagels,banana nut muffin large,38,g,65,mg,400,g,71,g,9,g,6,g,0,g,3,g,39,g
+70,big apple bagels,big apple club 1 order,20,g,55,mg,1410,g,6,g,18,g,6,g,0,g,1,g,5,g
+71,big apple bagels,black forest coffee large 20 fl oz,4.5,g,10,mg,50,g,96,g,2,g,2.5,g,0,g,0,g,93,g
+72,big apple bagels,black forest coffee medium 16 fl oz,4,g,10,mg,40,g,76,g,2,g,2.5,g,0,g,0,g,73,g
+73,big apple bagels,blueberry bagel,2,g,0,mg,490,g,65,g,11,g,0.5,g,0,g,2,g,6,g
+74,big apple bagels,blueberry bagel co nv and or mfm locations,1.5,g,0,mg,550,g,69,g,11,g,0,g,0,g,2,g,12,g
+75,big apple bagels,blueberry bagel nj location,1,g,0,mg,520,g,70,g,11,g,0,g,0,g,4,g,14,g
+76,big apple bagels,blueberry cheesecake muffin large,36,g,95,mg,430,g,60,g,7,g,13,g,0,g,1,g,38,g
+77,big apple bagels,blueberry cream cheese 1 5 oz,11,g,30,mg,120,g,6,g,2,g,7,g,0,g,0,g,4,g
+78,big apple bagels,blueberry mfm bagel,1,g,0,mg,490,g,67,g,11,g,0,g,0,g,4,g,12,g
+79,big apple bagels,blueberry muffin large,28,g,75,mg,460,g,78,g,7,g,5,g,0,g,2,g,44,g
+80,big apple bagels,boston cream pie muffin large,33,g,75,mg,550,g,105,g,7,g,7,g,0,g,1,g,69,g
+81,big apple bagels,breakfast blt plain cream cheese,12,g,35,mg,210,g,4,g,5,g,7,g,0,g,1,g,2,g
+82,big apple bagels,breakfast morning classic,10,g,255,mg,310,g,1,g,9,g,4,g,0,g,0,g,1,g
+83,big apple bagels,breakfast northern omelette,32,g,295,mg,680,g,3,g,17,g,12,g,0,g,0,g,2,g
+84,big apple bagels,breakfast ranchero,15,g,260,mg,610,g,3,g,13,g,6,g,0,g,1,g,1,g
+85,big apple bagels,breakfast southern tradition bacon,12,g,260,mg,410,g,1,g,12,g,5,g,0,g,0,g,1,g
+86,big apple bagels,breakfast southern tradition ham,11,g,265,mg,720,g,3,g,14,g,4.5,g,0,g,0,g,2,g
+87,big apple bagels,breakfast southern tradition pork sausage,32,g,295,mg,680,g,2,g,17,g,12,g,0,g,0,g,1,g
+88,big apple bagels,bruschetta pizzaah,23,g,55,mg,840,g,16,g,22,g,13,g,0,g,7,g,5,g
+89,big apple bagels,caesar salad with creamy caesar dressing,34,g,50,mg,1180,g,19,g,15,g,9,g,0,g,4,g,4,g
+90,big apple bagels,cafe caramella large 20 fl oz,19,g,60,mg,190,g,58,g,4,g,12,g,0,g,0,g,48,g
+91,big apple bagels,cafe caramella medium 16 fl oz,16,g,50,mg,150,g,44,g,4,g,10,g,0,g,0,g,37,g
+92,big apple bagels,cafe mocha large 20 fl oz,13,g,40,mg,90,g,56,g,5,g,8,g,0,g,0,g,52,g
+93,big apple bagels,cafe mocha medium 16 fl oz,12,g,35,mg,75,g,43,g,4,g,7,g,0,g,0,g,40,g
+94,big apple bagels,cafe white mocha large 20 fl oz,13,g,40,mg,210,g,54,g,6,g,8,g,0,g,0,g,52,g
+95,big apple bagels,cafe white mocha medium 16 fl oz,11,g,35,mg,170,g,41,g,5,g,7,g,0,g,0,g,39,g
+96,big apple bagels,cafz caesar salad with creamy caesar dressing,17,g,25,mg,590,g,10,g,8,g,4.5,g,0,g,2,g,2,g
+97,big apple bagels,cafz garden mix salad with lite italian dressing,1.5,g,0,mg,670,g,10,g,2,g,0,g,0,g,2,g,6,g
+98,big apple bagels,calypso grilled chicken salad with balsamic vinaigrette dressing,44,g,50,mg,1160,g,38,g,24,g,6,g,0,g,7,g,25,g
+99,big apple bagels,cappuccino large 20 fl oz,9,g,35,mg,230,g,23,g,15,g,6,g,0,g,0,g,22,g
+100,big apple bagels,cappuccino medium 16 fl oz,7,g,30,mg,180,g,19,g,12,g,4.5,g,0,g,0,g,18,g
+101,big apple bagels,caramel decadence icepresso 16 fl oz,15,g,15,mg,160,g,58,g,2,g,13,g,0,g,0,g,37,g
+102,big apple bagels,carrot cake muffin large,42,g,95,mg,490,g,112,g,9,g,13,g,0,g,3,g,77,g
+103,big apple bagels,chai latte large 20 fl oz,6,g,25,mg,210,g,66,g,10,g,3.5,g,0,g,0,g,59,g
+104,big apple bagels,chai latte medium 16 fl oz,4.5,g,20,mg,170,g,52,g,8,g,3,g,0,g,0,g,46,g
+105,big apple bagels,cheddar and bacon cream cheese 1 5 oz,13,g,35,mg,150,g,2,g,3,g,9,g,0,g,0,g,1,g
+106,big apple bagels,cheddar bagel co nv and or mfm locations,6,g,15,mg,640,g,68,g,14,g,3,g,0,g,2,g,10,g
+107,big apple bagels,cheddar herb bagel,7,g,15,mg,610,g,57,g,14,g,3.5,g,0,g,2,g,3,g
+108,big apple bagels,cheddar herb twist,19,g,50,mg,1100,g,87,g,27,g,10,g,0,g,4,g,5,g
+109,big apple bagels,cheddar melt bagel,6,g,15,mg,590,g,65,g,15,g,3,g,0,g,2,g,4,g
+110,big apple bagels,cheddar twist co nv and or mfm locations,19,g,50,mg,1100,g,87,g,27,g,10,g,0,g,4,g,5,g
+111,big apple bagels,cheese pizzaah,7,g,20,mg,490,g,4,g,10,g,4,g,0,g,1,g,2,g
+112,big apple bagels,cherry cheesecake muffin large,35,g,95,mg,450,g,69,g,7,g,13,g,0,g,1,g,46,g
+113,big apple bagels,chicken bruschetta pizzaah,27,g,105,mg,1370,g,19,g,36,g,15,g,0,g,7,g,7,g
+114,big apple bagels,chicken caesar sandwich,16,g,70,mg,1220,g,8,g,20,g,5,g,0,g,2,g,4,g
+115,big apple bagels,chicken club salad with ranch dressing,59,g,110,mg,2040,g,18,g,35,g,17,g,0,g,4,g,10,g
+116,big apple bagels,chocolate cheesecake,5,g,5,mg,65,g,8,g,1,g,2,g,0,g,0,g,5,g
+117,big apple bagels,chocolate cheesecake muffin large,38,g,45,mg,540,g,70,g,8,g,14,g,0,g,4,g,42,g
+118,big apple bagels,chocolate chip bagel,3.5,g,0,mg,480,g,65,g,11,g,1.5,g,0,g,3,g,7,g
+119,big apple bagels,chocolate chip cream cheese 1 5 oz,12,g,30,mg,115,g,7,g,2,g,8,g,0,g,0,g,5,g
+120,big apple bagels,chocolate chip mfm bagel,2.5,g,0,mg,470,g,64,g,11,g,1.5,g,0,g,4,g,12,g
+121,big apple bagels,chocolate chip muffin large,39,g,80,mg,510,g,100,g,10,g,11,g,0,g,4,g,60,g
+122,big apple bagels,cinnamon bun bagel,4,g,0,mg,480,g,66,g,11,g,2,g,0,g,2,g,9,g
+123,big apple bagels,cinnamon crumb cake muffin large,40,g,85,mg,510,g,107,g,8,g,12,g,0,g,1,g,68,g
+124,big apple bagels,cinnamon danish bagel,3.5,g,0,mg,460,g,68,g,11,g,0.5,g,0,g,3,g,10,g
+125,big apple bagels,cinnamon laced apple pie bagel,3.5,g,0,mg,470,g,63,g,10,g,2,g,0,g,2,g,8,g
+126,big apple bagels,cinnamon raisin bagel,1.5,g,0,mg,470,g,68,g,11,g,0.5,g,0,g,3,g,10,g
+127,big apple bagels,cinnamon raisin bagel co nv and or mfm locations,1.5,g,0,mg,520,g,69,g,11,g,0,g,0,g,3,g,13,g
+128,big apple bagels,cinnamon raisin bagel nj location,1,g,0,mg,500,g,68,g,11,g,0,g,0,g,4,g,13,g
+129,big apple bagels,cinnamon raisin mfm bagel,1,g,0,mg,480,g,67,g,11,g,0,g,0,g,5,g,13,g
+130,big apple bagels,cinnamon sugar bagel,2,g,0,mg,500,g,78,g,11,g,0.5,g,0,g,3,g,16,g
+131,big apple bagels,cinnamon sugar bagel co nv and or mfm locations,1.5,g,0,mg,560,g,74,g,11,g,0,g,0,g,3,g,16,g
+132,big apple bagels,cinnamon sugar mfm bagel,1,g,0,mg,520,g,73,g,11,g,0,g,0,g,5,g,15,g
+133,big apple bagels,cinnamon swirl cheesecake muffin large,42,g,100,mg,450,g,70,g,8,g,16,g,0,g,1,g,47,g
+134,big apple bagels,cinnamon toast latte large 20 fl oz,9,g,35,mg,220,g,61,g,14,g,5,g,0,g,0,g,59,g
+135,big apple bagels,cinnamon toast latte medium 16 fl oz,7,g,30,mg,180,g,47,g,12,g,4.5,g,0,g,0,g,46,g
+136,big apple bagels,classic plain in store on bagel 1 5 oz,12,g,30,mg,150,g,2,g,2,g,8,g,0,g,0,g,0,g
+137,big apple bagels,classic turkey 1 order,13,g,40,mg,940,g,4,g,14,g,3,g,0,g,1,g,3,g
+138,big apple bagels,coffee large 20 oz,0,g,0,mg,10,g,0,g,1,g,0,g,0,g,0,g,0,g
+139,big apple bagels,coffee medium 16 oz,0,g,0,mg,10,g,0,g,1,g,0,g,0,g,0,g,0,g
+140,big apple bagels,coffee small 12 oz,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+141,big apple bagels,corn bread muffin large,36,g,80,mg,510,g,94,g,9,g,7,g,0,g,2,g,45,g
+142,big apple bagels,cranberry walnut cream cheese 1 5 oz,12,g,30,mg,110,g,6,g,2,g,7,g,0,g,0,g,4,g
+143,big apple bagels,creme caramel latte large 20 fl oz,15,g,55,mg,280,g,69,g,15,g,9,g,0,g,0,g,63,g
+144,big apple bagels,creme caramel latte medium 16 fl oz,13,g,45,mg,220,g,54,g,12,g,8,g,0,g,0,g,49,g
+145,big apple bagels,cucumber cream cheese 1 5 oz,10,g,25,mg,100,g,2,g,2,g,7,g,0,g,0,g,0,g
+146,big apple bagels,deep dish apple pie muffin large,22,g,45,mg,350,g,85,g,5,g,6,g,0,g,1,g,57,g
+147,big apple bagels,dill garlic 1 5 oz,14,g,35,mg,140,g,2,g,2,g,9,g,0,g,0,g,0,g
+148,big apple bagels,double berry crumb muffin large,27,g,70,mg,430,g,73,g,7,g,5,g,0,g,2,g,41,g
+149,big apple bagels,double chocolate muffin large,37,g,0,mg,700,g,100,g,9,g,9,g,0,g,6,g,57,g
+150,big apple bagels,egg bagel,2,g,5,mg,500,g,63,g,11,g,0.5,g,0,g,2,g,3,g
+151,big apple bagels,egg bagel co nv and or mfm locations,1.5,g,5,mg,560,g,67,g,11,g,0,g,0,g,2,g,10,g
+152,big apple bagels,egg mfm bagel,1.5,g,35,mg,530,g,65,g,12,g,0.5,g,0,g,4,g,9,g
+153,big apple bagels,espresso double shot,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+154,big apple bagels,espresso single shot,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+155,big apple bagels,everything bagel,3,g,0,mg,1070,g,66,g,12,g,0.5,g,0,g,3,g,5,g
+156,big apple bagels,everything bagel co nv and or mfm locations,3,g,0,mg,1120,g,69,g,12,g,0,g,0,g,3,g,10,g
+157,big apple bagels,everything bagel nj location,1,g,0,mg,530,g,69,g,11,g,0,g,0,g,4,g,12,g
+158,big apple bagels,everything mfm bagel,1,g,0,mg,510,g,69,g,11,g,0,g,0,g,4,g,12,g
+159,big apple bagels,everything twist pizzaah bread base,4,g,0,mg,1320,g,99,g,18,g,1,g,0,g,4,g,7,g
+160,big apple bagels,french toast bagel,4,g,5,mg,480,g,65,g,11,g,2,g,0,g,2,g,7,g
+161,big apple bagels,french toast bagel co nv and or mfm locations,3.5,g,5,mg,530,g,68,g,11,g,1.5,g,0,g,2,g,13,g
+162,big apple bagels,french toast sandwich with egg bab bagel included,55,g,345,mg,1210,g,107,g,26,g,26,g,0,g,2,g,28,g
+163,big apple bagels,french toast sandwich with egg mfm bagel included,55,g,350,mg,1320,g,117,g,27,g,26,g,0,g,2,g,35,g
+164,big apple bagels,garden mix salad with lite italian dressing,3,g,0,mg,1350,g,20,g,4,g,0,g,0,g,5,g,13,g
+165,big apple bagels,garden veggie in store on bagel 1 5 oz,11,g,30,mg,210,g,3,g,2,g,7,g,0,g,0,g,0,g
+166,big apple bagels,garlic bagel,2.5,g,0,mg,500,g,64,g,11,g,0.5,g,0,g,2,g,4,g
+167,big apple bagels,georgia peach muffin large,27,g,70,mg,390,g,82,g,7,g,6,g,0,g,2,g,48,g
+168,big apple bagels,grilled chicken 1 order,15,g,55,mg,920,g,6,g,15,g,3,g,0,g,1,g,4,g
+169,big apple bagels,ham and cheddar,20,g,55,mg,1340,g,7,g,16,g,6,g,0,g,1,g,5,g
+170,big apple bagels,holey guacamole 1 order,4.5,g,35,mg,900,g,6,g,14,g,1.5,g,0,g,2,g,3,g
+171,big apple bagels,honey oat bagel,2,g,0,mg,460,g,70,g,11,g,0.5,g,0,g,2,g,12,g
+172,big apple bagels,honey wheat bagel co nv and or mfm locations,1.5,g,0,mg,480,g,71,g,12,g,0,g,0,g,4,g,11,g
+173,big apple bagels,honey wheat bagel nj location,1,g,0,mg,510,g,68,g,12,g,0,g,0,g,6,g,15,g
+174,big apple bagels,honey wheat mfm bagel,1,g,0,mg,500,g,64,g,11,g,0,g,0,g,6,g,10,g
+175,big apple bagels,honey cinnamon cream cheese 1 5 oz,13,g,35,mg,130,g,6,g,2,g,9,g,0,g,0,g,4,g
+176,big apple bagels,hot chocolate large 20 oz,15,g,50,mg,280,g,88,g,19,g,9,g,0,g,0,g,85,g
+177,big apple bagels,hot chocolate medium 16 oz,12,g,40,mg,220,g,71,g,15,g,8,g,0,g,0,g,68,g
+178,big apple bagels,icepresso 16 fl oz,18,g,10,mg,200,g,60,g,2,g,17,g,0,g,0,g,37,g
+179,big apple bagels,island oasis banana bash 16 fl oz,0,g,0,mg,60,g,87,g,2,g,0,g,0,g,2,g,72,g
+180,big apple bagels,island oasis banana berry freeze 16 fl oz,0,g,0,mg,0,g,88,g,0,g,0,g,0,g,4,g,73,g
+181,big apple bagels,island oasis berry passionate 16 fl oz,0,g,0,mg,60,g,85,g,2,g,0,g,0,g,3,g,71,g
+182,big apple bagels,island oasis berry refresher 16 fl oz,0,g,0,mg,60,g,85,g,2,g,0,g,0,g,3,g,72,g
+183,big apple bagels,island oasis hawaiian cooler 16 fl oz,0,g,0,mg,0,g,90,g,0,g,0,g,0,g,9,g,72,g
+184,big apple bagels,island oasis island berry 16 fl oz,0,g,0,mg,0,g,90,g,0,g,0,g,0,g,11,g,72,g
+185,big apple bagels,island oasis strawberry banana 16 fl oz,0,g,0,mg,60,g,86,g,2,g,0,g,0,g,3,g,72,g
+186,big apple bagels,island oasis tropical bling 16 fl oz,1.5,g,0,mg,10,g,88,g,0,g,1.5,g,0,g,3,g,74,g
+187,big apple bagels,island oasis tropical passion 16 fl oz,0,g,0,mg,0,g,89,g,0,g,0,g,0,g,8,g,72,g
+188,big apple bagels,jalapeno bagel,7,g,15,mg,650,g,57,g,14,g,3.5,g,0,g,2,g,3,g
+189,big apple bagels,jalapeno bagel co nv and or mfm locations,1.5,g,0,mg,640,g,62,g,10,g,0,g,0,g,2,g,9,g
+190,big apple bagels,jalapeno cheddar bagel co nv and or mfm locations,6,g,15,mg,730,g,63,g,14,g,3,g,0,g,2,g,9,g
+191,big apple bagels,jalapeno cream cheese 1 5 oz,11,g,30,mg,260,g,2,g,2,g,8,g,0,g,0,g,0,g
+192,big apple bagels,jalapeno salsa in store on bagel 1 5 oz,11,g,35,mg,180,g,3,g,2,g,7,g,0,g,0,g,0,g
+193,big apple bagels,java chip icepresso 16 fl oz,16,g,10,mg,105,g,41,g,2,g,13,g,0,g,2,g,28,g
+194,big apple bagels,just veggie,6,g,240,mg,75,g,3,g,7,g,2,g,0,g,1,g,1,g
+195,big apple bagels,kickn roast beef 1 order,15,g,45,mg,1080,g,7,g,14,g,3.5,g,0,g,1,g,6,g
+196,big apple bagels,latte large 20 oz,10,g,40,mg,240,g,25,g,16,g,6,g,0,g,0,g,23,g
+197,big apple bagels,latte medium 16 oz,8,g,30,mg,190,g,20,g,13,g,5,g,0,g,0,g,19,g
+198,big apple bagels,lemon poppy seed muffin large,32,g,75,mg,500,g,90,g,8,g,6,g,0,g,2,g,54,g
+199,big apple bagels,lite plain cream cheese 1 5 oz,9,g,25,mg,140,g,2,g,4,g,6,g,0,g,0,g,1,g
+200,big apple bagels,lite vegetable cream cheese 1 5 oz,7,g,20,mg,120,g,2,g,3,g,4.5,g,0,g,0,g,1,g
+201,big apple bagels,lox and plain cream cheese,23,g,80,mg,220,g,6,g,15,g,14,g,0,g,1,g,2,g
+202,big apple bagels,lox cream cheese 1 5 oz,13,g,35,mg,130,g,2,g,3,g,8,g,0,g,0,g,0,g
+203,big apple bagels,lunch blt,15,g,20,mg,540,g,3,g,5,g,3,g,0,g,1,g,2,g
+204,big apple bagels,maple walnut cream cheese 1 5 oz,14,g,30,mg,115,g,6,g,2,g,8,g,0,g,0,g,4,g
+205,big apple bagels,med veg out with hummus substitute for cream cheese,6,g,0,mg,210,g,8,g,4,g,0,g,0,g,4,g,0,g
+206,big apple bagels,mediterranean bread salad with balsamic vinaigrette dressing,41,g,70,mg,2530,g,63,g,31,g,15,g,0,g,6,g,22,g
+207,big apple bagels,mediterranean veg out 1 order,19,g,50,mg,490,g,7,g,4,g,13,g,0,g,2,g,3,g
+208,big apple bagels,mini banana nut muffin,7,g,10,mg,65,g,12,g,2,g,1,g,0,g,1,g,6,g
+209,big apple bagels,mini blueberry cheesecake muffin,4.5,g,15,mg,55,g,8,g,1,g,2,g,0,g,0,g,5,g
+210,big apple bagels,mini blueberry muffin,4.5,g,10,mg,70,g,12,g,1,g,1,g,0,g,0,g,7,g
+211,big apple bagels,mini chocolate chip muffin,6,g,10,mg,75,g,16,g,2,g,2,g,0,g,1,g,10,g
+212,big apple bagels,mini cinnamon crumb cake muffin,6,g,15,mg,75,g,16,g,1,g,2,g,0,g,0,g,10,g
+213,big apple bagels,mini cinnamon swirl cheesecake muffin,5,g,15,mg,55,g,9,g,1,g,2,g,0,g,0,g,6,g
+214,big apple bagels,mini deep dish apple pie muffin,3.5,g,10,mg,40,g,14,g,1,g,1.5,g,0,g,0,g,9,g
+215,big apple bagels,mini double chocolate muffin,6,g,0,mg,105,g,17,g,2,g,2,g,0,g,1,g,10,g
+216,big apple bagels,mini lemon poppy seed muffin,4.5,g,10,mg,70,g,12,g,1,g,1,g,0,g,0,g,7,g
+217,big apple bagels,mini orange cranberry muffin,5,g,15,mg,80,g,13,g,1,g,1,g,0,g,0,g,7,g
+218,big apple bagels,mocha icepresso 16 fl oz,16,g,10,mg,115,g,54,g,3,g,14,g,0,g,1,g,39,g
+219,big apple bagels,mocha large 20 fl oz,10,g,35,mg,240,g,84,g,15,g,6,g,0,g,0,g,79,g
+220,big apple bagels,mocha medium 16 fl oz,8,g,25,mg,200,g,67,g,13,g,5,g,0,g,0,g,64,g
+221,big apple bagels,new york almond cheesecake muffin large,41,g,105,mg,400,g,74,g,8,g,16,g,0,g,1,g,49,g
+222,big apple bagels,onion and chive in store on bagel 1 5 oz,12,g,30,mg,200,g,3,g,2,g,8,g,0,g,0,g,0,g
+223,big apple bagels,onion bagel,2,g,0,mg,500,g,70,g,12,g,0.5,g,0,g,3,g,7,g
+224,big apple bagels,onion bagel co nv and or mfm locations,1.5,g,0,mg,560,g,73,g,12,g,0,g,0,g,3,g,12,g
+225,big apple bagels,onion bagel nj location,1,g,0,mg,340,g,77,g,14,g,0,g,0,g,4,g,7,g
+226,big apple bagels,onion mfm bagel,1,g,0,mg,320,g,77,g,14,g,0,g,0,g,4,g,7,g
+227,big apple bagels,orange cranberry muffin large,33,g,85,mg,540,g,91,g,8,g,6,g,0,g,1,g,53,g
+228,big apple bagels,parmesan bagel co nv and or mfm locations,5,g,10,mg,750,g,68,g,16,g,2.5,g,0,g,2,g,10,g
+229,big apple bagels,parmesan garlic bagel co nv and or mfm locations,2.5,g,0,mg,610,g,70,g,13,g,0.5,g,0,g,2,g,10,g
+230,big apple bagels,pepper jack bagel co nv and or mfm locations,5,g,10,mg,730,g,63,g,13,g,2.5,g,0,g,2,g,9,g
+231,big apple bagels,pepperoni pizzaah,26,g,65,mg,1390,g,16,g,27,g,12,g,0,g,6,g,5,g
+232,big apple bagels,pimpkin spice muffin,4.5,g,10,mg,70,g,12,g,1,g,1,g,0,g,0,g,6,g
+233,big apple bagels,plain bagel,2,g,0,mg,500,g,64,g,11,g,0.5,g,0,g,2,g,4,g
+234,big apple bagels,plain bagel co nv and or mfm locations,1.5,g,0,mg,560,g,67,g,11,g,0,g,0,g,2,g,10,g
+235,big apple bagels,plain bagel nj location,1,g,0,mg,540,g,66,g,11,g,0,g,0,g,4,g,9,g
+236,big apple bagels,plain cream cheese 1 5 oz,13,g,35,mg,140,g,2,g,2,g,9,g,0,g,0,g,0,g
+237,big apple bagels,plain mfm bagel,1,g,0,mg,520,g,66,g,11,g,0,g,0,g,4,g,9,g
+238,big apple bagels,plain twist pizzaah bread base,2.5,g,0,mg,750,g,97,g,17,g,1,g,0,g,3,g,6,g
+239,big apple bagels,poppy bagel co nv and or mfm locations,4.5,g,0,mg,560,g,69,g,12,g,0.5,g,0,g,3,g,10,g
+240,big apple bagels,poppy bagel nj location,1.5,g,0,mg,530,g,68,g,11,g,0,g,0,g,4,g,11,g
+241,big apple bagels,poppy mfm bagel,1.5,g,0,mg,510,g,68,g,11,g,0,g,0,g,3,g,11,g
+242,big apple bagels,poppy seed bagel,4.5,g,0,mg,500,g,66,g,13,g,1,g,0,g,3,g,4,g
+243,big apple bagels,poppy seed twist pizzaah bread base,6,g,0,mg,760,g,99,g,18,g,1,g,0,g,5,g,7,g
+244,big apple bagels,pumpernickel bagel,5,g,0,mg,410,g,65,g,14,g,0.5,g,0,g,12,g,3,g
+245,big apple bagels,pumpernickel bagel nj location,1,g,0,mg,530,g,68,g,11,g,0,g,0,g,4,g,10,g
+246,big apple bagels,pumpernickel mfm bagel,1,g,0,mg,500,g,65,g,10,g,0,g,0,g,4,g,10,g
+247,big apple bagels,pumpkin cheesecake muffin large,36,g,100,mg,430,g,61,g,7,g,13,g,0,g,1,g,37,g
+248,big apple bagels,pumpkin spice muffin large,26,g,70,mg,380,g,86,g,7,g,6,g,0,g,2,g,51,g
+249,big apple bagels,raspberry amaretto muffin large,28,g,70,mg,470,g,91,g,7,g,5,g,0,g,1,g,57,g
+250,big apple bagels,reduced fat classic plain in store on bagel 1 5 oz,7,g,25,mg,140,g,2,g,3,g,5,g,0,g,0,g,0,g
+251,big apple bagels,roma italian 1 order,22,g,70,mg,1820,g,9,g,21,g,8,g,0,g,1,g,6,g
+252,big apple bagels,rotella open top dinner loaf white 2 slices,6,g,0,mg,340,g,33,g,7,g,1,g,0,g,1,g,2,g
+253,big apple bagels,rotella open top wheat berry 2 slices,3,g,0,mg,440,g,44,g,8,g,0,g,0,g,2,g,4,g
+254,big apple bagels,rotella rye reuben 2 slices,3,g,0,mg,440,g,38,g,8,g,0,g,0,g,4,g,2,g
+255,big apple bagels,salsa cream cheese 1 5 oz,12,g,35,mg,170,g,2,g,2,g,9,g,0,g,0,g,0,g
+256,big apple bagels,salt bagel,2,g,0,mg,3330,g,64,g,11,g,0.5,g,0,g,2,g,4,g
+257,big apple bagels,sausage pizzaah,38,g,80,mg,1360,g,16,g,28,g,17,g,0,g,6,g,6,g
+258,big apple bagels,scallion cream cheese 1 5 oz,12,g,30,mg,125,g,2,g,2,g,8,g,0,g,0,g,0,g
+259,big apple bagels,sesame bagel co nv and or mfm locations,5,g,0,mg,560,g,69,g,12,g,0.5,g,0,g,3,g,10,g
+260,big apple bagels,sesame bagel nj location,1.5,g,0,mg,530,g,66,g,11,g,0,g,0,g,4,g,9,g
+261,big apple bagels,sesame mfm bagel,1.5,g,0,mg,510,g,66,g,11,g,0,g,0,g,4,g,9,g
+262,big apple bagels,sesame seed bagel,5,g,0,mg,500,g,66,g,13,g,1,g,0,g,3,g,4,g
+263,big apple bagels,sesame seed twist pizzaah bread base,6,g,0,mg,750,g,99,g,18,g,1.5,g,0,g,4,g,6,g
+264,big apple bagels,sourdough mfm bagel,1,g,0,mg,500,g,64,g,11,g,0,g,0,g,4,g,9,g
+265,big apple bagels,spinach and swiss bagel co nv and or mfm locations,6,g,10,mg,570,g,65,g,14,g,3,g,0,g,2,g,9,g
+266,big apple bagels,spinach bagel co nv and or mfm locations,1.5,g,0,mg,550,g,66,g,11,g,0,g,0,g,2,g,9,g
+267,big apple bagels,spinach mfm bagel,1.5,g,0,mg,510,g,64,g,12,g,0,g,0,g,2,g,8,g
+268,big apple bagels,start fresh,10,g,50,mg,490,g,4,g,18,g,4,g,0,g,1,g,2,g
+269,big apple bagels,strawberry bagel,1.5,g,0,mg,480,g,68,g,11,g,0.5,g,0,g,2,g,12,g
+270,big apple bagels,strawberry cheesecake muffin large,31,g,85,mg,400,g,67,g,7,g,12,g,0,g,1,g,46,g
+271,big apple bagels,strawberry cream cheese 1 5 oz,11,g,30,mg,120,g,5,g,2,g,7,g,0,g,0,g,4,g
+272,big apple bagels,sweetduet brewsters banana 16 fl oz,4,g,40,mg,30,g,57,g,7,g,3,g,0,g,3,g,39,g
+273,big apple bagels,sweetduet brewsters banana crunch 16 fl oz,8,g,40,mg,85,g,121,g,11,g,3,g,0,g,6,g,66,g
+274,big apple bagels,sweetduet brewsters banana strawberry duet 16 fl oz,0,g,0,mg,115,g,55,g,3,g,0,g,0,g,4,g,39,g
+275,big apple bagels,sweetduet brewsters berry trio 16 fl oz,0,g,0,mg,115,g,49,g,3,g,0,g,0,g,5,g,36,g
+276,big apple bagels,sweetduet brewsters blackberry 16 fl oz,4,g,40,mg,30,g,49,g,7,g,3,g,0,g,6,g,37,g
+277,big apple bagels,sweetduet brewsters blueberry 16 fl oz,5,g,40,mg,30,g,45,g,6,g,3,g,0,g,3,g,34,g
+278,big apple bagels,sweetduet brewsters chocolate avalanche 16 fl oz,20,g,20,mg,170,g,90,g,10,g,13,g,0,g,5,g,75,g
+279,big apple bagels,sweetduet brewsters cookies and cream 16 fl oz,10,g,45,mg,210,g,71,g,8,g,6,g,0,g,0,g,59,g
+280,big apple bagels,sweetduet brewsters peanut butter crunch 16 fl oz,40,g,40,mg,380,g,87,g,26,g,10,g,0,g,8,g,31,g
+281,big apple bagels,sweetduet brewsters peanut butter cup 16 fl oz,46,g,15,mg,430,g,91,g,25,g,15,g,0,g,9,g,69,g
+282,big apple bagels,sweetduet brewsters raspberry 16 fl oz,5,g,40,mg,30,g,45,g,7,g,3,g,0,g,7,g,30,g
+283,big apple bagels,sweetduet brewsters strawberry 16 fl oz,0,g,40,mg,30,g,41,g,6,g,3,g,0,g,2,g,31,g
+284,big apple bagels,swiss bagel co nv and or mfm locations,6,g,10,mg,590,g,67,g,15,g,3,g,0,g,2,g,10,g
+285,big apple bagels,swiss melt bagel,6,g,10,mg,530,g,64,g,15,g,3.5,g,0,g,2,g,4,g
+286,big apple bagels,swiss mfm bagel,6,g,10,mg,540,g,66,g,15,g,3,g,0,g,4,g,10,g
+287,big apple bagels,toasted cafe chicken melt 1 order,29,g,110,mg,1470,g,13,g,32,g,11,g,0,g,1,g,11,g
+288,big apple bagels,toasted deli style turkey,20,g,80,mg,1040,g,7,g,26,g,10,g,0,g,1,g,5,g
+289,big apple bagels,toasted roast beef grinder,12,g,60,mg,1080,g,4,g,21,g,6,g,0,g,1,g,2,g
+290,big apple bagels,toasted spicy italian,26,g,80,mg,2280,g,15,g,25,g,10,g,0,g,2,g,8,g
+291,big apple bagels,tomato basil bagel,1.5,g,0,mg,500,g,63,g,11,g,0.5,g,0,g,3,g,4,g
+292,big apple bagels,tomato basil cream cheese 1 5 oz,13,g,35,mg,135,g,3,g,2,g,9,g,0,g,0,g,1,g
+293,big apple bagels,torani berry berserk smoothie with 2 milk 16 fl oz,2.5,g,10,mg,75,g,105,g,4,g,1.5,g,0,g,0,g,103,g
+294,big apple bagels,torani berry berserk smoothie with skim milk 16 fl oz,0,g,0,mg,70,g,106,g,4,g,0,g,0,g,0,g,104,g
+295,big apple bagels,torani mango licious smoothie with 2 milk16 fl oz,2.5,g,10,mg,70,g,108,g,4,g,1.5,g,0,g,1,g,106,g
+296,big apple bagels,torani mango licious smoothie with skim milk 16 fl oz,0,g,0,mg,65,g,108,g,4,g,0,g,0,g,1,g,106,g
+297,big apple bagels,torani razzle dazzle smoothie with 2 milk 16 fl oz,2.5,g,10,mg,80,g,99,g,4,g,1.5,g,0,g,0,g,98,g
+298,big apple bagels,torani razzle dazzle smoothie with skim milk16 fl oz,0,g,0,mg,75,g,100,g,4,g,0,g,0,g,0,g,98,g
+299,big apple bagels,torani syrup cherry 1 oz,0,g,0,mg,0,g,15,g,0,g,0,g,0,g,0,g,15,g
+300,big apple bagels,torani syrup cinnamon 1 oz,0,g,0,mg,0,g,15,g,0,g,0,g,0,g,0,g,15,g
+301,big apple bagels,torani syrup french vanilla 1 oz,0,g,0,mg,0,g,15,g,0,g,0,g,0,g,0,g,15,g
+302,big apple bagels,torani syrup irish cream 1 oz,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,17,g
+303,big apple bagels,torani syrup orgeat almond 1 oz,0,g,0,mg,0,g,15,g,0,g,0,g,0,g,0,g,15,g
+304,big apple bagels,torani syrup vanilla 1 oz,0,g,0,mg,0,g,15,g,0,g,0,g,0,g,0,g,15,g
+305,big apple bagels,triple decker california club,25,g,80,mg,1640,g,8,g,27,g,9,g,0,g,2,g,4,g
+306,big apple bagels,triple decker classic club,54,g,95,mg,1900,g,6,g,29,g,12,g,0,g,1,g,4,g
+307,big apple bagels,tuna salad,22,g,30,mg,900,g,12,g,9,g,3.5,g,0,g,2,g,9,g
+308,big apple bagels,turkey and havarti,22,g,90,mg,1150,g,6,g,22,g,14,g,0,g,1,g,3,g
+309,big apple bagels,turkey club 1 order,20,g,60,mg,1280,g,5,g,19,g,6,g,0,g,1,g,3,g
+310,big apple bagels,turtle mocha large 20 fl oz,19,g,60,mg,360,g,175,g,14,g,12,g,0,g,0,g,159,g
+311,big apple bagels,turtle mocha medium 16 fl oz,16,g,50,mg,290,g,146,g,11,g,10,g,0,g,0,g,133,g
+312,big apple bagels,vanilla creme latte large 20 fl oz,9,g,35,mg,220,g,64,g,14,g,5,g,0,g,0,g,62,g
+313,big apple bagels,vanilla creme latte medium 16 fl oz,7,g,30,mg,180,g,50,g,12,g,4.5,g,0,g,0,g,48,g
+314,big apple bagels,vegetable cream cheese 1 5 oz,11,g,30,mg,120,g,2,g,2,g,8,g,0,g,0,g,1,g
+315,big apple bagels,very strawberry in store on bagel 1 5 oz,11,g,30,mg,130,g,6,g,2,g,6,g,0,g,0,g,5,g
+316,big apple bagels,walnut raisin cream cheese 1 5 oz,12,g,30,mg,115,g,5,g,2,g,8,g,0,g,0,g,3,g
+317,big apple bagels,wheat bagel co nv and or mfm locations,1.5,g,0,mg,560,g,67,g,11,g,0,g,0,g,4,g,10,g
+318,big apple bagels,wheat everything bagel co nv and or mfm locations,3,g,0,mg,1050,g,73,g,12,g,0,g,0,g,5,g,12,g
+319,big apple bagels,white chocolate mocha large 20 fl oz,10,g,35,mg,400,g,81,g,17,g,6,g,0,g,0,g,79,g
+320,big apple bagels,white chocolate mocha medium 16 fl oz,8,g,30,mg,320,g,65,g,13,g,5,g,0,g,0,g,63,g
+321,big apple bagels,whole wheat bagel,2,g,0,mg,480,g,65,g,11,g,0.5,g,0,g,2,g,4,g
+322,big town hero,americano panini,24,g,90,mg,1570,g,81,g,35,g,7,g,0,g,7,g,7,g
+323,big town hero,arti parm chicken sub 12 inch,121,g,115,mg,3870,g,112,g,71,g,25,g,0,g,15,g,11,g
+324,big town hero,arti parm chicken sub 8 inch,82,g,75,mg,2650,g,82,g,49,g,17,g,0,g,11,g,8,g
+325,big town hero,arti parm chicken sub mini,42,g,40,mg,1460,g,47,g,27,g,9,g,0,g,6,g,6,g
+326,big town hero,avocado delight sub 12 inch sub,41,g,135,mg,1550,g,129,g,28,g,7,g,0,g,8,g,14,g
+327,big town hero,avocado delight sub 8 inch sub,29,g,95,mg,1100,g,92,g,20,g,4,g,0,g,5,g,9,g
+328,big town hero,avocado delight sub mini sub,17,g,60,mg,680,g,56,g,12,g,3,g,0,g,4,g,5,g
+329,big town hero,bacon and eggs sub 12 inch sub,38,g,330,mg,5390,g,110,g,121,g,8,g,0,g,5,g,7,g
+330,big town hero,bacon and eggs sub 8 inch sub,25,g,220,mg,3630,g,80,g,82,g,5,g,0,g,3,g,4,g
+331,big town hero,bacon and eggs sub mini sub,13,g,110,mg,1870,g,105,g,42,g,3,g,0,g,2,g,1,g
+332,big town hero,baked lays cheddar sour cream,1,g,0,mg,220,g,22,g,2,g,0,g,0,g,2,g,3,g
+333,big town hero,baked lays regular,0,g,0,mg,180,g,23,g,2,g,0,g,0,g,2,g,2,g
+334,big town hero,baked lays sour cream n onion,4,g,0,mg,210,g,15,g,2,g,0,g,0,g,1,g,1,g
+335,big town hero,basic breakfast sub 12 inch sub,17,g,195,mg,1280,g,109,g,17,g,0,g,0,g,5,g,7,g
+336,big town hero,basic breakfast sub 8 inch sub,11,g,130,mg,890,g,79,g,14,g,0,g,0,g,3,g,4,g
+337,big town hero,basic breakfast sub mini sub,6,g,65,mg,500,g,47,g,7,g,0,g,0,g,2,g,1,g
+338,big town hero,bbq beef sub 12 inch sub,16,g,30,mg,1180,g,126,g,25,g,4,g,0,g,7,g,10,g
+339,big town hero,bbq beef sub 8 inch sub,11,g,20,mg,830,g,90,g,18,g,3,g,0,g,4,g,6,g
+340,big town hero,bbq beef sub mini sub,6,g,10,mg,490,g,54,g,10,g,1,g,0,g,3,g,3,g
+341,big town hero,bbq lays,4,g,0,mg,200,g,15,g,2,g,0,g,0,g,1,g,2,g
+342,big town hero,beef barley soup bowl,5,g,25,mg,1170,g,24,g,9,g,2,g,0,g,5,g,3,g
+343,big town hero,beef barley soup cup,3,g,15,mg,780,g,16,g,6,g,2,g,0,g,3,g,2,g
+344,big town hero,blt sub sub 12 inch sub,19,g,190,mg,8660,g,123,g,197,g,0,g,0,g,7,g,10,g
+345,big town hero,blt sub sub 8 inch sub,14,g,130,mg,5840,g,88,g,133,g,0,g,0,g,5,g,6,g
+346,big town hero,blt sub sub mini sub,9,g,70,mg,3020,g,53,g,67,g,0,g,0,g,3,g,3,g
+347,big town hero,broccoli cheddar soup bowl,21,g,55,mg,1730,g,26,g,14,g,11,g,0,g,2,g,12,g
+348,big town hero,broccoli cheddar soup cup,14,g,35,mg,1150,g,17,g,9,g,7,g,0,g,1,g,8,g
+349,big town hero,butternut squash soup bowl,6,g,15,mg,1100,g,36,g,3,g,3,g,0,g,6,g,12,g
+350,big town hero,butternut squash soup cup,4,g,10,mg,730,g,24,g,2,g,2,g,0,g,4,g,8,g
+351,big town hero,caffeine free diet dr pepper large,0,g,0,mg,120,g,0,g,0,g,0,g,0,g,0,g,0,g
+352,big town hero,caffeine free diet dr pepper medium,0,g,0,mg,90,g,0,g,0,g,0,g,0,g,0,g,0,g
+353,big town hero,caffeine free diet dr pepper small,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+354,big town hero,caffeine free diet pepsi large,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+355,big town hero,caffeine free diet pepsi medium,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+356,big town hero,caffeine free diet pepsi small,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+357,big town hero,caffeine free dr pepper large,0,g,0,mg,120,g,95,g,0,g,0,g,0,g,0,g,95,g
+358,big town hero,caffeine free dr pepper medium,0,g,0,mg,90,g,68,g,0,g,0,g,0,g,0,g,68,g
+359,big town hero,caffeine free dr pepper small,0,g,0,mg,50,g,41,g,0,g,0,g,0,g,0,g,41,g
+360,big town hero,caffeine free pepsi large,0,g,0,mg,70,g,88,g,0,g,0,g,0,g,0,g,88,g
+361,big town hero,caffeine free pepsi medium,0,g,0,mg,50,g,63,g,0,g,0,g,0,g,0,g,63,g
+362,big town hero,caffeine free pepsi small,0,g,0,mg,30,g,38,g,0,g,0,g,0,g,0,g,38,g
+363,big town hero,cheese and eggs sub 12 inch sub,36,g,255,mg,1640,g,110,g,31,g,8,g,0,g,5,g,7,g
+364,big town hero,cheese and eggs sub 8 inch sub,24,g,170,mg,1130,g,80,g,22,g,5,g,0,g,3,g,4,g
+365,big town hero,cheese and eggs sub mini sub,12,g,85,mg,620,g,47,g,12,g,3,g,0,g,2,g,1,g
+366,big town hero,cheese 12 inch,17,g,55,mg,570,g,1,g,14,g,11,g,0,g,0,g,1,g
+367,big town hero,cheese 8 inch,10,g,35,mg,250,g,0,g,10,g,8,g,0,g,0,g,0,g
+368,big town hero,cheese mini,5,g,20,mg,125,g,0,g,5,g,4,g,0,g,0,g,0,g
+369,big town hero,cheesy americano panini,39,g,140,mg,1860,g,82,g,50,g,13,g,0,g,7,g,7,g
+370,big town hero,chef salad,11,g,65,mg,570,g,16,g,26,g,4,g,0,g,4,g,6,g
+371,big town hero,cherry vanilla dr pepper large,0,g,0,mg,140,g,90,g,0,g,0,g,0,g,0,g,88,g
+372,big town hero,cherry vanilla dr pepper medium,0,g,0,mg,100,g,65,g,0,g,0,g,0,g,0,g,63,g
+373,big town hero,cherry vanilla dr pepper small,0,g,0,mg,60,g,39,g,0,g,0,g,0,g,0,g,38,g
+374,big town hero,chicken dumpling soup bowl,9,g,60,mg,1640,g,24,g,9,g,3,g,0,g,2,g,11,g
+375,big town hero,chicken dumpling soup cup,6,g,40,mg,1090,g,16,g,6,g,2,g,0,g,1,g,7,g
+376,big town hero,chicken noodle soup bowl,5,g,25,mg,1740,g,23,g,9,g,2,g,0,g,2,g,5,g
+377,big town hero,chicken noodle soup cup,3,g,15,mg,1160,g,15,g,6,g,1,g,0,g,1,g,3,g
+378,big town hero,chicken sub 12 inch,32,g,155,mg,2820,g,129,g,60,g,7,g,0,g,8,g,11,g
+379,big town hero,chicken sub 8 inch,30,g,80,mg,1930,g,74,g,39,g,10,g,0,g,4,g,9,g
+380,big town hero,chicken sub mini,15,g,40,mg,1110,g,41,g,22,g,5,g,0,g,3,g,6,g
+381,big town hero,chicken vegetable noodle soup bowl,3,g,15,mg,1550,g,23,g,8,g,2,g,0,g,2,g,5,g
+382,big town hero,chicken vegetable noodle soup cup,2,g,10,mg,1030,g,15,g,5,g,1,g,0,g,1,g,3,g
+383,big town hero,chili bowl,20,g,55,mg,990,g,36,g,23,g,8,g,0,g,11,g,9,g
+384,big town hero,chili cup,13,g,35,mg,660,g,24,g,15,g,5,g,0,g,7,g,6,g
+385,big town hero,chocolate chip cookie,14,g,10,mg,80,g,18,g,1,g,4,g,0,g,1,g,11,g
+386,big town hero,clam chowder bowl,17,g,60,mg,1320,g,30,g,17,g,11,g,0,g,2,g,11,g
+387,big town hero,clam chowder cup,11,g,40,mg,880,g,20,g,11,g,7,g,0,g,1,g,7,g
+388,big town hero,corn chowder bowl,11,g,25,mg,1010,g,36,g,9,g,5,g,0,g,3,g,14,g
+389,big town hero,corn chowder cup,7,g,15,mg,670,g,24,g,6,g,3,g,0,g,2,g,9,g
+390,big town hero,cream cheese and cucumber sub 12 inch sub,42,g,165,mg,1740,g,134,g,37,g,10,g,0,g,7,g,16,g
+391,big town hero,cream cheese and cucumber sub 8 inch sub,29,g,115,mg,1220,g,96,g,26,g,7,g,0,g,5,g,10,g
+392,big town hero,cream cheese and cucumber sub mini sub,17,g,70,mg,740,g,58,g,15,g,4,g,0,g,4,g,5,g
+393,big town hero,cream of broccoli soup bowl,18,g,40,mg,1520,g,24,g,12,g,7,g,0,g,2,g,12,g
+394,big town hero,cream of broccoli soup cup,12,g,25,mg,1010,g,16,g,8,g,5,g,0,g,1,g,8,g
+395,big town hero,creamy chicken and wild rice soup bowl,18,g,85,mg,1380,g,29,g,20,g,9,g,0,g,0,g,12,g
+396,big town hero,creamy chicken and wild rice soup cup,12,g,55,mg,920,g,19,g,13,g,6,g,0,g,0,g,8,g
+397,big town hero,denver sub 12 inch sub,18,g,225,mg,1390,g,117,g,37,g,0,g,0,g,6,g,11,g
+398,big town hero,denver sub 8 inch sub,12,g,150,mg,970,g,143,g,27,g,0,g,0,g,4,g,7,g
+399,big town hero,denver sub mini sub,6,g,85,mg,660,g,50,g,15,g,0,g,0,g,3,g,2,g
+400,big town hero,diet cherry vanilla dr pepper large,0,g,0,mg,160,g,90,g,0,g,0,g,0,g,0,g,0,g
+401,big town hero,diet cherry vanilla dr pepper medium,0,g,0,mg,110,g,65,g,0,g,0,g,0,g,0,g,0,g
+402,big town hero,diet cherry vanilla dr pepper small,0,g,0,mg,70,g,39,g,0,g,0,g,0,g,0,g,0,g
+403,big town hero,diet dr pepper cherry large,0,g,0,mg,160,g,0,g,0,g,0,g,0,g,0,g,0,g
+404,big town hero,diet dr pepper cherry medium,0,g,0,mg,110,g,0,g,0,g,0,g,0,g,0,g,0,g
+405,big town hero,diet dr pepper cherry small,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+406,big town hero,diet dr pepper large,0,g,0,mg,120,g,0,g,0,g,0,g,0,g,0,g,0,g
+407,big town hero,diet dr pepper medium,0,g,0,mg,90,g,0,g,0,g,0,g,0,g,0,g,0,g
+408,big town hero,diet dr pepper small,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+409,big town hero,diet mountain dew large,0,g,0,mg,120,g,0,g,0,g,0,g,0,g,0,g,0,g
+410,big town hero,diet mountain dew medium,0,g,0,mg,90,g,0,g,0,g,0,g,0,g,0,g,0,g
+411,big town hero,diet mountain dew small,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+412,big town hero,diet pepsi large,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+413,big town hero,diet pepsi medium,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+414,big town hero,diet pepsi small,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+415,big town hero,diet sierra mist large,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+416,big town hero,diet sierra mist medium,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+417,big town hero,diet sierra mist small,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+418,big town hero,dorito cooler ranch,2,g,0,mg,180,g,18,g,2,g,0,g,0,g,2,g,1,g
+419,big town hero,dorito nacho cheese,2,g,0,mg,100,g,10,g,1,g,0,g,0,g,1,g,1,g
+420,big town hero,dr pepper cherry large,0,g,0,mg,140,g,101,g,0,g,0,g,0,g,0,g,99,g
+421,big town hero,dr pepper cherry medium,0,g,0,mg,100,g,72,g,0,g,0,g,0,g,0,g,71,g
+422,big town hero,dr pepper cherry small,0,g,0,mg,60,g,43,g,0,g,0,g,0,g,0,g,42,g
+423,big town hero,dr pepper large,0,g,0,mg,120,g,95,g,0,g,0,g,0,g,0,g,95,g
+424,big town hero,dr pepper medium,0,g,0,mg,90,g,68,g,0,g,0,g,0,g,0,g,68,g
+425,big town hero,dr pepper small,0,g,0,mg,50,g,41,g,0,g,0,g,0,g,0,g,41,g
+426,big town hero,dry salami party sub 2 ft sub,133,g,655,mg,10000,g,272,g,160,g,28,g,0,g,16,g,20,g
+427,big town hero,dry salami party sub 4 ft sub,266,g,1315,mg,10000,g,543,g,319,g,55,g,0,g,32,g,39,g
+428,big town hero,dry salami party sub 6 ft sub,399,g,1970,mg,31400,g,815,g,479,g,83,g,0,g,48,g,59,g
+429,big town hero,dry salami sub 12 inch,73,g,160,mg,2960,g,99,g,50,g,28,g,0,g,5,g,15,g
+430,big town hero,dry salami sub 8 inch,49,g,110,mg,1980,g,74,g,35,g,19,g,0,g,4,g,10,g
+431,big town hero,dry salami sub mini,26,g,60,mg,1140,g,41,g,20,g,10,g,0,g,3,g,7,g
+432,big town hero,fantastic four sub 12 inch,87,g,205,mg,4310,g,103,g,66,g,30,g,0,g,5,g,13,g
+433,big town hero,french dip sub 12 inch sub,13,g,10,mg,2730,g,123,g,58,g,0,g,0,g,6,g,8,g
+434,big town hero,french dip sub 8 inch sub,9,g,5,mg,1860,g,89,g,40,g,0,g,0,g,4,g,5,g
+435,big town hero,french dip sub mini sub,5,g,5,mg,1120,g,54,g,24,g,0,g,0,g,3,g,2,g
+436,big town hero,french onion soup bowl,3,g,10,mg,1770,g,20,g,3,g,2,g,0,g,3,g,12,g
+437,big town hero,french onion soup cup,2,g,5,mg,1180,g,13,g,2,g,1,g,0,g,2,g,8,g
+438,big town hero,fritos,14,g,0,mg,160,g,16,g,2,g,0,g,0,g,2,g,1,g
+439,big town hero,fudge rainbow cookie,4,g,20,mg,80,g,19,g,2,g,1,g,0,g,1,g,13,g
+440,big town hero,greek salad,16,g,50,mg,1690,g,14,g,12,g,2,g,0,g,4,g,4,g
+441,big town hero,grilled cheese tomato bacon panini,34,g,165,mg,4830,g,80,g,125,g,12,g,0,g,6,g,5,g
+442,big town hero,ham and eggs sub 12 inch sub,36,g,285,mg,1750,g,113,g,51,g,8,g,0,g,5,g,9,g
+443,big town hero,ham and eggs sub 8 inch sub,24,g,190,mg,1200,g,81,g,35,g,5,g,0,g,3,g,6,g
+444,big town hero,ham and eggs sub mini sub,12,g,100,mg,660,g,49,g,20,g,3,g,0,g,2,g,2,g
+445,big town hero,ham sub 12 inch,65,g,135,mg,2870,g,99,g,56,g,20,g,0,g,5,g,15,g
+446,big town hero,ham sub 8 inch,35,g,90,mg,1970,g,74,g,39,g,12,g,0,g,4,g,10,g
+447,big town hero,ham sub mini,18,g,50,mg,1130,g,41,g,22,g,6,g,0,g,3,g,6,g
+448,big town hero,italian wedding soup bowl,7,g,15,mg,1380,g,23,g,8,g,2,g,0,g,2,g,5,g
+449,big town hero,italian wedding soup cup,5,g,10,mg,920,g,15,g,5,g,2,g,0,g,1,g,3,g
+450,big town hero,italiano panini,24,g,95,mg,2350,g,85,g,31,g,5,g,0,g,7,g,8,g
+451,big town hero,kc masterpiece,0,g,0,mg,210,g,22,g,2,g,0,g,0,g,2,g,3,g
+452,big town hero,lays sour cream n onion,4,g,0,mg,210,g,15,g,2,g,0,g,0,g,1,g,1,g
+453,big town hero,lays regular,8,g,0,mg,180,g,15,g,2,g,0,g,0,g,1,g,0,g
+454,big town hero,lays salt n vinegar,4,g,0,mg,380,g,15,g,2,g,0,g,0,g,1,g,1,g
+455,big town hero,lipton brisk lemon large,0,g,0,mg,50,g,63,g,0,g,0,g,0,g,0,g,63,g
+456,big town hero,lipton brisk lemon medium,0,g,0,mg,40,g,45,g,0,g,0,g,0,g,0,g,45,g
+457,big town hero,lipton brisk lemon small,0,g,0,mg,20,g,27,g,0,g,0,g,0,g,0,g,27,g
+458,big town hero,lipton brisk peach large,0,g,0,mg,70,g,63,g,0,g,0,g,0,g,0,g,63,g
+459,big town hero,lipton brisk peach medium,0,g,0,mg,50,g,45,g,0,g,0,g,0,g,0,g,45,g
+460,big town hero,lipton brisk peach small,0,g,0,mg,30,g,27,g,0,g,0,g,0,g,0,g,27,g
+461,big town hero,lipton brisk raspberry large,0,g,0,mg,70,g,63,g,0,g,0,g,0,g,0,g,63,g
+462,big town hero,lipton brisk raspberry medium,0,g,0,mg,50,g,45,g,0,g,0,g,0,g,0,g,45,g
+463,big town hero,lipton brisk raspberry small,0,g,0,mg,30,g,27,g,0,g,0,g,0,g,0,g,27,g
+464,big town hero,lipton brisk sweet tea large,0,g,0,mg,110,g,63,g,0,g,0,g,0,g,0,g,63,g
+465,big town hero,lipton brisk sweet tea medium,0,g,0,mg,80,g,45,g,0,g,0,g,0,g,0,g,45,g
+466,big town hero,lipton brisk sweet tea small,0,g,0,mg,50,g,27,g,0,g,0,g,0,g,0,g,27,g
+467,big town hero,lipton brisk unsweetened no lemon large,0,g,0,mg,90,g,0,g,0,g,0,g,0,g,0,g,0,g
+468,big town hero,lipton brisk unsweetened no lemon medium,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+469,big town hero,lipton brisk unsweetened no lemon small,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+470,big town hero,lipton no calorie brisk green with peach large,0,g,0,mg,210,g,0,g,0,g,0,g,0,g,0,g,0,g
+471,big town hero,lipton no calorie brisk green with peach medium,0,g,0,mg,150,g,0,g,0,g,0,g,0,g,0,g,0,g
+472,big town hero,lipton no calorie brisk green with peach small,0,g,0,mg,90,g,0,g,0,g,0,g,0,g,0,g,0,g
+473,big town hero,macaroni salad large,734,g,30,mg,770,g,65,g,9,g,14,g,0,g,3,g,17,g
+474,big town hero,macaroni salad small,504,g,20,mg,530,g,45,g,6,g,9,g,0,g,2,g,12,g
+475,big town hero,mayonnaise 12 inch,30,g,20,mg,600,g,21,g,1,g,3,g,0,g,0,g,6,g
+476,big town hero,mayonnaise 8 inch,20,g,15,mg,400,g,14,g,1,g,2,g,0,g,0,g,4,g
+477,big town hero,mayonnaise mini,10,g,5,mg,200,g,7,g,0,g,1,g,0,g,0,g,2,g
+478,big town hero,meatball sub 12 inch sub,16,g,30,mg,1440,g,127,g,27,g,3,g,0,g,8,g,11,g
+479,big town hero,meatball sub 8 inch sub,12,g,20,mg,1020,g,90,g,20,g,2,g,0,g,5,g,7,g
+480,big town hero,meatball sub mini sub,8,g,15,mg,620,g,54,g,12,g,2,g,0,g,3,g,3,g
+481,big town hero,minestrone tortellini soup bowl,5,g,10,mg,1370,g,26,g,6,g,2,g,0,g,3,g,6,g
+482,big town hero,minestrone tortellini soup cup,3,g,5,mg,910,g,17,g,4,g,1,g,0,g,2,g,4,g
+483,big town hero,mini bread loaf mini,3,g,0,mg,370,g,52,g,8,g,0,g,0,g,2,g,3,g
+484,big town hero,miss vicki jalapeno,2,g,0,mg,200,g,16,g,2,g,0,g,0,g,1,g,1,g
+485,big town hero,miss vicki mesquite bbq,4,g,0,mg,220,g,17,g,2,g,0,g,0,g,2,g,1,g
+486,big town hero,miss vicki salt n vinegar,4,g,0,mg,250,g,16,g,2,g,0,g,0,g,2,g,2,g
+487,big town hero,mountain dew baja blast large,0,g,0,mg,90,g,88,g,0,g,0,g,0,g,0,g,88,g
+488,big town hero,mountain dew baja blast medium,0,g,0,mg,60,g,63,g,0,g,0,g,0,g,0,g,63,g
+489,big town hero,mountain dew baja blast small,0,g,0,mg,40,g,38,g,0,g,0,g,0,g,0,g,38,g
+490,big town hero,mountain dew code red large,0,g,0,mg,110,g,95,g,0,g,0,g,0,g,0,g,95,g
+491,big town hero,mountain dew code red medium,0,g,0,mg,80,g,68,g,0,g,0,g,0,g,0,g,68,g
+492,big town hero,mountain dew code red small,0,g,0,mg,50,g,41,g,0,g,0,g,0,g,0,g,41,g
+493,big town hero,mountain dew large,0,g,0,mg,110,g,88,g,0,g,0,g,0,g,0,g,88,g
+494,big town hero,mountain dew medium,0,g,0,mg,80,g,63,g,0,g,0,g,0,g,0,g,63,g
+495,big town hero,mountain dew small,0,g,0,mg,50,g,38,g,0,g,0,g,0,g,0,g,38,g
+496,big town hero,mug root beer large,0,g,0,mg,50,g,80,g,0,g,0,g,0,g,0,g,10,g
+497,big town hero,mug root beer medium,0,g,0,mg,40,g,57,g,0,g,0,g,0,g,0,g,57,g
+498,big town hero,mug root beer small,0,g,0,mg,20,g,34,g,0,g,0,g,0,g,0,g,34,g
+499,big town hero,oatmeal raisin cookie,8,g,10,mg,90,g,17,g,2,g,2,g,0,g,1,g,9,g
+500,big town hero,pastrami sub 12 inch,46,g,160,mg,2790,g,99,g,59,g,15,g,0,g,5,g,13,g
+501,big town hero,pastrami sub 8 inch,31,g,90,mg,1870,g,74,g,41,g,10,g,0,g,4,g,9,g
+502,big town hero,pastrami sub mini,16,g,45,mg,1070,g,41,g,23,g,5,g,0,g,3,g,6,g
+503,big town hero,peanut butter chocolate chip cookie,26,g,10,mg,110,g,15,g,2,g,4,g,0,g,1,g,9,g
+504,big town hero,peanut butter cookie,26,g,10,mg,120,g,15,g,2,g,4,g,0,g,0,g,8,g
+505,big town hero,pepsi wild cherry large,0,g,0,mg,70,g,88,g,0,g,0,g,0,g,0,g,88,g
+506,big town hero,pepsi wild cherry medium,0,g,0,mg,50,g,63,g,0,g,0,g,0,g,0,g,63,g
+507,big town hero,pepsi wild cherry small,0,g,0,mg,30,g,38,g,0,g,0,g,0,g,0,g,38,g
+508,big town hero,pepsi large,0,g,0,mg,70,g,88,g,0,g,0,g,0,g,0,g,84,g
+509,big town hero,pepsi medium,0,g,0,mg,50,g,63,g,0,g,0,g,0,g,0,g,60,g
+510,big town hero,pepsi small,0,g,0,mg,30,g,38,g,0,g,0,g,0,g,0,g,36,g
+511,big town hero,potato salad large,28,g,10,mg,970,g,50,g,3,g,0,g,0,g,3,g,18,g
+512,big town hero,potato salad small,19,g,5,mg,670,g,35,g,2,g,0,g,0,g,2,g,12,g
+513,big town hero,potato soup bowl,20,g,60,mg,1250,g,33,g,14,g,11,g,0,g,2,g,11,g
+514,big town hero,potato soup cup,13,g,40,mg,830,g,22,g,9,g,7,g,0,g,1,g,7,g
+515,big town hero,prime club panini,28,g,125,mg,4380,g,80,g,97,g,7,g,0,g,6,g,5,g
+516,big town hero,prime club sub 12 inch,29,g,105,mg,1820,g,9,g,40,g,8,g,0,g,2,g,2,g
+517,big town hero,prime club sub 8 inch,20,g,75,mg,1240,g,6,g,27,g,5,g,0,g,1,g,1,g
+518,big town hero,prime club sub mini,11,g,40,mg,720,g,3,g,15,g,3,g,0,g,1,g,1,g
+519,big town hero,rainbow cookie,9,g,10,mg,90,g,19,g,1,g,3,g,0,g,0,g,12,g
+520,big town hero,regular lays small bag,4,g,0,mg,180,g,15,g,2,g,0,g,0,g,1,g,0,g
+521,big town hero,roast beef sub 12 inch,53,g,190,mg,1550,g,98,g,69,g,18,g,0,g,5,g,13,g
+522,big town hero,roast beef sub 8 inch,35,g,125,mg,1030,g,73,g,48,g,12,g,0,g,4,g,9,g
+523,big town hero,roast beef sub mini,19,g,75,mg,590,g,41,g,27,g,7,g,0,g,3,g,6,g
+524,big town hero,rueben panini,25,g,280,mg,2360,g,86,g,37,g,6,g,0,g,8,g,9,g
+525,big town hero,ruffles cheddar sour cream,4,g,0,mg,230,g,14,g,2,g,0,g,0,g,1,g,0,g
+526,big town hero,ruffles regular,4,g,0,mg,160,g,14,g,2,g,0,g,0,g,1,g,0,g
+527,big town hero,s w chicken fajita sub 12 inch sub,20,g,55,mg,1030,g,129,g,32,g,5,g,0,g,8,g,11,g
+528,big town hero,s w chicken fajita sub 8 inch sub,14,g,35,mg,730,g,93,g,23,g,4,g,0,g,5,g,7,g
+529,big town hero,s w chicken fajita sub mini sub,7,g,20,mg,440,g,55,g,13,g,2,g,0,g,4,g,3,g
+530,big town hero,salad sub 12 inch sub,7,g,0,mg,2960,g,138,g,19,g,0,g,0,g,9,g,15,g
+531,big town hero,salad sub 8 inch sub,5,g,0,mg,2010,g,99,g,14,g,0,g,0,g,6,g,10,g
+532,big town hero,salad sub mini sub,3,g,0,mg,1080,g,59,g,8,g,0,g,0,g,4,g,5,g
+533,big town hero,salmon chowder bowl,17,g,60,mg,990,g,30,g,14,g,9,g,0,g,2,g,11,g
+534,big town hero,salmon chowder cup,11,g,40,mg,660,g,20,g,9,g,6,g,0,g,1,g,7,g
+535,big town hero,sierra mist large,0,g,0,mg,70,g,84,g,0,g,0,g,0,g,0,g,84,g
+536,big town hero,sierra mist medium,0,g,0,mg,50,g,60,g,0,g,0,g,0,g,0,g,60,g
+537,big town hero,sierra mist small,0,g,0,mg,30,g,36,g,0,g,0,g,0,g,0,g,36,g
+538,big town hero,snickerdoodle cookie,8,g,15,mg,110,g,18,g,2,g,2,g,0,g,0,g,9,g
+539,big town hero,sobe energy large,0,g,0,mg,70,g,88,g,84,g,0,g,0,g,0,g,0,g
+540,big town hero,sobe energy medium,0,g,0,mg,50,g,63,g,60,g,0,g,0,g,0,g,0,g
+541,big town hero,sobe energy small,0,g,0,mg,30,g,38,g,36,g,0,g,0,g,0,g,0,g
+542,big town hero,sobe lean diet cranberry grapefruit large,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+543,big town hero,sobe lean diet cranberry grapefruit medium,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+544,big town hero,sobe lean diet cranberry grapefruit small,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+545,big town hero,split pea with ham soup bowl,6,g,25,mg,1470,g,44,g,20,g,2,g,0,g,14,g,6,g
+546,big town hero,split pea with ham soup cup,4,g,15,mg,980,g,29,g,13,g,1,g,0,g,9,g,4,g
+547,big town hero,spring salad,0,g,0,mg,200,g,12,g,3,g,0,g,0,g,4,g,4,g
+548,big town hero,sun chip,4,g,0,mg,120,g,18,g,2,g,0,g,0,g,2,g,2,g
+549,big town hero,sun chip harvest cheddar,3,g,0,mg,160,g,19,g,2,g,0,g,0,g,2,g,2,g
+550,big town hero,super hero sub 12 inch,76,g,170,mg,3610,g,102,g,58,g,26,g,0,g,5,g,15,g
+551,big town hero,tba salad,25,g,65,mg,2420,g,10,g,51,g,1,g,0,g,3,g,4,g
+552,big town hero,the duo sub 12 inch,73,g,160,mg,2960,g,99,g,50,g,28,g,0,g,5,g,15,g
+553,big town hero,the duo sub 8 inch,49,g,110,mg,1980,g,74,g,35,g,19,g,0,g,4,g,10,g
+554,big town hero,the italian sub 12 inch,24,g,105,mg,4320,g,130,g,46,g,4,g,0,g,7,g,13,g
+555,big town hero,the italian sub 8 inch,15,g,65,mg,2830,g,93,g,32,g,3,g,0,g,5,g,9,g
+556,big town hero,the italian sub mini,9,g,40,mg,1800,g,57,g,20,g,1,g,0,g,4,g,4,g
+557,big town hero,tiny twist pretzels,0,g,0,mg,450,g,23,g,2,g,0,g,0,g,1,g,1,g
+558,big town hero,tomato bisque bowl,20,g,55,mg,1500,g,32,g,9,g,9,g,0,g,3,g,18,g
+559,big town hero,tomato bisque cup,13,g,35,mg,1000,g,21,g,6,g,6,g,0,g,2,g,12,g
+560,big town hero,tortilla soup bowl,5,g,0,mg,1400,g,32,g,5,g,0,g,0,g,5,g,6,g
+561,big town hero,tortilla soup cup,3,g,0,mg,930,g,21,g,3,g,0,g,0,g,3,g,4,g
+562,big town hero,tropicana fruit punch large,0,g,0,mg,70,g,90,g,0,g,0,g,0,g,0,g,90,g
+563,big town hero,tropicana fruit punch medium,0,g,0,mg,50,g,65,g,0,g,0,g,0,g,0,g,65,g
+564,big town hero,tropicana fruit punch small,0,g,0,mg,30,g,39,g,0,g,0,g,0,g,0,g,39,g
+565,big town hero,tropicana lemonade large,0,g,0,mg,320,g,84,g,0,g,0,g,0,g,0,g,84,g
+566,big town hero,tropicana lemonade medium,0,g,0,mg,230,g,60,g,0,g,0,g,0,g,0,g,60,g
+567,big town hero,tropicana lemonade small,0,g,0,mg,140,g,36,g,0,g,0,g,0,g,0,g,36,g
+568,big town hero,tropicana light lemonade large,0,g,0,mg,300,g,84,g,0,g,0,g,0,g,0,g,84,g
+569,big town hero,tropicana light lemonade medium,0,g,0,mg,210,g,60,g,0,g,0,g,0,g,0,g,60,g
+570,big town hero,tropicana light lemonade small,0,g,0,mg,130,g,36,g,0,g,0,g,0,g,0,g,36,g
+571,big town hero,tropicana orange twister soda large,0,g,0,mg,70,g,95,g,0,g,0,g,0,g,0,g,90,g
+572,big town hero,tropicana orange twister soda medium,0,g,0,mg,50,g,68,g,0,g,0,g,0,g,0,g,65,g
+573,big town hero,tropicana orange twister soda small,0,g,0,mg,30,g,41,g,0,g,0,g,0,g,0,g,39,g
+574,big town hero,tropicana pink lemonade large,0,g,0,mg,320,g,84,g,122,g,0,g,0,g,0,g,84,g
+575,big town hero,tropicana pink lemonade medium,0,g,0,mg,230,g,60,g,87,g,0,g,0,g,0,g,60,g
+576,big town hero,tropicana pink lemonade small,0,g,0,mg,140,g,36,g,52,g,0,g,0,g,0,g,36,g
+577,big town hero,tuna melt panini,24,g,60,mg,1230,g,78,g,21,g,7,g,0,g,7,g,5,g
+578,big town hero,tuna sub 12 inch,31,g,85,mg,1630,g,125,g,31,g,8,g,0,g,8,g,10,g
+579,big town hero,tuna sub 8 inch,21,g,55,mg,1130,g,90,g,22,g,5,g,0,g,5,g,6,g
+580,big town hero,tuna sub mini,11,g,30,mg,630,g,54,g,12,g,3,g,0,g,4,g,3,g
+581,big town hero,turkey bacon avocado sub 12 inch,26,g,160,mg,5980,g,126,g,128,g,0,g,0,g,7,g,11,g
+582,big town hero,turkey bacon avocado sub 8 inch,18,g,110,mg,4050,g,91,g,86,g,0,g,0,g,5,g,7,g
+583,big town hero,turkey bacon avocado sub mini,11,g,65,mg,2190,g,55,g,45,g,0,g,0,g,3,g,3,g
+584,big town hero,turkey bacon ranch panini,29,g,135,mg,4790,g,83,g,96,g,7,g,0,g,7,g,7,g
+585,big town hero,turkey cucumber sub 12 inch,21,g,145,mg,2730,g,134,g,49,g,2,g,0,g,7,g,17,g
+586,big town hero,turkey cucumber sub 8 inch,15,g,100,mg,1890,g,96,g,34,g,1,g,0,g,4,g,11,g
+587,big town hero,turkey cucumber sub mini,9,g,55,mg,1050,g,57,g,18,g,1,g,0,g,3,g,5,g
+588,big town hero,turkey party sub 2 ft sub,74,g,405,mg,7880,g,289,g,153,g,17,g,0,g,16,g,28,g
+589,big town hero,turkey party sub 4 ft sub,147,g,805,mg,10000,g,577,g,305,g,35,g,0,g,32,g,56,g
+590,big town hero,turkey party sub 6 ft sub,221,g,1210,mg,10000,g,866,g,458,g,52,g,0,g,48,g,84,g
+591,big town hero,turkey sub 12 inch,32,g,140,mg,3050,g,130,g,53,g,7,g,0,g,5,g,16,g
+592,big town hero,turkey sub 8 inch,30,g,75,mg,2050,g,80,g,36,g,11,g,0,g,4,g,10,g
+593,big town hero,turkey sub mini,15,g,40,mg,1160,g,41,g,21,g,5,g,0,g,3,g,7,g
+594,big town hero,turkey vegetable with rice soup bowl,3,g,15,mg,1310,g,24,g,9,g,1,g,0,g,2,g,3,g
+595,big town hero,turkey vegetable with rice soup cup,2,g,10,mg,870,g,16,g,6,g,1,g,0,g,1,g,2,g
+596,big town hero,vanilla frosted cookie,13,g,15,mg,80,g,20,g,1,g,3,g,0,g,0,g,13,g
+597,big town hero,vegetable soup bowl,0,g,0,mg,1110,g,18,g,3,g,0,g,0,g,3,g,6,g
+598,big town hero,vegetable soup cup,0,g,0,mg,740,g,12,g,2,g,0,g,0,g,2,g,4,g
+599,big town hero,veggie sub 12 inch sub,58,g,195,mg,3120,g,131,g,53,g,16,g,0,g,8,g,11,g
+600,big town hero,veggie sub 8 inch sub,39,g,130,mg,2210,g,94,g,37,g,11,g,0,g,5,g,7,g
+601,big town hero,veggie sub mini sub,20,g,65,mg,1310,g,57,g,20,g,5,g,0,g,4,g,4,g
+602,big town hero,very berry turkey sub 12 inch,19,g,115,mg,2350,g,131,g,39,g,1,g,0,g,8,g,67,g
+603,big town hero,very berry turkey sub 8 inch,14,g,80,mg,1620,g,94,g,27,g,1,g,0,g,5,g,44,g
+604,big town hero,very berry turkey sub mini,8,g,45,mg,980,g,56,g,16,g,0,g,0,g,4,g,22,g
+605,big town hero,white chocolate hazelnut cookie,19,g,10,mg,70,g,16,g,2,g,4,g,0,g,0,g,10,g
+606,big town hero,yankee pot roast soup bowl,6,g,25,mg,1140,g,21,g,8,g,2,g,0,g,3,g,5,g
+607,big town hero,yankee pot roast soup cup,4,g,15,mg,760,g,14,g,5,g,2,g,0,g,2,g,3,g
+608,bigfoot java,abominable white mocha frostbite 12oz,20,g,70,mg,0,g,0,g,3,g,13,g,0.5,g,0,g,46,g
+609,bigfoot java,abominable white mocha frostbite 16oz,22,g,75,mg,0,g,0,g,4,g,15,g,0.5,g,0,g,64,g
+610,bigfoot java,abominable white mocha frostbite 20oz,10,g,40,mg,0,g,0,g,9,g,7,g,0,g,0,g,37,g
+611,bigfoot java,abominable white mocha frostbite 24oz,35,g,115,mg,0,g,0,g,5,g,24,g,1,g,0,g,89,g
+612,bigfoot java,abominable white mocha frostbite 32oz,48,g,155,mg,0,g,0,g,7,g,32,g,1,g,0,g,115,g
+613,bigfoot java,abominable white mocha frostbite 44oz,10,g,40,mg,0,g,0,g,9,g,7,g,0,g,0,g,37,g
+614,bigfoot java,abominable white mocha hot 12oz,10,g,40,mg,0,g,0,g,9,g,7,g,0,g,0,g,37,g
+615,bigfoot java,abominable white mocha hot 16oz,13,g,45,mg,0,g,0,g,10,g,9,g,0,g,0,g,55,g
+616,bigfoot java,abominable white mocha hot 20oz,26,g,85,mg,0,g,0,g,4,g,18,g,0.5,g,0,g,75,g
+617,bigfoot java,abominable white mocha hot 24oz,25,g,85,mg,0,g,0,g,20,g,17,g,0,g,0,g,82,g
+618,bigfoot java,abominable white mocha hot 32oz,29,g,95,mg,0,g,0,g,22,g,20,g,0,g,0,g,98,g
+619,bigfoot java,abominable white mocha hot 44oz,39,g,140,mg,0,g,0,g,32,g,26,g,0,g,0,g,120,g
+620,bigfoot java,abominable white mocha iced 12oz,7,g,25,mg,0,g,0,g,6,g,5,g,0,g,0,g,32,g
+621,bigfoot java,abominable white mocha iced 16oz,8,g,25,mg,0,g,0,g,5,g,6,g,0,g,0,g,48,g
+622,bigfoot java,abominable white mocha iced 20oz,9,g,25,mg,0,g,0,g,5,g,7,g,0,g,0,g,56,g
+623,bigfoot java,abominable white mocha iced 24oz,15,g,45,mg,0,g,0,g,10,g,10,g,0,g,0,g,67,g
+624,bigfoot java,abominable white mocha iced 32oz,18,g,50,mg,0,g,0,g,11,g,13,g,0,g,0,g,81,g
+625,bigfoot java,abominable white mocha iced 44oz,24,g,75,mg,0,g,0,g,17,g,16,g,0,g,0,g,97,g
+626,bigfoot java,americano hot 12oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+627,bigfoot java,americano hot 16oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+628,bigfoot java,americano hot 20oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+629,bigfoot java,americano hot 24oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+630,bigfoot java,americano hot 32oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+631,bigfoot java,americano hot 44oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+632,bigfoot java,americano iced 12oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+633,bigfoot java,americano iced 16oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+634,bigfoot java,americano iced 20oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+635,bigfoot java,americano iced 24oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+636,bigfoot java,americano iced 32oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+637,bigfoot java,americano iced 44oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+638,bigfoot java,berry and the beast frostbite 12oz,0,g,0,mg,0,g,0,g,2,g,0,g,0,g,1,g,71,g
+639,bigfoot java,berry and the beast frostbite 16oz,0,g,0,mg,0,g,0,g,3,g,0,g,0,g,1,g,89,g
+640,bigfoot java,berry and the beast frostbite 20oz,0,g,0,mg,0,g,0,g,5,g,0,g,0,g,1,g,106,g
+641,bigfoot java,berry and the beast frostbite 24oz,0,g,0,mg,0,g,0,g,5,g,0,g,0,g,1,g,143,g
+642,bigfoot java,berry and the beast frostbite 32oz,0,g,0,mg,0,g,0,g,7,g,0,g,0,g,2,g,177,g
+643,bigfoot java,berry and the beast frostbite 44oz,0,g,0,mg,0,g,0,g,10,g,0,g,0,g,3,g,242,g
+644,bigfoot java,bigfoot extreme chocolate frostbite 12oz,21,g,80,mg,0,g,0,g,4,g,14,g,0.5,g,1,g,38,g
+645,bigfoot java,bigfoot extreme chocolate frostbite 16oz,24,g,90,mg,0,g,0,g,5,g,16,g,0.5,g,1,g,47,g
+646,bigfoot java,bigfoot extreme chocolate frostbite 20oz,27,g,100,mg,0,g,0,g,6,g,18,g,1,g,2,g,57,g
+647,bigfoot java,bigfoot extreme chocolate frostbite 24oz,36,g,130,mg,0,g,0,g,8,g,23,g,1,g,2,g,73,g
+648,bigfoot java,bigfoot extreme chocolate frostbite 32oz,48,g,180,mg,0,g,0,g,11,g,31,g,1.5,g,2,g,95,g
+649,bigfoot java,bigfoot extreme chocolate frostbite 44oz,64,g,235,mg,0,g,0,g,15,g,41,g,2,g,4,g,146,g
+650,bigfoot java,bigfoot extreme chocolate hot 12oz,10,g,40,mg,0,g,0,g,10,g,6,g,0,g,1,g,26,g
+651,bigfoot java,bigfoot extreme chocolate hot 16oz,12,g,50,mg,0,g,0,g,12,g,7,g,0,g,1,g,35,g
+652,bigfoot java,bigfoot extreme chocolate hot 20oz,10,g,40,mg,0,g,0,g,10,g,6,g,0,g,1,g,26,g
+653,bigfoot java,bigfoot extreme chocolate hot 24oz,10,g,40,mg,0,g,0,g,10,g,6,g,0,g,1,g,26,g
+654,bigfoot java,bigfoot extreme chocolate hot 32oz,10,g,40,mg,0,g,0,g,10,g,6,g,0,g,1,g,26,g
+655,bigfoot java,bigfoot extreme chocolate hot 44oz,10,g,40,mg,0,g,0,g,10,g,6,g,0,g,1,g,26,g
+656,bigfoot java,bigfoot extreme chocolate iced 12oz,6,g,25,mg,0,g,0,g,7,g,4,g,0,g,1,g,21,g
+657,bigfoot java,bigfoot extreme chocolate iced 16oz,7,g,25,mg,0,g,0,g,7,g,4.5,g,0,g,1,g,28,g
+658,bigfoot java,bigfoot extreme chocolate iced 20oz,8,g,30,mg,0,g,0,g,8,g,5,g,0,g,2,g,35,g
+659,bigfoot java,bigfoot extreme chocolate iced 24oz,9,g,35,mg,0,g,0,g,10,g,6,g,0,g,2,g,43,g
+660,bigfoot java,bigfoot extreme chocolate iced 32oz,14,g,55,mg,0,g,0,g,15,g,9,g,0,g,2,g,56,g
+661,bigfoot java,bigfoot extreme chocolate iced 44oz,20,g,80,mg,0,g,0,g,22,g,13,g,0,g,4,g,97,g
+662,bigfoot java,bigfoot on the beach frostbite 12oz,11,g,0,mg,0,g,0,g,2,g,0,g,0,g,1,g,45,g
+663,bigfoot java,bigfoot on the beach frostbite 16oz,17,g,0,mg,0,g,0,g,3,g,14,g,0,g,1,g,60,g
+664,bigfoot java,bigfoot on the beach frostbite 20oz,20,g,0,mg,0,g,0,g,5,g,17,g,0,g,1,g,74,g
+665,bigfoot java,bigfoot on the beach frostbite 24oz,27,g,0,mg,0,g,0,g,5,g,23,g,0,g,1,g,91,g
+666,bigfoot java,bigfoot on the beach frostbite 32oz,34,g,0,mg,0,g,0,g,7,g,29,g,0,g,2,g,119,g
+667,bigfoot java,bigfoot on the beach frostbite 44oz,44,g,0,mg,0,g,0,g,10,g,37,g,0,g,3,g,161,g
+668,bigfoot java,cappuccino hot 12oz,8,g,35,mg,0,g,0,g,8,g,5,g,0,g,0,g,12,g
+669,bigfoot java,cappuccino hot 16oz,11,g,50,mg,0,g,0,g,11,g,7,g,0,g,0,g,17,g
+670,bigfoot java,cappuccino hot 20oz,14,g,60,mg,0,g,0,g,14,g,9,g,0,g,0,g,21,g
+671,bigfoot java,cappuccino hot 24oz,18,g,80,mg,0,g,0,g,18,g,11,g,0,g,0,g,27,g
+672,bigfoot java,cappuccino hot 32oz,24,g,105,mg,0,g,0,g,24,g,15,g,0,g,0,g,36,g
+673,bigfoot java,cappuccino hot 44oz,34,g,150,mg,0,g,0,g,34,g,21,g,0,g,0,g,51,g
+674,bigfoot java,chai tea frostbite 12oz,25,g,95,mg,0,g,0,g,6,g,16,g,0.5,g,0,g,44,g
+675,bigfoot java,chai tea frostbite 16oz,32,g,125,mg,0,g,0,g,8,g,20,g,1,g,0,g,61,g
+676,bigfoot java,chai tea frostbite 20oz,40,g,155,mg,0,g,0,g,10,g,25,g,1,g,0,g,77,g
+677,bigfoot java,chai tea frostbite 24oz,48,g,185,mg,0,g,0,g,11,g,30,g,1.5,g,0,g,93,g
+678,bigfoot java,chai tea frostbite 32oz,65,g,250,mg,0,g,0,g,15,g,41,g,2,g,0,g,121,g
+679,bigfoot java,chai tea frostbite 44oz,87,g,340,mg,0,g,0,g,21,g,55,g,2.5,g,0,g,170,g
+680,bigfoot java,chai tea hot 12oz,5,g,20,mg,0,g,0,g,5,g,3,g,0,g,0,g,36,g
+681,bigfoot java,chai tea hot 16oz,7,g,30,mg,0,g,0,g,7,g,4.5,g,0,g,0,g,44,g
+682,bigfoot java,chai tea hot 20oz,9,g,40,mg,0,g,0,g,9,g,6,g,0,g,0,g,56,g
+683,bigfoot java,chai tea hot 24oz,11,g,50,mg,0,g,0,g,11,g,7,g,0,g,0,g,69,g
+684,bigfoot java,chai tea hot 32oz,15,g,65,mg,0,g,0,g,15,g,9,g,0,g,0,g,92,g
+685,bigfoot java,chai tea hot 44oz,21,g,90,mg,0,g,0,g,21,g,13,g,0,g,0,g,128,g
+686,bigfoot java,chai tea iced 12oz,4,g,20,mg,0,g,0,g,4,g,2.5,g,0,g,0,g,26,g
+687,bigfoot java,chai tea iced 16oz,6,g,25,mg,0,g,0,g,6,g,3.5,g,0,g,0,g,34,g
+688,bigfoot java,chai tea iced 20oz,5,g,25,mg,0,g,0,g,5,g,3.5,g,0,g,0,g,34,g
+689,bigfoot java,chai tea iced 24oz,6,g,25,mg,0,g,0,g,6,g,4,g,0,g,0,g,38,g
+690,bigfoot java,chai tea iced 32oz,9,g,40,mg,0,g,0,g,9,g,6,g,0,g,0,g,58,g
+691,bigfoot java,chai tea iced 44oz,13,g,55,mg,0,g,0,g,13,g,8,g,0,g,0,g,81,g
+692,bigfoot java,creamcicle iced 12oz,6,g,30,mg,0,g,0,g,2,g,4,g,0,g,0,g,39,g
+693,bigfoot java,creamcicle iced 16oz,9,g,45,mg,0,g,0,g,2,g,6,g,0,g,0,g,57,g
+694,bigfoot java,creamcicle iced 20oz,9,g,45,mg,0,g,0,g,2,g,6,g,0,g,0,g,66,g
+695,bigfoot java,creamcicle iced 24oz,9,g,45,mg,0,g,0,g,2,g,6,g,0,g,0,g,86,g
+696,bigfoot java,creamcicle iced 32oz,18,g,90,mg,0,g,0,g,5,g,12,g,0,g,0,g,109,g
+697,bigfoot java,creamcicle iced 44oz,24,g,120,mg,0,g,0,g,6,g,16,g,0,g,0,g,161,g
+698,bigfoot java,drip coffee hot 12oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+699,bigfoot java,drip coffee hot 16oz,0,g,0,mg,0,g,0,g,1,g,0,g,0,g,0,g,0,g
+700,bigfoot java,drip coffee hot 20oz,0,g,0,mg,0,g,0,g,1,g,0,g,0,g,0,g,0,g
+701,bigfoot java,drip coffee hot 24oz,0,g,0,mg,0,g,0,g,1,g,0,g,0,g,0,g,0,g
+702,bigfoot java,drip coffee hot 32oz,0,g,0,mg,0,g,0,g,1,g,0,g,0,g,0,g,0,g
+703,bigfoot java,drip coffee hot 44oz,0,g,0,mg,0,g,0,g,2,g,0,g,0,g,0,g,0,g
+704,bigfoot java,flavored latte frostbite 12oz,19,g,75,mg,0,g,0,g,3,g,13,g,0.5,g,0,g,47,g
+705,bigfoot java,flavored latte frostbite 16oz,21,g,80,mg,0,g,0,g,4,g,13,g,0.5,g,0,g,66,g
+706,bigfoot java,flavored latte frostbite 20oz,24,g,90,mg,0,g,0,g,4,g,16,g,0.5,g,0,g,76,g
+707,bigfoot java,flavored latte frostbite 24oz,30,g,115,mg,0,g,0,g,5,g,20,g,1,g,0,g,101,g
+708,bigfoot java,flavored latte frostbite 32oz,42,g,160,mg,0,g,0,g,8,g,27,g,1,g,0,g,127,g
+709,bigfoot java,flavored latte frostbite 44oz,58,g,220,mg,0,g,0,g,10,g,38,g,1.5,g,0,g,186,g
+710,bigfoot java,flavored latte hot 12oz,9,g,40,mg,0,g,0,g,9,g,6,g,0,g,0,g,37,g
+711,bigfoot java,flavored latte hot 16oz,9,g,40,mg,0,g,0,g,9,g,6,g,0,g,0,g,37,g
+712,bigfoot java,flavored latte hot 20oz,13,g,55,mg,0,g,0,g,13,g,8,g,0,g,0,g,66,g
+713,bigfoot java,flavored latte hot 24oz,16,g,70,mg,0,g,0,g,16,g,10,g,0,g,0,g,88,g
+714,bigfoot java,flavored latte hot 32oz,19,g,85,mg,0,g,0,g,19,g,12,g,0,g,0,g,103,g
+715,bigfoot java,flavored latte hot 44oz,31,g,135,mg,0,g,0,g,31,g,20,g,0,g,0,g,162,g
+716,bigfoot java,flavored latte iced 12oz,6,g,25,mg,0,g,0,g,6,g,3.5,g,0,g,0,g,32,g
+717,bigfoot java,flavored latte iced 16oz,6,g,25,mg,0,g,0,g,6,g,3.5,g,0,g,0,g,49,g
+718,bigfoot java,flavored latte iced 20oz,6,g,25,mg,0,g,0,g,6,g,3.5,g,0,g,0,g,55,g
+719,bigfoot java,flavored latte iced 24oz,7,g,30,mg,0,g,0,g,7,g,4,g,0,g,0,g,73,g
+720,bigfoot java,flavored latte iced 32oz,12,g,50,mg,0,g,0,g,11,g,7,g,0,g,0,g,92,g
+721,bigfoot java,flavored latte iced 44oz,16,g,70,mg,0,g,0,g,16,g,10,g,0,g,0,g,139,g
+722,bigfoot java,hot caramel apple hot 12oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,53,g
+723,bigfoot java,hot caramel apple hot 16oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,80,g
+724,bigfoot java,hot caramel apple hot 20oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,96,g
+725,bigfoot java,hot caramel apple hot 24oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,123,g
+726,bigfoot java,hot caramel apple hot 32oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,155,g
+727,bigfoot java,hot caramel apple hot 44oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,225,g
+728,bigfoot java,hot chocolate frostbite 12oz,25,g,95,mg,0,g,0,g,5,g,16,g,0.5,g,1,g,48,g
+729,bigfoot java,hot chocolate frostbite 16oz,33,g,125,mg,0,g,0,g,7,g,21,g,1,g,1,g,65,g
+730,bigfoot java,hot chocolate frostbite 20oz,40,g,155,mg,0,g,0,g,8,g,26,g,1,g,1,g,83,g
+731,bigfoot java,hot chocolate frostbite 24oz,48,g,185,mg,0,g,0,g,10,g,31,g,1.5,g,1,g,101,g
+732,bigfoot java,hot chocolate frostbite 32oz,65,g,250,mg,0,g,0,g,13,g,42,g,2,g,2,g,130,g
+733,bigfoot java,hot chocolate frostbite 44oz,88,g,335,mg,0,g,0,g,18,g,57,g,2.5,g,2,g,183,g
+734,bigfoot java,hot chocolate hot 12oz,10,g,45,mg,0,g,0,g,11,g,6,g,0,g,1,g,32,g
+735,bigfoot java,hot chocolate hot 16oz,13,g,55,mg,0,g,0,g,13,g,8,g,0,g,1,g,44,g
+736,bigfoot java,hot chocolate hot 20oz,16,g,70,mg,0,g,0,g,17,g,10,g,0,g,1,g,58,g
+737,bigfoot java,hot chocolate hot 24oz,20,g,90,mg,0,g,0,g,21,g,13,g,0,g,1,g,71,g
+738,bigfoot java,hot chocolate hot 32oz,27,g,120,mg,0,g,0,g,29,g,17,g,0,g,2,g,91,g
+739,bigfoot java,hot chocolate hot 44oz,37,g,165,mg,0,g,0,g,40,g,23,g,0,g,2,g,130,g
+740,bigfoot java,hot chocolate iced 12oz,7,g,30,mg,0,g,0,g,8,g,4.5,g,0,g,1,g,27,g
+741,bigfoot java,hot chocolate iced 16oz,8,g,35,mg,0,g,0,g,9,g,5,g,0,g,1,g,37,g
+742,bigfoot java,hot chocolate iced 20oz,9,g,40,mg,0,g,0,g,10,g,6,g,0,g,1,g,47,g
+743,bigfoot java,hot chocolate iced 24oz,10,g,45,mg,0,g,0,g,12,g,6,g,0,g,1,g,57,g
+744,bigfoot java,hot chocolate iced 32oz,16,g,70,mg,0,g,0,g,18,g,10,g,0,g,2,g,74,g
+745,bigfoot java,hot chocolate iced 44oz,22,g,95,mg,0,g,0,g,24,g,14,g,0,g,2,g,108,g
+746,bigfoot java,hot cider hot 12oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,30,g
+747,bigfoot java,hot cider hot 16oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,40,g
+748,bigfoot java,hot cider hot 20oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,50,g
+749,bigfoot java,hot cider hot 24oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,60,g
+750,bigfoot java,hot cider hot 32oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,80,g
+751,bigfoot java,hot cider hot 44oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,110,g
+752,bigfoot java,italian cream soda iced 12oz,6,g,30,mg,0,g,0,g,2,g,4,g,0,g,0,g,42,g
+753,bigfoot java,italian cream soda iced 16oz,9,g,45,mg,0,g,0,g,2,g,6,g,0,g,0,g,55,g
+754,bigfoot java,italian cream soda iced 20oz,9,g,45,mg,0,g,0,g,2,g,6,g,0,g,0,g,66,g
+755,bigfoot java,italian cream soda iced 24oz,9,g,45,mg,0,g,0,g,2,g,6,g,0,g,0,g,78,g
+756,bigfoot java,italian cream soda iced 32oz,18,g,90,mg,0,g,0,g,5,g,12,g,0,g,0,g,110,g
+757,bigfoot java,italian cream soda iced 44oz,24,g,120,mg,0,g,0,g,6,g,16,g,0,g,0,g,140,g
+758,bigfoot java,italian soda iced 12oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,40,g
+759,bigfoot java,italian soda iced 16oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,52,g
+760,bigfoot java,italian soda iced 20oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,63,g
+761,bigfoot java,italian soda iced 24oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,75,g
+762,bigfoot java,italian soda iced 32oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,104,g
+763,bigfoot java,italian soda iced 44oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,132,g
+764,bigfoot java,latte frostbite 12oz,25,g,90,mg,0,g,0,g,4,g,16,g,0.5,g,0,g,30,g
+765,bigfoot java,latte frostbite 16oz,29,g,110,mg,0,g,0,g,5,g,19,g,1,g,0,g,36,g
+766,bigfoot java,latte frostbite 20oz,34,g,130,mg,0,g,0,g,6,g,22,g,1,g,0,g,42,g
+767,bigfoot java,latte frostbite 24oz,10,g,45,mg,0,g,0,g,10,g,6,g,0,g,0,g,15,g
+768,bigfoot java,latte frostbite 32oz,58,g,220,mg,0,g,0,g,10,g,38,g,1.5,g,0,g,71,g
+769,bigfoot java,latte frostbite 44oz,82,g,315,mg,0,g,0,g,15,g,53,g,2.5,g,0,g,101,g
+770,bigfoot java,latte hot 12oz,10,g,45,mg,0,g,0,g,10,g,6,g,0,g,0,g,15,g
+771,bigfoot java,latte hot 16oz,12,g,55,mg,0,g,0,g,12,g,8,g,0,g,0,g,18,g
+772,bigfoot java,latte hot 20oz,15,g,65,mg,0,g,0,g,15,g,10,g,0,g,0,g,23,g
+773,bigfoot java,latte hot 24oz,19,g,85,mg,0,g,0,g,19,g,12,g,0,g,0,g,29,g
+774,bigfoot java,latte hot 32oz,26,g,110,mg,0,g,0,g,26,g,16,g,0,g,0,g,38,g
+775,bigfoot java,latte hot 44oz,36,g,160,mg,0,g,0,g,36,g,23,g,0,g,0,g,54,g
+776,bigfoot java,latte iced 12oz,7,g,30,mg,0,g,0,g,7,g,4,g,0,g,0,g,10,g
+777,bigfoot java,latte iced 16oz,7,g,30,mg,0,g,0,g,7,g,4.5,g,0,g,0,g,11,g
+778,bigfoot java,latte iced 20oz,8,g,35,mg,0,g,0,g,8,g,5,g,0,g,0,g,12,g
+779,bigfoot java,latte iced 24oz,44,g,165,mg,0,g,0,g,8,g,28,g,1.5,g,0,g,54,g
+780,bigfoot java,latte iced 32oz,15,g,65,mg,0,g,0,g,15,g,9,g,0,g,0,g,22,g
+781,bigfoot java,latte iced 44oz,21,g,90,mg,0,g,0,g,21,g,13,g,0,g,0,g,31,g
+782,bigfoot java,legendary latte frostbite 12oz,19,g,75,mg,0,g,0,g,3,g,13,g,0.5,g,0,g,47,g
+783,bigfoot java,legendary latte frostbite 16oz,22,g,85,mg,0,g,0,g,4,g,14,g,0.5,g,0,g,61,g
+784,bigfoot java,legendary latte frostbite 20oz,24,g,90,mg,0,g,0,g,4,g,16,g,0.5,g,0,g,76,g
+785,bigfoot java,legendary latte frostbite 24oz,32,g,120,mg,0,g,0,g,6,g,20,g,1,g,0,g,96,g
+786,bigfoot java,legendary latte frostbite 32oz,42,g,160,mg,0,g,0,g,8,g,27,g,1,g,0,g,128,g
+787,bigfoot java,legendary latte frostbite 44oz,13,g,55,mg,0,g,0,g,12,g,8,g,0,g,0,g,128,g
+788,bigfoot java,legendary latte hot 12oz,9,g,40,mg,0,g,0,g,9,g,6,g,0,g,0,g,37,g
+789,bigfoot java,legendary latte hot 16oz,11,g,45,mg,0,g,0,g,11,g,7,g,0,g,0,g,50,g
+790,bigfoot java,legendary latte hot 20oz,13,g,55,mg,0,g,0,g,13,g,8,g,0,g,0,g,66,g
+791,bigfoot java,legendary latte hot 24oz,17,g,70,mg,0,g,0,g,0,g,10,g,0,g,0,g,82,g
+792,bigfoot java,legendary latte hot 32oz,23,g,95,mg,0,g,0,g,22,g,14,g,0,g,0,g,109,g
+793,bigfoot java,legendary latte hot 44oz,32,g,135,mg,0,g,0,g,31,g,20,g,0,g,0,g,157,g
+794,bigfoot java,legendary latte iced 12oz,6,g,25,mg,0,g,0,g,6,g,3.5,g,0,g,0,g,32,g
+795,bigfoot java,legendary latte iced 16oz,6,g,25,mg,0,g,0,g,6,g,3.5,g,0,g,0,g,43,g
+796,bigfoot java,legendary latte iced 20oz,6,g,25,mg,0,g,0,g,6,g,3.5,g,0,g,0,g,55,g
+797,bigfoot java,legendary latte iced 24oz,7,g,30,mg,0,g,0,g,7,g,4.5,g,0,g,0,g,67,g
+798,bigfoot java,legendary latte iced 32oz,12,g,50,mg,0,g,0,g,11,g,7,g,0,g,0,g,93,g
+799,bigfoot java,legendary latte iced 44oz,16,g,70,mg,0,g,0,g,16,g,10,g,0,g,0,g,134,g
+800,bigfoot java,lil foot hot chocolate hot 12oz,8,g,35,mg,0,g,0,g,9,g,5,g,0,g,1,g,29,g
+801,bigfoot java,lil foot steamer hot 12oz,8,g,35,mg,0,g,0,g,8,g,5,g,0,g,0,g,35,g
+802,bigfoot java,lil foot strawberry frostbite 12oz,0,g,0,mg,0,g,0,g,2,g,0,g,0,g,0,g,48,g
+803,bigfoot java,mango jet frostbite 12oz,0.5,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,71,g
+804,bigfoot java,mango jet frostbite 16oz,1,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,94,g
+805,bigfoot java,mango jet frostbite 20oz,1,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,117,g
+806,bigfoot java,mango jet frostbite 24oz,1.5,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,141,g
+807,bigfoot java,mango jet frostbite 32oz,2,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,188,g
+808,bigfoot java,mango jet frostbite 44oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,258,g
+809,bigfoot java,marionberry mocha monster frostbite 12oz,19,g,75,mg,0,g,0,g,4,g,13,g,0.5,g,0,g,45,g
+810,bigfoot java,marionberry mocha monster frostbite 16oz,23,g,90,mg,0,g,0,g,5,g,15,g,0.5,g,1,g,54,g
+811,bigfoot java,marionberry mocha monster frostbite 20oz,26,g,95,mg,0,g,0,g,5,g,17,g,0.5,g,1,g,70,g
+812,bigfoot java,marionberry mocha monster frostbite 24oz,35,g,130,mg,0,g,0,g,7,g,22,g,1,g,1,g,83,g
+813,bigfoot java,marionberry mocha monster frostbite 32oz,49,g,185,mg,0,g,0,g,10,g,32,g,1.5,g,1,g,101,g
+814,bigfoot java,marionberry mocha monster frostbite 44oz,67,g,255,mg,0,g,0,g,13,g,43,g,2,g,1,g,154,g
+815,bigfoot java,marionberry mocha monster hot 12oz,9,g,40,mg,0,g,0,g,9,g,6,g,0,g,0,g,35,g
+816,bigfoot java,marionberry mocha monster hot 16oz,11,g,45,mg,0,g,0,g,11,g,7,g,0,g,1,g,50,g
+817,bigfoot java,marionberry mocha monster hot 20oz,13,g,60,mg,0,g,0,g,14,g,8,g,0,g,1,g,58,g
+818,bigfoot java,marionberry mocha monster hot 24oz,17,g,75,mg,0,g,0,g,18,g,11,g,0,g,1,g,66,g
+819,bigfoot java,marionberry mocha monster hot 32oz,24,g,105,mg,0,g,0,g,25,g,15,g,0,g,1,g,76,g
+820,bigfoot java,marionberry mocha monster hot 44oz,36,g,155,mg,0,g,0,g,37,g,23,g,0,g,1,g,126,g
+821,bigfoot java,marionberry mocha monster iced 12oz,6,g,25,mg,0,g,0,g,6,g,3.5,g,0,g,0,g,30,g
+822,bigfoot java,marionberry mocha monster iced 16oz,6,g,25,mg,0,g,0,g,6,g,3.5,g,0,g,1,g,43,g
+823,bigfoot java,marionberry mocha monster iced 20oz,6,g,25,mg,0,g,0,g,7,g,4,g,0,g,1,g,48,g
+824,bigfoot java,marionberry mocha monster iced 24oz,8,g,35,mg,0,g,0,g,9,g,5,g,0,g,1,g,52,g
+825,bigfoot java,marionberry mocha monster iced 32oz,13,g,55,mg,0,g,0,g,14,g,8,g,0,g,1,g,60,g
+826,bigfoot java,marionberry mocha monster iced 44oz,18,g,75,mg,0,g,0,g,19,g,11,g,0,g,1,g,99,g
+827,bigfoot java,mocha frostbite 12oz,196,g,85,mg,0,g,0,g,4,g,14,g,0.5,g,1,g,36,g
+828,bigfoot java,mocha frostbite 16oz,25,g,95,mg,0,g,0,g,5,g,16,g,0.5,g,1,g,45,g
+829,bigfoot java,mocha frostbite 20oz,29,g,110,mg,0,g,0,g,6,g,19,g,1,g,1,g,54,g
+830,bigfoot java,mocha frostbite 24oz,38,g,145,mg,0,g,0,g,8,g,24,g,1,g,1,g,69,g
+831,bigfoot java,mocha frostbite 32oz,51,g,195,mg,0,g,0,g,11,g,33,g,1.5,g,2,g,90,g
+832,bigfoot java,mocha frostbite 44oz,71,g,270,mg,0,g,0,g,15,g,46,g,2,g,2,g,128,g
+833,bigfoot java,mocha hot 12oz,10,g,40,mg,0,g,0,g,10,g,6,g,0,g,1,g,23,g
+834,bigfoot java,mocha hot 16oz,11,g,50,mg,0,g,0,g,12,g,7,g,0,g,1,g,30,g
+835,bigfoot java,mocha hot 20oz,14,g,60,mg,0,g,0,g,15,g,9,g,0,g,1,g,39,g
+836,bigfoot java,mocha hot 24oz,18,g,80,mg,0,g,0,g,19,g,11,g,0,g,1,g,49,g
+837,bigfoot java,mocha hot 32oz,25,g,105,mg,0,g,0,g,26,g,15,g,0,g,2,g,64,g
+838,bigfoot java,mocha hot 44oz,34,g,150,mg,0,g,0,g,36,g,21,g,0,g,2,g,91,g
+839,bigfoot java,mocha iced 12oz,6,g,25,mg,0,g,0,g,7,g,4,g,0,g,1,g,18,g
+840,bigfoot java,mocha iced 16oz,7,g,30,mg,0,g,0,g,7,g,4,g,0,g,1,g,23,g
+841,bigfoot java,mocha iced 20oz,7,g,30,mg,0,g,0,g,8,g,4.5,g,0,g,1,g,28,g
+842,bigfoot java,mocha iced 24oz,8,g,35,mg,0,g,0,g,9,g,5,g,0,g,1,g,35,g
+843,bigfoot java,mocha iced 32oz,13,g,55,mg,0,g,0,g,15,g,8,g,0,g,2,g,47,g
+844,bigfoot java,mocha iced 44oz,19,g,80,mg,0,g,0,g,21,g,12,g,0,g,2,g,68,g
+845,bigfoot java,mythical mango frostbite 12oz,0,g,0,mg,0,g,0,g,2,g,0,g,0,g,1,g,63,g
+846,bigfoot java,mythical mango frostbite 16oz,0,g,0,mg,0,g,0,g,3,g,0,g,0,g,1,g,81,g
+847,bigfoot java,mythical mango frostbite 20oz,0,g,0,mg,0,g,0,g,5,g,0,g,0,g,1,g,100,g
+848,bigfoot java,mythical mango frostbite 24oz,0,g,0,mg,0,g,0,g,5,g,0,g,0,g,1,g,125,g
+849,bigfoot java,mythical mango frostbite 32oz,0,g,0,mg,0,g,0,g,7,g,0,g,0,g,2,g,162,g
+850,bigfoot java,mythical mango frostbite 44oz,0,g,0,mg,0,g,0,g,10,g,0,g,0,g,3,g,217,g
+851,bigfoot java,mythical mocha frostbite 12oz,21,g,75,mg,0,g,0,g,3,g,14,g,0.5,g,0,g,43,g
+852,bigfoot java,mythical mocha frostbite 16oz,25,g,85,mg,0,g,0,g,4,g,16,g,0.5,g,0,g,55,g
+853,bigfoot java,mythical mocha frostbite 20oz,27,g,90,mg,0,g,0,g,4,g,18,g,0.5,g,0,g,68,g
+854,bigfoot java,mythical mocha frostbite 24oz,36,g,120,mg,0,g,0,g,6,g,24,g,1,g,0,g,86,g
+855,bigfoot java,mythical mocha frostbite 32oz,48,g,165,mg,0,g,0,g,8,g,32,g,1.5,g,0,g,112,g
+856,bigfoot java,mythical mocha frostbite 44oz,65,g,220,mg,0,g,0,g,10,g,43,g,1.5,g,0,g,168,g
+857,bigfoot java,mythical mocha hot 12oz,10,g,40,mg,0,g,0,g,9,g,7,g,0,g,0,g,33,g
+858,bigfoot java,mythical mocha hot 16oz,13,g,45,mg,0,g,0,g,11,g,9,g,0,g,0,g,43,g
+859,bigfoot java,mythical mocha hot 20oz,16,g,55,mg,0,g,0,g,13,g,11,g,0,g,0,g,58,g
+860,bigfoot java,mythical mocha hot 24oz,21,g,70,mg,0,g,0,g,17,g,14,g,0,g,0,g,72,g
+861,bigfoot java,mythical mocha hot 32oz,27,g,95,mg,0,g,0,g,22,g,18,g,0,g,0,g,91,g
+862,bigfoot java,mythical mocha hot 44oz,38,g,135,mg,0,g,0,g,31,g,26,g,0,g,0,g,144,g
+863,bigfoot java,mythical mocha iced 12oz,7,g,25,mg,0,g,0,g,6,g,5,g,0,g,0,g,28,g
+864,bigfoot java,mythical mocha iced 16oz,9,g,25,mg,0,g,0,g,6,g,6,g,0,g,0,g,36,g
+865,bigfoot java,mythical mocha iced 20oz,9,g,25,mg,0,g,0,g,6,g,6,g,0,g,0,g,47,g
+866,bigfoot java,mythical mocha iced 24oz,11,g,30,mg,0,g,0,g,7,g,8,g,0,g,0,g,57,g
+867,bigfoot java,mythical mocha iced 32oz,16,g,50,mg,0,g,0,g,12,g,11,g,0,g,0,g,75,g
+868,bigfoot java,mythical mocha iced 44oz,23,g,70,mg,0,g,0,g,16,g,16,g,0,g,0,g,120,g
+869,bigfoot java,nutty yeti frostbite 12oz,19,g,75,mg,0,g,0,g,3,g,13,g,0.5,g,0,g,47,g
+870,bigfoot java,nutty yeti frostbite 16oz,22,g,85,mg,0,g,0,g,4,g,14,g,0.5,g,0,g,61,g
+871,bigfoot java,nutty yeti frostbite 20oz,24,g,90,mg,0,g,0,g,4,g,16,g,0.5,g,0,g,76,g
+872,bigfoot java,nutty yeti frostbite 24oz,32,g,120,mg,0,g,0,g,6,g,20,g,1,g,0,g,96,g
+873,bigfoot java,nutty yeti frostbite 32oz,42,g,160,mg,0,g,0,g,8,g,27,g,1,g,0,g,128,g
+874,bigfoot java,nutty yeti frostbite 44oz,13,g,55,mg,0,g,0,g,12,g,8,g,0,g,0,g,128,g
+875,bigfoot java,nutty yeti hot 12oz,9,g,40,mg,0,g,0,g,9,g,6,g,0,g,0,g,37,g
+876,bigfoot java,nutty yeti hot 16oz,11,g,45,mg,0,g,0,g,11,g,7,g,0,g,0,g,50,g
+877,bigfoot java,nutty yeti hot 20oz,13,g,55,mg,0,g,0,g,13,g,8,g,0,g,0,g,66,g
+878,bigfoot java,nutty yeti hot 24oz,17,g,70,mg,0,g,0,g,12,g,10,g,0,g,0,g,82,g
+879,bigfoot java,nutty yeti hot 32oz,23,g,95,mg,0,g,0,g,22,g,14,g,0,g,0,g,109,g
+880,bigfoot java,nutty yeti hot 44oz,32,g,135,mg,0,g,0,g,31,g,20,g,0,g,0,g,157,g
+881,bigfoot java,nutty yeti iced 12oz,6,g,25,mg,0,g,0,g,6,g,3.5,g,0,g,0,g,32,g
+882,bigfoot java,nutty yeti iced 16oz,6,g,25,mg,0,g,0,g,6,g,3.5,g,0,g,0,g,43,g
+883,bigfoot java,nutty yeti iced 20oz,6,g,25,mg,0,g,0,g,6,g,3.5,g,0,g,0,g,55,g
+884,bigfoot java,nutty yeti iced 24oz,7,g,30,mg,0,g,0,g,7,g,4.5,g,0,g,0,g,67,g
+885,bigfoot java,nutty yeti iced 32oz,12,g,50,mg,0,g,0,g,11,g,7,g,0,g,0,g,93,g
+886,bigfoot java,nutty yeti iced 44oz,16,g,70,mg,0,g,0,g,16,g,10,g,0,g,0,g,134,g
+887,bigfoot java,peach jet frostbite 12oz,1,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,68,g
+888,bigfoot java,peach jet frostbite 16oz,1,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,87,g
+889,bigfoot java,peach jet frostbite 20oz,1.5,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,113,g
+890,bigfoot java,peach jet frostbite 24oz,1.5,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,135,g
+891,bigfoot java,peach jet frostbite 32oz,2,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,180,g
+892,bigfoot java,peach jet frostbite 44oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,248,g
+893,bigfoot java,primate peach frostbite 12oz,0,g,0,mg,0,g,0,g,2,g,0,g,0,g,1,g,61,g
+894,bigfoot java,primate peach frostbite 16oz,0,g,0,mg,0,g,0,g,3,g,0,g,0,g,1,g,79,g
+895,bigfoot java,primate peach frostbite 20oz,0,g,0,mg,0,g,0,g,5,g,0,g,0,g,1,g,97,g
+896,bigfoot java,primate peach frostbite 24oz,0,g,0,mg,0,g,0,g,5,g,0,g,0,g,1,g,123,g
+897,bigfoot java,primate peach frostbite 32oz,0,g,0,mg,0,g,0,g,7,g,0,g,0,g,2,g,159,g
+898,bigfoot java,primate peach frostbite 44oz,0,g,0,mg,0,g,0,g,10,g,0,g,0,g,3,g,213,g
+899,bigfoot java,sasquatch tracks frostbite 12oz,24,g,55,mg,0,g,0,g,5,g,15,g,0.5,g,3,g,46,g
+900,bigfoot java,sasquatch tracks frostbite 16oz,26,g,60,mg,0,g,0,g,6,g,17,g,0.5,g,4,g,56,g
+901,bigfoot java,sasquatch tracks frostbite 20oz,29,g,60,mg,0,g,0,g,7,g,18,g,0.5,g,5,g,67,g
+902,bigfoot java,sasquatch tracks frostbite 24oz,38,g,80,mg,0,g,0,g,9,g,24,g,0.5,g,6,g,87,g
+903,bigfoot java,sasquatch tracks frostbite 32oz,53,g,115,mg,0,g,0,g,11,g,33,g,1,g,8,g,113,g
+904,bigfoot java,sasquatch tracks frostbite 44oz,53,g,115,mg,0,g,0,g,11,g,33,g,1,g,8,g,113,g
+905,bigfoot java,strawberry jet frostbite 12oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,2,g,71,g
+906,bigfoot java,strawberry jet frostbite 16oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,2,g,94,g
+907,bigfoot java,strawberry jet frostbite 20oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,3,g,117,g
+908,bigfoot java,strawberry jet frostbite 32oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,4,g,188,g
+909,bigfoot java,strawberry jet frostbite 44oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,6,g,258,g
+910,bigfoot java,strawberry jet frostbite 24oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,3,g,141,g
+911,bigfoot java,strawberry lemonade iced 12oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,33,g
+912,bigfoot java,strawberry lemonade iced 16oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,41,g
+913,bigfoot java,strawberry lemonade iced 20oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,48,g
+914,bigfoot java,strawberry lemonade iced 24oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,55,g
+915,bigfoot java,strawberry lemonade iced 32oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,83,g
+916,bigfoot java,strawberry lemonade iced 44oz,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,110,g
+917,bigfoot java,strawberry sasquatch frostbite 12oz,0,g,0,mg,0,g,0,g,2,g,0,g,0,g,1,g,57,g
+918,bigfoot java,strawberry sasquatch frostbite 16oz,0,g,0,mg,0,g,0,g,3,g,0,g,0,g,1,g,74,g
+919,bigfoot java,strawberry sasquatch frostbite 20oz,0,g,0,mg,0,g,0,g,5,g,0,g,0,g,1,g,91,g
+920,bigfoot java,strawberry sasquatch frostbite 24oz,0,g,0,mg,0,g,0,g,5,g,0,g,0,g,1,g,114,g
+921,bigfoot java,strawberry sasquatch frostbite 32oz,0,g,0,mg,0,g,0,g,7,g,0,g,0,g,2,g,147,g
+922,bigfoot java,strawberry sasquatch frostbite 44oz,0,g,0,mg,0,g,0,g,10,g,0,g,0,g,3,g,198,g
+923,bigfoot java,white mocha frostbite 12oz,22,g,75,mg,0,g,0,g,3,g,15,g,0.5,g,0,g,41,g
+924,bigfoot java,white mocha frostbite 16oz,26,g,85,mg,0,g,0,g,4,g,18,g,0.5,g,0,g,52,g
+925,bigfoot java,white mocha frostbite 20oz,30,g,90,mg,0,g,0,g,4,g,20,g,0.5,g,0,g,63,g
+926,bigfoot java,white mocha frostbite 24oz,38,g,120,mg,0,g,0,g,6,g,26,g,1,g,0,g,80,g
+927,bigfoot java,white mocha frostbite 32oz,52,g,165,mg,0,g,0,g,8,g,35,g,1.5,g,0,g,104,g
+928,bigfoot java,white mocha frostbite 44oz,73,g,230,mg,0,g,0,g,11,g,50,g,2,g,0,g,149,g
+929,bigfoot java,white mocha hot 12oz,12,g,40,mg,0,g,0,g,9,g,8,g,0,g,0,g,30,g
+930,bigfoot java,white mocha hot 16oz,15,g,45,mg,0,g,0,g,11,g,10,g,0,g,0,g,41,g
+931,bigfoot java,white mocha hot 20oz,19,g,55,mg,0,g,0,g,13,g,13,g,0,g,0,g,59,g
+932,bigfoot java,white mocha hot 24oz,23,g,70,mg,0,g,0,g,17,g,16,g,0,g,0,g,66,g
+933,bigfoot java,white mocha hot 32oz,33,g,105,mg,0,g,0,g,25,g,22,g,0,g,0,g,87,g
+934,bigfoot java,white mocha hot 44oz,44,g,140,mg,0,g,0,g,32,g,30,g,0,g,0,g,122,g
+935,bigfoot java,white mocha iced 12oz,8,g,20,mg,0,g,0,g,5,g,5,g,0,g,0,g,24,g
+936,bigfoot java,white mocha iced 16oz,8,g,20,mg,0,g,0,g,4,g,6,g,0,g,0,g,31,g
+937,bigfoot java,white mocha iced 20oz,9,g,15,mg,0,g,0,g,4,g,7,g,0,g,0,g,39,g
+938,bigfoot java,white mocha iced 24oz,11,g,20,mg,0,g,0,g,4,g,9,g,0,g,0,g,48,g
+939,bigfoot java,white mocha iced 32oz,17,g,35,mg,0,g,0,g,9,g,12,g,0,g,0,g,63,g
+940,bigfoot java,white mocha iced 44oz,24,g,50,mg,0,g,0,g,12,g,18,g,0,g,0,g,93,g
+941,bigfoot java,yummy yorange yeticicle frostbite 12oz,0,g,0,mg,0,g,0,g,2,g,0,g,0,g,1,g,60,g
+942,bigfoot java,yummy yorange yeticicle frostbite 16oz,0,g,0,mg,0,g,0,g,2,g,0,g,0,g,1,g,77,g
+943,bigfoot java,yummy yorange yeticicle frostbite 20oz,0,g,0,mg,0,g,0,g,5,g,0,g,0,g,1,g,95,g
+944,bigfoot java,yummy yorange yeticicle frostbite 24oz,0,g,0,mg,0,g,0,g,5,g,0,g,0,g,1,g,120,g
+945,bigfoot java,yummy yorange yeticicle frostbite 32oz,0,g,0,mg,0,g,0,g,7,g,0,g,0,g,2,g,155,g
+946,bigfoot java,yummy yorange yeticicle frostbite 44oz,0,g,0,mg,0,g,0,g,10,g,0,g,0,g,3,g,208,g
+947,bill grays restaurant,black bean burger patty,8,g,0,mg,580,g,26,g,9,g,1,g,0,g,9,g,3,g
+948,bill grays restaurant,boneless wings,28,g,120,mg,1280,g,35,g,46,g,3,g,0,g,3,g,0,g
+949,bill grays restaurant,broccoli and cheese gluten free 10 oz,35,g,50,mg,2080,g,25,g,12,g,15,g,0,g,5,g,8,g
+950,bill grays restaurant,broccoli and cheese gluten free 16 oz,56,g,80,mg,3320,g,40,g,20,g,24,g,0,g,8,g,12,g
+951,bill grays restaurant,cannoli,23,g,20,mg,220,g,60,g,9,g,13,g,0,g,1,g,44,g
+952,bill grays restaurant,cheese 2 slices,10,g,40,mg,560,g,2,g,6,g,7,g,0,g,0,g,0,g
+953,bill grays restaurant,cheeseburger,30,g,170,mg,650,g,2,g,43,g,15,g,0,g,0,g,0,g
+954,bill grays restaurant,chicken gumbo gluten free 10 oz,3,g,15,mg,1950,g,30,g,5,g,1,g,0,g,3,g,5,g
+955,bill grays restaurant,chicken gumbo gluten free 16 oz,4,g,20,mg,3120,g,48,g,8,g,2,g,0,g,4,g,8,g
+956,bill grays restaurant,chicken tenders,31,g,105,mg,1420,g,46,g,44,g,5,g,0,g,2,g,0,g
+957,bill grays restaurant,chicken wings,42,g,350,mg,2330,g,0,g,75,g,11,g,0,g,1,g,0,g
+958,bill grays restaurant,chip wheel,29,g,10,mg,300,g,59,g,7,g,14,g,0,g,3,g,24,g
+959,bill grays restaurant,curly fries,55,g,0,mg,320,g,74,g,5,g,26,g,0,g,10,g,2,g
+960,bill grays restaurant,deep fried chicken,12,g,50,mg,610,g,21,g,23,g,2,g,0,g,1,g,0,g
+961,bill grays restaurant,dinner roll,2,g,5,mg,150,g,16,g,2,g,0,g,0,g,1,g,3,g
+962,bill grays restaurant,double vanilla abbott custard,42,g,25,mg,320,g,68,g,14,g,26,g,0,g,2,g,66,g
+963,bill grays restaurant,french fries,28,g,0,mg,35,g,79,g,8,g,3,g,0,g,10,g,2,g
+964,bill grays restaurant,fried egg,7,g,185,mg,95,g,0,g,6,g,2,g,0,g,0,g,0,g
+965,bill grays restaurant,frozen banana no topping,10,g,0,mg,10,g,28,g,2,g,9,g,0,g,3,g,16,g
+966,bill grays restaurant,grilled chicken breast,6,g,65,mg,620,g,2,g,19,g,0,g,0,g,0,g,0,g
+967,bill grays restaurant,ground steak,20,g,130,mg,90,g,0,g,37,g,8,g,0,g,0,g,0,g
+968,bill grays restaurant,hamburger bun,2,g,0,mg,250,g,27,g,4,g,0,g,0,g,1,g,4,g
+969,bill grays restaurant,hard roll,2,g,0,mg,400,g,52,g,7,g,0,g,0,g,2,g,1,g
+970,bill grays restaurant,home fries,83,g,10,mg,250,g,67,g,8,g,10,g,0,g,10,g,2,g
+971,bill grays restaurant,homemade chili con carne 10 oz,13,g,60,mg,980,g,28,g,25,g,4,g,0,g,10,g,7,g
+972,bill grays restaurant,homemade chili con carne 16 oz,20,g,95,mg,1560,g,45,g,41,g,6,g,0,g,15,g,11,g
+973,bill grays restaurant,homemade ne clam chowder 10 oz,32,g,130,mg,690,g,5,g,8,g,20,g,0,g,0,g,2,g
+974,bill grays restaurant,homemade ne clam chowder 16 oz,51,g,210,mg,1110,g,8,g,12,g,33,g,0,g,1,g,2,g
+975,bill grays restaurant,hot dog bun,3,g,0,mg,270,g,26,g,4,g,0,g,0,g,0,g,3,g
+976,bill grays restaurant,hot italian sausage,18,g,100,mg,1040,g,4,g,14,g,3,g,0,g,0,g,2,g
+977,bill grays restaurant,italian wedding 10 oz,10,g,25,mg,1650,g,35,g,15,g,4,g,0,g,3,g,5,g
+978,bill grays restaurant,italian wedding 16 oz,16,g,40,mg,2640,g,56,g,24,g,6,g,0,g,4,g,8,g
+979,bill grays restaurant,kiddie chocolate custard,9,g,55,mg,130,g,16,g,4,g,5,g,0,g,1,g,15,g
+980,bill grays restaurant,kiddie vanilla abbott custard,19,g,10,mg,150,g,31,g,7,g,12,g,0,g,1,g,30,g
+981,bill grays restaurant,kiddie vanilla custard,9,g,55,mg,130,g,16,g,4,g,5,g,0,g,0,g,15,g
+982,bill grays restaurant,kids float,19,g,10,mg,190,g,60,g,7,g,12,g,0,g,1,g,58,g
+983,bill grays restaurant,kids shake,34,g,60,mg,290,g,57,g,14,g,21,g,0,g,2,g,54,g
+984,bill grays restaurant,large chocolate custard,24,g,155,mg,360,g,43,g,10,g,14,g,0,g,3,g,40,g
+985,bill grays restaurant,large vanilla custard,24,g,155,mg,360,g,43,g,10,g,14,g,0,g,0,g,40,g
+986,bill grays restaurant,macaroni salad,14,g,10,mg,20,g,41,g,10,g,3,g,0,g,3,g,2,g
+987,bill grays restaurant,mozzarella sticks,28,g,60,mg,580,g,77,g,30,g,12,g,0,g,3,g,12,g
+988,bill grays restaurant,mushrooms,0,g,0,mg,410,g,27,g,5,g,2,g,0,g,4,g,5,g
+989,bill grays restaurant,nutty dip,18,g,65,mg,230,g,39,g,6,g,16,g,0,g,2,g,26,g
+990,bill grays restaurant,onion rings,47,g,0,mg,860,g,43,g,9,g,6,g,0,g,3,g,10,g
+991,bill grays restaurant,piece of fish 13 oz,33,g,195,mg,1690,g,17,g,66,g,11,g,0,g,1,g,1,g
+992,bill grays restaurant,piece of fish 7 oz,18,g,105,mg,910,g,9,g,36,g,6,g,0,g,1,g,1,g
+993,bill grays restaurant,pizza logs,48,g,40,mg,150,g,62,g,24,g,7,g,0,g,4,g,3,g
+994,bill grays restaurant,pulled pork,10,g,90,mg,910,g,25,g,28,g,4,g,0,g,1,g,24,g
+995,bill grays restaurant,red hot dog,28,g,60,mg,990,g,4,g,13,g,10,g,0,g,0,g,2,g
+996,bill grays restaurant,regular chocolate custard,14,g,90,mg,210,g,25,g,6,g,8,g,0,g,2,g,23,g
+997,bill grays restaurant,regular float,27,g,15,mg,280,g,97,g,9,g,17,g,0,g,1,g,95,g
+998,bill grays restaurant,regular shake,66,g,60,mg,590,g,112,g,29,g,41,g,0,g,3,g,108,g
+999,bill grays restaurant,regular vanilla custard,14,g,90,mg,210,g,25,g,6,g,8,g,0,g,0,g,23,g

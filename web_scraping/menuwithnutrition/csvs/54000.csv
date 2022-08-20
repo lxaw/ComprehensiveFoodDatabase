@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,dions pizza,fresh tomatoes large 16 inch,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,1,g
+1,dions pizza,fresh tomatoes medium 14 inch,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,1,g
+2,dions pizza,fresh tomatoes slice,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,1,g,2,g
+3,dions pizza,fresh tomatoes small 12 inch,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,1,g
+4,dions pizza,fruit cup,0,g,0,mg,15,g,23,g,2,g,0,g,0,g,3,g,19,g
+5,dions pizza,fudge brownie,21,g,0,mg,420,g,95,g,4,g,8,g,0,g,4,g,67,g
+6,dions pizza,full chef salad,38,g,300,mg,2210,g,45,g,49,g,18,g,0,g,9,g,13,g
+7,dions pizza,full chicken caesar salad,21,g,125,mg,1030,g,21,g,47,g,13,g,0,g,6,g,3,g
+8,dions pizza,full chicken pecan salad,37,g,140,mg,1120,g,19,g,39,g,13,g,0.5,g,7,g,8,g
+9,dions pizza,full crunchy spinach salad,26,g,40,mg,740,g,45,g,33,g,11,g,0,g,6,g,15,g
+10,dions pizza,full greek salad,25,g,45,mg,1980,g,44,g,16,g,8,g,0,g,12,g,12,g
+11,dions pizza,full ranch salad,21,g,85,mg,1410,g,43,g,39,g,11,g,0,g,9,g,11,g
+12,dions pizza,full tossed salad,4,g,0,mg,400,g,39,g,8,g,0,g,0,g,9,g,10,g
+13,dions pizza,full turkey salad,27,g,135,mg,2120,g,43,g,49,g,14,g,0,g,9,g,10,g
+14,dions pizza,garlic toast one piece,6,g,15,mg,50,g,20,g,4,g,3.5,g,0,g,1,g,0,g
+15,dions pizza,greek dressing one container,31,g,20,mg,530,g,1,g,0,g,4.5,g,0,g,0,g,0,g
+16,dions pizza,green chile gourmet 10 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+17,dions pizza,green chile gourmet 14 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+18,dions pizza,green chile large 16 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+19,dions pizza,green chile medium 14 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+20,dions pizza,green chile slice,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,1,g
+21,dions pizza,green chile small 12 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+22,dions pizza,green chile ranch dressing one container,22,g,20,mg,630,g,5,g,2,g,3.5,g,0,g,0,g,4,g
+23,dions pizza,grilled chicken strips family salad 10 serving sizes,1,g,20,mg,80,g,0,g,6,g,0,g,0,g,0,g,0,g
+24,dions pizza,grilled chicken strips family salad 4 serving sizes,2.5,g,45,mg,200,g,0,g,14,g,1,g,0,g,0,g,0,g
+25,dions pizza,ground beef gourmet 10 inch,2,g,15,mg,85,g,0,g,3,g,1,g,0,g,0,g,0,g
+26,dions pizza,ground beef gourmet 14 inch,2,g,15,mg,85,g,0,g,2,g,0,g,0,g,0,g,0,g
+27,dions pizza,ground beef large 16 inch,2,g,15,mg,95,g,0,g,3,g,1,g,0,g,0,g,0,g
+28,dions pizza,ground beef medium 14 inch,2,g,15,mg,85,g,0,g,2,g,1,g,0,g,0,g,0,g
+29,dions pizza,ground beef slice,4.5,g,30,mg,190,g,0,g,5,g,2,g,0,g,0,g,0,g
+30,dions pizza,ground beef small 12 inch,2,g,15,mg,85,g,0,g,3,g,1,g,0,g,0,g,0,g
+31,dions pizza,half chef salad,29,g,155,mg,1230,g,27,g,27,g,15,g,0,g,3,g,8,g
+32,dions pizza,half chicken caesar salad,20,g,80,mg,620,g,12,g,29,g,13,g,0,g,1,g,2,g
+33,dions pizza,half chicken pecan salad,20,g,85,mg,630,g,9,g,25,g,6,g,0,g,3,g,4,g
+34,dions pizza,half crunchy spinach salad,14,g,20,mg,360,g,23,g,17,g,5,g,0,g,5,g,7,g
+35,dions pizza,half greek salad,22,g,25,mg,1040,g,26,g,8,g,10,g,0,g,4,g,6,g
+36,dions pizza,half ranch salad,21,g,45,mg,800,g,26,g,21,g,12,g,0,g,3,g,6,g
+37,dions pizza,half tossed salad,12,g,0,mg,250,g,24,g,5,g,6,g,0,g,3,g,5,g
+38,dions pizza,half turkey salad,24,g,70,mg,1170,g,26,g,26,g,13,g,0,g,3,g,6,g
+39,dions pizza,holiday cookie,9,g,30,mg,60,g,24,g,2,g,4.5,g,0,g,1,g,11,g
+40,dions pizza,honey mustard dressing one container,19,g,10,mg,390,g,5,g,1,g,5,g,0,g,0,g,3,g
+41,dions pizza,iceberg lettuce family salad 10 serving sizes,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+42,dions pizza,iceberg lettuce family salad 4 serving sizes,0,g,0,mg,10,g,3,g,1,g,0,g,0,g,1,g,2,g
+43,dions pizza,italian sausage gourmet 10 inch,3.5,g,10,mg,110,g,0,g,2,g,1,g,0,g,0,g,0,g
+44,dions pizza,italian sausage gourmet 14 inch,3.5,g,10,mg,115,g,0,g,2,g,1,g,0,g,0,g,0,g
+45,dions pizza,italian sausage large 16 inch,4.5,g,10,mg,140,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+46,dions pizza,italian sausage medium 14 inch,4,g,10,mg,130,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+47,dions pizza,italian sausage slice,9,g,20,mg,290,g,1,g,5,g,3,g,0,g,0,g,0,g
+48,dions pizza,italian sausage small 12 inch,4,g,10,mg,125,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+49,dions pizza,jalapenos gourmet 10 inch,0,g,0,mg,105,g,0,g,0,g,0,g,0,g,0,g,0,g
+50,dions pizza,jalapenos gourmet 14 inch,0,g,0,mg,125,g,0,g,0,g,0,g,0,g,0,g,0,g
+51,dions pizza,jalapenos large 16 inch,0,g,0,mg,135,g,0,g,0,g,0,g,0,g,0,g,0,g
+52,dions pizza,jalapenos medium 14 inch,0,g,0,mg,125,g,0,g,0,g,0,g,0,g,0,g,0,g
+53,dions pizza,jalapenos small 12 inch,0,g,0,mg,105,g,0,g,0,g,0,g,0,g,0,g,0,g
+54,dions pizza,jalapenos slice,0,g,0,mg,410,g,0,g,0,g,0,g,0,g,0,g,0,g
+55,dions pizza,kalamata olives family salad 10 serving sizes,2.5,g,0,mg,250,g,0,g,0,g,0,g,0,g,0,g,0,g
+56,dions pizza,kalamata olives family salad 4 serving sizes,9,g,0,mg,610,g,3,g,1,g,1,g,0,g,2,g,0,g
+57,dions pizza,kalamata olives gourmet 10 inch,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+58,dions pizza,kalamata olives gourmet 14 inch,1,g,0,mg,100,g,0,g,0,g,0,g,0,g,0,g,0,g
+59,dions pizza,kalamata olives large 16 inch,24,g,0,mg,2460,g,0,g,0,g,0,g,0,g,0,g,0,g
+60,dions pizza,kalamata olives medium 14 inch,19,g,0,mg,1970,g,0,g,0,g,0,g,0,g,0,g,0,g
+61,dions pizza,kalamata olives slice,4.5,g,0,mg,490,g,0,g,0,g,0,g,0,g,0,g,0,g
+62,dions pizza,kalamata olives small 12 inch,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+63,dions pizza,large cherry coke,0,g,0,mg,75,g,82,g,0,g,0,g,0,g,0,g,82,g
+64,dions pizza,large coke,0,g,0,mg,65,g,78,g,0,g,0,g,0,g,0,g,78,g
+65,dions pizza,large coke zero,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+66,dions pizza,large diet coke,0,g,0,mg,90,g,1,g,0,g,0,g,0,g,0,g,0,g
+67,dions pizza,large diet dr pepper,0,g,0,mg,190,g,0,g,0,g,0,g,0,g,0,g,0,g
+68,dions pizza,large dr pepper,0,g,0,mg,160,g,106,g,0,g,0,g,0,g,0,g,104,g
+69,dions pizza,large lemonade,0,g,0,mg,20,g,94,g,0,g,0,g,0,g,0,g,91,g
+70,dions pizza,large regular tea,0,g,0,mg,20,g,2,g,0,g,0,g,0,g,0,g,0,g
+71,dions pizza,large root beer,0,g,0,mg,130,g,87,g,0,g,0,g,0,g,0,g,87,g
+72,dions pizza,large sprite,0,g,0,mg,125,g,75,g,0,g,0,g,0,g,0,g,75,g
+73,dions pizza,large sweet tea,0,g,0,mg,20,g,65,g,0,g,0,g,0,g,0,g,63,g
+74,dions pizza,medium cherry coke,0,g,0,mg,55,g,63,g,0,g,0,g,0,g,0,g,63,g
+75,dions pizza,medium coke,0,g,0,mg,50,g,60,g,0,g,0,g,0,g,0,g,60,g
+76,dions pizza,medium coke zero,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+77,dions pizza,medium diet coke,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+78,dions pizza,medium diet dr pepper,0,g,0,mg,100,g,0,g,0,g,0,g,0,g,0,g,0,g
+79,dions pizza,medium dr pepper,0,g,0,mg,100,g,66,g,0,g,0,g,0,g,0,g,64,g
+80,dions pizza,medium lemonade,0,g,0,mg,15,g,69,g,0,g,0,g,0,g,0,g,66,g
+81,dions pizza,medium regular tea,0,g,0,mg,15,g,1,g,0,g,0,g,0,g,0,g,0,g
+82,dions pizza,medium root beer,0,g,0,mg,100,g,67,g,0,g,0,g,0,g,0,g,67,g
+83,dions pizza,medium sprite,0,g,0,mg,100,g,58,g,0,g,0,g,0,g,0,g,58,g
+84,dions pizza,medium sweet tea,0,g,0,mg,15,g,52,g,0,g,0,g,0,g,0,g,50,g
+85,dions pizza,mushrooms family salad 10 serving sizes,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+86,dions pizza,mushrooms family salad 4 serving sizes,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+87,dions pizza,mushrooms gourmet 10 inch,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+88,dions pizza,mushrooms gourmet 14 inch,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+89,dions pizza,mushrooms large 16 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+90,dions pizza,mushrooms medium 14 inch,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+91,dions pizza,mushrooms slice,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+92,dions pizza,mushrooms small 12 inch,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+93,dions pizza,oatmeal raisin cookie,17,g,70,mg,290,g,67,g,7,g,10,g,0,g,3,g,35,g
+94,dions pizza,oregano gourmet 10 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+95,dions pizza,oregano gourmet 14 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+96,dions pizza,oregano large 16 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+97,dions pizza,oregano medium 14 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+98,dions pizza,oregano slice,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+99,dions pizza,oregano small 12 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+100,dions pizza,parmesan sprinkle gourmet 10 inch,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+101,dions pizza,parmesan sprinkle gourmet 14 inch,0,g,0,mg,15,g,0,g,1,g,0,g,0,g,0,g,0,g
+102,dions pizza,parmesan sprinkle large 16 inch,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+103,dions pizza,parmesan sprinkle medium 14 inch,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+104,dions pizza,parmesan sprinkle slice,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+105,dions pizza,parmesan sprinkle small 12 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+106,dions pizza,pecans family salad 10 serving sizes,5,g,0,mg,10,g,3,g,1,g,0,g,0,g,1,g,2,g
+107,dions pizza,pecans family salad 4 serving sizes,12,g,0,mg,25,g,8,g,2,g,1,g,0,g,2,g,5,g
+108,dions pizza,pepperoni gourmet 10 inch,2.5,g,5,mg,85,g,0,g,1,g,1,g,0,g,0,g,0,g
+109,dions pizza,pepperoni gourmet 14 inch,4.5,g,10,mg,160,g,0,g,2,g,2,g,0,g,0,g,0,g
+110,dions pizza,pepperoni large 16 inch,4.5,g,10,mg,160,g,0,g,2,g,2,g,0,g,0,g,0,g
+111,dions pizza,pepperoni medium 14 inch,4.5,g,10,mg,160,g,0,g,2,g,2,g,0,g,0,g,0,g
+112,dions pizza,pepperoni slice,6,g,15,mg,200,g,0,g,2,g,2.5,g,0,g,0,g,0,g
+113,dions pizza,pepperoni small 12 inch,4,g,10,mg,140,g,0,g,1,g,2,g,0,g,0,g,0,g
+114,dions pizza,pickle,0,g,0,mg,250,g,1,g,0,g,0,g,0,g,1,g,1,g
+115,dions pizza,pine nuts gourmet 10 inch,1,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+116,dions pizza,pine nuts gourmet 14 inch,1.5,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+117,dions pizza,pine nuts large 16 inch,3,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+118,dions pizza,pine nuts medium 14 inch,1.5,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+119,dions pizza,pine nuts slice,3,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+120,dions pizza,pine nuts small 12 inch,1,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+121,dions pizza,pineapple gourmet 10 inch,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+122,dions pizza,pineapple gourmet 14 inch,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+123,dions pizza,pineapple large 16 inch,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+124,dions pizza,pineapple medium 14 inch,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+125,dions pizza,pineapple slice,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+126,dions pizza,pineapple small 12 inch,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+127,dions pizza,pizza crust gourmet 10 inch,0,g,0,mg,130,g,13,g,3,g,0,g,0,g,1,g,0,g
+128,dions pizza,pizza crust gourmet 14 inch,0,g,0,mg,180,g,18,g,4,g,0,g,0,g,1,g,0,g
+129,dions pizza,pizza crust large 16 inch,0,g,0,mg,280,g,28,g,6,g,0,g,0,g,2,g,0,g
+130,dions pizza,pizza crust medium 14 inch,0,g,0,mg,260,g,26,g,5,g,0,g,0,g,2,g,0,g
+131,dions pizza,pizza crust slice,0,g,0,mg,470,g,46,g,10,g,0,g,0,g,3,g,0,g
+132,dions pizza,pizza crust small 12 inch,0,g,0,mg,230,g,22,g,5,g,0,g,0,g,1,g,0,g
+133,dions pizza,pizza sauce gourmet 10 inch,0,g,0,mg,50,g,1,g,0,g,0,g,0,g,0,g,0,g
+134,dions pizza,pizza sauce gourmet 14 inch,0,g,0,mg,80,g,1,g,0,g,0,g,0,g,0,g,1,g
+135,dions pizza,pizza sauce large 16 inch,0,g,0,mg,65,g,1,g,0,g,0,g,0,g,0,g,1,g
+136,dions pizza,pizza sauce medium 14 inch,0,g,0,mg,60,g,1,g,0,g,0,g,0,g,0,g,1,g
+137,dions pizza,pizza sauce slice,0,g,0,mg,180,g,3,g,1,g,0,g,0,g,1,g,2,g
+138,dions pizza,pizza sauce small 12 inch,0,g,0,mg,60,g,1,g,0,g,0,g,0,g,0,g,1,g
+139,dions pizza,provolone family salad 10 serving sizes,3.5,g,10,mg,125,g,1,g,4,g,2.5,g,0,g,0,g,0,g
+140,dions pizza,provolone family salad 4 serving sizes,9,g,25,mg,310,g,1,g,9,g,6,g,0,g,0,g,0,g
+141,dions pizza,ranch dressing one container,30,g,25,mg,770,g,3,g,2,g,5,g,0,g,0,g,3,g
+142,dions pizza,raspberry vinaigrette dressing one container,29,g,0,mg,690,g,8,g,0,g,4.5,g,0,g,0,g,6,g
+143,dions pizza,red onions gourmet 10 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+144,dions pizza,red onions gourmet 14 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+145,dions pizza,reduced fat milk,7,g,35,mg,190,g,19,g,13,g,4.5,g,0,g,0,g,18,g
+146,dions pizza,roasted peppers gourmet 10 inch,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+147,dions pizza,roasted peppers gourmet 14 inch,0,g,0,mg,40,g,1,g,0,g,0,g,0,g,0,g,1,g
+148,dions pizza,roasted peppers large 16 inch,0,g,0,mg,80,g,2,g,0,g,0,g,0,g,0,g,2,g
+149,dions pizza,roasted peppers medium 14 inch,0,g,0,mg,40,g,1,g,0,g,0,g,0,g,0,g,1,g
+150,dions pizza,roasted peppers slice,0,g,0,mg,80,g,2,g,0,g,0,g,0,g,0,g,2,g
+151,dions pizza,roasted peppers small 12 inch,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+152,dions pizza,romaine lettuce family crunchy salad 10 serving sizes,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+153,dions pizza,romaine lettuce family crunchy salad 4 serving sizes,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,0,g
+154,dions pizza,romaine lettuce family salad 10 serving sizes,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+155,dions pizza,romaine lettuce family salad 4 serving sizes,0,g,0,mg,5,g,2,g,1,g,0,g,0,g,1,g,1,g
+156,dions pizza,shredded parmesan cheese family salad 10 serving sizes,3.5,g,10,mg,120,g,1,g,5,g,3,g,0,g,0,g,0,g
+157,dions pizza,shredded parmesan cheese family salad 4 serving sizes,9,g,25,mg,300,g,1,g,11,g,8,g,0,g,0,g,0,g
+158,dions pizza,sliced egg family salad 10 serving sizes,1.5,g,50,mg,15,g,0,g,2,g,0,g,0,g,0,g,0,g
+159,dions pizza,sliced egg family salad 4 serving sizes,4,g,120,mg,40,g,0,g,5,g,1,g,0,g,0,g,0,g
+160,dions pizza,sliced red onion large 16 inch,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+161,dions pizza,sliced red onion slice,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+162,dions pizza,sliced red onion small 12 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+163,dions pizza,small cherry coke,0,g,0,mg,45,g,51,g,0,g,0,g,0,g,0,g,51,g
+164,dions pizza,small coke,0,g,0,mg,40,g,48,g,0,g,0,g,0,g,0,g,48,g
+165,dions pizza,small coke zero,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+166,dions pizza,small diet coke,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+167,dions pizza,small diet dr pepper,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+168,dions pizza,small dr pepper,0,g,0,mg,55,g,40,g,0,g,0,g,0,g,0,g,40,g
+169,dions pizza,small lemonade,0,g,0,mg,10,g,51,g,0,g,0,g,0,g,0,g,49,g
+170,dions pizza,small regular tea,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+171,dions pizza,small root beer,0,g,0,mg,80,g,54,g,0,g,0,g,0,g,0,g,54,g
+172,dions pizza,small sprite,0,g,0,mg,80,g,47,g,0,g,0,g,0,g,0,g,47,g
+173,dions pizza,small sweet tea,0,g,0,mg,10,g,42,g,0,g,0,g,0,g,0,g,41,g
+174,dions pizza,smoked ham family salad 10 serving sizes,0,g,10,mg,210,g,1,g,3,g,0,g,0,g,0,g,1,g
+175,dions pizza,smoked ham family salad 4 serving sizes,1,g,20,mg,530,g,2,g,8,g,0,g,0,g,0,g,2,g
+176,dions pizza,smoked ham gourmet 10 inch,0,g,5,mg,95,g,0,g,1,g,0,g,0,g,0,g,0,g
+177,dions pizza,smoked ham gourmet 14 inch,0,g,5,mg,105,g,0,g,2,g,0,g,0,g,0,g,0,g
+178,dions pizza,smoked ham large 16 inch,0,g,5,mg,115,g,0,g,2,g,0,g,0,g,0,g,0,g
+179,dions pizza,smoked ham medium 14 inch,0,g,5,mg,105,g,0,g,2,g,0,g,0,g,0,g,0,g
+180,dions pizza,smoked ham slice,1,g,15,mg,300,g,1,g,5,g,0,g,0,g,0,g,1,g
+181,dions pizza,smoked ham small 12 inch,0,g,5,mg,95,g,0,g,1,g,0,g,0,g,0,g,0,g
+182,dions pizza,spinach family salad 10 serving sizes,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+183,dions pizza,spinach family salad 4 serving sizes,0,g,0,mg,20,g,1,g,1,g,0,g,0,g,1,g,0,g
+184,dions pizza,spinach gourmet 10 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+185,dions pizza,spinach gourmet 14 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+186,dions pizza,spinach large 16 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+187,dions pizza,spinach medium 14 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+188,dions pizza,spinach slice,0,g,0,mg,20,g,1,g,1,g,0,g,0,g,1,g,0,g
+189,dions pizza,spinach small 12 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+190,dions pizza,spring mix family salad 10 serving sizes,0,g,0,mg,5,g,1,g,1,g,0,g,0,g,1,g,0,g
+191,dions pizza,spring mix family salad 4 serving sizes,0,g,0,mg,15,g,1,g,1,g,0,g,0,g,1,g,0,g
+192,dions pizza,square croutons family salad 10 serving sizes,2.5,g,0,mg,30,g,2,g,0,g,1.5,g,0,g,0,g,0,g
+193,dions pizza,square croutons family salad 4 serving sizes,7,g,0,mg,80,g,5,g,1,g,4,g,0,g,0,g,0,g
+194,dions pizza,strawberry milk,7,g,35,mg,220,g,44,g,15,g,4.5,g,0,g,0,g,42,g
+195,dions pizza,sun dried tomatoes gourmet 10 inch,0,g,0,mg,20,g,4,g,1,g,0,g,0,g,1,g,3,g
+196,dions pizza,sun dried tomatoes gourmet 14 inch,0,g,0,mg,20,g,5,g,1,g,0,g,0,g,1,g,3,g
+197,dions pizza,sun dried tomatoes large 16 inch,0,g,0,mg,40,g,10,g,2,g,0,g,0,g,2,g,6,g
+198,dions pizza,sun dried tomatoes medium 14 inch,0,g,0,mg,20,g,5,g,1,g,0,g,0,g,1,g,3,g
+199,dions pizza,sun dried tomatoes slice,0,g,0,mg,40,g,10,g,2,g,0,g,0,g,2,g,6,g
+200,dions pizza,sun dried tomatoes small 12 inch,0,g,0,mg,20,g,4,g,1,g,0,g,0,g,1,g,3,g
+201,dions pizza,thousand island dressing one container,32,g,25,mg,500,g,11,g,1,g,5,g,0,g,0,g,10,g
+202,dions pizza,three meatballs,15,g,40,mg,1220,g,9,g,27,g,7,g,0,g,8,g,1,g
+203,dions pizza,tomatoes gourmet 10 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+204,dions pizza,tomatoes gourmet 14 inch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+205,dions pizza,turkey family salad 10 serving sizes,0,g,10,mg,160,g,0,g,5,g,0,g,0,g,0,g,0,g
+206,dions pizza,turkey family salad 4 serving sizes,0,g,30,mg,390,g,1,g,11,g,0,g,0,g,0,g,0,g
+207,dions pizza,turkey gourmet 10 inch,0,g,10,mg,100,g,0,g,3,g,0,g,0,g,0,g,0,g
+208,dions pizza,turkey gourmet 14 inch,0,g,10,mg,160,g,0,g,5,g,0,g,0,g,0,g,0,g
+209,dions pizza,turkey large 16 inch,0,g,15,mg,1010,g,0,g,6,g,0,g,0,g,0,g,0,g
+210,dions pizza,turkey medium 14 inch,0,g,10,mg,790,g,0,g,5,g,0,g,0,g,0,g,0,g
+211,dions pizza,turkey slice,0,g,15,mg,230,g,0,g,6,g,0,g,0,g,0,g,0,g
+212,dions pizza,turkey small 12 inch,0,g,10,mg,560,g,0,g,3,g,0,g,0,g,0,g,0,g
+213,dions pizza,walnut brownie,51,g,20,mg,450,g,92,g,12,g,8,g,0,g,6,g,62,g
+214,dions pizza,white chocolate macadamia nut cookie,22,g,65,mg,270,g,56,g,5,g,11,g,0,g,1,g,31,g
+215,dions pizza,whole grape tomatoes family salad 10 serving sizes,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+216,dions pizza,whole grape tomatoes family salad 4 serving sizes,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+217,district taco,2 milk,5,g,20,mg,130,g,12,g,8,g,0,g,0,g,0,g,12,g
+218,district taco,apple and eve apple juice,0,g,0,mg,5,g,26,g,1,g,0,g,0,g,0,g,22,g
+219,district taco,apple and eve fruit punch,0,g,0,mg,20,g,27,g,0,g,0,g,0,g,0,g,26,g
+220,district taco,apple and eve orange juice,0,g,0,mg,10,g,27,g,1,g,0,g,0,g,0,g,23,g
+221,district taco,bottled water,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+222,district taco,bowl chicken,17,g,150,mg,1590,g,73,g,47,g,3,g,0,g,13,g,0,g
+223,district taco,boylan black cherry,0,g,0,mg,0,g,77,g,0,g,0,g,0,g,0,g,77,g
+224,district taco,boylan cane cola,0,g,0,mg,0,g,75,g,0,g,0,g,0,g,0,g,75,g
+225,district taco,boylan cream soda,0,g,0,mg,65,g,73,g,0,g,0,g,0,g,0,g,73,g
+226,district taco,boylan creamy red birch beer,0,g,0,mg,65,g,75,g,0,g,0,g,0,g,0,g,75,g
+227,district taco,boylan diet cola,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+228,district taco,boylan ginger ale,0,g,0,mg,0,g,66,g,0,g,0,g,0,g,0,g,66,g
+229,district taco,boylan lemon lime,0,g,0,mg,0,g,72,g,0,g,0,g,0,g,0,g,72,g
+230,district taco,boylan lemonade,0,g,0,mg,55,g,77,g,0,g,0,g,0,g,0,g,77,g
+231,district taco,burrito chicken,25,g,150,mg,2280,g,124,g,55,g,6,g,0,g,16,g,2,g
+232,district taco,burrito mojado chicken,44,g,210,mg,3190,g,131,g,67,g,16,g,0,g,19,g,6,g
+233,district taco,california burrito,64,g,110,mg,2870,g,146,g,64,g,12,g,0,g,21,g,3,g
+234,district taco,chips and guacamole l,65,g,0,mg,1510,g,151,g,17,g,9,g,0,g,22,g,3,g
+235,district taco,chips and guacamole s,35,g,0,mg,800,g,85,g,10,g,4.5,g,0,g,12,g,2,g
+236,district taco,chips and queso l,78,g,120,mg,2290,g,147,g,42,g,29,g,2,g,11,g,10,g
+237,district taco,chips and queso s,42,g,60,mg,1190,g,83,g,22,g,15,g,1,g,6,g,5,g
+238,district taco,chips and salsa l,40,g,0,mg,650,g,135,g,14,g,5,g,0,g,11,g,2,g
+239,district taco,churros,9,g,20,mg,160,g,22,g,2,g,4.5,g,0,g,0,g,9,g
+240,district taco,coca cola,0,g,0,mg,85,g,39,g,0,g,0,g,0,g,0,g,39,g
+241,district taco,corona light,0,g,0,mg,0,g,5,g,1,g,0,g,0,g,0,g,0,g
+242,district taco,ensalada chicken,39,g,145,mg,1020,g,3,g,32,g,7,g,0,g,2,g,1,g
+243,district taco,ensalada superverdes,23,g,150,mg,1430,g,34,g,38,g,5,g,0,g,11,g,6,g
+244,district taco,fanta,0,g,0,mg,90,g,42,g,0,g,0,g,0,g,0,g,42,g
+245,district taco,french fries,2,g,0,mg,10,g,5,g,0,g,0,g,0,g,0,g,0,g
+246,district taco,garlic lime rice,4,g,0,mg,440,g,53,g,4,g,0,g,0,g,0,g,0,g
+247,district taco,iced tea unsweetened,0,g,0,mg,20,g,2,g,0,g,0,g,0,g,0,g,0,g
+248,district taco,jarritos lime,0,g,0,mg,45,g,28,g,0,g,0,g,0,g,0,g,28,g
+249,district taco,jarritos mandarin,0,g,0,mg,45,g,29,g,0,g,0,g,0,g,0,g,29,g
+250,district taco,jarritos mango,0,g,0,mg,45,g,28,g,0,g,0,g,0,g,0,g,28,g
+251,district taco,jarritos pineapple,0,g,0,mg,45,g,28,g,0,g,0,g,0,g,0,g,28,g
+252,district taco,jarritos tamarindo,0,g,0,mg,45,g,22,g,0,g,0,g,0,g,0,g,22,g
+253,district taco,kids quesadilla,18,g,50,mg,190,g,24,g,14,g,8,g,0,g,2,g,0,g
+254,district taco,kids quesadilla chicken,14,g,40,mg,140,g,24,g,11,g,6,g,0,g,2,g,0,g
+255,district taco,kids taco chicken,7,g,75,mg,370,g,27,g,18,g,1.5,g,0,g,3,g,1,g
+256,district taco,modelo especial,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+257,district taco,nachos borrachos chicken,86,g,330,mg,2810,g,97,g,88,g,37,g,1,g,18,g,7,g
+258,district taco,negra modelo,0,g,0,mg,0,g,14,g,0,g,0,g,0,g,0,g,0,g
+259,district taco,pacifico,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,0,g,13,g
+260,district taco,papas gordas,78,g,175,mg,1940,g,87,g,59,g,22,g,1,g,6,g,5,g
+261,district taco,quesadilla,43,g,105,mg,1580,g,83,g,44,g,19,g,0,g,16,g,3,g
+262,district taco,quesadilla chicken,70,g,305,mg,2500,g,84,g,88,g,30,g,0,g,17,g,3,g
+263,district taco,side of guacamole,12,g,0,mg,430,g,8,g,2,g,1.5,g,0,g,6,g,1,g
+264,district taco,side of queso,19,g,60,mg,820,g,6,g,14,g,12,g,1,g,0,g,4,g
+265,district taco,sprite,0,g,0,mg,105,g,40,g,0,g,0,g,0,g,0,g,40,g
+266,district taco,taco chicken,7,g,75,mg,370,g,27,g,18,g,1.5,g,0,g,3,g,1,g
+267,district taco,taco clasico,19,g,265,mg,190,g,31,g,14,g,5,g,0,g,2,g,2,g
+268,district taco,taco fish,12,g,25,mg,560,g,28,g,12,g,1.5,g,0,g,3,g,2,g
+269,district taco,taco orale,29,g,340,mg,1130,g,32,g,35,g,9,g,0,g,2,g,3,g
+270,district taco,vegetarian black beans,4,g,5,mg,630,g,38,g,15,g,0,g,0,g,15,g,0,g
+271,district taco,vegetarian black beans and rice,3,g,5,mg,620,g,57,g,10,g,0.5,g,0,g,8,g,1,g
+272,don pablos,7 inch flour tortilla,4,g,0,mg,220,g,20,g,3,g,2,g,0,g,1,g,0,g
+273,don pablos,7 inch flour tortillas for fajitas,11,g,0,mg,670,g,60,g,8,g,5,g,0,g,2,g,1,g
+274,don pablos,add shrimp skewer,14,g,5,mg,1010,g,1,g,1,g,2,g,0,g,0,g,0,g
+275,don pablos,add taco beef to dip,8,g,40,mg,320,g,3,g,13,g,3,g,1,g,1,g,1,g
+276,don pablos,bbq beans,4,g,0,mg,1140,g,40,g,11,g,1,g,1,g,8,g,9,g
+277,don pablos,bean burrito,56,g,100,mg,2780,g,127,g,43,g,28,g,2,g,13,g,7,g
+278,don pablos,bean enchilada,5,g,5,mg,1130,g,21,g,6,g,2,g,0,g,4,g,2,g
+279,don pablos,beef enchilada,16,g,65,mg,700,g,8,g,21,g,6,g,1,g,2,g,2,g
+280,don pablos,beef relleno,13,g,75,mg,2060,g,54,g,25,g,5,g,1,g,5,g,7,g
+281,don pablos,beef taco salad with fried tortilla shell,73,g,190,mg,2590,g,102,g,79,g,32,g,3,g,18,g,16,g
+282,don pablos,big tex ribeye,87,g,230,mg,1960,g,2,g,60,g,33,g,0,g,0,g,1,g
+283,don pablos,black beans,2,g,0,mg,450,g,16,g,5,g,0,g,0,g,5,g,2,g
+284,don pablos,bleu cheese dressing,38,g,15,mg,5,g,2,g,2,g,7,g,0,g,0,g,2,g
+285,don pablos,border dip,82,g,190,mg,4060,g,98,g,65,g,42,g,5,g,11,g,10,g
+286,don pablos,buffalo chicken taco trio,57,g,95,mg,3160,g,94,g,40,g,21,g,2,g,6,g,7,g
+287,don pablos,buffalo shrimp taco trio without dressing,54,g,290,mg,5800,g,127,g,60,g,21,g,3,g,7,g,9,g
+288,don pablos,caesar dressing,44,g,30,mg,820,g,0,g,3,g,7,g,0,g,0,g,0,g
+289,don pablos,cantina nachos,39,g,80,mg,2200,g,104,g,35,g,19,g,2,g,12,g,14,g
+290,don pablos,cantina nachos with beef,55,g,155,mg,2840,g,109,g,62,g,25,g,3,g,14,g,16,g
+291,don pablos,cantina nachos with chicken,46,g,120,mg,3420,g,108,g,55,g,22,g,2,g,12,g,16,g
+292,don pablos,charra beans,3,g,0,mg,600,g,31,g,10,g,1,g,1,g,8,g,2,g
+293,don pablos,cheese and onion enchilada,14,g,40,mg,590,g,9,g,10,g,8,g,0,g,1,g,1,g
+294,don pablos,cheese quesadilla grande,90,g,195,mg,2180,g,15,g,48,g,50,g,3,g,2,g,6,g
+295,don pablos,cheese quesadilla large,90,g,195,mg,2180,g,15,g,48,g,50,g,3,g,2,g,6,g
+296,don pablos,cheese quesadilla small,66,g,140,mg,1350,g,50,g,39,g,36,g,3,g,3,g,4,g
+297,don pablos,cheese relleno,25,g,100,mg,2110,g,53,g,27,g,15,g,0,g,3,g,6,g
+298,don pablos,chicken burrito,53,g,125,mg,4520,g,79,g,58,g,25,g,1,g,10,g,11,g
+299,don pablos,chicken cadillac enchiladas,43,g,190,mg,3120,g,60,g,60,g,25,g,0,g,3,g,31,g
+300,don pablos,chicken chimichanga,37,g,95,mg,3860,g,64,g,47,g,17,g,0,g,7,g,9,g
+301,don pablos,chicken enchilada,14,g,40,mg,1110,g,9,g,13,g,7,g,0,g,1,g,2,g
+302,don pablos,chicken relleno,8,g,60,mg,2350,g,53,g,21,g,3,g,0,g,4,g,7,g
+303,don pablos,chicken taco salad with fried tortilla shell,62,g,135,mg,3470,g,100,g,68,g,27,g,1,g,16,g,15,g
+304,don pablos,chicken tamale,6,g,20,mg,310,g,12,g,6,g,2,g,2,g,1,g,2,g
+305,don pablos,chile mashed potatoes,12,g,10,mg,600,g,16,g,4,g,4,g,2,g,2,g,2,g
+306,don pablos,chili macho salsa,0,g,0,mg,330,g,3,g,1,g,0,g,0,g,1,g,2,g
+307,don pablos,chipotle pork taco trio,39,g,110,mg,1960,g,69,g,46,g,18,g,0,g,5,g,6,g
+308,don pablos,chipotle portabella mushroom fajitas,46,g,0,mg,550,g,39,g,10,g,8,g,8,g,9,g,18,g
+309,don pablos,chipotle tomatillo salsa,2,g,0,mg,280,g,4,g,1,g,0,g,0,g,1,g,2,g
+310,don pablos,chipotle honey shrimp taco trio without dressing,62,g,290,mg,4560,g,161,g,60,g,22,g,5,g,8,g,38,g
+311,don pablos,chips and salsa,2,g,0,mg,420,g,41,g,5,g,0,g,0,g,4,g,3,g
+312,don pablos,chocolate volcano,50,g,65,mg,910,g,99,g,16,g,17,g,6,g,0,g,72,g
+313,don pablos,cilantro lime butter sauce,16,g,0,mg,190,g,1,g,0,g,3,g,4,g,0,g,0,g
+314,don pablos,cilantro ranch dressing,16,g,0,mg,120,g,2,g,1,g,2,g,0,g,0,g,1,g
+315,don pablos,cinco combo,66,g,225,mg,4090,g,64,g,80,g,33,g,2,g,8,g,10,g
+316,don pablos,classic combo fajitas steak and chicken,28,g,120,mg,1100,g,34,g,52,g,7,g,0,g,3,g,18,g
+317,don pablos,conquistador combo,82,g,220,mg,4170,g,103,g,90,g,31,g,2,g,12,g,18,g
+318,don pablos,corn tortillas for fajitas,1,g,0,mg,20,g,12,g,1,g,0,g,0,g,1,g,0,g
+319,don pablos,cornmeal spoon bread,20,g,35,mg,390,g,49,g,6,g,6,g,2,g,1,g,26,g
+320,don pablos,crispy beef taco,13,g,50,mg,410,g,16,g,18,g,6,g,1,g,3,g,2,g
+321,don pablos,crispy chicken taco,8,g,30,mg,690,g,9,g,14,g,4,g,0,g,1,g,2,g
+322,don pablos,crispy chicken taco trio,54,g,85,mg,2200,g,93,g,40,g,190,g,0,g,6,g,7,g
+323,don pablos,diablo sauce,0,g,0,mg,160,g,1,g,0,g,0,g,0,g,0,g,1,g
+324,don pablos,dip sampler,45,g,80,mg,2250,g,30,g,26,g,20,g,2,g,8,g,8,g
+325,don pablos,don pablos original caesar salad with chicken,27,g,85,mg,1070,g,96,g,45,g,5,g,0,g,11,g,18,g
+326,don pablos,don pablos original caesar salad with steak,38,g,95,mg,1260,g,99,g,54,g,10,g,0,g,11,g,13,g
+327,don pablos,dons boneless wings buffalo,48,g,85,mg,4820,g,49,g,37,g,9,g,4,g,8,g,4,g
+328,don pablos,dons boneless wings chipotle honey bbq,59,g,85,mg,3160,g,94,g,38,g,11,g,6,g,8,g,42,g
+329,don pablos,el matador combo,54,g,180,mg,3580,g,59,g,62,g,28,g,1,g,9,g,12,g
+330,don pablos,empanadas tradicional,39,g,60,mg,1430,g,43,g,19,g,15,g,0,g,3,g,4,g
+331,don pablos,fajita chicken burrito,40,g,140,mg,2710,g,77,g,57,g,19,g,1,g,7,g,19,g
+332,don pablos,fajita nachos with mesquite grilled chicken,71,g,255,mg,2180,g,72,g,83,g,41,g,1,g,10,g,11,g
+333,don pablos,fajita nachos with mesquite grilled steak,81,g,265,mg,2370,g,74,g,92,g,46,g,1,g,10,g,6,g
+334,don pablos,fajita steak burrito,50,g,150,mg,2880,g,79,g,66,g,24,g,1,g,7,g,14,g
+335,don pablos,fajita trio steak shrimp and chicken,41,g,275,mg,2330,g,41,g,74,g,10,g,3,g,5,g,18,g
+336,don pablos,fajitas for two combo steak and chicken,54,g,245,mg,2200,g,67,g,104,g,14,g,0,g,7,g,35,g
+337,don pablos,fajitas for two mesquite grilled chicken,39,g,230,mg,1910,g,63,g,91,g,7,g,0,g,7,g,42,g
+338,don pablos,fajitas for two mesquite grilled steak,70,g,255,mg,2490,g,71,g,118,g,22,g,0,g,7,g,28,g
+339,don pablos,fiesta to go boneless wings fiesta platter chipotle honey sauce,30,g,55,mg,1590,g,43,g,23,g,5,g,2,g,4,g,13,g
+340,don pablos,fiesta to go boneless wings fiesta platter classic wing sauce,26,g,55,mg,2140,g,28,g,23,g,5,g,1,g,4,g,1,g
+341,don pablos,fiesta to go chicken tenders fiesta platter,23,g,60,mg,1370,g,32,g,26,g,4,g,0,g,2,g,2,g
+342,don pablos,fiesta to go enchilada fiesta platter beef,47,g,190,mg,2110,g,24,g,63,g,18,g,4,g,6,g,6,g
+343,don pablos,fiesta to go enchilada fiesta platter cheese,41,g,115,mg,1780,g,27,g,30,g,24,g,0,g,3,g,3,g
+344,don pablos,fiesta to go enchilada fiesta platter chicken,42,g,125,mg,3330,g,27,g,39,g,21,g,0,g,3,g,6,g
+345,don pablos,fiesta to go fajita fiesta meal 1 2 chicken and 1 2 steak,33,g,160,mg,1460,g,39,g,69,g,9,g,0,g,4,g,20,g
+346,don pablos,fiesta to go fajita fiesta meal chicken,22,g,155,mg,1270,g,37,g,60,g,4,g,0,g,4,g,25,g
+347,don pablos,fiesta to go fajita fiesta meal steak,43,g,170,mg,1650,g,42,g,78,g,14,g,0,g,4,g,16,g
+348,don pablos,fiesta to go mexicano fiesta meal,43,g,150,mg,1700,g,33,g,49,g,20,g,2,g,6,g,5,g
+349,don pablos,fiesta to go san angelo fiesta meal,60,g,200,mg,3150,g,70,g,59,g,28,g,1,g,8,g,10,g
+350,don pablos,fiesta to go taco fiesta platter crispy beef,40,g,155,mg,1220,g,48,g,54,g,17,g,2,g,9,g,6,g
+351,don pablos,fiesta to go taco fiesta platter crispy chicken,25,g,95,mg,2080,g,27,g,42,g,12,g,0,g,3,g,6,g
+352,don pablos,fiesta to go taco fiesta platter soft beef,48,g,155,mg,1870,g,72,g,60,g,22,g,2,g,6,g,9,g
+353,don pablos,fiesta to go taco fiesta platter soft chicken,34,g,95,mg,2750,g,69,g,48,g,17,g,0,g,3,g,6,g
+354,don pablos,fiesta to go tamale fiesta platter chicken,19,g,55,mg,920,g,36,g,18,g,7,g,6,g,3,g,6,g
+355,don pablos,fiesta to go tamale fiesta platter pork,56,g,150,mg,2840,g,51,g,48,g,21,g,2,g,6,g,6,g
+356,don pablos,fiesta to go tejas fiesta meal,41,g,130,mg,2110,g,34,g,41,g,21,g,1,g,5,g,5,g
+357,don pablos,flautas,29,g,80,mg,1270,g,40,g,27,g,14,g,0,g,7,g,7,g
+358,don pablos,four amigos enchiladas,65,g,175,mg,3880,g,53,g,56,g,32,g,3,g,6,g,9,g
+359,don pablos,fried fish taco trio without dressing,40,g,175,mg,3600,g,123,g,78,g,17,g,0,g,7,g,8,g
+360,don pablos,fried ice cream,29,g,65,mg,680,g,145,g,14,g,12,g,0,g,3,g,52,g
+361,don pablos,fried shrimp taco trio without dressing,35,g,275,mg,3690,g,124,g,58,g,15,g,0,g,7,g,8,g
+362,don pablos,fried tortilla shell,11,g,0,mg,410,g,52,g,10,g,4,g,0,g,2,g,0,g
+363,don pablos,grilled chicken,10,g,195,mg,1870,g,23,g,73,g,3,g,0,g,2,g,16,g
+364,don pablos,grilled chicken and shrimp,22,g,250,mg,2220,g,17,g,57,g,4,g,0,g,2,g,10,g
+365,don pablos,grilled chicken taco trio,36,g,155,mg,2110,g,80,g,63,g,16,g,0,g,4,g,14,g
+366,don pablos,grilled fish taco trio without dressing,40,g,165,mg,2790,g,70,g,71,g,17,g,3,g,5,g,6,g
+367,don pablos,grilled shrimp,31,g,300,mg,2290,g,6,g,40,g,5,g,0,g,1,g,1,g
+368,don pablos,grilled shrimp fajitas,41,g,305,mg,1500,g,24,g,44,g,7,g,6,g,4,g,13,g
+369,don pablos,grilled shrimp taco trio without dressing,43,g,265,mg,2920,g,71,g,50,g,17,g,4,g,5,g,6,g
+370,don pablos,grilled tilapia,10,g,95,mg,1390,g,8,g,35,g,5,g,0,g,1,g,2,g
+371,don pablos,guacamole appetizer,35,g,0,mg,820,g,44,g,7,g,6,g,0,g,12,g,6,g
+372,don pablos,guacamole do it yourself,42,g,0,mg,1070,g,37,g,7,g,6,g,0,g,22,g,7,g
+373,don pablos,honey mustard dressing,28,g,25,mg,420,g,16,g,2,g,5,g,0,g,0,g,14,g
+374,don pablos,honey lime dressing,24,g,0,mg,150,g,16,g,0,g,3,g,0,g,0,g,14,g
+375,don pablos,ice cream tacos,42,g,70,mg,630,g,121,g,21,g,16,g,5,g,1,g,79,g
+376,don pablos,iron skillet apple pie,47,g,40,mg,430,g,90,g,5,g,14,g,8,g,1,g,75,g
+377,don pablos,ketchup,0,g,0,mg,760,g,17,g,1,g,0,g,0,g,0,g,16,g
+378,don pablos,kids apple slices,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,1,g,6,g
+379,don pablos,kids black beans,2,g,0,mg,450,g,16,g,5,g,0,g,0,g,5,g,2,g
+380,don pablos,kids carrots,0,g,0,mg,45,g,5,g,1,g,0,g,0,g,1,g,3,g
+381,don pablos,kids cheese enchilada topped with queso,30,g,65,mg,1070,g,9,g,18,g,15,g,0,g,1,g,4,g
+382,don pablos,kids cheeseburger,41,g,90,mg,630,g,29,g,29,g,15,g,3,g,3,g,5,g
+383,don pablos,kids chicken fajitas,26,g,100,mg,720,g,20,g,31,g,12,g,0,g,2,g,12,g
+384,don pablos,kids chicken nachos,42,g,135,mg,1190,g,45,g,44,g,23,g,1,g,6,g,6,g
+385,don pablos,kids chicken quesadilla,48,g,115,mg,1250,g,51,g,37,g,23,g,3,g,2,g,6,g
+386,don pablos,kids chicken sandwich,35,g,30,mg,550,g,36,g,14,g,10,g,3,g,6,g,6,g
+387,don pablos,kids chicken tenders large,31,g,60,mg,1370,g,32,g,26,g,5,g,0,g,2,g,2,g
+388,don pablos,kids chicken tenders small,24,g,45,mg,1030,g,24,g,20,g,4,g,0,g,2,g,2,g
+389,don pablos,kids combo cheese enchilada and choice of taco,30,g,65,mg,1070,g,9,g,18,g,15,g,0,g,1,g,4,g
+390,don pablos,kids corn dog,23,g,20,mg,480,g,20,g,6,g,6,g,0,g,0,g,4,g
+391,don pablos,kids crispy beef taco,13,g,50,mg,410,g,16,g,18,g,6,g,1,g,3,g,2,g
+392,don pablos,kids crispy beef taco entree,13,g,50,mg,410,g,16,g,18,g,6,g,1,g,3,g,2,g
+393,don pablos,kids crispy chicken taco,8,g,30,mg,690,g,9,g,14,g,4,g,0,g,1,g,2,g
+394,don pablos,kids dogs in a blanket,25,g,55,mg,770,g,41,g,19,g,15,g,0,g,1,g,1,g
+395,don pablos,kids french fries,16,g,45,mg,60,g,45,g,5,g,4,g,0,g,5,g,0,g
+396,don pablos,kids fried ice cream,11,g,35,mg,350,g,78,g,7,g,6,g,0,g,2,g,31,g
+397,don pablos,kids honey mustard,28,g,25,mg,420,g,16,g,2,g,4.5,g,0,g,0,g,14,g
+398,don pablos,kids ice cream,9,g,30,mg,60,g,26,g,3,g,5,g,0,g,0,g,21,g
+399,don pablos,kids ice cream tacos,14,g,25,mg,210,g,40,g,7,g,5,g,2,g,0,g,26,g
+400,don pablos,kids ketchup,0,g,0,mg,760,g,17,g,1,g,0,g,0,g,0,g,16,g
+401,don pablos,kids mesquite grilled chicken,29,g,0,mg,15,g,17,g,3,g,5,g,0,g,8,g,1,g
+402,don pablos,kids refritos,7,g,5,mg,610,g,27,g,11,g,2.5,g,1,g,7,g,1,g
+403,don pablos,kids side of queso,8,g,25,mg,820,g,5,g,7,g,5,g,0,g,0,g,4,g
+404,don pablos,kids side of queso blanco,15,g,45,mg,800,g,2,g,10,g,9,g,0,g,0,g,2,g
+405,don pablos,kids soft beef taco,16,g,50,mg,620,g,24,g,20,g,7,g,1,g,2,g,3,g
+406,don pablos,kids soft chicken taco,11,g,30,mg,920,g,23,g,16,g,6,g,0,g,1,g,2,g
+407,don pablos,kids steak fajitas,34,g,110,mg,860,g,22,g,38,g,16,g,0,g,2,g,9,g
+408,don pablos,kids tator tots,21,g,0,mg,410,g,23,g,3,g,4,g,0,g,3,g,0,g
+409,don pablos,lime wedge for fajitas,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+410,don pablos,low fat french dressing,9,g,0,mg,720,g,14,g,0,g,1,g,0,g,0,g,14,g
+411,don pablos,lunch burrito bowl ground beef,48,g,165,mg,3370,g,101,g,67,g,19,g,4,g,13,g,12,g
+412,don pablos,lunch burrito bowl spicy chicken,27,g,75,mg,3400,g,96,g,42,g,12,g,1,g,10,g,10,g
+413,don pablos,lunch cheese quesadilla and side salad combo,72,g,155,mg,1460,g,64,g,45,g,39,g,3,g,6,g,7,g
+414,don pablos,lunch chicken quesadilla and side salad combo,53,g,30,mg,1410,g,67,g,43,g,26,g,3,g,6,g,10,g
+415,don pablos,lunch fried fish tacos,21,g,90,mg,1850,g,71,g,44,g,6,g,0,g,4,g,4,g
+416,don pablos,lunch grilled fish tacos,21,g,85,mg,1730,g,45,g,40,g,6,g,3,g,3,g,3,g
+417,don pablos,lunch sized chicken fajita,9,g,60,mg,480,g,16,g,23,g,2,g,0,g,2,g,11,g
+418,don pablos,lunch sized steak and chicken fajita,14,g,60,mg,560,g,48,g,27,g,4,g,0,g,2,g,27,g
+419,don pablos,lunch sized steak fajita,17,g,65,mg,620,g,18,g,30,g,5,g,0,g,2,g,7,g
+420,don pablos,lunch steak quesadilla and side salad combo,59,g,135,mg,1500,g,68,g,48,g,29,g,3,g,6,g,8,g
+421,don pablos,mamas skinny enchilada,6,g,25,mg,1350,g,8,g,12,g,3,g,0,g,1,g,3,g
+422,don pablos,mamas skinny enchiladas,16,g,70,mg,3660,g,23,g,35,g,7,g,0,g,3,g,8,g
+423,don pablos,mesquite grilled chicken fajitas,20,g,115,mg,950,g,32,g,45,g,4,g,0,g,3,g,21,g
+424,don pablos,mesquite grilled chicken quesadilla grande,88,g,215,mg,2580,g,101,g,73,g,42,g,6,g,5,g,12,g
+425,don pablos,mesquite grilled chicken quesadilla large,88,g,215,mg,2580,g,101,g,73,g,42,g,6,g,5,g,12,g
+426,don pablos,mesquite grilled chicken quesadilla small,48,g,15,mg,1300,g,53,g,37,g,23,g,3,g,3,g,7,g
+427,don pablos,mesquite grilled chicken taco salad with fried tortilla shell,56,g,155,mg,2260,g,102,g,67,g,24,g,1,g,15,g,18,g
+428,don pablos,mesquite grilled steak fajitas,36,g,130,mg,1240,g,36,g,59,g,11,g,0,g,3,g,14,g
+429,don pablos,mesquite grilled steak quesadilla grande,99,g,225,mg,2770,g,104,g,82,g,47,g,6,g,5,g,7,g
+430,don pablos,mesquite grilled steak quesadilla large,99,g,225,mg,2770,g,104,g,82,g,47,g,6,g,5,g,7,g
+431,don pablos,mesquite grilled steak quesadilla small,53,g,120,mg,1400,g,54,g,42,g,26,g,3,g,3,g,5,g
+432,don pablos,mesquite grilled steak taco salad with fried tortilla shell,57,g,165,mg,2460,g,104,g,76,g,28,g,1,g,15,g,13,g
+433,don pablos,mexican rice for fajitas,2,g,0,mg,430,g,23,g,2,g,0,g,0,g,1,g,1,g
+434,don pablos,mexicano combo,43,g,155,mg,2060,g,31,g,50,g,20,g,2,g,6,g,5,g
+435,don pablos,monterey jack and cheddar cheese combo,9,g,25,mg,160,g,1,g,7,g,6,g,0,g,0,g,0,g
+436,don pablos,new house vinaigrette scratch cilantro vinaigrette,34,g,0,mg,180,g,8,g,0,g,5,g,0,g,1,g,5,g
+437,don pablos,numero uno favorito combo,45,g,130,mg,2880,g,65,g,52,g,19,g,0,g,6,g,16,g
+438,don pablos,pecos valley veggie fajitas,20,g,0,mg,320,g,39,g,7,g,3,g,1,g,8,g,20,g
+439,don pablos,pico de gallo for fajitas,0,g,0,mg,55,g,2,g,0,g,0,g,0,g,0,g,1,g
+440,don pablos,plain chicken sandwich no bacon no cheese,15,g,10,mg,1060,g,58,g,49,g,3,g,3,g,4,g,1,g
+441,don pablos,plato fresco cold sides for pork carnitas,11,g,0,mg,20,g,24,g,3,g,2,g,0,g,8,g,10,g
+442,don pablos,pork carnitas,31,g,105,mg,2330,g,88,g,49,g,11,g,0,g,11,g,13,g
+443,don pablos,pork tamale,19,g,50,mg,950,g,17,g,16,g,7,g,1,g,2,g,2,g
+444,don pablos,prairie fire bean dip bowl,43,g,55,mg,1500,g,53,g,31,g,16,g,6,g,13,g,4,g
+445,don pablos,prairie fire bean dip cup,21,g,25,mg,750,g,27,g,16,g,8,g,3,g,7,g,2,g
+446,don pablos,presidente combo,54,g,205,mg,3920,g,70,g,61,g,28,g,1,g,6,g,10,g
+447,don pablos,pulled pork sandwich,20,g,70,mg,2460,g,64,g,33,g,5,g,3,g,3,g,19,g
+448,don pablos,queso blanco bowl,88,g,260,mg,4670,g,14,g,59,g,55,g,3,g,2,g,10,g
+449,don pablos,queso blanco cup,44,g,130,mg,2340,g,7,g,30,g,28,g,1,g,1,g,5,g
+450,don pablos,queso bowl,50,g,150,mg,4920,g,29,g,44,g,31,g,2,g,2,g,22,g
+451,don pablos,queso cup,25,g,75,mg,2460,g,15,g,22,g,16,g,1,g,1,g,11,g
+452,don pablos,ranch dressing,16,g,0,mg,120,g,1,g,1,g,2,g,0,g,0,g,1,g
+453,don pablos,red river salad,15,g,100,mg,1560,g,37,g,40,g,3,g,0,g,9,g,23,g
+454,don pablos,red wine vinegar and soy salad oil,28,g,0,mg,0,g,0,g,0,g,4,g,0,g,0,g,0,g
+455,don pablos,refritos,7,g,5,mg,610,g,27,g,11,g,2,g,1,g,7,g,1,g
+456,don pablos,refritos for fajitas,7,g,5,mg,610,g,27,g,11,g,2,g,1,g,7,g,1,g
+457,don pablos,rio grande ribs double portion,85,g,195,mg,3880,g,32,g,58,g,25,g,0,g,1,g,20,g
+458,don pablos,rio grande ribs single portion or add on portion,42,g,100,mg,1940,g,16,g,29,g,12,g,0,g,1,g,10,g
+459,don pablos,scoop vanilla ice cream,9,g,30,mg,55,g,18,g,2,g,5,g,0,g,0,g,14,g
+460,don pablos,seasoned french fries,16,g,45,mg,160,g,46,g,5,g,4,g,0,g,5,g,0,g
+461,don pablos,seasoned vegetables pecos valley veggies,5,g,0,mg,85,g,16,g,3,g,1,g,1,g,4,g,5,g
+462,don pablos,shredded lettuce for fajitas,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+463,don pablos,shrimp combo fajitas shrimp and chicken,31,g,30,mg,1230,g,2,g,44,g,5,g,3,g,4,g,17,g
+464,don pablos,shrimp combo fajitas shrimp and steak,38,g,215,mg,1370,g,30,g,51,g,9,g,3,g,4,g,13,g
+465,don pablos,side of guacamole for fajitas,6,g,0,mg,150,g,4,g,1,g,1,g,0,g,2,g,0,g
+466,don pablos,side of guacamole for quesadillas,6,g,0,mg,150,g,4,g,1,g,1,g,0,g,2,g,0,g
+467,don pablos,side of mexican rice,2,g,0,mg,20,g,23,g,2,g,0,g,0,g,1,g,1,g
+468,don pablos,side salad,5,g,15,mg,105,g,14,g,6,g,3,g,0,g,3,g,3,g
+469,don pablos,sizzling fajita salad with chicken,41,g,110,mg,1100,g,67,g,45,g,15,g,0,g,14,g,14,g
+470,don pablos,sizzling fajita salad with shrimp,52,g,205,mg,1870,g,66,g,44,g,17,g,3,g,14,g,10,g
+471,don pablos,sizzling fajita salad with steak,49,g,120,mg,1250,g,69,g,52,g,19,g,0,g,14,g,11,g
+472,don pablos,slenderita,1,g,0,mg,2340,g,25,g,2,g,0,g,0,g,5,g,4,g
+473,don pablos,soft beef taco,16,g,50,mg,620,g,24,g,20,g,7,g,1,g,2,g,3,g
+474,don pablos,soft chicken taco,11,g,30,mg,920,g,23,g,16,g,6,g,0,g,1,g,2,g
+475,don pablos,sopapillas,57,g,10,mg,1170,g,149,g,13,g,15,g,7,g,3,g,65,g
+476,don pablos,sour cream for fajitas,8,g,15,mg,20,g,2,g,1,g,5,g,0,g,0,g,0,g
+477,don pablos,southwest salad with buffalo sauce,57,g,110,mg,4880,g,73,g,45,g,15,g,4,g,11,g,7,g
+478,don pablos,southwest salad with chipotle honey bbq sauce,67,g,110,mg,3220,g,118,g,46,g,17,g,6,g,12,g,45,g
+479,don pablos,spicy beef and bean burrito,67,g,185,mg,2430,g,76,g,67,g,30,g,3,g,11,g,7,g
+480,don pablos,spicy beef de oro chimichanga,79,g,170,mg,2510,g,89,g,72,g,28,g,4,g,15,g,8,g
+481,don pablos,spinach and poblano enchilada,23,g,35,mg,950,g,30,g,11,g,11,g,1,g,2,g,4,g
+482,don pablos,squeezarita,0,g,0,mg,2340,g,57,g,1,g,0,g,0,g,5,g,38,g
+483,don pablos,steak and enchiladas,101,g,310,mg,3140,g,20,g,80,g,47,g,0,g,2,g,4,g
+484,don pablos,steak cadillac enchiladas,53,g,200,mg,2550,g,65,g,69,g,30,g,0,g,3,g,26,g
+485,don pablos,table corn tortilla,0,g,0,mg,5,g,3,g,0,g,0,g,0,g,0,g,0,g
+486,don pablos,table salsa,0,g,0,mg,360,g,3,g,0,g,0,g,0,g,1,g,2,g
+487,don pablos,taquitos,39,g,90,mg,1400,g,28,g,24,g,19,g,0,g,4,g,4,g
+488,don pablos,tejas combo,41,g,130,mg,2470,g,32,g,42,g,21,g,1,g,5,g,6,g
+489,don pablos,tex mex mixer,163,g,300,mg,6410,g,168,g,107,g,57,g,5,g,15,g,17,g
+490,don pablos,texas two step,53,g,155,mg,3550,g,57,g,51,g,14,g,0,g,2,g,28,g
+491,don pablos,the dons burger,67,g,140,mg,790,g,56,g,47,g,25,g,3,g,4,g,11,g
+492,don pablos,the dons chicken enchiladas,36,g,110,mg,3070,g,25,g,38,g,19,g,0,g,2,g,6,g
+493,don pablos,the dons chicken sandwich,47,g,90,mg,1240,g,58,g,72,g,17,g,3,g,4,g,11,g
+494,don pablos,the ultimate tex mex combo chicken,60,g,155,mg,2430,g,42,g,53,g,15,g,0,g,4,g,27,g
+495,don pablos,the ultimate tex mex combo steak,68,g,160,mg,2570,g,44,g,60,g,19,g,0,g,4,g,23,g
+496,don pablos,three amigos enchiladas,43,g,140,mg,2760,g,24,g,45,g,21,g,1,g,4,g,5,g
+497,don pablos,tortilla chips,2,g,0,mg,55,g,39,g,4,g,0,g,0,g,3,g,1,g
+498,don pablos,tortilla salad with fried tortilla shell,16,g,15,mg,470,g,69,g,16,g,6,g,0,g,6,g,6,g
+499,don pablos,tortilla soup bowl,8,g,25,mg,1560,g,30,g,14,g,2,g,0,g,3,g,4,g
+500,don pablos,tortilla soup cup,4,g,10,mg,790,g,16,g,7,g,1,g,0,g,2,g,2,g
+501,don pablos,tortilla strips 1 2 cup,1,g,0,mg,25,g,18,g,2,g,0,g,0,g,1,g,0,g
+502,don pablos,tortilla strips 1 4 cup,0,g,0,mg,10,g,8,g,1,g,0,g,0,g,1,g,0,g
+503,don pablos,white chicken chili bowl,16,g,30,mg,2060,g,55,g,25,g,5,g,0,g,9,g,7,g
+504,don pablos,white chicken chili cup,8,g,15,mg,1030,g,27,g,12,g,3,g,0,g,5,g,3,g
+505,doolittles restaurants,applewood bacon and smoked cheddar burger,58,g,0,mg,0,g,43,g,74,g,0,g,0,g,4,g,0,g
+506,doolittles restaurants,arctic char with thai chile butter sauce,49,g,0,mg,0,g,14,g,48,g,0,g,0,g,2,g,0,g
+507,doolittles restaurants,australian sea bass with mussels,51,g,0,mg,0,g,17,g,54,g,0,g,0,g,2,g,0,g
+508,doolittles restaurants,balsamic vinaigrette,8,g,0,mg,0,g,14,g,0,g,0,g,0,g,0,g,0,g
+509,doolittles restaurants,blue cheese dressing,30,g,0,mg,0,g,4,g,3,g,0,g,0,g,0,g,0,g
+510,doolittles restaurants,butternut squash soup,11,g,0,mg,0,g,30,g,3,g,0,g,0,g,2,g,0,g
+511,doolittles restaurants,caesar chicken salad,19,g,0,mg,0,g,20,g,42,g,0,g,0,g,3,g,0,g
+512,doolittles restaurants,caesar dressing,21,g,0,mg,0,g,7,g,3,g,0,g,0,g,0,g,0,g
+513,doolittles restaurants,caesar salad starter,4,g,0,mg,0,g,13,g,5,g,0,g,0,g,3,g,0,g
+514,doolittles restaurants,cavatappi with sausage and butternut squash,61,g,0,mg,0,g,67,g,29,g,0,g,0,g,5,g,0,g
+515,doolittles restaurants,chicken and mushroom flatbread,41,g,0,mg,0,g,39,g,37,g,0,g,0,g,5,g,0,g
+516,doolittles restaurants,chicken cranberry salad,32,g,0,mg,0,g,50,g,42,g,0,g,0,g,12,g,0,g
+517,doolittles restaurants,chicken sandwich,17,g,0,mg,0,g,42,g,64,g,0,g,0,g,2,g,0,g
+518,doolittles restaurants,chicken tortilla soup,9,g,0,mg,0,g,24,g,12,g,0,g,0,g,3,g,0,g
+519,doolittles restaurants,chicken wild rice soup,22,g,0,mg,0,g,12,g,8,g,0,g,0,g,1,g,0,g
+520,doolittles restaurants,citrus arugula and strawberry salad,40,g,0,mg,0,g,22,g,40,g,0,g,0,g,10,g,0,g
+521,doolittles restaurants,cole slaw 6 oz,15,g,0,mg,0,g,15,g,2,g,0,g,0,g,3,g,0,g
+522,doolittles restaurants,coriander crusted scallops,19,g,0,mg,0,g,11,g,13,g,0,g,0,g,2,g,0,g
+523,doolittles restaurants,crispy wontons,13,g,0,mg,0,g,23,g,4,g,0,g,0,g,0,g,0,g
+524,doolittles restaurants,dijon tarragon aioli,14,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+525,doolittles restaurants,doolittles cobb salad,37,g,0,mg,0,g,13,g,54,g,0,g,0,g,6,g,0,g
+526,doolittles restaurants,filet of beef tenderloin,42,g,0,mg,0,g,18,g,68,g,0,g,0,g,4,g,0,g
+527,doolittles restaurants,fish tacos,24,g,0,mg,0,g,20,g,13,g,0,g,0,g,2,g,0,g
+528,doolittles restaurants,flying tiger chicken and peapods,62,g,0,mg,0,g,56,g,31,g,0,g,0,g,8,g,0,g
+529,doolittles restaurants,flying tigress and peapods,14,g,0,mg,0,g,28,g,7,g,0,g,0,g,8,g,0,g
+530,doolittles restaurants,french fries 6 oz,25,g,0,mg,0,g,43,g,4,g,0,g,0,g,4,g,0,g
+531,doolittles restaurants,fried corn tortilla strips,9,g,0,mg,0,g,29,g,0,g,0,g,0,g,0,g,0,g
+532,doolittles restaurants,fruit 6 oz,0,g,0,mg,0,g,32,g,1,g,0,g,0,g,4,g,0,g
+533,doolittles restaurants,gf doolittles cobb salad,23,g,0,mg,0,g,11,g,40,g,0,g,0,g,5,g,0,g
+534,doolittles restaurants,gf grilled salmon,52,g,0,mg,0,g,45,g,50,g,0,g,0,g,6,g,0,g
+535,doolittles restaurants,gf roasted pear salad,29,g,0,mg,0,g,44,g,33,g,0,g,0,g,12,g,0,g
+536,doolittles restaurants,gravy 4 oz,12,g,0,mg,0,g,10,g,4,g,0,g,0,g,0,g,0,g
+537,doolittles restaurants,grill butter blend,12,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+538,doolittles restaurants,hawaiian tuna poke,10,g,0,mg,0,g,12,g,27,g,0,g,0,g,1,g,0,g
+539,doolittles restaurants,jamaican pork tenderloin with sweet potato hash,26,g,0,mg,0,g,52,g,50,g,0,g,0,g,10,g,0,g
+540,doolittles restaurants,lamb burger,19,g,0,mg,0,g,28,g,51,g,0,g,0,g,1,g,0,g
+541,doolittles restaurants,lemon cilantro vinaigrette,18,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,0,g
+542,doolittles restaurants,lemon scented salmon,52,g,0,mg,0,g,19,g,44,g,0,g,0,g,6,g,0,g
+543,doolittles restaurants,mango ceviche,14,g,0,mg,0,g,99,g,18,g,0,g,0,g,3,g,0,g
+544,doolittles restaurants,maple vinaigrette,18,g,0,mg,0,g,20,g,1,g,0,g,0,g,1,g,0,g
+545,doolittles restaurants,mashed potatoes 8 oz,10,g,0,mg,0,g,38,g,5,g,0,g,0,g,4,g,0,g
+546,doolittles restaurants,mediterranean stew,46,g,0,mg,0,g,19,g,31,g,0,g,0,g,2,g,0,g
+547,doolittles restaurants,mediterranean stew with 2 grilled baguette slices,61,g,0,mg,0,g,76,g,41,g,0,g,0,g,4,g,0,g
+548,doolittles restaurants,molten nirvana,39,g,0,mg,0,g,81,g,10,g,0,g,0,g,3,g,0,g
+549,doolittles restaurants,mustard butter sauce,25,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+550,doolittles restaurants,orange black pepper aioli on the side,20,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+551,doolittles restaurants,pan seared scallops with bacon fingerling hash,34,g,0,mg,0,g,46,g,48,g,0,g,0,g,4,g,0,g
+552,doolittles restaurants,parmesan artichoke dip,58,g,0,mg,0,g,209,g,11,g,0,g,0,g,39,g,0,g
+553,doolittles restaurants,peanut chipotle vinaigrette,8,g,0,mg,0,g,20,g,2,g,0,g,0,g,0,g,0,g
+554,doolittles restaurants,poppyseed dressing,28,g,0,mg,0,g,14,g,0,g,0,g,0,g,0,g,0,g
+555,doolittles restaurants,pork tenderloin with chile chocolate sauce,30,g,0,mg,0,g,63,g,75,g,0,g,0,g,11,g,0,g
+556,doolittles restaurants,prime rib french dip,35,g,0,mg,0,g,41,g,34,g,0,g,0,g,1,g,0,g
+557,doolittles restaurants,ranch dressing,29,g,0,mg,0,g,4,g,1,g,0,g,0,g,0,g,0,g
+558,doolittles restaurants,raspberry vinaigrette,1,g,0,mg,0,g,16,g,0,g,0,g,0,g,0,g,0,g
+559,doolittles restaurants,red potatoes parsley buttered 8 oz,25,g,0,mg,0,g,34,g,5,g,0,g,0,g,5,g,0,g
+560,doolittles restaurants,roasted corn with avocado salad,34,g,0,mg,0,g,30,g,33,g,0,g,0,g,12,g,0,g
+561,doolittles restaurants,roasted pear salad,35,g,0,mg,0,g,40,g,40,g,0,g,0,g,9,g,0,g
+562,doolittles restaurants,salmon burger with red pepper remoulade,22,g,0,mg,0,g,29,g,40,g,0,g,0,g,1,g,0,g
+563,doolittles restaurants,salmon with wild rice,56,g,0,mg,0,g,58,g,45,g,0,g,0,g,4,g,0,g
+564,doolittles restaurants,sesame tuna with soba noodles,29,g,0,mg,0,g,77,g,45,g,0,g,0,g,19,g,0,g
+565,doolittles restaurants,shrimp noodle salad,16,g,0,mg,0,g,55,g,24,g,0,g,0,g,10,g,0,g
+566,doolittles restaurants,sierra turkey ciabatta,29,g,0,mg,0,g,34,g,67,g,0,g,0,g,2,g,0,g
+567,doolittles restaurants,smoked paprika aioli,13,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+568,doolittles restaurants,snapper with coconut lemongrass sauce,21,g,0,mg,0,g,28,g,49,g,0,g,0,g,6,g,0,g
+569,doolittles restaurants,southwest bbq chicken salad,18,g,0,mg,0,g,43,g,42,g,0,g,0,g,10,g,0,g
+570,doolittles restaurants,spit roasted chicken 1 2,59,g,0,mg,0,g,47,g,98,g,0,g,0,g,7,g,0,g
+571,doolittles restaurants,steelhead trout with burnt lemon oil,61,g,0,mg,0,g,48,g,48,g,0,g,0,g,3,g,0,g
+572,doolittles restaurants,sweet lime dressing,8,g,0,mg,0,g,20,g,2,g,0,g,0,g,0,g,0,g
+573,doolittles restaurants,swiss and crimini burger,51,g,0,mg,0,g,46,g,66,g,0,g,0,g,2,g,0,g
+574,doolittles restaurants,tartar sauce,26,g,0,mg,0,g,4,g,0,g,0,g,0,g,2,g,0,g
+575,doolittles restaurants,thai chicken salad,24,g,0,mg,0,g,28,g,39,g,0,g,0,g,9,g,0,g
+576,doolittles restaurants,thai peanut dressing,22,g,0,mg,0,g,11,g,2,g,0,g,0,g,0,g,0,g
+577,doolittles restaurants,toasted quinoa with jewel yam salad,26,g,0,mg,0,g,51,g,35,g,0,g,0,g,10,g,0,g
+578,doolittles restaurants,tomato vinaigrette,11,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,0,g
+579,doolittles restaurants,top sirloin,67,g,0,mg,0,g,18,g,60,g,0,g,0,g,4,g,0,g
+580,doolittles restaurants,tuna melt,70,g,0,mg,0,g,62,g,48,g,0,g,0,g,4,g,0,g
+581,doolittles restaurants,vegetables seasonal 3 oz,12,g,0,mg,0,g,6,g,1,g,0,g,0,g,2,g,0,g
+582,doolittles restaurants,walleye fingers,20,g,0,mg,0,g,15,g,34,g,0,g,0,g,2,g,0,g
+583,doolittles restaurants,walleye sandwich,29,g,0,mg,0,g,78,g,42,g,0,g,0,g,4,g,0,g
+584,doolittles restaurants,woodfire rotisserie buffalo wings,35,g,0,mg,0,g,10,g,50,g,0,g,0,g,0,g,0,g
+585,doolittles restaurants,woodfired pork chop,32,g,0,mg,0,g,84,g,64,g,0,g,0,g,7,g,0,g
+586,duchess shoppe,made to order pizza,93,g,150,mg,7100,g,377,g,137,g,47,g,3,g,12,g,44,g
+587,duchess shoppe,12 oz frozen latte,15,g,50,mg,100,g,55,g,7,g,10,g,0,g,0,g,50,g
+588,duchess shoppe,12 oz frozen mocha,15,g,50,mg,100,g,55,g,7,g,10,g,0,g,0,g,50,g
+589,duchess shoppe,12 oz lemon smoothie,0,g,0,mg,70,g,72,g,1,g,0,g,0,g,0,g,62,g
+590,duchess shoppe,12 oz strawberry banana smoothie,0,g,0,mg,190,g,60,g,2,g,0,g,0,g,4,g,44,g
+591,duchess shoppe,12 oz strawberry smoothie,0,g,0,mg,60,g,72,g,1,g,0,g,0,g,3,g,57,g
+592,duchess shoppe,12 oz wild berry smoothie,0,g,0,mg,60,g,73,g,1,g,0,g,0,g,3,g,57,g
+593,duchess shoppe,16 oz cappuccino,5,g,20,mg,125,g,13,g,8,g,3,g,0,g,0,g,12,g
+594,duchess shoppe,16 oz hot chocolate,19,g,20,mg,150,g,63,g,12,g,11,g,0,g,5,g,56,g
+595,duchess shoppe,16 oz latte,5,g,20,mg,125,g,13,g,8,g,3,g,0,g,0,g,12,g
+596,duchess shoppe,16 oz mocha,6,g,20,mg,150,g,37,g,9,g,3,g,0,g,2,g,36,g
+597,duchess shoppe,20 oz brisk raspberry iced tea,0,g,0,mg,70,g,33,g,0,g,0,g,0,g,0,g,33,g
+598,duchess shoppe,20 oz cappuccino,6,g,25,mg,160,g,17,g,10,g,4,g,0,g,0,g,15,g
+599,duchess shoppe,20 oz cherry coca cola,0,g,0,mg,70,g,70,g,0,g,0,g,0,g,0,g,70,g
+600,duchess shoppe,20 oz coca cola,0,g,0,mg,60,g,67,g,0,g,0,g,0,g,0,g,67,g
+601,duchess shoppe,20 oz crush orange soda,0,g,0,mg,80,g,73,g,0,g,0,g,0,g,0,g,72,g
+602,duchess shoppe,20 oz diet coke,0,g,0,mg,85,g,1,g,0,g,0,g,0,g,0,g,0,g
+603,duchess shoppe,20 oz diet dr pepper,0,g,0,mg,120,g,0,g,0,g,0,g,0,g,0,g,0,g
+604,duchess shoppe,20 oz diet mountain dew,0,g,0,mg,90,g,1,g,0,g,0,g,0,g,0,g,1,g
+605,duchess shoppe,20 oz diet pepsi,0,g,0,mg,95,g,0,g,0,g,0,g,0,g,0,g,0,g
+606,duchess shoppe,20 oz dr pepper,0,g,0,mg,75,g,65,g,0,g,0,g,0,g,0,g,64,g
+607,duchess shoppe,20 oz frozen latte,24,g,80,mg,160,g,88,g,11,g,16,g,0,g,0,g,80,g
+608,duchess shoppe,20 oz frozen mocha,24,g,80,mg,160,g,88,g,11,g,16,g,0,g,0,g,80,g
+609,duchess shoppe,20 oz fruitworks blue raspberry freeze,0,g,0,mg,40,g,38,g,0,g,0,g,0,g,0,g,38,g
+610,duchess shoppe,20 oz fruitworks cherry freeze,0,g,0,mg,45,g,40,g,0,g,0,g,0,g,0,g,40,g
+611,duchess shoppe,20 oz gold peak regular unsweetened,0,g,0,mg,85,g,0,g,0,g,0,g,0,g,0,g,0,g
+612,duchess shoppe,20 oz hot chocolate,24,g,25,mg,190,g,87,g,16,g,15,g,0,g,7,g,77,g
+613,duchess shoppe,20 oz iced latte,5,g,20,mg,130,g,13,g,8,g,3,g,0,g,0,g,12,g
+614,duchess shoppe,20 oz iced mocha,6,g,20,mg,160,g,49,g,10,g,3,g,0,g,3,g,48,g
+615,duchess shoppe,20 oz latte,6,g,25,mg,160,g,17,g,10,g,4,g,0,g,0,g,15,g
+616,duchess shoppe,20 oz lemon smoothie,0,g,5,mg,135,g,106,g,3,g,0,g,0,g,0,g,91,g
+617,duchess shoppe,20 oz lipton sweet tea,0,g,0,mg,160,g,45,g,0,g,0,g,0,g,0,g,45,g
+618,duchess shoppe,20 oz mocha,1,g,0,mg,30,g,36,g,2,g,0,g,0,g,3,g,36,g
+619,duchess shoppe,20 oz mountain dew,0,g,0,mg,85,g,73,g,0,g,0,g,0,g,0,g,73,g
+620,duchess shoppe,20 oz mountain dew code red,0,g,0,mg,85,g,77,g,0,g,0,g,0,g,0,g,77,g
+621,duchess shoppe,20 oz mountain dew freeze,0,g,0,mg,45,g,41,g,0,g,0,g,0,g,0,g,41,g
+622,duchess shoppe,20 oz mountain dew kickstart black cherry,0,g,0,mg,90,g,27,g,0,g,0,g,0,g,0,g,26,g
+623,duchess shoppe,20 oz mug root beer,0,g,0,mg,75,g,65,g,0,g,0,g,0,g,0,g,65,g
+624,duchess shoppe,20 oz pepsi,0,g,0,mg,55,g,69,g,0,g,0,g,0,g,0,g,69,g
+625,duchess shoppe,20 oz pepsi freeze,0,g,0,mg,30,g,38,g,0,g,0,g,0,g,0,g,38,g
+626,duchess shoppe,20 oz pepsi wild cherry,0,g,0,mg,50,g,70,g,0,g,0,g,0,g,0,g,70,g
+627,duchess shoppe,20 oz sprite,0,g,0,mg,115,g,64,g,0,g,0,g,0,g,0,g,64,g
+628,duchess shoppe,20 oz strawberry banana smoothie,0,g,0,mg,290,g,90,g,3,g,0,g,0,g,6,g,66,g
+629,duchess shoppe,20 oz strawberry smoothie,0,g,5,mg,125,g,106,g,3,g,0,g,0,g,5,g,84,g
+630,duchess shoppe,20 oz tropicana pink lemonade,0,g,0,mg,260,g,67,g,0,g,0,g,0,g,0,g,67,g
+631,duchess shoppe,20 oz wild berry smoothie,0,g,5,mg,125,g,109,g,3,g,0,g,0,g,5,g,84,g
+632,duchess shoppe,3 meat pizza,230,g,405,mg,12530,g,388,g,204,g,98,g,3,g,14,g,49,g
+633,duchess shoppe,3 meat pizza 1 slice,29,g,50,mg,1570,g,49,g,25,g,12,g,0,g,2,g,6,g
+634,duchess shoppe,32 oz brisk raspberry iced tea,0,g,0,mg,115,g,52,g,0,g,0,g,0,g,0,g,52,g
+635,duchess shoppe,32 oz cherry coca cola,0,g,0,mg,110,g,112,g,0,g,0,g,0,g,0,g,112,g
+636,duchess shoppe,32 oz coca cola,0,g,0,mg,95,g,107,g,0,g,0,g,0,g,0,g,107,g
+637,duchess shoppe,32 oz crush orange soda,0,g,0,mg,125,g,117,g,0,g,0,g,0,g,0,g,116,g
+638,duchess shoppe,32 oz diet coke,0,g,0,mg,130,g,1,g,0,g,0,g,0,g,0,g,0,g
+639,duchess shoppe,32 oz diet dr pepper,0,g,0,mg,190,g,1,g,0,g,0,g,0,g,0,g,0,g
+640,duchess shoppe,32 oz diet mountain dew,0,g,0,mg,150,g,1,g,0,g,0,g,0,g,0,g,1,g
+641,duchess shoppe,32 oz diet pepsi,0,g,0,mg,150,g,0,g,0,g,0,g,0,g,0,g,0,g
+642,duchess shoppe,32 oz dr pepper,0,g,0,mg,115,g,104,g,0,g,0,g,0,g,0,g,102,g
+643,duchess shoppe,32 oz fruitworks blue raspberry freeze,0,g,0,mg,65,g,61,g,0,g,0,g,0,g,0,g,60,g
+644,duchess shoppe,32 oz fruitworks cherry freeze,0,g,0,mg,70,g,64,g,0,g,0,g,0,g,0,g,64,g
+645,duchess shoppe,32 oz gold peak regular unsweetened,0,g,0,mg,130,g,0,g,0,g,0,g,0,g,0,g,0,g
+646,duchess shoppe,32 oz lipton sweet tea,0,g,0,mg,250,g,73,g,0,g,0,g,0,g,0,g,73,g
+647,duchess shoppe,32 oz mountain dew,0,g,0,mg,135,g,117,g,0,g,0,g,0,g,0,g,117,g
+648,duchess shoppe,32 oz mountain dew code red,0,g,0,mg,130,g,123,g,0,g,0,g,0,g,0,g,123,g
+649,duchess shoppe,32 oz mountain dew freeze,0,g,0,mg,75,g,65,g,0,g,0,g,0,g,0,g,65,g
+650,duchess shoppe,32 oz mountain dew kickstart black cherry,0,g,0,mg,140,g,43,g,0,g,0,g,0,g,0,g,41,g
+651,duchess shoppe,32 oz mug root beer,0,g,0,mg,120,g,104,g,0,g,0,g,0,g,0,g,104,g
+652,duchess shoppe,32 oz pepsi,0,g,0,mg,85,g,110,g,0,g,0,g,0,g,0,g,110,g
+653,duchess shoppe,32 oz pepsi freeze,0,g,0,mg,50,g,61,g,0,g,0,g,0,g,0,g,61,g
+654,duchess shoppe,32 oz pepsi wild cherry,0,g,0,mg,85,g,112,g,0,g,0,g,0,g,0,g,112,g
+655,duchess shoppe,32 oz sprite,0,g,0,mg,180,g,103,g,0,g,0,g,0,g,0,g,102,g
+656,duchess shoppe,32 oz tropicana pink lemonade,0,g,0,mg,410,g,107,g,0,g,0,g,0,g,0,g,107,g
+657,duchess shoppe,44 oz brisk raspberry iced tea,0,g,0,mg,160,g,72,g,0,g,0,g,0,g,0,g,72,g
+658,duchess shoppe,44 oz cherry coca cola,0,g,0,mg,150,g,154,g,0,g,0,g,0,g,0,g,154,g
+659,duchess shoppe,44 oz coca cola,0,g,0,mg,130,g,147,g,0,g,0,g,0,g,0,g,147,g
+660,duchess shoppe,44 oz crush orange soda,0,g,0,mg,170,g,161,g,0,g,0,g,0,g,0,g,159,g
+661,duchess shoppe,44 oz diet coke,0,g,0,mg,180,g,1,g,0,g,0,g,0,g,0,g,0,g
+662,duchess shoppe,44 oz diet dr pepper,0,g,0,mg,260,g,1,g,0,g,0,g,0,g,0,g,0,g
+663,duchess shoppe,44 oz diet mountain dew,0,g,0,mg,200,g,2,g,0,g,0,g,0,g,0,g,2,g
+664,duchess shoppe,44 oz diet pepsi,0,g,0,mg,210,g,1,g,0,g,0,g,0,g,0,g,0,g
+665,duchess shoppe,44 oz dr pepper,0,g,0,mg,160,g,143,g,0,g,0,g,0,g,0,g,140,g
+666,duchess shoppe,44 oz fruitworks blue raspberry freeze,0,g,0,mg,90,g,83,g,0,g,0,g,0,g,0,g,83,g
+667,duchess shoppe,44 oz fruitworks cherry freeze,0,g,0,mg,95,g,88,g,0,g,0,g,0,g,0,g,88,g
+668,duchess shoppe,44 oz gold peak regular unsweetened,0,g,0,mg,180,g,0,g,0,g,0,g,0,g,0,g,0,g
+669,duchess shoppe,44 oz lipton sweet tea,0,g,0,mg,340,g,100,g,0,g,0,g,0,g,0,g,100,g
+670,duchess shoppe,44 oz mountain dew,0,g,0,mg,190,g,161,g,0,g,0,g,0,g,0,g,160,g
+671,duchess shoppe,44 oz mountain dew code red,0,g,0,mg,180,g,170,g,0,g,0,g,0,g,0,g,169,g
+672,duchess shoppe,44 oz mountain dew freeze,0,g,0,mg,105,g,90,g,0,g,0,g,0,g,0,g,89,g
+673,duchess shoppe,44 oz mountain dew kickstart black cherry,0,g,0,mg,200,g,59,g,0,g,0,g,0,g,0,g,57,g
+674,duchess shoppe,44 oz mug root beer,0,g,0,mg,160,g,143,g,0,g,0,g,0,g,0,g,143,g
+675,duchess shoppe,44 oz pepsi,0,g,0,mg,120,g,152,g,0,g,0,g,0,g,0,g,151,g
+676,duchess shoppe,44 oz pepsi freeze,0,g,0,mg,65,g,84,g,0,g,0,g,0,g,0,g,84,g
+677,duchess shoppe,44 oz pepsi wild cherry,0,g,0,mg,115,g,155,g,0,g,0,g,0,g,0,g,154,g
+678,duchess shoppe,44 oz sprite,0,g,0,mg,250,g,142,g,0,g,0,g,0,g,0,g,140,g
+679,duchess shoppe,44 oz tropicana pink lemonade,0,g,0,mg,570,g,147,g,0,g,0,g,0,g,0,g,147,g
+680,duchess shoppe,apple fritter,16,g,0,mg,300,g,28,g,5,g,7,g,0,g,1,g,3,g
+681,duchess shoppe,apple pie stuffer,9,g,0,mg,820,g,42,g,5,g,2,g,4,g,1,g,10,g
+682,duchess shoppe,bacon and cheese chicken 2 9oz roller bites,9,g,35,mg,980,g,14,g,15,g,2.5,g,0,g,0,g,1,g
+683,duchess shoppe,bacon cheddar burger,53,g,140,mg,1980,g,53,g,41,g,20,g,0,g,2,g,8,g
+684,duchess shoppe,bacon cheeseburger 3 oz roller bites,19,g,65,mg,1030,g,4,g,17,g,7,g,0.5,g,0,g,1,g
+685,duchess shoppe,bacon stuffer,25,g,150,mg,1220,g,33,g,15,g,7,g,4,g,1,g,4,g
+686,duchess shoppe,bacon egg and american cheese biscuit,35,g,150,mg,1380,g,35,g,19,g,13,g,3.5,g,1,g,3,g
+687,duchess shoppe,bacon egg and american cheese english muffin,22,g,150,mg,1000,g,28,g,19,g,9,g,0,g,1,g,2,g
+688,duchess shoppe,bacon egg and hot pepper cheese biscuit,32,g,140,mg,1260,g,34,g,17,g,11,g,3.5,g,1,g,3,g
+689,duchess shoppe,bavarian bismark,10,g,0,mg,300,g,33,g,4,g,4.5,g,0,g,1,g,9,g
+690,duchess shoppe,bbq bacon jalapeno burger,52,g,130,mg,1770,g,60,g,40,g,20,g,0,g,3,g,14,g
+691,duchess shoppe,bbq pulled pork sandwich,20,g,100,mg,900,g,34,g,31,g,7,g,0,g,1,g,11,g
+692,duchess shoppe,blt,31,g,85,mg,1990,g,57,g,31,g,14,g,0,g,3,g,6,g
+693,duchess shoppe,bologna and colby on wheat,28,g,75,mg,1000,g,30,g,19,g,12,g,0,g,2,g,5,g
+694,duchess shoppe,breakfast sausage egg and cheese 2 5oz roller bites,14,g,100,mg,690,g,2,g,13,g,6,g,0,g,1,g,2,g
+695,duchess shoppe,breakfast scambler 2 9oz roller bites,14,g,90,mg,570,g,13,g,10,g,5,g,0,g,1,g,4,g
+696,duchess shoppe,buffalo chicken stuffer,16,g,20,mg,1370,g,36,g,14,g,4.5,g,4,g,1,g,3,g
+697,duchess shoppe,buffalo ranch chicken 2 9oz roller bites,8,g,30,mg,820,g,15,g,14,g,2.5,g,0,g,0,g,2,g
+698,duchess shoppe,caesar chicken wrap,17,g,70,mg,1070,g,52,g,32,g,4,g,0,g,3,g,2,g
+699,duchess shoppe,caesar salad,11,g,75,mg,640,g,6,g,35,g,6,g,0,g,3,g,2,g
+700,duchess shoppe,cheese and pepperoni tornado,10,g,20,mg,320,g,21,g,8,g,3.5,g,0,g,0,g,1,g
+701,duchess shoppe,cheese burger with american cheese on kaiser bun,43,g,115,mg,1140,g,28,g,32,g,18,g,0,g,1,g,4,g
+702,duchess shoppe,cheese burger with swiss on kaiser bun,41,g,110,mg,780,g,26,g,33,g,18,g,0,g,1,g,3,g
+703,duchess shoppe,cheese pizza,105,g,185,mg,7500,g,379,g,152,g,54,g,4,g,12,g,44,g
+704,duchess shoppe,cheese pizza 1 slice,13,g,25,mg,940,g,47,g,19,g,7,g,0,g,2,g,6,g
+705,duchess shoppe,cheeseburger 3 oz roller bites,25,g,80,mg,710,g,3,g,15,g,10,g,0,g,0,g,1,g
+706,duchess shoppe,cheeseburger stuffer,19,g,30,mg,1230,g,34,g,12,g,7,g,4,g,1,g,5,g
+707,duchess shoppe,cheeseburger value 2 5oz roller bites,19,g,65,mg,540,g,3,g,12,g,8,g,0.5,g,0,g,1,g
+708,duchess shoppe,cheesy hash browns and sausage 2 9oz roller bites,12,g,20,mg,740,g,16,g,8,g,3.5,g,0,g,1,g,2,g
+709,duchess shoppe,cheesy jalapeno chicken 2 9oz roller bites,8,g,35,mg,830,g,15,g,12,g,3,g,0,g,1,g,1,g
+710,duchess shoppe,chef salad,12,g,60,mg,940,g,14,g,24,g,7,g,0,g,5,g,6,g
+711,duchess shoppe,cherry pie stuffer,9,g,0,mg,780,g,43,g,5,g,2,g,4,g,1,g,12,g
+712,duchess shoppe,chicken salad,11,g,35,mg,650,g,12,g,10,g,1.5,g,0,g,1,g,9,g
+713,duchess shoppe,chicken salad sandwich on wheat,13,g,35,mg,970,g,39,g,14,g,1.5,g,0,g,3,g,13,g
+714,duchess shoppe,chicken tenders 3 pc,21,g,75,mg,1070,g,24,g,32,g,4,g,0,g,2,g,2,g
+715,duchess shoppe,chicken tenders 5 pc,35,g,125,mg,1780,g,40,g,53,g,6,g,0,g,3,g,3,g
+716,duchess shoppe,chicken bacon and ranch pizza,133,g,355,mg,9490,g,474,g,189,g,62,g,2.5,g,13,g,127,g
+717,duchess shoppe,chocolate cake donut,15,g,25,mg,290,g,32,g,4,g,7,g,0,g,1,g,13,g
+718,duchess shoppe,chocolate chip cookie,10,g,25,mg,190,g,24,g,2,g,6,g,0,g,1,g,16,g
+719,duchess shoppe,club sub,32,g,100,mg,2690,g,56,g,37,g,12,g,0,g,2,g,5,g
+720,duchess shoppe,club sub sandwich,24,g,110,mg,2450,g,56,g,42,g,12,g,0,g,2,g,6,g
+721,duchess shoppe,club wrap,30,g,105,mg,1780,g,49,g,42,g,14,g,0,g,2,g,2,g
+722,duchess shoppe,corn nibblers,4,g,0,mg,290,g,21,g,2,g,1,g,0,g,2,g,2,g
+723,duchess shoppe,crispy buffalo chicken sandwich,21,g,60,mg,2040,g,42,g,27,g,6,g,0,g,3,g,5,g
+724,duchess shoppe,crispy chicken and pepper jack,21,g,60,mg,1120,g,40,g,26,g,6,g,0,g,2,g,4,g
+725,duchess shoppe,crispy chicken and swiss sandwich,22,g,65,mg,880,g,39,g,29,g,7,g,0,g,2,g,3,g
+726,duchess shoppe,crispy chicken club,31,g,65,mg,1520,g,42,g,28,g,6,g,0,g,3,g,5,g
+727,duchess shoppe,crispy chicken parmesan,32,g,80,mg,1590,g,43,g,38,g,11,g,0,g,2,g,6,g
+728,duchess shoppe,crispy chicken ranch blt,37,g,85,mg,1620,g,44,g,31,g,9,g,0,g,3,g,7,g
+729,duchess shoppe,crispy chicken sandwich,15,g,45,mg,840,g,39,g,23,g,2,g,0,g,2,g,3,g
+730,duchess shoppe,duchess stuffer,39,g,185,mg,1600,g,34,g,20,g,14,g,4,g,1,g,5,g
+731,duchess shoppe,duchess sub,36,g,125,mg,2230,g,55,g,38,g,16,g,0,g,2,g,4,g
+732,duchess shoppe,egg salad on wheat bread,12,g,200,mg,740,g,40,g,11,g,4.5,g,0,g,8,g,7,g
+733,duchess shoppe,egg bacon cheese salsa tornado,7,g,35,mg,310,g,22,g,6,g,2,g,0,g,1,g,1,g
+734,duchess shoppe,fluff filled bismark,16,g,0,mg,330,g,40,g,4,g,7,g,0,g,1,g,12,g
+735,duchess shoppe,football shaped yeast donut,11,g,0,mg,260,g,25,g,4,g,5,g,0,g,1,g,2,g
+736,duchess shoppe,french toast and saussage tornado,8,g,25,mg,200,g,22,g,7,g,2,g,0,g,1,g,1,g
+737,duchess shoppe,garden side salad,4.5,g,15,mg,140,g,6,g,5,g,3,g,0,g,2,g,2,g
+738,duchess shoppe,grilled buffalo chicken,11,g,75,mg,1760,g,29,g,31,g,4,g,0,g,2,g,5,g
+739,duchess shoppe,grilled chicken and cheddar tornado,6,g,10,mg,460,g,22,g,7,g,1,g,0,g,0,g,1,g
+740,duchess shoppe,grilled chicken club,21,g,80,mg,1240,g,29,g,32,g,4,g,0,g,2,g,5,g
+741,duchess shoppe,grilled chicken parmesan,22,g,95,mg,1310,g,30,g,42,g,10,g,0,g,1,g,6,g
+742,duchess shoppe,grilled chicken ranch blt,27,g,100,mg,1340,g,31,g,35,g,8,g,0,g,2,g,7,g
+743,duchess shoppe,habanero cream cheese tornado,10,g,10,mg,400,g,22,g,7,g,4,g,0,g,1,g,1,g
+744,duchess shoppe,ham and pepper jack,16,g,75,mg,2070,g,56,g,30,g,9,g,0,g,2,g,6,g
+745,duchess shoppe,ham and swiss,18,g,85,mg,1590,g,54,g,36,g,12,g,0,g,2,g,4,g
+746,duchess shoppe,ham and american cheese stuffer,19,g,160,mg,1430,g,34,g,16,g,6,g,4,g,1,g,5,g
+747,duchess shoppe,ham and pepper jack stuffer,20,g,160,mg,1510,g,34,g,17,g,7,g,4,g,1,g,6,g
+748,duchess shoppe,ham salad on white bread,16,g,240,mg,1380,g,38,g,13,g,7,g,0,g,0,g,9,g
+749,duchess shoppe,ham egg and american cheese bagel,18,g,150,mg,1280,g,47,g,22,g,7,g,0,g,2,g,4,g
+750,duchess shoppe,ham egg and american cheese english muffin,18,g,150,mg,1070,g,29,g,19,g,7,g,0,g,1,g,3,g
+751,duchess shoppe,hamburger on kaiser bun,34,g,90,mg,740,g,26,g,27,g,13,g,0,g,1,g,3,g
+752,duchess shoppe,hash brown baby cakes,4,g,0,mg,370,g,16,g,1,g,0.5,g,0,g,1,g,1,g
+753,duchess shoppe,hash brown stick,4,g,0,mg,300,g,16,g,1,g,0,g,0,g,1,g,0,g
+754,duchess shoppe,hawaiian pizza,95,g,180,mg,7720,g,393,g,146,g,48,g,3,g,14,g,56,g
+755,duchess shoppe,hersheys triple chocolate cookie,28,g,45,mg,290,g,78,g,7,g,14,g,0,g,3,g,48,g
+756,duchess shoppe,hotdog,27,g,65,mg,1000,g,22,g,14,g,10,g,0.5,g,1,g,4,g
+757,duchess shoppe,italian sub,30,g,90,mg,2310,g,55,g,39,g,14,g,0,g,2,g,5,g
+758,duchess shoppe,jalapeno cheeseburger 2 5oz roller bites,17,g,60,mg,830,g,3,g,11,g,8,g,0,g,1,g,1,g
+759,duchess shoppe,kolache,26,g,45,mg,920,g,56,g,15,g,9,g,0,g,2,g,15,g
+760,duchess shoppe,mac and cheese bites,13,g,15,mg,820,g,31,g,8,g,4,g,0,g,3,g,4,g
+761,duchess shoppe,meatball stuffer,19,g,20,mg,1150,g,34,g,13,g,7,g,4,g,1,g,5,g
+762,duchess shoppe,meatball sub,47,g,95,mg,2330,g,67,g,46,g,24,g,1,g,4,g,8,g
+763,duchess shoppe,muffalotta sub,37,g,80,mg,2870,g,57,g,33,g,12,g,0,g,3,g,4,g
+764,duchess shoppe,mushroom and swiss burger,61,g,115,mg,1320,g,58,g,36,g,25,g,0,g,3,g,5,g
+765,duchess shoppe,orange chicken 2 9oz roller bites,11,g,25,mg,510,g,12,g,11,g,2.5,g,0,g,0,g,1,g
+766,duchess shoppe,peanut butter and jelly sandwich on wheat,26,g,0,mg,560,g,63,g,15,g,4.5,g,0,g,5,g,29,g
+767,duchess shoppe,peanut butter and jelly sandwich on white,26,g,0,mg,520,g,63,g,15,g,4.5,g,0,g,3,g,27,g
+768,duchess shoppe,pepperoni pizza,180,g,280,mg,10500,g,384,g,177,g,80,g,3,g,12,g,47,g
+769,duchess shoppe,pepperoni pizza 1 slice,22,g,35,mg,1310,g,48,g,22,g,10,g,0,g,2,g,6,g
+770,duchess shoppe,persian donut,15,g,0,mg,300,g,31,g,5,g,7,g,0,g,1,g,5,g
+771,duchess shoppe,pizza stuffer,18,g,20,mg,1150,g,32,g,11,g,6,g,4,g,1,g,4,g
+772,duchess shoppe,pizza sub,26,g,80,mg,2160,g,57,g,37,g,13,g,0,g,2,g,6,g
+773,duchess shoppe,plain cake donut,18,g,25,mg,260,g,31,g,4,g,8,g,0,g,1,g,12,g
+774,duchess shoppe,plain donut holes,9,g,0,mg,190,g,18,g,3,g,4,g,0,g,1,g,2,g
+775,duchess shoppe,pretzel bites,7,g,20,mg,460,g,17,g,7,g,4,g,0,g,1,g,1,g
+776,duchess shoppe,ranchero steak and cheese tornado,6,g,20,mg,340,g,24,g,7,g,1.5,g,0,g,1,g,1,g
+777,duchess shoppe,raspberry filled donut holes,9,g,0,mg,230,g,25,g,3,g,4,g,0,g,1,g,7,g
+778,duchess shoppe,red velvet cookie,26,g,50,mg,280,g,78,g,7,g,13,g,0,g,3,g,48,g
+779,duchess shoppe,reeses peanut butter cookie,37,g,40,mg,450,g,67,g,11,g,17,g,0,g,3,g,45,g
+780,duchess shoppe,roast beef and swiss sandwich,18,g,50,mg,660,g,28,g,27,g,11,g,0,g,1,g,3,g
+781,duchess shoppe,sausage and american cheese biscuit,40,g,55,mg,1310,g,34,g,16,g,15,g,3.5,g,1,g,3,g
+782,duchess shoppe,sausage gravy stuffer,17,g,10,mg,1030,g,36,g,7,g,4.5,g,4,g,1,g,3,g
+783,duchess shoppe,sausage pizza,163,g,310,mg,9730,g,386,g,167,g,71,g,3,g,15,g,46,g
+784,duchess shoppe,sausage egg and american cheese bagel,34,g,165,mg,1250,g,46,g,24,g,13,g,0,g,2,g,3,g
+785,duchess shoppe,sausage egg and american cheese croissant,47,g,175,mg,990,g,27,g,20,g,13,g,0,g,0,g,1,g
+786,duchess shoppe,sausage egg and american cheese muffin,34,g,165,mg,1040,g,28,g,21,g,13,g,0,g,1,g,2,g
+787,duchess shoppe,sausage egg and cheese tornado,8,g,15,mg,280,g,21,g,5,g,2,g,0,g,0,g,0,g
+788,duchess shoppe,sausage egg and hot pepper cheese croissant,44,g,165,mg,870,g,26,g,18,g,11,g,0,g,0,g,1,g
+789,duchess shoppe,sausages and brats,24,g,55,mg,930,g,21,g,14,g,9,g,0,g,1,g,3,g
+790,duchess shoppe,shredded chicken sandwich,7,g,50,mg,760,g,37,g,17,g,1.5,g,0,g,2,g,8,g
+791,duchess shoppe,smoky chipotle chicken 2 9oz roller bites,8,g,35,mg,690,g,15,g,13,g,3,g,0,g,1,g,2,g
+792,duchess shoppe,sour cream cake donut,17,g,25,mg,470,g,43,g,5,g,7,g,0,g,1,g,18,g
+793,duchess shoppe,southwest chicken tornado,6,g,10,mg,230,g,23,g,6,g,1.5,g,0,g,1,g,1,g
+794,duchess shoppe,spicy cheese quesadillia tornado,10,g,15,mg,340,g,21,g,9,g,4.5,g,0,g,0,g,0,g
+795,duchess shoppe,spicy italian sub,30,g,90,mg,2490,g,57,g,33,g,13,g,0,g,2,g,7,g
+796,duchess shoppe,spicy meatball sub,53,g,105,mg,2770,g,69,g,43,g,25,g,1,g,4,g,11,g
+797,duchess shoppe,split link sausage egg and american cheese croissant,53,g,185,mg,1500,g,29,g,23,g,17,g,0,g,0,g,3,g
+798,duchess shoppe,split link sausage egg and american cheese english muffin,40,g,175,mg,1550,g,30,g,24,g,17,g,0,g,1,g,4,g
+799,duchess shoppe,split link sausage egg and hot pepper cheese bagel,37,g,165,mg,1640,g,47,g,25,g,15,g,0,g,2,g,5,g
+800,duchess shoppe,split link sausage egg and hot pepper cheese english muffin,37,g,165,mg,1430,g,29,g,22,g,15,g,0,g,1,g,4,g
+801,duchess shoppe,sriracha chicken tornado,6,g,10,mg,400,g,23,g,6,g,1,g,0,g,1,g,1,g
+802,duchess shoppe,supreme omelet tornado,9,g,30,mg,270,g,22,g,6,g,2.5,g,0,g,1,g,1,g
+803,duchess shoppe,supreme pizza,174,g,290,mg,10220,g,402,g,177,g,77,g,3,g,18,g,55,g
+804,duchess shoppe,toasted cuban,44,g,160,mg,2570,g,55,g,51,g,15,g,0,g,2,g,5,g
+805,duchess shoppe,tree donut,11,g,0,mg,260,g,24,g,4,g,5,g,0,g,1,g,2,g
+806,duchess shoppe,turkey and colby sandwich,18,g,100,mg,1520,g,54,g,42,g,9,g,0,g,2,g,3,g
+807,duchess shoppe,turkey and pepper jack,16,g,80,mg,1800,g,56,g,38,g,8,g,0,g,2,g,5,g
+808,duchess shoppe,turkey and swiss,18,g,90,mg,1320,g,54,g,44,g,11,g,0,g,2,g,3,g
+809,duchess shoppe,veggie pizza,104,g,150,mg,9580,g,402,g,140,g,49,g,3,g,18,g,52,g
+810,duchess shoppe,white chocolate macademia nut cookie,12,g,25,mg,200,g,22,g,2,g,6,g,0,g,1,g,15,g
+811,duchess shoppe,yeast ring,11,g,0,mg,340,g,28,g,5,g,5,g,0,g,1,g,3,g
+812,duchess shoppe,yogurt parfait,11,g,5,mg,270,g,78,g,9,g,1.5,g,0,g,5,g,41,g
+813,duchess shoppe,zesty italian chicken 2 9oz roller bites,8,g,35,mg,690,g,13,g,14,g,3.5,g,0,g,1,g,1,g
+814,duck donuts,americano large,0,g,0,mg,20,g,2,g,0,g,0,g,0,g,0,g,0,g
+815,duck donuts,americano regular,0,g,0,mg,15,g,2,g,0,g,0,g,0,g,0,g,0,g
+816,duck donuts,bagel with cream cheese,10,g,30,mg,770,g,72,g,15,g,7,g,0,g,2,g,6,g
+817,duck donuts,bagel with jelly,1.5,g,70,mg,720,g,79,g,13,g,0.5,g,0,g,2,g,14,g
+818,duck donuts,bagel bacon egg and cheese,19,g,145,mg,1380,g,73,g,24,g,9,g,0,g,2,g,7,g
+819,duck donuts,bagel blueberry bagel with cream cheese,10,g,100,mg,810,g,72,g,15,g,7,g,0,g,2,g,7,g
+820,duck donuts,bagel cinnamon raisin bagel with cream,10,g,30,mg,700,g,75,g,14,g,7,g,0,g,3,g,13,g
+821,duck donuts,bagel egg and cheese,13,g,130,mg,1130,g,73,g,20,g,7,g,0,g,2,g,7,g
+822,duck donuts,bagel eight grain bagel with cream cheese,11,g,30,mg,930,g,78,g,16,g,7,g,0,g,3,g,4,g
+823,duck donuts,bagel everything bagel with cream cheese,12,g,30,mg,980,g,71,g,15,g,7,g,0,g,3,g,6,g
+824,duck donuts,bagel sausage egg and cheese,35,g,175,mg,1500,g,74,g,27,g,15,g,0,g,2,g,7,g
+825,duck donuts,cappuccino,6,g,25,mg,160,g,16,g,10,g,4,g,0,g,0,g,15,g
+826,duck donuts,cappuccino large,9,g,35,mg,210,g,22,g,14,g,5,g,0,g,0,g,22,g
+827,duck donuts,chocolate ice cream,6,g,15,mg,50,g,14,g,2,g,4,g,0,g,0,g,9,g
+828,duck donuts,chocolate mocha,9,g,30,mg,200,g,53,g,12,g,6,g,0,g,1,g,44,g
+829,duck donuts,chocolate mocha large,12,g,40,mg,270,g,68,g,16,g,7,g,0,g,2,g,57,g
+830,duck donuts,coffee large,0,g,0,mg,10,g,0,g,1,g,0,g,0,g,0,g,0,g
+831,duck donuts,coffee medium,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+832,duck donuts,coffee small,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+833,duck donuts,donut coating blueberry icing,0.5,g,0,mg,0,g,11,g,0,g,0,g,0,g,0,g,10,g
+834,duck donuts,donut coating chocolate icing,1.5,g,0,mg,5,g,11,g,0,g,0.5,g,0,g,0,g,10,g
+835,duck donuts,donut coating cinnamon sugar,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,3,g
+836,duck donuts,donut coating glaze,0,g,0,mg,0,g,11,g,0,g,0,g,0,g,0,g,10,g
+837,duck donuts,donut coating lemon icing,0.5,g,0,mg,0,g,12,g,0,g,0,g,0,g,0,g,11,g
+838,duck donuts,donut coating maple icing,0.5,g,0,mg,0,g,11,g,0,g,0,g,0,g,0,g,11,g
+839,duck donuts,donut coating peanut butter icing,1.5,g,0,mg,10,g,10,g,1,g,0.5,g,0,g,0,g,9,g
+840,duck donuts,donut coating powdered sugar,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,7,g
+841,duck donuts,donut coating strawberry icing,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,7,g
+842,duck donuts,donut coating vanilla icing,0.5,g,0,mg,0,g,11,g,0,g,0,g,0,g,0,g,11,g
+843,duck donuts,donut drizzle blackberry drizzle,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,4,g
+844,duck donuts,donut drizzle hot fudge drizzle,0,g,0,mg,10,g,3,g,0,g,0,g,0,g,0,g,3,g
+845,duck donuts,donut drizzle marshmallow drizzle,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+846,duck donuts,donut drizzle raspberry drizzle,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,3,g
+847,duck donuts,donut drizzle salted caramel drizzle,0,g,0,mg,10,g,3,g,0,g,0,g,0,g,0,g,3,g
+848,duck donuts,donut topping chocolate sprinkles,0.5,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,1,g
+849,duck donuts,donut topping chopped bacon,2,g,10,mg,130,g,0,g,2,g,1,g,0,g,0,g,0,g
+850,duck donuts,donut topping crushed graham crackers,0,g,0,mg,20,g,2,g,0,g,0,g,0,g,0,g,1,g
+851,duck donuts,donut topping oreos,1,g,0,mg,30,g,4,g,0,g,0,g,0,g,0,g,2,g
+852,duck donuts,donut topping peanuts,1.5,g,0,mg,0,g,0,g,1,g,0,g,0,g,0,g,0,g
+853,duck donuts,donut topping rainbow sprinkles,0.5,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+854,duck donuts,donut topping shredded coconut,2,g,0,mg,15,g,3,g,0,g,2,g,0,g,0,g,2,g
+855,duck donuts,donut bacon egg and cheese,30,g,165,mg,1100,g,29,g,14,g,13,g,0,g,0,g,11,g
+856,duck donuts,donut bare,12,g,20,mg,390,g,26,g,3,g,4.5,g,0,g,1,g,9,g
+857,duck donuts,donut egg and cheese,24,g,150,mg,850,g,29,g,10,g,11,g,0,g,0,g,11,g
+858,duck donuts,donut sausage egg and cheese,46,g,195,mg,1220,g,30,g,17,g,19,g,0,g,0,g,11,g
+859,duck donuts,doughnut sundae with peanut butter cup ice cream,21,g,40,mg,480,g,46,g,6,g,9,g,0,g,1,g,24,g
+860,duck donuts,doughnut sundae with vanilla ice cream,19,g,40,mg,440,g,41,g,5,g,9,g,0,g,1,g,18,g
+861,duck donuts,english muffin with cream cheese,10,g,30,mg,340,g,26,g,7,g,6,g,0,g,1,g,2,g
+862,duck donuts,english muffin with jelly,1,g,0,mg,250,g,33,g,5,g,0,g,0,g,1,g,9,g
+863,duck donuts,english muffin bacon egg and cheese,19,g,145,mg,950,g,27,g,16,g,8,g,0,g,1,g,3,g
+864,duck donuts,english muffin egg and cheese,13,g,130,mg,700,g,27,g,12,g,6,g,0,g,1,g,3,g
+865,duck donuts,english muffin sausage egg and cheese,35,g,175,mg,1070,g,28,g,19,g,14,g,0,g,1,g,3,g
+866,duck donuts,healthy delight,10,g,130,mg,580,g,28,g,14,g,2.5,g,0,g,2,g,2,g
+867,duck donuts,hot chocolate large,13,g,50,mg,280,g,72,g,20,g,8,g,0,g,2,g,73,g
+868,duck donuts,hot chocolate medium,11,g,40,mg,230,g,69,g,16,g,7,g,0,g,2,g,70,g
+869,duck donuts,hot chocolate small,8,g,30,mg,170,g,48,g,12,g,5,g,0,g,2,g,49,g
+870,duck donuts,hot flavored coffee large,0,g,0,mg,10,g,30,g,1,g,0,g,0,g,0,g,30,g
+871,duck donuts,hot flavored coffee medium,0,g,0,mg,10,g,24,g,0,g,0,g,0,g,0,g,24,g
+872,duck donuts,hot flavored coffee small,0,g,0,mg,5,g,18,g,0,g,0,g,0,g,0,g,18,g
+873,duck donuts,hot flavored latte large,9,g,35,mg,210,g,52,g,14,g,5,g,0,g,0,g,51,g
+874,duck donuts,hot flavored latte regular,6,g,25,mg,160,g,40,g,10,g,4,g,0,g,0,g,39,g
+875,duck donuts,hot latte large,9,g,35,mg,210,g,22,g,14,g,5,g,0,g,0,g,22,g
+876,duck donuts,hot latte regular,6,g,25,mg,160,g,16,g,10,g,4,g,0,g,0,g,15,g
+877,duck donuts,iced latte large,9,g,35,mg,210,g,52,g,14,g,5,g,0,g,0,g,51,g
+878,duck donuts,iced latte regular,6,g,25,mg,160,g,40,g,10,g,4,g,0,g,0,g,39,g
+879,duck donuts,reeses peanut butter cup ice cream,9,g,20,mg,85,g,19,g,3,g,4.5,g,0,g,0,g,15,g
+880,duck donuts,sweet tea large,0,g,0,mg,15,g,35,g,0,g,0,g,0,g,0,g,33,g
+881,duck donuts,sweet tea medium,0,g,0,mg,10,g,27,g,0,g,0,g,0,g,0,g,26,g
+882,duck donuts,sweet tea small,0,g,0,mg,10,g,19,g,0,g,0,g,0,g,0,g,19,g
+883,duck donuts,vanilla ice cream,7,g,20,mg,45,g,14,g,2,g,4,g,0,g,0,g,9,g
+884,duck donuts,white chocolate mocha large,11,g,40,mg,430,g,88,g,14,g,7,g,0,g,0,g,80,g
+885,duck donuts,white chocolate mocha regular,8,g,30,mg,330,g,69,g,10,g,5,g,0,g,0,g,62,g
+886,east of chicago,plain boneless wing,12,g,40,mg,590,g,14,g,18,g,2,g,0,g,1,g,1,g
+887,east of chicago,boneless zesty garlic wings,21,g,40,mg,840,g,16,g,18,g,3.5,g,0,g,1,g,3,g
+888,east of chicago,regular garlic wings,33,g,60,mg,530,g,3,g,18,g,8,g,0,g,0,g,0,g
+889,east of chicago,boneless bbq wings,12,g,40,mg,770,g,21,g,18,g,2,g,0,g,1,g,8,g
+890,east of chicago,regular bbq ranch wings,22,g,60,mg,560,g,6,g,18,g,5,g,0,g,0,g,4,g
+891,east of chicago,regular bbq wing,16,g,60,mg,550,g,9,g,18,g,4.5,g,0,g,0,g,7,g
+892,east of chicago,regular hot wings,16,g,60,mg,1260,g,2,g,18,g,4.5,g,0,g,0,g,0,g
+893,east of chicago,boneless garlic wings,29,g,40,mg,750,g,15,g,18,g,5,g,0,g,1,g,1,g
+894,east of chicago,regular zesty bbq wings,16,g,60,mg,790,g,7,g,18,g,4.5,g,0,g,0,g,4,g
+895,east of chicago,boneless mild wings,19,g,40,mg,1060,g,14,g,18,g,3,g,0,g,1,g,1,g
+896,east of chicago,regular mild wings,23,g,60,mg,840,g,2,g,18,g,6,g,0,g,0,g,0,g
+897,east of chicago,boneless hot wings,12,g,40,mg,1480,g,14,g,18,g,2,g,0,g,1,g,1,g
+898,east of chicago,boneless bbq ranch wings,18,g,40,mg,780,g,18,g,18,g,3,g,0,g,1,g,5,g
+899,east of chicago,regular zesty garlic wings,25,g,60,mg,620,g,4,g,18,g,6,g,0,g,0,g,2,g
+900,east of chicago,plain regular wings,16,g,60,mg,370,g,2,g,18,g,4.5,g,0,g,0,g,0,g
+901,east of chicago,boneless zesty bbq wings,12,g,40,mg,1010,g,19,g,18,g,2,g,0,g,1,g,5,g
+902,east of chicago,side mild sauce,34,g,0,mg,2360,g,2,g,0,g,5,g,0,g,0,g,0,g
+903,east of chicago,side pizza sauce,0,g,0,mg,450,g,15,g,2,g,0,g,0,g,2,g,9,g
+904,east of chicago,side garlic butter,84,g,0,mg,800,g,5,g,1,g,15,g,0,g,0,g,2,g
+905,east of chicago,side bbq ranch sauce,88,g,30,mg,1980,g,25,g,0,g,15,g,0,g,0,g,23,g
+906,east of chicago,side of salsa,0,g,0,mg,170,g,7,g,1,g,0,g,0,g,0,g,2,g
+907,east of chicago,side marinara sauce,3.5,g,0,mg,430,g,11,g,2,g,0,g,0,g,2,g,9,g
+908,east of chicago,side of ranch dressing,59,g,20,mg,1020,g,4,g,0,g,10,g,0,g,0,g,4,g
+909,east of chicago,side hot sauce,0,g,0,mg,4440,g,2,g,0,g,0,g,0,g,0,g,0,g
+910,east of chicago,side of bbq sauce,0,g,0,mg,910,g,37,g,1,g,0,g,0,g,1,g,33,g
+911,east of chicago,side zesty gsrlic sauce,44,g,5,mg,1270,g,12,g,0,g,8,g,0,g,0,g,10,g
+912,east of chicago,side zesty bbq sauce,0,g,0,mg,2090,g,26,g,1,g,0,g,0,g,1,g,22,g
+913,east of chicago,chocolate cake donut holes without icing,11,g,20,mg,310,g,25,g,3,g,4.5,g,0,g,0.5,g,10,g
+914,east of chicago,side of icing for desserts,1.5,g,0,mg,15,g,47,g,0,g,0,g,0.5,g,0,g,45,g
+915,east of chicago,french fries,15,g,0,mg,1280,g,91,g,7,g,3.5,g,0,g,7,g,0,g
+916,east of chicago,spaghetti without meatballs,38,g,65,mg,1010,g,95,g,28,g,13,g,0,g,10,g,14,g
+917,east of chicago,two topping foldover cheese without sauce,76,g,30,mg,1690,g,130,g,11,g,26,g,3,g,0,g,1,g
+918,east of chicago,chicken loaded nachos for two with salsa,50,g,160,mg,2610,g,96,g,59,g,12,g,0,g,5,g,11,g
+919,east of chicago,meaty foldover without sauce,105,g,90,mg,2870,g,132,g,25,g,37,g,3,g,1,g,1,g
+920,east of chicago,loaded chicken nachos for four with salsa,96,g,245,mg,4180,g,181,g,86,g,24,g,0,g,10,g,18,g
+921,east of chicago,garlic pizza bread,59,g,60,mg,2510,g,122,g,43,g,20,g,0,g,6,g,12,g
+922,east of chicago,chicago cheese fries,61,g,115,mg,2590,g,83,g,44,g,25,g,0,g,7,g,0,g
+923,east of chicago,chips and cheese,36,g,0,mg,1270,g,82,g,10,g,6,g,0,g,4,g,4,g
+924,east of chicago,chips and salsa,28,g,0,mg,650,g,79,g,9,g,4,g,0,g,4,g,2,g
+925,east of chicago,double stuff foldover without sauce,107,g,100,mg,3080,g,131,g,29,g,39,g,3,g,1,g,1,g
+926,east of chicago,cheesy sticks without sauce,6,g,10,mg,240,g,8,g,4,g,2,g,0,g,0,g,0,g
+927,east of chicago,loaded beef nachos for four with salsa,104,g,120,mg,3420,g,181,g,44,g,27,g,0,g,12,g,17,g
+928,east of chicago,beef loaded nachos for two with salsa,54,g,65,mg,1920,g,95,g,25,g,14,g,0,g,7,g,10,g
+929,east of chicago,full mac n cheese with 6 breadsticks,87,g,55,mg,5070,g,377,g,85,g,25,g,0,g,7,g,18,g
+930,east of chicago,spaghetti and cheese with 2 breadsticks,33,g,30,mg,1940,g,159,g,46,g,10,g,0,g,8,g,27,g
+931,east of chicago,lunch mac n cheese with bacon and 2 breadsticks,58,g,55,mg,3320,g,156,g,47,g,18,g,0,g,3,g,11,g
+932,east of chicago,full marinara with sausage and 6 breadsticks,87,g,85,mg,4820,g,403,g,98,g,26,g,0,g,17,g,61,g
+933,east of chicago,spaghetti with 2 breadsticks,20,g,0,mg,1460,g,143,g,31,g,3,g,0,g,7,g,25,g
+934,east of chicago,full spaghetti and cheese with 6 breadsticks,76,g,60,mg,4390,g,361,g,100,g,23,g,0,g,16,g,55,g
+935,east of chicago,lunch chicken alfredo with 2 breadsticks,68,g,185,mg,3130,g,157,g,59,g,36,g,0,g,3,g,7,g
+936,east of chicago,full spaghetti with 6 breadsticks,53,g,0,mg,3690,g,358,g,77,g,10,g,0,g,106,g,55,g
+937,east of chicago,lunch marinara with sausage and 2 breadsticks,38,g,40,mg,2150,g,162,g,42,g,11,g,0,g,8,g,25,g
+938,east of chicago,spaghetti and meatballs with 2 breadsticks,28,g,35,mg,1610,g,131,g,39,g,6,g,0,g,8,g,23,g
+939,east of chicago,full chicken alfredo with 6 breadsticks,120,g,305,mg,5740,g,381,g,130,g,59,g,0,g,7,g,13,g
+940,east of chicago,full spaghetti and meatballs with 6 breadsticks,79,g,85,mg,4520,g,370,g,106,g,19,g,0,g,19,g,57,g
+941,east of chicago,deluxe 10 cauliflower crust specialty pizza,8,g,20,mg,410,g,14,g,8,g,4.5,g,0,g,1,g,1,g
+942,east of chicago,all meat 10 cauliflower crust specialty pizza,10,g,25,mg,480,g,13,g,9,g,5,g,0,g,1,g,1,g
+943,east of chicago,cheese only large 14 crispy crust pizza,6,g,15,mg,240,g,12,g,7,g,3,g,0,g,1,g,1,g
+944,east of chicago,chicken bacon ranch 10 cauliflower crust specialty pizza,12,g,30,mg,1490,g,15,g,10,g,5,g,0,g,0,g,3,g
+945,east of chicago,hawaiian 10 cauliflower crust specialty pizza,9,g,25,mg,480,g,14,g,9,g,4.5,g,0,g,1,g,2,g
+946,east of chicago,bbq chicken 10 cauliflower crust specialty pizza,7,g,20,mg,410,g,16,g,9,g,3.5,g,0,g,1,g,4,g
+947,east of chicago,beef taco medium 12 crispy crust specialty pizza,9,g,25,mg,290,g,14,g,8,g,4,g,0,g,1,g,2,g
+948,east of chicago,7 layer veggie 10 cauliflower crust specialty pizza,7,g,15,mg,370,g,14,g,7,g,3.5,g,0,g,1,g,2,g
+949,east of chicago,chicago melt medium 12 thin crust specialty pizza,15,g,25,mg,550,g,19,g,8,g,7,g,0,g,0,g,2,g
+950,east of chicago,chicago melt 10 cauliflower crust specialty pizza,11,g,30,mg,450,g,13,g,8,g,5,g,0,g,1,g,1,g
+951,east of chicago,buffalo chicken 10 cauliflower crust specialty pizza,10,g,20,mg,520,g,13,g,8,g,4.5,g,0,g,1,g,1,g
+952,east of chicago,blt medium 12 thin crust specialty pizza,19,g,25,mg,600,g,19,g,9,g,7,g,0,g,0,g,1,g
+953,east of chicago,the tower 16 thin pizza,18,g,35,mg,1210,g,33,g,15,g,6,g,0,g,0.5,g,2,g
+954,east of chicago,tower 6 pan pizza,10,g,10,mg,530,g,23,g,7,g,2.5,g,0,g,0,g,1,g
+955,east of chicago,double stack pepperoni 10 cauliflower crust specialty pizza,12,g,30,mg,550,g,13,g,10,g,6,g,0,g,1,g,1,g
+956,east of chicago,cheese only medium 12 thin crust pizza,9,g,15,mg,390,g,19,g,6,g,5,g,0,g,0,g,1,g
+957,east of chicago,chicken bacon ranch medium 12 thin crust specialty pizza,15,g,15,mg,500,g,17,g,5,g,4,g,0,g,0,g,1,g
+958,east of chicago,taco 9 thin pizza,6,g,10,mg,290,g,16,g,6,g,3,g,0,g,0,g,1,g
+959,east of chicago,all meat large 14 thin crust specialty pizza,15,g,25,mg,690,g,20,g,10,g,7,g,0,g,1,g,1,g
+960,east of chicago,chicken bacon ranch large 14 thin crust specialty pizza,15,g,15,mg,500,g,17,g,5,g,4,g,0,g,0,g,1,g
+961,east of chicago,bbq chicken 9 thin pizza,4.5,g,10,mg,370,g,20,g,7,g,2,g,0,g,0.5,g,5,g
+962,east of chicago,double stack pepperoni large 14 thin crust specialty pizza,15,g,25,mg,660,g,19,g,9,g,7,g,0,g,0,g,1,g
+963,east of chicago,kicken chicken 10 cauliflower crust specialty pizza,9,g,20,mg,410,g,15,g,8,g,4,g,0,g,1,g,3,g
+964,east of chicago,chicago melt large 14 crispy crust specialty pizza,11,g,25,mg,400,g,12,g,9,g,5,g,0,g,1,g,1,g
+965,east of chicago,beef taco large 14 crispy crust specialty pizza,8,g,20,mg,260,g,12,g,7,g,3.5,g,0,g,1,g,2,g
+966,east of chicago,bbq chicken medium 12 thin crust specialty pizza,10,g,20,mg,520,g,23,g,8,g,5,g,0,g,0,g,5,g
+967,east of chicago,the tower medium 12 thin crust specialty pizza,15,g,25,mg,690,g,20,g,9,g,6,g,0,g,1,g,1,g
+968,east of chicago,peanut butter and jelly medium 12 crispy crust specialty pizza,8,g,0,mg,90,g,28,g,5,g,1,g,0,g,1,g,14,g
+969,east of chicago,buffalo chicken medium 12 crispy crust specialty pizza,12,g,20,mg,570,g,14,g,10,g,4,g,0,g,1,g,0,g
+970,east of chicago,cheeseburger medium 12 thin crust specialty pizza,14,g,20,mg,650,g,21,g,7,g,6,g,0,g,1,g,3,g
+971,east of chicago,7 layer medium 12 crispy crust specialty pizza,7,g,15,mg,340,g,14,g,8,g,3,g,0,g,1,g,2,g
+972,east of chicago,deluxe large 14 thin crust specialty pizza,13,g,20,mg,570,g,20,g,7,g,6,g,0,g,1,g,1,g
+973,east of chicago,chicken taco medium 12 thin crust specialty pizza,11,g,25,mg,410,g,20,g,8,g,5,g,0,g,0,g,2,g
+974,east of chicago,chicken bacon bbq 10 cauliflower crust specialty pizza,9,g,25,mg,490,g,15,g,10,g,4.5,g,0,g,1,g,3,g
+975,east of chicago,cheese only 6 pan pizza,6,g,5,mg,270,g,22,g,5,g,1.5,g,0,g,0,g,1,g
+976,east of chicago,chicken bacon ranch medium 12 crispy crust specialty pizza,12,g,15,mg,370,g,12,g,7,g,2.5,g,0,g,0,g,1,g
+977,east of chicago,cheese only large 14 thin crust pizza,9,g,15,mg,400,g,19,g,6,g,5,g,0,g,0,g,1,g
+978,east of chicago,taco 9 pan pizza,10,g,10,mg,330,g,24,g,7,g,3,g,0,g,0.5,g,1,g
+979,east of chicago,delux medium 12 loaded crust specialty pizza,20,g,25,mg,700,g,32,g,14,g,7,g,0,g,1,g,2,g
+980,east of chicago,taco 16 thin pizza,12,g,20,mg,490,g,25,g,11,g,5,g,0,g,0.5,g,2,g
+981,east of chicago,cheese only 9 pan pizza,9,g,10,mg,320,g,24,g,6,g,2.5,g,0,g,0,g,1,g
+982,east of chicago,chicken taco large 14 thin crust specialty pizza,11,g,25,mg,400,g,20,g,7,g,5,g,0,g,0,g,1,g
+983,east of chicago,all meat 9 pan pizza,13,g,20,mg,630,g,24,g,9,g,4,g,0,g,0,g,1,g
+984,east of chicago,the tower large 14 crispy crust specialty pizza,12,g,25,mg,550,g,13,g,10,g,4.5,g,0,g,1,g,2,g
+985,east of chicago,garden vegetable 9 thin pizza,6,g,5,mg,350,g,17,g,5,g,2,g,0,g,0.5,g,1,g
+986,east of chicago,cheese only 14 pan pizza,11,g,10,mg,410,g,28,g,8,g,3.5,g,0,g,0,g,1,g
+987,east of chicago,chicken bacon ranch large 14 crispy crust specialty pizza,17,g,30,mg,560,g,13,g,12,g,5,g,0,g,1,g,2,g
+988,east of chicago,peanut butter and jelly large 14 crispy crust specialty pizza,12,g,15,mg,290,g,27,g,10,g,4,g,0,g,2,g,13,g
+989,east of chicago,chicago melt large 14 thin crust specialty pizza,15,g,25,mg,560,g,19,g,8,g,7,g,0,g,0,g,1,g
+990,east of chicago,7 layer veggie large 14 thin crust specialty pizza,11,g,15,mg,510,g,21,g,6,g,5,g,0,g,1,g,2,g
+991,east of chicago,kicken chicken large 14 thin crust specialty pizza,16,g,20,mg,490,g,20,g,7,g,6,g,0,g,0,g,1,g
+992,east of chicago,deluxe 9 thin pizza,8,g,15,mg,560,g,17,g,6,g,3,g,0,g,0.5,g,1,g
+993,east of chicago,chicken taco large 14 crispy crust specialty pizza,7,g,25,mg,250,g,12,g,8,g,3.5,g,0,g,1,g,2,g
+994,east of chicago,kicken chicken medium 12 crispy crust specialty pizza,13,g,20,mg,350,g,14,g,9,g,4.5,g,0,g,1,g,1,g
+995,east of chicago,cheese only 9 thin pizza,4.5,g,10,mg,260,g,15,g,5,g,2,g,0,g,0,g,1,g
+996,east of chicago,hawaiian medium 12 thin crust specialty pizza,15,g,25,mg,660,g,20,g,10,g,6,g,0,g,0,g,2,g
+997,east of chicago,the tower 10 cauliflower crust specialty pizza,10,g,25,mg,500,g,14,g,9,g,4.5,g,0,g,1,g,1,g
+998,east of chicago,hawaiian large 14 crispy crust specialty pizza,11,g,25,mg,500,g,13,g,11,g,4.5,g,0,g,1,g,2,g
+999,east of chicago,hawaiian large 14 thin crust specialty pizza,15,g,25,mg,650,g,21,g,9,g,6,g,0,g,0,g,2,g

@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,old chicago,craft your own pizza on chicago thick crust individual 1 topping with salami whole pizza,52,g,95,mg,2420,g,89,g,48,g,22,g,0,g,5,g,6,g
+1,old chicago,craft your own pizza on chicago thick crust individual 1 topping with seasoned ground beef slice,12,g,25,mg,510,g,23,g,14,g,5,g,0,g,1,g,2,g
+2,old chicago,craft your own pizza on chicago thick crust individual 1 topping with spinach slice,10,g,15,mg,470,g,22,g,11,g,4,g,0,g,1,g,1,g
+3,old chicago,craft your own pizza on chicago thick crust individual 1 topping with spinach whole pizza,39,g,55,mg,1880,g,90,g,42,g,17,g,0,g,5,g,6,g
+4,old chicago,craft your own pizza on chicago thick crust individual 1 topping with sun dried tomatoes slice,10,g,15,mg,470,g,23,g,11,g,4,g,0,g,1,g,2,g
+5,old chicago,craft your own pizza on chicago thick crust individual 1 topping with swiss cheese slice,13,g,25,mg,490,g,22,g,13,g,6,g,0,g,1,g,1,g
+6,old chicago,craft your own pizza on chicago thick crust individual 1 topping with swiss cheese whole pizza,51,g,90,mg,1950,g,89,g,54,g,24,g,0,g,5,g,6,g
+7,old chicago,craft your own pizza on chicago thick crust individual 2 or more toppings slice,10,g,15,mg,460,g,22,g,10,g,4,g,0,g,1,g,1,g
+8,old chicago,craft your own pizza on chicago thick crust individual 2 or more toppings whole pizza,39,g,55,mg,1860,g,89,g,42,g,17,g,0,g,5,g,6,g
+9,old chicago,craft your own pizza on chicago thick crust individual 2 or more toppings with avocado slice,11,g,15,mg,470,g,23,g,11,g,4,g,0,g,2,g,1,g
+10,old chicago,craft your own pizza on chicago thick crust individual 2 or more toppings with bleu cheese slice,11,g,20,mg,540,g,22,g,12,g,5,g,0,g,1,g,1,g
+11,old chicago,craft your own pizza on chicago thick crust individual 2 or more toppings with broccoli slice,10,g,15,mg,470,g,23,g,11,g,4,g,0,g,1,g,1,g
+12,old chicago,craft your own pizza on chicago thick crust individual 2 or more toppings with feta cheese slice,11,g,15,mg,530,g,22,g,11,g,5,g,0,g,1,g,1,g
+13,old chicago,craft your own pizza on chicago thick crust individual 2 or more toppings with fresh basil slice,10,g,15,mg,460,g,22,g,10,g,4,g,0,g,1,g,1,g
+14,old chicago,craft your own pizza on chicago thick crust individual 2 or more toppings with goat cheese slice,11,g,20,mg,470,g,22,g,11,g,5,g,0,g,1,g,1,g
+15,old chicago,craft your own pizza on chicago thick crust individual 2 or more toppings with jalapenos slice,10,g,15,mg,630,g,23,g,10,g,4,g,0,g,1,g,1,g
+16,old chicago,craft your own pizza on chicago thick crust individual 2 or more toppings with mushrooms slice,10,g,15,mg,460,g,22,g,11,g,4,g,0,g,1,g,1,g
+17,old chicago,craft your own pizza on chicago thick crust individual 2 or more toppings with pepperoni slice,13,g,20,mg,610,g,22,g,12,g,5,g,0,g,1,g,1,g
+18,old chicago,craft your own pizza on chicago thick crust individual 2 or more toppings with pineapple slice,10,g,15,mg,460,g,25,g,10,g,4,g,0,g,1,g,3,g
+19,old chicago,craft your own pizza on chicago thick crust individual 2 or more toppings with red onions slice,10,g,15,mg,460,g,23,g,10,g,4,g,0,g,1,g,2,g
+20,old chicago,craft your own pizza on chicago thick crust individual 2 or more toppings with red peppers slice,10,g,15,mg,460,g,23,g,10,g,4,g,0,g,1,g,2,g
+21,old chicago,craft your own pizza on chicago thick crust individual 2 or more toppings with salami slice,11,g,20,mg,530,g,22,g,11,g,5,g,0,g,1,g,1,g
+22,old chicago,craft your own pizza on chicago thick crust individual 2 or more toppings with spinach slice,10,g,15,mg,470,g,22,g,10,g,4,g,0,g,1,g,1,g
+23,old chicago,craft your own pizza on chicago thick crust large 1 topping slice,17,g,20,mg,820,g,41,g,17,g,7,g,0,g,2,g,2,g
+24,old chicago,craft your own pizza on chicago thick crust large 1 topping whole pizza,137,g,170,mg,6570,g,326,g,140,g,56,g,0,g,17,g,19,g
+25,old chicago,craft your own pizza on chicago thick crust large 1 topping with anaheim peppers slice,17,g,20,mg,820,g,41,g,18,g,7,g,0,g,2,g,3,g
+26,old chicago,craft your own pizza on chicago thick crust large 1 topping with anaheim peppers whole pizza,137,g,170,mg,6580,g,331,g,141,g,56,g,0,g,17,g,23,g
+27,old chicago,craft your own pizza on chicago thick crust large 1 topping with andouille sausage slice,26,g,45,mg,1090,g,41,g,22,g,10,g,0,g,2,g,3,g
+28,old chicago,craft your own pizza on chicago thick crust large 1 topping with andouille sausage whole pizza,210,g,345,mg,8700,g,330,g,175,g,82,g,0,g,18,g,21,g
+29,old chicago,craft your own pizza on chicago thick crust large 1 topping with artichoke hearts slice,17,g,20,mg,950,g,42,g,18,g,7,g,0,g,3,g,3,g
+30,old chicago,craft your own pizza on chicago thick crust large 1 topping with artichoke hearts whole pizza,137,g,170,mg,7590,g,338,g,144,g,56,g,0,g,23,g,23,g
+31,old chicago,craft your own pizza on chicago thick crust large 1 topping with asiago cheese slice,21,g,30,mg,930,g,42,g,20,g,9,g,0,g,2,g,2,g
+32,old chicago,craft your own pizza on chicago thick crust large 1 topping with asiago cheese whole pizza,164,g,260,mg,7470,g,332,g,158,g,74,g,0,g,17,g,19,g
+33,old chicago,craft your own pizza on chicago thick crust large 1 topping with avocado slice,19,g,20,mg,820,g,42,g,18,g,7,g,0,g,3,g,3,g
+34,old chicago,craft your own pizza on chicago thick crust large 1 topping with avocado whole pizza,154,g,170,mg,6580,g,336,g,142,g,58,g,0,g,25,g,20,g
+35,old chicago,craft your own pizza on chicago thick crust large 1 topping with black olives slice,18,g,20,mg,890,g,41,g,17,g,7,g,0,g,2,g,2,g
+36,old chicago,craft your own pizza on chicago thick crust large 1 topping with black olives whole pizza,147,g,170,mg,7140,g,330,g,140,g,56,g,0,g,17,g,19,g
+37,old chicago,craft your own pizza on chicago thick crust large 1 topping with bleu cheese slice,20,g,30,mg,960,g,41,g,20,g,9,g,0,g,2,g,2,g
+38,old chicago,craft your own pizza on chicago thick crust large 1 topping with bleu cheese whole pizza,161,g,245,mg,7710,g,326,g,158,g,71,g,0,g,17,g,19,g
+39,old chicago,craft your own pizza on chicago thick crust large 1 topping with broccoli slice,17,g,20,mg,830,g,42,g,18,g,7,g,0,g,2,g,3,g
+40,old chicago,craft your own pizza on chicago thick crust large 1 topping with broccoli whole pizza,137,g,170,mg,6600,g,332,g,142,g,56,g,0,g,20,g,21,g
+41,old chicago,craft your own pizza on chicago thick crust large 1 topping with bruschetta tomatoes slice,20,g,20,mg,900,g,42,g,18,g,7,g,0,g,2,g,3,g
+42,old chicago,craft your own pizza on chicago thick crust large 1 topping with bruschetta tomatoes whole pizza,159,g,170,mg,7220,g,333,g,141,g,59,g,0,g,20,g,24,g
+43,old chicago,craft your own pizza on chicago thick crust large 1 topping with canadian bacon slice,19,g,35,mg,1180,g,41,g,23,g,7,g,0,g,2,g,2,g
+44,old chicago,craft your own pizza on chicago thick crust large 1 topping with canadian bacon whole pizza,148,g,300,mg,9410,g,326,g,188,g,60,g,0,g,17,g,19,g
+45,old chicago,craft your own pizza on chicago thick crust large 1 topping with cheddar cheese slice,21,g,30,mg,890,g,41,g,20,g,9,g,0,g,2,g,2,g
+46,old chicago,craft your own pizza on chicago thick crust large 1 topping with cheddar cheese whole pizza,165,g,250,mg,7110,g,326,g,160,g,72,g,0,g,17,g,19,g
+47,old chicago,craft your own pizza on chicago thick crust large 1 topping with crimini mushrooms slice,17,g,20,mg,820,g,41,g,18,g,7,g,0,g,2,g,3,g
+48,old chicago,craft your own pizza on chicago thick crust large 1 topping with crimini mushrooms whole pizza,137,g,170,mg,6580,g,330,g,142,g,56,g,0,g,18,g,21,g
+49,old chicago,craft your own pizza on chicago thick crust large 1 topping with extra mozzarella cheese slice,19,g,25,mg,850,g,41,g,19,g,8,g,0,g,2,g,2,g
+50,old chicago,craft your own pizza on chicago thick crust large 1 topping with feta cheese slice,19,g,25,mg,960,g,41,g,19,g,8,g,0,g,2,g,2,g
+51,old chicago,craft your own pizza on chicago thick crust large 1 topping with feta cheese whole pizza,149,g,215,mg,7680,g,329,g,155,g,63,g,0,g,17,g,19,g
+52,old chicago,craft your own pizza on chicago thick crust large 1 topping with fresh basil slice,17,g,20,mg,820,g,41,g,17,g,7,g,0,g,2,g,2,g
+53,old chicago,craft your own pizza on chicago thick crust large 1 topping with fresh basil whole pizza,137,g,170,mg,6570,g,326,g,140,g,56,g,0,g,18,g,19,g
+54,old chicago,craft your own pizza on chicago thick crust large 1 topping with fresh cilantro slice,17,g,20,mg,820,g,41,g,17,g,7,g,0,g,2,g,2,g
+55,old chicago,craft your own pizza on chicago thick crust large 1 topping with fresh cilantro whole pizza,137,g,170,mg,6570,g,326,g,140,g,56,g,0,g,18,g,19,g
+56,old chicago,craft your own pizza on chicago thick crust large 1 topping with fresh mozzarella cheese slice,27,g,50,mg,830,g,41,g,27,g,12,g,0,g,2,g,2,g
+57,old chicago,craft your own pizza on chicago thick crust large 1 topping with goat cheese slice,20,g,30,mg,840,g,41,g,19,g,9,g,0,g,2,g,2,g
+58,old chicago,craft your own pizza on chicago thick crust large 1 topping with goat cheese whole pizza,157,g,250,mg,6730,g,330,g,156,g,70,g,0,g,17,g,19,g
+59,old chicago,craft your own pizza on chicago thick crust large 1 topping with green olives slice,19,g,20,mg,1060,g,41,g,17,g,7,g,0,g,2,g,2,g
+60,old chicago,craft your own pizza on chicago thick crust large 1 topping with green olives whole pizza,154,g,170,mg,8500,g,326,g,140,g,56,g,0,g,17,g,19,g
+61,old chicago,craft your own pizza on chicago thick crust large 1 topping with green onions slice,17,g,20,mg,820,g,41,g,18,g,7,g,0,g,2,g,3,g
+62,old chicago,craft your own pizza on chicago thick crust large 1 topping with green onions whole pizza,137,g,170,mg,6580,g,330,g,141,g,56,g,0,g,19,g,21,g
+63,old chicago,craft your own pizza on chicago thick crust large 1 topping with green peppers slice,17,g,20,mg,820,g,41,g,18,g,7,g,0,g,2,g,3,g
+64,old chicago,craft your own pizza on chicago thick crust large 1 topping with green peppers whole pizza,137,g,170,mg,6570,g,330,g,140,g,56,g,0,g,19,g,21,g
+65,old chicago,craft your own pizza on chicago thick crust large 1 topping with italian sausage slice,23,g,40,mg,1000,g,42,g,22,g,9,g,0,g,2,g,3,g
+66,old chicago,craft your own pizza on chicago thick crust large 1 topping with italian sausage whole pizza,186,g,320,mg,8030,g,334,g,177,g,69,g,0,g,17,g,23,g
+67,old chicago,craft your own pizza on chicago thick crust large 1 topping with jalapenos slice,17,g,20,mg,1160,g,41,g,17,g,7,g,0,g,2,g,2,g
+68,old chicago,craft your own pizza on chicago thick crust large 1 topping with jalapenos whole pizza,137,g,170,mg,9290,g,331,g,140,g,56,g,0,g,17,g,19,g
+69,old chicago,craft your own pizza on chicago thick crust large 1 topping with mushrooms slice,17,g,20,mg,820,g,41,g,18,g,7,g,0,g,2,g,3,g
+70,old chicago,craft your own pizza on chicago thick crust large 1 topping with mushrooms whole pizza,137,g,170,mg,6570,g,330,g,143,g,56,g,0,g,19,g,21,g
+71,old chicago,craft your own pizza on chicago thick crust large 1 topping with parmesan cheese slice,20,g,30,mg,960,g,41,g,21,g,8,g,0,g,2,g,2,g
+72,old chicago,craft your own pizza on chicago thick crust large 1 topping with parmesan cheese whole pizza,158,g,230,mg,7710,g,329,g,167,g,68,g,0,g,17,g,19,g
+73,old chicago,craft your own pizza on chicago thick crust large 1 topping with pepper jack cheese slice,19,g,30,mg,860,g,41,g,19,g,8,g,0,g,2,g,2,g
+74,old chicago,craft your own pizza on chicago thick crust large 1 topping with pepper jack cheese whole pizza,155,g,230,mg,6910,g,326,g,154,g,66,g,0,g,17,g,19,g
+75,old chicago,craft your own pizza on chicago thick crust large 1 topping with peppered bacon slice,23,g,35,mg,1100,g,42,g,21,g,9,g,0,g,2,g,3,g
+76,old chicago,craft your own pizza on chicago thick crust large 1 topping with peppered bacon whole pizza,181,g,260,mg,8800,g,336,g,172,g,71,g,0,g,20,g,23,g
+77,old chicago,craft your own pizza on chicago thick crust large 1 topping with pepperoncini slice,17,g,20,mg,900,g,41,g,17,g,7,g,0,g,2,g,2,g
+78,old chicago,craft your own pizza on chicago thick crust large 1 topping with pepperoncini whole pizza,137,g,170,mg,7230,g,330,g,140,g,56,g,0,g,19,g,19,g
+79,old chicago,craft your own pizza on chicago thick crust large 1 topping with pepperoni slice,23,g,35,mg,1100,g,41,g,21,g,9,g,0,g,2,g,2,g
+80,old chicago,craft your own pizza on chicago thick crust large 1 topping with pepperoni whole pizza,182,g,280,mg,8820,g,330,g,166,g,74,g,0,g,17,g,19,g
+81,old chicago,craft your own pizza on chicago thick crust large 1 topping with pineapple slice,17,g,20,mg,820,g,46,g,17,g,7,g,0,g,2,g,6,g
+82,old chicago,craft your own pizza on chicago thick crust large 1 topping with pineapple whole pizza,137,g,170,mg,6570,g,364,g,140,g,56,g,0,g,19,g,49,g
+83,old chicago,craft your own pizza on chicago thick crust large 1 topping with provolone cheese slice,20,g,30,mg,920,g,41,g,20,g,9,g,0,g,2,g,2,g
+84,old chicago,craft your own pizza on chicago thick crust large 1 topping with provolone cheese whole pizza,161,g,230,mg,7320,g,326,g,161,g,71,g,0,g,17,g,19,g
+85,old chicago,craft your own pizza on chicago thick crust large 1 topping with red onions slice,17,g,20,mg,820,g,42,g,18,g,7,g,0,g,2,g,3,g
+86,old chicago,craft your own pizza on chicago thick crust large 1 topping with red onions whole pizza,137,g,170,mg,6570,g,334,g,141,g,56,g,0,g,19,g,23,g
+87,old chicago,craft your own pizza on chicago thick crust large 1 topping with red peppers slice,17,g,20,mg,820,g,42,g,18,g,7,g,0,g,2,g,3,g
+88,old chicago,craft your own pizza on chicago thick crust large 1 topping with red peppers whole pizza,137,g,170,mg,6570,g,333,g,141,g,56,g,0,g,20,g,24,g
+89,old chicago,craft your own pizza on chicago thick crust large 1 topping with ricotta cheese slice,19,g,30,mg,850,g,42,g,20,g,8,g,0,g,2,g,2,g
+90,old chicago,craft your own pizza on chicago thick crust large 1 topping with ricotta cheese whole pizza,152,g,225,mg,6800,g,335,g,161,g,65,g,0,g,17,g,19,g
+91,old chicago,craft your own pizza on chicago thick crust large 1 topping with roasted garlic slice,17,g,20,mg,820,g,41,g,18,g,7,g,0,g,2,g,2,g
+92,old chicago,craft your own pizza on chicago thick crust large 1 topping with roasted garlic whole pizza,137,g,170,mg,6570,g,330,g,140,g,56,g,0,g,18,g,19,g
+93,old chicago,craft your own pizza on chicago thick crust large 1 topping with roasted peppers slice,17,g,20,mg,860,g,41,g,18,g,7,g,0,g,2,g,3,g
+94,old chicago,craft your own pizza on chicago thick crust large 1 topping with roasted peppers whole pizza,137,g,170,mg,6880,g,331,g,141,g,56,g,0,g,18,g,23,g
+95,old chicago,craft your own pizza on chicago thick crust large 1 topping with roma tomatoes slice,17,g,20,mg,820,g,42,g,18,g,7,g,0,g,2,g,3,g
+96,old chicago,craft your own pizza on chicago thick crust large 1 topping with roma tomatoes whole pizza,137,g,170,mg,6580,g,333,g,141,g,56,g,0,g,20,g,24,g
+97,old chicago,craft your own pizza on chicago thick crust large 1 topping with salami slice,20,g,30,mg,960,g,41,g,19,g,8,g,0,g,2,g,2,g
+98,old chicago,craft your own pizza on chicago thick crust large 1 topping with salami whole pizza,162,g,255,mg,7690,g,326,g,152,g,67,g,0,g,17,g,19,g
+99,old chicago,craft your own pizza on chicago thick crust large 1 topping with seasoned ground beef slice,19,g,30,mg,870,g,41,g,21,g,8,g,0,g,2,g,3,g
+100,old chicago,craft your own pizza on chicago thick crust large 1 topping with spinach slice,17,g,20,mg,830,g,41,g,18,g,7,g,0,g,2,g,2,g
+101,old chicago,craft your own pizza on chicago thick crust large 1 topping with spinach whole pizza,137,g,170,mg,6620,g,328,g,142,g,56,g,0,g,19,g,20,g
+102,old chicago,craft your own pizza on chicago thick crust large 1 topping with sun dried tomatoes slice,17,g,20,mg,820,g,42,g,18,g,7,g,0,g,2,g,3,g
+103,old chicago,craft your own pizza on chicago thick crust large 1 topping with sun dried tomatoes whole pizza,137,g,170,mg,6590,g,332,g,142,g,56,g,0,g,19,g,23,g
+104,old chicago,craft your own pizza on chicago thick crust large 1 topping with swiss cheese slice,20,g,30,mg,840,g,41,g,20,g,9,g,0,g,2,g,2,g
+105,old chicago,craft your own pizza on chicago thick crust large 1 topping with swiss cheese whole pizza,161,g,245,mg,6750,g,326,g,164,g,71,g,0,g,17,g,19,g
+106,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings slice,17,g,20,mg,820,g,41,g,17,g,7,g,0,g,2,g,2,g
+107,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings whole pizza,137,g,170,mg,6570,g,326,g,140,g,56,g,0,g,17,g,19,g
+108,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with anaheim peppers slice,17,g,20,mg,820,g,41,g,18,g,7,g,0,g,2,g,3,g
+109,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with artichoke hearts slice,17,g,20,mg,920,g,42,g,18,g,7,g,0,g,3,g,3,g
+110,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with asiago cheese slice,20,g,30,mg,910,g,41,g,19,g,9,g,0,g,2,g,2,g
+111,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with avocado slice,19,g,20,mg,820,g,42,g,18,g,7,g,0,g,3,g,3,g
+112,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with avocado whole pizza,154,g,170,mg,6580,g,336,g,142,g,58,g,0,g,25,g,20,g
+113,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with black olives slice,18,g,20,mg,870,g,41,g,17,g,7,g,0,g,2,g,2,g
+114,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with bleu cheese slice,19,g,30,mg,930,g,41,g,19,g,8,g,0,g,2,g,2,g
+115,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with broccoli slice,17,g,20,mg,820,g,41,g,18,g,7,g,0,g,2,g,3,g
+116,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with broccoli whole pizza,137,g,170,mg,6590,g,331,g,142,g,56,g,0,g,19,g,21,g
+117,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with canadian bacon slice,18,g,35,mg,1130,g,41,g,23,g,7,g,0,g,2,g,2,g
+118,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with cheddar cheese slice,20,g,30,mg,870,g,41,g,19,g,8,g,0,g,2,g,2,g
+119,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with feta cheese slice,18,g,25,mg,930,g,41,g,19,g,8,g,0,g,2,g,2,g
+120,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with fresh basil slice,17,g,20,mg,820,g,41,g,17,g,7,g,0,g,2,g,2,g
+121,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with fresh cilantro slice,17,g,20,mg,820,g,41,g,17,g,7,g,0,g,2,g,2,g
+122,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with goat cheese slice,19,g,30,mg,840,g,41,g,19,g,8,g,0,g,2,g,2,g
+123,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with green olives slice,19,g,20,mg,1000,g,41,g,17,g,7,g,0,g,2,g,2,g
+124,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with green onions slice,17,g,20,mg,820,g,41,g,18,g,7,g,0,g,2,g,3,g
+125,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with green peppers slice,17,g,20,mg,820,g,41,g,18,g,7,g,0,g,2,g,3,g
+126,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with italian sausage slice,22,g,35,mg,960,g,41,g,21,g,8,g,0,g,2,g,3,g
+127,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with jalapenos slice,17,g,20,mg,1080,g,41,g,17,g,7,g,0,g,2,g,2,g
+128,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with jalapenos whole pizza,137,g,170,mg,8610,g,330,g,140,g,56,g,0,g,17,g,19,g
+129,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with mushrooms slice,17,g,20,mg,820,g,41,g,18,g,7,g,0,g,2,g,3,g
+130,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with mushrooms whole pizza,137,g,170,mg,6570,g,329,g,142,g,56,g,0,g,18,g,21,g
+131,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with parmesan cheese slice,19,g,25,mg,930,g,41,g,20,g,8,g,0,g,2,g,2,g
+132,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with peppered bacon slice,21,g,30,mg,1030,g,42,g,20,g,8,g,0,g,2,g,3,g
+133,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with pepperoncini slice,17,g,20,mg,880,g,41,g,17,g,7,g,0,g,2,g,2,g
+134,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with pepperoni slice,21,g,30,mg,1010,g,41,g,20,g,9,g,0,g,2,g,2,g
+135,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with pepperoni whole pizza,167,g,245,mg,8070,g,329,g,157,g,68,g,0,g,17,g,19,g
+136,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with pineapple slice,17,g,20,mg,820,g,44,g,17,g,7,g,0,g,2,g,5,g
+137,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with pineapple whole pizza,137,g,170,mg,6570,g,355,g,140,g,56,g,0,g,19,g,42,g
+138,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with provolone cheese slice,19,g,25,mg,890,g,41,g,19,g,8,g,0,g,2,g,2,g
+139,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with red onions slice,17,g,20,mg,820,g,42,g,18,g,7,g,0,g,2,g,3,g
+140,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with red onions whole pizza,137,g,170,mg,6570,g,332,g,140,g,56,g,0,g,18,g,22,g
+141,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with red peppers slice,17,g,20,mg,820,g,41,g,18,g,7,g,0,g,2,g,3,g
+142,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with ricotta cheese slice,19,g,25,mg,840,g,42,g,19,g,8,g,0,g,2,g,2,g
+143,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with roasted garlic slice,17,g,20,mg,820,g,41,g,18,g,7,g,0,g,2,g,2,g
+144,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with roasted peppers slice,17,g,20,mg,850,g,41,g,18,g,7,g,0,g,2,g,3,g
+145,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with roma tomatoes slice,17,g,20,mg,820,g,41,g,18,g,7,g,0,g,2,g,3,g
+146,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with salami slice,19,g,30,mg,930,g,41,g,19,g,8,g,0,g,2,g,2,g
+147,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with salami whole pizza,156,g,235,mg,7410,g,326,g,149,g,64,g,0,g,17,g,19,g
+148,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with spinach slice,17,g,20,mg,830,g,41,g,18,g,7,g,0,g,2,g,2,g
+149,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with spinach whole pizza,137,g,170,mg,6600,g,328,g,141,g,56,g,0,g,18,g,20,g
+150,old chicago,craft your own pizza on chicago thick crust large 2 or more toppings with swiss cheese slice,19,g,30,mg,840,g,41,g,20,g,8,g,0,g,2,g,2,g
+151,old chicago,craft your own pizza on chicago thick crust medium 1 topping slice,14,g,20,mg,780,g,40,g,16,g,6,g,0,g,2,g,2,g
+152,old chicago,craft your own pizza on chicago thick crust medium 1 topping whole pizza,84,g,115,mg,4670,g,239,g,98,g,35,g,0,g,13,g,14,g
+153,old chicago,craft your own pizza on chicago thick crust medium 1 topping with anaheim peppers slice,14,g,20,mg,780,g,40,g,17,g,6,g,0,g,2,g,3,g
+154,old chicago,craft your own pizza on chicago thick crust medium 1 topping with anaheim peppers whole pizza,84,g,115,mg,4680,g,242,g,99,g,35,g,0,g,13,g,17,g
+155,old chicago,craft your own pizza on chicago thick crust medium 1 topping with andouille sausage slice,21,g,35,mg,980,g,40,g,20,g,8,g,0,g,2,g,3,g
+156,old chicago,craft your own pizza on chicago thick crust medium 1 topping with andouille sausage whole pizza,126,g,215,mg,5890,g,241,g,118,g,50,g,0,g,13,g,15,g
+157,old chicago,craft your own pizza on chicago thick crust medium 1 topping with artichoke hearts slice,14,g,20,mg,910,g,41,g,17,g,6,g,0,g,3,g,3,g
+158,old chicago,craft your own pizza on chicago thick crust medium 1 topping with artichoke hearts whole pizza,84,g,115,mg,5440,g,248,g,101,g,35,g,0,g,17,g,17,g
+159,old chicago,craft your own pizza on chicago thick crust medium 1 topping with asiago cheese slice,17,g,30,mg,890,g,41,g,19,g,8,g,0,g,2,g,2,g
+160,old chicago,craft your own pizza on chicago thick crust medium 1 topping with asiago cheese whole pizza,104,g,180,mg,5350,g,243,g,112,g,48,g,0,g,13,g,14,g
+161,old chicago,craft your own pizza on chicago thick crust medium 1 topping with avocado slice,16,g,20,mg,780,g,41,g,17,g,6,g,0,g,3,g,2,g
+162,old chicago,craft your own pizza on chicago thick crust medium 1 topping with avocado whole pizza,95,g,115,mg,4680,g,245,g,100,g,37,g,0,g,18,g,15,g
+163,old chicago,craft your own pizza on chicago thick crust medium 1 topping with black olives slice,15,g,20,mg,850,g,40,g,16,g,6,g,0,g,2,g,2,g
+164,old chicago,craft your own pizza on chicago thick crust medium 1 topping with black olives whole pizza,91,g,115,mg,5100,g,242,g,98,g,35,g,0,g,13,g,14,g
+165,old chicago,craft your own pizza on chicago thick crust medium 1 topping with bleu cheese slice,17,g,30,mg,920,g,40,g,19,g,8,g,0,g,2,g,2,g
+166,old chicago,craft your own pizza on chicago thick crust medium 1 topping with bleu cheese whole pizza,102,g,170,mg,5530,g,239,g,112,g,46,g,0,g,13,g,14,g
+167,old chicago,craft your own pizza on chicago thick crust medium 1 topping with broccoli slice,14,g,20,mg,780,g,41,g,17,g,6,g,0,g,2,g,3,g
+168,old chicago,craft your own pizza on chicago thick crust medium 1 topping with broccoli whole pizza,84,g,115,mg,4690,g,243,g,100,g,35,g,0,g,15,g,15,g
+169,old chicago,craft your own pizza on chicago thick crust medium 1 topping with bruschetta tomatoes slice,17,g,20,mg,860,g,41,g,17,g,6,g,0,g,2,g,3,g
+170,old chicago,craft your own pizza on chicago thick crust medium 1 topping with canadian bacon slice,15,g,30,mg,1050,g,40,g,21,g,6,g,0,g,2,g,2,g
+171,old chicago,craft your own pizza on chicago thick crust medium 1 topping with canadian bacon whole pizza,90,g,190,mg,6300,g,239,g,126,g,37,g,0,g,13,g,14,g
+172,old chicago,craft your own pizza on chicago thick crust medium 1 topping with cheddar cheese slice,17,g,30,mg,850,g,40,g,19,g,8,g,0,g,2,g,2,g
+173,old chicago,craft your own pizza on chicago thick crust medium 1 topping with cheddar cheese whole pizza,105,g,175,mg,5080,g,239,g,113,g,47,g,0,g,13,g,14,g
+174,old chicago,craft your own pizza on chicago thick crust medium 1 topping with crimini mushrooms slice,14,g,20,mg,780,g,40,g,17,g,6,g,0,g,2,g,3,g
+175,old chicago,craft your own pizza on chicago thick crust medium 1 topping with crimini mushrooms whole pizza,84,g,115,mg,4680,g,242,g,100,g,35,g,0,g,13,g,16,g
+176,old chicago,craft your own pizza on chicago thick crust medium 1 topping with extra mozzarella cheese slice,15,g,25,mg,810,g,40,g,18,g,7,g,0,g,2,g,2,g
+177,old chicago,craft your own pizza on chicago thick crust medium 1 topping with feta cheese slice,15,g,25,mg,920,g,40,g,18,g,7,g,0,g,2,g,2,g
+178,old chicago,craft your own pizza on chicago thick crust medium 1 topping with feta cheese whole pizza,93,g,150,mg,5500,g,241,g,109,g,41,g,0,g,13,g,14,g
+179,old chicago,craft your own pizza on chicago thick crust medium 1 topping with fresh basil slice,14,g,20,mg,780,g,40,g,16,g,6,g,0,g,2,g,2,g
+180,old chicago,craft your own pizza on chicago thick crust medium 1 topping with fresh basil whole pizza,84,g,115,mg,4670,g,239,g,98,g,35,g,0,g,13,g,14,g
+181,old chicago,craft your own pizza on chicago thick crust medium 1 topping with fresh cilantro slice,14,g,20,mg,780,g,40,g,16,g,6,g,0,g,2,g,2,g
+182,old chicago,craft your own pizza on chicago thick crust medium 1 topping with fresh cilantro whole pizza,84,g,115,mg,4670,g,239,g,98,g,35,g,0,g,13,g,14,g
+183,old chicago,craft your own pizza on chicago thick crust medium 1 topping with fresh mozzarella cheese slice,24,g,50,mg,790,g,40,g,26,g,12,g,0,g,2,g,2,g
+184,old chicago,craft your own pizza on chicago thick crust medium 1 topping with goat cheese slice,16,g,30,mg,800,g,40,g,18,g,8,g,0,g,2,g,2,g
+185,old chicago,craft your own pizza on chicago thick crust medium 1 topping with goat cheese whole pizza,99,g,175,mg,4790,g,242,g,110,g,45,g,0,g,13,g,14,g
+186,old chicago,craft your own pizza on chicago thick crust medium 1 topping with green olives slice,16,g,20,mg,1020,g,40,g,16,g,6,g,0,g,2,g,2,g
+187,old chicago,craft your own pizza on chicago thick crust medium 1 topping with green olives whole pizza,97,g,115,mg,6120,g,239,g,98,g,35,g,0,g,13,g,14,g
+188,old chicago,craft your own pizza on chicago thick crust medium 1 topping with green onions slice,14,g,20,mg,780,g,40,g,16,g,6,g,0,g,2,g,3,g
+189,old chicago,craft your own pizza on chicago thick crust medium 1 topping with green onions whole pizza,84,g,115,mg,4680,g,241,g,99,g,35,g,0,g,14,g,15,g
+190,old chicago,craft your own pizza on chicago thick crust medium 1 topping with green peppers slice,14,g,20,mg,780,g,40,g,16,g,6,g,0,g,2,g,3,g
+191,old chicago,craft your own pizza on chicago thick crust medium 1 topping with green peppers whole pizza,84,g,115,mg,4670,g,241,g,99,g,35,g,0,g,14,g,16,g
+192,old chicago,craft your own pizza on chicago thick crust medium 1 topping with italian sausage slice,20,g,40,mg,960,g,41,g,21,g,7,g,0,g,2,g,3,g
+193,old chicago,craft your own pizza on chicago thick crust medium 1 topping with italian sausage whole pizza,120,g,225,mg,5770,g,244,g,126,g,45,g,0,g,13,g,17,g
+194,old chicago,craft your own pizza on chicago thick crust medium 1 topping with jalapenos slice,14,g,20,mg,1120,g,40,g,16,g,6,g,0,g,2,g,2,g
+195,old chicago,craft your own pizza on chicago thick crust medium 1 topping with jalapenos whole pizza,84,g,115,mg,6710,g,243,g,98,g,35,g,0,g,13,g,14,g
+196,old chicago,craft your own pizza on chicago thick crust medium 1 topping with mushrooms slice,14,g,20,mg,780,g,40,g,17,g,6,g,0,g,2,g,3,g
+197,old chicago,craft your own pizza on chicago thick crust medium 1 topping with mushrooms whole pizza,84,g,115,mg,4680,g,241,g,101,g,35,g,0,g,14,g,16,g
+198,old chicago,craft your own pizza on chicago thick crust medium 1 topping with parmesan cheese slice,17,g,25,mg,920,g,40,g,20,g,7,g,0,g,2,g,2,g
+199,old chicago,craft your own pizza on chicago thick crust medium 1 topping with parmesan cheese whole pizza,100,g,160,mg,5530,g,241,g,118,g,44,g,0,g,13,g,14,g
+200,old chicago,craft your own pizza on chicago thick crust medium 1 topping with pepper jack cheese slice,16,g,25,mg,820,g,40,g,18,g,7,g,0,g,2,g,2,g
+201,old chicago,craft your own pizza on chicago thick crust medium 1 topping with pepper jack cheese whole pizza,97,g,160,mg,4930,g,239,g,109,g,42,g,0,g,13,g,14,g
+202,old chicago,craft your own pizza on chicago thick crust medium 1 topping with peppered bacon slice,19,g,30,mg,1060,g,41,g,20,g,8,g,0,g,2,g,3,g
+203,old chicago,craft your own pizza on chicago thick crust medium 1 topping with peppered bacon whole pizza,117,g,185,mg,6350,g,246,g,122,g,47,g,0,g,15,g,17,g
+204,old chicago,craft your own pizza on chicago thick crust medium 1 topping with pepperoncini slice,14,g,20,mg,860,g,40,g,16,g,6,g,0,g,2,g,2,g
+205,old chicago,craft your own pizza on chicago thick crust medium 1 topping with pepperoncini whole pizza,84,g,115,mg,5170,g,242,g,98,g,35,g,0,g,14,g,14,g
+206,old chicago,craft your own pizza on chicago thick crust medium 1 topping with pepperoni slice,20,g,35,mg,1090,g,40,g,20,g,8,g,0,g,2,g,2,g
+207,old chicago,craft your own pizza on chicago thick crust medium 1 topping with pepperoni whole pizza,121,g,210,mg,6550,g,242,g,120,g,51,g,0,g,13,g,14,g
+208,old chicago,craft your own pizza on chicago thick crust medium 1 topping with pineapple slice,14,g,20,mg,780,g,45,g,16,g,6,g,0,g,2,g,6,g
+209,old chicago,craft your own pizza on chicago thick crust medium 1 topping with pineapple whole pizza,84,g,115,mg,4670,g,267,g,98,g,35,g,0,g,14,g,37,g
+210,old chicago,craft your own pizza on chicago thick crust medium 1 topping with provolone cheese slice,17,g,25,mg,870,g,40,g,19,g,8,g,0,g,2,g,2,g
+211,old chicago,craft your own pizza on chicago thick crust medium 1 topping with provolone cheese whole pizza,102,g,160,mg,5230,g,239,g,114,g,46,g,0,g,13,g,14,g
+212,old chicago,craft your own pizza on chicago thick crust medium 1 topping with red onions slice,14,g,20,mg,780,g,41,g,16,g,6,g,0,g,2,g,3,g
+213,old chicago,craft your own pizza on chicago thick crust medium 1 topping with red onions whole pizza,84,g,115,mg,4670,g,245,g,99,g,35,g,0,g,14,g,17,g
+214,old chicago,craft your own pizza on chicago thick crust medium 1 topping with red peppers slice,14,g,20,mg,780,g,41,g,16,g,6,g,0,g,2,g,3,g
+215,old chicago,craft your own pizza on chicago thick crust medium 1 topping with red peppers whole pizza,84,g,115,mg,4670,g,244,g,99,g,35,g,0,g,14,g,18,g
+216,old chicago,craft your own pizza on chicago thick crust medium 1 topping with ricotta cheese slice,16,g,25,mg,810,g,41,g,19,g,7,g,0,g,2,g,2,g
+217,old chicago,craft your own pizza on chicago thick crust medium 1 topping with ricotta cheese whole pizza,95,g,155,mg,4840,g,245,g,114,g,42,g,0,g,13,g,14,g
+218,old chicago,craft your own pizza on chicago thick crust medium 1 topping with roasted garlic slice,14,g,20,mg,780,g,40,g,16,g,6,g,0,g,2,g,2,g
+219,old chicago,craft your own pizza on chicago thick crust medium 1 topping with roasted garlic whole pizza,84,g,115,mg,4670,g,241,g,99,g,35,g,0,g,13,g,14,g
+220,old chicago,craft your own pizza on chicago thick crust medium 1 topping with roasted peppers slice,14,g,20,mg,820,g,40,g,16,g,6,g,0,g,2,g,3,g
+221,old chicago,craft your own pizza on chicago thick crust medium 1 topping with roasted peppers whole pizza,84,g,115,mg,4900,g,242,g,99,g,35,g,0,g,14,g,17,g
+222,old chicago,craft your own pizza on chicago thick crust medium 1 topping with roma tomatoes slice,14,g,20,mg,780,g,41,g,17,g,6,g,0,g,2,g,3,g
+223,old chicago,craft your own pizza on chicago thick crust medium 1 topping with roma tomatoes whole pizza,84,g,115,mg,4680,g,244,g,99,g,35,g,0,g,14,g,18,g
+224,old chicago,craft your own pizza on chicago thick crust medium 1 topping with salami slice,17,g,30,mg,920,g,40,g,18,g,7,g,0,g,2,g,2,g
+225,old chicago,craft your own pizza on chicago thick crust medium 1 topping with salami whole pizza,103,g,180,mg,5520,g,239,g,108,g,43,g,0,g,13,g,14,g
+226,old chicago,craft your own pizza on chicago thick crust medium 1 topping with seasoned ground beef slice,16,g,30,mg,820,g,40,g,20,g,7,g,0,g,2,g,3,g
+227,old chicago,craft your own pizza on chicago thick crust medium 1 topping with spinach slice,14,g,20,mg,790,g,40,g,17,g,6,g,0,g,2,g,2,g
+228,old chicago,craft your own pizza on chicago thick crust medium 1 topping with spinach whole pizza,84,g,115,mg,4710,g,240,g,99,g,35,g,0,g,14,g,14,g
+229,old chicago,craft your own pizza on chicago thick crust medium 1 topping with sun dried tomatoes slice,14,g,20,mg,780,g,41,g,17,g,6,g,0,g,2,g,3,g
+230,old chicago,craft your own pizza on chicago thick crust medium 1 topping with sun dried tomatoes whole pizza,84,g,115,mg,4690,g,243,g,99,g,35,g,0,g,14,g,17,g
+231,old chicago,craft your own pizza on chicago thick crust medium 1 topping with swiss cheese slice,17,g,30,mg,800,g,40,g,19,g,8,g,0,g,2,g,2,g
+232,old chicago,craft your own pizza on chicago thick crust medium 1 topping with swiss cheese whole pizza,102,g,170,mg,4810,g,239,g,116,g,46,g,0,g,13,g,14,g
+233,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings slice,14,g,20,mg,780,g,40,g,16,g,6,g,0,g,2,g,2,g
+234,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings whole pizza,84,g,115,mg,4670,g,239,g,98,g,35,g,0,g,13,g,14,g
+235,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with anaheim peppers slice,14,g,20,mg,780,g,40,g,16,g,6,g,0,g,2,g,3,g
+236,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with asiago cheese slice,16,g,25,mg,850,g,40,g,18,g,7,g,0,g,2,g,2,g
+237,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with avocado slice,16,g,20,mg,780,g,41,g,17,g,6,g,0,g,3,g,2,g
+238,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with avocado whole pizza,95,g,115,mg,4680,g,245,g,100,g,37,g,0,g,18,g,15,g
+239,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with black olives slice,15,g,20,mg,830,g,40,g,16,g,6,g,0,g,2,g,2,g
+240,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with bleu cheese slice,16,g,25,mg,870,g,40,g,18,g,7,g,0,g,2,g,2,g
+241,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with broccoli slice,14,g,20,mg,780,g,40,g,17,g,6,g,0,g,2,g,2,g
+242,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with broccoli whole pizza,84,g,115,mg,4690,g,242,g,99,g,35,g,0,g,14,g,15,g
+243,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with canadian bacon slice,15,g,30,mg,980,g,40,g,20,g,6,g,0,g,2,g,2,g
+244,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with cheddar cheese slice,16,g,25,mg,820,g,40,g,18,g,7,g,0,g,2,g,2,g
+245,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with feta cheese slice,15,g,25,mg,870,g,40,g,18,g,6,g,0,g,2,g,2,g
+246,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with fresh basil slice,14,g,20,mg,780,g,40,g,16,g,6,g,0,g,2,g,2,g
+247,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with fresh cilantro slice,14,g,20,mg,780,g,40,g,16,g,6,g,0,g,2,g,2,g
+248,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with goat cheese slice,16,g,25,mg,790,g,40,g,18,g,7,g,0,g,2,g,2,g
+249,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with green olives slice,15,g,20,mg,940,g,40,g,16,g,6,g,0,g,2,g,2,g
+250,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with green onions slice,14,g,20,mg,780,g,40,g,16,g,6,g,0,g,2,g,2,g
+251,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with green peppers slice,14,g,20,mg,780,g,40,g,16,g,6,g,0,g,2,g,3,g
+252,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with italian sausage slice,18,g,30,mg,900,g,40,g,19,g,7,g,0,g,2,g,3,g
+253,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with jalapenos slice,14,g,20,mg,1010,g,40,g,16,g,6,g,0,g,2,g,2,g
+254,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with jalapenos whole pizza,84,g,115,mg,6030,g,241,g,98,g,35,g,0,g,13,g,14,g
+255,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with mushrooms slice,14,g,20,mg,780,g,40,g,17,g,6,g,0,g,2,g,3,g
+256,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with mushrooms whole pizza,84,g,115,mg,4670,g,240,g,100,g,35,g,0,g,13,g,15,g
+257,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with parmesan cheese slice,16,g,25,mg,870,g,40,g,19,g,7,g,0,g,2,g,2,g
+258,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with peppered bacon slice,18,g,25,mg,970,g,41,g,19,g,7,g,0,g,2,g,3,g
+259,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with pepperoncini slice,14,g,20,mg,830,g,40,g,16,g,6,g,0,g,2,g,2,g
+260,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with pepperoni slice,18,g,30,mg,970,g,40,g,19,g,7,g,0,g,2,g,2,g
+261,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with pepperoni whole pizza,106,g,170,mg,5800,g,240,g,111,g,44,g,0,g,13,g,14,g
+262,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with pineapple slice,14,g,20,mg,780,g,43,g,16,g,6,g,0,g,2,g,5,g
+263,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with pineapple whole pizza,84,g,115,mg,4670,g,258,g,98,g,35,g,0,g,14,g,29,g
+264,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with red onions slice,14,g,20,mg,780,g,40,g,16,g,6,g,0,g,2,g,3,g
+265,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with red peppers slice,14,g,20,mg,780,g,40,g,16,g,6,g,0,g,2,g,3,g
+266,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with ricotta cheese slice,15,g,25,mg,800,g,41,g,18,g,7,g,0,g,2,g,2,g
+267,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with roasted garlic slice,14,g,20,mg,780,g,40,g,16,g,6,g,0,g,2,g,2,g
+268,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with roasted peppers slice,14,g,20,mg,800,g,40,g,16,g,6,g,0,g,2,g,3,g
+269,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with roma tomatoes slice,14,g,20,mg,780,g,40,g,16,g,6,g,0,g,2,g,3,g
+270,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with salami slice,16,g,25,mg,870,g,40,g,17,g,7,g,0,g,2,g,2,g
+271,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with salami whole pizza,96,g,160,mg,5230,g,239,g,104,g,41,g,0,g,13,g,14,g
+272,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with spinach slice,14,g,20,mg,780,g,40,g,17,g,6,g,0,g,2,g,2,g
+273,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with spinach whole pizza,84,g,115,mg,4700,g,240,g,99,g,35,g,0,g,13,g,14,g
+274,old chicago,craft your own pizza on chicago thick crust medium 2 or more toppings with swiss cheese slice,16,g,25,mg,790,g,40,g,18,g,7,g,0,g,2,g,2,g
+275,old chicago,craft your own pizza on tavern thin crust individual 1 topping piece,3,g,10,mg,160,g,6,g,3,g,2,g,0,g,0,g,1,g
+276,old chicago,craft your own pizza on tavern thin crust individual 1 topping whole pizza,27,g,80,mg,1430,g,58,g,30,g,15,g,0,g,2,g,8,g
+277,old chicago,craft your own pizza on tavern thin crust individual 1 topping with anaheim peppers piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+278,old chicago,craft your own pizza on tavern thin crust individual 1 topping with anaheim peppers whole pizza,27,g,80,mg,1440,g,61,g,31,g,15,g,0,g,2,g,9,g
+279,old chicago,craft your own pizza on tavern thin crust individual 1 topping with andouille sausage piece,6,g,15,mg,260,g,7,g,5,g,3,g,0,g,0,g,1,g
+280,old chicago,craft your own pizza on tavern thin crust individual 1 topping with artichoke hearts piece,3,g,10,mg,220,g,7,g,4,g,2,g,0,g,1,g,1,g
+281,old chicago,craft your own pizza on tavern thin crust individual 1 topping with artichoke hearts whole pizza,27,g,80,mg,1940,g,64,g,32,g,15,g,0,g,5,g,10,g
+282,old chicago,craft your own pizza on tavern thin crust individual 1 topping with asiago cheese piece,5,g,15,mg,210,g,7,g,4,g,3,g,0,g,0,g,1,g
+283,old chicago,craft your own pizza on tavern thin crust individual 1 topping with asiago cheese whole pizza,41,g,125,mg,1880,g,61,g,39,g,24,g,0,g,2,g,8,g
+284,old chicago,craft your own pizza on tavern thin crust individual 1 topping with avocado piece,4,g,10,mg,160,g,7,g,3,g,2,g,0,g,1,g,1,g
+285,old chicago,craft your own pizza on tavern thin crust individual 1 topping with avocado whole pizza,33,g,80,mg,1430,g,62,g,31,g,16,g,0,g,5,g,8,g
+286,old chicago,craft your own pizza on tavern thin crust individual 1 topping with black olives piece,4,g,10,mg,190,g,7,g,3,g,2,g,0,g,0,g,1,g
+287,old chicago,craft your own pizza on tavern thin crust individual 1 topping with black olives whole pizza,32,g,80,mg,1720,g,60,g,30,g,15,g,0,g,2,g,8,g
+288,old chicago,craft your own pizza on tavern thin crust individual 1 topping with bleu cheese piece,4,g,15,mg,220,g,6,g,4,g,3,g,0,g,0,g,1,g
+289,old chicago,craft your own pizza on tavern thin crust individual 1 topping with bleu cheese whole pizza,39,g,115,mg,2000,g,58,g,39,g,23,g,0,g,2,g,8,g
+290,old chicago,craft your own pizza on tavern thin crust individual 1 topping with broccoli piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+291,old chicago,craft your own pizza on tavern thin crust individual 1 topping with broccoli whole pizza,27,g,80,mg,1450,g,61,g,31,g,15,g,0,g,3,g,8,g
+292,old chicago,craft your own pizza on tavern thin crust individual 1 topping with bruschetta tomatoes piece,4,g,10,mg,200,g,7,g,3,g,2,g,0,g,0,g,1,g
+293,old chicago,craft your own pizza on tavern thin crust individual 1 topping with canadian bacon piece,4,g,15,mg,290,g,6,g,6,g,2,g,0,g,0,g,1,g
+294,old chicago,craft your own pizza on tavern thin crust individual 1 topping with canadian bacon whole pizza,32,g,135,mg,2650,g,58,g,51,g,17,g,0,g,2,g,8,g
+295,old chicago,craft your own pizza on tavern thin crust individual 1 topping with cheddar cheese piece,5,g,15,mg,190,g,6,g,4,g,3,g,0,g,0,g,1,g
+296,old chicago,craft your own pizza on tavern thin crust individual 1 topping with cheddar cheese whole pizza,41,g,120,mg,1700,g,58,g,40,g,23,g,0,g,2,g,8,g
+297,old chicago,craft your own pizza on tavern thin crust individual 1 topping with crimini mushrooms piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+298,old chicago,craft your own pizza on tavern thin crust individual 1 topping with feta cheese piece,4,g,10,mg,220,g,7,g,4,g,2,g,0,g,0,g,1,g
+299,old chicago,craft your own pizza on tavern thin crust individual 1 topping with feta cheese whole pizza,33,g,100,mg,1990,g,60,g,38,g,19,g,0,g,2,g,8,g
+300,old chicago,craft your own pizza on tavern thin crust individual 1 topping with fresh basil piece,3,g,10,mg,160,g,6,g,3,g,2,g,0,g,0,g,1,g
+301,old chicago,craft your own pizza on tavern thin crust individual 1 topping with fresh basil whole pizza,27,g,80,mg,1430,g,58,g,30,g,15,g,0,g,2,g,8,g
+302,old chicago,craft your own pizza on tavern thin crust individual 1 topping with fresh cilantro piece,3,g,10,mg,160,g,6,g,3,g,2,g,0,g,0,g,1,g
+303,old chicago,craft your own pizza on tavern thin crust individual 1 topping with fresh cilantro whole pizza,27,g,80,mg,1430,g,58,g,30,g,15,g,0,g,2,g,8,g
+304,old chicago,craft your own pizza on tavern thin crust individual 1 topping with goat cheese piece,4,g,15,mg,170,g,7,g,4,g,2,g,0,g,0,g,1,g
+305,old chicago,craft your own pizza on tavern thin crust individual 1 topping with goat cheese whole pizza,37,g,120,mg,1510,g,60,g,38,g,22,g,0,g,2,g,8,g
+306,old chicago,craft your own pizza on tavern thin crust individual 1 topping with green olives piece,4,g,10,mg,270,g,6,g,3,g,2,g,0,g,0,g,1,g
+307,old chicago,craft your own pizza on tavern thin crust individual 1 topping with green olives whole pizza,36,g,80,mg,2400,g,58,g,30,g,15,g,0,g,2,g,8,g
+308,old chicago,craft your own pizza on tavern thin crust individual 1 topping with green onions piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+309,old chicago,craft your own pizza on tavern thin crust individual 1 topping with green onions whole pizza,27,g,80,mg,1440,g,60,g,30,g,15,g,0,g,3,g,8,g
+310,old chicago,craft your own pizza on tavern thin crust individual 1 topping with green peppers piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+311,old chicago,craft your own pizza on tavern thin crust individual 1 topping with green peppers whole pizza,27,g,80,mg,1430,g,60,g,30,g,15,g,0,g,3,g,8,g
+312,old chicago,craft your own pizza on tavern thin crust individual 1 topping with italian sausage piece,6,g,15,mg,240,g,7,g,5,g,2,g,0,g,0,g,1,g
+313,old chicago,craft your own pizza on tavern thin crust individual 1 topping with italian sausage whole pizza,52,g,155,mg,2160,g,62,g,49,g,22,g,0,g,2,g,9,g
+314,old chicago,craft your own pizza on tavern thin crust individual 1 topping with jalapenos piece,3,g,10,mg,310,g,7,g,3,g,2,g,0,g,0,g,1,g
+315,old chicago,craft your own pizza on tavern thin crust individual 1 topping with jalapenos whole pizza,27,g,80,mg,2790,g,61,g,30,g,15,g,0,g,2,g,8,g
+316,old chicago,craft your own pizza on tavern thin crust individual 1 topping with mushrooms piece,3,g,10,mg,160,g,7,g,4,g,2,g,0,g,0,g,1,g
+317,old chicago,craft your own pizza on tavern thin crust individual 1 topping with mushrooms whole pizza,27,g,80,mg,1430,g,60,g,32,g,15,g,0,g,2,g,8,g
+318,old chicago,craft your own pizza on tavern thin crust individual 1 topping with parmesan cheese piece,4,g,10,mg,220,g,7,g,5,g,2,g,0,g,0,g,1,g
+319,old chicago,craft your own pizza on tavern thin crust individual 1 topping with parmesan cheese whole pizza,38,g,110,mg,2000,g,60,g,44,g,21,g,0,g,2,g,8,g
+320,old chicago,craft your own pizza on tavern thin crust individual 1 topping with pepper jack cheese piece,4,g,10,mg,180,g,6,g,4,g,2,g,0,g,0,g,1,g
+321,old chicago,craft your own pizza on tavern thin crust individual 1 topping with peppered bacon piece,5,g,15,mg,280,g,7,g,5,g,3,g,0,g,0,g,1,g
+322,old chicago,craft your own pizza on tavern thin crust individual 1 topping with peppered bacon whole pizza,49,g,125,mg,2550,g,63,g,46,g,23,g,0,g,3,g,10,g
+323,old chicago,craft your own pizza on tavern thin crust individual 1 topping with pepperoncini piece,3,g,10,mg,200,g,7,g,3,g,2,g,0,g,0,g,1,g
+324,old chicago,craft your own pizza on tavern thin crust individual 1 topping with pepperoncini whole pizza,27,g,80,mg,1760,g,60,g,30,g,15,g,0,g,3,g,8,g
+325,old chicago,craft your own pizza on tavern thin crust individual 1 topping with pepperoni piece,5,g,15,mg,260,g,7,g,5,g,3,g,0,g,0,g,1,g
+326,old chicago,craft your own pizza on tavern thin crust individual 1 topping with pepperoni whole pizza,46,g,125,mg,2370,g,60,g,41,g,23,g,0,g,2,g,8,g
+327,old chicago,craft your own pizza on tavern thin crust individual 1 topping with pineapple tidbits piece,3,g,10,mg,160,g,9,g,3,g,2,g,0,g,0,g,3,g
+328,old chicago,craft your own pizza on tavern thin crust individual 1 topping with provolone cheese piece,4,g,10,mg,200,g,6,g,5,g,3,g,0,g,0,g,1,g
+329,old chicago,craft your own pizza on tavern thin crust individual 1 topping with provolone cheese whole pizza,39,g,110,mg,1810,g,58,g,41,g,23,g,0,g,2,g,8,g
+330,old chicago,craft your own pizza on tavern thin crust individual 1 topping with red onions piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+331,old chicago,craft your own pizza on tavern thin crust individual 1 topping with red onions whole pizza,27,g,80,mg,1430,g,62,g,30,g,15,g,0,g,2,g,9,g
+332,old chicago,craft your own pizza on tavern thin crust individual 1 topping with red peppers piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+333,old chicago,craft your own pizza on tavern thin crust individual 1 topping with red peppers whole pizza,27,g,80,mg,1430,g,62,g,31,g,15,g,0,g,3,g,10,g
+334,old chicago,craft your own pizza on tavern thin crust individual 1 topping with ricotta cheese piece,4,g,10,mg,170,g,7,g,5,g,2,g,0,g,0,g,1,g
+335,old chicago,craft your own pizza on tavern thin crust individual 1 topping with ricotta cheese whole pizza,35,g,105,mg,1550,g,63,g,41,g,20,g,0,g,2,g,8,g
+336,old chicago,craft your own pizza on tavern thin crust individual 1 topping with roasted garlic piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+337,old chicago,craft your own pizza on tavern thin crust individual 1 topping with roasted garlic whole pizza,27,g,80,mg,1430,g,60,g,30,g,15,g,0,g,2,g,8,g
+338,old chicago,craft your own pizza on tavern thin crust individual 1 topping with roasted peppers piece,3,g,10,mg,180,g,7,g,3,g,2,g,0,g,0,g,1,g
+339,old chicago,craft your own pizza on tavern thin crust individual 1 topping with roasted peppers whole pizza,27,g,80,mg,1590,g,61,g,31,g,15,g,0,g,2,g,10,g
+340,old chicago,craft your own pizza on tavern thin crust individual 1 topping with roma tomatoes piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+341,old chicago,craft your own pizza on tavern thin crust individual 1 topping with roma tomatoes whole pizza,27,g,80,mg,1440,g,62,g,31,g,15,g,0,g,3,g,10,g
+342,old chicago,craft your own pizza on tavern thin crust individual 1 topping with salami piece,4,g,15,mg,220,g,6,g,4,g,2,g,0,g,0,g,1,g
+343,old chicago,craft your own pizza on tavern thin crust individual 1 topping with salami whole pizza,40,g,120,mg,1990,g,58,g,36,g,21,g,0,g,2,g,8,g
+344,old chicago,craft your own pizza on tavern thin crust individual 1 topping with seasoned ground beef piece,4,g,15,mg,180,g,7,g,5,g,2,g,0,g,0,g,1,g
+345,old chicago,craft your own pizza on tavern thin crust individual 1 topping with spinach piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+346,old chicago,craft your own pizza on tavern thin crust individual 1 topping with spinach whole pizza,27,g,80,mg,1460,g,59,g,31,g,15,g,0,g,3,g,8,g
+347,old chicago,craft your own pizza on tavern thin crust individual 1 topping with sun dried tomatoes piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+348,old chicago,craft your own pizza on tavern thin crust individual 1 topping with swiss cheese piece,4,g,15,mg,170,g,6,g,5,g,3,g,0,g,0,g,1,g
+349,old chicago,craft your own pizza on tavern thin crust individual 1 topping with swiss cheese whole pizza,39,g,115,mg,1520,g,58,g,42,g,23,g,0,g,2,g,8,g
+350,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings piece,3,g,10,mg,160,g,6,g,3,g,2,g,0,g,0,g,1,g
+351,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings whole pizza,27,g,80,mg,1430,g,58,g,30,g,15,g,0,g,2,g,8,g
+352,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings with asiago cheese piece,4,g,10,mg,180,g,7,g,4,g,2,g,0,g,0,g,1,g
+353,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings with avocado piece,4,g,10,mg,160,g,7,g,3,g,2,g,0,g,1,g,1,g
+354,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings with avocado whole pizza,33,g,80,mg,1430,g,62,g,31,g,16,g,0,g,5,g,8,g
+355,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings with black olives piece,3,g,10,mg,180,g,7,g,3,g,2,g,0,g,0,g,1,g
+356,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings with bleu cheese piece,4,g,10,mg,190,g,6,g,4,g,2,g,0,g,0,g,1,g
+357,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings with broccoli piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+358,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings with feta cheese piece,3,g,10,mg,190,g,7,g,4,g,2,g,0,g,0,g,1,g
+359,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings with fresh basil piece,3,g,10,mg,160,g,6,g,3,g,2,g,0,g,0,g,1,g
+360,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings with goat cheese piece,4,g,10,mg,160,g,7,g,4,g,2,g,0,g,0,g,1,g
+361,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings with green olives piece,3,g,10,mg,210,g,6,g,3,g,2,g,0,g,0,g,1,g
+362,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings with green onions piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+363,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings with green peppers piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+364,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings with jalapenos piece,3,g,10,mg,240,g,7,g,3,g,2,g,0,g,0,g,1,g
+365,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings with mushrooms piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+366,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings with pepperoncini piece,3,g,10,mg,180,g,7,g,3,g,2,g,0,g,0,g,1,g
+367,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings with pepperoni piece,4,g,10,mg,220,g,7,g,4,g,2,g,0,g,0,g,1,g
+368,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings with pineapple piece,3,g,10,mg,160,g,8,g,3,g,2,g,0,g,0,g,2,g
+369,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings with red onions piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+370,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings with red peppers piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+371,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings with roma tomatoes piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+372,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings with salami piece,4,g,10,mg,190,g,6,g,4,g,2,g,0,g,0,g,1,g
+373,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings with salami whole pizza,33,g,100,mg,1710,g,58,g,33,g,18,g,0,g,2,g,8,g
+374,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings with spinach piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+375,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings with spinach whole pizza,27,g,80,mg,1440,g,59,g,30,g,15,g,0,g,2,g,8,g
+376,old chicago,craft your own pizza on tavern thin crust individual 2 or more toppings with swiss cheese piece,4,g,10,mg,160,g,6,g,4,g,2,g,0,g,0,g,1,g
+377,old chicago,craft your own pizza on tavern thin crust large 1 or more topping piece,3,g,10,mg,160,g,6,g,3,g,2,g,0,g,0,g,1,g
+378,old chicago,craft your own pizza on tavern thin crust large 1 or more topping whole pizza,83,g,220,mg,4000,g,162,g,83,g,43,g,0,g,5,g,22,g
+379,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with anaheim peppers piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+380,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with andouille sausage piece,6,g,15,mg,250,g,7,g,5,g,3,g,0,g,0,g,1,g
+381,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with artichoke hearts piece,3,g,10,mg,200,g,7,g,3,g,2,g,0,g,0,g,1,g
+382,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with asiago cheese piece,4,g,10,mg,200,g,7,g,4,g,2,g,0,g,0,g,1,g
+383,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with asiago cheese whole pizza,110,g,310,mg,4900,g,168,g,101,g,61,g,0,g,5,g,22,g
+384,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with avocado piece,4,g,10,mg,160,g,7,g,3,g,2,g,0,g,1,g,1,g
+385,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with avocado whole pizza,100,g,220,mg,4000,g,172,g,85,g,46,g,0,g,13,g,23,g
+386,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with black olives piece,4,g,10,mg,180,g,7,g,3,g,2,g,0,g,0,g,1,g
+387,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with black olives whole pizza,93,g,220,mg,4560,g,166,g,83,g,43,g,0,g,5,g,22,g
+388,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with bleu cheese piece,4,g,10,mg,210,g,6,g,4,g,2,g,0,g,0,g,1,g
+389,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with bleu cheese whole pizza,107,g,295,mg,5140,g,162,g,101,g,58,g,0,g,5,g,22,g
+390,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with broccoli piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+391,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with broccoli whole pizza,83,g,220,mg,4030,g,168,g,86,g,43,g,0,g,8,g,24,g
+392,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with bruschetta tomatoes piece,4,g,10,mg,190,g,7,g,3,g,2,g,0,g,0,g,1,g
+393,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with canadian bacon piece,4,g,15,mg,270,g,6,g,5,g,2,g,0,g,0,g,1,g
+394,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with cheddar cheese piece,4,g,10,mg,180,g,6,g,4,g,2,g,0,g,0,g,1,g
+395,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with crimini mushrooms piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+396,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with feta cheese piece,4,g,10,mg,200,g,7,g,4,g,2,g,0,g,0,g,1,g
+397,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with feta cheese whole pizza,95,g,265,mg,5110,g,165,g,98,g,51,g,0,g,5,g,22,g
+398,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with fresh basil piece,3,g,10,mg,160,g,6,g,3,g,2,g,0,g,0,g,1,g
+399,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with fresh basil whole pizza,83,g,220,mg,4000,g,162,g,83,g,43,g,0,g,6,g,22,g
+400,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with fresh cilantro piece,3,g,10,mg,160,g,6,g,3,g,2,g,0,g,0,g,1,g
+401,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with goat cheese piece,4,g,10,mg,170,g,7,g,4,g,2,g,0,g,0,g,1,g
+402,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with goat cheese whole pizza,103,g,300,mg,4160,g,166,g,99,g,57,g,0,g,5,g,22,g
+403,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with green olives piece,4,g,10,mg,240,g,6,g,3,g,2,g,0,g,0,g,1,g
+404,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with green olives whole pizza,100,g,220,mg,5920,g,162,g,83,g,43,g,0,g,5,g,22,g
+405,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with green onions piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+406,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with green onions whole pizza,83,g,220,mg,4000,g,165,g,84,g,43,g,0,g,7,g,23,g
+407,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with green peppers piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+408,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with green peppers whole pizza,83,g,220,mg,4000,g,165,g,84,g,43,g,0,g,7,g,24,g
+409,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with italian sausage piece,5,g,15,mg,220,g,7,g,5,g,2,g,0,g,0,g,1,g
+410,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with jalapenos piece,3,g,10,mg,270,g,7,g,3,g,2,g,0,g,0,g,1,g
+411,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with jalapenos whole pizza,83,g,220,mg,6720,g,167,g,83,g,43,g,0,g,5,g,22,g
+412,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with mushrooms piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+413,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with mushrooms whole pizza,83,g,220,mg,4000,g,165,g,86,g,43,g,0,g,7,g,24,g
+414,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with parmesan cheese piece,4,g,10,mg,210,g,7,g,4,g,2,g,0,g,0,g,1,g
+415,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with pepper jack cheese piece,4,g,10,mg,170,g,6,g,4,g,2,g,0,g,0,g,1,g
+416,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with peppered bacon piece,5,g,10,mg,250,g,7,g,5,g,2,g,0,g,0,g,1,g
+417,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with pepperoncini piece,3,g,10,mg,190,g,7,g,3,g,2,g,0,g,0,g,1,g
+418,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with pepperoncini whole pizza,83,g,220,mg,4660,g,166,g,83,g,43,g,0,g,7,g,22,g
+419,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with pepperoni piece,5,g,15,mg,250,g,7,g,4,g,2,g,0,g,0,g,1,g
+420,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with pepperoni whole pizza,128,g,330,mg,6250,g,165,g,109,g,62,g,0,g,5,g,22,g
+421,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with pineapple piece,3,g,10,mg,160,g,8,g,3,g,2,g,0,g,0,g,2,g
+422,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with pineapple whole pizza,83,g,220,mg,4000,g,200,g,83,g,43,g,0,g,7,g,52,g
+423,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with provolone cheese piece,4,g,10,mg,190,g,6,g,4,g,2,g,0,g,0,g,1,g
+424,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with red onions piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+425,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with red onions whole pizza,83,g,220,mg,4000,g,170,g,84,g,43,g,0,g,7,g,25,g
+426,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with red peppers piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+427,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with red peppers whole pizza,83,g,220,mg,4000,g,168,g,84,g,43,g,0,g,8,g,27,g
+428,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with ricotta cheese piece,4,g,10,mg,170,g,7,g,4,g,2,g,0,g,0,g,1,g
+429,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with roasted garlic piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+430,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with roasted peppers piece,3,g,10,mg,170,g,7,g,3,g,2,g,0,g,0,g,1,g
+431,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with roma tomatoes piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+432,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with roma tomatoes whole pizza,83,g,220,mg,4010,g,169,g,85,g,43,g,0,g,8,g,27,g
+433,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with salami piece,4,g,10,mg,210,g,6,g,4,g,2,g,0,g,0,g,1,g
+434,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with salami whole pizza,108,g,305,mg,5120,g,162,g,95,g,54,g,0,g,5,g,22,g
+435,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with spinach piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+436,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with spinach whole pizza,83,g,220,mg,4040,g,164,g,85,g,43,g,0,g,7,g,22,g
+437,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with sun dried tomatoes piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+438,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with swiss cheese piece,4,g,10,mg,170,g,6,g,4,g,2,g,0,g,0,g,1,g
+439,old chicago,craft your own pizza on tavern thin crust large 1 or more topping with swiss cheese whole pizza,107,g,295,mg,4180,g,162,g,107,g,58,g,0,g,5,g,22,g
+440,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings piece,3,g,10,mg,160,g,6,g,3,g,2,g,0,g,0,g,1,g
+441,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings whole pizza,83,g,220,mg,4000,g,162,g,83,g,43,g,0,g,5,g,22,g
+442,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with anaheim peppers piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+443,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with andouille sausage piece,6,g,15,mg,230,g,7,g,5,g,3,g,0,g,0,g,1,g
+444,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with artichoke hearts piece,3,g,10,mg,190,g,7,g,3,g,2,g,0,g,0,g,1,g
+445,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with asiago cheese piece,4,g,10,mg,190,g,7,g,4,g,2,g,0,g,0,g,1,g
+446,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with avocado piece,4,g,10,mg,160,g,7,g,3,g,2,g,0,g,1,g,1,g
+447,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with avocado whole pizza,100,g,220,mg,4000,g,172,g,85,g,46,g,0,g,13,g,23,g
+448,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with black olives piece,4,g,10,mg,180,g,7,g,3,g,2,g,0,g,0,g,1,g
+449,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with black olives whole pizza,91,g,220,mg,4420,g,165,g,83,g,43,g,0,g,5,g,22,g
+450,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with bleu cheese piece,4,g,10,mg,190,g,6,g,4,g,2,g,0,g,0,g,1,g
+451,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with bleu cheese whole pizza,101,g,275,mg,4850,g,162,g,96,g,54,g,0,g,5,g,22,g
+452,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with broccoli piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+453,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with broccoli whole pizza,83,g,220,mg,4020,g,166,g,85,g,43,g,0,g,7,g,23,g
+454,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with canadian bacon piece,4,g,15,mg,260,g,6,g,5,g,2,g,0,g,0,g,1,g
+455,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with cheddar cheese piece,4,g,10,mg,180,g,6,g,4,g,2,g,0,g,0,g,1,g
+456,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with crimini mushrooms piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+457,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with feta cheese piece,4,g,10,mg,190,g,7,g,4,g,2,g,0,g,0,g,1,g
+458,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with feta cheese whole pizza,92,g,250,mg,4830,g,164,g,94,g,49,g,0,g,5,g,22,g
+459,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with fresh basil piece,3,g,10,mg,160,g,6,g,3,g,2,g,0,g,0,g,1,g
+460,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with fresh basil whole pizza,83,g,220,mg,4000,g,162,g,83,g,43,g,0,g,6,g,22,g
+461,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with fresh cilantro piece,3,g,10,mg,160,g,6,g,3,g,2,g,0,g,0,g,1,g
+462,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with goat cheese piece,4,g,10,mg,170,g,7,g,4,g,2,g,0,g,0,g,1,g
+463,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with goat cheese whole pizza,98,g,280,mg,4120,g,165,g,95,g,54,g,0,g,5,g,22,g
+464,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with green olives piece,4,g,10,mg,220,g,6,g,3,g,2,g,0,g,0,g,1,g
+465,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with green olives whole pizza,96,g,220,mg,5440,g,162,g,83,g,43,g,0,g,5,g,22,g
+466,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with green onions piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+467,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with green onions whole pizza,83,g,220,mg,4000,g,164,g,84,g,43,g,0,g,6,g,23,g
+468,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with green peppers piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+469,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with italian sausage piece,5,g,15,mg,200,g,7,g,4,g,2,g,0,g,0,g,1,g
+470,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with jalapenos piece,3,g,10,mg,240,g,7,g,3,g,2,g,0,g,0,g,1,g
+471,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with jalapenos whole pizza,83,g,220,mg,6040,g,166,g,83,g,43,g,0,g,5,g,22,g
+472,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with mushrooms piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+473,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with mushrooms whole pizza,83,g,220,mg,4000,g,164,g,85,g,43,g,0,g,6,g,23,g
+474,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with parmesan cheese piece,4,g,10,mg,190,g,7,g,4,g,2,g,0,g,0,g,1,g
+475,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with pepper jack cheese piece,4,g,10,mg,170,g,6,g,4,g,2,g,0,g,0,g,1,g
+476,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with peppered bacon piece,5,g,10,mg,230,g,7,g,4,g,2,g,0,g,0,g,1,g
+477,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with pepperoncini piece,3,g,10,mg,180,g,7,g,3,g,2,g,0,g,0,g,1,g
+478,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with pepperoncini whole pizza,83,g,220,mg,4490,g,165,g,83,g,43,g,0,g,7,g,22,g
+479,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with pepperoni piece,5,g,10,mg,220,g,7,g,4,g,2,g,0,g,0,g,1,g
+480,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with pepperoni whole pizza,113,g,295,mg,5500,g,164,g,100,g,56,g,0,g,5,g,22,g
+481,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with pineapple piece,3,g,10,mg,160,g,8,g,3,g,2,g,0,g,0,g,2,g
+482,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with pineapple whole pizza,83,g,220,mg,4000,g,190,g,83,g,43,g,0,g,7,g,44,g
+483,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with provolone cheese piece,4,g,10,mg,180,g,6,g,4,g,2,g,0,g,0,g,1,g
+484,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with red onions piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+485,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with red onions whole pizza,83,g,220,mg,4000,g,168,g,84,g,43,g,0,g,6,g,25,g
+486,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with red peppers piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+487,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with red peppers whole pizza,83,g,220,mg,4000,g,167,g,84,g,43,g,0,g,7,g,25,g
+488,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with ricotta cheese piece,4,g,10,mg,170,g,7,g,4,g,2,g,0,g,0,g,1,g
+489,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with roasted garlic piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+490,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with roasted peppers piece,3,g,10,mg,170,g,7,g,3,g,2,g,0,g,0,g,1,g
+491,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with roma tomatoes piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+492,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with salami piece,4,g,10,mg,190,g,6,g,4,g,2,g,0,g,0,g,1,g
+493,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with salami whole pizza,102,g,285,mg,4840,g,162,g,92,g,52,g,0,g,5,g,22,g
+494,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with spinach piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+495,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with spinach whole pizza,83,g,220,mg,4030,g,163,g,84,g,43,g,0,g,6,g,22,g
+496,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with sun dried tomatoes piece,3,g,10,mg,160,g,7,g,3,g,2,g,0,g,0,g,1,g
+497,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with swiss cheese piece,4,g,10,mg,170,g,6,g,4,g,2,g,0,g,0,g,1,g
+498,old chicago,craft your own pizza on tavern thin crust large 2 or more toppings with swiss cheese whole pizza,101,g,275,mg,4130,g,162,g,101,g,54,g,0,g,5,g,22,g
+499,old chicago,crafted beer burger,35,g,140,mg,1610,g,62,g,46,g,15,g,0,g,2,g,11,g
+500,old chicago,crafted beer burger with substitute a gluten free bun,44,g,145,mg,1940,g,100,g,50,g,17,g,0,g,7,g,14,g
+501,old chicago,cranberry juice,0,g,0,mg,25,g,26,g,0,g,0,g,0,g,0,g,26,g
+502,old chicago,crispy bacon jalapeno macaroni and cheese,81,g,235,mg,3290,g,66,g,50,g,45,g,0,g,4,g,10,g
+503,old chicago,crispy bacon jalapeno macaroni and cheese with side of garlic toast,90,g,245,mg,3610,g,86,g,54,g,49,g,0,g,4,g,10,g
+504,old chicago,crispy chicken salad,23,g,80,mg,1580,g,41,g,31,g,7,g,0,g,6,g,7,g
+505,old chicago,crispy chicken salad with buffalo sauce,26,g,90,mg,2150,g,42,g,31,g,8,g,0,g,6,g,7,g
+506,old chicago,crispy chicken salad with ranch dressing,48,g,95,mg,1930,g,46,g,34,g,12,g,0,g,6,g,9,g
+507,old chicago,crispy chicken salad with side of garlic toast,32,g,90,mg,1900,g,61,g,35,g,11,g,0,g,6,g,7,g
+508,old chicago,crispy chicken salad half,11,g,40,mg,790,g,21,g,16,g,4,g,0,g,4,g,4,g
+509,old chicago,crispy chicken salad half with buffalo sauce,13,g,45,mg,1080,g,22,g,16,g,4,g,0,g,4,g,4,g
+510,old chicago,crispy chicken salad half with ranch dressing,26,g,50,mg,1000,g,24,g,17,g,7,g,0,g,4,g,5,g
+511,old chicago,crispy chicken salad half with side of garlic toast,20,g,50,mg,1110,g,41,g,20,g,8,g,0,g,4,g,4,g
+512,old chicago,diet pepsi,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+513,old chicago,double bacon double cheddar prime burger,73,g,220,mg,2670,g,50,g,68,g,28,g,0,g,3,g,10,g
+514,old chicago,double deckeroni pizza on ale crust individual slice,12,g,30,mg,760,g,29,g,14,g,6,g,0,g,1,g,1,g
+515,old chicago,double deckeroni pizza on ale crust individual whole pizza,47,g,120,mg,3060,g,114,g,58,g,23,g,0,g,5,g,4,g
+516,old chicago,double deckeroni pizza on ale crust large slice,17,g,40,mg,940,g,29,g,19,g,8,g,0,g,1,g,1,g
+517,old chicago,double deckeroni pizza on ale crust large whole pizza,133,g,335,mg,7500,g,236,g,150,g,66,g,0,g,10,g,10,g
+518,old chicago,double deckeroni pizza on chicago thick crust individual slice,16,g,30,mg,880,g,23,g,14,g,7,g,0,g,1,g,1,g
+519,old chicago,double deckeroni pizza on chicago thick crust individual whole pizza,63,g,115,mg,3540,g,92,g,56,g,27,g,0,g,5,g,6,g
+520,old chicago,double deckeroni pizza on chicago thick crust large slice,25,g,40,mg,1330,g,42,g,22,g,10,g,0,g,2,g,2,g
+521,old chicago,double deckeroni pizza on chicago thick crust large whole pizza,198,g,320,mg,10620,g,333,g,174,g,81,g,0,g,18,g,20,g
+522,old chicago,double deckeroni pizza on chicago thick crust medium slice,22,g,40,mg,1330,g,41,g,21,g,9,g,0,g,2,g,2,g
+523,old chicago,double deckeroni pizza on chicago thick crust medium whole pizza,132,g,240,mg,7970,g,243,g,123,g,55,g,0,g,13,g,14,g
+524,old chicago,double deckeroni pizza on tavern thin crust individual piece,7,g,20,mg,390,g,7,g,5,g,3,g,0,g,0,g,1,g
+525,old chicago,double deckeroni pizza on tavern thin crust individual whole pizza,59,g,160,mg,3490,g,62,g,49,g,29,g,0,g,2,g,8,g
+526,old chicago,double deckeroni pizza on tavern thin crust large piece,6,g,15,mg,330,g,7,g,5,g,3,g,0,g,0,g,1,g
+527,old chicago,double deckeroni pizza on tavern thin crust large whole pizza,154,g,400,mg,8300,g,169,g,126,g,75,g,0,g,6,g,23,g
+528,old chicago,dr pepper,0,g,0,mg,60,g,45,g,0,g,0,g,0,g,0,g,45,g
+529,old chicago,firehouse boneless wings short,20,g,75,mg,2330,g,37,g,27,g,4,g,0,g,3,g,2,g
+530,old chicago,firehouse boneless wings short with side of bleu cheese dressing,41,g,90,mg,2700,g,39,g,28,g,8,g,0,g,3,g,4,g
+531,old chicago,firehouse boneless wings short with side of ranch dressing,35,g,80,mg,2540,g,40,g,28,g,7,g,0,g,3,g,4,g
+532,old chicago,firehouse boneless wings tall,39,g,150,mg,4640,g,74,g,53,g,7,g,0,g,5,g,4,g
+533,old chicago,firehouse boneless wings tall with side of bleu cheese dressing,74,g,175,mg,5260,g,76,g,55,g,15,g,0,g,5,g,7,g
+534,old chicago,firehouse boneless wings tall with side of ranch dressing,64,g,160,mg,4990,g,79,g,55,g,12,g,0,g,5,g,7,g
+535,old chicago,firehouse wings short,30,g,220,mg,790,g,2,g,51,g,8,g,0,g,1,g,1,g
+536,old chicago,firehouse wings short with side of bleu cheese dressing,51,g,235,mg,1170,g,4,g,52,g,12,g,0,g,1,g,2,g
+537,old chicago,firehouse wings short with side of ranch dressing,45,g,225,mg,1000,g,5,g,52,g,11,g,0,g,1,g,2,g
+538,old chicago,firehouse wings tall,60,g,435,mg,1570,g,4,g,102,g,15,g,0,g,1,g,1,g
+539,old chicago,firehouse wings tall with side of bleu cheese dressing,95,g,460,mg,2190,g,6,g,104,g,23,g,0,g,1,g,3,g
+540,old chicago,firehouse wings tall with side of ranch dressing,85,g,450,mg,1920,g,9,g,104,g,20,g,0,g,1,g,3,g
+541,old chicago,french fries,12,g,0,mg,780,g,38,g,4,g,3,g,0,g,4,g,0,g
+542,old chicago,fried calamari,12,g,265,mg,2510,g,78,g,30,g,2,g,0,g,6,g,1,g
+543,old chicago,fried calamari with spicy marinara sauce with parsley and asiago cheese garnish,17,g,265,mg,2770,g,83,g,31,g,3,g,0,g,7,g,4,g
+544,old chicago,fried spicy pickles,6,g,0,mg,2650,g,78,g,13,g,1,g,0,g,6,g,1,g
+545,old chicago,fried spicy pickles with red pepper mayonnaise,29,g,10,mg,2930,g,79,g,13,g,5,g,0,g,6,g,2,g
+546,old chicago,garden salad,5,g,0,mg,90,g,12,g,4,g,0,g,0,g,2,g,3,g
+547,old chicago,garden salad with balsamic vinaigrette,29,g,0,mg,200,g,16,g,4,g,4,g,0,g,2,g,6,g
+548,old chicago,garden salad with blue cheese dressing,26,g,15,mg,470,g,13,g,5,g,5,g,0,g,2,g,4,g
+549,old chicago,garden salad with caesar dressing,32,g,15,mg,260,g,13,g,5,g,5,g,0,g,2,g,3,g
+550,old chicago,garden salad with cilantro lime dressing,17,g,5,mg,260,g,15,g,5,g,3,g,0,g,3,g,4,g
+551,old chicago,garden salad with creamy herb dressing,29,g,0,mg,510,g,18,g,4,g,4,g,0,g,2,g,9,g
+552,old chicago,garden salad with fat free italian dressing,5,g,0,mg,660,g,18,g,4,g,0,g,0,g,2,g,6,g
+553,old chicago,garden salad with greek dressing,31,g,0,mg,250,g,15,g,4,g,4,g,0,g,2,g,5,g
+554,old chicago,garden salad with honey mustard dressing,26,g,15,mg,290,g,24,g,4,g,3,g,0,g,2,g,13,g
+555,old chicago,garden salad with lemon vinaigrette,32,g,0,mg,320,g,13,g,4,g,5,g,0,g,2,g,3,g
+556,old chicago,garden salad with ranch dressing,20,g,10,mg,300,g,15,g,5,g,3,g,0,g,2,g,4,g
+557,old chicago,gluten sensitive applewood bbq wings short,28,g,215,mg,440,g,13,g,51,g,7,g,0,g,1,g,11,g
+558,old chicago,gluten sensitive applewood bbq wings short with side of bleu cheese dressing,49,g,230,mg,820,g,14,g,53,g,12,g,0,g,1,g,12,g
+559,old chicago,gluten sensitive applewood bbq wings short with side of ranch dressing,43,g,220,mg,650,g,16,g,53,g,10,g,0,g,1,g,12,g
+560,old chicago,gluten sensitive applewood bbq wings tall,57,g,425,mg,770,g,19,g,102,g,14,g,0,g,1,g,16,g
+561,old chicago,gluten sensitive applewood bbq wings tall with side of bleu cheese dressing,92,g,450,mg,1390,g,21,g,105,g,22,g,0,g,1,g,19,g
+562,old chicago,gluten sensitive applewood bbq wings tall with side of ranch dressing,82,g,440,mg,1120,g,24,g,105,g,19,g,0,g,1,g,19,g
+563,old chicago,gluten sensitive artichoke dip,55,g,170,mg,1100,g,18,g,15,g,32,g,2,g,5,g,9,g
+564,old chicago,gluten sensitive artichoke dip with corn tortilla chips,59,g,170,mg,1230,g,61,g,20,g,32,g,2,g,8,g,9,g
+565,old chicago,gluten sensitive bbq bacon cheddar burger bunless,38,g,160,mg,1410,g,18,g,46,g,16,g,0,g,2,g,15,g
+566,old chicago,gluten sensitive bbq bacon cheddar burger bunless with substitute a gluten free bun,47,g,165,mg,1740,g,56,g,50,g,17,g,0,g,7,g,18,g
+567,old chicago,gluten sensitive california chicken sandwich bunless,19,g,120,mg,550,g,10,g,48,g,6,g,0,g,4,g,3,g
+568,old chicago,gluten sensitive california chicken sandwich bunless with substitute a gluten free bun,28,g,125,mg,880,g,48,g,52,g,8,g,0,g,9,g,6,g
+569,old chicago,gluten sensitive classic cheddar burger bunless,43,g,150,mg,900,g,3,g,41,g,15,g,0,g,1,g,2,g
+570,old chicago,gluten sensitive classic cheddar burger bunless with substitute a gluten free bun,52,g,155,mg,1230,g,41,g,45,g,17,g,0,g,6,g,5,g
+571,old chicago,gluten sensitive firehouse wings short,30,g,220,mg,790,g,2,g,51,g,8,g,0,g,1,g,1,g
+572,old chicago,gluten sensitive firehouse wings short with side of bleu cheese dressing,51,g,235,mg,1170,g,4,g,52,g,12,g,0,g,1,g,2,g
+573,old chicago,gluten sensitive firehouse wings short with side of ranch dressing,45,g,225,mg,1000,g,5,g,52,g,11,g,0,g,1,g,2,g
+574,old chicago,gluten sensitive firehouse wings tall,60,g,435,mg,1570,g,4,g,102,g,15,g,0,g,1,g,1,g
+575,old chicago,gluten sensitive firehouse wings tall with side of bleu cheese dressing,95,g,460,mg,2190,g,6,g,104,g,23,g,0,g,1,g,3,g
+576,old chicago,gluten sensitive firehouse wings tall with side of ranch dressing,85,g,450,mg,1920,g,9,g,104,g,20,g,0,g,1,g,3,g
+577,old chicago,gluten sensitive garden salad,4,g,0,mg,15,g,6,g,3,g,0,g,0,g,2,g,3,g
+578,old chicago,gluten sensitive garden salad with balsamic vinaigrette,32,g,0,mg,95,g,8,g,3,g,4,g,0,g,3,g,5,g
+579,old chicago,gluten sensitive garden salad with bleu cheese dressing,25,g,15,mg,390,g,7,g,4,g,5,g,0,g,2,g,4,g
+580,old chicago,gluten sensitive garden salad with creamy herb dressing,28,g,0,mg,440,g,12,g,3,g,4,g,0,g,2,g,9,g
+581,old chicago,gluten sensitive garden salad with fat free italian dressing,4,g,0,mg,590,g,12,g,3,g,0,g,0,g,2,g,6,g
+582,old chicago,gluten sensitive garden salad with lemon vinaigrette,31,g,0,mg,240,g,8,g,3,g,5,g,0,g,2,g,3,g
+583,old chicago,gluten sensitive garden salad with ranch dressing,19,g,10,mg,230,g,9,g,4,g,3,g,0,g,2,g,4,g
+584,old chicago,gluten sensitive grilled chicken caesar salad,43,g,125,mg,700,g,9,g,50,g,10,g,0,g,3,g,2,g
+585,old chicago,gluten sensitive grilled chicken caesar salad half,32,g,70,mg,470,g,6,g,28,g,8,g,0,g,2,g,1,g
+586,old chicago,gluten sensitive italian chefs salad,34,g,325,mg,2450,g,13,g,44,g,14,g,0,g,4,g,5,g
+587,old chicago,gluten sensitive italian chefs salad with creamy herb dressing,66,g,325,mg,3010,g,21,g,44,g,19,g,0,g,4,g,13,g
+588,old chicago,gluten sensitive italian chefs salad half,19,g,270,mg,1200,g,7,g,26,g,8,g,0,g,2,g,3,g
+589,old chicago,gluten sensitive italian chefs salad half with creamy herb dressing,35,g,270,mg,1480,g,11,g,26,g,10,g,0,g,2,g,7,g
+590,old chicago,gluten sensitive italian garlic and herb wings short,26,g,225,mg,360,g,3,g,55,g,8,g,0,g,1,g,1,g
+591,old chicago,gluten sensitive italian garlic and herb wings short with side of bleu cheese dressing,47,g,240,mg,730,g,4,g,56,g,12,g,0,g,1,g,2,g
+592,old chicago,gluten sensitive italian garlic and herb wings short with side of ranch dressing,41,g,230,mg,570,g,6,g,56,g,11,g,0,g,1,g,2,g
+593,old chicago,gluten sensitive italian garlic and herb wings tall,50,g,445,mg,640,g,4,g,108,g,15,g,0,g,1,g,1,g
+594,old chicago,gluten sensitive italian garlic and herb wings tall with side of bleu cheese dressing,85,g,470,mg,1260,g,6,g,110,g,23,g,0,g,1,g,3,g
+595,old chicago,gluten sensitive italian garlic and herb wings tall with side of ranch dressing,75,g,455,mg,990,g,9,g,110,g,20,g,0,g,1,g,3,g
+596,old chicago,gluten sensitive jamaican jerk dry rub wings short,24,g,215,mg,450,g,2,g,52,g,6,g,0,g,1,g,1,g
+597,old chicago,gluten sensitive jamaican jerk dry rub wings short with side of bleu cheese dressing,45,g,230,mg,830,g,4,g,53,g,11,g,0,g,1,g,2,g
+598,old chicago,gluten sensitive jamaican jerk dry rub wings short with side of ranch dressing,39,g,225,mg,660,g,5,g,53,g,9,g,0,g,1,g,2,g
+599,old chicago,gluten sensitive jamaican jerk dry rub wings tall,47,g,430,mg,890,g,4,g,104,g,13,g,0,g,2,g,1,g
+600,old chicago,gluten sensitive jamaican jerk dry rub wings tall with side of bleu cheese dressing,82,g,455,mg,1520,g,7,g,106,g,20,g,0,g,2,g,3,g
+601,old chicago,gluten sensitive jamaican jerk dry rub wings tall with side of ranch dressing,72,g,445,mg,1240,g,9,g,106,g,18,g,0,g,2,g,3,g
+602,old chicago,gluten sensitive nachos grande 1 order,66,g,185,mg,1700,g,117,g,59,g,34,g,0,g,13,g,8,g
+603,old chicago,gluten sensitive nachos grande 1 serving,16,g,45,mg,430,g,29,g,15,g,9,g,0,g,3,g,2,g
+604,old chicago,gluten sensitive nachos grande with beef 1 order,80,g,255,mg,1990,g,119,g,80,g,40,g,0,g,13,g,10,g
+605,old chicago,gluten sensitive nachos grande with beef 1 serving,20,g,65,mg,500,g,30,g,20,g,10,g,0,g,3,g,2,g
+606,old chicago,gluten sensitive nachos grande with beef with salsa with cilantro garnish 1 order,80,g,255,mg,3200,g,133,g,80,g,40,g,0,g,13,g,16,g
+607,old chicago,gluten sensitive nachos grande with beef with salsa with cilantro garnish 1 serving,20,g,65,mg,800,g,33,g,20,g,10,g,0,g,3,g,4,g
+608,old chicago,gluten sensitive nachos grande with chicken 1 order,70,g,255,mg,1950,g,119,g,86,g,35,g,0,g,13,g,9,g
+609,old chicago,gluten sensitive nachos grande with chicken 1 serving,18,g,65,mg,490,g,30,g,21,g,9,g,0,g,3,g,2,g
+610,old chicago,gluten sensitive nachos grande with chicken with salsa with cilantro garnish 1 order,70,g,255,mg,3160,g,133,g,86,g,35,g,0,g,13,g,16,g
+611,old chicago,gluten sensitive nachos grande with chicken with salsa with cilantro garnish 1 serving,18,g,65,mg,790,g,33,g,21,g,9,g,0,g,3,g,4,g
+612,old chicago,gluten sensitive nachos grande with salsa with cilantro garnish 1 order,66,g,185,mg,2910,g,131,g,59,g,34,g,0,g,13,g,15,g
+613,old chicago,gluten sensitive nachos grande with salsa with cilantro garnish 1 serving,16,g,45,mg,730,g,33,g,15,g,9,g,0,g,3,g,4,g
+614,old chicago,gluten sensitive old chicago chopped salad,26,g,110,mg,1080,g,18,g,42,g,10,g,0,g,8,g,7,g
+615,old chicago,gluten sensitive old chicago chopped salad with creamy herb dressing,58,g,110,mg,1640,g,26,g,42,g,15,g,0,g,8,g,15,g
+616,old chicago,gluten sensitive old chicago chopped salad half,17,g,65,mg,710,g,12,g,24,g,7,g,0,g,5,g,5,g
+617,old chicago,gluten sensitive old chicago chopped salad half with creamy herb dressing,41,g,65,mg,1130,g,18,g,24,g,10,g,0,g,5,g,11,g
+618,old chicago,gluten sensitive original buffalo wings short,32,g,220,mg,810,g,2,g,51,g,8,g,0,g,1,g,1,g
+619,old chicago,gluten sensitive original buffalo wings short with side of bleu cheese dressing,53,g,235,mg,1190,g,3,g,52,g,13,g,0,g,1,g,2,g
+620,old chicago,gluten sensitive original buffalo wings short with side of ranch dressing,47,g,230,mg,1020,g,5,g,52,g,11,g,0,g,1,g,2,g
+621,old chicago,gluten sensitive original buffalo wings tall,63,g,445,mg,1610,g,3,g,102,g,16,g,0,g,1,g,1,g
+622,old chicago,gluten sensitive original buffalo wings tall with side of bleu cheese dressing,98,g,470,mg,2230,g,6,g,104,g,24,g,0,g,1,g,4,g
+623,old chicago,gluten sensitive original buffalo wings tall with side of ranch dressing,88,g,455,mg,1960,g,8,g,104,g,21,g,0,g,1,g,4,g
+624,old chicago,gluten sensitive roasted chicken and apple walnut salad,34,g,95,mg,740,g,46,g,40,g,9,g,0,g,8,g,32,g
+625,old chicago,gluten sensitive roasted chicken and apple walnut salad with creamy herb dressing,66,g,95,mg,1300,g,54,g,40,g,14,g,0,g,8,g,40,g
+626,old chicago,gluten sensitive roasted chicken and apple walnut salad half,24,g,55,mg,480,g,31,g,23,g,6,g,0,g,5,g,22,g
+627,old chicago,gluten sensitive roasted chicken and apple walnut salad half with creamy herb dressing,48,g,55,mg,900,g,37,g,23,g,10,g,0,g,5,g,28,g
+628,old chicago,gluten sensitive screaming mango wings short,28,g,215,mg,410,g,13,g,51,g,7,g,0,g,0,g,9,g
+629,old chicago,gluten sensitive screaming mango wings short with side of bleu cheese dressing,49,g,230,mg,790,g,14,g,52,g,12,g,0,g,0,g,10,g
+630,old chicago,gluten sensitive screaming mango wings short with side of ranch dressing,43,g,220,mg,620,g,16,g,52,g,10,g,0,g,0,g,10,g
+631,old chicago,gluten sensitive screaming mango wings tall,57,g,425,mg,810,g,25,g,102,g,14,g,0,g,1,g,17,g
+632,old chicago,gluten sensitive screaming mango wings tall with side of bleu cheese dressing,92,g,450,mg,1430,g,28,g,104,g,22,g,0,g,1,g,19,g
+633,old chicago,gluten sensitive screaming mango wings tall with side of ranch dressing,82,g,440,mg,1160,g,30,g,104,g,19,g,0,g,1,g,19,g
+634,old chicago,gluten sensitive side caesar salad,20,g,10,mg,190,g,4,g,5,g,4,g,0,g,2,g,1,g
+635,old chicago,gluten sensitive spicy sausage and sweet peppers pizza gluten free crust 1 slice,10,g,25,mg,430,g,17,g,7,g,4,g,0,g,1,g,2,g
+636,old chicago,gluten sensitive spicy sausage and sweet peppers pizza gluten free crust whole pizza,59,g,145,mg,2570,g,100,g,43,g,22,g,0,g,5,g,11,g
+637,old chicago,gluten sensitive spinach chicken and avocado salad,20,g,65,mg,530,g,16,g,41,g,7,g,0,g,8,g,4,g
+638,old chicago,gluten sensitive spinach chicken and avocado salad with lemon vinaigrette,56,g,65,mg,830,g,18,g,41,g,13,g,0,g,8,g,4,g
+639,old chicago,gluten sensitive spinach chicken and avocado salad half,11,g,35,mg,330,g,10,g,23,g,5,g,0,g,5,g,3,g
+640,old chicago,gluten sensitive spinach chicken and avocado salad half with lemon vinaigrette,29,g,35,mg,480,g,11,g,23,g,8,g,0,g,5,g,3,g
+641,old chicago,gluten sensitive sweet and spicy bacon wings short,30,g,215,mg,640,g,10,g,51,g,8,g,0,g,1,g,4,g
+642,old chicago,gluten sensitive sweet and spicy bacon wings short with side of bleu cheese dressing,51,g,230,mg,1010,g,11,g,53,g,12,g,0,g,1,g,6,g
+643,old chicago,gluten sensitive sweet and spicy bacon wings short with side of ranch dressing,45,g,220,mg,850,g,13,g,53,g,11,g,0,g,1,g,6,g
+644,old chicago,gluten sensitive sweet and spicy bacon wings tall,60,g,430,mg,1260,g,19,g,102,g,15,g,0,g,1,g,9,g
+645,old chicago,gluten sensitive sweet and spicy bacon wings tall with side of bleu cheese dressing,95,g,455,mg,1890,g,22,g,105,g,23,g,0,g,1,g,11,g
+646,old chicago,gluten sensitive sweet and spicy bacon wings tall with side of ranch dressing,85,g,440,mg,1610,g,24,g,105,g,20,g,0,g,1,g,11,g
+647,old chicago,gluten sensitive sweet thai chili wings short,28,g,215,mg,510,g,14,g,51,g,7,g,0,g,0,g,13,g
+648,old chicago,gluten sensitive sweet thai chili wings short with side of bleu cheese dressing,49,g,230,mg,890,g,15,g,52,g,12,g,0,g,0,g,14,g
+649,old chicago,gluten sensitive sweet thai chili wings short with side of ranch dressing,43,g,220,mg,720,g,17,g,52,g,10,g,0,g,0,g,14,g
+650,old chicago,gluten sensitive sweet thai chili wings tall,57,g,425,mg,1010,g,27,g,102,g,14,g,0,g,1,g,25,g
+651,old chicago,gluten sensitive sweet thai chili wings tall with side of bleu cheese dressing,92,g,450,mg,1630,g,30,g,104,g,22,g,0,g,1,g,27,g
+652,old chicago,gluten sensitive sweet thai chili wings tall with side of ranch dressing,82,g,440,mg,1360,g,32,g,104,g,19,g,0,g,1,g,27,g
+653,old chicago,gluten sensitive twice baked applewood dry rub wings short,24,g,215,mg,680,g,6,g,52,g,6,g,0,g,1,g,2,g
+654,old chicago,gluten sensitive twice baked applewood dry rub wings short with side of bleu cheese dressing,45,g,230,mg,1060,g,8,g,54,g,11,g,0,g,1,g,4,g
+655,old chicago,gluten sensitive twice baked applewood dry rub wings short with side of ranch dressing,39,g,225,mg,890,g,9,g,54,g,9,g,0,g,1,g,4,g
+656,old chicago,gluten sensitive twice baked applewood dry rub wings tall,47,g,430,mg,1350,g,12,g,104,g,13,g,0,g,1,g,4,g
+657,old chicago,gluten sensitive twice baked applewood dry rub wings tall with side of bleu cheese dressing,82,g,455,mg,1980,g,14,g,106,g,20,g,0,g,1,g,7,g
+658,old chicago,gluten sensitive twice baked applewood dry rub wings tall with side of ranch dressing,72,g,445,mg,1700,g,17,g,106,g,18,g,0,g,1,g,7,g
+659,old chicago,grapefruit juice,0,g,0,mg,10,g,19,g,0,g,0,g,0,g,0,g,18,g
+660,old chicago,grilled chicken caesar salad,47,g,125,mg,960,g,29,g,54,g,10,g,0,g,3,g,2,g
+661,old chicago,grilled chicken caesar salad with garlic toast,56,g,135,mg,1280,g,49,g,58,g,14,g,0,g,3,g,2,g
+662,old chicago,grilled chicken caesar salad half,35,g,70,mg,670,g,21,g,31,g,8,g,0,g,2,g,1,g
+663,old chicago,grilled chicken caesar salad half with side of garlic toast,44,g,80,mg,990,g,41,g,35,g,12,g,0,g,2,g,1,g
+664,old chicago,grilled fresh veggie italian wrap,55,g,25,mg,1840,g,73,g,15,g,11,g,0,g,8,g,12,g
+665,old chicago,hangover burger,48,g,370,mg,2060,g,65,g,58,g,19,g,0,g,4,g,9,g
+666,old chicago,hangover burger with coleslaw,55,g,380,mg,2280,g,79,g,60,g,20,g,0,g,6,g,18,g
+667,old chicago,hangover burger with jerk seasoned fries,60,g,370,mg,3190,g,106,g,63,g,22,g,0,g,8,g,9,g
+668,old chicago,hangover burger with seasoned fries,60,g,370,mg,2850,g,103,g,62,g,22,g,0,g,8,g,9,g
+669,old chicago,hangover burger with side of fresh vegetables with ranch dressing,58,g,375,mg,2240,g,72,g,60,g,21,g,0,g,5,g,12,g
+670,old chicago,hangover burger with substitute a gluten free bun,57,g,375,mg,2400,g,103,g,62,g,21,g,0,g,9,g,12,g
+671,old chicago,hawaiian burger,40,g,160,mg,2390,g,64,g,54,g,14,g,0,g,2,g,22,g
+672,old chicago,hawaiian burger with coleslaw,46,g,170,mg,2610,g,78,g,56,g,15,g,0,g,5,g,31,g
+673,old chicago,hawaiian burger with jerk seasoned fries,51,g,160,mg,3520,g,104,g,58,g,17,g,0,g,7,g,22,g
+674,old chicago,hawaiian burger with seasoned fries,51,g,160,mg,3170,g,102,g,58,g,17,g,0,g,6,g,22,g
+675,old chicago,hawaiian burger with side of fresh vegetables with ranch dressing,50,g,165,mg,2570,g,71,g,56,g,16,g,0,g,4,g,26,g
+676,old chicago,hawaiian burger with substitute a gluten free bun,48,g,165,mg,2730,g,102,g,58,g,16,g,0,g,7,g,25,g
+677,old chicago,hawaiian pizza on ale crust individual slice,6,g,20,mg,550,g,32,g,14,g,3,g,0,g,1,g,4,g
+678,old chicago,hawaiian pizza on ale crust individual whole pizza,23,g,85,mg,2190,g,127,g,55,g,12,g,0,g,6,g,16,g
+679,old chicago,hawaiian pizza on ale crust large slice,9,g,30,mg,730,g,34,g,18,g,5,g,0,g,2,g,6,g
+680,old chicago,hawaiian pizza on ale crust large whole pizza,69,g,250,mg,5810,g,275,g,146,g,36,g,0,g,13,g,47,g
+681,old chicago,hawaiian pizza on chicago thick crust individual slice,11,g,25,mg,730,g,26,g,15,g,5,g,0,g,2,g,4,g
+682,old chicago,hawaiian pizza on chicago thick crust individual whole pizza,43,g,100,mg,2920,g,103,g,58,g,18,g,0,g,6,g,17,g
+683,old chicago,hawaiian pizza on chicago thick crust large slice,18,g,35,mg,1160,g,46,g,23,g,7,g,0,g,3,g,7,g
+684,old chicago,hawaiian pizza on chicago thick crust large whole pizza,147,g,280,mg,9280,g,367,g,182,g,59,g,0,g,20,g,52,g
+685,old chicago,hawaiian pizza on chicago thick crust medium slice,15,g,30,mg,1070,g,44,g,21,g,6,g,0,g,2,g,6,g
+686,old chicago,hawaiian pizza on chicago thick crust medium whole pizza,90,g,190,mg,6430,g,264,g,126,g,37,g,0,g,15,g,34,g
+687,old chicago,hawaiian pizza on tavern thin crust individual piece,3,g,15,mg,280,g,8,g,5,g,2,g,0,g,0,g,2,g
+688,old chicago,hawaiian pizza on tavern thin crust individual whole pizza,31,g,125,mg,2500,g,73,g,47,g,17,g,0,g,3,g,19,g
+689,old chicago,hawaiian pizza on tavern thin crust individual with substitute a gluten free pizza crustpiece,4,g,15,mg,390,g,18,g,6,g,2,g,0,g,1,g,3,g
+690,old chicago,hawaiian pizza on tavern thin crust large piece,4,g,15,mg,270,g,8,g,5,g,2,g,0,g,0,g,2,g
+691,old chicago,hawaiian pizza on tavern thin crust large whole pizza,91,g,330,mg,6620,g,199,g,125,g,47,g,0,g,8,g,52,g
+692,old chicago,ibc black cherry soda,0,g,0,mg,55,g,48,g,0,g,0,g,0,g,0,g,48,g
+693,old chicago,ibc cream soda,0,g,0,mg,75,g,48,g,0,g,0,g,0,g,0,g,48,g
+694,old chicago,ibc root beer,0,g,0,mg,55,g,43,g,0,g,0,g,0,g,0,g,43,g
+695,old chicago,italian chefs salad,34,g,325,mg,2450,g,13,g,44,g,14,g,0,g,4,g,5,g
+696,old chicago,italian chefs salad with creamy herb dressing,66,g,325,mg,3010,g,21,g,44,g,19,g,0,g,4,g,13,g
+697,old chicago,italian chefs salad half,19,g,270,mg,1200,g,7,g,26,g,8,g,0,g,2,g,3,g
+698,old chicago,italian chefs salad half with creamy herb dressing,35,g,270,mg,1480,g,11,g,26,g,10,g,0,g,2,g,7,g
+699,old chicago,italian edamame,14,g,10,mg,190,g,21,g,20,g,2,g,0,g,9,g,0,g
+700,old chicago,italian garlic and herb boneless wings short,17,g,80,mg,1890,g,38,g,30,g,4,g,0,g,3,g,2,g
+701,old chicago,italian garlic and herb boneless wings short with side of bleu cheese dressing,38,g,95,mg,2260,g,39,g,31,g,9,g,0,g,3,g,4,g
+702,old chicago,italian garlic and herb boneless wings short with side of ranch dressing,32,g,85,mg,2100,g,41,g,31,g,7,g,0,g,3,g,4,g
+703,old chicago,italian garlic and herb boneless wings tall,32,g,150,mg,3700,g,74,g,58,g,8,g,0,g,5,g,4,g
+704,old chicago,italian garlic and herb boneless wings tall with side of bleu cheese dressing,67,g,175,mg,4330,g,77,g,60,g,15,g,0,g,5,g,7,g
+705,old chicago,italian garlic and herb boneless wings tall with side of ranch dressing,57,g,165,mg,4050,g,79,g,60,g,13,g,0,g,5,g,7,g
+706,old chicago,italian garlic and herb wings short,26,g,225,mg,360,g,3,g,55,g,8,g,0,g,1,g,1,g
+707,old chicago,italian garlic and herb wings short with side of bleu cheese dressing,47,g,240,mg,730,g,4,g,56,g,12,g,0,g,1,g,2,g
+708,old chicago,italian garlic and herb wings short with side of ranch dressing,41,g,230,mg,570,g,6,g,56,g,11,g,0,g,1,g,2,g
+709,old chicago,italian garlic and herb wings tall,50,g,445,mg,640,g,4,g,108,g,15,g,0,g,1,g,1,g
+710,old chicago,italian garlic and herb wings tall with side of bleu cheese dressing,85,g,470,mg,1260,g,6,g,110,g,23,g,0,g,1,g,3,g
+711,old chicago,italian garlic and herb wings tall with side of ranch dressing,75,g,455,mg,990,g,9,g,110,g,20,g,0,g,1,g,3,g
+712,old chicago,italian grinder pizza on ale crust individual slice,14,g,40,mg,670,g,30,g,17,g,6,g,0,g,1,g,2,g
+713,old chicago,italian grinder pizza on ale crust individual whole pizza,54,g,155,mg,2670,g,121,g,67,g,23,g,0,g,6,g,7,g
+714,old chicago,italian grinder pizza on ale crust large slice,20,g,55,mg,890,g,32,g,22,g,9,g,0,g,2,g,3,g
+715,old chicago,italian grinder pizza on ale crust large whole pizza,159,g,455,mg,7150,g,256,g,180,g,68,g,0,g,14,g,20,g
+716,old chicago,italian grinder pizza on chicago thick crust individual slice,16,g,35,mg,760,g,25,g,15,g,7,g,0,g,1,g,2,g
+717,old chicago,italian grinder pizza on chicago thick crust individual whole pizza,64,g,135,mg,3030,g,99,g,59,g,26,g,0,g,6,g,8,g
+718,old chicago,italian grinder pizza on chicago thick crust large slice,29,g,65,mg,1360,g,45,g,26,g,11,g,0,g,3,g,4,g
+719,old chicago,italian grinder pizza on chicago thick crust large whole pizza,233,g,510,mg,10850,g,362,g,212,g,91,g,0,g,21,g,30,g
+720,old chicago,italian grinder pizza on chicago thick crust medium slice,24,g,55,mg,1230,g,43,g,24,g,10,g,0,g,3,g,3,g
+721,old chicago,italian grinder pizza on chicago thick crust medium whole pizza,144,g,325,mg,7360,g,260,g,143,g,57,g,0,g,15,g,21,g
+722,old chicago,italian grinder pizza on tavern thin crust individual piece,6,g,20,mg,290,g,8,g,5,g,3,g,0,g,0,g,1,g
+723,old chicago,italian grinder pizza on tavern thin crust individual whole pizza,51,g,160,mg,2610,g,68,g,48,g,25,g,0,g,3,g,10,g
+724,old chicago,italian grinder pizza on tavern thin crust large piece,7,g,20,mg,330,g,8,g,6,g,3,g,0,g,0,g,1,g
+725,old chicago,italian grinder pizza on tavern thin crust large whole pizza,176,g,555,mg,8330,g,196,g,155,g,80,g,0,g,9,g,31,g
+726,old chicago,italian nachos 1 order,119,g,290,mg,5510,g,148,g,102,g,53,g,0,g,12,g,10,g
+727,old chicago,italian nachos 1 serving,30,g,70,mg,1380,g,37,g,25,g,13,g,0,g,3,g,3,g
+728,old chicago,italian nachos with spicy marinara sauce with asiago cheese garnish 1 order,132,g,290,mg,6230,g,160,g,104,g,54,g,0,g,16,g,18,g
+729,old chicago,italian nachos with spicy marinara sauce with asiago cheese garnish 1 serving,33,g,75,mg,1560,g,40,g,26,g,14,g,0,g,4,g,4,g
+730,old chicago,italian steak sandwich,73,g,135,mg,2190,g,91,g,51,g,23,g,0,g,4,g,8,g
+731,old chicago,jamaican jerk dry rub boneless wings short,14,g,70,mg,1990,g,37,g,27,g,3,g,0,g,3,g,2,g
+732,old chicago,jamaican jerk dry rub boneless wings short with side of bleu cheese dressing,35,g,85,mg,2360,g,39,g,28,g,7,g,0,g,3,g,4,g
+733,old chicago,jamaican jerk dry rub boneless wings short with side of ranch dressing,29,g,80,mg,2200,g,40,g,28,g,6,g,0,g,3,g,4,g
+734,old chicago,jamaican jerk dry rub boneless wings tall,29,g,140,mg,3960,g,74,g,54,g,5,g,0,g,5,g,4,g
+735,old chicago,jamaican jerk dry rub boneless wings tall with side of bleu cheese dressing,64,g,165,mg,4580,g,77,g,56,g,13,g,0,g,5,g,7,g
+736,old chicago,jamaican jerk dry rub boneless wings tall with side of ranch dressing,54,g,155,mg,4310,g,79,g,56,g,10,g,0,g,5,g,7,g
+737,old chicago,jamaican jerk dry rub wings short,24,g,215,mg,450,g,2,g,52,g,6,g,0,g,1,g,1,g
+738,old chicago,jamaican jerk dry rub wings short with side of bleu cheese dressing,45,g,230,mg,830,g,4,g,53,g,11,g,0,g,1,g,2,g
+739,old chicago,jamaican jerk dry rub wings short with side of ranch dressing,39,g,225,mg,660,g,5,g,53,g,9,g,0,g,1,g,2,g
+740,old chicago,jamaican jerk dry rub wings tall,47,g,430,mg,890,g,4,g,104,g,13,g,0,g,2,g,1,g
+741,old chicago,jamaican jerk dry rub wings tall with side of bleu cheese dressing,82,g,455,mg,1520,g,7,g,106,g,20,g,0,g,2,g,3,g
+742,old chicago,jamaican jerk dry rub wings tall with side of ranch dressing,72,g,445,mg,1240,g,9,g,106,g,18,g,0,g,2,g,3,g
+743,old chicago,kids build your own pasta large,1,g,0,mg,0,g,12,g,2,g,0,g,0,g,1,g,0,g
+744,old chicago,kids build your own pasta large with meat choice italian sausage,12,g,40,mg,410,g,13,g,12,g,4,g,0,g,1,g,1,g
+745,old chicago,kids build your own pasta large with meat choice roasted chicken,3,g,35,mg,130,g,13,g,16,g,0,g,0,g,1,g,0,g
+746,old chicago,kids build your own pasta large with sauce choice alfredo sauce,30,g,85,mg,590,g,16,g,10,g,17,g,1,g,1,g,1,g
+747,old chicago,kids build your own pasta large with sauce choice butter,23,g,60,mg,190,g,12,g,3,g,14,g,0,g,1,g,0,g
+748,old chicago,kids build your own pasta large with sauce choice tavern sauce,8,g,0,mg,550,g,33,g,6,g,0,g,0,g,1,g,15,g
+749,old chicago,kids build your own pasta small,0,g,0,mg,0,g,6,g,1,g,0,g,0,g,0,g,0,g
+750,old chicago,kids build your own pasta small with meat choice italian sausage,6,g,20,mg,210,g,7,g,6,g,2,g,0,g,0,g,0,g
+751,old chicago,kids build your own pasta small with meat choice roasted chicken,1,g,15,mg,65,g,6,g,8,g,0,g,0,g,0,g,0,g
+752,old chicago,kids build your own pasta small with sauce choice alfredo sauce,15,g,40,mg,300,g,8,g,5,g,9,g,1,g,0,g,1,g
+753,old chicago,kids build your own pasta small with sauce choice butter,12,g,30,mg,100,g,6,g,1,g,7,g,0,g,0,g,0,g
+754,old chicago,kids build your own pasta small with sauce choice tavern sauce,4,g,0,mg,280,g,16,g,3,g,0,g,0,g,0,g,8,g
+755,old chicago,kids cheese burger roll 1 piece,5,g,20,mg,130,g,6,g,5,g,2,g,0,g,0,g,1,g
+756,old chicago,kids cheese burger roll 12 pieces,57,g,210,mg,1550,g,74,g,60,g,28,g,0,g,4,g,7,g
+757,old chicago,kids chicken fingers big,10,g,125,mg,1720,g,53,g,58,g,2,g,0,g,4,g,1,g
+758,old chicago,kids chicken fingers big with applewood bbq sauce,10,g,125,mg,2020,g,71,g,58,g,2,g,0,g,4,g,16,g
+759,old chicago,kids chicken fingers big with ranch dressing,25,g,130,mg,1930,g,56,g,59,g,5,g,0,g,4,g,2,g
+760,old chicago,kids chicken fingers little,6,g,75,mg,1030,g,32,g,35,g,1,g,0,g,2,g,1,g
+761,old chicago,kids chicken fingers little with applewood bbq sauce,6,g,75,mg,1330,g,50,g,35,g,1,g,0,g,2,g,16,g
+762,old chicago,kids chicken fingers little with ranch dressing,21,g,80,mg,1240,g,35,g,36,g,4,g,0,g,2,g,2,g
+763,old chicago,kids cookie sundae,12,g,30,mg,65,g,32,g,2,g,7,g,0,g,0,g,25,g
+764,old chicago,kids fries,8,g,0,mg,520,g,25,g,3,g,2,g,0,g,3,g,0,g
+765,old chicago,kids great grilled cheese,20,g,50,mg,740,g,46,g,19,g,10,g,0,g,2,g,2,g
+766,old chicago,kids grilled chicken fingers big,6,g,100,mg,380,g,3,g,40,g,1,g,0,g,0,g,1,g
+767,old chicago,kids grilled chicken fingers big with applewood bbq sauce,7,g,100,mg,670,g,21,g,40,g,1,g,0,g,0,g,17,g
+768,old chicago,kids grilled chicken fingers big with ranch dressing,21,g,105,mg,590,g,6,g,41,g,4,g,0,g,0,g,3,g
+769,old chicago,kids grilled chicken fingers little,3,g,50,mg,190,g,2,g,20,g,1,g,0,g,0,g,1,g
+770,old chicago,kids grilled chicken fingers little with applewood bbq sauce,3,g,50,mg,490,g,19,g,20,g,1,g,0,g,0,g,16,g
+771,old chicago,kids grilled chicken fingers little with ranch dressing,18,g,55,mg,400,g,5,g,21,g,4,g,0,g,0,g,2,g
+772,old chicago,kids homemade mac n cheese large,22,g,65,mg,630,g,38,g,14,g,13,g,0,g,2,g,4,g
+773,old chicago,kids homemade mac n cheese large with italian sausage,34,g,105,mg,1040,g,40,g,24,g,17,g,0,g,2,g,5,g
+774,old chicago,kids homemade mac n cheese large with roasted chicken,24,g,100,mg,750,g,39,g,27,g,13,g,0,g,2,g,5,g
+775,old chicago,kids homemade mac n cheese small,15,g,45,mg,430,g,25,g,10,g,9,g,0,g,1,g,3,g
+776,old chicago,kids homemade mac n cheese small with italian sausage,21,g,65,mg,630,g,26,g,15,g,11,g,0,g,1,g,3,g
+777,old chicago,kids homemade mac n cheese small with roasted chicken,16,g,60,mg,490,g,26,g,16,g,9,g,0,g,1,g,3,g
+778,old chicago,kids many cheeses pizza 1 slice,5,g,10,mg,340,g,16,g,8,g,2,g,0,g,1,g,1,g
+779,old chicago,kids many cheeses pizza 1 whole pizza,20,g,45,mg,1350,g,66,g,30,g,10,g,0,g,4,g,4,g
+780,old chicago,kids mighty cheeseburger,17,g,65,mg,580,g,40,g,24,g,7,g,0,g,1,g,7,g
+781,old chicago,kids mighty cheeseburger with cheddar cheese,24,g,85,mg,720,g,40,g,29,g,11,g,0,g,1,g,7,g
+782,old chicago,kids mighty cheeseburger with mozzarella cheese,21,g,80,mg,680,g,40,g,29,g,9,g,0,g,1,g,7,g
+783,old chicago,kids mighty cheeseburger with pepper jack cheese,23,g,80,mg,720,g,40,g,29,g,11,g,0,g,1,g,7,g
+784,old chicago,kids pepperoni pizza 1 slice,9,g,20,mg,550,g,17,g,9,g,4,g,0,g,1,g,1,g
+785,old chicago,kids pepperoni pizza 1 whole pizza,34,g,80,mg,2190,g,67,g,37,g,15,g,0,g,4,g,4,g
+786,old chicago,kids pizza with pow 1 topping 1 slice,4,g,10,mg,310,g,16,g,7,g,2,g,0,g,1,g,1,g
+787,old chicago,kids pizza with pow 1 topping 4 slices,15,g,30,mg,1260,g,65,g,27,g,7,g,0,g,4,g,4,g
+788,old chicago,kids pizza with pow 1 topping with anaheim peppers 1 slice,4,g,10,mg,320,g,17,g,7,g,2,g,0,g,1,g,2,g
+789,old chicago,kids pizza with pow 1 topping with anaheim peppers 4 slices,15,g,30,mg,1260,g,68,g,27,g,7,g,0,g,4,g,6,g
+790,old chicago,kids pizza with pow 1 topping with andouille sausage 1 slice,12,g,25,mg,540,g,17,g,10,g,5,g,0,g,1,g,1,g
+791,old chicago,kids pizza with pow 1 topping with andouille sausage 4 slices,47,g,105,mg,2170,g,67,g,42,g,19,g,0,g,4,g,5,g
+792,old chicago,kids pizza with pow 1 topping with artichoke hearts 1 slice,4,g,10,mg,440,g,18,g,7,g,2,g,0,g,2,g,2,g
+793,old chicago,kids pizza with pow 1 topping with artichoke hearts 4 slices,15,g,30,mg,1770,g,71,g,29,g,7,g,0,g,7,g,6,g
+794,old chicago,kids pizza with pow 1 topping with asiago cheese 1 slice,7,g,20,mg,430,g,17,g,9,g,4,g,0,g,1,g,1,g
+795,old chicago,kids pizza with pow 1 topping with asiago cheese 4 slices,29,g,75,mg,1710,g,68,g,36,g,16,g,0,g,4,g,4,g
+796,old chicago,kids pizza with pow 1 topping with avocado 1 slice,5,g,10,mg,320,g,17,g,7,g,2,g,0,g,2,g,1,g
+797,old chicago,kids pizza with pow 1 topping with avocado 4 slices,21,g,30,mg,1260,g,68,g,27,g,8,g,0,g,6,g,5,g
+798,old chicago,kids pizza with pow 1 topping with black olives 1 slice,5,g,10,mg,390,g,17,g,7,g,2,g,0,g,1,g,1,g
+799,old chicago,kids pizza with pow 1 topping with black olives 4 slices,20,g,30,mg,1540,g,67,g,27,g,7,g,0,g,4,g,4,g
+800,old chicago,kids pizza with pow 1 topping with bleu cheese 1 slice,7,g,15,mg,460,g,16,g,9,g,4,g,0,g,1,g,1,g
+801,old chicago,kids pizza with pow 1 topping with bleu cheese 4 slices,27,g,70,mg,1830,g,65,g,36,g,15,g,0,g,4,g,4,g
+802,old chicago,kids pizza with pow 1 topping with broccoli 1 slice,4,g,10,mg,320,g,17,g,7,g,2,g,0,g,1,g,1,g
+803,old chicago,kids pizza with pow 1 topping with broccoli 4 slices,16,g,30,mg,1270,g,68,g,28,g,7,g,0,g,5,g,5,g
+804,old chicago,kids pizza with pow 1 topping with bruschetta tomatoes 1 slice,7,g,10,mg,400,g,17,g,7,g,2,g,0,g,1,g,2,g
+805,old chicago,kids pizza with pow 1 topping with bruschetta tomatoes 4 slices,26,g,30,mg,1580,g,69,g,27,g,9,g,0,g,5,g,7,g
+806,old chicago,kids pizza with pow 1 topping with canadian bacon 1 slice,5,g,20,mg,620,g,16,g,12,g,2,g,0,g,1,g,1,g
+807,old chicago,kids pizza with pow 1 topping with canadian bacon 4 slices,20,g,85,mg,2470,g,65,g,47,g,9,g,0,g,4,g,4,g
+808,old chicago,kids pizza with pow 1 topping with cheddar cheese 1 slice,7,g,20,mg,380,g,16,g,9,g,4,g,0,g,1,g,1,g
+809,old chicago,kids pizza with pow 1 topping with cheddar cheese 4 slices,29,g,70,mg,1530,g,65,g,37,g,15,g,0,g,4,g,4,g
+810,old chicago,kids pizza with pow 1 topping with crimini mushrooms 1 slice,4,g,10,mg,320,g,17,g,7,g,2,g,0,g,1,g,1,g
+811,old chicago,kids pizza with pow 1 topping with crimini mushrooms 4 slices,15,g,30,mg,1260,g,67,g,28,g,7,g,0,g,4,g,5,g
+812,old chicago,kids pizza with pow 1 topping with extra mozzarella cheese 1 slice,5,g,10,mg,350,g,16,g,8,g,3,g,0,g,1,g,1,g
+813,old chicago,kids pizza with pow 1 topping with extra mozzarella cheese 4 slices,21,g,45,mg,1390,g,65,g,34,g,11,g,0,g,4,g,4,g
+814,old chicago,kids pizza with pow 1 topping with feta cheese 1 slice,5,g,15,mg,450,g,17,g,9,g,3,g,0,g,1,g,1,g
+815,old chicago,kids pizza with pow 1 topping with feta cheese 4 slices,21,g,55,mg,1810,g,67,g,34,g,11,g,0,g,4,g,4,g
+816,old chicago,kids pizza with pow 1 topping with fresh basil 1 slice,4,g,10,mg,310,g,16,g,7,g,2,g,0,g,1,g,1,g
+817,old chicago,kids pizza with pow 1 topping with fresh basil 4 slices,15,g,30,mg,1260,g,65,g,27,g,7,g,0,g,4,g,4,g
+818,old chicago,kids pizza with pow 1 topping with fresh cilantro 1 slice,4,g,10,mg,310,g,16,g,7,g,2,g,0,g,1,g,1,g
+819,old chicago,kids pizza with pow 1 topping with fresh cilantro 4 slices,15,g,30,mg,1260,g,65,g,27,g,7,g,0,g,4,g,4,g
+820,old chicago,kids pizza with pow 1 topping with fresh mozzarella cheese 1 slice,15,g,45,mg,320,g,16,g,18,g,8,g,0,g,1,g,1,g
+821,old chicago,kids pizza with pow 1 topping with fresh mozzarella cheese 4 slices,60,g,180,mg,1290,g,65,g,72,g,34,g,0,g,4,g,4,g
+822,old chicago,kids pizza with pow 1 topping with goat cheese 1 slice,6,g,20,mg,330,g,17,g,9,g,4,g,0,g,1,g,1,g
+823,old chicago,kids pizza with pow 1 topping with goat cheese 4 slices,25,g,70,mg,1340,g,67,g,35,g,14,g,0,g,4,g,4,g
+824,old chicago,kids pizza with pow 1 topping with green olives 1 slice,6,g,10,mg,560,g,16,g,7,g,2,g,0,g,1,g,1,g
+825,old chicago,kids pizza with pow 1 topping with green olives 4 slices,24,g,30,mg,2220,g,65,g,27,g,7,g,0,g,4,g,4,g
+826,old chicago,kids pizza with pow 1 topping with green onions 1 slice,4,g,10,mg,320,g,17,g,7,g,2,g,0,g,1,g,1,g
+827,old chicago,kids pizza with pow 1 topping with green onions 4 slices,15,g,30,mg,1260,g,67,g,27,g,7,g,0,g,4,g,5,g
+828,old chicago,kids pizza with pow 1 topping with green peppers 1 slice,4,g,10,mg,310,g,17,g,7,g,2,g,0,g,1,g,1,g
+829,old chicago,kids pizza with pow 1 topping with green peppers 4 slices,15,g,30,mg,1260,g,67,g,27,g,7,g,0,g,4,g,5,g
+830,old chicago,kids pizza with pow 1 topping with grilled applewood spiced chicken 1 slice,5,g,30,mg,390,g,17,g,15,g,2,g,0,g,1,g,1,g
+831,old chicago,kids pizza with pow 1 topping with grilled applewood spiced chicken 4 slices,21,g,115,mg,1570,g,68,g,59,g,8,g,0,g,4,g,5,g
+832,old chicago,kids pizza with pow 1 topping with italian sausage 1 slice,10,g,25,mg,500,g,17,g,11,g,3,g,0,g,1,g,2,g
+833,old chicago,kids pizza with pow 1 topping with italian sausage 4 slices,40,g,105,mg,1990,g,69,g,45,g,14,g,0,g,4,g,6,g
+834,old chicago,kids pizza with pow 1 topping with jalapenos 1 slice,4,g,10,mg,650,g,17,g,7,g,2,g,0,g,1,g,1,g
+835,old chicago,kids pizza with pow 1 topping with jalapenos 4 slices,15,g,30,mg,2620,g,68,g,27,g,7,g,0,g,4,g,4,g
+836,old chicago,kids pizza with pow 1 topping with mushrooms 1 slice,4,g,10,mg,320,g,17,g,7,g,2,g,0,g,1,g,1,g
+837,old chicago,kids pizza with pow 1 topping with mushrooms 4 slices,16,g,30,mg,1260,g,67,g,28,g,7,g,0,g,4,g,5,g
+838,old chicago,kids pizza with pow 1 topping with parmesan cheese 1 slice,6,g,15,mg,460,g,17,g,10,g,3,g,0,g,1,g,1,g
+839,old chicago,kids pizza with pow 1 topping with parmesan cheese 4 slices,26,g,60,mg,1830,g,67,g,40,g,13,g,0,g,4,g,4,g
+840,old chicago,kids pizza with pow 1 topping with pepper jack cheese 1 slice,6,g,15,mg,360,g,16,g,8,g,3,g,0,g,1,g,1,g
+841,old chicago,kids pizza with pow 1 topping with pepper jack cheese 4 slices,24,g,60,mg,1430,g,65,g,34,g,12,g,0,g,4,g,4,g
+842,old chicago,kids pizza with pow 1 topping with peppered bacon 1 slice,9,g,20,mg,590,g,17,g,11,g,4,g,0,g,1,g,2,g
+843,old chicago,kids pizza with pow 1 topping with peppered bacon 4 slices,37,g,75,mg,2370,g,70,g,43,g,15,g,0,g,5,g,6,g
+844,old chicago,kids pizza with pow 1 topping with pepperoncini 1 slice,4,g,10,mg,400,g,17,g,7,g,2,g,0,g,1,g,1,g
+845,old chicago,kids pizza with pow 1 topping with pepperoncini 4 slices,15,g,30,mg,1590,g,67,g,27,g,7,g,0,g,5,g,4,g
+846,old chicago,kids pizza with pow 1 topping with pepperoni 1 slice,9,g,20,mg,550,g,17,g,9,g,4,g,0,g,1,g,1,g
+847,old chicago,kids pizza with pow 1 topping with pepperoni 4 slices,34,g,80,mg,2190,g,67,g,37,g,15,g,0,g,4,g,4,g
+848,old chicago,kids pizza with pow 1 topping with pineapple tidbits 1 slice,4,g,10,mg,310,g,21,g,7,g,2,g,0,g,1,g,5,g
+849,old chicago,kids pizza with pow 1 topping with pineapple tidbits 4 slices,15,g,30,mg,1260,g,84,g,27,g,7,g,0,g,5,g,19,g
+850,old chicago,kids pizza with pow 1 topping with provolone cheese 1 slice,7,g,15,mg,410,g,16,g,9,g,4,g,0,g,1,g,1,g
+851,old chicago,kids pizza with pow 1 topping with provolone cheese 4 slices,27,g,60,mg,1630,g,65,g,37,g,15,g,0,g,4,g,4,g
+852,old chicago,kids pizza with pow 1 topping with red onions 1 slice,4,g,10,mg,310,g,17,g,7,g,2,g,0,g,1,g,2,g
+853,old chicago,kids pizza with pow 1 topping with red onions 4 slices,15,g,30,mg,1260,g,69,g,27,g,7,g,0,g,4,g,6,g
+854,old chicago,kids pizza with pow 1 topping with red peppers 1 slice,4,g,10,mg,310,g,17,g,7,g,2,g,0,g,1,g,2,g
+855,old chicago,kids pizza with pow 1 topping with red peppers 4 slices,16,g,30,mg,1260,g,68,g,27,g,7,g,0,g,5,g,7,g
+856,old chicago,kids pizza with pow 1 topping with ricotta cheese 1 slice,6,g,15,mg,340,g,17,g,9,g,3,g,0,g,1,g,1,g
+857,old chicago,kids pizza with pow 1 topping with ricotta cheese 4 slices,23,g,60,mg,1370,g,70,g,37,g,12,g,0,g,4,g,4,g
+858,old chicago,kids pizza with pow 1 topping with roasted garlic 1 slice,4,g,10,mg,310,g,17,g,7,g,2,g,0,g,1,g,1,g
+859,old chicago,kids pizza with pow 1 topping with roasted garlic 4 slices,16,g,30,mg,1260,g,67,g,27,g,7,g,0,g,4,g,4,g
+860,old chicago,kids pizza with pow 1 topping with roasted peppers 1 slice,4,g,10,mg,350,g,17,g,7,g,2,g,0,g,1,g,2,g
+861,old chicago,kids pizza with pow 1 topping with roasted peppers 4 slices,15,g,30,mg,1410,g,68,g,27,g,7,g,0,g,4,g,6,g
+862,old chicago,kids pizza with pow 1 topping with roma tomatoes 1 slice,4,g,10,mg,320,g,17,g,7,g,2,g,0,g,1,g,2,g
+863,old chicago,kids pizza with pow 1 topping with roma tomatoes 4 slices,16,g,30,mg,1260,g,69,g,27,g,7,g,0,g,5,g,7,g
+864,old chicago,kids pizza with pow 1 topping with salami 1 slice,7,g,20,mg,450,g,16,g,8,g,3,g,0,g,1,g,1,g
+865,old chicago,kids pizza with pow 1 topping with salami 4 slices,28,g,75,mg,1820,g,65,g,33,g,13,g,0,g,4,g,4,g
+866,old chicago,kids pizza with pow 1 topping with seasoned ground beef 1 slice,6,g,20,mg,360,g,17,g,10,g,3,g,0,g,1,g,1,g
+867,old chicago,kids pizza with pow 1 topping with seasoned ground beef 4 slices,24,g,75,mg,1440,g,66,g,39,g,11,g,0,g,4,g,5,g
+868,old chicago,kids pizza with pow 1 topping with sliced spicy link sausage 1 slice,9,g,25,mg,510,g,17,g,11,g,4,g,0,g,1,g,1,g
+869,old chicago,kids pizza with pow 1 topping with sliced spicy link sausage 4 slices,37,g,100,mg,2020,g,68,g,45,g,15,g,0,g,4,g,5,g
+870,old chicago,kids pizza with pow 1 topping with spinach 1 slice,4,g,10,mg,320,g,17,g,7,g,2,g,0,g,1,g,1,g
+871,old chicago,kids pizza with pow 1 topping with spinach 4 slices,16,g,30,mg,1280,g,66,g,27,g,7,g,0,g,4,g,4,g
+872,old chicago,kids pizza with pow 1 topping with sun dried tomatoes 1 slice,4,g,10,mg,320,g,17,g,7,g,2,g,0,g,1,g,2,g
+873,old chicago,kids pizza with pow 1 topping with sun dried tomatoes 4 slices,15,g,30,mg,1270,g,68,g,27,g,7,g,0,g,5,g,6,g
+874,old chicago,kids pizza with pow 1 topping with swiss cheese 1 slice,7,g,15,mg,340,g,16,g,10,g,4,g,0,g,1,g,1,g
+875,old chicago,kids pizza with pow 1 topping with swiss cheese 4 slices,27,g,70,mg,1350,g,65,g,39,g,15,g,0,g,4,g,4,g
+876,old chicago,kids pizza with pow 2 or more toppings 1 slice,4,g,10,mg,310,g,16,g,7,g,2,g,0,g,1,g,1,g
+877,old chicago,kids pizza with pow 2 or more toppings 4 slices,15,g,30,mg,1260,g,65,g,27,g,7,g,0,g,4,g,4,g
+878,old chicago,kids pizza with pow 2 or more toppings with anaheim peppers 1 slice,4,g,10,mg,320,g,17,g,7,g,2,g,0,g,1,g,1,g
+879,old chicago,kids pizza with pow 2 or more toppings with anaheim peppers 4 slices,15,g,30,mg,1260,g,66,g,27,g,7,g,0,g,4,g,5,g
+880,old chicago,kids pizza with pow 2 or more toppings with andouille sausage 1 slice,9,g,20,mg,470,g,17,g,9,g,4,g,0,g,1,g,1,g
+881,old chicago,kids pizza with pow 2 or more toppings with andouille sausage 4 slices,36,g,80,mg,1860,g,66,g,37,g,15,g,0,g,4,g,5,g
+882,old chicago,kids pizza with pow 2 or more toppings with artichoke hearts 1 slice,4,g,10,mg,380,g,17,g,7,g,2,g,0,g,1,g,1,g
+883,old chicago,kids pizza with pow 2 or more toppings with artichoke hearts 4 slices,15,g,30,mg,1510,g,68,g,28,g,7,g,0,g,5,g,5,g
+884,old chicago,kids pizza with pow 2 or more toppings with asiago cheese 1 slice,6,g,15,mg,370,g,17,g,8,g,3,g,0,g,1,g,1,g
+885,old chicago,kids pizza with pow 2 or more toppings with asiago cheese 4 slices,22,g,55,mg,1480,g,67,g,31,g,12,g,0,g,4,g,4,g
+886,old chicago,kids pizza with pow 2 or more toppings with avocado 1 slice,5,g,10,mg,320,g,17,g,7,g,2,g,0,g,2,g,1,g
+887,old chicago,kids pizza with pow 2 or more toppings with avocado 4 slices,21,g,30,mg,1260,g,68,g,27,g,8,g,0,g,6,g,5,g
+888,old chicago,kids pizza with pow 2 or more toppings with black olives 1 slice,4,g,10,mg,350,g,17,g,7,g,2,g,0,g,1,g,1,g
+889,old chicago,kids pizza with pow 2 or more toppings with black olives 4 slices,18,g,30,mg,1400,g,66,g,27,g,7,g,0,g,4,g,4,g
+890,old chicago,kids pizza with pow 2 or more toppings with bleu cheese 1 slice,5,g,10,mg,390,g,16,g,8,g,3,g,0,g,1,g,1,g
+891,old chicago,kids pizza with pow 2 or more toppings with bleu cheese 4 slices,21,g,50,mg,1540,g,65,g,31,g,11,g,0,g,4,g,4,g
+892,old chicago,kids pizza with pow 2 or more toppings with broccoli 1 slice,4,g,10,mg,320,g,17,g,7,g,2,g,0,g,1,g,1,g
+893,old chicago,kids pizza with pow 2 or more toppings with broccoli 4 slices,15,g,30,mg,1260,g,67,g,27,g,7,g,0,g,4,g,5,g
+894,old chicago,kids pizza with pow 2 or more toppings with bruschetta tomatoes 1 slice,5,g,10,mg,350,g,17,g,7,g,2,g,0,g,1,g,1,g
+895,old chicago,kids pizza with pow 2 or more toppings with bruschetta tomatoes 4 slices,21,g,30,mg,1420,g,67,g,27,g,8,g,0,g,4,g,6,g
+896,old chicago,kids pizza with pow 2 or more toppings with canadian bacon 1 slice,5,g,15,mg,520,g,16,g,10,g,2,g,0,g,1,g,1,g
+897,old chicago,kids pizza with pow 2 or more toppings with canadian bacon 4 slices,19,g,70,mg,2070,g,65,g,40,g,9,g,0,g,4,g,4,g
+898,old chicago,kids pizza with pow 2 or more toppings with cheddar cheese 1 slice,6,g,15,mg,350,g,16,g,8,g,3,g,0,g,1,g,1,g
+899,old chicago,kids pizza with pow 2 or more toppings with cheddar cheese 4 slices,22,g,50,mg,1390,g,65,g,32,g,11,g,0,g,4,g,4,g
+900,old chicago,kids pizza with pow 2 or more toppings with crimini mushrooms 1 slice,4,g,10,mg,310,g,17,g,7,g,2,g,0,g,1,g,1,g
+901,old chicago,kids pizza with pow 2 or more toppings with crimini mushrooms 4 slices,15,g,30,mg,1260,g,66,g,27,g,7,g,0,g,4,g,5,g
+902,old chicago,kids pizza with pow 2 or more toppings with extra mozzarella cheese 1 slice,5,g,10,mg,330,g,16,g,8,g,2,g,0,g,1,g,1,g
+903,old chicago,kids pizza with pow 2 or more toppings with extra mozzarella cheese 4 slices,18,g,40,mg,1320,g,65,g,30,g,9,g,0,g,4,g,4,g
+904,old chicago,kids pizza with pow 2 or more toppings with feta cheese 1 slice,5,g,10,mg,380,g,16,g,8,g,2,g,0,g,1,g,1,g
+905,old chicago,kids pizza with pow 2 or more toppings with feta cheese 4 slices,18,g,40,mg,1530,g,66,g,30,g,9,g,0,g,4,g,4,g
+906,old chicago,kids pizza with pow 2 or more toppings with fresh basil 1 slice,4,g,10,mg,310,g,16,g,7,g,2,g,0,g,1,g,1,g
+907,old chicago,kids pizza with pow 2 or more toppings with fresh basil 4 slices,15,g,30,mg,1260,g,65,g,27,g,7,g,0,g,4,g,4,g
+908,old chicago,kids pizza with pow 2 or more toppings with fresh cilantro 1 slice,4,g,10,mg,310,g,16,g,7,g,2,g,0,g,1,g,1,g
+909,old chicago,kids pizza with pow 2 or more toppings with fresh cilantro 4 slices,15,g,30,mg,1260,g,65,g,27,g,7,g,0,g,4,g,4,g
+910,old chicago,kids pizza with pow 2 or more toppings with fresh mozzarella cheese 1 slice,11,g,35,mg,320,g,16,g,14,g,6,g,0,g,1,g,1,g
+911,old chicago,kids pizza with pow 2 or more toppings with fresh mozzarella cheese 4 slices,45,g,130,mg,1280,g,65,g,57,g,25,g,0,g,4,g,4,g
+912,old chicago,kids pizza with pow 2 or more toppings with goat cheese 1 slice,5,g,15,mg,320,g,17,g,8,g,3,g,0,g,1,g,1,g
+913,old chicago,kids pizza with pow 2 or more toppings with goat cheese 4 slices,20,g,50,mg,1300,g,66,g,31,g,11,g,0,g,4,g,4,g
+914,old chicago,kids pizza with pow 2 or more toppings with green olives 1 slice,5,g,10,mg,430,g,16,g,7,g,2,g,0,g,1,g,1,g
+915,old chicago,kids pizza with pow 2 or more toppings with green olives 4 slices,20,g,30,mg,1740,g,65,g,27,g,7,g,0,g,4,g,4,g
+916,old chicago,kids pizza with pow 2 or more toppings with green onions 1 slice,4,g,10,mg,310,g,16,g,7,g,2,g,0,g,1,g,1,g
+917,old chicago,kids pizza with pow 2 or more toppings with green onions 4 slices,15,g,30,mg,1260,g,66,g,27,g,7,g,0,g,4,g,5,g
+918,old chicago,kids pizza with pow 2 or more toppings with green peppers 1 slice,4,g,10,mg,310,g,16,g,7,g,2,g,0,g,1,g,1,g
+919,old chicago,kids pizza with pow 2 or more toppings with green peppers 4 slices,15,g,30,mg,1260,g,66,g,27,g,7,g,0,g,4,g,5,g
+920,old chicago,kids pizza with pow 2 or more toppings with grilled applewood spiced chicken 1 slice,5,g,20,mg,350,g,17,g,11,g,2,g,0,g,1,g,1,g
+921,old chicago,kids pizza with pow 2 or more toppings with grilled applewood spiced chicken 4 slices,18,g,70,mg,1410,g,66,g,43,g,8,g,0,g,4,g,5,g
+922,old chicago,kids pizza with pow 2 or more toppings with italian sausage 1 slice,7,g,15,mg,410,g,17,g,9,g,3,g,0,g,1,g,1,g
+923,old chicago,kids pizza with pow 2 or more toppings with italian sausage 4 slices,28,g,70,mg,1620,g,67,g,36,g,11,g,0,g,4,g,5,g
+924,old chicago,kids pizza with pow 2 or more toppings with jalapenos 1 slice,4,g,10,mg,480,g,17,g,7,g,2,g,0,g,1,g,1,g
+925,old chicago,kids pizza with pow 2 or more toppings with jalapenos 4 slices,15,g,30,mg,1940,g,66,g,27,g,7,g,0,g,4,g,4,g
+926,old chicago,kids pizza with pow 2 or more toppings with mushrooms 1 slice,4,g,10,mg,310,g,16,g,7,g,2,g,0,g,1,g,1,g
+927,old chicago,kids pizza with pow 2 or more toppings with mushrooms 4 slices,15,g,30,mg,1260,g,66,g,27,g,7,g,0,g,4,g,5,g
+928,old chicago,kids pizza with pow 2 or more toppings with parmesan cheese 1 slice,5,g,10,mg,390,g,16,g,8,g,3,g,0,g,1,g,1,g
+929,old chicago,kids pizza with pow 2 or more toppings with parmesan cheese 4 slices,21,g,45,mg,1540,g,66,g,33,g,10,g,0,g,4,g,4,g
+930,old chicago,kids pizza with pow 2 or more toppings with pepper jack cheese 1 slice,5,g,10,mg,340,g,16,g,8,g,2,g,0,g,1,g,1,g
+931,old chicago,kids pizza with pow 2 or more toppings with pepper jack cheese 4 slices,20,g,45,mg,1340,g,65,g,30,g,10,g,0,g,4,g,4,g
+932,old chicago,kids pizza with pow 2 or more toppings with peppered bacon 1 slice,7,g,15,mg,450,g,17,g,9,g,3,g,0,g,1,g,1,g
+933,old chicago,kids pizza with pow 2 or more toppings with peppered bacon 4 slices,26,g,55,mg,1810,g,68,g,35,g,11,g,0,g,4,g,5,g
+934,old chicago,kids pizza with pow 2 or more toppings with pepperoncini 1 slice,4,g,10,mg,360,g,17,g,7,g,2,g,0,g,1,g,1,g
+935,old chicago,kids pizza with pow 2 or more toppings with pepperoncini 4 slices,15,g,30,mg,1420,g,66,g,27,g,7,g,0,g,4,g,4,g
+936,old chicago,kids pizza with pow 2 or more toppings with pepperoni 1 slice,7,g,15,mg,450,g,16,g,8,g,3,g,0,g,1,g,1,g
+937,old chicago,kids pizza with pow 2 or more toppings with pepperoni 4 slices,27,g,60,mg,1820,g,66,g,33,g,12,g,0,g,4,g,4,g
+938,old chicago,kids pizza with pow 2 or more toppings with pineapple 1 slice,4,g,10,mg,310,g,19,g,7,g,2,g,0,g,1,g,3,g
+939,old chicago,kids pizza with pow 2 or more toppings with pineapple 4 slices,15,g,30,mg,1260,g,75,g,27,g,7,g,0,g,4,g,12,g
+940,old chicago,kids pizza with pow 2 or more toppings with provolone cheese 1 slice,5,g,10,mg,360,g,16,g,8,g,3,g,0,g,1,g,1,g
+941,old chicago,kids pizza with pow 2 or more toppings with provolone cheese 4 slices,21,g,45,mg,1440,g,65,g,32,g,11,g,0,g,4,g,4,g
+942,old chicago,kids pizza with pow 2 or more toppings with red onions 1 slice,4,g,10,mg,310,g,17,g,7,g,2,g,0,g,1,g,1,g
+943,old chicago,kids pizza with pow 2 or more toppings with red onions 4 slices,15,g,30,mg,1260,g,67,g,27,g,7,g,0,g,4,g,5,g
+944,old chicago,kids pizza with pow 2 or more toppings with red peppers 1 slice,4,g,10,mg,310,g,17,g,7,g,2,g,0,g,1,g,1,g
+945,old chicago,kids pizza with pow 2 or more toppings with red peppers 4 slices,15,g,30,mg,1260,g,67,g,27,g,7,g,0,g,4,g,6,g
+946,old chicago,kids pizza with pow 2 or more toppings with ricotta cheese 1 slice,5,g,10,mg,330,g,17,g,8,g,2,g,0,g,1,g,1,g
+947,old chicago,kids pizza with pow 2 or more toppings with ricotta cheese 4 slices,19,g,45,mg,1310,g,67,g,32,g,10,g,0,g,4,g,4,g
+948,old chicago,kids pizza with pow 2 or more toppings with roasted garlic 1 slice,4,g,10,mg,310,g,16,g,7,g,2,g,0,g,1,g,1,g
+949,old chicago,kids pizza with pow 2 or more toppings with roasted garlic 4 slices,15,g,30,mg,1260,g,66,g,27,g,7,g,0,g,4,g,4,g
+950,old chicago,kids pizza with pow 2 or more toppings with roasted peppers 1 slice,4,g,10,mg,330,g,17,g,7,g,2,g,0,g,1,g,1,g
+951,old chicago,kids pizza with pow 2 or more toppings with roasted peppers 4 slices,15,g,30,mg,1330,g,66,g,27,g,7,g,0,g,4,g,5,g
+952,old chicago,kids pizza with pow 2 or more toppings with roma tomatoes 1 slice,4,g,10,mg,310,g,17,g,7,g,2,g,0,g,1,g,1,g
+953,old chicago,kids pizza with pow 2 or more toppings with roma tomatoes 4 slices,15,g,30,mg,1260,g,67,g,27,g,7,g,0,g,4,g,6,g
+954,old chicago,kids pizza with pow 2 or more toppings with salami 1 slice,5,g,15,mg,380,g,16,g,7,g,3,g,0,g,1,g,1,g
+955,old chicago,kids pizza with pow 2 or more toppings with salami 4 slices,22,g,55,mg,1540,g,65,g,30,g,10,g,0,g,4,g,4,g
+956,old chicago,kids pizza with pow 2 or more toppings with seasoned ground beef 1 slice,5,g,15,mg,340,g,16,g,8,g,2,g,0,g,1,g,1,g
+957,old chicago,kids pizza with pow 2 or more toppings with seasoned ground beef 4 slices,20,g,55,mg,1350,g,66,g,33,g,9,g,0,g,4,g,5,g
+958,old chicago,kids pizza with pow 2 or more toppings with spicy italian link sausage 1 slice,7,g,20,mg,440,g,17,g,10,g,3,g,0,g,1,g,1,g
+959,old chicago,kids pizza with pow 2 or more toppings with spicy italian link sausage 4 slices,30,g,80,mg,1770,g,67,g,39,g,12,g,0,g,4,g,5,g
+960,old chicago,kids pizza with pow 2 or more toppings with spinach 1 slice,4,g,10,mg,320,g,16,g,7,g,2,g,0,g,1,g,1,g
+961,old chicago,kids pizza with pow 2 or more toppings with spinach 4 slices,15,g,30,mg,1270,g,66,g,27,g,7,g,0,g,4,g,4,g
+962,old chicago,kids pizza with pow 2 or more toppings with sun dried tomatoes 1 slice,4,g,10,mg,320,g,17,g,7,g,2,g,0,g,1,g,1,g
+963,old chicago,kids pizza with pow 2 or more toppings with sun dried tomatoes 4 slices,15,g,30,mg,1260,g,67,g,27,g,7,g,0,g,4,g,5,g
+964,old chicago,kids pizza with pow 2 or more toppings with swiss cheese 1 slice,5,g,10,mg,330,g,16,g,8,g,3,g,0,g,1,g,1,g
+965,old chicago,kids pizza with pow 2 or more toppings with swiss cheese 4 slices,21,g,50,mg,1300,g,65,g,33,g,11,g,0,g,4,g,4,g
+966,old chicago,kids power chicken salad,8,g,65,mg,320,g,10,g,28,g,1,g,0,g,2,g,3,g
+967,old chicago,kids power chicken salad with balsamic vinaigrette,32,g,65,mg,430,g,14,g,28,g,5,g,0,g,2,g,6,g
+968,old chicago,kids power chicken salad with blue cheese dressing,29,g,80,mg,690,g,11,g,30,g,6,g,0,g,2,g,4,g
+969,old chicago,kids power chicken salad with caesar dressing,35,g,80,mg,480,g,11,g,30,g,6,g,0,g,2,g,3,g
+970,old chicago,kids power chicken salad with cilantro lime dressing,20,g,70,mg,490,g,13,g,29,g,4,g,0,g,2,g,4,g
+971,old chicago,kids power chicken salad with creamy herb dressing,32,g,65,mg,740,g,16,g,28,g,5,g,0,g,2,g,9,g
+972,old chicago,kids power chicken salad with fat free italian dressing,8,g,65,mg,890,g,16,g,28,g,1,g,0,g,2,g,6,g
+973,old chicago,kids power chicken salad with greek dressing,33,g,65,mg,470,g,13,g,28,g,5,g,0,g,2,g,5,g
+974,old chicago,kids power chicken salad with lemon vinaigrette,35,g,65,mg,540,g,11,g,28,g,6,g,0,g,2,g,3,g
+975,old chicago,kids power chicken salad with ranch dressing,23,g,75,mg,530,g,13,g,30,g,4,g,0,g,2,g,4,g
+976,old chicago,kids sausage pizza 1 slice,9,g,25,mg,510,g,17,g,11,g,4,g,0,g,1,g,1,g
+977,old chicago,kids sausage pizza 1 whole pizza,37,g,100,mg,2020,g,68,g,45,g,15,g,0,g,4,g,5,g
+978,old chicago,kids side of carrots and ranch,15,g,10,mg,320,g,15,g,3,g,3,g,0,g,4,g,7,g
+979,old chicago,kids side of cheese curds,36,g,65,mg,820,g,17,g,19,g,15,g,0,g,1,g,1,g
+980,old chicago,kids side of cheese curds with pizza sauce,36,g,65,mg,880,g,19,g,19,g,15,g,0,g,2,g,2,g
+981,old chicago,kids side of cheese curds with ranch dressing,46,g,70,mg,960,g,19,g,20,g,17,g,0,g,1,g,2,g
+982,old chicago,kids side of corn,1,g,0,mg,0,g,26,g,4,g,0,g,0,g,1,g,6,g
+983,old chicago,kids side of hot broccoli with cheese sauce,13,g,40,mg,410,g,12,g,8,g,8,g,0,g,2,g,4,g
+984,old chicago,kids side of jalapeno pretzel bites,4,g,5,mg,300,g,5,g,7,g,2,g,0,g,1,g,0,g
+985,old chicago,kids side of jalapeno pretzel bites with cheese sauce,10,g,25,mg,490,g,8,g,9,g,5,g,0,g,1,g,1,g
+986,old chicago,kids side of jalapeno pretzel bites with pizza sauce,5,g,5,mg,360,g,8,g,7,g,2,g,0,g,1,g,1,g
+987,old chicago,kids side of jalapeno pretzel bites with ranch dressing,19,g,15,mg,510,g,8,g,9,g,5,g,0,g,1,g,2,g
+988,old chicago,kids side of mac n cheese,15,g,45,mg,430,g,25,g,10,g,9,g,0,g,1,g,3,g
+989,old chicago,kids side of orange wedges,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,1,g,3,g
+990,old chicago,kids side of sliced apples,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,2,g,7,g
+991,old chicago,kids side of yogurt,1,g,5,mg,50,g,14,g,4,g,1,g,0,g,0,g,14,g
+992,old chicago,kids strawberry lemonade,0,g,0,mg,0,g,38,g,0,g,0,g,0,g,1,g,33,g
+993,old chicago,kids super side something with french fries,8,g,0,mg,520,g,25,g,3,g,2,g,0,g,3,g,0,g
+994,old chicago,kids super side something with fruit,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,2,g,7,g
+995,old chicago,kids super side something with orange wedges,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,1,g,3,g
+996,old chicago,kids super side something with sweet potato tater tots,13,g,0,mg,460,g,46,g,2,g,1,g,0,g,4,g,16,g
+997,old chicago,kids super side something with veggies and dip,15,g,10,mg,260,g,9,g,3,g,3,g,0,g,2,g,4,g
+998,old chicago,lipton brisk raspberry iced tea,0,g,0,mg,85,g,40,g,0,g,0,g,0,g,0,g,38,g
+999,old chicago,little big cookie shake,46,g,100,mg,470,g,115,g,10,g,27,g,0,g,3,g,83,g

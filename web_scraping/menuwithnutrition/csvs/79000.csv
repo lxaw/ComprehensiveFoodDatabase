@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,hale and hearty soups,tomato seafood bisque soup small,11,g,75,mg,960,g,9,g,8,g,6,g,0,g,2,g,4,g
+1,hale and hearty soups,tortellini florentine soup large,22,g,70,mg,1230,g,34,g,8,g,12,g,0,g,6,g,12,g
+2,hale and hearty soups,tortellini florentine soup medium,17,g,55,mg,920,g,26,g,6,g,9,g,0,g,5,g,9,g
+3,hale and hearty soups,tortellini florentine soup small,11,g,35,mg,620,g,17,g,4,g,6,g,0,g,3,g,6,g
+4,hale and hearty soups,tortellini with wild mushroom soup large,34,g,110,mg,1580,g,34,g,18,g,20,g,0,g,6,g,8,g
+5,hale and hearty soups,tortellini with wild mushroom soup medium,26,g,85,mg,1190,g,26,g,14,g,15,g,0,g,5,g,6,g
+6,hale and hearty soups,tortellini with wild mushroom soup small,17,g,55,mg,790,g,17,g,9,g,10,g,0,g,3,g,4,g
+7,hale and hearty soups,traditional sancocho soup large,17,g,80,mg,1590,g,51,g,33,g,5,g,0,g,7,g,14,g
+8,hale and hearty soups,traditional sancocho soup medium,13,g,60,mg,1190,g,38,g,25,g,4,g,0,g,6,g,10,g
+9,hale and hearty soups,traditional sancocho soup small,8,g,40,mg,800,g,25,g,17,g,3,g,0,g,4,g,7,g
+10,hale and hearty soups,tuna salad,5,g,5,mg,220,g,5,g,9,g,1,g,0,g,0,g,1,g
+11,hale and hearty soups,turkey chili soup large,14,g,110,mg,1560,g,52,g,36,g,4,g,0,g,12,g,18,g
+12,hale and hearty soups,turkey chili soup medium,11,g,85,mg,1170,g,39,g,27,g,3,g,0,g,9,g,14,g
+13,hale and hearty soups,turkey chili soup small,7,g,55,mg,780,g,26,g,18,g,2,g,0,g,6,g,9,g
+14,hale and hearty soups,turkey dinner soup large,10,g,50,mg,2300,g,46,g,22,g,4,g,0,g,6,g,18,g
+15,hale and hearty soups,turkey dinner soup medium,8,g,40,mg,1730,g,35,g,17,g,3,g,0,g,5,g,14,g
+16,hale and hearty soups,turkey dinner soup small,5,g,25,mg,1150,g,23,g,11,g,2,g,0,g,3,g,9,g
+17,hale and hearty soups,turkey gumbo soup large,14,g,100,mg,1600,g,26,g,42,g,8,g,0,g,4,g,8,g
+18,hale and hearty soups,turkey gumbo soup medium,11,g,75,mg,1200,g,20,g,32,g,6,g,0,g,3,g,6,g
+19,hale and hearty soups,turkey gumbo soup small,7,g,50,mg,800,g,13,g,21,g,4,g,0,g,2,g,4,g
+20,hale and hearty soups,turkey pot pie soup large,20,g,120,mg,1820,g,38,g,18,g,10,g,0,g,6,g,8,g
+21,hale and hearty soups,turkey pot pie soup medium,15,g,90,mg,1370,g,29,g,14,g,8,g,0,g,5,g,6,g
+22,hale and hearty soups,turkey pot pie soup small,10,g,60,mg,910,g,19,g,9,g,5,g,0,g,3,g,4,g
+23,hale and hearty soups,turkey avocado and walnut pesto sandwich boston,60,g,90,mg,2340,g,60,g,48,g,8,g,0,g,8,g,6,g
+24,hale and hearty soups,turkey avocado and walnut pesto sandwich nyc,60,g,90,mg,2390,g,69,g,50,g,8,g,0,g,9,g,6,g
+25,hale and hearty soups,tuscan chicken soup large,4,g,40,mg,1380,g,38,g,22,g,0,g,0,g,6,g,6,g
+26,hale and hearty soups,tuscan chicken soup medium,3,g,30,mg,1040,g,29,g,17,g,0,g,0,g,5,g,5,g
+27,hale and hearty soups,tuscan chicken soup small,2,g,20,mg,690,g,19,g,11,g,0,g,0,g,3,g,3,g
+28,hale and hearty soups,tuscan white bean soup large,3,g,0,mg,1300,g,66,g,24,g,0,g,0,g,18,g,6,g
+29,hale and hearty soups,tuscan white bean soup medium,2.5,g,0,mg,980,g,50,g,18,g,0,g,0,g,14,g,5,g
+30,hale and hearty soups,tuscan white bean soup small,1.5,g,0,mg,650,g,33,g,12,g,0,g,0,g,9,g,3,g
+31,hale and hearty soups,upstate apple cheddar soup large,36,g,120,mg,1670,g,49,g,16,g,21,g,0,g,5,g,26,g
+32,hale and hearty soups,upstate apple cheddar soup medium,27,g,90,mg,1250,g,37,g,12,g,16,g,0,g,4,g,19,g
+33,hale and hearty soups,upstate apple cheddar soup small,18,g,60,mg,830,g,25,g,8,g,10,g,0,g,2,g,13,g
+34,hale and hearty soups,veal stew with mushrooms and thyme soup large,43,g,50,mg,1720,g,32,g,14,g,17,g,0,g,5,g,12,g
+35,hale and hearty soups,veal stew with mushrooms and thyme soup medium,32,g,40,mg,1290,g,24,g,11,g,13,g,0,g,4,g,9,g
+36,hale and hearty soups,veal stew with mushrooms and thyme soup small,22,g,25,mg,860,g,16,g,7,g,9,g,0,g,3,g,6,g
+37,hale and hearty soups,vegetable barley soup large,4,g,0,mg,1540,g,40,g,6,g,0,g,0,g,10,g,12,g
+38,hale and hearty soups,vegetable barley soup medium,3,g,0,mg,1160,g,30,g,5,g,0,g,0,g,8,g,9,g
+39,hale and hearty soups,vegetable barley soup small,2,g,0,mg,770,g,20,g,3,g,0,g,0,g,5,g,6,g
+40,hale and hearty soups,vegetable jambalaya soup large,3,g,0,mg,1400,g,46,g,6,g,0,g,0,g,6,g,8,g
+41,hale and hearty soups,vegetable jambalaya soup medium,2.5,g,0,mg,1050,g,35,g,5,g,0,g,0,g,5,g,6,g
+42,hale and hearty soups,vegetable jambalaya soup small,1.5,g,0,mg,700,g,23,g,3,g,0,g,0,g,3,g,4,g
+43,hale and hearty soups,vegetable kale and wild rice soup large,5,g,0,mg,1330,g,42,g,12,g,0,g,0,g,8,g,12,g
+44,hale and hearty soups,vegetable kale and wild rice soup medium,4,g,0,mg,1000,g,32,g,9,g,0,g,0,g,6,g,9,g
+45,hale and hearty soups,vegetable kale and wild rice soup small,2.5,g,0,mg,670,g,21,g,6,g,0,g,0,g,4,g,6,g
+46,hale and hearty soups,vegetable noodle soup large,1,g,15,mg,1320,g,23,g,5,g,0,g,0,g,4,g,5,g
+47,hale and hearty soups,vegetable noodle soup medium,1,g,10,mg,990,g,17,g,4,g,0,g,0,g,3,g,4,g
+48,hale and hearty soups,vegetable noodle soup small,0.5,g,5,mg,660,g,12,g,3,g,0,g,0,g,2,g,2,g
+49,hale and hearty soups,vegetarian black lentil soup large,3,g,0,mg,1360,g,30,g,6,g,0,g,0,g,6,g,6,g
+50,hale and hearty soups,vegetarian black lentil soup medium,2.5,g,0,mg,1020,g,23,g,5,g,0,g,0,g,5,g,5,g
+51,hale and hearty soups,vegetarian black lentil soup small,1.5,g,0,mg,680,g,15,g,3,g,0,g,0,g,3,g,3,g
+52,hale and hearty soups,vegetarian split pea soup large,4,g,0,mg,1340,g,66,g,22,g,0,g,0,g,26,g,14,g
+53,hale and hearty soups,vegetarian split pea soup medium,3,g,0,mg,1010,g,50,g,17,g,0,g,0,g,20,g,11,g
+54,hale and hearty soups,vegetarian split pea soup small,2,g,0,mg,670,g,33,g,11,g,0,g,0,g,13,g,7,g
+55,hale and hearty soups,vegetarian sweet corn chowder soup large,22,g,70,mg,1480,g,84,g,8,g,14,g,0,g,10,g,20,g
+56,hale and hearty soups,vegetarian sweet corn chowder soup medium,17,g,55,mg,1110,g,63,g,6,g,11,g,0,g,8,g,15,g
+57,hale and hearty soups,vegetarian sweet corn chowder soup small,11,g,35,mg,740,g,42,g,4,g,7,g,0,g,5,g,10,g
+58,hale and hearty soups,vietnamese shrimp and pork noodle soup large,11,g,85,mg,1000,g,27,g,18,g,4,g,0,g,4,g,6,g
+59,hale and hearty soups,vietnamese shrimp and pork noodle soup medium,8,g,65,mg,750,g,21,g,14,g,3,g,0,g,3,g,5,g
+60,hale and hearty soups,vietnamese shrimp and pork noodle soup small,6,g,45,mg,500,g,14,g,9,g,2,g,0,g,2,g,3,g
+61,hale and hearty soups,walnuts,20,g,0,mg,0,g,4,g,5,g,2,g,0,g,2,g,1,g
+62,hale and hearty soups,white cheddar mac and cheese soup large,52,g,170,mg,1780,g,56,g,34,g,32,g,0,g,4,g,6,g
+63,hale and hearty soups,white cheddar mac and cheese soup medium,39,g,130,mg,1340,g,42,g,26,g,24,g,0,g,3,g,5,g
+64,hale and hearty soups,white cheddar mac and cheese soup small,26,g,85,mg,890,g,28,g,17,g,16,g,0,g,2,g,3,g
+65,hale and hearty soups,wild mushroom barley soup large,2,g,0,mg,1300,g,34,g,6,g,0,g,0,g,8,g,8,g
+66,hale and hearty soups,wild mushroom barley soup medium,1.5,g,0,mg,980,g,26,g,5,g,0,g,0,g,6,g,6,g
+67,hale and hearty soups,wild mushroom barley soup small,1,g,0,mg,650,g,17,g,3,g,0,g,0,g,4,g,4,g
+68,hale and hearty soups,wild mushroom fagioli soup large,4,g,0,mg,1300,g,60,g,20,g,0,g,0,g,14,g,8,g
+69,hale and hearty soups,wild mushroom fagioli soup medium,3,g,0,mg,980,g,45,g,15,g,0,g,0,g,11,g,6,g
+70,hale and hearty soups,wild mushroom fagioli soup small,2,g,0,mg,650,g,30,g,10,g,0,g,0,g,7,g,4,g
+71,hale and hearty soups,wild mushroom lentil soup large,4,g,0,mg,1480,g,50,g,18,g,0,g,0,g,20,g,8,g
+72,hale and hearty soups,wild mushroom lentil soup medium,3,g,0,mg,1110,g,38,g,14,g,0,g,0,g,15,g,6,g
+73,hale and hearty soups,wild mushroom lentil soup small,2,g,0,mg,740,g,25,g,9,g,0,g,0,g,10,g,4,g
+74,hale and hearty soups,wild mushroom risotto soup large,44,g,160,mg,1520,g,36,g,18,g,26,g,0,g,2,g,4,g
+75,hale and hearty soups,wild mushroom risotto soup medium,33,g,120,mg,1140,g,27,g,14,g,20,g,0,g,2,g,3,g
+76,hale and hearty soups,wild mushroom risotto soup small,22,g,80,mg,760,g,18,g,9,g,13,g,0,g,1,g,2,g
+77,hale and hearty soups,wild mushroom soup kale and orzo soup large,4,g,0,mg,1340,g,32,g,8,g,0,g,0,g,8,g,12,g
+78,hale and hearty soups,wild mushroom soup kale and orzo soup medium,3,g,0,mg,1010,g,24,g,6,g,0,g,0,g,6,g,9,g
+79,hale and hearty soups,wild mushroom soup kale and orzo soup small,2,g,0,mg,670,g,16,g,4,g,0,g,0,g,4,g,6,g
+80,hale and hearty soups,winter chicken soup large,12,g,80,mg,1480,g,30,g,26,g,6,g,0,g,6,g,8,g
+81,hale and hearty soups,winter chicken soup medium,9,g,60,mg,1110,g,23,g,20,g,5,g,0,g,5,g,6,g
+82,hale and hearty soups,winter chicken soup small,6,g,40,mg,740,g,15,g,13,g,3,g,0,g,3,g,4,g
+83,hale and hearty soups,winter vegetable soup large,4,g,0,mg,1280,g,40,g,4,g,0,g,0,g,6,g,12,g
+84,hale and hearty soups,winter vegetable soup medium,3,g,0,mg,960,g,30,g,3,g,0,g,0,g,5,g,9,g
+85,hale and hearty soups,winter vegetable soup small,2,g,0,mg,640,g,20,g,2,g,0,g,0,g,3,g,6,g
+86,hale and hearty soups,winter vegetable with dumplings soup large,4,g,10,mg,1780,g,60,g,8,g,0,g,0,g,10,g,16,g
+87,hale and hearty soups,winter vegetable with dumplings soup medium,3,g,10,mg,1340,g,45,g,6,g,0,g,0,g,8,g,12,g
+88,hale and hearty soups,winter vegetable with dumplings soup small,2,g,5,mg,890,g,30,g,4,g,0,g,0,g,5,g,8,g
+89,hale and hearty soups,yukon potato with 4 cheeses soup large,54,g,180,mg,1700,g,40,g,32,g,34,g,0,g,4,g,4,g
+90,hale and hearty soups,yukon potato with 4 cheeses soup medium,41,g,135,mg,1280,g,30,g,24,g,26,g,0,g,3,g,3,g
+91,hale and hearty soups,yukon potato with 4 cheeses soup small,27,g,90,mg,850,g,20,g,16,g,17,g,0,g,2,g,2,g
+92,hale and hearty soups,zesty southern caesar with spicy caesar dressing entree,67,g,90,mg,870,g,28,g,25,g,13,g,0,g,8,g,3,g
+93,hale and hearty soups,zesty southern caesar with spicy caesar dressing pairing,58,g,75,mg,840,g,19,g,18,g,12,g,0,g,5,g,2,g
+94,happi house restaurant,asian chicken salad,4,g,10,mg,170,g,7,g,5,g,0,g,0,g,1,g,0,g
+95,happi house restaurant,beef teriyaki,20,g,115,mg,780,g,6,g,39,g,0,g,0,g,0,g,0,g
+96,happi house restaurant,chicken tenders,6,g,145,mg,910,g,7,g,54,g,0,g,0,g,0,g,0,g
+97,happi house restaurant,chicken tenders appetizer,5,g,120,mg,630,g,5,g,45,g,0,g,0,g,0,g,0,g
+98,happi house restaurant,chicken teriyaki,26,g,160,mg,680,g,8,g,52,g,0,g,0,g,0,g,0,g
+99,happi house restaurant,edamame,5,g,0,mg,390,g,14,g,11,g,0,g,0,g,4,g,0,g
+100,happi house restaurant,firecracker wings,15,g,105,mg,1040,g,11,g,36,g,0,g,0,g,0,g,0,g
+101,happi house restaurant,fried zucchini,52,g,50,mg,270,g,26,g,9,g,0,g,0,g,3,g,0,g
+102,happi house restaurant,grilled salmon teriyaki,19,g,150,mg,370,g,2,g,47,g,0,g,0,g,0,g,0,g
+103,happi house restaurant,happi rice bowl beef,20,g,85,mg,810,g,49,g,36,g,0,g,0,g,3,g,0,g
+104,happi house restaurant,happi rice bowl chicken,8,g,70,mg,800,g,49,g,33,g,0,g,0,g,3,g,0,g
+105,happi house restaurant,happi rice bowl combo,14,g,85,mg,800,g,49,g,36,g,0,g,0,g,3,g,0,g
+106,happi house restaurant,happi rice bowl pork,16,g,100,mg,800,g,49,g,38,g,0,g,0,g,3,g,0,g
+107,happi house restaurant,happi rice bowl veggie,5,g,0,mg,450,g,54,g,9,g,0,g,0,g,6,g,0,g
+108,happi house restaurant,happi wrap,9,g,35,mg,220,g,22,g,16,g,0,g,0,g,1,g,0,g
+109,happi house restaurant,katsu chicken,48,g,120,mg,910,g,38,g,19,g,0,g,0,g,0,g,0,g
+110,happi house restaurant,kids meal beef,16,g,75,mg,490,g,17,g,28,g,0,g,0,g,1,g,0,g
+111,happi house restaurant,kids meal chicken drumstick,16,g,70,mg,490,g,18,g,25,g,0,g,0,g,1,g,0,g
+112,happi house restaurant,kids meal chicken fingers,20,g,80,mg,440,g,19,g,28,g,0,g,0,g,1,g,0,g
+113,happi house restaurant,kids meal chicken tenders,8,g,65,mg,480,g,17,g,26,g,0,g,0,g,1,g,0,g
+114,happi house restaurant,kids meal pork,14,g,85,mg,490,g,17,g,29,g,0,g,0,g,1,g,0,g
+115,happi house restaurant,miso soup,4,g,0,mg,570,g,6,g,7,g,0,g,0,g,2,g,0,g
+116,happi house restaurant,mixed tempura,68,g,100,mg,400,g,36,g,19,g,0,g,0,g,4,g,0,g
+117,happi house restaurant,onion rings,52,g,50,mg,160,g,29,g,8,g,0,g,0,g,3,g,0,g
+118,happi house restaurant,pineapple chicken,6,g,145,mg,650,g,23,g,54,g,0,g,0,g,1,g,0,g
+119,happi house restaurant,pork teriyaki,15,g,135,mg,780,g,6,g,42,g,0,g,0,g,0,g,0,g
+120,happi house restaurant,potato happi faces,15,g,0,mg,390,g,24,g,2,g,0,g,0,g,2,g,0,g
+121,happi house restaurant,ranch dressing,14,g,10,mg,260,g,2,g,1,g,0,g,0,g,0,g,0,g
+122,happi house restaurant,rice beef,1,g,0,mg,160,g,36,g,4,g,0,g,0,g,1,g,0,g
+123,happi house restaurant,rice white,0,g,0,mg,0,g,24,g,2,g,0,g,0,g,0,g,0,g
+124,happi house restaurant,saimin noodle bowl,2,g,15,mg,860,g,41,g,12,g,0,g,0,g,5,g,0,g
+125,happi house restaurant,sandwich beef,29,g,125,mg,1480,g,81,g,57,g,0,g,0,g,4,g,0,g
+126,happi house restaurant,sandwich chicken,15,g,135,mg,1070,g,77,g,61,g,0,g,0,g,4,g,0,g
+127,happi house restaurant,sandwich pork,24,g,150,mg,1470,g,81,g,59,g,0,g,0,g,4,g,0,g
+128,happi house restaurant,sesame peanut dressing,10,g,5,mg,570,g,18,g,3,g,0,g,0,g,0,g,0,g
+129,happi house restaurant,shrimp tempura,38,g,95,mg,220,g,13,g,13,g,0,g,0,g,1,g,0,g
+130,happi house restaurant,shrimp tempura appetizer,19,g,45,mg,110,g,7,g,6,g,0,g,0,g,0,g,0,g
+131,happi house restaurant,side asian chicken salad,4,g,10,mg,170,g,7,g,5,g,0,g,0,g,1,g,0,g
+132,happi house restaurant,side onion rings,10,g,10,mg,55,g,6,g,2,g,0,g,0,g,1,g,0,g
+133,happi house restaurant,string bean fries,51,g,50,mg,270,g,25,g,9,g,0,g,0,g,5,g,0,g
+134,happi house restaurant,sweetfired chicken and stringbean,9,g,80,mg,910,g,52,g,39,g,0,g,0,g,4,g,0,g
+135,happi house restaurant,sweetfired eggplant and tofu,6,g,10,mg,800,g,51,g,40,g,0,g,0,g,5,g,0,g
+136,happi house restaurant,tempura sweet potato,5,g,5,mg,30,g,6,g,1,g,0,g,0,g,1,g,0,g
+137,happi house restaurant,teriyaki burger,25,g,55,mg,920,g,71,g,22,g,0,g,0,g,2,g,0,g
+138,happi house restaurant,thai chicken salad,13,g,120,mg,560,g,29,g,52,g,0,g,0,g,3,g,0,g
+139,happi house restaurant,thai salmon salad,13,g,75,mg,340,g,14,g,26,g,0,g,0,g,4,g,0,g
+140,happi house restaurant,thai steak salad,13,g,120,mg,560,g,29,g,52,g,0,g,0,g,3,g,0,g
+141,happi house restaurant,udon noodle bowl,3,g,15,mg,1510,g,55,g,11,g,0,g,0,g,5,g,0,g
+142,happi house restaurant,veggie tempura,52,g,50,mg,280,g,30,g,9,g,0,g,0,g,7,g,0,g
+143,happi house restaurant,wasabi ranch sauce,13,g,10,mg,260,g,2,g,1,g,0,g,0,g,0,g,0,g
+144,happi house restaurant,wings and rings,44,g,110,mg,940,g,26,g,32,g,0,g,0,g,2,g,0,g
+145,happy joes,3 meat omelet pizza large,3.5,g,25,mg,290,g,13,g,5,g,1,g,0,g,1,g,1,g
+146,happy joes,3 meat omelet pizza little joes,7,g,55,mg,490,g,20,g,8,g,2,g,0,g,1,g,1,g
+147,happy joes,3 meat omelet pizza medium,3,g,25,mg,250,g,10,g,4,g,1,g,0,g,1,g,1,g
+148,happy joes,3 meat omelet pizza small,3,g,25,mg,230,g,9,g,4,g,1,g,0,g,1,g,1,g
+149,happy joes,3 meat scrambler,40,g,380,mg,2560,g,72,g,38,g,14,g,0,g,5,g,9,g
+150,happy joes,almonds,14,g,0,mg,0,g,6,g,6,g,1,g,0,g,3,g,1,g
+151,happy joes,angry orchard crisp apple hard cider,0,g,0,mg,10,g,30,g,0,g,0,g,0,g,0,g,24,g
+152,happy joes,apple dessert fargo nd,1,g,0,mg,10,g,10,g,1,g,0,g,0,g,1,g,2,g
+153,happy joes,bacon and bacon omelet pizza large,3.5,g,25,mg,310,g,13,g,5,g,1,g,0,g,1,g,1,g
+154,happy joes,bacon and bacon omelet pizza little joes,6,g,50,mg,470,g,20,g,8,g,2,g,0,g,1,g,1,g
+155,happy joes,bacon and bacon omelet pizza medium,3,g,25,mg,260,g,10,g,4,g,1,g,0,g,1,g,1,g
+156,happy joes,bacon and bacon omelet pizza small,3,g,25,mg,230,g,9,g,4,g,1,g,0,g,0,g,1,g
+157,happy joes,bacon pieces cauliflower pizza,3,g,0,mg,400,g,7,g,7,g,5,g,0,g,1,g,2,g
+158,happy joes,bacon pieces gluten free pizza,10,g,20,mg,480,g,10,g,7,g,5,g,0,g,1,g,2,g
+159,happy joes,bacon pieces original crust pizza 12 inch,13,g,25,mg,540,g,20,g,13,g,5,g,1,g,1,g,2,g
+160,happy joes,bacon pieces original crust pizza 15 inch,15,g,25,mg,640,g,23,g,15,g,6,g,1,g,2,g,3,g
+161,happy joes,bacon pieces original crust pizza 6 inch,9,g,15,mg,410,g,15,g,9,g,4,g,0,g,1,g,2,g
+162,happy joes,bacon pieces original crust pizza 9 inch,8,g,15,mg,360,g,15,g,9,g,3,g,0,g,1,g,2,g
+163,happy joes,bacon pieces pan crust pizza 12 inch,20,g,25,mg,570,g,22,g,14,g,6,g,1,g,2,g,2,g
+164,happy joes,bacon pieces pan crust pizza 15 inch,20,g,30,mg,660,g,25,g,16,g,7,g,1,g,2,g,2,g
+165,happy joes,bacon pieces pan crust pizza 6 inch,13,g,15,mg,400,g,17,g,9,g,4,g,1,g,1,g,1,g
+166,happy joes,bacon pieces pan crust pizza 9 inch,13,g,15,mg,370,g,16,g,9,g,4,g,1,g,1,g,1,g
+167,happy joes,barqs root beer,0,g,0,mg,5,g,4,g,0,g,0,g,0,g,0,g,4,g
+168,happy joes,bbq beef calzone,33,g,80,mg,2530,g,139,g,50,g,13,g,2.5,g,9,g,17,g
+169,happy joes,bbq canadian bacon calzone,34,g,100,mg,3040,g,140,g,48,g,13,g,2.5,g,9,g,19,g
+170,happy joes,bbq gluten free pizza,4,g,25,mg,390,g,14,g,6,g,2,g,0,g,1,g,4,g
+171,happy joes,bbq original crust pizza 12 inch,6,g,20,mg,390,g,25,g,10,g,3,g,0,g,1,g,6,g
+172,happy joes,bbq original crust pizza 15 inch,7,g,25,mg,460,g,29,g,12,g,3,g,0.5,g,2,g,7,g
+173,happy joes,bbq original crust pizza 6 inch,4.5,g,15,mg,260,g,18,g,7,g,2,g,0,g,1,g,4,g
+174,happy joes,bbq original crust pizza 9 inch,4.5,g,15,mg,270,g,17,g,8,g,2,g,0,g,1,g,4,g
+175,happy joes,bbq pan crust pizza 12 inch,13,g,20,mg,380,g,27,g,10,g,3.5,g,0.5,g,2,g,6,g
+176,happy joes,bbq pan crust pizza 15 inch,14,g,20,mg,430,g,30,g,12,g,4,g,1,g,2,g,7,g
+177,happy joes,bbq pan crust pizza 6 inch,8,g,15,mg,240,g,20,g,7,g,2,g,0.5,g,1,g,4,g
+178,happy joes,bbq pan crust pizza 9 inch,9,g,15,mg,260,g,18,g,8,g,2.5,g,0.5,g,1,g,4,g
+179,happy joes,bear creek carmel ice cream,7,g,25,mg,85,g,21,g,2,g,4.5,g,0,g,0,g,16,g
+180,happy joes,beef calzone,38,g,70,mg,3170,g,137,g,48,g,15,g,3,g,10,g,14,g
+181,happy joes,beef cauliflower pizza,6,g,0,mg,370,g,7,g,6,g,2,g,0,g,1,g,2,g
+182,happy joes,beef gluten free pizza,5,g,20,mg,450,g,10,g,6,g,2,g,0,g,1,g,2,g
+183,happy joes,beef original crust pizza 12 inch,9,g,20,mg,500,g,21,g,11,g,4,g,1,g,2,g,2,g
+184,happy joes,beef original crust pizza 15 inch,10,g,20,mg,590,g,24,g,12,g,4,g,1,g,2,g,3,g
+185,happy joes,beef original crust pizza 6 inch,5,g,10,mg,320,g,16,g,7,g,2,g,0,g,1,g,2,g
+186,happy joes,beef original crust pizza 9 inch,6,g,15,mg,330,g,16,g,7,g,2,g,0,g,1,g,2,g
+187,happy joes,beef pan crust pizza 12 inch,16,g,20,mg,530,g,23,g,12,g,5,g,1,g,2,g,2,g
+188,happy joes,beef pan crust pizza 15 inch,18,g,25,mg,600,g,26,g,13,g,6,g,1,g,2,g,2,g
+189,happy joes,beef pan crust pizza 6 inch,10,g,15,mg,320,g,17,g,7,g,3,g,1,g,1,g,1,g
+190,happy joes,beef pan crust pizza 9 inch,10,g,15,mg,340,g,16,g,8,g,3,g,1,g,1,g,1,g
+191,happy joes,biscuits and gravy,10,g,20,mg,540,g,30,g,18,g,6,g,0,g,1,g,3,g
+192,happy joes,black olives cauliflower pizza,6,g,0,mg,260,g,12,g,4,g,2,g,0,g,1,g,2,g
+193,happy joes,black olives gluten free pizza,5,g,20,mg,370,g,12,g,4,g,2,g,0,g,1,g,2,g
+194,happy joes,black olives original crust pizza 12 inch,7,g,15,mg,370,g,21,g,8,g,3,g,0,g,2,g,2,g
+195,happy joes,black olives original crust pizza 15 inch,8,g,15,mg,390,g,24,g,9,g,3,g,1,g,2,g,2,g
+196,happy joes,black olives original crust pizza 6 inch,5,g,10,mg,230,g,16,g,5,g,2,g,0,g,1,g,2,g
+197,happy joes,black olives original crust pizza 9 inch,5,g,10,mg,250,g,16,g,6,g,2,g,0,g,1,g,2,g
+198,happy joes,black olives pan crust pizza 12 inch,15,g,15,mg,390,g,23,g,9,g,4,g,1,g,2,g,2,g
+199,happy joes,black olives pan crust pizza 15 inch,16,g,20,mg,400,g,26,g,10,g,5,g,1,g,2,g,2,g
+200,happy joes,black olives pan crust pizza 6 inch,9,g,10,mg,230,g,17,g,6,g,3,g,1,g,1,g,1,g
+201,happy joes,black olives pan crust pizza 9 inch,10,g,10,mg,250,g,16,g,6,g,3,g,1,g,1,g,1,g
+202,happy joes,blt calzone,40,g,65,mg,2530,g,136,g,39,g,13,g,2,g,9,g,15,g
+203,happy joes,blt gluten free pizza,7,g,25,mg,380,g,12,g,6,g,2,g,0,g,1,g,3,g
+204,happy joes,blt original crust pizza 12 inch,10,g,20,mg,370,g,21,g,10,g,3,g,0,g,2,g,5,g
+205,happy joes,blt original crust pizza 15 inch,10,g,30,mg,470,g,25,g,12,g,4,g,1,g,2,g,6,g
+206,happy joes,blt original crust pizza 6 inch,8,g,15,mg,280,g,16,g,7,g,2,g,0,g,1,g,4,g
+207,happy joes,blt original crust pizza 9 inch,7,g,15,mg,260,g,16,g,7,g,2,g,0,g,1,g,3,g
+208,happy joes,blt pan crust pizza 12 inch,17,g,20,mg,350,g,22,g,10,g,4,g,1,g,2,g,4,g
+209,happy joes,blt pan crust pizza 15 inch,21,g,30,mg,390,g,26,g,11,g,6,g,1,g,2,g,6,g
+210,happy joes,blt pan crust pizza 6 inch,12,g,15,mg,260,g,17,g,7,g,3,g,1,g,1,g,3,g
+211,happy joes,blt pan crust pizza 9 inch,11,g,15,mg,250,g,16,g,7,g,3,g,1,g,1,g,3,g
+212,happy joes,blue moon ice cream,7,g,30,mg,50,g,16,g,2,g,4,g,0,g,0,g,13,g
+213,happy joes,blueberries,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,1,g,3,g
+214,happy joes,blueberry cheesecake ice cream,5,g,25,mg,50,g,19,g,2,g,3.5,g,0,g,0,g,17,g
+215,happy joes,bone in wings with ranch,83,g,170,mg,1490,g,9,g,48,g,18,g,0,g,0,g,2,g
+216,happy joes,bone in wings bbq,83,g,170,mg,2740,g,39,g,48,g,18,g,0,g,0,g,29,g
+217,happy joes,bone in wings garlic bbq,83,g,170,mg,2840,g,45,g,48,g,18,g,0,g,0,g,29,g
+218,happy joes,bone in wings happy joes taco,83,g,170,mg,2240,g,21,g,48,g,18,g,0,g,0,g,14,g
+219,happy joes,bone in wings honey mustard,83,g,170,mg,2360,g,54,g,51,g,18,g,0,g,3,g,38,g
+220,happy joes,bone in wings hot,83,g,170,mg,2840,g,9,g,48,g,18,g,0,g,0,g,56,g
+221,happy joes,bone in wings plain,45,g,160,mg,1010,g,5,g,48,g,12,g,0,g,0,g,0,g
+222,happy joes,bone in wings sweet chili,83,g,170,mg,1670,g,60,g,48,g,18,g,0,g,0,g,47,g
+223,happy joes,bone in wings teriyaki,83,g,170,mg,2660,g,18,g,48,g,18,g,0,g,0,g,11,g
+224,happy joes,boneless wings with ranch,60,g,55,mg,2240,g,41,g,28,g,9,g,0,g,3,g,2,g
+225,happy joes,boneless wings bbq,60,g,55,mg,3500,g,71,g,28,g,9,g,0,g,3,g,29,g
+226,happy joes,boneless wings garlic bbq,60,g,55,mg,3590,g,77,g,28,g,9,g,0,g,3,g,29,g
+227,happy joes,boneless wings happy joes taco,60,g,55,mg,2990,g,53,g,28,g,9,g,0,g,3,g,14,g
+228,happy joes,boneless wings honey mustard,60,g,55,mg,3110,g,86,g,31,g,9,g,0,g,6,g,38,g
+229,happy joes,boneless wings hot,60,g,55,mg,3600,g,41,g,28,g,9,g,0,g,3,g,56,g
+230,happy joes,boneless wings plain,22,g,45,mg,1770,g,37,g,28,g,3,g,0,g,3,g,0,g
+231,happy joes,boneless wings sweet chili,60,g,55,mg,2420,g,92,g,28,g,9,g,0,g,3,g,47,g
+232,happy joes,boneless wings teriyaki,60,g,55,mg,3410,g,50,g,28,g,9,g,0,g,3,g,11,g
+233,happy joes,breakfast burrito,17,g,245,mg,1300,g,16,g,19,g,6,g,0.5,g,1,g,3,g
+234,happy joes,brisk raspberry iced tea,0,g,0,mg,5,g,2,g,0,g,0,g,0,g,0,g,2,g
+235,happy joes,brisk unsweetened no lemon iced tea,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+236,happy joes,brownie bites,6,g,20,mg,160,g,17,g,2,g,2.5,g,0,g,1,g,10,g
+237,happy joes,bubble gum ice cream,6,g,25,mg,50,g,15,g,2,g,4,g,0,g,0,g,12,g
+238,happy joes,bud light,0,g,0,mg,10,g,7,g,1,g,0,g,0,g,0,g,0,g
+239,happy joes,budweiser,0,g,0,mg,20,g,11,g,1,g,0,g,0,g,0,g,0,g
+240,happy joes,buffet bacon pieces,5,g,20,mg,300,g,1,g,6,g,2,g,0,g,0,g,0,g
+241,happy joes,buffet beef stroganoff,6,g,10,mg,670,g,13,g,8,g,2.5,g,0,g,1,g,1,g
+242,happy joes,buffet blt pasta,2.5,g,5,mg,105,g,3,g,2,g,0.5,g,0,g,0,g,1,g
+243,happy joes,buffet broccoli cheese soup,11,g,10,mg,800,g,10,g,2,g,3,g,0,g,2,g,2,g
+244,happy joes,buffet broccoli cheese soup quality chef,14,g,45,mg,1270,g,11,g,9,g,8,g,0.5,g,2,g,5,g
+245,happy joes,buffet brown and wild rice with chicken soup,12,g,30,mg,680,g,19,g,6,g,5,g,0,g,2,g,5,g
+246,happy joes,buffet canadian bacon pasta,3,g,10,mg,140,g,4,g,3,g,1.5,g,0,g,0,g,1,g
+247,happy joes,buffet chicken and dumpling soup,4.5,g,40,mg,820,g,20,g,4,g,1,g,0,g,2,g,2,g
+248,happy joes,buffet chicken noodle soup,2,g,15,mg,790,g,10,g,4,g,0.5,g,0,g,0,g,1,g
+249,happy joes,buffet chicken pot pie,8,g,35,mg,220,g,12,g,14,g,3,g,2,g,0,g,2,g
+250,happy joes,buffet chicken tortilla mexican soup,1.5,g,15,mg,410,g,20,g,7,g,0.5,g,0,g,2,g,3,g
+251,happy joes,buffet corn,0.5,g,0,mg,0,g,19,g,3,g,0,g,0,g,2,g,3,g
+252,happy joes,buffet corn nuggets,6,g,0,mg,420,g,31,g,3,g,1,g,0,g,2,g,2,g
+253,happy joes,buffet cottage cheese,0,g,5,mg,370,g,7,g,10,g,0,g,0,g,0,g,2,g
+254,happy joes,buffet cream of chicken soup,3.5,g,10,mg,760,g,10,g,3,g,1,g,0,g,0,g,1,g
+255,happy joes,buffet cream of mushroom soup,6,g,0,mg,790,g,10,g,2,g,1,g,0,g,1,g,1,g
+256,happy joes,buffet cream of potato with bacon soup,14,g,20,mg,830,g,18,g,4,g,5,g,0,g,1,g,3,g
+257,happy joes,buffet croutons,1,g,0,mg,90,g,5,g,1,g,0,g,0,g,0,g,0,g
+258,happy joes,buffet dressing 1000 island,11,g,10,mg,240,g,7,g,0,g,1.5,g,0,g,0,g,5,g
+259,happy joes,buffet dressing caesar,13,g,0,mg,290,g,2,g,1,g,2,g,0,g,0,g,1,g
+260,happy joes,buffet dressing french,11,g,0,mg,300,g,10,g,0,g,1.5,g,0,g,0,g,10,g
+261,happy joes,buffet dressing ranch,20,g,5,mg,260,g,2,g,0,g,3,g,0,g,0,g,1,g
+262,happy joes,buffet garden pasta,3,g,10,mg,130,g,4,g,2,g,1.5,g,0,g,0,g,1,g
+263,happy joes,buffet garlic toast,9,g,0,mg,280,g,17,g,3,g,2,g,0,g,1,g,0,g
+264,happy joes,buffet graham cracker,1.5,g,0,mg,90,g,11,g,1,g,0,g,0,g,1,g,3,g
+265,happy joes,buffet ham and potatoes,2.5,g,15,mg,800,g,12,g,6,g,0,g,0,g,1,g,3,g
+266,happy joes,buffet hard boiled eggs,4,g,190,mg,55,g,0,g,6,g,1.5,g,0,g,0,g,0,g
+267,happy joes,buffet lettuce,0,g,0,mg,10,g,3,g,1,g,0,g,0,g,2,g,1,g
+268,happy joes,buffet little smokies,16,g,45,mg,660,g,6,g,6,g,5,g,0,g,0,g,3,g
+269,happy joes,buffet mac and cheese,17,g,30,mg,820,g,33,g,15,g,7,g,0,g,2,g,4,g
+270,happy joes,buffet mashed potatoes,1.5,g,0,mg,410,g,17,g,2,g,0,g,0,g,1,g,1,g
+271,happy joes,buffet meat ball,15,g,85,mg,670,g,7,g,12,g,6,g,0.5,g,0,g,1,g
+272,happy joes,buffet minestrone soup,0.5,g,0,mg,650,g,12,g,3,g,0,g,0,g,3,g,4,g
+273,happy joes,buffet pepperoni pasta,4,g,10,mg,130,g,4,g,3,g,2,g,0,g,0,g,1,g
+274,happy joes,buffet pickle slice,0,g,0,mg,380,g,0,g,0,g,0,g,0,g,0,g,0,g
+275,happy joes,buffet polish sausage,22,g,50,mg,760,g,2,g,10,g,8,g,0,g,0,g,2,g
+276,happy joes,buffet ravioli beef in meat sauce,8,g,25,mg,600,g,30,g,16,g,3.5,g,0,g,4,g,6,g
+277,happy joes,buffet sausage pasta,3.5,g,10,mg,130,g,4,g,3,g,1.5,g,0,g,0,g,1,g
+278,happy joes,buffet seafood pasta,2.5,g,15,mg,105,g,4,g,4,g,2,g,0,g,0,g,0,g
+279,happy joes,buffet shredded cheddar cheese,31,g,95,mg,5,g,2,g,22,g,20,g,0,g,0,g,1,g
+280,happy joes,buffet soft taco shells,5,g,0,mg,430,g,38,g,7,g,2,g,0,g,2,g,3,g
+281,happy joes,buffet sour cream,20,g,50,mg,45,g,3,g,2,g,12,g,0,g,0,g,3,g
+282,happy joes,buffet spicy chicken nuggets,7,g,35,mg,770,g,14,g,16,g,1.5,g,0,g,1,g,0,g
+283,happy joes,buffet sunflower kernels,15,g,0,mg,140,g,5,g,5,g,1.5,g,0,g,2,g,1,g
+284,happy joes,buffet taco pasta,2.5,g,5,mg,85,g,4,g,2,g,1,g,0,g,1,g,1,g
+285,happy joes,buffet taco shells,8,g,0,mg,0,g,21,g,1,g,3.5,g,0,g,1,g,0,g
+286,happy joes,buffet tater tot casserole,6,g,5,mg,420,g,10,g,4,g,2,g,0,g,1,g,2,g
+287,happy joes,buffet tater tots,8,g,0,mg,330,g,19,g,2,g,2,g,0,g,2,g,1,g
+288,happy joes,buffet tomato,0,g,0,mg,5,g,4,g,1,g,0,g,0,g,1,g,3,g
+289,happy joes,buffet vegetarian pasta,2.5,g,5,mg,100,g,4,g,2,g,1,g,0,g,0,g,1,g
+290,happy joes,buffet veggie lumberjack soup,0.5,g,0,mg,960,g,17,g,2,g,0,g,0,g,3,g,6,g
+291,happy joes,buffet wisconsin cheese soup,40,g,40,mg,850,g,14,g,8,g,8,g,0,g,0,g,6,g
+292,happy joes,build your own pasta beef,52,g,85,mg,2850,g,75,g,40,g,19,g,1,g,7,g,9,g
+293,happy joes,build your own pasta canadian bacon,47,g,110,mg,2590,g,74,g,40,g,17,g,0.5,g,6,g,9,g
+294,happy joes,build your own pasta pepperoni,56,g,100,mg,2360,g,72,g,37,g,20,g,0.5,g,6,g,7,g
+295,happy joes,build your own pasta sausage,57,g,90,mg,2480,g,74,g,39,g,20,g,0.5,g,7,g,8,g
+296,happy joes,busch light,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,0,g,0,g
+297,happy joes,butter pecan ice cream,9,g,25,mg,120,g,16,g,2,g,4,g,0,g,0,g,12,g
+298,happy joes,caesar chicken salad full,31,g,80,mg,2160,g,44,g,36,g,9,g,0,g,6,g,2,g
+299,happy joes,caesar chicken salad half,20,g,40,mg,1230,g,30,g,20,g,6,g,0,g,4,g,1,g
+300,happy joes,caesar salad full,30,g,35,mg,1220,g,40,g,18,g,9,g,0,g,6,g,1,g
+301,happy joes,caesar salad half,20,g,20,mg,760,g,29,g,11,g,6,g,0,g,3,g,1,g
+302,happy joes,campfire crunch peanut ice cream,8,g,25,mg,60,g,20,g,2,g,5,g,0,g,0,g,14,g
+303,happy joes,canadian bacon and pineapple calzone,32,g,85,mg,2640,g,139,g,45,g,13,g,2.5,g,9,g,17,g
+304,happy joes,canadian bacon cauliflower pizza,6,g,0,mg,320,g,7,g,6,g,2,g,0,g,1,g,2,g
+305,happy joes,canadian bacon gluten free pizza,5,g,30,mg,400,g,10,g,6,g,2,g,0,g,1,g,2,g
+306,happy joes,canadian bacon original crust pizza 12 inch,7,g,30,mg,420,g,21,g,11,g,3,g,0,g,1,g,3,g
+307,happy joes,canadian bacon original crust pizza 15 inch,8,g,30,mg,490,g,24,g,12,g,4,g,1,g,2,g,3,g
+308,happy joes,canadian bacon original crust pizza 6 inch,5,g,15,mg,270,g,16,g,7,g,2,g,0,g,1,g,2,g
+309,happy joes,canadian bacon original crust pizza 9 inch,5,g,20,mg,280,g,15,g,7,g,2,g,0,g,1,g,2,g
+310,happy joes,canadian bacon pan crust pizza 12 inch,12,g,25,mg,370,g,19,g,10,g,4,g,1,g,1,g,2,g
+311,happy joes,canadian bacon pan crust pizza 15 inch,16,g,35,mg,510,g,25,g,13,g,5,g,1,g,2,g,3,g
+312,happy joes,canadian bacon pan crust pizza 6 inch,9,g,15,mg,250,g,17,g,7,g,2,g,1,g,1,g,1,g
+313,happy joes,canadian bacon pan crust pizza 9 inch,9,g,20,mg,300,g,15,g,8,g,3,g,0,g,1,g,2,g
+314,happy joes,candian bacon calzone,34,g,100,mg,2900,g,136,g,48,g,13,g,2.5,g,9,g,15,g
+315,happy joes,caramel cheesecake ice cream,8,g,30,mg,95,g,20,g,2,g,4.5,g,0,g,0,g,14,g
+316,happy joes,caramel rolls fargo nd,9,g,10,mg,50,g,28,g,3,g,2.5,g,0.5,g,1,g,3,g
+317,happy joes,carmel cups,8,g,5,mg,30,g,17,g,1,g,7,g,0,g,1,g,14,g
+318,happy joes,carmel dessert sauce,1,g,5,mg,75,g,30,g,0,g,0,g,0,g,0,g,22,g
+319,happy joes,carmel fudge pecan sundae medium,13,g,50,mg,90,g,34,g,4,g,7,g,2.5,g,2,g,20,g
+320,happy joes,carmel fudge pecan sundae regular,24,g,100,mg,160,g,59,g,8,g,14,g,3.5,g,3,g,34,g
+321,happy joes,cheese calzone,37,g,75,mg,2500,g,136,g,46,g,15,g,2.5,g,9,g,14,g
+322,happy joes,cheese cauliflower pizza,6,g,0,mg,240,g,8,g,5,g,2,g,0,g,1,g,2,g
+323,happy joes,cheese gluten free pizza,5,g,25,mg,320,g,11,g,5,g,2,g,0,g,1,g,2,g
+324,happy joes,cheese original crust pizza 12 inch,10,g,20,mg,280,g,21,g,10,g,4,g,1,g,1,g,2,g
+325,happy joes,cheese original crust pizza 15 inch,10,g,20,mg,310,g,24,g,11,g,4,g,1,g,2,g,2,g
+326,happy joes,cheese original crust pizza 6 inch,5,g,15,mg,180,g,15,g,7,g,2,g,0,g,1,g,2,g
+327,happy joes,cheese original crust pizza 9 inch,6,g,15,mg,200,g,15,g,7,g,2,g,0,g,1,g,2,g
+328,happy joes,cheese pan crust pizza 12 inch,10,g,20,mg,250,g,19,g,9,g,4,g,1,g,1,g,2,g
+329,happy joes,cheese pan crust pizza 15 inch,20,g,25,mg,330,g,25,g,11,g,5,g,1,g,2,g,2,g
+330,happy joes,cheese pan crust pizza 6 inch,10,g,15,mg,180,g,17,g,7,g,3,g,1,g,1,g,1,g
+331,happy joes,cheese pan crust pizza 9 inch,10,g,15,mg,210,g,16,g,7,g,3,g,1,g,1,g,1,g
+332,happy joes,cheese stix with dipping sauce large,9,g,5,mg,320,g,20,g,5,g,2,g,0.5,g,1,g,2,g
+333,happy joes,cheese stix with dipping sauce medium,6,g,5,mg,150,g,11,g,3,g,2,g,0,g,1,g,1,g
+334,happy joes,cheese stix with dipping sauce small,4,g,5,mg,110,g,9,g,2,g,1,g,0,g,1,g,1,g
+335,happy joes,cheesecake bites,6,g,25,mg,90,g,10,g,2,g,4,g,0,g,0,g,7,g
+336,happy joes,cherry coke,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,4,g
+337,happy joes,cherry dessert fargo nd,1,g,0,mg,0,g,10,g,1,g,0,g,0,g,0,g,2,g
+338,happy joes,chewy sweet tarts,1,g,0,mg,10,g,24,g,0,g,1,g,0,g,0,g,20,g
+339,happy joes,chicago prime sausage original crust pizza 12 inch,10,g,20,mg,410,g,21,g,10,g,4,g,0,g,2,g,3,g
+340,happy joes,chicago prime sausage original crust pizza 15 inch,12,g,25,mg,480,g,25,g,12,g,5,g,1,g,2,g,3,g
+341,happy joes,chicago prime sausage original crust pizza 6 inch,7,g,15,mg,300,g,16,g,7,g,3,g,0,g,1,g,2,g
+342,happy joes,chicago prime sausage original crust pizza 9 inch,7,g,15,mg,280,g,16,g,7,g,3,g,0,g,1,g,2,g
+343,happy joes,chicago prime sausage pan crust pizza 12 inch,20,g,25,mg,440,g,23,g,11,g,5,g,1,g,2,g,2,g
+344,happy joes,chicago prime sausage pan crust pizza 15 inch,20,g,30,mg,520,g,26,g,13,g,6,g,1,g,2,g,4,g
+345,happy joes,chicago prime sausage pan crust pizza 6 inch,10,g,15,mg,300,g,18,g,8,g,1,g,2,g,1,g,2,g
+346,happy joes,chicago prime sausage pan crust pizza 9 inch,10,g,15,mg,280,g,16,g,7,g,4,g,1,g,1,g,2,g
+347,happy joes,chicken ala joe sandwich,31,g,110,mg,1710,g,27,g,27,g,6,g,0.5,g,4,g,6,g
+348,happy joes,chicken alfredo original crust pizza 12 inch,9,g,30,mg,420,g,20,g,12,g,4,g,0,g,1,g,1,g
+349,happy joes,chicken alfredo original crust pizza 15 inch,10,g,30,mg,520,g,23,g,12,g,4.5,g,0.5,g,1,g,2,g
+350,happy joes,chicken alfredo original crust pizza 6 inch,7,g,20,mg,300,g,15,g,8,g,3,g,0,g,1,g,1,g
+351,happy joes,chicken alfredo original crust pizza 9 inch,7,g,20,mg,320,g,15,g,9,g,3,g,0,g,1,g,1,g
+352,happy joes,chicken alfredo pasta,59,g,150,mg,2730,g,71,g,48,g,26,g,0.5,g,4,g,3,g
+353,happy joes,chicken bacon ranch gluten free pizza,13,g,25,mg,450,g,11,g,5,g,3,g,0,g,0,g,1,g
+354,happy joes,chicken bacon ranch original crust pizza 12 inch,20,g,20,mg,460,g,20,g,9,g,4,g,0,g,1,g,2,g
+355,happy joes,chicken bacon ranch original crust pizza 15 inch,18,g,25,mg,520,g,23,g,11,g,5,g,1,g,1,g,2,g
+356,happy joes,chicken bacon ranch original crust pizza 6 inch,14,g,15,mg,350,g,15,g,7,g,3,g,0,g,1,g,1,g
+357,happy joes,chicken bacon ranch original crust pizza 9 inch,10,g,15,mg,330,g,15,g,7,g,3,g,0,g,1,g,1,g
+358,happy joes,chicken bacon ranch pan crust pizza 12 inch,25,g,20,mg,450,g,22,g,9,g,5,g,1,g,1,g,2,g
+359,happy joes,chicken bacon ranch pan crust pizza 15 inch,25,g,25,mg,510,g,24,g,11,g,6,g,1,g,1,g,2,g
+360,happy joes,chicken bacon ranch pan crust pizza 6 inch,20,g,15,mg,340,g,17,g,7,g,4,g,1,g,1,g,1,g
+361,happy joes,chicken bacon ranch pan crust pizza 9 inch,20,g,15,mg,320,g,15,g,1,g,4,g,1,g,1,g,1,g
+362,happy joes,chicken caesar sandwich,46,g,110,mg,3090,g,40,g,42,g,15,g,0,g,5,g,4,g
+363,happy joes,chicken cauliflower pizza,5,g,0,mg,310,g,7,g,6,g,2,g,0,g,1,g,2,g
+364,happy joes,chicken gluten free pizza,4,g,25,mg,390,g,10,g,6,g,2,g,0,g,1,g,2,g
+365,happy joes,chicken hot wings gluten free pizza,8,g,20,mg,640,g,10,g,5,g,2,g,0,g,0,g,1,g
+366,happy joes,chicken hot wings original crust pizza 12 inch,10,g,20,mg,710,g,19,g,9,g,3,g,0,g,1,g,1,g
+367,happy joes,chicken hot wings original crust pizza 15 inch,11,g,20,mg,700,g,22,g,11,g,3,g,0,g,1,g,2,g
+368,happy joes,chicken hot wings original crust pizza 6 inch,9,g,15,mg,560,g,14,g,7,g,2,g,0,g,1,g,1,g
+369,happy joes,chicken hot wings original crust pizza 9 inch,10,g,15,mg,520,g,14,g,7,g,2,g,0,g,1,g,1,g
+370,happy joes,chicken hot wings pan crust pizza 12 inch,20,g,20,mg,690,g,21,g,9,g,4,g,1,g,1,g,1,g
+371,happy joes,chicken hot wings pan crust pizza 15 inch,20,g,20,mg,690,g,23,g,10,g,4,g,1,g,1,g,1,g
+372,happy joes,chicken hot wings pan crust pizza 6 inch,10,g,15,mg,550,g,17,g,7,g,3,g,1,g,1,g,1,g
+373,happy joes,chicken hot wings pan crust pizza 9 inch,12,g,15,mg,510,g,15,g,7,g,3,g,0,g,1,g,1,g
+374,happy joes,chicken original crust pizza 12 inch,10,g,25,mg,400,g,21,g,12,g,3,g,0,g,1,g,2,g
+375,happy joes,chicken original crust pizza 15 inch,7,g,25,mg,470,g,24,g,13,g,3,g,1,g,2,g,3,g
+376,happy joes,chicken original crust pizza 6 inch,4,g,15,mg,290,g,16,g,8,g,2,g,0,g,1,g,2,g
+377,happy joes,chicken original crust pizza 9 inch,4,g,15,mg,270,g,15,g,8,g,2,g,0,g,1,g,2,g
+378,happy joes,chicken pan crust pizza 12 inch,10,g,25,mg,430,g,23,g,12,g,4,g,1,g,2,g,2,g
+379,happy joes,chicken pan crust pizza 15 inch,15,g,30,mg,480,g,26,g,14,g,4,g,1,g,2,g,2,g
+380,happy joes,chicken pan crust pizza 6 inch,10,g,15,mg,300,g,17,g,9,g,2,g,1,g,1,g,1,g
+381,happy joes,chicken pan crust pizza 9 inch,10,g,15,mg,280,g,16,g,8,g,3,g,1,g,1,g,1,g
+382,happy joes,chicken strips,14,g,35,mg,450,g,1,g,17,g,2.5,g,0,g,0,g,1,g
+383,happy joes,chicken taco cauliflower pizza,3,g,0,mg,350,g,11,g,6,g,2,g,0,g,1,g,2,g
+384,happy joes,chicken taco gluten free pizza,4,g,25,mg,430,g,14,g,6,g,2,g,0,g,1,g,2,g
+385,happy joes,chicken taco original crust pizza 12 inch,6,g,20,mg,410,g,25,g,10,g,2,g,0,g,2,g,3,g
+386,happy joes,chicken taco original crust pizza 15 inch,7,g,20,mg,470,g,29,g,12,g,3,g,1,g,2,g,3,g
+387,happy joes,chicken taco original crust pizza 6 inch,4,g,10,mg,300,g,18,g,7,g,2,g,0,g,1,g,2,g
+388,happy joes,chicken taco original crust pizza 9 inch,5,g,15,mg,320,g,18,g,7,g,2,g,0,g,1,g,2,g
+389,happy joes,chicken taco pan crust pizza 12 inch,10,g,20,mg,400,g,27,g,10,g,3,g,1,g,2,g,3,g
+390,happy joes,chicken taco pan crust pizza 15 inch,14,g,20,mg,450,g,31,g,11,g,4,g,1,g,2,g,3,g
+391,happy joes,chicken taco pan crust pizza 6 inch,10,g,10,mg,300,g,21,g,7,g,2,g,1,g,2,g,2,g
+392,happy joes,chicken taco pan crust pizza 9 inch,10,g,15,mg,310,g,19,g,7,g,2,g,1,g,1,g,2,g
+393,happy joes,chicken taco salad full,21,g,70,mg,1620,g,33,g,61,g,35,g,0,g,4,g,10,g
+394,happy joes,chicken taco salad half,11,g,35,mg,880,g,20,g,31,g,18,g,0,g,2,g,6,g
+395,happy joes,chicken swiss panini,46,g,90,mg,3170,g,44,g,41,g,13,g,0,g,6,g,6,g
+396,happy joes,chicken swiss panini with no sides,0,g,90,mg,2840,g,12,g,37,g,11,g,0,g,4,g,6,g
+397,happy joes,chocolate chip ice cream,7,g,25,mg,50,g,17,g,2,g,4.5,g,0,g,0,g,14,g
+398,happy joes,chocolate chip mint ice cream,8,g,25,mg,45,g,18,g,2,g,6,g,0,g,0,g,15,g
+399,happy joes,chocolate covered peanuts,8,g,15,mg,10,g,10,g,3,g,3,g,0,g,1,g,8,g
+400,happy joes,chocolate dessert sauce,1,g,0,mg,40,g,23,g,1,g,0,g,0,g,0,g,20,g
+401,happy joes,chocolate fountain ice cream,6,g,25,mg,45,g,17,g,2,g,4,g,0,g,0,g,14,g
+402,happy joes,chocolate french silk ice cream,7,g,25,mg,60,g,20,g,2,g,4.5,g,0,g,0,g,16,g
+403,happy joes,chocolate ice cream,6,g,25,mg,45,g,16,g,2,g,4,g,0,g,0,g,14,g
+404,happy joes,chocolate rock candy,8,g,0,mg,20,g,18,g,1,g,7,g,0,g,0,g,17,g
+405,happy joes,cinnamon dessert sauce,2,g,5,mg,60,g,23,g,0,g,1.5,g,0,g,0,g,19,g
+406,happy joes,cinnamon ice cream,6,g,30,mg,50,g,16,g,2,g,4,g,0,g,0,g,12,g
+407,happy joes,cinnamon roll with icing,23,g,35,mg,830,g,78,g,9,g,8,g,4,g,2,g,34,g
+408,happy joes,cinnamon stix dessert pizza large,5,g,0,mg,40,g,19,g,2,g,1,g,0.5,g,1,g,4,g
+409,happy joes,cinnamon stix dessert pizza medium,6,g,0,mg,25,g,12,g,1,g,1,g,0,g,1,g,3,g
+410,happy joes,cinnamon stix dessert pizza small,3,g,0,mg,25,g,11,g,1,g,0.5,g,0,g,1,g,3,g
+411,happy joes,circus funny face regular,18,g,85,mg,100,g,46,g,6,g,9,g,3,g,1,g,29,g
+412,happy joes,cobb salad full,70,g,150,mg,3560,g,51,g,56,g,21,g,0.5,g,8,g,7,g
+413,happy joes,cobb salad half,52,g,90,mg,2270,g,48,g,32,g,13,g,0,g,5,g,5,g
+414,happy joes,coca cola,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,3,g
+415,happy joes,coca cola vanilla,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,4,g
+416,happy joes,coconut flakes,9,g,0,mg,60,g,15,g,1,g,8,g,0,g,3,g,11,g
+417,happy joes,coffee ice cream,6,g,30,mg,50,g,16,g,2,g,4,g,0,g,0,g,12,g
+418,happy joes,combo basket,38,g,45,mg,2700,g,135,g,24,g,15,g,0,g,13,g,17,g
+419,happy joes,combo gluten free pizza,6,g,25,mg,420,g,12,g,6,g,3,g,0,g,1,g,2,g
+420,happy joes,combo original crust pizza 12 inch,10,g,20,mg,400,g,21,g,10,g,4,g,1,g,2,g,2,g
+421,happy joes,combo original crust pizza 15 inch,10,g,25,mg,500,g,25,g,12,g,5,g,1,g,2,g,3,g
+422,happy joes,combo original crust pizza 6 inch,6,g,15,mg,260,g,16,g,7,g,2,g,0,g,1,g,2,g
+423,happy joes,combo original crust pizza 9 inch,7,g,15,mg,300,g,16,g,7,g,3,g,0,g,1,g,2,g
+424,happy joes,combo pan crust pizza 12 inch,20,g,25,mg,420,g,23,g,11,g,5,g,1,g,2,g,2,g
+425,happy joes,combo pan crust pizza 15 inch,20,g,25,mg,520,g,26,g,12,g,6,g,1,g,2,g,2,g
+426,happy joes,combo pan crust pizza 6 inch,10,g,15,mg,260,g,18,g,7,g,3,g,1,g,1,g,2,g
+427,happy joes,combo pan crust pizza 9 inch,10,g,15,mg,310,g,16,g,8,g,4,g,1,g,1,g,2,g
+428,happy joes,combo party pasta,28,g,45,mg,1320,g,43,g,20,g,10,g,0,g,4,g,4,g
+429,happy joes,combo pasta,51,g,85,mg,2390,g,76,g,36,g,19,g,1,g,7,g,9,g
+430,happy joes,combo plus gluten free pizza,7,g,25,mg,440,g,12,g,6,g,3,g,0,g,1,g,2,g
+431,happy joes,combo plus original crust pizza 12 inch,10,g,30,mg,470,g,22,g,11,g,4,g,1,g,2,g,2,g
+432,happy joes,combo plus original crust pizza 15 inch,12,g,30,mg,590,g,25,g,13,g,5,g,1,g,2,g,3,g
+433,happy joes,combo plus original crust pizza 6 inch,6,g,15,mg,320,g,16,g,7,g,3,g,0,g,1,g,2,g
+434,happy joes,combo plus original crust pizza 9 inch,10,g,20,mg,320,g,16,g,8,g,3,g,0,g,1,g,2,g
+435,happy joes,combo plus pan crust pizza 12 inch,18,g,30,mg,500,g,23,g,12,g,6,g,1,g,2,g,2,g
+436,happy joes,combo plus pan crust pizza 15 inch,20,g,35,mg,580,g,26,g,14,g,6,g,1,g,2,g,2,g
+437,happy joes,combo plus pan crust pizza 6 inch,10,g,15,mg,290,g,17,g,7,g,3,g,1,g,1,g,1,g
+438,happy joes,combo plus pan crust pizza 9 inch,10,g,20,mg,330,g,16,g,8,g,4,g,1,g,1,g,2,g
+439,happy joes,confetti cake pieces,4,g,0,mg,30,g,17,g,1,g,0,g,1,g,0,g,10,g
+440,happy joes,cookie cream ice cream,7,g,25,mg,60,g,18,g,2,g,4,g,0.5,g,0,g,14,g
+441,happy joes,cookie dough bites,5,g,15,mg,30,g,18,g,1,g,2.5,g,0.5,g,0,g,9,g
+442,happy joes,cookie dough ice cream,7,g,25,mg,60,g,19,g,2,g,4,g,0,g,0,g,14,g
+443,happy joes,cookies and cream,5,g,0,mg,130,g,20,g,1,g,2,g,0,g,1,g,11,g
+444,happy joes,coors light,0,g,0,mg,10,g,5,g,1,g,0,g,0,g,0,g,0,g
+445,happy joes,corned beef reuben,53,g,95,mg,3910,g,56,g,35,g,15,g,0,g,8,g,7,g
+446,happy joes,corona extra,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,0,g,0,g
+447,happy joes,cotton candy ice cream,7,g,30,mg,50,g,16,g,2,g,4,g,0,g,0,g,13,g
+448,happy joes,dark chocolate chips,9,g,0,mg,0,g,14,g,1,g,8,g,0,g,2,g,0,g
+449,happy joes,dark chocolate raspberry cups,9,g,0,mg,15,g,16,g,1,g,6,g,1,g,0,g,15,g
+450,happy joes,deluxe taco salad full,27,g,50,mg,1490,g,34,g,59,g,38,g,5,g,6,g,10,g
+451,happy joes,deluxe taco salad half,15,g,25,mg,820,g,20,g,30,g,19,g,0,g,3,g,6,g
+452,happy joes,denver omelet pizza large,3,g,25,mg,270,g,13,g,4,g,1,g,0,g,1,g,1,g
+453,happy joes,denver omelet pizza little joes,9,g,50,mg,420,g,20,g,7,g,3,g,0,g,1,g,2,g
+454,happy joes,denver omelet pizza medium,2.5,g,20,mg,230,g,11,g,4,g,1,g,0,g,1,g,1,g
+455,happy joes,denver omelet pizza small,2.5,g,25,mg,190,g,9,g,3,g,1,g,0,g,1,g,1,g
+456,happy joes,denver scrambler,34,g,365,mg,2400,g,74,g,37,g,12,g,0,g,5,g,11,g
+457,happy joes,dessert pizza apple large,10,g,0,mg,65,g,31,g,3,g,2,g,1,g,2,g,10,g
+458,happy joes,dessert pizza apple medium,6,g,0,mg,40,g,20,g,2,g,1,g,0.5,g,1,g,7,g
+459,happy joes,dessert pizza apple small,4.5,g,0,mg,30,g,17,g,1,g,1,g,0,g,1,g,6,g
+460,happy joes,dessert pizza cherry large,10,g,0,mg,65,g,32,g,3,g,2,g,1,g,1,g,14,g
+461,happy joes,dessert pizza cherry medium,6,g,0,mg,40,g,22,g,2,g,1,g,0.5,g,1,g,9,g
+462,happy joes,dessert pizza cherry small,4.5,g,0,mg,35,g,18,g,1,g,1,g,0,g,1,g,8,g
+463,happy joes,diet barqs root beer,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+464,happy joes,diet mountain dew,0,g,0,mg,5,g,0,g,1,g,0,g,0,g,0,g,0,g
+465,happy joes,diet pepsi,0,g,0,mg,5,g,0,g,1,g,0,g,0,g,0,g,0,g
+466,happy joes,double chocolate chip cookie,17,g,20,mg,270,g,51,g,5,g,7,g,0,g,2,g,31,g
+467,happy joes,egg and cheese scrambler,32,g,365,mg,2260,g,72,g,35,g,12,g,0,g,5,g,10,g
+468,happy joes,egg bake,2.5,g,55,mg,100,g,0,g,3,g,1,g,0,g,0,g,0,g
+469,happy joes,eggs scrambled,27,g,775,mg,620,g,5,g,24,g,8,g,0,g,0,g,4,g
+470,happy joes,extra cheese cauliflower pizza,3,g,0,mg,280,g,7,g,7,g,3,g,0,g,1,g,2,g
+471,happy joes,extra cheese gluten free pizza,6,g,30,mg,360,g,10,g,7,g,3,g,0,g,1,g,2,g
+472,happy joes,extra cheese original crust pizza 12 inch,10,g,25,mg,350,g,21,g,12,g,4,g,1,g,1,g,2,g
+473,happy joes,extra cheese original crust pizza 15 inch,10,g,30,mg,380,g,24,g,13,g,5,g,1,g,2,g,2,g
+474,happy joes,extra cheese original crust pizza 6 inch,10,g,25,mg,350,g,21,g,12,g,4,g,1,g,1,g,2,g
+475,happy joes,extra cheese original crust pizza 9 inch,10,g,20,mg,240,g,15,g,8,g,3,g,0,g,1,g,2,g
+476,happy joes,extra cheese pan crust pizza 12 inch,20,g,30,mg,370,g,23,g,12,g,6,g,1,g,2,g,2,g
+477,happy joes,extra cheese pan crust pizza 15 inch,20,g,30,mg,380,g,25,g,13,g,6,g,1,g,2,g,2,g
+478,happy joes,extra cheese pan crust pizza 6 inch,10,g,20,mg,230,g,17,g,8,g,4,g,1,g,1,g,1,g
+479,happy joes,extra cheese pan crust pizza 9 inch,10,g,20,mg,250,g,16,g,8,g,4,g,1,g,1,g,1,g
+480,happy joes,fajita cauliflower pizza,3,g,0,mg,380,g,10,g,6,g,2,g,0,g,1,g,2,g
+481,happy joes,fajita gluten free pizza,4,g,25,mg,460,g,13,g,6,g,2,g,0,g,1,g,2,g
+482,happy joes,fajita original crust pizza 12 inch,5,g,20,mg,440,g,23,g,10,g,2,g,1,g,2,g,3,g
+483,happy joes,fajita original crust pizza 15 inch,6,g,20,mg,450,g,25,g,11,g,3,g,1,g,2,g,3,g
+484,happy joes,fajita original crust pizza 6 inch,4,g,15,mg,320,g,17,g,7,g,2,g,0,g,2,g,2,g
+485,happy joes,fajita original crust pizza 9 inch,4,g,15,mg,340,g,17,g,8,g,2,g,0,g,2,g,2,g
+486,happy joes,fajita pan crust pizza 12 inch,15,g,25,mg,480,g,24,g,10,g,4,g,1,g,2,g,2,g
+487,happy joes,fajita pan crust pizza 15 inch,15,g,25,mg,480,g,26,g,11,g,4,g,1,g,2,g,2,g
+488,happy joes,fajita pan crust pizza 6 inch,10,g,15,mg,360,g,19,g,7,g,3,g,1,g,2,g,2,g
+489,happy joes,fajita pan crust pizza 9 inch,10,g,20,mg,370,g,17,g,8,g,3,g,1,g,2,g,2,g
+490,happy joes,family style salad,13,g,10,mg,300,g,12,g,3,g,1,g,0,g,2,g,2,g
+491,happy joes,fanta orange,0,g,0,mg,5,g,4,g,0,g,0,g,0,g,0,g,4,g
+492,happy joes,fire roasted vegetables cauliflower pizza,5,g,0,mg,220,g,7,g,4,g,2,g,0,g,1,g,2,g
+493,happy joes,fire roasted vegetables gluten free pizza,4,g,20,mg,300,g,10,g,4,g,2,g,0,g,1,g,2,g
+494,happy joes,fire roasted vegetables original crust pizza 12 inch,10,g,15,mg,260,g,22,g,8,g,3,g,0,g,2,g,3,g
+495,happy joes,fire roasted vegetables original crust pizza 15 inch,10,g,15,mg,290,g,25,g,9,g,3,g,1,g,2,g,3,g
+496,happy joes,fire roasted vegetables original crust pizza 6 inch,5,g,10,mg,160,g,16,g,5,g,2,g,0,g,1,g,2,g
+497,happy joes,fire roasted vegetables original crust pizza 9 inch,5,g,10,mg,180,g,16,g,6,g,2,g,0,g,1,g,2,g
+498,happy joes,fire roasted vegetables pan crust pizza 12 inch,10,g,15,mg,270,g,23,g,9,g,4,g,1,g,2,g,2,g
+499,happy joes,fire roasted vegetables pan crust pizza 15 inch,15,g,20,mg,300,g,26,g,10,g,4,g,1,g,2,g,3,g
+500,happy joes,fire roasted vegetables pan crust pizza 6 inch,9,g,10,mg,180,g,18,g,6,g,2,g,1,g,2,g,2,g
+501,happy joes,fire roasted vegetables pan crust pizza 9 inch,10,g,10,mg,190,g,17,g,6,g,3,g,1,g,1,g,2,g
+502,happy joes,fountain vanilla bean ice cream,7,g,30,mg,75,g,18,g,4,g,4,g,0,g,0,g,14,g
+503,happy joes,french silk ice cream,7,g,25,mg,60,g,20,g,2,g,4.5,g,0,g,0,g,16,g
+504,happy joes,french toast sticks,5,g,15,mg,380,g,39,g,5,g,1,g,0,g,1,g,10,g
+505,happy joes,fried pickles,0.5,g,0,mg,930,g,22,g,3,g,0,g,0,g,2,g,0,g
+506,happy joes,fried tenderloin,5,g,110,mg,640,g,52,g,45,g,3.5,g,1.5,g,2,g,1,g
+507,happy joes,garden calzone,38,g,75,mg,2710,g,138,g,45,g,15,g,2.5,g,10,g,14,g
+508,happy joes,garden plus calzone,40,g,75,mg,2790,g,137,g,44,g,15,g,2.5,g,10,g,14,g
+509,happy joes,garlic toast,7,g,0,mg,200,g,11,g,2,g,1,g,0,g,1,g,1,g
+510,happy joes,garlic toast for party pasta,9,g,0,mg,280,g,17,g,3,g,2,g,0,g,1,g,0,g
+511,happy joes,garlic toast with cheese,10,g,10,mg,320,g,11,g,5,g,3,g,0,g,1,g,1,g
+512,happy joes,garlic toast 2 pieces,18,g,0,mg,560,g,34,g,6,g,4,g,0,g,2,g,0,g
+513,happy joes,goose island ipa,0,g,0,mg,0,g,22,g,0,g,0,g,0,g,0,g,0,g
+514,happy joes,graham crackers,3.5,g,0,mg,160,g,22,g,2,g,1,g,0,g,1,g,7,g
+515,happy joes,grasshopper ice cream,6,g,30,mg,50,g,16,g,2,g,4,g,0,g,0,g,12,g
+516,happy joes,green bean casserole leclaire la,1,g,0,mg,680,g,9,g,1,g,0,g,0,g,0,g,4,g
+517,happy joes,green olives cauliflower pizza,6,g,0,mg,280,g,7,g,4,g,2,g,0,g,1,g,2,g
+518,happy joes,green olives gluten free pizza,5,g,20,mg,360,g,10,g,4,g,2,g,0,g,1,g,2,g
+519,happy joes,green olives original crust pizza 12 inch,10,g,15,mg,360,g,21,g,8,g,3,g,0,g,2,g,2,g
+520,happy joes,green olives original crust pizza 15 inch,10,g,15,mg,390,g,25,g,9,g,3,g,1,g,2,g,2,g
+521,happy joes,green olives original crust pizza 6 inch,5,g,10,mg,230,g,16,g,5,g,2,g,0,g,1,g,2,g
+522,happy joes,green olives original crust pizza 9 inch,5,g,10,mg,240,g,16,g,6,g,2,g,0,g,1,g,2,g
+523,happy joes,green olives pan crust pizza 12 inch,15,g,15,mg,390,g,23,g,9,g,4,g,1,g,2,g,2,g
+524,happy joes,green olives pan crust pizza 15 inch,20,g,20,mg,400,g,26,g,10,g,5,g,1,g,2,g,2,g
+525,happy joes,green olives pan crust pizza 6 inch,10,g,10,mg,230,g,17,g,6,g,3,g,1,g,2,g,1,g
+526,happy joes,green olives pan crust pizza 9 inch,10,g,10,mg,250,g,16,g,6,g,3,g,1,g,1,g,1,g
+527,happy joes,green pepper cauliflower pizza,5,g,0,mg,190,g,7,g,4,g,2,g,0,g,1,g,2,g
+528,happy joes,green pepper gluten free pizza,4,g,20,mg,270,g,10,g,4,g,2,g,0,g,1,g,2,g
+529,happy joes,green pepper original crust pizza 12 inch,6,g,15,mg,210,g,22,g,8,g,3,g,0,g,2,g,2,g
+530,happy joes,green pepper original crust pizza 15 inch,10,g,15,mg,240,g,25,g,9,g,3,g,1,g,2,g,3,g
+531,happy joes,green pepper original crust pizza 6 inch,5,g,10,mg,135,g,16,g,5,g,2,g,0,g,1,g,2,g
+532,happy joes,green pepper original crust pizza 9 inch,5,g,10,mg,150,g,16,g,6,g,2,g,0,g,1,g,2,g
+533,happy joes,green pepper pan crust pizza 12 inch,15,g,15,mg,240,g,23,g,9,g,4,g,1,g,2,g,2,g
+534,happy joes,green pepper pan crust pizza 15 inch,15,g,20,mg,260,g,26,g,10,g,4,g,1,g,2,g,2,g
+535,happy joes,green pepper pan crust pizza 6 inch,9,g,10,mg,140,g,17,g,6,g,2,g,1,g,1,g,1,g
+536,happy joes,green pepper pan crust pizza 9 inch,9,g,10,mg,160,g,16,g,6,g,3,g,1,g,1,g,1,g
+537,happy joes,gummy bears,0,g,0,mg,5,g,21,g,2,g,0,g,0,g,0,g,14,g
+538,happy joes,ham and cheese sandwich,22,g,25,mg,1880,g,59,g,22,g,3,g,0.5,g,4,g,5,g
+539,happy joes,happy joes special calzone,33,g,90,mg,2870,g,137,g,46,g,13,g,2.5,g,9,g,15,g
+540,happy joes,happy joes special gluten free pizza,5,g,25,mg,430,g,12,g,6,g,2,g,0,g,1,g,2,g
+541,happy joes,happy joes special original crust pizza 12 inch,7,g,30,mg,520,g,22,g,11,g,3,g,0,g,2,g,3,g
+542,happy joes,happy joes special original crust pizza 15 inch,10,g,30,mg,530,g,25,g,12,g,5,g,1,g,2,g,3,g
+543,happy joes,happy joes special original crust pizza 6 inch,5,g,15,mg,300,g,16,g,5,g,2,g,0,g,1,g,2,g
+544,happy joes,happy joes special original crust pizza 9 inch,5,g,15,mg,310,g,16,g,7,g,2,g,0,g,1,g,2,g
+545,happy joes,happy joes special pan crust pizza 12 inch,15,g,30,mg,540,g,23,g,12,g,4,g,1,g,2,g,3,g
+546,happy joes,happy joes special pan crust pizza 15 inch,20,g,30,mg,550,g,26,g,12,g,5,g,1,g,2,g,3,g
+547,happy joes,happy joes special pan crust pizza 6 inch,10,g,20,mg,300,g,17,g,7,g,3,g,1,g,1,g,2,g
+548,happy joes,happy joes special pan crust pizza 9 inch,10,g,20,mg,320,g,16,g,7,g,3,g,1,g,1,g,2,g
+549,happy joes,hawaiian gluten free pizza,5,g,25,mg,380,g,12,g,6,g,2,g,0,g,1,g,2,g
+550,happy joes,hawaiian original crust pizza 12 inch,10,g,25,mg,390,g,22,g,10,g,3,g,0,g,1,g,4,g
+551,happy joes,hawaiian original crust pizza 15 inch,8,g,25,mg,390,g,25,g,11,g,3,g,1,g,2,g,4,g
+552,happy joes,hawaiian original crust pizza 6 inch,5,g,15,mg,250,g,16,g,7,g,2,g,0,g,1,g,2,g
+553,happy joes,hawaiian original crust pizza 9 inch,5,g,15,mg,260,g,16,g,7,g,2,g,0,g,1,g,2,g
+554,happy joes,hawaiian pan crust pizza 12 inch,15,g,30,mg,410,g,24,g,11,g,4,g,1,g,2,g,3,g
+555,happy joes,hawaiian pan crust pizza 15 inch,20,g,30,mg,460,g,27,g,12,g,5,g,1,g,2,g,4,g
+556,happy joes,hawaiian pan crust pizza 6 inch,10,g,15,mg,250,g,18,g,7,g,3,g,1,g,1,g,2,g
+557,happy joes,hawaiian pan crust pizza 9 inch,10,g,20,mg,270,g,17,g,7,g,3,g,1,g,1,g,2,g
+558,happy joes,hoagie,35,g,75,mg,2770,g,63,g,40,g,7,g,0.5,g,5,g,8,g
+559,happy joes,house salad with french dressing,23,g,10,mg,920,g,30,g,7,g,6,g,0,g,4,g,8,g
+560,happy joes,iowa burger,28,g,75,mg,1280,g,53,g,33,g,13,g,0,g,2,g,2,g
+561,happy joes,italian ice base mix,0,g,0,mg,0,g,22,g,0,g,0,g,0,g,0,g,18,g
+562,happy joes,italian panini,49,g,80,mg,2100,g,36,g,28,g,14,g,0,g,3,g,1,g
+563,happy joes,joes bacon cheeseburger 3 oz,72,g,125,mg,3240,g,147,g,58,g,20,g,10,g,11,g,12,g
+564,happy joes,joes bacon cheeseburger 7 oz,70,g,210,mg,2990,g,129,g,64,g,28,g,14,g,9,g,12,g
+565,happy joes,joes classic 3 oz,61,g,105,mg,2440,g,144,g,45,g,17,g,10,g,11,g,10,g
+566,happy joes,joes classic 7 oz,68,g,190,mg,2750,g,126,g,59,g,25,g,11,g,8,g,11,g
+567,happy joes,joes mushroom burger 3 oz,46,g,125,mg,2380,g,124,g,47,g,18,g,8,g,8,g,8,g
+568,happy joes,joes mushroom burger 7 oz,72,g,210,mg,2700,g,129,g,65,g,29,g,11,g,9,g,9,g
+569,happy joes,joes original scrambler,28,g,360,mg,1950,g,43,g,29,g,9,g,1,g,3,g,8,g
+570,happy joes,joes smokehouse 3 oz,86,g,125,mg,3790,g,167,g,58,g,25,g,10,g,11,g,19,g
+571,happy joes,joes smokehouse 7 oz,70,g,210,mg,3300,g,139,g,65,g,28,g,14,g,9,g,20,g
+572,happy joes,kiwi lime dessert sauce,0,g,0,mg,45,g,21,g,0,g,0,g,0,g,0,g,20,g
+573,happy joes,lasghetti pasta,36,g,115,mg,1960,g,62,g,38,g,17,g,0.5,g,6,g,13,g
+574,happy joes,lasghetti pasta with garlic toast,54,g,115,mg,2520,g,96,g,44,g,21,g,0.5,g,8,g,13,g
+575,happy joes,lemon zest dessert sauce,0,g,0,mg,20,g,17,g,0,g,0,g,0,g,0,g,16,g
+576,happy joes,low fat candy bar smash joegurt,2,g,0,mg,85,g,23,g,4,g,0.5,g,0,g,0,g,17,g
+577,happy joes,low fat cookie and cream joegurt,3,g,5,mg,70,g,21,g,4,g,2,g,0,g,0,g,17,g
+578,happy joes,low fat cupcake joegurt,3,g,5,mg,55,g,22,g,4,g,2,g,0,g,1,g,17,g
+579,happy joes,low fat egg nog joegurt,3,g,5,mg,50,g,18,g,3,g,2,g,0,g,0,g,13,g
+580,happy joes,low fat espresso joegurt,3,g,5,mg,60,g,19,g,4,g,2,g,0,g,0,g,16,g
+581,happy joes,low fat french vanilla joegurt,3,g,5,mg,60,g,19,g,4,g,2,g,0,g,0,g,16,g
+582,happy joes,low fat pumpkin pie joegurt,3,g,10,mg,55,g,22,g,3,g,2,g,0,g,0,g,17,g
+583,happy joes,low fat sea salt caramel pretzel joegurt,3,g,5,mg,170,g,19,g,4,g,2,g,0,g,0,g,16,g
+584,happy joes,low fat spiced apple pie joegurt,3,g,5,mg,70,g,23,g,4,g,2,g,0,g,1,g,19,g
+585,happy joes,low fat strawberry sensations joegurt,3,g,5,mg,65,g,20,g,4,g,2,g,0,g,0,g,16,g
+586,happy joes,low fat triple chocolate joegurt,2.5,g,5,mg,55,g,22,g,4,g,2,g,0,g,0,g,17,g
+587,happy joes,low fat white chocolate mousse joegurt,2.5,g,5,mg,55,g,25,g,3,g,2,g,0,g,0,g,21,g
+588,happy joes,mac and cheese leclaire la,15,g,40,mg,1040,g,36,g,12,g,7,g,0.5,g,2,g,5,g
+589,happy joes,mac cheese pan crust pizza 12 inch,10,g,20,mg,410,g,31,g,10,g,5,g,0.5,g,2,g,2,g
+590,happy joes,mac cheese pan crust pizza 15 inch,10,g,20,mg,440,g,34,g,11,g,5,g,0.5,g,2,g,2,g
+591,happy joes,mac cheese pan crust pizza 6 inch,7,g,15,mg,260,g,23,g,7,g,3,g,0.5,g,1,g,1,g
+592,happy joes,mac cheese pan crust pizza 9 inch,7,g,15,mg,290,g,22,g,7,g,3.5,g,0.5,g,1,g,1,g
+593,happy joes,malt regular,52,g,360,mg,420,g,148,g,16,g,30,g,0.5,g,1,g,110,g
+594,happy joes,malt small,39,g,270,mg,320,g,118,g,12,g,22,g,0.5,g,1,g,87,g
+595,happy joes,mandarin chicken salad full,36,g,45,mg,1640,g,68,g,30,g,8,g,0,g,10,g,21,g
+596,happy joes,mandarin chicken salad half,25,g,20,mg,990,g,47,g,17,g,6,g,0,g,6,g,11,g
+597,happy joes,mango dessert sauce,0,g,0,mg,10,g,20,g,0,g,0,g,0,g,0,g,19,g
+598,happy joes,maple nut ice cream,8,g,25,mg,50,g,16,g,3,g,4,g,0,g,0,g,12,g
+599,happy joes,marshmallow topping,0,g,0,mg,10,g,13,g,0,g,0,g,0,g,0,g,11,g
+600,happy joes,matador cauliflower pizza,4,g,0,mg,310,g,7,g,5,g,2,g,0,g,1,g,1,g
+601,happy joes,matador gluten free pizza,5,g,20,mg,390,g,10,g,5,g,2,g,0,g,1,g,1,g
+602,happy joes,matador original crust pizza 12 inch,10,g,15,mg,380,g,22,g,9,g,3,g,1,g,2,g,2,g
+603,happy joes,matador original crust pizza 15 inch,9,g,20,mg,470,g,25,g,10,g,4,g,1,g,2,g,2,g
+604,happy joes,matador original crust pizza 6 inch,5,g,10,mg,270,g,16,g,6,g,2,g,0,g,2,g,2,g
+605,happy joes,matador original crust pizza 9 inch,6,g,10,mg,270,g,16,g,6,g,2,g,0,g,2,g,2,g
+606,happy joes,matador pan crust pizza 12 inch,10,g,15,mg,300,g,24,g,8,g,4,g,1,g,2,g,2,g
+607,happy joes,matador pan crust pizza 15 inch,20,g,20,mg,370,g,26,g,10,g,5,g,1,g,3,g,2,g
+608,happy joes,matador pan crust pizza 6 inch,10,g,10,mg,200,g,19,g,6,g,3,g,1,g,2,g,1,g
+609,happy joes,matador pan crust pizza 9 inch,10,g,10,mg,220,g,17,g,6,g,3,g,1,g,2,g,1,g
+610,happy joes,meatball hoagie,67,g,135,mg,4050,g,76,g,45,g,22,g,2.5,g,7,g,10,g
+611,happy joes,meatballs fargo nd,4,g,10,mg,200,g,4,g,3,g,1.5,g,0,g,0,g,2,g
+612,happy joes,meatworks calzone,41,g,85,mg,2870,g,135,g,47,g,16,g,2.5,g,9,g,14,g
+613,happy joes,meatworks gluten free pizza,8,g,30,mg,510,g,12,g,7,g,3,g,0,g,1,g,2,g
+614,happy joes,meatworks original crust pizza 12 inch,10,g,25,mg,460,g,21,g,11,g,4,g,1,g,1,g,2,g
+615,happy joes,meatworks original crust pizza 15 inch,15,g,35,mg,690,g,24,g,15,g,6,g,1,g,2,g,3,g
+616,happy joes,meatworks original crust pizza 6 inch,10,g,15,mg,300,g,15,g,7,g,3,g,0,g,1,g,2,g
+617,happy joes,meatworks original crust pizza 9 inch,10,g,20,mg,390,g,15,g,9,g,3,g,0,g,1,g,2,g
+618,happy joes,meatworks pan crust pizza 12 inch,20,g,25,mg,480,g,23,g,12,g,5,g,1,g,2,g,2,g
+619,happy joes,meatworks pan crust pizza 15 inch,20,g,35,mg,700,g,25,g,15,g,7,g,1,g,2,g,2,g
+620,happy joes,meatworks pan crust pizza 6 inch,10,g,15,mg,310,g,15,g,8,g,3,g,0,g,1,g,1,g
+621,happy joes,meatworks pan crust pizza 9 inch,10,g,20,mg,360,g,16,g,8,g,4,g,1,g,1,g,2,g
+622,happy joes,mello yello,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,4,g
+623,happy joes,michelob ultra light,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,0,g,0,g
+624,happy joes,miller genuine draft,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,0,g,0,g
+625,happy joes,miller lite,0,g,0,mg,5,g,3,g,1,g,0,g,0,g,0,g,1,g
+626,happy joes,mint chocolate bon bon ice cream,7,g,25,mg,50,g,17,g,2,g,4.5,g,0,g,0,g,14,g
+627,happy joes,mint chocolate marvel regular,24,g,45,mg,180,g,98,g,11,g,15,g,2,g,2,g,80,g
+628,happy joes,mint chocolate marvel small,13,g,25,mg,95,g,52,g,5,g,8,g,1,g,1,g,42,g
+629,happy joes,mochi,0,g,0,mg,60,g,26,g,1,g,0,g,0,g,0,g,9,g
+630,happy joes,monster cookie ice cream,11,g,25,mg,110,g,19,g,4,g,5,g,0,g,1,g,14,g
+631,happy joes,moose tracks ice cream,10,g,25,mg,65,g,19,g,3,g,4,g,0,g,1,g,15,g
+632,happy joes,mountain dew,0,g,0,mg,5,g,4,g,0,g,0,g,0,g,0,g,4,g
+633,happy joes,mug root beer,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,3,g
+634,happy joes,mushroom calzone,30,g,55,mg,2460,g,136,g,39,g,12,g,2.5,g,10,g,13,g
+635,happy joes,mushrooms cauliflower pizza,4,g,0,mg,240,g,9,g,4,g,2,g,0,g,1,g,2,g
+636,happy joes,mushrooms gluten free pizza,4,g,20,mg,320,g,12,g,4,g,2,g,0,g,1,g,2,g
+637,happy joes,mushrooms original crust pizza 12 inch,6,g,15,mg,290,g,21,g,8,g,3,g,0,g,2,g,2,g
+638,happy joes,mushrooms original crust pizza 15 inch,7,g,15,mg,330,g,24,g,9,g,13,g,1,g,2,g,2,g
+639,happy joes,mushrooms original crust pizza 6 inch,5,g,10,mg,180,g,16,g,5,g,2,g,0,g,1,g,2,g
+640,happy joes,mushrooms original crust pizza 9 inch,4,g,10,mg,200,g,15,g,6,g,2,g,0,g,1,g,2,g
+641,happy joes,mushrooms pan crust pizza 12 inch,10,g,15,mg,260,g,19,g,7,g,3,g,1,g,2,g,1,g
+642,happy joes,mushrooms pan crust pizza 15 inch,15,g,20,mg,350,g,25,g,10,g,4,g,1,g,2,g,2,g
+643,happy joes,mushrooms pan crust pizza 6 inch,8,g,10,mg,170,g,17,g,5,g,2,g,1,g,1,g,1,g
+644,happy joes,mushrooms pan crust pizza 9 inch,10,g,10,mg,210,g,16,g,6,g,3,g,1,g,1,g,1,g
+645,happy joes,nacho joe calzone,40,g,70,mg,3410,g,150,g,46,g,16,g,2.5,g,10,g,22,g
+646,happy joes,nacho joe cauliflower pizza,16,g,0,mg,450,g,15,g,5,g,5,g,0,g,4,g,2,g
+647,happy joes,nacho joe gluten free pizza,15,g,20,mg,450,g,15,g,5,g,5,g,0,g,4,g,2,g
+648,happy joes,nacho joe original crust pizza 12 inch,20,g,15,mg,440,g,24,g,9,g,7,g,0,g,6,g,2,g
+649,happy joes,nacho joe original crust pizza 15 inch,24,g,20,mg,530,g,28,g,11,g,8,g,1,g,7,g,3,g
+650,happy joes,nacho joe original crust pizza 6 inch,15,g,10,mg,320,g,18,g,6,g,5,g,0,g,5,g,2,g
+651,happy joes,nacho joe original crust pizza 9 inch,15,g,15,mg,330,g,17,g,7,g,5,g,0,g,5,g,2,g
+652,happy joes,nacho joe pan crust pizza 12 inch,30,g,15,mg,420,g,26,g,9,g,8,g,1,g,6,g,2,g
+653,happy joes,nacho joe pan crust pizza 15 inch,30,g,20,mg,510,g,30,g,11,g,9,g,1,g,7,g,2,g
+654,happy joes,nacho joe pan crust pizza 6 inch,20,g,10,mg,310,g,20,g,6,g,6,g,1,g,5,g,2,g
+655,happy joes,nacho joe pan crust pizza 9 inch,20,g,15,mg,320,g,18,g,7,g,6,g,1,g,5,g,2,g
+656,happy joes,no sugar added chocolate joegurt,0,g,0,mg,85,g,17,g,5,g,0,g,0,g,0,g,6,g
+657,happy joes,no sugar added tahitian vanilla joegurt,0,g,0,mg,80,g,16,g,4,g,0,g,0,g,0,g,6,g
+658,happy joes,no sugar added wild strawberry joegurt,0,g,0,mg,80,g,16,g,4,g,0,g,0,g,0,g,6,g
+659,happy joes,non fat all natural classic tart joegurt,0,g,0,mg,65,g,21,g,4,g,0,g,0,g,0,g,20,g
+660,happy joes,non fat banana rama joegurt,0,g,0,mg,50,g,21,g,3,g,0,g,0,g,0,g,16,g
+661,happy joes,non fat birthday cake joegurt,0,g,0,mg,55,g,22,g,3,g,0,g,0,g,0,g,16,g
+662,happy joes,non fat blue moon joegurt,0,g,0,mg,60,g,21,g,4,g,0,g,0,g,0,g,16,g
+663,happy joes,non fat blueberry tart joegurt,0,g,0,mg,65,g,24,g,4,g,0,g,0,g,0,g,23,g
+664,happy joes,non fat california tart joegurt,0,g,0,mg,50,g,20,g,3,g,0,g,0,g,0,g,17,g
+665,happy joes,non fat cheesecake joegurt,0,g,0,mg,60,g,25,g,3,g,0,g,0,g,0,g,18,g
+666,happy joes,non fat cherry amaretto joegurt,0,g,0,mg,60,g,24,g,4,g,0,g,0,g,0,g,19,g
+667,happy joes,non fat dreamy dark chocolate joegurt,0,g,0,mg,60,g,26,g,3,g,0,g,0,g,0,g,18,g
+668,happy joes,non fat island coconut joegurt,0,g,0,mg,60,g,22,g,4,g,0,g,0,g,0,g,16,g
+669,happy joes,non fat italian style tart joegurt,0,g,0,mg,50,g,18,g,2,g,0,g,0,g,0,g,16,g
+670,happy joes,non fat key lime bar joegurt,0,g,0,mg,55,g,24,g,3,g,0,g,0,g,0,g,20,g
+671,happy joes,non fat mint chocolate chip joegurt,0,g,0,mg,55,g,22,g,4,g,0,g,0,g,0,g,16,g
+672,happy joes,non fat mountain blackberry joegurt,0,g,0,mg,50,g,26,g,3,g,0,g,0,g,0,g,18,g
+673,happy joes,non fat olde fashion candy cane joegurt,0,g,55,mg,20,g,0,g,4,g,0,g,0,g,0,g,17,g
+674,happy joes,non fat orange sherbet ice cream,0,g,0,mg,25,g,27,g,1,g,0,g,0,g,0,g,21,g
+675,happy joes,non fat pomegranate energy joegurt,0,g,0,mg,90,g,24,g,4,g,0,g,0,g,0,g,23,g
+676,happy joes,non fat southern butter pecan joegurt,0,g,0,mg,60,g,22,g,3,g,0,g,0,g,0,g,17,g
+677,happy joes,non fat tahitian vanilla joegurt,0,g,0,mg,55,g,21,g,4,g,0,g,0,g,0,g,16,g
+678,happy joes,non fat vanilla bean joegurt,0,g,0,mg,55,g,22,g,3,g,0,g,0,g,0,g,16,g
+679,happy joes,oats and honey granola,4.5,g,0,mg,110,g,20,g,3,g,0.5,g,0,g,2,g,8,g
+680,happy joes,onion cauliflower pizza,5,g,0,mg,190,g,9,g,4,g,2,g,0,g,1,g,2,g
+681,happy joes,onion gluten free pizza,4,g,20,mg,270,g,12,g,4,g,2,g,0,g,1,g,2,g
+682,happy joes,onion original crust pizza 12 inch,6,g,15,mg,210,g,22,g,8,g,3,g,0,g,2,g,3,g
+683,happy joes,onion original crust pizza 15 inch,10,g,15,mg,250,g,25,g,9,g,3,g,1,g,2,g,3,g
+684,happy joes,onion original crust pizza 6 inch,4,g,10,mg,135,g,16,g,5,g,2,g,0,g,1,g,2,g
+685,happy joes,onion original crust pizza 9 inch,4,g,10,mg,150,g,16,g,6,g,2,g,0,g,1,g,2,g
+686,happy joes,onion pan crust pizza 12 inch,10,g,15,mg,240,g,24,g,9,g,4,g,1,g,2,g,3,g
+687,happy joes,onion pan crust pizza 15 inch,15,g,20,mg,260,g,26,g,10,g,4,g,1,g,2,g,3,g
+688,happy joes,onion pan crust pizza 6 inch,9,g,10,mg,140,g,18,g,6,g,2,g,1,g,1,g,2,g
+689,happy joes,onion pan crust pizza 9 inch,10,g,10,mg,160,g,16,g,6,g,3,g,1,g,1,g,2,g
+690,happy joes,ooeg gooey low fat cinnamon bun joegurt,3,g,10,mg,70,g,22,g,4,g,2,g,0,g,0,g,18,g
+691,happy joes,peanut butter cup sundae regular,47,g,145,mg,440,g,92,g,17,g,20,g,6,g,3,g,67,g
+692,happy joes,peanut butter cup sundae small,29,g,75,mg,280,g,57,g,10,g,12,g,5,g,2,g,42,g
+693,happy joes,peanut butter cups,10,g,0,mg,80,g,14,g,3,g,8,g,0,g,1,g,13,g
+694,happy joes,peanut butter revel ice cream,10,g,20,mg,100,g,16,g,4,g,4.5,g,0,g,1,g,13,g
+695,happy joes,peppermint stick ice cream,7,g,25,mg,50,g,17,g,2,g,5,g,0,g,0,g,14,g
+696,happy joes,pepperoni calzone,41,g,85,mg,2620,g,135,g,44,g,16,g,2.5,g,9,g,13,g
+697,happy joes,pepperoni cauliflower pizza,8,g,0,mg,300,g,8,g,6,g,3,g,0,g,1,g,2,g
+698,happy joes,pepperoni gluten free pizza,7,g,25,mg,380,g,11,g,6,g,3,g,0,g,1,g,2,g
+699,happy joes,pepperoni original crust pizza 12 inch,10,g,25,mg,380,g,20,g,10,g,4,g,0,g,1,g,2,g
+700,happy joes,pepperoni original crust pizza 15 inch,10,g,30,mg,410,g,23,g,11,g,5,g,1,g,2,g,2,g
+701,happy joes,pepperoni original crust pizza 6 inch,10,g,15,mg,240,g,15,g,7,g,3,g,0,g,1,g,2,g
+702,happy joes,pepperoni original crust pizza 9 inch,10,g,15,mg,260,g,15,g,7,g,3,g,0,g,1,g,2,g
+703,happy joes,pepperoni pan crust pizza 12 inch,15,g,25,mg,330,g,19,g,9,g,5,g,1,g,1,g,2,g
+704,happy joes,pepperoni pan crust pizza 15 inch,19,g,30,mg,430,g,25,g,12,g,6,g,1,g,2,g,2,g
+705,happy joes,pepperoni pan crust pizza 6 inch,10,g,15,mg,230,g,17,g,7,g,3,g,1,g,1,g,1,g
+706,happy joes,pepperoni pan crust pizza 9 inch,10,g,20,mg,270,g,16,g,7,g,4,g,1,g,1,g,1,g
+707,happy joes,pepsi,0,g,0,mg,5,g,4,g,0,g,0,g,0,g,0,g,4,g
+708,happy joes,pepsi wild cherry,0,g,0,mg,5,g,4,g,0,g,0,g,0,g,0,g,4,g
+709,happy joes,philly cheese steak sandwich,48,g,110,mg,3150,g,46,g,42,g,18,g,0,g,6,g,7,g
+710,happy joes,pillsbury cake ice cream ice cream,8,g,30,mg,70,g,25,g,2,g,5,g,0.5,g,0,g,18,g
+711,happy joes,pineapple cauliflower pizza,5,g,0,mg,190,g,9,g,4,g,2,g,0,g,1,g,3,g
+712,happy joes,pineapple gluten free pizza,4,g,20,mg,270,g,12,g,4,g,2,g,0,g,1,g,3,g
+713,happy joes,pineapple original crust pizza 12 inch,6,g,15,mg,210,g,23,g,8,g,3,g,0,g,2,g,4,g
+714,happy joes,pineapple original crust pizza 15 inch,10,g,15,mg,240,g,26,g,9,g,3,g,1,g,2,g,4,g
+715,happy joes,pineapple original crust pizza 6 inch,4,g,10,mg,135,g,17,g,5,g,2,g,0,g,1,g,3,g
+716,happy joes,pineapple original crust pizza 9 inch,4,g,10,mg,150,g,16,g,6,g,2,g,0,g,1,g,3,g
+717,happy joes,pineapple pan crust pizza 12 inch,10,g,15,mg,240,g,24,g,9,g,4,g,1,g,2,g,4,g
+718,happy joes,pineapple pan crust pizza 15 inch,15,g,20,mg,260,g,27,g,10,g,4,g,1,g,2,g,4,g
+719,happy joes,pineapple pan crust pizza 6 inch,10,g,10,mg,140,g,18,g,6,g,2,g,1,g,1,g,2,g
+720,happy joes,pineapple pan crust pizza 9 inch,10,g,10,mg,160,g,17,g,6,g,3,g,1,g,1,g,2,g
+721,happy joes,pizza and grille buffet bacon strips,7,g,15,mg,320,g,1,g,5,g,3,g,0,g,0,g,1,g
+722,happy joes,pizza and grille buffet bacon crumbled,5,g,20,mg,300,g,1,g,6,g,2,g,0,g,1,g,1,g
+723,happy joes,pizza and grille buffet banana peppers,0,g,0,mg,280,g,1,g,0,g,0,g,0,g,1,g,0,g
+724,happy joes,pizza and grille buffet beef pasta,3,g,10,mg,160,g,4,g,3,g,1.5,g,0,g,0,g,1,g
+725,happy joes,pizza and grille buffet beef stew,10,g,20,mg,740,g,21,g,10,g,4,g,0,g,3,g,1,g
+726,happy joes,pizza and grille buffet beef stroganoff,6,g,10,mg,670,g,13,g,8,g,2.5,g,0,g,1,g,1,g
+727,happy joes,pizza and grille buffet bell peppers green,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+728,happy joes,pizza and grille buffet biscuits,4,g,0,mg,310,g,16,g,2,g,2,g,0,g,0,g,2,g
+729,happy joes,pizza and grille buffet blt pasta,2.5,g,5,mg,105,g,3,g,2,g,0.5,g,0,g,0,g,1,g
+730,happy joes,pizza and grille buffet broccoli cheese soup,11,g,10,mg,800,g,10,g,2,g,3,g,0,g,2,g,2,g
+731,happy joes,pizza and grille buffet broccoli florets,0,g,0,mg,10,g,2,g,1,g,0,g,0,g,1,g,0,g
+732,happy joes,pizza and grille buffet brown and wild rice with chicken,12,g,30,mg,680,g,19,g,6,g,5,g,0,g,2,g,5,g
+733,happy joes,pizza and grille buffet canadian bacon pasta,3,g,10,mg,140,g,4,g,3,g,1.5,g,0,g,0,g,1,g
+734,happy joes,pizza and grille buffet carrots,0,g,0,mg,20,g,2,g,0,g,0,g,0,g,1,g,1,g
+735,happy joes,pizza and grille buffet cheddar bites,4,g,10,mg,290,g,9,g,4,g,2.5,g,0,g,1,g,1,g
+736,happy joes,pizza and grille buffet cheese asiago,2,g,5,mg,40,g,0,g,1,g,1,g,0,g,0,g,0,g
+737,happy joes,pizza and grille buffet cheese blend shredded,7,g,25,mg,240,g,0,g,6,g,4,g,0,g,0,g,0,g
+738,happy joes,pizza and grille buffet cheese cheddar shredded,31,g,95,mg,5,g,2,g,22,g,20,g,0,g,0,g,1,g
+739,happy joes,pizza and grille buffet chicken and dumpling soup,7,g,50,mg,910,g,25,g,9,g,3,g,0,g,0,g,1,g
+740,happy joes,pizza and grille buffet chicken fajita pasta,10,g,55,mg,3410,g,49,g,27,g,9,g,0,g,0,g,9,g
+741,happy joes,pizza and grille buffet chicken fritters,8,g,35,mg,890,g,18,g,14,g,1,g,0,g,2,g,0,g
+742,happy joes,pizza and grille buffet chicken noodle soup,2,g,15,mg,790,g,10,g,4,g,1,g,0,g,0,g,1,g
+743,happy joes,pizza and grille buffet chicken nuggets,18,g,40,mg,620,g,13,g,14,g,3.5,g,0,g,0,g,0,g
+744,happy joes,pizza and grille buffet chicken nuggets spicy,7,g,35,mg,770,g,14,g,16,g,1.5,g,0,g,1,g,0,g
+745,happy joes,pizza and grille buffet chicken pot pie,8,g,35,mg,220,g,12,g,14,g,3,g,2,g,0,g,2,g
+746,happy joes,pizza and grille buffet chicken wild rice soup 4 oz,12,g,30,mg,680,g,19,g,6,g,5,g,0,g,2,g,5,g
+747,happy joes,pizza and grille buffet chicken wild rice soup 8 oz,0,g,15,mg,870,g,18,g,7,g,0,g,0,g,2,g,2,g
+748,happy joes,pizza and grille buffet chicken wings fried,4,g,15,mg,15,g,1,g,5,g,1,g,0,g,0,g,0,g
+749,happy joes,pizza and grille buffet chili,13,g,55,mg,1150,g,20,g,21,g,5,g,0,g,4,g,4,g
+750,happy joes,pizza and grille buffet coleslaw,27,g,35,mg,260,g,12,g,1,g,5,g,0,g,2,g,10,g
+751,happy joes,pizza and grille buffet corn,0.5,g,0,mg,0,g,19,g,3,g,0,g,0,g,2,g,3,g
+752,happy joes,pizza and grille buffet corn dog,8,g,25,mg,250,g,23,g,8,g,2,g,0,g,2,g,8,g
+753,happy joes,pizza and grille buffet corn nuggets,6,g,0,mg,420,g,31,g,3,g,1,g,0,g,2,g,2,g
+754,happy joes,pizza and grille buffet corned beef hash,26,g,55,mg,1580,g,29,g,20,g,11,g,0,g,5,g,2,g
+755,happy joes,pizza and grille buffet cottage cheese,3,g,15,mg,410,g,5,g,13,g,2,g,0,g,0,g,4,g
+756,happy joes,pizza and grille buffet crackers,0.5,g,0,mg,40,g,2,g,2,g,0.5,g,0,g,2,g,0,g
+757,happy joes,pizza and grille buffet cream of chicken soup,4,g,10,mg,760,g,10,g,3,g,1,g,0,g,0,g,1,g
+758,happy joes,pizza and grille buffet cream of mushroom soup,6,g,0,mg,790,g,10,g,2,g,1,g,0,g,1,g,1,g
+759,happy joes,pizza and grille buffet cream of potato soup,8,g,10,mg,830,g,19,g,3,g,3,g,0,g,2,g,4,g
+760,happy joes,pizza and grille buffet cream of potato with bacon soup,14,g,20,mg,830,g,18,g,4,g,5,g,0,g,1,g,3,g
+761,happy joes,pizza and grille buffet croutons,1,g,0,mg,90,g,5,g,1,g,0,g,0,g,0,g,0,g
+762,happy joes,pizza and grille buffet cucumber slices,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,1,g,1,g
+763,happy joes,pizza and grille buffet dill pickle spear,0,g,0,mg,340,g,1,g,0,g,0,g,0,g,0,g,0,g
+764,happy joes,pizza and grille buffet dressing blue cheese,16,g,10,mg,210,g,2,g,1,g,3,g,0,g,0,g,1,g
+765,happy joes,pizza and grille buffet dressing buttermilk ranch,20,g,5,mg,260,g,2,g,0,g,3,g,0,g,0,g,1,g
+766,happy joes,pizza and grille buffet dressing caesar,13,g,20,mg,290,g,2,g,1,g,2,g,0,g,0,g,1,g
+767,happy joes,pizza and grille buffet dressing creamy italian,13,g,5,mg,370,g,2,g,0,g,2,g,0,g,0,g,1,g
+768,happy joes,pizza and grille buffet dressing french,11,g,0,mg,300,g,7,g,0,g,1.5,g,0,g,0,g,7,g
+769,happy joes,pizza and grille buffet dressing golden italian,10,g,0,mg,230,g,3,g,0,g,1.5,g,0,g,0,g,2,g
+770,happy joes,pizza and grille buffet dressing honey french,11,g,0,mg,250,g,9,g,0,g,2,g,0,g,0,g,9,g
+771,happy joes,pizza and grille buffet dressing raspberry vinaigrette,4,g,0,mg,290,g,5,g,0,g,0,g,0,g,0,g,5,g
+772,happy joes,pizza and grille buffet dressing1000 island,2,g,0,mg,440,g,12,g,0,g,0,g,0,g,0,g,7,g
+773,happy joes,pizza and grille buffet fluff oreo cookie,5,g,0,mg,50,g,37,g,0,g,3.5,g,0,g,0,g,6,g
+774,happy joes,pizza and grille buffet fluff strawberry surprise 4 oz,11,g,0,mg,80,g,19,g,1,g,11,g,0,g,1,g,16,g
+775,happy joes,pizza and grille buffet fluff strawberry surprise 4 tbsp,5,g,0,mg,35,g,9,g,1,g,4.5,g,0,g,0,g,7,g
+776,happy joes,pizza and grille buffet french fries,14,g,0,mg,360,g,37,g,4,g,2.5,g,0,g,4,g,0,g
+777,happy joes,pizza and grille buffet fries sidewinders,3.5,g,0,mg,330,g,21,g,2,g,0.5,g,0,g,2,g,0,g
+778,happy joes,pizza and grille buffet fruit salad,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,2,g,21,g
+779,happy joes,pizza and grille buffet garden pasta,3,g,10,mg,130,g,4,g,2,g,1.5,g,0,g,0,g,1,g
+780,happy joes,pizza and grille buffet garlic toast,9,g,0,mg,280,g,17,g,3,g,2,g,0,g,1,g,0,g
+781,happy joes,pizza and grille buffet gravy brown,1,g,0,mg,240,g,3,g,0,g,0,g,0,g,0,g,0,g
+782,happy joes,pizza and grille buffet gravy chicken,1,g,0,mg,240,g,7,g,0,g,0,g,0,g,0,g,0,g
+783,happy joes,pizza and grille buffet gravy sausage,8,g,15,mg,240,g,2,g,2,g,2,g,0,g,0,g,0,g
+784,happy joes,pizza and grille buffet green beans,0,g,0,mg,0,g,5,g,1,g,0,g,0,g,2,g,2,g
+785,happy joes,pizza and grille buffet ham and potatoes,2.5,g,15,mg,800,g,12,g,6,g,0,g,0,g,1,g,3,g
+786,happy joes,pizza and grille buffet ham diced,20,g,30,mg,910,g,14,g,6,g,5,g,0,g,1,g,12,g
+787,happy joes,pizza and grille buffet hard cooked egg,4,g,190,mg,55,g,0,g,6,g,2,g,0,g,0,g,0,g
+788,happy joes,pizza and grille buffet honey,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,7,g
+789,happy joes,pizza and grille buffet italian wedding soup,3,g,15,mg,840,g,15,g,7,g,1,g,0,g,2,g,3,g
+790,happy joes,pizza and grille buffet jalapeno poppers,4.5,g,15,mg,570,g,16,g,5,g,2.5,g,0,g,1,g,0,g
+791,happy joes,pizza and grille buffet kielbasa,20,g,50,mg,680,g,2,g,9,g,7,g,0,g,0,g,1,g
+792,happy joes,pizza and grille buffet lemon,17,g,0,mg,0,g,5,g,1,g,0,g,0,g,2,g,1,g
+793,happy joes,pizza and grille buffet lettuce romaine,0,g,0,mg,10,g,3,g,1,g,0,g,0,g,2,g,1,g
+794,happy joes,pizza and grille buffet mac and cheese,17,g,30,mg,820,g,33,g,15,g,7,g,0,g,2,g,4,g
+795,happy joes,pizza and grille buffet mandarin oranges,0,g,0,mg,10,g,23,g,0,g,0,g,0,g,0,g,20,g
+796,happy joes,pizza and grille buffet margarine,11,g,0,mg,120,g,0,g,0,g,2,g,2,g,0,g,0,g
+797,happy joes,pizza and grille buffet mashed potatoes,1.5,g,0,mg,410,g,17,g,2,g,0,g,0,g,1,g,1,g
+798,happy joes,pizza and grille buffet mashed potatoes for salad bar,1,g,0,mg,360,g,20,g,2,g,0,g,0,g,2,g,1,g
+799,happy joes,pizza and grille buffet meatballs,15,g,85,mg,670,g,7,g,12,g,6,g,0.5,g,0,g,1,g
+800,happy joes,pizza and grille buffet mexican chicken tortilla soup,1.5,g,15,mg,410,g,20,g,7,g,0.5,g,0,g,2,g,3,g
+801,happy joes,pizza and grille buffet minestrone soup,1,g,0,mg,650,g,12,g,3,g,0,g,0,g,3,g,4,g
+802,happy joes,pizza and grille buffet mushroom slices,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+803,happy joes,pizza and grille buffet mushrooms fried,13,g,0,mg,640,g,17,g,3,g,3,g,0,g,0,g,0,g
+804,happy joes,pizza and grille buffet nacho cheese,3.5,g,5,mg,200,g,2,g,1,g,1.5,g,0,g,0,g,0,g
+805,happy joes,pizza and grille buffet olives black,1,g,0,mg,70,g,1,g,0,g,0,g,0,g,0,g,0,g
+806,happy joes,pizza and grille buffet olives green,2.5,g,0,mg,250,g,1,g,0,g,0,g,0,g,0,g,0,g
+807,happy joes,pizza and grille buffet onions red,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,1,g,1,g
+808,happy joes,pizza and grille buffet onions white,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,1,g
+809,happy joes,pizza and grille buffet peaches,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,1,g,5,g
+810,happy joes,pizza and grille buffet peas,0,g,0,mg,0,g,12,g,5,g,0,g,0,g,4,g,4,g
+811,happy joes,pizza and grille buffet pepperoni pasta,4,g,10,mg,130,g,4,g,3,g,2,g,0,g,0,g,1,g
+812,happy joes,pizza and grille buffet pineapple tidbits,0,g,0,mg,0,g,16,g,0,g,0,g,0,g,1,g,15,g
+813,happy joes,pizza and grille buffet polish sausage and kraut,22,g,50,mg,760,g,2,g,10,g,8,g,0,g,0,g,2,g
+814,happy joes,pizza and grille buffet pork and beans smoked,2,g,10,mg,830,g,25,g,10,g,1,g,0,g,10,g,2,g
+815,happy joes,pizza and grille buffet potato salad mustard,10,g,20,mg,540,g,28,g,2,g,4,g,0,g,2,g,6,g
+816,happy joes,pizza and grille buffet potato salad new york style,19,g,35,mg,650,g,20,g,4,g,5,g,0,g,1,g,2,g
+817,happy joes,pizza and grille buffet pretzel stix,0,g,0,mg,370,g,32,g,6,g,0,g,0,g,1,g,0,g
+818,happy joes,pizza and grille buffet pudding banana,3.5,g,0,mg,170,g,26,g,0,g,0,g,0,g,0,g,16,g
+819,happy joes,pizza and grille buffet pudding butterscotch,4,g,0,mg,240,g,25,g,0,g,0.5,g,0,g,0,g,15,g
+820,happy joes,pizza and grille buffet pudding chocolate,5,g,0,mg,190,g,23,g,1,g,0.5,g,1.5,g,0,g,16,g
+821,happy joes,pizza and grille buffet pudding milk chocolate,5,g,0,mg,220,g,26,g,1,g,5,g,0,g,0,g,19,g
+822,happy joes,pizza and grille buffet pudding tapioca,4.5,g,0,mg,180,g,23,g,2,g,1,g,1.5,g,0,g,16,g
+823,happy joes,pizza and grille buffet ravioli beef in meat sauce,8,g,25,mg,600,g,30,g,16,g,3.5,g,0,g,4,g,6,g
+824,happy joes,pizza and grille buffet red potato and cheese chowder,10,g,30,mg,930,g,16,g,4,g,5,g,0,g,1,g,2,g
+825,happy joes,pizza and grille buffet salad bean,0,g,0,mg,800,g,28,g,2,g,0,g,0,g,2,g,24,g
+826,happy joes,pizza and grille buffet salad macaroni,16,g,30,mg,770,g,30,g,3,g,6,g,0,g,0,g,12,g
+827,happy joes,pizza and grille buffet salad spring,26,g,35,mg,540,g,29,g,3,g,5,g,0,g,1,g,11,g
+828,happy joes,pizza and grille buffet salsa,0.5,g,0,mg,95,g,1,g,0,g,0,g,0,g,0,g,0,g
+829,happy joes,pizza and grille buffet sauce honey mustard,0,g,0,mg,290,g,15,g,1,g,0,g,0,g,1,g,12,g
+830,happy joes,pizza and grille buffet sausage pasta,3.5,g,10,mg,130,g,4,g,3,g,1.5,g,0,g,0,g,1,g
+831,happy joes,pizza and grille buffet sausages,16,g,45,mg,660,g,6,g,6,g,5,g,0,g,0,g,3,g
+832,happy joes,pizza and grille buffet seafood pasta 1 oz,2.5,g,15,mg,105,g,4,g,4,g,2,g,0,g,0,g,0,g
+833,happy joes,pizza and grille buffet seafood pasta 4 oz,4,g,15,mg,200,g,14,g,5,g,2,g,0,g,0,g,1,g
+834,happy joes,pizza and grille buffet smiley potatoes,6,g,0,mg,230,g,25,g,2,g,1,g,0,g,2,g,0,g
+835,happy joes,pizza and grille buffet sour cream,5,g,20,mg,50,g,2,g,1,g,3,g,0,g,0,g,2,g
+836,happy joes,pizza and grille buffet spaghetti,7,g,15,mg,470,g,18,g,7,g,2.5,g,0,g,2,g,4,g
+837,happy joes,pizza and grille buffet spring pasta salad,26,g,35,mg,540,g,29,g,3,g,4.5,g,0,g,1,g,11,g
+838,happy joes,pizza and grille buffet sunflower seeds,14,g,0,mg,115,g,7,g,5,g,1,g,0,g,3,g,1,g
+839,happy joes,pizza and grille buffet taco pasta,2.5,g,5,mg,85,g,4,g,2,g,1,g,0,g,1,g,1,g
+840,happy joes,pizza and grille buffet taco sauce spicy joes,0,g,0,mg,125,g,2,g,0,g,0,g,0,g,0,g,2,g
+841,happy joes,pizza and grille buffet taco shell hard,8,g,0,mg,0,g,21,g,1,g,3.5,g,0,g,1,g,0,g
+842,happy joes,pizza and grille buffet tartar sauce,7,g,5,mg,100,g,2,g,1,g,1,g,0,g,0,g,1,g
+843,happy joes,pizza and grille buffet tater tot casserole,6,g,5,mg,420,g,10,g,4,g,2,g,0,g,1,g,2,g
+844,happy joes,pizza and grille buffet tater tots,8,g,0,mg,330,g,19,g,2,g,2,g,0,g,2,g,1,g
+845,happy joes,pizza and grille buffet tomato florentine with pasta soup,1,g,0,mg,800,g,14,g,4,g,0.5,g,0,g,2,g,6,g
+846,happy joes,pizza and grille buffet tomatoes,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+847,happy joes,pizza and grille buffet tortilla flour,5,g,0,mg,430,g,38,g,7,g,2,g,0,g,2,g,3,g
+848,happy joes,pizza and grille buffet tuna casserole,4.5,g,45,mg,540,g,24,g,27,g,1,g,0,g,1,g,1,g
+849,happy joes,pizza and grille buffet vegetables mixed,0,g,0,mg,140,g,4,g,1,g,0,g,0,g,1,g,0,g
+850,happy joes,pizza and grille buffet vegetarian pasta,2.5,g,5,mg,100,g,4,g,2,g,1,g,0,g,0,g,1,g
+851,happy joes,pizza and grille buffet veggie lumberjack soup,0.5,g,0,mg,960,g,17,g,2,g,0,g,0,g,3,g,6,g
+852,happy joes,pizza and grille buffet veggie pasta,9,g,25,mg,490,g,13,g,8,g,4,g,0,g,1,g,3,g
+853,happy joes,pizza and grille buffet wisconsin cheese soup,14,g,40,mg,850,g,14,g,8,g,8,g,0,g,0,g,6,g
+854,happy joes,pizza and grille buffet wisconsin mac n cheese,14,g,35,mg,1170,g,36,g,14,g,7,g,0,g,1,g,10,g
+855,happy joes,pizza and grille buffet wonton strips,2,g,0,mg,30,g,4,g,1,g,0,g,0,g,0,g,0,g
+856,happy joes,pizza hero,53,g,85,mg,3310,g,64,g,30,g,16,g,1,g,7,g,7,g
+857,happy joes,pizza stix with dipping sauce large,6,g,0,mg,250,g,19,g,3,g,1,g,0,g,1,g,2,g
+858,happy joes,pizza stix with dipping sauce medium,4,g,0,mg,105,g,11,g,2,g,1,g,0,g,1,g,1,g
+859,happy joes,pizza stix with dipping sauce small,3,g,0,mg,80,g,9,g,2,g,1,g,0,g,1,g,1,g
+860,happy joes,popping pearls cherry,0,g,0,mg,10,g,6,g,0,g,0,g,0,g,0,g,5,g
+861,happy joes,popping pearls kiwi,0,g,0,mg,10,g,7,g,0,g,0,g,0,g,0,g,5,g
+862,happy joes,popping pearls mango,0,g,0,mg,10,g,6,g,0,g,0,g,0,g,0,g,5,g
+863,happy joes,popping pearls orange,0,g,0,mg,10,g,6,g,0,g,0,g,0,g,0,g,5,g
+864,happy joes,popping pearls peach,0,g,0,mg,10,g,6,g,0,g,0,g,0,g,0,g,5,g
+865,happy joes,popping pearls strawberry,0,g,0,mg,15,g,6,g,0,g,0,g,0,g,0,g,5,g
+866,happy joes,praline pecan ice cream,6,g,25,mg,100,g,20,g,2,g,3.5,g,0,g,0,g,14,g
+867,happy joes,pumpkin ice cream,5,g,25,mg,65,g,19,g,2,g,3.5,g,0,g,0,g,16,g
+868,happy joes,quart regular,91,g,560,mg,510,g,123,g,27,g,53,g,0,g,0,g,112,g
+869,happy joes,rainbow sprinkles,5,g,0,mg,0,g,22,g,0,g,2.5,g,1,g,0,g,12,g
+870,happy joes,ranch dip for wings,11,g,10,mg,90,g,1,g,1,g,2,g,0,g,0,g,1,g
+871,happy joes,raspberries,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,2,g,1,g
+872,happy joes,raspberry dessert sauce,0,g,0,mg,30,g,18,g,0,g,0,g,0,g,0,g,17,g
+873,happy joes,reduced fat gelato 7 vanilla flavored joegurt,6,g,15,mg,95,g,18,g,4,g,4.5,g,0,g,0,g,14,g
+874,happy joes,reduced fat gelato belgium cookie joegurt,8,g,45,mg,115,g,22,g,4,g,5,g,0,g,0,g,17,g
+875,happy joes,reduced fat gelato black walnut joegurt,6,g,15,mg,50,g,25,g,3,g,3.5,g,0,g,0,g,21,g
+876,happy joes,reduced fat gelato chocolate chip cookie dough joegurt,5,g,40,mg,70,g,19,g,4,g,3.5,g,0,g,0,g,18,g
+877,happy joes,reduced fat gelato chocolate obesession joegurt,7,g,15,mg,85,g,18,g,3,g,4.5,g,0,g,0,g,14,g
+878,happy joes,reduced fat gelato jamocha joegurt,6,g,40,mg,70,g,22,g,4,g,4,g,0,g,0,g,18,g
+879,happy joes,reduced fat gelato peanut butter fudge joegurt,6,g,35,mg,105,g,21,g,4,g,3,g,0,g,0,g,16,g
+880,happy joes,reduced fat gelato pistachio dulche de leche joegurt,6,g,40,mg,85,g,20,g,4,g,4,g,0,g,0,g,16,g
+881,happy joes,reduced fat gelato red raspberry joegurt,6,g,40,mg,70,g,21,g,4,g,4,g,0,g,0,g,16,g
+882,happy joes,reduced fat gelato strawberry shortcake joegurt,6,g,15,mg,70,g,20,g,3,g,4,g,0,g,0,g,15,g
+883,happy joes,reduced fat gelato yellow cake batter joegurt,7,g,45,mg,75,g,19,g,4,g,4.5,g,0,g,0,g,15,g
+884,happy joes,reuben original crust pizza 12 inch,10,g,20,mg,430,g,22,g,9,g,3,g,0,g,2,g,1,g
+885,happy joes,reuben original crust pizza 15 inch,10,g,25,mg,490,g,25,g,10,g,4,g,0,g,2,g,2,g
+886,happy joes,reuben original crust pizza 6 inch,7,g,15,mg,270,g,7,g,4,g,2,g,0,g,1,g,0,g
+887,happy joes,reuben original crust pizza 9 inch,8,g,15,mg,280,g,16,g,6,g,2,g,0,g,1,g,1,g
+888,happy joes,reuben pan crust pizza 12 inch,18,g,20,mg,410,g,23,g,9,g,4,g,0.5,g,2,g,1,g
+889,happy joes,reuben pan crust pizza 15 inch,20,g,25,mg,470,g,26,g,10,g,4.5,g,0.5,g,2,g,1,g
+890,happy joes,reuben pan crust pizza 6 inch,11,g,15,mg,260,g,7,g,4,g,2,g,0,g,1,g,0,g
+891,happy joes,reuben pan crust pizza 9 inch,12,g,15,mg,270,g,16,g,6,g,2.5,g,0,g,1,g,1,g
+892,happy joes,riverboat float regular,20,g,140,mg,150,g,49,g,6,g,12,g,0,g,0,g,38,g
+893,happy joes,rocky road ice cream,8,g,20,mg,60,g,20,g,3,g,3.5,g,0,g,0,g,14,g
+894,happy joes,rum black cherry ice cream,6,g,25,mg,40,g,17,g,2,g,4,g,0,g,0,g,13,g
+895,happy joes,smores regular,17,g,75,mg,350,g,99,g,9,g,15,g,2,g,2,g,66,g
+896,happy joes,smores small,10,g,35,mg,180,g,54,g,5,g,8,g,1.5,g,1,g,36,g
+897,happy joes,salami cauliflower pizza,8,g,0,mg,380,g,8,g,6,g,3,g,0,g,1,g,2,g
+898,happy joes,salami gluten free pizza,7,g,30,mg,460,g,11,g,6,g,3,g,0,g,1,g,2,g
+899,happy joes,salami original crust pizza 12 inch,15,g,30,mg,520,g,21,g,12,g,5,g,0,g,1,g,2,g
+900,happy joes,salami original crust pizza 15 inch,10,g,35,mg,610,g,24,g,13,g,5,g,1,g,2,g,2,g
+901,happy joes,salami original crust pizza 6 inch,10,g,25,mg,400,g,15,g,8,g,3,g,0,g,1,g,2,g
+902,happy joes,salami original crust pizza 9 inch,10,g,20,mg,350,g,15,g,8,g,3,g,0,g,1,g,2,g
+903,happy joes,salami pan crust pizza 12 inch,20,g,35,mg,550,g,22,g,12,g,6,g,1,g,2,g,2,g
+904,happy joes,salami pan crust pizza 15 inch,20,g,40,mg,620,g,24,g,14,g,7,g,1,g,2,g,2,g
+905,happy joes,salami pan crust pizza 6 inch,10,g,25,mg,400,g,17,g,9,g,4,g,1,g,1,g,1,g
+906,happy joes,salami pan crust pizza 9 inch,10,g,20,mg,350,g,16,g,8,g,4,g,1,g,1,g,1,g
+907,happy joes,sam adams boston lager,0,g,0,mg,0,g,18,g,2,g,0,g,0,g,0,g,0,g
+908,happy joes,sandies delight gluten free pizza,6,g,25,mg,400,g,12,g,6,g,3,g,0,g,1,g,2,g
+909,happy joes,sandies delight original crust pizza 12 inch,10,g,20,mg,390,g,21,g,10,g,4,g,1,g,2,g,2,g
+910,happy joes,sandies delight original crust pizza 15 inch,10,g,25,mg,450,g,24,g,11,g,4,g,1,g,2,g,3,g
+911,happy joes,sandies delight original crust pizza 6 inch,5,g,10,mg,260,g,16,g,7,g,2,g,0,g,1,g,2,g
+912,happy joes,sandies delight original crust pizza 9 inch,6,g,15,mg,290,g,16,g,7,g,3,g,0,g,1,g,2,g
+913,happy joes,sandies delight pan crust pizza 12 inch,20,g,25,mg,420,g,23,g,11,g,5,g,1,g,2,g,2,g
+914,happy joes,sandies delight pan crust pizza 15 inch,20,g,25,mg,460,g,26,g,12,g,6,g,1,g,2,g,2,g
+915,happy joes,sandies delight pan crust pizza 6 inch,10,g,15,mg,260,g,17,g,7,g,3,g,1,g,1,g,1,g
+916,happy joes,sandies delight pan crust pizza 9 inch,10,g,15,mg,290,g,16,g,7,g,3,g,1,g,1,g,1,g
+917,happy joes,sauerkraut cauliflower pizza,5,g,0,mg,260,g,8,g,4,g,2,g,0,g,1,g,2,g
+918,happy joes,sauerkraut gluten free pizza,4,g,20,mg,340,g,12,g,4,g,2,g,0,g,1,g,2,g
+919,happy joes,sauerkraut original crust pizza 12 inch,10,g,15,mg,330,g,21,g,8,g,3,g,0,g,2,g,2,g
+920,happy joes,sauerkraut original crust pizza 15 inch,10,g,15,mg,350,g,24,g,9,g,3,g,1,g,2,g,3,g
+921,happy joes,sauerkraut original crust pizza 6 inch,4,g,10,mg,210,g,16,g,5,g,2,g,0,g,1,g,2,g
+922,happy joes,sauerkraut original crust pizza 9 inch,5,g,10,mg,220,g,15,g,6,g,2,g,0,g,1,g,2,g
+923,happy joes,sauerkraut pan crust pizza 12 inch,14,g,15,mg,350,g,23,g,9,g,4,g,1,g,2,g,2,g
+924,happy joes,sauerkraut pan crust pizza 15 inch,15,g,20,mg,360,g,25,g,10,g,4,g,1,g,2,g,2,g
+925,happy joes,sauerkraut pan crust pizza 6 inch,10,g,10,mg,210,g,17,g,6,g,2,g,1,g,1,g,1,g
+926,happy joes,sauerkraut pan crust pizza 9 inch,9,g,10,mg,230,g,16,g,6,g,3,g,1,g,1,g,1,g
+927,happy joes,sausage and mushroom calzone,37,g,65,mg,2630,g,136,g,43,g,14,g,2.5,g,10,g,13,g
+928,happy joes,sausage calzone,44,g,80,mg,2800,g,136,g,47,g,17,g,2.5,g,10,g,13,g
+929,happy joes,sausage cauliflower pizza,7,g,0,mg,300,g,8,g,6,g,3,g,0,g,1,g,2,g
+930,happy joes,sausage gluten free pizza,6,g,25,mg,380,g,12,g,6,g,3,g,0,g,1,g,2,g
+931,happy joes,sausage original crust pizza 12 inch,10,g,20,mg,390,g,21,g,10,g,4,g,0,g,2,g,2,g
+932,happy joes,sausage original crust pizza 15 inch,10,g,25,mg,450,g,24,g,12,g,5,g,1,g,2,g,2,g
+933,happy joes,sausage original crust pizza 6 inch,10,g,15,mg,250,g,16,g,7,g,3,g,0,g,1,g,2,g
+934,happy joes,sausage original crust pizza 9 inch,10,g,15,mg,260,g,15,g,7,g,3,g,0,g,1,g,2,g
+935,happy joes,sausage pan crust pizza 12 inch,15,g,20,mg,340,g,19,g,9,g,4,g,1,g,2,g,2,g
+936,happy joes,sausage pan crust pizza 15 inch,20,g,25,mg,470,g,25,g,12,g,6,g,1,g,2,g,2,g
+937,happy joes,sausage pan crust pizza 6 inch,10,g,15,mg,230,g,17,g,7,g,3,g,1,g,1,g,1,g
+938,happy joes,sausage pan crust pizza 9 inch,11,g,15,mg,270,g,16,g,7,g,4,g,1,g,1,g,1,g
+939,happy joes,sausage party pasta,28,g,45,mg,2040,g,42,g,20,g,10,g,0,g,4,g,4,g
+940,happy joes,sausage patties,23,g,45,mg,300,g,1,g,6,g,8,g,0,g,0,g,0,g
+941,happy joes,sea salt caramel nut ice cream,8,g,25,mg,100,g,20,g,3,g,4,g,0,g,0,g,14,g
+942,happy joes,seafood pasta,59,g,175,mg,2290,g,69,g,48,g,26,g,0.5,g,3,g,3,g
+943,happy joes,shake regular,52,g,360,mg,420,g,143,g,15,g,30,g,0.5,g,1,g,110,g
+944,happy joes,shake small,39,g,270,mg,320,g,113,g,12,g,22,g,0.5,g,1,g,87,g
+945,happy joes,sherbet rainbow tub ice cream,0,g,0,mg,25,g,27,g,1,g,0,g,0,g,0,g,21,g
+946,happy joes,sierra mist,0,g,0,mg,5,g,3,g,0,g,0,g,0,g,0,g,3,g
+947,happy joes,silly willy regular,34,g,130,mg,180,g,89,g,10,g,18,g,4,g,2,g,66,g
+948,happy joes,silly willy small,18,g,65,mg,95,g,49,g,5,g,9,g,2.5,g,1,g,36,g
+949,happy joes,snickered regular,38,g,115,mg,230,g,81,g,13,g,17,g,6,g,4,g,55,g
+950,happy joes,snickered small,20,g,60,mg,120,g,45,g,7,g,9,g,3.5,g,2,g,31,g
+951,happy joes,sorbet non fat cherry limeade joegurt,0,g,0,mg,0,g,21,g,0,g,0,g,0,g,0,g,18,g
+952,happy joes,sorbet non fat mango joegurt,0,g,0,mg,0,g,22,g,0,g,0,g,0,g,0,g,19,g
+953,happy joes,sorbet non fat orange joegurt,0,g,0,mg,0,g,22,g,0,g,0,g,0,g,0,g,19,g
+954,happy joes,sorbet non fat pink lemonade joegurt,0,g,0,mg,0,g,22,g,0,g,0,g,0,g,0,g,19,g
+955,happy joes,sorbet non fat tropical joegurt,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,0,g,20,g
+956,happy joes,sorbet non fat watermelon joegurt,0,g,0,mg,5,g,19,g,0,g,0,g,0,g,0,g,20,g
+957,happy joes,sour gummi worms,0,g,0,mg,15,g,19,g,2,g,0,g,0,g,0,g,16,g
+958,happy joes,southwestern chicken sandwich,36,g,75,mg,3220,g,66,g,35,g,9,g,1,g,6,g,6,g
+959,happy joes,spaghetti joe gluten free pizza,4,g,15,mg,380,g,16,g,4,g,2,g,0,g,1,g,2,g
+960,happy joes,spaghetti joe original crust pizza 12 inch,10,g,10,mg,380,g,27,g,9,g,3,g,0,g,2,g,3,g
+961,happy joes,spaghetti joe original crust pizza 15 inch,10,g,15,mg,510,g,33,g,11,g,4,g,1,g,2,g,3,g
+962,happy joes,spaghetti joe original crust pizza 6 inch,4,g,5,mg,240,g,18,g,5,g,2,g,0,g,1,g,2,g
+963,happy joes,spaghetti joe original crust pizza 9 inch,4,g,5,mg,260,g,20,g,6,g,2,g,0,g,1,g,2,g
+964,happy joes,spaghetti joe pan crust pizza 12 inch,15,g,10,mg,250,g,28,g,7,g,3,g,1,g,2,g,2,g
+965,happy joes,spaghetti joe pan crust pizza 15 inch,10,g,15,mg,360,g,34,g,10,g,4,g,1,g,2,g,3,g
+966,happy joes,spaghetti joe pan crust pizza 6 inch,10,g,5,mg,140,g,20,g,5,g,2,g,0,g,1,g,1,g
+967,happy joes,spaghetti joe pan crust pizza 9 inch,10,g,5,mg,160,g,20,g,5,g,2,g,0,g,1,g,1,g
+968,happy joes,spaghetti pasta,41,g,50,mg,2090,g,91,g,29,g,12,g,0.5,g,8,g,12,g
+969,happy joes,spicy mac and cheese fargo nd,15,g,15,mg,1390,g,36,g,6,g,5,g,0,g,1,g,1,g
+970,happy joes,sprite,0,g,0,mg,5,g,3,g,0,g,0,g,0,g,0,g,3,g
+971,happy joes,sprite zero,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+972,happy joes,spumoni ice cream,6,g,25,mg,50,g,17,g,2,g,4,g,0,g,0,g,14,g
+973,happy joes,stella artois lager,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,0,g
+974,happy joes,strawberry cheesecake ice cream,5,g,25,mg,50,g,20,g,2,g,3.5,g,0,g,0,g,14,g
+975,happy joes,strawberry dessert sauce,0,g,0,mg,10,g,25,g,0,g,0,g,0,g,0,g,24,g
+976,happy joes,strawberry ice cream,6,g,25,mg,45,g,16,g,2,g,3.5,g,0,g,0,g,13,g
+977,happy joes,streusel topping 1 oz,4.5,g,0,mg,45,g,19,g,1,g,1,g,0,g,1,g,11,g
+978,happy joes,sugar daddy dish regular,37,g,155,mg,190,g,70,g,12,g,17,g,6,g,2,g,50,g
+979,happy joes,sugar daddy dish small,20,g,75,mg,100,g,40,g,6,g,9,g,3.5,g,1,g,29,g
+980,happy joes,sundae regular,34,g,165,mg,240,g,75,g,9,g,18,g,3.5,g,1,g,45,g
+981,happy joes,sundae small,18,g,75,mg,140,g,44,g,5,g,8,g,2,g,1,g,26,g
+982,happy joes,super man ice cream,6,g,30,mg,50,g,16,g,2,g,4,g,0,g,0,g,12,g
+983,happy joes,super max original crust pizza 12 inch,6,g,10,mg,630,g,23,g,8,g,3,g,0,g,2,g,4,g
+984,happy joes,super max original crust pizza 15 inch,7,g,15,mg,570,g,26,g,8,g,4,g,0,g,2,g,5,g
+985,happy joes,super max original crust pizza 6 inch,5,g,10,mg,440,g,18,g,6,g,2,g,0,g,2,g,3,g
+986,happy joes,super max original crust pizza 9 inch,5,g,10,mg,430,g,17,g,6,g,3,g,0,g,2,g,3,g
+987,happy joes,super max pan crust pizza 12 inch,10,g,10,mg,620,g,25,g,8,g,4,g,0.5,g,2,g,4,g
+988,happy joes,super max pan crust pizza 15 inch,14,g,15,mg,760,g,28,g,9,g,4.5,g,0.5,g,3,g,5,g
+989,happy joes,super max pan crust pizza 6 inch,9,g,10,mg,340,g,19,g,6,g,2.5,g,0,g,2,g,3,g
+990,happy joes,super max pan crust pizza 9 inch,10,g,10,mg,450,g,18,g,6,g,3,g,0,g,2,g,3,g
+991,happy joes,taco calzone,43,g,85,mg,2930,g,149,g,47,g,18,g,2,g,11,g,17,g
+992,happy joes,taco joe cauliflower pizza,2,g,0,mg,330,g,11,g,5,g,2,g,0,g,1,g,2,g
+993,happy joes,taco joe gluten free pizza,6,g,20,mg,410,g,14,g,5,g,2,g,0,g,1,g,2,g
+994,happy joes,taco joe original crust pizza 12 inch,8,g,15,mg,390,g,25,g,9,g,3,g,1,g,2,g,3,g
+995,happy joes,taco joe original crust pizza 15 inch,10,g,20,mg,470,g,30,g,11,g,4,g,1,g,2,g,3,g
+996,happy joes,taco joe original crust pizza 6 inch,6,g,10,mg,280,g,19,g,6,g,2,g,0,g,2,g,2,g
+997,happy joes,taco joe original crust pizza 9 inch,6,g,10,mg,290,g,20,g,7,g,2,g,0,g,2,g,2,g
+998,happy joes,taco joe pan crust pizza 12 inch,15,g,15,mg,370,g,27,g,9,g,4,g,1,g,2,g,3,g
+999,happy joes,taco joe pan crust pizza 15 inch,20,g,20,mg,450,g,31,g,11,g,5,g,1,g,3,g,3,g

@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,taco cabana,add on sliced jalapenos,0,g,0,mg,509,g,1,g,0,g,0,g,0,g,1,g,0,g
+1,taco cabana,add on shredded cheese,10,g,30,mg,160,g,0,g,6,g,6,g,0,g,0,g,0,g
+2,taco cabana,add on queso,8,g,25,mg,830,g,5,g,5,g,5,g,0,g,0,g,2,g
+3,taco cabana,add on usda choice steak,3,g,20,mg,250,g,1,g,6,g,1,g,0,g,0,g,0,g
+4,taco cabana,add on fresh flour tirtilla,3,g,0,mg,290,g,19,g,3,g,2,g,0,g,1,g,0,g
+5,taco cabana,shredded chicken fajita bowl without beans,37,g,135,mg,2090,g,66,g,36,g,14,g,0,g,4,g,5,g
+6,taco cabana,chicken flautas without dip,4,g,25,mg,210,g,13,g,6,g,1,g,0,g,1,g,0,g
+7,taco cabana,ground beef bowl without beans,36,g,85,mg,1850,g,64,g,30,g,15,g,1,g,4,g,5,g
+8,taco cabana,mixed fajita family meal 36 oz,11.2,g,29,mg,906,g,34,g,11.8,g,4.8,g,0.2,g,2.5,g,2.7,g
+9,taco cabana,usda choice steak bowl without beans,39,g,100,mg,1950,g,63,g,34,g,16,g,1,g,4,g,4,g
+10,taco cabana,kickin beef nachos,87,g,135,mg,3110,g,127,g,42,g,28,g,1,g,18,g,11,g
+11,taco cabana,chicken nachos with queso,51,g,140,mg,2710,g,71,g,36,g,15,g,0,g,10,g,5,g
+12,taco cabana,flame grilled chicken fajita nachos with shredded cheese,65,g,150,mg,1490,g,63,g,48,g,27,g,0,g,10,g,3,g
+13,taco cabana,ground beef nachos with shredded cheese,69,g,145,mg,1520,g,65,g,46,g,29,g,1,g,10,g,4,g
+14,taco cabana,flame grilled chicken fajita family meal 62 oz,20.7,g,68,mg,2029,g,74.8,g,29.6,g,8.7,g,0.2,g,4.6,g,4.6,g
+15,taco cabana,brisket bowl without beans,48,g,95,mg,1830,g,60,g,26,g,20,g,0,g,4,g,4,g
+16,taco cabana,usda choice steak nachos with queso,50,g,95,mg,1810,g,68,g,29,g,17,g,0,g,10,g,4,g
+17,taco cabana,flame grilled chicken fajita bowl without beans,34,g,105,mg,2030,g,63,g,38,g,14,g,0,g,4,g,4,g
+18,taco cabana,ground beef nachos with queso,50,g,90,mg,1900,g,69,g,30,g,17,g,1,g,10,g,5,g
+19,taco cabana,chicken nachos with shredded cheese,70,g,200,mg,2330,g,67,g,52,g,28,g,0,g,10,g,4,g
+20,taco cabana,chips and queso large,61,g,70,mg,2270,g,130,g,22,g,18,g,0,g,10,g,3,g
+21,taco cabana,flame grilled chicken nachos with queso,46,g,95,mg,1880,g,68,g,32,g,15,g,0,g,10,g,4,g
+22,taco cabana,brisket nachos with queso,56,g,95,mg,1800,g,65,g,25,g,19,g,0,g,10,g,4,g
+23,taco cabana,beef loaded queso and chips,62,g,65,mg,447,g,105,g,24,g,17,g,0,g,12,g,6,g
+24,taco cabana,flame grilled chicken fajita family meal 66 oz,27.2,g,104,mg,2820,g,94.9,g,43.7,g,11.2,g,0.2,g,5.8,g,5.8,g
+25,taco cabana,brisket nachos with shredded cheese,75,g,150,mg,1420,g,61,g,40,g,32,g,0,g,10,g,3,g
+26,taco cabana,mixed fajita family meal 62 oz,22.4,g,66,mg,1998,g,74.8,g,28,g,9.7,g,0.4,g,4.6,g,6.2,g
+27,taco cabana,usda choice steak family meal 36 oz,11.2,g,29,mg,906,g,34,g,11.8,g,4.8,g,0.2,g,2.5,g,2.7,g
+28,taco cabana,usda choice steak family meal 66 oz,33.2,g,99,mg,2713,g,94.9,g,39.3,g,14.3,g,0.7,g,5.8,g,5.3,g
+29,taco cabana,flame grilled chicken fajita family meal 36 oz,9.7,g,31,mg,934,g,34,g,13.2,g,4,g,0,g,2.5,g,2.8,g
+30,taco cabana,chips and guacamole large,66,g,0,mg,990,g,107,g,12,g,10,g,0,g,22,g,3,g
+31,taco cabana,usda choice steak nachos with shredded cheese,69,g,150,mg,1430,g,63,g,45,g,29,g,0,g,10,g,3,g
+32,taco cabana,usda choice steak family meal 62 oz,24.4,g,65,mg,1965,g,74.8,g,26.7,g,10.6,g,0.6,g,4.6,g,4.3,g
+33,taco cabana,chicken quesadilla small,54,g,135,mg,1770,g,53,g,37,g,23,g,0,g,4,g,4,g
+34,taco cabana,chicken quesadilla large,105,g,265,mg,3250,g,86,g,70,g,44,g,0,g,7,g,8,g
+35,taco cabana,cheese quesadilla small,50,g,90,mg,1320,g,51,g,26,g,22,g,0,g,4,g,3,g
+36,taco cabana,flame grilled chicken fajita quesadilla small,52,g,115,mg,1740,g,52,g,37,g,22,g,0,g,4,g,4,g
+37,taco cabana,usda choice steak quesadilla large,107,g,230,mg,3110,g,84,g,68,g,46,g,1,g,7,g,7,g
+38,taco cabana,flame grilled chicken fajita quesadilla large,102,g,235,mg,3190,g,83,g,71,g,44,g,0,g,7,g,7,g
+39,taco cabana,cheese quesadilla large,98,g,175,mg,2350,g,81,g,49,g,43,g,0,g,7,g,7,g
+40,taco cabana,brisket quesadilla small,63,g,130,mg,1880,g,51,g,36,g,27,g,0,g,4,g,3,g
+41,taco cabana,brisket quesadilla large,123,g,255,mg,3470,g,81,g,69,g,53,g,0,g,7,g,7,g
+42,taco cabana,usda choice steak quesadilla small,55,g,115,mg,1700,g,52,g,35,g,24,g,0,g,4,g,3,g
+43,taco cabana,fried salad bowl shell,13,g,0,mg,360,g,27,g,4,g,4,g,0,g,1,g,0,g
+44,taco cabana,salsa ranch dressing,11,g,5,mg,660,g,4,g,1,g,2,g,0,g,1,g,3,g
+45,taco cabana,ranch dressing,38,g,25,mg,750,g,5,g,1,g,6,g,1,g,0,g,3,g
+46,taco cabana,flame grilled chicken fajita salad,31,g,105,mg,1490,g,36,g,36,g,13,g,0,g,4,g,4,g
+47,taco cabana,ground beef salad,34,g,85,mg,1310,g,37,g,29,g,15,g,1,g,4,g,4,g
+48,taco cabana,brisket salad,45,g,95,mg,1280,g,33,g,25,g,19,g,0,g,4,g,3,g
+49,taco cabana,shredded chicken salad,35,g,135,mg,1550,g,39,g,34,g,14,g,0,g,4,g,5,g
+50,taco cabana,usda choice steak salad,36,g,100,mg,1410,g,36,g,32,g,15,g,1,g,4,g,3,g
+51,taco cabana,queso small,8,g,25,mg,830,g,5,g,5,g,5,g,0,g,0,g,2,g
+52,taco cabana,refried beans with cheese,14,g,15,mg,440,g,25,g,9,g,6,g,0,g,6,g,1,g
+53,taco cabana,borracho beans side,2.6,g,4,mg,445,g,17.4,g,7.9,g,0.9,g,0,g,6.1,g,0.9,g
+54,taco cabana,rice side dish,3,g,0,mg,550,g,29,g,3,g,1,g,0,g,1,g,1,g
+55,taco cabana,tortilla chips small,20,g,0,mg,25,g,44,g,4,g,4,g,0,g,5,g,1,g
+56,taco cabana,guacamole small,9,g,0,mg,340,g,7,g,1,g,1,g,0,g,4,g,1,g
+57,taco cabana,black beans,1,g,0,mg,420,g,21,g,7,g,0,g,0,g,8,g,1,g
+58,taco cabana,table corn tortilla,1,g,0,mg,35,g,13,g,2,g,0,g,0,g,1,g,1,g
+59,taco cabana,sour cream small,15,g,55,mg,40,g,3,g,3,g,10,g,0,g,0,g,3,g
+60,taco cabana,steak street tacos,8.3,g,18,mg,310,g,13.3,g,7.3,g,2,g,0.3,g,1.3,g,0.3,g
+61,taco cabana,bean and cheese soft taco,14,g,20,mg,580,g,31,g,10,g,7,g,0,g,4,g,1,g
+62,taco cabana,crispy ground beef taco,8,g,25,mg,380,g,15,g,11,g,4,g,0,g,2,g,1,g
+63,taco cabana,flame grilled chicken fajita soft taco,6,g,40,mg,850,g,21,g,18,g,2,g,0,g,1,g,0,g
+64,taco cabana,carne guisada soft taco,8,g,30,mg,660,g,20,g,13,g,3,g,0,g,1,g,0,g
+65,taco cabana,brisket soct taco,13,g,30,mg,890,g,31,g,10,g,5,g,0,g,1,g,11,g
+66,taco cabana,ground beef soft taco,9,g,25,mg,660,g,21,g,12,g,4,g,0,g,1,g,1,g
+67,taco cabana,shredded crispy chicken taco,9,g,50,mg,500,g,16,g,14,g,3,g,0,g,1,g,1,g
+68,taco cabana,black bean soft taco,5,g,0,mg,640,g,38,g,7,g,2,g,0,g,5,g,2,g
+69,taco cabana,shredded chicken soft taco,9,g,50,mg,780,g,23,g,15,g,4,g,0,g,1,g,1,g
+70,taco cabana,brisket soft taco with fried onion and jalapeno,16,g,30,mg,1000,g,33,g,10,g,6,g,0,g,2,g,7,g
+71,taco cabana,flame grilled chicken fajita soft taco with peppers and onions,5,g,30,mg,810,g,23,g,14,g,2,g,0,g,1,g,2,g
+72,taco cabana,flame grilled chicken fajita soft taco with bacon jalapeno and cheese,14,g,55,mg,1050,g,21,g,20,g,6,g,0,g,1,g,1,g
+73,taco cabana,flame grilled chicken fajita soft taco with poblano ranchero and cheese,9,g,37,mg,721,g,18,g,13.9,g,4.1,g,0,g,0.8,g,0.8,g
+74,taco cabana,usda choice soft steak taco with peppers and onions,7,g,30,mg,760,g,23,g,12,g,3,g,0,g,1,g,2,g
+75,taco cabana,usda choice steak soft taco with bacon lettuce and pico,17,g,40,mg,1070,g,23,g,15,g,5,g,0,g,1,g,2,g
+76,taco cabana,usda choice soft steak taco with poblano ranchero and cheese,14,g,40,mg,840,g,22,g,16,g,6,g,0,g,1,g,1,g
+77,taco cabana,brisket soft taco with queso and jalapeno,15,g,40,mg,1000,g,21,g,12,g,7,g,0,g,1,g,1,g
+78,taco cabana,brisket soft taco with peppers and onions,13,g,30,mg,800,g,22,g,10,g,5,g,0,g,1,g,2,g
+79,taco cabana,usda choice steak soft taco,9,g,35,mg,790,g,21,g,15,g,4,g,0,g,1,g,0,g
+80,taco cabana,add ons brisket,13,g,40,mg,560,g,0,g,10,g,5,g,0,g,0,g,0,g
+81,taco cabana,add ons butter,4,g,10,mg,30,g,0,g,0,g,3,g,0,g,0,g,0,g
+82,taco cabana,add ons flame grilled chicken fajita,2,g,20,mg,280,g,1,g,7,g,0,g,0,g,0,g,0,g
+83,taco cabana,add ons fresh flour tortilla,3,g,0,mg,290,g,19,g,3,g,2,g,0,g,1,g,0,g
+84,taco cabana,add ons guacamole,3,g,0,mg,105,g,2,g,0,g,0,g,0,g,1,g,0,g
+85,taco cabana,add ons guacamole small,9,g,0,mg,340,g,7,g,1,g,1,g,0,g,4,g,1,g
+86,taco cabana,add ons lemon or lime wedge,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+87,taco cabana,add ons onions,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,1,g
+88,taco cabana,add ons pico de gallo,0,g,0,mg,100,g,1,g,0,g,0,g,0,g,0,g,1,g
+89,taco cabana,add ons queso small,8,g,25,mg,830,g,5,g,5,g,5,g,0,g,0,g,2,g
+90,taco cabana,add ons salsa fuego,0,g,0,mg,220,g,1,g,0,g,0,g,0,g,0,g,1,g
+91,taco cabana,add ons salsa ranch,4,g,0,mg,210,g,1,g,0,g,1,g,0,g,0,g,1,g
+92,taco cabana,add ons salsa roja,0,g,0,mg,115,g,1,g,0,g,0,g,0,g,0,g,1,g
+93,taco cabana,add ons salsa verde,0,g,0,mg,160,g,1,g,0,g,0,g,0,g,1,g,1,g
+94,taco cabana,add ons scrambled egg,6,g,150,mg,120,g,1,g,5,g,2,g,0,g,0,g,0,g
+95,taco cabana,add ons shredded cheese,5,g,15,mg,80,g,0,g,3,g,3,g,0,g,0,g,0,g
+96,taco cabana,add ons slice of bacon,5,g,10,mg,170,g,0,g,3,g,2,g,0,g,0,g,0,g
+97,taco cabana,add ons sliced jalapenos,0,g,0,mg,510,g,1,g,0,g,0,g,0,g,1,g,0,g
+98,taco cabana,add ons sour cream,5,g,15,mg,15,g,1,g,1,g,3,g,0,g,0,g,1,g
+99,taco cabana,add ons sour cream small,15,g,55,mg,40,g,3,g,3,g,10,g,0,g,0,g,3,g
+100,taco cabana,add ons steak,3,g,20,mg,250,g,1,g,6,g,1,g,0,g,0,g,0,g
+101,taco cabana,add ons table corn tortilla,1,g,0,mg,35,g,13,g,2,g,0,g,0,g,1,g,1,g
+102,taco cabana,add ons the works,6,g,15,mg,110,g,2,g,3,g,4,g,0,g,1,g,1,g
+103,taco cabana,add ons tortilla chips,20,g,0,mg,25,g,44,g,4,g,4,g,0,g,5,g,1,g
+104,taco cabana,apple juice,0,g,0,mg,15,g,24,g,0,g,0,g,0,g,0,g,24,g
+105,taco cabana,barqs root beer kids,0,g,0,mg,40,g,54,g,0,g,0,g,0,g,0,g,54,g
+106,taco cabana,barqs root beer large,0,g,0,mg,110,g,150,g,0,g,0,g,0,g,0,g,150,g
+107,taco cabana,barqs root beer medium,0,g,0,mg,80,g,109,g,0,g,0,g,0,g,0,g,109,g
+108,taco cabana,barqs root beer small,0,g,0,mg,50,g,68,g,0,g,0,g,0,g,0,g,68,g
+109,taco cabana,beef enchilada,11,g,25,mg,560,g,14,g,10,g,3,g,0,g,0,g,1,g
+110,taco cabana,beef loaded queso and chips,62,g,65,mg,450,g,105,g,24,g,17,g,0,g,12,g,6,g
+111,taco cabana,black beans 12 18 oz family meal portion,4,g,0,mg,1680,g,85,g,29,g,1,g,0,g,32,g,5,g
+112,taco cabana,black beans 6 oz family meal portion,2,g,0,mg,840,g,42,g,14,g,0,g,0,g,16,g,2,g
+113,taco cabana,black beans regular,2,g,0,mg,840,g,42,g,14,g,0,g,0,g,16,g,2,g
+114,taco cabana,black beans small,1,g,0,mg,420,g,21,g,7,g,0,g,0,g,8,g,1,g
+115,taco cabana,borracho beans 12 18 oz family meal portion,13,g,30,mg,2040,g,80,g,36,g,4,g,0,g,27,g,5,g
+116,taco cabana,borracho beans 6 oz family meal portion,6,g,15,mg,1020,g,40,g,18,g,2,g,0,g,13,g,2,g
+117,taco cabana,borracho beans regular,6,g,15,mg,1020,g,40,g,18,g,2,g,0,g,13,g,2,g
+118,taco cabana,borracho beans small,3,g,5,mg,510,g,0,g,9,g,1,g,0,g,7,g,1,g
+119,taco cabana,bowls brisket,48,g,95,mg,1830,g,60,g,26,g,20,g,0,g,4,g,4,g
+120,taco cabana,bowls flame grilled chicken fajita,34,g,105,mg,2030,g,63,g,38,g,14,g,0,g,4,g,4,g
+121,taco cabana,bowls ground beef,36,g,85,mg,1850,g,64,g,30,g,15,g,1,g,4,g,5,g
+122,taco cabana,bowls shredded chicken,37,g,135,mg,2090,g,66,g,36,g,14,g,0,g,4,g,5,g
+123,taco cabana,bowls steak,39,g,100,mg,1950,g,63,g,34,g,16,g,1,g,4,g,4,g
+124,taco cabana,breakfast tacos bacon and egg,13,g,160,mg,610,g,20,g,10,g,5,g,0,g,1,g,1,g
+125,taco cabana,breakfast tacos bacon egg and cheese,17,g,175,mg,690,g,20,g,14,g,7,g,0,g,1,g,1,g
+126,taco cabana,breakfast tacos barbacoa,13,g,45,mg,290,g,19,g,10,g,5,g,0,g,1,g,0,g
+127,taco cabana,breakfast tacos brisket and egg,15,g,170,mg,680,g,20,g,12,g,5,g,0,g,1,g,1,g
+128,taco cabana,breakfast tacos brisket egg and cheese,20,g,185,mg,770,g,20,g,16,g,8,g,0,g,1,g,1,g
+129,taco cabana,breakfast tacos carne guisada,8,g,30,mg,660,g,20,g,13,g,3,g,0,g,1,g,0,g
+130,taco cabana,breakfast tacos chorizo and egg,17,g,145,mg,600,g,20,g,9,g,6,g,0,g,1,g,1,g
+131,taco cabana,breakfast tacos chorizo egg and cheese,21,g,160,mg,680,g,20,g,13,g,9,g,0,g,1,g,1,g
+132,taco cabana,breakfast tacos potato and egg,11,g,145,mg,460,g,23,g,8,g,3,g,0,g,1,g,1,g
+133,taco cabana,breakfast tacos potato egg and cheese,15,g,160,mg,540,g,23,g,11,g,6,g,0,g,1,g,1,g
+134,taco cabana,breakfast tacos refried bean and cheese,14,g,20,mg,580,g,31,g,10,g,7,g,0,g,4,g,1,g
+135,taco cabana,breakfast tacos steak and egg,12,g,170,mg,660,g,21,g,14,g,4,g,0,g,1,g,1,g
+136,taco cabana,breakfast tacos steak egg and cheese,17,g,180,mg,740,g,21,g,17,g,7,g,0,g,1,g,1,g
+137,taco cabana,breakfast mexicana plate,64,g,600,mg,2840,g,85,g,43,g,21,g,0,g,10,g,5,g
+138,taco cabana,breakfast seasoned potatoes,9,g,0,mg,280,g,15,g,1,g,2,g,0,g,1,g,0,g
+139,taco cabana,brisket quesadilla large,123,g,255,mg,3470,g,81,g,68,g,53,g,0,g,7,g,7,g
+140,taco cabana,brisket quesadilla small,63,g,130,mg,1880,g,51,g,36,g,27,g,0,g,4,g,3,g
+141,taco cabana,bud light or coors light,0,g,0,mg,10,g,4,g,1,g,0,g,0,g,0,g,0,g
+142,taco cabana,burritos brisket cabana,40,g,95,mg,2060,g,76,g,29,g,19,g,0,g,4,g,4,g
+143,taco cabana,burritos flame grilled chicken fajita,26,g,105,mg,2270,g,79,g,40,g,13,g,0,g,4,g,4,g
+144,taco cabana,burritos flour tortilla,5,g,0,mg,590,g,42,g,6,g,3,g,0,g,1,g,0,g
+145,taco cabana,burritos ground beef cabana burrito,29,g,85,mg,2080,g,79,g,33,g,15,g,1,g,5,g,5,g
+146,taco cabana,burritos shredded chicken cabana burrito,30,g,135,mg,2320,g,81,g,39,g,13,g,0,g,4,g,5,g
+147,taco cabana,burritos steak,31,g,100,mg,2180,g,79,g,36,g,15,g,1,g,4,g,4,g
+148,taco cabana,cafe cabana coffee,0,g,0,mg,10,g,0,g,1,g,0,g,0,g,0,g,0,g
+149,taco cabana,cafe cabana decaf coffee,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+150,taco cabana,cheese enchilada,23,g,55,mg,520,g,13,g,15,g,11,g,0,g,0,g,0,g
+151,taco cabana,cheese quesadilla small,50,g,90,mg,1320,g,51,g,26,g,22,g,0,g,4,g,3,g
+152,taco cabana,chicken enchilada,13,g,60,mg,860,g,21,g,15,g,5,g,0,g,3,g,2,g
+153,taco cabana,chicken quesadilla large,105,g,265,mg,3250,g,86,g,70,g,44,g,0,g,7,g,8,g
+154,taco cabana,chicken quesadilla small,54,g,135,mg,1770,g,53,g,37,g,23,g,0,g,4,g,4,g
+155,taco cabana,chips and guacamole 4 oz,30,g,0,mg,380,g,51,g,6,g,5,g,0,g,10,g,1,g
+156,taco cabana,chips and guacamole 8 oz,66,g,0,mg,990,g,107,g,12,g,10,g,0,g,22,g,3,g
+157,taco cabana,chips and queso 4 oz,28,g,25,mg,860,g,50,g,9,g,8,g,0,g,5,g,2,g
+158,taco cabana,chips and queso 8 oz,61,g,70,mg,2270,g,103,g,22,g,18,g,0,g,10,g,6,g
+159,taco cabana,chocolate chip cookie,12,g,10,mg,200,g,35,g,2,g,5,g,0,g,1,g,20,g
+160,taco cabana,chocolate low fat milk,3,g,10,mg,170,g,26,g,7,g,2,g,0,g,0,g,23,g
+161,taco cabana,coca cola kids,0,g,0,mg,0,g,50,g,0,g,0,g,0,g,0,g,50,g
+162,taco cabana,coca cola large,0,g,0,mg,10,g,137,g,0,g,0,g,0,g,0,g,137,g
+163,taco cabana,coca cola medium,0,g,0,mg,10,g,100,g,0,g,0,g,0,g,0,g,100,g
+164,taco cabana,coca cola small,0,g,0,mg,5,g,62,g,0,g,0,g,0,g,0,g,62,g
+165,taco cabana,coke zero kids,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+166,taco cabana,coke zero large,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+167,taco cabana,coke zero medium,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+168,taco cabana,coke zero small,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+169,taco cabana,combo sides chips and guacamole,30,g,0,mg,380,g,51,g,6,g,5,g,0,g,10,g,1,g
+170,taco cabana,combo sides chips and queso,28,g,25,mg,860,g,50,g,9,g,8,g,0,g,5,g,2,g
+171,taco cabana,crispy tacos ground beef taco,8,g,25,mg,380,g,15,g,11,g,4,g,0,g,2,g,1,g
+172,taco cabana,crispy tacos shredded chicken,9,g,50,mg,500,g,16,g,14,g,3,g,0,g,1,g,1,g
+173,taco cabana,desserts honey,0,g,0,mg,0,g,23,g,0,g,0,g,0,g,0,g,22,g
+174,taco cabana,desserts strawberry topping,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,10,g
+175,taco cabana,diet coke kids,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+176,taco cabana,diet coke large,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+177,taco cabana,diet coke medium,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+178,taco cabana,diet coke small,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+179,taco cabana,diet dr pepper kids,0,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+180,taco cabana,diet dr pepper large,0,g,0,mg,220,g,0,g,0,g,0,g,0,g,0,g,0,g
+181,taco cabana,diet dr pepper medium,0,g,0,mg,160,g,0,g,0,g,0,g,0,g,0,g,0,g
+182,taco cabana,diet dr pepper small,0,g,0,mg,100,g,0,g,0,g,0,g,0,g,0,g,0,g
+183,taco cabana,dos xx lager beer,0,g,0,mg,10,g,10,g,0,g,0,g,0,g,0,g,0,g
+184,taco cabana,dr pepper kids,0,g,0,mg,65,g,50,g,0,g,0,g,0,g,0,g,50,g
+185,taco cabana,dr pepper large,0,g,0,mg,180,g,137,g,0,g,0,g,0,g,0,g,137,g
+186,taco cabana,dr pepper medium,0,g,0,mg,130,g,100,g,0,g,0,g,0,g,0,g,100,g
+187,taco cabana,dr pepper small,0,g,0,mg,80,g,62,g,0,g,0,g,0,g,0,g,62,g
+188,taco cabana,dulce de leche,1,g,5,mg,90,g,17,g,1,g,1,g,0,g,0,g,12,g
+189,taco cabana,fanta apple kids,0,g,0,mg,35,g,62,g,0,g,0,g,0,g,0,g,62,g
+190,taco cabana,fanta apple large,0,g,0,mg,100,g,172,g,0,g,0,g,0,g,0,g,172,g
+191,taco cabana,fanta apple medium,0,g,0,mg,70,g,125,g,0,g,0,g,0,g,0,g,126,g
+192,taco cabana,fanta apple small,0,g,0,mg,45,g,78,g,0,g,0,g,0,g,0,g,78,g
+193,taco cabana,fanta strawberry kids,0,g,0,mg,15,g,54,g,0,g,0,g,0,g,0,g,54,g
+194,taco cabana,fanta strawberry large,0,g,0,mg,35,g,150,g,0,g,0,g,0,g,0,g,150,g
+195,taco cabana,fanta strawberry medium,0,g,0,mg,25,g,109,g,0,g,0,g,0,g,0,g,109,g
+196,taco cabana,fanta strawberry small,0,g,0,mg,15,g,68,g,0,g,0,g,0,g,0,g,68,g
+197,taco cabana,flame grilled chicken fajita family meal 12 oz,107,g,350,mg,10490,g,387,g,153,g,45,g,1,g,24,g,24,g
+198,taco cabana,flame grilled chicken fajita family meal 16 oz,112,g,430,mg,11620,g,391,g,183,g,46,g,1,g,24,g,24,g
+199,taco cabana,flame grilled chicken fajita family meal 6 oz,58,g,185,mg,5610,g,204,g,79,g,24,g,0,g,15,g,17,g
+200,taco cabana,flame grilled chicken fajita quesadilla large,102,g,235,mg,3190,g,83,g,71,g,44,g,0,g,7,g,7,g
+201,taco cabana,flame grilled chicken fajita quesadilla small,52,g,115,mg,1740,g,52,g,37,g,22,g,0,g,4,g,4,g
+202,taco cabana,flautas chicken flauta,4,g,25,mg,210,g,13,g,6,g,1,g,0,g,1,g,0,g
+203,taco cabana,flautas chicken flautas 3,12,g,70,mg,640,g,40,g,19,g,3,g,0,g,3,g,1,g
+204,taco cabana,flautas guacamole small,9,g,0,mg,340,g,7,g,1,g,1,g,0,g,4,g,1,g
+205,taco cabana,flautas queso small,8,g,25,mg,830,g,5,g,5,g,5,g,0,g,0,g,2,g
+206,taco cabana,flautas sour cream small,15,g,55,mg,40,g,3,g,3,g,10,g,0,g,0,g,3,g
+207,taco cabana,fried bowl for salad,13,g,0,mg,360,g,27,g,4,g,4,g,0,g,1,g,0,g
+208,taco cabana,hi c fruit punch kids,0,g,0,mg,20,g,50,g,0,g,0,g,0,g,0,g,50,g
+209,taco cabana,hi c fruit punch large,0,g,0,mg,50,g,137,g,0,g,0,g,0,g,0,g,137,g
+210,taco cabana,hi c fruit punch medium,0,g,0,mg,35,g,100,g,0,g,0,g,0,g,0,g,100,g
+211,taco cabana,hi c fruit punch small,0,g,0,mg,25,g,62,g,0,g,0,g,0,g,0,g,62,g
+212,taco cabana,key lime pie,24,g,20,mg,340,g,78,g,7,g,11,g,0,g,0,g,61,g
+213,taco cabana,kids black beans,0,g,0,mg,210,g,11,g,4,g,0,g,0,g,4,g,1,g
+214,taco cabana,kids borracho beans,2,g,5,mg,260,g,10,g,4,g,0,g,0,g,3,g,0,g
+215,taco cabana,kids cheese quesadilla,24,g,55,mg,900,g,38,g,19,g,14,g,0,g,1,g,1,g
+216,taco cabana,kids refried beans,7,g,10,mg,220,g,12,g,5,g,3,g,0,g,3,g,0,g
+217,taco cabana,kids rice,2,g,0,mg,270,g,15,g,1,g,0,g,0,g,1,g,1,g
+218,taco cabana,kidss chips and queso side,28,g,25,mg,860,g,50,g,9,g,8,g,0,g,5,g,2,g
+219,taco cabana,lowfat 1 milk,2,g,10,mg,105,g,10,g,7,g,2,g,0,g,0,g,10,g
+220,taco cabana,mexican coca cola,0,g,0,mg,85,g,39,g,0,g,0,g,0,g,0,g,39,g
+221,taco cabana,mexican orange fanta,0,g,0,mg,90,g,42,g,0,g,0,g,0,g,0,g,42,g
+222,taco cabana,miller lite beer,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,0,g,0,g
+223,taco cabana,minute maid lemonade kids,0,g,0,mg,75,g,45,g,0,g,0,g,0,g,0,g,45,g
+224,taco cabana,minute maid lemonade large,0,g,0,mg,200,g,125,g,0,g,0,g,0,g,0,g,125,g
+225,taco cabana,minute maid lemonade medium,0,g,0,mg,150,g,91,g,0,g,0,g,0,g,0,g,91,g
+226,taco cabana,minute maid lemonade small,0,g,0,mg,90,g,57,g,0,g,0,g,0,g,0,g,57,g
+227,taco cabana,minute maid light lemonade kids,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+228,taco cabana,minute maid light lemonade large,0,g,0,mg,10,g,2,g,0,g,0,g,0,g,0,g,0,g
+229,taco cabana,minute maid light lemonade medium,0,g,0,mg,10,g,2,g,0,g,0,g,0,g,0,g,0,g
+230,taco cabana,minute maid light lemonade small,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,0,g
+231,taco cabana,mixed fajita family meal 12 oz,116,g,340,mg,10330,g,387,g,145,g,50,g,2,g,24,g,32,g
+232,taco cabana,mixed fajita family meal 16 oz,116,g,340,mg,10330,g,387,g,145,g,50,g,2,g,24,g,32,g
+233,taco cabana,mixed fajita family meal 6 oz,62,g,180,mg,5520,g,204,g,75,g,27,g,1,g,15,g,16,g
+234,taco cabana,nachos brisket and queso,56,g,95,mg,1800,g,65,g,25,g,19,g,0,g,10,g,4,g
+235,taco cabana,nachos brisket shredded cheese,75,g,150,mg,1420,g,61,g,40,g,32,g,0,g,10,g,3,g
+236,taco cabana,nachos flame grilled chicken fajita and queso,46,g,95,mg,1880,g,68,g,32,g,15,g,0,g,10,g,4,g
+237,taco cabana,nachos flame grilled chicken fajita and shredded cheese,65,g,150,mg,1490,g,63,g,48,g,27,g,0,g,10,g,3,g
+238,taco cabana,nachos ground beef and queso,50,g,90,mg,1900,g,69,g,30,g,17,g,1,g,10,g,5,g
+239,taco cabana,nachos ground beef nachos shredded cheese,69,g,145,mg,1520,g,65,g,46,g,29,g,1,g,10,g,4,g
+240,taco cabana,nachos kickin beef,87,g,135,mg,3110,g,127,g,42,g,28,g,1,g,18,g,11,g
+241,taco cabana,nachos shredded chicken and queso,51,g,140,mg,2710,g,71,g,36,g,15,g,0,g,10,g,5,g
+242,taco cabana,nachos shredded chicken shredded cheese,70,g,200,mg,2330,g,67,g,52,g,28,g,0,g,10,g,4,g
+243,taco cabana,nachos steak and queso,50,g,95,mg,1810,g,68,g,29,g,17,g,0,g,10,g,4,g
+244,taco cabana,nachos steak and shredded cheese,69,g,150,mg,1430,g,63,g,45,g,29,g,0,g,10,g,3,g
+245,taco cabana,ny cheesecake slice,29,g,115,mg,380,g,44,g,5,g,16,g,0,g,0,g,27,g
+246,taco cabana,plates rice lettuce guacamole flour tortillas,12,g,0,mg,1240,g,70,g,9,g,4,g,0,g,4,g,2,g
+247,taco cabana,powerade mountain blast kids,0,g,0,mg,95,g,27,g,0,g,0,g,0,g,0,g,27,g
+248,taco cabana,powerade mountain blast large,0,g,0,mg,260,g,75,g,0,g,0,g,0,g,0,g,75,g
+249,taco cabana,powerade mountain blast medium,0,g,0,mg,190,g,54,g,0,g,0,g,0,g,0,g,54,g
+250,taco cabana,powerade mountain blast small,0,g,0,mg,120,g,34,g,0,g,0,g,0,g,0,g,34,g
+251,taco cabana,ranch dressing,38,g,25,mg,750,g,5,g,1,g,6,g,1,g,0,g,3,g
+252,taco cabana,refried beans with cheese garnish 12 18 oz family meal portion,57,g,60,mg,1740,g,98,g,36,g,23,g,0,g,24,g,3,g
+253,taco cabana,refried beans with cheese garnish 6 oz family meal portion,29,g,30,mg,870,g,49,g,18,g,11,g,0,g,12,g,2,g
+254,taco cabana,refried beans with cheese garnish regular,29,g,30,mg,870,g,49,g,18,g,11,g,0,g,12,g,2,g
+255,taco cabana,refried beans with cheese garnish small,14,g,15,mg,440,g,25,g,9,g,6,g,0,g,6,g,1,g
+256,taco cabana,rice regular,6,g,0,mg,1100,g,58,g,5,g,1,g,0,g,2,g,2,g
+257,taco cabana,rice small,3,g,0,mg,550,g,29,g,3,g,1,g,0,g,1,g,1,g
+258,taco cabana,salads brisket,45,g,95,mg,1280,g,33,g,25,g,19,g,0,g,4,g,3,g
+259,taco cabana,salads flame grilled chicken fajita,31,g,105,mg,1490,g,36,g,36,g,13,g,0,g,4,g,4,g
+260,taco cabana,salads ground beef,34,g,85,mg,1310,g,37,g,29,g,15,g,1,g,4,g,4,g
+261,taco cabana,salads shredded chicken,35,g,135,mg,1550,g,39,g,34,g,14,g,0,g,4,g,5,g
+262,taco cabana,salads steak,36,g,100,mg,1410,g,36,g,32,g,15,g,1,g,4,g,3,g
+263,taco cabana,salsa ranch dressing,11,g,5,mg,660,g,4,g,1,g,2,g,0,g,1,g,3,g
+264,taco cabana,sangria red and white,0,g,0,mg,0,g,14,g,0,g,0,g,0,g,1,g,12,g
+265,taco cabana,shiner bock beer,0,g,0,mg,0,g,11,g,0,g,0,g,0,g,0,g,0,g
+266,taco cabana,simply orange,0,g,0,mg,0,g,43,g,2,g,0,g,0,g,0,g,39,g
+267,taco cabana,soft tacos bean and cheese,14,g,20,mg,580,g,31,g,10,g,7,g,0,g,4,g,1,g
+268,taco cabana,soft tacos black bean,5,g,0,mg,640,g,38,g,7,g,2,g,0,g,5,g,2,g
+269,taco cabana,soft tacos brisket,13,g,30,mg,890,g,31,g,10,g,5,g,0,g,1,g,11,g
+270,taco cabana,soft tacos brisket with fried onion and jalapeno,16,g,30,mg,1000,g,33,g,10,g,6,g,0,g,2,g,7,g
+271,taco cabana,soft tacos brisket with peppers and onions,13,g,30,mg,800,g,22,g,10,g,5,g,0,g,1,g,2,g
+272,taco cabana,soft tacos brisket with queso and jalapeno,15,g,40,mg,1000,g,21,g,12,g,7,g,0,g,1,g,1,g
+273,taco cabana,soft tacos carne guisada,8,g,30,mg,660,g,20,g,13,g,3,g,0,g,1,g,0,g
+274,taco cabana,soft tacos flame grilled chicken fajita,6,g,40,mg,850,g,21,g,18,g,2,g,0,g,1,g,0,g
+275,taco cabana,soft tacos flame grilled chicken fajita with bacon jalapeno and cheese,14,g,55,mg,1050,g,21,g,20,g,6,g,0,g,1,g,1,g
+276,taco cabana,soft tacos flame grilled chicken fajita with peppers and onions,5,g,30,mg,810,g,23,g,14,g,2,g,0,g,1,g,2,g
+277,taco cabana,soft tacos flame grilled chicken fajita with poblano ranchero and cheese,11,g,45,mg,880,g,22,g,17,g,5,g,0,g,1,g,1,g
+278,taco cabana,soft tacos ground beef,9,g,25,mg,660,g,21,g,12,g,4,g,0,g,1,g,1,g
+279,taco cabana,soft tacos shredded chicken,9,g,50,mg,780,g,23,g,15,g,4,g,0,g,1,g,1,g
+280,taco cabana,soft tacos steak,9,g,35,mg,790,g,21,g,15,g,4,g,0,g,1,g,0,g
+281,taco cabana,soft tacos steak with bacon lettuce and pico,17,g,40,mg,1070,g,23,g,15,g,5,g,0,g,1,g,2,g
+282,taco cabana,soft tacos steak with peppers and onions,7,g,30,mg,760,g,23,g,12,g,3,g,0,g,1,g,2,g
+283,taco cabana,soft tacos steak with poblano ranchero and cheese,14,g,40,mg,840,g,22,g,16,g,6,g,0,g,1,g,1,g
+284,taco cabana,sopapillas large,20,g,0,mg,720,g,65,g,11,g,14,g,0,g,3,g,8,g
+285,taco cabana,sopapillas small,8,g,0,mg,300,g,39,g,5,g,6,g,0,g,1,g,14,g
+286,taco cabana,sprite kids,0,g,0,mg,40,g,45,g,0,g,0,g,0,g,0,g,45,g
+287,taco cabana,sprite large,0,g,0,mg,100,g,125,g,0,g,0,g,0,g,0,g,152,g
+288,taco cabana,sprite medium,0,g,0,mg,80,g,91,g,0,g,0,g,0,g,0,g,91,g
+289,taco cabana,sprite small,0,g,0,mg,50,g,57,g,0,g,0,g,0,g,0,g,57,g
+290,taco cabana,steak family meal 12 oz,126,g,335,mg,10160,g,387,g,138,g,55,g,3,g,24,g,22,g
+291,taco cabana,steak family meal 16 oz,137,g,410,mg,11180,g,391,g,162,g,59,g,3,g,24,g,22,g
+292,taco cabana,steak family meal 6 oz,67,g,175,mg,5440,g,204,g,71,g,29,g,1,g,15,g,16,g
+293,taco cabana,steak quesadilla large,107,g,230,mg,3110,g,84,g,68,g,46,g,1,g,7,g,7,g
+294,taco cabana,steak quesadilla small,55,g,115,mg,1700,g,52,g,35,g,24,g,0,g,4,g,3,g
+295,taco cabana,steak street tacos 3,25,g,55,mg,930,g,40,g,22,g,6,g,1,g,4,g,1,g
+296,taco cabana,sweet tea kids,0,g,0,mg,0,g,50,g,0,g,0,g,0,g,0,g,48,g
+297,taco cabana,sweet tea large,0,g,0,mg,0,g,138,g,0,g,0,g,0,g,0,g,133,g
+298,taco cabana,sweet tea medium,0,g,0,mg,0,g,101,g,0,g,0,g,0,g,0,g,97,g
+299,taco cabana,sweet tea small,0,g,0,mg,0,g,63,g,0,g,0,g,0,g,0,g,61,g
+300,taco cabana,tequila margaritas no salt cup,0,g,0,mg,20,g,36,g,3,g,0,g,0,g,0,g,35,g
+301,taco cabana,unsweet tea kids,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+302,taco cabana,unsweet tea large,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,0,g
+303,taco cabana,unsweet tea medium,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+304,taco cabana,unsweet tea small,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+305,taco cabana,vitaminwater xxx,0,g,0,mg,0,g,28,g,0,g,0,g,0,g,0,g,27,g
+306,taco del mar,black coffee,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+307,taco del mar,light lemonade,0,g,0,mg,34,g,1.2,g,0,g,0,g,0,g,0,g,0.7,g
+308,taco del mar,chorizo breakfast taco,21,g,220,mg,1010,g,20,g,18,g,8,g,0,g,2,g,1,g
+309,taco del mar,meatless breakfast bowl,12,g,290,mg,770,g,18,g,15,g,4.5,g,0,g,4,g,1,g
+310,taco del mar,breakfast potatoes side,2,g,0,mg,340,g,16,g,2,g,1,g,0,g,2,g,0,g
+311,taco del mar,chorizo breakfast quesadilla,26,g,305,mg,1390,g,41,g,24,g,10,g,0,g,2,g,1,g
+312,taco del mar,meatless breakfast taco flour tortilla,11,g,205,mg,580,g,18,g,12,g,4.5,g,0,g,1,g,1,g
+313,taco del mar,meatless breakfast burrito,17,g,290,mg,1280,g,54,g,21,g,7,g,0,g,5,g,1,g
+314,taco del mar,chorizo breakfast burrito,27,g,305,mg,1710,g,56,g,27,g,10,g,0,g,6,g,1,g
+315,taco del mar,jalapeno bacon breakfast burrito,23,g,300,mg,1780,g,54,g,27,g,9,g,0,g,5,g,1,g
+316,taco del mar,jalapeno bacon breakfast quesadilla,22,g,300,mg,1460,g,39,g,24,g,8,g,0,g,1,g,1,g
+317,taco del mar,jalapeno bacon breakfast bowl,18,g,300,mg,1270,g,18,g,21,g,7,g,0,g,4,g,1,g
+318,taco del mar,chorizo breakfast bowl,22,g,305,mg,1200,g,20,g,21,g,8,g,0,g,5,g,1,g
+319,taco del mar,jalapeno bacon breakfast taco flour tortilla,17,g,215,mg,1080,g,18,g,18,g,7,g,0,g,1,g,1,g
+320,taco del mar,meatless breakfast quesadilla,16,g,290,mg,960,g,39,g,18,g,6,g,0,g,1,g,1,g
+321,taco del mar,chicken burrito regular,31,g,105,mg,1990,g,115,g,42,g,13,g,0,g,10,g,4,g
+322,taco del mar,fish burrito small,27,g,50,mg,1280,g,64,g,20,g,9,g,0,g,8,g,2,g
+323,taco del mar,vegan burrito small,9,g,0,mg,950,g,68,g,12,g,2.5,g,0,g,6,g,2,g
+324,taco del mar,veggie burrito regular,29,g,45,mg,1830,g,119,g,26,g,12,g,0,g,12,g,5,g
+325,taco del mar,ground beef burrito small,20,g,45,mg,1270,g,68,g,21,g,9,g,0,g,5,g,2,g
+326,taco del mar,fish burrito regular,50,g,100,mg,2120,g,100,g,34,g,16,g,0,g,14,g,5,g
+327,taco del mar,pork burrito regular,31,g,95,mg,2300,g,115,g,39,g,14,g,0,g,9,g,3,g
+328,taco del mar,veggie burrito small,16,g,25,mg,1060,g,69,g,15,g,7,g,0,g,6,g,2,g
+329,taco del mar,ground beef burrito regular,37,g,85,mg,2270,g,116,g,38,g,17,g,0,g,10,g,4,g
+330,taco del mar,chicken burrito small,17,g,50,mg,1140,g,68,g,23,g,7,g,0,g,5,g,2,g
+331,taco del mar,steak burrito regular,27,g,80,mg,2300,g,117,g,37,g,13,g,0,g,9,g,3,g
+332,taco del mar,vegan burrito regular,15,g,0,mg,1630,g,115,g,19,g,4.5,g,0,g,12,g,4,g
+333,taco del mar,steako burrito small,15,g,40,mg,1290,g,69,g,20,g,7,g,0,g,5,g,2,g
+334,taco del mar,shredded beef burrito regular,31,g,90,mg,2130,g,116,g,40,g,14,g,0,g,10,g,4,g
+335,taco del mar,pork burrito small,17,g,50,mg,1290,g,67,g,22,g,7,g,0,g,5,g,2,g
+336,taco del mar,shredded beef burrito small,17,g,45,mg,1200,g,68,g,22,g,7,g,0,g,5,g,2,g
+337,taco del mar,chocolate chunk brownie,18,g,60,mg,100,g,38,g,4,g,9,g,0,g,3,g,26,g
+338,taco del mar,white chocolate macadamia cookie,9,g,10,mg,120,g,22,g,2,g,4,g,0,g,0,g,14,g
+339,taco del mar,chocolate chip cookie,7,g,10,mg,120,g,24,g,2,g,4,g,0,g,1,g,15,g
+340,taco del mar,oatmeal raisin cookie,7,g,10,mg,130,g,23,g,2,g,4,g,0,g,1,g,13,g
+341,taco del mar,churros 2,10,g,0,mg,180,g,40,g,4,g,1,g,0,g,1,g,13,g
+342,taco del mar,double chocolate chip cookie,8,g,10,mg,135,g,23,g,2,g,4.5,g,0,g,1,g,15,g
+343,taco del mar,kids rice and black beans side or entree,2,g,0,mg,420,g,37,g,6,g,0,g,0,g,4,g,0,g
+344,taco del mar,kids cheese quesadilla,11.7,g,24,mg,646,g,36.2,g,11.7,g,5.9,g,0,g,1,g,0,g
+345,taco del mar,kids chicken taco flour tortilla,8,g,40,mg,430,g,16,g,15,g,4,g,0,g,1,g,0,g
+346,taco del mar,kids rice and pinto beans side or entree,1.5,g,0,mg,360,g,36,g,7,g,0,g,0,g,5,g,0,g
+347,taco del mar,kids steak taco flour tortilla,7,g,25,mg,580,g,17,g,12,g,3.5,g,0,g,1,g,0,g
+348,taco del mar,kids fish taco flour tortilla,10,g,30,mg,460,g,21,g,11,g,3.5,g,0,g,1,g,0,g
+349,taco del mar,kids shredded beef taco flour tortilla,8,g,35,mg,490,g,16,g,14,g,4,g,0,g,1,g,0,g
+350,taco del mar,kids pork taco flour tortilla,8,g,35,mg,580,g,16,g,13,g,4,g,0,g,1,g,0,g
+351,taco del mar,kids refried bean and cheese burrito,14,g,25,mg,1180,g,61,g,20,g,7,g,0,g,9,g,0,g
+352,taco del mar,kids ground beef taco flour tortilla,12,g,30,mg,560,g,16,g,12,g,6,g,0,g,1,g,0,g
+353,taco del mar,kids rice and refried beans side or entree,2.5,g,0,mg,490,g,36,g,8,g,0.5,g,0,g,6,g,0,g
+354,taco del mar,kids chips,16,g,0,mg,210,g,31,g,3,g,1.5,g,0,g,3,g,0,g
+355,taco del mar,12 spinach tortilla,7,g,0,mg,740,g,51,g,9,g,3,g,0,g,2,g,0,g
+356,taco del mar,6 corn tortillas 2,1,g,0,mg,0,g,12,g,1,g,0,g,0,g,1,g,0,g
+357,taco del mar,add on shredded beef,6,g,45,mg,400,g,2,g,15,g,2,g,0,g,0,g,1,g
+358,taco del mar,add on serrano peppers,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+359,taco del mar,add on jalapeno peppers,0,g,0,mg,170,g,0,g,0,g,0,g,0,g,0,g,0,g
+360,taco del mar,add on lettuce,0,g,0,mg,5,g,2,g,1,g,0,g,0,g,1,g,1,g
+361,taco del mar,6 flour tortilla,2,g,0,mg,220,g,15,g,3,g,1,g,0,g,1,g,0,g
+362,taco del mar,add on guacamole,4,g,0,mg,105,g,3,g,1,g,0.5,g,0,g,2,g,0,g
+363,taco del mar,add on cheese,7,g,25,mg,150,g,1,g,6,g,4,g,0,g,0,g,0,g
+364,taco del mar,12 whole wheat tortilla,7,g,0,mg,750,g,50,g,9,g,3,g,0,g,6,g,0,g
+365,taco del mar,add on tomatillo salsa mild,0,g,0,mg,180,g,2,g,0,g,0,g,0,g,0,g,1,g
+366,taco del mar,add on refried beans,1,g,0,mg,350,g,16,g,6,g,0,g,0,g,6,g,0,g
+367,taco del mar,12 tomato basil tortilla,7,g,0,mg,720,g,52,g,8,g,3,g,0,g,2,g,0,g
+368,taco del mar,add on egg,7,g,300,mg,280,g,0,g,9,g,2,g,0,g,0,g,0,g
+369,taco del mar,add on pico de gallo,0,g,0,mg,140,g,2,g,1,g,0,g,0,g,1,g,2,g
+370,taco del mar,add on roasted chipotle salsa,0,g,0,mg,105,g,2,g,0,g,0,g,0,g,0,g,1,g
+371,taco del mar,add on sour cream,7,g,25,mg,55,g,2,g,1,g,4,g,0,g,0,g,2,g
+372,taco del mar,add on cabbage,0,g,0,mg,10,g,3,g,1,g,0,g,0,g,1,g,1,g
+373,taco del mar,add on black bean and corn salsa,0.5,g,0,mg,230,g,12,g,3,g,0,g,0,g,3,g,1,g
+374,taco del mar,add on chopped tomatoes,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+375,taco del mar,10 flour tortilla,5,g,0,mg,510,g,35,g,6,g,2,g,0,g,1,g,0,g
+376,taco del mar,add on black beans,0.5,g,0,mg,270,g,17,g,4,g,0,g,0,g,3,g,1,g
+377,taco del mar,add on white queso,11,g,30,mg,680,g,4,g,6,g,7,g,0,g,0,g,2,g
+378,taco del mar,add on chorizo,10,g,15,mg,430,g,2,g,6,g,3.5,g,0,g,1,g,0,g
+379,taco del mar,add on fish,8,g,35,mg,340,g,12,g,9,g,0.5,g,0,g,1,g,0,g
+380,taco del mar,7 hard corn taco shell,4.5,g,0,mg,0,g,14,g,2,g,1,g,0,g,2,g,1,g
+381,taco del mar,add on seasoned rice,3,g,0,mg,290,g,40,g,4,g,0,g,0,g,1,g,0,g
+382,taco del mar,add on black olives,1,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+383,taco del mar,white sauce,16,g,20,mg,140,g,1,g,0,g,2.5,g,0,g,0,g,1,g
+384,taco del mar,add on salsa chipotle medium,0,g,0,mg,120,g,2,g,0,g,0,g,0,g,0,g,1,g
+385,taco del mar,add on cilantro,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+386,taco del mar,queso yellow sauce,6,g,5,mg,520,g,4,g,4,g,2.5,g,0,g,1,g,1,g
+387,taco del mar,10 whole wheat tortilla,5,g,0,mg,510,g,34,g,6,g,2,g,0,g,4,g,0,g
+388,taco del mar,12 flour tortilla,7,g,0,mg,740,g,52,g,8,g,3,g,0,g,2,g,0,g
+389,taco del mar,add on steak,2.5,g,30,mg,580,g,3,g,12,g,1,g,0,g,0,g,0,g
+390,taco del mar,add on jalapeno bacon,3,g,5,mg,250,g,0,g,3,g,1,g,0,g,0,g,0,g
+391,taco del mar,add on mango salsa,0,g,0,mg,190,g,5,g,1,g,0,g,0,g,1,g,4,g
+392,taco del mar,add on salsa habanero hot,0,g,0,mg,90,g,2,g,0,g,0,g,0,g,0,g,1,g
+393,taco del mar,add on ground beef,12,g,40,mg,540,g,2,g,13,g,6,g,0,g,1,g,1,g
+394,taco del mar,add on chopped onion,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+395,taco del mar,add on whole pinto beans,0,g,0,mg,210,g,16,g,5,g,0,g,0,g,5,g,0,g
+396,taco del mar,add on reaper salsa,0,g,0,mg,140,g,2,g,0,g,0,g,0,g,0,g,2,g
+397,taco del mar,add on lime wedge,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+398,taco del mar,add on salsa verde mild,0,g,0,mg,25,g,1,g,0,g,0,g,0,g,1,g,0,g
+399,taco del mar,fish quesadilla platter,42,g,105,mg,2540,g,136,g,48,g,17,g,0,g,13,g,3,g
+400,taco del mar,pork quesadilla platter,39,g,120,mg,2780,g,124,g,53,g,18,g,0,g,13,g,3,g
+401,taco del mar,pork byo platter,32,g,95,mg,2170,g,109,g,39,g,13,g,0,g,13,g,6,g
+402,taco del mar,chicken byo platter,33,g,105,mg,1900,g,109,g,40,g,13,g,0,g,13,g,6,g
+403,taco del mar,steak quesadilla platter,36,g,105,mg,2780,g,127,g,50,g,17,g,0,g,13,g,3,g
+404,taco del mar,chicken enchiladas platter 2,31,g,105,mg,1990,g,105,g,41,g,11,g,0,g,15,g,5,g
+405,taco del mar,pork burrito bowl,24,g,95,mg,1560,g,63,g,31,g,11,g,0,g,7,g,3,g
+406,taco del mar,cheese enchiladas platter 2,29.8,g,65,mg,1741,g,97.7,g,27,g,13,g,0,g,14,g,3.7,g
+407,taco del mar,vegan burrito bowl,8,g,0,mg,890,g,63,g,11,g,1.5,g,0,g,10,g,4,g
+408,taco del mar,cheese taco cheese enchilada platter,33,g,70,mg,1980,g,107,g,31,g,15,g,0,g,15,g,5,g
+409,taco del mar,chicken burrito bowl,24,g,105,mg,1250,g,63,g,34,g,10,g,0,g,8,g,4,g
+410,taco del mar,pork enchiladas platter 2,30,g,95,mg,2300,g,104,g,38,g,11,g,0,g,15,g,5,g
+411,taco del mar,shredded beef taco shredded beef enchilada platter,31,g,90,mg,2240,g,107,g,40,g,12,g,0,g,15,g,5,g
+412,taco del mar,ground beef taco ground beef enchilada platter,38,g,85,mg,2380,g,108,g,38,g,16,g,0,g,15,g,6,g
+413,taco del mar,pork nachos,71,g,145,mg,2080,g,89,g,46,g,22,g,0,g,15,g,4,g
+414,taco del mar,fish taco fish enchilada platter,48,g,95,mg,2310,g,120,g,35,g,14,g,0,g,16,g,6,g
+415,taco del mar,ground beef nachos,78,g,135,mg,2050,g,90,g,45,g,26,g,0,g,15,g,4,g
+416,taco del mar,shredded beef burrito bowl,24,g,90,mg,1390,g,64,g,32,g,11,g,0,g,8,g,4,g
+417,taco del mar,shredded beef nachos,71,g,140,mg,1910,g,90,g,47,g,22,g,0,g,15,g,4,g
+418,taco del mar,veggie burrito bowl,22,g,45,mg,1090,g,67,g,18,g,9,g,0,g,10,g,5,g
+419,taco del mar,shredded beef enchiladas platter 2,30,g,90,mg,2130,g,106,g,38,g,11,g,0,g,15,g,5,g
+420,taco del mar,ground beef burrito bowl,30,g,85,mg,1530,g,64,g,30,g,14,g,0,g,8,g,4,g
+421,taco del mar,fish nachos,74,g,130,mg,1850,g,100,g,41,g,21,g,0,g,15,g,3,g
+422,taco del mar,chicken nachos,72,g,150,mg,1770,g,89,g,49,g,22,g,0,g,15,g,4,g
+423,taco del mar,chicken enchilada chicken taco plater,31,g,105,mg,2110,g,107,g,43,g,12,g,0,g,15,g,5,g
+424,taco del mar,cheese nachos,66,g,95,mg,1510,g,88,g,31,g,20,g,0,g,15,g,3,g
+425,taco del mar,shredded beef quesadilla platter,39,g,120,mg,2610,g,125,g,54,g,18,g,0,g,13,g,4,g
+426,taco del mar,steak enchiladas platter 2,27,g,80,mg,2300,g,107,g,35,g,10,g,0,g,15,g,4,g
+427,taco del mar,fish burrito bowl,430.8,g,1002,mg,13827,g,480.9,g,260.5,g,130.3,g,0,g,120.2,g,50.1,g
+428,taco del mar,steak burrito bowl,20,g,80,mg,1560,g,65,g,29,g,10,g,0,g,7,g,3,g
+429,taco del mar,ground beef enchiladas platter 2,37,g,85,mg,2270,g,106,g,36,g,15,g,0,g,15,g,5,g
+430,taco del mar,pork taco pork enchilada platter,31,g,95,mg,2410,g,106,g,40,g,12,g,0,g,15,g,5,g
+431,taco del mar,steak taco steak enchilada platter,28,g,80,mg,2420,g,109,g,37,g,11,g,0,g,15,g,5,g
+432,taco del mar,steak nachos,68,g,125,mg,2080,g,91,g,44,g,21,g,0,g,15,g,3,g
+433,taco del mar,fish enchiladas platter 2,33,g,80,mg,2070,g,116,g,32,g,10,g,0,g,15,g,4,g
+434,taco del mar,shredded beef quesadilla,34,g,120,mg,1720,g,59,g,41,g,17,g,0,g,3,g,2,g
+435,taco del mar,ground beef quesadilla,41,g,110,mg,1860,g,59,g,39,g,21,g,0,g,3,g,2,g
+436,taco del mar,steak quesadilla,31,g,105,mg,1890,g,60,g,38,g,16,g,0,g,3,g,2,g
+437,taco del mar,cheese quesadilla,29,g,75,mg,1320,g,57,g,26,g,15,g,0,g,3,g,2,g
+438,taco del mar,chicken quesadilla platter,39,g,130,mg,2470,g,125,g,56,g,18,g,0,g,13,g,4,g
+439,taco del mar,cheese quesadilla platter,33,g,75,mg,2200,g,123,g,38,g,16,g,0,g,13,g,3,g
+440,taco del mar,pork quesadilla,34,g,120,mg,1890,g,58,g,40,g,17,g,0,g,3,g,2,g
+441,taco del mar,chicken quesadilla,35,g,130,mg,1580,g,58,g,43,g,17,g,0,g,3,g,2,g
+442,taco del mar,fish quesadilla,37,g,105,mg,1660,g,69,g,35,g,16,g,0,g,3,g,2,g
+443,taco del mar,ground beef quesadilla platter,45,g,110,mg,2750,g,125,g,51,g,22,g,0,g,13,g,4,g
+444,taco del mar,veggie taco salad,39,g,45,mg,1310,g,101,g,23,g,13,g,0,g,13,g,9,g
+445,taco del mar,fish taco flour tortilla,22,g,50,mg,640,g,27,g,12,g,7,g,0,g,3,g,2,g
+446,taco del mar,pork taco salad,38,g,95,mg,1490,g,58,g,34,g,14,g,0,g,10,g,8,g
+447,taco del mar,steak taco salad,35,g,80,mg,1490,g,61,g,31,g,13,g,0,g,10,g,8,g
+448,taco del mar,ground beef taco salad,45,g,85,mg,1450,g,60,g,32,g,18,g,0,g,11,g,9,g
+449,taco del mar,shredded beef taco salad,38,g,90,mg,1320,g,59,g,34,g,14,g,0,g,10,g,9,g
+450,taco del mar,vegan taco salad,25,g,0,mg,110,g,97,g,17,g,5,g,0,g,13,g,8,g
+451,taco del mar,chicken taco salad,38,g,105,mg,1180,g,59,g,37,g,14,g,0,g,10,g,8,g
+452,taco del mar,fish taco salad,41,g,80,mg,1250,g,70,g,28,g,13,g,0,g,11,g,8,g
+453,taco del mar,queso white sauce,11,g,30,mg,750,g,6,g,6,g,7,g,0,g,1,g,3,g
+454,taco del mar,enchilada sauce ladle,0,g,0,mg,360,g,5,g,1,g,0,g,0,g,1,g,1,g
+455,taco del mar,add on habanero salsa,0,g,0,mg,150,g,1,g,0,g,0,g,0,g,0,g,1,g
+456,taco del mar,enchilada sauce,2.7,g,7,mg,591,g,8.2,g,2.7,g,1.4,g,0,g,1.4,g,2.1,g
+457,taco del mar,rice refried beans and pico de gallo,4.5,g,0,mg,880,g,66,g,12,g,1,g,0,g,10,g,1,g
+458,taco del mar,rice pinto beans and p ico de gallo,3,g,0,mg,680,g,65,g,12,g,0,g,0,g,8,g,1,g
+459,taco del mar,add on queso,9,g,5,mg,680,g,3,g,5,g,4,g,0,g,0,g,0,g
+460,taco del mar,chips side order,24,g,0,mg,320,g,46,g,5,g,2.5,g,0,g,5,g,0,g
+461,taco del mar,rice,4.5,g,0,mg,510,g,62,g,6,g,0.5,g,0,g,2,g,2,g
+462,taco del mar,rice black beans and pico de gallo,4,g,0,mg,780,g,67,g,11,g,0,g,0,g,6,g,3,g
+463,taco del mar,chips and salsa,24,g,0,mg,520,g,50,g,6,g,2.5,g,0,g,6,g,2,g
+464,taco del mar,add on chicken,6,g,55,mg,270,g,1,g,18,g,1.5,g,0,g,0,g,0,g
+465,taco del mar,chips and guacamole,37,g,0,mg,650,g,55,g,7,g,4,g,0,g,11,g,1,g
+466,taco del mar,add on pork,6,g,50,mg,570,g,1,g,15,g,2,g,0,g,0,g,0,g
+467,taco del mar,chips and white queso,47,g,55,mg,1680,g,54,g,16,g,16,g,0,g,5,g,4,g
+468,taco del mar,chips and yellow queso,36,g,5,mg,1210,g,50,g,11,g,7,g,0,g,5,g,0,g
+469,taco del mar,10 inch flour tortilla 1 each,5,g,0,mg,510,g,36,g,6,g,2,g,0,g,1,g,0,g
+470,taco del mar,10 inch whole wheat tortilla 1 each,5,g,0,mg,510,g,34,g,6,g,2,g,0,g,4,g,0,g
+471,taco del mar,12 inch flour tortilla 1 each,7,g,0,mg,740,g,52,g,8,g,3,g,0,g,2,g,0,g
+472,taco del mar,12 inch spinach tortilla 1 each,7,g,0,mg,740,g,51,g,9,g,3,g,0,g,2,g,0,g
+473,taco del mar,12 inch tomato basil tortilla 1 each,7,g,0,mg,720,g,52,g,8,g,3,g,0,g,2,g,0,g
+474,taco del mar,12 inch whole wheat tortilla 1 each,7,g,0,mg,750,g,50,g,9,g,3,g,0,g,6,g,0,g
+475,taco del mar,2 cheese enchiladas,32,g,70,mg,1870,g,105,g,29,g,14,g,0,g,15,g,4,g
+476,taco del mar,2 chicken enchiladas,31,g,105,mg,1990,g,105,g,41,g,11,g,0,g,15,g,5,g
+477,taco del mar,2 fish enchiladas,33,g,80,mg,2070,g,116,g,32,g,10,g,0,g,15,g,4,g
+478,taco del mar,2 ground beef enchiladas,37,g,85,mg,2270,g,106,g,36,g,15,g,0,g,15,g,5,g
+479,taco del mar,2 pork enchiladas,30,g,95,mg,2300,g,104,g,38,g,11,g,0,g,15,g,5,g
+480,taco del mar,2 shredded beef enchiladas,30,g,90,mg,2130,g,106,g,38,g,11,g,0,g,15,g,5,g
+481,taco del mar,2 steak enchiladas,27,g,80,mg,2300,g,107,g,35,g,10,g,0,g,15,g,4,g
+482,taco del mar,6 inch flour tortilla 1 each,2,g,0,mg,220,g,15,g,3,g,1,g,0,g,1,g,0,g
+483,taco del mar,7 inch hard corn taco shell 1 each,4.5,g,0,mg,0,g,14,g,2,g,1,g,0,g,2,g,1,g
+484,taco del mar,barqs caffeine free root beer 12 fl oz,0,g,0,mg,70,g,45,g,0,g,0,g,0,g,0,g,45,g
+485,taco del mar,barqs caffeine free root beer 21 fl oz,0,g,0,mg,125,g,78,g,0,g,0,g,0,g,0,g,78,g
+486,taco del mar,barqs caffeine free root beer 30 fl oz,0,g,0,mg,180,g,112,g,0,g,0,g,0,g,0,g,112,g
+487,taco del mar,barqs root beer 12 fl oz,0,g,0,mg,70,g,45,g,0,g,0,g,0,g,0,g,45,g
+488,taco del mar,barqs root beer 21 fl oz,0,g,0,mg,125,g,78,g,0,g,0,g,0,g,0,g,78,g
+489,taco del mar,barqs root beer 30 fl oz,0,g,0,mg,180,g,112,g,0,g,0,g,0,g,0,g,112,g
+490,taco del mar,beans black,0.5,g,0,mg,270,g,17,g,4,g,0,g,0,g,3,g,1,g
+491,taco del mar,beans refried,1,g,0,mg,350,g,16,g,6,g,0,g,0,g,6,g,0,g
+492,taco del mar,beans whole pinto,0,g,0,mg,210,g,16,g,5,g,0,g,0,g,5,g,0,g
+493,taco del mar,black bean and corn salsa,0.5,g,0,mg,230,g,12,g,3,g,0,g,0,g,3,g,1,g
+494,taco del mar,black olives,1,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+495,taco del mar,breakfast bowl chorizo,22,g,305,mg,1200,g,20,g,21,g,8,g,0,g,5,g,1,g
+496,taco del mar,breakfast bowl jalapeno bacon,18,g,300,mg,1270,g,18,g,21,g,7,g,0,g,4,g,1,g
+497,taco del mar,breakfast bowl no meat,12,g,290,mg,770,g,18,g,15,g,4.5,g,0,g,4,g,1,g
+498,taco del mar,breakfast burrito chorizo,27,g,305,mg,1710,g,56,g,27,g,10,g,0,g,6,g,1,g
+499,taco del mar,breakfast burrito jalapeno bacon,23,g,300,mg,1780,g,54,g,27,g,9,g,0,g,5,g,1,g
+500,taco del mar,breakfast burrito no meat,17,g,290,mg,1280,g,54,g,21,g,7,g,0,g,5,g,1,g
+501,taco del mar,breakfast potatoes side order,2.5,g,0,mg,340,g,16,g,2,g,1,g,0,g,2,g,0,g
+502,taco del mar,breakfast quesadilla chorizo,26,g,305,mg,1390,g,41,g,24,g,10,g,0,g,2,g,1,g
+503,taco del mar,breakfast quesadilla jalapeno bacon,22,g,300,mg,1460,g,39,g,24,g,8,g,0,g,1,g,1,g
+504,taco del mar,breakfast quesadilla no meat,16,g,290,mg,960,g,39,g,18,g,6,g,0,g,1,g,1,g
+505,taco del mar,breakfast taco with flour tortilla chorizo,21,g,220,mg,1010,g,20,g,18,g,8,g,0,g,2,g,1,g
+506,taco del mar,breakfast taco with flour tortilla jalapeno and bacon,17,g,215,mg,1080,g,18,g,18,g,7,g,0,g,1,g,1,g
+507,taco del mar,breakfast taco with flour tortilla no meat,11,g,205,mg,580,g,18,g,12,g,4.5,g,0,g,1,g,1,g
+508,taco del mar,bud light,0,g,0,mg,0,g,7,g,1,g,0,g,0,g,0,g,0,g
+509,taco del mar,budweiser,0,g,0,mg,0,g,11,g,1,g,0,g,0,g,0,g,0,g
+510,taco del mar,cabbage,0,g,0,mg,10,g,3,g,1,g,0,g,0,g,1,g,1,g
+511,taco del mar,caffeine free diet coke 12 fl oz,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+512,taco del mar,caffeine free diet coke 21 fl oz,0,g,0,mg,85,g,0,g,0,g,0,g,0,g,0,g,0,g
+513,taco del mar,caffeine free diet coke 30 fl oz,0,g,0,mg,125,g,0,g,0,g,0,g,0,g,0,g,0,g
+514,taco del mar,cheese nachos,66,g,95,mg,1510,g,88,g,31,g,20,g,0,g,15,g,3,g
+515,taco del mar,cheese quesadilla platter,33,g,75,mg,2200,g,123,g,38,g,16,g,0,g,13,g,3,g
+516,taco del mar,cheese quesadilla mondo,29,g,75,mg,1320,g,57,g,26,g,15,g,0,g,3,g,2,g
+517,taco del mar,cheese add on,7,g,25,mg,150,g,1,g,6,g,4,g,0,g,0,g,0,g
+518,taco del mar,cherry coca cola 12 fl oz,0,g,0,mg,40,g,42,g,0,g,0,g,0,g,0,g,42,g
+519,taco del mar,cherry coca cola 21 fl oz,0,g,0,mg,70,g,73,g,0,g,0,g,0,g,0,g,73,g
+520,taco del mar,cherry coca cola 30 fl oz,0,g,0,mg,105,g,105,g,0,g,0,g,0,g,0,g,105,g
+521,taco del mar,chicken burrito bowl,24,g,105,mg,1250,g,63,g,34,g,10,g,0,g,8,g,4,g
+522,taco del mar,chicken burrito regular,31,g,105,mg,1990,g,115,g,42,g,13,g,0,g,10,g,4,g
+523,taco del mar,chicken burrito small,17,g,50,mg,1140,g,68,g,23,g,7,g,0,g,5,g,2,g
+524,taco del mar,chicken nachos,72,g,150,mg,1770,g,89,g,49,g,22,g,0,g,15,g,4,g
+525,taco del mar,chicken quesadilla,35,g,130,mg,1580,g,58,g,43,g,17,g,0,g,3,g,2,g
+526,taco del mar,chicken taco salad,38,g,105,mg,1180,g,59,g,37,g,14,g,0,g,10,g,8,g
+527,taco del mar,chicken taco with flour tortilla,12,g,50,mg,530,g,19,g,16,g,6,g,0,g,2,g,2,g
+528,taco del mar,chicken add on,6,g,55,mg,270,g,1,g,18,g,1.5,g,0,g,0,g,0,g
+529,taco del mar,chips and guacamole,37,g,0,mg,650,g,55,g,7,g,4,g,0,g,11,g,1,g
+530,taco del mar,chips and salsa,24,g,0,mg,520,g,50,g,6,g,2.5,g,0,g,6,g,2,g
+531,taco del mar,chips and white queso,47,g,55,mg,1680,g,54,g,16,g,16,g,0,g,5,g,4,g
+532,taco del mar,chips and yellow queso,36,g,5,mg,1210,g,50,g,11,g,7,g,0,g,5,g,0,g
+533,taco del mar,chips side,24,g,0,mg,320,g,46,g,5,g,2.5,g,0,g,5,g,0,g
+534,taco del mar,chocolate chip cookie,7,g,10,mg,120,g,24,g,2,g,4,g,0,g,1,g,15,g
+535,taco del mar,chocolate chunk brownie,18,g,60,mg,100,g,38,g,4,g,9,g,0,g,3,g,26,g
+536,taco del mar,chopped tomatoes,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+537,taco del mar,chorizo,10,g,15,mg,430,g,2,g,6,g,3.5,g,0,g,1,g,0,g
+538,taco del mar,churros,10,g,0,mg,180,g,40,g,4,g,1,g,0,g,1,g,13,g
+539,taco del mar,coca cola zero 12 fl oz,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+540,taco del mar,coca cola zero 21 fl oz,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+541,taco del mar,coca cola zero 30 fl oz,0,g,0,mg,105,g,0,g,0,g,0,g,0,g,0,g,0,g
+542,taco del mar,coca cola 12 fl oz,0,g,0,mg,35,g,40,g,0,g,0,g,0,g,0,g,40,g
+543,taco del mar,coca cola 21 fl oz,0,g,0,mg,60,g,70,g,0,g,0,g,0,g,0,g,70,g
+544,taco del mar,coca cola 30 fl oz,0,g,0,mg,90,g,100,g,0,g,0,g,0,g,0,g,100,g
+545,taco del mar,coffee,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+546,taco del mar,coors light,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,0,g
+547,taco del mar,corona,0,g,0,mg,0,g,14,g,1,g,0,g,0,g,0,g,0,g
+548,taco del mar,diet coke 12 fl oz,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+549,taco del mar,diet coke 21 fl oz,0,g,0,mg,85,g,0,g,0,g,0,g,0,g,0,g,0,g
+550,taco del mar,diet coke 30 fl oz,0,g,0,mg,125,g,0,g,0,g,0,g,0,g,0,g,0,g
+551,taco del mar,dos equis,0,g,0,mg,0,g,11,g,0,g,0,g,0,g,0,g,0,g
+552,taco del mar,double chocolate chip cookie,8,g,10,mg,135,g,23,g,2,g,4.5,g,0,g,1,g,15,g
+553,taco del mar,enchilada and taco platter cheese,33,g,70,mg,1980,g,107,g,31,g,15,g,0,g,15,g,5,g
+554,taco del mar,enchilada and taco platter chicken,31,g,105,mg,2110,g,107,g,43,g,12,g,0,g,15,g,5,g
+555,taco del mar,enchilada and taco platter fish,48,g,95,mg,2310,g,120,g,35,g,14,g,0,g,16,g,6,g
+556,taco del mar,enchilada and taco platter ground beef,38,g,85,mg,2380,g,108,g,38,g,16,g,0,g,15,g,6,g
+557,taco del mar,enchilada and taco platter pork,31,g,95,mg,2410,g,106,g,40,g,12,g,0,g,15,g,5,g
+558,taco del mar,enchilada and taco platter shredded beef,31,g,90,mg,2240,g,107,g,40,g,12,g,0,g,15,g,5,g
+559,taco del mar,enchilada and taco platter steak,28,g,80,mg,2420,g,109,g,37,g,11,g,0,g,15,g,5,g
+560,taco del mar,enchilada sauce,0,g,0,mg,360,g,5,g,1,g,0,g,0,g,1,g,1,g
+561,taco del mar,enchilada sauce topping for regular burrito,4,g,10,mg,860,g,12,g,4,g,2,g,0,g,2,g,3,g
+562,taco del mar,enchilada sauce topping for small burrito,4,g,10,mg,500,g,7,g,4,g,2,g,0,g,1,g,2,g
+563,taco del mar,fanta fruit punch 12 fl oz,0,g,0,mg,55,g,42,g,0,g,0,g,0,g,0,g,42,g
+564,taco del mar,fanta fruit punch 21 fl oz,0,g,0,mg,95,g,73,g,0,g,0,g,0,g,0,g,73,g
+565,taco del mar,fanta fruit punch 30 fl oz,0,g,0,mg,135,g,104,g,0,g,0,g,0,g,0,g,104,g
+566,taco del mar,fanta grape 12 fl oz,0,g,0,mg,50,g,45,g,0,g,0,g,0,g,0,g,45,g
+567,taco del mar,fanta grape 21 fl oz,0,g,0,mg,85,g,78,g,0,g,0,g,0,g,0,g,78,g
+568,taco del mar,fanta grape 30 fl oz,0,g,0,mg,120,g,112,g,0,g,0,g,0,g,0,g,112,g
+569,taco del mar,fanta orange 12 fl oz,0,g,0,mg,50,g,41,g,0,g,0,g,0,g,0,g,41,g
+570,taco del mar,fanta orange 21 fl oz,0,g,0,mg,90,g,72,g,0,g,0,g,0,g,0,g,72,g
+571,taco del mar,fanta orange 30 fl oz,0,g,0,mg,125,g,104,g,0,g,0,g,0,g,0,g,104,g
+572,taco del mar,fanta strawberry 12 fl oz,0,g,0,mg,50,g,46,g,0,g,0,g,0,g,0,g,46,g
+573,taco del mar,fanta strawberry 21 fl oz,0,g,0,mg,85,g,80,g,0,g,0,g,0,g,0,g,80,g
+574,taco del mar,fanta strawberry 30 fl oz,0,g,0,mg,120,g,115,g,0,g,0,g,0,g,0,g,115,g
+575,taco del mar,fish burrito bowl,43,g,100,mg,1380,g,48,g,26,g,13,g,0,g,12,g,5,g
+576,taco del mar,fish burrito regular,50,g,100,mg,2120,g,100,g,34,g,16,g,0,g,14,g,5,g
+577,taco del mar,fish burrito small,27,g,50,mg,1280,g,64,g,20,g,9,g,0,g,8,g,2,g
+578,taco del mar,fish nachos,74,g,130,mg,1850,g,100,g,41,g,21,g,0,g,15,g,3,g
+579,taco del mar,fish quesadilla,37,g,105,mg,1660,g,69,g,35,g,16,g,0,g,3,g,2,g
+580,taco del mar,fish quesadilla platter,42,g,105,mg,2540,g,136,g,48,g,17,g,0,g,13,g,3,g
+581,taco del mar,fish taco salad,41,g,80,mg,1250,g,70,g,28,g,13,g,0,g,11,g,8,g
+582,taco del mar,fish taco with flour tortilla,22,g,50,mg,640,g,27,g,12,g,7,g,0,g,3,g,2,g
+583,taco del mar,fish add on,8,g,35,mg,340,g,12,g,9,g,0.5,g,0,g,1,g,0,g
+584,taco del mar,fuze raspberry tea 12 fl oz,0,g,0,mg,45,g,23,g,0,g,0,g,0,g,0,g,23,g
+585,taco del mar,fuze raspberry tea 21 fl oz,0,g,0,mg,80,g,40,g,0,g,0,g,0,g,0,g,40,g
+586,taco del mar,fuze raspberry tea 30 fl oz,0,g,0,mg,115,g,58,g,0,g,0,g,0,g,0,g,57,g
+587,taco del mar,fuze unsweet tea 12 fl oz,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+588,taco del mar,fuze unsweet tea 21 fl oz,0,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+589,taco del mar,fuze unsweet tea 30 fl oz,0,g,0,mg,115,g,0,g,0,g,0,g,0,g,0,g,0,g
+590,taco del mar,gold peak premium unsweetened tea 12 fl oz,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+591,taco del mar,gold peak premium unsweetened tea 21 fl oz,0,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+592,taco del mar,gold peak premium unsweetened tea 30 fl oz,0,g,0,mg,120,g,0,g,0,g,0,g,0,g,0,g,0,g
+593,taco del mar,gold peak raspberry tea 12 fl oz,0,g,0,mg,45,g,27,g,0,g,0,g,0,g,0,g,27,g
+594,taco del mar,gold peak raspberry tea 21 fl oz,0,g,0,mg,80,g,47,g,0,g,0,g,0,g,0,g,47,g
+595,taco del mar,gold peak raspberry tea 30 fl oz,0,g,0,mg,120,g,67,g,0,g,0,g,0,g,0,g,67,g
+596,taco del mar,gold peak sweetened black tea 12 fl oz,0,g,0,mg,50,g,34,g,0,g,0,g,0,g,0,g,34,g
+597,taco del mar,gold peak sweetened black tea 21 fl oz,0,g,0,mg,85,g,59,g,0,g,0,g,0,g,0,g,59,g
+598,taco del mar,gold peak sweetened black tea 30 fl oz,0,g,0,mg,120,g,84,g,0,g,0,g,0,g,0,g,84,g
+599,taco del mar,gold peak sweetened green tea 12 fl oz,0,g,0,mg,50,g,27,g,0,g,0,g,0,g,0,g,27,g
+600,taco del mar,gold peak sweetened green tea 21 fl oz,0,g,0,mg,90,g,47,g,0,g,0,g,0,g,0,g,47,g
+601,taco del mar,gold peak sweetened green tea 30 fl oz,0,g,0,mg,125,g,67,g,0,g,0,g,0,g,0,g,67,g
+602,taco del mar,ground beef burrito bowl,30,g,85,mg,1530,g,64,g,30,g,14,g,0,g,8,g,4,g
+603,taco del mar,ground beef burrito regular,37,g,85,mg,2270,g,116,g,38,g,17,g,0,g,10,g,4,g
+604,taco del mar,ground beef burrito small,20,g,45,mg,1270,g,68,g,21,g,9,g,0,g,5,g,2,g
+605,taco del mar,ground beef nachos,78,g,135,mg,2050,g,90,g,45,g,26,g,0,g,15,g,4,g
+606,taco del mar,ground beef quesadilla,41,g,110,mg,1860,g,59,g,39,g,21,g,0,g,3,g,2,g
+607,taco del mar,ground beef taco salad,45,g,85,mg,1450,g,60,g,32,g,18,g,0,g,11,g,9,g
+608,taco del mar,ground beef taco with flour tortilla,15,g,45,mg,670,g,20,g,14,g,8,g,0,g,2,g,2,g
+609,taco del mar,ground beef add on,12,g,40,mg,540,g,2,g,13,g,6,g,0,g,1,g,1,g
+610,taco del mar,guacamole add on,4,g,0,mg,105,g,3,g,1,g,0.5,g,0,g,2,g,0,g
+611,taco del mar,guacamole side order,12,g,0,mg,330,g,9,g,2,g,2,g,0,g,6,g,1,g
+612,taco del mar,heineken,0,g,0,mg,0,g,11,g,0,g,0,g,0,g,0,g,0,g
+613,taco del mar,hi c flashn fruit punch 12 fl oz,0,g,0,mg,55,g,42,g,0,g,0,g,0,g,0,g,41,g
+614,taco del mar,hi c flashn fruit punch 21 fl oz,0,g,0,mg,95,g,74,g,0,g,0,g,0,g,0,g,72,g
+615,taco del mar,hi c flashn fruit punch 30 fl oz,0,g,0,mg,135,g,106,g,0,g,0,g,0,g,0,g,103,g
+616,taco del mar,hi c poppin pink lemonade 12 fl oz,0,g,0,mg,100,g,39,g,0,g,0,g,0,g,0,g,38,g
+617,taco del mar,hi c poppin pink lemonade 21 fl oz,0,g,0,mg,180,g,69,g,0,g,0,g,0,g,0,g,66,g
+618,taco del mar,hi c poppin pink lemonade 30 fl oz,0,g,0,mg,250,g,98,g,0,g,0,g,0,g,0,g,94,g
+619,taco del mar,jalapeno bacon,3,g,5,mg,250,g,0,g,3,g,1,g,0,g,0,g,0,g
+620,taco del mar,jalapeno peppers,0,g,0,mg,170,g,0,g,0,g,0,g,0,g,0,g,0,g
+621,taco del mar,kids burrito bean refried and cheese,14,g,25,mg,1180,g,61,g,20,g,7,g,0,g,9,g,0,g
+622,taco del mar,kids cheese quesadilla,12,g,25,mg,660,g,37,g,12,g,6,g,0,g,1,g,0,g
+623,taco del mar,kids chicken taco with flour tortilla,8,g,40,mg,430,g,16,g,15,g,4,g,0,g,1,g,0,g
+624,taco del mar,kids chips,16,g,0,mg,210,g,31,g,3,g,1.5,g,0,g,3,g,0,g
+625,taco del mar,kids fish taco with flour tortilla,10,g,30,mg,460,g,21,g,11,g,3.5,g,0,g,1,g,0,g
+626,taco del mar,kids ground beef taco with flour tortilla,12,g,30,mg,560,g,16,g,12,g,6,g,0,g,1,g,0,g
+627,taco del mar,kids pork taco with flour tortilla,8,g,35,mg,580,g,16,g,13,g,4,g,0,g,1,g,0,g
+628,taco del mar,kids rice and beans black,2,g,0,mg,420,g,37,g,6,g,0,g,0,g,4,g,1,g
+629,taco del mar,kids rice and beans pinto,1.5,g,0,mg,360,g,36,g,7,g,0,g,0,g,5,g,0,g
+630,taco del mar,kids rice and beans refried,2.5,g,0,mg,490,g,36,g,8,g,0.5,g,0,g,6,g,0,g
+631,taco del mar,kids shredded beef taco with flour tortilla,8,g,35,mg,490,g,16,g,14,g,4,g,0,g,1,g,0,g
+632,taco del mar,kids steak taco with flour tortilla,7,g,25,mg,580,g,17,g,12,g,3.5,g,0,g,1,g,0,g
+633,taco del mar,labatt blue,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,0,g
+634,taco del mar,lettuce,0,g,0,mg,5,g,2,g,1,g,0,g,0,g,1,g,1,g
+635,taco del mar,lime wedge,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+636,taco del mar,mello yellow 12 fl oz,0,g,0,mg,50,g,42,g,0,g,0,g,0,g,0,g,42,g
+637,taco del mar,mello yellow 21 fl oz,0,g,0,mg,85,g,74,g,0,g,0,g,0,g,0,g,74,g
+638,taco del mar,mello yellow 30 fl oz,0,g,0,mg,120,g,106,g,0,g,0,g,0,g,0,g,105,g
+639,taco del mar,minute maid lemonade 12 fl oz,0,g,0,mg,100,g,39,g,0,g,0,g,0,g,0,g,38,g
+640,taco del mar,minute maid lemonade 21 fl oz,0,g,0,mg,180,g,69,g,0,g,0,g,0,g,0,g,66,g
+641,taco del mar,minute maid lemonade 30 fl oz,0,g,0,mg,250,g,99,g,0,g,0,g,0,g,0,g,94,g
+642,taco del mar,minute maid light lemonade 12 fl oz,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+643,taco del mar,minute maid light lemonade 21 fl oz,0,g,0,mg,75,g,0,g,0,g,0,g,0,g,0,g,0,g
+644,taco del mar,minute maid light lemonade 30 fl oz,0,g,0,mg,105,g,0,g,0,g,0,g,0,g,0,g,0,g
+645,taco del mar,modelo,0,g,0,mg,0,g,11,g,1,g,0,g,0,g,0,g,0,g
+646,taco del mar,molson,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,0,g,0,g
+647,taco del mar,negra modelo,0,g,0,mg,0,g,16,g,1,g,0,g,0,g,0,g,0,g
+648,taco del mar,oatmeal raisin cookie,7,g,10,mg,130,g,23,g,2,g,4,g,0,g,1,g,13,g
+649,taco del mar,pacifico,0,g,0,mg,0,g,11,g,1,g,0,g,0,g,0,g,0,g
+650,taco del mar,pibb xtra 12 fl oz,0,g,0,mg,55,g,39,g,0,g,0,g,0,g,0,g,39,g
+651,taco del mar,pibb xtra 21 fl oz,0,g,0,mg,100,g,68,g,0,g,0,g,0,g,0,g,68,g
+652,taco del mar,pibb xtra 30 fl oz,0,g,0,mg,140,g,97,g,0,g,0,g,0,g,0,g,97,g
+653,taco del mar,pico de gallo add on,0,g,0,mg,140,g,2,g,1,g,0,g,0,g,1,g,2,g
+654,taco del mar,pico de gallo side order,0,g,0,mg,210,g,4,g,1,g,0,g,0,g,1,g,2,g
+655,taco del mar,pork burrito bowl,24,g,95,mg,1560,g,63,g,31,g,11,g,0,g,7,g,3,g
+656,taco del mar,pork burrito regular,31,g,95,mg,2300,g,115,g,39,g,14,g,0,g,9,g,3,g
+657,taco del mar,pork burrito small,17,g,50,mg,1290,g,67,g,22,g,7,g,0,g,5,g,2,g
+658,taco del mar,pork nachos,71,g,145,mg,2080,g,89,g,46,g,22,g,0,g,15,g,4,g
+659,taco del mar,pork quesadilla,34,g,120,mg,1890,g,58,g,40,g,17,g,0,g,3,g,2,g
+660,taco del mar,pork taco salad,38,g,95,mg,1490,g,58,g,34,g,14,g,0,g,10,g,8,g
+661,taco del mar,pork taco with flour tortilla,12,g,50,mg,680,g,19,g,14,g,6,g,0,g,2,g,2,g
+662,taco del mar,pork add on,6,g,50,mg,570,g,1,g,15,g,2,g,0,g,0,g,0,g
+663,taco del mar,powerade fruit punch 12 fl oz,0,g,0,mg,115,g,23,g,0,g,0,g,0,g,0,g,22,g
+664,taco del mar,powerade fruit punch 21 fl oz,0,g,0,mg,210,g,41,g,0,g,0,g,0,g,0,g,39,g
+665,taco del mar,powerade fruit punch 30 fl oz,0,g,0,mg,290,g,59,g,0,g,0,g,0,g,0,g,55,g
+666,taco del mar,powerade mountain blast 12 fl oz,0,g,0,mg,110,g,22,g,0,g,0,g,0,g,0,g,22,g
+667,taco del mar,powerade mountain blast 21 fl oz,0,g,0,mg,200,g,38,g,0,g,0,g,0,g,0,g,38,g
+668,taco del mar,powerade mountain blast 30 fl oz,0,g,0,mg,280,g,55,g,0,g,0,g,0,g,0,g,55,g
+669,taco del mar,rice and beans black and pico de gallo,4,g,0,mg,780,g,67,g,11,g,0,g,0,g,6,g,3,g
+670,taco del mar,rice and beans pinto and pico de gallo,3,g,0,mg,680,g,65,g,12,g,0,g,0,g,8,g,1,g
+671,taco del mar,rice and beans refried and pico de gallo,4.5,g,0,mg,880,g,66,g,12,g,1,g,0,g,10,g,1,g
+672,taco del mar,salsa chipotle medium homemade,0,g,0,mg,120,g,2,g,0,g,0,g,0,g,0,g,1,g
+673,taco del mar,salsa habanero hot homemade,0,g,0,mg,90,g,2,g,0,g,0,g,0,g,0,g,1,g
+674,taco del mar,salsa verda mild homemade,0,g,0,mg,25,g,1,g,0,g,0,g,0,g,1,g,0,g
+675,taco del mar,salsa habanero hot,0,g,0,mg,150,g,1,g,0,g,0,g,0,g,0,g,1,g
+676,taco del mar,salsa mango,0,g,0,mg,190,g,5,g,1,g,0,g,0,g,1,g,4,g
+677,taco del mar,salsa reaper,0,g,0,mg,140,g,2,g,0,g,0,g,0,g,0,g,2,g
+678,taco del mar,salsa roasted chipotle medium,0,g,0,mg,105,g,2,g,0,g,0,g,0,g,0,g,1,g
+679,taco del mar,salsa tomatillo mild,0,g,0,mg,180,g,2,g,0,g,0,g,0,g,0,g,1,g
+680,taco del mar,seasoned rice,3,g,0,mg,290,g,40,g,4,g,0,g,0,g,1,g,0,g
+681,taco del mar,shredded beef burrito bowl,24,g,90,mg,1390,g,64,g,32,g,11,g,0,g,8,g,4,g
+682,taco del mar,shredded beef burrito regular,31,g,90,mg,2130,g,116,g,40,g,14,g,0,g,10,g,4,g
+683,taco del mar,shredded beef burrito small,17,g,45,mg,1200,g,68,g,22,g,7,g,0,g,5,g,2,g
+684,taco del mar,shredded beef nachos,71,g,140,mg,1910,g,90,g,47,g,22,g,0,g,15,g,4,g
+685,taco del mar,shredded beef quesadilla,34,g,120,mg,1720,g,59,g,41,g,17,g,0,g,3,g,2,g
+686,taco del mar,shredded beef taco salad,38,g,90,mg,1320,g,59,g,34,g,14,g,0,g,10,g,9,g
+687,taco del mar,shredded beef taco with flour tortilla,12,g,45,mg,600,g,20,g,15,g,6,g,0,g,2,g,2,g
+688,taco del mar,shredded beef add on,6,g,45,mg,400,g,2,g,15,g,2,g,0,g,0,g,1,g
+689,taco del mar,sol,0,g,0,mg,0,g,11,g,0,g,0,g,0,g,0,g,0,g
+690,taco del mar,sour cream add on,7,g,25,mg,55,g,2,g,1,g,4,g,0,g,0,g,2,g
+691,taco del mar,sprite zero 12 fl oz,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+692,taco del mar,sprite zero 21 fl oz,0,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+693,taco del mar,sprite zero 30 fl oz,0,g,0,mg,110,g,0,g,0,g,0,g,0,g,0,g,0,g
+694,taco del mar,sprite 12 fl oz,0,g,0,mg,70,g,39,g,0,g,0,g,0,g,0,g,39,g
+695,taco del mar,sprite 21 fl oz,0,g,0,mg,120,g,67,g,0,g,0,g,0,g,0,g,67,g
+696,taco del mar,sprite 30 fl oz,0,g,0,mg,170,g,96,g,0,g,0,g,0,g,0,g,96,g
+697,taco del mar,steak burrito bowl,20,g,80,mg,1560,g,65,g,29,g,10,g,0,g,7,g,3,g
+698,taco del mar,steak burrito regular,27,g,80,mg,2300,g,117,g,37,g,13,g,0,g,9,g,3,g
+699,taco del mar,steak burrito small,15,g,40,mg,1290,g,69,g,20,g,7,g,0,g,5,g,2,g
+700,taco del mar,steak nachos,68,g,125,mg,2080,g,91,g,44,g,21,g,0,g,15,g,3,g
+701,taco del mar,steak quesadilla,31,g,105,mg,1890,g,60,g,38,g,16,g,0,g,3,g,2,g
+702,taco del mar,steak quesadilla platter,36,g,105,mg,2780,g,127,g,50,g,17,g,0,g,13,g,3,g
+703,taco del mar,steak taco salad,35,g,80,mg,1490,g,61,g,31,g,13,g,0,g,10,g,8,g
+704,taco del mar,steak taco with flour tortilla,10,g,40,mg,680,g,20,g,13,g,5,g,0,g,2,g,2,g
+705,taco del mar,steak add on,2.5,g,30,mg,580,g,3,g,12,g,1,g,0,g,0,g,0,g
+706,taco del mar,tecate,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,0,g,0,g
+707,taco del mar,vegan burrito bowl,8,g,0,mg,890,g,63,g,11,g,1.5,g,0,g,10,g,4,g
+708,taco del mar,vegan burrito regular,15,g,0,mg,1630,g,115,g,19,g,4.5,g,0,g,12,g,4,g
+709,taco del mar,vegan burrito small,9,g,0,mg,950,g,68,g,12,g,2.5,g,0,g,6,g,2,g
+710,taco del mar,vegan taco salad,25,g,0,mg,1110,g,97,g,17,g,5,g,0,g,13,g,8,g
+711,taco del mar,vegan taco with flour tortilla,5,g,0,mg,550,g,37,g,7,g,1.5,g,0,g,5,g,2,g
+712,taco del mar,veggie burrito bowl,22,g,45,mg,1090,g,67,g,18,g,9,g,0,g,10,g,5,g
+713,taco del mar,veggie burrito regular,29,g,45,mg,1830,g,119,g,26,g,12,g,0,g,12,g,5,g
+714,taco del mar,veggie burrito small,16,g,25,mg,1060,g,69,g,15,g,7,g,0,g,6,g,2,g
+715,taco del mar,veggie taco salad,39,g,45,mg,1310,g,101,g,23,g,13,g,0,g,13,g,9,g
+716,taco del mar,veggie taco with flour tortilla,12,g,25,mg,660,g,39,g,10,g,6,g,0,g,5,g,2,g
+717,taco del mar,white chocolate macadamia cookie,9,g,10,mg,120,g,22,g,2,g,4,g,0,g,0,g,14,g
+718,taco del mar,white queso topping for regular burrito,23,g,55,mg,1430,g,10,g,12,g,13,g,0,g,1,g,5,g
+719,taco del mar,white queso topping for small burrito,11,g,30,mg,750,g,6,g,6,g,7,g,0,g,1,g,3,g
+720,taco del mar,white queso add on,11,g,30,mg,680,g,4,g,6,g,7,g,0,g,0,g,2,g
+721,taco del mar,white queso side order,23,g,55,mg,1360,g,8,g,11,g,13,g,0,g,0,g,4,g
+722,taco del mar,white sauce,19,g,20,mg,160,g,2,g,0,g,3.5,g,0,g,0,g,0,g
+723,taco del mar,white sauce homemade,16,g,20,mg,140,g,1,g,0,g,2.5,g,0,g,0,g,1,g
+724,taco del mar,wine reisling,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,0,g,0,g
+725,taco del mar,wine zinfandel,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,0,g
+726,taco del mar,yellow queso topping for regular burrito,12,g,5,mg,970,g,6,g,6,g,5,g,0,g,1,g,1,g
+727,taco del mar,yellow queso topping for small burrito,6,g,5,mg,520,g,4,g,4,g,2.5,g,0,g,1,g,1,g
+728,taco del mar,yellow queso add on,6,g,5,mg,450,g,2,g,3,g,2.5,g,0,g,0,g,0,g
+729,taco del mar,yellow queso side order,12,g,5,mg,900,g,4,g,6,g,5,g,0,g,0,g,0,g
+730,taco johns,bacon and potato breakfast burrito,25,g,230,mg,1520,g,57,g,20,g,7,g,0,g,5,g,2,g
+731,taco johns,mexican donut bites,12,g,5,mg,220,g,47,g,4,g,3,g,0,g,4,g,21,g
+732,taco johns,breakfast bacon scrambler burrito,25,g,230,mg,1520,g,59,g,21,g,7,g,0,g,5,g,5,g
+733,taco johns,breakfast bacon and potato oles scrambler,41.7,g,224,mg,2151,g,52.7,g,19,g,12.3,g,0.3,g,5.5,g,3.1,g
+734,taco johns,bacon jr breakfast burrito,8,g,165,mg,510,g,19,g,10,g,2.5,g,0,g,2,g,2,g
+735,taco johns,sausage jr breakfast burrito,12,g,170,mg,520,g,20,g,10,g,4,g,0,g,2,g,2,g
+736,taco johns,sausage potato oles breakfast scrambler,79,g,375,mg,3360,g,88,g,31,g,24,g,0,g,9,g,5,g
+737,taco johns,sausage scrambler breakfast burrito,33,g,245,mg,1590,g,60,g,21,g,10,g,0,g,5,g,6,g
+738,taco johns,breakfast egg burrito,19,g,230,mg,800,g,45,g,19,g,9,g,0,g,3,g,4,g
+739,taco johns,chicken and gravy breakfast burrito,29,g,30,mg,1500,g,70,g,20,g,9,g,0,g,5,g,3,g
+740,taco johns,egg breakfast burrito with sausage,32,g,260,mg,1140,g,47,g,25,g,13,g,0,g,3,g,5,g
+741,taco johns,spicy chorizo breakfast burrito,27,g,245,mg,1280,g,45,g,20,g,8,g,0,g,4,g,5,g
+742,taco johns,egg breakfast burrito with bacon,23,g,250,mg,1190,g,45,g,24,g,10,g,0,g,3,g,4,g
+743,taco johns,beef burrito,20,g,45,mg,890,g,43,g,21,g,8,g,1,g,5,g,2,g
+744,taco johns,super burrito,18,g,40,mg,940,g,51,g,19,g,8,g,0.5,g,7,g,4,g
+745,taco johns,beef and potato burrito,24,g,30,mg,240,g,59,g,15,g,7,g,0,g,6,g,4,g
+746,taco johns,grilled chicken burrito,28,g,70,mg,1590,g,53,g,27,g,10,g,0.5,g,4,g,3,g
+747,taco johns,bean burrito,10,g,10,mg,830,g,54,g,14,g,4.5,g,0,g,8,g,3,g
+748,taco johns,crunchy chicken and potato burrito,25,g,30,mg,1420,g,68,g,18,g,7,g,0,g,5,g,4,g
+749,taco johns,combination burrito,15,g,30,mg,860,g,48,g,18,g,6,g,0,g,7,g,3,g
+750,taco johns,grilled beef burrito,31,g,55,mg,1430,g,54,g,24,g,13,g,1,g,6,g,3,g
+751,taco johns,chicken and potato burrito,19,g,35,mg,1290,g,58,g,17,g,6,g,0,g,5,g,4,g
+752,taco johns,guacamole,8,g,0,mg,280,g,6,g,1,g,1,g,0,g,4,g,1,g
+753,taco johns,sour cream,13,g,50,mg,35,g,4,g,3,g,8,g,0,g,0,g,3,g
+754,taco johns,kids cheesy quesadilla,10,g,25,mg,410,g,17,g,10,g,6,g,0,g,2,g,1,g
+755,taco johns,kids crunchy chicken without sauce,10,g,20,mg,510,g,16,g,12,g,1.5,g,0,g,0,g,0,g
+756,taco johns,kids giant goldfish grahams,4,g,0,mg,110,g,19,g,1,g,1,g,0,g,1,g,6,g
+757,taco johns,super nachos,25.2,g,32,mg,880,g,38.6,g,11.8,g,8,g,0.5,g,3.8,g,1.1,g
+758,taco johns,super potato oles,67,g,60,mg,3300,g,98,g,24,g,21,g,1,g,14,g,3,g
+759,taco johns,kids potato oles,19,g,0,mg,970,g,37,g,3,g,4,g,0,g,4,g,0,g
+760,taco johns,mexi rolls without nacho cheese,21,g,20,mg,390,g,30,g,14,g,6,g,0.5,g,4,g,0,g
+761,taco johns,crunchy chicken with ranch,33,g,60,mg,1270,g,31,g,23,g,5.5,g,0,g,0,g,1,g
+762,taco johns,chicken quesadilla,25,g,80,mg,1300,g,48,g,30,g,13,g,0.5,g,5,g,4,g
+763,taco johns,cheesy quesadilla,24,g,55,mg,1070,g,40,g,20,g,12,g,0.5,g,31,g,2,g
+764,taco johns,beef quesadilla,29,g,75,mg,1260,g,49,g,27,g,14,g,1,g,6,g,4,g
+765,taco johns,house dressing,7,g,0,mg,280,g,2,g,0,g,1,g,0,g,0,g,1,g
+766,taco johns,ranch dressing,15,g,20,mg,350,g,2,g,1,g,2.5,g,0,g,0,g,1,g
+767,taco johns,bacon ranch dressing,9,g,10,mg,350,g,10,g,1,g,1.5,g,0,g,0,g,6,g
+768,taco johns,creamy italian dressing,14,g,0,mg,320,g,2,g,0,g,2.5,g,0,g,0,g,2,g
+769,taco johns,beef taco salad without dressing,33,g,55,mg,920,g,45,g,22,g,13,g,1,g,6,g,6,g
+770,taco johns,chicken taco salad without dressing,27,g,60,mg,980,g,44,g,24,g,11,g,0,g,5,g,7,g
+771,taco johns,crunchy chicken taco salad without dressing,36,g,50,mg,1170,g,58,g,26,g,12,g,5,g,5,g,6,g
+772,taco johns,taco burger,11,g,30,mg,570,g,28,g,15,g,4,g,0.5,g,2,g,4,g
+773,taco johns,nacho cheese sauce,9,g,15,mg,700,g,5,g,3,g,3.5,g,0,g,0,g,0,g
+774,taco johns,hot sauce,0,g,0,mg,140,g,1,g,0,g,0,g,0,g,0,g,0,g
+775,taco johns,super hot sauce,0,g,0,mg,140,g,1,g,0,g,0,g,0,g,0,g,0,g
+776,taco johns,mild sauce,0,g,0,mg,130,g,1,g,0,g,0,g,0,g,0,g,0,g
+777,taco johns,salsa,0,g,0,mg,160,g,1,g,0,g,0,g,0,g,0,g,1,g
+778,taco johns,potato oles,27.3,g,0,mg,1384,g,52.4,g,5,g,5.7,g,0,g,5.7,g,0.7,g
+779,taco johns,refried beans,7,g,10,mg,1050,g,45,g,18,g,4,g,0,g,15,g,1,g
+780,taco johns,chips and queso,25,g,20,mg,1130,g,43,g,9,g,6,g,0,g,2,g,1,g
+781,taco johns,nachos,23,g,15,mg,940,g,39,g,6,g,5,g,0,g,1,g,0,g
+782,taco johns,salad side,2.5,g,5,mg,50,g,3,g,2,g,1.5,g,0,g,1,g,2,g
+783,taco johns,softshell beef taco,10,g,25,mg,470,g,21,g,11,g,4,g,0,g,3,g,1,g
+784,taco johns,chicken single street taco,6,g,25,mg,380,g,17,g,10,g,1.5,g,0,g,1,g,2,g
+785,taco johns,softshell chicken taco,5,g,30,mg,520,g,20,g,13,g,2.5,g,0,g,3,g,2,g
+786,taco johns,shrimp single street taco,11,g,20,mg,530,g,24,g,6,g,2,g,0,g,2,g,2,g
+787,taco johns,taco bravo,13,g,25,mg,640,g,36,g,14,g,4.5,g,0,g,7,g,2,g
+788,taco johns,crispy taco,10,g,25,mg,290,g,11,g,9,g,4,g,0,g,2,g,1,g
+789,taco johns,grilled stuffed taco,25,g,45,mg,1040,g,58,g,18,g,9,g,0.5,g,5,g,3,g
+790,taco johns,shredded beef single street taco,8,g,20,mg,480,g,17,g,9,g,2.5,g,0,g,2,g,1,g
+791,taco johns,bacon ranch dressing,9,g,10,mg,350,g,10,g,1,g,1.5,g,0,g,0,g,6,g
+792,taco johns,bean burrito,10,g,10,mg,830,g,54,g,14,g,4.5,g,0,g,8,g,3,g
+793,taco johns,beef burrito,20,g,45,mg,890,g,43,g,21,g,8,g,1,g,5,g,2,g
+794,taco johns,black beans and rice,3,g,0,mg,910,g,36,g,9,g,0,g,0,g,7,g,1,g
+795,taco johns,breakfast egg burrito,19,g,230,mg,800,g,45,g,19,g,9,g,0,g,3,g,4,g
+796,taco johns,breakfast egg burrito bacon,23,g,250,mg,1190,g,45,g,24,g,10,g,0,g,3,g,4,g
+797,taco johns,breakfast egg burrito sausage,32,g,260,mg,1140,g,47,g,25,g,13,g,0,g,3,g,5,g
+798,taco johns,breakfast egg burrito sirloin steak,22,g,255,mg,1000,g,46,g,27,g,9,g,0,g,3,g,4,g
+799,taco johns,brisk no calorie peach iced green tea kids size,0,g,0,mg,105,g,0,g,0,g,0,g,0,g,0,g,0,g
+800,taco johns,brisk no calorie peach iced green tea large,0,g,0,mg,350,g,0,g,0,g,0,g,0,g,0,g,0,g
+801,taco johns,brisk no calorie peach iced green tea medium,0,g,0,mg,260,g,0,g,0,g,0,g,0,g,0,g,0,g
+802,taco johns,brisk no calorie peach iced green tea small,0,g,0,mg,180,g,0,g,0,g,0,g,0,g,0,g,0,g
+803,taco johns,brisk raspberry iced tea kids size,0,g,0,mg,35,g,19,g,0,g,0,g,0,g,0,g,19,g
+804,taco johns,brisk raspberry iced tea large,0,g,0,mg,125,g,65,g,0,g,0,g,0,g,0,g,65,g
+805,taco johns,brisk raspberry iced tea medium,0,g,0,mg,95,g,49,g,0,g,0,g,0,g,0,g,49,g
+806,taco johns,brisk raspberry iced tea small,0,g,0,mg,60,g,32,g,0,g,0,g,0,g,0,g,32,g
+807,taco johns,cheese roll up,9,g,15,mg,320,g,18,g,8,g,5,g,0,g,2,g,1,g
+808,taco johns,chips,11,g,0,mg,210,g,40,g,4,g,1.5,g,0,g,3,g,0,g
+809,taco johns,chips and nacho,20,g,15,mg,920,g,45,g,7,g,4.5,g,0,g,3,g,0,g
+810,taco johns,chocolate milk 1 low fat,2.5,g,10,mg,160,g,23,g,7,g,1.5,g,0,g,0,g,23,g
+811,taco johns,churro zites kids size,7,g,0,mg,105,g,18,g,1,g,1,g,0,g,5,g,5,g
+812,taco johns,churro bites,13,g,0,mg,210,g,37,g,3,g,2,g,0,g,10,g,11,g
+813,taco johns,combination burrito,15,g,30,mg,860,g,48,g,18,g,6,g,0,g,7,g,3,g
+814,taco johns,creamy italian dressing,14,g,0,mg,320,g,2,g,0,g,2.5,g,0,g,0,g,2,g
+815,taco johns,crispy taco beef,10,g,25,mg,290,g,11,g,9,g,4,g,0,g,2,g,1,g
+816,taco johns,crispy taco sirloin steak,8,g,25,mg,300,g,10,g,10,g,3,g,0,g,1,g,1,g
+817,taco johns,crunchy chicken with ranch,33,g,60,mg,1270,g,31,g,23,g,6,g,0,g,0,g,1,g
+818,taco johns,diet and caffeine free pepsi kids size,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+819,taco johns,diet and caffeine free pepsi large,0,g,0,mg,140,g,1,g,0,g,0,g,0,g,0,g,0,g
+820,taco johns,diet and caffeine free pepsi medium,0,g,0,mg,105,g,1,g,0,g,0,g,0,g,0,g,0,g
+821,taco johns,diet and caffeine free pepsi small,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+822,taco johns,diet mountain dew kids size,0,g,0,mg,55,g,1,g,0,g,0,g,0,g,0,g,0,g
+823,taco johns,diet mountain dew large,0,g,0,mg,190,g,2,g,0,g,0,g,0,g,0,g,1,g
+824,taco johns,diet mountain dew medium,0,g,0,mg,140,g,1,g,0,g,0,g,0,g,0,g,1,g
+825,taco johns,diet mountain dew small,0,g,0,mg,95,g,1,g,0,g,0,g,0,g,0,g,0,g
+826,taco johns,dr pepper kids size,0,g,0,mg,45,g,39,g,0,g,0,g,0,g,0,g,38,g
+827,taco johns,dr pepper large,0,g,0,mg,135,g,130,g,0,g,0,g,0,g,0,g,128,g
+828,taco johns,dr pepper medium,0,g,0,mg,100,g,98,g,0,g,0,g,0,g,0,g,96,g
+829,taco johns,dr pepper small,0,g,0,mg,70,g,65,g,0,g,0,g,0,g,0,g,64,g
+830,taco johns,fish taco,14,g,35,mg,1160,g,29,g,10,g,4.5,g,0,g,2,g,3,g
+831,taco johns,giant goldfish grahams,4,g,0,mg,110,g,19,g,1,g,1,g,0,g,1,g,6,g
+832,taco johns,grilled burrito beef,31,g,55,mg,1430,g,54,g,24,g,13,g,1,g,6,g,3,g
+833,taco johns,grilled burrito chicken,28,g,70,mg,1590,g,53,g,27,g,10,g,0.5,g,4,g,3,g
+834,taco johns,grilled burrito sirloin steak,32,g,65,mg,1520,g,52,g,27,g,11,g,0,g,4,g,3,g
+835,taco johns,guacamole,8,g,0,mg,280,g,6,g,1,g,1,g,0,g,4,g,1,g
+836,taco johns,hot sauce,0,g,0,mg,140,g,1,g,0,g,0,g,0,g,0,g,0,g
+837,taco johns,house dressing,7,g,0,mg,280,g,2,g,0,g,1,g,0,g,0,g,1,g
+838,taco johns,house salsa,0,g,0,mg,220,g,1,g,0,g,0,g,0,g,0,g,1,g
+839,taco johns,jr breakfast burrito bacon,8,g,165,mg,510,g,19,g,10,g,2.5,g,0,g,2,g,2,g
+840,taco johns,jr breakfast burrito sausage,12,g,170,mg,520,g,20,g,10,g,4,g,0,g,2,g,2,g
+841,taco johns,jr breakfast burrito sirloin steak,8,g,170,mg,480,g,20,g,11,g,2.5,g,0,g,2,g,2,g
+842,taco johns,kids crispy taco beef,10,g,25,mg,290,g,11,g,9,g,4,g,0,g,2,g,1,g
+843,taco johns,kids crunchy chicken without sauce,10,g,20,mg,510,g,16,g,12,g,1.5,g,0,g,0,g,0,g
+844,taco johns,kids softshell taco beef,10,g,25,mg,470,g,21,g,11,g,4,g,0,g,3,g,1,g
+845,taco johns,kids quesadilla cheesy,10,g,25,mg,410,g,17,g,10,g,6,g,0,g,2,g,1,g
+846,taco johns,lifewater yumberry pomegranate kids size,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+847,taco johns,lifewater yumberry pomegranate large,0,g,0,mg,140,g,0,g,0,g,0,g,0,g,0,g,0,g
+848,taco johns,lifewater yumberry pomegranate medium,0,g,0,mg,105,g,0,g,0,g,0,g,0,g,0,g,0,g
+849,taco johns,lifewater yumberry pomegranate small,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+850,taco johns,lipton sweet tea kids size,0,g,0,mg,5,g,42,g,0,g,0,g,0,g,0,g,42,g
+851,taco johns,lipton sweet tea large,0,g,0,mg,25,g,140,g,0,g,0,g,0,g,0,g,140,g
+852,taco johns,lipton sweet tea medium,0,g,0,mg,20,g,105,g,0,g,0,g,0,g,0,g,105,g
+853,taco johns,lipton sweet tea small,0,g,0,mg,10,g,70,g,0,g,0,g,0,g,0,g,70,g
+854,taco johns,meat and potato breakfast burrito bacon,25,g,230,mg,1520,g,57,g,20,g,7,g,0,g,5,g,4,g
+855,taco johns,meat and potato breakfast burrito sausage,34,g,245,mg,1460,g,58,g,21,g,10,g,0,g,5,g,4,g
+856,taco johns,meat and potato burrito beef,24,g,30,mg,1240,g,59,g,15,g,7,g,0,g,6,g,4,g
+857,taco johns,meat and potato burrito chicken,19,g,35,mg,1290,g,58,g,17,g,6,g,0,g,5,g,4,g
+858,taco johns,meat and potato burrito crunchy chicken,25,g,30,mg,1420,g,68,g,18,g,7,g,0,g,5,g,4,g
+859,taco johns,meat and potato burrito sirloin steak,23,g,45,mg,1310,g,58,g,19,g,7,g,0,g,5,g,4,g
+860,taco johns,mexican donut bites,12,g,5,mg,220,g,47,g,4,g,3,g,0,g,4,g,21,g
+861,taco johns,mild sauce,0,g,0,mg,130,g,1,g,0,g,0,g,0,g,0,g,0,g
+862,taco johns,milk 1 low fat,2,g,10,mg,90,g,10,g,7,g,1,g,0,g,0,g,10,g
+863,taco johns,mist twist kids size,0,g,0,mg,30,g,40,g,0,g,0,g,0,g,0,g,40,g
+864,taco johns,mist twist large,0,g,0,mg,100,g,135,g,0,g,0,g,0,g,0,g,135,g
+865,taco johns,mist twist medium,0,g,0,mg,75,g,99,g,0,g,0,g,0,g,0,g,99,g
+866,taco johns,mist twist small,0,g,0,mg,50,g,66,g,0,g,0,g,0,g,0,g,66,g
+867,taco johns,mountain dew kids size,0,g,0,mg,55,g,43,g,0,g,0,g,0,g,0,g,43,g
+868,taco johns,mountain dew large,0,g,0,mg,180,g,145,g,0,g,0,g,0,g,0,g,145,g
+869,taco johns,mountain dew medium,0,g,0,mg,130,g,109,g,0,g,0,g,0,g,0,g,109,g
+870,taco johns,mountain dew small,0,g,0,mg,90,g,72,g,0,g,0,g,0,g,0,g,72,g
+871,taco johns,mug root beer kids size,0,g,0,mg,25,g,39,g,0,g,0,g,0,g,0,g,39,g
+872,taco johns,mug root beer large,0,g,0,mg,75,g,130,g,0,g,0,g,0,g,0,g,130,g
+873,taco johns,mug root beer medium,0,g,0,mg,55,g,98,g,0,g,0,g,0,g,0,g,98,g
+874,taco johns,mug root beer small,0,g,0,mg,40,g,65,g,0,g,0,g,0,g,0,g,65,g
+875,taco johns,nacho cheese sauce,9,g,15,mg,700,g,5,g,3,g,3.5,g,0,g,0,g,0,g
+876,taco johns,nestle pure life water,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+877,taco johns,pepsi wild cherry kids size,0,g,0,mg,30,g,42,g,0,g,0,g,0,g,0,g,42,g
+878,taco johns,pepsi wild cherry large,0,g,0,mg,100,g,140,g,0,g,0,g,0,g,0,g,140,g
+879,taco johns,pepsi wild cherry medium,0,g,0,mg,75,g,105,g,0,g,0,g,0,g,0,g,105,g
+880,taco johns,pepsi wild cherry small,0,g,0,mg,50,g,70,g,0,g,0,g,0,g,0,g,70,g
+881,taco johns,pepsi kids size,0,g,0,mg,30,g,42,g,0,g,0,g,0,g,0,g,42,g
+882,taco johns,pepsi large,0,g,0,mg,100,g,140,g,0,g,0,g,0,g,0,g,140,g
+883,taco johns,pepsi medium,0,g,0,mg,75,g,105,g,0,g,0,g,0,g,0,g,105,g
+884,taco johns,pepsi small,0,g,0,mg,50,g,70,g,0,g,0,g,0,g,0,g,70,g
+885,taco johns,pico de gallo,0,g,0,mg,85,g,2,g,0,g,0,g,0,g,0,g,1,g
+886,taco johns,potato oles kids meal breakfast,19,g,0,mg,970,g,37,g,3,g,4,g,0,g,4,g,0,g
+887,taco johns,potato oles large,49,g,0,mg,2490,g,94,g,9,g,11,g,0,g,10,g,1,g
+888,taco johns,potato oles medium,38,g,0,mg,1930,g,73,g,7,g,8,g,0,g,8,g,1,g
+889,taco johns,potato oles small,27,g,0,mg,1380,g,52,g,5,g,6,g,0,g,6,g,1,g
+890,taco johns,potato oles scrambler bacon,68,g,365,mg,3510,g,86,g,31,g,20,g,0.5,g,9,g,5,g
+891,taco johns,potato oles scrambler sausage,79,g,375,mg,3360,g,88,g,31,g,24,g,0,g,9,g,5,g
+892,taco johns,potato oles scrambler sirloin steak,65,g,370,mg,3190,g,88,g,34,g,18,g,0,g,9,g,4,g
+893,taco johns,potato oles scrambler small sirloin steak,40,g,245,mg,1920,g,54,g,22,g,11,g,0,g,6,g,3,g
+894,taco johns,potato oles scrambler small bacon,41,g,240,mg,2110,g,53,g,20,g,12,g,0,g,6,g,3,g
+895,taco johns,potato oles scrambler small sausage,50,g,250,mg,2050,g,54,g,20,g,15,g,0,g,6,g,3,g
+896,taco johns,quesadilla beef,29,g,75,mg,1260,g,49,g,27,g,14,g,1,g,6,g,4,g
+897,taco johns,quesadilla cheese,24,g,55,mg,1070,g,40,g,20,g,12,g,0.5,g,3,g,2,g
+898,taco johns,quesadilla chicken,25,g,80,mg,1300,g,48,g,30,g,13,g,0.5,g,5,g,4,g
+899,taco johns,quesadilla sirloin steak,28,g,85,mg,1340,g,48,g,31,g,13,g,0.5,g,5,g,4,g
+900,taco johns,quesadilla taco beef,17,g,40,mg,700,g,33,g,15,g,7,g,0.5,g,0,g,2,g
+901,taco johns,quesadilla taco chicken,20,g,55,mg,740,g,33,g,17,g,7,g,0,g,2,g,3,g
+902,taco johns,quesadilla taco sirloin steak,16,g,45,mg,750,g,33,g,17,g,7,g,0,g,2,g,2,g
+903,taco johns,ranch burrito,22,g,40,mg,890,g,44,g,16,g,7,g,0.5,g,5,g,4,g
+904,taco johns,ranch dressing,15,g,20,mg,350,g,2,g,1,g,2.5,g,0,g,0,g,1,g
+905,taco johns,refried beans,7,g,10,mg,1050,g,45,g,18,g,4,g,0,g,15,g,1,g
+906,taco johns,sauce a lotta enchiladas beef and red sauce platter,27,g,55,mg,2620,g,84,g,31,g,9,g,1,g,14,g,5,g
+907,taco johns,sauce a lotta enchiladas beef and red sauce 2 enchiladas,24,g,55,mg,1720,g,48,g,22,g,9,g,1,g,7,g,4,g
+908,taco johns,sauce a lotta enchiladas chicken and white queso platter,33,g,140,mg,3010,g,81,g,45,g,17,g,1,g,11,g,8,g
+909,taco johns,sauce a lotta enchiladas chicken and white queso 2 enchiladas,30,g,140,mg,2100,g,45,g,36,g,17,g,1,g,4,g,7,g
+910,taco johns,scrambler breakfast burrito bacon,25,g,230,mg,1520,g,59,g,21,g,7,g,0,g,5,g,5,g
+911,taco johns,scrambler breakfast burrito sausage,33,g,245,mg,1590,g,60,g,21,g,10,g,0,g,5,g,6,g
+912,taco johns,scrambler breakfast burrito sirloin steak,24,g,235,mg,1330,g,60,g,23,g,6,g,0,g,5,g,5,g
+913,taco johns,side salad without dressing,2.5,g,5,mg,50,g,3,g,2,g,1.5,g,0,g,1,g,2,g
+914,taco johns,single street taco sirloin steak,8,g,20,mg,360,g,17,g,9,g,2,g,0,g,1,g,1,g
+915,taco johns,softshell taco beef,10,g,25,mg,470,g,21,g,11,g,4,g,0,g,3,g,1,g
+916,taco johns,softshell taco chicken,5,g,30,mg,520,g,20,g,13,g,2.5,g,0,g,3,g,2,g
+917,taco johns,softshell taco sirloin steak,8,g,25,mg,480,g,20,g,13,g,3,g,0,g,2,g,1,g
+918,taco johns,sour cream,13,g,50,mg,35,g,4,g,3,g,8,g,0,g,0,g,3,g
+919,taco johns,spicy chorizo breakfast burrito,27,g,245,mg,1280,g,45,g,20,g,8,g,0,g,4,g,5,g
+920,taco johns,steak and potato breakfast burrito,24,g,235,mg,1330,g,58,g,23,g,6,g,0,g,5,g,4,g
+921,taco johns,stuffed grilled taco beef,25,g,45,mg,1040,g,60,g,19,g,9,g,0.5,g,5,g,3,g
+922,taco johns,stuffed grilled taco chicken,25,g,65,mg,1150,g,54,g,22,g,9,g,0,g,4,g,4,g
+923,taco johns,stuffed grilled taco sirloin steak,23,g,50,mg,1050,g,59,g,20,g,8,g,0,g,4,g,3,g
+924,taco johns,super hot sauce,0,g,0,mg,140,g,1,g,0,g,0,g,0,g,0,g,0,g
+925,taco johns,super burrito beef,18,g,40,mg,940,g,51,g,19,g,8,g,0.5,g,7,g,4,g
+926,taco johns,super burrito sirloin steak,17,g,50,mg,1010,g,50,g,23,g,7,g,0,g,6,g,4,g
+927,taco johns,super nachos beef,43,g,60,mg,1620,g,82,g,23,g,14,g,1,g,10,g,3,g
+928,taco johns,super nachos sirloin steak,42,g,70,mg,1690,g,81,g,27,g,13,g,0,g,9,g,3,g
+929,taco johns,super nachos small beef,23,g,35,mg,860,g,42,g,13,g,8,g,0,g,6,g,2,g
+930,taco johns,super nachos small sirloin steak,22,g,35,mg,870,g,41,g,14,g,7,g,0,g,5,g,2,g
+931,taco johns,super potato oles,67,g,60,mg,3300,g,98,g,24,g,21,g,1,g,14,g,3,g
+932,taco johns,super potato oles small,40,g,35,mg,1940,g,59,g,14,g,12,g,0.5,g,9,g,2,g
+933,taco johns,taco bravo beef,13,g,25,mg,640,g,36,g,14,g,4.5,g,0,g,7,g,2,g
+934,taco johns,taco bravo chicken,11,g,40,mg,750,g,35,g,18,g,3.5,g,0,g,0,g,3,g
+935,taco johns,taco bravo sirloin steak,11,g,25,mg,650,g,35,g,16,g,3.5,g,0,g,0,g,2,g
+936,taco johns,taco burger,11,g,30,mg,570,g,28,g,3,g,4,g,0.5,g,2,g,4,g
+937,taco johns,taco salad without dressing beef,33,g,55,mg,920,g,45,g,22,g,13,g,1,g,6,g,6,g
+938,taco johns,taco salad without dressing chicken,27,g,60,mg,980,g,44,g,24,g,11,g,0,g,5,g,7,g
+939,taco johns,taco salad without dressing crunchy chicken,36,g,50,mg,1170,g,58,g,26,g,12,g,0.5,g,5,g,6,g
+940,taco johns,taco salad without dressing sirloin steak,31,g,60,mg,930,g,43,g,24,g,12,g,0,g,5,g,6,g
+941,taco johns,the boss bowl chicken pico de gallo,17,g,80,mg,2380,g,64,g,34,g,7,g,0,g,11,g,7,g
+942,taco johns,the boss bowl chicken roasted corn and pepper salsa,17,g,80,mg,2360,g,65,g,34,g,8,g,0,g,11,g,7,g
+943,taco johns,the boss bowl sirloin steak pico de gallo,20,g,65,mg,2160,g,63,g,30,g,8,g,0,g,10,g,6,g
+944,taco johns,the boss bowl sirloin steak roasted corn and pepper salsa,20,g,65,mg,2240,g,65,g,30,g,9,g,0,g,11,g,6,g
+945,taco johns,the boss burrito chicken pico de gallo,15,g,80,mg,2000,g,48,g,30,g,7,g,0,g,8,g,6,g
+946,taco johns,the boss burrito chicken roasted corn and pepper salsa,15,g,80,mg,1980,g,50,g,31,g,7,g,0,g,8,g,6,g
+947,taco johns,the boss burrito sirloin steak pico de gallo,19,g,65,mg,1870,g,48,g,27,g,8,g,0,g,8,g,5,g
+948,taco johns,the boss burrito sirloin steak roasted corn and pepper salsa,19,g,65,mg,1860,g,49,g,27,g,8,g,0,g,8,g,5,g
+949,taco johns,the taco perfecto beef,12,g,35,mg,450,g,17,g,13,g,6,g,0.5,g,3,g,1,g
+950,taco johns,the taco perfecto chicken,9,g,55,mg,520,g,16,g,18,g,4,g,0,g,1,g,2,g
+951,taco johns,the taco perfecto sirloin steak,10,g,40,mg,460,g,16,g,15,g,4,g,0,g,2,g,1,g
+952,taco johns,tropicana fruit punch kids size,0,g,0,mg,35,g,45,g,0,g,0,g,0,g,0,g,45,g
+953,taco johns,tropicana fruit punch large,0,g,0,mg,125,g,150,g,0,g,0,g,0,g,0,g,150,g
+954,taco johns,tropicana fruit punch medium,0,g,0,mg,95,g,113,g,0,g,0,g,0,g,0,g,113,g
+955,taco johns,tropicana fruit punch small,0,g,0,mg,60,g,75,g,0,g,0,g,0,g,0,g,75,g
+956,taco johns,tropicana lemonade kids size,0,g,0,mg,160,g,41,g,0,g,0,g,0,g,0,g,41,g
+957,taco johns,tropicana lemonade large,0,g,0,mg,530,g,136,g,0,g,0,g,0,g,0,g,136,g
+958,taco johns,tropicana lemonade medium,0,g,0,mg,390,g,102,g,0,g,0,g,0,g,0,g,102,g
+959,taco johns,tropicana lemonade small,0,g,0,mg,260,g,68,g,0,g,0,g,0,g,0,g,68,g
+960,taco johns,tropicana orange juice,0,g,0,mg,20,g,39,g,3,g,0,g,0,g,0,g,34,g
+961,taco johns,tropicana twister orange kids size,0,g,0,mg,35,g,47,g,0,g,0,g,0,g,0,g,45,g
+962,taco johns,tropicana twister orange large,0,g,0,mg,125,g,155,g,0,g,0,g,0,g,0,g,150,g
+963,taco johns,tropicana twister orange medium,0,g,0,mg,95,g,116,g,0,g,0,g,0,g,0,g,113,g
+964,taco johns,tropicana twister orange small,0,g,0,mg,60,g,78,g,0,g,0,g,0,g,0,g,75,g
+965,taco johns,white queso,16,g,50,mg,870,g,4,g,7,g,10,g,0.5,g,0,g,2,g
+966,taco maker,sprite,0,g,0,mg,18,g,19.9,g,0,g,0,g,0,g,0,g,17.6,g
+967,taco maker,expresso coffee,1,g,5,mg,70,g,16,g,2,g,1,g,0,g,0,g,13,g
+968,taco maker,diet coke,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+969,taco maker,sprite zero,0,g,0,mg,6,g,0,g,0,g,0,g,0,g,0,g,0,g
+970,taco maker,hi c fruit punch,0,g,0,mg,11,g,31.9,g,0,g,0,g,0,g,0,g,31.9,g
+971,taco maker,minute maid lemonade,0,g,0,mg,46,g,29.6,g,0,g,0,g,0,g,0,g,28.5,g
+972,taco maker,coca cola classic,0,g,0,mg,0,g,30.4,g,0,g,0,g,0,g,0,g,30.4,g
+973,taco maker,fanta orange juice,0,g,0,mg,10,g,36,g,0,g,0,g,0,g,0,g,36,g
+974,taco maker,bottled orange juice,0,g,0,mg,10,g,30,g,0,g,0,g,0,g,0,g,27,g
+975,taco maker,nestea,0,g,0,mg,6,g,19.5,g,0,g,0,g,0,g,0,g,19.5,g
+976,taco maker,coffee,4,g,15,mg,75,g,9,g,6,g,2,g,0,g,0,g,9,g
+977,taco maker,bottled water,0,g,0,mg,1,g,0,g,0,g,0,g,0,g,0,g,0,g
+978,taco maker,scrambled egg with ham,10,g,18,mg,62,g,40,g,17,g,2,g,0,g,3,g,2,g
+979,taco maker,ham western omelette,14,g,33,mg,329,g,43,g,29,g,5,g,0,g,3,g,4,g
+980,taco maker,maxcriollo omelette,6,g,29,mg,477,g,16,g,25,g,2,g,0,g,0,g,5,g
+981,taco maker,crunchy fries,10,g,0,mg,340,g,19,g,2,g,3,g,0,g,2,g,0,g
+982,taco maker,french toast with syrup,23,g,30,mg,224,g,83,g,37,g,9,g,0,g,2,g,31,g
+983,taco maker,sausage western omelette,22,g,33,mg,84,g,43,g,27,g,8,g,0,g,3,g,4,g
+984,taco maker,bacon western omelette,16,g,25,mg,806,g,19,g,21,g,7,g,0,g,2,g,3,g
+985,taco maker,scrambled egg deluxe with sausage,30,g,45,mg,811,g,99,g,33,g,8,g,0,g,6,g,11,g
+986,taco maker,panchito sandwich with bacon,12,g,37,mg,217,g,50,g,21,g,6,g,0,g,2,g,4,g
+987,taco maker,extra sausage,17,g,30,mg,280,g,1,g,6,g,6,g,0,g,0,g,0,g
+988,taco maker,scrambled egg with sausage,26,g,32,mg,957,g,41,g,18,g,8,g,0,g,3,g,2,g
+989,taco maker,extra ham,1,g,15,mg,385,g,0,g,5,g,0,g,0,g,0,g,0,g
+990,taco maker,scrambled egg deluxe with ham,13,g,27,mg,627,g,74,g,27,g,2,g,0,g,5,g,10,g
+991,taco maker,extra cheese,7,g,22,mg,373,g,1,g,4,g,4,g,0,g,0,g,1,g
+992,taco maker,deluxe complete breakfast,9,g,0,mg,674,g,69,g,16,g,2,g,0,g,0,g,19,g
+993,taco maker,french toast with whipped syrup,26,g,44,mg,224,g,86,g,37,g,11,g,0,g,2,g,33,g
+994,taco maker,extra bacon,3,g,10,mg,150,g,0,g,2,g,2,g,0,g,0,g,0,g
+995,taco maker,pancake,22,g,39,mg,803,g,135,g,17,g,8,g,0,g,3,g,32,g
+996,taco maker,panchito sandwich with ham,8,g,43,mg,521,g,50,g,25,g,3,g,0,g,2,g,4,g
+997,taco maker,scrambled egg deluxe with bacon,16,g,25,mg,681,g,98,g,29,g,4,g,0,g,6,g,11,g
+998,taco maker,egg and cheese burrito,24,g,530,mg,740,g,39,g,23,g,13,g,0,g,3,g,2,g
+999,taco maker,panchito sandwich with sausage,26,g,57,mg,347,g,51,g,25,g,10,g,0,g,2,g,4,g

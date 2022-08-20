@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,chevys fresh mex,crispy taco chicken,11,g,25,mg,350,g,17,g,8,g,2,g,0,g,2,g,2,g
+1,chevys fresh mex,crispy taco beef,13,g,30,mg,200,g,18,g,9,g,3,g,0,g,3,g,2,g
+2,chevys fresh mex,deep fried ice cream,65,g,160,mg,590,g,103,g,14,g,27,g,0,g,2,g,58,g
+3,chevys fresh mex,diet pepsi,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+4,chevys fresh mex,enchilada beef,14,g,50,mg,330,g,17,g,15,g,5,g,0,g,2,g,3,g
+5,chevys fresh mex,enchilada carnitas,13,g,55,mg,490,g,14,g,16,g,5,g,0,g,2,g,1,g
+6,chevys fresh mex,enchilada cheese,27,g,80,mg,550,g,17,g,21,g,14,g,0,g,2,g,1,g
+7,chevys fresh mex,enchilada chicken,11,g,35,mg,470,g,17,g,12,g,4,g,0,g,2,g,2,g
+8,chevys fresh mex,fajita burrito carnitas,51,g,130,mg,3480,g,144,g,59,g,23,g,0,g,18,g,14,g
+9,chevys fresh mex,fajita burrito chicken,46,g,135,mg,3380,g,142,g,67,g,20,g,0,g,17,g,14,g
+10,chevys fresh mex,fajita burrito steak,54,g,130,mg,3320,g,142,g,64,g,24,g,0,g,17,g,14,g
+11,chevys fresh mex,fajita nachos chicken,67,g,215,mg,1940,g,60,g,76,g,29,g,0,g,13,g,3,g
+12,chevys fresh mex,fajita nachos combo,72,g,210,mg,1870,g,60,g,74,g,31,g,0,g,13,g,3,g
+13,chevys fresh mex,fajita nachos steak,77,g,210,mg,1800,g,60,g,72,g,33,g,0,g,13,g,3,g
+14,chevys fresh mex,famous chicken fajitas,37,g,155,mg,3200,g,159,g,76,g,15,g,0,g,18,g,18,g
+15,chevys fresh mex,farmers market dilla,108,g,220,mg,3200,g,104,g,63,g,53,g,0,g,8,g,10,g
+16,chevys fresh mex,farmers market enchiladas,72,g,180,mg,1670,g,101,g,26,g,36,g,0,g,10,g,15,g
+17,chevys fresh mex,flautas,25,g,55,mg,830,g,43,g,19,g,6,g,0,g,4,g,12,g
+18,chevys fresh mex,flavored gelatin,0,g,0,mg,40,g,17,g,1,g,0,g,0,g,0,g,17,g
+19,chevys fresh mex,french fries,1.5,g,0,mg,260,g,31,g,3,g,0,g,0,g,3,g,0,g
+20,chevys fresh mex,fresh fish fajitas,57,g,165,mg,3050,g,164,g,78,g,20,g,0,g,19,g,18,g
+21,chevys fresh mex,fresh fish tacos,27,g,60,mg,2400,g,123,g,44,g,8,g,0,g,14,g,11,g
+22,chevys fresh mex,fresh guac,52,g,0,mg,1140,g,63,g,10,g,7,g,0,g,24,g,4,g
+23,chevys fresh mex,fresh mex rice,0,g,0,mg,510,g,33,g,3,g,0,g,0,g,1,g,2,g
+24,chevys fresh mex,fresh mex rice setup,0,g,0,mg,510,g,33,g,3,g,0,g,0,g,1,g,2,g
+25,chevys fresh mex,fresh mex sampler,129,g,400,mg,4420,g,127,g,111,g,49,g,0,g,10,g,9,g
+26,chevys fresh mex,fresh sliced melon and 1 4 orange,0,g,0,mg,20,g,15,g,1,g,0,g,0,g,2,g,13,g
+27,chevys fresh mex,grande chimichanga beef,83,g,130,mg,3940,g,161,g,69,g,36,g,0,g,29,g,18,g
+28,chevys fresh mex,grande chimichanga chicken,79,g,145,mg,3910,g,157,g,66,g,31,g,0,g,29,g,17,g
+29,chevys fresh mex,grilled veggies,2,g,0,mg,55,g,5,g,1,g,0,g,0,g,2,g,3,g
+30,chevys fresh mex,guacamole,1.5,g,0,mg,55,g,1,g,0,g,0,g,0,g,1,g,0,g
+31,chevys fresh mex,kiddie burger with cheese,13,g,110,mg,570,g,32,g,36,g,1,g,0,g,1,g,4,g
+32,chevys fresh mex,kiddie cheese quesadilla,13,g,50,mg,920,g,45,g,20,g,0,g,0,g,2,g,1,g
+33,chevys fresh mex,kiddie cone,3.5,g,30,mg,170,g,19,g,3,g,0,g,0,g,1,g,6,g
+34,chevys fresh mex,kiddie soft picadillo beef soft taco,5,g,30,mg,700,g,67,g,13,g,0.5,g,0,g,5,g,36,g
+35,chevys fresh mex,kids build your own picadillo soft taco,6,g,45,mg,650,g,25,g,15,g,0.5,g,0,g,2,g,2,g
+36,chevys fresh mex,kids chicken bowl with grilled chicken,9,g,70,mg,1260,g,86,g,28,g,0,g,0,g,5,g,24,g
+37,chevys fresh mex,kids chicken bowl with grilled chicken live well menu,7,g,70,mg,1020,g,89,g,26,g,0,g,0,g,2,g,51,g
+38,chevys fresh mex,kids chicken bowl with salsa chicken,9,g,40,mg,1290,g,88,g,16,g,0,g,0,g,5,g,25,g
+39,chevys fresh mex,kids chicken bowl with salsa chicken live well menu,7,g,40,mg,1040,g,57,g,14,g,0,g,0,g,2,g,25,g
+40,chevys fresh mex,kids fresh mex pizza with grilled chicken,8,g,75,mg,1020,g,51,g,30,g,0,g,0,g,5,g,12,g
+41,chevys fresh mex,kids fresh mex pizza with salsa chicken,8,g,40,mg,1050,g,53,g,17,g,0,g,0,g,5,g,13,g
+42,chevys fresh mex,kids grilled chicken fajitas,1,g,65,mg,390,g,1,g,24,g,0,g,0,g,0,g,1,g
+43,chevys fresh mex,kids grilled chicken fajitas live well menu,1,g,65,mg,460,g,14,g,25,g,0,g,0,g,3,g,9,g
+44,chevys fresh mex,kids grilled steak fajitas,4,g,50,mg,200,g,1,g,21,g,0,g,0,g,0,g,0,g
+45,chevys fresh mex,mar y tierra combo,54,g,215,mg,2670,g,108,g,75,g,20,g,0,g,16,g,10,g
+46,chevys fresh mex,mesquite grilled tacos chicken,28,g,100,mg,2510,g,123,g,55,g,8,g,0,g,14,g,11,g
+47,chevys fresh mex,mesquite grilled tacos steak,38,g,75,mg,2320,g,123,g,51,g,12,g,0,g,14,g,11,g
+48,chevys fresh mex,mesquite grilled veggie burrito,55,g,80,mg,3220,g,164,g,49,g,25,g,0,g,26,g,21,g
+49,chevys fresh mex,mexicampi shrimp fajitas,69,g,405,mg,4730,g,164,g,66,g,31,g,0,g,19,g,17,g
+50,chevys fresh mex,milk,7,g,35,mg,160,g,18,g,12,g,0,g,0,g,0,g,18,g
+51,chevys fresh mex,mix and match chicken and sizzling shrimp,17,g,260,mg,1650,g,15,g,46,g,7,g,0,g,3,g,6,g
+52,chevys fresh mex,mix and match chicken and steak,22,g,120,mg,860,g,13,g,48,g,9,g,0,g,3,g,6,g
+53,chevys fresh mex,mixed baby green salad without dressing,5,g,0,mg,200,g,23,g,4,g,1,g,0,g,4,g,5,g
+54,chevys fresh mex,mixed greens side salad without dressing,5,g,0,mg,200,g,23,g,4,g,1,g,0,g,4,g,5,g
+55,chevys fresh mex,mixed grill fajitas,84,g,380,mg,4830,g,166,g,99,g,36,g,0,g,19,g,19,g
+56,chevys fresh mex,mountain dew,0,g,0,mg,20,g,16,g,0,g,0,g,0,g,0,g,16,g
+57,chevys fresh mex,mug root beer,0,g,0,mg,20,g,15,g,0,g,0,g,0,g,0,g,15,g
+58,chevys fresh mex,nachos grande,106,g,190,mg,2630,g,165,g,70,g,40,g,0,g,22,g,7,g
+59,chevys fresh mex,ooey gooey chewy sundae,60,g,195,mg,630,g,162,g,15,g,32,g,0,g,5,g,126,g
+60,chevys fresh mex,orange juice,0,g,0,mg,5,g,43,g,3,g,0,g,0,g,1,g,31,g
+61,chevys fresh mex,original chicken,13,g,140,mg,870,g,13,g,51,g,5,g,0,g,3,g,6,g
+62,chevys fresh mex,our original cheeseburger,79,g,200,mg,2350,g,140,g,70,g,29,g,0,g,11,g,10,g
+63,chevys fresh mex,pepsi,0,g,0,mg,10,g,14,g,0,g,0,g,0,g,0,g,14,g
+64,chevys fresh mex,pico de gallo,0,g,0,mg,40,g,1,g,0,g,0,g,0,g,0,g,0,g
+65,chevys fresh mex,pineapple juice,0,g,0,mg,15,g,45,g,0,g,0,g,0,g,0,g,36,g
+66,chevys fresh mex,pork tamale,10,g,25,mg,690,g,30,g,10,g,4,g,0,g,2,g,4,g
+67,chevys fresh mex,refried beans,16,g,10,mg,880,g,31,g,15,g,6,g,0,g,11,g,1,g
+68,chevys fresh mex,salsa,0,g,0,mg,380,g,4,g,1,g,0,g,0,g,1,g,2,g
+69,chevys fresh mex,salsa chicken dilla,63,g,155,mg,2330,g,78,g,52,g,29,g,0,g,3,g,3,g
+70,chevys fresh mex,salsa chicken enchilada,11,g,35,mg,470,g,17,g,12,g,4,g,0,g,2,g,2,g
+71,chevys fresh mex,salsa vinaigrette,0,g,0,mg,280,g,12,g,1,g,0,g,0,g,1,g,10,g
+72,chevys fresh mex,santa fe chopped without dressing,39,g,140,mg,1950,g,26,g,52,g,16,g,0,g,8,g,9,g
+73,chevys fresh mex,seasonal veggies fajitas,41,g,15,mg,2090,g,121,g,24,g,18,g,0,g,19,g,18,g
+74,chevys fresh mex,shrimp and crab dilla,116,g,380,mg,3900,g,87,g,80,g,56,g,0,g,4,g,4,g
+75,chevys fresh mex,shrimp and crab enchiladas,80,g,345,mg,2290,g,94,g,45,g,40,g,0,g,7,g,11,g
+76,chevys fresh mex,sierra mist,0,g,0,mg,10,g,13,g,0,g,0,g,0,g,0,g,12,g
+77,chevys fresh mex,sizzling fajita salad carnitas,97,g,145,mg,1620,g,53,g,50,g,26,g,0,g,10,g,26,g
+78,chevys fresh mex,sizzling fajita salad chicken,90,g,150,mg,1480,g,51,g,60,g,23,g,0,g,10,g,25,g
+79,chevys fresh mex,sizzling fajita salad shrimp,97,g,250,mg,2160,g,56,g,47,g,27,g,0,g,10,g,26,g
+80,chevys fresh mex,sizzling fajita salad steak,99,g,125,mg,1290,g,51,g,56,g,27,g,0,g,10,g,25,g
+81,chevys fresh mex,sizzling steak fajitas,52,g,115,mg,2920,g,159,g,69,g,21,g,0,g,18,g,18,g
+82,chevys fresh mex,slow roasted carnitas fajitas,54,g,180,mg,3710,g,164,g,71,g,21,g,0,g,19,g,20,g
+83,chevys fresh mex,smothered burrito beef,72,g,160,mg,4390,g,153,g,67,g,31,g,0,g,22,g,19,g
+84,chevys fresh mex,smothered burrito chicken,67,g,145,mg,4170,g,151,g,65,g,29,g,0,g,21,g,19,g
+85,chevys fresh mex,soft picadillo beef taco,14,g,30,mg,500,g,27,g,11,g,4,g,0,g,2,g,3,g
+86,chevys fresh mex,soft salsa chicken taco,12,g,25,mg,650,g,26,g,10,g,3,g,0,g,2,g,2,g
+87,chevys fresh mex,soft taco carnitas,15,g,45,mg,660,g,26,g,15,g,4.5,g,0,g,2,g,2,g
+88,chevys fresh mex,soft taco chicken,12,g,25,mg,650,g,26,g,10,g,3,g,0,g,2,g,2,g
+89,chevys fresh mex,soft taco beef,14,g,30,mg,500,g,27,g,11,g,4,g,0,g,2,g,3,g
+90,chevys fresh mex,sour cream,2.5,g,5,mg,10,g,0,g,0,g,1.5,g,0,g,0,g,0,g
+91,chevys fresh mex,steak fajitas dilla,71,g,200,mg,2080,g,75,g,68,g,32,g,0,g,2,g,2,g
+92,chevys fresh mex,sweet corn tamalito,1,g,0,mg,15,g,5,g,0,g,0,g,0,g,0,g,1,g
+93,chevys fresh mex,tamalito,7,g,0,mg,80,g,29,g,3,g,3,g,0,g,1,g,8,g
+94,chevys fresh mex,taste of chevys,68,g,160,mg,3200,g,155,g,62,g,25,g,0,g,19,g,15,g
+95,chevys fresh mex,tortilla chips,20,g,0,mg,0,g,56,g,5,g,3,g,0,g,4,g,1,g
+96,chevys fresh mex,tostada salad without dressing carnitas,98,g,215,mg,2550,g,93,g,73,g,37,g,0,g,17,g,7,g
+97,chevys fresh mex,tostada salad without dressing chicken,91,g,225,mg,2410,g,91,g,84,g,34,g,0,g,17,g,6,g
+98,chevys fresh mex,tostada salad without dressing steak,100,g,200,mg,2220,g,91,g,79,g,38,g,0,g,17,g,6,g
+99,chick fil a,diet lemonade medium,0,g,0,mg,10,g,14,g,0,g,0,g,0,g,0,g,10,g
+100,chick fil a,sweetened iced tea medium,0,g,0,mg,10,g,31,g,0,g,0,g,0,g,0,g,31,g
+101,chick fil a,frosted coffee small,5,g,20,mg,140,g,41,g,6,g,3.5,g,0,g,3,g,27,g
+102,chick fil a,cold brewed iced coffee small,2.5,g,10,mg,70,g,25,g,5,g,1.5,g,0,g,0,g,24,g
+103,chick fil a,frosted diet lemonade small,6,g,20,mg,140,g,44,g,6,g,3.5,g,0,g,3,g,31,g
+104,chick fil a,sweetened iced tea large,0,g,0,mg,10,g,43,g,0,g,0,g,0,g,0,g,43,g
+105,chick fil a,frosted lemonade small,6,g,20,mg,140,g,64,g,6,g,3.5,g,0,g,3,g,51,g
+106,chick fil a,diet lemonade large,0,g,0,mg,15,g,21,g,0,g,0,g,0,g,0,g,15,g
+107,chick fil a,unsweetened iced tea,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+108,chick fil a,cold brewed vanilla iced coffee small,2.5,g,10,mg,70,g,30,g,5,g,1.5,g,0,g,0,g,27,g
+109,chick fil a,frosted lemonade large,7,g,25,mg,180,g,80,g,7,g,4.5,g,0,g,4,g,64,g
+110,chick fil a,frosted diet lemonade large,7,g,25,mg,180,g,55,g,7,g,4.5,g,0,g,4,g,39,g
+111,chick fil a,frosted coffee large,7,g,25,mg,180,g,51,g,8,g,4.5,g,0,g,4,g,34,g
+112,chick fil a,diet lemonade small,0,g,0,mg,5,g,8,g,0,g,0,g,0,g,0,g,6,g
+113,chick fil a,cold brewed vanilla iced coffee large,3,g,10,mg,85,g,38,g,6,g,2,g,0,g,0,g,35,g
+114,chick fil a,sweetened iced tea small,0,g,0,mg,5,g,19,g,0,g,0,g,0,g,0,g,19,g
+115,chick fil a,1 chocolate milk,2.5,g,10,mg,170,g,25,g,7,g,2,g,0,g,1,g,23,g
+116,chick fil a,milk 1,2,g,10,mg,105,g,10,g,7,g,1.5,g,0,g,0,g,10,g
+117,chick fil a,cold brewed iced coffee large,3,g,10,mg,85,g,33,g,6,g,2,g,0,g,0,g,31,g
+118,chick fil a,chick n minis 4 pieces,13,g,60,mg,1050,g,41,g,19,g,4,g,0,g,2,g,8,g
+119,chick fil a,greek yogurt parfait with granola,9,g,20,mg,80,g,36,g,13,g,3.5,g,0,g,1,g,26,g
+120,chick fil a,hash browns,18,g,0,mg,440,g,23,g,3,g,2.5,g,0,g,3,g,0,g
+121,chick fil a,hash brown scramble bowl with chicken nuggets without hash browns,16,g,415,mg,840,g,1,g,28,g,7,g,0,g,0,g,1,g
+122,chick fil a,chicken biscuit,23,g,45,mg,1510,g,45,g,19,g,8,g,0,g,2,g,6,g
+123,chick fil a,egg white grill,8,g,60,mg,980,g,30,g,26,g,3.5,g,0,g,1,g,2,g
+124,chick fil a,fruit cup medium,0,g,0,mg,0,g,15,g,1,g,0,g,0,g,2,g,11,g
+125,chick fil a,greek yogurt parfait with cookie crumbs,8,g,20,mg,85,g,33,g,12,g,3.5,g,0,g,1,g,26,g
+126,chick fil a,sausage egg and cheese biscuit,42,g,205,mg,1510,g,38,g,22,g,18,g,0,g,2,g,4,g
+127,chick fil a,hash brown scramble bowl with grilled chicken filet without hash browns,15,g,370,mg,870,g,2,g,28,g,6,g,0,g,1,g,1,g
+128,chick fil a,bacon egg and cheese biscuit,23,g,180,mg,1290,g,38,g,15,g,11,g,0,g,2,g,4,g
+129,chick fil a,hash brown scramble bowl with sausage,37,g,395,mg,1020,g,15,g,23,g,12,g,0,g,2,g,1,g
+130,chick fil a,fruit cup small,0,g,0,mg,0,g,13,g,1,g,0,g,0,g,2,g,9,g
+131,chick fil a,hash brown scramble bowl with grilled chicken filet,26,g,415,mg,1190,g,15,g,30,g,8,g,0,g,2,g,2,g
+132,chick fil a,hash brown scrambled burrito with grilled chicken without hash browns,25,g,415,mg,1370,g,34,g,34,g,10,g,0.5,g,2,g,2,g
+133,chick fil a,hash brown scramble bowl with sausage without hash browns,26,g,395,mg,650,g,1,g,21,g,11,g,0,g,0,g,0,g
+134,chick fil a,buttered biscuit,15,g,0,mg,760,g,37,g,4,g,6,g,0,g,2,g,4,g
+135,chick fil a,hash brown scrambled burrito with grilled chicken filet,36,g,415,mg,1620,g,46,g,35,g,12,g,0.5,g,3,g,2,g
+136,chick fil a,chicken egg and cheese on sunflower multigrain bagel,18,g,190,mg,1240,g,49,g,26,g,6,g,0,g,3,g,8,g
+137,chick fil a,bacon egg and cheese english muffin,14,g,180,mg,810,g,29,g,16,g,6,g,0,g,1,g,2,g
+138,chick fil a,sausage egg and cheese english muffin,33,g,205,mg,1030,g,30,g,23,g,12,g,0,g,1,g,2,g
+139,chick fil a,hash brown scrambled burrito with chicken nuggets,38,g,365,mg,1600,g,52,g,35,g,12,g,0.5,g,5,g,2,g
+140,chick fil a,sunflower multigrain bagel with cream cheese,10,g,20,mg,460,g,43,g,8,g,4.5,g,0,g,3,g,8,g
+141,chick fil a,hash brown scrambled burrito with sausage without hash browns,36,g,395,mg,1080,g,32,g,26,g,14,g,0.5,g,1,g,1,g
+142,chick fil a,hash brown scrambled burrito with chicken nuggets without hash browns,30,g,415,mg,1500,g,38,g,33,g,11,g,0.5,g,2,g,2,g
+143,chick fil a,hash brown scramble bowl with chicken nuggets,30,g,415,mg,1340,g,19,g,29,g,9,g,0,g,2,g,2,g
+144,chick fil a,hash brown scrambled burrito with sausage,40,g,415,mg,1750,g,51,g,34,g,12,g,0.5,g,3,g,2,g
+145,chick fil a,sunflower multigrain bagel without cream cheese,3,g,0,mg,340,g,42,g,6,g,0,g,0,g,3,g,6,g
+146,chick fil a,grilled chicken nuggets without dipping sauce,1.9,g,53,mg,273,g,0.6,g,15.5,g,0.3,g,0,g,0,g,0.6,g
+147,chick fil a,chick fil a chicken nuggets without dipping sauce,7,g,50,mg,760,g,7,g,17,g,1.5,g,0,g,0,g,1,g
+148,chick fil a,chick n strips without dipping sauce,9.4,g,50,mg,582,g,10.7,g,19.4,g,1.7,g,0,g,0,g,1.3,g
+149,chick fil a,icedream cup without toppings,7,g,25,mg,200,g,50,g,8,g,4.5,g,0,g,0,g,49,g
+150,chick fil a,chocolate milkshake small,22,g,80,mg,380,g,87,g,12,g,13,g,0,g,4,g,73,g
+151,chick fil a,cookies and cream milkshake small,25,g,80,mg,440,g,85,g,12,g,14,g,0,g,4,g,67,g
+152,chick fil a,chocolate chunk cookie,16,g,20,mg,210,g,49,g,4,g,9,g,0,g,2,g,30,g
+153,chick fil a,vanilla milkshake small,22,g,80,mg,370,g,72,g,12,g,13,g,0,g,3,g,59,g
+154,chick fil a,strawberry milkshake small,22,g,80,mg,420,g,94,g,12,g,13,g,0,g,4,g,79,g
+155,chick fil a,icedream cone small without topping,3.5,g,15,mg,100,g,30,g,4,g,2.5,g,0,g,2,g,17,g
+156,chick fil a,chocolate milkshake large,26,g,95,mg,470,g,114,g,15,g,16,g,0,g,5,g,95,g
+157,chick fil a,cookies and cream milkshake large,31,g,95,mg,570,g,111,g,16,g,17,g,0.5,g,5,g,86,g
+158,chick fil a,vanilla milkshake large,26,g,95,mg,460,g,91,g,15,g,16,g,0,g,4,g,74,g
+159,chick fil a,strawberry milkshake large,26,g,95,mg,540,g,125,g,15,g,16,g,0,g,5,g,103,g
+160,chick fil a,icedream cone large without topping,6,g,20,mg,150,g,43,g,6,g,3.5,g,0,g,3,g,27,g
+161,chick fil a,kids chicken nuggets meal 6 pieces with fruit cup and milk,9,g,55,mg,750,g,26,g,21,g,2,g,0,g,3,g,17,g
+162,chick fil a,kids chick n strips meal 2 pieces with fruit cup and milk,12,g,45,mg,640,g,34,g,19,g,2,g,0,g,3,g,18,g
+163,chick fil a,kids chicken nuggets meal 4 pieces with fruit cup and milk,6,g,40,mg,500,g,24,g,14,g,1.5,g,0,g,2,g,17,g
+164,chick fil a,kids grilled nuggets 4 pieces with fruit cup and milk,3,g,50,mg,350,g,21,g,19,g,1,g,0,g,2,g,17,g
+165,chick fil a,kids icedream cone,2.5,g,10,mg,80,g,23,g,3,g,1.5,g,0,g,0,g,17,g
+166,chick fil a,kids 1 chocolate milk,2.5,g,10,mg,170,g,25,g,7,g,2,g,0,g,1,g,23,g
+167,chick fil a,kids chick n strip meal 1 piece with fruit cup and milk,6,g,25,mg,330,g,27,g,10,g,1,g,0,g,2,g,17,g
+168,chick fil a,kids 1 milk,2,g,10,mg,105,g,10,g,7,g,1.5,g,0,g,0,g,10,g
+169,chick fil a,italian grinder large chicago thick crust pizza,29,g,64,mg,1356,g,45,g,26,g,11,g,0,g,2.7,g,3.7,g
+170,chick fil a,cobb salad with grilled chick n stips without dressing,32,g,150,mg,1340,g,40,g,40,g,8,g,0,g,5,g,8,g
+171,chick fil a,zesty apple cider vinaigrette,19,g,0,mg,460,g,16,g,0,g,3,g,0,g,0,g,14,g
+172,chick fil a,light balsamic vinaigrette dressing,4,g,0,mg,360,g,10,g,0,g,0.5,g,0,g,0,g,9,g
+173,chick fil a,fat free honey mustard dressing,0,g,0,mg,330,g,23,g,0,g,0,g,0,g,0,g,19,g
+174,chick fil a,creamy salsa dressing,31,g,25,mg,630,g,3,g,1,g,5,g,0,g,0,g,1,g
+175,chick fil a,light italian dressing,1,g,0,mg,470,g,3,g,0,g,0,g,0,g,0,g,2,g
+176,chick fil a,garlic and herb ranch dressing,29,g,25,mg,460,g,2,g,1,g,5,g,0,g,0,g,1,g
+177,chick fil a,chili lime vinaigrette dressing,3,g,0,mg,380,g,10,g,0,g,0,g,0,g,0,g,7,g
+178,chick fil a,honey sesame dressing,12,g,0,mg,610,g,16,g,1,g,1.5,g,0,g,0,g,14,g
+179,chick fil a,cobb salad with chicken nuggets without dressing,27,g,160,mg,1380,g,28,g,40,g,8,g,0,g,6,g,6,g
+180,chick fil a,grilled market salad with grilled chicken filet without dressing,14,g,60,mg,700,g,27,g,28,g,3.5,g,0,g,5,g,13,g
+181,chick fil a,spicy southwest salad with spicy grilled chicken filet without dressing,19,g,75,mg,1070,g,36,g,34,g,5,g,0,g,9,g,7,g
+182,chick fil a,cobb salad with grilled chicken nuggets without dressing,19,g,150,mg,850,g,20,g,37,g,6,g,0,g,4,g,5,g
+183,chick fil a,spicy southwest salad with grilled chicken nuggets without dressing,21,g,70,mg,750,g,37,g,35,g,6,g,0,g,8,g,7,g
+184,chick fil a,cobb salad without meat or dressing,15,g,80,mg,400,g,18,g,12,g,5,g,0,g,4,g,5,g
+185,chick fil a,cobb salad with grilled chicken filet without dressing,19,g,150,mg,850,g,20,g,37,g,6,g,0,g,4,g,5,g
+186,chick fil a,spicy southwest salad with grilled chicken filet without dressing,20,g,70,mg,750,g,37,g,35,g,4,g,0,g,9,g,8,g
+187,chick fil a,grilled market salad without meat or dressing,11,g,5,mg,150,g,25,g,6,g,2,g,0,g,5,g,13,g
+188,chick fil a,cobb salad with spicy grilled chicken filet without dressing,18,g,155,mg,1270,g,19,g,35,g,6,g,0,g,5,g,6,g
+189,chick fil a,lemon kale caesar salad with grilled chicken nuggets without dressing,24,g,130,mg,1290,g,22,g,43,g,6.5,g,0,g,4,g,8,g
+190,chick fil a,spicy southwest salad without meat or dressing,17,g,15,mg,220,g,35,g,14,g,4.5,g,0,g,8,g,7,g
+191,chick fil a,lemon kale caesar salad wiithout dressing,20,g,20,mg,710,g,20,g,10,g,5.5,g,0,g,4,g,7,g
+192,chick fil a,lemon kale caesar salad with grilled chicken filet without dressing,22,g,90,mg,1090,g,22,g,31,g,6,g,0,g,4,g,8,g
+193,chick fil a,grilled market salad with grilled chicken filet without dressing,14,g,60,mg,700,g,27,g,28,g,3.5,g,0,g,5,g,13,g
+194,chick fil a,grilled market salad with grilled chicken nuggets without dressing,14,g,75,mg,590,g,27,g,32,g,3.5,g,0,g,5,g,13,g
+195,chick fil a,lemon kale caesar salad with chick fil a filet without dressing,32,g,90,mg,1830,g,33,g,34,g,8,g,0,g,4,g,9,g
+196,chick fil a,spicy southwest salad with chicken nuggets without dressing,29,g,90,mg,1200,g,44,g,41,g,4,g,0,g,10,g,8,g
+197,chick fil a,grilled market salad with spicy grilled chicken filet without dressing,14,g,80,mg,1020,g,26,g,30,g,3,g,0,g,6,g,14,g
+198,chick fil a,grilled market salad with chicken nuggets without dressing,23,g,85,mg,1130,g,35,g,34,g,4.5,g,0,g,6,g,13,g
+199,chick fil a,spicy southwest salad with chick n strips without dressing,34,g,80,mg,1160,g,57,g,42,g,8,g,0,g,9,g,10,g
+200,chick fil a,grilled market salad with chick n strips without dressing,28,g,75,mg,1090,g,47,g,34,g,5,g,0,g,6,g,16,g
+201,chick fil a,lemon kale caesar salad with warm grilled fillet without dressing,22,g,90,mg,1080,g,22,g,30,g,6,g,0,g,4,g,8,g
+202,chick fil a,lemon kale caesar salad with chicken nuggets without dressing,32,g,100,mg,1920,g,31,g,36,g,8,g,0,g,4,g,8,g
+203,chick fil a,lemon kale caesar salad with chick n strips without dressing,34,g,95,mg,1580,g,36,g,39,g,8,g,0,g,4,g,9,g
+204,chick fil a,lemon kale caesar salad with spicy chicken filet without dressing,34,g,85,mg,2100,g,36,g,33,g,8,g,0,g,4,g,9,g
+205,chick fil a,lemon kale caesar salad with spicy grilled nuggets without dressing,23,g,85,mg,1440,g,22,g,29,g,6,g,0,g,4,g,8,g
+206,chick fil a,english muffin,2,g,0,mg,220,g,29,g,5,g,0,g,0,g,0,g,1,g
+207,chick fil a,chicken sandwich,17,g,70,mg,1400,g,41,g,29,g,4,g,0,g,1,g,6,g
+208,chick fil a,spicy chicken sandwich,19,g,65,mg,1670,g,45,g,28,g,4,g,0,g,2,g,6,g
+209,chick fil a,grilled chicken cool wrap without dressing,13,g,85,mg,900,g,29,g,42,g,4,g,0,g,13,g,2,g
+210,chick fil a,grilled chicken sandwich,4.8,g,55,mg,539,g,32.5,g,22.2,g,0.8,g,0,g,3.2,g,7.1,g
+211,chick fil a,grilled chicken club sandwich with colby jack cheese,22,g,105,mg,1115,g,44,g,37,g,8,g,0,g,4,g,11,g
+212,chick fil a,spicy deluxe chicken sandwich with pepper jack cheese,25,g,85,mg,1810,g,47,g,33,g,8,g,0,g,3,g,7,g
+213,chick fil a,chicken deluxe sandwich with american cheese,22,g,85,mg,1640,g,44,g,32,g,7,g,0,g,2,g,7,g
+214,chick fil a,spicy deluxe chicken sandwich without cheese,19,g,65,mg,1670,g,47,g,29,g,4.5,g,0,g,2,g,7,g
+215,chick fil a,grilled chicken club sandwich without cheese,15,g,85,mg,965,g,44,g,33,g,3.5,g,0,g,4,g,11,g
+216,chick fil a,spicy chicken deluxe sandwich with colby jack cheese,25,g,85,mg,1820,g,47,g,34,g,8,g,0,g,3,g,7,g
+217,chick fil a,spicy deluxe chicken sandwich with american cheese,23,g,80,mg,1910,g,47,g,31,g,7,g,0,g,3,g,7,g
+218,chick fil a,grilled chicken club sandwich with american cheese,19,g,100,mg,1235,g,45,g,35,g,6,g,0,g,4,g,11,g
+219,chick fil a,chicken deluxe sandwich with pepper jack cheese,24,g,90,mg,1550,g,44,g,34,g,8,g,0,g,2,g,7,g
+220,chick fil a,chicken deluxe sandwich without cheese,17,g,70,mg,1410,g,43,g,30,g,4,g,0,g,2,g,7,g
+221,chick fil a,grilled chicken club sandwich with pepper jack cheese,21,g,105,mg,1105,g,44,g,37,g,7,g,0,g,4,g,11,g
+222,chick fil a,chicken deluxe sandwich with colby jack cheese,24,g,90,mg,1550,g,44,g,35,g,8,g,0,g,2,g,7,g
+223,chick fil a,chick fil a sauce,13,g,10,mg,180,g,6,g,0,g,2,g,0,g,0,g,6,g
+224,chick fil a,zesty buffalo sauce,2.5,g,5,mg,390,g,0,g,0,g,0,g,0,g,0,g,0,g
+225,chick fil a,garlic and herb ranch sauce,14,g,15,mg,230,g,1,g,0,g,2.5,g,0,g,0,g,1,g
+226,chick fil a,honey roasted bbq sauce,5,g,5,mg,75,g,3,g,0,g,1,g,0,g,0,g,2,g
+227,chick fil a,honey mustard sauce,0,g,0,mg,150,g,11,g,0,g,0,g,0,g,0,g,10,g
+228,chick fil a,barbecue sauce,0,g,0,mg,190,g,10,g,0,g,0,g,0,g,0,g,9,g
+229,chick fil a,sweet and spicy sriracha sauce,0,g,0,mg,380,g,10,g,0,g,0,g,0,g,0,g,10,g
+230,chick fil a,waffle potato fries medium,18,g,0,mg,280,g,43,g,5,g,2,g,0,g,5,g,0,g
+231,chick fil a,waffle potato fries small,14,g,0,mg,220,g,33,g,4,g,1.5,g,0,g,4,g,0,g
+232,chick fil a,waffle potato fries large,24,g,0,mg,370,g,56,g,6,g,2.5,g,0,g,7,g,0,g
+233,chick fil a,side salad,11,g,15,mg,180,g,12,g,6,g,3.5,g,0,g,3,g,3,g
+234,chick fil a,mac and cheese medium,27,g,65,mg,1200,g,29,g,19,g,15,g,0,g,8,g,3,g
+235,chick fil a,mac and cheese small,16,g,40,mg,720,g,17,g,11,g,9,g,0,g,5,g,2,g
+236,chick fil a,chicken salad,24,g,120,mg,1040,g,8,g,26,g,4,g,0,g,1,g,5,g
+237,chick fil a,cole slaw,27,g,20,mg,240,g,17,g,2,g,4,g,0,g,3,g,14,g
+238,chick fil a,superfood salad with dressing large,9,g,0,mg,220,g,24,g,4,g,1,g,0,g,3,g,17,g
+239,chick fil a,superfood side salad with dressing small,8,g,0,mg,160,g,16,g,4,g,1,g,0,g,3,g,11,g
+240,chick fil a,waffle chips,13,g,0,mg,250,g,25,g,3,g,3.5,g,0,g,2,g,0,g
+241,chick fil a,cornbread,16,g,80,mg,800,g,50,g,9,g,3,g,0,g,1,g,8,g
+242,chick fil a,chicken noodle soup large,6,g,70,mg,1920,g,29,g,18,g,2.5,g,0,g,3,g,2,g
+243,chick fil a,chicken tortilla soup small,10,g,45,mg,1050,g,37,g,23,g,6,g,0,g,17,g,4,g
+244,chick fil a,chicken nood soup small,3.5,g,35,mg,990,g,15,g,9,g,1,g,0,g,2,g,1,g
+245,chick fil a,chicken tortilla soup large,17,g,95,mg,2090,g,69,g,47,g,6,g,0,g,33,g,7,g
+246,chick fil a,1 chocolate milk,2,g,10,mg,160,g,23,g,7,g,1.5,g,0,g,0,g,21,g
+247,chick fil a,1 chocolate milk catering,2,g,10,mg,160,g,23,g,7,g,1.5,g,0,g,0,g,21,g
+248,chick fil a,1 white milk,2,g,10,mg,105,g,10,g,7,g,1.5,g,0,g,0,g,10,g
+249,chick fil a,1 white milk catering,2,g,10,mg,105,g,10,g,7,g,1.5,g,0,g,0,g,10,g
+250,chick fil a,american cheese sandwich topping,4.5,g,15,mg,230,g,1,g,3,g,2.5,g,0,g,0,g,0,g
+251,chick fil a,avocado lime ranch dressing,32,g,25,mg,520,g,3,g,1,g,5,g,0,g,0,g,2,g
+252,chick fil a,bacon egg and cheese biscuit,23,g,180,mg,1290,g,38,g,15,g,11,g,0,g,2,g,4,g
+253,chick fil a,bacon egg and cheese muffin,14,g,180,mg,800,g,29,g,16,g,6,g,0,g,1,g,2,g
+254,chick fil a,bacon protein only,3.5,g,10,mg,210,g,0,g,4,g,1.5,g,0,g,0,g,0,g
+255,chick fil a,bacon sandwich topping,3.5,g,10,mg,210,g,0,g,4,g,1.5,g,0,g,0,g,0,g
+256,chick fil a,barbecue sauce,0,g,0,mg,200,g,11,g,0,g,0,g,0,g,0,g,9,g
+257,chick fil a,barbeque sauce 8 oz catering,0,g,0,mg,1560,g,88,g,2,g,0,g,0,g,0,g,71,g
+258,chick fil a,buddy fruits apple sauce side,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,1,g,8,g
+259,chick fil a,buttered biscuit,15,g,0,mg,760,g,37,g,4,g,6,g,0,g,2,g,4,g
+260,chick fil a,catering coffee catering,0.5,g,0,mg,55,g,0,g,3,g,0,g,0,g,0,g,0,g
+261,chick fil a,chick fil a breakfast filet protein only,8,g,45,mg,750,g,8,g,15,g,1.5,g,0,g,0,g,2,g
+262,chick fil a,chick fil a chicken biscuit,23,g,45,mg,1510,g,45,g,19,g,8,g,0,g,2,g,6,g
+263,chick fil a,chick fil a chicken sandwich,17,g,70,mg,1400,g,41,g,29,g,4,g,0,g,1,g,6,g
+264,chick fil a,chick fil a chicken sandwich catering,17,g,70,mg,1400,g,41,g,29,g,4,g,0,g,1,g,6,g
+265,chick fil a,chick fil a deluxe sandwich with american,22,g,85,mg,1640,g,44,g,32,g,7,g,0,g,2,g,7,g
+266,chick fil a,chick fil a deluxe sandwich with colby jack,24,g,90,mg,1550,g,44,g,35,g,8,g,0,g,2,g,7,g
+267,chick fil a,chick fil a deluxe sandwich with pepper jack,24,g,90,mg,1550,g,44,g,34,g,8,g,0,g,2,g,7,g
+268,chick fil a,chick fil a deluxe sandwich without cheese,17,g,70,mg,1410,g,43,g,30,g,4,g,0,g,2,g,7,g
+269,chick fil a,chick fil a diet lemonade gallon,2,g,0,mg,95,g,126,g,3,g,0,g,0,g,2,g,91,g
+270,chick fil a,chick fil a diet lemonade gallon catering,2,g,0,mg,95,g,126,g,3,g,0,g,0,g,2,g,91,g
+271,chick fil a,chick fil a diet lemonade large,0,g,0,mg,15,g,21,g,0,g,0,g,0,g,0,g,15,g
+272,chick fil a,chick fil a diet lemonade medium,0,g,0,mg,10,g,14,g,0,g,0,g,0,g,0,g,10,g
+273,chick fil a,chick fil a diet lemonade small,0,g,0,mg,5,g,8,g,0,g,0,g,0,g,0,g,6,g
+274,chick fil a,chick fil a filet protein only,12,g,70,mg,1120,g,12,g,24,g,2.5,g,0,g,0,g,1,g
+275,chick fil a,chick fil a lemonade gallon,1.5,g,0,mg,95,g,549,g,2,g,0,g,0,g,2,g,517,g
+276,chick fil a,chick fil a lemonade gallon catering,1.5,g,0,mg,95,g,549,g,2,g,0,g,0,g,2,g,517,g
+277,chick fil a,chick fil a lemonade large,0,g,0,mg,15,g,78,g,0,g,0,g,0,g,0,g,74,g
+278,chick fil a,chick fil a lemonade medium,0,g,0,mg,10,g,58,g,0,g,0,g,0,g,0,g,55,g
+279,chick fil a,chick fil a lemonade small,0,g,0,mg,5,g,33,g,0,g,0,g,0,g,0,g,31,g
+280,chick fil a,chick fil a nuggets 12 count,17,g,125,mg,1820,g,16,g,40,g,3.5,g,0,g,0,g,1,g
+281,chick fil a,chick fil a nuggets 12 count catering,17,g,125,mg,1820,g,16,g,40,g,3.5,g,0,g,0,g,1,g
+282,chick fil a,chick fil a nuggets 30 count,46,g,285,mg,3660,g,35,g,103,g,9,g,0,g,4,g,1,g
+283,chick fil a,chick fil a nuggets 4 count,6,g,40,mg,610,g,5,g,13,g,1,g,0,g,0,g,0,g
+284,chick fil a,chick fil a nuggets 4 count catering,6,g,40,mg,610,g,5,g,13,g,1,g,0,g,0,g,0,g
+285,chick fil a,chick fil a nuggets 6 count,9,g,65,mg,910,g,8,g,20,g,2,g,0,g,0,g,1,g
+286,chick fil a,chick fil a nuggets 6 count catering,9,g,65,mg,910,g,8,g,20,g,2,g,0,g,0,g,1,g
+287,chick fil a,chick fil a nuggets 8 count,11,g,85,mg,1210,g,11,g,27,g,2.5,g,0,g,0,g,1,g
+288,chick fil a,chick fil a nuggets 8 count catering,11,g,85,mg,1210,g,11,g,27,g,2.5,g,0,g,0,g,1,g
+289,chick fil a,chick fil a sauce,13,g,10,mg,170,g,6,g,0,g,2,g,0,g,0,g,6,g
+290,chick fil a,chick fil a sauce 8 oz catering,103,g,70,mg,1390,g,50,g,2,g,17,g,1.5,g,0,g,47,g
+291,chick fil a,chick fil a waffle potato fries large side,32,g,0,mg,320,g,60,g,7,g,5,g,0,g,6,g,1,g
+292,chick fil a,chick fil a waffle potato fries medium side,24,g,0,mg,240,g,45,g,5,g,4,g,0,g,5,g,1,g
+293,chick fil a,chick fil a waffle potato fries small side,19,g,0,mg,190,g,35,g,4,g,3,g,0,g,4,g,1,g
+294,chick fil a,chick n minis,13,g,60,mg,1050,g,41,g,19,g,4,g,0,g,2,g,8,g
+295,chick fil a,chick n strips 1 count,4.5,g,25,mg,290,g,5,g,10,g,1,g,0,g,0,g,1,g
+296,chick fil a,chick n strips 2 count,9,g,50,mg,580,g,11,g,19,g,2,g,0,g,0,g,1,g
+297,chick fil a,chick n strips 3 count,14,g,75,mg,870,g,16,g,29,g,2.5,g,0,g,0,g,2,g
+298,chick fil a,chick n strips 4 count,19,g,100,mg,1150,g,22,g,39,g,3.5,g,0,g,0,g,2,g
+299,chick fil a,chicken noodle soup bowl side,5,g,55,mg,1880,g,29,g,16,g,2,g,0,g,3,g,2,g
+300,chick fil a,chicken noodle soup cup side,3,g,30,mg,1040,g,16,g,9,g,1,g,0,g,1,g,1,g
+301,chick fil a,chicken egg and cheese bagel,20,g,215,mg,1470,g,50,g,29,g,6,g,0,g,3,g,9,g
+302,chick fil a,chili lime pepitas salad topping,7,g,0,mg,50,g,2,g,4,g,1,g,0,g,0,g,0,g
+303,chick fil a,chilled chick fil a nuggets tray per nugget large,1.5,g,10,mg,150,g,1,g,3,g,0,g,0,g,0,g,0,g
+304,chick fil a,chilled chick fil a nuggets tray per nugget medium,1.5,g,10,mg,150,g,1,g,3,g,0,g,0,g,0,g,0,g
+305,chick fil a,chilled chick fil a nuggets tray per nugget small,1.5,g,10,mg,150,g,1,g,3,g,0,g,0,g,0,g,0,g
+306,chick fil a,chilled chick n strips tray per chick n strip large,5,g,25,mg,300,g,6,g,10,g,1,g,0,g,0,g,1,g
+307,chick fil a,chilled chick n strips tray per chick n strip medium,5,g,25,mg,300,g,6,g,10,g,1,g,0,g,0,g,1,g
+308,chick fil a,chilled chick n strips tray per chick n strip small,5,g,25,mg,300,g,6,g,10,g,1,g,0,g,0,g,1,g
+309,chick fil a,chilled grilled chicken sub sandwich catering,12,g,90,mg,840,g,47,g,35,g,5,g,0,g,4,g,10,g
+310,chick fil a,chilled grilled chicken sub sandwich tray per half sandwich large,6,g,50,mg,450,g,24,g,18,g,2.5,g,0,g,2,g,5,g
+311,chick fil a,chilled grilled chicken sub sandwich tray per half sandwich medium,6,g,50,mg,450,g,24,g,18,g,2.5,g,0,g,2,g,5,g
+312,chick fil a,chilled grilled chicken sub sandwich tray per half sandwich small,6,g,50,mg,450,g,24,g,18,g,2.5,g,0,g,2,g,5,g
+313,chick fil a,chocolate chunk cookie,16,g,20,mg,210,g,49,g,4,g,9,g,0,g,2,g,30,g
+314,chick fil a,chocolate chunk cookie tray per cookie large,16,g,20,mg,210,g,49,g,4,g,9,g,0,g,2,g,30,g
+315,chick fil a,chocolate chunk cookie tray per cookie small,16,g,20,mg,210,g,49,g,4,g,9,g,0,g,2,g,30,g
+316,chick fil a,chocolate milkshake large,26,g,95,mg,470,g,114,g,15,g,16,g,0,g,5,g,95,g
+317,chick fil a,chocolate milkshake small,22,g,80,mg,380,g,87,g,12,g,13,g,0,g,4,g,73,g
+318,chick fil a,cobb salad with chick n strips,31,g,205,mg,1350,g,37,g,44,g,8,g,0,g,4,g,8,g
+319,chick fil a,cobb salad with grilled filet cold,19,g,200,mg,860,g,22,g,36,g,6,g,0,g,4,g,7,g
+320,chick fil a,cobb salad with grilled filet warm,19,g,200,mg,860,g,22,g,36,g,6,g,0,g,4,g,7,g
+321,chick fil a,cobb salad with grilled nuggets,20,g,195,mg,900,g,22,g,35,g,6,g,0,g,5,g,7,g
+322,chick fil a,cobb salad with nuggets,29,g,210,mg,1700,g,31,g,41,g,8,g,0,g,4,g,7,g
+323,chick fil a,cobb salad with spicy grilled filet,19,g,195,mg,1250,g,22,g,35,g,6,g,0,g,5,g,7,g
+324,chick fil a,cobb salad without chicken,17,g,130,mg,490,g,20,g,15,g,6,g,0,g,4,g,7,g
+325,chick fil a,coca cola large,0,g,0,mg,100,g,86,g,0,g,0,g,0,g,0,g,86,g
+326,chick fil a,coca cola medium,0,g,0,mg,60,g,54,g,0,g,0,g,0,g,0,g,54,g
+327,chick fil a,coca cola small,0,g,0,mg,40,g,36,g,0,g,0,g,0,g,0,g,36,g
+328,chick fil a,coffee,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+329,chick fil a,coffee large,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+330,chick fil a,coffee small,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+331,chick fil a,colby jack cheese sandwich topping,7,g,20,mg,140,g,0,g,5,g,4,g,0,g,0,g,0,g
+332,chick fil a,cookies and cream milkshake large,31,g,95,mg,570,g,111,g,16,g,17,g,0.5,g,5,g,86,g
+333,chick fil a,cookies and cream milkshake small,25,g,80,mg,440,g,85,g,12,g,14,g,0,g,3,g,67,g
+334,chick fil a,creamy salsa dressing,31,g,25,mg,630,g,2,g,1,g,5,g,0,g,0,g,1,g
+335,chick fil a,crispy bell peppers salad topping,6,g,0,mg,75,g,6,g,1,g,0,g,0,g,0,g,0,g
+336,chick fil a,decaf coffee 96 oz catering,0.5,g,0,mg,55,g,0,g,3,g,0,g,0,g,0,g,0,g
+337,chick fil a,decaf coffee large,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+338,chick fil a,decaf coffee small,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+339,chick fil a,dr pepper large,0,g,0,mg,110,g,71,g,0,g,0,g,0,g,0,g,69,g
+340,chick fil a,dr pepper medium,0,g,0,mg,75,g,48,g,0,g,0,g,0,g,0,g,47,g
+341,chick fil a,dr pepper small,0,g,0,mg,55,g,36,g,0,g,0,g,0,g,0,g,35,g
+342,chick fil a,egg white grill,8,g,60,mg,970,g,29,g,26,g,3.5,g,0,g,1,g,2,g
+343,chick fil a,english muffin,2,g,0,mg,220,g,29,g,5,g,0,g,0,g,1,g,1,g
+344,chick fil a,fat free honey mustard dressing,0,g,0,mg,330,g,23,g,0,g,0,g,0,g,1,g,19,g
+345,chick fil a,freshly brewed iced tea sweetened gallon,0,g,0,mg,115,g,398,g,0,g,0,g,0,g,0,g,397,g
+346,chick fil a,freshly brewed iced tea sweetened gallon catering,0,g,0,mg,115,g,398,g,0,g,0,g,0,g,0,g,397,g
+347,chick fil a,freshly brewed iced tea sweetened large,0,g,0,mg,10,g,43,g,0,g,0,g,0,g,0,g,43,g
+348,chick fil a,freshly brewed iced tea sweetened medium,0,g,0,mg,10,g,31,g,0,g,0,g,0,g,0,g,31,g
+349,chick fil a,freshly brewed iced tea sweetened small,0,g,0,mg,5,g,19,g,0,g,0,g,0,g,0,g,19,g
+350,chick fil a,freshly brewed iced tea unsweetened gallon,0,g,0,mg,110,g,0,g,0,g,0,g,0,g,0,g,0,g
+351,chick fil a,freshly brewed iced tea unsweetened gallon catering,0,g,0,mg,110,g,0,g,0,g,0,g,0,g,0,g,0,g
+352,chick fil a,freshly brewed iced tea unsweetened large,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+353,chick fil a,freshly brewed iced tea unsweetened medium,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+354,chick fil a,freshly brewed iced tea unsweetened small,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+355,chick fil a,frosted coffee large,7,g,25,mg,180,g,53,g,8,g,4.5,g,0,g,4,g,34,g
+356,chick fil a,frosted coffee small,5,g,20,mg,140,g,41,g,6,g,3.5,g,0,g,3,g,27,g
+357,chick fil a,frosted lemonade with diet lemonade large,7,g,25,mg,180,g,55,g,7,g,4.5,g,0,g,4,g,39,g
+358,chick fil a,frosted lemonade with diet lemonade small,6,g,20,mg,140,g,44,g,6,g,3.5,g,0,g,3,g,31,g
+359,chick fil a,frosted lemonade regular,7,g,25,mg,180,g,80,g,7,g,4.5,g,0,g,4,g,64,g
+360,chick fil a,frosted lemonade small,6,g,20,mg,140,g,64,g,6,g,3.5,g,0,g,3,g,51,g
+361,chick fil a,fruit cup medium,0,g,0,mg,0,g,15,g,1,g,0,g,0,g,2,g,11,g
+362,chick fil a,fruit cup medium side,0,g,0,mg,0,g,15,g,1,g,0,g,0,g,2,g,11,g
+363,chick fil a,fruit cup small,0,g,0,mg,0,g,13,g,1,g,0,g,0,g,2,g,9,g
+364,chick fil a,fruit cup small side,0,g,0,mg,0,g,13,g,1,g,0,g,0,g,2,g,9,g
+365,chick fil a,fruit tray per tray large,5,g,0,mg,20,g,366,g,18,g,0,g,0,g,58,g,274,g
+366,chick fil a,fruit tray per tray small,2.5,g,0,mg,10,g,181,g,9,g,0,g,0,g,29,g,135,g
+367,chick fil a,garden herb ranch dressing,29,g,25,mg,450,g,2,g,1,g,5,g,0,g,0,g,1,g
+368,chick fil a,garden herb ranch sauce,14,g,10,mg,220,g,1,g,0,g,2.5,g,0,g,0,g,1,g
+369,chick fil a,garden herb ranch sauce 8 oz catering,117,g,95,mg,1780,g,8,g,4,g,20,g,2,g,0,g,5,g
+370,chick fil a,garden salad tray per tray large,37,g,110,mg,810,g,54,g,41,g,23,g,1.5,g,20,g,26,g
+371,chick fil a,garden salad tray per tray small,19,g,55,mg,410,g,27,g,20,g,11,g,0.5,g,10,g,13,g
+372,chick fil a,greek yogurt parfait with cookie crumbs,8,g,15,mg,85,g,33,g,12,g,4.5,g,0,g,1,g,26,g
+373,chick fil a,greek yogurt parfait with cookie crumbs side,8,g,15,mg,85,g,33,g,12,g,4.5,g,0,g,1,g,26,g
+374,chick fil a,greek yogurt parfait with granola,8,g,15,mg,85,g,37,g,13,g,4.5,g,0,g,1,g,27,g
+375,chick fil a,greek yogurt parfait with granola side,8,g,15,mg,85,g,37,g,13,g,4.5,g,0,g,1,g,27,g
+376,chick fil a,grilled breakfast filet protein only,1,g,40,mg,420,g,0,g,13,g,0,g,0,g,0,g,0,g
+377,chick fil a,grilled chicken bundle per meal,22,g,105,mg,1110,g,44,g,38,g,8,g,0,g,4,g,11,g
+378,chick fil a,grilled chicken club with american,14,g,95,mg,1160,g,42,g,35,g,5,g,0,g,4,g,9,g
+379,chick fil a,grilled chicken club with colby jack,17,g,100,mg,1040,g,41,g,37,g,7,g,0,g,4,g,9,g
+380,chick fil a,grilled chicken club with pepper jack,16,g,100,mg,1030,g,41,g,37,g,6,g,0,g,4,g,9,g
+381,chick fil a,grilled chicken club without cheese,10,g,80,mg,890,g,41,g,33,g,2.5,g,0,g,4,g,9,g
+382,chick fil a,grilled chicken sandwich,6,g,70,mg,680,g,41,g,28,g,1,g,0,g,4,g,9,g
+383,chick fil a,grilled cool wrap,13,g,85,mg,900,g,29,g,42,g,4,g,0,g,13,g,2,g
+384,chick fil a,grilled cool wrap tray per half wrap large,7,g,45,mg,470,g,15,g,22,g,2,g,0,g,7,g,1,g
+385,chick fil a,grilled cool wrap tray per half wrap medium,7,g,45,mg,470,g,15,g,22,g,2,g,0,g,7,g,1,g
+386,chick fil a,grilled cool wrap tray per half wrap small,7,g,45,mg,470,g,15,g,22,g,2,g,0,g,7,g,1,g
+387,chick fil a,grilled filet protein only,2,g,70,mg,370,g,1,g,21,g,0,g,0,g,0,g,1,g
+388,chick fil a,grilled market salad with chick n strips,23,g,80,mg,990,g,31,g,34,g,5,g,0,g,5,g,10,g
+389,chick fil a,grilled market salad with grilled filet cold,10,g,80,mg,530,g,16,g,27,g,2.5,g,0,g,4,g,8,g
+390,chick fil a,grilled market salad with grilled filet warm,10,g,80,mg,520,g,16,g,27,g,2.5,g,0,g,4,g,8,g
+391,chick fil a,grilled market salad with grilled nuggets,12,g,90,mg,560,g,16,g,30,g,3,g,0,g,5,g,9,g
+392,chick fil a,grilled market salad with nuggets,20,g,90,mg,1340,g,25,g,32,g,4.5,g,0,g,5,g,9,g
+393,chick fil a,grilled market salad with spicy grilled filet,13,g,75,mg,920,g,26,g,27,g,3,g,0,g,5,g,13,g
+394,chick fil a,grilled market salad without chicken,11,g,5,mg,160,g,24,g,7,g,2.5,g,0,g,5,g,12,g
+395,chick fil a,grilled nuggets 12 count,4.5,g,130,mg,660,g,2,g,38,g,1,g,0,g,0,g,1,g
+396,chick fil a,grilled nuggets 4 count,1.5,g,45,mg,220,g,1,g,13,g,0,g,0,g,0,g,0,g
+397,chick fil a,grilled nuggets 6 count,2,g,65,mg,330,g,1,g,19,g,0.5,g,0,g,0,g,1,g
+398,chick fil a,grilled nuggets 8 count,3,g,85,mg,440,g,1,g,25,g,0.5,g,0,g,0,g,1,g
+399,chick fil a,harvest nut granola salad topping,2,g,0,mg,35,g,10,g,1,g,0,g,0,g,0,g,4,g
+400,chick fil a,hash brown scramble bowl with grilled filet,26,g,415,mg,1190,g,15,g,30,g,8,g,0,g,2,g,2,g
+401,chick fil a,hash brown scramble bowl with grilled filet no hash browns,16,g,415,mg,840,g,1,g,28,g,7,g,0,g,0,g,1,g
+402,chick fil a,hash brown scramble bowl with nuggets,30,g,415,mg,1340,g,19,g,29,g,9,g,0,g,2,g,2,g
+403,chick fil a,hash brown scramble bowl with nuggets no hash browns,20,g,415,mg,1100,g,7,g,28,g,7,g,0,g,1,g,2,g
+404,chick fil a,hash brown scramble bowl with sausage,37,g,395,mg,1010,g,15,g,23,g,12,g,0,g,2,g,1,g
+405,chick fil a,hash brown scramble bowl with sausage no hash browns,26,g,395,mg,650,g,1,g,21,g,11,g,0,g,0,g,0,g
+406,chick fil a,hash brown scramble burrito with grilled filet,36,g,415,mg,1620,g,46,g,35,g,12,g,0.5,g,3,g,2,g
+407,chick fil a,hash brown scramble burrito with grilled filet no hash browns,25,g,415,mg,1370,g,34,g,34,g,10,g,0.5,g,2,g,2,g
+408,chick fil a,hash brown scramble burrito with nuggets,40,g,415,mg,1750,g,51,g,34,g,12,g,0.5,g,3,g,2,g
+409,chick fil a,hash brown scramble burrito with nuggets no hash browns,30,g,415,mg,1500,g,38,g,33,g,11,g,0.5,g,2,g,2,g
+410,chick fil a,hash brown scramble burrito with sausage,46,g,395,mg,1440,g,46,g,28,g,16,g,0.5,g,3,g,1,g
+411,chick fil a,hash brown scramble burrito with sausage no hash browns,36,g,395,mg,1080,g,32,g,26,g,14,g,0.5,g,1,g,1,g
+412,chick fil a,hash browns,18,g,0,mg,440,g,23,g,3,g,2.5,g,0,g,3,g,0,g
+413,chick fil a,honest kids apple juice,0,g,0,mg,15,g,9,g,0,g,0,g,0,g,0,g,8,g
+414,chick fil a,honest kids apple juice catering,0,g,0,mg,15,g,9,g,0,g,0,g,0,g,0,g,8,g
+415,chick fil a,honey mustard sauce,0,g,0,mg,150,g,11,g,0,g,0,g,0,g,0,g,10,g
+416,chick fil a,honey mustard sauce 8 oz catering,3,g,0,mg,1250,g,88,g,2,g,0,g,0,g,0,g,78,g
+417,chick fil a,honey roasted bbq sauce,5,g,5,mg,75,g,3,g,0,g,1,g,0,g,0,g,2,g
+418,chick fil a,hot chick fil a nuggets tray per nugget large,1.5,g,10,mg,150,g,1,g,3,g,0,g,0,g,0,g,0,g
+419,chick fil a,hot chick fil a nuggets tray per nugget medium,1.5,g,10,mg,150,g,1,g,3,g,0,g,0,g,0,g,0,g
+420,chick fil a,hot chick fil a nuggets tray per nugget small,1.5,g,10,mg,150,g,1,g,3,g,0,g,0,g,0,g,0,g
+421,chick fil a,hot chick n strips tray per chick n strip large,5,g,25,mg,300,g,6,g,10,g,1,g,0,g,0,g,1,g
+422,chick fil a,hot chick n strips tray per chick n strip medium,5,g,25,mg,300,g,6,g,10,g,1,g,0,g,0,g,1,g
+423,chick fil a,hot chick n strips tray per chick n strip small,5,g,25,mg,300,g,6,g,10,g,1,g,0,g,0,g,1,g
+424,chick fil a,iced coffee large,3,g,10,mg,85,g,34,g,6,g,2,g,0,g,0,g,31,g
+425,chick fil a,iced coffee small,2.5,g,10,mg,70,g,26,g,5,g,1.5,g,0,g,0,g,24,g
+426,chick fil a,iced vanilla coffee large,3,g,10,mg,85,g,39,g,6,g,2,g,0,g,0,g,35,g
+427,chick fil a,iced vanilla coffee small,2.5,g,10,mg,70,g,30,g,5,g,1.5,g,0,g,0,g,27,g
+428,chick fil a,kale crunch side,9,g,0,mg,140,g,8,g,3,g,1,g,0,g,1,g,3,g
+429,chick fil a,kale crunch side tray per tray large,81,g,0,mg,2480,g,125,g,24,g,12,g,1,g,0,g,66,g
+430,chick fil a,kale crunch side tray per tray small,37,g,0,mg,1120,g,56,g,11,g,6,g,0,g,0,g,30,g
+431,chick fil a,kids chick n strips meal 1 count,4.5,g,25,mg,290,g,5,g,10,g,1,g,0,g,0,g,1,g
+432,chick fil a,kids chick n strips meal 2 count,9,g,50,mg,580,g,11,g,19,g,2,g,0,g,0,g,1,g
+433,chick fil a,kids grilled nuggets meal 4 count,1.5,g,45,mg,220,g,1,g,13,g,0,g,0,g,0,g,0,g
+434,chick fil a,kids grilled nuggets meal 6 count,2,g,65,mg,330,g,1,g,19,g,0.5,g,0,g,0,g,1,g
+435,chick fil a,kids nuggets meal 4 count,6,g,40,mg,610,g,5,g,13,g,1,g,0,g,0,g,0,g
+436,chick fil a,kids nuggets meal 6 count,9,g,65,mg,910,g,8,g,20,g,2,g,0,g,0,g,1,g
+437,chick fil a,lettuce sandwich topping,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,0,g
+438,chick fil a,light balsamic vinaigrette dressing,4,g,0,mg,360,g,10,g,0,g,0.5,g,0,g,0,g,9,g
+439,chick fil a,light italian dressing,1,g,0,mg,470,g,3,g,0,g,0,g,0,g,0,g,2,g
+440,chick fil a,mac and cheese tray per tray large,624,g,1500,mg,26050,g,616,g,442,g,355,g,7,g,63,g,71,g
+441,chick fil a,mac and cheese tray per tray small,312,g,750,mg,13020,g,308,g,221,g,178,g,3.5,g,31,g,36,g
+442,chick fil a,mac and cheese medium side,29,g,70,mg,1190,g,28,g,20,g,16,g,0,g,3,g,3,g
+443,chick fil a,mac and cheese small side,17,g,40,mg,710,g,17,g,12,g,10,g,0,g,2,g,2,g
+444,chick fil a,mango passion tea lemonade gallon,1,g,5,mg,210,g,563,g,1,g,0,g,0,g,1,g,543,g
+445,chick fil a,mango passion tea lemonade gallon catering,1,g,5,mg,210,g,563,g,1,g,0,g,0,g,1,g,543,g
+446,chick fil a,mango passion tea lemonade large,0,g,0,mg,25,g,48,g,0,g,0,g,0,g,0,g,46,g
+447,chick fil a,mango passion tea lemonade small,0,g,0,mg,20,g,39,g,0,g,0,g,0,g,0,g,37,g
+448,chick fil a,pepper jack cheese sandwich topping,6,g,20,mg,140,g,0,g,4,g,4,g,0,g,0,g,0,g
+449,chick fil a,pickles sandwich topping,0,g,0,mg,130,g,0,g,0,g,0,g,0,g,0,g,0,g
+450,chick fil a,polynesian sauce,6,g,0,mg,210,g,14,g,0,g,1,g,0,g,0,g,13,g
+451,chick fil a,polynesian sauce 8 oz catering,48,g,0,mg,1680,g,107,g,1,g,8,g,0.5,g,0,g,102,g
+452,chick fil a,regular coffee 96 oz catering,0.5,g,0,mg,55,g,0,g,3,g,0,g,0,g,0,g,0,g
+453,chick fil a,salad side,10,g,10,mg,170,g,13,g,6,g,3,g,0,g,3,g,3,g
+454,chick fil a,saltines soup topping,0.5,g,0,mg,90,g,5,g,0,g,0,g,0,g,0,g,0,g
+455,chick fil a,sausage egg and cheese biscuit,43,g,210,mg,1540,g,38,g,23,g,19,g,0,g,2,g,4,g
+456,chick fil a,sausage egg and cheese muffin,34,g,210,mg,1060,g,30,g,24,g,13,g,0,g,1,g,2,g
+457,chick fil a,sausage protein only,24,g,40,mg,460,g,1,g,11,g,9,g,0,g,0,g,0,g
+458,chick fil a,seasoned tortilla strips salad topping,4,g,0,mg,55,g,8,g,1,g,0,g,0,g,0,g,0,g
+459,chick fil a,simply orange,0,g,0,mg,10,g,34,g,2,g,0,g,0,g,0,g,30,g
+460,chick fil a,simply orange catering,0,g,0,mg,10,g,34,g,2,g,0,g,0,g,0,g,30,g
+461,chick fil a,spicy chicken sandwich,19,g,65,mg,1670,g,45,g,28,g,4,g,0,g,2,g,6,g
+462,chick fil a,spicy chicken sandwich catering,19,g,65,mg,1670,g,45,g,28,g,4,g,0,g,2,g,6,g
+463,chick fil a,spicy chilled grilled chicken sub sandwich catering,12,g,85,mg,1190,g,48,g,32,g,4.5,g,0,g,4,g,10,g
+464,chick fil a,spicy chilled grilled chicken sub sandwich tray per half sandwich large,6,g,40,mg,590,g,24,g,16,g,2.5,g,0,g,2,g,5,g
+465,chick fil a,spicy chilled grilled chicken sub sandwich tray per half sandwich medium,6,g,40,mg,590,g,24,g,16,g,2.5,g,0,g,2,g,5,g
+466,chick fil a,spicy chilled grilled chicken sub sandwich tray per half sandwich small,6,g,40,mg,660,g,24,g,16,g,2.5,g,0,g,2,g,5,g
+467,chick fil a,spicy deluxe sandwich with american,23,g,80,mg,1910,g,47,g,31,g,7,g,0,g,3,g,7,g
+468,chick fil a,spicy deluxe sandwich with colby jack,25,g,85,mg,1820,g,47,g,34,g,8,g,0,g,3,g,7,g
+469,chick fil a,spicy deluxe sandwich with pepper jack,25,g,85,mg,1810,g,47,g,33,g,8,g,0,g,3,g,7,g
+470,chick fil a,spicy deluxe sandwich without cheese,19,g,65,mg,1670,g,47,g,29,g,4.5,g,0,g,3,g,7,g
+471,chick fil a,spicy filet protein only,13,g,65,mg,1390,g,16,g,23,g,2.5,g,0,g,1,g,2,g
+472,chick fil a,spicy southwest salad with chick n strips,31,g,90,mg,1070,g,53,g,43,g,7,g,0,g,8,g,10,g
+473,chick fil a,spicy southwest salad with grilled filet cold,19,g,85,mg,580,g,38,g,35,g,5,g,0,g,8,g,9,g
+474,chick fil a,spicy southwest salad with grilled filet warm,19,g,85,mg,580,g,38,g,35,g,5,g,0,g,8,g,9,g
+475,chick fil a,spicy southwest salad with grilled nuggets,20,g,100,mg,650,g,38,g,39,g,5,g,0,g,8,g,9,g
+476,chick fil a,spicy southwest salad with nuggets,28,g,95,mg,1420,g,47,g,41,g,7,g,0,g,8,g,9,g
+477,chick fil a,spicy southwest salad with spicy grilled filet,19,g,75,mg,930,g,39,g,33,g,5,g,0,g,8,g,9,g
+478,chick fil a,spicy southwest salad without chicken,17,g,10,mg,210,g,37,g,14,g,4.5,g,0,g,8,g,8,g
+479,chick fil a,strawberry milkshake large,26,g,95,mg,600,g,128,g,15,g,16,g,0,g,5,g,105,g
+480,chick fil a,strawberry milkshake small,22,g,80,mg,460,g,97,g,12,g,13,g,0,g,4,g,80,g
+481,chick fil a,sunflower multigrain bagel,3,g,0,mg,340,g,42,g,6,g,0,g,0,g,3,g,6,g
+482,chick fil a,sunflower multigrain bagel with cream cheese,10,g,20,mg,460,g,43,g,8,g,4.5,g,0,g,3,g,8,g
+483,chick fil a,sweet and spicy sriracha sauce,0,g,0,mg,380,g,10,g,0,g,0,g,0,g,0,g,10,g
+484,chick fil a,tomato sandwich topping,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+485,chick fil a,vanilla milkshake large,26,g,95,mg,460,g,91,g,15,g,16,g,0,g,4,g,75,g
+486,chick fil a,vanilla milkshake small,22,g,80,mg,370,g,72,g,12,g,13,g,0,g,3,g,60,g
+487,chick fil a,waffle potato chips side,13,g,0,mg,250,g,25,g,3,g,3.5,g,0,g,2,g,0,g
+488,chick fil a,zesty apple cider vinaigrette dressing,19,g,0,mg,460,g,16,g,0,g,3,g,0,g,0,g,14,g
+489,chick fil a,zesty buffalo sauce,2.5,g,5,mg,390,g,0,g,0,g,0,g,0,g,0,g,0,g
+490,www.menuwithnutrition.com,chick fil a menu,,,,,,,,,,,,,,,,,,
+491,chicken express,fried chicken tender,7.5,g,30,mg,400,g,7.5,g,10.5,g,3.5,g,0,g,1,g,0,g
+492,chicken express,fried chicken gizzard,8,g,72,mg,315,g,7,g,7,g,3.5,g,0,g,0,g,0,g
+493,chicken express,fried chicken liver,7,g,91,mg,157,g,6,g,5,g,3,g,0,g,0,g,0,g
+494,chicken express,fried chicken breast,32,g,213,mg,1975,g,18,g,58,g,12,g,1.5,g,0,g,0,g
+495,chicken express,fried chicken leg,12,g,99,mg,684,g,7,g,18,g,4.5,g,1,g,0,g,0,g
+496,chicken express,fried hot wing,16,g,115,mg,1120,g,9,g,24,g,6,g,0.5,g,0,g,0,g
+497,chicken express,fried chicken thigh,33,g,150,mg,1035,g,12,g,25,g,12,g,1.5,g,0,g,0,g
+498,chicken express,fried chicken wing,10,g,61,mg,573,g,5,g,12,g,4,g,1,g,0,g,0,g
+499,chicken express,heinz honey,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,7,g
+500,chicken express,chunky chocolate chip cookie,13,g,0,mg,210,g,35,g,3,g,6,g,0,g,0,g,21,g
+501,chicken express,fried apple turnover,7,g,0,mg,180,g,40,g,2,g,2.5,g,0,g,1,g,13,g
+502,chicken express,chocolate soft serve,3,g,0,mg,80,g,19,g,0,g,2.5,g,0,g,0,g,14,g
+503,chicken express,fried cherry turnover,7,g,0,mg,170,g,33,g,2,g,2.5,g,0,g,1,g,15,g
+504,chicken express,vanilla soft serve,3,g,0,mg,80,g,19,g,0,g,2.5,g,0,g,0,g,14,g
+505,chicken express,catfish,3.5,g,55,mg,40,g,25.8,g,17,g,1,g,0,g,0,g,0,g
+506,chicken express,hushpuppies,4.5,g,0,mg,400,g,20,g,2,g,0,g,0,g,1,g,2,g
+507,chicken express,gravy,8,g,0,mg,820,g,16,g,0,g,2,g,4,g,0,g,2,g
+508,chicken express,bbq sauce,0,g,0,mg,480,g,11,g,0,g,0,g,0,g,0,g,9,g
+509,chicken express,tartar sauce,8,g,10,mg,270,g,4,g,0,g,1.5,g,0,g,0,g,3,g
+510,chicken express,honey mustard dressing,12,g,5,mg,220,g,8,g,0,g,2,g,0,g,0,g,7,g
+511,chicken express,cocktail sauce,0,g,0,mg,450,g,8,g,0,g,0,g,0,g,0,g,7,g
+512,chicken express,heinz ketchup,0,g,0,mg,85,g,3,g,0,g,0,g,0,g,0,g,2,g
+513,chicken express,buttermilk ranch dressing,17,g,5,mg,300,g,2,g,0,g,2.5,g,0,g,0,g,1,g
+514,chicken express,marinara sauce,0,g,0,mg,300,g,6,g,0,g,0,g,0,g,0,g,4,g
+515,chicken express,chipotle ranch,15,g,10,mg,190,g,3,g,0,g,2.5,g,0,g,0,g,2,g
+516,chicken express,buffalo sauce,3.5,g,0,mg,580,g,1,g,0,g,1.5,g,0,g,0,g,0,g
+517,chicken express,french fries,7,g,0,mg,360,g,22,g,2,g,1,g,0,g,2,g,1,g
+518,chicken express,fried okra,18,g,0,mg,700,g,42,g,5,g,0,g,0,g,3,g,2,g
+519,chicken express,corn nuggets,6,g,0,mg,420,g,31,g,3,g,1,g,0,g,2,g,2,g
+520,chicken express,yeast roll,2,g,0,mg,140,g,22,g,3,g,0,g,0,g,1,g,4,g
+521,chicken express,fried pickle slices,6,g,0,mg,480,g,15,g,5,g,3,g,0,g,2,g,2,g
+522,chicken express,mashed potatoes without gravy,3,g,0,mg,380,g,17,g,1,g,1,g,0,g,0.5,g,3,g
+523,chicken express,jalapeno poppers,5,g,10,mg,550,g,16,g,5,g,2.5,g,0,g,1,g,3,g
+524,chicken express,biscuits,8,g,1,mg,390,g,22,g,2.7,g,3,g,2,g,0.7,g,2.6,g
+525,chicken express,mini poppers,5,g,10,mg,550,g,16,g,5,g,2.5,g,0,g,1,g,3,g
+526,chicken express,deluxe macaroni and cheese,14,g,15,mg,900,g,30,g,9,g,4,g,0,g,3,g,3,g
+527,chicken express,cheese sticks,2.5,g,10,mg,280,g,8,g,3,g,1.5,g,0,g,0.5,g,0.5,g
+528,chicken express,cole slaw,12,g,20,mg,340,g,10,g,0,g,2,g,0,g,0,g,10,g
+529,chicken express,seasoned italian green beans,0,g,0,mg,600,g,6,g,0,g,0,g,0,g,2,g,2,g
+530,chicken express,corn on the cob,1,g,0,mg,10,g,18,g,3,g,0,g,0,g,1,g,4,g
+531,chicken express,oreo,1.5,g,130,mg,130,g,19,g,1,g,0,g,0,g,0.5,g,11,g
+532,chicken express,strawberry,0,g,0,mg,0,g,5.8,g,0,g,0,g,0,g,1.4,g,4.4,g
+533,chicken express,caramel,0,g,0,mg,125,g,27,g,0.5,g,0,g,0,g,0,g,21,g
+534,chicken express,strawberry banana,0,g,0,mg,0,g,5.3,g,0,g,0,g,0,g,1.4,g,3.9,g
+535,chicken express,peach,0,g,0,mg,0,g,5.8,g,0,g,0,g,0,g,1.5,g,4.3,g
+536,chicken express,chocolate,0,g,0,mg,15,g,24,g,0.5,g,0,g,0,g,1,g,20,g
+537,chicken express,reeses,9,g,0,mg,85,g,16,g,3,g,3,g,0,g,1,g,13,g
+538,chicken express,butterfinger,3.5,g,0,mg,45,g,14,g,1,g,2,g,0,g,0,g,9,g
+539,chicken express,mandms,5,g,5,mg,15,g,17,g,1,g,3,g,0,g,1,g,15,g
+540,chicken express,mango,0,g,0,mg,0,g,5.9,g,0,g,0,g,0,g,1.5,g,4.4,g
+541,chicken express,heath,9,g,5,mg,95,g,17,g,1,g,5,g,0,g,0,g,17,g
+542,chicken express,barqs root beer,0,g,0,mg,25,g,30,g,0,g,0,g,0,g,0,g,30,g
+543,chicken express,bbq sauce,0,g,0,mg,480,g,11,g,0,g,0,g,0,g,0,g,9,g
+544,chicken express,biscuits,8,g,0,mg,390,g,22,g,3,g,3,g,2,g,1,g,3,g
+545,chicken express,buffalo sauce,3.5,g,0,mg,580,g,1,g,0,g,1.5,g,0,g,0,g,0,g
+546,chicken express,butterfinger add in,3.5,g,0,mg,45,g,14,g,1,g,2,g,0,g,0,g,9,g
+547,chicken express,buttermilk ranch dressing,17,g,5,mg,300,g,2,g,0,g,2.5,g,0,g,0,g,1,g
+548,chicken express,caramel add in,0,g,0,mg,125,g,27,g,1,g,0,g,0,g,0,g,21,g
+549,chicken express,cheese sticks,2.5,g,10,mg,280,g,8,g,3,g,1.5,g,0,g,1,g,1,g
+550,chicken express,chicken breast,32,g,215,mg,1980,g,18,g,58,g,12,g,1.5,g,0,g,0,g
+551,chicken express,chicken express sweet tea,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,0,g,12,g
+552,chicken express,chipotle ranch,15,g,10,mg,190,g,3,g,0,g,2.5,g,0,g,0,g,2,g
+553,chicken express,chocolate add in,0,g,0,mg,15,g,24,g,1,g,0,g,0,g,1,g,20,g
+554,chicken express,chocolate soft serve,3,g,0,mg,80,g,19,g,0,g,2.5,g,0,g,0,g,14,g
+555,chicken express,chunky chocoloate chip cookie,13,g,0,mg,210,g,35,g,3,g,6,g,0,g,0,g,21,g
+556,chicken express,coca cola classic,0,g,0,mg,5,g,27,g,0,g,0,g,0,g,0,g,27,g
+557,chicken express,coca cola zero,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+558,chicken express,cocktail sauce,0,g,0,mg,450,g,8,g,0,g,0,g,0,g,0,g,7,g
+559,chicken express,cole slaw,12,g,20,mg,340,g,10,g,0,g,2,g,0,g,0,g,10,g
+560,chicken express,corn nuggets,6,g,0,mg,420,g,31,g,3,g,1,g,0,g,2,g,2,g
+561,chicken express,corn on the cob,1,g,0,mg,10,g,18,g,3,g,0,g,0,g,1,g,4,g
+562,chicken express,deluxe macaroni and cheese,14,g,15,mg,900,g,30,g,9,g,4,g,0,g,3,g,3,g
+563,chicken express,diet coke,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+564,chicken express,diet dr pepper,0,g,0,mg,100,g,0,g,0,g,0,g,0,g,0,g,0,g
+565,chicken express,dr pepper,0,g,0,mg,100,g,66,g,0,g,0,g,0,g,0,g,64,g
+566,chicken express,french fries,7,g,0,mg,360,g,22,g,2,g,1,g,0,g,2,g,1,g
+567,chicken express,fried apple turnovers,7,g,0,mg,180,g,40,g,2,g,2.5,g,0,g,1,g,13,g
+568,chicken express,fried cherry turnovers,7,g,0,mg,170,g,33,g,2,g,2.5,g,0,g,1,g,15,g
+569,chicken express,fried chicken gizzard,8,g,70,mg,320,g,7,g,7,g,3.5,g,0,g,0,g,0,g
+570,chicken express,fried chicken leg,12,g,100,mg,680,g,7,g,18,g,4.5,g,1,g,0,g,0,g
+571,chicken express,fried chicken liver,7,g,90,mg,160,g,6,g,5,g,3,g,0,g,0,g,0,g
+572,chicken express,fried chicken tender,8,g,30,mg,400,g,8,g,11,g,3.5,g,0,g,1,g,0,g
+573,chicken express,fried chicken thigh,33,g,150,mg,1040,g,12,g,25,g,12,g,1.5,g,0,g,0,g
+574,chicken express,fried chicken wing,10,g,60,mg,570,g,5,g,12,g,4,g,1,g,0,g,0,g
+575,chicken express,fried fish fillet,3.5,g,55,mg,40,g,26,g,17,g,1,g,0,g,0,g,0,g
+576,chicken express,fried hot wing,16,g,115,mg,1120,g,9,g,24,g,6,g,0,g,0,g,0,g
+577,chicken express,fried okra,18,g,0,mg,700,g,42,g,5,g,0,g,0,g,3,g,2,g
+578,chicken express,fried pickle slices,6,g,0,mg,480,g,15,g,5,g,3,g,0,g,2,g,2,g
+579,chicken express,gravy,8,g,0,mg,820,g,16,g,0,g,2,g,4,g,0,g,2,g
+580,chicken express,heath add in,9,g,5,mg,95,g,17,g,1,g,5,g,0,g,0,g,17,g
+581,chicken express,heinz honey,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,7,g
+582,chicken express,heinz ketchup,0,g,0,mg,85,g,3,g,0,g,0,g,0,g,0,g,2,g
+583,chicken express,hi c flashin fruit punch,0,g,0,mg,10,g,28,g,0,g,0,g,0,g,0,g,27,g
+584,chicken express,honey mustard dressing,12,g,5,mg,220,g,8,g,0,g,2,g,0,g,0,g,7,g
+585,chicken express,hushpuppies,4.5,g,0,mg,400,g,20,g,2,g,0,g,0,g,1,g,2,g
+586,chicken express,mandms add in,5,g,5,mg,15,g,17,g,1,g,3,g,0,g,1,g,15,g
+587,chicken express,mango add in,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,2,g,4,g
+588,chicken express,marinara sauce,0,g,0,mg,300,g,6,g,0,g,0,g,0,g,0,g,4,g
+589,chicken express,mashed potatoes without gravy,3,g,0,mg,380,g,17,g,1,g,1,g,0,g,1,g,3,g
+590,chicken express,mini poppers,5,g,10,mg,550,g,16,g,5,g,2.5,g,0,g,1,g,3,g
+591,chicken express,minute maid lemonade,0,g,0,mg,40,g,26,g,0,g,0,g,0,g,0,g,26,g
+592,chicken express,minute maid mango smoothie,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,12,g,35,g
+593,chicken express,minute maid peach smoothie,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,12,g,34,g
+594,chicken express,minute maid strawberry and banana smoothie,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,11,g,31,g
+595,chicken express,minute maid strawberry smoothie,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,11,g,35,g
+596,chicken express,oreo add in,1.5,g,130,mg,130,g,19,g,1,g,0,g,0,g,1,g,11,g
+597,chicken express,peach add in,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,2,g,4,g
+598,chicken express,red flash,0,g,0,mg,20,g,28,g,0,g,0,g,0,g,0,g,28,g
+599,chicken express,reeses add in,9,g,0,mg,85,g,16,g,3,g,3,g,0,g,1,g,13,g
+600,chicken express,seasoned italian green beans,0,g,0,mg,600,g,6,g,0,g,0,g,0,g,2,g,2,g
+601,chicken express,sprite,0,g,0,mg,20,g,26,g,0,g,0,g,0,g,0,g,26,g
+602,chicken express,strawberry add in,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,1,g,4,g
+603,chicken express,strawberry banana add in,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,1,g,4,g
+604,chicken express,tarter sauce,8,g,10,mg,270,g,4,g,0,g,1.5,g,0,g,0,g,3,g
+605,chicken express,vanilla soft serve,3,g,0,mg,80,g,19,g,0,g,2.5,g,0,g,0,g,14,g
+606,chicken express,yeast roll,2,g,0,mg,140,g,22,g,3,g,0,g,0,g,1,g,4,g
+607,chicken out rotisserie,buttermilk biscuit,8,g,0,mg,560,g,24,g,4,g,7,g,0,g,1,g,2,g
+608,chicken out rotisserie,whole grain bread,2.6,g,0,mg,323,g,36.6,g,7,g,1,g,0,g,2.6,g,3,g
+609,chicken out rotisserie,wheat dinner roll,2.5,g,6,mg,219,g,25,g,4.4,g,1.4,g,0,g,1.9,g,5.2,g
+610,chicken out rotisserie,wheat sandwich roll,3.1,g,0.0001,mg,356,g,36.8,g,7.4,g,2,g,0,g,2.9,g,1.5,g
+611,chicken out rotisserie,croutons,10,g,15,mg,192,g,30,g,4,g,4,g,0,g,1,g,3,g
+612,chicken out rotisserie,ciabatta bread,1,g,0,mg,795,g,71.5,g,12.6,g,0.3,g,0,g,2.6,g,1,g
+613,chicken out rotisserie,6 layers carrot cake,86,g,202,mg,1155,g,105,g,10,g,31,g,0,g,3,g,74,g
+614,chicken out rotisserie,6 layers chocolate cake,52,g,114,mg,648,g,104,g,134,g,25,g,0,g,7,g,67,g
+615,chicken out rotisserie,fudge brownie,27,g,98,mg,120,g,57,g,6,g,14,g,0,g,3,g,39,g
+616,chicken out rotisserie,white chocolate macadamia nut cookie,11,g,20,mg,135,g,25,g,2,g,5,g,0,g,1,g,17,g
+617,chicken out rotisserie,peanut butter cookie,10,g,5,mg,250,g,23,g,3,g,4,g,0,g,1,g,14,g
+618,chicken out rotisserie,almond bar,26,g,73,mg,160,g,68,g,5,g,11,g,0,g,1,g,45,g
+619,chicken out rotisserie,harvest oatmeal and cranberries cookie,8,g,15,mg,115,g,24,g,3,g,2,g,0,g,2,g,13,g
+620,chicken out rotisserie,just frozen banana without toppings,0,g,0,mg,0,g,73,g,2.5,g,0,g,0,g,10,g,53,g
+621,chicken out rotisserie,chocolate chunk cookie,8,g,20,mg,135,g,27,g,2,g,5,g,0,g,1,g,17,g
+622,chicken out rotisserie,lemon cooler cookie,9,g,25,mg,150,g,28,g,2,g,6,g,0,g,0,g,15,g
+623,chicken out rotisserie,banana topped with blueberries,0,g,0,mg,0.0001,g,76,g,2.5,g,0,g,0,g,10.5,g,55,g
+624,chicken out rotisserie,banana topped with strawberries,0,g,0,mg,0.0001,g,74.5,g,2.5,g,0,g,0,g,10.5,g,54,g
+625,chicken out rotisserie,thigh or leg 1 4 dark chicken skinless,10,g,107,mg,247,g,1,g,31,g,3,g,0,g,0,g,1,g
+626,chicken out rotisserie,pulled rotisserie chicken breast,6,g,145,mg,610,g,3,g,53,g,1.5,g,0,g,0,g,2,g
+627,chicken out rotisserie,bbq pulled chicken,7,g,125,mg,1860,g,27,g,44,g,4,g,0,g,0,g,22,g
+628,chicken out rotisserie,thigh or leg 1 4 dark chicken with skin,18,g,125,mg,903,g,5,g,36,g,5,g,0,g,0,g,4,g
+629,chicken out rotisserie,breast or wing 1 4 white chicken with skin,17,g,133,mg,902,g,5,g,46,g,5,g,0,g,0,g,4,g
+630,chicken out rotisserie,breast or wing 1 4 white chicken skinless,6,g,111,mg,244,g,1,g,40,g,2,g,0,g,0,g,1,g
+631,chicken out rotisserie,milan chicken cutlet,34,g,130,mg,530,g,10,g,50,g,3.5,g,0,g,1,g,1,g
+632,chicken out rotisserie,sesame ginger brown rice bowl without dressing,12,g,90,mg,820,g,61,g,41,g,2,g,0,g,5,g,8,g
+633,chicken out rotisserie,cabos 7 spice wings,5,g,21,mg,546,g,1,g,7,g,1,g,0,g,0,g,1,g
+634,chicken out rotisserie,turkey meatloaf,26,g,160,mg,1050,g,14,g,28,g,7,g,0,g,1,g,6,g
+635,chicken out rotisserie,small pot pie,76,g,145,mg,3100,g,152,g,40,g,61,g,0,g,13,g,13,g
+636,chicken out rotisserie,large pot pie,105,g,240,mg,4590,g,214,g,66,g,82,g,0,g,19,g,19,g
+637,chicken out rotisserie,grilled chicken filet skinless,6,g,145,mg,660,g,3,g,53,g,1.5,g,0,g,0,g,3,g
+638,chicken out rotisserie,freshly roasted turkey breast,9,g,150,mg,210,g,0,g,54,g,6,g,0,g,0,g,0,g
+639,chicken out rotisserie,sesame ginger brown rice bowl with dressing,28,g,90,mg,1200,g,70,g,42,g,5,g,0,g,5,g,15,g
+640,chicken out rotisserie,blue cheese classique dressing,22,g,0,mg,504,g,12,g,0,g,4,g,0,g,0,g,10,g
+641,chicken out rotisserie,creamy cole slaw dressing,22,g,0,mg,504,g,12,g,0,g,4,g,0,g,0,g,10,g
+642,chicken out rotisserie,dijon mustard vinaigrette,20,g,0,mg,440,g,12,g,0,g,3,g,0,g,0,g,10,g
+643,chicken out rotisserie,sesame ginger,16,g,0,mg,440,g,20,g,0,g,2,g,0,g,0,g,16,g
+644,chicken out rotisserie,herb vinaigrette,42,g,0,mg,150,g,4,g,0,g,4,g,0,g,0,g,4,g
+645,chicken out rotisserie,fat free roasted garlic balsamic vinaigrette,0,g,0,mg,640,g,6,g,0,g,0,g,0,g,0,g,6,g
+646,chicken out rotisserie,fat free honey mustard dressing,0,g,0,mg,300,g,22,g,0,g,0,g,0,g,0,g,18,g
+647,chicken out rotisserie,southwest dressing,32,g,14,mg,444,g,4,g,0,g,4,g,0,g,2,g,0,g
+648,chicken out rotisserie,buttermilk ranch,22,g,20,mg,560,g,2,g,0,g,4,g,0,g,0,g,0,g
+649,chicken out rotisserie,apricot chicken salad on lettuce,36,g,135,mg,930,g,23,g,49,g,6,g,0,g,3,g,17,g
+650,chicken out rotisserie,caesar salad without dressing or croutons,10,g,111,mg,556,g,10,g,45,g,4.2,g,0,g,5,g,5,g
+651,chicken out rotisserie,santa fe salad without dressing or tortilla strips,15,g,126,mg,606,g,22,g,47,g,7.3,g,0,g,8,g,8,g
+652,chicken out rotisserie,cobb salad without dressing,29,g,385,mg,1760,g,48,g,62,g,12,g,0,g,7,g,8,g
+653,chicken out rotisserie,twiss salad without dressing,10,g,100,mg,260,g,13,g,45,g,2.5,g,0,g,7,g,5,g
+654,chicken out rotisserie,asian salad without dressing and wontons,9,g,96,mg,441,g,21,g,41,g,2,g,0,g,7,g,12,g
+655,chicken out rotisserie,signature chicken salad on lettuce,58,g,145,mg,1440,g,22,g,44,g,10,g,0,g,2,g,15,g
+656,chicken out rotisserie,archie panini,42,g,190,mg,2600,g,106,g,52,g,15,g,0,g,4,g,23,g
+657,chicken out rotisserie,asian wrap,24,g,92,mg,1368,g,70,g,44,g,6,g,0,g,4,g,12,g
+658,chicken out rotisserie,hot openfaced roasted turkey on biscuit sandwich,53,g,210,mg,2940,g,110,g,62,g,32,g,0,g,7,g,8,g
+659,chicken out rotisserie,popeye wrap,27,g,130,mg,890,g,53,g,48,g,10,g,0,g,6,g,5,g
+660,chicken out rotisserie,grilled chicken wrap,30,g,100,mg,1386,g,64,g,44,g,6,g,0,g,4,g,6,g
+661,chicken out rotisserie,union gap wrap,24,g,145,mg,2620,g,80,g,57,g,8,g,0,g,5,g,28,g
+662,chicken out rotisserie,garden way wrap,23,g,95,mg,1390,g,90,g,47,g,4,g,0,g,8,g,37,g
+663,chicken out rotisserie,sedona sandwich,55,g,240,mg,2240,g,79,g,85,g,21,g,0,g,3,g,5,g
+664,chicken out rotisserie,club panini,29,g,120,mg,1760,g,80,g,64,g,7,g,0,g,3,g,5,g
+665,chicken out rotisserie,maine turkey burger sandwich,32,g,100,mg,1040,g,48,g,36,g,0,g,0,g,4,g,9,g
+666,chicken out rotisserie,hot openfaced pulled chicken on biscuit sandwich,47,g,225,mg,3470,g,113,g,72,g,32,g,0,g,7,g,10,g
+667,chicken out rotisserie,philly panini,48,g,135,mg,1820,g,81,g,57,g,12,g,0,g,3,g,6,g
+668,chicken out rotisserie,hot openfaced turkey meatloaf on biscuit sandwich,57,g,210,mg,3840,g,126,g,43,g,33,g,0,g,7,g,27,g
+669,chicken out rotisserie,santa fe salad wrap,32,g,100,mg,1922,g,68,g,48,g,6,g,0,g,6,g,8,g
+670,chicken out rotisserie,denmark sandwich,44,g,130,mg,1000,g,62,g,47,g,11,g,0,g,8,g,19,g
+671,chicken out rotisserie,lombardi panini,45,g,160,mg,1580,g,84,g,77,g,9,g,0,g,4,g,3,g
+672,chicken out rotisserie,brie panini,57,g,210,mg,2370,g,82,g,75,g,17,g,0,g,4,g,5,g
+673,chicken out rotisserie,metropolitan wrap,15,g,90,mg,1540,g,85,g,43,g,5,g,0,g,8,g,27,g
+674,chicken out rotisserie,apricot chicken salad wrap,36,g,102,mg,1670,g,74,g,48,g,8,g,0,g,6,g,18,g
+675,chicken out rotisserie,marc antony wrap,76,g,125,mg,1980,g,69,g,48,g,14,g,0,g,7,g,17,g
+676,chicken out rotisserie,louisiana sandwich,22,g,150,mg,2490,g,70,g,57,g,8,g,0,g,4,g,28,g
+677,chicken out rotisserie,buckhead panini,62,g,215,mg,2280,g,85,g,76,g,16,g,0,g,6,g,7,g
+678,chicken out rotisserie,cobb wrap,41,g,250,mg,1900,g,64,g,55,g,9,g,0,g,6,g,9,g
+679,chicken out rotisserie,donovan sandwich,79,g,185,mg,2280,g,104,g,74,g,19,g,0,g,5,g,16,g
+680,chicken out rotisserie,hollywood sandwich,15,g,110,mg,1370,g,44,g,56,g,4.5,g,0,g,5,g,6,g
+681,chicken out rotisserie,grilled chicken caesar wrap,36,g,108,mg,1422,g,62,g,48,g,8,g,0,g,4,g,4,g
+682,chicken out rotisserie,katies sauce,0,g,0,mg,900,g,42,g,2,g,0,g,0,g,0,g,40,g
+683,chicken out rotisserie,cucumber and dill sauce,18,g,50,mg,330,g,4,g,2,g,10,g,0,g,0,g,0,g
+684,chicken out rotisserie,hand cut fresh fruit side salad,0,g,0,mg,10,g,29,g,1,g,0,g,0,g,3,g,25,g
+685,chicken out rotisserie,fresh fruit side salad,0,g,0,mg,12,g,24,g,1,g,0,g,0,g,1,g,22,g
+686,chicken out rotisserie,zucchini and yellow squash,3,g,10,mg,125,g,5,g,2,g,2,g,0,g,2,g,3,g
+687,chicken out rotisserie,jumbo baked sweet potato,1,g,0,mg,127,g,73,g,7,g,0,g,0,g,12,g,30,g
+688,chicken out rotisserie,apple cornbread stuffing,21,g,38,mg,1612,g,58,g,9,g,10,g,0,g,2,g,7,g
+689,chicken out rotisserie,peas corn and carrots,3,g,6,mg,528,g,34,g,8,g,1,g,0,g,8,g,7,g
+690,chicken out rotisserie,mashed sweet potatoes,1,g,0,mg,120,g,102,g,4,g,0,g,0,g,4,g,54,g
+691,chicken out rotisserie,baked sweet potato wedges,6,g,0,mg,260,g,39,g,4,g,0,g,0,g,6,g,12,g
+692,chicken out rotisserie,steamed vegetable medley,0,g,0,mg,25,g,6,g,2,g,0,g,0,g,2,g,2,g
+693,chicken out rotisserie,skinless baked idaho potato,0,g,0,mg,12,g,50,g,5,g,0,g,0,g,4,g,4,g
+694,chicken out rotisserie,40 reduced fat cape cod healthier chips,9,g,0,mg,160,g,27,g,3,g,0.5,g,0,g,2,g,1,g
+695,chicken out rotisserie,red skin mashed potatoes,16,g,42,mg,1317,g,44,g,5,g,10,g,0,g,4,g,3,g
+696,chicken out rotisserie,mushrooms and caramelized onions,14,g,5,mg,290,g,19,g,3,g,2.5,g,0,g,3,g,10,g
+697,chicken out rotisserie,potato salad with eggs,27,g,175,mg,640,g,29,g,8,g,6,g,0,g,3,g,3,g
+698,chicken out rotisserie,macaroni and cheese,8,g,10,mg,635,g,56,g,13,g,2.5,g,0,g,3,g,5,g
+699,chicken out rotisserie,farm fresh cole slaw,17,g,9,mg,417,g,18,g,2,g,3,g,0,g,3,g,13,g
+700,chicken out rotisserie,cucumber and onion side salad,0,g,0,mg,95,g,11,g,1,g,0,g,0,g,1,g,8,g
+701,chicken out rotisserie,baked idaho potato wedges,6,g,0,mg,370,g,39,g,5,g,0,g,0,g,4,g,2,g
+702,chicken out rotisserie,brown rice and red beans,5,g,0,mg,680,g,43,g,10,g,0.5,g,0,g,7,g,4,g
+703,chicken out rotisserie,chicken gravy,3,g,10,mg,105,g,3,g,1,g,2,g,0,g,0,g,0,g
+704,chicken out rotisserie,creamed spinach,25,g,75,mg,1190,g,16,g,9,g,14,g,0,g,3,g,7,g
+705,chicken out rotisserie,chunky cinnamon applesauce,4,g,9,mg,36,g,52,g,1,g,2,g,0,g,5,g,13,g
+706,chicken out rotisserie,green beans red peppers and caramelized onions,9,g,0,mg,310,g,12,g,2,g,1,g,0,g,4,g,4,g
+707,chicken out rotisserie,brown rice and vegetable side salad,19,g,0,mg,390,g,36,g,4,g,2,g,0,g,3,g,4,g
+708,chicken out rotisserie,cranberry relish,2,g,45,mg,64,g,69,g,1,g,0,g,0,g,3,g,66,g
+709,chicken out rotisserie,chicken noodle soup,6,g,80,mg,396,g,9,g,30,g,2,g,0,g,1,g,3,g
+710,chicken out rotisserie,turkey bean chili,13,g,45,mg,2480,g,91,g,34,g,2.5,g,0,g,22,g,24,g
+711,chicken out rotisserie,baked potato corn chowder soup,29,g,80,mg,1330,g,64,g,12,g,18,g,0,g,5,g,9,g
+712,chicken out rotisserie,vegetable primavera soup,7,g,45,mg,1580,g,45,g,26,g,1,g,0,g,10,g,20,g
+713,chicken out rotisserie,tex mex soup,10,g,40,mg,1470,g,42,g,20,g,2.5,g,0,g,7,g,12,g
+714,chilis grill and bar restaurant,original chicken crispers as served,34,g,105,mg,1350,g,23,g,31,g,6,g,0,g,3,g,10,g
+715,chilis grill and bar restaurant,southwestern eggrolls as served,41,g,50,mg,2180,g,82,g,28,g,10,g,0,g,8,g,9,g
+716,chilis grill and bar restaurant,boneless buffalo chicken wings as served single,47,g,60,mg,1980,g,28,g,23,g,8,g,0,g,2,g,1,g
+717,chilis grill and bar restaurant,skillet queso as served,86,g,90,mg,3740,g,127,g,37,g,25,g,0,g,10,g,15,g
+718,chilis grill and bar restaurant,texas cheese fries as served half order,95,g,210,mg,2600,g,65,g,56,g,43,g,0,g,5,g,3,g
+719,chilis grill and bar restaurant,classic nachos with chicken as served,86,g,345,mg,3580,g,56,g,90,g,46,g,0,g,6,g,10,g
+720,chilis grill and bar restaurant,fried pickles as served single,31,g,15,mg,1960,g,23,g,4,g,5,g,0,g,2,g,2,g
+721,chilis grill and bar restaurant,crispy cheddar bites as served,77,g,155,mg,2530,g,33,g,42,g,32,g,1.5,g,3,g,5,g
+722,chilis grill and bar restaurant,awesome blossom petals with blossom sauce,56,g,20,mg,1570,g,70,g,9,g,9,g,0,g,6,g,10,g
+723,chilis grill and bar restaurant,classic nachos as served,83,g,220,mg,2540,g,54,g,58,g,45,g,0,g,6,g,9,g
+724,chilis grill and bar restaurant,white spinach queso as served,92,g,105,mg,3170,g,126,g,40,g,32,g,1,g,12,g,10,g
+725,chilis grill and bar restaurant,bone in buffalo chicken wings as served,63,g,290,mg,2650,g,6,g,62,g,14,g,1,g,1,g,2,g
+726,chilis grill and bar restaurant,chips and salsa as served,45,g,0,mg,1920,g,113,g,13,g,7,g,0,g,8,g,5,g
+727,chilis grill and bar restaurant,boneless honey chipotle chicken wings as served,57,g,120,mg,2990,g,126,g,48,g,10,g,0,g,4,g,54,g
+728,chilis grill and bar restaurant,classic nachos with beef as served,103,g,375,mg,3990,g,54,g,110,g,52,g,1,g,6,g,9,g
+729,chilis grill and bar restaurant,chips with guacamole and salsa as served,66,g,0,mg,2350,g,128,g,16,g,10,g,0,g,18,g,7,g
+730,chilis grill and bar restaurant,boneless house bbq chicken wings as served single,37,g,65,mg,1880,g,43,g,24,g,6,g,0,g,3,g,16,g
+731,chilis grill and bar restaurant,loaded boneless wings as served,95,g,215,mg,3260,g,64,g,73,g,28,g,0.5,g,4,g,6,g
+732,chilis grill and bar restaurant,jumbo soft pretzels as served,48,g,35,mg,3570,g,125,g,31,g,17,g,0,g,6,g,7,g
+733,chilis grill and bar restaurant,honey chipotle chicken crispers as served,47,g,95,mg,2030,g,62,g,28,g,8,g,0,g,3,g,28,g
+734,chilis grill and bar restaurant,big mouth bites as served,54,g,110,mg,1640,g,40,g,34,g,16,g,1.5,g,3,g,11,g
+735,chilis grill and bar restaurant,southwestern eggrolls as served single,32,g,35,mg,1530,g,55,g,19,g,5,g,0,g,6,g,6,g
+736,chilis grill and bar restaurant,bone in house bbq chicken wings as served,52,g,295,mg,2100,g,21,g,62,g,12,g,0.5,g,1,g,16,g
+737,chilis grill and bar restaurant,fried pickles as served,45,g,15,mg,3610,g,45,g,7,g,7,g,0,g,4,g,2,g
+738,chilis grill and bar restaurant,bone in honey chipotle chicken wings as served,51,g,295,mg,2320,g,75,g,62,g,12,g,0.5,g,1,g,54,g
+739,chilis grill and bar restaurant,texas cheese fries with chili as served half order,110,g,255,mg,3260,g,72,g,72,g,49,g,1,g,7,g,5,g
+740,chilis grill and bar restaurant,texas cheese fries as served full order,127,g,290,mg,3880,g,97,g,81,g,58,g,0,g,8,g,4,g
+741,chilis grill and bar restaurant,california style flatbread as served,121,g,220,mg,2770,g,68,g,68,g,45,g,1.5,g,7,g,6,g
+742,chilis grill and bar restaurant,boneless buffalo chicken wings as served,71,g,120,mg,3840,g,58,g,49,g,12,g,0,g,4,g,2,g
+743,chilis grill and bar restaurant,boneless house bbq chicken wings as served,59,g,125,mg,2820,g,73,g,50,g,10,g,0,g,5,g,16,g
+744,chilis grill and bar restaurant,texas cheese fries with chili as served full order,156,g,375,mg,5200,g,111,g,111,g,70,g,2,g,11,g,8,g
+745,chilis grill and bar restaurant,boneless honey chipotle chicken wings as serve singled,36,g,65,mg,1600,g,63,g,23,g,6,g,0,g,2,g,28,g
+746,chilis grill and bar restaurant,crispy cheddar bites as served single,47,g,85,mg,1440,g,18,g,22,g,17,g,1,g,2,g,3,g
+747,chilis grill and bar restaurant,strawberry lemonade,0,g,0,mg,30,g,37,g,0,g,0,g,0,g,1,g,34,g
+748,chilis grill and bar restaurant,mango iced tea,0,g,0,mg,10,g,20,g,0,g,0,g,0,g,0,g,18,g
+749,chilis grill and bar restaurant,blackberry iced tea,0,g,0,mg,10,g,19,g,0,g,0,g,0,g,0,g,18,g
+750,chilis grill and bar restaurant,smothered prime rib burrito as served,53,g,155,mg,3600,g,117,g,65,g,22,g,1,g,11,g,9,g
+751,chilis grill and bar restaurant,molten chocolate cake as served,59,g,135,mg,1030,g,155,g,12,g,30,g,1,g,5,g,109,g
+752,chilis grill and bar restaurant,skillet chocolate chip cookie as served,50,g,95,mg,890,g,176,g,15,g,24,g,0.5,g,4,g,104,g
+753,chilis grill and bar restaurant,cheesecake as served,43,g,210,mg,430,g,73,g,11,g,23,g,1.5,g,1,g,30,g
+754,chilis grill and bar restaurant,mini molten chocolate cake as served,25,g,45,mg,530,g,82,g,7,g,13,g,0,g,3,g,56,g
+755,chilis grill and bar restaurant,paradise pie as served,52,g,150,mg,620,g,156,g,18,g,23,g,1,g,5,g,107,g
+756,chilis grill and bar restaurant,chicken enchilada as served,53,g,220,mg,3510,g,104,g,60,g,22,g,1,g,12,g,12,g
+757,chilis grill and bar restaurant,beef enchiladas as served,63,g,160,mg,3700,g,105,g,61,g,23,g,1,g,14,g,10,g
+758,chilis grill and bar restaurant,grilled chicken fajitas without topping or tortilla,20,g,225,mg,2200,g,22,g,63,g,4.5,g,0,g,3,g,10,g
+759,chilis grill and bar restaurant,lunch combo homestyle fries,8,g,0,mg,330,g,30,g,3,g,1.5,g,0,g,2,g,0,g
+760,chilis grill and bar restaurant,kids blue lagoon,0,g,0,mg,50,g,40,g,0,g,0,g,0,g,0,g,38,g
+761,chilis grill and bar restaurant,pepper pals cheese pizza 6 without side or drink,36,g,45,mg,740,g,33,g,17,g,14,g,1,g,2,g,2,g
+762,chilis grill and bar restaurant,pepper pals cheese quesadilla without side or drink,32,g,60,mg,750,g,29,g,18,g,15,g,0,g,1,g,1,g
+763,chilis grill and bar restaurant,kids homestyle fries,8,g,0,mg,330,g,30,g,3,g,1.5,g,0,g,2,g,0,g
+764,chilis grill and bar restaurant,pepper pals cheesy chicken pasta without side or drink,32,g,140,mg,1460,g,46,g,50,g,15,g,0,g,3,g,4,g
+765,chilis grill and bar restaurant,pepper pals grilled cheese sandwich without side or drink,26,g,35,mg,1100,g,36,g,13,g,11,g,0.5,g,2,g,6,g
+766,chilis grill and bar restaurant,pepper pals grilled chicken dippers without side or drink,20,g,100,mg,690,g,2,g,28,g,3.5,g,0,g,0,g,2,g
+767,chilis grill and bar restaurant,kids mandarin oranges,0,g,0,mg,10,g,20,g,2,g,0,g,0,g,1,g,17,g
+768,chilis grill and bar restaurant,pepper pals grilled chicken bites without side or drink,7,g,55,mg,550,g,34,g,24,g,2,g,0,g,2,g,8,g
+769,chilis grill and bar restaurant,kids side salad with ranch dressing,21,g,25,mg,440,g,8,g,4,g,4.5,g,0,g,1,g,3,g
+770,chilis grill and bar restaurant,pepper pals crispy crispers without side or drink,47,g,95,mg,1530,g,27,g,28,g,8,g,0,g,3,g,2,g
+771,chilis grill and bar restaurant,pepper pals cheeseburger bites without side or drink,23,g,65,mg,750,g,35,g,25,g,10,g,1,g,2,g,8,g
+772,chilis grill and bar restaurant,pepper pals kraft macaroni and cheese without side or drink,12,g,15,mg,940,g,64,g,15,g,4,g,0,g,3,g,11,g
+773,chilis grill and bar restaurant,pepper pals pepperoni pizza 6 without side or drink,44,g,65,mg,910,g,33,g,20,g,17,g,1.5,g,2,g,3,g
+774,chilis grill and bar restaurant,kids 2 chocolate milk,7,g,30,mg,250,g,45,g,11,g,4.5,g,0,g,3,g,36,g
+775,chilis grill and bar restaurant,kids corn on the cob,1.5,g,0,mg,0,g,29,g,4,g,0,g,0,g,3,g,11,g
+776,chilis grill and bar restaurant,kids fresh pineapple,0,g,0,mg,0,g,16,g,1,g,0,g,0,g,2,g,12,g
+777,chilis grill and bar restaurant,kids steamed broccoli,0,g,0,mg,45,g,8,g,3,g,0,g,0,g,4,g,2,g
+778,chilis grill and bar restaurant,kids mashed potatoes without gravy,6,g,0,mg,270,g,16,g,2,g,1.5,g,0,g,1,g,1,g
+779,chilis grill and bar restaurant,pepper pals burger bites without side or drik,20,g,55,mg,580,g,35,g,23,g,8,g,1,g,2,g,8,g
+780,chilis grill and bar restaurant,kids 2 milk,7,g,30,mg,170,g,18,g,12,g,4.5,g,0,g,0,g,18,g
+781,chilis grill and bar restaurant,kids apple juice togo cup,0,g,0,mg,10,g,29,g,0,g,0,g,0,g,0,g,28,g
+782,chilis grill and bar restaurant,kids 2 milk togo cup,8,g,35,mg,200,g,20,g,14,g,5,g,0,g,0,g,20,g
+783,chilis grill and bar restaurant,kids orange juice togo cup,0,g,0,mg,20,g,32,g,2,g,0,g,0,g,0,g,28,g
+784,chilis grill and bar restaurant,kids 2 chocolate milk togo cup,8,g,35,mg,290,g,53,g,13,g,5,g,0,g,3,g,42,g
+785,chilis grill and bar restaurant,kids cranberry juice togo cup,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,0,g,20,g
+786,chilis grill and bar restaurant,kids celery with ranch,18,g,15,mg,340,g,3,g,1,g,3,g,0,g,0,g,2,g
+787,chilis grill and bar restaurant,lunch combo bacon avocado chicken sandwich without fries,33,g,150,mg,1220,g,37,g,44,g,9,g,0,g,4,g,8,g
+788,chilis grill and bar restaurant,lunch combo spicy shrimp tacos 2 without chips or fries,22,g,135,mg,1450,g,39,g,19,g,6,g,0,g,4,g,7,g
+789,chilis grill and bar restaurant,lunch combo grilled chicken fajitas as served,52,g,185,mg,4490,g,130,g,67,g,21,g,0,g,13,g,17,g
+790,chilis grill and bar restaurant,lunch combo california turkey club toasted half sandwich without fries,29,g,65,mg,1130,g,39,g,27,g,9,g,0,g,4,g,8,g
+791,chilis grill and bar restaurant,lunch combo double burger without fries or chips,49,g,145,mg,2130,g,41,g,45,g,22,g,2.5,g,3,g,10,g
+792,chilis grill and bar restaurant,lunch combo bacon ranch chicken quesadilla without tortilla chips and salsa,70,g,135,mg,1960,g,35,g,34,g,22,g,1,g,2,g,5,g
+793,chilis grill and bar restaurant,lunch combo fresh mex chipotle chicken bowl without fries or tortilla chips,47,g,140,mg,2400,g,78,g,46,g,12,g,0,g,6,g,7,g
+794,chilis grill and bar restaurant,lunch combo boneless chicken wings without sauce or fries,22,g,60,mg,930,g,30,g,26,g,4,g,0,g,2,g,0,g
+795,chilis grill and bar restaurant,lunch combo chipotle chicken with fresh mex bowl without fries or chips,51,g,210,mg,2550,g,80,g,63,g,13,g,0,g,7,g,8,g
+796,chilis grill and bar restaurant,lunch combo chilis 1975 tacos 2 with sour cream and salsa,24,g,60,mg,1160,g,38,g,23,g,11,g,1,g,3,g,5,g
+797,chilis grill and bar restaurant,shrimp fajitas without toppings or tortillas,16,g,240,mg,2670,g,21,g,25,g,3.5,g,0,g,3,g,10,g
+798,chilis grill and bar restaurant,lunch combotostada chips with salsa,23,g,0,mg,1520,g,60,g,7,g,3.5,g,0,g,5,g,4,g
+799,chilis grill and bar restaurant,black beans for fajitas or side dish,1,g,0,mg,710,g,20,g,7,g,0,g,0,g,6,g,2,g
+800,chilis grill and bar restaurant,add on fajita flour tortillas 4,9,g,0,mg,760,g,55,g,9,g,3,g,0,g,2,g,1,g
+801,chilis grill and bar restaurant,black bean and veggie fajitas without toppings or fajita,38,g,10,mg,2360,g,66,g,28,g,7,g,0,g,19,g,20,g
+802,chilis grill and bar restaurant,mushroom jack fajitas without toppings or tortillas,44,g,190,mg,2610,g,28,g,56,g,19,g,0,g,5,g,13,g
+803,chilis grill and bar restaurant,smokehouse combo smoked brisket,22,g,65,mg,710,g,5,g,16,g,8,g,0,g,0,g,5,g
+804,chilis grill and bar restaurant,smokehouse combo crispy chicken crispers without sauce,29,g,75,mg,1230,g,25,g,27,g,5,g,0,g,3,g,1,g
+805,chilis grill and bar restaurant,salsa,0,g,0,mg,420,g,3,g,0,g,0,g,0,g,1,g,1,g
+806,chilis grill and bar restaurant,grilled steak fajitas without toppings or tortillas,42,g,180,mg,2480,g,21,g,55,g,17,g,2,g,3,g,9,g
+807,chilis grill and bar restaurant,smokehouse combo jalapeno cheddar smoked sausage,31,g,95,mg,1340,g,4,g,21,g,13,g,1,g,1,g,0,g
+808,chilis grill and bar restaurant,add on seared shrimp half order,1,g,60,mg,400,g,0,g,6,g,0,g,0,g,0,g,0,g
+809,chilis grill and bar restaurant,buttered burger bun,8,g,0,mg,320,g,37,g,7,g,2,g,0,g,2,g,8,g
+810,chilis grill and bar restaurant,add on black bean burger patty,8,g,0,mg,540,g,22,g,17,g,1,g,0,g,8,g,2,g
+811,chilis grill and bar restaurant,smokehouse combo cheesy bacon bbq chicken,20,g,155,mg,1480,g,13,g,42,g,9,g,0,g,1,g,10,g
+812,chilis grill and bar restaurant,add on fajitas grilled steak,15,g,90,mg,710,g,0,g,26,g,7,g,1,g,0,g,0,g
+813,chilis grill and bar restaurant,add on fajita white queso and pico de gallo,12,g,20,mg,440,g,5,g,6,g,6,g,0,g,1,g,3,g
+814,chilis grill and bar restaurant,sour cream,3,g,10,mg,70,g,2,g,1,g,1.5,g,0,g,0,g,2,g
+815,chilis grill and bar restaurant,add on fajita grilled chicken,4,g,115,mg,570,g,1,g,30,g,1,g,0,g,0,g,0,g
+816,chilis grill and bar restaurant,add on fajita peppers and onions,12,g,0,mg,1050,g,20,g,3,g,2.5,g,0,g,3,g,9,g
+817,chilis grill and bar restaurant,add on fajita corn tortillas 4,2.5,g,0,mg,20,g,42,g,4,g,0,g,0,g,5,g,0,g
+818,chilis grill and bar restaurant,smokehouse combo honey chipotle chicken crispers with ranch,47,g,95,mg,2030,g,62,g,28,g,8,g,0,g,3,g,28,g
+819,chilis grill and bar restaurant,smokehouse combo house bbq ribss,53,g,205,mg,1090,g,11,g,49,g,20,g,0,g,1,g,9,g
+820,chilis grill and bar restaurant,add on fajita seared shrimp,2,g,120,mg,810,g,1,g,11,g,0,g,0,g,0,g,0,g
+821,chilis grill and bar restaurant,add on fajita toppings,21,g,70,mg,910,g,6,g,16,g,13,g,0,g,1,g,4,g
+822,chilis grill and bar restaurant,smokehouse combo original chicken crispers with honey musard,34,g,105,mg,1350,g,23,g,31,g,6,g,0,g,3,g,10,g
+823,chilis grill and bar restaurant,add on seared shrimp full order,2,g,120,mg,810,g,1,g,11,g,0,g,0,g,0,g,0,g
+824,chilis grill and bar restaurant,smokehouse combo dry rub ribs,54,g,205,mg,2960,g,23,g,50,g,20,g,0,g,2,g,19,g
+825,chilis grill and bar restaurant,smokehouse combo honey chipotle bbq ribs,53,g,205,mg,900,g,23,g,49,g,20,g,0,g,0,g,17,g
+826,chilis grill and bar restaurant,add on guacamole,4.5,g,0,mg,95,g,3,g,1,g,0.5,g,0,g,2,g,0,g
+827,chilis grill and bar restaurant,black pepper gravy,1,g,0,mg,240,g,3,g,1,g,0,g,0,g,0,g,0,g
+828,chilis grill and bar restaurant,smokehouse combo original bbq ribs,53,g,205,mg,960,g,10,g,49,g,20,g,0,g,0,g,9,g
+829,chilis grill and bar restaurant,american cheese,6,g,15,mg,340,g,1,g,4,g,3.5,g,0,g,0,g,0,g
+830,chilis grill and bar restaurant,pepper jack cheese,6,g,20,mg,135,g,1,g,5,g,4,g,0,g,0,g,0,g
+831,chilis grill and bar restaurant,cheddar cheese,7,g,20,mg,130,g,0,g,5,g,4.5,g,0,g,0,g,0,g
+832,chilis grill and bar restaurant,pickles,0,g,0,mg,220,g,1,g,0,g,0,g,0,g,0,g,0,g
+833,chilis grill and bar restaurant,swiss cheese,7,g,20,mg,40,g,1,g,6,g,4,g,0,g,0,g,0,g
+834,chilis grill and bar restaurant,cajun pasta with grilled chicken as served,53,g,190,mg,3470,g,110,g,66,g,23,g,1,g,8,g,5,g
+835,chilis grill and bar restaurant,crispy honey chipotle chicken crispers as served,90,g,145,mg,4380,g,203,g,56,g,15,g,0,g,13,g,66,g
+836,chilis grill and bar restaurant,guiltless grill mango chile chicken with mexican rice and steamed broccoli,20,g,115,mg,1570,g,50,g,36,g,3.5,g,0,g,7,g,12,g
+837,chilis grill and bar restaurant,guiltless grill or regular grilled chicken salad as served with honey lime vinaigrette,23,g,130,mg,990,g,23,g,37,g,6,g,0,g,5,g,11,g
+838,chilis grill and bar restaurant,texas dry rub baby back ribs half rack without sides,54,g,205,mg,2960,g,23,g,50,g,20,g,0,g,2,g,19,g
+839,chilis grill and bar restaurant,cajun pasta with seared shrimp as served,51,g,195,mg,3580,g,109,g,47,g,22,g,1,g,7,g,5,g
+840,chilis grill and bar restaurant,texas original baby back ribs without sides full order,106,g,410,mg,1910,g,21,g,98,g,41,g,0,g,0,g,18,g
+841,chilis grill and bar restaurant,texas original baby back ribs without sides half rack,53,g,205,mg,960,g,10,g,49,g,20,g,0,g,0,g,9,g
+842,chilis grill and bar restaurant,texas dry rub baby back ribs full rack without sides,107,g,410,mg,5120,g,30,g,99,g,41,g,0,g,3,g,24,g
+843,chilis grill and bar restaurant,guiltless grill margarita grilled chicken with picotortilla strips mexican rice and black beans,16,g,170,mg,2340,g,68,g,55,g,3,g,0,g,7,g,9,g
+844,chilis grill and bar restaurant,guiltless grill ancho salmon as served,30,g,100,mg,1850,g,42,g,48,g,6,g,0,g,5,g,5,g
+845,chilis grill and bar restaurant,guiltless grill classic sirloin 6 oz with grilled avocado and roasted asparagus,16,g,85,mg,1190,g,13,g,38,g,4,g,0,g,6,g,4,g
+846,chilis grill and bar restaurant,fresh mex chipotle chicken bowl as served,51,g,210,mg,2550,g,80,g,63,g,13,g,0,g,7,g,8,g
+847,chilis grill and bar restaurant,classic sirloin 6 oz without sides,13,g,85,mg,640,g,1,g,34,g,4.5,g,0,g,0,g,0,g
+848,chilis grill and bar restaurant,classic sirloin 10 oz without sides,19,g,140,mg,960,g,2,g,55,g,7,g,1,g,0,g,1,g
+849,chilis grill and bar restaurant,crispy honey chipotle chicken crispers and waffles as served,125,g,185,mg,4730,g,306,g,64,g,40,g,0.5,g,13,g,123,g
+850,chilis grill and bar restaurant,classic ribeye without sides,40,g,185,mg,1450,g,0,g,67,g,17,g,2.5,g,0,g,0,g
+851,chilis grill and bar restaurant,fresh mex chipotle shrimp bowl as served,48,g,220,mg,2900,g,79,g,35,g,12,g,0,g,7,g,7,g
+852,chilis grill and bar restaurant,crispy chicken crispers without sauce,72,g,130,mg,3070,g,130,g,55,g,12,g,0,g,12,g,13,g
+853,chilis grill and bar restaurant,honey chipotle bbq baby back ribs without sides full rack,106,g,410,mg,1800,g,47,g,98,g,41,g,0,g,0,g,34,g
+854,chilis grill and bar restaurant,country fried steak with gravy without sides,35,g,70,mg,1160,g,30,g,39,g,8,g,1,g,3,g,2,g
+855,chilis grill and bar restaurant,original bbq baby back ribs without sides,106,g,410,mg,1910,g,21,g,98,g,41,g,0,g,0,g,18,g
+856,chilis grill and bar restaurant,house bbq ribs without sides half rack,53,g,205,mg,1090,g,11,g,49,g,20,g,0,g,1,g,9,g
+857,chilis grill and bar restaurant,original tempura battered chicken crispers as served,67,g,160,mg,3060,g,120,g,61,g,11,g,0,g,12,g,23,g
+858,chilis grill and bar restaurant,house bbq ribs without sides full rack,107,g,410,mg,2180,g,21,g,99,g,41,g,0,g,1,g,19,g
+859,chilis grill and bar restaurant,original bbq baby back ribs without sides half rack,53,g,205,mg,960,g,10,g,49,g,20,g,0,g,0,g,9,g
+860,chilis grill and bar restaurant,honey chipotle bbq baby back ribs without sides half rack,53,g,205,mg,840,g,18,g,49,g,20,g,0,g,0,g,13,g
+861,chilis grill and bar restaurant,fresh mex prime rib bowl as served,46,g,95,mg,2370,g,94,g,42,g,11,g,1,g,8,g,16,g
+862,chilis grill and bar restaurant,crispy buffalo bleu with bleu cheese as served,129,g,170,mg,4770,g,143,g,61,g,23,g,1,g,13,g,19,g
+863,chilis grill and bar restaurant,margherita flatbread as served,107,g,165,mg,2210,g,62,g,52,g,42,g,1.5,g,4,g,5,g
+864,chilis grill and bar restaurant,bacon ranch chicken quesadilla as served,125,g,265,mg,3710,g,70,g,69,g,42,g,1.5,g,5,g,11,g
+865,chilis grill and bar restaurant,bacon ranch steak quesadilla as served,137,g,285,mg,4000,g,69,g,82,g,46,g,2,g,4,g,10,g
+866,chilis grill and bar restaurant,ranch dressing,18,g,15,mg,300,g,2,g,1,g,3,g,0,g,0,g,2,g
+867,chilis grill and bar restaurant,honey lime vinaigrette,12,g,0,mg,230,g,6,g,0,g,2,g,0,g,0,g,4,g
+868,chilis grill and bar restaurant,citrus balsamic vinaigrette,25,g,0,mg,230,g,5,g,0,g,4,g,0,g,0,g,5,g
+869,chilis grill and bar restaurant,honey mustard dressing,18,g,20,mg,330,g,10,g,1,g,3,g,0,g,0,g,10,g
+870,chilis grill and bar restaurant,avocado ranch dressing,14,g,10,mg,250,g,3,g,1,g,2.5,g,0,g,1,g,1,g
+871,chilis grill and bar restaurant,bleu cheese dressing,27,g,15,mg,260,g,1,g,1,g,5,g,0,g,0,g,1,g
+872,chilis grill and bar restaurant,ancho chile ranch dressing,17,g,15,mg,350,g,3,g,1,g,3,g,0,g,0,g,2,g
+873,chilis grill and bar restaurant,santa fe dressing,22,g,15,mg,530,g,2,g,1,g,3.5,g,0,g,0,g,2,g
+874,chilis grill and bar restaurant,honey lime dressing,17,g,15,mg,210,g,12,g,1,g,3,g,0,g,0,g,10,g
+875,chilis grill and bar restaurant,thousand island dressing,19,g,20,mg,370,g,6,g,0,g,3,g,0,g,0,g,6,g
+876,chilis grill and bar restaurant,caesar dressing,23,g,25,mg,250,g,2,g,2,g,4,g,0,g,0,g,1,g
+877,chilis grill and bar restaurant,santa fe chicken salad with house made ranch,44,g,140,mg,1460,g,27,g,36,g,7,g,0,g,7,g,8,g
+878,chilis grill and bar restaurant,quesadilla explosion salad with cheese quesadillas and citrus balsamic dressing,94,g,200,mg,2230,g,82,g,63,g,29,g,5,g,9,g,17,g
+879,chilis grill and bar restaurant,boneless buffalo chicken salad with house made ranch dressing,64,g,145,mg,4780,g,60,g,52,g,14,g,0.5,g,7,g,7,g
+880,chilis grill and bar restaurant,caribbean salad with grilled chicken and honey lime dressing,28,g,130,mg,1020,g,85,g,34,g,4.5,g,0,g,8,g,70,g
+881,chilis grill and bar restaurant,southwestern chicken caesar salad with caesar dressing,46,g,155,mg,1090,g,21,g,39,g,10,g,0,g,5,g,5,g
+882,chilis grill and bar restaurant,caesar salad with caesar dressing,27,g,25,mg,510,g,14,g,5,g,5,g,0,g,2,g,2,g
+883,chilis grill and bar restaurant,house salad without dressing,7,g,15,mg,290,g,15,g,6,g,3,g,0,g,2,g,4,g
+884,chilis grill and bar restaurant,caribbean salad with seared shrimp and honey lime dressing,26,g,135,mg,1120,g,80,g,16,g,4,g,0,g,8,g,66,g
+885,chilis grill and bar restaurant,southwestern seared shrimp caesar salad with caesar dressing,44,g,165,mg,1330,g,21,g,20,g,10,g,0,g,5,g,4,g
+886,chilis grill and bar restaurant,santa fe chicken crispers salad with house made ranch dressing,69,g,100,mg,1990,g,50,g,33,g,11,g,0,g,10,g,8,g
+887,chilis grill and bar restaurant,caribbean salad with dressing,24,g,15,mg,310,g,80,g,5,g,4,g,0,g,8,g,66,g
+888,chilis grill and bar restaurant,fresco salad with honey lime vinaigrette,10,g,5,mg,240,g,7,g,3,g,2.5,g,0,g,1,g,3,g
+889,chilis grill and bar restaurant,lunch combo house salad without dressing,3.5,g,5,mg,140,g,8,g,3,g,1.5,g,0,g,1,g,2,g
+890,chilis grill and bar restaurant,lunch combo fresco salad with honey lime dressing,5,g,0,mg,130,g,4,g,2,g,1,g,0,g,1,g,1,g
+891,chilis grill and bar restaurant,lunch combo caesar salad with caesar dresssing,14,g,15,mg,250,g,7,g,3,g,2.5,g,0,g,1,g,1,g
+892,chilis grill and bar restaurant,2 chocolate milk kids,7,g,30,mg,250,g,45,g,11,g,4.5,g,0,g,3,g,36,g
+893,chilis grill and bar restaurant,2 chocolate milk kids togo cup,8,g,35,mg,290,g,53,g,13,g,5,g,0,g,3,g,42,g
+894,chilis grill and bar restaurant,2 milk kids,7,g,30,mg,170,g,18,g,12,g,4.5,g,0,g,0,g,18,g
+895,chilis grill and bar restaurant,2 milk kids togo cup,8,g,35,mg,200,g,20,g,14,g,5,g,0,g,0,g,20,g
+896,chilis grill and bar restaurant,add applewood smoked bacon,6,g,15,mg,210,g,0,g,5,g,2,g,0,g,0,g,0,g
+897,chilis grill and bar restaurant,add avocado slices,7,g,0,mg,0,g,4,g,1,g,1,g,0,g,3,g,0,g
+898,chilis grill and bar restaurant,add seared shrimp full order,2,g,120,mg,810,g,1,g,11,g,0,g,0,g,0,g,0,g
+899,chilis grill and bar restaurant,add seared shrimp half order,1,g,60,mg,400,g,0,g,6,g,0,g,0,g,0,g,0,g
+900,chilis grill and bar restaurant,add the original chili,9,g,25,mg,480,g,4,g,9,g,3.5,g,0.5,g,0,g,1,g
+901,chilis grill and bar restaurant,alexs santa fe beef burger,62,g,140,mg,1120,g,45,g,51,g,25,g,2.5,g,5,g,11,g
+902,chilis grill and bar restaurant,american cheese,6,g,15,mg,340,g,1,g,4,g,3.5,g,0,g,0,g,0,g
+903,chilis grill and bar restaurant,ancho chile ranch dressing 1 5 fl oz,17,g,15,mg,350,g,3,g,1,g,3,g,0,g,0,g,2,g
+904,chilis grill and bar restaurant,ancho chile ranch dressing 2 fl oz,22,g,20,mg,470,g,4,g,2,g,4,g,0,g,0,g,2,g
+905,chilis grill and bar restaurant,angry orchard,0,g,0,mg,15,g,24,g,0,g,0,g,0,g,0,g,20,g
+906,chilis grill and bar restaurant,apple juice togo cup,0,g,0,mg,10,g,29,g,0,g,0,g,0,g,0,g,28,g
+907,chilis grill and bar restaurant,avocado ranch dressing 1 5 fl oz,14,g,10,mg,250,g,3,g,1,g,2.5,g,0,g,1,g,1,g
+908,chilis grill and bar restaurant,avocado ranch dressing 2 fl oz,19,g,15,mg,330,g,4,g,1,g,3,g,0,g,1,g,2,g
+909,chilis grill and bar restaurant,avocado slices,7,g,0,mg,0,g,4,g,1,g,1,g,0,g,3,g,0,g
+910,chilis grill and bar restaurant,awesome blossom petals,50,g,15,mg,1650,g,70,g,9,g,8,g,0,g,5,g,10,g
+911,chilis grill and bar restaurant,bacon avocado chicken sandwich,61,g,275,mg,2390,g,75,g,83,g,15,g,0.5,g,9,g,15,g
+912,chilis grill and bar restaurant,big mouth bites,72,g,185,mg,2680,g,76,g,65,g,26,g,2.5,g,5,g,19,g
+913,chilis grill and bar restaurant,black bean and veggie fajitas,38,g,10,mg,2360,g,66,g,28,g,7,g,0,g,19,g,20,g
+914,chilis grill and bar restaurant,black bean patty,8,g,0,mg,540,g,22,g,17,g,1,g,0,g,8,g,2,g
+915,chilis grill and bar restaurant,blackberry ice tea regular cup,0,g,0,mg,10,g,19,g,0,g,0,g,0,g,0,g,18,g
+916,chilis grill and bar restaurant,blackberry ice tea togo cup,0,g,0,mg,15,g,19,g,0,g,0,g,0,g,0,g,18,g
+917,chilis grill and bar restaurant,bleu cheese dressing 1 5 fl oz,27,g,15,mg,260,g,1,g,1,g,5,g,0,g,0,g,1,g
+918,chilis grill and bar restaurant,bleu cheese dressing 2 fl oz,35,g,20,mg,350,g,2,g,1,g,6,g,0.5,g,0,g,1,g
+919,chilis grill and bar restaurant,bloody mary or maria,1,g,0,mg,2080,g,14,g,2,g,0,g,0,g,4,g,4,g
+920,chilis grill and bar restaurant,blue lagoon kids,0,g,0,mg,50,g,40,g,0,g,0,g,0,g,0,g,38,g
+921,chilis grill and bar restaurant,blue lagoon kids togo cup,0,g,0,mg,65,g,49,g,0,g,0,g,0,g,0,g,48,g
+922,chilis grill and bar restaurant,blueberry and pineapple margarita,0,g,0,mg,0,g,51,g,0,g,0,g,0,g,1,g,46,g
+923,chilis grill and bar restaurant,bone in wings buffalo,63,g,290,mg,2650,g,6,g,62,g,14,g,1,g,1,g,2,g
+924,chilis grill and bar restaurant,bone in wings honey chipotle,51,g,295,mg,2320,g,75,g,62,g,12,g,0.5,g,1,g,54,g
+925,chilis grill and bar restaurant,bone in wings house bbq,52,g,295,mg,2100,g,21,g,62,g,12,g,0.5,g,1,g,16,g
+926,chilis grill and bar restaurant,bone in wings mango habanero,51,g,295,mg,2490,g,32,g,62,g,12,g,0.5,g,2,g,25,g
+927,chilis grill and bar restaurant,boneless buffalo chicken salad,64,g,145,mg,4780,g,60,g,52,g,14,g,0.5,g,7,g,7,g
+928,chilis grill and bar restaurant,boneless wings buffalo,71,g,120,mg,3840,g,58,g,49,g,12,g,0,g,4,g,2,g
+929,chilis grill and bar restaurant,boneless wings honey chipotle,57,g,120,mg,2990,g,126,g,48,g,10,g,0,g,4,g,54,g
+930,chilis grill and bar restaurant,boneless wings house bbq,60,g,125,mg,3610,g,89,g,50,g,10,g,0,g,5,g,30,g
+931,chilis grill and bar restaurant,boneless wings mango habanero,57,g,120,mg,3160,g,82,g,48,g,10,g,0,g,5,g,25,g
+932,chilis grill and bar restaurant,bud light,0,g,0,mg,0,g,7,g,1,g,0,g,0,g,0,g,0,g
+933,chilis grill and bar restaurant,bud light 10 fl oz,0,g,0,mg,0,g,5,g,1,g,0,g,0,g,0,g,0,g
+934,chilis grill and bar restaurant,bud light 16 fl oz,0,g,0,mg,0,g,9,g,1,g,0,g,0,g,0,g,0,g
+935,chilis grill and bar restaurant,bud light 22 fl oz,0,g,0,mg,0,g,12,g,2,g,0,g,0,g,0,g,0,g
+936,chilis grill and bar restaurant,budweiser,0,g,0,mg,0,g,11,g,1,g,0,g,0,g,0,g,0,g
+937,chilis grill and bar restaurant,buffalo chicken ranch sandwich,51,g,110,mg,4260,g,81,g,46,g,10,g,0,g,6,g,12,g
+938,chilis grill and bar restaurant,burger bun buttered,8,g,0,mg,320,g,37,g,7,g,2,g,0,g,2,g,8,g
+939,chilis grill and bar restaurant,caesar dressing 1 5 fl oz,23,g,25,mg,250,g,2,g,2,g,4,g,0,g,0,g,1,g
+940,chilis grill and bar restaurant,caesar dressing 2 fl oz,31,g,30,mg,330,g,3,g,2,g,5,g,0,g,0,g,1,g
+941,chilis grill and bar restaurant,caesar salad,27,g,25,mg,510,g,14,g,5,g,5,g,0,g,2,g,2,g
+942,chilis grill and bar restaurant,caesar salad lunch combo,14,g,15,mg,250,g,7,g,3,g,2.5,g,0,g,1,g,1,g
+943,chilis grill and bar restaurant,cajun pasta with grilled chicken,53,g,190,mg,3470,g,110,g,66,g,23,g,1,g,8,g,5,g
+944,chilis grill and bar restaurant,cajun pasta with seared shrimp,51,g,195,mg,3580,g,109,g,47,g,22,g,1,g,7,g,5,g
+945,chilis grill and bar restaurant,california turkey club,59,g,115,mg,2210,g,78,g,48,g,16,g,0.5,g,9,g,17,g
+946,chilis grill and bar restaurant,captains castaway,0,g,0,mg,0,g,40,g,0,g,0,g,0,g,0,g,38,g
+947,chilis grill and bar restaurant,caribbean salad,24,g,15,mg,310,g,80,g,5,g,4,g,0,g,8,g,66,g
+948,chilis grill and bar restaurant,caribbean salad with grilled chicken,28,g,130,mg,1020,g,85,g,34,g,4.5,g,0,g,8,g,70,g
+949,chilis grill and bar restaurant,caribbean salad with shrimp,26,g,135,mg,1120,g,80,g,16,g,4,g,0,g,8,g,66,g
+950,chilis grill and bar restaurant,carnitas fajitas,48,g,120,mg,2490,g,26,g,36,g,14,g,0.5,g,3,g,14,g
+951,chilis grill and bar restaurant,cheddar cheese,7,g,20,mg,130,g,0,g,5,g,4.5,g,0,g,0,g,0,g
+952,chilis grill and bar restaurant,cheesecake,43,g,210,mg,430,g,73,g,11,g,23,g,1.5,g,1,g,60,g
+953,chilis grill and bar restaurant,cheesy bacon bbq chicken,20,g,155,mg,1480,g,13,g,42,g,9,g,0,g,1,g,10,g
+954,chilis grill and bar restaurant,chicken enchilada soup bowl,26,g,65,mg,1490,g,24,g,20,g,9,g,0,g,3,g,3,g
+955,chilis grill and bar restaurant,chicken enchilada soup cup,13,g,35,mg,750,g,12,g,10,g,4.5,g,0,g,1,g,2,g
+956,chilis grill and bar restaurant,chicky chicky bleu sandwich,77,g,135,mg,3510,g,90,g,56,g,17,g,1,g,0,g,16,g
+957,chilis grill and bar restaurant,chile garlic toast,7,g,0,mg,380,g,17,g,3,g,1.5,g,0,g,1,g,1,g
+958,chilis grill and bar restaurant,chilis chili beef burger,65,g,160,mg,1520,g,48,g,57,g,28,g,3,g,3,g,10,g
+959,chilis grill and bar restaurant,chips and salsa,45,g,0,mg,1920,g,113,g,13,g,7,g,0,g,8,g,5,g
+960,chilis grill and bar restaurant,chips with guacamole and salsa,66,g,0,mg,2350,g,128,g,16,g,10,g,0,g,18,g,7,g
+961,chilis grill and bar restaurant,citrus balsamic vinaigrette 1 5 fl oz,25,g,0,mg,230,g,5,g,0,g,4,g,0,g,0,g,5,g
+962,chilis grill and bar restaurant,citrus balsamic vinaigrette 2 fl oz,33,g,0,mg,310,g,7,g,0,g,5,g,0,g,0,g,6,g
+963,chilis grill and bar restaurant,clam chowder bowl,23,g,90,mg,690,g,21,g,11,g,13,g,0,g,1,g,5,g
+964,chilis grill and bar restaurant,clam chowder cup,12,g,45,mg,340,g,10,g,5,g,6,g,0,g,1,g,3,g
+965,chilis grill and bar restaurant,classic beef patty,39,g,115,mg,350,g,0,g,38,g,17,g,2.5,g,0,g,0,g
+966,chilis grill and bar restaurant,classic nachos,83,g,220,mg,2540,g,54,g,58,g,45,g,0,g,6,g,9,g
+967,chilis grill and bar restaurant,classic nachos beef,103,g,375,mg,3990,g,54,g,110,g,52,g,1,g,6,g,9,g
+968,chilis grill and bar restaurant,classic nachos chicken,86,g,345,mg,3580,g,56,g,90,g,46,g,0,g,6,g,10,g
+969,chilis grill and bar restaurant,classic ribeye,40,g,185,mg,1450,g,0,g,67,g,17,g,2.5,g,0,g,0,g
+970,chilis grill and bar restaurant,classic sirloin 10 oz,19,g,140,mg,960,g,2,g,55,g,7,g,1,g,0,g,1,g
+971,chilis grill and bar restaurant,classic sirloin 6 oz,13,g,85,mg,640,g,1,g,34,g,4.5,g,0,g,0,g,0,g
+972,chilis grill and bar restaurant,coca cola zero kid cup,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+973,chilis grill and bar restaurant,coca cola zero regular cup,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+974,chilis grill and bar restaurant,coca cola zero togo cup,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+975,chilis grill and bar restaurant,coca cola kid cup,0,g,0,mg,30,g,26,g,0,g,0,g,0,g,0,g,26,g
+976,chilis grill and bar restaurant,coca cola regular cup,0,g,0,mg,35,g,29,g,0,g,0,g,0,g,0,g,29,g
+977,chilis grill and bar restaurant,coca cola togo cup,0,g,0,mg,60,g,52,g,0,g,0,g,0,g,0,g,52,g
+978,chilis grill and bar restaurant,coors light,0,g,0,mg,10,g,5,g,0,g,0,g,0,g,0,g,0,g
+979,chilis grill and bar restaurant,coors light 10 fl oz,0,g,0,mg,10,g,4,g,0,g,0,g,0,g,0,g,0,g
+980,chilis grill and bar restaurant,coors light 16 fl oz,0,g,0,mg,15,g,7,g,0,g,0,g,0,g,0,g,0,g
+981,chilis grill and bar restaurant,coors light 22 fl oz,0,g,0,mg,20,g,9,g,0,g,0,g,0,g,0,g,0,g
+982,chilis grill and bar restaurant,corona extra,0,g,0,mg,15,g,15,g,1,g,0,g,0,g,0,g,4,g
+983,chilis grill and bar restaurant,corona light,0,g,0,mg,20,g,5,g,1,g,0,g,0,g,0,g,3,g
+984,chilis grill and bar restaurant,country fried steak with gravy,35,g,70,mg,1160,g,30,g,39,g,8,g,1,g,3,g,2,g
+985,chilis grill and bar restaurant,craft beer 3 5 abv 10 fl oz,0,g,0,mg,0,g,15,g,0,g,0,g,0,g,0,g,0,g
+986,chilis grill and bar restaurant,craft beer 3 5 abv 16 fl oz,0,g,0,mg,0,g,23,g,0,g,0,g,0,g,0,g,0,g
+987,chilis grill and bar restaurant,craft beer 3 5 abv 22 fl oz,0,g,0,mg,0,g,32,g,0,g,0,g,0,g,0,g,0,g
+988,chilis grill and bar restaurant,craft beer 6 8 abv 10 fl oz,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,0,g
+989,chilis grill and bar restaurant,craft beer 6 8 abv 16 fl oz,0,g,0,mg,0,g,27,g,0,g,0,g,0,g,0,g,0,g
+990,chilis grill and bar restaurant,craft beer 6 8 abv 22 fl oz,0,g,0,mg,0,g,37,g,0,g,0,g,0,g,0,g,0,g
+991,chilis grill and bar restaurant,cranberry juice togo cup,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,0,g,20,g
+992,chilis grill and bar restaurant,crispers crispy without sauce,29,g,75,mg,1230,g,25,g,27,g,5,g,0,g,3,g,1,g
+993,chilis grill and bar restaurant,crispers honey chipotle with ranch,47,g,95,mg,2030,g,62,g,28,g,8,g,0,g,3,g,28,g
+994,chilis grill and bar restaurant,crispers mango habanero withranch,47,g,95,mg,2120,g,40,g,28,g,8,g,0,g,3,g,14,g
+995,chilis grill and bar restaurant,crispers original with honey mustard,34,g,105,mg,1350,g,23,g,31,g,6,g,0,g,3,g,10,g
+996,chilis grill and bar restaurant,crispy buffalo bleu crispers,127,g,170,mg,4800,g,136,g,60,g,23,g,1,g,13,g,16,g
+997,chilis grill and bar restaurant,crispy cheddar bites,77,g,155,mg,2530,g,33,g,42,g,32,g,1.5,g,3,g,5,g
+998,chilis grill and bar restaurant,crispy chicken crispers,72,g,130,mg,3070,g,130,g,55,g,12,g,0,g,12,g,13,g
+999,chilis grill and bar restaurant,crispy chicken crispers choice of sauce bbq sauce,0,g,0,mg,590,g,16,g,1,g,0,g,0,g,0,g,14,g
