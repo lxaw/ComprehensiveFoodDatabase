@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,ruby tuesday,mild buffalo chicken wings with mild buffalo sauce,42,g,289,mg,1948,g,1,g,55,g,7,g,0,g,0,g,0,g
+1,ruby tuesday,hot buffalo chicken wings with hot buffalo sauce,24,g,289,mg,2158,g,1,g,55,g,6,g,0,g,0,g,0,g
+2,ruby tuesday,shrimp fondue with chips,19,g,0,mg,657,g,24,g,10,g,0,g,0,g,2,g,0,g
+3,ruby tuesday,queso and chips,68,g,6,mg,2153,g,108,g,23,g,17,g,0,g,10,g,13,g
+4,ruby tuesday,thai chicken wings with thai sauce,24,g,289,mg,1251,g,19,g,55,g,6,g,0,g,0,g,18,g
+5,ruby tuesday,santa fe chicken quesadilla without sauce,16,g,0,mg,646,g,13,g,15,g,0,g,0,g,2,g,0,g
+6,ruby tuesday,hickory bourbon bbq chicken wings,24,g,289,mg,1368,g,33,g,55,g,6,g,0,g,0,g,28,g
+7,ruby tuesday,thai spring rolls with thai sauce,25,g,36,mg,1483,g,68,g,15,g,4,g,0,g,3,g,19,g
+8,ruby tuesday,four way sampler without sauce,15,g,0,mg,777,g,17,g,18,g,0,g,0,g,1,g,0,g
+9,ruby tuesday,cajun honey chicken wings with spicy honey sauce,24,g,289,mg,1460,g,34,g,55,g,6,g,0,g,0,g,28,g
+10,ruby tuesday,philly cheesesteak potstickers,9,g,17,mg,885,g,31,g,13,g,3,g,0,g,2,g,2,g
+11,ruby tuesday,southwestern spring rolls without dressing,8,g,0,mg,305,g,18,g,4,g,0,g,0,g,1,g,0,g
+12,ruby tuesday,caribbean chicken and coconut crusted shrimp without sides,18,g,0,mg,1067,g,20,g,48,g,0,g,0,g,5,g,0,g
+13,ruby tuesday,asian dumplings without sauce,2,g,0,mg,243,g,8,g,3,g,0,g,0,g,1,g,0,g
+14,ruby tuesday,barbecue chicken flatbread,7,g,0,mg,273,g,10,g,9,g,0,g,0,g,1,g,0,g
+15,ruby tuesday,crispy chicken bites with mild buffalo sauce,39,g,116,mg,1880,g,29,g,40,g,4,g,0,g,1,g,0,g
+16,ruby tuesday,california chicken flatbread,7,g,0,mg,198,g,10,g,6,g,0,g,0,g,1,g,0,g
+17,ruby tuesday,crispy chicken bites with cajun honey sauce,21,g,116,mg,1392,g,62,g,40,g,3,g,0,g,1,g,28,g
+18,ruby tuesday,fresh guacamole dip with chips,19,g,0,mg,268,g,28,g,4,g,0,g,0,g,7,g,0,g
+19,ruby tuesday,crispy chicken bites with thai sauce,21,g,116,mg,1183,g,47,g,40,g,3,g,0,g,1,g,18,g
+20,ruby tuesday,thai phoon shrimp,62,g,125,mg,1574,g,38,g,14,g,9,g,0,g,2,g,2,g
+21,ruby tuesday,texas dusted chicken wings with blue cheese dressing,62,g,319,mg,2562,g,7,g,59,g,14,g,0,g,0,g,4,g
+22,ruby tuesday,lobster dip,19,g,0,mg,457,g,24,g,9,g,0,g,0,g,2,g,0,g
+23,ruby tuesday,crispy chicken bites with hot buffalo sauce,21,g,116,mg,2090,g,29,g,40,g,6,g,0,g,1,g,0,g
+24,ruby tuesday,crispy chicken bites with honey mustard dressing,29,g,126,mg,1070,g,34,g,40,g,4,g,0,g,1,g,5,g
+25,ruby tuesday,shrimp fondu,74,g,188,mg,2326,g,99,g,40,g,21,g,0,g,9,g,7,g
+26,ruby tuesday,fire wings without sauce,11,g,0,mg,603,g,4,g,16,g,0,g,0,g,1,g,0,g
+27,ruby tuesday,ribs and chicken tenders with fries,54,g,0,mg,2165,g,108,g,77,g,0,g,0,g,6,g,0,g
+28,ruby tuesday,crispy chicken bites texas dusted,21,g,116,mg,2054,g,33,g,40,g,3,g,0,g,1,g,2,g
+29,ruby tuesday,key west coconut shrimp without sauce,4,g,0,mg,100,g,6,g,3,g,0,g,0,g,1,g,0,g
+30,ruby tuesday,tempura green beans with thai sauce,60,g,0,mg,1645,g,56,g,5,g,10,g,0,g,7,g,15,g
+31,ruby tuesday,four cheese bianca flatbread,10,g,0,mg,258,g,9,g,5,g,0,g,0,g,1,g,0,g
+32,ruby tuesday,italian five cheese skillet,44,g,57,mg,2585,g,86,g,41,g,17,g,0,g,3,g,5,g
+33,ruby tuesday,crispy chicken bites with hickory bourbon bbq sauce,24,g,289,mg,1368,g,33,g,55,g,6,g,0,g,0,g,27,g
+34,ruby tuesday,sour cream,1,g,4,mg,8,g,1,g,0,g,0,g,0,g,0,g,0,g
+35,ruby tuesday,mustard,0,g,0,mg,34,g,0,g,0,g,0,g,0,g,0,g,0,g
+36,ruby tuesday,mayonnaise,24,g,20,mg,160,g,0,g,0,g,4,g,0,g,0,g,0,g
+37,ruby tuesday,red velvet cupcake,11,g,0,mg,305,g,45,g,2,g,0,g,0,g,1,g,0,g
+38,ruby tuesday,new york cheesecake with marinated strawberries,61,g,315,mg,662,g,90,g,16,g,36,g,2,g,4,g,73,g
+39,ruby tuesday,apple crumble skillet with ice cream,46,g,83,mg,570,g,103,g,7,g,24,g,0,g,1,g,58,g
+40,ruby tuesday,pineapple upside down cake with ice cream,18,g,99,mg,379,g,73,g,5,g,10,g,0,g,1,g,56,g
+41,ruby tuesday,chocolate chip cookie,9,g,0,mg,190,g,24,g,2,g,0,g,0,g,1,g,0,g
+42,ruby tuesday,chocolate fall cake with ice cream,59,g,192,mg,627,g,180,g,11,g,29,g,1,g,9,g,108,g
+43,ruby tuesday,caramel crunch cake with ice cream,37,g,108,mg,497,g,99,g,8,g,15,g,0,g,2,g,67,g
+44,ruby tuesday,double chocolate cake,31,g,0,mg,797,g,119,g,22,g,0,g,0,g,5,g,0,g
+45,ruby tuesday,blondie for one,23,g,0,mg,192,g,77,g,9,g,0,g,0,g,2,g,0,g
+46,ruby tuesday,tiramisu,30,g,0,mg,55,g,69,g,5,g,0,g,0,g,0,g,0,g
+47,ruby tuesday,carrot cake cupcake,16,g,0,mg,170,g,45,g,2,g,0,g,0,g,1,g,0,g
+48,ruby tuesday,key lime cake with whipped cream,44,g,74,mg,500,g,86,g,7,g,17,g,0,g,1,g,62,g
+49,ruby tuesday,white chocolate macadamia nut cookie,12,g,0,mg,190,g,23,g,4,g,0,g,0,g,1,g,0,g
+50,ruby tuesday,peanut butter dream bar,44,g,0,mg,483,g,97,g,13,g,0,g,0,g,4,g,0,g
+51,ruby tuesday,blondie for two,40,g,0,mg,292,g,129,g,14,g,0,g,0,g,3,g,0,g
+52,ruby tuesday,cookies and cream cake with ice cream,32,g,123,mg,460,g,95,g,7,g,18,g,0,g,3,g,51,g
+53,ruby tuesday,french fries,25,g,0,mg,1888,g,64,g,7,g,3,g,0,g,6,g,0,g
+54,ruby tuesday,sweet potato fries,23,g,0,mg,1483,g,55,g,3,g,3,g,0,g,6,g,21,g
+55,ruby tuesday,kids mini burgers with cheese and fries,43,g,86,mg,2356,g,64,g,33,g,13,g,0,g,5,g,4,g
+56,ruby tuesday,kids cheese pizza,14,g,30,mg,790,g,61,g,24,g,6,g,0,g,4,g,6,g
+57,ruby tuesday,kids corn dog with french fries,38,g,20,mg,2070,g,62,g,13,g,7,g,0,g,5,g,8,g
+58,ruby tuesday,kids mac n cheese without side,25,g,23,mg,1134,g,34,g,11,g,8,g,5,g,2,g,5,g
+59,ruby tuesday,kids grilled chicken breast without side,8,g,73,mg,118,g,0,g,26,g,1,g,0,g,0,g,0,g
+60,ruby tuesday,kids side of french fries,12,g,0,mg,944,g,32,g,3,g,1,g,0,g,3,g,0,g
+61,ruby tuesday,kids pasta marinara without fries,6,g,0,mg,1508,g,89,g,16,g,0,g,0,g,6,g,0,g
+62,ruby tuesday,kids grilled cheese with fries,26,g,0,mg,1495,g,92,g,17,g,0,g,0,g,5,g,0,g
+63,ruby tuesday,kids side of grapes,1,g,0,mg,0,g,16,g,1,g,0,g,0,g,1,g,15,g
+64,ruby tuesday,kids hand breaded chicken tenders with honey mustard dressing without side,20,g,64,mg,1172,g,18,g,21,g,3,g,0,g,1,g,5,g
+65,ruby tuesday,kids tomato basil pasta,5,g,0,mg,1003,g,83,g,11,g,0,g,0,g,4,g,3,g
+66,ruby tuesday,kids buttery pasta,25,g,0,mg,892,g,83,g,11,g,4,g,0,g,4,g,1,g
+67,ruby tuesday,kids cajun fried shrimp with fries,24,g,0,mg,2120,g,63,g,17,g,0,g,0,g,5,g,0,g
+68,ruby tuesday,kids side fresh steamed broccoli,2,g,0,mg,77,g,5,g,3,g,0,g,0,g,2,g,1,g
+69,ruby tuesday,kids crispy popcorn shrimp with french fries,25,g,47,mg,1875,g,48,g,10,g,3,g,0,g,4,g,0,g
+70,ruby tuesday,kids turkey mini burgers with fries,35,g,0,mg,1590,g,79,g,29,g,0,g,0,g,5,g,0,g
+71,ruby tuesday,kids chocolate sundae,18,g,67,mg,73,g,36,g,4,g,10,g,0,g,1,g,31,g
+72,ruby tuesday,kids side fresh green beans,4,g,0,mg,311,g,5,g,1,g,0,g,0,g,3,g,1,g
+73,ruby tuesday,kids side of apples,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,3,g,13,g
+74,ruby tuesday,kids tomato basil pasta with gluten free penne,3,g,0,mg,371,g,59,g,5,g,0,g,0,g,0,g,2,g
+75,ruby tuesday,kids strawberry sundae,16,g,63,mg,71,g,44,g,3,g,9,g,0,g,2,g,37,g
+76,ruby tuesday,kids buttery pasta with gluten free penne,12,g,0,mg,110,g,54,g,4,g,2,g,0,g,1,g,0,g
+77,ruby tuesday,kids beef mini burgers with fries,45,g,0,mg,1870,g,79,g,31,g,0,g,0,g,5,g,0,g
+78,ruby tuesday,fruit punch,0,g,0,mg,10,g,10,g,0,g,0,g,0,g,0,g,0,g
+79,ruby tuesday,kids side fresh grilled zucchini,0,g,0,mg,260,g,2,g,1,g,0,g,0,g,1,g,1,g
+80,ruby tuesday,kids mashed potatoes side,16,g,0,mg,787,g,32,g,5,g,4,g,0,g,4,g,1,g
+81,ruby tuesday,kids milk,5,g,0,mg,120,g,12,g,8,g,0,g,0,g,0,g,0,g
+82,ruby tuesday,petite lunch jumbo shrimp scampi with mashed potatoes and broccoli,14,g,0,mg,1209,g,22,g,24,g,0,g,0,g,5,g,0,g
+83,ruby tuesday,petite lunch chicken fresco with mashed potatoes and broccoli,22,g,0,mg,1031,g,28,g,26,g,0,g,0,g,5,g,0,g
+84,ruby tuesday,petite lunch creole catch with mashed potatoes and broccoli,14,g,0,mg,611,g,22,g,25,g,0,g,0,g,5,g,0,g
+85,ruby tuesday,petite lunch sliced sirloin with mashed potatoes and broccoli,20,g,0,mg,836,g,25,g,26,g,0,g,0,g,5,g,0,g
+86,ruby tuesday,petite lunch parmesan shrimp pasta without sides,36,g,0,mg,2279,g,54,g,27,g,0,g,0,g,3,g,0,g
+87,ruby tuesday,fit and trim petite sirloin 6 oz and chimichurri butter with rice pilaf and fresh grilled zucchini,17,g,79,mg,1798,g,43,g,37,g,6,g,0,g,1,g,2,g
+88,ruby tuesday,fit and trim grilled salmon with rice pilaf and fresh grilled zucchini,31,g,150,mg,1751,g,42,g,58,g,5,g,0,g,1,g,3,g
+89,ruby tuesday,fit and trim hickory bourbon salmon with rice pilaf and fresh grilled zucchini,25,g,110,mg,1914,g,62,g,47,g,6,g,0,g,1,g,21,g
+90,ruby tuesday,fit and trim hickory bourbon chicken with rice pilaf and fresh grilled zucchini,6,g,73,mg,1618,g,60,g,31,g,0,g,0,g,1,g,20,g
+91,ruby tuesday,classic bbq triple play with french fries,74,g,273,mg,4388,g,125,g,75,g,17,g,0,g,8,g,24,g
+92,ruby tuesday,fit and trim top sirloin 8 oz and chimichuri butter with rice pilaf and fresh grilled zucchini,23,g,124,mg,2135,g,44,g,55,g,8,g,0,g,1,g,2,g
+93,ruby tuesday,fit and trim chicken bella with rice pilaf and fresh grilled zucchini,21,g,86,mg,2417,g,52,g,35,g,5,g,0,g,4,g,5,g
+94,ruby tuesday,texas dusted triple play with french fries,85,g,273,mg,4508,g,128,g,75,g,19,g,0,g,8,g,28,g
+95,ruby tuesday,hickory bourbon chicken without sides,5,g,73,mg,329,g,18,g,26,g,0,g,0,g,0,g,18,g
+96,ruby tuesday,classic barbecue ribs without sides,24,g,0,mg,365,g,21,g,44,g,0,g,0,g,0,g,0,g
+97,ruby tuesday,new orleans seafood without sides,15,g,213,mg,1808,g,3,g,44,g,4,g,0,g,0,g,1,g
+98,ruby tuesday,chicken fresco without sides,21,g,117,mg,1230,g,3,g,32,g,7,g,1,g,0,g,1,g
+99,ruby tuesday,memphis dry rub ribs without sides,24,g,0,mg,95,g,6,g,44,g,0,g,0,g,0,g,0,g
+100,ruby tuesday,classic barbecue half rack baby back ribs with bbq sauce without sides,22,g,152,mg,414,g,21,g,43,g,11,g,0,g,0,g,14,g
+101,ruby tuesday,top sirloin 8 oz without sides,22,g,124,mg,839,g,2,g,50,g,8,g,0,g,0,g,0,g
+102,ruby tuesday,smoky mountain chicken without sides,23,g,155,mg,1629,g,20,g,46,g,9,g,1,g,0,g,18,g
+103,ruby tuesday,classic barbecue full rack baby back ribs with bbq sauce without sides,46,g,304,mg,829,g,42,g,87,g,23,g,0,g,0,g,28,g
+104,ruby tuesday,southern style chicken tender dinner with french fries and honey mustard dressing small,49,g,83,mg,2935,g,86,g,35,g,6,g,0,g,7,g,5,g
+105,ruby tuesday,plain grilled chicken without sides,6,g,0,mg,248,g,0,g,40,g,0,g,0,g,0,g,0,g
+106,ruby tuesday,texas dusted full rack baby back ribs without sides,68,g,304,mg,891,g,30,g,87,g,27,g,0,g,0,g,18,g
+107,ruby tuesday,asiago peppercorn sirloin without sides,18,g,134,mg,1434,g,6,g,44,g,7,g,0,g,0,g,0,g
+108,ruby tuesday,rib eye without sides,74,g,0,mg,1067,g,7,g,61,g,0,g,0,g,0,g,0,g
+109,ruby tuesday,hickory bourbon chicken with spaghetti squash and zucchini,9,g,0,mg,760,g,25,g,42,g,0,g,0,g,3,g,0,g
+110,ruby tuesday,louisiana fried shrimp without sides,29,g,0,mg,3040,g,47,g,28,g,0,g,0,g,4,g,0,g
+111,ruby tuesday,crab cake dinner without sides,17,g,0,mg,840,g,14,g,16,g,0,g,0,g,2,g,0,g
+112,ruby tuesday,herb crusted tilapia without sides,24,g,0,mg,944,g,11,g,39,g,0,g,0,g,2,g,0,g
+113,ruby tuesday,texas dusted half rack baby back ribs without sides,33,g,152,mg,534,g,24,g,43,g,13,g,0,g,0,g,18,g
+114,ruby tuesday,petite sirloin 6 oz with chimichuri butter without sides,17,g,79,mg,582,g,1,g,32,g,7,g,0,g,0,g,0,g
+115,ruby tuesday,chicken bella with spaghetti squash and zucchini,23,g,0,mg,1162,g,15,g,47,g,0,g,0,g,6,g,0,g
+116,ruby tuesday,chicken bella without sides,16,g,110,mg,1559,g,8,g,36,g,3,g,1,g,4,g,1,g
+117,ruby tuesday,hickory bourbon glazed pork chop with mashed potatoes and green beans,42,g,155,mg,2665,g,60,g,69,g,11,g,0,g,10,g,22,g
+118,ruby tuesday,texas dusted ribs and panko crusted shrimp with fries,69,g,227,mg,3910,g,115,g,61,g,17,g,0,g,8,g,23,g
+119,ruby tuesday,petite sirloin and lobster tail without sides,23,g,0,mg,1168,g,4,g,52,g,0,g,0,g,0,g,0,g
+120,ruby tuesday,petite sirloin with spaghetti squash and zucchini,25,g,0,mg,950,g,13,g,32,g,0,g,0,g,3,g,0,g
+121,ruby tuesday,top sirloin with spaghetti squash and zucchini,27,g,0,mg,1119,g,15,g,43,g,0,g,0,g,3,g,0,g
+122,ruby tuesday,new york strip 10 oz with chimichuri butter without sides,40,g,126,mg,1172,g,0,g,48,g,17,g,2,g,0,g,0,g
+123,ruby tuesday,petite sirloin and panko crusted shrimp without sides,29,g,154,mg,2070,g,28,g,43,g,7,g,0,g,2,g,5,g
+124,ruby tuesday,bbq ribs and louisiana fried shrimp without sides,53,g,0,mg,3405,g,68,g,72,g,0,g,0,g,4,g,0,g
+125,ruby tuesday,grilled salmon with spaghetti squash and zucchini,23,g,0,mg,1120,g,9,g,44,g,0,g,0,g,3,g,0,g
+126,ruby tuesday,double decker chicken without sides,34,g,229,mg,2992,g,13,g,78,g,8,g,2,g,7,g,3,g
+127,ruby tuesday,classic bbq ribs and southern style chicken tenders with french fries,67,g,216,mg,3125,g,103,g,71,g,17,g,0,g,7,g,19,g
+128,ruby tuesday,asiago peppercorn strip without sides,39,g,173,mg,1189,g,5,g,55,g,17,g,1,g,0,g,1,g
+129,ruby tuesday,southern style chicken tender dinner with french fries and honey mustard dressing large,74,g,139,mg,3684,g,105,g,49,g,10,g,0,g,8,g,15,g
+130,ruby tuesday,cajun rib eye with chimichuri butter without sides,50,g,140,mg,480,g,0,g,56,g,24,g,4,g,0,g,0,g
+131,ruby tuesday,top sirloin 8 oz with chimichuri butter witbout sides,22,g,124,mg,839,g,2,g,50,g,8,g,0,g,0,g,0,g
+132,ruby tuesday,memphis ribs and louisiana fried shrimp without sides,53,g,0,mg,3135,g,53,g,72,g,0,g,0,g,4,g,0,g
+133,ruby tuesday,asiago sirloin and panko crusted shrimp without sides,26,g,167,mg,2551,g,31,g,41,g,6,g,0,g,3,g,7,g
+134,ruby tuesday,french quarter gumbo without sides,45,g,0,mg,3311,g,49,g,49,g,0,g,0,g,5,g,0,g
+135,ruby tuesday,classic ribs and panko crusted shrimp with french fries,68,g,227,mg,910,g,115,g,61,g,1,g,0,g,8,g,23,g
+136,ruby tuesday,texas dusted ribs and southern style chicken tenders with fries,78,g,216,mg,3245,g,106,g,71,g,19,g,0,g,7,g,23,g
+137,ruby tuesday,shellfish trio without sides,17,g,0,mg,1420,g,7,g,40,g,0,g,0,g,1,g,0,g
+138,ruby tuesday,chicken and broccoli pasta,92,g,158,mg,3869,g,96,g,52,g,25,g,0,g,39,g,7,g
+139,ruby tuesday,parmesan shrimp pasta,54,g,377,mg,4671,g,96,g,58,g,21,g,1,g,5,g,9,g
+140,ruby tuesday,crispy chicken mac n cheese,74,g,202,mg,3464,g,116,g,75,g,28,g,0,g,4,g,1,g
+141,ruby tuesday,spaghetti squash marinara without biscuit,11,g,0,mg,1367,g,32,g,7,g,0,g,0,g,8,g,0,g
+142,ruby tuesday,cajun jambalaya pasta without biscuit,48,g,0,mg,3715,g,84,g,56,g,0,g,0,g,12,g,0,g
+143,ruby tuesday,parmesan chicken pasta without biscuit,74,g,0,mg,3481,g,110,g,63,g,0,g,0,g,6,g,0,g
+144,ruby tuesday,california primavera pasta with grilled chicken,63,g,157,mg,2760,g,69,g,50,g,23,g,0,g,39,g,6,g
+145,ruby tuesday,california primavera pasta gluten free with grilled shrimp,60,g,159,mg,2006,g,81,g,26,g,22,g,0,g,5,g,6,g
+146,ruby tuesday,california primavera pasta gluten free with grilled chicken,63,g,157,mg,2361,g,82,g,46,g,23,g,0,g,38,g,6,g
+147,ruby tuesday,california primavera pasta gluten free,59,g,57,mg,1281,g,81,g,14,g,22,g,0,g,5,g,6,g
+148,ruby tuesday,california primavera pasta,59,g,57,mg,1680,g,68,g,18,g,22,g,0,g,6,g,6,g
+149,ruby tuesday,chicken and mushroom alfredo without biscuit,66,g,0,mg,3401,g,87,g,71,g,0,g,0,g,9,g,0,g
+150,ruby tuesday,california primavera pasta with grilled shrimp,60,g,159,mg,2405,g,68,g,30,g,22,g,0,g,6,g,6,g
+151,ruby tuesday,roasted corn,0,g,0,mg,0,g,5,g,1,g,0,g,0,g,0,g,2,g
+152,ruby tuesday,chopped garden bar mix,0,g,0,mg,5,g,2,g,1,g,0,g,0,g,1,g,1,g
+153,ruby tuesday,sliced baby bellas,0,g,0,mg,0,g,3,g,2,g,0,g,0,g,0,g,0,g
+154,ruby tuesday,diced ham,2,g,16,mg,290,g,1,g,4,g,1,g,0,g,0,g,0,g
+155,ruby tuesday,baby spinach,0,g,0,mg,24,g,1,g,1,g,0,g,0,g,1,g,0,g
+156,ruby tuesday,celery sticks,0,g,0,mg,150,g,7,g,1,g,0,g,0,g,3,g,0,g
+157,ruby tuesday,grape tomatoes,0,g,0,mg,3,g,2,g,0,g,0,g,0,g,1,g,1,g
+158,ruby tuesday,pepper strips,0,g,0,mg,2,g,3,g,1,g,0,g,0,g,1,g,2,g
+159,ruby tuesday,broccoli florets,0,g,0,mg,26,g,5,g,2,g,0,g,0,g,2,g,1,g
+160,ruby tuesday,green peas,0,g,0,mg,66,g,8,g,3,g,0,g,0,g,3,g,4,g
+161,ruby tuesday,ribbon cut carrots,0,g,0,mg,20,g,3,g,0,g,0,g,0,g,1,g,1,g
+162,ruby tuesday,mandarin oranges,0,g,0,mg,0,g,19,g,1,g,0,g,0,g,2,g,17,g
+163,ruby tuesday,banana peppers,0,g,0,mg,266,g,2,g,0,g,0,g,0,g,1,g,0,g
+164,ruby tuesday,grapes,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,8,g
+165,ruby tuesday,pico de gallo,0,g,0,mg,1242,g,17,g,2,g,0,g,0,g,2,g,10,g
+166,ruby tuesday,black olives,1,g,0,mg,55,g,1,g,0,g,1,g,0,g,0,g,0,g
+167,ruby tuesday,field greens,0,g,0,mg,6,g,1,g,0,g,0,g,0,g,0,g,0,g
+168,ruby tuesday,diced apples,0,g,0,mg,1,g,9,g,0,g,0,g,0,g,2,g,6,g
+169,ruby tuesday,black beans,0,g,0,mg,93,g,5,g,2,g,0,g,0,g,2,g,0,g
+170,ruby tuesday,shredded mozzarella blend,7,g,20,mg,210,g,1,g,8,g,4,g,0,g,0,g,0,g
+171,ruby tuesday,chopped romaine,0,g,0,mg,3,g,2,g,1,g,0,g,0,g,1,g,1,g
+172,ruby tuesday,baby carrots,0,g,0,mg,22,g,3,g,0,g,0,g,0,g,1,g,2,g
+173,ruby tuesday,spicy roasted broccoli,5,g,0,mg,370,g,4,g,2,g,0,g,0,g,2,g,1,g
+174,ruby tuesday,diced cucumbers,0,g,0,mg,1,g,2,g,0,g,0,g,0,g,0,g,1,g
+175,ruby tuesday,shredded cheddar cheese,2,g,8,mg,45,g,0,g,2,g,1,g,0,g,0,g,0,g
+176,ruby tuesday,diced red onions,0,g,0,mg,3,g,7,g,1,g,0,g,0,g,1,g,2,g
+177,ruby tuesday,diced eggs,6,g,235,mg,78,g,1,g,7,g,2,g,0,g,0,g,1,g
+178,ruby tuesday,artichoke hearts,0,g,0,mg,105,g,2,g,1,g,0,g,0,g,1,g,0,g
+179,ruby tuesday,beets,0,g,0,mg,18,g,2,g,0,g,0,g,0,g,1,g,1,g
+180,ruby tuesday,edamame,4,g,0,mg,9,g,6,g,10,g,1,g,0,g,6,g,0,g
+181,ruby tuesday,ranch dressing,9,g,0,mg,250,g,1,g,0,g,0,g,0,g,0,g,0,g
+182,ruby tuesday,french dressing,10,g,0,mg,267,g,5,g,0,g,1,g,0,g,0,g,5,g
+183,ruby tuesday,italian herb vinaigrette dressing,14,g,0,mg,270,g,2,g,0,g,2,g,0,g,0,g,2,g
+184,ruby tuesday,honey mustard dressing,8,g,10,mg,150,g,5,g,0,g,1,g,0,g,0,g,5,g
+185,ruby tuesday,sriracha ranch dressing,8,g,0,mg,273,g,1,g,0,g,0,g,0,g,0,g,0,g
+186,ruby tuesday,lite ranch dressing,5,g,5,mg,280,g,6,g,1,g,0,g,0,g,0,g,1,g
+187,ruby tuesday,balsamic vinaigrette,0,g,0,mg,4,g,2,g,0,g,0,g,0,g,0,g,2,g
+188,ruby tuesday,thousand island dressing,9,g,7,mg,201,g,4,g,0,g,1,g,0,g,0,g,4,g
+189,ruby tuesday,blue cheese dressing,19,g,0,mg,220,g,1,g,2,g,0,g,0,g,0,g,0,g
+190,ruby tuesday,buttermilk blue cheese dressing,19,g,15,mg,190,g,1,g,1,g,3,g,0,g,0,g,1,g
+191,ruby tuesday,signature parmesan dressing,16,g,0,mg,240,g,1,g,1,g,0,g,0,g,0,g,0,g
+192,ruby tuesday,creamy caesar dressing,19,g,15,mg,380,g,1,g,1,g,3,g,0,g,0,g,0,g
+193,ruby tuesday,raspberry poppy seed vinaigrette,9,g,0,mg,217,g,4,g,0,g,1,g,0,g,0,g,3,g
+194,ruby tuesday,garden herb ranch dresssing,37.2,g,30,mg,747,g,3.4,g,0,g,6.8,g,0,g,0,g,0,g
+195,ruby tuesday,olive oil,14,g,0,mg,0,g,0,g,0,g,2,g,0,g,0,g,0,g
+196,ruby tuesday,grilled chicken salad without dressing,29,g,0,mg,1182,g,47,g,72,g,0,g,0,g,8,g,0,g
+197,ruby tuesday,veggie basil pasta salad,13,g,0,mg,485,g,30,g,7,g,1,g,0,g,2,g,2,g
+198,ruby tuesday,kale caesar salad and grilled salmon caesar traditional green salad with metro caesar dressing,61,g,104,mg,1907,g,40,g,38,g,10,g,0,g,5,g,6,g
+199,ruby tuesday,bbq chicken chopped salad with bbq ranch dressing,50,g,129,mg,2378,g,69,g,48,g,9,g,0,g,8,g,17,g
+200,ruby tuesday,grilled salmon salad without dressing,40,g,0,mg,1755,g,37,g,61,g,0,g,0,g,4,g,0,g
+201,ruby tuesday,crispy chicken cobb chopped salad with garden herb ranch dressing,55,g,156,mg,2212,g,64,g,41,g,9,g,0,g,6,g,5,g
+202,ruby tuesday,kale caesar chopped salad with grilled salmon and metro caesar dressing,61,g,104,mg,1907,g,40,g,38,g,10,g,0,g,5,g,6,g
+203,ruby tuesday,traditional crispy chicken cobb green salad with garden herb ranch dressing,73,g,171,mg,2552,g,67,g,42,g,12,g,0,g,5,g,7,g
+204,ruby tuesday,kale caesar chopped salad with grilled chicken and metro caesar dressing,55,g,112,mg,1964,g,40,g,41,g,8,g,0,g,5,g,6,g
+205,ruby tuesday,mediterranean chopped chicken salad with italian herb vinaigrette,49,g,128,mg,3086,g,45,g,44,g,7,g,0,g,39,g,9,g
+206,ruby tuesday,hummus,3,g,0,mg,90,g,2,g,1,g,0,g,0,g,1,g,1,g
+207,ruby tuesday,kale caesar salad with grilled chicken traditional green salad with metro caesar dressing,55,g,112,mg,1964,g,40,g,41,g,8,g,0,g,5,g,6,g
+208,ruby tuesday,mediterranean chicken traditional green salad with italian herb vinaigrette,70,g,128,mg,3499,g,49,g,44,g,10,g,0,g,38,g,13,g
+209,ruby tuesday,traditional bbq chicken green salad with bbq ranch dressing,67,g,142,mg,2905,g,74,g,49,g,12,g,0,g,7,g,21,g
+210,ruby tuesday,add 2 grilled shrimp skewers to steak,6,g,100,mg,800,g,0,g,12,g,0,g,0,g,0,g,0,g
+211,ruby tuesday,apple crumble skillet,46,g,85,mg,570,g,103,g,7,g,24,g,0,g,1,g,58,g
+212,ruby tuesday,asiago peppercorn sirloin,18,g,135,mg,1430,g,6,g,44,g,7,g,0,g,0,g,1,g
+213,ruby tuesday,asiago peppercorn strip,39,g,175,mg,1190,g,5,g,55,g,17,g,1,g,0,g,1,g
+214,ruby tuesday,asiago sirloin and panko crusted shrimp,26,g,165,mg,2550,g,31,g,41,g,6,g,0,g,3,g,7,g
+215,ruby tuesday,avocado grilled chicken,48,g,120,mg,3500,g,104,g,54,g,8,g,1,g,10,g,7,g
+216,ruby tuesday,avocado turkey burger,67,g,150,mg,3220,g,104,g,50,g,14,g,0,g,10,g,7,g
+217,ruby tuesday,bacon cheeseburger,63,g,140,mg,3270,g,100,g,54,g,18,g,1,g,7,g,7,g
+218,ruby tuesday,bbq chicken salad chopped salad,50,g,130,mg,2380,g,69,g,48,g,9,g,0,g,8,g,17,g
+219,ruby tuesday,bbq chicken salad filled baguette,52,g,130,mg,2370,g,69,g,47,g,10,g,0,g,7,g,18,g
+220,ruby tuesday,bbq chicken salad traditional green salad,67,g,140,mg,2910,g,74,g,49,g,12,g,0,g,7,g,21,g
+221,ruby tuesday,blackened tilapia,6,g,100,mg,1180,g,2,g,31,g,1,g,0,g,0,g,0,g
+222,ruby tuesday,broccoli and cheese soup,20,g,30,mg,970,g,19,g,7,g,7,g,0,g,0,g,8,g
+223,ruby tuesday,buttermilk blue cheese dressing,19,g,15,mg,190,g,1,g,1,g,3,g,0,g,0,g,1,g
+224,ruby tuesday,caesar salad,30,g,20,mg,760,g,14,g,6,g,5,g,0,g,1,g,0,g
+225,ruby tuesday,cajun honey sauce,0,g,0,mg,250,g,22,g,0,g,0,g,0,g,0,g,19,g
+226,ruby tuesday,cajun rib eye,56,g,140,mg,560,g,0,g,56,g,26,g,4,g,0,g,0,g
+227,ruby tuesday,california primavera pasta,59,g,55,mg,1680,g,68,g,18,g,22,g,0,g,6,g,6,g
+228,ruby tuesday,california primavera pasta with grilled chicken,63,g,155,mg,2760,g,69,g,50,g,23,g,0,g,39,g,6,g
+229,ruby tuesday,california primavera pasta with grilled shrimp,60,g,160,mg,2410,g,68,g,30,g,22,g,0,g,6,g,6,g
+230,ruby tuesday,california primavera with gluten free pasta,59,g,55,mg,1280,g,81,g,14,g,22,g,0,g,5,g,6,g
+231,ruby tuesday,california primavera with gluten free pasta and grilled chicken,63,g,155,mg,2360,g,82,g,46,g,23,g,0,g,38,g,6,g
+232,ruby tuesday,california primavera with gluten free pasta and grilled shrimp,60,g,160,mg,2010,g,81,g,26,g,22,g,0,g,5,g,6,g
+233,ruby tuesday,caramel crunch cake,37,g,110,mg,500,g,99,g,8,g,15,g,0,g,2,g,67,g
+234,ruby tuesday,caramel sauce,0,g,5,mg,50,g,24,g,1,g,1,g,2,g,0,g,21,g
+235,ruby tuesday,chicken and broccoli pasta,91,g,160,mg,3870,g,96,g,52,g,25,g,0,g,39,g,7,g
+236,ruby tuesday,chicken bella,16,g,110,mg,1560,g,8,g,36,g,3,g,1,g,4,g,1,g
+237,ruby tuesday,chicken fresco,21,g,115,mg,1230,g,3,g,32,g,7,g,1,g,0,g,1,g
+238,ruby tuesday,chicken wings cajun honey,24,g,290,mg,1460,g,34,g,55,g,6,g,0,g,0,g,28,g
+239,ruby tuesday,chicken wings hickory bourbon,24,g,290,mg,1370,g,33,g,55,g,6,g,0,g,0,g,28,g
+240,ruby tuesday,chicken wings hot,24,g,290,mg,2160,g,1,g,55,g,6,g,0,g,0,g,0,g
+241,ruby tuesday,chicken wings mild,42,g,290,mg,1950,g,1,g,55,g,7,g,0,g,0,g,0,g
+242,ruby tuesday,chicken wings texas dry rub,62,g,320,mg,2560,g,7,g,59,g,14,g,0,g,0,g,4,g
+243,ruby tuesday,chicken wings thai,24,g,290,mg,1250,g,19,g,55,g,6,g,0,g,0,g,18,g
+244,ruby tuesday,chocolate fall cake,59,g,190,mg,630,g,180,g,11,g,29,g,1,g,9,g,108,g
+245,ruby tuesday,chocolate sauce,2,g,5,mg,5,g,12,g,1,g,1,g,0,g,1,g,10,g
+246,ruby tuesday,classic barbecue sauce,0,g,0,mg,270,g,15,g,0,g,0,g,0,g,0,g,14,g
+247,ruby tuesday,classic cheese and bacon minis combo,54,g,100,mg,2780,g,66,g,37,g,16,g,0,g,5,g,6,g
+248,ruby tuesday,classic cheese minis combo,45,g,85,mg,2210,g,61,g,29,g,12,g,0,g,3,g,4,g
+249,ruby tuesday,classic cheeseburger,56,g,120,mg,3120,g,100,g,48,g,15,g,1,g,7,g,7,g
+250,ruby tuesday,cocktail sauce,0,g,0,mg,380,g,5,g,0,g,0,g,0,g,0,g,4,g
+251,ruby tuesday,colossal burger,90,g,255,mg,3990,g,123,g,90,g,29,g,3,g,8,g,13,g
+252,ruby tuesday,creamy caesar dressing,19,g,15,mg,380,g,1,g,1,g,3,g,0,g,0,g,0,g
+253,ruby tuesday,crispy chicken bites buffalo hot,21,g,115,mg,2090,g,29,g,40,g,3,g,0,g,1,g,0,g
+254,ruby tuesday,crispy chicken bites buffalo mild,39,g,115,mg,1880,g,29,g,40,g,4,g,0,g,1,g,0,g
+255,ruby tuesday,crispy chicken bites cajun honey,21,g,115,mg,1390,g,62,g,40,g,3,g,0,g,1,g,28,g
+256,ruby tuesday,crispy chicken bites classic,29,g,125,mg,1070,g,34,g,40,g,4,g,0,g,1,g,5,g
+257,ruby tuesday,crispy chicken bites hickory bourbon,21,g,115,mg,1300,g,61,g,40,g,3,g,0,g,1,g,28,g
+258,ruby tuesday,crispy chicken bites texas dusted,21,g,115,mg,2050,g,33,g,40,g,3,g,0,g,1,g,2,g
+259,ruby tuesday,crispy chicken bites thai,21,g,115,mg,1180,g,47,g,40,g,3,g,0,g,1,g,18,g
+260,ruby tuesday,crispy chicken cobb chopped salad,55,g,155,mg,2210,g,64,g,41,g,9,g,0,g,6,g,5,g
+261,ruby tuesday,crispy chicken cobb salad filled baguette,57,g,160,mg,2140,g,63,g,41,g,9,g,0,g,5,g,5,g
+262,ruby tuesday,crispy chicken cobb traditional green salad,73,g,170,mg,2550,g,67,g,42,g,12,g,0,g,5,g,7,g
+263,ruby tuesday,crispy chicken mac n cheese,74,g,200,mg,3460,g,116,g,75,g,28,g,0,g,4,g,1,g
+264,ruby tuesday,double decker chicken,34,g,230,mg,2990,g,13,g,78,g,8,g,2,g,7,g,3,g
+265,ruby tuesday,fit and trim chicken bella,21,g,85,mg,2420,g,52,g,35,g,5,g,0,g,4,g,5,g
+266,ruby tuesday,fit and trim garden salad salad bar,18,g,30,mg,400,g,14,g,9,g,6,g,0,g,1,g,1,g
+267,ruby tuesday,fit and trim grilled salmon,31,g,150,mg,1750,g,42,g,58,g,5,g,0,g,1,g,3,g
+268,ruby tuesday,fit and trim hickory bourbon chicken,6,g,75,mg,1620,g,60,g,31,g,0,g,0,g,1,g,20,g
+269,ruby tuesday,fit and trim hickory bourbon salmon,25,g,110,mg,1910,g,62,g,47,g,6,g,0,g,1,g,21,g
+270,ruby tuesday,fit and trim petite sirloin 6 oz,17,g,80,mg,1800,g,43,g,37,g,6,g,0,g,1,g,2,g
+271,ruby tuesday,french fries,25,g,0,mg,1890,g,64,g,7,g,3,g,0,g,6,g,0,g
+272,ruby tuesday,fresh baked potato,3,g,0,mg,20,g,51,g,6,g,0,g,0,g,7,g,2,g
+273,ruby tuesday,fresh garden bar artichoke hearts,0,g,0,mg,105,g,2,g,1,g,0,g,0,g,1,g,0,g
+274,ruby tuesday,fresh garden bar baby carrots,0,g,0,mg,20,g,3,g,0,g,0,g,0,g,1,g,2,g
+275,ruby tuesday,fresh garden bar baby spinach,0,g,0,mg,25,g,1,g,1,g,0,g,0,g,1,g,0,g
+276,ruby tuesday,fresh garden bar balsamic vinegar,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+277,ruby tuesday,fresh garden bar banana peppers,0,g,0,mg,270,g,2,g,0,g,0,g,0,g,1,g,0,g
+278,ruby tuesday,fresh garden bar beets,0,g,0,mg,20,g,2,g,0,g,0,g,0,g,1,g,1,g
+279,ruby tuesday,fresh garden bar black beans,0,g,0,mg,95,g,5,g,2,g,0,g,0,g,2,g,0,g
+280,ruby tuesday,fresh garden bar black olives,1,g,0,mg,55,g,1,g,0,g,1,g,0,g,0,g,0,g
+281,ruby tuesday,fresh garden bar blue cheese crumbles,2,g,5,mg,95,g,0,g,2,g,1,g,0,g,0,g,0,g
+282,ruby tuesday,fresh garden bar broccoli florets,0,g,0,mg,25,g,5,g,2,g,0,g,0,g,2,g,1,g
+283,ruby tuesday,fresh garden bar buttermilk blue cheese dressing,19,g,15,mg,190,g,1,g,1,g,3,g,0,g,0,g,1,g
+284,ruby tuesday,fresh garden bar candied walnuts,18,g,0,mg,90,g,7,g,4,g,2,g,0,g,1,g,5,g
+285,ruby tuesday,fresh garden bar celery sticks,0,g,0,mg,150,g,7,g,1,g,0,g,0,g,3,g,0,g
+286,ruby tuesday,fresh garden bar chopped bacon,1,g,5,mg,250,g,0,g,3,g,0,g,0,g,0,g,0,g
+287,ruby tuesday,fresh garden bar chopped garden bar mix,0,g,0,mg,5,g,2,g,1,g,0,g,0,g,1,g,1,g
+288,ruby tuesday,fresh garden bar chopped romaine,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,1,g,1,g
+289,ruby tuesday,fresh garden bar cilantro lime vinaigrette,6,g,0,mg,150,g,1,g,0,g,1,g,0,g,0,g,1,g
+290,ruby tuesday,fresh garden bar crispy cheese crisps,14,g,45,mg,680,g,2,g,22,g,9,g,0,g,0,g,0,g
+291,ruby tuesday,fresh garden bar crispy onions,2,g,0,mg,10,g,2,g,0,g,0,g,0,g,0,g,0,g
+292,ruby tuesday,fresh garden bar crunbled feta cheese,6,g,20,mg,320,g,1,g,5,g,4,g,0,g,0,g,0,g
+293,ruby tuesday,fresh garden bar diced apples,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,2,g,6,g
+294,ruby tuesday,fresh garden bar diced cucumbers,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+295,ruby tuesday,fresh garden bar diced eggs,6,g,235,mg,80,g,1,g,7,g,2,g,0,g,0,g,1,g
+296,ruby tuesday,fresh garden bar diced ham,2,g,15,mg,290,g,1,g,4,g,1,g,0,g,0,g,1,g
+297,ruby tuesday,fresh garden bar diced red onions,0,g,0,mg,0,g,7,g,1,g,0,g,0,g,1,g,2,g
+298,ruby tuesday,fresh garden bar dried cranberries,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,1,g,11,g
+299,ruby tuesday,fresh garden bar edamame,4,g,0,mg,10,g,6,g,10,g,1,g,0,g,6,g,0,g
+300,ruby tuesday,fresh garden bar extra virgin olive oil,14,g,0,mg,0,g,0,g,0,g,2,g,0,g,0,g,0,g
+301,ruby tuesday,fresh garden bar field greens,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,0,g
+302,ruby tuesday,fresh garden bar french dressing,10,g,0,mg,270,g,5,g,0,g,1,g,0,g,0,g,5,g
+303,ruby tuesday,fresh garden bar garden herb ranch dressing,11,g,10,mg,220,g,1,g,0,g,2,g,0,g,0,g,0,g
+304,ruby tuesday,fresh garden bar grape tomatoes,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,1,g
+305,ruby tuesday,fresh garden bar grapes,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,8,g
+306,ruby tuesday,fresh garden bar green peas,0,g,0,mg,65,g,8,g,3,g,0,g,0,g,3,g,4,g
+307,ruby tuesday,fresh garden bar ham and pea pasta salad,8,g,10,mg,220,g,9,g,2,g,1,g,0,g,1,g,1,g
+308,ruby tuesday,fresh garden bar honey mustard dressing,8,g,10,mg,150,g,5,g,0,g,1,g,0,g,0,g,5,g
+309,ruby tuesday,fresh garden bar hummus,4,g,0,mg,90,g,2,g,1,g,0,g,0,g,1,g,1,g
+310,ruby tuesday,fresh garden bar italian herb vinaigrette,14,g,0,mg,270,g,2,g,0,g,2,g,0,g,0,g,2,g
+311,ruby tuesday,fresh garden bar lite ranch dressing,5,g,5,mg,280,g,6,g,1,g,0,g,0,g,0,g,1,g
+312,ruby tuesday,fresh garden bar mandarin oranges,0,g,0,mg,0,g,19,g,1,g,0,g,0,g,2,g,17,g
+313,ruby tuesday,fresh garden bar olive oil,14,g,0,mg,0,g,0,g,0,g,2,g,0,g,0,g,0,g
+314,ruby tuesday,fresh garden bar our famous croutons,6,g,0,mg,160,g,9,g,1,g,1,g,0,g,0,g,0,g
+315,ruby tuesday,fresh garden bar pepper strips,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,1,g,2,g
+316,ruby tuesday,fresh garden bar pico de gallo,0,g,0,mg,1240,g,17,g,2,g,0,g,0,g,2,g,10,g
+317,ruby tuesday,fresh garden bar potato salad,38,g,35,mg,650,g,5,g,2,g,4,g,0,g,0,g,2,g
+318,ruby tuesday,fresh garden bar raspberry poppy seed vinaigrette,9,g,0,mg,220,g,4,g,0,g,1,g,0,g,0,g,3,g
+319,ruby tuesday,fresh garden bar seasoned lavash crackers,5,g,0,mg,350,g,16,g,2,g,1,g,0,g,0,g,1,g
+320,ruby tuesday,fresh garden bar shredded carrots,0,g,0,mg,40,g,5,g,1,g,0,g,0,g,1,g,3,g
+321,ruby tuesday,fresh garden bar shredded cheddar cheese,2,g,10,mg,45,g,0,g,2,g,1,g,0,g,0,g,0,g
+322,ruby tuesday,fresh garden bar shredded kale,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,0,g
+323,ruby tuesday,fresh garden bar shredded mozzarella blend,7,g,20,mg,210,g,1,g,8,g,4,g,0,g,0,g,0,g
+324,ruby tuesday,fresh garden bar sliced baby bellas,0,g,0,mg,0,g,3,g,2,g,0,g,0,g,0,g,0,g
+325,ruby tuesday,fresh garden bar spicy roasted broccoli,5,g,0,mg,370,g,4,g,2,g,0,g,0,g,2,g,1,g
+326,ruby tuesday,fresh garden bar sunflower seeds,3,g,0,mg,50,g,1,g,1,g,1,g,0,g,0,g,0,g
+327,ruby tuesday,fresh garden bar thousand island,9,g,5,mg,200,g,4,g,0,g,1,g,0,g,0,g,4,g
+328,ruby tuesday,fresh garden bar veggie basil pasta salad,13,g,0,mg,490,g,30,g,7,g,1,g,0,g,2,g,2,g
+329,ruby tuesday,fresh garden bar wasabi peas,3,g,0,mg,190,g,19,g,6,g,1,g,0,g,3,g,1,g
+330,ruby tuesday,fresh green beans,4,g,0,mg,200,g,5,g,1,g,0,g,0,g,3,g,1,g
+331,ruby tuesday,fresh grilled asparagus,2,g,0,mg,230,g,7,g,3,g,0,g,0,g,2,g,2,g
+332,ruby tuesday,fresh grilled zucchini,0,g,0,mg,260,g,2,g,1,g,0,g,0,g,1,g,1,g
+333,ruby tuesday,full rack baby back ribs classic barbecue,46,g,305,mg,830,g,42,g,87,g,23,g,0,g,0,g,28,g
+334,ruby tuesday,full rack baby back ribs texas dusted,68,g,305,mg,890,g,30,g,87,g,27,g,0,g,0,g,18,g
+335,ruby tuesday,garden bar add on diced grilled chicken,9,g,60,mg,470,g,0,g,20,g,1,g,0,g,0,g,0,g
+336,ruby tuesday,garden bar add on avocado,14,g,0,mg,5,g,8,g,1,g,2,g,0,g,6,g,0,g
+337,ruby tuesday,garden bar add on broiled shrimp,12,g,130,mg,360,g,1,g,22,g,1,g,0,g,0,g,0,g
+338,ruby tuesday,garden bar add on diced grilled sirloin,14,g,55,mg,300,g,0,g,19,g,2,g,0,g,0,g,0,g
+339,ruby tuesday,garden bar add on salmon,3,g,20,mg,90,g,1,g,6,g,0,g,0,g,0,g,0,g
+340,ruby tuesday,garden herb ranch dressing,11,g,10,mg,220,g,1,g,0,g,2,g,0,g,0,g,0,g
+341,ruby tuesday,garden salad,18,g,30,mg,400,g,14,g,9,g,6,g,0,g,1,g,1,g
+342,ruby tuesday,garden vegetable soup,0,g,0,mg,430,g,6,g,0,g,0,g,0,g,0,g,2,g
+343,ruby tuesday,grilled chicken sandwich,41,g,115,mg,3330,g,100,g,49,g,6,g,1,g,7,g,7,g
+344,ruby tuesday,grilled salmon,30,g,150,mg,670,g,0,g,53,g,5,g,0,g,0,g,1,g
+345,ruby tuesday,half rack baby back ribs classic barbecue,22,g,150,mg,410,g,21,g,43,g,11,g,0,g,0,g,14,g
+346,ruby tuesday,half rack baby back ribs texas dusted,33,g,150,mg,530,g,24,g,43,g,13,g,0,g,0,g,18,g
+347,ruby tuesday,hickory bourbon bbq sauce,0,g,0,mg,190,g,16,g,0,g,0,g,0,g,0,g,14,g
+348,ruby tuesday,hickory bourbon chicken,5,g,75,mg,330,g,18,g,26,g,0,g,0,g,0,g,18,g
+349,ruby tuesday,hickory bourbon salmon,20,g,100,mg,430,g,18,g,42,g,4,g,0,g,0,g,18,g
+350,ruby tuesday,hickory bourbon glazed pork chop,22,g,155,mg,1570,g,23,g,63,g,7,g,0,g,3,g,20,g
+351,ruby tuesday,honey mustard dressing,8,g,10,mg,150,g,5,g,0,g,1,g,0,g,0,g,5,g
+352,ruby tuesday,italian five cheese skillet,44,g,55,mg,2590,g,86,g,41,g,17,g,0,g,3,g,5,g
+353,ruby tuesday,italian herb vinaigrette dressing,14,g,0,mg,270,g,2,g,0,g,2,g,0,g,0,g,2,g
+354,ruby tuesday,kale caesar salad with grilled chicken filled baguette,60,g,120,mg,1970,g,39,g,41,g,9,g,0,g,4,g,6,g
+355,ruby tuesday,kale caesar salad with grilled chicken traditional green salad,55,g,110,mg,1960,g,40,g,41,g,8,g,0,g,5,g,6,g
+356,ruby tuesday,kale caesar salad with grilled chicken chopped salad,55,g,110,mg,1960,g,40,g,41,g,8,g,0,g,5,g,6,g
+357,ruby tuesday,kale caesar salad with grilled salmon chopped salad,61,g,105,mg,1910,g,40,g,38,g,10,g,0,g,5,g,6,g
+358,ruby tuesday,kale caesar salad with grilled salmon filled baguette,66,g,110,mg,1910,g,39,g,38,g,11,g,0,g,4,g,6,g
+359,ruby tuesday,kale caesar salad with grilled salmon traditional green salad,61,g,105,mg,1910,g,40,g,38,g,10,g,0,g,5,g,6,g
+360,ruby tuesday,key lime cake,44,g,75,mg,500,g,86,g,7,g,17,g,0,g,1,g,62,g
+361,ruby tuesday,kids buttery pasta,25,g,0,mg,890,g,83,g,11,g,4,g,0,g,4,g,1,g
+362,ruby tuesday,kids buttery pasta with gluten free penne,12,g,0,mg,110,g,54,g,4,g,2,g,0,g,1,g,0,g
+363,ruby tuesday,kids cheese pizza,14,g,30,mg,790,g,61,g,24,g,6,g,0,g,4,g,6,g
+364,ruby tuesday,kids corn dogs,38,g,20,mg,2070,g,62,g,13,g,7,g,0,g,5,g,8,g
+365,ruby tuesday,kids crispy popcorn shrimp,25,g,45,mg,1880,g,48,g,10,g,3,g,0,g,4,g,0,g
+366,ruby tuesday,kids fresh green beans,4,g,0,mg,310,g,5,g,1,g,0,g,0,g,3,g,1,g
+367,ruby tuesday,kids fresh grilled zucchini,0,g,0,mg,260,g,2,g,1,g,0,g,0,g,1,g,1,g
+368,ruby tuesday,kids fresh steamed broccoli,2,g,0,mg,75,g,5,g,3,g,0,g,0,g,2,g,1,g
+369,ruby tuesday,kids grilled chicken,8,g,75,mg,120,g,0,g,26,g,1,g,0,g,0,g,0,g
+370,ruby tuesday,kids hand breaded chicken tenders,20,g,65,mg,1170,g,18,g,21,g,3,g,0,g,1,g,5,g
+371,ruby tuesday,kids mac n cheese,25,g,25,mg,1130,g,34,g,11,g,8,g,5,g,2,g,5,g
+372,ruby tuesday,kids mashed potatoes,16,g,0,mg,790,g,32,g,5,g,4,g,0,g,4,g,1,g
+373,ruby tuesday,kids mini burgers with cheese,43,g,85,mg,2360,g,64,g,33,g,13,g,0,g,5,g,4,g
+374,ruby tuesday,kids roasted tomato soup,21,g,20,mg,1640,g,35,g,6,g,6,g,0,g,0,g,6,g
+375,ruby tuesday,kids side of apples,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,3,g,13,g
+376,ruby tuesday,kids side of french fries,12,g,0,mg,940,g,32,g,3,g,1,g,0,g,3,g,0,g
+377,ruby tuesday,kids side of grapes,1,g,0,mg,0,g,16,g,1,g,0,g,0,g,1,g,15,g
+378,ruby tuesday,kids tomato basil pasta,5,g,0,mg,1000,g,83,g,11,g,0,g,0,g,4,g,3,g
+379,ruby tuesday,kids tomato basil pasta with gluten free penne,3,g,0,mg,370,g,59,g,5,g,0,g,0,g,1,g,2,g
+380,ruby tuesday,kidss chocolate sundae,18,g,65,mg,75,g,36,g,4,g,10,g,0,g,1,g,31,g
+381,ruby tuesday,kidss strawberry sundae,16,g,65,mg,70,g,44,g,3,g,9,g,0,g,2,g,37,g
+382,ruby tuesday,lite ranch dressing,5,g,5,mg,280,g,6,g,1,g,0,g,0,g,0,g,1,g
+383,ruby tuesday,loaded baked potato,27,g,85,mg,1520,g,51,g,18,g,14,g,0,g,5,g,2,g
+384,ruby tuesday,mashed potatoes,16,g,0,mg,790,g,32,g,5,g,4,g,0,g,4,g,1,g
+385,ruby tuesday,mayonnaise,24,g,20,mg,160,g,0,g,0,g,4,g,0,g,0,g,0,g
+386,ruby tuesday,mediterranean chicken salad chopped salad,49,g,130,mg,3090,g,45,g,44,g,7,g,0,g,39,g,9,g
+387,ruby tuesday,mediterranean chicken salad filled baguette,52,g,125,mg,3040,g,44,g,43,g,8,g,0,g,38,g,10,g
+388,ruby tuesday,mediterranean chicken salad traditional green salad,70,g,130,mg,3500,g,49,g,44,g,10,g,0,g,38,g,13,g
+389,ruby tuesday,mega mushroom and swiss burger,73,g,140,mg,3610,g,111,g,57,g,18,g,1,g,13,g,9,g
+390,ruby tuesday,mustard,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+391,ruby tuesday,new orleans seafood,15,g,215,mg,1810,g,3,g,44,g,4,g,0,g,0,g,1,g
+392,ruby tuesday,new york cheesecake,61,g,315,mg,660,g,90,g,16,g,36,g,2,g,4,g,73,g
+393,ruby tuesday,new york strip 10oz,40,g,125,mg,1170,g,0,g,48,g,17,g,2,g,0,g,0,g
+394,ruby tuesday,onion rings,19,g,0,mg,550,g,37,g,5,g,3,g,0,g,2,g,4,g
+395,ruby tuesday,oreo cookies and cream cake,32,g,125,mg,460,g,95,g,7,g,18,g,0,g,3,g,51,g
+396,ruby tuesday,parmesan cream sauce,4,g,10,mg,160,g,2,g,1,g,2,g,0,g,0,g,0,g
+397,ruby tuesday,parmesan shrimp pasta,54,g,375,mg,4670,g,96,g,57,g,21,g,1,g,5,g,9,g
+398,ruby tuesday,petite sirloin and panko crusted shrimp,29,g,155,mg,2070,g,28,g,43,g,7,g,0,g,2,g,5,g
+399,ruby tuesday,petite sirloin 6oz,17,g,80,mg,580,g,1,g,32,g,7,g,0,g,0,g,0,g
+400,ruby tuesday,philly cheesesteak potstickers,9,g,15,mg,890,g,31,g,13,g,3,g,0,g,2,g,2,g
+401,ruby tuesday,pineapple upside down cake,18,g,100,mg,380,g,73,g,5,g,10,g,0,g,1,g,56,g
+402,ruby tuesday,queso and chips with unlimited chips,68,g,60,mg,2150,g,108,g,23,g,17,g,0,g,10,g,13,g
+403,ruby tuesday,ribs and panko crusted shrimp classic barbecue,33,g,225,mg,1900,g,48,g,54,g,12,g,0,g,2,g,19,g
+404,ruby tuesday,ribs and panko crusted shrimp texas dusted,44,g,225,mg,2020,g,51,g,54,g,14,g,0,g,2,g,23,g
+405,ruby tuesday,ribs and southern style chicken tenders classic bbq,42,g,215,mg,1240,g,39,g,64,g,14,g,0,g,1,g,19,g
+406,ruby tuesday,ribs and southern style chicken tenders texas dusted,53,g,215,mg,1360,g,42,g,64,g,16,g,0,g,1,g,23,g
+407,ruby tuesday,rice pilaf,1,g,0,mg,1030,g,40,g,4,g,0,g,0,g,0,g,1,g
+408,ruby tuesday,rubys classic burger,52,g,110,mg,2940,g,100,g,45,g,13,g,1,g,7,g,7,g
+409,ruby tuesday,sampler trio,145,g,255,mg,5210,g,179,g,89,g,33,g,0,g,7,g,27,g
+410,ruby tuesday,seasoned steamed broccoli,2,g,0,mg,75,g,5,g,3,g,0,g,0,g,2,g,1,g
+411,ruby tuesday,shrimp fondue,74,g,190,mg,2330,g,99,g,40,g,21,g,0,g,9,g,7,g
+412,ruby tuesday,shrimp shack platter 12 count,59,g,225,mg,6350,g,145,g,41,g,8,g,0,g,12,g,16,g
+413,ruby tuesday,shrimp shack platter 8 count,48,g,150,mg,5240,g,123,g,30,g,6,g,0,g,10,g,15,g
+414,ruby tuesday,skewered shrimp,37,g,155,mg,1630,g,0,g,18,g,6,g,0,g,0,g,0,g
+415,ruby tuesday,smokehouse burger,68,g,140,mg,3700,g,125,g,55,g,18,g,1,g,7,g,22,g
+416,ruby tuesday,smoky mountain chicken,23,g,155,mg,1630,g,20,g,48,g,9,g,1,g,0,g,18,g
+417,ruby tuesday,sour cream,1,g,5,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+418,ruby tuesday,southern style chicken tender dinner large,74,g,140,mg,3680,g,105,g,49,g,10,g,0,g,8,g,15,g
+419,ruby tuesday,southern style chicken tender dinner small,49,g,85,mg,2940,g,86,g,35,g,6,g,0,g,7,g,5,g
+420,ruby tuesday,spicy shrimp sauce,18,g,15,mg,200,g,2,g,0,g,2,g,0,g,0,g,1,g
+421,ruby tuesday,spinach artichoke dip with unlimited chips,62,g,80,mg,1640,g,97,g,22,g,21,g,0,g,13,g,4,g
+422,ruby tuesday,sweet potato fries,23,g,0,mg,1480,g,55,g,3,g,3,g,0,g,6,g,21,g
+423,ruby tuesday,tempura green beans,60,g,0,mg,1650,g,56,g,5,g,10,g,0,g,7,g,15,g
+424,ruby tuesday,thai phoon shrimp,62,g,125,mg,1570,g,38,g,14,g,9,g,0,g,2,g,2,g
+425,ruby tuesday,thai sauce,0,g,0,mg,180,g,12,g,0,g,0,g,0,g,0,g,12,g
+426,ruby tuesday,thai spring rolls,25,g,35,mg,1480,g,68,g,15,g,4,g,0,g,3,g,19,g
+427,ruby tuesday,tomato basil sauce,0,g,0,mg,125,g,1,g,0,g,0,g,0,g,0,g,0,g
+428,ruby tuesday,top sirloin 8 oz,23,g,125,mg,2140,g,44,g,55,g,8,g,0,g,1,g,2,g
+429,ruby tuesday,top sirloin 8oz,22,g,125,mg,840,g,2,g,50,g,8,g,0,g,0,g,0,g
+430,ruby tuesday,triple play classic bbq,49,g,275,mg,2500,g,61,g,68,g,14,g,0,g,2,g,24,g
+431,ruby tuesday,triple play texas dusted,60,g,275,mg,2620,g,64,g,68,g,16,g,0,g,2,g,28,g
+432,ruby tuesday,triple prime bacon cheddar burger,63,g,140,mg,3270,g,98,g,54,g,18,g,1,g,7,g,6,g
+433,ruby tuesday,triple prime burger,52,g,110,mg,2940,g,100,g,45,g,13,g,1,g,7,g,7,g
+434,ruby tuesday,triple prime cheeseburger,56,g,120,mg,3120,g,100,g,48,g,15,g,1,g,7,g,7,g
+435,ruby tuesday,triple prime mega mushroom and swiss burger,74,g,140,mg,3740,g,112,g,58,g,18,g,1,g,13,g,9,g
+436,ruby tuesday,triple prime smokehouse burger,63,g,140,mg,3980,g,115,g,54,g,18,g,1,g,7,g,21,g
+437,ruby tuesday,whipped butter,14,g,40,mg,110,g,0,g,0,g,10,g,0,g,0,g,0,g
+438,ruby tuesday,white cheddar bacon mac n cheese,28,g,70,mg,1330,g,39,g,27,g,14,g,0,g,1,g,0,g
+439,ruby tuesday,white cheddar sauce,19,g,40,mg,560,g,5,g,7,g,10,g,0,g,0,g,1,g
+440,rubys diner,chicken tenders,86,g,113,mg,3509,g,99,g,42,g,12,g,0,g,6,g,36,g
+441,rubys diner,sweet potato fries appetizer,47,g,10,mg,1010,g,82,g,7,g,6,g,0,g,10,g,32,g
+442,rubys diner,spicy jalapeno jack cheese sticks,103,g,105,mg,3103,g,111,g,28,g,26,g,0,g,7,g,20,g
+443,rubys diner,buffalo chicken tenders,102,g,116,mg,4185,g,61,g,43,g,28,g,0,g,6,g,4,g
+444,rubys diner,garlic fries basket appetizer,59,g,2,mg,3264,g,123,g,14,g,7,g,0,g,10,g,4,g
+445,rubys diner,fries basket appetizer,37,g,0,mg,1925,g,108,g,10,g,5,g,0,g,9,g,3,g
+446,rubys diner,chili fries appetizer,66,g,78,mg,2619,g,114,g,31,g,21,g,0,g,10,g,5,g
+447,rubys diner,cajun fries basket,37,g,0,mg,2685,g,110,g,11,g,5,g,0,g,9,g,3,g
+448,rubys diner,rubyrings,54,g,0,mg,2390,g,154,g,18,g,7,g,0,g,11,g,13,g
+449,rubys diner,zippity zucchini,52,g,16,mg,1785,g,74,g,12,g,9,g,0,g,4,g,5,g
+450,rubys diner,frings,47,g,0,mg,2205,g,134,g,14,g,6,g,0,g,10,g,8,g
+451,rubys diner,parmesan bleu fries basket appetizer,42,g,16,mg,3110,g,110,g,17,g,8,g,0,g,9,g,4,g
+452,rubys diner,strawberry shake regular,27,g,70,mg,400,g,81,g,14,g,19,g,0,g,0,g,68,g
+453,rubys diner,oreo cookie fantasy shake regular,34,g,70,mg,610,g,97,g,16,g,19,g,0,g,1,g,70,g
+454,rubys diner,hersheys chocolate shake kids,19,g,50,mg,300,g,71,g,11,g,13,g,0,g,0,g,59,g
+455,rubys diner,chocolate chip cookie dough shake regular,35,g,95,mg,440,g,103,g,16,g,23,g,0,g,0,g,76,g
+456,rubys diner,orange 50 50 shake regular,26,g,65,mg,380,g,79,g,13,g,18,g,0,g,0,g,65,g
+457,rubys diner,chocolate turtle shake kids,23,g,50,mg,400,g,127,g,12,g,13,g,0,g,3,g,109,g
+458,rubys diner,double vanilla shake regular,27,g,70,mg,420,g,93,g,14,g,19,g,0,g,0,g,81,g
+459,rubys diner,oreo cookie fantasy shake kids,25,g,50,mg,450,g,71,g,11,g,13,g,0,g,1,g,51,g
+460,rubys diner,hersheys chocolate shake regular,27,g,70,mg,420,g,97,g,15,g,19,g,0,g,0,g,81,g
+461,rubys diner,strawberry shake kids,19,g,50,mg,280,g,60,g,10,g,13,g,0,g,0,g,51,g
+462,rubys diner,barqs root beer float,9,g,20,mg,150,g,40,g,5,g,6,g,0,g,0,g,36,g
+463,rubys diner,chocolate banana shake regular,27,g,70,mg,420,g,111,g,15,g,19,g,0,g,2,g,88,g
+464,rubys diner,black cherry shake regular,27,g,70,mg,390,g,94,g,14,g,19,g,0,g,1,g,80,g
+465,rubys diner,non fat milk regular,0,g,5,mg,105,g,12,g,8,g,0,g,0,g,0,g,11,g
+466,rubys diner,double dark chocolate chip shake kids,24,g,45,mg,320,g,99,g,12,g,16,g,0,g,3,g,83,g
+467,rubys diner,pineapple shake kids,19,g,50,mg,280,g,60,g,10,g,13,g,0,g,0,g,51,g
+468,rubys diner,double dark chocolate chip shake regular,36,g,65,mg,450,g,142,g,17,g,24,g,0,g,4,g,119,g
+469,rubys diner,tomato juice regular,0,g,0,mg,750,g,11,g,2,g,0,g,0,g,2,g,7,g
+470,rubys diner,coffee shake regular,26,g,65,mg,390,g,72,g,13,g,18,g,0,g,0,g,59,g
+471,rubys diner,strawberry banana shake regular,27,g,70,mg,400,g,95,g,14,g,19,g,0,g,2,g,76,g
+472,rubys diner,2 milk regular,5,g,20,mg,100,g,11,g,8,g,3,g,0,g,0,g,11,g
+473,rubys diner,coffee shake kids,19,g,45,mg,280,g,52,g,9,g,13,g,0,g,0,g,43,g
+474,rubys diner,chocolate turtle shake regular,33,g,75,mg,590,g,181,g,16,g,19,g,0,g,3,g,157,g
+475,rubys diner,orange juice regular,0,g,0,mg,15,g,27,g,1,g,0,g,0,g,0,g,23,g
+476,rubys diner,peanut butter cup shake kids,25,g,50,mg,360,g,73,g,14,g,15,g,0,g,1,g,60,g
+477,rubys diner,mocha shake kids,19,g,45,mg,300,g,70,g,10,g,13,g,0,g,0,g,58,g
+478,rubys diner,butterfinger shake kids,27,g,50,mg,380,g,84,g,12,g,197,g,0,g,1,g,63,g
+479,rubys diner,apple juice regular,0,g,0,mg,30,g,28,g,0,g,0,g,0,g,0,g,28,g
+480,rubys diner,banana cream delight shake regular,28,g,75,mg,510,g,132,g,14,g,19,g,0,g,2,g,113,g
+481,rubys diner,whole milk chocolate milk large,11,g,35,mg,160,g,39,g,12,g,6,g,0,g,0,g,37,g
+482,rubys diner,apple juice large,0,g,0,mg,40,g,42,g,0,g,0,g,0,g,0,g,42,g
+483,rubys diner,2 milk large,7,g,30,mg,150,g,17,g,12,g,5,g,0,g,0,g,17,g
+484,rubys diner,caramel shake regular,28,g,75,mg,500,g,118,g,14,g,19,g,0,g,0,g,106,g
+485,rubys diner,non fat chocolate milk regular,0,g,5,mg,110,g,23,g,8,g,0,g,0,g,0,g,21,g
+486,rubys diner,grapefruit juice large,0,g,0,mg,45,g,49,g,1,g,0,g,0,g,0,g,48,g
+487,rubys diner,orange 50 50 shake kids,19,g,45,mg,280,g,57,g,9,g,13,g,0,g,0,g,47,g
+488,rubys diner,black forest shake kids,19,g,50,mg,300,g,86,g,11,g,13,g,0,g,0,g,73,g
+489,rubys diner,butterfinger shake regular,38,g,70,mg,520,g,115,g,18,g,24,g,0,g,1,g,87,g
+490,rubys diner,coke float,9,g,20,mg,140,g,39,g,5,g,6,g,0,g,0,g,34,g
+491,rubys diner,chocolate chip cookie dough shake kids,26,g,70,mg,320,g,76,g,12,g,17,g,0,g,0,g,56,g
+492,rubys diner,non fat milk large,0,g,5,mg,150,g,18,g,12,g,0,g,0,g,0,g,17,g
+493,rubys diner,peanut butter shake kids,25,g,50,mg,341,g,55,g,13,g,15,g,0,g,1,g,45,g
+494,rubys diner,whole milk regular,8,g,25,mg,100,g,11,g,8,g,5,g,0,g,0,g,12,g
+495,rubys diner,mocha shake regular,26,g,65,mg,410,g,96,g,14,g,18,g,0,g,0,g,79,g
+496,rubys diner,whole milk large,12,g,35,mg,150,g,17,g,12,g,7,g,0,g,0,g,18,g
+497,rubys diner,peanut butter cup shake regular,35,g,70,mg,490,g,101,g,19,g,20,g,0,g,1,g,82,g
+498,rubys diner,double vanilla shake kids,19,g,50,mg,300,g,68,g,10,g,13,g,0,g,0,g,59,g
+499,rubys diner,cranberry juice regular,0,g,0,mg,5,g,34,g,0,g,0,g,0,g,0,g,30,g
+500,rubys diner,chocolate banana shake kids,20,g,50,mg,300,g,81,g,11,g,13,g,0,g,1,g,64,g
+501,rubys diner,black forest shake regular,27,g,70,mg,420,g,118,g,15,g,19,g,0,g,1,g,100,g
+502,rubys diner,peanut butter shake regular,35,g,70,mg,465,g,77,g,18,g,20,g,0,g,1,g,62,g
+503,rubys diner,caramel shake kids,20,g,55,mg,360,g,83,g,10,g,13,g,0,g,0,g,74,g
+504,rubys diner,2 chocolate milk regular,5,g,20,mg,105,g,23,g,8,g,3,g,0,g,0,g,11,g
+505,rubys diner,strawberry banana shake kids,20,g,50,mg,280,g,69,g,10,g,13,g,0,g,2,g,55,g
+506,rubys diner,black cherry shake kids,19,g,50,mg,280,g,68,g,10,g,13,g,0,g,0,g,58,g
+507,rubys diner,tomato juice large,0,g,0,mg,1130,g,16,g,3,g,0,g,0,g,3,g,11,g
+508,rubys diner,banana cream delight shake kids,20,g,55,mg,360,g,93,g,10,g,13,g,0,g,1,g,79,g
+509,rubys diner,whole milk chocolate milk regular,7,g,25,mg,105,g,22,g,8,g,5,g,0,g,0,g,21,g
+510,rubys diner,pineapple shake regular,27,g,70,mg,400,g,83,g,14,g,19,g,0,g,0,g,70,g
+511,rubys diner,orange juice large,0,g,0,mg,20,g,40,g,1,g,0,g,0,g,0,g,34,g
+512,rubys diner,cranberry juice large,0,g,0,mg,10,g,51,g,0,g,0,g,0,g,0,g,45,g
+513,rubys diner,grapefruit juice regular,0,g,0,mg,30,g,33,g,1,g,0,g,0,g,0,g,32,g
+514,rubys diner,non fat chocolate milk large,0,g,5,mg,170,g,41,g,12,g,0,g,0,g,0,g,36,g
+515,rubys diner,2 chocolate milk large,7,g,25,mg,160,g,40,g,12,g,4,g,0,g,0,g,17,g
+516,rubys diner,beignets,40,g,70,mg,414,g,80,g,8,g,15,g,0,g,2,g,41,g
+517,rubys diner,eggs benedict,43,g,591,mg,1779,g,57,g,33,g,22,g,0,g,1,g,7,g
+518,rubys diner,egg white omelette,22,g,20,mg,930,g,26,g,25,g,11,g,0,g,4,g,19,g
+519,rubys diner,two eggs breakfast with bacon without toast,32,g,495,mg,1197,g,24,g,26,g,13,g,0,g,0,g,1,g
+520,rubys diner,corned beef hash and eggs without toast,75,g,570,mg,1979,g,48,g,38,g,30,g,0,g,0,g,1,g
+521,rubys diner,cinnamon roll french toast without sides,63,g,500,mg,1100,g,187,g,25,g,23,g,0,g,4,g,117,g
+522,rubys diner,rubys butcher block omelette with veggie sausage,53,g,646,mg,2003,g,57,g,59,g,25,g,0,g,4,g,4,g
+523,rubys diner,denver omelette,49,g,678,mg,2212,g,55,g,53,g,25,g,0,g,2,g,5,g
+524,rubys diner,huevos rancheros,76,g,510,mg,2260,g,90,g,46,g,25,g,0,g,10,g,8,g
+525,rubys diner,two eggs breakfast with canadian bacon without toast,24,g,506,mg,1493,g,27,g,31,g,10,g,0,g,0,g,4,g
+526,rubys diner,two eggs breakfast with poached eggs without toast,17,g,469,mg,597,g,24,g,18,g,6,g,0,g,0,g,1,g
+527,rubys diner,santa fe omelette,61,g,695,mg,1703,g,58,g,41,g,32,g,0,g,3,g,9,g
+528,rubys diner,rubys breakfast burrito,46,g,467,mg,2417,g,91,g,45,g,22,g,0,g,10,g,9,g
+529,rubys diner,jumbo cinnamon roll,35,g,46,mg,759,g,156,g,12,g,9,g,0,g,4,g,92,g
+530,rubys diner,veggie omelette,51,g,644,mg,1604,g,56,g,45,g,26,g,0,g,3,g,5,g
+531,rubys diner,breakfast burger,80,g,381,mg,2599,g,77,g,58,g,32,g,0,g,2,g,12,g
+532,rubys diner,multi grain pancakes without sides,25,g,101,mg,1011,g,51,g,9,g,10,g,0,g,2,g,13,g
+533,rubys diner,breakfast component original eggbeaters,3,g,0,mg,150,g,1,g,6,g,2,g,0,g,0,g,1,g
+534,rubys diner,breakfast component english muffin,9,g,21,mg,288,g,25,g,4,g,5,g,0,g,1,g,1,g
+535,rubys diner,rubys french toast without sides,38,g,465,mg,850,g,130,g,21,g,1,g,0,g,2,g,74,g
+536,rubys diner,breakfast component two eggs,18,g,469,mg,224,g,1,g,16,g,7,g,0,g,0,g,1,g
+537,rubys diner,breakfast component sausage,37,g,0,mg,527,g,1,g,12,g,15,g,0,g,0,g,0,g
+538,rubys diner,breakfast component rye toast,12,g,21,mg,318,g,48,g,8,g,5,g,0,g,2,g,2,g
+539,rubys diner,breakfast component egg whites eggbeaters,3,g,0,mg,80,g,0,g,4,g,2,g,0,g,0,g,0,g
+540,rubys diner,breakfast component white toast,11,g,21,mg,478,g,44,g,6,g,5,g,0,g,2,g,4,g
+541,rubys diner,breakfast component strawberry jam,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,7,g
+542,rubys diner,skinny eggs,24,g,478,mg,1069,g,61,g,36,g,8,g,0,g,4,g,17,g
+543,rubys diner,breakfast component mixed fruit,0,g,0,mg,20,g,24,g,1,g,0,g,0,g,2,g,20,g
+544,rubys diner,rubys hot cakes with bacon mix ins without sides,30,g,96,mg,1662,g,121,g,16,g,12,g,0,g,2,g,75,g
+545,rubys diner,awesome egg sandwich with bacon,61,g,526,mg,2378,g,77,g,41,g,25,g,0,g,2,g,10,g
+546,rubys diner,rubys butcher block omelette with bacon,59,g,676,mg,2178,g,50,g,53,g,28,g,0,g,1,g,3,g
+547,rubys diner,ground beef scramble without toast,55,g,790,mg,1904,g,31,g,62,g,27,g,0,g,1,g,3,g
+548,rubys diner,portobello mushroom benedict,49,g,566,mg,1576,g,58,g,26,g,26,g,0,g,3,g,7,g
+549,rubys diner,breakfast component two poached eggs,12,g,37,mg,851,g,3,g,14,g,1,g,0,g,0,g,3,g
+550,rubys diner,two eggs breakfast without toast,22,g,469,mg,642,g,24,g,17,g,9,g,0,g,0,g,1,g
+551,rubys diner,rubys butcher block omelette with sausage,103,g,644,mg,2316,g,51,g,60,g,46,g,0,g,1,g,3,g
+552,rubys diner,breakfast component orange marmalade,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,7,g
+553,rubys diner,ham steak and eggs without toast,28,g,603,mg,3391,g,36,g,58,g,12,g,0,g,0,g,4,g
+554,rubys diner,breakfast component rubyspuds,5,g,0,mg,420,g,23,g,2,g,3,g,0,g,0,g,1,g
+555,rubys diner,oatmeal golden raisins and pecans,25,g,5,mg,100,g,117,g,17,g,4,g,0,g,11,g,54,g
+556,rubys diner,awesome egg sandwich,51,g,499,mg,1823,g,77,g,32,g,25,g,0,g,2,g,10,g
+557,rubys diner,breakfast component wheat toast,12,g,21,mg,458,g,46,g,8,g,5,g,0,g,2,g,4,g
+558,rubys diner,breakfast component sourdough toast,8,g,21,mg,478,g,42,g,8,g,5,g,0,g,2,g,2,g
+559,rubys diner,rubys butcher block omelette with turkey sausage,60,g,751,mg,2285,g,53,g,62,g,28,g,0,g,1,g,3,g
+560,rubys diner,two eggs breakfast with turkey sausage without toast,34,g,575,mg,1404,g,27,g,37,g,13,g,0,g,0,g,1,g
+561,rubys diner,rubys hot cakes without sides,24,g,79,mg,1293,g,121,g,10,g,10,g,0,g,2,g,75,g
+562,rubys diner,two eggs breakfast with sausage without toast,59,g,469,mg,1171,g,25,g,29,g,24,g,0,g,0,g,1,g
+563,rubys diner,breakfast component bacon,8,g,21,mg,439,g,0,g,7,g,3,g,0,g,0,g,0,g
+564,rubys diner,breakfast component lean canadian bacon,2,g,37,mg,851,g,3,g,14,g,1,g,0,g,0,g,3,g
+565,rubys diner,rubys butcher block omelette with ham,50,g,711,mg,2897,g,50,g,62,g,25,g,0,g,1,g,4,g
+566,rubys diner,breakfast component veggie sausage patties,6,g,0,mg,500,g,8,g,16,g,1,g,0,g,2,g,2,g
+567,rubys diner,breakfast component ham steak and eggs without toast,6,g,134,mg,2749,g,2,g,41,g,2,g,0,g,0,g,2,g
+568,rubys diner,breakfast component sugar free syrup,0,g,0,mg,47,g,3,g,0,g,0,g,0,g,0,g,0,g
+569,rubys diner,bagel and low fat cream cheese,4,g,10,mg,570,g,64,g,12,g,2,g,0,g,3,g,6,g
+570,rubys diner,breakfast component turkey sausage,12,g,106,mg,763,g,4,g,20,g,4,g,0,g,0,g,0,g
+571,rubys diner,chili con carne and cheese omelette,59,g,669,mg,1917,g,55,g,49,g,29,g,0,g,2,g,4,g
+572,rubys diner,awesome egg sandwich with veggie sausage,57,g,539,mg,2098,g,84,g,64,g,25,g,0,g,8,g,23,g
+573,rubys diner,rubys hot cakes with pecan mix ins without sides,44,g,78,mg,1293,g,125,g,13,g,12,g,0,g,4,g,76,g
+574,rubys diner,two eggs breakfast with veggie sausage without toast,28,g,470,mg,1123,g,32,g,34,g,10,g,0,g,4,g,2,g
+575,rubys diner,turkey sausage scramble without toast,58,g,854,mg,2110,g,35,g,69,g,27,g,0,g,1,g,3,g
+576,rubys diner,breakfast component blackberry jam,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,7,g
+577,rubys diner,garden scramble without toast,63,g,748,mg,2571,g,36,g,52,g,33,g,0,g,3,g,5,g
+578,rubys diner,awesome egg sandwich with turkey sausage,64,g,605,mg,2585,g,80,g,52,g,25,g,0,g,2,g,10,g
+579,rubys diner,corned beef scramble without toast,72,g,799,mg,2016,g,43,g,60,g,33,g,0,g,1,g,3,g
+580,rubys diner,malt powder regular,1,g,0,mg,35,g,6,g,1,g,0,g,0,g,0,g,4,g
+581,rubys diner,malt powder kids,1,g,0,mg,30,g,5,g,1,g,0,g,0,g,0,g,3,g
+582,rubys diner,fresh baked apple pie a la mode,35,g,50,mg,780,g,159,g,10,g,19,g,0,g,2,g,114,g
+583,rubys diner,fresh baked apple pie,22,g,20,mg,590,g,124,g,4,g,10,g,0,g,2,g,85,g
+584,rubys diner,french fries,22,g,0,mg,1082,g,62,g,6,g,3,g,0,g,5,g,2,g
+585,rubys diner,garlic fries basket,32,g,1,mg,1752,g,71,g,8,g,4,g,0,g,6,g,2,g
+586,rubys diner,sweet potato fries,27,g,6,mg,552,g,43,g,4,g,4,g,0,g,6,g,19,g
+587,rubys diner,cajun fries,22,g,0,mg,1462,g,63,g,6,g,3,g,0,g,6,g,2,g
+588,rubys diner,chili fries,38,g,43,mg,1489,g,66,g,17,g,11,g,0,g,6,g,3,g
+589,rubys diner,parmesan bleu fries,24,g,8,mg,1675,g,64,g,9,g,5,g,0,g,5,g,2,g
+590,rubys diner,refillable fries,12,g,0,mg,610,g,34,g,3,g,2,g,0,g,3,g,1,g
+591,rubys diner,old fashioned vanilla soft serve cone,11,g,25,mg,170,g,34,g,6,g,8,g,0,g,0,g,25,g
+592,rubys diner,kids old fashioned vanilla soft serve cone,4,g,10,mg,55,g,11,g,2,g,2,g,0,g,0,g,8,g
+593,rubys diner,old fashioned vanilla soft serve cup,14,g,35,mg,220,g,40,g,7,g,10,g,0,g,0,g,33,g
+594,rubys diner,double hot fudge brownie sundae,50,g,90,mg,470,g,135,g,15,g,25,g,0,g,4,g,110,g
+595,rubys diner,ruby sundae with strawberry,17,g,40,mg,230,g,59,g,8,g,11,g,0,g,1,g,51,g
+596,rubys diner,ruby sundae with caramel,18,g,50,mg,380,g,103,g,8,g,11,g,0,g,0,g,95,g
+597,rubys diner,banana split,21,g,50,mg,250,g,94,g,10,g,13,g,0,g,4,g,70,g
+598,rubys diner,itsy bitsy sundae with hot fudge,15,g,25,mg,200,g,47,g,6,g,11,g,0,g,1,g,41,g
+599,rubys diner,ruby sundae with pineapple,17,g,40,mg,230,g,63,g,8,g,11,g,0,g,1,g,55,g
+600,rubys diner,ruby sundae with chocolate syrup,17,g,40,mg,280,g,91,g,10,g,11,g,0,g,0,g,75,g
+601,rubys diner,ruby sundae with hot fudge,26,g,40,mg,340,g,81,g,10,g,19,g,0,g,1,g,71,g
+602,rubys diner,ruby sundae with black cherry,17,g,40,mg,230,g,63,g,8,g,11,g,0,g,1,g,55,g
+603,rubys diner,itsy bitsy sundae with caramel,11,g,30,mg,210,g,58,g,5,g,7,g,0,g,0,g,53,g
+604,rubys diner,kids pigs in a blanket,39,g,65,mg,1170,g,103,g,13,g,17,g,0,g,1,g,70,g
+605,rubys diner,kids silver dollar pancakes,20,g,60,mg,910,g,104,g,7,g,9,g,0,g,1,g,69,g
+606,rubys diner,kids turkey burger without sides,13,g,50,mg,470,g,30,g,19,g,5,g,0,g,1,g,4,g
+607,rubys diner,kids chicken fingers without sides,29,g,55,mg,1490,g,33,g,23,g,4,g,0,g,2,g,1,g
+608,rubys diner,kids peanut butter and jelly sandwich without sides,27,g,0,mg,620,g,79,g,18,g,5,g,0,g,5,g,32,g
+609,rubys diner,kids fries,10,g,0,mg,360,g,28,g,3,g,1,g,0,g,2,g,1,g
+610,rubys diner,kids grilled cheese sandwich without sides,35,g,30,mg,1060,g,47,g,13,g,18,g,0,g,2,g,7,g
+611,rubys diner,kids all natural usda choice beef burger without sides,16,g,40,mg,460,g,30,g,16,g,7,g,0,g,1,g,4,g
+612,rubys diner,kids french toast,25,g,250,mg,490,g,98,g,11,g,12,g,0,g,1,g,67,g
+613,rubys diner,kids macaroni and cheese without sides,13,g,15,mg,1790,g,137,g,23,g,8,g,0,g,3,g,16,g
+614,rubys diner,kids applie slices,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,2,g,7,g
+615,rubys diner,kids hot dog without sides,47,g,50,mg,1390,g,35,g,18,g,21,g,0,g,1,g,4,g
+616,rubys diner,kids fruit salad,0,g,0,mg,15,g,17,g,1,g,0,g,0,g,1,g,14,g
+617,rubys diner,kids quesadilla without sides,19,g,30,mg,800,g,42,g,22,g,10,g,0,g,4,g,2,g
+618,rubys diner,kids grilled chicken breast meal,4,g,85,mg,1010,g,23,g,32,g,1,g,0,g,0,g,17,g
+619,rubys diner,kids turkey corn dog without sides,24,g,55,mg,760,g,27,g,10,g,5,g,0,g,5,g,3,g
+620,rubys diner,mixed fruit,0,g,0,mg,20,g,24,g,1,g,0,g,0,g,2,g,20,g
+621,rubys diner,grilled chicken breast,4,g,86,mg,595,g,0,g,31,g,1,g,0,g,0,g,0,g
+622,rubys diner,chardonnay vinaigrette,28,g,13,mg,1025,g,5,g,0,g,4,g,0,g,0,g,3,g
+623,rubys diner,caesar dressing,43,g,40,mg,680,g,1,g,2,g,8,g,0,g,0,g,0,g
+624,rubys diner,italian dressing,28,g,15,mg,1030,g,5,g,0,g,4,g,0,g,0,g,3,g
+625,rubys diner,asian dressing,42,g,18,mg,870,g,7,g,1,g,7,g,0,g,0,g,7,g
+626,rubys diner,fat free sesame ginger dressing,0,g,0,mg,580,g,20,g,0,g,0,g,0,g,0,g,17,g
+627,rubys diner,light italian dressing,11,g,0,mg,570,g,6,g,1,g,1,g,0,g,1,g,4,g
+628,rubys diner,original ranch dressing,28,g,15,mg,570,g,2,g,1,g,5,g,0,g,0,g,2,g
+629,rubys diner,honey mustard dressing,35,g,25,mg,400,g,20,g,0,g,5,g,0,g,0,g,20,g
+630,rubys diner,pomegranate vinaigrette dressing,31,g,0,mg,400,g,9,g,0,g,5,g,0,g,0,g,8,g
+631,rubys diner,bbq ranch dressing,18,g,13,mg,525,g,10,g,0,g,4,g,0,g,0,g,8,g
+632,rubys diner,bleu cheese dressing,33,g,30,mg,420,g,1,g,3,g,10,g,0,g,0,g,0,g
+633,rubys diner,thousand island dressing,38,g,30,mg,420,g,7,g,0,g,6,g,0,g,0,g,5,g
+634,rubys diner,chinese chicken salad with asian dressing,63,g,107,mg,1834,g,40,g,39,g,11,g,0,g,6,g,18,g
+635,rubys diner,cobb salad without dressing,34,g,250,mg,1260,g,18,g,44,g,13,g,0,g,8,g,8,g
+636,rubys diner,chicken finger salad with dressing,90,g,267,mg,2944,g,68,g,57,g,21,g,0,g,7,g,28,g
+637,rubys diner,mediterranean salad with chicken and dressing,66,g,195,mg,3630,g,32,g,53,g,23,g,0,g,8,g,15,g
+638,rubys diner,apple pecan and bleu cheese salad with dressing,57,g,40,mg,1090,g,72,g,16,g,15,g,0,g,9,g,55,g
+639,rubys diner,cashew chicken salad with dressing,73,g,115,mg,1784,g,71,g,39,g,10,g,0,g,5,g,39,g
+640,rubys diner,chinese chicken salad with fat free sesame ginger dressing,13,g,86,mg,1251,g,47,g,37,g,2,g,0,g,6,g,24,g
+641,rubys diner,mediterranean salad with dressing,62,g,110,mg,3040,g,32,g,22,g,22,g,0,g,8,g,15,g
+642,rubys diner,dinner salad without dressing,3,g,0,mg,210,g,15,g,3,g,0,g,0,g,2,g,3,g
+643,rubys diner,bbq ranch chicken salad with dressing,33,g,121,mg,2005,g,64,g,57,g,11,g,0,g,12,g,32,g
+644,rubys diner,ruby salad without dressing,23,g,200,mg,470,g,13,g,22,g,13,g,0,g,4,g,7,g
+645,rubys diner,apple pecan and bleu cheese salad with chicken and dressing,61,g,126,mg,1685,g,72,g,47,g,16,g,0,g,9,g,55,g
+646,rubys diner,caesar dinner salad with dressing,21,g,15,mg,480,g,14,g,4,g,3,g,0,g,2,g,1,g
+647,rubys diner,low fat american cheese,6,g,20,mg,520,g,2,g,8,g,3,g,0,g,0,g,2,g
+648,rubys diner,swiss cheese,8,g,35,mg,510,g,4,g,7,g,5,g,0,g,0,g,2,g
+649,rubys diner,cheddar cheese,14,g,45,mg,260,g,1,g,11,g,9,g,0,g,0,g,0,g
+650,rubys diner,pepper jack cheese,13,g,45,mg,270,g,0,g,9,g,8,g,0,g,0,g,0,g
+651,rubys diner,american cheese,10,g,30,mg,480,g,3,g,7,g,6,g,0,g,0,g,3,g
+652,rubys diner,jumbo hot dog without sides,47,g,50,mg,1390,g,35,g,18,g,21,g,0,g,1,g,4,g
+653,rubys diner,texas grilled cheese sandwich without sides,40,g,47,mg,1750,g,58,g,20,g,21,g,0,g,3,g,9,g
+654,rubys diner,fresh roast turkey sandwich without sides,39,g,125,mg,1264,g,64,g,51,g,14,g,0,g,4,g,15,g
+655,rubys diner,double deluxe turkey burger without sides,40,g,135,mg,1328,g,37,g,41,g,13,g,0,g,2,g,10,g
+656,rubys diner,double deluxe turkey burger with gluten free bun without sides,43,g,135,mg,1358,g,41,g,42,g,13,g,0,g,5,g,10,g
+657,rubys diner,guacamole burger,51,g,45,mg,1340,g,58,g,17,g,20,g,0,g,5,g,10,g
+658,rubys diner,the cobb burger without sides,78,g,147,mg,2372,g,64,g,52,g,30,g,0,g,7,g,9,g
+659,rubys diner,low carb cheeseburger without meat or dressing,10,g,20,mg,919,g,22,g,11,g,3,g,0,g,2,g,8,g
+660,rubys diner,super burger without meat or sides,72,g,70,mg,1740,g,54,g,28,g,32,g,0,g,6,g,6,g
+661,rubys diner,santa fe burger,48,g,55,mg,1180,g,54,g,18,g,20,g,0,g,3,g,8,g
+662,rubys diner,mushroom swiss burger without meat or sides,49,g,45,mg,1200,g,56,g,17,g,20,g,0,g,3,g,11,g
+663,rubys diner,mushroom swiss burger with chicken and mayo without sides,53,g,130,mg,1790,g,56,g,49,g,22,g,0,g,3,g,10,g
+664,rubys diner,hickory burger without meat or sides,67,g,70,mg,1970,g,92,g,29,g,25,g,0,g,5,g,22,g
+665,rubys diner,the all american burger without sides,67,g,145,mg,1714,g,62,g,47,g,29,g,0,g,4,g,10,g
+666,rubys diner,bacon cheeseburger without meat or sides,52,g,60,mg,1530,g,55,g,22,g,20,g,0,g,3,g,10,g
+667,rubys diner,turkey patty,11,g,100,mg,384,g,1,g,30,g,3,g,0,g,0,g,0,g
+668,rubys diner,deluxe blta sandwich without sides,79,g,68,mg,2313,g,51,g,33,g,31,g,0,g,7,g,4,g
+669,rubys diner,aloha burger,37,g,5,mg,1470,g,70,g,10,g,13,g,0,g,3,g,24,g
+670,rubys diner,vegwich without dressing,22,g,22,mg,1461,g,75,g,23,g,5,g,0,g,9,g,13,g
+671,rubys diner,chili cheese dog without sides,67,g,100,mg,1920,g,41,g,32,g,31,g,0,g,2,g,6,g
+672,rubys diner,super burger with chicken and mayo without sides,77,g,155,mg,2330,g,54,g,59,g,33,g,0,g,6,g,6,g
+673,rubys diner,cashew chicken salad sandwich without sides,41,g,68,mg,1470,g,61,g,31,g,7,g,0,g,4,g,13,g
+674,rubys diner,de lite ful burger without meat or sides,13,g,20,mg,1328,g,76,g,19,g,4,g,0,g,6,g,15,g
+675,rubys diner,all natural usda choice beef patty,18,g,85,mg,370,g,1,g,24,g,7,g,0,g,0,g,0,g
+676,rubys diner,rubyburger with chicken and mayo without sides,41,g,95,mg,1250,g,50,g,40,g,14,g,0,g,3,g,8,g
+677,rubys diner,double deluxe burger without sides,46,g,120,mg,1220,g,37,g,35,g,20,g,0,g,1,g,10,g
+678,rubys diner,rubymelt without meat or sides,40,g,30,mg,940,g,56,g,16,g,20,g,0,g,3,g,7,g
+679,rubys diner,hickory burger with chicken and mayo without sides,71,g,155,mg,2560,g,92,g,60,g,26,g,0,g,5,g,21,g
+680,rubys diner,de lite ful tlt sandwich without dressing,8,g,118,mg,879,g,72,g,54,g,1,g,0,g,5,g,12,g
+681,rubys diner,aloha burger with chicken and mayo without sides,41,g,95,mg,2060,g,69,g,41,g,14,g,0,g,3,g,24,g
+682,rubys diner,the portobello provolone burger without sides,78,g,130,mg,2147,g,64,g,48,g,34,g,0,g,4,g,10,g
+683,rubys diner,corn dog without sides,24,g,55,mg,760,g,27,g,10,g,5,g,0,g,5,g,3,g
+684,rubys diner,de lite ful veggie burger with gofit lean veggie protein patty wihout dressing,20,g,20,mg,1708,g,82,g,35,g,7,g,0,g,9,g,16,g
+685,rubys diner,double deluxe burger with gluten free bun without sides,49,g,119,mg,1248,g,41,g,36,g,20,g,0,g,5,g,10,g
+686,rubys diner,guacamole burger with chicken and mayo without sides,55,g,135,mg,1930,g,58,g,48,g,21,g,0,g,5,g,10,g
+687,rubys diner,de lite ful chicken soft tacos,22,g,118,mg,2263,g,36,g,65,g,9,g,0,g,16,g,4,g
+688,rubys diner,de lite ful veggie burer with gardenburger patty without dressing,17,g,47,mg,2088,g,97,g,28,g,6,g,0,g,10,g,17,g
+689,rubys diner,double deluxe gofit lean veggie protein burger without sides,36,g,35,mg,1284,g,42,g,27,g,16,g,0,g,5,g,10,g
+690,rubys diner,skinny lunch without meat,2,g,5,mg,490,g,22,g,14,g,1,g,0,g,2,g,16,g
+691,rubys diner,albacore melt sandwich without sides,45,g,62,mg,1825,g,48,g,31,g,20,g,0,g,3,g,5,g
+692,rubys diner,gardenburger patty,4,g,25,mg,760,g,22,g,8,g,2,g,0,g,4,g,1,g
+693,rubys diner,rubyclub sandwich without sides,53,g,143,mg,1628,g,57,g,58,g,17,g,0,g,7,g,8,g
+694,rubys diner,albacore salad sandwich without sides,34,g,38,mg,1243,g,52,g,23,g,6,g,0,g,4,g,7,g
+695,rubys diner,de liteful chinese chicken salad,9,g,86,mg,1188,g,40,g,36,g,2,g,0,g,6,g,24,g
+696,rubys diner,bacon cheeseburger with chicken and mayo without sides,56,g,145,mg,2130,g,54,g,53,g,22,g,0,g,3,g,9,g
+697,rubys diner,the smoked mozzarella burger without sides,70,g,288,mg,1988,g,59,g,52,g,28,g,0,g,4,g,9,g
+698,rubys diner,the mediterranean burger without sides,68,g,136,mg,1946,g,65,g,43,g,29,g,0,g,4,g,11,g
+699,rubys diner,bleus burger without meat or sides,48,g,35,mg,1210,g,52,g,17,g,20,g,0,g,3,g,8,g
+700,rubys diner,rubyburger without meat or sides,37,g,5,mg,660,g,51,g,9,g,13,g,0,g,3,g,8,g
+701,rubys diner,gofit lean veggie protein patty,7,g,0,mg,380,g,6,g,16,g,3,g,0,g,3,g,1,g
+702,rubys diner,bleus rubyburger with chicken and mayo without sides,53,g,125,mg,1800,g,51,g,49,g,21,g,0,g,3,g,8,g
+703,rubys diner,add salad,4,g,0,mg,210,g,15,g,3,g,0,g,0,g,2,g,3,g
+704,rubys diner,albacore melt,45,g,60,mg,1830,g,48,g,31,g,20,g,0,g,3,g,5,g
+705,rubys diner,albacore salad sandwich,34,g,40,mg,1240,g,52,g,23,g,6,g,0,g,4,g,7,g
+706,rubys diner,aloha burger add patty choice,37,g,5,mg,1470,g,70,g,10,g,13,g,0,g,3,g,24,g
+707,rubys diner,aloha chicken burger,41,g,95,mg,2060,g,69,g,41,g,14,g,0,g,3,g,24,g
+708,rubys diner,american cheese,10,g,30,mg,480,g,3,g,7,g,6,g,0,g,0,g,3,g
+709,rubys diner,asian dressing,42,g,20,mg,870,g,7,g,1,g,7,g,0,g,0,g,7,g
+710,rubys diner,awesome egg sandwich,51,g,500,mg,1820,g,77,g,32,g,25,g,0,g,2,g,10,g
+711,rubys diner,awesome egg sandwich with bacon,61,g,525,mg,2380,g,77,g,41,g,25,g,0,g,2,g,10,g
+712,rubys diner,awesome egg sandwich with turkey sausage,64,g,605,mg,2590,g,80,g,52,g,25,g,0,g,2,g,10,g
+713,rubys diner,awesome egg sandwich with veggie sausage,57,g,540,mg,2100,g,84,g,64,g,25,g,0,g,8,g,23,g
+714,rubys diner,bacon cheese chicken burger,56,g,145,mg,2130,g,54,g,53,g,22,g,0,g,3,g,9,g
+715,rubys diner,bacon cheeseburger add patty choice,52,g,60,mg,1530,g,55,g,22,g,20,g,0,g,3,g,10,g
+716,rubys diner,bagel and low fat cream cheese,4,g,10,mg,570,g,64,g,12,g,2,g,0,g,3,g,6,g
+717,rubys diner,banana cream dream shake,28,g,75,mg,510,g,132,g,14,g,19,g,0,g,2,g,113,g
+718,rubys diner,banana split,21,g,50,mg,250,g,94,g,10,g,13,g,0,g,4,g,70,g
+719,rubys diner,barqs root beer,0,g,0,mg,40,g,52,g,0,g,0,g,0,g,0,g,52,g
+720,rubys diner,barqs root beer float,9,g,20,mg,150,g,40,g,5,g,6,g,0,g,0,g,36,g
+721,rubys diner,bbq ranch chicken salad,33,g,120,mg,2010,g,64,g,57,g,11,g,0,g,12,g,32,g
+722,rubys diner,bbq ranch dressing,18,g,15,mg,530,g,10,g,0,g,4,g,0,g,0,g,8,g
+723,rubys diner,beignets,40,g,70,mg,410,g,80,g,8,g,15,g,0,g,2,g,41,g
+724,rubys diner,black cherry shake,27,g,70,mg,390,g,94,g,14,g,19,g,0,g,1,g,80,g
+725,rubys diner,black forest shake,27,g,70,mg,420,g,118,g,15,g,19,g,0,g,1,g,100,g
+726,rubys diner,blackberry jam,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,7,g
+727,rubys diner,bleu cheese dressing,33,g,30,mg,420,g,1,g,3,g,10,g,0,g,0,g,0,g
+728,rubys diner,bleus burger add patty choice,48,g,35,mg,1210,g,52,g,17,g,20,g,0,g,3,g,8,g
+729,rubys diner,bleus chicken burger,53,g,125,mg,1800,g,51,g,49,g,21,g,0,g,3,g,8,g
+730,rubys diner,breakfast burger,80,g,380,mg,2600,g,77,g,58,g,32,g,0,g,2,g,12,g
+731,rubys diner,buffalo chicken tenders,102,g,115,mg,4190,g,61,g,43,g,28,g,0,g,6,g,4,g
+732,rubys diner,butterfinger shake,38,g,70,mg,520,g,115,g,17,g,24,g,0,g,1,g,87,g
+733,rubys diner,caesar dinner salad,21,g,15,mg,480,g,14,g,4,g,3,g,0,g,2,g,1,g
+734,rubys diner,caesar dressing,43,g,40,mg,680,g,1,g,2,g,8,g,0,g,0,g,0,g
+735,rubys diner,cajun fries,22,g,0,mg,1460,g,63,g,6,g,3,g,0,g,6,g,2,g
+736,rubys diner,cajun fries basket,37,g,0,mg,2690,g,110,g,11,g,5,g,0,g,9,g,3,g
+737,rubys diner,caramel shake,28,g,75,mg,500,g,118,g,14,g,19,g,0,g,0,g,106,g
+738,rubys diner,cashew chicken salad,73,g,115,mg,1780,g,71,g,39,g,10,g,0,g,5,g,39,g
+739,rubys diner,chardonnay vinaigrette dressing,28,g,15,mg,1030,g,5,g,0,g,4,g,0,g,0,g,3,g
+740,rubys diner,cheddar cheese,14,g,45,mg,260,g,1,g,11,g,9,g,0,g,0,g,0,g
+741,rubys diner,cherry flavored soda,0,g,0,mg,35,g,67,g,0,g,0,g,0,g,0,g,66,g
+742,rubys diner,chicken finger salad,90,g,265,mg,2940,g,68,g,57,g,21,g,0,g,7,g,28,g
+743,rubys diner,chicken tacos,31,g,130,mg,2110,g,60,g,59,g,15,g,0,g,9,g,8,g
+744,rubys diner,chicken tenders,86,g,115,mg,3510,g,99,g,42,g,12,g,0,g,6,g,36,g
+745,rubys diner,chili cheese dog,67,g,100,mg,1920,g,41,g,32,g,31,g,0,g,2,g,6,g
+746,rubys diner,chili con carne and cheese omelette,59,g,670,mg,1920,g,55,g,49,g,29,g,0,g,2,g,4,g
+747,rubys diner,chili fries,38,g,45,mg,1490,g,66,g,17,g,11,g,0,g,6,g,3,g
+748,rubys diner,chili fries appetizer,66,g,80,mg,2620,g,114,g,31,g,21,g,0,g,10,g,5,g
+749,rubys diner,chinese chicken salad with asian dressing,63,g,105,mg,1830,g,40,g,39,g,11,g,0,g,6,g,18,g
+750,rubys diner,chinese chicken salad with fat free sesame ginger dressing,13,g,85,mg,1250,g,47,g,37,g,2,g,0,g,6,g,24,g
+751,rubys diner,chocolate banana shake,27,g,70,mg,420,g,111,g,15,g,19,g,0,g,2,g,88,g
+752,rubys diner,chocolate chip cookie dough shake,35,g,95,mg,440,g,103,g,16,g,23,g,0,g,0,g,76,g
+753,rubys diner,chocolate flavored soda,0,g,0,mg,35,g,67,g,1,g,0,g,0,g,0,g,63,g
+754,rubys diner,chocolate turtle shake,33,g,75,mg,590,g,181,g,16,g,19,g,0,g,3,g,157,g
+755,rubys diner,cinnamon roll french toast,63,g,500,mg,1100,g,187,g,25,g,23,g,0,g,4,g,117,g
+756,rubys diner,clam chowder bowl,33,g,100,mg,1460,g,36,g,16,g,14,g,0,g,0,g,3,g
+757,rubys diner,clam chowder cup,20,g,60,mg,930,g,25,g,10,g,9,g,0,g,0,g,2,g
+758,rubys diner,cobb salad dressing not included,34,g,250,mg,1260,g,18,g,44,g,13,g,0,g,8,g,8,g
+759,rubys diner,coffee,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+760,rubys diner,coffee shake,26,g,65,mg,390,g,72,g,13,g,18,g,0,g,0,g,59,g
+761,rubys diner,coke,0,g,0,mg,10,g,47,g,0,g,0,g,0,g,0,g,47,g
+762,rubys diner,coke float,9,g,20,mg,140,g,39,g,5,g,6,g,0,g,0,g,34,g
+763,rubys diner,coleslaw,12,g,10,mg,120,g,9,g,1,g,2,g,0,g,2,g,6,g
+764,rubys diner,corn dog,24,g,55,mg,760,g,27,g,10,g,5,g,0,g,5,g,3,g
+765,rubys diner,corned beef hash and eggs,75,g,570,mg,1980,g,48,g,38,g,30,g,0,g,0,g,1,g
+766,rubys diner,corned beef scramble,72,g,800,mg,2020,g,43,g,60,g,33,g,0,g,1,g,3,g
+767,rubys diner,cottage cheese,2,g,5,mg,370,g,4,g,13,g,1,g,0,g,0,g,0,g
+768,rubys diner,de lite ful egg white omelette,22,g,20,mg,930,g,26,g,25,g,11,g,0,g,4,g,19,g
+769,rubys diner,de lite ful chicken soft tacos,22,g,120,mg,2270,g,36,g,65,g,9,g,0,g,16,g,4,g
+770,rubys diner,de lite ful chinese chicken salad,9,g,85,mg,1190,g,40,g,36,g,2,g,0,g,6,g,24,g
+771,rubys diner,de lite ful tlt sandwich,8,g,120,mg,880,g,72,g,54,g,1,g,0,g,5,g,12,g
+772,rubys diner,de lite ful veggie burger with gardenburger patty,17,g,45,mg,2090,g,97,g,28,g,6,g,0,g,10,g,17,g
+773,rubys diner,de lite ful veggie burger with gofit lean veggie protein patty,20,g,20,mg,1710,g,82,g,35,g,7,g,0,g,9,g,16,g
+774,rubys diner,de alitea ful burger add patty choice,13,g,20,mg,1330,g,76,g,19,g,4,g,0,g,6,g,15,g
+775,rubys diner,deluxe blta,79,g,70,mg,2310,g,51,g,33,g,31,g,0,g,7,g,4,g
+776,rubys diner,denver omelette,49,g,680,mg,2210,g,55,g,53,g,25,g,0,g,2,g,5,g
+777,rubys diner,diet coke,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+778,rubys diner,dinner salad dressing not included,3,g,0,mg,210,g,15,g,3,g,0,g,0,g,2,g,3,g
+779,rubys diner,dinner salad with entree dressing not included,4,g,0,mg,210,g,15,g,3,g,0,g,0,g,2,g,3,g
+780,rubys diner,double dark chocolate chip shake,36,g,65,mg,450,g,142,g,17,g,24,g,0,g,4,g,119,g
+781,rubys diner,double deluxe burger,46,g,120,mg,1220,g,37,g,35,g,20,g,0,g,1,g,10,g
+782,rubys diner,double deluxe burger with gluten free bun,49,g,120,mg,1250,g,41,g,36,g,20,g,0,g,5,g,10,g
+783,rubys diner,double deluxe go fit lean veggie protein burger,36,g,35,mg,1280,g,42,g,27,g,16,g,0,g,5,g,10,g
+784,rubys diner,double deluxe turkey burger,40,g,135,mg,1330,g,37,g,41,g,13,g,0,g,2,g,10,g
+785,rubys diner,double deluxe turkey burger with gluten free bun,43,g,135,mg,1360,g,41,g,42,g,13,g,0,g,5,g,10,g
+786,rubys diner,double hot fudge brownie sundae,50,g,90,mg,470,g,135,g,15,g,25,g,0,g,4,g,110,g
+787,rubys diner,double vanilla shake,27,g,70,mg,420,g,96,g,14,g,19,g,0,g,0,g,81,g
+788,rubys diner,egg white omelette,22,g,20,mg,930,g,26,g,25,g,11,g,0,g,4,g,19,g
+789,rubys diner,eggbeaters egg whites equals 1 egg,3,g,0,mg,80,g,0,g,4,g,2,g,0,g,0,g,0,g
+790,rubys diner,eggbeaters original equals 1 egg,3,g,0,mg,150,g,1,g,6,g,2,g,0,g,0,g,1,g
+791,rubys diner,eggs benedict,43,g,590,mg,1780,g,57,g,33,g,22,g,0,g,1,g,7,g
+792,rubys diner,english muffin,9,g,20,mg,290,g,25,g,4,g,5,g,0,g,1,g,1,g
+793,rubys diner,famous burger patty choice all natural usda choice beef patty,18,g,85,mg,370,g,1,g,24,g,7,g,0,g,0,g,0,g
+794,rubys diner,famous burger patty choice gardenburger patty,4,g,25,mg,760,g,22,g,8,g,2,g,0,g,4,g,1,g
+795,rubys diner,famous burger patty choice gofit lean veggie protein patty,7,g,0,mg,380,g,6,g,16,g,3,g,0,g,3,g,1,g
+796,rubys diner,famous burger patty choice turkey patty,11,g,100,mg,380,g,1,g,30,g,3,g,0,g,0,g,0,g
+797,rubys diner,fat free sesame ginger dressing,0,g,0,mg,580,g,20,g,0,g,0,g,0,g,0,g,18,g
+798,rubys diner,fish and chips,76,g,90,mg,1660,g,132,g,36,g,9,g,0,g,11,g,19,g
+799,rubys diner,fish tacos,41,g,90,mg,1770,g,85,g,47,g,15,g,0,g,9,g,9,g
+800,rubys diner,french fries,22,g,0,mg,1080,g,62,g,6,g,3,g,0,g,5,g,2,g
+801,rubys diner,french toast,25,g,250,mg,490,g,98,g,11,g,12,g,0,g,1,g,67,g
+802,rubys diner,fresh baked apple pie,22,g,20,mg,590,g,124,g,4,g,10,g,0,g,2,g,85,g
+803,rubys diner,fresh baked apple pie a la mode,35,g,50,mg,780,g,159,g,10,g,19,g,0,g,2,g,114,g
+804,rubys diner,fresh roast turkey sandwich,39,g,125,mg,1260,g,64,g,51,g,14,g,0,g,4,g,15,g
+805,rubys diner,fries basket,37,g,0,mg,1930,g,108,g,10,g,5,g,0,g,9,g,3,g
+806,rubys diner,frings,47,g,0,mg,2210,g,134,g,14,g,6,g,0,g,10,g,8,g
+807,rubys diner,garden scramble,63,g,750,mg,2570,g,36,g,52,g,33,g,0,g,3,g,5,g
+808,rubys diner,garlic fries,32,g,0,mg,1750,g,71,g,8,g,4,g,0,g,6,g,2,g
+809,rubys diner,garlic fries basket,59,g,5,mg,3260,g,123,g,14,g,7,g,0,g,0,g,4,g
+810,rubys diner,griddle combos choice of egg poached eggs,12,g,470,mg,180,g,1,g,16,g,4,g,0,g,0,g,1,g
+811,rubys diner,griddle combos choice of egg two eggs,18,g,470,mg,220,g,1,g,16,g,7,g,0,g,0,g,1,g
+812,rubys diner,griddle combos choice of meat bacon,8,g,20,mg,440,g,0,g,7,g,3,g,0,g,0,g,0,g
+813,rubys diner,griddle combos choice of meat ham steak,6,g,135,mg,2750,g,2,g,41,g,2,g,0,g,0,g,2,g
+814,rubys diner,griddle combos choice of meat lean canadian bacon,2,g,35,mg,850,g,3,g,14,g,1,g,0,g,0,g,3,g
+815,rubys diner,griddle combos choice of meat sausage,37,g,0,mg,530,g,1,g,12,g,15,g,0,g,0,g,0,g
+816,rubys diner,griddle combos choice of meat turkey sausage,12,g,105,mg,760,g,4,g,20,g,4,g,0,g,0,g,0,g
+817,rubys diner,griddle combos choice of meat veggie sausage patties,6,g,0,mg,500,g,8,g,16,g,1,g,0,g,2,g,2,g
+818,rubys diner,griddle combos cinnamon roll french toast,63,g,500,mg,1100,g,187,g,25,g,23,g,0,g,0,g,4117,g
+819,rubys diner,griddle combos multi grain pancake,25,g,100,mg,1010,g,51,g,9,g,10,g,0,g,2,g,13,g
+820,rubys diner,griddle combos ruby hot cakes,24,g,80,mg,1290,g,121,g,10,g,10,g,0,g,2,g,75,g
+821,rubys diner,griddle combos ruby hot cakes with bacon mix ins,30,g,95,mg,1660,g,121,g,16,g,12,g,0,g,2,g,75,g
+822,rubys diner,griddle combos ruby hot cakes with pecan mix ins,44,g,80,mg,1290,g,125,g,13,g,12,g,0,g,4,g,76,g
+823,rubys diner,griddle combos rubys french toast,38,g,465,mg,850,g,130,g,21,g,17,g,0,g,2,g,74,g
+824,rubys diner,grilled onions,4,g,0,mg,40,g,5,g,1,g,2,g,0,g,1,g,2,g
+825,rubys diner,ground beef scramble,55,g,790,mg,7900,g,31,g,62,g,27,g,0,g,1,g,3,g
+826,rubys diner,guacamole,3,g,0,mg,70,g,2,g,0,g,1,g,0,g,1,g,0,g
+827,rubys diner,guacamole burger add patty choice,51,g,45,mg,1340,g,58,g,17,g,20,g,0,g,5,g,10,g
+828,rubys diner,guacamole chicken burger,55,g,135,mg,1930,g,58,g,48,g,21,g,0,g,5,g,10,g
+829,rubys diner,ham steak and eggs,28,g,605,mg,3390,g,26,g,58,g,12,g,0,g,0,g,4,g
+830,rubys diner,hersheys chocolate shake,27,g,70,mg,420,g,97,g,15,g,19,g,0,g,0,g,81,g
+831,rubys diner,hickory burger add patty choice,67,g,70,mg,1970,g,92,g,29,g,25,g,0,g,5,g,22,g
+832,rubys diner,hickory chicken burger,71,g,155,mg,2560,g,92,g,60,g,26,g,0,g,5,g,21,g
+833,rubys diner,honey mustard dressing,35,g,25,mg,400,g,20,g,0,g,5,g,0,g,0,g,20,g
+834,rubys diner,hot chocolate,5,g,5,mg,220,g,49,g,2,g,4,g,0,g,2,g,43,g
+835,rubys diner,hot tea,0,g,0,mg,20,g,2,g,0,g,0,g,0,g,0,g,0,g
+836,rubys diner,huevos rancheros,76,g,510,mg,2260,g,90,g,46,g,25,g,0,g,10,g,8,g
+837,rubys diner,iced tea,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+838,rubys diner,italian dressing,28,g,15,mg,1030,g,5,g,0,g,4,g,0,g,0,g,3,g
+839,rubys diner,itsy bitsy sundae with caramel,11,g,30,mg,210,g,58,g,5,g,7,g,0,g,0,g,53,g
+840,rubys diner,itsy bitsy sundae with hot fudge,15,g,25,mg,200,g,47,g,6,g,11,g,0,g,1,g,41,g
+841,rubys diner,jumbo hot dog,47,g,50,mg,1390,g,35,g,18,g,21,g,0,g,1,g,4,g
+842,rubys diner,kids old fashioned vanilla soft serve in a cone,4,g,10,mg,55,g,11,g,2,g,2,g,0,g,0,g,8,g
+843,rubys diner,kids all natural usda choice beef burger,16,g,40,mg,410,g,30,g,16,g,7,g,0,g,1,g,4,g
+844,rubys diner,kids apple slices,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,2,g,7,g
+845,rubys diner,kids banana cream dream shake,20,g,55,mg,360,g,93,g,10,g,13,g,0,g,1,g,79,g
+846,rubys diner,kids barqs root beer,0,g,0,mg,25,g,30,g,0,g,0,g,0,g,0,g,30,g
+847,rubys diner,kids black cherry shake,19,g,50,mg,280,g,68,g,10,g,13,g,0,g,0,g,58,g
+848,rubys diner,kids black forest shake,19,g,50,mg,300,g,86,g,11,g,13,g,0,g,0,g,73,g
+849,rubys diner,kids butterfinger shake,27,g,50,mg,380,g,84,g,12,g,17,g,0,g,1,g,63,g
+850,rubys diner,kids caramel shake,20,g,55,mg,360,g,83,g,10,g,13,g,0,g,0,g,74,g
+851,rubys diner,kids cherry flavored soda,0,g,0,mg,20,g,38,g,0,g,0,g,0,g,0,g,370,g
+852,rubys diner,kids chicken fingers,29,g,55,mg,1490,g,33,g,23,g,4,g,0,g,2,g,1,g
+853,rubys diner,kids chocolate banana shake,20,g,50,mg,300,g,81,g,11,g,13,g,0,g,1,g,64,g
+854,rubys diner,kids chocolate chip cookie dough shake,26,g,70,mg,320,g,76,g,12,g,17,g,0,g,0,g,56,g
+855,rubys diner,kids chocolate flavored soda,0,g,0,mg,20,g,37,g,1,g,0,g,0,g,0,g,35,g
+856,rubys diner,kids chocolate turtle shake,23,g,50,mg,400,g,127,g,12,g,13,g,0,g,3,g,109,g
+857,rubys diner,kids coffee shake,19,g,45,mg,280,g,52,g,9,g,13,g,0,g,0,g,43,g
+858,rubys diner,kids coke,0,g,0,mg,5,g,27,g,0,g,0,g,0,g,0,g,27,g
+859,rubys diner,kids double dark chocolate chip shake,24,g,45,mg,320,g,99,g,12,g,16,g,0,g,3,g,83,g
+860,rubys diner,kids double vanilla shake,19,g,50,mg,300,g,68,g,10,g,13,g,0,g,0,g,59,g
+861,rubys diner,kids fries,10,g,0,mg,360,g,28,g,3,g,1,g,0,g,2,g,1,g
+862,rubys diner,kids fruit salad,0,g,0,mg,15,g,17,g,1,g,0,g,0,g,1,g,14,g
+863,rubys diner,kids grilled cheese,35,g,30,mg,1060,g,47,g,13,g,18,g,0,g,2,g,7,g
+864,rubys diner,kids grilled chicken breast meal,4,g,85,mg,1010,g,23,g,32,g,1,g,0,g,0,g,17,g
+865,rubys diner,kids hersheys chocolate shake,19,g,50,mg,300,g,71,g,11,g,13,g,0,g,0,g,59,g
+866,rubys diner,kids hot dog,47,g,50,mg,1390,g,35,g,18,g,21,g,0,g,1,g,4,g
+867,rubys diner,kids iced tea,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,0,g
+868,rubys diner,kids lemon flavored soda,0,g,0,mg,5,g,27,g,0,g,0,g,0,g,0,g,27,g
+869,rubys diner,kids lemonade,0,g,0,mg,5,g,27,g,1,g,0,g,0,g,0,g,26,g
+870,rubys diner,kids macaroni and cheese,13,g,15,mg,1790,g,137,g,23,g,8,g,0,g,3,g,16,g
+871,rubys diner,kids mocha shake,19,g,45,mg,300,g,70,g,10,g,13,g,0,g,0,g,58,g
+872,rubys diner,kids mr pibb,0,g,0,mg,5,g,26,g,0,g,0,g,0,g,0,g,26,g
+873,rubys diner,kids nestea raspberry iced tea,0,g,0,mg,10,g,21,g,0,g,0,g,0,g,0,g,21,g
+874,rubys diner,kids orange 50 50 shake,19,g,45,mg,280,g,57,g,9,g,13,g,0,g,0,g,47,g
+875,rubys diner,kids oreo cookie fantasy shake,25,g,50,mg,450,g,71,g,11,g,13,g,0,g,1,g,51,g
+876,rubys diner,kids peanut butter and jelly sandwich,27,g,0,mg,620,g,79,g,18,g,5,g,0,g,5,g,32,g
+877,rubys diner,kids peanut butter cup shake,25,g,50,mg,360,g,73,g,14,g,15,g,0,g,1,g,60,g
+878,rubys diner,kids peanut butter shake,25,g,50,mg,340,g,55,g,13,g,15,g,0,g,1,g,45,g
+879,rubys diner,kids pineapple shake,19,g,50,mg,280,g,60,g,10,g,13,g,0,g,0,g,51,g
+880,rubys diner,kids quesadilla,19,g,30,mg,800,g,42,g,22,g,10,g,0,g,4,g,2,g
+881,rubys diner,kids sprite,0,g,0,mg,20,g,26,g,0,g,0,g,0,g,0,g,26,g
+882,rubys diner,kids strawberry banana shake,20,g,50,mg,280,g,69,g,10,g,13,g,0,g,2,g,55,g
+883,rubys diner,kids strawberry shake,19,g,50,mg,280,g,59,g,10,g,13,g,0,g,0,g,50,g
+884,rubys diner,kids turkey burger,13,g,50,mg,170,g,30,g,19,g,5,g,0,g,1,g,4,g
+885,rubys diner,kids turkey corn dog,24,g,55,mg,760,g,27,g,10,g,5,g,0,g,5,g,3,g
+886,rubys diner,kids vanilla flavored soda,0,g,0,mg,15,g,35,g,0,g,0,g,0,g,0,g,35,g
+887,rubys diner,large apple juice,0,g,0,mg,40,g,42,g,0,g,0,g,0,g,0,g,42,g
+888,rubys diner,large chocolate non fat milk,0,g,5,mg,170,g,41,g,12,g,0,g,0,g,0,g,37,g
+889,rubys diner,large chocolate organic 2 milk,7,g,25,mg,160,g,40,g,12,g,4,g,0,g,0,g,36,g
+890,rubys diner,large chocolate whole milk,11,g,35,mg,160,g,39,g,12,g,6,g,0,g,0,g,35,g
+891,rubys diner,large cranberry juice,0,g,0,mg,10,g,51,g,0,g,0,g,0,g,0,g,45,g
+892,rubys diner,large grapefruit juice,0,g,0,mg,45,g,49,g,1,g,0,g,0,g,0,g,48,g
+893,rubys diner,large non fat milk,0,g,5,mg,150,g,18,g,12,g,0,g,0,g,0,g,18,g
+894,rubys diner,large orange juice,0,g,0,mg,20,g,40,g,1,g,0,g,0,g,0,g,34,g
+895,rubys diner,large organic 2 milk,7,g,30,mg,150,g,17,g,12,g,5,g,0,g,0,g,17,g
+896,rubys diner,large tomato juice,0,g,0,mg,1130,g,16,g,3,g,0,g,0,g,3,g,11,g
+897,rubys diner,large whole milk,12,g,35,mg,150,g,17,g,12,g,7,g,0,g,0,g,17,g
+898,rubys diner,lemon flavored soda,0,g,0,mg,10,g,47,g,0,g,0,g,0,g,0,g,47,g
+899,rubys diner,lemonade,0,g,0,mg,10,g,46,g,2,g,0,g,0,g,0,g,46,g
+900,rubys diner,light italian dressing,11,g,0,mg,570,g,6,g,1,g,1,g,0,g,1,g,4,g
+901,rubys diner,low carb cheeseburger add patty choice,10,g,20,mg,920,g,22,g,11,g,3,g,0,g,2,g,8,g
+902,rubys diner,low fat american cheese,6,g,20,mg,520,g,2,g,8,g,3,g,0,g,0,g,2,g
+903,rubys diner,malt powder for kids shake,1,g,0,mg,30,g,5,g,1,g,0,g,0,g,0,g,3,g
+904,rubys diner,malt powder for shake,1,g,0,mg,35,g,6,g,1,g,0,g,0,g,0,g,4,g
+905,rubys diner,mediterranean salad,62,g,110,mg,3040,g,32,g,22,g,22,g,0,g,8,g,15,g
+906,rubys diner,mediterranean salad with chicken,66,g,195,mg,3630,g,32,g,53,g,23,g,0,g,8,g,15,g
+907,rubys diner,mixed fruit,0,g,0,mg,20,g,24,g,1,g,0,g,0,g,2,g,20,g
+908,rubys diner,mixed fruit breakfast side,0,g,0,mg,20,g,24,g,1,g,0,g,0,g,2,g,20,g
+909,rubys diner,mocha shake,26,g,65,mg,410,g,96,g,14,g,18,g,0,g,0,g,79,g
+910,rubys diner,mr pibb,0,g,0,mg,10,g,46,g,0,g,0,g,0,g,0,g,46,g
+911,rubys diner,multi grain pancakes,25,g,100,mg,1010,g,51,g,9,g,10,g,0,g,2,g,13,g
+912,rubys diner,mushroom swiss burger add patty choice,49,g,45,mg,1200,g,56,g,17,g,20,g,0,g,3,g,11,g
+913,rubys diner,mushroom swiss chicken burger,53,g,130,mg,1790,g,56,g,49,g,22,g,0,g,3,g,10,g
+914,rubys diner,nestea raspberry iced tea,0,g,0,mg,15,g,37,g,0,g,0,g,0,g,0,g,37,g
+915,rubys diner,new cashew chicken salad sandwich,41,g,70,mg,1470,g,61,g,31,g,7,g,0,g,4,g,13,g
+916,rubys diner,oatmeal golden raisins and pecans,25,g,5,mg,100,g,117,g,17,g,4,g,0,g,11,g,54,g
+917,rubys diner,old fashioned vanilla soft serve in a cup,14,g,35,mg,220,g,40,g,7,g,10,g,0,g,0,g,33,g
+918,rubys diner,old fashioned vanilla soft serve on a cone,11,g,25,mg,170,g,34,g,6,g,8,g,0,g,0,g,25,g
+919,rubys diner,orange 50 50 shake,26,g,65,mg,380,g,79,g,13,g,18,g,0,g,0,g,65,g
+920,rubys diner,orange marmelade,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,7,g
+921,rubys diner,oreo cookie fantasy shake,34,g,70,mg,640,g,97,g,16,g,19,g,0,g,1,g,70,g
+922,rubys diner,original ranch dressing,28,g,15,mg,570,g,2,g,1,g,5,g,0,g,0,g,2,g
+923,rubys diner,parmesan bleu fries,24,g,10,mg,1680,g,64,g,9,g,5,g,0,g,5,g,2,g
+924,rubys diner,parmesan bleu fries basket,42,g,15,mg,3110,g,110,g,17,g,8,g,0,g,9,g,4,g
+925,rubys diner,peanut butter cup shake,35,g,70,mg,490,g,101,g,19,g,20,g,0,g,1,g,82,g
+926,rubys diner,peanut butter shake,35,g,70,mg,470,g,77,g,18,g,20,g,0,g,1,g,62,g
+927,rubys diner,pepper jack cheese,13,g,45,mg,270,g,0,g,9,g,8,g,0,g,0,g,0,g
+928,rubys diner,pigs in a blanket,39,g,65,mg,1170,g,103,g,13,g,17,g,0,g,1,g,70,g
+929,rubys diner,pineapple shake,27,g,70,mg,400,g,83,g,14,g,19,g,0,g,0,g,70,g
+930,rubys diner,pomegranate vinaigrette dressing,31,g,0,mg,400,g,9,g,0,g,5,g,0,g,0,g,8,g
+931,rubys diner,portobello mushroom benedict,49,g,565,mg,1580,g,58,g,26,g,26,g,0,g,3,g,7,g
+932,rubys diner,refillable fries,12,g,0,mg,610,g,34,g,3,g,2,g,0,g,3,g,1,g
+933,rubys diner,regular apple juice,0,g,0,mg,30,g,28,g,0,g,0,g,0,g,0,g,28,g
+934,rubys diner,regular chocolate non fat milk,0,g,5,mg,110,g,23,g,8,g,0,g,0,g,0,g,21,g
+935,rubys diner,regular chocolate organic 2 milk,5,g,20,mg,105,g,23,g,8,g,3,g,0,g,0,g,21,g
+936,rubys diner,regular chocolate whole milk,7,g,25,mg,105,g,22,g,8,g,5,g,0,g,0,g,20,g
+937,rubys diner,regular cranberry,0,g,0,mg,5,g,34,g,0,g,0,g,0,g,0,g,30,g
+938,rubys diner,regular grapefruit juice,0,g,0,mg,30,g,33,g,1,g,0,g,0,g,0,g,32,g
+939,rubys diner,regular non fat milk,0,g,5,mg,105,g,12,g,8,g,0,g,0,g,0,g,12,g
+940,rubys diner,regular orange juice,0,g,0,mg,15,g,27,g,1,g,0,g,0,g,0,g,23,g
+941,rubys diner,regular organic 2 milk,5,g,20,mg,100,g,11,g,8,g,3,g,0,g,0,g,11,g
+942,rubys diner,regular tomato juice,0,g,0,mg,750,g,11,g,2,g,0,g,0,g,2,g,7,g
+943,rubys diner,regular whole milk,8,g,25,mg,100,g,11,g,8,g,5,g,0,g,0,g,11,g
+944,rubys diner,ruby hot cakes,24,g,80,mg,1290,g,121,g,10,g,10,g,0,g,2,g,75,g
+945,rubys diner,ruby hot cakes with bacon mix ins,30,g,95,mg,1660,g,121,g,16,g,12,g,0,g,2,g,75,g
+946,rubys diner,ruby hot cakes with pecan mix ins,44,g,80,mg,1290,g,125,g,13,g,12,g,0,g,4,g,76,g
+947,rubys diner,ruby salad dressing not included,23,g,200,mg,470,g,13,g,22,g,13,g,0,g,4,g,7,g
+948,rubys diner,rubys apple pecan and bleu cheese salad,57,g,40,mg,1090,g,72,g,16,g,15,g,0,g,9,g,55,g
+949,rubys diner,rubys apple pecan and bleu cheese salad with chicken,61,g,125,mg,1690,g,72,g,47,g,16,g,0,g,9,g,55,g
+950,rubys diner,rubys breakfast burrito,46,g,465,mg,2420,g,91,g,45,g,22,g,0,g,10,g,9,g
+951,rubys diner,rubys butcher block omelette with bacon,59,g,675,mg,2180,g,50,g,53,g,28,g,0,g,1,g,3,g
+952,rubys diner,rubys butcher block omelette with ham,50,g,710,mg,2900,g,50,g,62,g,25,g,0,g,1,g,4,g
+953,rubys diner,rubys butcher block omelette with sausage,103,g,645,mg,2320,g,51,g,60,g,46,g,0,g,1,g,3,g
+954,rubys diner,rubys butcher block omelette with turkey sausage,60,g,750,mg,2290,g,53,g,62,g,28,g,0,g,1,g,3,g
+955,rubys diner,rubys butcher block omelette with veggie sausage,53,g,645,mg,2000,g,57,g,59,g,25,g,0,g,4,g,4,g
+956,rubys diner,rubys chili bowl,41,g,90,mg,1530,g,27,g,30,g,18,g,0,g,3,g,5,g
+957,rubys diner,rubys chili cup,24,g,50,mg,880,g,15,g,17,g,10,g,0,g,2,g,3,g
+958,rubys diner,rubys french toast,38,g,465,mg,850,g,130,g,21,g,17,g,0,g,2,g,74,g
+959,rubys diner,rubys jumbo cinnamon roll,35,g,45,mg,760,g,156,g,12,g,9,g,0,g,4,g,92,g
+960,rubys diner,rubyburger add patty choice,37,g,5,mg,660,g,51,g,9,g,13,g,0,g,3,g,8,g
+961,rubys diner,rubychicken burger,41,g,95,mg,1250,g,50,g,40,g,14,g,0,g,3,g,8,g
+962,rubys diner,rubyclub,53,g,145,mg,1630,g,57,g,58,g,17,g,0,g,7,g,8,g
+963,rubys diner,rubymelt add patty choice,40,g,30,mg,940,g,56,g,16,g,20,g,0,g,3,g,7,g
+964,rubys diner,rubyrings,27,g,0,mg,1190,g,77,g,9,g,4,g,0,g,5,g,6,g
+965,rubys diner,rubyrings appetizer,54,g,0,mg,2390,g,154,g,18,g,7,g,0,g,0,g,13,g
+966,rubys diner,rubyspuds,5,g,0,mg,420,g,23,g,2,g,3,g,0,g,0,g,1,g
+967,rubys diner,rubysundaes with black cherry,17,g,40,mg,230,g,63,g,8,g,11,g,0,g,1,g,55,g
+968,rubys diner,rubysundaes with caramel,18,g,50,mg,380,g,103,g,8,g,11,g,0,g,0,g,95,g
+969,rubys diner,rubysundaes with chocolate syrup,17,g,40,mg,280,g,91,g,10,g,11,g,0,g,0,g,75,g
+970,rubys diner,rubysundaes with hot fudge,26,g,40,mg,340,g,81,g,10,g,19,g,0,g,1,g,71,g
+971,rubys diner,rubysundaes with pineapple,17,g,40,mg,230,g,63,g,8,g,11,g,0,g,1,g,54,g
+972,rubys diner,rubysundaes with strawberry,17,g,40,mg,230,g,59,g,8,g,11,g,0,g,1,g,51,g
+973,rubys diner,santa fe burger add patty choice,48,g,55,mg,1180,g,54,g,18,g,20,g,0,g,3,g,8,g
+974,rubys diner,santa fe omelette,61,g,695,mg,1700,g,58,g,41,g,32,g,0,g,3,g,9,g
+975,rubys diner,sauteed mushrooms,4,g,0,mg,35,g,2,g,2,g,2,g,0,g,1,g,1,g
+976,rubys diner,seafood combo,86,g,150,mg,2950,g,151,g,43,g,10,g,0,g,13,g,21,g
+977,rubys diner,shrimp and chips,86,g,180,mg,2840,g,150,g,35,g,13,g,0,g,13,g,23,g
+978,rubys diner,skinny eggs,24,g,480,mg,1070,g,61,g,36,g,8,g,0,g,4,g,17,g
+979,rubys diner,skinny lunch no meat,2,g,5,mg,490,g,22,g,14,g,1,g,0,g,2,g,16,g
+980,rubys diner,sliver dollar pancakes,20,g,60,mg,910,g,104,g,7,g,9,g,0,g,1,g,69,g
+981,rubys diner,sour cream,4,g,10,mg,15,g,1,g,0,g,2,g,0,g,0,g,1,g
+982,rubys diner,sparkling water,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+983,rubys diner,spicy jalapeno jack cheese sticks,103,g,105,mg,3100,g,111,g,28,g,26,g,0,g,7,g,20,g
+984,rubys diner,sprite,0,g,0,mg,40,g,45,g,0,g,0,g,0,g,0,g,45,g
+985,rubys diner,strawberry banana shake,27,g,70,mg,400,g,95,g,14,g,19,g,0,g,2,g,76,g
+986,rubys diner,strawberry jam,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,7,g
+987,rubys diner,strawberry lemonade,0,g,0,mg,15,g,54,g,2,g,0,g,0,g,0,g,53,g
+988,rubys diner,strawberry shake,27,g,70,mg,400,g,81,g,14,g,19,g,0,g,0,g,68,g
+989,rubys diner,substitbute grilled chicken breast,4,g,85,mg,600,g,0,g,31,g,1,g,0,g,0,g,0,g
+990,rubys diner,substitute gluten free bun,5,g,0,mg,310,g,34,g,5,g,1,g,0,g,4,g,4,g
+991,rubys diner,substitute wheat bun,3,g,0,mg,410,g,53,g,8,g,1,g,0,g,3,g,7,g
+992,rubys diner,substitute yellow bun,5,g,0,mg,400,g,48,g,8,g,1,g,0,g,2,g,6,g
+993,rubys diner,super burger add patty choice,72,g,70,mg,1740,g,54,g,28,g,32,g,0,g,6,g,6,g
+994,rubys diner,super chicken burger,77,g,155,mg,2330,g,54,g,59,g,33,g,0,g,6,g,6,g
+995,rubys diner,sweet potato fries,27,g,5,mg,550,g,43,g,4,g,4,g,0,g,6,g,19,g
+996,rubys diner,sweet potato fries appetizer,47,g,10,mg,1010,g,82,g,7,g,6,g,0,g,10,g,32,g
+997,rubys diner,swiss cheese,8,g,35,mg,510,g,4,g,7,g,5,g,0,g,0,g,2,g
+998,rubys diner,syrup sugar free,0,g,0,mg,45,g,4,g,0,g,0,g,0,g,0,g,0,g
+999,rubys diner,texas grilled cheese,40,g,45,mg,1750,g,58,g,20,g,21,g,0,g,3,g,9,g

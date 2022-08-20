@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,sandellas flatbread cafe,pesto chicken grilled flatbread,28,g,90,mg,1220,g,56,g,34,g,8,g,0,g,4,g,7,g
+1,sandellas flatbread cafe,pesto turkey wrap,15,g,65,mg,1390,g,54,g,32,g,6,g,0,g,6,g,8,g
+2,sandellas flatbread cafe,philly beef grilled flatbread,14,g,70,mg,1420,g,57,g,43,g,7,g,0,g,5,g,9,g
+3,sandellas flatbread cafe,philly cheese panini,25,g,75,mg,1400,g,55,g,40,g,10,g,0,g,4,g,6,g
+4,sandellas flatbread cafe,philly style grilled flatbread,10,g,75,mg,1020,g,54,g,35,g,6,g,0,g,5,g,10,g
+5,sandellas flatbread cafe,pickles,0,g,0,mg,250,g,1,g,0,g,0,g,0,g,0,g,0,g
+6,sandellas flatbread cafe,pineapple,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,1,g,12,g
+7,sandellas flatbread cafe,pineapple coconut cake square,26,g,105,mg,640,g,92,g,12,g,17,g,0,g,9,g,29,g
+8,sandellas flatbread cafe,pound cake,6,g,65,mg,120,g,15,g,2,g,3.5,g,0,g,0,g,0,g
+9,sandellas flatbread cafe,powdered sugar,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,7,g
+10,sandellas flatbread cafe,provolone and veggie panini,17,g,35,mg,780,g,56,g,20,g,8,g,0,g,6,g,9,g
+11,sandellas flatbread cafe,provolone cheese,11,g,30,mg,370,g,1,g,11,g,7,g,0,g,0,g,0,g
+12,sandellas flatbread cafe,pumpkin cheese cake square,15,g,40,mg,470,g,83,g,11,g,8,g,0,g,8,g,25,g
+13,sandellas flatbread cafe,pumpkin pie filling,0,g,0,mg,0,g,5,g,1,g,0,g,0,g,1,g,2,g
+14,sandellas flatbread cafe,quattro fromaggi panini,30,g,105,mg,1010,g,49,g,38,g,19,g,0,g,4,g,6,g
+15,sandellas flatbread cafe,ranch chicken wrap,15,g,10,mg,760,g,59,g,24,g,1,g,0,g,8,g,7,g
+16,sandellas flatbread cafe,ranch dressing light,7,g,10,mg,310,g,6,g,0,g,0,g,0,g,0,g,2,g
+17,sandellas flatbread cafe,red onion,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+18,sandellas flatbread cafe,red seedless grapes,0,g,0,mg,0,g,11,g,0,g,0,g,0,g,1,g,9,g
+19,sandellas flatbread cafe,roast beef,4.5,g,35,mg,630,g,5,g,21,g,1.5,g,0,g,0,g,0,g
+20,sandellas flatbread cafe,roast beef club wrap,16,g,70,mg,1390,g,60,g,35,g,3.5,g,0,g,5,g,7,g
+21,sandellas flatbread cafe,roasted red peppers,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+22,sandellas flatbread cafe,roma pesto bowl,23,g,60,mg,1000,g,107,g,30,g,4.5,g,0,g,9,g,7,g
+23,sandellas flatbread cafe,romaine lettuce,0,g,0,mg,5,g,2,g,1,g,0,g,0,g,1,g,1,g
+24,sandellas flatbread cafe,rusticana chicken panini,18,g,70,mg,1010,g,54,g,32,g,8,g,0,g,4,g,8,g
+25,sandellas flatbread cafe,salsa,0,g,0,mg,170,g,2,g,0,g,0,g,0,g,0,g,1,g
+26,sandellas flatbread cafe,sandellas brazilian sauce,0,g,0,mg,150,g,11,g,0,g,0,g,0,g,0,g,9,g
+27,sandellas flatbread cafe,sandellas chicken salad,10,g,35,mg,620,g,46,g,18,g,1.5,g,0,g,8,g,12,g
+28,sandellas flatbread cafe,sandellas flatbread,0,g,0,mg,230,g,44,g,7,g,0,g,0,g,3,g,3,g
+29,sandellas flatbread cafe,sandellas panzanella salad,1.5,g,0,mg,70,g,4,g,1,g,0,g,0,g,1,g,3,g
+30,sandellas flatbread cafe,sandellas thai peanut sauce,4,g,0,mg,370,g,7,g,3,g,1,g,0,g,0,g,6,g
+31,sandellas flatbread cafe,sandellas tuna salad,9,g,35,mg,270,g,2,g,20,g,2,g,0,g,0,g,1,g
+32,sandellas flatbread cafe,sante fe salad,24,g,60,mg,950,g,35,g,20,g,11,g,0,g,7,g,5,g
+33,sandellas flatbread cafe,sauerkraut,0,g,0,mg,180,g,2,g,1,g,0,g,0,g,1,g,1,g
+34,sandellas flatbread cafe,sausage and cheese omelet panini,35,g,370,mg,1120,g,47,g,35,g,15,g,0,g,3,g,5,g
+35,sandellas flatbread cafe,sausage patties,16,g,30,mg,400,g,1,g,6,g,6,g,0,g,0,g,1,g
+36,sandellas flatbread cafe,scallions,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+37,sandellas flatbread cafe,seven layer wrap,23,g,70,mg,1060,g,66,g,27,g,12,g,0,g,10,g,7,g
+38,sandellas flatbread cafe,shredded carrots,0,g,0,mg,15,g,2,g,0,g,0,g,0,g,1,g,1,g
+39,sandellas flatbread cafe,siesta salad,15,g,0,mg,420,g,44,g,8,g,2.5,g,0,g,11,g,9,g
+40,sandellas flatbread cafe,simply strawberry square,2,g,0,mg,260,g,71,g,7,g,1,g,0,g,3,g,19,g
+41,sandellas flatbread cafe,sour cream light,2.5,g,10,mg,15,g,2,g,1,g,1.5,g,0,g,0,g,0,g
+42,sandellas flatbread cafe,south of the border panini,27,g,365,mg,970,g,51,g,30,g,14,g,0,g,4,g,6,g
+43,sandellas flatbread cafe,southwest veggie bowl,20,g,60,mg,1050,g,126,g,36,g,11,g,0,g,16,g,8,g
+44,sandellas flatbread cafe,southwestern quesadilla,23,g,70,mg,1160,g,62,g,26,g,12,g,0,g,8,g,5,g
+45,sandellas flatbread cafe,spacco panini,23,g,70,mg,1310,g,49,g,28,g,11,g,0,g,4,g,7,g
+46,sandellas flatbread cafe,spicy roast beef melt wrap,14,g,70,mg,1360,g,63,g,41,g,7,g,0,g,3,g,13,g
+47,sandellas flatbread cafe,spinach and artichoke grilled flatbread,33,g,80,mg,1430,g,54,g,25,g,13,g,0,g,6,g,6,g
+48,sandellas flatbread cafe,spinach and bacon grilled flatbread,39,g,105,mg,1590,g,52,g,30,g,14,g,0,g,6,g,5,g
+49,sandellas flatbread cafe,spinach and bacon panini,29,g,125,mg,1320,g,65,g,36,g,13,g,0,g,5,g,13,g
+50,sandellas flatbread cafe,spinach salad,19,g,110,mg,1220,g,47,g,23,g,6,g,0,g,10,g,15,g
+51,sandellas flatbread cafe,spinach salad wrap,7,g,55,mg,690,g,60,g,15,g,2,g,0,g,5,g,14,g
+52,sandellas flatbread cafe,spinach ham and swiss panini,20,g,85,mg,1570,g,61,g,33,g,10,g,0,g,6,g,13,g
+53,sandellas flatbread cafe,steak sauce,0,g,0,mg,280,g,3,g,0,g,0,g,0,g,0,g,2,g
+54,sandellas flatbread cafe,strawberry cheese cake square,15,g,40,mg,490,g,75,g,10,g,8,g,0,g,3,g,20,g
+55,sandellas flatbread cafe,strawberry pie filling,0,g,0,mg,40,g,19,g,0,g,0,g,0,g,0,g,8,g
+56,sandellas flatbread cafe,strawberry short cake square,20,g,105,mg,560,g,88,g,11,g,11,g,0,g,3,g,21,g
+57,sandellas flatbread cafe,stuffing,2.5,g,5,mg,860,g,41,g,7,g,0,g,0,g,1,g,6,g
+58,sandellas flatbread cafe,sugar,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,7,g
+59,sandellas flatbread cafe,sun dried tomatoes,3,g,0,mg,55,g,5,g,1,g,0,g,0,g,1,g,0,g
+60,sandellas flatbread cafe,superiore turkey panini,23,g,65,mg,1620,g,55,g,40,g,9,g,0,g,7,g,5,g
+61,sandellas flatbread cafe,sweet and spicy chicken wrap,7,g,65,mg,920,g,64,g,27,g,2,g,0,g,5,g,16,g
+62,sandellas flatbread cafe,sweet ham and swiss wrap,16,g,65,mg,1030,g,64,g,27,g,9,g,0,g,5,g,15,g
+63,sandellas flatbread cafe,swiss cheese,12,g,40,mg,80,g,2,g,11,g,8,g,0,g,0,g,1,g
+64,sandellas flatbread cafe,swiss salad wrap,20,g,45,mg,490,g,62,g,21,g,9,g,0,g,6,g,11,g
+65,sandellas flatbread cafe,tangy turkey and mozzarella panini,13,g,65,mg,1450,g,62,g,40,g,6,g,0,g,5,g,14,g
+66,sandellas flatbread cafe,teriyaki beef panini,6,g,35,mg,1730,g,93,g,32,g,1.5,g,0,g,6,g,16,g
+67,sandellas flatbread cafe,teriyaki chicken wrap,1.5,g,40,mg,1340,g,67,g,22,g,0,g,0,g,5,g,19,g
+68,sandellas flatbread cafe,teriyaki sauce,0,g,0,mg,860,g,15,g,0,g,0,g,0,g,0,g,12,g
+69,sandellas flatbread cafe,texas beef wrap,10,g,40,mg,1050,g,58,g,30,g,2.5,g,0,g,5,g,9,g
+70,sandellas flatbread cafe,texas cafe panini,25,g,105,mg,1170,g,79,g,38,g,12,g,0,g,6,g,6,g
+71,sandellas flatbread cafe,thai chicken bowl,17,g,40,mg,1150,g,115,g,35,g,3,g,0,g,11,g,17,g
+72,sandellas flatbread cafe,thai chicken grilled flatbread,24,g,75,mg,1460,g,66,g,42,g,8,g,0,g,6,g,16,g
+73,sandellas flatbread cafe,thai chicken panini,12,g,40,mg,750,g,80,g,29,g,2,g,0,g,8,g,9,g
+74,sandellas flatbread cafe,thai chicken salad,13,g,40,mg,760,g,37,g,25,g,2,g,0,g,12,g,10,g
+75,sandellas flatbread cafe,thai peanut saute bowl,16,g,0,mg,880,g,116,g,23,g,3,g,0,g,11,g,18,g
+76,sandellas flatbread cafe,thai spinach and chicken salad,14,g,40,mg,780,g,38,g,25,g,2,g,0,g,16,g,10,g
+77,sandellas flatbread cafe,thai veggie panini,10,g,0,mg,550,g,55,g,14,g,1.5,g,0,g,7,g,10,g
+78,sandellas flatbread cafe,thai veggie quesadilla,27,g,60,mg,950,g,59,g,29,g,12,g,0,g,7,g,9,g
+79,sandellas flatbread cafe,the parmegiano grilled flatbread,30,g,110,mg,1910,g,64,g,41,g,8,g,0,g,6,g,8,g
+80,sandellas flatbread cafe,the russian wrap,7,g,35,mg,1050,g,60,g,30,g,1.5,g,0,g,5,g,10,g
+81,sandellas flatbread cafe,thousand island dressing light,5,g,0,mg,350,g,10,g,0,g,0,g,0,g,1,g,7,g
+82,sandellas flatbread cafe,toasted caprese panini,14,g,30,mg,490,g,51,g,20,g,6,g,0,g,5,g,9,g
+83,sandellas flatbread cafe,tobasco sauce,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+84,sandellas flatbread cafe,tomato and cucumber salad,13,g,25,mg,720,g,38,g,10,g,5,g,0,g,5,g,12,g
+85,sandellas flatbread cafe,tomato sliced,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,1,g,2,g
+86,sandellas flatbread cafe,tomato bacon grilled flatbread,26,g,120,mg,1640,g,58,g,38,g,11,g,0,g,5,g,9,g
+87,sandellas flatbread cafe,tomato basil panini,12,g,30,mg,540,g,53,g,21,g,5,g,0,g,5,g,7,g
+88,sandellas flatbread cafe,tomato sauce,0,g,0,mg,115,g,2,g,1,g,0,g,0,g,1,g,2,g
+89,sandellas flatbread cafe,traditional roast beef wrap,25,g,75,mg,1420,g,57,g,40,g,10,g,0,g,5,g,7,g
+90,sandellas flatbread cafe,tuna salad,10,g,35,mg,400,g,34,g,27,g,2,g,0,g,7,g,7,g
+91,sandellas flatbread cafe,tuna wrap,10,g,35,mg,510,g,51,g,29,g,2,g,0,g,5,g,7,g
+92,sandellas flatbread cafe,turkey,1,g,30,mg,660,g,0,g,20,g,0,g,0,g,0,g,1,g
+93,sandellas flatbread cafe,turkey and bacon wrap,12,g,60,mg,1360,g,55,g,34,g,3,g,0,g,5,g,10,g
+94,sandellas flatbread cafe,turkey and guacamole wrap,5,g,30,mg,1300,g,55,g,29,g,0,g,0,g,6,g,8,g
+95,sandellas flatbread cafe,turkey and swiss wrap,21,g,75,mg,1140,g,56,g,39,g,9,g,0,g,5,g,10,g
+96,sandellas flatbread cafe,turkey basil wrap,20,g,75,mg,1140,g,53,g,39,g,9,g,0,g,5,g,8,g
+97,sandellas flatbread cafe,turkey club wrap,12,g,65,mg,1420,g,55,g,34,g,2,g,0,g,5,g,8,g
+98,sandellas flatbread cafe,turkey reuben panini,14,g,70,mg,1360,g,54,g,39,g,8,g,0,g,6,g,9,g
+99,sandellas flatbread cafe,tuscan chicken panini,21,g,80,mg,1050,g,55,g,34,g,7,g,0,g,5,g,5,g
+100,sandellas flatbread cafe,vegetable confetti grilled flatbread,21,g,60,mg,950,g,61,g,24,g,11,g,0,g,6,g,7,g
+101,sandellas flatbread cafe,veggie and cheese wrap,19,g,35,mg,900,g,52,g,19,g,8,g,0,g,6,g,4,g
+102,sandellas flatbread cafe,veggie ranch wrap,6,g,10,mg,480,g,59,g,9,g,0,g,0,g,6,g,8,g
+103,sandellas flatbread cafe,venetian veggie panini,19,g,35,mg,900,g,53,g,20,g,8,g,0,g,6,g,4,g
+104,sandellas flatbread cafe,very blueberry square,1.5,g,0,mg,260,g,68,g,7,g,1,g,0,g,3,g,22,g
+105,sandellas flatbread cafe,walnuts,18,g,0,mg,0,g,4,g,4,g,1.5,g,0,g,2,g,1,g
+106,sandellas flatbread cafe,western omelet panini,28,g,365,mg,670,g,50,g,31,g,14,g,0,g,4,g,6,g
+107,sandellas flatbread cafe,whipped cream,1.5,g,0,mg,0,g,1,g,0,g,0.5,g,0,g,0,g,1,g
+108,sandellas flatbread cafe,white raisins,0,g,0,mg,0,g,23,g,1,g,0,g,0,g,1,g,17,g
+109,sandellas flatbread cafe,wild buffalo bowl,3,g,40,mg,1820,g,98,g,26,g,0,g,0,g,8,g,5,g
+110,sandellas flatbread cafe,wild tomato chicken wrap,14,g,65,mg,920,g,52,g,32,g,8,g,0,g,5,g,7,g
+111,sandellas flatbread cafe,yellow mustard,0.5,g,0,mg,160,g,1,g,1,g,0,g,0,g,1,g,0,g
+112,sandellas flatbread cafe,yogurt vanilla,0,g,0,mg,15,g,5,g,1,g,0,g,0,g,0,g,4,g
+113,sarku japan,chicken teriyaki with fried rice,28,g,95,mg,1530,g,76,g,28,g,6,g,0,g,3,g,10,g
+114,sarku japan,chicken teriyaki with noodles,32,g,95,mg,1580,g,105,g,43,g,6,g,0,g,7,g,10,g
+115,sarku japan,chicken and shrimp teriyaki combo with steamed rice,29,g,185,mg,1450,g,85,g,40,g,6,g,0,g,2,g,12,g
+116,sarku japan,chicken bento box with fried rice,35,g,85,mg,1570,g,95,g,28,g,7,g,0,g,5,g,18,g
+117,sarku japan,shrimp teriyaki with steamed rice,12,g,165,mg,1200,g,80,g,27,g,2,g,0,g,2,g,10,g
+118,sarku japan,chicken and shrimp teriyaki combo with fried rice,33,g,185,mg,2110,g,81,g,40,g,37,g,0,g,3,g,14,g
+119,sarku japan,beef teriyaki with steamed rice,16,g,55,mg,1220,g,80,g,30,g,4,g,0,g,2,g,9,g
+120,sarku japan,beef bento box with steamed rice,29,g,65,mg,1690,g,100,g,36,g,6,g,0,g,4,g,20,g
+121,sarku japan,shrimp teriyaki with noodles,20,g,165,mg,1920,g,106,g,42,g,2,g,0,g,7,g,13,g
+122,sarku japan,shrimp teriyaki with fried rice,16,g,165,mg,1870,g,77,g,27,g,2,g,0,g,3,g,12,g
+123,sarku japan,shrimp bento box with steamed rice,24,g,155,mg,1500,g,99,g,30,g,3.5,g,0,g,4,g,19,g
+124,sarku japan,dlite vegetarian meal with steamed rice,6,g,0,mg,520,g,83,g,8,g,1,g,0,g,5,g,8,g
+125,sarku japan,beef and shrimp teriyaki combo with steamed rice,21,g,145,mg,1800,g,85,g,41,g,4,g,0,g,2,g,14,g
+126,sarku japan,beef teriyaki with noodles,24,g,55,mg,1940,g,106,g,45,g,4,g,0,g,7,g,12,g
+127,sarku japan,dlite vegetarian soba noodle meal,24,g,120,mg,1010,g,106,g,19,g,2,g,0,g,5,g,15,g
+128,sarku japan,beef teriyaki with fried rice,20,g,55,mg,1880,g,76,g,29,g,4,g,0,g,3,g,12,g
+129,sarku japan,beef and shrimp teriyaki combo with fried rice,25,g,145,mg,2460,g,82,g,41,g,5,g,0,g,3,g,16,g
+130,sarku japan,chicken bento box with steamed rice,32,g,85,mg,1130,g,97,g,28,g,6,g,0,g,4,g,16,g
+131,sarku japan,chicken and shrimp teriyaki combo with noodles,36,g,85,mg,2160,g,111,g,55,g,7,g,0,g,7,g,15,g
+132,sarku japan,shrimp bento box with fried rice,27,g,155,mg,1940,g,96,g,29,g,4,g,0,g,5,g,20,g
+133,sarku japan,dlite vegetarian meal with noodles,14,g,0,mg,1230,g,109,g,23,g,2,g,0,g,10,g,11,g
+134,sarku japan,beef bento box with noodles,35,g,65,mg,2170,g,118,g,46,g,6,g,0,g,7,g,22,g
+135,sarku japan,chicken and shrimp tempura combo,53,g,85,mg,930,g,95,g,26,g,8,g,0,g,3,g,11,g
+136,sarku japan,dlite rice and chicken tempura meal,58,g,70,mg,460,g,81,g,23,g,9,g,0,g,1,g,1,g
+137,sarku japan,dlite vegetarian meal with fried rice,10,g,0,mg,1180,g,79,g,8,g,2,g,0,g,6,g,10,g
+138,sarku japan,chicken tempura combo,78,g,95,mg,1110,g,102,g,33,g,12,g,0,g,3,g,11,g
+139,sarku japan,beef and shrimp teriyaki combo with noodles,28,g,145,mg,2520,g,112,g,56,g,5,g,0,g,7,g,17,g
+140,sarku japan,beef and shrimp teriyaki combo with steamed rice,21,g,145,mg,1800,g,85,g,41,g,4,g,0,g,2,g,14,g
+141,sarku japan,chicken bento box with noodles,37,g,85,mg,1610,g,114,g,38,g,7,g,0,g,7,g,18,g
+142,sarku japan,shrimp bento box with noodles,29,g,155,mg,1980,g,116,g,39,g,4,g,0,g,7,g,21,g
+143,sarku japan,dlite rice and shrimp tempura meal,21,g,50,mg,190,g,70,g,13,g,3,g,0,g,0,g,1,g
+144,sarku japan,beef bento box with fried rice,32,g,65,mg,2130,g,98,g,36,g,6,g,0,g,5,g,21,g
+145,sarku japan,chicken teriyaki with steamed rice,24,g,95,mg,870,g,79,g,28,g,5,g,0,g,2,g,7,g
+146,sarku japan,teriyaki sauce,0,g,0,mg,470,g,9,g,1,g,0,g,0,g,0,g,7,g
+147,sarku japan,fried rice,4.5,g,0,mg,1010,g,62,g,7,g,0.5,g,0,g,1,g,1,g
+148,sarku japan,sides seaweed salad,2,g,0,mg,1060,g,13,g,1,g,0.5,g,0,g,5,g,10,g
+149,sarku japan,steamed rice,0,g,0,mg,5,g,64,g,5,g,0,g,0,g,0,g,1,g
+150,sarku japan,maki roll japanese spring roll,11,g,0,mg,210,g,9,g,1,g,1.5,g,0,g,1,g,0,g
+151,sarku japan,sides shrimp tempura 3 pieces,30,g,60,mg,310,g,23,g,8,g,5,g,0,g,1,g,0,g
+152,sarku japan,chicken tempura side order,19,g,25,mg,150,g,8,g,6,g,3,g,0,g,0,g,0,g
+153,sarku japan,sides dumplings 6 pieces,12,g,15,mg,400,g,29,g,8,g,2,g,0,g,2,g,1,g
+154,sarku japan,sides miso soup,2,g,0,mg,1580,g,6,g,4,g,0,g,0,g,1,g,6,g
+155,sarku japan,sides vegetable spring roll,9,g,0,mg,340,g,15,g,2,g,1,g,0,g,1,g,0,g
+156,sarku japan,sides chicken egg roll,6,g,15,mg,340,g,21,g,8,g,1.5,g,0,g,3,g,0,g
+157,sarku japan,sides edamame,7,g,0,mg,560,g,11,g,14,g,1.5,g,0,g,7,g,1,g
+158,sarku japan,sides garden salad,15,g,0,mg,125,g,17,g,2,g,2,g,0,g,4,g,10,g
+159,sarku japan,volcano roll,17,g,20,mg,860,g,54,g,15,g,3,g,0,g,4,g,12,g
+160,sarku japan,chicken teriyaki roll,11,g,30,mg,710,g,53,g,12,g,2,g,0,g,4,g,12,g
+161,sarku japan,green dragon roll,35,g,105,mg,930,g,71,g,12,g,8,g,0,g,5,g,13,g
+162,sarku japan,california roll,8,g,10,mg,720,g,57,g,9,g,1,g,0,g,4,g,12,g
+163,sarku japan,tempura california roll,26,g,15,mg,550,g,61,g,8,g,5,g,0,g,2,g,12,g
+164,sarku japan,spicy tuna hand roll,3.5,g,10,mg,450,g,27,g,8,g,0.5,g,0,g,1,g,6,g
+165,sarku japan,shrimp tempura roll,24,g,40,mg,660,g,65,g,10,g,4,g,0,g,4,g,10,g
+166,sarku japan,salmon avocado roll,11,g,25,mg,410,g,49,g,13,g,2,g,0,g,4,g,8,g
+167,sarku japan,rainbow roll,7,g,35,mg,550,g,51,g,21,g,1.5,g,0,g,4,g,10,g
+168,sarku japan,spicy tuna roll,14,g,25,mg,700,g,55,g,17,g,2,g,0,g,3,g,11,g
+169,sarku japan,rock and roll roll,21,g,75,mg,1220,g,66,g,20,g,3,g,0,g,5,g,17,g
+170,sarku japan,red bull roll,24,g,110,mg,1170,g,58,g,29,g,4,g,0,g,4,g,14,g
+171,sarku japan,dancing eel roll,13,g,80,mg,1030,g,61,g,16,g,3,g,0,g,4,g,18,g
+172,sarku japan,salmon skin hand roll,7,g,35,mg,330,g,27,g,9,g,1,g,0,g,1,g,5,g
+173,sarku japan,spider roll,21,g,30,mg,710,g,68,g,9,g,3.5,g,0,g,4,g,13,g
+174,sarku japan,tuna roll,0,g,15,mg,350,g,33,g,11,g,0,g,0,g,2,g,6,g
+175,sarku japan,boston roll,4,g,60,mg,430,g,49,g,13,g,1,g,0,g,4,g,9,g
+176,sarku japan,sushi sashimi and roll combo,14,g,75,mg,1140,g,92,g,37,g,3,g,0,g,5,g,18,g
+177,sarku japan,salmon roll,5,g,20,mg,350,g,33,g,10,g,1,g,0,g,2,g,6,g
+178,sarku japan,philladelphia roll,18,g,50,mg,640,g,49,g,17,g,7,g,0,g,3,g,9,g
+179,sarku japan,vegetable zen combo,13,g,0,mg,1190,g,101,g,14,g,1.5,g,0,g,7,g,25,g
+180,sarku japan,seafood hand roll,1.5,g,35,mg,530,g,29,g,9,g,0,g,0,g,1,g,7,g
+181,sarku japan,salmon and maki combo,12,g,55,mg,600,g,66,g,28,g,3,g,0,g,3,g,12,g
+182,sarku japan,vegetables roll,4.5,g,0,mg,710,g,54,g,5,g,1,g,0,g,6,g,12,g
+183,sarku japan,cooked dlite combo,8,g,30,mg,1230,g,94,g,15,g,1,g,0,g,6,g,19,g
+184,sarku japan,sushi and roll combo,11,g,50,mg,1280,g,118,g,24,g,2,g,0,g,7,g,23,g
+185,sarku japan,sarku japan roll,26,g,110,mg,1030,g,56,g,17,g,4,g,0,g,3,g,12,g
+186,sarku japan,beef and shrimp teriyaki meal with brown rice,23,g,145,mg,1810,g,80,g,44,g,4.5,g,0,g,6,g,15,g
+187,sarku japan,beef and shrimp teriyaki meal with fried rice,25,g,145,mg,2460,g,82,g,41,g,5,g,0,g,3,g,16,g
+188,sarku japan,beef and shrimp teriyaki meal with noodles,28,g,145,mg,2520,g,112,g,56,g,4.5,g,0,g,7,g,17,g
+189,sarku japan,beef and shrimp teriyaki meal with steamed rice,21,g,145,mg,1800,g,85,g,41,g,4,g,0,g,2,g,14,g
+190,sarku japan,beef bento box with brown rice,31,g,65,mg,1690,g,97,g,38,g,6,g,0,g,7,g,20,g
+191,sarku japan,beef bento box with fried rice,32,g,65,mg,2130,g,98,g,36,g,6,g,0,g,5,g,21,g
+192,sarku japan,beef bento box with noodles,35,g,65,mg,2170,g,118,g,46,g,6,g,0,g,7,g,22,g
+193,sarku japan,beef bento box with steamed rice,29,g,65,mg,1690,g,100,g,36,g,6,g,0,g,4,g,20,g
+194,sarku japan,beef teriyaki meal with brown rice,18,g,55,mg,1230,g,75,g,33,g,4,g,0,g,6,g,10,g
+195,sarku japan,beef teriyaki meal with fried rice,20,g,55,mg,1880,g,76,g,29,g,4,g,0,g,3,g,12,g
+196,sarku japan,beef teriyaki meal with noodles,24,g,55,mg,1940,g,106,g,45,g,4,g,0,g,7,g,12,g
+197,sarku japan,beef teriyaki meal with steamed rice,16,g,55,mg,1220,g,80,g,30,g,3.5,g,0,g,2,g,9,g
+198,sarku japan,boston roll,4,g,60,mg,430,g,49,g,13,g,0.5,g,0,g,4,g,9,g
+199,sarku japan,bottled water,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+200,sarku japan,california roll,8,g,10,mg,720,g,57,g,9,g,1,g,0,g,4,g,12,g
+201,sarku japan,chicken and shrimp teriyaki meal with brown rice,31,g,185,mg,1450,g,80,g,43,g,6,g,0,g,6,g,12,g
+202,sarku japan,chicken and shrimp teriyaki meal with fried rice,33,g,185,mg,2110,g,81,g,40,g,7,g,0,g,3,g,14,g
+203,sarku japan,chicken and shrimp teriyaki meal with noodles,36,g,185,mg,2160,g,111,g,55,g,7,g,0,g,7,g,15,g
+204,sarku japan,chicken and shrimp teriyaki meal with steamed rice,29,g,185,mg,1450,g,85,g,40,g,6,g,0,g,2,g,12,g
+205,sarku japan,chicken bento box with brown rice,33,g,85,mg,1130,g,98,g,31,g,7,g,0,g,7,g,16,g
+206,sarku japan,chicken bento box with fried rice,35,g,85,mg,1570,g,95,g,28,g,7,g,0,g,5,g,18,g
+207,sarku japan,chicken bento box with noodles,37,g,85,mg,1610,g,114,g,38,g,7,g,0,g,7,g,18,g
+208,sarku japan,chicken bento box with steamed rice,32,g,85,mg,1130,g,97,g,28,g,6,g,0,g,4,g,16,g
+209,sarku japan,chicken egg roll,6,g,15,mg,340,g,21,g,8,g,1.5,g,0,g,3,g,0,g
+210,sarku japan,chicken teriyaki meal with brown rice,26,g,95,mg,870,g,74,g,31,g,6,g,0,g,6,g,8,g
+211,sarku japan,chicken teriyaki meal with fried rice,28,g,95,mg,1530,g,76,g,28,g,6,g,0,g,3,g,10,g
+212,sarku japan,chicken teriyaki meal with noodles,32,g,95,mg,1580,g,105,g,43,g,6,g,0,g,7,g,10,g
+213,sarku japan,chicken teriyaki meal with steamed rice,24,g,95,mg,870,g,79,g,28,g,5,g,0,g,2,g,7,g
+214,sarku japan,chicken teriyaki roll,11,g,30,mg,710,g,53,g,12,g,2,g,0,g,4,g,12,g
+215,sarku japan,classic coke 22 oz,0,g,0,mg,65,g,80,g,0,g,0,g,0,g,0,g,80,g
+216,sarku japan,classic coke 32 oz,0,g,0,mg,95,g,116,g,0,g,0,g,0,g,0,g,116,g
+217,sarku japan,classic coke 44 oz,0,g,0,mg,130,g,160,g,0,g,0,g,0,g,0,g,160,g
+218,sarku japan,cooked dlite sushi combo,8,g,30,mg,1230,g,94,g,15,g,1,g,0,g,6,g,19,g
+219,sarku japan,dancing eel roll,13,g,80,mg,1030,g,61,g,16,g,3,g,0,g,4,g,18,g
+220,sarku japan,diet coke 22 oz,0,g,0,mg,95,g,0,g,0,g,0,g,0,g,0,g,0,g
+221,sarku japan,diet coke 32 oz,0,g,0,mg,135,g,0,g,0,g,0,g,0,g,0,g,0,g
+222,sarku japan,diet coke 44 oz,0,g,0,mg,190,g,0,g,0,g,0,g,0,g,0,g,0,g
+223,sarku japan,dr pepper 22 oz,0,g,0,mg,85,g,72,g,0,g,0,g,0,g,0,g,72,g
+224,sarku japan,dr pepper 32 oz,0,g,0,mg,120,g,104,g,0,g,0,g,0,g,0,g,104,g
+225,sarku japan,dr pepper 44 oz,0,g,0,mg,170,g,143,g,0,g,0,g,0,g,0,g,143,g
+226,sarku japan,dumplings,12,g,15,mg,400,g,29,g,8,g,2,g,0,g,2,g,1,g
+227,sarku japan,edamame,7,g,0,mg,560,g,11,g,14,g,1.5,g,0,g,7,g,1,g
+228,sarku japan,fanta orange 22 oz,0,g,0,mg,95,g,84,g,0,g,0,g,0,g,0,g,84,g
+229,sarku japan,fanta orange 32 oz,0,g,0,mg,140,g,122,g,0,g,0,g,0,g,0,g,122,g
+230,sarku japan,fanta orange 44 oz,0,g,0,mg,190,g,167,g,0,g,0,g,0,g,0,g,167,g
+231,sarku japan,fuze iced tea 22 oz,0,g,0,mg,85,g,46,g,0,g,0,g,0,g,0,g,46,g
+232,sarku japan,fuze iced tea 32 oz,0,g,0,mg,125,g,67,g,0,g,0,g,0,g,0,g,67,g
+233,sarku japan,fuze iced tea 44 oz,0,g,0,mg,170,g,92,g,0,g,0,g,0,g,0,g,92,g
+234,sarku japan,garden salad,15,g,0,mg,125,g,17,g,2,g,2,g,0,g,4,g,10,g
+235,sarku japan,green dragon roll,35,g,105,mg,930,g,71,g,12,g,8,g,0,g,5,g,13,g
+236,sarku japan,minute maid lemonade 22 oz,0,g,0,mg,190,g,79,g,0,g,0,g,0,g,0,g,75,g
+237,sarku japan,minute maid lemonade 32 oz,0,g,0,mg,280,g,115,g,0,g,0,g,0,g,0,g,115,g
+238,sarku japan,minute maid lemonade 44 oz,0,g,0,mg,390,g,258,g,0,g,0,g,0,g,0,g,150,g
+239,sarku japan,miso soup,2,g,0,mg,1580,g,6,g,4,g,0,g,0,g,1,g,6,g
+240,sarku japan,philadelphia roll,18,g,50,mg,640,g,49,g,17,g,7,g,0,g,3,g,9,g
+241,sarku japan,rainbow roll,7,g,35,mg,550,g,51,g,21,g,1.5,g,0,g,4,g,10,g
+242,sarku japan,red bull roll,24,g,110,mg,1170,g,58,g,29,g,4,g,0,g,4,g,14,g
+243,sarku japan,rock and roll,21,g,75,mg,1220,g,66,g,20,g,3,g,0,g,5,g,17,g
+244,sarku japan,salmon and maki sushi combo,12,g,55,mg,600,g,66,g,28,g,3,g,0,g,3,g,12,g
+245,sarku japan,salmon avocado roll,11,g,25,mg,410,g,49,g,13,g,2,g,0,g,4,g,8,g
+246,sarku japan,salmon roll,5,g,20,mg,350,g,33,g,10,g,1,g,0,g,2,g,6,g
+247,sarku japan,salmon skin hand roll,7,g,35,mg,330,g,27,g,9,g,1,g,0,g,1,g,5,g
+248,sarku japan,sarku japan roll,26,g,110,mg,1030,g,56,g,17,g,4,g,0,g,3,g,12,g
+249,sarku japan,seafood hand roll,1.5,g,35,mg,530,g,29,g,9,g,0,g,0,g,1,g,7,g
+250,sarku japan,seaweed salad,2,g,0,mg,1060,g,13,g,1,g,0.5,g,0,g,5,g,10,g
+251,sarku japan,shrimp bento box with brown rice,26,g,155,mg,1500,g,95,g,32,g,4,g,0,g,7,g,19,g
+252,sarku japan,shrimp bento box with fried rice,27,g,155,mg,1940,g,96,g,29,g,4,g,0,g,5,g,20,g
+253,sarku japan,shrimp bento box with noodles,29,g,155,mg,1980,g,116,g,39,g,4,g,0,g,7,g,21,g
+254,sarku japan,shrimp bento box with steamed rice,24,g,155,mg,1500,g,99,g,30,g,3.5,g,0,g,4,g,19,g
+255,sarku japan,shrimp tempura,30,g,60,mg,310,g,23,g,8,g,5,g,0,g,1,g,0,g
+256,sarku japan,shrimp tempura roll,24,g,40,mg,660,g,65,g,10,g,4,g,0,g,4,g,10,g
+257,sarku japan,shrimp teriyaki meal with brown rice,14,g,165,mg,1210,g,75,g,30,g,2,g,0,g,6,g,11,g
+258,sarku japan,shrimp teriyaki meal with fried rice,16,g,165,mg,1870,g,77,g,27,g,2,g,0,g,3,g,12,g
+259,sarku japan,shrimp teriyaki meal with noodles,20,g,165,mg,1920,g,106,g,42,g,2,g,0,g,7,g,13,g
+260,sarku japan,shrimp teriyaki meal with steamed rice,12,g,165,mg,1200,g,80,g,27,g,1.5,g,0,g,2,g,10,g
+261,sarku japan,spicy tuna hand roll,3.5,g,10,mg,450,g,27,g,8,g,0.5,g,0,g,1,g,6,g
+262,sarku japan,spicy tuna roll,14,g,25,mg,700,g,55,g,17,g,2,g,0,g,3,g,11,g
+263,sarku japan,spider roll,21,g,30,mg,710,g,68,g,9,g,3.5,g,0,g,4,g,13,g
+264,sarku japan,sprite 22 oz,0,g,0,mg,130,g,77,g,0,g,0,g,0,g,0,g,77,g
+265,sarku japan,sprite 32 oz,0,g,0,mg,190,g,112,g,0,g,0,g,0,g,0,g,112,g
+266,sarku japan,sprite 44 oz,0,g,0,mg,260,g,154,g,0,g,0,g,0,g,0,g,154,g
+267,sarku japan,sushi and roll combo,11,g,50,mg,1280,g,118,g,24,g,2,g,0,g,7,g,23,g
+268,sarku japan,sushi sashimi and roll combo,14,g,75,mg,1140,g,92,g,37,g,3,g,0,g,5,g,18,g
+269,sarku japan,tempura california roll,26,g,15,mg,550,g,61,g,8,g,5,g,0,g,2,g,12,g
+270,sarku japan,tuna roll,0,g,15,mg,350,g,33,g,11,g,0,g,0,g,2,g,6,g
+271,sarku japan,vegetable spring roll,9,g,0,mg,350,g,15,g,3,g,1.5,g,0,g,2,g,0,g
+272,sarku japan,vegetable zen sushi combo,13,g,0,mg,1190,g,101,g,14,g,1.5,g,0,g,7,g,25,g
+273,sarku japan,vegetables dlite with brown rice,8,g,0,mg,520,g,77,g,11,g,1.5,g,0,g,8,g,9,g
+274,sarku japan,vegetables dlite with fried rice,10,g,0,mg,1180,g,79,g,8,g,1.5,g,0,g,6,g,10,g
+275,sarku japan,vegetables dlite with noodles,14,g,0,mg,1230,g,109,g,23,g,1.5,g,0,g,10,g,11,g
+276,sarku japan,vegetables dlite with steamed rice,6,g,0,mg,520,g,83,g,8,g,1,g,0,g,5,g,8,g
+277,sarku japan,vegetables roll,4.5,g,0,mg,710,g,54,g,5,g,0.5,g,0,g,6,g,12,g
+278,sarku japan,volcano roll,17,g,20,mg,860,g,54,g,15,g,2.5,g,0,g,4,g,12,g
+279,sbarro,garlic cheesy bread,82,g,155,mg,3650,g,161,g,76,g,32,g,1,g,8,g,11,g
+280,sbarro,mozzarella sticks 3 with pomodoro dipping sauce,4,g,5,mg,500,g,11,g,5,g,1.5,g,0,g,2,g,4,g
+281,sbarro,new york city bacon and cheddar cheesy bread,110,g,230,mg,4670,g,160,g,89,g,46,g,0.5,g,6,g,13,g
+282,sbarro,mozzarella sticks 6 with pomodoro dipping sauce,7,g,15,mg,870,g,19,g,9,g,3,g,0,g,3,g,6,g
+283,sbarro,new york city pepperoni cheesy bread,94,g,170,mg,4090,g,161,g,74,g,34,g,1.5,g,8,g,12,g
+284,sbarro,new york city cheesy bread,85,g,155,mg,3650,g,161,g,76,g,32,g,1,g,8,g,12,g
+285,sbarro,roasted breakfast potatoes,13,g,5,mg,440,g,35,g,4,g,6,g,0,g,4,g,4,g
+286,sbarro,stuffed ham and cheese slice,37,g,380,mg,1800,g,75,g,41,g,13,g,0,g,3,g,4,g
+287,sbarro,stuffed breakfast meat slice,42,g,385,mg,1880,g,75,g,41,g,15,g,0,g,4,g,4,g
+288,sbarro,eggs breakfast,24,g,755,mg,860,g,3,g,26,g,9,g,0,g,0,g,2,g
+289,sbarro,french toast,4.5,g,80,mg,370,g,36,g,9,g,1.5,g,0,g,1,g,7,g
+290,sbarro,add on bacon,7,g,15,mg,270,g,0,g,4,g,3,g,0,g,0,g,0,g
+291,sbarro,stuffed veggie slice,34,g,360,mg,1440,g,76,g,34,g,11,g,0,g,4,g,5,g
+292,sbarro,stuffed sausage ham and bacon slice,42,g,390,mg,1880,g,75,g,42,g,15,g,0,g,3,g,4,g
+293,sbarro,cookie,10,g,2,mg,245,g,39,g,3,g,5,g,0,g,1,g,22,g
+294,sbarro,mamas cheesecake,41,g,190,mg,460,g,47,g,8,g,24,g,1,g,1,g,28,g
+295,sbarro,cinnamon breadsticks,28,g,0,mg,1760,g,179,g,30,g,9,g,0,g,7,g,31,g
+296,sbarro,chicken francese piece,10,g,65,mg,680,g,18,g,26,g,2,g,0,g,1,g,0,g
+297,sbarro,roasted potatoes entree,13,g,5,mg,440,g,35,g,4,g,6,g,0,g,4,g,4,g
+298,sbarro,quarter roast chicken piece,9,g,135,mg,200,g,0,g,27,g,2.5,g,0,g,0,g,0,g
+299,sbarro,mixed vegetables entree,7,g,0,mg,310,g,11,g,3,g,1,g,0,g,3,g,5,g
+300,sbarro,rice entree,6,g,0,mg,2400,g,104,g,10,g,2,g,0,g,4,g,0,g
+301,sbarro,chicken parmigiana piece,10,g,65,mg,680,g,18,g,26,g,2,g,0,g,1,g,0,g
+302,sbarro,mushroom and peppers entree,6,g,0,mg,500,g,12,g,7,g,1,g,0,g,3,g,6,g
+303,sbarro,sausage and peppers entree,68,g,110,mg,2690,g,83,g,39,g,19,g,0,g,9,g,16,g
+304,sbarro,pepperoni stromboli 6 inches,50,g,115,mg,1940,g,72,g,36,g,19,g,0,g,4,g,3,g
+305,sbarro,spinach stromboli 6 inches,37,g,60,mg,1230,g,74,g,29,g,11,g,0,g,5,g,3,g
+306,sbarro,veggie stromboli 6 inches,29,g,45,mg,1570,g,79,g,28,g,10,g,0,g,5,g,7,g
+307,sbarro,chicken and 4 cheese stromboli 6 inches,36,g,110,mg,1730,g,82,g,37,g,17,g,0.5,g,4,g,9,g
+308,sbarro,sausage bacon and pepperoni stromboli 6 inches,47,g,110,mg,1970,g,72,g,37,g,17,g,0,g,4,g,3,g
+309,sbarro,buffalo chicken stromboli 6 inches,45,g,110,mg,2140,g,74,g,41,g,12,g,0,g,3,g,4,g
+310,sbarro,chicken francese,45,g,85,mg,2310,g,130,g,54,g,10,g,0,g,8,g,11,g
+311,sbarro,chicken vesuvio,73,g,60,mg,3130,g,133,g,48,g,17,g,0,g,8,g,12,g
+312,sbarro,classic hawaiian stromboli 6 inches,26,g,85,mg,1900,g,81,g,36,g,10,g,0,g,4,g,11,g
+313,sbarro,meat primo stromboli 6 inches,52,g,145,mg,2600,g,79,g,48,g,20,g,0.5,g,4,g,6,g
+314,sbarro,chicken wings 12,117,g,255,mg,2960,g,56,g,72,g,26,g,0,g,0,g,43,g
+315,sbarro,spinach stromboli 12 inches,74,g,120,mg,2460,g,148,g,58,g,22,g,0,g,10,g,6,g
+316,sbarro,chicken wings 6,65,g,130,mg,2250,g,7,g,36,g,14,g,0,g,1,g,2,g
+317,sbarro,chicken tender strips 3 without sauce,44,g,50,mg,2380,g,40,g,10,g,5,g,0,g,1,g,27,g
+318,sbarro,spaghetti with sausage,69,g,70,mg,2640,g,118,g,43,g,15,g,0,g,9,g,11,g
+319,sbarro,chicken tender strips 12 without sauce,87,g,105,mg,4460,g,62,g,21,g,10,g,0,g,1,g,39,g
+320,sbarro,spaghetti and meatballs,65,g,60,mg,2490,g,121,g,35,g,15,g,0,g,8,g,14,g
+321,sbarro,white cheddar mac and cheese entree,61,g,230,mg,3780,g,33,g,75,g,38,g,1.5,g,9,g,3,g
+322,sbarro,chicken parmigiana with spaghetti,44,g,90,mg,2240,g,136,g,55,g,10,g,0,g,9,g,12,g
+323,sbarro,meat lasagna,68,g,150,mg,3970,g,145,g,60,g,27,g,1,g,11,g,23,g
+324,sbarro,ziti entree,47,g,0,mg,2250,g,122,g,33,g,13,g,0,g,9,g,21,g
+325,sbarro,chicken parmigiana with ziti,64,g,125,mg,2830,g,121,g,58,g,17,g,0.5,g,9,g,19,g
+326,sbarro,ziti with chicken,93,g,100,mg,3720,g,116,g,51,g,24,g,0,g,8,g,18,g
+327,sbarro,spaghetti entree,57,g,0,mg,1830,g,141,g,28,g,9,g,0,g,10,g,12,g
+328,sbarro,baked lasagna,68,g,150,mg,3970,g,145,g,60,g,27,g,1,g,11,g,23,g
+329,sbarro,new york cheese 17 pizza slice,15,g,40,mg,970,g,51,g,21,g,7,g,0,g,3,g,6,g
+330,sbarro,new york mushroom 17 pizza slice,14,g,30,mg,850,g,43,g,16,g,6,g,0,g,3,g,5,g
+331,sbarro,new york buffalo chicken 17 pizza slice,23,g,65,mg,1600,g,49,g,29,g,8,g,0,g,2,g,3,g
+332,sbarro,new york x treme pepperoni pizza slice,32,g,80,mg,1690,g,53,g,27,g,14,g,0,g,4,g,6,g
+333,sbarro,new york sausage 17 pizza slice,24,g,60,mg,1390,g,50,g,25,g,10,g,0,g,4,g,6,g
+334,sbarro,new york 4 cheese white pizza xl slice,24,g,55,mg,1070,g,53,g,23,g,11,g,0,g,2,g,5,g
+335,sbarro,new york spinach and tomato 17 pizza slice,15,g,30,mg,880,g,42,g,18,g,6,g,0,g,4,g,5,g
+336,sbarro,new york cheese pizza xl slice,15,g,40,mg,970,g,51,g,21,g,7,g,0,g,3,g,6,g
+337,sbarro,roman veggie pizza slice,24,g,40,mg,1210,g,64,g,23,g,8,g,0,g,4,g,8,g
+338,sbarro,roman cheese pizza slice,24,g,45,mg,1140,g,61,g,24,g,9,g,0,g,3,g,6,g
+339,sbarro,new york meat primo 17 pizza slice,28,g,80,mg,1740,g,53,g,32,g,12,g,0,g,4,g,6,g
+340,sbarro,new york mammas meatball 17 pizza slice,28,g,80,mg,1220,g,57,g,28,g,13,g,0,g,3,g,7,g
+341,sbarro,pepperoni 14 pizza whole,99,g,255,mg,5580,g,235,g,106,g,45,g,2.5,g,16,g,26,g
+342,sbarro,new york cheese 14 pizza whole,66,g,170,mg,4290,g,233,g,92,g,31,g,1.5,g,15,g,25,g
+343,sbarro,new york supremo 17 pizza whole,122,g,295,mg,7300,g,326,g,136,g,52,g,1.5,g,25,g,40,g
+344,sbarro,blazing buffalo za 12 pizza whole,74,g,190,mg,4830,g,159,g,89,g,25,g,0.5,g,8,g,9,g
+345,sbarro,new york 4 cheese white 17 pizza slice,24,g,55,mg,1070,g,53,g,23,g,11,g,0,g,2,g,5,g
+346,sbarro,new york pepperoni pizza xl slice,23,g,55,mg,1459,g,61,g,25,g,10,g,1,g,5,g,9,g
+347,sbarro,new york classic hawaiian pizza xl slice,15,g,50,mg,1270,g,57,g,25,g,7,g,0,g,4,g,10,g
+348,sbarro,old world veggie 14 pizza whole,69,g,155,mg,4790,g,251,g,93,g,29,g,1,g,22,g,33,g
+349,sbarro,roman buffalo chicken pizza slice,26,g,55,mg,1560,g,57,g,28,g,7,g,0,g,3,g,3,g
+350,sbarro,old world veggie 12 pizza whole,49,g,110,mg,3450,g,185,g,67,g,21,g,0.5,g,16,g,25,g
+351,sbarro,roman pepperoni and sausage pizza slice,39,g,80,mg,1710,g,62,g,31,g,14,g,0,g,3,g,6,g
+352,sbarro,roman classic hawaiian pizza whole,156,g,315,mg,9380,g,342,g,168,g,40,g,1,g,18,g,18,g
+353,sbarro,new york spinach and tomato pizza xl slice,15,g,30,mg,880,g,42,g,18,g,6,g,0,g,4,g,5,g
+354,sbarro,new york cheese 17 pizza whole,94,g,250,mg,5990,g,315,g,129,g,45,g,2,g,21,g,36,g
+355,sbarro,classic hawaiian 12 pizza whole,47,g,150,mg,3960,g,182,g,78,g,21,g,0.5,g,12,g,6,g
+356,sbarro,new york classic hawaiian 17 pizza whole,89,g,265,mg,7050,g,339,g,140,g,40,g,1.5,g,22,g,58,g
+357,sbarro,pepperoni 12 pizza whole,65,g,165,mg,3900,g,171,g,71,g,29,g,1.5,g,11,g,19,g
+358,sbarro,blazing buffalo za 14 pizza whole,109,g,280,mg,7090,g,217,g,126,g,32,g,1,g,11,g,13,g
+359,sbarro,new york mamas meatball pizza xl slice,28,g,80,mg,1220,g,57,g,28,g,13,g,0,g,3,g,7,g
+360,sbarro,new york mushroom pizza xl slice,14,g,30,mg,850,g,43,g,16,g,6,g,0,g,3,g,5,g
+361,sbarro,new york sausage pizza xl slice,24,g,60,mg,1390,g,50,g,25,g,10,g,0,g,4,g,6,g
+362,sbarro,new york pepperoni 17 pizza whole,135,g,330,mg,8755,g,366,g,148,g,60,g,3,g,27,g,55,g
+363,sbarro,new york 4 cheese white 17 pizza whole,143,g,340,mg,6430,g,318,g,141,g,65,g,1.5,g,12,g,28,g
+364,sbarro,roman cheese pizza whole,165,g,270,mg,7640,g,444,g,159,g,59,g,2,g,29,g,58,g
+365,sbarro,new york veggie pizza xl slice,15,g,35,mg,1070,g,56,g,21,g,7,g,0,g,5,g,7,g
+366,sbarro,new york x treme pepperoni pizza whole,193,g,465,mg,10160,g,313,g,162,g,86,g,1,g,22,g,35,g
+367,sbarro,new york buffalo chicken 17 pizza whole,147,g,385,mg,9730,g,298,g,174,g,49,g,1.5,g,15,g,17,g
+368,sbarro,new york buffalo chicken pizza xl slice,23,g,65,mg,1600,g,49,g,29,g,8,g,0,g,2,g,3,g
+369,sbarro,new york classic hawaiian 17 pizza slice,15,g,50,mg,1270,g,57,g,25,g,7,g,0,g,4,g,10,g
+370,sbarro,sbemo 12 pizza whole,73,g,170,mg,4310,g,180,g,77,g,30,g,1,g,14,g,22,g
+371,sbarro,new york supremo pizza xl slice,24,g,55,mg,1380,g,56,g,25,g,10,g,0,g,4,g,7,g
+372,sbarro,roman pepperoni and bacon pizza whole,220,g,450,mg,10000,g,444,g,159,g,81,g,3.5,g,29,g,58,g
+373,sbarro,new york supremo 17 pizza slice,24,g,55,mg,1380,g,56,g,25,g,10,g,0,g,4,g,7,g
+374,sbarro,4 cheese white 12 pizza whole,72,g,165,mg,3320,g,168,g,72,g,32,g,1,g,6,g,13,g
+375,sbarro,classic hawaiian 14 pizza whole,62,g,180,mg,5890,g,252,g,109,g,29,g,1,g,16,g,43,g
+376,sbarro,double threat pepperoni 14 pizza whole,134,g,325,mg,7150,g,232,g,116,g,60,g,1.5,g,16,g,27,g
+377,sbarro,big city bbq 12 pizza whole,55,g,180,mg,3950,g,220,g,86,g,24,g,0,g,8,g,57,g
+378,sbarro,new york pepperoni pizza xl slice,23,g,55,mg,1459,g,61,g,25,g,10,g,1,g,5,g,9,g
+379,sbarro,roman meat primo pizza slice,41,g,95,mg,1910,g,64,g,36,g,15,g,0,g,4,g,7,g
+380,sbarro,roman pepperoni and bacon pizza slice,37,g,75,mg,1670,g,62,g,31,g,14,g,0.5,g,3,g,6,g
+381,sbarro,new york spinach and tomato 17 pizza whole,117,g,250,mg,6900,g,331,g,137,g,49,g,2,g,28,g,41,g
+382,sbarro,new york meat primo pizza xl slice,28,g,80,mg,1740,g,53,g,32,g,12,g,0,g,4,g,6,g
+383,sbarro,fiery new yorker 14 pizza whole,106,g,245,mg,6250,g,236,g,110,g,46,g,0.5,g,17,g,29,g
+384,sbarro,new york mamas meatball 17 pizza whole,170,g,485,mg,7310,g,342,g,155,g,76,g,2,g,16,g,40,g
+385,sbarro,roman double duo pepperoni pizza slice,41,g,85,mg,1860,g,61,g,30,g,16,g,0,g,3,g,7,g
+386,sbarro,roman classic hawaiian pozza slice,24,g,55,mg,1430,g,66,g,28,g,9,g,0,g,4,g,10,g
+387,sbarro,mamas meatball 14 pizza whole,122,g,345,mg,5260,g,249,g,121,g,54,g,1.5,g,12,g,29,g
+388,sbarro,roman meat primo pizza whole,245,g,565,mg,11440,g,382,g,215,g,92,g,2.5,g,22,g,41,g
+389,sbarro,double threat pepperoni 12 pizza whole,100,g,245,mg,5310,g,170,g,87,g,45,g,1,g,11,g,20,g
+390,sbarro,roman double duo pepperoni pizza whole,248,g,495,mg,11170,g,368,g,180,g,98,g,2,g,21,g,40,g
+391,sbarro,sbremo 14 pizza whole,100,g,245,mg,6060,g,250,g,110,g,41,g,2,g,21,g,30,g
+392,sbarro,4 cheese white 14 pizza whole,100,g,235,mg,4560,g,230,g,99,g,45,g,1,g,9,g,19,g
+393,sbarro,the carnivore 14 pizza whole,127,g,380,mg,7140,g,216,g,134,g,5,g,2,g,15,g,27,g
+394,sbarro,new york 12 pizza whole,165,g,270,mg,7640,g,444,g,159,g,59,g,2,g,29,g,58,g
+395,sbarro,fiery new yorker 12 pizza whole,76,g,175,mg,4550,g,172,g,80,g,33,g,0,g,12,g,20,g
+396,sbarro,the carivore 12 pizza whole,93,g,275,mg,5410,g,176,g,102,g,40,g,1.5,g,12,g,20,g
+397,sbarro,new york veggie 17 pizza whole,53,g,95,mg,4890,g,329,g,89,g,20,g,1,g,26,g,43,g
+398,sbarro,roman hot and spicy pizza slice,33,g,60,mg,1620,g,62,g,29,g,13,g,0,g,4,g,7,g
+399,sbarro,roman pepperoni and sausage pizza whole,232,g,475,mg,10270,g,374,g,186,g,85,g,2.5,g,20,g,37,g
+400,sbarro,roman supremo pizza slice,34,g,65,mg,1580,g,64,g,28,g,12,g,0,g,4,g,7,g
+401,sbarro,roman buffalo chicken pizza whole,156,g,315,mg,9380,g,342,g,168,g,40,g,1,g,17,g,18,g
+402,sbarro,new york veggie 17 pizza slice,15,g,35,mg,1070,g,56,g,21,g,7,g,0,g,5,g,7,g
+403,sbarro,new york sausage 17 pizza whole,153,g,390,mg,8870,g,320,g,157,g,63,g,1.5,g,24,g,35,g
+404,sbarro,mamas meatball 12 pizza whole,86,g,240,mg,3790,g,182,g,87,g,38,g,1,g,9,g,21,g
+405,sbarro,new york primo 17 pizza whole,191,g,540,mg,10510,g,332,g,199,g,81,g,2.5,g,23,g,39,g
+406,sbarro,add on chicken tenders 2 for salads,28,g,33,mg,1586,g,26,g,3,g,2,g,0,g,0,g,18,g
+407,sbarro,add on grilled chicken for salads,10,g,65,mg,680,g,18,g,26,g,2,g,0,g,1,g,0,g
+408,sbarro,ranch salad dressing,22,g,10,mg,320,g,2,g,0,g,3.5,g,0,g,0,g,1,g
+409,sbarro,greek salad dressing,24,g,5,mg,530,g,1,g,0,g,3.5,g,0,g,0,g,1,g
+410,sbarro,italian salad dressing,14,g,0,mg,320,g,4,g,0,g,2,g,0,g,0,g,3,g
+411,sbarro,caesar salad dressing,25,g,45,mg,280,g,1,g,1,g,4,g,0,g,0,g,0,g
+412,sbarro,lite italian salad dressing,1,g,0,mg,720,g,2,g,0,g,0,g,0,g,0,g,2,g
+413,sbarro,caesar salad with dressing,51,g,90,mg,680,g,11,g,4,g,8,g,0,g,1,g,1,g
+414,sbarro,tomato cucumber salad,10,g,0,mg,390,g,20,g,3,g,1.5,g,0,g,4,g,12,g
+415,sbarro,pasta salad,46,g,0,mg,1380,g,55,g,10,g,7,g,0,g,6,g,7,g
+416,sbarro,club salad,20,g,70,mg,1750,g,21,g,32,g,8,g,0,g,3,g,4,g
+417,sbarro,sbarro house salad,64,g,70,mg,2470,g,27,g,23,g,17,g,0,g,4,g,7,g
+418,sbarro,fruit salad,0,g,0,mg,40,g,38,g,3,g,0,g,0,g,3,g,33,g
+419,sbarro,antipasta salad,55,g,45,mg,2860,g,15,g,16,g,12,g,0,g,3,g,7,g
+420,sbarro,garden salad,24,g,0,mg,940,g,12,g,1,g,4,g,0,g,1,g,10,g
+421,sbarro,greek salad,10,g,20,mg,620,g,12,g,9,g,5,g,0,g,5,g,5,g
+422,sbarro,chicken parm italian deli sub,26,g,105,mg,1710,g,52,g,43,g,9,g,0,g,3,g,4,g
+423,sbarro,meatball italian deli sub,72,g,220,mg,2600,g,54,g,54,g,31,g,0,g,2,g,8,g
+424,sbarro,sbarro italian stallion deli sub hot or cold,32,g,65,mg,2590,g,36,g,31,g,10,g,0,g,2,g,5,g
+425,sbarro,classic club italian deli sub,45,g,105,mg,2350,g,35,g,40,g,14,g,0,g,2,g,4,g
+426,sbarro,turkey and pesto italian deli sub hot or cold,44,g,105,mg,2280,g,36,g,39,g,13,g,0,g,2,g,3,g
+427,sbarro,sausage peppers and onions italian deli sub,42,g,110,mg,2140,g,44,g,39,g,15,g,0,g,4,g,7,g
+428,sbarro,garlic dipping sauce,19,g,0,mg,250,g,2,g,0,g,3,g,0,g,0,g,1,g
+429,sbarro,ranch dipping sauce,14,g,5,mg,220,g,1,g,0,g,2,g,0,g,0,g,1,g
+430,sbarro,chipotle ranch dipping sauce,14,g,10,mg,270,g,1,g,0,g,2,g,0,g,0,g,1,g
+431,sbarro,baked ziti small,47,g,60,mg,2250,g,122,g,33,g,13,g,0,g,9,g,21,g
+432,sbarro,roasted potatoes,9,g,0,mg,950,g,82,g,10,g,4,g,0,g,8,g,6,g
+433,sbarro,meatballs 2,36,g,120,mg,1050,g,13,g,25,g,16,g,0,g,0,g,3,g
+434,sbarro,spaghetti with sauce small,16,g,0,mg,460,g,44,g,8,g,2.5,g,0,g,3,g,3,g
+435,sbarro,breadsticks 4 sticks,72,g,6,mg,2280,g,140,g,28,g,12,g,0,g,8,g,8,g
+436,sbarro,white cheddar mac and cheese small,40,g,130,mg,1900,g,48,g,34,g,25,g,0,g,4,g,3,g
+437,sbarro,garlic breadstick,18,g,0,mg,570,g,35,g,7,g,3,g,0,g,2,g,2,g
+438,sbarro,mixed vegetables,7,g,0,mg,310,g,11,g,3,g,1,g,0,g,3,g,5,g
+439,sbarro,rice small,3.5,g,0,mg,1500,g,65,g,6,g,1,g,0,g,3,g,0,g
+440,sbarro,new york city garlic knots,25,g,11,mg,994,g,78,g,19,g,4,g,0,g,4,g,3,g
+441,sbarro,mac and cheese small,40,g,130,mg,1900,g,48,g,34,g,25,g,0,g,4,g,3,g
+442,sbarro,sbarro signature pizza fries,73,g,100,mg,3030,g,68,g,35,g,23,g,1,g,8,g,5,g
+443,sbarro,potato wedges,41,g,0,mg,1200,g,58,g,6,g,6,g,0,g,6,g,0,g
+444,sbarro,cheddar bacon potato wedges,65,g,75,mg,2280,g,62,g,24,g,20,g,0,g,6,g,3,g
+445,sbarro,hells kitchen potato wedges,41,g,0,mg,1210,g,61,g,6,g,6,g,0,g,7,g,2,g
+446,sbarro,garlic and romano dusted wedges,53,g,5,mg,1280,g,60,g,8,g,8,g,0,g,7,g,0,g
+447,sbarro,10 wings,100,g,510,mg,2370,g,4,g,95,g,23,g,0,g,1,g,2,g
+448,sbarro,20 wings,201,g,1025,mg,4740,g,8,g,189,g,46,g,0,g,2,g,4,g
+449,sbarro,3 tenders strips with choice of 1 sauce,44,g,50,mg,2380,g,40,g,10,g,5,g,0,g,1,g,27,g
+450,sbarro,3 meat stromboli 12 inch,52,g,145,mg,2600,g,79,g,48,g,20,g,0.5,g,4,g,6,g
+451,sbarro,4 cheese white pizza 12 inch,72,g,165,mg,3320,g,168,g,72,g,32,g,1,g,6,g,13,g
+452,sbarro,4 cheese white pizza 14 inch,100,g,235,mg,4560,g,230,g,99,g,45,g,1,g,9,g,19,g
+453,sbarro,6 tenders strips with choice of 2 sauces,87,g,105,mg,4460,g,62,g,21,g,10,g,0,g,1,g,39,g
+454,sbarro,6 wings,46,g,300,mg,1330,g,2,g,55,g,12,g,0,g,1,g,1,g
+455,sbarro,add 2 tenders to salad,28,g,35,mg,1590,g,26,g,3,g,2,g,0,g,0,g,18,g
+456,sbarro,add grilled chicken to salad,10,g,65,mg,680,g,18,g,26,g,2,g,0,g,1,g,0,g
+457,sbarro,antipasta,55,g,45,mg,2860,g,15,g,16,g,12,g,0,g,3,g,7,g
+458,sbarro,big city bbq pizza 12 inch,55,g,180,mg,3950,g,220,g,86,g,24,g,0,g,8,g,57,g
+459,sbarro,big city bbq pizza 14 inch,77,g,255,mg,5530,g,309,g,119,g,34,g,0.5,g,10,g,85,g
+460,sbarro,blazing buffalo za pizza 12 inch,74,g,190,mg,4830,g,159,g,89,g,25,g,0.5,g,8,g,9,g
+461,sbarro,blazing buffalo za pizza 14 inch,109,g,280,mg,7090,g,217,g,126,g,32,g,1,g,11,g,13,g
+462,sbarro,breadsticks 12 piece,216,g,20,mg,6840,g,420,g,84,g,36,g,0,g,24,g,24,g
+463,sbarro,breadsticks 2 piece,36,g,5,mg,1140,g,70,g,14,g,6,g,0,g,4,g,4,g
+464,sbarro,breadsticks 4 piece,72,g,5,mg,2280,g,140,g,28,g,12,g,0,g,8,g,8,g
+465,sbarro,breakfast meat stuffed slice,42,g,385,mg,1880,g,75,g,41,g,15,g,0,g,4,g,4,g
+466,sbarro,breakfast potatoes,13,g,5,mg,440,g,35,g,4,g,6,g,0,g,4,g,4,g
+467,sbarro,buffalo chicken stromboli 6 inch,45,g,110,mg,2140,g,74,g,41,g,12,g,0,g,3,g,4,g
+468,sbarro,caesar salad dressing,25,g,45,mg,280,g,1,g,1,g,4,g,0,g,0,g,0,g
+469,sbarro,ceasar salad,51,g,90,mg,680,g,11,g,4,g,8,g,0,g,1,g,1,g
+470,sbarro,cheddar bacon potato wedges,65,g,75,mg,2280,g,62,g,24,g,20,g,0,g,6,g,3,g
+471,sbarro,cheese steak fully loaded,43,g,95,mg,1720,g,38,g,39,g,18,g,0,g,3,g,4,g
+472,sbarro,chicken and 4 cheese stromboli 6 inch,36,g,110,mg,1730,g,82,g,37,g,17,g,0.5,g,4,g,9,g
+473,sbarro,chicken francese,45,g,85,mg,2310,g,130,g,54,g,10,g,0,g,8,g,11,g
+474,sbarro,chicken francese piece,10,g,65,mg,680,g,18,g,26,g,2,g,0,g,1,g,0,g
+475,sbarro,chicken parm piece,10,g,65,mg,680,g,18,g,26,g,2,g,0,g,1,g,0,g
+476,sbarro,chicken parm with baked ziti,64,g,125,mg,2830,g,121,g,58,g,17,g,0.5,g,9,g,19,g
+477,sbarro,chicken parm with spaghetti,44,g,90,mg,2240,g,136,g,55,g,10,g,0,g,9,g,12,g
+478,sbarro,chicken philly,29,g,145,mg,1090,g,29,g,54,g,12,g,0,g,1,g,1,g
+479,sbarro,chicken philly hoagie style,36,g,130,mg,1290,g,32,g,83,g,12,g,0,g,2,g,3,g
+480,sbarro,chicken wings 12 piece,117,g,255,mg,2960,g,56,g,72,g,26,g,0,g,0,g,43,g
+481,sbarro,chicken wings 6 piece,65,g,130,mg,2250,g,7,g,36,g,14,g,0,g,1,g,2,g
+482,sbarro,chipotle ranch dipping sauce,14,g,10,mg,270,g,1,g,0,g,2,g,0,g,0,g,1,g
+483,sbarro,cinnamon breadsticks,28,g,0,mg,1760,g,179,g,30,g,9,g,0,g,7,g,31,g
+484,sbarro,classic club sub,45,g,105,mg,2350,g,35,g,40,g,14,g,0,g,2,g,4,g
+485,sbarro,classic hawaiian pizza 12 inch,47,g,150,mg,3960,g,182,g,78,g,21,g,0.5,g,12,g,30,g
+486,sbarro,classic hawaiian pizza 14 inch,62,g,180,mg,5890,g,252,g,109,g,29,g,1,g,16,g,43,g
+487,sbarro,classic hawaiin stromboli 6 inch,26,g,85,mg,1900,g,81,g,36,g,10,g,0,g,4,g,11,g
+488,sbarro,club salad,20,g,70,mg,1750,g,21,g,32,g,8,g,0,g,3,g,4,g
+489,sbarro,cookie,10,g,5,mg,250,g,39,g,3,g,5,g,0,g,1,g,22,g
+490,sbarro,double threat pepperoni pizza 12 inch,100,g,245,mg,5310,g,170,g,87,g,45,g,1,g,11,g,20,g
+491,sbarro,double threat pepperoni pizza 14 inch,134,g,325,mg,7150,g,232,g,116,g,60,g,1.5,g,16,g,27,g
+492,sbarro,eggs,24,g,755,mg,860,g,3,g,26,g,9,g,0,g,0,g,2,g
+493,sbarro,express breakfast,37,g,705,mg,1810,g,30,g,35,g,16,g,4,g,1,g,4,g
+494,sbarro,fiery new yorker pizza 12 inch,76,g,175,mg,4550,g,172,g,80,g,33,g,0,g,12,g,20,g
+495,sbarro,fiery new yorker pizza 14 inch,106,g,245,mg,6250,g,236,g,110,g,46,g,0.5,g,17,g,29,g
+496,sbarro,french toast,4.5,g,80,mg,370,g,36,g,9,g,1.5,g,0,g,1,g,7,g
+497,sbarro,fruit salad,0.5,g,0,mg,40,g,38,g,3,g,0,g,0,g,3,g,33,g
+498,sbarro,garden salad,24,g,0,mg,940,g,12,g,1,g,4,g,0,g,1,g,10,g
+499,sbarro,garlic and romano dusted wedges,53,g,5,mg,1280,g,60,g,8,g,8,g,0,g,7,g,0,g
+500,sbarro,garlic breadstick 1 piece,18,g,0,mg,570,g,35,g,7,g,3,g,0,g,2,g,2,g
+501,sbarro,garlic breadsticks 6 piece,92,g,10,mg,2860,g,173,g,37,g,15,g,0,g,8,g,9,g
+502,sbarro,garlic cheesy bread,82,g,155,mg,3650,g,161,g,76,g,32,g,1,g,8,g,11,g
+503,sbarro,garlic dipping sauce,19,g,0,mg,250,g,2,g,0,g,3,g,0,g,0,g,1,g
+504,sbarro,greek salad dressing,24,g,5,mg,530,g,1,g,0,g,3.5,g,0,g,0,g,1,g
+505,sbarro,greek salad 8 oz,7,g,15,mg,410,g,8,g,6,g,3.5,g,0,g,3,g,4,g
+506,sbarro,ham and cheese stuffed slice,37,g,380,mg,1800,g,75,g,41,g,13,g,0,g,3,g,4,g
+507,sbarro,hells kitchen potato wedges,41,g,0,mg,1210,g,61,g,6,g,6,g,0,g,7,g,2,g
+508,sbarro,italian salad dressing,14,g,0,mg,320,g,4,g,0,g,2,g,0,g,0,g,3,g
+509,sbarro,lite italian salad dressing,1,g,0,mg,720,g,2,g,0,g,0,g,0,g,0,g,2,g
+510,sbarro,mamas cheesecake,41,g,190,mg,460,g,47,g,8,g,24,g,1,g,1,g,28,g
+511,sbarro,mamas meatball pizza 12 inch,86,g,240,mg,3790,g,182,g,87,g,38,g,1,g,9,g,21,g
+512,sbarro,mamas meatball pizza 14 inch,122,g,345,mg,5260,g,249,g,121,g,54,g,1.5,g,12,g,29,g
+513,sbarro,meat lasagna,68,g,150,mg,3970,g,145,g,60,g,27,g,1,g,11,g,23,g
+514,sbarro,meat primo stromboli 6 inch,52,g,145,mg,2600,g,79,g,48,g,20,g,0.5,g,4,g,6,g
+515,sbarro,meatball sub,72,g,220,mg,2600,g,54,g,54,g,31,g,0,g,2,g,8,g
+516,sbarro,meatballs 2 piece,36,g,120,mg,1050,g,13,g,25,g,16,g,0,g,0,g,3,g
+517,sbarro,mixed vegetable entree,7,g,0,mg,310,g,11,g,3,g,1,g,0,g,3,g,5,g
+518,sbarro,mixed vegetables,7,g,0,mg,310,g,11,g,3,g,1,g,0,g,3,g,5,g
+519,sbarro,mozzarella sticks with pomodoro dipping sauce 3 piece,4,g,5,mg,500,g,11,g,5,g,1.5,g,0,g,2,g,4,g
+520,sbarro,mozzarella sticks with pomodoro dipping sauce 6 piece,7,g,15,mg,870,g,19,g,9,g,3,g,0,g,3,g,6,g
+521,sbarro,mushrooms and peppers entree,6,g,0,mg,500,g,12,g,7,g,1,g,0,g,3,g,6,g
+522,sbarro,ny 4 cheese white pizza 17 inch,143,g,340,mg,6430,g,318,g,141,g,65,g,1.5,g,12,g,28,g
+523,sbarro,ny 4 cheese white pizza xl slice,24,g,55,mg,1070,g,53,g,23,g,11,g,0,g,2,g,5,g
+524,sbarro,ny buffalo chicken pizza 17 inch,147,g,385,mg,9730,g,298,g,174,g,49,g,1.5,g,15,g,17,g
+525,sbarro,ny buffalo chicken pizza xl slice,23,g,65,mg,1600,g,49,g,29,g,8,g,0,g,2,g,3,g
+526,sbarro,ny cheese pizza 12 inch,165,g,270,mg,7640,g,444,g,159,g,59,g,2,g,29,g,58,g
+527,sbarro,ny cheese pizza 14 inch,66,g,170,mg,4290,g,233,g,92,g,31,g,1.5,g,15,g,25,g
+528,sbarro,ny cheese pizza 17 inch,850,g,5,mg,250,g,315,g,129,g,94,g,45,g,21,g,36,g
+529,sbarro,ny cheese pizza xl slice,15,g,40,mg,970,g,51,g,21,g,7,g,0,g,3,g,6,g
+530,sbarro,ny classic hawaiian pizza 17 inch,89,g,265,mg,7050,g,339,g,140,g,40,g,1.5,g,22,g,58,g
+531,sbarro,ny classic hawaiian pizza xl slice,15,g,50,mg,1270,g,57,g,25,g,7,g,0,g,4,g,10,g
+532,sbarro,ny mamas meatball pizza 17 inch,170,g,485,mg,7310,g,342,g,155,g,76,g,2,g,16,g,40,g
+533,sbarro,ny mamas meatball pizza xl slice,28,g,80,mg,1220,g,57,g,28,g,13,g,0,g,3,g,7,g
+534,sbarro,ny meat primo pizza 17 inch,191,g,540,mg,10510,g,332,g,199,g,81,g,2.5,g,23,g,39,g
+535,sbarro,ny meat primo pizza xl slice,28,g,80,mg,1740,g,53,g,32,g,12,g,0,g,4,g,6,g
+536,sbarro,ny mushroom pizza xl slice,14,g,30,mg,850,g,43,g,16,g,6,g,0,g,3,g,5,g
+537,sbarro,ny pepperoni pizza 17 inch,135,g,330,mg,8760,g,366,g,148,g,60,g,3,g,27,g,55,g
+538,sbarro,ny pepperoni pizza xl slice,23,g,55,mg,1460,g,61,g,25,g,10,g,1,g,5,g,9,g
+539,sbarro,ny sausage pizza 17 inch,153,g,390,mg,8870,g,320,g,157,g,63,g,1.5,g,24,g,35,g
+540,sbarro,ny sausage pizza xl slice,24,g,60,mg,1390,g,50,g,25,g,10,g,0,g,4,g,6,g
+541,sbarro,ny spinach and tomato pizza 17 inch,117,g,250,mg,6900,g,331,g,137,g,49,g,2,g,28,g,41,g
+542,sbarro,ny spinach and tomato pizza xl slice,15,g,30,mg,880,g,42,g,18,g,6,g,0,g,4,g,5,g
+543,sbarro,ny supremo pizza 17 inch,122,g,295,mg,7300,g,326,g,136,g,52,g,1.5,g,25,g,40,g
+544,sbarro,ny supremo pizza xl slice,24,g,55,mg,1380,g,56,g,25,g,10,g,0,g,4,g,7,g
+545,sbarro,ny veggie pizza 17 inch,53,g,95,mg,4890,g,329,g,89,g,20,g,1,g,26,g,43,g
+546,sbarro,ny veggie pizza xl slice,15,g,35,mg,1070,g,56,g,21,g,7,g,0,g,5,g,7,g
+547,sbarro,nyc bacon and cheddar cheesy bread,110,g,230,mg,4670,g,160,g,89,g,46,g,0.5,g,6,g,13,g
+548,sbarro,nyc cheesy bread,85,g,155,mg,3650,g,161,g,76,g,32,g,1,g,8,g,12,g
+549,sbarro,nyc garlic knots,25,g,10,mg,990,g,78,g,19,g,4,g,0,g,4,g,3,g
+550,sbarro,nyc pepperoni cheesy bread,94,g,170,mg,4090,g,161,g,74,g,34,g,1.5,g,8,g,12,g
+551,sbarro,old world veggie pizza 12 inch,49,g,110,mg,3450,g,185,g,67,g,21,g,0.5,g,16,g,25,g
+552,sbarro,old world veggie pizza 14 inch,69,g,155,mg,4790,g,251,g,93,g,29,g,1,g,22,g,33,g
+553,sbarro,pancake platter,60,g,350,mg,1700,g,58,g,26,g,6,g,0,g,1,g,11,g
+554,sbarro,pancakes,0,g,0,mg,1030,g,81,g,6,g,0,g,0,g,2,g,15,g
+555,sbarro,pasta salad,46,g,0,mg,1380,g,55,g,10,g,7,g,0,g,6,g,7,g
+556,sbarro,pepperoni pizza 12 inch,65,g,165,mg,3900,g,171,g,71,g,29,g,1.5,g,11,g,19,g
+557,sbarro,pepperoni pizza 14 inch,99,g,255,mg,5580,g,235,g,106,g,45,g,2.5,g,16,g,26,g
+558,sbarro,pepperoni stromboli 6 inch,50,g,115,mg,1940,g,72,g,36,g,19,g,0,g,4,g,3,g
+559,sbarro,potato wedges,41,g,0,mg,1200,g,58,g,6,g,6,g,0,g,6,g,0,g
+560,sbarro,quarter roast chicken piece,9,g,135,mg,200,g,0,g,27,g,2.5,g,0,g,0,g,0,g
+561,sbarro,ranch dipping sauce,14,g,5,mg,220,g,1,g,0,g,2,g,0,g,0,g,1,g
+562,sbarro,ranch salad dressing,22,g,10,mg,320,g,2,g,0,g,3.5,g,0,g,0,g,1,g
+563,sbarro,rice,3.5,g,0,mg,1500,g,65,g,6,g,1,g,0,g,3,g,0,g
+564,sbarro,rice entree,6,g,0,mg,2400,g,104,g,10,g,2,g,0,g,4,g,0,g
+565,sbarro,roasted breakfast potatoes,13,g,5,mg,440,g,35,g,4,g,6,g,0,g,4,g,4,g
+566,sbarro,roasted potatoes entree,13,g,5,mg,440,g,35,g,4,g,6,g,0,g,4,g,4,g
+567,sbarro,roman buffalo chicken pizza slice,26,g,55,mg,1560,g,57,g,28,g,7,g,0,g,3,g,3,g
+568,sbarro,roman buffalo chicken pizza whole,156,g,315,mg,9380,g,342,g,168,g,40,g,1,g,17,g,18,g
+569,sbarro,roman cheese pizza slice,24,g,45,mg,1140,g,61,g,24,g,9,g,0,g,3,g,6,g
+570,sbarro,roman cheese pizza whole,165,g,270,mg,7640,g,444,g,159,g,59,g,2,g,29,g,58,g
+571,sbarro,roman classic hawaiin pizza slice,24,g,55,mg,1430,g,66,g,28,g,9,g,0,g,4,g,10,g
+572,sbarro,roman classic hawaiin pizza whole,147,g,320,mg,8610,g,393,g,167,g,53,g,1.5,g,21,g,61,g
+573,sbarro,roman double duo pepperoni pizza slice,41,g,85,mg,1860,g,61,g,30,g,16,g,0,g,3,g,7,g
+574,sbarro,roman double duo pepperoni pizza whole,248,g,495,mg,11170,g,368,g,180,g,98,g,2,g,21,g,40,g
+575,sbarro,roman hot and spicy pizza slice,33,g,60,mg,1620,g,62,g,29,g,13,g,0,g,4,g,7,g
+576,sbarro,roman meat primo pizza slice,41,g,95,mg,1910,g,64,g,36,g,15,g,0,g,4,g,7,g
+577,sbarro,roman meat primo pizza whole,245,g,565,mg,11440,g,382,g,215,g,92,g,2.5,g,22,g,41,g
+578,sbarro,roman pepperoni and bacon pizza slice,37,g,75,mg,1670,g,62,g,31,g,14,g,0.5,g,3,g,6,g
+579,sbarro,roman pepperoni and bacon pizza whole,220,g,450,mg,10000,g,371,g,187,g,81,g,3.5,g,21,g,38,g
+580,sbarro,roman pepperoni and sausage pizza slice,39,g,80,mg,1710,g,62,g,31,g,14,g,0,g,3,g,6,g
+581,sbarro,roman pepperoni and sausage pizza whole,232,g,475,mg,10270,g,374,g,186,g,85,g,2.5,g,20,g,37,g
+582,sbarro,roman supremo pizza slice,34,g,65,mg,1580,g,64,g,28,g,12,g,0,g,4,g,7,g
+583,sbarro,roman veggie pizza slice,24,g,40,mg,1210,g,64,g,23,g,8,g,0,g,4,g,8,g
+584,sbarro,sausage and peppers entree,68,g,110,mg,2690,g,83,g,39,g,19,g,0,g,9,g,16,g
+585,sbarro,sausage ham and bacon stuffed slice,42,g,390,mg,1880,g,75,g,42,g,15,g,0,g,3,g,4,g
+586,sbarro,sausage pepperoni and bacon stromboli 6 inch,47,g,110,mg,1970,g,72,g,37,g,17,g,0,g,4,g,3,g
+587,sbarro,sausage peppers and onions sub,42,g,110,mg,2140,g,44,g,39,g,15,g,0,g,4,g,7,g
+588,sbarro,sbarro hot italian beef,46,g,95,mg,1850,g,35,g,37,g,18,g,0,g,1,g,4,g
+589,sbarro,sbarro house salad,64,g,70,mg,2470,g,27,g,23,g,17,g,0,g,4,g,7,g
+590,sbarro,sbarro italian stallion sub hot or cold,32,g,65,mg,2590,g,36,g,31,g,10,g,0,g,2,g,5,g
+591,sbarro,sbarro signature pizza fries,73,g,100,mg,3030,g,68,g,35,g,23,g,1,g,8,g,5,g
+592,sbarro,sbremo pizza 12 inch,73,g,170,mg,4310,g,180,g,77,g,30,g,1,g,14,g,22,g
+593,sbarro,sbremo pizza 14 inch,100,g,245,mg,6060,g,250,g,110,g,41,g,2,g,21,g,30,g
+594,sbarro,small mac and cheese,40,g,130,mg,1900,g,48,g,34,g,25,g,0,g,4,g,3,g
+595,sbarro,small spaghetti,16,g,0,mg,460,g,44,g,8,g,2.5,g,0,g,3,g,3,g
+596,sbarro,small spaghetti and sauce,16,g,0,mg,460,g,44,g,8,g,2.5,g,0,g,3,g,3,g
+597,sbarro,small white cheddar mac and cheese,40,g,130,mg,1900,g,48,g,34,g,25,g,0,g,4,g,3,g
+598,sbarro,small ziti,47,g,60,mg,2250,g,122,g,33,g,13,g,0,g,9,g,21,g
+599,sbarro,spaghetti,57,g,0,mg,1830,g,141,g,28,g,9,g,0,g,10,g,12,g
+600,sbarro,spaghetti and meatballs,65,g,60,mg,2490,g,121,g,35,g,15,g,0,g,8,g,14,g
+601,sbarro,spaghetti with sausage,69,g,70,mg,2640,g,118,g,43,g,15,g,0,g,9,g,11,g
+602,sbarro,spinach stromboli 12 inch,37,g,60,mg,1230,g,74,g,29,g,11,g,0,g,5,g,3,g
+603,sbarro,spinach stromboli 6 inch,37,g,60,mg,1230,g,74,g,29,g,11,g,0,g,5,g,3,g
+604,sbarro,steak and cheese,37,g,95,mg,1400,g,30,g,37,g,18,g,0,g,1,g,1,g
+605,sbarro,the carnivore pizza 12 inch,93,g,275,mg,5410,g,176,g,102,g,40,g,1.5,g,12,g,20,g
+606,sbarro,the carnivore pizza 14 inch,127,g,380,mg,7140,g,216,g,134,g,55,g,2,g,15,g,27,g
+607,sbarro,tiramisu,15,g,0,mg,0,g,40,g,3,g,10,g,0,g,120,g,8,g
+608,sbarro,tomato and cucumber salad,10,g,0,mg,390,g,20,g,3,g,1.5,g,0,g,4,g,12,g
+609,sbarro,turkey with pesto mayo sub hot or cold,44,g,105,mg,2280,g,36,g,39,g,13,g,0,g,2,g,3,g
+610,sbarro,veg rice,0,g,0,mg,340,g,104,g,0,g,0,g,0,g,0,g,104,g
+611,sbarro,veggie and cheese,36,g,45,mg,1790,g,45,g,22,g,10,g,0,g,5,g,7,g
+612,sbarro,veggie stromboli 6 inch,29,g,45,mg,1570,g,79,g,28,g,10,g,0,g,5,g,7,g
+613,sbarro,veggie stuffed slice,34,g,360,mg,1440,g,76,g,34,g,11,g,0,g,4,g,5,g
+614,sbarro,white cheddar mac and cheese,61,g,230,mg,3780,g,33,g,75,g,38,g,1.5,g,9,g,3,g
+615,sbarro,ziti,47,g,60,mg,2250,g,122,g,33,g,13,g,0,g,9,g,21,g
+616,sbarro,ziti with chicken,93,g,100,mg,3720,g,116,g,51,g,24,g,0,g,8,g,18,g
+617,schlotzskys deli,fuze tea sweetened,0,g,0,mg,35,g,25,g,0,g,0,g,0,g,0,g,25,g
+618,schlotzskys deli,horizon milk low fat,2.5,g,10,mg,130,g,13,g,8,g,1.5,g,0,g,0,g,12,g
+619,schlotzskys deli,orange juice,0,g,0,mg,15,g,18,g,1,g,0,g,0,g,0,g,14,g
+620,schlotzskys deli,apple juice,0,g,0,mg,15,g,21,g,0,g,0,g,0,g,0,g,1,g
+621,schlotzskys deli,horizon chocolate milk,2.5,g,15,mg,180,g,23,g,8,g,1.5,g,0,g,0,g,22,g
+622,schlotzskys deli,bread stick,1,g,0,mg,60,g,7,g,1,g,0,g,0,g,0,g,0,g
+623,schlotzskys deli,ham breakfast sandwich whole,22,g,270,mg,1070,g,50,g,30,g,11,g,0,g,2,g,2,g
+624,schlotzskys deli,sausage breakfast sandwich whole,32,g,310,mg,960,g,49,g,36,g,14,g,0,g,2,g,2,g
+625,schlotzskys deli,sausage breakfast sandwich half,16,g,155,mg,480,g,24,g,18,g,7,g,0,g,1,g,1,g
+626,schlotzskys deli,ham breakfast sandwich,11,g,135,mg,530,g,25,g,15,g,6,g,0,g,1,g,1,g
+627,schlotzskys deli,bacon breakfast sandwich half,10,g,125,mg,330,g,26,g,12,g,5,g,0,g,1,g,2,g
+628,schlotzskys deli,veggie breakfast sandwich whole,21,g,255,mg,660,g,51,g,25,g,11,g,0,g,3,g,2,g
+629,schlotzskys deli,bacon breakfast sandwich whole,21,g,255,mg,660,g,51,g,25,g,11,g,0,g,3,g,3,g
+630,schlotzskys deli,veggie breakfast sandwich half,10,g,125,mg,330,g,26,g,13,g,5,g,0,g,1,g,2,g
+631,schlotzskys deli,veggie burrito whole,19,g,235,mg,880,g,44,g,19,g,8,g,0,g,6,g,7,g
+632,schlotzskys deli,sausage burrito whole,31,g,290,mg,1180,g,41,g,29,g,11,g,0,g,5,g,5,g
+633,schlotzskys deli,bacon burrito whole,22,g,240,mg,1060,g,41,g,22,g,9,g,0,g,5,g,5,g
+634,schlotzskys deli,ham burrito whole,21,g,265,mg,1700,g,44,g,29,g,9,g,0,g,5,g,7,g
+635,schlotzskys deli,salsa,0,g,0,mg,260,g,4,g,1,g,0,g,0,g,1,g,0,g
+636,schlotzskys deli,classic cinnabon roll,37,g,55,mg,820,g,127,g,13,g,17,g,0,g,2,g,58,g
+637,schlotzskys deli,chocolate chip cookie,7,g,10,mg,50,g,24,g,2,g,2.5,g,0,g,1,g,15,g
+638,schlotzskys deli,big s chocolate chunk cookie,27,g,40,mg,480,g,74,g,3,g,12,g,0,g,2,g,43,g
+639,schlotzskys deli,sugar cookie,6,g,10,mg,65,g,23,g,2,g,3,g,0,g,0,g,12,g
+640,schlotzskys deli,minibon cinnabon,15,g,25,mg,330,g,51,g,5,g,7,g,0,g,1,g,23,g
+641,schlotzskys deli,big s white chocolate macadamia nut cookie,28,g,35,mg,480,g,70,g,6,g,15,g,0,g,1,g,39,g
+642,schlotzskys deli,brownie,23,g,85,mg,240,g,46,g,5,g,11,g,0,g,3,g,30,g
+643,schlotzskys deli,centre of the cinnabon roll,34,g,50,mg,640,g,105,g,9,g,16,g,0,g,2,g,58,g
+644,schlotzskys deli,oatmeal raisin cookie,4.5,g,10,mg,50,g,24,g,2,g,2,g,0,g,1,g,10,g
+645,schlotzskys deli,big s toffee pretzel,26,g,35,mg,770,g,74,g,5,g,13,g,0,g,1,g,45,g
+646,schlotzskys deli,caramel pecanbon,51,g,65,mg,950,g,146,g,14,g,20,g,0,g,3,g,75,g
+647,schlotzskys deli,kids pepperoni pizza without sides or drink,22,g,40,mg,1160,g,78,g,20,g,7,g,0,g,4,g,4,g
+648,schlotzskys deli,kids cheese pizza without sides or drink,17,g,30,mg,960,g,78,g,18,g,5,g,0,g,4,g,4,g
+649,schlotzskys deli,kidz cheese sandwich without sides or drink,14,g,40,mg,570,g,49,g,17,g,8,g,0,g,2,g,2,g
+650,schlotzskys deli,kids turkey sandwich without sides or drink,1.5,g,10,mg,550,g,40,g,10,g,0,g,0,g,3,g,3,g
+651,schlotzskys deli,kids mac and cheese mini mac without sides or drink,23,g,70,mg,560,g,34,g,22,g,14,g,0,g,2,g,1,g
+652,schlotzskys deli,kids ham sandwich without sides or drink,2,g,15,mg,650,g,40,g,11,g,0,g,0,g,3,g,3,g
+653,schlotzskys deli,kids chicken sandwich without sides or drink,1,g,15,mg,490,g,40,g,11,g,0,g,0,g,3,g,3,g
+654,schlotzskys deli,smokey brisketeer mac,50,g,170,mg,1680,g,74,g,57,g,30,g,0,g,4,g,5,g
+655,schlotzskys deli,shrimply the best mac,45,g,210,mg,1160,g,71,g,56,g,28,g,0,g,4,g,3,g
+656,schlotzskys deli,double cheese mac,43,g,135,mg,1190,g,69,g,44,g,27,g,0,g,3,g,2,g
+657,schlotzskys deli,brisketeer mac,49,g,170,mg,1540,g,69,g,57,g,30,g,0,g,4,g,2,g
+658,schlotzskys deli,poultry in motion mac,47,g,175,mg,1600,g,70,g,61,g,29,g,0,g,4,g,3,g
+659,schlotzskys deli,pepperoni and double cheese pizza 10,42,g,95,mg,2000,g,115,g,39,g,18,g,0,g,6,g,5,g
+660,schlotzskys deli,bbq chicken and jalapeno pizza 10,21,g,100,mg,2820,g,148,g,46,g,11,g,0,g,5,g,19,g
+661,schlotzskys deli,fresh veggie pizza 10,35,g,55,mg,2150,g,118,g,33,g,11,g,0,g,7,g,7,g
+662,schlotzskys deli,double cheese pizza 10,35,g,55,mg,2150,g,118,g,33,g,11,g,0,g,7,g,7,g
+663,schlotzskys deli,grilled chicken and pesto pizza 10,29,g,95,mg,2060,g,114,g,47,g,11,g,0,g,6,g,4,g
+664,schlotzskys deli,combination special pizza 10,38,g,75,mg,2040,g,119,g,35,g,14,g,0,g,7,g,6,g
+665,schlotzskys deli,buttermilk ranch dressing,33,g,30,mg,620,g,4,g,2,g,6,g,0,g,0,g,3,g
+666,schlotzskys deli,red wine vinaigrette,43,g,0,mg,940,g,9,g,0,g,6,g,0,g,0,g,6,g
+667,schlotzskys deli,fat free raspberry vinaigrette,0,g,0,mg,230,g,23,g,0,g,0,g,0,g,0,g,20,g
+668,schlotzskys deli,balsamic vinegar,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+669,schlotzskys deli,tuscan caesar dressing,45,g,25,mg,850,g,2,g,4,g,8,g,0,g,0,g,0,g
+670,schlotzskys deli,honey dijon dressing,14,g,30,mg,790,g,28,g,0,g,3,g,0,g,0,g,28,g
+671,schlotzskys deli,chunky blue cheese dressing,49,g,45,mg,760,g,3,g,6,g,11,g,0,g,0,g,3,g
+672,schlotzskys deli,extra virgin olive oil,14,g,0,mg,0,g,0,g,0,g,2,g,0,g,0,g,0,g
+673,schlotzskys deli,turkey avocado cobb salad without dressing or garlic bread sticks full salad,33,g,250,mg,1880,g,42,g,38,g,10,g,0,g,12,g,8,g
+674,schlotzskys deli,cranberry apple pecan and chicken salad without garlic bread sticks or dressing full size,27,g,80,mg,1220,g,68,g,34,g,7,g,0,g,7,g,40,g
+675,schlotzskys deli,southwestern chicken salad without dressing or garlic breadsticks full size,29,g,120,mg,1260,g,44,g,46,g,13,g,0,g,8,g,6,g
+676,schlotzskys deli,turkey avocado cobb salad without dressing or garlic bread sticks pick 2,16.5,g,125,mg,940,g,21,g,19,g,5,g,0,g,6,g,4,g
+677,schlotzskys deli,southwestern chicken salad without dressing or garlic breadsticks pick 2,14,g,60,mg,630,g,22,g,23,g,6,g,0,g,4,g,3,g
+678,schlotzskys deli,chicken caesar salad,17,g,100,mg,1770,g,29,g,37,g,8,g,0,g,2,g,4,g
+679,schlotzskys deli,garden salad pick 2,0.5,g,0,mg,140,g,4,g,1,g,0,g,0,g,1,g,1,g
+680,schlotzskys deli,fresh kale and grilled chicken salad with red wine vinaigrette without garlic bread pick 2,14.5,g,128,mg,612,g,26,g,19,g,4.5,g,0,g,3.5,g,17,g
+681,schlotzskys deli,garden salad,1.5,g,0,mg,280,g,9,g,1,g,0,g,0,g,2,g,2,g
+682,schlotzskys deli,fresh kale and grilled chicken salad with red wine vinaigrette without garlic bread full size,29,g,255,mg,1223,g,52,g,38,g,9,g,0,g,7,g,34,g
+683,schlotzskys deli,cranberry apple pecan and chicken salad without garlic bread sticks or dressing half size,14,g,60,mg,630,g,22,g,23,g,6,g,0,g,4,g,3,g
+684,schlotzskys deli,cranberry apple pecan and chicken salad without garlic bread sticks or dressing pick 2,13.5,g,40,mg,610,g,34,g,17,g,3.5,g,0,g,3.5,g,20,g
+685,schlotzskys deli,the original sandwich medium,34,g,115,mg,2320,g,78,g,40,g,16,g,0,g,5,g,6,g
+686,schlotzskys deli,the original sandwich small,27,g,90,mg,1610,g,52,g,28,g,12,g,0,g,3,g,3,g
+687,schlotzskys deli,turkey and guacamole sandwich medium,11,g,50,mg,2000,g,78,g,31,g,2.5,g,0,g,6,g,6,g
+688,schlotzskys deli,california chicken and avocado flatbread,49,g,105,mg,1170,g,49,g,41,g,14,g,0,g,7,g,2,g
+689,schlotzskys deli,turkey original style sandwich small,27,g,95,mg,1720,g,55,g,31,g,12,g,0,g,4,g,4,g
+690,schlotzskys deli,turkey bacon club sandwich medium,30,g,115,mg,2410,g,81,g,47,g,14,g,0,g,6,g,6,g
+691,schlotzskys deli,beef bacon smokecheesy sandwich small,22,g,95,mg,1410,g,53,g,35,g,11,g,0,g,3,g,4,g
+692,schlotzskys deli,smoked turkey breast sandwich small,3.5,g,25,mg,940,g,53,g,16,g,0.5,g,0,g,3,g,3,g
+693,schlotzskys deli,fiesta chicken sandwich medium,31,g,130,mg,2080,g,78,g,49,g,15,g,0,g,5,g,7,g
+694,schlotzskys deli,chicken bacon smokecheesy sandwich medium,31,g,160,mg,2510,g,80,g,61,g,15,g,0,g,4,g,7,g
+695,schlotzskys deli,ham and cheese original style sandwich medium,25,g,115,mg,2620,g,81,g,43,g,12,g,0,g,5,g,7,g
+696,schlotzskys deli,the original sandwich large,69,g,235,mg,4880,g,150,g,80,g,32,g,0,g,8,g,12,g
+697,schlotzskys deli,turkey original style sandwich medium,33,g,130,mg,2570,g,81,g,47,g,15,g,0,g,6,g,6,g
+698,schlotzskys deli,fresh veggie sandwich medium,14,g,30,mg,1050,g,74,g,20,g,7,g,0,g,5,g,5,g
+699,schlotzskys deli,deluxe original style sandwich medium,47,g,170,mg,3820,g,81,g,56,g,19,g,0,g,5,g,9,g
+700,schlotzskys deli,fiesta chicken sandwich small,23,g,85,mg,1240,g,52,g,30,g,11,g,0,g,3,g,4,g
+701,schlotzskys deli,the tuscan sandwich,35,g,100,mg,1820,g,49,g,43,g,9,g,0,g,7,g,5,g
+702,schlotzskys deli,french dip sandwich,22,g,90,mg,1630,g,59,g,40,g,10,g,0,g,3,g,8,g
+703,schlotzskys deli,fresh veggie sandwich small,10,g,20,mg,690,g,48,g,14,g,5,g,0,g,3,g,3,g
+704,schlotzskys deli,ham and cheese original style sandwich small,17,g,70,mg,1470,g,53,g,27,g,9,g,0,g,3,g,4,g
+705,schlotzskys deli,turkey and guacamole sandwich small,7,g,25,mg,1120,g,50,g,18,g,1.5,g,0,g,4,g,3,g
+706,schlotzskys deli,turkey bacon club sandwich small,20,g,70,mg,1370,g,54,g,29,g,10,g,0,g,4,g,4,g
+707,schlotzskys deli,albuquerque turkey sandwich small,30,g,85,mg,1490,g,55,g,30,g,12,g,0,g,4,g,6,g
+708,schlotzskys deli,angus pastrami reuben sandwich small,26,g,75,mg,1260,g,56,g,31,g,12,g,0,g,5,g,4,g
+709,schlotzskys deli,margherita flatbread,38,g,55,mg,1100,g,72,g,22,g,12,g,0,g,8,g,9,g
+710,schlotzskys deli,angus beef and cheese sandwich small,19,g,75,mg,1010,g,54,g,30,g,10,g,0,g,3,g,4,g
+711,schlotzskys deli,smoked turkey breast sandwich medium,6,g,50,mg,1710,g,80,g,29,g,1,g,0,g,5,g,5,g
+712,schlotzskys deli,deluxe original style sandwich large,95,g,370,mg,7850,g,156,g,114,g,42,g,0,g,8,g,15,g
+713,schlotzskys deli,chipotle chicken sandwich medium,9,g,65,mg,1490,g,78,g,33,g,1,g,0,g,4,g,6,g
+714,schlotzskys deli,the caprese sandwich,27,g,50,mg,1060,g,64,g,18,g,9,g,0,g,7,g,8,g
+715,schlotzskys deli,angus pastrami and swiss sandwich medium,33,g,125,mg,2110,g,79,g,52,g,17,g,0,g,5,g,5,g
+716,schlotzskys deli,original cheese sandwich medium,37,g,110,mg,1280,g,77,g,38,g,21,g,0,g,5,g,4,g
+717,schlotzskys deli,albuquerque turkey sandwich medium,37,g,130,mg,2540,g,83,g,49,g,16,g,0,g,7,g,9,g
+718,schlotzskys deli,deluxe original style sandwich small,39,g,140,mg,2650,g,54,g,40,g,17,g,0,g,3,g,5,g
+719,schlotzskys deli,angus beef and cheese sandwich medium,30,g,115,mg,1700,g,81,g,50,g,14,g,0,g,4,g,6,g
+720,schlotzskys deli,angus corned beef reuben sandwich large,74,g,240,mg,5110,g,159,g,109,g,35,g,0,g,9,g,1,g
+721,schlotzskys deli,turkey bacon club sandwich large,56,g,225,mg,4850,g,153,g,91,g,27,g,0,g,9,g,11,g
+722,schlotzskys deli,smoked turkey breast sandwich large,14,g,105,mg,3670,g,152,g,58,g,3,g,0,g,9,g,11,g
+723,schlotzskys deli,angus pastrami and swiss sandwich small,21,g,75,mg,1230,g,53,g,31,g,11,g,0,g,3,g,3,g
+724,schlotzskys deli,angus pastrami reuben sandwich medium,40,g,130,mg,2170,g,84,g,52,g,18,g,0,g,7,g,7,g
+725,schlotzskys deli,fiesta chicken sandwich large,59,g,245,mg,4200,g,153,g,95,g,27,g,0,g,7,g,14,g
+726,schlotzskys deli,beef bacon smokecheesy sandwich medium,43,g,160,mg,2060,g,77,g,65,g,18,g,0,g,3,g,4,g
+727,schlotzskys deli,chicken bacon smokecheesy sandwich small,30,g,85,mg,1180,g,51,g,34,g,13,g,0,g,2,g,2,g
+728,schlotzskys deli,the sicilian sandwich,43,g,130,mg,3040,g,42,g,42,g,18,g,0,g,2,g,5,g
+729,schlotzskys deli,fresh veggie sandwich large,28,g,60,mg,1940,g,148,g,38,g,13,g,0,g,8,g,10,g
+730,schlotzskys deli,chipotle chicken sandwich small,7,g,35,mg,850,g,53,g,19,g,1,g,0,g,3,g,4,g
+731,schlotzskys deli,original cheese sandwich small,27,g,80,mg,870,g,52,g,27,g,16,g,0,g,3,g,3,g
+732,schlotzskys deli,angus beef and cheese sandwich large,61,g,235,mg,3770,g,158,g,100,g,29,g,0,g,8,g,12,g
+733,schlotzskys deli,turkey original style sandwich large,67,g,260,mg,5360,g,157,g,94,g,31,g,0,g,10,g,13,g
+734,schlotzskys deli,cuban brisket sandwich medium,30,g,145,mg,2870,g,75,g,58,g,15,g,0,g,3,g,5,g
+735,schlotzskys deli,angus corned beef reuben sandwich medium,38,g,120,mg,2450,g,81,g,53,g,18,g,0,g,6,g,7,g
+736,schlotzskys deli,albuquerque turkey sandwich large,68,g,235,mg,5020,g,165,g,94,g,29,g,0,g,12,g,18,g
+737,schlotzskys deli,ultimate grilled cheese sandwich,36,g,55,mg,1760,g,60,g,29,g,14,g,0,g,7,g,7,g
+738,schlotzskys deli,bacon grilled cheese sandwich,36,g,55,mg,1760,g,60,g,29,g,14,g,0,g,7,g,7,g
+739,schlotzskys deli,angus pastrami and swiss sandwich large,54,g,200,mg,4400,g,155,g,92,g,26,g,0,g,8,g,9,g
+740,schlotzskys deli,buffalo chicken flatbread,28,g,90,mg,1410,g,44,g,35,g,10,g,0,g,2,g,2,g
+741,schlotzskys deli,chipotle chicken pesto flatbread,55,g,115,mg,680,g,49,g,26,g,10,g,0,g,4,g,2,g
+742,schlotzskys deli,ham and cheese original style sandwich large,52,g,230,mg,5420,g,154,g,87,g,26,g,0,g,8,g,14,g
+743,schlotzskys deli,cuban brisket sandwich small,16,g,75,mg,1710,g,54,g,32,g,8,g,0,g,2,g,3,g
+744,schlotzskys deli,the rancher sandwich small,25,g,85,mg,1600,g,51,g,32,g,12,g,0,g,3,g,3,g
+745,schlotzskys deli,classic brisket sandwich small,20,g,75,mg,1520,g,61,g,30,g,10,g,0,g,3,g,5,g
+746,schlotzskys deli,chicken bacon smokecheesy sandwich large,89,g,425,mg,4740,g,145,g,162,g,34,g,0,g,3,g,6,g
+747,schlotzskys deli,angus corned beef reuben sandwich small,25,g,75,mg,1400,g,55,g,32,g,11,g,0,g,4,g,4,g
+748,schlotzskys deli,beef bacon smokecheesy sandwich large,108,g,395,mg,4590,g,150,g,144,g,41,g,0,g,3,g,11,g
+749,schlotzskys deli,chipotle shrimp flatbread,55,g,115,mg,680,g,49,g,26,g,10,g,0,g,4,g,2,g
+750,schlotzskys deli,traditional brisket sandwich small,21,g,85,mg,1420,g,58,g,35,g,11,g,0,g,2,g,5,g
+751,schlotzskys deli,traditional brisket sandwich large,26,g,130,mg,3440,g,154,g,74,g,10,g,0,g,5,g,9,g
+752,schlotzskys deli,original cheese sandwich large,76,g,220,mg,2800,g,146,g,76,g,43,g,0,g,8,g,9,g
+753,schlotzskys deli,classic brisket sandwich medium,30,g,120,mg,2200,g,84,g,50,g,15,g,0,g,4,g,5,g
+754,schlotzskys deli,chipotle chicken sandwich large,14,g,125,mg,3190,g,149,g,67,g,2.5,g,0,g,7,g,12,g
+755,schlotzskys deli,sweet n sassy slider,56,g,240,mg,2720,g,116,g,64,g,36,g,0,g,0,g,64,g
+756,schlotzskys deli,spicy brisket flatbread,63,g,110,mg,1430,g,48,g,41,g,20,g,0,g,3,g,2,g
+757,schlotzskys deli,classic brisket sandwich large,61,g,240,mg,4580,g,158,g,101,g,31,g,0,g,6,g,10,g
+758,schlotzskys deli,angus pastrami reuben sandwich large,79,g,255,mg,4540,g,165,g,106,g,37,g,0,g,12,g,11,g
+759,schlotzskys deli,chipotle angus slider,72,g,260,mg,2680,g,75,g,80,g,40,g,0,g,0,g,24,g
+760,schlotzskys deli,tex mex brisket sandwich large,63,g,230,mg,5800,g,152,g,99,g,26,g,0,g,8,g,7,g
+761,schlotzskys deli,tex mex brisket sandwich small,25,g,85,mg,1980,g,52,g,35,g,10,g,0,g,3,g,2,g
+762,schlotzskys deli,turkey and guacamole sandwich large,20,g,100,mg,3830,g,158,g,59,g,4.5,g,0,g,9,g,12,g
+763,schlotzskys deli,chipotle chicken pesto flatbread,50,g,95,mg,1100,g,49,g,41,g,13,g,0,g,7,g,2,g
+764,schlotzskys deli,aloha brisket slider,96,g,260,mg,3320,g,80,g,68,g,40,g,0,g,0,g,32,g
+765,schlotzskys deli,tex mex brisket sandwich medium,33,g,125,mg,2880,g,77,g,51,g,14,g,0,g,5,g,3,g
+766,schlotzskys deli,aloha brisket slider,48,g,130,mg,1660,g,40,g,34,g,20,g,0,g,0,g,16,g
+767,schlotzskys deli,chipotle angus slider,36,g,130,mg,1340,g,38,g,40,g,20,g,0,g,0,g,12,g
+768,schlotzskys deli,the rancher sandwich medium,38,g,135,mg,2680,g,69,g,51,g,17,g,0,g,5,g,4,g
+769,schlotzskys deli,traditional brisket sandwich medium,30,g,120,mg,2020,g,82,g,50,g,15,g,0,g,4,g,5,g
+770,schlotzskys deli,the rancher sandwich large,74,g,255,mg,5540,g,152,g,102,g,33,g,0,g,9,g,8,g
+771,schlotzskys deli,italian shrimp and brisket flatbread,23,g,85,mg,1050,g,60,g,27,g,9,g,0,g,2,g,10,g
+772,schlotzskys deli,cuban brisket sandwich large,57,g,270,mg,5890,g,161,g,117,g,28,g,0,g,6,g,10,g
+773,schlotzskys deli,sweet n sassy slider,28,g,120,mg,1360,g,58,g,32,g,18,g,0,g,0,g,32,g
+774,schlotzskys deli,potato chips average other varieties,13.5,g,0,mg,300,g,24,g,2,g,2,g,0,g,2,g,1,g
+775,schlotzskys deli,baked chips regular,4,g,0,mg,180,g,26,g,2,g,0,g,0,g,2,g,3,g
+776,schlotzskys deli,hash brown,5,g,0,mg,0,g,8,g,1,g,0,g,0,g,1,g,0,g
+777,schlotzskys deli,bbq chips,13,g,0,mg,300,g,24,g,3,g,2,g,0,g,2,g,0,g
+778,schlotzskys deli,mixed fruit,0,g,0,mg,5,g,6,g,0,g,0,g,0,g,1,g,6,g
+779,schlotzskys deli,broccoli cheese soup bowl,12,g,25,mg,1310,g,14,g,8,g,6,g,0,g,0,g,6,g
+780,schlotzskys deli,tomato basil soup bowl,26,g,65,mg,840,g,21,g,5,g,13,g,0,g,3,g,0,g
+781,schlotzskys deli,loaded potato soup bowl,31,g,75,mg,1520,g,29,g,12,g,15,g,0,g,3,g,6,g
+782,schlotzskys deli,bistro french onion soup bowl,11,g,30,mg,740,g,17,g,3,g,4.5,g,0,g,3,g,9,g
+783,schlotzskys deli,chicken and wild rice soup bowl,14,g,55,mg,1180,g,25,g,13,g,7,g,0,g,0,g,3,g
+784,schlotzskys deli,chicken and dumpling soup bowl,4.5,g,45,mg,990,g,15,g,9,g,0,g,0,g,0,g,0,g
+785,schlotzskys deli,chili timberline soup bowl,21,g,55,mg,1110,g,27,g,17,g,9,g,0,g,6,g,9,g
+786,schlotzskys deli,creamy chicken tortilla soup,16,g,45,mg,1290,g,27,g,13,g,6,g,0,g,1,g,3,g
+787,schlotzskys deli,garden vegetable soup bowl,0,g,0,mg,830,g,22,g,3,g,0,g,0,g,3,g,7,g
+788,schlotzskys deli,bistro french onion soup cup,9,g,25,mg,590,g,14,g,2,g,4,g,0,g,2,g,7,g
+789,schlotzskys deli,black eyed pea soup bowl,22,g,60,mg,1230,g,42,g,15,g,11,g,0,g,0,g,3,g
+790,schlotzskys deli,chicken tortilla soup bowl,16,g,45,mg,1290,g,27,g,13,g,6,g,0,g,1,g,3,g
+791,schlotzskys deli,chicken and wild rice soup cup,10,g,45,mg,860,g,14,g,9,g,6,g,0,g,0,g,2,g
+792,schlotzskys deli,ham taco,17,g,150,mg,720,g,18,g,16,g,6,g,0,g,2,g,3,g
+793,schlotzskys deli,veggie taco,10,g,120,mg,560,g,21,g,10,g,5,g,0,g,2,g,5,g
+794,schlotzskys deli,bacon taco,14,g,125,mg,740,g,18,g,13,g,6,g,0,g,2,g,3,g
+795,schlotzskys deli,sausage taco,13,g,40,mg,710,g,19,g,15,g,5,g,0,g,2,g,3,g
+796,schlotzskys deli,aloha brisket sliders 2 pieces,48,g,130,mg,1660,g,40,g,34,g,20,g,0,g,0,g,16,g
+797,schlotzskys deli,aloha brisket sliders 4 pieces,96,g,260,mg,3320,g,80,g,68,g,40,g,0,g,0,g,32,g
+798,schlotzskys deli,angus beef and cheese sandwich large,61,g,235,mg,3770,g,158,g,100,g,29,g,0,g,8,g,12,g
+799,schlotzskys deli,angus beef and cheese sandwich medium,30,g,115,mg,1700,g,81,g,50,g,14,g,0,g,4,g,6,g
+800,schlotzskys deli,angus beef and cheese sandwich pick 2,15,g,60,mg,850,g,41,g,25,g,7,g,0,g,2,g,3,g
+801,schlotzskys deli,angus beef and cheese sandwich small,19,g,75,mg,1010,g,54,g,30,g,10,g,0,g,3,g,4,g
+802,schlotzskys deli,apple juice,0,g,0,mg,15,g,21,g,0,g,0,g,0,g,0,g,1,g
+803,schlotzskys deli,bacon breakfast sandwiches half,10,g,125,mg,330,g,26,g,12,g,5,g,0,g,1,g,2,g
+804,schlotzskys deli,bacon breakfast sandwiches whole,21,g,255,mg,660,g,51,g,25,g,11,g,0,g,3,g,3,g
+805,schlotzskys deli,bacon burrito half,11,g,120,mg,530,g,21,g,11,g,5,g,0,g,2,g,3,g
+806,schlotzskys deli,bacon burrito whole,22,g,240,mg,1060,g,41,g,22,g,9,g,0,g,5,g,5,g
+807,schlotzskys deli,bacon grilled cheese sandwich,36,g,55,mg,1760,g,60,g,29,g,14,g,0,g,7,g,7,g
+808,schlotzskys deli,bacon grilled cheese sandwich pick 2,18,g,30,mg,880,g,30,g,14,g,7,g,0,g,3,g,3,g
+809,schlotzskys deli,bacon taco,14,g,125,mg,740,g,18,g,13,g,6,g,0,g,2,g,3,g
+810,schlotzskys deli,balsamic vinegar dressing,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+811,schlotzskys deli,bbq chicken and jalapeno pizza,21,g,100,mg,2820,g,148,g,46,g,11,g,0,g,5,g,19,g
+812,schlotzskys deli,bbq chicken and jalapeno pizza pick 2,11,g,50,mg,1410,g,74,g,23,g,6,g,0,g,3,g,10,g
+813,schlotzskys deli,bbq chips,13,g,0,mg,300,g,24,g,3,g,2,g,0,g,2,g,0,g
+814,schlotzskys deli,beef bacon smokecheesy sandwich large,108,g,395,mg,4590,g,150,g,144,g,41,g,0,g,3,g,11,g
+815,schlotzskys deli,beef bacon smokecheesy sandwich medium,43,g,160,mg,2060,g,77,g,65,g,18,g,0,g,3,g,4,g
+816,schlotzskys deli,beef bacon smokecheesy sandwich pick 2,22,g,80,mg,1030,g,39,g,33,g,9,g,0,g,2,g,2,g
+817,schlotzskys deli,beef bacon smokecheesy sandwich small,22,g,95,mg,1410,g,53,g,35,g,11,g,0,g,3,g,4,g
+818,schlotzskys deli,big s cookie chocolate chunk,27,g,40,mg,480,g,74,g,3,g,12,g,0,g,2,g,43,g
+819,schlotzskys deli,big s cookie toffee pretzel,26,g,35,mg,770,g,74,g,5,g,13,g,0,g,1,g,45,g
+820,schlotzskys deli,big s cookie white chocolate macadamia nut,28,g,35,mg,480,g,70,g,6,g,15,g,0,g,1,g,39,g
+821,schlotzskys deli,black eyed pea soup,22,g,60,mg,1230,g,42,g,15,g,11,g,0,g,0,g,3,g
+822,schlotzskys deli,blue cheese dressing,49,g,45,mg,760,g,3,g,6,g,11,g,0,g,0,g,3,g
+823,schlotzskys deli,bonbite,20,g,10,mg,410,g,69,g,8,g,9,g,0,g,4,g,38,g
+824,schlotzskys deli,bread stick,1,g,0,mg,60,g,7,g,1,g,0,g,0,g,0,g,0,g
+825,schlotzskys deli,brisketeer mac,49,g,170,mg,1540,g,69,g,57,g,30,g,0,g,4,g,2,g
+826,schlotzskys deli,brisketeer mac pick 2,24,g,85,mg,770,g,35,g,28,g,15,g,0,g,2,g,1,g
+827,schlotzskys deli,broccoli cheese soup,12,g,25,mg,1310,g,14,g,8,g,6,g,0,g,0,g,6,g
+828,schlotzskys deli,brownie,23,g,85,mg,240,g,46,g,5,g,11,g,0,g,3,g,30,g
+829,schlotzskys deli,buttermilk ranch dressing,33,g,30,mg,620,g,4,g,2,g,6,g,0,g,0,g,3,g
+830,schlotzskys deli,butternut squash soup,29,g,60,mg,990,g,29,g,6,g,12,g,0,g,0,g,20,g
+831,schlotzskys deli,caesar dressing,45,g,25,mg,850,g,2,g,4,g,8,g,0,g,0,g,0,g
+832,schlotzskys deli,california chicken avocado flatbread,49,g,105,mg,1170,g,49,g,41,g,14,g,0,g,7,g,2,g
+833,schlotzskys deli,california chicken avocado flatbread pick 2,25,g,55,mg,590,g,25,g,21,g,7,g,0,g,4,g,2,g
+834,schlotzskys deli,caramel pecanbon,51,g,65,mg,950,g,146,g,14,g,20,g,0,g,3,g,75,g
+835,schlotzskys deli,center of the roll cinnabon,34,g,50,mg,640,g,105,g,9,g,16,g,0,g,2,g,58,g
+836,schlotzskys deli,chicken and dumpling soup,4.5,g,45,mg,990,g,15,g,9,g,0,g,0,g,0,g,0,g
+837,schlotzskys deli,chicken and wild rice soup,14,g,55,mg,1180,g,25,g,13,g,7,g,0,g,0,g,3,g
+838,schlotzskys deli,chicken bacon smokecheesy sandwich large,89,g,425,mg,4740,g,145,g,162,g,34,g,0,g,3,g,6,g
+839,schlotzskys deli,chicken bacon smokecheesy sandwich medium,31,g,160,mg,2510,g,80,g,61,g,15,g,0,g,4,g,7,g
+840,schlotzskys deli,chicken bacon smokecheesy sandwich pick 2,16,g,80,mg,1260,g,40,g,31,g,8,g,0,g,2,g,4,g
+841,schlotzskys deli,chicken bacon smokecheesy sandwich small,30,g,85,mg,1180,g,51,g,34,g,13,g,0,g,2,g,2,g
+842,schlotzskys deli,chicken caesar salad,17,g,100,mg,1770,g,29,g,37,g,8,g,0,g,2,g,4,g
+843,schlotzskys deli,chicken caesar salad pick 2,14,g,50,mg,890,g,15,g,19,g,4,g,0,g,1,g,2,g
+844,schlotzskys deli,chicken noodle soup,3,g,45,mg,1260,g,18,g,9,g,0,g,0,g,0,g,3,g
+845,schlotzskys deli,chicken tortilla soup,16,g,45,mg,1290,g,27,g,13,g,6,g,0,g,1,g,3,g
+846,schlotzskys deli,chili timberline soup,21,g,55,mg,1110,g,27,g,17,g,9,g,0,g,6,g,9,g
+847,schlotzskys deli,chipotle angus sliders 2 pieces,36,g,130,mg,1340,g,38,g,40,g,20,g,0,g,0,g,12,g
+848,schlotzskys deli,chipotle angus sliders 4 pieces,72,g,260,mg,2680,g,76,g,80,g,40,g,0,g,0,g,24,g
+849,schlotzskys deli,chipotle chicken sandwich large,14,g,125,mg,3190,g,149,g,67,g,2.5,g,0,g,7,g,12,g
+850,schlotzskys deli,chipotle chicken sandwich medium,9,g,65,mg,1490,g,78,g,33,g,1,g,0,g,4,g,6,g
+851,schlotzskys deli,chipotle chicken sandwich pick 2,4.5,g,30,mg,750,g,39,g,17,g,0.5,g,0,g,2,g,3,g
+852,schlotzskys deli,chipotle chicken sandwich small,7,g,35,mg,850,g,53,g,19,g,1,g,0,g,3,g,4,g
+853,schlotzskys deli,chipotle shrimp flatbread,55,g,115,mg,680,g,49,g,26,g,10,g,0,g,4,g,2,g
+854,schlotzskys deli,chipotle shrimp flatbread pick 2,27,g,60,mg,340,g,24,g,13,g,5,g,0,g,2,g,1,g
+855,schlotzskys deli,classic brisket sandwich medium,30,g,120,mg,2200,g,84,g,50,g,15,g,0,g,4,g,5,g
+856,schlotzskys deli,classic brisket sandwich small,20,g,75,mg,1520,g,61,g,30,g,10,g,0,g,3,g,5,g
+857,schlotzskys deli,classic roll cinnabon,37,g,55,mg,820,g,127,g,13,g,17,g,0,g,2,g,58,g
+858,schlotzskys deli,classic roll cinnapack,41,g,60,mg,850,g,134,g,13,g,18,g,0,g,2,g,65,g
+859,schlotzskys deli,combination special pizza 10,38,g,75,mg,2040,g,119,g,35,g,14,g,0,g,7,g,6,g
+860,schlotzskys deli,combination special pizza 10 pick 2,19,g,40,mg,1020,g,60,g,18,g,7,g,0,g,4,g,3,g
+861,schlotzskys deli,cookies chocolate chip,7,g,10,mg,50,g,24,g,2,g,3.5,g,0,g,1,g,15,g
+862,schlotzskys deli,cookies oatmeal raisin,4.5,g,10,mg,50,g,24,g,2,g,2,g,0,g,1,g,10,g
+863,schlotzskys deli,cookies sugar,6,g,10,mg,65,g,23,g,2,g,3,g,0,g,0,g,12,g
+864,schlotzskys deli,corn chowder soup,35,g,115,mg,1780,g,27,g,8,g,20,g,0,g,3,g,6,g
+865,schlotzskys deli,cracked pepper chips,14,g,0,mg,290,g,24,g,3,g,2,g,0,g,2,g,1,g
+866,schlotzskys deli,cranberry apple and pecan chicken salad,27,g,80,mg,1220,g,68,g,34,g,7,g,0,g,7,g,40,g
+867,schlotzskys deli,cranberry apple and pecan chicken salad pick 2,14,g,40,mg,610,g,34,g,17,g,3.5,g,0,g,4,g,20,g
+868,schlotzskys deli,cuban brisket sandwich large,57,g,270,mg,5890,g,161,g,117,g,28,g,0,g,6,g,10,g
+869,schlotzskys deli,cuban brisket sandwich medium,30,g,145,mg,2870,g,75,g,58,g,15,g,0,g,3,g,5,g
+870,schlotzskys deli,cuban brisket sandwich pick 2,15,g,75,mg,1440,g,38,g,29,g,8,g,0,g,2,g,3,g
+871,schlotzskys deli,cuban brisket sandwich small,16,g,75,mg,1710,g,54,g,32,g,8,g,0,g,2,g,3,g
+872,schlotzskys deli,deluxe original sandwich large,95,g,370,mg,7850,g,156,g,114,g,42,g,0,g,8,g,15,g
+873,schlotzskys deli,deluxe original sandwich medium,47,g,170,mg,3820,g,81,g,56,g,19,g,0,g,5,g,9,g
+874,schlotzskys deli,deluxe original sandwich pick 2,24,g,85,mg,1910,g,41,g,28,g,10,g,0,g,3,g,5,g
+875,schlotzskys deli,deluxe original sandwich small,39,g,140,mg,2650,g,54,g,40,g,17,g,0,g,3,g,5,g
+876,schlotzskys deli,double cheese mac,43,g,135,mg,1190,g,69,g,44,g,27,g,0,g,3,g,3,g
+877,schlotzskys deli,double cheese mac pick 2,22,g,70,mg,600,g,35,g,22,g,14,g,0,g,2,g,2,g
+878,schlotzskys deli,double cheese mac side,20,g,65,mg,570,g,34,g,21,g,13,g,0,g,2,g,2,g
+879,schlotzskys deli,double cheese pizza 10,35,g,55,mg,2150,g,118,g,33,g,11,g,0,g,7,g,7,g
+880,schlotzskys deli,double cheese pizza 10 pick 2,14,g,30,mg,670,g,58,g,16,g,6,g,0,g,3,g,3,g
+881,schlotzskys deli,extra virgin olive oil dressing,14,g,0,mg,0,g,0,g,0,g,2,g,0,g,0,g,0,g
+882,schlotzskys deli,fat free raspberry dressing,0,g,0,mg,230,g,23,g,0,g,0,g,0,g,0,g,20,g
+883,schlotzskys deli,fiesta chicken sandwich large,59,g,245,mg,4200,g,153,g,95,g,27,g,0,g,7,g,14,g
+884,schlotzskys deli,fiesta chicken sandwich medium,31,g,130,mg,2080,g,78,g,49,g,15,g,0,g,5,g,7,g
+885,schlotzskys deli,fiesta chicken sandwich pick 2,16,g,65,mg,1040,g,39,g,25,g,8,g,0,g,3,g,4,g
+886,schlotzskys deli,fiesta chicken sandwich small,23,g,85,mg,1240,g,52,g,30,g,11,g,0,g,3,g,4,g
+887,schlotzskys deli,french dip sandwich,22,g,90,mg,1630,g,59,g,40,g,10,g,0,g,3,g,8,g
+888,schlotzskys deli,french dip sandwich pick 2,11,g,45,mg,810,g,30,g,20,g,5,g,0,g,2,g,4,g
+889,schlotzskys deli,french onion soup,11,g,30,mg,740,g,17,g,3,g,5,g,0,g,3,g,9,g
+890,schlotzskys deli,fresh kale and grilled chicken salad,29,g,255,mg,1220,g,52,g,38,g,9,g,0,g,7,g,34,g
+891,schlotzskys deli,fresh kale and grilled chicken salad pick 2,15,g,130,mg,610,g,26,g,19,g,4.5,g,0,g,4,g,17,g
+892,schlotzskys deli,fresh veggie pizza 10,35,g,55,mg,2150,g,118,g,33,g,11,g,0,g,7,g,7,g
+893,schlotzskys deli,fresh veggie pizza 10 pick 2,48,g,30,mg,1080,g,59,g,17,g,6,g,0,g,4,g,4,g
+894,schlotzskys deli,fresh veggie sandwich sandwich large,28,g,60,mg,1940,g,148,g,38,g,13,g,0,g,8,g,10,g
+895,schlotzskys deli,fresh veggie sandwich sandwich medium,14,g,30,mg,1050,g,74,g,20,g,7,g,0,g,5,g,5,g
+896,schlotzskys deli,fresh veggie sandwich sandwich pick 2,7,g,15,mg,530,g,37,g,10,g,3.5,g,0,g,3,g,3,g
+897,schlotzskys deli,fresh veggie sandwich sandwich small,10,g,20,mg,690,g,48,g,14,g,5,g,0,g,3,g,3,g
+898,schlotzskys deli,fuze tea sweet 12 oz,0,g,0,mg,35,g,25,g,0,g,0,g,0,g,0,g,25,g
+899,schlotzskys deli,fuze tea sweet 20 oz,0,g,0,mg,60,g,41,g,0,g,0,g,0,g,0,g,41,g
+900,schlotzskys deli,fuze tea sweet 32 oz,0,g,0,mg,95,g,66,g,0,g,0,g,0,g,0,g,66,g
+901,schlotzskys deli,fuze tea sweet 44 oz,0,g,0,mg,130,g,91,g,0,g,0,g,0,g,0,g,91,g
+902,schlotzskys deli,fuze tea unsweet 12 oz,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+903,schlotzskys deli,fuze tea unsweet 20 oz,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+904,schlotzskys deli,fuze tea unsweet 32 oz,0,g,0,mg,95,g,1,g,0,g,0,g,0,g,0,g,0,g
+905,schlotzskys deli,fuze tea unsweet 44 oz,0,g,0,mg,130,g,1,g,0,g,0,g,0,g,0,g,0,g
+906,schlotzskys deli,garden salad salad,1.5,g,0,mg,280,g,9,g,1,g,0,g,0,g,2,g,2,g
+907,schlotzskys deli,garden salad salad pick 2,0.5,g,0,mg,140,g,4,g,1,g,0,g,0,g,1,g,1,g
+908,schlotzskys deli,garden vegetable soup,0,g,0,mg,830,g,22,g,3,g,0,g,0,g,3,g,7,g
+909,schlotzskys deli,grilled chicken pesto pizza 10,29,g,95,mg,2060,g,114,g,47,g,11,g,0,g,6,g,4,g
+910,schlotzskys deli,grilled chicken pesto pizza 10 pick 2,15,g,50,mg,1030,g,57,g,24,g,6,g,0,g,3,g,2,g
+911,schlotzskys deli,ham and cheese original sandwich large,52,g,230,mg,5420,g,154,g,87,g,26,g,0,g,8,g,14,g
+912,schlotzskys deli,ham and cheese original sandwich medium,25,g,115,mg,2620,g,81,g,43,g,12,g,0,g,5,g,7,g
+913,schlotzskys deli,ham and cheese original sandwich pick 2,13,g,55,mg,1310,g,40,g,22,g,6,g,0,g,2,g,3,g
+914,schlotzskys deli,ham and cheese original sandwich small,17,g,70,mg,1470,g,53,g,27,g,9,g,0,g,3,g,4,g
+915,schlotzskys deli,ham breakfast sandwiches half,11,g,135,mg,530,g,25,g,15,g,6,g,0,g,1,g,1,g
+916,schlotzskys deli,ham breakfast sandwiches whole,22,g,270,mg,1070,g,50,g,30,g,11,g,0,g,2,g,2,g
+917,schlotzskys deli,ham burrito half,11,g,130,mg,850,g,22,g,14,g,5,g,0,g,2,g,3,g
+918,schlotzskys deli,ham burrito whole,21,g,265,mg,1700,g,44,g,29,g,9,g,0,g,5,g,7,g
+919,schlotzskys deli,ham taco,17,g,150,mg,720,g,18,g,16,g,6,g,0,g,2,g,3,g
+920,schlotzskys deli,hash brown,5,g,0,mg,0,g,8,g,1,g,0,g,0,g,1,g,0,g
+921,schlotzskys deli,honey dijon dressing,14,g,30,mg,790,g,28,g,0,g,3,g,0,g,0,g,28,g
+922,schlotzskys deli,horizon chocolate milk,2.5,g,15,mg,180,g,23,g,8,g,1.5,g,0,g,0,g,22,g
+923,schlotzskys deli,horizon milk horizon,2.5,g,10,mg,130,g,13,g,8,g,1.5,g,0,g,0,g,12,g
+924,schlotzskys deli,italian dressing,28,g,0,mg,850,g,3,g,0,g,4.5,g,0,g,0,g,3,g
+925,schlotzskys deli,italian shrimp and brisket flatbread,23,g,85,mg,1050,g,60,g,27,g,9,g,0,g,2,g,10,g
+926,schlotzskys deli,italian shrimp and brisket flatbread pick 2,11,g,45,mg,520,g,30,g,13,g,4.5,g,0,g,1,g,5,g
+927,schlotzskys deli,jalapeno chips,13,g,0,mg,360,g,24,g,3,g,2,g,0,g,2,g,2,g
+928,schlotzskys deli,kids apple slices,0,g,0,mg,0,g,15,g,0,g,0,g,0,g,0,g,12,g
+929,schlotzskys deli,kids cheese pizza,17,g,30,mg,960,g,78,g,18,g,5,g,0,g,4,g,4,g
+930,schlotzskys deli,kids chicken sandwich,1,g,15,mg,490,g,40,g,11,g,0,g,0,g,3,g,3,g
+931,schlotzskys deli,kids ham sandwich,2,g,15,mg,650,g,40,g,11,g,0,g,0,g,3,g,3,g
+932,schlotzskys deli,kids mac n cheese mini mac,23,g,70,mg,560,g,34,g,22,g,14,g,0,g,2,g,1,g
+933,schlotzskys deli,kids pepperoni pizza,22,g,40,mg,1160,g,78,g,20,g,7,g,0,g,4,g,4,g
+934,schlotzskys deli,kids turkey sandwich,1.5,g,10,mg,550,g,40,g,10,g,0,g,0,g,3,g,3,g
+935,schlotzskys deli,lays baked regular chips,4,g,0,mg,180,g,26,g,2,g,0,g,0,g,2,g,3,g
+936,schlotzskys deli,loaded potato soup,31,g,75,mg,1520,g,29,g,12,g,15,g,0,g,3,g,6,g
+937,schlotzskys deli,margherita flatbread,38,g,55,mg,1110,g,72,g,22,g,12,g,0,g,8,g,9,g
+938,schlotzskys deli,margherita flatbread pick 2,17,g,20,mg,510,g,35,g,8,g,4.5,g,0,g,4,g,4,g
+939,schlotzskys deli,minibon cinnabon,15,g,25,mg,330,g,51,g,5,g,7,g,0,g,1,g,23,g
+940,schlotzskys deli,mixed fruit,0,g,0,mg,5,g,6,g,0,g,0,g,0,g,1,g,6,g
+941,schlotzskys deli,orange juice,0,g,0,mg,15,g,18,g,1,g,0,g,0,g,0,g,14,g
+942,schlotzskys deli,pepperoni double cheese pizza,42,g,95,mg,2000,g,115,g,39,g,18,g,0,g,6,g,5,g
+943,schlotzskys deli,pepperoni double cheese pizza pick 2,21,g,50,mg,1000,g,58,g,20,g,9,g,0,g,3,g,3,g
+944,schlotzskys deli,poultry in motion mac,47,g,175,mg,1600,g,70,g,61,g,29,g,0,g,4,g,3,g
+945,schlotzskys deli,poultry in motion mac pick 2,24,g,85,mg,800,g,35,g,31,g,14,g,0,g,2,g,2,g
+946,schlotzskys deli,red wine vinaigrette dressing,43,g,0,mg,940,g,9,g,0,g,6,g,0,g,0,g,6,g
+947,schlotzskys deli,regular chips,15,g,0,mg,220,g,24,g,3,g,2,g,0,g,2,g,0,g
+948,schlotzskys deli,salsa,0,g,0,mg,260,g,4,g,1,g,0,g,0,g,1,g,0,g
+949,schlotzskys deli,salt and vinegar chips,13,g,0,mg,300,g,24,g,2,g,2,g,0,g,1,g,2,g
+950,schlotzskys deli,sausage breakfast sandwiches half,16,g,155,mg,480,g,24,g,18,g,7,g,0,g,1,g,1,g
+951,schlotzskys deli,sausage breakfast sandwiches whole,32,g,310,mg,960,g,49,g,36,g,14,g,0,g,2,g,2,g
+952,schlotzskys deli,sausage burrito half,15,g,145,mg,590,g,21,g,15,g,5,g,0,g,2,g,3,g
+953,schlotzskys deli,sausage burrito whole,31,g,290,mg,1180,g,41,g,29,g,11,g,0,g,5,g,5,g
+954,schlotzskys deli,sausage taco,13,g,40,mg,710,g,19,g,15,g,5,g,0,g,2,g,3,g
+955,schlotzskys deli,shrimply the best mac,45,g,210,mg,1160,g,71,g,56,g,28,g,0,g,4,g,3,g
+956,schlotzskys deli,shrimply the best mac pick 2,23,g,105,mg,580,g,35,g,28,g,14,g,0,g,2,g,2,g
+957,schlotzskys deli,smoked turkey breast sandwich large,14,g,105,mg,3670,g,152,g,58,g,3,g,0,g,9,g,11,g
+958,schlotzskys deli,smoked turkey breast sandwich medium,6,g,50,mg,1710,g,80,g,29,g,1,g,0,g,5,g,5,g
+959,schlotzskys deli,smoked turkey breast sandwich pick 2,3,g,25,mg,860,g,40,g,15,g,0.5,g,0,g,3,g,3,g
+960,schlotzskys deli,smoked turkey breast sandwich small,3.5,g,25,mg,940,g,53,g,16,g,0.5,g,0,g,3,g,3,g
+961,schlotzskys deli,smokey brisketeer mac,50,g,170,mg,1680,g,74,g,57,g,30,g,0,g,4,g,5,g
+962,schlotzskys deli,smoky brisketeer mac pick 2,25,g,85,mg,840,g,37,g,28,g,15,g,0,g,2,g,2,g
+963,schlotzskys deli,sour cream and onion chips,13,g,0,mg,340,g,23,g,3,g,2,g,0,g,1,g,2,g
+964,schlotzskys deli,southwestern chicken salad,29,g,120,mg,1260,g,44,g,46,g,13,g,0,g,8,g,6,g
+965,schlotzskys deli,southwestern chicken salad pick 2,14,g,60,mg,630,g,22,g,23,g,6,g,0,g,4,g,3,g
+966,schlotzskys deli,spicy brisket flatbread,63,g,110,mg,1430,g,48,g,41,g,20,g,0,g,3,g,2,g
+967,schlotzskys deli,spicy brisket flatbread pick 2,31,g,55,mg,710,g,24,g,21,g,10,g,0,g,1,g,1,g
+968,schlotzskys deli,sweet n sassy sliders 2 pieces,28,g,120,mg,1360,g,58,g,32,g,18,g,0,g,0,g,32,g
+969,schlotzskys deli,sweet n sassy sliders 4 pieces,56,g,240,mg,2720,g,116,g,64,g,36,g,0,g,0,g,64,g
+970,schlotzskys deli,the caprese sandwich,27,g,50,mg,1060,g,64,g,18,g,9,g,0,g,7,g,8,g
+971,schlotzskys deli,the caprese sandwich pick 2,14,g,25,mg,530,g,32,g,9,g,5,g,0,g,4,g,4,g
+972,schlotzskys deli,the classic brisket sandwich large,61,g,240,mg,4580,g,158,g,101,g,31,g,0,g,6,g,10,g
+973,schlotzskys deli,the classic brisket sandwich pick 2,15,g,60,mg,1100,g,42,g,25,g,8,g,0,g,2,g,3,g
+974,schlotzskys deli,the original sandwich large,69,g,235,mg,4880,g,150,g,80,g,32,g,0,g,8,g,12,g
+975,schlotzskys deli,the original sandwich medium,34,g,115,mg,2320,g,78,g,40,g,16,g,0,g,5,g,6,g
+976,schlotzskys deli,the original sandwich pick 2,17,g,60,mg,1160,g,39,g,20,g,8,g,0,g,3,g,3,g
+977,schlotzskys deli,the original sandwich small,27,g,90,mg,1610,g,52,g,28,g,12,g,0,g,3,g,3,g
+978,schlotzskys deli,the rancher sandwich large,74,g,255,mg,5540,g,152,g,102,g,33,g,0,g,9,g,8,g
+979,schlotzskys deli,the rancher sandwich medium,38,g,135,mg,2680,g,69,g,51,g,17,g,0,g,5,g,4,g
+980,schlotzskys deli,the rancher sandwich pick 2,19,g,70,mg,1340,g,35,g,26,g,9,g,0,g,3,g,2,g
+981,schlotzskys deli,the rancher sandwich small,25,g,85,mg,1600,g,51,g,32,g,12,g,0,g,3,g,3,g
+982,schlotzskys deli,the sicilian sandwich,43,g,130,mg,3040,g,42,g,42,g,18,g,0,g,2,g,5,g
+983,schlotzskys deli,the sicilian sandwich pick 2,22,g,65,mg,1520,g,21,g,21,g,9,g,0,g,1,g,2,g
+984,schlotzskys deli,the tuscan sandwich,35,g,100,mg,1820,g,49,g,43,g,9,g,0,g,7,g,5,g
+985,schlotzskys deli,the tuscan sandwich pick 2,18,g,50,mg,910,g,24,g,22,g,4.5,g,0,g,4,g,3,g
+986,schlotzskys deli,thousand island dressing,12,g,5,mg,220,g,5,g,0,g,2,g,0,g,0,g,4,g
+987,schlotzskys deli,tomato basil soup,26,g,65,mg,840,g,21,g,5,g,13,g,0,g,3,g,0,g
+988,schlotzskys deli,turkey and guacamole sandwich large,20,g,100,mg,3830,g,158,g,59,g,4.5,g,0,g,9,g,12,g
+989,schlotzskys deli,turkey and guacamole sandwich medium,11,g,50,mg,2000,g,78,g,31,g,2.5,g,0,g,6,g,6,g
+990,schlotzskys deli,turkey and guacamole sandwich pick 2,6,g,25,mg,1000,g,39,g,16,g,1.5,g,0,g,3,g,3,g
+991,schlotzskys deli,turkey and guacamole sandwich small,7,g,25,mg,1120,g,50,g,18,g,1.5,g,0,g,4,g,3,g
+992,schlotzskys deli,turkey avocado cobb salad,33,g,250,mg,1880,g,42,g,38,g,10,g,0,g,12,g,8,g
+993,schlotzskys deli,turkey avocado cobb salad pick 2,17,g,125,mg,940,g,21,g,19,g,5,g,0,g,6,g,4,g
+994,schlotzskys deli,turkey bacon club sandwich large,56,g,225,mg,4850,g,153,g,91,g,27,g,0,g,9,g,11,g
+995,schlotzskys deli,turkey bacon club sandwich medium,30,g,115,mg,2410,g,81,g,47,g,14,g,0,g,6,g,6,g
+996,schlotzskys deli,turkey bacon club sandwich pick 2,15,g,60,mg,1210,g,41,g,24,g,7,g,0,g,3,g,3,g
+997,schlotzskys deli,turkey bacon club sandwich small,20,g,70,mg,1370,g,54,g,29,g,10,g,0,g,4,g,4,g
+998,schlotzskys deli,turkey original sandwich large,67,g,260,mg,5360,g,157,g,94,g,31,g,0,g,10,g,13,g
+999,schlotzskys deli,turkey original sandwich medium,33,g,130,mg,2570,g,81,g,47,g,15,g,0,g,6,g,6,g

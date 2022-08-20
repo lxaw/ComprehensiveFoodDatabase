@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,kwik trip,pepper jack cheese plank,15,g,50,mg,410,g,0,g,13,g,11,g,0,g,0,g,0,g
+1,kwik trip,peppermint mocha franke 12 fl oz,3,g,10,mg,230,g,47,g,8,g,2,g,0,g,1,g,43,g
+2,kwik trip,peppermint mocha franke 16 fl oz,4,g,15,mg,310,g,66,g,10,g,2.5,g,0,g,1,g,60,g
+3,kwik trip,peppermint mocha franke refill,3.5,g,15,mg,260,g,57,g,9,g,2.5,g,0,g,1,g,52,g
+4,kwik trip,peppermint syrup,0,g,0,mg,0,g,22,g,0,g,0,g,0,g,0,g,22,g
+5,kwik trip,persian with chocolate flavored icing,30,g,0,mg,490,g,52,g,6,g,13,g,0,g,2,g,16,g
+6,kwik trip,persian with chocolate flavored icing and andes mints,34,g,0,mg,490,g,59,g,7,g,16,g,0,g,2,g,22,g
+7,kwik trip,persian with chocolate flavored icing and cookies n cream,32,g,0,mg,530,g,60,g,7,g,13,g,0,g,2,g,20,g
+8,kwik trip,persian with chocolate flavored icing and kit kat,35,g,0,mg,500,g,64,g,7,g,16,g,0.5,g,2,g,25,g
+9,kwik trip,persian with chocolate flavored icing and mandms,32,g,0,mg,490,g,60,g,7,g,14,g,0,g,2,g,23,g
+10,kwik trip,persian with chocolate flavored icing and maple flavored drizzle,30,g,0,mg,490,g,60,g,6,g,13,g,0,g,2,g,22,g
+11,kwik trip,persian with chocolate flavored icing and peanut butter cups,33,g,0,mg,530,g,59,g,7,g,14,g,0,g,2,g,21,g
+12,kwik trip,persian with chocolate flavored icing and peanuts,36,g,0,mg,500,g,56,g,9,g,14,g,0,g,3,g,17,g
+13,kwik trip,persian with chocolate flavored icing and reeses pieces,32,g,0,mg,500,g,59,g,7,g,15,g,0.5,g,2,g,21,g
+14,kwik trip,persian with chocolate flavored icing and smores,33,g,5,mg,510,g,60,g,7,g,15,g,0.5,g,2,g,21,g
+15,kwik trip,persian with chocolate flavored icing and snickers,32,g,0,mg,510,g,59,g,7,g,13,g,0,g,2,g,21,g
+16,kwik trip,persian with chocolate flavored icing and snow white drizzle,30,g,0,mg,490,g,63,g,6,g,13,g,0,g,2,g,25,g
+17,kwik trip,persian with cinnamon roll frosting,33,g,0,mg,510,g,62,g,6,g,14,g,0,g,1,g,26,g
+18,kwik trip,persian with cinnamon roll frosting and andes mints,37,g,0,mg,520,g,69,g,7,g,17,g,0,g,2,g,32,g
+19,kwik trip,persian with cinnamon roll frosting and chocolate flavored drizzle,34,g,0,mg,520,g,66,g,6,g,14,g,0,g,2,g,29,g
+20,kwik trip,persian with cinnamon roll frosting and cookies n cream,25,g,0,mg,560,g,70,g,7,g,15,g,0,g,2,g,30,g
+21,kwik trip,persian with cinnamon roll frosting and kit kat,38,g,0,mg,520,g,73,g,7,g,17,g,0,g,2,g,35,g
+22,kwik trip,persian with cinnamon roll frosting and mandms,35,g,0,mg,520,g,70,g,7,g,15,g,0,g,2,g,33,g
+23,kwik trip,persian with cinnamon roll frosting and maple flavored drizzle,33,g,0,mg,510,g,69,g,6,g,14,g,0,g,1,g,33,g
+24,kwik trip,persian with cinnamon roll frosting and peanut butter cups,36,g,0,mg,550,g,68,g,7,g,15,g,0,g,2,g,31,g
+25,kwik trip,persian with cinnamon roll frosting and peanuts,38,g,0,mg,510,g,65,g,9,g,15,g,0,g,2,g,26,g
+26,kwik trip,persian with cinnamon roll frosting and reeses pieces,36,g,0,mg,520,g,69,g,7,g,16,g,0,g,2,g,31,g
+27,kwik trip,persian with cinnamon roll frosting and smores,36,g,5,mg,530,g,69,g,6,g,16,g,0,g,2,g,31,g
+28,kwik trip,persian with cinnamon roll frosting and snickers,35,g,0,mg,540,g,69,g,7,g,15,g,0,g,2,g,31,g
+29,kwik trip,persian with maple cream frosting,30,g,0,mg,480,g,63,g,6,g,13,g,0,g,1,g,26,g
+30,kwik trip,persian with maple cream frosting and chocolate flavored drizzle,31,g,0,mg,490,g,67,g,6,g,13,g,0,g,2,g,30,g
+31,kwik trip,persian with maple cream frosting and peanuts,36,g,0,mg,480,g,65,g,9,g,13,g,0,g,2,g,27,g
+32,kwik trip,persian with maple flavored icing,27,g,0,mg,460,g,57,g,6,g,11,g,0,g,1,g,21,g
+33,kwik trip,persian with maple flavored icing and andes mints,31,g,0,mg,460,g,63,g,7,g,15,g,0,g,2,g,27,g
+34,kwik trip,persian with maple flavored icing and chocolate flavored drizzle,28,g,0,mg,470,g,61,g,6,g,12,g,0,g,2,g,25,g
+35,kwik trip,persian with maple flavored icing and cookies n cream,29,g,0,mg,500,g,65,g,7,g,12,g,0,g,2,g,25,g
+36,kwik trip,persian with maple flavored icing and kit kat,32,g,0,mg,470,g,68,g,7,g,14,g,0,g,2,g,30,g
+37,kwik trip,persian with maple flavored icing and mandms,29,g,0,mg,470,g,65,g,7,g,13,g,0,g,2,g,28,g
+38,kwik trip,persian with maple flavored icing and peanut butter cups,31,g,0,mg,500,g,63,g,7,g,112,g,0,g,2,g,27,g
+39,kwik trip,persian with maple flavored icing and peanuts,33,g,0,mg,460,g,59,g,9,g,12,g,0,g,2,g,21,g
+40,kwik trip,persian with maple flavored icing and reeses pieces,30,g,0,mg,470,g,64,g,7,g,13,g,0,g,2,g,27,g
+41,kwik trip,persian with maple flavored icing and smores,31,g,5,mg,480,g,64,g,6,g,14,g,0,g,2,g,26,g
+42,kwik trip,persian with maple flavored icing and snickers,30,g,0,mg,480,g,64,g,7,g,12,g,0,g,2,g,27,g
+43,kwik trip,persian with maple flavored icing and snow white drizzle,28,g,0,mg,460,g,67,g,6,g,11,g,0,g,1,g,31,g
+44,kwik trip,persian with snow white icing,27,g,0,mg,460,g,57,g,6,g,11,g,0,g,1,g,21,g
+45,kwik trip,persian with snow white icing and andes mints,31,g,0,mg,460,g,64,g,7,g,15,g,0,g,2,g,27,g
+46,kwik trip,persian with snow white icing and chocolate flavored drizzle,28,g,0,mg,470,g,61,g,6,g,12,g,0,g,2,g,25,g
+47,kwik trip,persian with snow white icing and cookies n cream,29,g,0,mg,500,g,65,g,7,g,12,g,0,g,2,g,26,g
+48,kwik trip,persian with snow white icing and kit kat,32,g,0,mg,470,g,69,g,7,g,14,g,0,g,2,g,30,g
+49,kwik trip,persian with snow white icing and mandms,29,g,0,mg,470,g,65,g,7,g,13,g,0,g,2,g,28,g
+50,kwik trip,persian with snow white icing and maple flavored drizzle,28,g,0,mg,460,g,65,g,6,g,11,g,0,g,1,g,28,g
+51,kwik trip,persian with snow white icing and peanut butter cups,31,g,0,mg,500,g,64,g,7,g,12,g,0,g,2,g,27,g
+52,kwik trip,persian with snow white icing and peanuts,33,g,0,mg,460,g,60,g,9,g,12,g,0,g,2,g,22,g
+53,kwik trip,persian with snow white icing and reeses pieces,30,g,0,mg,470,g,64,g,7,g,14,g,0,g,2,g,27,g
+54,kwik trip,persian with snow white icing and smores,31,g,5,mg,480,g,65,g,6,g,14,g,0,g,2,g,27,g
+55,kwik trip,persian with snow white icing and snickers,30,g,0,mg,480,g,64,g,7,g,12,g,0,g,2,g,27,g
+56,kwik trip,philly steak melt,31,g,100,mg,630,g,44,g,35,g,13,g,0,g,2,g,5,g
+57,kwik trip,philly steak skillet base,65,g,480,mg,1230,g,48,g,34,g,26,g,1.5,g,5,g,4,g
+58,kwik trip,pickle slices,0,g,0,mg,20,g,1,g,0,g,0,g,0,g,0,g,0,g
+59,kwik trip,pineapple,0,g,0,mg,0,g,22,g,1,g,0,g,0,g,2,g,17,g
+60,kwik trip,pistachio muffin,31,g,105,mg,500,g,62,g,7,g,6,g,0,g,1,g,35,g
+61,kwik trip,plain bagel,1,g,0,mg,500,g,63,g,13,g,0,g,0,g,2,g,3,g
+62,kwik trip,pork and vegetable egg roll,9,g,10,mg,490,g,20,g,7,g,2.5,g,0,g,2,g,3,g
+63,kwik trip,premium tartar sauce,17,g,25,mg,220,g,3,g,0,g,3,g,0,g,0,g,2,g
+64,kwik trip,pulled bbq chicken,12,g,60,mg,1330,g,22,g,15,g,3.5,g,0,g,0,g,20,g
+65,kwik trip,pulled bbq chicken sandwich,15,g,60,mg,1660,g,56,g,20,g,4,g,0,g,1,g,23,g
+66,kwik trip,pumpkin bar with cinnamon roll frosting,25,g,60,mg,360,g,66,g,4,g,7,g,0,g,1,g,49,g
+67,kwik trip,pumpkin bar with maple cream frosting,22,g,60,mg,330,g,68,g,4,g,6,g,0,g,1,g,51,g
+68,kwik trip,pumpkin cake donut,15,g,10,mg,270,g,22,g,2,g,7,g,0,g,1,g,7,g
+69,kwik trip,pumpkin cake donut with chocolate flavored drizzle,16,g,10,mg,270,g,24,g,2,g,7,g,0,g,1,g,9,g
+70,kwik trip,pumpkin cake donut with chocolate flavored icing,16,g,10,mg,280,g,27,g,2,g,7,g,0,g,1,g,12,g
+71,kwik trip,pumpkin cake donut with chocolate flavored icing and maple flavored drizzle,17,g,10,mg,280,g,31,g,2,g,7,g,0,g,1,g,16,g
+72,kwik trip,pumpkin cake donut with chocolate flavored icing and snow white drizzle,17,g,10,mg,280,g,31,g,2,g,7,g,0,g,1,g,16,g
+73,kwik trip,pumpkin cake donut with chocolate flavored icing and sprinkles,18,g,10,mg,280,g,34,g,2,g,9,g,0,g,1,g,16,g
+74,kwik trip,pumpkin cake donut with cinnamon roll frosting,17,g,10,mg,280,g,29,g,2,g,7,g,0,g,1,g,14,g
+75,kwik trip,pumpkin cake donut with cinnamon roll frosting and maple flavored drizzle,17,g,10,mg,280,g,33,g,2,g,7,g,0,g,1,g,18,g
+76,kwik trip,pumpkin cake donut with maple cream frosting,16,g,10,mg,280,g,31,g,2,g,7,g,0,g,1,g,16,g
+77,kwik trip,pumpkin cake donut with maple flavored drizzle,15,g,10,mg,270,g,26,g,2,g,7,g,0,g,1,g,11,g
+78,kwik trip,pumpkin cake donut with maple flavored icing,16,g,10,mg,270,g,32,g,2,g,7,g,0,g,1,g,17,g
+79,kwik trip,pumpkin cake donut with maple flavored icing and snow white drizzle,16,g,10,mg,270,g,36,g,2,g,7,g,0,g,1,g,21,g
+80,kwik trip,pumpkin cake donut with powdered sugar,15,g,10,mg,270,g,23,g,2,g,7,g,0,g,1,g,8,g
+81,kwik trip,pumpkin cake donut with snow white drizzle,15,g,10,mg,270,g,26,g,2,g,7,g,0,g,1,g,11,g
+82,kwik trip,pumpkin cake donut with snow white icing,16,g,10,mg,270,g,31,g,2,g,7,g,0,g,1,g,16,g
+83,kwik trip,pumpkin cake donut with snow white icing and maple flavored drizzle,16,g,10,mg,270,g,35,g,2,g,7,g,0,g,1,g,19,g
+84,kwik trip,pumpkin cake donut with snow white icing and sprinkles,17,g,10,mg,270,g,38,g,2,g,8,g,0,g,1,g,20,g
+85,kwik trip,pumpkin muffin,26,g,100,mg,480,g,63,g,6,g,5,g,0,g,1,g,34,g
+86,kwik trip,pumpkin spice syrup,0,g,0,mg,80,g,22,g,0,g,0,g,0,g,0,g,22,g
+87,kwik trip,raisin oatmeal cookie,9,g,15,mg,350,g,35,g,3,g,4.5,g,0,g,1,g,19,g
+88,kwik trip,ranch dispenser,12,g,10,mg,250,g,2,g,0,g,2,g,0,g,0,g,1,g
+89,kwik trip,ranch dressing,34,g,30,mg,450,g,2,g,2,g,5,g,0,g,0,g,2,g
+90,kwik trip,ranch sauce cup,23,g,20,mg,470,g,4,g,0,g,3.5,g,0,g,0,g,2,g
+91,kwik trip,ranchero beef steak and cheese tornado,6,g,10,mg,340,g,24,g,8,g,1.5,g,0,g,1,g,1,g
+92,kwik trip,raspberry danish with snow white drizzle,17,g,25,mg,310,g,47,g,5,g,10,g,0,g,1,g,23,g
+93,kwik trip,raspberry turnover with chocolate flavored drizzle,26,g,0,mg,220,g,41,g,4,g,12,g,0,g,1,g,20,g
+94,kwik trip,raspberry turnover with snow white drizzle,25,g,0,mg,210,g,48,g,4,g,12,g,0,g,1,g,27,g
+95,kwik trip,real mayonnaise heinz packet,8,g,5,mg,80,g,1,g,0,g,1.5,g,0,g,0,g,0,g
+96,kwik trip,real sugar sweetener,0,g,0,mg,0,g,26,g,0,g,0,g,0,g,0,g,26,g
+97,kwik trip,regular hot dog,13,g,35,mg,410,g,2,g,5,g,5,g,0,g,0,g,1,g
+98,kwik trip,salted caramel cookie,13,g,10,mg,200,g,33,g,2,g,6,g,0,g,1,g,24,g
+99,kwik trip,sausage and pepperoni pizza burrito,17,g,35,mg,970,g,34,g,14,g,9,g,0,g,1,g,3,g
+100,kwik trip,sausage link,28,g,50,mg,440,g,1,g,8,g,9,g,0,g,0,g,0,g
+101,kwik trip,sausage patties,33,g,65,mg,560,g,1,g,11,g,11,g,0,g,0,g,1,g
+102,kwik trip,sausage patty,33,g,65,mg,560,g,1,g,11,g,11,g,0,g,0,g,1,g
+103,kwik trip,sausage egg and cheese biscuit,41,g,150,mg,1610,g,33,g,17,g,21,g,0,g,1,g,6,g
+104,kwik trip,sausage egg and cheese breakfast rollers,9,g,70,mg,530,g,20,g,9,g,3,g,0,g,1,g,1,g
+105,kwik trip,sausage egg and cheese croissant,31,g,140,mg,850,g,28,g,16,g,13,g,0,g,1,g,4,g
+106,kwik trip,sausage egg and cheese muffin,24,g,140,mg,890,g,31,g,18,g,9,g,0,g,1,g,2,g
+107,kwik trip,sausage egg and cheese tornado,9,g,30,mg,290,g,22,g,6,g,2,g,0,g,0,g,1,g
+108,kwik trip,seasoned potato wedges,11,g,0,mg,790,g,37,g,4,g,1.5,g,0,g,3,g,1,g
+109,kwik trip,sharp cheese sauce,4.5,g,0,mg,530,g,6,g,0,g,2.5,g,0,g,0,g,1,g
+110,kwik trip,skim milk,0,g,0,mg,10,g,1,g,1,g,0,g,0,g,0,g,1,g
+111,kwik trip,sliced jalapenos,0,g,0,mg,250,g,1,g,0,g,0,g,0,g,0,g,0,g
+112,kwik trip,smoked low moisture part skim mozzarella cheese string cheese stick,6,g,15,mg,200,g,0,g,7,g,3.5,g,0,g,0,g,0,g
+113,kwik trip,smokin sweet sauce and dip cup,17,g,15,mg,340,g,18,g,1,g,2.5,g,0,g,1,g,16,g
+114,kwik trip,smoky bourbon rollerbite,9,g,35,mg,640,g,18,g,11,g,2.5,g,0,g,1,g,4,g
+115,kwik trip,sour cream,4,g,15,mg,5,g,1,g,1,g,2,g,0,g,0,g,1,g
+116,kwik trip,sourdough,9,g,15,mg,330,g,38,g,6,g,3.5,g,0,g,0,g,2,g
+117,kwik trip,southwest chicken egg roll,6,g,5,mg,530,g,25,g,6,g,1.5,g,0,g,2,g,2,g
+118,kwik trip,southwest chicken tornado,6,g,10,mg,330,g,24,g,6,g,1.5,g,0,g,1,g,1,g
+119,kwik trip,southwest egg roll,6,g,5,mg,530,g,25,g,6,g,1.5,g,0,g,2,g,2,g
+120,kwik trip,spicy chicken sandwich with cheese,23,g,75,mg,1500,g,46,g,25,g,7,g,0,g,1,g,4,g
+121,kwik trip,steak ranchero burrito,14,g,35,mg,960,g,34,g,16,g,8,g,0,g,1,g,3,g
+122,kwik trip,steamer concordia 12 fl oz,2.5,g,10,mg,120,g,13,g,8,g,1.5,g,0,g,0,g,12,g
+123,kwik trip,steamer concordia 16 fl oz,3.5,g,15,mg,170,g,18,g,11,g,2,g,0,g,0,g,16,g
+124,kwik trip,steamer with caramel flavor concordia 12 fl oz,2.5,g,10,mg,190,g,41,g,8,g,1.5,g,0,g,0,g,40,g
+125,kwik trip,steamer with caramel flavor concordia 16 fl oz,3.5,g,15,mg,300,g,74,g,11,g,2,g,0,g,0,g,73,g
+126,kwik trip,steamer with hazelnut flavor concordia 12 fl oz,2.5,g,10,mg,120,g,40,g,8,g,1.5,g,0,g,0,g,39,g
+127,kwik trip,steamer with hazelnut flavor concordia 16 fl oz,3.5,g,15,mg,170,g,71,g,11,g,2,g,0,g,0,g,70,g
+128,kwik trip,steamer with sugar free vanilla flavor concordia 12 fl oz,2.5,g,10,mg,120,g,13,g,8,g,1.5,g,0,g,0,g,12,g
+129,kwik trip,steamer with sugar free vanilla flavor concordia 16 fl oz,3.5,g,15,mg,170,g,18,g,11,g,2,g,0,g,0,g,16,g
+130,kwik trip,steamer with vanilla flavor concordia 12 fl oz,2.5,g,10,mg,120,g,42,g,8,g,1.5,g,0,g,0,g,41,g
+131,kwik trip,steamer with vanilla flavor concordia 16 fl oz,3.5,g,15,mg,170,g,76,g,11,g,2,g,0,g,0,g,75,g
+132,kwik trip,store fried chicken 2 piece breast and wing,14,g,110,mg,490,g,12,g,33,g,2.5,g,0,g,0,g,1,g
+133,kwik trip,store fried chicken 2 piece drumstick and thigh,17,g,95,mg,840,g,12,g,21,g,4,g,0,g,0,g,0,g
+134,kwik trip,store fried chicken 4 piece half chicken,10,g,70,mg,440,g,8,g,18,g,2,g,0,g,0,g,0,g
+135,kwik trip,store fried chicken 8 piece,10,g,70,mg,440,g,8,g,18,g,2,g,0,g,0,g,0,g
+136,kwik trip,store fried chicken breast,11,g,85,mg,390,g,10,g,26,g,2,g,0,g,0,g,1,g
+137,kwik trip,store fried chicken drumstick,6,g,35,mg,300,g,4,g,7,g,1.5,g,0,g,0,g,0,g
+138,kwik trip,store fried chicken tender wrap,19,g,100,mg,900,g,31,g,31,g,6,g,0,g,1,g,2,g
+139,kwik trip,store fried chicken tenders and wedges 2 piece,35,g,175,mg,1740,g,65,g,56,g,6,g,0,g,4,g,3,g
+140,kwik trip,store fried chicken tenders 3 piece,11,g,85,mg,380,g,10,g,25,g,2,g,0,g,0,g,1,g
+141,kwik trip,store fried chicken tenders 8 piece,11,g,85,mg,380,g,10,g,25,g,2,g,0,g,0,g,1,g
+142,kwik trip,store fried chicken thigh,11,g,60,mg,540,g,8,g,13,g,2.5,g,0,g,0,g,0,g
+143,kwik trip,store fried chicken wing,3,g,25,mg,105,g,3,g,7,g,0.5,g,0,g,0,g,0,g
+144,kwik trip,store fried pulled fried chicken,10,g,70,mg,440,g,8,g,18,g,2,g,0,g,0,g,0,g
+145,kwik trip,stuffed soft pretzel filled with cheddar cheese,12,g,35,mg,830,g,76,g,16,g,6,g,0,g,2,g,3,g
+146,kwik trip,stuffed soft pretzel filled with jalapeno n cheese,10,g,25,mg,860,g,73,g,15,g,4.5,g,0,g,2,g,4,g
+147,kwik trip,stuffed soft pretzel filled with sweet cream cheese,11,g,25,mg,610,g,83,g,13,g,6,g,0,g,2,g,10,g
+148,kwik trip,sugar free caramel syrup,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+149,kwik trip,sugared molasses cookie,12,g,10,mg,280,g,35,g,2,g,6,g,0,g,0,g,17,g
+150,kwik trip,sure shot flavors,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+151,kwik trip,sweet and sour sauce packet,0,g,0,mg,30,g,4,g,0,g,0,g,0,g,0,g,1,g
+152,kwik trip,sweet relish,0,g,0,mg,70,g,3,g,0,g,0,g,0,g,0,g,3,g
+153,kwik trip,sweetened brewed tea,0,g,0,mg,40,g,61,g,0,g,0,g,0,g,0,g,61,g
+154,kwik trip,swiss rye,8,g,15,mg,390,g,27,g,5,g,4.5,g,0,g,1,g,1,g
+155,kwik trip,tartar sauce,15,g,5,mg,310,g,6,g,0,g,2,g,0,g,0,g,1,g
+156,kwik trip,tartar sauce heinz packet,4.5,g,5,mg,120,g,1,g,0,g,0.5,g,0,g,0,g,1,g
+157,kwik trip,toasted marshmallow syrup,0,g,0,mg,0,g,23,g,0,g,0,g,0,g,0,g,22,g
+158,kwik trip,tomato ketchup heinz packet,0,g,0,mg,95,g,3,g,0,g,0,g,0,g,0,g,2,g
+159,kwik trip,tomato slice,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+160,kwik trip,triple chocolate bismark,22,g,0,mg,410,g,59,g,6,g,9,g,0,g,2,g,29,g
+161,kwik trip,triple chocolate bismark with andes mints,26,g,0,mg,420,g,66,g,6,g,12,g,0,g,2,g,35,g
+162,kwik trip,triple chocolate bismark with cookies n cream pieces,26,g,0,mg,460,g,70,g,7,g,10,g,0,g,2,g,30,g
+163,kwik trip,triple chocolate bismark with kit kat,25,g,0,mg,420,g,68,g,6,g,11,g,0,g,2,g,36,g
+164,kwik trip,triple chocolate bismark with mandms,26,g,0,mg,430,g,70,g,7,g,11,g,0,g,2,g,33,g
+165,kwik trip,triple chocolate bismark with peanut butter cups,25,g,0,mg,450,g,65,g,7,g,10,g,0,g,2,g,35,g
+166,kwik trip,triple chocolate bismark with peanuts,30,g,0,mg,420,g,64,g,9,g,11,g,0,g,3,g,26,g
+167,kwik trip,triple chocolate bismark with reeses pieces,26,g,0,mg,430,g,68,g,7,g,12,g,0,g,2,g,31,g
+168,kwik trip,triple chocolate bismark with smores,25,g,5,mg,430,g,66,g,6,g,12,g,0,g,2,g,35,g
+169,kwik trip,triple chocolate bismark with snickers,24,g,0,mg,440,g,66,g,7,g,10,g,0,g,2,g,35,g
+170,kwik trip,triple chocolate bismark with snow white drizzle,22,g,0,mg,410,g,64,g,6,g,9,g,0,g,2,g,34,g
+171,kwik trip,triple chocolate bismark with sprinkles,24,g,0,mg,440,g,65,g,6,g,10,g,0,g,2,g,32,g
+172,kwik trip,turkey dinner,20,g,100,mg,2000,g,73,g,56,g,5,g,1,g,6,g,23,g
+173,kwik trip,twist low moisture part skim mozzarella cheese string cheese stick,6,g,15,mg,200,g,0,g,7,g,3.5,g,0,g,0,g,0,g
+174,kwik trip,unsweetened brewed tea,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+175,kwik trip,vanilla americano with milk franke 12 fl oz,1.5,g,5,mg,110,g,26,g,3,g,1,g,0,g,0,g,21,g
+176,kwik trip,vanilla americano with milk franke 16 fl oz,2,g,5,mg,160,g,38,g,5,g,1,g,0,g,0,g,31,g
+177,kwik trip,vanilla americano with milk franke refill,1.5,g,5,mg,140,g,35,g,4,g,1,g,0,g,0,g,28,g
+178,kwik trip,vanilla chai latte franke 12 fl oz,2,g,10,mg,140,g,29,g,8,g,1.5,g,0,g,0,g,28,g
+179,kwik trip,vanilla chai latte franke 16 fl oz,3,g,15,mg,190,g,42,g,10,g,2,g,0,g,0,g,40,g
+180,kwik trip,vanilla chai latte franke refill,2.5,g,15,mg,170,g,38,g,9,g,2,g,0,g,0,g,36,g
+181,kwik trip,vanilla latte franke 12 fl oz,2.5,g,10,mg,150,g,31,g,8,g,1.5,g,0,g,0,g,28,g
+182,kwik trip,vanilla latte franke 16 fl oz,3.5,g,15,mg,210,g,40,g,11,g,2,g,0,g,0,g,41,g
+183,kwik trip,vanilla latte franke refill,3,g,15,mg,200,g,41,g,10,g,2,g,0,g,0,g,37,g
+184,kwik trip,vanilla mocha franke 12 fl oz,3,g,10,mg,260,g,48,g,8,g,2,g,0,g,1,g,42,g
+185,kwik trip,vanilla mocha franke 16 fl oz,4,g,15,mg,370,g,69,g,10,g,2.5,g,0,g,1,g,60,g
+186,kwik trip,vanilla mocha franke refill,3.5,g,15,mg,310,g,60,g,9,g,2.5,g,0,g,1,g,53,g
+187,kwik trip,vanilla steamer franke 12 fl oz,2.5,g,15,mg,160,g,32,g,9,g,2,g,0,g,0,g,30,g
+188,kwik trip,vanilla steamer franke 16 fl oz,3.5,g,20,mg,220,g,45,g,13,g,2.5,g,0,g,0,g,43,g
+189,kwik trip,vanilla steamer franke refill,3.5,g,15,mg,200,g,42,g,12,g,2,g,0,g,0,g,40,g
+190,kwik trip,vanilla topper,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+191,kwik trip,waffle breakfast sandwich,40,g,155,mg,1060,g,47,g,15,g,16,g,0,g,1,g,21,g
+192,kwik trip,walnut brownie unfrosted,14,g,0,mg,260,g,50,g,5,g,2,g,0,g,1,g,33,g
+193,kwik trip,walnut brownie with chocolate flavored icing,19,g,0,mg,300,g,69,g,5,g,4,g,0,g,1,g,50,g
+194,kwik trip,walnut brownie with chocolate flavored icing and maple flavored drizzle,19,g,0,mg,300,g,73,g,5,g,4.5,g,0,g,1,g,54,g
+195,kwik trip,walnut brownie with chocolate flavored icing and snow white drizzle,19,g,0,mg,300,g,74,g,5,g,4.5,g,0,g,1,g,55,g
+196,kwik trip,walnut brownie with chocolate flavored icing and sprinkles,20,g,0,mg,300,g,73,g,5,g,5,g,0,g,1,g,52,g
+197,kwik trip,walnut brownie with cinnamon roll frosting,19,g,0,mg,300,g,68,g,5,g,4.5,g,0,g,1,g,50,g
+198,kwik trip,walnut brownie with maple cream frosting,17,g,0,mg,290,g,72,g,5,g,3.5,g,0,g,1,g,54,g
+199,kwik trip,walnut brownie with powdered sugar,15,g,0,mg,260,g,53,g,5,g,2.5,g,0,g,1,g,35,g
+200,kwik trip,wedges,42,g,0,mg,1110,g,36,g,3,g,7,g,1,g,3,g,1,g
+201,kwik trip,western omelette bagel with ham and cheese,14,g,310,mg,1260,g,49,g,28,g,6,g,0,g,2,g,5,g
+202,kwik trip,western omelette croissant with cheese,21,g,290,mg,770,g,30,g,16,g,8,g,0,g,2,g,5,g
+203,kwik trip,white americano concordia 12 fl oz,1,g,5,mg,50,g,5,g,3,g,0.5,g,0,g,0,g,5,g
+204,kwik trip,white americano concordia 16 fl oz,1,g,5,mg,50,g,5,g,3,g,0.5,g,0,g,0,g,5,g
+205,kwik trip,white americano with caramel flavor concordia 12 fl oz,1,g,5,mg,120,g,34,g,3,g,0.5,g,0,g,0,g,33,g
+206,kwik trip,white americano with caramel flavor concordia 16 fl oz,1,g,5,mg,190,g,62,g,3,g,0.5,g,0,g,0,g,61,g
+207,kwik trip,white americano with hazelnut flavor concordia 12 fl oz,1,g,5,mg,50,g,32,g,3,g,0.5,g,0,g,0,g,32,g
+208,kwik trip,white americano with hazelnut flavor concordia 16 fl oz,1,g,5,mg,50,g,54,g,3,g,0.5,g,0,g,0,g,54,g
+209,kwik trip,white americano with sugar free vanilla flavor concordia 12 fl oz,1,g,5,mg,50,g,5,g,3,g,0.5,g,0,g,0,g,5,g
+210,kwik trip,white americano with sugar free vanilla flavor concordia 16 fl oz,1,g,5,mg,50,g,5,g,3,g,0.5,g,0,g,0,g,5,g
+211,kwik trip,white americano with vanilla flavor concordia 12 fl oz,1,g,5,mg,50,g,35,g,3,g,0.5,g,0,g,0,g,34,g
+212,kwik trip,white americano with vanilla flavor concordia 16 fl oz,1,g,5,mg,50,g,58,g,3,g,0.5,g,0,g,0,g,58,g
+213,kwik trip,whole grain maple flavored pancake wrap,15,g,25,mg,370,g,18,g,7,g,4.5,g,0,g,1,g,5,g
+214,kwik trip,whole milk for coffee,1,g,5,mg,10,g,1,g,1,g,5,g,0,g,0,g,1,g
+215,kwik trip,yellow mustard dispenser,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+216,kwik trip,yellow mustard heinz packet,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+217,kwik trip,zesty italian chicken rollerbite,9,g,35,mg,570,g,11,g,14,g,3.5,g,0,g,0,g,1,g
+218,k and w cafeterias,angel flake delight,4,g,10,mg,40,g,30,g,1,g,4,g,0,g,2,g,20,g
+219,k and w cafeterias,apple whole,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,3,g,15,g
+220,k and w cafeterias,apple cake,47,g,60,mg,390,g,86,g,6,g,7,g,0,g,3,g,63,g
+221,k and w cafeterias,apple cobbler,13,g,0,mg,160,g,46,g,1,g,3,g,0,g,2,g,28,g
+222,k and w cafeterias,apple fritter,5,g,5,mg,90,g,39,g,3,g,1,g,0,g,1,g,16,g
+223,k and w cafeterias,apple juice,0,g,0,mg,25,g,30,g,0,g,0,g,0,g,0,g,26,g
+224,k and w cafeterias,apple pie,25,g,0,mg,400,g,65,g,3,g,7,g,0,g,3,g,35,g
+225,k and w cafeterias,apple pie dutch,24,g,0,mg,450,g,78,g,3,g,6,g,0,g,2,g,46,g
+226,k and w cafeterias,apple september salad,8,g,15,mg,120,g,18,g,3,g,3,g,0,g,2,g,15,g
+227,k and w cafeterias,au gratin potatoes,11,g,20,mg,630,g,27,g,9,g,4.5,g,0,g,2,g,7,g
+228,k and w cafeterias,baby back ribs,45,g,200,mg,830,g,0,g,45,g,18,g,0,g,0,g,0,g
+229,k and w cafeterias,bacon 1 slice,3.5,g,10,mg,180,g,0,g,3,g,1,g,0,g,0,g,0,g
+230,k and w cafeterias,bacon 2 slices,7,g,15,mg,360,g,0,g,6,g,2.5,g,0,g,0,g,0,g
+231,k and w cafeterias,bacon 3 slices,11,g,25,mg,530,g,0,g,9,g,3.5,g,0,g,0,g,0,g
+232,k and w cafeterias,baked cheesecake chocolate,41,g,195,mg,350,g,36,g,9,g,19,g,0,g,1,g,31,g
+233,k and w cafeterias,baked cheesecake pecan,48,g,195,mg,350,g,36,g,10,g,20,g,0,g,1,g,31,g
+234,k and w cafeterias,baked ham,9,g,55,mg,1240,g,6,g,19,g,3.5,g,0,g,0,g,6,g
+235,k and w cafeterias,baked lasagna,17,g,60,mg,1730,g,54,g,26,g,9,g,0,g,3,g,19,g
+236,k and w cafeterias,baked potato,0,g,0,mg,25,g,48,g,6,g,0,g,0,g,5,g,3,g
+237,k and w cafeterias,baked potato stuffed,12,g,20,mg,610,g,60,g,15,g,4,g,0,g,6,g,8,g
+238,k and w cafeterias,baked spaghetti,20,g,80,mg,1760,g,45,g,29,g,9,g,0,g,2,g,20,g
+239,k and w cafeterias,baled cheesecake chocolate chip,50,g,205,mg,380,g,53,g,11,g,24,g,0,g,0,g,47,g
+240,k and w cafeterias,banana whole,0,g,0,mg,0,g,23,g,1,g,0,g,0,g,3,g,12,g
+241,k and w cafeterias,banana cream pie,24,g,50,mg,360,g,61,g,6,g,14,g,0,g,2,g,33,g
+242,k and w cafeterias,banana nut muffin large size,9,g,0,mg,620,g,64,g,2,g,5,g,0,g,1,g,30,g
+243,k and w cafeterias,banana nut muffin regular size,4.5,g,0,mg,310,g,32,g,1,g,2.5,g,0,g,1,g,15,g
+244,k and w cafeterias,banana pudding,9,g,50,mg,180,g,63,g,7,g,3,g,0,g,1,g,47,g
+245,k and w cafeterias,banana split cake,19,g,30,mg,240,g,68,g,3,g,5,g,0,g,2,g,54,g
+246,k and w cafeterias,banana nut cake,18,g,100,mg,680,g,126,g,6,g,3.5,g,0,g,4,g,96,g
+247,k and w cafeterias,banana nut salad,3,g,0,mg,15,g,43,g,2,g,0,g,0,g,3,g,28,g
+248,k and w cafeterias,barbecue pork,21,g,165,mg,890,g,7,g,47,g,8,g,0,g,0,g,7,g
+249,k and w cafeterias,barbecue pork spareribs,54,g,215,mg,1060,g,10,g,52,g,20,g,0,g,1,g,9,g
+250,k and w cafeterias,barbecue turkey,7,g,115,mg,700,g,13,g,31,g,2,g,0,g,1,g,11,g
+251,k and w cafeterias,basil marinated roma tomatoes,7,g,0,mg,5,g,6,g,1,g,1,g,0,g,1,g,2,g
+252,k and w cafeterias,beef and broccoli,15,g,100,mg,1780,g,23,g,43,g,5,g,0,g,3,g,4,g
+253,k and w cafeterias,beef barbecue,12,g,100,mg,560,g,13,g,39,g,4.5,g,0,g,1,g,11,g
+254,k and w cafeterias,beef gardenia,42,g,100,mg,880,g,38,g,40,g,15,g,0,g,2,g,8,g
+255,k and w cafeterias,beef liver,14,g,675,mg,340,g,15,g,50,g,6,g,0,g,0,g,0,g
+256,k and w cafeterias,beef liver smothered,21,g,675,mg,600,g,22,g,52,g,8,g,0,g,1,g,1,g
+257,k and w cafeterias,beef stew,9,g,75,mg,650,g,26,g,32,g,3.5,g,0,g,3,g,4,g
+258,k and w cafeterias,beef stroganoff,17,g,85,mg,500,g,24,g,35,g,6,g,0,g,1,g,3,g
+259,k and w cafeterias,beet salad,2,g,0,mg,560,g,8,g,1,g,0,g,0,g,1,g,6,g
+260,k and w cafeterias,biscuit,10,g,10,mg,590,g,24,g,3,g,2.5,g,0,g,1,g,2,g
+261,k and w cafeterias,black bean salad,2.5,g,0,mg,560,g,23,g,6,g,0,g,0,g,7,g,3,g
+262,k and w cafeterias,black eyed peas,2.5,g,20,mg,290,g,24,g,14,g,1,g,0,g,7,g,4,g
+263,k and w cafeterias,blueberry chiffon pie,28,g,15,mg,290,g,66,g,6,g,18,g,0,g,1,g,43,g
+264,k and w cafeterias,blueberry muffin large size,9,g,0,mg,520,g,64,g,2,g,2,g,0,g,0,g,36,g
+265,k and w cafeterias,blueberry muffin regular size,4.5,g,5,mg,260,g,32,g,1,g,1,g,0,g,0,g,18,g
+266,k and w cafeterias,boston cream pie,17,g,55,mg,320,g,68,g,5,g,5,g,0,g,2,g,54,g
+267,k and w cafeterias,braised beef tips,15,g,75,mg,1070,g,34,g,32,g,6,g,0,g,1,g,3,g
+268,k and w cafeterias,bread pudding,9,g,195,mg,440,g,57,g,10,g,2.5,g,0,g,1,g,44,g
+269,k and w cafeterias,breakfast condiments cheese,10,g,30,mg,180,g,0,g,6,g,6,g,0,g,0,g,0,g
+270,k and w cafeterias,breakfast fish and grits,25,g,125,mg,1160,g,34,g,37,g,4,g,0,g,2,g,1,g
+271,k and w cafeterias,breakfast salmon patty,15,g,120,mg,550,g,6,g,27,g,1.5,g,0,g,0,g,0,g
+272,k and w cafeterias,breakfast shrimp and grits,12,g,205,mg,1190,g,29,g,29,g,2,g,0,g,1,g,0,g
+273,k and w cafeterias,breakfast apple cobbler,13,g,0,mg,160,g,46,g,1,g,3,g,0,g,2,g,28,g
+274,k and w cafeterias,breakfast banana nut salad,3,g,0,mg,15,g,43,g,2,g,0,g,0,g,3,g,28,g
+275,k and w cafeterias,breakfast biscuit,10,g,10,mg,590,g,24,g,3,g,2.5,g,0,g,1,g,2,g
+276,k and w cafeterias,breakfast chicken fried steak,28,g,65,mg,1620,g,36,g,21,g,7,g,0,g,1,g,4,g
+277,k and w cafeterias,breakfast cottage cheese and fruit,3.5,g,25,mg,320,g,10,g,10,g,2.5,g,0,g,0,g,8,g
+278,k and w cafeterias,breakfast fresh pineapple,0,g,0,mg,0,g,13,g,1,g,0,g,0,g,0,g,9,g
+279,k and w cafeterias,breakfast fruit plate,4,g,25,mg,350,g,32,g,11,g,2.5,g,0,g,4,g,19,g
+280,k and w cafeterias,breakfast hash browns,12,g,0,mg,650,g,26,g,2,g,2.5,g,0,g,3,g,1,g
+281,k and w cafeterias,breakfast peaches,0,g,0,mg,10,g,41,g,1,g,0,g,0,g,3,g,38,g
+282,k and w cafeterias,breakfast sliced tomatoes,0,g,0,mg,10,g,7,g,2,g,0,g,0,g,2,g,5,g
+283,k and w cafeterias,breakfast stewed apples,0,g,0,mg,0,g,29,g,0,g,0,g,0,g,1,g,17,g
+284,k and w cafeterias,breakfast strawberry and banana compote,0,g,0,mg,5,g,28,g,1,g,0,g,0,g,3,g,18,g
+285,k and w cafeterias,breakfast sweet potato cobbler,8,g,0,mg,130,g,52,g,1,g,2,g,0,g,1,g,37,g
+286,k and w cafeterias,breakfast watermelon,0,g,0,mg,0,g,19,g,2,g,0,g,0,g,1,g,16,g
+287,k and w cafeterias,brewed iced tea sweetened,0,g,0,mg,10,g,32,g,1,g,0,g,0,g,0,g,32,g
+288,k and w cafeterias,brewed iced tea unsweetened,0,g,0,mg,15,g,0,g,1,g,0,g,0,g,0,g,0,g
+289,k and w cafeterias,broccoli,2.5,g,0,mg,310,g,8,g,3,g,0.5,g,0,g,4,g,2,g
+290,k and w cafeterias,broccoli and cauliflower salad,11,g,15,mg,90,g,6,g,2,g,3,g,0,g,1,g,1,g
+291,k and w cafeterias,broccoli and cheese casserole,11,g,5,mg,700,g,23,g,8,g,3,g,0,g,3,g,7,g
+292,k and w cafeterias,broccoli and raisin salad,36,g,35,mg,400,g,21,g,5,g,5,g,0,g,3,g,14,g
+293,k and w cafeterias,broccoli with cheese sauce,6,g,5,mg,480,g,13,g,5,g,1.5,g,0,g,4,g,5,g
+294,k and w cafeterias,broccoli stuffed potato boat,4.5,g,5,mg,490,g,17,g,4,g,1.5,g,0,g,3,g,2,g
+295,k and w cafeterias,brown rice whole grain,2.5,g,0,mg,910,g,21,g,3,g,0,g,0,g,1,g,1,g
+296,k and w cafeterias,brussels sprouts,2.5,g,0,mg,310,g,9,g,4,g,0.5,g,0,g,5,g,2,g
+297,k and w cafeterias,brussels sprouts sauteed,4.5,g,0,mg,310,g,10,g,4,g,1,g,0,g,5,g,2,g
+298,k and w cafeterias,buttered coconut pie,30,g,55,mg,560,g,87,g,7,g,7,g,0,g,2,g,59,g
+299,k and w cafeterias,buttermilk chess pie,26,g,260,mg,370,g,107,g,10,g,7,g,0,g,1,g,90,g
+300,k and w cafeterias,cabbage casserole,7,g,5,mg,350,g,11,g,2,g,1.5,g,0,g,2,g,2,g
+301,k and w cafeterias,cabbage sauteed,1.5,g,0,mg,140,g,7,g,2,g,0,g,0,g,2,g,3,g
+302,k and w cafeterias,caesar salad,12,g,30,mg,320,g,9,g,5,g,3,g,0,g,1,g,3,g
+303,k and w cafeterias,cajun catfish,32,g,115,mg,620,g,19,g,38,g,5,g,0,g,1,g,3,g
+304,k and w cafeterias,cajun chicken,21,g,100,mg,910,g,26,g,39,g,4,g,0,g,2,g,5,g
+305,k and w cafeterias,cajun roasted potatoes,4,g,0,mg,15,g,26,g,3,g,0.5,g,0,g,4,g,1,g
+306,k and w cafeterias,cajun shrimp,20,g,395,mg,1200,g,3,g,43,g,8,g,0,g,0,g,0,g
+307,k and w cafeterias,cajun whitefish,30,g,110,mg,1380,g,31,g,39,g,6,g,0,g,2,g,6,g
+308,k and w cafeterias,candied yams,0,g,0,mg,35,g,47,g,1,g,0,g,0,g,3,g,32,g
+309,k and w cafeterias,cantaloupe and honeydew,0,g,0,mg,25,g,14,g,1,g,0,g,0,g,1,g,12,g
+310,k and w cafeterias,cantaloupe and honeydew,0,g,0,mg,25,g,14,g,1,g,0,g,0,g,1,g,12,g
+311,k and w cafeterias,carrot and raisin salad,14,g,10,mg,150,g,20,g,1,g,2,g,0,g,3,g,4,g
+312,k and w cafeterias,carrot cake,49,g,175,mg,640,g,126,g,10,g,12,g,0,g,2,g,97,g
+313,k and w cafeterias,carrots buttered,2,g,0,mg,360,g,9,g,1,g,0,g,0,g,3,g,4,g
+314,k and w cafeterias,carrots honey glazed,3.5,g,0,mg,95,g,28,g,1,g,0.5,g,0,g,3,g,22,g
+315,k and w cafeterias,charleston caviar,2,g,10,mg,310,g,18,g,9,g,0.5,g,0,g,5,g,5,g
+316,k and w cafeterias,cheddar pasta salad,14,g,10,mg,440,g,25,g,7,g,3.5,g,0,g,2,g,4,g
+317,k and w cafeterias,cheese baked potato boat,38,g,35,mg,1050,g,25,g,10,g,12,g,0,g,2,g,1,g
+318,k and w cafeterias,cheese biscuit,13,g,15,mg,630,g,24,g,5,g,4,g,0,g,1,g,2,g
+319,k and w cafeterias,cheese bread,12,g,15,mg,380,g,25,g,7,g,4,g,0,g,1,g,1,g
+320,k and w cafeterias,cheese grits,5,g,10,mg,360,g,19,g,5,g,2.5,g,0,g,1,g,0,g
+321,k and w cafeterias,cheese toast,18,g,30,mg,390,g,14,g,9,g,8,g,0,g,1,g,1,g
+322,k and w cafeterias,cheesy potato soup,14,g,25,mg,920,g,24,g,12,g,5,g,0,g,1,g,10,g
+323,k and w cafeterias,chef salad,15,g,165,mg,930,g,13,g,30,g,7,g,0,g,3,g,8,g
+324,k and w cafeterias,chicken amandine,28,g,95,mg,840,g,31,g,41,g,6,g,0,g,3,g,4,g
+325,k and w cafeterias,chicken breast fillet,17,g,95,mg,870,g,26,g,37,g,3,g,0,g,1,g,1,g
+326,k and w cafeterias,chicken breast fillet with dressing,33,g,105,mg,1900,g,48,g,41,g,7,g,0,g,2,g,4,g
+327,k and w cafeterias,chicken caesar wrap,34,g,120,mg,1280,g,39,g,50,g,9,g,0,g,7,g,2,g
+328,k and w cafeterias,chicken chow mein,10,g,25,mg,920,g,39,g,13,g,3,g,0,g,2,g,2,g
+329,k and w cafeterias,chicken cordon bleu,33,g,125,mg,1430,g,36,g,51,g,11,g,0,g,1,g,4,g
+330,k and w cafeterias,chicken fingers,37,g,30,mg,900,g,24,g,21,g,5,g,0,g,3,g,8,g
+331,k and w cafeterias,chicken francisco,31,g,125,mg,1370,g,36,g,48,g,9,g,0,g,2,g,5,g
+332,k and w cafeterias,chicken fried steak,28,g,65,mg,1620,g,36,g,21,g,7,g,0,g,1,g,4,g
+333,k and w cafeterias,chicken livers,12,g,470,mg,280,g,7,g,24,g,3,g,0,g,0,g,0,g
+334,k and w cafeterias,chicken marsala,35,g,105,mg,970,g,35,g,45,g,8,g,0,g,2,g,1,g
+335,k and w cafeterias,chicken noodle soup,4.5,g,45,mg,740,g,20,g,18,g,1,g,0,g,1,g,2,g
+336,k and w cafeterias,chicken pan pie,14,g,45,mg,1140,g,48,g,22,g,3,g,0,g,3,g,7,g
+337,k and w cafeterias,chicken parmesan,22,g,105,mg,1600,g,40,g,42,g,6,g,0,g,1,g,13,g
+338,k and w cafeterias,chicken ranch casserole,51,g,110,mg,800,g,19,g,30,g,11,g,0,g,1,g,4,g
+339,k and w cafeterias,chicken salad,8,g,90,mg,320,g,1,g,15,g,2,g,0,g,0,g,1,g
+340,k and w cafeterias,chicken scallopini,27,g,110,mg,1520,g,61,g,50,g,8,g,0,g,3,g,6,g
+341,k and w cafeterias,chicken stew and dumplings,11,g,130,mg,1230,g,37,g,31,g,2.5,g,0,g,1,g,3,g
+342,k and w cafeterias,chicken tender salad,38,g,30,mg,930,g,31,g,22,g,6,g,0,g,5,g,11,g
+343,k and w cafeterias,chili with beans,8,g,35,mg,1010,g,39,g,23,g,3,g,0,g,8,g,8,g
+344,k and w cafeterias,chinese pepper steak,11,g,100,mg,1340,g,35,g,38,g,4,g,0,g,1,g,2,g
+345,k and w cafeterias,chipped beef gravy bowl,6,g,10,mg,420,g,10,g,6,g,1.5,g,0,g,0,g,4,g
+346,k and w cafeterias,chocolate cake,27,g,90,mg,610,g,102,g,8,g,9,g,0,g,6,g,76,g
+347,k and w cafeterias,chocolate chess pie,25,g,130,mg,330,g,82,g,8,g,7,g,0,g,2,g,61,g
+348,k and w cafeterias,chocolate cream pie,31,g,80,mg,440,g,79,g,9,g,17,g,0,g,2,g,49,g
+349,k and w cafeterias,chocolate dessert parfait,37,g,105,mg,550,g,86,g,9,g,24,g,0,g,3,g,55,g
+350,k and w cafeterias,chocolate fudge cake,32,g,5,mg,530,g,85,g,4,g,28,g,0,g,2,g,54,g
+351,k and w cafeterias,chocolate mousse pie,37,g,15,mg,280,g,49,g,3,g,28,g,0,g,1,g,21,g
+352,k and w cafeterias,chocolate pudding,11,g,45,mg,135,g,36,g,4,g,8,g,0,g,1,g,28,g
+353,k and w cafeterias,cinnamon roll,9,g,45,mg,230,g,60,g,7,g,2,g,0,g,1,g,23,g
+354,k and w cafeterias,cinnamon toast,8,g,0,mg,210,g,42,g,3,g,2,g,0,g,1,g,28,g
+355,k and w cafeterias,cinnamon raisin biscuit,10,g,10,mg,590,g,42,g,3,g,2.5,g,0,g,1,g,20,g
+356,k and w cafeterias,cobb salad,38,g,195,mg,1990,g,17,g,38,g,18,g,0,g,3,g,8,g
+357,k and w cafeterias,cobbler sugar free pineapple,4,g,0,mg,115,g,25,g,1,g,1,g,0,g,1,g,12,g
+358,k and w cafeterias,coconut cake,34,g,5,mg,600,g,124,g,7,g,7,g,0,g,1,g,89,g
+359,k and w cafeterias,coconut cream pie,29,g,80,mg,450,g,74,g,8,g,14,g,0,g,1,g,42,g
+360,k and w cafeterias,cod fillet broiled,14,g,70,mg,540,g,0,g,22,g,2.5,g,0,g,0,g,0,g
+361,k and w cafeterias,cod fillet fried,22,g,80,mg,890,g,18,g,26,g,3.5,g,0,g,1,g,0,g
+362,k and w cafeterias,cod fillet breaded and grilled,18,g,80,mg,880,g,18,g,26,g,3,g,0,g,1,g,0,g
+363,k and w cafeterias,coffee decaffeinated,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+364,k and w cafeterias,coffee regular,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+365,k and w cafeterias,coleslaw,6,g,10,mg,240,g,9,g,1,g,1,g,0,g,2,g,4,g
+366,k and w cafeterias,combination salad,9,g,25,mg,75,g,5,g,2,g,1.5,g,0,g,2,g,3,g
+367,k and w cafeterias,corn creamed,11,g,0,mg,690,g,32,g,4,g,2.5,g,0,g,3,g,7,g
+368,k and w cafeterias,corn sauteed,2.5,g,0,mg,35,g,26,g,4,g,0,g,0,g,3,g,5,g
+369,k and w cafeterias,corn on the cob,2.5,g,0,mg,210,g,18,g,3,g,0.5,g,0,g,2,g,3,g
+370,k and w cafeterias,cornbread,9,g,40,mg,790,g,32,g,7,g,2,g,0,g,2,g,6,g
+371,k and w cafeterias,corned beef,16,g,85,mg,840,g,4,g,15,g,5,g,0,g,0,g,3,g
+372,k and w cafeterias,corned beef hash,12,g,30,mg,410,g,9,g,9,g,4.5,g,0,g,1,g,0,g
+373,k and w cafeterias,cottage cheese,3.5,g,25,mg,320,g,4,g,10,g,2.5,g,0,g,0,g,3,g
+374,k and w cafeterias,cottage cheese and fruit,3.5,g,25,mg,320,g,10,g,10,g,2.5,g,0,g,0,g,8,g
+375,k and w cafeterias,cottage cheese 3oz,3.5,g,25,mg,320,g,4,g,10,g,2.5,g,0,g,0,g,3,g
+376,k and w cafeterias,country bacon 1 slice,4.5,g,10,mg,250,g,0,g,4,g,1.5,g,0,g,0,g,0,g
+377,k and w cafeterias,country bacon 4 slices,20,g,50,mg,990,g,1,g,16,g,6,g,0,g,0,g,0,g
+378,k and w cafeterias,country ham,4.5,g,50,mg,1180,g,1,g,13,g,3,g,0,g,0,g,0,g
+379,k and w cafeterias,country link sausage,12,g,55,mg,310,g,0,g,11,g,3,g,0,g,0,g,0,g
+380,k and w cafeterias,country link sausage 2,23,g,115,mg,620,g,0,g,23,g,6,g,0,g,0,g,0,g
+381,k and w cafeterias,country sausage patty,25,g,80,mg,740,g,1,g,19,g,8,g,0,g,0,g,1,g
+382,k and w cafeterias,country style steak,32,g,135,mg,530,g,14,g,49,g,10,g,0,g,0,g,0,g
+383,k and w cafeterias,crab cake 1,17,g,135,mg,510,g,10,g,10,g,3,g,0,g,1,g,2,g
+384,k and w cafeterias,crab cake 2,35,g,275,mg,1020,g,20,g,20,g,6,g,0,g,1,g,4,g
+385,k and w cafeterias,cranapple salad,1.5,g,0,mg,15,g,44,g,1,g,0,g,0,g,5,g,34,g
+386,k and w cafeterias,cranberry juice,0,g,0,mg,5,g,27,g,0,g,0,g,0,g,0,g,25,g
+387,k and w cafeterias,cranberry sauce,0,g,0,mg,5,g,13,g,0,g,0,g,0,g,0,g,11,g
+388,k and w cafeterias,cream cheese danish,20,g,65,mg,320,g,46,g,7,g,6,g,0,g,1,g,14,g
+389,k and w cafeterias,cream gravy,6,g,0,mg,270,g,11,g,4,g,1.5,g,0,g,0,g,5,g
+390,k and w cafeterias,cream of broccoli soup,10,g,5,mg,730,g,25,g,11,g,2.5,g,0,g,1,g,15,g
+391,k and w cafeterias,cream of chicken and rice soup,10,g,40,mg,950,g,31,g,20,g,2.5,g,0,g,0,g,10,g
+392,k and w cafeterias,creole rice,10,g,0,mg,720,g,16,g,2,g,2.5,g,0,g,1,g,3,g
+393,k and w cafeterias,creole spaghetti,2.5,g,0,mg,450,g,9,g,1,g,0.5,g,0,g,1,g,6,g
+394,k and w cafeterias,cuban chicken with blk bean salsa,6,g,95,mg,530,g,6,g,37,g,1.5,g,0,g,2,g,1,g
+395,k and w cafeterias,cucumber salad,0,g,0,mg,100,g,6,g,1,g,0,g,0,g,2,g,2,g
+396,k and w cafeterias,deviled eggs,7,g,190,mg,160,g,2,g,6,g,2,g,0,g,0,g,2,g
+397,k and w cafeterias,dirty rice,2.5,g,5,mg,1250,g,31,g,4,g,0.5,g,0,g,1,g,2,g
+398,k and w cafeterias,dressing cornbread,15,g,15,mg,1220,g,24,g,4,g,3.5,g,0,g,1,g,4,g
+399,k and w cafeterias,drumstick 1,13,g,85,mg,440,g,6,g,16,g,3.5,g,0,g,0,g,0,g
+400,k and w cafeterias,drumstick 2,25,g,165,mg,890,g,11,g,32,g,7,g,0,g,1,g,0,g
+401,k and w cafeterias,egg custard pie,21,g,255,mg,640,g,57,g,112,g,6,g,0,g,1,g,40,g
+402,k and w cafeterias,eggplant parmesan,25,g,15,mg,1180,g,40,g,12,g,7,g,0,g,4,g,14,g
+403,k and w cafeterias,fancy apple salad,11,g,15,mg,35,g,26,g,1,g,4,g,0,g,3,g,18,g
+404,k and w cafeterias,field peas,0,g,0,mg,330,g,19,g,7,g,0,g,0,g,9,g,3,g
+405,k and w cafeterias,field peas and corn,3,g,0,mg,280,g,18,g,6,g,0,g,0,g,7,g,3,g
+406,k and w cafeterias,fillet of flounder brd and grilled,21,g,80,mg,1190,g,18,g,22,g,3.5,g,0,g,1,g,0,g
+407,k and w cafeterias,fillet of flounder broiled,17,g,70,mg,560,g,0,g,20,g,3,g,0,g,0,g,0,g
+408,k and w cafeterias,fillet of flounder fried,25,g,80,mg,1190,g,18,g,22,g,4,g,0,g,1,g,0,g
+409,k and w cafeterias,french bread,0.5,g,5,mg,200,g,25,g,4,g,0,g,0,g,1,g,1,g
+410,k and w cafeterias,french fries,12,g,0,mg,280,g,38,g,3,g,2,g,0,g,3,g,1,g
+411,k and w cafeterias,french toast 1 slice,3.5,g,25,mg,135,g,16,g,3,g,0.5,g,0,g,1,g,3,g
+412,k and w cafeterias,french toast 2 slices,7,g,45,mg,270,g,31,g,7,g,1.5,g,0,g,1,g,7,g
+413,k and w cafeterias,french toast 3 slices,10,g,70,mg,410,g,47,g,10,g,2,g,0,g,2,g,10,g
+414,k and w cafeterias,fresh fruit mix,0,g,0,mg,10,g,20,g,1,g,0,g,0,g,3,g,16,g
+415,k and w cafeterias,fresh mixed fruit,0,g,0,mg,10,g,20,g,1,g,0,g,0,g,3,g,16,g
+416,k and w cafeterias,fresh pineapple,0,g,0,mg,0,g,13,g,1,g,0,g,0,g,0,g,9,g
+417,k and w cafeterias,fresh strawberries,0,g,0,mg,0,g,9,g,1,g,0,g,0,g,2,g,6,g
+418,k and w cafeterias,fresh vegetable medley,0.5,g,0,mg,650,g,11,g,1,g,0,g,0,g,1,g,2,g
+419,k and w cafeterias,fried corn fritters,15,g,0,mg,620,g,33,g,4,g,2.5,g,0,g,2,g,2,g
+420,k and w cafeterias,fried eggplant,15,g,0,mg,460,g,20,g,2,g,2.5,g,0,g,3,g,4,g
+421,k and w cafeterias,fried green tomatoes,15,g,0,mg,480,g,16,g,2,g,2.5,g,0,g,2,g,5,g
+422,k and w cafeterias,fried mushrooms,15,g,0,mg,580,g,16,g,4,g,2.5,g,0,g,3,g,3,g
+423,k and w cafeterias,fried okra,15,g,0,mg,590,g,17,g,3,g,2.5,g,0,g,3,g,3,g
+424,k and w cafeterias,fried onion rings,15,g,0,mg,470,g,22,g,3,g,2.5,g,0,g,2,g,6,g
+425,k and w cafeterias,fried rice,2,g,35,mg,380,g,19,g,3,g,0,g,0,g,1,g,1,g
+426,k and w cafeterias,fried shrimp,39,g,120,mg,1600,g,57,g,16,g,8,g,0,g,1,g,0,g
+427,k and w cafeterias,fried sweet potatoes,15,g,0,mg,490,g,30,g,3,g,2.5,g,0,g,3,g,7,g
+428,k and w cafeterias,fried yellow squash,15,g,0,mg,580,g,15,g,2,g,2.5,g,0,g,2,g,3,g
+429,k and w cafeterias,fried zucchini,15,g,0,mg,580,g,15,g,2,g,2.5,g,0,g,2,g,3,g
+430,k and w cafeterias,fruit plate,4,g,25,mg,350,g,32,g,11,g,2.5,g,0,g,4,g,19,g
+431,k and w cafeterias,garden ranch pasta salad,14,g,15,mg,250,g,31,g,6,g,2,g,0,g,2,g,2,g
+432,k and w cafeterias,garlic roll,4.5,g,5,mg,200,g,21,g,4,g,1,g,0,g,0,g,4,g
+433,k and w cafeterias,garlic toast,15,g,5,mg,360,g,25,g,4,g,3.5,g,0,g,1,g,1,g
+434,k and w cafeterias,german chocolate cake,44,g,225,mg,800,g,89,g,14,g,9,g,0,g,4,g,59,g
+435,k and w cafeterias,german chocolate pie,33,g,55,mg,350,g,84,g,8,g,8,g,0,g,3,g,59,g
+436,k and w cafeterias,gourmet chicken,21,g,125,mg,820,g,16,g,47,g,8,g,0,g,2,g,7,g
+437,k and w cafeterias,gourmet rice,11,g,0,mg,170,g,24,g,3,g,1.5,g,0,g,1,g,1,g
+438,k and w cafeterias,grape juice,0,g,0,mg,30,g,38,g,0,g,0,g,0,g,0,g,38,g
+439,k and w cafeterias,grapefruit half pink,0,g,0,mg,0,g,10,g,1,g,0,g,0,g,1,g,9,g
+440,k and w cafeterias,grapefruit juice,0,g,0,mg,0,g,22,g,1,g,0,g,0,g,0,g,20,g
+441,k and w cafeterias,grapefruit sections,0,g,0,mg,5,g,17,g,1,g,0,g,0,g,1,g,16,g
+442,k and w cafeterias,greek salad,7,g,25,mg,250,g,8,g,2,g,2,g,0,g,2,g,5,g
+443,k and w cafeterias,green bean casserole,19,g,5,mg,900,g,19,g,6,g,3.5,g,0,g,3,g,5,g
+444,k and w cafeterias,green beans,7,g,0,mg,340,g,3,g,1,g,1,g,0,g,2,g,1,g
+445,k and w cafeterias,green beans italian,7,g,0,mg,340,g,3,g,1,g,1,g,0,g,2,g,1,g
+446,k and w cafeterias,green beans mediterranean,2,g,0,mg,800,g,12,g,2,g,0,g,0,g,3,g,6,g
+447,k and w cafeterias,green pea salad,10,g,30,mg,330,g,7,g,4,g,2,g,0,g,1,g,3,g
+448,k and w cafeterias,green peas,3,g,0,mg,430,g,13,g,5,g,0.5,g,0,g,3,g,5,g
+449,k and w cafeterias,greens collard,14,g,0,mg,330,g,8,g,4,g,2.5,g,0,g,3,g,1,g
+450,k and w cafeterias,greens turnip,9,g,0,mg,300,g,5,g,2,g,1.5,g,0,g,4,g,1,g
+451,k and w cafeterias,grilled bologna,14,g,35,mg,540,g,3,g,9,g,5,g,0,g,0,g,3,g
+452,k and w cafeterias,grilled boneless pork,15,g,60,mg,1140,g,36,g,25,g,2.5,g,0,g,2,g,1,g
+453,k and w cafeterias,grilled boneless pork bbq,15,g,60,mg,1460,g,44,g,25,g,3,g,0,g,2,g,8,g
+454,k and w cafeterias,grilled boneless pork cajun,15,g,60,mg,1410,g,39,g,25,g,2.5,g,0,g,2,g,1,g
+455,k and w cafeterias,grilled boneless pork cuban,15,g,60,mg,1350,g,41,g,27,g,3,g,0,g,4,g,2,g
+456,k and w cafeterias,grilled boneless pork loin,15,g,60,mg,1140,g,36,g,25,g,2.5,g,0,g,2,g,1,g
+457,k and w cafeterias,grilled chicken salad,5,g,95,mg,110,g,7,g,36,g,1.5,g,0,g,2,g,4,g
+458,k and w cafeterias,grilled chicken with onions,8,g,95,mg,580,g,4,g,36,g,2,g,0,g,1,g,2,g
+459,k and w cafeterias,grilled chopped steak 5 oz,31,g,125,mg,780,g,1,g,36,g,12,g,0,g,0,g,0,g
+460,k and w cafeterias,grilled chopped steak 8 oz,48,g,195,mg,1190,g,1,g,56,g,18,g,0,g,0,g,0,g
+461,k and w cafeterias,grilled onions,6,g,0,mg,500,g,7,g,1,g,1,g,0,g,1,g,3,g
+462,k and w cafeterias,grilled reuben sandwich,41,g,105,mg,1710,g,40,g,28,g,14,g,0,g,5,g,8,g
+463,k and w cafeterias,grilled smoked sausage,18,g,50,mg,580,g,1,g,8,g,6,g,0,g,0,g,0,g
+464,k and w cafeterias,grits,1,g,0,mg,290,g,19,g,2,g,0,g,0,g,1,g,0,g
+465,k and w cafeterias,ham and macaroni casserole,19,g,60,mg,1110,g,28,g,24,g,8,g,0,g,1,g,5,g
+466,k and w cafeterias,ham and swiss sandwich,27,g,60,mg,1450,g,35,g,26,g,11,g,0,g,4,g,7,g
+467,k and w cafeterias,ham and cheese wrap,39,g,95,mg,2060,g,45,g,34,g,16,g,0,g,7,g,6,g
+468,k and w cafeterias,hard roll,0.5,g,5,mg,200,g,25,g,4,g,0,g,0,g,1,g,1,g
+469,k and w cafeterias,harvard beets,0,g,0,mg,220,g,19,g,1,g,0,g,0,g,2,g,14,g
+470,k and w cafeterias,hash browns,12,g,0,mg,650,g,26,g,2,g,2.5,g,0,g,2,g,1,g
+471,k and w cafeterias,hawaiian rice,1.5,g,0,mg,170,g,28,g,2,g,0,g,0,g,1,g,14,g
+472,k and w cafeterias,hoki fried,24,g,125,mg,900,g,18,g,35,g,4,g,0,g,1,g,0,g
+473,k and w cafeterias,holiday rice,2,g,0,mg,540,g,24,g,2,g,0,g,0,g,1,g,1,g
+474,k and w cafeterias,home fried new potatoes,8,g,0,mg,770,g,27,g,2,g,1,g,0,g,3,g,2,g
+475,k and w cafeterias,home fried potatoes,8,g,0,mg,770,g,27,g,2,g,1,g,0,g,3,g,2,g
+476,k and w cafeterias,honey baked beans,6,g,20,mg,860,g,36,g,11,g,2,g,0,g,6,g,16,g
+477,k and w cafeterias,hot chocolate,2.5,g,0,mg,190,g,15,g,1,g,1.5,g,0,g,1,g,13,g
+478,k and w cafeterias,hush puppies,15,g,40,mg,800,g,35,g,7,g,1,g,0,g,2,g,8,g
+479,k and w cafeterias,ice box cheesecake with cookie,19,g,20,mg,610,g,64,g,10,g,13,g,0,g,2,g,41,g
+480,k and w cafeterias,italian pasta salad,1,g,0,mg,350,g,28,g,5,g,0,g,0,g,3,g,4,g
+481,k and w cafeterias,italian salad,5,g,25,mg,220,g,7,g,3,g,1,g,0,g,2,g,5,g
+482,k and w cafeterias,japanese fruit pie,45,g,155,mg,400,g,93,g,8,g,8,g,0,g,4,g,69,g
+483,k and w cafeterias,jell o,0,g,0,mg,130,g,24,g,2,g,0,g,0,g,0,g,23,g
+484,k and w cafeterias,kale macaroni salad,28,g,20,mg,730,g,21,g,9,g,7,g,0,g,3,g,5,g
+485,k and w cafeterias,kale superfood,7,g,0,mg,160,g,19,g,4,g,0,g,0,g,3,g,13,g
+486,k and w cafeterias,lemon cake,26,g,80,mg,500,g,100,g,6,g,7,g,0,g,0,g,77,g
+487,k and w cafeterias,lemon chess pie,25,g,140,mg,340,g,84,g,7,g,6,g,0,g,1,g,65,g
+488,k and w cafeterias,lemon chiffon pie,26,g,15,mg,280,g,67,g,6,g,18,g,0,g,1,g,47,g
+489,k and w cafeterias,lemon meringue pie,20,g,115,mg,490,g,90,g,9,g,5,g,0,g,1,g,66,g
+490,k and w cafeterias,lima beans,2,g,0,mg,320,g,22,g,8,g,0,g,0,g,7,g,2,g
+491,k and w cafeterias,lima beans and corn,2.5,g,0,mg,310,g,23,g,6,g,0.5,g,0,g,5,g,4,g
+492,k and w cafeterias,lime chiffon pie,26,g,15,mg,280,g,67,g,6,g,18,g,0,g,1,g,47,g
+493,k and w cafeterias,liver pudding,8,g,100,mg,580,g,16,g,10,g,2,g,0,g,4,g,0,g
+494,k and w cafeterias,lyonnaise potatoes,9,g,5,mg,300,g,27,g,6,g,2.5,g,0,g,2,g,5,g
+495,k and w cafeterias,lyonnaise squash,2,g,0,mg,290,g,6,g,1,g,0,g,0,g,2,g,4,g
+496,k and w cafeterias,macaroni and cheese,16,g,95,mg,850,g,28,g,16,g,7,g,0,g,1,g,8,g
+497,k and w cafeterias,macaroni salad,15,g,35,mg,490,g,15,g,5,g,3.5,g,0,g,1,g,2,g
+498,k and w cafeterias,maledo chicken,31,g,125,mg,2070,g,43,g,44,g,10,g,0,g,2,g,14,g
+499,k and w cafeterias,maledo steak,50,g,215,mg,1460,g,10,g,63,g,21,g,0,g,2,g,4,g
+500,k and w cafeterias,marinated corn and green pea sld,12,g,0,mg,180,g,17,g,4,g,2,g,0,g,3,g,6,g
+501,k and w cafeterias,marinated mixed vegetables,7,g,0,mg,310,g,7,g,1,g,1,g,0,g,2,g,3,g
+502,k and w cafeterias,mashed potatoes,7,g,0,mg,590,g,15,g,2,g,1.5,g,0,g,1,g,2,g
+503,k and w cafeterias,meatloaf and creole spaghetti,23,g,160,mg,1170,g,24,g,32,g,8,g,0,g,1,g,10,g
+504,k and w cafeterias,mediterranean chicken,19,g,80,mg,1570,g,28,g,32,g,7,g,0,g,2,g,15,g
+505,k and w cafeterias,mexican chicken taco salad,18,g,105,mg,1000,g,42,g,42,g,8,g,0,g,8,g,3,g
+506,k and w cafeterias,mexican cornbread,13,g,35,mg,730,g,30,g,7,g,3.5,g,0,g,2,g,5,g
+507,k and w cafeterias,milk gravy,6,g,10,mg,490,g,11,g,4,g,2.5,g,0,g,0,g,6,g
+508,k and w cafeterias,million dollar pie,33,g,20,mg,580,g,82,g,12,g,15,g,0,g,2,g,59,g
+509,k and w cafeterias,mixed greens with roma tomatoes,4,g,0,mg,15,g,5,g,1,g,0.5,g,0,g,2,g,3,g
+510,k and w cafeterias,mushrooms,5,g,0,mg,125,g,2,g,1,g,1,g,0,g,1,g,1,g
+511,k and w cafeterias,navy beans,2.5,g,20,mg,230,g,24,g,13,g,1,g,0,g,10,g,0,g
+512,k and w cafeterias,neptune seafood salad,18,g,25,mg,580,g,21,g,6,g,2.5,g,0,g,2,g,2,g
+513,k and w cafeterias,new england dinner,18,g,85,mg,1500,g,21,g,18,g,6,g,0,g,3,g,8,g
+514,k and w cafeterias,new potatoes,2,g,0,mg,360,g,28,g,2,g,0,g,0,g,3,g,1,g
+515,k and w cafeterias,noodles or pasta,1,g,0,mg,110,g,26,g,5,g,0,g,0,g,2,g,0,g
+516,k and w cafeterias,oat bran muffin large size,7,g,0,mg,540,g,62,g,4,g,2,g,0,g,2,g,26,g
+517,k and w cafeterias,oat bran muffin regular size,3.5,g,0,mg,270,g,31,g,2,g,1,g,0,g,1,g,13,g
+518,k and w cafeterias,oatmeal,3,g,0,mg,400,g,29,g,6,g,0,g,0,g,4,g,1,g
+519,k and w cafeterias,obrien potatoes,5,g,0,mg,330,g,23,g,2,g,1,g,0,g,2,g,2,g
+520,k and w cafeterias,old fashioned strawberry shortcake,11,g,165,mg,320,g,86,g,8,g,7,g,0,g,1,g,61,g
+521,k and w cafeterias,one pancake,28,g,95,mg,1370,g,105,g,6,g,14,g,0,g,1,g,35,g
+522,k and w cafeterias,orange juice,0,g,0,mg,0,g,26,g,2,g,0,g,0,g,0,g,22,g
+523,k and w cafeterias,orange almond salad,4,g,0,mg,95,g,13,g,1,g,0.5,g,0,g,2,g,11,g
+524,k and w cafeterias,orange raisin muffin large size,8,g,0,mg,420,g,52,g,2,g,4,g,0,g,0,g,30,g
+525,k and w cafeterias,orange raisin muffin regular size,4,g,0,mg,210,g,26,g,1,g,2,g,0,g,0,g,15,g
+526,k and w cafeterias,oreo delight,39,g,50,mg,460,g,87,g,7,g,27,g,0,g,2,g,56,g
+527,k and w cafeterias,oriental chicken,35,g,105,mg,460,g,8,g,33,g,4,g,0,g,1,g,1,g
+528,k and w cafeterias,oven brown split biscuit,18,g,10,mg,660,g,24,g,3,g,4,g,0,g,1,g,2,g
+529,k and w cafeterias,oven browned potatoes,4,g,0,mg,320,g,25,g,2,g,0.5,g,0,g,2,g,1,g
+530,k and w cafeterias,parsley potatoes,6,g,0,mg,360,g,25,g,2,g,1.5,g,0,g,3,g,1,g
+531,k and w cafeterias,pasta gardenia,3,g,10,mg,480,g,15,g,4,g,1.5,g,0,g,1,g,6,g
+532,k and w cafeterias,peach delight,19,g,45,mg,90,g,21,g,3,g,16,g,0,g,2,g,11,g
+533,k and w cafeterias,peach shortcake,18,g,125,mg,280,g,75,g,6,g,13,g,0,g,1,g,53,g
+534,k and w cafeterias,peaches,0,g,0,mg,10,g,41,g,1,g,0,g,0,g,3,g,38,g
+535,k and w cafeterias,peanut butter chiffon pie,54,g,35,mg,440,g,69,g,11,g,31,g,0,g,3,g,46,g
+536,k and w cafeterias,peanut butter cream pie,28,g,95,mg,510,g,76,g,13,g,9,g,0,g,2,g,48,g
+537,k and w cafeterias,pear halves 2,0,g,0,mg,5,g,18,g,0,g,0,g,0,g,2,g,13,g
+538,k and w cafeterias,pecan pie,23,g,145,mg,360,g,79,g,6,g,5,g,0,g,1,g,68,g
+539,k and w cafeterias,pecan waffle,50,g,245,mg,660,g,99,g,8,g,24,g,0,g,2,g,26,g
+540,k and w cafeterias,pickled beets,0,g,0,mg,180,g,14,g,1,g,0,g,0,g,1,g,14,g
+541,k and w cafeterias,pig in the blanket,12,g,60,mg,760,g,17,g,10,g,3,g,0,g,0,g,5,g
+542,k and w cafeterias,pineapple cake,13,g,80,mg,490,g,80,g,6,g,3,g,0,g,1,g,56,g
+543,k and w cafeterias,pineapple chess pie,22,g,120,mg,520,g,96,g,6,g,6,g,0,g,1,g,78,g
+544,k and w cafeterias,pineapple delight,13,g,30,mg,85,g,25,g,2,g,10,g,0,g,2,g,19,g
+545,k and w cafeterias,pineapple juice,0,g,0,mg,25,g,29,g,1,g,0,g,0,g,1,g,26,g
+546,k and w cafeterias,pineapple upside down cake,20,g,85,mg,590,g,82,g,6,g,4.5,g,0,g,1,g,56,g
+547,k and w cafeterias,pinto beans,3,g,20,mg,260,g,24,g,14,g,1,g,0,g,8,g,1,g
+548,k and w cafeterias,pizza baked spaghetti,23,g,85,mg,1910,g,48,g,30,g,10,g,0,g,2,g,21,g
+549,k and w cafeterias,pork chop,20,g,115,mg,730,g,22,g,42,g,4,g,0,g,1,g,1,g
+550,k and w cafeterias,pork chop with dressing,33,g,125,mg,1650,g,41,g,46,g,7,g,0,g,2,g,4,g
+551,k and w cafeterias,pork cutlet,24,g,95,mg,270,g,16,g,27,g,6,g,0,g,0,g,3,g
+552,k and w cafeterias,pork entrees hog jowls,48,g,70,mg,970,g,0,g,6,g,16,g,0,g,0,g,0,g
+553,k and w cafeterias,potato cake,5,g,15,mg,700,g,25,g,4,g,1,g,0,g,1,g,3,g
+554,k and w cafeterias,potato encrusted cod fillet,28,g,70,mg,550,g,4,g,23,g,4.5,g,0,g,0,g,0,g
+555,k and w cafeterias,potato salad,14,g,20,mg,320,g,13,g,1,g,2,g,0,g,1,g,2,g
+556,k and w cafeterias,prime rib,52,g,185,mg,410,g,0,g,54,g,23,g,0,g,0,g,0,g
+557,k and w cafeterias,prune juice,0,g,0,mg,35,g,42,g,1,g,0,g,0,g,2,g,23,g
+558,k and w cafeterias,prunes,0,g,0,mg,0,g,42,g,1,g,0,g,0,g,6,g,0,g
+559,k and w cafeterias,pumpkin cake,50,g,85,mg,320,g,126,g,7,g,9,g,0,g,2,g,96,g
+560,k and w cafeterias,pumpkin muffin large size,8,g,0,mg,420,g,50,g,2,g,4,g,0,g,0,g,26,g
+561,k and w cafeterias,pumpkin muffin regular size,4,g,0,mg,210,g,25,g,1,g,2,g,0,g,0,g,13,g
+562,k and w cafeterias,pumpkin pie,15,g,95,mg,490,g,70,g,8,g,4.5,g,0,g,2,g,48,g
+563,k and w cafeterias,ranch potatoes,16,g,25,mg,970,g,29,g,2,g,4,g,0,g,3,g,4,g
+564,k and w cafeterias,red eye gravy,14,g,0,mg,170,g,0,g,0,g,2,g,0,g,0,g,0,g
+565,k and w cafeterias,red velvet cake,25,g,105,mg,610,g,95,g,7,g,9,g,0,g,1,g,74,g
+566,k and w cafeterias,rib eye steak,53,g,185,mg,420,g,0,g,52,g,23,g,0,g,0,g,0,g
+567,k and w cafeterias,roast beef,11,g,100,mg,400,g,0,g,39,g,4.5,g,0,g,0,g,0,g
+568,k and w cafeterias,roast pork loin,8,g,85,mg,170,g,37,g,30,g,2,g,0,g,0,g,12,g
+569,k and w cafeterias,roast pork loin bbq,8,g,85,mg,540,g,13,g,30,g,2,g,0,g,1,g,10,g
+570,k and w cafeterias,rst turkey with dressing cranberry,20,g,85,mg,1180,g,43,g,24,g,4.5,g,0,g,2,g,17,g
+571,k and w cafeterias,rutabagas,2,g,0,mg,170,g,9,g,1,g,0,g,0,g,2,g,6,g
+572,k and w cafeterias,salmon patty,20,g,110,mg,350,g,10,g,23,g,3,g,0,g,1,g,3,g
+573,k and w cafeterias,salmon barbecue,34,g,85,mg,630,g,20,g,33,g,6,g,0,g,2,g,8,g
+574,k and w cafeterias,salmon broiled,31,g,85,mg,180,g,0,g,31,g,6,g,0,g,0,g,0,g
+575,k and w cafeterias,salmon grilled,34,g,85,mg,270,g,14,g,33,g,6,g,0,g,2,g,3,g
+576,k and w cafeterias,salmon onion encrusted,45,g,85,mg,190,g,2,g,31,g,8,g,0,g,0,g,1,g
+577,k and w cafeterias,salmon potato encrusted,45,g,85,mg,190,g,4,g,31,g,8,g,0,g,0,g,0,g
+578,k and w cafeterias,salmon teriyaki,34,g,85,mg,640,g,17,g,33,g,6,g,0,g,2,g,5,g
+579,k and w cafeterias,santa fe chicken,11,g,100,mg,850,g,6,g,38,g,2.5,g,0,g,1,g,3,g
+580,k and w cafeterias,santa fe potatoes,5,g,0,mg,530,g,20,g,2,g,1,g,0,g,3,g,4,g
+581,k and w cafeterias,sauerkraut,7,g,0,mg,750,g,6,g,2,g,1.5,g,0,g,3,g,3,g
+582,k and w cafeterias,sausage gravy,10,g,25,mg,510,g,10,g,8,g,2.5,g,0,g,0,g,4,g
+583,k and w cafeterias,sausage gravy with 2 biscuits,41,g,60,mg,2190,g,68,g,23,g,11,g,0,g,1,g,14,g
+584,k and w cafeterias,sausage gravy with biscuit,20,g,30,mg,1090,g,34,g,12,g,5,g,0,g,1,g,7,g
+585,k and w cafeterias,sausage link,8,g,40,mg,210,g,0,g,8,g,2,g,0,g,0,g,0,g
+586,k and w cafeterias,sausage links 2,16,g,75,mg,420,g,0,g,15,g,4.5,g,0,g,0,g,0,g
+587,k and w cafeterias,sausage patty,7,g,35,mg,200,g,0,g,7,g,2,g,0,g,0,g,0,g
+588,k and w cafeterias,sausage patty 2,15,g,70,mg,400,g,0,g,15,g,4,g,0,g,0,g,0,g
+589,k and w cafeterias,sauteed black beans and rice,2,g,0,mg,490,g,32,g,8,g,0,g,0,g,7,g,3,g
+590,k and w cafeterias,sauteed dill potatoes,3,g,0,mg,250,g,21,g,2,g,0.5,g,0,g,2,g,2,g
+591,k and w cafeterias,scalloped potatoes,11,g,5,mg,620,g,28,g,7,g,3.5,g,0,g,2,g,5,g
+592,k and w cafeterias,seafood entrees cod square,16,g,55,mg,840,g,25,g,20,g,3,g,0,g,0,g,1,g
+593,k and w cafeterias,seven layer salad,13,g,20,mg,490,g,10,g,3,g,3,g,0,g,1,g,8,g
+594,k and w cafeterias,shredded lettuce salad,1,g,5,mg,50,g,4,g,2,g,0.5,g,0,g,1,g,2,g
+595,k and w cafeterias,slaw barbecue,0,g,0,mg,200,g,10,g,1,g,0,g,0,g,2,g,6,g
+596,k and w cafeterias,slaw sweet and sour,4,g,0,mg,790,g,28,g,1,g,0.5,g,0,g,1,g,25,g
+597,k and w cafeterias,sliced tomatoes,0,g,0,mg,10,g,7,g,2,g,0,g,0,g,2,g,5,g
+598,k and w cafeterias,soft roll,2.5,g,5,mg,170,g,21,g,3,g,0.5,g,0,g,0,g,4,g
+599,k and w cafeterias,southwestern chicken,11,g,110,mg,360,g,17,g,39,g,4.5,g,0,g,0,g,16,g
+600,k and w cafeterias,spaghetti with meat sauce,18,g,80,mg,1410,g,59,g,33,g,6,g,0,g,3,g,18,g
+601,k and w cafeterias,spanish rice,9,g,10,mg,760,g,27,g,5,g,3,g,0,g,1,g,4,g
+602,k and w cafeterias,spareribs with sauerkraut,58,g,215,mg,1110,g,4,g,52,g,21,g,0,g,2,g,2,g
+603,k and w cafeterias,spinach and egg,15,g,40,mg,500,g,6,g,6,g,3.5,g,0,g,4,g,1,g
+604,k and w cafeterias,spinach parmesan casserole,3,g,5,mg,770,g,17,g,5,g,1,g,0,g,2,g,5,g
+605,k and w cafeterias,spinach pie,19,g,95,mg,960,g,17,g,13,g,7,g,0,g,3,g,4,g
+606,k and w cafeterias,spinach salad,7,g,105,mg,310,g,8,g,10,g,2,g,0,g,3,g,3,g
+607,k and w cafeterias,spinach souffle,4,g,10,mg,430,g,13,g,10,g,2,g,0,g,3,g,3,g
+608,k and w cafeterias,spinach creamed,8,g,40,mg,460,g,13,g,7,g,2,g,0,g,2,g,5,g
+609,k and w cafeterias,spoon bread,15,g,170,mg,650,g,18,g,11,g,3.5,g,0,g,1,g,8,g
+610,k and w cafeterias,squash casserole,10,g,5,mg,760,g,21,g,5,g,2.5,g,0,g,2,g,6,g
+611,k and w cafeterias,stewed apples,0,g,0,mg,0,g,29,g,0,g,0,g,0,g,1,g,17,g
+612,k and w cafeterias,stir fry chicken,13,g,100,mg,680,g,11,g,39,g,2.5,g,0,g,2,g,5,g
+613,k and w cafeterias,stir fry smoked sausage,35,g,75,mg,1800,g,9,g,21,g,9,g,0,g,2,g,4,g
+614,k and w cafeterias,strawberries fresh,0,g,0,mg,0,g,9,g,1,g,0,g,0,g,2,g,6,g
+615,k and w cafeterias,strawberry and banana compote,0,g,0,mg,5,g,28,g,1,g,0,g,0,g,3,g,18,g
+616,k and w cafeterias,strawberry chiffon pie,31,g,15,mg,290,g,58,g,6,g,20,g,0,g,1,g,36,g
+617,k and w cafeterias,strawberry dessert parfait,32,g,150,mg,820,g,126,g,12,g,17,g,0,g,1,g,84,g
+618,k and w cafeterias,strawberry muffin large size,8,g,0,mg,420,g,50,g,2,g,4,g,0,g,0,g,26,g
+619,k and w cafeterias,strawberry muffin regular size,4,g,0,mg,210,g,25,g,1,g,2,g,0,g,0,g,13,g
+620,k and w cafeterias,strawberry pie,22,g,0,mg,250,g,78,g,3,g,13,g,0,g,2,g,47,g
+621,k and w cafeterias,strawberry pie old fashioned,22,g,0,mg,220,g,68,g,2,g,13,g,0,g,2,g,45,g
+622,k and w cafeterias,strawberry shortcake,15,g,125,mg,260,g,67,g,6,g,12,g,0,g,1,g,45,g
+623,k and w cafeterias,stuffed bell pepper,22,g,120,mg,1080,g,12,g,25,g,7,g,0,g,2,g,5,g
+624,k and w cafeterias,succotash,0,g,0,mg,650,g,21,g,3,g,0,g,0,g,2,g,10,g
+625,k and w cafeterias,sugar free pineapple cobbler,4,g,0,mg,115,g,25,g,1,g,1,g,0,g,1,g,12,g
+626,k and w cafeterias,sugar snap peas sauteed,2,g,0,mg,200,g,11,g,2,g,0,g,0,g,1,g,4,g
+627,k and w cafeterias,sugar free apple pie,14,g,0,mg,380,g,47,g,3,g,3.5,g,0,g,3,g,16,g
+628,k and w cafeterias,sugar free banana cream pie,16,g,100,mg,360,g,52,g,8,g,7,g,0,g,1,g,13,g
+629,k and w cafeterias,sugar free blueberry cream pie,12,g,100,mg,360,g,38,g,8,g,3,g,0,g,1,g,12,g
+630,k and w cafeterias,sugar free blueberry pie,14,g,0,mg,370,g,42,g,4,g,3.5,g,0,g,3,g,8,g
+631,k and w cafeterias,sugar free cherry cream pie,12,g,100,mg,360,g,38,g,8,g,3,g,0,g,1,g,12,g
+632,k and w cafeterias,sugar free cherry pie,14,g,0,mg,370,g,47,g,4,g,3.5,g,0,g,2,g,13,g
+633,k and w cafeterias,sugar free chocolate cream pie,21,g,60,mg,370,g,49,g,9,g,10,g,0,g,2,g,11,g
+634,k and w cafeterias,sugar free chocolate pudding,0,g,0,mg,300,g,8,g,1,g,0,g,0,g,1,g,0,g
+635,k and w cafeterias,sugar free congeal,0,g,0,mg,85,g,14,g,1,g,0,g,0,g,0,g,6,g
+636,k and w cafeterias,sugar free egg custard pie,17,g,255,mg,670,g,32,g,13,g,4.5,g,0,g,0,g,14,g
+637,k and w cafeterias,sugar free jell o,0,g,0,mg,80,g,7,g,1,g,0,g,0,g,0,g,0,g
+638,k and w cafeterias,sugar free pineapple cream pie,12,g,100,mg,370,g,47,g,8,g,3,g,0,g,1,g,20,g
+639,k and w cafeterias,sugar free vanilla pudding,0,g,0,mg,320,g,6,g,0,g,0,g,0,g,0,g,0,g
+640,k and w cafeterias,sweet and sour veal,24,g,75,mg,1090,g,54,g,26,g,6,g,0,g,3,g,18,g
+641,k and w cafeterias,sweet potato cake,50,g,85,mg,320,g,126,g,7,g,9,g,0,g,2,g,96,g
+642,k and w cafeterias,sweet potato cobbler,8,g,0,mg,130,g,52,g,1,g,2,g,0,g,1,g,37,g
+643,k and w cafeterias,sweet potato muffin large size,8,g,0,mg,420,g,54,g,2,g,4,g,0,g,0,g,28,g
+644,k and w cafeterias,sweet potato muffin regular size,4,g,0,mg,210,g,27,g,1,g,2,g,0,g,0,g,14,g
+645,k and w cafeterias,sweet potato pie,19,g,80,mg,430,g,69,g,8,g,5,g,0,g,3,g,43,g
+646,k and w cafeterias,three pancakes,43,g,185,mg,3600,g,174,g,17,g,18,g,0,g,2,g,56,g
+647,k and w cafeterias,tilapia amandine,27,g,80,mg,500,g,20,g,40,g,5,g,0,g,2,g,0,g
+648,k and w cafeterias,tilapia blackened,23,g,80,mg,1040,g,19,g,39,g,5,g,0,g,1,g,4,g
+649,k and w cafeterias,tilapia breaded and grilled,21,g,85,mg,800,g,18,g,38,g,4,g,0,g,1,g,0,g
+650,k and w cafeterias,tilapia broiled,17,g,80,mg,170,g,0,g,36,g,3.5,g,0,g,0,g,0,g
+651,k and w cafeterias,tilapia fried,25,g,85,mg,800,g,18,g,38,g,4.5,g,0,g,1,g,0,g
+652,k and w cafeterias,tomato basil soup,0,g,0,mg,550,g,13,g,3,g,0,g,0,g,1,g,9,g
+653,k and w cafeterias,tomato juice,0,g,0,mg,680,g,10,g,2,g,0,g,0,g,2,g,6,g
+654,k and w cafeterias,tomatoes and okra,0,g,0,mg,770,g,18,g,2,g,0,g,0,g,1,g,12,g
+655,k and w cafeterias,tomatoes and zucchini,0,g,0,mg,700,g,16,g,1,g,0,g,0,g,1,g,11,g
+656,k and w cafeterias,tomatoes escalloped,4.5,g,0,mg,730,g,21,g,2,g,1,g,0,g,1,g,12,g
+657,k and w cafeterias,tossed salad,0,g,0,mg,20,g,5,g,1,g,0,g,0,g,2,g,3,g
+658,k and w cafeterias,tuna salad,8,g,65,mg,420,g,1,g,12,g,1,g,0,g,0,g,0,g
+659,k and w cafeterias,turkey blt wrap,51,g,195,mg,2120,g,36,g,56,g,14,g,0,g,7,g,2,g
+660,k and w cafeterias,turkey sausage,6,g,30,mg,300,g,0,g,7,g,1.5,g,0,g,0,g,0,g
+661,k and w cafeterias,turkey sausage patties,12,g,60,mg,600,g,0,g,14,g,3,g,0,g,0,g,0,g
+662,k and w cafeterias,two pancakes,36,g,140,mg,2490,g,139,g,12,g,16,g,0,g,1,g,45,g
+663,k and w cafeterias,vanilla pudding,8,g,50,mg,150,g,33,g,4,g,6,g,0,g,0,g,26,g
+664,k and w cafeterias,veal parmesan,29,g,85,mg,1360,g,41,g,29,g,8,g,0,g,2,g,9,g
+665,k and w cafeterias,vegetable lasagna,5,g,15,mg,740,g,39,g,13,g,2.5,g,0,g,4,g,12,g
+666,k and w cafeterias,vegetable saute,1.5,g,0,mg,320,g,16,g,3,g,0,g,0,g,2,g,5,g
+667,k and w cafeterias,vegetable soup,0.5,g,0,mg,720,g,18,g,4,g,0,g,0,g,3,g,6,g
+668,k and w cafeterias,waffle,40,g,245,mg,660,g,97,g,7,g,23,g,0,g,1,g,25,g
+669,k and w cafeterias,waldorf salad,17,g,10,mg,95,g,20,g,1,g,1.5,g,0,g,3,g,11,g
+670,k and w cafeterias,watergate salad,9,g,0,mg,180,g,25,g,0,g,9,g,0,g,1,g,18,g
+671,k and w cafeterias,watermelon,0,g,0,mg,0,g,19,g,2,g,0,g,0,g,1,g,16,g
+672,k and w cafeterias,wheat bread,3.5,g,10,mg,220,g,27,g,5,g,1,g,0,g,2,g,5,g
+673,k and w cafeterias,white cake with chocolate icing,26,g,5,mg,560,g,108,g,8,g,7,g,0,g,2,g,80,g
+674,k and w cafeterias,white cake with white icing,28,g,5,mg,560,g,116,g,7,g,7,g,0,g,1,g,89,g
+675,k and w cafeterias,white chocolate bread pudding,18,g,85,mg,310,g,64,g,5,g,10,g,0,g,0,g,48,g
+676,k and w cafeterias,white lima beans,2.5,g,20,mg,240,g,20,g,13,g,1,g,0,g,7,g,3,g
+677,k and w cafeterias,white rice,0,g,0,mg,320,g,24,g,2,g,0,g,0,g,0,g,0,g
+678,k and w cafeterias,whitefish amandine,34,g,105,mg,520,g,20,g,37,g,5,g,0,g,2,g,0,g
+679,k and w cafeterias,whitefish breaded and grilled,28,g,115,mg,810,g,18,g,36,g,4.5,g,0,g,1,g,0,g
+680,k and w cafeterias,whitefish fried,32,g,115,mg,810,g,18,g,36,g,5,g,0,g,1,g,0,g
+681,k and w cafeterias,whiting breaded and grilled,20,g,125,mg,900,g,18,g,35,g,3.5,g,0,g,1,g,0,g
+682,k and w cafeterias,whiting fried,24,g,125,mg,900,g,18,g,35,g,4,g,0,g,1,g,0,g
+683,k and w cafeterias,whole okra,9,g,0,mg,370,g,7,g,2,g,2,g,0,g,2,g,3,g
+684,k and w cafeterias,yam souffle,1,g,30,mg,210,g,57,g,3,g,0,g,0,g,3,g,39,g
+685,k and w cafeterias,yellow cake with choc icing,27,g,80,mg,500,g,102,g,7,g,7,g,0,g,2,g,77,g
+686,kahala coffee traders,americano large,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+687,kahala coffee traders,americano regular,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+688,kahala coffee traders,caffe latte large,11,g,35,mg,160,g,16,g,11,g,6,g,0,g,0,g,16,g
+689,kahala coffee traders,caffe latte regular,7,g,20,mg,100,g,10,g,7,g,4,g,0,g,0,g,10,g
+690,kahala coffee traders,caffe mocha large,12,g,35,mg,170,g,39,g,11,g,6,g,0,g,0,g,36,g
+691,kahala coffee traders,caffe mocha regular,7,g,20,mg,105,g,22,g,7,g,4,g,0,g,0,g,20,g
+692,kahala coffee traders,cappuccino large,11,g,35,mg,160,g,16,g,11,g,6,g,0,g,0,g,16,g
+693,kahala coffee traders,cappuccino regular,7,g,20,mg,100,g,10,g,7,g,4,g,0,g,0,g,10,g
+694,kahala coffee traders,caramel frappe large,13,g,10,mg,350,g,92,g,2,g,12,g,0,g,1,g,66,g
+695,kahala coffee traders,caramel frappe regular,8,g,5,mg,220,g,43,g,2,g,7,g,0,g,1,g,42,g
+696,kahala coffee traders,caramel latte large,14,g,45,mg,220,g,40,g,11,g,9,g,0,g,0,g,30,g
+697,kahala coffee traders,caramel latte regular,8,g,25,mg,130,g,22,g,7,g,5,g,0,g,0,g,17,g
+698,kahala coffee traders,chai tea latte large,11,g,35,mg,160,g,22,g,11,g,6,g,0,g,0,g,21,g
+699,kahala coffee traders,chai tea latte regular,7,g,20,mg,100,g,13,g,7,g,4,g,0,g,0,g,13,g
+700,kahala coffee traders,coffee frappe large,10,g,0,mg,290,g,68,g,2,g,9,g,0,g,1,g,52,g
+701,kahala coffee traders,coffee frappe regular,7,g,0,mg,190,g,45,g,2,g,6,g,0,g,1,g,35,g
+702,kahala coffee traders,fresh brewed coffee large,0,g,0,mg,0,g,0,g,1,g,0,g,0,g,0,g,0,g
+703,kahala coffee traders,fresh brewed coffee regular,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+704,kahala coffee traders,hot chocolate large,11,g,20,mg,160,g,124,g,6,g,3.5,g,0,g,0,g,109,g
+705,kahala coffee traders,hot chocolate regular,8,g,10,mg,115,g,98,g,4,g,2.5,g,0,g,0,g,86,g
+706,kahala coffee traders,iced coffee large,0,g,0,mg,10,g,0,g,1,g,0,g,0,g,0,g,0,g
+707,kahala coffee traders,iced coffee regular,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+708,kahala coffee traders,mocha caramel frappe large,12,g,5,mg,330,g,92,g,2,g,10,g,0,g,1,g,69,g
+709,kahala coffee traders,mocha caramel frappe regular,8,g,5,mg,210,g,57,g,2,g,7,g,0,g,1,g,43,g
+710,kahala coffee traders,mocha frappe large,11,g,0,mg,310,g,91,g,2,g,9,g,0,g,1,g,72,g
+711,kahala coffee traders,mocha frappe regular,7,g,0,mg,200,g,57,g,2,g,6,g,0,g,1,g,45,g
+712,kahala coffee traders,vanilla cream large,10,g,0,mg,290,g,88,g,2,g,9,g,0,g,1,g,72,g
+713,kahala coffee traders,vanilla cream regular,7,g,0,mg,190,g,55,g,2,g,6,g,0,g,1,g,45,g
+714,kahala coffee traders,vanilla latte large,11,g,35,mg,160,g,36,g,11,g,6,g,0,g,0,g,36,g
+715,kahala coffee traders,vanilla latte regular,7,g,20,mg,100,g,20,g,7,g,4,g,0,g,0,g,20,g
+716,kahala coffee traders,white chocolate mocha frappe large,10,g,0,mg,300,g,88,g,2,g,9,g,0,g,1,g,68,g
+717,kahala coffee traders,white chocolate mocha frappe regular,7,g,0,mg,200,g,65,g,2,g,6,g,0,g,1,g,51,g
+718,keva juice,acai puree 1 oz,1,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,0,g
+719,keva juice,acai puree 4 oz,4,g,0,mg,0,g,13,g,0,g,0,g,0,g,0,g,0,g
+720,keva juice,all that razz smoothie 12 oz,0,g,0,mg,0,g,67,g,1,g,0,g,0,g,0,g,0,g
+721,keva juice,all that razz smoothie 24 oz,1,g,0,mg,0,g,134,g,3,g,0,g,0,g,0,g,0,g
+722,keva juice,all that razz smoothie 32 oz las cruces only,1.5,g,0,mg,0,g,201,g,4,g,0,g,0,g,0,g,0,g
+723,keva juice,almond joy smoothie 12 oz,12,g,0,mg,0,g,32,g,14,g,0,g,0,g,0,g,0,g
+724,keva juice,almond joy smoothie 24 oz,16,g,0,mg,0,g,40,g,14,g,0,g,0,g,0,g,0,g
+725,keva juice,almond joy smoothie 32 oz las cruces only,28,g,0,mg,0,g,72,g,27,g,0,g,0,g,0,g,0,g
+726,keva juice,almond milk 10 oz,9,g,0,mg,0,g,4,g,4,g,0,g,0,g,0,g,0,g
+727,keva juice,almond milk 4 oz,3.5,g,0,mg,0,g,2,g,2,g,0,g,0,g,0,g,0,g
+728,keva juice,almond milk 8 oz,7,g,0,mg,0,g,3,g,3,g,0,g,0,g,0,g,0,g
+729,keva juice,apple juice concentrate 2 5 oz,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+730,keva juice,apple juice concentrate 5 oz,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+731,keva juice,apple juice concentrate 6 oz,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+732,keva juice,apple juice fresh 12 oz,0,g,0,mg,0,g,14,g,0,g,0,g,0,g,0,g,0,g
+733,keva juice,apple juice fresh 3 oz,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+734,keva juice,apple juice fresh 6 oz,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,0,g
+735,keva juice,apple mango tango smoothie 12 oz,0,g,0,mg,0,g,11,g,1,g,0,g,0,g,0,g,0,g
+736,keva juice,apple mango tango smoothie 24 oz,0,g,0,mg,0,g,23,g,1,g,0,g,0,g,0,g,0,g
+737,keva juice,apple mango tango smoothie 32 oz las cruces only,0.5,g,0,mg,0,g,34,g,2,g,0,g,0,g,0,g,0,g
+738,keva juice,apple pie smoothie 12 oz,0,g,0,mg,0,g,12,g,5,g,0,g,0,g,0,g,0,g
+739,keva juice,apple pie smoothie 24 oz,0,g,0,mg,0,g,24,g,10,g,0,g,0,g,0,g,0,g
+740,keva juice,apple pie smoothie 32 oz las cruces only,0,g,0,mg,0,g,35,g,16,g,0,g,0,g,0,g,0,g
+741,keva juice,bahama blast smoothie 12 oz,0,g,0,mg,0,g,12,g,1,g,0,g,0,g,0,g,0,g
+742,keva juice,bahama blast smoothie 24 oz,0,g,0,mg,0,g,23,g,1,g,0,g,0,g,0,g,0,g
+743,keva juice,bahama blast smoothie 32 oz las cruces only,0,g,0,mg,0,g,35,g,2,g,0,g,0,g,0,g,0,g
+744,keva juice,banana 0 5 banana,0,g,0,mg,0,g,14,g,1,g,0,g,0,g,0,g,0,g
+745,keva juice,banana 1 banana,0,g,0,mg,0,g,27,g,1,g,0,g,0,g,0,g,0,g
+746,keva juice,banana 1 5 slices,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+747,keva juice,banana 3 slices,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+748,keva juice,bananarama smoothie 12 oz,1,g,0,mg,0,g,49,g,6,g,0,g,0,g,0,g,0,g
+749,keva juice,bananarama smoothie 24 oz,1.5,g,0,mg,0,g,98,g,12,g,0,g,0,g,0,g,0,g
+750,keva juice,bananarama smoothie 32 oz las cruces only,2.5,g,0,mg,0,g,147,g,18,g,0,g,0,g,0,g,0,g
+751,keva juice,beet juice 3 oz,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,0,g
+752,keva juice,beet juice 4 oz,0,g,0,mg,0,g,11,g,1,g,0,g,0,g,0,g,0,g
+753,keva juice,beet juice 5 oz,0,g,0,mg,0,g,13,g,1,g,0,g,0,g,0,g,0,g
+754,keva juice,beet juice 8 oz,0,g,0,mg,0,g,21,g,1,g,0,g,0,g,0,g,0,g
+755,keva juice,berry berry good smoothie 12 oz,0,g,0,mg,0,g,48,g,5,g,0,g,0,g,0,g,0,g
+756,keva juice,berry berry good smoothie 24 oz,0,g,0,mg,0,g,96,g,10,g,0,g,0,g,0,g,0,g
+757,keva juice,berry berry good smoothie 32 oz las cruces only,0,g,0,mg,0,g,144,g,15,g,0,g,0,g,0,g,0,g
+758,keva juice,berry buzz smoothie 24 oz,0,g,0,mg,0,g,111,g,2,g,0,g,0,g,0,g,0,g
+759,keva juice,berry buzz smoothie 32 oz las cruces only,0.5,g,0,mg,0,g,166,g,4,g,0,g,0,g,0,g,0,g
+760,keva juice,berry green smoothie 24 oz,5,g,0,mg,0,g,53,g,9,g,0,g,0,g,0,g,0,g
+761,keva juice,blueberries 0 125 cup,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+762,keva juice,blueberries 0 25 cup,0,g,0,mg,0,g,5,g,1,g,0,g,0,g,0,g,0,g
+763,keva juice,blueberries 0 5 cup,0,g,0,mg,0,g,11,g,1,g,0,g,0,g,0,g,0,g
+764,keva juice,blueberry banana acai bowl,6,g,0,mg,0,g,55,g,4,g,0,g,0,g,0,g,0,g
+765,keva juice,blues brothers smoothie 12 oz,0,g,0,mg,0,g,37,g,3,g,0,g,0,g,0,g,0,g
+766,keva juice,blues brothers smoothie 24 oz,0,g,0,mg,0,g,74,g,5,g,0,g,0,g,0,g,0,g
+767,keva juice,blues brothers smoothie 32 oz las cruces only,0,g,0,mg,0,g,111,g,8,g,0,g,0,g,0,g,0,g
+768,keva juice,brazilian blast smoothie 12 oz,1,g,0,mg,0,g,57,g,3,g,0,g,0,g,0,g,0,g
+769,keva juice,brazilian blast smoothie 24 oz,1.5,g,0,mg,0,g,114,g,6,g,0,g,0,g,0,g,0,g
+770,keva juice,brazilian blast smoothie 32 oz las cruces only,2,g,0,mg,0,g,171,g,9,g,0,g,0,g,0,g,0,g
+771,keva juice,carrot juice 4 oz,0,g,0,mg,0,g,10,g,1,g,0,g,0,g,0,g,0,g
+772,keva juice,carrot juice 5 oz,0,g,0,mg,0,g,13,g,1,g,0,g,0,g,0,g,0,g
+773,keva juice,carrot juice 8 oz,0,g,0,mg,0,g,20,g,2,g,0,g,0,g,0,g,0,g
+774,keva juice,celery juice 2 oz,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,0,g,0,g
+775,keva juice,celery juice 4 oz,0,g,0,mg,0,g,5,g,1,g,0,g,0,g,0,g,0,g
+776,keva juice,celery juice 8 oz,0,g,0,mg,0,g,9,g,2,g,0,g,0,g,0,g,0,g
+777,keva juice,chocolate syrup 1 pump,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,0,g
+778,keva juice,chocolate syrup 2 pumps,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,0,g,0,g
+779,keva juice,citrus beet detox smoothie 24 oz,0,g,0,mg,0,g,63,g,6,g,0,g,0,g,0,g,0,g
+780,keva juice,citrus sunrise smoothie 12 oz,0,g,0,mg,0,g,34,g,4,g,0,g,0,g,0,g,0,g
+781,keva juice,citrus sunrise smoothie 24 oz,0,g,0,mg,0,g,68,g,8,g,0,g,0,g,0,g,0,g
+782,keva juice,citrus sunrise smoothie 32 oz las cruces only,0,g,0,mg,0,g,102,g,12,g,0,g,0,g,0,g,0,g
+783,keva juice,coconut shreds 0 125 cup,3.5,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+784,keva juice,coconut shreds 0 25 cup,7,g,0,mg,0,g,3,g,1,g,0,g,0,g,0,g,0,g
+785,keva juice,cucumber juice 12 oz,0,g,0,mg,0,g,23,g,2,g,0,g,0,g,0,g,0,g
+786,keva juice,cucumber juice 2 oz,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+787,keva juice,cucumber juice 4 oz,0,g,0,mg,0,g,4,g,1,g,0,g,0,g,0,g,0,g
+788,keva juice,cucumber melon smoothie 12 oz,0,g,0,mg,0,g,36,g,1,g,0,g,0,g,0,g,0,g
+789,keva juice,cucumber melon smoothie 24 oz,0,g,0,mg,0,g,73,g,3,g,0,g,0,g,0,g,0,g
+790,keva juice,cucumber melon smoothie 32 oz las cruces only,0,g,0,mg,0,g,109,g,4,g,0,g,0,g,0,g,0,g
+791,keva juice,dont go breaking my tart smoothie 12 oz,0,g,0,mg,0,g,37,g,1,g,0,g,0,g,0,g,0,g
+792,keva juice,dont go breaking my tart smoothie 24 oz,0,g,0,mg,0,g,73,g,2,g,0,g,0,g,0,g,0,g
+793,keva juice,dont go breaking my tart smoothie 32 oz las cruces only,0.5,g,0,mg,0,g,110,g,3,g,0,g,0,g,0,g,0,g
+794,keva juice,dragons dream smoothie 12 oz,0,g,0,mg,0,g,28,g,4,g,0,g,0,g,0,g,0,g
+795,keva juice,dragons dream smoothie 24 oz,0,g,0,mg,0,g,56,g,7,g,0,g,0,g,0,g,0,g
+796,keva juice,dragons dream smoothie 32 oz las cruces only,0,g,0,mg,0,g,84,g,11,g,0,g,0,g,0,g,0,g
+797,keva juice,gimme guava smoothie 12 oz,0,g,0,mg,0,g,42,g,2,g,0,g,0,g,0,g,0,g
+798,keva juice,gimme guava smoothie 24 oz,1,g,0,mg,0,g,85,g,5,g,0,g,0,g,0,g,0,g
+799,keva juice,gimme guava smoothie 32 oz las cruces only,1.5,g,0,mg,0,g,127,g,7,g,0,g,0,g,0,g,0,g
+800,keva juice,ginger juice 1 oz,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+801,keva juice,ginger juice 3 slices,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+802,keva juice,granola 0 25 cup,1.5,g,0,mg,0,g,18,g,3,g,0,g,0,g,0,g,0,g
+803,keva juice,green giant juice 12 oz,0,g,0,mg,0,g,9,g,3,g,0,g,0,g,0,g,0,g
+804,keva juice,green giant juice 24 oz,0,g,0,mg,0,g,17,g,5,g,0,g,0,g,0,g,0,g
+805,keva juice,green with energy juice 12 oz,0,g,0,mg,0,g,10,g,2,g,0,g,0,g,0,g,0,g
+806,keva juice,green with energy juice 24 oz,0,g,0,mg,0,g,20,g,4,g,0,g,0,g,0,g,0,g
+807,keva juice,guava passion 12 oz,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,0,g
+808,keva juice,guava passion 3 oz,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+809,keva juice,guava passion 6 oz,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+810,keva juice,hawaiian holiday smoothie 12 oz,0,g,0,mg,0,g,29,g,2,g,0,g,0,g,0,g,0,g
+811,keva juice,hawaiian holiday smoothie 24 oz,1,g,0,mg,0,g,58,g,4,g,0,g,0,g,0,g,0,g
+812,keva juice,hawaiian holiday smoothie 32 oz las cruces only,1.5,g,0,mg,0,g,87,g,6,g,0,g,0,g,0,g,0,g
+813,keva juice,holy kale smoothie 24 oz,9,g,0,mg,0,g,66,g,9,g,0,g,0,g,0,g,0,g
+814,keva juice,honey organic 0 5 oz,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,0,g
+815,keva juice,honey organic 1 oz,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,0,g
+816,keva juice,kale 16 oz,1,g,0,mg,0,g,8,g,3,g,0,g,0,g,0,g,0,g
+817,keva juice,keva green smoothie 24 oz,1.5,g,0,mg,0,g,60,g,9,g,0,g,0,g,0,g,0,g
+818,keva juice,keva kolada smoothie 12 oz,0,g,0,mg,0,g,35,g,6,g,0,g,0,g,0,g,0,g
+819,keva juice,keva kolada smoothie 24 oz,0,g,0,mg,0,g,70,g,11,g,0,g,0,g,0,g,0,g
+820,keva juice,keva kolada smoothie 32 oz las cruces only,0,g,0,mg,0,g,105,g,17,g,0,g,0,g,0,g,0,g
+821,keva juice,kevasicle smoothie 12 oz,0,g,0,mg,0,g,21,g,4,g,0,g,0,g,0,g,0,g
+822,keva juice,kevasicle smoothie 24 oz,0,g,0,mg,0,g,42,g,8,g,0,g,0,g,0,g,0,g
+823,keva juice,kevasicle smoothie 32 oz las cruces only,0,g,0,mg,0,g,62,g,12,g,0,g,0,g,0,g,0,g
+824,keva juice,leah licious smoothie 12 oz,0,g,0,mg,0,g,33,g,1,g,0,g,0,g,0,g,0,g
+825,keva juice,leah licious smoothie 24 oz,1,g,0,mg,0,g,66,g,3,g,0,g,0,g,0,g,0,g
+826,keva juice,leah licious smoothie 32 oz las cruces only,1.5,g,0,mg,0,g,99,g,4,g,0,g,0,g,0,g,0,g
+827,keva juice,lemon berry fusion smoothie 12 oz,0,g,0,mg,0,g,23,g,4,g,0,g,0,g,0,g,0,g
+828,keva juice,lemon berry fusion smoothie 24 oz,0.5,g,0,mg,0,g,46,g,9,g,0,g,0,g,0,g,0,g
+829,keva juice,lemon berry fusion smoothie 32 oz las cruces only,1,g,0,mg,0,g,69,g,13,g,0,g,0,g,0,g,0,g
+830,keva juice,lemon juice 0 5 fruit,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,0,g
+831,keva juice,lemon juice 1 fruit,0,g,0,mg,0,g,14,g,1,g,0,g,0,g,0,g,0,g
+832,keva juice,leprechaun lime smoothie 12 oz,0,g,0,mg,0,g,39,g,1,g,0,g,0,g,0,g,0,g
+833,keva juice,leprechaun lime smoothie 24 oz,0,g,0,mg,0,g,79,g,2,g,0,g,0,g,0,g,0,g
+834,keva juice,leprechaun lime smoothie 32 oz las cruces only,0,g,0,mg,0,g,118,g,3,g,0,g,0,g,0,g,0,g
+835,keva juice,lg bluffin muffin smoothie 12 oz,3,g,0,mg,0,g,16,g,18,g,0,g,0,g,0,g,0,g
+836,keva juice,lg bluffin muffin smoothie 24 oz,6,g,0,mg,0,g,33,g,36,g,0,g,0,g,0,g,0,g
+837,keva juice,lg bluffin muffin smoothie 32 oz las cruces only,8,g,0,mg,0,g,49,g,54,g,0,g,0,g,0,g,0,g
+838,keva juice,lg double berry blast smoothie 12 oz,2.5,g,0,mg,0,g,16,g,18,g,0,g,0,g,0,g,0,g
+839,keva juice,lg double berry blast smoothie 24 oz,5,g,0,mg,0,g,32,g,36,g,0,g,0,g,0,g,0,g
+840,keva juice,lg double berry blast smoothie 32 oz las cruces only,8,g,0,mg,0,g,48,g,54,g,0,g,0,g,0,g,0,g
+841,keva juice,lime me smoothie 12 oz,0,g,0,mg,0,g,64,g,0,g,0,g,0,g,0,g,0,g
+842,keva juice,lime me smoothie 24 oz,0,g,0,mg,0,g,128,g,1,g,0,g,0,g,0,g,0,g
+843,keva juice,lime me smoothie 32 oz las cruces only,0,g,0,mg,0,g,192,g,1,g,0,g,0,g,0,g,0,g
+844,keva juice,lime pitaya bowl,5,g,0,mg,0,g,68,g,7,g,0,g,0,g,0,g,0,g
+845,keva juice,lime sherbet 2 oz,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,0,g
+846,keva juice,lime sherbet 4 oz,0,g,0,mg,0,g,26,g,0,g,0,g,0,g,0,g,0,g
+847,keva juice,lime sherbet 6 oz,0,g,0,mg,0,g,39,g,0,g,0,g,0,g,0,g,0,g
+848,keva juice,liquid olympian smoothie 12 oz,0.5,g,0,mg,0,g,45,g,3,g,0,g,0,g,0,g,0,g
+849,keva juice,liquid olympian smoothie 24 oz,1.5,g,0,mg,0,g,90,g,7,g,0,g,0,g,0,g,0,g
+850,keva juice,liquid olympian smoothie 32 oz las cruces only,2,g,0,mg,0,g,135,g,10,g,0,g,0,g,0,g,0,g
+851,keva juice,malibu slim smoothie 12 oz,0,g,0,mg,0,g,35,g,1,g,0,g,0,g,0,g,0,g
+852,keva juice,malibu slim smoothie 24 oz,0,g,0,mg,0,g,71,g,2,g,0,g,0,g,0,g,0,g
+853,keva juice,malibu slim smoothie 32 oz las cruces only,0,g,0,mg,0,g,106,g,2,g,0,g,0,g,0,g,0,g
+854,keva juice,mamango smoothie 24 oz,0.5,g,0,mg,0,g,38,g,3,g,0,g,0,g,0,g,0,g
+855,keva juice,mango chunks 0 125 cup,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+856,keva juice,mango chunks 0 25 cup,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,0,g
+857,keva juice,mango chunks 0 5 cup,0.5,g,0,mg,0,g,13,g,1,g,0,g,0,g,0,g,0,g
+858,keva juice,mango juice 12 oz,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,0,g
+859,keva juice,mango juice 3 oz,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+860,keva juice,mango juice 5 oz,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+861,keva juice,mango juice 6 oz,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,0,g
+862,keva juice,mango peach acai bowl,4,g,0,mg,0,g,56,g,4,g,0,g,0,g,0,g,0,g
+863,keva juice,mean and green smoothie 24 oz,20,g,0,mg,0,g,46,g,13,g,0,g,0,g,0,g,0,g
+864,keva juice,mello mango smoothie 12 oz,0,g,0,mg,0,g,25,g,1,g,0,g,0,g,0,g,0,g
+865,keva juice,mello mango smoothie 24 oz,0,g,0,mg,0,g,49,g,2,g,0,g,0,g,0,g,0,g
+866,keva juice,mello mango smoothie 32 oz las cruces only,0,g,0,mg,0,g,74,g,4,g,0,g,0,g,0,g,0,g
+867,keva juice,mint chocolate chip smoothie 12 oz,2.5,g,0,mg,0,g,21,g,6,g,0,g,0,g,0,g,0,g
+868,keva juice,mint chocolate chip smoothie 24 oz,5,g,0,mg,0,g,42,g,12,g,0,g,0,g,0,g,0,g
+869,keva juice,mint chocolate chip smoothie 32 oz las cruces only,8,g,0,mg,0,g,63,g,18,g,0,g,0,g,0,g,0,g
+870,keva juice,odwalla orange juice 2 5 oz,0,g,0,mg,0,g,8,g,1,g,0,g,0,g,0,g,0,g
+871,keva juice,odwalla orange juice 5 oz,0,g,0,mg,0,g,16,g,1,g,0,g,0,g,0,g,0,g
+872,keva juice,odwalla orange juice 8 oz,0,g,0,mg,0,g,25,g,2,g,0,g,0,g,0,g,0,g
+873,keva juice,orange obsession smoothie 12 oz,0,g,0,mg,0,g,33,g,2,g,0,g,0,g,0,g,0,g
+874,keva juice,orange obsession smoothie 24 oz,0.5,g,0,mg,0,g,67,g,4,g,0,g,0,g,0,g,0,g
+875,keva juice,orange obsession smoothie 32 oz las cruces only,1,g,0,mg,0,g,100,g,5,g,0,g,0,g,0,g,0,g
+876,keva juice,orange sherbet 2 oz,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+877,keva juice,orange sherbet 4 oz,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,0,g
+878,keva juice,orange sherbet 6 oz,0,g,0,mg,0,g,19,g,0,g,0,g,0,g,0,g,0,g
+879,keva juice,orchard berry smoothie 12 oz,0,g,0,mg,0,g,42,g,1,g,0,g,0,g,0,g,0,g
+880,keva juice,orchard berry smoothie 24 oz,0,g,0,mg,0,g,85,g,3,g,0,g,0,g,0,g,0,g
+881,keva juice,orchard berry smoothie 32 oz las cruces only,0.5,g,0,mg,0,g,127,g,4,g,0,g,0,g,0,g,0,g
+882,keva juice,oreo speedwagon smoothie 12 oz,2.5,g,0,mg,0,g,21,g,6,g,0,g,0,g,0,g,0,g
+883,keva juice,oreo speedwagon smoothie 24 oz,5,g,0,mg,0,g,42,g,12,g,0,g,0,g,0,g,0,g
+884,keva juice,oreo speedwagon smoothie 32 oz las cruces only,8,g,0,mg,0,g,63,g,18,g,0,g,0,g,0,g,0,g
+885,keva juice,oreo 0 125 cup,2.5,g,0,mg,0,g,10,g,1,g,0,g,0,g,0,g,0,g
+886,keva juice,oreo 0 25 cup,5,g,0,mg,0,g,20,g,1,g,0,g,0,g,0,g,0,g
+887,keva juice,passion paradise smoothie 12 oz,0,g,0,mg,0,g,24,g,1,g,0,g,0,g,0,g,0,g
+888,keva juice,passion paradise smoothie 24 oz,0,g,0,mg,0,g,49,g,2,g,0,g,0,g,0,g,0,g
+889,keva juice,passion paradise smoothie 32 oz las cruces only,0,g,0,mg,0,g,73,g,3,g,0,g,0,g,0,g,0,g
+890,keva juice,pb chocolate smoothie 12 oz,8,g,0,mg,0,g,20,g,9,g,0,g,0,g,0,g,0,g
+891,keva juice,pb chocolate smoothie 24 oz,16,g,0,mg,0,g,40,g,18,g,0,g,0,g,0,g,0,g
+892,keva juice,pb chocolate smoothie 32 oz las cruces only,24,g,0,mg,0,g,59,g,27,g,0,g,0,g,0,g,0,g
+893,keva juice,peach carrot twist smoothie 12 oz,0,g,0,mg,0,g,25,g,1,g,0,g,0,g,0,g,0,g
+894,keva juice,peach carrot twist smoothie 24 oz,0,g,0,mg,0,g,49,g,2,g,0,g,0,g,0,g,0,g
+895,keva juice,peach carrot twist smoothie 32 oz las cruces only,0,g,0,mg,0,g,74,g,3,g,0,g,0,g,0,g,0,g
+896,keva juice,peach juice 10 oz,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,0,g
+897,keva juice,peach juice 2 5 oz,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+898,keva juice,peach juice 5 oz,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+899,keva juice,peach treaty smoothie 12 oz,0,g,0,mg,0,g,14,g,1,g,0,g,0,g,0,g,0,g
+900,keva juice,peach treaty smoothie 24 oz,0,g,0,mg,0,g,27,g,2,g,0,g,0,g,0,g,0,g
+901,keva juice,peach treaty smoothie 32 oz las cruces only,0.5,g,0,mg,0,g,41,g,2,g,0,g,0,g,0,g,0,g
+902,keva juice,peaches frozen 0 125 cup,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+903,keva juice,peaches frozen 0 25 cup,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+904,keva juice,peaches frozen 0 5 cup,0,g,0,mg,0,g,8,g,1,g,0,g,0,g,0,g,0,g
+905,keva juice,peanut butter 0 5 oz,8,g,0,mg,0,g,4,g,4,g,0,g,0,g,0,g,0,g
+906,keva juice,peanut butter 1 oz,16,g,0,mg,0,g,7,g,8,g,0,g,0,g,0,g,0,g
+907,keva juice,pineapple juice 2 5 oz,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+908,keva juice,pineapple juice 4 oz,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+909,keva juice,pineapple juice 5 oz,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+910,keva juice,pineapple juice 8 oz,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,0,g
+911,keva juice,pineapple sherbet 1 oz,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,0,g
+912,keva juice,pineapple sherbet 2 oz,0,g,0,mg,0,g,15,g,1,g,0,g,0,g,0,g,0,g
+913,keva juice,pineapple sherbet 6 oz,0,g,0,mg,0,g,46,g,1,g,0,g,0,g,0,g,0,g
+914,keva juice,pineapple splash smoothie 12 oz,0,g,0,mg,0,g,34,g,2,g,0,g,0,g,0,g,0,g
+915,keva juice,pineapple splash smoothie 24 oz,1,g,0,mg,0,g,68,g,4,g,0,g,0,g,0,g,0,g
+916,keva juice,pineapple splash smoothie 32 oz las cruces only,1.5,g,0,mg,0,g,101,g,6,g,0,g,0,g,0,g,0,g
+917,keva juice,pitaya paradise bowl,8,g,0,mg,0,g,41,g,7,g,0,g,0,g,0,g,0,g
+918,keva juice,pitaya 0 125 cup,0,g,0,mg,0,g,4,g,1,g,0,g,0,g,0,g,0,g
+919,keva juice,pitaya 0 25 cup,0,g,0,mg,0,g,7,g,1,g,0,g,0,g,0,g,0,g
+920,keva juice,pitaya 0 5 cup,0,g,0,mg,0,g,15,g,3,g,0,g,0,g,0,g,0,g
+921,keva juice,pom n berry blast smoothie 12 oz,0,g,0,mg,0,g,37,g,1,g,0,g,0,g,0,g,0,g
+922,keva juice,pom n berry blast smoothie 24 oz,0,g,0,mg,0,g,73,g,2,g,0,g,0,g,0,g,0,g
+923,keva juice,pom n berry blast smoothie 32 oz las cruces only,0.5,g,0,mg,0,g,110,g,3,g,0,g,0,g,0,g,0,g
+924,keva juice,pomegranite juice 10 oz,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,0,g
+925,keva juice,pomegranite juice 5 oz,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+926,keva juice,powdered milk 10 oz,0,g,0,mg,0,g,6,g,4,g,0,g,0,g,0,g,0,g
+927,keva juice,powdered milk 4 oz,0,g,0,mg,0,g,2,g,2,g,0,g,0,g,0,g,0,g
+928,keva juice,powdered milk 5 oz,0,g,0,mg,0,g,3,g,2,g,0,g,0,g,0,g,0,g
+929,keva juice,powdered milk 8 oz,0,g,0,mg,0,g,5,g,3,g,0,g,0,g,0,g,0,g
+930,keva juice,pumpkin mix 0 125 cup,0,g,0,mg,0,g,9,g,1,g,0,g,0,g,0,g,0,g
+931,keva juice,pumpkin mix 0 25 cup,0.5,g,0,mg,0,g,18,g,2,g,0,g,0,g,0,g,0,g
+932,keva juice,pumpkin seasonal bowl,3,g,0,mg,0,g,70,g,17,g,0,g,0,g,0,g,0,g
+933,keva juice,ragin raspberry smoothie 12 oz,0,g,0,mg,0,g,50,g,1,g,0,g,0,g,0,g,0,g
+934,keva juice,ragin raspberry smoothie 24 oz,0,g,0,mg,0,g,100,g,1,g,0,g,0,g,0,g,0,g
+935,keva juice,ragin raspberry smoothie 32 oz las cruces only,0,g,0,mg,0,g,150,g,2,g,0,g,0,g,0,g,0,g
+936,keva juice,ragin rocker smoothie 24 oz,0,g,0,mg,0,g,53,g,1,g,0,g,0,g,0,g,0,g
+937,keva juice,ragin rocker smoothie 32 oz las cruces only,0.5,g,0,mg,0,g,80,g,2,g,0,g,0,g,0,g,0,g
+938,keva juice,rainforest rambo smoothie 12 oz,1.5,g,0,mg,0,g,55,g,4,g,0,g,0,g,0,g,0,g
+939,keva juice,rainforest rambo smoothie 24 oz,3,g,0,mg,0,g,110,g,7,g,0,g,0,g,0,g,0,g
+940,keva juice,rainforest rambo smoothie 32 oz las cruces only,4.5,g,0,mg,0,g,166,g,11,g,0,g,0,g,0,g,0,g
+941,keva juice,raspberries 0 125 cup,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+942,keva juice,raspberries 0 25 cup,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+943,keva juice,raspberries 0 5 cup,0,g,0,mg,0,g,7,g,1,g,0,g,0,g,0,g,0,g
+944,keva juice,raspberry juice 10 oz,0,g,0,mg,0,g,66,g,0,g,0,g,0,g,0,g,0,g
+945,keva juice,raspberry juice 2 5 oz,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,0,g
+946,keva juice,raspberry juice 5 oz,0,g,0,mg,0,g,33,g,0,g,0,g,0,g,0,g,0,g
+947,keva juice,raspberry sherbet 2 oz,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,0,g,0,g
+948,keva juice,raspberry sherbet 4 oz,0,g,0,mg,0,g,25,g,0,g,0,g,0,g,0,g,0,g
+949,keva juice,raspberry sherbet 6 oz,0,g,0,mg,0,g,38,g,0,g,0,g,0,g,0,g,0,g
+950,keva juice,razmanian devil smoothie 12 oz,0,g,0,mg,0,g,41,g,0,g,0,g,0,g,0,g,0,g
+951,keva juice,razmanian devil smoothie 24 oz,0,g,0,mg,0,g,81,g,1,g,0,g,0,g,0,g,0,g
+952,keva juice,razmanian devil smoothie 32 oz las cruces only,0,g,0,mg,0,g,122,g,1,g,0,g,0,g,0,g,0,g
+953,keva juice,rev up red juice 12 oz,0,g,0,mg,0,g,25,g,2,g,0,g,0,g,0,g,0,g
+954,keva juice,rev up red juice 24 oz,0,g,0,mg,0,g,49,g,4,g,0,g,0,g,0,g,0,g
+955,keva juice,rockstar regular 4 oz,0,g,0,mg,0,g,16,g,0,g,0,g,0,g,0,g,0,g
+956,keva juice,smashing pumpkin smoothie 12 oz,0,g,0,mg,0,g,19,g,6,g,0,g,0,g,0,g,0,g
+957,keva juice,smashing pumpkin smoothie 24 oz,1,g,0,mg,0,g,38,g,12,g,0,g,0,g,0,g,0,g
+958,keva juice,smashing pumpkin smoothie 32 oz las cruces only,1,g,0,mg,0,g,58,g,18,g,0,g,0,g,0,g,0,g
+959,keva juice,spinach juiced 16 oz,0,g,0,mg,0,g,2,g,2,g,0,g,0,g,0,g,0,g
+960,keva juice,spinach juiced 8 oz,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+961,keva juice,spinach 16 oz,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,0,g,0,g
+962,keva juice,star spangled smoothie 12 oz,0,g,0,mg,0,g,27,g,3,g,0,g,0,g,0,g,0,g
+963,keva juice,star spangled smoothie 24 oz,0.5,g,0,mg,0,g,54,g,5,g,0,g,0,g,0,g,0,g
+964,keva juice,star spangled smoothie 32 oz las cruces only,1,g,0,mg,0,g,80,g,8,g,0,g,0,g,0,g,0,g
+965,keva juice,strawberry banana acai bowl,6,g,0,mg,0,g,68,g,5,g,0,g,0,g,0,g,0,g
+966,keva juice,strawberry squeezer smoothie 12 oz,0,g,0,mg,0,g,47,g,4,g,0,g,0,g,0,g,0,g
+967,keva juice,strawberry squeezer smoothie 24 oz,1,g,0,mg,0,g,94,g,7,g,0,g,0,g,0,g,0,g
+968,keva juice,strawberry squeezer smoothie 32 oz las cruces only,1,g,0,mg,0,g,142,g,11,g,0,g,0,g,0,g,0,g
+969,keva juice,strawberry 0 125 cup,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+970,keva juice,strawberry 0 25 cup,0,g,0,mg,0,g,12,g,1,g,0,g,0,g,0,g,0,g
+971,keva juice,strawberry 0 5 cup,0.5,g,0,mg,0,g,24,g,2,g,0,g,0,g,0,g,0,g
+972,keva juice,sunrise juice 12 oz,0,g,0,mg,0,g,19,g,1,g,0,g,0,g,0,g,0,g
+973,keva juice,sunrise juice 24 oz,0,g,0,mg,0,g,38,g,2,g,0,g,0,g,0,g,0,g
+974,keva juice,sunset juice 12 oz,0,g,0,mg,0,g,16,g,2,g,0,g,0,g,0,g,0,g
+975,keva juice,sunset juice 24 oz,0,g,0,mg,0,g,33,g,4,g,0,g,0,g,0,g,0,g
+976,keva juice,sunset on the beach smoothie 12 oz,0,g,0,mg,0,g,29,g,1,g,0,g,0,g,0,g,0,g
+977,keva juice,sunset on the beach smoothie 24 oz,0,g,0,mg,0,g,58,g,2,g,0,g,0,g,0,g,0,g
+978,keva juice,sunset on the beach smoothie 32 oz las cruces only,0,g,0,mg,0,g,86,g,3,g,0,g,0,g,0,g,0,g
+979,keva juice,super star smoothie 24 oz,0.5,g,0,mg,0,g,85,g,7,g,0,g,0,g,0,g,0,g
+980,keva juice,super star smoothie 32 oz las cruces only,1,g,0,mg,0,g,127,g,10,g,0,g,0,g,0,g,0,g
+981,keva juice,the hangover smoothie 24 oz,1,g,0,mg,0,g,65,g,5,g,0,g,0,g,0,g,0,g
+982,keva juice,tropical dragon pitaya bowl,3.5,g,0,mg,0,g,49,g,6,g,0,g,0,g,0,g,0,g
+983,keva juice,tropical trio smoothie 12 oz,0,g,0,mg,0,g,40,g,2,g,0,g,0,g,0,g,0,g
+984,keva juice,tropical trio smoothie 24 oz,1,g,0,mg,0,g,80,g,5,g,0,g,0,g,0,g,0,g
+985,keva juice,tropical trio smoothie 32 oz las cruces only,1,g,0,mg,0,g,121,g,7,g,0,g,0,g,0,g,0,g
+986,keva juice,vivacious juice 12 oz,0,g,0,mg,0,g,24,g,2,g,0,g,0,g,0,g,0,g
+987,keva juice,vivacious juice 24 oz,0,g,0,mg,0,g,47,g,4,g,0,g,0,g,0,g,0,g
+988,keva juice,wheatgrass 1 oz,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+989,keva juice,whey protein 1 scoop,2,g,0,mg,0,g,4,g,30,g,0,g,0,g,0,g,0,g
+990,keva juice,yogurt nsa 2 oz,1.5,g,0,mg,0,g,7,g,1,g,0,g,0,g,0,g,0,g
+991,keva juice,yogurt nsa 4 oz,3,g,0,mg,0,g,14,g,2,g,0,g,0,g,0,g,0,g
+992,keva juice,yogurt nsa 6 oz,4.5,g,0,mg,0,g,20,g,3,g,0,g,0,g,0,g,0,g
+993,keva juice,yogurt vanilla 2 oz,0,g,0,mg,0,g,8,g,4,g,0,g,0,g,0,g,0,g
+994,keva juice,yogurt vanilla 4 oz,0,g,0,mg,0,g,16,g,7,g,0,g,0,g,0,g,0,g
+995,keva juice,yogurt vanilla 6 oz,0,g,0,mg,0,g,21,g,9,g,0,g,0,g,0,g,0,g
+996,king taco,all meat burritos al pastor,53,g,0,mg,2060,g,68,g,67,g,18,g,0,g,0,g,0,g
+997,king taco,all meat burritos buche,40,g,0,mg,2710,g,62,g,95,g,16,g,0,g,0,g,0,g
+998,king taco,all meat burritos cabeza,41,g,0,mg,1740,g,64,g,85,g,18,g,0,g,0,g,0,g
+999,king taco,all meat burritos carne asada,35,g,0,mg,2440,g,83,g,77,g,17,g,0,g,0,g,0,g

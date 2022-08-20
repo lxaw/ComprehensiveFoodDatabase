@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,coffee bean and tea leaf,32 oz iced caramel latte,7,g,20,mg,450,g,106,g,19,g,6,g,0,g,0,g,90,g
+1,coffee bean and tea leaf,32 oz iced chai tea latte,9,g,10,mg,200,g,61,g,7,g,9,g,0,g,1,g,53,g
+2,coffee bean and tea leaf,32 oz iced coffee,1,g,5,mg,95,g,2,g,1,g,0,g,0,g,1,g,1,g
+3,coffee bean and tea leaf,32 oz iced dark chocolate americano,8,g,0,mg,220,g,64,g,6,g,7,g,0,g,4,g,50,g
+4,coffee bean and tea leaf,32 oz iced dark chocolate latte,8,g,10,mg,430,g,86,g,21,g,7,g,0,g,4,g,70,g
+5,coffee bean and tea leaf,32 oz iced dirty chai tea latte,9,g,10,mg,210,g,62,g,7,g,9,g,0,g,1,g,53,g
+6,coffee bean and tea leaf,32 oz iced green tea,0,g,0,mg,0,g,0,g,1,g,0,g,0,g,0,g,0,g
+7,coffee bean and tea leaf,32 oz iced hazelnut americano,15,g,0,mg,260,g,64,g,2,g,13,g,0,g,0,g,46,g
+8,coffee bean and tea leaf,32 oz iced hazelnut latte,16,g,5,mg,450,g,88,g,13,g,15,g,0,g,0,g,67,g
+9,coffee bean and tea leaf,32 oz iced latte,17,g,65,mg,260,g,27,g,15,g,10,g,0,g,0,g,23,g
+10,coffee bean and tea leaf,32 oz iced matcha tea latte,9,g,10,mg,380,g,77,g,19,g,8,g,0,g,0,g,66,g
+11,coffee bean and tea leaf,32 oz iced mocha americano,7,g,5,mg,300,g,64,g,7,g,7,g,0,g,1,g,51,g
+12,coffee bean and tea leaf,32 oz iced mocha latte,7,g,15,mg,510,g,85,g,22,g,7,g,0,g,1,g,71,g
+13,coffee bean and tea leaf,32 oz iced moroccan mint tea latte with chocolate powder,7,g,5,mg,280,g,63,g,7,g,6,g,0,g,1,g,52,g
+14,coffee bean and tea leaf,32 oz iced tea latte with vanilla,9,g,5,mg,200,g,60,g,7,g,9,g,0,g,0,g,53,g
+15,coffee bean and tea leaf,32 oz iced tea lemonade,0,g,0,mg,40,g,67,g,0,g,0,g,0,g,0,g,63,g
+16,coffee bean and tea leaf,32 oz iced vanilla americano,9,g,5,mg,230,g,62,g,7,g,9,g,0,g,0,g,53,g
+17,coffee bean and tea leaf,32 oz iced vanilla latte,9,g,15,mg,440,g,84,g,22,g,9,g,0,g,0,g,73,g
+18,coffee bean and tea leaf,32 oz iced white chocolate americano,16,g,0,mg,400,g,62,g,2,g,14,g,0,g,0,g,43,g
+19,coffee bean and tea leaf,32 oz iced white chocolate latte,16,g,10,mg,610,g,84,g,17,g,14,g,0,g,0,g,63,g
+20,coffee bean and tea leaf,32 oz malibu dream ice blended drink,17,g,15,mg,410,g,167,g,16,g,17,g,0,g,0,g,140,g
+21,coffee bean and tea leaf,32 oz mango cold brew tea,0,g,0,mg,15,g,67,g,0,g,0,g,0,g,0,g,65,g
+22,coffee bean and tea leaf,32 oz matcha tea ice blended drink,18,g,15,mg,620,g,140,g,28,g,16,g,0,g,0,g,119,g
+23,coffee bean and tea leaf,32 oz midnight mocha cold brew latte,12,g,40,mg,190,g,85,g,11,g,6,g,0,g,3,g,75,g
+24,coffee bean and tea leaf,32 oz mocha ice blended drink,15,g,20,mg,700,g,139,g,25,g,13,g,0,g,3,g,117,g
+25,coffee bean and tea leaf,32 oz mocha iced coffee,7,g,5,mg,300,g,63,g,7,g,7,g,0,g,1,g,51,g
+26,coffee bean and tea leaf,32 oz peach jasmine cold brew tea,0,g,0,mg,35,g,43,g,0,g,0,g,0,g,0,g,43,g
+27,coffee bean and tea leaf,32 oz pomegranate blueberry ice blended drink,17,g,15,mg,430,g,174,g,16,g,17,g,0,g,0,g,154,g
+28,coffee bean and tea leaf,32 oz pure chocolate ice blended drink,14,g,20,mg,750,g,143,g,28,g,13,g,0,g,3,g,121,g
+29,coffee bean and tea leaf,32 oz pure cookies and cream ice blended drink,26,g,20,mg,660,g,173,g,30,g,19,g,0,g,1,g,142,g
+30,coffee bean and tea leaf,32 oz pure vanilla ice blended drink,17,g,20,mg,610,g,140,g,28,g,17,g,0,g,0,g,124,g
+31,coffee bean and tea leaf,32 oz raspberry black cold brew tea,0,g,0,mg,45,g,57,g,0,g,0,g,0,g,0,g,53,g
+32,coffee bean and tea leaf,32 oz vanilla bean cold brew latte,10,g,40,mg,180,g,88,g,10,g,5,g,0,g,1,g,73,g
+33,coffee bean and tea leaf,32 oz vanilla ice blended drink,18,g,20,mg,560,g,136,g,25,g,17,g,0,g,0,g,120,g
+34,coffee bean and tea leaf,32 oz vanilla iced coffee,9,g,5,mg,230,g,62,g,7,g,9,g,0,g,0,g,53,g
+35,coffee bean and tea leaf,32 oz vietnamese cold brew coffee,13,g,45,mg,140,g,96,g,14,g,7,g,0,g,1,g,86,g
+36,coffee bean and tea leaf,32 oz white chocolate ice blended drink,35,g,5,mg,980,g,155,g,14,g,32,g,0,g,0,g,114,g
+37,coffee bean and tea leaf,32 oz white chocolate iced coffee,17,g,0,mg,440,g,68,g,2,g,16,g,0,g,0,g,47,g
+38,coffee bean and tea leaf,almond milk,4.5,g,0,mg,180,g,7,g,2,g,0,g,0,g,1,g,5,g
+39,coffee bean and tea leaf,caramel swirl,0.5,g,0,mg,20,g,9,g,0,g,0,g,0,g,0,g,8,g
+40,coffee bean and tea leaf,cherries,0,g,0,mg,0,g,16,g,0,g,0,g,0,g,0,g,16,g
+41,coffee bean and tea leaf,chocolate covered espresso beans,4,g,0,mg,0,g,8,g,1,g,2,g,0,g,0,g,6,g
+42,coffee bean and tea leaf,chocolate powder,3.5,g,5,mg,135,g,31,g,4,g,3,g,0,g,1,g,26,g
+43,coffee bean and tea leaf,chocolate swirl,0,g,0,mg,10,g,8,g,0,g,0,g,0,g,0,g,8,g
+44,coffee bean and tea leaf,coconut milk,5,g,0,mg,125,g,10,g,1,g,5,g,0,g,0,g,9,g
+45,coffee bean and tea leaf,cookie pieces,6,g,0,mg,35,g,21,g,1,g,1.5,g,0,g,1,g,12,g
+46,coffee bean and tea leaf,dark chocolate powder,4,g,0,mg,95,g,31,g,3,g,3.5,g,0,g,2,g,25,g
+47,coffee bean and tea leaf,double espresso,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+48,coffee bean and tea leaf,half and half,3,g,15,mg,15,g,1,g,1,g,2,g,0,g,0,g,1,g
+49,coffee bean and tea leaf,hazelnut powder,7,g,0,mg,115,g,31,g,1,g,6,g,0,g,0,g,23,g
+50,coffee bean and tea leaf,no sugar added chocolate powder,0.5,g,0,mg,80,g,9,g,3,g,0,g,0,g,1,g,4,g
+51,coffee bean and tea leaf,no sugar added vanilla powder,0,g,0,mg,50,g,9,g,3,g,0,g,0,g,0,g,4,g
+52,coffee bean and tea leaf,oat milk,7,g,0,mg,100,g,16,g,3,g,0.5,g,0,g,2,g,7,g
+53,coffee bean and tea leaf,shot of espresso,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+54,coffee bean and tea leaf,single espresso,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+55,coffee bean and tea leaf,soy milk,4.5,g,0,mg,125,g,12,g,8,g,0.5,g,0,g,2,g,9,g
+56,coffee bean and tea leaf,vanilla powder,4.5,g,5,mg,100,g,30,g,4,g,4.5,g,0,g,0,g,26,g
+57,coffee bean and tea leaf,whipped cream,9,g,30,mg,0,g,6,g,0,g,6,g,0,g,0,g,6,g
+58,coffee bean and tea leaf,white chocolate powder,8,g,0,mg,190,g,30,g,1,g,7,g,0,g,0,g,21,g
+59,coffee beanery,turkey muenster melt panini,15,g,0,mg,1000,g,27,g,20,g,0,g,0,g,0,g,8,g
+60,coffee beanery,grilled chicken wrap,26,g,100,mg,860,g,82,g,45,g,0,g,0,g,5,g,17,g
+61,coffee beanery,hummus veggie wrap,13,g,0,mg,618,g,37,g,18,g,0,g,0,g,0,g,6,g
+62,coffee beanery,cheddar jack stacker wrap,39,g,140,mg,2960,g,71,g,53,g,0,g,0,g,0,g,0,g
+63,coffee beanery,buffalo chicken wrap,12,g,70,mg,2390,g,72,g,38,g,0,g,0,g,6,g,4,g
+64,coffee beanery,single cappuccino with whole milk,7,g,30,mg,115,g,11,g,7,g,4,g,0,g,0,g,11,g
+65,coffee beanery,breakfast veggio sandwich,14,g,0,mg,343,g,21,g,21,g,0,g,0,g,0,g,3,g
+66,coffee beanery,turkey cucumber club panini,19,g,0,mg,1118,g,58,g,27,g,0,g,0,g,0,g,15,g
+67,coffee beanery,chicken bacon ranch pita,43,g,0,mg,1060,g,35,g,30,g,0,g,0,g,0,g,4,g
+68,coffee beanery,revved up roast beef panini,47,g,0,mg,2297,g,46,g,48,g,0,g,0,g,0,g,0,g
+69,coffee beanery,pb fusion panini,3,g,0,mg,210,g,91,g,8,g,0,g,0,g,0,g,40,g
+70,coffee beanery,the a mazing panini,17,g,0,mg,797,g,36,g,19,g,0,g,0,g,0,g,14,g
+71,coffee beanery,uptown tuna ciabatta,18,g,40,mg,920,g,52,g,27,g,0,g,0,g,3,g,9,g
+72,coffee beanery,revved up roast beef panini,47,g,0,mg,2297,g,46,g,48,g,0,g,0,g,0,g,0,g
+73,coffee beanery,americano grande,0,g,0,mg,25,g,1,g,0,g,0,g,0,g,0,g,0,g
+74,coffee beanery,americano tall,0,g,0,mg,20,g,1,g,0,g,0,g,0,g,0,g,0,g
+75,coffee beanery,americano xl,0,g,0,mg,30,g,2,g,0,g,0,g,0,g,0,g,0,g
+76,coffee beanery,bacon egg and cheese bagel,22,g,0,mg,1080,g,50,g,32,g,0,g,0,g,0,g,8,g
+77,coffee beanery,black and white frappalatte grande,25,g,25,mg,730,g,204,g,6,g,20,g,0,g,4,g,184,g
+78,coffee beanery,black and white frappalatte tall,18,g,15,mg,510,g,142,g,4,g,14,g,0,g,3,g,128,g
+79,coffee beanery,black and white frappalatte xl,30,g,25,mg,880,g,249,g,7,g,24,g,0,g,5,g,225,g
+80,coffee beanery,blended chai chiller grande,5,g,0,mg,90,g,56,g,4,g,5,g,0,g,0,g,49,g
+81,coffee beanery,blended chai chiller tall,4,g,0,mg,65,g,40,g,3,g,4,g,0,g,0,g,35,g
+82,coffee beanery,blended chai chiller xl,8,g,0,mg,140,g,88,g,6,g,8,g,0,g,0,g,77,g
+83,coffee beanery,cafe carmel grande,7,g,15,mg,260,g,44,g,2,g,4,g,0,g,0,g,34,g
+84,coffee beanery,cafe carmel tall,5,g,10,mg,200,g,35,g,1,g,3,g,0,g,0,g,27,g
+85,coffee beanery,cafe carmel xl,9,g,20,mg,310,g,52,g,2,g,5,g,0,g,0,g,41,g
+86,coffee beanery,caffe latte grande,7,g,30,mg,180,g,19,g,12,g,5,g,0,g,0,g,19,g
+87,coffee beanery,caffe latte tall,5,g,20,mg,125,g,13,g,8,g,3.5,g,0,g,0,g,12,g
+88,coffee beanery,caffe latte xl,9,g,35,mg,210,g,22,g,14,g,6,g,0,g,0,g,22,g
+89,coffee beanery,caffe mocha grande,8,g,25,mg,220,g,48,g,12,g,5,g,0,g,2,g,44,g
+90,coffee beanery,caffe mocha tall,7,g,20,mg,170,g,35,g,10,g,4,g,0,g,1,g,32,g
+91,coffee beanery,caffe mocha xl,10,g,30,mg,270,g,62,g,15,g,6,g,0,g,3,g,56,g
+92,coffee beanery,cappuccino grande,4.5,g,20,mg,120,g,12,g,8,g,3,g,0,g,0,g,12,g
+93,coffee beanery,cappuccino tall,3,g,10,mg,80,g,8,g,5,g,2,g,0,g,0,g,8,g
+94,coffee beanery,cappuccino xl,6,g,20,mg,140,g,15,g,9,g,4,g,0,g,0,g,14,g
+95,coffee beanery,caramel crunch swirl grande,30,g,20,mg,870,g,206,g,5,g,28,g,0,g,2,g,185,g
+96,coffee beanery,caramel crunch swirl tall,20,g,15,mg,590,g,142,g,3,g,15,g,0,g,2,g,127,g
+97,coffee beanery,caramel crunch swirl xl,37,g,25,mg,1080,g,254,g,5,g,28,g,0,g,3,g,228,g
+98,coffee beanery,caramel frapp grande,25,g,20,mg,820,g,198,g,5,g,20,g,0,g,2,g,176,g
+99,coffee beanery,caramel frapp tall,17,g,15,mg,570,g,138,g,3,g,14,g,0,g,2,g,123,g
+100,coffee beanery,caramel frapp xl,30,g,25,mg,980,g,239,g,5,g,24,g,0,g,3,g,214,g
+101,coffee beanery,caramelatte grande,7,g,20,mg,330,g,47,g,9,g,4.5,g,0,g,0,g,39,g
+102,coffee beanery,caramelatte tall,5,g,15,mg,250,g,36,g,7,g,3.5,g,0,g,0,g,30,g
+103,coffee beanery,caramelatte xl,11,g,35,mg,450,g,63,g,14,g,7,g,0,g,0,g,53,g
+104,coffee beanery,caribean iceberg grande,6,g,20,mg,70,g,48,g,2,g,3,g,0,g,0,g,46,g
+105,coffee beanery,caribean iceberg tall,3.5,g,10,mg,50,g,35,g,1,g,2,g,0,g,0,g,33,g
+106,coffee beanery,caribean iceberg xl,8,g,25,mg,110,g,78,g,2,g,4.5,g,0,g,0,g,75,g
+107,coffee beanery,cb hot cocoa grande,9,g,30,mg,220,g,49,g,13,g,5,g,0,g,2,g,46,g
+108,coffee beanery,cb hot cocoa tall,7,g,20,mg,170,g,39,g,10,g,4,g,0,g,2,g,36,g
+109,coffee beanery,cb hot cocoa xl,12,g,40,mg,290,g,60,g,17,g,7,g,0,g,2,g,56,g
+110,coffee beanery,chai chiller grande,5,g,0,mg,85,g,56,g,4,g,5,g,0,g,0,g,49,g
+111,coffee beanery,chai chiller tall,4,g,0,mg,65,g,40,g,3,g,4,g,0,g,0,g,35,g
+112,coffee beanery,chai chiller xl,8,g,0,mg,140,g,88,g,6,g,8,g,0,g,0,g,77,g
+113,coffee beanery,chai tea latte grande,12,g,30,mg,250,g,67,g,16,g,10,g,0,g,0,g,62,g
+114,coffee beanery,chai tea latte tall,8,g,20,mg,150,g,44,g,10,g,6,g,0,g,0,g,40,g
+115,coffee beanery,chai tea latte xl,16,g,40,mg,310,g,87,g,20,g,12,g,0,g,0,g,81,g
+116,coffee beanery,chai tea grande,4.5,g,0,mg,75,g,48,g,3,g,4.5,g,0,g,0,g,42,g
+117,coffee beanery,chai tea tall,3,g,0,mg,50,g,32,g,2,g,3,g,0,g,0,g,28,g
+118,coffee beanery,chai tea xl,6,g,0,mg,100,g,64,g,4,g,6,g,0,g,0,g,56,g
+119,coffee beanery,cheddar jack stack,39,g,140,mg,2960,g,71,g,53,g,0,g,0,g,3,g,17,g
+120,coffee beanery,chicken bacon bbq,15,g,0,mg,1020,g,61,g,28,g,0,g,0,g,0,g,26,g
+121,coffee beanery,chicken bacon ranch,43,g,0,mg,1060,g,35,g,30,g,0,g,0,g,0,g,4,g
+122,coffee beanery,chicken salad wrap,29,g,20,mg,14080,g,46,g,19,g,0,g,0,g,3,g,4,g
+123,coffee beanery,coffee frapp grande,24,g,20,mg,680,g,173,g,5,g,20,g,0,g,2,g,157,g
+124,coffee beanery,coffee frapp tall,17,g,15,mg,470,g,121,g,5,g,14,g,0,g,2,g,214,g
+125,coffee beanery,coffee frapp xl,28,g,25,mg,810,g,208,g,5,g,24,g,0,g,3,g,189,g
+126,coffee beanery,cream smoothie grande,31,g,30,mg,850,g,227,g,6,g,26,g,0,g,3,g,210,g
+127,coffee beanery,cream smoothie tall,22,g,20,mg,600,g,159,g,4,g,18,g,0,g,2,g,147,g
+128,coffee beanery,cream smoothie xl,37,g,35,mg,1020,g,272,g,7,g,31,g,0,g,3,g,252,g
+129,coffee beanery,espresso,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+130,coffee beanery,espresso macchiato,1.5,g,5,mg,35,g,3,g,2,g,1,g,0,g,0,g,3,g
+131,coffee beanery,fresh brewed coffee grande,0,g,0,mg,10,g,0,g,1,g,0,g,0,g,0,g,0,g
+132,coffee beanery,fresh brewed coffee tall,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+133,coffee beanery,fresh brewed coffee xl,0,g,0,mg,10,g,0,g,1,g,0,g,0,g,0,g,0,g
+134,coffee beanery,green apple smoothie grande,1,g,0,mg,30,g,95,g,0,g,0,g,0,g,2,g,93,g
+135,coffee beanery,green apple smoothie xl,1.5,g,0,mg,45,g,142,g,0,g,0,g,0,g,3,g,139,g
+136,coffee beanery,ham egg and cheese bagel,17,g,0,mg,1460,g,53,g,37,g,0,g,0,g,0,g,9,g
+137,coffee beanery,hot spiced veinnese xl,9,g,20,mg,85,g,86,g,4,g,4.5,g,0,g,5,g,75,g
+138,coffee beanery,hot spiced viennese grande,8,g,20,mg,65,g,65,g,3,g,4.5,g,0,g,4,g,57,g
+139,coffee beanery,hot spiced viennese tall,7,g,20,mg,45,g,45,g,2,g,4.5,g,0,g,3,g,39,g
+140,coffee beanery,hummas veggie wrap,13,g,0,mg,620,g,37,g,18,g,0,g,0,g,0,g,6,g
+141,coffee beanery,iced chai grande,4.5,g,0,mg,60,g,48,g,3,g,4.5,g,0,g,0,g,42,g
+142,coffee beanery,iced chai tall,3,g,0,mg,50,g,32,g,2,g,3,g,0,g,0,g,28,g
+143,coffee beanery,iced chai xl,6,g,0,mg,100,g,64,g,4,g,6,g,0,g,0,g,56,g
+144,coffee beanery,iced coffee grande,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+145,coffee beanery,iced coffee tall,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+146,coffee beanery,iced coffee xl,0,g,0,mg,10,g,0,g,1,g,0,g,0,g,0,g,0,g
+147,coffee beanery,iced fudge ripple grande,6,g,20,mg,40,g,43,g,2,g,3,g,0,g,1,g,42,g
+148,coffee beanery,iced fudge ripple tall,3.5,g,10,mg,30,g,31,g,1,g,2,g,0,g,1,g,31,g
+149,coffee beanery,iced fudge ripple xl,7,g,25,mg,65,g,70,g,3,g,4.5,g,0,g,1,g,69,g
+150,coffee beanery,italian grilled cheese,35,g,0,mg,1260,g,32,g,30,g,0,g,0,g,0,g,1,g
+151,coffee beanery,mango smoothie grande,2,g,0,mg,40,g,104,g,0,g,0,g,0,g,0,g,89,g
+152,coffee beanery,mango smoothie tall,0.5,g,0,mg,30,g,78,g,0,g,0,g,0,g,0,g,67,g
+153,coffee beanery,mango smoothie xl,1.5,g,0,mg,55,g,156,g,0,g,0,g,0,g,0,g,133,g
+154,coffee beanery,mocha cream grande,4.5,g,10,mg,125,g,39,g,6,g,2.5,g,0,g,2,g,35,g
+155,coffee beanery,mocha cream tall,3.5,g,10,mg,95,g,27,g,5,g,2,g,0,g,1,g,24,g
+156,coffee beanery,mocha cream xl,6,g,15,mg,160,g,50,g,8,g,3,g,0,g,3,g,45,g
+157,coffee beanery,mocha frapp grande,24,g,20,mg,700,g,189,g,5,g,20,g,0,g,3,g,171,g
+158,coffee beanery,mocha frapp tall,17,g,15,mg,490,g,131,g,4,g,14,g,0,g,2,g,119,g
+159,coffee beanery,mocha frapp xl,29,g,25,mg,840,g,228,g,6,g,24,g,0,g,4,g,207,g
+160,coffee beanery,parisian grilled cheese,32,g,0,mg,1430,g,41,g,26,g,0,g,0,g,0,g,8,g
+161,coffee beanery,pb fusion,3,g,0,mg,210,g,91,g,8,g,0,g,0,g,0,g,40,g
+162,coffee beanery,peach smoothie grande,1,g,0,mg,30,g,95,g,0,g,0,g,0,g,0,g,81,g
+163,coffee beanery,peach smoothie tall,0.5,g,0,mg,20,g,71,g,0,g,0,g,0,g,0,g,61,g
+164,coffee beanery,peach smoothie xl,1.5,g,0,mg,45,g,142,g,0,g,0,g,0,g,0,g,122,g
+165,coffee beanery,reved up roast beefe,47,g,0,mg,2300,g,46,g,48,g,0,g,0,g,0,g,0,g
+166,coffee beanery,sausage egg and cheese bagel,23,g,0,mg,970,g,49,g,32,g,0,g,0,g,0,g,7,g
+167,coffee beanery,specialty hot tea grande,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+168,coffee beanery,specialty hot tea xl,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+169,coffee beanery,steamer grande,7,g,25,mg,160,g,50,g,11,g,4,g,0,g,0,g,51,g
+170,coffee beanery,steamer tall,5,g,20,mg,115,g,34,g,8,g,3,g,0,g,0,g,35,g
+171,coffee beanery,steamer xl,9,g,35,mg,200,g,66,g,14,g,5,g,0,g,0,g,67,g
+172,coffee beanery,strawberry banana smoothie grande,1,g,0,mg,55,g,108,g,0,g,0,g,0,g,2,g,91,g
+173,coffee beanery,strawberry banana smoothie tall,0.5,g,0,mg,45,g,81,g,0,g,0,g,0,g,1,g,68,g
+174,coffee beanery,strawberry banana smoothie xl,1.5,g,0,mg,85,g,162,g,0,g,0,g,0,g,3,g,136,g
+175,coffee beanery,the a mazing,17,g,0,mg,800,g,36,g,19,g,0,g,0,g,0,g,14,g
+176,coffee beanery,the european,23,g,0,mg,690,g,44,g,16,g,0,g,0,g,0,g,0,g
+177,coffee beanery,turkey cucumber club club,19,g,0,mg,1120,g,58,g,27,g,0,g,0,g,0,g,15,g
+178,coffee beanery,turkey muenster melt,15,g,0,mg,1000,g,27,g,20,g,0,g,0,g,0,g,8,g
+179,coffee beanery,uptown tuna wrap,5,g,25,mg,1580,g,40,g,21,g,0,g,0,g,3,g,5,g
+180,coffee beanery,white chocolate mocha grande,9,g,30,mg,230,g,50,g,13,g,5,g,0,g,2,g,46,g
+181,coffee beanery,white chocolate mocha tall,7,g,25,mg,180,g,36,g,11,g,4.5,g,0,g,1,g,33,g
+182,coffee beanery,white chocolate mocha xl,11,g,35,mg,300,g,74,g,16,g,7,g,0,g,3,g,67,g
+183,coffee beanery,white mocha frapp grande,25,g,20,mg,730,g,204,g,6,g,20,g,0,g,4,g,184,g
+184,coffee beanery,white mocha frapp tall,18,g,15,mg,510,g,142,g,4,g,14,g,0,g,3,g,128,g
+185,coffee beanery,white mocha frapp xl,30,g,25,mg,90,g,249,g,7,g,24,g,0,g,5,g,225,g
+186,coffee beanery,wildberry smoothie grande,1,g,0,mg,40,g,96,g,0,g,0,g,0,g,2,g,85,g
+187,coffee beanery,wildberry smoothie tall,0.5,g,0,mg,30,g,72,g,0,g,0,g,0,g,1,g,64,g
+188,coffee beanery,wildberry smoothie xl,1.5,g,0,mg,55,g,145,g,0,g,0,g,0,g,3,g,128,g
+189,cold stone creamery,signature creations cookie mintster,25.8,g,75,mg,246,g,62.9,g,6.6,g,14.4,g,0.6,g,0,g,49.1,g
+190,cold stone creamery,chocoalte malt frozen yogurt,0.9,g,2,mg,109,g,27.3,g,4.1,g,0.4,g,0,g,0.4,g,21,g
+191,cold stone creamery,signature cake coffeehouse crunch large rectangle,23,g,50,mg,260,g,48,g,5,g,12,g,0,g,2,g,39,g
+192,cold stone creamery,signature cake butterfinger bonanza large rectangle,19,g,45,mg,290,g,58,g,5,g,11,g,0,g,1,g,41,g
+193,cold stone creamery,cookie crumb yum cookie sandwich,23,g,70,mg,430,g,65,g,5,g,13,g,0,g,5,g,43,g
+194,cold stone creamery,signature cake cake batter confetti small round,21,g,50,mg,290,g,61,g,4,g,14,g,0,g,1,g,44,g
+195,cold stone creamery,sweet cream cupcake,18,g,35,mg,135,g,38,g,4,g,12,g,0,g,1,g,33,g
+196,cold stone creamery,signature cake strawberry passion small round cake,18,g,50,mg,310,g,52,g,5,g,10,g,2,g,1,g,37,g
+197,cold stone creamery,signature cake tall dark and delicious small round,21,g,50,mg,300,g,51,g,6,g,11,g,0,g,1,g,39,g
+198,cold stone creamery,signature cake midnight delight small round,26,g,50,mg,0,g,56,g,6,g,13,g,0,g,3,g,46,g
+199,cold stone creamery,signature cake cookie dough delirium small rectangle,20,g,55,mg,300,g,51,g,5,g,12,g,0,g,1,g,38,g
+200,cold stone creamery,signature cake a cheesecake named desire petite,27,g,65,mg,510,g,88,g,7,g,15,g,2,g,1,g,58,g
+201,cold stone creamery,signature cake birthday cake small rectangle,21,g,60,mg,270,g,50,g,5,g,14,g,0,g,1,g,39,g
+202,cold stone creamery,signature cake peanut butter playground petite,36,g,65,mg,510,g,75,g,11,g,16,g,1,g,4,g,57,g
+203,cold stone creamery,9 theres chocolate on my peanut butter pie,28,g,30,mg,240,g,45,g,8,g,12,g,0,g,2,g,34,g
+204,cold stone creamery,cake batter delux cupcake,17,g,35,mg,160,g,41,g,4,g,11,g,0,g,1,g,32,g
+205,cold stone creamery,signature cake birthday cake small round,23,g,60,mg,270,g,53,g,6,g,15,g,0,g,1,g,42,g
+206,cold stone creamery,cake batter sprinkle cookie sandwich,24,g,65,mg,450,g,77,g,5,g,14,g,0,g,5,g,50,g
+207,cold stone creamery,signature cake birthday cake large round,22,g,55,mg,250,g,50,g,5,g,15,g,0,g,1,g,39,g
+208,cold stone creamery,signature cake birthday cake large rectangle,19,g,50,mg,220,g,42,g,5,g,12,g,0,g,1,g,33,g
+209,cold stone creamery,signature cake raspberry truffle temptation small round,26,g,50,mg,250,g,59,g,6,g,12,g,0,g,3,g,45,g
+210,cold stone creamery,signature cake cake batter confetti large round,20,g,50,mg,290,g,57,g,5,g,13,g,0,g,1,g,41,g
+211,cold stone creamery,signature cake cookie dough delirium petite,30,g,70,mg,490,g,80,g,8,g,17,g,0,g,2,g,58,g
+212,cold stone creamery,signature cake raspberry truffle temptation small rectangle,22,g,50,mg,260,g,52,g,6,g,11,g,0,g,2,g,39,g
+213,cold stone creamery,double chocolate devotion cupcake,18,g,35,mg,150,g,39,g,4,g,12,g,0,g,1,g,33,g
+214,cold stone creamery,signature cake midnight delight large round,23,g,50,mg,240,g,50,g,6,g,12,g,0,g,3,g,41,g
+215,cold stone creamery,signature cake cookies and creamery small round,22,g,50,mg,310,g,53,g,6,g,13,g,0,g,1,g,39,g
+216,cold stone creamery,perfect duet cookie sandwich,24,g,70,mg,410,g,65,g,6,g,14,g,0,g,4,g,45,g
+217,cold stone creamery,signature cake cake batter confetti petite,27,g,65,mg,480,g,84,g,8,g,16,g,0,g,1,g,58,g
+218,cold stone creamery,9 pumpkin pie,15,g,20,mg,150,g,34,g,3,g,10,g,2,g,1,g,25,g
+219,cold stone creamery,9 caramel apple pie,15,g,30,mg,160,g,43,g,3,g,9,g,2,g,0,g,30,g
+220,cold stone creamery,signature cake chocolate chipper large round,24,g,50,mg,2230,g,47,g,6,g,12,g,0,g,2,g,38,g
+221,cold stone creamery,signature cake cookie dough delirium large round,21,g,50,mg,310,g,54,g,5,g,13,g,0,g,1,g,40,g
+222,cold stone creamery,signature cake caramel nut nirvana large rectangle,21,g,50,mg,240,g,47,g,6,g,10,g,0,g,2,g,38,g
+223,cold stone creamery,signature cake strawberry passion large round,19,g,50,mg,310,g,53,g,5,g,11,g,2,g,1,g,37,g
+224,cold stone creamery,9 smore some more pie,14,g,25,mg,140,g,34,g,3,g,9,g,2,g,1,g,24,g
+225,cold stone creamery,signature cake peanut butter playground small rectangle,27,g,50,mg,310,g,52,g,8,g,12,g,0,g,3,g,41,g
+226,cold stone creamery,signature cake coffeehouse crunch large round,27,g,55,mg,290,g,55,g,6,g,13,g,0,g,2,g,45,g
+227,cold stone creamery,signature cake caramel nut nirvana petite,31,g,70,mg,460,g,75,g,9,g,14,g,0,g,3,g,58,g
+228,cold stone creamery,signature cake caramel nut nirvana small round,29,g,55,mg,310,g,62,g,7,g,12,g,0,g,3,g,50,g
+229,cold stone creamery,signature cake 8 layer quilted coffee caramel,46,g,95,mg,610,g,106,g,10,g,30,g,0,g,2,g,85,g
+230,cold stone creamery,signature cake butterfinger bonanza small round,24,g,45,mg,350,g,73,g,7,g,14,g,0,g,1,g,51,g
+231,cold stone creamery,signature cake butterfinger bonanza large round,22,g,45,mg,330,g,66,g,6,g,13,g,0,g,1,g,47,g
+232,cold stone creamery,signature cake strawberry passion petite,25,g,65,mg,520,g,76,g,8,g,13,g,2,g,1,g,51,g
+233,cold stone creamery,signature cake chocolate chipper large rectangle,20,g,50,mg,210,g,41,g,5,g,10,g,0,g,2,g,33,g
+234,cold stone creamery,signature cake a cheesecake named desire large rectangle,15,g,45,mg,260,g,48,g,4,g,9,g,1,g,0,g,33,g
+235,cold stone creamery,signature cake mmmmmmint chip petite,29,g,70,mg,440,g,71,g,8,g,17,g,0,g,3,g,54,g
+236,cold stone creamery,signature cake tall dark and delicious large round,21,g,50,mg,280,g,49,g,5,g,12,g,0,g,1,g,38,g
+237,cold stone creamery,signature cake peanut butter playground small round,31,g,50,mg,330,g,58,g,9,g,13,g,0,g,3,g,45,g
+238,cold stone creamery,9 cookie dough pie,22,g,30,mg,310,g,60,g,4,g,12,g,2,g,1,g,39,g
+239,cold stone creamery,no fair funnel cake,33,g,80,mg,440,g,104,g,9,g,21,g,0.5,g,3,g,62,g
+240,cold stone creamery,signature cake cookies and creamery large round,21,g,50,mg,2,g,48,g,5,g,13,g,0,g,1,g,37,g
+241,cold stone creamery,signature cake raspberry truffle temptation large round,23,g,50,mg,250,g,54,g,6,g,11,g,0,g,2,g,41,g
+242,cold stone creamery,signature cake mmmmmmint chip small round,22,g,50,mg,270,g,50,g,6,g,14,g,0,g,2,g,39,g
+243,cold stone creamery,9 mintastic chip pie,17,g,30,mg,135,g,35,g,3,g,11,g,0,g,1,g,27,g
+244,cold stone creamery,signature cake chocolate chipper small rectangle,23,g,55,mg,260,g,49,g,6,g,11,g,0,g,2,g,38,g
+245,cold stone creamery,signature cake raspberry truffle temptation petite,31,g,70,mg,430,g,81,g,9,g,15,g,0,g,3,g,59,g
+246,cold stone creamery,signature cake mmmmmmint chip large round,21,g,50,mg,240,g,47,g,5,g,13,g,0,g,2,g,37,g
+247,cold stone creamery,signature cake cookies and creamery small rectangle,20,g,55,mg,290,g,48,g,5,g,12,g,0,g,1,g,37,g
+248,cold stone creamery,signature cake 8 layer cake batter layers,41,g,80,mg,650,g,117,g,10,g,27,g,0,g,2,g,86,g
+249,cold stone creamery,kiss n tell cookie sandwich,26,g,65,mg,400,g,70,g,5,g,16,g,0,g,5,g,50,g
+250,cold stone creamery,signature cake mmmmmmint chip large rectangle,18,g,45,mg,220,g,40,g,5,g,11,g,0,g,1,g,31,g
+251,cold stone creamery,signature cake peanut butter playground large round,27,g,50,mg,280,g,49,g,8,g,12,g,0,g,2,g,39,g
+252,cold stone creamery,signature cake cake batter confetti large rectangle,17,g,45,mg,250,g,48,g,5,g,11,g,0,g,1,g,34,g
+253,cold stone creamery,9 mintastic chip,17,g,30,mg,135,g,35,g,3,g,11,g,0,g,1,g,27,g
+254,cold stone creamery,signature cake mmmmmmint chip small rectangle,20,g,50,mg,270,g,48,g,5,g,12,g,0,g,2,g,37,g
+255,cold stone creamery,signature cake midnight delight small rectangle,23,g,50,mg,270,g,51,g,6,g,11,g,0,g,2,g,41,g
+256,cold stone creamery,signature cake coffeehouse crunch small rectangle,27,g,55,mg,320,g,58,g,6,g,14,g,0,g,2,g,46,g
+257,cold stone creamery,9 caramel turtle treat pie,20,g,30,mg,190,g,37,g,4,g,10,g,2,g,1,g,26,g
+258,cold stone creamery,signature cake a cheesecake named desire small round,19,g,50,mg,320,g,59,g,5,g,11,g,2,g,1,g,40,g
+259,cold stone creamery,signature cakess a cheesecake named desire largel round,19,g,50,mg,310,g,57,g,5,g,11,g,2,g,0,g,39,g
+260,cold stone creamery,signature cake a cheesecake named desire small rectangle,18,g,50,mg,310,g,55,g,5,g,10,g,1,g,1,g,38,g
+261,cold stone creamery,signature cake chocolate chipper petite,34,g,70,mg,430,g,74,g,9,g,16,g,0,g,4,g,58,g
+262,cold stone creamery,signature cake salted caramel with a twist petite,25,g,70,mg,560,g,78,g,8,g,14,g,0,g,2,g,53,g
+263,cold stone creamery,signature cake caramel nut nirvana large round,25,g,55,mg,270,g,54,g,6,g,11,g,0,g,2,g,43,g
+264,cold stone creamery,signature cake coffeehouse crunch petite,33,g,70,mg,480,g,76,g,8,g,16,g,1,g,3,g,59,g
+265,cold stone creamery,signature cake raspberry truffle temptation large rectangle,19,g,45,mg,210,g,45,g,5,g,9,g,0,g,1,g,34,g
+266,cold stone creamery,signature cake cookies and creamery petite,28,g,70,mg,490,g,74,g,8,g,16,g,0,g,2,g,54,g
+267,cold stone creamery,signature cake butterfinger bonanza petite,30,g,60,mg,510,g,93,g,8,g,18,g,0,g,2,g,66,g
+268,cold stone creamery,signature cake midnight delight large rectangle,20,g,45,mg,220,g,44,g,5,g,10,g,0,g,2,g,36,g
+269,cold stone creamery,signature cake salted caramel with a twist large rectangle,16,g,50,mg,250,g,41,g,4,g,10,g,0,g,1,g,31,g
+270,cold stone creamery,signature cake strawberry passion large rectangle,15,g,45,mg,240,g,43,g,5,g,9,g,1,g,1,g,32,g
+271,cold stone creamery,signature cake tall dark and delicious small rectangle,20,g,55,mg,290,g,48,g,6,g,11,g,0,g,1,g,36,g
+272,cold stone creamery,signature cake midnight delight petite,30,g,65,mg,430,g,71,g,9,g,15,g,0,g,4,g,56,g
+273,cold stone creamery,signature cake salted caramel with a twist small round,18,g,50,mg,300,g,49,g,5,g,11,g,0,g,1,g,36,g
+274,cold stone creamery,signature cake coffeehouse crunch large round,27,g,55,mg,290,g,55,g,6,g,13,g,0,g,2,g,45,g
+275,cold stone creamery,signature cake butterfinger bonanza small rectangle,22,g,50,mg,350,g,68,g,6,g,13,g,0,g,1,g,48,g
+276,cold stone creamery,9 cake sea salt caramel piescream cake,13,g,20,mg,270,g,39,g,3,g,7,g,1.5,g,0,g,26,g
+277,cold stone creamery,signature cake cookie dough delirium large rectangle,18,g,50,mg,260,g,45,g,5,g,11,g,0,g,1,g,33,g
+278,cold stone creamery,signature cake rich and dreamy small round,23,g,55,mg,280,g,54,g,6,g,13,g,0,g,2,g,43,g
+279,cold stone creamery,signature cake cookies and creamery large rectangle,17,g,50,mg,240,g,41,g,5,g,10,g,0,g,1,g,31,g
+280,cold stone creamery,signature cake strawberry passion small round,18,g,50,mg,310,g,52,g,5,g,10,g,2,g,1,g,37,g
+281,cold stone creamery,signature cake caramel nut nirvana small rectangle,25,g,55,mg,300,g,55,g,7,g,11,g,0,g,2,g,44,g
+282,cold stone creamery,signature cake 8 layer neapolitan,41,g,85,mg,570,g,101,g,10,g,28,g,2,g,2,g,77,g
+283,cold stone creamery,signature cake cookie dough delirium small round,22,g,50,mg,330,g,57,g,5,g,13,g,0,g,1,g,41,g
+284,cold stone creamery,signature cake rich and dreamy large round,22,g,50,mg,250,g,50,g,6,g,13,g,0,g,2,g,40,g
+285,cold stone creamery,signature cake chocolate chipper small round,27,g,55,mg,260,g,53,g,6,g,12,g,0,g,3,g,43,g
+286,cold stone creamery,signature cake salted caramel with a twist small rectangle,17,g,55,mg,300,g,48,g,5,g,10,g,0,g,1,g,35,g
+287,cold stone creamery,signature cake strawberry passion small rectangle,18,g,50,mg,300,g,50,g,5,g,10,g,1,g,1,g,35,g
+288,cold stone creamery,signature cake coffeehouse crunch small round,32,g,55,mg,330,g,65,g,6,g,16,g,1,g,3,g,53,g
+289,cold stone creamery,signature cake rich and dreamy small rectangle,20,g,55,mg,280,g,49,g,6,g,12,g,0,g,2,g,39,g
+290,cold stone creamery,signature cake salted caramel with a twist large round,18,g,50,mg,290,g,48,g,5,g,11,g,0,g,1,g,36,g
+291,cold stone creamery,cake batter n shake milkshake without whipped topping,39,g,145,mg,480,g,97,g,13,g,23,g,1,g,1,g,76,g
+292,cold stone creamery,milk and oreo cookies shake with whipped topping,54,g,155,mg,330,g,95,g,13,g,36,g,1,g,1,g,81,g
+293,cold stone creamery,strawberry banana smoothie,5,g,0,mg,160,g,59,g,1,g,5,g,0,g,3,g,39,g
+294,cold stone creamery,very vanilla shake without whipped topping,40,g,180,mg,280,g,90,g,12,g,25,g,1,g,0,g,77,g
+295,cold stone creamery,mango pineapple smoothie,5,g,0,mg,160,g,76,g,0,g,5,g,0,g,1,g,63,g
+296,cold stone creamery,strawberry mango smoothie,5,g,0,mg,160,g,86,g,1,g,5,g,0,g,2,g,70,g
+297,cold stone creamery,milk and oreo cookies shake without whipped topping,44,g,155,mg,330,g,84,g,12,g,26,g,1,g,1,g,71,g
+298,cold stone creamery,caramel frappe 12 oz with whipped topping,28,g,70,mg,95,g,102,g,7,g,21,g,0,g,0,g,89,g
+299,cold stone creamery,coffee frappe 12 oz without whipped topping,16,g,65,mg,5,g,59,g,6,g,10,g,0,g,0,g,58,g
+300,cold stone creamery,savory strawberry shake with whipped topping,47,g,140,mg,230,g,84,g,12,g,33,g,1,g,1,g,75,g
+301,cold stone creamery,oh fudge shake without whipped topping,39,g,145,mg,290,g,80,g,13,g,26,g,1,g,0,g,75,g
+302,cold stone creamery,pineapple blueberry smoothie,5,g,0,mg,160,g,49,g,1,g,5,g,0,g,2,g,37,g
+303,cold stone creamery,caramel frappe 20 oz without whipped topping,27,g,105,mg,140,g,140,g,10,g,17,g,0,g,0,g,120,g
+304,cold stone creamery,coffee frappe 20 oz with whipped topping,35,g,100,mg,20,g,100,g,9,g,26,g,0,g,0,g,97,g
+305,cold stone creamery,mocha frappe 12 oz with whipped topping,30,g,65,mg,140,g,98,g,8,g,23,g,0,g,1,g,93,g
+306,cold stone creamery,cake batter n shake milkshake with whipped topping,49,g,145,mg,490,g,107,g,13,g,33,g,1,g,1,g,86,g
+307,cold stone creamery,cream de menthe shake with whipped topping,56,g,150,mg,240,g,91,g,13,g,38,g,1,g,2,g,82,g
+308,cold stone creamery,blueberry banana smoothie,6,g,0,mg,160,g,58,g,1,g,5,g,0,g,3,g,40,g
+309,cold stone creamery,mocha frappe 12 oz without whipped topping,20,g,65,mg,135,g,87,g,8,g,13,g,0,g,1,g,83,g
+310,cold stone creamery,very vanilla shake with whipped topping,50,g,180,mg,300,g,101,g,13,g,35,g,1,g,0,g,54,g
+311,cold stone creamery,caramel frappe 20 oz with whipped topping,37,g,105,mg,150,g,151,g,11,g,27,g,0,g,0,g,130,g
+312,cold stone creamery,mocha frappe 20 oz with whipped topping,40,g,100,mg,220,g,143,g,13,g,30,g,0,g,1,g,137,g
+313,cold stone creamery,cream de menthe shake without whipped topping,45,g,150,mg,230,g,81,g,12,g,28,g,1,g,2,g,72,g
+314,cold stone creamery,caramel frappe 12 oz without whipped cream,18,g,70,mg,85,g,91,g,7,g,11,g,0,g,0,g,78,g
+315,cold stone creamery,coffee frappe 12 oz with whipped topping,26,g,65,mg,15,g,70,g,6,g,20,g,0,g,0,g,68,g
+316,cold stone creamery,savory strawberry shake without whipped topping,37,g,140,mg,220,g,73,g,11,g,23,g,1,g,1,g,65,g
+317,cold stone creamery,mocha frappe 20 oz without whipped topping,30,g,100,mg,220,g,113,g,12,g,20,g,0,g,1,g,126,g
+318,cold stone creamery,oh fudge shake with whipped topping,49,g,145,mg,300,g,91,g,13,g,37,g,1,g,1,g,85,g
+319,cold stone creamery,coffee frappe 20 oz without whipped topping,24,g,95,mg,10,g,89,g,9,g,15,g,0,g,0,g,87,g
+320,cold stone creamery,migos marshmallow medley milkshake,58,g,140,mg,250,g,99,g,12,g,44,g,1,g,0,g,87,g
+321,cold stone creamery,dipped waffle cone bowl,15,g,5,mg,45,g,43,g,2,g,13,g,0,g,2,g,30,g
+322,cold stone creamery,sugar cone,0,g,0,mg,20,g,12,g,0,g,0,g,0,g,0,g,3,g
+323,cold stone creamery,cake batter frozen yogurt,0.6,g,0,mg,200,g,46.9,g,5,g,0,g,0,g,0,g,35,g
+324,cold stone creamery,mango frozen yogurt,0,g,0,mg,113,g,40.7,g,4.4,g,0,g,0,g,0,g,33.8,g
+325,cold stone creamery,strawberry frozen yogurt,0,g,0,mg,210,g,65,g,8,g,0,g,0,g,0,g,53,g
+326,cold stone creamery,black cherry frozen yogurt,0,g,0,mg,131,g,39.4,g,5,g,0,g,0,g,0.6,g,29.4,g
+327,cold stone creamery,blueberry frozen yogurt,0,g,0,mg,138,g,41.9,g,5,g,0,g,0,g,0.6,g,31.9,g
+328,cold stone creamery,raspberry frozen yogurt,0,g,0,mg,144,g,42.5,g,5,g,0,g,0,g,0,g,32.5,g
+329,cold stone creamery,cotton candy frozen yogurt,0,g,0,mg,144,g,40,g,4.4,g,0,g,0,g,0,g,31.3,g
+330,cold stone creamery,salted caramel frozen yogurt,0.9,g,16,mg,307,g,43.2,g,5,g,0.3,g,0,g,0,g,31.9,g
+331,cold stone creamery,triple berry frozen yogurt,0,g,0,mg,125,g,33.8,g,5,g,0,g,0,g,1.3,g,26.3,g
+332,cold stone creamery,fudge brownie batter frozen yogurt,5,g,6,mg,238,g,51.3,g,5.6,g,2.2,g,0,g,1.3,g,38.8,g
+333,cold stone creamery,french vanilla frozen yogurt,0.6,g,25,mg,131,g,43.2,g,5,g,0,g,0,g,0,g,33.2,g
+334,cold stone creamery,dark chocolate frozen yogurt,0.3,g,0,mg,144,g,40,g,5.6,g,0,g,0,g,1.3,g,31.3,g
+335,cold stone creamery,white chocolate frozen yogurt,0,g,0,mg,144,g,39.4,g,5,g,0,g,0,g,0,g,31.9,g
+336,cold stone creamery,peanut butter frozen yogurt,6.3,g,0,mg,181,g,38.8,g,7.5,g,1.3,g,0,g,0.6,g,30.7,g
+337,cold stone creamery,vanilla bean frozen yogurt,0,g,0,mg,188,g,34.4,g,5,g,0,g,0,g,0,g,26.9,g
+338,cold stone creamery,vanilla frozen yogurt,0,g,0,mg,144,g,39.4,g,5,g,0,g,0,g,0,g,31.9,g
+339,cold stone creamery,berry tart frozen yogurt,0,g,0,mg,131,g,38.8,g,5,g,0,g,0,g,0,g,31.3,g
+340,cold stone creamery,mint frozen yogurt,0.3,g,0,mg,144,g,40.7,g,5,g,0,g,0,g,0,g,32.5,g
+341,cold stone creamery,graham cracker frozen yogurt,2.8,g,0,mg,206,g,44.4,g,5.6,g,0.6,g,0,g,0,g,30.7,g
+342,cold stone creamery,key lime frozen yogurt,1.9,g,9,mg,131,g,46.3,g,5,g,0.9,g,0,g,0,g,37.5,g
+343,cold stone creamery,amaretto frozen yogurt,0,g,0,mg,144,g,39.4,g,5,g,0,g,0,g,0,g,31.9,g
+344,cold stone creamery,chocolate malt frozen yogurt,1.6,g,3,mg,181,g,45.7,g,6.9,g,0.6,g,0,g,0.6,g,35,g
+345,cold stone creamery,cherry vanilla frozen yogurt,0,g,0,mg,131,g,41.3,g,5,g,0,g,0,g,0.6,g,32.5,g
+346,cold stone creamery,plain tart frozen yogurt,0,g,0,mg,144,g,38.8,g,5,g,0,g,0,g,0,g,31.9,g
+347,cold stone creamery,candy cane frozen yoghurt,0.6,g,0,mg,144,g,38.8,g,5,g,0.3,g,0,g,0,g,30,g
+348,cold stone creamery,coffee frozen yogurt,0,g,0,mg,144,g,40.7,g,5.6,g,0,g,0,g,0,g,31.9,g
+349,cold stone creamery,oatmeal cookie batter frozen yogurt,0,g,0,mg,169,g,41.9,g,5.6,g,0,g,0,g,0.6,g,32.5,g
+350,cold stone creamery,cinnamon frozen yogurt,0,g,0,mg,144,g,40,g,5,g,0,g,0,g,0.6,g,31.9,g
+351,cold stone creamery,pumpkin frozen yogurt,0,g,0,mg,156,g,350.3,g,4.4,g,0,g,0,g,0.6,g,28.1,g
+352,cold stone creamery,cookies and creamery frozen yogurt,1.9,g,0,mg,175,g,43.8,g,5,g,0.6,g,0,g,0.6,g,33.8,g
+353,cold stone creamery,pineapple frozen yogurt,0,g,0,mg,119,g,36.9,g,4.4,g,0,g,0,g,0.6,g,30,g
+354,cold stone creamery,eggnog frozen yogurt,0.9,g,13,mg,131,g,35,g,5.6,g,0.6,g,0,g,0,g,28.8,g
+355,cold stone creamery,blueberry pomegrante frozen yogurt,0,g,0,mg,138,g,39.4,g,5,g,0,g,0,g,0,g,31.9,g
+356,cold stone creamery,country time pink lemonade frozen yogurt,0,g,0,mg,150,g,43.2,g,5,g,0,g,0,g,0,g,35.7,g
+357,cold stone creamery,peach frozen yogurt,0,g,0,mg,144,g,43.2,g,5,g,0,g,0,g,0,g,36.3,g
+358,cold stone creamery,banana bread batter frozen yoghurt,2.2,g,0,mg,256,g,47.5,g,5,g,0.6,g,0,g,0.6,g,31.9,g
+359,cold stone creamery,chocolate frozen yogurt,0.3,g,0,mg,144,g,40,g,5.6,g,0,g,0,g,1.3,g,31.3,g
+360,cold stone creamery,caramel frozen yogurt,0.6,g,0,mg,156,g,41.3,g,5,g,0.3,g,0,g,0,g,31.3,g
+361,cold stone creamery,cinnamon bun frozen yogurt,0.9,g,0,mg,213,g,47.5,g,5,g,0,g,0,g,0.6,g,33.8,g
+362,cold stone creamery,marshmallow frozen yogurt,0,g,0,mg,156,g,41.9,g,5,g,0,g,0,g,0,g,27.5,g
+363,cold stone creamery,cheesecake frozen yogurt,0.6,g,3,mg,181,g,42.5,g,5,g,0.3,g,0,g,0,g,32.5,g
+364,cold stone creamery,cake batter ice cream,19,g,75,mg,180,g,44,g,5,g,12,g,0.5,g,0,g,36,g
+365,cold stone creamery,signature creations birthday cake remix,43,g,130,mg,490,g,126,g,12,g,25,g,1,g,2,g,95,g
+366,cold stone creamery,signature creations chocolate devotion,30.2,g,91,mg,255,g,72.5,g,8.7,g,18.1,g,0.7,g,2,g,61.1,g
+367,cold stone creamery,skinny vanilla ice cream,6.3,g,28,mg,225,g,35.7,g,7.5,g,3.8,g,0,g,0,g,10.6,g
+368,cold stone creamery,cotton candy ice cream,20.6,g,81,mg,113,g,36.9,g,5.6,g,13.1,g,0.6,g,0,g,31.9,g
+369,cold stone creamery,sweet cream ice cream,20.6,g,81,mg,113,g,36.3,g,5.6,g,13.1,g,0.6,g,0,g,32.5,g
+370,cold stone creamery,signature creations founders favorite,35.1,g,96,mg,318,g,74.9,g,9.3,g,16.6,g,0.7,g,2,g,60.3,g
+371,cold stone creamery,signature creations mint mint chocolate chocolate chip,31.5,g,94,mg,262,g,76.5,g,8.7,g,18.1,g,0.7,g,2,g,63.1,g
+372,cold stone creamery,chocolate ice cream,19.4,g,75,mg,106,g,33.8,g,5.6,g,13.1,g,0.6,g,1.3,g,31.9,g
+373,cold stone creamery,signature creations cheesecake fantasy,24,g,85,mg,233,g,56.5,g,6.4,g,14.1,g,1.4,g,1.4,g,43.1,g
+374,cold stone creamery,reeses peanut butter cup ice cream,24.4,g,69,mg,175,g,35,g,6.9,g,13.1,g,0.6,g,0.6,g,31.9,g
+375,cold stone creamery,cheesecake ice cream,19.4,g,75,mg,156,g,39.4,g,5,g,12.5,g,0.6,g,0,g,33.2,g
+376,cold stone creamery,coffee ice cream,20.6,g,81,mg,113,g,36.3,g,5.6,g,13.1,g,0.6,g,0,g,32.5,g
+377,cold stone creamery,signature creations mud pie mojo,37.5,g,83,mg,305,g,59.8,g,12.1,g,17.2,g,0.6,g,1.9,g,47.7,g
+378,cold stone creamery,signature creations oreo overload,29.3,g,78,mg,251,g,68.8,g,7.2,g,16.7,g,0.6,g,0.6,g,55,g
+379,cold stone creamery,french vanilla ice cream,19.4,g,97,mg,106,g,39.4,g,5,g,11.9,g,0.6,g,0,g,33.8,g
+380,cold stone creamery,dark chocolate ice cream,19.4,g,72,mg,100,g,33.2,g,6.9,g,13.1,g,0.6,g,1.3,g,30.7,g
+381,cold stone creamery,signature creations coffee lovers only,29.2,g,82,mg,207,g,51.8,g,7.9,g,15.2,g,0.6,g,1.2,g,44.5,g
+382,cold stone creamery,raspberry sorbet,0,g,0,mg,16,g,55.7,g,0,g,0,g,0,g,0,g,55,g
+383,cold stone creamery,oreo creme ice cream,31.3,g,66,mg,125,g,43.2,g,4.4,g,14.4,g,0.3,g,0,g,40,g
+384,cold stone creamery,mint ice cream,20.6,g,78,mg,113,g,37.5,g,5,g,12.5,g,0.6,g,0,g,33.2,g
+385,cold stone creamery,watermelon sorbet,0,g,0,mg,16,g,56.9,g,0,g,0,g,0,g,0,g,55.7,g
+386,cold stone creamery,signature creations apple pie a la cold stone,23.4,g,104,mg,194,g,64.9,g,6.7,g,14,g,1.3,g,0.7,g,48.8,g
+387,cold stone creamery,waffle cone bowl,2,g,5,mg,40,g,21,g,1,g,0.5,g,0,g,0,g,10,g
+388,cold stone creamery,banana ice cream,19,g,75,mg,105,g,36,g,5,g,12,g,0,g,0,g,31,g
+389,cold stone creamery,lemon sorbet,0,g,0,mg,16,g,56.3,g,0,g,0,g,0,g,0,g,556.7,g
+390,cold stone creamery,signature creations banana caramel crunch,23.3,g,93,mg,155,g,55,g,7.2,g,11.9,g,0.6,g,1.8,g,41.2,g
+391,cold stone creamery,signature creations our strawberry blonde,25.2,g,85,mg,191,g,60,g,6.8,g,15.7,g,1.7,g,0.7,g,47.7,g
+392,cold stone creamery,signature creations cookie doughnt want some,29.3,g,104,mg,280,g,80.9,g,7.8,g,18.3,g,0.7,g,1.3,g,62,g
+393,cold stone creamery,butter pecan ice cream,20,g,80,mg,115,g,37,g,5,g,13,g,0.5,g,0,g,35,g
+394,cold stone creamery,chocolate layer cake ice cream,30,g,115,mg,330,g,63,g,9,g,19,g,0.5,g,1,g,53,g
+395,cold stone creamery,signature creations berry berry berry good,24.5,g,96,mg,133,g,50.4,g,7.4,g,15.6,g,0.7,g,2.2,g,43,g
+396,cold stone creamery,strawberry sorbet,0,g,0,mg,16,g,56.3,g,0,g,0,g,0,g,0,g,55.7,g
+397,cold stone creamery,red velvet cake ice cream,19.4,g,75,mg,244,g,43.8,g,6.3,g,11.3,g,0.3,g,0.6,g,34.4,g
+398,cold stone creamery,signature creations surrender to strawberry,24.4,g,88,mg,210,g,54.2,g,6.8,g,15.6,g,0.7,g,0.7,g,45.4,g
+399,cold stone creamery,peanut butter cookie batter ice cream,22.5,g,44,mg,206,g,40.7,g,6.3,g,12.5,g,0.3,g,0.6,g,33.8,g
+400,cold stone creamery,countrytime pink lemonade sorbet,0,g,0,mg,16,g,37.5,g,0,g,0,g,0,g,0,g,37.5,g
+401,cold stone creamery,peanut butter ice cream,25,g,75,mg,156,g,35.7,g,7.5,g,13.1,g,0.6,g,0.6,g,31.3,g
+402,cold stone creamery,strawberry cake batter ice cream,17.5,g,66,mg,163,g,45,g,5,g,10.6,g,0.3,g,0.6,g,36.9,g
+403,cold stone creamery,strawberry mango banana sorbet,0,g,0,mg,13,g,54.4,g,0,g,0,g,0,g,0,g,53.2,g
+404,cold stone creamery,banana split decision sundae,37,g,100,mg,250,g,77,g,11,g,21,g,1,g,4,g,62,g
+405,cold stone creamery,pistachio ice cream,20.6,g,81,mg,113,g,35.7,g,5,g,13.1,g,0.6,g,0,g,32.5,g
+406,cold stone creamery,strawberry cheesecake ice cream,18.1,g,72,mg,144,g,40,g,5,g,11.3,g,0.3,g,0,g,33.8,g
+407,cold stone creamery,chocolate peanut butter ice cream,28.1,g,56,mg,219,g,38.2,g,10,g,13.1,g,0.3,g,1.3,g,32.5,g
+408,cold stone creamery,dulce de leche ice cream,19.4,g,75,mg,125,g,41.9,g,6.3,g,12.5,g,0.3,g,0,g,39.4,g
+409,cold stone creamery,raspberry ice cream,19.4,g,75,mg,113,g,39.4,g,5,g,12.5,g,0.6,g,0,g,33.2,g
+410,cold stone creamery,cinnamon ice cream,20.5,g,81,mg,113,g,36.8,g,5.4,g,12.9,g,0.6,g,0.8,g,32.6,g
+411,cold stone creamery,orange sorbet,0,g,0,mg,19,g,54.4,g,0,g,0,g,0,g,0,g,53.8,g
+412,cold stone creamery,salted caramel ice cream,18.8,g,84,mg,275,g,43.8,g,5,g,11.9,g,0.6,g,0,g,35.7,g
+413,cold stone creamery,mango ice cream,19.4,g,75,mg,106,g,35,g,5,g,11.9,g,0.6,g,0,g,31.9,g
+414,cold stone creamery,chocolate cake batter ice cream,18.1,g,69,mg,175,g,43.8,g,5.6,g,11.9,g,0.6,g,0,g,35.7,g
+415,cold stone creamery,blueberry ice cream,19,g,75,mg,115,g,40,g,5,g,12,g,0,g,0,g,33,g
+416,cold stone creamery,oatmeal cookie batter ice cream,32,g,125,mg,220,g,62,g,9,g,20,g,1,g,1,g,53,g
+417,cold stone creamery,black cherry ice cream,19,g,75,mg,110,g,38,g,5,g,12,g,0.5,g,0,g,33,g
+418,cold stone creamery,vanilla bean ice cream,20,g,78,mg,150,g,35,g,5,g,12.5,g,0.6,g,0,g,31.9,g
+419,cold stone creamery,hot stone brownie a la cold stone,50,g,105,mg,560,g,148,g,13,g,24,g,0,g,4,g,110,g
+420,cold stone creamery,pineapple sorbet,0,g,0,mg,13,g,49.4,g,0,g,0,g,0,g,0,g,49.4,g
+421,cold stone creamery,macadamia nut ice cream,20.6,g,81,mg,113,g,35.7,g,5.6,g,13.1,g,0.6,g,0,g,32.5,g
+422,cold stone creamery,rum raisin ice cream,20.6,g,81,mg,113,g,36.3,g,5.6,g,13.1,g,0.6,g,0,g,33.2,g
+423,cold stone creamery,chocolate hazelnut ice cream,21.9,g,69,mg,100,g,38.2,g,5.6,g,13.1,g,0.6,g,0,g,35.7,g
+424,cold stone creamery,key lime ice cream,20,g,81,mg,100,g,43.8,g,5,g,12.5,g,0.6,g,0,g,38.2,g
+425,cold stone creamery,strawberry ice cream,19.4,g,75,mg,106,g,36.9,g,5,g,11.9,g,0.6,g,0,g,33.8,g
+426,cold stone creamery,pumpkin ice cream,15.6,g,63,mg,138,g,35,g,4.4,g,10,g,0.3,g,0.6,g,31.9,g
+427,cold stone creamery,chocolate dipped strawberry ice cream,18,g,69,mg,96,g,34.2,g,5.8,g,12.1,g,0.4,g,0.8,g,31.3,g
+428,cold stone creamery,peach mango sorbet,0,g,0,mg,22,g,58.8,g,0,g,0,g,0,g,0,g,58.2,g
+429,cold stone creamery,amaretto ice cream,20.5,g,81,mg,113,g,35.5,g,5.4,g,12.9,g,0.6,g,0,g,32.6,g
+430,cold stone creamery,chocolate malt ice cream,18.8,g,72,mg,150,g,40.7,g,6.9,g,12.5,g,0.6,g,0,g,35,g
+431,cold stone creamery,who you callin shortcake sundae,31,g,95,mg,280,g,68,g,8,g,18,g,2,g,1,g,53,g
+432,cold stone creamery,signature creations cake batter batter batter,32,g,95,mg,444,g,91.7,g,8.7,g,17.5,g,0.7,g,1.5,g,64.8,g
+433,cold stone creamery,mocha ice cream,31,g,120,mg,170,g,55,g,9,g,21,g,1,g,0,g,50,g
+434,cold stone creamery,orange dreamsicle ice cream,20,g,81,mg,113,g,35.7,g,5.6,g,12.5,g,0.6,g,0,g,31.9,g
+435,cold stone creamery,lemon pie ice cream,20.6,g,69,mg,131,g,50,g,5,g,11.9,g,0.6,g,0,g,45,g
+436,cold stone creamery,vanilla on the lighter side,6.3,g,28,mg,225,g,35.7,g,7.5,g,3.8,g,0,g,0,g,10.6,g
+437,cold stone creamery,blue arctic marshmallow ice cream,20,g,75,mg,115,g,38,g,5,g,13,g,0.5,g,0,g,32,g
+438,cold stone creamery,cherry vanilla ice cream,18.8,g,75,mg,106,g,38.2,g,5,g,11.9,g,0.6,g,0,g,33.2,g
+439,cold stone creamery,cinnamon bun ice cream,17.5,g,66,mg,181,g,51.3,g,5,g,10.6,g,0.3,g,1.3,g,38.8,g
+440,cold stone creamery,candy cane ice cream,20,g,75,mg,110,g,42,g,5,g,13,g,0.5,g,0,g,37,g
+441,cold stone creamery,cookie butter ice cream,15.7,g,43,mg,60,g,24.3,g,3.4,g,8.2,g,0.4,g,0,g,20.6,g
+442,cold stone creamery,blueberry muffin batter ice cream,18,g,70,mg,150,g,45,g,5,g,11,g,0,g,0,g,35,g
+443,cold stone creamery,peach ice cream,19.4,g,75,mg,119,g,40,g,5,g,11.9,g,0.6,g,0,g,36.9,g
+444,cold stone creamery,ghirardelli chocolate ice cream,21.9,g,75,mg,106,g,38.8,g,6.9,g,13.8,g,0.6,g,3.8,g,30,g
+445,cold stone creamery,mojito sorbet,1.6,g,0,mg,16,g,60.7,g,0,g,0.9,g,0,g,0,g,59.4,g
+446,cold stone creamery,strawberry lemonade sorbet,0,g,0,mg,16,g,56.3,g,0,g,0,g,0,g,0,g,55,g
+447,cold stone creamery,dark chocolate peppermint ice cream,19.4,g,72,mg,100,g,35.7,g,6.9,g,13.1,g,0.6,g,1.9,g,30.7,g
+448,cold stone creamery,gooey butter cake ice cream,17.5,g,84,mg,194,g,48.8,g,5,g,10.6,g,0,g,0,g,36.3,g
+449,cold stone creamery,fudge brownine batter ice cream,19.4,g,66,mg,169,g,44.4,g,5.6,g,11.9,g,0.3,g,0.6,g,38.2,g
+450,cold stone creamery,hot stone chocolate lava meltdown,47,g,105,mg,700,g,127,g,13,g,33,g,0.5,g,4,g,102,g
+451,cold stone creamery,signature creations germanchocolatekake,54,g,135,mg,440,g,104,g,13,g,28,g,1,g,3,g,84,g
+452,cold stone creamery,white chocolate ice cream,33,g,130,mg,180,g,57,g,0,g,21,g,1,g,0,g,52,g
+453,cold stone creamery,irish cream ice cream,213,g,839,mg,1162,g,367.9,g,58.1,g,135.5,g,6.5,g,0,g,335.6,g
+454,cold stone creamery,caramel latte ice cream,19.4,g,75,mg,125,g,41.3,g,5,g,12.5,g,0.6,g,0,g,35,g
+455,cold stone creamery,apple cinnamon oatmeal ice cream,20,g,80,mg,135,g,39,g,6,g,13,g,0.5,g,1,g,33,g
+456,cold stone creamery,chocolate pudding ice cream,18.1,g,72,mg,382,g,48.2,g,5,g,11.3,g,0.6,g,0.6,g,40.7,g
+457,cold stone creamery,banana bread batter ice cream,18,g,60,mg,230,g,48,g,5,g,10,g,1,g,0,g,35,g
+458,cold stone creamery,chocolate raspberry truffle ice cream,16.9,g,63,mg,144,g,43.8,g,5,g,11.9,g,0.3,g,0.6,g,38.2,g
+459,cold stone creamery,pecan praline ice cream,32,g,125,mg,190,g,63,g,8,g,20,g,1,g,0,g,54,g
+460,cold stone creamery,hot stone hot for cookie,39,g,90,mg,440,g,91,g,8,g,25,g,0.5,g,4,g,65,g
+461,cold stone creamery,pistachio pudding ice cream,18.8,g,72,mg,281,g,48.2,g,5,g,11.3,g,0.6,g,0,g,41.3,g
+462,cold stone creamery,dipped sprinkled waffle cone bowl,17,g,5,mg,50,g,49,g,2,g,15,g,0,g,2,g,34,g
+463,cold stone creamery,brownie mix in,7,g,10,mg,160,g,30,g,2,g,2,g,0,g,1,g,19,g
+464,cold stone creamery,cookie dough mix in,6,g,0,mg,170,g,25,g,1,g,3,g,0,g,1,g,13,g
+465,cold stone creamery,rainbow sprinkles topping,3,g,0,mg,0,g,13,g,0,g,2.5,g,0,g,0,g,8,g
+466,cold stone creamery,graham cracker pie crust mix in,3.5,g,0,mg,80,g,10,g,1,g,0.5,g,1.5,g,0,g,4,g
+467,cold stone creamery,rasberries fruit mix in,0,g,0,mg,0,g,4.3,g,1.1,g,0,g,0,g,1.1,g,2.2,g
+468,cold stone creamery,fudge topping,1.5,g,0,mg,55,g,11,g,0,g,1.5,g,0,g,0,g,10,g
+469,cold stone creamery,heath bar candy mix in,3.5,g,5,mg,35,g,6,g,0,g,2,g,0,g,0,g,6,g
+470,cold stone creamery,kit kat candy mix in,3,g,0,mg,5,g,7,g,1,g,2,g,0,g,0,g,5,g
+471,cold stone creamery,oreo cookies mix in,2.5,g,0,mg,45,g,8,g,0,g,0.5,g,0,g,0,g,5,g
+472,cold stone creamery,yellow cake mix in,1.5,g,5,mg,70,g,7,g,1,g,0,g,0,g,0,g,4,g
+473,cold stone creamery,mandms candy mix in,4.5,g,0,mg,15,g,16,g,1,g,3,g,0,g,0,g,14,g
+474,cold stone creamery,chocolate chips candy mix in,5,g,0,mg,0,g,12,g,1,g,3.5,g,0,g,1,g,11,g
+475,cold stone creamery,reeses peanut butter cups candy mix in,5,g,0,mg,55,g,9,g,2,g,1.5,g,0,g,1,g,8,g
+476,cold stone creamery,reeses pieces candy mix in,4.5,g,0,mg,20,g,12,g,2,g,4,g,0,g,0,g,10,g
+477,cold stone creamery,gummi bears candy mix in,0,g,0,mg,15,g,16,g,2,g,0,g,0,g,0,g,12,g
+478,cold stone creamery,marshmallow creme topping,0,g,0,mg,15,g,17,g,0,g,0,g,0,g,0,g,12,g
+479,cold stone creamery,granola other mix in,1.5,g,0,mg,75,g,23,g,2,g,0,g,0,g,2,g,8,g
+480,cold stone creamery,chocolate sprinkles topping,3,g,0,mg,0,g,13,g,0,g,2.5,g,0,g,0,g,8,g
+481,cold stone creamery,honey topping,0,g,0,mg,0,g,15,g,0,g,0,g,0,g,0,g,15,g
+482,cold stone creamery,caramel topping,0.5,g,0,mg,30,g,12,g,0,g,0,g,0,g,0,g,8,g
+483,cold stone creamery,reeses peanut butter sauce,11,g,0,mg,85,g,3,g,4,g,2,g,0,g,1,g,2,g
+484,cold stone creamery,apple pie filling fruit mix in,0,g,0,mg,10,g,9,g,0,g,0,g,0,g,0,g,8,g
+485,cold stone creamery,whoppers candy mix in,2,g,0,mg,30,g,8,g,0,g,2,g,0,g,0,g,7,g
+486,cold stone creamery,blackberries fruit mix in,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,1,g,3,g
+487,cold stone creamery,twix candy mix in,3,g,0,mg,25,g,9,g,1,g,2,g,0,g,0,g,6,g
+488,cold stone creamery,peanut butter mix in,12,g,0,mg,100,g,5,g,5,g,2.5,g,0,g,1,g,3,g
+489,cold stone creamery,strawberries fruit mix in,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,1,g,2,g
+490,cold stone creamery,chocolate chip cookie mix in,2.5,g,5,mg,85,g,10,g,1,g,1.5,g,0,g,1,g,6,g
+491,cold stone creamery,raisins fruit mix in,0,g,0,mg,0,g,17,g,1,g,0,g,0,g,1,g,13,g
+492,cold stone creamery,gumballs candy mix in,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,0,g,20,g
+493,cold stone creamery,peach pie filling fruit mix in,0,g,0,mg,5,g,8,g,0,g,0,g,0,g,0,g,6,g
+494,cold stone creamery,reddi wip original topping,2.5,g,0,mg,15,g,5,g,0.5,g,1,g,0,g,0,g,2,g
+495,cold stone creamery,pineapple tidbits fruit mix in,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,4,g
+496,cold stone creamery,oreo pie crust mix in,5,g,0,mg,90,g,14,g,1,g,2,g,0,g,1,g,7,g
+497,cold stone creamery,rainbow chocolate drops candy mix in,3,g,0,mg,0,g,14,g,0,g,3,g,0,g,0,g,13,g
+498,cold stone creamery,pistachio nuts mix in,7,g,0,mg,55,g,4,g,3,g,1,g,0,g,2,g,1,g
+499,cold stone creamery,marshmallows mix in,0,g,0,mg,20,g,12,g,0,g,0,g,0,g,0,g,8,g
+500,cold stone creamery,nestle crunch bar candy mix in,2.5,g,0,mg,15,g,7,g,1,g,1.5,g,0,g,0,g,6,g
+501,cold stone creamery,cinnamon topping,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,0,g
+502,cold stone creamery,macadamia nuts mix in,11,g,0,mg,0,g,2,g,1,g,2,g,0,g,1,g,1,g
+503,cold stone creamery,black cherries fruit mix in,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,1,g,8,g
+504,cold stone creamery,salted pecans mix in,7,g,0,mg,39,g,1.4,g,0.7,g,0.7,g,0,g,0.7,g,0.7,g
+505,cold stone creamery,york peppermint patties candy mix in,2.5,g,0,mg,10,g,27,g,1,g,1.5,g,0,g,1,g,22,g
+506,cold stone creamery,golden oreo cookie mix ins,2.5,g,0,mg,40,g,8,g,0,g,0.5,g,0,g,0,g,4,g
+507,cold stone creamery,richs on top whipped topping,3,g,0,mg,0,g,3,g,0,g,3,g,0,g,0,g,3,g
+508,cold stone creamery,bananas fruit mix in,0,g,0,mg,0,g,13,g,1,g,0,g,0,g,2,g,7,g
+509,cold stone creamery,strawberry wafers mix in,3,g,0,mg,15,g,12,g,1,g,1.5,g,0,g,0,g,8,g
+510,cold stone creamery,nilla wafers mix in,1.5,g,0,mg,30,g,5,g,0,g,0,g,0,g,0,g,3,g
+511,cold stone creamery,nutella topping,8,g,0,mg,10,g,14,g,1,g,2.5,g,0,g,1,g,13,g
+512,cold stone creamery,snickers candy mix in,6,g,0,mg,60,g,16,g,2,g,2,g,0,g,0,g,13,g
+513,cold stone creamery,peanuts mix in,7,g,0,mg,0,g,3,g,4,g,1,g,0,g,1,g,1,g
+514,cold stone creamery,white chocolate chips candy mix in,6,g,0,mg,50,g,13,g,1,g,5,g,0,g,0,g,13,g
+515,cold stone creamery,pretzels mix in,0,g,0,mg,170,g,7,g,1,g,0,g,0,g,0,g,0,g
+516,cold stone creamery,toasted coconut mix in,6,g,0,mg,0,g,5,g,1,g,5,g,0,g,1,g,4,g
+517,cold stone creamery,almond joy candy mix in,7,g,0,mg,25,g,13,g,1,g,4,g,0,g,1,g,10,g
+518,cold stone creamery,sliced almonds mix in,8,g,0,mg,0,g,3,g,3,g,0.5,g,0,g,2,g,1,g
+519,cold stone creamery,ghiradelli sea salt caramel topping,0,g,0,mg,110,g,12,g,0,g,0,g,0,g,0,g,9,g
+520,cold stone creamery,coconut mix in,4.5,g,0,mg,30,g,6,g,0,g,4,g,0,g,1,g,5,g
+521,cold stone creamery,ghirardelli caramel square candy mix in,4,g,5,mg,20,g,9,g,1,g,2.5,g,0,g,0,g,8,g
+522,cold stone creamery,walnuts mix in,10,g,0,mg,55,g,2,g,2,g,1,g,0,g,1,g,1,g
+523,cold stone creamery,cherry pie filling fruit mix in,0,g,0,mg,10,g,8,g,0,g,0,g,0,g,0,g,6,g
+524,cold stone creamery,peanut mandms candy mix in,7,g,0,mg,15,g,17,g,3,g,3,g,0,g,1,g,14,g
+525,cold stone creamery,white bettercreme frosting,3,g,0,mg,10,g,5,g,0,g,3,g,0,g,0,g,4,g
+526,cold stone creamery,pecan pralines mix in,21,g,0,mg,230,g,5,g,2,g,1.5,g,0,g,2,g,1,g
+527,cold stone creamery,butterfinger candy mix in,3.5,g,0,mg,40,g,13,g,1,g,1.5,g,0,g,0,g,8,g
+528,cold stone creamery,chocolate shavings candy mix in,5,g,0,mg,0,g,8,g,1,g,3.5,g,0,g,1,g,7,g
+529,cold stone creamery,salted cashew mix in,5,g,0,mg,45,g,4,g,2,g,1,g,0,g,0,g,0,g
+530,cold stone creamery,salted roasted almonds mix in,7,g,0,mg,55,g,3,g,3,g,0.5,g,0,g,2,g,1,g
+531,cold stone creamery,blueberries fruit mix in,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,1,g,2,g
+532,cold stone creamery,maraschino cherries fruit mix in,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+533,cold stone creamery,8 layer cake batter cake,41,g,80,mg,650,g,117,g,10,g,27,g,0,g,2,g,86,g
+534,cold stone creamery,8 layer neapolitan cake,41,g,85,mg,570,g,101,g,10,g,28,g,2,g,2,g,77,g
+535,cold stone creamery,8 layer quilted coffee caramel cake,46,g,95,mg,610,g,106,g,10,g,30,g,0,g,2,g,85,g
+536,cold stone creamery,a cheesecake named desire large rectangle,15,g,45,mg,260,g,48,g,4,g,9,g,1,g,0,g,33,g
+537,cold stone creamery,a cheesecake named desire large round,19,g,50,mg,310,g,57,g,5,g,11,g,2,g,0,g,39,g
+538,cold stone creamery,a cheesecake named desire petite,27,g,65,mg,510,g,88,g,7,g,15,g,2,g,1,g,58,g
+539,cold stone creamery,a cheesecake named desire small rectangle,18,g,50,mg,310,g,55,g,5,g,10,g,1,g,1,g,38,g
+540,cold stone creamery,a cheesecake named desire small round,19,g,50,mg,320,g,59,g,5,g,11,g,2,g,1,g,40,g
+541,cold stone creamery,almond joy,7,g,0,mg,25,g,13,g,1,g,4,g,0,g,1,g,10,g
+542,cold stone creamery,amaretto ice cream gotta have it,49,g,195,mg,270,g,85,g,13,g,31,g,1.5,g,0,g,78,g
+543,cold stone creamery,amaretto ice cream kids,12,g,50,mg,70,g,21,g,3,g,8,g,0,g,0,g,19,g
+544,cold stone creamery,amaretto ice cream like it,21,g,80,mg,115,g,36,g,5,g,13,g,0.5,g,0,g,32,g
+545,cold stone creamery,amaretto ice cream love it,33,g,130,mg,180,g,57,g,9,g,21,g,1,g,0,g,52,g
+546,cold stone creamery,amaretto yogurt gotta have it,0,g,0,mg,340,g,94,g,12,g,0,g,0,g,0,g,76,g
+547,cold stone creamery,amaretto yogurt kids,0,g,0,mg,85,g,23,g,3,g,0,g,0,g,0,g,19,g
+548,cold stone creamery,amaretto yogurt like it,0,g,0,mg,140,g,39,g,5,g,0,g,0,g,0,g,32,g
+549,cold stone creamery,amaretto yogurt love it,0,g,0,mg,230,g,63,g,8,g,0,g,0,g,0,g,51,g
+550,cold stone creamery,apple cinnamon oatmeal ice cream gotta have it,48,g,190,mg,330,g,93,g,14,g,30,g,1.5,g,1,g,79,g
+551,cold stone creamery,apple cinnamon oatmeal ice cream kids,12,g,45,mg,80,g,23,g,3,g,8,g,0,g,0,g,20,g
+552,cold stone creamery,apple cinnamon oatmeal ice cream like it,20,g,80,mg,135,g,39,g,6,g,13,g,0.5,g,1,g,33,g
+553,cold stone creamery,apple cinnamon oatmeal ice cream love it,32,g,125,mg,220,g,62,g,9,g,20,g,1,g,1,g,53,g
+554,cold stone creamery,apple pie a la cold stone gotta have it,53,g,230,mg,400,g,124,g,14,g,32,g,2.5,g,1,g,102,g
+555,cold stone creamery,apple pie a la cold stone like it,23,g,95,mg,200,g,62,g,6,g,13,g,1.5,g,1,g,49,g
+556,cold stone creamery,apple pie a la cold stone love it,36,g,155,mg,310,g,94,g,10,g,21,g,2.5,g,1,g,75,g
+557,cold stone creamery,apple pie filling,0,g,0,mg,10,g,9,g,0,g,0,g,0,g,0,g,8,g
+558,cold stone creamery,banana bread batter ice cream gotta have it,42,g,150,mg,550,g,115,g,12,g,25,g,2.5,g,1,g,85,g
+559,cold stone creamery,banana bread batter ice cream kids,11,g,35,mg,140,g,29,g,3,g,6,g,0.5,g,0,g,21,g
+560,cold stone creamery,banana bread batter ice cream like it,18,g,60,mg,230,g,48,g,5,g,10,g,1,g,0,g,35,g
+561,cold stone creamery,banana bread batter ice cream love it,28,g,100,mg,370,g,76,g,8,g,16,g,1.5,g,1,g,56,g
+562,cold stone creamery,banana bread batter yogurt gotta have it,6,g,0,mg,620,g,114,g,12,g,1.5,g,0,g,1,g,76,g
+563,cold stone creamery,banana bread batter yogurt kids,1.5,g,0,mg,150,g,28,g,3,g,0,g,0,g,0,g,19,g
+564,cold stone creamery,banana bread batter yogurt like it,2.5,g,0,mg,260,g,47,g,5,g,0.5,g,0,g,1,g,32,g
+565,cold stone creamery,banana bread batter yogurt love it,3.5,g,0,mg,410,g,76,g,8,g,1,g,0,g,1,g,51,g
+566,cold stone creamery,banana caramel crunch gotta have it,57,g,230,mg,360,g,118,g,17,g,32,g,1.5,g,3,g,98,g
+567,cold stone creamery,banana caramel crunch like it,26,g,95,mg,170,g,52,g,8,g,13,g,0.5,g,2,g,42,g
+568,cold stone creamery,banana caramel crunch love it,41,g,155,mg,270,g,89,g,13,g,21,g,1,g,3,g,71,g
+569,cold stone creamery,banana ice cream gotta have it,45,g,180,mg,250,g,86,g,12,g,29,g,1,g,1,g,75,g
+570,cold stone creamery,banana ice cream kids,11,g,45,mg,60,g,21,g,3,g,7,g,0,g,0,g,19,g
+571,cold stone creamery,banana ice cream like it,19,g,75,mg,105,g,36,g,5,g,12,g,0,g,0,g,31,g
+572,cold stone creamery,banana ice cream love it,30,g,120,mg,170,g,57,g,8,g,19,g,1,g,1,g,50,g
+573,cold stone creamery,banana split decision,37,g,100,mg,250,g,77,g,11,g,21,g,1,g,4,g,62,g
+574,cold stone creamery,bananas,0,g,0,mg,0,g,13,g,1,g,0,g,0,g,2,g,7,g
+575,cold stone creamery,berry berry berry good gotta have it,50,g,195,mg,270,g,97,g,14,g,31,g,1.5,g,3,g,84,g
+576,cold stone creamery,berry berry berry good like it,21,g,80,mg,115,g,47,g,6,g,13,g,0.5,g,3,g,38,g
+577,cold stone creamery,berry berry berry good love it,33,g,130,mg,180,g,68,g,10,g,21,g,1,g,3,g,58,g
+578,cold stone creamery,berry tart yogurt gotta have it,0,g,0,mg,320,g,92,g,11,g,0,g,0,g,1,g,75,g
+579,cold stone creamery,berry tart yogurt kids,0,g,0,mg,80,g,23,g,3,g,0,g,0,g,0,g,19,g
+580,cold stone creamery,berry tart yogurt like it,0,g,0,mg,130,g,38,g,5,g,0,g,0,g,0,g,31,g
+581,cold stone creamery,berry tart yogurt love it,0,g,0,mg,210,g,62,g,8,g,0,g,0,g,0,g,50,g
+582,cold stone creamery,birthday cake remix gotta have it,58,g,190,mg,630,g,161,g,16,g,34,g,1.5,g,2,g,124,g
+583,cold stone creamery,birthday cake remix like it,29,g,85,mg,360,g,88,g,8,g,16,g,0.5,g,2,g,65,g
+584,cold stone creamery,birthday cake remix love it,43,g,130,mg,490,g,126,g,12,g,25,g,1,g,2,g,95,g
+585,cold stone creamery,birthday cake large rectangle,19,g,50,mg,220,g,42,g,5,g,12,g,0,g,1,g,33,g
+586,cold stone creamery,birthday cake large round,22,g,55,mg,250,g,50,g,5,g,15,g,0,g,1,g,39,g
+587,cold stone creamery,birthday cake small rectangle,21,g,60,mg,270,g,50,g,5,g,14,g,0,g,1,g,39,g
+588,cold stone creamery,birthday cake small round,23,g,60,mg,270,g,53,g,6,g,15,g,0,g,1,g,42,g
+589,cold stone creamery,black cherries,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,1,g,8,g
+590,cold stone creamery,black cherry sweet and tart yogurt kids,0,g,0,mg,80,g,23,g,3,g,0,g,0,g,0,g,17,g
+591,cold stone creamery,black cherry ice cream gotta have it,46,g,185,mg,260,g,91,g,12,g,29,g,1,g,1,g,79,g
+592,cold stone creamery,black cherry ice cream kids,12,g,45,mg,65,g,23,g,3,g,7,g,0,g,0,g,20,g
+593,cold stone creamery,black cherry ice cream like it,19,g,75,mg,110,g,38,g,5,g,12,g,0.5,g,0,g,33,g
+594,cold stone creamery,black cherry ice cream love it,31,g,120,mg,170,g,61,g,8,g,20,g,1,g,0,g,53,g
+595,cold stone creamery,blackberries,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,1,g,3,g
+596,cold stone creamery,blueberries,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,1,g,2,g
+597,cold stone creamery,blueberry banana smoothie 12 oz,6,g,0,mg,160,g,58,g,1,g,5,g,0,g,3,g,40,g
+598,cold stone creamery,blueberry banana smoothie 20 oz,9,g,0,mg,260,g,99,g,2,g,8,g,0,g,5,g,68,g
+599,cold stone creamery,blueberry ice cream gotta have it,45,g,180,mg,270,g,96,g,12,g,29,g,1,g,0,g,80,g
+600,cold stone creamery,blueberry ice cream kids,11,g,45,mg,70,g,24,g,3,g,7,g,0,g,0,g,20,g
+601,cold stone creamery,blueberry ice cream like it,19,g,75,mg,115,g,40,g,5,g,12,g,0,g,0,g,33,g
+602,cold stone creamery,blueberry ice cream love it,30,g,120,mg,180,g,64,g,8,g,19,g,1,g,0,g,53,g
+603,cold stone creamery,blueberry muffin batter ice cream gotta have it,44,g,170,mg,350,g,107,g,12,g,27,g,1,g,0,g,84,g
+604,cold stone creamery,blueberry muffin batter ice cream kids,11,g,40,mg,90,g,27,g,3,g,7,g,0,g,0,g,21,g
+605,cold stone creamery,blueberry muffin batter ice cream like it,18,g,70,mg,150,g,45,g,5,g,11,g,0,g,0,g,35,g
+606,cold stone creamery,blueberry muffin batter ice cream love it,29,g,115,mg,240,g,71,g,8,g,18,g,1,g,0,g,56,g
+607,cold stone creamery,blueberry pomegrante yogurt gotta have it,0,g,0,mg,320,g,94,g,11,g,0,g,0,g,0,g,77,g
+608,cold stone creamery,blueberry pomegrante yogurt kids,0,g,0,mg,80,g,24,g,3,g,0,g,0,g,0,g,19,g
+609,cold stone creamery,blueberry pomegrante yogurt like it,0,g,0,mg,135,g,39,g,5,g,0,g,0,g,0,g,32,g
+610,cold stone creamery,blueberry pomegrante yogurt love it,0,g,0,mg,220,g,63,g,8,g,0,g,0,g,0,g,51,g
+611,cold stone creamery,blueberry yogurt gotta have it,0,g,0,mg,330,g,101,g,11,g,0,g,0,g,1,g,77,g
+612,cold stone creamery,blueberry yogurt kids,0,g,0,mg,85,g,25,g,3,g,0,g,0,g,0,g,19,g
+613,cold stone creamery,blueberry yogurt like it,0,g,0,mg,140,g,42,g,5,g,0,g,0,g,0,g,32,g
+614,cold stone creamery,blueberry yogurt love it,0,g,0,mg,220,g,67,g,8,g,0,g,0,g,1,g,51,g
+615,cold stone creamery,brownies,7,g,10,mg,160,g,30,g,2,g,2,g,0,g,1,g,19,g
+616,cold stone creamery,butter pecan ice cream gotta have it,48,g,190,mg,280,g,89,g,13,g,31,g,1.5,g,0,g,81,g
+617,cold stone creamery,butter pecan ice cream kids,12,g,50,mg,70,g,22,g,3,g,8,g,0,g,0,g,20,g
+618,cold stone creamery,butter pecan ice cream like it,20,g,80,mg,115,g,37,g,5,g,13,g,0.5,g,0,g,34,g
+619,cold stone creamery,butter pecan ice cream love it,32,g,125,mg,190,g,59,g,8,g,20,g,1,g,0,g,54,g
+620,cold stone creamery,butterfinger,7,g,0,mg,85,g,26,g,2,g,3.5,g,0,g,1,g,17,g
+621,cold stone creamery,butterfinger bonanza cake large rectangle,19,g,45,mg,290,g,58,g,5,g,11,g,0,g,1,g,41,g
+622,cold stone creamery,butterfinger bonanza cake large round,22,g,45,mg,330,g,66,g,6,g,13,g,0,g,1,g,47,g
+623,cold stone creamery,butterfinger bonanza cake petite,30,g,60,mg,510,g,93,g,8,g,18,g,0,g,2,g,66,g
+624,cold stone creamery,butterfinger bonanza cake small rectangle,22,g,50,mg,350,g,68,g,6,g,13,g,0,g,1,g,48,g
+625,cold stone creamery,butterfinger bonanza cake small round,24,g,45,mg,350,g,73,g,7,g,14,g,0,g,1,g,51,g
+626,cold stone creamery,butterscotch pudding ice cream gotta have it,43,g,170,mg,960,g,116,g,11,g,27,g,1,g,0,g,100,g
+627,cold stone creamery,butterscotch pudding ice cream kids,11,g,45,mg,240,g,29,g,3,g,7,g,0,g,0,g,25,g
+628,cold stone creamery,butterscotch pudding ice cream like it,18,g,70,mg,400,g,49,g,5,g,11,g,0,g,0,g,42,g
+629,cold stone creamery,butterscotch pudding ice cream love it,29,g,115,mg,640,g,78,g,8,g,18,g,1,g,0,g,67,g
+630,cold stone creamery,cake batter n shake with whipped topping 12 oz,49,g,145,mg,490,g,107,g,13,g,33,g,1,g,1,g,86,g
+631,cold stone creamery,cake batter n shake with whipped topping 20 oz,76,g,245,mg,850,g,176,g,22,g,49,g,1.5,g,1,g,140,g
+632,cold stone creamery,cake batter n shake 12 oz,39,g,145,mg,480,g,97,g,13,g,23,g,1,g,1,g,76,g
+633,cold stone creamery,cake batter n shake 20 oz,66,g,245,mg,840,g,165,g,22,g,39,g,1.5,g,1,g,129,g
+634,cold stone creamery,cake batter batter batter gotta have it,60,g,190,mg,750,g,161,g,17,g,33,g,1.5,g,2,g,118,g
+635,cold stone creamery,cake batter batter batter like it,33,g,85,mg,510,g,99,g,9,g,17,g,0.5,g,2,g,68,g
+636,cold stone creamery,cake batter batter batter love it,44,g,130,mg,610,g,126,g,12,g,24,g,1,g,2,g,89,g
+637,cold stone creamery,cake batter confetti cake large rectangle,17,g,45,mg,250,g,48,g,5,g,11,g,0,g,1,g,34,g
+638,cold stone creamery,cake batter confetti cake large round,20,g,50,mg,290,g,57,g,5,g,13,g,0,g,1,g,41,g
+639,cold stone creamery,cake batter confetti cake petite,27,g,65,mg,480,g,84,g,8,g,16,g,0,g,1,g,58,g
+640,cold stone creamery,cake batter confetti cake small rectangle,19,g,50,mg,300,g,57,g,5,g,12,g,0,g,1,g,41,g
+641,cold stone creamery,cake batter confetti cake small round,21,g,50,mg,290,g,61,g,5,g,14,g,0,g,1,g,44,g
+642,cold stone creamery,cake batter deluxe cupcake,17,g,35,mg,160,g,41,g,4,g,11,g,0,g,1,g,32,g
+643,cold stone creamery,cake batter ganache ice cream gotta have it,52,g,165,mg,400,g,112,g,13,g,29,g,1,g,2,g,91,g
+644,cold stone creamery,cake batter ganache ice cream kids,12,g,40,mg,100,g,28,g,3,g,7,g,0,g,0,g,23,g
+645,cold stone creamery,cake batter ganache ice cream like it,22,g,70,mg,170,g,47,g,5,g,12,g,0,g,1,g,38,g
+646,cold stone creamery,cake batter ganache ice cream love it,35,g,110,mg,270,g,75,g,9,g,19,g,1,g,1,g,61,g
+647,cold stone creamery,cake batter ice cream gotta have it,46,g,175,mg,420,g,106,g,13,g,28,g,1,g,0,g,86,g
+648,cold stone creamery,cake batter ice cream kids,12,g,45,mg,105,g,27,g,3,g,7,g,0,g,0,g,22,g
+649,cold stone creamery,cake batter ice cream like it,19,g,75,mg,180,g,44,g,5,g,12,g,0.5,g,0,g,36,g
+650,cold stone creamery,cake batter ice cream love it,31,g,120,mg,280,g,71,g,9,g,19,g,1,g,0,g,58,g
+651,cold stone creamery,cake batter sprinkle cookie sandwich,24,g,65,mg,450,g,77,g,5,g,14,g,0,g,5,g,50,g
+652,cold stone creamery,cake batter yogurt gotta have it,1.5,g,0,mg,480,g,113,g,12,g,0,g,0,g,1,g,85,g
+653,cold stone creamery,cake batter yogurt kids,0,g,0,mg,120,g,28,g,3,g,0,g,0,g,0,g,21,g
+654,cold stone creamery,cake batter yogurt like it,0.5,g,0,mg,200,g,47,g,5,g,0,g,0,g,0,g,35,g
+655,cold stone creamery,cake batter yogurt love it,1,g,0,mg,320,g,75,g,8,g,0,g,0,g,0,g,56,g
+656,cold stone creamery,cake cone,0,g,0,mg,15,g,5,g,0,g,0,g,0,g,0,g,0,g
+657,cold stone creamery,candy cane ice cream gotta have it,49,g,180,mg,260,g,102,g,12,g,30,g,1,g,0,g,89,g
+658,cold stone creamery,candy cane ice cream kids,12,g,45,mg,65,g,25,g,3,g,8,g,0,g,0,g,22,g
+659,cold stone creamery,candy cane ice cream like it,20,g,75,mg,110,g,42,g,5,g,13,g,0.5,g,0,g,37,g
+660,cold stone creamery,candy cane ice cream love it,32,g,120,mg,170,g,68,g,8,g,20,g,1,g,0,g,59,g
+661,cold stone creamery,candy cane yogurt gotta have it,1.5,g,0,mg,370,g,92,g,11,g,1,g,0,g,0,g,71,g
+662,cold stone creamery,candy cane yogurt kids,0,g,0,mg,85,g,23,g,3,g,0,g,0,g,0,g,18,g
+663,cold stone creamery,candy cane yogurt like it,0.5,g,0,mg,150,g,39,g,5,g,0,g,0,g,0,g,29,g
+664,cold stone creamery,candy cane yogurt love it,1,g,0,mg,230,g,62,g,8,g,0.5,g,0,g,0,g,48,g
+665,cold stone creamery,caramel,0.5,g,0,mg,30,g,12,g,0,g,0,g,0,g,0,g,8,g
+666,cold stone creamery,caramel apple pie,15,g,30,mg,160,g,43,g,3,g,9,g,2,g,0,g,30,g
+667,cold stone creamery,caramel chocolate cheesecake ice cream gotta have it,46,g,165,mg,460,g,94,g,12,g,30,g,1,g,0,g,81,g
+668,cold stone creamery,caramel chocolate cheesecake ice cream kids,12,g,40,mg,115,g,23,g,3,g,7,g,0,g,0,g,20,g
+669,cold stone creamery,caramel chocolate cheesecake ice cream like it,19,g,70,mg,190,g,39,g,5,g,12,g,0,g,0,g,34,g
+670,cold stone creamery,caramel chocolate cheesecake ice cream love it,31,g,110,mg,300,g,63,g,8,g,20,g,1,g,0,g,54,g
+671,cold stone creamery,caramel latte ice cream gotta have it,47,g,185,mg,300,g,99,g,13,g,29,g,1,g,0,g,84,g
+672,cold stone creamery,caramel latte ice cream kids,12,g,45,mg,75,g,25,g,3,g,7,g,0,g,0,g,21,g
+673,cold stone creamery,caramel latte ice cream like it,19,g,75,mg,125,g,41,g,5,g,12,g,0.5,g,0,g,35,g
+674,cold stone creamery,caramel latte ice cream love it,31,g,120,mg,200,g,66,g,8,g,20,g,1,g,0,g,56,g
+675,cold stone creamery,caramel nut nirvana cake large rectangle,21,g,50,mg,240,g,47,g,6,g,10,g,0,g,2,g,38,g
+676,cold stone creamery,caramel nut nirvana cake large round,25,g,55,mg,270,g,54,g,6,g,11,g,0,g,2,g,43,g
+677,cold stone creamery,caramel nut nirvana cake petite,31,g,70,mg,460,g,75,g,9,g,14,g,0,g,3,g,58,g
+678,cold stone creamery,caramel nut nirvana cake small rectangle,25,g,55,mg,300,g,55,g,7,g,11,g,0,g,2,g,44,g
+679,cold stone creamery,caramel nut nirvana cake small round,29,g,55,mg,310,g,62,g,7,g,12,g,0,g,3,g,50,g
+680,cold stone creamery,caramel turtle treat pie,20,g,30,mg,190,g,37,g,4,g,10,g,2,g,1,g,26,g
+681,cold stone creamery,caramel yogurt gotta have it,1,g,5,mg,380,g,99,g,12,g,1,g,0,g,0,g,75,g
+682,cold stone creamery,caramel yogurt kids,0,g,0,mg,95,g,25,g,3,g,0,g,0,g,0,g,19,g
+683,cold stone creamery,caramel yogurt like it,0.5,g,0,mg,160,g,42,g,5,g,0,g,0,g,0,g,31,g
+684,cold stone creamery,caramel yogurt love it,1,g,0,mg,250,g,66,g,8,g,0.5,g,0,g,0,g,50,g
+685,cold stone creamery,cheesecake bites,3.5,g,15,mg,45,g,5,g,1,g,2,g,0,g,0,g,3,g
+686,cold stone creamery,cheesecake fantasy gotta have it,50,g,185,mg,450,g,111,g,13,g,30,g,2.5,g,2,g,87,g
+687,cold stone creamery,cheesecake fantasy like it,22,g,75,mg,210,g,53,g,6,g,13,g,1.5,g,2,g,39,g
+688,cold stone creamery,cheesecake fantasy love it,34,g,120,mg,330,g,80,g,9,g,20,g,2,g,2,g,61,g
+689,cold stone creamery,cheesecake ice cream gotta have it,47,g,185,mg,380,g,95,g,12,g,29,g,1,g,0,g,80,g
+690,cold stone creamery,cheesecake ice cream kids,12,g,45,mg,95,g,24,g,3,g,7,g,0,g,0,g,20,g
+691,cold stone creamery,cheesecake ice cream like it,19,g,75,mg,160,g,40,g,5,g,12,g,0,g,0,g,33,g
+692,cold stone creamery,cheesecake ice cream love it,31,g,120,mg,250,g,63,g,8,g,20,g,1,g,0,g,53,g
+693,cold stone creamery,cheesecake yogurt gotta have it,1.5,g,5,mg,440,g,102,g,12,g,1,g,0,g,0,g,78,g
+694,cold stone creamery,cheesecake yogurt kids,0,g,0,mg,110,g,26,g,3,g,0,g,0,g,0,g,20,g
+695,cold stone creamery,cheesecake yogurt like it,0.5,g,0,mg,180,g,43,g,5,g,0,g,0,g,0,g,33,g
+696,cold stone creamery,cheesecake yogurt love it,1,g,5,mg,290,g,68,g,8,g,0.5,g,0,g,0,g,52,g
+697,cold stone creamery,cherry pie filling,0,g,0,mg,10,g,8,g,0,g,0,g,0,g,0,g,6,g
+698,cold stone creamery,cherry vanilla ice cream gotta have it,45,g,180,mg,250,g,92,g,12,g,28,g,1,g,1,g,79,g
+699,cold stone creamery,cherry vanilla ice cream kids,11,g,45,mg,65,g,23,g,3,g,7,g,0,g,0,g,20,g
+700,cold stone creamery,cherry vanilla ice cream like it,19,g,75,mg,105,g,38,g,5,g,12,g,0,g,0,g,33,g
+701,cold stone creamery,cherry vanilla ice cream love it,30,g,120,mg,170,g,61,g,8,g,19,g,1,g,0,g,53,g
+702,cold stone creamery,cherry vanilla yogurt gotta have it,0,g,0,mg,320,g,99,g,11,g,0,g,0,g,1,g,78,g
+703,cold stone creamery,cherry vanilla yogurt kids,0,g,0,mg,80,g,25,g,3,g,0,g,0,g,0,g,20,g
+704,cold stone creamery,cherry vanilla yogurt like it,0,g,0,mg,135,g,41,g,5,g,0,g,0,g,0,g,33,g
+705,cold stone creamery,cherry vanilla yogurt love it,0,g,0,mg,210,g,66,g,8,g,0,g,0,g,1,g,52,g
+706,cold stone creamery,chocolate cake batter ganache ice cream gotta have it,49,g,150,mg,410,g,111,g,13,g,28,g,1,g,2,g,90,g
+707,cold stone creamery,chocolate cake batter ganache ice cream kids,12,g,40,mg,100,g,28,g,3,g,7,g,0,g,0,g,23,g
+708,cold stone creamery,chocolate cake batter ganache ice cream like it,21,g,65,mg,170,g,46,g,5,g,12,g,0,g,1,g,38,g
+709,cold stone creamery,chocolate cake batter ganache ice cream love it,33,g,100,mg,270,g,74,g,9,g,19,g,0.5,g,1,g,60,g
+710,cold stone creamery,chocolate cake batter ice cream gotta have it,43,g,160,mg,420,g,105,g,13,g,28,g,1,g,0,g,85,g
+711,cold stone creamery,chocolate cake batter ice cream kids,11,g,40,mg,105,g,26,g,3,g,7,g,0,g,0,g,21,g
+712,cold stone creamery,chocolate cake batter ice cream like it,18,g,70,mg,180,g,44,g,5,g,12,g,0,g,0,g,36,g
+713,cold stone creamery,chocolate cake batter ice cream love it,29,g,110,mg,280,g,70,g,9,g,19,g,1,g,0,g,57,g
+714,cold stone creamery,chocolate chip cookie,2.5,g,5,mg,85,g,10,g,1,g,1.5,g,0,g,1,g,6,g
+715,cold stone creamery,chocolate chipper cake large rectangle,20,g,50,mg,210,g,41,g,5,g,10,g,0,g,2,g,33,g
+716,cold stone creamery,chocolate chipper cake large round,24,g,50,mg,230,g,47,g,6,g,12,g,0,g,2,g,38,g
+717,cold stone creamery,chocolate chipper cake petite,34,g,70,mg,430,g,74,g,9,g,16,g,0,g,4,g,58,g
+718,cold stone creamery,chocolate chipper cake small rectangle,23,g,55,mg,260,g,49,g,6,g,11,g,0,g,2,g,38,g
+719,cold stone creamery,chocolate chipper cake small round,27,g,55,mg,260,g,53,g,6,g,12,g,0,g,3,g,43,g
+720,cold stone creamery,chocolate chips,5,g,0,mg,0,g,12,g,1,g,3.5,g,0,g,1,g,11,g
+721,cold stone creamery,chocolate cupcake ice cream gotta have it,49,g,160,mg,440,g,97,g,15,g,30,g,1,g,3,g,80,g
+722,cold stone creamery,chocolate cupcake ice cream kids,12,g,40,mg,110,g,24,g,4,g,8,g,0,g,1,g,20,g
+723,cold stone creamery,chocolate cupcake ice cream like it,20,g,65,mg,180,g,40,g,6,g,13,g,0,g,1,g,34,g
+724,cold stone creamery,chocolate cupcake ice cream love it,32,g,105,mg,290,g,65,g,10,g,20,g,0.5,g,2,g,54,g
+725,cold stone creamery,chocolate devotion gotta have it,61,g,195,mg,460,g,135,g,18,g,38,g,1.5,g,3,g,116,g
+726,cold stone creamery,chocolate devotion like it,31,g,90,mg,290,g,77,g,9,g,18,g,0.5,g,2,g,62,g
+727,cold stone creamery,chocolate devotion love it,45,g,135,mg,380,g,108,g,13,g,27,g,1,g,3,g,91,g
+728,cold stone creamery,chocolate dipped strawberry ice cream gotta have it,43,g,165,mg,230,g,83,g,14,g,29,g,1,g,2,g,75,g
+729,cold stone creamery,chocolate dipped strawberry ice cream kids,11,g,40,mg,55,g,21,g,3,g,7,g,0,g,1,g,19,g
+730,cold stone creamery,chocolate dipped strawberry ice cream like it,18,g,70,mg,95,g,35,g,6,g,12,g,0,g,1,g,31,g
+731,cold stone creamery,chocolate dipped strawberry ice cream love it,29,g,110,mg,150,g,56,g,9,g,19,g,1,g,2,g,50,g
+732,cold stone creamery,chocolate hazelnut ice cream gotta have it,52,g,170,mg,240,g,92,g,14,g,32,g,1,g,1,g,85,g
+733,cold stone creamery,chocolate hazelnut ice cream kids,13,g,40,mg,60,g,23,g,3,g,8,g,0,g,0,g,21,g
+734,cold stone creamery,chocolate hazelnut ice cream like it,22,g,70,mg,100,g,38,g,6,g,13,g,0,g,0,g,36,g
+735,cold stone creamery,chocolate hazelnut ice cream love it,35,g,110,mg,160,g,61,g,9,g,21,g,1,g,0,g,57,g
+736,cold stone creamery,chocolate ice cream gotta have it,47,g,185,mg,250,g,81,g,13,g,31,g,1.5,g,3,g,76,g
+737,cold stone creamery,chocolate ice cream kids,12,g,45,mg,60,g,20,g,3,g,8,g,0,g,0,g,19,g
+738,cold stone creamery,chocolate ice cream like it,20,g,75,mg,105,g,34,g,5,g,13,g,0.5,g,1,g,32,g
+739,cold stone creamery,chocolate ice cream love it,31,g,120,mg,170,g,54,g,9,g,21,g,1,g,2,g,51,g
+740,cold stone creamery,chocolate layer cake ice cream gotta have it,46,g,170,mg,490,g,94,g,14,g,28,g,1,g,1,g,80,g
+741,cold stone creamery,chocolate layer cake ice cream kids,11,g,45,mg,120,g,24,g,4,g,7,g,0,g,0,g,20,g
+742,cold stone creamery,chocolate layer cake ice cream like it,19,g,70,mg,200,g,39,g,6,g,12,g,0,g,1,g,33,g
+743,cold stone creamery,chocolate layer cake ice cream love it,30,g,115,mg,330,g,63,g,9,g,19,g,0.5,g,1,g,53,g
+744,cold stone creamery,chocolate malt ice cream gotta have it,46,g,175,mg,360,g,97,g,17,g,30,g,1,g,0,g,84,g
+745,cold stone creamery,chocolate malt ice cream kids,11,g,45,mg,90,g,24,g,4,g,7,g,0,g,0,g,21,g
+746,cold stone creamery,chocolate malt ice cream like it,19,g,70,mg,150,g,41,g,7,g,12,g,0,g,0,g,35,g
+747,cold stone creamery,chocolate malt ice cream love it,30,g,115,mg,240,g,65,g,11,g,20,g,1,g,0,g,56,g
+748,cold stone creamery,chocolate malt yogurt gotta have it,3.5,g,10,mg,440,g,110,g,17,g,1.5,g,0,g,2,g,83,g
+749,cold stone creamery,chocolate malt yogurt kids,1,g,0,mg,110,g,27,g,4,g,0,g,0,g,1,g,21,g
+750,cold stone creamery,chocolate malt yogurt like it,1.5,g,5,mg,180,g,45,g,7,g,0.5,g,0,g,1,g,35,g
+751,cold stone creamery,chocolate malt yogurt love it,2.5,g,5,mg,290,g,73,g,11,g,1,g,0,g,1,g,56,g
+752,cold stone creamery,chocolate peanut butter ice cream gotta have it,68,g,135,mg,530,g,91,g,24,g,31,g,1,g,4,g,78,g
+753,cold stone creamery,chocolate peanut butter ice cream kids,17,g,35,mg,130,g,23,g,6,g,8,g,0,g,1,g,20,g
+754,cold stone creamery,chocolate peanut butter ice cream like it,28,g,55,mg,220,g,38,g,10,g,13,g,0,g,1,g,33,g
+755,cold stone creamery,chocolate peanut butter ice cream love it,45,g,90,mg,350,g,61,g,16,g,21,g,0.5,g,2,g,52,g
+756,cold stone creamery,chocolate pudding ice cream gotta have it,43,g,170,mg,910,g,115,g,11,g,27,g,1,g,2,g,97,g
+757,cold stone creamery,chocolate pudding ice cream kids,11,g,45,mg,230,g,29,g,3,g,7,g,0,g,0,g,24,g
+758,cold stone creamery,chocolate pudding ice cream like it,18,g,70,mg,380,g,48,g,5,g,11,g,0,g,1,g,41,g
+759,cold stone creamery,chocolate pudding ice cream love it,29,g,115,mg,610,g,77,g,8,g,18,g,1,g,1,g,65,g
+760,cold stone creamery,chocolate raspberry truffle ice cream gotta have it,41,g,145,mg,340,g,104,g,12,g,28,g,1,g,1,g,91,g
+761,cold stone creamery,chocolate raspberry truffle ice cream kids,10,g,35,mg,85,g,26,g,3,g,7,g,0,g,0,g,23,g
+762,cold stone creamery,chocolate raspberry truffle ice cream like it,17,g,60,mg,140,g,44,g,5,g,12,g,0,g,0,g,38,g
+763,cold stone creamery,chocolate raspberry truffle ice cream love it,27,g,100,mg,230,g,70,g,8,g,19,g,0.5,g,1,g,61,g
+764,cold stone creamery,chocolate shavings,5,g,0,mg,0,g,8,g,1,g,3.5,g,0,g,1,g,7,g
+765,cold stone creamery,chocolate sprinkles,3,g,0,mg,0,g,13,g,0,g,2.5,g,0,g,0,g,8,g
+766,cold stone creamery,chocolate yogurt gotta have it,1,g,0,mg,340,g,96,g,14,g,0,g,0,g,2,g,75,g
+767,cold stone creamery,chocolate yogurt kids,0,g,0,mg,85,g,24,g,3,g,0,g,0,g,1,g,19,g
+768,cold stone creamery,chocolate yogurt like it,0,g,0,mg,140,g,40,g,6,g,0,g,0,g,1,g,31,g
+769,cold stone creamery,chocolate yogurt love it,0.5,g,0,mg,230,g,64,g,9,g,0,g,0,g,2,g,50,g
+770,cold stone creamery,chunky chips ahoy cookie,8,g,0,mg,110,g,20,g,2,g,3,g,0,g,0,g,10,g
+771,cold stone creamery,cinnamon bun batter ice cream gotta have it,42,g,160,mg,430,g,122,g,12,g,26,g,1,g,2,g,93,g
+772,cold stone creamery,cinnamon bun batter ice cream kids,11,g,40,mg,110,g,31,g,3,g,6,g,0,g,1,g,23,g
+773,cold stone creamery,cinnamon bun batter ice cream like it,18,g,65,mg,180,g,51,g,5,g,11,g,0,g,1,g,39,g
+774,cold stone creamery,cinnamon bun batter ice cream love it,28,g,105,mg,290,g,82,g,8,g,17,g,0.5,g,2,g,62,g
+775,cold stone creamery,cinnamon bun yogurt gotta have it,2.5,g,0,mg,500,g,114,g,12,g,0.5,g,0,g,1,g,81,g
+776,cold stone creamery,cinnamon bun yogurt kids,0.5,g,0,mg,125,g,29,g,2,g,0,g,0,g,0,g,20,g
+777,cold stone creamery,cinnamon bun yogurt like it,1,g,0,mg,210,g,48,g,5,g,0,g,0,g,1,g,34,g
+778,cold stone creamery,cinnamon bun yogurt love it,1.5,g,0,mg,340,g,76,g,8,g,0,g,0,g,1,g,54,g
+779,cold stone creamery,cinnamon ice cream gotta have it,49,g,195,mg,270,g,88,g,13,g,31,g,1.5,g,2,g,78,g
+780,cold stone creamery,cinnamon ice cream kids,12,g,50,mg,70,g,22,g,3,g,8,g,0,g,0,g,19,g
+781,cold stone creamery,cinnamon ice cream like it,21,g,80,mg,115,g,37,g,5,g,13,g,0.5,g,1,g,32,g
+782,cold stone creamery,cinnamon ice cream love it,33,g,130,mg,180,g,59,g,9,g,21,g,1,g,1,g,52,g
+783,cold stone creamery,cinnamon yogurt gotta have it,0,g,0,mg,340,g,96,g,12,g,0,g,0,g,2,g,77,g
+784,cold stone creamery,cinnamon yogurt kids,0,g,0,mg,85,g,24,g,3,g,0,g,0,g,0,g,19,g
+785,cold stone creamery,cinnamon yogurt like it,0,g,0,mg,140,g,40,g,5,g,0,g,0,g,1,g,32,g
+786,cold stone creamery,cinnamon yogurt love it,0,g,0,mg,230,g,64,g,8,g,0,g,0,g,1,g,51,g
+787,cold stone creamery,circus animal cookies ice cream gotta have it,51,g,160,mg,580,g,115,g,13,g,34,g,1,g,0,g,90,g
+788,cold stone creamery,circus animal cookies ice cream kids,13,g,40,mg,140,g,29,g,3,g,9,g,0,g,0,g,22,g
+789,cold stone creamery,circus animal cookies ice cream like it,21,g,70,mg,240,g,48,g,5,g,14,g,0,g,0,g,37,g
+790,cold stone creamery,circus animal cookies ice cream love it,34,g,110,mg,390,g,77,g,9,g,23,g,0.5,g,0,g,60,g
+791,cold stone creamery,classic cookie dough ice cream gotta have it,43,g,165,mg,540,g,119,g,13,g,27,g,1,g,0,g,90,g
+792,cold stone creamery,classic cookie dough ice cream kids,11,g,40,mg,135,g,30,g,3,g,7,g,0,g,0,g,23,g
+793,cold stone creamery,classic cookie dough ice cream like it,18,g,70,mg,220,g,50,g,6,g,11,g,0,g,0,g,38,g
+794,cold stone creamery,classic cookie dough ice cream love it,29,g,110,mg,360,g,79,g,9,g,18,g,0.5,g,0,g,60,g
+795,cold stone creamery,coconut,4.5,g,0,mg,30,g,6,g,0,g,4,g,0,g,1,g,5,g
+796,cold stone creamery,coconut ice cream gotta have it,48,g,190,mg,270,g,88,g,13,g,30,g,1.5,g,0,g,80,g
+797,cold stone creamery,coconut ice cream kids,12,g,45,mg,65,g,22,g,3,g,8,g,0,g,0,g,20,g
+798,cold stone creamery,coconut ice cream like it,20,g,80,mg,110,g,37,g,5,g,13,g,0.5,g,0,g,34,g
+799,cold stone creamery,coconut ice cream love it,32,g,125,mg,180,g,59,g,8,g,20,g,1,g,0,g,54,g
+800,cold stone creamery,coffee ice cream gotta have it,49,g,195,mg,270,g,87,g,13,g,31,g,1.5,g,0,g,78,g
+801,cold stone creamery,coffee ice cream kids,12,g,50,mg,70,g,22,g,3,g,8,g,0,g,0,g,20,g
+802,cold stone creamery,coffee ice cream like it,21,g,80,mg,115,g,36,g,6,g,13,g,0.5,g,0,g,33,g
+803,cold stone creamery,coffee ice cream love it,33,g,130,mg,180,g,58,g,9,g,21,g,1,g,0,g,52,g
+804,cold stone creamery,coffee lovers only gotta have it,64,g,200,mg,430,g,114,g,17,g,36,g,1.5,g,2,g,99,g
+805,cold stone creamery,coffee lovers only like it,29,g,85,mg,200,g,50,g,8,g,15,g,0.5,g,1,g,43,g
+806,cold stone creamery,coffee lovers only love it,48,g,135,mg,340,g,85,g,13,g,25,g,1,g,2,g,73,g
+807,cold stone creamery,coffee yogurt gotta have it,0,g,0,mg,340,g,97,g,13,g,0,g,0,g,0,g,76,g
+808,cold stone creamery,coffee yogurt kids,0,g,0,mg,85,g,24,g,3,g,0,g,0,g,0,g,19,g
+809,cold stone creamery,coffee yogurt like it,0,g,0,mg,140,g,40,g,5,g,0,g,0,g,0,g,32,g
+810,cold stone creamery,coffee yogurt love it,0,g,0,mg,230,g,65,g,9,g,0,g,0,g,0,g,51,g
+811,cold stone creamery,coffeehouse crunch cake large rectangle,23,g,50,mg,260,g,48,g,5,g,12,g,0,g,2,g,39,g
+812,cold stone creamery,coffeehouse crunch cake large round,27,g,55,mg,290,g,55,g,6,g,13,g,0,g,2,g,45,g
+813,cold stone creamery,coffeehouse crunch cake petite,33,g,70,mg,480,g,76,g,8,g,16,g,1,g,3,g,59,g
+814,cold stone creamery,coffeehouse crunch cake small rectangle,27,g,55,mg,320,g,58,g,6,g,14,g,0,g,2,g,46,g
+815,cold stone creamery,coffeehouse crunch cake small round,32,g,55,mg,330,g,65,g,6,g,16,g,1,g,3,g,53,g
+816,cold stone creamery,cookie butter ice cream gotta have it,63,g,170,mg,240,g,98,g,13,g,32,g,1.5,g,0,g,82,g
+817,cold stone creamery,cookie butter ice cream kids,16,g,45,mg,60,g,24,g,3,g,8,g,0,g,0,g,20,g
+818,cold stone creamery,cookie butter ice cream like it,26,g,70,mg,100,g,41,g,5,g,14,g,0.5,g,0,g,34,g
+819,cold stone creamery,cookie butter ice cream love it,42,g,115,mg,160,g,65,g,9,g,22,g,1,g,0,g,55,g
+820,cold stone creamery,cookie crumb yum cookie sandwich,23,g,70,mg,430,g,65,g,5,g,13,g,0,g,5,g,43,g
+821,cold stone creamery,cookie dough,6,g,0,mg,170,g,25,g,1,g,3,g,0,g,1,g,13,g
+822,cold stone creamery,cookie dough delirium cake large rectangle,18,g,50,mg,260,g,45,g,5,g,11,g,0,g,1,g,33,g
+823,cold stone creamery,cookie dough delirium cake large round,21,g,50,mg,310,g,54,g,5,g,13,g,0,g,1,g,40,g
+824,cold stone creamery,cookie dough delirium cake petite,30,g,70,mg,490,g,80,g,8,g,17,g,0,g,2,g,58,g
+825,cold stone creamery,cookie dough delirium cake small rectangle,20,g,55,mg,300,g,51,g,5,g,12,g,0,g,1,g,38,g
+826,cold stone creamery,cookie dough delirium cake small round,22,g,50,mg,330,g,57,g,5,g,13,g,0,g,1,g,41,g
+827,cold stone creamery,cookie dough pie,22,g,30,mg,310,g,60,g,4,g,12,g,2,g,1,g,39,g
+828,cold stone creamery,cookie doughnt want some gotta have it,62,g,230,mg,540,g,151,g,16,g,38,g,1.5,g,2,g,124,g
+829,cold stone creamery,cookie doughnt want some like it,31,g,95,mg,330,g,81,g,8,g,18,g,0.5,g,1,g,62,g
+830,cold stone creamery,cookie doughnt want some love it,46,g,155,mg,440,g,121,g,12,g,28,g,1,g,2,g,96,g
+831,cold stone creamery,cookie mintster gotta have it,60,g,190,mg,500,g,135,g,15,g,34,g,1.5,g,0,g,108,g
+832,cold stone creamery,cookie mintster like it,26,g,80,mg,230,g,60,g,6,g,15,g,0.5,g,0,g,48,g
+833,cold stone creamery,cookie mintster love it,43,g,125,mg,410,g,105,g,11,g,24,g,1,g,0,g,82,g
+834,cold stone creamery,cookies and creamery cake large rectangle,17,g,50,mg,240,g,41,g,5,g,10,g,0,g,1,g,31,g
+835,cold stone creamery,cookies and creamery cake large round,21,g,50,mg,270,g,48,g,5,g,13,g,0,g,1,g,37,g
+836,cold stone creamery,cookies and creamery cake petite,28,g,70,mg,490,g,74,g,8,g,16,g,0,g,2,g,54,g
+837,cold stone creamery,cookies and creamery cake small rectangle,20,g,55,mg,290,g,48,g,5,g,12,g,0,g,1,g,37,g
+838,cold stone creamery,cookies and creamery cake small round,22,g,50,mg,310,g,52,g,6,g,13,g,0,g,1,g,39,g
+839,cold stone creamery,cookies and creamery yogurt gotta have it,5,g,0,mg,420,g,105,g,12,g,1.5,g,0,g,1,g,81,g
+840,cold stone creamery,cookies and creamery yogurt kids,1,g,0,mg,105,g,26,g,3,g,0,g,0,g,0,g,20,g
+841,cold stone creamery,cookies and creamery yogurt like it,2,g,0,mg,170,g,44,g,5,g,0.5,g,0,g,0,g,34,g
+842,cold stone creamery,cookies and creamery yogurt love it,3,g,0,mg,280,g,70,g,8,g,1,g,0,g,1,g,54,g
+843,cold stone creamery,cookies make everything batter gotta have it,59,g,175,mg,590,g,143,g,14,g,35,g,1,g,0,g,107,g
+844,cold stone creamery,cookies make everything batter like it,28,g,75,mg,260,g,65,g,6,g,17,g,0.5,g,0,g,48,g
+845,cold stone creamery,cookies make everything batter love it,44,g,120,mg,450,g,108,g,10,g,25,g,1,g,0,g,79,g
+846,cold stone creamery,cotton candy ice cream gotta have it,49,g,190,mg,270,g,88,g,13,g,31,g,1.5,g,0,g,77,g
+847,cold stone creamery,cotton candy ice cream kids,12,g,50,mg,65,g,22,g,3,g,8,g,0,g,0,g,19,g
+848,cold stone creamery,cotton candy ice cream like it,20,g,80,mg,110,g,37,g,5,g,13,g,0.5,g,0,g,32,g
+849,cold stone creamery,cotton candy ice cream love it,33,g,130,mg,180,g,59,g,9,g,21,g,1,g,0,g,51,g
+850,cold stone creamery,cotton candy yogurt gotta have it,0,g,0,mg,340,g,96,g,12,g,0,g,0,g,0,g,76,g
+851,cold stone creamery,cotton candy yogurt kids,0,g,0,mg,85,g,24,g,3,g,0,g,0,g,0,g,19,g
+852,cold stone creamery,cotton candy yogurt like it,0,g,0,mg,140,g,40,g,5,g,0,g,0,g,0,g,32,g
+853,cold stone creamery,cotton candy yogurt love it,0,g,0,mg,230,g,64,g,7,g,0,g,0,g,0,g,50,g
+854,cold stone creamery,country time pink lemonade yogurt gotta have it,0,g,0,mg,350,g,103,g,12,g,0,g,0,g,0,g,86,g
+855,cold stone creamery,country time pink lemonade yogurt kids,0,g,0,mg,90,g,26,g,3,g,0,g,0,g,0,g,21,g
+856,cold stone creamery,country time pink lemonade yogurt like it,0,g,0,mg,150,g,43,g,5,g,0,g,0,g,0,g,36,g
+857,cold stone creamery,country time pink lemonade yogurt love it,0,g,0,mg,240,g,69,g,8,g,0,g,0,g,0,g,57,g
+858,cold stone creamery,dark chocolate ice cream gotta have it,47,g,175,mg,240,g,84,g,16,g,31,g,1.5,g,4,g,74,g
+859,cold stone creamery,dark chocolate ice cream kids,12,g,45,mg,60,g,21,g,4,g,8,g,0,g,1,g,18,g
+860,cold stone creamery,dark chocolate ice cream like it,19,g,75,mg,100,g,35,g,7,g,13,g,0.5,g,2,g,31,g
+861,cold stone creamery,dark chocolate ice cream love it,31,g,115,mg,160,g,53,g,11,g,21,g,1,g,2,g,49,g
+862,cold stone creamery,dark chocolate peppermint ice cream gotta have it,46,g,175,mg,240,g,86,g,16,g,31,g,1,g,4,g,73,g
+863,cold stone creamery,dark chocolate peppermint ice cream kids,12,g,45,mg,60,g,21,g,4,g,8,g,0,g,1,g,18,g
+864,cold stone creamery,dark chocolate peppermint ice cream like it,19,g,75,mg,100,g,36,g,7,g,13,g,0.5,g,2,g,31,g
+865,cold stone creamery,dark chocolate peppermint ice cream love it,31,g,115,mg,160,g,57,g,11,g,21,g,1,g,3,g,49,g
+866,cold stone creamery,dark chocolate yogurt gotta have it,1,g,0,mg,340,g,96,g,14,g,0,g,0,g,3,g,75,g
+867,cold stone creamery,dark chocolate yogurt kids,0,g,0,mg,85,g,24,g,4,g,0,g,0,g,1,g,19,g
+868,cold stone creamery,dark chocolate yogurt like it,0,g,0,mg,140,g,40,g,6,g,0,g,0,g,1,g,32,g
+869,cold stone creamery,dark chocolate yogurt love it,0.5,g,0,mg,230,g,64,g,9,g,0,g,0,g,2,g,50,g
+870,cold stone creamery,dipped dough,8,g,0,mg,180,g,28,g,1,g,5,g,0,g,1,g,16,g
+871,cold stone creamery,dipped sprinkled waffle cone or bowl,17,g,5,mg,50,g,49,g,2,g,15,g,0,g,2,g,34,g
+872,cold stone creamery,dipped waffle cone or bowl,15,g,5,mg,45,g,43,g,2,g,13,g,0,g,2,g,30,g
+873,cold stone creamery,double chocolate devotion cupcake,18,g,35,mg,150,g,39,g,4,g,12,g,0,g,1,g,33,g
+874,cold stone creamery,dough for it gotta have it,54,g,165,mg,710,g,168,g,15,g,33,g,1.5,g,2,g,125,g
+875,cold stone creamery,dough for it like it,27,g,70,mg,400,g,87,g,7,g,16,g,0.5,g,1,g,62,g
+876,cold stone creamery,dough for it love it,40,g,110,mg,530,g,128,g,11,g,24,g,1,g,2,g,95,g
+877,cold stone creamery,dough lightful peanut butter gotta have it,65,g,165,mg,750,g,154,g,22,g,32,g,1,g,3,g,120,g
+878,cold stone creamery,dough lightful peanut butter like it,35,g,70,mg,380,g,70,g,12,g,15,g,0,g,2,g,54,g
+879,cold stone creamery,dough lightful peanut butter love it,51,g,110,mg,580,g,114,g,17,g,24,g,1,g,3,g,90,g
+880,cold stone creamery,dulce de leche ice cream gotta have it,46,g,180,mg,300,g,101,g,15,g,29,g,1,g,0,g,94,g
+881,cold stone creamery,dulce de leche ice cream kids,12,g,45,mg,75,g,25,g,4,g,7,g,0,g,0,g,23,g
+882,cold stone creamery,dulce de leche ice cream like it,19,g,75,mg,125,g,42,g,6,g,12,g,0,g,0,g,39,g
+883,cold stone creamery,dulce de leche ice cream love it,31,g,120,mg,200,g,67,g,10,g,20,g,0.5,g,0,g,63,g
+884,cold stone creamery,eggnog ice cream gotta have it,38,g,200,mg,240,g,67,g,14,g,24,g,1,g,0,g,62,g
+885,cold stone creamery,eggnog ice cream kids,10,g,50,mg,60,g,17,g,3,g,6,g,0,g,0,g,15,g
+886,cold stone creamery,eggnog ice cream like it,16,g,85,mg,100,g,28,g,6,g,10,g,0,g,0,g,26,g
+887,cold stone creamery,eggnog ice cream love it,25,g,130,mg,160,g,45,g,9,g,16,g,0.5,g,0,g,41,g
+888,cold stone creamery,eggnog yogurt gotta have it,2.5,g,30,mg,320,g,84,g,13,g,1.5,g,0,g,0,g,69,g
+889,cold stone creamery,eggnog yogurt kids,0.5,g,10,mg,80,g,21,g,3,g,0,g,0,g,0,g,17,g
+890,cold stone creamery,eggnog yogurt like it,1,g,15,mg,135,g,35,g,5,g,0.5,g,0,g,0,g,29,g
+891,cold stone creamery,eggnog yogurt love it,1.5,g,20,mg,210,g,56,g,9,g,1,g,0,g,0,g,46,g
+892,cold stone creamery,founders favorite gotta have it,69,g,210,mg,570,g,142,g,19,g,36,g,1.5,g,3,g,117,g
+893,cold stone creamery,founders favorite like it,35,g,95,mg,340,g,79,g,9,g,16,g,0.5,g,2,g,62,g
+894,cold stone creamery,founders favorite love it,53,g,145,mg,480,g,113,g,14,g,25,g,1,g,3,g,91,g
+895,cold stone creamery,french vanilla ice cream gotta have it,49,g,225,mg,280,g,90,g,13,g,30,g,1.5,g,0,g,82,g
+896,cold stone creamery,french vanilla ice cream kids,12,g,55,mg,70,g,22,g,3,g,8,g,0,g,0,g,21,g
+897,cold stone creamery,french vanilla ice cream like it,20,g,95,mg,115,g,38,g,5,g,13,g,0.5,g,0,g,34,g
+898,cold stone creamery,french vanilla ice cream love it,32,g,150,mg,190,g,60,g,9,g,20,g,1,g,0,g,55,g
+899,cold stone creamery,french vanilla yogurt gotta have it,1,g,45,mg,350,g,99,g,13,g,0,g,0,g,0,g,82,g
+900,cold stone creamery,french vanilla yogurt kids,0,g,10,mg,85,g,25,g,3,g,0,g,0,g,0,g,20,g
+901,cold stone creamery,french vanilla yogurt like it,0,g,20,mg,150,g,41,g,5,g,0,g,0,g,0,g,34,g
+902,cold stone creamery,french vanilla yogurt love it,0.5,g,30,mg,230,g,66,g,8,g,0,g,0,g,0,g,54,g
+903,cold stone creamery,fudge,1.5,g,0,mg,55,g,11,g,1,g,1.5,g,0,g,0,g,10,g
+904,cold stone creamery,fudge brownie batter ice cream gotta have it,46,g,160,mg,410,g,107,g,14,g,28,g,1,g,2,g,91,g
+905,cold stone creamery,fudge brownie batter ice cream kids,12,g,40,mg,100,g,27,g,3,g,7,g,0,g,0,g,23,g
+906,cold stone creamery,fudge brownie batter ice cream like it,19,g,65,mg,170,g,45,g,6,g,12,g,0,g,1,g,38,g
+907,cold stone creamery,fudge brownie batter ice cream love it,31,g,105,mg,270,g,71,g,9,g,19,g,0.5,g,1,g,61,g
+908,cold stone creamery,fudge brownie batter yogurt gotta have it,12,g,15,mg,570,g,122,g,14,g,5,g,0,g,2,g,93,g
+909,cold stone creamery,fudge brownie batter yogurt kids,3,g,5,mg,140,g,31,g,3,g,1,g,0,g,1,g,23,g
+910,cold stone creamery,fudge brownie batter yogurt like it,5,g,5,mg,240,g,51,g,6,g,2,g,0,g,1,g,39,g
+911,cold stone creamery,fudge brownie batter yogurt love it,8,g,10,mg,380,g,82,g,9,g,3.5,g,0,g,2,g,62,g
+912,cold stone creamery,fudge mint cookie ice cream gotta have it,50,g,170,mg,230,g,93,g,13,g,33,g,1,g,1,g,81,g
+913,cold stone creamery,fudge mint cookie ice cream kids,12,g,40,mg,55,g,23,g,3,g,8,g,0,g,0,g,20,g
+914,cold stone creamery,fudge mint cookie ice cream like it,21,g,70,mg,95,g,39,g,5,g,14,g,0.5,g,0,g,34,g
+915,cold stone creamery,fudge mint cookie ice cream love it,33,g,115,mg,150,g,62,g,9,g,22,g,1,g,1,g,54,g
+916,cold stone creamery,fudge truffle ice cream gotta have it,42,g,145,mg,380,g,105,g,15,g,29,g,1,g,3,g,96,g
+917,cold stone creamery,fudge truffle ice cream kids,10,g,35,mg,95,g,26,g,4,g,7,g,0,g,1,g,24,g
+918,cold stone creamery,fudge truffle ice cream like it,18,g,60,mg,160,g,44,g,6,g,12,g,0,g,1,g,40,g
+919,cold stone creamery,fudge truffle ice cream love it,28,g,95,mg,250,g,70,g,10,g,20,g,0.5,g,2,g,64,g
+920,cold stone creamery,germanchokolatekake gotta have it,70,g,195,mg,520,g,131,g,17,g,38,g,1.5,g,3,g,109,g
+921,cold stone creamery,germanchokolatekake like it,36,g,90,mg,330,g,75,g,9,g,18,g,0.5,g,2,g,58,g
+922,cold stone creamery,germanchokolatekake love it,54,g,135,mg,440,g,104,g,13,g,28,g,1,g,3,g,84,g
+923,cold stone creamery,ghirardelli caramel square,4,g,5,mg,20,g,9,g,1,g,2.5,g,0,g,0,g,8,g
+924,cold stone creamery,ghirardelli chocolate ice cream gotta have it,52,g,180,mg,260,g,93,g,17,g,32,g,1,g,9,g,73,g
+925,cold stone creamery,ghirardelli chocolate ice cream kids,13,g,45,mg,65,g,23,g,4,g,8,g,0,g,2,g,18,g
+926,cold stone creamery,ghirardelli chocolate ice cream like it,22,g,75,mg,110,g,39,g,7,g,13,g,0.5,g,4,g,30,g
+927,cold stone creamery,ghirardelli chocolate ice cream love it,35,g,120,mg,170,g,62,g,11,g,22,g,1,g,6,g,48,g
+928,cold stone creamery,golden oreo cookie ice cream gotta have it,51,g,180,mg,420,g,101,g,13,g,30,g,1,g,0,g,82,g
+929,cold stone creamery,golden oreo cookie ice cream kids,13,g,45,mg,105,g,25,g,3,g,8,g,0,g,0,g,21,g
+930,cold stone creamery,golden oreo cookie ice cream like it,21,g,75,mg,170,g,42,g,5,g,13,g,0,g,0,g,34,g
+931,cold stone creamery,golden oreo cookie ice cream love it,34,g,120,mg,280,g,67,g,9,g,20,g,1,g,0,g,55,g
+932,cold stone creamery,golden oreo cookies,4.5,g,0,mg,80,g,17,g,1,g,1.5,g,0,g,0,g,8,g
+933,cold stone creamery,gooey butter cake ice cream gotta have it,43,g,195,mg,490,g,114,g,12,g,27,g,1,g,4,g,89,g
+934,cold stone creamery,gooey butter cake ice cream kids,11,g,50,mg,120,g,28,g,3,g,7,g,0,g,0,g,22,g
+935,cold stone creamery,gooey butter cake ice cream like it,18,g,80,mg,200,g,47,g,5,g,11,g,0,g,0,g,37,g
+936,cold stone creamery,gooey butter cake ice cream love it,29,g,130,mg,320,g,76,g,8,g,18,g,0.5,g,0,g,60,g
+937,cold stone creamery,graham cracker pie crust,3.5,g,0,mg,80,g,10,g,1,g,0.5,g,1.5,g,0,g,4,g
+938,cold stone creamery,graham cracker yogurt gotta have it,7,g,0,mg,490,g,106,g,13,g,2,g,0,g,0,g,73,g
+939,cold stone creamery,graham cracker yogurt kids,1.5,g,0,mg,125,g,26,g,3,g,0,g,0,g,0,g,18,g
+940,cold stone creamery,graham cracker yogurt like it,3,g,0,mg,210,g,44,g,5,g,1,g,0,g,0,g,31,g
+941,cold stone creamery,graham cracker yogurt love it,4.5,g,0,mg,330,g,71,g,9,g,1,g,0,g,0,g,49,g
+942,cold stone creamery,granola,1,g,0,mg,35,g,11,g,1,g,0,g,0,g,1,g,4,g
+943,cold stone creamery,gumballs,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,0,g,20,g
+944,cold stone creamery,gummy bears,0,g,0,mg,15,g,16,g,2,g,0,g,0,g,0,g,12,g
+945,cold stone creamery,heath bar,7,g,5,mg,70,g,12,g,1,g,3.5,g,0,g,1,g,12,g
+946,cold stone creamery,honey,0,g,0,mg,0,g,15,g,0,g,0,g,0,g,0,g,15,g
+947,cold stone creamery,irish cream ice cream gotta have it,49,g,195,mg,270,g,86,g,13,g,31,g,1.5,g,0,g,78,g
+948,cold stone creamery,irish cream ice cream kids,12,g,50,mg,70,g,21,g,3,g,8,g,0,g,0,g,19,g
+949,cold stone creamery,irish cream ice cream like it,21,g,80,mg,115,g,36,g,5,g,13,g,0.5,g,0,g,33,g
+950,cold stone creamery,irish cream ice cream love it,33,g,130,mg,180,g,57,g,9,g,21,g,1,g,0,g,52,g
+951,cold stone creamery,key lime ice cream gotta have it,49,g,195,mg,260,g,102,g,12,g,31,g,1,g,0,g,93,g
+952,cold stone creamery,key lime ice cream kids,12,g,50,mg,65,g,26,g,3,g,8,g,0,g,0,g,23,g
+953,cold stone creamery,key lime ice cream like it,21,g,80,mg,105,g,43,g,5,g,13,g,0,g,0,g,39,g
+954,cold stone creamery,key lime ice cream love it,33,g,130,mg,170,g,68,g,8,g,21,g,1,g,0,g,62,g
+955,cold stone creamery,key lime yogurt gotta have it,4.5,g,15,mg,320,g,109,g,12,g,2.5,g,0,g,0,g,91,g
+956,cold stone creamery,key lime yogurt kids,1,g,5,mg,80,g,27,g,3,g,0.5,g,0,g,0,g,23,g
+957,cold stone creamery,key lime yogurt like it,2,g,5,mg,135,g,46,g,5,g,1,g,0,g,0,g,38,g
+958,cold stone creamery,key lime yogurt love it,3,g,10,mg,220,g,73,g,8,g,1.5,g,0,g,0,g,61,g
+959,cold stone creamery,kiss n tell chocolate cookie sandwich,26,g,65,mg,400,g,70,g,6,g,16,g,0,g,5,g,50,g
+960,cold stone creamery,kit kat,6,g,0,mg,10,g,14,g,1,g,4,g,0,g,0,g,11,g
+961,cold stone creamery,mandms,4.5,g,0,mg,15,g,16,g,1,g,3,g,0,g,0,g,14,g
+962,cold stone creamery,macadamia,11,g,0,mg,0,g,2,g,1,g,2,g,0,g,1,g,1,g
+963,cold stone creamery,mango ice cream gotta have it,46,g,180,mg,260,g,84,g,12,g,29,g,1,g,0,g,76,g
+964,cold stone creamery,mango ice cream kids,12,g,45,mg,65,g,21,g,3,g,7,g,0,g,0,g,19,g
+965,cold stone creamery,mango ice cream like it,19,g,75,mg,105,g,35,g,5,g,12,g,0.5,g,0,g,32,g
+966,cold stone creamery,mango ice cream love it,31,g,120,mg,170,g,56,g,8,g,19,g,1,g,0,g,51,g
+967,cold stone creamery,mango pineapple smoothie 12 oz,5,g,0,mg,160,g,76,g,0,g,5,g,0,g,1,g,63,g
+968,cold stone creamery,mango pineapple smoothie 20 oz,8,g,0,mg,270,g,133,g,1,g,8,g,0,g,1,g,112,g
+969,cold stone creamery,mango yogurt gotta have it,0,g,0,mg,280,g,97,g,10,g,0,g,0,g,0,g,81,g
+970,cold stone creamery,mango yogurt kids,0,g,0,mg,70,g,24,g,2,g,0,g,0,g,0,g,20,g
+971,cold stone creamery,mango yogurt like it,0,g,0,mg,115,g,40,g,4,g,0,g,0,g,0,g,34,g
+972,cold stone creamery,mango yogurt love it,0,g,0,mg,180,g,65,g,7,g,0,g,0,g,0,g,54,g
+973,cold stone creamery,maraschino cherries,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+974,cold stone creamery,marshmallow creme,0,g,0,mg,15,g,17,g,0,g,0,g,0,g,0,g,12,g
+975,cold stone creamery,marshmallow ice cream gotta have it,44,g,175,mg,300,g,102,g,12,g,28,g,1,g,0,g,76,g
+976,cold stone creamery,marshmallow ice cream kids,11,g,45,mg,75,g,26,g,3,g,7,g,0,g,0,g,19,g
+977,cold stone creamery,marshmallow ice cream like it,18,g,75,mg,125,g,43,g,5,g,12,g,0,g,0,g,32,g
+978,cold stone creamery,marshmallow ice cream love it,30,g,115,mg,200,g,68,g,8,g,19,g,1,g,0,g,51,g
+979,cold stone creamery,marshmallow yogurt gotta have it,0,g,0,mg,380,g,101,g,12,g,0,g,0,g,0,g,65,g
+980,cold stone creamery,marshmallow yogurt kids,0,g,0,mg,95,g,25,g,3,g,0,g,0,g,0,g,16,g
+981,cold stone creamery,marshmallow yogurt like it,0,g,0,mg,160,g,42,g,5,g,0,g,0,g,0,g,27,g
+982,cold stone creamery,marshmallow yogurt love it,0,g,0,mg,250,g,67,g,8,g,0,g,0,g,0,g,44,g
+983,cold stone creamery,marshmallows,0,g,0,mg,20,g,12,g,0,g,0,g,0,g,0,g,8,g
+984,cold stone creamery,midnight delight cake large rectangle,20,g,45,mg,220,g,44,g,5,g,10,g,0,g,2,g,36,g
+985,cold stone creamery,midnight delight cake large round,23,g,50,mg,240,g,50,g,6,g,12,g,0,g,3,g,41,g
+986,cold stone creamery,midnight delight cake petite,30,g,65,mg,430,g,71,g,9,g,15,g,0,g,4,g,56,g
+987,cold stone creamery,midnight delight cake small rectangle,23,g,50,mg,270,g,51,g,6,g,11,g,0,g,2,g,41,g
+988,cold stone creamery,midnight delight cake small round,26,g,50,mg,270,g,56,g,6,g,13,g,0,g,3,g,46,g
+989,cold stone creamery,milk and cookies ice cream made with chips ahoy gotta have it,53,g,180,mg,360,g,98,g,14,g,31,g,1,g,0,g,81,g
+990,cold stone creamery,milk and cookies ice cream made with chips ahoy kids,13,g,45,mg,90,g,25,g,3,g,8,g,0,g,0,g,20,g
+991,cold stone creamery,milk and cookies ice cream made with chips ahoy like it,22,g,75,mg,150,g,41,g,6,g,13,g,0,g,0,g,34,g
+992,cold stone creamery,milk and cookies ice cream made with chips ahoy love it,35,g,120,mg,240,g,66,g,9,g,21,g,1,g,0,g,54,g
+993,cold stone creamery,milk and oreo cookies shake with whipped topping 12 oz,54,g,155,mg,330,g,95,g,13,g,36,g,1,g,1,g,81,g
+994,cold stone creamery,milk and oreo cookies shake with whipped topping 20 oz,85,g,255,mg,580,g,156,g,21,g,54,g,1.5,g,1,g,132,g
+995,cold stone creamery,milk and oreo cookies shake 12 oz,44,g,155,mg,330,g,84,g,12,g,26,g,1,g,1,g,71,g
+996,cold stone creamery,milk and oreo cookies shake 20 oz,74,g,255,mg,570,g,146,g,21,g,44,g,1.5,g,1,g,121,g
+997,cold stone creamery,mint ice cream gotta have it,49,g,190,mg,270,g,91,g,13,g,30,g,1.5,g,0,g,79,g
+998,cold stone creamery,mint ice cream kids,12,g,45,mg,65,g,23,g,3,g,8,g,0,g,0,g,20,g
+999,cold stone creamery,mint ice cream like it,20,g,80,mg,110,g,38,g,5,g,13,g,0.5,g,0,g,33,g

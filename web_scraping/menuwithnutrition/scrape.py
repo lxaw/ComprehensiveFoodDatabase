@@ -1,7 +1,6 @@
 import re
 import pandas as pd
 from bs4 import BeautifulSoup as bs
-import time
 
 from urllib.request import urlopen, Request
 
@@ -15,6 +14,9 @@ URL_REST_BASE = "https://www.menuwithnutrition.com/"
 
 # headers for query
 HEADERS = {"User-Agent":"Mozilla/5.0"}
+
+# file name for output
+kFILENAME = "menu_with_nutrition_scrape"
 
 def getSoup(strUrl):
     # returns the soup for htmlparser
@@ -110,7 +112,7 @@ def dictGetFoodNutrition(strUrl,strRestName):
     
     return dictNutrients
 
-def voidDictsToCsv(listDicts):
+def voidDictsToCsv(listDicts,fileName):
     # takes a list of all dicts of all foods and makes a csv file out of them
 
     # init a basic dataframe from first dictionary
@@ -122,9 +124,9 @@ def voidDictsToCsv(listDicts):
                 # add
                 df[k] = ''
             # add data
-            df = df.append(dictFood,ignore_index=True)
+        df = df.append(dictFood,ignore_index=True)
 
-    df.to_csv('out.csv')
+    df.to_csv(fileName)
 
 if __name__ == "__main__":
     # get all restaurant urls
@@ -142,23 +144,13 @@ if __name__ == "__main__":
     del listRestUrls
 
     listDictFoodData = []
-    counter = 0
     for url in listFoodItemUrls:
         try:
             strRestName = strGetRestNameFromFoodUrl(url)
             listDictFoodData.append(dictGetFoodNutrition(url,strRestName))
-            counter +=1
-            if counter == 60:
-                time.sleep(3)
-                counter = 0
         
         except Exception as e:
             print('error with `{}`: \n{}'.format(url,e))
             print()
             continue
-    # delete unneeded list
-    del listFoodItemUrls
-    # create csv
-    voidDictsToCsv(listDictFoodData)
-
-
+    voidDictsToCsv(listDictFoodData,"{}.csv".format(kFILENAME))

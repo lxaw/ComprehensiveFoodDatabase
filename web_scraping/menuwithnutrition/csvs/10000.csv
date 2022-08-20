@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,baskin robbins,brownie a la mode,13,g,20,mg,130,g,36,g,3,g,9,g,0,g,2,g,26,g
+1,baskin robbins,brownie bar mashup ice cream 2 5 oz scoop,8,g,30,mg,75,g,20,g,3,g,5,g,0,g,1,g,14,g
+2,baskin robbins,brownie bar mashup ice cream 4 oz scoop,13,g,45,mg,120,g,32,g,5,g,8,g,0,g,1,g,22,g
+3,baskin robbins,brownie sundae,42,g,110,mg,330,g,99,g,13,g,23,g,1,g,4,g,74,g
+4,baskin robbins,butterfinger 31 below large,46,g,100,mg,640,g,160,g,29,g,27,g,1,g,4,g,122,g
+5,baskin robbins,butterfinger 31 below medium,34,g,70,mg,470,g,118,g,21,g,20,g,0.5,g,3,g,89,g
+6,baskin robbins,butterfinger 31 below mini,17,g,40,mg,240,g,58,g,11,g,10,g,0,g,2,g,46,g
+7,baskin robbins,butterfinger 31 below small,24,g,55,mg,340,g,86,g,15,g,14,g,0,g,2,g,65,g
+8,baskin robbins,cake cone,0,g,0,mg,10,g,5,g,1,g,0,g,0,g,0,g,0,g
+9,baskin robbins,cappuccino blast made with soft serve large,15,g,60,mg,230,g,86,g,13,g,10,g,0,g,1,g,74,g
+10,baskin robbins,cappuccino blast made with soft serve medium,12,g,50,mg,180,g,66,g,10,g,8,g,0,g,1,g,57,g
+11,baskin robbins,cappuccino blast made with soft serve small,8,g,35,mg,115,g,44,g,6,g,5,g,0,g,1,g,38,g
+12,baskin robbins,cappuccino blast caramel made with soft serve large,18,g,70,mg,600,g,151,g,14,g,12,g,0,g,1,g,123,g
+13,baskin robbins,cappuccino blast caramel made with soft serve medium,14,g,55,mg,430,g,109,g,10,g,9,g,0,g,1,g,89,g
+14,baskin robbins,cappuccino blast caramel made with soft serve small,9,g,35,mg,240,g,64,g,7,g,6,g,0,g,1,g,53,g
+15,baskin robbins,cappuccino blast caramel large,32,g,110,mg,430,g,176,g,13,g,20,g,1,g,2,g,122,g
+16,baskin robbins,cappuccino blast caramel medium,25,g,90,mg,320,g,130,g,10,g,15,g,1,g,1,g,91,g
+17,baskin robbins,cappuccino blast caramel small,16,g,60,mg,200,g,81,g,6,g,10,g,0.5,g,1,g,58,g
+18,baskin robbins,cappuccino blast mocha made with soft serve large,14,g,55,mg,220,g,125,g,13,g,9,g,0,g,2,g,91,g
+19,baskin robbins,cappuccino blast mocha made with soft serve medium,12,g,45,mg,180,g,96,g,10,g,7,g,0,g,2,g,70,g
+20,baskin robbins,cappuccino blast mocha made with soft serve small,8,g,30,mg,115,g,64,g,6,g,5,g,0,g,1,g,46,g
+21,baskin robbins,cappuccino blast mocha large,27,g,100,mg,190,g,127,g,11,g,17,g,1,g,2,g,93,g
+22,baskin robbins,cappuccino blast mocha medium,22,g,80,mg,150,g,97,g,9,g,13,g,1,g,1,g,71,g
+23,baskin robbins,cappuccino blast mocha small,14,g,55,mg,95,g,64,g,6,g,9,g,0.5,g,1,g,47,g
+24,baskin robbins,cappuccino blast oreo n cookies large,39,g,85,mg,520,g,136,g,15,g,19,g,1,g,2,g,105,g
+25,baskin robbins,cappuccino blast oreo n cookies medium,31,g,70,mg,400,g,105,g,11,g,15,g,0.5,g,2,g,80,g
+26,baskin robbins,cappuccino blast oreo n cookies small,21,g,45,mg,270,g,70,g,7,g,10,g,0,g,1,g,54,g
+27,baskin robbins,cappuccino blast original large,27,g,105,mg,170,g,79,g,11,g,17,g,1,g,0,g,74,g
+28,baskin robbins,cappuccino blast original medium,22,g,85,mg,135,g,61,g,9,g,14,g,1,g,0,g,57,g
+29,baskin robbins,cappuccino blast original small,15,g,55,mg,90,g,40,g,6,g,9,g,0.5,g,0,g,38,g
+30,baskin robbins,cappuccino blast turtle large,28,g,85,mg,480,g,182,g,12,g,16,g,1,g,3,g,124,g
+31,baskin robbins,cappuccino blast turtle medium,23,g,70,mg,380,g,148,g,10,g,13,g,0.5,g,2,g,100,g
+32,baskin robbins,cappuccino blast turtle small,15,g,45,mg,250,g,96,g,6,g,9,g,0,g,1,g,65,g
+33,baskin robbins,caramel cappuccino cheesecake ice cream 2 5 oz scoop,9,g,35,mg,85,g,18,g,3,g,5,g,0,g,0,g,15,g
+34,baskin robbins,caramel cappuccino cheesecake ice cream 4 oz scoop,14,g,55,mg,140,g,29,g,5,g,9,g,0,g,0,g,24,g
+35,baskin robbins,caramel cream puff ice cream 2 5 oz scoop,9,g,30,mg,85,g,21,g,3,g,6,g,0,g,0,g,16,g
+36,baskin robbins,caramel cream puff ice cream 4 oz scoop,14,g,45,mg,135,g,34,g,5,g,9,g,0,g,0,g,25,g
+37,baskin robbins,caramel macchiato ice cream 2 5 oz scoop,9,g,30,mg,80,g,18,g,3,g,6,g,0,g,1,g,15,g
+38,baskin robbins,caramel macchiato ice cream 4 oz scoop,15,g,45,mg,125,g,29,g,5,g,10,g,0,g,1,g,24,g
+39,baskin robbins,caramel praline cheesecake ice cream 2 5 oz scoop,9,g,30,mg,95,g,20,g,3,g,4.5,g,0,g,0,g,15,g
+40,baskin robbins,caramel praline cheesecake ice cream 4 oz scoop,14,g,45,mg,150,g,32,g,4,g,8,g,0,g,1,g,24,g
+41,baskin robbins,cherries jubilee ice cream 2 5 oz scoop,7,g,30,mg,45,g,17,g,2,g,4.5,g,0,g,0,g,15,g
+42,baskin robbins,cherries jubilee ice cream 4 oz scoop,11,g,45,mg,75,g,28,g,4,g,7,g,0,g,0,g,24,g
+43,baskin robbins,cherry cordial with kisses ice cream 2 5 oz scoop,9,g,25,mg,45,g,21,g,3,g,6,g,0,g,1,g,16,g
+44,baskin robbins,cherry cordial with kisses ice cream 4 oz scoop,15,g,40,mg,70,g,34,g,4,g,10,g,0,g,2,g,26,g
+45,baskin robbins,chocolate almond ice cream 2 5 oz scoop,12,g,30,mg,65,g,16,g,4,g,5,g,0,g,2,g,11,g
+46,baskin robbins,chocolate almond ice cream 4 oz scoop,18,g,45,mg,105,g,25,g,7,g,9,g,0,g,3,g,17,g
+47,baskin robbins,chocolate chip cookie dough 31 below large,44,g,125,mg,750,g,173,g,27,g,24,g,1,g,4,g,128,g
+48,baskin robbins,chocolate chip cookie dough 31 below medium,32,g,90,mg,550,g,129,g,20,g,17,g,1,g,3,g,94,g
+49,baskin robbins,chocolate chip cookie dough 31 below mini,17,g,50,mg,280,g,64,g,11,g,9,g,0,g,1,g,49,g
+50,baskin robbins,chocolate chip cookie dough 31 below small,24,g,65,mg,410,g,94,g,15,g,13,g,0.5,g,2,g,69,g
+51,baskin robbins,chocolate chip cookie dough ice cream quart,10,g,30,mg,85,g,21,g,3,g,6,g,0,g,0,g,18,g
+52,baskin robbins,chocolate chip cookie dough ice cream 2 5 oz scoop,10,g,35,mg,70,g,20,g,3,g,6,g,0,g,0,g,14,g
+53,baskin robbins,chocolate chip cookie dough ice cream 4 oz scoop,15,g,55,mg,115,g,32,g,5,g,10,g,0,g,0,g,23,g
+54,baskin robbins,chocolate chip cookie dough milkshake large,71,g,250,mg,590,g,191,g,28,g,47,g,2,g,2,g,155,g
+55,baskin robbins,chocolate chip cookie dough milkshake medium,54,g,185,mg,440,g,143,g,21,g,35,g,1.5,g,2,g,116,g
+56,baskin robbins,chocolate chip cookie dough milkshake small,36,g,125,mg,300,g,95,g,14,g,23,g,1,g,1,g,78,g
+57,baskin robbins,chocolate chip cookie dough sundae,47,g,110,mg,610,g,160,g,13,g,32,g,1,g,2,g,114,g
+58,baskin robbins,chocolate chip ice cream quart,10,g,35,mg,60,g,18,g,3,g,6,g,0,g,0,g,17,g
+59,baskin robbins,chocolate chip ice cream 2 5 oz scoop,10,g,35,mg,55,g,15,g,3,g,6,g,0,g,1,g,11,g
+60,baskin robbins,chocolate chip ice cream 4 oz scoop,16,g,55,mg,85,g,23,g,5,g,10,g,0,g,1,g,18,g
+61,baskin robbins,chocolate chip milkshake large,72,g,245,mg,480,g,157,g,29,g,45,g,2.5,g,4,g,135,g
+62,baskin robbins,chocolate chip milkshake medium,54,g,185,mg,360,g,118,g,22,g,34,g,1.5,g,3,g,102,g
+63,baskin robbins,chocolate chip milkshake small,36,g,120,mg,240,g,78,g,15,g,22,g,1,g,2,g,68,g
+64,baskin robbins,chocolate chocolate chip cheesecake ice cream 2 5 oz scoop,11,g,30,mg,110,g,20,g,3,g,6,g,0,g,1,g,14,g
+65,baskin robbins,chocolate chocolate chip cheesecake ice cream 4 oz scoop,18,g,45,mg,180,g,31,g,5,g,9,g,0,g,2,g,22,g
+66,baskin robbins,chocolate del fuego ice cream 2 5 oz scoop,9,g,30,mg,65,g,22,g,3,g,6,g,0,g,1,g,16,g
+67,baskin robbins,chocolate del fuego ice cream 4 oz scoop,14,g,45,mg,105,g,34,g,4,g,9,g,0,g,2,g,26,g
+68,baskin robbins,chocolate dipped cake cone,7,g,0,mg,20,g,17,g,1,g,4.5,g,0,g,1,g,10,g
+69,baskin robbins,chocolate dipped sugar cone,8,g,0,mg,65,g,22,g,1,g,4.5,g,0,g,1,g,13,g
+70,baskin robbins,chocolate dipped waffle cone,11,g,10,mg,15,g,40,g,3,g,5,g,0,g,2,g,22,g
+71,baskin robbins,chocolate fudge ice cream 2 5 oz scoop,9,g,30,mg,85,g,17,g,3,g,6,g,0,g,1,g,12,g
+72,baskin robbins,chocolate fudge ice cream 4 oz scoop,15,g,50,mg,135,g,27,g,4,g,9,g,0,g,2,g,19,g
+73,baskin robbins,chocolate ice cream quart,9,g,30,mg,80,g,21,g,4,g,6,g,0,g,1,g,19,g
+74,baskin robbins,chocolate ice cream 2 5 oz scoop,9,g,30,mg,75,g,16,g,3,g,6,g,0,g,1,g,12,g
+75,baskin robbins,chocolate ice cream 4 oz scoop,14,g,50,mg,125,g,26,g,5,g,9,g,0,g,2,g,19,g
+76,baskin robbins,chocolate mint dessert,18,g,40,mg,90,g,30,g,4,g,13,g,0,g,1,g,27,g
+77,baskin robbins,chocolate mousse royale ice cream 2 5 oz scoop,11,g,25,mg,65,g,18,g,3,g,8,g,0,g,1,g,13,g
+78,baskin robbins,chocolate mousse royale ice cream 4 oz scoop,17,g,40,mg,100,g,28,g,5,g,12,g,0,g,2,g,21,g
+79,baskin robbins,coke float with soft serve large,15,g,60,mg,310,g,99,g,14,g,10,g,0.5,g,1,g,96,g
+80,baskin robbins,coke float with soft serve medium,11,g,45,mg,230,g,74,g,10,g,7,g,0,g,1,g,72,g
+81,baskin robbins,coke float with soft serve small,8,g,30,mg,150,g,49,g,7,g,5,g,0,g,1,g,48,g
+82,baskin robbins,coke float with vanilla ice cream large,40,g,155,mg,250,g,123,g,11,g,25,g,1.5,g,0,g,115,g
+83,baskin robbins,coke float with vanilla ice cream medium,30,g,120,mg,190,g,93,g,8,g,19,g,1,g,0,g,86,g
+84,baskin robbins,coke float with vanilla ice cream small,20,g,80,mg,125,g,62,g,5,g,13,g,0.5,g,0,g,57,g
+85,baskin robbins,cotton candy ice cream 2 5 oz scoop,7,g,30,mg,55,g,18,g,3,g,4.5,g,0,g,0,g,11,g
+86,baskin robbins,cotton candy ice cream 4 oz scoop,12,g,45,mg,85,g,28,g,4,g,7,g,0,g,0,g,18,g
+87,baskin robbins,creole cream cheese ice cream 2 5 oz scoop,8,g,35,mg,55,g,15,g,3,g,5,g,0,g,0,g,11,g
+88,baskin robbins,creole cream cheese ice cream 4 oz scoop,13,g,55,mg,90,g,23,g,4,g,8,g,0,g,0,g,18,g
+89,baskin robbins,daiquiri ice freeze large,0,g,0,mg,25,g,147,g,0,g,0,g,0,g,1,g,117,g
+90,baskin robbins,daiquiri ice freeze medium,0,g,0,mg,20,g,102,g,0,g,0,g,0,g,1,g,82,g
+91,baskin robbins,daiquiri ice freeze small,0,g,0,mg,15,g,73,g,0,g,0,g,0,g,0,g,59,g
+92,baskin robbins,daiquiri ice 2 5 oz scoop,0,g,0,mg,0,g,16,g,0,g,0,g,0,g,0,g,12,g
+93,baskin robbins,daiquiri ice 4 oz scoop,0,g,0,mg,0,g,25,g,0,g,0,g,0,g,0,g,19,g
+94,baskin robbins,dark chocolate chunk cookie,6,g,5,mg,135,g,26,g,2,g,3,g,0,g,1,g,14,g
+95,baskin robbins,demogorgon sundae,17,g,50,mg,100,g,81,g,6,g,9,g,0,g,2,g,57,g
+96,baskin robbins,double chocolate chip dessert,21,g,40,mg,210,g,42,g,5,g,11,g,0,g,2,g,33,g
+97,baskin robbins,double chocolate oreo dessert,17,g,35,mg,140,g,36,g,4,g,11,g,0,g,1,g,29,g
+98,baskin robbins,double fudge cookie,6,g,0,mg,105,g,25,g,2,g,3,g,0,g,1,g,15,g
+99,baskin robbins,egg nog ice cream 2 5 oz scoop,8,g,40,mg,55,g,17,g,3,g,5,g,0,g,0,g,12,g
+100,baskin robbins,egg nog ice cream 4 oz scoop,13,g,65,mg,90,g,26,g,4,g,8,g,0,g,0,g,20,g
+101,baskin robbins,elevens heaven ice cream 2 5 oz scoop,11,g,25,mg,75,g,22,g,3,g,6,g,0,g,1,g,17,g
+102,baskin robbins,elevens heaven ice cream 4 oz scoop,18,g,45,mg,120,g,35,g,5,g,10,g,0,g,1,g,28,g
+103,baskin robbins,elevenade freeze large,64,g,250,mg,290,g,169,g,17,g,40,g,2.5,g,1,g,149,g
+104,baskin robbins,elevenade freeze medium,48,g,190,mg,220,g,127,g,13,g,30,g,2,g,0,g,112,g
+105,baskin robbins,elevenade freeze small,32,g,125,mg,140,g,85,g,9,g,20,g,1,g,0,g,75,g
+106,baskin robbins,energy freeze with monster energy and wild n reckless sherbet large,9,g,35,mg,480,g,155,g,6,g,6,g,0,g,1,g,130,g
+107,baskin robbins,energy freeze with monster energy and wild n reckless sherbet medium,7,g,25,mg,360,g,116,g,5,g,4,g,0,g,1,g,97,g
+108,baskin robbins,energy freeze with monster energy and wild n reckless sherbet small,4.5,g,20,mg,240,g,78,g,3,g,3,g,0,g,0,g,65,g
+109,baskin robbins,extra thick shake chocolate large,25,g,95,mg,410,g,146,g,23,g,16,g,1,g,4,g,106,g
+110,baskin robbins,extra thick shake chocolate medium,18,g,65,mg,290,g,100,g,16,g,11,g,0.5,g,3,g,74,g
+111,baskin robbins,extra thick shake chocolate small,15,g,60,mg,250,g,82,g,14,g,10,g,0,g,2,g,62,g
+112,baskin robbins,extra thick shake jamoca large,24,g,95,mg,390,g,98,g,22,g,16,g,0.5,g,2,g,88,g
+113,baskin robbins,extra thick shake jamoca medium,17,g,70,mg,280,g,68,g,16,g,11,g,0.5,g,1,g,62,g
+114,baskin robbins,extra thick shake jamoca small,15,g,60,mg,240,g,58,g,14,g,10,g,0,g,1,g,53,g
+115,baskin robbins,extra thick shake strawberry large,20,g,80,mg,330,g,128,g,19,g,13,g,0.5,g,5,g,116,g
+116,baskin robbins,extra thick shake strawberry medium,15,g,60,mg,250,g,89,g,14,g,10,g,0.5,g,3,g,81,g
+117,baskin robbins,extra thick shake strawberry small,12,g,50,mg,200,g,71,g,11,g,8,g,0,g,3,g,65,g
+118,baskin robbins,fancy cake cone with almonds,11,g,0,mg,20,g,18,g,3,g,4.5,g,0,g,2,g,10,g
+119,baskin robbins,fancy cake cone with sprinkles,9,g,0,mg,20,g,22,g,1,g,6,g,0,g,1,g,12,g
+120,baskin robbins,fancy sugar cone with almonds,12,g,0,mg,65,g,23,g,3,g,4.5,g,0,g,2,g,13,g
+121,baskin robbins,fancy sugar cone with sprinkles,9,g,0,mg,65,g,27,g,1,g,6,g,0,g,1,g,16,g
+122,baskin robbins,fancy waffle cone with almonds,16,g,10,mg,15,g,42,g,4,g,5,g,0,g,2,g,23,g
+123,baskin robbins,fancy waffle cone with sprinkles,13,g,10,mg,15,g,46,g,3,g,6,g,0,g,2,g,26,g
+124,baskin robbins,fat free vanilla frozen yogurt 2 5 oz scoop,0,g,0,mg,65,g,16,g,3,g,0,g,0,g,0,g,12,g
+125,baskin robbins,fat free vanilla frozen yogurt 4 oz scoop,0,g,5,mg,105,g,26,g,5,g,0,g,0,g,0,g,20,g
+126,baskin robbins,freeze with rainbow sherbet and sprite large,8,g,35,mg,220,g,176,g,6,g,5,g,0,g,1,g,151,g
+127,baskin robbins,freeze with rainbow sherbet and sprite medium,6,g,25,mg,160,g,132,g,4,g,4,g,0,g,1,g,113,g
+128,baskin robbins,freeze with rainbow sherbet and sprite small,4,g,15,mg,110,g,88,g,3,g,2.5,g,0,g,1,g,75,g
+129,baskin robbins,french vanilla ice cream 2 5 oz scoop,12,g,80,mg,40,g,13,g,3,g,7,g,0,g,0,g,11,g
+130,baskin robbins,french vanilla ice cream 4 oz scoop,18,g,125,mg,65,g,20,g,5,g,11,g,0.5,g,0,g,17,g
+131,baskin robbins,fresh baked waffle cone,4,g,10,mg,5,g,29,g,2,g,0.5,g,0,g,1,g,13,g
+132,baskin robbins,german chocolate cake ice cream 2 5 oz scoop,10,g,25,mg,90,g,21,g,4,g,6,g,0,g,1,g,14,g
+133,baskin robbins,german chocolate cake ice cream 4 oz scoop,16,g,40,mg,140,g,33,g,6,g,9,g,0,g,2,g,23,g
+134,baskin robbins,gold medal ribbon ice cream quart,8,g,30,mg,100,g,20,g,3,g,5,g,0,g,0,g,16,g
+135,baskin robbins,gold medal ribbon ice cream 2 5 oz scoop,8,g,30,mg,100,g,18,g,3,g,5,g,0,g,0,g,13,g
+136,baskin robbins,gold medal ribbon ice cream 4 oz scoop,13,g,45,mg,160,g,29,g,5,g,8,g,0,g,1,g,21,g
+137,baskin robbins,gold medal ribbon milkshake large,60,g,220,mg,700,g,182,g,28,g,37,g,2,g,3,g,146,g
+138,baskin robbins,gold medal ribbon milkshake medium,45,g,165,mg,520,g,136,g,21,g,28,g,1.5,g,2,g,110,g
+139,baskin robbins,gold medal ribbon milkshake small,30,g,110,mg,350,g,91,g,14,g,19,g,1,g,1,g,73,g
+140,baskin robbins,green tea ice cream 2 5 oz scoop,9,g,35,mg,55,g,13,g,3,g,5,g,0,g,1,g,10,g
+141,baskin robbins,green tea ice cream 4 oz scoop,14,g,55,mg,85,g,21,g,5,g,9,g,0,g,1,g,16,g
+142,baskin robbins,heath 31 below pie,18,g,20,mg,190,g,43,g,5,g,11,g,0,g,1,g,34,g
+143,baskin robbins,heath 31 below large,62,g,120,mg,810,g,151,g,27,g,36,g,1.5,g,4,g,144,g
+144,baskin robbins,heath 31 below medium,46,g,90,mg,590,g,111,g,19,g,27,g,1,g,3,g,106,g
+145,baskin robbins,heath 31 below mini,22,g,50,mg,290,g,55,g,11,g,13,g,0,g,1,g,52,g
+146,baskin robbins,heath 31 below small,33,g,65,mg,430,g,81,g,14,g,19,g,0.5,g,2,g,77,g
+147,baskin robbins,honey almond greek frozen yogurt 4 oz scoop,15,g,25,mg,90,g,25,g,8,g,5,g,0,g,1,g,21,g
+148,baskin robbins,honey almond greek frozen yogurt 2 5 oz scoop,10,g,15,mg,55,g,16,g,5,g,3,g,0,g,1,g,13,g
+149,baskin robbins,horchata ice 2 5 oz scoop,1.5,g,0,mg,0,g,15,g,0,g,1.5,g,0,g,0,g,11,g
+150,baskin robbins,horchata ice 4 oz scoop,2.5,g,0,mg,0,g,24,g,0,g,2.5,g,0,g,0,g,18,g
+151,baskin robbins,ice cream float with vanilla ice cream and root beer large,40,g,155,mg,260,g,111,g,11,g,25,g,1.5,g,0,g,102,g
+152,baskin robbins,ice cream float with vanilla ice cream and root beer medium,30,g,120,mg,190,g,83,g,8,g,19,g,1,g,0,g,77,g
+153,baskin robbins,ice cream float with vanilla ice cream and root beer small,20,g,80,mg,130,g,55,g,5,g,13,g,0.5,g,0,g,51,g
+154,baskin robbins,ice cream soda with vanilla ice cream large,41,g,160,mg,190,g,151,g,11,g,26,g,1.5,g,1,g,139,g
+155,baskin robbins,ice cream soda with vanilla ice cream medium,31,g,120,mg,140,g,114,g,8,g,19,g,1,g,1,g,105,g
+156,baskin robbins,ice cream soda with vanilla ice cream small,21,g,80,mg,95,g,76,g,6,g,13,g,1,g,0,g,70,g
+157,baskin robbins,icing on the cake ice cream 2 5 oz scoop,11,g,25,mg,60,g,22,g,3,g,6,g,0,g,0,g,18,g
+158,baskin robbins,icing on the cake ice cream 4 oz scoop,18,g,40,mg,100,g,35,g,4,g,9,g,0,g,0,g,28,g
+159,baskin robbins,jamoca almond fudge ice cream quart,10,g,30,mg,50,g,18,g,4,g,4.5,g,0,g,1,g,13,g
+160,baskin robbins,jamoca almond fudge ice cream 2 5 oz scoop,9,g,25,mg,50,g,17,g,3,g,4.5,g,0,g,1,g,12,g
+161,baskin robbins,jamoca almond fudge ice cream 4 oz scoop,15,g,40,mg,80,g,27,g,5,g,7,g,0,g,1,g,19,g
+162,baskin robbins,jamoca ice cream 2 5 oz scoop,8,g,35,mg,55,g,13,g,3,g,5,g,0,g,0,g,11,g
+163,baskin robbins,jamoca ice cream 4 oz scoop,13,g,55,mg,85,g,21,g,5,g,8,g,0,g,0,g,17,g
+164,baskin robbins,lemon custard ice cream 2 5 oz scoop,8,g,45,mg,60,g,16,g,4,g,5,g,0,g,0,g,13,g
+165,baskin robbins,lemon custard ice cream 4 oz scoop,13,g,70,mg,100,g,26,g,7,g,8,g,0,g,0,g,21,g
+166,baskin robbins,lemon sorbet 2 5 oz scoop,0,g,0,mg,0,g,16,g,0,g,0,g,0,g,0,g,11,g
+167,baskin robbins,lemon sorbet 4 oz scoop,0,g,0,mg,0,g,25,g,0,g,0,g,0,g,0,g,18,g
+168,baskin robbins,love potion 31 ice cream,10,g,30,mg,45,g,21,g,3,g,7,g,0,g,1,g,17,g
+169,baskin robbins,love potion 31 ice cream 2 5 oz scoop,9,g,25,mg,45,g,19,g,3,g,6,g,0,g,1,g,16,g
+170,baskin robbins,love potion 31 ice cream 4 oz scoop,14,g,40,mg,70,g,30,g,4,g,10,g,0,g,1,g,25,g
+171,baskin robbins,macadamia nuts n cream ice cream 2 5 oz scoop,11,g,35,mg,60,g,13,g,3,g,6,g,0,g,0,g,10,g
+172,baskin robbins,macadamia nuts n cream ice cream 4 oz scoop,18,g,55,mg,90,g,20,g,5,g,9,g,0,g,1,g,16,g
+173,baskin robbins,made with mandms 31 below large,54,g,115,mg,520,g,187,g,30,g,34,g,1,g,6,g,171,g
+174,baskin robbins,made with mandms 31 below medium,40,g,80,mg,380,g,139,g,22,g,25,g,0.5,g,5,g,126,g
+175,baskin robbins,made with mandms 31 below mini,19,g,45,mg,200,g,66,g,12,g,12,g,0,g,2,g,61,g
+176,baskin robbins,made with mandms 31 below small,29,g,60,mg,280,g,100,g,16,g,18,g,0.5,g,3,g,91,g
+177,baskin robbins,made with mandms soft serve parfait mini,15,g,35,mg,210,g,56,g,9,g,11,g,0,g,2,g,49,g
+178,baskin robbins,made with mandms soft serve parfait regular,32,g,60,mg,380,g,119,g,17,g,23,g,0.5,g,4,g,102,g
+179,baskin robbins,made with snickers 31 below large,49,g,105,mg,660,g,147,g,32,g,25,g,1,g,4,g,131,g
+180,baskin robbins,made with snickers 31 below medium,36,g,75,mg,480,g,108,g,23,g,19,g,1,g,3,g,96,g
+181,baskin robbins,made with snickers 31 below mini,18,g,45,mg,250,g,55,g,12,g,10,g,0,g,2,g,49,g
+182,baskin robbins,made with snickers 31 below small,26,g,55,mg,350,g,79,g,17,g,14,g,0.5,g,2,g,70,g
+183,baskin robbins,made with snickers ice cream 2 5 oz scoop,9,g,30,mg,100,g,20,g,3,g,5,g,0,g,0,g,15,g
+184,baskin robbins,made with snickers ice cream 4 oz scoop,14,g,45,mg,160,g,32,g,5,g,8,g,0,g,0,g,25,g
+185,baskin robbins,made with snickers soft serve parfait mini,12,g,35,mg,240,g,63,g,9,g,7,g,0,g,1,g,46,g
+186,baskin robbins,made with snickers soft serve parfait regular,24,g,60,mg,460,g,125,g,16,g,14,g,0.5,g,3,g,90,g
+187,baskin robbins,made with snickers sundae,43,g,100,mg,690,g,155,g,15,g,25,g,1,g,3,g,119,g
+188,baskin robbins,mango banana smoothie large,3,g,5,mg,140,g,215,g,9,g,1,g,0,g,6,g,191,g
+189,baskin robbins,mango banana smoothie medium,2,g,5,mg,110,g,153,g,8,g,1,g,0,g,5,g,132,g
+190,baskin robbins,mango banana smoothie small,1.5,g,0,mg,70,g,107,g,5,g,0.5,g,0,g,3,g,96,g
+191,baskin robbins,mango frozen yogurt 2 5 oz scoop,4,g,15,mg,45,g,16,g,3,g,2.5,g,0,g,0,g,12,g
+192,baskin robbins,mango frozen yogurt 4 oz scoop,6,g,25,mg,70,g,25,g,4,g,4,g,0,g,0,g,20,g
+193,baskin robbins,miami vice sorbet 2 5 oz scoop,0,g,0,mg,0,g,16,g,0,g,0,g,0,g,0,g,12,g
+194,baskin robbins,miami vice sorbet 4 oz scoop,0,g,0,mg,0,g,25,g,0,g,0,g,0,g,0,g,19,g
+195,baskin robbins,mint chocolate chip ice cream quart,10,g,35,mg,55,g,15,g,3,g,6,g,0,g,1,g,12,g
+196,baskin robbins,mint chocolate chip ice cream 2 5 oz scoop,10,g,35,mg,50,g,14,g,3,g,6,g,0,g,1,g,11,g
+197,baskin robbins,mint chocolate chip ice cream 4 oz scoop,16,g,55,mg,80,g,23,g,5,g,10,g,0,g,1,g,18,g
+198,baskin robbins,mint chocolate chip milkshake large,73,g,245,mg,460,g,157,g,29,g,45,g,2.5,g,4,g,136,g
+199,baskin robbins,mint chocolate chip milkshake medium,55,g,185,mg,350,g,117,g,22,g,34,g,1.5,g,3,g,102,g
+200,baskin robbins,mint chocolate chip milkshake small,36,g,120,mg,230,g,78,g,15,g,23,g,1,g,2,g,68,g
+201,baskin robbins,mississippi mud ice cream 2 5 oz scoop,9,g,30,mg,85,g,20,g,3,g,6,g,0,g,1,g,13,g
+202,baskin robbins,mississippi mud ice cream 4 oz scoop,14,g,45,mg,135,g,31,g,4,g,9,g,0,g,2,g,21,g
+203,baskin robbins,moms makin cookies ice cream quart,10,g,30,mg,100,g,25,g,3,g,6,g,0,g,0,g,20,g
+204,baskin robbins,moms makin cookies ice cream 2 5 oz scoop,9,g,30,mg,95,g,24,g,2,g,6,g,0,g,0,g,18,g
+205,baskin robbins,moms makin cookies ice cream 4 oz scoop,15,g,50,mg,150,g,38,g,4,g,9,g,0,g,0,g,29,g
+206,baskin robbins,new york cheesecake ice cream 2 5 oz scoop,10,g,30,mg,70,g,17,g,3,g,6,g,0,g,0,g,11,g
+207,baskin robbins,new york cheesecake ice cream 4 oz scoop,15,g,50,mg,110,g,26,g,5,g,10,g,0,g,1,g,18,g
+208,baskin robbins,nilla chai ice cream 2 5 oz scoop,8,g,25,mg,75,g,21,g,3,g,4.5,g,0,g,0,g,15,g
+209,baskin robbins,nilla chai ice cream 4 oz scoop,13,g,45,mg,115,g,33,g,4,g,7,g,0,g,1,g,25,g
+210,baskin robbins,no sugar added reduced fat brownie sundae ice,5,g,20,mg,60,g,21,g,3,g,3,g,0,g,2,g,4,g
+211,baskin robbins,no sugar added reduced fat brownie sundae ice cream 4 oz scoop,8,g,30,mg,100,g,33,g,5,g,5,g,0,g,4,g,6,g
+212,baskin robbins,no sugar added reduced fat key lime pie ice cream 2 5 oz scoop,7,g,15,mg,85,g,23,g,3,g,3.5,g,0,g,2,g,4,g
+213,baskin robbins,no sugar added reduced fat key lime pie ice cream 4 oz scoop,11,g,20,mg,135,g,37,g,4,g,5,g,0,g,3,g,6,g
+214,baskin robbins,nutty coconut ice cream 2 5 oz scoop,12,g,30,mg,90,g,15,g,4,g,6,g,0,g,1,g,11,g
+215,baskin robbins,nutty coconut ice cream 4 oz scoop,19,g,45,mg,140,g,24,g,6,g,9,g,0,g,2,g,17,g
+216,baskin robbins,old fashioned butter pecan ice cream quart,12,g,35,mg,70,g,13,g,3,g,6,g,0,g,1,g,10,g
+217,baskin robbins,old fashioned butter pecan ice cream 2 5 oz scoop,11,g,35,mg,70,g,13,g,3,g,6,g,0,g,0,g,10,g
+218,baskin robbins,old fashioned butter pecan ice cream 4 oz scoop,18,g,50,mg,110,g,20,g,5,g,9,g,0,g,1,g,16,g
+219,baskin robbins,one scoop sundae,20,g,45,mg,110,g,40,g,6,g,12,g,0,g,2,g,30,g
+220,baskin robbins,orange sherbet made with real orange juice,2,g,10,mg,25,g,36,g,2,g,1.5,g,0,g,0,g,28,g
+221,baskin robbins,orange sherbet 2 5 oz scoop,1.5,g,5,mg,15,g,16,g,1,g,1,g,0,g,0,g,13,g
+222,baskin robbins,orange sherbet 4 oz scoop,2,g,10,mg,25,g,26,g,1,g,1.5,g,0,g,0,g,20,g
+223,baskin robbins,oreo n cake ice cream quart,10,g,25,mg,100,g,24,g,3,g,5,g,0,g,0,g,19,g
+224,baskin robbins,oreo n cake 2 5 oz scoop,9,g,25,mg,90,g,22,g,3,g,4.5,g,0,g,0,g,17,g
+225,baskin robbins,oreo n cake 4 oz scoop,15,g,40,mg,140,g,35,g,4,g,8,g,0,g,1,g,27,g
+226,baskin robbins,oreo n caramel ice cream 2 5 oz scoop,9,g,30,mg,115,g,21,g,3,g,5,g,0,g,0,g,15,g
+227,baskin robbins,oreo n caramel ice cream 4 oz scoop,14,g,45,mg,180,g,34,g,4,g,8,g,0,g,1,g,25,g
+228,baskin robbins,oreo n chocolate ice cream 2 5 oz scoop,12,g,25,mg,95,g,21,g,3,g,5,g,0,g,1,g,15,g
+229,baskin robbins,oreo n chocolate ice cream 4 oz scoop,18,g,40,mg,150,g,33,g,5,g,9,g,0,g,2,g,24,g
+230,baskin robbins,oreo 31 below pie,18,g,15,mg,220,g,51,g,6,g,11,g,0,g,2,g,35,g
+231,baskin robbins,oreo 31 below large,40,g,100,mg,700,g,135,g,26,g,21,g,1,g,4,g,106,g
+232,baskin robbins,oreo 31 below medium,29,g,70,mg,520,g,99,g,19,g,15,g,0.5,g,3,g,77,g
+233,baskin robbins,oreo 31 below mini,15,g,40,mg,260,g,51,g,11,g,8,g,0,g,1,g,41,g
+234,baskin robbins,oreo 31 below small,21,g,55,mg,380,g,73,g,14,g,11,g,0.5,g,2,g,57,g
+235,baskin robbins,oreo cookie,19,g,40,mg,135,g,35,g,4,g,13,g,0,g,1,g,30,g
+236,baskin robbins,oreo cookies n cream ice cream quart,10,g,30,mg,100,g,19,g,3,g,6,g,0,g,0,g,15,g
+237,baskin robbins,oreo cookies n cream ice cream 2 5 oz scoop,9,g,30,mg,85,g,17,g,3,g,5,g,0,g,0,g,12,g
+238,baskin robbins,oreo cookies n cream ice cream 4 oz scoop,15,g,50,mg,135,g,28,g,5,g,9,g,0,g,0,g,20,g
+239,baskin robbins,oreo cookies n cream milkshake large,70,g,230,mg,660,g,175,g,29,g,40,g,2,g,2,g,141,g
+240,baskin robbins,oreo cookies n cream milkshake medium,52,g,170,mg,490,g,131,g,21,g,30,g,1.5,g,2,g,106,g
+241,baskin robbins,oreo cookies n cream milkshake small,35,g,115,mg,330,g,87,g,14,g,20,g,1,g,1,g,70,g
+242,baskin robbins,oreo layered sundae,44,g,100,mg,500,g,124,g,13,g,28,g,1,g,3,g,88,g
+243,baskin robbins,oreo soft serve parfait mini,15,g,35,mg,230,g,53,g,9,g,10,g,0,g,1,g,44,g
+244,baskin robbins,oreo soft serve parfait regular,28,g,55,mg,440,g,104,g,16,g,19,g,0.5,g,3,g,83,g
+245,baskin robbins,peanut butter n chocolate ice cream quart,13,g,30,mg,110,g,20,g,5,g,6,g,0,g,1,g,17,g
+246,baskin robbins,peanut butter n chocolate ice cream 2 5 oz scoop,13,g,25,mg,105,g,16,g,5,g,6,g,0,g,1,g,11,g
+247,baskin robbins,peanut butter n chocolate ice cream 4 oz scoop,20,g,45,mg,170,g,25,g,7,g,9,g,0,g,2,g,17,g
+248,baskin robbins,peanut butter n chocolate milkshake large,91,g,205,mg,810,g,164,g,40,g,43,g,2,g,9,g,131,g
+249,baskin robbins,peanut butter n chocolate milkshake medium,69,g,155,mg,610,g,123,g,30,g,32,g,1.5,g,7,g,98,g
+250,baskin robbins,peanut butter n chocolate milkshake small,46,g,100,mg,410,g,82,g,20,g,22,g,1,g,4,g,65,g
+251,baskin robbins,peanut butter banana waffle bowl sundae,58,g,90,mg,380,g,100,g,20,g,21,g,1,g,8,g,64,g
+252,baskin robbins,peanut butter brownie waffle bowl sundae,65,g,115,mg,460,g,91,g,20,g,22,g,1,g,5,g,63,g
+253,baskin robbins,peanut butter chocolate cookie,7,g,0,mg,210,g,23,g,3,g,3,g,0,g,1,g,13,g
+254,baskin robbins,peppermint ice cream 2 5 oz scoop,9,g,30,mg,50,g,17,g,3,g,6,g,0,g,0,g,13,g
+255,baskin robbins,peppermint ice cream 4 oz,14,g,50,mg,80,g,26,g,4,g,9,g,0,g,0,g,21,g
+256,baskin robbins,piece cake,10,g,30,mg,160,g,29,g,3,g,5,g,0,g,1,g,20,g
+257,baskin robbins,pink bubblegum ice cream 2 5 oz scoop,8,g,30,mg,50,g,19,g,3,g,5,g,0,g,0,g,17,g
+258,baskin robbins,pink bubblegum ice cream 4 oz scoop,12,g,50,mg,75,g,30,g,4,g,8,g,0,g,0,g,26,g
+259,baskin robbins,pistachio almond fudge ice cream quart,10,g,30,mg,55,g,18,g,4,g,5,g,0,g,1,g,12,g
+260,baskin robbins,pistachio almond ice cream 2 5 oz scoop,12,g,30,mg,50,g,13,g,4,g,5,g,0,g,1,g,10,g
+261,baskin robbins,pistachio almond ice cream 4 oz scoop,19,g,50,mg,80,g,21,g,7,g,8,g,0,g,1,g,15,g
+262,baskin robbins,pralines n cream ice cream quart,10,g,30,mg,105,g,21,g,3,g,5,g,0,g,0,g,16,g
+263,baskin robbins,pralines n cream ice cream 2 5 oz scoop,9,g,30,mg,105,g,20,g,3,g,5,g,0,g,0,g,15,g
+264,baskin robbins,pralines n cream ice cream 4 oz scoop,14,g,45,mg,170,g,31,g,4,g,8,g,0,g,1,g,24,g
+265,baskin robbins,premium churned reduced fat no sugar added caramel turtle truffle ice cream 2 5 oz scoop,5,g,15,mg,75,g,24,g,3,g,3.5,g,0,g,2,g,4,g
+266,baskin robbins,premium churned reduced fat no sugar added caramel turtle truffle ice cream 4 oz scoop,8,g,25,mg,125,g,38,g,5,g,6,g,0,g,3,g,6,g
+267,baskin robbins,premium churned reduced fat no sugar added pineapple coconut ice cream 2 5 oz scoop,4,g,15,mg,45,g,18,g,3,g,2.5,g,0,g,2,g,5,g
+268,baskin robbins,premium churned reduced fat no sugar added pineapple coconut ice cream 4 oz scoop,6,g,25,mg,75,g,29,g,5,g,4,g,0,g,4,g,7,g
+269,baskin robbins,pumpkin cheesecake ice cream 2 5 oz scoop,8,g,25,mg,85,g,21,g,3,g,4.5,g,0,g,0,g,16,g
+270,baskin robbins,pumpkin cheesecake ice cream 4 oz scoop,12,g,45,mg,135,g,33,g,4,g,7,g,0,g,0,g,26,g
+271,baskin robbins,pumpkin pie ice cream 2 5 oz scoop,7,g,30,mg,55,g,16,g,3,g,4.5,g,0,g,0,g,13,g
+272,baskin robbins,pumpkin pie ice cream 4 oz scoop,11,g,45,mg,90,g,25,g,4,g,7,g,0,g,1,g,20,g
+273,baskin robbins,quarterback crunch ice cream 2 5 oz scoop,10,g,30,mg,90,g,19,g,3,g,7,g,0,g,0,g,14,g
+274,baskin robbins,quarterback crunch ice cream 4 oz scoop,17,g,45,mg,150,g,30,g,4,g,11,g,0,g,0,g,22,g
+275,baskin robbins,rainbow sherbet freeze large,8,g,30,mg,110,g,149,g,6,g,5,g,0,g,1,g,124,g
+276,baskin robbins,rainbow sherbet freeze medium,5,g,20,mg,75,g,103,g,4,g,3.5,g,0,g,1,g,86,g
+277,baskin robbins,rainbow sherbet freeze small,4,g,15,mg,55,g,74,g,3,g,2.5,g,0,g,1,g,62,g
+278,baskin robbins,rainbow sherbet quart,1.5,g,5,mg,25,g,22,g,1,g,1,g,0,g,0,g,21,g
+279,baskin robbins,rainbow sherbet 2 5 oz,1.5,g,5,mg,15,g,17,g,1,g,1,g,0,g,0,g,13,g
+280,baskin robbins,rainbow sherbet 4 oz scoop,2,g,10,mg,25,g,26,g,1,g,1.5,g,0,g,0,g,20,g
+281,baskin robbins,raspberry sorbet 2 5 oz scoop,0,g,0,mg,0,g,16,g,0,g,0,g,0,g,0,g,12,g
+282,baskin robbins,raspberry sorbet 4 oz scoop,0,g,0,mg,5,g,25,g,0,g,0,g,0,g,1,g,19,g
+283,baskin robbins,reeses peanut butter cup 31 below pie,26,g,15,mg,260,g,45,g,9,g,12,g,0,g,2,g,34,g
+284,baskin robbins,reeses peanut butter cup 31 below large,61,g,110,mg,840,g,148,g,36,g,30,g,1,g,7,g,134,g
+285,baskin robbins,reeses peanut butter cup 31 below medium,45,g,80,mg,620,g,109,g,26,g,22,g,0.5,g,5,g,99,g
+286,baskin robbins,reeses peanut butter cup 31 below mini,22,g,45,mg,300,g,55,g,14,g,11,g,0,g,2,g,50,g
+287,baskin robbins,reeses peanut butter cup 31 below small,33,g,60,mg,450,g,79,g,19,g,16,g,0.5,g,4,g,72,g
+288,baskin robbins,reeses peanut butter cup ice cream 2 5 oz scoop,11,g,30,mg,90,g,17,g,4,g,6,g,0,g,1,g,14,g
+289,baskin robbins,reeses peanut butter cup ice cream 4 oz scoop,17,g,50,mg,140,g,27,g,6,g,9,g,0,g,1,g,23,g
+290,baskin robbins,reeses peanut butter cup sundae,85,g,100,mg,720,g,106,g,28,g,33,g,1,g,7,g,84,g
+291,baskin robbins,reeses soft serve parfait mini,29,g,35,mg,300,g,38,g,14,g,9,g,0,g,3,g,33,g
+292,baskin robbins,reeses soft serve parfait regular,60,g,55,mg,620,g,75,g,28,g,19,g,0,g,6,g,64,g
+293,baskin robbins,rocky road ice cream quart,10,g,30,mg,75,g,20,g,4,g,5,g,0,g,1,g,17,g
+294,baskin robbins,rocky road ice cream 2 5 oz scoop,9,g,30,mg,70,g,18,g,4,g,5,g,0,g,1,g,13,g
+295,baskin robbins,rocky road ice cream 4 oz scoop,15,g,45,mg,110,g,29,g,6,g,8,g,0,g,2,g,21,g
+296,baskin robbins,rum raisin ice cream 2 5 oz scoop,7,g,30,mg,60,g,18,g,3,g,4.5,g,0,g,0,g,16,g
+297,baskin robbins,rum raisin ice cream 4 oz scoop,11,g,45,mg,90,g,29,g,4,g,7,g,0,g,1,g,25,g
+298,baskin robbins,salty caramel ice cream 2 5 oz scoop,8,g,30,mg,80,g,17,g,3,g,5,g,0,g,0,g,15,g
+299,baskin robbins,salty caramel ice cream 4 oz scoop,13,g,50,mg,125,g,28,g,5,g,8,g,0,g,0,g,23,g
+300,baskin robbins,soft serve cookie sandwich,5,g,15,mg,170,g,29,g,5,g,3,g,0,g,1,g,17,g
+301,baskin robbins,strawberry n almonds soft serve parfait mini,12,g,35,mg,140,g,38,g,9,g,6,g,0,g,2,g,34,g
+302,baskin robbins,strawberry n almonds soft serve parfait regular,28,g,55,mg,240,g,68,g,18,g,10,g,0,g,5,g,60,g
+303,baskin robbins,strawberry banana smoothie large,1.5,g,5,mg,140,g,173,g,9,g,0.5,g,0,g,9,g,139,g
+304,baskin robbins,strawberry banana smoothie medium,1,g,5,mg,110,g,126,g,8,g,0,g,0,g,7,g,98,g
+305,baskin robbins,strawberry banana smoothie small,0.5,g,0,mg,70,g,86,g,5,g,0,g,0,g,4,g,69,g
+306,baskin robbins,strawberry cheesecake ice cream 2 5 oz scoop,8,g,35,mg,75,g,18,g,3,g,5,g,0,g,0,g,14,g
+307,baskin robbins,strawberry cheesecake ice cream 4 oz scoop,13,g,55,mg,115,g,28,g,4,g,8,g,0,g,0,g,22,g
+308,baskin robbins,strawberry citrus fruit blast large,0,g,0,mg,25,g,130,g,1,g,0,g,0,g,6,g,114,g
+309,baskin robbins,strawberry citrus fruit blast medium,0,g,0,mg,15,g,89,g,1,g,0,g,0,g,4,g,79,g
+310,baskin robbins,strawberry citrus fruit blast small,0,g,0,mg,10,g,65,g,1,g,0,g,0,g,3,g,57,g
+311,baskin robbins,strawberry frozen yogurt 2 5 oz scoop,3.5,g,15,mg,40,g,15,g,3,g,2.5,g,0,g,0,g,13,g
+312,baskin robbins,strawberry frozen yogurt 4 oz scoop,6,g,25,mg,65,g,25,g,4,g,3.5,g,0,g,0,g,20,g
+313,baskin robbins,sugar cone,0.5,g,0,mg,55,g,10,g,1,g,0,g,0,g,0,g,4,g
+314,baskin robbins,tax crunch ice cream 2 5 oz scoop,13,g,25,mg,70,g,18,g,3,g,7,g,0,g,1,g,13,g
+315,baskin robbins,tax crunch ice cream 4 oz scoop,21,g,45,mg,110,g,28,g,5,g,11,g,0,g,1,g,21,g
+316,baskin robbins,three scoop sundae,45,g,125,mg,250,g,87,g,12,g,29,g,1,g,2,g,68,g
+317,baskin robbins,trick oreo treat ice cream 2 5 oz scoop,10,g,30,mg,85,g,20,g,3,g,6,g,0,g,0,g,15,g
+318,baskin robbins,trick oreo treat ice cream 4 oz scoop,16,g,45,mg,140,g,32,g,5,g,9,g,0,g,1,g,24,g
+319,baskin robbins,tropical banana smoothie large,1.5,g,5,mg,140,g,187,g,10,g,0.5,g,0,g,8,g,160,g
+320,baskin robbins,tropical banana smoothie medium,1.5,g,5,mg,110,g,130,g,8,g,0.5,g,0,g,6,g,107,g
+321,baskin robbins,tropical banana smoothie small,1,g,0,mg,70,g,89,g,5,g,0,g,0,g,4,g,76,g
+322,baskin robbins,tropical fruit blast large,0.5,g,0,mg,25,g,136,g,3,g,0,g,0,g,5,g,129,g
+323,baskin robbins,tropical fruit blast medium,0.5,g,0,mg,15,g,93,g,2,g,0,g,0,g,3,g,88,g
+324,baskin robbins,tropical fruit blast small,0,g,0,mg,10,g,68,g,1,g,0,g,0,g,2,g,64,g
+325,baskin robbins,two scoop sundae,33,g,85,mg,180,g,63,g,9,g,21,g,1,g,2,g,49,g
+326,baskin robbins,u s s butterscotch ice cream quart,10,g,35,mg,105,g,21,g,2,g,6,g,0,g,0,g,17,g
+327,baskin robbins,u s s butterscotch ice cream 2 5 oz scoop,9,g,30,mg,100,g,20,g,2,g,6,g,0,g,0,g,16,g
+328,baskin robbins,u s s butterscotch ice cream 4 oz scoop,14,g,50,mg,160,g,31,g,4,g,9,g,0,g,0,g,25,g
+329,baskin robbins,u s s butterscotch sundae,37,g,100,mg,390,g,146,g,11,g,25,g,1,g,4,g,107,g
+330,baskin robbins,upside down pralines ice cream 2 5 oz scoop,9,g,25,mg,100,g,22,g,3,g,5,g,0,g,1,g,15,g
+331,baskin robbins,upside down pralines ice cream 4 oz scoop,15,g,40,mg,160,g,35,g,5,g,8,g,0,g,2,g,24,g
+332,baskin robbins,vanilla ice cream quart,10,g,40,mg,45,g,17,g,3,g,7,g,0,g,0,g,17,g
+333,baskin robbins,vanilla ice cream 2 5 oz scoop,10,g,40,mg,40,g,13,g,3,g,6,g,0,g,0,g,11,g
+334,baskin robbins,vanilla ice cream 4 oz scoop,16,g,65,mg,65,g,21,g,4,g,10,g,0.5,g,0,g,17,g
+335,baskin robbins,vanilla milkshake large,74,g,280,mg,400,g,147,g,27,g,46,g,2.5,g,1,g,130,g
+336,baskin robbins,vanilla milkshake medium,55,g,210,mg,300,g,111,g,20,g,34,g,2,g,1,g,98,g
+337,baskin robbins,vanilla milkshake small,37,g,140,mg,200,g,74,g,13,g,23,g,1.5,g,0,g,65,g
+338,baskin robbins,vanilla soft serve kids size,4.5,g,20,mg,75,g,14,g,4,g,3,g,0,g,0,g,14,g
+339,baskin robbins,vanilla soft serve large size,14,g,55,mg,220,g,43,g,12,g,9,g,0,g,1,g,41,g
+340,baskin robbins,vanilla soft serve regular size,9,g,35,mg,150,g,29,g,8,g,6,g,0,g,1,g,27,g
+341,baskin robbins,very berry strawberry ice cream quart,7,g,25,mg,45,g,15,g,2,g,4.5,g,0,g,0,g,13,g
+342,baskin robbins,very berry strawberry ice cream 2 5 oz scoop,7,g,25,mg,40,g,15,g,2,g,4,g,0,g,0,g,13,g
+343,baskin robbins,very berry strawberry ice cream 4 oz scoop,11,g,40,mg,65,g,24,g,4,g,7,g,0,g,1,g,20,g
+344,baskin robbins,very berry strawberry milkshake large,52,g,200,mg,400,g,160,g,25,g,32,g,2,g,2,g,144,g
+345,baskin robbins,very berry strawberry milkshake medium,39,g,150,mg,300,g,120,g,18,g,24,g,1.5,g,2,g,108,g
+346,baskin robbins,very berry strawberry milkshake small,26,g,100,mg,200,g,80,g,12,g,16,g,1,g,1,g,72,g
+347,baskin robbins,warm brownie sundae,42,g,110,mg,330,g,99,g,13,g,23,g,1,g,4,g,74,g
+348,baskin robbins,warm cookie ice cream sandwich double scoop,43,g,95,mg,500,g,114,g,12,g,25,g,1,g,2,g,69,g
+349,baskin robbins,warm cookie ice cream sandwich single scoop,25,g,50,mg,320,g,70,g,7,g,14,g,0.5,g,1,g,42,g
+350,baskin robbins,warm cookie sundae double scoop,60,g,105,mg,580,g,144,g,18,g,31,g,1,g,5,g,92,g
+351,baskin robbins,warm cookie sundae single scoop,33,g,60,mg,380,g,92,g,10,g,19,g,0.5,g,3,g,58,g
+352,baskin robbins,watermelon splash ice 2 5 oz scoop,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,13,g
+353,baskin robbins,watermelon splash ice 4 oz scoop,0.5,g,0,mg,5,g,27,g,0,g,0,g,0,g,0,g,20,g
+354,baskin robbins,white chunk macadamia nut cookie,9,g,0,mg,125,g,24,g,2,g,4.5,g,0,g,0,g,14,g
+355,baskin robbins,wild n reckless sherbet 2 5 oz scoop,1.5,g,5,mg,15,g,16,g,1,g,1,g,0,g,0,g,12,g
+356,baskin robbins,wild n reckless sherbet 4 oz scoop,2,g,10,mg,25,g,25,g,2,g,1.5,g,0,g,0,g,19,g
+357,baskin robbins,wild mango fruit blast large,2.5,g,0,mg,25,g,178,g,2,g,0.5,g,0,g,3,g,174,g
+358,baskin robbins,wild mango fruit blast medium,1.5,g,0,mg,15,g,123,g,1,g,0,g,0,g,2,g,119,g
+359,baskin robbins,wild mango fruit blast small,1,g,0,mg,10,g,89,g,1,g,0,g,0,g,2,g,87,g
+360,baskin robbins,winter white chocolate ice cream 2 5 oz scoop,9,g,25,mg,55,g,19,g,2,g,6,g,0,g,1,g,14,g
+361,baskin robbins,winter white chocolate ice cream 4 oz scoop,14,g,40,mg,85,g,30,g,4,g,10,g,0,g,1,g,23,g
+362,baskin robbins,world class chocolate ice cream 2 5 oz scoop,10,g,30,mg,60,g,15,g,3,g,7,g,0,g,1,g,11,g
+363,baskin robbins,world class chocolate ice cream 4 oz scoop,16,g,45,mg,95,g,25,g,5,g,11,g,0,g,1,g,18,g
+364,baskin robbins,world class chocolate milkshake large,74,g,215,mg,520,g,163,g,30,g,49,g,2,g,4,g,134,g
+365,baskin robbins,world class chocolate milkshake medium,55,g,160,mg,390,g,122,g,23,g,37,g,1.5,g,3,g,101,g
+366,baskin robbins,world class chocolate milkshake small,37,g,110,mg,260,g,82,g,15,g,25,g,1,g,2,g,67,g
+367,baskin robbins,world class chocolate sundae shake,43,g,100,mg,280,g,89,g,15,g,28,g,1,g,3,g,70,g
+368,bds mongolian grill,tortilla 6,2,g,0,mg,180,g,12,g,2,g,1,g,0,g,0,g,0,g
+369,bds mongolian grill,crab rangoons,22,g,40,mg,830,g,60,g,10,g,7,g,0,g,0,g,20,g
+370,bds mongolian grill,korean bbq chicken tenders with ranch dressing,64,g,80,mg,2720,g,49,g,35,g,12,g,0,g,0,g,19,g
+371,bds mongolian grill,egg rolls,37,g,40,mg,1620,g,47,g,15,g,9,g,0,g,0,g,11,g
+372,bds mongolian grill,shareable trio crab rangoons without sauce,13,g,25,mg,450,g,35,g,6,g,4,g,0,g,0,g,10,g
+373,bds mongolian grill,fried rice with chicken,14,g,255,mg,2620,g,76,g,42,g,4,g,0,g,0,g,14,g
+374,bds mongolian grill,jalapeno mozzarella sticks,61,g,70,mg,1690,g,39,g,27,g,17,g,0,g,0,g,4,g
+375,bds mongolian grill,fried rice with bacon,29,g,270,mg,3400,g,76,g,32,g,11,g,0,g,0,g,14,g
+376,bds mongolian grill,fried rice with shrimp,15,g,350,mg,2710,g,77,g,39,g,4,g,0,g,0,g,14,g
+377,bds mongolian grill,potstickers,22,g,35,mg,1620,g,49,g,16,g,5,g,0,g,0,g,16,g
+378,bds mongolian grill,shareable trio egg rolls without ponzu,28,g,40,mg,1790,g,51,g,15,g,6,g,0,g,0,g,6,g
+379,bds mongolian grill,shareable trio jalapeno mozzarella sticks without sauce,42,g,40,mg,9540,g,21,g,14,g,11,g,0,g,0,g,3,g
+380,bds mongolian grill,fried rice with veggies,13,g,190,mg,2550,g,76,g,16,g,4,g,0,g,0,g,14,g
+381,bds mongolian grill,chicken tenders with ranch dressing,62,g,80,mg,1790,g,33,g,33,g,11,g,0,g,0,g,8,g
+382,bds mongolian grill,spinach artichoke wontons,38,g,20,mg,600,g,28,g,8,g,12,g,0,g,0,g,0,g
+383,bds mongolian grill,shareable korean bbq chicken tenders with ranch dressing,46,g,50,mg,1780,g,32,g,21,g,8,g,0,g,0,g,13,g
+384,bds mongolian grill,mongolian ginger chicken tenders with ranch dressing,64,g,80,mg,3320,g,55,g,35,g,12,g,0,g,0,g,26,g
+385,bds mongolian grill,shareable trio sriracha chicken bites without sauce,42,g,40,mg,1270,g,38,g,13,g,8,g,0,g,0,g,17,g
+386,bds mongolian grill,shareable chicken tenders with ranch dressing,44,g,50,mg,1160,g,21,g,20,g,8,g,0,g,0,g,6,g
+387,bds mongolian grill,shareable trio spinach and artichoke wontons without sauce,19,g,10,mg,300,g,14,g,4,g,6,g,0,g,0,g,0,g
+388,bds mongolian grill,shareable mongolian ginger chicken tenders with ranch dressing,45,g,50,mg,2180,g,36,g,21,g,8,g,0,g,0,g,17,g
+389,bds mongolian grill,the shareable trio chicken sriracha bites egg rolls and crab rangoons,91,g,105,mg,2500,g,105,g,33,g,21,g,0,g,0,g,26,g
+390,bds mongolian grill,sriracha chicken bites,54,g,55,mg,2020,g,57,g,18,g,11,g,0,g,0,g,3,g
+391,bds mongolian grill,shareable spicy buffalo chicken tenders with ranch dressing,53,g,50,mg,1470,g,21,g,20,g,9,g,0,g,0,g,6,g
+392,bds mongolian grill,spicy buffalo chicken tenders with ranch dressing,76,g,80,mg,2250,g,33,g,33,g,13,g,0,g,0,g,8,g
+393,bds mongolian grill,fried oreos,46,g,20,mg,440,g,74,g,4,g,16,g,0,g,0,g,49,g
+394,bds mongolian grill,triple vanilla bean cheesecake,49,g,155,mg,290,g,56,g,7,g,39,g,0,g,0,g,39,g
+395,bds mongolian grill,chocolate layer cake,34,g,110,mg,540,g,145,g,10,g,13,g,0,g,0,g,100,g
+396,bds mongolian grill,hot fudge sundae,32,g,95,mg,300,g,78,g,10,g,21,g,0,g,0,g,60,g
+397,bds mongolian grill,chips galore ice cream cookie sandwich,14,g,30,mg,220,g,43,g,4,g,8,g,0,g,0,g,27,g
+398,bds mongolian grill,vanilla ice cream,9,g,65,mg,75,g,23,g,6,g,5,g,0,g,0,g,17,g
+399,bds mongolian grill,strawberry lemon parfait,45,g,95,mg,290,g,71,g,4,g,30,g,0,g,0,g,55,g
+400,bds mongolian grill,strawberry sundae,24,g,95,mg,105,g,64,g,8,g,13,g,0,g,0,g,53,g
+401,bds mongolian grill,french fries with ketchup,37,g,0,mg,1290,g,58,g,5,g,7,g,0,g,0,g,12,g
+402,bds mongolian grill,kids ranch dressing,21,g,15,mg,390,g,3,g,2,g,3,g,0,g,0,g,2,g
+403,bds mongolian grill,kids apple juice box,0,g,0,mg,10,g,24,g,0,g,0,g,0,g,0,g,23,g
+404,bds mongolian grill,kids mac and cheese,86,g,225,mg,2640,g,78,g,63,g,8,g,0,g,0,g,7,g
+405,bds mongolian grill,kids yoohoo box,1,g,0,mg,150,g,22,g,1,g,0,g,0,g,0,g,19,g
+406,bds mongolian grill,kids chicken tenders with ranch,41,g,50,mg,1160,g,21,g,20,g,1,g,0,g,0,g,6,g
+407,bds mongolian grill,kids cottage cheese,2,g,10,mg,460,g,4,g,16,g,0,g,0,g,0,g,0,g
+408,bds mongolian grill,kids apple sauce,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,0,g,22,g
+409,bds mongolian grill,kids broccoli,0,g,0,mg,10,g,2,g,1,g,0,g,0,g,0,g,0,g
+410,bds mongolian grill,kids milk,8,g,30,mg,200,g,20,g,12,g,5,g,0,g,0,g,18,g
+411,bds mongolian grill,kids strawberry apple sauce,0,g,0,mg,0,g,23,g,0,g,0,g,0,g,0,g,21,g
+412,bds mongolian grill,kids orange juice,0,g,0,mg,0,g,40,g,3,g,0,g,0,g,2,g,34,g
+413,bds mongolian grill,kids mandarin oranges,0,g,0,mg,0,g,11,g,1,g,0,g,0,g,0,g,9,g
+414,bds mongolian grill,kids chicken quesadilla,67,g,245,mg,1780,g,42,g,73,g,36,g,0,g,0,g,1,g
+415,bds mongolian grill,kids french fries,372.2,g,0,mg,12976,g,432.5,g,40.2,g,30.2,g,0,g,0,g,0,g
+416,bds mongolian grill,kids ketchup,0,g,0,mg,480,g,15,g,1,g,0,g,0,g,0,g,12,g
+417,bds mongolian grill,kids cranberry juice cocktail,0,g,0,mg,10,g,42,g,0,g,0,g,0,g,0,g,42,g
+418,bds mongolian grill,kids brown rice,0,g,0,mg,125,g,14,g,1,g,0,g,0,g,0,g,0,g
+419,bds mongolian grill,kids white rice,0,g,0,mg,100,g,15,g,1,g,0,g,0,g,0,g,0,g
+420,bds mongolian grill,kids cheese quesadilla,65,g,180,mg,1700,g,42,g,47,g,0,g,0,g,0,g,1,g
+421,bds mongolian grill,shrimp fried rice bowl,20,g,570,mg,5270,g,153,g,64,g,5,g,0,g,0,g,26,g
+422,bds mongolian grill,squash and zucchini,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,0,g,1,g
+423,bds mongolian grill,green cabbage,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+424,bds mongolian grill,lamb,4,g,50,mg,50,g,0,g,17,g,1,g,0,g,0,g,0,g
+425,bds mongolian grill,surimi krab,0,g,10,mg,500,g,15,g,8,g,0,g,0,g,0,g,0,g
+426,bds mongolian grill,asian slaw,0,g,0,mg,15,g,4,g,1,g,0,g,0,g,0,g,2,g
+427,bds mongolian grill,bean sprouts,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,0,g,1,g
+428,bds mongolian grill,tofu,2,g,0,mg,0,g,3,g,9,g,0,g,0,g,0,g,0,g
+429,bds mongolian grill,cottage cheese,5,g,20,mg,450,g,4,g,12,g,3,g,0,g,0,g,4,g
+430,bds mongolian grill,egg hard cooked,4,g,125,mg,40,g,0,g,4,g,1,g,0,g,0,g,0,g
+431,bds mongolian grill,chicken,2,g,60,mg,70,g,0,g,25,g,0,g,0,g,0,g,0,g
+432,bds mongolian grill,calamari,3,g,500,mg,95,g,7,g,34,g,1,g,0,g,0,g,0,g
+433,bds mongolian grill,duck,7.1,g,81,mg,324,g,0.5,g,4.6,g,2.3,g,0,g,0,g,0.3,g
+434,bds mongolian grill,diced beef,7,g,55,mg,190,g,0,g,15,g,3,g,0,g,0,g,0,g
+435,bds mongolian grill,green onions,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+436,bds mongolian grill,black beans,0,g,0,mg,220,g,8,g,3,g,0,g,0,g,0,g,1,g
+437,bds mongolian grill,meatballs,18,g,50,mg,230,g,7,g,10,g,6,g,0,g,0,g,0,g
+438,bds mongolian grill,red or yellow onions,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,2,g
+439,bds mongolian grill,red cabbage,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+440,bds mongolian grill,water chestnuts,0,g,0,mg,15,g,6,g,1,g,0,g,0,g,0,g,2,g
+441,bds mongolian grill,fajita marinated chicken,12,g,60,mg,560,g,1,g,24,g,2,g,0,g,0,g,0,g
+442,bds mongolian grill,montreal seasoned diced beef,7,g,45,mg,340,g,1,g,15,g,3,g,0,g,0,g,0,g
+443,bds mongolian grill,meatless beef,2,g,20,mg,270,g,4,g,20,g,0,g,0,g,0,g,0,g
+444,bds mongolian grill,scallops,1.5,g,25,mg,360,g,3,g,13,g,0,g,0,g,0,g,0,g
+445,bds mongolian grill,baby corn,0,g,0,mg,80,g,1,g,1,g,0,g,0,g,0,g,0,g
+446,bds mongolian grill,pasta,4,g,0,mg,530,g,42,g,7,g,1,g,0,g,2,g,2,g
+447,bds mongolian grill,green peppers,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+448,bds mongolian grill,parmesan cheese,8,g,20,mg,470,g,1,g,11,g,5,g,0,g,0,g,0,g
+449,bds mongolian grill,meatless chicken,5,g,10,mg,250,g,10,g,10,g,0,g,0,g,0,g,0,g
+450,bds mongolian grill,montreal seasoned ribeye,9,g,55,mg,220,g,1,g,18,g,4,g,0,g,0,g,0,g
+451,bds mongolian grill,corn kernels,0,g,0,mg,50,g,9,g,1,g,0,g,0,g,0,g,1,g
+452,bds mongolian grill,red skinned potatoes,0,g,0,mg,5,g,6,g,1,g,0,g,0,g,0,g,0,g
+453,bds mongolian grill,pork,8,g,50,mg,240,g,0,g,17,g,3,g,0,g,0,g,0,g
+454,bds mongolian grill,white rice,0,g,0,mg,200,g,29,g,3,g,0,g,0,g,0,g,0,g
+455,bds mongolian grill,tilapia,2,g,60,mg,65,g,0,g,24,g,1,g,0,g,0,g,0,g
+456,bds mongolian grill,ribeye,9,g,55,mg,55,g,0,g,18,g,4,g,0,g,0,g,0,g
+457,bds mongolian grill,cauliflower,0,g,0,mg,5,g,1,g,1,g,0,g,0,g,0,g,1,g
+458,bds mongolian grill,southwestern marinated pork,8,g,50,mg,560,g,0,g,17,g,3,g,0,g,0,g,0,g
+459,bds mongolian grill,egg,4,g,185,mg,60,g,0,g,6,g,2,g,0,g,0,g,0,g
+460,bds mongolian grill,cheddar cheese,10,g,30,mg,200,g,1,g,7,g,6,g,0,g,0,g,0,g
+461,bds mongolian grill,sriracha marinated chicken,8,g,60,mg,370,g,6,g,24,g,2,g,0,g,0,g,5,g
+462,bds mongolian grill,mandarin oranges,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,6,g
+463,bds mongolian grill,fajita seasoned beef,7,g,45,mg,190,g,1,g,15,g,3,g,0,g,0,g,0,g
+464,bds mongolian grill,lemons or limes,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+465,bds mongolian grill,broccoli,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+466,bds mongolian grill,shrimp,3,g,180,mg,180,g,1,g,26,g,0,g,0,g,0,g,0,g
+467,bds mongolian grill,black olives,4,g,0,mg,240,g,2,g,0,g,0,g,0,g,0,g,0,g
+468,bds mongolian grill,red peppers,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+469,bds mongolian grill,crouton,2,g,0,mg,90,g,5,g,1,g,0,g,0,g,0,g,0,g
+470,bds mongolian grill,leeks,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,1,g
+471,bds mongolian grill,mushrooms,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+472,bds mongolian grill,brown sugar marinated pork,7,g,60,mg,870,g,10,g,23,g,2,g,0,g,0,g,8,g
+473,bds mongolian grill,sausage,17,g,65,mg,860,g,3,g,9,g,7,g,0,g,0,g,2,g
+474,bds mongolian grill,pepperoncini,0,g,0,mg,320,g,2,g,0,g,0,g,0,g,0,g,0,g
+475,bds mongolian grill,pineapple,0,g,0,mg,5,g,8,g,0,g,0,g,0,g,0,g,7,g
+476,bds mongolian grill,ham,3,g,45,mg,710,g,3,g,13,g,1,g,0,g,0,g,0,g
+477,bds mongolian grill,pea pods,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,0,g,0,g
+478,bds mongolian grill,banana pepper rings,0,g,0,mg,330,g,1,g,0,g,0,g,0,g,0,g,0,g
+479,bds mongolian grill,tuscan marinated chicken,6,g,65,mg,770,g,1,g,26,g,1,g,0,g,0,g,0,g
+480,bds mongolian grill,butternut squash,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,1,g
+481,bds mongolian grill,bacon,10,g,30,mg,440,g,0,g,6,g,4,g,0,g,0,g,0,g
+482,bds mongolian grill,brown rice,1,g,0,mg,250,g,29,g,3,g,0,g,0,g,0,g,0,g
+483,bds mongolian grill,peas,0,g,0,mg,25,g,5,g,2,g,0,g,0,g,0,g,1,g
+484,bds mongolian grill,canned red peppers,0,g,0,mg,70,g,2,g,1,g,0,g,0,g,0,g,1,g
+485,bds mongolian grill,cilantro,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+486,bds mongolian grill,mongolian ginger beef,16,g,60,mg,1920,g,70,g,31,g,4.5,g,0,g,3,g,21,g
+487,bds mongolian grill,kung pao chicken,10,g,80,mg,1300,g,80,g,32,g,2,g,0,g,6,g,24,g
+488,bds mongolian grill,kung pao shrimp,7,g,170,mg,1380,g,81,g,31,g,1,g,0,g,6,g,24,g
+489,bds mongolian grill,pad thai beef 6 oz,35,g,275,mg,4750,g,137,g,58,g,11,g,0,g,35,g,35,g
+490,bds mongolian grill,pad thai chicken 8 oz,21,g,300,mg,4790,g,137,g,77,g,4,g,0,g,7,g,35,g
+491,bds mongolian grill,chicken fried rice bowl,19,g,425,mg,5140,g,151,g,68,g,5,g,0,g,3,g,26,g
+492,bds mongolian grill,pad thai chicken 6 oz,20,g,265,mg,4760,g,137,g,64,g,4,g,0,g,0,g,35,g
+493,bds mongolian grill,teriyaki beef 8 oz,27,g,140,mg,2210,g,43,g,49,g,10,g,0,g,0,g,0,g
+494,bds mongolian grill,pad thai pork 8 oz,38,g,290,mg,5230,g,137,g,65,g,11,g,0,g,0,g,35,g
+495,bds mongolian grill,veggie fried rice bowl,17,g,325,mg,5030,g,151,g,29,g,5,g,0,g,0,g,26,g
+496,bds mongolian grill,teriyaki chicken 8 oz,8,g,130,mg,2220,g,43,g,57,g,1,g,0,g,0,g,30,g
+497,bds mongolian grill,teriyaki chicken 6 oz,7,g,95,mg,2180,g,43,g,44,g,1,g,0,g,0,g,30,g
+498,bds mongolian grill,bison,3,g,50,mg,50,g,0,g,17,g,1,g,0,g,0,g,0,g
+499,bds mongolian grill,teriyaki tofu 8 oz,11,g,0,mg,2070,g,51,g,30,g,2,g,0,g,0,g,30,g
+500,bds mongolian grill,pad thai tofu 8 oz,24,g,170,mg,4640,g,145,g,50,g,5,g,0,g,0,g,35,g
+501,bds mongolian grill,kung pao pork bowl 6 oz,21,g,90,mg,2010,g,34,g,34,g,7,g,0,g,0,g,10,g
+502,bds mongolian grill,mongolian ginger chicken bowl 6 oz,10,g,100,mg,2750,g,40,g,44,g,2,g,0,g,0,g,27,g
+503,bds mongolian grill,kung pao shrimp bowl 8 oz,10,g,325,mg,1890,g,29,g,50,g,1,g,0,g,0,g,10,g
+504,bds mongolian grill,teriyaki tofu 6 oz,9,g,0,mg,2070,g,49,g,34,g,2,g,0,g,0,g,30,g
+505,bds mongolian grill,bacon fried rice bowl,49,g,490,mg,6730,g,151,g,62,g,21,g,0,g,0,g,26,g
+506,bds mongolian grill,pad thai pork 6 oz,33,g,260,mg,5080,g,137,g,55,g,10,g,0,g,0,g,35,g
+507,bds mongolian grill,teriyaki shrimp 8 oz,9,g,325,mg,2390,g,45,g,51,g,1,g,0,g,0,g,30,g
+508,bds mongolian grill,kung pao chicken bowl 6 oz,8,g,100,mg,1680,g,27,g,43,g,1,g,0,g,0,g,10,g
+509,bds mongolian grill,mongolian ginger chicken bowl 8 oz,11,g,130,mg,2790,g,40,g,57,g,2,g,0,g,0,g,27,g
+510,bds mongolian grill,pad thai tofu 6 oz,23,g,170,mg,4640,g,143,g,44,g,5,g,0,g,0,g,35,g
+511,bds mongolian grill,spicy chili garlic beef bowl 6 oz,14,g,105,mg,2730,g,21,g,36,g,9,g,0,g,0,g,10,g
+512,bds mongolian grill,kung pao tofu bowl 6 oz,10,g,0,mg,1570,g,33,g,23,g,2,g,0,g,0,g,10,g
+513,bds mongolian grill,mongolian ginger beef bowl 6 oz,25,g,105,mg,2750,g,40,g,39,g,8,g,0,g,0,g,27,g
+514,bds mongolian grill,pad thai beef 8 oz,41,g,310,mg,4780,g,137,g,69,g,13,g,0,g,0,g,0,g
+515,bds mongolian grill,pad thai shrimp 8 o,22,g,495,mg,4970,g,139,g,71,g,4,g,0,g,7,g,35,g
+516,bds mongolian grill,teriyaki pork 6 oz,20,g,90,mg,2510,g,45,g,35,g,6,g,0,g,0,g,30,g
+517,bds mongolian grill,spicy chili garlic pork bowl 8 oz,33,g,120,mg,3220,g,21,g,43,g,9,g,0,g,0,g,10,g
+518,bds mongolian grill,teriyaki shrimp 6 oz,8,g,345,mg,2310,g,45,g,40,g,1,g,0,g,0,g,30,g
+519,bds mongolian grill,kung pao beef bowl 8 oz,28,g,140,mg,1710,g,27,g,48,g,10,g,0,g,0,g,10,g
+520,bds mongolian grill,spicy chili garlic chicken bowl 6 oz,15,g,95,mg,2740,g,21,g,41,g,2,g,0,g,0,g,10,g
+521,bds mongolian grill,teriyaki beef 6 oz,22,g,105,mg,2170,g,43,g,38,g,8,g,0,g,0,g,30,g
+522,bds mongolian grill,spicy chili garlic pork bowl 6 oz,28,g,90,mg,3070,g,21,g,33,g,7,g,0,g,0,g,10,g
+523,bds mongolian grill,kung pao beef bowl 6 oz,23,g,105,mg,1670,g,27,g,37,g,8,g,0,g,0,g,10,g
+524,bds mongolian grill,kung pao pork bowl 8 oz,26,g,120,mg,2150,g,27,g,44,g,8,g,0,g,0,g,10,g
+525,bds mongolian grill,mongolian ginger beef bowl 8 oz,30,g,140,mg,2780,g,40,g,50,g,11,g,0,g,0,g,27,g
+526,bds mongolian grill,spicy chili garlic tofu bowl 6 oz,17,g,0,mg,2630,g,27,g,22,g,3,g,0,g,0,g,10,g
+527,bds mongolian grill,spicy chili garlic chicken bowl 8 oz,16,g,130,mg,2780,g,21,g,54,g,2,g,0,g,0,g,10,g
+528,bds mongolian grill,mongolian ginger tofu bowl 8 oz,14,g,0,mg,2640,g,48,g,31,g,2,g,0,g,0,g,27,g
+529,bds mongolian grill,mongolian ginger pork bowl 8 oz,28,g,120,mg,3230,g,40,g,46,g,9,g,0,g,0,g,27,g
+530,bds mongolian grill,mongolian ginger shrimp bowl 6 oz,11,g,245,mg,2880,g,41,g,40,g,2,g,0,g,0,g,27,g
+531,bds mongolian grill,mongolian ginger pork bowl 6 oz,23,g,90,mg,3080,g,40,g,36,g,7,g,0,g,0,g,27,g
+532,bds mongolian grill,kung pao tofu bowl 8 oz,12,g,0,mg,1570,g,35,g,29,g,2,g,0,g,0,g,10,g
+533,bds mongolian grill,kung pao shrimp bowl 6 oz,9,g,245,mg,1810,g,28,g,39,g,1,g,0,g,0,g,10,g
+534,bds mongolian grill,spicy chili garlic tofu bowl 8 oz,18,g,0,mg,2630,g,29,g,28,g,3,g,0,g,0,g,10,g
+535,bds mongolian grill,spicy chili garlic beef bowl 8 oz,35,g,140,mg,2770,g,21,g,47,g,11,g,0,g,0,g,10,g
+536,bds mongolian grill,swai,1,g,30,mg,550,g,0,g,14,g,0,g,0,g,0,g,0,g
+537,bds mongolian grill,teriyaki pork 8 oz,25,g,120,mg,2650,g,43,g,45,g,8,g,0,g,0,g,30,g
+538,bds mongolian grill,mongolian ginger tofu bowl 6 oz,13,g,0,mg,2640,g,46,g,24,g,2,g,0,g,0,g,27,g
+539,bds mongolian grill,spicy chili garlic shrimp bowl 8 oz,17,g,325,mg,2950,g,23,g,49,g,2,g,0,g,0,g,10,g
+540,bds mongolian grill,mongolian ginger shrimp bowl 8 oz,12,g,325,mg,2960,g,42,g,52,g,2,g,0,g,0,g,27,g
+541,bds mongolian grill,spicy chili garlic shrimp bowl 6 oz,16,g,245,mg,2870,g,22,g,37,g,2,g,0,g,0,g,10,g
+542,bds mongolian grill,pad thai shrimp 6 oz,21,g,410,mg,4890,g,138,g,60,g,4,g,0,g,0,g,35,g
+543,bds mongolian grill,kung pao chicken bowl 8 oz,7.4,g,107,mg,1410,g,22.1,g,45.9,g,0.8,g,0,g,0,g,8.2,g
+544,bds mongolian grill,canton noodle,2,g,0,mg,240,g,31,g,4,g,0,g,0,g,0,g,1,g
+545,bds mongolian grill,crispy noodles,3,g,0,mg,170,g,13,g,2,g,1,g,0,g,0,g,0,g
+546,bds mongolian grill,yakisoba,3,g,0,mg,250,g,45,g,8,g,0,g,0,g,0,g,1,g
+547,bds mongolian grill,rice noodle,0,g,0,mg,25,g,48,g,3,g,0,g,0,g,0,g,0,g
+548,bds mongolian grill,bok choy,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+549,bds mongolian grill,jalapenos raw,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+550,bds mongolian grill,edamame,4,g,0,mg,10,g,6,g,7,g,0,g,0,g,0,g,2,g
+551,bds mongolian grill,salad mix,0,g,0,mg,30,g,3,g,1,g,0,g,0,g,0,g,1,g
+552,bds mongolian grill,romaine lettuce,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,0,g,1,g
+553,bds mongolian grill,cucumbers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+554,bds mongolian grill,carrots,0,g,0,mg,10,g,2,g,0,g,0,g,0,g,0,g,1,g
+555,bds mongolian grill,sunflower seeds,9,g,0,mg,70,g,4,g,2,g,1,g,0,g,0,g,1,g
+556,bds mongolian grill,lettuce cup,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+557,bds mongolian grill,beets,0,g,0,mg,125,g,4,g,1,g,0,g,0,g,0,g,3,g
+558,bds mongolian grill,celery,0,g,0,mg,20,g,1,g,0,g,0,g,0,g,0,g,0,g
+559,bds mongolian grill,spinach,0,g,0,mg,45,g,2,g,1,g,0,g,0,g,0,g,0,g
+560,bds mongolian grill,tomato,0,g,0,mg,100,g,3,g,1,g,0,g,0,g,0,g,2,g
+561,bds mongolian grill,ranch dressing,9,g,5,mg,105,g,1,g,1,g,2,g,0,g,0,g,1,g
+562,bds mongolian grill,hot bacon dressing,0,g,0,mg,230,g,9,g,1,g,0,g,0,g,0,g,6,g
+563,bds mongolian grill,bleu cheese dressing,1.3,g,10,mg,17,g,0.1,g,0.1,g,0.2,g,0,g,0,g,0.1,g
+564,bds mongolian grill,golden italian dressing,9,g,0,mg,200,g,2,g,0,g,2,g,0,g,0,g,2,g
+565,bds mongolian grill,blueberry pomegranate vinaigrette,2,g,0,mg,95,g,7,g,0,g,0,g,0,g,0,g,6,g
+566,bds mongolian grill,olive oil,14,g,0,mg,0,g,0,g,0,g,2,g,0,g,0,g,0,g
+567,bds mongolian grill,cherry vinaigrette,0,g,0,mg,95,g,13,g,0,g,0,g,0,g,0,g,10,g
+568,bds mongolian grill,raspberry vinaigrette dressing,0,g,0,mg,60,g,6,g,0,g,0,g,0,g,0,g,5,g
+569,bds mongolian grill,sesame ginger salad dressing,0,g,0,mg,200,g,7,g,1,g,0,g,0,g,0,g,6,g
+570,bds mongolian grill,fat free french california dressing,0,g,0,mg,250,g,7,g,0,g,0,g,0,g,0,g,5,g
+571,bds mongolian grill,balsamic vinaigrette dressing,3.9,g,0,mg,138,g,3,g,0,g,0,g,0,g,0,g,3,g
+572,bds mongolian grill,honey mustard dressing,10,g,5,mg,85,g,4,g,0,g,2,g,0,g,0,g,4,g
+573,bds mongolian grill,fat free italian dressing,0,g,0,mg,490,g,3,g,0,g,0,g,0,g,0,g,2,g
+574,bds mongolian grill,red wine vinegar,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+575,bds mongolian grill,yum yum sauce,15,g,10,mg,90,g,1,g,0,g,3,g,0,g,0,g,1,g
+576,bds mongolian grill,soy sauce,0,g,0,mg,510,g,1,g,1,g,0,g,0,g,0,g,0,g
+577,bds mongolian grill,thai peanut sauce,4,g,0,mg,180,g,7,g,1,g,0,g,0,g,0,g,6,g
+578,bds mongolian grill,teriyaki sauce,0,g,0,mg,300,g,7,g,0,g,0,g,0,g,0,g,5,g
+579,bds mongolian grill,shiitake mushroom sauce,0,g,0,mg,390,g,5,g,1,g,0,g,0,g,0,g,4,g
+580,bds mongolian grill,pad thai sauce,0,g,0,mg,520,g,4,g,1,g,0,g,0,g,0,g,4,g
+581,bds mongolian grill,savory bacon sauce,0,g,0,mg,150,g,5,g,0,g,0,g,0,g,0,g,3,g
+582,bds mongolian grill,oil,5,g,0,mg,0,g,0,g,0,g,1,g,0,g,0,g,0,g
+583,bds mongolian grill,tomato parmesan soup,4,g,10,mg,570,g,12,g,7,g,3,g,0,g,0,g,7,g
+584,bds mongolian grill,thai coconut curry,3,g,0,mg,370,g,8,g,1,g,3,g,0,g,0,g,2,g
+585,bds mongolian grill,crema andaluz soup,12,g,35,mg,490,g,6,g,2,g,8,g,0,g,0,g,2,g
+586,bds mongolian grill,roasted red pepper and smoked gouda bisque,6,g,20,mg,270,g,8,g,4,g,4,g,0,g,0,g,5,g
+587,bds mongolian grill,southwest corn chowder,11,g,30,mg,620,g,9,g,4,g,6,g,0,g,0,g,1,g
+588,bds mongolian grill,garden leek vegetable soup,0,g,0,mg,310,g,5,g,1,g,0,g,0,g,0,g,1,g
+589,bds mongolian grill,seafood chowder,6,g,15,mg,460,g,6,g,3,g,3,g,0,g,0,g,1,g
+590,bds mongolian grill,butternut squash soup,0,g,0,mg,300,g,4,g,0,g,0,g,0,g,0,g,1,g
+591,bds mongolian grill,beer cheese soup,15,g,35,mg,430,g,7,g,4,g,8,g,0,g,0,g,1,g
+592,bds mongolian grill,hunters stew,1,g,5,mg,500,g,5,g,2,g,0,g,0,g,0,g,1,g
+593,bds mongolian grill,chicken mushroom and ginger soup,1,g,5,mg,510,g,1,g,3,g,0,g,0,g,0,g,0,g
+594,bds mongolian grill,4 pepper chili,2,g,10,mg,360,g,8,g,5,g,1,g,0,g,0,g,3,g
+595,bds mongolian grill,chicken princess soup,8,g,15,mg,580,g,6,g,4,g,3,g,0,g,0,g,1,g
+596,bds mongolian grill,chicken tortilla soup,4,g,15,mg,800,g,8,g,7,g,1,g,0,g,0,g,1,g
+597,bds mongolian grill,steak and mushroom soup,6,g,10,mg,500,g,5,g,3,g,2,g,0,g,0,g,1,g
+598,bds mongolian grill,4 pepper chili soup,2,g,10,mg,360,g,8,g,5,g,1,g,0,g,0,g,3,g
+599,bds mongolian grill,asian black bean sauce,2,g,0,mg,500,g,1,g,1,g,0,g,0,g,0,g,1,g
+600,bds mongolian grill,asian slaw,0,g,0,mg,15,g,4,g,1,g,0,g,0,g,0,g,2,g
+601,bds mongolian grill,asian slaw side,37,g,0,mg,700,g,37,g,4,g,0,g,0,g,0,g,28,g
+602,bds mongolian grill,baby corn,0,g,0,mg,80,g,1,g,1,g,0,g,0,g,0,g,0,g
+603,bds mongolian grill,bacon,8,g,40,mg,420,g,0,g,8,g,4,g,0,g,0,g,0,g
+604,bds mongolian grill,balsamic vinaigrette dressing,4,g,0,mg,140,g,3,g,0,g,0,g,0,g,0,g,3,g
+605,bds mongolian grill,banana pepper rings,0,g,0,mg,610,g,1,g,0,g,1,g,0,g,0,g,0,g
+606,bds mongolian grill,bds sundae hot fudge,32,g,95,mg,300,g,78,g,10,g,21,g,0,g,0,g,60,g
+607,bds mongolian grill,bds sundae strawberry,24,g,95,mg,105,g,64,g,8,g,13,g,0,g,0,g,53,g
+608,bds mongolian grill,bean sprouts,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,0,g,1,g
+609,bds mongolian grill,beer cheese soup,15,g,35,mg,430,g,7,g,4,g,8,g,0,g,0,g,1,g
+610,bds mongolian grill,beets,0,g,0,mg,125,g,4,g,1,g,0,g,0,g,0,g,3,g
+611,bds mongolian grill,beijing bbq sauce,0,g,0,mg,180,g,6,g,0,g,0,g,0,g,0,g,6,g
+612,bds mongolian grill,bison,3,g,50,mg,50,g,0,g,17,g,1,g,0,g,0,g,0,g
+613,bds mongolian grill,black beans,0,g,0,mg,220,g,8,g,3,g,1,g,0,g,0,g,1,g
+614,bds mongolian grill,black olives,4,g,0,mg,240,g,2,g,0,g,0,g,0,g,0,g,0,g
+615,bds mongolian grill,bleu cheese dressing,13,g,100,mg,170,g,1,g,1,g,2,g,0,g,0,g,1,g
+616,bds mongolian grill,blueberry pomegranate vinaigrette dressing,2,g,0,mg,95,g,7,g,0,g,0,g,0,g,0,g,6,g
+617,bds mongolian grill,broccoli,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+618,bds mongolian grill,brown rice,1,g,0,mg,250,g,29,g,3,g,0,g,0,g,0,g,0,g
+619,bds mongolian grill,brown rice side,1,g,0,mg,250,g,29,g,3,g,0,g,0,g,0,g,0,g
+620,bds mongolian grill,brown sugar marinated pork,7,g,60,mg,870,g,10,g,23,g,2,g,0,g,0,g,8,g
+621,bds mongolian grill,butternut squash,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,1,g
+622,bds mongolian grill,butternut squash soup soup,0,g,0,mg,300,g,4,g,0,g,0,g,0,g,0,g,1,g
+623,bds mongolian grill,cajun,0,g,0,mg,920,g,0,g,0,g,0,g,0,g,0,g,0,g
+624,bds mongolian grill,calamari,3,g,500,mg,95,g,7,g,34,g,1,g,0,g,0,g,0,g
+625,bds mongolian grill,canton noodle,2,g,0,mg,240,g,31,g,4,g,0,g,0,g,0,g,1,g
+626,bds mongolian grill,caramel topping,2,g,5,mg,95,g,25,g,1,g,1,g,0,g,0,g,19,g
+627,bds mongolian grill,carrots,0,g,0,mg,10,g,2,g,0,g,0,g,0,g,0,g,1,g
+628,bds mongolian grill,cauliflower,0,g,0,mg,5,g,1,g,1,g,0,g,0,g,0,g,1,g
+629,bds mongolian grill,cayenne,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+630,bds mongolian grill,celery,0,g,0,mg,20,g,1,g,0,g,0,g,0,g,0,g,0,g
+631,bds mongolian grill,cheddar cheese,10,g,30,mg,200,g,1,g,7,g,6,g,0,g,0,g,0,g
+632,bds mongolian grill,cheesecake triple vanilla bean,49,g,155,mg,290,g,56,g,7,g,39,g,0,g,0,g,39,g
+633,bds mongolian grill,cherry vinaigrette dressing,0,g,0,mg,95,g,13,g,0,g,0,g,0,g,0,g,10,g
+634,bds mongolian grill,cherry vinaigrette sauce,0,g,0,mg,70,g,7,g,0,g,0,g,0,g,0,g,5,g
+635,bds mongolian grill,chicken,2,g,60,mg,70,g,0,g,25,g,0,g,0,g,0,g,0,g
+636,bds mongolian grill,chicken mushroom and ginger soup,1,g,5,mg,510,g,1,g,3,g,0,g,0,g,0,g,0,g
+637,bds mongolian grill,chicken princess soup,8,g,15,mg,580,g,6,g,4,g,3,g,0,g,0,g,1,g
+638,bds mongolian grill,chicken tenders with korean bbq sauce and ranch dressing,64,g,80,mg,2720,g,49,g,35,g,12,g,0,g,0,g,19,g
+639,bds mongolian grill,chicken tenders with mongolian ginger and ranch dressing,64,g,80,mg,3320,g,55,g,35,g,12,g,0,g,0,g,26,g
+640,bds mongolian grill,chicken tenders with ranch dressing,62,g,80,mg,1790,g,33,g,33,g,11,g,0,g,0,g,8,g
+641,bds mongolian grill,chicken tenders with spicy buffalo sauce and ranch dressing,76,g,80,mg,2250,g,33,g,33,g,13,g,0,g,0,g,8,g
+642,bds mongolian grill,chicken tortilla soup,4,g,15,mg,800,g,8,g,7,g,1,g,0,g,0,g,1,g
+643,bds mongolian grill,chili garlic sauce,2,g,0,mg,540,g,3,g,0,g,0,g,0,g,0,g,2,g
+644,bds mongolian grill,chips galore ice cream cookie sandwich,14,g,30,mg,220,g,43,g,4,g,8,g,0,g,0,g,27,g
+645,bds mongolian grill,chocolate layer cake,34,g,110,mg,540,g,145,g,10,g,13,g,0,g,0,g,100,g
+646,bds mongolian grill,coconut flakes,2,g,0,mg,0,g,0,g,0,g,2,g,0,g,0,g,0,g
+647,bds mongolian grill,cottage cheese,5,g,20,mg,450,g,4,g,12,g,3,g,0,g,0,g,4,g
+648,bds mongolian grill,crab rangoons,22,g,40,mg,830,g,60,g,10,g,7,g,0,g,0,g,20,g
+649,bds mongolian grill,crema andaluz soup,12,g,35,mg,490,g,6,g,2,g,8,g,0,g,0,g,2,g
+650,bds mongolian grill,crispy noodles,3,g,0,mg,170,g,13,g,2,g,1,g,0,g,0,g,0,g
+651,bds mongolian grill,crouton,2,g,0,mg,90,g,5,g,1,g,0,g,0,g,0,g,0,g
+652,bds mongolian grill,crushed red pepper,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+653,bds mongolian grill,cucumbers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+654,bds mongolian grill,curry powder,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+655,bds mongolian grill,diced beef,7,g,55,mg,190,g,0,g,15,g,3,g,0,g,0,g,0,g
+656,bds mongolian grill,dill,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+657,bds mongolian grill,duck,0,g,80,mg,320,g,0,g,17,g,0,g,0,g,0,g,0,g
+658,bds mongolian grill,edamame,4,g,0,mg,10,g,6,g,7,g,0,g,0,g,0,g,2,g
+659,bds mongolian grill,egg,4,g,165,mg,60,g,0,g,6,g,2,g,0,g,0,g,0,g
+660,bds mongolian grill,egg rolls,37,g,40,mg,1620,g,47,g,15,g,9,g,0,g,0,g,11,g
+661,bds mongolian grill,fajita marinated chicken,12,g,60,mg,560,g,1,g,24,g,2,g,0,g,0,g,0,g
+662,bds mongolian grill,fajita sauce,0,g,0,mg,20,g,2,g,0,g,0,g,0,g,0,g,1,g
+663,bds mongolian grill,fajita seasoned beef,7,g,45,mg,190,g,1,g,15,g,3,g,0,g,0,g,0,g
+664,bds mongolian grill,fire roasted hoisin bbq ribs,122,g,425,mg,7580,g,1,g,110,g,37,g,0,g,0,g,113,g
+665,bds mongolian grill,fish tacos,85,g,65,mg,0,g,126,g,32,g,22,g,0,g,0,g,39,g
+666,bds mongolian grill,five spice pork tacos,67,g,90,mg,420,g,106,g,39,g,19,g,0,g,0,g,17,g
+667,bds mongolian grill,french california fat free dressing,0,g,0,mg,250,g,7,g,0,g,0,g,0,g,0,g,5,g
+668,bds mongolian grill,french fries with ketchup,37,g,0,mg,1290,g,58,g,5,g,7,g,0,g,0,g,12,g
+669,bds mongolian grill,fresh garlic,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+670,bds mongolian grill,fried oreos,46,g,20,mg,440,g,74,g,4,g,16,g,0,g,0,g,49,g
+671,bds mongolian grill,fried rice bowl with bacon 4 oz,49,g,490,mg,6730,g,151,g,62,g,21,g,0,g,0,g,26,g
+672,bds mongolian grill,fried rice bowl with chicken 6 oz,19,g,425,mg,5140,g,151,g,68,g,5,g,0,g,0,g,26,g
+673,bds mongolian grill,fried rice bowl with shrimp 6 oz,20,g,570,mg,5270,g,153,g,64,g,5,g,0,g,0,g,26,g
+674,bds mongolian grill,fried rice bowl with veggies 6 oz,17,g,325,mg,5030,g,151,g,29,g,5,g,0,g,0,g,26,g
+675,bds mongolian grill,fried rice with bacon,29,g,270,mg,3400,g,76,g,32,g,11,g,0,g,0,g,14,g
+676,bds mongolian grill,fried rice with chicken,14,g,255,mg,2620,g,76,g,42,g,4,g,0,g,0,g,14,g
+677,bds mongolian grill,fried rice with shrimp,15,g,350,mg,2710,g,77,g,39,g,4,g,0,g,0,g,14,g
+678,bds mongolian grill,fried rice with veggies,13,g,190,mg,2550,g,76,g,16,g,4,g,0,g,0,g,14,g
+679,bds mongolian grill,fried sriracha chicken tacos,88,g,90,mg,3760,g,156,g,40,g,23,g,0,g,0,g,37,g
+680,bds mongolian grill,garbanzo beans,1,g,0,mg,170,g,8,g,3,g,0,g,0,g,0,g,1,g
+681,bds mongolian grill,garden leek vegetable soup,0,g,0,mg,310,g,5,g,1,g,0,g,0,g,0,g,1,g
+682,bds mongolian grill,garlic powder,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,0,g,0,g
+683,bds mongolian grill,ginger powder,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+684,bds mongolian grill,gochujang sauce,0,g,0,mg,260,g,9,g,0,g,0,g,0,g,0,g,7,g
+685,bds mongolian grill,golden italian dressing,9,g,0,mg,200,g,2,g,0,g,2,g,0,g,0,g,2,g
+686,bds mongolian grill,green cabbage,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+687,bds mongolian grill,green onions,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+688,bds mongolian grill,green peppers,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+689,bds mongolian grill,grilled sriracha chicken tacos,59,g,135,mg,3140,g,124,g,58,g,16,g,0,g,0,g,38,g
+690,bds mongolian grill,ham,3,g,45,mg,710,g,3,g,13,g,1,g,0,g,0,g,0,g
+691,bds mongolian grill,hardcooked egg,4,g,125,mg,40,g,0,g,4,g,1,g,0,g,0,g,0,g
+692,bds mongolian grill,hoisin beef tacos,63,g,75,mg,70,g,133,g,34,g,16,g,0,g,0,g,48,g
+693,bds mongolian grill,honey mustard dressing,10,g,5,mg,85,g,4,g,0,g,2,g,0,g,0,g,3,g
+694,bds mongolian grill,hot bacon dressing,0,g,0,mg,230,g,9,g,1,g,0,g,0,g,0,g,6,g
+695,bds mongolian grill,hot fudge topping,4,g,0,mg,100,g,19,g,1,g,4,g,0,g,0,g,15,g
+696,bds mongolian grill,hunters stew soup,1,g,5,mg,500,g,5,g,2,g,0,g,0,g,0,g,1,g
+697,bds mongolian grill,ice cream vanilla,9,g,65,mg,75,g,23,g,3,g,5,g,0,g,0,g,17,g
+698,bds mongolian grill,italian fat free dressing,0,g,0,mg,490,g,3,g,0,g,0,g,0,g,0,g,2,g
+699,bds mongolian grill,jalapeno mozzarella sticks,61,g,70,mg,1690,g,39,g,27,g,17,g,0,g,0,g,4,g
+700,bds mongolian grill,jalapeno raw,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+701,bds mongolian grill,jamaican jerk,0,g,0,mg,240,g,0,g,0,g,0,g,0,g,0,g,0,g
+702,bds mongolian grill,kernel corn,0,g,0,mg,50,g,9,g,1,g,0,g,0,g,0,g,1,g
+703,bds mongolian grill,kids apple juice box,0,g,0,mg,10,g,24,g,0,g,3,g,0,g,0,g,23,g
+704,bds mongolian grill,kids broccoli,0,g,0,mg,10,g,2,g,1,g,0,g,0,g,0,g,0,g
+705,bds mongolian grill,kids brown rice,0,g,0,mg,125,g,14,g,1,g,3,g,0,g,0,g,0,g
+706,bds mongolian grill,kids cheese quesadilla,65,g,180,mg,1700,g,42,g,47,g,0,g,0,g,0,g,1,g
+707,bds mongolian grill,kids chicken quesadilla,67,g,245,mg,1780,g,42,g,73,g,36,g,0,g,0,g,1,g
+708,bds mongolian grill,kids chicken tenders with ranch dressing,41,g,50,mg,1160,g,21,g,20,g,1,g,0,g,0,g,6,g
+709,bds mongolian grill,kids cottage cheese,2,g,10,mg,460,g,4,g,16,g,0,g,0,g,0,g,0,g
+710,bds mongolian grill,kids cranberry juice cocktail,0,g,0,mg,10,g,42,g,0,g,0,g,0,g,0,g,42,g
+711,bds mongolian grill,kids french fries,37,g,0,mg,1290,g,43,g,4,g,3,g,0,g,0,g,0,g
+712,bds mongolian grill,kids ketchup,0,g,0,mg,480,g,15,g,1,g,0,g,0,g,0,g,12,g
+713,bds mongolian grill,kids mac and cheese,86,g,225,mg,2640,g,78,g,63,g,8,g,0,g,0,g,7,g
+714,bds mongolian grill,kids mandarin oranges,0,g,0,mg,0,g,11,g,1,g,6,g,0,g,0,g,9,g
+715,bds mongolian grill,kids milk,8,g,30,mg,200,g,20,g,12,g,5,g,0,g,0,g,18,g
+716,bds mongolian grill,kids motts original apple sauce,0,g,0,mg,0,g,24,g,0,g,1,g,0,g,0,g,22,g
+717,bds mongolian grill,kids motts strawberry apple sauce,0,g,0,mg,0,g,23,g,0,g,8,g,0,g,0,g,21,g
+718,bds mongolian grill,kids orange juice,0,g,0,mg,0,g,40,g,3,g,0,g,0,g,0,g,34,g
+719,bds mongolian grill,kids ranch,21,g,15,mg,390,g,3,g,2,g,3,g,0,g,0,g,2,g
+720,bds mongolian grill,kids white rice,0,g,0,mg,100,g,15,g,1,g,2,g,0,g,0,g,0,g
+721,bds mongolian grill,kids yoo hoo box,1,g,0,mg,150,g,22,g,1,g,3,g,0,g,0,g,19,g
+722,bds mongolian grill,korean bbq sauce,1,g,0,mg,250,g,4,g,1,g,0,g,0,g,0,g,3,g
+723,bds mongolian grill,krab surimi,0,g,10,mg,500,g,15,g,8,g,0,g,0,g,0,g,2,g
+724,bds mongolian grill,kung pao bowl beef 6 oz,23,g,105,mg,1670,g,27,g,37,g,8,g,0,g,0,g,10,g
+725,bds mongolian grill,kung pao bowl beef 8 oz,28,g,140,mg,1710,g,27,g,48,g,10,g,0,g,0,g,10,g
+726,bds mongolian grill,kung pao bowl chicken 6 oz,8,g,100,mg,1680,g,27,g,43,g,1,g,0,g,0,g,10,g
+727,bds mongolian grill,kung pao bowl chicken 8 oz,9,g,130,mg,1720,g,27,g,56,g,1,g,0,g,0,g,10,g
+728,bds mongolian grill,kung pao bowl pork 6 oz,21,g,90,mg,2010,g,27,g,34,g,7,g,0,g,0,g,10,g
+729,bds mongolian grill,kung pao bowl pork 8 oz,26,g,120,mg,2150,g,27,g,44,g,8,g,0,g,0,g,10,g
+730,bds mongolian grill,kung pao bowl shrimp 6 oz,9,g,245,mg,1810,g,28,g,39,g,1,g,0,g,0,g,10,g
+731,bds mongolian grill,kung pao bowl shrimp 8 oz,10,g,325,mg,1890,g,29,g,50,g,1,g,0,g,0,g,10,g
+732,bds mongolian grill,kung pao bowl tofu 6 oz,10,g,0,mg,1570,g,33,g,23,g,2,g,0,g,0,g,10,g
+733,bds mongolian grill,kung pao bowl tofu 8 oz,12,g,0,mg,1570,g,35,g,29,g,2,g,0,g,0,g,10,g
+734,bds mongolian grill,kung pao sauce,0,g,0,mg,260,g,4,g,0,g,0,g,0,g,0,g,2,g
+735,bds mongolian grill,lamb,4,g,50,mg,50,g,0,g,17,g,1,g,0,g,0,g,0,g
+736,bds mongolian grill,leeks,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,1,g
+737,bds mongolian grill,lemon pepper,0,g,0,mg,460,g,0,g,0,g,0,g,0,g,0,g,0,g
+738,bds mongolian grill,lemon sauce,0,g,0,mg,95,g,6,g,0,g,0,g,0,g,0,g,4,g
+739,bds mongolian grill,limes,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+740,bds mongolian grill,mandarin orange sauce,0,g,0,mg,210,g,8,g,0,g,0,g,0,g,0,g,7,g
+741,bds mongolian grill,mandarin oranges,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,6,g
+742,bds mongolian grill,meatballs,18,g,50,mg,230,g,7,g,10,g,6,g,0,g,0,g,0,g
+743,bds mongolian grill,meatless beef,2,g,0,mg,270,g,4,g,20,g,0,g,0,g,0,g,0,g
+744,bds mongolian grill,meatless chicken,5,g,0,mg,250,g,10,g,10,g,0,g,0,g,0,g,0,g
+745,bds mongolian grill,mongo marinara sauce,0,g,0,mg,100,g,1,g,1,g,0,g,0,g,0,g,1,g
+746,bds mongolian grill,mongolian ginger bowl beef 6 oz,25,g,105,mg,2750,g,40,g,39,g,8,g,0,g,0,g,27,g
+747,bds mongolian grill,mongolian ginger bowl beef 8 oz,30,g,140,mg,2780,g,40,g,50,g,11,g,0,g,0,g,27,g
+748,bds mongolian grill,mongolian ginger bowl chicken 6 oz,10,g,100,mg,2750,g,40,g,44,g,2,g,0,g,0,g,27,g
+749,bds mongolian grill,mongolian ginger bowl chicken 8 oz,11,g,130,mg,2790,g,40,g,57,g,2,g,0,g,0,g,27,g
+750,bds mongolian grill,mongolian ginger bowl pork 6 oz,23,g,90,mg,3080,g,40,g,36,g,7,g,0,g,0,g,27,g
+751,bds mongolian grill,mongolian ginger bowl pork 8 oz,28,g,120,mg,3230,g,40,g,46,g,9,g,0,g,0,g,27,g
+752,bds mongolian grill,mongolian ginger bowl shrimp 6 oz,11,g,245,mg,2880,g,41,g,40,g,2,g,0,g,0,g,27,g
+753,bds mongolian grill,mongolian ginger bowl shrimp 8 oz,12,g,325,mg,2960,g,42,g,52,g,2,g,0,g,0,g,27,g
+754,bds mongolian grill,mongolian ginger bowl tofu 6 oz,13,g,0,mg,2640,g,46,g,24,g,2,g,0,g,0,g,27,g
+755,bds mongolian grill,mongolian ginger bowl tofu 8 oz,14,g,0,mg,2640,g,48,g,31,g,2,g,0,g,0,g,27,g
+756,bds mongolian grill,mongolian ginger sauce,1,g,0,mg,410,g,6,g,1,g,0,g,0,g,0,g,5,g
+757,bds mongolian grill,montreal seasoned diced beef,7,g,45,mg,340,g,1,g,15,g,3,g,0,g,0,g,0,g
+758,bds mongolian grill,montreal seasoned ribeye,9,g,55,mg,220,g,1,g,18,g,4,g,0,g,0,g,0,g
+759,bds mongolian grill,mushrooms,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+760,bds mongolian grill,mustard sauce,0,g,0,mg,250,g,0,g,0,g,0,g,0,g,0,g,0,g
+761,bds mongolian grill,oil sauce,5,g,0,mg,0,g,0,g,0,g,1,g,0,g,0,g,0,g
+762,bds mongolian grill,olive oil dressing,0,g,0,mg,0,g,0,g,0,g,2,g,0,g,0,g,0,g
+763,bds mongolian grill,onions red and or yellow,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,2,g
+764,bds mongolian grill,pad thai sauce,0,g,0,mg,520,g,4,g,1,g,1,g,0,g,0,g,4,g
+765,bds mongolian grill,pad thai with beef 6 oz,35,g,275,mg,4750,g,137,g,58,g,11,g,0,g,0,g,35,g
+766,bds mongolian grill,pad thai with beef 8 oz,41,g,310,mg,4780,g,137,g,69,g,13,g,0,g,0,g,0,g
+767,bds mongolian grill,pad thai with chicken 6 oz,20,g,265,mg,4760,g,137,g,64,g,4,g,0,g,0,g,35,g
+768,bds mongolian grill,pad thai with chicken 8 oz,21,g,300,mg,4790,g,137,g,77,g,4,g,0,g,0,g,35,g
+769,bds mongolian grill,pad thai with pork 6 oz,33,g,260,mg,5080,g,137,g,55,g,10,g,0,g,0,g,35,g
+770,bds mongolian grill,pad thai with pork 8 oz,38,g,290,mg,5230,g,137,g,65,g,11,g,0,g,0,g,35,g
+771,bds mongolian grill,pad thai with shrimp 6 oz,21,g,410,mg,4890,g,138,g,60,g,4,g,0,g,0,g,35,g
+772,bds mongolian grill,pad thai with shrimp 8 oz,22,g,495,mg,4970,g,139,g,71,g,4,g,0,g,0,g,35,g
+773,bds mongolian grill,pad thai with tofu 6 oz,23,g,170,mg,4640,g,143,g,44,g,5,g,0,g,0,g,35,g
+774,bds mongolian grill,pad thai with tofu 8 oz,24,g,170,mg,4640,g,145,g,50,g,5,g,0,g,0,g,35,g
+775,bds mongolian grill,parmesan cheese,8,g,20,mg,470,g,1,g,11,g,5,g,0,g,0,g,0,g
+776,bds mongolian grill,pasta,4,g,0,mg,530,g,42,g,7,g,1,g,0,g,0,g,2,g
+777,bds mongolian grill,pea pods,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,0,g,0,g
+778,bds mongolian grill,peanuts,5,g,0,mg,0,g,1,g,0,g,1,g,0,g,0,g,0,g
+779,bds mongolian grill,peas,0,g,0,mg,25,g,5,g,2,g,0,g,0,g,0,g,1,g
+780,bds mongolian grill,pepperoncini,0,g,0,mg,320,g,2,g,0,g,0,g,0,g,0,g,0,g
+781,bds mongolian grill,pineapple,0,g,0,mg,5,g,8,g,0,g,0,g,0,g,0,g,7,g
+782,bds mongolian grill,pork,8,g,50,mg,240,g,0,g,17,g,3,g,0,g,0,g,0,g
+783,bds mongolian grill,potstickers,22,g,35,mg,1620,g,49,g,16,g,5,g,0,g,0,g,16,g
+784,bds mongolian grill,ranch dressing,9,g,5,mg,105,g,1,g,1,g,2,g,0,g,0,g,1,g
+785,bds mongolian grill,raspberry vinaigrette fat free dressing,0,g,0,mg,60,g,6,g,0,g,0,g,0,g,0,g,5,g
+786,bds mongolian grill,red cabbage,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+787,bds mongolian grill,red peppers,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+788,bds mongolian grill,red peppers canned,0,g,0,mg,70,g,2,g,1,g,0,g,0,g,0,g,1,g
+789,bds mongolian grill,red skin potatoes,0,g,0,mg,5,g,6,g,1,g,0,g,0,g,0,g,0,g
+790,bds mongolian grill,red wine vinegar dressing,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+791,bds mongolian grill,ribeye beef,9,g,55,mg,55,g,0,g,18,g,4,g,0,g,0,g,0,g
+792,bds mongolian grill,rice noodle,0,g,0,mg,25,g,48,g,3,g,0,g,0,g,0,g,0,g
+793,bds mongolian grill,roasted red pepper and smoked gouda bisque soup,6,g,20,mg,270,g,8,g,4,g,4,g,0,g,0,g,5,g
+794,bds mongolian grill,romaine lettuce,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,0,g,1,g
+795,bds mongolian grill,rosemary,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+796,bds mongolian grill,salad mix,0,g,0,mg,20,g,3,g,1,g,0,g,0,g,0,g,1,g
+797,bds mongolian grill,sausage,17,g,65,mg,860,g,3,g,9,g,7,g,0,g,0,g,2,g
+798,bds mongolian grill,savory bacon sauce,0,g,0,mg,150,g,5,g,0,g,0,g,0,g,0,g,3,g
+799,bds mongolian grill,scallops,0,g,30,mg,500,g,4,g,15,g,0,g,0,g,0,g,0,g
+800,bds mongolian grill,seafood chowder soup,6,g,15,mg,460,g,6,g,3,g,3,g,0,g,0,g,1,g
+801,bds mongolian grill,seasoning salt,0,g,0,mg,1560,g,0,g,0,g,0,g,0,g,0,g,0,g
+802,bds mongolian grill,sesame ginger dressing,14,g,0,mg,200,g,7,g,1,g,0,g,0,g,0,g,6,g
+803,bds mongolian grill,sesame ginger sauce sauce,0,g,0,mg,140,g,4,g,0,g,0,g,0,g,0,g,3,g
+804,bds mongolian grill,sesame seeds,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+805,bds mongolian grill,shareable chicken tenders tossed in korean bbq with ranch dressing,46,g,50,mg,1780,g,32,g,21,g,8,g,0,g,0,g,13,g
+806,bds mongolian grill,shareable chicken tenders tossed in mongolian ginger with ranch dressing,45,g,50,mg,2180,g,36,g,21,g,8,g,0,g,0,g,17,g
+807,bds mongolian grill,shareable chicken tenders tossed in spicy buffalo with ranch dressing,53,g,50,mg,1470,g,21,g,20,g,9,g,0,g,0,g,6,g
+808,bds mongolian grill,shareable chicken tenders with ranch,44,g,50,mg,1160,g,21,g,20,g,8,g,0,g,0,g,6,g
+809,bds mongolian grill,shareable trio with crab rangoons,13,g,25,mg,450,g,35,g,6,g,4,g,0,g,0,g,10,g
+810,bds mongolian grill,shareable trio with egg rolls,28,g,40,mg,1790,g,51,g,15,g,6,g,0,g,0,g,15,g
+811,bds mongolian grill,shareable trio with jalapeno mozzarella sticks,42,g,40,mg,950,g,21,g,14,g,11,g,0,g,0,g,3,g
+812,bds mongolian grill,shareable trio with potstickers,12,g,20,mg,1130,g,30,g,9,g,3,g,0,g,0,g,11,g
+813,bds mongolian grill,shareable trio with spinach and artichoke wontons,19,g,10,mg,300,g,14,g,4,g,6,g,0,g,0,g,0,g
+814,bds mongolian grill,shareable trio with sriracha chicken bites,42,g,40,mg,1270,g,38,g,13,g,8,g,0,g,0,g,17,g
+815,bds mongolian grill,shiitake mushroom sauce,0,g,0,mg,390,g,5,g,1,g,0,g,0,g,0,g,4,g
+816,bds mongolian grill,shrimp,3,g,180,mg,180,g,1,g,26,g,0,g,0,g,0,g,0,g
+817,bds mongolian grill,southwest corn chowder soup,11,g,30,mg,620,g,9,g,4,g,6,g,0,g,0,g,1,g
+818,bds mongolian grill,southwestern marinated pork,8,g,50,mg,560,g,0,g,17,g,3,g,0,g,0,g,0,g
+819,bds mongolian grill,soy sauce,0,g,0,mg,510,g,1,g,1,g,0,g,0,g,0,g,0,g
+820,bds mongolian grill,spicy buffalo sauce,4,g,0,mg,120,g,0,g,0,g,0,g,0,g,0,g,0,g
+821,bds mongolian grill,spicy chili garlic bowl beef 6 oz,14,g,105,mg,2730,g,21,g,36,g,9,g,0,g,0,g,10,g
+822,bds mongolian grill,spicy chili garlic bowl beef 8 oz,35,g,140,mg,2770,g,21,g,47,g,11,g,0,g,0,g,10,g
+823,bds mongolian grill,spicy chili garlic bowl chicken 6 oz,15,g,95,mg,2740,g,21,g,41,g,2,g,0,g,0,g,10,g
+824,bds mongolian grill,spicy chili garlic bowl chicken 8 oz,16,g,130,mg,2780,g,21,g,54,g,2,g,0,g,0,g,10,g
+825,bds mongolian grill,spicy chili garlic bowl pork 6 oz,28,g,90,mg,3070,g,21,g,33,g,7,g,0,g,0,g,10,g
+826,bds mongolian grill,spicy chili garlic bowl pork 8 oz,33,g,120,mg,3220,g,21,g,43,g,9,g,0,g,0,g,10,g
+827,bds mongolian grill,spicy chili garlic bowl shrimp 6 oz,16,g,245,mg,2870,g,22,g,37,g,2,g,0,g,0,g,10,g
+828,bds mongolian grill,spicy chili garlic bowl shrimp 8 oz,17,g,325,mg,2950,g,23,g,49,g,2,g,0,g,0,g,10,g
+829,bds mongolian grill,spicy chili garlic bowl tofu 6 oz,17,g,0,mg,2630,g,27,g,22,g,3,g,0,g,0,g,10,g
+830,bds mongolian grill,spicy chili garlic bowl tofu 8 oz,18,g,0,mg,2630,g,29,g,28,g,3,g,0,g,0,g,10,g
+831,bds mongolian grill,spinach,0,g,0,mg,45,g,2,g,1,g,0,g,0,g,0,g,0,g
+832,bds mongolian grill,spinach artichoke wontons,38,g,20,mg,600,g,28,g,8,g,12,g,0,g,0,g,0,g
+833,bds mongolian grill,squash and zucchini,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,0,g,1,g
+834,bds mongolian grill,sriracha chicken bites,54,g,55,mg,2020,g,57,g,18,g,11,g,0,g,0,g,3,g
+835,bds mongolian grill,sriracha marinated chicken,8,g,60,mg,370,g,6,g,24,g,2,g,0,g,0,g,5,g
+836,bds mongolian grill,steak and mushroom soup,6,g,10,mg,500,g,5,g,3,g,2,g,0,g,0,g,1,g
+837,bds mongolian grill,strawberry lemon parfait,45,g,95,mg,290,g,71,g,4,g,30,g,0,g,0,g,55,g
+838,bds mongolian grill,strawberry topping,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,0,g,11,g
+839,bds mongolian grill,sundae kids caramel,14,g,65,mg,140,g,46,g,3,g,10,g,0,g,0,g,36,g
+840,bds mongolian grill,sundae kids hot fudge,17,g,65,mg,170,g,46,g,4,g,13,g,0,g,0,g,26,g
+841,bds mongolian grill,sundae kids strawberry,13,g,65,mg,70,g,40,g,3,g,9,g,0,g,0,g,33,g
+842,bds mongolian grill,sunflower seeds,9,g,0,mg,70,g,4,g,3,g,1,g,0,g,0,g,1,g
+843,bds mongolian grill,swai,1,g,30,mg,550,g,0,g,14,g,0,g,0,g,0,g,0,g
+844,bds mongolian grill,sweet and sour fried chicken,38,g,55,mg,3030,g,15,g,35,g,7,g,0,g,0,g,70,g
+845,bds mongolian grill,sweet and sour grilled chicken,13,g,95,mg,1880,g,0,g,49,g,3,g,0,g,0,g,64,g
+846,bds mongolian grill,sweet and sour sauce,0,g,0,mg,85,g,8,g,0,g,0,g,0,g,0,g,8,g
+847,bds mongolian grill,teriyaki sauce,0,g,0,mg,300,g,7,g,0,g,0,g,0,g,0,g,5,g
+848,bds mongolian grill,teriyaki beef 6 oz,22,g,105,mg,2170,g,43,g,38,g,8,g,0,g,0,g,30,g
+849,bds mongolian grill,teriyaki beef 8 oz,27,g,140,mg,2210,g,43,g,49,g,10,g,0,g,0,g,0,g
+850,bds mongolian grill,teriyaki chicken 6 oz,7,g,95,mg,2180,g,43,g,44,g,1,g,0,g,0,g,30,g
+851,bds mongolian grill,teriyaki chicken 8 oz,8,g,130,mg,2220,g,43,g,57,g,1,g,0,g,0,g,30,g
+852,bds mongolian grill,teriyaki pork 6 oz,20,g,90,mg,2510,g,43,g,35,g,6,g,0,g,0,g,30,g
+853,bds mongolian grill,teriyaki pork 8 oz,25,g,120,mg,2650,g,43,g,45,g,8,g,0,g,0,g,30,g
+854,bds mongolian grill,teriyaki shrimp 6 oz,9,g,345,mg,2310,g,45,g,40,g,1,g,0,g,0,g,30,g
+855,bds mongolian grill,teriyaki shrimp 8 oz,11,g,325,mg,2390,g,45,g,51,g,1,g,0,g,0,g,30,g
+856,bds mongolian grill,teriyaki tofu 6 oz,8,g,0,mg,2070,g,49,g,34,g,2,g,0,g,0,g,30,g
+857,bds mongolian grill,teriyaki tofu 8 oz,9,g,0,mg,2070,g,51,g,30,g,2,g,0,g,0,g,30,g
+858,bds mongolian grill,thai coconut curry soup,3,g,0,mg,370,g,8,g,1,g,3,g,0,g,0,g,2,g
+859,bds mongolian grill,thai peanut sauce,4,g,0,mg,180,g,7,g,1,g,0,g,0,g,0,g,6,g
+860,bds mongolian grill,the shareable trio chicken sriracha bites egg rolls and crab rangoons,91,g,105,mg,2500,g,105,g,33,g,21,g,0,g,0,g,26,g
+861,bds mongolian grill,tilapia,2,g,60,mg,65,g,0,g,24,g,1,g,0,g,0,g,0,g
+862,bds mongolian grill,tofu,2,g,0,mg,0,g,3,g,9,g,0,g,0,g,0,g,0,g
+863,bds mongolian grill,tomato,0,g,0,mg,100,g,3,g,1,g,0,g,0,g,0,g,2,g
+864,bds mongolian grill,tomato parmesan soup,4,g,10,mg,570,g,12,g,7,g,3,g,0,g,0,g,7,g
+865,bds mongolian grill,tortilla 6 inch,2,g,0,mg,180,g,12,g,2,g,1,g,0,g,0,g,0,g
+866,bds mongolian grill,tortillas,2,g,0,mg,180,g,12,g,2,g,1,g,0,g,0,g,0,g
+867,bds mongolian grill,tuscan marinated chicken,6,g,65,mg,770,g,1,g,26,g,1,g,0,g,0,g,0,g
+868,bds mongolian grill,veggie power blend,0,g,0,mg,20,g,0,g,1,g,0,g,0,g,0,g,1,g
+869,bds mongolian grill,water chestnuts,0,g,0,mg,15,g,6,g,1,g,0,g,0,g,0,g,2,g
+870,bds mongolian grill,whipped topping,2,g,0,mg,0,g,2,g,0,g,2,g,0,g,0,g,2,g
+871,bds mongolian grill,white rice,0,g,0,mg,200,g,29,g,3,g,0,g,0,g,0,g,0,g
+872,bds mongolian grill,white rice side,0,g,0,mg,200,g,29,g,3,g,0,g,0,g,0,g,0,g
+873,bds mongolian grill,wild berry chicken salad,12,g,70,mg,710,g,4,g,34,g,3,g,0,g,0,g,11,g
+874,bds mongolian grill,yakisoba,3,g,0,mg,250,g,45,g,8,g,0,g,0,g,0,g,1,g
+875,bds mongolian grill,yum yum sauce sauce,15,g,10,mg,90,g,1,g,0,g,3,g,0,g,0,g,1,g
+876,beard papas,vanilla custard cream puff,13,g,80,mg,140,g,22,g,4,g,6,g,0,g,1,g,7,g
+877,beard papas,fondant au chocolate puff,19,g,105,mg,115,g,42,g,8,g,7,g,0,g,4,g,12,g
+878,beef o bradys,grilled buffalo chicken wrap with fries,39,g,60,mg,2490,g,106,g,36,g,13,g,0,g,7,g,1,g
+879,beef o bradys,cheeseburger wrap with fries,69,g,110,mg,4140,g,106,g,37,g,23,g,0,g,7,g,1,g
+880,beef o bradys,grilled chicken wrap without ranch dressing with fries,62,g,95,mg,2610,g,106,g,35,g,17,g,0,g,7,g,2,g
+881,beef o bradys,buffalo chicken wrap without blue cheese dressing with fries,47,g,60,mg,3020,g,118,g,34,g,14,g,0,g,7,g,1,g
+882,beef o bradys,club wrap without ranch dressing with fries,63,g,135,mg,3240,g,107,g,50,g,18,g,0,g,7,g,4,g
+883,beef o bradys,spinach artichoke dip with tortilla chips,46,g,45,mg,3070,g,121,g,33,g,17,g,0,g,9,g,13,g
+884,beef o bradys,steak nachos,69,g,185,mg,4760,g,117,g,63,g,30,g,1.5,g,8,g,6,g
+885,beef o bradys,boom boom shrimp,65,g,200,mg,2750,g,65,g,23,g,9,g,0,g,4,g,11,g
+886,beef o bradys,buffalo chicken dip with tortilla chips,48,g,105,mg,3900,g,121,g,41,g,20,g,0,g,6,g,8,g
+887,beef o bradys,chicken quesadilla,49,g,190,mg,2160,g,57,g,52,g,29,g,0,g,3,g,2,g
+888,beef o bradys,steak quesadilla,65,g,235,mg,2980,g,57,g,67,g,36,g,0,g,3,g,2,g
+889,beef o bradys,fried mozzarella,39,g,90,mg,2340,g,64,g,30,g,17,g,1,g,3,g,8,g
+890,beef o bradys,chips and salsa,15,g,0,mg,2180,g,103,g,13,g,1.5,g,0,g,8,g,3,g
+891,beef o bradys,chicken nachos,53,g,140,mg,3940,g,117,g,48,g,23,g,1.5,g,8,g,6,g
+892,beef o bradys,hand breaded fried pickles,33,g,20,mg,5290,g,54,g,8,g,6,g,0,g,2,g,4,g
+893,beef o bradys,cheesy bacon pub chips,99,g,155,mg,5790,g,64,g,31,g,30,g,0,g,4,g,2,g
+894,beef o bradys,cheese quesadilla,47,g,150,mg,1650,g,55,g,38,g,29,g,0,g,3,g,1,g
+895,beef o bradys,queso dip and chips,39,g,60,mg,2620,g,110,g,28,g,14,g,1.5,g,6,g,3,g
+896,beef o bradys,basket of straight fries with cheese,49,g,60,mg,2230,g,100,g,22,g,17,g,0,g,8,g,0,g
+897,beef o bradys,appetizer combo wings and onion rings with celery without sauce or dry rub,40,g,55,mg,1800,g,76,g,24,g,8,g,0,g,5,g,10,g
+898,beef o bradys,appetizer combo wings and jalapeno corn fritters with celery without dry rub or sauce,47,g,75,mg,2080,g,69,g,29,g,11,g,0,g,4,g,7,g
+899,beef o bradys,beer battered onion rings,79,g,25,mg,2330,g,127,g,10,g,15,g,0.5,g,10,g,28,g
+900,beef o bradys,basket of straight fries,33,g,0,mg,1880,g,100,g,8,g,7,g,0,g,8,g,0,g
+901,beef o bradys,appetizer combo wings and fried mozzarella with cheese sticks pizza sauce and celery without dry rub,36,g,100,mg,3725,g,53,g,35,g,12,g,0.5,g,3,g,6,g
+902,beef o bradys,basket of straight fries with chili,41,g,20,mg,2260,g,109,g,15,g,10,g,0.5,g,10,g,2,g
+903,beef o bradys,appetizer combo wings and fried pickles with celery without dry rub or wing sauce,23,g,55,mg,3510,g,45,g,23,g,4.5,g,0,g,2,g,2,g
+904,beef o bradys,appetizer combo wings and fried mozzarella with celery and cheese sticks without sauce or dry rub,34,g,100,mg,3530,g,49,g,34,g,12,g,0.5,g,2,g,4,g
+905,beef o bradys,appetizer combo wings and jalapeno corn fritters includes celery without sauce,47,g,75,mg,2080,g,69,g,29,g,11,g,0,g,4,g,7,g
+906,beef o bradys,combo appetizer without dips,77,g,180,mg,3950,g,143,g,69,g,29,g,0.5,g,8,g,13,g
+907,beef o bradys,appetizer combo traditional wings and onion rings with celery without dry rub or sauce,61,g,125,mg,920,g,58,g,36,g,14,g,0,g,5,g,10,g
+908,beef o bradys,chocolate shake regular,12,g,30,mg,95,g,95,g,5,g,8,g,0,g,3,g,86,g
+909,beef o bradys,strawberry smoothie kids,0,g,5,mg,120,g,59,g,3,g,0,g,0,g,2,g,44,g
+910,beef o bradys,raspberry strawberry mango flavored lemonade,0,g,0,mg,10,g,35,g,0,g,0,g,0,g,0,g,34,g
+911,beef o bradys,strawberry smoothie,0,g,5,mg,250,g,94,g,7,g,0,g,0,g,0,g,88,g
+912,beef o bradys,pina colada smoothie,5,g,5,mg,270,g,66,g,7,g,4.5,g,0,g,0,g,59,g
+913,beef o bradys,strawberry shake kids,9,g,25,mg,45,g,66,g,2,g,7,g,0,g,0,g,64,g
+914,beef o bradys,lemon tea twister,0,g,0,mg,5,g,20,g,0,g,0,g,0,g,0,g,20,g
+915,beef o bradys,raspberry or strawberry flavored tea,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,17,g
+916,beef o bradys,vanilla shake regular,15,g,45,mg,75,g,27,g,3,g,10,g,0,g,0,g,23,g
+917,beef o bradys,strawberry shake regular,11,g,30,mg,60,g,95,g,2,g,8,g,0,g,0,g,92,g
+918,beef o bradys,the steak burrito with tortilla chips and salsa,87,g,145,mg,4120,g,145,g,53,g,25,g,1.5,g,10,g,5,g
+919,beef o bradys,traditional mild wings with celery,47,g,170,mg,890,g,5,g,42,g,12,g,0,g,1,g,1,g
+920,beef o bradys,traditional garlic parmesan wings with celery,79,g,170,mg,1290,g,11,g,44,g,18,g,0,g,1,g,3,g
+921,beef o bradys,traditional dry rub blackened wings with celery,69,g,170,mg,1270,g,5,g,43,g,16,g,6,g,2,g,1,g
+922,beef o bradys,boneless dry rub lemon pepper wings with celery,42,g,75,mg,2670,g,28,g,26,g,8,g,6,g,2,g,2,g
+923,beef o bradys,traditional nashville hot wings with celery,71,g,170,mg,1550,g,7,g,43,g,17,g,6,g,2,g,3,g
+924,beef o bradys,boneless honey bbq wings with celery,20,g,75,mg,2200,g,77,g,26,g,4,g,0,g,1,g,46,g
+925,beef o bradys,boneless hot wings with celery,20,g,75,mg,3370,g,29,g,26,g,4,g,0,g,1,g,1,g
+926,beef o bradys,nashville hot chicken tender basket with fries and slaw without dressing,66,g,105,mg,4300,g,103,g,46,g,14,g,6,g,8,g,14,g
+927,beef o bradys,traditional sweet jalapeno wings with celery,48,g,170,mg,730,g,28,g,43,g,12,g,0,g,2,g,22,g
+928,beef o bradys,chicken bowl with quinoa,59,g,95,mg,1520,g,66,g,37,g,12,g,0.5,g,5,g,7,g
+929,beef o bradys,boneless nuclear wing basket with fries and coleslaw,54,g,90,mg,5790,g,98,g,32,g,11,g,0,g,9,g,16,g
+930,beef o bradys,boneless garlic parmesan wings with celery,68,g,75,mg,2980,g,38,g,29,g,13,g,0,g,1,g,4,g
+931,beef o bradys,boneless nashville hot wings with celery,43,g,75,mg,2720,g,30,g,27,g,9,g,6,g,2,g,3,g
+932,beef o bradys,boneless dry rub blackened wings with celery,42,g,75,mg,2440,g,28,g,26,g,8,g,6,g,2,g,1,g
+933,beef o bradys,traditional garlic parmesan wing basket with fries and coleslaw,105,g,175,mg,2420,g,71,g,49,g,23,g,0,g,6,g,12,g
+934,beef o bradys,traditional dry rub lemon pepper wing basket with fries and coleslaw,102,g,185,mg,2880,g,73,g,48,g,23,g,6,g,8,g,17,g
+935,beef o bradys,boneless dry rub lemon pepper wing basket with fries and coleslaw,75,g,90,mg,4040,g,97,g,31,g,15,g,6,g,8,g,17,g
+936,beef o bradys,traditional kentucky bourbon wings with celery,47,g,170,mg,870,g,35,g,42,g,12,g,0,g,1,g,29,g
+937,beef o bradys,traditional mango habanero wings with celery,48,g,170,mg,510,g,35,g,43,g,12,g,0,g,2,g,28,g
+938,beef o bradys,traditional plain wings with celery without sauce,47,g,170,mg,230,g,3,g,42,g,12,g,0,g,1,g,1,g
+939,beef o bradys,traditional dry rub lemon pepper wings with celery,69,g,170,mg,1500,g,5,g,42,g,16,g,6,g,2,g,2,g
+940,beef o bradys,boneless teriyaki wings with celery,20,g,75,mg,3420,g,78,g,28,g,4,g,0,g,1,g,47,g
+941,beef o bradys,traditional signature buffalo wings with celery,59,g,170,mg,970,g,5,g,42,g,14,g,0,g,1,g,1,g
+942,beef o bradys,traditional honey bbq wings with celery,47,g,170,mg,770,g,37,g,42,g,12,g,0,g,1,g,31,g
+943,beef o bradys,traditional mild wing basket with fries and coleslaw,80,g,185,mg,2190,g,70,g,47,g,19,g,0,g,6,g,15,g
+944,beef o bradys,appetizer combo traditional wings fried mozzarella with cheese sticks and celery without sauce or dry rub,54,g,170,mg,1230,g,32,g,46,g,18,g,0.5,g,2,g,4,g
+945,beef o bradys,traditional teriyaki wings with celery,47,g,170,mg,1580,g,37,g,44,g,12,g,0,g,1,g,32,g
+946,beef o bradys,traditional plain wing basket with fries and coleslaw without sauce,80,g,185,mg,1530,g,68,g,47,g,19,g,0,g,6,g,15,g
+947,beef o bradys,traditional mango habanero wing basket with fries and coleslaw,81,g,185,mg,1810,g,101,g,47,g,19,g,0,g,7,g,42,g
+948,beef o bradys,boneless hot wing basket with fries and coleslaw,53,g,90,mg,4680,g,95,g,30,g,10,g,0,g,6,g,15,g
+949,beef o bradys,boneless garlic parmesan wing basket with fries and coleslaw,94,g,80,mg,4120,g,99,g,33,g,18,g,0,g,6,g,13,g
+950,beef o bradys,boneless medium wings with celery,20,g,75,mg,3220,g,29,g,26,g,4,g,0,g,1,g,1,g
+951,beef o bradys,traditional nuclear wing basket includes fries and coleslaw,81,g,185,mg,3690,g,73,g,48,g,19,g,0,g,8,g,16,g
+952,beef o bradys,boneless dry rub blackened wing basket with fries and coleslaw,75,g,90,mg,3810,g,97,g,32,g,14,g,6,g,8,g,16,g
+953,beef o bradys,traditional medium wing basket with fries and coleslaw,80,g,185,mg,2750,g,70,g,47,g,19,g,0,g,6,g,15,g
+954,beef o bradys,boneless mango habanero wing basket with fries and coleslaw,53,g,90,mg,3120,g,141,g,31,g,10,g,0,g,7,g,55,g
+955,beef o bradys,boneless dry rub nashville hot wing basket with fries and coleslaw,69,g,80,mg,3920,g,94,g,32,g,14,g,6,g,8,g,13,g
+956,beef o bradys,boneless sweet jalapeno wings with celery,21,g,75,mg,2150,g,64,g,27,g,4,g,0,g,2,g,32,g
+957,beef o bradys,appetizer combo traditional wings and fried pickles with celery without sauce or dry rub,43,g,130,mg,2630,g,28,g,35,g,11,g,0,g,2,g,2,g
+958,beef o bradys,traditional dry rub nashville hot wing basket with fries and coleslaw,97,g,175,mg,2760,g,70,g,48,g,22,g,6,g,8,g,13,g
+959,beef o bradys,chicken bowl with rice,64,g,95,mg,1940,g,79,g,33,g,13,g,3,g,5,g,7,g
+960,beef o bradys,boneless signature buffalo wings with celery,38,g,75,mg,2500,g,29,g,26,g,7,g,0,g,1,g,1,g
+961,beef o bradys,boneless honey bbq wing basket with fries and coleslaw,53,g,90,mg,3510,g,143,g,30,g,10,g,0,g,6,g,60,g
+962,beef o bradys,traditional honey bbq wing basket with fries and coleslaw,80,g,185,mg,2070,g,102,g,47,g,19,g,0,g,6,g,45,g
+963,beef o bradys,boneless sweet jalapeno wing basket with fries and coleslaw,54,g,90,mg,3460,g,130,g,31,g,11,g,0,g,7,g,46,g
+964,beef o bradys,hand breaded chicken tender basket with fries and coleslaw without dressing,50,g,110,mg,3140,g,104,g,45,g,10,g,0,g,7,g,17,g
+965,beef o bradys,boneless spicy garlic wing basket with fries and coleslaw,57,g,90,mg,3780,g,94,g,31,g,11,g,0,g,6,g,16,g
+966,beef o bradys,boneless medium wing basket with fries and coleslaw,53,g,90,mg,4530,g,95,g,30,g,10,g,0,g,6,g,15,g
+967,beef o bradys,boneless mild wings with celery,20,g,75,mg,2380,g,29,g,26,g,4,g,0,g,1,g,1,g
+968,beef o bradys,boneless mango habenero wings with celery,20,g,75,mg,1810,g,75,g,27,g,4,g,0,g,3,g,42,g
+969,beef o bradys,traditional spicy garlic wings with celery,50,g,170,mg,950,g,4,g,43,g,13,g,0,g,2,g,2,g
+970,beef o bradys,traditional nuclear wings with celery,48,g,170,mg,2290,g,7,g,43,g,12,g,0,g,3,g,2,g
+971,beef o bradys,traditional sweet jalapeno wing basket with fries and coleslaw,81,g,185,mg,2040,g,94,g,47,g,19,g,0,g,6,g,35,g
+972,beef o bradys,boneless teriyaki wing basket with fries and coleslaw,53,g,90,mg,4730,g,143,g,33,g,10,g,0,g,6,g,61,g
+973,beef o bradys,traditional nuclear wing basket with fries and coleslaw,81,g,185,mg,3590,g,73,g,48,g,19,g,0,g,8,g,16,g
+974,beef o bradys,traditional teriyaki wing basket with fries and coleslaw,80,g,185,mg,2880,g,103,g,48,g,19,g,0,g,6,g,46,g
+975,beef o bradys,boneless mild wing basket with fries and coleslaw,53,g,90,mg,3690,g,95,g,30,g,10,g,0,g,6,g,15,g
+976,beef o bradys,traditional nuclear wing challenge,91,g,315,mg,4420,g,8,g,80,g,23,g,0,g,4,g,2,g
+977,beef o bradys,boneless signature buffalo wing basket with fries and coleslaw,71,g,90,mg,3810,g,95,g,30,g,13,g,0,g,6,g,15,g
+978,beef o bradys,boneless nuclear wing challenge,39,g,135,mg,6610,g,53,g,49,g,8,g,0,g,4,g,2,g
+979,beef o bradys,traditional spicy garlic wing basket with fries and coleslaw,83,g,185,mg,2250,g,70,g,47,g,19,g,0,g,6,g,15,g
+980,beef o bradys,traditional dry rub blackened wing basket with fries and coleslaw,103,g,185,mg,2650,g,73,g,48,g,23,g,6,g,8,g,16,g
+981,beef o bradys,boneless nuclear wings with celery,21,g,75,mg,4480,g,32,g,27,g,4,g,0,g,4,g,3,g
+982,beef o bradys,traditional x hot wings with celery,48,g,170,mg,1240,g,5,g,42,g,12,g,0,g,2,g,2,g
+983,beef o bradys,traditional wings with celery,47,g,170,mg,230,g,3,g,42,g,12,g,0,g,1,g,1,g
+984,beef o bradys,boneless spicy garlicwings with celery,24,g,75,mg,2470,g,28,g,26,g,4.5,g,0,g,2,g,2,g
+985,beef o bradys,traditional signature buffalo wing basket with fries and coleslaw,92,g,185,mg,2270,g,70,g,47,g,21,g,0,g,6,g,15,g
+986,beef o bradys,traditional medium wings with celery,47,g,170,mg,1450,g,5,g,42,g,12,g,0,g,1,g,1,g
+987,beef o bradys,boneless wings without sauce with celery,20,g,75,mg,1390,g,26,g,26,g,4,g,0,g,1,g,1,g
+988,beef o bradys,boneless x hot wings with celery,20,g,75,mg,2910,g,30,g,26,g,4,g,0,g,2,g,1,g
+989,beef o bradys,boneless plain wing basket wotj fries and coleslaw without sauce,53,g,90,mg,2700,g,92,g,30,g,10,g,0,g,6,g,15,g
+990,beef o bradys,traditional hot wing basket with fries and coleslaw,80,g,185,mg,2850,g,70,g,47,g,19,g,0,g,6,g,15,g
+991,beef o bradys,boneless x hot wing basket with fries and coleslaw,53,g,90,mg,4530,g,95,g,30,g,10,g,0,g,6,g,15,g
+992,beef o bradys,traditional hot wings with celery,47,g,170,mg,1550,g,5,g,42,g,12,g,0,g,1,g,1,g
+993,beef o bradys,add on salsa,0,g,0,mg,200,g,1,g,0,g,0,g,0,g,0,g,1,g
+994,beef o bradys,sour cream,7.5,g,30,mg,15,g,1.5,g,1.5,g,5.3,g,0,g,0,g,1.5,g
+995,beef o bradys,funnel fries,25,g,55,mg,480,g,141,g,8,g,9,g,0,g,2,g,96,g
+996,beef o bradys,chocolate molten cake,35,g,50,mg,440,g,76,g,8,g,19,g,0,g,4,g,55,g
+997,beef o bradys,chocolate molten cake with ice cream,43,g,80,mg,490,g,92,g,10,g,24,g,0,g,4,g,67,g
+998,beef o bradys,ice cream,8,g,30,mg,50,g,15,g,2,g,5,g,0,g,0,g,12,g
+999,beef o bradys,chicken fajitas with tortillas cheddar jack cheese salsa and sour cream,40,g,120,mg,2890,g,61,g,38,g,17,g,0,g,7,g,7,g

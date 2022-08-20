@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,salsaritas fresh cantina,kids sprite,0,g,0,mg,0,g,31,g,31,g,0,g,0,g,35,g,0,g
+1,salsaritas fresh cantina,kids sweet tea,0,g,0,mg,0,g,0,g,48,g,0,g,0,g,48,g,0,g
+2,salsaritas fresh cantina,larger,0,g,0,mg,0,g,28,g,1,g,0,g,0,g,17,g,0,g
+3,salsaritas fresh cantina,marinated chicken,1,g,0,mg,20,g,240,g,0,g,0,g,0,g,1,g,0,g
+4,salsaritas fresh cantina,mexican rice,0,g,0,mg,0,g,90,g,0,g,0,g,0,g,8,g,0,g
+5,salsaritas fresh cantina,minute maid lemonade,0,g,0,mg,0,g,21,g,86,g,0,g,0,g,90,g,0,g
+6,salsaritas fresh cantina,minute maid light lemonade,0,g,0,mg,0,g,45,g,6,g,0,g,0,g,12,g,0,g
+7,salsaritas fresh cantina,pale ale,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,17,g,0,g
+8,salsaritas fresh cantina,pickled jalapenos,0,g,0,mg,0,g,300,g,1,g,0,g,0,g,1,g,1,g
+9,salsaritas fresh cantina,poquito,3.5,g,0,mg,0,g,80,g,3,g,1.5,g,0,g,11,g,1,g
+10,salsaritas fresh cantina,pork,1,g,0,mg,15,g,150,g,0,g,0,g,0,g,0,g,0,g
+11,salsaritas fresh cantina,queso 1oz,5,g,0,mg,15,g,191,g,0,g,3,g,0,g,1,g,0,g
+12,salsaritas fresh cantina,queso 2oz,0,g,0,mg,0,g,90,g,0,g,0,g,0,g,2,g,0,g
+13,salsaritas fresh cantina,queso 4oz,20,g,0,mg,55,g,762,g,0,g,12,g,0,g,6,g,0,g
+14,salsaritas fresh cantina,red onions,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,3,g,0,g
+15,salsaritas fresh cantina,refried beans,5,g,0,mg,0,g,110,g,0,g,0,g,0,g,5,g,2,g
+16,salsaritas fresh cantina,romaine lettuce,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+17,salsaritas fresh cantina,root beer,0,g,0,mg,0,g,140,g,0,g,0,g,0,g,90,g,0,g
+18,salsaritas fresh cantina,salsa pineapple seasonal,0,g,0,mg,0,g,90,g,2,g,0,g,0,g,3,g,0,g
+19,salsaritas fresh cantina,shredded cheese,1.5,g,0,mg,0,g,30,g,0,g,1,g,0,g,0,g,0,g
+20,salsaritas fresh cantina,shredded lettuce,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+21,salsaritas fresh cantina,shrimp,0.5,g,0,mg,25,g,180,g,0,g,0,g,0,g,0,g,0,g
+22,salsaritas fresh cantina,sour cream,5,g,0,mg,20,g,15,g,1,g,3.5,g,0,g,1,g,0,g
+23,salsaritas fresh cantina,sprite,0,g,0,mg,0,g,62,g,62,g,0,g,0,g,69,g,0,g
+24,salsaritas fresh cantina,steak,1.5,g,0,mg,10,g,75,g,0,g,0,g,0,g,0,g,0,g
+25,salsaritas fresh cantina,sweet tea,0,g,0,mg,0,g,0,g,96,g,0,g,0,g,96,g,0,g
+26,salsaritas fresh cantina,taco salad shell,24,g,0,mg,0,g,320,g,0,g,5,g,0,g,39,g,1,g
+27,salvatores old fashioned pizzeria,alfredo not my brother pizza large,8,g,35,mg,610,g,28,g,14,g,4,g,0,g,9,g,1,g
+28,salvatores old fashioned pizzeria,alfredo not my brother pizza medium,9,g,35,mg,660,g,30,g,15,g,4,g,0,g,10,g,1,g
+29,salvatores old fashioned pizzeria,alfredo not my brother pizza ny 19 inch,20,g,80,mg,1340,g,57,g,30,g,9,g,0,g,18,g,3,g
+30,salvatores old fashioned pizzeria,alfredo not my brother pizza sheet,7,g,25,mg,540,g,27,g,12,g,3,g,0,g,9,g,1,g
+31,salvatores old fashioned pizzeria,antipasto salad,25,g,70,mg,1900,g,18,g,23,g,8,g,0,g,8,g,5,g
+32,salvatores old fashioned pizzeria,bbq wings,42,g,235,mg,1300,g,26,g,49,g,11,g,0,g,2,g,0,g
+33,salvatores old fashioned pizzeria,blue cheese dressing cup,32,g,30,mg,520,g,2,g,3,g,6,g,0,g,0,g,1,g
+34,salvatores old fashioned pizzeria,blue cheese dressing packet,24,g,20,mg,320,g,2,g,1,g,4.5,g,0,g,0,g,2,g
+35,salvatores old fashioned pizzeria,boneless bbq wings,13,g,65,mg,490,g,9,g,13,g,3.5,g,0,g,0,g,1,g
+36,salvatores old fashioned pizzeria,boneless country sweet wings,8,g,35,mg,770,g,20,g,17,g,1.5,g,0,g,0,g,4,g
+37,salvatores old fashioned pizzeria,boneless hot wings,8,g,35,mg,750,g,20,g,17,g,1.5,g,0,g,0,g,5,g
+38,salvatores old fashioned pizzeria,boneless mild wings,9,g,35,mg,1000,g,15,g,15,g,1.5,g,0,g,0,g,0,g
+39,salvatores old fashioned pizzeria,buffalo chicken salad,45,g,180,mg,1860,g,63,g,63,g,23,g,0,g,12,g,16,g
+40,salvatores old fashioned pizzeria,cajun chicken salad,32,g,155,mg,1410,g,24,g,50,g,19,g,0,g,9,g,11,g
+41,salvatores old fashioned pizzeria,calamari salad,14,g,440,mg,600,g,35,g,35,g,3.5,g,0,g,9,g,11,g
+42,salvatores old fashioned pizzeria,carrot cake,34,g,110,mg,440,g,49,g,6,g,11,g,0,g,2,g,37,g
+43,salvatores old fashioned pizzeria,cauiflower,35,g,25,mg,420,g,30,g,10,g,8,g,0,g,4,g,9,g
+44,salvatores old fashioned pizzeria,ceasar salad,44,g,115,mg,1860,g,35,g,40,g,21,g,0,g,11,g,15,g
+45,salvatores old fashioned pizzeria,cheese cake,35,g,210,mg,520,g,48,g,13,g,20,g,0,g,1,g,32,g
+46,salvatores old fashioned pizzeria,cheese cannoli,11,g,20,mg,25,g,27,g,5,g,3.5,g,1.5,g,0,g,15,g
+47,salvatores old fashioned pizzeria,chicken fingers 2 piece,9,g,35,mg,1000,g,15,g,15,g,1.5,g,0,g,0,g,0,g
+48,salvatores old fashioned pizzeria,chicken fingers 5 piece,8,g,40,mg,840,g,17,g,21,g,1.5,g,0,g,0,g,0,g
+49,salvatores old fashioned pizzeria,chicken parmesan,49,g,120,mg,3840,g,138,g,70,g,16,g,0,g,12,g,34,g
+50,salvatores old fashioned pizzeria,chicken 4 piece,42,g,235,mg,1300,g,26,g,49,g,11,g,0,g,2,g,0,g
+51,salvatores old fashioned pizzeria,chocolate chip cookie,18,g,20,mg,300,g,52,g,4,g,6,g,3.5,g,2,g,21,g
+52,salvatores old fashioned pizzeria,chocolate chip with mandm cookie,17,g,25,mg,300,g,52,g,4,g,6,g,3.5,g,2,g,21,g
+53,salvatores old fashioned pizzeria,chocolate peanut butter pie,50,g,45,mg,360,g,43,g,9,g,17,g,0,g,3,g,28,g
+54,salvatores old fashioned pizzeria,chunk chocolate cookie,19,g,25,mg,300,g,50,g,4,g,7,g,3,g,2,g,19,g
+55,salvatores old fashioned pizzeria,cocktail sauce cup,0,g,0,mg,710,g,10,g,1,g,0,g,0,g,1,g,8,g
+56,salvatores old fashioned pizzeria,country french dressing packet,15,g,0,mg,300,g,13,g,0,g,2.5,g,0,g,0,g,12,g
+57,salvatores old fashioned pizzeria,creamy ceasar dressing packet,23,g,0,mg,390,g,2,g,1,g,3.5,g,0,g,0,g,1,g
+58,salvatores old fashioned pizzeria,eggplant parmesan,22,g,0,mg,110,g,47,g,78,g,4,g,0,g,6,g,14,g
+59,salvatores old fashioned pizzeria,eggplant side dish,13,g,0,mg,660,g,28,g,5,g,2.5,g,0,g,4,g,8,g
+60,salvatores old fashioned pizzeria,fat free ranch dressing packet,0,g,0,mg,550,g,11,g,0,g,0,g,0,g,1,g,4,g
+61,salvatores old fashioned pizzeria,fat free raspberry dressing packet,0,g,0,mg,110,g,12,g,0,g,0,g,0,g,0,g,10,g
+62,salvatores old fashioned pizzeria,fried calamari,17,g,590,mg,690,g,18,g,41,g,4.5,g,0,g,0,g,0,g
+63,salvatores old fashioned pizzeria,fries,73,g,0,mg,1320,g,174,g,17,g,9,g,0.5,g,16,g,3,g
+64,salvatores old fashioned pizzeria,garlic bread,58,g,90,mg,1090,g,60,g,35,g,20,g,0,g,8,g,9,g
+65,salvatores old fashioned pizzeria,golden italian dressing packet,17,g,0,mg,390,g,4,g,0,g,2.5,g,0,g,0,g,3,g
+66,salvatores old fashioned pizzeria,greek salad,28,g,30,mg,1370,g,27,g,16,g,10,g,0,g,9,g,11,g
+67,salvatores old fashioned pizzeria,grilled chicken parmesan,16,g,130,mg,3630,g,106,g,66,g,4,g,0,g,11,g,31,g
+68,salvatores old fashioned pizzeria,grilled chicken salad,23,g,130,mg,1420,g,25,g,48,g,12,g,0,g,9,g,11,g
+69,salvatores old fashioned pizzeria,hot wings,20,g,100,mg,2100,g,43,g,53,g,4,g,0,g,0,g,0,g
+70,salvatores old fashioned pizzeria,italian sausage side dish,52,g,145,mg,2010,g,18,g,36,g,16,g,0,g,3,g,12,g
+71,salvatores old fashioned pizzeria,jalapeno poppers,22,g,40,mg,1090,g,36,g,10,g,9,g,0,g,3,g,5,g
+72,salvatores old fashioned pizzeria,lasagna,23,g,90,mg,1550,g,56,g,40,g,10,g,0,g,7,g,10,g
+73,salvatores old fashioned pizzeria,linda da veggie pizza large,6,g,15,mg,500,g,27,g,9,g,2,g,0,g,8,g,2,g
+74,salvatores old fashioned pizzeria,linda da veggie pizza medium,7,g,15,mg,550,g,29,g,11,g,3,g,0,g,9,g,2,g
+75,salvatores old fashioned pizzeria,linda da veggie pizza ny 19 inch,17,g,40,mg,1170,g,55,g,22,g,7,g,0,g,17,g,3,g
+76,salvatores old fashioned pizzeria,linda da veggie pizza sheet,6,g,15,mg,490,g,27,g,9,g,2,g,0,g,8,g,1,g
+77,salvatores old fashioned pizzeria,lite italian dressing packet,0.5,g,0,mg,530,g,3,g,0,g,0,g,0,g,0,g,3,g
+78,salvatores old fashioned pizzeria,macaroni salad,19,g,15,mg,1200,g,53,g,6,g,3,g,0,g,3,g,16,g
+79,salvatores old fashioned pizzeria,meatball side dish,27,g,60,mg,1330,g,18,g,20,g,9,g,0,g,3,g,8,g
+80,salvatores old fashioned pizzeria,meathead pizza large,19,g,50,mg,930,g,25,g,18,g,7,g,0,g,8,g,1,g
+81,salvatores old fashioned pizzeria,meathead pizza medium,20,g,55,mg,960,g,27,g,20,g,7,g,0,g,8,g,1,g
+82,salvatores old fashioned pizzeria,meathead pizza ny 19 inch,47,g,135,mg,2280,g,51,g,45,g,18,g,0,g,15,g,2,g
+83,salvatores old fashioned pizzeria,meathead pizza sheet,17,g,45,mg,880,g,25,g,17,g,6,g,0,g,8,g,1,g
+84,salvatores old fashioned pizzeria,mild wings,13,g,65,mg,440,g,7,g,13,g,3.5,g,0,g,0,g,0,g
+85,salvatores old fashioned pizzeria,mozzarella sticks,26,g,40,mg,1260,g,35,g,19,g,10,g,0,g,2,g,4,g
+86,salvatores old fashioned pizzeria,mushrooms,38,g,5,mg,360,g,36,g,6,g,5,g,0,g,3,g,5,g
+87,salvatores old fashioned pizzeria,oatmeal raisin cookie,13,g,25,mg,280,g,50,g,5,g,3,g,3,g,3,g,23,g
+88,salvatores old fashioned pizzeria,onion rings,43,g,20,mg,1040,g,82,g,10,g,13,g,0,g,3,g,5,g
+89,salvatores old fashioned pizzeria,pasta side dish,4,g,0,mg,700,g,72,g,13,g,0.5,g,0,g,5,g,9,g
+90,salvatores old fashioned pizzeria,pasta with meatballs,37,g,60,mg,3180,g,172,g,47,g,11,g,0,g,15,g,33,g
+91,salvatores old fashioned pizzeria,peanut butter cookie,23,g,30,mg,390,g,42,g,8,g,5,g,4,g,2,g,15,g
+92,salvatores old fashioned pizzeria,pizza fingers,32,g,80,mg,920,g,78,g,28,g,12,g,0,g,4,g,6,g
+93,salvatores old fashioned pizzeria,potato skins,29,g,50,mg,820,g,48,g,19,g,10,g,2.5,g,5,g,2,g
+94,salvatores old fashioned pizzeria,ravioli,39,g,140,mg,2880,g,104,g,40,g,20,g,0,g,9,g,38,g
+95,salvatores old fashioned pizzeria,salvatores style shrimp,32,g,100,mg,2150,g,59,g,13,g,7,g,7,g,1,g,10,g
+96,salvatores old fashioned pizzeria,salvatores supreme slice pizza large,14,g,40,mg,770,g,27,g,14,g,6,g,0,g,8,g,2,g
+97,salvatores old fashioned pizzeria,salvatores supreme slice pizza medium,16,g,40,mg,820,g,29,g,16,g,6,g,0,g,9,g,2,g
+98,salvatores old fashioned pizzeria,salvatores supreme slice pizza ny 19 inch,35,g,95,mg,1760,g,55,g,34,g,14,g,0,g,17,g,3,g
+99,salvatores old fashioned pizzeria,salvatores supreme slice pizza sheet,13,g,35,mg,720,g,27,g,14,g,5,g,0,g,8,g,1,g
+100,salvatores old fashioned pizzeria,seafood salad,5,g,10,mg,430,g,28,g,8,g,1.5,g,0,g,10,g,11,g
+101,salvatores old fashioned pizzeria,shrimp dinner 10 piece,32,g,100,mg,1940,g,48,g,13,g,7,g,7,g,1,g,0,g
+102,salvatores old fashioned pizzeria,side salad,0.5,g,0,mg,50,g,13,g,3,g,0,g,0,g,5,g,6,g
+103,salvatores old fashioned pizzeria,soccer sams low fat slice pizza large,1,g,0,mg,200,g,27,g,5,g,0,g,0,g,8,g,2,g
+104,salvatores old fashioned pizzeria,soccer sams low fat slice pizza medium,1,g,0,mg,210,g,29,g,6,g,0,g,0,g,9,g,2,g
+105,salvatores old fashioned pizzeria,soccer sams low fat slice pizza ny 19 inch,3,g,0,mg,460,g,55,g,10,g,0,g,0,g,16,g,5,g
+106,salvatores old fashioned pizzeria,soccer sams low fat slice pizza sheet,1,g,0,mg,190,g,27,g,5,g,0,g,0,g,8,g,2,g
+107,salvatores old fashioned pizzeria,stuffed shells,55,g,190,mg,3420,g,96,g,52,g,31,g,0,g,9,g,39,g
+108,salvatores old fashioned pizzeria,sweet country style wings,13,g,65,mg,440,g,7,g,13,g,3.5,g,0,g,0,g,0,g
+109,salvatores old fashioned pizzeria,the breath mint pizza large,7,g,15,mg,340,g,30,g,10,g,2,g,0,g,9,g,2,g
+110,salvatores old fashioned pizzeria,the breath mint pizza medium,7,g,15,mg,380,g,31,g,11,g,3,g,0,g,9,g,3,g
+111,salvatores old fashioned pizzeria,the breath mint pizza ny 19 inch,21,g,40,mg,800,g,63,g,24,g,8,g,0,g,18,g,6,g
+112,salvatores old fashioned pizzeria,the breath mint pizza sheet,8,g,15,mg,340,g,29,g,10,g,2,g,0,g,8,g,2,g
+113,salvatores old fashioned pizzeria,the salvatore pizza large,14,g,40,mg,700,g,25,g,14,g,5,g,0,g,8,g,1,g
+114,salvatores old fashioned pizzeria,the salvatore pizza medium,14,g,40,mg,740,g,27,g,16,g,6,g,0,g,8,g,1,g
+115,salvatores old fashioned pizzeria,the salvatore pizza ny 19 inch,33,g,95,mg,1630,g,51,g,33,g,13,g,0,g,16,g,2,g
+116,salvatores old fashioned pizzeria,the salvatore pizza sheet,12,g,35,mg,660,g,25,g,13,g,5,g,0,g,8,g,1,g
+117,salvatores old fashioned pizzeria,tossed salad,1,g,0,mg,85,g,22,g,5,g,0,g,0,g,9,g,11,g
+118,salvatores old fashioned pizzeria,tuna topped salad,9,g,10,mg,420,g,30,g,18,g,1.5,g,0,g,9,g,11,g
+119,salvatores old fashioned pizzeria,veal parmesan,68,g,130,mg,3250,g,138,g,44,g,28,g,2,g,12,g,33,g
+120,salvatores old fashioned pizzeria,veggie dish,35,g,10,mg,730,g,42,g,8,g,7,g,0,g,3,g,7,g
+121,salvatores old fashioned pizzeria,white chunk macadamia,21,g,20,mg,310,g,48,g,5,g,7,g,3,g,1,g,19,g
+122,salvatores old fashioned pizzeria,zucchini,31,g,0,mg,1400,g,60,g,8,g,7,g,0,g,3,g,3,g
+123,sam and louies ny pizza,5 cheese 10 inch gluten free pizza,51,g,110,mg,2710,g,128,g,43,g,24,g,0,g,7,g,0,g
+124,sam and louies ny pizza,5 cheese gluten free pizza slice,8,g,20,mg,450,g,21,g,7,g,4,g,0,g,1,g,0,g
+125,sam and louies ny pizza,5 cheese pizza by the slice,13,g,40,mg,770,g,41,g,21,g,8,g,0,g,2,g,0,g
+126,sam and louies ny pizza,5 cheese pizza 12 inch,8,g,20,mg,430,g,23,g,12,g,5,g,0,g,1,g,0,g
+127,sam and louies ny pizza,5 cheese pizza 16 inch,10,g,30,mg,600,g,34,g,17,g,6,g,0,g,2,g,0,g
+128,sam and louies ny pizza,5 cheese pizza 18 inch,9,g,25,mg,520,g,28,g,14,g,5,g,0,g,1,g,0,g
+129,sam and louies ny pizza,bacon cheeseburger 10 inch gluten free pizza,64,g,155,mg,3760,g,143,g,58,g,29,g,0,g,10,g,0,g
+130,sam and louies ny pizza,bacon cheeseburger gluten free pizza slice,11,g,25,mg,630,g,24,g,10,g,5,g,0,g,2,g,0,g
+131,sam and louies ny pizza,bacon cheeseburger pizza by the slice,17,g,50,mg,990,g,45,g,23,g,9,g,0,g,3,g,0,g
+132,sam and louies ny pizza,bacon cheeseburger pizza 12 inch,10,g,30,mg,610,g,26,g,14,g,6,g,0,g,2,g,0,g
+133,sam and louies ny pizza,bacon cheeseburger pizza 16 inch,13,g,40,mg,800,g,37,g,19,g,7,g,0,g,2,g,0,g
+134,sam and louies ny pizza,bacon cheeseburger pizza 18 inch,11,g,35,mg,660,g,30,g,16,g,6,g,0,g,2,g,0,g
+135,sam and louies ny pizza,bar b que chicken sandwich,48,g,135,mg,2130,g,75,g,52,g,19,g,0,g,3,g,0,g
+136,sam and louies ny pizza,bbq chicken 10 inch gluten free pizza,56,g,140,mg,3610,g,162,g,58,g,24,g,0,g,4,g,0,g
+137,sam and louies ny pizza,bbq chicken gluten free pizza slice,9,g,25,mg,600,g,27,g,10,g,4,g,0,g,1,g,0,g
+138,sam and louies ny pizza,bbq chicken pizza by the slice,14,g,45,mg,990,g,52,g,24,g,7,g,0,g,1,g,0,g
+139,sam and louies ny pizza,bbq chicken pizza 12 inch,9,g,30,mg,580,g,19,g,14,g,5,g,0,g,1,g,0,g
+140,sam and louies ny pizza,bbq chicken pizza 16 inch,11,g,35,mg,780,g,42,g,19,g,6,g,0,g,1,g,0,g
+141,sam and louies ny pizza,bbq chicken pizza 18 inch,9,g,30,mg,660,g,34,g,16,g,5,g,0,g,1,g,0,g
+142,sam and louies ny pizza,bbq sauce,0,g,0,mg,560,g,40,g,0,g,0,g,0,g,0,g,0,g
+143,sam and louies ny pizza,beef pizza by the slice,11,g,30,mg,740,g,41,g,22,g,6,g,0,g,2,g,0,g
+144,sam and louies ny pizza,beef pizza 12 inch,7,g,20,mg,450,g,23,g,13,g,4,g,0,g,1,g,0,g
+145,sam and louies ny pizza,beef pizza 16 inch,9,g,20,mg,580,g,34,g,17,g,5,g,0,g,2,g,0,g
+146,sam and louies ny pizza,beef pizza 18 inch,8,g,20,mg,500,g,28,g,14,g,4,g,0,g,1,g,0,g
+147,sam and louies ny pizza,black and bleu burger,57,g,175,mg,2180,g,39,g,56,g,28,g,0,g,2,g,0,g
+148,sam and louies ny pizza,blue cheese dressing,28,g,30,mg,570,g,2,g,2,g,5,g,0,g,0,g,0,g
+149,sam and louies ny pizza,boneless chicken wings,47,g,95,mg,1810,g,50,g,50,g,6,g,0,g,3,g,0,g
+150,sam and louies ny pizza,breaded pickles,74,g,20,mg,2550,g,40,g,3,g,21,g,0,g,6,g,0,g
+151,sam and louies ny pizza,breaded ravioli,20,g,70,mg,1900,g,101,g,21,g,4,g,0,g,7,g,0,g
+152,sam and louies ny pizza,brooklyn 10 inch gluten free pizza,88,g,125,mg,3600,g,132,g,68,g,27,g,0,g,8,g,0,g
+153,sam and louies ny pizza,brooklyn gluten free pizza slice,15,g,20,mg,600,g,22,g,11,g,4,g,0,g,1,g,0,g
+154,sam and louies ny pizza,brooklyn pizza by the slice,20,g,35,mg,910,g,42,g,25,g,7,g,0,g,2,g,0,g
+155,sam and louies ny pizza,brooklyn pizza 12 inch,13,g,20,mg,550,g,24,g,15,g,4,g,0,g,1,g,0,g
+156,sam and louies ny pizza,brooklyn pizza 16 inch,15,g,25,mg,730,g,35,g,20,g,5,g,0,g,2,g,0,g
+157,sam and louies ny pizza,brooklyn pizza 18 inch,13,g,25,mg,610,g,28,g,16,g,5,g,0,g,1,g,0,g
+158,sam and louies ny pizza,buffalo chicken sandwich,17,g,50,mg,1810,g,61,g,29,g,2,g,0,g,4,g,0,g
+159,sam and louies ny pizza,buffalo jack 10 inch gluten free pizza,52,g,110,mg,3850,g,132,g,59,g,21,g,0,g,8,g,0,g
+160,sam and louies ny pizza,buffalo jack gluten free pizza slice,9,g,20,mg,640,g,22,g,10,g,4,g,0,g,1,g,0,g
+161,sam and louies ny pizza,buffalo jack pizza by the slice,11,g,30,mg,930,g,43,g,23,g,5,g,0,g,2,g,0,g
+162,sam and louies ny pizza,buffalo jack pizza 12 inch,7,g,20,mg,590,g,24,g,13,g,3,g,0,g,1,g,0,g
+163,sam and louies ny pizza,buffalo jack pizza 16 inch,9,g,25,mg,760,g,35,g,18,g,4,g,0,g,2,g,0,g
+164,sam and louies ny pizza,buffalo jack pizza 18 inch,7,g,20,mg,620,g,28,g,15,g,4,g,0,g,2,g,0,g
+165,sam and louies ny pizza,buffalo jack stromboli individual,25,g,65,mg,1680,g,67,g,44,g,13,g,0,g,3,g,0,g
+166,sam and louies ny pizza,buffalo sauce,4,g,0,mg,2040,g,3,g,0,g,0,g,0,g,0,g,0,g
+167,sam and louies ny pizza,caesar dressing,18,g,10,mg,290,g,1,g,1,g,3,g,0,g,0,g,0,g
+168,sam and louies ny pizza,california 10 inch gluten free pizza,47,g,100,mg,3140,g,139,g,56,g,19,g,0,g,9,g,0,g
+169,sam and louies ny pizza,california gluten free pizza slice,8,g,15,mg,520,g,23,g,9,g,3,g,0,g,2,g,0,g
+170,sam and louies ny pizza,california pie pizza by the slice,12,g,35,mg,870,g,44,g,24,g,6,g,0,g,3,g,0,g
+171,sam and louies ny pizza,california pie pizza 12 inch,7,g,20,mg,510,g,25,g,14,g,4,g,0,g,2,g,0,g
+172,sam and louies ny pizza,california pie pizza 16 inch,9,g,25,mg,700,g,37,g,19,g,5,g,0,g,2,g,0,g
+173,sam and louies ny pizza,california pie pizza 18 inch,8,g,20,mg,580,g,30,g,16,g,4,g,0,g,2,g,0,g
+174,sam and louies ny pizza,canadian bacon pizza by the slice,12,g,40,mg,1130,g,41,g,25,g,6,g,0,g,2,g,0,g
+175,sam and louies ny pizza,canadian bacon pizza 12 inch,7,g,25,mg,750,g,23,g,16,g,4,g,0,g,1,g,0,g
+176,sam and louies ny pizza,canadian bacon pizza 16 inch,9,g,30,mg,940,g,34,g,21,g,5,g,0,g,2,g,0,g
+177,sam and louies ny pizza,canadian bacon pizza 18 inch,8,g,25,mg,750,g,27,g,17,g,4,g,0,g,1,g,0,g
+178,sam and louies ny pizza,carnivore 10 inch gluten free pizza,65,g,140,mg,4270,g,131,g,64,g,25,g,0,g,8,g,0,g
+179,sam and louies ny pizza,carnivore calzone individual,43,g,135,mg,2400,g,66,g,60,g,21,g,0,g,2,g,0,g
+180,sam and louies ny pizza,carnivore calzone large,22,g,70,mg,1300,g,44,g,32,g,10,g,0,g,1,g,0,g
+181,sam and louies ny pizza,carnivore calzone small,19,g,60,mg,1080,g,33,g,27,g,9,g,0,g,1,g,0,g
+182,sam and louies ny pizza,carnivore gluten free pizza slice,11,g,25,mg,710,g,22,g,11,g,4,g,0,g,1,g,0,g
+183,sam and louies ny pizza,carnivore pizza by the slice,17,g,50,mg,1330,g,42,g,28,g,8,g,0,g,2,g,0,g
+184,sam and louies ny pizza,carnivore pizza 12 inch,10,g,30,mg,830,g,24,g,17,g,5,g,0,g,1,g,0,g
+185,sam and louies ny pizza,carnivore pizza 16 inch,13,g,40,mg,1070,g,35,g,23,g,6,g,0,g,2,g,0,g
+186,sam and louies ny pizza,carnivore pizza 18 inch,11,g,35,mg,890,g,28,g,19,g,5,g,0,g,2,g,0,g
+187,sam and louies ny pizza,carnivore stromboli individual,37,g,100,mg,2120,g,68,g,53,g,18,g,0,g,4,g,0,g
+188,sam and louies ny pizza,cheese bread,5,g,10,mg,280,g,12,g,5,g,2,g,0,g,1,g,0,g
+189,sam and louies ny pizza,cheese fix calzone individual,26,g,75,mg,1130,g,64,g,41,g,15,g,0,g,2,g,0,g
+190,sam and louies ny pizza,cheese fix calzone large,13,g,35,mg,610,g,43,g,22,g,7,g,0,g,1,g,0,g
+191,sam and louies ny pizza,cheese fix calzone small,11,g,30,mg,510,g,32,g,19,g,6,g,0,g,1,g,0,g
+192,sam and louies ny pizza,cheese pizza by the slice,10,g,25,mg,640,g,41,g,19,g,5,g,0,g,2,g,0,g
+193,sam and louies ny pizza,cheese pizza 12 inch,6,g,15,mg,380,g,23,g,11,g,3,g,0,g,1,g,0,g
+194,sam and louies ny pizza,cheese pizza 16 inch,8,g,20,mg,520,g,34,g,15,g,4,g,0,g,2,g,0,g
+195,sam and louies ny pizza,cheese pizza 18 inch,6,g,15,mg,430,g,27,g,13,g,3,g,0,g,1,g,0,g
+196,sam and louies ny pizza,cheese tortellini dinner,41,g,180,mg,3080,g,186,g,84,g,18,g,0,g,10,g,0,g
+197,sam and louies ny pizza,cheese tortellini lunch,33,g,130,mg,2630,g,119,g,64,g,13,g,0,g,6,g,0,g
+198,sam and louies ny pizza,chicken and spinach calzone individual,28,g,80,mg,1370,g,67,g,47,g,15,g,0,g,3,g,0,g
+199,sam and louies ny pizza,chicken and spinach calzone large,13,g,40,mg,710,g,44,g,25,g,7,g,0,g,2,g,0,g
+200,sam and louies ny pizza,chicken and spinach calzone small,12,g,35,mg,600,g,33,g,21,g,6,g,0,g,1,g,0,g
+201,sam and louies ny pizza,chicken alfredo,29,g,100,mg,1940,g,113,g,45,g,15,g,0,g,5,g,0,g
+202,sam and louies ny pizza,chicken bacon ranch 10 inch gluten free pizza,108,g,155,mg,3940,g,124,g,58,g,32,g,0,g,4,g,0,g
+203,sam and louies ny pizza,chicken bacon ranch gluten free pizza slice,18,g,25,mg,660,g,21,g,10,g,5,g,0,g,1,g,0,g
+204,sam and louies ny pizza,chicken bacon ranch pizza by the slice,26,g,45,mg,1010,g,40,g,22,g,9,g,0,g,1,g,0,g
+205,sam and louies ny pizza,chicken bacon ranch pizza 12 inch,16,g,25,mg,610,g,23,g,13,g,5,g,0,g,1,g,0,g
+206,sam and louies ny pizza,chicken bacon ranch pizza 16 inch,19,g,35,mg,790,g,34,g,18,g,6,g,0,g,1,g,0,g
+207,sam and louies ny pizza,chicken bacon ranch pizza 18 inch,17,g,30,mg,670,g,27,g,15,g,6,g,0,g,1,g,0,g
+208,sam and louies ny pizza,chicken caesar salad,51,g,70,mg,2400,g,19,g,36,g,12,g,0,g,3,g,0,g
+209,sam and louies ny pizza,chicken cordon bleu 10 inch gluten freepizza,74,g,200,mg,4340,g,127,g,74,g,34,g,0,g,5,g,0,g
+210,sam and louies ny pizza,chicken cordon bleu gluten free pizza slice,12,g,35,mg,720,g,21,g,12,g,6,g,0,g,1,g,0,g
+211,sam and louies ny pizza,chicken cordon blue pizza by the slice,17,g,60,mg,1290,g,41,g,29,g,9,g,0,g,1,g,0,g
+212,sam and louies ny pizza,chicken cordon blue pizza 12 inch,11,g,35,mg,800,g,23,g,17,g,6,g,0,g,1,g,0,g
+213,sam and louies ny pizza,chicken cordon blue pizza 16 inch,14,g,45,mg,1050,g,34,g,23,g,7,g,0,g,1,g,0,g
+214,sam and louies ny pizza,chicken cordon blue pizza 18 inch,11,g,40,mg,860,g,27,g,19,g,6,g,0,g,1,g,0,g
+215,sam and louies ny pizza,chicken parmesan,34,g,110,mg,2410,g,122,g,63,g,14,g,0,g,6,g,0,g
+216,sam and louies ny pizza,chicken parmesan sandwich,34,g,100,mg,1960,g,65,g,51,g,13,g,0,g,4,g,0,g
+217,sam and louies ny pizza,chicken pizza by the slice,11,g,30,mg,800,g,42,g,23,g,5,g,0,g,2,g,0,g
+218,sam and louies ny pizza,chicken pizza 12 inch,6,g,20,mg,480,g,23,g,13,g,3,g,0,g,1,g,0,g
+219,sam and louies ny pizza,chicken pizza 16 inch,8,g,25,mg,650,g,34,g,18,g,4,g,0,g,2,g,0,g
+220,sam and louies ny pizza,chicken pizza 18 inch,7,g,20,mg,540,g,28,g,15,g,4,g,0,g,1,g,0,g
+221,sam and louies ny pizza,chicken sausage tortellini dinner,58,g,245,mg,3070,g,179,g,79,g,32,g,0,g,10,g,0,g
+222,sam and louies ny pizza,chicken sausage tortellini lunch,38,g,155,mg,2340,g,112,g,56,g,20,g,0,g,5,g,0,g
+223,sam and louies ny pizza,chicken stromboli individual,24,g,65,mg,1340,g,66,g,44,g,13,g,0,g,3,g,0,g
+224,sam and louies ny pizza,chicken thai pie pizza by the slice,14,g,30,mg,1060,g,45,g,24,g,5,g,0,g,2,g,0,g
+225,sam and louies ny pizza,chicken thai pie pizza 12 inch,8,g,20,mg,610,g,25,g,14,g,3,g,0,g,1,g,0,g
+226,sam and louies ny pizza,chicken thai pie pizza 16 inch,11,g,25,mg,830,g,37,g,19,g,4,g,0,g,1,g,0,g
+227,sam and louies ny pizza,chicken thai pie pizza 18 inch,9,g,20,mg,710,g,30,g,16,g,4,g,0,g,1,g,0,g
+228,sam and louies ny pizza,cobb salad,37,g,290,mg,2330,g,62,g,55,g,15,g,0,g,6,g,0,g
+229,sam and louies ny pizza,combo 10 inch gluten free pizza,64,g,115,mg,3560,g,134,g,53,g,24,g,0,g,9,g,0,g
+230,sam and louies ny pizza,combo gluten free pizza slice,11,g,20,mg,590,g,22,g,9,g,4,g,0,g,2,g,0,g
+231,sam and louies ny pizza,combo pizza by the slice,17,g,40,mg,990,g,43,g,23,g,7,g,0,g,3,g,0,g
+232,sam and louies ny pizza,combo pizza 12 inch,10,g,25,mg,590,g,24,g,14,g,5,g,0,g,2,g,0,g
+233,sam and louies ny pizza,combo pizza 16 inch,13,g,30,mg,780,g,36,g,19,g,6,g,0,g,2,g,0,g
+234,sam and louies ny pizza,combo pizza 18 inch,11,g,25,mg,660,g,29,g,15,g,5,g,0,g,2,g,0,g
+235,sam and louies ny pizza,cowboy burger,59,g,195,mg,1940,g,53,g,58,g,29,g,0,g,2,g,0,g
+236,sam and louies ny pizza,crispy buffalo salad,30,g,80,mg,3010,g,80,g,40,g,9,g,0,g,8,g,0,g
+237,sam and louies ny pizza,dipping sauce,59,g,20,mg,1020,g,4,g,0,g,10,g,0,g,0,g,0,g
+238,sam and louies ny pizza,fireball 10 inch gluten free pizza,63,g,125,mg,3830,g,133,g,46,g,26,g,0,g,9,g,0,g
+239,sam and louies ny pizza,fireball gluten free pizza slice,10,g,20,mg,640,g,22,g,8,g,4,g,0,g,1,g,0,g
+240,sam and louies ny pizza,fireball pizza by the slice,16,g,40,mg,1020,g,43,g,21,g,8,g,0,g,2,g,0,g
+241,sam and louies ny pizza,fireball pizza 12 inch,10,g,25,mg,620,g,24,g,12,g,5,g,0,g,1,g,0,g
+242,sam and louies ny pizza,fireball pizza 16 inch,13,g,35,mg,810,g,35,g,17,g,7,g,0,g,2,g,0,g
+243,sam and louies ny pizza,fireball pizza 18 inch,11,g,30,mg,680,g,28,g,14,g,6,g,0,g,2,g,0,g
+244,sam and louies ny pizza,french dressing,12,g,0,mg,350,g,22,g,0,g,2,g,0,g,0,g,0,g
+245,sam and louies ny pizza,fries,21,g,0,mg,1000,g,62,g,5,g,4,g,0,g,5,g,0,g
+246,sam and louies ny pizza,garlic bread,2,g,0,mg,200,g,12,g,2,g,0,g,0,g,1,g,0,g
+247,sam and louies ny pizza,ham and cheese hoagie,17,g,60,mg,2510,g,53,g,31,g,6,g,0,g,4,g,0,g
+248,sam and louies ny pizza,house salad large,15,g,235,mg,430,g,23,g,20,g,6,g,0,g,6,g,0,g
+249,sam and louies ny pizza,house salad small,6,g,65,mg,190,g,9,g,8,g,2,g,0,g,2,g,0,g
+250,sam and louies ny pizza,italian hoagie,26,g,70,mg,2500,g,53,g,29,g,10,g,0,g,4,g,0,g
+251,sam and louies ny pizza,jalapeno burger,46,g,170,mg,1670,g,40,g,50,g,24,g,0,g,3,g,0,g
+252,sam and louies ny pizza,kids applesauce,0,g,0,mg,15,g,13,g,0,g,0,g,0,g,1,g,0,g
+253,sam and louies ny pizza,kids chicken bites and fries,56,g,40,mg,1610,g,50,g,20,g,9,g,0,g,4,g,0,g
+254,sam and louies ny pizza,kids fettucini alfredo,25,g,75,mg,1000,g,108,g,24,g,14,g,0,g,5,g,0,g
+255,sam and louies ny pizza,kids macaroni and cheese,11,g,25,mg,480,g,48,g,12,g,3,g,0,g,2,g,0,g
+256,sam and louies ny pizza,kids mostaccioli marinara,6,g,5,mg,750,g,111,g,22,g,2,g,0,g,6,g,0,g
+257,sam and louies ny pizza,kids slice of cheese pizza,7,g,25,mg,120,g,1,g,6,g,4,g,0,g,0,g,0,g
+258,sam and louies ny pizza,kids spaghetti with meatball,14,g,30,mg,1100,g,114,g,28,g,5,g,0,g,6,g,0,g
+259,sam and louies ny pizza,lasagna full order,37,g,95,mg,2320,g,109,g,60,g,19,g,0,g,4,g,0,g
+260,sam and louies ny pizza,lasagna half order,20,g,55,mg,1330,g,73,g,34,g,11,g,0,g,3,g,0,g
+261,sam and louies ny pizza,light italian dressing,9,g,0,mg,790,g,5,g,0,g,1,g,0,g,0,g,0,g
+262,sam and louies ny pizza,louies special calzone individual,32,g,85,mg,1440,g,70,g,46,g,17,g,0,g,4,g,0,g
+263,sam and louies ny pizza,louies special calzone large,15,g,40,mg,740,g,46,g,24,g,8,g,0,g,2,g,0,g
+264,sam and louies ny pizza,louies special calzone small,14,g,35,mg,630,g,34,g,21,g,7,g,0,g,2,g,0,g
+265,sam and louies ny pizza,luau 10 inch gluten free pizza,53,g,130,mg,3800,g,137,g,61,g,21,g,0,g,7,g,0,g
+266,sam and louies ny pizza,luau gluten free pizza slice,9,g,20,mg,630,g,23,g,10,g,3,g,0,g,1,g,0,g
+267,sam and louies ny pizza,luau pizza by the slice,14,g,45,mg,1200,g,43,g,27,g,7,g,0,g,2,g,0,g
+268,sam and louies ny pizza,luau pizza 12 inch,8,g,30,mg,750,g,25,g,16,g,4,g,0,g,1,g,0,g
+269,sam and louies ny pizza,luau pizza 16 inch,11,g,35,mg,970,g,36,g,22,g,5,g,0,g,2,g,0,g
+270,sam and louies ny pizza,luau pizza 18 inch,9,g,30,mg,800,g,29,g,18,g,4,g,0,g,1,g,0,g
+271,sam and louies ny pizza,manhattan 10 inch gluten free pizza,83,g,215,mg,4230,g,126,g,69,g,37,g,0,g,4,g,0,g
+272,sam and louies ny pizza,manhattan gluten free pizza slice,14,g,35,mg,710,g,21,g,12,g,6,g,0,g,1,g,0,g
+273,sam and louies ny pizza,manhattan pizza by the slice,19,g,60,mg,1240,g,41,g,27,g,10,g,0,g,1,g,0,g
+274,sam and louies ny pizza,manhattan pizza 12 inch,12,g,40,mg,790,g,23,g,16,g,6,g,0,g,1,g,0,g
+275,sam and louies ny pizza,manhattan pizza 16 inch,15,g,50,mg,1010,g,34,g,22,g,8,g,0,g,1,g,0,g
+276,sam and louies ny pizza,manhattan pizza 18 inch,13,g,40,mg,820,g,27,g,18,g,6,g,0,g,1,g,0,g
+277,sam and louies ny pizza,manicotti,42,g,125,mg,3020,g,99,g,68,g,17,g,0,g,4,g,0,g
+278,sam and louies ny pizza,meatball hoagie,42,g,120,mg,2260,g,57,g,43,g,16,g,0,g,3,g,0,g
+279,sam and louies ny pizza,meatballs,16,g,40,mg,800,g,17,g,14,g,6,g,0,g,1,g,0,g
+280,sam and louies ny pizza,mostaccoli marinara,27,g,85,mg,2390,g,122,g,55,g,9,g,0,g,6,g,0,g
+281,sam and louies ny pizza,onion petals,118,g,20,mg,2830,g,106,g,9,g,20,g,0,g,6,g,0,g
+282,sam and louies ny pizza,original calzone individual,32,g,85,mg,1440,g,67,g,46,g,17,g,0,g,3,g,0,g
+283,sam and louies ny pizza,original calzone large,15,g,40,mg,740,g,44,g,24,g,8,g,0,g,2,g,0,g
+284,sam and louies ny pizza,original calzone small,14,g,35,mg,630,g,33,g,20,g,7,g,0,g,1,g,0,g
+285,sam and louies ny pizza,original chicken salad,18,g,60,mg,1620,g,58,g,41,g,8,g,0,g,5,g,0,g
+286,sam and louies ny pizza,original chicken sandwich,16,g,50,mg,1130,g,60,g,29,g,2,g,0,g,3,g,0,g
+287,sam and louies ny pizza,pepperoni pizza by the slice,14,g,35,mg,810,g,41,g,21,g,7,g,0,g,2,g,0,g
+288,sam and louies ny pizza,pepperoni pizza 12 inch,8,g,20,mg,490,g,23,g,12,g,4,g,0,g,1,g,0,g
+289,sam and louies ny pizza,pepperoni pizza 16 inch,11,g,25,mg,640,g,34,g,17,g,5,g,0,g,2,g,0,g
+290,sam and louies ny pizza,pepperoni pizza 18 inch,9,g,25,mg,540,g,27,g,14,g,4,g,0,g,1,g,0,g
+291,sam and louies ny pizza,philly 10 inch gluten free pizza,53,g,150,mg,3090,g,130,g,76,g,23,g,0,g,7,g,0,g
+292,sam and louies ny pizza,philly gluten free pizza slice,9,g,25,mg,510,g,22,g,13,g,4,g,0,g,1,g,0,g
+293,sam and louies ny pizza,philly hoagie,21,g,90,mg,1660,g,52,g,47,g,10,g,0,g,0,g,0,g
+294,sam and louies ny pizza,philly pizza by the slice,18,g,55,mg,1240,g,42,g,28,g,8,g,0,g,2,g,0,g
+295,sam and louies ny pizza,philly pizza 12 inch,11,g,35,mg,820,g,24,g,18,g,5,g,0,g,1,g,0,g
+296,sam and louies ny pizza,philly pizza 16 inch,14,g,45,mg,1000,g,35,g,23,g,7,g,0,g,1,g,0,g
+297,sam and louies ny pizza,philly pizza 18 inch,12,g,35,mg,830,g,28,g,19,g,6,g,0,g,1,g,0,g
+298,sam and louies ny pizza,pizza burger,41,g,150,mg,1550,g,42,g,53,g,20,g,0,g,3,g,0,g
+299,sam and louies ny pizza,poppyseed dressing,19,g,20,mg,410,g,18,g,0,g,3,g,0,g,0,g,0,g
+300,sam and louies ny pizza,potato chips,10,g,0,mg,180,g,15,g,2,g,3,g,0,g,1,g,0,g
+301,sam and louies ny pizza,ranch dressing,29,g,10,mg,510,g,2,g,0,g,5,g,0,g,0,g,0,g
+302,sam and louies ny pizza,sam and louies best 10 inch gluten free pizza,64,g,135,mg,4190,g,134,g,60,g,24,g,0,g,9,g,0,g
+303,sam and louies ny pizza,sam and louies best gluten free pizza slice,11,g,20,mg,700,g,22,g,10,g,4,g,0,g,1,g,0,g
+304,sam and louies ny pizza,sam and louies best pizza by the slice,17,g,50,mg,1360,g,44,g,27,g,8,g,0,g,3,g,0,g
+305,sam and louies ny pizza,sam and louies best pizza 12 inch,10,g,30,mg,830,g,25,g,16,g,5,g,0,g,2,g,0,g
+306,sam and louies ny pizza,sam and louies best pizza 16 inch,14,g,40,mg,1090,g,36,g,22,g,6,g,0,g,2,g,0,g
+307,sam and louies ny pizza,sam and louies best pizza 18 inch,11,g,30,mg,910,g,29,g,18,g,5,g,0,g,2,g,0,g
+308,sam and louies ny pizza,sams creation stromboli individual,34,g,90,mg,1920,g,69,g,49,g,16,g,0,g,4,g,0,g
+309,sam and louies ny pizza,sammys burger,27,g,110,mg,940,g,37,g,36,g,12,g,0,g,2,g,0,g
+310,sam and louies ny pizza,sammys burger with cheese,37,g,140,mg,1420,g,39,g,44,g,19,g,0,g,2,g,0,g
+311,sam and louies ny pizza,sausage pizza by the slice,12,g,30,mg,760,g,42,g,21,g,6,g,0,g,2,g,0,g
+312,sam and louies ny pizza,sausage pizza 12 inch,8,g,20,mg,480,g,24,g,12,g,4,g,0,g,1,g,0,g
+313,sam and louies ny pizza,sausage pizza 16 inch,10,g,25,mg,620,g,34,g,17,g,5,g,0,g,2,g,0,g
+314,sam and louies ny pizza,sausage pizza 18 inch,8,g,20,mg,510,g,28,g,14,g,4,g,0,g,2,g,0,g
+315,sam and louies ny pizza,side caesar salad,29,g,25,mg,900,g,7,g,8,g,6,g,0,g,2,g,0,g
+316,sam and louies ny pizza,spaghetti and meatballs,23,g,55,mg,1460,g,116,g,35,g,8,g,0,g,6,g,0,g
+317,sam and louies ny pizza,spinach artichoke dip,54,g,90,mg,2420,g,101,g,38,g,24,g,0,g,9,g,0,g
+318,sam and louies ny pizza,t rex 10 inch gluten free pizza,91,g,185,mg,4310,g,133,g,73,g,36,g,0,g,8,g,0,g
+319,sam and louies ny pizza,t rex gluten free pizza slice,15,g,30,mg,720,g,22,g,12,g,6,g,0,g,1,g,0,g
+320,sam and louies ny pizza,t rex pizza by the slice,19,g,50,mg,1100,g,42,g,26,g,9,g,0,g,2,g,0,g
+321,sam and louies ny pizza,t rex pizza 12 inch,12,g,35,mg,680,g,24,g,16,g,5,g,0,g,1,g,0,g
+322,sam and louies ny pizza,t rex pizza 16 inch,15,g,40,mg,870,g,35,g,21,g,7,g,0,g,2,g,0,g
+323,sam and louies ny pizza,t rex pizza 18 inch,13,g,35,mg,740,g,28,g,17,g,6,g,0,g,1,g,0,g
+324,sam and louies ny pizza,thai 10 inch gluten free pizza,63,g,110,mg,3990,g,141,g,63,g,21,g,0,g,5,g,0,g
+325,sam and louies ny pizza,thai chicken salad,18,g,35,mg,2230,g,71,g,38,g,3,g,0,g,6,g,0,g
+326,sam and louies ny pizza,thai gluten free pizza slice,11,g,20,mg,660,g,23,g,10,g,4,g,0,g,1,g,0,g
+327,sam and louies ny pizza,thai sauce,13,g,0,mg,1200,g,20,g,5,g,0,g,0,g,0,g,0,g
+328,sam and louies ny pizza,veggie 10 inch gluten free pizza,44,g,70,mg,2580,g,139,g,42,g,16,g,0,g,11,g,0,g
+329,sam and louies ny pizza,veggie calzone individual,28,g,75,mg,1270,g,68,g,43,g,15,g,0,g,4,g,0,g
+330,sam and louies ny pizza,veggie calzone large,14,g,35,mg,700,g,45,g,23,g,7,g,0,g,2,g,0,g
+331,sam and louies ny pizza,veggie calzone small,12,g,30,mg,580,g,34,g,19,g,6,g,0,g,2,g,0,g
+332,sam and louies ny pizza,veggie gluten free pizza slice,7,g,10,mg,430,g,23,g,7,g,3,g,0,g,2,g,0,g
+333,sam and louies ny pizza,veggie pizza by the slice,11,g,25,mg,730,g,45,g,20,g,5,g,0,g,3,g,0,g
+334,sam and louies ny pizza,veggie pizza 12 inch,6,g,15,mg,430,g,26,g,12,g,3,g,0,g,2,g,0,g
+335,sam and louies ny pizza,veggie pizza 16 inch,9,g,20,mg,590,g,37,g,16,g,4,g,0,g,3,g,0,g
+336,sam and louies ny pizza,veggie pizza 18 inch,7,g,15,mg,490,g,30,g,13,g,4,g,0,g,2,g,0,g
+337,sam and louies ny pizza,veggie stromboli individual,24,g,60,mg,1240,g,67,g,39,g,13,g,0,g,3,g,0,g
+338,sam and louies ny pizza,waffle fries,88,g,20,mg,2020,g,125,g,12,g,24,g,0,g,11,g,0,g
+339,samuel mancinos italian eatery,10 gourmet pizza mancino deluxe 1 slice,49,g,130,mg,1920,g,20,g,28,g,22,g,0,g,1,g,1,g
+340,samuel mancinos italian eatery,10 inch gourmet pizza local name 1 slice,9,g,30,mg,460,g,19,g,14,g,4,g,0,g,1,g,1,g
+341,samuel mancinos italian eatery,10 inch gourmet pizza 5 meat grande 1 slice,15,g,45,mg,760,g,20,g,18,g,7,g,0,g,1,g,1,g
+342,samuel mancinos italian eatery,10 inch gourmet pizza aloha hawaii 1 slice,11,g,35,mg,560,g,20,g,16,g,5,g,0,g,1,g,2,g
+343,samuel mancinos italian eatery,10 inch gourmet pizza amore roma 1 slice,12,g,30,mg,500,g,19,g,12,g,5,g,0,g,1,g,1,g
+344,samuel mancinos italian eatery,10 inch gourmet pizza bodacious blt 1 slice,13,g,30,mg,520,g,19,g,14,g,5,g,0,g,1,g,1,g
+345,samuel mancinos italian eatery,10 inch gourmet pizza chicken garlic 1 slice,11,g,20,mg,310,g,20,g,12,g,4,g,0,g,1,g,2,g
+346,samuel mancinos italian eatery,10 inch gourmet pizza purefire taco w chicken,9,g,30,mg,470,g,20,g,14,g,5,g,0,g,1,g,1,g
+347,samuel mancinos italian eatery,10 inch gourmet pizza purefire taco w taco meat,11,g,30,mg,430,g,20,g,14,g,6,g,0,g,1,g,1,g
+348,samuel mancinos italian eatery,10 inch gourmet pizza quattro fromage 1 slice,12,g,30,mg,410,g,19,g,13,g,6,g,0,g,1,g,1,g
+349,samuel mancinos italian eatery,10 inch gourmet pizza veggie head 1 slice,7,g,15,mg,310,g,20,g,10,g,3,g,0,g,1,g,1,g
+350,samuel mancinos italian eatery,12 inch apple dessert pizza 1 slice,5,g,0,mg,150,g,45,g,4,g,1,g,0,g,1,g,21,g
+351,samuel mancinos italian eatery,12 inch blueberry dessert pizza 1 slice,5,g,0,mg,150,g,46,g,4,g,1,g,0,g,1,g,21,g
+352,samuel mancinos italian eatery,12 inch cherry dessert pizza 1 slice,5,g,0,mg,150,g,45,g,4,g,1,g,0,g,1,g,21,g
+353,samuel mancinos italian eatery,12 inch gourmet pizza local name 1 slice,9,g,30,mg,490,g,22,g,15,g,5,g,0,g,1,g,2,g
+354,samuel mancinos italian eatery,12 inch gourmet pizza 5 meat grande 1 slice,16,g,50,mg,830,g,22,g,19,g,7,g,0,g,2,g,2,g
+355,samuel mancinos italian eatery,12 inch gourmet pizza aloha hawaii 1 slice,11,g,40,mg,580,g,19,g,17,g,6,g,0,g,1,g,2,g
+356,samuel mancinos italian eatery,12 inch gourmet pizza amore roma 1 slice,13,g,30,mg,530,g,18,g,13,g,5,g,0,g,1,g,1,g
+357,samuel mancinos italian eatery,12 inch gourmet pizza bbq chicken 1 slice,6,g,20,mg,370,g,21,g,12,g,4,g,0,g,1,g,4,g
+358,samuel mancinos italian eatery,12 inch gourmet pizza bodacious blt 1 slice,13,g,35,mg,540,g,18,g,14,g,5,g,0,g,1,g,2,g
+359,samuel mancinos italian eatery,12 inch gourmet pizza chicken garlic 1 slice,10,g,20,mg,340,g,22,g,13,g,4,g,0,g,1,g,2,g
+360,samuel mancinos italian eatery,12 inch gourmet pizza mancino deluxe 1 slice,53,g,145,mg,2070,g,19,g,30,g,24,g,0,g,1,g,2,g
+361,samuel mancinos italian eatery,12 inch gourmet pizza purefire taco w chicken 1 slice,10,g,30,mg,520,g,22,g,15,g,5,g,0,g,1,g,2,g
+362,samuel mancinos italian eatery,12 inch gourmet pizza purefire taco w taco meat 1 slice,12,g,30,mg,480,g,23,g,15,g,6,g,0,g,1,g,2,g
+363,samuel mancinos italian eatery,12 inch gourmet pizza quattro fromage 1 slice,12,g,35,mg,450,g,21,g,14,g,7,g,0,g,1,g,1,g
+364,samuel mancinos italian eatery,12 inch gourmet pizza veggie head 1 slice,8,g,15,mg,340,g,23,g,11,g,4,g,0,g,1,g,2,g
+365,samuel mancinos italian eatery,14 inch gourmet pizza local name 1 slice,13,g,45,mg,700,g,30,g,22,g,6,g,0,g,2,g,2,g
+366,samuel mancinos italian eatery,14 inch gourmet pizza 5 meat grande 1 slice,22,g,65,mg,1150,g,30,g,26,g,10,g,0,g,2,g,2,g
+367,samuel mancinos italian eatery,14 inch gourmet pizza aloha hawaii 1 slice,16,g,55,mg,850,g,30,g,24,g,8,g,0,g,2,g,4,g
+368,samuel mancinos italian eatery,14 inch gourmet pizza amore roma 1 slice,17,g,40,mg,750,g,29,g,18,g,7,g,0,g,2,g,2,g
+369,samuel mancinos italian eatery,14 inch gourmet pizza bbq chicken 1 slice,9,g,30,mg,570,g,34,g,17,g,5,g,0,g,1,g,7,g
+370,samuel mancinos italian eatery,14 inch gourmet pizza bodacious blt 1 slice,18,g,50,mg,790,g,29,g,21,g,7,g,0,g,2,g,2,g
+371,samuel mancinos italian eatery,14 inch gourmet pizza chicken garlic 1 slice,13,g,30,mg,460,g,30,g,18,g,5,g,0,g,2,g,2,g
+372,samuel mancinos italian eatery,14 inch gourmet pizza mancino deluxe 1 slice,67,g,180,mg,2660,g,30,g,39,g,30,g,0,g,2,g,2,g
+373,samuel mancinos italian eatery,14 inch gourmet pizza purefire taco w chicken 1 slice,14,g,45,mg,720,g,30,g,21,g,8,g,0,g,2,g,2,g
+374,samuel mancinos italian eatery,14 inch gourmet pizza purefire taco w taco meat 1 slice,16,g,45,mg,670,g,31,g,20,g,8,g,0,g,2,g,2,g
+375,samuel mancinos italian eatery,14 inch gourmet pizza quattro fromage 1 slice,17,g,45,mg,620,g,28,g,19,g,9,g,0,g,1,g,2,g
+376,samuel mancinos italian eatery,14 inch gourmet pizza veggie head 1 slice,11,g,25,mg,480,g,30,g,15,g,5,g,0,g,2,g,3,g
+377,samuel mancinos italian eatery,16 inch gourmet pizza local name 1 slice,16,g,55,mg,900,g,39,g,27,g,8,g,0,g,2,g,3,g
+378,samuel mancinos italian eatery,16 inch gourmet pizza 5 meat grande 1 slice,27,g,85,mg,1460,g,39,g,33,g,12,g,0,g,3,g,3,g
+379,samuel mancinos italian eatery,16 inch gourmet pizza aloha hawaii 1 slice,20,g,65,mg,1090,g,40,g,31,g,10,g,0,g,2,g,5,g
+380,samuel mancinos italian eatery,16 inch gourmet pizza amore roma 1 slice,21,g,50,mg,950,g,38,g,23,g,9,g,0,g,2,g,3,g
+381,samuel mancinos italian eatery,16 inch gourmet pizza bbq chicken 1 slice,11,g,35,mg,740,g,47,g,22,g,6,g,0,g,2,g,10,g
+382,samuel mancinos italian eatery,16 inch gourmet pizza bodacious blt 1 slice,22,g,60,mg,1010,g,38,g,26,g,9,g,0,g,2,g,3,g
+383,samuel mancinos italian eatery,16 inch gourmet pizza chicken garlic 1 slice,15,g,35,mg,580,g,39,g,22,g,6,g,0,g,2,g,3,g
+384,samuel mancinos italian eatery,16 inch gourmet pizza mancino deluxe 1 slice,83,g,225,mg,3340,g,40,g,49,g,37,g,0,g,3,g,3,g
+385,samuel mancinos italian eatery,16 inch gourmet pizza purefire taco w chicken 1 slice,17,g,55,mg,940,g,40,g,26,g,9,g,0,g,2,g,3,g
+386,samuel mancinos italian eatery,16 inch gourmet pizza purefire taco w taco meat 1 slice,20,g,55,mg,880,g,40,g,25,g,10,g,0,g,2,g,3,g
+387,samuel mancinos italian eatery,16 inch gourmet pizza quattro fromage 1 slice,21,g,60,mg,790,g,37,g,24,g,11,g,0,g,2,g,3,g
+388,samuel mancinos italian eatery,16 inch gourmet pizza veggie head 1 slice,13,g,30,mg,610,g,40,g,19,g,6,g,0,g,3,g,4,g
+389,samuel mancinos italian eatery,3 cheese blend mozzarella 10 inch pizza,5,g,15,mg,160,g,1,g,6,g,3,g,0,g,0,g,0,g
+390,samuel mancinos italian eatery,3 cheese blend mozzarella 12 inch pizza,6,g,15,mg,160,g,1,g,6,g,3,g,0,g,0,g,0,g
+391,samuel mancinos italian eatery,3 cheese blend mozzarella 14 inch pizza,8,g,25,mg,230,g,1,g,9,g,5,g,0,g,0,g,0,g
+392,samuel mancinos italian eatery,3 cheese blend mozzarella 16 inch pizza,10,g,30,mg,280,g,1,g,11,g,6,g,0,g,0,g,0,g
+393,samuel mancinos italian eatery,7 inch apple dessert pizza,5,g,0,mg,125,g,40,g,4,g,1,g,0,g,1,g,19,g
+394,samuel mancinos italian eatery,7 inch blueberry dessert pizza,5,g,0,mg,125,g,40,g,4,g,1,g,0,g,1,g,20,g
+395,samuel mancinos italian eatery,7 inch cherry dessert pizza,5,g,0,mg,125,g,40,g,4,g,1,g,0,g,1,g,19,g
+396,samuel mancinos italian eatery,7 inch kids pizza,5,g,10,mg,230,g,18,g,8,g,3,g,0,g,1,g,1,g
+397,samuel mancinos italian eatery,bacon fully ckd 100 real 1 inch dice hormel 10 inch pizza,3,g,10,mg,130,g,0,g,3,g,1,g,0,g,0,g,0,g
+398,samuel mancinos italian eatery,bacon fully ckd 100 real 1 inch dice hormel 12 inch pizza,3,g,10,mg,130,g,0,g,3,g,1,g,0,g,0,g,0,g
+399,samuel mancinos italian eatery,bacon fully ckd 100 real 1 inch dice hormel 14 inch pizza,4,g,10,mg,190,g,0,g,4,g,2,g,0,g,0,g,0,g
+400,samuel mancinos italian eatery,bacon fully ckd 100 real 1 inch dice hormel 16 inch pizza,5,g,15,mg,260,g,0,g,5,g,2,g,0,g,0,g,0,g
+401,samuel mancinos italian eatery,barbeque sauce sweet baby rays kens foods 10 inch pizza,0,g,0,mg,75,g,4,g,0,g,0,g,0,g,0,g,4,g
+402,samuel mancinos italian eatery,barbeque sauce sweet baby rays kens foods 12 inch pizza,0,g,0,mg,110,g,7,g,0,g,0,g,0,g,0,g,6,g
+403,samuel mancinos italian eatery,barbeque sauce sweet baby rays kens foods 14 inch pizza,0,g,0,mg,170,g,10,g,0,g,0,g,0,g,0,g,9,g
+404,samuel mancinos italian eatery,barbeque sauce sweet baby rays kens foods 16 inch pizza,0,g,0,mg,220,g,13,g,0,g,0,g,0,g,0,g,12,g
+405,samuel mancinos italian eatery,bean and ham shank soup,4,g,5,mg,1030,g,12,g,6,g,1,g,0,g,3,g,1,g
+406,samuel mancinos italian eatery,beef barley soup,3,g,10,mg,810,g,15,g,6,g,1,g,0,g,3,g,2,g
+407,samuel mancinos italian eatery,beef patty crumbles fc w 15 tvp 10 inch pizza,2,g,5,mg,80,g,1,g,2,g,0,g,0,g,0,g,0,g
+408,samuel mancinos italian eatery,beef patty crumbles fc w 15 tvp 12 inch pizza,2,g,5,mg,90,g,1,g,2,g,0,g,0,g,0,g,0,g
+409,samuel mancinos italian eatery,beef patty crumbles fc w 15 tvp 14 inch pizza,2,g,5,mg,115,g,1,g,2,g,1,g,0,g,1,g,0,g
+410,samuel mancinos italian eatery,beef patty crumbles fc w 15 tvp 16 inch pizza,3,g,5,mg,150,g,1,g,33,g,1,g,0,g,0,g,0,g
+411,samuel mancinos italian eatery,beef taco filling cooked frzn 10 inch pizza,2,g,5,mg,20,g,0,g,2,g,0,g,0,g,0,g,0,g
+412,samuel mancinos italian eatery,beef taco filling cooked frzn 12 inch pizza,2,g,5,mg,20,g,0,g,2,g,0,g,0,g,0,g,0,g
+413,samuel mancinos italian eatery,beef taco filling cooked frzn 14 inch pizza,2,g,5,mg,30,g,1,g,2,g,1,g,0,g,0,g,0,g
+414,samuel mancinos italian eatery,beef taco filling cooked frzn 16 inch pizza,3,g,10,mg,35,g,1,g,0,g,1,g,0,g,0,g,0,g
+415,samuel mancinos italian eatery,beef vegetable soup,6,g,20,mg,1290,g,15,g,8,g,2,g,0,g,2,g,3,g
+416,samuel mancinos italian eatery,blt salad,56,g,180,mg,2110,g,10,g,52,g,27,g,0,g,2,g,5,g
+417,samuel mancinos italian eatery,breadsticks half order,5,g,0,mg,100,g,123,g,19,g,1,g,0,g,2,g,3,g
+418,samuel mancinos italian eatery,breadsticks whole order,9,g,0,mg,200,g,246,g,39,g,2,g,0,g,4,g,6,g
+419,samuel mancinos italian eatery,broccoli and cheddar cheese soup,18,g,60,mg,1260,g,14,g,13,g,11,g,0,g,1,g,5,g
+420,samuel mancinos italian eatery,cheddar cheese fine shred spaulding 10 inch pizza,3,g,10,mg,60,g,0,g,2,g,2,g,0,g,0,g,0,g
+421,samuel mancinos italian eatery,cheddar cheese fine shred spaulding 12 inch pizza,4,g,10,mg,70,g,0,g,3,g,2,g,0,g,0,g,0,g
+422,samuel mancinos italian eatery,cheddar cheese fine shred spaulding 14 inch pizza,5,g,15,mg,90,g,0,g,4,g,3,g,0,g,0,g,0,g
+423,samuel mancinos italian eatery,cheddar cheese fine shred spaulding 16 inch pizza,6,g,15,mg,115,g,0,g,4,g,4,g,0,g,0,g,0,g
+424,samuel mancinos italian eatery,cheese dip as a sauce,5,g,5,mg,400,g,5,g,2,g,2,g,0,g,0,g,2,g
+425,samuel mancinos italian eatery,chef salad,52,g,165,mg,2930,g,22,g,53,g,22,g,0,g,5,g,9,g
+426,samuel mancinos italian eatery,chicken and dumpling soup,6,g,50,mg,1060,g,20,g,11,g,2,g,0,g,0,g,2,g
+427,samuel mancinos italian eatery,chicken alfredo,87,g,210,mg,3370,g,101,g,55,g,24,g,0,g,3,g,18,g
+428,samuel mancinos italian eatery,chicken bacon salad,31,g,125,mg,1410,g,14,g,43,g,15,g,0,g,3,g,7,g
+429,samuel mancinos italian eatery,chicken breast strips fajita grld mrkd perdue 10 inch pizza,0,g,5,mg,55,g,0,g,2,g,0,g,0,g,0,g,0,g
+430,samuel mancinos italian eatery,chicken breast strips fajita grld mrkd perdue 12 inch pizza,0,g,5,mg,60,g,0,g,2,g,0,g,0,g,0,g,0,g
+431,samuel mancinos italian eatery,chicken breast strips fajita grld mrkd perdue 14 inch pizza,0,g,5,mg,85,g,0,g,3,g,0,g,0,g,0,g,0,g
+432,samuel mancinos italian eatery,chicken breast strips fajita grld mrkd perdue 16 inch pizza,0,g,5,mg,105,g,0,g,4,g,0,g,0,g,0,g,0,g
+433,samuel mancinos italian eatery,chicken noodle soup,4,g,20,mg,1070,g,12,g,5,g,2,g,0,g,0,g,1,g
+434,samuel mancinos italian eatery,chicken salad,22,g,105,mg,1050,g,15,g,39,g,11,g,0,g,3,g,6,g
+435,samuel mancinos italian eatery,chicken soup w wild rice,5,g,15,mg,1750,g,21,g,7,g,2,g,0,g,0,g,4,g
+436,samuel mancinos italian eatery,chicken tenders,26,g,80,mg,950,g,22,g,28,g,6,g,0,g,3,g,2,g
+437,samuel mancinos italian eatery,chili cheese fries,26,g,80,mg,1080,g,14,g,24,g,14,g,0,g,4,g,3,g
+438,samuel mancinos italian eatery,chili with beans soup,10,g,35,mg,1030,g,18,g,14,g,4,g,0,g,5,g,4,g
+439,samuel mancinos italian eatery,cinna stix 1 2 order 6 stix,7,g,0,mg,105,g,218,g,20,g,2,g,0,g,6,g,96,g
+440,samuel mancinos italian eatery,cinna stix whole order 12 stix,15,g,0,mg,210,g,436,g,39,g,3,g,0,g,12,g,191,g
+441,samuel mancinos italian eatery,clam chowder soup,8,g,25,mg,810,g,39,g,4,g,4,g,0,g,2,g,5,g
+442,samuel mancinos italian eatery,cookie chocolate chip,10,g,10,mg,190,g,25,g,2,g,4,g,0,g,1,g,14,g
+443,samuel mancinos italian eatery,cookie chocolate chip large,13,g,10,mg,310,g,44,g,3,g,5,g,0,g,1,g,25,g
+444,samuel mancinos italian eatery,cookie macadamia nut,12,g,5,mg,180,g,24,g,2,g,3,g,0,g,0,g,13,g
+445,samuel mancinos italian eatery,cookie oatmeal raisin large,19,g,15,mg,240,g,34,g,4,g,4,g,0,g,3,g,12,g
+446,samuel mancinos italian eatery,cookie oatmeal raisin country style,10,g,10,mg,125,g,26,g,2,g,2,g,0,g,1,g,14,g
+447,samuel mancinos italian eatery,country kettle cheese soup,18,g,65,mg,1510,g,15,g,14,g,11,g,0,g,0,g,7,g
+448,samuel mancinos italian eatery,cream of broccoli soup,12,g,45,mg,920,g,14,g,5,g,8,g,0,g,1,g,5,g
+449,samuel mancinos italian eatery,cream of potato w bacon soup,16,g,70,mg,700,g,20,g,5,g,8,g,0,g,1,g,2,g
+450,samuel mancinos italian eatery,extra 3 cheese blend mozzarella 10 inch pizza,2,g,5,mg,60,g,0,g,2,g,1,g,0,g,0,g,0,g
+451,samuel mancinos italian eatery,extra 3 cheese blend mozzarella 12 inch pizza,3,g,5,mg,70,g,0,g,3,g,2,g,0,g,0,g,0,g
+452,samuel mancinos italian eatery,extra 3 cheese blend mozzarella 14 inch pizza,3,g,10,mg,95,g,0,g,4,g,2,g,0,g,0,g,0,g
+453,samuel mancinos italian eatery,extra 3 cheese blend mozzarella 16 inch pizza,4,g,10,mg,115,g,0,g,5,g,3,g,0,g,0,g,0,g
+454,samuel mancinos italian eatery,fettuccini alfredo,84,g,165,mg,3110,g,100,g,32,g,24,g,0,g,3,g,18,g
+455,samuel mancinos italian eatery,french fries,24,g,0,mg,720,g,48,g,4,g,5,g,0,g,5,g,1,g
+456,samuel mancinos italian eatery,french onion soup,9,g,15,mg,1050,g,10,g,2,g,4,g,0,g,1,g,4,g
+457,samuel mancinos italian eatery,g10 inch gourmet pizza bbq chicken 1 slice,6,g,20,mg,340,g,21,g,12,g,4,g,0,g,1,g,3,g
+458,samuel mancinos italian eatery,garden salad,10,g,30,mg,190,g,6,g,8,g,5,g,0,g,1,g,3,g
+459,samuel mancinos italian eatery,garden vegetarian vegetable soup,4,g,0,mg,870,g,16,g,3,g,0,g,0,g,2,g,3,g
+460,samuel mancinos italian eatery,greek salad,18,g,40,mg,910,g,11,g,11,g,10,g,0,g,3,g,5,g
+461,samuel mancinos italian eatery,grinder bbq beef half,26,g,95,mg,1700,g,93,g,45,g,12,g,0,g,4,g,11,g
+462,samuel mancinos italian eatery,grinder bbq beef half ww,26,g,95,mg,1700,g,83,g,47,g,12,g,0,g,12,g,12,g
+463,samuel mancinos italian eatery,grinder bbq beef quarter,13,g,45,mg,850,g,47,g,22,g,6,g,0,g,2,g,6,g
+464,samuel mancinos italian eatery,grinder bbq beef quarter ww,13,g,45,mg,850,g,41,g,24,g,6,g,0,g,6,g,6,g
+465,samuel mancinos italian eatery,grinder bbq beef whole,52,g,190,mg,3400,g,187,g,89,g,24,g,0,g,7,g,23,g
+466,samuel mancinos italian eatery,grinder bbq beef whole ww,53,g,190,mg,3400,g,165,g,95,g,24,g,0,g,24,g,25,g
+467,samuel mancinos italian eatery,grinder bbq pork half,27,g,120,mg,1380,g,86,g,46,g,11,g,0,g,1,g,25,g
+468,samuel mancinos italian eatery,grinder bbq pork half ww,27,g,120,mg,1380,g,75,g,49,g,11,g,0,g,10,g,26,g
+469,samuel mancinos italian eatery,grinder bbq pork quarter,14,g,60,mg,690,g,43,g,23,g,5,g,0,g,1,g,13,g
+470,samuel mancinos italian eatery,grinder bbq pork quarter ww,14,g,60,mg,690,g,38,g,24,g,5,g,0,g,5,g,13,g
+471,samuel mancinos italian eatery,grinder bbq pork whole,54,g,240,mg,2760,g,172,g,92,g,22,g,0,g,2,g,51,g
+472,samuel mancinos italian eatery,grinder bbq pork whole ww,55,g,240,mg,2760,g,150,g,98,g,22,g,0,g,19,g,53,g
+473,samuel mancinos italian eatery,grinder blt half,54,g,150,mg,2050,g,68,g,56,g,20,g,0,g,1,g,3,g
+474,samuel mancinos italian eatery,grinder blt half no mayo,43,g,140,mg,1980,g,68,g,56,g,18,g,0,g,1,g,3,g
+475,samuel mancinos italian eatery,grinder blt half ww,55,g,150,mg,2050,g,57,g,59,g,20,g,0,g,10,g,4,g
+476,samuel mancinos italian eatery,grinder blt half ww no mayo,43,g,140,mg,1980,g,57,g,59,g,18,g,0,g,10,g,4,g
+477,samuel mancinos italian eatery,grinder blt quarter,27,g,75,mg,1030,g,34,g,28,g,10,g,0,g,1,g,1,g
+478,samuel mancinos italian eatery,grinder blt quarter no mayo,22,g,70,mg,990,g,34,g,28,g,9,g,0,g,1,g,1,g
+479,samuel mancinos italian eatery,grinder blt quarter ww,27,g,75,mg,1030,g,29,g,29,g,10,g,0,g,5,g,2,g
+480,samuel mancinos italian eatery,grinder blt quarter ww no mayo,22,g,70,mg,990,g,29,g,29,g,9,g,0,g,5,g,2,g
+481,samuel mancinos italian eatery,grinder blt whole,108,g,295,mg,4100,g,136,g,112,g,40,g,0,g,2,g,5,g
+482,samuel mancinos italian eatery,grinder blt whole no mayo,86,g,275,mg,3950,g,136,g,112,g,37,g,0,g,2,g,5,g
+483,samuel mancinos italian eatery,grinder blt whole ww,109,g,295,mg,4100,g,115,g,117,g,40,g,0,g,19,g,7,g
+484,samuel mancinos italian eatery,grinder blt whole ww no mayo,87,g,275,mg,3950,g,115,g,117,g,37,g,0,g,19,g,7,g
+485,samuel mancinos italian eatery,grinder broiled breast of chicken half no mayo,18,g,85,mg,1090,g,69,g,48,g,9,g,0,g,1,g,2,g
+486,samuel mancinos italian eatery,grinder broiled breast of chicken half white,29,g,95,mg,1160,g,69,g,48,g,10,g,0,g,1,g,2,g
+487,samuel mancinos italian eatery,grinder broiled breast of chicken half ww,29,g,95,mg,1160,g,58,g,51,g,10,g,0,g,10,g,3,g
+488,samuel mancinos italian eatery,grinder broiled breast of chicken half ww no mayo,18,g,85,mg,1090,g,58,g,51,g,9,g,0,g,10,g,3,g
+489,samuel mancinos italian eatery,grinder broiled breast of chicken quarter,14,g,50,mg,580,g,35,g,24,g,5,g,0,g,1,g,1,g
+490,samuel mancinos italian eatery,grinder broiled breast of chicken quarter no mayo,9,g,45,mg,540,g,35,g,24,g,5,g,0,g,1,g,1,g
+491,samuel mancinos italian eatery,grinder broiled breast of chicken quarter ww,15,g,50,mg,580,g,29,g,25,g,5,g,0,g,5,g,1,g
+492,samuel mancinos italian eatery,grinder broiled breast of chicken quarter ww no mayo,9,g,45,mg,540,g,29,g,25,g,5,g,0,g,5,g,1,g
+493,samuel mancinos italian eatery,grinder broiled breast of chicken whole,58,g,195,mg,2330,g,139,g,96,g,20,g,0,g,2,g,3,g
+494,samuel mancinos italian eatery,grinder broiled breast of chicken whole no mayo,36,g,175,mg,2180,g,139,g,96,g,17,g,0,g,2,g,3,g
+495,samuel mancinos italian eatery,grinder broiled breast of chicken whole ww,59,g,195,mg,2330,g,117,g,102,g,20,g,0,g,19,g,5,g
+496,samuel mancinos italian eatery,grinder broiled breast of chicken whole ww no mayo,36,g,175,mg,2180,g,117,g,102,g,17,g,0,g,19,g,5,g
+497,samuel mancinos italian eatery,grinder buffalo chicken half,18,g,85,mg,1410,g,70,g,48,g,9,g,0,g,1,g,2,g
+498,samuel mancinos italian eatery,grinder buffalo chicken half ww,18,g,85,mg,1410,g,59,g,51,g,9,g,0,g,10,g,3,g
+499,samuel mancinos italian eatery,grinder buffalo chicken quarter,9,g,45,mg,690,g,35,g,24,g,5,g,0,g,1,g,1,g
+500,samuel mancinos italian eatery,grinder buffalo chicken quarter ww,9,g,45,mg,690,g,30,g,25,g,5,g,0,g,5,g,1,g
+501,samuel mancinos italian eatery,grinder buffalo chicken whole,36,g,175,mg,2820,g,140,g,97,g,17,g,0,g,2,g,4,g
+502,samuel mancinos italian eatery,grinder buffalo chicken whole ww,36,g,175,mg,2820,g,118,g,102,g,17,g,0,g,19,g,6,g
+503,samuel mancinos italian eatery,grinder chicken bacon club half,38,g,120,mg,1510,g,69,g,53,g,13,g,0,g,1,g,2,g
+504,samuel mancinos italian eatery,grinder chicken bacon club half no mayo,26,g,105,mg,1440,g,69,g,53,g,12,g,0,g,1,g,2,g
+505,samuel mancinos italian eatery,grinder chicken bacon club half ww,38,g,120,mg,1520,g,58,g,55,g,13,g,0,g,10,g,3,g
+506,samuel mancinos italian eatery,grinder chicken bacon club half ww no mayo,27,g,110,mg,1140,g,35,g,55,g,12,g,0,g,10,g,3,g
+507,samuel mancinos italian eatery,grinder chicken bacon club quarter,19,g,60,mg,760,g,35,g,26,g,7,g,0,g,1,g,1,g
+508,samuel mancinos italian eatery,grinder chicken bacon club whole,75,g,235,mg,3030,g,138,g,105,g,27,g,0,g,2,g,4,g
+509,samuel mancinos italian eatery,grinder chicken bacon club whole no mayo,53,g,215,mg,2880,g,138,g,105,g,24,g,0,g,2,g,4,g
+510,samuel mancinos italian eatery,grinder chicken bacon club whole ww,76,g,235,mg,3030,g,116,g,111,g,27,g,0,g,19,g,6,g
+511,samuel mancinos italian eatery,grinder chicken bacon club whole ww no mayo,54,g,215,mg,2880,g,116,g,111,g,24,g,0,g,19,g,6,g
+512,samuel mancinos italian eatery,grinder chicken bacon club quarter no mayo,13,g,55,mg,720,g,35,g,26,g,6,g,0,g,1,g,1,g
+513,samuel mancinos italian eatery,grinder chicken bacon club quarter ww,19,g,60,mg,760,g,29,g,28,g,7,g,0,g,5,g,1,g
+514,samuel mancinos italian eatery,grinder chicken bacon club quarter ww no mayo,13,g,55,mg,720,g,29,g,28,g,6,g,0,g,5,g,1,g
+515,samuel mancinos italian eatery,grinder chicken parmesan half,20,g,90,mg,1320,g,73,g,50,g,9,g,0,g,4,g,3,g
+516,samuel mancinos italian eatery,grinder chicken parmesan half ww,20,g,90,mg,1320,g,62,g,53,g,9,g,0,g,12,g,4,g
+517,samuel mancinos italian eatery,grinder chicken parmesan quarter,10,g,45,mg,660,g,37,g,25,g,5,g,0,g,2,g,2,g
+518,samuel mancinos italian eatery,grinder chicken parmesan quarter ww,10,g,45,mg,660,g,31,g,26,g,5,g,0,g,6,g,2,g
+519,samuel mancinos italian eatery,grinder chicken parmesan whole,39,g,175,mg,2640,g,146,g,100,g,18,g,0,g,8,g,7,g
+520,samuel mancinos italian eatery,grinder chicken parmesan whole ww,40,g,175,mg,2640,g,124,g,105,g,18,g,0,g,25,g,9,g
+521,samuel mancinos italian eatery,grinder french dip half,19,g,80,mg,1890,g,73,g,42,g,10,g,0,g,1,g,4,g
+522,samuel mancinos italian eatery,grinder french dip half ww,19,g,80,mg,1890,g,62,g,45,g,10,g,0,g,10,g,5,g
+523,samuel mancinos italian eatery,grinder french dip quarter,10,g,40,mg,950,g,37,g,21,g,5,g,0,g,1,g,2,g
+524,samuel mancinos italian eatery,grinder french dip quarter ww,10,g,40,mg,950,g,31,g,22,g,5,g,0,g,5,g,2,g
+525,samuel mancinos italian eatery,grinder french dip whole,38,g,155,mg,3790,g,146,g,84,g,19,g,0,g,3,g,8,g
+526,samuel mancinos italian eatery,grinder french dip whole ww,39,g,155,mg,3790,g,124,g,90,g,19,g,0,g,20,g,10,g
+527,samuel mancinos italian eatery,grinder ham and cheese half,32,g,110,mg,1840,g,68,g,47,g,12,g,0,g,1,g,2,g
+528,samuel mancinos italian eatery,grinder ham and cheese half no mayo,21,g,100,mg,1760,g,68,g,47,g,10,g,0,g,1,g,2,g
+529,samuel mancinos italian eatery,grinder ham and cheese half ww,33,g,110,mg,1840,g,57,g,49,g,12,g,0,g,10,g,3,g
+530,samuel mancinos italian eatery,grinder ham and cheese half ww no mayo,22,g,100,mg,1760,g,57,g,49,g,10,g,0,g,10,g,3,g
+531,samuel mancinos italian eatery,grinder ham and cheese quarter,16,g,55,mg,920,g,34,g,23,g,6,g,0,g,1,g,1,g
+532,samuel mancinos italian eatery,grinder ham and cheese quarter no mayo,11,g,50,mg,880,g,34,g,23,g,5,g,0,g,1,g,1,g
+533,samuel mancinos italian eatery,grinder ham and cheese quarter ww,16,g,55,mg,920,g,29,g,25,g,6,g,0,g,5,g,1,g
+534,samuel mancinos italian eatery,grinder ham and cheese quarter ww no mayo,11,g,50,mg,880,g,29,g,25,g,5,g,0,g,5,g,1,g
+535,samuel mancinos italian eatery,grinder ham and cheese whole,65,g,220,mg,3680,g,136,g,93,g,23,g,0,g,2,g,3,g
+536,samuel mancinos italian eatery,grinder ham and cheese whole no mayo,42,g,200,mg,3530,g,136,g,93,g,20,g,0,g,2,g,3,g
+537,samuel mancinos italian eatery,grinder ham and cheese whole ww,65,g,220,mg,3680,g,114,g,98,g,24,g,0,g,19,g,5,g
+538,samuel mancinos italian eatery,grinder ham and cheese whole ww no mayo,43,g,200,mg,3530,g,114,g,98,g,20,g,0,g,19,g,5,g
+539,samuel mancinos italian eatery,grinder ham and turkey half,39,g,135,mg,2370,g,72,g,52,g,16,g,0,g,2,g,3,g
+540,samuel mancinos italian eatery,grinder ham and turkey half no mayo,28,g,125,mg,2290,g,72,g,52,g,15,g,0,g,2,g,3,g
+541,samuel mancinos italian eatery,grinder ham and turkey half ww,39,g,135,mg,2370,g,61,g,55,g,16,g,0,g,10,g,4,g
+542,samuel mancinos italian eatery,grinder ham and turkey half ww no mayo,28,g,125,mg,2290,g,61,g,55,g,15,g,0,g,10,g,4,g
+543,samuel mancinos italian eatery,grinder ham and turkey quarter,20,g,65,mg,1190,g,36,g,26,g,8,g,0,g,1,g,1,g
+544,samuel mancinos italian eatery,grinder ham and turkey quarter no mayo,14,g,60,mg,1150,g,36,g,26,g,7,g,0,g,1,g,1,g
+545,samuel mancinos italian eatery,grinder ham and turkey quarter ww,20,g,65,mg,1190,g,31,g,28,g,8,g,0,g,5,g,2,g
+546,samuel mancinos italian eatery,grinder ham and turkey quarter ww no mayo,14,g,60,mg,1150,g,31,g,28,g,7,g,0,g,5,g,2,g
+547,samuel mancinos italian eatery,grinder ham and turkey whole,78,g,270,mg,4740,g,144,g,105,g,32,g,0,g,3,g,6,g
+548,samuel mancinos italian eatery,grinder ham and turkey whole no mayo,56,g,250,mg,4590,g,144,g,105,g,29,g,0,g,3,g,6,g
+549,samuel mancinos italian eatery,grinder ham and turkey whole ww,79,g,270,mg,4740,g,122,g,110,g,32,g,0,g,20,g,8,g
+550,samuel mancinos italian eatery,grinder ham and turkey whole ww no mayo,57,g,250,mg,4590,g,122,g,110,g,29,g,0,g,20,g,8,g
+551,samuel mancinos italian eatery,grinder ham cheese and salami half,36,g,105,mg,1690,g,68,g,43,g,13,g,0,g,1,g,2,g
+552,samuel mancinos italian eatery,grinder ham cheese and salami half no mayo,25,g,95,mg,1610,g,68,g,43,g,12,g,0,g,1,g,2,g
+553,samuel mancinos italian eatery,grinder ham cheese and salami half ww,36,g,105,mg,1690,g,57,g,46,g,13,g,0,g,10,g,3,g
+554,samuel mancinos italian eatery,grinder ham cheese and salami half ww no mayo,25,g,95,mg,1620,g,57,g,46,g,12,g,0,g,10,g,3,g
+555,samuel mancinos italian eatery,grinder ham cheese and salami quarter,19,g,55,mg,880,g,34,g,22,g,7,g,0,g,1,g,1,g
+556,samuel mancinos italian eatery,grinder ham cheese and salami quarter no mayo,13,g,50,mg,840,g,34,g,22,g,6,g,0,g,1,g,1,g
+557,samuel mancinos italian eatery,grinder ham cheese and salami quarter ww,19,g,55,mg,880,g,29,g,23,g,7,g,0,g,5,g,1,g
+558,samuel mancinos italian eatery,grinder ham cheese and salami quarter ww no mayo,13,g,50,mg,840,g,29,g,23,g,6,g,0,g,5,g,1,g
+559,samuel mancinos italian eatery,grinder ham cheese and salami whole,72,g,210,mg,3380,g,136,g,87,g,26,g,0,g,2,g,3,g
+560,samuel mancinos italian eatery,grinder ham cheese and salami whole no mayo,50,g,190,mg,3230,g,136,g,87,g,23,g,0,g,2,g,3,g
+561,samuel mancinos italian eatery,grinder ham cheese and salami whole ww,73,g,210,mg,3380,g,114,g,92,g,26,g,0,g,19,g,5,g
+562,samuel mancinos italian eatery,grinder ham cheese and salami whole ww no mayo,50,g,190,mg,3230,g,114,g,92,g,23,g,0,g,19,g,5,g
+563,samuel mancinos italian eatery,grinder italian half,47,g,135,mg,2190,g,77,g,52,g,16,g,0,g,4,g,4,g
+564,samuel mancinos italian eatery,grinder italian half no mayo,36,g,125,mg,2120,g,77,g,52,g,15,g,0,g,4,g,4,g
+565,samuel mancinos italian eatery,grinder italian half ww,47,g,135,mg,2190,g,66,g,55,g,16,g,0,g,12,g,5,g
+566,samuel mancinos italian eatery,grinder italian half ww no mayo,36,g,125,mg,2120,g,66,g,55,g,15,g,0,g,12,g,5,g
+567,samuel mancinos italian eatery,grinder italian quarter,24,g,70,mg,1130,g,38,g,26,g,8,g,0,g,2,g,2,g
+568,samuel mancinos italian eatery,grinder italian quarter no mayo,19,g,65,mg,1090,g,38,g,26,g,8,g,0,g,2,g,2,g
+569,samuel mancinos italian eatery,grinder italian quarter ww,24,g,70,mg,1130,g,33,g,28,g,8,g,0,g,6,g,3,g
+570,samuel mancinos italian eatery,grinder italian quarter ww no mayo,19,g,65,mg,1090,g,33,g,28,g,8,g,0,g,6,g,3,g
+571,samuel mancinos italian eatery,grinder italian whole,94,g,270,mg,4380,g,153,g,104,g,33,g,0,g,7,g,8,g
+572,samuel mancinos italian eatery,grinder italian whole no mayo,72,g,250,mg,4230,g,153,g,104,g,30,g,0,g,7,g,8,g
+573,samuel mancinos italian eatery,grinder italian whole ww,95,g,270,mg,4380,g,132,g,109,g,33,g,0,g,24,g,10,g
+574,samuel mancinos italian eatery,grinder italian whole ww no mayo,73,g,250,mg,4230,g,132,g,109,g,30,g,0,g,24,g,10,g
+575,samuel mancinos italian eatery,grinder meatball half,33,g,110,mg,1590,g,84,g,44,g,14,g,0,g,5,g,5,g
+576,samuel mancinos italian eatery,grinder meatball half ww,33,g,110,mg,1590,g,73,g,47,g,14,g,0,g,14,g,6,g
+577,samuel mancinos italian eatery,grinder meatball quarter,16,g,55,mg,800,g,42,g,22,g,7,g,0,g,3,g,3,g
+578,samuel mancinos italian eatery,grinder meatball quarter ww,16,g,55,mg,800,g,37,g,23,g,7,g,0,g,7,g,3,g
+579,samuel mancinos italian eatery,grinder meatball whole,65,g,215,mg,3180,g,169,g,88,g,29,g,0,g,11,g,10,g
+580,samuel mancinos italian eatery,grinder meatball whole ww,66,g,215,mg,3180,g,147,g,93,g,29,g,0,g,28,g,13,g
+581,samuel mancinos italian eatery,grinder neptune half,35,g,80,mg,2320,g,124,g,43,g,11,g,0,g,5,g,12,g
+582,samuel mancinos italian eatery,grinder neptune half ww,36,g,80,mg,2320,g,114,g,46,g,11,g,0,g,14,g,13,g
+583,samuel mancinos italian eatery,grinder neptune quarter,18,g,40,mg,1160,g,62,g,22,g,6,g,0,g,3,g,6,g
+584,samuel mancinos italian eatery,grinder neptune quarter ww,18,g,40,mg,1160,g,57,g,23,g,6,g,0,g,7,g,7,g
+585,samuel mancinos italian eatery,grinder neptune whole,71,g,155,mg,4650,g,249,g,87,g,23,g,0,g,10,g,24,g
+586,samuel mancinos italian eatery,grinder neptune whole ww,71,g,155,mg,4650,g,227,g,92,g,23,g,0,g,27,g,26,g
+587,samuel mancinos italian eatery,grinder pizza half,41,g,110,mg,1520,g,72,g,36,g,20,g,0,g,2,g,4,g
+588,samuel mancinos italian eatery,grinder pizza half ww,42,g,110,mg,1520,g,61,g,39,g,20,g,0,g,11,g,6,g
+589,samuel mancinos italian eatery,grinder pizza quarter,21,g,55,mg,760,g,36,g,18,g,10,g,0,g,1,g,2,g
+590,samuel mancinos italian eatery,grinder pizza quarter ww,21,g,55,mg,760,g,31,g,19,g,10,g,0,g,5,g,3,g
+591,samuel mancinos italian eatery,grinder pizza whole,82,g,220,mg,3030,g,144,g,73,g,40,g,0,g,4,g,9,g
+592,samuel mancinos italian eatery,grinder pizza whole ww,83,g,220,mg,3030,g,122,g,78,g,40,g,0,g,21,g,11,g
+593,samuel mancinos italian eatery,grinder reuben half,31,g,110,mg,2630,g,81,g,47,g,11,g,0,g,4,g,9,g
+594,samuel mancinos italian eatery,grinder reuben half ww,31,g,110,mg,2630,g,70,g,50,g,11,g,0,g,12,g,10,g
+595,samuel mancinos italian eatery,grinder reuben quarter,15,g,55,mg,1310,g,41,g,24,g,6,g,0,g,2,g,4,g
+596,samuel mancinos italian eatery,grinder reuben quarter ww,16,g,55,mg,1310,g,35,g,25,g,6,g,0,g,6,g,5,g
+597,samuel mancinos italian eatery,grinder reuben whole,61,g,215,mg,5250,g,162,g,95,g,22,g,0,g,7,g,17,g
+598,samuel mancinos italian eatery,grinder reuben whole ww,62,g,215,mg,5250,g,141,g,100,g,22,g,0,g,24,g,19,g
+599,samuel mancinos italian eatery,grinder roast beef and cheddar half,37,g,110,mg,1840,g,73,g,43,g,15,g,0,g,1,g,4,g
+600,samuel mancinos italian eatery,grinder roast beef and cheddar half no mayo,25,g,100,mg,1760,g,73,g,43,g,13,g,0,g,1,g,4,g
+601,samuel mancinos italian eatery,grinder roast beef and cheddar half ww,37,g,110,mg,1840,g,63,g,46,g,15,g,0,g,10,g,5,g
+602,samuel mancinos italian eatery,grinder roast beef and cheddar half ww no mayo,26,g,100,mg,1760,g,63,g,46,g,13,g,0,g,10,g,5,g
+603,samuel mancinos italian eatery,grinder roast beef and cheddar quarter,18,g,55,mg,920,g,37,g,22,g,7,g,0,g,1,g,2,g
+604,samuel mancinos italian eatery,grinder roast beef and cheddar quarter no mayo,13,g,50,mg,880,g,37,g,22,g,7,g,0,g,1,g,2,g
+605,samuel mancinos italian eatery,grinder roast beef and cheddar quarter ww,18,g,55,mg,920,g,31,g,23,g,7,g,0,g,5,g,3,g
+606,samuel mancinos italian eatery,grinder roast beef and cheddar quarter ww no mayo,13,g,50,mg,880,g,31,g,23,g,7,g,0,g,5,g,3,g
+607,samuel mancinos italian eatery,grinder roast beef and cheddar whole,73,g,220,mg,3680,g,147,g,27,g,29,g,0,g,3,g,8,g
+608,samuel mancinos italian eatery,grinder roast beef and cheddar whole no mayo,51,g,200,mg,3520,g,147,g,87,g,26,g,0,g,3,g,8,g
+609,samuel mancinos italian eatery,grinder roast beef and cheddar whole ww,74,g,220,mg,3680,g,125,g,92,g,29,g,0,g,20,g,10,g
+610,samuel mancinos italian eatery,grinder roast beef and cheddar whole ww no mayo,52,g,200,mg,3520,g,125,g,92,g,26,g,0,g,20,g,10,g
+611,samuel mancinos italian eatery,grinder roast beef half,30,g,95,mg,1850,g,73,g,44,g,11,g,0,g,1,g,4,g
+612,samuel mancinos italian eatery,grinder roast beef half no mayo,19,g,85,mg,1770,g,73,g,44,g,10,g,0,g,1,g,4,g
+613,samuel mancinos italian eatery,grinder roast beef half ww,31,g,95,mg,1850,g,63,g,47,g,11,g,0,g,10,g,5,g
+614,samuel mancinos italian eatery,grinder roast beef half ww no mayo,20,g,85,mg,1770,g,63,g,47,g,10,g,0,g,10,g,5,g
+615,samuel mancinos italian eatery,grinder roast beef quarter,15,g,45,mg,920,g,37,g,22,g,6,g,0,g,1,g,2,g
+616,samuel mancinos italian eatery,grinder roast beef quarter no mayo,10,g,40,mg,890,g,37,g,22,g,5,g,0,g,1,g,2,g
+617,samuel mancinos italian eatery,grinder roast beef quarter ww,15,g,45,mg,920,g,31,g,23,g,6,g,0,g,5,g,3,g
+618,samuel mancinos italian eatery,grinder roast beef quarter ww no mayo,10,g,40,mg,890,g,31,g,23,g,5,g,0,g,5,g,3,g
+619,samuel mancinos italian eatery,grinder roast beef whole,61,g,185,mg,3700,g,147,g,88,g,23,g,0,g,3,g,8,g
+620,samuel mancinos italian eatery,grinder roast beef whole no mayo,39,g,165,mg,3550,g,147,g,88,g,19,g,0,g,3,g,8,g
+621,samuel mancinos italian eatery,grinder roast beef whole ww,62,g,185,mg,3700,g,125,g,93,g,23,g,0,g,20,g,10,g
+622,samuel mancinos italian eatery,grinder roast beef whole ww no mayo,39,g,165,mg,3550,g,125,g,93,g,20,g,0,g,20,g,10,g
+623,samuel mancinos italian eatery,grinder roast beef classic half,32,g,120,mg,2300,g,73,g,51,g,12,g,0,g,2,g,4,g
+624,samuel mancinos italian eatery,grinder roast beef classic half no mayo,21,g,110,mg,2220,g,73,g,51,g,10,g,0,g,2,g,4,g
+625,samuel mancinos italian eatery,grinder roast beef classic half ww,32,g,120,mg,2300,g,62,g,53,g,12,g,0,g,10,g,5,g
+626,samuel mancinos italian eatery,grinder roast beef classic half ww no mayo,21,g,110,mg,2220,g,62,g,53,g,10,g,0,g,10,g,5,g
+627,samuel mancinos italian eatery,grinder roast beef classic quarter,16,g,60,mg,1150,g,36,g,25,g,6,g,0,g,1,g,2,g
+628,samuel mancinos italian eatery,grinder roast beef classic quarter no mayo,10,g,55,mg,1110,g,36,g,25,g,5,g,0,g,1,g,2,g
+629,samuel mancinos italian eatery,grinder roast beef classic quarter ww,16,g,60,mg,1150,g,31,g,27,g,6,g,0,g,5,g,2,g
+630,samuel mancinos italian eatery,grinder roast beef classic whole,64,g,240,mg,4600,g,146,g,101,g,23,g,0,g,3,g,7,g
+631,samuel mancinos italian eatery,grinder roast beef classic whole no mayo,42,g,220,mg,4450,g,146,g,101,g,20,g,0,g,3,g,7,g
+632,samuel mancinos italian eatery,grinder roast beef classic whole ww,65,g,240,mg,4600,g,124,g,106,g,23,g,0,g,20,g,9,g
+633,samuel mancinos italian eatery,grinder roast beef classic whole ww no mayo,43,g,220,mg,4450,g,124,g,106,g,20,g,0,g,20,g,9,g
+634,samuel mancinos italian eatery,grinder samuel mancino club half,44,g,150,mg,2480,g,70,g,58,g,16,g,0,g,2,g,3,g
+635,samuel mancinos italian eatery,grinder samuel mancino club half no mayo,33,g,140,mg,2400,g,70,g,58,g,14,g,0,g,2,g,3,g
+636,samuel mancinos italian eatery,grinder samuel mancino club half ww,45,g,150,mg,2480,g,60,g,60,g,16,g,0,g,10,g,4,g
+637,samuel mancinos italian eatery,grinder samuel mancino club half ww no mayo,33,g,140,mg,2400,g,60,g,60,g,14,g,0,g,10,g,4,g
+638,samuel mancinos italian eatery,grinder samuel mancino club quarter,22,g,75,mg,1240,g,35,g,29,g,8,g,0,g,1,g,2,g
+639,samuel mancinos italian eatery,grinder samuel mancino club quarter no mayo,16,g,70,mg,1200,g,35,g,29,g,7,g,0,g,1,g,2,g
+640,samuel mancinos italian eatery,grinder samuel mancino club quarter ww,22,g,75,mg,1240,g,30,g,30,g,8,g,0,g,5,g,2,g
+641,samuel mancinos italian eatery,grinder samuel mancino club quarter ww no mayo,17,g,70,mg,1200,g,30,g,30,g,7,g,0,g,5,g,2,g
+642,samuel mancinos italian eatery,grinder samuel mancino club whole,88,g,300,mg,4950,g,141,g,115,g,32,g,0,g,3,g,6,g
+643,samuel mancinos italian eatery,grinder samuel mancino club whole no mayo,66,g,280,mg,4800,g,141,g,115,g,29,g,0,g,3,g,6,g
+644,samuel mancinos italian eatery,grinder samuel mancino club whole ww,89,g,300,mg,4950,g,119,g,121,g,32,g,0,g,20,g,8,g
+645,samuel mancinos italian eatery,grinder samuel mancino club whole ww no mayo,67,g,280,mg,4800,g,119,g,121,g,29,g,0,g,20,g,8,g
+646,samuel mancinos italian eatery,grinder seafood and crab half,53,g,90,mg,1550,g,85,g,36,g,13,g,0,g,3,g,9,g
+647,samuel mancinos italian eatery,grinder seafood and crab half no xtra mayo,41,g,80,mg,1470,g,85,g,36,g,11,g,0,g,3,g,9,g
+648,samuel mancinos italian eatery,grinder seafood and crab half ww,53,g,90,mg,1550,g,74,g,38,g,13,g,0,g,12,g,10,g
+649,samuel mancinos italian eatery,grinder seafood and crab half ww no xtra mayo,42,g,80,mg,1470,g,74,g,38,g,12,g,0,g,12,g,10,g
+650,samuel mancinos italian eatery,grinder seafood and crab quarter,25,g,40,mg,730,g,42,g,17,g,6,g,0,g,2,g,4,g
+651,samuel mancinos italian eatery,grinder seafood and crab quarter no xtra mayo,20,g,35,mg,690,g,42,g,17,g,6,g,0,g,2,g,4,g
+652,samuel mancinos italian eatery,grinder seafood and crab quarter ww,25,g,40,mg,730,g,36,g,19,g,6,g,0,g,6,g,5,g
+653,samuel mancinos italian eatery,grinder seafood and crab quarter ww no xtra mayo,20,g,35,mg,690,g,36,g,19,g,6,g,0,g,6,g,5,g
+654,samuel mancinos italian eatery,grinder seafood and crab whole,108,g,180,mg,3190,g,171,g,72,g,26,g,0,g,6,g,19,g
+655,samuel mancinos italian eatery,grinder seafood and crab whole no xtra mayo,85,g,160,mg,3040,g,171,g,72,g,23,g,0,g,6,g,19,g
+656,samuel mancinos italian eatery,grinder seafood and crab whole ww,108,g,180,mg,3190,g,149,g,78,g,26,g,0,g,23,g,21,g
+657,samuel mancinos italian eatery,grinder seafood and crab whole ww no xtra mayo,86,g,160,mg,3040,g,149,g,78,g,23,g,0,g,23,g,21,g
+658,samuel mancinos italian eatery,grinder sicilian half,44,g,120,mg,2320,g,74,g,48,g,17,g,0,g,3,g,5,g
+659,samuel mancinos italian eatery,grinder sicilian half ww,44,g,120,mg,2320,g,63,g,51,g,17,g,0,g,11,g,6,g
+660,samuel mancinos italian eatery,grinder sicilian quarter,22,g,60,mg,1160,g,37,g,24,g,9,g,0,g,1,g,3,g
+661,samuel mancinos italian eatery,grinder sicilian quarter ww,22,g,60,mg,1160,g,32,g,25,g,9,g,0,g,6,g,3,g
+662,samuel mancinos italian eatery,grinder sicilian whole,87,g,245,mg,4630,g,148,g,96,g,34,g,0,g,5,g,11,g
+663,samuel mancinos italian eatery,grinder sicilian whole ww,88,g,245,mg,4630,g,127,g,101,g,34,g,0,g,22,g,13,g
+664,samuel mancinos italian eatery,grinder steak half,33,g,110,mg,1750,g,74,g,52,g,13,g,0,g,3,g,5,g
+665,samuel mancinos italian eatery,grinder steak half no mayo,22,g,100,mg,1670,g,74,g,52,g,11,g,0,g,3,g,5,g
+666,samuel mancinos italian eatery,grinder steak half ww,34,g,110,mg,1750,g,63,g,55,g,13,g,0,g,11,g,6,g
+667,samuel mancinos italian eatery,grinder steak half ww no mayo,23,g,100,mg,1670,g,63,g,55,g,11,g,0,g,11,g,6,g
+668,samuel mancinos italian eatery,grinder steak quarter,17,g,55,mg,870,g,37,g,26,g,6,g,0,g,1,g,3,g
+669,samuel mancinos italian eatery,grinder steak quarter no mayo,11,g,50,mg,840,g,37,g,26,g,6,g,0,g,1,g,3,g
+670,samuel mancinos italian eatery,grinder steak quarter ww,17,g,55,mg,870,g,32,g,27,g,6,g,0,g,6,g,3,g
+671,samuel mancinos italian eatery,grinder steak quarter ww no mayo,11,g,50,mg,840,g,32,g,27,g,6,g,0,g,6,g,3,g
+672,samuel mancinos italian eatery,grinder steak whole,67,g,225,mg,3490,g,148,g,104,g,25,g,0,g,6,g,11,g
+673,samuel mancinos italian eatery,grinder steak whole no mayo,45,g,200,mg,3340,g,148,g,104,g,22,g,0,g,6,g,11,g
+674,samuel mancinos italian eatery,grinder steak whole ww,68,g,225,mg,3490,g,126,g,110,g,25,g,0,g,23,g,13,g
+675,samuel mancinos italian eatery,grinder steak whole ww no mayo,45,g,200,mg,3340,g,126,g,110,g,22,g,0,g,23,g,13,g
+676,samuel mancinos italian eatery,grinder stromboli half,43,g,110,mg,2370,g,83,g,46,g,16,g,0,g,7,g,7,g
+677,samuel mancinos italian eatery,grinder stromboli half ww,44,g,110,mg,2370,g,73,g,48,g,16,g,0,g,16,g,8,g
+678,samuel mancinos italian eatery,grinder stromboli quarter,22,g,55,mg,1190,g,42,g,23,g,8,g,0,g,4,g,4,g
+679,samuel mancinos italian eatery,grinder stromboli quarter ww,22,g,55,mg,1190,g,36,g,24,g,8,g,0,g,8,g,4,g
+680,samuel mancinos italian eatery,grinder stromboli whole,86,g,225,mg,4740,g,167,g,91,g,32,g,0,g,14,g,14,g
+681,samuel mancinos italian eatery,grinder stromboli whole ww,87,g,225,mg,4740,g,145,g,96,g,33,g,0,g,31,g,16,g
+682,samuel mancinos italian eatery,grinder taco half,47,g,130,mg,1170,g,83,g,55,g,24,g,0,g,4,g,9,g
+683,samuel mancinos italian eatery,grinder taco half ww,48,g,130,mg,1170,g,73,g,58,g,24,g,0,g,12,g,10,g
+684,samuel mancinos italian eatery,grinder taco quarter,24,g,65,mg,580,g,42,g,28,g,12,g,0,g,2,g,5,g
+685,samuel mancinos italian eatery,grinder taco quarter ww,24,g,65,mg,580,g,36,g,29,g,12,g,0,g,6,g,5,g
+686,samuel mancinos italian eatery,grinder taco whole,94,g,260,mg,2340,g,167,g,110,g,48,g,0,g,8,g,18,g
+687,samuel mancinos italian eatery,grinder taco whole ww,95,g,260,mg,2340,g,145,g,116,g,48,g,0,g,24,g,20,g
+688,samuel mancinos italian eatery,grinder tuna half,37,g,155,mg,1300,g,69,g,61,g,15,g,0,g,1,g,2,g
+689,samuel mancinos italian eatery,grinder tuna half ww,38,g,155,mg,1300,g,58,g,64,g,15,g,0,g,10,g,3,g
+690,samuel mancinos italian eatery,grinder tuna quarter,18,g,75,mg,630,g,34,g,29,g,7,g,0,g,1,g,1,g
+691,samuel mancinos italian eatery,grinder tuna quarter ww,18,g,75,mg,630,g,29,g,31,g,7,g,0,g,5,g,1,g
+692,samuel mancinos italian eatery,grinder tuna whole,74,g,310,mg,2590,g,138,g,122,g,30,g,0,g,2,g,3,g
+693,samuel mancinos italian eatery,grinder tuna whole ww,75,g,310,mg,2590,g,116,g,128,g,30,g,0,g,19,g,5,g
+694,samuel mancinos italian eatery,grinder turkey half,37,g,125,mg,2230,g,74,g,48,g,15,g,0,g,2,g,4,g
+695,samuel mancinos italian eatery,grinder turkey half no mayo,26,g,115,mg,2160,g,74,g,48,g,14,g,0,g,2,g,4,g
+696,samuel mancinos italian eatery,grinder turkey half ww,37,g,125,mg,2230,g,64,g,51,g,15,g,0,g,11,g,5,g
+697,samuel mancinos italian eatery,grinder turkey half ww no mayo,26,g,115,mg,2160,g,64,g,51,g,14,g,0,g,11,g,5,g
+698,samuel mancinos italian eatery,grinder turkey quarter,18,g,60,mg,1120,g,37,g,24,g,8,g,0,g,1,g,2,g
+699,samuel mancinos italian eatery,grinder turkey quarter no mayo,13,g,55,mg,1080,g,37,g,24,g,7,g,0,g,1,g,2,g
+700,samuel mancinos italian eatery,grinder turkey quarter ww,19,g,60,mg,1120,g,32,g,25,g,8,g,0,g,5,g,2,g
+701,samuel mancinos italian eatery,grinder turkey quarter ww no mayo,13,g,55,mg,1080,g,32,g,25,g,7,g,0,g,5,g,2,g
+702,samuel mancinos italian eatery,grinder turkey whole,74,g,250,mg,4470,g,149,g,96,g,30,g,0,g,4,g,7,g
+703,samuel mancinos italian eatery,grinder turkey whole no mayo,52,g,230,mg,4310,g,149,g,96,g,27,g,0,g,4,g,7,g
+704,samuel mancinos italian eatery,grinder turkey whole ww,75,g,250,mg,4470,g,127,g,102,g,30,g,0,g,21,g,9,g
+705,samuel mancinos italian eatery,grinder turkey whole ww no mayo,52,g,230,mg,4310,g,127,g,102,g,27,g,0,g,21,g,9,g
+706,samuel mancinos italian eatery,grinder veggie half,36,g,50,mg,1110,g,76,g,27,g,9,g,0,g,3,g,4,g
+707,samuel mancinos italian eatery,grinder veggie half no mayo,25,g,40,mg,1030,g,76,g,27,g,8,g,0,g,3,g,4,g
+708,samuel mancinos italian eatery,grinder veggie half ww,36,g,50,mg,1110,g,65,g,30,g,10,g,0,g,12,g,5,g
+709,samuel mancinos italian eatery,grinder veggie half ww no mayo,25,g,40,mg,1030,g,65,g,30,g,8,g,0,g,12,g,5,g
+710,samuel mancinos italian eatery,grinder veggie quarter,18,g,25,mg,560,g,38,g,13,g,5,g,0,g,2,g,2,g
+711,samuel mancinos italian eatery,grinder veggie quarter no mayo,12,g,20,mg,50,g,38,g,13,g,4,g,0,g,2,g,2,g
+712,samuel mancinos italian eatery,grinder veggie quarter ww,18,g,25,mg,560,g,32,g,15,g,5,g,0,g,6,g,2,g
+713,samuel mancinos italian eatery,grinder veggie quarter ww no mayo,13,g,20,mg,520,g,32,g,15,g,4,g,0,g,6,g,2,g
+714,samuel mancinos italian eatery,grinder veggie whole,72,g,100,mg,2220,g,151,g,54,g,19,g,0,g,6,g,7,g
+715,samuel mancinos italian eatery,grinder veggie whole no mayo,50,g,80,mg,2070,g,151,g,54,g,16,g,0,g,6,g,7,g
+716,samuel mancinos italian eatery,grinder veggie whole ww,73,g,100,mg,2220,g,129,g,59,g,19,g,0,g,23,g,10,g
+717,samuel mancinos italian eatery,grinder veggie whole ww no mayo,50,g,80,mg,2070,g,129,g,59,g,16,g,0,g,23,g,10,g
+718,samuel mancinos italian eatery,grinder dough white flour breadsticks,1,g,0,mg,15,g,21,g,4,g,0,g,0,g,1,g,1,g
+719,samuel mancinos italian eatery,grinder dough white flour rolls,5,g,0,mg,105,g,127,g,25,g,1,g,0,g,6,g,3,g
+720,samuel mancinos italian eatery,grinder dough whole wheat flour breadsticks,1,g,0,mg,15,g,18,g,4,g,0,g,0,g,3,g,1,g
+721,samuel mancinos italian eatery,grinder dough whole wheat flour rolls,6,g,0,mg,105,g,112,g,26,g,1,g,0,g,19,g,5,g
+722,samuel mancinos italian eatery,gumbo soup w chicken shrimp and sausage,8,g,45,mg,720,g,10,g,9,g,2,g,0,g,1,g,1,g
+723,samuel mancinos italian eatery,ham ckd boneless classic wtr added 10 inch pizza,0,g,5,mg,100,g,0,g,2,g,0,g,0,g,0,g,0,g
+724,samuel mancinos italian eatery,ham ckd boneless classic wtr added 12 inch pizza,0,g,5,mg,110,g,0,g,2,g,0,g,0,g,0,g,0,g
+725,samuel mancinos italian eatery,ham ckd boneless classic wtr added 14 inch pizza,0,g,5,mg,150,g,0,g,2,g,0,g,0,g,0,g,0,g
+726,samuel mancinos italian eatery,ham ckd boneless classic wtr added 16 inch pizza,1,g,10,mg,190,g,0,g,3,g,0,g,0,g,0,g,0,g
+727,samuel mancinos italian eatery,italian nachos,161,g,295,mg,3300,g,116,g,96,g,57,g,0,g,16,g,4,g
+728,samuel mancinos italian eatery,italian seasoning 14 inch pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+729,samuel mancinos italian eatery,italian seasoning 16 inch pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+730,samuel mancinos italian eatery,jalapeno poppers,27,g,70,mg,1880,g,67,g,14,g,18,g,0,g,2,g,8,g
+731,samuel mancinos italian eatery,kids fettuccini w 1 bread stick,46,g,90,mg,1660,g,71,g,23,g,14,g,0,g,2,g,9,g
+732,samuel mancinos italian eatery,kids nachos,55,g,75,mg,700,g,52,g,30,g,16,g,0,g,7,g,0,g
+733,samuel mancinos italian eatery,kids ravioli w 1 bread stick,19,g,85,mg,1280,g,43,g,23,g,8,g,0,g,10,g,8,g
+734,samuel mancinos italian eatery,kids spaghetti w 1 bread stick,21,g,45,mg,1660,g,66,g,27,g,9,g,0,g,11,g,8,g
+735,samuel mancinos italian eatery,kids chicken tenders,13,g,40,mg,470,g,11,g,14,g,3,g,0,g,2,g,1,g
+736,samuel mancinos italian eatery,kids grilled cheese grinder,17,g,50,mg,390,g,35,g,20,g,9,g,0,g,1,g,1,g
+737,samuel mancinos italian eatery,kids grilled cheese grinder ww,17,g,50,mg,390,g,29,g,21,g,9,g,0,g,5,g,1,g
+738,samuel mancinos italian eatery,lasagna,31,g,90,mg,2150,g,67,g,32,g,13,g,0,g,20,g,16,g
+739,samuel mancinos italian eatery,lettuce iceberg 10 inch pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+740,samuel mancinos italian eatery,lettuce iceberg 12 inch pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+741,samuel mancinos italian eatery,lettuce iceberg 14 inch pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+742,samuel mancinos italian eatery,lettuce iceberg 16 inch pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+743,samuel mancinos italian eatery,lobster bisque soup,22,g,95,mg,930,g,15,g,8,g,12,g,0,g,0,g,6,g
+744,samuel mancinos italian eatery,meatball appetizer,30,g,120,mg,1600,g,13,g,33,g,13,g,0,g,0,g,1,g
+745,samuel mancinos italian eatery,meatballs 10 inch pizza,2,g,5,mg,80,g,1,g,1,g,0,g,0,g,0,g,0,g
+746,samuel mancinos italian eatery,meatballs 12 inch pizza,2,g,5,mg,90,g,1,g,2,g,0,g,0,g,0,g,0,g
+747,samuel mancinos italian eatery,meatballs 14 inch pizza,2,g,10,mg,120,g,1,g,2,g,1,g,0,g,0,g,0,g
+748,samuel mancinos italian eatery,meatballs 16 inch pizza,3,g,10,mg,150,g,1,g,3,g,1,g,0,g,1,g,0,g
+749,samuel mancinos italian eatery,minestrone soup,2,g,0,mg,810,g,12,g,3,g,0,g,0,g,2,g,2,g
+750,samuel mancinos italian eatery,mozzarella sticks,32,g,40,mg,1080,g,32,g,24,g,12,g,0,g,0,g,0,g
+751,samuel mancinos italian eatery,mushrooms,27,g,0,mg,1490,g,73,g,9,g,5,g,0,g,3,g,6,g
+752,samuel mancinos italian eatery,mushrooms raw sliced 10 inch pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+753,samuel mancinos italian eatery,mushrooms raw sliced 12 inch pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+754,samuel mancinos italian eatery,mushrooms raw sliced 14 inch pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+755,samuel mancinos italian eatery,mushrooms raw sliced 16 inch pizza,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+756,samuel mancinos italian eatery,nacho chips,40,g,0,mg,280,g,64,g,8,g,4,g,0,g,8,g,0,g
+757,samuel mancinos italian eatery,nachos regular,135,g,225,mg,2070,g,101,g,76,g,49,g,0,g,12,g,0,g
+758,samuel mancinos italian eatery,nachos supreme,153,g,275,mg,2310,g,115,g,97,g,57,g,0,g,16,g,2,g
+759,samuel mancinos italian eatery,olives green sliced spanish 10 inch pizza,1,g,0,mg,110,g,0,g,0,g,0,g,0,g,0,g,0,g
+760,samuel mancinos italian eatery,olives green sliced spanish 12 inch pizza,1,g,0,mg,110,g,0,g,0,g,0,g,0,g,0,g,0,g
+761,samuel mancinos italian eatery,olives green sliced spanish 14 inch pizza,2,g,0,mg,160,g,0,g,0,g,0,g,0,g,0,g,0,g
+762,samuel mancinos italian eatery,olives green sliced spanish 16 inch pizza,3,g,0,mg,220,g,0,g,0,g,0,g,0,g,0,g,0,g
+763,samuel mancinos italian eatery,olives ripe fancy sliced spanish 10 inch pizza,1,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+764,samuel mancinos italian eatery,olives ripe fancy sliced spanish 12 inch pizza,1,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+765,samuel mancinos italian eatery,olives ripe fancy sliced spanish 14 inch pizza,2,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+766,samuel mancinos italian eatery,olives ripe fancy sliced spanish 16 inch pizza,3,g,0,mg,85,g,0,g,0,g,0,g,0,g,0,g,0,g
+767,samuel mancinos italian eatery,onion rings,24,g,0,mg,1180,g,79,g,9,g,5,g,0,g,3,g,6,g
+768,samuel mancinos italian eatery,onions raw chopped spanish jumbo 10 inch pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+769,samuel mancinos italian eatery,onions raw chopped spanish jumbo 12 inch pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+770,samuel mancinos italian eatery,onions raw chopped spanish jumbo 14 inch pizza,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+771,samuel mancinos italian eatery,onions raw chopped spanish jumbo 16 inch pizza,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+772,samuel mancinos italian eatery,onions rawchopped red jumbo 10 inch pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+773,samuel mancinos italian eatery,onions rawchopped red jumbo 12 inch pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+774,samuel mancinos italian eatery,onions rawchopped red jumbo 14 inch pizza,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+775,samuel mancinos italian eatery,onions rawchopped red jumbo 16 inch pizza,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+776,samuel mancinos italian eatery,pepper sw gr bl no salt markon holland peppers 10 inch pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+777,samuel mancinos italian eatery,pepper sw gr bl no salt markon holland peppers 12 inch pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+778,samuel mancinos italian eatery,pepper sw gr bl no salt markon holland peppers 14 inch pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+779,samuel mancinos italian eatery,pepper sw gr bl no salt markon holland peppers 16 inch pizza,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+780,samuel mancinos italian eatery,pepperoni sliced 10 inch pizza,3,g,5,mg,90,g,0,g,1,g,1,g,0,g,0,g,0,g
+781,samuel mancinos italian eatery,pepperoni sliced 12 inch pizza,3,g,5,mg,95,g,0,g,1,g,1,g,0,g,0,g,0,g
+782,samuel mancinos italian eatery,pepperoni sliced 14 inch pizza,4,g,10,mg,120,g,0,g,1,g,2,g,0,g,0,g,0,g
+783,samuel mancinos italian eatery,pepperoni sliced 16 inch pizza,4,g,10,mg,150,g,0,g,2,g,2,g,0,g,0,g,0,g
+784,samuel mancinos italian eatery,peppers jalapeno sliced 10 inch pizza,0,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+785,samuel mancinos italian eatery,peppers jalapeno sliced 12 inch pizza,0,g,0,mg,90,g,0,g,0,g,0,g,0,g,0,g,0,g
+786,samuel mancinos italian eatery,peppers jalapeno sliced 14 inch pizza,0,g,0,mg,120,g,0,g,0,g,0,g,0,g,0,g,0,g
+787,samuel mancinos italian eatery,peppers jalapeno sliced 16 inch pizza,0,g,0,mg,180,g,0,g,0,g,0,g,0,g,0,g,0,g
+788,samuel mancinos italian eatery,peppers rings banana mild 10 inch pizza,0,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+789,samuel mancinos italian eatery,peppers rings banana mild 12 inch pizza,0,g,0,mg,90,g,0,g,0,g,0,g,0,g,0,g,0,g
+790,samuel mancinos italian eatery,peppers rings banana mild 14 inch pizza,0,g,0,mg,120,g,0,g,0,g,0,g,0,g,0,g,0,g
+791,samuel mancinos italian eatery,peppers rings banana mild 16 inch pizza,0,g,0,mg,180,g,0,g,0,g,0,g,0,g,0,g,0,g
+792,samuel mancinos italian eatery,pineapple tidbits cnd in juice 10 inch pizza,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+793,samuel mancinos italian eatery,pineapple tidbits cnd in juice 12 inch pizza,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+794,samuel mancinos italian eatery,pineapple tidbits cnd in juice 14 inch pizza,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+795,samuel mancinos italian eatery,pineapple tidbits cnd in juice 16 inch pizza,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+796,samuel mancinos italian eatery,pizza dough 10 inch pizza,1,g,0,mg,95,g,18,g,3,g,0,g,0,g,1,g,1,g
+797,samuel mancinos italian eatery,pizza dough 12 inch pizza,1,g,0,mg,110,g,20,g,4,g,0,g,0,g,1,g,1,g
+798,samuel mancinos italian eatery,pizza dough 14 inch pizza,1,g,0,mg,140,g,26,g,5,g,0,g,0,g,1,g,1,g
+799,samuel mancinos italian eatery,pizza dough 16 inch pizza,1,g,0,mg,190,g,34,g,7,g,0,g,0,g,1,g,1,g
+800,samuel mancinos italian eatery,pizza sauce 10 inch pizza,0,g,0,mg,25,g,1,g,0,g,0,g,0,g,0,g,0,g
+801,samuel mancinos italian eatery,pizza sauce 12 inch pizza,0,g,0,mg,35,g,1,g,0,g,0,g,0,g,0,g,1,g
+802,samuel mancinos italian eatery,pizza sauce 14 inch pizza,0,g,0,mg,55,g,1,g,0,g,0,g,0,g,0,g,1,g
+803,samuel mancinos italian eatery,pizza sauce 16 inch pizza,0,g,0,mg,75,g,2,g,0,g,0,g,0,g,0,g,1,g
+804,samuel mancinos italian eatery,potato cheese soup,10,g,35,mg,1420,g,20,g,11,g,6,g,0,g,1,g,6,g
+805,samuel mancinos italian eatery,potato skins,39,g,100,mg,950,g,52,g,30,g,20,g,0,g,5,g,4,g
+806,samuel mancinos italian eatery,ravioli,31,g,145,mg,2380,g,84,g,38,g,11,g,0,g,20,g,15,g
+807,samuel mancinos italian eatery,salami hormel 10 inch pizza,2,g,5,mg,80,g,0,g,1,g,0,g,0,g,0,g,0,g
+808,samuel mancinos italian eatery,salami hormel 12 inch pizza,2,g,5,mg,90,g,0,g,1,g,0,g,0,g,0,g,0,g
+809,samuel mancinos italian eatery,salami hormel 14 inch pizza,3,g,5,mg,120,g,0,g,2,g,1,g,0,g,0,g,0,g
+810,samuel mancinos italian eatery,salami hormel 16 inch pizza,3,g,10,mg,150,g,0,g,2,g,1,g,0,g,0,g,0,g
+811,samuel mancinos italian eatery,salsa as a sauce,0,g,0,mg,190,g,4,g,0,g,0,g,0,g,0,g,2,g
+812,samuel mancinos italian eatery,salsa with green chili 10 inch pizza,0,g,0,mg,30,g,1,g,0,g,0,g,0,g,0,g,0,g
+813,samuel mancinos italian eatery,salsa with green chili 12 inch pizza,0,g,0,mg,45,g,1,g,0,g,0,g,0,g,0,g,0,g
+814,samuel mancinos italian eatery,salsa with green chili 14 inch pizza,0,g,0,mg,70,g,1,g,0,g,0,g,0,g,0,g,1,g
+815,samuel mancinos italian eatery,salsa with green chili 16 inch pizza,0,g,0,mg,95,g,2,g,0,g,0,g,0,g,0,g,1,g
+816,samuel mancinos italian eatery,sammy bread half,47,g,60,mg,900,g,70,g,34,g,17,g,0,g,1,g,2,g
+817,samuel mancinos italian eatery,sammy bread whole,94,g,120,mg,1800,g,139,g,67,g,34,g,0,g,3,g,3,g
+818,samuel mancinos italian eatery,sammy wings hot and spicy double,90,g,670,mg,4350,g,25,g,127,g,26,g,0,g,0,g,9,g
+819,samuel mancinos italian eatery,sammy wings hot and spicy single,45,g,335,mg,2180,g,13,g,63,g,13,g,0,g,0,g,5,g
+820,samuel mancinos italian eatery,sammy wings hot and spicy triple,135,g,1005,mg,6530,g,38,g,190,g,39,g,0,g,0,g,14,g
+821,samuel mancinos italian eatery,sammy wings italian double,100,g,565,mg,4600,g,47,g,93,g,27,g,0,g,7,g,7,g
+822,samuel mancinos italian eatery,sammy wings italian single,50,g,285,mg,2300,g,23,g,47,g,13,g,0,g,3,g,3,g
+823,samuel mancinos italian eatery,sammy wings italian triple,150,g,850,mg,6900,g,70,g,140,g,40,g,0,g,10,g,10,g
+824,samuel mancinos italian eatery,sausage italian chunks ckd 10 inch pizza,2,g,5,mg,105,g,1,g,2,g,0,g,0,g,0,g,0,g
+825,samuel mancinos italian eatery,sausage italian chunks ckd 12 inch pizza,3,g,5,mg,115,g,1,g,2,g,1,g,0,g,0,g,0,g
+826,samuel mancinos italian eatery,sausage italian chunks ckd 14 inch pizza,4,g,10,mg,150,g,1,g,2,g,1,g,0,g,0,g,0,g
+827,samuel mancinos italian eatery,sausage italian chunks ckd 16 inch pizza,4,g,10,mg,190,g,1,g,3,g,2,g,0,g,0,g,0,g
+828,samuel mancinos italian eatery,seafood salad,39,g,85,mg,1350,g,27,g,31,g,14,g,0,g,5,g,12,g
+829,samuel mancinos italian eatery,shrimp and corn chowder soup,14,g,60,mg,710,g,24,g,8,g,5,g,0,g,2,g,7,g
+830,samuel mancinos italian eatery,sm 3 cheese blend mozzarella,4,g,10,mg,115,g,0,g,5,g,3,g,0,g,0,g,0,g
+831,samuel mancinos italian eatery,sm bacon fully ckd 100 real 1 inch dice hormel,3,g,10,mg,130,g,0,g,3,g,1,g,0,g,0,g,0,g
+832,samuel mancinos italian eatery,sm barbeque sauce sweet baby rays kens foods,0,g,0,mg,70,g,4,g,0,g,0,g,0,g,0,g,4,g
+833,samuel mancinos italian eatery,sm beef patty crumbles fc w 15 tvp,1,g,5,mg,60,g,1,g,1,g,0,g,0,g,0,g,0,g
+834,samuel mancinos italian eatery,sm beef taco filling cooked frzn,1,g,5,mg,15,g,0,g,1,g,0,g,0,g,0,g,0,g
+835,samuel mancinos italian eatery,sm cheddar cheese fine shred spaulding,3,g,5,mg,45,g,0,g,2,g,2,g,0,g,0,g,0,g
+836,samuel mancinos italian eatery,sm chicken breast strips fajita grld mrkd perdue,0,g,5,mg,40,g,0,g,1,g,0,g,0,g,0,g,0,g
+837,samuel mancinos italian eatery,sm extra 3 cheese blend mozzarella,2,g,5,mg,45,g,0,g,2,g,1,g,0,g,0,g,0,g
+838,samuel mancinos italian eatery,sm ham ckd boneless classic wtr added,0,g,5,mg,75,g,0,g,1,g,0,g,0,g,0,g,0,g
+839,samuel mancinos italian eatery,sm lettuce iceberg,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+840,samuel mancinos italian eatery,sm meatballs,1,g,5,mg,60,g,1,g,1,g,0,g,0,g,0,g,0,g
+841,samuel mancinos italian eatery,sm mushrooms raw sliced,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+842,samuel mancinos italian eatery,sm olives green sliced spanish,1,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+843,samuel mancinos italian eatery,sm olives ripe fancy sliced spanish,1,g,0,mg,110,g,0,g,0,g,0,g,0,g,0,g,0,g
+844,samuel mancinos italian eatery,sm onions raw chopped spanish jumbo,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+845,samuel mancinos italian eatery,sm onions rawchopped red jumbo,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+846,samuel mancinos italian eatery,sm pepper sw gr bl no salt markon holland peppers,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+847,samuel mancinos italian eatery,sm pepperoni sliced,1,g,5,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+848,samuel mancinos italian eatery,sm peppers jalapeno sliced,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+849,samuel mancinos italian eatery,sm peppers rings banana mild,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+850,samuel mancinos italian eatery,sm pineapple tidbits cnd in juice,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+851,samuel mancinos italian eatery,sm pizza dough,1,g,0,mg,90,g,16,g,3,g,0,g,0,g,1,g,1,g
+852,samuel mancinos italian eatery,sm pizza sauce,0,g,0,mg,25,g,1,g,0,g,0,g,0,g,0,g,0,g
+853,samuel mancinos italian eatery,sm salami hormel,2,g,5,mg,90,g,0,g,1,g,0,g,0,g,0,g,0,g
+854,samuel mancinos italian eatery,sm salsa with green chili,0,g,0,mg,30,g,1,g,0,g,0,g,0,g,0,g,0,g
+855,samuel mancinos italian eatery,sm sausage italian chunks ckd,2,g,5,mg,75,g,0,g,1,g,0,g,0,g,0,g,0,g
+856,samuel mancinos italian eatery,sm tomato red ripe raw,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+857,samuel mancinos italian eatery,sour cream as a sauce,11,g,35,mg,110,g,4,g,2,g,6,g,0,g,0,g,4,g
+858,samuel mancinos italian eatery,southwest bean chili soup,4,g,0,mg,1400,g,24,g,7,g,0,g,0,g,6,g,2,g
+859,samuel mancinos italian eatery,spaghett,38,g,80,mg,3210,g,91,g,45,g,15,g,0,g,21,g,15,g
+860,samuel mancinos italian eatery,spaghetti w meatball,50,g,130,mg,3920,g,97,g,57,g,20,g,0,g,22,g,16,g
+861,samuel mancinos italian eatery,steak salad,26,g,115,mg,1700,g,19,g,48,g,14,g,0,g,5,g,10,g
+862,samuel mancinos italian eatery,stuffed pepper soup w beef,5,g,5,mg,870,g,10,g,4,g,1,g,0,g,1,g,2,g
+863,samuel mancinos italian eatery,taco salad,77,g,135,mg,1020,g,67,g,48,g,27,g,0,g,11,g,6,g
+864,samuel mancinos italian eatery,tomato and beef w onions soup,17,g,55,mg,810,g,15,g,11,g,7,g,0,g,0,g,4,g
+865,samuel mancinos italian eatery,tomato tortellini soup,11,g,35,mg,750,g,24,g,5,g,6,g,0,g,2,g,5,g
+866,samuel mancinos italian eatery,tomato red ripe raw 10 inch pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+867,samuel mancinos italian eatery,tomato red ripe raw 12 inch pizza,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+868,samuel mancinos italian eatery,tomato red ripe raw 14 inch pizza,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+869,samuel mancinos italian eatery,tomato red ripe raw 16 inch pizza,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+870,samuel mancinos italian eatery,tortilla soup w chicken,5,g,15,mg,950,g,18,g,8,g,1,g,0,g,2,g,2,g
+871,samuel mancinos italian eatery,tuna salad,30,g,130,mg,950,g,16,g,46,g,13,g,0,g,4,g,7,g
+872,samuel mancinos italian eatery,tuscan bean and sausage soup,10,g,20,mg,810,g,19,g,6,g,3,g,0,g,5,g,2,g
+873,samuel mancinos italian eatery,vegetarian black bean soup,5,g,0,mg,940,g,26,g,8,g,0,g,0,g,8,g,1,g
+874,samuel mancinos italian eatery,wedding soup w meatballs,2,g,5,mg,890,g,16,g,5,g,0,g,0,g,0,g,1,g
+875,samuel mancinos italian eatery,white chicken chili w bean soup,5,g,15,mg,1590,g,24,g,13,g,0,g,0,g,7,g,3,g
+876,samuel mancinos italian eatery,wrap bbq beef whole,49,g,190,mg,3810,g,100,g,76,g,24,g,0,g,7,g,21,g
+877,samuel mancinos italian eatery,wrap bbq pork whole,51,g,240,mg,3170,g,84,g,78,g,21,g,0,g,2,g,50,g
+878,samuel mancinos italian eatery,wrap buffalo chicken whole,33,g,175,mg,3220,g,52,g,83,g,17,g,0,g,2,g,2,g
+879,samuel mancinos italian eatery,wrap chicken bacon club whole,73,g,235,mg,3430,g,51,g,92,g,26,g,0,g,2,g,3,g
+880,samuel mancinos italian eatery,wrap chicken bacon club whole no mayo,50,g,215,mg,3280,g,51,g,92,g,23,g,0,g,2,g,3,g
+881,samuel mancinos italian eatery,wrap chicken grinder whole,55,g,195,mg,2730,g,51,g,83,g,20,g,0,g,2,g,2,g
+882,samuel mancinos italian eatery,wrap chicken grinder whole no mayo,33,g,175,mg,2580,g,51,g,83,g,17,g,0,g,2,g,2,g
+883,samuel mancinos italian eatery,wrap chicken parmesan whole,37,g,175,mg,3050,g,59,g,86,g,17,g,0,g,8,g,6,g
+884,samuel mancinos italian eatery,wrap french dip whole,36,g,155,mg,4190,g,59,g,71,g,19,g,0,g,2,g,7,g
+885,samuel mancinos italian eatery,wrap ham and cheese whole,62,g,220,mg,4080,g,49,g,79,g,23,g,0,g,2,g,2,g
+886,samuel mancinos italian eatery,wrap ham and cheese whole no mayo,40,g,200,mg,3930,g,49,g,79,g,20,g,0,g,2,g,2,g
+887,samuel mancinos italian eatery,wrap ham and turkey whole,76,g,270,mg,5140,g,57,g,91,g,32,g,0,g,3,g,4,g
+888,samuel mancinos italian eatery,wrap ham and turkey whole no mayo,53,g,250,mg,4990,g,57,g,91,g,29,g,0,g,3,g,4,g
+889,samuel mancinos italian eatery,wrap ham cheese and salami whole,69,g,210,mg,3780,g,49,g,73,g,26,g,0,g,2,g,2,g
+890,samuel mancinos italian eatery,wrap ham cheese and salami whole no mayo,47,g,190,mg,3630,g,49,g,73,g,23,g,0,g,2,g,2,g
+891,samuel mancinos italian eatery,wrap italian whole,92,g,270,mg,4790,g,66,g,90,g,32,g,0,g,7,g,7,g
+892,samuel mancinos italian eatery,wrap italian whole no mayo,69,g,250,mg,4640,g,66,g,90,g,29,g,0,g,7,g,7,g
+893,samuel mancinos italian eatery,wrap meatball whole,62,g,215,mg,3590,g,81,g,74,g,28,g,0,g,11,g,9,g
+894,samuel mancinos italian eatery,wrap neptune whole,68,g,155,mg,5050,g,161,g,73,g,22,g,0,g,10,g,23,g
+895,samuel mancinos italian eatery,wrap pizza whole,80,g,220,mg,3430,g,56,g,59,g,39,g,0,g,4,g,8,g
+896,samuel mancinos italian eatery,wrap reuben whole,59,g,215,mg,5660,g,75,g,81,g,22,g,0,g,7,g,16,g
+897,samuel mancinos italian eatery,wrap roast beef and cheddar whole,71,g,220,mg,4080,g,59,g,73,g,29,g,0,g,2,g,7,g
+898,samuel mancinos italian eatery,wrap roast beef and cheddar whole no mayo,48,g,200,mg,3930,g,59,g,73,g,26,g,0,g,2,g,7,g
+899,samuel mancinos italian eatery,wrap roast beef whole,58,g,185,mg,4100,g,59,g,74,g,22,g,0,g,2,g,7,g
+900,samuel mancinos italian eatery,wrap roast beef whole no mayo,36,g,165,mg,3950,g,59,g,74,g,19,g,0,g,2,g,7,g
+901,samuel mancinos italian eatery,wrap roast beef classic whole,61,g,240,mg,5000,g,58,g,87,g,23,g,0,g,3,g,6,g
+902,samuel mancinos italian eatery,wrap roast beef classic whole no mayo,39,g,220,mg,4850,g,58,g,87,g,20,g,0,g,3,g,6,g
+903,samuel mancinos italian eatery,wrap samuel mancino club whole,86,g,300,mg,5350,g,54,g,101,g,31,g,0,g,3,g,5,g
+904,samuel mancinos italian eatery,wrap samuel mancino club whole no mayo,63,g,280,mg,5200,g,54,g,101,g,28,g,0,g,3,g,5,g
+905,samuel mancinos italian eatery,wrap seafood and crab whole,105,g,180,mg,3590,g,84,g,58,g,26,g,0,g,6,g,18,g
+906,samuel mancinos italian eatery,wrap seafood and crab whole no xtra mayo,83,g,160,mg,3440,g,84,g,58,g,23,g,0,g,6,g,18,g
+907,samuel mancinos italian eatery,wrap sicilian whole,84,g,245,mg,5040,g,61,g,82,g,34,g,0,g,5,g,10,g
+908,samuel mancinos italian eatery,wrap steak whole,64,g,225,mg,3900,g,61,g,90,g,25,g,0,g,6,g,10,g
+909,samuel mancinos italian eatery,wrap steak whole no mayo,42,g,200,mg,3750,g,61,g,90,g,22,g,0,g,6,g,10,g
+910,samuel mancinos italian eatery,wrap stromboli whole,84,g,225,mg,5140,g,79,g,77,g,32,g,0,g,14,g,13,g
+911,samuel mancinos italian eatery,wrap taco whole,92,g,260,mg,2740,g,79,g,96,g,47,g,0,g,7,g,17,g
+912,samuel mancinos italian eatery,wrap tuna whole,72,g,310,mg,2990,g,51,g,108,g,29,g,0,g,2,g,2,g
+913,samuel mancinos italian eatery,wrap turkey whole,71,g,250,mg,4870,g,61,g,82,g,30,g,0,g,4,g,6,g
+914,samuel mancinos italian eatery,wrap turkey whole no mayo,49,g,230,mg,4720,g,61,g,82,g,27,g,0,g,4,g,6,g
+915,samuel mancinos italian eatery,wrap veggie whole,69,g,100,mg,2620,g,64,g,40,g,18,g,0,g,6,g,6,g
+916,samuel mancinos italian eatery,wrap veggie whole no mayo,47,g,80,mg,2470,g,64,g,40,g,15,g,0,g,6,g,6,g
+917,samuel mancinos italian eatery,wrap blt whole,106,g,295,mg,4510,g,49,g,98,g,39,g,0,g,2,g,4,g
+918,samuel mancinos italian eatery,wrap blt whole no mayo,84,g,275,mg,4350,g,49,g,98,g,36,g,0,g,2,g,4,g
+919,samuel mancinos italian eatery,wrap chicken whole,55,g,195,mg,2730,g,51,g,83,g,20,g,0,g,2,g,2,g
+920,samuel mancinos italian eatery,wrap chicken whole no mayo,33,g,175,mg,2580,g,51,g,83,g,17,g,0,g,2,g,2,g
+921,samuel mancinos italian eatery,zucchini slices,2,g,0,mg,1280,g,67,g,12,g,0,g,0,g,3,g,18,g
+922,sansai japanese grill,california roll,14,g,10,mg,990,g,48,g,9,g,2,g,0,g,3,g,3,g
+923,sansai japanese grill,california roll and chicken plate,14,g,55,mg,770,g,44,g,31,g,3,g,0,g,2,g,2,g
+924,sansai japanese grill,california roll and steak plate,28,g,65,mg,650,g,29,g,28,g,8,g,0,g,2,g,2,g
+925,sansai japanese grill,caterpillar roll,18,g,75,mg,1170,g,54,g,18,g,3,g,0,g,5,g,18,g
+926,sansai japanese grill,chicken bowl,8,g,70,mg,240,g,20,g,33,g,2,g,0,g,0,g,1,g
+927,sansai japanese grill,chicken breast bowl,6,g,55,mg,140,g,0,g,32,g,2,g,0,g,0,g,0,g
+928,sansai japanese grill,chicken breast plate,9,g,80,mg,210,g,0,g,48,g,2,g,0,g,0,g,0,g
+929,sansai japanese grill,chicken plate,12,g,100,mg,360,g,30,g,50,g,3,g,0,g,0,g,1,g
+930,sansai japanese grill,chicken plate add teriyaki sauce,24,g,205,mg,710,g,60,g,100,g,6,g,0,g,0,g,2,g
+931,sansai japanese grill,corn and bowtie pasta salad with dressing,11,g,0,mg,260,g,36,g,5,g,1,g,0,g,5,g,1,g
+932,sansai japanese grill,cucumber seaweed salad with dressing,7,g,0,mg,290,g,8,g,1,g,1,g,0,g,1,g,3,g
+933,sansai japanese grill,dragon roll,8,g,20,mg,1550,g,66,g,12,g,1,g,0,g,3,g,12,g
+934,sansai japanese grill,dumpling soup,14,g,20,mg,2030,g,39,g,14,g,4,g,0,g,27,g,14,g
+935,sansai japanese grill,edamame,12,g,0,mg,15,g,23,g,25,g,1,g,0,g,12,g,0,g
+936,sansai japanese grill,grilled chicken salad,28,g,50,mg,820,g,37,g,22,g,5,g,0,g,5,g,5,g
+937,sansai japanese grill,grilled salmon salad,31,g,40,mg,240,g,30,g,36,g,4,g,0,g,6,g,6,g
+938,sansai japanese grill,hand roll california,3,g,5,mg,240,g,11,g,3,g,1,g,0,g,1,g,1,g
+939,sansai japanese grill,hand roll philly,16,g,45,mg,220,g,10,g,9,g,7,g,0,g,1,g,1,g
+940,sansai japanese grill,hand roll salmon,6,g,15,mg,135,g,9,g,8,g,1,g,0,g,1,g,1,g
+941,sansai japanese grill,hand roll shrimp,2,g,55,mg,180,g,9,g,8,g,3,g,0,g,1,g,1,g
+942,sansai japanese grill,hand roll shrimp tempura,5,g,15,mg,610,g,17,g,2,g,1,g,0,g,1,g,1,g
+943,sansai japanese grill,hand roll spicy tuna,2,g,5,mg,120,g,9,g,5,g,1,g,0,g,1,g,1,g
+944,sansai japanese grill,hand roll tuna,2,g,15,mg,125,g,9,g,8,g,1,g,0,g,1,g,1,g
+945,sansai japanese grill,hand roll unagi,6,g,45,mg,200,g,14,g,9,g,1,g,0,g,1,g,1,g
+946,sansai japanese grill,hawaiian roll,6,g,45,mg,1050,g,49,g,25,g,1,g,0,g,2,g,25,g
+947,sansai japanese grill,kid chicken plate,6,g,50,mg,180,g,15,g,25,g,2,g,0,g,0,g,1,g
+948,sansai japanese grill,kid steak plate,20,g,60,mg,50,g,0,g,23,g,7,g,0,g,0,g,0,g
+949,sansai japanese grill,linguine noodle salad with dressing,3,g,0,mg,250,g,36,g,4,g,0,g,0,g,6,g,4,g
+950,sansai japanese grill,miso soup,1,g,0,mg,160,g,2,g,2,g,0,g,0,g,0,g,0,g
+951,sansai japanese grill,nigiri salmon,2,g,10,mg,65,g,3,g,3,g,1,g,0,g,1,g,0,g
+952,sansai japanese grill,nigiri shrimp,1,g,5,mg,85,g,3,g,3,g,0,g,0,g,1,g,0,g
+953,sansai japanese grill,nigiri tuna,1,g,5,mg,60,g,3,g,4,g,1,g,0,g,1,g,0,g
+954,sansai japanese grill,oriental salad,10,g,0,mg,85,g,12,g,5,g,1,g,0,g,3,g,0,g
+955,sansai japanese grill,oriental salad with dressing,9,g,0,mg,60,g,8,g,6,g,1,g,0,g,1,g,3,g
+956,sansai japanese grill,oriental salad with dressing add oriental dressing,18,g,0,mg,115,g,16,g,12,g,2,g,0,g,2,g,6,g
+957,sansai japanese grill,oriental salad add grilled salmon,20,g,0,mg,170,g,24,g,10,g,2,g,0,g,6,g,0,g
+958,sansai japanese grill,oriental salad add oriental dressing,20,g,0,mg,170,g,24,g,10,g,2,g,0,g,6,g,0,g
+959,sansai japanese grill,oriental salad add oriental dressing add grilled salmon,30,g,0,mg,250,g,36,g,15,g,3,g,0,g,9,g,0,g
+960,sansai japanese grill,philadelphia roll,24,g,70,mg,690,g,41,g,15,g,10,g,0,g,2,g,1,g
+961,sansai japanese grill,potstickers,20,g,10,mg,520,g,23,g,8,g,3,g,0,g,1,g,1,g
+962,sansai japanese grill,rainbow roll,6,g,60,mg,1070,g,49,g,20,g,1,g,0,g,2,g,4,g
+963,sansai japanese grill,red bull roll,8,g,115,mg,1570,g,72,g,28,g,2,g,0,g,1,g,28,g
+964,sansai japanese grill,salmon bowl,8,g,40,mg,70,g,0,g,25,g,2,g,0,g,0,g,0,g
+965,sansai japanese grill,salmon roll,7,g,20,mg,340,g,24,g,9,g,1,g,0,g,1,g,1,g
+966,sansai japanese grill,seared ahi tuna sashimi salad,1,g,50,mg,80,g,6,g,30,g,0,g,0,g,2,g,2,g
+967,sansai japanese grill,shrimp and chicken plate,6,g,175,mg,290,g,21,g,38,g,4,g,0,g,0,g,1,g
+968,sansai japanese grill,shrimp and steak plate,21,g,180,mg,170,g,6,g,36,g,8,g,0,g,0,g,0,g
+969,sansai japanese grill,shrimp and veggie tempura,71,g,50,mg,50,g,6,g,6,g,10,g,0,g,1,g,1,g
+970,sansai japanese grill,shrimp plate,1,g,245,mg,230,g,12,g,26,g,1,g,0,g,0,g,0,g
+971,sansai japanese grill,shrimp roll,3,g,35,mg,380,g,27,g,7,g,1,g,0,g,1,g,1,g
+972,sansai japanese grill,shrimp tempura,33,g,85,mg,80,g,5,g,9,g,4,g,0,g,1,g,0,g
+973,sansai japanese grill,spicy chicken bowl,8,g,70,mg,240,g,20,g,33,g,2,g,0,g,0,g,0,g
+974,sansai japanese grill,spicy chicken plate,12,g,100,mg,360,g,30,g,50,g,3,g,0,g,0,g,0,g
+975,sansai japanese grill,spicy pork loin bowl,36,g,80,mg,580,g,1,g,25,g,4,g,0,g,0,g,0,g
+976,sansai japanese grill,spicy pork loin plate,55,g,120,mg,870,g,1,g,38,g,6,g,0,g,0,g,1,g
+977,sansai japanese grill,spicy sashimi salad,9,g,35,mg,200,g,21,g,53,g,1,g,0,g,2,g,9,g
+978,sansai japanese grill,spicy tempura roll,12,g,70,mg,960,g,39,g,17,g,2,g,0,g,2,g,17,g
+979,sansai japanese grill,spicy tuna roll,4,g,30,mg,570,g,40,g,20,g,1,g,0,g,2,g,1,g
+980,sansai japanese grill,steak and chicken plate,26,g,110,mg,230,g,15,g,48,g,8,g,0,g,0,g,1,g
+981,sansai japanese grill,steak bowl,27,g,80,mg,70,g,0,g,30,g,9,g,0,g,0,g,0,g
+982,sansai japanese grill,steak plate,41,g,120,mg,100,g,0,g,45,g,13,g,0,g,0,g,0,g
+983,sansai japanese grill,sumi salad,11,g,0,mg,90,g,11,g,7,g,1,g,0,g,7,g,8,g
+984,sansai japanese grill,sumi salad with dressing,14,g,0,mg,200,g,13,g,3,g,1,g,0,g,4,g,3,g
+985,sansai japanese grill,sushi special box,7,g,50,mg,700,g,38,g,29,g,2,g,0,g,1,g,1,g
+986,sansai japanese grill,tempura and california roll,76,g,55,mg,650,g,35,g,12,g,10,g,0,g,3,g,3,g
+987,sansai japanese grill,tempura and chicken plate,74,g,100,mg,230,g,21,g,32,g,11,g,0,g,1,g,2,g
+988,sansai japanese grill,tempura bowl,75,g,65,mg,70,g,7,g,8,g,10,g,0,g,1,g,1,g
+989,sansai japanese grill,tempura plate,97,g,85,mg,85,g,9,g,10,g,13,g,0,g,1,g,2,g
+990,sansai japanese grill,tempura plate add curry sauce,194,g,170,mg,170,g,18,g,20,g,26,g,0,g,2,g,4,g
+991,sansai japanese grill,tempura roll,5,g,30,mg,710,g,31,g,3,g,1,g,0,g,1,g,2,g
+992,sansai japanese grill,thai noodle salad with dressing,2,g,0,mg,250,g,31,g,2,g,0,g,0,g,1,g,4,g
+993,sansai japanese grill,tiger roll,16,g,95,mg,1200,g,53,g,13,g,3,g,0,g,2,g,13,g
+994,sansai japanese grill,tomato and cucumber salad with dressing,7,g,0,mg,470,g,9,g,1,g,1,g,0,g,2,g,4,g
+995,sansai japanese grill,tuna roll,4,g,25,mg,560,g,40,g,17,g,1,g,0,g,2,g,1,g
+996,sansai japanese grill,udon noodle soup with grilled chicken,8,g,60,mg,4160,g,99,g,47,g,2,g,0,g,2,g,30,g
+997,sansai japanese grill,udon noodle soup with vegetable tempura,32,g,40,mg,4010,g,88,g,26,g,4,g,0,g,3,g,30,g
+998,sansai japanese grill,vegetable roll,4,g,0,mg,780,g,40,g,4,g,1,g,0,g,2,g,1,g
+999,sansai japanese grill,vegetable spring rolls,9,g,0,mg,440,g,22,g,2,g,0,g,0,g,2,g,6,g

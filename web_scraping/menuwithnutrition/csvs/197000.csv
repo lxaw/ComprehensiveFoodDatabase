@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,winchells,fancy donut cinnamon roll,31,g,0,mg,710,g,80,g,9,g,13,g,0,g,5,g,30,g
+1,winchells,fancy donut heart,11,g,0,mg,350,g,44,g,4,g,5,g,0,g,1,g,21,g
+2,winchells,fancy donut horseshoe,33,g,5,mg,980,g,89,g,12,g,13,g,0,g,4,g,27,g
+3,winchells,fancy donut pineapple fritter,34,g,0,mg,660,g,81,g,8,g,14,g,0,g,3,g,36,g
+4,winchells,fancy donut star,13,g,0,mg,410,g,52,g,5,g,5,g,0,g,2,g,25,g
+5,winchells,fanta 20 oz,0,g,0,mg,20,g,72,g,0,g,0,g,0,g,0,g,72,g
+6,winchells,fanta 24 oz,0,g,0,mg,25,g,87,g,0,g,0,g,0,g,0,g,87,g
+7,winchells,fanta 32 oz,0,g,0,mg,30,g,116,g,0,g,0,g,0,g,0,g,116,g
+8,winchells,filled donut apple jelly with cinnamon crumb,15,g,5,mg,600,g,53,g,7,g,6,g,0,g,3,g,12,g
+9,winchells,filled donut lemon jelly with donut sugar,12,g,0,mg,430,g,58,g,5,g,5,g,0,g,1,g,24,g
+10,winchells,filled donut raspberry jelly with glaze,13,g,0,mg,500,g,61,g,6,g,5,g,0,g,2,g,24,g
+11,winchells,filled donut strawberry jelly with sugar,13,g,0,mg,510,g,60,g,6,g,5,g,0,g,2,g,27,g
+12,winchells,filled donut vanilla creme with chocolate icing,13,g,0,mg,580,g,51,g,6,g,6,g,0,g,2,g,11,g
+13,winchells,french donut cherry iced,14,g,60,mg,340,g,32,g,3,g,6,g,0,g,1,g,16,g
+14,winchells,french donut chocolate iced,15,g,60,mg,350,g,32,g,3,g,6,g,0,g,1,g,15,g
+15,winchells,french donut cinnamon sugared,18,g,65,mg,420,g,26,g,4,g,8,g,0,g,1,g,7,g
+16,winchells,french donut glazed,14,g,60,mg,330,g,32,g,3,g,6,g,0,g,1,g,15,g
+17,winchells,french donut maple iced,14,g,60,mg,340,g,32,g,3,g,6,g,0,g,1,g,16,g
+18,winchells,french donut vanilla iced,14,g,60,mg,340,g,32,g,3,g,6,g,0,g,1,g,16,g
+19,winchells,french vanilla cappuccino chilla 16 oz,30,g,25,mg,430,g,85,g,5,g,19,g,0,g,0,g,63,g
+20,winchells,french vanilla cappuccino chilla 20 oz,37,g,25,mg,560,g,107,g,7,g,23,g,0,g,0,g,79,g
+21,winchells,french vanilla caramel cappuccino chilla 16 oz,27,g,30,mg,520,g,128,g,5,g,18,g,0,g,0,g,96,g
+22,winchells,french vanilla caramel cappuccino chilla 20 oz,33,g,35,mg,680,g,171,g,6,g,21,g,0,g,0,g,127,g
+23,winchells,french vanilla hot cappuccino 12 oz,10,g,0,mg,290,g,48,g,3,g,10,g,0,g,0,g,38,g
+24,winchells,french vanilla hot cappuccino 16 oz,13,g,0,mg,390,g,64,g,4,g,13,g,0,g,0,g,50,g
+25,winchells,french vanilla hot cappuccino 20 oz,16,g,0,mg,480,g,79,g,6,g,16,g,0,g,0,g,62,g
+26,winchells,french vanilla hot cappuccino 24 oz,20,g,0,mg,580,g,95,g,7,g,19,g,0,g,0,g,75,g
+27,winchells,fresh onion bagel,1.5,g,0,mg,460,g,55,g,10,g,0,g,0,g,1,g,4,g
+28,winchells,guava chilla 16 oz,22,g,25,mg,15,g,22,g,0,g,5,g,0,g,0,g,8,g
+29,winchells,guava chilla 20 oz,27,g,25,mg,15,g,27,g,0,g,5,g,0,g,0,g,9,g
+30,winchells,guava licuado 16 oz,10,g,45,mg,125,g,54,g,7,g,8,g,0,g,0,g,50,g
+31,winchells,guava licuado 20 oz,11,g,50,mg,150,g,57,g,9,g,8,g,0,g,0,g,53,g
+32,winchells,guava raspado 16 oz,0,g,0,mg,10,g,74,g,0,g,0,g,0,g,0,g,68,g
+33,winchells,guava raspado 20 oz,0,g,0,mg,10,g,74,g,0,g,0,g,0,g,0,g,68,g
+34,winchells,ham and cheese sandwich swiss or cheddar on whole wheat bagel,31,g,85,mg,1580,g,61,g,42,g,13,g,0,g,2,g,6,g
+35,winchells,ham and cheese swiss or cheddar croissant,56,g,165,mg,1600,g,61,g,42,g,28,g,0,g,4,g,16,g
+36,winchells,ham egg cheese sandwich on whole wheat bagel,28,g,465,mg,1300,g,58,g,38,g,10,g,0,g,4,g,7,g
+37,winchells,honey,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,8,g
+38,winchells,hot black forest ham sandwich on whole wheat bagel,24,g,60,mg,1900,g,57,g,39,g,7,g,0,g,5,g,5,g
+39,winchells,hot brewed caramel flavored coffee 12 oz,0,g,5,mg,190,g,33,g,11,g,0,g,0,g,0,g,32,g
+40,winchells,hot brewed caramel flavored coffee 16 oz,0,g,10,mg,340,g,46,g,21,g,0,g,0,g,0,g,45,g
+41,winchells,hot brewed caramel flavored coffee 20 oz,0,g,5,mg,340,g,59,g,20,g,0,g,0,g,0,g,57,g
+42,winchells,hot brewed caramel flavored coffee 24 oz,0,g,10,mg,400,g,70,g,24,g,0,g,0,g,0,g,68,g
+43,winchells,hot brewed coffee 12 oz,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+44,winchells,hot brewed coffee 16 oz,0,g,0,mg,10,g,0,g,1,g,0,g,0,g,0,g,0,g
+45,winchells,hot brewed coffee 20 oz,0,g,0,mg,10,g,0,g,1,g,0,g,0,g,0,g,0,g
+46,winchells,hot brewed coffee 24 oz,0,g,0,mg,15,g,0,g,1,g,0,g,0,g,0,g,0,g
+47,winchells,hot brewed hazelnut flavored coffee 12 oz,0,g,0,mg,75,g,18,g,2,g,0,g,0,g,0,g,16,g
+48,winchells,hot brewed hazelnut flavored coffee 16 oz,1,g,5,mg,90,g,37,g,2,g,0,g,0,g,0,g,35,g
+49,winchells,hot brewed hazelnut flavored coffee 20 oz,1,g,5,mg,90,g,37,g,2,g,0,g,0,g,0,g,35,g
+50,winchells,hot brewed hazelnut flavored coffee 24 oz,1,g,5,mg,95,g,44,g,2,g,0,g,0,g,0,g,42,g
+51,winchells,hot brewed tea 12 oz,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+52,winchells,hot brewed tea 16 oz,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+53,winchells,hot brewed tea 20 oz,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+54,winchells,hot brewed vanilla flavored coffee 12 oz,2,g,0,mg,80,g,33,g,1,g,0,g,0.5,g,0,g,31,g
+55,winchells,hot brewed vanilla flavored coffee 16 oz,2,g,0,mg,80,g,39,g,1,g,0,g,0.5,g,0,g,37,g
+56,winchells,hot brewed vanilla flavored coffee 20 oz,3,g,0,mg,135,g,47,g,2,g,0,g,1,g,0,g,44,g
+57,winchells,hot brewed vanilla flavored coffee 24 oz,4,g,0,mg,150,g,69,g,2,g,0,g,1,g,0,g,65,g
+58,winchells,hot chicken breast fillet sandwich on whole wheat bagel,23,g,75,mg,940,g,58,g,34,g,6,g,0,g,5,g,5,g
+59,winchells,hot chocolate 12 oz,9,g,10,mg,240,g,46,g,4,g,7,g,0,g,1,g,40,g
+60,winchells,hot chocolate 16 oz,12,g,10,mg,320,g,62,g,5,g,9,g,0,g,2,g,54,g
+61,winchells,hot chocolate 20 oz,14,g,15,mg,400,g,77,g,6,g,11,g,0,g,2,g,67,g
+62,winchells,hot chocolate 24 oz,17,g,15,mg,480,g,93,g,8,g,14,g,0,g,3,g,80,g
+63,winchells,hot pastrami sandwich sandwich on whole wheat bagel,41,g,100,mg,1540,g,57,g,36,g,14,g,0,g,4,g,6,g
+64,winchells,iced coffee caramel flavored 20 oz,2,g,0,mg,90,g,43,g,39,g,0,g,0.5,g,0,g,0,g
+65,winchells,iced coffee hazelnut flavored 20 oz,2.5,g,5,mg,190,g,29,g,3,g,1,g,0,g,0,g,24,g
+66,winchells,iced coffee vanilla flavored 20 oz,2.5,g,5,mg,190,g,30,g,3,g,1,g,0,g,0,g,25,g
+67,winchells,iced tea 20 oz,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+68,winchells,iced tea 24 oz,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+69,winchells,iced tea 32 oz,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+70,winchells,jalapeno bagel,1,g,0,mg,440,g,55,g,10,g,0,g,0,g,1,g,4,g
+71,winchells,lemon poppy seed muffin,20,g,90,mg,660,g,68,g,7,g,5,g,0,g,2,g,40,g
+72,winchells,lime raspado 16 oz,0,g,0,mg,25,g,43,g,0,g,0,g,0,g,0,g,39,g
+73,winchells,lime raspado 20 oz,0,g,0,mg,30,g,43,g,0,g,0,g,0,g,0,g,39,g
+74,winchells,lite cream cheese large tub,49,g,160,mg,890,g,16,g,16,g,32,g,0,g,0,g,8,g
+75,winchells,lite cream cheese small tub,12,g,40,mg,220,g,4,g,4,g,8,g,0,g,0,g,2,g
+76,winchells,lite cream cheese chives flavored large tub,43,g,145,mg,800,g,16,g,14,g,29,g,0,g,1,g,8,g
+77,winchells,lite cream cheese chives flavored small tub,11,g,35,mg,200,g,4,g,4,g,7,g,0,g,0,g,2,g
+78,winchells,lite cream cheese sun dried tomato flavored large tub,45,g,145,mg,1170,g,27,g,18,g,29,g,0,g,3,g,14,g
+79,winchells,lite cream cheese sun dried tomato flavored small tub,11,g,35,mg,290,g,7,g,4,g,7,g,0,g,1,g,3,g
+80,winchells,macaroon cookie,10,g,0,mg,55,g,26,g,2,g,9,g,0,g,3,g,21,g
+81,winchells,mini croissant,9,g,30,mg,310,g,19,g,3,g,5,g,0,g,1,g,5,g
+82,winchells,mini fancy donut apple fritter,13,g,0,mg,410,g,55,g,5,g,6,g,0,g,3,g,23,g
+83,winchells,mini fancy donut blueberry fritter,13,g,0,mg,290,g,43,g,3,g,6,g,0,g,1,g,22,g
+84,winchells,mini fancy donut cinnamon roll,15,g,0,mg,340,g,39,g,4,g,6,g,0,g,2,g,15,g
+85,winchells,mini fancy donut pineapple fritter,20,g,0,mg,390,g,47,g,5,g,8,g,0,g,1,g,21,g
+86,winchells,mini white cake donut chocolate iced,6,g,10,mg,160,g,20,g,2,g,2,g,0,g,1,g,11,g
+87,winchells,mini white cake donut chocolate iced with chocolate sprinkles,5,g,10,mg,180,g,22,g,2,g,2,g,0,g,2,g,13,g
+88,winchells,mini white cake donut chocolate iced with rainbow sprinkles,7,g,10,mg,170,g,23,g,2,g,2,g,0,g,1,g,14,g
+89,winchells,mini white cake donut plain,6,g,10,mg,150,g,12,g,2,g,2,g,0,g,1,g,5,g
+90,winchells,mini white cake donut vanilla iced with rainbow sprinkles,5,g,10,mg,170,g,22,g,2,g,2,g,0,g,1,g,13,g
+91,winchells,mocha cappuccino chilla 16 oz,20,g,30,mg,550,g,91,g,10,g,19,g,0,g,1,g,72,g
+92,winchells,mocha cappuccino chilla 20 oz,25,g,35,mg,700,g,115,g,13,g,23,g,0,g,1,g,91,g
+93,winchells,mocha caramel cappuccino chilla 16 oz,19,g,40,mg,620,g,134,g,9,g,18,g,0,g,1,g,105,g
+94,winchells,mocha caramel cappuccino chilla 20 oz,22,g,45,mg,810,g,179,g,12,g,21,g,0,g,1,g,139,g
+95,winchells,mocha hot cappuccino 12 oz,9,g,0,mg,270,g,47,g,4,g,9,g,0,g,0,g,35,g
+96,winchells,mocha hot cappuccino 16 oz,12,g,0,mg,370,g,62,g,5,g,12,g,0,g,1,g,47,g
+97,winchells,mocha hot cappuccino 20 oz,15,g,0,mg,460,g,78,g,6,g,15,g,0,g,1,g,59,g
+98,winchells,nine grain bagel,2.5,g,0,mg,350,g,63,g,11,g,0,g,0,g,3,g,6,g
+99,winchells,old fashioned donut chocolate iced,18,g,20,mg,400,g,59,g,5,g,7,g,0,g,2,g,37,g
+100,winchells,old fashioned donut glazed,17,g,20,mg,360,g,60,g,4,g,7,g,0,g,2,g,37,g
+101,winchells,old fashioned donut maple iced,18,g,20,mg,370,g,60,g,4,g,7,g,0,g,2,g,37,g
+102,winchells,old fashioned donut plain,17,g,20,mg,360,g,31,g,4,g,7,g,0,g,2,g,12,g
+103,winchells,orange juice 16 oz,1,g,0,mg,0,g,47,g,3,g,0,g,0,g,1,g,38,g
+104,winchells,orange juice 20 oz,1,g,0,mg,5,g,59,g,4,g,0,g,0,g,1,g,48,g
+105,winchells,orange carrot mix juice 16 oz,1,g,0,mg,65,g,44,g,4,g,0,g,0,g,2,g,19,g
+106,winchells,orange carrot mix juice 20 oz,1,g,0,mg,85,g,54,g,4,g,0,g,0,g,3,g,24,g
+107,winchells,pastrami,24,g,80,mg,950,g,0,g,22,g,10,g,0,g,0,g,0,g
+108,winchells,peanut butter,16,g,0,mg,150,g,7,g,7,g,3,g,0,g,2,g,3,g
+109,winchells,peanut butter and strawberry jelly,16,g,0,mg,150,g,13,g,7,g,3,g,0,g,2,g,7,g
+110,winchells,pina colada chilla 16 oz,15,g,25,mg,55,g,74,g,1,g,5,g,0,g,0,g,62,g
+111,winchells,pina colada chilla 20 oz,18,g,25,mg,70,g,93,g,1,g,5,g,0,g,0,g,79,g
+112,winchells,pina hawaiian extreme melt on whole wheat bagel,33,g,55,mg,1690,g,67,g,40,g,19,g,0,g,5,g,9,g
+113,winchells,pineapple coconut muffin,27,g,90,mg,720,g,83,g,7,g,14,g,0,g,2,g,47,g
+114,winchells,pineapple cream cheese croissant,26,g,50,mg,430,g,61,g,11,g,14,g,1,g,4,g,14,g
+115,winchells,pineapple cream cheese strudel,23,g,20,mg,220,g,33,g,6,g,11,g,3,g,2,g,8,g
+116,winchells,pineapple licuado 16 oz,10,g,45,mg,125,g,54,g,7,g,8,g,0,g,0,g,50,g
+117,winchells,pineapple licuado 20 oz,11,g,50,mg,150,g,57,g,9,g,8,g,0,g,0,g,53,g
+118,winchells,pineapple raspado 16 oz,0,g,0,mg,10,g,74,g,0,g,0,g,0,g,0,g,68,g
+119,winchells,pineapple raspado 20 oz,0,g,0,mg,10,g,74,g,0,g,0,g,0,g,0,g,68,g
+120,winchells,pineapple upsidedown muffin,19,g,90,mg,660,g,81,g,6,g,5,g,0,g,1,g,54,g
+121,winchells,plain bagel,1,g,0,mg,420,g,57,g,10,g,0,g,0,g,1,g,4,g
+122,winchells,puffies with vanilla creme filling,8,g,45,mg,250,g,16,g,2,g,4,g,0,g,1,g,3,g
+123,winchells,pumpkin nut muffin,31,g,90,mg,640,g,66,g,12,g,5,g,0,g,4,g,37,g
+124,winchells,quesadilla bread,24,g,75,mg,310,g,58,g,8,g,4,g,0,g,1,g,35,g
+125,winchells,raised ring donut chocolate iced,10,g,0,mg,340,g,41,g,0,g,4,g,0,g,1,g,20,g
+126,winchells,raised ring donut chocolate iced with chocolate sprinkles,10,g,0,mg,340,g,41,g,0,g,4,g,0,g,1,g,20,g
+127,winchells,raised ring donut chocolate iced with rainbow sprinkles,10,g,0,mg,340,g,41,g,4,g,4,g,0,g,1,g,20,g
+128,winchells,raised ring donut cinnamon crumb,9,g,5,mg,310,g,31,g,4,g,4,g,0,g,1,g,11,g
+129,winchells,raised ring donut cinnamon sugared,10,g,0,mg,420,g,33,g,5,g,5,g,0,g,2,g,8,g
+130,winchells,raised ring donut coconut,12,g,0,mg,260,g,30,g,4,g,7,g,0,g,2,g,13,g
+131,winchells,raised ring donut cookie crumb,9,g,0,mg,280,g,33,g,4,g,4,g,0,g,1,g,12,g
+132,winchells,raised ring donut glazed,9,g,0,mg,290,g,31,g,4,g,4,g,0,g,1,g,12,g
+133,winchells,raised ring donut maple iced,9,g,0,mg,310,g,38,g,4,g,4,g,0,g,1,g,17,g
+134,winchells,raised ring donut orange iced,10,g,0,mg,320,g,36,g,4,g,4,g,0,g,1,g,15,g
+135,winchells,raised ring donut rainbow sprinkles,10,g,0,mg,330,g,42,g,4,g,4,g,0,g,1,g,20,g
+136,winchells,raised ring donut sugared,9,g,0,mg,290,g,34,g,4,g,3,g,0,g,1,g,17,g
+137,winchells,raised ring donut vanilla iced,10,g,0,mg,320,g,37,g,4,g,4,g,0,g,1,g,15,g
+138,winchells,raised ring donut vanilla iced with chocolate sprinkles,10,g,0,mg,330,g,42,g,4,g,4,g,0,g,1,g,20,g
+139,winchells,raised ring donut vanilla iced with coconut,13,g,0,mg,310,g,39,g,4,g,6,g,0,g,1,g,15,g
+140,winchells,raised ring donut vanilla iced with rainbow sprinkles,10,g,0,mg,320,g,41,g,4,g,4,g,0,g,1,g,20,g
+141,winchells,ranchero sandwich on whole wheat bagel,28,g,465,mg,1840,g,62,g,38,g,10,g,0,g,4,g,11,g
+142,winchells,regular cream cheese large tub,76,g,225,mg,790,g,15,g,15,g,53,g,0,g,0,g,15,g
+143,winchells,regular cream cheese small tub,19,g,55,mg,200,g,4,g,4,g,13,g,0,g,0,g,4,g
+144,winchells,sausage egg cheese sandwich on whole wheat bagel,50,g,450,mg,1060,g,58,g,34,g,19,g,0,g,4,g,7,g
+145,winchells,scored garlic bagel,3,g,5,mg,500,g,63,g,12,g,10,g,0,g,2,g,5,g
+146,winchells,sesame bagel,6,g,0,mg,410,g,54,g,11,g,0,g,0,g,2,g,4,g
+147,winchells,sprite 20 oz,0,g,0,mg,50,g,57,g,0,g,0,g,0,g,0,g,51,g
+148,winchells,sprite 24 oz,0,g,0,mg,60,g,69,g,0,g,0,g,0,g,0,g,61,g
+149,winchells,sprite 32 oz,0,g,0,mg,80,g,92,g,0,g,0,g,0,g,0,g,81,g
+150,winchells,sticky bun,20,g,30,mg,560,g,47,g,8,g,11,g,0,g,3,g,13,g
+151,winchells,strawberry banana chilla 16 oz,9,g,20,mg,10,g,79,g,1,g,4,g,0,g,4,g,62,g
+152,winchells,strawberry banana chilla 20 oz,11,g,20,mg,10,g,98,g,1,g,4,g,0,g,5,g,78,g
+153,winchells,strawberry banana licuado 16 oz,10,g,50,mg,135,g,43,g,10,g,8,g,0,g,1,g,38,g
+154,winchells,strawberry banana licuado 20 oz,11,g,55,mg,170,g,46,g,12,g,8,g,0,g,1,g,42,g
+155,winchells,strawberry cream cheese croissant,26,g,50,mg,430,g,61,g,11,g,14,g,1,g,4,g,14,g
+156,winchells,strawberry cream cheese strudel,23,g,20,mg,220,g,33,g,6,g,11,g,3,g,2,g,8,g
+157,winchells,strawberry jelly,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,4,g
+158,winchells,strawberry licuado 16 oz,10,g,45,mg,125,g,54,g,7,g,8,g,0,g,0,g,50,g
+159,winchells,strawberry licuado 20 oz,11,g,50,mg,150,g,57,g,9,g,8,g,0,g,0,g,53,g
+160,winchells,strawberry raspado 16 oz,0,g,0,mg,10,g,74,g,0,g,0,g,0,g,0,g,68,g
+161,winchells,strawberry raspado 20 oz,0,g,0,mg,10,g,74,g,0,g,0,g,0,g,0,g,68,g
+162,winchells,tamarindo raspado 16 oz,0,g,0,mg,15,g,73,g,1,g,0,g,0,g,1,g,67,g
+163,winchells,tamarindo raspado 20 oz,0,g,0,mg,15,g,73,g,1,g,0,g,0,g,1,g,68,g
+164,winchells,turkey breast,1,g,40,mg,1090,g,2,g,20,g,0,g,0,g,0,g,0,g
+165,winchells,turkey breast extreme melt on whole wheat bagel,31,g,60,mg,2000,g,55,g,48,g,17,g,0,g,3,g,5,g
+166,winchells,twist donut chocolate iced,19,g,0,mg,550,g,48,g,7,g,8,g,0,g,2,g,14,g
+167,winchells,twist donut glazed,19,g,0,mg,540,g,48,g,7,g,8,g,0,g,2,g,14,g
+168,winchells,twist donut sugared,19,g,0,mg,540,g,58,g,7,g,8,g,0,g,2,g,26,g
+169,winchells,vanilla raspado 16 oz,0,g,0,mg,20,g,14,g,0,g,0,g,0,g,0,g,14,g
+170,winchells,vanilla raspado 20 oz,0,g,0,mg,20,g,14,g,0,g,0,g,0,g,0,g,14,g
+171,winchells,wheat and spice donut cinnamon crumb,16,g,5,mg,340,g,45,g,4,g,6,g,0,g,4,g,23,g
+172,winchells,wheat and spice donut glazed,13,g,0,mg,260,g,36,g,4,g,5,g,0,g,3,g,18,g
+173,winchells,wheat and spice donut plain,13,g,0,mg,260,g,26,g,4,g,5,g,0,g,3,g,10,g
+174,winchells,white cake donut cherry iced,12,g,20,mg,310,g,40,g,3,g,5,g,0,g,2,g,22,g
+175,winchells,white cake donut cherry iced with rainbow sprinkles,12,g,20,mg,310,g,44,g,3,g,5,g,0,g,2,g,27,g
+176,winchells,white cake donut chocolate iced,12,g,20,mg,320,g,39,g,3,g,5,g,0,g,2,g,22,g
+177,winchells,white cake donut cinnamon crumb,16,g,25,mg,400,g,45,g,4,g,6,g,0,g,3,g,23,g
+178,winchells,white cake donut donut sugar,12,g,20,mg,300,g,34,g,3,g,5,g,0,g,2,g,16,g
+179,winchells,white cake donut lemon iced,12,g,20,mg,310,g,40,g,3,g,5,g,0,g,2,g,22,g
+180,winchells,white cake donut maple iced,12,g,20,mg,310,g,40,g,3,g,5,g,0,g,2,g,22,g
+181,winchells,white cake donut orange iced,12,g,20,mg,310,g,40,g,3,g,5,g,0,g,2,g,22,g
+182,winchells,white cake donut plain,11,g,15,mg,270,g,22,g,3,g,4,g,0,g,2,g,9,g
+183,winchells,white cake donut vanilla iced,12,g,20,mg,310,g,40,g,3,g,5,g,0,g,2,g,23,g
+184,winchells,white cake donut vanilla iced with chocolate sprinkles,12,g,20,mg,310,g,44,g,3,g,5,g,0,g,2,g,27,g
+185,winchells,white cake donut vanilla iced with coconut,16,g,20,mg,310,g,44,g,4,g,8,g,0,g,2,g,23,g
+186,winchells,white cake donut vanilla iced with peanuts,15,g,20,mg,300,g,41,g,4,g,5,g,0,g,3,g,23,g
+187,winchells,white cake donut vanilla iced with rainbow sprinkles,12,g,20,mg,310,g,44,g,3,g,5,g,0,g,2,g,27,g
+188,winchells,whole wheat bagel,1,g,0,mg,390,g,55,g,10,g,0,g,0,g,4,g,5,g
+189,winchells,wild berry chilla 16 oz,21,g,25,mg,15,g,43,g,0,g,5,g,0,g,0,g,31,g
+190,winchells,wild berry chilla 20 oz,26,g,25,mg,20,g,53,g,0,g,5,g,0,g,0,g,39,g
+191,wingstop,lemon pepper jumbo wings,13,g,69,mg,202,g,1,g,15,g,3,g,0,g,1,g,0,g
+192,wingstop,garlic parmesan boneless wings,14,g,26,mg,695,g,14,g,10,g,3,g,0.1,g,1,g,0,g
+193,wingstop,mild boneless wings,14,g,24,mg,834,g,14,g,9,g,3,g,0,g,1,g,0,g
+194,wingstop,mango habanero jumbo wings,8,g,69,mg,143,g,6,g,15,g,2,g,0,g,0,g,3,g
+195,wingstop,original hot boneless wings,8,g,24,mg,1039,g,14,g,9,g,2,g,0,g,1,g,0,g
+196,wingstop,plain crispy boneless tenders,9,g,47,mg,840,g,16,g,19,g,2,g,0,g,1,g,0,g
+197,wingstop,lemon pepper boneless wings,13,g,24,mg,786,g,14,g,9,g,2,g,0,g,1,g,0,g
+198,wingstop,mango habanero boneless wings,8,g,24,mg,724,g,20,g,9,g,2,g,0,g,1,g,4,g
+199,wingstop,louisiana rub jumbo wings,12,g,69,mg,194,g,1,g,15,g,3,g,0,g,1,g,0,g
+200,wingstop,cajun boneless wings,8,g,24,mg,946,g,14,g,9,g,2,g,0,g,1,g,0,g
+201,wingstop,original hot jumbo wings,9,g,69,mg,458,g,1,g,15,g,2,g,0,g,1,g,0,g
+202,wingstop,hickory smoked bbq renfro jumbo wings,8,g,69,mg,280,g,8,g,15,g,2,g,0,g,1,g,6,g
+203,wingstop,hickory smoked bbq kens boneless wings,8,g,24,mg,919,g,22,g,9,g,2,g,0,g,1,g,8,g
+204,wingstop,plain boneless wings,8,g,24,mg,632,g,14,g,9,g,2,g,0,g,1,g,0,g
+205,wingstop,hawaiian renfro boneless wings,8,g,24,mg,727,g,18,g,9,g,2,g,0,g,1,g,4,g
+206,wingstop,cajun jumbo wings,8,g,69,mg,270,g,1,g,15,g,2,g,0,g,1,g,0,g
+207,wingstop,garlic parmesan jumbo wings,15,g,71,mg,140,g,1,g,16,g,4,g,0.1,g,1,g,0,g
+208,wingstop,louisiana rub boneless wings,11,g,24,mg,759,g,14,g,9,g,2,g,0,g,1,g,0,g
+209,wingstop,lemon pepper crispy boneless tenders,20,g,47,mg,1179,g,16,g,19,g,4,g,0,g,1,g,0,g
+210,wingstop,garlic parmesan crispy boneless tenders,25,g,48,mg,967,g,16,g,20,g,5,g,0.1,g,1,g,0,g
+211,wingstop,spicy korean q boneless wings,8,g,28,mg,803,g,17,g,10,g,2,g,0,g,1,g,4,g
+212,wingstop,atomic boneless wings,8,g,24,mg,673,g,15,g,9,g,2,g,0,g,1,g,1,g
+213,wingstop,mango habanero crispy boneless tenders,9,g,47,mg,1021,g,27,g,20,g,2,g,0,g,1,g,8,g
+214,wingstop,mild jumbo wings,13,g,69,mg,243,g,1,g,15,g,3,g,0,g,1,g,0,g
+215,wingstop,spicy korean q jumbo wings,8,g,69,mg,276,g,7,g,16,g,2,g,0,g,1,g,6,g
+216,wingstop,plain jumbo wings,8,g,69,mg,66,g,1,g,15,g,2,g,0,g,1,g,0,g
+217,wingstop,louisiana rub crispy boneless tenders,24,g,47,mg,1144,g,17,g,20,g,4,g,0,g,2,g,0,g
+218,wingstop,hickory smoked bbq kens jumbo wings,8,g,69,mg,325,g,8,g,15,g,2,g,0,g,1,g,7,g
+219,wingstop,hickory smoked bbq renfro crispy boneless tenders,9,g,47,mg,1249,g,29,g,20,g,2,g,0,g,2,g,11,g
+220,wingstop,original hot crispy boneless tenders,9,g,47,mg,1459,g,16,g,20,g,2,g,0,g,1,g,0,g
+221,wingstop,hawaiian renfro jumbo wings,8,g,69,mg,146,g,4,g,15,g,2,g,0,g,1,g,3,g
+222,wingstop,atomic crispy boneless tenders,10,g,47,mg,929,g,19,g,20,g,2,g,0,g,2,g,1,g
+223,wingstop,mild crispy boneless tenders,22,g,47,mg,1309,g,16,g,19,g,4,g,0,g,1,g,0,g
+224,wingstop,hickory smoked bbq renfro boneless wings,8,g,24,mg,869,g,22,g,9,g,2,g,0,g,1,g,7,g
+225,wingstop,spicy korean q crispy boneless tenders,9,g,47,mg,1260,g,28,g,20,g,2,g,1,g,1,g,11,g
+226,wingstop,hickory smoked bbq kens crispy boneless tenders,9,g,47,mg,1335,g,30,g,20,g,2,g,0,g,1,g,14,g
+227,wingstop,atomic jumbo wings,9,g,69,mg,97,g,2,g,15,g,2,g,0,g,1,g,0,g
+228,wingstop,hawaiian kens jumbo wings,8,g,69,mg,126,g,5,g,15,g,2,g,0,g,1,g,3,g
+229,wingstop,cajun crispy boneless tenders,9,g,47,mg,1550,g,16,g,20,g,2,g,0,g,1,g,0,g
+230,wingstop,hawaiian kens boneless wings,8,g,24,mg,704,g,19,g,9,g,2,g,0,g,1,g,4,g
+231,wingstop,hawaiian renfro crispy boneless tenders,9,g,47,mg,1027,g,24,g,20,g,2,g,0,g,1,g,7,g
+232,wingstop,hawaiian kens crispy boneless tenders,9,g,47,mg,981,g,26,g,20,g,2,g,0,g,1,g,7,g
+233,wingstop,ranch sauce,33,g,26,mg,518,g,2,g,1,g,5,g,0,g,0,g,1,g
+234,wingstop,blue cheese sauce,32,g,33,mg,543,g,3,g,3,g,7,g,0,g,0,g,1,g
+235,wingstop,hot cheddar cheese sauce,8,g,4,mg,804,g,11,g,1,g,4,g,0,g,0,g,4,g
+236,wingstop,honey mustard sauce,33,g,30,mg,682,g,18,g,0,g,5,g,0,g,0,g,17,g
+237,wingstop,seasoned fries,17,g,0,mg,1090,g,53,g,7,g,3,g,0,g,0,g,4,g
+238,wingstop,yeast rolls,2,g,3,mg,163,g,25,g,5,g,0,g,0,g,1,g,5,g
+239,wingstop,carrot sticks,0,g,0,mg,19,g,4,g,0,g,0,g,0,g,1,g,2,g
+240,wingstop,celery sticks,0,g,0,mg,26,g,1,g,0,g,0,g,0,g,0,g,1,g
+241,wingstop,cheese fries,23,g,0,mg,1650,g,58,g,8,g,4,g,0,g,0,g,5,g
+242,wingstop,louisiana voodoo fries,29,g,5,mg,1070,g,55,g,9,g,5,g,0,g,0,g,1,g
+243,wingstop,buffalo ranch fries,23,g,5,mg,1720,g,54,g,8,g,4,g,0,g,0,g,4,g
+244,wingstop,cajun fried corn regular,17,g,0,mg,660,g,34,g,5,g,2.5,g,0,g,2,g,9,g
+245,wingstop,brownie,24,g,85,mg,160,g,49,g,6,g,10,g,0,g,3,g,33,g
+246,wingstop,atomic boneless tenders,10,g,45,mg,930,g,19,g,20,g,2,g,0,g,2,g,1,g
+247,wingstop,atomic boneless wings,8,g,25,mg,670,g,15,g,9,g,2,g,0,g,1,g,1,g
+248,wingstop,atomic jumbo wings,9,g,70,mg,95,g,2,g,15,g,2,g,0,g,1,g,0,g
+249,wingstop,blue cheese,32,g,35,mg,540,g,3,g,3,g,7,g,0,g,0,g,1,g
+250,wingstop,brownie,24,g,85,mg,160,g,49,g,6,g,10,g,0,g,3,g,33,g
+251,wingstop,buffalo ranch fries large,40,g,10,mg,2880,g,98,g,14,g,7,g,0,g,0,g,8,g
+252,wingstop,buffalo ranch fries regular,23,g,5,mg,1720,g,54,g,8,g,4,g,0,g,0,g,4,g
+253,wingstop,cajun boneless tenders,9,g,45,mg,1550,g,16,g,20,g,2,g,0,g,1,g,0,g
+254,wingstop,cajun boneless wings,8,g,25,mg,950,g,14,g,9,g,2,g,0,g,1,g,0,g
+255,wingstop,cajun fried corn large,34,g,0,mg,1320,g,68,g,10,g,5,g,0,g,4,g,18,g
+256,wingstop,cajun fried corn regular,17,g,0,mg,660,g,34,g,5,g,2.5,g,0,g,2,g,9,g
+257,wingstop,cajun jumbo wings,8,g,70,mg,270,g,1,g,15,g,2,g,0,g,1,g,0,g
+258,wingstop,cheese fries large,39,g,5,mg,2750,g,105,g,15,g,7,g,0,g,0,g,8,g
+259,wingstop,cheese fries regular,23,g,0,mg,1650,g,58,g,8,g,4,g,0,g,0,g,5,g
+260,wingstop,coke large,0,g,0,mg,10,g,108,g,0,g,0,g,0,g,0,g,108,g
+261,wingstop,coke regular,0,g,0,mg,5,g,68,g,0,g,0,g,0,g,0,g,68,g
+262,wingstop,diet coke large,0,g,0,mg,40,g,2,g,0,g,0,g,0,g,0,g,2,g
+263,wingstop,diet coke regular,0,g,0,mg,25,g,1,g,0,g,0,g,0,g,0,g,1,g
+264,wingstop,dr pepper large,0,g,0,mg,120,g,104,g,0,g,0,g,0,g,0,g,104,g
+265,wingstop,dr pepper regular,0,g,0,mg,75,g,65,g,0,g,0,g,0,g,0,g,65,g
+266,wingstop,fanta orange large,0,g,0,mg,55,g,120,g,0,g,0,g,0,g,0,g,120,g
+267,wingstop,fanta orange regular,0,g,0,mg,35,g,75,g,0,g,0,g,0,g,0,g,75,g
+268,wingstop,fanta strawberry large,0,g,0,mg,35,g,124,g,0,g,0,g,0,g,0,g,124,g
+269,wingstop,fanta strawberry regular,0,g,0,mg,25,g,78,g,0,g,0,g,0,g,0,g,78,g
+270,wingstop,garlic parmesan boneless tenders,25,g,50,mg,970,g,16,g,20,g,5,g,0,g,1,g,0,g
+271,wingstop,garlic parmesan boneless wings,14,g,25,mg,700,g,14,g,10,g,3,g,0,g,1,g,0,g
+272,wingstop,garlic parmesan jumbo wings,15,g,70,mg,140,g,1,g,16,g,4,g,0,g,1,g,0,g
+273,wingstop,gold peak southern tea large,0,g,0,mg,30,g,105,g,0,g,0,g,0,g,0,g,104,g
+274,wingstop,gold peak southern tea regular,0,g,0,mg,20,g,66,g,0,g,0,g,0,g,0,g,65,g
+275,wingstop,gold peak sweet green tea large,0,g,0,mg,30,g,88,g,0,g,0,g,0,g,0,g,88,g
+276,wingstop,gold peak sweet green tea regular,0,g,0,mg,20,g,55,g,0,g,0,g,0,g,0,g,55,g
+277,wingstop,gold peak unsweetened tea large,0,g,0,mg,30,g,2,g,0,g,0,g,0,g,0,g,0,g
+278,wingstop,gold peak unsweetened tea regular,0,g,0,mg,20,g,1,g,0,g,0,g,0,g,0,g,0,g
+279,wingstop,hawaiian kens boneless tenders,9,g,45,mg,980,g,26,g,20,g,2,g,0,g,1,g,7,g
+280,wingstop,hawaiian kens boneless wings,8,g,25,mg,700,g,19,g,9,g,2,g,0,g,1,g,4,g
+281,wingstop,hawaiian kens jumbo wings,8,g,70,mg,125,g,5,g,15,g,2,g,0,g,1,g,3,g
+282,wingstop,hawaiian renfros boneless tenders,9,g,45,mg,1030,g,24,g,20,g,2,g,0,g,1,g,7,g
+283,wingstop,hawaiian renfros boneless wings,8,g,25,mg,730,g,18,g,9,g,2,g,0,g,1,g,4,g
+284,wingstop,hawaiian renfros jumbo wings,8,g,70,mg,150,g,4,g,15,g,2,g,0,g,1,g,3,g
+285,wingstop,hickory smoked bbq kens boneless tenders,9,g,45,mg,1340,g,30,g,20,g,2,g,0,g,1,g,14,g
+286,wingstop,hickory smoked bbq kens boneless wings,8,g,25,mg,920,g,22,g,9,g,2,g,0,g,1,g,8,g
+287,wingstop,hickory smoked bbq kens jumbo wings,8,g,70,mg,330,g,8,g,15,g,2,g,0,g,1,g,7,g
+288,wingstop,hickory smoked bbq renfro boneless tenders,9,g,45,mg,1250,g,29,g,20,g,2,g,0,g,2,g,11,g
+289,wingstop,hickory smoked bbq renfro boneless wings,8,g,25,mg,870,g,22,g,9,g,2,g,0,g,1,g,7,g
+290,wingstop,hickory smoked bbq renfro jumbo wings,8,g,70,mg,280,g,8,g,15,g,2,g,0,g,1,g,6,g
+291,wingstop,honey mustard,33,g,30,mg,680,g,18,g,0,g,5,g,0,g,0,g,17,g
+292,wingstop,hot cheddar cheese sauce,9,g,0,mg,860,g,8,g,2,g,1.5,g,0,g,0,g,2,g
+293,wingstop,lemon pepper boneless tenders,20,g,45,mg,1180,g,16,g,19,g,4,g,0,g,1,g,0,g
+294,wingstop,lemon pepper boneless wings,13,g,25,mg,790,g,14,g,9,g,2,g,0,g,1,g,0,g
+295,wingstop,lemon pepper jumbo wings,13,g,70,mg,200,g,1,g,15,g,3,g,0,g,1,g,0,g
+296,wingstop,lipton tea sweet large,0,g,0,mg,0,g,72,g,0,g,0,g,0,g,0,g,72,g
+297,wingstop,lipton tea sweet regular,0,g,0,mg,0,g,45,g,0,g,0,g,0,g,0,g,45,g
+298,wingstop,louisiana rub boneless tenders,24,g,45,mg,1140,g,17,g,20,g,4,g,0,g,2,g,0,g
+299,wingstop,louisiana rub boneless wings,11,g,25,mg,760,g,14,g,9,g,2,g,0,g,1,g,0,g
+300,wingstop,louisiana rub jumbo wings,12,g,70,mg,190,g,1,g,15,g,3,g,0,g,1,g,0,g
+301,wingstop,louisiana voodoo fries large,49,g,10,mg,1710,g,100,g,16,g,9,g,0,g,0,g,2,g
+302,wingstop,louisiana voodoo fries regular,29,g,5,mg,1070,g,55,g,9,g,5,g,0,g,0,g,1,g
+303,wingstop,mango habanero boneless tenders,9,g,45,mg,1020,g,27,g,20,g,2,g,0,g,1,g,8,g
+304,wingstop,mango habanero boneless wings,8,g,25,mg,720,g,20,g,9,g,2,g,0,g,1,g,4,g
+305,wingstop,mango habanero jumbo wings,8,g,70,mg,140,g,6,g,15,g,2,g,0,g,0,g,3,g
+306,wingstop,mild boneless tenders,22,g,45,mg,1310,g,16,g,19,g,4,g,0,g,1,g,0,g
+307,wingstop,mild boneless wings,14,g,25,mg,830,g,14,g,9,g,3,g,0,g,1,g,0,g
+308,wingstop,mild jumbo wings,13,g,70,mg,240,g,1,g,15,g,3,g,0,g,1,g,0,g
+309,wingstop,minute maid lemonade large,0,g,0,mg,160,g,104,g,0,g,0,g,0,g,0,g,100,g
+310,wingstop,minute maid lemonade regular,0,g,0,mg,105,g,65,g,0,g,0,g,0,g,0,g,63,g
+311,wingstop,nestea peach tea large,0,g,0,mg,30,g,80,g,0,g,0,g,0,g,0,g,80,g
+312,wingstop,nestea peach tea regular,0,g,0,mg,20,g,50,g,0,g,0,g,0,g,0,g,50,g
+313,wingstop,nestea raspberry tea large,0,g,0,mg,30,g,84,g,0,g,0,g,0,g,0,g,84,g
+314,wingstop,nestea raspberry tea regular,0,g,0,mg,20,g,52,g,0,g,0,g,0,g,0,g,52,g
+315,wingstop,original hot boneless tenders,9,g,45,mg,1460,g,16,g,20,g,2,g,0,g,1,g,0,g
+316,wingstop,original hot boneless wings,8,g,25,mg,1040,g,14,g,9,g,2,g,0,g,1,g,0,g
+317,wingstop,original hot jumbo wings,9,g,70,mg,460,g,1,g,15,g,2,g,0,g,1,g,0,g
+318,wingstop,plain boneless tenders,9,g,45,mg,840,g,16,g,19,g,2,g,0,g,1,g,0,g
+319,wingstop,plain boneless wings,8,g,25,mg,630,g,14,g,9,g,2,g,0,g,1,g,0,g
+320,wingstop,plain jumbo wings,8,g,70,mg,65,g,1,g,15,g,2,g,0,g,1,g,0,g
+321,wingstop,ranch,33,g,25,mg,520,g,2,g,1,g,5,g,0,g,0,g,1,g
+322,wingstop,seasoned fries large,30,g,5,mg,1910,g,97,g,14,g,6,g,0,g,0,g,7,g
+323,wingstop,seasoned fries small,17,g,0,mg,1090,g,53,g,7,g,3,g,0,g,0,g,4,g
+324,wingstop,spicy korean q boneless tenders,9,g,45,mg,1260,g,28,g,20,g,2,g,0,g,1,g,11,g
+325,wingstop,spicy korean q boneless wings,8,g,30,mg,800,g,17,g,10,g,2,g,0,g,1,g,4,g
+326,wingstop,spicy korean q jumbo wings,8,g,70,mg,280,g,7,g,16,g,2,g,0,g,1,g,6,g
+327,wingstop,sprite large,0,g,0,mg,90,g,104,g,0,g,0,g,0,g,0,g,104,g
+328,wingstop,sprite regular,0,g,0,mg,55,g,65,g,0,g,0,g,0,g,0,g,65,g
+329,wingstop,veggie sticks carrot,0,g,0,mg,20,g,4,g,0,g,0,g,0,g,1,g,2,g
+330,wingstop,veggie sticks celery,0,g,0,mg,25,g,1,g,0,g,0,g,0,g,0,g,1,g
+331,wingstop,yeast rolls,2,g,5,mg,160,g,25,g,5,g,0,g,0,g,1,g,5,g
+332,woodys bar b q,brunswick stew,5.5,g,10,mg,340,g,11,g,5,g,0,g,0,g,2,g,3,g
+333,woodys bar b q,corn nuggets,12,g,0,mg,480,g,27,g,2,g,1.5,g,0,g,1,g,7,g
+334,woodys bar b q,breaded wings,47,g,233,mg,1930,g,13,g,57,g,13,g,0,g,0,g,0,g
+335,woodys bar b q,chicken tenders,14,g,50,mg,1080,g,36,g,30,g,2,g,0,g,2,g,0,g
+336,woodys bar b q,naked wings,30,g,150,mg,1550,g,3,g,38,g,9,g,0,g,0,g,0,g
+337,woodys bar b q,mozzarella sticks,3,g,5,mg,200,g,5,g,4,g,2,g,0,g,0,g,0.5,g
+338,woodys bar b q,awesome onion rings,16,g,0,mg,710,g,45,g,5,g,3.5,g,0,g,2,g,3,g
+339,woodys bar b q,potachos,73,g,166,mg,917,g,91,g,56,g,21,g,0,g,6,g,5,g
+340,woodys bar b q,okra,1,g,0,mg,700,g,42,g,5,g,0,g,0,g,3,g,2,g
+341,woodys bar b q,garlic mushrooms,0.5,g,0,mg,410,g,19,g,3,g,0,g,0,g,1,g,0.5,g
+342,woodys bar b q,awesome squash,5,g,0,mg,1000,g,56,g,4,g,0,g,0,g,4,g,4,g
+343,woodys bar b q,super sampler,31,g,20,mg,2580,g,83,g,10,g,11,g,0,g,10,g,9,g
+344,woodys bar b q,french fries,7,g,0,mg,33,g,28,g,3,g,2,g,0,g,3,g,1,g
+345,woodys bar b q,sweet potato fries,10,g,0,mg,220,g,44,g,2,g,0,g,0,g,3,g,14,g
+346,woodys bar b q,turkey chili cheese fries,35,g,134,mg,1782,g,64,g,62,g,14,g,1,g,6,g,3,g
+347,woodys bar b q,beef chili cheese fries,38,g,129,mg,572,g,63,g,50,g,17,g,1,g,6,g,2,g
+348,woodys bar b q,bar b q cheese fries,31,g,44,mg,502,g,63,g,16,g,14,g,0,g,6,g,2,g
+349,woodys bar b q,pork chili cheese fries,50,g,174,mg,617,g,63,g,48,g,24,g,1,g,6,g,2,g
+350,woodys bar b q,lunch pulled pork without sides,16,g,72,mg,576,g,4,g,20,g,1,g,0,g,0,g,2,g
+351,woodys bar b q,lunch beans n franks without sides,68,g,165,mg,2630,g,26,g,35,g,23,g,0,g,3,g,4,g
+352,woodys bar b q,lunch bar bbq chicken without sides,28,g,290,mg,265,g,0,g,42,g,7,g,0,g,0,g,0,g
+353,woodys bar b q,lunch spare ribs without sides,21,g,80,mg,50,g,0,g,20,g,7,g,0,g,0,g,0,g
+354,woodys bar b q,lunch turkey without sides,4,g,90,mg,1280,g,1,g,30,g,0,g,0,g,0,g,1,g
+355,woodys bar b q,lunch chicken tenders without sides,14,g,50,mg,1080,g,36,g,30,g,2,g,0,g,1,g,0,g
+356,woodys bar b q,lunch baby back ribs without sides,20,g,110,mg,360,g,1,g,19,g,9,g,0,g,0,g,1,g
+357,woodys bar b q,lunch pork without sides,19,g,130,mg,115,g,0,g,32,g,10,g,0,g,0,g,0,g
+358,woodys bar b q,lunch country fried steak without sides,33.6,g,260,mg,1469,g,36.7,g,35.2,g,13.8,g,0,g,1.5,g,0,g
+359,woodys bar b q,lunch sausage without sides,48,g,120,mg,1400,g,0,g,40,g,18,g,0,g,0,g,4,g
+360,woodys bar b q,lunch loaded chicken without sides,28,g,124,mg,1027,g,1,g,43,g,10,g,0,g,2,g,1,g
+361,woodys bar b q,lunch catfish without sides,4,g,75,mg,1032,g,20,g,24,g,1,g,0,g,2,g,2,g
+362,woodys bar b q,lunch beef without sides,7,g,85,mg,70,g,0,g,34,g,3,g,0,g,0,g,0,g
+363,woodys bar b q,beef brisket dinner without sides,38,g,140,mg,1160,g,0,g,42,g,14,g,0,g,0,g,0,g
+364,woodys bar b q,ribeye steak dinner without sides,54,g,202,mg,795,g,2,g,57,g,22,g,0,g,0,g,0,g
+365,woodys bar b q,baby back ribs dinner without sides,40,g,220,mg,720,g,2,g,38,g,18,g,0,g,0,g,2,g
+366,woodys bar b q,feast for 4 dinner without sides,233,g,1790,mg,1745,g,3,g,322,g,81,g,0,g,0,g,0,g
+367,woodys bar b q,loaded chicken breast dinner without sides,35,g,257,mg,2460,g,6,g,85,g,16,g,0,g,0,g,2,g
+368,woodys bar b q,carolina pulled pork dinner without sides,29,g,98,mg,855,g,6,g,24,g,11,g,0,g,0,g,6,g
+369,woodys bar b q,beef prime rib dinner without sides,62,g,185,mg,1400,g,1,g,46,g,26,g,0,g,0,g,1,g
+370,woodys bar b q,classic beef dinner without sides,11,g,128,mg,105,g,0,g,50,g,5,g,0,g,0,g,0,g
+371,woodys bar b q,feast for 2 dinner without sdies,137,g,1000,mg,870,g,2,g,187,g,49,g,0,g,0,g,0,g
+372,woodys bar b q,baby back combo dinner without sides,48,g,400,mg,624,g,1,g,60,g,16,g,0,g,0,g,1,g
+373,woodys bar b q,shrimp dinner without sides,2,g,150,mg,1700,g,55,g,22,g,0,g,0,g,0,g,2,g
+374,woodys bar b q,classic turkey dinner without sides,6,g,135,mg,1720,g,2,g,50,g,0,g,0,g,0,g,1,g
+375,woodys bar b q,baby back ribs and shrimp dinner without sides,21,g,185,mg,1210,g,28,g,30,g,90,g,0,g,0,g,1,g
+376,woodys bar b q,new york strip dinner without sides,36,g,135,mg,530,g,2,g,38,g,15,g,0,g,0,g,0,g
+377,woodys bar b q,1 2 chicken dinner without sides,56,g,580,mg,530,g,0,g,83,g,15,g,0,g,0,g,0,g
+378,woodys bar b q,pork sampler dinner without sides,62,g,280,mg,745,g,4,g,105,g,25,g,0,g,0,g,4,g
+379,woodys bar b q,southern trio dinner without sides,55,g,414,mg,1277,g,2,g,78,g,18,g,0,g,0,g,2,g
+380,woodys bar b q,classic pork dinner without sides,28,g,195,mg,172,g,2,g,48,g,15,g,0,g,0,g,0,g
+381,woodys bar b q,chicken feast dinner without sides,112,g,1160,mg,1060,g,0,g,166,g,30,g,0,g,0,g,0,g
+382,woodys bar b q,backyard feast dinner without sides,416,g,3040,mg,2615,g,0,g,512,g,144,g,0,g,0,g,0,g
+383,woodys bar b q,ranch dressing,11,g,10,mg,250,g,3,g,1,g,1.5,g,0,g,0,g,1,g
+384,woodys bar b q,french dressing,12,g,0,mg,210,g,7,g,0,g,2,g,0,g,0,g,6,g
+385,woodys bar b q,chipotle dressing,14,g,5,mg,240,g,4,g,0,g,2,g,0,g,0,g,3,g
+386,woodys bar b q,caesar dressing,13,g,10,mg,380,g,2,g,2,g,3,g,0,g,0,g,1,g
+387,woodys bar b q,italian dressing,6,g,0,mg,260,g,3,g,0,g,1,g,0,g,0,g,2,g
+388,woodys bar b q,woodys blue cheese dressing,16,g,15,mg,180,g,1,g,1,g,3,g,0,g,0,g,1,g
+389,woodys bar b q,chicken caesar salad without dressing,54,g,90,mg,1890,g,35,g,28,g,9,g,0,g,5,g,11,g
+390,woodys bar b q,tossed salad without dressing,0,g,0,mg,15,g,4,g,1,g,0,g,0,g,2,g,2,g
+391,woodys bar b q,chicken tenders salad without dressing,15,g,218,mg,895,g,35,g,28,g,1,g,0,g,4,g,5,g
+392,woodys bar b q,mesquite chicken salad without dressing,13,g,230,mg,490,g,11,g,25,g,2.5,g,0,g,3,g,6,g
+393,woodys bar b q,tossed and mesquite chicken salad without dressing,4,g,85,mg,1175,g,8,g,33,g,1,g,0,g,2,g,4,g
+394,woodys bar b q,tossed and bbq chicken salad without dressing,28,g,290,mg,280,g,4,g,43,g,7,g,0,g,2,g,2,g
+395,woodys bar b q,bar b q salad without meat and dressing,3.5,g,180,mg,85,g,8,g,5,g,0,g,0,g,3,g,5,g
+396,woodys bar b q,salmon salad without dressing,20,g,205,mg,195,g,8,g,38,g,3,g,0,g,3,g,5,g
+397,woodys bar b q,meat salad without dressing,16,g,295,mg,520,g,9,g,41,g,6,g,0,g,3,g,7,g
+398,woodys bar b q,caesar salad without dressing,44,g,40,mg,1480,g,35,g,8,g,7,g,0,g,5,g,11,g
+399,woodys bar b q,turkey salad without dressing,6,g,240,mg,940,g,9,g,25,g,0,g,0,g,3,g,7,g
+400,woodys bar b q,cobb salad without dressing,12,g,234,mg,346,g,9,g,13,g,6,g,0,g,1,g,5,g
+401,woodys bar b q,beef salad without dressing,11,g,265,mg,160,g,8,g,39,g,3.5,g,0,g,3,g,7,g
+402,woodys bar b q,southwest salad without dressing,13,g,98,mg,636,g,34,g,43,g,4,g,0,g,6,g,6,g
+403,woodys bar b q,pork salad without dressing,23,g,310,mg,200,g,9,g,38,g,10,g,0,g,3,g,6,g
+404,woodys bar b q,beef brisket sandwich without sides,36,g,116,mg,1436,g,44,g,44,g,13,g,0,g,2,g,4,g
+405,woodys bar b q,pulled pork sandwich without sides,23,g,90,mg,1190,g,48,g,33,g,7,g,0,g,2,g,7,g
+406,woodys bar b q,pulled cheese steak sandwich without sides,30,g,114,mg,1275,g,46,g,35,g,13,g,0,g,7,g,9,g
+407,woodys bar b q,hawaiian bar b q burger without sides,65,g,234,mg,1092,g,61,g,70,g,32,g,0,g,2,g,11,g
+408,woodys bar b q,hot dog sandwich without sides,32,g,65,mg,1130,g,22,g,17,g,10,g,0,g,1,g,2,g
+409,woodys bar b q,sloppy woody sandwich without sides,22,g,80,mg,1310,g,59,g,31,g,7,g,0,g,2,g,17,g
+410,woodys bar b q,bacon cheddar burger without sides,62,g,184,mg,1006,g,49,g,59,g,30,g,0,g,2,g,6,g
+411,woodys bar b q,turkey sandwich without sides regular,11,g,90,mg,1560,g,30,g,36,g,1,g,0,g,2,g,3,g
+412,woodys bar b q,big fish sandwich without sides,18,g,11,mg,836,g,42,g,48,g,2,g,0,g,2,g,6,g
+413,woodys bar b q,turkey bbq wrap without sides,10,g,55,mg,1320,g,32,g,32,g,3.5,g,0,g,12,g,6,g
+414,woodys bar b q,pulled chicken sandwich without sides,10,g,120,mg,1460,g,61,g,37,g,3,g,0,g,2,g,19,g
+415,woodys bar b q,pork sandwich without sides large,37,g,195,mg,692,g,46,g,57,g,17,g,0,g,2,g,4,g
+416,woodys bar b q,pork bbq wrap without sides,21,g,100,mg,820,g,31,g,40,g,10,g,0,g,12,g,5,g
+417,woodys bar b q,prime rib sandwich without sides,45,g,110,mg,1160,g,30,g,34,g,17,g,0,g,2,g,4,g
+418,woodys bar b q,beef bbq wrap without sides,13,g,70,mg,790,g,31,g,41,g,6,g,0,g,12,g,6,g
+419,woodys bar b q,santa fe wrap without sides,27,g,102,mg,1044,g,57,g,44,g,7,g,0,g,6,g,8,g
+420,woodys bar b q,pork sandwich without sides regular,26,g,130,mg,395,g,29,g,38,g,11,g,0,g,2,g,2,g
+421,woodys bar b q,chicken breast sandwich without sides,8,g,85,mg,1632,g,53,g,41,g,2,g,0,g,2,g,8,g
+422,woodys bar b q,turkey sandwich without sides large,15,g,135,mg,2440,g,56,g,54,g,2,g,0,g,2,g,5,g
+423,woodys bar b q,caesar wrap without sides,28,g,115,mg,1440,g,44,g,50,g,9,g,0,g,2,g,4,g
+424,woodys bar b q,beef sandwich without sides regular,14,g,85,mg,350,g,28,g,40,g,4,g,0,g,2,g,2,g
+425,woodys bar b q,beef sandwich without sides large,20,g,128,mg,625,g,44,g,102,g,7,g,0,g,2,g,4,g
+426,woodys bar b q,slaw dog sandwich without sides,44,g,76,mg,1386,g,32,g,18,g,12,g,0,g,2,g,12,g
+427,woodys bar b q,chilicheese dog sandwich without sides,48,g,113,mg,1570,g,26,g,29,g,22,g,0,g,0,g,2,g
+428,woodys bar b q,sausage dog sandwich without sides,68,g,165,mg,2630,g,26,g,35,g,23,g,0,g,3,g,4,g
+429,woodys bar b q,sweet sauce,0,g,0,mg,420,g,8,g,0,g,0,g,0,g,0,g,7,g
+430,woodys bar b q,honey mustard,14,g,10,mg,135,g,8,g,0,g,2,g,0,g,0,g,7,g
+431,woodys bar b q,tangy mustard,0,g,0,mg,210,g,2,g,0,g,0,g,0,g,0,g,2,g
+432,woodys bar b q,petal sauce,17,g,15,mg,160,g,1,g,0,g,3,g,0,g,0,g,1,g
+433,woodys bar b q,hot sauce,0,g,0,mg,125,g,2,g,0,g,0,g,0,g,0,g,2,g
+434,woodys bar b q,carolina sauce,0,g,0,mg,170,g,4,g,0,g,0,g,0,g,0,g,0,g
+435,woodys bar b q,1 2 rack baby back ribs add on,20,g,110,mg,360,g,1,g,19,g,9,g,0,g,0,g,1,g
+436,woodys bar b q,cole slaw,16,g,15,mg,210,g,14,g,1,g,3,g,0,g,1,g,13,g
+437,woodys bar b q,onion rings,14.8,g,0,mg,454,g,25,g,2.3,g,25.5,g,1,g,1.5,g,3,g
+438,woodys bar b q,green beans,2.5,g,5,mg,330,g,6,g,3,g,0.5,g,0,g,4,g,2,g
+439,woodys bar b q,garlic toast,6,g,0,mg,165,g,14,g,3,g,1,g,0,g,1,g,1,g
+440,woodys bar b q,bbq beans,8,g,35,mg,530,g,20,g,9,g,3,g,0,g,3,g,4,g
+441,woodys bar b q,sweet potato,0,g,0,mg,72,g,41,g,4,g,0,g,0,g,7,g,13,g
+442,woodys bar b q,baked potato,0,g,0,mg,30,g,63,g,7,g,0,g,0,g,7,g,4,g
+443,woodys bar b q,cinnamon cup butter,5,g,0,mg,55,g,3,g,0,g,1,g,0,g,0,g,3,g
+444,woodys bar b q,tossed salad,0,g,0,mg,15,g,4,g,1,g,0,g,0,g,2,g,2,g
+445,woodys bar b q,country crock butter cup,7,g,0,mg,115,g,0,g,0,g,1.5,g,0,g,0,g,0,g
+446,woodys bar b q,okra side,1,g,0,mg,700,g,42,g,5,g,0,g,0,g,3,g,2,g
+447,woodys bar b q,shrimp add on,1,g,75,mg,850,g,33,g,11,g,0,g,0,g,0,g,1,g
+448,woodys bar b q,squash side,1,g,0,mg,500,g,28,g,2,g,0,g,0,g,2,g,2,g
+449,woodys bar b q,cobettes,1,g,0,mg,10,g,18,g,3,g,0,g,0,g,1,g,4,g
+450,woodys bar b q,1 2 chicken,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+451,woodys bar b q,add 1 2 rack baby backs,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+452,woodys bar b q,add 6 shrimp,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+453,woodys bar b q,awesome onion rings,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+454,woodys bar b q,awesome squash,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+455,woodys bar b q,baby back and shrimp,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+456,woodys bar b q,baby backs,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+457,woodys bar b q,baby backs combo,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+458,woodys bar b q,baby backs lunch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+459,woodys bar b q,backyard feast,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+460,woodys bar b q,bacon cheddar burger,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+461,woodys bar b q,baked potato side,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+462,woodys bar b q,banana pudding,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+463,woodys bar b q,bar b q cheese fries,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+464,woodys bar b q,bar b q chicken lunch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+465,woodys bar b q,bar b q salad no meat,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+466,woodys bar b q,bbq beans side,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+467,woodys bar b q,beans n franks lunch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+468,woodys bar b q,beef bbq wrap,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+469,woodys bar b q,beef brisket,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+470,woodys bar b q,beef brisket sandwich,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+471,woodys bar b q,beef cheese fries,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+472,woodys bar b q,beef prime rib,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+473,woodys bar b q,beef salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+474,woodys bar b q,beef sandwich,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+475,woodys bar b q,beef lunch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+476,woodys bar b q,blue cheese,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+477,woodys bar b q,bread pudding,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+478,woodys bar b q,breaded wings 10 piece,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+479,woodys bar b q,brunswick stew,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+480,woodys bar b q,caesar,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+481,woodys bar b q,caesar salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+482,woodys bar b q,caesar wrap,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+483,woodys bar b q,carolina sauce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+484,woodys bar b q,carollina pulled pork,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+485,woodys bar b q,catfish dinner,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+486,woodys bar b q,catfish sandwich,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+487,woodys bar b q,catfish starter,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+488,woodys bar b q,catfish lunch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+489,woodys bar b q,chicken breast sandwich,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+490,woodys bar b q,chicken caesar salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+491,woodys bar b q,chicken feast,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+492,woodys bar b q,chicken tenders,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+493,woodys bar b q,chicken tenders salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+494,woodys bar b q,chicken tenders lunch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+495,woodys bar b q,chili,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+496,woodys bar b q,chili cheese dog,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+497,woodys bar b q,chipotle,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+498,woodys bar b q,chocolate cream pie,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+499,woodys bar b q,cinnamon butter cup,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+500,woodys bar b q,classic beef,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+501,woodys bar b q,classic pork,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+502,woodys bar b q,classic turkey,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+503,woodys bar b q,cobb salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+504,woodys bar b q,cobettes side,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+505,woodys bar b q,cole slaw side,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+506,woodys bar b q,combo dinner,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+507,woodys bar b q,combo lunch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+508,woodys bar b q,corn nuggets,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+509,woodys bar b q,country crock butter cup,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+510,woodys bar b q,country fried steak lunch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+511,woodys bar b q,feast for 2,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+512,woodys bar b q,feast for 4,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+513,woodys bar b q,french,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+514,woodys bar b q,french fries side,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+515,woodys bar b q,garlic mushrooms,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+516,woodys bar b q,garlic toast side,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+517,woodys bar b q,green beans side,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+518,woodys bar b q,hawaiian burger,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+519,woodys bar b q,honey mustard,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+520,woodys bar b q,hot dog,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+521,woodys bar b q,hot sauce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+522,woodys bar b q,italian,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+523,woodys bar b q,loaded chicken breast,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+524,woodys bar b q,loaded chicken lunch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+525,woodys bar b q,mashed potatoes and gravy,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+526,woodys bar b q,meat salad 3 meat,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+527,woodys bar b q,memphis ribs,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+528,woodys bar b q,mesquite chicken salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+529,woodys bar b q,mozzarella sticks,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+530,woodys bar b q,naked wings 10 piece,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+531,woodys bar b q,new york strip,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+532,woodys bar b q,okra,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+533,woodys bar b q,okra side,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+534,woodys bar b q,onion rings side,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+535,woodys bar b q,petal sauce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+536,woodys bar b q,pork bbq wrap,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+537,woodys bar b q,pork cheese fries,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+538,woodys bar b q,pork rinds,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+539,woodys bar b q,pork salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+540,woodys bar b q,pork sampler,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+541,woodys bar b q,pork sandwich,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+542,woodys bar b q,pork lunch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+543,woodys bar b q,potachos,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+544,woodys bar b q,prime rib sandwich,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+545,woodys bar b q,pulled cheese steak,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+546,woodys bar b q,pulled chicken sandwich,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+547,woodys bar b q,pulled pork sandwich,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+548,woodys bar b q,pulled pork lunch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+549,woodys bar b q,ranch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+550,woodys bar b q,ribeye strak,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+551,woodys bar b q,rings and squash combo,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+552,woodys bar b q,salmon salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+553,woodys bar b q,santa fe wrap,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+554,woodys bar b q,sausage dog,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+555,woodys bar b q,sausage lunch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+556,woodys bar b q,shrimp dinner,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+557,woodys bar b q,slaw dog,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+558,woodys bar b q,sloppy woody,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+559,woodys bar b q,southern trio,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+560,woodys bar b q,southwest salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+561,woodys bar b q,spare rib,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+562,woodys bar b q,spare ribs lunch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+563,woodys bar b q,squash side,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+564,woodys bar b q,steakhouse burger,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+565,woodys bar b q,super sampler,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+566,woodys bar b q,sweet potato fries,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+567,woodys bar b q,sweet potato fries side,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+568,woodys bar b q,sweet potato side,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+569,woodys bar b q,sweet sauce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+570,woodys bar b q,tangy mustanrd,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+571,woodys bar b q,tossed salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+572,woodys bar b q,tossed salad and bbq chkn,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+573,woodys bar b q,tossed salad and mes chkn,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+574,woodys bar b q,tossed salad side,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+575,woodys bar b q,turkey bbq wrap,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+576,woodys bar b q,turkey cheese fries,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+577,woodys bar b q,turkey salad,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+578,woodys bar b q,turkey sandwich,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+579,woodys bar b q,turkey lunch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+580,woodys bar b q,ultimate pork sandwich,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+581,woodys bar b q,veggie plate lunch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+582,wow bao,original ginger ale,0,g,0,mg,10,g,23,g,0,g,0,g,0,g,0,g,20,g
+583,wow bao,plain oatmeal,11,g,20,mg,95,g,51,g,15,g,0,g,0,g,0,g,16,g
+584,wow bao,teriyaki chicken bowl without rice or noodles,12,g,1,mg,692,g,19,g,16,g,0,g,0,g,0,g,15,g
+585,wow bao,thai curry chicken bowl without rice or noodles,7,g,40,mg,1140,g,10,g,22,g,0,g,0,g,0,g,6,g
+586,wow bao,lo mein noodles,2,g,0,mg,0,g,44,g,10,g,0,g,0,g,0,g,0,g
+587,wow bao,spicy kung pao chicken bowl without rice or noodles,8,g,40,mg,890,g,14,g,19,g,0,g,0,g,0,g,9,g
+588,wow bao,jasmine white rice,0,g,0,mg,0,g,92,g,9,g,0,g,0,g,0,g,0,g
+589,wow bao,cauliflower rice,0.7,g,2,mg,512,g,8,g,4,g,0,g,0,g,0,g,4,g
+590,wow bao,bacon egg and cheddar bowl without rice or noodles,30,g,335,mg,660,g,4,g,14,g,0,g,0,g,0,g,2,g
+591,wow bao,spicy sausage and egg bowl without rice or noodles,26,g,294,mg,988,g,81,g,28,g,0,g,0,g,0,g,7,g
+592,wow bao,vegetable bowl without rice or noodles,8,g,0,mg,670,g,14,g,8,g,0,g,0,g,0,g,5,g
+593,wow bao,lettuce cups,0,g,0,mg,40,g,3,g,1,g,0,g,0,g,0,g,2,g
+594,wow bao,bbq berkshire pork bao steamed bun,6,g,20,mg,370,g,26,g,8,g,0,g,0,g,0,g,5,g
+595,wow bao,teriyaki chicken bao steamed bun,6,g,15,mg,320,g,24,g,7,g,0,g,0,g,0,g,8,g
+596,wow bao,spicy mongolian beef bao steamed bun,4.5,g,10,mg,320,g,24,g,8,g,0,g,0,g,0,g,7,g
+597,wow bao,coconut custard bao steamed bun,7,g,30,mg,120,g,30,g,5,g,0,g,0,g,0,g,11,g
+598,wow bao,thai curry chicken bao steamed bun,5,g,20,mg,300,g,22,g,7,g,0,g,0,g,0,g,7,g
+599,wow bao,green vegetable dumplings,4.5,g,0,mg,263,g,30,g,6,g,0,g,0,g,0,g,2,g
+600,wow bao,spicy kung pao chicken bao steamed bun,5,g,15,mg,270,g,22,g,7,g,0,g,0,g,0,g,6,g
+601,wow bao,chocolate bao steamed bun,9,g,10,mg,105,g,36,g,5,g,0,g,0,g,0,g,16,g
+602,wow bao,egg spinach and mushroom bao steamed bun,8,g,110,mg,180,g,22,g,6,g,0,g,0,g,0,g,5,g
+603,wow bao,ginger chicken potstickers,10,g,50,mg,530,g,29,g,14,g,0,g,0,g,0,g,1,g
+604,wow bao,freebird chicken dumplings,10,g,50,mg,530,g,29,g,14,g,0,g,0,g,0,g,1,g
+605,wow bao,egg and spicy sausage bao steamed bun,9,g,95,mg,330,g,22,g,7,g,0,g,0,g,0,g,6,g
+606,wow bao,egg bacon and cheddar bao steamed bun,8,g,85,mg,260,g,22,g,8,g,0,g,0,g,0,g,6,g
+607,wow bao,green vegetable potstickers,7.5,g,3,mg,263,g,30,g,6,g,0,g,0,g,0,g,2,g
+608,wow bao,orange chicken bowl without rice or noodles,11,g,79,mg,540,g,25,g,17,g,0,g,0,g,0,g,23,g
+609,wow bao,whole wheat vegetable bao steamed bun,5,g,0,mg,250,g,22,g,6,g,0,g,0,g,0,g,7,g
+610,wow bao,cheeseburger bao steamed bun,7.5,g,21,mg,393,g,33,g,11.5,g,0,g,0,g,0,g,9,g
+611,wow bao,gluten free chicken teriyaki bao steamed bun,5,g,55,mg,300,g,41,g,7,g,0,g,0,g,0,g,10,g
+612,wow bao,hunan spicy steak bowl without rice or noodles,12,g,1,mg,857,g,13,g,14,g,0,g,0,g,0,g,8,g
+613,wow bao,peanut dressing,3,g,4,mg,998,g,9,g,4,g,0,g,0,g,0,g,4,g
+614,wow bao,spicy peanut noodles salad without dressing,6,g,60,mg,420,g,8,g,27,g,0,g,0,g,0,g,2,g
+615,wow bao,asian vegetable salad without dressing,6,g,60,mg,420,g,8,g,27,g,0,g,0,g,0,g,2,g
+616,wow bao,vegetable dumpling noodle soup,8,g,35,mg,1631,g,58,g,25,g,0,g,0,g,0,g,4,g
+617,wow bao,chicken dumpling noodle soup,11,g,61,mg,1758,g,54,g,30,g,0,g,0,g,0,g,4,g
+618,wow bao,thai herb broth,0,g,0,mg,1190,g,4,g,5,g,0,g,0,g,0,g,3,g
+619,wow bao,all vegetable,8,g,0,mg,670,g,14,g,8,g,0,g,0,g,0,g,5,g
+620,wow bao,asian vegetable,6,g,60,mg,420,g,8,g,27,g,0,g,0,g,0,g,2,g
+621,wow bao,bacon egg and cheddar,30,g,335,mg,660,g,4,g,14,g,0,g,0,g,0,g,2,g
+622,wow bao,bbq berkshire pork bao,6,g,20,mg,370,g,26,g,8,g,0,g,0,g,0,g,5,g
+623,wow bao,cauliflower rice,0.5,g,0,mg,510,g,8,g,4,g,0,g,0,g,0,g,4,g
+624,wow bao,chocolate bao,9,g,10,mg,105,g,36,g,5,g,0,g,0,g,0,g,16,g
+625,wow bao,coconut custard bao,7,g,30,mg,120,g,30,g,5,g,0,g,0,g,0,g,11,g
+626,wow bao,dumpling noodle with chicken dumplings,11,g,60,mg,1760,g,54,g,30,g,0,g,0,g,0,g,4,g
+627,wow bao,dumpling noodle with vegetable dumplings,8,g,35,mg,1630,g,58,g,25,g,0,g,0,g,0,g,4,g
+628,wow bao,egg and spicy sausage bao,9,g,95,mg,330,g,22,g,7,g,0,g,0,g,0,g,6,g
+629,wow bao,egg bacon and cheddar bao,8,g,85,mg,260,g,22,g,8,g,0,g,0,g,0,g,6,g
+630,wow bao,egg spinach and mushroom bao,8,g,110,mg,180,g,22,g,6,g,0,g,0,g,0,g,5,g
+631,wow bao,ginger chicken dumplings,8,g,45,mg,480,g,23,g,15,g,0,g,0,g,0,g,1,g
+632,wow bao,ginger chicken potstickers,13,g,45,mg,480,g,23,g,15,g,0,g,0,g,0,g,1,g
+633,wow bao,gingerale original,0,g,0,mg,10,g,23,g,0,g,0,g,0,g,0,g,20,g
+634,wow bao,gluten free chicken teriyaki bao,5,g,55,mg,300,g,41,g,7,g,0,g,0,g,0,g,10,g
+635,wow bao,green vegetable dumplings,4.5,g,0,mg,260,g,30,g,6,g,0,g,0,g,0,g,2,g
+636,wow bao,green vegetable potstickers,8,g,5,mg,260,g,30,g,6,g,0,g,0,g,0,g,2,g
+637,wow bao,hunan spicy steak,12,g,0,mg,860,g,13,g,14,g,0,g,0,g,0,g,8,g
+638,wow bao,inchworlds best inch oatmeal without toppings,11,g,20,mg,95,g,51,g,15,g,0,g,0,g,0,g,16,g
+639,wow bao,jasmine white rice,0,g,0,mg,0,g,92,g,9,g,0,g,0,g,0,g,0,g
+640,wow bao,lettuce cups,0,g,0,mg,40,g,3,g,1,g,0,g,0,g,0,g,2,g
+641,wow bao,lo mein noodles,2,g,0,mg,0,g,44,g,10,g,0,g,0,g,0,g,0,g
+642,wow bao,orange chicken,11,g,80,mg,540,g,25,g,17,g,0,g,0,g,0,g,23,g
+643,wow bao,peanut dressing,3,g,5,mg,1000,g,9,g,4,g,0,g,0,g,0,g,4,g
+644,wow bao,spicy kung pao chicken,8,g,40,mg,890,g,14,g,19,g,0,g,0,g,0,g,9,g
+645,wow bao,spicy kung pao chicken bao,5,g,15,mg,270,g,22,g,7,g,0,g,0,g,0,g,6,g
+646,wow bao,spicy mongolian beef bao,4.5,g,10,mg,320,g,24,g,8,g,0,g,0,g,0,g,7,g
+647,wow bao,spicy peanut noodles,13,g,190,mg,340,g,34,g,28,g,0,g,0,g,0,g,10,g
+648,wow bao,spicy sausage and egg,26,g,295,mg,990,g,81,g,28,g,0,g,0,g,0,g,7,g
+649,wow bao,teriyaki chicken,12,g,0,mg,690,g,19,g,16,g,0,g,0,g,0,g,15,g
+650,wow bao,teriyaki chicken bao,6,g,15,mg,320,g,24,g,7,g,0,g,0,g,0,g,8,g
+651,wow bao,thai curry chicken,7,g,40,mg,1140,g,10,g,22,g,0,g,0,g,0,g,6,g
+652,wow bao,thai curry chicken bao,5,g,20,mg,300,g,22,g,7,g,0,g,0,g,0,g,7,g
+653,wow bao,thai herb broth,0,g,0,mg,1190,g,4,g,5,g,0,g,0,g,0,g,3,g
+654,wow bao,whole wheat vegetable bao,5,g,0,mg,250,g,22,g,6,g,0,g,0,g,0,g,7,g
+655,waba grill,chicken veggies mini bowl,5,g,70,mg,860,g,48,g,18,g,1,g,0,g,8,g,14,g
+656,waba grill,chicken bowl,11,g,155,mg,2460,g,123,g,38,g,3,g,0,g,1,g,36,g
+657,waba grill,chicken mini bowl,5,g,70,mg,830,g,55,g,17,g,1,g,0,g,1,g,12,g
+658,waba grill,chicken plate,15,g,225,mg,2910,g,146,g,54,g,5,g,0,g,3,g,48,g
+659,waba grill,chicken veggie bowl,11,g,155,mg,2510,g,113,g,39,g,3,g,0,g,17,g,40,g
+660,waba grill,family a la carte all broccoli,1,g,0,mg,120,g,24,g,10,g,0,g,0,g,8,g,6,g
+661,waba grill,family a la carte broccoli and carrots,1,g,0,mg,180,g,30,g,7,g,0,g,0,g,9,g,10,g
+662,waba grill,family a la carte brown rice,5,g,0,mg,25,g,133,g,13,g,1,g,0,g,9,g,0,g
+663,waba grill,family a la carte chicken,45,g,690,mg,4400,g,70,g,140,g,14,g,0,g,0,g,60,g
+664,waba grill,family a la carte mixed veggies,0.5,g,0,mg,180,g,35,g,8,g,0,g,0,g,50,g,14,g
+665,waba grill,family a la carte organic tofu,37,g,0,mg,3230,g,56,g,59,g,7,g,0,g,0,g,48,g
+666,waba grill,family a la carte pork veggie dumplings,30,g,100,mg,4620,g,152,g,28,g,8,g,0,g,0,g,44,g
+667,waba grill,family a la carte rib eye steak,78,g,310,mg,4360,g,91,g,103,g,35,g,5,g,1,g,75,g
+668,waba grill,family a la carte salad,30,g,0,mg,1030,g,30,g,2,g,4.5,g,0,g,1,g,26,g
+669,waba grill,family a la carte sweet and spicy chicken,45,g,690,mg,4400,g,65,g,140,g,14,g,0,g,0,g,55,g
+670,waba grill,family a la carte waba chicken and steak,66,g,570,mg,4430,g,81,g,135,g,26,g,3,g,0,g,68,g
+671,waba grill,family a la carte white rice,1,g,0,mg,5,g,162,g,13,g,0,g,0,g,2,g,1,g
+672,waba grill,garlic serrano sauce,1,g,0,mg,660,g,8,g,1,g,0,g,0,g,0,g,6,g
+673,waba grill,half ocado,14,g,0,mg,5,g,8,g,2,g,2,g,0,g,6,g,1,g
+674,waba grill,jumbo shrimp bowl,1,g,130,mg,2240,g,109,g,19,g,0,g,0,g,1,g,24,g
+675,waba grill,jumbo shrimp plate,1,g,175,mg,2870,g,132,g,25,g,0,g,0,g,3,g,36,g
+676,waba grill,jumbo shrimp veggie bowl,1,g,130,mg,2680,g,106,g,20,g,0,g,0,g,17,g,34,g
+677,waba grill,loaded miso soup with chicken,2,g,35,mg,670,g,19,g,10,g,1,g,0,g,0,g,3,g
+678,waba grill,loaded miso soup with tofu,3.5,g,0,mg,650,g,19,g,9,g,1,g,0,g,0,g,3,g
+679,waba grill,miso soup,0,g,0,mg,840,g,3,g,2,g,0,g,0,g,0,g,3,g
+680,waba grill,organic tofu veggies mini bowl,7,g,0,mg,830,g,48,g,14,g,1,g,0,g,8,g,14,g
+681,waba grill,organic tofu bowl,11,g,0,mg,1590,g,109,g,23,g,2,g,0,g,1,g,24,g
+682,waba grill,organic tofu mini bowl,7,g,0,mg,800,g,55,g,14,g,1,g,0,g,1,g,12,g
+683,waba grill,organic tofu plate,14,g,0,mg,2000,g,132,g,30,g,3,g,0,g,3,g,36,g
+684,waba grill,organic tofu veggie bowl,11,g,0,mg,1610,g,93,g,22,g,2,g,0,g,9,g,26,g
+685,waba grill,pork veggie dumplings 10 pc,15,g,50,mg,2310,g,76,g,14,g,4,g,0,g,0,g,22,g
+686,waba grill,pork veggie dumplings 5 pc,8,g,25,mg,1160,g,38,g,7,g,2,g,0,g,0,g,11,g
+687,waba grill,ranch dressing,16,g,15,mg,370,g,1,g,1,g,2.5,g,0,g,0,g,1,g
+688,waba grill,rib eye steak bowl,18,g,70,mg,2030,g,121,g,29,g,8,g,1,g,1,g,33,g
+689,waba grill,rib eye steak plate,28,g,105,mg,2760,g,153,g,44,g,12,g,2,g,3,g,53,g
+690,waba grill,rib eye steak veggie bowl,17,g,70,mg,1520,g,98,g,30,g,8,g,1,g,17,g,27,g
+691,waba grill,side of brown rice,2,g,0,mg,10,g,67,g,7,g,0.5,g,0,g,5,g,0,g
+692,waba grill,side of chicken,10,g,155,mg,890,g,14,g,32,g,3,g,0,g,0,g,12,g
+693,waba grill,side of salad,0,g,0,mg,700,g,46,g,2,g,0,g,0,g,1,g,38,g
+694,waba grill,side of salmon,2.5,g,45,mg,710,g,8,g,21,g,0.5,g,0,g,0,g,7,g
+695,waba grill,side of shrimp,0,g,45,mg,620,g,7,g,4,g,0,g,0,g,0,g,6,g
+696,waba grill,side of steak,17,g,70,mg,690,g,13,g,22,g,8,g,1,g,0,g,11,g
+697,waba grill,side of steamed veggies,0,g,0,mg,65,g,11,g,2,g,0,g,0,g,13,g,5,g
+698,waba grill,side of sweet and spicy chicken,10,g,155,mg,890,g,13,g,32,g,3,g,0,g,0,g,11,g
+699,waba grill,side of tofu,10,g,0,mg,1200,g,21,g,16,g,2,g,0,g,0,g,18,g
+700,waba grill,side of white rice,1,g,0,mg,0,g,81,g,7,g,2,g,0,g,1,g,0,g
+701,waba grill,signature house salad,24,g,125,mg,610,g,20,g,45,g,4,g,0,g,3,g,5,g
+702,waba grill,spicy asian salad,20,g,110,mg,1560,g,43,g,49,g,3,g,0,g,5,g,22,g
+703,waba grill,spicy sesame dressing,4,g,0,mg,550,g,8,g,1,g,0.5,g,0,g,0,g,7,g
+704,waba grill,spicy waba sauce,0,g,0,mg,610,g,12,g,0,g,0,g,0,g,0,g,10,g
+705,waba grill,sweet and spicy chicken veggies mini bowl,6,g,85,mg,480,g,40,g,21,g,2,g,0,g,8,g,8,g
+706,waba grill,sweet and spicy chicken bowl,11,g,155,mg,2460,g,120,g,38,g,3,g,0,g,1,g,33,g
+707,waba grill,sweet and spicy chicken mini bowl,6,g,85,mg,450,g,47,g,21,g,2,g,0,g,1,g,6,g
+708,waba grill,sweet and spicy chicken plate,15,g,225,mg,2910,g,143,g,54,g,5,g,0,g,3,g,45,g
+709,waba grill,sweet and spicy chicken veggie bowl,11,g,155,mg,2510,g,110,g,39,g,3,g,0,g,17,g,37,g
+710,waba grill,sweet chili sauce,0,g,0,mg,780,g,13,g,0,g,0,g,0,g,0,g,11,g
+711,waba grill,waba chicken and steak bowl,16,g,125,mg,2210,g,122,g,37,g,6,g,1,g,1,g,35,g
+712,waba grill,waba chicken and steak plate,21,g,195,mg,2410,g,141,g,53,g,8,g,1,g,3,g,44,g
+713,waba grill,waba chicken and steak veggie bowl,16,g,125,mg,2510,g,116,g,38,g,6,g,0,g,17,g,42,g
+714,waba grill,waba sauce,0,g,0,mg,780,g,14,g,0,g,0,g,0,g,0,g,12,g
+715,waba grill,waba sesame dressing,10,g,0,mg,330,g,8,g,0,g,1.5,g,0,g,0,g,8,g
+716,waba grill,wild caught salmon bowl,3,g,45,mg,1880,g,110,g,28,g,0.5,g,0,g,1,g,25,g
+717,waba grill,wild caught salmon plate,4.5,g,70,mg,2050,g,127,g,40,g,1,g,0,g,3,g,32,g
+718,waba grill,wild caught salmon veggie bowl,3,g,45,mg,2320,g,107,g,29,g,1,g,0,g,17,g,35,g
+719,wagamama,apple and goji pancakes,6,g,75,mg,370,g,46,g,6,g,1.5,g,0,g,2,g,29,g
+720,wagamama,banana katsu,15,g,70,mg,170,g,30,g,4,g,6,g,0,g,1,g,23,g
+721,wagamama,blueberry spice juice,0.5,g,0,mg,60,g,46,g,2,g,0,g,0,g,9,g,31,g
+722,wagamama,breakfast ramen,21,g,135,mg,1890,g,30,g,18,g,13,g,3,g,1,g,4,g
+723,wagamama,carrot juice,1,g,0,mg,210,g,30,g,2,g,0,g,0,g,9,g,15,g
+724,wagamama,chicken prawn cha han,29,g,315,mg,830,g,111,g,37,g,3.5,g,0,g,5,g,8,g
+725,wagamama,chicken prawn pad thai,30,g,330,mg,2580,g,144,g,47,g,6,g,0.5,g,6,g,26,g
+726,wagamama,chicken gyoza,11,g,25,mg,570,g,24,g,11,g,1.5,g,0,g,1,g,2,g
+727,wagamama,chicken itame,58,g,35,mg,2670,g,122,g,31,g,15,g,0.5,g,5,g,19,g
+728,wagamama,chicken katsu curry,51,g,125,mg,1460,g,124,g,50,g,9,g,0.5,g,2,g,8,g
+729,wagamama,chicken raisukaree,62,g,35,mg,1520,g,163,g,32,g,19,g,0.5,g,5,g,12,g
+730,wagamama,chicken ramen,9,g,135,mg,1800,g,68,g,46,g,2,g,0,g,3,g,4,g
+731,wagamama,chili chicken ramen,8,g,80,mg,2230,g,83,g,46,g,1.5,g,0,g,4,g,23,g
+732,wagamama,chili squid,19,g,385,mg,80,g,33,g,24,g,1.5,g,0,g,1,g,10,g
+733,wagamama,chocolate layer cake,30,g,65,mg,80,g,54,g,5,g,19,g,0,g,4,g,45,g
+734,wagamama,clean green juice,1.5,g,0,mg,5,g,40,g,2,g,0,g,0,g,7,g,30,g
+735,wagamama,coconut reika,32,g,75,mg,150,g,44,g,6,g,22,g,0,g,3,g,36,g
+736,wagamama,duck gyoza,14,g,40,mg,680,g,34,g,13,g,1.5,g,0,g,2,g,6,g
+737,wagamama,ebi katsu,10,g,40,mg,930,g,43,g,11,g,0.5,g,0,g,3,g,10,g
+738,wagamama,edamame with chili,12,g,0,mg,25,g,27,g,32,g,0,g,0,g,15,g,6,g
+739,wagamama,edamame with salt,11,g,0,mg,30,g,26,g,31,g,0,g,0,g,14,g,6,g
+740,wagamama,firecracker chicken,44,g,85,mg,2510,g,188,g,34,g,3.5,g,0.5,g,5,g,42,g
+741,wagamama,frirecracker prawn,28,g,110,mg,2460,g,189,g,24,g,2.5,g,0,g,5,g,42,g
+742,wagamama,fruit juice,1.5,g,0,mg,5,g,59,g,3,g,0,g,0,g,5,g,49,g
+743,wagamama,ginger chicken udon,28,g,385,mg,1240,g,83,g,47,g,4,g,0,g,7,g,12,g
+744,wagamama,gluten free chicken ramen,58,g,35,mg,2670,g,122,g,31,g,15,g,0.5,g,5,g,19,g
+745,wagamama,gluten free coconut reika,32,g,75,mg,85,g,39,g,6,g,22,g,0,g,2,g,33,g
+746,wagamama,gluten free duck wraps,22,g,50,mg,1100,g,3,g,12,g,5,g,0,g,1,g,1,g
+747,wagamama,gluten free edamame,11,g,0,mg,15,g,26,g,31,g,0,g,0,g,14,g,6,g
+748,wagamama,gluten free lollipop prawn kushiyaki,8,g,100,mg,460,g,15,g,11,g,0.5,g,0,g,0,g,13,g
+749,wagamama,gluten free seafood ramen,11,g,125,mg,1720,g,114,g,40,g,3,g,0,g,1,g,5,g
+750,wagamama,gluten free vanilla bean ice cream,23,g,75,mg,85,g,37,g,6,g,13,g,0,g,0,g,35,g
+751,wagamama,gluten free yasai ramen,33,g,250,mg,380,g,112,g,24,g,4.5,g,0.5,g,2,g,2,g
+752,wagamama,grilled duck donburi,55,g,270,mg,2050,g,149,g,40,g,13,g,0,g,4,g,26,g
+753,wagamama,grilled duck ramen,39,g,115,mg,1920,g,64,g,38,g,11,g,0,g,2,g,1,g
+754,wagamama,grilled tuna salad,35,g,165,mg,1070,g,32,g,47,g,3,g,0.5,g,5,g,11,g
+755,wagamama,kids ice cream,8,g,25,mg,30,g,11,g,2,g,4.5,g,0,g,0,g,11,g
+756,wagamama,kids mini chicken cha han,11,g,160,mg,320,g,64,g,22,g,2,g,0,g,1,g,6,g
+757,wagamama,kids mini chicken katsu with amai sauce,11,g,65,mg,460,g,61,g,24,g,1.5,g,0,g,1,g,10,g
+758,wagamama,kids mini chicken katsu with curry sauce,16,g,65,mg,440,g,59,g,24,g,2.5,g,0,g,2,g,4,g
+759,wagamama,kids mini chicken ramen,14,g,80,mg,1150,g,36,g,37,g,2,g,0,g,2,g,4,g
+760,wagamama,kids mini chicken yaki soba,18,g,160,mg,520,g,35,g,23,g,2.5,g,0,g,2,g,6,g
+761,wagamama,kids mini grilled chicken katsu with amai sauce,8,g,80,mg,490,g,59,g,36,g,1.5,g,0,g,1,g,10,g
+762,wagamama,kids mini grilled chicken katsu with curry sauce,13,g,80,mg,470,g,57,g,36,g,3,g,0,g,2,g,5,g
+763,wagamama,kids mini grilled chicken noodle,18,g,80,mg,690,g,41,g,37,g,2,g,0,g,2,g,10,g
+764,wagamama,kids mini grilled fish noodle,13,g,30,mg,820,g,40,g,15,g,1,g,0,g,2,g,10,g
+765,wagamama,kids mini yasai cha han,13,g,125,mg,300,g,64,g,12,g,1.5,g,0,g,1,g,6,g
+766,wagamama,kids mini yasai katsu curry,9,g,10,mg,440,g,70,g,7,g,0.5,g,0,g,3,g,11,g
+767,wagamama,kids mini yasai katsu curry with curry sauce,13,g,10,mg,410,g,68,g,7,g,2,g,0,g,3,g,5,g
+768,wagamama,kids mini yasai ramen,12,g,0,mg,460,g,35,g,9,g,1,g,0,g,2,g,2,g
+769,wagamama,kids mini yasai yaki soba,20,g,125,mg,500,g,36,g,12,g,2,g,0,g,2,g,6,g
+770,wagamama,korean barbecue beef red onion hirata steamed buns,17,g,20,mg,730,g,26,g,12,g,2.5,g,0,g,0,g,15,g
+771,wagamama,lemon and almond tart,28,g,195,mg,130,g,114,g,11,g,1,g,0,g,2,g,68,g
+772,wagamama,lollipop prawn kushiyaki,15,g,105,mg,480,g,13,g,12,g,1,g,0,g,0,g,11,g
+773,wagamama,mango mousse cake,26,g,25,mg,75,g,107,g,3,g,22,g,1,g,1,g,66,g
+774,wagamama,okonomiyaki,28,g,610,mg,1070,g,23,g,36,g,8,g,1,g,5,g,10,g
+775,wagamama,orange juice,0,g,0,mg,0,g,71,g,6,g,0,g,0,g,0,g,71,g
+776,wagamama,pork belly panko apple hirata steamed buns,35,g,45,mg,600,g,40,g,8,g,9,g,0,g,0,g,13,g
+777,wagamama,pork gyoza,13,g,30,mg,420,g,26,g,10,g,3.5,g,0,g,1,g,4,g
+778,wagamama,positive juice,0.5,g,0,mg,35,g,40,g,2,g,0,g,0,g,7,g,28,g
+779,wagamama,power juice,0.5,g,0,mg,40,g,39,g,2,g,0,g,0,g,8,g,27,g
+780,wagamama,prawn gyoza,13,g,60,mg,380,g,23,g,13,g,1,g,0,g,2,g,2,g
+781,wagamama,prawn itame,46,g,65,mg,2940,g,122,g,25,g,15,g,0,g,5,g,19,g
+782,wagamama,prawn raisukaree,50,g,70,mg,1780,g,163,g,26,g,19,g,0,g,5,g,12,g
+783,wagamama,raw juice,1,g,0,mg,110,g,36,g,3,g,0,g,0,g,7,g,24,g
+784,wagamama,raw salad,25,g,0,mg,390,g,19,g,9,g,2,g,0,g,2,g,11,g
+785,wagamama,roti breakfast wrap with bacon,17,g,135,mg,980,g,42,g,22,g,9,g,0,g,3,g,6,g
+786,wagamama,roti breakfast wrap with shiitake,17,g,90,mg,125,g,42,g,9,g,8,g,0,g,5,g,6,g
+787,wagamama,seafood ramen,12,g,145,mg,2060,g,67,g,48,g,2.5,g,0,g,2,g,5,g
+788,wagamama,shiradashi pork ramen,50,g,120,mg,2580,g,77,g,26,g,18,g,0,g,3,g,11,g
+789,wagamama,short rib ramen,99,g,195,mg,2520,g,79,g,50,g,4,g,0,g,4,g,9,g
+790,wagamama,sirloin shiitake salad,115,g,465,mg,0,g,16,g,130,g,34,g,0.5,g,3,g,9,g
+791,wagamama,steak bulgogi,119,g,515,mg,230,g,74,g,143,g,35,g,0,g,4,g,18,g
+792,wagamama,super green juice,0.5,g,0,mg,40,g,42,g,1,g,0,g,0,g,8,g,28,g
+793,wagamama,teriyaki beef donburi,29,g,70,mg,1720,g,142,g,38,g,4.5,g,0,g,2,g,24,g
+794,wagamama,teriyaki chicken donburi,16,g,135,mg,1200,g,135,g,65,g,2.5,g,0,g,2,g,18,g
+795,wagamama,teriyaki salmon soba,48,g,65,mg,2060,g,77,g,42,g,6,g,0.5,g,5,g,19,g
+796,wagamama,teriyaki steak soba,126,g,465,mg,2600,g,86,g,145,g,35,g,0.5,g,5,g,26,g
+797,wagamama,tori kara age,28,g,130,mg,170,g,11,g,27,g,4.5,g,0,g,1,g,3,g
+798,wagamama,tropical juice,0.5,g,0,mg,5,g,48,g,1,g,0,g,0,g,8,g,36,g
+799,wagamama,vanilla cheesecake,48,g,260,mg,540,g,80,g,10,g,29,g,0,g,2,g,50,g
+800,wagamama,wagamama ramen,35,g,170,mg,2770,g,72,g,41,g,10,g,0,g,3,g,9,g
+801,wagamama,warm chili chicken salad,40,g,35,mg,310,g,16,g,16,g,3,g,0.5,g,2,g,11,g
+802,wagamama,warm chili tofu salad,40,g,0,mg,290,g,27,g,8,g,3,g,0.5,g,5,g,13,g
+803,wagamama,wok fried greens,15,g,0,mg,55,g,9,g,3,g,1,g,0,g,1,g,5,g
+804,wagamama,yaki soba,39,g,315,mg,1050,g,68,g,41,g,5,g,0,g,5,g,9,g
+805,wagamama,yasai cha han,32,g,250,mg,840,g,113,g,25,g,3.5,g,0,g,5,g,9,g
+806,wagamama,yasai gyoza,7,g,0,mg,430,g,28,g,4,g,0.5,g,0,g,2,g,2,g
+807,wagamama,yasai itame,52,g,0,mg,2640,g,123,g,21,g,15,g,0.5,g,5,g,19,g
+808,wagamama,yasai katsu curry,45,g,25,mg,1400,g,139,g,16,g,8,g,0.5,g,5,g,11,g
+809,wagamama,yasai okonomiyaki,27,g,545,mg,690,g,24,g,20,g,5,g,0,g,3,g,11,g
+810,wagamama,yasai pad thai,34,g,250,mg,1500,g,162,g,31,g,6,g,0,g,6,g,42,g
+811,wagamama,yasai ramen,28,g,350,mg,570,g,71,g,27,g,3.5,g,0,g,3,g,3,g
+812,wagamama,yasai yaki soba,38,g,0,mg,880,g,78,g,27,g,4.5,g,0,g,6,g,18,g
+813,wagamama,yoghurt granola,5,g,0,mg,280,g,48,g,9,g,2.5,g,0,g,4,g,24,g
+814,wahlburgers,1 dollar topping avocado spread,4,g,0,mg,65,g,2,g,1,g,1,g,0,g,2,g,0,g
+815,wahlburgers,1 dollar topping blue cheese,16,g,40,mg,760,g,0,g,12,g,10,g,0,g,0,g,0,g
+816,wahlburgers,1 dollar topping caramelized onions,1,g,0,mg,35,g,1,g,0,g,0,g,0,g,0,g,1,g
+817,wahlburgers,1 dollar topping chili,3,g,10,mg,190,g,4,g,4,g,1,g,0,g,1,g,1,g
+818,wahlburgers,1 dollar topping crispy bacon,7,g,15,mg,270,g,0,g,4,g,3,g,0,g,0,g,0,g
+819,wahlburgers,1 dollar topping fried egg,6,g,210,mg,80,g,0,g,6,g,2,g,0,g,0,g,0,g
+820,wahlburgers,1 dollar topping onion rings,1,g,0,mg,250,g,14,g,2,g,0,g,0,g,1,g,2,g
+821,wahlburgers,1 dollar topping pepper jack cheese,9,g,20,mg,490,g,0,g,4,g,4,g,0,g,0,g,0,g
+822,wahlburgers,1 dollar topping sauteed mushrooms,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+823,wahlburgers,1 dollar topping swiss cheese,5,g,20,mg,40,g,0,g,5,g,3,g,0,g,0,g,0,g
+824,wahlburgers,1 dollar topping white cheddar cheese,9,g,25,mg,180,g,0,g,7,g,5,g,0,g,0,g,0,g
+825,wahlburgers,alamos malbec,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,4,g
+826,wahlburgers,almas macaroni salad,44,g,20,mg,820,g,62,g,10,g,6,g,0,g,4,g,2,g
+827,wahlburgers,almas macaroni salad side,33,g,15,mg,600,g,44,g,7,g,5,g,0,g,3,g,2,g
+828,wahlburgers,almost cobb salad,27,g,235,mg,690,g,8,g,15,g,9,g,0,g,5,g,2,g
+829,wahlburgers,american government cheese wedges,45,g,225,mg,1780,g,35,g,21,g,18,g,0,g,2,g,13,g
+830,wahlburgers,angry orchard 14 fl oz,0,g,0,mg,0,g,23,g,0,g,0,g,0,g,0,g,18,g
+831,wahlburgers,angry orchard 16 fl oz,0,g,0,mg,0,g,26,g,0,g,0,g,0,g,0,g,20,g
+832,wahlburgers,angry orchard 20 fl oz,0,g,0,mg,0,g,33,g,0,g,0,g,0,g,0,g,25,g
+833,wahlburgers,angry orchard 21 fl oz,0,g,0,mg,0,g,34,g,0,g,0,g,0,g,0,g,26,g
+834,wahlburgers,angry orchard 32 fl oz,0,g,0,mg,0,g,52,g,0,g,0,g,0,g,0,g,40,g
+835,wahlburgers,aquahydrate,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+836,wahlburgers,arnold palmer,0,g,0,mg,0,g,26,g,0,g,0,g,0,g,0,g,22,g
+837,wahlburgers,arugula salad,33,g,10,mg,250,g,9,g,8,g,5,g,0,g,3,g,6,g
+838,wahlburgers,bbq bacon burger,37,g,125,mg,1540,g,11,g,37,g,15,g,0,g,3,g,7,g
+839,wahlburgers,bbq bacon burger with toasted bun,49,g,135,mg,1950,g,44,g,43,g,19,g,0,g,4,g,11,g
+840,wahlburgers,bbq bacon burger with toasted gluten free bun,50,g,125,mg,2030,g,50,g,43,g,16,g,0,g,8,g,13,g
+841,wahlburgers,bbq bacon wahlbowl,48,g,125,mg,1570,g,11,g,37,g,15,g,0,g,4,g,5,g
+842,wahlburgers,bbq buffalo boneless wings,44,g,170,mg,1180,g,20,g,51,g,6,g,0,g,2,g,16,g
+843,wahlburgers,birthday cake adult frappe,66,g,220,mg,280,g,104,g,14,g,40,g,2,g,0,g,94,g
+844,wahlburgers,black and white frappe,50,g,190,mg,280,g,74,g,16,g,33,g,0,g,2,g,72,g
+845,wahlburgers,black and white frappe with malt powder,52,g,195,mg,410,g,95,g,19,g,34,g,0,g,2,g,86,g
+846,wahlburgers,blue moon 14 fl oz,0,g,0,mg,10,g,15,g,2,g,0,g,0,g,0,g,0,g
+847,wahlburgers,blue moon 16 fl oz,0,g,0,mg,10,g,17,g,3,g,0,g,0,g,0,g,0,g
+848,wahlburgers,blue moon 20 fl oz,0,g,0,mg,15,g,22,g,3,g,0,g,0,g,0,g,0,g
+849,wahlburgers,blue moon 21 fl oz,0,g,0,mg,15,g,23,g,4,g,0,g,0,g,0,g,0,g
+850,wahlburgers,blue moon 32 fl oz,0,g,0,mg,20,g,35,g,5,g,0,g,0,g,0,g,0,g
+851,wahlburgers,bud light,0,g,0,mg,10,g,7,g,1,g,0,g,0,g,0,g,0,g
+852,wahlburgers,bud light 14 fl oz,0,g,0,mg,10,g,8,g,1,g,0,g,0,g,0,g,0,g
+853,wahlburgers,bud light 16 fl oz,0,g,0,mg,10,g,9,g,1,g,0,g,0,g,0,g,0,g
+854,wahlburgers,bud light 20 fl oz,0,g,0,mg,15,g,11,g,2,g,0,g,0,g,0,g,0,g
+855,wahlburgers,bud light 21 fl oz,0,g,0,mg,15,g,12,g,2,g,0,g,0,g,0,g,0,g
+856,wahlburgers,bud light 32 fl oz,0,g,0,mg,25,g,18,g,2,g,0,g,0,g,0,g,0,g
+857,wahlburgers,budweiser,0,g,0,mg,10,g,11,g,1,g,0,g,0,g,0,g,0,g
+858,wahlburgers,buffalo chicken dip,48,g,175,mg,1180,g,30,g,40,g,25,g,0,g,2,g,3,g
+859,wahlburgers,caesar salad,56,g,35,mg,470,g,7,g,8,g,8,g,0,g,3,g,2,g
+860,wahlburgers,caesar salad with beef,73,g,120,mg,540,g,7,g,33,g,14,g,0,g,3,g,2,g
+861,wahlburgers,caesar salad with fried haddock filet,60,g,130,mg,610,g,24,g,33,g,9,g,0,g,3,g,3,g
+862,wahlburgers,caesar salad with grilled chicken,59,g,115,mg,1380,g,8,g,41,g,9,g,0,g,3,g,2,g
+863,wahlburgers,caesar salad with turkey,64,g,115,mg,550,g,7,g,29,g,10,g,0,g,3,g,2,g
+864,wahlburgers,cherry coca cola 12 fl oz,0,g,0,mg,0,g,25,g,0,g,0,g,0,g,0,g,25,g
+865,wahlburgers,cherry coca cola 16 fl oz,0,g,0,mg,5,g,34,g,0,g,0,g,0,g,0,g,34,g
+866,wahlburgers,cherry coca cola 22 fl oz,0,g,0,mg,5,g,46,g,0,g,0,g,0,g,0,g,46,g
+867,wahlburgers,chicken parmesan sliders,46,g,190,mg,1530,g,43,g,66,g,17,g,0,g,1,g,8,g
+868,wahlburgers,chipotle chili glazed chicken tenders,66,g,325,mg,670,g,31,g,99,g,7,g,0,g,1,g,28,g
+869,wahlburgers,chipotle chili glazed chicken wings,82,g,160,mg,1640,g,31,g,46,g,16,g,0,g,1,g,28,g
+870,wahlburgers,chocolate frappe,43,g,160,mg,270,g,72,g,15,g,29,g,0,g,3,g,69,g
+871,wahlburgers,chocolate frappe with malt powder,46,g,170,mg,400,g,92,g,18,g,30,g,0,g,3,g,82,g
+872,wahlburgers,chocolate ice cream,13,g,45,mg,65,g,21,g,3,g,9,g,0,g,1,g,20,g
+873,wahlburgers,chocolate mint frappe,48,g,180,mg,290,g,101,g,16,g,31,g,0,g,3,g,98,g
+874,wahlburgers,chocolate mint frappe with malt powder,50,g,185,mg,430,g,121,g,19,g,33,g,0,g,3,g,111,g
+875,wahlburgers,chocolate strawberry frappe,47,g,180,mg,270,g,73,g,16,g,31,g,0,g,2,g,71,g
+876,wahlburgers,chocolate strawberry frappe with malt powder,50,g,185,mg,410,g,94,g,18,g,32,g,0,g,2,g,84,g
+877,wahlburgers,cobb salad,31,g,320,mg,1600,g,9,g,48,g,10,g,0,g,5,g,2,g
+878,wahlburgers,coca cola 12 fl oz,0,g,0,mg,5,g,24,g,0,g,0,g,0,g,0,g,24,g
+879,wahlburgers,coca cola 16 fl oz,0,g,0,mg,5,g,32,g,0,g,0,g,0,g,0,g,32,g
+880,wahlburgers,coca cola 22 fl oz,0,g,0,mg,10,g,45,g,0,g,0,g,0,g,0,g,45,g
+881,wahlburgers,coffee,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+882,wahlburgers,coffee frappe,36,g,155,mg,320,g,78,g,14,g,23,g,0,g,0,g,64,g
+883,wahlburgers,coffee frappe with malt powder,38,g,160,mg,450,g,98,g,16,g,24,g,0,g,0,g,78,g
+884,wahlburgers,coke and sriracha glazed wings,83,g,335,mg,2910,g,17,g,105,g,23,g,0,g,0,g,16,g
+885,wahlburgers,coney island hard root beer,0,g,0,mg,30,g,51,g,0,g,0,g,0,g,0,g,41,g
+886,wahlburgers,coors light,0,g,0,mg,10,g,5,g,1,g,0,g,0,g,0,g,1,g
+887,wahlburgers,coors light 14 fl oz,0,g,0,mg,10,g,6,g,1,g,0,g,0,g,0,g,1,g
+888,wahlburgers,coors light 16 fl oz,0,g,0,mg,15,g,7,g,1,g,0,g,0,g,0,g,1,g
+889,wahlburgers,coors light 20 fl oz,0,g,0,mg,15,g,8,g,1,g,0,g,0,g,0,g,2,g
+890,wahlburgers,coors light 21 fl oz,0,g,0,mg,20,g,9,g,1,g,0,g,0,g,0,g,2,g
+891,wahlburgers,coors light 32 fl oz,0,g,0,mg,25,g,13,g,2,g,0,g,0,g,0,g,3,g
+892,wahlburgers,coppola bianco pinot grigio,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+893,wahlburgers,corona,0,g,0,mg,0,g,14,g,0,g,0,g,0,g,0,g,0,g
+894,wahlburgers,creamsicle float,29,g,110,mg,200,g,78,g,7,g,19,g,0,g,0,g,78,g
+895,wahlburgers,crispy haddock sandwich,23,g,105,mg,340,g,17,g,25,g,4,g,0,g,1,g,1,g
+896,wahlburgers,crispy haddock sandwich with toasted bun,35,g,115,mg,750,g,50,g,31,g,8,g,0,g,2,g,5,g
+897,wahlburgers,crispy haddock sandwich with toasted gluten free,36,g,105,mg,830,g,56,g,31,g,5,g,0,g,6,g,7,g
+898,wahlburgers,crispy yukon french fries,15,g,0,mg,1010,g,59,g,5,g,1,g,0,g,5,g,0,g
+899,wahlburgers,decaf coffee,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+900,wahlburgers,diet coke 12 fl oz,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+901,wahlburgers,diet coke 16 fl oz,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+902,wahlburgers,diet coke 22 fl oz,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+903,wahlburgers,diet ibc root beer,0,g,0,mg,110,g,0,g,0,g,0,g,0,g,0,g,0,g
+904,wahlburgers,double dogs,26,g,60,mg,1060,g,2,g,16,g,10,g,0,g,0,g,0,g
+905,wahlburgers,double dogs with chili,30,g,70,mg,1250,g,6,g,20,g,11,g,0,g,1,g,1,g
+906,wahlburgers,double dogs with shredded cheddar cheese,35,g,90,mg,1240,g,3,g,23,g,15,g,0,g,0,g,0,g
+907,wahlburgers,double dogs with toasted gluten free hot dog buns,50,g,60,mg,1870,g,70,g,24,g,13,g,0,g,8,g,10,g
+908,wahlburgers,double dogs with toasted hot dog buns,43,g,60,mg,1610,g,48,g,24,g,13,g,0,g,2,g,8,g
+909,wahlburgers,farm fresh chocolate milk 12 fl oz,12,g,30,mg,290,g,39,g,9,g,7,g,0,g,2,g,38,g
+910,wahlburgers,farm fresh chocolate milk 16 fl oz,16,g,40,mg,380,g,52,g,12,g,10,g,0,g,2,g,50,g
+911,wahlburgers,farm fresh chocolate milk 22 fl oz,22,g,55,mg,520,g,72,g,17,g,14,g,0,g,3,g,69,g
+912,wahlburgers,farm fresh whole milk 12 fl oz,12,g,50,mg,190,g,20,g,12,g,7,g,0,g,0,g,18,g
+913,wahlburgers,farm fresh whole milk 16 fl oz,16,g,70,mg,250,g,26,g,16,g,10,g,0,g,0,g,24,g
+914,wahlburgers,farm fresh whole milk 22 fl oz,22,g,95,mg,340,g,36,g,22,g,14,g,0,g,0,g,33,g
+915,wahlburgers,fluffanuttah adult frappe,61,g,220,mg,230,g,96,g,14,g,39,g,0,g,0,g,84,g
+916,wahlburgers,free topping bbq sauce,0,g,0,mg,210,g,5,g,0,g,0,g,0,g,0,g,4,g
+917,wahlburgers,free topping buffalo sauce,1,g,5,mg,420,g,1,g,0,g,1,g,0,g,0,g,0,g
+918,wahlburgers,free topping chipotle sauce,9,g,5,mg,100,g,0,g,0,g,1,g,0,g,0,g,0,g
+919,wahlburgers,free topping fresh jalapenos,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+920,wahlburgers,free topping government cheese,6,g,15,mg,320,g,1,g,3,g,4,g,0,g,0,g,1,g
+921,wahlburgers,free topping lettuce,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+922,wahlburgers,free topping mustard sauce,5,g,5,mg,125,g,0,g,0,g,1,g,0,g,0,g,0,g
+923,wahlburgers,free topping onion,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+924,wahlburgers,free topping pickles,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+925,wahlburgers,free topping tomato,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+926,wahlburgers,free topping wahl sauce,6,g,5,mg,160,g,3,g,0,g,1,g,0,g,0,g,3,g
+927,wahlburgers,fresh brewed tea 12 fl oz,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+928,wahlburgers,fresh brewed tea 16 fl oz,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+929,wahlburgers,fresh brewed tea 22 fl oz,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+930,wahlburgers,fuze raspberry iced tea 12 fl oz,0,g,0,mg,0,g,21,g,0,g,0,g,0,g,0,g,20,g
+931,wahlburgers,fuze raspberry iced tea 16 fl oz,0,g,0,mg,0,g,28,g,0,g,0,g,0,g,0,g,26,g
+932,wahlburgers,fuze raspberry iced tea 22 fl oz,0,g,0,mg,0,g,38,g,0,g,0,g,0,g,0,g,36,g
+933,wahlburgers,grilled cheese,18,g,45,mg,960,g,3,g,9,g,11,g,0,g,0,g,3,g
+934,wahlburgers,grilled cheese with grilled gluten free white bread,31,g,45,mg,1500,g,38,g,15,g,12,g,0,g,2,g,6,g
+935,wahlburgers,grilled cheese with grilled white bread,29,g,45,mg,1680,g,61,g,21,g,12,g,0,g,2,g,11,g
+936,wahlburgers,grilled fluffanutta,38,g,0,mg,200,g,51,g,8,g,8,g,0,g,3,g,35,g
+937,wahlburgers,grilled fluffanutta with grilled gluten free white brea,51,g,0,mg,740,g,86,g,14,g,9,g,0,g,5,g,38,g
+938,wahlburgers,grilled fluffanutta with grilled white bread,49,g,0,mg,920,g,109,g,20,g,9,g,0,g,5,g,43,g
+939,wahlburgers,guinness 14 fl oz,0,g,0,mg,0,g,16,g,0,g,0,g,0,g,0,g,0,g
+940,wahlburgers,guinness 16 fl oz,0,g,0,mg,0,g,19,g,0,g,0,g,0,g,0,g,0,g
+941,wahlburgers,guinness 20 fl oz,0,g,0,mg,0,g,23,g,0,g,0,g,0,g,0,g,0,g
+942,wahlburgers,guinness 21 fl oz,0,g,0,mg,0,g,25,g,0,g,0,g,0,g,0,g,0,g
+943,wahlburgers,guinness 32 fl oz,0,g,0,mg,0,g,37,g,0,g,0,g,0,g,0,g,0,g
+944,wahlburgers,heineken,0,g,0,mg,10,g,11,g,2,g,0,g,0,g,0,g,2,g
+945,wahlburgers,hi c fruit punch 12 fl oz,0,g,0,mg,10,g,25,g,0,g,0,g,0,g,0,g,25,g
+946,wahlburgers,hi c fruit punch 16 fl oz,0,g,0,mg,10,g,34,g,0,g,0,g,0,g,0,g,34,g
+947,wahlburgers,hi c fruit punch 22 fl oz,0,g,0,mg,15,g,46,g,0,g,0,g,0,g,0,g,46,g
+948,wahlburgers,hot fudge sundae adult frappe,54,g,185,mg,260,g,97,g,14,g,36,g,0,g,3,g,92,g
+949,wahlburgers,housemade chili,14,g,45,mg,740,g,15,g,16,g,5,g,0,g,3,g,4,g
+950,wahlburgers,housemade chili with cheddar cheese,23,g,75,mg,920,g,16,g,23,g,10,g,0,g,3,g,4,g
+951,wahlburgers,housemade lemonade 12 fl oz,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,0,g,21,g
+952,wahlburgers,housemade lemonade 16 fl oz,0,g,0,mg,5,g,32,g,0,g,0,g,0,g,0,g,28,g
+953,wahlburgers,housemade lemonade 22 fl oz,0,g,0,mg,5,g,44,g,0,g,0,g,0,g,0,g,38,g
+954,wahlburgers,hummus,37,g,0,mg,2150,g,131,g,32,g,8,g,0,g,14,g,5,g
+955,wahlburgers,ibc root beer,0,g,0,mg,55,g,43,g,0,g,0,g,0,g,0,g,43,g
+956,wahlburgers,iced coffee 12 fl oz,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+957,wahlburgers,iced coffee 16 fl oz,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+958,wahlburgers,iced coffee 22 fl oz,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+959,wahlburgers,impossible burger,33,g,25,mg,990,g,14,g,32,g,19,g,0,g,1,g,5,g
+960,wahlburgers,impossible burger with toasted bun,45,g,35,mg,1410,g,47,g,38,g,23,g,0,g,2,g,9,g
+961,wahlburgers,impossible burger with toasted gluten free bun,46,g,25,mg,1490,g,53,g,38,g,20,g,0,g,6,g,11,g
+962,wahlburgers,jenns chicken sandwich,22,g,90,mg,1180,g,6,g,33,g,3,g,0,g,0,g,3,g
+963,wahlburgers,jenns chicken sandwich with toasted bun,34,g,100,mg,1590,g,39,g,39,g,8,g,0,g,1,g,7,g
+964,wahlburgers,jenns chicken sandwich with toasted gluten free,35,g,90,mg,1670,g,45,g,39,g,5,g,0,g,5,g,9,g
+965,wahlburgers,jenns chicken wahlbowl,23,g,85,mg,1210,g,10,g,34,g,3,g,0,g,2,g,5,g
+966,wahlburgers,joel gott sauvignon blanc,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+967,wahlburgers,kids all beef pearl hot dog,21,g,30,mg,1040,g,30,g,11,g,5,g,0,g,3,g,0,g
+968,wahlburgers,kids all beef pearl hot dog with toasted gluten free hot dog bun,33,g,30,mg,1440,g,64,g,15,g,7,g,0,g,7,g,5,g
+969,wahlburgers,kids all beef pearl hot dog with toasted hot dog bun,29,g,30,mg,1310,g,53,g,15,g,7,g,0,g,4,g,4,g
+970,wahlburgers,kids chicken tenders,15,g,115,mg,580,g,29,g,40,g,1,g,0,g,3,g,0,g
+971,wahlburgers,kids chicken tenders with barbecue dipping sauce,15,g,115,mg,1010,g,40,g,40,g,1,g,0,g,3,g,9,g
+972,wahlburgers,kids chicken tenders with honey mustard dipping sauce,21,g,120,mg,780,g,39,g,40,g,2,g,0,g,3,g,8,g
+973,wahlburgers,kids chocolate ice cream,9,g,30,mg,45,g,14,g,2,g,6,g,0,g,1,g,14,g
+974,wahlburgers,kids grilled cheese,26,g,45,mg,1470,g,32,g,12,g,11,g,0,g,3,g,3,g
+975,wahlburgers,kids grilled cheese with bacon,33,g,60,mg,1730,g,33,g,15,g,14,g,0,g,3,g,3,g
+976,wahlburgers,kids grilled cheese with grilled gluten free white bread,39,g,45,mg,2000,g,67,g,18,g,12,g,0,g,5,g,6,g
+977,wahlburgers,kids grilled cheese with grilled white bread,37,g,45,mg,2180,g,90,g,24,g,12,g,0,g,5,g,11,g
+978,wahlburgers,kids mac n cheese,46,g,130,mg,1070,g,115,g,22,g,25,g,0,g,7,g,5,g
+979,wahlburgers,kids smahlburger,25,g,70,mg,1600,g,31,g,22,g,8,g,0,g,3,g,1,g
+980,wahlburgers,kids smahlburger with toasted bun,37,g,80,mg,2010,g,64,g,28,g,12,g,0,g,4,g,5,g
+981,wahlburgers,kids smahlburger with toasted gluten free bun,38,g,70,mg,2090,g,70,g,28,g,9,g,0,g,8,g,7,g
+982,wahlburgers,kids strawberry ice cream,8,g,30,mg,30,g,11,g,2,g,5,g,0,g,0,g,11,g
+983,wahlburgers,kids vanilla ice cream,10,g,35,mg,35,g,12,g,2,g,6,g,0,g,0,g,12,g
+984,wahlburgers,la marca prosecco,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+985,wahlburgers,mac n cheese,42,g,135,mg,610,g,93,g,21,g,25,g,0,g,4,g,6,g
+986,wahlburgers,mexican coke,0,g,0,mg,85,g,39,g,0,g,0,g,0,g,0,g,39,g
+987,wahlburgers,mexican fanta orange,0,g,0,mg,90,g,42,g,0,g,0,g,0,g,0,g,42,g
+988,wahlburgers,mexican sprite,0,g,0,mg,105,g,40,g,0,g,0,g,0,g,0,g,40,g
+989,wahlburgers,michelob ultra,0,g,0,mg,10,g,3,g,1,g,0,g,0,g,0,g,0,g
+990,wahlburgers,mild buffalo boneless wings,43,g,215,mg,1570,g,10,g,57,g,16,g,0,g,2,g,9,g
+991,wahlburgers,miller lite,0,g,0,mg,5,g,3,g,0,g,0,g,0,g,0,g,0,g
+992,wahlburgers,miller 14 fl oz,0,g,0,mg,10,g,14,g,0,g,0,g,0,g,0,g,0,g
+993,wahlburgers,miller 16 fl oz,0,g,0,mg,15,g,16,g,0,g,0,g,0,g,0,g,0,g
+994,wahlburgers,miller 20 fl oz,0,g,0,mg,15,g,20,g,0,g,0,g,0,g,0,g,0,g
+995,wahlburgers,miller 21 fl oz,0,g,0,mg,20,g,21,g,0,g,0,g,0,g,0,g,0,g
+996,wahlburgers,miller 32 fl oz,0,g,0,mg,25,g,33,g,0,g,0,g,0,g,0,g,0,g
+997,wahlburgers,mocha frappe,43,g,170,mg,300,g,79,g,15,g,28,g,0,g,2,g,71,g
+998,wahlburgers,mocha frappe with malt powder,45,g,175,mg,440,g,99,g,18,g,29,g,0,g,2,g,85,g
+999,wahlburgers,moms sloppy joe,38,g,100,mg,860,g,21,g,18,g,15,g,0,g,1,g,11,g

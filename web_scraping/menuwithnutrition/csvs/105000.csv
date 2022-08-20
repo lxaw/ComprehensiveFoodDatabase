@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,mellow mushroom,thai dye pie pizza large,13,g,30,mg,940,g,54,g,20,g,6,g,0,g,2,g,11,g
+1,mellow mushroom,philosophers pie pizza small,15,g,35,mg,720,g,34,g,18,g,6,g,0,g,1,g,3,g
+2,mellow mushroom,maui wowie pizza medium,21,g,45,mg,1030,g,47,g,23,g,8,g,0,g,1,g,8,g
+3,mellow mushroom,house special pizza medium,18,g,35,mg,1150,g,45,g,28,g,7,g,0,g,0.5,g,5,g
+4,mellow mushroom,chicken and cheese calzone,42,g,165,mg,3120,g,152,g,84,g,20,g,0,g,9,g,15,g
+5,mellow mushroom,mellowterranean pizza medium,16,g,45,mg,910,g,44,g,21,g,7,g,0,g,1,g,5,g
+6,mellow mushroom,pacific rim pizza large,15,g,25,mg,1250,g,50,g,24,g,7,g,0,g,0,g,8,g
+7,mellow mushroom,mellowterranean pizza small,12,g,35,mg,730,g,35,g,16,g,5,g,0,g,1,g,4,g
+8,mellow mushroom,thai dye pie pizza medium,13,g,30,mg,860,g,49,g,20,g,5,g,0,g,2,g,10,g
+9,mellow mushroom,mega veggie pizza large,12,g,25,mg,1000,g,54,g,20,g,6,g,0,g,4,g,9,g
+10,mellow mushroom,magical mystery tour pizza small,15,g,20,mg,690,g,34,g,14,g,6,g,0,g,1,g,3,g
+11,mellow mushroom,mega veggie pizza medium,12,g,25,mg,960,g,50,g,19,g,6,g,0,g,4,g,9,g
+12,mellow mushroom,bayou bleu pizza large,14,g,60,mg,880,g,48,g,20,g,4.5,g,0,g,2,g,5,g
+13,mellow mushroom,funky q chicken pizza large,17,g,45,mg,1320,g,52,g,26,g,8,g,0,g,0,g,9,g
+14,mellow mushroom,philosophers pie pizza medium,19,g,45,mg,860,g,43,g,23,g,8,g,0,g,2,g,4,g
+15,mellow mushroom,red skin potato pie pizza large,28,g,50,mg,1100,g,53,g,23,g,11,g,0,g,2,g,6,g
+16,mellow mushroom,house calzone,37,g,70,mg,2730,g,151,g,57,g,20,g,0.5,g,11,g,22,g
+17,mellow mushroom,mellowterranean pizza large,16,g,40,mg,960,g,48,g,20,g,7,g,0,g,2,g,5,g
+18,mellow mushroom,red skin potato pie pizza small,20,g,35,mg,780,g,39,g,16,g,8,g,0,g,1,g,4,g
+19,mellow mushroom,magical mystery tour pizza medium,19,g,30,mg,860,g,44,g,18,g,8,g,0,g,2,g,4,g
+20,mellow mushroom,magical mystery tour pizza large,21,g,30,mg,940,g,48,g,19,g,8,g,0,g,2,g,5,g
+21,mellow mushroom,gourmet white pizza large,16,g,30,mg,870,g,50,g,19,g,7,g,0,g,2,g,7,g
+22,mellow mushroom,bayou bleu pizza medium,15,g,65,mg,860,g,45,g,20,g,5,g,0,g,1,g,5,g
+23,mellow mushroom,philosophers pie pizza large,20,g,45,mg,970,g,47,g,24,g,9,g,0,g,2,g,5,g
+24,mellow mushroom,bayou bleu pizza small,12,g,55,mg,710,g,36,g,17,g,4,g,0,g,0.5,g,3,g
+25,mellow mushroom,gourmet white pizza medium,15,g,25,mg,760,g,45,g,17,g,6,g,0,g,2,g,6,g
+26,mellow mushroom,esperanza salad dressing,8,g,5,mg,130,g,0.3,g,0,g,1.3,g,0,g,0,g,0,g
+27,mellow mushroom,balsamic vinaigrette salad dressing,4,g,0,mg,135,g,2.5,g,0,g,0.5,g,0,g,0,g,2,g
+28,mellow mushroom,herb vinaigrette salad dressing,7,g,5,mg,120,g,2,g,0,g,1,g,0,g,0,g,1.5,g
+29,mellow mushroom,ranch salad dressing,7,g,5,mg,100,g,1,g,0.3,g,1,g,0,g,0,g,0,g
+30,mellow mushroom,caesar salad dressing,8.5,g,5,mg,135,g,0.3,g,0.5,g,1.5,g,0,g,0,g,0,g
+31,mellow mushroom,lite ranch salad dressing,8,g,5,mg,250,g,3,g,1,g,2,g,0,g,0,g,0,g
+32,mellow mushroom,blue cheese salad dressing,6.5,g,8,mg,130,g,1,g,1,g,1.5,g,0,g,0,g,0.3,g
+33,mellow mushroom,spicy blue cheese salad dressing,6,g,5,mg,300,g,1.5,g,1,g,1.3,g,0,g,0,g,0.3,g
+34,mellow mushroom,spicy ranch salad dressing,7,g,5,mg,105,g,1,g,0,g,1,g,0,g,0,g,0,g
+35,mellow mushroom,1000 island salad dressing,12,g,5,mg,270,g,4,g,0.5,g,2,g,0,g,0,g,2,g
+36,mellow mushroom,honey mustard salad dressing,0,g,0,mg,240,g,11,g,0,g,0,g,0,g,0,g,11,g
+37,mellow mushroom,greek salad regular without dressing,17,g,40,mg,1780,g,17,g,14,g,8,g,0,g,4,g,7,g
+38,mellow mushroom,enlightened spinach salad regular without dressing,38,g,40,mg,750,g,40,g,16,g,11,g,0,g,2,g,26,g
+39,mellow mushroom,caesar salad regular with caesar dressing,70,g,70,mg,1750,g,29,g,21,g,17,g,0,g,4,g,2,g
+40,mellow mushroom,caesar salad lil with caesar dressing,35,g,35,mg,880,g,15,g,11,g,9,g,0,g,2,g,1,g
+41,mellow mushroom,chefs salad regular without dressing,17,g,50,mg,1000,g,17,g,27,g,6,g,0,g,4,g,9,g
+42,mellow mushroom,greek salad lil without dressing,9,g,20,mg,960,g,9,g,7,g,4,g,0,g,2,g,4,g
+43,mellow mushroom,enlightened spinach salad lil without dressing,19,g,20,mg,370,g,20,g,8,g,6,g,0,g,0.5,g,13,g
+44,mellow mushroom,house salad lil without dressing,5,g,5,mg,280,g,7,g,4,g,1,g,0,g,2,g,2,g
+45,mellow mushroom,house salad regular without dressing,11,g,10,mg,550,g,13,g,8,g,2,g,0,g,5,g,4,g
+46,mellow mushroom,chefs salad lil without dressing,10,g,25,mg,560,g,9,g,14,g,3.5,g,0,g,2,g,5,g
+47,mellow mushroom,avocado hoagie,50,g,45,mg,1370,g,91,g,27,g,13,g,0,g,11,g,10,g
+48,mellow mushroom,meatball hoagie,27,g,95,mg,1800,g,85,g,49,g,13,g,0,g,6,g,7,g
+49,mellow mushroom,steak and cheese hoagie,59,g,120,mg,1470,g,91,g,59,g,18,g,0,g,10,g,11,g
+50,mellow mushroom,tempeh hoagie,68,g,45,mg,2670,g,109,g,34,g,15,g,0,g,10,g,23,g
+51,mellow mushroom,italian hoagie,72,g,165,mg,2950,g,91,g,57,g,20,g,0,g,9,g,13,g
+52,mellow mushroom,chicken and cheese hoagie,46,g,175,mg,2010,g,93,g,61,g,10,g,0,g,11,g,13,g
+53,mellow mushroom,tofu hoagie,49,g,45,mg,1370,g,92,g,36,g,12,g,0,g,10,g,11,g
+54,mellow mushroom,mushroom club hoagie,74,g,145,mg,3280,g,96,g,68,g,22,g,0,g,9,g,16,g
+55,mellow mushroom,the ritz buirger,87,g,225,mg,1570,g,57,g,55,g,34,g,3.5,g,2,g,11,g
+56,mellow mushroom,pitted cherries,0,g,0,mg,5,g,2,g,0,g,0,g,0,g,0,g,2,g
+57,mellow mushroom,1 chocolate milk,2.5,g,10,mg,220,g,30,g,8,g,1.5,g,0,g,0,g,29,g
+58,mellow mushroom,2 milk,5,g,20,mg,135,g,13,g,8,g,3,g,0,g,0,g,12,g
+59,mellow mushroom,anchovies,2.5,g,20,mg,920,g,0,g,7,g,0.5,g,0,g,0,g,0,g
+60,mellow mushroom,anchovies large slice,1,g,10,mg,370,g,0,g,3,g,0,g,0,g,0,g,0,g
+61,mellow mushroom,anchovies medium slice,1,g,10,mg,370,g,0,g,3,g,0,g,0,g,0,g,0,g
+62,mellow mushroom,anchovies small slice,1,g,10,mg,370,g,0,g,3,g,0,g,0,g,0,g,0,g
+63,mellow mushroom,applewood smoked bacon,25,g,60,mg,1110,g,2,g,20,g,10,g,0,g,0,g,2,g
+64,mellow mushroom,applewood smoked bacon gluten free slice,1.5,g,0,mg,65,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+65,mellow mushroom,applewood smoked bacon large slice,4.5,g,10,mg,210,g,0,g,4,g,2,g,0,g,0,g,0,g
+66,mellow mushroom,applewood smoked bacon medium slice,4,g,10,mg,180,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+67,mellow mushroom,applewood smoked bacon small slice,3,g,0,mg,140,g,0,g,2,g,1,g,0,g,0,g,0,g
+68,mellow mushroom,artichoke hearts,0,g,0,mg,115,g,1,g,0,g,0,g,0,g,0,g,0,g
+69,mellow mushroom,artichoke hearts large slice,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+70,mellow mushroom,artichoke hearts medium slice,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+71,mellow mushroom,artichoke hearts small slice,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+72,mellow mushroom,avocado,2,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,0,g
+73,mellow mushroom,avocado gluten free slice,5,g,0,mg,0,g,3,g,1,g,0.5,g,0,g,2,g,0,g
+74,mellow mushroom,avocado large slice,1.5,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,0,g
+75,mellow mushroom,avocado medium slice,1.5,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,0,g
+76,mellow mushroom,avocado small slice,1,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+77,mellow mushroom,avocado hoagie half,25,g,25,mg,680,g,48,g,13,g,6,g,0,g,5,g,5,g
+78,mellow mushroom,avocado hoagie whole,49,g,45,mg,1350,g,96,g,27,g,12,g,0,g,10,g,10,g
+79,mellow mushroom,avocado smash,49,g,65,mg,1210,g,81,g,17,g,16,g,0,g,11,g,11,g
+80,mellow mushroom,backyard bbq large slice,19,g,55,mg,1410,g,56,g,24,g,7,g,0,g,2,g,12,g
+81,mellow mushroom,backyard bbq medium slice,17,g,45,mg,1270,g,54,g,22,g,6,g,0,g,2,g,12,g
+82,mellow mushroom,backyard bbq small slice,15,g,35,mg,1040,g,44,g,17,g,4.5,g,0,g,1,g,9,g
+83,mellow mushroom,bacon bleu wedge salad,47,g,80,mg,1400,g,18,g,18,g,15,g,0,g,4,g,4,g
+84,mellow mushroom,baked pizza crust large,2,g,0,mg,580,g,42,g,9,g,0,g,0,g,2,g,2,g
+85,mellow mushroom,baked pizza crust medium,2,g,0,mg,520,g,41,g,8,g,0,g,0,g,2,g,3,g
+86,mellow mushroom,baked pizza crust small,2,g,0,mg,470,g,34,g,7,g,0,g,0,g,1,g,2,g
+87,mellow mushroom,baked pizza thin crust large,1.5,g,0,mg,460,g,34,g,7,g,0,g,0,g,2,g,2,g
+88,mellow mushroom,baked pizza thin crust medium,1.5,g,0,mg,430,g,31,g,6,g,0,g,0,g,2,g,2,g
+89,mellow mushroom,baked pizza thin crust small,1.5,g,0,mg,380,g,27,g,6,g,0,g,0,g,1,g,2,g
+90,mellow mushroom,balsamic vinaigrette salad dressing,8,g,0,mg,260,g,5,g,0,g,1,g,0,g,0,g,4,g
+91,mellow mushroom,banana peppers,0.5,g,0,mg,90,g,0,g,0,g,0,g,0,g,0,g,0,g
+92,mellow mushroom,banana peppers large slice,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+93,mellow mushroom,banana peppers medium slice,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+94,mellow mushroom,banana peppers small slice,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+95,mellow mushroom,barbeque large slice,0.5,g,0,mg,200,g,7,g,0,g,0,g,0,g,0,g,5,g
+96,mellow mushroom,barbeque medium slice,0.5,g,0,mg,180,g,6,g,0,g,0,g,0,g,0,g,5,g
+97,mellow mushroom,barbeque small slice,0,g,0,mg,130,g,5,g,0,g,0,g,0,g,0,g,4,g
+98,mellow mushroom,barbeque sauce,0.5,g,0,mg,260,g,10,g,0,g,0,g,0,g,0,g,7,g
+99,mellow mushroom,barqs root beer,0,g,0,mg,90,g,72,g,0,g,0,g,0,g,0,g,72,g
+100,mellow mushroom,bbq chicken,2,g,55,mg,420,g,2,g,16,g,0,g,0,g,0,g,2,g
+101,mellow mushroom,bbq chicken large slice,0,g,15,mg,95,g,1,g,5,g,0,g,0,g,0,g,0,g
+102,mellow mushroom,bbq chicken medium slice,0.5,g,20,mg,125,g,1,g,6,g,0,g,0,g,0,g,1,g
+103,mellow mushroom,bbq chicken small slice,0,g,15,mg,95,g,1,g,5,g,0,g,0,g,0,g,0,g
+104,mellow mushroom,bbq tofu,2.5,g,0,mg,50,g,3,g,5,g,0,g,0,g,0,g,1,g
+105,mellow mushroom,bbq tofu large slice,0,g,0,mg,10,g,1,g,1,g,0,g,0,g,0,g,0,g
+106,mellow mushroom,bbq tofu medium slice,0,g,0,mg,10,g,1,g,1,g,0,g,0,g,0,g,0,g
+107,mellow mushroom,bbq tofu small slice,0,g,0,mg,5,g,0,g,1,g,0,g,0,g,0,g,0,g
+108,mellow mushroom,bbq wings large tray catering,12,g,95,mg,860,g,12,g,18,g,3.5,g,0,g,0,g,8,g
+109,mellow mushroom,bbq wings small tray catering,10,g,85,mg,770,g,11,g,16,g,3,g,0,g,0,g,7,g
+110,mellow mushroom,black olives,4.5,g,0,mg,220,g,2,g,0,g,0,g,0,g,0,g,0,g
+111,mellow mushroom,black olives gluten free slice,1,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+112,mellow mushroom,black olives large slice,1.5,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+113,mellow mushroom,black olives medium slice,1.5,g,0,mg,75,g,0,g,0,g,0,g,0,g,0,g,0,g
+114,mellow mushroom,black olives small slice,1,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+115,mellow mushroom,black truffle oil,2.5,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+116,mellow mushroom,black truffle oil gluten free slice,0.5,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+117,mellow mushroom,black truffle oil large slice,0.5,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+118,mellow mushroom,black truffle oil medium slice,0.5,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+119,mellow mushroom,black truffle oil small slice,0.5,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+120,mellow mushroom,blue cheese,6,g,20,mg,260,g,1,g,4,g,4,g,0,g,0,g,1,g
+121,mellow mushroom,blue cheese large slice,2,g,5,mg,80,g,0,g,1,g,1.5,g,0,g,0,g,0,g
+122,mellow mushroom,blue cheese medium slice,2,g,5,mg,80,g,0,g,1,g,1.5,g,0,g,0,g,0,g
+123,mellow mushroom,blue cheese small slice,1.5,g,5,mg,65,g,0,g,1,g,1,g,0,g,0,g,0,g
+124,mellow mushroom,blue cheese salad dressing,13,g,15,mg,260,g,2,g,2,g,3,g,0,g,1,g,1,g
+125,mellow mushroom,blue cheese swirl,13,g,15,mg,260,g,2,g,2,g,3,g,0,g,0,g,0,g
+126,mellow mushroom,blue cheese swirl large slice,10,g,10,mg,190,g,1,g,1,g,2,g,0,g,0,g,0,g
+127,mellow mushroom,blue cheese swirl medium slice,9,g,10,mg,170,g,1,g,1,g,2,g,0,g,0,g,0,g
+128,mellow mushroom,blue cheese swirl small slice,7,g,5,mg,130,g,0,g,0,g,1.5,g,0,g,0,g,0,g
+129,mellow mushroom,bread french half,1.5,g,0,mg,360,g,38,g,7,g,0.5,g,0,g,3,g,2,g
+130,mellow mushroom,bread french whole,3,g,0,mg,720,g,76,g,14,g,1,g,0,g,6,g,4,g
+131,mellow mushroom,bread multi grain half,3.5,g,0,mg,500,g,37,g,7,g,1,g,0,g,3,g,3,g
+132,mellow mushroom,bread multi grain whole,5,g,0,mg,1000,g,74,g,14,g,2,g,0,g,6,g,6,g
+133,mellow mushroom,bruschetta,24,g,35,mg,910,g,24,g,10,g,9,g,0,g,3,g,16,g
+134,mellow mushroom,bruschetta large tray catering,14,g,20,mg,500,g,24,g,7,g,6,g,0,g,3,g,3,g
+135,mellow mushroom,bruschetta small tray catering,11,g,20,mg,420,g,22,g,6,g,5,g,0,g,2,g,3,g
+136,mellow mushroom,bruschetta tomato topping,13,g,0,mg,340,g,9,g,2,g,2,g,0,g,3,g,6,g
+137,mellow mushroom,buffalo chicken,3.5,g,65,mg,500,g,1,g,19,g,1,g,0,g,0,g,0,g
+138,mellow mushroom,buffalo chicken large slice,1,g,15,mg,125,g,0,g,5,g,0,g,0,g,0,g,0,g
+139,mellow mushroom,buffalo chicken medium slice,1,g,20,mg,170,g,0,g,6,g,0,g,0,g,0,g,0,g
+140,mellow mushroom,buffalo chicken small slice,1,g,15,mg,125,g,0,g,5,g,0,g,0,g,0,g,0,g
+141,mellow mushroom,buffalo chicken large slice,34,g,60,mg,1630,g,48,g,28,g,9,g,0,g,2,g,3,g
+142,mellow mushroom,buffalo chicken medium slice,31,g,60,mg,1510,g,46,g,26,g,8,g,0,g,2,g,4,g
+143,mellow mushroom,buffalo chicken small slice,26,g,35,mg,1220,g,38,g,19,g,6,g,0,g,1,g,2,g
+144,mellow mushroom,buffalo hot sauce swirl,8,g,0,mg,880,g,4,g,1,g,1.5,g,0,g,0,g,0,g
+145,mellow mushroom,buffalo hot sauce swirl large slice,3,g,0,mg,330,g,2,g,0,g,0.5,g,0,g,0,g,0,g
+146,mellow mushroom,buffalo hot sauce swirl medium slice,2.5,g,0,mg,290,g,1,g,0,g,0,g,0,g,0,g,0,g
+147,mellow mushroom,buffalo hot sauce swirl small slice,2,g,0,mg,220,g,1,g,0,g,0,g,0,g,0,g,0,g
+148,mellow mushroom,butter and garlic,10,g,25,mg,80,g,0,g,0,g,6,g,0,g,0,g,0,g
+149,mellow mushroom,butter and garlic large slice,5,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+150,mellow mushroom,butter and garlic medium slice,5,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+151,mellow mushroom,butter and garlic small slice,5,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+152,mellow mushroom,caesar salad lil,38,g,50,mg,920,g,10,g,15,g,12,g,0,g,2,g,3,g
+153,mellow mushroom,caesar salad regular,76,g,100,mg,1840,g,19,g,30,g,24,g,0,g,4,g,5,g
+154,mellow mushroom,caesar salad dressing,17,g,10,mg,270,g,1,g,1,g,3,g,0,g,0,g,1,g
+155,mellow mushroom,california club catering,35,g,115,mg,1280,g,55,g,38,g,14,g,0,g,8,g,4,g
+156,mellow mushroom,caprese sandwich catering,47,g,95,mg,1810,g,83,g,39,g,20,g,0,g,8,g,7,g
+157,mellow mushroom,caramelized onions,0,g,0,mg,0,g,5,g,1,g,0,g,0,g,1,g,2,g
+158,mellow mushroom,caramelized onions large slice,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+159,mellow mushroom,caramelized onions medium slice,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+160,mellow mushroom,caramelized onions small slice,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+161,mellow mushroom,caramelized pecans,13,g,0,mg,0,g,8,g,2,g,1.5,g,0,g,0,g,5,g
+162,mellow mushroom,cheese calzone,41,g,110,mg,2690,g,143,g,58,g,25,g,0,g,6,g,6,g
+163,mellow mushroom,cheese gluten free slice,4.5,g,10,mg,300,g,16,g,5,g,2,g,0,g,1,g,1,g
+164,mellow mushroom,cheese large slice,15,g,25,mg,850,g,46,g,19,g,5,g,0,g,2,g,3,g
+165,mellow mushroom,cheese medium slice,14,g,20,mg,760,g,45,g,17,g,4.5,g,0,g,2,g,4,g
+166,mellow mushroom,cheese small slice,13,g,15,mg,670,g,38,g,13,g,3,g,0,g,1,g,3,g
+167,mellow mushroom,chefs salad lil,10,g,30,mg,520,g,10,g,14,g,4,g,0,g,1,g,4,g
+168,mellow mushroom,chefs salad regular,18,g,60,mg,930,g,19,g,27,g,8,g,0,g,3,g,7,g
+169,mellow mushroom,cherry coke,0,g,0,mg,55,g,58,g,0,g,0,g,0,g,0,g,58,g
+170,mellow mushroom,chicken,2,g,70,mg,380,g,0,g,18,g,0,g,0,g,0,g,0,g
+171,mellow mushroom,chicken and cheese hoagie half,25,g,95,mg,1200,g,49,g,32,g,6,g,0,g,4,g,7,g
+172,mellow mushroom,chicken and cheese hoagie whole,49,g,185,mg,2390,g,98,g,64,g,12,g,0,g,7,g,13,g
+173,mellow mushroom,chicken and cheese calzone,43,g,180,mg,3030,g,151,g,81,g,25,g,0,g,8,g,10,g
+174,mellow mushroom,chicken caesar salad large tray catering,34,g,75,mg,1140,g,27,g,23,g,11,g,0,g,3,g,4,g
+175,mellow mushroom,chicken caesar salad small tray catering,27,g,70,mg,970,g,23,g,22,g,9,g,0,g,3,g,3,g
+176,mellow mushroom,chicken caesar wrap catering,60,g,200,mg,2690,g,43,g,70,g,17,g,0,g,6,g,6,g
+177,mellow mushroom,chicken menu large slice,0,g,15,mg,85,g,0,g,5,g,0,g,0,g,0,g,0,g
+178,mellow mushroom,chicken menu medium slice,0.5,g,25,mg,115,g,0,g,7,g,0,g,0,g,0,g,0,g
+179,mellow mushroom,chicken menu small slice,0,g,15,mg,85,g,0,g,5,g,0,g,0,g,0,g,0,g
+180,mellow mushroom,chilled out pasta salad large tray catering,33,g,25,mg,750,g,75,g,14,g,10,g,0,g,4,g,9,g
+181,mellow mushroom,chives gluten free slice,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+182,mellow mushroom,chocolate chunk cookie sundae,53,g,105,mg,620,g,120,g,10,g,28,g,0,g,0,g,83,g
+183,mellow mushroom,chocolate chunk house baked cookies,29,g,40,mg,530,g,83,g,6,g,12,g,0,g,3,g,49,g
+184,mellow mushroom,coca cola,0,g,0,mg,55,g,55,g,0,g,0,g,0,g,0,g,55,g
+185,mellow mushroom,coke zero,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+186,mellow mushroom,coke zero with cherry,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+187,mellow mushroom,country club catering,26,g,95,mg,1520,g,70,g,44,g,8,g,0,g,7,g,13,g
+188,mellow mushroom,croutons,6,g,10,mg,270,g,10,g,3,g,2.5,g,0,g,0,g,0,g
+189,mellow mushroom,crumbled italian sausage,2.5,g,40,mg,500,g,0,g,17,g,0,g,0,g,0,g,0,g
+190,mellow mushroom,crumbled italian sausage gluten free slice,0,g,5,mg,45,g,0,g,2,g,0,g,0,g,0,g,0,g
+191,mellow mushroom,crumbled italian sausage large slice,0,g,5,mg,55,g,0,g,2,g,0,g,0,g,0,g,0,g
+192,mellow mushroom,crumbled italian sausage medium slice,0,g,5,mg,55,g,0,g,2,g,0,g,0,g,0,g,0,g
+193,mellow mushroom,crumbled italian sausage small slice,0,g,5,mg,45,g,0,g,2,g,0,g,0,g,0,g,0,g
+194,mellow mushroom,cucumbers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+195,mellow mushroom,cucumbers gluten free slice,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+196,mellow mushroom,cucumbers large slice,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+197,mellow mushroom,cucumbers medium slice,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+198,mellow mushroom,cucumbers small slice,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+199,mellow mushroom,curry chicken,2,g,65,mg,330,g,1,g,19,g,0,g,0,g,0,g,0,g
+200,mellow mushroom,curry chicken gluten free slice,0.5,g,15,mg,80,g,0,g,5,g,0,g,0,g,0,g,0,g
+201,mellow mushroom,curry chicken large slice,0.5,g,15,mg,80,g,0,g,5,g,0,g,0,g,0,g,0,g
+202,mellow mushroom,curry chicken medium slice,0.5,g,20,mg,110,g,0,g,6,g,0,g,0,g,0,g,0,g
+203,mellow mushroom,curry chicken small slice,0.5,g,15,mg,80,g,0,g,5,g,0,g,0,g,0,g,0,g
+204,mellow mushroom,diet coke,0,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+205,mellow mushroom,dried cherries,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,5,g
+206,mellow mushroom,enlightened spinach salad lil,19,g,20,mg,370,g,20,g,8,g,6,g,0,g,1,g,13,g
+207,mellow mushroom,enlightened spinach salad regular,38,g,40,mg,750,g,40,g,16,g,11,g,0,g,2,g,26,g
+208,mellow mushroom,enlightened spinach salad large tray catering,24,g,15,mg,620,g,32,g,7,g,6,g,0,g,5,g,14,g
+209,mellow mushroom,enlightened spinach salad small tray catering,20,g,15,mg,530,g,29,g,7,g,5,g,0,g,4,g,12,g
+210,mellow mushroom,esperanza salad dressing,16,g,10,mg,260,g,1,g,1,g,2,g,0,g,0,g,0,g
+211,mellow mushroom,fanta fruit punch,0,g,0,mg,80,g,57,g,0,g,0,g,0,g,0,g,57,g
+212,mellow mushroom,fanta orange,0,g,0,mg,55,g,56,g,0,g,0,g,0,g,0,g,55,g
+213,mellow mushroom,feta,6,g,20,mg,340,g,1,g,5,g,4,g,0,g,0,g,0,g
+214,mellow mushroom,feta gluten free slice,1,g,5,mg,55,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+215,mellow mushroom,feta large slice,2,g,5,mg,105,g,0,g,2,g,1,g,0,g,0,g,0,g
+216,mellow mushroom,feta medium slice,2,g,5,mg,110,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+217,mellow mushroom,feta small slice,1.5,g,5,mg,85,g,0,g,1,g,1,g,0,g,0,g,0,g
+218,mellow mushroom,fresh basil,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+219,mellow mushroom,fresh basil gluten free slice,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+220,mellow mushroom,fresh basil large slice,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+221,mellow mushroom,fresh basil medium slice,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+222,mellow mushroom,fresh basil small slice,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+223,mellow mushroom,fresh mozzarella,6,g,20,mg,100,g,0,g,5,g,3.5,g,0,g,0,g,0,g
+224,mellow mushroom,fresh mozzarella gluten free slice,1,g,5,mg,15,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+225,mellow mushroom,fresh mozzarella large slice,1.5,g,5,mg,25,g,0,g,1,g,1,g,0,g,0,g,0,g
+226,mellow mushroom,fresh mozzarella medium slice,1.5,g,5,mg,25,g,0,g,1,g,1,g,0,g,0,g,0,g
+227,mellow mushroom,fresh mozzarella small slice,1.5,g,5,mg,25,g,0,g,1,g,1,g,0,g,0,g,0,g
+228,mellow mushroom,funky q chicken large slice,21,g,60,mg,1320,g,53,g,28,g,8,g,0,g,2,g,8,g
+229,mellow mushroom,funky q chicken medium slice,20,g,55,mg,1210,g,51,g,26,g,7,g,0,g,2,g,10,g
+230,mellow mushroom,funky q chicken small slice,16,g,40,mg,1010,g,43,g,21,g,6,g,0,g,1,g,6,g
+231,mellow mushroom,garlic,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,0,g
+232,mellow mushroom,garlic large slice,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+233,mellow mushroom,garlic aioli,22,g,10,mg,190,g,0,g,0,g,3,g,0,g,0,g,0,g
+234,mellow mushroom,garlic aioli large slice,7,g,5,mg,55,g,0,g,0,g,1,g,0,g,0,g,0,g
+235,mellow mushroom,garlic aioli medium slice,7,g,5,mg,65,g,0,g,0,g,1,g,0,g,0,g,0,g
+236,mellow mushroom,garlic aioli small slice,5,g,0,mg,50,g,0,g,0,g,1,g,0,g,0,g,0,g
+237,mellow mushroom,garlic cheese bread,42,g,115,mg,1400,g,83,g,37,g,26,g,1,g,6,g,4,g
+238,mellow mushroom,gluten free brownie,19,g,0,mg,150,g,43,g,4,g,10,g,0,g,3,g,31,g
+239,mellow mushroom,gluten free crust,1,g,0,mg,130,g,13,g,0,g,0,g,0,g,0,g,0,g
+240,mellow mushroom,great white gluten free slice,9,g,20,mg,320,g,16,g,6,g,3.5,g,0,g,0,g,0,g
+241,mellow mushroom,great white large slice,31,g,50,mg,1070,g,50,g,25,g,11,g,0,g,3,g,3,g
+242,mellow mushroom,great white medium slice,28,g,45,mg,960,g,47,g,21,g,10,g,0,g,3,g,4,g
+243,mellow mushroom,great white small slice,22,g,30,mg,800,g,40,g,17,g,7,g,0,g,1,g,3,g
+244,mellow mushroom,greek salad lil,8,g,20,mg,960,g,10,g,7,g,4,g,0,g,2,g,4,g
+245,mellow mushroom,greek salad regular,17,g,40,mg,1770,g,20,g,14,g,8,g,0,g,3,g,7,g
+246,mellow mushroom,greek salad large tray catering,28,g,35,mg,1290,g,24,g,9,g,7,g,0,g,4,g,5,g
+247,mellow mushroom,greek salad small tray catering,24,g,30,mg,1240,g,22,g,8,g,7,g,0,g,3,g,5,g
+248,mellow mushroom,green olives,4.5,g,0,mg,460,g,2,g,0,g,0,g,0,g,0,g,0,g
+249,mellow mushroom,green olives gluten free slice,0.5,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+250,mellow mushroom,green olives large slice,1,g,0,mg,90,g,0,g,0,g,0,g,0,g,0,g,0,g
+251,mellow mushroom,green olives medium slice,1,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+252,mellow mushroom,green olives small slice,0.5,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+253,mellow mushroom,green peppers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+254,mellow mushroom,green peppers large slice,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+255,mellow mushroom,green peppers medium slice,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+256,mellow mushroom,grilled portobello,3,g,5,mg,20,g,1,g,1,g,2,g,0,g,0,g,0,g
+257,mellow mushroom,grilled portobello large slice,1,g,0,mg,0,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+258,mellow mushroom,grilled portobello medium slice,1,g,0,mg,0,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+259,mellow mushroom,grilled portobello small slice,1,g,0,mg,0,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+260,mellow mushroom,ground beef,17,g,60,mg,55,g,1,g,14,g,6,g,1,g,0,g,0,g
+261,mellow mushroom,ground beef gluten free slice,1.5,g,5,mg,0,g,0,g,1,g,0,g,0,g,0,g,0,g
+262,mellow mushroom,ground beef large slice,1.5,g,5,mg,5,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+263,mellow mushroom,ground beef medium slice,2,g,5,mg,5,g,0,g,2,g,0.5,g,0,g,0,g,0,g
+264,mellow mushroom,ground beef small slice,1.5,g,5,mg,5,g,0,g,1,g,0,g,0,g,0,g,0,g
+265,mellow mushroom,half baked brownie supreme,48,g,150,mg,330,g,83,g,9,g,26,g,0,g,3,g,64,g
+266,mellow mushroom,ham,1.5,g,20,mg,400,g,2,g,10,g,0,g,0,g,0,g,2,g
+267,mellow mushroom,ham gluten free slice,0,g,5,mg,50,g,0,g,1,g,0,g,0,g,0,g,0,g
+268,mellow mushroom,ham large slice,0,g,5,mg,60,g,0,g,2,g,0,g,0,g,0,g,0,g
+269,mellow mushroom,ham medium slice,0,g,5,mg,65,g,0,g,2,g,0,g,0,g,0,g,0,g
+270,mellow mushroom,ham small slice,0,g,5,mg,50,g,0,g,1,g,0,g,0,g,0,g,0,g
+271,mellow mushroom,havana hoagie half,32,g,135,mg,1780,g,43,g,49,g,17,g,0,g,3,g,6,g
+272,mellow mushroom,havana hoagie whole,64,g,270,mg,3560,g,86,g,98,g,33,g,0,g,6,g,12,g
+273,mellow mushroom,herb vinaigrette chicken,5,g,65,mg,370,g,0,g,19,g,1,g,0,g,0,g,0,g
+274,mellow mushroom,herb vinaigrette chicken large slice,1,g,15,mg,90,g,0,g,5,g,0,g,0,g,0,g,0,g
+275,mellow mushroom,herb vinaigrette chicken medium slice,1.5,g,20,mg,120,g,0,g,6,g,0,g,0,g,0,g,0,g
+276,mellow mushroom,herb vinaigrette chicken small slice,1,g,15,mg,90,g,0,g,5,g,0,g,0,g,0,g,0,g
+277,mellow mushroom,herb vinaigrette salad dressing,14,g,10,mg,240,g,4,g,0,g,2,g,0,g,0,g,3,g
+278,mellow mushroom,hi c fruit punch,0,g,0,mg,100,g,59,g,0,g,0,g,0,g,0,g,57,g
+279,mellow mushroom,hi c lemon,0,g,0,mg,135,g,49,g,0,g,0,g,0,g,0,g,49,g
+280,mellow mushroom,holy shiitake pie large slice,34,g,45,mg,960,g,47,g,23,g,9,g,0,g,2,g,3,g
+281,mellow mushroom,holy shiitake pie medium slice,32,g,40,mg,890,g,45,g,19,g,8,g,0,g,2,g,4,g
+282,mellow mushroom,holy shiitake pie small slice,26,g,25,mg,760,g,37,g,15,g,6,g,0,g,1,g,2,g
+283,mellow mushroom,hot wings large tray catering,11,g,95,mg,1050,g,9,g,18,g,3.5,g,0,g,0,g,1,g
+284,mellow mushroom,hot wings small tray catering,10,g,85,mg,950,g,8,g,16,g,3,g,0,g,0,g,1,g
+285,mellow mushroom,house salad lil,5,g,5,mg,270,g,7,g,4,g,1,g,0,g,2,g,1,g
+286,mellow mushroom,house salad regular,8,g,10,mg,420,g,12,g,8,g,2,g,0,g,3,g,3,g
+287,mellow mushroom,house special gluten free slice,9,g,20,mg,500,g,17,g,8,g,3,g,0,g,1,g,1,g
+288,mellow mushroom,house special large slice,25,g,55,mg,1310,g,48,g,28,g,8,g,0,g,2,g,4,g
+289,mellow mushroom,house special medium slice,24,g,50,mg,1180,g,47,g,26,g,7,g,0,g,2,g,5,g
+290,mellow mushroom,house special small slice,21,g,30,mg,1030,g,39,g,20,g,5,g,0,g,1,g,3,g
+291,mellow mushroom,hummus appetizer,30,g,0,mg,1300,g,117,g,26,g,1,g,0,g,10,g,9,g
+292,mellow mushroom,hummus dip,9,g,0,mg,270,g,10,g,4,g,0,g,0,g,2,g,2,g
+293,mellow mushroom,hummus three ways large tray catering,21,g,10,mg,760,g,47,g,12,g,3,g,0,g,5,g,6,g
+294,mellow mushroom,hummus three ways small tray catering,16,g,10,mg,570,g,35,g,9,g,2.5,g,0,g,4,g,5,g
+295,mellow mushroom,hummus with pita appetizer,30,g,0,mg,1300,g,117,g,26,g,1,g,0,g,10,g,9,g
+296,mellow mushroom,hummus with veggies appetizer,30,g,0,mg,1040,g,59,g,10,g,1,g,0,g,10,g,13,g
+297,mellow mushroom,hypnotic hummus plate,54,g,0,mg,1750,g,96,g,27,g,2,g,0,g,12,g,11,g
+298,mellow mushroom,iceberg lettuce,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+299,mellow mushroom,italian hoagie half,41,g,80,mg,1510,g,44,g,27,g,11,g,0,g,3,g,6,g
+300,mellow mushroom,italian hoagie whole,80,g,160,mg,3010,g,88,g,54,g,22,g,0,g,7,g,12,g
+301,mellow mushroom,jalapeno peppers,1.5,g,0,mg,450,g,1,g,0,g,0,g,0,g,0,g,0,g
+302,mellow mushroom,jalapeno peppers large slice,0,g,0,mg,140,g,0,g,0,g,0,g,0,g,0,g,0,g
+303,mellow mushroom,jalapeno peppers medium slice,0,g,0,mg,150,g,0,g,0,g,0,g,0,g,0,g,0,g
+304,mellow mushroom,jalapeno peppers small slice,0,g,0,mg,115,g,0,g,0,g,0,g,0,g,0,g,0,g
+305,mellow mushroom,jerk chicken,2,g,65,mg,810,g,1,g,19,g,0,g,0,g,0,g,0,g
+306,mellow mushroom,jerk chicken large slice,0,g,15,mg,200,g,0,g,5,g,0,g,0,g,0,g,0,g
+307,mellow mushroom,jerk chicken medium slice,0.5,g,20,mg,270,g,0,g,6,g,0,g,0,g,0,g,0,g
+308,mellow mushroom,jerk chicken small slice,0,g,15,mg,200,g,0,g,5,g,0,g,0,g,0,g,0,g
+309,mellow mushroom,jerk sauce,0,g,0,mg,75,g,0,g,0,g,0,g,0,g,0,g,1,g
+310,mellow mushroom,jerk sauce large slice,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+311,mellow mushroom,jerk sauce medium slice,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+312,mellow mushroom,jerk sauce small slice,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+313,mellow mushroom,jerk tofu,2.5,g,0,mg,420,g,1,g,5,g,0,g,0,g,0,g,0,g
+314,mellow mushroom,jerk tofu gluten free slice,0,g,0,mg,70,g,0,g,1,g,0,g,0,g,0,g,0,g
+315,mellow mushroom,jerk tofu large slice,0,g,0,mg,110,g,0,g,1,g,0,g,0,g,0,g,0,g
+316,mellow mushroom,jerk tofu medium slice,0,g,0,mg,70,g,0,g,1,g,0,g,0,g,0,g,0,g
+317,mellow mushroom,jerk tofu small slice,0,g,0,mg,110,g,0,g,1,g,0,g,0,g,0,g,0,g
+318,mellow mushroom,jerk wings large tray catering,11,g,95,mg,1380,g,4,g,18,g,3.5,g,0,g,0,g,1,g
+319,mellow mushroom,jerk wings small tray catering,10,g,85,mg,1250,g,3,g,16,g,3,g,0,g,0,g,1,g
+320,mellow mushroom,kalamata olives,4,g,0,mg,240,g,1,g,0,g,0,g,0,g,0,g,0,g
+321,mellow mushroom,kalamata olives gluten free slice,0.5,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+322,mellow mushroom,kalamata olives large slice,0.5,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+323,mellow mushroom,kalamata olives medium slice,0.5,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+324,mellow mushroom,kalamata olives small slice,0.5,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+325,mellow mushroom,kids apple,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,4,g,18,g
+326,mellow mushroom,kids french bread cheese pizza,13,g,30,mg,860,g,47,g,18,g,7,g,0,g,4,g,5,g
+327,mellow mushroom,kids french bread pepperoni pizza,19,g,45,mg,1110,g,47,g,22,g,9,g,0,g,4,g,5,g
+328,mellow mushroom,kids mac and cheese,13,g,35,mg,580,g,14,g,9,g,7,g,0,g,0,g,1,g
+329,mellow mushroom,kids meatball app,12,g,40,mg,750,g,11,g,11,g,5,g,0,g,2,g,4,g
+330,mellow mushroom,kids pretzel dippers,9,g,20,mg,740,g,48,g,12,g,5,g,0,g,2,g,4,g
+331,mellow mushroom,kosmic karma gluten free slice,7,g,15,mg,340,g,17,g,6,g,3,g,0,g,0,g,1,g
+332,mellow mushroom,kosmic karma large slice,22,g,30,mg,1000,g,49,g,21,g,7,g,0,g,3,g,3,g
+333,mellow mushroom,kosmic karma medium slice,22,g,25,mg,910,g,47,g,19,g,7,g,0,g,3,g,4,g
+334,mellow mushroom,kosmic karma small slice,19,g,20,mg,770,g,39,g,14,g,4.5,g,0,g,1,g,3,g
+335,mellow mushroom,lemonteazer,0,g,0,mg,20,g,41,g,0,g,0,g,0,g,0,g,4,g
+336,mellow mushroom,magic mushroom soup,24,g,65,mg,1040,g,15,g,18,g,13,g,0,g,5,g,3,g
+337,mellow mushroom,marinated tempeh,11,g,0,mg,650,g,9,g,3,g,1.5,g,0,g,0,g,6,g
+338,mellow mushroom,marinated tempeh large slice,4,g,0,mg,240,g,3,g,1,g,0.5,g,0,g,0,g,2,g
+339,mellow mushroom,marinated tempeh medium slice,3.5,g,0,mg,220,g,3,g,1,g,0,g,0,g,0,g,2,g
+340,mellow mushroom,marinated tempeh small slice,2.5,g,0,mg,160,g,2,g,1,g,0,g,0,g,0,g,1,g
+341,mellow mushroom,mary janes triple chocolate brownie,31,g,100,mg,270,g,64,g,5,g,15,g,0,g,3,g,46,g
+342,mellow mushroom,mayonnaise,20,g,10,mg,180,g,0,g,0,g,3,g,0,g,0,g,0,g
+343,mellow mushroom,meatball hoagie half,14,g,45,mg,910,g,46,g,22,g,8,g,0,g,4,g,4,g
+344,mellow mushroom,meatball hoagie whole,29,g,95,mg,1910,g,93,g,46,g,16,g,0,g,7,g,7,g
+345,mellow mushroom,meatball trio,24,g,85,mg,980,g,11,g,23,g,12,g,0,g,1,g,3,g
+346,mellow mushroom,meatballs,3,g,20,mg,180,g,2,g,4,g,1,g,0,g,0,g,0,g
+347,mellow mushroom,meatballs large slice,1.5,g,10,mg,80,g,0,g,2,g,0,g,0,g,0,g,0,g
+348,mellow mushroom,meatballs medium slice,1.5,g,10,mg,90,g,0,g,2,g,0,g,0,g,0,g,0,g
+349,mellow mushroom,meatballs small slice,1.5,g,10,mg,90,g,0,g,2,g,0,g,0,g,0,g,0,g
+350,mellow mushroom,mello yellow,0,g,0,mg,70,g,60,g,0,g,0,g,0,g,0,g,60,g
+351,mellow mushroom,mellow chick salad,28,g,70,mg,740,g,26,g,30,g,4,g,0,g,6,g,14,g
+352,mellow mushroom,mellow chicken salad sandwich catering,24,g,55,mg,1020,g,63,g,24,g,3,g,0,g,2,g,9,g
+353,mellow mushroom,mellow cobb salad lil,19,g,80,mg,830,g,9,g,26,g,4,g,0,g,6,g,4,g
+354,mellow mushroom,mellow cobb salad reg,41,g,170,mg,1790,g,19,g,54,g,10,g,0,g,13,g,8,g
+355,mellow mushroom,merry prankster large slice,27,g,60,mg,1110,g,45,g,27,g,7,g,0,g,2,g,2,g
+356,mellow mushroom,merry prankster medium slice,25,g,60,mg,1040,g,44,g,26,g,6,g,0,g,2,g,3,g
+357,mellow mushroom,merry prankster small slice,28,g,60,mg,1000,g,36,g,26,g,8,g,0,g,1,g,2,g
+358,mellow mushroom,mighty meaty gluten free slice,9,g,20,mg,490,g,16,g,9,g,3,g,0,g,1,g,1,g
+359,mellow mushroom,mighty meaty large slice,27,g,65,mg,1390,g,46,g,31,g,9,g,0,g,2,g,3,g
+360,mellow mushroom,mighty meaty medium slice,25,g,55,mg,1240,g,45,g,29,g,8,g,0,g,2,g,4,g
+361,mellow mushroom,mighty meaty small slice,21,g,35,mg,1050,g,38,g,22,g,5,g,0,g,1,g,3,g
+362,mellow mushroom,mild wings large tray catering,19,g,95,mg,1470,g,6,g,19,g,5,g,0,g,2,g,1,g
+363,mellow mushroom,mild wings small tray catering,17,g,85,mg,1320,g,5,g,17,g,4.5,g,0,g,2,g,1,g
+364,mellow mushroom,minutemaide lemonade,0,g,0,mg,135,g,52,g,0,g,0,g,0,g,0,g,52,g
+365,mellow mushroom,montamore cheese,20,g,60,mg,330,g,0,g,14,g,10,g,0,g,0,g,0,g
+366,mellow mushroom,montamore cheese large slice,4,g,10,mg,60,g,0,g,3,g,2,g,0,g,0,g,0,g
+367,mellow mushroom,montamore cheese medium slice,3.5,g,10,mg,55,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+368,mellow mushroom,montamore cheese small slice,2.5,g,5,mg,40,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+369,mellow mushroom,mozzarella,6,g,15,mg,160,g,2,g,7,g,4,g,0,g,0,g,0,g
+370,mellow mushroom,mozzarella gluten free slice,3,g,10,mg,80,g,1,g,4,g,2,g,0,g,0,g,0,g
+371,mellow mushroom,mozzarella large slice,7,g,25,mg,180,g,2,g,8,g,4.5,g,0,g,0,g,0,g
+372,mellow mushroom,mozzarella medium slice,6,g,20,mg,160,g,2,g,7,g,4,g,0,g,0,g,0,g
+373,mellow mushroom,mozzarella small slice,4.5,g,15,mg,120,g,2,g,5,g,3,g,0,g,0,g,0,g
+374,mellow mushroom,multigrain ciabatta catering,2.5,g,0,mg,310,g,39,g,7,g,0,g,0,g,3,g,2,g
+375,mellow mushroom,munchie pups appetizer,27,g,0,mg,2710,g,75,g,3,g,4,g,0,g,6,g,20,g
+376,mellow mushroom,munchie pups side,21,g,0,mg,1030,g,37,g,1,g,6,g,0,g,3,g,10,g
+377,mellow mushroom,mushroom club hoagie half,39,g,110,mg,1910,g,50,g,46,g,12,g,0,g,4,g,8,g
+378,mellow mushroom,mushroom club hoagie whole,77,g,215,mg,3820,g,101,g,93,g,24,g,0,g,8,g,15,g
+379,mellow mushroom,mushroom trio,4.5,g,5,mg,40,g,2,g,1,g,3,g,0,g,1,g,1,g
+380,mellow mushroom,mushroom trio large slice,2,g,0,mg,15,g,1,g,1,g,1,g,0,g,0,g,0,g
+381,mellow mushroom,mushroom trio medium slice,1.5,g,0,mg,15,g,1,g,0,g,1,g,0,g,0,g,0,g
+382,mellow mushroom,mushroom trio small slice,1,g,0,mg,10,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+383,mellow mushroom,mushrooms,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+384,mellow mushroom,naked wings large tray catering,11,g,95,mg,590,g,2,g,18,g,3.5,g,0,g,0,g,1,g
+385,mellow mushroom,naked wings small tray catering,10,g,85,mg,530,g,2,g,16,g,3,g,0,g,0,g,1,g
+386,mellow mushroom,new club sandwich,32,g,100,mg,1150,g,50,g,35,g,6,g,0,g,10,g,4,g
+387,mellow mushroom,oatmeal raisin cookie sundae,41,g,105,mg,470,g,112,g,11,g,22,g,0,g,4,g,60,g
+388,mellow mushroom,oatmeal raisin house baked cookies,17,g,40,mg,380,g,75,g,7,g,6,g,0,g,4,g,26,g
+389,mellow mushroom,olive oil,14,g,0,mg,0,g,0,g,0,g,2,g,0,g,0,g,0,g
+390,mellow mushroom,olive oil gluten free slice,3,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+391,mellow mushroom,olive oil large slice,4.5,g,0,mg,0,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+392,mellow mushroom,olive oil medium slice,4.5,g,0,mg,0,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+393,mellow mushroom,olive oil small slice,3.5,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+394,mellow mushroom,onions,0,g,0,mg,0,g,5,g,1,g,0,g,0,g,1,g,2,g
+395,mellow mushroom,onions gluten free slice,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+396,mellow mushroom,onions large slice,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+397,mellow mushroom,onions medium slice,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+398,mellow mushroom,onions small slice,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+399,mellow mushroom,pacific rim pizza large slice,15,g,40,mg,1250,g,50,g,24,g,7,g,0,g,2,g,7,g
+400,mellow mushroom,pacific rim pizza medium slice,13,g,35,mg,1140,g,49,g,21,g,6,g,0,g,2,g,8,g
+401,mellow mushroom,pacific rim pizza small slice,11,g,20,mg,980,g,40,g,16,g,4,g,0,g,1,g,5,g
+402,mellow mushroom,parmesan grated,4.5,g,15,mg,190,g,0,g,6,g,3,g,0,g,0,g,0,g
+403,mellow mushroom,parmesan grated gluten free slice,1,g,0,mg,45,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+404,mellow mushroom,parmesan grated large slice,1.5,g,5,mg,60,g,0,g,2,g,1,g,0,g,0,g,0,g
+405,mellow mushroom,parmesan grated medium slice,1.5,g,5,mg,65,g,0,g,2,g,1,g,0,g,0,g,0,g
+406,mellow mushroom,parmesan grated small slice,1,g,0,mg,45,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+407,mellow mushroom,parmesan shaved,7,g,20,mg,380,g,1,g,9,g,4,g,0,g,0,g,0,g
+408,mellow mushroom,parmesan shaved large slice,1,g,5,mg,50,g,0,g,1,g,0,g,0,g,0,g,0,g
+409,mellow mushroom,parmesan shaved medium slice,1,g,5,mg,50,g,0,g,1,g,0,g,0,g,0,g,0,g
+410,mellow mushroom,parmesan shaved small slice,1,g,5,mg,50,g,0,g,1,g,0,g,0,g,0,g,0,g
+411,mellow mushroom,peanut butter cookie made with reeses peanut butter cups,32,g,35,mg,580,g,65,g,10,g,9,g,0,g,0,g,39,g
+412,mellow mushroom,peanut butter cookie sundae,56,g,100,mg,670,g,102,g,14,g,25,g,0,g,0,g,73,g
+413,mellow mushroom,peanut butter house baked cookies,32,g,35,mg,580,g,65,g,10,g,9,g,0,g,3,g,39,g
+414,mellow mushroom,pepperoncini,0,g,0,mg,1110,g,4,g,0,g,0,g,0,g,0,g,0,g
+415,mellow mushroom,pepperoncini large slice,0,g,0,mg,210,g,0,g,0,g,0,g,0,g,0,g,0,g
+416,mellow mushroom,pepperoncini medium slice,0,g,0,mg,180,g,0,g,0,g,0,g,0,g,0,g,0,g
+417,mellow mushroom,pepperoncini small slice,0,g,0,mg,140,g,0,g,0,g,0,g,0,g,0,g,0,g
+418,mellow mushroom,pepperoni,9,g,20,mg,330,g,0,g,4,g,3.5,g,0,g,0,g,0,g
+419,mellow mushroom,pepperoni gluten free slice,3,g,5,mg,110,g,0,g,1,g,1,g,0,g,0,g,0,g
+420,mellow mushroom,pepperoni large slice,3,g,5,mg,110,g,0,g,1,g,1,g,0,g,0,g,0,g
+421,mellow mushroom,pepperoni medium slice,3,g,5,mg,110,g,0,g,1,g,1,g,0,g,0,g,0,g
+422,mellow mushroom,pepperoni small slice,3,g,5,mg,110,g,0,g,1,g,1,g,0,g,0,g,0,g
+423,mellow mushroom,pepperoni cheese bread,55,g,150,mg,1900,g,83,g,43,g,31,g,1,g,6,g,4,g
+424,mellow mushroom,pepperoni garlic cheese bread,55,g,150,mg,1900,g,83,g,43,g,31,g,1,g,6,g,4,g
+425,mellow mushroom,pesto,13,g,5,mg,105,g,2,g,2,g,2.5,g,0,g,0,g,0,g
+426,mellow mushroom,pesto gluten free slice,7,g,0,mg,50,g,1,g,1,g,1.5,g,0,g,0,g,0,g
+427,mellow mushroom,pesto large slice,10,g,5,mg,80,g,1,g,1,g,2,g,0,g,0,g,0,g
+428,mellow mushroom,pesto medium slice,9,g,5,mg,70,g,1,g,1,g,1.5,g,0,g,0,g,0,g
+429,mellow mushroom,pesto small slice,7,g,0,mg,50,g,1,g,1,g,1.5,g,0,g,0,g,0,g
+430,mellow mushroom,pesto chicken,4.5,g,65,mg,340,g,0,g,19,g,1,g,0,g,0,g,0,g
+431,mellow mushroom,pesto chicken large slice,1,g,15,mg,85,g,0,g,5,g,0,g,0,g,0,g,0,g
+432,mellow mushroom,pesto chicken medium slice,1.5,g,20,mg,115,g,0,g,6,g,0,g,0,g,0,g,0,g
+433,mellow mushroom,pesto chicken small slice,1,g,15,mg,85,g,0,g,5,g,0,g,0,g,0,g,0,g
+434,mellow mushroom,pesto mayo,20,g,10,mg,170,g,0,g,0,g,3,g,0,g,0,g,0,g
+435,mellow mushroom,pesto swirl,13,g,5,mg,105,g,2,g,2,g,2.5,g,0,g,0,g,0,g
+436,mellow mushroom,pesto swirl gluten free slice,3,g,0,mg,25,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+437,mellow mushroom,pesto swirl large slice,4,g,0,mg,35,g,0,g,0,g,1,g,0,g,0,g,0,g
+438,mellow mushroom,pesto swirl medium slice,4,g,0,mg,35,g,0,g,0,g,1,g,0,g,0,g,0,g
+439,mellow mushroom,pesto swirl small slice,3,g,0,mg,25,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+440,mellow mushroom,pibb xtra,0,g,0,mg,90,g,63,g,0,g,0,g,0,g,0,g,63,g
+441,mellow mushroom,pineapple,0,g,0,mg,0,g,21,g,0,g,0,g,0,g,0,g,20,g
+442,mellow mushroom,pineapple large slice,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,3,g
+443,mellow mushroom,pineapple medium slice,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,3,g
+444,mellow mushroom,pineapple small slice,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+445,mellow mushroom,pita,0,g,0,mg,310,g,45,g,8,g,0,g,0,g,2,g,2,g
+446,mellow mushroom,pitted cherries,0,g,0,mg,5,g,2,g,0,g,0,g,0,g,0,g,2,g
+447,mellow mushroom,pizzaiola burger,92,g,245,mg,2180,g,65,g,68,g,35,g,2.5,g,3,g,15,g
+448,mellow mushroom,powerade fruit punch,0,g,0,mg,160,g,30,g,0,g,0,g,0,g,0,g,29,g
+449,mellow mushroom,powerade mountain blast,0,g,0,mg,150,g,30,g,0,g,0,g,0,g,0,g,30,g
+450,mellow mushroom,pretzel bites,37,g,75,mg,2920,g,142,g,43,g,18,g,0,g,6,g,6,g
+451,mellow mushroom,pretzel bites large tray catering,10,g,20,mg,780,g,38,g,11,g,4.5,g,0,g,2,g,2,g
+452,mellow mushroom,pretzel bites small tray catering,7,g,15,mg,580,g,28,g,9,g,3.5,g,0,g,1,g,1,g
+453,mellow mushroom,pretzel butter and parm 3,5,g,5,mg,670,g,46,g,11,g,2,g,0,g,2,g,2,g
+454,mellow mushroom,pretzel butter and parm 3,38,g,70,mg,2910,g,142,g,44,g,18,g,0,g,6,g,6,g
+455,mellow mushroom,pretzel butter and parm 6,76,g,140,mg,5820,g,284,g,88,g,36,g,0,g,12,g,12,g
+456,mellow mushroom,pretzel butter and salt 3,4,g,5,mg,2530,g,46,g,10,g,1,g,0,g,2,g,2,g
+457,mellow mushroom,pretzel butter and salt 3,35,g,70,mg,8490,g,142,g,41,g,15,g,0,g,6,g,6,g
+458,mellow mushroom,pretzel butter and salt 6,70,g,140,mg,16980,g,284,g,82,g,30,g,0,g,12,g,12,g
+459,mellow mushroom,pretzel cinnamon and honey 3,4,g,5,mg,640,g,70,g,10,g,1,g,0,g,3,g,24,g
+460,mellow mushroom,pretzel cinnamon and honey 3,12,g,15,mg,1920,g,210,g,30,g,3,g,0,g,9,g,72,g
+461,mellow mushroom,provolone,8,g,20,mg,240,g,1,g,7,g,4.5,g,0,g,0,g,0,g
+462,mellow mushroom,provolone gluten free slice,1,g,0,mg,40,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+463,mellow mushroom,provolone large slice,2.5,g,5,mg,60,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+464,mellow mushroom,provolone medium slice,2.5,g,5,mg,65,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+465,mellow mushroom,provolone small slice,2,g,0,mg,50,g,0,g,2,g,1,g,0,g,0,g,0,g
+466,mellow mushroom,ranch salad dressing,14,g,10,mg,200,g,2,g,1,g,2,g,0,g,0,g,0,g
+467,mellow mushroom,red sauce,0,g,0,mg,260,g,6,g,1,g,0,g,0,g,1,g,3,g
+468,mellow mushroom,red sauce gluten free slice,1,g,0,mg,150,g,3,g,1,g,0,g,0,g,1,g,2,g
+469,mellow mushroom,red sauce large slice,1,g,0,mg,70,g,2,g,1,g,0,g,0,g,0,g,1,g
+470,mellow mushroom,red sauce medium slice,1,g,0,mg,60,g,2,g,1,g,0,g,0,g,0,g,1,g
+471,mellow mushroom,red sauce small slice,1,g,0,mg,70,g,2,g,1,g,0,g,0,g,0,g,1,g
+472,mellow mushroom,ricotta cheese blend gluten free slice,1.5,g,5,mg,25,g,0,g,1,g,1,g,0,g,0,g,0,g
+473,mellow mushroom,ricotta cheese blend large slice,5,g,15,mg,85,g,1,g,3,g,3,g,0,g,0,g,0,g
+474,mellow mushroom,ricotta cheese blend medium slice,4.5,g,15,mg,75,g,1,g,2,g,3,g,0,g,0,g,0,g
+475,mellow mushroom,ricotta cheese blend small slice,3,g,10,mg,55,g,1,g,2,g,2,g,0,g,0,g,0,g
+476,mellow mushroom,roasted red peppers,0,g,0,mg,310,g,5,g,1,g,0,g,0,g,1,g,4,g
+477,mellow mushroom,roasted red peppers large slice,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+478,mellow mushroom,roasted red peppers medium slice,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+479,mellow mushroom,roasted red peppers small slice,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+480,mellow mushroom,roasted red potato,1,g,0,mg,85,g,11,g,1,g,0,g,0,g,1,g,1,g
+481,mellow mushroom,roasted red potato large slice,0.5,g,0,mg,35,g,5,g,1,g,0,g,0,g,0,g,0,g
+482,mellow mushroom,roasted red potato medium slice,0.5,g,0,mg,35,g,5,g,1,g,0,g,0,g,0,g,0,g
+483,mellow mushroom,roasted red potato small slice,0,g,0,mg,30,g,4,g,0,g,0,g,0,g,0,g,0,g
+484,mellow mushroom,roasted red potatoes side,3,g,0,mg,220,g,27,g,3,g,0,g,0,g,3,g,2,g
+485,mellow mushroom,roasted tomatoes,2.5,g,0,mg,65,g,7,g,0,g,0,g,0,g,2,g,0,g
+486,mellow mushroom,roasted tomatoes gluten free slice,1.5,g,0,mg,35,g,3,g,0,g,0,g,0,g,0,g,0,g
+487,mellow mushroom,roasted tomatoes large slice,1.5,g,0,mg,40,g,4,g,0,g,0,g,0,g,1,g,0,g
+488,mellow mushroom,roasted tomatoes medium slice,1.5,g,0,mg,45,g,4,g,0,g,0,g,0,g,1,g,0,g
+489,mellow mushroom,roasted tomatoes small slice,1.5,g,0,mg,35,g,3,g,0,g,0,g,0,g,0,g,0,g
+490,mellow mushroom,roma tomatoes,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+491,mellow mushroom,roma tomatoes gluten free slice,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+492,mellow mushroom,roma tomatoes large slice,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+493,mellow mushroom,roma tomatoes medium slice,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+494,mellow mushroom,roma tomatoes small slice,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+495,mellow mushroom,romaine,0.5,g,0,mg,15,g,6,g,2,g,0,g,0,g,4,g,2,g
+496,mellow mushroom,roman wrap catering,27,g,145,mg,3040,g,54,g,54,g,3.5,g,0,g,7,g,5,g
+497,mellow mushroom,salad mix,0,g,0,mg,25,g,5,g,2,g,0,g,0,g,2,g,3,g
+498,mellow mushroom,salami,10,g,35,mg,450,g,0,g,5,g,4,g,0,g,0,g,0,g
+499,mellow mushroom,salami large slice,6,g,20,mg,280,g,0,g,3,g,2.5,g,0,g,0,g,0,g
+500,mellow mushroom,salami medium slice,7,g,25,mg,300,g,0,g,3,g,2.5,g,0,g,0,g,0,g
+501,mellow mushroom,salami small slice,5,g,20,mg,230,g,0,g,3,g,2,g,0,g,0,g,0,g
+502,mellow mushroom,seagrams ginger ale,0,g,0,mg,65,g,58,g,0,g,0,g,0,g,0,g,58,g
+503,mellow mushroom,shredded sharp cheddar cheese,4.5,g,15,mg,90,g,0,g,4,g,3,g,0,g,0,g,0,g
+504,mellow mushroom,shredded sharp cheddar cheese gluten free slice,0.5,g,5,mg,15,g,0,g,1,g,0,g,0,g,0,g,0,g
+505,mellow mushroom,shredded sharp cheddar cheese large slice,1.5,g,5,mg,30,g,0,g,1,g,1,g,0,g,0,g,0,g
+506,mellow mushroom,shredded sharp cheddar cheese medium slice,1.5,g,5,mg,30,g,0,g,1,g,1,g,0,g,0,g,0,g
+507,mellow mushroom,shredded sharp cheddar cheese small slice,1,g,5,mg,25,g,0,g,1,g,1,g,0,g,0,g,0,g
+508,mellow mushroom,southwest vegetable soup,18,g,15,mg,1400,g,16,g,9,g,4.5,g,0,g,2,g,5,g
+509,mellow mushroom,southwest vegetable soup chix,20,g,85,mg,1740,g,16,g,29,g,5,g,0,g,4,g,5,g
+510,mellow mushroom,spicy blue cheese large slice,8,g,10,mg,200,g,1,g,1,g,2,g,0,g,0,g,1,g
+511,mellow mushroom,spicy blue cheese medium slice,8,g,10,mg,220,g,1,g,1,g,2,g,0,g,0,g,1,g
+512,mellow mushroom,spicy blue cheese small slice,6,g,5,mg,160,g,1,g,1,g,1.5,g,0,g,0,g,0,g
+513,mellow mushroom,spicy blue cheese salad dressing,13,g,15,mg,370,g,2,g,2,g,3,g,0,g,1,g,1,g
+514,mellow mushroom,spicy ranch large slice,5,g,0,mg,80,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+515,mellow mushroom,spicy ranch medium slice,4.5,g,0,mg,70,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+516,mellow mushroom,spicy ranch small slice,3.5,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+517,mellow mushroom,spicy ranch salad dressing,14,g,10,mg,210,g,2,g,0,g,2,g,0,g,0,g,0,g
+518,mellow mushroom,spinach,0,g,0,mg,130,g,6,g,4,g,0,g,0,g,4,g,0,g
+519,mellow mushroom,spinach gluten free slice,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+520,mellow mushroom,spinach artichoke dip,26,g,70,mg,740,g,6,g,14,g,14,g,0,g,1,g,2,g
+521,mellow mushroom,spinach artichoke dip large tray catering,21,g,55,mg,730,g,28,g,14,g,12,g,0,g,3,g,2,g
+522,mellow mushroom,spinach artichoke dip small tray catering,16,g,40,mg,550,g,21,g,10,g,9,g,0,g,2,g,2,g
+523,mellow mushroom,spinach artichoke dip app,44,g,110,mg,1450,g,67,g,26,g,24,g,0.5,g,6,g,5,g
+524,mellow mushroom,spring mix,0,g,0,mg,190,g,6,g,4,g,0,g,0,g,4,g,4,g
+525,mellow mushroom,sprite,0,g,0,mg,95,g,50,g,0,g,0,g,0,g,0,g,50,g
+526,mellow mushroom,steak,8,g,45,mg,60,g,0,g,18,g,3,g,0,g,0,g,0,g
+527,mellow mushroom,steak large slice,3.5,g,20,mg,25,g,0,g,8,g,1.5,g,0,g,0,g,0,g
+528,mellow mushroom,steak medium slice,3,g,20,mg,25,g,0,g,7,g,1,g,0,g,0,g,0,g
+529,mellow mushroom,steak small slice,2,g,15,mg,20,g,0,g,5,g,1,g,0,g,0,g,0,g
+530,mellow mushroom,steak and cheese calzone,50,g,165,mg,2760,g,151,g,82,g,28,g,0,g,8,g,10,g
+531,mellow mushroom,steak and cheese hoagie half,31,g,70,mg,740,g,48,g,32,g,9,g,0,g,4,g,5,g
+532,mellow mushroom,steak and cheese hoagie whole,61,g,135,mg,1470,g,96,g,65,g,18,g,0,g,8,g,10,g
+533,mellow mushroom,sugar cookie,33,g,95,mg,160,g,75,g,6,g,19,g,1,g,1,g,38,g
+534,mellow mushroom,sugar cookie sundae,57,g,160,mg,250,g,112,g,10,g,35,g,1,g,1,g,72,g
+535,mellow mushroom,sweet chili glaze,0,g,0,mg,400,g,17,g,0,g,0,g,0,g,1,g,14,g
+536,mellow mushroom,sweet chili glaze large slice,0,g,0,mg,140,g,6,g,0,g,0,g,0,g,0,g,5,g
+537,mellow mushroom,sweet chili glaze medium slice,0,g,0,mg,125,g,5,g,0,g,0,g,0,g,0,g,4,g
+538,mellow mushroom,sweet chili glaze small slice,0,g,0,mg,95,g,4,g,0,g,0,g,0,g,0,g,3,g
+539,mellow mushroom,sweet thai chili wings large tray catering,11,g,95,mg,970,g,18,g,18,g,3.5,g,0,g,0,g,14,g
+540,mellow mushroom,sweet thai chili wings small tray catering,10,g,85,mg,870,g,16,g,16,g,3,g,0,g,0,g,13,g
+541,mellow mushroom,sweetened iced tea,0,g,0,mg,15,g,55,g,0,g,0,g,0,g,0,g,55,g
+542,mellow mushroom,swiss cheese,8,g,25,mg,50,g,0,g,8,g,5,g,0,g,0,g,0,g
+543,mellow mushroom,tempeh hoagie half,34,g,25,mg,1330,g,57,g,17,g,8,g,0,g,4,g,11,g
+544,mellow mushroom,tempeh hoagie whole,67,g,45,mg,2650,g,114,g,35,g,15,g,0,g,8,g,22,g
+545,mellow mushroom,teriyaki chicken,2,g,65,mg,430,g,2,g,19,g,0,g,0,g,0,g,2,g
+546,mellow mushroom,teriyaki chicken large slice,0,g,15,mg,110,g,1,g,5,g,0,g,0,g,0,g,0,g
+547,mellow mushroom,teriyaki chicken medium slice,0.5,g,20,mg,140,g,1,g,6,g,0,g,0,g,0,g,0,g
+548,mellow mushroom,teriyaki chicken small slice,0,g,15,mg,110,g,1,g,5,g,0,g,0,g,0,g,0,g
+549,mellow mushroom,thai curry salad large tray catering,10,g,40,mg,490,g,21,g,11,g,3,g,0,g,3,g,8,g
+550,mellow mushroom,thai curry salad small tray catering,11,g,45,mg,550,g,23,g,13,g,3.5,g,0,g,3,g,9,g
+551,mellow mushroom,the ritz burger,75,g,215,mg,1570,g,60,g,56,g,28,g,2.5,g,2,g,11,g
+552,mellow mushroom,the sausagefest calzone,44,g,160,mg,3200,g,146,g,74,g,24,g,0,g,6,g,6,g
+553,mellow mushroom,toast points,23,g,55,mg,880,g,77,g,14,g,14,g,0,g,0,g,4,g
+554,mellow mushroom,tofu,2.5,g,0,mg,0,g,1,g,5,g,0,g,0,g,0,g,0,g
+555,mellow mushroom,tofu large slice,0,g,0,mg,0,g,0,g,1,g,0,g,0,g,0,g,0,g
+556,mellow mushroom,tofu medium slice,0,g,0,mg,0,g,0,g,1,g,0,g,0,g,0,g,0,g
+557,mellow mushroom,tofu small slice,0,g,0,mg,0,g,0,g,1,g,0,g,0,g,0,g,0,g
+558,mellow mushroom,tofu hoagie half,24,g,25,mg,680,g,49,g,18,g,6,g,0,g,4,g,5,g
+559,mellow mushroom,tofu hoagie whole,49,g,45,mg,1350,g,97,g,36,g,12,g,0,g,8,g,10,g
+560,mellow mushroom,tomato bisque,22,g,55,mg,1200,g,18,g,8,g,12,g,0,g,1,g,10,g
+561,mellow mushroom,triple chocolate brownie catering,6,g,20,mg,60,g,12,g,1,g,2.5,g,0,g,0,g,8,g
+562,mellow mushroom,triple chocolate chunk cookie,29,g,40,mg,530,g,83,g,6,g,12,g,0,g,0,g,49,g
+563,mellow mushroom,turkey,2,g,35,mg,280,g,0,g,12,g,1,g,0,g,0,g,0,g
+564,mellow mushroom,turkey large slice,0,g,5,mg,60,g,0,g,2,g,0,g,0,g,0,g,0,g
+565,mellow mushroom,turkey medium slice,0,g,5,mg,60,g,0,g,2,g,0,g,0,g,0,g,0,g
+566,mellow mushroom,turkey small slice,0,g,5,mg,50,g,0,g,1,g,0,g,0,g,0,g,0,g
+567,mellow mushroom,veg out pizza gluten free slice,5,g,10,mg,330,g,17,g,5,g,2,g,0,g,1,g,1,g
+568,mellow mushroom,veg out pizza large slice,18,g,25,mg,900,g,48,g,19,g,5,g,0,g,2,g,4,g
+569,mellow mushroom,veg out pizza medium slice,17,g,20,mg,800,g,47,g,17,g,4.5,g,0,g,2,g,5,g
+570,mellow mushroom,veg out pizza small slice,15,g,15,mg,700,g,39,g,14,g,3,g,0,g,1,g,3,g
+571,mellow mushroom,vegan cheese,12,g,0,mg,560,g,12,g,0,g,7,g,0,g,2,g,0,g
+572,mellow mushroom,vegan cheese gluten free slice,1.5,g,0,mg,70,g,2,g,0,g,0,g,0,g,0,g,0,g
+573,mellow mushroom,vegan cheese large slice,1.5,g,0,mg,70,g,2,g,0,g,0,g,0,g,0,g,0,g
+574,mellow mushroom,vegan cheese medium slice,1.5,g,0,mg,70,g,2,g,0,g,0,g,0,g,0,g,0,g
+575,mellow mushroom,vegan cheese small slice,1.5,g,0,mg,70,g,2,g,0,g,0,g,0,g,0,g,0,g
+576,mellow mushroom,veggie supreme calzone,41,g,110,mg,2750,g,150,g,63,g,25,g,0,g,10,g,9,g
+577,mellow mushroom,wild in havana large slice,23,g,65,mg,1270,g,45,g,28,g,9,g,0,g,2,g,3,g
+578,mellow mushroom,wild in havana medium slice,22,g,60,mg,1170,g,44,g,26,g,8,g,0,g,2,g,4,g
+579,mellow mushroom,wild in havana small slice,18,g,45,mg,970,g,37,g,20,g,6,g,0,g,1,g,3,g
+580,mellow mushroom,wings bbq 10 wings,35,g,285,mg,2650,g,41,g,55,g,10,g,0,g,1,g,27,g
+581,mellow mushroom,wings bbq 5 wings,17,g,140,mg,1330,g,21,g,27,g,5,g,0,g,1,g,14,g
+582,mellow mushroom,wings cloud 9,60,g,270,mg,1950,g,10,g,52,g,14,g,0,g,3,g,3,g
+583,mellow mushroom,wings hot 10 wings,33,g,285,mg,3240,g,32,g,55,g,10,g,0,g,3,g,6,g
+584,mellow mushroom,wings hot 5 wings,17,g,140,mg,1620,g,16,g,27,g,5,g,0,g,2,g,3,g
+585,mellow mushroom,wings jerk 10 wings,33,g,285,mg,4240,g,17,g,55,g,10,g,0,g,3,g,6,g
+586,mellow mushroom,wings jerk 5 wings,17,g,140,mg,4500,g,14,g,27,g,5,g,0,g,2,g,3,g
+587,mellow mushroom,wings mild 10 wings,57,g,285,mg,4500,g,23,g,58,g,15,g,0,g,3,g,6,g
+588,mellow mushroom,wings mild 5 wings,29,g,140,mg,2250,g,12,g,29,g,7,g,0,g,2,g,3,g
+589,mellow mushroom,wings naked 10 wings,33,g,285,mg,1860,g,11,g,55,g,10,g,0,g,0,g,6,g
+590,mellow mushroom,wings naked 5 wings,17,g,140,mg,930,g,6,g,27,g,5,g,0,g,0,g,3,g
+591,mellow mushroom,wings sweet thai chili 10 wings,33,g,285,mg,3000,g,60,g,55,g,10,g,0,g,0,g,46,g
+592,mellow mushroom,wings sweet thai chili 5 wings,17,g,140,mg,1500,g,30,g,27,g,5,g,0,g,0,g,23,g
+593,mellow mushroom,wings teriyaki 10 wings,34,g,285,mg,3600,g,46,g,57,g,10,g,0,g,5,g,31,g
+594,mellow mushroom,wings teriyaki 5 wings,17,g,140,mg,1800,g,23,g,29,g,5,g,0,g,2,g,15,g
+595,menchies frozen yogurt,low fat takes the cake batter frozen yogurt,2,g,0,mg,230,g,52,g,8,g,0,g,0,g,0,g,40,g
+596,menchies frozen yogurt,no sugar added strawberry frozen yogurt,0,g,0,mg,180,g,38,g,8,g,0,g,0,g,6,g,14,g
+597,menchies frozen yogurt,low carb and no sugar added caramel frozen yogurt,0,g,0,mg,80,g,22,g,6,g,0,g,0,g,6,g,6,g
+598,menchies frozen yogurt,non fat vanilla snow frozen yogurt,0,g,0,mg,160,g,44,g,6,g,0,g,0,g,0,g,36,g
+599,menchies frozen yogurt,low carb and no sugar added german chocolate cake frozen yogurt,2,g,0,mg,120,g,22,g,6,g,0,g,0,g,8,g,4,g
+600,menchies frozen yogurt,nutella creamy cocoa hazelnut frozen yogurt,7,g,0,mg,150,g,52,g,8,g,2,g,0,g,1,g,44,g
+601,menchies frozen yogurt,the art of original tart frozen yogurt,0,g,0,mg,230,g,40,g,6,g,0,g,0,g,0,g,30,g
+602,menchies frozen yogurt,no sugar added very vanilla bean frozen yogurt,0,g,0,mg,180,g,38,g,8,g,0,g,0,g,6,g,14,g
+603,menchies frozen yogurt,low carb and no sugar added new york cheesecake frozen yogurt,0,g,0,mg,80,g,22,g,6,g,0,g,0,g,6,g,6,g
+604,menchies frozen yogurt,non fat cookie dough monster frozen yogurt,0,g,0,mg,210,g,52,g,6,g,0,g,0,g,0,g,42,g
+605,menchies frozen yogurt,low fat i dream of cookies n cream frozen yogurt,2,g,0,mg,240,g,52,g,8,g,0,g,0,g,0,g,38,g
+606,menchies frozen yogurt,low carb and no sugar added orange vanilla frozen yogurt,0,g,0,mg,80,g,22,g,6,g,0,g,0,g,6,g,6,g
+607,menchies frozen yogurt,reeses peanut butter cup frozen yogurt,7,g,0,mg,240,g,54,g,8,g,2,g,0,g,1,g,44,g
+608,menchies frozen yogurt,no sugar added dark chocolate bar frozen yogurt,1,g,0,mg,180,g,40,g,8,g,0,g,0,g,8,g,14,g
+609,menchies frozen yogurt,low fat ice cream sandwich frozen yogurt,2,g,0,mg,240,g,50,g,8,g,0,g,0,g,0,g,38,g
+610,menchies frozen yogurt,low fat milk chocolate mania frozen yogurt,1,g,0,mg,160,g,48,g,8,g,0,g,0,g,2,g,36,g
+611,menchies frozen yogurt,low fat creamy peanut butter frozen yogurt,5,g,0,mg,250,g,46,g,8,g,0,g,0,g,0,g,36,g
+612,menchies frozen yogurt,low fat dreamy dulce de leche frozen yogurt,5,g,20,mg,220,g,48,g,6,g,3,g,0,g,0,g,40,g
+613,menchies frozen yogurt,low fat tahitian vanilla coconut milk frozen yogurt,4,g,0,mg,50,g,56,g,0,g,4,g,0,g,2,g,22,g
+614,menchies frozen yogurt,non fat the berry bunch frozen yogurt,0,g,0,mg,200,g,46,g,6,g,0,g,0,g,0,g,34,g
+615,menchies frozen yogurt,no sugar added iced coffee frozen yogurt,0,g,0,mg,170,g,38,g,8,g,0,g,0,g,6,g,14,g
+616,menchies frozen yogurt,low carb and no sugar added peanut butter frozen yogurt,0,g,0,mg,80,g,22,g,6,g,0,g,0,g,6,g,6,g
+617,menchies frozen yogurt,low fat red velvet royale frozen yogurt,3,g,5,mg,280,g,54,g,8,g,0,g,0,g,0,g,42,g
+618,menchies frozen yogurt,non fat premier pistachio frozen yogurt,0,g,0,mg,160,g,46,g,6,g,0,g,0,g,0,g,36,g
+619,menchies frozen yogurt,non fat fresh shredded coconut frozen yogurt,0,g,0,mg,160,g,46,g,6,g,0,g,0,g,0,g,38,g
+620,menchies frozen yogurt,non fat rockin salted caramel frozen yogurt,0,g,0,mg,380,g,50,g,6,g,0,g,0,g,0,g,38,g
+621,menchies frozen yogurt,low fat caramel frappe frozen yogurt,2,g,5,mg,180,g,48,g,6,g,1,g,0,g,0,g,40,g
+622,menchies frozen yogurt,low fat heath chocolate glazed toffee bar frozen yogurt,5,g,5,mg,280,g,50,g,6,g,2,g,0,g,0,g,42,g
+623,menchies frozen yogurt,low fat mudslide pie frozen yogurt,1,g,0,mg,180,g,48,g,8,g,0,g,0,g,0,g,38,g
+624,menchies frozen yogurt,non fat strawberry burst frozen yogurt,0,g,0,mg,150,g,48,g,6,g,0,g,0,g,0,g,38,g
+625,menchies frozen yogurt,low carb and no sugar added grasshopper frozen yogurt,0,g,0,mg,80,g,22,g,6,g,0,g,0,g,6,g,6,g
+626,menchies frozen yogurt,low fat cinnabon classic cinnamon roll frozen yogurt,2,g,10,mg,170,g,52,g,6,g,1,g,0,g,0,g,42,g
+627,menchies frozen yogurt,non fat sweet strawberry greek frozen yogurt,0,g,5,mg,240,g,48,g,10,g,0,g,0,g,0,g,36,g
+628,menchies frozen yogurt,low fat spiced gingerbread cookie frozen yogurt,3,g,5,mg,220,g,50,g,6,g,2,g,0,g,0,g,38,g
+629,menchies frozen yogurt,low fat dark chocolate cherry brownie frozen yogurt,3,g,0,mg,200,g,50,g,8,g,0,g,0,g,1,g,38,g
+630,menchies frozen yogurt,non fat toasty marshmallow frozen yogurt,0,g,0,mg,170,g,52,g,6,g,0,g,0,g,0,g,44,g
+631,menchies frozen yogurt,low fat twisted cinnamon churro frozen yogurt,3,g,0,mg,240,g,52,g,8,g,1,g,0,g,0,g,40,g
+632,menchies frozen yogurt,no sugar added pecan praline surprise frozen yogurt,1,g,0,mg,170,g,40,g,8,g,0,g,0,g,6,g,14,g
+633,menchies frozen yogurt,no sugar added strawberry banana breeze frozen yogurt,0,g,0,mg,170,g,38,g,8,g,0,g,0,g,6,g,14,g
+634,menchies frozen yogurt,non fat key lime pie frozen yogurt,0,g,0,mg,210,g,48,g,6,g,0,g,0,g,0,g,36,g
+635,menchies frozen yogurt,low fat fire toasted smores frozen yogurt,1,g,0,mg,240,g,54,g,6,g,0,g,0,g,0,g,40,g
+636,menchies frozen yogurt,low carb butterscotch frozen yogurt,0,g,0,mg,80,g,22,g,6,g,0,g,0,g,6,g,6,g
+637,menchies frozen yogurt,low carb and no sugar added mocha fudge frozen yogurt,2,g,0,mg,120,g,22,g,6,g,0,g,0,g,8,g,4,g
+638,menchies frozen yogurt,low fat nestle crunch pieces chocolate candy bar frozen yogurt,4,g,5,mg,190,g,52,g,8,g,2,g,0,g,1,g,42,g
+639,menchies frozen yogurt,non fat bold cranberry raspberry blast frozen yogurt,0,g,0,mg,200,g,46,g,6,g,0,g,0,g,0,g,34,g
+640,menchies frozen yogurt,low carb boysenberry frozen yogurt,0,g,0,mg,80,g,22,g,6,g,0,g,0,g,6,g,6,g
+641,menchies frozen yogurt,the art of blue raspberry tart frozen yogurt,0,g,0,mg,200,g,46,g,6,g,0,g,0,g,0,g,38,g
+642,menchies frozen yogurt,low fat butterfingers peanut butter chocolate bar frozen yogurt,4,g,0,mg,240,g,50,g,8,g,1,g,0,g,0,g,38,g
+643,menchies frozen yogurt,low fat gluten free white cake batter frozen yogurt,2,g,10,mg,220,g,52,g,8,g,0,g,0,g,0,g,44,g
+644,menchies frozen yogurt,the art of green apple tart frozen yogurt,0,g,0,mg,200,g,50,g,6,g,0,g,0,g,0,g,40,g
+645,menchies frozen yogurt,low carb and no sugar added angel food cake frozen yogurt,0,g,0,mg,80,g,22,g,6,g,0,g,0,g,6,g,6,g
+646,menchies frozen yogurt,low carb juicy raspberry frozen yogurt,0,g,0,mg,80,g,22,g,6,g,0,g,0,g,6,g,6,g
+647,menchies frozen yogurt,the art of black cherry tart frozen yogurt,0,g,0,mg,200,g,48,g,6,g,0,g,0,g,0,g,40,g
+648,menchies frozen yogurt,no sugar added midnight chocolate mint frozen yogurt,0,g,0,mg,230,g,40,g,8,g,0,g,0,g,6,g,14,g
+649,menchies frozen yogurt,non fat greek vanilla bean frozen yogurt,0,g,20,mg,210,g,48,g,12,g,0,g,0,g,0,g,40,g
+650,menchies frozen yogurt,low fat swiss miss classic hot chocolate frozen yogurt,1,g,0,mg,270,g,52,g,8,g,0,g,0,g,0,g,42,g
+651,menchies frozen yogurt,non fat fresh baked oatmeal raisin cookie frozen yogurt,0,g,5,mg,200,g,50,g,6,g,0,g,0,g,0,g,42,g
+652,menchies frozen yogurt,low carb pecan praline frozen yogurt,0,g,0,mg,80,g,22,g,6,g,0,g,0,g,6,g,6,g
+653,menchies frozen yogurt,low fat rich n nutty pistachio frozen yogurt,1,g,0,mg,170,g,46,g,6,g,0,g,0,g,0,g,40,g
+654,menchies frozen yogurt,low carb white chocolate raspberry frozen yogurt,0,g,0,mg,80,g,22,g,6,g,0,g,0,g,6,g,6,g
+655,menchies frozen yogurt,low fat chocolate dunked banana frozen yogurt,2,g,5,mg,160,g,46,g,8,g,1,g,0,g,0,g,36,g
+656,menchies frozen yogurt,low carb and no sugar added coffee royale frozen yogurt,0,g,0,mg,80,g,22,g,6,g,0,g,0,g,6,g,6,g
+657,menchies frozen yogurt,low fat andes chocolate creme mint frozen yogurt,4,g,5,mg,160,g,52,g,8,g,1,g,0,g,1,g,40,g
+658,menchies frozen yogurt,low fat cocoa minty holiday cookie frozen yogurt,3,g,5,mg,200,g,52,g,6,g,0,g,0,g,0,g,40,g
+659,menchies frozen yogurt,low fat chewy peanut butter cookie frozen yogurt,4,g,0,mg,280,g,50,g,8,g,0,g,0,g,0,g,38,g
+660,menchies frozen yogurt,low fat mandms milk chocolate candy frozen yogurt,3,g,5,mg,170,g,52,g,8,g,2,g,0,g,0,g,42,g
+661,menchies frozen yogurt,non fat the apple of my pie frozen yogurt,0,g,0,mg,160,g,48,g,6,g,0,g,0,g,0,g,36,g
+662,menchies frozen yogurt,the art of pineapple tart frozen yogurt,0,g,0,mg,200,g,50,g,6,g,0,g,0,g,0,g,40,g
+663,menchies frozen yogurt,low fat uber fudgy brownie batter frozen yogurt,3,g,0,mg,190,g,52,g,6,g,0,g,0,g,2,g,36,g
+664,menchies frozen yogurt,low carb and no sugar added cappuccino frozen yogurt,0,g,0,mg,80,g,22,g,6,g,0,g,0,g,6,g,6,g
+665,menchies frozen yogurt,low fat live from ny cheesecake frozen yogurt,1,g,0,mg,170,g,50,g,8,g,0,g,0,g,0,g,42,g
+666,menchies frozen yogurt,low fat nutty hazelnut frozen yogurt,2,g,0,mg,180,g,48,g,8,g,0,g,0,g,0,g,38,g
+667,menchies frozen yogurt,the art of peach mango tart frozen yogurt,0,g,0,mg,200,g,46,g,6,g,0,g,0,g,0,g,38,g
+668,menchies frozen yogurt,low carb devils food cake frozen yogurt,2,g,0,mg,120,g,22,g,6,g,0,g,0,g,8,g,4,g
+669,menchies frozen yogurt,low fat whoppers malted milk balls frozen yogurt,3,g,0,mg,180,g,56,g,8,g,2,g,0,g,0,g,44,g
+670,menchies frozen yogurt,low fat just the creme frozen yogurt,1,g,0,mg,190,g,50,g,8,g,0,g,0,g,0,g,42,g
+671,menchies frozen yogurt,non fat power pomegranate acai frozen yogurt,0,g,0,mg,200,g,46,g,6,g,0,g,0,g,0,g,36,g
+672,menchies frozen yogurt,low fat vanilla latte frozen yogurt,1,g,5,mg,150,g,48,g,6,g,0,g,0,g,0,g,40,g
+673,menchies frozen yogurt,low fat soft baked sugar cookie frozen yogurt,3,g,5,mg,230,g,52,g,6,g,0,g,0,g,0,g,40,g
+674,menchies frozen yogurt,low fat caramel coconut cookie crunch frozen yogurt,2,g,5,mg,210,g,50,g,8,g,0,g,0,g,0,g,40,g
+675,menchies frozen yogurt,non fat spiced chai latte frozen yogurt,0,g,0,mg,160,g,46,g,8,g,0,g,0,g,0,g,38,g
+676,menchies frozen yogurt,non fat marshmallow mania peeps frozen yogurt,0,g,0,mg,150,g,48,g,6,g,0,g,0,g,0,g,40,g
+677,menchies frozen yogurt,the art of blueberry pomegranate tart frozen yogurt,0,g,0,mg,200,g,48,g,6,g,0,g,0,g,0,g,40,g
+678,menchies frozen yogurt,non fat jumpin java latte frozen yogurt,0,g,0,mg,160,g,46,g,8,g,0,g,0,g,0,g,38,g
+679,menchies frozen yogurt,low fat honey graham crumble frozen yogurt,1,g,0,mg,300,g,50,g,6,g,0,g,0,g,0,g,36,g
+680,menchies frozen yogurt,non fat sweet n tangy peach mango frozen yogurt,0,g,0,mg,190,g,44,g,4,g,0,g,0,g,0,g,36,g
+681,menchies frozen yogurt,non fat crispy irish mint frozen yogurt,0,g,0,mg,150,g,46,g,6,g,0,g,0,g,0,g,40,g
+682,menchies frozen yogurt,low fat zesty lemon merginue frozen yogurt,2,g,50,mg,210,g,46,g,6,g,0,g,0,g,0,g,32,g
+683,menchies frozen yogurt,non fat harvest pumpkin frozen yogurt,0,g,5,mg,180,g,50,g,8,g,0,g,0,g,0,g,42,g
+684,menchies frozen yogurt,low fat rich n smooth cookie butter frozen yogurt,3,g,5,mg,230,g,50,g,6,g,1,g,0,g,0,g,38,g
+685,menchies frozen yogurt,non fat pure chocolate frozen yogurt,0,g,0,mg,150,g,50,g,6,g,0,g,0,g,2,g,34,g
+686,menchies frozen yogurt,low carb and no sugar added banana frozen yogurt,0,g,0,mg,80,g,22,g,6,g,0,g,0,g,6,g,6,g
+687,menchies frozen yogurt,low fat smooth white chocolate frozen yogurt,2,g,5,mg,170,g,48,g,6,g,1,g,0,g,0,g,40,g
+688,menchies frozen yogurt,low fat southern pecan pie frozen yogurt,3,g,0,mg,180,g,46,g,6,g,0,g,0,g,0,g,38,g
+689,menchies frozen yogurt,non fat peachy keen frozen yogurt,0,g,0,mg,130,g,48,g,6,g,0,g,0,g,0,g,40,g
+690,menchies frozen yogurt,non fat going bananas frozen yogurt,0,g,0,mg,140,g,46,g,6,g,0,g,0,g,0,g,38,g
+691,menchies frozen yogurt,low fat peanut buttercup frozen yogurt,4,g,0,mg,210,g,50,g,8,g,0,g,0,g,0,g,40,g
+692,menchies frozen yogurt,non fat pineapple cake frozen yogurt,0,g,0,mg,220,g,48,g,6,g,0,g,0,g,0,g,40,g
+693,menchies frozen yogurt,low carb marshmallow frozen yogurt,0,g,0,mg,80,g,22,g,6,g,0,g,0,g,6,g,6,g
+694,menchies frozen yogurt,low fat holiday eggnog frozen yogurt,3,g,30,mg,150,g,46,g,6,g,2,g,0,g,0,g,38,g
+695,menchies frozen yogurt,dole soft serve pineapple sorbet,0,g,0,mg,20,g,42,g,0,g,0,g,0,g,0,g,40,g
+696,menchies frozen yogurt,dole soft serve lemon sorbet,0,g,0,mg,20,g,42,g,0,g,0,g,0,g,0,g,38,g
+697,menchies frozen yogurt,strawberry smoothie sorbet,0,g,0,mg,0,g,52,g,0,g,0,g,0,g,0,g,34,g
+698,menchies frozen yogurt,island sorbet,0,g,0,mg,0,g,44,g,0,g,0,g,0,g,0,g,32,g
+699,menchies frozen yogurt,fresh honeydew sorbet,0,g,0,mg,0,g,48,g,0,g,0,g,0,g,0,g,32,g
+700,menchies frozen yogurt,wild cherry sorbet with splash of lime,0,g,0,mg,0,g,50,g,0,g,0,g,0,g,0,g,36,g
+701,menchies frozen yogurt,carrot orange boost sorbet,0,g,0,mg,0,g,50,g,0,g,0,g,0,g,0,g,36,g
+702,menchies frozen yogurt,fudgy chocolate sorbet,0,g,0,mg,250,g,50,g,2,g,0,g,0,g,4,g,32,g
+703,menchies frozen yogurt,white citrus sorbet,0,g,0,mg,10,g,50,g,0,g,0,g,0,g,0,g,36,g
+704,menchies frozen yogurt,paradise fruit punch sorbet,0,g,0,mg,0,g,48,g,0,g,0,g,0,g,0,g,32,g
+705,menchies frozen yogurt,strawberry kiwi twist sorbet,0,g,0,mg,0,g,50,g,0,g,0,g,0,g,0,g,34,g
+706,menchies frozen yogurt,tangy tangerine sorbet,0,g,0,mg,0,g,52,g,0,g,0,g,0,g,0,g,38,g
+707,menchies frozen yogurt,summertime watermelon sorbet,0,g,0,mg,0,g,50,g,0,g,0,g,0,g,0,g,32,g
+708,menchies frozen yogurt,pomegranate razz sorbet,0,g,0,mg,0,g,48,g,0,g,0,g,0,g,0,g,34,g
+709,menchies frozen yogurt,fresh lime mint sorbet,0,g,0,mg,0,g,50,g,0,g,0,g,0,g,0,g,36,g
+710,menchies frozen yogurt,blue raspberry blast sorbet,0,g,0,mg,0,g,52,g,0,g,0,g,0,g,0,g,36,g
+711,menchies frozen yogurt,juicy grape sorbet,0,g,0,mg,0,g,50,g,0,g,0,g,0,g,0,g,34,g
+712,menchies frozen yogurt,sweet pink lemonade sorbet,0,g,0,mg,20,g,48,g,0,g,0,g,0,g,0,g,34,g
+713,menchies frozen yogurt,freshly squeezed orange sorbet,0,g,0,mg,0,g,56,g,0,g,0,g,0,g,0,g,42,g
+714,menchies frozen yogurt,banana pudding made with nilla wafers yogurt,0,g,0,mg,30,g,8,g,1,g,0,g,0,g,0,g,6,g
+715,menchies frozen yogurt,black cherry tart yogurt,0,g,0,mg,30,g,7,g,1,g,0,g,0,g,0,g,6,g
+716,menchies frozen yogurt,black cherry tart yogurt gluten free,0,g,0,mg,30,g,7,g,1,g,0,g,0,g,0,g,6,g
+717,menchies frozen yogurt,blackberry burst yogurt,0,g,0,mg,30,g,8,g,1,g,0,g,0,g,0,g,5,g
+718,menchies frozen yogurt,blackberry burst yogurt gluten free,0,g,0,mg,30,g,8,g,1,g,0,g,0,g,0,g,5,g
+719,menchies frozen yogurt,blue raspberry sorbet made with sour patch kids,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,6,g
+720,menchies frozen yogurt,blue raspberry sorbet made with sour patch kids gluten free,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,6,g
+721,menchies frozen yogurt,blue raspberry tart yogurt,0,g,0,mg,30,g,7,g,1,g,0,g,0,g,0,g,6,g
+722,menchies frozen yogurt,blue raspberry tart yogurt gluten free,0,g,0,mg,30,g,7,g,1,g,0,g,0,g,0,g,6,g
+723,menchies frozen yogurt,blueberry pomegranate tart yogurt,0,g,0,mg,30,g,7,g,1,g,0,g,0,g,0,g,6,g
+724,menchies frozen yogurt,blueberry pomegranate tart yogurt gluten free,0,g,0,mg,30,g,7,g,1,g,0,g,0,g,0,g,6,g
+725,menchies frozen yogurt,cafe mocha yogurt,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+726,menchies frozen yogurt,cafe mocha yogurt gluten free,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+727,menchies frozen yogurt,caramel frapp yogurt,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+728,menchies frozen yogurt,caramel frapp yogurt gluten free,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+729,menchies frozen yogurt,carbolite low carb caramel macchiato yogurt gluten free,0,g,0,mg,40,g,5,g,0,g,0,g,0,g,0,g,3,g
+730,menchies frozen yogurt,carbolite low carb chocolate caramel macchiato yogurt gluten free,0,g,0,mg,40,g,5,g,0,g,0,g,0,g,0,g,2,g
+731,menchies frozen yogurt,carbolite low carb chocolate mint yogurt gluten free,0,g,0,mg,35,g,5,g,0,g,0,g,0,g,0,g,2,g
+732,menchies frozen yogurt,carbolite low carb no sugar added berry berry yogurt gluten free,0,g,0,mg,35,g,5,g,0,g,0,g,0,g,0,g,3,g
+733,menchies frozen yogurt,carbolite low carb no sugar added chocolate colombian supremo coffee yogurt gluten free,0,g,0,mg,35,g,5,g,0,g,0,g,0,g,0,g,2,g
+734,menchies frozen yogurt,carbolite low carb no sugar added chocolate yogurt gluten free,0,g,0,mg,35,g,5,g,0,g,0,g,0,g,0,g,2,g
+735,menchies frozen yogurt,carbolite low carb no sugar added colombian supremo coffee yogurt gluten free,0,g,0,mg,35,g,5,g,0,g,0,g,0,g,0,g,3,g
+736,menchies frozen yogurt,carbolite low carb no sugar added cookies n cream yogurt gluten free,0,g,0,mg,30,g,5,g,0,g,0,g,0,g,0,g,2,g
+737,menchies frozen yogurt,carbolite low carb no sugar added german chocolate cake yogurt gluten free,0,g,0,mg,35,g,5,g,0,g,0,g,0,g,0,g,2,g
+738,menchies frozen yogurt,carbolite low carb no sugar added peanut butter yogurt gluten free,0,g,0,mg,30,g,5,g,1,g,0,g,0,g,0,g,2,g
+739,menchies frozen yogurt,carbolite low carb no sugar added pecan praline yogurt gluten free,0,g,0,mg,35,g,6,g,0,g,0,g,0,g,0,g,3,g
+740,menchies frozen yogurt,carbolite low carb no sugar added peppermint yogurt gluten free,0,g,0,mg,35,g,5,g,0,g,0,g,0,g,0,g,3,g
+741,menchies frozen yogurt,carbolite low carb no sugar added strawberry shortcake yogurt gluten free,0,g,0,mg,35,g,5,g,0,g,0,g,0,g,0,g,3,g
+742,menchies frozen yogurt,carbolite low carb no sugar added sweet cream yogurt gluten free,0,g,0,mg,35,g,5,g,0,g,0,g,0,g,0,g,3,g
+743,menchies frozen yogurt,carbolite low carb no sugar added vanilla bean yogurt gluten free,0,g,0,mg,35,g,5,g,0,g,0,g,0,g,0,g,3,g
+744,menchies frozen yogurt,chips ahoy original cookie yogurt,0.5,g,0,mg,40,g,8,g,1,g,0,g,0,g,0,g,6,g
+745,menchies frozen yogurt,chocolate n strawberry cookie made with oreo cookie pieces yogurt,0,g,0,mg,35,g,8,g,1,g,1,g,0,g,0,g,6,g
+746,menchies frozen yogurt,chocolate cream pie yogurt,0,g,5,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+747,menchies frozen yogurt,chocolate hazelnut made from cashew milk yogurt,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,6,g
+748,menchies frozen yogurt,chocolate hazelnut made from cashew milk yogurt gluten free,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,6,g
+749,menchies frozen yogurt,chocolate mousse cheesecake made with anchor traditional cream cheese yogurt,0.5,g,5,mg,35,g,7,g,1,g,0,g,0,g,0,g,5,g
+750,menchies frozen yogurt,cold brew coffee yogurt,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+751,menchies frozen yogurt,cold brew coffee yogurt gluten free,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+752,menchies frozen yogurt,cookie sandwich made with almond butter yogurt,1,g,0,mg,20,g,10,g,0,g,0,g,0,g,0,g,6,g
+753,menchies frozen yogurt,cookies n cream cheesecake made with oreo cookie pieces yogurt,5,g,0,mg,30,g,9,g,1,g,0,g,0,g,0,g,7,g
+754,menchies frozen yogurt,creamy cocoa hazelnut made with nutella yogurt gluten free,1,g,0,mg,25,g,8,g,1,g,0,g,0,g,0,g,7,g
+755,menchies frozen yogurt,creamy country vanilla yogurt,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+756,menchies frozen yogurt,creamy country vanilla yogurt gluten free,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+757,menchies frozen yogurt,creamy peanut butter yogurt gluten free,1,g,0,mg,40,g,7,g,1,g,0,g,0,g,0,g,5,g
+758,menchies frozen yogurt,crisp irish mint yogurt,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+759,menchies frozen yogurt,crisp irish mint yogurt gluten free,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+760,menchies frozen yogurt,dole whip lemon sorbet,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,6,g
+761,menchies frozen yogurt,dole whip lemon sorbet gluten free,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,6,g
+762,menchies frozen yogurt,dole whip pineapple sorbet,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,6,g
+763,menchies frozen yogurt,dole whip pineapple sorbet gluten free,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,6,g
+764,menchies frozen yogurt,dreamy dulce de leche yogurt,0.5,g,5,mg,35,g,7,g,1,g,0,g,0,g,0,g,6,g
+765,menchies frozen yogurt,dreamy dulce de leche yogurt gluten free,0.5,g,5,mg,35,g,7,g,1,g,0,g,0,g,0,g,6,g
+766,menchies frozen yogurt,fresh shredded coconut yogurt,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+767,menchies frozen yogurt,fresh shredded coconut yogurt gluten free,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+768,menchies frozen yogurt,fresh squeezed strawberry lemonade sorbet yogurt,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,5,g
+769,menchies frozen yogurt,fresh squeezed strawberry lemonade sorbet gluten free,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,5,g
+770,menchies frozen yogurt,frosted animal cookie yogurt,0,g,0,mg,40,g,8,g,1,g,0,g,0,g,0,g,6,g
+771,menchies frozen yogurt,frosted cupcake yogurt,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+772,menchies frozen yogurt,ginger snaps fresh baked cookie yogurt,0,g,0,mg,35,g,8,g,1,g,0,g,0,g,0,g,6,g
+773,menchies frozen yogurt,going bananas yogurt,0,g,0,mg,20,g,7,g,1,g,0,g,0,g,0,g,6,g
+774,menchies frozen yogurt,going bananas yogurt gluten free,0,g,0,mg,20,g,7,g,1,g,0,g,0,g,0,g,6,g
+775,menchies frozen yogurt,green apple tart yogurt,0,g,0,mg,30,g,7,g,1,g,0,g,0,g,0,g,6,g
+776,menchies frozen yogurt,green apple tart yogurt gluten free,0,g,0,mg,30,g,7,g,1,g,0,g,0,g,0,g,6,g
+777,menchies frozen yogurt,harvest pumpkin yogurt,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+778,menchies frozen yogurt,harvest pumpkin yogurt gluten free,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+779,menchies frozen yogurt,hi chew dragon fruit yogurt,0,g,0,mg,5,g,7,g,0,g,0,g,0,g,0,g,5,g
+780,menchies frozen yogurt,hi chew dragon fruit yogurt gluten free,0,g,0,mg,5,g,7,g,0,g,0,g,0,g,0,g,5,g
+781,menchies frozen yogurt,hi chew mango yogurt,0,g,0,mg,5,g,7,g,0,g,0,g,0,g,0,g,5,g
+782,menchies frozen yogurt,hi chew mango yogurt gluten free,0,g,0,mg,5,g,7,g,0,g,0,g,0,g,0,g,5,g
+783,menchies frozen yogurt,hi chew passion fruit yogurt,0,g,0,mg,5,g,7,g,0,g,0,g,0,g,0,g,5,g
+784,menchies frozen yogurt,hi chew passion fruit yogurt gluten free,0,g,0,mg,5,g,7,g,0,g,0,g,0,g,0,g,5,g
+785,menchies frozen yogurt,holiday eggnog yogurt,0,g,10,mg,25,g,7,g,1,g,0.5,g,0,g,0,g,6,g
+786,menchies frozen yogurt,holiday eggnog yogurt gluten free,0,g,10,mg,25,g,7,g,1,g,0.5,g,0,g,0,g,6,g
+787,menchies frozen yogurt,i dream of cookies n cream yogurt,0,g,0,mg,30,g,8,g,1,g,0,g,0,g,0,g,6,g
+788,menchies frozen yogurt,ice cream sandwich yogurt,0,g,0,mg,35,g,8,g,1,g,0,g,0,g,0,g,6,g
+789,menchies frozen yogurt,just the cookie yogurt,0,g,0,mg,35,g,8,g,1,g,0,g,0,g,0,g,6,g
+790,menchies frozen yogurt,just the creme yogurt,0,g,0,mg,30,g,8,g,1,g,0,g,0,g,0,g,6,g
+791,menchies frozen yogurt,just the creme yogurt gluten free,0,g,0,mg,30,g,8,g,1,g,0,g,0,g,0,g,6,g
+792,menchies frozen yogurt,live from ny cheesecake yogurt,0,g,0,mg,25,g,8,g,1,g,0,g,0,g,0,g,6,g
+793,menchies frozen yogurt,live from ny cheesecake yogurt gluten free,0,g,0,mg,25,g,8,g,1,g,0,g,0,g,0,g,6,g
+794,menchies frozen yogurt,matcha green tea yogurt,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+795,menchies frozen yogurt,matcha green tea yogurt gluten free,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+796,menchies frozen yogurt,milk chocolate n almonds made with hersheys chocolate yogurt gluten free,1,g,0,mg,25,g,8,g,1,g,0.5,g,0,g,0,g,6,g
+797,menchies frozen yogurt,milk chocolate caramel made with ghirardelli yogurt,0.5,g,5,mg,25,g,7,g,1,g,0.5,g,0,g,0,g,6,g
+798,menchies frozen yogurt,milk chocolate caramel made with ghirardelli yogurt gluten free,0.5,g,5,mg,25,g,7,g,1,g,0.5,g,0,g,0,g,6,g
+799,menchies frozen yogurt,milk chocolate mania yogurt,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,5,g
+800,menchies frozen yogurt,milk chocolate mania yogurt gluten free,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,5,g
+801,menchies frozen yogurt,mrs smiths famous apple pie yogurt,0,g,0,mg,35,g,8,g,1,g,0,g,0,g,0,g,6,g
+802,menchies frozen yogurt,mudslide pie yogurt,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+803,menchies frozen yogurt,no sugar added dark chocolate bar yogurt,0,g,0,mg,25,g,6,g,1,g,0,g,0,g,1,g,2,g
+804,menchies frozen yogurt,no sugar added dark chocolate bar yogurt gluten free,0,g,0,mg,25,g,6,g,1,g,0,g,0,g,1,g,2,g
+805,menchies frozen yogurt,no sugar added iced coffee yogurt,0,g,0,mg,25,g,6,g,1,g,0,g,0,g,1,g,2,g
+806,menchies frozen yogurt,no sugar added iced coffee yogurt gluten free,0,g,0,mg,25,g,6,g,1,g,0,g,0,g,1,g,2,g
+807,menchies frozen yogurt,no sugar added pecan praline surprise yogurt,0,g,0,mg,25,g,6,g,1,g,0,g,0,g,1,g,2,g
+808,menchies frozen yogurt,no sugar added pecan praline surprise yogurt gluten free,0,g,0,mg,25,g,6,g,1,g,0,g,0,g,1,g,2,g
+809,menchies frozen yogurt,no sugar added strawberry yogurt,0,g,0,mg,25,g,6,g,1,g,0,g,0,g,1,g,2,g
+810,menchies frozen yogurt,no sugar added strawberry yogurt gluten free,0,g,0,mg,25,g,6,g,1,g,0,g,0,g,1,g,2,g
+811,menchies frozen yogurt,no sugar added very vanilla yogurt,0,g,0,mg,25,g,6,g,1,g,0,g,0,g,1,g,2,g
+812,menchies frozen yogurt,no sugar added very vanilla yogurt gluten free,0,g,0,mg,25,g,6,g,1,g,0,g,0,g,1,g,2,g
+813,menchies frozen yogurt,orange pineapple sorbet,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,6,g
+814,menchies frozen yogurt,orange pineapple sorbet gluten free,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,6,g
+815,menchies frozen yogurt,oreo peanut butter cookie made with peanut butter oreo cookies yogurt,5,g,0,mg,35,g,8,g,1,g,0,g,0,g,0,g,6,g
+816,menchies frozen yogurt,original strawberry yogurt,0,g,0,mg,20,g,7,g,1,g,0,g,0,g,0,g,6,g
+817,menchies frozen yogurt,original strawberry yogurt gluten free,0,g,0,mg,20,g,7,g,1,g,0,g,0,g,0,g,6,g
+818,menchies frozen yogurt,original tart yogurt,0,g,0,mg,35,g,6,g,1,g,0,g,0,g,0,g,5,g
+819,menchies frozen yogurt,original tart yogurt gluten free,0,g,0,mg,35,g,6,g,1,g,0,g,0,g,0,g,5,g
+820,menchies frozen yogurt,peach mango tart yogurt,0,g,0,mg,30,g,7,g,1,g,0,g,0,g,0,g,6,g
+821,menchies frozen yogurt,peach mango tart yogurt gluten free,0,g,0,mg,30,g,7,g,1,g,0,g,0,g,0,g,6,g
+822,menchies frozen yogurt,peppa pigs cotton candy yogurt,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+823,menchies frozen yogurt,peppa pigs cotton candy yogurt gluten free,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+824,menchies frozen yogurt,pomegranate razz sorbet,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,6,g
+825,menchies frozen yogurt,pomegranate razz sorbet gluten free,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,6,g
+826,menchies frozen yogurt,pure chocolate yogurt,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,5,g
+827,menchies frozen yogurt,pure chocolate yogurt gluten free,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,5,g
+828,menchies frozen yogurt,red velvet royale yogurt,0,g,0,mg,45,g,8,g,1,g,0,g,0,g,0,g,6,g
+829,menchies frozen yogurt,reeses peanut butter cup yogurt gluten free,1,g,0,mg,35,g,8,g,1,g,0,g,0,g,0,g,7,g
+830,menchies frozen yogurt,rich n nutty pistachio yogurt,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+831,menchies frozen yogurt,rich n nutty pistachio yogurt gluten free,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+832,menchies frozen yogurt,rockin salted caramel yogurt,0,g,0,mg,55,g,7,g,1,g,0,g,0,g,0,g,6,g
+833,menchies frozen yogurt,rockin salted caramel yogurt gluten free,0,g,0,mg,55,g,7,g,1,g,0,g,0,g,0,g,6,g
+834,menchies frozen yogurt,smores made with hersheys milk chocolate yogurt,0.5,g,0,mg,30,g,8,g,1,g,0,g,0,g,0,g,6,g
+835,menchies frozen yogurt,spiced gingerbread cookie yogurt,0,g,0,mg,35,g,8,g,1,g,0,g,0,g,0,g,6,g
+836,menchies frozen yogurt,sugar cookie spell yogurt,0,g,0,mg,30,g,8,g,1,g,0,g,0,g,0,g,6,g
+837,menchies frozen yogurt,sweet strawberry greek yogurt yogurt,0,g,5,mg,35,g,7,g,2,g,0,g,0,g,0,g,5,g
+838,menchies frozen yogurt,sweet strawberry greek yogurt gluten free,0,g,5,mg,35,g,7,g,2,g,0,g,0,g,0,g,5,g
+839,menchies frozen yogurt,takes the cake batter yogurt,0,g,0,mg,35,g,8,g,1,g,0,g,0,g,0,g,6,g
+840,menchies frozen yogurt,toasty marshmallow yogurt,0,g,0,mg,25,g,8,g,1,g,0,g,0,g,0,g,7,g
+841,menchies frozen yogurt,toasty marshmallow yogurt gluten free,0,g,0,mg,25,g,8,g,1,g,0,g,0,g,0,g,7,g
+842,menchies frozen yogurt,vanilla latte yogurt,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+843,menchies frozen yogurt,vanilla latte yogurt gluten free,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+844,menchies frozen yogurt,vanilla snow and pure chocolate swirl yogurt,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,5,g
+845,menchies frozen yogurt,vanilla snow and pure chocolate swirl yogurt gluten free,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,5,g
+846,menchies frozen yogurt,vanilla snow yogurt,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+847,menchies frozen yogurt,vanilla snow yogurt gluten free,0,g,0,mg,25,g,7,g,1,g,0,g,0,g,0,g,6,g
+848,menchies frozen yogurt,vegan dark chocolate mousse made from almond milk yogurt gluten free,1,g,0,mg,10,g,9,g,0,g,0,g,0,g,0,g,5,g
+849,menchies frozen yogurt,vegan fresh honeydew sorbet,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,5,g
+850,menchies frozen yogurt,vegan fresh honeydew sorbet gluten free,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,5,g
+851,menchies frozen yogurt,vegan fudgy chocolate sorbet,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,1,g,5,g
+852,menchies frozen yogurt,vegan fudgy chocolate sorbet gluten free,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,1,g,5,g
+853,menchies frozen yogurt,vegan mint chocolate chip made with almond butter yogurt gluten free,0.5,g,0,mg,10,g,9,g,0,g,0,g,0,g,0,g,5,g
+854,menchies frozen yogurt,vegan paradise fruit punch sorbet,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,5,g
+855,menchies frozen yogurt,vegan paradise fruit punch sorbet gluten free,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,5,g
+856,menchies frozen yogurt,vegan pink lemonade sorbet,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,6,g
+857,menchies frozen yogurt,vegan pink lemonade sorbet gluten free,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,6,g
+858,menchies frozen yogurt,vegan simply mango sorbet,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,5,g
+859,menchies frozen yogurt,vegan simply mango sorbet gluten free,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,5,g
+860,menchies frozen yogurt,vegan strawberry smoothie sorbet,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,5,g
+861,menchies frozen yogurt,vegan strawberry smoothie sorbet gluten free,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,5,g
+862,menchies frozen yogurt,vegan summertime watermelon sorbet,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,5,g
+863,menchies frozen yogurt,vegan summertime watermelon sorbet gluten free,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,5,g
+864,menchies frozen yogurt,wild cherry sorbet with a splash of lime,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,6,g
+865,menchies frozen yogurt,wild cherry sorbet with a splash of lime gluten free,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,6,g
+866,milios sandwiches,east coast hots,0,g,0,mg,560,g,0,g,0,g,0,g,0,g,0,g,0,g
+867,milios sandwiches,yellow mustard,0,g,0,mg,99,g,1,g,0,g,0,g,0,g,0,g,0,g
+868,milios sandwiches,oil and vinegar,18,g,0,mg,0,g,0,g,0,g,3,g,0,g,0,g,0,g
+869,milios sandwiches,pesto,3,g,2,mg,61,g,0,g,1,g,0,g,0,g,0,g,0,g
+870,milios sandwiches,mayonnaise,16.9,g,8,mg,152,g,0,g,0,g,3.4,g,0,g,0,g,0,g
+871,milios sandwiches,dill spread iowa,20,g,10,mg,180,g,0,g,0,g,4,g,0,g,0,g,0,g
+872,milios sandwiches,light mayonnaise,4,g,0,mg,170,g,0,g,0,g,0,g,0,g,0,g,0,g
+873,milios sandwiches,dijon mustard,0,g,0,mg,120,g,1,g,0,g,0,g,0,g,0,g,0,g
+874,milios sandwiches,musselmans applesauce,0,g,0,mg,10,g,12,g,0,g,0,g,0,g,2,g,8,g
+875,milios sandwiches,oatmeal raisin cookie,13,g,25,mg,260,g,47,g,4,g,6,g,0,g,2,g,20,g
+876,milios sandwiches,white chocolate macadamia nut cookie,19,g,25,mg,260,g,44,g,4,g,10,g,0,g,1,g,19,g
+877,milios sandwiches,salted caramel chocolate chunk cookie,15,g,20,mg,360,g,49,g,4,g,8,g,0,g,1,g,32,g
+878,milios sandwiches,kids 4 pilgrims pride meal with applesauce and milk,16,g,65,mg,985,g,53,g,24,g,5,g,0,g,5,g,21,g
+879,milios sandwiches,kids 6 veggie delite meal with applesauce and milk,27,g,45,mg,745,g,55,g,22,g,11,g,0,g,6,g,21,g
+880,milios sandwiches,kids 1 american favorite with applesauce and milk,22,g,55,mg,1125,g,54,g,25,g,9,g,0,g,5,g,22,g
+881,milios sandwiches,low arb flour tortilla,7,g,0,mg,770,g,43,g,14,g,3,g,0,g,6,g,1,g
+882,milios sandwiches,tuna salad,15,g,30,mg,430,g,0,g,13,g,2,g,0,g,1,g,1,g
+883,milios sandwiches,wheat sub roll,2,g,0,mg,452,g,44,g,10,g,1,g,0,g,3,g,2,g
+884,milios sandwiches,alfalfa sprouts,0,g,0,mg,1,g,0,g,0,g,0,g,0,g,0,g,0,g
+885,milios sandwiches,garlic herb flour tortilla,9,g,0,mg,800,g,47,g,9,g,2,g,0,g,1,g,3,g
+886,milios sandwiches,guacamole,6,g,0,mg,139,g,2,g,2,g,2,g,0,g,2,g,0,g
+887,milios sandwiches,french sub roll,2,g,0,mg,595,g,53,g,11,g,2,g,0,g,4,g,0,g
+888,milios sandwiches,iceberg lettuce wrap,0,g,0,mg,2,g,0,g,0,g,0,g,0,g,0,g,0,g
+889,milios sandwiches,wheat bread,3.3,g,0,mg,442,g,46,g,10,g,0,g,0,g,3.3,g,3.3,g
+890,milios sandwiches,provolone cheese,8,g,20,mg,150,g,0,g,7,g,5,g,0,g,0,g,0,g
+891,milios sandwiches,roast turkey,1,g,41,mg,456,g,0,g,10,g,0,g,0,g,0,g,0,g
+892,milios sandwiches,roast chicken breast,1,g,26,mg,456,g,1,g,11,g,0,g,0,g,0,g,0,g
+893,milios sandwiches,applewood smoked bacon,7,g,15,mg,230,g,0,g,5,g,2,g,0,g,0,g,0,g
+894,milios sandwiches,lettuce,0,g,0,mg,5,g,2,g,1,g,0,g,0,g,1,g,1,g
+895,milios sandwiches,jalapeno cheese flour tortilla,10,g,0,mg,1010,g,48,g,8,g,2,g,0,g,5,g,3,g
+896,milios sandwiches,onions,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+897,milios sandwiches,salami and caicola,12,g,39,mg,789,g,2,g,10,g,4,g,0,g,0,g,1,g
+898,milios sandwiches,spinach,0,g,0,mg,23,g,1,g,1,g,0,g,0,g,0,g,1,g
+899,milios sandwiches,wisconsin cheddar cheese,9,g,30,mg,180,g,0,g,7,g,6,g,0,g,0,g,0,g
+900,milios sandwiches,tomatoes,0,g,0,mg,2,g,1,g,1,g,0,g,0,g,0,g,1,g
+901,milios sandwiches,5 the godfather sub 8 on french bread,39.5,g,61,mg,1603,g,58,g,30,g,13,g,0,g,1,g,1,g
+902,milios sandwiches,11 turkey ham and cheese sub 8 on french bread,31.5,g,82,mg,1937,g,55,g,36,g,8,g,0,g,1,g,2,g
+903,milios sandwiches,4 pilgrims pride sub 8 on french bread,22.5,g,40,mg,1219,g,56,g,22.5,g,3,g,0,g,1,g,2,g
+904,milios sandwiches,3 charlie the tuna sub 8 on french bread,25.8,g,49,mg,1294,g,60,g,29.5,g,3.4,g,0,g,2.4,g,3,g
+905,milios sandwiches,13 turkey classic sub 8 on french bread,30,g,61,mg,1447,g,56,g,29,g,7.5,g,0,g,1,g,2,g
+906,milios sandwiches,9 italian club sub 8 on french bread,63,g,92,mg,2273,g,58,g,37,g,16.5,g,0,g,1,g,1,g
+907,milios sandwiches,1 american favorite sub 8 on french bread,31,g,52,mg,1437,g,54,g,26,g,8,g,0,g,1,g,1,g
+908,milios sandwiches,12 the californian sub 8 on french bread,41.5,g,82,mg,1837,g,59,g,35.5,g,13,g,0,g,1,g,3,g
+909,milios sandwiches,15 cheddar beef classic sub 8 on french bread,25,g,55,mg,1105,g,58,g,30.5,g,8,g,0,g,1,g,1,g
+910,milios sandwiches,14 honey mustard chicken sub 8 on french bread,3,g,32,mg,1266,g,61.2,g,26.7,g,0.5,g,0,g,1,g,6.5,g
+911,milios sandwiches,8 big steer sub 8 on french bread,33,g,77,mg,1905,g,56.5,g,37,g,9,g,0,g,1,g,1,g
+912,milios sandwiches,16 chicken bacon club sub 8 on french bread,27,g,60,mg,1536,g,55.2,g,30.7,g,5,g,0,g,1,g,1,g
+913,milios sandwiches,17 milios classic sub 8 on french bread,31,g,81,mg,2189,g,56.5,g,36.5,g,7.5,g,0,g,1,g,2,g
+914,milios sandwiches,6 veggie delite sub 8 on french bread,33.5,g,31,mg,1109,g,58,g,19,g,8.5,g,0,g,1,g,2,g
+915,milios sandwiches,2 texas longhorn sub 8 on french bread,24,g,35,mg,1019,g,55,g,23.5,g,4,g,0,g,1,g,1,g
+916,milios sandwiches,chocolate chip cookie,17,g,25,mg,250,g,47,g,4,g,9,g,0,g,2,g,20,g
+917,milios sandwiches,reeses pieces cookie,20,g,25,mg,330,g,42,g,6,g,8,g,0,g,2,g,19,g
+918,milios sandwiches,whole kosher pickle,0,g,0,mg,1500,g,5,g,0,g,0,g,0,g,0,g,0,g
+919,milios sandwiches,chicken and brown rice soup,12,g,15,mg,740,g,19,g,6,g,3,g,0,g,1,g,3,g
+920,milios sandwiches,cream of potato soup with bacon,10,g,20,mg,940,g,18,g,4,g,4,g,0,g,1,g,4,g
+921,milios sandwiches,hearty beef and chili with beans,8,g,30,mg,850,g,17,g,12,g,4,g,1,g,4,g,6,g
+922,milios sandwiches,roadhouse chili bowl,15,g,30,mg,1695,g,30,g,19.5,g,6,g,0,g,7.5,g,10.5,g
+923,milios sandwiches,southwestern cheesy chicken soup,5,g,15,mg,1350,g,12,g,7,g,2,g,0,g,1,g,11,g
+924,milios sandwiches,golden broccoli cheese soup,14,g,20,mg,950,g,10,g,5,g,5,g,0,g,1,g,3,g
+925,milios sandwiches,1 american favorite,32,g,50,mg,1450,g,58,g,27,g,10,g,0,g,5,g,3,g
+926,milios sandwiches,10 double beef and cheese,34,g,90,mg,1600,g,57,g,44,g,11,g,0,g,5,g,2,g
+927,milios sandwiches,11 turkey ham and cheese,32,g,90,mg,1910,g,58,g,37,g,10,g,0,g,5,g,3,g
+928,milios sandwiches,12 the californian,44,g,90,mg,1680,g,60,g,39,g,16,g,0,g,7,g,2,g
+929,milios sandwiches,13 turkey classic,30,g,70,mg,1390,g,57,g,30,g,9,g,0,g,5,g,2,g
+930,milios sandwiches,14 chicken pesto italiano,26,g,40,mg,1320,g,56,g,25,g,4,g,0,g,4,g,2,g
+931,milios sandwiches,15 turkey bacon guac,15,g,55,mg,1500,g,57,g,30,g,4,g,0,g,6,g,2,g
+932,milios sandwiches,16 chicken bacon club,30,g,50,mg,1470,g,57,g,29,g,6,g,0,g,5,g,2,g
+933,milios sandwiches,17 milios classic,33,g,100,mg,2390,g,59,g,37,g,11,g,0,g,5,g,3,g
+934,milios sandwiches,2 texas longhorn,24,g,40,mg,1110,g,56,g,25,g,5,g,0,g,5,g,2,g
+935,milios sandwiches,3 the big katuna,14,g,30,mg,1030,g,58,g,26,g,2,g,0,g,6,g,3,g
+936,milios sandwiches,4 pilgrims pride,22,g,50,mg,1240,g,56,g,23,g,4,g,0,g,5,g,2,g
+937,milios sandwiches,5 the godfather,41,g,60,mg,1540,g,61,g,30,g,12,g,0,g,5,g,4,g
+938,milios sandwiches,6 veggie delite,36,g,30,mg,1070,g,59,g,22,g,11,g,0,g,7,g,2,g
+939,milios sandwiches,7 bblt,40,g,50,mg,1360,g,56,g,26,g,9,g,0,g,5,g,2,g
+940,milios sandwiches,8 big steer,34,g,80,mg,1900,g,58,g,39,g,11,g,0,g,5,g,3,g
+941,milios sandwiches,9 italian club,63,g,90,mg,2240,g,62,g,37,g,17,g,0,g,5,g,5,g
+942,milios sandwiches,chicken with brown and wild rice soup bowl,18,g,25,mg,1110,g,29,g,9,g,5,g,0,g,2,g,5,g
+943,milios sandwiches,chicken with brown and wild rice soup cup,12,g,15,mg,740,g,19,g,6,g,3,g,0,g,1,g,3,g
+944,milios sandwiches,cream of potato with bacon soup bowl,15,g,30,mg,1290,g,27,g,6,g,5,g,0,g,2,g,6,g
+945,milios sandwiches,cream of potato with bacon soup cup,10,g,20,mg,860,g,18,g,4,g,4,g,0,g,1,g,4,g
+946,milios sandwiches,extra cheese provolone cheese,8,g,20,mg,150,g,0,g,7,g,5,g,0,g,0,g,0,g
+947,milios sandwiches,extra cheese wisconsin cheddar cheese,9,g,30,mg,180,g,0,g,7,g,6,g,0,g,0,g,0,g
+948,milios sandwiches,extra meat applewood smoked bacon,7,g,15,mg,230,g,0,g,5,g,2,g,0,g,0,g,0,g
+949,milios sandwiches,extra meat roast beef,2,g,30,mg,330,g,0,g,12,g,1,g,0,g,0,g,0,g
+950,milios sandwiches,extra meat roast chicken breast,1,g,25,mg,460,g,1,g,11,g,0,g,0,g,0,g,0,g
+951,milios sandwiches,extra meat roast turkey,0,g,40,mg,460,g,0,g,10,g,0,g,0,g,0,g,0,g
+952,milios sandwiches,extra meat salami and capicola,12,g,40,mg,790,g,2,g,10,g,4,g,0,g,0,g,1,g
+953,milios sandwiches,extra meat smoked ham,2,g,20,mg,520,g,1,g,7,g,1,g,0,g,0,g,1,g
+954,milios sandwiches,extra meat tuna salad,14,g,30,mg,430,g,0,g,13,g,2,g,0,g,1,g,1,g
+955,milios sandwiches,french sub roll,2,g,0,mg,600,g,53,g,11,g,0,g,0,g,4,g,0,g
+956,milios sandwiches,garlic herb flour tortilla,9,g,0,mg,800,g,47,g,9,g,2,g,0,g,1,g,3,g
+957,milios sandwiches,golden broccoli and cheese soup bowl,21,g,30,mg,1430,g,15,g,8,g,8,g,0,g,2,g,5,g
+958,milios sandwiches,golden broccoli and cheese soup cup,14,g,20,mg,950,g,10,g,5,g,5,g,0,g,1,g,3,g
+959,milios sandwiches,half sandwich combo 1 american favorite,17,g,35,mg,990,g,29,g,17,g,6,g,0,g,3,g,2,g
+960,milios sandwiches,half sandwich combo 2 texas longhorn,13,g,35,mg,720,g,28,g,18,g,3,g,0,g,3,g,1,g
+961,milios sandwiches,half sandwich combo 3 the big katuna,15,g,30,mg,730,g,28,g,19,g,2,g,0,g,4,g,2,g
+962,milios sandwiches,half sandwich combo 4 pilgrims pride,11,g,45,mg,850,g,28,g,16,g,2,g,0,g,3,g,1,g
+963,milios sandwiches,half sandwich combo 5 the godfather,27,g,50,mg,1160,g,31,g,20,g,8,g,0,g,3,g,2,g
+964,milios sandwiches,half sandwich combo 6 veggie delite,22,g,25,mg,610,g,30,g,14,g,8,g,0,g,4,g,1,g
+965,milios sandwiches,hearty beef chili with beans soup bowl,12,g,45,mg,1280,g,26,g,18,g,5,g,1,g,6,g,9,g
+966,milios sandwiches,hearty beef chili with beans soup cup,8,g,30,mg,850,g,17,g,12,g,4,g,1,g,4,g,6,g
+967,milios sandwiches,iceberg lettuce wrap,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+968,milios sandwiches,jalapeno cheese flour tortilla,10,g,0,mg,1010,g,48,g,8,g,2,g,0,g,5,g,3,g
+969,milios sandwiches,kids meal 1 american favorite,22,g,55,mg,1130,g,54,g,25,g,9,g,0,g,5,g,22,g
+970,milios sandwiches,kids meal 4 pilgrims pride,16,g,65,mg,990,g,53,g,24,g,5,g,0,g,5,g,21,g
+971,milios sandwiches,kids meal 6 veggie delite,27,g,45,mg,750,g,55,g,22,g,11,g,0,g,6,g,21,g
+972,milios sandwiches,low carb flour tortilla,7,g,0,mg,770,g,43,g,14,g,3,g,0,g,6,g,1,g
+973,milios sandwiches,sandwich style wheat bread 2 slices,3,g,0,mg,440,g,46,g,10,g,0,g,0,g,3,g,3,g
+974,milios sandwiches,sandwich style wheat bread 3 slices,5,g,0,mg,660,g,69,g,15,g,0,g,0,g,5,g,5,g
+975,milios sandwiches,sauces and extras dijon mustard,0,g,0,mg,120,g,0,g,0,g,0,g,0,g,0,g,0,g
+976,milios sandwiches,sauces and extras dill spread,20,g,10,mg,180,g,0,g,0,g,4,g,0,g,0,g,0,g
+977,milios sandwiches,sauces and extras east coast hots,0,g,0,mg,560,g,0,g,0,g,0,g,0,g,0,g,0,g
+978,milios sandwiches,sauces and extras guacamole,6,g,0,mg,140,g,2,g,2,g,2,g,0,g,2,g,0,g
+979,milios sandwiches,sauces and extras light mayonnaise,4,g,0,mg,170,g,0,g,0,g,0,g,0,g,0,g,0,g
+980,milios sandwiches,sauces and extras mayonnaise,20,g,10,mg,180,g,0,g,0,g,4,g,0,g,0,g,0,g
+981,milios sandwiches,sauces and extras mayonnaise side,16,g,5,mg,140,g,0,g,0,g,2,g,0,g,0,g,0,g
+982,milios sandwiches,sauces and extras oil and vinegar,19,g,0,mg,0,g,0,g,0,g,3,g,0,g,0,g,0,g
+983,milios sandwiches,sauces and extras pesto,3,g,5,mg,60,g,0,g,1,g,0,g,0,g,0,g,0,g
+984,milios sandwiches,sauces and extras yellow mustard,0,g,0,mg,100,g,1,g,0,g,0,g,0,g,0,g,0,g
+985,milios sandwiches,skinny 1 american favorite,12,g,40,mg,1520,g,77,g,29,g,6,g,0,g,5,g,1,g
+986,milios sandwiches,skinny 10 double beef and cheese,14,g,80,mg,1660,g,76,g,46,g,7,g,0,g,5,g,0,g
+987,milios sandwiches,skinny 11 turkey ham and cheese,12,g,80,mg,1980,g,77,g,39,g,6,g,0,g,5,g,1,g
+988,milios sandwiches,skinny 12 the californian,24,g,80,mg,1740,g,79,g,41,g,12,g,0,g,7,g,0,g
+989,milios sandwiches,skinny 13 turkey classic,10,g,60,mg,1460,g,76,g,32,g,5,g,0,g,5,g,2,g
+990,milios sandwiches,skinny 14 chicken pesto italiano,4,g,25,mg,1310,g,76,g,26,g,0,g,0,g,5,g,0,g
+991,milios sandwiches,skinny 15 turkey bacon guac,15,g,55,mg,1680,g,77,g,32,g,4,g,0,g,7,g,2,g
+992,milios sandwiches,skinny 16 chicken bacon club,10,g,40,mg,1540,g,76,g,31,g,2,g,0,g,5,g,0,g
+993,milios sandwiches,skinny 17 milios classic,13,g,90,mg,2460,g,78,g,39,g,7,g,0,g,5,g,1,g
+994,milios sandwiches,skinny 2 texas longhorn,5,g,30,mg,1180,g,75,g,27,g,1,g,0,g,5,g,0,g
+995,milios sandwiches,skinny 3 the big katuna,15,g,30,mg,1280,g,75,g,28,g,2,g,0,g,6,g,0,g
+996,milios sandwiches,skinny 4 pilgrims pride,3,g,40,mg,1310,g,75,g,25,g,0,g,0,g,5,g,0,g
+997,milios sandwiches,skinny 5 the godfather,22,g,60,mg,1790,g,78,g,32,g,9,g,0,g,5,g,1,g
+998,milios sandwiches,skinny 6 veggie delite,16,g,20,mg,1140,g,78,g,24,g,7,g,0,g,7,g,0,g
+999,milios sandwiches,skinny 7 bblt,20,g,40,mg,1420,g,75,g,28,g,5,g,0,g,5,g,1,g

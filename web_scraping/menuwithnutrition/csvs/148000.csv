@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,ritas,misto root beer ice flavor large portion,0,g,0,mg,65,g,107,g,0,g,0,g,0,g,0,g,104,g
+1,ritas,misto root beer ice flavor small portion,0,g,0,mg,45,g,74,g,0,g,0,g,0,g,0,g,72,g
+2,ritas,misto smores ice flavor large portion,7,g,0,mg,110,g,132,g,1,g,6,g,0,g,1,g,126,g
+3,ritas,misto smores ice flavor small portion,5,g,0,mg,80,g,94,g,1,g,4,g,0,g,1,g,90,g
+4,ritas,misto salted carmel custard flavor large portion,10,g,65,mg,110,g,20,g,4,g,6,g,0,g,0,g,18,g
+5,ritas,misto salted carmel custard flavor small portion,7,g,50,mg,80,g,15,g,3,g,4.5,g,0,g,0,g,13,g
+6,ritas,misto sour patch kids red ice flavor large portion,0,g,0,mg,65,g,113,g,0,g,0,g,0,g,0,g,111,g
+7,ritas,misto sour patch kids red ice flavor small portion,0,g,0,mg,45,g,79,g,0,g,0,g,0,g,0,g,77,g
+8,ritas,misto strawberry cheesecake ice flavor large portion,6,g,5,mg,120,g,119,g,1,g,5,g,0,g,0,g,113,g
+9,ritas,misto strawberry cheesecake ice flavor small portion,4,g,5,mg,85,g,85,g,1,g,4,g,0,g,0,g,80,g
+10,ritas,misto strawberry colada ice flavor large portion,0,g,0,mg,65,g,118,g,0,g,0,g,0,g,0,g,114,g
+11,ritas,misto strawberry colada ice flavor small portion,0,g,0,mg,45,g,82,g,0,g,0,g,0,g,0,g,79,g
+12,ritas,misto strawberry custard flavor large portion,10,g,65,mg,110,g,21,g,4,g,6,g,0,g,0,g,18,g
+13,ritas,misto strawberry custard flavor small portion,7,g,50,mg,80,g,15,g,3,g,4.5,g,0,g,0,g,13,g
+14,ritas,misto strawberry ice flavor large portion,0,g,0,mg,70,g,108,g,0,g,0,g,0,g,0,g,104,g
+15,ritas,misto strawberry ice flavor small portion,0,g,0,mg,50,g,75,g,0,g,0,g,0,g,0,g,72,g
+16,ritas,misto strawberry lemonade ice flavor large portion,0,g,0,mg,60,g,103,g,0,g,0,g,0,g,0,g,97,g
+17,ritas,misto strawberry lemonade ice flavor small portion,0,g,0,mg,45,g,71,g,0,g,0,g,0,g,0,g,67,g
+18,ritas,misto strawberry margarita ice flavor large portion,0,g,0,mg,75,g,116,g,0,g,0,g,0,g,0,g,111,g
+19,ritas,misto strawberry margarita ice flavor small portion,0,g,0,mg,50,g,80,g,0,g,0,g,0,g,0,g,77,g
+20,ritas,misto strawberry watermelon ice flavor large portion,0,g,0,mg,65,g,110,g,0,g,0,g,0,g,0,g,106,g
+21,ritas,misto strawberry watermelon ice flavor small portion,0,g,0,mg,45,g,76,g,0,g,0,g,0,g,0,g,74,g
+22,ritas,misto strawberry banana ice flavor large portion,5,g,0,mg,105,g,122,g,1,g,5,g,0,g,0,g,115,g
+23,ritas,misto strawberry banana ice flavor small portion,4,g,0,mg,75,g,87,g,0,g,4,g,0,g,0,g,82,g
+24,ritas,misto sugar free cherry ice flavor large portion,0,g,0,mg,40,g,71,g,1,g,0,g,0,g,0,g,0,g
+25,ritas,misto sugar free cherry ice flavor small portion,0,g,0,mg,30,g,50,g,0,g,0,g,0,g,0,g,0,g
+26,ritas,misto sugar free dragon fruit ice flavor large portion,0,g,0,mg,50,g,93,g,0,g,0,g,0,g,0,g,0,g
+27,ritas,misto sugar free dragon fruit ice flavor small portion,0,g,0,mg,35,g,66,g,0,g,0,g,0,g,0,g,0,g
+28,ritas,misto sugar free mango peach ice flavor large portion,0,g,0,mg,40,g,67,g,0,g,0,g,0,g,0,g,0,g
+29,ritas,misto sugar free mango peach ice flavor small portion,0,g,0,mg,30,g,48,g,0,g,0,g,0,g,0,g,0,g
+30,ritas,misto sugar free pineapple ice flavor large portion,0,g,0,mg,50,g,65,g,0,g,0,g,0,g,0,g,0,g
+31,ritas,misto sugar free pineapple ice flavor small portion,0,g,0,mg,35,g,46,g,0,g,0,g,0,g,0,g,0,g
+32,ritas,misto sugar free root beer ice flavor large portion,0,g,0,mg,55,g,71,g,0,g,0,g,0,g,1,g,1,g
+33,ritas,misto sugar free root beer ice flavor small portion,0,g,0,mg,40,g,50,g,0,g,0,g,0,g,1,g,0,g
+34,ritas,misto sugar free tangerine ice flavor large portion,0,g,0,mg,60,g,71,g,0,g,0,g,0,g,0,g,0,g
+35,ritas,misto sugar free tangerine ice flavor small portion,0,g,0,mg,45,g,50,g,0,g,0,g,0,g,0,g,0,g
+36,ritas,misto swedish fish ice flavor large portion,0,g,0,mg,115,g,130,g,0,g,0,g,0,g,0,g,126,g
+37,ritas,misto swedish fish ice flavor small portion,0,g,0,mg,80,g,90,g,0,g,0,g,0,g,0,g,87,g
+38,ritas,misto tropical daiquiri ice flavor large portion,1,g,0,mg,70,g,123,g,0,g,1,g,0,g,0,g,119,g
+39,ritas,misto tropical daiquiri ice flavor small portion,1,g,0,mg,50,g,85,g,0,g,0,g,0,g,0,g,82,g
+40,ritas,misto tropical punch ice flavor large portion,0,g,0,mg,70,g,111,g,0,g,0,g,0,g,0,g,106,g
+41,ritas,misto tropical punch ice flavor small portion,0,g,0,mg,45,g,77,g,0,g,0,g,0,g,0,g,74,g
+42,ritas,misto unicorn ice flavor large portion,0,g,0,mg,200,g,112,g,0,g,0,g,0,g,0,g,102,g
+43,ritas,misto unicorn ice flavor small portion,0,g,0,mg,135,g,77,g,0,g,0,g,0,g,0,g,70,g
+44,ritas,misto vanilla cream ice flavor large portion,5,g,0,mg,110,g,104,g,0,g,5,g,0,g,0,g,99,g
+45,ritas,misto vanilla cream ice flavor small portion,4,g,0,mg,80,g,74,g,0,g,3,g,0,g,0,g,70,g
+46,ritas,misto vanilla custard flavor large portion,10,g,70,mg,115,g,20,g,4,g,6,g,0,g,0,g,17,g
+47,ritas,misto vanilla custard flavor small portion,7,g,50,mg,80,g,14,g,3,g,4.5,g,0,g,0,g,12,g
+48,ritas,misto vanilla ice flavor large portion,0,g,0,mg,70,g,104,g,0,g,0,g,0,g,0,g,100,g
+49,ritas,misto vanilla ice flavor small portion,0,g,0,mg,45,g,72,g,0,g,0,g,0,g,0,g,70,g
+50,ritas,misto watermelon chip ice flavor large portion,9,g,0,mg,110,g,130,g,1,g,7,g,0,g,1,g,122,g
+51,ritas,misto watermelon chip ice flavor small portion,6,g,0,mg,80,g,93,g,1,g,5,g,0,g,1,g,87,g
+52,ritas,misto watermelon ice flavor large portion,0,g,0,mg,65,g,120,g,0,g,0,g,0,g,0,g,116,g
+53,ritas,misto watermelon ice flavor small portion,0,g,0,mg,45,g,83,g,0,g,0,g,0,g,0,g,80,g
+54,ritas,misto wild berry ice flavor large portion,0,g,0,mg,65,g,118,g,0,g,0,g,0,g,1,g,113,g
+55,ritas,misto wild berry ice flavor small portion,0,g,0,mg,45,g,82,g,0,g,0,g,0,g,0,g,79,g
+56,ritas,misto wild black cherry ice flavor large portion,0,g,0,mg,45,g,105,g,1,g,0,g,0,g,0,g,97,g
+57,ritas,misto wild black cherry ice flavor small portion,0,g,0,mg,30,g,73,g,1,g,0,g,0,g,0,g,67,g
+58,ritas,misto zombies blood ice flavor large portion,0,g,0,mg,65,g,86,g,0,g,0,g,0,g,0,g,81,g
+59,ritas,misto zombies blood ice flavor small portion,0,g,0,mg,45,g,60,g,0,g,0,g,0,g,0,g,56,g
+60,ritas,mocha ice ice flight portion,1,g,0,mg,40,g,21,g,0,g,1,g,0,g,0,g,19,g
+61,ritas,mocha ice kids portion,3,g,0,mg,95,g,50,g,1,g,2,g,0,g,0,g,46,g
+62,ritas,mocha ice large portion,5,g,0,mg,210,g,110,g,1,g,5,g,0,g,1,g,101,g
+63,ritas,mocha ice quart portion,9,g,0,mg,380,g,194,g,2,g,8,g,0,g,2,g,179,g
+64,ritas,mocha ice small portion,3,g,0,mg,130,g,68,g,1,g,3,g,0,g,1,g,63,g
+65,ritas,mojito ice ice flight portion,0,g,0,mg,15,g,14,g,0,g,0,g,0,g,0,g,13,g
+66,ritas,mojito ice kids portion,0,g,0,mg,30,g,34,g,0,g,0,g,0,g,0,g,31,g
+67,ritas,mojito ice large portion,0,g,0,mg,70,g,74,g,0,g,0,g,0,g,0,g,69,g
+68,ritas,mojito ice quart portion,0,g,0,mg,120,g,131,g,0,g,0,g,0,g,0,g,121,g
+69,ritas,mojito ice small portion,0,g,0,mg,45,g,46,g,0,g,0,g,0,g,0,g,43,g
+70,ritas,orange cream pint,35,g,240,mg,410,g,75,g,13,g,23,g,0,g,0,g,65,g
+71,ritas,orange milkshake large,36,g,235,mg,440,g,97,g,16,g,23,g,0,g,0,g,87,g
+72,ritas,orange milkshake small,26,g,170,mg,320,g,66,g,11,g,16,g,0,g,0,g,58,g
+73,ritas,orange sundae kids portion,8,g,50,mg,85,g,16,g,3,g,5,g,0,g,0,g,14,g
+74,ritas,orange sundae large portion,18,g,120,mg,200,g,37,g,6,g,11,g,0,g,0,g,32,g
+75,ritas,orange sundae regular portion,14,g,95,mg,160,g,29,g,5,g,9,g,0,g,0,g,25,g
+76,ritas,oreo cookie n cream milkshake small,32,g,175,mg,480,g,84,g,13,g,18,g,0,g,0,g,69,g
+77,ritas,oreo cookies n cream milkshake large,47,g,245,mg,760,g,135,g,18,g,26,g,0,g,0,g,108,g
+78,ritas,passion fruit ice ice flight portion,0,g,0,mg,15,g,28,g,0,g,0,g,0,g,0,g,27,g
+79,ritas,passion fruit ice kids portion,0,g,0,mg,30,g,67,g,0,g,0,g,0,g,0,g,64,g
+80,ritas,passion fruit ice large portion,0,g,0,mg,65,g,147,g,0,g,0,g,0,g,0,g,142,g
+81,ritas,passion fruit ice quart portion,0,g,0,mg,115,g,260,g,0,g,0,g,0,g,0,g,251,g
+82,ritas,passion fruit ice small portion,0,g,0,mg,40,g,91,g,0,g,0,g,0,g,0,g,88,g
+83,ritas,peppermint chip ice ice flight portion,2,g,0,mg,20,g,23,g,0,g,1,g,0,g,0,g,21,g
+84,ritas,peppermint chip ice large portion,8,g,0,mg,110,g,118,g,1,g,7,g,0,g,0,g,112,g
+85,ritas,peppermint chip ice quart portion,15,g,0,mg,200,g,209,g,2,g,12,g,0,g,0,g,198,g
+86,ritas,peppermint chip ice small portion,5,g,0,mg,70,g,73,g,1,g,4,g,0,g,0,g,69,g
+87,ritas,pina colada ice ice flight portion,0,g,0,mg,10,g,21,g,0,g,0,g,0,g,0,g,20,g
+88,ritas,pina colada ice kids portion,0,g,0,mg,30,g,49,g,0,g,0,g,0,g,0,g,47,g
+89,ritas,pina colada ice large portion,1,g,0,mg,65,g,108,g,0,g,0,g,0,g,0,g,104,g
+90,ritas,pina colada ice quart portion,2,g,0,mg,115,g,192,g,0,g,0,g,0,g,0,g,184,g
+91,ritas,pina colada ice small portion,1,g,0,mg,40,g,67,g,0,g,0,g,0,g,0,g,64,g
+92,ritas,pineapple ice ice flight portion,0,g,0,mg,10,g,19,g,0,g,0,g,0,g,0,g,18,g
+93,ritas,pineapple ice kids portion,0,g,0,mg,30,g,44,g,0,g,0,g,0,g,0,g,43,g
+94,ritas,pineapple ice large portion,0,g,0,mg,60,g,98,g,0,g,0,g,0,g,0,g,95,g
+95,ritas,pineapple ice quart portion,0,g,0,mg,110,g,174,g,0,g,0,g,0,g,0,g,168,g
+96,ritas,pineapple ice small portion,0,g,0,mg,40,g,61,g,0,g,0,g,0,g,0,g,59,g
+97,ritas,pistachio sundae regular portion,14,g,95,mg,160,g,29,g,5,g,9,g,0,g,0,g,25,g
+98,ritas,pumpkin cheesecake ice ice flight portion,1,g,0,mg,15,g,19,g,0,g,1,g,0,g,0,g,18,g
+99,ritas,pumpkin cheesecake ice kids portion,2,g,0,mg,30,g,46,g,0,g,2,g,0,g,0,g,42,g
+100,ritas,pumpkin cheesecake ice large portion,5,g,0,mg,65,g,101,g,1,g,5,g,0,g,0,g,94,g
+101,ritas,pumpkin cheesecake ice quart portion,9,g,5,mg,120,g,178,g,2,g,8,g,0,g,0,g,166,g
+102,ritas,pumpkin cheesecake ice small portion,3,g,0,mg,40,g,62,g,1,g,3,g,0,g,0,g,58,g
+103,ritas,pumpkin milkshake large,35,g,235,mg,440,g,100,g,16,g,22,g,0,g,0,g,89,g
+104,ritas,pumpkin milkshake small,26,g,170,mg,320,g,68,g,11,g,16,g,0,g,0,g,60,g
+105,ritas,pumpkin pie ice ice flight portion,1,g,0,mg,20,g,17,g,0,g,1,g,0,g,0,g,16,g
+106,ritas,pumpkin pie ice kids portion,2,g,0,mg,50,g,42,g,0,g,2,g,0,g,0,g,38,g
+107,ritas,pumpkin pie ice large portion,5,g,0,mg,105,g,92,g,1,g,5,g,0,g,1,g,84,g
+108,ritas,pumpkin pie ice quart portion,9,g,0,mg,190,g,162,g,2,g,8,g,0,g,1,g,149,g
+109,ritas,pumpkin pie ice small portion,3,g,0,mg,65,g,57,g,1,g,3,g,0,g,1,g,52,g
+110,ritas,pumpkin pint,35,g,240,mg,410,g,78,g,13,g,22,g,0,g,0,g,68,g
+111,ritas,pumpkin spice latte ice ice flight portion,1,g,0,mg,35,g,18,g,0,g,1,g,0,g,0,g,17,g
+112,ritas,pumpkin spice latte ice kids portion,3,g,0,mg,85,g,43,g,0,g,3,g,0,g,0,g,40,g
+113,ritas,pumpkin spice latte ice large portion,6,g,0,mg,190,g,94,g,1,g,5,g,0,g,0,g,88,g
+114,ritas,pumpkin spice latte ice quart portion,10,g,0,mg,330,g,167,g,2,g,9,g,0,g,1,g,155,g
+115,ritas,pumpkin spice latte ice small portion,4,g,0,mg,115,g,58,g,1,g,3,g,0,g,0,g,54,g
+116,ritas,pumpkin sundae kids portion,8,g,50,mg,85,g,17,g,3,g,5,g,0,g,0,g,14,g
+117,ritas,pumpkin sundae large portion,17,g,120,mg,200,g,38,g,6,g,11,g,0,g,0,g,33,g
+118,ritas,pumpkin sundae regular portion,14,g,95,mg,160,g,30,g,5,g,9,g,0,g,0,g,26,g
+119,ritas,raspberry ice ice flight portion,0,g,0,mg,10,g,20,g,0,g,0,g,0,g,0,g,19,g
+120,ritas,raspberry ice kids portion,0,g,0,mg,30,g,48,g,0,g,0,g,0,g,0,g,46,g
+121,ritas,raspberry ice large portion,0,g,0,mg,60,g,107,g,1,g,0,g,0,g,1,g,101,g
+122,ritas,raspberry ice quart portion,0,g,0,mg,110,g,189,g,1,g,0,g,0,g,3,g,179,g
+123,ritas,raspberry ice small portion,0,g,0,mg,40,g,66,g,0,g,0,g,0,g,1,g,63,g
+124,ritas,raspberry lemonade ice ice flight portion,0,g,0,mg,15,g,21,g,0,g,0,g,0,g,0,g,20,g
+125,ritas,raspberry lemonade ice kids portion,0,g,0,mg,30,g,40,g,0,g,0,g,0,g,0,g,38,g
+126,ritas,raspberry lemonade ice large portion,0,g,0,mg,80,g,112,g,1,g,0,g,0,g,1,g,105,g
+127,ritas,raspberry lemonade ice quart portion,0,g,0,mg,140,g,198,g,1,g,0,g,0,g,1,g,186,g
+128,ritas,raspberry lemonade ice small portion,0,g,0,mg,50,g,69,g,0,g,0,g,0,g,0,g,65,g
+129,ritas,reeses chocolate peanut butter ice ice flight portion,2,g,0,mg,40,g,25,g,1,g,0,g,0,g,0,g,24,g
+130,ritas,reeses chocolate peanut butter ice kids portion,5,g,0,mg,75,g,60,g,2,g,1,g,0,g,0,g,56,g
+131,ritas,reeses chocolate peanut butter ice large portion,11,g,0,mg,170,g,133,g,4,g,2,g,0,g,2,g,125,g
+132,ritas,reeses chocolate peanut butter ice quart portion,19,g,0,mg,300,g,234,g,8,g,4,g,0,g,3,g,220,g
+133,ritas,reeses chocolate peanut butter ice small portion,7,g,0,mg,105,g,82,g,3,g,2,g,0,g,1,g,77,g
+134,ritas,reeses marshmallow peanut butter ice ice flight portion,3,g,0,mg,35,g,24,g,1,g,1,g,0,g,0,g,23,g
+135,ritas,reeses marshmallow peanut butter ice kids portion,7,g,0,mg,85,g,58,g,2,g,3,g,0,g,0,g,55,g
+136,ritas,reeses marshmallow peanut butter ice large portion,15,g,0,mg,180,g,128,g,4,g,6,g,0,g,0,g,121,g
+137,ritas,reeses marshmallow peanut butter ice quart portion,26,g,0,mg,330,g,226,g,7,g,11,g,0,g,0,g,214,g
+138,ritas,reeses marshmallow peanut butter ice small portion,9,g,0,mg,115,g,79,g,2,g,4,g,0,g,0,g,75,g
+139,ritas,reeses peanut butter and jelly ice ice flight portion,3,g,0,mg,35,g,23,g,1,g,0,g,0,g,0,g,21,g
+140,ritas,reeses peanut butter and jelly ice kids portion,7,g,0,mg,80,g,54,g,2,g,1,g,0,g,0,g,51,g
+141,ritas,reeses peanut butter and jelly ice large portion,15,g,0,mg,180,g,119,g,5,g,3,g,0,g,0,g,113,g
+142,ritas,reeses peanut butter and jelly ice quart portion,26,g,0,mg,300,g,201,g,9,g,5,g,0,g,0,g,191,g
+143,ritas,reeses peanut butter and jelly ice small portion,9,g,0,mg,150,g,74,g,2,g,2,g,0,g,0,g,70,g
+144,ritas,reeses peanut butter milkshake large,67,g,245,mg,830,g,107,g,24,g,29,g,0,g,0,g,91,g
+145,ritas,reeses peanut butter milkshake small,42,g,175,mg,520,g,70,g,16,g,20,g,0,g,0,g,60,g
+146,ritas,root beer float ice ice flight portion,0,g,0,mg,15,g,20,g,0,g,0,g,0,g,0,g,19,g
+147,ritas,root beer float ice kids portion,0,g,0,mg,30,g,47,g,0,g,0,g,0,g,0,g,45,g
+148,ritas,root beer float ice large portion,2,g,0,mg,85,g,107,g,0,g,2,g,0,g,0,g,102,g
+149,ritas,root beer float ice quart portion,4,g,0,mg,150,g,190,g,0,g,4,g,0,g,0,g,180,g
+150,ritas,root beer float ice small portion,2,g,0,mg,55,g,66,g,0,g,2,g,0,g,0,g,63,g
+151,ritas,root beer ice ice flight portion,0,g,0,mg,10,g,20,g,0,g,0,g,0,g,0,g,19,g
+152,ritas,root beer ice kids portion,0,g,0,mg,30,g,47,g,0,g,0,g,0,g,0,g,45,g
+153,ritas,root beer ice large portion,0,g,0,mg,65,g,103,g,0,g,0,g,0,g,0,g,100,g
+154,ritas,root beer ice quart portion,0,g,0,mg,110,g,182,g,0,g,0,g,0,g,0,g,177,g
+155,ritas,root beer ice small portion,0,g,0,mg,40,g,64,g,0,g,0,g,0,g,0,g,62,g
+156,ritas,smores ice ice flight portion,2,g,0,mg,20,g,25,g,0,g,1,g,0,g,0,g,24,g
+157,ritas,smores ice kids portion,3,g,0,mg,50,g,59,g,0,g,3,g,0,g,0,g,57,g
+158,ritas,smores ice large portion,7,g,0,mg,110,g,131,g,1,g,6,g,0,g,0,g,125,g
+159,ritas,smores ice quart portion,12,g,0,mg,190,g,232,g,2,g,10,g,0,g,0,g,221,g
+160,ritas,smores ice small portion,5,g,0,mg,70,g,81,g,1,g,4,g,0,g,0,g,77,g
+161,ritas,salted caramel chocolate pint,33,g,200,mg,330,g,76,g,13,g,20,g,0,g,0,g,69,g
+162,ritas,salted caramel chocolate sundae kids portion,7,g,40,mg,70,g,16,g,3,g,4,g,0,g,0,g,14,g
+163,ritas,salted caramel chocolate sundae large portion,16,g,95,mg,160,g,37,g,6,g,10,g,0,g,0,g,33,g
+164,ritas,salted caramel chocolate sundae regular portion,13,g,75,mg,125,g,29,g,5,g,8,g,0,g,0,g,26,g
+165,ritas,salted caramel milkshake large,36,g,240,mg,440,g,97,g,16,g,23,g,0,g,0,g,86,g
+166,ritas,salted caramel milkshake small,26,g,175,mg,320,g,65,g,11,g,17,g,0,g,0,g,58,g
+167,ritas,salted caramel pint,36,g,245,mg,410,g,75,g,13,g,23,g,0,g,0,g,64,g
+168,ritas,salted caramel sundae kids portion,8,g,50,mg,85,g,16,g,3,g,5,g,0,g,0,g,14,g
+169,ritas,salted caramel sundae large portion,18,g,120,mg,200,g,37,g,6,g,11,g,0,g,0,g,32,g
+170,ritas,salted caramel sundae regular portion,14,g,95,mg,160,g,29,g,5,g,9,g,0,g,0,g,25,g
+171,ritas,sour patch kids red ice ice flight portion,0,g,0,mg,10,g,21,g,0,g,0,g,0,g,0,g,20,g
+172,ritas,sour patch kids red ice kids portion,0,g,0,mg,30,g,50,g,0,g,0,g,0,g,0,g,48,g
+173,ritas,sour patch kids red ice large portion,0,g,0,mg,65,g,109,g,0,g,0,g,0,g,0,g,107,g
+174,ritas,sour patch kids red ice quart portion,0,g,0,mg,110,g,193,g,0,g,0,g,0,g,0,g,189,g
+175,ritas,sour patch kids red ice small portion,0,g,0,mg,40,g,68,g,0,g,0,g,0,g,0,g,66,g
+176,ritas,strawberry banana ice ice flight portion,1,g,0,mg,20,g,23,g,0,g,1,g,0,g,0,g,22,g
+177,ritas,strawberry banana ice large portion,5,g,0,mg,110,g,120,g,1,g,5,g,0,g,0,g,113,g
+178,ritas,strawberry banana ice quart portion,9,g,0,mg,190,g,214,g,1,g,9,g,0,g,1,g,201,g
+179,ritas,strawberry banana ice small portion,4,g,0,mg,65,g,75,g,0,g,3,g,0,g,0,g,71,g
+180,ritas,strawberry banana pint,36,g,245,mg,410,g,79,g,13,g,23,g,0,g,0,g,69,g
+181,ritas,strawberry banana sundae kids portion,8,g,50,mg,85,g,17,g,3,g,5,g,0,g,0,g,14,g
+182,ritas,strawberry banana sundae large portion,17,g,120,mg,200,g,38,g,6,g,11,g,0,g,0,g,33,g
+183,ritas,strawberry banana sundae regular portion,14,g,95,mg,160,g,29,g,5,g,9,g,0,g,0,g,25,g
+184,ritas,strawberry cheesecake ice ice flight portion,1,g,0,mg,25,g,22,g,0,g,1,g,0,g,0,g,21,g
+185,ritas,strawberry cheesecake ice kids portion,3,g,0,mg,55,g,53,g,0,g,2,g,0,g,0,g,51,g
+186,ritas,strawberry cheesecake ice large portion,6,g,5,mg,120,g,118,g,1,g,5,g,0,g,0,g,112,g
+187,ritas,strawberry cheesecake ice quart portion,10,g,5,mg,210,g,209,g,2,g,9,g,0,g,0,g,198,g
+188,ritas,strawberry cheesecake ice small portion,4,g,0,mg,75,g,73,g,1,g,3,g,0,g,0,g,69,g
+189,ritas,strawberry colada ice ice flight portion,0,g,0,mg,10,g,22,g,0,g,0,g,0,g,0,g,21,g
+190,ritas,strawberry colada ice kids portion,0,g,0,mg,30,g,52,g,0,g,0,g,0,g,0,g,50,g
+191,ritas,strawberry colada ice large portion,0,g,0,mg,65,g,114,g,0,g,0,g,0,g,0,g,110,g
+192,ritas,strawberry colada ice quart portion,0,g,0,mg,115,g,201,g,0,g,0,g,0,g,0,g,195,g
+193,ritas,strawberry colada ice small portion,0,g,0,mg,40,g,70,g,0,g,0,g,0,g,0,g,68,g
+194,ritas,strawberry ice ice flight portion,0,g,0,mg,10,g,25,g,0,g,0,g,0,g,0,g,24,g
+195,ritas,strawberry ice kids portion,0,g,0,mg,30,g,47,g,0,g,0,g,0,g,0,g,45,g
+196,ritas,strawberry ice large portion,0,g,0,mg,65,g,104,g,0,g,0,g,0,g,0,g,100,g
+197,ritas,strawberry ice quart portion,0,g,0,mg,115,g,183,g,1,g,0,g,0,g,0,g,177,g
+198,ritas,strawberry ice small portion,0,g,0,mg,40,g,64,g,0,g,0,g,0,g,0,g,62,g
+199,ritas,strawberry lemonade ice ice flight portion,0,g,0,mg,10,g,19,g,0,g,0,g,0,g,0,g,18,g
+200,ritas,strawberry lemonade ice kids portion,0,g,0,mg,25,g,45,g,0,g,0,g,0,g,0,g,42,g
+201,ritas,strawberry lemonade ice large portion,0,g,0,mg,90,g,73,g,0,g,0,g,0,g,0,g,69,g
+202,ritas,strawberry lemonade ice quart portion,0,g,0,mg,105,g,175,g,1,g,0,g,0,g,0,g,166,g
+203,ritas,strawberry lemonade ice small portion,0,g,0,mg,55,g,45,g,0,g,0,g,0,g,0,g,43,g
+204,ritas,strawberry margarita ice ice flight portion,0,g,0,mg,15,g,19,g,0,g,0,g,0,g,0,g,18,g
+205,ritas,strawberry margarita ice kids portion,0,g,0,mg,35,g,45,g,0,g,0,g,0,g,0,g,43,g
+206,ritas,strawberry margarita ice large portion,0,g,0,mg,80,g,113,g,0,g,0,g,0,g,0,g,108,g
+207,ritas,strawberry margarita ice quart portion,0,g,0,mg,135,g,175,g,0,g,0,g,0,g,0,g,167,g
+208,ritas,strawberry margarita ice small portion,0,g,0,mg,50,g,70,g,0,g,0,g,0,g,0,g,67,g
+209,ritas,strawberry milkshake large,36,g,245,mg,450,g,95,g,16,g,23,g,0,g,0,g,85,g
+210,ritas,strawberry milkshake small,26,g,175,mg,320,g,64,g,12,g,17,g,0,g,0,g,57,g
+211,ritas,strawberry pint,36,g,240,mg,410,g,76,g,13,g,23,g,0,g,0,g,66,g
+212,ritas,strawberry shortcake milkshake large,43,g,250,mg,770,g,181,g,19,g,26,g,0,g,0,g,141,g
+213,ritas,strawberry shortcake milkshake small,30,g,180,mg,490,g,107,g,13,g,18,g,0,g,0,g,85,g
+214,ritas,strawberry sundae kids portion,8,g,50,mg,85,g,16,g,3,g,5,g,0,g,0,g,14,g
+215,ritas,strawberry sundae large portion,18,g,120,mg,200,g,37,g,6,g,11,g,0,g,0,g,33,g
+216,ritas,strawberry sundae regular portion,14,g,95,mg,160,g,29,g,5,g,9,g,0,g,0,g,25,g
+217,ritas,strawberry watermelon ice ice flight portion,0,g,0,mg,10,g,20,g,0,g,0,g,0,g,0,g,20,g
+218,ritas,strawberry watermelon ice kids portion,0,g,0,mg,30,g,48,g,0,g,0,g,0,g,0,g,47,g
+219,ritas,strawberry watermelon ice large portion,0,g,0,mg,65,g,106,g,0,g,0,g,0,g,0,g,103,g
+220,ritas,strawberry watermelon ice quart portion,0,g,0,mg,115,g,188,g,0,g,0,g,0,g,0,g,182,g
+221,ritas,strawberry watermelon ice small portion,0,g,0,mg,40,g,66,g,0,g,0,g,0,g,0,g,64,g
+222,ritas,strawberry banana ice kids portion,3,g,0,mg,50,g,55,g,0,g,2,g,0,g,0,g,52,g
+223,ritas,sugar free cherry ice ice flight portion,0,g,0,mg,10,g,13,g,0,g,0,g,0,g,0,g,0,g
+224,ritas,sugar free cherry ice kids portion,0,g,0,mg,20,g,32,g,0,g,0,g,0,g,0,g,0,g
+225,ritas,sugar free cherry ice large portion,0,g,0,mg,40,g,70,g,1,g,0,g,0,g,0,g,0,g
+226,ritas,sugar free cherry ice quart portion,0,g,0,mg,70,g,124,g,1,g,0,g,0,g,0,g,0,g
+227,ritas,sugar free cherry ice small portion,0,g,0,mg,25,g,43,g,0,g,0,g,0,g,0,g,0,g
+228,ritas,sugar free dragon fruit ice ice flight portion,0,g,0,mg,10,g,18,g,0,g,0,g,0,g,0,g,0,g
+229,ritas,sugar free dragon fruit ice kids portion,0,g,0,mg,20,g,42,g,0,g,0,g,0,g,0,g,0,g
+230,ritas,sugar free dragon fruit ice large portion,0,g,0,mg,50,g,92,g,0,g,0,g,0,g,0,g,0,g
+231,ritas,sugar free dragon fruit ice quart portion,0,g,0,mg,85,g,163,g,0,g,0,g,0,g,0,g,0,g
+232,ritas,sugar free dragon fruit ice small portion,0,g,0,mg,30,g,57,g,0,g,0,g,0,g,0,g,0,g
+233,ritas,sugar free mango peach ice ice flight portion,0,g,0,mg,5,g,13,g,0,g,0,g,0,g,0,g,0,g
+234,ritas,sugar free mango peach ice kids portion,0,g,0,mg,20,g,30,g,0,g,0,g,0,g,0,g,0,g
+235,ritas,sugar free mango peach ice large portion,0,g,0,mg,45,g,69,g,0,g,0,g,0,g,0,g,1,g
+236,ritas,sugar free mango peach ice quart portion,0,g,0,mg,70,g,118,g,0,g,0,g,0,g,0,g,1,g
+237,ritas,sugar free mango peach ice small portion,0,g,0,mg,25,g,43,g,0,g,0,g,0,g,0,g,1,g
+238,ritas,sugar free pineapple ice ice flight portion,0,g,0,mg,10,g,12,g,0,g,0,g,0,g,0,g,0,g
+239,ritas,sugar free pineapple ice kids portion,0,g,0,mg,20,g,29,g,0,g,0,g,0,g,0,g,0,g
+240,ritas,sugar free pineapple ice large portion,0,g,0,mg,50,g,64,g,0,g,0,g,0,g,0,g,0,g
+241,ritas,sugar free pineapple ice quart portion,0,g,0,mg,85,g,114,g,0,g,0,g,0,g,0,g,1,g
+242,ritas,sugar free pineapple ice small portion,0,g,0,mg,30,g,40,g,0,g,0,g,0,g,0,g,0,g
+243,ritas,sugar free root beer ice ice flight portion,0,g,0,mg,10,g,13,g,0,g,0,g,0,g,0,g,0,g
+244,ritas,sugar free root beer ice kids portion,0,g,0,mg,25,g,32,g,0,g,0,g,0,g,0,g,0,g
+245,ritas,sugar free root beer ice large portion,0,g,0,mg,55,g,70,g,0,g,0,g,0,g,1,g,1,g
+246,ritas,sugar free root beer ice quart portion,0,g,0,mg,100,g,124,g,0,g,0,g,0,g,1,g,1,g
+247,ritas,sugar free root beer ice small portion,0,g,0,mg,35,g,43,g,0,g,0,g,0,g,0,g,0,g
+248,ritas,sugar free tangerine ice ice flight portion,0,g,0,mg,10,g,13,g,0,g,0,g,0,g,0,g,0,g
+249,ritas,sugar free tangerine ice kids portion,0,g,0,mg,25,g,32,g,0,g,0,g,0,g,0,g,0,g
+250,ritas,sugar free tangerine ice large portion,0,g,0,mg,60,g,70,g,0,g,0,g,0,g,0,g,0,g
+251,ritas,sugar free tangerine ice quart portion,0,g,0,mg,105,g,124,g,0,g,0,g,0,g,0,g,0,g
+252,ritas,sugar free tangerine ice small portion,0,g,0,mg,35,g,43,g,0,g,0,g,0,g,0,g,0,g
+253,ritas,sundae topping apple pie filling,0,g,0,mg,20,g,25,g,0,g,0,g,0,g,0,g,20,g
+254,ritas,sundae topping brownie batter bites,3,g,5,mg,40,g,15,g,1,g,1,g,0,g,1,g,8,g
+255,ritas,sundae topping chocolate chips,7,g,0,mg,0,g,19,g,1,g,5,g,0,g,0,g,15,g
+256,ritas,sundae topping chopped peanuts,14,g,0,mg,0,g,6,g,7,g,2,g,0,g,0,g,1,g
+257,ritas,sundae topping cookie dough bites,3,g,5,mg,55,g,15,g,1,g,1,g,0,g,0,g,9,g
+258,ritas,sundae topping heath,9,g,5,mg,100,g,18,g,1,g,5,g,0,g,0,g,17,g
+259,ritas,sundae topping hot caramel,2,g,5,mg,70,g,19,g,1,g,1,g,0,g,0,g,14,g
+260,ritas,sundae topping hot fudge,3,g,0,mg,80,g,15,g,1,g,3,g,0,g,1,g,13,g
+261,ritas,sundae topping mandms minis,6,g,0,mg,20,g,20,g,1,g,4,g,0,g,1,g,18,g
+262,ritas,sundae topping maraschino cherries,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+263,ritas,sundae topping mini gummy bears,0,g,0,mg,15,g,29,g,2,g,0,g,0,g,0,g,18,g
+264,ritas,sundae topping nerds rainbow,0,g,0,mg,0,g,27,g,0,g,0,g,0,g,0,g,26,g
+265,ritas,sundae topping nilla wafers,5,g,5,mg,110,g,20,g,1,g,1,g,0,g,0,g,10,g
+266,ritas,sundae topping nutella,9,g,0,mg,10,g,17,g,2,g,3,g,0,g,1,g,16,g
+267,ritas,sundae topping oreo,5,g,0,mg,140,g,18,g,1,g,2,g,0,g,0,g,10,g
+268,ritas,sundae topping pie pieces,3,g,5,mg,15,g,7,g,1,g,1,g,0,g,0,g,2,g
+269,ritas,sundae topping reeses pb cups,8,g,0,mg,100,g,16,g,3,g,3,g,0,g,1,g,14,g
+270,ritas,sundae topping reeses peanut butter sauce,18,g,0,mg,130,g,6,g,6,g,3,g,0,g,2,g,3,g
+271,ritas,sundae topping snickers,6,g,0,mg,65,g,18,g,2,g,3,g,0,g,1,g,15,g
+272,ritas,sundae topping sprinkles chocolate,5,g,0,mg,0,g,20,g,0,g,4,g,0,g,0,g,12,g
+273,ritas,sundae topping sprinkles rainbow,5,g,0,mg,0,g,20,g,0,g,4,g,0,g,0,g,12,g
+274,ritas,sundae topping strawberry topping,0,g,0,mg,10,g,21,g,0,g,0,g,0,g,1,g,18,g
+275,ritas,sundae topping wet walnuts,18,g,0,mg,0,g,25,g,4,g,2,g,0,g,3,g,20,g
+276,ritas,sundae topping whipped cream,6,g,20,mg,5,g,6,g,1,g,3.5,g,0,g,0,g,3,g
+277,ritas,swedish fish ice ice flight portion,0,g,0,mg,20,g,24,g,0,g,0,g,0,g,0,g,23,g
+278,ritas,swedish fish ice kids portion,0,g,0,mg,50,g,57,g,0,g,0,g,0,g,0,g,55,g
+279,ritas,swedish fish ice large portion,0,g,0,mg,110,g,125,g,0,g,0,g,0,g,0,g,122,g
+280,ritas,swedish fish ice quart portion,0,g,0,mg,200,g,221,g,1,g,0,g,0,g,0,g,215,g
+281,ritas,swedish fish ice small portion,0,g,0,mg,70,g,77,g,0,g,0,g,0,g,0,g,75,g
+282,ritas,tropical daiquiri ice ice flight portion,0,g,0,mg,15,g,23,g,0,g,0,g,0,g,0,g,22,g
+283,ritas,tropical daiquiri ice kids portion,0,g,0,mg,30,g,54,g,0,g,0,g,0,g,0,g,52,g
+284,ritas,tropical daiquiri ice large portion,1,g,0,mg,65,g,119,g,0,g,1,g,0,g,0,g,115,g
+285,ritas,tropical daiquiri ice quart portion,2,g,0,mg,115,g,210,g,0,g,2,g,0,g,0,g,203,g
+286,ritas,tropical daiquiri ice small portion,1,g,0,mg,40,g,73,g,0,g,1,g,0,g,0,g,71,g
+287,ritas,tropical punch ice ice flight portion,0,g,0,mg,15,g,20,g,0,g,0,g,0,g,0,g,20,g
+288,ritas,tropical punch ice kids portion,0,g,0,mg,30,g,48,g,0,g,0,g,0,g,0,g,46,g
+289,ritas,tropical punch ice large portion,0,g,0,mg,65,g,107,g,0,g,0,g,0,g,0,g,102,g
+290,ritas,tropical punch ice quart portion,0,g,0,mg,115,g,189,g,0,g,0,g,0,g,0,g,181,g
+291,ritas,tropical punch ice small portion,0,g,0,mg,40,g,66,g,0,g,0,g,0,g,0,g,63,g
+292,ritas,unicorn ice ice flight portion,0,g,0,mg,35,g,21,g,0,g,0,g,0,g,0,g,19,g
+293,ritas,unicorn ice kids portion,0,g,0,mg,85,g,49,g,0,g,0,g,0,g,0,g,44,g
+294,ritas,unicorn ice large portion,0,g,0,mg,190,g,108,g,0,g,0,g,0,g,0,g,98,g
+295,ritas,unicorn ice quart portion,0,g,0,mg,340,g,191,g,0,g,0,g,0,g,0,g,173,g
+296,ritas,unicorn ice small portion,0,g,0,mg,115,g,67,g,0,g,0,g,0,g,0,g,61,g
+297,ritas,vanilla cookie dough mini cake,15,g,60,mg,135,g,33,g,4,g,10,g,0,g,0,g,26,g
+298,ritas,vanilla cream ice ice flight portion,1,g,0,mg,20,g,20,g,0,g,1,g,0,g,0,g,19,g
+299,ritas,vanilla cream ice kids portion,2,g,0,mg,50,g,47,g,0,g,2,g,0,g,0,g,44,g
+300,ritas,vanilla cream ice large portion,5,g,0,mg,110,g,103,g,0,g,5,g,0,g,0,g,98,g
+301,ritas,vanilla cream ice quart portion,8,g,0,mg,200,g,183,g,1,g,8,g,0,g,0,g,173,g
+302,ritas,vanilla cream ice small portion,3,g,0,mg,70,g,64,g,0,g,3,g,0,g,0,g,60,g
+303,ritas,vanilla custard sundae kids portion,8,g,55,mg,90,g,16,g,3,g,5,g,0,g,0,g,13,g
+304,ritas,vanilla custard sundae large portion,18,g,120,mg,200,g,36,g,7,g,11,g,0,g,0,g,31,g
+305,ritas,vanilla custard sundae regular portion,14,g,95,mg,160,g,28,g,5,g,9,g,0,g,0,g,24,g
+306,ritas,vanilla heath milkshake large,55,g,255,mg,650,g,130,g,18,g,33,g,0,g,0,g,119,g
+307,ritas,vanilla heath milkshake small,36,g,180,mg,420,g,82,g,12,g,22,g,0,g,0,g,74,g
+308,ritas,vanilla ice ice flight portion,0,g,0,mg,15,g,19,g,0,g,0,g,0,g,0,g,18,g
+309,ritas,vanilla ice kids portion,0,g,0,mg,30,g,45,g,0,g,0,g,0,g,0,g,44,g
+310,ritas,vanilla ice large portion,0,g,0,mg,65,g,100,g,0,g,0,g,0,g,0,g,97,g
+311,ritas,vanilla ice quart portion,0,g,0,mg,115,g,177,g,0,g,0,g,0,g,0,g,171,g
+312,ritas,vanilla ice small portion,0,g,0,mg,40,g,62,g,0,g,0,g,0,g,0,g,60,g
+313,ritas,vanilla milkshake large,36,g,245,mg,450,g,95,g,16,g,23,g,0,g,0,g,85,g
+314,ritas,vanilla milkshake small,26,g,175,mg,320,g,64,g,12,g,17,g,0,g,0,g,57,g
+315,ritas,waffle bowl,0,g,0,mg,40,g,18,g,0,g,0,g,0,g,1,g,6,g
+316,ritas,waffle cone,1,g,0,mg,35,g,19,g,1,g,0,g,0,g,0,g,5,g
+317,ritas,watermelon chip ice ice flight portion,2,g,0,mg,20,g,25,g,0,g,2,g,0,g,0,g,23,g
+318,ritas,watermelon chip ice kids portion,4,g,0,mg,50,g,59,g,1,g,3,g,0,g,0,g,55,g
+319,ritas,watermelon chip ice large portion,10,g,0,mg,150,g,117,g,1,g,8,g,0,g,0,g,108,g
+320,ritas,watermelon chip ice quart portion,15,g,0,mg,190,g,229,g,2,g,12,g,0,g,0,g,213,g
+321,ritas,watermelon chip ice small portion,6,g,0,mg,95,g,72,g,1,g,5,g,0,g,0,g,67,g
+322,ritas,watermelon ice ice flight portion,0,g,0,mg,10,g,22,g,0,g,0,g,0,g,0,g,21,g
+323,ritas,watermelon ice kids portion,0,g,0,mg,30,g,52,g,0,g,0,g,0,g,0,g,51,g
+324,ritas,watermelon ice large portion,0,g,0,mg,60,g,115,g,0,g,0,g,0,g,0,g,111,g
+325,ritas,watermelon ice quart portion,0,g,0,mg,110,g,205,g,0,g,0,g,0,g,0,g,198,g
+326,ritas,watermelon ice small portion,0,g,0,mg,40,g,71,g,0,g,0,g,0,g,0,g,69,g
+327,ritas,wild berry ice ice flight portion,0,g,0,mg,10,g,22,g,0,g,0,g,0,g,0,g,21,g
+328,ritas,wild berry ice kids portion,0,g,0,mg,25,g,41,g,0,g,0,g,0,g,0,g,39,g
+329,ritas,wild berry ice large portion,0,g,0,mg,65,g,114,g,0,g,0,g,0,g,1,g,109,g
+330,ritas,wild berry ice quart portion,0,g,0,mg,110,g,202,g,1,g,0,g,0,g,1,g,193,g
+331,ritas,wild berry ice small portion,0,g,0,mg,40,g,71,g,0,g,0,g,0,g,0,g,68,g
+332,ritas,wild black cherry ice ice flight portion,0,g,0,mg,10,g,22,g,0,g,0,g,0,g,0,g,20,g
+333,ritas,wild black cherry ice kids portion,0,g,0,mg,20,g,46,g,0,g,0,g,0,g,0,g,42,g
+334,ritas,wild black cherry ice large portion,0,g,0,mg,65,g,114,g,1,g,0,g,0,g,0,g,107,g
+335,ritas,wild black cherry ice quart portion,0,g,0,mg,110,g,201,g,1,g,0,g,0,g,0,g,188,g
+336,ritas,wild black cherry ice small portion,0,g,0,mg,40,g,70,g,1,g,0,g,0,g,0,g,66,g
+337,ritas,zombies blood ice ice flight portion,0,g,0,mg,10,g,16,g,0,g,0,g,0,g,0,g,15,g
+338,ritas,zombies blood ice kids portion,0,g,0,mg,25,g,38,g,0,g,0,g,0,g,0,g,36,g
+339,ritas,zombies blood ice large portion,0,g,0,mg,60,g,83,g,0,g,0,g,0,g,0,g,79,g
+340,ritas,zombies blood ice quart portion,0,g,0,mg,105,g,147,g,1,g,0,g,0,g,0,g,139,g
+341,ritas,zombies blood ice small portion,0,g,0,mg,35,g,51,g,0,g,0,g,0,g,0,g,49,g
+342,robeks,evergreen juice,0,g,0,mg,0,g,41,g,3,g,0,g,0,g,0,g,38,g
+343,robeks,abc juice,0,g,0,mg,0,g,41,g,3,g,0,g,0,g,0,g,38,g
+344,robeks,cool cucumber juice,0,g,0,mg,46,g,50,g,1,g,0,g,0,g,1,g,39,g
+345,robeks,root to stem juice,0.5,g,0,mg,184,g,54,g,8,g,0,g,0,g,5,g,37,g
+346,robeks,wheatgrass shot,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+347,robeks,g snap juice,1,g,0,mg,0,g,60,g,6,g,0,g,0,g,1,g,47,g
+348,robeks,turmeric shot,0,g,0,mg,46,g,7,g,0,g,0,g,0,g,0,g,7,g
+349,robeks,lemon ginger shot,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,1,g
+350,robeks,800 ib gorilla smoothie,22,g,81,mg,414,g,100,g,59,g,0,g,0,g,58,g,65,g
+351,robeks,nuts about protein smoothie,34,g,30,mg,322,g,64,g,34,g,0,g,0,g,4,g,38,g
+352,robeks,p nut power plus smoothie,36,g,21,mg,368,g,91,g,36,g,0,g,0,g,10,g,51,g
+353,robeks,naturally coffee smoothie,2,g,0,mg,184,g,53,g,8,g,0,g,0,g,1,g,37,g
+354,robeks,hummingbird smoothie,1,g,6,mg,23,g,88,g,1,g,0,g,0,g,3,g,73,g
+355,robeks,mahalo mango smoothie,0.5,g,3,mg,46,g,85,g,2,g,0,g,0,g,2,g,74,g
+356,robeks,raspberry romance smoothie,0.5,g,3,mg,46,g,82,g,2,g,0,g,0,g,3,g,66,g
+357,robeks,super green smoothie,3.5,g,0,mg,253,g,54,g,10,g,0,g,0,g,3,g,39,g
+358,robeks,muscle max smoothie,4,g,45,mg,138,g,90,g,26,g,0,g,0,g,4,g,66,g
+359,robeks,acai energizer smoothie,6,g,0,mg,92,g,77,g,10,g,0,g,0,g,4,g,59,g
+360,robeks,age buster smoothie,0.5,g,23,mg,92,g,75,g,3,g,0,g,0,g,4,g,57,g
+361,robeks,berry brilliance smoothie,1,g,3,mg,46,g,79,g,2,g,0,g,0,g,3,g,61,g
+362,robeks,emperor acai smoothie,4,g,6,mg,46,g,68,g,5,g,0,g,0,g,4,g,55,g
+363,robeks,strawnana berry smoothie,1,g,0,mg,46,g,79,g,2,g,0,g,0,g,3,g,61,g
+364,robeks,south pacific squeeze smoothie,1,g,6,mg,23,g,75,g,4,g,0,g,0,g,2,g,53,g
+365,robeks,polar pineapple smoothie,1,g,0,mg,23,g,78,g,1,g,0,g,0,g,2,g,65,g
+366,robeks,big wednesday smoothie,1,g,0,mg,23,g,79,g,1,g,0,g,0,g,2,g,64,g
+367,robeks,queen of all greens smoothie,0,g,0,mg,23,g,42,g,2,g,0,g,0,g,3,g,32,g
+368,robeks,passionfruit cove smoothie,1,g,0,mg,23,g,80,g,1,g,0,g,0,g,2,g,67,g
+369,robeks,awesome acai smoothie,4.5,g,3,mg,46,g,80,g,3,g,0,g,0,g,4,g,61,g
+370,robeks,berry beneficial smoothie,3,g,0,mg,69,g,65,g,2,g,0,g,0,g,6,g,52,g
+371,robeks,dr robeks smoothie,1,g,6,mg,46,g,71,g,5,g,0,g,0,g,2,g,47,g
+372,robeks,lean green smoothie,2,g,3,mg,138,g,52,g,4,g,0,g,0,g,3,g,36,g
+373,robeks,tropi kale smoothie,0.5,g,3,mg,184,g,81,g,2,g,0,g,0,g,2,g,69,g
+374,robeks,active apple smoothie,0.5,g,3,mg,23,g,58,g,2,g,0,g,0,g,5,g,36,g
+375,robeks,mango turmeric smoothie,0,g,0,mg,0,g,65,g,1,g,0,g,0,g,4,g,54,g
+376,robeks,heros garden smoothie,1.5,g,0,mg,46,g,69,g,3,g,0,g,0,g,5,g,58,g
+377,robeks,berry reboot smoothie,3.5,g,21,mg,161,g,46,g,14,g,0,g,0,g,6,g,29,g
+378,robeks,acai especial bowl,10,g,0,mg,0,g,130,g,4,g,0,g,0,g,10,g,105,g
+379,robeks,nutty acai bowl,28,g,0,mg,115,g,105,g,14,g,0,g,0,g,11,g,74,g
+380,robeks,acai strawnana berry bowl,7,g,0,mg,69,g,92,g,3,g,0,g,0,g,9,g,69,g
+381,robeks,green bliss bowl,6,g,3,mg,92,g,101,g,6,g,0,g,0,g,6,g,70,g
+382,robeks,800 lb gorilla smoothie large,15,g,80,mg,750,g,143,g,65,g,0,g,0,g,8,g,94,g
+383,robeks,800 lb gorilla smoothie medium,10,g,80,mg,610,g,100,g,59,g,0,g,0,g,5,g,65,g
+384,robeks,abc juice large,0,g,0,mg,0,g,56,g,4,g,0,g,0,g,0,g,52,g
+385,robeks,abc juice medium,0,g,0,mg,0,g,41,g,3,g,0,g,0,g,0,g,38,g
+386,robeks,abc juice small,0,g,0,mg,0,g,23,g,2,g,0,g,0,g,0,g,21,g
+387,robeks,acai energizer smoothie large,4,g,10,mg,170,g,104,g,11,g,0,g,0,g,6,g,80,g
+388,robeks,acai energizer smoothie medium,3,g,10,mg,135,g,77,g,10,g,0,g,0,g,4,g,59,g
+389,robeks,acai especial bowl,4,g,0,mg,0,g,130,g,4,g,0,g,0,g,10,g,105,g
+390,robeks,acai strawnana berry bowl,0,g,0,mg,100,g,92,g,3,g,0,g,0,g,9,g,69,g
+391,robeks,acai tropical mango bowl,0,g,0,mg,135,g,106,g,4,g,0,g,0,g,10,g,87,g
+392,robeks,active apple smoothie large,0,g,5,mg,35,g,93,g,4,g,0,g,0,g,9,g,57,g
+393,robeks,active apple smoothie medium,0,g,5,mg,35,g,58,g,2,g,0,g,0,g,5,g,36,g
+394,robeks,active apple smoothie small,0,g,0,mg,35,g,30,g,2,g,0,g,0,g,3,g,18,g
+395,robeks,age buster smoothie large,1,g,5,mg,200,g,102,g,5,g,0,g,0,g,5,g,77,g
+396,robeks,age buster smoothie medium,1,g,5,mg,135,g,75,g,3,g,0,g,0,g,4,g,57,g
+397,robeks,awesome acai smoothie large,3,g,5,mg,100,g,115,g,5,g,0,g,0,g,7,g,85,g
+398,robeks,awesome acai smoothie medium,3,g,5,mg,70,g,80,g,3,g,0,g,0,g,4,g,61,g
+399,robeks,berry beneficial smoothie large,0,g,0,mg,170,g,86,g,3,g,0,g,0,g,9,g,67,g
+400,robeks,berry beneficial smoothie medium,0,g,0,mg,100,g,65,g,2,g,0,g,0,g,6,g,52,g
+401,robeks,berry beneficial smoothie small,0,g,0,mg,70,g,35,g,1,g,0,g,0,g,4,g,28,g
+402,robeks,berry brilliance smoothie large,1,g,5,mg,100,g,107,g,3,g,0,g,0,g,5,g,82,g
+403,robeks,berry brilliance smoothie medium,1,g,5,mg,70,g,79,g,2,g,0,g,0,g,3,g,61,g
+404,robeks,berry brilliance smoothie small,1,g,0,mg,35,g,38,g,1,g,0,g,0,g,2,g,29,g
+405,robeks,berry reboot smoothie large,0,g,20,mg,340,g,85,g,15,g,0,g,0,g,12,g,54,g
+406,robeks,berry reboot smoothie medium,0,g,20,mg,240,g,46,g,14,g,0,g,0,g,6,g,29,g
+407,robeks,berry reboot smoothie small,0,g,20,mg,170,g,35,g,13,g,0,g,0,g,4,g,22,g
+408,robeks,big wednesday smoothie large,2,g,10,mg,70,g,108,g,2,g,0,g,0,g,4,g,86,g
+409,robeks,big wednesday smoothie medium,1,g,5,mg,35,g,79,g,1,g,0,g,0,g,2,g,64,g
+410,robeks,big wednesday smoothie small,1,g,5,mg,35,g,39,g,1,g,0,g,0,g,1,g,31,g
+411,robeks,cool cucumber juice large,0,g,0,mg,70,g,67,g,1,g,0,g,0,g,1,g,51,g
+412,robeks,cool cucumber juice medium,0,g,0,mg,70,g,50,g,1,g,0,g,0,g,1,g,39,g
+413,robeks,cool cucumber juice small,0,g,0,mg,35,g,24,g,0,g,0,g,0,g,0,g,18,g
+414,robeks,dr robeks smoothie large,3,g,10,mg,100,g,97,g,6,g,0,g,0,g,4,g,65,g
+415,robeks,dr robeks smoothie medium,2,g,5,mg,70,g,71,g,5,g,0,g,0,g,2,g,48,g
+416,robeks,emperor acai smoothie large,3,g,10,mg,70,g,93,g,7,g,0,g,0,g,6,g,74,g
+417,robeks,emperor acai smoothie medium,3,g,5,mg,70,g,68,g,5,g,0,g,0,g,4,g,55,g
+418,robeks,evergreen juice large,0,g,0,mg,0,g,56,g,4,g,0,g,0,g,0,g,52,g
+419,robeks,evergreen juice medium,0,g,0,mg,0,g,41,g,3,g,0,g,0,g,0,g,38,g
+420,robeks,evergreen juice small,0,g,0,mg,200,g,29,g,4,g,0,g,0,g,3,g,18,g
+421,robeks,g snap juice large,2,g,0,mg,0,g,83,g,8,g,0,g,0,g,2,g,64,g
+422,robeks,g snap juice medium,1,g,0,mg,0,g,60,g,6,g,0,g,0,g,1,g,47,g
+423,robeks,g snap juice small,1,g,0,mg,0,g,33,g,3,g,0,g,0,g,1,g,26,g
+424,robeks,green bliss bowl,0,g,5,mg,135,g,101,g,6,g,0,g,0,g,6,g,70,g
+425,robeks,heros garden smoothie large,0,g,0,mg,135,g,98,g,5,g,0,g,0,g,8,g,79,g
+426,robeks,heros garden smoothie medium,0,g,0,mg,70,g,69,g,3,g,0,g,0,g,5,g,56,g
+427,robeks,heros garden smoothie small,0,g,0,mg,70,g,41,g,3,g,0,g,0,g,4,g,32,g
+428,robeks,hummingbird smoothie large,2,g,10,mg,70,g,118,g,2,g,0,g,0,g,4,g,96,g
+429,robeks,hummingbird smoothie medium,1,g,5,mg,35,g,88,g,1,g,0,g,0,g,3,g,73,g
+430,robeks,hummingbird smoothie small,1,g,5,mg,35,g,43,g,1,g,0,g,0,g,2,g,35,g
+431,robeks,lean green smoothie large,0,g,5,mg,270,g,76,g,6,g,0,g,0,g,4,g,53,g
+432,robeks,lean green smoothie medium,0,g,5,mg,200,g,52,g,4,g,0,g,0,g,3,g,36,g
+433,robeks,lean green smoothie small,0,g,0,mg,135,g,35,g,3,g,0,g,0,g,2,g,24,g
+434,robeks,lemon ginger shot,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,1,g,1,g
+435,robeks,mahalo mango smoothie large,1,g,5,mg,100,g,117,g,2,g,0,g,0,g,4,g,101,g
+436,robeks,mahalo mango smoothie medium,1,g,5,mg,70,g,85,g,2,g,0,g,0,g,2,g,74,g
+437,robeks,mahalo mango smoothie small,0,g,0,mg,35,g,40,g,1,g,0,g,0,g,1,g,35,g
+438,robeks,mango turmeric madness smoothie large,0,g,0,mg,0,g,93,g,2,g,0,g,0,g,6,g,76,g
+439,robeks,mango turmeric madness smoothie medium,0,g,0,mg,0,g,65,g,1,g,0,g,0,g,4,g,54,g
+440,robeks,mango turmeric madness smoothie small,0,g,0,mg,0,g,41,g,1,g,0,g,0,g,3,g,33,g
+441,robeks,muscle max smoothie large,2,g,50,mg,240,g,124,g,27,g,0,g,0,g,5,g,92,g
+442,robeks,muscle max smoothie medium,1,g,45,mg,200,g,90,g,26,g,0,g,0,g,4,g,66,g
+443,robeks,naturally coffee smoothie large,18,g,0,mg,410,g,79,g,12,g,0,g,0,g,1,g,56,g
+444,robeks,naturally coffee smoothie medium,14,g,0,mg,270,g,53,g,8,g,0,g,0,g,1,g,37,g
+445,robeks,nuts about protein smoothie large,0,g,30,mg,680,g,112,g,44,g,0,g,0,g,6,g,70,g
+446,robeks,nuts about protein smoothie medium,0,g,30,mg,480,g,64,g,34,g,0,g,0,g,4,g,38,g
+447,robeks,nutty acai bowl,0,g,0,mg,170,g,105,g,14,g,0,g,0,g,11,g,74,g
+448,robeks,p nut power plus smoothie large,27,g,20,mg,750,g,129,g,46,g,0,g,0,g,13,g,73,g
+449,robeks,p nut power plus smoothie medium,19,g,20,mg,540,g,91,g,36,g,0,g,0,g,10,g,51,g
+450,robeks,passionfruit cove smoothie large,2,g,10,mg,70,g,110,g,2,g,0,g,0,g,3,g,89,g
+451,robeks,passionfruit cove smoothie medium,1,g,5,mg,35,g,80,g,1,g,0,g,0,g,2,g,67,g
+452,robeks,passionfruit cove smoothie small,1,g,5,mg,35,g,38,g,1,g,0,g,0,g,1,g,31,g
+453,robeks,pina koolada smoothie large,4,g,5,mg,135,g,121,g,4,g,0,g,0,g,4,g,99,g
+454,robeks,pina koolada smoothie medium,3,g,5,mg,100,g,89,g,3,g,0,g,0,g,3,g,73,g
+455,robeks,pina koolada smoothie small,1,g,0,mg,35,g,43,g,1,g,0,g,0,g,1,g,34,g
+456,robeks,polar pineapple smoothie large,2,g,10,mg,70,g,107,g,2,g,0,g,0,g,3,g,86,g
+457,robeks,polar pineapple smoothie medium,1,g,5,mg,35,g,78,g,1,g,0,g,0,g,2,g,65,g
+458,robeks,polar pineapple smoothie small,1,g,5,mg,35,g,37,g,1,g,0,g,0,g,1,g,30,g
+459,robeks,queen of all greens smoothie large,0,g,0,mg,70,g,97,g,3,g,0,g,0,g,7,g,75,g
+460,robeks,queen of all greens smoothie medium,0,g,0,mg,35,g,69,g,2,g,0,g,0,g,4,g,56,g
+461,robeks,queen ofeall greens smoothie small,0,g,0,mg,35,g,42,g,2,g,0,g,0,g,3,g,32,g
+462,robeks,raspberry romance smoothie large,1,g,5,mg,135,g,111,g,3,g,0,g,0,g,4,g,89,g
+463,robeks,raspberry romance smoothie medium,1,g,5,mg,70,g,82,g,2,g,0,g,0,g,3,g,66,g
+464,robeks,raspberry romance smoothie small,0,g,0,mg,35,g,40,g,1,g,0,g,0,g,2,g,32,g
+465,robeks,root to stem juice large,0,g,0,mg,370,g,78,g,12,g,0,g,0,g,7,g,53,g
+466,robeks,root to stem juice medium,0,g,0,mg,270,g,54,g,8,g,0,g,0,g,5,g,37,g
+467,robeks,root to stem juice small,0,g,0,mg,170,g,33,g,4,g,0,g,0,g,3,g,24,g
+468,robeks,south pacific squeeze smoothie large,2,g,10,mg,35,g,102,g,5,g,0,g,0,g,4,g,70,g
+469,robeks,south pacific squeeze smoothie medium,2,g,5,mg,35,g,75,g,4,g,0,g,0,g,2,g,53,g
+470,robeks,south pacific squeeze smoothie small,1,g,5,mg,0,g,37,g,2,g,0,g,0,g,1,g,26,g
+471,robeks,strawnana berry smoothie large,0,g,5,mg,100,g,107,g,3,g,0,g,0,g,5,g,82,g
+472,robeks,strawnana berry smoothie medium,0,g,5,mg,70,g,79,g,2,g,0,g,0,g,3,g,61,g
+473,robeks,strawnana berry smoothie small,0,g,0,mg,35,g,37,g,1,g,0,g,0,g,1,g,28,g
+474,robeks,super green smoothie large,5,g,0,mg,480,g,77,g,13,g,0,g,0,g,5,g,55,g
+475,robeks,super green smoothie medium,4,g,0,mg,370,g,54,g,10,g,0,g,0,g,3,g,39,g
+476,robeks,tropi kale smoothie large,1,g,5,mg,200,g,102,g,5,g,0,g,0,g,5,g,77,g
+477,robeks,tropi kale smoothie medium,1,g,5,mg,70,g,81,g,2,g,0,g,0,g,2,g,69,g
+478,robeks,turmeric shot,0,g,0,mg,0,g,11,g,0,g,0,g,0,g,0,g,10,g
+479,robeks,wheatgrass shot,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+480,rock bottom restaurant,chicken quesadillas,105,g,280,mg,3425,g,80,g,77,g,54,g,0,g,7,g,8,g
+481,rock bottom restaurant,brewery nachos,86,g,234,mg,5104,g,151,g,68,g,47,g,0,g,18,g,12,g
+482,rock bottom restaurant,ball park pretzels,10,g,0,mg,1405,g,329,g,51,g,0,g,0,g,10,g,10,g
+483,rock bottom restaurant,veggie quesadilla,81,g,152,mg,3249,g,84,g,47,g,46,g,0,g,9,g,9,g
+484,rock bottom restaurant,crispy chicken fingers without dressing or sauce,11,g,128,mg,2183,g,74,g,61,g,3,g,0,g,4,g,7,g
+485,rock bottom restaurant,wings without sauce large,66,g,283,mg,295,g,2,g,68,g,18,g,0,g,1,g,1,g
+486,rock bottom restaurant,southwest egg rolls,25,g,67,mg,1425,g,54,g,33,g,9,g,0,g,5,g,11,g
+487,rock bottom restaurant,fried pickles,73,g,29,mg,5698,g,80,g,11,g,13,g,0,g,4,g,8,g
+488,rock bottom restaurant,asiago artichoke and crab dip without toast,54,g,92,mg,758,g,7,g,11,g,18,g,0,g,2,g,3,g
+489,rock bottom restaurant,bacon wrapped jalapeno poppers,52,g,92,mg,2295,g,81,g,19,g,21,g,0,g,5,g,19,g
+490,rock bottom restaurant,brewery nachos with guacamole,93,g,234,mg,5350,g,156,g,69,g,48,g,0,g,21,g,13,g
+491,rock bottom restaurant,fire cracker shrimp without sauce or dressings,27,g,388,mg,2774,g,112,g,45,g,5,g,0,g,4,g,52,g
+492,rock bottom restaurant,beer battered onion rings without sauce,17,g,0,mg,1153,g,36,g,4,g,2,g,0,g,0,g,5,g
+493,rock bottom restaurant,brewery nachos with santa fe pulled chicken,90,g,300,mg,5655,g,152,g,94,g,48,g,0,g,18,g,13,g
+494,rock bottom restaurant,brewery nachos with seasoned beef,100,g,309,mg,5250,g,151,g,89,g,52,g,0,g,18,g,12,g
+495,rock bottom restaurant,jalapeno pretel stix,62,g,119,mg,4896,g,217,g,57,g,32,g,0,g,7,g,2,g
+496,rock bottom restaurant,wings with blue cheese sauce small,58,g,199,mg,449,g,2,g,46,g,15,g,0,g,0,g,2,g
+497,rock bottom restaurant,southwest egg rolls with jalapeno ranch dressing,39,g,74,mg,1624,g,58,g,34,g,12,g,0,g,6,g,12,g
+498,rock bottom restaurant,wings with blue cheese dipping sauce large,94,g,303,mg,799,g,4,g,70,g,24,g,0,g,1,g,3,g
+499,rock bottom restaurant,wings with chipotle honey sauce small,44,g,189,mg,743,g,37,g,45,g,12,g,0,g,1,g,33,g
+500,rock bottom restaurant,wings with ranch dressing small,56,g,1,mg,358,g,3,g,46,g,14,g,0,g,1,g,2,g
+501,rock bottom restaurant,wings with buffalo sauce small,54,g,189,mg,1608,g,3,g,45,g,17,g,0,g,1,g,1,g
+502,rock bottom restaurant,jalapeno spinach dip with nacho chips,56,g,143,mg,3275,g,106,g,36,g,28,g,0,g,7,g,4,g
+503,rock bottom restaurant,wings with buffalo sauce large,80,g,283,mg,2512,g,4,g,68,g,25,g,0,g,1,g,2,g
+504,rock bottom restaurant,guacamole with nacho chips,36,g,0,mg,1664,g,112,g,16,g,4,g,0,g,17,g,2,g
+505,rock bottom restaurant,jalapeno spinach cheese dip,42,g,143,mg,2312,g,10,g,24,g,27,g,0,g,1,g,4,g
+506,rock bottom restaurant,appetizer combo,118,g,258,mg,9434,g,286,g,113,g,43,g,0,g,12,g,21,g
+507,rock bottom restaurant,wings with chipotle honey sauce large,66,g,283,mg,1115,g,56,g,68,g,18,g,0,g,1,g,49,g
+508,rock bottom restaurant,guacamole made to order,23,g,0,mg,701,g,16,g,4,g,3,g,0,g,11,g,2,g
+509,rock bottom restaurant,wings without sauce small,44,g,189,mg,197,g,1,g,45,g,12,g,0,g,0,g,1,g
+510,rock bottom restaurant,wings with ranch dressing large,91,g,295,mg,617,g,4,g,69,g,22,g,0,g,1,g,3,g
+511,rock bottom restaurant,fresh squeezed lemonade,0,g,0,mg,3,g,35,g,0,g,0,g,0,g,0,g,32,g
+512,rock bottom restaurant,housemade root beer,0,g,0,mg,31,g,42,g,0,g,0,g,0,g,0,g,42,g
+513,rock bottom restaurant,mango iced tea,0,g,0,mg,11,g,35,g,0,g,0,g,0,g,1,g,30,g
+514,rock bottom restaurant,raspberry iced tea,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,0,g,11,g
+515,rock bottom restaurant,carrot cake,123,g,218,mg,1125,g,253,g,23,g,33,g,0,g,9,g,175,g
+516,rock bottom restaurant,strawberry cheesecake,54,g,255,mg,468,g,80,g,11,g,31,g,2,g,3,g,62,g
+517,rock bottom restaurant,salted caramel toffee mason jar dessert,69,g,240,mg,656,g,87,g,10,g,39,g,2,g,1,g,65,g
+518,rock bottom restaurant,bourbon pecan pie mason jar dessert,49,g,199,mg,255,g,113,g,8,g,26,g,0,g,1,g,77,g
+519,rock bottom restaurant,fudge brownie,65,g,311,mg,699,g,145,g,14,g,40,g,0,g,1,g,122,g
+520,rock bottom restaurant,french fries,9,g,0,mg,518,g,20,g,2,g,2,g,0,g,2,g,0,g
+521,rock bottom restaurant,santa fe seasoned fries,9,g,0,mg,518,g,20,g,2,g,2,g,0,g,2,g,0,g
+522,rock bottom restaurant,kids small fry steak,23,g,74,mg,1100,g,4,g,29,g,9,g,0,g,1,g,2,g
+523,rock bottom restaurant,kids grilled lil chicken tenders,17,g,73,mg,296,g,6,g,28,g,3,g,0,g,1,g,3,g
+524,rock bottom restaurant,kids make your own plain pizza,4,g,8,mg,160,g,12,g,6,g,2,g,0,g,1,g,1,g
+525,rock bottom restaurant,kids fried lil chicken fingers,17,g,107,mg,1605,g,56,g,49,g,4,g,0,g,3,g,9,g
+526,rock bottom restaurant,kids fried lil chicken tenders,8,g,83,mg,913,g,27,g,37,g,1,g,0,g,1,g,4,g
+527,rock bottom restaurant,kids pepperoni pizza,5,g,12,mg,220,g,12,g,6,g,3,g,0,g,1,g,1,g
+528,rock bottom restaurant,kids chocolate milk,6,g,25,mg,186,g,63,g,10,g,4,g,0,g,0,g,53,g
+529,rock bottom restaurant,kids french fries,4,g,0,mg,259,g,10,g,1,g,1,g,0,g,1,g,0,g
+530,rock bottom restaurant,kid mac n cheesy,11,g,25,mg,842,g,51,g,12,g,3,g,0,g,2,g,13,g
+531,rock bottom restaurant,kids root beer float,8,g,28,mg,48,g,41,g,2,g,5,g,0,g,0,g,39,g
+532,rock bottom restaurant,kids make your own sundae,29,g,93,mg,159,g,72,g,5,g,17,g,0,g,0,g,49,g
+533,rock bottom restaurant,kids rocky burger with cheese,22,g,86,mg,2442,g,41,g,31,g,10,g,0,g,3,g,15,g
+534,rock bottom restaurant,kids fresh fruit,0,g,0,mg,27,g,24,g,1,g,0,g,0,g,3,g,19,g
+535,rock bottom restaurant,kids buttered noodles,14,g,0,mg,31,g,50,g,8,g,6,g,0,g,3,g,3,g
+536,rock bottom restaurant,kids grilled cheese sandwich,19,g,34,mg,1043,g,31,g,13,g,11,g,0,g,2,g,6,g
+537,rock bottom restaurant,kids rocky burger,15,g,70,mg,2062,g,41,g,26,g,6,g,0,g,3,g,15,g
+538,rock bottom restaurant,kids white cheddar mashed potatoes,9,g,23,mg,681,g,22,g,5,g,5,g,0,g,2,g,3,g
+539,rock bottom restaurant,bbq chicken flatbread,3,g,13,mg,270,g,10,g,5,g,2,g,0,g,0,g,2,g
+540,rock bottom restaurant,add on shrimp,3,g,129,mg,155,g,2,g,17,g,1,g,0,g,0,g,0,g
+541,rock bottom restaurant,top sirloin steak 10 oz without sides and seasoning,44,g,147,mg,1071,g,1,g,57,g,18,g,0,g,0,g,0,g
+542,rock bottom restaurant,chicken fried chicken,40,g,245,mg,3350,g,78,g,72,g,21,g,0,g,5,g,7,g
+543,rock bottom restaurant,lobster and shrimp enchiladas,35,g,254,mg,2172,g,37,g,32,g,19,g,0,g,4,g,2,g
+544,rock bottom restaurant,jambalaya,83,g,203,mg,3688,g,47,g,54,g,29,g,0,g,4,g,7,g
+545,rock bottom restaurant,bacon chicken mac n cheese,89,g,284,mg,2281,g,40,g,58,g,48,g,0,g,4,g,4,g
+546,rock bottom restaurant,low country shrimp and grits,84,g,316,mg,2255,g,56,g,49,g,39,g,0,g,4,g,2,g
+547,rock bottom restaurant,cheese grits,17,g,48,mg,384,g,15,g,7,g,11,g,0,g,1,g,0,g
+548,rock bottom restaurant,ribeye without sides,60,g,428,mg,1106,g,1,g,90,g,24,g,0,g,0,g,0,g
+549,rock bottom restaurant,top sirloin 7 oz without sides or seasonings,31,g,103,mg,1027,g,1,g,40,g,13,g,0,g,0,g,0,g
+550,rock bottom restaurant,classic mac n chicken,67,g,249,mg,1647,g,36,g,48,g,40,g,0,g,3,g,2,g
+551,rock bottom restaurant,pretzel crusted chicken,59,g,515,mg,4347,g,107,g,90,g,31,g,0,g,6,g,6,g
+552,rock bottom restaurant,smoked chicken tostadas,31,g,96,mg,1486,g,44,g,28,g,11,g,0,g,8,g,6,g
+553,rock bottom restaurant,mango habanero chicken,41,g,197,mg,4229,g,58,g,84,g,19,g,0,g,5,g,17,g
+554,rock bottom restaurant,dip trio,57,g,121,mg,3316,g,98,g,33,g,25,g,0,g,12,g,8,g
+555,rock bottom restaurant,dip trio with santa fe pulled chicken,58,g,138,mg,3454,g,99,g,39,g,25,g,0,g,12,g,8,g
+556,rock bottom restaurant,grilled veggie mac and cheese,63,g,183,mg,1636,g,39,g,23,g,39,g,0,g,4,g,3,g
+557,rock bottom restaurant,boneless wings without sauce large,61,g,240,mg,6033,g,122,g,90,g,11,g,0,g,7,g,7,g
+558,rock bottom restaurant,boneless wings without sauce small,41,g,160,mg,4022,g,81,g,60,g,7,g,0,g,4,g,5,g
+559,rock bottom restaurant,dip trio with seasoned ground beef,64,g,142,mg,3489,g,102,g,38,g,28,g,0,g,13,g,8,g
+560,rock bottom restaurant,cajun pasta,75,g,272,mg,2994,g,113,g,65,g,25,g,0,g,9,g,12,g
+561,rock bottom restaurant,pepperoni pizza,7,g,15,mg,311,g,20,g,9,g,3,g,0,g,1,g,1,g
+562,rock bottom restaurant,margherita pizza,6,g,9,mg,224,g,20,g,7,g,2,g,0,g,1,g,1,g
+563,rock bottom restaurant,balsamic vinaigrette,10,g,0,mg,380,g,8,g,0,g,1,g,0,g,0,g,6,g
+564,rock bottom restaurant,caesar dressing,36,g,20,mg,220,g,2,g,2,g,6,g,0,g,0,g,0,g
+565,rock bottom restaurant,ranch dressing,20,g,10,mg,280,g,4,g,2,g,4,g,0,g,0,g,2,g
+566,rock bottom restaurant,light balsamic vinaigrette,12,g,0,mg,540,g,6,g,0,g,2,g,0,g,0,g,4,g
+567,rock bottom restaurant,blue cheese dressing,28,g,20,mg,504,g,2,g,2,g,6,g,0,g,0,g,2,g
+568,rock bottom restaurant,asiago caesar dressing,33,g,20,mg,219,g,2,g,2,g,6,g,0,g,0,g,0,g
+569,rock bottom restaurant,roasted jalapeno ranch dressing,19,g,9,mg,266,g,4,g,2,g,4,g,0,g,0,g,2,g
+570,rock bottom restaurant,light raspberry vinaigrette,5,g,0,mg,249,g,10,g,0,g,1,g,0,g,0,g,9,g
+571,rock bottom restaurant,honey dijon dressing,24,g,9,mg,471,g,13,g,1,g,4,g,0,g,0,g,11,g
+572,rock bottom restaurant,honey dijon vinaigrette,19,g,6,mg,440,g,11,g,1,g,3,g,0,g,0,g,9,g
+573,rock bottom restaurant,chimichurri dressing,30,g,5,mg,624,g,3,g,1,g,5,g,0,g,1,g,1,g
+574,rock bottom restaurant,bbq jalapeno ranch dressing,14,g,7,mg,344,g,12,g,2,g,3,g,0,g,0,g,10,g
+575,rock bottom restaurant,santa fe ranch chicken salad without dressing,25,g,104,mg,2719,g,78,g,51,g,8,g,0,g,12,g,14,g
+576,rock bottom restaurant,brewers cobb salad without dressing,31,g,250,mg,1628,g,14,g,46,g,12,g,0,g,6,g,6,g
+577,rock bottom restaurant,greenhouse salad without dressing,14,g,212,mg,312,g,24,g,11,g,3,g,0,g,5,g,13,g
+578,rock bottom restaurant,chicken waldorf salad without dressing,27,g,82,mg,1166,g,45,g,37,g,6,g,0,g,6,g,31,g
+579,rock bottom restaurant,caesar salad without dressing,12,g,8,mg,508,g,16,g,8,g,3,g,0,g,4,g,3,g
+580,rock bottom restaurant,ahi tuna salad,22,g,38,mg,1363,g,48,g,32,g,3,g,0,g,12,g,13,g
+581,rock bottom restaurant,classic wedge salad without dressing,20,g,44,mg,835,g,7,g,14,g,10,g,0,g,3,g,4,g
+582,rock bottom restaurant,chopped sesame chicken salad,23,g,99,mg,2266,g,65,g,46,g,3,g,0,g,7,g,43,g
+583,rock bottom restaurant,steakhouse salad without dressing,77,g,201,mg,3287,g,13,g,73,g,29,g,0,g,4,g,6,g
+584,rock bottom restaurant,chili lime fjaita salad with chipotle marinated chicken without dressing,24,g,147,mg,3225,g,36,g,53,g,11,g,0,g,9,g,12,g
+585,rock bottom restaurant,greenhouse side salad without dressing,10,g,106,mg,211,g,19,g,7,g,2,g,0,g,4,g,11,g
+586,rock bottom restaurant,chili lime fjaita salad with marinated steak without dressing,62,g,196,mg,4005,g,34,g,70,g,27,g,0,g,9,g,10,g
+587,rock bottom restaurant,chili lime fajita salad without protein or dressing,21,g,49,mg,2039,g,32,g,13,g,10,g,0,g,8,g,10,g
+588,rock bottom restaurant,caesar side salad,31,g,19,mg,419,g,10,g,6,g,6,g,0,g,2,g,1,g
+589,rock bottom restaurant,veggie burger,37,g,10,mg,3107,g,99,g,17,g,11,g,0,g,8,g,15,g
+590,rock bottom restaurant,avocado chicken sandwich,34,g,124,mg,1831,g,62,g,56,g,12,g,0,g,4,g,12,g
+591,rock bottom restaurant,black and bleu burger 3 4 lb,29,g,23,mg,1495,g,63,g,13,g,10,g,0,g,2,g,14,g
+592,rock bottom restaurant,classic burger with 12 oz burger patty,58,g,23,mg,1974,g,56,g,74,g,24,g,0,g,2,g,11,g
+593,rock bottom restaurant,2am burger,33,g,245,mg,1915,g,70,g,26,g,15,g,0,g,3,g,10,g
+594,rock bottom restaurant,baja chicken sandwich,38,g,129,mg,2020,g,63,g,54,g,12,g,0,g,5,g,12,g
+595,rock bottom restaurant,classic burger,16,g,20,mg,1356,g,56,g,14,g,9,g,0,g,2,g,11,g
+596,rock bottom restaurant,classic burger with bison burger patty,37,g,98,mg,3198,g,56,g,37,g,17,g,0,g,2,g,11,g
+597,rock bottom restaurant,buffalo chicken sandwich,48,g,225,mg,4205,g,99,g,101,g,18,g,0,g,4,g,17,g
+598,rock bottom restaurant,bacon cheddar burger,33,g,40,mg,1865,g,62,g,19,g,14,g,0,g,2,g,16,g
+599,rock bottom restaurant,crispy baja chicken sandwich,41,g,133,mg,2675,g,112,g,62,g,13,g,0,g,6,g,17,g
+600,rock bottom restaurant,bacon cheddar burger with 12 oz burger patty,74,g,253,mg,2483,g,62,g,80,g,30,g,0,g,2,g,16,g
+601,rock bottom restaurant,honey bbq burger with 12 oz burger patty,60,g,233,mg,2820,g,91,g,76,g,25,g,0,g,4,g,29,g
+602,rock bottom restaurant,spicy firemans burger with 12 oz burger patty,75,g,243,mg,2043,g,62,g,75,g,27,g,0,g,4,g,12,g
+603,rock bottom restaurant,pulled bbq pork sandwich,32,g,95,mg,1246,g,92,g,33,g,11,g,0,g,2,g,43,g
+604,rock bottom restaurant,black and bleu burger 3 4 lb with 12 oz blackened beef burger beef patty,71,g,236,mg,4306,g,65,g,74,g,26,g,0,g,3,g,14,g
+605,rock bottom restaurant,honey bbq burger,18,g,20,mg,2202,g,91,g,16,g,9,g,0,g,4,g,29,g
+606,rock bottom restaurant,smashed and stacked burger with bison burger patty,67,g,145,mg,3747,g,56,g,47,g,28,g,0,g,1,g,11,g
+607,rock bottom restaurant,smashed and stacked burger with 12 oz burger patty,89,g,280,mg,2522,g,56,g,84,g,35,g,0,g,1,g,11,g
+608,rock bottom restaurant,bison prairie burger,51,g,123,mg,1373,g,58,g,39,g,22,g,0,g,2,g,12,g
+609,rock bottom restaurant,makers mark bourbonzola burger with bison burger patty,35,g,86,mg,3696,g,71,g,35,g,15,g,0,g,2,g,15,g
+610,rock bottom restaurant,2am burger with bison burger patty,54,g,323,mg,3757,g,70,g,49,g,23,g,0,g,3,g,10,g
+611,rock bottom restaurant,smashed and stacked burger with angus burger patty,63,g,183,mg,3767,g,56,g,59,g,26,g,0,g,1,g,11,g
+612,rock bottom restaurant,makers mark bourgonzola burger,14,g,8,mg,1854,g,71,g,13,g,7,g,0,g,2,g,15,g
+613,rock bottom restaurant,smashed and stacked burger,47,g,67,mg,1905,g,56,g,24,g,19,g,0,g,1,g,11,g
+614,rock bottom restaurant,bacon cheddar burger with angus burger patty,49,g,156,mg,3728,g,63,g,55,g,20,g,0,g,2,g,16,g
+615,rock bottom restaurant,black and bleu burger 3 4 lb with 7 oz blackened beef burger patty,53,g,147,mg,4233,g,65,g,49,g,20,g,0,g,3,g,14,g
+616,rock bottom restaurant,makers mark boubonzola burger with 12 oz burger patty,56,g,221,mg,2472,g,71,g,73,g,23,g,0,g,2,g,15,g
+617,rock bottom restaurant,honey bbq burger with angus burger patty,34,g,136,mg,4064,g,91,g,51,g,15,g,0,g,4,g,29,g
+618,rock bottom restaurant,2am burger with angus burger patty,49,g,361,mg,3777,g,70,g,61,g,21,g,0,g,3,g,10,g
+619,rock bottom restaurant,spicy firemans burger,33,g,30,mg,1425,g,62,g,15,g,11,g,0,g,4,g,12,g
+620,rock bottom restaurant,bacon cheddar burger with bison burger patty,53,g,118,mg,3708,g,63,g,42,g,22,g,0,g,2,g,16,g
+621,rock bottom restaurant,classic burger with angus burger patty,32,g,136,mg,3219,g,56,g,49,g,15,g,0,g,2,g,11,g
+622,rock bottom restaurant,spicy firemans burger with angus burger patty,49,g,146,mg,3288,g,62,g,50,g,18,g,0,g,5,g,12,g
+623,rock bottom restaurant,2am burger with 12 oz burger patty,75,g,458,mg,2533,g,70,g,86,g,31,g,0,g,3,g,10,g
+624,rock bottom restaurant,makers mark boubonzola burger with angus burger patty,30,g,124,mg,3717,g,71,g,48,g,13,g,0,g,2,g,15,g
+625,rock bottom restaurant,spicy firemans burger with bison burger patty,54,g,108,mg,3267,g,62,g,37,g,20,g,0,g,5,g,12,g
+626,rock bottom restaurant,blackened mahi sandwich,31,g,145,mg,2513,g,59,g,41,g,8,g,0,g,3,g,11,g
+627,rock bottom restaurant,brewery steak sandwich,55,g,135,mg,2440,g,53,g,46,g,22,g,0,g,3,g,5,g
+628,rock bottom restaurant,italian vegetable butter sauce,8,g,22,mg,565,g,2,g,0,g,5,g,0,g,0,g,1,g
+629,rock bottom restaurant,lime vegetable butter sauce,8,g,22,mg,565,g,2,g,0,g,5,g,0,g,0,g,1,g
+630,rock bottom restaurant,garlic chile vegetable butter sauce,8,g,20,mg,554,g,2,g,0,g,5,g,0,g,0,g,1,g
+631,rock bottom restaurant,ginger scallion vegetable butter sauce,7,g,17,mg,537,g,2,g,0,g,4,g,0,g,0,g,1,g
+632,rock bottom restaurant,fish and chips,76,g,151,mg,4151,g,115,g,54,g,15,g,0,g,8,g,5,g
+633,rock bottom restaurant,lemon salmon,25,g,88,mg,2165,g,29,g,35,g,5,g,0,g,4,g,5,g
+634,rock bottom restaurant,creole salmon,46,g,120,mg,1960,g,11,g,38,g,20,g,0,g,3,g,3,g
+635,rock bottom restaurant,mac n cheese,33,g,58,mg,382,g,17,g,9,g,14,g,0,g,1,g,0,g
+636,rock bottom restaurant,onion rings,23,g,0,mg,1499,g,47,g,5,g,3,g,0,g,0,g,7,g
+637,rock bottom restaurant,brussels sprouts,0,g,0,mg,465,g,9,g,3,g,0,g,0,g,3,g,2,g
+638,rock bottom restaurant,white cheddar mashed potatoes,19,g,47,mg,1362,g,45,g,10,g,11,g,0,g,5,g,5,g
+639,rock bottom restaurant,green beans,0,g,0,mg,443,g,6,g,1,g,0,g,0,g,2,g,2,g
+640,rock bottom restaurant,petite carrots,0,g,0,mg,543,g,8,g,1,g,0,g,0,g,3,g,4,g
+641,rock bottom restaurant,side apple coleslaw,13,g,6,mg,120,g,10,g,1,g,2,g,0,g,2,g,7,g
+642,rock bottom restaurant,black beans,2,g,3,mg,925,g,23,g,8,g,1,g,0,g,7,g,3,g
+643,rock bottom restaurant,rockin red rice,0,g,0,mg,497,g,31,g,3,g,0,g,0,g,0,g,1,g
+644,rock bottom restaurant,char grilled veggies,2,g,0,mg,1003,g,9,g,2,g,0,g,0,g,3,g,3,g
+645,rock bottom restaurant,broccoli florets,0,g,0,mg,499,g,6,g,3,g,0,g,0,g,3,g,3,g
+646,rock bottom restaurant,75 lb black and bleu burger,29,g,25,mg,1500,g,63,g,13,g,10,g,0,g,2,g,14,g
+647,rock bottom restaurant,75 lb black and bleu burger with 12 oz blackened beef burger patty,71,g,235,mg,4310,g,65,g,74,g,26,g,0,g,3,g,14,g
+648,rock bottom restaurant,75 lb black and bleu burger with 7 oz blackened beef burger patty,53,g,145,mg,4230,g,65,g,49,g,20,g,0,g,3,g,14,g
+649,rock bottom restaurant,2 00 am burger,33,g,245,mg,1920,g,70,g,26,g,15,g,0,g,3,g,10,g
+650,rock bottom restaurant,2 00 am burger with 12 oz burger patty,75,g,460,mg,2530,g,70,g,86,g,31,g,0,g,3,g,10,g
+651,rock bottom restaurant,2 00 am burger with bison burger patty,54,g,325,mg,3760,g,70,g,49,g,23,g,0,g,3,g,10,g
+652,rock bottom restaurant,2 00 am burger with fresh angus burger patty,49,g,360,mg,3780,g,70,g,61,g,21,g,0,g,3,g,10,g
+653,rock bottom restaurant,a by acacia chardonnay,0,g,0,mg,5,g,4,g,0,g,0,g,0,g,0,g,1,g
+654,rock bottom restaurant,ahi tuna salad,22,g,40,mg,1360,g,48,g,32,g,3,g,0,g,12,g,13,g
+655,rock bottom restaurant,apothic red,0,g,0,mg,5,g,4,g,0,g,0,g,0,g,0,g,1,g
+656,rock bottom restaurant,appetizer combo,118,g,260,mg,9430,g,286,g,113,g,43,g,0,g,12,g,21,g
+657,rock bottom restaurant,apple coleslaw,13,g,5,mg,120,g,10,g,1,g,2,g,0,g,2,g,7,g
+658,rock bottom restaurant,arnold palmer,0,g,0,mg,0,g,15,g,0,g,0,g,0,g,0,g,14,g
+659,rock bottom restaurant,asiago artichoke and crab dip,54,g,90,mg,760,g,7,g,11,g,18,g,0,g,2,g,3,g
+660,rock bottom restaurant,asiago artichoke and crab dip with bruschetta toast,72,g,100,mg,3840,g,249,g,61,g,22,g,0,g,12,g,3,g
+661,rock bottom restaurant,asiago caesar dressing,33,g,20,mg,220,g,2,g,2,g,6,g,0,g,0,g,0,g
+662,rock bottom restaurant,avocado chicken sandwich,34,g,125,mg,1830,g,62,g,56,g,12,g,0,g,4,g,12,g
+663,rock bottom restaurant,avocado chicken sandwich gluten sensitive,24,g,125,mg,1320,g,10,g,48,g,7,g,0,g,3,g,3,g
+664,rock bottom restaurant,avocado chicken sandwich with iceberg lettuce rounds gluten sensitive,24,g,125,mg,1320,g,11,g,48,g,7,g,0,g,4,g,4,g
+665,rock bottom restaurant,avocado chicken sandwich with toasted gluten free bun gluten sensitive,41,g,125,mg,1730,g,48,g,52,g,13,g,0,g,8,g,7,g
+666,rock bottom restaurant,bacon cheddar burger,33,g,40,mg,1870,g,62,g,19,g,14,g,0,g,2,g,16,g
+667,rock bottom restaurant,bacon cheddar burger gluten sensitive,23,g,40,mg,1350,g,10,g,11,g,9,g,0,g,1,g,7,g
+668,rock bottom restaurant,bacon cheddar burger with 12 oz burger patty,74,g,255,mg,2480,g,62,g,80,g,30,g,0,g,2,g,16,g
+669,rock bottom restaurant,bacon cheddar burger with 12 oz burger patty gluten sensitive,65,g,255,mg,1970,g,10,g,72,g,25,g,0,g,1,g,7,g
+670,rock bottom restaurant,bacon cheddar burger with bison burger patty,53,g,120,mg,3710,g,63,g,42,g,22,g,0,g,2,g,16,g
+671,rock bottom restaurant,bacon cheddar burger with bison burger patty gluten sensitive,44,g,120,mg,3190,g,10,g,34,g,18,g,0,g,1,g,7,g
+672,rock bottom restaurant,bacon cheddar burger with fresh angus burger patty,49,g,155,mg,3730,g,63,g,55,g,20,g,0,g,2,g,16,g
+673,rock bottom restaurant,bacon cheddar burger with fresh angus burger patty gluten sensitive,39,g,155,mg,3210,g,10,g,47,g,15,g,0,g,1,g,7,g
+674,rock bottom restaurant,bacon cheddar burger with iceberg lettuce rounds gluten sensitive,23,g,40,mg,1350,g,11,g,12,g,9,g,0,g,1,g,7,g
+675,rock bottom restaurant,bacon cheddar burger with toasted gluten free bun gluten sensitive,40,g,40,mg,1760,g,49,g,15,g,15,g,0,g,6,g,10,g
+676,rock bottom restaurant,bacon chicken mac n cheese,89,g,285,mg,2280,g,40,g,58,g,48,g,0,g,4,g,4,g
+677,rock bottom restaurant,bacon wrapped jalapeno poppers,52,g,90,mg,2300,g,81,g,19,g,21,g,0,g,5,g,19,g
+678,rock bottom restaurant,baja chicken sandwich,38,g,130,mg,2020,g,63,g,54,g,12,g,0,g,5,g,12,g
+679,rock bottom restaurant,ball park pretzels,10,g,0,mg,1410,g,329,g,51,g,0,g,0,g,10,g,10,g
+680,rock bottom restaurant,ball park pretzels with jalapeno spinach dip with pico garnish,32,g,70,mg,2570,g,334,g,63,g,13,g,0,g,11,g,12,g
+681,rock bottom restaurant,balsamic vinaigrette,10,g,0,mg,380,g,8,g,0,g,1,g,0,g,0,g,6,g
+682,rock bottom restaurant,bbq chicken flatbread 1 piece,3,g,15,mg,270,g,10,g,5,g,2,g,0,g,0,g,2,g
+683,rock bottom restaurant,bbq chicken flatbread 8 pieces,28,g,100,mg,2160,g,79,g,41,g,15,g,0,g,3,g,18,g
+684,rock bottom restaurant,bbq jalapeno ranch dressing,14,g,5,mg,340,g,12,g,2,g,3,g,0,g,0,g,10,g
+685,rock bottom restaurant,beer battered onion rings,17,g,0,mg,1150,g,36,g,4,g,2,g,0,g,0,g,5,g
+686,rock bottom restaurant,beer battered onion rings with ketchup,17,g,0,mg,1550,g,49,g,4,g,2,g,0,g,1,g,16,g
+687,rock bottom restaurant,beer battered onion rings with roasted jalapeno ranch,29,g,5,mg,1320,g,39,g,5,g,5,g,0,g,0,g,7,g
+688,rock bottom restaurant,bella sera moscato,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,0,g
+689,rock bottom restaurant,beringer stone cellars merlot,0,g,0,mg,5,g,4,g,0,g,0,g,0,g,0,g,1,g
+690,rock bottom restaurant,beringer white zinfandel,0,g,0,mg,5,g,8,g,0,g,0,g,0,g,0,g,5,g
+691,rock bottom restaurant,berry bash sangria,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,1,g,16,g
+692,rock bottom restaurant,bison prairie burger,51,g,125,mg,1370,g,58,g,39,g,22,g,0,g,2,g,12,g
+693,rock bottom restaurant,bison prairie burger gluten sensitive,43,g,125,mg,1080,g,6,g,31,g,18,g,0,g,1,g,3,g
+694,rock bottom restaurant,bison prairie burger with iceberg lettuce rounds gluten sensitive,43,g,125,mg,1090,g,8,g,32,g,18,g,0,g,2,g,5,g
+695,rock bottom restaurant,bison prairie burger with toasted gluten free bun gluten sensitive,59,g,125,mg,1490,g,45,g,35,g,23,g,0,g,6,g,6,g
+696,rock bottom restaurant,black beans,2,g,5,mg,930,g,23,g,8,g,1,g,0,g,7,g,3,g
+697,rock bottom restaurant,blackened mahi sandwich,31,g,145,mg,2510,g,59,g,41,g,8,g,0,g,3,g,11,g
+698,rock bottom restaurant,blackstone merlot,0,g,0,mg,5,g,4,g,0,g,0,g,0,g,0,g,1,g
+699,rock bottom restaurant,blue cheese dressing,28,g,20,mg,500,g,2,g,2,g,6,g,0,g,0,g,2,g
+700,rock bottom restaurant,boneless wings large,61,g,240,mg,6030,g,122,g,90,g,11,g,0,g,7,g,7,g
+701,rock bottom restaurant,boneless wings large with blue cheese dressing,89,g,260,mg,6540,g,124,g,93,g,17,g,0,g,7,g,9,g
+702,rock bottom restaurant,boneless wings large with buffalo sauce,76,g,240,mg,8150,g,124,g,91,g,18,g,0,g,7,g,8,g
+703,rock bottom restaurant,boneless wings large with chipotle honey bbq sauce,61,g,240,mg,6850,g,176,g,90,g,11,g,0,g,7,g,55,g
+704,rock bottom restaurant,boneless wings large with ranch dressing,86,g,250,mg,6360,g,125,g,91,g,15,g,0,g,7,g,9,g
+705,rock bottom restaurant,boneless wings small,41,g,160,mg,4020,g,81,g,60,g,7,g,0,g,4,g,5,g
+706,rock bottom restaurant,boneless wings small with blue cheese dressing,55,g,170,mg,4270,g,82,g,61,g,10,g,0,g,4,g,6,g
+707,rock bottom restaurant,boneless wings small with buffalo sauce,50,g,160,mg,5430,g,83,g,61,g,12,g,0,g,5,g,5,g
+708,rock bottom restaurant,boneless wings small with chipotle honey bbq sauce,41,g,160,mg,4570,g,118,g,60,g,7,g,0,g,5,g,37,g
+709,rock bottom restaurant,boneless wings small with ranch dressing,53,g,165,mg,4180,g,83,g,61,g,9,g,0,g,5,g,6,g
+710,rock bottom restaurant,bourbon mint lemonade,0,g,0,mg,0,g,22,g,0,g,0,g,0,g,1,g,19,g
+711,rock bottom restaurant,bourbon pecan pie mason jar dessert,49,g,200,mg,260,g,113,g,8,g,26,g,0,g,1,g,77,g
+712,rock bottom restaurant,brewers club sandwich,52,g,130,mg,2450,g,46,g,47,g,17,g,0,g,2,g,2,g
+713,rock bottom restaurant,brewers cobb salad,31,g,250,mg,1630,g,14,g,46,g,12,g,0,g,6,g,6,g
+714,rock bottom restaurant,brewers cobb salad with asiago caesar dressing,64,g,270,mg,1850,g,17,g,48,g,18,g,0,g,6,g,6,g
+715,rock bottom restaurant,brewers cobb salad with balsamic vinaigrette,41,g,250,mg,2010,g,22,g,46,g,13,g,0,g,6,g,12,g
+716,rock bottom restaurant,brewers cobb salad with bbq jalapeno ranch dressing,45,g,255,mg,1970,g,26,g,47,g,15,g,0,g,6,g,16,g
+717,rock bottom restaurant,brewers cobb salad with blue cheese dressing,59,g,270,mg,2130,g,16,g,48,g,18,g,0,g,6,g,8,g
+718,rock bottom restaurant,brewers cobb salad with caesar dressing,67,g,270,mg,1850,g,16,g,48,g,18,g,0,g,6,g,6,g
+719,rock bottom restaurant,brewers cobb salad with chimichurri dressing,61,g,255,mg,2250,g,18,g,47,g,17,g,0,g,6,g,7,g
+720,rock bottom restaurant,brewers cobb salad with honey dijon dressing,55,g,260,mg,2100,g,27,g,47,g,16,g,0,g,6,g,17,g
+721,rock bottom restaurant,brewers cobb salad with honey dijon vinaigrette,50,g,255,mg,2070,g,25,g,47,g,15,g,0,g,6,g,15,g
+722,rock bottom restaurant,brewers cobb salad with light balsamic vinaigrette,43,g,250,mg,2170,g,20,g,46,g,14,g,0,g,6,g,10,g
+723,rock bottom restaurant,brewers cobb salad with light raspberry vinaigrette,36,g,250,mg,1880,g,24,g,46,g,13,g,0,g,6,g,15,g
+724,rock bottom restaurant,brewers cobb salad with ranch dressing,51,g,260,mg,1910,g,18,g,48,g,16,g,0,g,6,g,8,g
+725,rock bottom restaurant,brewers cobb salad with roasted jalapeno ranch dressing,50,g,260,mg,1890,g,19,g,48,g,16,g,0,g,6,g,8,g
+726,rock bottom restaurant,brewery nachos,86,g,235,mg,5100,g,151,g,68,g,47,g,0,g,18,g,12,g
+727,rock bottom restaurant,brewery nachos with santa fe pulled chicken,90,g,300,mg,5660,g,152,g,94,g,48,g,0,g,18,g,13,g
+728,rock bottom restaurant,brewery nachos with santa fe pulled chicken half order,47,g,150,mg,3150,g,94,g,50,g,24,g,0,g,11,g,8,g
+729,rock bottom restaurant,brewery nachos with seasoned beef,100,g,310,mg,5250,g,151,g,89,g,52,g,0,g,18,g,12,g
+730,rock bottom restaurant,brewery nachos with seasoned beef half order,52,g,155,mg,2950,g,94,g,47,g,26,g,0,g,11,g,8,g
+731,rock bottom restaurant,brewery nachos with side of guacamole,93,g,235,mg,5350,g,156,g,69,g,48,g,0,g,21,g,13,g
+732,rock bottom restaurant,brewery nachos with side of guacamole half order,49,g,115,mg,3000,g,96,g,37,g,24,g,0,g,12,g,8,g
+733,rock bottom restaurant,brewery nachos half order,45,g,115,mg,2880,g,94,g,36,g,24,g,0,g,10,g,8,g
+734,rock bottom restaurant,brewery steak sandwich,55,g,135,mg,2440,g,53,g,46,g,22,g,0,g,3,g,5,g
+735,rock bottom restaurant,brewery steak sandwich gluten sensitive,103,g,155,mg,2820,g,49,g,52,g,37,g,0,g,7,g,6,g
+736,rock bottom restaurant,buffalo chicken sandwich,48,g,225,mg,4210,g,99,g,101,g,18,g,0,g,4,g,17,g
+737,rock bottom restaurant,by coastal pinot noir,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+738,rock bottom restaurant,caesar dressing,36,g,20,mg,220,g,2,g,2,g,6,g,0,g,0,g,0,g
+739,rock bottom restaurant,caesar salad,12,g,10,mg,510,g,16,g,8,g,3,g,0,g,4,g,3,g
+740,rock bottom restaurant,caesar salad with asiago caesar dressing,46,g,25,mg,730,g,19,g,10,g,9,g,0,g,4,g,3,g
+741,rock bottom restaurant,caesar salad with balsamic vinaigrette,22,g,10,mg,890,g,24,g,8,g,4,g,0,g,4,g,9,g
+742,rock bottom restaurant,caesar salad with bbq jalapeno ranch dressing,27,g,15,mg,850,g,29,g,10,g,6,g,0,g,5,g,12,g
+743,rock bottom restaurant,caesar salad with blue cheese dressing,40,g,30,mg,1010,g,18,g,10,g,9,g,0,g,4,g,5,g
+744,rock bottom restaurant,caesar salad with caesar dressing,48,g,30,mg,730,g,18,g,10,g,9,g,0,g,4,g,3,g
+745,rock bottom restaurant,caesar salad with chimichurri dressing,42,g,10,mg,1130,g,20,g,9,g,8,g,0,g,5,g,4,g
+746,rock bottom restaurant,caesar salad with honey dijon dressing,36,g,15,mg,980,g,29,g,9,g,7,g,0,g,5,g,14,g
+747,rock bottom restaurant,caesar salad with honey dijon vinaigrette,32,g,15,mg,950,g,27,g,9,g,6,g,0,g,5,g,12,g
+748,rock bottom restaurant,caesar salad with light balsamic vinaigrette,24,g,10,mg,1050,g,22,g,8,g,5,g,0,g,4,g,7,g
+749,rock bottom restaurant,caesar salad with light raspberry vinaigrette,18,g,10,mg,760,g,26,g,8,g,4,g,0,g,4,g,11,g
+750,rock bottom restaurant,caesar salad with ranch dressing,32,g,20,mg,790,g,20,g,10,g,7,g,0,g,4,g,5,g
+751,rock bottom restaurant,caesar salad with roasted jalapeno ranch dressing,31,g,15,mg,770,g,21,g,10,g,7,g,0,g,5,g,5,g
+752,rock bottom restaurant,cajun fish tacos,57,g,140,mg,2340,g,55,g,40,g,18,g,0,g,5,g,2,g
+753,rock bottom restaurant,cajun fish tacos with black beans,58,g,140,mg,2870,g,69,g,45,g,18,g,0,g,9,g,4,g
+754,rock bottom restaurant,cajun fish tacos with red ale rice,60,g,140,mg,3100,g,86,g,43,g,18,g,0,g,6,g,4,g
+755,rock bottom restaurant,cajun pasta,75,g,270,mg,2990,g,113,g,65,g,25,g,0,g,9,g,12,g
+756,rock bottom restaurant,cajun pasta with bread service,75,g,270,mg,3310,g,139,g,70,g,25,g,0,g,10,g,12,g
+757,rock bottom restaurant,canyon road cabernet sauvignon,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+758,rock bottom restaurant,canyon road chardonnay,0,g,0,mg,5,g,4,g,0,g,0,g,0,g,0,g,1,g
+759,rock bottom restaurant,carrot cake,123,g,220,mg,1130,g,253,g,23,g,33,g,0,g,9,g,175,g
+760,rock bottom restaurant,char grilled veggies,2,g,0,mg,1000,g,9,g,2,g,0,g,0,g,3,g,3,g
+761,rock bottom restaurant,chateau ste michelle riesling,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,0,g
+762,rock bottom restaurant,cheese grits,17,g,50,mg,380,g,15,g,7,g,11,g,0,g,1,g,0,g
+763,rock bottom restaurant,chicken fried chicken,40,g,245,mg,3350,g,78,g,72,g,21,g,0,g,5,g,7,g
+764,rock bottom restaurant,chicken fried chicken with apple coleslaw,54,g,250,mg,3470,g,88,g,73,g,23,g,0,g,7,g,15,g
+765,rock bottom restaurant,chicken quesadilla,105,g,280,mg,3430,g,80,g,77,g,54,g,0,g,7,g,8,g
+766,rock bottom restaurant,chicken tortilla soup bowl,13,g,45,mg,1630,g,31,g,15,g,5,g,0,g,4,g,3,g
+767,rock bottom restaurant,chicken tortilla soup cup,10,g,35,mg,1240,g,20,g,12,g,4,g,0,g,2,g,2,g
+768,rock bottom restaurant,chicken waldorf salad,27,g,80,mg,1170,g,45,g,37,g,6,g,0,g,6,g,31,g
+769,rock bottom restaurant,chicken waldorf salad with asiago caesar dressing,61,g,100,mg,1390,g,47,g,39,g,12,g,0,g,7,g,31,g
+770,rock bottom restaurant,chicken waldorf salad with balsamic vinaigrette,37,g,80,mg,1550,g,53,g,37,g,7,g,0,g,6,g,37,g
+771,rock bottom restaurant,chicken waldorf salad with bbq jalapeno ranch dressing,42,g,90,mg,1510,g,57,g,38,g,9,g,0,g,7,g,40,g
+772,rock bottom restaurant,chicken waldorf salad with blue cheese dressing,55,g,100,mg,1670,g,47,g,39,g,12,g,0,g,6,g,33,g
+773,rock bottom restaurant,chicken waldorf salad with caesar dressing,63,g,100,mg,1390,g,47,g,39,g,12,g,0,g,6,g,31,g
+774,rock bottom restaurant,chicken waldorf salad with chimichurri dressing,57,g,85,mg,1790,g,48,g,38,g,11,g,0,g,7,g,32,g
+775,rock bottom restaurant,chicken waldorf salad with honey dijon dressing,51,g,90,mg,1640,g,58,g,38,g,10,g,0,g,7,g,42,g
+776,rock bottom restaurant,chicken waldorf salad with honey dijon vinaigrette,47,g,90,mg,1610,g,56,g,38,g,9,g,0,g,7,g,40,g
+777,rock bottom restaurant,chicken waldorf salad with light balsamic vinaigrette,39,g,80,mg,1710,g,51,g,37,g,8,g,0,g,6,g,35,g
+778,rock bottom restaurant,chicken waldorf salad with light raspberry vinaigrette,33,g,80,mg,1420,g,55,g,37,g,7,g,0,g,7,g,39,g
+779,rock bottom restaurant,chicken waldorf salad with ranch dressing,47,g,90,mg,1450,g,49,g,39,g,10,g,0,g,6,g,33,g
+780,rock bottom restaurant,chicken waldorf salad with roasted jalapeno ranch dressing,46,g,90,mg,1430,g,49,g,39,g,10,g,0,g,7,g,33,g
+781,rock bottom restaurant,chile lime fajita salad,21,g,50,mg,2040,g,32,g,13,g,10,g,0,g,8,g,10,g
+782,rock bottom restaurant,chile lime fajita salad with asiago caesar dressing,55,g,70,mg,2260,g,34,g,16,g,16,g,0,g,8,g,10,g
+783,rock bottom restaurant,chile lime fajita salad with balsamic vinaigrette,31,g,50,mg,2420,g,40,g,13,g,11,g,0,g,8,g,16,g
+784,rock bottom restaurant,chile lime fajita salad with bbq jalapeno ranch dressing,36,g,55,mg,2380,g,44,g,15,g,13,g,0,g,8,g,19,g
+785,rock bottom restaurant,chile lime fajita salad with blue cheese dressing,49,g,70,mg,2540,g,34,g,16,g,16,g,0,g,8,g,12,g
+786,rock bottom restaurant,chile lime fajita salad with caesar dressing,57,g,70,mg,2260,g,34,g,15,g,16,g,0,g,8,g,10,g
+787,rock bottom restaurant,chile lime fajita salad with chimichurri dressing,51,g,55,mg,2660,g,35,g,15,g,15,g,0,g,8,g,11,g
+788,rock bottom restaurant,chile lime fajita salad with chipotle marinated chicken dressing,24,g,145,mg,3230,g,36,g,53,g,11,g,0,g,9,g,12,g
+789,rock bottom restaurant,chile lime fajita salad with chipotle marinated steak dressing,62,g,195,mg,4010,g,34,g,70,g,27,g,0,g,9,g,10,g
+790,rock bottom restaurant,chile lime fajita salad with honey dijon dressing,45,g,60,mg,2510,g,45,g,15,g,14,g,0,g,8,g,21,g
+791,rock bottom restaurant,chile lime fajita salad with honey dijon vinaigrette,41,g,55,mg,2480,g,43,g,14,g,13,g,0,g,8,g,19,g
+792,rock bottom restaurant,chile lime fajita salad with light balsamic vinaigrette,33,g,50,mg,2580,g,38,g,13,g,12,g,0,g,8,g,14,g
+793,rock bottom restaurant,chile lime fajita salad with light raspberry vinaigrette,27,g,50,mg,2290,g,41,g,13,g,11,g,0,g,8,g,18,g
+794,rock bottom restaurant,chile lime fajita salad with ranch dressing,41,g,60,mg,2320,g,36,g,15,g,14,g,0,g,8,g,12,g
+795,rock bottom restaurant,chile lime fajita salad with roasted jalapeno ranch dressing,40,g,60,mg,2300,g,36,g,16,g,14,g,0,g,8,g,12,g
+796,rock bottom restaurant,chimichurri dressing,30,g,5,mg,620,g,3,g,1,g,5,g,0,g,1,g,1,g
+797,rock bottom restaurant,choice top sirloin 10 oz,44,g,145,mg,1070,g,1,g,57,g,18,g,0,g,0,g,0,g
+798,rock bottom restaurant,choice top sirloin 10 oz with chimichurri sauce,95,g,145,mg,1880,g,3,g,57,g,25,g,0,g,1,g,0,g
+799,rock bottom restaurant,choice top sirloin 10 oz with dark ale mushroom sauce,45,g,145,mg,1190,g,5,g,58,g,18,g,0,g,0,g,2,g
+800,rock bottom restaurant,choice top sirloin 10 oz with makers mark bourbon glaze,46,g,145,mg,2270,g,24,g,59,g,18,g,0,g,0,g,8,g
+801,rock bottom restaurant,choice top sirloin 10 oz with texas fire style,44,g,145,mg,1630,g,6,g,58,g,18,g,0,g,1,g,2,g
+802,rock bottom restaurant,choice top sirloin 7 oz,31,g,105,mg,1030,g,1,g,40,g,13,g,0,g,0,g,0,g
+803,rock bottom restaurant,choice top sirloin 7 oz with chimichurri sauce,83,g,105,mg,1840,g,3,g,40,g,20,g,0,g,1,g,0,g
+804,rock bottom restaurant,choice top sirloin 7 oz with dark ale mushroom sauce,32,g,105,mg,1140,g,5,g,41,g,13,g,0,g,0,g,2,g
+805,rock bottom restaurant,choice top sirloin 7 oz with makers mark bourbon glaze,34,g,105,mg,2220,g,24,g,42,g,13,g,0,g,0,g,8,g
+806,rock bottom restaurant,choice top sirloin 7 oz with texas fire style,32,g,105,mg,1590,g,6,g,41,g,13,g,0,g,1,g,2,g
+807,rock bottom restaurant,chopped sesame chicken salad,23,g,100,mg,2270,g,65,g,46,g,3,g,0,g,7,g,43,g
+808,rock bottom restaurant,cilantro lime rice,0,g,0,mg,580,g,31,g,3,g,0,g,0,g,0,g,1,g
+809,rock bottom restaurant,classic burger,16,g,20,mg,1360,g,56,g,14,g,9,g,0,g,2,g,11,g
+810,rock bottom restaurant,classic burger gluten sensitive,7,g,20,mg,840,g,3,g,6,g,4,g,0,g,1,g,2,g
+811,rock bottom restaurant,classic burger with 12 oz burger patty,58,g,235,mg,1970,g,56,g,74,g,24,g,0,g,2,g,11,g
+812,rock bottom restaurant,classic burger with 12 oz burger patty gluten sensitive,49,g,235,mg,1460,g,4,g,66,g,20,g,0,g,1,g,2,g
+813,rock bottom restaurant,classic burger with bison burger patty,37,g,100,mg,3200,g,56,g,37,g,17,g,0,g,2,g,11,g
+814,rock bottom restaurant,classic burger with bison burger patty gluten sensitive,28,g,100,mg,2680,g,4,g,29,g,12,g,0,g,1,g,2,g
+815,rock bottom restaurant,classic burger with fresh angus burger patty,32,g,135,mg,3220,g,56,g,49,g,15,g,0,g,2,g,11,g
+816,rock bottom restaurant,classic burger with fresh angus burger patty gluten sensitive,23,g,135,mg,2700,g,4,g,41,g,10,g,0,g,1,g,2,g
+817,rock bottom restaurant,classic burger with iceberg lettuce rounds gluten sensitive,7,g,20,mg,850,g,5,g,6,g,4,g,0,g,1,g,2,g
+818,rock bottom restaurant,classic burger with toasted gluten free bun gluten sensitive,24,g,20,mg,1250,g,42,g,10,g,10,g,0,g,6,g,5,g
+819,rock bottom restaurant,classic mac n chicken,67,g,250,mg,1650,g,36,g,48,g,40,g,0,g,3,g,2,g
+820,rock bottom restaurant,classic martini,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+821,rock bottom restaurant,classic martini with cocktail onions,0,g,0,mg,360,g,2,g,0,g,0,g,0,g,0,g,1,g
+822,rock bottom restaurant,classic martini with lemon twist,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+823,rock bottom restaurant,classic martini with stuffed queen olives,3,g,0,mg,550,g,4,g,0,g,0,g,0,g,0,g,0,g
+824,rock bottom restaurant,classic mojito,0,g,0,mg,15,g,24,g,0,g,0,g,0,g,1,g,20,g
+825,rock bottom restaurant,classic wedge salad,20,g,45,mg,840,g,7,g,14,g,10,g,0,g,3,g,4,g
+826,rock bottom restaurant,classic wedge salad with asiago caesar dressing,54,g,65,mg,1060,g,10,g,16,g,15,g,0,g,3,g,4,g
+827,rock bottom restaurant,classic wedge salad with balsamic vinaigrette,30,g,45,mg,1220,g,15,g,14,g,11,g,0,g,3,g,10,g
+828,rock bottom restaurant,classic wedge salad with bbq jalapeno ranch dressing,34,g,50,mg,1180,g,20,g,16,g,12,g,0,g,3,g,14,g
+829,rock bottom restaurant,classic wedge salad with blue cheese dressing,48,g,65,mg,1340,g,9,g,16,g,16,g,0,g,3,g,6,g
+830,rock bottom restaurant,classic wedge salad with caesar dressing,56,g,65,mg,1060,g,9,g,16,g,16,g,0,g,3,g,4,g
+831,rock bottom restaurant,classic wedge salad with chimichurri dressing,50,g,50,mg,1460,g,11,g,15,g,14,g,0,g,3,g,5,g
+832,rock bottom restaurant,classic wedge salad with honey dijon dressing,44,g,55,mg,1310,g,20,g,15,g,13,g,0,g,3,g,15,g
+833,rock bottom restaurant,classic wedge salad with honey dijon vinaigrette,40,g,50,mg,1280,g,19,g,15,g,12,g,0,g,3,g,13,g
+834,rock bottom restaurant,classic wedge salad with light balsamic vinaigrette,32,g,45,mg,1380,g,13,g,14,g,12,g,0,g,3,g,8,g
+835,rock bottom restaurant,classic wedge salad with light raspberry vinaigrette,26,g,45,mg,1080,g,17,g,14,g,10,g,0,g,3,g,13,g
+836,rock bottom restaurant,classic wedge salad with ranch dressing,40,g,55,mg,1120,g,11,g,16,g,14,g,0,g,3,g,6,g
+837,rock bottom restaurant,classic wedge salad with roasted jalapeno ranch dressing,39,g,55,mg,1100,g,12,g,16,g,13,g,0,g,3,g,6,g
+838,rock bottom restaurant,coopers iced brewed tea,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+839,rock bottom restaurant,creole salmon,46,g,120,mg,1960,g,11,g,38,g,20,g,0,g,3,g,3,g
+840,rock bottom restaurant,crispy baja chicken sandwich,41,g,135,mg,2680,g,112,g,62,g,13,g,0,g,6,g,17,g
+841,rock bottom restaurant,crispy chicken fingers,11,g,130,mg,2180,g,74,g,61,g,3,g,0,g,4,g,7,g
+842,rock bottom restaurant,crispy chicken fingers with barbecue sauce,11,g,130,mg,2620,g,101,g,61,g,3,g,0,g,4,g,31,g
+843,rock bottom restaurant,crispy chicken fingers with honey mustard dressing,30,g,140,mg,2370,g,85,g,62,g,6,g,0,g,4,g,17,g
+844,rock bottom restaurant,cupcake sauvignon blanc,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+845,rock bottom restaurant,custom seasonal vegetables,0,g,0,mg,440,g,1,g,0,g,0,g,0,g,0,g,0,g
+846,rock bottom restaurant,custom seasonal vegetables with broccoli florets,0,g,0,mg,500,g,5,g,3,g,0,g,0,g,2,g,2,g
+847,rock bottom restaurant,custom seasonal vegetables with brussels sprouts,0,g,0,mg,470,g,9,g,3,g,0,g,0,g,3,g,2,g
+848,rock bottom restaurant,custom seasonal vegetables with garlic chile vegetable butter,8,g,20,mg,550,g,2,g,0,g,5,g,0,g,0,g,1,g
+849,rock bottom restaurant,custom seasonal vegetables with ginger scallion vegetable butter,7,g,15,mg,540,g,2,g,0,g,4,g,0,g,0,g,1,g
+850,rock bottom restaurant,custom seasonal vegetables with green beans,0,g,0,mg,440,g,6,g,1,g,0,g,0,g,2,g,2,g
+851,rock bottom restaurant,custom seasonal vegetables with italian vegetable butter,8,g,20,mg,570,g,2,g,0,g,5,g,0,g,0,g,1,g
+852,rock bottom restaurant,custom seasonal vegetables with lime vegetable butter,8,g,20,mg,570,g,2,g,0,g,5,g,0,g,0,g,1,g
+853,rock bottom restaurant,custom seasonal vegetables with petite carrots,0,g,0,mg,540,g,8,g,1,g,0,g,0,g,3,g,4,g
+854,rock bottom restaurant,diet pepsi,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+855,rock bottom restaurant,dip trio,57,g,120,mg,3320,g,98,g,33,g,25,g,0,g,12,g,8,g
+856,rock bottom restaurant,dip trio with santa fe pulled chicken,58,g,140,mg,3450,g,99,g,39,g,25,g,0,g,12,g,8,g
+857,rock bottom restaurant,dip trio with seasoned ground beef,64,g,140,mg,3490,g,102,g,38,g,28,g,0,g,13,g,8,g
+858,rock bottom restaurant,dr pepper,0,g,0,mg,60,g,45,g,0,g,0,g,0,g,0,g,45,g
+859,rock bottom restaurant,dragonfruit strawberry mojito,0,g,0,mg,5,g,25,g,0,g,0,g,0,g,2,g,20,g
+860,rock bottom restaurant,ecco domani pinot grigio,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+861,rock bottom restaurant,firecracker shrimp,27,g,390,mg,2770,g,112,g,45,g,5,g,0,g,4,g,53,g
+862,rock bottom restaurant,firemans burger gluten sensitive,22,g,30,mg,920,g,9,g,6,g,7,g,0,g,3,g,3,g
+863,rock bottom restaurant,firemans burger with 12 oz burger patty gluten sensitive,64,g,245,mg,1530,g,9,g,67,g,22,g,0,g,3,g,3,g
+864,rock bottom restaurant,firemans burger with bison burger patty gluten sensitive,42,g,110,mg,2760,g,9,g,29,g,15,g,0,g,3,g,3,g
+865,rock bottom restaurant,firemans burger with fresh angus burger patty gluten sensitive,38,g,145,mg,2780,g,9,g,42,g,13,g,0,g,3,g,3,g
+866,rock bottom restaurant,firemans burger with iceberg lettuce rounds gluten sensitive,22,g,30,mg,920,g,10,g,7,g,7,g,0,g,3,g,4,g
+867,rock bottom restaurant,firemans burger with toasted gluten free bun gluten sensitive,39,g,30,mg,1330,g,48,g,11,g,12,g,0,g,8,g,6,g
+868,rock bottom restaurant,fish and chips,76,g,150,mg,4150,g,115,g,54,g,15,g,0,g,8,g,5,g
+869,rock bottom restaurant,french fries 3 oz,9,g,0,mg,520,g,20,g,2,g,2,g,0,g,2,g,0,g
+870,rock bottom restaurant,french fries 5 oz,15,g,0,mg,860,g,34,g,3,g,4,g,0,g,3,g,0,g
+871,rock bottom restaurant,french fries 7 oz,20,g,0,mg,1210,g,47,g,5,g,5,g,0,g,5,g,0,g
+872,rock bottom restaurant,fresh silver paloma,0,g,0,mg,10,g,14,g,0,g,0,g,0,g,0,g,13,g
+873,rock bottom restaurant,fresh squeezed lemonade,0,g,0,mg,0,g,35,g,0,g,0,g,0,g,0,g,32,g
+874,rock bottom restaurant,fried pickles,73,g,30,mg,5700,g,80,g,11,g,13,g,0,g,4,g,8,g
+875,rock bottom restaurant,fudge brownie,65,g,310,mg,700,g,145,g,14,g,40,g,0,g,1,g,122,g
+876,rock bottom restaurant,grapefruit collins,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,6,g
+877,rock bottom restaurant,greenhouse salad,14,g,210,mg,310,g,24,g,11,g,3,g,0,g,5,g,13,g
+878,rock bottom restaurant,greenhouse salad with asiago caesar dressing,47,g,230,mg,530,g,27,g,13,g,9,g,0,g,5,g,13,g
+879,rock bottom restaurant,greenhouse salad with balsamic vinaigrette,24,g,210,mg,690,g,32,g,11,g,4,g,0,g,5,g,19,g
+880,rock bottom restaurant,greenhouse salad with bbq jalapeno ranch dressing,28,g,220,mg,660,g,37,g,13,g,6,g,0,g,6,g,23,g
+881,rock bottom restaurant,greenhouse salad with blue cheese dressing,42,g,230,mg,820,g,26,g,13,g,9,g,0,g,5,g,15,g
+882,rock bottom restaurant,greenhouse salad with caesar dressing,50,g,230,mg,530,g,26,g,13,g,9,g,0,g,5,g,13,g
+883,rock bottom restaurant,greenhouse salad with chimichurri dressing,44,g,215,mg,940,g,28,g,12,g,7,g,0,g,6,g,14,g
+884,rock bottom restaurant,greenhouse salad with honey dijon dressing,38,g,220,mg,780,g,37,g,13,g,6,g,0,g,5,g,24,g
+885,rock bottom restaurant,greenhouse salad with honey dijon vinaigrette,33,g,220,mg,750,g,36,g,12,g,5,g,0,g,5,g,23,g
+886,rock bottom restaurant,greenhouse salad with light balsamic vinaigrette,26,g,210,mg,850,g,30,g,11,g,5,g,0,g,5,g,17,g
+887,rock bottom restaurant,greenhouse salad with light raspberry vinaigrette,19,g,210,mg,560,g,34,g,11,g,4,g,0,g,5,g,22,g
+888,rock bottom restaurant,greenhouse salad with ranch dressing,34,g,220,mg,590,g,28,g,13,g,7,g,0,g,5,g,15,g
+889,rock bottom restaurant,greenhouse salad with roasted jalapeno ranch dressing,33,g,220,mg,580,g,29,g,13,g,6,g,0,g,6,g,15,g
+890,rock bottom restaurant,greenhouse side salad,10,g,105,mg,210,g,19,g,7,g,2,g,0,g,4,g,11,g
+891,rock bottom restaurant,greenhouse side salad with asiago caesar dressing,26,g,115,mg,320,g,20,g,8,g,5,g,0,g,4,g,11,g
+892,rock bottom restaurant,greenhouse side salad with balsamic vinaigrette,15,g,105,mg,400,g,23,g,7,g,2,g,0,g,4,g,14,g
+893,rock bottom restaurant,greenhouse side salad with bbq jalapeno ranch dressing,17,g,110,mg,380,g,25,g,8,g,3,g,0,g,4,g,16,g
+894,rock bottom restaurant,greenhouse side salad with blue cheese dressing,24,g,115,mg,460,g,20,g,8,g,5,g,0,g,4,g,12,g
+895,rock bottom restaurant,greenhouse side salad with caesar dressing,28,g,115,mg,320,g,20,g,8,g,5,g,0,g,4,g,11,g
+896,rock bottom restaurant,greenhouse side salad with chimichurri dressing,25,g,110,mg,520,g,21,g,7,g,4,g,0,g,4,g,12,g
+897,rock bottom restaurant,greenhouse side salad with honey dijon dressing,22,g,110,mg,450,g,26,g,8,g,4,g,0,g,4,g,17,g
+898,rock bottom restaurant,greenhouse side salad with honey dijon vinaigrette,19,g,110,mg,430,g,25,g,7,g,3,g,0,g,4,g,16,g
+899,rock bottom restaurant,greenhouse side salad with light balsamic vinaigrette,16,g,105,mg,480,g,22,g,7,g,3,g,0,g,4,g,13,g
+900,rock bottom restaurant,greenhouse side salad with light raspberry vinaigrette,12,g,105,mg,340,g,24,g,7,g,2,g,0,g,4,g,16,g
+901,rock bottom restaurant,greenhouse side salad with ranch dressing,20,g,110,mg,350,g,21,g,8,g,4,g,0,g,4,g,12,g
+902,rock bottom restaurant,greenhouse side salad with roasted jalapeno ranch dressing,19,g,110,mg,340,g,21,g,8,g,4,g,0,g,4,g,12,g
+903,rock bottom restaurant,grilled chicken salads,2,g,100,mg,1120,g,2,g,39,g,1,g,0,g,0,g,1,g
+904,rock bottom restaurant,grilled salmon salads,10,g,70,mg,500,g,0,g,24,g,2,g,0,g,0,g,0,g
+905,rock bottom restaurant,grilled veggie mac and cheese,63,g,185,mg,1640,g,39,g,23,g,39,g,0,g,4,g,3,g
+906,rock bottom restaurant,guacamole made to order,23,g,0,mg,700,g,16,g,4,g,3,g,0,g,11,g,2,g
+907,rock bottom restaurant,guacamole made to order with nacho chips,36,g,0,mg,1660,g,112,g,16,g,4,g,0,g,17,g,2,g
+908,rock bottom restaurant,happy hour boneless wings,25,g,80,mg,2720,g,41,g,30,g,6,g,0,g,2,g,3,g
+909,rock bottom restaurant,happy hour boneless wings with blue cheese dressing,39,g,90,mg,2970,g,42,g,31,g,9,g,0,g,2,g,3,g
+910,rock bottom restaurant,happy hour boneless wings with ranch dressing,37,g,85,mg,2880,g,43,g,31,g,8,g,0,g,2,g,3,g
+911,rock bottom restaurant,happy hour crispy baja chicken sandwich,41,g,80,mg,2400,g,84,g,37,g,13,g,0,g,7,g,9,g
+912,rock bottom restaurant,happy hour wings,22,g,75,mg,790,g,1,g,18,g,7,g,0,g,0,g,1,g
+913,rock bottom restaurant,happy hour wings with blue cheese dressing,36,g,85,mg,1040,g,2,g,19,g,10,g,0,g,0,g,1,g
+914,rock bottom restaurant,happy hour wings with ranch dressing,35,g,80,mg,950,g,3,g,19,g,9,g,0,g,0,g,1,g
+915,rock bottom restaurant,hendricks cucumber cooler,0,g,0,mg,10,g,11,g,0,g,0,g,0,g,0,g,8,g
+916,rock bottom restaurant,honey bbq burger,18,g,20,mg,2200,g,91,g,16,g,9,g,0,g,4,g,29,g
+917,rock bottom restaurant,honey bbq burger with burger patty choice 12 oz burger patty,60,g,235,mg,2820,g,91,g,76,g,25,g,0,g,4,g,29,g
+918,rock bottom restaurant,honey bbq burger with burger patty choice fresh angus burger patty,34,g,135,mg,4060,g,91,g,51,g,15,g,0,g,4,g,29,g
+919,rock bottom restaurant,honey dijon dressing,24,g,10,mg,470,g,13,g,1,g,4,g,0,g,0,g,11,g
+920,rock bottom restaurant,honey dijon vinaigrette,19,g,5,mg,440,g,11,g,1,g,3,g,0,g,0,g,9,g
+921,rock bottom restaurant,housemade root beer,0,g,0,mg,30,g,42,g,0,g,0,g,0,g,0,g,42,g
+922,rock bottom restaurant,irish apple sour,0,g,0,mg,15,g,20,g,0,g,0,g,0,g,0,g,11,g
+923,rock bottom restaurant,jalapeno pretzel stix,62,g,120,mg,4900,g,217,g,57,g,32,g,0,g,7,g,2,g
+924,rock bottom restaurant,jalapeno spinach cheese dip,42,g,145,mg,2310,g,10,g,24,g,27,g,0,g,1,g,4,g
+925,rock bottom restaurant,jalapeno spinach cheese dip with nacho chips,56,g,145,mg,3280,g,106,g,36,g,28,g,0,g,7,g,4,g
+926,rock bottom restaurant,jambalaya,83,g,205,mg,3690,g,47,g,54,g,29,g,0,g,4,g,7,g
+927,rock bottom restaurant,kendall jackson chardonnay,0,g,0,mg,5,g,4,g,0,g,0,g,0,g,0,g,1,g
+928,rock bottom restaurant,kids buttered noodles,14,g,0,mg,30,g,50,g,8,g,6,g,0,g,3,g,3,g
+929,rock bottom restaurant,kids chocolate milk,6,g,25,mg,190,g,63,g,10,g,4,g,0,g,0,g,53,g
+930,rock bottom restaurant,kids french fries,4,g,0,mg,260,g,10,g,1,g,1,g,0,g,1,g,0,g
+931,rock bottom restaurant,kids fresh fruit,0,g,0,mg,25,g,24,g,1,g,0,g,0,g,3,g,19,g
+932,rock bottom restaurant,kids grilled cheese,19,g,35,mg,1040,g,31,g,13,g,11,g,0,g,3,g,6,g
+933,rock bottom restaurant,kids lil chicken fingers fried,17,g,105,mg,1810,g,56,g,49,g,4,g,0,g,3,g,9,g
+934,rock bottom restaurant,kids lil chicken tenders grilled,17,g,75,mg,300,g,6,g,28,g,3,g,0,g,1,g,3,g
+935,rock bottom restaurant,kids mac n cheesy,11,g,25,mg,840,g,51,g,12,g,3,g,0,g,3,g,13,g
+936,rock bottom restaurant,kids make your own pizza 4 pieces,15,g,30,mg,640,g,46,g,23,g,8,g,0,g,2,g,3,g
+937,rock bottom restaurant,kids make your own pizza with pepperoni 4 pieces,22,g,50,mg,880,g,46,g,26,g,11,g,0,g,2,g,3,g
+938,rock bottom restaurant,kids make your own pizza with pepperoni 1 piece,5,g,10,mg,220,g,12,g,6,g,3,g,0,g,1,g,1,g
+939,rock bottom restaurant,kids make your own pizza 1 piece,4,g,10,mg,160,g,12,g,6,g,2,g,0,g,1,g,1,g
+940,rock bottom restaurant,kids make your own sundae,29,g,95,mg,160,g,72,g,5,g,17,g,0,g,0,g,49,g
+941,rock bottom restaurant,kids rocky burger,15,g,70,mg,2060,g,41,g,26,g,6,g,0,g,3,g,15,g
+942,rock bottom restaurant,kids rocky burger with cheese,22,g,85,mg,2440,g,41,g,31,g,10,g,0,g,3,g,15,g
+943,rock bottom restaurant,kids root beer float,8,g,30,mg,50,g,41,g,2,g,5,g,0,g,0,g,39,g
+944,rock bottom restaurant,kids small fry steak,23,g,75,mg,1100,g,4,g,29,g,9,g,0,g,1,g,2,g
+945,rock bottom restaurant,kids white cheddar mashed potatoes,9,g,25,mg,680,g,22,g,5,g,5,g,0,g,2,g,3,g
+946,rock bottom restaurant,korbel brut champagne,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,2,g
+947,rock bottom restaurant,la crema chardonnay,0,g,0,mg,5,g,4,g,0,g,0,g,0,g,0,g,1,g
+948,rock bottom restaurant,la crema pinot noir,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+949,rock bottom restaurant,large santa fe fries,71,g,15,mg,2210,g,93,g,10,g,15,g,0,g,10,g,4,g
+950,rock bottom restaurant,large seasoned fries,71,g,15,mg,4610,g,93,g,9,g,15,g,0,g,9,g,4,g
+951,rock bottom restaurant,lemon drop martini,0,g,0,mg,0,g,18,g,0,g,0,g,0,g,0,g,10,g
+952,rock bottom restaurant,lemon salmon,25,g,90,mg,2170,g,29,g,35,g,5,g,0,g,4,g,5,g
+953,rock bottom restaurant,light balsamic vinaigrette,12,g,0,mg,540,g,6,g,0,g,2,g,0,g,0,g,4,g
+954,rock bottom restaurant,light raspberry vinaigrette,5,g,0,mg,250,g,10,g,0,g,1,g,0,g,0,g,9,g
+955,rock bottom restaurant,lipton brisk raspberry flavored iced tea,0,g,0,mg,85,g,40,g,0,g,0,g,0,g,0,g,38,g
+956,rock bottom restaurant,loaded white queso,46,g,120,mg,2630,g,86,g,30,g,23,g,0,g,6,g,4,g
+957,rock bottom restaurant,loaded white queso with santa fe pulled chicken,47,g,140,mg,2770,g,86,g,37,g,24,g,0,g,7,g,4,g
+958,rock bottom restaurant,loaded white queso with seasoned ground beef,53,g,140,mg,2810,g,89,g,35,g,26,g,0,g,7,g,4,g
+959,rock bottom restaurant,lobster and shrimp enchiladas,35,g,255,mg,2170,g,37,g,32,g,19,g,0,g,4,g,2,g
+960,rock bottom restaurant,lobster and shrimp enchiladas with black beans,36,g,255,mg,2740,g,52,g,37,g,19,g,0,g,8,g,4,g
+961,rock bottom restaurant,lobster and shrimp enchiladas with cilantro lime rice,35,g,255,mg,2760,g,68,g,35,g,19,g,0,g,4,g,3,g
+962,rock bottom restaurant,long island iced tea,0,g,0,mg,15,g,19,g,0,g,0,g,0,g,0,g,14,g
+963,rock bottom restaurant,louis m martini cabernet sauvignon,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+964,rock bottom restaurant,low country shrimp and grits,84,g,315,mg,2260,g,56,g,49,g,39,g,0,g,4,g,2,g
+965,rock bottom restaurant,mac n cheese,33,g,60,mg,380,g,17,g,9,g,14,g,0,g,1,g,0,g
+966,rock bottom restaurant,macmurray ranch pinot noir,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+967,rock bottom restaurant,makers mark bourbonzola burger,14,g,10,mg,1850,g,71,g,13,g,7,g,0,g,2,g,15,g
+968,rock bottom restaurant,makers mark bourbonzola burger with 12 oz burger patty,56,g,220,mg,2470,g,71,g,73,g,23,g,0,g,2,g,15,g
+969,rock bottom restaurant,makers mark bourbonzola burger with bison burger patty,35,g,85,mg,3700,g,71,g,35,g,15,g,0,g,2,g,15,g
+970,rock bottom restaurant,makers mark bourbonzola burger with fresh angus burger patty,30,g,125,mg,3720,g,71,g,48,g,13,g,0,g,2,g,15,g
+971,rock bottom restaurant,mango habanero chicken,41,g,195,mg,4230,g,58,g,84,g,19,g,0,g,5,g,17,g
+972,rock bottom restaurant,mango iced tea,0,g,0,mg,10,g,35,g,0,g,0,g,0,g,1,g,30,g
+973,rock bottom restaurant,manhattan,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,1,g
+974,rock bottom restaurant,margherita pizza 1 piece gluten sensitive,5,g,5,mg,200,g,10,g,3,g,2,g,0,g,1,g,1,g
+975,rock bottom restaurant,margherita pizza 1 slice,6,g,10,mg,220,g,20,g,7,g,2,g,0,g,1,g,1,g
+976,rock bottom restaurant,margherita pizza 8 pieces gluten sensitive,42,g,60,mg,1560,g,80,g,24,g,15,g,0,g,6,g,6,g
+977,rock bottom restaurant,margherita pizza 8 slices,44,g,75,mg,1800,g,163,g,56,g,19,g,0,g,5,g,5,g
+978,rock bottom restaurant,marinated citrus steak,32,g,75,mg,2860,g,38,g,33,g,10,g,0,g,5,g,10,g
+979,rock bottom restaurant,mountain dew,0,g,0,mg,85,g,51,g,0,g,0,g,0,g,0,g,51,g
+980,rock bottom restaurant,onion rings,23,g,0,mg,1500,g,47,g,5,g,3,g,0,g,0,g,7,g
+981,rock bottom restaurant,orange and peach spritzer,0,g,0,mg,0,g,14,g,0,g,0,g,0,g,0,g,1,g
+982,rock bottom restaurant,pepperoni pizza 1 piece gluten sensitive,6,g,15,mg,280,g,10,g,5,g,3,g,0,g,1,g,1,g
+983,rock bottom restaurant,pepperoni pizza 1 slice,7,g,15,mg,310,g,20,g,9,g,3,g,0,g,1,g,1,g
+984,rock bottom restaurant,pepperoni pizza 8 pieces gluten sensitive,49,g,100,mg,2250,g,81,g,37,g,21,g,0,g,7,g,9,g
+985,rock bottom restaurant,pepperoni pizza 8 slices,53,g,115,mg,2490,g,164,g,68,g,25,g,0,g,6,g,8,g
+986,rock bottom restaurant,pepsi,0,g,0,mg,40,g,45,g,0,g,0,g,0,g,0,g,45,g
+987,rock bottom restaurant,perfect patron margarita,0,g,0,mg,310,g,19,g,0,g,0,g,0,g,0,g,11,g
+988,rock bottom restaurant,pineapple mojito,0,g,0,mg,0,g,28,g,0,g,0,g,0,g,1,g,24,g
+989,rock bottom restaurant,pom berry cosmo,0,g,0,mg,0,g,16,g,0,g,0,g,0,g,1,g,14,g
+990,rock bottom restaurant,portillo malbec,0,g,0,mg,5,g,4,g,0,g,0,g,0,g,0,g,1,g
+991,rock bottom restaurant,pretzel crusted chicken,59,g,515,mg,4350,g,107,g,90,g,31,g,0,g,6,g,6,g
+992,rock bottom restaurant,pub grilled chicken sandwich,45,g,140,mg,2750,g,64,g,59,g,16,g,0,g,2,g,15,g
+993,rock bottom restaurant,pulled bbq pork sandwich,32,g,95,mg,1250,g,92,g,33,g,11,g,0,g,2,g,43,g
+994,rock bottom restaurant,pulled pork flatbread 1 piece,5,g,15,mg,400,g,8,g,4,g,3,g,0,g,0,g,0,g
+995,rock bottom restaurant,pulled pork flatbread 8 pieces,40,g,125,mg,3190,g,64,g,31,g,20,g,0,g,3,g,3,g
+996,rock bottom restaurant,ranch dressing,20,g,10,mg,280,g,4,g,2,g,4,g,0,g,0,g,2,g
+997,rock bottom restaurant,raspberry iced tea,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,0,g,11,g
+998,rock bottom restaurant,ravenswood vintners blend zinfandel,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+999,rock bottom restaurant,roasted jalapeno ranch dressing,19,g,10,mg,270,g,4,g,2,g,4,g,0,g,0,g,2,g

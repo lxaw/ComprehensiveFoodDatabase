@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,hooters,grilled shrimp taco salad without dressing,62,g,215,mg,2030,g,54,g,43,g,22,g,1.5,g,12,g,18,g
+1,hooters,taco salad without dressing,69,g,100,mg,2360,g,61,g,29,g,23,g,1.5,g,14,g,20,g
+2,hooters,grilled chicken taco salad without dressing,69,g,140,mg,3370,g,56,g,48,g,21,g,1.5,g,12,g,18,g
+3,hooters,shrimp and spinach salad,38,g,185,mg,1120,g,13,g,37,g,14,g,0,g,2,g,6,g
+4,hooters,wise choice side salad without dressing,4.5,g,15,mg,125,g,4,g,5,g,2.5,g,0,g,2,g,1,g
+5,hooters,garden salad without dressing,20,g,55,mg,590,g,19,g,18,g,10,g,0.5,g,4,g,4,g
+6,hooters,wise choice salad without dressing,9,g,25,mg,250,g,8,g,10,g,5,g,0,g,4,g,3,g
+7,hooters,caesar salad,57,g,50,mg,1130,g,18,g,8,g,10,g,1,g,4,g,3,g
+8,hooters,swiss cheese,8,g,25,mg,60,g,1,g,8,g,4.5,g,0,g,0,g,0,g
+9,hooters,bleu cheese crumbles,8,g,25,mg,260,g,1,g,7,g,5,g,0,g,0,g,1,g
+10,hooters,pepper jack cheese,6,g,20,mg,120,g,0,g,5,g,3.5,g,0,g,0,g,0,g
+11,hooters,pico de gallo,0,g,0,mg,190,g,1.5,g,0,g,0,g,0,g,0,g,1,g
+12,hooters,monterey jack cheese,6,g,20,mg,120,g,1,g,5,g,3.5,g,0,g,0,g,0,g
+13,hooters,guacamole,6,g,0,mg,200,g,4,g,1,g,1,g,0,g,3,g,1,g
+14,hooters,provolone cheese,8,g,20,mg,240,g,1,g,7,g,4.5,g,0,g,0,g,0,g
+15,hooters,bacon,3.5,g,10,mg,135,g,0,g,3,g,1,g,0,g,0,g,0,g
+16,hooters,fresh jalapenos,0,g,0,mg,480,g,1,g,0,g,0,g,0,g,1,g,0,g
+17,hooters,cheddar cheese,9,g,25,mg,180,g,1,g,7,g,5,g,0,g,0,g,0,g
+18,hooters,lettuce onion tomato sauteed green peppers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+19,hooters,sauteed mushrooms,1,g,0,mg,45,g,1,g,0,g,0,g,0,g,0,g,0,g
+20,hooters,chili for sandwiches,3.5,g,10,mg,280,g,6,g,4,g,1,g,0,g,1,g,1,g
+21,hooters,american cheese,5,g,15,mg,300,g,2,g,3,g,3.5,g,0,g,0,g,1,g
+22,hooters,fried buffalo chicken sandwich without sauce or sides,29,g,140,mg,1590,g,69,g,41,g,10,g,0,g,4,g,9,g
+23,hooters,shrimp po boy sandwich without sides,53,g,200,mg,2820,g,72,g,34,g,13,g,0.5,g,5,g,9,g
+24,hooters,smothered chicken sandwich,65,g,170,mg,4130,g,110,g,68,g,23,g,1,g,10,g,10,g
+25,hooters,philly cheesesteak beef sandwich,78,g,140,mg,2750,g,116,g,65,g,25,g,2,g,10,g,6,g
+26,hooters,bacon mac n cheese burger,81,g,255,mg,4120,g,77,g,76,g,36,g,3,g,4,g,14,g
+27,hooters,wise choice grilled blackened mahi mahi sandwich as served,26,g,165,mg,1750,g,54,g,42,g,11,g,0.5,g,4,g,11,g
+28,hooters,blackened mahi sandwich,68,g,175,mg,2250,g,122,g,45,g,21,g,1,g,11,g,16,g
+29,hooters,western bbq burger,82,g,200,mg,3500,g,125,g,65,g,29,g,2.5,g,10,g,19,g
+30,hooters,texas melt sandwich without sides,57,g,205,mg,3670,g,62,g,57,g,25,g,3,g,4,g,16,g
+31,hooters,fried big fish sandwich without sides,68,g,260,mg,1940,g,80,g,45,g,16,g,1,g,5,g,7,g
+32,hooters,baja burger without sides,52,g,195,mg,3290,g,49,g,54,g,23,g,2.5,g,5,g,10,g
+33,hooters,grilled big fish sandwich without sides,39,g,145,mg,2430,g,57,g,43,g,10,g,0.5,g,3,g,12,g
+34,hooters,philly cheesesteak chicken,85,g,160,mg,4420,g,116,g,68,g,25,g,1.5,g,10,g,6,g
+35,hooters,chicken strip sandwich without sauce or sides,46,g,135,mg,1820,g,81,g,45,g,20,g,1,g,4,g,6,g
+36,hooters,bbq pork sandwich without sides,52,g,160,mg,2770,g,78,g,40,g,18,g,0.5,g,4,g,24,g
+37,hooters,club sandwich without sides,53,g,145,mg,2430,g,57,g,43,g,18,g,1,g,3,g,12,g
+38,hooters,traditional buffalo sauce 3 mile island,0,g,0,mg,1750,g,4,g,0,g,0,g,0,g,2,g,0,g
+39,hooters,signature spicy garlic sauce,33,g,10,mg,1640,g,6,g,0,g,5,g,0,g,0,g,0,g
+40,hooters,traditional buffalo sauce 911,0,g,0,mg,1770,g,4,g,0,g,0,g,0,g,2,g,0,g
+41,hooters,garlic habanero dry rub,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,1,g
+42,hooters,texas bbq dry rub,0,g,0,mg,390,g,2,g,0,g,0,g,0,g,0,g,1,g
+43,hooters,chesapeake dry rub,0,g,0,mg,680,g,1,g,0,g,0,g,0,g,1,g,0,g
+44,hooters,signature cajun sauce,41,g,0,mg,2060,g,4,g,1,g,7,g,0.5,g,2,g,0,g
+45,hooters,signature chipotle honey sauce,6,g,0,mg,550,g,26,g,0,g,1,g,0,g,0,g,25,g
+46,hooters,signature samurai teriyaki sauce,1,g,0,mg,300,g,34,g,0,g,0,g,0,g,0,g,32,g
+47,hooters,signature general tsos sauce,0,g,0,mg,1100,g,33,g,2,g,0,g,0,g,0,g,29,g
+48,hooters,traditional buffalo sauce hot,9,g,0,mg,1020,g,2,g,0,g,2,g,0,g,2,g,0,g
+49,hooters,signature bbq sauce,0,g,0,mg,550,g,23,g,0,g,0,g,0,g,0,g,21,g
+50,hooters,traditional buffalo sauce mild,24,g,0,mg,690,g,1,g,0,g,4,g,0,g,1,g,0,g
+51,hooters,signature daytona beach sauce,0,g,0,mg,1050,g,20,g,0,g,0,g,0,g,2,g,16,g
+52,hooters,traditional buffalo sauce medium,14,g,0,mg,690,g,2,g,0,g,2.5,g,0,g,1,g,0,g
+53,hooters,signature habanero sauce,0,g,0,mg,230,g,23,g,0,g,0,g,0,g,0,g,19,g
+54,hooters,signature triple dog dare saue,2,g,0,mg,920,g,15,g,0,g,0,g,0,g,2,g,11,g
+55,hooters,steamed shrimp 1 2 lb as served,46,g,410,mg,1120,g,14,g,50,g,29,g,2,g,1,g,9,g
+56,hooters,snow crab legs as servved,48,g,190,mg,1270,g,5,g,22,g,29,g,2,g,0,g,1,g
+57,hooters,fish and chips,101,g,235,mg,1290,g,128,g,42,g,17,g,1,g,13,g,15,g
+58,hooters,wise choice big fish sandwich as served,14,g,110,mg,2710,g,50,g,55,g,3,g,0,g,3,g,6,g
+59,hooters,wise choice steamed shrimp as served,0,g,290,mg,710,g,14,g,50,g,0,g,0,g,1,g,9,g
+60,hooters,raw oyster 1 dozen as served,5,g,20,mg,1290,g,47,g,9,g,1,g,0,g,4,g,11,g
+61,hooters,wise choice snow crab legs as served,1.5,g,65,mg,1300,g,16,g,23,g,0,g,0,g,1,g,10,g
+62,hooters,onion rings,16,g,0,mg,650,g,35,g,3,g,3,g,0,g,2,g,4,g
+63,hooters,coleslaw,14,g,25,mg,350,g,14,g,1,g,2,g,0,g,2,g,12,g
+64,hooters,roasted broccoli,1.5,g,0,mg,190,g,7,g,4,g,0,g,0,g,4,g,2,g
+65,hooters,chili,32,g,75,mg,1490,g,29,g,20,g,11,g,2,g,7,g,6,g
+66,hooters,side caesar salad,37,g,35,mg,710,g,9,g,5,g,7,g,0.5,g,2,g,2,g
+67,hooters,mac n cheese,22,g,35,mg,980,g,33,g,14,g,8,g,0,g,1,g,4,g
+68,hooters,roasted mixed veggies,3,g,0,mg,1530,g,26,g,6,g,0,g,0,g,7,g,0,g
+69,hooters,side garden salad without dressing,10,g,25,mg,290,g,9,g,9,g,5,g,0,g,2,g,2,g
+70,hooters,fried baja fish taco without sides,46,g,150,mg,2180,g,78,g,33,g,9,g,0,g,7,g,7,g
+71,hooters,grilled baja fish tacos,55,g,80,mg,2300,g,59,g,41,g,9,g,1,g,5,g,7,g
+72,hooters,fried baja shrimp taco without sides,32,g,165,mg,2140,g,61,g,37,g,7,g,0,g,5,g,7,g
+73,hooters,blackened mahi mahi fish taco without sides,39,g,165,mg,2530,g,63,g,11,g,13,g,1,g,6,g,8,g
+74,hooters,fried buffalo chicken tacos without sides,18,g,40,mg,1480,g,79,g,26,g,5,g,0,g,6,g,4,g
+75,hooters,grilled buffalo chicken tacos without sides,9,g,40,mg,1710,g,55,g,24,g,3.5,g,0,g,4,g,4,g
+76,hooters,blackened shrimp taco without sides,32,g,165,mg,2140,g,61,g,37,g,7,g,0,g,5,g,7,g
+77,hooters,bacon mac n cheese burger without side,81,g,255,mg,4120,g,77,g,76,g,36,g,3,g,4,g,14,g
+78,hooters,baja burger without side,52,g,195,mg,3290,g,49,g,54,g,23,g,2.5,g,5,g,10,g
+79,hooters,baja fish tacos fried without side,46,g,150,mg,2180,g,78,g,33,g,9,g,0,g,7,g,7,g
+80,hooters,baja fish tacos grilled without side,55,g,80,mg,2300,g,59,g,41,g,9,g,1,g,5,g,7,g
+81,hooters,baja fish tacos upgrade to blackened mahi mahi without side,39,g,165,mg,2530,g,63,g,11,g,13,g,1,g,6,g,8,g
+82,hooters,baja shrimp tacos without side,32,g,165,mg,2140,g,61,g,37,g,7,g,0,g,5,g,7,g
+83,hooters,balsamic vinaigrette dressings for wise choice salad,24,g,0,mg,470,g,8,g,0,g,3.5,g,0,g,0,g,4,g
+84,hooters,balsamic vinaigrette dressings for wise choice side salad,12,g,0,mg,240,g,4,g,0,g,2,g,0,g,0,g,2,g
+85,hooters,banana berry colada,2,g,0,mg,10,g,28,g,0,g,2,g,0,g,1,g,25,g
+86,hooters,beer cheese and pretzels,38,g,55,mg,5970,g,150,g,38,g,17,g,1,g,6,g,11,g
+87,hooters,big dipper chili cheese fries,42,g,55,mg,3320,g,103,g,21,g,12,g,1,g,9,g,5,g
+88,hooters,big dipper fries,13,g,0,mg,1990,g,86,g,9,g,1,g,0,g,7,g,0,g
+89,hooters,big dipper fries add cheese sauce,12,g,15,mg,670,g,6,g,3,g,4,g,0,g,0,g,0,g
+90,hooters,bleu cheese dressings for wise choice salad,27,g,35,mg,490,g,3,g,6,g,6,g,0,g,0,g,2,g
+91,hooters,bleu cheese dressings for wise choice side salad,14,g,20,mg,240,g,1,g,3,g,3,g,0,g,0,g,1,g
+92,hooters,boneless wings 10 pc without sauce and dressing,20,g,120,mg,350,g,22,g,47,g,4,g,0,g,2,g,0,g
+93,hooters,boneless wings 22 pc without sauce and dressing,41,g,240,mg,700,g,45,g,93,g,8,g,0,g,4,g,0,g
+94,hooters,boneless wings 50 pc without sauce and dressing,102,g,600,mg,1740,g,111,g,233,g,20,g,0,g,10,g,0,g
+95,hooters,boneless wings 8 pc without sauce and dressing,12,g,70,mg,210,g,13,g,28,g,2.5,g,0,g,1,g,0,g
+96,hooters,boneless wings 16 pc without sauce and dressing,31,g,180,mg,520,g,33,g,70,g,6,g,0,g,3,g,0,g
+97,hooters,buffalo chicken quesadillas without sauce and dressing,79,g,220,mg,2680,g,90,g,61,g,40,g,2,g,5,g,5,g
+98,hooters,caesar dressings for wise choice salad,35,g,30,mg,570,g,1,g,2,g,6,g,0,g,0,g,0,g
+99,hooters,caesar dressings for wise choice side salad,17,g,15,mg,290,g,1,g,1,g,3,g,0,g,0,g,0,g
+100,hooters,caramel fudge cheesecake,46,g,175,mg,500,g,112,g,13,g,25,g,1.5,g,4,g,89,g
+101,hooters,cheese quesadillas,67,g,125,mg,2040,g,64,g,37,g,29,g,1.5,g,6,g,4,g
+102,hooters,chicken brest strips without sauce,24,g,80,mg,480,g,49,g,33,g,4.5,g,0,g,3,g,0,g
+103,hooters,chicken caesar salad fried without side,77,g,125,mg,2630,g,19,g,35,g,14,g,1,g,4,g,3,g
+104,hooters,chicken caesar salad grilled without side,57,g,50,mg,1130,g,18,g,8,g,10,g,1,g,4,g,3,g
+105,hooters,chicken caesar salad hold the chicken without side,57,g,50,mg,1130,g,18,g,8,g,10,g,1,g,4,g,3,g
+106,hooters,chicken caesar salad upgrade to grilled shrimp without side,63,g,195,mg,1320,g,19,g,30,g,14,g,1,g,4,g,3,g
+107,hooters,chicken chips without sauce and dressing,36,g,120,mg,700,g,31,g,40,g,10,g,0,g,4,g,2,g
+108,hooters,chicken garden salad fried without dressing without side,34,g,135,mg,850,g,36,g,49,g,13,g,0.5,g,5,g,4,g
+109,hooters,chicken garden salad grilled without dressing without side,20,g,55,mg,590,g,19,g,18,g,10,g,0.5,g,4,g,4,g
+110,hooters,chicken garden salad hold the chicken without dressing without side,20,g,55,mg,590,g,19,g,18,g,10,g,0.5,g,4,g,4,g
+111,hooters,chicken garden salad upgrade to grilled shrimp without dressing without side,40,g,280,mg,1050,g,37,g,71,g,16,g,1,g,6,g,4,g
+112,hooters,chili,32,g,75,mg,1490,g,29,g,20,g,11,g,2,g,7,g,6,g
+113,hooters,chips and queso,48,g,70,mg,2020,g,78,g,23,g,17,g,0,g,6,g,10,g
+114,hooters,chocolate mouse cake,53,g,125,mg,530,g,151,g,10,g,30,g,1,g,7,g,116,g
+115,hooters,chopped cobb salad without dressing without side,26,g,290,mg,1340,g,18,g,42,g,12,g,0.5,g,4,g,9,g
+116,hooters,cocktails hurricane,0,g,0,mg,10,g,25,g,0,g,0,g,0,g,0,g,20,g
+117,hooters,cocktails jacks whiskey mai tai,0,g,0,mg,75,g,49,g,0,g,0,g,0,g,1,g,44,g
+118,hooters,cocktails kryptonite cooler,0,g,0,mg,65,g,39,g,0,g,0,g,0,g,0,g,37,g
+119,hooters,cocktails manhattan,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,2,g
+120,hooters,cocktails moonshine long island iced tea,0,g,0,mg,10,g,27,g,0,g,0,g,0,g,1,g,24,g
+121,hooters,cocktails old fashioned,0,g,0,mg,0,g,14,g,0,g,0,g,0,g,0,g,13,g
+122,hooters,cocktails pink passion,0,g,0,mg,55,g,62,g,0,g,0,g,0,g,1,g,56,g
+123,hooters,cocktails proper no 12,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+124,hooters,cocktails strawberry daiquiri,0,g,0,mg,45,g,49,g,0,g,0,g,0,g,1,g,47,g
+125,hooters,cocktails summer fling,0,g,0,mg,65,g,55,g,0,g,0,g,0,g,0,g,53,g
+126,hooters,cocktails the long island iced tea,0,g,0,mg,10,g,27,g,0,g,0,g,0,g,1,g,24,g
+127,hooters,cocktails tropical long island iced tea,0,g,0,mg,15,g,36,g,0,g,0,g,0,g,0,g,34,g
+128,hooters,cocktails whiskey blues,0,g,0,mg,35,g,29,g,0,g,0,g,0,g,0,g,28,g
+129,hooters,cocktails whiskey long island iced tea,0,g,0,mg,10,g,27,g,0,g,0,g,0,g,1,g,24,g
+130,hooters,cocktails whiskey sour,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,1,g,21,g
+131,hooters,coffee,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+132,hooters,coleslaw,14,g,25,mg,350,g,14,g,1,g,2,g,0,g,2,g,12,g
+133,hooters,curly fries,32,g,0,mg,580,g,80,g,9,g,6,g,0,g,9,g,0,g
+134,hooters,curly fries add cheese sauce,12,g,15,mg,670,g,6,g,3,g,4,g,0,g,0,g,0,g
+135,hooters,desserts shooters brownie,15,g,70,mg,95,g,27,g,3,g,7,g,0,g,1,g,19,g
+136,hooters,desserts shooters heath bar,15,g,35,mg,220,g,31,g,2,g,9,g,0,g,0,g,23,g
+137,hooters,desserts shooters peanut butter,19,g,25,mg,190,g,36,g,5,g,11,g,0,g,1,g,31,g
+138,hooters,desserts shooters strawberry,11,g,15,mg,55,g,25,g,2,g,7,g,0,g,0,g,20,g
+139,hooters,fajita chicken quesadillas,108,g,250,mg,4650,g,76,g,65,g,45,g,3,g,8,g,9,g
+140,hooters,fajita steak quesadillas,89,g,260,mg,3160,g,78,g,73,g,43,g,3,g,7,g,9,g
+141,hooters,fish and chips,101,g,235,mg,1290,g,128,g,42,g,17,g,1,g,13,g,15,g
+142,hooters,fountain drinks diet pepsi,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+143,hooters,fountain drinks dr pepper,0,g,0,mg,90,g,59,g,0,g,0,g,0,g,0,g,58,g
+144,hooters,fountain drinks mt dew,0,g,0,mg,95,g,69,g,0,g,0,g,0,g,0,g,69,g
+145,hooters,fountain drinks mug root beer,0,g,0,mg,95,g,64,g,0,g,0,g,0,g,0,g,64,g
+146,hooters,fountain drinks pepsi,0,g,0,mg,50,g,62,g,0,g,0,g,0,g,0,g,62,g
+147,hooters,fountain drinks twisti,0,g,0,mg,50,g,59,g,0,g,0,g,0,g,0,g,59,g
+148,hooters,grilled blackened shrimp,31,g,105,mg,1610,g,46,g,24,g,5,g,0,g,11,g,6,g
+149,hooters,honey dijon dressings for wise choice salad,26,g,20,mg,360,g,10,g,2,g,4,g,0,g,0,g,8,g
+150,hooters,honey dijon dressings for wise choice side salad,13,g,10,mg,180,g,5,g,1,g,2,g,0,g,0,g,4,g
+151,hooters,hooters bacon wrapped wings 10 pc without dressing,69,g,380,mg,2830,g,35,g,99,g,19,g,0,g,1,g,30,g
+152,hooters,hooters bacon wrapped wings 15 pc without dressing,104,g,565,mg,4020,g,48,g,148,g,28,g,0,g,2,g,41,g
+153,hooters,hooters bacon wrapped wings 20 pc without dressing,138,g,755,mg,5210,g,61,g,197,g,38,g,0.5,g,2,g,52,g
+154,hooters,hooters bacon wrapped wings 6 pc without dressing,42,g,225,mg,1790,g,23,g,59,g,11,g,0,g,1,g,19,g
+155,hooters,hooters daytona beach style wings 10 pc without dressing,75,g,335,mg,2180,g,106,g,68,g,18,g,0,g,6,g,22,g
+156,hooters,hooters daytona beach style wings 15 pc without dressing,111,g,495,mg,2580,g,143,g,100,g,26,g,0,g,9,g,22,g
+157,hooters,hooters daytona beach style wings 20 pc without dressing,149,g,665,mg,3910,g,203,g,136,g,35,g,0,g,12,g,36,g
+158,hooters,hooters daytona beach style wings 50 pc without dressing,372,g,1670,mg,7760,g,468,g,337,g,88,g,1,g,29,g,58,g
+159,hooters,hooters daytona beach style wings 6 pc without dressing,45,g,200,mg,1400,g,65,g,41,g,11,g,0,g,4,g,15,g
+160,hooters,hooters onion ring tower,75,g,20,mg,2540,g,75,g,8,g,12,g,0.5,g,5,g,13,g
+161,hooters,hooters original buffalo chicken dip,67,g,140,mg,3780,g,83,g,45,g,27,g,0,g,6,g,12,g
+162,hooters,hooters original buffalo chicken salad fried without sauce and dressing without side,22,g,105,mg,570,g,24,g,41,g,8,g,0,g,5,g,4,g
+163,hooters,hooters original buffalo chicken salad grilled without sauce and dressing without side,21,g,105,mg,750,g,28,g,33,g,8,g,0,g,5,g,4,g
+164,hooters,hooters original buffalo platter without sauce,69,g,350,mg,1240,g,88,g,74,g,15,g,0,g,6,g,1,g
+165,hooters,hooters original buffalo shrimp 12 pc without sauce,22,g,210,mg,820,g,25,g,29,g,4,g,0,g,2,g,2,g
+166,hooters,hooters original buffalo shrimp 24 pc without sauce,43,g,420,mg,1630,g,49,g,58,g,8,g,0,g,4,g,4,g
+167,hooters,hooters original fried pickles,85,g,15,mg,4620,g,87,g,12,g,14,g,1,g,8,g,9,g
+168,hooters,hooters roasted wings 10 pc without sauce and dressing,50,g,550,mg,3500,g,10,g,50,g,10,g,0,g,0,g,10,g
+169,hooters,hooters roasted wings 15 pc without sauce and dressing,53,g,450,mg,5250,g,15,g,75,g,15,g,0,g,0,g,15,g
+170,hooters,hooters roasted wings 20 pc without sauce and dressing,70,g,600,mg,7000,g,20,g,100,g,20,g,0,g,0,g,20,g
+171,hooters,hooters roasted wings 50 pc without sauce and dressing,250,g,2750,mg,17500,g,50,g,250,g,50,g,0,g,0,g,50,g
+172,hooters,hooters roasted wings 6 pc without sauce and dressing,21,g,180,mg,2100,g,6,g,30,g,6,g,0,g,0,g,6,g
+173,hooters,hooters smoked wings 10 pc without sauce and dressing,36,g,300,mg,3470,g,13,g,51,g,11,g,0,g,1,g,11,g
+174,hooters,hooters smoked wings 10pc without dry rub and dressing,36,g,300,mg,3470,g,13,g,51,g,11,g,0,g,1,g,11,g
+175,hooters,hooters smoked wings 15 pc without sauce and dressing,55,g,445,mg,5210,g,20,g,76,g,16,g,0,g,2,g,16,g
+176,hooters,hooters smoked wings 15pc without dry rub and dressing,55,g,445,mg,5210,g,20,g,76,g,16,g,0,g,2,g,16,g
+177,hooters,hooters smoked wings 20 pc without sauce and dressing,73,g,595,mg,6940,g,27,g,255,g,21,g,0,g,5,g,54,g
+178,hooters,hooters smoked wings 20pc without dry rub and dressing,73,g,595,mg,6940,g,27,g,102,g,21,g,0,g,2,g,21,g
+179,hooters,hooters smoked wings 50 pc without sauce and dressing,182,g,1490,mg,17360,g,67,g,255,g,53,g,1,g,5,g,54,g
+180,hooters,hooters smoked wings 50pc without dry rub and dressing,182,g,1490,mg,17360,g,67,g,255,g,53,g,1,g,5,g,54,g
+181,hooters,hooters smoked wings 6 pc without sauce and dressing,22,g,180,mg,2080,g,8,g,31,g,6,g,0,g,1,g,6,g
+182,hooters,hooters smoked wings 6pc without dry rub and dressing,22,g,180,mg,2080,g,8,g,31,g,6,g,0,g,1,g,6,g
+183,hooters,hooters unreal wings 10 pc without sauce and dressing,43,g,5,mg,1390,g,65,g,42,g,8,g,0,g,20,g,2,g
+184,hooters,hooters unreal wings 6 pc without sauce and dressing,26,g,5,mg,840,g,39,g,25,g,5,g,0,g,12,g,1,g
+185,hooters,iced tea sweet,0,g,0,mg,0,g,38,g,0,g,0,g,0,g,0,g,38,g
+186,hooters,iced tea unsweet,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+187,hooters,key lime pie,25,g,230,mg,230,g,121,g,12,g,16,g,0,g,2,g,97,g
+188,hooters,lemonade,0,g,0,mg,40,g,66,g,2,g,0,g,0,g,0,g,63,g
+189,hooters,lemonade add mango,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,0,g,12,g
+190,hooters,lemonade add passion fruit,0,g,0,mg,25,g,12,g,0,g,0,g,0,g,0,g,10,g
+191,hooters,lemonade add peach,0,g,0,mg,10,g,13,g,0,g,0,g,0,g,0,g,12,g
+192,hooters,lemonade add strawberry,0,g,0,mg,10,g,12,g,0,g,0,g,0,g,0,g,12,g
+193,hooters,lime vinaigrette dressings for wise choice salad,13,g,0,mg,260,g,7,g,0,g,2,g,0,g,0,g,4,g
+194,hooters,lime vinaigrette dressings for wise choice side salad,6,g,0,mg,130,g,3,g,0,g,1,g,0,g,0,g,2,g
+195,hooters,lite italian dressings for wise choice salad,7,g,0,mg,460,g,2,g,2,g,0,g,0,g,0,g,2,g
+196,hooters,lite italian dressings for wise choice side salad,3.5,g,0,mg,230,g,2,g,0,g,0,g,0,g,0,g,2,g
+197,hooters,lite ranch dressings for wise choice salad,22,g,20,mg,460,g,2,g,2,g,3,g,0,g,0,g,2,g
+198,hooters,lite ranch dressings for wise choice side salad,11,g,10,mg,230,g,1,g,1,g,1.5,g,0,g,0,g,1,g
+199,hooters,lots a tots,93,g,70,mg,3140,g,95,g,23,g,22,g,0,g,8,g,1,g
+200,hooters,mac n cheese,22,g,35,mg,980,g,33,g,14,g,8,g,0,g,1,g,4,g
+201,hooters,mile high burgers brioche bun only without side,5,g,10,mg,410,g,40,g,8,g,3,g,0,g,1,g,8,g
+202,hooters,mile high burgers crispy chicken breast only without side,13,g,45,mg,260,g,27,g,18,g,2.5,g,0,g,2,g,0,g
+203,hooters,mile high burgers grilled chicken breast only without side,7,g,100,mg,1690,g,2,g,37,g,2,g,0,g,0,g,0,g
+204,hooters,mile high burgers ground beef build a home run only 4 oz without side,48,g,260,mg,3170,g,2,g,71,g,19,g,4,g,0,g,0,g
+205,hooters,mile high burgers ground beef build a triple only 3 4 oz without side,36,g,195,mg,2380,g,1,g,35,g,14,g,3,g,0,g,0,g
+206,hooters,mile high burgers ground beef only 2 4 oz without side,24,g,130,mg,860,g,0,g,35,g,9,g,2,g,0,g,0,g
+207,hooters,mile high burgers texas toast only without side,2,g,0,mg,460,g,46,g,8,g,0,g,0,g,2,g,6,g
+208,hooters,mile high burgers turkey patty only without side,23,g,100,mg,630,g,7,g,35,g,5,g,0,g,0,g,2,g
+209,hooters,milk,2,g,20,mg,120,g,12,g,8,g,1,g,0,g,0,g,11,g
+210,hooters,mozzarella sticks,35,g,60,mg,1560,g,50,g,26,g,14,g,0.5,g,4,g,8,g
+211,hooters,naked wings 15 pc without dressing,77,g,805,mg,970,g,6,g,169,g,19,g,0,g,2,g,1,g
+212,hooters,naked wings 20 pc without dressing,103,g,1070,mg,1290,g,7,g,225,g,25,g,0,g,3,g,2,g
+213,hooters,naked wings 50 pc without dressing,257,g,2680,mg,3230,g,18,g,562,g,62,g,1,g,8,g,4,g
+214,hooters,naked wings 6 pc without dressing,31,g,320,mg,390,g,2,g,67,g,7,g,0,g,1,g,0,g
+215,hooters,naked wings 10 pc without dressing,51,g,535,mg,650,g,4,g,112,g,12,g,0,g,2,g,1,g
+216,hooters,ole smoky salty carmel dessert,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+217,hooters,onion rings,16,g,0,mg,650,g,35,g,3,g,3,g,0,g,2,g,4,g
+218,hooters,original buffalo chicken salad upgrade to blackened mahi mahi without saucedressing and side,22,g,180,mg,1100,g,18,g,43,g,13,g,0,g,4,g,4,g
+219,hooters,original buffalo chicken tacos fried without sauce and dressing without side,18,g,40,mg,1480,g,79,g,26,g,5,g,0,g,6,g,4,g
+220,hooters,original buffalo chicken tacos grilled without sauce and dressing without side,9,g,40,mg,1710,g,55,g,24,g,3.5,g,0,g,4,g,4,g
+221,hooters,original hooters style 10 pc without sauce and dressing,86,g,335,mg,930,g,74,g,74,g,19,g,0,g,4,g,0,g
+222,hooters,original hooters style 15 pc without sauce and dressing,129,g,505,mg,1400,g,112,g,111,g,29,g,0.5,g,6,g,0,g
+223,hooters,original hooters style 20 pc without sauce and dressing,172,g,675,mg,1870,g,149,g,148,g,38,g,1,g,8,g,0,g
+224,hooters,original hooters style 50 pc without sauce and dressing,429,g,1685,mg,4670,g,372,g,369,g,95,g,2,g,20,g,0,g
+225,hooters,original hooters style 6 pc without sauce and dressing,51,g,200,mg,560,g,45,g,44,g,11,g,0,g,2,g,0,g
+226,hooters,oysters,5,g,20,mg,1290,g,47,g,9,g,1,g,0,g,4,g,11,g
+227,hooters,red bull coconut berry 8 4 oz can,0,g,0,mg,90,g,28,g,0,g,0,g,0,g,0,g,27,g
+228,hooters,red bull original 8 4 oz can,0,g,0,mg,105,g,28,g,0,g,0,g,0,g,0,g,27,g
+229,hooters,red bull sugarfree 8 4 oz can,0,g,0,mg,105,g,3,g,0,g,0,g,0,g,0,g,0,g
+230,hooters,red bull tangerine 8 4 oz can,0,g,0,mg,100,g,28,g,0,g,0,g,0,g,0,g,27,g
+231,hooters,red bull topical fruit 8 4 oz can,0,g,0,mg,140,g,29,g,0,g,0,g,0,g,0,g,28,g
+232,hooters,rita gone wild blackberry frozen,0,g,0,mg,35,g,51,g,0,g,0,g,0,g,1,g,49,g
+233,hooters,rita gone wild blackberry rocks,0,g,0,mg,35,g,51,g,0,g,0,g,0,g,1,g,49,g
+234,hooters,rita gone wild mango frozen,0,g,0,mg,15,g,47,g,0,g,0,g,0,g,0,g,44,g
+235,hooters,rita gone wild mango rocks,0,g,0,mg,15,g,47,g,0,g,0,g,0,g,0,g,44,g
+236,hooters,rita gone wild passion fruit frozen,0,g,0,mg,15,g,46,g,0,g,0,g,0,g,0,g,43,g
+237,hooters,rita gone wild passion fruit rocks,0,g,0,mg,15,g,46,g,0,g,0,g,0,g,0,g,43,g
+238,hooters,rita gone wild peach frozen,0,g,0,mg,15,g,47,g,0,g,0,g,0,g,0,g,43,g
+239,hooters,rita gone wild peach rocks,0,g,0,mg,15,g,57,g,0,g,0,g,0,g,0,g,43,g
+240,hooters,rita gone wild regular frozen,0,g,0,mg,490,g,36,g,0,g,0,g,0,g,0,g,33,g
+241,hooters,rita gone wild regular rocks,0,g,0,mg,490,g,36,g,0,g,0,g,0,g,0,g,33,g
+242,hooters,rita gone wild strawberry frozen,0,g,0,mg,10,g,46,g,0,g,0,g,0,g,0,g,43,g
+243,hooters,rita gone wild strawberry rocks,0,g,0,mg,10,g,46,g,0,g,0,g,0,g,0,g,43,g
+244,hooters,roasted broccoli,1.5,g,0,mg,190,g,7,g,4,g,0,g,0,g,4,g,2,g
+245,hooters,roasted mixed veggies,3,g,0,mg,1530,g,26,g,6,g,0,g,0,g,7,g,0,g
+246,hooters,salad dressings balsamic vinaigrette,24,g,0,mg,470,g,8,g,0,g,3.5,g,0,g,0,g,4,g
+247,hooters,salad dressings bleu cheese,27,g,35,mg,490,g,3,g,6,g,6,g,0,g,0,g,2,g
+248,hooters,salad dressings caesar,35,g,30,mg,570,g,1,g,2,g,6,g,0,g,0,g,0,g
+249,hooters,salad dressings honey dijon,26,g,20,mg,360,g,10,g,2,g,4,g,0,g,0,g,8,g
+250,hooters,salad dressings lime vinaigrette,13,g,0,mg,260,g,7,g,0,g,2,g,0,g,0,g,4,g
+251,hooters,salad dressings lite italian,7,g,0,mg,460,g,4,g,0,g,0,g,0,g,0,g,4,g
+252,hooters,salad dressings lite ranch,22,g,20,mg,460,g,2,g,2,g,3,g,0,g,0,g,2,g
+253,hooters,salad dressings thousand island,24,g,15,mg,250,g,7,g,1,g,3.5,g,0,g,0,g,6,g
+254,hooters,sandwiches extras american cheese,5,g,15,mg,300,g,2,g,3,g,3.5,g,0,g,0,g,1,g
+255,hooters,sandwiches extras bacon,3.5,g,10,mg,135,g,0,g,3,g,1,g,0,g,0,g,0,g
+256,hooters,sandwiches extras bleu cheese,8,g,25,mg,260,g,1,g,7,g,5,g,0,g,0,g,1,g
+257,hooters,sandwiches extras cheddar cheese,9,g,25,mg,180,g,1,g,7,g,5,g,0,g,0,g,0,g
+258,hooters,sandwiches extras chili,3.5,g,10,mg,280,g,5,g,4,g,1,g,0,g,1,g,1,g
+259,hooters,sandwiches extras fresh jalapenos,0,g,0,mg,480,g,1,g,0,g,0,g,0,g,1,g,0,g
+260,hooters,sandwiches extras guacamole,6,g,0,mg,200,g,4,g,1,g,1,g,0,g,3,g,1,g
+261,hooters,sandwiches extras lettuce,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+262,hooters,sandwiches extras monterey jack cheese,6,g,20,mg,120,g,1,g,5,g,3.5,g,0,g,0,g,0,g
+263,hooters,sandwiches extras onion,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+264,hooters,sandwiches extras pepper jack cheese,6,g,20,mg,120,g,0,g,5,g,3.5,g,0,g,0,g,0,g
+265,hooters,sandwiches extras pico de gallo,0,g,0,mg,190,g,2,g,0,g,0,g,0,g,0,g,1,g
+266,hooters,sandwiches extras provolone cheese,8,g,20,mg,240,g,1,g,7,g,4.5,g,0,g,0,g,0,g
+267,hooters,sandwiches extras sauted green peppers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+268,hooters,sandwiches extras sauted mushrooms,1,g,0,mg,45,g,1,g,0,g,0,g,0,g,0,g,0,g
+269,hooters,sandwiches extras swiss cheese,8,g,25,mg,60,g,1,g,8,g,4.5,g,0,g,0,g,0,g
+270,hooters,sandwiches extras tomato,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+271,hooters,sandwiches bbq pork without side,52,g,160,mg,2770,g,78,g,40,g,18,g,0.5,g,4,g,24,g
+272,hooters,sandwiches big fish fried without side,68,g,260,mg,1940,g,80,g,45,g,16,g,1,g,5,g,7,g
+273,hooters,sandwiches big fish grilled without side,39,g,145,mg,2430,g,57,g,43,g,10,g,0.5,g,3,g,12,g
+274,hooters,sandwiches blackened mahi mahi without side,68,g,175,mg,2250,g,122,g,45,g,21,g,1,g,11,g,16,g
+275,hooters,sandwiches club without side,53,g,145,mg,2430,g,57,g,43,g,18,g,1,g,3,g,12,g
+276,hooters,sandwiches hooters original buffalo chicken fried without sauce,29,g,140,mg,1590,g,69,g,41,g,10,g,0,g,4,g,9,g
+277,hooters,sandwiches hooters original buffalo chicken grilled without sauce,53,g,140,mg,1790,g,132,g,48,g,15,g,0,g,11,g,9,g
+278,hooters,sandwiches hooters original chicken strip without sauce,46,g,135,mg,1820,g,81,g,45,g,20,g,1,g,4,g,6,g
+279,hooters,sandwiches philly cheesesteak beef without side,78,g,140,mg,2750,g,116,g,65,g,25,g,2,g,10,g,6,g
+280,hooters,sandwiches philly cheesesteak chicken without side,85,g,160,mg,4420,g,116,g,54,g,25,g,1.5,g,10,g,13,g
+281,hooters,sandwiches philly cheesesteak texas style without side,49,g,95,mg,3640,g,130,g,54,g,13,g,0.5,g,10,g,13,g
+282,hooters,sandwiches shrimp po boy without side,53,g,200,mg,2820,g,72,g,34,g,13,g,0.5,g,5,g,9,g
+283,hooters,sandwiches texas melt without side,57,g,205,mg,3670,g,62,g,57,g,25,g,3,g,4,g,16,g
+284,hooters,sandwiches twisted texas melt without side,81,g,205,mg,3800,g,123,g,64,g,29,g,3,g,10,g,15,g
+285,hooters,sauces dry rubs caribbean jerk,0,g,0,mg,350,g,5,g,0,g,0,g,0,g,0,g,0,g
+286,hooters,sauces dry rubs chesapeake,0,g,0,mg,680,g,1,g,0,g,0,g,0,g,1,g,0,g
+287,hooters,sauces dry rubs garlic habanero,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,1,g
+288,hooters,sauces dry rubs lemon pepper,46,g,120,mg,1180,g,0,g,0,g,29,g,2,g,0,g,0,g
+289,hooters,sauces dry rubs texas bbq,0,g,0,mg,390,g,2,g,0,g,0,g,0,g,0,g,1,g
+290,hooters,sauces signature bbq,0,g,0,mg,550,g,23,g,0,g,0,g,0,g,0,g,21,g
+291,hooters,sauces signature cajun,41,g,0,mg,2060,g,4,g,1,g,7,g,0.5,g,2,g,0,g
+292,hooters,sauces signature chipotle honey,6,g,0,mg,550,g,26,g,0,g,1,g,0,g,0,g,25,g
+293,hooters,sauces signature daytona beach,0,g,0,mg,1050,g,20,g,0,g,0,g,0,g,2,g,16,g
+294,hooters,sauces signature general tsos,0,g,0,mg,1100,g,33,g,2,g,0,g,0,g,0,g,29,g
+295,hooters,sauces signature habanero bbq,0,g,0,mg,230,g,23,g,0,g,0,g,0,g,0,g,19,g
+296,hooters,sauces signature honey sriracha,0,g,600,mg,830,g,34,g,0,g,0,g,0,g,0,g,32,g
+297,hooters,sauces signature parmesan garlic,22,g,0,mg,1040,g,4,g,2,g,4,g,0,g,0,g,0,g
+298,hooters,sauces signature samurai teriyaki,1,g,0,mg,300,g,34,g,0,g,0,g,0,g,0,g,32,g
+299,hooters,sauces signature spicy garlic,33,g,10,mg,1640,g,6,g,0,g,5,g,0,g,0,g,0,g
+300,hooters,sauces signature triple dog dare,2,g,0,mg,920,g,15,g,0,g,0,g,0,g,2,g,11,g
+301,hooters,sauces traditional buffalo 3 mile island,0,g,0,mg,1750,g,4,g,0,g,0,g,0,g,2,g,0,g
+302,hooters,sauces traditional buffalo 911,0,g,0,mg,1770,g,4,g,0,g,0,g,0,g,2,g,0,g
+303,hooters,sauces traditional buffalo hot,9,g,0,mg,1020,g,2,g,0,g,2,g,0,g,2,g,0,g
+304,hooters,sauces traditional buffalo medium,14,g,0,mg,690,g,2,g,0,g,2.5,g,0,g,1,g,0,g
+305,hooters,sauces traditional buffalo mild,24,g,0,mg,690,g,1,g,0,g,4,g,0,g,1,g,0,g
+306,hooters,shots merica,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+307,hooters,shots cherry bomb,0,g,0,mg,35,g,16,g,0,g,0,g,0,g,0,g,16,g
+308,hooters,shots jager bomb,0,g,0,mg,35,g,10,g,0,g,0,g,0,g,0,g,10,g
+309,hooters,shots purple hooter,0,g,0,mg,10,g,15,g,0,g,0,g,0,g,0,g,15,g
+310,hooters,shots royal flush,0,g,0,mg,10,g,19,g,0,g,0,g,0,g,0,g,13,g
+311,hooters,shots soco n lime,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,1,g,0,g
+312,hooters,shots tuaca lemon drop,0,g,0,mg,0,g,15,g,0,g,0,g,0,g,0,g,14,g
+313,hooters,shots vegas bomb,0,g,0,mg,35,g,17,g,0,g,0,g,0,g,0,g,10,g
+314,hooters,shrimp and spinach salad upgrade to blackened mahi mahi without side,46,g,195,mg,1690,g,20,g,48,g,17,g,0.5,g,3,g,6,g
+315,hooters,shrimp and spinach salad without side,38,g,185,mg,1120,g,13,g,37,g,14,g,0,g,2,g,6,g
+316,hooters,side caesar salad,37,g,35,mg,710,g,9,g,5,g,7,g,0.5,g,2,g,2,g
+317,hooters,side garden salad without dressing,10,g,25,mg,290,g,9,g,9,g,5,g,0,g,2,g,2,g
+318,hooters,skinny rita,0,g,0,mg,230,g,27,g,0,g,0,g,0,g,0,g,26,g
+319,hooters,sliders buffalo chicken without sauce 4,37,g,115,mg,1780,g,122,g,47,g,7,g,0,g,6,g,16,g
+320,hooters,sliders ground beef 4,67,g,170,mg,3810,g,116,g,59,g,22,g,2.5,g,6,g,20,g
+321,hooters,smothered chicken sandwich without side,65,g,170,mg,4130,g,110,g,68,g,23,g,1,g,10,g,10,g
+322,hooters,snow crab legs,48,g,190,mg,1270,g,5,g,22,g,29,g,2,g,0,g,1,g
+323,hooters,steamed shrimp,0,g,290,mg,710,g,14,g,50,g,0,g,0,g,1,g,9,g
+324,hooters,steamed shrimp half pound,46,g,410,mg,1120,g,14,g,50,g,29,g,2,g,1,g,9,g
+325,hooters,steamed shrimp one pound,46,g,700,mg,1400,g,17,g,99,g,29,g,2,g,1,g,10,g
+326,hooters,sweet heat hooterita,0,g,0,mg,200,g,18,g,0,g,0,g,0,g,0,g,14,g
+327,hooters,taco salad upgrade to grilled chicken without dressing without side,69,g,140,mg,3370,g,56,g,48,g,21,g,1.5,g,12,g,18,g
+328,hooters,taco salad upgrade to grilled shrimp without dressing without side,62,g,215,mg,2030,g,54,g,43,g,22,g,1.5,g,12,g,18,g
+329,hooters,taco salad without dressing without side,69,g,100,mg,2360,g,61,g,29,g,23,g,1.5,g,14,g,20,g
+330,hooters,tex mex nachos with chili,94,g,105,mg,4460,g,108,g,30,g,27,g,1.5,g,15,g,11,g
+331,hooters,tex mex nachos with grilled chicken,89,g,150,mg,4960,g,98,g,52,g,23,g,0.5,g,12,g,8,g
+332,hooters,the legendary rita frozen,0,g,0,mg,500,g,40,g,0,g,0,g,0,g,0,g,36,g
+333,hooters,the legendary rita rocks,0,g,0,mg,500,g,40,g,0,g,0,g,0,g,0,g,36,g
+334,hooters,thousand island dressings for wise choice salad,24,g,15,mg,250,g,7,g,1,g,3.5,g,0,g,0,g,6,g
+335,hooters,thousand island dressings for wise choice side salad,12,g,10,mg,125,g,4,g,0,g,2,g,0,g,0,g,3,g
+336,hooters,tots,64,g,10,mg,1960,g,87,g,9,g,11,g,0,g,8,g,0,g
+337,hooters,watermelon rita,0,g,0,mg,75,g,61,g,0,g,0,g,0,g,0,g,58,g
+338,hooters,western bbq burger without side,82,g,200,mg,3500,g,125,g,65,g,29,g,2.5,g,10,g,19,g
+339,hooters,wine sangria orange pride,0,g,0,mg,0,g,39,g,0,g,0,g,0,g,1,g,31,g
+340,hooters,wise choice big fish sandwich,14,g,110,mg,2710,g,50,g,55,g,3,g,0,g,3,g,6,g
+341,hooters,wise choice big fish sandwich hold the roll subtract,5,g,10,mg,410,g,40,g,8,g,3,g,0,g,1,g,8,g
+342,hooters,wise choice drinks 3 mile island bloody mary,1,g,0,mg,1470,g,11,g,1,g,0,g,0,g,2,g,4,g
+343,hooters,wise choice drinks american born and bread,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+344,hooters,wise choice drinks american mule,0,g,0,mg,20,g,29,g,0,g,0,g,0,g,1,g,26,g
+345,hooters,wise choice drinks beach retreat,0,g,0,mg,135,g,61,g,0,g,0,g,0,g,0,g,55,g
+346,hooters,wise choice drinks blackberry long island iced tea,0,g,0,mg,10,g,35,g,0,g,0,g,0,g,0,g,33,g
+347,hooters,wise choice drinks cosbro,0,g,0,mg,10,g,32,g,0,g,0,g,0,g,0,g,29,g
+348,hooters,wise choice drinks hoot punch,0,g,0,mg,10,g,35,g,0,g,0,g,0,g,0,g,34,g
+349,hooters,wise choice drinks hooterade blue,0,g,0,mg,20,g,35,g,0,g,0,g,0,g,1,g,21,g
+350,hooters,wise choice drinks hooterade mango,0,g,0,mg,10,g,28,g,0,g,0,g,0,g,0,g,26,g
+351,hooters,wise choice drinks hooterade orange,0,g,0,mg,0,g,35,g,1,g,0,g,0,g,0,g,28,g
+352,hooters,wise choice drinks hula hoop pina colada,2,g,0,mg,45,g,64,g,0,g,1,g,0,g,0,g,62,g
+353,hooters,wise choice drinks light blue hooterade,0,g,0,mg,125,g,44,g,0,g,0,g,0,g,0,g,42,g
+354,hooters,wise choice drinks michelob ultra,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,0,g,0,g
+355,hooters,wise choice drinks skinny rita,0,g,0,mg,230,g,27,g,0,g,0,g,0,g,0,g,26,g
+356,hooters,wise choice dry rub caribbean jerk,0,g,0,mg,350,g,5,g,0,g,0,g,0,g,0,g,0,g
+357,hooters,wise choice dry rub garlic habanero,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,1,g
+358,hooters,wise choice dry rub texas bbq,0,g,0,mg,390,g,2,g,0,g,0,g,0,g,0,g,1,g
+359,hooters,wise choice fish tacos,15,g,75,mg,1620,g,55,g,40,g,4,g,0,g,4,g,4,g
+360,hooters,wise choice grilled blackened mahi mahi sandwich,26,g,165,mg,17510,g,54,g,42,g,11,g,0.5,g,4,g,11,g
+361,hooters,wise choice grilled blackened mahi mahi sandwich hold the roll subtract,5,g,10,mg,410,g,40,g,8,g,3,g,0,g,1,g,8,g
+362,hooters,wise choice grilled chicken sandwich,0,g,0,mg,350,g,5,g,0,g,0,g,0,g,0,g,0,g
+363,hooters,wise choice grilled chicken sandwich hold the roll subtract,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,1,g
+364,hooters,wise choice salad without dressing,9,g,25,mg,250,g,8,g,10,g,5,g,0,g,4,g,3,g
+365,hooters,wise choice shrimp tacos,14,g,155,mg,1610,g,56,g,36,g,4,g,0,g,4,g,4,g
+366,hooters,wise choice side salad without dressing,4.5,g,15,mg,125,g,4,g,5,g,2.5,g,0,g,2,g,1,g
+367,hooters,wise choice chili,17,g,55,mg,1380,g,26,g,20,g,6,g,0.5,g,6,g,7,g
+368,hooters,wise choice snow crab legs,1.5,g,65,mg,1300,g,16,g,23,g,0,g,0,g,1,g,10,g
+369,hot dog on a stick,ketchup,0,g,0,mg,103,g,3.2,g,0,g,0,g,0,g,0,g,2.6,g
+370,hot dog on a stick,granulated sugar extra fine,0,g,0,mg,1,g,100,g,0,g,0,g,0,g,0,g,100,g
+371,hot dog on a stick,mayonnaise,9,g,5,mg,70,g,0,g,0,g,2,g,0,g,0,g,0,g
+372,hot dog on a stick,sweet relish,0,g,0,mg,50,g,3,g,0,g,0,g,0,g,0,g,3,g
+373,hot dog on a stick,yellow mustard,0,g,0,mg,65,g,1,g,0,g,0,g,0,g,0,g,0,g
+374,hot dog on a stick,lite lemonade,0,g,0,mg,15,g,7.5,g,0,g,0,g,0,g,0,g,3.5,g
+375,hot dog on a stick,sugar free lemonade,0,g,0,mg,20,g,3,g,0,g,0,g,0,g,0,g,0,g
+376,hot dog on a stick,cherry lemonade,0,g,0,mg,20,g,51.5,g,0,g,0,g,0,g,0,g,48.5,g
+377,hot dog on a stick,original frozen lemonade,0,g,0,mg,13,g,53,g,0,g,0,g,0,g,0,g,45,g
+378,hot dog on a stick,lime lemonade,0,g,0,mg,20,g,57,g,0,g,0,g,0,g,0,g,54,g
+379,hot dog on a stick,original lemonade,0,g,0,mg,15,g,38,g,0,g,0,g,0,g,0,g,34.5,g
+380,hot dog on a stick,cherry frozen lemonade,0,g,0,mg,18,g,67,g,0,g,0,g,0,g,0,g,59,g
+381,hot dog on a stick,lime frozen lemonade,0,g,0,mg,20,g,72.5,g,0,g,0,g,0,g,0,g,64.5,g
+382,hot dog on a stick,turkey hot dog on a stick,13,g,40,mg,400,g,27,g,7,g,3,g,0,g,1,g,6,g
+383,hot dog on a stick,beef hot dog on a stick,21,g,40,mg,520,g,25,g,9,g,8,g,0,g,1,g,6,g
+384,hot dog on a stick,american cheese on a stick,16,g,40,mg,600,g,20,g,9,g,7,g,0,g,0,g,6,g
+385,hot dog on a stick,pepperjack cheese on a stick,15,g,40,mg,510,g,22,g,8,g,7,g,0,g,1,g,6,g
+386,hot dog on a stick,veggie dog on a stick,6,g,10,mg,380,g,26,g,12,g,1,g,0,g,1,g,6,g
+387,hot dog on a stick,fish and zucchini platter,15,g,50,mg,980,g,53,g,24,g,3,g,0,g,1,g,3,g
+388,hot dog on a stick,zucchini platter with ranch sauce,23,g,15,mg,900,g,45,g,5,g,4,g,0,g,2,g,5,g
+389,hot dog on a stick,chocolate sauce,1,g,0,mg,42,g,22,g,1,g,0,g,0,g,0,g,20,g
+390,hot dog on a stick,raspberry sauce,0,g,0,mg,20,g,14,g,1,g,0,g,0,g,0,g,13,g
+391,hot dog on a stick,fish platter with tartar sauce,14,g,50,mg,930,g,27,g,20,g,3,g,0,g,0,g,1,g
+392,hot dog on a stick,french fries,29,g,0,mg,690,g,57,g,5,g,5,g,0,g,5,g,0,g
+393,hot dog on a stick,american cheese on a stick,16,g,40,mg,600,g,20,g,9,g,7,g,0,g,0,g,6,g
+394,hot dog on a stick,barqs root beer 12 oz,0,g,0,mg,35,g,29,g,0,g,0,g,0,g,0,g,29,g
+395,hot dog on a stick,barqs root beer 16 oz,0,g,0,mg,45,g,39,g,0,g,0,g,0,g,0,g,39,g
+396,hot dog on a stick,barqs root beer 32 oz,0,g,0,mg,95,g,78,g,0,g,0,g,0,g,0,g,78,g
+397,hot dog on a stick,barqs root beer 44 oz,0,g,0,mg,130,g,107,g,0,g,0,g,0,g,0,g,107,g
+398,hot dog on a stick,beef hot dog on a stick,21,g,40,mg,520,g,25,g,9,g,8,g,0,g,1,g,6,g
+399,hot dog on a stick,blue raspberry syrup,0,g,0,mg,5,g,22,g,0,g,0,g,0,g,0,g,22,g
+400,hot dog on a stick,cherry frozen lemonade 16 oz,0,g,0,mg,20,g,67,g,0,g,0,g,0,g,0,g,59,g
+401,hot dog on a stick,cherry frozen lemonade 32 oz,0,g,0,mg,35,g,134,g,0,g,0,g,0,g,0,g,118,g
+402,hot dog on a stick,cherry frozen lemonade 44 oz,0,g,0,mg,50,g,184,g,0,g,0,g,0,g,0,g,162,g
+403,hot dog on a stick,cherry lemonade 16 oz,0,g,0,mg,20,g,52,g,0,g,0,g,0,g,0,g,49,g
+404,hot dog on a stick,cherry lemonade 32 oz,0,g,0,mg,40,g,103,g,0,g,0,g,0,g,0,g,97,g
+405,hot dog on a stick,cherry lemonade 44 oz,0,g,0,mg,55,g,142,g,0,g,0,g,0,g,0,g,133,g
+406,hot dog on a stick,cherry syrup,0,g,0,mg,10,g,24,g,0,g,0,g,0,g,0,g,24,g
+407,hot dog on a stick,chocolate sauce,1,g,0,mg,40,g,22,g,1,g,0,g,0,g,0,g,20,g
+408,hot dog on a stick,coca cola 12 oz,0,g,0,mg,35,g,29,g,0,g,0,g,0,g,0,g,29,g
+409,hot dog on a stick,coca cola 16 oz,0,g,0,mg,45,g,39,g,0,g,0,g,0,g,0,g,39,g
+410,hot dog on a stick,coca cola 32 oz,0,g,0,mg,95,g,78,g,0,g,0,g,0,g,0,g,78,g
+411,hot dog on a stick,coca cola 44 oz,0,g,0,mg,130,g,107,g,0,g,0,g,0,g,0,g,107,g
+412,hot dog on a stick,coke zero 12 oz,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+413,hot dog on a stick,coke zero 16 oz,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+414,hot dog on a stick,coke zero 32 oz,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+415,hot dog on a stick,coke zero 44 oz,0,g,0,mg,100,g,0,g,0,g,0,g,0,g,0,g,0,g
+416,hot dog on a stick,diet coke 12 oz,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+417,hot dog on a stick,diet coke 16 oz,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+418,hot dog on a stick,diet coke 32 oz,0,g,0,mg,90,g,1,g,0,g,0,g,0,g,0,g,0,g
+419,hot dog on a stick,diet coke 44 oz,0,g,0,mg,120,g,1,g,0,g,0,g,0,g,0,g,0,g
+420,hot dog on a stick,extra fine granulated sugar,0,g,0,mg,0,g,100,g,0,g,0,g,0,g,0,g,100,g
+421,hot dog on a stick,fish and zucchini platter hawaii only,15,g,50,mg,980,g,53,g,24,g,3,g,0,g,1,g,3,g
+422,hot dog on a stick,fish platter with tartar sauce hawaii only,14,g,50,mg,930,g,27,g,20,g,3,g,0,g,0,g,1,g
+423,hot dog on a stick,french fries regular,59,g,0,mg,1380,g,113,g,9,g,9,g,0,g,9,g,0,g
+424,hot dog on a stick,french fries small,29,g,0,mg,690,g,57,g,5,g,5,g,0,g,5,g,0,g
+425,hot dog on a stick,funnel cake sticks chocolate sauce regular,12,g,40,mg,420,g,96,g,6,g,8,g,0,g,0,g,58,g
+426,hot dog on a stick,funnel cake sticks chocolate sauce small,6,g,20,mg,210,g,48,g,3,g,4,g,0,g,0,g,29,g
+427,hot dog on a stick,funnel cake sticks powder sugar regular,10,g,40,mg,340,g,51,g,4,g,7,g,0,g,0,g,19,g
+428,hot dog on a stick,funnel cake sticks powder sugar small,5,g,20,mg,170,g,26,g,2,g,4,g,0,g,0,g,9,g
+429,hot dog on a stick,funnel cake sticks raspberry sauce regular,10,g,40,mg,380,g,80,g,4,g,8,g,0,g,0,g,44,g
+430,hot dog on a stick,funnel cake sticks raspberry sauce small,5,g,20,mg,190,g,40,g,2,g,4,g,0,g,0,g,22,g
+431,hot dog on a stick,iced tea sweet 12 oz,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,25,g
+432,hot dog on a stick,iced tea sweet 16 oz,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,33,g
+433,hot dog on a stick,iced tea sweet 32 oz,0,g,0,mg,85,g,0,g,0,g,0,g,0,g,0,g,66,g
+434,hot dog on a stick,iced tea sweet 44 oz,0,g,0,mg,120,g,0,g,0,g,0,g,0,g,0,g,91,g
+435,hot dog on a stick,iced tea unsweet 12 oz,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+436,hot dog on a stick,iced tea unsweet 16 oz,0,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+437,hot dog on a stick,iced tea unsweet 32 oz,0,g,0,mg,90,g,0,g,0,g,0,g,0,g,0,g,0,g
+438,hot dog on a stick,iced tea unsweet 44 oz,0,g,0,mg,120,g,0,g,0,g,0,g,0,g,0,g,0,g
+439,hot dog on a stick,ketchup,0,g,0,mg,160,g,5,g,0,g,0,g,0,g,0,g,4,g
+440,hot dog on a stick,ketchup packet,0,g,0,mg,85,g,3,g,0,g,0,g,0,g,0,g,2,g
+441,hot dog on a stick,lime frozen lemonade 16 oz,0,g,0,mg,20,g,72,g,0,g,0,g,0,g,0,g,65,g
+442,hot dog on a stick,lime frozen lemonade 32 oz,0,g,0,mg,40,g,145,g,0,g,0,g,0,g,0,g,129,g
+443,hot dog on a stick,lime frozen lemonade 44 oz,0,g,0,mg,55,g,199,g,0,g,0,g,0,g,0,g,177,g
+444,hot dog on a stick,lime lemonade 16 oz,0,g,0,mg,20,g,57,g,0,g,0,g,0,g,0,g,54,g
+445,hot dog on a stick,lime lemonade 32 oz,0,g,0,mg,40,g,114,g,0,g,0,g,0,g,0,g,108,g
+446,hot dog on a stick,lime lemonade 44 oz,0,g,0,mg,55,g,157,g,0,g,0,g,0,g,0,g,149,g
+447,hot dog on a stick,lime syrup,0,g,0,mg,5,g,22,g,0,g,0,g,0,g,0,g,22,g
+448,hot dog on a stick,lite lemonade 16 oz,0,g,0,mg,15,g,8,g,0,g,0,g,0,g,0,g,3,g
+449,hot dog on a stick,lite lemonade 32 oz,0,g,0,mg,30,g,15,g,0,g,0,g,0,g,0,g,7,g
+450,hot dog on a stick,lite lemonade 44 oz,0,g,0,mg,45,g,21,g,0,g,0,g,0,g,0,g,10,g
+451,hot dog on a stick,mango syrup,0,g,0,mg,5,g,22,g,0,g,0,g,0,g,0,g,22,g
+452,hot dog on a stick,mayonnaise,9,g,5,mg,70,g,0,g,0,g,2,g,0,g,0,g,0,g
+453,hot dog on a stick,orange syrup,0,g,0,mg,5,g,22,g,0,g,0,g,0,g,0,g,22,g
+454,hot dog on a stick,original frozen lemonade 16 oz,0,g,0,mg,15,g,52,g,0,g,0,g,0,g,0,g,45,g
+455,hot dog on a stick,original frozen lemonade 32 oz,0,g,0,mg,25,g,106,g,0,g,0,g,0,g,0,g,90,g
+456,hot dog on a stick,original frozen lemonade 44 oz,0,g,0,mg,40,g,146,g,0,g,0,g,0,g,0,g,124,g
+457,hot dog on a stick,original lemonade 16 oz,0,g,0,mg,15,g,38,g,0,g,0,g,0,g,0,g,35,g
+458,hot dog on a stick,original lemonade 32 oz,0,g,0,mg,30,g,76,g,0,g,0,g,0,g,0,g,69,g
+459,hot dog on a stick,original lemonade 44 oz,0,g,0,mg,40,g,105,g,0,g,0,g,0,g,0,g,95,g
+460,hot dog on a stick,pepperjack cheese on a stick,15,g,40,mg,510,g,22,g,8,g,7,g,0,g,1,g,6,g
+461,hot dog on a stick,raspberry sauce,0,g,0,mg,20,g,14,g,1,g,0,g,0,g,0,g,13,g
+462,hot dog on a stick,raspberry syrup,0,g,0,mg,30,g,19,g,0,g,0,g,0,g,0,g,18,g
+463,hot dog on a stick,sprite 12 oz,0,g,0,mg,45,g,26,g,0,g,0,g,0,g,0,g,26,g
+464,hot dog on a stick,sprite 16 oz,0,g,0,mg,60,g,34,g,0,g,0,g,0,g,0,g,34,g
+465,hot dog on a stick,sprite 32 oz,0,g,0,mg,120,g,69,g,0,g,0,g,0,g,0,g,68,g
+466,hot dog on a stick,sprite 44 oz,0,g,0,mg,170,g,95,g,0,g,0,g,0,g,0,g,94,g
+467,hot dog on a stick,strawberry syrup,0,g,0,mg,5,g,22,g,0,g,0,g,0,g,0,g,22,g
+468,hot dog on a stick,sugar free lemonade 16 oz,0,g,0,mg,20,g,3,g,0,g,0,g,0,g,0,g,0,g
+469,hot dog on a stick,sugar free lemonade 32 oz,0,g,0,mg,40,g,6,g,0,g,0,g,0,g,0,g,0,g
+470,hot dog on a stick,sugar free lemonade 44 oz,0,g,0,mg,55,g,8,g,0,g,0,g,0,g,0,g,0,g
+471,hot dog on a stick,sweet relish,0,g,0,mg,50,g,3,g,0,g,0,g,0,g,0,g,3,g
+472,hot dog on a stick,turkey hot dog on a stick,5,g,40,mg,400,g,27,g,7,g,1,g,0,g,1,g,6,g
+473,hot dog on a stick,veggie dog on a stick,6,g,10,mg,380,g,26,g,12,g,1,g,0,g,1,g,6,g
+474,hot dog on a stick,watermelon syrup,0,g,0,mg,10,g,22,g,0,g,0,g,0,g,0,g,22,g
+475,hot dog on a stick,yellow mustard,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+476,hot dog on a stick,zucchini platter with ranch sauce hawaii only,23,g,15,mg,900,g,45,g,5,g,4,g,0,g,2,g,5,g
+477,hungry howies pizza,medium 12 veggie pizza,6,g,15,mg,270,g,28,g,10,g,3,g,0,g,2,g,4,g
+478,hungry howies pizza,three cheeser bread,5,g,15,mg,190,g,15,g,6,g,2.5,g,0,g,1,g,0.5,g
+479,hungry howies pizza,howie bread,1.5,g,5,mg,95,g,12,g,2,g,0,g,0,g,0.5,g,0.5,g
+480,hungry howies pizza,cinnamon bread,1,g,0,mg,45,g,13,g,2,g,0,g,0,g,0.5,g,2,g
+481,hungry howies pizza,cajun bread,1,g,0,mg,75,g,11,g,2,g,0,g,0,g,0.5,g,0.5,g
+482,hungry howies pizza,howie bread for pasta dishes,2.5,g,5,mg,140,g,16,g,3,g,0.5,g,0,g,1,g,1,g
+483,hungry howies pizza,deep dish 3 cheeser bread,6,g,15,mg,220,g,17,g,6,g,2.5,g,0,g,0.5,g,1,g
+484,hungry howies pizza,cajun bread for wings,2,g,5,mg,115,g,16,g,3,g,0,g,0,g,1,g,0.5,g
+485,hungry howies pizza,unsweetened tea,0,g,0,mg,20,g,2,g,0,g,0,g,0,g,0,g,0,g
+486,hungry howies pizza,sweet tea,0,g,0,mg,20,g,37,g,0,g,0,g,0,g,0,g,35,g
+487,hungry howies pizza,origina boneless wings without sauce,2,g,15,mg,270,g,5,g,5,g,0,g,0,g,0,g,0.5,g
+488,hungry howies pizza,original howie wings without sauce,5,g,20,mg,290,g,0,g,5,g,1.5,g,0,g,0,g,0,g
+489,hungry howies pizza,spicy chicken tender,9,g,25,mg,490,g,11,g,11,g,1.5,g,0,g,0.5,g,0,g
+490,hungry howies pizza,icing dipping cup,1.5,g,0,mg,0,g,34,g,0,g,0,g,1,g,0,g,33,g
+491,hungry howies pizza,chicken parmesan regular,27,g,75,mg,1730,g,158,g,46,g,9,g,0,g,10,g,14,g
+492,hungry howies pizza,baked spaghetti large,24,g,60,mg,1160,g,267,g,54,g,10,g,0,g,16,g,20,g
+493,hungry howies pizza,baked spaghetti regular,14,g,40,mg,620,g,135,g,29,g,6,g,0,g,8,g,10,g
+494,hungry howies pizza,baked spaghetti meatballs large,60,g,140,mg,2520,g,275,g,90,g,22,g,0,g,22,g,20,g
+495,hungry howies pizza,baked spaghetti meatballs regular,38,g,90,mg,1530,g,139,g,53,g,14,g,0,g,12,g,10,g
+496,hungry howies pizza,baked spaghetti sausage large,46,g,100,mg,1660,g,271,g,60,g,18,g,0,g,16,g,20,g
+497,hungry howies pizza,baked spaghetti sausage regular,24,g,60,mg,870,g,137,g,32,g,10,g,0,g,8,g,10,g
+498,hungry howies pizza,baked spaghetti mushroom large,24,g,60,mg,1160,g,270,g,56,g,10,g,0,g,16,g,22,g
+499,hungry howies pizza,chicken parmesan large,42,g,110,mg,2380,g,292,g,78,g,14,g,0,g,18,g,24,g
+500,hungry howies pizza,cheese only thin crust pizza large,5.1,g,13,mg,314,g,10.6,g,11.8,g,2.7,g,0,g,0.6,g,0,g
+501,hungry howies pizza,cheese only pizza small,4.1,g,10,mg,255,g,23.2,g,9.7,g,2.2,g,0,g,1.2,g,0,g
+502,hungry howies pizza,small 10 gluten free how special pizza,6,g,20,mg,280,g,9,g,6,g,3,g,0,g,1,g,2,g
+503,hungry howies pizza,large 14 three cheeser pepperoni pleaser pizza,16,g,50,mg,750,g,36,g,18,g,8,g,0,g,3,g,3,g
+504,hungry howies pizza,junior 8 three cheeser pepperoni pleaser pizza,15,g,40,mg,950,g,23,g,12,g,7,g,0,g,1,g,1,g
+505,hungry howies pizza,cheese only deep dish pizza large,10.9,g,15,mg,502,g,31,g,12.5,g,4.1,g,0,g,1.2,g,0,g
+506,hungry howies pizza,medium 12 thin crust veggie pizza,8,g,15,mg,230,g,15,g,7,g,3.5,g,0,g,2,g,2,g
+507,hungry howies pizza,large 14 howie maui pizza,10,g,30,mg,490,g,35,g,15,g,5,g,0,g,2,g,4,g
+508,hungry howies pizza,medium 12 bbq chicken pizza,8,g,30,mg,430,g,29,g,12,g,4,g,0,g,1,g,6,g
+509,hungry howies pizza,large 14 meat eaters pizza,15,g,45,mg,760,g,34,g,17,g,7,g,0,g,2,g,3,g
+510,hungry howies pizza,small 10 chicken bacon ranch pizza,11,g,25,mg,360,g,20,g,10,g,3.5,g,0,g,0.5,g,1,g
+511,hungry howies pizza,cheese only thin crust pizza medium,5,g,11,mg,256,g,9.6,g,7,g,2.8,g,0,g,0.4,g,0,g
+512,hungry howies pizza,large 14 the works pizza,12,g,40,mg,420,g,34,g,16,g,7,g,0,g,2,g,3,g
+513,hungry howies pizza,medium 12 bacon cheddar cheeseburger pizza,13,g,35,mg,510,g,25,g,14,g,6,g,0,g,1,g,2,g
+514,hungry howies pizza,small 10 meat eaters pizza,9,g,25,mg,450,g,22,g,10,g,4,g,0,g,1,g,2,g
+515,hungry howies pizza,large 14 howie special pizza,9,g,30,mg,520,g,36,g,14,g,4.5,g,0,g,3,g,4,g
+516,hungry howies pizza,small 10 veggie pizza,5,g,15,mg,230,g,23,g,8,g,2.5,g,0,g,2,g,2,g
+517,hungry howies pizza,small 10 howie maui pizza,6,g,20,mg,300,g,22,g,9,g,3,g,0,g,1,g,2,g
+518,hungry howies pizza,cheese only pizza large,5.1,g,13,mg,314,g,25.3,g,11.8,g,2.7,g,0,g,1.4,g,0,g
+519,hungry howies pizza,medium 12 taco pizza,9,g,25,mg,350,g,26,g,12,g,4,g,0.5,g,2,g,2,g
+520,hungry howies pizza,large 14 spicy chicken bacon ranch pizza,19,g,35,mg,570,g,35,g,15,g,6,g,0,g,2,g,2,g
+521,hungry howies pizza,large 14 thin crust bbq chicken pizzaq,14,g,40,mg,760,g,17,g,12,g,5,g,0,g,1,g,0.5,g
+522,hungry howies pizza,junior 8 veggie pizza,5,g,15,mg,230,g,23,g,8,g,3,g,0,g,2,g,2,g
+523,hungry howies pizza,junior 8 buffalo chicken pizza,6,g,20,mg,430,g,21,g,9,g,2.5,g,0,g,0.5,g,0.5,g
+524,hungry howies pizza,large 14 thin crust asian chicken pizza,12,g,35,mg,590,g,25,g,13,g,4.5,g,0,g,2,g,7,g
+525,hungry howies pizza,large 14 taco pizza,11,g,35,mg,440,g,35,g,15,g,5,g,0.5,g,2,g,2,g
+526,hungry howies pizza,medium 12 meat eaters pizza,11,g,30,mg,560,g,25,g,12,g,5,g,0,g,1,g,2,g
+527,hungry howies pizza,small 10 gluten free veggie pizza,6,g,15,mg,200,g,9,g,5,g,2.5,g,0,g,1,g,2,g
+528,hungry howies pizza,large 14 thin crust howie special pizza,11,g,30,mg,450,g,20,g,11,g,5,g,0,g,2,g,3,g
+529,hungry howies pizza,large 14 thin crust meat eaters pizza,17,g,45,mg,680,g,19,g,13,g,7,g,0,g,2,g,2,g
+530,hungry howies pizza,junior 8 chicken bacon ranch pizza,10,g,25,mg,340,g,20,g,10,g,3.5,g,0,g,0.5,g,1,g
+531,hungry howies pizza,medium 12 howie maui pizza,8,g,25,mg,400,g,26,g,11,g,4,g,0,g,1,g,3,g
+532,hungry howies pizza,junior 8 howie maui pizza,6,g,20,mg,310,g,22,g,9,g,3,g,0,g,1,g,2,g
+533,hungry howies pizza,medium 12 three cheeser pepperoni pleaser pizza,10,g,30,mg,370,g,25,g,12,g,5,g,0,g,1,g,2,g
+534,hungry howies pizza,medium 12 chicken bacon ranch pizza,14,g,30,mg,440,g,24,g,12,g,4.5,g,0,g,1,g,1,g
+535,hungry howies pizza,large 14 bbq chicken pizza,9,g,40,mg,530,g,39,g,16,g,4.5,g,0,g,2,g,8,g
+536,hungry howies pizza,large 14 bacon cheddar cheeseburger pizza,15,g,45,mg,630,g,34,g,18,g,8,g,0,g,2,g,3,g
+537,hungry howies pizza,cheese only pizza medium,4.5,g,11,mg,279,g,24.4,g,10.5,g,0,g,0,g,1.3,g,0,g
+538,hungry howies pizza,small 10 gluten free buffalo chicken pizza,7,g,25,mg,420,g,7,g,6,g,3,g,0,g,0.5,g,1,g
+539,hungry howies pizza,junior 8 bbq chicken pizza,6,g,25,mg,340,g,24,g,10,g,3,g,0,g,0.5,g,4,g
+540,hungry howies pizza,small 10 howie special pizza,6,g,20,mg,320,g,23,g,9,g,3,g,0,g,2,g,2,g
+541,hungry howies pizza,large 14 chicken bacon ranch pizza,17,g,40,mg,540,g,32,g,16,g,6,g,0,g,1,g,2,g
+542,hungry howies pizza,large 14 thin crust taco pizza,14,g,35,mg,380,g,19,g,12,g,6,g,0,g,2,g,1,g
+543,hungry howies pizza,small 10 gluten free bbq chicken pizza,6,g,25,mg,290,g,10,g,7,g,3,g,0,g,0,g,4,g
+544,hungry howies pizza,small 10 buffalo chicken pizza,6,g,25,mg,450,g,21,g,10,g,3,g,0,g,0.5,g,1,g
+545,hungry howies pizza,small 10 gluten free the works pizza,8,g,25,mg,280,g,7,g,7,g,4.5,g,0,g,0.5,g,2,g
+546,hungry howies pizza,medium 12 thin crust chicken bacon ranch pizza,15,g,30,mg,390,g,12,g,10,g,5,g,0,g,0.5,g,0.5,g
+547,hungry howies pizza,medium 12 thin crust three cheeser pepperoni pleaser pizza,11,g,30,mg,320,g,13,g,9,g,6,g,0,g,1,g,1,g
+548,hungry howies pizza,junior 8 taco pizza,8,g,25,mg,290,g,22,g,10,g,4,g,0,g,1,g,1,g
+549,hungry howies pizza,small 10 bbq chicken pizza,6,g,25,mg,330,g,24,g,10,g,3,g,0,g,0.5,g,4,g
+550,hungry howies pizza,junior 8 the works pizza,9,g,25,mg,390,g,22,g,10,g,4,g,0,g,2,g,2,g
+551,hungry howies pizza,small 10 asian chicken pizza,5,g,25,mg,390,g,25,g,10,g,2.5,g,0,g,1,g,4,g
+552,hungry howies pizza,medium 12 buffalo chicken pizza,8,g,25,mg,580,g,24,g,11,g,3.5,g,0,g,1,g,1,g
+553,hungry howies pizza,medium 12 thin crust spicy buffalo chicken pizza,11,g,25,mg,550,g,14,g,8,g,4,g,0,g,0.5,g,0,g
+554,hungry howies pizza,medium 12 thin crust howie maui pizza,10,g,25,mg,350,g,14,g,9,g,4,g,0,g,1,g,2,g
+555,hungry howies pizza,junior 8 asian chicken pizza,6,g,25,mg,390,g,25,g,10,g,3,g,0,g,1,g,4,g
+556,hungry howies pizza,medium 12 thin crust bbq chicken pizza,10,g,30,mg,380,g,17,g,10,g,4,g,0,g,0.5,g,5,g
+557,hungry howies pizza,small 10 spicy chicken bacon ranch pizza,11,g,25,mg,360,g,20,g,10,g,3.5,g,0,g,0.5,g,1,g
+558,hungry howies pizza,large 14 thin crust buffalo chicken pizza,13,g,40,mg,740,g,18,g,12,g,6,g,0,g,1,g,0.5,g
+559,hungry howies pizza,medium 12 thin crust meat eaters pizza,13,g,30,mg,510,g,14,g,10,g,5,g,0,g,1,g,1,g
+560,hungry howies pizza,small 10 taco pizza,9,g,25,mg,340,g,22,g,11,g,4,g,0.5,g,1,g,1,g
+561,hungry howies pizza,small 10 gluten free bacon cheddar cheeseburger pizza,10,g,30,mg,350,g,8,g,8,g,5,g,0,g,0.5,g,2,g
+562,hungry howies pizza,small 10 spicy buffalo chicken pizza,8,g,20,mg,470,g,23,g,10,g,3,g,0,g,1,g,0.5,g
+563,hungry howies pizza,small 10 the works pizza,8,g,25,mg,320,g,21,g,10,g,4.5,g,0,g,1,g,2,g
+564,hungry howies pizza,small 10 gluten free chicken bacon ranch pizza,11,g,25,mg,320,g,6,g,7,g,4,g,0,g,0,g,1,g
+565,hungry howies pizza,large 14 spicy buffalo chicken pizza,13,g,35,mg,830,g,36,g,15,g,5,g,0,g,2,g,1,g
+566,hungry howies pizza,small 10 gluten free howie maui pizza,6,g,20,mg,260,g,8,g,5,g,3,g,0,g,0.5,g,2,g
+567,hungry howies pizza,junior 8 spicy asian chicken,7,g,20,mg,410,g,27,g,10,g,3,g,0,g,1,g,4,g
+568,hungry howies pizza,medium 12 thin crust bacon cheddar cheeseburger pizza,15,g,35,mg,460,g,13,g,12,g,7,g,0,g,1,g,1,g
+569,hungry howies pizza,large 14 thin crust spicy chicken bacon ranch pizza,21,g,35,mg,510,g,20,g,12,g,7,g,0,g,1,g,0.5,g
+570,hungry howies pizza,large 14 thin crust veggie pizza,11,g,25,mg,310,g,21,g,9,g,4.5,g,0,g,2,g,3,g
+571,hungry howies pizza,medium 12 thin crust spicy bbq chicken pizza,10,g,25,mg,360,g,19,g,9,g,4,g,0,g,0.5,g,5,g
+572,hungry howies pizza,small 10 gluten free three cheeser pepperoni pleaser,9,g,25,mg,360,g,8,g,7,g,4.5,g,0,g,1,g,2,g
+573,hungry howies pizza,medium 12 spicy asian chicken pizza,8,g,20,mg,500,g,32,g,11,g,3.5,g,0,g,2,g,6,g
+574,hungry howies pizza,small 10 three cheeser pepperoni pleaser pizza,9,g,25,mg,390,g,22,g,10,g,4.5,g,0,g,2,g,2,g
+575,hungry howies pizza,small 10 bacon cheddar cheeseburger pizza,10,g,30,mg,390,g,22,g,11,g,5,g,0,g,1,g,2,g
+576,hungry howies pizza,small 10 spicy bbq chicken pizza,7,g,20,mg,360,g,26,g,10,g,3,g,0,g,1,g,4,g
+577,hungry howies pizza,junior 8 howie special pizza,5,g,15,mg,290,g,22,g,8,g,2.5,g,0,g,2,g,2,g
+578,hungry howies pizza,junior 8 chicken bacon ranch pizza,11,g,25,mg,350,g,22,g,10,g,4,g,0,g,1,g,0.5,g
+579,hungry howies pizza,medium 12 the works pizza,11,g,30,mg,490,g,26,g,13,g,5,g,0,g,2,g,2,g
+580,hungry howies pizza,medium 12 thin crust howie special pizza,8,g,25,mg,340,g,15,g,8,g,4,g,0,g,2,g,2,g
+581,hungry howies pizza,large 14 thin crust three cheeser pepperoni pleaser pizza,19,g,50,mg,680,g,21,g,15,g,8,g,0,g,2,g,3,g
+582,hungry howies pizza,medium 12 thin crust buffalo chicken pizza,9,g,25,mg,530,g,13,g,8,g,4,g,0,g,0.5,g,0,g
+583,hungry howies pizza,cheese only pizza x large,6,g,15,mg,411,g,32.6,g,14.1,g,3.3,g,0,g,1.9,g,0,g
+584,hungry howies pizza,junior 8 meat eaters pizza,8,g,25,mg,410,g,21,g,9,g,3.5,g,0,g,1,g,2,g
+585,hungry howies pizza,large 14 thin crust the works pizza,14,g,40,mg,360,g,18,g,12,g,7,g,0,g,2,g,2,g
+586,hungry howies pizza,medium 12 spicy chicken bacon ranch pizza,14,g,25,mg,420,g,26,g,11,g,4.5,g,0,g,1,g,1,g
+587,hungry howies pizza,large 14 spicy asian chicken pizza,11,g,30,mg,690,g,44,g,16,g,4.5,g,0,g,2,g,8,g
+588,hungry howies pizza,large 14 thin crust spicy bbq chicken pizza,16,g,30,mg,790,g,20,g,12,g,6,g,0,g,1,g,0,g
+589,hungry howies pizza,junior 8 bacon cheddar cheeseburger,9,g,25,mg,380,g,21,g,11,g,4.5,g,0,g,1,g,2,g
+590,hungry howies pizza,medium 12 spicy buffalo chicken pizza,9,g,25,mg,600,g,26,g,11,g,3.5,g,0,g,1,g,1,g
+591,hungry howies pizza,junior 8 spicy buffalo chicken pizza,8,g,20,mg,470,g,23,g,10,g,3.5,g,0,g,1,g,0.5,g
+592,hungry howies pizza,junior 8 spicy bbq chicken pizza,7,g,20,mg,350,g,26,g,10,g,3.5,g,0,g,1,g,4,g
+593,hungry howies pizza,large 14 thin crust spicy asian chicken pizza,14,g,30,mg,630,g,28,g,12,g,5,g,0,g,2,g,7,g
+594,hungry howies pizza,medium 12 thin crust spicy asian chicken,10,g,20,mg,450,g,21,g,9,g,3.5,g,0,g,1,g,5,g
+595,hungry howies pizza,large 14 thin crust bacon cheddar cheeseburger pizza,18,g,45,mg,570,g,19,g,15,g,9,g,0,g,2,g,2,g
+596,hungry howies pizza,large 14 thin crust chicken bacon ranch pizza,19,g,40,mg,480,g,17,g,13,g,6,g,0,g,0.5,g,0.5,g
+597,hungry howies pizza,medium 12 thin crust asian chicken pizza,8,g,25,mg,430,g,19,g,9,g,3.5,g,0,g,1,g,5,g
+598,hungry howies pizza,large 14 thin crust howie maui pizza,12,g,30,mg,410,g,20,g,11,g,5,g,0,g,1,g,3,g
+599,hungry howies pizza,medium 12 spicy bbq chicken pizza,8,g,25,mg,410,g,31,g,11,g,3.5,g,0,g,1,g,6,g
+600,hungry howies pizza,greek salad dressing,11,g,0,mg,70,g,2,g,0,g,1.5,g,0,g,0,g,2,g
+601,hungry howies pizza,ranch dressing,14,g,5,mg,220,g,1,g,0,g,2,g,0,g,0,g,1,g
+602,hungry howies pizza,italian dressing,8,g,0,mg,580,g,2,g,0,g,1,g,0,g,0,g,2,g
+603,hungry howies pizza,caesar salad dressing,18,g,10,mg,410,g,2,g,0.5,g,3,g,0,g,0,g,0.5,g
+604,hungry howies pizza,creamy italian dressing,12,g,0,mg,210,g,2,g,0,g,2,g,0,g,0,g,2,g
+605,hungry howies pizza,fat free ranch dressing,1,g,5,mg,380,g,11,g,0,g,0,g,0,g,0,g,2,g
+606,hungry howies pizza,fat free italian dressing,0,g,0,mg,340,g,4,g,0,g,0,g,0,g,0,g,3,g
+607,hungry howies pizza,french dressing,0,g,0,mg,180,g,7,g,0,g,0,g,0,g,0,g,5,g
+608,hungry howies pizza,thousand island dressing,14,g,15,mg,210,g,4,g,0,g,2,g,0,g,0,g,4,g
+609,hungry howies pizza,blue cheese dressing,15,g,15,mg,290,g,1,g,1,g,3,g,0,g,0,g,1,g
+610,hungry howies pizza,honey mustard dressing,0,g,0,mg,230,g,15,g,0,g,0,g,0,g,0,g,15,g
+611,hungry howies pizza,chef salad without dressing large,19,g,80,mg,1380,g,23,g,28,g,8,g,0,g,9,g,11,g
+612,hungry howies pizza,antipasto salad without dressing large,53,g,190,mg,2790,g,27,g,53,g,25,g,0,g,11,g,11,g
+613,hungry howies pizza,greek salad without dressing regular,11,g,30,mg,960,g,18,g,15,g,6,g,0,g,5,g,8,g
+614,hungry howies pizza,chicken caesar salad without dressing regular,8,g,80,mg,830,g,15,g,25,g,3.5,g,0,g,3,g,4,g
+615,hungry howies pizza,spicy chicken salad without dressing small,17,g,50,mg,720,g,19,g,19,g,6,g,0,g,4,g,3,g
+616,hungry howies pizza,chicken asiago salad without dressing regular,9,g,80,mg,830,g,15,g,25,g,3.5,g,0,g,5,g,7,g
+617,hungry howies pizza,garden salad without dressing regular,2.5,g,0,mg,115,g,14,g,3,g,0,g,0,g,5,g,7,g
+618,hungry howies pizza,chef salad without dressing regular,13,g,55,mg,780,g,13,g,17,g,6,g,0,g,5,g,6,g
+619,hungry howies pizza,chef salad without dressing small,9,g,35,mg,450,g,8,g,11,g,4.5,g,0,g,3,g,3,g
+620,hungry howies pizza,antipasto salad without dressing regular,26,g,95,mg,1390,g,14,g,27,g,12,g,0,g,5,g,6,g
+621,hungry howies pizza,spicy chicken asiago salad without dressing large,28,g,65,mg,1420,g,47,g,32,g,7,g,0,g,10,g,11,g
+622,hungry howies pizza,chicken asiago salad without dressing small,5,g,50,mg,510,g,9,g,16,g,2,g,0,g,3,g,4,g
+623,hungry howies pizza,chicken caesar salad without dressing large,10,g,105,mg,1100,g,22,g,35,g,5,g,0,g,7,g,7,g
+624,hungry howies pizza,chicken asiago salad without dressing large,14,g,105,mg,1200,g,27,g,35,g,5,g,0,g,9,g,12,g
+625,hungry howies pizza,antipasto salad without dressing small,13,g,45,mg,670,g,8,g,13,g,6,g,0,g,3,g,3,g
+626,hungry howies pizza,spicy chicken asiago salad without dressing small,12,g,30,mg,620,g,19,g,14,g,3,g,0,g,4,g,3,g
+627,hungry howies pizza,spicy chicken salad without dressing large,43,g,120,mg,1730,g,48,g,46,g,16,g,0,g,12,g,11,g
+628,hungry howies pizza,greek salad without dressing large,21,g,60,mg,1910,g,34,g,30,g,12,g,0,g,9,g,16,g
+629,hungry howies pizza,spicy chicken caesar salad without dressing small,12,g,30,mg,670,g,21,g,15,g,3,g,0,g,3,g,2,g
+630,hungry howies pizza,grilled chicken salad without dressing regular,19,g,115,mg,1030,g,15,g,33,g,9,g,0,g,5,g,7,g
+631,hungry howies pizza,grilled chicken salad without dressing large,29,g,165,mg,1510,g,27,g,48,g,14,g,0,g,10,g,12,g
+632,hungry howies pizza,spicy chicken asiago salad without dressing regular,28,g,65,mg,1420,g,47,g,32,g,7,g,0,g,10,g,11,g
+633,hungry howies pizza,garden salad without dressing small,1,g,0,mg,65,g,10,g,2,g,0,g,0,g,4,g,4,g
+634,hungry howies pizza,greek salad without dressing small,5,g,15,mg,440,g,10,g,8,g,3,g,0,g,3,g,4,g
+635,hungry howies pizza,garden salad without dressing large,5,g,0,mg,240,g,31,g,8,g,0,g,0,g,12,g,15,g
+636,hungry howies pizza,grilled chicken salad without dressing small,10,g,70,mg,610,g,9,g,20,g,5,g,0,g,3,g,4,g
+637,hungry howies pizza,spicy chicken caesar salad without dressing regular,18,g,50,mg,990,g,30,g,23,g,5,g,0,g,4,g,3,g
+638,hungry howies pizza,spicy chicken caesar salad without dressing large,25,g,65,mg,1320,g,42,g,32,g,7,g,0,g,8,g,6,g
+639,hungry howies pizza,spicy chicken salad without dressing regular,29,g,85,mg,1190,g,31,g,31,g,11,g,0,g,6,g,6,g
+640,hungry howies pizza,italian sub large,27,g,75,mg,2040,g,62,g,31,g,10,g,0,g,2,g,5,g
+641,hungry howies pizza,chicken bacon ranch sub regular,18,g,65,mg,800,g,41,g,24,g,7,g,0,g,2,g,2,g
+642,hungry howies pizza,turkey club sub large,46,g,135,mg,1890,g,60,g,45,g,13,g,0,g,4,g,4,g
+643,hungry howies pizza,veggie sub large,24,g,40,mg,1190,g,69,g,22,g,8,g,0.5,g,5,g,8,g
+644,hungry howies pizza,steak and cheese sub large,29,g,85,mg,1080,g,62,g,35,g,12,g,0,g,3,g,5,g
+645,hungry howies pizza,ham and cheese sub large,23,g,75,mg,1860,g,62,g,32,g,9,g,0,g,3,g,5,g
+646,hungry howies pizza,meatball sub regular,15,g,40,mg,630,g,43,g,21,g,7,g,0,g,3,g,2,g
+647,hungry howies pizza,deluxe combo sub large,20,g,70,mg,1120,g,60,g,29,g,9,g,0,g,3,g,2,g
+648,hungry howies pizza,meatball sub large,27,g,70,mg,1080,g,66,g,35,g,12,g,0,g,6,g,4,g
+649,hungry howies pizza,taco sub large,35,g,75,mg,1370,g,74,g,36,g,11,g,0,g,3,g,2,g
+650,hungry howies pizza,veggie sub regular,15,g,25,mg,700,g,46,g,15,g,5,g,0,g,3,g,5,g
+651,hungry howies pizza,italian sub reguar,31,g,80,mg,2530,g,44,g,25,g,13,g,0,g,1,g,3,g
+652,hungry howies pizza,steak and cheese sub regular,14,g,40,mg,530,g,41,g,19,g,5,g,0,g,2,g,3,g
+653,hungry howies pizza,turkey club sub regular,24,g,80,mg,1210,g,40,g,29,g,7,g,0,g,2,g,2,g
+654,hungry howies pizza,ham and cheese sub regular,8,g,40,mg,780,g,39,g,19,g,4,g,0,g,2,g,2,g
+655,hungry howies pizza,spicy chicken bacon ranch sub large,22,g,75,mg,1050,g,67,g,31,g,12,g,1,g,5,g,7,g
+656,hungry howies pizza,pizza special sub large,14,g,45,mg,880,g,67,g,24,g,7,g,0.5,g,5,g,6,g
+657,hungry howies pizza,high pizza deluxe sub regular,18,g,45,mg,650,g,42,g,19,g,8,g,0,g,3,g,2,g
+658,hungry howies pizza,spicy chicken bacon ranch sub regular,24,g,50,mg,880,g,48,g,23,g,8,g,0,g,2,g,2,g
+659,hungry howies pizza,low pizza deluxe sub large,12,g,40,mg,520,g,66,g,22,g,7,g,0,g,5,g,5,g
+660,hungry howies pizza,low pizza deluxe sub regular,8,g,25,mg,350,g,43,g,14,g,4.5,g,0,g,3,g,4,g
+661,hungry howies pizza,chicken bacon ranch sub large,26,g,105,mg,1230,g,61,g,38,g,10,g,0,g,3,g,3,g
+662,hungry howies pizza,high pizza deluxe sub large,28,g,70,mg,1000,g,63,g,29,g,12,g,0,g,4,g,4,g
+663,hungry howies pizza,pizza sub special regular,7,g,20,mg,260,g,39,g,12,g,3.5,g,0,g,2,g,1,g
+664,hungry howies pizza,deluxe combo sub regular,12,g,40,mg,630,g,40,g,18,g,6,g,0,g,2,g,2,g
+665,hungry howies pizza,taco sub regular,16,g,45,mg,580,g,42,g,20,g,8,g,1,g,2,g,2,g
+666,hungry howies pizza,garlic dipping sauce,25,g,0,mg,380,g,0,g,0,g,4,g,0,g,0,g,0,g
+667,hungry howies pizza,dipping sauce,0.5,g,0,mg,170,g,9,g,1,g,0,g,0,g,2,g,0,g
+668,hungry howies pizza,sriracha sauce for 1 wing,0,g,0,mg,180,g,1,g,0,g,0,g,0,g,0,g,0.5,g
+669,hungry howies pizza,buffalo sauce for 1 wing,0.5,g,0,mg,125,g,0,g,0,g,0,g,0,g,0,g,0,g
+670,hungry howies pizza,blue cheese dipping sauce,21,g,25,mg,440,g,2,g,1,g,4,g,0,g,0,g,1,g
+671,hungry howies pizza,cheese dipping sauce,9,g,5,mg,890,g,12,g,1,g,5,g,0,g,0,g,5,g
+672,hungry howies pizza,bbq sauce for 1 wing,0,g,0,mg,35,g,2,g,0,g,0,g,0,g,0,g,2,g
+673,hungry howies pizza,ranch dipping sauce,22,g,10,mg,320,g,2,g,0,g,3.5,g,0,g,0,g,0.5,g
+674,hungry howies pizza,asian sauce for 1 wing,0,g,0,mg,85,g,2,g,0,g,0,g,0,g,0,g,2,g
+675,hungry howies pizza,buffalo dipping sauce,6,g,0,mg,1280,g,2,g,0,g,1,g,0,g,1,g,1,g
+676,hungry howies pizza,bbq dipping sauce,0,g,0,mg,340,g,20,g,0,g,0,g,0,g,0,g,19,g
+677,hungry howies pizza,pizza dipping sauce,0,g,0,mg,190,g,7,g,1,g,0,g,0,g,1,g,4,g
+678,hungry howies pizza,3 cheeser howie bread,3,g,5,mg,130,g,12,g,3,g,1,g,0,g,1,g,1,g
+679,hungry howies pizza,3 cheeser howie bread florida only,5,g,15,mg,190,g,15,g,6,g,2.5,g,0,g,1,g,1,g
+680,hungry howies pizza,4 oz marinara sauce for howie bread,0,g,0,mg,490,g,735,g,2,g,0,g,0,g,2,g,5,g
+681,hungry howies pizza,asiago howie bread,2,g,5,mg,75,g,12,g,3,g,1,g,0,g,1,g,1,g
+682,hungry howies pizza,asiago howie bread florida only,2.5,g,5,mg,90,g,15,g,4,g,1,g,0,g,1,g,1,g
+683,hungry howies pizza,boneless howie wings asian,0,g,0,mg,85,g,2,g,0,g,0,g,0,g,0,g,2,g
+684,hungry howies pizza,boneless howie wings bbq,0,g,0,mg,35,g,2,g,0,g,0,g,0,g,0,g,2,g
+685,hungry howies pizza,boneless howie wings buffalo,0.5,g,0,mg,125,g,0,g,0,g,0,g,0,g,0,g,0,g
+686,hungry howies pizza,boneless howie wings sriracha,0,g,0,mg,180,g,1,g,0,g,0,g,0,g,0,g,1,g
+687,hungry howies pizza,build your own pizza anchovies catering deep dish,0,g,0,mg,230,g,0,g,1,g,0,g,0,g,0,g,0,g
+688,hungry howies pizza,build your own pizza anchovies deep dish,0,g,0,mg,290,g,0,g,1,g,0,g,0,g,0,g,0,g
+689,hungry howies pizza,build your own pizza anchovies junior,0,g,0,mg,230,g,0,g,1,g,0,g,0,g,0,g,0,g
+690,hungry howies pizza,build your own pizza anchovies large,0,g,0,mg,290,g,0,g,1,g,0,g,0,g,0,g,0,g
+691,hungry howies pizza,build your own pizza anchovies medium,0,g,0,mg,230,g,0,g,1,g,0,g,0,g,0,g,0,g
+692,hungry howies pizza,build your own pizza anchovies sheet,0,g,0,mg,230,g,0,g,1,g,0,g,0,g,0,g,0,g
+693,hungry howies pizza,build your own pizza anchovies small,0,g,0,mg,230,g,0,g,1,g,0,g,0,g,0,g,0,g
+694,hungry howies pizza,build your own pizza anchovies xl,0.5,g,0,mg,350,g,0,g,1,g,0,g,0,g,0,g,0,g
+695,hungry howies pizza,build your own pizza bacon catering deep dish,3.5,g,5,mg,125,g,0,g,2,g,1,g,0,g,0,g,0,g
+696,hungry howies pizza,build your own pizza bacon deep dish,2,g,5,mg,65,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+697,hungry howies pizza,build your own pizza bacon junior,1,g,0,mg,30,g,0,g,1,g,0,g,0,g,0,g,0,g
+698,hungry howies pizza,build your own pizza bacon large,2,g,5,mg,65,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+699,hungry howies pizza,build your own pizza bacon medium,2.5,g,5,mg,85,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+700,hungry howies pizza,build your own pizza bacon sheet,2,g,5,mg,80,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+701,hungry howies pizza,build your own pizza bacon small,2.5,g,5,mg,85,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+702,hungry howies pizza,build your own pizza bacon xl,2,g,5,mg,80,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+703,hungry howies pizza,build your own pizza black olive catering deep dish,1,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+704,hungry howies pizza,build your own pizza black olive deep dish,1,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+705,hungry howies pizza,build your own pizza black olive junior,0.5,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+706,hungry howies pizza,build your own pizza black olive large,1,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+707,hungry howies pizza,build your own pizza black olive medium,0.5,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+708,hungry howies pizza,build your own pizza black olive sheet,0.5,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+709,hungry howies pizza,build your own pizza black olive small,0.5,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+710,hungry howies pizza,build your own pizza black olive xl,1.5,g,0,mg,60,g,1,g,0,g,0,g,0,g,0,g,0,g
+711,hungry howies pizza,build your own pizza cheddar catering deep dish,5,g,15,mg,105,g,0,g,4,g,3,g,0,g,0,g,0,g
+712,hungry howies pizza,build your own pizza cheddar deep dish,5,g,15,mg,105,g,0,g,4,g,3,g,0,g,0,g,0,g
+713,hungry howies pizza,build your own pizza cheddar junior,2.5,g,5,mg,45,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+714,hungry howies pizza,build your own pizza cheddar large,4.5,g,15,mg,90,g,0,g,4,g,2.5,g,0,g,0,g,0,g
+715,hungry howies pizza,build your own pizza cheddar medium,3.5,g,10,mg,70,g,0,g,3,g,2,g,0,g,0,g,0,g
+716,hungry howies pizza,build your own pizza cheddar sheet,3,g,10,mg,65,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+717,hungry howies pizza,build your own pizza cheddar small,3,g,10,mg,60,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+718,hungry howies pizza,build your own pizza cheddar xl,6,g,20,mg,125,g,0,g,5,g,3.5,g,0,g,0,g,0,g
+719,hungry howies pizza,build your own pizza cheese only catering deep dish,16,g,30,mg,370,g,36,g,13,g,6,g,0,g,1,g,2,g
+720,hungry howies pizza,build your own pizza cheese only deep dish,16,g,30,mg,370,g,36,g,13,g,6,g,0,g,1,g,2,g
+721,hungry howies pizza,build your own pizza cheese only junior,5,g,15,mg,200,g,21,g,8,g,3,g,0,g,1,g,1,g
+722,hungry howies pizza,build your own pizza cheese only large,7,g,25,mg,320,g,34,g,12,g,4,g,0,g,2,g,2,g
+723,hungry howies pizza,build your own pizza cheese only medium,5,g,15,mg,230,g,25,g,9,g,3,g,0,g,1,g,2,g
+724,hungry howies pizza,build your own pizza cheese only sheet,5,g,15,mg,240,g,25,g,9,g,3,g,0,g,1,g,2,g
+725,hungry howies pizza,build your own pizza cheese only small,4.5,g,15,mg,200,g,21,g,7,g,2.5,g,0,g,1,g,1,g
+726,hungry howies pizza,build your own pizza cheese only xl,10,g,35,mg,450,g,48,g,17,g,6,g,0,g,3,g,3,g
+727,hungry howies pizza,build your own pizza chicken catering deep dish,0,g,10,mg,85,g,0,g,3,g,0,g,0,g,0,g,0,g
+728,hungry howies pizza,build your own pizza chicken deep dish,0,g,10,mg,85,g,0,g,3,g,0,g,0,g,0,g,0,g
+729,hungry howies pizza,build your own pizza chicken junior,0,g,5,mg,50,g,0,g,2,g,0,g,0,g,0,g,0,g
+730,hungry howies pizza,build your own pizza chicken large,0,g,10,mg,85,g,0,g,3,g,0,g,0,g,0,g,0,g
+731,hungry howies pizza,build your own pizza chicken medium,0,g,5,mg,50,g,0,g,2,g,0,g,0,g,0,g,0,g
+732,hungry howies pizza,build your own pizza chicken sheet,0,g,10,mg,65,g,0,g,2,g,0,g,0,g,0,g,0,g
+733,hungry howies pizza,build your own pizza chicken small,0,g,5,mg,50,g,0,g,2,g,0,g,0,g,0,g,0,g
+734,hungry howies pizza,build your own pizza chicken xl,0,g,10,mg,110,g,0,g,3,g,0,g,0,g,0,g,0,g
+735,hungry howies pizza,build your own pizza feta catering deep dish,2,g,10,mg,170,g,1,g,3,g,1.5,g,0,g,0,g,1,g
+736,hungry howies pizza,build your own pizza feta deep dish,2,g,10,mg,170,g,1,g,3,g,1.5,g,0,g,0,g,1,g
+737,hungry howies pizza,build your own pizza feta junior,1,g,5,mg,85,g,1,g,2,g,1,g,0,g,0,g,0,g
+738,hungry howies pizza,build your own pizza feta large,2,g,10,mg,170,g,1,g,3,g,1.5,g,0,g,0,g,1,g
+739,hungry howies pizza,build your own pizza feta medium,1.5,g,5,mg,115,g,1,g,2,g,1,g,0,g,0,g,0,g
+740,hungry howies pizza,build your own pizza feta sheet,2,g,10,mg,170,g,1,g,3,g,1.5,g,0,g,0,g,1,g
+741,hungry howies pizza,build your own pizza feta small,1.5,g,5,mg,115,g,1,g,2,g,1,g,0,g,0,g,0,g
+742,hungry howies pizza,build your own pizza feta xl,2.5,g,10,mg,220,g,1,g,4,g,2,g,0,g,0,g,1,g
+743,hungry howies pizza,build your own pizza gluten free cheese only small,5,g,15,mg,160,g,7,g,4,g,2.5,g,0,g,1,g,2,g
+744,hungry howies pizza,build your own pizza green pepper xl,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,1,g
+745,hungry howies pizza,build your own pizza ground beef catering deep dish,2,g,5,mg,160,g,0,g,2,g,1,g,0,g,0,g,0,g
+746,hungry howies pizza,build your own pizza ground beef deep dish,2,g,5,mg,160,g,0,g,2,g,1,g,0,g,0,g,0,g
+747,hungry howies pizza,build your own pizza ground beef junior,1.5,g,5,mg,90,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+748,hungry howies pizza,build your own pizza ground beef large,2,g,5,mg,160,g,0,g,2,g,1,g,0,g,0,g,0,g
+749,hungry howies pizza,build your own pizza ground beef medium,1.5,g,5,mg,90,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+750,hungry howies pizza,build your own pizza ground beef sheet,1.5,g,5,mg,105,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+751,hungry howies pizza,build your own pizza ground beef small,1.5,g,5,mg,90,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+752,hungry howies pizza,build your own pizza ground beef xl,3,g,5,mg,200,g,1,g,2,g,1,g,0,g,0,g,0,g
+753,hungry howies pizza,build your own pizza ham catering deep dish,0.5,g,5,mg,130,g,0,g,2,g,0,g,0,g,0,g,0,g
+754,hungry howies pizza,build your own pizza ham deep dish,0.5,g,5,mg,130,g,0,g,2,g,0,g,0,g,0,g,0,g
+755,hungry howies pizza,build your own pizza ham junior,0,g,5,mg,75,g,0,g,1,g,0,g,0,g,0,g,0,g
+756,hungry howies pizza,build your own pizza ham large,0.5,g,5,mg,130,g,0,g,2,g,0,g,0,g,0,g,0,g
+757,hungry howies pizza,build your own pizza ham medium,0,g,5,mg,75,g,0,g,1,g,0,g,0,g,0,g,0,g
+758,hungry howies pizza,build your own pizza ham sheet,0,g,5,mg,85,g,0,g,1,g,0,g,0,g,0,g,0,g
+759,hungry howies pizza,build your own pizza ham small,0,g,5,mg,75,g,0,g,1,g,0,g,0,g,0,g,0,g
+760,hungry howies pizza,build your own pizza ham xl,0.5,g,10,mg,170,g,0,g,2,g,0,g,0,g,0,g,0,g
+761,hungry howies pizza,build your own pizza meatball catering deep dish,3,g,5,mg,115,g,1,g,3,g,1,g,0,g,1,g,0,g
+762,hungry howies pizza,build your own pizza meatball deep dish,4.5,g,10,mg,170,g,1,g,5,g,1.5,g,0,g,1,g,0,g
+763,hungry howies pizza,build your own pizza meatball junior,1.5,g,5,mg,55,g,0,g,2,g,0.5,g,0,g,0,g,0,g
+764,hungry howies pizza,build your own pizza meatball large,4.5,g,10,mg,170,g,1,g,5,g,1.5,g,0,g,1,g,0,g
+765,hungry howies pizza,build your own pizza meatball medium,3,g,5,mg,115,g,1,g,3,g,1,g,0,g,1,g,0,g
+766,hungry howies pizza,build your own pizza meatball sheet,2,g,5,mg,80,g,1,g,2,g,0.5,g,0,g,0,g,0,g
+767,hungry howies pizza,build your own pizza meatball xl,6,g,15,mg,230,g,2,g,6,g,2,g,0,g,1,g,0,g
+768,hungry howies pizza,build your own pizza mild pepper rings catering deep dish,0,g,0,mg,160,g,0,g,0,g,0,g,0,g,0,g,0,g
+769,hungry howies pizza,build your own pizza mild pepper rings deep dish,0,g,0,mg,160,g,0,g,0,g,0,g,0,g,0,g,0,g
+770,hungry howies pizza,build your own pizza mild pepper rings large,0,g,0,mg,160,g,0,g,0,g,0,g,0,g,0,g,0,g
+771,hungry howies pizza,build your own pizza mild pepper rings medium,0,g,0,mg,105,g,0,g,0,g,0,g,0,g,0,g,0,g
+772,hungry howies pizza,build your own pizza mild pepper rings sheet,0,g,0,mg,100,g,0,g,0,g,0,g,0,g,0,g,0,g
+773,hungry howies pizza,build your own pizza mild pepper rings small,0,g,0,mg,105,g,0,g,0,g,0,g,0,g,0,g,0,g
+774,hungry howies pizza,build your own pizza mild pepper rings xl,0,g,0,mg,210,g,1,g,0,g,0,g,0,g,0,g,0,g
+775,hungry howies pizza,build your own pizza pepperoni catering deep dish,1,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+776,hungry howies pizza,build your own pizza pepperoni deep dish,1,g,5,mg,85,g,0,g,0,g,0,g,0,g,0,g,0,g
+777,hungry howies pizza,build your own pizza pepperoni junior,0.5,g,0,mg,45,g,0,g,0,g,0,g,0,g,0,g,0,g
+778,hungry howies pizza,build your own pizza pepperoni large,1,g,5,mg,85,g,0,g,0,g,0,g,0,g,0,g,0,g
+779,hungry howies pizza,build your own pizza pepperoni medium,0.5,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+780,hungry howies pizza,build your own pizza pepperoni sheet,0.5,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+781,hungry howies pizza,build your own pizza pepperoni small,0.5,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+782,hungry howies pizza,build your own pizza pepperoni xl,1.5,g,5,mg,105,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+783,hungry howies pizza,build your own pizza pineapple catering deep dish,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+784,hungry howies pizza,build your own pizza pineapple deep dish,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+785,hungry howies pizza,build your own pizza pineapple large,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+786,hungry howies pizza,build your own pizza pineapple xl,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+787,hungry howies pizza,build your own pizza sausage catering deep dish,4.5,g,10,mg,110,g,0,g,1,g,1.5,g,0,g,0,g,0,g
+788,hungry howies pizza,build your own pizza sausage deep dish,3.5,g,5,mg,90,g,0,g,1,g,1,g,0,g,0,g,0,g
+789,hungry howies pizza,build your own pizza sausage junior,2.5,g,5,mg,65,g,0,g,1,g,1,g,0,g,0,g,0,g
+790,hungry howies pizza,build your own pizza sausage large,3.5,g,5,mg,90,g,0,g,1,g,1,g,0,g,0,g,0,g
+791,hungry howies pizza,build your own pizza sausage medium,2.5,g,5,mg,65,g,0,g,1,g,1,g,0,g,0,g,0,g
+792,hungry howies pizza,build your own pizza sausage sheet,3,g,5,mg,75,g,0,g,1,g,1,g,0,g,0,g,0,g
+793,hungry howies pizza,build your own pizza sausage small,2.5,g,5,mg,65,g,0,g,1,g,1,g,0,g,0,g,0,g
+794,hungry howies pizza,build your own pizza sausage xl,6,g,10,mg,140,g,0,g,2,g,2,g,0,g,0,g,0,g
+795,hungry howies pizza,build your own pizza steak catering deep dish,1.5,g,10,mg,5,g,0,g,3,g,0.5,g,0,g,0,g,0,g
+796,hungry howies pizza,build your own pizza steak deep dish,1.5,g,10,mg,5,g,0,g,3,g,0.5,g,0,g,0,g,0,g
+797,hungry howies pizza,build your own pizza steak junior,1,g,5,mg,0,g,0,g,1,g,0,g,0,g,0,g,0,g
+798,hungry howies pizza,build your own pizza steak large,1.5,g,10,mg,5,g,0,g,3,g,0.5,g,0,g,0,g,0,g
+799,hungry howies pizza,build your own pizza steak medium,1,g,5,mg,0,g,0,g,1,g,0,g,0,g,0,g,0,g
+800,hungry howies pizza,build your own pizza steak sheet,1,g,5,mg,0,g,0,g,2,g,0,g,0,g,0,g,0,g
+801,hungry howies pizza,build your own pizza steak small,1,g,5,mg,0,g,0,g,1,g,0,g,0,g,0,g,0,g
+802,hungry howies pizza,build your own pizza steak xl,2,g,10,mg,10,g,0,g,3,g,1,g,0,g,0,g,0,g
+803,hungry howies pizza,build your own pizza stuffed crust cheese only large,12,g,40,mg,500,g,35,g,15,g,7,g,0,g,2,g,3,g
+804,hungry howies pizza,build your own pizza thin crust cheese only large,10,g,25,mg,260,g,18,g,9,g,4.5,g,0,g,1,g,2,g
+805,hungry howies pizza,build your own pizza thin crust cheese only medium,7,g,15,mg,180,g,13,g,6,g,3.5,g,0,g,1,g,1,g
+806,hungry howies pizza,build your own pizza tomato catering deep dish,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,1,g,2,g
+807,hungry howies pizza,build your own pizza tomato deep dish,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,1,g,2,g
+808,hungry howies pizza,build your own pizza tomato junior,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+809,hungry howies pizza,build your own pizza tomato large,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,1,g,2,g
+810,hungry howies pizza,build your own pizza tomato medium,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+811,hungry howies pizza,build your own pizza tomato sheet,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+812,hungry howies pizza,build your own pizza tomato xl,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,1,g,2,g
+813,hungry howies pizza,cajun howie bread,1,g,0,mg,75,g,11,g,2,g,0,g,0,g,1,g,1,g
+814,hungry howies pizza,cajun howie bread florida only,1.5,g,0,mg,90,g,15,g,3,g,0,g,0,g,1,g,1,g
+815,hungry howies pizza,cajun howie bread side for wings,1.5,g,0,mg,110,g,20,g,4,g,0,g,0,g,1,g,1,g
+816,hungry howies pizza,cinnamon howie bread,1,g,0,mg,45,g,13,g,2,g,0,g,0,g,1,g,2,g
+817,hungry howies pizza,cinnamon howie bread florida only,1,g,0,mg,55,g,16,g,3,g,0,g,0,g,1,g,2,g
+818,hungry howies pizza,diet pepsi 22 oz,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+819,hungry howies pizza,diet pepsi 32 oz,0,g,0,mg,95,g,0,g,0,g,0,g,0,g,0,g,0,g
+820,hungry howies pizza,dipping sauce bbq,0,g,0,mg,340,g,20,g,0,g,0,g,0,g,0,g,19,g
+821,hungry howies pizza,dipping sauce blue cheese,21,g,25,mg,440,g,2,g,1,g,4,g,0,g,0,g,1,g
+822,hungry howies pizza,dipping sauce buffalo sauce,6,g,0,mg,1280,g,2,g,0,g,1,g,0,g,1,g,1,g
+823,hungry howies pizza,dipping sauce cheese sauce,9,g,5,mg,890,g,12,g,1,g,5,g,0,g,0,g,5,g
+824,hungry howies pizza,dipping sauce garlic sauce,25,g,0,mg,380,g,0,g,0,g,4,g,0,g,0,g,0,g
+825,hungry howies pizza,dipping sauce icing,1.5,g,0,mg,0,g,34,g,0,g,0,g,1,g,0,g,33,g
+826,hungry howies pizza,dipping sauce pizza sauce,0,g,0,mg,190,g,7,g,1,g,0,g,0,g,1,g,4,g
+827,hungry howies pizza,dipping sauce ranch,22,g,10,mg,320,g,2,g,0,g,3.5,g,0,g,0,g,1,g
+828,hungry howies pizza,dressings 1000 island,14,g,15,mg,210,g,4,g,0,g,2,g,0,g,0,g,4,g
+829,hungry howies pizza,dressings blue cheese,15,g,15,mg,290,g,1,g,1,g,3,g,0,g,0,g,1,g
+830,hungry howies pizza,dressings caesar,18,g,10,mg,410,g,2,g,1,g,3,g,0,g,0,g,1,g
+831,hungry howies pizza,dressings creamy italian,12,g,0,mg,210,g,2,g,0,g,2,g,0,g,0,g,2,g
+832,hungry howies pizza,dressings fat free italian,0,g,0,mg,340,g,4,g,0,g,0,g,0,g,0,g,3,g
+833,hungry howies pizza,dressings french,0,g,0,mg,180,g,7,g,0,g,0,g,0,g,0,g,5,g
+834,hungry howies pizza,dressings greek,11,g,0,mg,70,g,2,g,0,g,1.5,g,0,g,0,g,2,g
+835,hungry howies pizza,dressings honey mustard,0,g,0,mg,230,g,15,g,0,g,0,g,0,g,0,g,15,g
+836,hungry howies pizza,dressings italian,8,g,0,mg,580,g,2,g,0,g,1,g,0,g,0,g,2,g
+837,hungry howies pizza,dressings ranch,14,g,5,mg,220,g,1,g,0,g,2,g,0,g,0,g,1,g
+838,hungry howies pizza,flavored crust asiago catering deep dish and sheet pizza,1,g,5,mg,35,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+839,hungry howies pizza,flavored crust asiago deep dish,1,g,5,mg,35,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+840,hungry howies pizza,flavored crust asiago junior round,0.5,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+841,hungry howies pizza,flavored crust asiago large round or thin,1,g,5,mg,35,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+842,hungry howies pizza,flavored crust asiago medium round or thin,1,g,5,mg,25,g,0,g,1,g,0,g,0,g,0,g,0,g
+843,hungry howies pizza,flavored crust asiago small round or gluten free,0.5,g,5,mg,20,g,0,g,1,g,0,g,0,g,0,g,0,g
+844,hungry howies pizza,flavored crust asiago xl round,1.5,g,5,mg,40,g,0,g,1,g,1,g,0,g,0,g,0,g
+845,hungry howies pizza,flavored crust butter cheese catering deep dish and sheet pizza,3.5,g,5,mg,60,g,1,g,1,g,1,g,0,g,1,g,1,g
+846,hungry howies pizza,flavored crust butter cheese deep dish,3.5,g,5,mg,60,g,1,g,1,g,1,g,0,g,1,g,1,g
+847,hungry howies pizza,flavored crust butter cheese junior round,4,g,5,mg,65,g,1,g,1,g,1,g,0,g,1,g,1,g
+848,hungry howies pizza,flavored crust butter cheese large round or thin,3.5,g,5,mg,55,g,1,g,1,g,1,g,0,g,1,g,1,g
+849,hungry howies pizza,flavored crust butter cheese medium round or thin,3,g,5,mg,45,g,0,g,0,g,0.5,g,0,g,1,g,1,g
+850,hungry howies pizza,flavored crust butter cheese small round or gluten free,3,g,5,mg,55,g,0,g,0,g,1,g,0,g,1,g,1,g
+851,hungry howies pizza,flavored crust butter cheese xl round,4,g,5,mg,65,g,1,g,1,g,1,g,0,g,1,g,1,g
+852,hungry howies pizza,flavored crust butter catering deep dish and sheet pizza,3.5,g,5,mg,25,g,0,g,0,g,0.5,g,0,g,2,g,1,g
+853,hungry howies pizza,flavored crust butter deep dish,2.5,g,5,mg,20,g,0,g,0,g,0,g,0,g,1,g,1,g
+854,hungry howies pizza,flavored crust butter junior round,3.5,g,5,mg,25,g,0,g,0,g,0.5,g,0,g,2,g,1,g
+855,hungry howies pizza,flavored crust butter large round or thin,3,g,5,mg,25,g,0,g,0,g,0,g,0,g,1,g,1,g
+856,hungry howies pizza,flavored crust butter medium round or thin,2.5,g,5,mg,20,g,0,g,0,g,0,g,0,g,1,g,1,g
+857,hungry howies pizza,flavored crust butter small round or gluten free,3,g,5,mg,20,g,0,g,0,g,0,g,0,g,1,g,1,g
+858,hungry howies pizza,flavored crust butter xl round,3.5,g,5,mg,25,g,0,g,0,g,0.5,g,0,g,2,g,1,g
+859,hungry howies pizza,flavored crust cajun catering deep dish and sheet pizza,0,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+860,hungry howies pizza,flavored crust cajun deep dish,0,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+861,hungry howies pizza,flavored crust cajun junior round,0,g,0,mg,80,g,1,g,0,g,0,g,0,g,0,g,0,g
+862,hungry howies pizza,flavored crust cajun large round or thin,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+863,hungry howies pizza,flavored crust cajun medium round or thin,0,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+864,hungry howies pizza,flavored crust cajun small round or gluten free,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+865,hungry howies pizza,flavored crust cajun xl round,0,g,0,mg,80,g,1,g,0,g,0,g,0,g,0,g,0,g
+866,hungry howies pizza,flavored crust garlic herb catering deep dish and sheet pizza,0,g,0,mg,100,g,1,g,0,g,0,g,0,g,0,g,0,g
+867,hungry howies pizza,flavored crust garlic herb deep dish,0,g,0,mg,100,g,1,g,0,g,0,g,0,g,0,g,0,g
+868,hungry howies pizza,flavored crust garlic herb junior round,0,g,0,mg,105,g,1,g,0,g,0,g,0,g,0,g,0,g
+869,hungry howies pizza,flavored crust garlic herb large round or thin,0,g,0,mg,95,g,0,g,0,g,0,g,0,g,0,g,0,g
+870,hungry howies pizza,flavored crust garlic herb medium round or thin,0,g,0,mg,80,g,0,g,0,g,0,g,0,g,0,g,0,g
+871,hungry howies pizza,flavored crust garlic herb small round or gluten free,0,g,0,mg,90,g,0,g,0,g,0,g,0,g,0,g,0,g
+872,hungry howies pizza,flavored crust garlic herb xl round,0,g,0,mg,105,g,1,g,0,g,0,g,0,g,0,g,0,g
+873,hungry howies pizza,flavored crust onion catering deep dish and sheet pizza,0,g,0,mg,120,g,1,g,0,g,0,g,0,g,0,g,0,g
+874,hungry howies pizza,flavored crust onion deep dish,0,g,0,mg,120,g,1,g,0,g,0,g,0,g,0,g,0,g
+875,hungry howies pizza,flavored crust onion junior round,0,g,0,mg,130,g,1,g,0,g,0,g,0,g,0,g,0,g
+876,hungry howies pizza,flavored crust onion large round or thin,0,g,0,mg,110,g,1,g,0,g,0,g,0,g,0,g,0,g
+877,hungry howies pizza,flavored crust onion medium round or thin,0,g,0,mg,95,g,0,g,0,g,0,g,0,g,0,g,0,g
+878,hungry howies pizza,flavored crust onion small round or gluten free,0,g,0,mg,105,g,1,g,0,g,0,g,0,g,0,g,0,g
+879,hungry howies pizza,flavored crust onion xl round,0,g,0,mg,130,g,1,g,0,g,0,g,0,g,0,g,0,g
+880,hungry howies pizza,flavored crust ranch catering deep dish and sheet pizza,0,g,0,mg,880,g,2,g,1,g,0,g,0,g,0,g,1,g
+881,hungry howies pizza,flavored crust ranch deep dish,0,g,0,mg,880,g,2,g,1,g,0,g,0,g,0,g,1,g
+882,hungry howies pizza,flavored crust ranch junior round,0,g,0,mg,920,g,2,g,1,g,0,g,0,g,0,g,1,g
+883,hungry howies pizza,flavored crust ranch large round or thin,0,g,0,mg,800,g,1,g,0,g,0,g,0,g,0,g,1,g
+884,hungry howies pizza,flavored crust ranch medium round or thin,0,g,0,mg,690,g,1,g,0,g,0,g,0,g,0,g,1,g
+885,hungry howies pizza,flavored crust ranch small round or gluten free,0,g,0,mg,770,g,1,g,0,g,0,g,0,g,0,g,1,g
+886,hungry howies pizza,flavored crust ranch xl round,0,g,0,mg,920,g,2,g,1,g,0,g,0,g,0,g,1,g
+887,hungry howies pizza,flavored crust sesame catering deep dish and sheet pizza,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+888,hungry howies pizza,flavored crust sesame deep dish,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+889,hungry howies pizza,flavored crust sesame junior round,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+890,hungry howies pizza,flavored crust sesame large round or thin,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+891,hungry howies pizza,flavored crust sesame xl round,1.5,g,5,mg,95,g,12,g,2,g,0,g,0,g,1,g,1,g
+892,hungry howies pizza,howie bread,1.5,g,5,mg,95,g,12,g,2,g,0,g,0,g,1,g,1,g
+893,hungry howies pizza,howie bread florida only,1.5,g,5,mg,105,g,15,g,3,g,0,g,0,g,1,g,1,g
+894,hungry howies pizza,howie bread side for pasta,3,g,5,mg,180,g,20,g,4,g,1,g,0,g,1,g,1,g
+895,hungry howies pizza,howie bread deep dish 3 cheeser,6,g,15,mg,220,g,17,g,6,g,2.5,g,0,g,1,g,1,g
+896,hungry howies pizza,howie cookie chocolate chip,8,g,10,mg,660,g,28,g,2,g,4,g,0,g,1,g,17,g
+897,hungry howies pizza,howie roll chicken and cheese,20,g,75,mg,830,g,79,g,29,g,7,g,1,g,6,g,6,g
+898,hungry howies pizza,howie roll pepperoni and cheese,25,g,55,mg,1020,g,80,g,24,g,9,g,0.5,g,7,g,6,g
+899,hungry howies pizza,howie roll steak and cheese,24,g,70,mg,560,g,78,g,29,g,9,g,1,g,6,g,6,g
+900,hungry howies pizza,howie wings asian,0,g,0,mg,85,g,2,g,0,g,0,g,0,g,0,g,2,g
+901,hungry howies pizza,howie wings bbq,0,g,0,mg,35,g,2,g,0,g,0,g,0,g,0,g,2,g
+902,hungry howies pizza,howie wings buffalo,0.5,g,0,mg,125,g,0,g,0,g,0,g,0,g,0,g,0,g
+903,hungry howies pizza,howie wings sriracha,0,g,0,mg,115,g,1,g,0,g,0,g,0,g,0,g,1,g
+904,hungry howies pizza,mountain dew 22 oz,0,g,0,mg,110,g,84,g,0,g,0,g,0,g,0,g,84,g
+905,hungry howies pizza,mountain dew 32 oz,0,g,0,mg,160,g,123,g,0,g,0,g,0,g,0,g,123,g
+906,hungry howies pizza,original boneless howie wings,2,g,15,mg,270,g,5,g,5,g,0,g,0,g,0,g,1,g
+907,hungry howies pizza,original howie wings,5,g,20,mg,290,g,0,g,5,g,1.5,g,0,g,0,g,0,g
+908,hungry howies pizza,pasta baked pasta and meatballs large,27,g,65,mg,1230,g,68,g,34,g,11,g,0,g,7,g,7,g
+909,hungry howies pizza,pasta baked pasta and meatballs regular,36,g,90,mg,1540,g,70,g,44,g,15,g,0,g,9,g,7,g
+910,hungry howies pizza,pasta baked pasta and mushrooms large,11,g,30,mg,590,g,64,g,19,g,6,g,0,g,5,g,7,g
+911,hungry howies pizza,pasta baked pasta and mushrooms regular,12,g,40,mg,630,g,65,g,20,g,7,g,0,g,5,g,7,g
+912,hungry howies pizza,pasta baked pasta and sausage large,21,g,50,mg,840,g,64,g,21,g,9,g,0,g,4,g,7,g
+913,hungry howies pizza,pasta baked pasta and sausage regular,23,g,60,mg,880,g,64,g,23,g,10,g,0,g,5,g,7,g
+914,hungry howies pizza,pasta baked pasta large,9,g,25,mg,550,g,63,g,16,g,4.5,g,0,g,4,g,7,g
+915,hungry howies pizza,pasta baked pasta regular,12,g,40,mg,630,g,64,g,20,g,7,g,0,g,5,g,7,g
+916,hungry howies pizza,pasta chicken parmesan large,25,g,75,mg,1370,g,81,g,36,g,9,g,0,g,6,g,7,g
+917,hungry howies pizza,pasta chicken parmesan regular,29,g,85,mg,1450,g,81,g,39,g,11,g,0,g,6,g,7,g
+918,hungry howies pizza,pepsi 22 oz,0,g,0,mg,55,g,75,g,0,g,0,g,0,g,0,g,75,g
+919,hungry howies pizza,pepsi 32 oz,0,g,0,mg,80,g,109,g,0,g,0,g,0,g,0,g,109,g
+920,hungry howies pizza,salad antipasto salad small,13,g,45,mg,670,g,8,g,13,g,6,g,0,g,3,g,3,g
+921,hungry howies pizza,salad antipasto large,53,g,190,mg,2790,g,27,g,53,g,25,g,0,g,11,g,11,g
+922,hungry howies pizza,salad antipasto regular,26,g,95,mg,1390,g,14,g,27,g,12,g,0,g,5,g,6,g
+923,hungry howies pizza,salad chef salad small,9,g,35,mg,450,g,8,g,11,g,4.5,g,0,g,3,g,3,g
+924,hungry howies pizza,salad chef large,38,g,145,mg,1810,g,25,g,44,g,19,g,0.5,g,10,g,12,g
+925,hungry howies pizza,salad chef regular,19,g,75,mg,910,g,13,g,22,g,9,g,0,g,5,g,6,g
+926,hungry howies pizza,salad chicken asiago salad small,5,g,50,mg,510,g,9,g,16,g,2,g,0,g,3,g,4,g
+927,hungry howies pizza,salad chicken asiago large,14,g,105,mg,1200,g,27,g,35,g,5,g,0,g,9,g,12,g
+928,hungry howies pizza,salad chicken asiago regular,9,g,80,mg,830,g,15,g,25,g,3.5,g,0,g,5,g,7,g
+929,hungry howies pizza,salad chicken caesar salad small,4.5,g,50,mg,560,g,11,g,16,g,2,g,0,g,2,g,2,g
+930,hungry howies pizza,salad chicken ceaser large,10,g,105,mg,1100,g,22,g,35,g,5,g,0,g,7,g,7,g
+931,hungry howies pizza,salad chicken ceaser regular,8,g,80,mg,830,g,15,g,25,g,3.5,g,0,g,3,g,4,g
+932,hungry howies pizza,salad garden salad small,1,g,0,mg,65,g,10,g,2,g,0,g,0,g,4,g,4,g
+933,hungry howies pizza,salad garden large,5,g,0,mg,240,g,31,g,8,g,0,g,0,g,12,g,15,g
+934,hungry howies pizza,salad garden regular,2.5,g,0,mg,115,g,14,g,3,g,0,g,0,g,5,g,7,g
+935,hungry howies pizza,salad greek salad small,5,g,15,mg,440,g,10,g,8,g,3,g,0,g,3,g,4,g
+936,hungry howies pizza,salad greek large,21,g,60,mg,1910,g,34,g,30,g,12,g,0,g,9,g,16,g
+937,hungry howies pizza,salad greek regular,11,g,30,mg,960,g,18,g,15,g,6,g,0,g,5,g,8,g
+938,hungry howies pizza,salad grilled chicken salad small,10,g,70,mg,610,g,9,g,20,g,5,g,0,g,3,g,4,g
+939,hungry howies pizza,salad grilled chicken large,29,g,165,mg,1510,g,27,g,48,g,14,g,0,g,10,g,12,g
+940,hungry howies pizza,salad grilled chicken regular,19,g,115,mg,1030,g,15,g,33,g,9,g,0,g,5,g,7,g
+941,hungry howies pizza,salad spicy chicken asiago salad small,16,g,40,mg,870,g,25,g,20,g,4,g,0,g,4,g,3,g
+942,hungry howies pizza,salad spicy chicken asiago large,37,g,90,mg,1910,g,59,g,43,g,9,g,0,g,11,g,11,g
+943,hungry howies pizza,salad spicy chicken asiago regular,33,g,85,mg,1730,g,48,g,39,g,8,g,0,g,7,g,6,g
+944,hungry howies pizza,salad spicy chicken caesar large,33,g,90,mg,1810,g,54,g,43,g,9,g,0,g,9,g,6,g
+945,hungry howies pizza,salad spicy chicken caesar regular,25,g,65,mg,1360,g,38,g,31,g,6,g,0,g,5,g,3,g
+946,hungry howies pizza,salad spicy chicken caesar small,16,g,40,mg,920,g,26,g,20,g,4,g,0,g,3,g,2,g
+947,hungry howies pizza,salad spicy chicken salad small,21,g,60,mg,970,g,25,g,24,g,7,g,0,g,4,g,3,g
+948,hungry howies pizza,salad spicy chicken large,52,g,145,mg,2220,g,59,g,56,g,18,g,0,g,12,g,11,g
+949,hungry howies pizza,salad spicy chicken regular,36,g,105,mg,1560,g,39,g,40,g,12,g,0,g,7,g,6,g
+950,hungry howies pizza,sierra mist twist 22 oz,0,g,0,mg,65,g,71,g,0,g,0,g,0,g,0,g,71,g
+951,hungry howies pizza,sierra mist twist 32 oz,0,g,0,mg,95,g,104,g,0,g,0,g,0,g,0,g,104,g
+952,hungry howies pizza,specialty pizza asian chicken deep dish,17,g,40,mg,740,g,44,g,17,g,6,g,0,g,2,g,8,g
+953,hungry howies pizza,specialty pizza asian chicken junior,6,g,25,mg,390,g,25,g,10,g,3,g,0,g,1,g,4,g
+954,hungry howies pizza,specialty pizza asian chicken large,9,g,35,mg,660,g,41,g,16,g,4.5,g,0,g,2,g,8,g
+955,hungry howies pizza,specialty pizza asian chicken large thin crust,12,g,35,mg,590,g,25,g,13,g,4.5,g,0,g,2,g,7,g
+956,hungry howies pizza,specialty pizza asian chicken medium,7,g,25,mg,480,g,30,g,11,g,3,g,0,g,2,g,6,g
+957,hungry howies pizza,specialty pizza asian chicken medium thin crust,8,g,25,mg,430,g,19,g,9,g,3.5,g,0,g,1,g,5,g
+958,hungry howies pizza,specialty pizza asian chicken sheet,7,g,25,mg,460,g,30,g,11,g,3,g,0,g,1,g,5,g
+959,hungry howies pizza,specialty pizza asian chicken small,5,g,25,mg,390,g,25,g,10,g,2.5,g,0,g,1,g,4,g
+960,hungry howies pizza,specialty pizza asian chicken small gluten free,6,g,25,mg,350,g,11,g,7,g,3,g,0,g,1,g,4,g
+961,hungry howies pizza,specialty pizza asian chicken xl,13,g,50,mg,900,g,57,g,22,g,6,g,0,g,3,g,11,g
+962,hungry howies pizza,specialty pizza bacon cheddar cheeseburger deep dish,24,g,55,mg,690,g,37,g,19,g,10,g,0,g,2,g,3,g
+963,hungry howies pizza,specialty pizza bacon cheddar cheeseburger junior,9,g,25,mg,380,g,21,g,11,g,4.5,g,0,g,1,g,2,g
+964,hungry howies pizza,specialty pizza bacon cheddar cheeseburger large,15,g,45,mg,630,g,34,g,18,g,8,g,0,g,2,g,3,g
+965,hungry howies pizza,specialty pizza bacon cheddar cheeseburger large thin crust,18,g,45,mg,570,g,19,g,15,g,9,g,0,g,2,g,2,g
+966,hungry howies pizza,specialty pizza bacon cheddar cheeseburger medium,13,g,35,mg,510,g,25,g,14,g,6,g,0,g,1,g,2,g
+967,hungry howies pizza,specialty pizza bacon cheddar cheeseburger medium thin crust,15,g,35,mg,460,g,13,g,12,g,7,g,0,g,1,g,1,g
+968,hungry howies pizza,specialty pizza bacon cheddar cheeseburger sheet,12,g,35,mg,480,g,26,g,14,g,6,g,0,g,2,g,2,g
+969,hungry howies pizza,specialty pizza bacon cheddar cheeseburger small,10,g,30,mg,390,g,22,g,11,g,5,g,0,g,1,g,2,g
+970,hungry howies pizza,specialty pizza bacon cheddar cheeseburger small gluten free,10,g,30,mg,350,g,8,g,8,g,5,g,0,g,1,g,2,g
+971,hungry howies pizza,specialty pizza bacon cheddar cheeseburger xl,21,g,60,mg,850,g,49,g,25,g,11,g,0.5,g,3,g,4,g
+972,hungry howies pizza,specialty pizza bbq chicken deep dish,17,g,45,mg,590,g,42,g,17,g,7,g,0,g,1,g,9,g
+973,hungry howies pizza,specialty pizza bbq chicken junior,6,g,25,mg,340,g,24,g,10,g,3,g,0,g,1,g,4,g
+974,hungry howies pizza,specialty pizza bbq chicken large,9,g,40,mg,530,g,39,g,16,g,4.5,g,0,g,2,g,8,g
+975,hungry howies pizza,specialty pizza bbq chicken large thin crust,14,g,40,mg,760,g,17,g,12,g,5,g,0,g,1,g,1,g
+976,hungry howies pizza,specialty pizza bbq chicken medium,8,g,30,mg,430,g,29,g,12,g,4,g,0,g,1,g,6,g
+977,hungry howies pizza,specialty pizza bbq chicken medium thin crust,10,g,30,mg,380,g,17,g,10,g,4,g,0,g,1,g,5,g
+978,hungry howies pizza,specialty pizza bbq chicken sheet,7,g,25,mg,400,g,29,g,12,g,3.5,g,0,g,1,g,5,g
+979,hungry howies pizza,specialty pizza bbq chicken small,6,g,25,mg,330,g,24,g,10,g,3,g,0,g,1,g,4,g
+980,hungry howies pizza,specialty pizza bbq chicken small gluten free,6,g,25,mg,290,g,10,g,7,g,3,g,0,g,0,g,4,g
+981,hungry howies pizza,specialty pizza bbq chicken xl,13,g,50,mg,720,g,55,g,21,g,7,g,0,g,2,g,11,g
+982,hungry howies pizza,specialty pizza buffalo chicken deep dish,19,g,45,mg,880,g,35,g,16,g,7,g,0,g,1,g,2,g
+983,hungry howies pizza,specialty pizza buffalo chicken junior,6,g,20,mg,430,g,21,g,9,g,2.5,g,0,g,1,g,1,g
+984,hungry howies pizza,specialty pizza buffalo chicken large,11,g,40,mg,800,g,33,g,16,g,5,g,0,g,1,g,2,g
+985,hungry howies pizza,specialty pizza buffalo chicken large thin crust,13,g,40,mg,740,g,18,g,12,g,6,g,0,g,1,g,1,g
+986,hungry howies pizza,specialty pizza buffalo chicken medium,8,g,25,mg,580,g,24,g,11,g,3.5,g,0,g,1,g,1,g
+987,hungry howies pizza,specialty pizza buffalo chicken medium thin crust,9,g,25,mg,530,g,13,g,8,g,4,g,0,g,1,g,0,g
+988,hungry howies pizza,specialty pizza buffalo chicken sheet,10,g,35,mg,610,g,25,g,13,g,5,g,0,g,1,g,1,g
+989,hungry howies pizza,specialty pizza buffalo chicken small,6,g,25,mg,450,g,21,g,10,g,3,g,0,g,1,g,1,g
+990,hungry howies pizza,specialty pizza buffalo chicken small gluten free,7,g,25,mg,420,g,7,g,6,g,3,g,0,g,1,g,1,g
+991,hungry howies pizza,specialty pizza buffalo chicken xl,14,g,50,mg,1070,g,46,g,21,g,7,g,0,g,2,g,2,g
+992,hungry howies pizza,specialty pizza chicken bacon ranch deep dish,26,g,50,mg,600,g,35,g,17,g,8,g,0,g,1,g,2,g
+993,hungry howies pizza,specialty pizza chicken bacon ranch junior,10,g,25,mg,340,g,20,g,10,g,3.5,g,0,g,1,g,1,g
+994,hungry howies pizza,specialty pizza chicken bacon ranch large,17,g,40,mg,540,g,32,g,16,g,6,g,0,g,1,g,2,g
+995,hungry howies pizza,specialty pizza chicken bacon ranch large thin crust,19,g,40,mg,480,g,17,g,13,g,6,g,0,g,1,g,1,g
+996,hungry howies pizza,specialty pizza chicken bacon ranch medium,14,g,30,mg,440,g,24,g,12,g,4.5,g,0,g,1,g,1,g
+997,hungry howies pizza,specialty pizza chicken bacon ranch medium thin crust,15,g,30,mg,390,g,12,g,10,g,5,g,0,g,1,g,1,g
+998,hungry howies pizza,specialty pizza chicken bacon ranch sheet,12,g,30,mg,400,g,25,g,12,g,4.5,g,0,g,1,g,1,g
+999,hungry howies pizza,specialty pizza chicken bacon ranch small,11,g,25,mg,360,g,20,g,10,g,3.5,g,0,g,1,g,1,g

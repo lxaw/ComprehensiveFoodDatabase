@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,taco villa,kids bean chalupa,10,g,15,mg,350,g,27,g,11,g,0,g,0,g,7,g,0,g
+1,taco villa,kids bean nachos without jalapenos,37,g,15,mg,1870,g,75,g,16,g,0,g,0,g,10,g,0,g
+2,taco villa,kids cheese nachos without jalapenos,34,g,10,mg,1580,g,54,g,9,g,0,g,0,g,3,g,0,g
+3,taco villa,kids cheese quesadilla without sauce,22,g,60,mg,760,g,35,g,20,g,0,g,0,g,2,g,0,g
+4,taco villa,kids chicken burrito without sauce,16,g,75,mg,1050,g,38,g,31,g,0,g,0,g,3,g,0,g
+5,taco villa,kids chicken quesadilla without sauce,27,g,110,mg,1310,g,37,g,40,g,0,g,0,g,3,g,0,g
+6,taco villa,kids chicken soft taco,8,g,40,mg,610,g,16,g,18,g,0,g,0,g,1,g,0,g
+7,taco villa,kids combination burrito without sauce,19,g,50,mg,740,g,46,g,23,g,0,g,0,g,6,g,0,g
+8,taco villa,kids combo nachos without jalapenos,45,g,45,mg,1830,g,67,g,22,g,0,g,0,g,7,g,0,g
+9,taco villa,kids crispy taco,15,g,40,mg,190,g,13,g,13,g,0,g,0,g,1,g,0,g
+10,taco villa,kids deluxe nachos without jalapenos,53,g,55,mg,2110,g,71,g,24,g,0,g,0,g,8,g,0,g
+11,taco villa,kids french fries,27,g,0,mg,610,g,58,g,4,g,0,g,0,g,5,g,0,g
+12,taco villa,kids guadalajara,22,g,15,mg,260,g,16,g,7,g,0,g,0,g,4,g,0,g
+13,taco villa,kids meat burrito without sauce,27,g,80,mg,700,g,39,g,29,g,0,g,0,g,2,g,0,g
+14,taco villa,kids meat chalupa,22,g,65,mg,290,g,15,g,20,g,0,g,0,g,1,g,0,g
+15,taco villa,kids meat nachos without jalapenos,53,g,80,mg,1790,g,59,g,28,g,0,g,0,g,3,g,0,g
+16,taco villa,kids softaco,14,g,40,mg,350,g,19,g,14,g,0,g,0,g,1,g,0,g
+17,taco villa,kids tacoburger,15,g,40,mg,380,g,30,g,16,g,0,g,0,g,0,g,0,g
+18,taco villa,large bacon and egg burrito green sauce,29,g,285,mg,1040,g,38,g,26,g,0,g,0,g,4,g,0,g
+19,taco villa,large bacon and egg burrito no sauce,28,g,285,mg,1000,g,36,g,25,g,0,g,0,g,3,g,0,g
+20,taco villa,large bacon and egg burrito red sauce,29,g,285,mg,1190,g,36,g,26,g,0,g,0,g,3,g,0,g
+21,taco villa,large chorizo and egg burrito green sauce,32,g,320,mg,1180,g,42,g,26,g,0,g,0,g,5,g,0,g
+22,taco villa,large chorizo and egg burrito no sauce,32,g,320,mg,1140,g,40,g,26,g,0,g,0,g,4,g,0,g
+23,taco villa,large chorizo and egg burrito red sauce,33,g,320,mg,1330,g,41,g,26,g,0,g,0,g,4,g,0,g
+24,taco villa,large egg burrito green sauce,21,g,270,mg,770,g,38,g,20,g,0,g,0,g,4,g,0,g
+25,taco villa,large egg burrito no sauce,21,g,270,mg,720,g,36,g,20,g,0,g,0,g,3,g,0,g
+26,taco villa,large egg burrito red sauce,22,g,270,mg,920,g,36,g,20,g,0,g,0,g,3,g,0,g
+27,taco villa,large ham and egg burrito green sauce,23,g,295,mg,1230,g,39,g,28,g,0,g,0,g,4,g,0,g
+28,taco villa,large ham and egg burrito no sauce,23,g,295,mg,1190,g,37,g,28,g,0,g,0,g,3,g,0,g
+29,taco villa,large ham and egg burrito red sauce,24,g,295,mg,1380,g,38,g,28,g,0,g,0,g,3,g,0,g
+30,taco villa,large potato and egg burrito green sauce,27,g,275,mg,850,g,48,g,22,g,0,g,0,g,5,g,0,g
+31,taco villa,large potato and egg burrito no sauce,26,g,275,mg,800,g,46,g,21,g,0,g,0,g,4,g,0,g
+32,taco villa,large potato and egg burrito red sauce,28,g,275,mg,990,g,47,g,21,g,0,g,0,g,4,g,0,g
+33,taco villa,large sausage and egg burrito green sauce,33,g,305,mg,1090,g,38,g,32,g,0,g,0,g,4,g,0,g
+34,taco villa,large sausage and egg burrito no sauce,33,g,205,mg,1040,g,36,g,32,g,0,g,0,g,3,g,0,g
+35,taco villa,large sausage and egg burrito red sauce,34,g,305,mg,1240,g,37,g,32,g,0,g,0,g,3,g,0,g
+36,taco villa,meat burrito with green sauce,27,g,80,mg,750,g,41,g,29,g,0,g,0,g,3,g,0,g
+37,taco villa,meat burrito with red sauce,28,g,80,mg,900,g,40,g,29,g,0,g,0,g,2,g,0,g
+38,taco villa,meat burrito without sauce,27,g,80,mg,700,g,39,g,29,g,0,g,0,g,2,g,0,g
+39,taco villa,meat chalupa,22,g,65,mg,290,g,15,g,20,g,0,g,0,g,1,g,0,g
+40,taco villa,meat nacho,53,g,80,mg,2020,g,59,g,28,g,0,g,0,g,4,g,0,g
+41,taco villa,meat smothered burrito,35,g,85,mg,1240,g,45,g,31,g,0,g,0,g,4,g,0,g
+42,taco villa,mexi chili cheese fries,52,g,35,mg,2570,g,85,g,15,g,0,g,0,g,9,g,0,g
+43,taco villa,mexi fries,28,g,10,mg,1160,g,63,g,7,g,0,g,0,g,5,g,0,g
+44,taco villa,mexi fries extra large,41,g,15,mg,1680,g,92,g,10,g,0,g,0,g,8,g,0,g
+45,taco villa,nacho fries,49,g,10,mg,1310,g,75,g,8,g,0,g,0,g,6,g,0,g
+46,taco villa,nacho mexi fries,50,g,25,mg,2010,g,82,g,12,g,0,g,0,g,7,g,0,g
+47,taco villa,onions,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+48,taco villa,potato and egg omlet,30,g,375,mg,540,g,11,g,22,g,0,g,0,g,2,g,0,g
+49,taco villa,potato and egg sandwich,35,g,275,mg,790,g,44,g,21,g,0,g,0,g,3,g,0,g
+50,taco villa,potato and egg softaco green sauce,15,g,180,mg,470,g,21,g,12,g,0,g,0,g,3,g,0,g
+51,taco villa,potato and egg softaco no sauce,15,g,180,mg,430,g,19,g,11,g,0,g,0,g,1,g,0,g
+52,taco villa,potato and egg softaco red sauce,16,g,180,mg,620,g,20,g,11,g,0,g,0,g,2,g,0,g
+53,taco villa,salad ole,55,g,70,mg,620,g,49,g,27,g,0,g,0,g,5,g,0,g
+54,taco villa,salsa de villa,0,g,0,mg,180,g,2,g,1,g,0,g,0,g,1,g,0,g
+55,taco villa,sausage and egg omlet,34,g,395,mg,700,g,4,g,29,g,0,g,0,g,1,g,0,g
+56,taco villa,sausage and egg sandwich,43,g,320,mg,1110,g,30,g,34,g,0,g,0,g,2,g,0,g
+57,taco villa,sausage and egg softaco green sauce,17,g,190,mg,550,g,18,g,15,g,0,g,0,g,2,g,0,g
+58,taco villa,sausage and egg softaco no sauce,17,g,190,mg,510,g,15,g,15,g,0,g,0,g,1,g,0,g
+59,taco villa,sausage and egg softaco red sauce,18,g,190,mg,700,g,16,g,15,g,0,g,0,g,1,g,0,g
+60,taco villa,soft taco,14,g,40,mg,350,g,19,g,14,g,0,g,0,g,1,g,0,g
+61,taco villa,southwest breakfast burrito bacon with green sauce,29,g,285,mg,1050,g,41,g,26,g,0,g,0,g,5,g,0,g
+62,taco villa,southwest breakfast burrito bacon with red sauce,30,g,285,mg,1190,g,40,g,26,g,0,g,0,g,4,g,0,g
+63,taco villa,southwest breakfast burrito bacon without sauce,29,g,285,mg,1000,g,39,g,26,g,0,g,0,g,4,g,0,g
+64,taco villa,southwest breakfast burrito chorizo with green sauce,29,g,300,mg,1050,g,44,g,25,g,0,g,0,g,6,g,0,g
+65,taco villa,southwest breakfast burrito chorizo with red sauce,29,g,300,mg,1200,g,43,g,25,g,0,g,0,g,5,g,0,g
+66,taco villa,southwest breakfast burrito chorizo without sauce,29,g,300,mg,1000,g,42,g,25,g,0,g,0,g,5,g,0,g
+67,taco villa,southwest breakfast burrito ham with green sauce,22,g,285,mg,1080,g,42,g,26,g,0,g,0,g,5,g,0,g
+68,taco villa,southwest breakfast burrito ham with red sauce,23,g,285,mg,1230,g,41,g,26,g,0,g,0,g,4,g,0,g
+69,taco villa,southwest breakfast burrito ham without sauce,22,g,285,mg,1030,g,40,g,26,g,0,g,0,g,4,g,0,g
+70,taco villa,southwest breakfast burrito sausage with green sauce,29,g,295,mg,980,g,42,g,29,g,0,g,0,g,5,g,0,g
+71,taco villa,southwest breakfast burrito sausage with red sauce,30,g,295,mg,1130,g,40,g,29,g,0,g,0,g,4,g,0,g
+72,taco villa,southwest breakfast burrito sausage without sauce,29,g,295,mg,940,g,39,g,28,g,0,g,0,g,4,g,0,g
+73,taco villa,southwest omlet bacon,34,g,385,mg,770,g,7,g,27,g,0,g,0,g,2,g,0,g
+74,taco villa,southwest omlet chorizo,34,g,400,mg,770,g,10,g,26,g,0,g,0,g,3,g,0,g
+75,taco villa,southwest omlet ham,28,g,385,mg,800,g,8,g,27,g,0,g,0,g,2,g,0,g
+76,taco villa,southwest omlet sausage,35,g,395,mg,710,g,7,g,30,g,0,g,0,g,2,g,0,g
+77,taco villa,steak fajita burrito with cheddar cheese,19,g,20,mg,1370,g,37,g,33,g,0,g,0,g,4,g,0,g
+78,taco villa,steak fajita burrito with nacho cheese,16,g,5,mg,1360,g,37,g,30,g,0,g,0,g,4,g,0,g
+79,taco villa,steak fajita nachos,41,g,20,mg,2220,g,55,g,24,g,0,g,0,g,4,g,0,g
+80,taco villa,steak fajita salad,51,g,25,mg,1080,g,46,g,35,g,0,g,0,g,5,g,0,g
+81,taco villa,steak fajita taco grande with 2 corn tortillas,10,g,15,mg,520,g,23,g,16,g,0,g,0,g,4,g,0,g
+82,taco villa,steak fajita taco grande with 2 flour tortillas,11,g,15,mg,690,g,16,g,16,g,0,g,0,g,2,g,0,g
+83,taco villa,steak fajita taco on corn tortilla with guacamole,14,g,10,mg,590,g,24,g,16,g,0,g,0,g,4,g,0,g
+84,taco villa,steak fajita taco on flour tortilla with guacamole,14,g,10,mg,760,g,17,g,16,g,0,g,0,g,2,g,0,g
+85,taco villa,steak fajita taco with 2 corn tortillas,9,g,10,mg,510,g,22,g,15,g,0,g,0,g,3,g,0,g
+86,taco villa,steak fajita taco with flour tortilla,10,g,10,mg,680,g,15,g,15,g,0,g,0,g,1,g,0,g
+87,taco villa,steak quesadilla,28,g,65,mg,1190,g,37,g,35,g,0,g,0,g,3,g,0,g
+88,taco villa,taco burger,15,g,40,mg,380,g,30,g,16,g,0,g,0,g,0,g,0,g
+89,taco villa,taco rito,18,g,40,mg,530,g,37,g,19,g,0,g,0,g,5,g,0,g
+90,taco villa,ultimate omlet bacon with green sauce,34,g,385,mg,810,g,8,g,27,g,0,g,0,g,3,g,0,g
+91,taco villa,ultimate omlet bacon with red sauce,35,g,385,mg,960,g,7,g,27,g,0,g,0,g,2,g,0,g
+92,taco villa,ultimate omlet bacon without sauce,34,g,385,mg,770,g,6,g,27,g,0,g,0,g,1,g,0,g
+93,taco villa,ultimate omlet chorizo with green sauce,34,g,400,mg,810,g,11,g,26,g,0,g,0,g,4,g,0,g
+94,taco villa,ultimate omlet chorizo with red sauce,35,g,400,mg,960,g,10,g,26,g,0,g,0,g,2,g,0,g
+95,taco villa,ultimate omlet chorizo without sauce,34,g,400,mg,770,g,9,g,26,g,0,g,0,g,2,g,0,g
+96,taco villa,ultimate omlet ham with green sauce,28,g,385,mg,850,g,9,g,27,g,0,g,0,g,3,g,0,g
+97,taco villa,ultimate omlet ham with red sauce,28,g,385,mg,990,g,7,g,27,g,0,g,0,g,2,g,0,g
+98,taco villa,ultimate omlet ham without sauce,28,g,385,mg,800,g,7,g,27,g,0,g,0,g,2,g,0,g
+99,taco villa,ultimate omlet sausage with green sauce,35,g,395,mg,750,g,8,g,29,g,0,g,0,g,3,g,0,g
+100,taco villa,ultimate omlet sausage with red sauce,35,g,395,mg,900,g,7,g,29,g,0,g,0,g,2,g,0,g
+101,taco villa,ultimate omlet sausage without sauce,34,g,395,mg,700,g,6,g,29,g,0,g,0,g,1,g,0,g
+102,tazikis mediterranean cafe,10 slices baked pita and 20 pieces soft pita,6,g,0,mg,1290,g,238,g,34,g,0,g,0,g,0,g,11,g
+103,tazikis mediterranean cafe,bacon egg and cheese roll ups,51,g,795,mg,1890,g,50,g,48,g,16,g,0,g,2,g,4,g
+104,tazikis mediterranean cafe,baked and soft pita for 4,2.5,g,0,mg,520,g,95,g,14,g,0,g,0,g,0,g,5,g
+105,tazikis mediterranean cafe,baked and soft pita for 6,3.5,g,0,mg,890,g,174,g,25,g,0,g,0,g,0,g,8,g
+106,tazikis mediterranean cafe,baked and soft pita for 8,4.5,g,0,mg,1030,g,190,g,27,g,0,g,0,g,0,g,9,g
+107,tazikis mediterranean cafe,baked pita for 4,4.5,g,0,mg,550,g,64,g,9,g,0,g,0,g,0,g,3,g
+108,tazikis mediterranean cafe,baked pita for 6,7,g,0,mg,830,g,96,g,14,g,0.5,g,0,g,0,g,5,g
+109,tazikis mediterranean cafe,baked pita for 8,9,g,0,mg,1110,g,128,g,18,g,0.5,g,0,g,1,g,6,g
+110,tazikis mediterranean cafe,baklava,14,g,0,mg,160,g,52,g,4,g,3,g,2,g,1,g,21,g
+111,tazikis mediterranean cafe,baklava half slice,7,g,0,mg,80,g,26,g,2,g,1.5,g,1,g,1,g,11,g
+112,tazikis mediterranean cafe,balsamic vinaigrette for 4,113,g,0,mg,270,g,30,g,0,g,8,g,0,g,0,g,16,g
+113,tazikis mediterranean cafe,balsamic vinaigrette for 6,301,g,0,mg,730,g,81,g,1,g,21,g,0,g,1,g,43,g
+114,tazikis mediterranean cafe,balsamic vinaigrette for 8,301,g,0,mg,730,g,81,g,1,g,21,g,0,g,1,g,43,g
+115,tazikis mediterranean cafe,basil pesto gyro boxed lunch,46,g,115,mg,1320,g,86,g,53,g,11,g,0,g,5,g,19,g
+116,tazikis mediterranean cafe,basil pesto sauce catering,28,g,10,mg,500,g,4,g,8,g,4,g,0,g,2,g,1,g
+117,tazikis mediterranean cafe,beef feast,47,g,135,mg,1380,g,17,g,42,g,10,g,0,g,3,g,4,g
+118,tazikis mediterranean cafe,beef feast catering,19,g,110,mg,350,g,2,g,37,g,4.5,g,0,g,0,g,0,g
+119,tazikis mediterranean cafe,beef for 4,77,g,430,mg,1410,g,8,g,148,g,18,g,1.5,g,1,g,1,g
+120,tazikis mediterranean cafe,beef for 6,116,g,645,mg,2120,g,12,g,222,g,27,g,2,g,2,g,2,g
+121,tazikis mediterranean cafe,beef for 8,155,g,860,mg,2830,g,16,g,296,g,36,g,3,g,2,g,3,g
+122,tazikis mediterranean cafe,beef gyro,37,g,95,mg,1020,g,65,g,42,g,8,g,0,g,4,g,6,g
+123,tazikis mediterranean cafe,beef gyro catering,24,g,85,mg,660,g,44,g,38,g,4.5,g,0,g,2,g,2,g
+124,tazikis mediterranean cafe,beef kebob taziki sauce,16,g,100,mg,570,g,5,g,32,g,7,g,0,g,1,g,1,g
+125,tazikis mediterranean cafe,beef kebob feast,21,g,105,mg,1210,g,19,g,36,g,8,g,0,g,3,g,5,g
+126,tazikis mediterranean cafe,beef kebob feast catering,14,g,90,mg,360,g,2,g,29,g,5,g,0,g,0,g,0,g
+127,tazikis mediterranean cafe,beef kebob for 4,55,g,370,mg,1440,g,9,g,117,g,20,g,1,g,1,g,2,g
+128,tazikis mediterranean cafe,beef kebob for 6,82,g,555,mg,2160,g,13,g,176,g,30,g,1.5,g,2,g,3,g
+129,tazikis mediterranean cafe,beef kebob for 8,109,g,740,mg,2880,g,18,g,235,g,40,g,2,g,3,g,3,g
+130,tazikis mediterranean cafe,beef kebob gyro,33,g,100,mg,1240,g,65,g,42,g,9,g,0,g,5,g,6,g
+131,tazikis mediterranean cafe,beef kebob grilled,14,g,90,mg,360,g,2,g,29,g,5,g,0,g,0,g,0,g
+132,tazikis mediterranean cafe,beef sandwich,61,g,125,mg,1110,g,57,g,45,g,14,g,0,g,3,g,5,g
+133,tazikis mediterranean cafe,beef sandwich boxed lunch,78,g,135,mg,1300,g,81,g,47,g,19,g,0,g,3,g,20,g
+134,tazikis mediterranean cafe,bottled water,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+135,tazikis mediterranean cafe,breakfast potatoes,10,g,0,mg,380,g,22,g,2,g,1,g,0,g,2,g,2,g
+136,tazikis mediterranean cafe,caesar dressing for 4,76,g,80,mg,1100,g,3,g,8,g,16,g,0,g,0,g,1,g
+137,tazikis mediterranean cafe,caesar dressing for 6,202,g,215,mg,2930,g,9,g,22,g,43,g,0,g,0,g,3,g
+138,tazikis mediterranean cafe,caesar dressing for 8,202,g,215,mg,2930,g,9,g,22,g,43,g,0,g,0,g,3,g
+139,tazikis mediterranean cafe,caesar salad,8,g,15,mg,500,g,16,g,12,g,3.5,g,0,g,4,g,2,g
+140,tazikis mediterranean cafe,caesar salad for 4,15,g,25,mg,940,g,32,g,22,g,6,g,0,g,7,g,4,g
+141,tazikis mediterranean cafe,caesar salad for 6,20,g,30,mg,1370,g,53,g,28,g,7,g,0,g,7,g,4,g
+142,tazikis mediterranean cafe,caesar salad for 8,29,g,50,mg,1890,g,65,g,44,g,13,g,0,g,14,g,8,g
+143,tazikis mediterranean cafe,caesar salad small,3.5,g,5,mg,230,g,8,g,5,g,1.5,g,0,g,2,g,1,g
+144,tazikis mediterranean cafe,chicken basil pesto gyro,38,g,105,mg,1200,g,63,g,51,g,7,g,0,g,5,g,4,g
+145,tazikis mediterranean cafe,chicken feast,15,g,135,mg,1110,g,19,g,51,g,5,g,0,g,3,g,5,g
+146,tazikis mediterranean cafe,chicken feast catering,7,g,120,mg,190,g,2,g,44,g,1.5,g,0,g,0,g,0,g
+147,tazikis mediterranean cafe,chicken gyro,25,g,105,mg,1030,g,64,g,48,g,5,g,0,g,4,g,6,g
+148,tazikis mediterranean cafe,chicken gyro catering,12,g,95,mg,670,g,44,g,43,g,2.5,g,0,g,2,g,2,g
+149,tazikis mediterranean cafe,chicken gyro boxed lunch,33,g,115,mg,1150,g,87,g,50,g,9,g,0,g,5,g,21,g
+150,tazikis mediterranean cafe,chicken kebob taziki sauce,13,g,135,mg,620,g,5,g,45,g,5,g,0,g,1,g,2,g
+151,tazikis mediterranean cafe,chicken kebob feast,19,g,140,mg,1320,g,20,g,50,g,7,g,0,g,3,g,5,g
+152,tazikis mediterranean cafe,chicken kebob feast catering,11,g,125,mg,400,g,2,g,43,g,3.5,g,0,g,0,g,0,g
+153,tazikis mediterranean cafe,chicken kebob for 4,43,g,495,mg,1610,g,9,g,172,g,13,g,0,g,2,g,2,g
+154,tazikis mediterranean cafe,chicken kebob for 6,64,g,745,mg,2410,g,14,g,258,g,20,g,0,g,2,g,3,g
+155,tazikis mediterranean cafe,chicken kebob for 8,85,g,995,mg,3220,g,18,g,343,g,27,g,0,g,3,g,4,g
+156,tazikis mediterranean cafe,chicken kebob gyro,30,g,135,mg,1280,g,66,g,56,g,7,g,0,g,5,g,6,g
+157,tazikis mediterranean cafe,chicken kebob grilled,11,g,125,mg,400,g,2,g,43,g,3.5,g,0,g,0,g,0,g
+158,tazikis mediterranean cafe,chicken portobello sandwich,50,g,170,mg,1830,g,62,g,61,g,15,g,0,g,4,g,7,g
+159,tazikis mediterranean cafe,chicken roll up feast catering,16,g,110,mg,1330,g,51,g,48,g,6,g,0,g,3,g,4,g
+160,tazikis mediterranean cafe,chicken roll up boxed lunch,34,g,120,mg,2010,g,92,g,52,g,12,g,0,g,5,g,22,g
+161,tazikis mediterranean cafe,chicken roll ups,26,g,110,mg,1890,g,69,g,50,g,8,g,0,g,5,g,7,g
+162,tazikis mediterranean cafe,chicken salad and co,24,g,75,mg,410,g,21,g,25,g,4.5,g,0,g,2,g,3,g
+163,tazikis mediterranean cafe,chicken salad sandwich boxed lunch,51,g,95,mg,1010,g,84,g,39,g,12,g,0,g,5,g,22,g
+164,tazikis mediterranean cafe,chicken salad 1 pint catering,114,g,340,mg,2540,g,165,g,119,g,20,g,0,g,2,g,10,g
+165,tazikis mediterranean cafe,chicken salad 2 pints catering,227,g,685,mg,5080,g,331,g,239,g,40,g,0,g,4,g,19,g
+166,tazikis mediterranean cafe,chicken sandwich,25,g,130,mg,980,g,56,g,57,g,6,g,0,g,2,g,4,g
+167,tazikis mediterranean cafe,chicken sandwich boxed lunch,33,g,140,mg,1100,g,79,g,59,g,10,g,0,g,3,g,19,g
+168,tazikis mediterranean cafe,child feast,14,g,100,mg,290,g,29,g,30,g,7,g,0,g,1,g,1,g
+169,tazikis mediterranean cafe,chocolate chip cookies,16,g,20,mg,240,g,46,g,4,g,8,g,0,g,1,g,30,g
+170,tazikis mediterranean cafe,chocolate chip cookies dozen,96,g,120,mg,1440,g,276,g,24,g,48,g,0,g,6,g,180,g
+171,tazikis mediterranean cafe,coffee,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+172,tazikis mediterranean cafe,coffee decaf,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+173,tazikis mediterranean cafe,coke,0,g,0,mg,65,g,67,g,0,g,0,g,0,g,0,g,67,g
+174,tazikis mediterranean cafe,coke zero,0,g,0,mg,70,g,2,g,1,g,0,g,0,g,0,g,0,g
+175,tazikis mediterranean cafe,cous cous large catering,235,g,55,mg,16270,g,552,g,89,g,31,g,0,g,37,g,42,g
+176,tazikis mediterranean cafe,cous cous medium catering,176,g,40,mg,12200,g,414,g,67,g,23,g,0,g,28,g,32,g
+177,tazikis mediterranean cafe,cous cous small catering,117,g,25,mg,8130,g,276,g,44,g,16,g,0,g,18,g,21,g
+178,tazikis mediterranean cafe,dark chocolate cake,20,g,15,mg,740,g,70,g,4,g,5,g,0,g,3,g,1,g
+179,tazikis mediterranean cafe,dark chocolate cake whole,236,g,195,mg,8820,g,843,g,54,g,63,g,0,g,39,g,16,g
+180,tazikis mediterranean cafe,diet coke,0,g,0,mg,85,g,1,g,0,g,0,g,0,g,0,g,0,g
+181,tazikis mediterranean cafe,dr pepper,0.5,g,0,mg,100,g,66,g,0,g,0,g,0,g,0,g,64,g
+182,tazikis mediterranean cafe,egg and cheese roll ups,43,g,775,mg,1500,g,50,g,40,g,13,g,0,g,2,g,4,g
+183,tazikis mediterranean cafe,family pasta pack for 6,133,g,225,mg,3290,g,204,g,122,g,14,g,0,g,22,g,25,g
+184,tazikis mediterranean cafe,fresh cut fruit large catering,6,g,0,mg,280,g,397,g,24,g,1,g,0,g,22,g,332,g
+185,tazikis mediterranean cafe,fresh cut fruit medium catering,4,g,0,mg,210,g,298,g,18,g,1,g,0,g,16,g,249,g
+186,tazikis mediterranean cafe,fresh cut fruit small catering,3,g,0,mg,140,g,199,g,12,g,0.5,g,0,g,11,g,166,g
+187,tazikis mediterranean cafe,gluten free veggies 1 pint catering,2,g,0,mg,300,g,38,g,7,g,0,g,0,g,12,g,13,g
+188,tazikis mediterranean cafe,gluten free veggies 2 pint catering,4,g,0,mg,590,g,75,g,15,g,1,g,0,g,25,g,25,g
+189,tazikis mediterranean cafe,greek dressing for 4,102,g,0,mg,580,g,3,g,0,g,7,g,0,g,0,g,0,g
+190,tazikis mediterranean cafe,greek dressing for 6,273,g,0,mg,1540,g,9,g,1,g,20,g,0,g,1,g,0,g
+191,tazikis mediterranean cafe,greek dressing for 8,273,g,0,mg,1540,g,9,g,1,g,20,g,0,g,1,g,0,g
+192,tazikis mediterranean cafe,greek lemon chicken soup with pita bread,13,g,75,mg,1420,g,18,g,26,g,3.5,g,0,g,1,g,4,g
+193,tazikis mediterranean cafe,greek lemon chicken soup quart catering,38,g,200,mg,3960,g,61,g,72,g,9,g,0,g,4,g,10,g
+194,tazikis mediterranean cafe,greek parfait,6,g,20,mg,40,g,19,g,5,g,3.5,g,0,g,1,g,15,g
+195,tazikis mediterranean cafe,greek salad,7,g,10,mg,850,g,20,g,7,g,2,g,0,g,4,g,6,g
+196,tazikis mediterranean cafe,greek salad catering,39,g,5,mg,830,g,16,g,4,g,3.5,g,0,g,2,g,3,g
+197,tazikis mediterranean cafe,greek salad chicken gyro,50,g,100,mg,1300,g,67,g,48,g,6,g,0,g,5,g,6,g
+198,tazikis mediterranean cafe,greek salad for 4,20,g,30,mg,2380,g,24,g,16,g,7,g,0,g,9,g,10,g
+199,tazikis mediterranean cafe,greek salad for 6,30,g,45,mg,3750,g,35,g,22,g,10,g,0,g,11,g,15,g
+200,tazikis mediterranean cafe,greek salad for 8,40,g,65,mg,4760,g,48,g,32,g,14,g,0,g,19,g,20,g
+201,tazikis mediterranean cafe,greek salad gyro,44,g,5,mg,1150,g,66,g,13,g,5,g,0,g,4,g,6,g
+202,tazikis mediterranean cafe,greek salad boxed lunch,40,g,20,mg,1110,g,44,g,10,g,8,g,0,g,5,g,21,g
+203,tazikis mediterranean cafe,greek salad large catering,639,g,160,mg,16300,g,375,g,107,g,71,g,0,g,41,g,82,g
+204,tazikis mediterranean cafe,greek salad medium catering,617,g,120,mg,13080,g,296,g,82,g,63,g,0,g,31,g,62,g
+205,tazikis mediterranean cafe,greek salad small,5,g,5,mg,630,g,14,g,4,g,1.5,g,0,g,2,g,3,g
+206,tazikis mediterranean cafe,greek salad small catering,321,g,80,mg,8320,g,207,g,56,g,36,g,0,g,20,g,42,g
+207,tazikis mediterranean cafe,grilled beef,19,g,110,mg,350,g,2,g,37,g,4.5,g,0,g,0,g,0,g
+208,tazikis mediterranean cafe,grilled cheese,18,g,40,mg,1080,g,50,g,16,g,9,g,0,g,1,g,3,g
+209,tazikis mediterranean cafe,grilled chicken for 4,27,g,480,mg,760,g,6,g,176,g,6,g,0,g,1,g,2,g
+210,tazikis mediterranean cafe,grilled chicken for 6,41,g,725,mg,1150,g,9,g,264,g,9,g,0,g,1,g,3,g
+211,tazikis mediterranean cafe,grilled chicken for 8,55,g,965,mg,1530,g,12,g,352,g,13,g,0,g,1,g,4,g
+212,tazikis mediterranean cafe,grilled chicken entree salads,7,g,120,mg,190,g,2,g,44,g,1.5,g,0,g,0,g,0,g
+213,tazikis mediterranean cafe,grilled chicken small salads,4,g,70,mg,115,g,1,g,26,g,1,g,0,g,0,g,0,g
+214,tazikis mediterranean cafe,grilled lamb,20,g,145,mg,190,g,1,g,47,g,6,g,0,g,0,g,0,g
+215,tazikis mediterranean cafe,grilled pork,37,g,165,mg,180,g,3,g,51,g,8,g,0,g,1,g,0,g
+216,tazikis mediterranean cafe,grilled salmon,38,g,135,mg,400,g,4,g,43,g,9,g,0,g,1,g,0,g
+217,tazikis mediterranean cafe,grilled shrimp,21,g,210,mg,1100,g,5,g,20,g,8,g,0,g,1,g,0,g
+218,tazikis mediterranean cafe,grilled turkey,11,g,60,mg,1190,g,6,g,22,g,0.5,g,0,g,0,g,4,g
+219,tazikis mediterranean cafe,grilled veggie feast,28,g,45,mg,1530,g,30,g,9,g,11,g,0,g,6,g,9,g
+220,tazikis mediterranean cafe,grilled veggie gyro,54,g,25,mg,1480,g,70,g,16,g,9,g,0,g,6,g,7,g
+221,tazikis mediterranean cafe,grilled veggie large catering,64,g,0,mg,9910,g,211,g,31,g,7,g,0,g,36,g,70,g
+222,tazikis mediterranean cafe,grilled veggie medium catering,63,g,0,mg,7580,g,166,g,24,g,6,g,0,g,28,g,55,g
+223,tazikis mediterranean cafe,grilled veggie small catering,61,g,0,mg,5250,g,121,g,18,g,5,g,0,g,21,g,41,g
+224,tazikis mediterranean cafe,grilled veggies for 4,16,g,0,mg,1130,g,42,g,8,g,1.5,g,0,g,9,g,16,g
+225,tazikis mediterranean cafe,grilled veggies for 6,23,g,0,mg,1690,g,64,g,12,g,2,g,0,g,13,g,24,g
+226,tazikis mediterranean cafe,grilled veggies for 8,31,g,0,mg,2250,g,85,g,16,g,3,g,0,g,17,g,32,g
+227,tazikis mediterranean cafe,homemade chicken salad sandwich,43,g,85,mg,890,g,61,g,37,g,8,g,0,g,5,g,7,g
+228,tazikis mediterranean cafe,horseradish sauce catering,30,g,25,mg,530,g,1,g,1,g,5,g,0,g,0,g,1,g
+229,tazikis mediterranean cafe,horseradish sauce for 4,90,g,80,mg,1580,g,3,g,2,g,16,g,0,g,0,g,3,g
+230,tazikis mediterranean cafe,horseradish sauce for 6,239,g,215,mg,4210,g,8,g,5,g,43,g,0,g,1,g,7,g
+231,tazikis mediterranean cafe,horseradish sauce for 8,239,g,215,mg,4210,g,8,g,5,g,43,g,0,g,1,g,7,g
+232,tazikis mediterranean cafe,hummus dip,24,g,0,mg,1250,g,28,g,10,g,2,g,0,g,8,g,5,g
+233,tazikis mediterranean cafe,hummus 1 pint catering,70,g,0,mg,3780,g,234,g,49,g,6,g,0,g,22,g,21,g
+234,tazikis mediterranean cafe,hummus 2 pints catering,140,g,0,mg,7570,g,468,g,98,g,11,g,0,g,43,g,41,g
+235,tazikis mediterranean cafe,lamb and skordalia gyro,31,g,70,mg,1500,g,74,g,35,g,6,g,0,g,4,g,5,g
+236,tazikis mediterranean cafe,lamb feast,33,g,150,mg,1120,g,25,g,53,g,8,g,0,g,3,g,4,g
+237,tazikis mediterranean cafe,lamb feast catering,20,g,145,mg,190,g,1,g,47,g,6,g,0,g,0,g,0,g
+238,tazikis mediterranean cafe,lamb for 4,81,g,580,mg,450,g,0,g,188,g,24,g,0,g,0,g,0,g
+239,tazikis mediterranean cafe,lamb for 6,122,g,865,mg,670,g,0,g,282,g,35,g,0,g,0,g,0,g
+240,tazikis mediterranean cafe,lamb for 8,162,g,1155,mg,900,g,0,g,376,g,47,g,0,g,0,g,0,g
+241,tazikis mediterranean cafe,lamb gyro,34,g,90,mg,1020,g,65,g,40,g,8,g,0,g,4,g,6,g
+242,tazikis mediterranean cafe,lamb hamburger,29,g,110,mg,1080,g,45,g,37,g,12,g,0,g,2,g,6,g
+243,tazikis mediterranean cafe,lemonade,0,g,0,mg,160,g,63,g,0,g,0,g,0,g,0,g,63,g
+244,tazikis mediterranean cafe,lemonade gallon,2.5,g,0,mg,1050,g,492,g,10,g,0,g,0,g,39,g,403,g
+245,tazikis mediterranean cafe,macadamia white chocolate cookies dozen,84,g,120,mg,1260,g,216,g,24,g,42,g,0,g,0,g,144,g
+246,tazikis mediterranean cafe,mediterranean gyro,42,g,385,mg,1690,g,62,g,27,g,7,g,0,g,4,g,6,g
+247,tazikis mediterranean cafe,mediterranean salad,22,g,10,mg,830,g,35,g,11,g,3.5,g,0,g,7,g,8,g
+248,tazikis mediterranean cafe,mediterranean salad catering,57,g,5,mg,560,g,34,g,6,g,5,g,0,g,4,g,11,g
+249,tazikis mediterranean cafe,mediterranean salad for 4,46,g,30,mg,1780,g,55,g,24,g,8,g,0,g,14,g,16,g
+250,tazikis mediterranean cafe,mediterranean salad for 6,68,g,45,mg,2640,g,78,g,34,g,12,g,0,g,19,g,22,g
+251,tazikis mediterranean cafe,mediterranean salad for 8,92,g,65,mg,3550,g,110,g,48,g,17,g,0,g,29,g,31,g
+252,tazikis mediterranean cafe,mediterranean salad boxed lunch,76,g,20,mg,1060,g,71,g,13,g,11,g,0,g,8,g,30,g
+253,tazikis mediterranean cafe,mediterranean salad large catering,929,g,160,mg,12540,g,656,g,145,g,92,g,0,g,69,g,178,g
+254,tazikis mediterranean cafe,mediterranean salad medium catering,908,g,120,mg,9860,g,563,g,116,g,85,g,0,g,58,g,157,g
+255,tazikis mediterranean cafe,mediterranean salad small,11,g,5,mg,450,g,22,g,6,g,1.5,g,0,g,4,g,4,g
+256,tazikis mediterranean cafe,mediterranean salad small catering,466,g,80,mg,6440,g,348,g,75,g,46,g,0,g,35,g,90,g
+257,tazikis mediterranean cafe,mountain berry blast powerade,0,g,0,mg,250,g,48,g,0,g,0,g,0,g,0,g,34,g
+258,tazikis mediterranean cafe,mr pibb,0.5,g,0,mg,60,g,64,g,0,g,0,g,0,g,0,g,0,g
+259,tazikis mediterranean cafe,pasta salad large catering,411,g,120,mg,10110,g,708,g,177,g,49,g,0,g,40,g,32,g
+260,tazikis mediterranean cafe,pasta salad medium catering,305,g,80,mg,7340,g,531,g,130,g,35,g,0,g,30,g,24,g
+261,tazikis mediterranean cafe,pasta salad small catering,200,g,40,mg,4570,g,353,g,82,g,21,g,0,g,20,g,16,g
+262,tazikis mediterranean cafe,pimento cheese 1 pint catering,195,g,345,mg,3940,g,172,g,72,g,62,g,0,g,2,g,9,g
+263,tazikis mediterranean cafe,pimento cheese 2 pints catering,389,g,690,mg,7870,g,345,g,144,g,124,g,0,g,3,g,18,g
+264,tazikis mediterranean cafe,pint of balsamic vinaigrette,301,g,0,mg,730,g,81,g,1,g,21,g,0,g,1,g,43,g
+265,tazikis mediterranean cafe,pint of chicken salad,102,g,340,mg,1160,g,5,g,97,g,19,g,0,g,1,g,2,g
+266,tazikis mediterranean cafe,pint of fresh cut fruit,0.5,g,0,mg,35,g,50,g,3,g,0,g,0,g,3,g,42,g
+267,tazikis mediterranean cafe,pint of greek dressing,273,g,0,mg,1540,g,9,g,1,g,20,g,0,g,1,g,0,g
+268,tazikis mediterranean cafe,pint of hummus,58,g,0,mg,2400,g,74,g,26,g,5,g,0,g,21,g,13,g
+269,tazikis mediterranean cafe,pint of pasta salad,49,g,5,mg,1030,g,88,g,19,g,4.5,g,0,g,5,g,4,g
+270,tazikis mediterranean cafe,pint of pimento cheese,183,g,345,mg,2550,g,12,g,49,g,61,g,0,g,1,g,1,g
+271,tazikis mediterranean cafe,pint of salsa,1,g,0,mg,4450,g,36,g,7,g,0,g,0,g,7,g,19,g
+272,tazikis mediterranean cafe,pint of taziki,26,g,90,mg,2290,g,25,g,23,g,16,g,1,g,4,g,11,g
+273,tazikis mediterranean cafe,pint of tomato chutney,256,g,235,mg,3360,g,62,g,2,g,47,g,0,g,0,g,48,g
+274,tazikis mediterranean cafe,pint of tomato cucumber salad,12,g,5,mg,1880,g,18,g,4,g,1.5,g,0,g,2,g,8,g
+275,tazikis mediterranean cafe,pint of whipped feta,178,g,390,mg,4030,g,22,g,51,g,75,g,0,g,1,g,7,g
+276,tazikis mediterranean cafe,pork feast,78,g,225,mg,1400,g,28,g,57,g,21,g,0,g,5,g,10,g
+277,tazikis mediterranean cafe,pork feast catering,37,g,165,mg,180,g,3,g,51,g,8,g,0,g,1,g,0,g
+278,tazikis mediterranean cafe,pork for 4,150,g,660,mg,740,g,13,g,203,g,33,g,1,g,3,g,2,g
+279,tazikis mediterranean cafe,pork for 6,225,g,990,mg,1110,g,19,g,305,g,49,g,1.5,g,4,g,2,g
+280,tazikis mediterranean cafe,pork for 8,299,g,1320,mg,1480,g,25,g,406,g,65,g,1.5,g,6,g,3,g
+281,tazikis mediterranean cafe,pork sandwich,76,g,185,mg,1040,g,63,g,61,g,15,g,0,g,4,g,9,g
+282,tazikis mediterranean cafe,potatoes for 4,44,g,0,mg,1330,g,91,g,11,g,3.5,g,0,g,9,g,4,g
+283,tazikis mediterranean cafe,potatoes for 6,66,g,0,mg,2000,g,137,g,16,g,5,g,0,g,14,g,7,g
+284,tazikis mediterranean cafe,potatoes for 8,88,g,0,mg,2660,g,183,g,22,g,7,g,0,g,18,g,9,g
+285,tazikis mediterranean cafe,potatoes large catering,318,g,0,mg,9580,g,658,g,78,g,24,g,0,g,65,g,32,g
+286,tazikis mediterranean cafe,potatoes medium catering,239,g,0,mg,7190,g,493,g,59,g,18,g,0,g,49,g,24,g
+287,tazikis mediterranean cafe,potatoes small catering,159,g,0,mg,4790,g,329,g,39,g,12,g,0,g,32,g,16,g
+288,tazikis mediterranean cafe,quinoa bowl,13,g,20,mg,2210,g,67,g,18,g,3.5,g,0,g,7,g,6,g
+289,tazikis mediterranean cafe,quinoa bowl with vegetables,33,g,50,mg,2890,g,80,g,21,g,12,g,0,g,10,g,10,g
+290,tazikis mediterranean cafe,quinoa for 4,8,g,0,mg,1410,g,91,g,19,g,0,g,0,g,9,g,2,g
+291,tazikis mediterranean cafe,quinoa for 6,11,g,0,mg,2120,g,136,g,28,g,0,g,0,g,14,g,2,g
+292,tazikis mediterranean cafe,quinoa for 8,15,g,0,mg,2820,g,181,g,37,g,0,g,0,g,18,g,3,g
+293,tazikis mediterranean cafe,quinoa large catering,81,g,90,mg,12460,g,679,g,158,g,16,g,1,g,70,g,22,g
+294,tazikis mediterranean cafe,quinoa medium catering,67,g,90,mg,9920,g,516,g,125,g,16,g,1,g,53,g,20,g
+295,tazikis mediterranean cafe,quinoa small catering,54,g,90,mg,7370,g,352,g,91,g,16,g,1,g,37,g,17,g
+296,tazikis mediterranean cafe,rice for 4,40,g,100,mg,680,g,112,g,13,g,25,g,0,g,2,g,2,g
+297,tazikis mediterranean cafe,rice for 6,59,g,150,mg,1020,g,167,g,19,g,37,g,0,g,3,g,3,g
+298,tazikis mediterranean cafe,rice for 8,79,g,205,mg,1360,g,223,g,25,g,49,g,0,g,4,g,5,g
+299,tazikis mediterranean cafe,rice large catering,285,g,730,mg,4920,g,804,g,91,g,177,g,0,g,14,g,17,g
+300,tazikis mediterranean cafe,rice medium catering,214,g,550,mg,3690,g,604,g,68,g,133,g,0,g,10,g,12,g
+301,tazikis mediterranean cafe,rice small catering,143,g,365,mg,2460,g,402,g,45,g,89,g,0,g,7,g,8,g
+302,tazikis mediterranean cafe,root beer,0,g,0,mg,90,g,74,g,0,g,0,g,0,g,0,g,74,g
+303,tazikis mediterranean cafe,salmon feast,43,g,140,mg,1030,g,18,g,47,g,10,g,0,g,4,g,4,g
+304,tazikis mediterranean cafe,salmon feast catering,38,g,135,mg,400,g,4,g,43,g,9,g,0,g,1,g,0,g
+305,tazikis mediterranean cafe,salmon for 4,152,g,545,mg,1600,g,16,g,172,g,36,g,0,g,5,g,2,g
+306,tazikis mediterranean cafe,salmon for 6,228,g,820,mg,2400,g,24,g,257,g,53,g,0,g,7,g,2,g
+307,tazikis mediterranean cafe,salmon for 8,304,g,1095,mg,3200,g,31,g,343,g,71,g,0,g,9,g,3,g
+308,tazikis mediterranean cafe,salsa catering,0,g,0,mg,560,g,4,g,1,g,0,g,0,g,1,g,2,g
+309,tazikis mediterranean cafe,shrimp feast,26,g,215,mg,1730,g,20,g,24,g,10,g,0,g,4,g,4,g
+310,tazikis mediterranean cafe,shrimp feast catering,21,g,210,mg,1100,g,5,g,20,g,8,g,0,g,1,g,0,g
+311,tazikis mediterranean cafe,shrimp for 4,86,g,840,mg,4400,g,21,g,79,g,33,g,0,g,5,g,2,g
+312,tazikis mediterranean cafe,shrimp for 6,129,g,1260,mg,6600,g,31,g,118,g,50,g,0,g,7,g,2,g
+313,tazikis mediterranean cafe,shrimp for 8,171,g,1675,mg,8800,g,42,g,158,g,67,g,0,g,9,g,3,g
+314,tazikis mediterranean cafe,shrimp kebob feast,18,g,190,mg,1770,g,25,g,22,g,9,g,0,g,5,g,7,g
+315,tazikis mediterranean cafe,shrimp kebob for 4,52,g,735,mg,4530,g,41,g,71,g,31,g,0,g,8,g,14,g
+316,tazikis mediterranean cafe,shrimp kebob for 6,78,g,1105,mg,6790,g,61,g,106,g,47,g,0,g,13,g,21,g
+317,tazikis mediterranean cafe,shrimp kebob for 8,104,g,1475,mg,9060,g,82,g,142,g,62,g,0,g,17,g,28,g
+318,tazikis mediterranean cafe,shrimp kebob grilled,13,g,185,mg,1130,g,10,g,18,g,8,g,0,g,2,g,4,g
+319,tazikis mediterranean cafe,shrimp taco,53,g,235,mg,1800,g,55,g,28,g,15,g,0,g,4,g,5,g
+320,tazikis mediterranean cafe,side of asparagus,12,g,30,mg,270,g,5,g,2,g,7,g,0,g,2,g,2,g
+321,tazikis mediterranean cafe,side of balsamic vinaigrette,28,g,0,mg,70,g,8,g,0,g,2,g,0,g,0,g,4,g
+322,tazikis mediterranean cafe,side of basil pesto,21,g,5,mg,380,g,3,g,6,g,3,g,0,g,1,g,1,g
+323,tazikis mediterranean cafe,side of basil pesto aioli,27,g,20,mg,270,g,2,g,3,g,4.5,g,0,g,1,g,0,g
+324,tazikis mediterranean cafe,side of basmati rice,10,g,25,mg,170,g,28,g,3,g,6,g,0,g,0,g,1,g
+325,tazikis mediterranean cafe,side of beef,19,g,110,mg,350,g,2,g,37,g,4.5,g,0,g,0,g,0,g
+326,tazikis mediterranean cafe,side of beef kebob 1 piece,7,g,45,mg,180,g,1,g,15,g,2.5,g,0,g,0,g,0,g
+327,tazikis mediterranean cafe,side of beef kebob 2 piece,14,g,90,mg,360,g,2,g,29,g,5,g,0,g,0,g,0,g
+328,tazikis mediterranean cafe,side of caesar dressing,25,g,25,mg,370,g,1,g,3,g,5,g,0,g,0,g,0,g
+329,tazikis mediterranean cafe,side of chicken,7,g,120,mg,190,g,2,g,44,g,1.5,g,0,g,0,g,0,g
+330,tazikis mediterranean cafe,side of chicken kebob 1 piece,5,g,60,mg,200,g,1,g,21,g,1.5,g,0,g,0,g,0,g
+331,tazikis mediterranean cafe,side of chicken kebob 2 piece,11,g,125,mg,400,g,2,g,43,g,3.5,g,0,g,0,g,0,g
+332,tazikis mediterranean cafe,side of chicken roll up,7,g,35,mg,620,g,24,g,15,g,2.5,g,0,g,1,g,2,g
+333,tazikis mediterranean cafe,side of chicken salad,28,g,95,mg,320,g,1,g,27,g,5,g,0,g,0,g,1,g
+334,tazikis mediterranean cafe,side of chips,10,g,0,mg,140,g,15,g,2,g,1.5,g,0,g,1,g,1,g
+335,tazikis mediterranean cafe,side of feta,5,g,20,mg,460,g,1,g,6,g,3,g,0,g,0,g,0,g
+336,tazikis mediterranean cafe,side of fresh cut fruit,0,g,0,mg,10,g,14,g,1,g,0,g,0,g,1,g,12,g
+337,tazikis mediterranean cafe,side of garbanzo beans,3.5,g,0,mg,115,g,9,g,3,g,0,g,0,g,3,g,2,g
+338,tazikis mediterranean cafe,side of greek dressing,34,g,0,mg,190,g,1,g,0,g,2.5,g,0,g,0,g,0,g
+339,tazikis mediterranean cafe,side of greek lemon chicken soup,12,g,75,mg,1290,g,7,g,24,g,3,g,0,g,1,g,3,g
+340,tazikis mediterranean cafe,side of grilled veggies,9,g,0,mg,410,g,9,g,1,g,0.5,g,0,g,2,g,3,g
+341,tazikis mediterranean cafe,side of horseradish sauce,22,g,20,mg,390,g,1,g,0,g,4,g,0,g,0,g,1,g
+342,tazikis mediterranean cafe,side of hummus,7,g,0,mg,300,g,9,g,3,g,0.5,g,0,g,3,g,2,g
+343,tazikis mediterranean cafe,side of hummus with pita chips,18,g,0,mg,1350,g,79,g,14,g,1.5,g,0,g,4,g,6,g
+344,tazikis mediterranean cafe,side of hummus with soft pita,14,g,0,mg,1040,g,77,g,14,g,1.5,g,0,g,4,g,6,g
+345,tazikis mediterranean cafe,side of lamb,20,g,145,mg,190,g,1,g,47,g,6,g,0,g,0,g,0,g
+346,tazikis mediterranean cafe,side of mashed potato,18,g,45,mg,430,g,29,g,5,g,11,g,0,g,3,g,4,g
+347,tazikis mediterranean cafe,side of mayo,33,g,30,mg,170,g,0,g,0,g,6,g,0,g,0,g,0,g
+348,tazikis mediterranean cafe,side of olives,8,g,0,mg,600,g,0,g,0,g,1,g,0,g,0,g,0,g
+349,tazikis mediterranean cafe,side of parmesan,7,g,20,mg,390,g,1,g,10,g,4.5,g,0,g,0,g,0,g
+350,tazikis mediterranean cafe,side of pasta,15,g,5,mg,330,g,27,g,6,g,1.5,g,0,g,2,g,1,g
+351,tazikis mediterranean cafe,side of pecans,18,g,0,mg,0,g,6,g,1,g,1.5,g,0,g,2,g,1,g
+352,tazikis mediterranean cafe,side of pepperoncini,0,g,0,mg,450,g,2,g,0,g,0,g,0,g,1,g,1,g
+353,tazikis mediterranean cafe,side of pimento cheese,24,g,45,mg,330,g,2,g,6,g,8,g,0,g,0,g,0,g
+354,tazikis mediterranean cafe,side of pork,37,g,165,mg,180,g,3,g,51,g,8,g,0,g,1,g,0,g
+355,tazikis mediterranean cafe,side of potato,11,g,0,mg,330,g,23,g,3,g,1,g,0,g,2,g,1,g
+356,tazikis mediterranean cafe,side of quinoa,2,g,0,mg,350,g,23,g,5,g,0,g,0,g,2,g,0,g
+357,tazikis mediterranean cafe,side of roasted red peppers,0,g,0,mg,210,g,3,g,0,g,0,g,0,g,0,g,2,g
+358,tazikis mediterranean cafe,side of salmon,38,g,135,mg,400,g,4,g,43,g,9,g,0,g,1,g,0,g
+359,tazikis mediterranean cafe,side of salsa,0,g,0,mg,420,g,3,g,1,g,0,g,0,g,1,g,2,g
+360,tazikis mediterranean cafe,side of shrimp,21,g,210,mg,1100,g,5,g,20,g,8,g,0,g,1,g,0,g
+361,tazikis mediterranean cafe,side of shrimp kebob 1 piece,7,g,90,mg,570,g,5,g,9,g,4,g,0,g,1,g,2,g
+362,tazikis mediterranean cafe,side of shrimp kebob 2 piece,13,g,185,mg,1130,g,10,g,18,g,8,g,0,g,2,g,4,g
+363,tazikis mediterranean cafe,side of skordalia,8,g,0,mg,300,g,10,g,2,g,0.5,g,0,g,0,g,0,g
+364,tazikis mediterranean cafe,side of tartar sauce,17,g,15,mg,450,g,1,g,0,g,3,g,0,g,0,g,0,g
+365,tazikis mediterranean cafe,side of taziki dip,2.5,g,10,mg,210,g,2,g,2,g,1.5,g,0,g,0,g,1,g
+366,tazikis mediterranean cafe,side of taziki with pita chips,12,g,15,mg,1340,g,70,g,13,g,4,g,0,g,1,g,5,g
+367,tazikis mediterranean cafe,side of taziki with soft pita,8,g,15,mg,1030,g,68,g,13,g,3.5,g,0,g,1,g,5,g
+368,tazikis mediterranean cafe,side of tomato basil soup,8,g,15,mg,940,g,19,g,4,g,3.5,g,0,g,3,g,11,g
+369,tazikis mediterranean cafe,side of tomato chutney,24,g,20,mg,320,g,6,g,0,g,4.5,g,0,g,0,g,5,g
+370,tazikis mediterranean cafe,side of tomato cucumber salad,3.5,g,5,mg,550,g,5,g,2,g,0.5,g,0,g,1,g,2,g
+371,tazikis mediterranean cafe,side of turkey,11,g,60,mg,1190,g,6,g,22,g,0.5,g,0,g,0,g,4,g
+372,tazikis mediterranean cafe,side of veggie cous cous,9,g,5,mg,640,g,22,g,3,g,1,g,0,g,1,g,2,g
+373,tazikis mediterranean cafe,signature pasta,76,g,120,mg,1270,g,101,g,59,g,8,g,0,g,6,g,12,g
+374,tazikis mediterranean cafe,signature pasta boxed lunch,76,g,120,mg,1270,g,101,g,59,g,8,g,0,g,6,g,12,g
+375,tazikis mediterranean cafe,signature pasta large catering,786,g,1035,mg,13780,g,992,g,521,g,89,g,0,g,58,g,133,g
+376,tazikis mediterranean cafe,signature pasta medium catering,668,g,775,mg,10950,g,814,g,398,g,73,g,0,g,44,g,113,g
+377,tazikis mediterranean cafe,signature pasta small,38,g,60,mg,670,g,54,g,30,g,4,g,0,g,3,g,6,g
+378,tazikis mediterranean cafe,signature pasta small catering,545,g,515,mg,7430,g,557,g,264,g,55,g,0,g,29,g,89,g
+379,tazikis mediterranean cafe,skordalia for 4,30,g,0,mg,1210,g,38,g,8,g,2.5,g,0,g,2,g,2,g
+380,tazikis mediterranean cafe,skordalia for 6,80,g,0,mg,3220,g,102,g,22,g,7,g,0,g,5,g,5,g
+381,tazikis mediterranean cafe,skordalia for 8,80,g,0,mg,3220,g,102,g,22,g,7,g,0,g,5,g,5,g
+382,tazikis mediterranean cafe,sneaky taziki,12,g,70,mg,550,g,25,g,26,g,5,g,0,g,1,g,2,g
+383,tazikis mediterranean cafe,soft pita for 4,0,g,0,mg,480,g,126,g,18,g,0,g,0,g,0,g,6,g
+384,tazikis mediterranean cafe,soft pita for 6,0,g,0,mg,720,g,189,g,27,g,0,g,0,g,0,g,9,g
+385,tazikis mediterranean cafe,soft pita for 8,0,g,0,mg,960,g,252,g,36,g,0,g,0,g,0,g,12,g
+386,tazikis mediterranean cafe,soft pita 40 pieces,23,g,0,mg,2770,g,321,g,45,g,1.5,g,0,g,1,g,15,g
+387,tazikis mediterranean cafe,spanakopita roll ups,27,g,110,mg,2040,g,75,g,55,g,8,g,0,g,8,g,6,g
+388,tazikis mediterranean cafe,sparkling water,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+389,tazikis mediterranean cafe,spicy bacon egg and cheese roll ups,63,g,440,mg,1700,g,50,g,35,g,16,g,0,g,2,g,4,g
+390,tazikis mediterranean cafe,spicy egg and cheese roll ups,55,g,415,mg,1320,g,49,g,27,g,13,g,0,g,2,g,4,g
+391,tazikis mediterranean cafe,spicy pimento cheese,60,g,110,mg,1150,g,4,g,16,g,19,g,0,g,1,g,1,g
+392,tazikis mediterranean cafe,spicy pimento cheese sandwich,76,g,110,mg,1500,g,68,g,28,g,23,g,0,g,3,g,2,g
+393,tazikis mediterranean cafe,sprite,0,g,0,mg,115,g,64,g,1,g,0,g,0,g,0,g,61,g
+394,tazikis mediterranean cafe,sweet tea,0,g,0,mg,0,g,52,g,0,g,0,g,0,g,0,g,50,g
+395,tazikis mediterranean cafe,sweet tea gallon,0,g,0,mg,0,g,331,g,0,g,0,g,0,g,0,g,319,g
+396,tazikis mediterranean cafe,taziki dip,11,g,30,mg,1070,g,8,g,7,g,5,g,0,g,1,g,4,g
+397,tazikis mediterranean cafe,taziki dip 1 pint catering,38,g,90,mg,3670,g,186,g,46,g,17,g,1,g,5,g,19,g
+398,tazikis mediterranean cafe,taziki dip 2 pints catering,76,g,180,mg,7340,g,371,g,92,g,34,g,2,g,9,g,38,g
+399,tazikis mediterranean cafe,taziki sauce catering,3.5,g,10,mg,290,g,3,g,3,g,2,g,0,g,0,g,1,g
+400,tazikis mediterranean cafe,taziki sauce for 4,10,g,35,mg,860,g,9,g,9,g,6,g,0,g,1,g,4,g
+401,tazikis mediterranean cafe,taziki sauce for 6,26,g,90,mg,2290,g,25,g,23,g,16,g,1,g,4,g,11,g
+402,tazikis mediterranean cafe,taziki sauce for 8,26,g,90,mg,2290,g,25,g,23,g,16,g,1,g,4,g,11,g
+403,tazikis mediterranean cafe,tinos salad large catering,206,g,210,mg,23980,g,268,g,96,g,49,g,1,g,50,g,131,g
+404,tazikis mediterranean cafe,tinos salad medium catering,148,g,170,mg,18320,g,203,g,75,g,39,g,1,g,39,g,99,g
+405,tazikis mediterranean cafe,tinos salad small catering,111,g,130,mg,12650,g,145,g,53,g,29,g,1,g,27,g,71,g
+406,tazikis mediterranean cafe,tomato basil sandwich,36,g,20,mg,1240,g,63,g,22,g,8,g,0,g,5,g,7,g
+407,tazikis mediterranean cafe,tomato basil soup with pita chips,11,g,20,mg,1210,g,35,g,8,g,4.5,g,0,g,3,g,11,g
+408,tazikis mediterranean cafe,tomato chutney catering,32,g,30,mg,420,g,8,g,0,g,6,g,0,g,0,g,6,g
+409,tazikis mediterranean cafe,tomato chutney for 4,96,g,85,mg,1260,g,23,g,1,g,17,g,0,g,0,g,18,g
+410,tazikis mediterranean cafe,tomato chutney for 6,256,g,235,mg,3360,g,62,g,2,g,47,g,0,g,0,g,48,g
+411,tazikis mediterranean cafe,tomato chutney for 8,256,g,235,mg,3360,g,62,g,2,g,47,g,0,g,0,g,48,g
+412,tazikis mediterranean cafe,tomato cucumber salad large catering,116,g,120,mg,16980,g,150,g,61,g,26,g,0,g,17,g,62,g
+413,tazikis mediterranean cafe,tomato cucumber salad medium catering,84,g,80,mg,12490,g,112,g,42,g,18,g,0,g,13,g,47,g
+414,tazikis mediterranean cafe,tomato cucumber salad small catering,53,g,40,mg,8000,g,74,g,24,g,10,g,0,g,9,g,31,g
+415,tazikis mediterranean cafe,turkey and egg sandwich,64,g,285,mg,2090,g,70,g,47,g,14,g,0,g,3,g,6,g
+416,tazikis mediterranean cafe,turkey club gyro,66,g,110,mg,2360,g,68,g,45,g,13,g,0,g,5,g,8,g
+417,tazikis mediterranean cafe,turkey melt,22,g,60,mg,1300,g,47,g,25,g,6,g,0,g,2,g,4,g
+418,tazikis mediterranean cafe,turkey sandwich,50,g,80,mg,2040,g,66,g,32,g,7,g,0,g,3,g,13,g
+419,tazikis mediterranean cafe,unsweet tea,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+420,tazikis mediterranean cafe,unsweet tea gallon,0,g,0,mg,0,g,11,g,0,g,0,g,0,g,0,g,0,g
+421,tazikis mediterranean cafe,veggie feast for 4,16,g,0,mg,1130,g,42,g,8,g,1.5,g,0,g,9,g,16,g
+422,tazikis mediterranean cafe,veggie feast for 6,23,g,0,mg,1690,g,64,g,12,g,2,g,0,g,13,g,24,g
+423,tazikis mediterranean cafe,veggie feast for 8,31,g,0,mg,2250,g,85,g,16,g,3,g,0,g,17,g,32,g
+424,tazikis mediterranean cafe,veggie feast boxed lunch,28,g,45,mg,1530,g,30,g,9,g,11,g,0,g,6,g,9,g
+425,tazikis mediterranean cafe,veggie gyro catering,16,g,0,mg,930,g,52,g,9,g,1.5,g,0,g,4,g,5,g
+426,tazikis mediterranean cafe,veggie gyro boxed lunch,62,g,35,mg,1600,g,93,g,18,g,13,g,0,g,6,g,22,g
+427,tazikis mediterranean cafe,water gallon,0,g,0,mg,150,g,0,g,0,g,0,g,0,g,0,g,0,g
+428,tazikis mediterranean cafe,whipped feta,47,g,100,mg,1360,g,23,g,13,g,19,g,0,g,0,g,18,g
+429,tazikis mediterranean cafe,whipped feta 1 pint catering,190,g,390,mg,5410,g,183,g,74,g,76,g,0,g,1,g,14,g
+430,tazikis mediterranean cafe,whipped feta 2 pints catering,379,g,780,mg,10830,g,366,g,147,g,151,g,0,g,3,g,28,g
+431,tazikis mediterranean cafe,white chocolate macadamia cookies,7,g,10,mg,105,g,18,g,2,g,3.5,g,0,g,0,g,12,g
+432,tazikis mediterranean cafe,white chocolate macadamia nut cookies,14,g,20,mg,210,g,36,g,4,g,7,g,0,g,0,g,24,g
+433,teds montana grill,12oz certified angus beef ny strip,131,g,295,mg,1660,g,2,g,61,g,42,g,4,g,0,g,0,g
+434,teds montana grill,12oz certified angus beef ny strip gluten free,131,g,295,mg,1660,g,2,g,61,g,42,g,4,g,0,g,0,g
+435,teds montana grill,1977 americas cup burger beef,72,g,335,mg,2870,g,79,g,61,g,22,g,0.5,g,6,g,14,g
+436,teds montana grill,1977 americas cup burger beef gluten free,74,g,330,mg,2890,g,76,g,55,g,22,g,0.5,g,7,g,10,g
+437,teds montana grill,1977 americas cup burger bison,66,g,345,mg,2880,g,79,g,64,g,19,g,0,g,6,g,14,g
+438,teds montana grill,1977 americas cup burger bison gluten free,68,g,340,mg,2900,g,76,g,58,g,19,g,0,g,7,g,10,g
+439,teds montana grill,50 50 fries and onion rings,33,g,5,mg,1070,g,46,g,6,g,2.5,g,0,g,4,g,3,g
+440,teds montana grill,absolute best fish sandwich,72,g,75,mg,1620,g,101,g,40,g,7,g,0,g,9,g,9,g
+441,teds montana grill,all natural roasted chicken,98,g,365,mg,2250,g,67,g,105,g,29,g,1,g,8,g,19,g
+442,teds montana grill,apple pecan crisp w ice cream,49,g,185,mg,280,g,113,g,8,g,28,g,1.5,g,2,g,98,g
+443,teds montana grill,arnold palmer,0,g,0,mg,5,g,13,g,0,g,0,g,0,g,0,g,12,g
+444,teds montana grill,avalon burger beef,73,g,155,mg,2020,g,74,g,55,g,22,g,0.5,g,5,g,11,g
+445,teds montana grill,avalon burger beef gluten free,75,g,150,mg,2040,g,71,g,49,g,22,g,0.5,g,6,g,7,g
+446,teds montana grill,avalon burger bison,67,g,165,mg,2030,g,74,g,58,g,20,g,0,g,5,g,11,g
+447,teds montana grill,avalon burger bison gluten free,69,g,160,mg,2050,g,71,g,52,g,20,g,0,g,6,g,7,g
+448,teds montana grill,baked potato plain,4.5,g,0,mg,960,g,65,g,5,g,0.5,g,0,g,5,g,2,g
+449,teds montana grill,baked potato loaded,28,g,65,mg,1410,g,66,g,15,g,14,g,0,g,5,g,3,g
+450,teds montana grill,baked potato soup bowl,49,g,140,mg,2420,g,38,g,18,g,29,g,1.5,g,3,g,11,g
+451,teds montana grill,baked potato soup cup,28,g,80,mg,1420,g,23,g,10,g,17,g,1,g,2,g,7,g
+452,teds montana grill,balsamic blue bison salad,22,g,165,mg,2140,g,22,g,61,g,8,g,0,g,3,g,5,g
+453,teds montana grill,balsamic blue steak salad,35,g,110,mg,2760,g,22,g,43,g,9,g,0,g,3,g,5,g
+454,teds montana grill,balsamic blue steak salad no onion straws,32,g,110,mg,2550,g,12,g,42,g,9,g,0,g,3,g,4,g
+455,teds montana grill,bar none sliders beef,55,g,125,mg,1690,g,86,g,46,g,16,g,1,g,4,g,8,g
+456,teds montana grill,bar none sliders bison,48,g,135,mg,1680,g,85,g,48,g,14,g,0,g,4,g,8,g
+457,teds montana grill,beef prime rib 12 oz,115,g,275,mg,3110,g,2,g,73,g,48,g,0,g,0,g,1,g
+458,teds montana grill,beef prime rib 12 oz no au jus gluten free,115,g,275,mg,2890,g,2,g,73,g,48,g,0,g,0,g,1,g
+459,teds montana grill,beef prime rib 16 oz,154,g,370,mg,4070,g,3,g,97,g,64,g,0,g,0,g,1,g
+460,teds montana grill,beef prime rib 16 oz no au jus gluten free,154,g,365,mg,3850,g,2,g,97,g,64,g,0,g,0,g,1,g
+461,teds montana grill,big sky grilled salad beef burger,58,g,335,mg,1630,g,25,g,58,g,24,g,0.5,g,8,g,8,g
+462,teds montana grill,big sky grilled salad beef burger no croutons,56,g,330,mg,1520,g,18,g,57,g,24,g,0.5,g,8,g,7,g
+463,teds montana grill,big sky grilled salad bison burger,52,g,345,mg,1640,g,25,g,61,g,22,g,0,g,8,g,8,g
+464,teds montana grill,big sky grilled salad bison burger no croutons,50,g,340,mg,1530,g,18,g,60,g,21,g,0,g,8,g,7,g
+465,teds montana grill,big sky grilled salad grilled chicken,52,g,350,mg,1320,g,25,g,71,g,19,g,0,g,8,g,8,g
+466,teds montana grill,big sky grilled salad grilled chicken no croutons,50,g,350,mg,1210,g,18,g,70,g,19,g,0,g,8,g,7,g
+467,teds montana grill,big sky grilled salad salmon,59,g,320,mg,1030,g,25,g,60,g,22,g,0,g,8,g,8,g
+468,teds montana grill,big sky grilled salad salmon no croutons,57,g,320,mg,920,g,18,g,59,g,21,g,0,g,8,g,7,g
+469,teds montana grill,big sky lemonade,0,g,0,mg,0,g,16,g,0,g,0,g,0,g,0,g,6,g
+470,teds montana grill,bison brisket,57,g,315,mg,1700,g,69,g,57,g,30,g,1.5,g,9,g,12,g
+471,teds montana grill,bison chopped steak,55,g,285,mg,1710,g,48,g,61,g,29,g,1.5,g,9,g,10,g
+472,teds montana grill,bison meatloaf,55,g,270,mg,2380,g,88,g,43,g,29,g,0.5,g,10,g,22,g
+473,teds montana grill,bison meatloaf w mashed potatoes carrots gravy and roll kids,33,g,165,mg,1110,g,53,g,22,g,18,g,1,g,5,g,12,g
+474,teds montana grill,bison nachos,75,g,165,mg,2280,g,92,g,42,g,29,g,1.5,g,10,g,12,g
+475,teds montana grill,bison short ribs,52,g,265,mg,1940,g,46,g,60,g,28,g,1.5,g,7,g,10,g
+476,teds montana grill,bison steak kids,18,g,95,mg,730,g,0,g,35,g,3,g,0,g,0,g,0,g
+477,teds montana grill,blt salad dressing,9,g,10,mg,115,g,1,g,1,g,2,g,0,g,0,g,1,g
+478,teds montana grill,blue cheese salad dressing,9,g,15,mg,160,g,1,g,2,g,2.5,g,0,g,0,g,0,g
+479,teds montana grill,blue creek burger beef,65,g,155,mg,2420,g,74,g,57,g,21,g,0.5,g,5,g,10,g
+480,teds montana grill,blue creek burger beef gluten free,67,g,150,mg,2440,g,71,g,51,g,21,g,0.5,g,6,g,6,g
+481,teds montana grill,blue creek burger bison,59,g,165,mg,2430,g,74,g,60,g,19,g,0,g,5,g,10,g
+482,teds montana grill,blue creek burger bison gluten free,61,g,160,mg,2450,g,71,g,54,g,19,g,0,g,6,g,6,g
+483,teds montana grill,boylan black cherry soda,0,g,0,mg,0,g,35,g,0,g,0,g,0,g,0,g,35,g
+484,teds montana grill,boylan creme soda,0,g,0,mg,30,g,33,g,0,g,0,g,0,g,0,g,33,g
+485,teds montana grill,boylan orange soda,0,g,0,mg,30,g,35,g,0,g,0,g,0,g,0,g,35,g
+486,teds montana grill,buffalo 41,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,0,g,21,g
+487,teds montana grill,buttered carrots,23,g,60,mg,260,g,12,g,1,g,15,g,1,g,4,g,5,g
+488,teds montana grill,caesar salad grilled chicken,83,g,125,mg,1320,g,23,g,50,g,11,g,1,g,5,g,4,g
+489,teds montana grill,caesar salad grilled chicken no croutons,79,g,125,mg,1100,g,10,g,47,g,10,g,1,g,4,g,3,g
+490,teds montana grill,caesar salad grilled shrimp,41,g,350,mg,2570,g,14,g,41,g,6,g,0,g,3,g,2,g
+491,teds montana grill,caesar salad grilled shrimp no croutons,39,g,350,mg,2460,g,8,g,40,g,5,g,0,g,2,g,1,g
+492,teds montana grill,caesar salad salmon,90,g,95,mg,1030,g,23,g,38,g,13,g,0.5,g,5,g,4,g
+493,teds montana grill,caesar salad salmon no croutons,86,g,95,mg,810,g,10,g,36,g,12,g,0.5,g,4,g,3,g
+494,teds montana grill,caesar salad dressing,21,g,5,mg,160,g,1,g,1,g,2,g,0,g,0,g,0,g
+495,teds montana grill,caesar side salad,25,g,5,mg,370,g,11,g,4,g,3.5,g,0,g,3,g,2,g
+496,teds montana grill,caesar side salad no croutons,23,g,5,mg,260,g,5,g,4,g,3,g,0,g,2,g,1,g
+497,teds montana grill,canyon creek burger beef,77,g,355,mg,2190,g,83,g,64,g,25,g,0.5,g,5,g,19,g
+498,teds montana grill,canyon creek burger beef gluten free,78,g,350,mg,2210,g,80,g,58,g,25,g,0.5,g,6,g,15,g
+499,teds montana grill,canyon creek burger bison,71,g,365,mg,2200,g,83,g,67,g,22,g,0,g,5,g,19,g
+500,teds montana grill,canyon creek burger bison gluten free,72,g,360,mg,2220,g,80,g,61,g,22,g,0,g,6,g,15,g
+501,teds montana grill,cedar plank salmon 7 oz,78,g,185,mg,1520,g,43,g,50,g,23,g,1,g,9,g,5,g
+502,teds montana grill,cedar plank salmon 7 oz gluten free,78,g,185,mg,1520,g,43,g,50,g,23,g,1,g,9,g,5,g
+503,teds montana grill,cedar plank salmon 9 oz,85,g,215,mg,1650,g,43,g,61,g,25,g,1,g,9,g,5,g
+504,teds montana grill,cedar plank salmon 9 oz gluten free,85,g,215,mg,1650,g,43,g,61,g,25,g,1,g,9,g,5,g
+505,teds montana grill,cheeseburger beef,53,g,125,mg,2090,g,74,g,45,g,16,g,0.5,g,5,g,11,g
+506,teds montana grill,cheeseburger beef gluten free,55,g,120,mg,2110,g,71,g,39,g,16,g,0.5,g,6,g,7,g
+507,teds montana grill,cheeseburger bison,47,g,135,mg,2100,g,74,g,48,g,14,g,0,g,5,g,11,g
+508,teds montana grill,cheeseburger bison gluten free,49,g,130,mg,2120,g,71,g,42,g,14,g,0,g,6,g,7,g
+509,teds montana grill,cherry lemonade,0,g,0,mg,0,g,25,g,0,g,0,g,0,g,0,g,24,g
+510,teds montana grill,cherry syrup,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+511,teds montana grill,chicken and sausage gumbo bowl,13,g,45,mg,1760,g,31,g,14,g,4,g,0,g,5,g,9,g
+512,teds montana grill,chicken and sausage gumbo cup,8,g,25,mg,1050,g,18,g,8,g,2.5,g,0,g,3,g,5,g
+513,teds montana grill,chicken noodle soup bowl,9,g,85,mg,1810,g,32,g,18,g,2.5,g,0,g,3,g,5,g
+514,teds montana grill,chicken noodle soup cup,6,g,50,mg,1090,g,19,g,11,g,1.5,g,0,g,2,g,3,g
+515,teds montana grill,chicken tenders kids,30,g,75,mg,1950,g,47,g,27,g,4,g,0,g,1,g,6,g
+516,teds montana grill,chicken tortilla soup bowl,14,g,55,mg,2130,g,14,g,16,g,7,g,0,g,2,g,3,g
+517,teds montana grill,chicken tortilla soup cup,7,g,30,mg,1260,g,8,g,9,g,4,g,0,g,1,g,2,g
+518,teds montana grill,chocolate chip cookie,16,g,50,mg,90,g,54,g,4,g,10,g,0,g,1,g,32,g
+519,teds montana grill,chocolate malt,64,g,295,mg,340,g,132,g,18,g,37,g,2,g,2,g,112,g
+520,teds montana grill,chocolate shake,62,g,290,mg,240,g,117,g,16,g,36,g,2,g,2,g,102,g
+521,teds montana grill,chopped salad half,22,g,35,mg,730,g,30,g,12,g,7,g,0,g,4,g,5,g
+522,teds montana grill,chopped salad with grilled chicken,48,g,160,mg,1460,g,38,g,59,g,11,g,0.5,g,6,g,9,g
+523,teds montana grill,coke classic,0,g,0,mg,40,g,33,g,0,g,0,g,0,g,0,g,33,g
+524,teds montana grill,coke float,27,g,135,mg,110,g,59,g,6,g,16,g,1,g,0,g,57,g
+525,teds montana grill,cranberry gimlet,0,g,0,mg,0,g,27,g,0,g,0,g,0,g,0,g,22,g
+526,teds montana grill,creamy basil vinaigrette,9,g,0,mg,85,g,1,g,0,g,1,g,0,g,0,g,0,g
+527,teds montana grill,delicious duo burger,58,g,110,mg,1940,g,69,g,40,g,11,g,0,g,5,g,10,g
+528,teds montana grill,delmonico ribeye beef,88,g,255,mg,890,g,0,g,78,g,37,g,3,g,0,g,0,g
+529,teds montana grill,delmonico ribeye beef gluten free,88,g,255,mg,890,g,0,g,78,g,37,g,3,g,0,g,0,g
+530,teds montana grill,delmonico ribeye bison,51,g,270,mg,870,g,0,g,77,g,22,g,1,g,0,g,0,g
+531,teds montana grill,delmonico ribeye bison gluten free,51,g,270,mg,870,g,0,g,77,g,22,g,1,g,0,g,0,g
+532,teds montana grill,diet coke,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+533,teds montana grill,double chocolate cookie,20,g,50,mg,140,g,50,g,4,g,12,g,0,g,2,g,39,g
+534,teds montana grill,farmhouse salad,53,g,160,mg,1100,g,33,g,65,g,12,g,0,g,7,g,7,g
+535,teds montana grill,farmhouse salad no roasted chicken,43,g,45,mg,820,g,33,g,23,g,10,g,0,g,7,g,7,g
+536,teds montana grill,fresh cut fries,22,g,0,mg,250,g,26,g,3,g,1.5,g,0,g,3,g,1,g
+537,teds montana grill,garlic mashed potatoes,14,g,40,mg,430,g,28,g,3,g,9,g,0.5,g,2,g,2,g
+538,teds montana grill,georges classic cadillac burger beef,69,g,165,mg,3020,g,91,g,61,g,23,g,0.5,g,9,g,20,g
+539,teds montana grill,georges classic cadillac burger beef gluten free,70,g,160,mg,3040,g,88,g,55,g,23,g,0.5,g,10,g,16,g
+540,teds montana grill,georges classic cadillac burger bison,63,g,175,mg,3030,g,91,g,64,g,20,g,0,g,9,g,20,g
+541,teds montana grill,georges classic cadillac burger bison gluten free,64,g,170,mg,3050,g,88,g,58,g,20,g,0,g,10,g,16,g
+542,teds montana grill,grand agave,0,g,0,mg,0,g,37,g,0,g,0,g,0,g,0,g,29,g
+543,teds montana grill,green and hot burger beef,75,g,145,mg,2070,g,81,g,50,g,20,g,1.5,g,10,g,13,g
+544,teds montana grill,green and hot burger bison,69,g,155,mg,2080,g,81,g,53,g,17,g,1,g,10,g,13,g
+545,teds montana grill,grilled cheese kids,39,g,90,mg,1130,g,57,g,16,g,21,g,1,g,0,g,5,g
+546,teds montana grill,grilled chicken no roll kids,12,g,110,mg,420,g,0,g,40,g,2,g,0,g,0,g,0,g
+547,teds montana grill,grilled chicken kids,16,g,145,mg,600,g,19,g,43,g,4,g,0,g,1,g,4,g
+548,teds montana grill,grilled shrimp on ciabatta,50,g,420,mg,2790,g,22,g,43,g,21,g,1.5,g,1,g,2,g
+549,teds montana grill,haymaker,0,g,0,mg,0,g,22,g,0,g,0,g,0,g,0,g,21,g
+550,teds montana grill,hendricks mule,0,g,0,mg,0,g,21,g,1,g,0,g,0,g,2,g,11,g
+551,teds montana grill,homemade chips,84,g,60,mg,910,g,67,g,10,g,13,g,0,g,5,g,2,g
+552,teds montana grill,homemade chips gluten free,84,g,60,mg,910,g,67,g,10,g,13,g,0,g,5,g,2,g
+553,teds montana grill,honey mustard salad dressing,18,g,15,mg,135,g,5,g,0,g,2.5,g,0,g,0,g,4,g
+554,teds montana grill,house side salad no dressing,0.5,g,0,mg,75,g,9,g,2,g,0,g,0,g,3,g,4,g
+555,teds montana grill,house side salad no dressing no croutons,0,g,0,mg,50,g,8,g,2,g,0,g,0,g,3,g,4,g
+556,teds montana grill,house made veggie burger,54,g,0,mg,1250,g,112,g,22,g,6,g,0,g,14,g,14,g
+557,teds montana grill,huckleberry margarita,0,g,0,mg,15,g,31,g,1,g,0,g,0,g,0,g,23,g
+558,teds montana grill,ibc root beer,0,g,0,mg,50,g,36,g,0,g,0,g,0,g,0,g,36,g
+559,teds montana grill,ibc root beer float,27,g,135,mg,135,g,74,g,6,g,16,g,1,g,0,g,72,g
+560,teds montana grill,iceberg wedge side salad no dressing,4.5,g,10,mg,210,g,5,g,5,g,1.5,g,0,g,2,g,3,g
+561,teds montana grill,iceberg wedge side salad no dressing gluten free,4.5,g,10,mg,210,g,5,g,5,g,1.5,g,0,g,2,g,3,g
+562,teds montana grill,jalapeno huckleberry margarita,0,g,0,mg,1210,g,40,g,1,g,0,g,0,g,0,g,37,g
+563,teds montana grill,kahula fudge brownie,80,g,365,mg,340,g,159,g,18,g,47,g,2,g,8,g,131,g
+564,teds montana grill,kale salad,11,g,0,mg,190,g,10,g,3,g,1,g,0,g,2,g,1,g
+565,teds montana grill,kale side salad,12,g,0,mg,300,g,21,g,6,g,1,g,0,g,4,g,2,g
+566,teds montana grill,kale side salad gluten free,12,g,0,mg,300,g,21,g,6,g,1,g,0,g,4,g,2,g
+567,teds montana grill,karens flying d bison chili bowl,36,g,135,mg,1810,g,21,g,38,g,16,g,0,g,6,g,9,g
+568,teds montana grill,karens flying d bison chili cup,21,g,75,mg,1060,g,12,g,22,g,9,g,0,g,4,g,5,g
+569,teds montana grill,kids bison brisket with gravy garlic mashed potatoes carrots and yeast roll,27,g,140,mg,900,g,40,g,35,g,14,g,0,g,4,g,5,g
+570,teds montana grill,knife and fork chili cheeseburger beef,82,g,230,mg,2510,g,71,g,70,g,32,g,1.5,g,8,g,9,g
+571,teds montana grill,knife and fork chili cheeseburger bison,76,g,240,mg,2520,g,71,g,73,g,29,g,1,g,8,g,9,g
+572,teds montana grill,lemon drop martini,0,g,0,mg,0,g,11,g,0,g,0,g,0,g,0,g,1,g
+573,teds montana grill,lemon vinaigrette salad dressing,4,g,0,mg,75,g,1,g,0,g,0,g,0,g,0,g,1,g
+574,teds montana grill,lemonade,0,g,0,mg,0,g,26,g,0,g,0,g,0,g,0,g,24,g
+575,teds montana grill,mac n cheese kids,23,g,70,mg,1090,g,68,g,26,g,14,g,0,g,4,g,7,g
+576,teds montana grill,mango syrup,0,g,0,mg,0,g,19,g,0,g,0,g,0,g,0,g,18,g
+577,teds montana grill,meatloaf sandwich,55,g,170,mg,2240,g,127,g,50,g,17,g,1,g,7,g,24,g
+578,teds montana grill,mini cheeseburger beef kids,15,g,55,mg,870,g,22,g,19,g,6,g,0,g,1,g,5,g
+579,teds montana grill,mini cheeseburger bison kids,12,g,55,mg,880,g,22,g,20,g,5,g,0,g,1,g,5,g
+580,teds montana grill,montana margarita,0,g,0,mg,15,g,17,g,1,g,0,g,0,g,0,g,11,g
+581,teds montana grill,mountain breeze,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,5,g
+582,teds montana grill,naked burger beef,43,g,95,mg,1520,g,73,g,39,g,10,g,0.5,g,5,g,10,g
+583,teds montana grill,naked burger beef gluten free,45,g,90,mg,1540,g,70,g,33,g,10,g,0.5,g,6,g,6,g
+584,teds montana grill,naked burger bison,37,g,105,mg,1530,g,73,g,42,g,8,g,0,g,5,g,10,g
+585,teds montana grill,naked burger bison gluten free,39,g,100,mg,1550,g,70,g,36,g,8,g,0,g,6,g,6,g
+586,teds montana grill,new england clam chowder bowl,21,g,70,mg,530,g,27,g,13,g,12,g,0.5,g,2,g,7,g
+587,teds montana grill,new england clam chowder cup,12,g,40,mg,320,g,16,g,8,g,7,g,0,g,1,g,4,g
+588,teds montana grill,new york strip bison,43,g,255,mg,880,g,0,g,69,g,19,g,1,g,0,g,0,g
+589,teds montana grill,new york strip bison gluten free,43,g,255,mg,880,g,0,g,69,g,19,g,1,g,0,g,0,g
+590,teds montana grill,newly fashioned,0,g,0,mg,0,g,26,g,0,g,0,g,0,g,0,g,21,g
+591,teds montana grill,oatmeal raisin cookie,11,g,50,mg,220,g,59,g,5,g,7,g,0,g,2,g,31,g
+592,teds montana grill,onion rings,33,g,10,mg,1530,g,50,g,7,g,3,g,0,g,3,g,5,g
+593,teds montana grill,oyster crackers,2,g,0,mg,85,g,11,g,1,g,0.5,g,0,g,0,g,0,g
+594,teds montana grill,parmesan roasted broccoli,22,g,20,mg,630,g,13,g,6,g,6,g,0,g,6,g,2,g
+595,teds montana grill,pecan crusted trout,130,g,265,mg,1010,g,57,g,61,g,15,g,1,g,7,g,5,g
+596,teds montana grill,ranch salad dressing,10,g,10,mg,125,g,1,g,0,g,2,g,0,g,0,g,1,g
+597,teds montana grill,red beans and rice bowl,8,g,40,mg,1280,g,48,g,21,g,2.5,g,0,g,10,g,7,g
+598,teds montana grill,red beans and rice cup,5,g,25,mg,760,g,28,g,13,g,1.5,g,0,g,6,g,4,g
+599,teds montana grill,red rock burger beef,61,g,135,mg,2200,g,111,g,54,g,16,g,1.5,g,7,g,14,g
+600,teds montana grill,red rock burger bison,55,g,145,mg,2210,g,111,g,57,g,14,g,1,g,7,g,14,g
+601,teds montana grill,red rock sandwich,54,g,155,mg,1900,g,111,g,67,g,11,g,1,g,7,g,14,g
+602,teds montana grill,roast turkey gluten free,50,g,310,mg,900,g,64,g,56,g,27,g,1.5,g,7,g,29,g
+603,teds montana grill,roast turkey and dressing,67,g,380,mg,2050,g,99,g,63,g,36,g,2,g,9,g,35,g
+604,teds montana grill,roasted asparagus,7,g,0,mg,110,g,4,g,2,g,0.5,g,0,g,2,g,1,g
+605,teds montana grill,salmon no roll kids,19,g,80,mg,130,g,0,g,29,g,4.5,g,0,g,0,g,0,g
+606,teds montana grill,salmon kids,24,g,115,mg,310,g,19,g,32,g,6,g,0,g,1,g,4,g
+607,teds montana grill,salmon burger,82,g,305,mg,1820,g,81,g,56,g,15,g,0,g,6,g,7,g
+608,teds montana grill,salt and pepper onion rings,96,g,55,mg,3530,g,103,g,15,g,11,g,0,g,6,g,10,g
+609,teds montana grill,salt and pepper trout,54,g,150,mg,1300,g,23,g,54,g,10,g,0.5,g,8,g,6,g
+610,teds montana grill,salt and pepper trout gluten free,54,g,150,mg,1300,g,23,g,54,g,10,g,0.5,g,8,g,6,g
+611,teds montana grill,salted caramel adult shake,39,g,190,mg,610,g,95,g,9,g,23,g,1,g,0,g,87,g
+612,teds montana grill,sauteed green beans,12,g,30,mg,470,g,11,g,3,g,7,g,0,g,4,g,5,g
+613,teds montana grill,skinny dip burger beef,36,g,90,mg,930,g,17,g,32,g,9,g,0.5,g,6,g,3,g
+614,teds montana grill,skinny dip burger beef gluten free,36,g,90,mg,930,g,17,g,32,g,9,g,0.5,g,6,g,3,g
+615,teds montana grill,skinny dip burger bison,30,g,100,mg,940,g,17,g,35,g,7,g,0,g,6,g,3,g
+616,teds montana grill,skinny dip burger bison gluten free,30,g,100,mg,940,g,17,g,35,g,7,g,0,g,6,g,3,g
+617,teds montana grill,snickerdoodle cookie,18,g,55,mg,230,g,59,g,4,g,9,g,0.5,g,1,g,34,g
+618,teds montana grill,snowcrest chicken sandwich fried,27,g,100,mg,1910,g,85,g,50,g,3,g,0,g,4,g,5,g
+619,teds montana grill,snowcrest chicken sandwich grilled,20,g,115,mg,1400,g,66,g,53,g,3,g,0,g,3,g,4,g
+620,teds montana grill,sprite,0,g,0,mg,55,g,33,g,0,g,0,g,0,g,0,g,33,g
+621,teds montana grill,st phillips island crab cake,22,g,85,mg,880,g,12,g,20,g,2.5,g,0,g,3,g,2,g
+622,teds montana grill,st phillips island crab cakes,72,g,190,mg,2510,g,39,g,46,g,12,g,0.5,g,13,g,6,g
+623,teds montana grill,steak no roll kids,20,g,80,mg,720,g,0,g,30,g,3.5,g,0,g,0,g,0,g
+624,teds montana grill,steak kids,20,g,85,mg,730,g,1,g,31,g,3.5,g,0,g,0,g,0,g
+625,teds montana grill,strawberry malt,63,g,295,mg,280,g,92,g,17,g,37,g,2,g,1,g,83,g
+626,teds montana grill,strawberry shake,61,g,290,mg,180,g,77,g,15,g,36,g,2,g,1,g,73,g
+627,teds montana grill,strawberry shortcake w ice cream,60,g,230,mg,720,g,143,g,15,g,37,g,2,g,3,g,76,g
+628,teds montana grill,sun rver sangria red,0,g,0,mg,0,g,32,g,0,g,0,g,0,g,0,g,24,g
+629,teds montana grill,sun rver sangria white,0,g,0,mg,0,g,31,g,0,g,0,g,0,g,0,g,24,g
+630,teds montana grill,sweet potato plain,0,g,0,mg,90,g,51,g,5,g,0,g,0,g,8,g,16,g
+631,teds montana grill,sweet potato topped,22,g,65,mg,280,g,62,g,5,g,16,g,0,g,9,g,25,g
+632,teds montana grill,sweet tea,0,g,0,mg,5,g,28,g,0,g,0,g,0,g,0,g,28,g
+633,teds montana grill,swiss and mushroom burger beef,63,g,140,mg,1880,g,76,g,53,g,21,g,1,g,5,g,13,g
+634,teds montana grill,swiss and mushroom burger beef gluten free,64,g,135,mg,1900,g,73,g,47,g,21,g,1,g,6,g,9,g
+635,teds montana grill,swiss and mushroom burger bison,57,g,150,mg,1890,g,76,g,56,g,19,g,0.5,g,5,g,13,g
+636,teds montana grill,swiss and mushroom burger bison gluten free,58,g,145,mg,1910,g,73,g,50,g,19,g,0.5,g,6,g,9,g
+637,teds montana grill,teds bacon cheeseburger beef,68,g,165,mg,2340,g,78,g,59,g,23,g,0.5,g,6,g,12,g
+638,teds montana grill,teds bacon cheeseburger beef gluten free,70,g,160,mg,2360,g,75,g,53,g,23,g,0.5,g,7,g,8,g
+639,teds montana grill,teds bacon cheeseburger bison,62,g,175,mg,2350,g,78,g,62,g,20,g,0,g,6,g,12,g
+640,teds montana grill,teds bacon cheeseburger bison gluten free,64,g,170,mg,2370,g,75,g,56,g,20,g,0,g,7,g,8,g
+641,teds montana grill,teds filet beef,49,g,190,mg,830,g,0,g,46,g,20,g,1,g,0,g,0,g
+642,teds montana grill,teds filet beef gluten free,49,g,190,mg,830,g,0,g,46,g,20,g,1,g,0,g,0,g
+643,teds montana grill,teds filet bison,41,g,200,mg,840,g,0,g,50,g,18,g,1,g,0,g,0,g
+644,teds montana grill,teds filet bison gluten free,41,g,200,mg,840,g,0,g,50,g,18,g,1,g,0,g,0,g
+645,teds montana grill,teds mojito,0,g,0,mg,15,g,9,g,0,g,0,g,0,g,0,g,8,g
+646,teds montana grill,teds signature margarita,0,g,0,mg,15,g,19,g,1,g,0,g,0,g,0,g,11,g
+647,teds montana grill,the slide adult shake,32,g,150,mg,110,g,69,g,8,g,19,g,1,g,1,g,63,g
+648,teds montana grill,tomato soup bowl,27,g,90,mg,1130,g,16,g,3,g,17,g,1,g,2,g,7,g
+649,teds montana grill,tomato soup cup,16,g,55,mg,680,g,10,g,2,g,10,g,0.5,g,1,g,4,g
+650,teds montana grill,ultimate dirty martini,2,g,0,mg,220,g,1,g,0,g,0,g,0,g,0,g,0,g
+651,teds montana grill,unsweetened iced tea,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+652,teds montana grill,uptown manhattan,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,17,g
+653,teds montana grill,vanilla ice cream,27,g,135,mg,80,g,32,g,6,g,16,g,1,g,0,g,30,g
+654,teds montana grill,vanilla malt,63,g,295,mg,290,g,102,g,16,g,37,g,2,g,0,g,94,g
+655,teds montana grill,vanilla shake,61,g,290,mg,190,g,87,g,14,g,36,g,2,g,0,g,84,g
+656,teds montana grill,vanilla syrup,0,g,0,mg,0,g,11,g,0,g,0,g,0,g,0,g,11,g
+657,teds montana grill,vine ripened tomatoes,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,1,g,2,g
+658,teds montana grill,wildberry cheesecake,50,g,160,mg,620,g,77,g,10,g,29,g,0,g,1,g,59,g
+659,teddys bigger burgers,add avocado,10,g,0,mg,0,g,6,g,1,g,1.5,g,0,g,5,g,0,g
+660,teddys bigger burgers,add bacon,6,g,15,mg,300,g,0,g,5,g,2,g,0,g,0,g,0,g
+661,teddys bigger burgers,add beef ground chuck 5 oz,17,g,90,mg,75,g,0,g,25,g,7,g,1,g,0,g,0,g
+662,teddys bigger burgers,add beef ground chuck 8 oz,27,g,140,mg,115,g,0,g,40,g,10,g,2,g,0,g,0,g
+663,teddys bigger burgers,add bleu cheese,12,g,30,mg,590,g,1,g,9,g,8,g,0,g,0,g,0,g
+664,teddys bigger burgers,add caesar dressing,18,g,20,mg,460,g,3,g,2,g,3.5,g,0,g,0,g,2,g
+665,teddys bigger burgers,add crispy chicken,22,g,50,mg,950,g,25,g,23,g,3.5,g,0,g,1,g,1,g
+666,teddys bigger burgers,add crispy fish,14,g,50,mg,610,g,24,g,17,g,2.5,g,0,g,1,g,1,g
+667,teddys bigger burgers,add croutons,2.5,g,0,mg,170,g,9,g,1,g,0,g,0,g,0,g,1,g
+668,teddys bigger burgers,add cucumber,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,1,g
+669,teddys bigger burgers,add fat free italian dressing,0,g,0,mg,540,g,5,g,0,g,0,g,0,g,0,g,3,g
+670,teddys bigger burgers,add feta cheese,12,g,40,mg,80,g,2,g,12,g,7,g,0,g,0,g,0,g
+671,teddys bigger burgers,add grilled chicken,3,g,55,mg,210,g,1,g,20,g,0.5,g,0,g,0,g,0,g
+672,teddys bigger burgers,add kalamata olives,8,g,0,mg,520,g,4,g,0,g,1,g,0,g,0,g,0,g
+673,teddys bigger burgers,add mushrooms,0,g,0,mg,0,g,2,g,2,g,0,g,0,g,1,g,1,g
+674,teddys bigger burgers,add onion,0,g,0,mg,0,g,6,g,1,g,0,g,0,g,1,g,2,g
+675,teddys bigger burgers,add ranch dressing,20,g,25,mg,470,g,3,g,1,g,3,g,0,g,0,g,1,g
+676,teddys bigger burgers,add red balsamic vinaigrette,12,g,0,mg,440,g,6,g,0,g,2.5,g,0,g,0,g,6,g
+677,teddys bigger burgers,add shredded cheese,17,g,55,mg,370,g,2,g,13,g,13,g,0,g,0,g,0,g
+678,teddys bigger burgers,add shredded parmesan,16,g,40,mg,960,g,2,g,21,g,10,g,0,g,0,g,1,g
+679,teddys bigger burgers,add tomato,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,1,g,2,g
+680,teddys bigger burgers,add turkey burger,11,g,105,mg,660,g,2,g,30,g,3,g,0,g,0,g,1,g
+681,teddys bigger burgers,add veggie burger,5,g,0,mg,640,g,10,g,18,g,1,g,0,g,4,g,2,g
+682,teddys bigger burgers,aiea style burger topping,12,g,40,mg,390,g,3,g,12,g,6,g,0,g,1,g,2,g
+683,teddys bigger burgers,american cheese,5,g,15,mg,220,g,1,g,3,g,2.5,g,0,g,0,g,1,g
+684,teddys bigger burgers,avocado,10,g,0,mg,0,g,6,g,1,g,1.5,g,0,g,5,g,0,g
+685,teddys bigger burgers,bacado style burger topping,24,g,40,mg,470,g,7,g,13,g,8,g,0,g,5,g,0,g
+686,teddys bigger burgers,bacon,6,g,15,mg,300,g,0,g,5,g,2,g,0,g,0,g,0,g
+687,teddys bigger burgers,bacon and bleu cheese style burger topping,18,g,45,mg,900,g,1,g,14,g,10,g,0,g,0,g,0,g
+688,teddys bigger burgers,bacon bleu salad,48,g,70,mg,1360,g,13,g,17,g,15,g,0,g,6,g,3,g
+689,teddys bigger burgers,bacon me crazy style burger topping,23,g,65,mg,1050,g,9,g,16,g,10,g,0,g,2,g,6,g
+690,teddys bigger burgers,bandito style burger topping,2.5,g,0,mg,1160,g,5,g,0,g,0.5,g,0,g,1,g,0,g
+691,teddys bigger burgers,big spud burger,49,g,105,mg,1400,g,80,g,34,g,14,g,1.5,g,6,g,12,g
+692,teddys bigger burgers,big teri burger,29,g,95,mg,2150,g,71,g,32,g,9,g,1,g,3,g,28,g
+693,teddys bigger burgers,bigger spud burger,59,g,160,mg,1530,g,80,g,49,g,18,g,2,g,6,g,12,g
+694,teddys bigger burgers,bigger teri burger,39,g,145,mg,2200,g,71,g,47,g,13,g,1.5,g,3,g,28,g
+695,teddys bigger burgers,biggest spud burger,86,g,295,mg,1720,g,80,g,89,g,28,g,4,g,6,g,12,g
+696,teddys bigger burgers,biggest teri burger,67,g,290,mg,2310,g,71,g,87,g,23,g,3.5,g,3,g,28,g
+697,teddys bigger burgers,bleu cheese,12,g,30,mg,590,g,1,g,9,g,8,g,0,g,0,g,0,g
+698,teddys bigger burgers,blta salad,33,g,70,mg,1210,g,16,g,20,g,17,g,0,g,6,g,5,g
+699,teddys bigger burgers,buffalo or red hot and bleu style burger topping,18,g,45,mg,1460,g,1,g,14,g,10,g,0,g,0,g,0,g
+700,teddys bigger burgers,caesar salad,36,g,60,mg,1660,g,21,g,28,g,13,g,0,g,3,g,5,g
+701,teddys bigger burgers,cajun effect style burger topping,17,g,20,mg,150,g,7,g,6,g,5,g,0,g,5,g,0,g
+702,teddys bigger burgers,cajun seasoning,7,g,20,mg,140,g,1,g,5,g,3.5,g,0,g,0,g,0,g
+703,teddys bigger burgers,cheddar cheese,8,g,25,mg,160,g,1,g,6,g,4.5,g,0,g,0,g,0,g
+704,teddys bigger burgers,chicken caesar crispy salad,58,g,110,mg,2610,g,46,g,51,g,17,g,0,g,4,g,6,g
+705,teddys bigger burgers,chicken caesar grilled salad,39,g,115,mg,1880,g,22,g,48,g,14,g,0,g,3,g,5,g
+706,teddys bigger burgers,chicken tenders combo,56,g,55,mg,1200,g,57,g,17,g,10,g,0,g,5,g,6,g
+707,teddys bigger burgers,chocolate malt,54,g,165,mg,510,g,151,g,22,g,33,g,0,g,5,g,131,g
+708,teddys bigger burgers,chocolate milkshake,51,g,160,mg,380,g,131,g,19,g,32,g,0,g,5,g,118,g
+709,teddys bigger burgers,coffee malt,89,g,180,mg,400,g,130,g,20,g,41,g,0,g,1,g,109,g
+710,teddys bigger burgers,coffee milkshake,87,g,175,mg,300,g,115,g,18,g,40,g,0,g,1,g,99,g
+711,teddys bigger burgers,corn dog combo,30,g,60,mg,1270,g,64,g,15,g,7,g,0,g,6,g,3,g
+712,teddys bigger burgers,crispy chicken breast sandwich,40,g,70,mg,1710,g,73,g,32,g,7,g,0,g,3,g,11,g
+713,teddys bigger burgers,crispy fish sandwich,35,g,65,mg,1500,g,75,g,24,g,6,g,0,g,4,g,13,g
+714,teddys bigger burgers,crispy ranch salad,59,g,130,mg,1790,g,38,g,40,g,20,g,0,g,3,g,6,g
+715,teddys bigger burgers,dreamsicle malt,52,g,150,mg,380,g,311,g,13,g,34,g,0,g,0,g,205,g
+716,teddys bigger burgers,dreamsicle milkshake,49,g,145,mg,250,g,291,g,10,g,33,g,0,g,0,g,191,g
+717,teddys bigger burgers,feta cheese,12,g,40,mg,80,g,2,g,12,g,7,g,0,g,0,g,0,g
+718,teddys bigger burgers,furikake,1,g,0,mg,140,g,1,g,0,g,0,g,0,g,0,g,0,g
+719,teddys bigger burgers,greek salad,32,g,40,mg,1040,g,24,g,14,g,10,g,0,g,2,g,11,g
+720,teddys bigger burgers,grilled chicken breast sandwich cajun,24,g,100,mg,1070,g,51,g,38,g,5,g,0,g,4,g,12,g
+721,teddys bigger burgers,grilled chicken breast sandwich garlic,24,g,100,mg,990,g,52,g,38,g,5,g,0,g,4,g,11,g
+722,teddys bigger burgers,grilled chicken breast sandwich plain,24,g,100,mg,1040,g,52,g,38,g,5,g,0,g,4,g,12,g
+723,teddys bigger burgers,grilled chicken breast sandwich ranch,24,g,100,mg,1070,g,51,g,38,g,5,g,0,g,4,g,12,g
+724,teddys bigger burgers,grilled chicken breast sandwich teri,16,g,90,mg,2150,g,71,g,38,g,4,g,0,g,3,g,28,g
+725,teddys bigger burgers,grilled onion,4,g,0,mg,5,g,6,g,1,g,0.5,g,0,g,2,g,4,g
+726,teddys bigger burgers,hashbrown spud,10,g,0,mg,320,g,28,g,2,g,3.5,g,0,g,2,g,0,g
+727,teddys bigger burgers,haupia coconut malt,54,g,145,mg,450,g,133,g,23,g,35,g,2,g,1,g,111,g
+728,teddys bigger burgers,haupia coconut milkshake,52,g,140,mg,350,g,118,g,21,g,34,g,2,g,1,g,101,g
+729,teddys bigger burgers,hawaii kai style burger topping,12,g,35,mg,1820,g,23,g,10,g,5,g,0,g,0,g,18,g
+730,teddys bigger burgers,hawaiian style burger topping,0,g,0,mg,1380,g,27,g,0,g,0,g,0,g,0,g,23,g
+731,teddys bigger burgers,hot pocket style burger topping,4.5,g,15,mg,1180,g,3,g,3,g,2.5,g,0,g,1,g,1,g
+732,teddys bigger burgers,jalapeno peppers,0,g,0,mg,940,g,2,g,0,g,0,g,0,g,2,g,0,g
+733,teddys bigger burgers,kailua style burger topping,10,g,25,mg,1450,g,31,g,9,g,4.5,g,0,g,3,g,24,g
+734,teddys bigger burgers,kanak attack style burger topping,42,g,40,mg,1050,g,52,g,16,g,13,g,0,g,8,g,3,g
+735,teddys bigger burgers,kids burger combo,42,g,60,mg,1200,g,82,g,25,g,9,g,0.5,g,6,g,11,g
+736,teddys bigger burgers,kilauea style burger topping,22,g,40,mg,1160,g,25,g,13,g,8,g,0,g,1,g,6,g
+737,teddys bigger burgers,king of the dojo style burger topping,22,g,35,mg,2140,g,51,g,11,g,9,g,0,g,2,g,18,g
+738,teddys bigger burgers,lahaina style burger topping,12,g,40,mg,1320,g,9,g,11,g,6,g,0,g,2,g,6,g
+739,teddys bigger burgers,large cajun fries,32,g,0,mg,1050,g,92,g,10,g,6,g,0,g,9,g,0,g
+740,teddys bigger burgers,large cajun tater tots,85,g,0,mg,2100,g,131,g,12,g,14,g,1,g,15,g,0,g
+741,teddys bigger burgers,large cheese fries,36,g,5,mg,1160,g,96,g,11,g,7,g,0,g,8,g,0,g
+742,teddys bigger burgers,large cheese tater tots,90,g,5,mg,2200,g,135,g,13,g,16,g,1,g,14,g,0,g
+743,teddys bigger burgers,large fries,32,g,0,mg,770,g,91,g,10,g,6,g,0,g,8,g,0,g
+744,teddys bigger burgers,large garlic butter fries,60,g,0,mg,990,g,92,g,10,g,11,g,4,g,8,g,0,g
+745,teddys bigger burgers,large garlic butter tater tots,113,g,0,mg,2040,g,131,g,12,g,19,g,5,g,14,g,0,g
+746,teddys bigger burgers,large garlic fries,32,g,0,mg,940,g,92,g,10,g,6,g,0,g,9,g,0,g
+747,teddys bigger burgers,large garlic tater tots,85,g,0,mg,1980,g,132,g,12,g,14,g,1,g,14,g,0,g
+748,teddys bigger burgers,large sweet potato fries,21,g,0,mg,480,g,54,g,3,g,3,g,0,g,6,g,21,g
+749,teddys bigger burgers,large tater tots,85,g,0,mg,1820,g,130,g,12,g,14,g,1,g,14,g,0,g
+750,teddys bigger burgers,large umami fries,57,g,10,mg,1240,g,94,g,10,g,10,g,2,g,8,g,1,g
+751,teddys bigger burgers,large umami tater tots,110,g,10,mg,2280,g,133,g,12,g,18,g,3,g,14,g,1,g
+752,teddys bigger burgers,mushrooms,0,g,0,mg,40,g,3,g,1,g,0,g,0,g,1,g,1,g
+753,teddys bigger burgers,onion rings,8,g,0,mg,260,g,18,g,2,g,1.5,g,0,g,1,g,2,g
+754,teddys bigger burgers,original big burger,38,g,100,mg,1040,g,52,g,32,g,10,g,1,g,4,g,12,g
+755,teddys bigger burgers,original bigger burger,48,g,150,mg,1170,g,52,g,47,g,14,g,1.5,g,4,g,12,g
+756,teddys bigger burgers,original biggest burger,76,g,295,mg,1520,g,52,g,87,g,25,g,4,g,4,g,12,g
+757,teddys bigger burgers,paniolo style burger topping,22,g,40,mg,2100,g,46,g,13,g,8,g,0,g,1,g,25,g
+758,teddys bigger burgers,pastrami,24,g,55,mg,260,g,2,g,12,g,11,g,0,g,0,g,0,g
+759,teddys bigger burgers,pastrami sandwich,69,g,120,mg,1410,g,54,g,31,g,25,g,0,g,3,g,12,g
+760,teddys bigger burgers,peanut butter,8,g,0,mg,50,g,4,g,4,g,1,g,0,g,2,g,1,g
+761,teddys bigger burgers,peanut butter malt,97,g,150,mg,720,g,242,g,31,g,43,g,0,g,5,g,128,g
+762,teddys bigger burgers,peanut butter milkshake,94,g,145,mg,590,g,222,g,29,g,42,g,0,g,5,g,115,g
+763,teddys bigger burgers,pepper jack cheese,7,g,20,mg,120,g,1,g,5,g,3.5,g,0,g,0,g,0,g
+764,teddys bigger burgers,pineapple,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,5,g
+765,teddys bigger burgers,pineapple malt,52,g,150,mg,330,g,238,g,13,g,34,g,0,g,0,g,132,g
+766,teddys bigger burgers,pineapple milkshake,49,g,145,mg,200,g,218,g,10,g,33,g,0,g,0,g,119,g
+767,teddys bigger burgers,root beer malt,52,g,150,mg,380,g,311,g,13,g,34,g,0,g,0,g,205,g
+768,teddys bigger burgers,root beer milkshake,49,g,145,mg,250,g,291,g,10,g,33,g,0,g,0,g,191,g
+769,teddys bigger burgers,salmon burger cajun,30,g,70,mg,1300,g,54,g,27,g,5,g,0,g,4,g,12,g
+770,teddys bigger burgers,salmon burger garlic,30,g,70,mg,1300,g,54,g,27,g,5,g,0,g,4,g,12,g
+771,teddys bigger burgers,salmon burger plain,30,g,70,mg,1300,g,54,g,27,g,5,g,0,g,4,g,12,g
+772,teddys bigger burgers,salmon burger ranch,30,g,70,mg,1300,g,54,g,27,g,5,g,0,g,4,g,12,g
+773,teddys bigger burgers,salmon burger teri,23,g,65,mg,1190,g,51,g,27,g,4,g,0,g,4,g,28,g
+774,teddys bigger burgers,side of onion rings,39,g,0,mg,1200,g,83,g,8,g,6,g,0,g,4,g,10,g
+775,teddys bigger burgers,small cajun tater tots,43,g,0,mg,1090,g,66,g,6,g,7,g,0.5,g,8,g,0,g
+776,teddys bigger burgers,small cheese tater tots,47,g,5,mg,1290,g,70,g,7,g,8,g,0.5,g,7,g,0,g
+777,teddys bigger burgers,small fries,19,g,0,mg,460,g,54,g,6,g,3.5,g,0,g,5,g,0,g
+778,teddys bigger burgers,small fries cajun,19,g,0,mg,650,g,55,g,6,g,3.5,g,0,g,5,g,0,g
+779,teddys bigger burgers,small fries cheese,21,g,0,mg,660,g,57,g,6,g,4,g,0,g,5,g,0,g
+780,teddys bigger burgers,small fries garlic,19,g,0,mg,570,g,56,g,6,g,3.5,g,0,g,5,g,0,g
+781,teddys bigger burgers,small fries garlic butter,47,g,0,mg,680,g,55,g,6,g,9,g,4,g,5,g,0,g
+782,teddys bigger burgers,small fries umami,44,g,10,mg,920,g,57,g,6,g,8,g,2,g,5,g,1,g
+783,teddys bigger burgers,small garlic butter tater tots,71,g,0,mg,1130,g,66,g,6,g,12,g,4.5,g,7,g,0,g
+784,teddys bigger burgers,small garlic tater tots,43,g,0,mg,1020,g,66,g,6,g,7,g,0.5,g,7,g,0,g
+785,teddys bigger burgers,small sweet potato fries,14,g,0,mg,320,g,36,g,2,g,2,g,0,g,4,g,14,g
+786,teddys bigger burgers,small tater tots,43,g,0,mg,910,g,65,g,6,g,7,g,0.5,g,7,g,0,g
+787,teddys bigger burgers,small umami tater tots,68,g,10,mg,1370,g,68,g,6,g,11,g,2.5,g,7,g,1,g
+788,teddys bigger burgers,strawberry malt,85,g,235,mg,240,g,201,g,8,g,54,g,0,g,0,g,164,g
+789,teddys bigger burgers,strawberry milkshake,83,g,225,mg,105,g,181,g,6,g,53,g,0,g,0,g,151,g
+790,teddys bigger burgers,swiss cheese,6,g,25,mg,50,g,1,g,6,g,4,g,0,g,0,g,1,g
+791,teddys bigger burgers,thai style burger topping,30,g,0,mg,290,g,13,g,12,g,6,g,0,g,4,g,5,g
+792,teddys bigger burgers,the hangover style burger topping,48,g,95,mg,1050,g,30,g,25,g,20,g,0,g,2,g,0,g
+793,teddys bigger burgers,the jawaiian style burger topping,7,g,20,mg,2480,g,30,g,5,g,3.5,g,0,g,2,g,23,g
+794,teddys bigger burgers,turkey burger,31,g,115,mg,1470,g,53,g,37,g,7,g,0,g,3,g,12,g
+795,teddys bigger burgers,university style burger topping,18,g,30,mg,2290,g,57,g,8,g,8,g,0,g,2,g,22,g
+796,teddys bigger burgers,vanilla malt,52,g,150,mg,330,g,223,g,13,g,34,g,0,g,0,g,120,g
+797,teddys bigger burgers,vanilla milkshake,49,g,145,mg,190,g,203,g,10,g,33,g,0,g,0,g,107,g
+798,teddys bigger burgers,veggie burger,26,g,15,mg,1460,g,61,g,25,g,5,g,0,g,7,g,13,g
+799,teddys bigger burgers,volcano style burger topping,7,g,20,mg,1520,g,9,g,5,g,3.5,g,0,g,1,g,4,g
+800,teddys bigger burgers,waikiki style burger topping,24,g,40,mg,2160,g,50,g,13,g,10,g,0,g,2,g,18,g
+801,teddys bigger burgers,western style burger topping,23,g,40,mg,890,g,25,g,13,g,8,g,0,g,1,g,7,g
+802,teddys bigger burgers,woodinville style burger topping,12,g,35,mg,450,g,7,g,9,g,5,g,0,g,0,g,5,g
+803,tender greens,almond berry cake,31,g,65,mg,45,g,62,g,6,g,15,g,0,g,2,g,46,g
+804,tender greens,baby arugula with dressing,16,g,5,mg,350,g,4,g,4,g,2,g,0,g,1,g,1,g
+805,tender greens,baby greens with dressing,16,g,0,mg,380,g,3,g,1,g,1,g,0,g,1,g,0,g
+806,tender greens,baby spinach with dressing,22,g,5,mg,320,g,4,g,3,g,2,g,0,g,2,g,1,g
+807,tender greens,balsamic vinaigrette,34,g,10,mg,160,g,4,g,0,g,3,g,0,g,0,g,4,g
+808,tender greens,brown rice,6,g,0,mg,530,g,42,g,4,g,0.5,g,0,g,4,g,3,g
+809,tender greens,butter lettuce with dressing,19,g,5,mg,480,g,3,g,2,g,1,g,0,g,1,g,1,g
+810,tender greens,cabernet vinaigrette,32,g,0,mg,240,g,0,g,0,g,2,g,0,g,0,g,0,g
+811,tender greens,caesar dressing,36,g,30,mg,210,g,2,g,1,g,3,g,0,g,0,g,0,g
+812,tender greens,california bowl with chipotle chicken,36,g,210,mg,1170,g,54,g,40,g,10,g,0,g,10,g,14,g
+813,tender greens,california bowl with salmon,68,g,185,mg,1250,g,51,g,30,g,14,g,0,g,10,g,12,g
+814,tender greens,california bowl with steak,50,g,135,mg,1020,g,51,g,50,g,16,g,0,g,10,g,12,g
+815,tender greens,caramel cookie,17,g,55,mg,670,g,61,g,5,g,11,g,0,g,1,g,33,g
+816,tender greens,carrot cake,25,g,45,mg,430,g,67,g,5,g,5,g,0,g,2,g,45,g
+817,tender greens,chinese chicken salad,49,g,125,mg,1430,g,23,g,41,g,6,g,0,g,6,g,9,g
+818,tender greens,chipotle barbecue chicken,17,g,155,mg,290,g,3,g,32,g,2.5,g,0,g,0,g,2,g
+819,tender greens,chipotle barbecue chicken salad,45,g,135,mg,790,g,15,g,37,g,7,g,0,g,6,g,5,g
+820,tender greens,chocolate chip cookie,20,g,45,mg,370,g,48,g,5,g,12,g,0,g,2,g,29,g
+821,tender greens,cilantro lime dressing,28,g,5,mg,280,g,6,g,0,g,3,g,0,g,0,g,4,g
+822,tender greens,crostini,8,g,0,mg,250,g,17,g,2,g,0.5,g,0,g,1,g,0,g
+823,tender greens,falafel,12,g,0,mg,890,g,21,g,7,g,10,g,0,g,6,g,3,g
+824,tender greens,falafel sandwich,36,g,0,mg,1660,g,72,g,17,g,13,g,0,g,13,g,8,g
+825,tender greens,fried chicken,19,g,105,mg,270,g,13,g,28,g,3,g,0,g,0,g,0,g
+826,tender greens,fried chicken sandwich,40,g,185,mg,1500,g,81,g,42,g,5,g,0,g,3,g,25,g
+827,tender greens,garlic aioli,46,g,40,mg,410,g,1,g,1,g,4,g,0,g,0,g,0,g
+828,tender greens,ginger dressing,16,g,0,mg,610,g,10,g,2,g,2,g,0,g,0,g,8,g
+829,tender greens,ginger soy steak,13,g,95,mg,240,g,2,g,34,g,4.5,g,0,g,0,g,0,g
+830,tender greens,grilled chicken cobb salad,52,g,265,mg,1090,g,10,g,49,g,9,g,0,g,5,g,4,g
+831,tender greens,grilled salmon,7,g,60,mg,210,g,0,g,22,g,1,g,0,g,0,g,0,g
+832,tender greens,happy vegan salad,41,g,0,mg,1200,g,72,g,17,g,5,g,0,g,15,g,7,g
+833,tender greens,harvest chicken salad,70,g,175,mg,1970,g,37,g,52,g,12,g,0,g,5,g,19,g
+834,tender greens,hibiscus tea,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+835,tender greens,kale with dressing,16,g,5,mg,320,g,6,g,5,g,2,g,0,g,1,g,1,g
+836,tender greens,katsu chicken,19,g,105,mg,270,g,13,g,28,g,3,g,0,g,0,g,0,g
+837,tender greens,kids grilled cheese,50,g,195,mg,950,g,38,g,20,g,0,g,0,g,2,g,4,g
+838,tender greens,kids protein plate,31,g,60,mg,510,g,25,g,17,g,30,g,0,g,3,g,3,g
+839,tender greens,lemon vinaigrette,21,g,0,mg,190,g,2,g,0,g,2,g,0,g,0,g,0,g
+840,tender greens,lime crema,14,g,30,mg,370,g,4,g,2,g,6,g,0,g,0,g,3,g
+841,tender greens,mashed potatoes,11,g,30,mg,530,g,35,g,4,g,7,g,0,g,3,g,3,g
+842,tender greens,mediterranean steak salad,58,g,120,mg,920,g,33,g,45,g,13,g,0,g,7,g,14,g
+843,tender greens,mint lemonade,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+844,tender greens,oatmeal cookie,14,g,60,mg,400,g,51,g,5,g,7,g,0,g,3,g,26,g
+845,tender greens,olive oil cake,20,g,40,mg,125,g,45,g,4,g,3,g,0,g,1,g,32,g
+846,tender greens,pacific bowl with ginger soy steak,54,g,100,mg,3180,g,66,g,42,g,8,g,0,g,18,g,32,g
+847,tender greens,pacific bowl with katsu chicken,42,g,200,mg,3850,g,88,g,51,g,2,g,0,g,18,g,33,g
+848,tender greens,pacific bowl with togarashi tuna,40,g,115,mg,3380,g,66,g,45,g,2,g,0,g,18,g,32,g
+849,tender greens,peanut butter cookie,22,g,45,mg,330,g,45,g,8,g,9,g,0,g,2,g,27,g
+850,tender greens,roasted garlic vinaigrette,28,g,0,mg,190,g,4,g,1,g,2,g,0,g,0,g,1,g
+851,tender greens,roasted tomato soup bowl,17,g,0,mg,3090,g,41,g,8,g,2,g,0,g,7,g,15,g
+852,tender greens,roasted tomato soup cup,8,g,0,mg,2090,g,21,g,4,g,1,g,0,g,4,g,8,g
+853,tender greens,romaine hearts with dressing,31,g,20,mg,480,g,11,g,5,g,3,g,0,g,2,g,1,g
+854,tender greens,rustic chicken soup bowl,9,g,80,mg,1320,g,15,g,22,g,13,g,0,g,2,g,3,g
+855,tender greens,rustic chicken soup cup,4.5,g,40,mg,660,g,7,g,11,g,1.5,g,0,g,1,g,2,g
+856,tender greens,salt and pepper chicken,9,g,150,mg,370,g,1,g,39,g,2.5,g,0,g,0,g,0,g
+857,tender greens,seared tuna,8,g,45,mg,350,g,0,g,28,g,1,g,0,g,0,g,0,g
+858,tender greens,seasonal veggies,21,g,0,mg,180,g,14,g,4,g,2,g,0,g,5,g,5,g
+859,tender greens,sesame peanut dressing,29,g,0,mg,610,g,6,g,1,g,2,g,0,g,0,g,4,g
+860,tender greens,sherry vinaigrette,32,g,0,mg,240,g,0,g,0,g,2,g,0,g,0,g,0,g
+861,tender greens,spicy mayo,28,g,75,mg,160,g,0,g,1,g,2,g,0,g,0,g,0,g
+862,tender greens,steak,13,g,95,mg,240,g,2,g,34,g,4.5,g,0,g,0,g,0,g
+863,tender greens,sushi rice,0,g,0,mg,700,g,20,g,5,g,0,g,0,g,2,g,3,g
+864,tender greens,tarragon dressing,37,g,15,mg,390,g,2,g,1,g,3,g,0,g,0,g,1,g
+865,tender greens,the greens,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+866,tender greens,the original salt and pepper chicken sandwich,73,g,190,mg,1390,g,62,g,52,g,13,g,0,g,4,g,4,g
+867,tender greens,togarashi tuna,8,g,45,mg,350,g,0,g,28,g,1,g,0,g,0,g,0,g
+868,tender greens,tuna nicoise salad,51,g,160,mg,1210,g,17,g,32,g,5,g,0,g,6,g,4,g
+869,tender greens,vegan brownie,21,g,0,mg,350,g,57,g,6,g,3,g,0,g,3,g,36,g
+870,teriyaki experience,beef and shrimp pan asian with asian cooking sauce,14,g,125,mg,770,g,48,g,39,g,3,g,0,g,4,g,0,g
+871,teriyaki experience,beef and shrimp pan asian with asian cooking sauce and low sodium sauce,14,g,125,mg,1440,g,71,g,39,g,3,g,0,g,4,g,0,g
+872,teriyaki experience,beef and shrimp pan asian with asian cooking sauce and pan asian sauce,16,g,125,mg,1540,g,63,g,39,g,3.5,g,0,g,4,g,0,g
+873,teriyaki experience,beef and shrimp pan asian with asian cooking sauce and pineapple sauce,14,g,125,mg,1740,g,68,g,40,g,3,g,0,g,4,g,0,g
+874,teriyaki experience,beef and shrimp pan asian with asian cooking sauce and sweet chili sauce,14,g,125,mg,1970,g,72,g,40,g,3,g,0,g,4,g,0,g
+875,teriyaki experience,beef and shrimp pan asian with asian cooking sauce and teriyaki sauce,14,g,125,mg,2850,g,79,g,42,g,3,g,0,g,4,g,0,g
+876,teriyaki experience,beef and shrimp pan asian with low sodium sauce,9,g,125,mg,1120,g,67,g,38,g,3,g,0,g,4,g,0,g
+877,teriyaki experience,beef and shrimp pan asian with pan asian sauce,11,g,125,mg,1220,g,59,g,38,g,3,g,0,g,4,g,0,g
+878,teriyaki experience,beef and shrimp pan asian with pineapple sauce,9,g,125,mg,1420,g,64,g,40,g,3,g,0,g,4,g,0,g
+879,teriyaki experience,beef and shrimp pan asian with sweet chili sauce,9,g,125,mg,1660,g,68,g,40,g,3,g,0,g,4,g,0,g
+880,teriyaki experience,beef and shrimp pan asian with teriyaki sauce,9,g,125,mg,2530,g,75,g,41,g,3,g,0,g,4,g,0,g
+881,teriyaki experience,beef and shrimp pan asian without sauce,9,g,125,mg,450,g,44,g,38,g,3,g,0,g,4,g,0,g
+882,teriyaki experience,beef and shrimp yakisoba with asian cooking sauce,14,g,130,mg,1040,g,68,g,42,g,3,g,0,g,4,g,0,g
+883,teriyaki experience,beef and shrimp yakisoba with asian cooking sauce and low sodium sauce,14,g,130,mg,1710,g,91,g,42,g,3,g,0,g,4,g,0,g
+884,teriyaki experience,beef and shrimp yakisoba with asian cooking sauce and pan asian sauce,15,g,130,mg,1800,g,83,g,42,g,3.5,g,0,g,4,g,0,g
+885,teriyaki experience,beef and shrimp yakisoba with asian cooking sauce and pineapple sauce,14,g,130,mg,2010,g,88,g,44,g,3,g,0,g,4,g,0,g
+886,teriyaki experience,beef and shrimp yakisoba with asian cooking sauce and sweet chili sauce,14,g,130,mg,2240,g,92,g,44,g,3,g,0,g,4,g,0,g
+887,teriyaki experience,beef and shrimp yakisoba with asian cooking sauce and teriyaki sauce,14,g,130,mg,3120,g,99,g,45,g,3,g,0,g,4,g,0,g
+888,teriyaki experience,beef and shrimp yakisoba with low sodium sauce,9,g,130,mg,1390,g,87,g,42,g,2.5,g,0,g,4,g,0,g
+889,teriyaki experience,beef and shrimp yakisoba with pan asian sauce,10,g,130,mg,1490,g,79,g,42,g,3,g,0,g,4,g,0,g
+890,teriyaki experience,beef and shrimp yakisoba with pineapple sauce,9,g,130,mg,1690,g,84,g,43,g,2.5,g,0,g,4,g,0,g
+891,teriyaki experience,beef and shrimp yakisoba with sweet chili sauce,9,g,130,mg,1920,g,88,g,44,g,2.5,g,0,g,4,g,0,g
+892,teriyaki experience,beef and shrimp yakisoba with teriyaki sauce,9,g,130,mg,2800,g,95,g,45,g,2.5,g,0,g,4,g,0,g
+893,teriyaki experience,beef and shrimp yakisoba without sauce,9,g,130,mg,720,g,64,g,42,g,2.5,g,0,g,4,g,0,g
+894,teriyaki experience,beef noodle soup bowl,6,g,40,mg,1870,g,67,g,27,g,1.5,g,0,g,4,g,0,g
+895,teriyaki experience,beef pan asian with asian cooking sauce,15,g,65,mg,650,g,46,g,34,g,4,g,0,g,3,g,0,g
+896,teriyaki experience,beef pan asian with asian cooking sauce and low sodium sauce,15,g,65,mg,1320,g,69,g,34,g,4,g,0,g,3,g,0,g
+897,teriyaki experience,beef pan asian with asian cooking sauce and pan asian sauce,17,g,65,mg,1420,g,61,g,34,g,4,g,0,g,3,g,0,g
+898,teriyaki experience,beef pan asian with asian cooking sauce and pineapple sauce,15,g,65,mg,1620,g,66,g,36,g,4,g,0,g,3,g,0,g
+899,teriyaki experience,beef pan asian with asian cooking sauce and sweet chili sauce,15,g,65,mg,1850,g,71,g,36,g,4,g,0,g,3,g,0,g
+900,teriyaki experience,beef pan asian with asian cooking sauce and teriyaki sauce,15,g,65,mg,2730,g,77,g,37,g,4,g,0,g,3,g,0,g
+901,teriyaki experience,beef pan asian with low sodium sauce,10,g,65,mg,1010,g,65,g,34,g,3.5,g,0,g,3,g,0,g
+902,teriyaki experience,beef pan asian with pan asian sauce,12,g,65,mg,1100,g,57,g,34,g,4,g,0,g,3,g,0,g
+903,teriyaki experience,beef pan asian with pineapple sauce,10,g,65,mg,1310,g,62,g,35,g,3.5,g,0,g,3,g,0,g
+904,teriyaki experience,beef pan asian with sweet chili sauce,10,g,65,mg,1540,g,67,g,35,g,3.5,g,0,g,3,g,0,g
+905,teriyaki experience,beef pan asian with teriyaki sauce,10,g,65,mg,2420,g,73,g,37,g,3.5,g,0,g,3,g,0,g
+906,teriyaki experience,beef pan asian with without sauce,10,g,65,mg,340,g,42,g,34,g,3.5,g,0,g,3,g,0,g
+907,teriyaki experience,beef spicy soup bowl,5,g,35,mg,2060,g,48,g,23,g,1.5,g,0,g,4,g,0,g
+908,teriyaki experience,beef teriyaki and brown rice without sauce,10,g,65,mg,110,g,73,g,33,g,3.5,g,0,g,4,g,0,g
+909,teriyaki experience,beef teriyaki beef portion only without sauce,8,g,65,mg,95,g,9,g,27,g,3,g,0,g,2,g,0,g
+910,teriyaki experience,beef teriyaki with brown rice and asian cooking sauce,15,g,65,mg,420,g,77,g,34,g,4,g,0,g,4,g,0,g
+911,teriyaki experience,beef teriyaki with brown rice and low sodium sauce,10,g,65,mg,780,g,96,g,33,g,3.5,g,0,g,4,g,0,g
+912,teriyaki experience,beef teriyaki with brown rice and pan asian sauce,12,g,65,mg,880,g,88,g,33,g,4,g,0,g,4,g,0,g
+913,teriyaki experience,beef teriyaki with brown rice and pineapple sauce,10,g,65,mg,1080,g,93,g,35,g,3.5,g,0,g,4,g,0,g
+914,teriyaki experience,beef teriyaki with brown rice and sweet chili sauce,10,g,65,mg,1310,g,97,g,35,g,3.5,g,0,g,4,g,0,g
+915,teriyaki experience,beef teriyaki with brown rice and teriyaki sauce,10,g,65,mg,2190,g,104,g,36,g,3.5,g,0,g,4,g,0,g
+916,teriyaki experience,beef teriyaki with brown rice asian cooking sauce and low sodium sauce,15,g,65,mg,1090,g,100,g,34,g,4,g,0,g,4,g,0,g
+917,teriyaki experience,beef teriyaki with brown rice asian cooking sauce and pan asian sauce,17,g,65,mg,1190,g,92,g,34,g,4,g,0,g,4,g,0,g
+918,teriyaki experience,beef teriyaki with brown rice asian cooking sauce and pineapple sauce,15,g,65,mg,1390,g,97,g,35,g,4,g,0,g,4,g,0,g
+919,teriyaki experience,beef teriyaki with brown rice asian cooking sauce and sweet chili sauce,15,g,65,mg,1630,g,101,g,36,g,4,g,0,g,4,g,0,g
+920,teriyaki experience,beef teriyaki with brown rice asian cooking sauce and teriyaki sauce,15,g,65,mg,2500,g,108,g,37,g,4,g,0,g,4,g,0,g
+921,teriyaki experience,beef teriyaki with white rice and asian cooking sauce,14,g,65,mg,420,g,87,g,34,g,4,g,0,g,3,g,0,g
+922,teriyaki experience,beef teriyaki with white rice and low sodium sauce,9,g,65,mg,780,g,106,g,34,g,3.5,g,0,g,3,g,0,g
+923,teriyaki experience,beef teriyaki with white rice and pan asian sauce,11,g,65,mg,880,g,98,g,34,g,3.5,g,0,g,3,g,0,g
+924,teriyaki experience,beef teriyaki with white rice and pineapple sauce,9,g,65,mg,1080,g,103,g,35,g,3.5,g,0,g,3,g,0,g
+925,teriyaki experience,beef teriyaki with white rice and sweet chili sauce,9,g,65,mg,1310,g,107,g,35,g,3.5,g,0,g,3,g,0,g
+926,teriyaki experience,beef teriyaki with white rice and teriyaki sauce,9,g,65,mg,2190,g,114,g,37,g,3.5,g,0,g,3,g,0,g
+927,teriyaki experience,beef teriyaki with white rice asian cooking sauce and low sodium sauce,14,g,65,mg,1090,g,110,g,34,g,4,g,0,g,3,g,0,g
+928,teriyaki experience,beef teriyaki with white rice asian cooking sauce and pan asian sauce,16,g,65,mg,1190,g,102,g,34,g,4,g,0,g,3,g,0,g
+929,teriyaki experience,beef teriyaki with white rice asian cooking sauce and pineapple sauce,14,g,65,mg,1390,g,107,g,36,g,4,g,0,g,3,g,0,g
+930,teriyaki experience,beef teriyaki with white rice asian cooking sauce and sweet chili sauce,14,g,65,mg,1620,g,111,g,36,g,4,g,0,g,3,g,0,g
+931,teriyaki experience,beef teriyaki with white rice asian cooking sauce and teriyaki sauce,14,g,65,mg,2500,g,118,g,37,g,4,g,0,g,3,g,0,g
+932,teriyaki experience,beef teriyaki with white rice without sauce,9,g,65,mg,110,g,83,g,34,g,3.5,g,0,g,3,g,0,g
+933,teriyaki experience,beef yakisoba with asian cooking sauce,15,g,70,mg,920,g,66,g,38,g,3.5,g,0,g,4,g,0,g
+934,teriyaki experience,beef yakisoba with asian cooking sauce and low sodium sauce,15,g,70,mg,1590,g,89,g,38,g,3.5,g,0,g,4,g,0,g
+935,teriyaki experience,beef yakisoba with asian cooking sauce and pan asian sauce,17,g,70,mg,1690,g,81,g,38,g,4,g,0,g,4,g,0,g
+936,teriyaki experience,beef yakisoba with asian cooking sauce and pineapple sauce,15,g,70,mg,1890,g,86,g,40,g,3.5,g,0,g,4,g,0,g
+937,teriyaki experience,beef yakisoba with asian cooking sauce and sweet chili sauce,15,g,70,mg,2120,g,90,g,40,g,3.5,g,0,g,4,g,0,g
+938,teriyaki experience,beef yakisoba with asian cooking sauce teriyaki sauce,15,g,70,mg,3000,g,97,g,41,g,3.5,g,0,g,4,g,0,g
+939,teriyaki experience,beef yakisoba with low sodium sauce,10,g,70,mg,1270,g,85,g,37,g,3,g,0,g,4,g,0,g
+940,teriyaki experience,beef yakisoba with pan asian sauce,11,g,70,mg,1370,g,77,g,37,g,3.5,g,0,g,4,g,0,g
+941,teriyaki experience,beef yakisoba with pineapple sauce,10,g,70,mg,1570,g,82,g,39,g,3,g,0,g,4,g,0,g
+942,teriyaki experience,beef yakisoba with sweet chili sauce,10,g,70,mg,1800,g,86,g,39,g,3,g,0,g,4,g,0,g
+943,teriyaki experience,beef yakisoba with teriyaki sauce,10,g,70,mg,2680,g,93,g,40,g,3,g,0,g,4,g,0,g
+944,teriyaki experience,beef yakisoba without sauce,10,g,70,mg,600,g,62,g,37,g,3,g,0,g,4,g,0,g
+945,teriyaki experience,chicken and beef pan asian with asian cooking sauce,15,g,100,mg,680,g,46,g,48,g,3.5,g,0,g,3,g,0,g
+946,teriyaki experience,chicken and beef pan asian with asian cooking sauce and low sodium sauce,15,g,100,mg,1350,g,69,g,48,g,3.5,g,0,g,3,g,0,g
+947,teriyaki experience,chicken and beef pan asian with asian cooking sauce and pan asian sauce,16,g,100,mg,1450,g,61,g,48,g,3.5,g,0,g,3,g,0,g
+948,teriyaki experience,chicken and beef pan asian with asian cooking sauce and pineapple sauce,15,g,100,mg,1650,g,66,g,49,g,3.5,g,0,g,3,g,0,g
+949,teriyaki experience,chicken and beef pan asian with asian cooking sauce and sweet chili sauce,15,g,100,mg,1880,g,71,g,49,g,3.5,g,0,g,3,g,0,g
+950,teriyaki experience,chicken and beef pan asian with asian cooking sauce and teriyaki sauce,15,g,100,mg,2760,g,77,g,51,g,3.5,g,0,g,3,g,0,g
+951,teriyaki experience,chicken and beef pan asian with low sodium sauce,10,g,100,mg,1030,g,65,g,47,g,3,g,0,g,3,g,0,g
+952,teriyaki experience,chicken and beef pan asian with pan asian sauce,11,g,100,mg,1130,g,57,g,47,g,3.5,g,0,g,3,g,0,g
+953,teriyaki experience,chicken and beef pan asian with pineapple sauce,10,g,100,mg,1330,g,62,g,49,g,3,g,0,g,3,g,0,g
+954,teriyaki experience,chicken and beef pan asian with sweet chili sauce,10,g,100,mg,1560,g,67,g,49,g,3,g,0,g,3,g,0,g
+955,teriyaki experience,chicken and beef pan asian with teriyaki sauce,10,g,100,mg,2440,g,73,g,50,g,3,g,0,g,3,g,0,g
+956,teriyaki experience,chicken and beef pan asian without sauce,10,g,100,mg,360,g,42,g,47,g,3,g,0,g,3,g,0,g
+957,teriyaki experience,chicken and beef yakisoba with asian cooking sauce,14,g,105,mg,940,g,66,g,51,g,3,g,0,g,4,g,0,g
+958,teriyaki experience,chicken and beef yakisoba with asian cooking sauce and low sodium sauce,14,g,105,mg,1610,g,89,g,51,g,3,g,0,g,4,g,0,g
+959,teriyaki experience,chicken and beef yakisoba with asian cooking sauce and pan asian sauce,16,g,105,mg,1710,g,81,g,51,g,3.5,g,0,g,4,g,0,g
+960,teriyaki experience,chicken and beef yakisoba with asian cooking sauce and pineapple sauce,14,g,105,mg,1910,g,86,g,53,g,3,g,0,g,4,g,0,g
+961,teriyaki experience,chicken and beef yakisoba with asian cooking sauce and sweet chili sauce,14,g,105,mg,2150,g,90,g,53,g,3,g,0,g,4,g,0,g
+962,teriyaki experience,chicken and beef yakisoba with asian cooking sauce and teriyaki sauce,14,g,105,mg,3020,g,97,g,54,g,3,g,0,g,4,g,0,g
+963,teriyaki experience,chicken and beef yakisoba with low sodium sauce,9,g,105,mg,1300,g,85,g,51,g,3,g,0,g,4,g,0,g
+964,teriyaki experience,chicken and beef yakisoba with pan asian sauce,11,g,105,mg,1400,g,77,g,51,g,3,g,0,g,4,g,0,g
+965,teriyaki experience,chicken and beef yakisoba with pineapple sauce,9,g,105,mg,1600,g,82,g,52,g,3,g,0,g,4,g,0,g
+966,teriyaki experience,chicken and beef yakisoba with sweet chili sauce,9,g,105,mg,1830,g,86,g,53,g,3,g,0,g,4,g,0,g
+967,teriyaki experience,chicken and beef yakisoba with teriyaki sauce,9,g,105,mg,2710,g,93,g,54,g,3,g,0,g,4,g,0,g
+968,teriyaki experience,chicken and beef yakisoba without sauce,9,g,105,mg,630,g,62,g,51,g,3,g,0,g,4,g,0,g
+969,teriyaki experience,chicken and shrimp pan asian with asian cooking sauce,10,g,125,mg,760,g,48,g,41,g,1,g,0,g,4,g,0,g
+970,teriyaki experience,chicken and shrimp pan asian with asian cooking sauce and low sodium sauce,10,g,125,mg,1430,g,71,g,41,g,1,g,0,g,4,g,0,g
+971,teriyaki experience,chicken and shrimp pan asian with asian cooking sauce and pan asian sauce,11,g,125,mg,1520,g,63,g,41,g,1.5,g,0,g,4,g,0,g
+972,teriyaki experience,chicken and shrimp pan asian with asian cooking sauce and pineapple sauce,10,g,125,mg,1730,g,68,g,42,g,1,g,0,g,4,g,0,g
+973,teriyaki experience,chicken and shrimp pan asian with asian cooking sauce and sweet chili sauce,10,g,125,mg,1960,g,72,g,42,g,1,g,0,g,4,g,0,g
+974,teriyaki experience,chicken and shrimp pan asian with asian cooking sauce and teriyaki sauce,10,g,125,mg,2840,g,79,g,44,g,1,g,0,g,4,g,0,g
+975,teriyaki experience,chicken and shrimp pan asian with low sodium sauce,4.5,g,125,mg,1110,g,67,g,40,g,1,g,0,g,4,g,0,g
+976,teriyaki experience,chicken and shrimp pan asian with pan asian sauce,6,g,125,mg,1210,g,59,g,40,g,1,g,0,g,4,g,0,g
+977,teriyaki experience,chicken and shrimp pan asian with pineapple sauce,4.5,g,125,mg,1410,g,64,g,42,g,1,g,0,g,4,g,0,g
+978,teriyaki experience,chicken and shrimp pan asian with sweet chili sauce,4.5,g,125,mg,1640,g,68,g,42,g,1,g,0,g,4,g,0,g
+979,teriyaki experience,chicken and shrimp pan asian with teriyaki sauce,4.5,g,125,mg,2520,g,75,g,43,g,1,g,0,g,4,g,0,g
+980,teriyaki experience,chicken and shrimp pan asian without sauce,4.5,g,125,mg,440,g,44,g,40,g,1,g,0,g,4,g,0,g
+981,teriyaki experience,chicken and shrimp yakisoba with asian cooking sauce,9,g,130,mg,1020,g,68,g,44,g,1,g,0,g,4,g,0,g
+982,teriyaki experience,chicken and shrimp yakisoba with asian cooking sauce and low sodium sauce,9,g,130,mg,1690,g,91,g,44,g,1,g,0,g,4,g,0,g
+983,teriyaki experience,chicken and shrimp yakisoba with asian cooking sauce and pan asian sauce,11,g,130,mg,1790,g,83,g,44,g,1.5,g,0,g,4,g,0,g
+984,teriyaki experience,chicken and shrimp yakisoba with asian cooking sauce and pineapple sauce,9,g,130,mg,1990,g,88,g,46,g,1,g,0,g,4,g,0,g
+985,teriyaki experience,chicken and shrimp yakisoba with asian cooking sauce and sweet chili sauce,9,g,130,mg,2220,g,92,g,46,g,1,g,0,g,4,g,0,g
+986,teriyaki experience,chicken and shrimp yakisoba with asian cooking sauce and teriyaki sauce,9,g,130,mg,3100,g,99,g,47,g,1,g,0,g,4,g,0,g
+987,teriyaki experience,chicken and shrimp yakisoba with low sodium sauce,4,g,130,mg,1380,g,87,g,44,g,0.5,g,0,g,4,g,0,g
+988,teriyaki experience,chicken and shrimp yakisoba with pan asian sauce,6,g,130,mg,1480,g,79,g,44,g,1,g,0,g,4,g,0,g
+989,teriyaki experience,chicken and shrimp yakisoba with pineapple sauce,4,g,130,mg,1680,g,84,g,45,g,0.5,g,0,g,4,g,0,g
+990,teriyaki experience,chicken and shrimp yakisoba with sweet chili sauce,4,g,130,mg,1910,g,88,g,45,g,0.5,g,0,g,4,g,0,g
+991,teriyaki experience,chicken and shrimp yakisoba with teriyaki sauce,4,g,130,mg,2790,g,95,g,47,g,0.5,g,0,g,4,g,0,g
+992,teriyaki experience,chicken and shrimp yakisoba without sauce,4,g,130,mg,710,g,64,g,44,g,0.5,g,0,g,4,g,0,g
+993,teriyaki experience,chicken noodle soup bowl,3,g,40,mg,1860,g,67,g,29,g,0,g,0,g,4,g,0,g
+994,teriyaki experience,chicken pan asian with asian cooking sauce,9,g,65,mg,630,g,46,g,37,g,1,g,0,g,3,g,0,g
+995,teriyaki experience,chicken pan asian with asian cooking sauce and low sodium sauce,9,g,65,mg,1300,g,69,g,37,g,1,g,0,g,3,g,0,g
+996,teriyaki experience,chicken pan asian with asian cooking sauce and pan asian sauce,11,g,65,mg,1400,g,61,g,37,g,1.5,g,0,g,3,g,0,g
+997,teriyaki experience,chicken pan asian with asian cooking sauce and pineapple sauce,9,g,65,mg,1600,g,66,g,39,g,1,g,0,g,3,g,0,g
+998,teriyaki experience,chicken pan asian with asian cooking sauce and sweet chili sauce,9,g,65,mg,1830,g,71,g,39,g,1,g,0,g,3,g,0,g
+999,teriyaki experience,chicken pan asian with asian cooking sauce and teriyaki sauce,9,g,65,mg,2710,g,77,g,40,g,1,g,0,g,3,g,0,g

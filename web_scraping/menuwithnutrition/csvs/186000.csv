@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,the chopped leaf,spa wrap,32,g,0,mg,940,g,63,g,14,g,4,g,0,g,8,g,10,g
+1,the chopped leaf,spicy chicken sandwich,30,g,0,mg,880,g,34,g,26,g,5,g,0,g,4,g,4,g
+2,the chopped leaf,spicy creamy tomato soup,16,g,0,mg,190,g,12,g,3,g,9,g,0,g,3,g,7,g
+3,the chopped leaf,spicy sweet potato soup,4.5,g,0,mg,330,g,8,g,1,g,0.5,g,0,g,1,g,3,g
+4,the chopped leaf,sundried cranberry,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,5,g
+5,the chopped leaf,sunflower seed,4,g,0,mg,0,g,1,g,2,g,0.5,g,0,g,0,g,0,g
+6,the chopped leaf,sunshine full salad,10,g,0,mg,210,g,12,g,8,g,4.5,g,0,g,2,g,4,g
+7,the chopped leaf,sunshine starter salad,6,g,0,mg,140,g,9,g,5,g,2.5,g,0,g,1,g,2,g
+8,the chopped leaf,sunshine wrap,33,g,0,mg,1130,g,51,g,14,g,4.5,g,0,g,6,g,3,g
+9,the chopped leaf,thai curry soup,3,g,0,mg,370,g,7,g,2,g,0,g,0,g,1,g,4,g
+10,the chopped leaf,thai lemongrass soup,2.5,g,0,mg,580,g,18,g,2,g,0,g,0,g,1,g,7,g
+11,the chopped leaf,tuna melt sandwich,23,g,0,mg,640,g,33,g,26,g,4.5,g,0,g,4,g,4,g
+12,the chopped leaf,tzatziki dressing,1,g,0,mg,55,g,1,g,1,g,0.5,g,0,g,0,g,0,g
+13,the chopped leaf,vegetarian quesadilla,20,g,0,mg,990,g,71,g,19,g,7,g,0,g,3,g,3,g
+14,the chopped leaf,veggie breakfast wrap,19,g,0,mg,590,g,31,g,23,g,6,g,0,g,4,g,2,g
+15,the chopped leaf,veggie salad rolls,8,g,0,mg,450,g,28,g,3,g,1.5,g,0,g,2,g,5,g
+16,the chopped leaf,walnut,6,g,0,mg,0,g,0,g,2,g,0.5,g,0,g,0,g,0,g
+17,the chopped leaf,whole bowl 1,26,g,0,mg,700,g,71,g,17,g,10,g,0,g,7,g,6,g
+18,the chopped leaf,whole bowl 2,48,g,0,mg,890,g,68,g,10,g,4,g,0,g,7,g,16,g
+19,the chopped leaf,whole bowl 3,33,g,0,mg,810,g,51,g,13,g,9,g,0,g,5,g,6,g
+20,the chopped leaf,whole bowl 4,60,g,0,mg,410,g,19,g,19,g,9,g,0,g,5,g,6,g
+21,the chopped leaf,wild mushroom soup,10,g,0,mg,580,g,3,g,1,g,6,g,0,g,0,g,1,g
+22,the chopped leaf,zeus stuffed cup,9,g,0,mg,470,g,30,g,9,g,5,g,0,g,4,g,7,g
+23,the counter,alfalfa sprouts,0,g,0,mg,0,g,0,g,1,g,0,g,0,g,0,g,0,g
+24,the counter,all natural beef san diego,17,g,0,mg,280,g,0,g,24,g,7,g,1,g,0,g,0,g
+25,the counter,all natural beef 1 lb,84,g,0,mg,1350,g,0,g,115,g,33,g,5,g,0,g,0,g
+26,the counter,all natural beef 1 2 lb,42,g,0,mg,670,g,0,g,58,g,16,g,2.5,g,0,g,0,g
+27,the counter,all natural beef 1 3 lb,28,g,0,mg,450,g,0,g,38,g,11,g,2,g,0,g,0,g
+28,the counter,american 1 slice,7,g,0,mg,380,g,1,g,4,g,4.5,g,0,g,0,g,0,g
+29,the counter,american 2 slices,13,g,0,mg,760,g,2,g,9,g,9,g,0,g,0,g,0,g
+30,the counter,american 3 slices,20,g,0,mg,1140,g,3,g,13,g,13,g,0,g,0,g,0,g
+31,the counter,applewood smoked bacon,8,g,0,mg,280,g,0,g,5,g,3,g,0,g,0,g,0,g
+32,the counter,apricot sauce burger,0,g,0,mg,60,g,18,g,0,g,0,g,0,g,0,g,0,g
+33,the counter,apricot sauce salad,0,g,0,mg,180,g,53,g,0,g,0,g,0,g,0,g,0,g
+34,the counter,avocado,6,g,0,mg,0,g,3,g,0,g,1,g,0,g,2,g,0,g
+35,the counter,baby spinach,0,g,0,mg,35,g,2,g,1,g,0,g,0,g,1,g,0,g
+36,the counter,baby spinach topping,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+37,the counter,bacon aioli,19,g,0,mg,630,g,7,g,4,g,5,g,0,g,1,g,0,g
+38,the counter,bacon onion jam,4.5,g,0,mg,580,g,15,g,5,g,1.5,g,0,g,2,g,0,g
+39,the counter,basil pesto burger,10,g,0,mg,135,g,1,g,0,g,1,g,0,g,0,g,0,g
+40,the counter,basil pesto salad,30,g,0,mg,410,g,3,g,1,g,2.5,g,0,g,0,g,0,g
+41,the counter,bbq sauce san diego,0,g,0,mg,1190,g,24,g,0,g,0,g,0,g,0,g,0,g
+42,the counter,brioche,3.5,g,0,mg,360,g,40,g,7,g,1.5,g,0,g,1,g,0,g
+43,the counter,brioche lax t7,10,g,0,mg,350,g,47,g,8,g,5,g,0,g,7,g,0,g
+44,the counter,buttermilk ranch burger,11,g,0,mg,210,g,9,g,0,g,0.5,g,0,g,0,g,0,g
+45,the counter,buttermilk ranch salad,33,g,0,mg,620,g,28,g,0,g,1.5,g,0,g,0,g,0,g
+46,the counter,caesar burger,8,g,0,mg,220,g,4,g,0,g,0.5,g,0,g,0,g,0,g
+47,the counter,caesar salad,50,g,0,mg,850,g,5,g,2,g,8,g,0.5,g,0,g,0,g
+48,the counter,carrot strings,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,0,g
+49,the counter,chicken breast 1 lb,26,g,0,mg,1160,g,2,g,114,g,4.5,g,0,g,0,g,0,g
+50,the counter,chicken breast 1 2 lb,17,g,0,mg,770,g,1,g,76,g,3,g,0,g,0,g,0,g
+51,the counter,chicken breast 1 3 lb,9,g,0,mg,390,g,0,g,38,g,1.5,g,0,g,0,g,0,g
+52,the counter,chipotle aioli burger,14,g,0,mg,190,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+53,the counter,chipotle aioli salad,42,g,0,mg,560,g,2,g,0,g,2,g,0,g,0,g,0,g
+54,the counter,chipotle aioli san diego,61,g,0,mg,730,g,6,g,0,g,9,g,0,g,0,g,0,g
+55,the counter,ciabatta,3,g,0,mg,410,g,42,g,4,g,0,g,0,g,0,g,0,g
+56,the counter,coleslaw,2,g,0,mg,80,g,4,g,0,g,0,g,0,g,1,g,0,g
+57,the counter,creamy avocado ranch,23,g,0,mg,290,g,5,g,1,g,4,g,0,g,2,g,0,g
+58,the counter,croissant miami,14,g,0,mg,200,g,25,g,4,g,6,g,0,g,1,g,0,g
+59,the counter,croutons,2.5,g,0,mg,135,g,12,g,2,g,0,g,0,g,0,g,0,g
+60,the counter,cucumbers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+61,the counter,danish blue cheese 1 slice,8,g,0,mg,400,g,0,g,6,g,5,g,0,g,0,g,0,g
+62,the counter,danish blue cheese 2 slices,16,g,0,mg,790,g,1,g,12,g,11,g,0,g,0,g,0,g
+63,the counter,danish blue cheese 3 slices,24,g,0,mg,1190,g,2,g,18,g,16,g,0,g,0,g,0,g
+64,the counter,dijon balsamic burger,11,g,0,mg,210,g,8,g,0,g,1.5,g,0,g,0,g,0,g
+65,the counter,dijon balsamic salad,32,g,0,mg,620,g,24,g,0,g,4,g,0,g,0,g,0,g
+66,the counter,dill pickles,0,g,0,mg,380,g,1,g,0,g,0,g,0,g,0,g,0,g
+67,the counter,dried cranberries,0.5,g,0,mg,0,g,28,g,0,g,0,g,0,g,2,g,0,g
+68,the counter,egg omelette 3 eggs,28,g,0,mg,210,g,1,g,19,g,6,g,0,g,0,g,0,g
+69,the counter,egg whites 2 eggs,14,g,0,mg,110,g,0,g,7,g,1,g,0,g,0,g,0,g
+70,the counter,egg whites omelette 3 eggs,14,g,0,mg,160,g,1,g,11,g,1,g,0,g,0,g,0,g
+71,the counter,english muffin,1.5,g,0,mg,310,g,37,g,6,g,0,g,0,g,1,g,0,g
+72,the counter,feta 1 slice,6,g,0,mg,320,g,0,g,5,g,4,g,0,g,0,g,0,g
+73,the counter,feta 2 slices,12,g,0,mg,640,g,1,g,10,g,8,g,0,g,0,g,0,g
+74,the counter,feta 3 slices,18,g,0,mg,960,g,2,g,15,g,12,g,0,g,0,g,0,g
+75,the counter,fresh jalapenos,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+76,the counter,fresh mozzarella 1 slice,4,g,0,mg,70,g,0,g,4,g,2,g,0,g,0,g,0,g
+77,the counter,fresh mozzarella 2 slices,8,g,0,mg,140,g,1,g,8,g,5,g,0,g,0,g,0,g
+78,the counter,fresh mozzarella 3 slices,12,g,0,mg,210,g,2,g,12,g,7,g,0,g,0,g,0,g
+79,the counter,fried eggs 2 eggs,14,g,0,mg,190,g,1,g,13,g,4,g,0,g,0,g,0,g
+80,the counter,fried onion strings,17,g,0,mg,115,g,13,g,2,g,2.5,g,0,g,1,g,0,g
+81,the counter,garlic aioli burger san diego,19,g,0,mg,115,g,1,g,0,g,3,g,0,g,0,g,0,g
+82,the counter,garlic aioli burger,15,g,0,mg,230,g,2,g,0,g,1,g,0,g,0,g,0,g
+83,the counter,garlic aioli salad,46,g,0,mg,690,g,7,g,1,g,2.5,g,0,g,0,g,0,g
+84,the counter,garlic aioli salad san diego,56,g,0,mg,350,g,3,g,0,g,9,g,0,g,0,g,0,g
+85,the counter,gluten free,6,g,0,mg,440,g,39,g,6,g,0,g,0,g,5,g,0,g
+86,the counter,griddled sourdough 2 slices,5,g,0,mg,390,g,45,g,6,g,3,g,0,g,2,g,0,g
+87,the counter,grilled pineapple,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,0,g
+88,the counter,grilled red onions,1.5,g,0,mg,390,g,6,g,0,g,0,g,0,g,1,g,0,g
+89,the counter,habanero salsa burger,0,g,0,mg,290,g,2,g,0,g,0,g,0,g,0,g,0,g
+90,the counter,habanero salsa salad,0,g,0,mg,860,g,6,g,1,g,0,g,0,g,1,g,0,g
+91,the counter,hard boiled egg,5,g,0,mg,60,g,0,g,6,g,1.5,g,0,g,0,g,0,g
+92,the counter,hawaiian,9,g,0,mg,320,g,59,g,10,g,5,g,0,g,2,g,0,g
+93,the counter,herbed goat cheese 1 slice,15,g,0,mg,390,g,4,g,10,g,10,g,0,g,0,g,0,g
+94,the counter,herbed goat cheese 2 slices,10,g,0,mg,260,g,2,g,7,g,7,g,0,g,0,g,0,g
+95,the counter,hickory bbq burger,0,g,0,mg,280,g,8,g,0,g,0,g,0,g,0,g,0,g
+96,the counter,hickory bbq salad,0,g,0,mg,840,g,24,g,0,g,0,g,0,g,0,g,0,g
+97,the counter,honey dijon burger,17,g,0,mg,380,g,3,g,0,g,1,g,0,g,0,g,0,g
+98,the counter,honey dijon salad,51,g,0,mg,1130,g,9,g,0,g,2.5,g,0,g,0,g,0,g
+99,the counter,horseradish aioli burger,15,g,0,mg,160,g,0,g,0,g,1,g,0,g,0,g,0,g
+100,the counter,horseradish aioli salad,46,g,0,mg,490,g,2,g,0,g,2.5,g,0,g,0,g,0,g
+101,the counter,hot wing sauce burger,8,g,0,mg,760,g,0,g,0,g,5,g,0,g,0,g,0,g
+102,the counter,hot wing sauce salad,23,g,0,mg,2280,g,0,g,0,g,15,g,1,g,0,g,0,g
+103,the counter,house mustard burger,6,g,0,mg,540,g,0,g,0,g,0,g,0,g,0,g,0,g
+104,the counter,house mustard salad,18,g,0,mg,1630,g,0,g,0,g,0,g,0,g,0,g,0,g
+105,the counter,impossible burger 1 lb,73,g,0,mg,6260,g,38,g,77,g,33,g,0,g,10,g,0,g
+106,the counter,impossible burger 1 2 lb,48,g,0,mg,4170,g,25,g,51,g,22,g,0,g,6,g,0,g
+107,the counter,impossible burger 1 3 lb,24,g,0,mg,2090,g,13,g,26,g,11,g,0,g,3,g,0,g
+108,the counter,jalapeno jack 1 slice,7,g,0,mg,140,g,0,g,6,g,4,g,0,g,0,g,0,g
+109,the counter,jalapeno jack 2 slices,14,g,0,mg,270,g,0,g,12,g,8,g,0,g,0,g,0,g
+110,the counter,jalapeno jack 3 slices,22,g,0,mg,410,g,0,g,17,g,12,g,0,g,0,g,0,g
+111,the counter,juicy lucy 1 3 lb,48,g,0,mg,2180,g,3,g,50,g,24,g,1.5,g,0,g,0,g
+112,the counter,just mayo burger,20,g,0,mg,150,g,0,g,0,g,1,g,0,g,0,g,0,g
+113,the counter,just mayo salad,60,g,0,mg,450,g,0,g,0,g,3,g,0,g,0,g,0,g
+114,the counter,kale,0,g,0,mg,10,g,2,g,1,g,0,g,0,g,1,g,0,g
+115,the counter,kale topping,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,0,g
+116,the counter,ketchup burger,0,g,0,mg,270,g,8,g,0,g,0,g,0,g,0,g,0,g
+117,the counter,ketchup salad,0,g,0,mg,800,g,25,g,0,g,0,g,0,g,0,g,0,g
+118,the counter,lemon vinaigrette burger,16,g,0,mg,70,g,3,g,0,g,2.5,g,0,g,0,g,0,g
+119,the counter,lemon vinaigrette salad,49,g,0,mg,210,g,9,g,0,g,7,g,0,g,0,g,0,g
+120,the counter,lettuce blend,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+121,the counter,lucy sauce,31,g,0,mg,800,g,11,g,0,g,5,g,0,g,0,g,0,g
+122,the counter,mahi mahi fillet 1 lb,17,g,0,mg,1320,g,1,g,91,g,3,g,0,g,0,g,0,g
+123,the counter,mahi mahi fillet 1 2 lb,11,g,0,mg,880,g,0,g,61,g,2,g,0,g,0,g,0,g
+124,the counter,mahi mahi fillet 1 3 lb,6,g,0,mg,440,g,0,g,30,g,1,g,0,g,0,g,0,g
+125,the counter,marinated artichokes,2,g,0,mg,90,g,2,g,0,g,0,g,0,g,0,g,0,g
+126,the counter,mixed olives,3,g,0,mg,210,g,2,g,0,g,0,g,0,g,0,g,0,g
+127,the counter,multigrain whole wheat,3.5,g,0,mg,330,g,42,g,7,g,0.5,g,0,g,3,g,0,g
+128,the counter,mustard burger,0,g,0,mg,310,g,0,g,0,g,0,g,0,g,0,g,0,g
+129,the counter,mustard salad,0,g,0,mg,1020,g,0,g,0,g,0,g,0,g,0,g,0,g
+130,the counter,organic bison 1 lb,39,g,0,mg,1340,g,0,g,115,g,16,g,0,g,0,g,0,g
+131,the counter,organic bison 1 2 lb,19,g,0,mg,670,g,0,g,57,g,8,g,0,g,0,g,0,g
+132,the counter,organic bison 1 3 lb,13,g,0,mg,450,g,0,g,38,g,5,g,0,g,0,g,0,g
+133,the counter,organic mixed greens,0,g,0,mg,25,g,2,g,0,g,0,g,0,g,0,g,0,g
+134,the counter,organic mixed greens topping,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+135,the counter,peanut burger,5,g,0,mg,300,g,4,g,1,g,1,g,0,g,0,g,0,g
+136,the counter,peanut salad,15,g,0,mg,900,g,13,g,3,g,2.5,g,0,g,0,g,0,g
+137,the counter,pepperoncinis,0,g,0,mg,270,g,0,g,0,g,0,g,0,g,0,g,0,g
+138,the counter,pimento cheese 1 slice,10,g,0,mg,170,g,0,g,4,g,4,g,0,g,0,g,0,g
+139,the counter,pimento cheese 2 slices,20,g,0,mg,340,g,1,g,7,g,8,g,0,g,0,g,0,g
+140,the counter,pimento cheese 3 slices,30,g,0,mg,510,g,2,g,11,g,12,g,0,g,0,g,0,g
+141,the counter,plantains miami,4.5,g,0,mg,0,g,23,g,1,g,1,g,0,g,2,g,0,g
+142,the counter,pretzel bun,4.5,g,0,mg,560,g,55,g,9,g,2.5,g,0,g,2,g,0,g
+143,the counter,provolone 1 slice,6,g,0,mg,200,g,0,g,6,g,4,g,0,g,0,g,0,g
+144,the counter,provolone 2 slices,13,g,0,mg,400,g,2,g,11,g,8,g,0,g,0,g,0,g
+145,the counter,provolone 3 slices,19,g,0,mg,600,g,2,g,17,g,12,g,0,g,0,g,0,g
+146,the counter,quinoa,1,g,0,mg,5,g,12,g,2,g,0,g,0,g,2,g,0,g
+147,the counter,red onions,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+148,the counter,ripened red tomatoes,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+149,the counter,roasted grape tomatoes,4.5,g,0,mg,120,g,2,g,0,g,0.5,g,0,g,0,g,0,g
+150,the counter,roasted red peppers,0,g,0,mg,70,g,1,g,0,g,0,g,0,g,0,g,0,g
+151,the counter,sausage patty miami,23,g,0,mg,300,g,1,g,6,g,8,g,0,g,0,g,0,g
+152,the counter,sauteed mushrooms,1.5,g,0,mg,55,g,1,g,1,g,0,g,0,g,0,g,0,g
+153,the counter,scallions,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+154,the counter,scrambled eggs,14,g,0,mg,190,g,1,g,13,g,4,g,0,g,0,g,0,g
+155,the counter,sesame ginger vinaigrette burger,9,g,0,mg,200,g,1,g,2,g,1.5,g,0,g,0,g,0,g
+156,the counter,sesame ginger vinaigrette salad,28,g,0,mg,600,g,3,g,7,g,4,g,0,g,1,g,0,g
+157,the counter,sliced deli ham miami,2.5,g,0,mg,1070,g,1,g,20,g,1,g,0,g,0,g,0,g
+158,the counter,smoked gouda 1 slice,6,g,0,mg,300,g,0,g,5,g,4,g,0,g,0,g,0,g
+159,the counter,smoked gouda 2 slices,13,g,0,mg,610,g,2,g,10,g,8,g,0,g,0,g,0,g
+160,the counter,smoked gouda 3 slices,19,g,0,mg,910,g,2,g,14,g,12,g,0,g,0,g,0,g
+161,the counter,southern fried chicken 1 lb,48,g,0,mg,1370,g,14,g,117,g,6,g,0,g,0,g,0,g
+162,the counter,southern fried chicken 1 2 lb,32,g,0,mg,910,g,9,g,78,g,3.5,g,0,g,0,g,0,g
+163,the counter,southern fried chicken 1 3 lb,16,g,0,mg,460,g,5,g,39,g,2,g,0,g,0,g,0,g
+164,the counter,sunny side up egg,7,g,0,mg,100,g,0,g,7,g,2,g,0,g,0,g,0,g
+165,the counter,sweet sriracha burger,0,g,0,mg,480,g,13,g,0,g,0,g,0,g,0,g,0,g
+166,the counter,sweet sriracha salad,0,g,0,mg,1450,g,40,g,0,g,0,g,0,g,2,g,0,g
+167,the counter,swiss 1 slice,6,g,0,mg,45,g,1,g,6,g,4,g,0,g,0,g,0,g
+168,the counter,swiss 2 slices,13,g,0,mg,85,g,2,g,12,g,8,g,0,g,0,g,0,g
+169,the counter,swiss 3 slices,19,g,0,mg,130,g,4,g,18,g,12,g,0,g,0,g,0,g
+170,the counter,texas toast miami 2 slices,30,g,0,mg,400,g,34,g,6,g,17,g,0,g,2,g,0,g
+171,the counter,the counter relish burger,0,g,0,mg,310,g,9,g,0,g,0,g,0,g,0,g,0,g
+172,the counter,the counter relish salad,0,g,0,mg,930,g,27,g,0,g,0,g,0,g,0,g,0,g
+173,the counter,thousand island burger russian,17,g,0,mg,280,g,2,g,0,g,3,g,0,g,0,g,0,g
+174,the counter,thousand island salad russian,50,g,0,mg,850,g,5,g,2,g,8,g,0.5,g,0,g,0,g
+175,the counter,thousand island san diego,28,g,0,mg,790,g,14,g,11,g,4.5,g,0,g,0,g,0,g
+176,the counter,tillamook cheddar 1 slice,7,g,0,mg,140,g,0,g,6,g,5,g,0,g,0,g,0,g
+177,the counter,tillamook cheddar 2 slices,14,g,0,mg,270,g,0,g,11,g,10,g,0,g,0,g,0,g
+178,the counter,tillamook cheddar 3 slices,22,g,0,mg,410,g,0,g,17,g,14,g,0,g,0,g,0,g
+179,the counter,turkey san diego,18,g,0,mg,330,g,0,g,28,g,4.5,g,0,g,0,g,0,g
+180,the counter,turkey 1 lb,73,g,0,mg,1360,g,0,g,117,g,19,g,1,g,0,g,0,g
+181,the counter,turkey 1 2 lb,37,g,0,mg,680,g,0,g,58,g,9,g,0.5,g,0,g,0,g
+182,the counter,turkey 1 3 lb,24,g,0,mg,450,g,0,g,39,g,6,g,0,g,0,g,0,g
+183,the counter,tzatziki burger,2.5,g,0,mg,60,g,1,g,0,g,0,g,0,g,0,g,0,g
+184,the counter,tzatziki salad,8,g,0,mg,180,g,3,g,2,g,1,g,0,g,0,g,0,g
+185,the counter,umami,48,g,0,mg,1250,g,2,g,3,g,8,g,0,g,0,g,0,g
+186,the counter,vegan cheese,5,g,0,mg,160,g,4,g,1,g,2.5,g,0,g,0,g,0,g
+187,the counter,vegan mayo burger,18,g,0,mg,140,g,0,g,0,g,1,g,0,g,0,g,0,g
+188,the counter,vegan mayo salad,55,g,0,mg,430,g,0,g,0,g,3,g,0,g,0,g,0,g
+189,the counter,vegan veggie san diego,18,g,0,mg,690,g,28,g,4,g,1.5,g,0,g,3,g,0,g
+190,the counter,vegan veggie 1 lb,50,g,0,mg,2160,g,66,g,16,g,4.5,g,0,g,17,g,0,g
+191,the counter,vegan veggie 1 2 lb,33,g,0,mg,1440,g,44,g,11,g,3,g,0,g,11,g,0,g
+192,the counter,vegan veggie 1 3 lb,17,g,0,mg,720,g,22,g,5,g,1.5,g,0,g,6,g,0,g
+193,the greene turtle sports bar and grille,add pepperoni for full pizza,7,g,15,mg,310,g,0,g,3,g,3,g,0,g,0,g,0,g
+194,the greene turtle sports bar and grille,add pepperoni for pizza slice,1,g,5,mg,50,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+195,the greene turtle sports bar and grille,apple pecan salad no dresssing,13,g,25,mg,440,g,33,g,8,g,6,g,0,g,6,g,23,g
+196,the greene turtle sports bar and grille,bavarian mustard sauce for pretzel sticks,0,g,0,mg,0,g,33,g,7,g,0,g,0,g,0,g,33,g
+197,the greene turtle sports bar and grille,bavarian pretzel sticks no dip,6,g,0,mg,6200,g,128,g,24,g,0,g,0,g,4,g,4,g
+198,the greene turtle sports bar and grille,bbq ribs add on crab cake,18,g,135,mg,690,g,8,g,21,g,3,g,0,g,0,g,1,g
+199,the greene turtle sports bar and grille,beer battered fish n chips,65,g,120,mg,4400,g,125,g,46,g,10,g,0,g,5,g,7,g
+200,the greene turtle sports bar and grille,beer cheese dip for pretzel sticks,14,g,35,mg,700,g,7,g,7,g,9,g,0,g,0,g,5,g
+201,the greene turtle sports bar and grille,beyond burger patty patty only,21,g,0,mg,920,g,6,g,18,g,7,g,0,g,1,g,0,g
+202,the greene turtle sports bar and grille,black and bleu shrimp salad no dresssing,40,g,275,mg,2530,g,12,g,54,g,15,g,0,g,4,g,3,g
+203,the greene turtle sports bar and grille,blackened chicken quesadilla protein choice,4,g,65,mg,430,g,1,g,26,g,1,g,0,g,0,g,0,g
+204,the greene turtle sports bar and grille,blackened chicken caesar wrap,29,g,85,mg,890,g,50,g,38,g,8,g,0,g,4,g,4,g
+205,the greene turtle sports bar and grille,blackened rockfish tacos,32,g,90,mg,2940,g,115,g,39,g,11,g,0,g,7,g,14,g
+206,the greene turtle sports bar and grille,bone in wings 10 plain,61,g,235,mg,250,g,1,g,56,g,16,g,0,g,0,g,1,g
+207,the greene turtle sports bar and grille,bone in wings dressing choice blue cheese,55,g,50,mg,880,g,3,g,3,g,11,g,0,g,0,g,3,g
+208,the greene turtle sports bar and grille,bone in wings dressing choice ranch,36,g,35,mg,460,g,4,g,2,g,5,g,0,g,0,g,3,g
+209,the greene turtle sports bar and grille,bone in wings sauce choice bangin bbq,0,g,0,mg,2430,g,89,g,0,g,0,g,0,g,0,g,78,g
+210,the greene turtle sports bar and grille,bone in wings sauce choice blazing hot,3.5,g,0,mg,5730,g,3,g,0,g,0,g,0,g,0,g,2,g
+211,the greene turtle sports bar and grille,bone in wings sauce choice cajun ranch,67,g,65,mg,1660,g,11,g,4,g,10,g,0,g,1,g,5,g
+212,the greene turtle sports bar and grille,bone in wings sauce choice carolina gold,2.5,g,0,mg,1820,g,84,g,7,g,0,g,0,g,5,g,74,g
+213,the greene turtle sports bar and grille,bone in wings sauce choice firecracker,19,g,0,mg,2670,g,91,g,4,g,7,g,0,g,4,g,58,g
+214,the greene turtle sports bar and grille,bone in wings sauce choice garlic parmesan,9,g,0,mg,450,g,0,g,0,g,0,g,0,g,0,g,0,g
+215,the greene turtle sports bar and grille,bone in wings sauce choice honey old bay,0,g,0,mg,140,g,28,g,0,g,0,g,0,g,0,g,26,g
+216,the greene turtle sports bar and grille,bone in wings sauce choice kinda crabby,7,g,0,mg,5760,g,29,g,7,g,0,g,0,g,18,g,1,g
+217,the greene turtle sports bar and grille,bone in wings sauce choice kinda hot,7,g,0,mg,4950,g,28,g,7,g,0,g,0,g,18,g,1,g
+218,the greene turtle sports bar and grille,bone in wings sauce choice maple jalapeno bacon,0,g,0,mg,1800,g,120,g,0,g,0,g,0,g,0,g,108,g
+219,the greene turtle sports bar and grille,bone in wings sauce choice mild,39,g,140,mg,2070,g,6,g,35,g,9,g,0,g,2,g,2,g
+220,the greene turtle sports bar and grille,bone in wings sauce choice smoky sweet bbq,0,g,0,mg,2160,g,96,g,0,g,0,g,0,g,0,g,84,g
+221,the greene turtle sports bar and grille,bone in wings sauce choice thai chili,3,g,0,mg,2400,g,120,g,0,g,0,g,0,g,0,g,108,g
+222,the greene turtle sports bar and grille,bone in wings seasoning choice maryland style,1,g,0,mg,1620,g,2,g,1,g,0,g,0,g,0,g,0,g
+223,the greene turtle sports bar and grille,boneless wings 12 plain,59,g,90,mg,2600,g,62,g,43,g,10,g,0,g,4,g,4,g
+224,the greene turtle sports bar and grille,boneless wings dressing choice bleu cheese,34,g,30,mg,540,g,2,g,2,g,7,g,0,g,0,g,2,g
+225,the greene turtle sports bar and grille,boneless wings dressing choice ranch,22,g,20,mg,290,g,3,g,1,g,3.5,g,0,g,0,g,2,g
+226,the greene turtle sports bar and grille,boneless wings sauce choice bangin bbq,0,g,0,mg,1620,g,59,g,0,g,0,g,0,g,0,g,52,g
+227,the greene turtle sports bar and grille,boneless wings sauce choice blazing hot,2.5,g,0,mg,3820,g,2,g,0,g,0,g,0,g,0,g,1,g
+228,the greene turtle sports bar and grille,boneless wings sauce choice cajun ranch,45,g,45,mg,1110,g,7,g,3,g,7,g,0,g,1,g,3,g
+229,the greene turtle sports bar and grille,boneless wings sauce choice carolina gold,1.5,g,0,mg,1210,g,56,g,5,g,0,g,0,g,3,g,50,g
+230,the greene turtle sports bar and grille,boneless wings sauce choice firecracker,13,g,0,mg,1780,g,61,g,3,g,4.5,g,0,g,3,g,39,g
+231,the greene turtle sports bar and grille,boneless wings sauce choice garlic parmesan,6,g,0,mg,300,g,0,g,0,g,0,g,0,g,0,g,0,g
+232,the greene turtle sports bar and grille,boneless wings sauce choice honey old bay,0,g,0,mg,95,g,19,g,0,g,0,g,0,g,0,g,17,g
+233,the greene turtle sports bar and grille,boneless wings sauce choice kinda crabby,4.5,g,0,mg,3840,g,20,g,5,g,0,g,0,g,12,g,1,g
+234,the greene turtle sports bar and grille,boneless wings sauce choice kinda hot,4.5,g,0,mg,3300,g,19,g,4,g,0,g,0,g,12,g,1,g
+235,the greene turtle sports bar and grille,boneless wings sauce choice maple jalapeno bacon,0,g,0,mg,1200,g,80,g,0,g,0,g,0,g,0,g,72,g
+236,the greene turtle sports bar and grille,boneless wings sauce choice mild,3,g,0,mg,1910,g,5,g,1,g,0,g,0,g,1,g,1,g
+237,the greene turtle sports bar and grille,boneless wings sauce choice smoky sweet bbq,0,g,0,mg,1440,g,64,g,0,g,0,g,0,g,0,g,56,g
+238,the greene turtle sports bar and grille,boneless wings sauce choice thai chili,2,g,0,mg,1600,g,80,g,0,g,0,g,0,g,0,g,72,g
+239,the greene turtle sports bar and grille,boneless wings seasoning choice maryland style,0.5,g,0,mg,1080,g,1,g,1,g,0,g,0,g,0,g,0,g
+240,the greene turtle sports bar and grille,buffalo cauliflower plain,5,g,0,mg,2690,g,121,g,19,g,1,g,0,g,6,g,5,g
+241,the greene turtle sports bar and grille,buffalo chicken nachos,90,g,285,mg,6610,g,197,g,81,g,42,g,0,g,9,g,7,g
+242,the greene turtle sports bar and grille,buffalo chicken sandwich,64,g,160,mg,3410,g,84,g,62,g,17,g,0,g,3,g,7,g
+243,the greene turtle sports bar and grille,buffalo chicken tacos,34,g,65,mg,5460,g,170,g,40,g,6,g,0,g,13,g,14,g
+244,the greene turtle sports bar and grille,cajun chicken pasta,58,g,140,mg,3340,g,123,g,73,g,19,g,0,g,5,g,14,g
+245,the greene turtle sports bar and grille,cajun chicken pasta add double chicken,5,g,80,mg,270,g,1,g,33,g,1,g,0,g,0,g,0,g
+246,the greene turtle sports bar and grille,cajun shrimp pasta,59,g,255,mg,3440,g,124,g,66,g,18,g,0,g,5,g,14,g
+247,the greene turtle sports bar and grille,cajun shrimp pasta add double shrimp,6,g,195,mg,370,g,2,g,26,g,1,g,0,g,0,g,0,g
+248,the greene turtle sports bar and grille,california chicken sandwich,27,g,120,mg,1200,g,27,g,43,g,8,g,0,g,4,g,5,g
+249,the greene turtle sports bar and grille,carne asada quesadilla protein choice,15,g,130,mg,880,g,2,g,43,g,5,g,0,g,0,g,1,g
+250,the greene turtle sports bar and grille,carne asada bowl,28,g,140,mg,2660,g,65,g,57,g,10,g,0,g,9,g,8,g
+251,the greene turtle sports bar and grille,carne asada tacos,32,g,135,mg,3350,g,114,g,53,g,9,g,0,g,7,g,13,g
+252,the greene turtle sports bar and grille,celery sticks for wings,0,g,0,mg,25,g,1,g,0,g,0,g,0,g,0,g,1,g
+253,the greene turtle sports bar and grille,cheese quesadilla add a protein,22,g,60,mg,990,g,32,g,15,g,14,g,0,g,1,g,5,g
+254,the greene turtle sports bar and grille,cheese quesadilla guacamole side,8,g,0,mg,190,g,5,g,1,g,1,g,0,g,4,g,1,g
+255,the greene turtle sports bar and grille,chesapeake burger add burger patty choice,44,g,110,mg,1440,g,41,g,26,g,19,g,0,g,3,g,8,g
+256,the greene turtle sports bar and grille,chicken caesar salad,60,g,140,mg,1890,g,21,g,50,g,15,g,0.5,g,4,g,4,g
+257,the greene turtle sports bar and grille,classic cheeseburger add burger patty choice and toppings,18,g,25,mg,980,g,38,g,12,g,7,g,0,g,2,g,5,g
+258,the greene turtle sports bar and grille,coke,0,g,0,mg,10,g,49,g,0,g,0,g,0,g,0,g,49,g
+259,the greene turtle sports bar and grille,coke zero,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+260,the greene turtle sports bar and grille,cowboy burger add burger patty choice,26,g,45,mg,1610,g,77,g,20,g,10,g,0,g,3,g,34,g
+261,the greene turtle sports bar and grille,crab cake duo,90,g,310,mg,3000,g,53,g,46,g,14,g,0,g,6,g,11,g
+262,the greene turtle sports bar and grille,crab dip quesadilla topping choice,15,g,55,mg,270,g,2,g,7,g,8,g,0,g,0,g,2,g
+263,the greene turtle sports bar and grille,crabby melt,69,g,150,mg,1710,g,51,g,36,g,26,g,0,g,2,g,7,g
+264,the greene turtle sports bar and grille,crabby rinds,9,g,75,mg,1850,g,1,g,44,g,2.5,g,0,g,0,g,0,g
+265,the greene turtle sports bar and grille,crispy chicken salad no dresssing,24,g,110,mg,2210,g,82,g,46,g,13,g,0,g,3,g,4,g
+266,the greene turtle sports bar and grille,diet coke,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+267,the greene turtle sports bar and grille,entree salad dressing choice balsamic vinaigrette,16,g,0,mg,620,g,13,g,0,g,0,g,0,g,0,g,10,g
+268,the greene turtle sports bar and grille,entree salad dressing choice blue cheese,55,g,50,mg,880,g,3,g,3,g,11,g,0,g,0,g,3,g
+269,the greene turtle sports bar and grille,entree salad dressing choice caesar,47,g,45,mg,740,g,5,g,4,g,9,g,1,g,0,g,2,g
+270,the greene turtle sports bar and grille,entree salad dressing choice honey mustard,53,g,50,mg,520,g,17,g,2,g,8,g,1,g,1,g,14,g
+271,the greene turtle sports bar and grille,entree salad dressing choice house,16,g,0,mg,960,g,14,g,0,g,0,g,0,g,0,g,10,g
+272,the greene turtle sports bar and grille,entree salad dressing choice oil and vinegar,46,g,0,mg,0,g,0,g,0,g,7,g,0,g,0,g,0,g
+273,the greene turtle sports bar and grille,entree salad dressing choice ranch,36,g,35,mg,460,g,4,g,2,g,5,g,0,g,0,g,3,g
+274,the greene turtle sports bar and grille,entree salad dressing choice spicy ranch,34,g,15,mg,1020,g,8,g,2,g,5,g,0.5,g,2,g,4,g
+275,the greene turtle sports bar and grille,entree salad dressing choice sweet vidalia onion,29,g,0,mg,370,g,33,g,0,g,5,g,0,g,0,g,33,g
+276,the greene turtle sports bar and grille,fanta orange,0,g,0,mg,65,g,63,g,0,g,0,g,0,g,0,g,63,g
+277,the greene turtle sports bar and grille,fat tire beer cheese topping,9,g,20,mg,430,g,5,g,5,g,5,g,0,g,0,g,3,g
+278,the greene turtle sports bar and grille,fat tire beer cheesesteak,20,g,85,mg,1920,g,67,g,34,g,9,g,0,g,3,g,4,g
+279,the greene turtle sports bar and grille,fat tire beer cheesesteak double steak portion,4.5,g,65,mg,910,g,5,g,19,g,2.5,g,0,g,0,g,0,g
+280,the greene turtle sports bar and grille,flash fried brussels,21,g,30,mg,1700,g,73,g,21,g,6,g,0,g,11,g,49,g
+281,the greene turtle sports bar and grille,french fries,11,g,0,mg,1070,g,26,g,3,g,2,g,0,g,3,g,2,g
+282,the greene turtle sports bar and grille,funnel cake fries,31,g,85,mg,800,g,164,g,9,g,11,g,0,g,3,g,92,g
+283,the greene turtle sports bar and grille,gooey monkey bread,32,g,55,mg,670,g,112,g,9,g,12,g,0,g,2,g,59,g
+284,the greene turtle sports bar and grille,grilled salmon sandwich,44,g,105,mg,1770,g,35,g,30,g,7,g,0,g,5,g,10,g
+285,the greene turtle sports bar and grille,hamburger patty patty only add to burger,28,g,140,mg,660,g,1,g,40,g,10,g,0,g,0,g,0,g
+286,the greene turtle sports bar and grille,hamburger patty patty only for maple bacon brunch burger,23,g,105,mg,730,g,1,g,30,g,8,g,0,g,0,g,0,g
+287,the greene turtle sports bar and grille,hand breaded tenders basket plain,26,g,90,mg,2380,g,157,g,53,g,5,g,0,g,4,g,7,g
+288,the greene turtle sports bar and grille,hearty chili bowl,31,g,90,mg,1060,g,22,g,24,g,16,g,0,g,6,g,5,g
+289,the greene turtle sports bar and grille,hearty chili cup,13,g,45,mg,470,g,12,g,12,g,7,g,0,g,3,g,4,g
+290,the greene turtle sports bar and grille,hi c fruit punch,0,g,0,mg,15,g,50,g,0,g,0,g,0,g,0,g,50,g
+291,the greene turtle sports bar and grille,hog hammers feast,38,g,240,mg,4470,g,137,g,83,g,9,g,0,g,5,g,88,g
+292,the greene turtle sports bar and grille,hog hammers feast extra hog hammers,22,g,240,mg,1290,g,15,g,78,g,6,g,0,g,0,g,9,g
+293,the greene turtle sports bar and grille,house slaw,4.5,g,0,mg,190,g,9,g,1,g,0.5,g,0,g,2,g,7,g
+294,the greene turtle sports bar and grille,ice cream sundae,29,g,105,mg,230,g,97,g,10,g,17,g,0,g,2,g,84,g
+295,the greene turtle sports bar and grille,kanye fries,46,g,60,mg,2310,g,143,g,12,g,12,g,0,g,10,g,41,g
+296,the greene turtle sports bar and grille,kids cheese pizza 1 slice,3,g,5,mg,260,g,14,g,5,g,2,g,0,g,1,g,1,g
+297,the greene turtle sports bar and grille,kids cheese pizza full pizza,19,g,30,mg,1570,g,84,g,30,g,12,g,0,g,4,g,8,g
+298,the greene turtle sports bar and grille,kids cheeseburger,39,g,130,mg,1610,g,47,g,44,g,14,g,0,g,2,g,1,g
+299,the greene turtle sports bar and grille,kids grilled cheese,25,g,50,mg,1580,g,48,g,20,g,11,g,0,g,2,g,4,g
+300,the greene turtle sports bar and grille,kids grilled chicken,7,g,80,mg,1010,g,47,g,42,g,1,g,0,g,2,g,1,g
+301,the greene turtle sports bar and grille,kids hot dogs,25,g,50,mg,1060,g,34,g,16,g,9,g,0,g,0,g,4,g
+302,the greene turtle sports bar and grille,kids mac n cheese,17,g,30,mg,1030,g,40,g,15,g,7,g,0,g,2,g,5,g
+303,the greene turtle sports bar and grille,kids turtle tenders,4.5,g,80,mg,1790,g,71,g,41,g,1,g,0,g,0,g,0,g
+304,the greene turtle sports bar and grille,korean salmon bowl,39,g,70,mg,3090,g,102,g,39,g,6,g,0,g,10,g,14,g
+305,the greene turtle sports bar and grille,legendary tenders sauce bangin bbq,0,g,0,mg,810,g,30,g,0,g,0,g,0,g,0,g,26,g
+306,the greene turtle sports bar and grille,legendary tenders sauce cajun ranch,22,g,20,mg,560,g,4,g,1,g,3.5,g,0,g,0,g,2,g
+307,the greene turtle sports bar and grille,legendary tenders sauce carolina gold wing sauce,1,g,0,mg,610,g,28,g,2,g,0,g,0,g,2,g,25,g
+308,the greene turtle sports bar and grille,legendary tenders sauce chipotle honey mustard,31,g,30,mg,380,g,11,g,1,g,4.5,g,0.5,g,1,g,8,g
+309,the greene turtle sports bar and grille,legendary tenders sauce smoky bbq sauce,0,g,0,mg,720,g,32,g,0,g,0,g,0,g,0,g,28,g
+310,the greene turtle sports bar and grille,legendary tenders plain,9,g,80,mg,3050,g,123,g,49,g,1.5,g,0,g,0,g,0,g
+311,the greene turtle sports bar and grille,loaded tater tots,95,g,95,mg,3920,g,105,g,30,g,25,g,0,g,10,g,8,g
+312,the greene turtle sports bar and grille,maple bacon brunch burger add burger patty choice,33,g,250,mg,1940,g,79,g,24,g,11,g,0,g,2,g,41,g
+313,the greene turtle sports bar and grille,maryland crab cake sandwich,69,g,190,mg,1370,g,34,g,25,g,11,g,0,g,2,g,6,g
+314,the greene turtle sports bar and grille,maryland crab soup bowl,8,g,0,mg,1150,g,15,g,2,g,1.5,g,1.5,g,2,g,4,g
+315,the greene turtle sports bar and grille,maryland crab soup cup,4,g,0,mg,580,g,8,g,1,g,1,g,1,g,1,g,2,g
+316,the greene turtle sports bar and grille,nola chicken bowl,47,g,185,mg,4230,g,62,g,80,g,7,g,0,g,11,g,6,g
+317,the greene turtle sports bar and grille,old bay bbq ribs full rack,57,g,180,mg,1190,g,67,g,37,g,20,g,0,g,1,g,62,g
+318,the greene turtle sports bar and grille,old bay bbq ribs half rack,58,g,150,mg,3200,g,83,g,34,g,18,g,0,g,5,g,50,g
+319,the greene turtle sports bar and grille,old bay seasoned hamburger patty patty only,31,g,140,mg,660,g,1,g,40,g,11,g,0,g,0,g,0,g
+320,the greene turtle sports bar and grille,pibb xtra,0,g,0,mg,25,g,47,g,0,g,0,g,0,g,0,g,47,g
+321,the greene turtle sports bar and grille,protein choice blackened shrimp,6,g,195,mg,1270,g,5,g,27,g,1,g,0,g,1,g,0,g
+322,the greene turtle sports bar and grille,protein choice grilled chicken,5,g,80,mg,1190,g,2,g,33,g,1,g,0,g,0,g,1,g
+323,the greene turtle sports bar and grille,protein choice grilled salmon,19,g,140,mg,1200,g,2,g,49,g,3.5,g,0,g,0,g,1,g
+324,the greene turtle sports bar and grille,reeses brownie sundae,54,g,85,mg,540,g,136,g,17,g,20,g,0,g,6,g,104,g
+325,the greene turtle sports bar and grille,roasted broccoli,6,g,0,mg,920,g,6,g,3,g,0.5,g,0,g,2,g,2,g
+326,the greene turtle sports bar and grille,rockfish bites,45,g,85,mg,3060,g,92,g,39,g,7,g,0,g,1,g,0,g
+327,the greene turtle sports bar and grille,sauteed mushrooms only add to classic cheeseburger,1,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,1,g
+328,the greene turtle sports bar and grille,seagrams ginger ale,0,g,0,mg,55,g,43,g,0,g,0,g,0,g,0,g,43,g
+329,the greene turtle sports bar and grille,shrimp basket,20,g,150,mg,4110,g,136,g,36,g,4,g,0,g,7,g,16,g
+330,the greene turtle sports bar and grille,shrimp fiesta tacos,27,g,200,mg,2800,g,114,g,35,g,7,g,0,g,7,g,12,g
+331,the greene turtle sports bar and grille,side garden salad,12,g,135,mg,280,g,7,g,12,g,7,g,0,g,2,g,2,g
+332,the greene turtle sports bar and grille,side of apple slices,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,1,g,5,g
+333,the greene turtle sports bar and grille,side of french fries,11,g,0,mg,1070,g,26,g,3,g,2,g,0,g,3,g,2,g
+334,the greene turtle sports bar and grille,side of fresh broccoli,4.5,g,10,mg,160,g,6,g,3,g,2.5,g,0,g,2,g,2,g
+335,the greene turtle sports bar and grille,side salad dressing choice balsamic vinaigrette,10,g,0,mg,380,g,8,g,0,g,0,g,0,g,0,g,6,g
+336,the greene turtle sports bar and grille,side salad dressing choice blue cheese,34,g,30,mg,540,g,2,g,2,g,7,g,0,g,0,g,2,g
+337,the greene turtle sports bar and grille,side salad dressing choice caesar,29,g,30,mg,460,g,3,g,2,g,6,g,0.5,g,0,g,1,g
+338,the greene turtle sports bar and grille,side salad dressing choice honey mustard,32,g,30,mg,320,g,10,g,1,g,5,g,0.5,g,1,g,8,g
+339,the greene turtle sports bar and grille,side salad dressing choice house,10,g,0,mg,590,g,8,g,0,g,0,g,0,g,0,g,6,g
+340,the greene turtle sports bar and grille,side salad dressing choice oil and vinegar,28,g,0,mg,0,g,0,g,0,g,4,g,0,g,0,g,0,g
+341,the greene turtle sports bar and grille,side salad dressing choice ranch,22,g,20,mg,290,g,3,g,1,g,3.5,g,0,g,0,g,2,g
+342,the greene turtle sports bar and grille,side salad dressing choice spicy ranch,21,g,10,mg,630,g,5,g,1,g,3,g,0,g,1,g,2,g
+343,the greene turtle sports bar and grille,side salad dressing choice sweet vidalia onion,18,g,0,mg,230,g,20,g,0,g,3,g,0,g,0,g,20,g
+344,the greene turtle sports bar and grille,slamburgers,50,g,145,mg,2300,g,46,g,48,g,18,g,0,g,2,g,7,g
+345,the greene turtle sports bar and grille,sliced bacon only add to classic cheeseburger,7,g,15,mg,240,g,0,g,5,g,2.5,g,0,g,0,g,0,g
+346,the greene turtle sports bar and grille,smith island cake,26,g,100,mg,380,g,94,g,4,g,10,g,0,g,0,g,72,g
+347,the greene turtle sports bar and grille,smoked bacon bits topping,14,g,30,mg,480,g,0,g,10,g,5,g,0,g,0,g,0,g
+348,the greene turtle sports bar and grille,smokehouse bbq nachos,69,g,225,mg,6010,g,191,g,65,g,31,g,0,g,9,g,42,g
+349,the greene turtle sports bar and grille,smoky pork bbq sandwich,19,g,85,mg,1820,g,96,g,37,g,3.5,g,0,g,3,g,36,g
+350,the greene turtle sports bar and grille,smoky pork grilled cheese,68,g,250,mg,3480,g,87,g,74,g,37,g,0,g,2,g,36,g
+351,the greene turtle sports bar and grille,soup side club crackers,1.5,g,0,mg,75,g,4,g,1,g,0,g,0,g,0,g,0,g
+352,the greene turtle sports bar and grille,spicy baja fish tacos,77,g,80,mg,3720,g,137,g,23,g,12,g,0,g,8,g,15,g
+353,the greene turtle sports bar and grille,spicy chicken sandwich,50,g,115,mg,4060,g,164,g,56,g,8,g,0,g,2,g,5,g
+354,the greene turtle sports bar and grille,spicy jack burger add burger patty choice,41,g,60,mg,1320,g,46,g,21,g,14,g,0,g,6,g,7,g
+355,the greene turtle sports bar and grille,spicy leaf eater burger,80,g,75,mg,1870,g,38,g,28,g,18,g,0,g,4,g,9,g
+356,the greene turtle sports bar and grille,sprite,0,g,0,mg,40,g,47,g,0,g,0,g,0,g,0,g,47,g
+357,the greene turtle sports bar and grille,sweet potato fries,8,g,0,mg,960,g,36,g,2,g,1,g,0,g,6,g,13,g
+358,the greene turtle sports bar and grille,tailgate burger add burger patty choice,26,g,35,mg,1150,g,48,g,17,g,10,g,0,g,3,g,10,g
+359,the greene turtle sports bar and grille,tater tots,18,g,0,mg,1390,g,40,g,4,g,2.5,g,0,g,4,g,0,g
+360,the greene turtle sports bar and grille,tenders basket sauce bangin bbq,0,g,0,mg,810,g,30,g,0,g,0,g,0,g,0,g,26,g
+361,the greene turtle sports bar and grille,tenders basket sauce cajun ranch,22,g,20,mg,560,g,4,g,1,g,3.5,g,0,g,0,g,2,g
+362,the greene turtle sports bar and grille,tenders basket sauce carolina gold wing sauce,1,g,0,mg,610,g,28,g,2,g,0,g,0,g,2,g,25,g
+363,the greene turtle sports bar and grille,tenders basket sauce chipotle honey mustard,31,g,30,mg,380,g,11,g,1,g,4.5,g,0.5,g,1,g,8,g
+364,the greene turtle sports bar and grille,tenders basket sauce smoky bbq,0,g,0,mg,720,g,32,g,0,g,0,g,0,g,0,g,28,g
+365,the greene turtle sports bar and grille,ty cobb salad no dressing,29,g,115,mg,980,g,11,g,43,g,10,g,0,g,6,g,3,g
+366,the greene turtle sports bar and grille,world famous crab dip,60,g,205,mg,6020,g,106,g,53,g,31,g,0,g,4,g,10,g
+367,the greene turtle sports bar and grille,world famous crab dip topping,30,g,115,mg,550,g,5,g,14,g,16,g,0,g,0,g,4,g
+368,the hungry hobo,1 veggie sandwich,19,g,45,mg,720,g,46,g,24,g,11,g,0,g,5,g,6,g
+369,the hungry hobo,10 tuna fish salad sandwich,16,g,50,mg,810,g,50,g,23,g,3,g,0,g,5,g,8,g
+370,the hungry hobo,11 hobo combination sandwich,22,g,65,mg,1690,g,47,g,27,g,10,g,0,g,5,g,9,g
+371,the hungry hobo,15 roast beef and cheddar sandwich,15,g,55,mg,720,g,45,g,27,g,6,g,0,g,5,g,6,g
+372,the hungry hobo,16 reuben sandwich,13,g,50,mg,1060,g,39,g,29,g,5,g,0,g,6,g,6,g
+373,the hungry hobo,17 ham swiss sandwich,15,g,55,mg,1250,g,48,g,27,g,8,g,0,g,5,g,9,g
+374,the hungry hobo,2 ham salami provolone sandwich,19,g,55,mg,1530,g,47,g,24,g,8,g,0,g,5,g,9,g
+375,the hungry hobo,20 plain,23,g,0,mg,240,g,56,g,7,g,5,g,5,g,6,g,3,g
+376,the hungry hobo,22 sour cream,28,g,45,mg,200,g,58,g,8,g,12,g,3,g,6,g,6,g
+377,the hungry hobo,24 melted cheddar,22,g,5,mg,850,g,65,g,8,g,6,g,2.5,g,6,g,3,g
+378,the hungry hobo,25 melted cheddar and bacon bits,37,g,25,mg,1850,g,65,g,21,g,12,g,2.5,g,6,g,4,g
+379,the hungry hobo,26 melted cheddar broccoli and cauliflower,22,g,5,mg,880,g,72,g,12,g,6,g,2.5,g,11,g,5,g
+380,the hungry hobo,29 sour cream chopped cheddar and bacon bits,56,g,105,mg,1440,g,59,g,31,g,26,g,3,g,6,g,6,g
+381,the hungry hobo,3 ham turkey provolone sandwich,11,g,35,mg,1380,g,47,g,24,g,5,g,0,g,5,g,7,g
+382,the hungry hobo,30 chili chopped cheddar and onions,29,g,50,mg,950,g,77,g,24,g,13,g,3,g,12,g,6,g
+383,the hungry hobo,31 ham and melted cheddar,24,g,25,mg,1440,g,67,g,14,g,7,g,2.5,g,6,g,6,g
+384,the hungry hobo,33 taco tato,41,g,55,mg,1740,g,106,g,29,g,15,g,4,g,16,g,8,g
+385,the hungry hobo,5 smoked turkey breast sandwich,3.5,g,25,mg,910,g,47,g,20,g,1,g,0,g,5,g,6,g
+386,the hungry hobo,6 pepperoni provolone sandwich,25,g,50,mg,1340,g,45,g,24,g,11,g,0,g,5,g,6,g
+387,the hungry hobo,7 turkey sandwich,7,g,20,mg,1130,g,46,g,20,g,2,g,0,g,5,g,6,g
+388,the hungry hobo,8 ham swiss sandwich,15,g,55,mg,1250,g,48,g,27,g,8,g,0,g,5,g,9,g
+389,the hungry hobo,9 roast beef sandwich,9,g,40,mg,620,g,44,g,23,g,3,g,0,g,5,g,6,g
+390,the hungry hobo,1000 island dressing,8,g,10,mg,180,g,5,g,0,g,1,g,0,g,0,g,4,g
+391,the hungry hobo,baby bo milk,5,g,20,mg,125,g,13,g,8,g,3,g,0,g,0,g,12,g
+392,the hungry hobo,bacon bits,15,g,20,mg,1010,g,0,g,13,g,6,g,0,g,0,g,0,g
+393,the hungry hobo,baja chicken enchilada soup,15,g,50,mg,1020,g,19,g,10,g,6,g,0,g,4,g,6,g
+394,the hungry hobo,banana nut muffin,34,g,105,mg,500,g,73,g,8,g,6,g,1,g,2,g,43,g
+395,the hungry hobo,banana peppers,0,g,0,mg,230,g,0,g,0,g,0,g,0,g,0,g,0,g
+396,the hungry hobo,bean with ham soup,1,g,5,mg,1140,g,20,g,7,g,0,g,0,g,6,g,3,g
+397,the hungry hobo,black angus steak and provolone and banana peppers mushrooms onions grilled sandwich,29,g,85,mg,1050,g,46,g,37,g,12,g,0,g,5,g,6,g
+398,the hungry hobo,black angus steak and provolone and banana peppers onions grilled sandwich,29,g,85,mg,880,g,44,g,37,g,12,g,0,g,4,g,5,g
+399,the hungry hobo,black angus steak and provolone and mushrooms grilled sandwich,29,g,85,mg,810,g,44,g,37,g,12,g,0,g,5,g,5,g
+400,the hungry hobo,black angus steak and provolone and mushrooms onions grilled sandwich,29,g,85,mg,820,g,46,g,37,g,12,g,0,g,5,g,6,g
+401,the hungry hobo,black angus steak and provolone and onions grilled sandwich,29,g,85,mg,650,g,44,g,37,g,12,g,0,g,4,g,5,g
+402,the hungry hobo,black angus steak and provolone grilled sandwich,29,g,85,mg,650,g,42,g,36,g,12,g,0,g,4,g,4,g
+403,the hungry hobo,blueberry muffin,26,g,80,mg,480,g,71,g,6,g,4.5,g,1,g,1,g,44,g
+404,the hungry hobo,broccoli,0,g,0,mg,20,g,4,g,2,g,0,g,0,g,2,g,1,g
+405,the hungry hobo,broccoli cheese soup,14,g,50,mg,1280,g,11,g,9,g,9,g,0.5,g,2,g,3,g
+406,the hungry hobo,butter,11,g,0,mg,105,g,0,g,0,g,2.5,g,2.5,g,0,g,0,g
+407,the hungry hobo,california medley soup,9,g,30,mg,1410,g,14,g,7,g,6,g,0,g,1,g,7,g
+408,the hungry hobo,cauliflower,0,g,0,mg,15,g,3,g,1,g,0,g,0,g,2,g,1,g
+409,the hungry hobo,cheddar baked potato soup,11,g,40,mg,880,g,22,g,11,g,7,g,0,g,1,g,5,g
+410,the hungry hobo,cheddar cheese sauce,10,g,5,mg,720,g,9,g,1,g,3.5,g,0,g,0,g,0,g
+411,the hungry hobo,cheddar fries,46,g,5,mg,890,g,58,g,6,g,11,g,0,g,5,g,1,g
+412,the hungry hobo,cheesy chicken tortilla soup,5,g,25,mg,1260,g,13,g,6,g,2.5,g,0,g,1,g,2,g
+413,the hungry hobo,chef salad ham,7,g,30,mg,410,g,4,g,8,g,4.5,g,0,g,1,g,3,g
+414,the hungry hobo,chef salad ham and turkey,7,g,30,mg,400,g,4,g,9,g,4.5,g,0,g,1,g,3,g
+415,the hungry hobo,chef salad tuna,11,g,35,mg,250,g,5,g,10,g,4.5,g,0,g,1,g,3,g
+416,the hungry hobo,chef salad turkey,8,g,25,mg,390,g,4,g,9,g,4.5,g,0,g,1,g,2,g
+417,the hungry hobo,chicken and green chile con queso soup,18,g,65,mg,1160,g,15,g,12,g,11,g,0,g,1,g,3,g
+418,the hungry hobo,chicken breast and provolone and banana peppers mushrooms onions grilled sandwich,14,g,80,mg,1240,g,49,g,34,g,6,g,0,g,5,g,8,g
+419,the hungry hobo,chicken breast and provolone and banana peppers onions grilled sandwich,14,g,80,mg,1070,g,47,g,34,g,6,g,0,g,4,g,7,g
+420,the hungry hobo,chicken breast and provolone and mushrooms grilled sandwich,14,g,80,mg,1000,g,47,g,34,g,6,g,0,g,5,g,7,g
+421,the hungry hobo,chicken breast and provolone and mushrooms onions grilled sandwich,14,g,80,mg,1010,g,49,g,34,g,6,g,0,g,5,g,8,g
+422,the hungry hobo,chicken breast and provolone and onions grilled sandwich,14,g,80,mg,840,g,47,g,34,g,6,g,0,g,4,g,7,g
+423,the hungry hobo,chicken breast and provolone grilled sandwich,14,g,80,mg,840,g,45,g,33,g,6,g,0,g,4,g,6,g
+424,the hungry hobo,chicken noodle soup,2.5,g,25,mg,900,g,18,g,5,g,1,g,0,g,1,g,1,g
+425,the hungry hobo,chili,10,g,20,mg,1140,g,38,g,15,g,4,g,0.5,g,11,g,3,g
+426,the hungry hobo,chili for potato,6,g,10,mg,640,g,21,g,9,g,2,g,0,g,6,g,2,g
+427,the hungry hobo,chocolate cake,24,g,65,mg,530,g,99,g,9,g,7,g,5,g,3,g,71,g
+428,the hungry hobo,chocolate chip cookie,21,g,40,mg,360,g,56,g,5,g,7,g,4,g,2,g,35,g
+429,the hungry hobo,chocolate pudding,6,g,0,mg,260,g,29,g,1,g,1.5,g,2,g,0,g,21,g
+430,the hungry hobo,chopped cheddar cheese,12,g,40,mg,230,g,0,g,9,g,8,g,0,g,0,g,0,g
+431,the hungry hobo,chopped ham,2,g,20,mg,590,g,2,g,6,g,1,g,0,g,0,g,2,g
+432,the hungry hobo,cream of chicken with wild rice soup,13,g,40,mg,1010,g,17,g,4,g,7,g,0,g,1,g,3,g
+433,the hungry hobo,french bread,5,g,0,mg,500,g,42,g,7,g,2.5,g,0,g,1,g,4,g
+434,the hungry hobo,fruit punch,0,g,60,mg,20,g,0,g,0,g,50,g,2,g,0,g,60,g
+435,the hungry hobo,grilled chicken salad,18,g,110,mg,510,g,9,g,30,g,9,g,0,g,2,g,6,g
+436,the hungry hobo,ham and cheddar baby bo,6,g,20,mg,690,g,27,g,12,g,3,g,0,g,3,g,5,g
+437,the hungry hobo,mayonnaise,4.5,g,10,mg,75,g,2,g,0,g,1,g,0,g,0,g,1,g
+438,the hungry hobo,mild nachos,39,g,5,mg,1530,g,82,g,10,g,8,g,4,g,8,g,0,g
+439,the hungry hobo,mt dew,0,g,60,mg,20,g,0,g,0,g,70,g,2,g,0,g,58,g
+440,the hungry hobo,mug root beer,0,g,50,mg,20,g,0,g,0,g,30,g,2,g,0,g,52,g
+441,the hungry hobo,ocean spray 100 apple juice,0,g,50,mg,15,g,0,g,1,g,20,g,1,g,0,g,48,g
+442,the hungry hobo,ocean spray pineapple peach mango juice blend,0,g,60,mg,20,g,0,g,1,g,25,g,1,g,0,g,51,g
+443,the hungry hobo,ocean spray strawberry kiwi juice drink,0,g,55,mg,20,g,0,g,0,g,80,g,3,g,0,g,47,g
+444,the hungry hobo,oil and vinegar,1.5,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+445,the hungry hobo,onions,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+446,the hungry hobo,onions for potato,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,1,g
+447,the hungry hobo,peanut butter cookie,22,g,40,mg,200,g,57,g,8,g,8,g,0,g,2,g,38,g
+448,the hungry hobo,pepsi,0,g,55,mg,20,g,0,g,0,g,40,g,2,g,0,g,56,g
+449,the hungry hobo,pink lemonade,0,g,55,mg,20,g,0,g,0,g,210,g,8,g,0,g,54,g
+450,the hungry hobo,potato salad,10,g,20,mg,560,g,29,g,2,g,4,g,0,g,2,g,6,g
+451,the hungry hobo,pumpkin spice,39,g,60,mg,510,g,97,g,6,g,7,g,3,g,1,g,70,g
+452,the hungry hobo,rye bread,2,g,0,mg,370,g,35,g,8,g,0,g,0,g,4,g,3,g
+453,the hungry hobo,sour cream,17,g,45,mg,70,g,2,g,2,g,10,g,0.5,g,0,g,2,g
+454,the hungry hobo,supreme nachos,43,g,15,mg,1960,g,97,g,16,g,9,g,4.5,g,12,g,2,g
+455,the hungry hobo,taco chips,9,g,0,mg,250,g,23,g,3,g,1.5,g,1.5,g,3,g,0,g
+456,the hungry hobo,taco salad,16,g,25,mg,710,g,31,g,13,g,6,g,1,g,7,g,3,g
+457,the hungry hobo,tomatoes,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+458,the hungry hobo,tuna and cheddar baby bo,10,g,30,mg,480,g,29,g,14,g,3.5,g,0,g,3,g,4,g
+459,the hungry hobo,turkey and cheddar baby bo,6,g,15,mg,590,g,27,g,12,g,3,g,0,g,3,g,3,g
+460,the hungry hobo,vanilla pudding,6,g,0,mg,230,g,33,g,1,g,1.5,g,2,g,0,g,25,g
+461,the hungry hobo,vegetable beef soup,2,g,10,mg,920,g,11,g,6,g,1,g,0,g,1,g,3,g
+462,the hungry hobo,waffle fries,34,g,0,mg,45,g,47,g,5,g,6,g,0,g,5,g,1,g
+463,the hungry hobo,whole wheat bread,3.5,g,0,mg,430,g,42,g,10,g,1,g,0,g,4,g,4,g
+464,the hungry hobo,wild cherry pepsi,0,g,55,mg,20,g,0,g,0,g,40,g,2,g,0,g,56,g
+465,the hungry hobo,wisconsin cheese soup,12,g,30,mg,1070,g,19,g,11,g,6,g,0,g,1,g,9,g
+466,the keg steakhouse,asiago rice,11,g,20,mg,570,g,28,g,8,g,6,g,0,g,2,g,2,g
+467,the keg steakhouse,atlantic lobster tail,51,g,250,mg,490,g,4,g,20,g,32,g,1,g,2,g,1,g
+468,the keg steakhouse,baja halibut taco x3,27,g,45,mg,1650,g,66,g,32,g,7,g,0,g,5,g,6,g
+469,the keg steakhouse,baked brie,46,g,125,mg,1200,g,54,g,29,g,26,g,0,g,2,g,19,g
+470,the keg steakhouse,baked garlic shrimp,30,g,175,mg,760,g,33,g,21,g,14,g,0,g,2,g,2,g
+471,the keg steakhouse,baked potato plain,2,g,0,mg,0,g,59,g,7,g,0,g,0,g,4,g,2,g
+472,the keg steakhouse,baked potato fully loaded,24,g,30,mg,340,g,61,g,12,g,9,g,0,g,4,g,3,g
+473,the keg steakhouse,baseball top sirloin 12 oz,21,g,185,mg,670,g,5,g,72,g,7,g,0,g,2,g,3,g
+474,the keg steakhouse,baseball top sirloin 12oz,26,g,195,mg,750,g,8,g,74,g,9,g,0,g,3,g,5,g
+475,the keg steakhouse,bbq pork ribs,16,g,65,mg,290,g,6,g,16,g,7,g,0,g,0,g,6,g
+476,the keg steakhouse,bbq ribs full rack,109,g,380,mg,2450,g,87,g,99,g,41,g,1,g,8,g,31,g
+477,the keg steakhouse,bbq ribs half rach,65,g,195,mg,1920,g,78,g,53,g,23,g,0.5,g,7,g,24,g
+478,the keg steakhouse,bearnaise sauce,48,g,120,mg,160,g,3,g,2,g,5,g,0,g,0,g,1,g
+479,the keg steakhouse,billy miner pie,31,g,55,mg,300,g,68,g,8,g,15,g,1,g,3,g,76,g
+480,the keg steakhouse,blackened prime rib bites,48,g,135,mg,1570,g,9,g,41,g,16,g,0,g,1,g,4,g
+481,the keg steakhouse,bleu cheese filet 7 oz,38,g,165,mg,1390,g,30,g,55,g,11,g,0,g,3,g,5,g
+482,the keg steakhouse,blue cheese crust,10,g,275,mg,1270,g,8,g,21,g,6,g,0,g,2,g,4,g
+483,the keg steakhouse,brownie sundae,51,g,115,mg,590,g,156,g,12,g,23,g,2,g,3,g,108,g
+484,the keg steakhouse,calamari,16,g,465,mg,960,g,40,g,34,g,2,g,0,g,3,g,11,g
+485,the keg steakhouse,carrot cake,47,g,115,mg,470,g,88,g,8,g,19,g,1,g,3,g,63,g
+486,the keg steakhouse,cauliflower mash,15,g,40,mg,660,g,24,g,6,g,8,g,0,g,5,g,6,g
+487,the keg steakhouse,charred corn soup large,10,g,10,mg,1180,g,35,g,6,g,3,g,0,g,5,g,5,g
+488,the keg steakhouse,charred corn soup small,7,g,5,mg,710,g,20,g,4,g,2,g,0,g,3,g,3,g
+489,the keg steakhouse,cheesecake with bing cherry topping,39,g,110,mg,400,g,73,g,11,g,25,g,0.5,g,2,g,59,g
+490,the keg steakhouse,cheesecake plain,39,g,110,mg,390,g,64,g,11,g,25,g,0.5,g,1,g,51,g
+491,the keg steakhouse,cheesy noodles,15,g,95,mg,160,g,38,g,13,g,10,g,0,g,0,g,2,g
+492,the keg steakhouse,chicken and ribs,84,g,360,mg,2390,g,87,g,100,g,28,g,0.5,g,8,g,31,g
+493,the keg steakhouse,chicken masala,58,g,245,mg,1120,g,53,g,59,g,26,g,0,g,11,g,17,g
+494,the keg steakhouse,creamed corn,5,g,10,mg,810,g,41,g,8,g,3,g,0,g,3,g,5,g
+495,the keg steakhouse,creme brulee,46,g,1155,mg,90,g,61,g,20,g,19,g,0,g,0,g,59,g
+496,the keg steakhouse,crispy fried cauliflower,9,g,0,mg,1290,g,42,g,5,g,3,g,0,g,3,g,3,g
+497,the keg steakhouse,crispy lobster taco x3,18,g,90,mg,3070,g,103,g,26,g,8,g,0,g,5,g,16,g
+498,the keg steakhouse,demi glace,0.5,g,0,mg,300,g,5,g,10,g,0,g,0,g,1,g,2,g
+499,the keg steakhouse,escargot,35,g,140,mg,720,g,40,g,14,g,15,g,1,g,3,g,3,g
+500,the keg steakhouse,filet mignon 10 oz,75,g,300,mg,1050,g,9,g,69,g,14,g,0,g,2,g,4,g
+501,the keg steakhouse,filet mignon 7 oz,70,g,250,mg,1010,g,9,g,50,g,12,g,0,g,2,g,4,g
+502,the keg steakhouse,filet mignon classic with bacon 7 oz,75,g,255,mg,1090,g,12,g,52,g,14,g,0,g,3,g,6,g
+503,the keg steakhouse,french onion soup,20,g,55,mg,1460,g,19,g,22,g,12,g,1,g,1,g,7,g
+504,the keg steakhouse,fried rice,37,g,320,mg,3020,g,49,g,45,g,11,g,0,g,5,g,8,g
+505,the keg steakhouse,fudge brownie,21,g,40,mg,270,g,74,g,5,g,9,g,1,g,2,g,52,g
+506,the keg steakhouse,garden burger,43,g,45,mg,2940,g,111,g,47,g,18,g,0,g,11,g,13,g
+507,the keg steakhouse,garlic cheese toast,58,g,105,mg,2050,g,75,g,29,g,20,g,0,g,3,g,3,g
+508,the keg steakhouse,garlic chive butter,20,g,65,mg,330,g,0,g,0,g,13,g,1,g,0,g,0,g
+509,the keg steakhouse,garlic mashed potato,13,g,10,mg,570,g,24,g,4,g,7,g,0,g,2,g,4,g
+510,the keg steakhouse,gnocchi,0,g,0,mg,10,g,13,g,5,g,0,g,0,g,3,g,5,g
+511,the keg steakhouse,green goddess salad,22,g,35,mg,850,g,36,g,11,g,5,g,0,g,5,g,5,g
+512,the keg steakhouse,grilled avocado salad,38,g,40,mg,400,g,32,g,7,g,12,g,0,g,11,g,6,g
+513,the keg steakhouse,grilled avocado sandwich,38,g,110,mg,1270,g,60,g,32,g,13,g,0,g,5,g,8,g
+514,the keg steakhouse,grilled chicken sandwich,65,g,170,mg,3720,g,116,g,63,g,17,g,0,g,9,g,17,g
+515,the keg steakhouse,grilled jumbo shrimp,7,g,25,mg,210,g,5,g,1,g,4,g,0,g,0,g,0,g
+516,the keg steakhouse,halibut and chips,58,g,100,mg,2240,g,84,g,53,g,13,g,0,g,6,g,16,g
+517,the keg steakhouse,halibut and chips casual plate,58,g,100,mg,2240,g,84,g,53,g,13,g,0,g,6,g,16,g
+518,the keg steakhouse,heirloom tomato burrata salad,26,g,50,mg,1270,g,7,g,14,g,10,g,0,g,2,g,5,g
+519,the keg steakhouse,honey glazed salmon,54,g,180,mg,720,g,65,g,50,g,22,g,1,g,4,g,3,g
+520,the keg steakhouse,ice cream with bing cherry topping,13,g,45,mg,115,g,32,g,4,g,7,g,0,g,0,g,22,g
+521,the keg steakhouse,ice cream with caramel topping,14,g,50,mg,180,g,47,g,4,g,8,g,0,g,0,g,29,g
+522,the keg steakhouse,ice cream with hot fudge topping,17,g,45,mg,170,g,44,g,4,g,11,g,0,g,0,g,33,g
+523,the keg steakhouse,ice cream plain,13,g,45,mg,110,g,28,g,4,g,7,g,0,g,0,g,19,g
+524,the keg steakhouse,keg burger,77,g,235,mg,2010,g,61,g,61,g,25,g,1,g,4,g,9,g
+525,the keg steakhouse,keg caesar salad,27,g,25,mg,460,g,14,g,6,g,5,g,0,g,3,g,2,g
+526,the keg steakhouse,keg fries,18,g,0,mg,1040,g,52,g,4,g,3,g,0,g,4,g,8,g
+527,the keg steakhouse,keg great bread,4,g,0,mg,300,g,25,g,4,g,1,g,0,g,1,g,0,g
+528,the keg steakhouse,kids burst oberry,0,g,60,mg,80,g,90,g,5,g,0,g,0,g,3,g,79,g
+529,the keg steakhouse,kids chicken strips,11,g,70,mg,1190,g,29,g,36,g,5,g,0,g,1,g,15,g
+530,the keg steakhouse,kids fruit and vegetable plate,7,g,5,mg,320,g,21,g,3,g,1,g,0,g,3,g,7,g
+531,the keg steakhouse,kids ice cream with bing cherry topping,6,g,15,mg,65,g,19,g,1,g,4,g,0,g,0,g,11,g
+532,the keg steakhouse,kids ice cream with caramel topping,7,g,20,mg,90,g,26,g,1,g,4,g,0,g,0,g,15,g
+533,the keg steakhouse,kids ice cream with hot fudge topping,8,g,15,mg,85,g,25,g,2,g,6,g,0,g,0,g,17,g
+534,the keg steakhouse,kids ice cream plain,6,g,15,mg,60,g,17,g,1,g,4,g,0,g,0,g,10,g
+535,the keg steakhouse,kids just peachy,0,g,60,mg,80,g,93,g,7,g,0,g,0,g,2,g,87,g
+536,the keg steakhouse,kids mini keg burgers,21,g,95,mg,280,g,22,g,22,g,7,g,1,g,1,g,1,g
+537,the keg steakhouse,kids sirloin,10,g,95,mg,570,g,0,g,36,g,4,g,0,g,0,g,0,g
+538,the keg steakhouse,king crab,48,g,195,mg,910,g,4,g,20,g,30,g,1,g,2,g,1,g
+539,the keg steakhouse,loaded nachos,100,g,260,mg,2770,g,103,g,67,g,53,g,0,g,8,g,7,g
+540,the keg steakhouse,loaded nachos with beef,117,g,310,mg,3510,g,113,g,88,g,58,g,0,g,9,g,8,g
+541,the keg steakhouse,loaded nachos with chicken,116,g,330,mg,3540,g,113,g,90,g,58,g,0,g,9,g,8,g
+542,the keg steakhouse,lobster bisque,6,g,10,mg,1400,g,58,g,6,g,1,g,0,g,1,g,0,g
+543,the keg steakhouse,mac and cheese,38,g,20,mg,1260,g,0,g,179,g,24,g,40,g,5,g,0,g
+544,the keg steakhouse,margarita key lime pie,44,g,690,mg,270,g,119,g,20,g,23,g,0,g,4,g,102,g
+545,the keg steakhouse,mediteranean cauliflower,62,g,0,mg,490,g,46,g,15,g,10,g,0,g,11,g,10,g
+546,the keg steakhouse,mediteranean cauliflower bowl cauliflower,67,g,0,mg,490,g,46,g,15,g,11,g,0,g,11,g,10,g
+547,the keg steakhouse,mini creme brulee,16,g,405,mg,30,g,23,g,7,g,7,g,0,g,0,g,22,g
+548,the keg steakhouse,mixed greens,9,g,0,mg,125,g,18,g,3,g,2,g,0,g,4,g,5,g
+549,the keg steakhouse,mixed vegetables,0,g,0,mg,600,g,17,g,4,g,0,g,0,g,6,g,7,g
+550,the keg steakhouse,mushrooms neptune,32,g,115,mg,770,g,39,g,17,g,21,g,0,g,3,g,8,g
+551,the keg steakhouse,new york,34,g,240,mg,860,g,5,g,96,g,12,g,3,g,2,g,3,g
+552,the keg steakhouse,new york classic 12 oz,39,g,245,mg,900,g,10,g,99,g,14,g,3,g,3,g,4,g
+553,the keg steakhouse,oven baked salmon,40,g,140,mg,1360,g,36,g,50,g,14,g,0,g,6,g,4,g
+554,the keg steakhouse,parmesan crusted halibut,41,g,110,mg,1140,g,30,g,49,g,17,g,0,g,6,g,7,g
+555,the keg steakhouse,peppercorn new york 12 oz,43,g,265,mg,1120,g,10,g,98,g,18,g,4,g,4,g,3,g
+556,the keg steakhouse,pesce crudo,6,g,30,mg,430,g,6,g,13,g,1,g,0,g,1,g,3,g
+557,the keg steakhouse,pistachio crusted salmon,77,g,180,mg,1300,g,53,g,56,g,26,g,0.5,g,10,g,19,g
+558,the keg steakhouse,prime rib 10 oz,30,g,130,mg,2200,g,18,g,55,g,11,g,0,g,1,g,3,g
+559,the keg steakhouse,prime rib 14 oz,40,g,180,mg,2390,g,18,g,75,g,15,g,0,g,1,g,3,g
+560,the keg steakhouse,prime rib classic 10 oz,33,g,135,mg,1690,g,11,g,56,g,12,g,0,g,3,g,6,g
+561,the keg steakhouse,prime rib sandwich,46,g,100,mg,2340,g,82,g,46,g,16,g,0,g,4,g,7,g
+562,the keg steakhouse,reuben sandwich,53,g,170,mg,3470,g,78,g,36,g,21,g,1,g,3,g,9,g
+563,the keg steakhouse,rib steak 20 oz bone in,36,g,280,mg,1010,g,8,g,104,g,11,g,1,g,3,g,4,g
+564,the keg steakhouse,salmon avocado sandwich,70,g,100,mg,3500,g,144,g,39,g,13,g,0,g,10,g,18,g
+565,the keg steakhouse,santa fe chicken salad,42,g,190,mg,1700,g,77,g,51,g,16,g,1,g,8,g,11,g
+566,the keg steakhouse,sauteed mushrooms,12,g,20,mg,210,g,8,g,6,g,5,g,0,g,2,g,4,g
+567,the keg steakhouse,scallops and bacon,12,g,45,mg,690,g,8,g,19,g,4,g,0,g,1,g,4,g
+568,the keg steakhouse,shellfish trio,72,g,630,mg,2370,g,31,g,65,g,41,g,2,g,3,g,3,g
+569,the keg steakhouse,shrimp and scallop oscar,57,g,265,mg,490,g,10,g,21,g,9,g,0,g,3,g,2,g
+570,the keg steakhouse,shrimp cocktail,1,g,320,mg,650,g,4,g,26,g,0,g,0,g,1,g,2,g
+571,the keg steakhouse,shrimp medley,37,g,290,mg,910,g,1,g,14,g,23,g,1,g,0,g,0,g
+572,the keg steakhouse,side caesar salad,11,g,15,mg,460,g,14,g,5,g,2,g,0,g,2,g,1,g
+573,the keg steakhouse,sirloin oscar,62,g,365,mg,1070,g,10,g,68,g,13,g,0,g,3,g,4,g
+574,the keg steakhouse,steak and cajun shrimp,27,g,400,mg,1870,g,13,g,69,g,11,g,0,g,4,g,7,g
+575,the keg steakhouse,steak and crab 6 oz,60,g,290,mg,1490,g,7,g,57,g,34,g,1,g,3,g,3,g
+576,the keg steakhouse,steak and crab 8 oz,63,g,320,mg,1520,g,7,g,68,g,35,g,1,g,3,g,3,g
+577,the keg steakhouse,steak and lobster 6 oz,64,g,345,mg,1070,g,9,g,57,g,36,g,1,g,4,g,4,g
+578,the keg steakhouse,steak and lobster 8 oz,66,g,375,mg,1100,g,9,g,68,g,37,g,1,g,4,g,4,g
+579,the keg steakhouse,steak frites,58,g,195,mg,1950,g,45,g,51,g,21,g,1,g,4,g,0,g
+580,the keg steakhouse,steak sandwich,50,g,170,mg,1080,g,40,g,56,g,16,g,1,g,4,g,7,g
+581,the keg steakhouse,striploin for 2 18 oz,83,g,370,mg,1050,g,21,g,151,g,26,g,5,g,7,g,9,g
+582,the keg steakhouse,supreme chicken breast,43,g,190,mg,1380,g,37,g,66,g,15,g,0,g,6,g,8,g
+583,the keg steakhouse,sweet potato fries,33,g,10,mg,440,g,36,g,4,g,3,g,0,g,6,g,14,g
+584,the keg steakhouse,teriyaki sirloin 12 oz,21,g,150,mg,490,g,6,g,73,g,9,g,1,g,2,g,4,g
+585,the keg steakhouse,teriyaki sirloin 8 oz,16,g,150,mg,430,g,6,g,49,g,6,g,1,g,2,g,4,g
+586,the keg steakhouse,teriyaki sirloin classic 8 oz,23,g,165,mg,520,g,9,g,51,g,10,g,1,g,3,g,5,g
+587,the keg steakhouse,top sirloin 12 oz,21,g,185,mg,670,g,5,g,72,g,7,g,0,g,2,g,3,g
+588,the keg steakhouse,top sirloin 6 oz,12,g,95,mg,580,g,5,g,37,g,4,g,0,g,2,g,3,g
+589,the keg steakhouse,top sirloin 8 oz,15,g,125,mg,610,g,5,g,48,g,5,g,0,g,2,g,3,g
+590,the keg steakhouse,top sirloin classic 12 oz,25,g,195,mg,750,g,8,g,75,g,9,g,0,g,3,g,4,g
+591,the keg steakhouse,top sirloin classic 8 oz,20,g,130,mg,690,g,8,g,50,g,7,g,0,g,3,g,4,g
+592,the keg steakhouse,tuna taco x3,18,g,50,mg,1900,g,67,g,29,g,4,g,0,g,5,g,5,g
+593,the keg steakhouse,tuna tartare,31,g,70,mg,880,g,50,g,36,g,4,g,0,g,14,g,2,g
+594,the keg steakhouse,twice baked potato with bacon,24,g,25,mg,520,g,52,g,9,g,11,g,0,g,4,g,3,g
+595,the keg steakhouse,two atlantic lobster tails,51,g,320,mg,540,g,4,g,22,g,32,g,1,g,2,g,1,g
+596,the keg steakhouse,whisky peppercorn sauce,7,g,25,mg,210,g,5,g,1,g,4,g,0,g,0,g,0,g
+597,the keg steakhouse,wild mushroom soup large,11,g,30,mg,1210,g,19,g,5,g,6,g,5,g,2,g,3,g
+598,the keg steakhouse,wild mushroom soup small,6,g,15,mg,730,g,11,g,3,g,4,g,3,g,2,g,3,g
+599,the little beet,add avocado,5,g,0,mg,0,g,3,g,1,g,0.5,g,0,g,2,g,0,g
+600,the little beet,add egg white,0.5,g,0,mg,3300,g,2,g,7,g,0,g,0,g,1,g,0,g
+601,the little beet,add sauteed greens,5,g,0,mg,250,g,14,g,4,g,0.5,g,0,g,3,g,5,g
+602,the little beet,add turkey bacon,10,g,0,mg,520,g,2,g,12,g,2,g,0,g,0,g,2,g
+603,the little beet,avocado bean dip,0,g,0,mg,190,g,3,g,1,g,0,g,0,g,1,g,0,g
+604,the little beet,avocado toast,30,g,0,mg,700,g,34,g,10,g,3,g,0,g,10,g,6,g
+605,the little beet,basmati rice,4.5,g,0,mg,350,g,34,g,4,g,0,g,0,g,2,g,1,g
+606,the little beet,bbq jackfruit,2.5,g,0,mg,740,g,21,g,4,g,0,g,0,g,6,g,8,g
+607,the little beet,beet falafel,6,g,0,mg,300,g,35,g,9,g,1.5,g,0,g,7,g,7,g
+608,the little beet,beet hummus dip,3.5,g,0,mg,150,g,3,g,2,g,0.5,g,0,g,1,g,1,g
+609,the little beet,beets and raddichio,11,g,0,mg,150,g,9,g,4,g,2,g,0,g,2,g,6,g
+610,the little beet,braised pork,9,g,0,mg,750,g,1,g,27,g,3,g,0,g,0,g,0,g
+611,the little beet,broccoli rabe,9,g,0,mg,520,g,12,g,6,g,1,g,0,g,5,g,0,g
+612,the little beet,brussel hustle bowl,67,g,0,mg,1660,g,49,g,45,g,11,g,0,g,11,g,26,g
+613,the little beet,chai spiced quinoa oatmeal,2.5,g,0,mg,250,g,27,g,3,g,0,g,0,g,3,g,10,g
+614,the little beet,charred broccoli,9,g,0,mg,740,g,10,g,4,g,0.5,g,0,g,4,g,2,g
+615,the little beet,chefs soup bowl,67,g,0,mg,1940,g,65,g,42,g,22,g,0,g,10,g,13,g
+616,the little beet,chimichurri sauce,13,g,0,mg,170,g,2,g,0,g,1,g,0,g,0,g,1,g
+617,the little beet,chipotle aioli sauce,13,g,0,mg,180,g,3,g,0,g,1.5,g,0,g,0,g,2,g
+618,the little beet,cup of butternut squash soup,24,g,0,mg,1190,g,23,g,3,g,19,g,0,g,3,g,7,g
+619,the little beet,delicata squash,4,g,0,mg,420,g,14,g,4,g,1.5,g,0,g,2,g,6,g
+620,the little beet,dragonberry parfait,12,g,0,mg,30,g,27,g,12,g,4.5,g,0,g,3,g,15,g
+621,the little beet,egg cheese and avocado sandwich,30,g,0,mg,710,g,42,g,17,g,8,g,0,g,7,g,7,g
+622,the little beet,eggs benny bowl,25,g,0,mg,1110,g,56,g,24,g,4.5,g,0,g,13,g,13,g
+623,the little beet,farmer bowl,39,g,0,mg,1130,g,37,g,23,g,7,g,0,g,9,g,11,g
+624,the little beet,field greens,0,g,0,mg,25,g,3,g,1,g,0,g,0,g,1,g,1,g
+625,the little beet,junior bowl,16,g,0,mg,840,g,24,g,20,g,2.5,g,0,g,5,g,7,g
+626,the little beet,lemon dressing,9,g,0,mg,50,g,1,g,0,g,1,g,0,g,0,g,1,g
+627,the little beet,mangoberry parfait,17,g,0,mg,170,g,17,g,15,g,5,g,0,g,3,g,13,g
+628,the little beet,organic quinoa,9,g,0,mg,270,g,41,g,8,g,1,g,0,g,5,g,2,g
+629,the little beet,pickled ginger,0,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+630,the little beet,pickled onions,0,g,0,mg,35,g,14,g,2,g,0,g,0,g,2,g,7,g
+631,the little beet,rise bowl,18,g,0,mg,640,g,33,g,12,g,3.5,g,0,g,3,g,4,g
+632,the little beet,roasted chicken,12,g,0,mg,190,g,1,g,26,g,3,g,0,g,0,g,0,g
+633,the little beet,roasted rainbow carrots,3,g,0,mg,430,g,16,g,2,g,0,g,0,g,4,g,7,g
+634,the little beet,salmon poke,13,g,0,mg,230,g,3,g,18,g,3,g,0,g,0,g,2,g
+635,the little beet,sauteed greens,8,g,0,mg,360,g,24,g,7,g,1,g,0,g,6,g,8,g
+636,the little beet,seared salmon,12,g,0,mg,50,g,0,g,18,g,2,g,0,g,0,g,0,g
+637,the little beet,seasonal bowl,29,g,0,mg,2260,g,68,g,39,g,5,g,0,g,11,g,13,g
+638,the little beet,sesame avocado,29,g,0,mg,600,g,9,g,5,g,3.5,g,0,g,7,g,1,g
+639,the little beet,shaved brussels sprouts,12,g,0,mg,490,g,18,g,7,g,3,g,0,g,3,g,11,g
+640,the little beet,shine bowl,26,g,0,mg,690,g,33,g,18,g,6,g,0,g,6,g,6,g
+641,the little beet,sunberry parfait,24,g,0,mg,110,g,49,g,17,g,6,g,0,g,5,g,31,g
+642,the little beet,super seeds,5,g,0,mg,50,g,2,g,2,g,0.5,g,0,g,1,g,0,g
+643,the little beet,sweet chilli garlic sauce,3,g,0,mg,220,g,3,g,0,g,0,g,0,g,0,g,3,g
+644,the little beet,sweet n spicy tofu,7,g,0,mg,230,g,6,g,11,g,1,g,0,g,1,g,2,g
+645,the little beet,sweet potatoes,1.5,g,0,mg,600,g,20,g,2,g,0,g,0,g,3,g,6,g
+646,the little beet,turkey bacon egg and cheese sandwich,22,g,0,mg,940,g,37,g,23,g,8,g,0,g,3,g,5,g
+647,the little beet,turmeric almonds,5,g,0,mg,55,g,2,g,2,g,0,g,0,g,1,g,0,g
+648,the little beet,turmeric tahini sauce,7,g,0,mg,190,g,2,g,3,g,1.5,g,0,g,1,g,0,g
+649,the little beet,vegan ranch slaw,14,g,0,mg,620,g,7,g,1,g,1.5,g,0,g,2,g,3,g
+650,the little beet,yuzu poke bowl,70,g,0,mg,2370,g,61,g,30,g,9,g,0,g,12,g,9,g
+651,the loop pizza grill,1000 island,22,g,30,mg,440,g,8,g,0,g,4,g,0,g,0,g,6,g
+652,the loop pizza grill,a 1 steak sauce,0,g,0,mg,280,g,3,g,0,g,0,g,0,g,0,g,2,g
+653,the loop pizza grill,asian chicken salad large without dressing,15,g,60,mg,770,g,15,g,27,g,2,g,0,g,5,g,5,g
+654,the loop pizza grill,balsamic vinaigrette,37,g,0,mg,280,g,2,g,0,g,3.5,g,0,g,0,g,2,g
+655,the loop pizza grill,bbq grilled chicken sandwich,22,g,120,mg,1540,g,63,g,52,g,9,g,0,g,3,g,18,g
+656,the loop pizza grill,bbq grilled chicken sandwich without bun,17,g,120,mg,1180,g,27,g,45,g,8,g,0,g,1,g,13,g
+657,the loop pizza grill,beef pot roast soup bowl,6,g,40,mg,1640,g,24,g,13,g,3,g,0,g,1,g,3,g
+658,the loop pizza grill,beef pot roast soup cup,4,g,25,mg,980,g,14,g,8,g,2,g,0,g,1,g,2,g
+659,the loop pizza grill,black bean burger,10,g,0,mg,780,g,54,g,20,g,1.5,g,0,g,8,g,9,g
+660,the loop pizza grill,black bean burger without bun,4.5,g,0,mg,420,g,18,g,13,g,0.5,g,0,g,6,g,4,g
+661,the loop pizza grill,black bean soup bowl,3,g,0,mg,1130,g,33,g,9,g,0,g,0,g,11,g,4,g
+662,the loop pizza grill,black bean soup cup,2,g,0,mg,680,g,20,g,5,g,0,g,0,g,7,g,2,g
+663,the loop pizza grill,bleu cheese,22,g,10,mg,300,g,2,g,3,g,5,g,0,g,0,g,1,g
+664,the loop pizza grill,bleu cheese chips,52,g,60,mg,1910,g,31,g,19,g,19,g,0,g,3,g,1,g
+665,the loop pizza grill,boston clam chowder bowl,11,g,55,mg,1230,g,25,g,14,g,8,g,0,g,0,g,9,g
+666,the loop pizza grill,boston clam chowder cup,7,g,35,mg,740,g,15,g,8,g,4.5,g,0,g,0,g,5,g
+667,the loop pizza grill,broccoli cheese soup bowl,16,g,55,mg,1450,g,18,g,10,g,9,g,0,g,0,g,9,g
+668,the loop pizza grill,broccoli cheese soup cup,10,g,30,mg,870,g,11,g,6,g,6,g,0,g,0,g,6,g
+669,the loop pizza grill,broiled tilapia sandwich without bun,6,g,100,mg,430,g,33,g,46,g,2,g,0,g,1,g,5,g
+670,the loop pizza grill,brownie,17,g,65,mg,220,g,59,g,4,g,7,g,0,g,2,g,36,g
+671,the loop pizza grill,butterfinger,64,g,150,mg,620,g,174,g,19,g,41,g,0,g,0,g,121,g
+672,the loop pizza grill,caesar,34,g,5,mg,340,g,1,g,1,g,5,g,0,g,0,g,0,g
+673,the loop pizza grill,caesar salad with chicken large without croutons or dressing,14,g,90,mg,1060,g,5,g,37,g,7,g,0,g,3,g,2,g
+674,the loop pizza grill,caesar salad large without croutons or dressing,9,g,30,mg,550,g,5,g,14,g,6,g,0,g,3,g,2,g
+675,the loop pizza grill,caesar salad side without croutons or dressing,5,g,15,mg,280,g,3,g,7,g,3,g,0,g,2,g,1,g
+676,the loop pizza grill,cajun chicken,2,g,80,mg,1000,g,3,g,33,g,0.5,g,0,g,1,g,0,g
+677,the loop pizza grill,cajun chicken salad without croutons or dressing,5,g,60,mg,580,g,12,g,26,g,1,g,0,g,4,g,4,g
+678,the loop pizza grill,cajun chicken wrap,26,g,35,mg,1360,g,64,g,23,g,5,g,0,g,7,g,10,g
+679,the loop pizza grill,cajun chicken wrap without wrap,18,g,35,mg,420,g,11,g,15,g,2.5,g,0,g,2,g,7,g
+680,the loop pizza grill,cajun fish wrap,9,g,35,mg,1980,g,40,g,36,g,2.5,g,0,g,24,g,4,g
+681,the loop pizza grill,cajun fish wrap without wrap,5,g,35,mg,1380,g,11,g,28,g,1,g,0,g,3,g,4,g
+682,the loop pizza grill,cajun grilled chicken sandwich,16,g,110,mg,1550,g,45,g,48,g,7,g,0,g,4,g,7,g
+683,the loop pizza grill,cajun grilled chicken sandwich without bun,11,g,110,mg,1190,g,9,g,41,g,6,g,0,g,2,g,2,g
+684,the loop pizza grill,cajun grilled fish sandwich,14,g,35,mg,1900,g,45,g,35,g,2.5,g,0,g,4,g,7,g
+685,the loop pizza grill,cajun grilled fish sandwich without bun,9,g,35,mg,1540,g,9,g,28,g,1.5,g,0,g,2,g,2,g
+686,the loop pizza grill,cajun grilled tuna sandwich,7,g,75,mg,1340,g,45,g,48,g,1.5,g,0,g,4,g,7,g
+687,the loop pizza grill,cajun grilled tuna sandwich without bun,2,g,75,mg,980,g,9,g,41,g,0,g,0,g,2,g,2,g
+688,the loop pizza grill,cajun salmon,22,g,85,mg,1630,g,4,g,29,g,4,g,0,g,1,g,0,g
+689,the loop pizza grill,cajun tuna,6,g,75,mg,1140,g,4,g,40,g,1,g,0,g,1,g,0,g
+690,the loop pizza grill,carrot cake,67,g,160,mg,960,g,87,g,8,g,24,g,1,g,3,g,61,g
+691,the loop pizza grill,cheddar bacon burger,43,g,165,mg,1050,g,41,g,54,g,17,g,1.5,g,3,g,7,g
+692,the loop pizza grill,cheddar bacon burger without bun,38,g,165,mg,690,g,5,g,47,g,16,g,1.5,g,1,g,2,g
+693,the loop pizza grill,cheesecake,37,g,145,mg,410,g,39,g,8,g,20,g,1,g,0,g,25,g
+694,the loop pizza grill,chicken and dumpling soup bowl,34,g,95,mg,1010,g,18,g,8,g,9,g,0,g,3,g,3,g
+695,the loop pizza grill,chicken and dumpling soup cup,20,g,55,mg,610,g,11,g,5,g,5,g,0,g,2,g,2,g
+696,the loop pizza grill,chicken caesar wrap,32,g,50,mg,1680,g,56,g,28,g,9,g,0,g,6,g,4,g
+697,the loop pizza grill,chicken caesar wrap without wrap,24,g,50,mg,740,g,3,g,20,g,6,g,0,g,1,g,1,g
+698,the loop pizza grill,chicken enchilada soup bowl,19,g,70,mg,1560,g,24,g,16,g,8,g,0,g,5,g,8,g
+699,the loop pizza grill,chicken enchilada soup cup,11,g,40,mg,940,g,14,g,10,g,4.5,g,0,g,3,g,5,g
+700,the loop pizza grill,chicken fingers,54,g,75,mg,1880,g,48,g,38,g,10,g,0,g,5,g,13,g
+701,the loop pizza grill,chicken gumbo soup bowl,6,g,25,mg,1280,g,14,g,5,g,2,g,0,g,1,g,3,g
+702,the loop pizza grill,chicken gumbo soup cup,3.5,g,15,mg,770,g,8,g,3,g,1,g,0,g,1,g,2,g
+703,the loop pizza grill,chicken noodle soup bowl,4.5,g,75,mg,1110,g,18,g,9,g,1.5,g,0,g,0,g,0,g
+704,the loop pizza grill,chicken noodle soup cup,2.5,g,45,mg,670,g,11,g,5,g,1,g,0,g,0,g,0,g
+705,the loop pizza grill,chicken salad wrap,27,g,45,mg,1450,g,56,g,26,g,6,g,0,g,6,g,4,g
+706,the loop pizza grill,chicken salad wrap without wrap,19,g,45,mg,510,g,3,g,18,g,3.5,g,0,g,1,g,1,g
+707,the loop pizza grill,chili bowl,34,g,85,mg,1330,g,27,g,26,g,15,g,0,g,7,g,8,g
+708,the loop pizza grill,chili cup,20,g,50,mg,780,g,16,g,15,g,8,g,0,g,4,g,5,g
+709,the loop pizza grill,chocolate,44,g,150,mg,400,g,141,g,14,g,30,g,0,g,0,g,105,g
+710,the loop pizza grill,chocolate cake,46,g,95,mg,580,g,93,g,11,g,22,g,0,g,6,g,59,g
+711,the loop pizza grill,cholula hot sauce,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+712,the loop pizza grill,coke,0,g,0,mg,115,g,47,g,0,g,0,g,0,g,0,g,47,g
+713,the loop pizza grill,cookie chocolate chip,17,g,20,mg,290,g,51,g,5,g,4.5,g,4.5,g,2,g,30,g
+714,the loop pizza grill,cookie chocolate chunk,18,g,20,mg,290,g,49,g,5,g,5,g,4.5,g,2,g,29,g
+715,the loop pizza grill,cookie chocolate chunk large,29,g,25,mg,550,g,86,g,7,g,14,g,3.5,g,3,g,49,g
+716,the loop pizza grill,cookie oatmeal raisin,8,g,15,mg,180,g,33,g,4,g,1.5,g,2.5,g,2,g,18,g
+717,the loop pizza grill,cookie peanut butter,24,g,25,mg,320,g,42,g,8,g,4,g,5,g,2,g,23,g
+718,the loop pizza grill,cookie white chocolate macadamia nut,20,g,20,mg,280,g,48,g,5,g,5,g,4,g,1,g,30,g
+719,the loop pizza grill,crackers melba snacks,0,g,0,mg,30,g,4,g,1,g,0,g,0,g,0,g,0,g
+720,the loop pizza grill,crackers premium gold,1.5,g,0,mg,50,g,4,g,0,g,0,g,0,g,0,g,0,g
+721,the loop pizza grill,crackers sesame bread wafers,2.5,g,0,mg,80,g,5,g,1,g,0,g,0,g,0,g,0,g
+722,the loop pizza grill,crackers sesame breadsticks,1.5,g,0,mg,40,g,5,g,1,g,0,g,0,g,0,g,0,g
+723,the loop pizza grill,creamy french onion bowl,30,g,105,mg,1110,g,15,g,3,g,18,g,1,g,0,g,9,g
+724,the loop pizza grill,creamy french onion cup,18,g,65,mg,670,g,9,g,2,g,11,g,1,g,0,g,5,g
+725,the loop pizza grill,creme brulee cheesecake,46,g,295,mg,330,g,45,g,8,g,26,g,1.5,g,0,g,32,g
+726,the loop pizza grill,crispy chicken salad without croutons or dressing,31,g,60,mg,950,g,30,g,24,g,10,g,0,g,5,g,10,g
+727,the loop pizza grill,croutons 33 cup,5,g,0,mg,180,g,6,g,1,g,0.5,g,0,g,0,g,0,g
+728,the loop pizza grill,croutons 5 cup,8,g,0,mg,270,g,10,g,2,g,1,g,0,g,0,g,0,g
+729,the loop pizza grill,crunchy broccoli salad without dressing,27,g,0,mg,250,g,18,g,10,g,2.5,g,0,g,7,g,5,g
+730,the loop pizza grill,diet coke,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+731,the loop pizza grill,dipping sauce for onion rings,45,g,5,mg,590,g,8,g,1,g,9,g,0,g,0,g,3,g
+732,the loop pizza grill,focaccia with marinara,3.5,g,5,mg,230,g,13,g,3,g,1,g,0,g,1,g,1,g
+733,the loop pizza grill,french fries side,22,g,0,mg,65,g,60,g,6,g,3.5,g,3,g,6,g,0,g
+734,the loop pizza grill,french fries with sandwich,12,g,0,mg,35,g,32,g,3,g,2,g,1.5,g,3,g,0,g
+735,the loop pizza grill,french onion soup bowl,4.5,g,0,mg,1700,g,13,g,4,g,0.5,g,0,g,3,g,8,g
+736,the loop pizza grill,french onion soup cup,2.5,g,0,mg,1020,g,8,g,2,g,0,g,0,g,2,g,5,g
+737,the loop pizza grill,fruit salad,0,g,0,mg,15,g,19,g,0,g,0,g,0,g,1,g,18,g
+738,the loop pizza grill,garlic mayonnaise,32,g,0,mg,190,g,9,g,1,g,6,g,0,g,0,g,0,g
+739,the loop pizza grill,gorgonzola walnut salad without croutons or dressing,33,g,35,mg,610,g,21,g,18,g,10,g,0,g,9,g,7,g
+740,the loop pizza grill,great american cheeseburger,47,g,155,mg,1160,g,34,g,50,g,19,g,0,g,1,g,5,g
+741,the loop pizza grill,greek salad large without croutons or dressing,10,g,20,mg,1090,g,17,g,10,g,4,g,0,g,5,g,4,g
+742,the loop pizza grill,grey poupon mustard,0,g,0,mg,120,g,0,g,0,g,0,g,0,g,0,g,0,g
+743,the loop pizza grill,grilled chicken,8,g,80,mg,90,g,0,g,33,g,1.5,g,0,g,0,g,0,g
+744,the loop pizza grill,grilled chicken sandwich,22,g,110,mg,1270,g,42,g,48,g,7,g,0,g,3,g,7,g
+745,the loop pizza grill,grilled chicken sandwich without bun,17,g,110,mg,910,g,6,g,41,g,6,g,0,g,1,g,2,g
+746,the loop pizza grill,grilled chicken sandwich mushrooms swiss,16,g,105,mg,440,g,5,g,40,g,5,g,0,g,1,g,3,g
+747,the loop pizza grill,grilled chicken sandwich mushrooms swiss on wheat roll,21,g,105,mg,800,g,44,g,48,g,6,g,0,g,4,g,12,g
+748,the loop pizza grill,grilled fish sandwich,14,g,35,mg,990,g,48,g,35,g,2.5,g,0,g,6,g,8,g
+749,the loop pizza grill,grilled fish sandwich without bun,9,g,35,mg,630,g,12,g,28,g,1.5,g,0,g,4,g,3,g
+750,the loop pizza grill,grilled teriyaki chicken sandwich,7,g,80,mg,460,g,60,g,41,g,1.5,g,0,g,3,g,24,g
+751,the loop pizza grill,grilled teriyaki chicken sandwich without bun,2,g,80,mg,100,g,24,g,34,g,0,g,0,g,1,g,19,g
+752,the loop pizza grill,grilled tilapia fillet,5,g,85,mg,570,g,1,g,34,g,1,g,0,g,0,g,0,g
+753,the loop pizza grill,grilled tuna sandwich,11,g,75,mg,590,g,42,g,48,g,2,g,0,g,3,g,7,g
+754,the loop pizza grill,grilled tuna sandwich without bun,6,g,75,mg,230,g,6,g,41,g,1,g,0,g,1,g,2,g
+755,the loop pizza grill,grilled veggie ciabatta,42,g,20,mg,1250,g,46,g,18,g,6,g,0,g,3,g,3,g
+756,the loop pizza grill,heinz 57 steak sauce,0,g,0,mg,190,g,4,g,0,g,0,g,0,g,0,g,4,g
+757,the loop pizza grill,honey dijon,30,g,0,mg,230,g,8,g,1,g,4,g,0,g,1,g,7,g
+758,the loop pizza grill,honey dijon fat free,0,g,0,mg,560,g,20,g,2,g,0,g,0,g,0,g,12,g
+759,the loop pizza grill,honey lime vinaigrette,16,g,0,mg,650,g,18,g,1,g,2,g,0,g,0,g,17,g
+760,the loop pizza grill,hot dog chicago,27,g,45,mg,1500,g,34,g,13,g,10,g,1,g,1,g,4,g
+761,the loop pizza grill,hot dog chicago without bun,23,g,45,mg,1240,g,10,g,9,g,9,g,1,g,1,g,1,g
+762,the loop pizza grill,hot dog chili cheese,40,g,85,mg,1410,g,33,g,23,g,18,g,1,g,1,g,5,g
+763,the loop pizza grill,hot dog chili cheese without bun,36,g,85,mg,1150,g,9,g,19,g,17,g,1,g,1,g,2,g
+764,the loop pizza grill,hot dog plain,26,g,45,mg,1000,g,26,g,12,g,10,g,1,g,0,g,3,g
+765,the loop pizza grill,hot dog plain without bun,22,g,45,mg,740,g,2,g,8,g,9,g,1,g,0,g,0,g
+766,the loop pizza grill,house salad with chicken without croutons or dressing,5,g,60,mg,530,g,12,g,25,g,1,g,0,g,4,g,6,g
+767,the loop pizza grill,house salad large without croutons or dressing,0,g,0,mg,25,g,12,g,3,g,0,g,0,g,4,g,6,g
+768,the loop pizza grill,house salad side without croutons or dressing,0,g,0,mg,15,g,8,g,2,g,0,g,0,g,2,g,4,g
+769,the loop pizza grill,italian sausage and lentil bowl,9,g,30,mg,660,g,21,g,12,g,3,g,0,g,6,g,6,g
+770,the loop pizza grill,italian sausage and lentil cup,5,g,20,mg,400,g,13,g,7,g,2,g,0,g,4,g,4,g
+771,the loop pizza grill,italian style wedding soup bowl,6,g,15,mg,1480,g,44,g,11,g,2.5,g,0,g,3,g,0,g
+772,the loop pizza grill,italian style wedding soup cup,4,g,10,mg,890,g,26,g,7,g,1.5,g,0,g,2,g,0,g
+773,the loop pizza grill,ketchup,0,g,0,mg,760,g,16,g,1,g,0,g,0,g,1,g,16,g
+774,the loop pizza grill,key lime pie,37,g,210,mg,230,g,53,g,8,g,18,g,0.5,g,1,g,41,g
+775,the loop pizza grill,kids burger,19,g,60,mg,660,g,37,g,23,g,7,g,0.5,g,2,g,5,g
+776,the loop pizza grill,kids chicken fingers,33,g,45,mg,1130,g,29,g,23,g,6,g,0,g,3,g,8,g
+777,the loop pizza grill,kids fries,9,g,0,mg,25,g,25,g,3,g,1.5,g,1.5,g,3,g,0,g
+778,the loop pizza grill,kids grilled cheese,16,g,25,mg,1180,g,62,g,15,g,5,g,0,g,2,g,2,g
+779,the loop pizza grill,kids hot dog,26,g,45,mg,1000,g,26,g,12,g,10,g,1,g,0,g,3,g
+780,the loop pizza grill,kids mac n cheese,11,g,25,mg,830,g,48,g,12,g,3,g,0,g,2,g,11,g
+781,the loop pizza grill,lemon dill mayonnaise,30,g,0,mg,200,g,3,g,0,g,6,g,0,g,0,g,0,g
+782,the loop pizza grill,light italian,4,g,0,mg,700,g,10,g,0,g,0,g,0,g,0,g,8,g
+783,the loop pizza grill,light lemonade,0,g,0,mg,10,g,2,g,0,g,0,g,0,g,0,g,0,g
+784,the loop pizza grill,lite ranch,20,g,20,mg,580,g,2,g,2,g,3,g,0,g,0,g,2,g
+785,the loop pizza grill,lite raspberry vinaigrette,14,g,0,mg,250,g,6,g,0,g,2,g,0,g,0,g,4,g
+786,the loop pizza grill,loop burger,29,g,125,mg,470,g,41,g,43,g,10,g,1.5,g,3,g,7,g
+787,the loop pizza grill,loop burger without bun,24,g,125,mg,110,g,5,g,36,g,9,g,1.5,g,1,g,2,g
+788,the loop pizza grill,loop n bleu burger,37,g,150,mg,730,g,41,g,50,g,15,g,1.5,g,3,g,7,g
+789,the loop pizza grill,loop n bleu burger without bun,32,g,150,mg,370,g,5,g,43,g,14,g,1.5,g,1,g,2,g
+790,the loop pizza grill,loop n cheese burger,36,g,145,mg,610,g,41,g,48,g,14,g,1.5,g,3,g,7,g
+791,the loop pizza grill,loop n cheese burger without bun,31,g,145,mg,250,g,5,g,41,g,13,g,1.5,g,1,g,2,g
+792,the loop pizza grill,loop n swiss burger,36,g,145,mg,570,g,41,g,49,g,14,g,1.5,g,3,g,7,g
+793,the loop pizza grill,loop n swiss burger without bun,31,g,145,mg,210,g,5,g,42,g,13,g,1.5,g,1,g,2,g
+794,the loop pizza grill,louisiana hot sauce,0,g,0,mg,230,g,0,g,0,g,0,g,0,g,0,g,0,g
+795,the loop pizza grill,marble cheesecake,47,g,155,mg,480,g,51,g,10,g,28,g,1,g,2,g,37,g
+796,the loop pizza grill,mayonnaise,11,g,0,mg,70,g,1,g,0,g,2,g,0,g,0,g,0,g
+797,the loop pizza grill,minestrone soup bowl,1.5,g,0,mg,1180,g,19,g,4,g,0,g,0,g,4,g,4,g
+798,the loop pizza grill,minestrone soup cup,1,g,0,mg,710,g,11,g,2,g,0,g,0,g,2,g,2,g
+799,the loop pizza grill,mushroom and brie bisque bowl,18,g,55,mg,1010,g,20,g,8,g,11,g,0,g,1,g,3,g
+800,the loop pizza grill,mushroom and brie bisque cup,11,g,35,mg,610,g,12,g,5,g,7,g,0,g,1,g,2,g
+801,the loop pizza grill,mustard,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+802,the loop pizza grill,onion rings side,11,g,0,mg,1780,g,97,g,10,g,2,g,0,g,7,g,18,g
+803,the loop pizza grill,onion rings with sandwich,8,g,0,mg,1190,g,65,g,6,g,1.5,g,0,g,5,g,12,g
+804,the loop pizza grill,oreo,57,g,150,mg,770,g,187,g,17,g,33,g,0,g,1,g,131,g
+805,the loop pizza grill,oyster crackers,2,g,0,mg,140,g,10,g,1,g,0,g,0,g,0,g,0,g
+806,the loop pizza grill,pesto chicken ciabatta,22,g,95,mg,1700,g,45,g,46,g,11,g,0,g,2,g,3,g
+807,the loop pizza grill,pink lemonade,0,g,0,mg,75,g,43,g,0,g,0,g,0,g,0,g,43,g
+808,the loop pizza grill,pizza specialty artichoke medium,13,g,25,mg,1030,g,24,g,16,g,5,g,0,g,2,g,2,g
+809,the loop pizza grill,pizza specialty barbeque medium,11,g,25,mg,1110,g,31,g,15,g,5,g,0,g,2,g,5,g
+810,the loop pizza grill,pizza specialty bianco medium,11,g,30,mg,820,g,20,g,14,g,6,g,0,g,1,g,2,g
+811,the loop pizza grill,pizza specialty buffalo mozzarella 8 inch,9,g,30,mg,510,g,17,g,11,g,6,g,0,g,1,g,1,g
+812,the loop pizza grill,pizza specialty buffalo mozzarella medium,12,g,35,mg,670,g,22,g,14,g,7,g,0,g,1,g,1,g
+813,the loop pizza grill,pizza specialty california medium,8,g,20,mg,650,g,19,g,12,g,4.5,g,0,g,1,g,1,g
+814,the loop pizza grill,pizza specialty cilantro medium,11,g,25,mg,1110,g,28,g,16,g,5,g,0,g,2,g,4,g
+815,the loop pizza grill,pizza specialty giardino 8 inch,5,g,15,mg,370,g,11,g,6,g,3,g,0,g,1,g,1,g
+816,the loop pizza grill,pizza specialty giardino medium aka farmers market,10,g,20,mg,1070,g,22,g,13,g,4.5,g,0,g,2,g,3,g
+817,the loop pizza grill,pizza specialty grilled mushroom medium,13,g,35,mg,1190,g,22,g,17,g,6,g,0,g,2,g,3,g
+818,the loop pizza grill,pizza specialty margherita medium,10,g,20,mg,810,g,20,g,12,g,4.5,g,0,g,2,g,2,g
+819,the loop pizza grill,pizza specialty mediterranean medium,11,g,25,mg,950,g,21,g,15,g,5,g,0,g,2,g,2,g
+820,the loop pizza grill,pizza specialty rustica 8 inch,7,g,25,mg,460,g,10,g,7,g,4,g,0,g,1,g,0,g
+821,the loop pizza grill,pizza specialty rustica medium aka meat market,15,g,45,mg,970,g,18,g,17,g,7,g,0,g,1,g,1,g
+822,the loop pizza grill,pizza specialty sausage and goat cheese medium,12,g,30,mg,800,g,19,g,15,g,6,g,0,g,1,g,2,g
+823,the loop pizza grill,pizza specialty veggie medium,11,g,20,mg,920,g,22,g,13,g,5,g,0,g,2,g,3,g
+824,the loop pizza grill,portobello mushroom sandwich,11,g,0,mg,2370,g,49,g,11,g,2,g,0,g,6,g,9,g
+825,the loop pizza grill,portobello mushroom sandwich without bun,6,g,0,mg,2010,g,13,g,4,g,1,g,0,g,4,g,4,g
+826,the loop pizza grill,potato with bacon soup bowl,11,g,30,mg,1430,g,30,g,10,g,5,g,0,g,1,g,9,g
+827,the loop pizza grill,potato with bacon soup cup,7,g,15,mg,860,g,18,g,6,g,3,g,0,g,1,g,6,g
+828,the loop pizza grill,ranch 2 fl oz,23,g,5,mg,460,g,4,g,1,g,4.5,g,0,g,0,g,2,g
+829,the loop pizza grill,ranch 3 fl oz,35,g,5,mg,690,g,6,g,2,g,7,g,0,g,0,g,2,g
+830,the loop pizza grill,root beer,0,g,0,mg,45,g,54,g,0,g,0,g,0,g,0,g,54,g
+831,the loop pizza grill,salmon,21,g,85,mg,720,g,0,g,28,g,4,g,0,g,0,g,0,g
+832,the loop pizza grill,sauteed mushrooms for sandwiches,3,g,0,mg,730,g,3,g,2,g,0,g,0,g,1,g,1,g
+833,the loop pizza grill,shallot vinaigrette,35,g,0,mg,220,g,1,g,0,g,5,g,0,g,0,g,0,g
+834,the loop pizza grill,shrimp and black bean soup bowl,4,g,55,mg,960,g,24,g,14,g,0.5,g,0,g,5,g,6,g
+835,the loop pizza grill,shrimp and black bean soup cup,2.5,g,35,mg,580,g,14,g,8,g,0,g,0,g,3,g,4,g
+836,the loop pizza grill,spinach salad without croutons or dressings,8,g,35,mg,640,g,8,g,14,g,2,g,0,g,3,g,3,g
+837,the loop pizza grill,sprite,0,g,0,mg,40,g,47,g,0,g,0,g,0,g,0,g,47,g
+838,the loop pizza grill,steamed broccoli,5,g,0,mg,320,g,6,g,3,g,0.5,g,0,g,2,g,2,g
+839,the loop pizza grill,steamed veggies,3,g,0,mg,300,g,5,g,2,g,0,g,0,g,2,g,1,g
+840,the loop pizza grill,strawberry,44,g,150,mg,370,g,112,g,14,g,30,g,0,g,2,g,84,g
+841,the loop pizza grill,sweet red wine vinaigrette,19,g,0,mg,320,g,16,g,0,g,1.5,g,0,g,0,g,16,g
+842,the loop pizza grill,tartar sauce,22,g,0,mg,340,g,5,g,0,g,4,g,0,g,0,g,0,g
+843,the loop pizza grill,thick crust medium cheese pizza,14,g,25,mg,970,g,49,g,20,g,6,g,0,g,0,g,2,g
+844,the loop pizza grill,thick crust medium cheese pizza with anchovies add,0,g,5,mg,220,g,0,g,1,g,0,g,0,g,0,g,0,g
+845,the loop pizza grill,thick crust medium cheese pizza with asiago cheese add,3,g,10,mg,110,g,1,g,2,g,1.5,g,0,g,0,g,1,g
+846,the loop pizza grill,thick crust medium cheese pizza with bacon add,2.5,g,10,mg,190,g,0,g,3,g,0.5,g,0,g,0,g,0,g
+847,the loop pizza grill,thick crust medium cheese pizza with black olives add,1.5,g,0,mg,100,g,0,g,0,g,0,g,0,g,0,g,0,g
+848,the loop pizza grill,thick crust medium cheese pizza with carmelized onions add,0.5,g,0,mg,360,g,5,g,0,g,0,g,0,g,1,g,2,g
+849,the loop pizza grill,thick crust medium cheese pizza with chicken add,0.5,g,10,mg,75,g,0,g,3,g,0,g,0,g,0,g,0,g
+850,the loop pizza grill,thick crust medium cheese pizza with extra cheese add,2,g,5,mg,65,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+851,the loop pizza grill,thick crust medium cheese pizza with extra pizza sauce add,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+852,the loop pizza grill,thick crust medium cheese pizza with goat cheese add,1.5,g,5,mg,25,g,0,g,1,g,1,g,0,g,0,g,0,g
+853,the loop pizza grill,thick crust medium cheese pizza with green peppers add,0.5,g,0,mg,130,g,1,g,0,g,0,g,0,g,1,g,1,g
+854,the loop pizza grill,thick crust medium cheese pizza with grilled vegetables add,3.5,g,0,mg,360,g,4,g,1,g,0.5,g,0,g,1,g,1,g
+855,the loop pizza grill,thick crust medium cheese pizza with ground beef add,4.5,g,15,mg,90,g,0,g,3,g,2,g,0,g,0,g,0,g
+856,the loop pizza grill,thick crust medium cheese pizza with ham add,0,g,5,mg,135,g,0,g,2,g,0,g,0,g,0,g,0,g
+857,the loop pizza grill,thick crust medium cheese pizza with jalapenos add,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+858,the loop pizza grill,thick crust medium cheese pizza with kalamata olives add,1.5,g,0,mg,90,g,1,g,0,g,0,g,0,g,0,g,0,g
+859,the loop pizza grill,thick crust medium cheese pizza with marinated tomatoes add,2,g,0,mg,135,g,2,g,0,g,0,g,0,g,1,g,1,g
+860,the loop pizza grill,thick crust medium cheese pizza with pepperoni add,2.5,g,5,mg,90,g,0,g,1,g,1,g,0,g,0,g,0,g
+861,the loop pizza grill,thick crust medium cheese pizza with portobello mushrooms add,0,g,0,mg,90,g,0,g,0,g,0,g,0,g,0,g,0,g
+862,the loop pizza grill,thick crust medium cheese pizza with ricotta cheese add,3,g,15,mg,105,g,1,g,3,g,2,g,0,g,0,g,1,g
+863,the loop pizza grill,thick crust medium cheese pizza with roasted garlic cloves add,1.5,g,0,mg,0,g,3,g,1,g,0,g,0,g,0,g,0,g
+864,the loop pizza grill,thick crust medium cheese pizza with roasted red peppers add,0,g,0,mg,55,g,1,g,0,g,0,g,0,g,0,g,1,g
+865,the loop pizza grill,thick crust medium cheese pizza with sausage add,4,g,10,mg,150,g,1,g,3,g,1.5,g,0,g,0,g,0,g
+866,the loop pizza grill,thick crust medium cheese pizza with sauteed mushrooms add,1.5,g,0,mg,360,g,1,g,1,g,0,g,0,g,0,g,1,g
+867,the loop pizza grill,thick crust medium cheese pizza with sauteed onions add,0.5,g,0,mg,210,g,8,g,1,g,0,g,0,g,1,g,3,g
+868,the loop pizza grill,thick crust medium cheese pizza with sauteed spinach add,2,g,0,mg,110,g,2,g,1,g,0,g,0,g,1,g,0,g
+869,the loop pizza grill,thick crust medium cheese pizza with sliced roma tomatoes add,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+870,the loop pizza grill,thick crust medium cheese pizza with sun dried tomatoes add,0,g,0,mg,20,g,2,g,0,g,0,g,0,g,1,g,1,g
+871,the loop pizza grill,thin crust medium cheese pizza,7,g,625,mg,15,g,1,g,0,g,4.5,g,0,g,1,g,12,g
+872,the loop pizza grill,thin crust medium cheese pizza with anchovies add,0,g,5,mg,220,g,0,g,1,g,0,g,0,g,0,g,0,g
+873,the loop pizza grill,thin crust medium cheese pizza with asiago cheese add,3,g,10,mg,110,g,1,g,2,g,1.5,g,0,g,0,g,1,g
+874,the loop pizza grill,thin crust medium cheese pizza with bacon add,2.5,g,10,mg,190,g,0,g,3,g,0.5,g,0,g,0,g,0,g
+875,the loop pizza grill,thin crust medium cheese pizza with black olives add,1,g,0,mg,65,g,0,g,0,g,0,g,0,g,0,g,0,g
+876,the loop pizza grill,thin crust medium cheese pizza with carmelized onions add,0.5,g,0,mg,360,g,5,g,0,g,0,g,0,g,1,g,2,g
+877,the loop pizza grill,thin crust medium cheese pizza with chicken add,0.5,g,10,mg,75,g,0,g,3,g,0,g,0,g,0,g,0,g
+878,the loop pizza grill,thin crust medium cheese pizza with extra cheese add,2,g,5,mg,65,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+879,the loop pizza grill,thin crust medium cheese pizza with extra pizza sauce add,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+880,the loop pizza grill,thin crust medium cheese pizza with goat cheese add,1.5,g,5,mg,25,g,0,g,1,g,1,g,0,g,0,g,0,g
+881,the loop pizza grill,thin crust medium cheese pizza with green peppers add,0.5,g,0,mg,100,g,1,g,0,g,0,g,0,g,0,g,1,g
+882,the loop pizza grill,thin crust medium cheese pizza with grilled vegetables add,2.5,g,0,mg,240,g,3,g,1,g,0,g,0,g,1,g,1,g
+883,the loop pizza grill,thin crust medium cheese pizza with ground beef add,3.5,g,10,mg,65,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+884,the loop pizza grill,thin crust medium cheese pizza with ham add,0,g,5,mg,100,g,0,g,1,g,0,g,0,g,0,g,0,g
+885,the loop pizza grill,thin crust medium cheese pizza with jalapenos add,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+886,the loop pizza grill,thin crust medium cheese pizza with kalamata olives add,1,g,0,mg,60,g,0,g,0,g,0,g,0,g,0,g,0,g
+887,the loop pizza grill,thin crust medium cheese pizza with marinated tomatoes add,1,g,0,mg,90,g,1,g,0,g,0,g,0,g,0,g,1,g
+888,the loop pizza grill,thin crust medium cheese pizza with pepperoni add,2,g,5,mg,65,g,0,g,1,g,1,g,0,g,0,g,0,g
+889,the loop pizza grill,thin crust medium cheese pizza with portobello mushrooms add,0,g,0,mg,90,g,0,g,0,g,0,g,0,g,0,g,0,g
+890,the loop pizza grill,thin crust medium cheese pizza with ricotta cheese add,3,g,15,mg,105,g,1,g,3,g,2,g,0,g,0,g,1,g
+891,the loop pizza grill,thin crust medium cheese pizza with roasted garlic cloves add,1.5,g,0,mg,0,g,3,g,1,g,0,g,0,g,0,g,0,g
+892,the loop pizza grill,thin crust medium cheese pizza with roasted red peppers add,0,g,0,mg,55,g,1,g,0,g,0,g,0,g,0,g,1,g
+893,the loop pizza grill,thin crust medium cheese pizza with sausage add,3.5,g,10,mg,135,g,0,g,2,g,1,g,0,g,0,g,0,g
+894,the loop pizza grill,thin crust medium cheese pizza with sauteed mushrooms add,1.5,g,0,mg,320,g,1,g,1,g,0,g,0,g,0,g,1,g
+895,the loop pizza grill,thin crust medium cheese pizza with sauteed onions add,0,g,0,mg,160,g,6,g,1,g,0,g,0,g,1,g,3,g
+896,the loop pizza grill,thin crust medium cheese pizza with sauteed spinach add,2,g,0,mg,110,g,2,g,1,g,0,g,0,g,1,g,0,g
+897,the loop pizza grill,thin crust medium cheese pizza with sliced roma tomatoes add,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+898,the loop pizza grill,thin crust medium cheese pizza with sun dried tomatoes add,0,g,0,mg,15,g,1,g,0,g,0,g,0,g,1,g,1,g
+899,the loop pizza grill,tiramisu,31,g,145,mg,85,g,47,g,6,g,17,g,0.5,g,1,g,30,g
+900,the loop pizza grill,tomato bisque soup bowl,12,g,15,mg,2880,g,51,g,12,g,3,g,0,g,3,g,16,g
+901,the loop pizza grill,tomato bisque soup cup,6,g,5,mg,1710,g,30,g,7,g,1.5,g,0,g,2,g,10,g
+902,the loop pizza grill,tuna,6,g,75,mg,220,g,0,g,40,g,1,g,0,g,0,g,0,g
+903,the loop pizza grill,twice stuffed baked potato soup bowl,25,g,70,mg,1290,g,33,g,16,g,14,g,0.5,g,1,g,6,g
+904,the loop pizza grill,twice stuffed baked potato soup cup,15,g,40,mg,770,g,20,g,10,g,8,g,0,g,1,g,4,g
+905,the loop pizza grill,vanilla,45,g,155,mg,390,g,95,g,15,g,30,g,0,g,0,g,68,g
+906,the loop pizza grill,vegetarian vegetable soup bowl,0.5,g,0,mg,1070,g,23,g,3,g,0,g,0,g,5,g,5,g
+907,the loop pizza grill,vegetarian vegetable soup cup,0,g,0,mg,640,g,14,g,2,g,0,g,0,g,3,g,3,g
+908,the loop pizza grill,veggie melt focaccia,30,g,60,mg,1800,g,67,g,27,g,13,g,0,g,4,g,5,g
+909,the loop pizza grill,walnut cranberry and goat cheese salad without dressing,28,g,15,mg,150,g,44,g,11,g,7,g,0,g,7,g,31,g
+910,the melt,add on malt,0.5,g,0,mg,35,g,5,g,13,g,0,g,0,g,0,g,3,g
+911,the melt,bacon florentine mac and cheese,37,g,95,mg,4160,g,62,g,37,g,21,g,0,g,3,g,1,g
+912,the melt,cheese n bacon fries,34,g,35,mg,1090,g,47,g,14,g,12,g,0,g,6,g,2,g
+913,the melt,chocolate chip cookie,19,g,45,mg,400,g,50,g,5,g,12,g,0,g,2,g,29,g
+914,the melt,coca cola,0,g,0,mg,45,g,39,g,0,g,0,g,0,g,0,g,39,g
+915,the melt,cookies and cream milkshake,9,g,30,mg,230,g,66,g,13,g,6,g,0,g,0,g,62,g
+916,the melt,diet coca cola,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+917,the melt,double chocolate milkshake,16,g,45,mg,240,g,70,g,16,g,10,g,0,g,6,g,60,g
+918,the melt,fresh lemonade,0,g,0,mg,5,g,32,g,2,g,0,g,0,g,1,g,30,g
+919,the melt,grilled cheese melt egg in a hole without pickle,43,g,265,mg,1110,g,51,g,36,g,27,g,0,g,2,g,2,g
+920,the melt,grilled cheese melt italian job without pickle,25,g,65,mg,930,g,53,g,23,g,114,g,0,g,2,g,3,g
+921,the melt,grilled cheese melt macdaddy without pickle,45,g,130,mg,1920,g,62,g,38,g,24,g,0,g,2,g,3,g
+922,the melt,grilled cheese melt patty melt without pickle,53,g,150,mg,1820,g,59,g,58,g,27,g,0,g,2,g,8,g
+923,the melt,grilled cheese melt queso de mayo without pickle,50,g,105,mg,1450,g,63,g,31,g,21,g,0,g,9,g,3,g
+924,the melt,grilled cheese melt steak and cheese without pickle,48,g,165,mg,1520,g,58,g,44,g,27,g,0,g,3,g,6,g
+925,the melt,grilled cheese melt three cheese classic without pickle,49,g,100,mg,1050,g,51,g,31,g,26,g,0,g,2,g,2,g
+926,the melt,lowfat milk,3,g,20,mg,200,g,18,g,14,g,2,g,0,g,0,g,18,g
+927,the melt,megamelt,73,g,165,mg,2150,g,42,g,65,g,33,g,0,g,4,g,4,g
+928,the melt,meltburger,54,g,115,mg,1900,g,41,g,46,g,24,g,0,g,4,g,4,g
+929,the melt,mint chocolate chip milkshake,12,g,35,mg,160,g,115,g,11,g,7,g,0,g,0,g,115,g
+930,the melt,naked fries,21,g,0,mg,670,g,45,g,4,g,4.5,g,0,g,6,g,2,g
+931,the melt,original chicken,31,g,110,mg,1190,g,41,g,36,g,13,g,0,g,4,g,4,g
+932,the melt,rocky mountain cola,0,g,0,mg,0,g,45,g,0,g,0,g,0,g,0,g,45,g
+933,the melt,rocky mountain ginger beer,0,g,0,mg,0,g,45,g,0,g,0,g,0,g,0,g,45,g
+934,the melt,rocky mountain low calorie cola,0,g,0,mg,5,g,3,g,0,g,0,g,0,g,1,g,2,g
+935,the melt,rocky mountain root beer cola,0,g,0,mg,0,g,45,g,0,g,0,g,0,g,0,g,45,g
+936,the melt,salad caesar large,23,g,30,mg,520,g,15,g,8,g,6,g,0,g,2,g,0,g
+937,the melt,salad caesar side,12,g,15,mg,300,g,9,g,4,g,3,g,0,g,1,g,0,g
+938,the melt,salad chopped cobb large,31,g,70,mg,760,g,9,g,20,g,9,g,0,g,3,g,2,g
+939,the melt,side pickle spear,0,g,0,mg,330,g,1,g,0,g,0,g,0,g,1,g,0,g
+940,the melt,snickerdoodle milkshake,20,g,30,mg,250,g,75,g,15,g,7,g,0,g,0,g,69,g
+941,the melt,soft serve ice cream cone,3,g,10,mg,75,g,25,g,4,g,2,g,0,g,0,g,22,g
+942,the melt,soft serve ice cream cup,3,g,10,mg,60,g,22,g,4,g,2,g,0,g,0,g,22,g
+943,the melt,spicy mission chicken,34,g,120,mg,1190,g,49,g,37,g,14,g,0,g,6,g,6,g
+944,the melt,spicy mission megamelt,74,g,175,mg,2020,g,52,g,66,g,34,g,0,g,6,g,7,g
+945,the melt,spicy mission meltburger,55,g,120,mg,1840,g,52,g,46,g,24,g,0,g,6,g,7,g
+946,the melt,sweet potato fries,10,g,0,mg,400,g,29,g,2,g,0.5,g,0,g,4,g,8,g
+947,the melt,swiss and shroom chicken,37,g,110,mg,1220,g,45,g,39,g,13,g,0,g,4,g,4,g
+948,the melt,swiss and shroom megamelt,78,g,160,mg,2060,g,46,g,71,g,32,g,0,g,5,g,5,g
+949,the melt,swiss and shroom meltburger,58,g,110,mg,1850,g,45,g,50,g,24,g,0,g,5,g,4,g
+950,the melt,the cheeses aged cheddar,9,g,30,mg,180,g,1,g,7,g,5,g,0,g,0,g,0,g
+951,the melt,the cheeses fontina,7,g,25,mg,170,g,1,g,5,g,4,g,0,g,0,g,0,g
+952,the melt,the cheeses muenster,6,g,20,mg,135,g,0,g,5,g,4,g,0,g,0,g,0,g
+953,the melt,the cheeses pepper jack,7,g,25,mg,120,g,1,g,5,g,4,g,0,g,0,g,0,g
+954,the melt,the cheeses provolone,8,g,25,mg,120,g,0,g,7,g,5,g,0,g,0,g,0,g
+955,the melt,the cheeses swiss,6,g,20,mg,45,g,0,g,6,g,3,g,0,g,0,g,0,g
+956,the melt,the cheeses three cheese blend,32,g,100,mg,670,g,1,g,23,g,19,g,0,g,0,g,0,g
+957,the melt,the desserts add on chocolate crunch,1,g,0,mg,55,g,7,g,1,g,0,g,0,g,0,g,3,g
+958,the melt,the desserts fresh apple,0,g,0,mg,0,g,19,g,0,g,0,g,0,g,3,g,14,g
+959,the melt,the drinks izze sparkling apple,0,g,0,mg,15,g,23,g,0,g,0,g,0,g,0,g,21,g
+960,the melt,the drinks izze sparkling clementine,0,g,0,mg,15,g,21,g,0,g,0,g,0,g,0,g,19,g
+961,the melt,the drinks izze sparkling pomegranate,0,g,0,mg,10,g,22,g,0,g,0,g,0,g,0,g,18,g
+962,the melt,the drinks make it a float,3,g,10,mg,60,g,22,g,4,g,2,g,0,g,0,g,22,g
+963,the melt,the drinks rocky mountain black cherry,0,g,0,mg,0,g,45,g,0,g,0,g,0,g,0,g,45,g
+964,the melt,the drinks rocky mountain orange cream,0,g,0,mg,0,g,45,g,0,g,0,g,0,g,0,g,45,g
+965,the melt,the kid cheese burger,24,g,65,mg,980,g,51,g,26,g,12,g,0,g,6,g,12,g
+966,the melt,the kid chicken caesar salad,17,g,50,mg,530,g,21,g,15,g,4.5,g,0,g,3,g,9,g
+967,the melt,the kid grilled cheese,27,g,55,mg,690,g,62,g,22,g,14,g,0,g,4,g,11,g
+968,the melt,the kid mac and cheese,31,g,90,mg,3850,g,72,g,34,g,19,g,0,g,5,g,10,g
+969,the melt,the middles all natural chopped chicken,6,g,35,mg,230,g,0,g,11,g,2,g,0,g,0,g,0,g
+970,the melt,the middles all natural grilled chicken,10,g,60,mg,410,g,0,g,18,g,3,g,0,g,0,g,0,g
+971,the melt,the middles all natural smoked bacon,5,g,10,mg,380,g,0,g,5,g,2,g,0,g,0,g,0,g
+972,the melt,the middles avocado,7,g,0,mg,0,g,4,g,1,g,1,g,0,g,3,g,0,g
+973,the melt,the middles caesar dressing,9,g,10,mg,90,g,1,g,1,g,2,g,0,g,0,g,0,g
+974,the melt,the middles caramelized onions,2,g,5,mg,390,g,6,g,0,g,1,g,0,g,0,g,4,g
+975,the melt,the middles egg whites,1,g,0,mg,60,g,0,g,4,g,0,g,0,g,0,g,0,g
+976,the melt,the middles fresh jalapeno,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+977,the melt,the middles fresh red onion,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+978,the melt,the middles fresh tomato two slices,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,1,g
+979,the melt,the middles fried egg,4,g,165,mg,60,g,0,g,5,g,2,g,0,g,0,g,0,g
+980,the melt,the middles green leaf,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,0,g
+981,the melt,the middles grilled mushroom,3,g,0,mg,140,g,2,g,1,g,0,g,0,g,0,g,1,g
+982,the melt,the middles housemade aioli,4,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+983,the melt,the middles melt sauce,2,g,0,mg,60,g,1,g,0,g,0,g,0,g,0,g,1,g
+984,the melt,the middles pickle sliced,0,g,0,mg,220,g,0,g,0,g,0,g,0,g,0,g,0,g
+985,the melt,the middles pickled onion,0,g,0,mg,35,g,2,g,0,g,0,g,0,g,0,g,2,g
+986,the melt,the middles romaine,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+987,the melt,the middles spicy ketchup,0,g,0,mg,45,g,1,g,0,g,0,g,0,g,0,g,1,g
+988,the melt,the middles spinach,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+989,the melt,tomato basil soup,5,g,5,mg,240,g,6,g,0,g,2,g,0,g,1,g,3,g
+990,the melt,trio mac and cheese,34,g,90,mg,3910,g,62,g,34,g,20,g,0,g,3,g,1,g
+991,the melt,vanilla bean milkshake,8,g,30,mg,190,g,60,g,13,g,5,g,0,g,0,g,59,g
+992,the nutrition factory,raw oatmeal,18,g,0,mg,270,g,67,g,15,g,1.5,g,0,g,11,g,18,g
+993,the nutrition factory,16 oz birthday cake premium protein shake,10,g,25,mg,590,g,57,g,40,g,1.5,g,0,g,9,g,31,g
+994,the nutrition factory,16 oz caramel apple vanilla premium protein shake,2,g,30,mg,260,g,38,g,24,g,1,g,0,g,0,g,31,g
+995,the nutrition factory,16 oz chocolate frosty premium protein shake,6,g,30,mg,440,g,23,g,28,g,2.5,g,0,g,2,g,8,g
+996,the nutrition factory,16 oz chocolate peanut butter premium protein shake,6,g,30,mg,590,g,29,g,32,g,0.5,g,0,g,5,g,5,g
+997,the nutrition factory,16 oz cinnamon graham premium protein shake,4,g,25,mg,280,g,17,g,25,g,0,g,0,g,3,g,5,g
+998,the nutrition factory,16 oz fluffernutter premium protein shake,6,g,30,mg,640,g,42,g,32,g,0.5,g,0,g,5,g,15,g
+999,the nutrition factory,16 oz hawaiian pie premium protein shake,8,g,0,mg,280,g,43,g,30,g,3.5,g,0,g,3,g,22,g

@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,brusters,coffee no sugar added ice cream on a cake cone small,0,g,0,mg,160,g,42,g,8,g,0,g,0,g,1,g,10,g
+1,brusters,coffee no sugar added ice cream on a sugar cone large,0,g,0,mg,310,g,85,g,15,g,0,g,0,g,1,g,22,g
+2,brusters,coffee no sugar added ice cream on a sugar cone regular,0,g,0,mg,240,g,67,g,11,g,0,g,0,g,1,g,18,g
+3,brusters,coffee no sugar added ice cream on a sugar cone small,0,g,0,mg,170,g,49,g,8,g,0,g,0,g,1,g,13,g
+4,brusters,coffee no sugar added ice cream on a waffle cone large,3,g,10,mg,290,g,96,g,16,g,1,g,0,g,1,g,30,g
+5,brusters,coffee no sugar added ice cream on a waffle cone regular,3,g,10,mg,220,g,78,g,12,g,1,g,0,g,1,g,25,g
+6,brusters,coffee no sugar added ice cream on a waffle cone small,3,g,10,mg,150,g,59,g,9,g,1,g,0,g,1,g,20,g
+7,brusters,coffee oreo ice cream in a dish large,35,g,85,mg,300,g,84,g,9,g,19,g,0,g,1,g,59,g
+8,brusters,coffee oreo ice cream in a dish regular,26,g,65,mg,230,g,63,g,7,g,14,g,0,g,1,g,44,g
+9,brusters,coffee oreo ice cream in a dish small,18,g,40,mg,150,g,42,g,5,g,9,g,0,g,0,g,29,g
+10,brusters,coffee oreo ice cream on a cake cone large,35,g,85,mg,310,g,89,g,10,g,19,g,0,g,1,g,59,g
+11,brusters,coffee oreo ice cream on a cake cone regular,27,g,65,mg,240,g,68,g,8,g,14,g,0,g,1,g,44,g
+12,brusters,coffee oreo ice cream on a cake cone small,18,g,40,mg,160,g,47,g,5,g,9,g,0,g,0,g,29,g
+13,brusters,coffee oreo ice cream on a sugar cone large,35,g,85,mg,320,g,96,g,10,g,19,g,0,g,1,g,62,g
+14,brusters,coffee oreo ice cream on a sugar cone regular,27,g,65,mg,250,g,75,g,8,g,14,g,0,g,1,g,47,g
+15,brusters,coffee oreo ice cream on a sugar cone small,18,g,40,mg,170,g,54,g,5,g,9,g,0,g,0,g,32,g
+16,brusters,coffee oreo ice cream on a waffle cone large,38,g,90,mg,300,g,107,g,11,g,19,g,0,g,1,g,69,g
+17,brusters,coffee oreo ice cream on a waffle cone regular,30,g,70,mg,230,g,86,g,9,g,15,g,0,g,1,g,54,g
+18,brusters,coffee oreo ice cream on a waffle cone small,21,g,50,mg,150,g,65,g,6,g,10,g,0,g,0,g,40,g
+19,brusters,coffee ripple ice cream in a dish large,30,g,80,mg,180,g,81,g,8,g,17,g,0.5,g,1,g,58,g
+20,brusters,coffee ripple ice cream in a dish regular,23,g,60,mg,140,g,61,g,6,g,13,g,0,g,1,g,44,g
+21,brusters,coffee ripple ice cream in a dish small,15,g,40,mg,90,g,41,g,4,g,9,g,0,g,0,g,29,g
+22,brusters,coffee ripple ice cream on a cake cone large,30,g,80,mg,190,g,86,g,9,g,17,g,0.5,g,1,g,58,g
+23,brusters,coffee ripple ice cream on a cake cone regular,23,g,60,mg,150,g,66,g,7,g,13,g,0,g,1,g,44,g
+24,brusters,coffee ripple ice cream on a cake cone small,15,g,40,mg,100,g,46,g,5,g,9,g,0,g,0,g,29,g
+25,brusters,coffee ripple ice cream on a sugar cone large,30,g,80,mg,200,g,93,g,9,g,17,g,0.5,g,1,g,61,g
+26,brusters,coffee ripple ice cream on a sugar cone regular,23,g,60,mg,160,g,73,g,7,g,13,g,0,g,1,g,47,g
+27,brusters,coffee ripple ice cream on a sugar cone small,15,g,40,mg,110,g,53,g,5,g,9,g,0,g,0,g,32,g
+28,brusters,coffee ripple ice cream on a waffle cone large,33,g,90,mg,180,g,104,g,10,g,18,g,0.5,g,1,g,68,g
+29,brusters,coffee ripple ice cream on a waffle cone regular,26,g,70,mg,140,g,84,g,8,g,14,g,0,g,1,g,54,g
+30,brusters,coffee ripple ice cream on a waffle cone small,18,g,50,mg,90,g,63,g,6,g,9,g,0,g,0,g,39,g
+31,brusters,coffee ripple no sugar added ice cream in a dish large,0,g,0,mg,330,g,87,g,13,g,0,g,0,g,2,g,17,g
+32,brusters,coffee ripple no sugar added ice cream in a dish regular,0,g,0,mg,250,g,65,g,10,g,0,g,0,g,2,g,13,g
+33,brusters,coffee ripple no sugar added ice cream in a dish small,0,g,0,mg,170,g,43,g,7,g,0,g,0,g,1,g,9,g
+34,brusters,coffee ripple no sugar added ice cream on a cake cone large,0,g,0,mg,340,g,92,g,14,g,0,g,0,g,2,g,18,g
+35,brusters,coffee ripple no sugar added ice cream on a cake cone regular,0,g,0,mg,260,g,70,g,11,g,0,g,0,g,2,g,13,g
+36,brusters,coffee ripple no sugar added ice cream on a cake cone small,0,g,0,mg,180,g,48,g,7,g,0,g,0,g,1,g,9,g
+37,brusters,coffee ripple no sugar added ice cream on a sugar cone large,0,g,0,mg,350,g,99,g,14,g,0,g,0,g,2,g,20,g
+38,brusters,coffee ripple no sugar added ice cream on a sugar cone regular,0,g,0,mg,270,g,77,g,11,g,0,g,0,g,2,g,16,g
+39,brusters,coffee ripple no sugar added ice cream on a sugar cone small,0,g,0,mg,190,g,55,g,7,g,0,g,0,g,1,g,12,g
+40,brusters,coffee ripple no sugar added ice cream on a waffle cone large,3.5,g,10,mg,330,g,110,g,15,g,1,g,0,g,2,g,28,g
+41,brusters,coffee ripple no sugar added ice cream on a waffle cone regular,3,g,10,mg,170,g,66,g,8,g,1,g,0,g,1,g,19,g
+42,brusters,coffee ripple no sugar added ice cream on a waffle cone small,3.5,g,10,mg,250,g,88,g,12,g,1,g,0,g,2,g,23,g
+43,brusters,coffee toffee ice cream in a dish large,39,g,95,mg,290,g,76,g,8,g,24,g,0,g,0,g,61,g
+44,brusters,coffee toffee ice cream in a dish regular,29,g,70,mg,220,g,57,g,6,g,18,g,0,g,0,g,46,g
+45,brusters,coffee toffee ice cream in a dish small,19,g,45,mg,140,g,38,g,4,g,12,g,0,g,0,g,30,g
+46,brusters,coffee toffee ice cream on a cake cone large,39,g,95,mg,300,g,81,g,9,g,24,g,0,g,0,g,61,g
+47,brusters,coffee toffee ice cream on a cake cone regular,29,g,70,mg,230,g,62,g,7,g,18,g,0,g,0,g,46,g
+48,brusters,coffee toffee ice cream on a cake cone small,19,g,45,mg,150,g,43,g,5,g,12,g,0,g,0,g,31,g
+49,brusters,coffee toffee ice cream on a sugar cone large,39,g,95,mg,310,g,88,g,9,g,24,g,0,g,0,g,64,g
+50,brusters,coffee toffee ice cream on a sugar cone regular,29,g,70,mg,240,g,69,g,7,g,18,g,0,g,0,g,49,g
+51,brusters,coffee toffee ice cream on a sugar cone small,20,g,45,mg,160,g,50,g,5,g,12,g,0,g,0,g,33,g
+52,brusters,coffee toffee ice cream on a waffle cone large,42,g,100,mg,290,g,99,g,10,g,25,g,0,g,0,g,71,g
+53,brusters,coffee toffee ice cream on a waffle cone regular,32,g,80,mg,220,g,80,g,8,g,19,g,0,g,0,g,56,g
+54,brusters,coffee toffee ice cream on a waffle cone small,22,g,55,mg,140,g,61,g,6,g,13,g,0,g,0,g,41,g
+55,brusters,cookie dough blast large,59,g,140,mg,420,g,151,g,13,g,37,g,0,g,1,g,113,g
+56,brusters,cookie dough blast regular,45,g,110,mg,310,g,112,g,10,g,28,g,0,g,1,g,84,g
+57,brusters,cotton candy explosion ice cream in a dish large,36,g,95,mg,170,g,74,g,8,g,22,g,0,g,0,g,60,g
+58,brusters,cotton candy explosion ice cream in a dish regular,27,g,70,mg,130,g,55,g,6,g,17,g,0,g,0,g,45,g
+59,brusters,cotton candy explosion ice cream in a dish small,18,g,45,mg,85,g,37,g,4,g,11,g,0,g,0,g,30,g
+60,brusters,cotton candy explosion ice cream on a cake cone large,36,g,95,mg,180,g,79,g,9,g,22,g,0,g,0,g,60,g
+61,brusters,cotton candy explosion ice cream on a cake cone regular,27,g,70,mg,140,g,60,g,7,g,17,g,0,g,0,g,45,g
+62,brusters,cotton candy explosion ice cream on a cake cone small,18,g,45,mg,95,g,42,g,5,g,11,g,0,g,0,g,30,g
+63,brusters,cotton candy explosion ice cream on a sugar cone large,36,g,95,mg,190,g,86,g,9,g,22,g,0,g,0,g,63,g
+64,brusters,cotton candy explosion ice cream on a sugar cone regular,27,g,70,mg,150,g,67,g,7,g,17,g,0,g,0,g,48,g
+65,brusters,cotton candy explosion ice cream on a sugar cone small,18,g,45,mg,105,g,49,g,5,g,11,g,0,g,0,g,33,g
+66,brusters,cotton candy explosion ice cream on a waffle cone large,39,g,100,mg,170,g,96,g,10,g,23,g,0,g,0,g,70,g
+67,brusters,cotton candy explosion ice cream on a waffle cone regular,30,g,80,mg,130,g,78,g,8,g,17,g,0,g,0,g,55,g
+68,brusters,cotton candy explosion ice cream on a waffle cone small,21,g,55,mg,85,g,60,g,6,g,12,g,0,g,0,g,40,g
+69,brusters,cotton candy sherbet ice in a dish large,0,g,0,mg,30,g,84,g,0,g,0,g,0,g,0,g,79,g
+70,brusters,cotton candy sherbet ice in a dish regular,0,g,0,mg,25,g,63,g,0,g,0,g,0,g,0,g,59,g
+71,brusters,cotton candy sherbet ice in a dish small,0,g,0,mg,15,g,42,g,0,g,0,g,0,g,0,g,39,g
+72,brusters,cotton candy sherbet ice on a cake cone large,0,g,0,mg,40,g,89,g,1,g,0,g,0,g,0,g,79,g
+73,brusters,cotton candy sherbet ice on a cake cone regular,0,g,0,mg,35,g,68,g,1,g,0,g,0,g,0,g,59,g
+74,brusters,cotton candy sherbet ice on a cake cone small,0,g,0,mg,25,g,47,g,1,g,0,g,0,g,0,g,39,g
+75,brusters,cotton candy sherbet ice on a sugar cone large,0,g,0,mg,50,g,96,g,1,g,0,g,0,g,0,g,82,g
+76,brusters,cotton candy sherbet ice on a sugar cone regular,0,g,0,mg,45,g,75,g,1,g,0,g,0,g,0,g,62,g
+77,brusters,cotton candy sherbet ice on a sugar cone small,0,g,0,mg,35,g,54,g,1,g,0,g,0,g,0,g,42,g
+78,brusters,cotton candy sherbet ice on a waffle cone large,3,g,10,mg,30,g,107,g,2,g,1,g,0,g,0,g,89,g
+79,brusters,cotton candy sherbet ice on a waffle cone regular,3,g,10,mg,25,g,86,g,2,g,1,g,0,g,0,g,69,g
+80,brusters,cotton candy sherbet ice on a waffle cone small,3,g,10,mg,15,g,65,g,2,g,1,g,0,g,0,g,50,g
+81,brusters,cranberry sherbet ice in a dish large,4.5,g,15,mg,75,g,97,g,1,g,2.5,g,0,g,0,g,89,g
+82,brusters,cranberry sherbet ice in a dish regular,3.5,g,10,mg,55,g,73,g,1,g,2,g,0,g,0,g,67,g
+83,brusters,cranberry sherbet ice in a dish small,2,g,5,mg,35,g,49,g,1,g,1.5,g,0,g,0,g,45,g
+84,brusters,cranberry sherbet ice on a cake cone large,4.5,g,15,mg,85,g,102,g,2,g,2.5,g,0,g,0,g,89,g
+85,brusters,cranberry sherbet ice on a cake cone regular,3.5,g,10,mg,65,g,78,g,1,g,2,g,0,g,0,g,67,g
+86,brusters,cranberry sherbet ice on a cake cone small,2.5,g,5,mg,45,g,54,g,1,g,1.5,g,0,g,0,g,45,g
+87,brusters,cranberry sherbet ice on a sugar cone large,4.5,g,15,mg,95,g,109,g,2,g,2.5,g,0,g,0,g,92,g
+88,brusters,cranberry sherbet ice on a sugar cone regular,3.5,g,10,mg,75,g,85,g,1,g,2,g,0,g,0,g,70,g
+89,brusters,cranberry sherbet ice on a sugar cone small,2.5,g,5,mg,55,g,61,g,1,g,1.5,g,0,g,0,g,48,g
+90,brusters,cranberry sherbet ice on a waffle cone large,8,g,20,mg,75,g,120,g,3,g,3.5,g,0,g,0,g,99,g
+91,brusters,cranberry sherbet ice on a waffle cone regular,6,g,15,mg,55,g,96,g,2,g,2.5,g,0,g,0,g,77,g
+92,brusters,cranberry sherbet ice on a waffle cone small,5,g,15,mg,35,g,71,g,2,g,2,g,0,g,0,g,55,g
+93,brusters,creamsicle ice cream in a dish large,19,g,55,mg,110,g,77,g,5,g,11,g,0,g,0,g,67,g
+94,brusters,creamsicle ice cream in a dish regular,14,g,40,mg,80,g,58,g,4,g,8,g,0,g,0,g,50,g
+95,brusters,creamsicle ice cream in a dish small,9,g,25,mg,55,g,38,g,2,g,5,g,0,g,0,g,33,g
+96,brusters,creamsicle ice cream on a cake cone large,19,g,55,mg,120,g,82,g,5,g,11,g,0,g,0,g,67,g
+97,brusters,creamsicle ice cream on a cake cone regular,14,g,40,mg,90,g,63,g,4,g,8,g,0,g,0,g,50,g
+98,brusters,creamsicle ice cream on a cake cone small,10,g,25,mg,65,g,43,g,3,g,5,g,0,g,0,g,34,g
+99,brusters,creamsicle ice cream on a sugar cone large,19,g,55,mg,130,g,89,g,5,g,11,g,0,g,0,g,70,g
+100,brusters,creamsicle ice cream on a sugar cone regular,14,g,40,mg,100,g,70,g,4,g,8,g,0,g,0,g,53,g
+101,brusters,creamsicle ice cream on a sugar cone small,10,g,25,mg,75,g,50,g,3,g,5,g,0,g,0,g,36,g
+102,brusters,creamsicle ice cream on a waffle cone large,22,g,65,mg,110,g,100,g,6,g,12,g,0,g,0,g,77,g
+103,brusters,creamsicle ice cream on a waffle cone regular,17,g,50,mg,80,g,81,g,5,g,9,g,0,g,0,g,60,g
+104,brusters,creamsicle ice cream on a waffle cone small,13,g,35,mg,55,g,61,g,4,g,6,g,0,g,0,g,44,g
+105,brusters,death by chocolate ice cream in a dish large,33,g,70,mg,320,g,83,g,9,g,20,g,0,g,4,g,64,g
+106,brusters,death by chocolate ice cream in a dish regular,25,g,50,mg,240,g,62,g,7,g,15,g,0,g,3,g,48,g
+107,brusters,death by chocolate ice cream in a dish small,16,g,35,mg,160,g,42,g,5,g,10,g,0,g,2,g,32,g
+108,brusters,death by chocolate ice cream on a cake cone large,33,g,70,mg,330,g,88,g,10,g,20,g,0,g,4,g,64,g
+109,brusters,death by chocolate ice cream on a cake cone regular,25,g,50,mg,250,g,67,g,8,g,15,g,0,g,3,g,48,g
+110,brusters,death by chocolate ice cream on a cake cone small,16,g,35,mg,170,g,47,g,5,g,10,g,0,g,2,g,32,g
+111,brusters,death by chocolate ice cream on a sugar cone large,33,g,70,mg,340,g,95,g,10,g,20,g,0,g,4,g,67,g
+112,brusters,death by chocolate ice cream on a sugar cone regular,25,g,50,mg,260,g,74,g,8,g,15,g,0,g,3,g,51,g
+113,brusters,death by chocolate ice cream on a sugar cone small,17,g,35,mg,180,g,54,g,5,g,10,g,0,g,2,g,35,g
+114,brusters,death by chocolate ice cream on a waffle cone large,36,g,80,mg,320,g,106,g,11,g,21,g,0,g,4,g,75,g
+115,brusters,death by chocolate ice cream on a waffle cone regular,28,g,60,mg,240,g,85,g,9,g,16,g,0,g,3,g,58,g
+116,brusters,death by chocolate ice cream on a waffle cone small,19,g,45,mg,160,g,65,g,6,g,11,g,0,g,2,g,42,g
+117,brusters,deep dish apple pie ice cream in a dish large,33,g,75,mg,220,g,86,g,7,g,17,g,1.5,g,1,g,73,g
+118,brusters,deep dish apple pie ice cream in a dish regular,25,g,60,mg,160,g,65,g,6,g,13,g,1,g,0,g,55,g
+119,brusters,deep dish apple pie ice cream in a dish small,17,g,40,mg,110,g,43,g,4,g,8,g,1,g,0,g,37,g
+120,brusters,deep dish apple pie ice cream on a cake cone large,33,g,75,mg,230,g,91,g,8,g,17,g,1.5,g,1,g,73,g
+121,brusters,deep dish apple pie ice cream on a cake cone regular,25,g,60,mg,170,g,70,g,6,g,13,g,1,g,0,g,55,g
+122,brusters,deep dish apple pie ice cream on a cake cone small,17,g,40,mg,120,g,48,g,4,g,8,g,1,g,0,g,37,g
+123,brusters,deep dish apple pie ice cream on a sugar cone large,34,g,75,mg,240,g,98,g,8,g,17,g,1.5,g,1,g,76,g
+124,brusters,deep dish apple pie ice cream on a sugar cone regular,25,g,60,mg,180,g,77,g,6,g,13,g,1,g,0,g,58,g
+125,brusters,deep dish apple pie ice cream on a sugar cone small,17,g,40,mg,130,g,55,g,4,g,8,g,1,g,0,g,40,g
+126,brusters,deep dish apple pie ice cream on a waffle cone large,36,g,85,mg,220,g,109,g,9,g,18,g,1.5,g,1,g,84,g
+127,brusters,deep dish apple pie ice cream on a waffle cone regular,28,g,65,mg,160,g,87,g,7,g,13,g,1,g,0,g,65,g
+128,brusters,deep dish apple pie ice cream on a waffle cone small,20,g,45,mg,110,g,66,g,5,g,9,g,1,g,0,g,47,g
+129,brusters,dewey mountain sherbet ice in a dish large,0,g,0,mg,25,g,111,g,0,g,0,g,0,g,0,g,106,g
+130,brusters,dewey mountain sherbet ice in a dish regular,0,g,0,mg,20,g,83,g,0,g,0,g,0,g,0,g,80,g
+131,brusters,dewey mountain sherbet ice in a dish small,0,g,0,mg,15,g,56,g,0,g,0,g,0,g,0,g,53,g
+132,brusters,dewey mountain sherbet ice on a cake cone large,0,g,0,mg,35,g,116,g,1,g,0,g,0,g,0,g,106,g
+133,brusters,dewey mountain sherbet ice on a cake cone regular,0,g,0,mg,30,g,88,g,1,g,0,g,0,g,0,g,80,g
+134,brusters,dewey mountain sherbet ice on a cake cone small,0,g,0,mg,25,g,61,g,1,g,0,g,0,g,0,g,53,g
+135,brusters,dewey mountain sherbet ice on a sugar cone large,0,g,0,mg,45,g,123,g,1,g,0,g,0,g,0,g,109,g
+136,brusters,dewey mountain sherbet ice on a sugar cone regular,0,g,0,mg,40,g,95,g,1,g,0,g,0,g,0,g,83,g
+137,brusters,dewey mountain sherbet ice on a sugar cone small,0,g,0,mg,35,g,68,g,1,g,0,g,0,g,0,g,56,g
+138,brusters,dewey mountain sherbet ice on a waffle cone large,3,g,10,mg,25,g,134,g,2,g,1,g,0,g,0,g,116,g
+139,brusters,dewey mountain sherbet ice on a waffle cone regular,3,g,10,mg,20,g,106,g,2,g,1,g,0,g,0,g,90,g
+140,brusters,dewey mountain sherbet ice on a waffle cone small,3,g,10,mg,15,g,78,g,2,g,1,g,0,g,0,g,63,g
+141,brusters,double chocolate chunk ice cream in a dish large,38,g,80,mg,180,g,75,g,9,g,25,g,0,g,3,g,62,g
+142,brusters,double chocolate chunk ice cream in a dish regular,29,g,60,mg,135,g,57,g,7,g,18,g,0,g,2,g,47,g
+143,brusters,double chocolate chunk ice cream in a dish small,19,g,40,mg,90,g,38,g,4,g,12,g,0,g,1,g,31,g
+144,brusters,double chocolate chunk ice cream on a cake cone large,38,g,80,mg,190,g,80,g,9,g,25,g,0,g,3,g,62,g
+145,brusters,double chocolate chunk ice cream on a cake cone regular,29,g,60,mg,150,g,62,g,7,g,18,g,0,g,2,g,47,g
+146,brusters,double chocolate chunk ice cream on a cake cone small,19,g,40,mg,100,g,43,g,5,g,12,g,0,g,1,g,31,g
+147,brusters,double chocolate chunk ice cream on a sugar cone large,39,g,80,mg,200,g,87,g,9,g,25,g,0,g,3,g,65,g
+148,brusters,double chocolate chunk ice cream on a sugar cone regular,29,g,60,mg,160,g,69,g,7,g,18,g,0,g,2,g,50,g
+149,brusters,double chocolate chunk ice cream on a sugar cone small,19,g,40,mg,110,g,50,g,5,g,12,g,0,g,1,g,34,g
+150,brusters,double chocolate chunk ice cream on a waffle cone large,41,g,85,mg,180,g,98,g,10,g,25,g,0,g,3,g,72,g
+151,brusters,double chocolate chunk ice cream on a waffle cone regular,32,g,65,mg,135,g,79,g,8,g,19,g,0,g,2,g,57,g
+152,brusters,double chocolate chunk ice cream on a waffle cone small,22,g,45,mg,90,g,61,g,6,g,13,g,0,g,1,g,41,g
+153,brusters,dreamsicle yogurt in a dish large,10,g,30,mg,290,g,47,g,11,g,6,g,0,g,0,g,42,g
+154,brusters,dreamsicle yogurt in a dish regular,7,g,20,mg,220,g,36,g,8,g,4,g,0,g,0,g,31,g
+155,brusters,dreamsicle yogurt in a dish small,5,g,15,mg,150,g,24,g,6,g,3,g,0,g,0,g,21,g
+156,brusters,dreamsicle yogurt on a cake cone large,10,g,30,mg,300,g,52,g,12,g,6,g,0,g,0,g,42,g
+157,brusters,dreamsicle yogurt on a cake cone regular,7,g,20,mg,230,g,41,g,9,g,4,g,0,g,0,g,32,g
+158,brusters,dreamsicle yogurt on a cake cone small,5,g,15,mg,160,g,29,g,6,g,3,g,0,g,0,g,21,g
+159,brusters,dreamsicle yogurt on a sugar cone large,10,g,30,mg,310,g,59,g,12,g,6,g,0,g,0,g,45,g
+160,brusters,dreamsicle yogurt on a sugar cone regular,8,g,20,mg,240,g,48,g,9,g,4,g,0,g,0,g,34,g
+161,brusters,dreamsicle yogurt on a sugar cone small,5,g,15,mg,170,g,36,g,6,g,3,g,0,g,0,g,24,g
+162,brusters,dreamsicle yogurt on a waffle cone large,13,g,35,mg,290,g,70,g,13,g,6,g,0,g,0,g,52,g
+163,brusters,dreamsicle yogurt on a waffle cone regular,10,g,30,mg,220,g,58,g,10,g,5,g,0,g,0,g,42,g
+164,brusters,dreamsicle yogurt on a waffle cone small,8,g,20,mg,150,g,47,g,7,g,3.5,g,0,g,0,g,31,g
+165,brusters,dutch apple crunch yogurt in a dish large,18,g,35,mg,330,g,81,g,13,g,7,g,1.5,g,0,g,62,g
+166,brusters,dutch apple crunch yogurt in a dish regular,14,g,25,mg,250,g,67,g,10,g,6,g,1,g,0,g,49,g
+167,brusters,dutch apple crunch yogurt in a dish small,11,g,20,mg,170,g,52,g,7,g,4,g,0.5,g,0,g,36,g
+168,brusters,dutch apple crunch yogurt on a cake cone large,15,g,25,mg,350,g,70,g,11,g,6,g,1.5,g,0,g,55,g
+169,brusters,dutch apple crunch yogurt on a cake cone regular,12,g,20,mg,270,g,56,g,9,g,5,g,1,g,0,g,42,g
+170,brusters,dutch apple crunch yogurt on a cake cone small,8,g,15,mg,190,g,41,g,6,g,3,g,0.5,g,0,g,29,g
+171,brusters,dutch apple crunch yogurt on a sugar cone large,15,g,25,mg,340,g,63,g,11,g,6,g,1.5,g,0,g,52,g
+172,brusters,dutch apple crunch yogurt on a sugar cone regular,11,g,20,mg,260,g,49,g,9,g,5,g,1,g,0,g,39,g
+173,brusters,dutch apple crunch yogurt on a sugar cone small,8,g,15,mg,180,g,34,g,6,g,3,g,0.5,g,0,g,26,g
+174,brusters,dutch apple crunch yogurt on a waffle cone large,15,g,25,mg,330,g,58,g,11,g,6,g,1.5,g,0,g,52,g
+175,brusters,dutch apple crunch yogurt on a waffle cone regular,11,g,20,mg,250,g,44,g,8,g,5,g,1,g,0,g,39,g
+176,brusters,dutch apple crunch yogurt on a waffle cone small,8,g,15,mg,170,g,29,g,5,g,3,g,0.5,g,0,g,26,g
+177,brusters,eggnog ice cream in a dish large,32,g,95,mg,160,g,74,g,8,g,19,g,0,g,0,g,57,g
+178,brusters,eggnog ice cream in a dish regular,24,g,75,mg,120,g,55,g,6,g,14,g,0,g,0,g,43,g
+179,brusters,eggnog ice cream in a dish small,16,g,50,mg,80,g,37,g,4,g,9,g,0,g,0,g,29,g
+180,brusters,eggnog ice cream on a cake cone large,32,g,95,mg,170,g,79,g,9,g,19,g,0,g,0,g,57,g
+181,brusters,eggnog ice cream on a cake cone regular,24,g,75,mg,130,g,60,g,7,g,14,g,0,g,0,g,43,g
+182,brusters,eggnog ice cream on a cake cone small,16,g,50,mg,90,g,42,g,5,g,9,g,0,g,0,g,29,g
+183,brusters,eggnog ice cream on a sugar cone large,32,g,95,mg,180,g,86,g,9,g,19,g,0,g,0,g,60,g
+184,brusters,eggnog ice cream on a sugar cone regular,24,g,75,mg,140,g,67,g,7,g,14,g,0,g,0,g,46,g
+185,brusters,eggnog ice cream on a sugar cone small,16,g,50,mg,100,g,49,g,5,g,9,g,0,g,0,g,32,g
+186,brusters,eggnog ice cream on a waffle cone large,35,g,105,mg,160,g,97,g,10,g,19,g,0,g,0,g,67,g
+187,brusters,eggnog ice cream on a waffle cone regular,27,g,80,mg,120,g,78,g,8,g,15,g,0,g,0,g,53,g
+188,brusters,eggnog ice cream on a waffle cone small,19,g,55,mg,80,g,60,g,6,g,10,g,0,g,0,g,39,g
+189,brusters,fudge ripple ice cream in a dish large,31,g,85,mg,190,g,80,g,8,g,18,g,0.5,g,1,g,60,g
+190,brusters,fudge ripple ice cream in a dish regular,23,g,65,mg,140,g,60,g,6,g,13,g,0,g,1,g,45,g
+191,brusters,fudge ripple ice cream in a dish small,15,g,40,mg,95,g,40,g,4,g,9,g,0,g,0,g,30,g
+192,brusters,fudge ripple ice cream on a cake cone large,31,g,85,mg,200,g,85,g,8,g,18,g,0.5,g,1,g,60,g
+193,brusters,fudge ripple ice cream on a cake cone regular,23,g,65,mg,150,g,65,g,6,g,13,g,0,g,1,g,45,g
+194,brusters,fudge ripple ice cream on a cake cone small,16,g,40,mg,105,g,45,g,4,g,9,g,0,g,0,g,30,g
+195,brusters,fudge ripple ice cream on a sugar cone large,31,g,85,mg,210,g,92,g,8,g,18,g,0.5,g,1,g,63,g
+196,brusters,fudge ripple ice cream on a sugar cone regular,23,g,65,mg,160,g,72,g,6,g,13,g,0,g,1,g,48,g
+197,brusters,fudge ripple ice cream on a sugar cone small,16,g,40,mg,115,g,52,g,4,g,9,g,0,g,0,g,33,g
+198,brusters,fudge ripple ice cream on a waffle cone large,34,g,90,mg,190,g,103,g,9,g,18,g,0.5,g,1,g,70,g
+199,brusters,fudge ripple ice cream on a waffle cone regular,26,g,70,mg,140,g,83,g,7,g,14,g,0,g,1,g,55,g
+200,brusters,fudge ripple ice cream on a waffle cone small,26,g,70,mg,140,g,83,g,7,g,14,g,0,g,1,g,55,g
+201,brusters,fudge ripple no sugar added ice cream in a dish large,0,g,0,mg,340,g,87,g,13,g,0,g,0,g,2,g,18,g
+202,brusters,fudge ripple no sugar added ice cream in a dish regular,0,g,0,mg,250,g,65,g,10,g,0,g,0,g,2,g,13,g
+203,brusters,fudge ripple no sugar added ice cream in a dish small,0,g,0,mg,170,g,43,g,7,g,0,g,0,g,1,g,9,g
+204,brusters,fudge ripple no sugar added ice cream on a cake cone large,0,g,0,mg,350,g,92,g,14,g,0,g,0,g,2,g,18,g
+205,brusters,fudge ripple no sugar added ice cream on a cake cone regular,0,g,0,mg,260,g,70,g,10,g,0,g,0,g,2,g,13,g
+206,brusters,fudge ripple no sugar added ice cream on a cake cone small,0,g,0,mg,180,g,48,g,7,g,0,g,0,g,1,g,9,g
+207,brusters,fudge ripple no sugar added ice cream on a sugar cone large,0,g,0,mg,360,g,99,g,14,g,0,g,0,g,2,g,21,g
+208,brusters,fudge ripple no sugar added ice cream on a sugar cone regular,0,g,0,mg,270,g,77,g,10,g,0,g,0,g,2,g,16,g
+209,brusters,fudge ripple no sugar added ice cream on a sugar cone small,0,g,0,mg,190,g,55,g,7,g,0,g,0,g,1,g,12,g
+210,brusters,fudge ripple no sugar added ice cream on a waffle cone large,3.5,g,10,mg,340,g,109,g,15,g,1,g,0,g,2,g,28,g
+211,brusters,fudge ripple no sugar added ice cream on a waffle cone regular,3.5,g,10,mg,250,g,88,g,12,g,1,g,0,g,2,g,23,g
+212,brusters,fudge ripple no sugar added ice cream on a waffle cone small,3,g,10,mg,170,g,66,g,8,g,1,g,0,g,1,g,19,g
+213,brusters,fudgie cheesecake ice cream in a dish large,29,g,70,mg,280,g,82,g,7,g,17,g,0.5,g,2,g,65,g
+214,brusters,fudgie cheesecake ice cream in a dish regular,22,g,50,mg,210,g,61,g,5,g,12,g,0,g,1,g,49,g
+215,brusters,fudgie cheesecake ice cream in a dish small,14,g,35,mg,140,g,41,g,4,g,8,g,0,g,1,g,32,g
+216,brusters,fudgie cheesecake ice cream on a cake cone large,29,g,70,mg,290,g,87,g,8,g,17,g,0.5,g,2,g,65,g
+217,brusters,fudgie cheesecake ice cream on a cake cone regular,22,g,50,mg,220,g,66,g,6,g,12,g,0,g,1,g,49,g
+218,brusters,fudgie cheesecake ice cream on a cake cone small,15,g,35,mg,150,g,46,g,4,g,8,g,0,g,1,g,33,g
+219,brusters,fudgie cheesecake ice cream on a sugar cone large,29,g,70,mg,300,g,94,g,8,g,17,g,0.5,g,2,g,68,g
+220,brusters,fudgie cheesecake ice cream on a sugar cone regular,22,g,50,mg,230,g,73,g,6,g,12,g,0,g,1,g,52,g
+221,brusters,fudgie cheesecake ice cream on a sugar cone small,15,g,35,mg,160,g,53,g,4,g,8,g,0,g,1,g,35,g
+222,brusters,fudgie cheesecake ice cream on a waffle cone large,32,g,75,mg,280,g,104,g,9,g,17,g,0.5,g,2,g,75,g
+223,brusters,fudgie cheesecake ice cream on a waffle cone regular,25,g,60,mg,210,g,84,g,7,g,13,g,0,g,1,g,59,g
+224,brusters,fudgie cheesecake ice cream on a waffle cone small,18,g,40,mg,140,g,64,g,5,g,9,g,0,g,1,g,43,g
+225,brusters,galaxy ice cream in a dish large,28,g,80,mg,270,g,96,g,8,g,16,g,0,g,1,g,73,g
+226,brusters,galaxy ice cream in a dish regular,21,g,60,mg,210,g,72,g,6,g,12,g,0,g,0,g,55,g
+227,brusters,galaxy ice cream in a dish small,14,g,40,mg,135,g,48,g,4,g,8,g,0,g,0,g,37,g
+228,brusters,galaxy ice cream on a cake cone large,28,g,80,mg,280,g,101,g,8,g,16,g,0,g,1,g,74,g
+229,brusters,galaxy ice cream on a cake cone regular,21,g,60,mg,220,g,77,g,6,g,12,g,0,g,0,g,55,g
+230,brusters,galaxy ice cream on a cake cone small,14,g,40,mg,150,g,53,g,4,g,8,g,0,g,0,g,37,g
+231,brusters,galaxy ice cream on a sugar cone large,28,g,80,mg,290,g,108,g,8,g,16,g,0,g,1,g,76,g
+232,brusters,galaxy ice cream on a sugar cone regular,21,g,60,mg,230,g,84,g,6,g,12,g,0,g,0,g,58,g
+233,brusters,galaxy ice cream on a sugar cone small,14,g,40,mg,160,g,60,g,4,g,8,g,0,g,0,g,40,g
+234,brusters,galaxy ice cream on a waffle cone large,31,g,90,mg,270,g,119,g,9,g,17,g,0,g,1,g,84,g
+235,brusters,galaxy ice cream on a waffle cone regular,24,g,70,mg,210,g,95,g,8,g,13,g,0,g,0,g,65,g
+236,brusters,galaxy ice cream on a waffle cone small,17,g,50,mg,135,g,71,g,6,g,9,g,0,g,0,g,47,g
+237,brusters,german chocolate cake ice cream in a dish large,31,g,60,mg,380,g,98,g,8,g,19,g,0.5,g,4,g,71,g
+238,brusters,german chocolate cake ice cream in a dish regular,23,g,45,mg,290,g,73,g,6,g,14,g,0,g,3,g,53,g
+239,brusters,german chocolate cake ice cream in a dish small,16,g,30,mg,190,g,49,g,4,g,9,g,0,g,2,g,36,g
+240,brusters,german chocolate cake ice cream on a cake cone large,31,g,60,mg,390,g,103,g,8,g,19,g,0.5,g,4,g,71,g
+241,brusters,german chocolate cake ice cream on a cake cone regular,24,g,45,mg,300,g,78,g,6,g,14,g,0,g,3,g,53,g
+242,brusters,german chocolate cake ice cream on a cake cone small,16,g,30,mg,200,g,54,g,4,g,9,g,0,g,2,g,36,g
+243,brusters,german chocolate cake ice cream on a sugar cone large,31,g,60,mg,400,g,110,g,8,g,19,g,0.5,g,4,g,74,g
+244,brusters,german chocolate cake ice cream on a sugar cone regular,24,g,45,mg,310,g,85,g,6,g,14,g,0,g,3,g,56,g
+245,brusters,german chocolate cake ice cream on a sugar cone small,16,g,30,mg,210,g,61,g,4,g,9,g,0,g,2,g,39,g
+246,brusters,german chocolate cake ice cream on a waffle cone large,34,g,70,mg,380,g,120,g,9,g,20,g,0.5,g,4,g,81,g
+247,brusters,german chocolate cake ice cream on a waffle cone regular,27,g,55,mg,290,g,96,g,7,g,15,g,0,g,3,g,64,g
+248,brusters,german chocolate cake ice cream on a waffle cone small,19,g,40,mg,190,g,72,g,5,g,10,g,0,g,2,g,46,g
+249,brusters,gone bananas ice cream in a dish large,35,g,65,mg,230,g,82,g,11,g,14,g,0.5,g,5,g,56,g
+250,brusters,gone bananas ice cream in a dish regular,27,g,50,mg,170,g,62,g,8,g,11,g,0,g,4,g,42,g
+251,brusters,gone bananas ice cream in a dish small,18,g,30,mg,115,g,41,g,5,g,7,g,0,g,2,g,28,g
+252,brusters,gone bananas ice cream on a cake cone large,35,g,65,mg,240,g,87,g,11,g,14,g,0.5,g,5,g,56,g
+253,brusters,gone bananas ice cream on a cake cone regular,27,g,50,mg,180,g,67,g,9,g,11,g,0,g,4,g,42,g
+254,brusters,gone bananas ice cream on a cake cone small,18,g,30,mg,125,g,46,g,6,g,7,g,0,g,2,g,28,g
+255,brusters,gone bananas ice cream on a sugar cone large,36,g,65,mg,250,g,94,g,11,g,14,g,0.5,g,5,g,59,g
+256,brusters,gone bananas ice cream on a sugar cone regular,27,g,50,mg,190,g,74,g,9,g,11,g,0,g,4,g,45,g
+257,brusters,gone bananas ice cream on a sugar cone small,18,g,30,mg,135,g,53,g,6,g,7,g,0,g,2,g,31,g
+258,brusters,gone bananas ice cream on a waffle cone large,38,g,70,mg,230,g,105,g,12,g,15,g,0.5,g,5,g,66,g
+259,brusters,gone bananas ice cream on a waffle cone regular,30,g,55,mg,170,g,85,g,10,g,12,g,0,g,4,g,52,g
+260,brusters,gone bananas ice cream on a waffle cone small,21,g,40,mg,115,g,64,g,7,g,8,g,0,g,2,g,38,g
+261,brusters,graham canyon ice cream in a dish large,34,g,85,mg,330,g,94,g,7,g,21,g,0,g,0,g,70,g
+262,brusters,graham canyon ice cream in a dish regular,26,g,65,mg,250,g,70,g,5,g,16,g,0,g,0,g,53,g
+263,brusters,graham canyon ice cream in a dish small,17,g,40,mg,160,g,47,g,4,g,11,g,0,g,0,g,35,g
+264,brusters,graham canyon ice cream on a cake cone large,35,g,85,mg,340,g,99,g,8,g,21,g,0,g,0,g,70,g
+265,brusters,graham canyon ice cream on a cake cone regular,26,g,65,mg,260,g,75,g,6,g,16,g,0,g,0,g,53,g
+266,brusters,graham canyon ice cream on a cake cone small,17,g,40,mg,170,g,52,g,4,g,11,g,0,g,0,g,35,g
+267,brusters,graham canyon ice cream on a sugar cone large,35,g,85,mg,350,g,106,g,8,g,21,g,0,g,0,g,73,g
+268,brusters,graham canyon ice cream on a sugar cone regular,26,g,65,mg,270,g,82,g,6,g,16,g,0,g,0,g,56,g
+269,brusters,graham canyon ice cream on a sugar cone small,18,g,40,mg,180,g,59,g,4,g,11,g,0,g,0,g,38,g
+270,brusters,graham canyon ice cream on a waffle cone large,38,g,90,mg,330,g,117,g,9,g,22,g,0,g,0,g,81,g
+271,brusters,graham canyon ice cream on a waffle cone regular,29,g,70,mg,250,g,93,g,7,g,17,g,0,g,0,g,93,g
+272,brusters,graham canyon ice cream on a waffle cone small,20,g,50,mg,160,g,70,g,5,g,11,g,0,g,0,g,45,g
+273,brusters,graham central station ice cream in a dish large,47,g,75,mg,350,g,90,g,8,g,24,g,0,g,1,g,67,g
+274,brusters,graham central station ice cream in a dish regular,35,g,55,mg,260,g,67,g,6,g,18,g,0,g,1,g,50,g
+275,brusters,graham central station ice cream in a dish small,23,g,35,mg,180,g,45,g,4,g,12,g,0,g,1,g,33,g
+276,brusters,graham central station ice cream on a cake cone large,47,g,75,mg,360,g,95,g,8,g,24,g,0,g,1,g,67,g
+277,brusters,graham central station ice cream on a cake cone regular,35,g,55,mg,270,g,72,g,6,g,18,g,0,g,1,g,50,g
+278,brusters,graham central station ice cream on a cake cone small,23,g,35,mg,190,g,50,g,4,g,12,g,0,g,1,g,34,g
+279,brusters,graham central station ice cream on a sugar cone large,47,g,75,mg,370,g,102,g,8,g,24,g,0,g,1,g,70,g
+280,brusters,graham central station ice cream on a sugar cone regular,35,g,55,mg,280,g,79,g,6,g,18,g,0,g,1,g,53,g
+281,brusters,graham central station ice cream on a sugar cone small,24,g,35,mg,200,g,57,g,4,g,12,g,0,g,1,g,36,g
+282,brusters,graham central station ice cream on a waffle cone large,50,g,80,mg,350,g,113,g,9,g,25,g,0,g,1,g,77,g
+283,brusters,graham central station ice cream on a waffle cone regular,38,g,65,mg,260,g,90,g,7,g,19,g,0,g,1,g,60,g
+284,brusters,graham central station ice cream on a waffle cone small,27,g,45,mg,180,g,68,g,5,g,13,g,0,g,1,g,44,g
+285,brusters,grape sherbet ice in a dish large,0,g,0,mg,30,g,84,g,0,g,0,g,0,g,0,g,78,g
+286,brusters,grape sherbet ice in a dish regular,0,g,0,mg,25,g,63,g,0,g,0,g,0,g,0,g,59,g
+287,brusters,grape sherbet ice in a dish small,0,g,0,mg,15,g,42,g,0,g,0,g,0,g,0,g,39,g
+288,brusters,grape sherbet ice on a cake cone large,0,g,0,mg,40,g,89,g,1,g,0,g,0,g,0,g,78,g
+289,brusters,grape sherbet ice on a cake cone regular,0,g,0,mg,35,g,68,g,1,g,0,g,0,g,0,g,59,g
+290,brusters,grape sherbet ice on a cake cone small,0,g,0,mg,25,g,47,g,1,g,0,g,0,g,0,g,39,g
+291,brusters,grape sherbet ice on a sugar cone large,0,g,0,mg,50,g,96,g,1,g,0,g,0,g,0,g,81,g
+292,brusters,grape sherbet ice on a sugar cone regular,0,g,0,mg,45,g,75,g,1,g,0,g,0,g,0,g,62,g
+293,brusters,grape sherbet ice on a sugar cone small,0,g,0,mg,35,g,54,g,1,g,0,g,0,g,0,g,42,g
+294,brusters,grape sherbet ice on a waffle cone large,3,g,10,mg,30,g,107,g,2,g,1,g,0,g,0,g,88,g
+295,brusters,grape sherbet ice on a waffle cone regular,3,g,10,mg,25,g,86,g,2,g,1,g,0,g,0,g,69,g
+296,brusters,grape sherbet ice on a waffle cone small,3,g,10,mg,15,g,65,g,2,g,1,g,0,g,0,g,49,g
+297,brusters,heath bar blast large,76,g,155,mg,550,g,150,g,15,g,43,g,0,g,1,g,128,g
+298,brusters,heath bar blast regular,59,g,120,mg,410,g,115,g,11,g,33,g,0,g,1,g,98,g
+299,brusters,hot fudge brownie sundae,56,g,100,mg,530,g,166,g,14,g,30,g,3.5,g,5,g,122,g
+300,brusters,hot fudge sundae,29,g,75,mg,250,g,73,g,7,g,22,g,0,g,1,g,62,g
+301,brusters,jamaican me crazy ice cream in a dish large,39,g,70,mg,280,g,87,g,11,g,18,g,0,g,5,g,58,g
+302,brusters,jamaican me crazy ice cream in a dish regular,29,g,50,mg,210,g,65,g,8,g,13,g,0,g,3,g,44,g
+303,brusters,jamaican me crazy ice cream in a dish small,20,g,35,mg,140,g,43,g,5,g,9,g,0,g,2,g,29,g
+304,brusters,jamaican me crazy ice cream on a cake cone large,39,g,70,mg,290,g,92,g,11,g,18,g,0,g,5,g,58,g
+305,brusters,jamaican me crazy ice cream on a cake cone regular,29,g,50,mg,220,g,70,g,9,g,13,g,0,g,3,g,44,g
+306,brusters,jamaican me crazy ice cream on a cake cone small,20,g,35,mg,150,g,48,g,6,g,9,g,0,g,2,g,29,g
+307,brusters,jamaican me crazy ice cream on a sugar cone large,39,g,70,mg,300,g,99,g,11,g,18,g,0,g,5,g,61,g
+308,brusters,jamaican me crazy ice cream on a sugar cone regular,30,g,50,mg,230,g,77,g,9,g,13,g,0,g,3,g,47,g
+309,brusters,jamaican me crazy ice cream on a sugar cone small,20,g,35,mg,160,g,55,g,6,g,9,g,0,g,2,g,32,g
+310,brusters,jamaican me crazy ice cream on a waffle cone large,42,g,75,mg,280,g,109,g,12,g,19,g,0,g,5,g,68,g
+311,brusters,jamaican me crazy ice cream on a waffle cone regular,32,g,60,mg,210,g,88,g,10,g,14,g,0,g,3,g,54,g
+312,brusters,jamaican me crazy ice cream on a waffle cone small,23,g,40,mg,140,g,66,g,7,g,10,g,0,g,2,g,39,g
+313,brusters,key lime pie ice cream in a dish large,42,g,80,mg,290,g,78,g,8,g,19,g,0,g,0,g,59,g
+314,brusters,key lime pie ice cream in a dish regular,31,g,60,mg,220,g,59,g,6,g,14,g,0,g,0,g,44,g
+315,brusters,key lime pie ice cream in a dish small,21,g,40,mg,140,g,39,g,4,g,9,g,0,g,0,g,29,g
+316,brusters,key lime pie ice cream on a cake cone large,42,g,80,mg,300,g,83,g,8,g,19,g,0,g,0,g,59,g
+317,brusters,key lime pie ice cream on a cake cone regular,31,g,60,mg,230,g,64,g,6,g,14,g,0,g,0,g,44,g
+318,brusters,key lime pie ice cream on a cake cone small,21,g,40,mg,150,g,44,g,4,g,9,g,0,g,0,g,29,g
+319,brusters,key lime pie ice cream on a sugar cone large,42,g,80,mg,310,g,90,g,8,g,19,g,0,g,0,g,62,g
+320,brusters,key lime pie ice cream on a sugar cone regular,32,g,60,mg,240,g,71,g,6,g,14,g,0,g,0,g,47,g
+321,brusters,key lime pie ice cream on a sugar cone small,21,g,40,mg,160,g,51,g,4,g,9,g,0,g,0,g,32,g
+322,brusters,key lime pie ice cream on a waffle cone large,45,g,85,mg,290,g,101,g,9,g,20,g,0,g,0,g,69,g
+323,brusters,key lime pie ice cream on a waffle cone regular,34,g,65,mg,220,g,81,g,7,g,15,g,0,g,0,g,54,g
+324,brusters,key lime pie ice cream on a waffle cone small,24,g,45,mg,140,g,62,g,5,g,10,g,0,g,0,g,40,g
+325,brusters,kids dino sundae with hot fudge,19,g,30,mg,220,g,59,g,5,g,12,g,0,g,1,g,38,g
+326,brusters,kids dino sundae with strawberry,16,g,30,mg,150,g,51,g,4,g,9,g,0,g,1,g,32,g
+327,brusters,lemon sherbet ice in a dish large,0,g,0,mg,30,g,83,g,0,g,0,g,0,g,0,g,77,g
+328,brusters,lemon sherbet ice in a dish regular,0,g,0,mg,20,g,62,g,0,g,0,g,0,g,0,g,58,g
+329,brusters,lemon sherbet ice in a dish small,0,g,0,mg,15,g,41,g,0,g,0,g,0,g,0,g,39,g
+330,brusters,lemon sherbet ice on a cake cone large,0,g,0,mg,40,g,88,g,1,g,0,g,0,g,0,g,77,g
+331,brusters,lemon sherbet ice on a cake cone regular,0,g,0,mg,30,g,67,g,1,g,0,g,0,g,0,g,58,g
+332,brusters,lemon sherbet ice on a cake cone small,0,g,0,mg,25,g,46,g,1,g,0,g,0,g,0,g,39,g
+333,brusters,lemon sherbet ice on a sugar cone large,0,g,0,mg,50,g,95,g,1,g,0,g,0,g,0,g,80,g
+334,brusters,lemon sherbet ice on a sugar cone regular,0,g,0,mg,40,g,74,g,1,g,0,g,0,g,0,g,61,g
+335,brusters,lemon sherbet ice on a sugar cone small,0,g,0,mg,35,g,53,g,1,g,0,g,0,g,0,g,42,g
+336,brusters,lemon sherbet ice on a waffle cone large,3,g,10,mg,30,g,106,g,2,g,1,g,0,g,0,g,87,g
+337,brusters,lemon sherbet ice on a waffle cone regular,3,g,10,mg,20,g,85,g,2,g,1,g,0,g,0,g,68,g
+338,brusters,lemon sherbet ice on a waffle cone small,3,g,10,mg,15,g,64,g,2,g,1,g,0,g,0,g,49,g
+339,brusters,lemon sorbet in a dish large,0,g,0,mg,30,g,83,g,0,g,0,g,0,g,0,g,77,g
+340,brusters,lemon sorbet in a dish regular,0,g,0,mg,20,g,62,g,0,g,0,g,0,g,0,g,58,g
+341,brusters,lemon sorbet in a dish small,0,g,0,mg,15,g,41,g,0,g,0,g,0,g,0,g,39,g
+342,brusters,lemon sorbet on a cake cone large,0,g,0,mg,40,g,88,g,1,g,0,g,0,g,0,g,77,g
+343,brusters,lemon sorbet on a cake cone regular,0,g,0,mg,30,g,67,g,1,g,0,g,0,g,0,g,58,g
+344,brusters,lemon sorbet on a cake cone small,0,g,0,mg,25,g,46,g,1,g,0,g,0,g,0,g,39,g
+345,brusters,lemon sorbet on a sugar cone large,0,g,0,mg,50,g,95,g,1,g,0,g,0,g,0,g,80,g
+346,brusters,lemon sorbet on a sugar cone regular,0,g,0,mg,40,g,74,g,1,g,0,g,0,g,0,g,61,g
+347,brusters,lemon sorbet on a sugar cone small,0,g,0,mg,35,g,53,g,1,g,0,g,0,g,0,g,42,g
+348,brusters,lemon sorbet on a waffle cone large,3,g,10,mg,30,g,106,g,2,g,1,g,0,g,0,g,87,g
+349,brusters,lemon sorbet on a waffle cone regular,3,g,10,mg,20,g,85,g,2,g,1,g,0,g,0,g,68,g
+350,brusters,lemon sorbet on a waffle cone small,3,g,10,mg,15,g,64,g,2,g,1,g,0,g,0,g,49,g
+351,brusters,lime sherbet ice in a dish large,4,g,10,mg,50,g,91,g,1,g,2.5,g,0,g,0,g,84,g
+352,brusters,lime sherbet ice in a dish regular,3,g,10,mg,35,g,68,g,1,g,1.5,g,0,g,0,g,63,g
+353,brusters,lime sherbet ice in a dish small,2,g,5,mg,25,g,46,g,1,g,1,g,0,g,0,g,42,g
+354,brusters,lime sherbet ice on a cake cone large,4,g,10,mg,60,g,96,g,2,g,2.5,g,0,g,0,g,84,g
+355,brusters,lime sherbet ice on a cake cone regular,3,g,10,mg,45,g,73,g,1,g,1.5,g,0,g,0,g,63,g
+356,brusters,lime sherbet ice on a cake cone small,2,g,5,mg,35,g,51,g,1,g,1,g,0,g,0,g,42,g
+357,brusters,lime sherbet ice on a sugar cone large,4.5,g,10,mg,70,g,103,g,2,g,2.5,g,0,g,0,g,87,g
+358,brusters,lime sherbet ice on a sugar cone regular,3.5,g,10,mg,55,g,80,g,1,g,1.5,g,0,g,0,g,66,g
+359,brusters,lime sherbet ice on a sugar cone small,2.5,g,5,mg,45,g,58,g,1,g,1,g,0,g,0,g,45,g
+360,brusters,lime sherbet ice on a waffle cone large,7,g,20,mg,50,g,114,g,3,g,3,g,0,g,0,g,94,g
+361,brusters,lime sherbet ice on a waffle cone regular,6,g,15,mg,35,g,91,g,2,g,2.5,g,0,g,0,g,73,g
+362,brusters,lime sherbet ice on a waffle cone small,5,g,15,mg,25,g,68,g,2,g,2,g,0,g,0,g,52,g
+363,brusters,mandm blast large,68,g,145,mg,310,g,163,g,17,g,40,g,0,g,3,g,137,g
+364,brusters,mandm blast regular,54,g,120,mg,250,g,128,g,13,g,32,g,0,g,2,g,107,g
+365,brusters,mango ice cream in a dish large,29,g,85,mg,170,g,79,g,7,g,17,g,0,g,0,g,63,g
+366,brusters,mango ice cream in a dish regular,22,g,65,mg,130,g,59,g,5,g,13,g,0,g,0,g,47,g
+367,brusters,mango ice cream in a dish small,14,g,40,mg,85,g,40,g,4,g,8,g,0,g,0,g,31,g
+368,brusters,mango ice cream on a cake cone large,29,g,85,mg,180,g,84,g,8,g,17,g,0,g,0,g,63,g
+369,brusters,mango ice cream on a cake cone regular,22,g,65,mg,140,g,64,g,6,g,13,g,0,g,0,g,47,g
+370,brusters,mango ice cream on a cake cone small,15,g,40,mg,95,g,45,g,4,g,8,g,0,g,0,g,32,g
+371,brusters,mango ice cream on a sugar cone large,29,g,85,mg,190,g,91,g,8,g,17,g,0,g,0,g,66,g
+372,brusters,mango ice cream on a sugar cone regular,22,g,65,mg,150,g,71,g,6,g,13,g,0,g,0,g,50,g
+373,brusters,mango ice cream on a sugar cone small,15,g,40,mg,105,g,52,g,4,g,8,g,0,g,0,g,34,g
+374,brusters,mango ice cream on a waffle cone large,32,g,90,mg,170,g,102,g,9,g,18,g,0,g,0,g,73,g
+375,brusters,mango ice cream on a waffle cone regular,25,g,70,mg,130,g,82,g,7,g,13,g,0,g,0,g,57,g
+376,brusters,mango ice cream on a waffle cone small,18,g,50,mg,85,g,62,g,5,g,9,g,0,g,0,g,42,g
+377,brusters,mango sorbet in a dish large,0,g,0,mg,25,g,75,g,0,g,0,g,0,g,1,g,72,g
+378,brusters,mango sorbet in a dish regular,0,g,0,mg,15,g,56,g,0,g,0,g,0,g,1,g,54,g
+379,brusters,mango sorbet in a dish small,0,g,0,mg,10,g,37,g,0,g,0,g,0,g,0,g,36,g
+380,brusters,mango sorbet on a cake cone large,0,g,0,mg,35,g,80,g,1,g,0,g,0,g,1,g,72,g
+381,brusters,mango sorbet on a cake cone regular,0,g,0,mg,25,g,61,g,1,g,0,g,0,g,1,g,54,g
+382,brusters,mango sorbet on a cake cone small,0,g,0,mg,20,g,42,g,1,g,0,g,0,g,0,g,36,g
+383,brusters,mango sorbet on a sugar cone large,0,g,0,mg,45,g,87,g,1,g,0,g,0,g,1,g,75,g
+384,brusters,mango sorbet on a sugar cone regular,0,g,0,mg,35,g,68,g,1,g,0,g,0,g,1,g,57,g
+385,brusters,mango sorbet on a sugar cone small,0,g,0,mg,30,g,49,g,1,g,0,g,0,g,0,g,39,g
+386,brusters,mango sorbet on a waffle cone large,3.5,g,10,mg,25,g,98,g,2,g,1,g,0,g,1,g,82,g
+387,brusters,mango sorbet on a waffle cone regular,3.5,g,10,mg,15,g,79,g,2,g,1,g,0,g,1,g,64,g
+388,brusters,mango sorbet on a waffle cone small,3,g,10,mg,10,g,60,g,2,g,1,g,0,g,0,g,46,g
+389,brusters,maple pecan ice cream in a dish large,49,g,90,mg,260,g,64,g,9,g,20,g,0,g,2,g,48,g
+390,brusters,maple pecan ice cream in a dish regular,37,g,65,mg,200,g,48,g,7,g,15,g,0,g,1,g,36,g
+391,brusters,maple pecan ice cream in a dish small,25,g,45,mg,130,g,32,g,5,g,10,g,0,g,1,g,24,g
+392,brusters,maple pecan ice cream on a cake cone large,49,g,90,mg,270,g,69,g,10,g,20,g,0,g,2,g,48,g
+393,brusters,maple pecan ice cream on a cake cone regular,37,g,65,mg,210,g,53,g,8,g,15,g,0,g,1,g,36,g
+394,brusters,maple pecan ice cream on a cake cone small,25,g,45,mg,140,g,37,g,5,g,10,g,0,g,1,g,24,g
+395,brusters,maple pecan ice cream on a sugar cone large,49,g,90,mg,280,g,76,g,10,g,20,g,0,g,2,g,51,g
+396,brusters,maple pecan ice cream on a sugar cone regular,37,g,65,mg,220,g,60,g,8,g,15,g,0,g,1,g,39,g
+397,brusters,maple pecan ice cream on a sugar cone small,25,g,45,mg,150,g,44,g,5,g,10,g,0,g,1,g,27,g
+398,brusters,maple pecan ice cream on a waffle cone large,52,g,95,mg,260,g,87,g,11,g,20,g,0,g,2,g,58,g
+399,brusters,maple pecan ice cream on a waffle cone regular,40,g,75,mg,200,g,71,g,9,g,15,g,0,g,1,g,46,g
+400,brusters,maple pecan ice cream on a waffle cone small,28,g,50,mg,130,g,55,g,6,g,11,g,0,g,1,g,34,g
+401,brusters,maple walnut ice cream in a dish large,47,g,90,mg,150,g,66,g,11,g,19,g,0,g,1,g,48,g
+402,brusters,maple walnut ice cream in a dish regular,35,g,65,mg,115,g,49,g,9,g,14,g,0,g,1,g,36,g
+403,brusters,maple walnut ice cream in a dish small,23,g,45,mg,75,g,33,g,6,g,10,g,0,g,1,g,24,g
+404,brusters,maple walnut ice cream on a cake cone large,47,g,90,mg,160,g,71,g,12,g,19,g,0,g,1,g,48,g
+405,brusters,maple walnut ice cream on a cake cone regular,35,g,65,mg,125,g,54,g,9,g,14,g,0,g,1,g,36,g
+406,brusters,maple walnut ice cream on a cake cone small,24,g,45,mg,85,g,38,g,6,g,10,g,0,g,1,g,24,g
+407,brusters,maple walnut ice cream on a sugar cone large,47,g,90,mg,170,g,78,g,12,g,19,g,0,g,1,g,51,g
+408,brusters,maple walnut ice cream on a sugar cone regular,35,g,65,mg,135,g,61,g,9,g,14,g,0,g,1,g,39,g
+409,brusters,maple walnut ice cream on a sugar cone small,24,g,45,mg,95,g,45,g,6,g,10,g,0,g,1,g,27,g
+410,brusters,maple walnut ice cream on a waffle cone large,50,g,95,mg,150,g,89,g,13,g,20,g,0,g,1,g,58,g
+411,brusters,maple walnut ice cream on a waffle cone regular,38,g,75,mg,115,g,72,g,10,g,15,g,0,g,1,g,46,g
+412,brusters,maple walnut ice cream on a waffle cone small,27,g,50,mg,75,g,56,g,7,g,10,g,0,g,1,g,34,g
+413,brusters,maple walnut sundae,41,g,75,mg,125,g,67,g,9,g,18,g,0,g,3,g,52,g
+414,brusters,marshmallow sundae,23,g,75,mg,160,g,82,g,5,g,16,g,0,g,0,g,58,g
+415,brusters,mint chip yogurt in a dish large,11,g,30,mg,290,g,49,g,11,g,7,g,0,g,0,g,43,g
+416,brusters,mint chip yogurt in a dish regular,8,g,20,mg,220,g,37,g,8,g,5,g,0,g,0,g,32,g
+417,brusters,mint chip yogurt in a dish small,6,g,15,mg,150,g,24,g,6,g,3.5,g,0,g,0,g,21,g
+418,brusters,mint chip yogurt on a cake cone large,11,g,30,mg,300,g,54,g,12,g,7,g,0,g,0,g,43,g
+419,brusters,mint chip yogurt on a cake cone regular,8,g,20,mg,230,g,42,g,9,g,5,g,0,g,0,g,32,g
+420,brusters,mint chip yogurt on a cake cone small,6,g,15,mg,160,g,29,g,6,g,3.5,g,0,g,0,g,21,g
+421,brusters,mint chip yogurt on a sugar cone large,11,g,30,mg,310,g,61,g,12,g,7,g,0,g,0,g,46,g
+422,brusters,mint chip yogurt on a sugar cone regular,9,g,20,mg,240,g,49,g,9,g,5,g,0,g,0,g,35,g
+423,brusters,mint chip yogurt on a sugar cone small,6,g,15,mg,170,g,36,g,6,g,3.5,g,0,g,0,g,24,g
+424,brusters,mint chip yogurt on a waffle cone large,14,g,35,mg,290,g,72,g,13,g,8,g,0,g,0,g,53,g
+425,brusters,mint chip yogurt on a waffle cone regular,11,g,30,mg,220,g,59,g,10,g,6,g,0,g,0,g,42,g
+426,brusters,mint chip yogurt on a waffle cone small,9,g,20,mg,150,g,47,g,7,g,4,g,0,g,0,g,32,g
+427,brusters,mint chocolate chip ice cream in a dish large,40,g,85,mg,220,g,78,g,9,g,27,g,0,g,1,g,63,g
+428,brusters,mint chocolate chip ice cream in a dish regular,30,g,65,mg,170,g,59,g,6,g,20,g,0,g,1,g,47,g
+429,brusters,mint chocolate chip ice cream in a dish small,20,g,45,mg,110,g,39,g,4,g,13,g,0,g,1,g,31,g
+430,brusters,mint chocolate chip ice cream on a cake cone large,40,g,85,mg,230,g,83,g,9,g,27,g,0,g,1,g,63,g
+431,brusters,mint chocolate chip ice cream on a cake cone regular,30,g,65,mg,180,g,64,g,7,g,20,g,0,g,1,g,47,g
+432,brusters,mint chocolate chip ice cream on a cake cone small,20,g,45,mg,120,g,44,g,5,g,13,g,0,g,1,g,32,g
+433,brusters,mint chocolate chip ice cream on a sugar cone large,40,g,85,mg,240,g,90,g,9,g,27,g,0,g,1,g,66,g
+434,brusters,mint chocolate chip ice cream on a sugar cone regular,30,g,65,mg,190,g,71,g,7,g,20,g,0,g,1,g,50,g
+435,brusters,mint chocolate chip ice cream on a sugar cone small,20,g,45,mg,130,g,51,g,5,g,13,g,0,g,1,g,34,g
+436,brusters,mint chocolate chip ice cream on a waffle cone large,43,g,95,mg,220,g,101,g,10,g,27,g,0,g,1,g,73,g
+437,brusters,mint chocolate chip ice cream on a waffle cone regular,33,g,75,mg,170,g,82,g,8,g,21,g,0,g,1,g,57,g
+438,brusters,mint chocolate chip ice cream on a waffle cone small,23,g,50,mg,110,g,62,g,6,g,14,g,0,g,1,g,42,g
+439,brusters,mint fudge crunch ice cream in a dish large,36,g,75,mg,250,g,87,g,8,g,23,g,0.5,g,1,g,67,g
+440,brusters,mint fudge crunch ice cream in a dish regular,27,g,60,mg,190,g,65,g,6,g,17,g,0,g,1,g,51,g
+441,brusters,mint fudge crunch ice cream in a dish small,18,g,40,mg,125,g,44,g,4,g,12,g,0,g,1,g,34,g
+442,brusters,mint fudge crunch ice cream on a cake cone large,36,g,75,mg,260,g,92,g,9,g,23,g,0.5,g,1,g,68,g
+443,brusters,mint fudge crunch ice cream on a cake cone regular,27,g,60,mg,200,g,70,g,7,g,17,g,0,g,1,g,51,g
+444,brusters,mint fudge crunch ice cream on a cake cone small,18,g,40,mg,135,g,49,g,5,g,12,g,0,g,1,g,34,g
+445,brusters,mint fudge crunch ice cream on a sugar cone large,36,g,75,mg,270,g,99,g,9,g,23,g,0.5,g,1,g,70,g
+446,brusters,mint fudge crunch ice cream on a sugar cone regular,27,g,60,mg,210,g,77,g,7,g,17,g,0,g,1,g,54,g
+447,brusters,mint fudge crunch ice cream on a sugar cone small,18,g,40,mg,140,g,56,g,5,g,12,g,0,g,1,g,37,g
+448,brusters,mint fudge crunch ice cream on a waffle cone large,39,g,85,mg,250,g,110,g,10,g,24,g,0.5,g,1,g,78,g
+449,brusters,mint fudge crunch ice cream on a waffle cone regular,30,g,65,mg,190,g,88,g,8,g,18,g,0,g,1,g,61,g
+450,brusters,mint fudge crunch ice cream on a waffle cone small,21,g,45,mg,125,g,66,g,6,g,12,g,0,g,1,g,44,g
+451,brusters,mint oreo ice cream in a dish large,36,g,85,mg,310,g,83,g,9,g,19,g,0,g,1,g,60,g
+452,brusters,mint oreo ice cream in a dish regular,27,g,65,mg,230,g,62,g,7,g,14,g,0,g,1,g,45,g
+453,brusters,mint oreo ice cream in a dish small,18,g,45,mg,150,g,42,g,4,g,10,g,0,g,1,g,30,g
+454,brusters,mint oreo ice cream on a cake cone large,36,g,85,mg,320,g,88,g,9,g,19,g,0,g,1,g,60,g
+455,brusters,mint oreo ice cream on a cake cone regular,27,g,65,mg,240,g,67,g,7,g,14,g,0,g,1,g,45,g
+456,brusters,mint oreo ice cream on a cake cone small,18,g,45,mg,160,g,47,g,5,g,10,g,0,g,1,g,30,g
+457,brusters,mint oreo ice cream on a sugar cone large,36,g,85,mg,330,g,95,g,9,g,19,g,0,g,1,g,63,g
+458,brusters,mint oreo ice cream on a sugar cone regular,27,g,65,mg,250,g,74,g,7,g,14,g,0,g,1,g,48,g
+459,brusters,mint oreo ice cream on a sugar cone small,18,g,45,mg,170,g,54,g,5,g,10,g,0,g,1,g,33,g
+460,brusters,mint oreo ice cream on a waffle cone large,39,g,95,mg,310,g,106,g,10,g,20,g,0,g,1,g,70,g
+461,brusters,mint oreo ice cream on a waffle cone regular,30,g,75,mg,230,g,85,g,8,g,15,g,0,g,1,g,55,g
+462,brusters,mint oreo ice cream on a waffle cone small,21,g,50,mg,150,g,64,g,6,g,10,g,0,g,1,g,40,g
+463,brusters,mint with fudge no sugar added ice cream in a dish large,0,g,0,mg,330,g,86,g,13,g,0,g,0,g,2,g,17,g
+464,brusters,mint with fudge no sugar added ice cream in a dish regular,0,g,0,mg,250,g,65,g,10,g,0,g,0,g,2,g,13,g
+465,brusters,mint with fudge no sugar added ice cream in a dish small,0,g,0,mg,170,g,43,g,7,g,0,g,0,g,1,g,9,g
+466,brusters,mint with fudge no sugar added ice cream on a cake cone large,0,g,0,mg,340,g,91,g,14,g,0,g,0,g,2,g,18,g
+467,brusters,mint with fudge no sugar added ice cream on a cake cone regular,0,g,0,mg,260,g,70,g,10,g,0,g,0,g,2,g,13,g
+468,brusters,mint with fudge no sugar added ice cream on a cake cone small,0,g,0,mg,180,g,48,g,7,g,0,g,0,g,1,g,9,g
+469,brusters,mint with fudge no sugar added ice cream on a sugar cone large,0,g,0,mg,350,g,98,g,14,g,0,g,0,g,2,g,20,g
+470,brusters,mint with fudge no sugar added ice cream on a sugar cone regular,0,g,0,mg,270,g,77,g,10,g,0,g,0,g,2,g,16,g
+471,brusters,mint with fudge no sugar added ice cream on a sugar cone small,0,g,0,mg,190,g,55,g,7,g,0,g,0,g,1,g,12,g
+472,brusters,mint with fudge no sugar added ice cream on a waffle cone large,3.5,g,10,mg,330,g,109,g,15,g,1,g,0,g,2,g,28,g
+473,brusters,mint with fudge no sugar added ice cream on a waffle cone regular,3.5,g,10,mg,250,g,88,g,11,g,1,g,0,g,2,g,23,g
+474,brusters,mint with fudge no sugar added ice cream on a waffle cone small,3.5,g,10,mg,170,g,66,g,8,g,1,g,0,g,1,g,19,g
+475,brusters,mocha almond fudge ice cream in a dish large,38,g,70,mg,310,g,88,g,12,g,16,g,0.5,g,5,g,61,g
+476,brusters,mocha almond fudge ice cream in a dish regular,28,g,50,mg,230,g,66,g,9,g,12,g,0,g,3,g,46,g
+477,brusters,mocha almond fudge ice cream in a dish small,19,g,35,mg,150,g,44,g,6,g,8,g,0,g,2,g,30,g
+478,brusters,mocha almond fudge ice cream on a cake cone large,38,g,70,mg,320,g,93,g,13,g,16,g,0.5,g,5,g,61,g
+479,brusters,mocha almond fudge ice cream on a cake cone regular,28,g,50,mg,240,g,71,g,10,g,12,g,0,g,3,g,46,g
+480,brusters,mocha almond fudge ice cream on a cake cone small,19,g,35,mg,160,g,49,g,7,g,8,g,0,g,2,g,31,g
+481,brusters,mocha almond fudge ice cream on a sugar cone large,38,g,70,mg,330,g,100,g,13,g,16,g,0.5,g,5,g,64,g
+482,brusters,mocha almond fudge ice cream on a sugar cone regular,29,g,50,mg,250,g,78,g,10,g,12,g,0,g,3,g,49,g
+483,brusters,mocha almond fudge ice cream on a sugar cone small,19,g,35,mg,170,g,56,g,7,g,8,g,0,g,2,g,33,g
+484,brusters,mocha almond fudge ice cream on a waffle cone large,41,g,75,mg,310,g,110,g,14,g,16,g,0.5,g,5,g,71,g
+485,brusters,mocha almond fudge ice cream on a waffle cone regular,31,g,60,mg,230,g,89,g,11,g,12,g,0,g,3,g,56,g
+486,brusters,mocha almond fudge ice cream on a waffle cone small,22,g,40,mg,150,g,67,g,8,g,9,g,0,g,2,g,41,g
+487,brusters,monkey madness ice cream in a dish large,31,g,65,mg,190,g,93,g,8,g,18,g,0,g,2,g,66,g
+488,brusters,monkey madness ice cream in a dish regular,23,g,50,mg,140,g,69,g,6,g,14,g,0,g,1,g,49,g
+489,brusters,monkey madness ice cream in a dish small,15,g,30,mg,95,g,46,g,4,g,9,g,0,g,1,g,33,g
+490,brusters,monkey madness ice cream on a cake cone large,31,g,65,mg,200,g,98,g,9,g,18,g,0,g,2,g,66,g
+491,brusters,monkey madness ice cream on a cake cone regular,23,g,50,mg,150,g,74,g,7,g,14,g,0,g,1,g,49,g
+492,brusters,monkey madness ice cream on a cake cone small,16,g,30,mg,105,g,51,g,5,g,9,g,0,g,1,g,33,g
+493,brusters,monkey madness ice cream on a sugar cone large,31,g,65,mg,210,g,105,g,9,g,18,g,0,g,2,g,69,g
+494,brusters,monkey madness ice cream on a sugar cone regular,23,g,50,mg,160,g,81,g,7,g,14,g,0,g,1,g,52,g
+495,brusters,monkey madness ice cream on a sugar cone small,16,g,30,mg,115,g,58,g,5,g,9,g,0,g,1,g,36,g
+496,brusters,monkey madness ice cream on a waffle cone large,34,g,75,mg,190,g,115,g,10,g,19,g,0,g,2,g,76,g
+497,brusters,monkey madness ice cream on a waffle cone regular,26,g,55,mg,140,g,92,g,8,g,15,g,0,g,1,g,60,g
+498,brusters,monkey madness ice cream on a waffle cone small,19,g,40,mg,95,g,69,g,6,g,10,g,0,g,1,g,43,g
+499,brusters,nestle crunch blast large,71,g,150,mg,350,g,155,g,16,g,41,g,0,g,2,g,123,g
+500,brusters,nestle crunch blast regular,54,g,115,mg,270,g,119,g,12,g,32,g,0,g,1,g,95,g
+501,brusters,nestles crunch ice cream in a dish large,39,g,90,mg,240,g,76,g,9,g,26,g,0,g,0,g,63,g
+502,brusters,nestles crunch ice cream in a dish regular,29,g,65,mg,180,g,57,g,7,g,19,g,0,g,0,g,47,g
+503,brusters,nestles crunch ice cream in a dish small,20,g,45,mg,120,g,38,g,5,g,13,g,0,g,0,g,32,g
+504,brusters,nestles crunch ice cream on a cake cone large,39,g,90,mg,250,g,81,g,10,g,26,g,0,g,0,g,63,g
+505,brusters,nestles crunch ice cream on a cake cone regular,29,g,65,mg,190,g,62,g,7,g,19,g,0,g,0,g,47,g
+506,brusters,nestles crunch ice cream on a cake cone small,20,g,45,mg,130,g,43,g,5,g,13,g,0,g,0,g,32,g
+507,brusters,nestles crunch ice cream on a sugar cone large,39,g,90,mg,260,g,88,g,10,g,26,g,0,g,0,g,66,g
+508,brusters,nestles crunch ice cream on a sugar cone regular,30,g,65,mg,200,g,69,g,7,g,19,g,0,g,0,g,50,g
+509,brusters,nestles crunch ice cream on a sugar cone small,20,g,45,mg,140,g,50,g,5,g,13,g,0,g,0,g,35,g
+510,brusters,nestles crunch ice cream on a waffle cone large,42,g,95,mg,240,g,99,g,11,g,27,g,0,g,0,g,73,g
+511,brusters,nestles crunch ice cream on a waffle cone regular,32,g,75,mg,180,g,80,g,8,g,20,g,0,g,0,g,57,g
+512,brusters,nestles crunch ice cream on a waffle cone small,23,g,50,mg,120,g,61,g,6,g,14,g,0,g,0,g,42,g
+513,brusters,new york cheesecake ice cream in a dish large,42,g,80,mg,390,g,82,g,8,g,19,g,0,g,1,g,65,g
+514,brusters,new york cheesecake ice cream in a dish regular,31,g,60,mg,290,g,62,g,6,g,14,g,0,g,0,g,48,g
+515,brusters,new york cheesecake ice cream in a dish small,21,g,40,mg,190,g,41,g,4,g,9,g,0,g,0,g,32,g
+516,brusters,new york cheesecake ice cream on a cake cone large,42,g,80,mg,400,g,87,g,8,g,19,g,0,g,1,g,65,g
+517,brusters,new york cheesecake ice cream on a cake cone regular,31,g,60,mg,300,g,67,g,6,g,14,g,0,g,0,g,49,g
+518,brusters,new york cheesecake ice cream on a cake cone small,21,g,40,mg,200,g,46,g,4,g,9,g,0,g,0,g,32,g
+519,brusters,new york cheesecake ice cream on a sugar cone large,42,g,80,mg,410,g,94,g,8,g,19,g,0,g,1,g,68,g
+520,brusters,new york cheesecake ice cream on a sugar cone regular,32,g,60,mg,310,g,74,g,6,g,14,g,0,g,0,g,51,g
+521,brusters,new york cheesecake ice cream on a sugar cone small,21,g,40,mg,210,g,53,g,4,g,9,g,0,g,0,g,35,g
+522,brusters,new york cheesecake ice cream on a waffle cone large,45,g,90,mg,390,g,105,g,9,g,20,g,0,g,1,g,75,g
+523,brusters,new york cheesecake ice cream on a waffle cone regular,34,g,70,mg,290,g,85,g,7,g,15,g,0,g,0,g,59,g
+524,brusters,new york cheesecake ice cream on a waffle cone small,24,g,50,mg,190,g,64,g,5,g,10,g,0,g,0,g,43,g
+525,brusters,nutty coconut ice cream in a dish large,42,g,75,mg,280,g,77,g,12,g,19,g,0,g,4,g,53,g
+526,brusters,nutty coconut ice cream in a dish regular,32,g,60,mg,210,g,58,g,9,g,15,g,0,g,3,g,40,g
+527,brusters,nutty coconut ice cream in a dish small,21,g,40,mg,140,g,38,g,6,g,10,g,0,g,2,g,27,g
+528,brusters,nutty coconut ice cream on a cake cone large,42,g,75,mg,290,g,82,g,12,g,19,g,0,g,4,g,53,g
+529,brusters,nutty coconut ice cream on a cake cone regular,32,g,60,mg,220,g,63,g,9,g,15,g,0,g,3,g,40,g
+530,brusters,nutty coconut ice cream on a cake cone small,21,g,40,mg,150,g,43,g,6,g,10,g,0,g,2,g,27,g
+531,brusters,nutty coconut ice cream on a sugar cone large,42,g,75,mg,300,g,89,g,12,g,19,g,0,g,4,g,56,g
+532,brusters,nutty coconut ice cream on a sugar cone regular,32,g,60,mg,230,g,70,g,9,g,15,g,0,g,3,g,43,g
+533,brusters,nutty coconut ice cream on a sugar cone small,21,g,40,mg,160,g,50,g,6,g,10,g,0,g,2,g,30,g
+534,brusters,nutty coconut ice cream on a waffle cone large,45,g,85,mg,280,g,100,g,13,g,20,g,0,g,4,g,63,g
+535,brusters,nutty coconut ice cream on a waffle cone regular,35,g,65,mg,210,g,81,g,10,g,15,g,0,g,3,g,50,g
+536,brusters,nutty coconut ice cream on a waffle cone small,24,g,45,mg,140,g,61,g,7,g,10,g,0,g,2,g,37,g
+537,brusters,orange sherbet ice in a dish large,4,g,10,mg,50,g,87,g,1,g,2.5,g,0,g,0,g,81,g
+538,brusters,orange sherbet ice in a dish regular,3,g,10,mg,35,g,65,g,1,g,1.5,g,0,g,0,g,60,g
+539,brusters,orange sherbet ice in a dish small,2,g,5,mg,25,g,43,g,1,g,1,g,0,g,0,g,40,g
+540,brusters,orange sherbet ice on a cake cone large,4,g,10,mg,60,g,92,g,2,g,2.5,g,0,g,0,g,81,g
+541,brusters,orange sherbet ice on a cake cone regular,3,g,10,mg,45,g,70,g,1,g,1.5,g,0,g,0,g,61,g
+542,brusters,orange sherbet ice on a cake cone small,2,g,5,mg,35,g,48,g,1,g,1,g,0,g,0,g,40,g
+543,brusters,orange sherbet ice on a sugar cone large,4.5,g,10,mg,70,g,99,g,2,g,2.5,g,0,g,0,g,84,g
+544,brusters,orange sherbet ice on a sugar cone regular,3.5,g,10,mg,55,g,77,g,1,g,1.5,g,0,g,0,g,63,g
+545,brusters,orange sherbet ice on a sugar cone small,2.5,g,5,mg,45,g,55,g,1,g,1,g,0,g,0,g,43,g
+546,brusters,orange sherbet ice on a waffle cone large,7,g,20,mg,50,g,110,g,3,g,3,g,0,g,0,g,91,g
+547,brusters,orange sherbet ice on a waffle cone regular,6,g,15,mg,35,g,88,g,2,g,2.5,g,0,g,0,g,71,g
+548,brusters,orange sherbet ice on a waffle cone small,5,g,15,mg,25,g,66,g,2,g,2,g,0,g,0,g,51,g
+549,brusters,oreo blast large,59,g,140,mg,520,g,139,g,14,g,31,g,0,g,2,g,99,g
+550,brusters,oreo blast regular,46,g,110,mg,390,g,105,g,11,g,24,g,0,g,1,g,76,g
+551,brusters,oreo cheesecake ice cream in a dish large,34,g,80,mg,390,g,87,g,8,g,18,g,0,g,1,g,65,g
+552,brusters,oreo cheesecake ice cream in a dish regular,25,g,60,mg,290,g,65,g,6,g,13,g,0,g,1,g,49,g
+553,brusters,oreo cheesecake ice cream in a dish small,17,g,40,mg,200,g,43,g,4,g,9,g,0,g,0,g,33,g
+554,brusters,oreo cheesecake ice cream on a cake cone large,34,g,80,mg,400,g,92,g,9,g,18,g,0,g,1,g,66,g
+555,brusters,oreo cheesecake ice cream on a cake cone regular,25,g,60,mg,300,g,70,g,7,g,13,g,0,g,1,g,49,g
+556,brusters,oreo cheesecake ice cream on a cake cone small,17,g,40,mg,210,g,48,g,5,g,9,g,0,g,0,g,33,g
+557,brusters,oreo cheesecake ice cream on a sugar cone large,34,g,80,mg,410,g,99,g,9,g,18,g,0,g,1,g,68,g
+558,brusters,oreo cheesecake ice cream on a sugar cone regular,25,g,60,mg,310,g,77,g,7,g,13,g,0,g,1,g,52,g
+559,brusters,oreo cheesecake ice cream on a sugar cone small,17,g,40,mg,220,g,55,g,5,g,9,g,0,g,0,g,36,g
+560,brusters,oreo cheesecake ice cream on a waffle cone large,37,g,90,mg,390,g,109,g,10,g,19,g,0,g,1,g,76,g
+561,brusters,oreo cheesecake ice cream on a waffle cone regular,28,g,70,mg,290,g,88,g,8,g,14,g,0,g,1,g,59,g
+562,brusters,oreo cheesecake ice cream on a waffle cone small,20,g,50,mg,200,g,66,g,6,g,10,g,0,g,0,g,43,g
+563,brusters,oreo ice cream in a dish large,36,g,85,mg,310,g,83,g,9,g,19,g,0,g,1,g,60,g
+564,brusters,oreo ice cream in a dish regular,27,g,65,mg,230,g,62,g,7,g,14,g,0,g,1,g,45,g
+565,brusters,oreo ice cream in a dish small,18,g,45,mg,150,g,42,g,4,g,10,g,0,g,1,g,30,g
+566,brusters,oreo ice cream on a cake cone large,36,g,85,mg,320,g,88,g,9,g,19,g,0,g,1,g,60,g
+567,brusters,oreo ice cream on a cake cone regular,27,g,65,mg,240,g,67,g,7,g,14,g,0,g,1,g,45,g
+568,brusters,oreo ice cream on a cake cone small,18,g,45,mg,160,g,47,g,5,g,10,g,0,g,1,g,30,g
+569,brusters,oreo ice cream on a sugar cone large,36,g,85,mg,330,g,95,g,9,g,19,g,0,g,1,g,63,g
+570,brusters,oreo ice cream on a sugar cone regular,27,g,65,mg,250,g,74,g,7,g,14,g,0,g,1,g,48,g
+571,brusters,oreo ice cream on a sugar cone small,18,g,45,mg,170,g,54,g,5,g,10,g,0,g,1,g,33,g
+572,brusters,oreo ice cream on a waffle cone large,39,g,95,mg,310,g,106,g,10,g,20,g,0,g,1,g,70,g
+573,brusters,oreo ice cream on a waffle cone regular,30,g,75,mg,230,g,85,g,8,g,15,g,0,g,1,g,55,g
+574,brusters,oreo ice cream on a waffle cone small,21,g,50,mg,150,g,64,g,6,g,10,g,0,g,1,g,40,g
+575,brusters,peach ice cream in a dish large,26,g,75,mg,130,g,67,g,7,g,15,g,0,g,0,g,54,g
+576,brusters,peach ice cream in a dish regular,20,g,55,mg,100,g,50,g,5,g,11,g,0,g,0,g,40,g
+577,brusters,peach ice cream in a dish small,13,g,40,mg,65,g,33,g,3,g,8,g,0,g,0,g,27,g
+578,brusters,peach ice cream on a cake cone large,26,g,75,mg,140,g,72,g,7,g,15,g,0,g,0,g,54,g
+579,brusters,peach ice cream on a cake cone regular,20,g,55,mg,110,g,55,g,6,g,11,g,0,g,0,g,40,g
+580,brusters,peach ice cream on a cake cone small,13,g,40,mg,75,g,38,g,4,g,8,g,0,g,0,g,27,g
+581,brusters,peach ice cream on a sugar cone large,26,g,75,mg,150,g,79,g,7,g,15,g,0,g,0,g,57,g
+582,brusters,peach ice cream on a sugar cone regular,20,g,55,mg,120,g,62,g,6,g,11,g,0,g,0,g,43,g
+583,brusters,peach ice cream on a sugar cone small,13,g,40,mg,85,g,45,g,4,g,8,g,0,g,0,g,30,g
+584,brusters,peach ice cream on a waffle cone large,29,g,85,mg,130,g,90,g,8,g,16,g,0,g,0,g,64,g
+585,brusters,peach ice cream on a waffle cone regular,23,g,65,mg,100,g,73,g,7,g,12,g,0,g,0,g,50,g
+586,brusters,peach ice cream on a waffle cone small,16,g,45,mg,65,g,56,g,5,g,8,g,0,g,0,g,37,g
+587,brusters,peach melba ice cream in a dish large,25,g,75,mg,190,g,88,g,6,g,15,g,0,g,1,g,66,g
+588,brusters,peach melba ice cream in a dish regular,19,g,55,mg,140,g,66,g,5,g,11,g,0,g,1,g,50,g
+589,brusters,peach melba ice cream in a dish small,13,g,35,mg,95,g,44,g,3,g,7,g,0,g,0,g,33,g
+590,brusters,peach melba ice cream on a cake cone large,25,g,75,mg,200,g,93,g,7,g,15,g,0,g,1,g,67,g
+591,brusters,peach melba ice cream on a cake cone regular,19,g,55,mg,150,g,71,g,5,g,11,g,0,g,1,g,50,g
+592,brusters,peach melba ice cream on a cake cone small,13,g,35,mg,105,g,49,g,4,g,7,g,0,g,0,g,33,g
+593,brusters,peach melba ice cream on a sugar cone large,25,g,75,mg,210,g,100,g,7,g,15,g,0,g,1,g,69,g
+594,brusters,peach melba ice cream on a sugar cone regular,19,g,55,mg,160,g,78,g,5,g,11,g,0,g,1,g,53,g
+595,brusters,peach melba ice cream on a sugar cone small,13,g,35,mg,115,g,56,g,4,g,7,g,0,g,0,g,36,g
+596,brusters,peach melba ice cream on a waffle cone large,28,g,80,mg,190,g,111,g,8,g,15,g,0,g,1,g,77,g
+597,brusters,peach melba ice cream on a waffle cone regular,22,g,60,mg,140,g,89,g,6,g,12,g,0,g,1,g,60,g
+598,brusters,peach melba ice cream on a waffle cone small,16,g,45,mg,95,g,67,g,5,g,8,g,0,g,0,g,43,g
+599,brusters,peach sherbet ice in a dish large,0,g,0,mg,30,g,84,g,0,g,0,g,0,g,0,g,78,g
+600,brusters,peach sherbet ice in a dish regular,0,g,0,mg,25,g,63,g,0,g,0,g,0,g,0,g,59,g
+601,brusters,peach sherbet ice in a dish small,0,g,0,mg,15,g,42,g,0,g,0,g,0,g,0,g,39,g
+602,brusters,peach sherbet ice on a cake cone large,0,g,0,mg,40,g,89,g,1,g,0,g,0,g,0,g,78,g
+603,brusters,peach sherbet ice on a cake cone regular,0,g,0,mg,35,g,68,g,1,g,0,g,0,g,0,g,59,g
+604,brusters,peach sherbet ice on a cake cone small,0,g,0,mg,25,g,47,g,1,g,0,g,0,g,0,g,39,g
+605,brusters,peach sherbet ice on a sugar cone large,0,g,0,mg,50,g,96,g,1,g,0,g,0,g,0,g,81,g
+606,brusters,peach sherbet ice on a sugar cone regular,0,g,0,mg,45,g,75,g,1,g,0,g,0,g,0,g,62,g
+607,brusters,peach sherbet ice on a sugar cone small,0,g,0,mg,35,g,54,g,1,g,0,g,0,g,0,g,42,g
+608,brusters,peach sherbet ice on a waffle cone large,3,g,10,mg,30,g,107,g,2,g,1,g,0,g,0,g,89,g
+609,brusters,peach sherbet ice on a waffle cone regular,3,g,10,mg,25,g,86,g,2,g,1,g,0,g,0,g,69,g
+610,brusters,peach sherbet ice on a waffle cone small,3,g,10,mg,15,g,65,g,2,g,1,g,0,g,0,g,49,g
+611,brusters,peach sorbet in a dish large,0,g,0,mg,25,g,81,g,0,g,0,g,0,g,1,g,75,g
+612,brusters,peach sorbet in a dish regular,0,g,0,mg,20,g,61,g,0,g,0,g,0,g,0,g,57,g
+613,brusters,peach sorbet in a dish small,0,g,0,mg,10,g,40,g,0,g,0,g,0,g,0,g,38,g
+614,brusters,peach sorbet on a cake cone large,0,g,0,mg,35,g,86,g,1,g,0,g,0,g,1,g,76,g
+615,brusters,peach sorbet on a cake cone regular,0,g,0,mg,30,g,66,g,1,g,0,g,0,g,0,g,57,g
+616,brusters,peach sorbet on a cake cone small,0,g,0,mg,20,g,45,g,1,g,0,g,0,g,0,g,38,g
+617,brusters,peach sorbet on a sugar cone large,0,g,0,mg,45,g,93,g,1,g,0,g,0,g,1,g,78,g
+618,brusters,peach sorbet on a sugar cone regular,0,g,0,mg,40,g,73,g,1,g,0,g,0,g,0,g,60,g
+619,brusters,peach sorbet on a sugar cone small,0,g,0,mg,30,g,52,g,1,g,0,g,0,g,0,g,41,g
+620,brusters,peach sorbet on a waffle cone large,3,g,10,mg,25,g,104,g,2,g,1,g,0,g,1,g,86,g
+621,brusters,peach sorbet on a waffle cone regular,3,g,10,mg,20,g,83,g,2,g,1,g,0,g,0,g,67,g
+622,brusters,peach sorbet on a waffle cone small,3,g,10,mg,10,g,63,g,2,g,1,g,0,g,0,g,48,g
+623,brusters,peaches n cream ice cream in a dish large,17,g,50,mg,95,g,74,g,4,g,10,g,0,g,0,g,64,g
+624,brusters,peaches n cream ice cream in a dish regular,13,g,35,mg,70,g,55,g,3,g,7,g,0,g,0,g,48,g
+625,brusters,peaches n cream ice cream in a dish small,8,g,25,mg,50,g,37,g,2,g,5,g,0,g,0,g,32,g
+626,brusters,peaches n cream ice cream on a cake cone large,17,g,50,mg,105,g,79,g,5,g,10,g,0,g,0,g,64,g
+627,brusters,peaches n cream ice cream on a cake cone regular,13,g,35,mg,80,g,60,g,4,g,7,g,0,g,0,g,48,g
+628,brusters,peaches n cream ice cream on a cake cone small,9,g,25,mg,60,g,42,g,3,g,5,g,0,g,0,g,32,g
+629,brusters,peaches n cream ice cream on a sugar cone large,17,g,50,mg,115,g,86,g,5,g,10,g,0,g,0,g,67,g
+630,brusters,peaches n cream ice cream on a sugar cone regular,13,g,35,mg,90,g,67,g,4,g,7,g,0,g,0,g,51,g
+631,brusters,peaches n cream ice cream on a sugar cone small,9,g,25,mg,70,g,49,g,3,g,5,g,0,g,0,g,35,g
+632,brusters,peaches n cream ice cream on a waffle cone large,20,g,55,mg,95,g,97,g,6,g,11,g,0,g,0,g,75,g
+633,brusters,peaches n cream ice cream on a waffle cone regular,16,g,45,mg,70,g,78,g,5,g,8,g,0,g,0,g,58,g
+634,brusters,peaches n cream ice cream on a waffle cone small,12,g,30,mg,50,g,60,g,4,g,6,g,0,g,0,g,42,g
+635,brusters,peanut butter and jelly ice cream in a dish large,44,g,75,mg,260,g,76,g,13,g,18,g,0,g,2,g,61,g
+636,brusters,peanut butter and jelly ice cream in a dish regular,33,g,55,mg,190,g,57,g,10,g,14,g,0,g,2,g,45,g
+637,brusters,peanut butter and jelly ice cream in a dish small,22,g,35,mg,130,g,38,g,6,g,9,g,0,g,1,g,30,g
+638,brusters,peanut butter and jelly ice cream on a cake cone large,44,g,75,mg,270,g,81,g,13,g,18,g,0,g,2,g,61,g
+639,brusters,peanut butter and jelly ice cream on a cake cone regular,33,g,55,mg,200,g,62,g,10,g,14,g,0,g,2,g,46,g
+640,brusters,peanut butter and jelly ice cream on a cake cone small,22,g,35,mg,140,g,43,g,7,g,9,g,0,g,1,g,30,g
+641,brusters,peanut butter and jelly ice cream on a sugar cone large,45,g,75,mg,280,g,88,g,13,g,18,g,0,g,2,g,64,g
+642,brusters,peanut butter and jelly ice cream on a sugar cone regular,34,g,55,mg,210,g,69,g,10,g,14,g,0,g,2,g,48,g
+643,brusters,peanut butter and jelly ice cream on a sugar cone small,22,g,35,mg,150,g,50,g,7,g,9,g,0,g,1,g,33,g
+644,brusters,peanut butter and jelly ice cream on a waffle cone large,47,g,80,mg,260,g,99,g,15,g,19,g,0,g,2,g,71,g
+645,brusters,peanut butter and jelly ice cream on a waffle cone regular,36,g,65,mg,190,g,80,g,11,g,15,g,0,g,2,g,56,g
+646,brusters,peanut butter and jelly ice cream on a waffle cone small,25,g,45,mg,130,g,61,g,8,g,10,g,0,g,1,g,41,g
+647,brusters,peanut butter cheesecake ice cream in a dish large,47,g,75,mg,370,g,84,g,11,g,23,g,0,g,3,g,67,g
+648,brusters,peanut butter cheesecake ice cream in a dish regular,35,g,55,mg,280,g,63,g,8,g,17,g,0,g,2,g,51,g
+649,brusters,peanut butter cheesecake ice cream in a dish small,24,g,40,mg,190,g,42,g,5,g,12,g,0,g,1,g,34,g
+650,brusters,peanut butter cheesecake ice cream on a cake cone large,47,g,75,mg,380,g,89,g,11,g,23,g,0,g,3,g,68,g
+651,brusters,peanut butter cheesecake ice cream on a cake cone regular,36,g,55,mg,290,g,68,g,9,g,17,g,0,g,2,g,51,g
+652,brusters,peanut butter cheesecake ice cream on a cake cone small,24,g,40,mg,200,g,47,g,6,g,12,g,0,g,1,g,34,g
+653,brusters,peanut butter cheesecake ice cream on a sugar cone large,47,g,75,mg,390,g,96,g,11,g,23,g,0,g,3,g,70,g
+654,brusters,peanut butter cheesecake ice cream on a sugar cone regular,36,g,55,mg,300,g,75,g,9,g,17,g,0,g,2,g,54,g
+655,brusters,peanut butter cheesecake ice cream on a sugar cone small,24,g,40,mg,210,g,54,g,6,g,12,g,0,g,1,g,37,g
+656,brusters,peanut butter cheesecake ice cream on a waffle cone large,50,g,85,mg,370,g,107,g,12,g,24,g,0,g,3,g,78,g
+657,brusters,peanut butter cheesecake ice cream on a waffle cone regular,39,g,65,mg,280,g,86,g,10,g,18,g,0,g,2,g,61,g
+658,brusters,peanut butter cheesecake ice cream on a waffle cone small,27,g,45,mg,190,g,65,g,7,g,12,g,0,g,1,g,44,g
+659,brusters,peanut butter cream ice cream in a dish large,50,g,85,mg,280,g,66,g,15,g,21,g,0,g,2,g,51,g
+660,brusters,peanut butter cream ice cream in a dish regular,38,g,65,mg,210,g,49,g,11,g,16,g,0,g,2,g,38,g
+661,brusters,peanut butter cream ice cream in a dish small,25,g,40,mg,140,g,33,g,7,g,10,g,0,g,1,g,26,g
+662,brusters,peanut butter cream ice cream on a cake cone large,51,g,85,mg,290,g,71,g,15,g,21,g,0,g,2,g,51,g
+663,brusters,peanut butter cream ice cream on a cake cone regular,38,g,65,mg,220,g,54,g,12,g,16,g,0,g,2,g,38,g
+664,brusters,peanut butter cream ice cream on a cake cone small,25,g,40,mg,150,g,38,g,8,g,10,g,0,g,1,g,26,g
+665,brusters,peanut butter cream ice cream on a sugar cone large,51,g,85,mg,300,g,78,g,15,g,21,g,0,g,2,g,54,g
+666,brusters,peanut butter cream ice cream on a sugar cone regular,38,g,65,mg,230,g,61,g,12,g,16,g,0,g,2,g,41,g
+667,brusters,peanut butter cream ice cream on a sugar cone small,26,g,40,mg,160,g,45,g,8,g,10,g,0,g,1,g,29,g
+668,brusters,peanut butter cream ice cream on a waffle cone large,54,g,90,mg,280,g,89,g,16,g,22,g,0,g,2,g,61,g
+669,brusters,peanut butter cream ice cream on a waffle cone regular,41,g,70,mg,210,g,72,g,13,g,16,g,0,g,2,g,49,g
+670,brusters,peanut butter cream ice cream on a waffle cone small,28,g,50,mg,140,g,56,g,9,g,11,g,0,g,1,g,36,g
+671,brusters,peanut butter crunch ice cream in a dish large,54,g,80,mg,340,g,75,g,14,g,23,g,0,g,3,g,61,g
+672,brusters,peanut butter crunch ice cream in a dish regular,40,g,60,mg,250,g,56,g,11,g,17,g,0,g,2,g,46,g
+673,brusters,peanut butter crunch ice cream in a dish small,27,g,40,mg,170,g,37,g,7,g,12,g,0,g,1,g,31,g
+674,brusters,peanut butter crunch ice cream on a cake cone large,54,g,80,mg,350,g,80,g,15,g,23,g,0,g,3,g,61,g
+675,brusters,peanut butter crunch ice cream on a cake cone regular,41,g,60,mg,260,g,61,g,11,g,17,g,0,g,2,g,46,g
+676,brusters,peanut butter crunch ice cream on a cake cone small,27,g,40,mg,180,g,42,g,8,g,12,g,0,g,1,g,31,g
+677,brusters,peanut butter crunch ice cream on a sugar cone large,54,g,80,mg,360,g,87,g,15,g,23,g,0,g,3,g,64,g
+678,brusters,peanut butter crunch ice cream on a sugar cone regular,41,g,60,mg,270,g,68,g,11,g,17,g,0,g,2,g,49,g
+679,brusters,peanut butter crunch ice cream on a sugar cone small,27,g,40,mg,190,g,49,g,8,g,12,g,0,g,1,g,34,g
+680,brusters,peanut butter crunch ice cream on a waffle cone large,57,g,90,mg,340,g,98,g,16,g,24,g,0,g,3,g,71,g
+681,brusters,peanut butter crunch ice cream on a waffle cone regular,44,g,70,mg,250,g,79,g,12,g,18,g,0,g,2,g,56,g
+682,brusters,peanut butter crunch ice cream on a waffle cone small,30,g,50,mg,170,g,60,g,9,g,12,g,0,g,1,g,41,g
+683,brusters,peanut butter crunch with butterfinger ice cream in a dish large,50,g,75,mg,310,g,77,g,15,g,21,g,0,g,3,g,57,g
+684,brusters,peanut butter crunch with butterfinger ice cream in a dish regular,38,g,60,mg,230,g,58,g,11,g,16,g,0,g,2,g,43,g
+685,brusters,peanut butter crunch with butterfinger ice cream in a dish small,25,g,40,mg,150,g,39,g,7,g,11,g,0,g,1,g,29,g
+686,brusters,peanut butter crunch with butterfinger ice cream on a cake cone large,51,g,75,mg,320,g,82,g,15,g,21,g,0,g,3,g,58,g
+687,brusters,peanut butter crunch with butterfinger ice cream on a cake cone regular,38,g,60,mg,240,g,63,g,12,g,16,g,0,g,2,g,43,g
+688,brusters,peanut butter crunch with butterfinger ice cream on a cake cone small,25,g,40,mg,160,g,44,g,8,g,11,g,0,g,1,g,29,g
+689,brusters,peanut butter crunch with butterfinger ice cream on a sugar cone large,51,g,75,mg,330,g,89,g,15,g,21,g,0,g,3,g,60,g
+690,brusters,peanut butter crunch with butterfinger ice cream on a sugar cone regular,38,g,60,mg,250,g,70,g,12,g,16,g,0,g,2,g,46,g
+691,brusters,peanut butter crunch with butterfinger ice cream on a sugar cone small,26,g,40,mg,170,g,51,g,8,g,11,g,0,g,1,g,32,g
+692,brusters,peanut butter crunch with butterfinger ice cream on a waffle cone large,41,g,65,mg,230,g,81,g,13,g,17,g,0,g,2,g,53,g
+693,brusters,peanut butter crunch with butterfinger ice cream on a waffle cone regular,41,g,65,mg,230,g,81,g,13,g,17,g,0,g,2,g,53,g
+694,brusters,peanut butter crunch with butterfinger ice cream on a waffle cone small,28,g,45,mg,150,g,62,g,9,g,11,g,0,g,1,g,39,g
+695,brusters,peanut butter cup parfait ice cream in a dish large,48,g,75,mg,340,g,75,g,15,g,20,g,0,g,3,g,60,g
+696,brusters,peanut butter cup parfait ice cream in a dish regular,36,g,55,mg,250,g,56,g,11,g,15,g,0,g,2,g,45,g
+697,brusters,peanut butter cup parfait ice cream in a dish small,24,g,40,mg,170,g,37,g,7,g,10,g,0,g,1,g,30,g
+698,brusters,peanut butter cup parfait ice cream on a cake cone large,48,g,75,mg,350,g,80,g,15,g,20,g,0,g,3,g,60,g
+699,brusters,peanut butter cup parfait ice cream on a cake cone regular,36,g,55,mg,260,g,61,g,11,g,15,g,0,g,2,g,45,g
+700,brusters,peanut butter cup parfait ice cream on a cake cone small,24,g,40,mg,180,g,42,g,8,g,10,g,0,g,1,g,30,g
+701,brusters,peanut butter cup parfait ice cream on a sugar cone large,49,g,75,mg,360,g,87,g,15,g,20,g,0,g,3,g,63,g
+702,brusters,peanut butter cup parfait ice cream on a sugar cone regular,36,g,55,mg,270,g,68,g,11,g,15,g,0,g,2,g,48,g
+703,brusters,peanut butter cup parfait ice cream on a sugar cone small,24,g,40,mg,190,g,49,g,8,g,10,g,0,g,1,g,33,g
+704,brusters,peanut butter cup parfait ice cream on a waffle cone large,51,g,85,mg,340,g,98,g,16,g,20,g,0,g,3,g,70,g
+705,brusters,peanut butter cup parfait ice cream on a waffle cone regular,39,g,65,mg,250,g,79,g,13,g,16,g,0,g,2,g,55,g
+706,brusters,peanut butter cup parfait ice cream on a waffle cone small,27,g,45,mg,170,g,60,g,9,g,11,g,0,g,1,g,40,g
+707,brusters,peanut butter cup with reeses ice cream in a dish large,39,g,80,mg,260,g,86,g,11,g,19,g,0.5,g,2,g,65,g
+708,brusters,peanut butter cup with reeses ice cream in a dish regular,29,g,60,mg,200,g,64,g,8,g,14,g,0,g,2,g,49,g
+709,brusters,peanut butter cup with reeses ice cream in a dish small,19,g,40,mg,130,g,43,g,5,g,9,g,0,g,1,g,33,g
+710,brusters,peanut butter cup with reeses ice cream on a cake cone large,39,g,80,mg,270,g,91,g,11,g,19,g,0.5,g,2,g,65,g
+711,brusters,peanut butter cup with reeses ice cream on a cake cone regular,29,g,60,mg,210,g,69,g,9,g,14,g,0,g,2,g,49,g
+712,brusters,peanut butter cup with reeses ice cream on a cake cone small,19,g,40,mg,140,g,48,g,6,g,9,g,0,g,1,g,33,g
+713,brusters,peanut butter cup with reeses ice cream on a sugar cone large,39,g,80,mg,280,g,98,g,11,g,19,g,0.5,g,2,g,68,g
+714,brusters,peanut butter cup with reeses ice cream on a sugar cone regular,29,g,60,mg,220,g,76,g,9,g,14,g,0,g,2,g,52,g
+715,brusters,peanut butter cup with reeses ice cream on a sugar cone small,20,g,40,mg,150,g,55,g,6,g,9,g,0,g,1,g,36,g
+716,brusters,peanut butter cup with reeses ice cream on a waffle cone large,42,g,85,mg,260,g,109,g,12,g,20,g,0.5,g,2,g,76,g
+717,brusters,peanut butter cup with reeses ice cream on a waffle cone regular,32,g,65,mg,200,g,87,g,10,g,15,g,0,g,2,g,59,g
+718,brusters,peanut butter cup with reeses ice cream on a waffle cone small,22,g,45,mg,130,g,66,g,7,g,10,g,0,g,1,g,43,g
+719,brusters,peanut butter ice cream in a dish large,38,g,95,mg,190,g,67,g,10,g,20,g,0,g,1,g,53,g
+720,brusters,peanut butter ice cream in a dish regular,28,g,70,mg,140,g,50,g,7,g,15,g,0,g,0,g,40,g
+721,brusters,peanut butter ice cream in a dish small,19,g,45,mg,95,g,33,g,5,g,10,g,0,g,0,g,26,g
+722,brusters,peanut butter ice cream on a cake cone large,38,g,95,mg,200,g,72,g,10,g,20,g,0,g,1,g,53,g
+723,brusters,peanut butter ice cream on a cake cone regular,28,g,70,mg,150,g,55,g,8,g,15,g,0,g,0,g,40,g
+724,brusters,peanut butter ice cream on a cake cone small,19,g,45,mg,105,g,38,g,5,g,10,g,0,g,0,g,26,g
+725,brusters,peanut butter ice cream on a sugar cone large,38,g,95,mg,210,g,79,g,10,g,20,g,0,g,1,g,56,g
+726,brusters,peanut butter ice cream on a sugar cone regular,28,g,70,mg,160,g,62,g,8,g,15,g,0,g,0,g,43,g
+727,brusters,peanut butter ice cream on a sugar cone small,19,g,45,mg,115,g,45,g,5,g,10,g,0,g,0,g,29,g
+728,brusters,peanut butter ice cream on a waffle cone large,41,g,105,mg,190,g,90,g,11,g,21,g,0,g,1,g,63,g
+729,brusters,peanut butter ice cream on a waffle cone regular,31,g,80,mg,140,g,73,g,9,g,16,g,0,g,0,g,50,g
+730,brusters,peanut butter ice cream on a waffle cone small,22,g,55,mg,95,g,56,g,7,g,11,g,0,g,0,g,37,g
+731,brusters,peanut butter puddles ice cream in a dish large,54,g,80,mg,330,g,74,g,15,g,26,g,0,g,3,g,60,g
+732,brusters,peanut butter puddles ice cream in a dish regular,40,g,60,mg,250,g,55,g,11,g,20,g,0,g,2,g,45,g
+733,brusters,peanut butter puddles ice cream in a dish small,27,g,40,mg,160,g,37,g,7,g,13,g,0,g,1,g,30,g
+734,brusters,peanut butter puddles ice cream on a cake cone large,54,g,80,mg,340,g,79,g,15,g,26,g,0,g,3,g,60,g
+735,brusters,peanut butter puddles ice cream on a cake cone regular,41,g,60,mg,260,g,60,g,12,g,20,g,0,g,2,g,45,g
+736,brusters,peanut butter puddles ice cream on a cake cone small,27,g,40,mg,170,g,42,g,8,g,13,g,0,g,1,g,30,g
+737,brusters,peanut butter puddles ice cream on a sugar cone large,54,g,80,mg,350,g,86,g,15,g,26,g,0,g,3,g,63,g
+738,brusters,peanut butter puddles ice cream on a sugar cone regular,41,g,60,mg,270,g,67,g,12,g,20,g,0,g,2,g,48,g
+739,brusters,peanut butter puddles ice cream on a sugar cone small,27,g,40,mg,180,g,49,g,8,g,13,g,0,g,1,g,33,g
+740,brusters,peanut butter puddles ice cream on a waffle cone large,57,g,85,mg,330,g,97,g,16,g,27,g,0,g,3,g,70,g
+741,brusters,peanut butter puddles ice cream on a waffle cone regular,44,g,65,mg,250,g,78,g,13,g,21,g,0,g,2,g,55,g
+742,brusters,peanut butter puddles ice cream on a waffle cone small,30,g,45,mg,160,g,60,g,9,g,14,g,0,g,1,g,40,g
+743,brusters,peanut butter sundae,54,g,75,mg,300,g,54,g,15,g,22,g,0,g,4,g,43,g
+744,brusters,peanut butter yogurt in a dish large,14,g,25,mg,310,g,48,g,12,g,6,g,0,g,1,g,42,g
+745,brusters,peanut butter yogurt in a dish regular,11,g,20,mg,230,g,36,g,9,g,4.5,g,0,g,0,g,31,g
+746,brusters,peanut butter yogurt in a dish small,7,g,15,mg,160,g,24,g,6,g,3,g,0,g,0,g,21,g
+747,brusters,peanut butter yogurt on a cake cone large,14,g,25,mg,320,g,53,g,13,g,6,g,0,g,1,g,42,g
+748,brusters,peanut butter yogurt on a cake cone regular,11,g,20,mg,240,g,41,g,10,g,4.5,g,0,g,0,g,32,g
+749,brusters,peanut butter yogurt on a cake cone small,7,g,15,mg,170,g,29,g,7,g,3,g,0,g,0,g,21,g
+750,brusters,peanut butter yogurt on a sugar cone large,14,g,25,mg,330,g,60,g,13,g,6,g,0,g,1,g,45,g
+751,brusters,peanut butter yogurt on a sugar cone regular,11,g,20,mg,250,g,48,g,10,g,4.5,g,0,g,0,g,34,g
+752,brusters,peanut butter yogurt on a sugar cone small,7,g,15,mg,180,g,36,g,7,g,3,g,0,g,0,g,24,g
+753,brusters,peanut butter yogurt on a waffle cone large,17,g,35,mg,310,g,71,g,14,g,7,g,0,g,1,g,52,g
+754,brusters,peanut butter yogurt on a waffle cone regular,14,g,30,mg,230,g,59,g,11,g,6,g,0,g,0,g,42,g
+755,brusters,peanut butter yogurt on a waffle cone small,10,g,20,mg,160,g,47,g,8,g,4,g,0,g,0,g,31,g
+756,brusters,peppermint stick ice cream in a dish large,33,g,90,mg,150,g,85,g,8,g,19,g,0.5,g,0,g,66,g
+757,brusters,peppermint stick ice cream in a dish regular,25,g,65,mg,115,g,63,g,6,g,15,g,0,g,0,g,49,g
+758,brusters,peppermint stick ice cream in a dish small,16,g,45,mg,75,g,42,g,4,g,10,g,0,g,0,g,33,g
+759,brusters,peppermint stick ice cream on a cake cone large,33,g,90,mg,160,g,90,g,8,g,19,g,0.5,g,0,g,66,g
+760,brusters,peppermint stick ice cream on a cake cone regular,25,g,65,mg,125,g,68,g,6,g,15,g,0,g,0,g,50,g
+761,brusters,peppermint stick ice cream on a cake cone small,17,g,45,mg,85,g,47,g,4,g,10,g,0,g,0,g,33,g
+762,brusters,peppermint stick ice cream on a sugar cone large,33,g,90,mg,170,g,97,g,8,g,19,g,0.5,g,0,g,69,g
+763,brusters,peppermint stick ice cream on a sugar cone regular,25,g,65,mg,135,g,75,g,6,g,15,g,0,g,0,g,52,g
+764,brusters,peppermint stick ice cream on a sugar cone small,17,g,45,mg,95,g,54,g,4,g,10,g,0,g,0,g,36,g
+765,brusters,peppermint stick ice cream on a waffle cone large,36,g,95,mg,150,g,107,g,9,g,20,g,0.5,g,0,g,76,g
+766,brusters,peppermint stick ice cream on a waffle cone regular,28,g,75,mg,115,g,86,g,7,g,15,g,0,g,0,g,60,g
+767,brusters,peppermint stick ice cream on a waffle cone small,20,g,50,mg,75,g,65,g,5,g,10,g,0,g,0,g,43,g
+768,brusters,pina colada sherbet ice in a dish large,4,g,10,mg,50,g,81,g,1,g,2.5,g,0,g,0,g,73,g
+769,brusters,pina colada sherbet ice in a dish regular,3,g,10,mg,40,g,61,g,1,g,2,g,0,g,0,g,55,g
+770,brusters,pina colada sherbet ice in a dish small,2,g,5,mg,25,g,40,g,1,g,1,g,0,g,0,g,36,g
+771,brusters,pina colada sherbet ice on a cake cone large,4.5,g,10,mg,60,g,86,g,2,g,2.5,g,0,g,0,g,73,g
+772,brusters,pina colada sherbet ice on a cake cone regular,3.5,g,10,mg,50,g,66,g,1,g,2,g,0,g,0,g,55,g
+773,brusters,pina colada sherbet ice on a cake cone small,2,g,5,mg,35,g,45,g,1,g,1,g,0,g,0,g,37,g
+774,brusters,pina colada sherbet ice on a sugar cone large,4.5,g,10,mg,70,g,93,g,2,g,2.5,g,0,g,0,g,76,g
+775,brusters,pina colada sherbet ice on a sugar cone regular,3.5,g,10,mg,60,g,73,g,1,g,2,g,0,g,0,g,58,g
+776,brusters,pina colada sherbet ice on a sugar cone small,2.5,g,5,mg,45,g,52,g,1,g,1,g,0,g,0,g,39,g
+777,brusters,pina colada sherbet ice on a waffle cone large,7,g,20,mg,50,g,104,g,3,g,3,g,0,g,0,g,83,g
+778,brusters,pina colada sherbet ice on a waffle cone regular,6,g,15,mg,40,g,83,g,2,g,2.5,g,0,g,0,g,65,g
+779,brusters,pina colada sherbet ice on a waffle cone small,5,g,15,mg,25,g,63,g,2,g,2,g,0,g,0,g,47,g
+780,brusters,pineapple sorbet in a dish large,0,g,0,mg,30,g,77,g,0,g,0,g,0,g,1,g,71,g
+781,brusters,pineapple sorbet in a dish regular,0,g,0,mg,20,g,58,g,0,g,0,g,0,g,0,g,53,g
+782,brusters,pineapple sorbet in a dish small,0,g,0,mg,15,g,38,g,0,g,0,g,0,g,0,g,36,g
+783,brusters,pineapple sorbet on a cake cone large,0,g,0,mg,40,g,82,g,1,g,0,g,0,g,1,g,71,g
+784,brusters,pineapple sorbet on a cake cone regular,0,g,0,mg,30,g,63,g,1,g,0,g,0,g,0,g,54,g
+785,brusters,pineapple sorbet on a cake cone small,0,g,0,mg,25,g,43,g,1,g,0,g,0,g,0,g,36,g
+786,brusters,pineapple sorbet on a sugar cone large,0,g,0,mg,50,g,89,g,1,g,0,g,0,g,1,g,74,g
+787,brusters,pineapple sorbet on a sugar cone regular,0,g,0,mg,40,g,70,g,1,g,0,g,0,g,0,g,56,g
+788,brusters,pineapple sorbet on a sugar cone small,0,g,0,mg,35,g,50,g,1,g,0,g,0,g,0,g,39,g
+789,brusters,pineapple sorbet on a waffle cone large,3,g,10,mg,30,g,100,g,2,g,1,g,0,g,1,g,82,g
+790,brusters,pineapple sorbet on a waffle cone regular,3,g,10,mg,20,g,81,g,2,g,1,g,0,g,0,g,64,g
+791,brusters,pineapple sorbet on a waffle cone small,3,g,10,mg,15,g,61,g,2,g,1,g,0,g,0,g,46,g
+792,brusters,pineapple sundae,23,g,75,mg,115,g,67,g,4,g,16,g,0,g,1,g,57,g
+793,brusters,pistachio ice cream in a dish large,45,g,90,mg,190,g,68,g,12,g,20,g,0,g,0,g,48,g
+794,brusters,pistachio ice cream in a dish regular,34,g,65,mg,150,g,51,g,9,g,15,g,0,g,0,g,36,g
+795,brusters,pistachio ice cream in a dish small,22,g,45,mg,95,g,34,g,6,g,10,g,0,g,0,g,24,g
+796,brusters,pistachio ice cream on a cake cone large,45,g,90,mg,200,g,73,g,12,g,20,g,0,g,0,g,48,g
+797,brusters,pistachio ice cream on a cake cone regular,34,g,65,mg,160,g,56,g,9,g,15,g,0,g,0,g,36,g
+798,brusters,pistachio ice cream on a cake cone small,22,g,45,mg,105,g,39,g,6,g,10,g,0,g,0,g,24,g
+799,brusters,pistachio ice cream on a sugar cone large,45,g,90,mg,210,g,80,g,12,g,20,g,0,g,0,g,51,g
+800,brusters,pistachio ice cream on a sugar cone regular,34,g,65,mg,170,g,63,g,9,g,15,g,0,g,0,g,39,g
+801,brusters,pistachio ice cream on a sugar cone small,23,g,45,mg,115,g,46,g,6,g,10,g,0,g,0,g,27,g
+802,brusters,pistachio ice cream on a waffle cone large,48,g,95,mg,190,g,91,g,13,g,20,g,0,g,0,g,58,g
+803,brusters,pistachio ice cream on a waffle cone regular,37,g,75,mg,150,g,74,g,10,g,15,g,0,g,0,g,46,g
+804,brusters,pistachio ice cream on a waffle cone small,26,g,50,mg,95,g,57,g,7,g,11,g,0,g,0,g,34,g
+805,brusters,pumpkin cheesecake ice cream in a dish large,29,g,85,mg,260,g,76,g,7,g,17,g,0,g,0,g,63,g
+806,brusters,pumpkin cheesecake ice cream in a dish regular,22,g,65,mg,200,g,57,g,6,g,13,g,0,g,0,g,47,g
+807,brusters,pumpkin cheesecake ice cream in a dish small,14,g,45,mg,130,g,38,g,4,g,8,g,0,g,0,g,31,g
+808,brusters,pumpkin cheesecake ice cream on a cake cone large,29,g,85,mg,270,g,81,g,8,g,17,g,0,g,0,g,63,g
+809,brusters,pumpkin cheesecake ice cream on a cake cone regular,22,g,65,mg,210,g,62,g,6,g,13,g,0,g,0,g,47,g
+810,brusters,pumpkin cheesecake ice cream on a cake cone small,15,g,45,mg,140,g,43,g,4,g,8,g,0,g,0,g,31,g
+811,brusters,pumpkin cheesecake ice cream on a sugar cone large,29,g,85,mg,280,g,88,g,8,g,17,g,0,g,0,g,66,g
+812,brusters,pumpkin cheesecake ice cream on a sugar cone regular,22,g,65,mg,220,g,69,g,6,g,13,g,0,g,0,g,50,g
+813,brusters,pumpkin cheesecake ice cream on a sugar cone small,15,g,45,mg,150,g,50,g,4,g,8,g,0,g,0,g,34,g
+814,brusters,pumpkin cheesecake ice cream on a waffle cone large,32,g,95,mg,260,g,99,g,9,g,18,g,0,g,0,g,73,g
+815,brusters,pumpkin cheesecake ice cream on a waffle cone regular,25,g,70,mg,200,g,80,g,7,g,14,g,0,g,0,g,57,g
+816,brusters,pumpkin cheesecake ice cream on a waffle cone small,18,g,50,mg,130,g,61,g,5,g,9,g,0,g,0,g,42,g
+817,brusters,pumpkin ice cream in a dish large,29,g,85,mg,150,g,75,g,8,g,17,g,0,g,0,g,60,g
+818,brusters,pumpkin ice cream in a dish regular,22,g,65,mg,115,g,56,g,6,g,13,g,0,g,0,g,45,g
+819,brusters,pumpkin ice cream in a dish small,14,g,40,mg,75,g,37,g,4,g,8,g,0,g,0,g,30,g
+820,brusters,pumpkin ice cream on a cake cone large,29,g,85,mg,160,g,80,g,8,g,17,g,0,g,0,g,60,g
+821,brusters,pumpkin ice cream on a cake cone regular,22,g,65,mg,125,g,61,g,6,g,13,g,0,g,0,g,45,g
+822,brusters,pumpkin ice cream on a cake cone small,15,g,40,mg,85,g,42,g,4,g,8,g,0,g,0,g,30,g
+823,brusters,pumpkin ice cream on a sugar cone large,29,g,85,mg,170,g,87,g,8,g,17,g,0,g,0,g,63,g
+824,brusters,pumpkin ice cream on a sugar cone regular,22,g,65,mg,135,g,68,g,6,g,13,g,0,g,0,g,48,g
+825,brusters,pumpkin ice cream on a sugar cone small,15,g,40,mg,95,g,49,g,4,g,8,g,0,g,0,g,33,g
+826,brusters,pumpkin ice cream on a waffle cone large,32,g,90,mg,150,g,98,g,9,g,18,g,0,g,0,g,70,g
+827,brusters,pumpkin ice cream on a waffle cone regular,25,g,70,mg,115,g,79,g,7,g,13,g,0,g,0,g,55,g
+828,brusters,pumpkin ice cream on a waffle cone small,18,g,50,mg,75,g,60,g,5,g,9,g,0,g,0,g,40,g
+829,brusters,pumpkin patch ice cream in a dish large,34,g,60,mg,620,g,123,g,9,g,17,g,0,g,2,g,75,g
+830,brusters,pumpkin patch ice cream in a dish regular,26,g,45,mg,460,g,92,g,7,g,13,g,0,g,1,g,56,g
+831,brusters,pumpkin patch ice cream in a dish small,17,g,30,mg,310,g,62,g,5,g,8,g,0,g,1,g,37,g
+832,brusters,pumpkin patch ice cream on a cake cone large,34,g,60,mg,630,g,128,g,10,g,17,g,0,g,2,g,75,g
+833,brusters,pumpkin patch ice cream on a cake cone regular,26,g,45,mg,470,g,97,g,8,g,13,g,0,g,1,g,56,g
+834,brusters,pumpkin patch ice cream on a cake cone small,17,g,30,mg,320,g,67,g,5,g,8,g,0,g,1,g,37,g
+835,brusters,pumpkin patch ice cream on a sugar cone large,35,g,60,mg,640,g,135,g,10,g,17,g,0,g,2,g,78,g
+836,brusters,pumpkin patch ice cream on a sugar cone regular,26,g,45,mg,480,g,104,g,8,g,13,g,0,g,1,g,59,g
+837,brusters,pumpkin patch ice cream on a sugar cone small,17,g,30,mg,330,g,74,g,5,g,8,g,0,g,1,g,40,g
+838,brusters,pumpkin patch ice cream on a waffle cone large,37,g,70,mg,620,g,146,g,11,g,17,g,0,g,2,g,85,g
+839,brusters,pumpkin patch ice cream on a waffle cone regular,29,g,55,mg,460,g,115,g,9,g,13,g,0,g,1,g,66,g
+840,brusters,pumpkin patch ice cream on a waffle cone small,20,g,40,mg,310,g,84,g,6,g,9,g,0,g,1,g,48,g
+841,brusters,pumpkin pecan cheesecake ice cream in a dish large,43,g,80,mg,330,g,73,g,8,g,17,g,0,g,2,g,57,g
+842,brusters,pumpkin pecan cheesecake ice cream in a dish regular,32,g,60,mg,250,g,54,g,6,g,13,g,0,g,1,g,43,g
+843,brusters,pumpkin pecan cheesecake ice cream in a dish small,21,g,40,mg,170,g,36,g,4,g,9,g,0,g,1,g,29,g
+844,brusters,pumpkin pecan cheesecake ice cream on a cake cone large,43,g,80,mg,340,g,78,g,9,g,17,g,0,g,2,g,57,g
+845,brusters,pumpkin pecan cheesecake ice cream on a cake cone regular,32,g,60,mg,260,g,59,g,7,g,13,g,0,g,1,g,43,g
+846,brusters,pumpkin pecan cheesecake ice cream on a cake cone small,22,g,40,mg,180,g,41,g,5,g,9,g,0,g,1,g,29,g
+847,brusters,pumpkin pecan cheesecake ice cream on a sugar cone large,43,g,80,mg,350,g,85,g,9,g,17,g,0,g,2,g,60,g
+848,brusters,pumpkin pecan cheesecake ice cream on a sugar cone regular,32,g,60,mg,270,g,66,g,7,g,13,g,0,g,1,g,46,g
+849,brusters,pumpkin pecan cheesecake ice cream on a sugar cone small,22,g,40,mg,190,g,48,g,5,g,9,g,0,g,1,g,32,g
+850,brusters,pumpkin pecan cheesecake ice cream on a waffle cone large,46,g,85,mg,330,g,95,g,10,g,18,g,0,g,2,g,68,g
+851,brusters,pumpkin pecan cheesecake ice cream on a waffle cone regular,35,g,65,mg,250,g,77,g,8,g,14,g,0,g,1,g,53,g
+852,brusters,pumpkin pecan cheesecake ice cream on a waffle cone small,25,g,45,mg,170,g,59,g,6,g,9,g,0,g,1,g,39,g
+853,brusters,pumpkin pecan ice cream in a dish large,43,g,75,mg,240,g,72,g,9,g,17,g,0,g,2,g,55,g
+854,brusters,pumpkin pecan ice cream in a dish regular,32,g,60,mg,180,g,54,g,6,g,13,g,0,g,1,g,41,g
+855,brusters,pumpkin pecan ice cream in a dish small,22,g,40,mg,120,g,36,g,4,g,9,g,0,g,1,g,27,g
+856,brusters,pumpkin pecan ice cream on a cake cone large,43,g,75,mg,250,g,77,g,9,g,17,g,0,g,2,g,55,g
+857,brusters,pumpkin pecan ice cream on a cake cone regular,32,g,60,mg,190,g,59,g,7,g,13,g,0,g,1,g,41,g
+858,brusters,pumpkin pecan ice cream on a cake cone small,22,g,40,mg,130,g,41,g,5,g,9,g,0,g,1,g,27,g
+859,brusters,pumpkin pecan ice cream on a sugar cone large,43,g,75,mg,260,g,84,g,9,g,17,g,0,g,2,g,58,g
+860,brusters,pumpkin pecan ice cream on a sugar cone regular,33,g,60,mg,200,g,66,g,7,g,13,g,0,g,1,g,44,g
+861,brusters,pumpkin pecan ice cream on a sugar cone small,22,g,40,mg,140,g,48,g,5,g,9,g,0,g,1,g,30,g
+862,brusters,pumpkin pecan ice cream on a waffle cone large,46,g,85,mg,240,g,94,g,10,g,18,g,0,g,2,g,65,g
+863,brusters,pumpkin pecan ice cream on a waffle cone regular,36,g,65,mg,180,g,77,g,8,g,14,g,0,g,1,g,51,g
+864,brusters,pumpkin pecan ice cream on a waffle cone small,25,g,45,mg,120,g,59,g,6,g,9,g,0,g,1,g,38,g
+865,brusters,pumpkin pie ripple ice cream in a dish large,25,g,75,mg,170,g,90,g,7,g,15,g,0,g,0,g,66,g
+866,brusters,pumpkin pie ripple ice cream in a dish regular,19,g,55,mg,125,g,67,g,5,g,11,g,0,g,0,g,50,g
+867,brusters,pumpkin pie ripple ice cream in a dish small,13,g,35,mg,85,g,45,g,3,g,7,g,0,g,0,g,33,g
+868,brusters,pumpkin pie ripple ice cream on a cake cone large,26,g,75,mg,180,g,95,g,7,g,15,g,0,g,0,g,66,g
+869,brusters,pumpkin pie ripple ice cream on a cake cone regular,19,g,55,mg,135,g,72,g,6,g,11,g,0,g,0,g,50,g
+870,brusters,pumpkin pie ripple ice cream on a cake cone small,13,g,35,mg,105,g,57,g,4,g,7,g,0,g,0,g,36,g
+871,brusters,pumpkin pie ripple ice cream on a sugar cone large,26,g,75,mg,190,g,102,g,7,g,15,g,0,g,0,g,69,g
+872,brusters,pumpkin pie ripple ice cream on a sugar cone regular,19,g,55,mg,150,g,79,g,6,g,11,g,0,g,0,g,53,g
+873,brusters,pumpkin pie ripple ice cream on a sugar cone small,13,g,35,mg,105,g,57,g,4,g,7,g,0,g,0,g,36,g
+874,brusters,pumpkin pie ripple ice cream on a waffle cone large,29,g,80,mg,170,g,113,g,8,g,16,g,0,g,0,g,76,g
+875,brusters,pumpkin pie ripple ice cream on a waffle cone regular,22,g,65,mg,125,g,90,g,7,g,12,g,0,g,0,g,60,g
+876,brusters,pumpkin pie ripple ice cream on a waffle cone small,16,g,45,mg,85,g,68,g,5,g,8,g,0,g,0,g,43,g
+877,brusters,pumpkin yogurt in a dish large,9,g,25,mg,280,g,52,g,11,g,5,g,0,g,0,g,45,g
+878,brusters,pumpkin yogurt in a dish regular,7,g,20,mg,210,g,39,g,8,g,4,g,0,g,0,g,34,g
+879,brusters,pumpkin yogurt in a dish small,4.5,g,15,mg,140,g,26,g,5,g,2.5,g,0,g,0,g,23,g
+880,brusters,pumpkin yogurt on a cake cone large,9,g,25,mg,290,g,57,g,11,g,5,g,0,g,0,g,46,g
+881,brusters,pumpkin yogurt on a cake cone regular,7,g,20,mg,220,g,44,g,9,g,4,g,0,g,0,g,34,g
+882,brusters,pumpkin yogurt on a cake cone small,4.5,g,15,mg,150,g,31,g,6,g,2.5,g,0,g,0,g,23,g
+883,brusters,pumpkin yogurt on a sugar cone large,10,g,25,mg,300,g,64,g,11,g,5,g,0,g,0,g,48,g
+884,brusters,pumpkin yogurt on a sugar cone regular,7,g,20,mg,230,g,51,g,9,g,4,g,0,g,0,g,37,g
+885,brusters,pumpkin yogurt on a sugar cone small,5,g,15,mg,160,g,38,g,6,g,2.5,g,0,g,0,g,26,g
+886,brusters,pumpkin yogurt on a waffle cone large,12,g,35,mg,280,g,75,g,12,g,6,g,0,g,0,g,56,g
+887,brusters,pumpkin yogurt on a waffle cone regular,10,g,30,mg,210,g,62,g,10,g,4.5,g,0,g,0,g,44,g
+888,brusters,pumpkin yogurt on a waffle cone small,8,g,20,mg,140,g,49,g,7,g,3.5,g,0,g,0,g,33,g
+889,brusters,raspberry sherbet ice in a dish large,4.5,g,10,mg,40,g,80,g,1,g,2.5,g,0,g,0,g,71,g
+890,brusters,raspberry sherbet ice in a dish regular,3,g,10,mg,30,g,60,g,1,g,2,g,0,g,0,g,53,g
+891,brusters,raspberry sherbet ice in a dish small,2,g,5,mg,20,g,40,g,1,g,1,g,0,g,0,g,36,g
+892,brusters,raspberry sherbet ice on a cake cone large,4.5,g,10,mg,50,g,85,g,2,g,2.5,g,0,g,0,g,71,g
+893,brusters,raspberry sherbet ice on a cake cone regular,3.5,g,10,mg,40,g,65,g,1,g,2,g,0,g,0,g,53,g
+894,brusters,raspberry sherbet ice on a cake cone small,2.5,g,5,mg,30,g,45,g,1,g,1,g,0,g,0,g,36,g
+895,brusters,raspberry sherbet ice on a sugar cone large,4.5,g,10,mg,60,g,92,g,2,g,2.5,g,0,g,0,g,74,g
+896,brusters,raspberry sherbet ice on a sugar cone regular,3.5,g,10,mg,50,g,72,g,1,g,2,g,0,g,0,g,56,g
+897,brusters,raspberry sherbet ice on a sugar cone small,2.5,g,5,mg,40,g,52,g,1,g,1,g,0,g,0,g,39,g
+898,brusters,raspberry sherbet ice on a waffle cone large,7,g,20,mg,40,g,103,g,3,g,3.5,g,0,g,0,g,81,g
+899,brusters,raspberry sherbet ice on a waffle cone regular,6,g,15,mg,30,g,83,g,2,g,2.5,g,0,g,0,g,64,g
+900,brusters,raspberry sherbet ice on a waffle cone small,5,g,15,mg,20,g,63,g,2,g,2,g,0,g,0,g,46,g
+901,brusters,red velvet cake batter ice cream in a dish large,27,g,70,mg,380,g,104,g,7,g,15,g,0,g,1,g,73,g
+902,brusters,red velvet cake batter ice cream in a dish regular,20,g,55,mg,280,g,78,g,5,g,11,g,0,g,1,g,55,g
+903,brusters,red velvet cake batter ice cream in a dish small,13,g,35,mg,190,g,52,g,4,g,8,g,0,g,0,g,36,g
+904,brusters,red velvet cake batter ice cream on a cake cone large,27,g,70,mg,390,g,109,g,8,g,15,g,0,g,1,g,73,g
+905,brusters,red velvet cake batter ice cream on a cake cone regular,20,g,55,mg,290,g,83,g,6,g,11,g,0,g,1,g,55,g
+906,brusters,red velvet cake batter ice cream on a cake cone small,14,g,35,mg,200,g,57,g,4,g,8,g,0,g,0,g,37,g
+907,brusters,red velvet cake batter ice cream on a sugar cone large,27,g,70,mg,400,g,116,g,8,g,15,g,0,g,1,g,76,g
+908,brusters,red velvet cake batter ice cream on a sugar cone regular,20,g,55,mg,300,g,90,g,6,g,11,g,0,g,1,g,58,g
+909,brusters,red velvet cake batter ice cream on a sugar cone small,14,g,35,mg,210,g,64,g,4,g,8,g,0,g,0,g,39,g
+910,brusters,red velvet cake batter ice cream on a waffle cone large,30,g,80,mg,380,g,127,g,9,g,16,g,0,g,1,g,83,g
+911,brusters,red velvet cake batter ice cream on a waffle cone regular,23,g,60,mg,280,g,101,g,7,g,12,g,0,g,1,g,65,g
+912,brusters,red velvet cake batter ice cream on a waffle cone small,17,g,45,mg,190,g,75,g,5,g,8,g,0,g,0,g,47,g
+913,brusters,reeseos peanut butter cup blast large,77,g,150,mg,550,g,149,g,22,g,38,g,0,g,4,g,122,g
+914,brusters,reeseos peanut butter cup blast regular,59,g,115,mg,410,g,114,g,17,g,29,g,0,g,3,g,94,g
+915,brusters,reeseos pieces blast large,71,g,140,mg,430,g,155,g,23,g,44,g,0,g,3,g,129,g
+916,brusters,reeseos pieces blast regular,55,g,110,mg,330,g,119,g,17,g,33,g,0,g,2,g,98,g
+917,brusters,rocky road ice cream in a dish large,34,g,70,mg,270,g,82,g,10,g,17,g,0,g,4,g,58,g
+918,brusters,rocky road ice cream in a dish regular,25,g,50,mg,200,g,62,g,8,g,13,g,0,g,3,g,44,g
+919,brusters,rocky road ice cream in a dish small,17,g,35,mg,135,g,41,g,5,g,8,g,0,g,2,g,29,g
+920,brusters,rocky road ice cream on a cake cone large,34,g,70,mg,280,g,87,g,11,g,17,g,0,g,4,g,58,g
+921,brusters,rocky road ice cream on a cake cone regular,25,g,50,mg,210,g,67,g,8,g,13,g,0,g,3,g,44,g
+922,brusters,rocky road ice cream on a cake cone small,17,g,35,mg,150,g,46,g,6,g,8,g,0,g,2,g,29,g
+923,brusters,rocky road ice cream on a sugar cone large,34,g,70,mg,290,g,94,g,11,g,17,g,0,g,4,g,61,g
+924,brusters,rocky road ice cream on a sugar cone regular,26,g,50,mg,220,g,74,g,8,g,13,g,0,g,3,g,47,g
+925,brusters,rocky road ice cream on a sugar cone small,17,g,35,mg,160,g,53,g,6,g,8,g,0,g,2,g,32,g
+926,brusters,rocky road ice cream on a waffle cone large,37,g,75,mg,270,g,105,g,12,g,17,g,0,g,4,g,68,g
+927,brusters,rocky road ice cream on a waffle cone regular,28,g,60,mg,200,g,85,g,9,g,13,g,0,g,3,g,54,g
+928,brusters,rocky road ice cream on a waffle cone small,20,g,40,mg,135,g,64,g,7,g,9,g,0,g,2,g,39,g
+929,brusters,rum raisin ice cream in a dish large,29,g,85,mg,150,g,81,g,8,g,17,g,0,g,1,g,63,g
+930,brusters,rum raisin ice cream in a dish regular,22,g,65,mg,110,g,61,g,6,g,13,g,0,g,0,g,47,g
+931,brusters,rum raisin ice cream in a dish small,14,g,40,mg,75,g,40,g,4,g,8,g,0,g,0,g,31,g
+932,brusters,rum raisin ice cream on a cake cone large,29,g,85,mg,160,g,86,g,8,g,17,g,0,g,1,g,63,g
+933,brusters,rum raisin ice cream on a cake cone regular,22,g,65,mg,120,g,66,g,6,g,13,g,0,g,0,g,47,g
+934,brusters,rum raisin ice cream on a cake cone small,15,g,40,mg,85,g,45,g,4,g,8,g,0,g,0,g,32,g
+935,brusters,rum raisin ice cream on a sugar cone large,29,g,85,mg,170,g,93,g,8,g,17,g,0,g,1,g,66,g
+936,brusters,rum raisin ice cream on a sugar cone regular,22,g,65,mg,130,g,73,g,6,g,13,g,0,g,0,g,50,g
+937,brusters,rum raisin ice cream on a sugar cone small,15,g,40,mg,95,g,52,g,4,g,8,g,0,g,0,g,34,g
+938,brusters,rum raisin ice cream on a waffle cone large,32,g,90,mg,150,g,104,g,9,g,18,g,0,g,1,g,73,g
+939,brusters,rum raisin ice cream on a waffle cone regular,25,g,70,mg,110,g,84,g,7,g,13,g,0,g,0,g,57,g
+940,brusters,rum raisin ice cream on a waffle cone small,18,g,50,mg,75,g,63,g,5,g,9,g,0,g,0,g,42,g
+941,brusters,smores ice cream in a dish large,43,g,60,mg,300,g,98,g,8,g,22,g,0,g,3,g,72,g
+942,brusters,smores ice cream in a dish regular,32,g,45,mg,220,g,73,g,6,g,16,g,0,g,2,g,54,g
+943,brusters,smores ice cream in a dish small,21,g,30,mg,150,g,49,g,4,g,11,g,0,g,1,g,36,g
+944,brusters,smores ice cream on a cake cone large,43,g,60,mg,310,g,103,g,8,g,22,g,0,g,3,g,72,g
+945,brusters,smores ice cream on a cake cone regular,32,g,45,mg,230,g,78,g,6,g,16,g,0,g,2,g,54,g
+946,brusters,smores ice cream on a cake cone small,21,g,30,mg,160,g,54,g,4,g,11,g,0,g,1,g,36,g
+947,brusters,smores ice cream on a sugar cone large,43,g,60,mg,320,g,110,g,8,g,22,g,0,g,3,g,75,g
+948,brusters,smores ice cream on a sugar cone regular,32,g,45,mg,240,g,85,g,6,g,16,g,0,g,2,g,57,g
+949,brusters,smores ice cream on a sugar cone small,22,g,30,mg,170,g,61,g,4,g,11,g,0,g,1,g,39,g
+950,brusters,smores ice cream on a waffle cone large,46,g,70,mg,300,g,121,g,9,g,22,g,0,g,3,g,82,g
+951,brusters,smores ice cream on a waffle cone regular,35,g,55,mg,220,g,96,g,7,g,17,g,0,g,2,g,64,g
+952,brusters,smores ice cream on a waffle cone small,24,g,40,mg,150,g,72,g,5,g,12,g,0,g,1,g,46,g
+953,brusters,scotchy pecan ice cream in a dish large,44,g,80,mg,530,g,78,g,9,g,17,g,0,g,2,g,58,g
+954,brusters,scotchy pecan ice cream in a dish regular,33,g,60,mg,400,g,58,g,7,g,13,g,0,g,1,g,43,g
+955,brusters,scotchy pecan ice cream in a dish small,22,g,40,mg,270,g,39,g,4,g,9,g,0,g,1,g,29,g
+956,brusters,scotchy pecan ice cream on a cake cone large,44,g,80,mg,540,g,83,g,9,g,17,g,0,g,2,g,58,g
+957,brusters,scotchy pecan ice cream on a cake cone regular,33,g,60,mg,410,g,63,g,7,g,13,g,0,g,1,g,44,g
+958,brusters,scotchy pecan ice cream on a cake cone small,22,g,40,mg,280,g,44,g,5,g,9,g,0,g,1,g,29,g
+959,brusters,scotchy pecan ice cream on a sugar cone large,44,g,80,mg,550,g,90,g,9,g,17,g,0,g,2,g,61,g
+960,brusters,scotchy pecan ice cream on a sugar cone regular,33,g,60,mg,420,g,70,g,7,g,13,g,0,g,1,g,46,g
+961,brusters,scotchy pecan ice cream on a sugar cone small,22,g,40,mg,290,g,51,g,5,g,9,g,0,g,1,g,32,g
+962,brusters,scotchy pecan ice cream on a waffle cone large,47,g,85,mg,530,g,101,g,10,g,18,g,0,g,2,g,68,g
+963,brusters,scotchy pecan ice cream on a waffle cone regular,36,g,65,mg,400,g,81,g,8,g,14,g,0,g,1,g,54,g
+964,brusters,scotchy pecan ice cream on a waffle cone small,25,g,45,mg,270,g,62,g,6,g,9,g,0,g,1,g,39,g
+965,brusters,sea salt caramel ice cream in a dish large,30,g,90,mg,1080,g,84,g,8,g,18,g,0,g,0,g,63,g
+966,brusters,sea salt caramel ice cream in a dish regular,23,g,65,mg,810,g,63,g,6,g,13,g,0,g,0,g,47,g
+967,brusters,sea salt caramel ice cream in a dish small,15,g,45,mg,540,g,42,g,4,g,9,g,0,g,0,g,31,g
+968,brusters,sea salt caramel ice cream on a cake cone large,30,g,90,mg,1090,g,89,g,8,g,18,g,0,g,0,g,63,g
+969,brusters,sea salt caramel ice cream on a cake cone regular,23,g,65,mg,820,g,68,g,6,g,13,g,0,g,0,g,47,g
+970,brusters,sea salt caramel ice cream on a cake cone small,15,g,45,mg,550,g,47,g,4,g,9,g,0,g,0,g,32,g
+971,brusters,sea salt caramel ice cream on a sugar cone large,30,g,90,mg,1100,g,96,g,8,g,18,g,0,g,0,g,66,g
+972,brusters,sea salt caramel ice cream on a sugar cone regular,23,g,65,mg,830,g,75,g,6,g,13,g,0,g,0,g,50,g
+973,brusters,sea salt caramel ice cream on a sugar cone small,15,g,45,mg,560,g,54,g,4,g,9,g,0,g,0,g,34,g
+974,brusters,sea salt caramel ice cream on a waffle cone large,33,g,95,mg,1080,g,107,g,9,g,18,g,0,g,0,g,73,g
+975,brusters,sea salt caramel ice cream on a waffle cone regular,26,g,75,mg,810,g,86,g,7,g,14,g,0,g,0,g,57,g
+976,brusters,sea salt caramel ice cream on a waffle cone small,18,g,50,mg,540,g,65,g,6,g,10,g,0,g,0,g,42,g
+977,brusters,sea salt caramel no sugar added ice cream in a dish large,0,g,0,mg,1140,g,71,g,13,g,0,g,0,g,1,g,18,g
+978,brusters,sea salt caramel no sugar added ice cream in a dish regular,0,g,0,mg,850,g,53,g,9,g,0,g,0,g,1,g,13,g
+979,brusters,sea salt caramel no sugar added ice cream in a dish small,0,g,0,mg,570,g,35,g,6,g,0,g,0,g,1,g,9,g
+980,brusters,sea salt caramel no sugar added ice cream on a cake cone large,0,g,0,mg,1150,g,76,g,13,g,0,g,0,g,1,g,18,g
+981,brusters,sea salt caramel no sugar added ice cream on a cake cone regular,0,g,0,mg,860,g,58,g,10,g,0,g,0,g,1,g,13,g
+982,brusters,sea salt caramel no sugar added ice cream on a cake cone small,0,g,0,mg,580,g,40,g,7,g,0,g,0,g,1,g,9,g
+983,brusters,sea salt caramel no sugar added ice cream on a sugar cone large,0,g,0,mg,1160,g,83,g,13,g,0,g,0,g,1,g,21,g
+984,brusters,sea salt caramel no sugar added ice cream on a sugar cone regular,0,g,0,mg,870,g,65,g,10,g,0,g,0,g,1,g,16,g
+985,brusters,sea salt caramel no sugar added ice cream on a sugar cone small,0,g,0,mg,590,g,47,g,7,g,0,g,0,g,1,g,12,g
+986,brusters,sea salt caramel no sugar added ice cream on a waffle cone large,3.5,g,10,mg,1140,g,94,g,14,g,1,g,0,g,1,g,28,g
+987,brusters,sea salt caramel no sugar added ice cream on a waffle cone regular,3.5,g,10,mg,850,g,76,g,11,g,1,g,0,g,1,g,23,g
+988,brusters,sea salt caramel no sugar added ice cream on a waffle cone small,3,g,10,mg,570,g,58,g,8,g,1,g,0,g,1,g,19,g
+989,brusters,sea salt caramel with toffee ice cream in a dish large,36,g,85,mg,1110,g,90,g,7,g,22,g,0,g,0,g,70,g
+990,brusters,sea salt caramel with toffee ice cream in a dish regular,27,g,65,mg,830,g,67,g,6,g,16,g,0,g,0,g,53,g
+991,brusters,sea salt caramel with toffee ice cream in a dish small,18,g,45,mg,550,g,45,g,4,g,11,g,0,g,0,g,35,g
+992,brusters,sea salt caramel with toffee ice cream on a cake cone large,36,g,85,mg,1120,g,95,g,8,g,22,g,0,g,0,g,70,g
+993,brusters,sea salt caramel with toffee ice cream on a cake cone regular,27,g,65,mg,840,g,72,g,6,g,16,g,0,g,0,g,53,g
+994,brusters,sea salt caramel with toffee ice cream on a cake cone small,18,g,45,mg,560,g,50,g,4,g,11,g,0,g,0,g,35,g
+995,brusters,sea salt caramel with toffee ice cream on a sugar cone large,36,g,85,mg,1130,g,102,g,8,g,22,g,0,g,0,g,73,g
+996,brusters,sea salt caramel with toffee ice cream on a sugar cone regular,27,g,65,mg,850,g,79,g,6,g,16,g,0,g,0,g,56,g
+997,brusters,sea salt caramel with toffee ice cream on a sugar cone small,18,g,45,mg,570,g,57,g,4,g,11,g,0,g,0,g,38,g
+998,brusters,sea salt caramel with toffee ice cream on a waffle cone large,39,g,95,mg,1110,g,113,g,9,g,23,g,0,g,0,g,80,g
+999,brusters,sea salt caramel with toffee ice cream on a waffle cone regular,30,g,75,mg,830,g,90,g,7,g,17,g,0,g,0,g,63,g

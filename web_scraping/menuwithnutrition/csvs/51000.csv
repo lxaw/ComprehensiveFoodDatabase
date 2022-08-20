@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,dunkin donuts,signature caramel craze hot latte with skim milk small,5,g,20,mg,125,g,43,g,8,g,3,g,0,g,0,g,40,g
+1,dunkin donuts,signature caramel craze hot latte with whole milk large,17,g,60,mg,250,g,79,g,15,g,10,g,0.5,g,0,g,74,g
+2,dunkin donuts,signature caramel craze hot latte with whole milk medium,14,g,45,mg,190,g,61,g,11,g,8,g,0,g,0,g,57,g
+3,dunkin donuts,signature caramel craze hot latte with whole milk small,11,g,35,mg,130,g,43,g,8,g,6,g,0,g,0,g,39,g
+4,dunkin donuts,signature caramel craze iced latte with skim milk large,6,g,30,mg,250,g,79,g,16,g,3.5,g,0,g,0,g,75,g
+5,dunkin donuts,signature caramel craze iced latte with skim milk medium,5,g,25,mg,190,g,61,g,12,g,3,g,0,g,0,g,57,g
+6,dunkin donuts,signature caramel craze iced latte with skim milk small,5,g,20,mg,130,g,43,g,8,g,3,g,0,g,0,g,40,g
+7,dunkin donuts,signature caramel craze iced latte with whole milk large,17,g,60,mg,250,g,79,g,15,g,10,g,0.5,g,0,g,74,g
+8,dunkin donuts,signature caramel craze iced latte with whole milk medium,14,g,45,mg,190,g,61,g,11,g,8,g,0,g,0,g,57,g
+9,dunkin donuts,signature caramel craze iced latte with whole milk small,11,g,35,mg,130,g,43,g,8,g,6,g,0,g,0,g,39,g
+10,dunkin donuts,signature cocoa mocha hot latte with skim milk large,6,g,25,mg,210,g,79,g,15,g,4,g,0,g,2,g,69,g
+11,dunkin donuts,signature cocoa mocha hot latte with skim milk medium,6,g,20,mg,160,g,61,g,11,g,3.5,g,0,g,2,g,53,g
+12,dunkin donuts,signature cocoa mocha hot latte with skim milk small,5,g,20,mg,110,g,43,g,8,g,3.5,g,0,g,1,g,37,g
+13,dunkin donuts,signature cocoa mocha hot latte with whole milk large,18,g,55,mg,210,g,78,g,14,g,11,g,0.5,g,2,g,68,g
+14,dunkin donuts,signature cocoa mocha hot latte with whole milk medium,14,g,45,mg,160,g,60,g,10,g,9,g,0,g,2,g,52,g
+15,dunkin donuts,signature cocoa mocha hot latte with whole milk small,11,g,35,mg,110,g,43,g,7,g,7,g,0,g,1,g,36,g
+16,dunkin donuts,signature cocoa mocha iced latte with skim milk large,6,g,25,mg,220,g,78,g,15,g,4,g,0,g,2,g,69,g
+17,dunkin donuts,signature cocoa mocha iced latte with skim milk medium,6,g,20,mg,160,g,60,g,11,g,3.5,g,0,g,2,g,52,g
+18,dunkin donuts,signature cocoa mocha iced latte with skim milk small,5,g,20,mg,115,g,43,g,8,g,3.5,g,0,g,1,g,36,g
+19,dunkin donuts,signature cocoa mocha iced latte with whole milk large,18,g,55,mg,220,g,77,g,14,g,11,g,0.5,g,2,g,68,g
+20,dunkin donuts,signature cocoa mocha iced latte with whole milk medium,14,g,45,mg,170,g,60,g,10,g,9,g,0,g,2,g,52,g
+21,dunkin donuts,signature cocoa mocha iced latte with whole milk small,11,g,35,mg,115,g,42,g,7,g,7,g,0,g,1,g,36,g
+22,dunkin donuts,soft serve cone,9,g,35,mg,160,g,35,g,9,g,6,g,0,g,1,g,27,g
+23,dunkin donuts,sour cream donut,17,g,10,mg,360,g,49,g,4,g,7,g,0,g,1,g,25,g
+24,dunkin donuts,sourdough breakfast sandwich,32,g,365,mg,1360,g,58,g,31,g,11,g,0,g,3,g,2,g
+25,dunkin donuts,spam breakfast sandwich,42,g,200,mg,1210,g,41,g,20,g,17,g,0,g,1,g,6,g
+26,dunkin donuts,strawberry coolatta large,0,g,0,mg,25,g,115,g,0,g,0,g,0,g,1,g,110,g
+27,dunkin donuts,strawberry coolatta medium,0,g,0,mg,15,g,86,g,0,g,0,g,0,g,1,g,83,g
+28,dunkin donuts,strawberry coolatta small,0,g,0,mg,10,g,57,g,0,g,0,g,0,g,1,g,55,g
+29,dunkin donuts,strawberry coolatta float,12,g,50,mg,210,g,68,g,11,g,8,g,0,g,1,g,64,g
+30,dunkin donuts,strawberry cream cheese spread,10,g,30,mg,100,g,9,g,2,g,6,g,0,g,0,g,8,g
+31,dunkin donuts,strawberry dragonfruit dunkin refreshers large,0,g,0,mg,20,g,39,g,1,g,0,g,0,g,0,g,37,g
+32,dunkin donuts,strawberry dragonfruit dunkin refreshers medium,0,g,0,mg,15,g,29,g,1,g,0,g,0,g,0,g,27,g
+33,dunkin donuts,strawberry dragonfruit dunkin refreshers small,0,g,0,mg,10,g,19,g,0,g,0,g,0,g,0,g,18,g
+34,dunkin donuts,strawberry dunkin energy punch powered by monster energy,0,g,0,mg,420,g,106,g,0,g,0,g,0,g,1,g,96,g
+35,dunkin donuts,strawberry flavored lemonade large,0,g,0,mg,25,g,75,g,0,g,0,g,0,g,0,g,72,g
+36,dunkin donuts,strawberry flavored lemonade medium,0,g,0,mg,20,g,56,g,0,g,0,g,0,g,0,g,54,g
+37,dunkin donuts,strawberry flavored lemonade small,0,g,0,mg,15,g,37,g,0,g,0,g,0,g,0,g,36,g
+38,dunkin donuts,strawberry frosted donut,11,g,0,mg,280,g,35,g,4,g,4.5,g,0,g,1,g,14,g
+39,dunkin donuts,strawberry frosted with sprinkles donut,12,g,0,mg,280,g,37,g,4,g,5,g,0,g,1,g,16,g
+40,dunkin donuts,stuffed bagel minis everything,12,g,30,mg,400,g,34,g,8,g,7,g,0,g,3,g,5,g
+41,dunkin donuts,stuffed bagel minis plain,10,g,30,mg,400,g,32,g,7,g,6,g,0,g,2,g,5,g
+42,dunkin donuts,sugared donut,11,g,0,mg,270,g,24,g,4,g,4.5,g,0,g,1,g,5,g
+43,dunkin donuts,sugared stick,30,g,20,mg,390,g,34,g,4,g,14,g,0,g,1,g,13,g
+44,dunkin donuts,sweet black pepper bacon breakfast sandwich,41,g,205,mg,850,g,46,g,23,g,17,g,0,g,1,g,11,g
+45,dunkin donuts,sweet black pepper bacon wake up wrap,18,g,115,mg,560,g,18,g,13,g,7,g,0,g,1,g,4,g
+46,dunkin donuts,sweet black pepper snacking bacon,12,g,35,mg,500,g,10,g,10,g,4.5,g,0,g,0,g,9,g
+47,dunkin donuts,sweet tea large,0,g,0,mg,25,g,79,g,0,g,0,g,0,g,0,g,78,g
+48,dunkin donuts,sweet tea medium,0,g,0,mg,20,g,60,g,0,g,0,g,0,g,0,g,58,g
+49,dunkin donuts,sweet tea small,0,g,0,mg,15,g,40,g,0,g,0,g,0,g,0,g,39,g
+50,dunkin donuts,sweet tea blueberry flavored large,0,g,0,mg,30,g,86,g,0,g,0,g,0,g,0,g,81,g
+51,dunkin donuts,sweet tea blueberry flavored medium,0,g,0,mg,20,g,64,g,0,g,0,g,0,g,0,g,60,g
+52,dunkin donuts,sweet tea blueberry flavored small,0,g,0,mg,15,g,43,g,0,g,0,g,0,g,0,g,40,g
+53,dunkin donuts,sweet tea raspberry flavored large,0,g,0,mg,30,g,86,g,0,g,0,g,0,g,0,g,81,g
+54,dunkin donuts,sweet tea raspberry flavored medium,0,g,0,mg,20,g,65,g,0,g,0,g,0,g,0,g,60,g
+55,dunkin donuts,sweet tea raspberry flavored small,0,g,0,mg,15,g,43,g,0,g,0,g,0,g,0,g,40,g
+56,dunkin donuts,taillight donut,15,g,0,mg,310,g,41,g,4,g,6,g,0,g,1,g,21,g
+57,dunkin donuts,the charli cold foam large,4,g,15,mg,115,g,70,g,4,g,2.5,g,0,g,0,g,68,g
+58,dunkin donuts,the charli cold foam medium,3,g,10,mg,85,g,52,g,3,g,1.5,g,0,g,0,g,50,g
+59,dunkin donuts,the charli cold foam small,2.5,g,10,mg,65,g,39,g,2,g,1.5,g,0,g,0,g,37,g
+60,dunkin donuts,three cheese croissant stuffer,17,g,55,mg,500,g,30,g,12,g,10,g,0,g,2,g,6,g
+61,dunkin donuts,toasted almond cold brew large,0,g,0,mg,20,g,1,g,1,g,0,g,0,g,0,g,0,g
+62,dunkin donuts,toasted almond cold brew medium,0,g,0,mg,15,g,0,g,1,g,0,g,0,g,0,g,0,g
+63,dunkin donuts,toasted almond cold brew small,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+64,dunkin donuts,toasted coconut donut,22,g,20,mg,360,g,52,g,5,g,11,g,0,g,3,g,29,g
+65,dunkin donuts,turkey sausage sandwich on english muffin,22,g,240,mg,1120,g,39,g,26,g,7,g,0,g,1,g,4,g
+66,dunkin donuts,turkey sausage wake up wrap,15,g,115,mg,680,g,15,g,11,g,6,g,0,g,0,g,1,g
+67,dunkin donuts,vanilla almond cold brew with sweet cold foam large,4.5,g,10,mg,90,g,23,g,2,g,2.5,g,0,g,1,g,20,g
+68,dunkin donuts,vanilla almond cold brew with sweet cold foam medium,3,g,10,mg,60,g,16,g,1,g,1.5,g,0,g,0,g,14,g
+69,dunkin donuts,vanilla almond cold brew with sweet cold foam small,3,g,10,mg,50,g,15,g,1,g,1.5,g,0,g,0,g,13,g
+70,dunkin donuts,vanilla almondmilk iced macchiato large,2.5,g,0,mg,180,g,16,g,1,g,0,g,0,g,1,g,13,g
+71,dunkin donuts,vanilla almondmilk iced macchiato medium,2,g,0,mg,140,g,12,g,1,g,0,g,0,g,0,g,10,g
+72,dunkin donuts,vanilla almondmilk iced macchiato small,1.5,g,0,mg,95,g,9,g,1,g,0,g,0,g,0,g,6,g
+73,dunkin donuts,vanilla bean coolatta large,6,g,20,mg,320,g,172,g,10,g,3.5,g,0,g,0,g,167,g
+74,dunkin donuts,vanilla bean coolatta medium,4.5,g,15,mg,240,g,129,g,7,g,2.5,g,0,g,0,g,125,g
+75,dunkin donuts,vanilla bean coolatta small,3,g,10,mg,160,g,86,g,5,g,1.5,g,0,g,0,g,83,g
+76,dunkin donuts,vanilla coconutmilk iced matcha latte large,6,g,0,mg,85,g,30,g,3,g,4.5,g,0,g,2,g,26,g
+77,dunkin donuts,vanilla coconutmilk iced matcha latte medium,4.5,g,0,mg,65,g,22,g,2,g,3.5,g,0,g,1,g,19,g
+78,dunkin donuts,vanilla coconutmilk iced matcha latte small,3,g,0,mg,45,g,15,g,1,g,2.5,g,0,g,1,g,13,g
+79,dunkin donuts,vanilla cold brew with sweet cold foam large,4,g,10,mg,50,g,19,g,2,g,2.5,g,0,g,0,g,16,g
+80,dunkin donuts,vanilla cold brew with sweet cold foam medium,3,g,10,mg,35,g,13,g,1,g,1.5,g,0,g,0,g,11,g
+81,dunkin donuts,vanilla cold brew with sweet cold foam small,2.5,g,10,mg,30,g,13,g,1,g,1.5,g,0,g,0,g,11,g
+82,dunkin donuts,vanilla creme donut,15,g,0,mg,290,g,37,g,4,g,6,g,0,g,1,g,18,g
+83,dunkin donuts,vanilla frosted donut,11,g,0,mg,280,g,34,g,4,g,4.5,g,0,g,1,g,14,g
+84,dunkin donuts,vanilla frosted sprinkles donut,11,g,0,mg,280,g,37,g,4,g,4.5,g,0,g,1,g,16,g
+85,dunkin donuts,vanilla headlight donut,15,g,0,mg,310,g,41,g,4,g,6,g,0,g,1,g,21,g
+86,dunkin donuts,vanilla long john,15,g,0,mg,400,g,42,g,5,g,6,g,0,g,1,g,17,g
+87,dunkin donuts,vanilla spice extra large,17,g,5,mg,95,g,85,g,2,g,14,g,0,g,1,g,71,g
+88,dunkin donuts,vanilla spice large,14,g,5,mg,80,g,72,g,2,g,12,g,0,g,1,g,60,g
+89,dunkin donuts,vanilla spice medium,11,g,5,mg,60,g,54,g,2,g,9,g,0,g,0,g,46,g
+90,dunkin donuts,vanilla spice small,8,g,5,mg,45,g,38,g,1,g,6,g,0,g,0,g,32,g
+91,dunkin donuts,veggie egg white and bacon wake up wrap,10,g,20,mg,620,g,15,g,9,g,4.5,g,0,g,1,g,2,g
+92,dunkin donuts,veggie egg white and beyond sausage wake up wrap,15,g,20,mg,530,g,15,g,14,g,6,g,0,g,1,g,1,g
+93,dunkin donuts,veggie egg white and ham wake up wrap,8,g,20,mg,650,g,15,g,9,g,3.5,g,0,g,1,g,2,g
+94,dunkin donuts,veggie egg white and sausage wake up wrap,18,g,35,mg,730,g,16,g,10,g,7,g,0,g,1,g,1,g
+95,dunkin donuts,veggie egg white and turkey sausage wake up wrap,12,g,35,mg,710,g,15,g,11,g,4.5,g,0,g,1,g,2,g
+96,dunkin donuts,veggie egg white sandwich on a multigrain thin,13,g,20,mg,550,g,27,g,17,g,5,g,0,g,5,g,4,g
+97,dunkin donuts,veggie egg white wake up wrap,10,g,20,mg,390,g,15,g,9,g,4.5,g,0,g,1,g,1,g
+98,dunkin donuts,white cheddar bagel twist,8,g,20,mg,760,g,64,g,16,g,4.5,g,0,g,4,g,7,g
+99,www.menuwithnutrition.com,dunkin donuts menu,,,,,,,,,,,,,,,,,,
+100,dunn bros coffee,turkey blt wrap,21,g,63,mg,1664,g,52,g,34,g,5,g,0,g,6,g,5,g
+101,dunn bros coffee,avocado grain veggie wrap,26,g,30,mg,917,g,77,g,21,g,9,g,0,g,11,g,9,g
+102,dunn bros coffee,chicken caesar wrap,48,g,95,mg,1670,g,56,g,49,g,11,g,0,g,7,g,6,g
+103,dunn bros coffee,almond chicken salad wrap,25,g,71,mg,1392,g,73,g,32,g,4,g,0,g,8,g,19,g
+104,dunn bros coffee,lemon poppyseed muffin,36,g,105,mg,601,g,78,g,9,g,6,g,0,g,0,g,39,g
+105,dunn bros coffee,raspberry white chocolate scone,23,g,11,mg,331,g,56,g,6,g,11,g,0,g,1,g,29,g
+106,dunn bros coffee,pistachio muffin,36,g,105,mg,601,g,75,g,9,g,6,g,0,g,3,g,39,g
+107,dunn bros coffee,strawberry cream cheese croissant,15,g,45,mg,377,g,43,g,5,g,10,g,0,g,1,g,18,g
+108,dunn bros coffee,blueberry scone,21,g,11,mg,331,g,53,g,5,g,10,g,0,g,1,g,24,g
+109,dunn bros coffee,old fashioned donut,9,g,30,mg,272,g,32,g,3,g,2,g,3,g,1,g,16,g
+110,dunn bros coffee,blueberry muffin,30,g,90,mg,541,g,88,g,6,g,6,g,0,g,0,g,48,g
+111,dunn bros coffee,apple fritter,20,g,0,mg,464,g,57,g,5,g,4,g,7,g,2,g,22,g
+112,dunn bros coffee,banana nut muffin,33,g,90,mg,541,g,75,g,9,g,6,g,0,g,3,g,39,g
+113,dunn bros coffee,double dutch muffin,36,g,90,mg,631,g,75,g,9,g,6,g,0,g,3,g,45,g
+114,dunn bros coffee,chocolate avalanche croissant,26,g,61,mg,354,g,52,g,8,g,15,g,0,g,2,g,26,g
+115,dunn bros coffee,butter croissant,13,g,40,mg,328,g,34,g,6,g,8,g,0,g,1,g,4,g
+116,dunn bros coffee,cinnamon chip muffin,30,g,90,mg,541,g,81,g,6,g,9,g,0,g,0,g,45,g
+117,dunn bros coffee,chocolate custard twist,11,g,0,mg,63,g,35,g,0,g,7,g,0,g,0,g,15,g
+118,dunn bros coffee,cinnamon twist,33,g,15,mg,362,g,48,g,5,g,17,g,1,g,2,g,5,g
+119,dunn bros coffee,gluten free banana choc chip muffin,12,g,55,mg,200,g,57,g,4,g,7,g,0,g,0,g,32,g
+120,dunn bros coffee,apple cinnamon scone,23,g,11,mg,301,g,53,g,5,g,11,g,0,g,1,g,29,g
+121,dunn bros coffee,danish lemon creme flan,19,g,27,mg,245,g,33,g,5,g,7,g,0,g,3,g,14,g
+122,dunn bros coffee,plain bagel,1,g,0,mg,456,g,64,g,10,g,0,g,0,g,2,g,8,g
+123,dunn bros coffee,cinnamon coffee cake,23,g,80,mg,347,g,69,g,5,g,6,g,0,g,1,g,48,g
+124,dunn bros coffee,cinnamon raisin bagel,0,g,0,mg,420,g,68,g,10,g,0,g,0,g,0,g,13,g
+125,dunn bros coffee,biscuit,12,g,0,mg,853,g,35,g,6,g,8,g,0,g,1,g,3,g
+126,dunn bros coffee,danish blackberry creme flan,19,g,21,mg,148,g,33,g,3,g,8,g,0,g,1,g,11,g
+127,dunn bros coffee,oatmeal raisin cookie,13,g,25,mg,260,g,47,g,4,g,6,g,0,g,2,g,20,g
+128,dunn bros coffee,everything bagel,2,g,0,mg,873,g,64,g,10,g,0,g,0,g,2,g,8,g
+129,dunn bros coffee,housemade crispy treat,11,g,30,mg,398,g,105,g,5,g,7,g,0,g,0,g,45,g
+130,dunn bros coffee,chocolate dipped donut,16,g,5,mg,386,g,47,g,3,g,7,g,0,g,2,g,28,g
+131,dunn bros coffee,brownie bite,6,g,8,mg,84,g,18,g,1,g,1,g,0,g,1,g,13,g
+132,dunn bros coffee,peanut butter candy cookie,20,g,25,mg,330,g,42,g,6,g,8,g,0,g,2,g,19,g
+133,dunn bros coffee,dark chocolate oatmeal cookie,33,g,95,mg,170,g,48,g,6,g,20,g,0,g,3,g,27,g
+134,dunn bros coffee,chocolate chunk cookie,18,g,25,mg,260,g,46,g,4,g,9,g,0,g,2,g,19,g
+135,dunn bros coffee,ghirardelli chocolate brownie,25,g,35,mg,378,g,82,g,4,g,6,g,0,g,3,g,61,g
+136,dunn bros coffee,iced vanilla nirvana,6.7,g,24,mg,49,g,16.5,g,2.2,g,4.5,g,0,g,0,g,16.5,g
+137,dunn bros coffee,iced raspberry white chocolate mocha latte with 2 milk,3,g,10,mg,111,g,30,g,5.2,g,2.2,g,0,g,0,g,28.5,g
+138,dunn bros coffee,steamed creamy coconut nirvana medium,18,g,58,mg,149,g,38,g,6,g,12,g,1,g,0,g,36,g
+139,dunn bros coffee,caramel frappe with 2 milk,5.2,g,6,mg,167,g,44.9,g,3,g,4.5,g,0,g,0,g,40.4,g
+140,dunn bros coffee,vanilla latte with skim milk,0,g,4,mg,113,g,28.5,g,8.3,g,0,g,0,g,0,g,27,g
+141,dunn bros coffee,iced vanilla nitro nirvana,6.7,g,24,mg,51,g,16.5,g,2.2,g,4.5,g,0,g,0,g,16.5,g
+142,dunn bros coffee,iced creamy coconut nirvana large,13,g,42,mg,144,g,54,g,4,g,9,g,1,g,0,g,51,g
+143,dunn bros coffee,chai tea latte with skim milk,0,g,5,mg,80,g,40,g,6,g,0,g,0,g,0,g,37,g
+144,dunn bros coffee,iced miel with 2 milk,2.2,g,10,mg,65,g,22.5,g,4.5,g,1.5,g,0,g,0,g,22.5,g
+145,dunn bros coffee,iced mocha with skim milk,0,g,4,mg,101,g,23.3,g,3.8,g,0,g,0,g,0,g,20.3,g
+146,dunn bros coffee,caramel mocha latte,5.3,g,23,mg,173,g,35.3,g,9,g,3,g,0,g,0,g,28.5,g
+147,dunn bros coffee,chai tea latte with 2 milk,3,g,11,mg,73,g,29.2,g,4.5,g,1.5,g,0,g,0,g,27.7,g
+148,dunn bros coffee,chocolate steamed nirvana with skim milk,0,g,4,mg,158,g,38.3,g,9,g,0,g,0,g,0,g,35.3,g
+149,dunn bros coffee,white mocha frappe with 2 milk large,9,g,10,mg,308,g,82,g,7,g,7,g,0,g,0,g,74,g
+150,dunn bros coffee,iced caramelized almond latte with 2 milk,3,g,10,mg,92,g,29.2,g,4.5,g,2.2,g,0,g,0,g,28.5,g
+151,dunn bros coffee,iced cinnamon roll nirvana,7.5,g,24,mg,76,g,31.5,g,2.2,g,5.2,g,0,g,0,g,29.2,g
+152,dunn bros coffee,steamed chocolate nirvana,12.7,g,43,mg,104,g,30.7,g,4.5,g,9,g,0.7,g,0.7,g,28.5,g
+153,dunn bros coffee,iced mocha latte with 2 milk,3,g,11,mg,89,g,24.7,g,5.2,g,1.5,g,0,g,0.7,g,23.2,g
+154,dunn bros coffee,iced caramel latte macchiato with skim milk,0,g,0,mg,68,g,27.8,g,2.3,g,0,g,0,g,0,g,24,g
+155,dunn bros coffee,vanilla iced nirvana with skim milk,0,g,0,mg,26,g,17.3,g,1.5,g,0,g,0,g,0,g,17.3,g
+156,dunn bros coffee,miel with 2 milk,4.5,g,18,mg,111,g,27,g,7.5,g,3,g,0,g,0,g,27,g
+157,dunn bros coffee,iced chai tea latte with skim milk,0,g,0,mg,30,g,36,g,2,g,0,g,0,g,0,g,34,g
+158,dunn bros coffee,white mocha latte with 2 milk,5.2,g,18,mg,175,g,32.2,g,8.2,g,3,g,0,g,0,g,30.7,g
+159,dunn bros coffee,iced latte with soy milk,1.5,g,8,mg,15,g,6,g,0.8,g,0,g,0,g,0,g,4.5,g
+160,dunn bros coffee,iced chai tea latte with 2 milk,2,g,10,mg,97,g,23,g,4,g,2,g,0,g,0,g,22,g
+161,dunn bros coffee,mocha frappe with 2 milk large,8,g,10,mg,233,g,79,g,7,g,6,g,0,g,1,g,72,g
+162,dunn bros coffee,iced latte with 2 milk,4,g,17,mg,103,g,10,g,7,g,3,g,0,g,0,g,11,g
+163,dunn bros coffee,iced raspberry white chocolate mocha latte with 2 milk large,5,g,16,mg,182,g,54,g,8,g,3,g,0,g,0,g,52,g
+164,dunn bros coffee,cold press iced coffee,0,g,0,mg,8,g,0,g,0,g,0,g,0,g,0,g,0,g
+165,dunn bros coffee,cortado with 2 milk,1,g,5,mg,31,g,3,g,2,g,1,g,0,g,0,g,3,g
+166,dunn bros coffee,vanilla latte with soy milk,5,g,20,mg,20,g,38,g,3,g,0.5,g,0,g,0,g,32,g
+167,dunn bros coffee,caramel mocha frappe with 2 milk large,9,g,10,mg,274,g,86,g,6,g,7,g,0,g,1,g,78,g
+168,dunn bros coffee,vanilla latte with 2 milk,6,g,26,mg,157,g,34,g,11,g,4,g,0,g,0,g,35,g
+169,dunn bros coffee,vanilla iced nirvana with soy milk,0.8,g,4,mg,11,g,17.3,g,0.8,g,0,g,0,g,0,g,16.5,g
+170,dunn bros coffee,brewed dark medium or light coffee or depth charge,0,g,0,mg,13,g,0,g,0,g,0,g,0,g,0,g,0,g
+171,dunn bros coffee,dark mocha latte with skim milk,0,g,5,mg,220,g,43,g,13,g,0,g,0,g,0,g,39,g
+172,dunn bros coffee,creamy coconut frappe with 2 milk small,5,g,41,mg,227,g,58,g,4,g,4,g,0,g,1,g,52,g
+173,dunn bros coffee,cappuccino with 2 milk,4.5,g,17,mg,104,g,10.5,g,7.5,g,3,g,0,g,0,g,11.2,g
+174,dunn bros coffee,iced caramel latte with 2 milk large,6,g,17,mg,218,g,49,g,7,g,4,g,0,g,0,g,45,g
+175,dunn bros coffee,iced citrus green tea,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+176,dunn bros coffee,infinite black cold pressed coffee,0,g,0,mg,16,g,0,g,0,g,0,g,0,g,0,g,0,g
+177,dunn bros coffee,iced caramel latte macchiato with 2 milk,4,g,15,mg,126,g,40,g,6,g,3,g,0,g,0,g,39,g
+178,dunn bros coffee,no coffee frappe with 2 milk,7.5,g,17,mg,169,g,32.2,g,7.5,g,5.2,g,0,g,0,g,30,g
+179,dunn bros coffee,coffee frappe with 2 milk large,8,g,10,mg,188,g,43,g,6,g,6,g,0,g,0,g,39,g
+180,dunn bros coffee,london fog tea latte with 2 milk,1.5,g,7,mg,53,g,18,g,3,g,1.5,g,0,g,0,g,18,g
+181,dunn bros coffee,brewed coffee with steamed soy milk,2.3,g,11,mg,15,g,8.3,g,1.5,g,0,g,0,g,0,g,6,g
+182,dunn bros coffee,flat white coffee with 2 milk,2.5,g,110,mg,59,g,6,g,4,g,1.5,g,0,g,0,g,6,g
+183,dunn bros coffee,cappuccino with skim milk,0,g,4,mg,90,g,11.3,g,6.8,g,0,g,0,g,0,g,10.5,g
+184,dunn bros coffee,iced creamy coconut nirvana small,6,g,21,mg,63,g,21,g,2,g,4,g,0,g,0,g,20,g
+185,dunn bros coffee,steamed vanilla nirvana small,15,g,47,mg,157,g,35,g,5,g,10,g,1,g,0,g,31,g
+186,dunn bros coffee,iced white mocha with 2 milk,2.2,g,7,mg,93,g,19.5,g,3.7,g,1.5,g,0,g,0,g,18,g
+187,dunn bros coffee,americano,0,g,0,mg,14,g,0,g,0,g,0,g,0,g,0,g,0,g
+188,dunn bros coffee,white mocha latte with soy milk,3.8,g,15,mg,15,g,32.3,g,2.3,g,0.4,g,0,g,0,g,25.5,g
+189,dunn bros coffee,soy iced mocha with soy milk,1.1,g,8,mg,68,g,23.3,g,1.5,g,0,g,0,g,0,g,19.5,g
+190,dunn bros coffee,chai tea latte with soy milk,2.5,g,10,mg,10,g,40,g,2,g,0,g,0,g,0,g,34,g
+191,dunn bros coffee,brewed coffee with steamed skim milk,0,g,5,mg,80,g,10,g,6,g,0,g,0,g,0,g,9,g
+192,dunn bros coffee,cinnamon roll frappe with 2 milk large,8,g,10,mg,228,g,86,g,6,g,7,g,0,g,0,g,81,g
+193,dunn bros coffee,steamed vanilla nirvana,18,g,58,mg,229,g,59,g,7,g,13,g,1,g,0,g,53,g
+194,dunn bros coffee,caramelized almond latte with 2 milk,4.5,g,16,mg,124,g,32.2,g,6.7,g,3,g,0,g,0,g,31.5,g
+195,dunn bros coffee,steamed cinnamon roll nirvana,18,g,58,mg,118,g,36.7,g,4.5,g,12,g,0.7,g,0,g,34.5,g
+196,dunn bros coffee,caramel icecrema with skim milk,2.6,g,0,mg,90,g,48.8,g,3,g,2.3,g,0,g,0,g,38.3,g
+197,dunn bros coffee,smoothie small,0,g,0,mg,3,g,53,g,1,g,0,g,0,g,1,g,50,g
+198,dunn bros coffee,mocha icecrema with skim milk,2.6,g,0,mg,90,g,48.8,g,3.8,g,2.3,g,0,g,0,g,42,g
+199,dunn bros coffee,iced vanilla latte with 2 milk,3,g,11,mg,69,g,20.2,g,4.5,g,1.5,g,0,g,0,g,21,g
+200,dunn bros coffee,caramel latte with 2 milk,6,g,18,mg,172,g,32.2,g,7.5,g,3.7,g,0,g,0,g,30.7,g
+201,dunn bros coffee,iced caramel latte with 2 milk,3.7,g,11,mg,123,g,26.2,g,4.5,g,2.2,g,0,g,0,g,24,g
+202,dunn bros coffee,caramel latte macchiato with 2 milk,6,g,21,mg,162,g,43,g,9,g,4,g,0,g,0,g,43,g
+203,dunn bros coffee,coffee icecrema,3.8,g,4,mg,34,g,30,g,3,g,3,g,0,g,0,g,26.3,g
+204,dunn bros coffee,iced tropical breeze tea,1.5,g,0,mg,39,g,17.2,g,0,g,1.5,g,0,g,0,g,17.2,g
+205,dunn bros coffee,iced creamy coconut nirvana medium,10,g,32,mg,102,g,35,g,3,g,7,g,0,g,0,g,33,g
+206,dunn bros coffee,iced caramelized almond latte with 2 milk large,5,g,16,mg,159,g,53,g,7,g,3,g,0,g,0,g,51,g
+207,dunn bros coffee,iced caramel macchiato latte with 2 milk large,5,g,17,mg,143,g,53,g,7,g,3,g,0,g,0,g,52,g
+208,dunn bros coffee,chai frappe with 2 milk large,8,g,10,mg,233,g,66,g,6,g,6,g,0,g,0,g,62,g
+209,dunn bros coffee,mocha caramel latte with 2 milk small,6,g,18,mg,203,g,51,g,8,g,4,g,0,g,1,g,48,g
+210,dunn bros coffee,brewed decaf coffee,0,g,0,mg,13,g,0,g,0,g,0,g,0,g,0,g,0,g
+211,dunn bros coffee,mocha caramel latte with 2 milk large,8,g,26,mg,275,g,68,g,11,g,5,g,0,g,1,g,64,g
+212,dunn bros coffee,coffee icecrema with skim milk,2.6,g,0,mg,34,g,30.8,g,3,g,2.3,g,0,g,0,g,26.3,g
+213,dunn bros coffee,steamed caramelized almond nirvana,13.5,g,43,mg,110,g,28.5,g,4.5,g,9,g,0.7,g,0,g,35.9,g
+214,dunn bros coffee,iced caramelized almond nirvana large,14,g,42,mg,146,g,48,g,4,g,9,g,0,g,0,g,45,g
+215,dunn bros coffee,iced chocolate nirvana,9,g,32,mg,79,g,30,g,3,g,6,g,0,g,0,g,28,g
+216,dunn bros coffee,caramelized banana frappe with 2 milk medium,8,g,56,mg,354,g,92,g,5,g,6,g,0,g,1,g,82,g
+217,dunn bros coffee,mocha icecrema,3.8,g,4,mg,86,g,48,g,3.8,g,3,g,0,g,0,g,42,g
+218,dunn bros coffee,iced americano,0,g,0,mg,6,g,0,g,0,g,0,g,0,g,0,g,0,g
+219,dunn bros coffee,coffee frappe with 2 milk,4.5,g,6,mg,111,g,25.5,g,3,g,3.7,g,0,g,0,g,23.2,g
+220,dunn bros coffee,iced caramelized almond nirvana,7.5,g,24,mg,92,g,30.7,g,2.2,g,5.2,g,0,g,0,g,28.5,g
+221,dunn bros coffee,iced caramel mocha latte with 2 milk,3.7,g,10,mg,117,g,30,g,4.5,g,2.2,g,0,g,0,g,27.7,g
+222,dunn bros coffee,iced caramel latte macchiato with soy milk,1.5,g,5,mg,55,g,38,g,1,g,0,g,0,g,0,g,32,g
+223,dunn bros coffee,mocha frappe with 2 milk,4.5,g,6,mg,133,g,43.4,g,3.7,g,3.7,g,0,g,0.7,g,39.7,g
+224,dunn bros coffee,white mocha latte with skim milk,0,g,4,mg,113,g,32.3,g,9,g,0,g,0,g,0,g,29.3,g
+225,dunn bros coffee,iced white mocha with skim milk,0,g,4,mg,45,g,23.3,g,3,g,0,g,0,g,0,g,20.3,g
+226,dunn bros coffee,iced latte with skim milk,0,g,5,mg,60,g,7,g,4,g,0,g,0,g,0,g,6,g
+227,dunn bros coffee,white mocha frappe with 2 milk,5.2,g,6,mg,171,g,44.9,g,3.7,g,0,g,0,g,0,g,40.4,g
+228,dunn bros coffee,caffe latte with soy milk,3.8,g,19,mg,19,g,15,g,2.3,g,0.8,g,0,g,0,g,10.5,g
+229,dunn bros coffee,caramelized banana frappe with 2 milk small,5,g,5,mg,163,g,51,g,3,g,4,g,0,g,0,g,46,g
+230,dunn bros coffee,tropical breeze tea large,4,g,0,mg,108,g,37,g,1,g,4,g,0,g,0,g,36,g
+231,dunn bros coffee,iced latte with 2 milk large,5,g,21,mg,127,g,12,g,9,g,3,g,0,g,0,g,13,g
+232,dunn bros coffee,hot chocolate with 2 milk,3.6,g,16,mg,108,g,28.7,g,9,g,2.4,g,0,g,0.6,g,28.1,g
+233,dunn bros coffee,steamed nirvana,12.7,g,43,mg,82,g,6,g,3.7,g,9,g,0.7,g,0,g,5.2,g
+234,dunn bros coffee,cappuccino with soy milk,3,g,11,mg,11,g,11.3,g,1.5,g,0.4,g,0,g,0,g,7.5,g
+235,dunn bros coffee,creamy coconut frappe with 2 milk,7,g,56,mg,319,g,84,g,5,g,5,g,0,g,1,g,75,g
+236,dunn bros coffee,avocado toast,15,g,186,mg,609,g,30,g,12,g,3,g,0,g,5,g,3,g
+237,dunn bros coffee,acai bowl,9,g,0,mg,123,g,141,g,4,g,1,g,0,g,5,g,109,g
+238,dunn bros coffee,avocado bacon and egg toast,22,g,194,mg,749,g,31,g,14,g,5,g,0,g,5,g,4,g
+239,dunn bros coffee,gluten free breakfast english muffin,1,g,0,mg,500,g,37,g,4,g,0,g,0,g,0,g,7,g
+240,dunn bros coffee,breakfast croissant,13,g,40,mg,328,g,34,g,6,g,8,g,0,g,1,g,4,g
+241,dunn bros coffee,belgian waffle trio,54,g,117,mg,730,g,145,g,10,g,30,g,2,g,3,g,103,g
+242,dunn bros coffee,breakfast bagel,1,g,0,mg,456,g,64,g,10,g,0,g,0,g,2,g,8,g
+243,dunn bros coffee,tomato breakfast add on,0,g,0,mg,1,g,0,g,0,g,0,g,0,g,0,g,0,g
+244,dunn bros coffee,chorizo for breakfast sandwich,14,g,28,mg,361,g,1,g,6,g,5,g,0,g,0,g,0,g
+245,dunn bros coffee,bacon tomato and egg toast,16,g,199,mg,696,g,30,g,14,g,3,g,0,g,2,g,5,g
+246,dunn bros coffee,apple honey toast,17,g,41,mg,406,g,28,g,7,g,10,g,0,g,2,g,3,g
+247,dunn bros coffee,breakfast black bean sandwich patty,4,g,0,mg,330,g,13,g,100,g,0,g,0,g,4,g,1,g
+248,dunn bros coffee,turkey bacon for breakfast sandwich,4,g,20,mg,281,g,10,g,6,g,1,g,0,g,0,g,8,g
+249,dunn bros coffee,classic nut and fruit oatmeal,13,g,0,mg,13,g,56,g,12,g,2,g,0,g,8,g,11,g
+250,dunn bros coffee,multigrain toast breakfast side,2,g,0,mg,378,g,25,g,4,g,0,g,0,g,2,g,2,g
+251,dunn bros coffee,side waffle,12,g,20,mg,228,g,29,g,3,g,6,g,1,g,1,g,15,g
+252,dunn bros coffee,red onion breakfast add on,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+253,dunn bros coffee,sausage for breakfast sandwich,17,g,30,mg,277,g,1,g,6,g,6,g,0,g,0,g,0,g
+254,dunn bros coffee,swiss cheese for breakfast sandwich,4,g,13,mg,30,g,1,g,4,g,3,g,0,g,0,g,0,g
+255,dunn bros coffee,salsa breakfast add on,0,g,0,mg,435,g,4,g,0,g,0,g,0,g,2,g,2,g
+256,dunn bros coffee,side turkey bacon,4,g,20,mg,281,g,10,g,6,g,1,g,0,g,0,g,8,g
+257,dunn bros coffee,muenster cheese for breakfast sandwich,6,g,20,mg,132,g,0,g,5,g,4,g,0,g,0,g,0,g
+258,dunn bros coffee,original oatmeal,4,g,0,mg,2,g,41,g,8,g,1,g,0,g,0,g,1,g
+259,dunn bros coffee,side sausage patty,17,g,30,mg,277,g,1,g,6,g,6,g,0,g,0,g,0,g
+260,dunn bros coffee,spinach breakfast add on,0,g,0,mg,2,g,0,g,0,g,0,g,0,g,0,g,0,g
+261,dunn bros coffee,roasted red peppers breakfast add on,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+262,dunn bros coffee,breakfast burrito wrap without fillings,4,g,0,mg,250,g,29,g,5,g,1,g,0,g,3,g,2,g
+263,dunn bros coffee,side of hash browns,6,g,0,mg,270,g,15,g,1,g,1,g,0,g,1,g,0,g
+264,dunn bros coffee,cherry almond oatmeal,12,g,0,mg,6,g,55,g,12,g,2,g,0,g,2,g,11,g
+265,dunn bros coffee,avocado breakfast add on,3,g,0,mg,2,g,2,g,0,g,0,g,0,g,1,g,0,g
+266,dunn bros coffee,breakfast waffle,24,g,40,mg,455,g,57,g,6,g,12,g,0,g,2,g,30,g
+267,dunn bros coffee,breakfast biscuit,12,g,0,mg,853,g,35,g,6,g,8,g,0,g,1,g,3,g
+268,dunn bros coffee,side of bacon,7,g,15,mg,220,g,0,g,5,g,3,g,0,g,0,g,0,g
+269,dunn bros coffee,triple berry toast,3,g,0,mg,400,g,58,g,5,g,0,g,0,g,3,g,29,g
+270,dunn bros coffee,cheddar cheese for breakfast sandwich,5,g,15,mg,91,g,0,g,4,g,3,g,0,g,0,g,0,g
+271,dunn bros coffee,ham for breakfast sandwich,1,g,22,mg,345,g,1,g,7,g,0,g,0,g,0,g,1,g
+272,dunn bros coffee,black bean grain bowl,37,g,387,mg,1342,g,41,g,29,g,9,g,0,g,10,g,5,g
+273,dunn bros coffee,breakfast muffin,1,g,0,mg,219,g,26,g,4,g,0,g,0,g,2,g,1,g
+274,dunn bros coffee,seasoned waffle fries,16,g,0,mg,992,g,43,g,4,g,3,g,0,g,4,g,0,g
+275,dunn bros coffee,kids quesadilla,24,g,54,mg,760,g,49,g,23,g,13,g,0,g,5,g,3,g
+276,dunn bros coffee,kids ham and cheese sandwich,8,g,37,mg,911,g,25,g,16,g,3,g,0,g,2,g,2,g
+277,dunn bros coffee,kids turkey and swiss sandwich,7,g,34,mg,791,g,26,g,18,g,3,g,0,g,2,g,2,g
+278,dunn bros coffee,kids grilled cheese sandwich,17,g,48,mg,631,g,26,g,17,g,10,g,0,g,2,g,2,g
+279,dunn bros coffee,hummus trio,49,g,3,mg,1306,g,140,g,31,g,5,g,0,g,12,g,38,g
+280,dunn bros coffee,spinach artichoke dip,56,g,127,mg,1769,g,84,g,38,g,26,g,0,g,3,g,1,g
+281,dunn bros coffee,cabo fire flatbread,33,g,80,mg,1376,g,63,g,35,g,17,g,0,g,4,g,14,g
+282,dunn bros coffee,pepperoni naan pizza,33,g,76,mg,2104,g,69,g,28,g,14,g,0,g,2,g,6,g
+283,dunn bros coffee,margherita naan pizza,28,g,57,mg,1803,g,75,g,25,g,11,g,0,g,3,g,10,g
+284,dunn bros coffee,chicken pesto naan pizza,31,g,100,mg,2118,g,72,g,40,g,12,g,0,g,3,g,7,g
+285,dunn bros coffee,veggie naan pizza,26,g,53,mg,1838,g,75,g,26,g,11,g,0,g,4,g,10,g
+286,dunn bros coffee,chicken quesadilla,56,g,148,mg,1753,g,84,g,62,g,25,g,0,g,6,g,4,g
+287,dunn bros coffee,ranch dressing,17,g,15,mg,354,g,3,g,0,g,3,g,0,g,0,g,2,g
+288,dunn bros coffee,bleu cheese dressing,22,g,15,mg,466,g,2,g,0,g,4,g,0,g,0,g,1,g
+289,dunn bros coffee,lite french dressing,0,g,0,mg,363,g,14,g,2,g,0,g,0,g,1,g,7,g
+290,dunn bros coffee,caesar dressing,18,g,0,mg,385,g,1,g,0,g,3,g,0,g,0,g,0,g
+291,dunn bros coffee,creamy french dressing,15,g,5,mg,455,g,12,g,0,g,3,g,0,g,0,g,5,g
+292,dunn bros coffee,almond chicken salad without dressing,17,g,71,mg,1002,g,25,g,24,g,1,g,0,g,4,g,17,g
+293,dunn bros coffee,chef salad without dressing,27,g,295,mg,1293,g,8,g,42,g,14,g,0,g,2,g,2,g
+294,dunn bros coffee,chicken caesar salad,45,g,95,mg,1310,g,10,g,41,g,9,g,0,g,2,g,3,g
+295,dunn bros coffee,side salad without dressing,1,g,1,mg,54,g,3,g,2,g,1,g,0,g,1,g,1,g
+296,dunn bros coffee,gluten free bread for sandwiches,6,g,0,mg,436,g,37,g,5,g,0,g,0,g,0,g,4,g
+297,dunn bros coffee,cuban sandwich,31,g,135,mg,2341,g,75,g,51,g,12,g,0,g,3,g,14,g
+298,dunn bros coffee,the italian sandwich,31,g,91,mg,2424,g,67,g,39,g,13,g,0,g,3,g,4,g
+299,dunn bros coffee,tuscan turkey sandwich,17,g,74,mg,2079,g,66,g,42,g,6,g,0,g,3,g,4,g
+300,dunn bros coffee,bacon grilled cheese sandwich,46,g,107,mg,1764,g,57,g,37,g,20,g,0,g,5,g,7,g
+301,dunn bros coffee,turkey on cranberry wild rice bread,17,g,68,mg,1802,g,80,g,38,g,5,g,0,g,3,g,15,g
+302,dunn bros coffee,the ultimate club sandwich,18,g,77,mg,2199,g,65,g,40,g,7,g,0,g,3,g,4,g
+303,dunn bros coffee,the grand sandwich,23,g,88,mg,2089,g,70,g,40,g,9,g,0,g,3,g,3,g
+304,dunn bros coffee,tuna melt sandwich,26,g,83,mg,1675,g,56,g,41,g,9,g,0,g,5,g,7,g
+305,dunn bros coffee,almond chicken salad sandwich,21,g,71,mg,1739,g,73,g,32,g,1,g,0,g,7,g,20,g
+306,dunn bros coffee,chicken salad croissant,28,g,110,mg,1124,g,57,g,28,g,9,g,0,g,2,g,18,g
+307,dunn bros coffee,chicken naanwich,31,g,109,mg,2226,g,77,g,43,g,14,g,0,g,5,g,9,g
+308,dunn bros coffee,sherwood forest ham sandwich,15,g,76,mg,2354,g,66,g,38,g,8,g,0,g,3,g,6,g
+309,dunn bros coffee,rachel sandwich,24,g,88,mg,2110,g,71,g,41,g,9,g,0,g,11,g,6,g
+310,dunn bros coffee,california chicken sandwich,24,g,118,mg,1900,g,70,g,55,g,7,g,0,g,5,g,4,g
+311,dunn bros coffee,reuben sandwich,23,g,78,mg,2255,g,70,g,33,g,9,g,0,g,11,g,6,g
+312,dunn bros coffee,egg salad sandwich,20,g,289,mg,1215,g,57,g,17,g,2,g,0,g,5,g,8,g
+313,dunn bros coffee,sicilian chicken breast sandwich,26,g,137,mg,2122,g,70,g,56,g,9,g,0,g,3,g,5,g
+314,dunn bros coffee,french dip sandwich,20,g,79,mg,1795,g,94,g,43,g,9,g,0,g,7,g,8,g
+315,dunn bros coffee,acai bowl,9,g,0,mg,125,g,141,g,4,g,1,g,0,g,0,g,109,g
+316,dunn bros coffee,almond chicken salad salad,17,g,70,mg,1000,g,25,g,24,g,1,g,0,g,0,g,17,g
+317,dunn bros coffee,almond chicken salad sandwich,21,g,70,mg,1740,g,73,g,32,g,1,g,0,g,0,g,20,g
+318,dunn bros coffee,almond chicken salad wrap,25,g,70,mg,1390,g,72,g,32,g,4,g,0,g,0,g,19,g
+319,dunn bros coffee,apple,0,g,0,mg,0,g,25,g,0,g,0,g,0,g,0,g,19,g
+320,dunn bros coffee,apple fritter,20,g,0,mg,460,g,57,g,5,g,4,g,0,g,0,g,22,g
+321,dunn bros coffee,apple honey toast,17,g,40,mg,410,g,28,g,7,g,10,g,0,g,0,g,3,g
+322,dunn bros coffee,arnie palmer large,0,g,0,mg,10,g,17,g,0,g,0,g,0,g,0,g,16,g
+323,dunn bros coffee,arnie palmer medium,0,g,0,mg,5,g,12,g,0,g,0,g,0,g,0,g,11,g
+324,dunn bros coffee,arnie palmer small,0,g,0,mg,5,g,9,g,0,g,0,g,0,g,0,g,9,g
+325,dunn bros coffee,avocado add on,3,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+326,dunn bros coffee,avocado bacon and egg toast,22,g,195,mg,750,g,31,g,14,g,5,g,0,g,0,g,4,g
+327,dunn bros coffee,avocado grain veggie wrap,26,g,30,mg,920,g,77,g,21,g,9,g,0,g,0,g,9,g
+328,dunn bros coffee,avocado toast,15,g,185,mg,610,g,30,g,12,g,3,g,0,g,0,g,3,g
+329,dunn bros coffee,bacon for breakfast sandwich,7,g,15,mg,220,g,0,g,5,g,3,g,0,g,0,g,0,g
+330,dunn bros coffee,bacon grilled cheese sandwich,46,g,105,mg,1760,g,57,g,37,g,20,g,0,g,0,g,7,g
+331,dunn bros coffee,bacon tomato and egg toast,16,g,200,mg,700,g,30,g,14,g,3,g,0,g,0,g,5,g
+332,dunn bros coffee,bagel for breakfast sandwich,1,g,0,mg,460,g,64,g,10,g,0,g,0,g,0,g,8,g
+333,dunn bros coffee,bagel cinnamon raisin,0,g,0,mg,420,g,68,g,10,g,0,g,0,g,0,g,13,g
+334,dunn bros coffee,bagel everything,2,g,0,mg,870,g,64,g,10,g,0,g,0,g,0,g,8,g
+335,dunn bros coffee,bagel plain,1,g,0,mg,460,g,64,g,10,g,0,g,0,g,0,g,8,g
+336,dunn bros coffee,banana,0,g,0,mg,0,g,26,g,1,g,0,g,0,g,0,g,14,g
+337,dunn bros coffee,belgian waffle trio,54,g,115,mg,730,g,145,g,10,g,30,g,0,g,0,g,103,g
+338,dunn bros coffee,biscuit,12,g,0,mg,850,g,35,g,6,g,8,g,0,g,0,g,3,g
+339,dunn bros coffee,biscuit for breakfast sandwich,12,g,0,mg,850,g,35,g,6,g,8,g,0,g,0,g,3,g
+340,dunn bros coffee,black bean grain bowl,37,g,385,mg,1340,g,41,g,29,g,9,g,0,g,0,g,5,g
+341,dunn bros coffee,black bean patty for breakfast sandwich,4,g,0,mg,330,g,13,g,10,g,0,g,0,g,0,g,1,g
+342,dunn bros coffee,breakfast bowl base,46,g,295,mg,1830,g,52,g,25,g,23,g,0,g,0,g,4,g
+343,dunn bros coffee,breakfast naanwich base,42,g,325,mg,2050,g,71,g,35,g,19,g,0,g,0,g,7,g
+344,dunn bros coffee,brewed coffee french press,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+345,dunn bros coffee,brewed coffee pour over,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+346,dunn bros coffee,brownie bite,6,g,10,mg,85,g,18,g,1,g,1,g,0,g,0,g,13,g
+347,dunn bros coffee,brownie ghirardelli chocolate,25,g,35,mg,380,g,82,g,4,g,6,g,0,g,0,g,61,g
+348,dunn bros coffee,burrito wrap for breakfast sandwich,4,g,0,mg,250,g,29,g,5,g,1,g,0,g,0,g,2,g
+349,dunn bros coffee,cabo fire flatbread,33,g,80,mg,1380,g,63,g,35,g,17,g,0,g,0,g,14,g
+350,dunn bros coffee,california chicken sandwich,24,g,120,mg,1900,g,70,g,55,g,7,g,0,g,0,g,4,g
+351,dunn bros coffee,candy chocolate lindor,17,g,5,mg,35,g,16,g,2,g,12,g,0,g,0,g,14,g
+352,dunn bros coffee,cheddar cheese for breakfast sandwich,5,g,15,mg,90,g,0,g,4,g,3,g,0,g,0,g,0,g
+353,dunn bros coffee,chef salad,27,g,295,mg,1290,g,8,g,42,g,14,g,0,g,0,g,2,g
+354,dunn bros coffee,chicken caesar salad,45,g,95,mg,1310,g,10,g,41,g,9,g,0,g,0,g,3,g
+355,dunn bros coffee,chicken caesar wrap,48,g,95,mg,1670,g,56,g,49,g,11,g,0,g,0,g,6,g
+356,dunn bros coffee,chicken naanwich,31,g,110,mg,2230,g,77,g,43,g,14,g,0,g,0,g,9,g
+357,dunn bros coffee,chicken quesadilla,56,g,150,mg,1750,g,84,g,62,g,25,g,0,g,0,g,4,g
+358,dunn bros coffee,chicken salad croissant,28,g,110,mg,1120,g,57,g,28,g,9,g,0,g,0,g,18,g
+359,dunn bros coffee,chicken salad stuffed tomato salad,18,g,70,mg,870,g,28,g,23,g,2,g,0,g,0,g,17,g
+360,dunn bros coffee,chicken sausage,16,g,140,mg,1800,g,20,g,32,g,13,g,0,g,0,g,14,g
+361,dunn bros coffee,chobani greek yogurt blueberry,0,g,5,mg,60,g,19,g,12,g,0,g,0,g,0,g,15,g
+362,dunn bros coffee,chobani greek yogurt peach,0,g,5,mg,60,g,19,g,12,g,0,g,0,g,0,g,15,g
+363,dunn bros coffee,chobani greek yogurt strawbry,0,g,5,mg,60,g,19,g,12,g,0,g,0,g,0,g,15,g
+364,dunn bros coffee,chocolate custard twist,11,g,0,mg,65,g,35,g,0,g,7,g,0,g,0,g,15,g
+365,dunn bros coffee,chocolate dipped donut,16,g,5,mg,390,g,47,g,3,g,7,g,0,g,0,g,28,g
+366,dunn bros coffee,chorizo for breakfast sandwich,14,g,30,mg,360,g,1,g,6,g,5,g,0,g,0,g,0,g
+367,dunn bros coffee,cinnamon coffee cake,23,g,80,mg,350,g,69,g,5,g,6,g,0,g,0,g,48,g
+368,dunn bros coffee,cinnamon roll with icing,21,g,30,mg,530,g,91,g,9,g,8,g,0,g,0,g,50,g
+369,dunn bros coffee,cinnamon twist,33,g,15,mg,360,g,48,g,5,g,17,g,0,g,0,g,5,g
+370,dunn bros coffee,cookie chocolate chunk,18,g,25,mg,260,g,46,g,4,g,9,g,0,g,0,g,19,g
+371,dunn bros coffee,cookie dark chocolate oatmeal,33,g,95,mg,170,g,48,g,6,g,20,g,0,g,0,g,27,g
+372,dunn bros coffee,cookie oatmeal raisin,13,g,25,mg,260,g,47,g,4,g,6,g,0,g,0,g,20,g
+373,dunn bros coffee,cookie peanut butter candy,20,g,25,mg,330,g,42,g,6,g,8,g,0,g,0,g,19,g
+374,dunn bros coffee,cookie salted caramel chocolate,8,g,20,mg,360,g,49,g,4,g,8,g,0,g,0,g,32,g
+375,dunn bros coffee,cranberry walnut salad,34,g,105,mg,1270,g,67,g,44,g,7,g,0,g,0,g,49,g
+376,dunn bros coffee,cream cheese packet,7,g,20,mg,120,g,1,g,1,g,4,g,0,g,0,g,1,g
+377,dunn bros coffee,croissant for breakfast sandwich,13,g,40,mg,330,g,34,g,6,g,8,g,0,g,0,g,4,g
+378,dunn bros coffee,croissant almond,36,g,60,mg,280,g,39,g,6,g,9,g,0,g,0,g,396,g
+379,dunn bros coffee,croissant butter,13,g,40,mg,330,g,34,g,6,g,8,g,0,g,0,g,4,g
+380,dunn bros coffee,croissant chocolate avalanche,26,g,60,mg,350,g,52,g,8,g,15,g,0,g,0,g,26,g
+381,dunn bros coffee,croissant strawberry cream cheese,15,g,45,mg,380,g,43,g,5,g,10,g,0,g,0,g,18,g
+382,dunn bros coffee,cuban sandwich,31,g,135,mg,2340,g,75,g,51,g,12,g,0,g,0,g,14,g
+383,dunn bros coffee,danish blackberry creme fan,19,g,20,mg,150,g,33,g,3,g,8,g,0,g,0,g,11,g
+384,dunn bros coffee,danish lemon creme fan,19,g,25,mg,250,g,33,g,5,g,7,g,0,g,0,g,14,g
+385,dunn bros coffee,dbc dark chocolate coffee beans,17,g,5,mg,15,g,34,g,4,g,9,g,0,g,0,g,24,g
+386,dunn bros coffee,dressing bleu cheese,22,g,15,mg,470,g,2,g,0,g,4,g,0,g,0,g,1,g
+387,dunn bros coffee,dressing caesar,18,g,0,mg,390,g,1,g,0,g,3,g,0,g,0,g,0,g
+388,dunn bros coffee,dressing creamy french,15,g,5,mg,460,g,12,g,0,g,3,g,0,g,0,g,5,g
+389,dunn bros coffee,dressing italian,9,g,0,mg,420,g,5,g,0,g,1,g,0,g,0,g,5,g
+390,dunn bros coffee,dressing lite french,0,g,0,mg,360,g,14,g,0,g,0,g,0,g,0,g,7,g
+391,dunn bros coffee,dressing ranch,17,g,15,mg,350,g,3,g,0,g,3,g,0,g,0,g,2,g
+392,dunn bros coffee,drizzle caramel sauce,0,g,5,mg,35,g,13,g,0,g,0,g,0,g,0,g,12,g
+393,dunn bros coffee,drizzle chocolate sauce,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,2,g
+394,dunn bros coffee,drizzle white chocolate sauce,0,g,0,mg,10,g,3,g,0,g,0,g,0,g,0,g,2,g
+395,dunn bros coffee,egg salad sandwich,20,g,290,mg,1220,g,57,g,17,g,2,g,0,g,0,g,8,g
+396,dunn bros coffee,egg souffle for sandwich or omelette,12,g,260,mg,95,g,1,g,9,g,6,g,0,g,0,g,1,g
+397,dunn bros coffee,english muffin for breakfast sandwich,1,g,0,mg,220,g,26,g,4,g,0,g,0,g,0,g,1,g
+398,dunn bros coffee,english muffin for breakfast sandwich gf,1,g,0,mg,500,g,37,g,4,g,0,g,0,g,0,g,7,g
+399,dunn bros coffee,frappe caramel large,10,g,10,mg,300,g,82,g,6,g,8,g,0,g,0,g,74,g
+400,dunn bros coffee,frappe caramel medium,7,g,10,mg,220,g,60,g,4,g,6,g,0,g,0,g,54,g
+401,dunn bros coffee,frappe caramel small,5,g,5,mg,160,g,45,g,3,g,4,g,0,g,0,g,40,g
+402,dunn bros coffee,frappe caramel mocha large,9,g,10,mg,270,g,86,g,6,g,7,g,0,g,0,g,78,g
+403,dunn bros coffee,frappe caramel mocha medium,7,g,10,mg,220,g,66,g,5,g,6,g,0,g,0,g,59,g
+404,dunn bros coffee,frappe caramel mocha small,5,g,5,mg,160,g,50,g,3,g,4,g,0,g,0,g,45,g
+405,dunn bros coffee,frappe caramelized almond large,10,g,15,mg,260,g,87,g,7,g,8,g,0,g,0,g,82,g
+406,dunn bros coffee,frappe caramelized almond medium,8,g,10,mg,210,g,67,g,6,g,6,g,0,g,0,g,63,g
+407,dunn bros coffee,frappe caramelized almond small,6,g,10,mg,170,g,53,g,5,g,5,g,0,g,0,g,49,g
+408,dunn bros coffee,frappe caramelized banana large,10,g,70,mg,450,g,118,g,7,g,8,g,0,g,0,g,106,g
+409,dunn bros coffee,frappe caramelized banana medium,8,g,55,mg,350,g,92,g,5,g,6,g,0,g,0,g,82,g
+410,dunn bros coffee,frappe caramelized banana small,5,g,5,mg,160,g,51,g,3,g,4,g,0,g,0,g,46,g
+411,dunn bros coffee,frappe chai large,8,g,10,mg,230,g,66,g,6,g,6,g,0,g,0,g,62,g
+412,dunn bros coffee,frappe chai medium,6,g,10,mg,190,g,54,g,4,g,5,g,0,g,0,g,50,g
+413,dunn bros coffee,frappe chai small,4,g,5,mg,140,g,42,g,3,g,4,g,0,g,0,g,39,g
+414,dunn bros coffee,frappe cinnamon roll large,8,g,10,mg,230,g,86,g,6,g,7,g,0,g,0,g,81,g
+415,dunn bros coffee,frappe cinnamon roll medium,6,g,10,mg,190,g,71,g,5,g,5,g,0,g,0,g,67,g
+416,dunn bros coffee,frappe cinnamon roll small,5,g,5,mg,130,g,50,g,3,g,4,g,0,g,0,g,47,g
+417,dunn bros coffee,frappe coffee large,8,g,10,mg,190,g,43,g,6,g,6,g,0,g,0,g,39,g
+418,dunn bros coffee,frappe coffee medium,6,g,10,mg,150,g,34,g,4,g,5,g,0,g,0,g,31,g
+419,dunn bros coffee,frappe coffee small,4,g,5,mg,110,g,25,g,3,g,4,g,0,g,0,g,23,g
+420,dunn bros coffee,frappe creamy coconut large,11,g,10,mg,310,g,112,g,7,g,10,g,0,g,0,g,104,g
+421,dunn bros coffee,frappe creamy coconut medium,7,g,55,mg,320,g,84,g,5,g,5,g,0,g,0,g,75,g
+422,dunn bros coffee,frappe creamy coconut small,5,g,40,mg,230,g,58,g,4,g,4,g,0,g,0,g,52,g
+423,dunn bros coffee,frappe mocha large,8,g,10,mg,230,g,79,g,7,g,6,g,0,g,0,g,72,g
+424,dunn bros coffee,frappe mocha medium,6,g,10,mg,180,g,58,g,5,g,5,g,0,g,0,g,53,g
+425,dunn bros coffee,frappe mocha small,4,g,5,mg,130,g,43,g,4,g,4,g,0,g,0,g,39,g
+426,dunn bros coffee,frappe no coffee large,12,g,30,mg,280,g,53,g,13,g,9,g,0,g,0,g,50,g
+427,dunn bros coffee,frappe no coffee medium,10,g,25,mg,230,g,43,g,10,g,7,g,0,g,0,g,40,g
+428,dunn bros coffee,frappe no coffee small,7,g,20,mg,170,g,32,g,8,g,6,g,0,g,0,g,31,g
+429,dunn bros coffee,frappe white mocha large,9,g,10,mg,310,g,82,g,7,g,7,g,0,g,0,g,74,g
+430,dunn bros coffee,frappe white mocha medium,7,g,10,mg,230,g,60,g,5,g,6,g,0,g,0,g,54,g
+431,dunn bros coffee,frappe white mocha small,5,g,5,mg,170,g,45,g,4,g,4,g,0,g,0,g,40,g
+432,dunn bros coffee,french cream soda large,9,g,30,mg,55,g,69,g,3,g,6,g,0,g,0,g,64,g
+433,dunn bros coffee,french cream soda medium,6,g,20,mg,35,g,48,g,2,g,4,g,0,g,0,g,44,g
+434,dunn bros coffee,french cream soda small,6,g,20,mg,35,g,35,g,2,g,4,g,0,g,0,g,32,g
+435,dunn bros coffee,french dip sandwich,20,g,80,mg,1800,g,94,g,43,g,9,g,0,g,0,g,8,g
+436,dunn bros coffee,fresh whipped cream,7,g,25,mg,5,g,1,g,1,g,5,g,0,g,0,g,1,g
+437,dunn bros coffee,fruit cup red grapes,0,g,0,mg,0,g,36,g,1,g,0,g,0,g,0,g,31,g
+438,dunn bros coffee,gluten free bar chocolate peanut butter,12,g,0,mg,90,g,34,g,15,g,4,g,0,g,0,g,21,g
+439,dunn bros coffee,gluten free bar cranberry toasted almond,12,g,0,mg,135,g,33,g,15,g,1,g,0,g,0,g,22,g
+440,dunn bros coffee,gluten free bar oatmeal raisin,9,g,0,mg,150,g,35,g,15,g,1,g,0,g,0,g,22,g
+441,dunn bros coffee,gluten free bread for sandwiches,6,g,0,mg,440,g,37,g,5,g,0,g,0,g,0,g,4,g
+442,dunn bros coffee,granola berry parfait,3,g,5,mg,125,g,44,g,15,g,0,g,0,g,0,g,31,g
+443,dunn bros coffee,ham for breakfast sandwich,1,g,20,mg,350,g,1,g,7,g,0,g,0,g,0,g,1,g
+444,dunn bros coffee,hard boiled eggs,10,g,370,mg,105,g,1,g,11,g,3,g,0,g,0,g,1,g
+445,dunn bros coffee,hot americano large,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+446,dunn bros coffee,hot americano medium,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+447,dunn bros coffee,hot americano small,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+448,dunn bros coffee,hot brewed coffee dark large,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+449,dunn bros coffee,hot brewed coffee dark medium,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+450,dunn bros coffee,hot brewed coffee dark small,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+451,dunn bros coffee,hot brewed coffee decaf large,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+452,dunn bros coffee,hot brewed coffee decaf medium,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+453,dunn bros coffee,hot brewed coffee decaf small,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+454,dunn bros coffee,hot brewed coffee light large,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+455,dunn bros coffee,hot brewed coffee light medium,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+456,dunn bros coffee,hot brewed coffee light small,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+457,dunn bros coffee,hot brewed coffee medium large,0,g,0,mg,25,g,0,g,0,g,0,g,0,g,0,g,0,g
+458,dunn bros coffee,hot brewed coffee medium medium,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+459,dunn bros coffee,hot brewed coffee medium small,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+460,dunn bros coffee,hot cappuccino large,7,g,25,mg,160,g,16,g,11,g,4,g,0,g,0,g,17,g
+461,dunn bros coffee,hot cappuccino medium,6,g,25,mg,140,g,14,g,10,g,4,g,0,g,0,g,15,g
+462,dunn bros coffee,hot cappuccino small,4,g,15,mg,105,g,10,g,7,g,3,g,0,g,0,g,11,g
+463,dunn bros coffee,hot caramel latte macchiato large,6,g,25,mg,180,g,51,g,10,g,4,g,0,g,0,g,50,g
+464,dunn bros coffee,hot caramel latte macchiato medium,6,g,20,mg,160,g,43,g,9,g,4,g,0,g,0,g,43,g
+465,dunn bros coffee,hot caramel latte macchiato small,5,g,15,mg,140,g,35,g,7,g,3,g,0,g,0,g,34,g
+466,dunn bros coffee,hot chocolate kids,4,g,15,mg,110,g,26,g,7,g,3,g,0,g,0,g,26,g
+467,dunn bros coffee,hot chocolate large,8,g,35,mg,240,g,64,g,15,g,5,g,0,g,0,g,62,g
+468,dunn bros coffee,hot chocolate medium,6,g,25,mg,180,g,48,g,11,g,4,g,0,g,0,g,47,g
+469,dunn bros coffee,hot chocolate small,5,g,20,mg,150,g,36,g,10,g,3,g,0,g,0,g,35,g
+470,dunn bros coffee,hot cortado,1,g,5,mg,30,g,3,g,2,g,1,g,0,g,0,g,3,g
+471,dunn bros coffee,hot espresso large,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+472,dunn bros coffee,hot espresso medium,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+473,dunn bros coffee,hot espresso small,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+474,dunn bros coffee,hot espresso macchiato large,1,g,5,mg,40,g,3,g,2,g,1,g,0,g,0,g,3,g
+475,dunn bros coffee,hot espresso macchiato medium,1,g,5,mg,25,g,2,g,2,g,1,g,0,g,0,g,2,g
+476,dunn bros coffee,hot espresso macchiato small,0,g,5,mg,15,g,1,g,1,g,0,g,0,g,0,g,1,g
+477,dunn bros coffee,hot flat white 12 oz,5,g,20,mg,115,g,12,g,8,g,3,g,0,g,0,g,12,g
+478,dunn bros coffee,hot flat white 6 oz,2,g,10,mg,60,g,6,g,4,g,2,g,0,g,0,g,6,g
+479,dunn bros coffee,hot latte caramel large,9,g,25,mg,270,g,51,g,11,g,5,g,0,g,0,g,48,g
+480,dunn bros coffee,hot latte caramel medium,8,g,25,mg,230,g,43,g,10,g,5,g,0,g,0,g,41,g
+481,dunn bros coffee,hot latte caramel small,6,g,20,mg,170,g,33,g,8,g,4,g,0,g,0,g,31,g
+482,dunn bros coffee,hot latte caramelized almond large,7,g,25,mg,210,g,58,g,10,g,5,g,0,g,0,g,56,g
+483,dunn bros coffee,hot latte caramelized almond medium,6,g,20,mg,170,g,43,g,9,g,4,g,0,g,0,g,42,g
+484,dunn bros coffee,hot latte caramelized almond small,5,g,15,mg,140,g,35,g,7,g,3,g,0,g,0,g,34,g
+485,dunn bros coffee,hot latte chai large,4,g,15,mg,115,g,43,g,7,g,3,g,0,g,0,g,42,g
+486,dunn bros coffee,hot latte chai medium,4,g,15,mg,95,g,39,g,6,g,2,g,0,g,0,g,37,g
+487,dunn bros coffee,hot latte chai small,3,g,10,mg,80,g,29,g,5,g,2,g,0,g,0,g,28,g
+488,dunn bros coffee,hot latte mocha large,7,g,25,mg,200,g,49,g,12,g,4,g,0,g,0,g,47,g
+489,dunn bros coffee,hot latte mocha medium,6,g,25,mg,180,g,41,g,11,g,4,g,0,g,0,g,40,g
+490,dunn bros coffee,hot latte mocha small,5,g,20,mg,135,g,31,g,8,g,3,g,0,g,0,g,30,g
+491,dunn bros coffee,hot latte mocha caramel large,8,g,25,mg,280,g,68,g,11,g,5,g,0,g,0,g,64,g
+492,dunn bros coffee,hot latte mocha caramel medium,8,g,25,mg,250,g,61,g,10,g,5,g,0,g,0,g,57,g
+493,dunn bros coffee,hot latte mocha caramel small,6,g,20,mg,200,g,51,g,8,g,4,g,0,g,0,g,48,g
+494,dunn bros coffee,hot latte mocha mint large,7,g,25,mg,200,g,59,g,12,g,4,g,0,g,0,g,57,g
+495,dunn bros coffee,hot latte mocha mint medium,6,g,25,mg,170,g,46,g,11,g,4,g,0,g,0,g,45,g
+496,dunn bros coffee,hot latte mocha mint small,5,g,20,mg,135,g,34,g,8,g,3,g,0,g,0,g,33,g
+497,dunn bros coffee,hot latte mocha raspberry white chocolate large,8,g,25,mg,250,g,63,g,12,g,5,g,0,g,0,g,60,g
+498,dunn bros coffee,hot latte mocha raspberry white chocolate medium,7,g,25,mg,210,g,49,g,11,g,4,g,0,g,0,g,47,g
+499,dunn bros coffee,hot latte mocha raspberry white chocolate small,5,g,20,mg,160,g,33,g,8,g,3,g,0,g,0,g,31,g
+500,dunn bros coffee,hot latte mocha white large,8,g,25,mg,270,g,51,g,12,g,5,g,0,g,0,g,48,g
+501,dunn bros coffee,hot latte mocha white medium,7,g,25,mg,230,g,43,g,11,g,4,g,0,g,0,g,41,g
+502,dunn bros coffee,hot latte mocha white small,5,g,20,mg,180,g,33,g,8,g,3,g,0,g,0,g,31,g
+503,dunn bros coffee,hot latte vanilla large,7,g,25,mg,160,g,40,g,11,g,4,g,0,g,0,g,41,g
+504,dunn bros coffee,hot latte vanilla medium,6,g,25,mg,160,g,34,g,11,g,4,g,0,g,0,g,35,g
+505,dunn bros coffee,hot latte vanilla small,5,g,20,mg,110,g,23,g,8,g,3,g,0,g,0,g,24,g
+506,dunn bros coffee,hot miel large,7,g,25,mg,170,g,42,g,11,g,4,g,0,g,0,g,42,g
+507,dunn bros coffee,hot miel medium,6,g,25,mg,150,g,36,g,10,g,4,g,0,g,0,g,36,g
+508,dunn bros coffee,hot miel small,5,g,20,mg,110,g,28,g,8,g,3,g,0,g,0,g,28,g
+509,dunn bros coffee,hot tea vanilla thrilla large,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+510,dunn bros coffee,housemade crispy treat,11,g,30,mg,400,g,105,g,5,g,7,g,0,g,0,g,45,g
+511,dunn bros coffee,hummus trio,49,g,5,mg,1310,g,140,g,31,g,5,g,0,g,0,g,38,g
+512,dunn bros coffee,iced americano large,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+513,dunn bros coffee,iced americano medium,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+514,dunn bros coffee,iced americano small,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+515,dunn bros coffee,iced caramel latte macchiato large,5,g,15,mg,140,g,53,g,7,g,3,g,0,g,0,g,52,g
+516,dunn bros coffee,iced caramel latte macchiato medium,4,g,15,mg,125,g,40,g,6,g,3,g,0,g,0,g,39,g
+517,dunn bros coffee,iced caramel latte macchiato small,4,g,10,mg,110,g,32,g,5,g,2,g,0,g,0,g,31,g
+518,dunn bros coffee,iced chai latte large,3,g,10,mg,135,g,34,g,5,g,2,g,0,g,0,g,33,g
+519,dunn bros coffee,iced chai latte medium,2,g,10,mg,95,g,23,g,4,g,2,g,0,g,0,g,22,g
+520,dunn bros coffee,iced chai latte small,2,g,5,mg,75,g,18,g,3,g,1,g,0,g,0,g,17,g
+521,dunn bros coffee,iced espresso large,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+522,dunn bros coffee,iced espresso medium,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+523,dunn bros coffee,iced espresso small,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+524,dunn bros coffee,iced latte large,5,g,20,mg,125,g,12,g,9,g,3,g,0,g,0,g,13,g
+525,dunn bros coffee,iced latte medium,4,g,15,mg,105,g,10,g,7,g,3,g,0,g,0,g,11,g
+526,dunn bros coffee,iced latte small,3,g,10,mg,75,g,7,g,5,g,2,g,0,g,0,g,8,g
+527,dunn bros coffee,iced latte caramel large,6,g,15,mg,220,g,49,g,7,g,4,g,0,g,0,g,45,g
+528,dunn bros coffee,iced latte caramel medium,5,g,15,mg,160,g,35,g,6,g,3,g,0,g,0,g,32,g
+529,dunn bros coffee,iced latte caramel small,4,g,10,mg,120,g,26,g,4,g,2,g,0,g,0,g,24,g
+530,dunn bros coffee,iced latte caramelized almond large,5,g,15,mg,160,g,53,g,7,g,3,g,0,g,0,g,51,g
+531,dunn bros coffee,iced latte caramelized almond medium,4,g,15,mg,125,g,39,g,6,g,3,g,0,g,0,g,38,g
+532,dunn bros coffee,iced latte caramelized almond small,3,g,10,mg,100,g,30,g,4,g,2,g,0,g,0,g,29,g
+533,dunn bros coffee,iced latte chai tea large,3,g,10,mg,80,g,34,g,5,g,2,g,0,g,0,g,32,g
+534,dunn bros coffee,iced latte chai tea small,2,g,5,mg,50,g,18,g,3,g,1,g,0,g,0,g,17,g
+535,dunn bros coffee,iced latte chai tea medium,2,g,10,mg,65,g,22,g,4,g,2,g,0,g,0,g,22,g
+536,dunn bros coffee,iced latte mocha caramel large,6,g,15,mg,200,g,54,g,8,g,3,g,0,g,0,g,50,g
+537,dunn bros coffee,iced latte mocha caramel medium,5,g,15,mg,160,g,40,g,6,g,3,g,0,g,0,g,37,g
+538,dunn bros coffee,iced latte mocha caramel small,3,g,10,mg,115,g,31,g,5,g,2,g,0,g,0,g,29,g
+539,dunn bros coffee,iced latte mocha mint large,4,g,15,mg,130,g,50,g,8,g,3,g,0,g,0,g,49,g
+540,dunn bros coffee,iced latte mocha mint medium,3,g,15,mg,110,g,37,g,6,g,2,g,0,g,0,g,36,g
+541,dunn bros coffee,iced latte mocha mint small,2,g,10,mg,75,g,29,g,5,g,2,g,0,g,0,g,28,g
+542,dunn bros coffee,iced latte mocha raspberry white chocolate large,5,g,15,mg,180,g,54,g,8,g,3,g,0,g,0,g,52,g
+543,dunn bros coffee,iced latte mocha raspberry white chocolate medium,4,g,15,mg,150,g,40,g,7,g,3,g,0,g,0,g,38,g
+544,dunn bros coffee,iced latte mocha raspberry white chocolate small,3,g,10,mg,100,g,31,g,5,g,2,g,0,g,0,g,30,g
+545,dunn bros coffee,iced latte mocha white large,6,g,15,mg,230,g,49,g,8,g,4,g,0,g,0,g,45,g
+546,dunn bros coffee,iced latte mocha white medium,5,g,15,mg,170,g,35,g,7,g,3,g,0,g,0,g,32,g
+547,dunn bros coffee,iced latte mocha white small,3,g,10,mg,125,g,26,g,5,g,2,g,0,g,0,g,24,g
+548,dunn bros coffee,iced latte vanilla large,4,g,15,mg,105,g,34,g,7,g,3,g,0,g,0,g,35,g
+549,dunn bros coffee,iced latte vanilla medium,4,g,15,mg,90,g,27,g,6,g,2,g,0,g,0,g,28,g
+550,dunn bros coffee,iced latte vanilla small,3,g,10,mg,65,g,19,g,5,g,2,g,0,g,0,g,19,g
+551,dunn bros coffee,iced miel large,4,g,15,mg,105,g,40,g,7,g,3,g,0,g,0,g,40,g
+552,dunn bros coffee,iced miel medium,3,g,15,mg,85,g,30,g,6,g,2,g,0,g,0,g,30,g
+553,dunn bros coffee,iced miel small,2,g,10,mg,60,g,23,g,4,g,2,g,0,g,0,g,23,g
+554,dunn bros coffee,iced mocha large,4,g,15,mg,150,g,46,g,8,g,3,g,0,g,0,g,44,g
+555,dunn bros coffee,iced mocha medium,4,g,15,mg,120,g,33,g,7,g,2,g,0,g,0,g,31,g
+556,dunn bros coffee,iced mocha small,3,g,10,mg,85,g,24,g,5,g,2,g,0,g,0,g,23,g
+557,dunn bros coffee,iced nirvana large,12,g,40,mg,105,g,24,g,4,g,8,g,0,g,0,g,21,g
+558,dunn bros coffee,iced nirvana medium,9,g,30,mg,65,g,4,g,3,g,6,g,0,g,0,g,4,g
+559,dunn bros coffee,iced nirvana small,6,g,20,mg,45,g,3,g,2,g,4,g,0,g,0,g,2,g
+560,dunn bros coffee,iced nirvana caramelized almond large,14,g,40,mg,150,g,48,g,4,g,9,g,0,g,0,g,45,g
+561,dunn bros coffee,iced nirvana caramelized almond medium,10,g,30,mg,125,g,41,g,3,g,7,g,0,g,0,g,38,g
+562,dunn bros coffee,iced nirvana caramelized almond small,7,g,20,mg,85,g,27,g,2,g,5,g,0,g,0,g,26,g
+563,dunn bros coffee,iced nirvana chocolate large,12,g,40,mg,105,g,46,g,4,g,8,g,0,g,0,g,44,g
+564,dunn bros coffee,iced nirvana chocolate medium,9,g,30,mg,80,g,30,g,3,g,6,g,0,g,0,g,28,g
+565,dunn bros coffee,iced nirvana chocolate small,6,g,20,mg,50,g,18,g,2,g,4,g,0,g,0,g,17,g
+566,dunn bros coffee,iced nirvana cinnamon roll large,13,g,40,mg,125,g,49,g,4,g,9,g,0,g,0,g,47,g
+567,dunn bros coffee,iced nirvana cinnamon roll medium,10,g,30,mg,100,g,42,g,3,g,7,g,0,g,0,g,39,g
+568,dunn bros coffee,iced nirvana cinnamon roll small,6,g,20,mg,65,g,28,g,2,g,4,g,0,g,0,g,26,g
+569,dunn bros coffee,iced nirvana creamy coconut large,13,g,40,mg,140,g,54,g,4,g,9,g,0,g,0,g,51,g
+570,dunn bros coffee,iced nirvana creamy coconut medium,10,g,30,mg,100,g,35,g,3,g,7,g,0,g,0,g,33,g
+571,dunn bros coffee,iced nirvana creamy coconut small,6,g,20,mg,65,g,21,g,2,g,4,g,0,g,0,g,20,g
+572,dunn bros coffee,iced nirvana vanilla large,12,g,40,mg,85,g,36,g,4,g,8,g,0,g,0,g,35,g
+573,dunn bros coffee,iced nirvana vanilla medium,9,g,30,mg,65,g,22,g,3,g,6,g,0,g,0,g,22,g
+574,dunn bros coffee,iced nirvana vanilla small,6,g,20,mg,45,g,15,g,2,g,4,g,0,g,0,g,14,g
+575,dunn bros coffee,iced nitro nirvana vanilla large,12,g,40,mg,90,g,36,g,4,g,8,g,0,g,0,g,35,g
+576,dunn bros coffee,iced nitro nirvana vanilla medium,9,g,30,mg,70,g,22,g,3,g,6,g,0,g,0,g,22,g
+577,dunn bros coffee,iced nitro nirvana vanilla small,6,g,20,mg,45,g,15,g,2,g,4,g,0,g,0,g,14,g
+578,dunn bros coffee,iced tea 1987 large,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+579,dunn bros coffee,iced tea 1987 medium,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+580,dunn bros coffee,iced tea 1987 small,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+581,dunn bros coffee,iced tea citrus green large,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+582,dunn bros coffee,iced tea citrus green medium,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+583,dunn bros coffee,iced tea citrus green small,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+584,dunn bros coffee,iced tea hibiscus berry large,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+585,dunn bros coffee,iced tea hibiscus berry medium,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+586,dunn bros coffee,iced tea hibiscus berry small,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+587,dunn bros coffee,iced tropical breeze tea large,2,g,0,mg,70,g,34,g,0,g,2,g,0,g,0,g,33,g
+588,dunn bros coffee,iced tropical breeze tea medium,2,g,0,mg,50,g,23,g,0,g,2,g,0,g,0,g,23,g
+589,dunn bros coffee,iced tropical breeze tea small,1,g,0,mg,35,g,12,g,0,g,1,g,0,g,0,g,12,g
+590,dunn bros coffee,infinite black cold press large,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+591,dunn bros coffee,infinite black cold press medium,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+592,dunn bros coffee,infinite black cold press small,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+593,dunn bros coffee,infinite black hot press large,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+594,dunn bros coffee,infinite black hot press medium,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+595,dunn bros coffee,infinite black hot press small,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+596,dunn bros coffee,italian soda large,0,g,0,mg,0,g,65,g,0,g,0,g,0,g,0,g,60,g
+597,dunn bros coffee,italian soda medium,0,g,0,mg,0,g,45,g,0,g,0,g,0,g,0,g,42,g
+598,dunn bros coffee,italian soda small,0,g,0,mg,0,g,32,g,0,g,0,g,0,g,0,g,30,g
+599,dunn bros coffee,kettle chips bbq,11,g,0,mg,95,g,26,g,3,g,0.5,g,0,g,0,g,2,g
+600,dunn bros coffee,kettle chips maui onion,11,g,0,mg,95,g,26,g,3,g,0.5,g,0,g,0,g,2,g
+601,dunn bros coffee,kettle chips original,12,g,0,mg,210,g,25,g,3,g,0.5,g,0,g,0,g,0,g
+602,dunn bros coffee,kettle chips salt and vinegar,11,g,0,mg,360,g,25,g,3,g,0.5,g,0,g,0,g,1,g
+603,dunn bros coffee,kids grilled cheese sandwich,17,g,50,mg,630,g,26,g,17,g,10,g,0,g,0,g,2,g
+604,dunn bros coffee,kids ham and cheddar sandwich,8,g,35,mg,910,g,25,g,16,g,3,g,0,g,0,g,2,g
+605,dunn bros coffee,kids quesadilla,24,g,55,mg,760,g,49,g,23,g,13,g,0,g,0,g,3,g
+606,dunn bros coffee,kids turkey and swiss sandwich,7,g,35,mg,790,g,26,g,18,g,3,g,0,g,0,g,2,g
+607,dunn bros coffee,kind snack bar,15,g,0,mg,140,g,16,g,6,g,3,g,0,g,0,g,5,g
+608,dunn bros coffee,lemonade large,0,g,0,mg,10,g,13,g,0,g,0,g,0,g,0,g,12,g
+609,dunn bros coffee,lemonade medium,0,g,0,mg,10,g,9,g,0,g,0,g,0,g,0,g,9,g
+610,dunn bros coffee,lemonade small,0,g,0,mg,5,g,7,g,0,g,0,g,0,g,0,g,7,g
+611,dunn bros coffee,london fog tea latte large,2,g,10,mg,75,g,30,g,4,g,2,g,0,g,0,g,30,g
+612,dunn bros coffee,london fog tea latte medium,2,g,10,mg,70,g,24,g,4,g,2,g,0,g,0,g,24,g
+613,dunn bros coffee,london fog tea latte small,2,g,5,mg,55,g,16,g,3,g,1,g,0,g,0,g,17,g
+614,dunn bros coffee,lorissa beef jerky,2,g,20,mg,330,g,6,g,9,g,1,g,0,g,0,g,6,g
+615,dunn bros coffee,milk by the glass cold large,14,g,60,mg,340,g,35,g,24,g,9,g,0,g,0,g,37,g
+616,dunn bros coffee,milk by the glass cold medium,10,g,40,mg,230,g,23,g,16,g,6,g,0,g,0,g,25,g
+617,dunn bros coffee,milk by the glass cold small,7,g,30,mg,170,g,18,g,12,g,5,g,0,g,0,g,19,g
+618,dunn bros coffee,milk chocolate cold large,13,g,55,mg,370,g,75,g,24,g,9,g,0,g,0,g,73,g
+619,dunn bros coffee,milk chocolate cold medium,9,g,35,mg,250,g,52,g,16,g,6,g,0,g,0,g,50,g
+620,dunn bros coffee,milk chocolate cold small,7,g,25,mg,190,g,40,g,12,g,4,g,0,g,0,g,39,g
+621,dunn bros coffee,muenster cheese for breakfast sandwich,6,g,20,mg,130,g,0,g,5,g,4,g,0,g,0,g,0,g
+622,dunn bros coffee,muffin banana chocolate chip gf,12,g,55,mg,200,g,57,g,4,g,7,g,0,g,0,g,32,g
+623,dunn bros coffee,muffin banana nut,33,g,90,mg,540,g,75,g,9,g,6,g,0,g,0,g,39,g
+624,dunn bros coffee,muffin blueberry,30,g,90,mg,540,g,88,g,6,g,6,g,0,g,0,g,48,g
+625,dunn bros coffee,muffin cinnamon chip,30,g,90,mg,540,g,81,g,6,g,9,g,0,g,0,g,45,g
+626,dunn bros coffee,muffin double dutch,36,g,90,mg,630,g,75,g,9,g,6,g,0,g,0,g,45,g
+627,dunn bros coffee,muffin lemon poppyseed,36,g,105,mg,600,g,78,g,9,g,6,g,0,g,0,g,39,g
+628,dunn bros coffee,muffin pistachio,36,g,105,mg,600,g,75,g,9,g,6,g,0,g,0,g,39,g
+629,dunn bros coffee,naan pizza chicken pesto,31,g,100,mg,2120,g,72,g,40,g,12,g,0,g,0,g,7,g
+630,dunn bros coffee,naan pizza margherita,28,g,55,mg,1800,g,75,g,25,g,11,g,0,g,0,g,10,g
+631,dunn bros coffee,naan pizza pepperoni,33,g,75,mg,2100,g,69,g,28,g,14,g,0,g,0,g,6,g
+632,dunn bros coffee,naan pizza veggie,26,g,55,mg,1840,g,75,g,26,g,11,g,0,g,0,g,10,g
+633,dunn bros coffee,nitro infinite black large,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+634,dunn bros coffee,nitro infinite black medium,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+635,dunn bros coffee,nitro infinite black small,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+636,dunn bros coffee,oatmeal cherry almond,12,g,0,mg,5,g,55,g,12,g,2,g,0,g,0,g,11,g
+637,dunn bros coffee,oatmeal classic nut and fruit,13,g,0,mg,15,g,56,g,12,g,2,g,0,g,0,g,11,g
+638,dunn bros coffee,oatmeal original,4,g,0,mg,0,g,41,g,8,g,1,g,0,g,0,g,1,g
+639,dunn bros coffee,old fashioned donut,9,g,30,mg,270,g,32,g,3,g,2,g,0,g,0,g,16,g
+640,dunn bros coffee,orange,0.5,g,0,mg,0,g,15,g,1,g,0,g,0,g,0,g,12,g
+641,dunn bros coffee,peaches and cream strudel,8,g,5,mg,330,g,50,g,5,g,8,g,0,g,0,g,18,g
+642,dunn bros coffee,rachel sandwich,24,g,90,mg,2110,g,71,g,41,g,9,g,0,g,0,g,6,g
+643,dunn bros coffee,red onion add on,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+644,dunn bros coffee,reuben sandwich,23,g,80,mg,2260,g,70,g,33,g,9,g,0,g,0,g,6,g
+645,dunn bros coffee,roasted red pepper add on,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+646,dunn bros coffee,sabra hummus cup with pretzels roasted red pepper,23,g,0,mg,580,g,18,g,9,g,5,g,0,g,0,g,0,g
+647,dunn bros coffee,sabra humus cup with pretzels original,23,g,0,mg,600,g,18,g,9,g,5,g,0,g,0,g,0,g
+648,dunn bros coffee,sabra humus cup with pretzels roasted garlic,23,g,0,mg,600,g,23,g,9,g,5,g,0,g,0,g,0,g
+649,dunn bros coffee,sahale honey almonds glazed mix,12,g,0,mg,150,g,11,g,5,g,1,g,0,g,0,g,6,g
+650,dunn bros coffee,sahale pomegranite cashews,11,g,0,mg,85,g,13,g,4,g,2,g,0,g,0,g,6,g
+651,dunn bros coffee,salsa cup,0,g,0,mg,440,g,4,g,0,g,0,g,0,g,0,g,2,g
+652,dunn bros coffee,sauce add on caramel,2,g,0,mg,75,g,26,g,0,g,1,g,0,g,0,g,23,g
+653,dunn bros coffee,sauce add on chocolate,0,g,0,mg,30,g,24,g,1,g,0,g,0,g,0,g,22,g
+654,dunn bros coffee,sauce add on white chocolate,1,g,0,mg,80,g,26,g,1,g,1,g,0,g,0,g,23,g
+655,dunn bros coffee,sausage for breakfast sandwich,17,g,30,mg,280,g,1,g,6,g,6,g,0,g,0,g,0,g
+656,dunn bros coffee,scone apple cinnamon,23,g,10,mg,300,g,53,g,5,g,11,g,0,g,0,g,29,g
+657,dunn bros coffee,scone blueberry,21,g,10,mg,330,g,53,g,5,g,10,g,0,g,0,g,24,g
+658,dunn bros coffee,scone raspberry white chocolate,23,g,10,mg,330,g,56,g,6,g,11,g,0,g,0,g,29,g
+659,dunn bros coffee,seasoned waffle fries,16,g,0,mg,990,g,43,g,4,g,3,g,0,g,0,g,0,g
+660,dunn bros coffee,sherwood forest ham sandwich,15,g,75,mg,2350,g,66,g,38,g,8,g,0,g,0,g,6,g
+661,dunn bros coffee,sicilian chicken breast sandwich,26,g,135,mg,2120,g,70,g,56,g,9,g,0,g,0,g,5,g
+662,dunn bros coffee,side of multigrain toast served with omelette,2,g,0,mg,380,g,25,g,4,g,0,g,0,g,0,g,2,g
+663,dunn bros coffee,side salad,1,g,0,mg,55,g,3,g,2,g,1,g,0,g,0,g,1,g
+664,dunn bros coffee,side bacon,7,g,15,mg,220,g,0,g,5,g,3,g,0,g,0,g,0,g
+665,dunn bros coffee,side hash browns,6,g,0,mg,270,g,15,g,1,g,1,g,0,g,0,g,0,g
+666,dunn bros coffee,side sausage patty,17,g,30,mg,280,g,1,g,6,g,6,g,0,g,0,g,0,g
+667,dunn bros coffee,side turkey bacon,4,g,20,mg,280,g,10,g,6,g,1,g,0,g,0,g,8,g
+668,dunn bros coffee,side waffle,12,g,20,mg,230,g,29,g,3,g,6,g,0,g,0,g,15,g
+669,dunn bros coffee,smoothie large,0,g,0,mg,5,g,85,g,2,g,0,g,0,g,0,g,80,g
+670,dunn bros coffee,smoothie medium,0,g,0,mg,0,g,64,g,2,g,0,g,0,g,0,g,60,g
+671,dunn bros coffee,smoothie small,0,g,0,mg,0,g,53,g,1,g,0,g,0,g,0,g,50,g
+672,dunn bros coffee,soup baked potato,17,g,35,mg,850,g,24,g,7,g,7,g,0,g,0,g,6,g
+673,dunn bros coffee,soup brocolli cheese,26,g,35,mg,1210,g,11,g,11,g,9,g,0,g,0,g,6,g
+674,dunn bros coffee,soup chicken alfredo,25,g,120,mg,960,g,12,g,14,g,14,g,0,g,0,g,4,g
+675,dunn bros coffee,soup chicken noodle,2,g,15,mg,1190,g,14,g,6,g,1,g,0,g,0,g,3,g
+676,dunn bros coffee,soup chicken pot pie,21,g,100,mg,1360,g,25,g,11,g,11,g,0,g,0,g,4,g
+677,dunn bros coffee,soup chicken torellini,6,g,30,mg,1460,g,15,g,7,g,2,g,0,g,0,g,2,g
+678,dunn bros coffee,soup chicken wild rice,25,g,95,mg,1080,g,20,g,11,g,14,g,0,g,0,g,3,g
+679,dunn bros coffee,soup chili beef with beans,23,g,65,mg,620,g,26,g,26,g,8,g,0,g,0,g,5,g
+680,dunn bros coffee,soup clam chowder,17,g,45,mg,1090,g,22,g,7,g,8,g,0,g,0,g,2,g
+681,dunn bros coffee,soup sausage tortellini,11,g,30,mg,1250,g,10,g,9,g,4,g,0,g,0,g,4,g
+682,dunn bros coffee,soup tomato basil,5,g,20,mg,1210,g,25,g,3,g,3,g,0,g,0,g,18,g
+683,dunn bros coffee,soup vegetarian vegetable,0,g,0,mg,1120,g,17,g,2,g,0,g,0,g,0,g,5,g
+684,dunn bros coffee,spinach add on,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+685,dunn bros coffee,spinach artichoke dip,56,g,125,mg,1770,g,84,g,38,g,26,g,0,g,0,g,1,g
+686,dunn bros coffee,steamed nirvana large,20,g,70,mg,130,g,9,g,6,g,14,g,0,g,0,g,8,g
+687,dunn bros coffee,steamed nirvana medium,17,g,60,mg,110,g,8,g,5,g,12,g,0,g,0,g,7,g
+688,dunn bros coffee,steamed nirvana small,14,g,45,mg,90,g,6,g,4,g,9,g,0,g,0,g,6,g
+689,dunn bros coffee,steamed nirvana caramelized almond large,21,g,70,mg,190,g,52,g,6,g,14,g,0,g,0,g,48,g
+690,dunn bros coffee,steamed nirvana caramelized almond medium,18,g,60,mg,150,g,38,g,5,g,12,g,0,g,0,g,36,g
+691,dunn bros coffee,steamed nirvana caramelized almond small,15,g,45,mg,125,g,31,g,4,g,10,g,0,g,0,g,29,g
+692,dunn bros coffee,steamed nirvana chocolate large,20,g,70,mg,170,g,53,g,7,g,14,g,0,g,0,g,49,g
+693,dunn bros coffee,steamed nirvana chocolate medium,17,g,60,mg,140,g,41,g,6,g,12,g,0,g,0,g,38,g
+694,dunn bros coffee,steamed nirvana chocolate small,14,g,45,mg,110,g,29,g,5,g,9,g,0,g,0,g,27,g
+695,dunn bros coffee,steamed nirvana cinnamon roll large,27,g,90,mg,180,g,56,g,7,g,18,g,0,g,0,g,53,g
+696,dunn bros coffee,steamed nirvana cinnamon roll medium,24,g,80,mg,160,g,49,g,6,g,16,g,0,g,0,g,46,g
+697,dunn bros coffee,steamed nirvana cinnamon roll small,21,g,70,mg,120,g,35,g,5,g,14,g,0,g,0,g,33,g
+698,dunn bros coffee,steamed nirvana creamy coconut large,21,g,70,mg,190,g,58,g,7,g,14,g,0,g,0,g,54,g
+699,dunn bros coffee,steamed nirvana creamy coconut medium,18,g,60,mg,150,g,38,g,6,g,12,g,0,g,0,g,36,g
+700,dunn bros coffee,steamed nirvana creamy coconut small,14,g,45,mg,110,g,24,g,4,g,10,g,0,g,0,g,23,g
+701,dunn bros coffee,steamed nirvana vanilla large,22,g,70,mg,270,g,73,g,8,g,15,g,0,g,0,g,66,g
+702,dunn bros coffee,steamed nirvana vanilla medium,18,g,60,mg,230,g,59,g,7,g,13,g,0,g,0,g,53,g
+703,dunn bros coffee,steamed nirvana vanilla small,15,g,45,mg,160,g,35,g,5,g,10,g,0,g,0,g,31,g
+704,dunn bros coffee,steamer kids,4,g,15,mg,100,g,23,g,7,g,3,g,0,g,0,g,23,g
+705,dunn bros coffee,steamer large,9,g,35,mg,220,g,48,g,15,g,6,g,0,g,0,g,47,g
+706,dunn bros coffee,steamer medium,7,g,30,mg,170,g,37,g,12,g,5,g,0,g,0,g,37,g
+707,dunn bros coffee,steamer small,5,g,20,mg,130,g,26,g,9,g,3,g,0,g,0,g,26,g
+708,dunn bros coffee,string cheese,5,g,15,mg,190,g,1,g,7,g,3,g,0,g,0,g,1,g
+709,dunn bros coffee,swiss cheese for breakfast sandwich,4,g,15,mg,30,g,1,g,4,g,3,g,0,g,0,g,0,g
+710,dunn bros coffee,syrup almond,0,g,0,mg,0,g,23,g,0,g,0,g,0,g,0,g,23,g
+711,dunn bros coffee,syrup banana,0,g,0,mg,0,g,25,g,0,g,0,g,0,g,0,g,25,g
+712,dunn bros coffee,syrup cherry,0,g,0,mg,0,g,18,g,0,g,0,g,0,g,0,g,18,g
+713,dunn bros coffee,syrup chocolate,0,g,0,mg,0,g,18,g,0,g,0,g,0,g,0,g,18,g
+714,dunn bros coffee,syrup chocolate sugar free,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+715,dunn bros coffee,syrup cinnamon,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,0,g,24,g
+716,dunn bros coffee,syrup coconut,0,g,0,mg,0,g,23,g,0,g,0,g,0,g,0,g,23,g
+717,dunn bros coffee,syrup hazelnut,0,g,0,mg,0,g,21,g,0,g,0,g,0,g,0,g,20,g
+718,dunn bros coffee,syrup honey,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,17,g
+719,dunn bros coffee,syrup irish creme,0,g,0,mg,0,g,23,g,0,g,0,g,0,g,0,g,23,g
+720,dunn bros coffee,syrup lavender,0,g,0,mg,0,g,23,g,0,g,0,g,0,g,0,g,23,g
+721,dunn bros coffee,syrup mint cold,0,g,0,mg,0,g,22,g,0,g,0,g,0,g,0,g,22,g
+722,dunn bros coffee,syrup peach,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,0,g,24,g
+723,dunn bros coffee,syrup pistachio,0,g,0,mg,110,g,19,g,0,g,0,g,0,g,0,g,19,g
+724,dunn bros coffee,syrup raspberry,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,0,g,24,g
+725,dunn bros coffee,syrup raspberry sugar free,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+726,dunn bros coffee,syrup salted caramel,0,g,0,mg,450,g,23,g,0,g,0,g,0,g,0,g,23,g
+727,dunn bros coffee,syrup simple sugar,0,g,0,mg,0,g,19,g,0,g,0,g,0,g,0,g,19,g
+728,dunn bros coffee,syrup strawberry,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,0,g,24,g
+729,dunn bros coffee,syrup vanilla,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,0,g,24,g
+730,dunn bros coffee,syrup vanilla sugar free,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+731,dunn bros coffee,the grand sandwich,23,g,90,mg,2090,g,70,g,40,g,9,g,0,g,0,g,3,g
+732,dunn bros coffee,the italian sandwich,31,g,90,mg,2420,g,67,g,39,g,13,g,0,g,0,g,4,g
+733,dunn bros coffee,the ultimate club sandwich,18,g,75,mg,2200,g,65,g,40,g,7,g,0,g,0,g,4,g
+734,dunn bros coffee,tomato add on,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+735,dunn bros coffee,trail mix,60,g,0,mg,400,g,70,g,25,g,15,g,0,g,0,g,50,g
+736,dunn bros coffee,triple berry toast,3,g,0,mg,400,g,58,g,5,g,0,g,0,g,0,g,29,g
+737,dunn bros coffee,tropical breeze hot tea large,4,g,0,mg,110,g,37,g,1,g,4,g,0,g,0,g,36,g
+738,dunn bros coffee,tropical breeze hot tea medium,3,g,0,mg,90,g,26,g,1,g,3,g,0,g,0,g,25,g
+739,dunn bros coffee,tropical breeze hot tea small,3,g,0,mg,75,g,10,g,1,g,3,g,0,g,0,g,10,g
+740,dunn bros coffee,tuna melt sandwich,26,g,85,mg,1680,g,56,g,41,g,9,g,0,g,0,g,7,g
+741,dunn bros coffee,turkey bacon for breakfast sandwich,4,g,20,mg,280,g,10,g,6,g,1,g,0,g,0,g,8,g
+742,dunn bros coffee,turkey blt wrap,21,g,65,mg,1660,g,52,g,34,g,5,g,0,g,0,g,5,g
+743,dunn bros coffee,turkey on cranberry wild rice bread,17,g,70,mg,1800,g,80,g,38,g,5,g,0,g,0,g,15,g
+744,dunn bros coffee,tuscan turkey sandwich,17,g,75,mg,2080,g,66,g,42,g,6,g,0,g,0,g,4,g
+745,dunn bros coffee,waffle for breakfast sandwich,24,g,40,mg,460,g,57,g,6,g,12,g,0,g,0,g,30,g
+746,dutch bros,iced or toasted cold brew coffee,1,g,0,mg,160,g,3,g,1,g,0,g,0,g,0,g,0,g
+747,dutch bros,iced or toasted kicker cold brew coffee,7,g,30,mg,200,g,22,g,3,g,4,g,0,g,0,g,18,g
+748,dutch bros,iced or toasted cocomo cold brew coffee,3,g,10,mg,210,g,30,g,3,g,1,g,0,g,0,g,29,g
+749,dutch bros,iced or toasted annihilator cold brew coffee,7,g,30,mg,190,g,23,g,3,g,4,g,0,g,0,g,22,g
+750,dutch bros,iced or toasted double chocolate mocha cold brew coffee,4,g,10,mg,220,g,30,g,3,g,1,g,0,g,0,g,26,g
+751,dutch bros,americano coffee hot or iced,0,g,6,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+752,dutch bros,iced or hot keto americano all sizes,12,g,50,mg,20,g,0,g,0,g,8,g,0,g,0,g,0,g
+753,dutch bros,iced or toasted caramelizer cold brew coffee,6,g,20,mg,270,g,31,g,3,g,4,g,0,g,0,g,20,g
+754,dutch bros,iced or toasted white mocha cold brew coffee,3,g,10,mg,280,g,32,g,4,g,1,g,0,g,0,g,28,g
+755,dutch bros,iced or toasted double torture cold brew coffee,3,g,10,mg,210,g,27,g,3,g,1,g,0,g,0,g,22,g
+756,dutch bros,cafe au lait with 2 milk,3,g,19,mg,79,g,7.5,g,5.2,g,2.2,g,0,g,0,g,7.5,g
+757,dutch bros,blended rebel average all flavors medium,0,g,0,mg,110,g,103,g,2,g,0,g,0,g,0,g,97,g
+758,dutch bros,iced golden eagle breve medium,32,g,150,mg,230,g,55,g,9,g,23,g,0,g,0,g,40,g
+759,dutch bros,skinny sugar free white mocha,2.4,g,13,mg,171,g,36.8,g,6.2,g,0.3,g,0,g,7.5,g,8.3,g
+760,dutch bros,dutch freeze,9.1,g,39,mg,148,g,42.3,g,9,g,5.7,g,0,g,0,g,30.5,g
+761,dutch bros,sugar free kicker,31.6,g,135,mg,163,g,18,g,9.1,g,18.1,g,0.6,g,0,g,9,g
+762,dutch bros,skinny annihilator,0.2,g,7,mg,115,g,9.1,g,6.8,g,0,g,0,g,0,g,9.1,g
+763,dutch bros,sugar free mocha,5.1,g,20,mg,188,g,41.4,g,10.2,g,3,g,0.0001,g,0,g,11,g
+764,dutch bros,iced green tea lemonade,0,g,0,mg,9,g,17.4,g,0,g,0,g,0,g,0,g,16.7,g
+765,dutch bros,caramelizer freeze,15.1,g,47,mg,225,g,71.2,g,11.3,g,9.9,g,0.3,g,0,g,62.5,g
+766,dutch bros,italian soda average all flavors,0,g,0,mg,14,g,56.1,g,0,g,0,g,0,g,0,g,51.8,g
+767,dutch bros,annihilator freeze,10.6,g,35,mg,115,g,49.8,g,8.6,g,6.6,g,0.3,g,0,g,50.1,g
+768,dutch bros,iced kicker breve medium,24,g,135,mg,140,g,48,g,9,g,18,g,0,g,0,g,40,g
+769,dutch bros,blended rebel average all flavors large,0,g,0,mg,150,g,140,g,2,g,0,g,0,g,0,g,133,g
+770,dutch bros,iced or toasted keto cold brew coffee,12,g,50,mg,170,g,3,g,1,g,8,g,0,g,0,g,0,g
+771,dutch bros,breve,42,g,210,mg,220,g,14,g,14,g,28,g,0,g,0,g,14,g
+772,dutch bros,911 breve medium,23,g,120,mg,160,g,48,g,9,g,16,g,0,g,0,g,40,g
+773,dutch bros,skinny sugar free snickers,1.3,g,11,mg,193,g,35.5,g,9.8,g,0.4,g,0,g,2.5,g,11,g
+774,dutch bros,chai with 2 milk,3.7,g,15,mg,94,g,37.4,g,6,g,3,g,0,g,0,g,35.2,g
+775,dutch bros,caramelizer,12.6,g,49,mg,304,g,58.9,g,8,g,8.2,g,0.3,g,0,g,38.8,g
+776,dutch bros,iced mocha large,14,g,48,mg,290,g,41,g,12,g,8,g,0,g,0,g,38,g
+777,dutch bros,white mocha small,10,g,35,mg,280,g,55,g,10,g,6,g,0,g,0,g,50,g
+778,dutch bros,iced cocomo mocha large,13,g,45,mg,280,g,61,g,11,g,8,g,0,g,0,g,58,g
+779,dutch bros,mango or peach smoothie,4,g,15,mg,80,g,110,g,4,g,3,g,0,g,5,g,110,g
+780,dutch bros,blended lemonade average all flavors medium,0,g,0,mg,0,g,124,g,0,g,0,g,0,g,0,g,119,g
+781,dutch bros,double chocolate mocha medium,15,g,50,mg,320,g,66,g,13,g,8,g,0,g,0,g,61,g
+782,dutch bros,sugar free double chocolate mocha,6.1,g,26,mg,216,g,45.8,g,6.8,g,3.8,g,0.2,g,0,g,16.5,g
+783,dutch bros,skinny white mocha,0.1,g,3,mg,105,g,23.4,g,4.3,g,0,g,0,g,0,g,21.2,g
+784,dutch bros,hot chocolate,9,g,39,mg,236,g,34.9,g,7.9,g,5.7,g,0.3,g,0,g,24.8,g
+785,dutch bros,double torture,7.2,g,31,mg,200,g,43.2,g,6.3,g,4.5,g,0.2,g,0,g,38.3,g
+786,dutch bros,skinny sugar free mocha,0.3,g,8,mg,188,g,41,g,10.3,g,0,g,0,g,0,g,11,g
+787,dutch bros,strawberry smoothie small,3,g,10,mg,50,g,70,g,3,g,2,g,0,g,3,g,70,g
+788,dutch bros,snickers,8.1,g,33,mg,210,g,42,g,6,g,5.2,g,0.2,g,0.0001,g,30.6,g
+789,dutch bros,golden eagle breve large,50,g,250,mg,330,g,61,g,15,g,25,g,0,g,0,g,46,g
+790,dutch bros,skinny dutch latte,0.2,g,8,mg,110,g,10.4,g,7.8,g,0,g,0,g,0,g,10.4,g
+791,dutch bros,skinny kicker,0.2,g,7,mg,104,g,27.8,g,6.8,g,0,g,0,g,0,g,24.1,g
+792,dutch bros,wildberry smoothie,4,g,15,mg,70,g,125,g,4,g,3,g,0,g,5,g,125,g
+793,dutch bros,blended christmas morning chai with 2 milk medium,4,g,45,mg,150,g,79,g,4,g,13,g,0,g,0,g,71,g
+794,dutch bros,skinny chai latte,0.1,g,6,mg,95,g,36.8,g,6.2,g,0,g,0,g,0,g,35.3,g
+795,dutch bros,german chocolate frost,9.3,g,37,mg,194,g,82.8,g,8,g,6,g,0,g,0,g,82.8,g
+796,dutch bros,iced 911 breve large,24,g,120,mg,160,g,48,g,8,g,16,g,0,g,0,g,40,g
+797,dutch bros,blended aftershock rebel small,0,g,0,mg,80,g,65,g,1,g,0,g,0,g,0,g,63,g
+798,dutch bros,iced dutch canyon mocha medium,11,g,35,mg,240,g,54,g,9,g,6,g,0,g,0,g,49,g
+799,dutch bros,iced chai with 2 milk,3.3,g,10,mg,67,g,25.4,g,4,g,2,g,0,g,0,g,24,g
+800,dutch bros,blended aftershock rebel medium,0,g,0,mg,110,g,104,g,2,g,0,g,0,g,0,g,101,g
+801,dutch bros,shark attack frost medium,10,g,45,mg,230,g,137,g,12,g,7,g,0,g,0,g,137,g
+802,dutch bros,soy dutch latte,2.9,g,0,mg,222,g,9.4,g,4.8,g,0.0001,g,0,g,0,g,7.5,g
+803,dutch bros,iced golden eagle breve large,38,g,190,mg,270,g,57,g,11,g,27,g,0,g,0,g,42,g
+804,dutch bros,911 freeze,9.5,g,32,mg,112,g,44.4,g,7.5,g,5.9,g,0.2,g,0,g,42.2,g
+805,dutch bros,orangesicle frost,6.7,g,30,mg,140,g,74.8,g,8,g,4.7,g,0,g,0,g,74.8,g
+806,dutch bros,iced caramelizer mocha small,10,g,30,mg,180,g,41,g,5,g,7,g,0,g,0,g,30,g
+807,dutch bros,iced mocha small,7,g,25,mg,150,g,21,g,6,g,4,g,0,g,0,g,19,g
+808,dutch bros,iced rebel average all flavors large,0,g,0,mg,170,g,92,g,2,g,0,g,0,g,0,g,85,g
+809,dutch bros,cocomo freeze,8.7,g,27,mg,130,g,52.7,g,8.5,g,5.6,g,0.2,g,0,g,50.6,g
+810,dutch bros,annihilator breve small,27,g,135,mg,140,g,30,g,9,g,18,g,0,g,0,g,29,g
+811,dutch bros,iced dirty chai with 2 milk medium,4,g,15,mg,95,g,35,g,6,g,3,g,0,g,0,g,33,g
+812,dutch bros,dragon slayer frost medium,10,g,50,mg,210,g,140,g,12,g,7,g,0,g,8,g,140,g
+813,dutch bros,og gummy bear frost,6.7,g,30,mg,140,g,74.1,g,8,g,4.7,g,0,g,0,g,74.1,g
+814,dutch bros,iced horchata chai with 2 milk large,7,g,25,mg,170,g,70,g,8,g,5,g,0,g,0,g,63,g
+815,dutch bros,birthday cake frost,7.3,g,30,mg,214,g,80.1,g,8.7,g,4.7,g,0,g,0,g,80.1,g
+816,dutch bros,iced lemonade average all flavors small,0,g,0,mg,5,g,49,g,0,g,0,g,0,g,0,g,48,g
+817,dutch bros,kicker breve small,27,g,135,mg,150,g,29,g,9,g,18,g,0,g,0,g,25,g
+818,dutch bros,iced caramelizer mocha medium,14,g,45,mg,270,g,55,g,9,g,9,g,0,g,0,g,42,g
+819,dutch bros,iced cookies and cream breve medium,29,g,135,mg,230,g,57,g,10,g,18,g,0,g,0,g,51,g
+820,dutch bros,golden eagle frost,12.7,g,47,mg,240,g,96.1,g,8,g,8.7,g,0,g,0,g,96.1,g
+821,dutch bros,iced eclipse tea small,0,g,0,mg,5,g,39,g,0,g,0,g,0,g,0,g,38,g
+822,dutch bros,sugar cookie breve medium,39,g,200,mg,230,g,34,g,13,g,26,g,0,g,0,g,33,g
+823,dutch bros,aquaberry frost,6.7,g,30,mg,140,g,76.1,g,8,g,4.7,g,0,g,0,g,67.4,g
+824,dutch bros,banana split frost,6.7,g,30,mg,187,g,78.1,g,8.7,g,4.7,g,0,g,0,g,78.1,g
+825,dutch bros,iced white angel breve medium,27,g,135,mg,170,g,32,g,9,g,18,g,0,g,0,g,31,g
+826,dutch bros,iced breve medium,30,g,150,mg,160,g,10,g,10,g,20,g,0,g,0,g,10,g
+827,dutch bros,golden eagle breve small,32,g,150,mg,230,g,55,g,9,g,23,g,0,g,0,g,40,g
+828,dutch bros,iced golden eagle chai with 2 milk small,7,g,25,mg,150,g,68,g,4,g,5,g,0,g,0,g,52,g
+829,dutch bros,dinosaur egg frost small,7,g,30,mg,160,g,104,g,8,g,5,g,0,g,0,g,104,g
+830,dutch bros,iced rebel average all flavors medium,0,g,0,mg,130,g,60,g,1,g,0,g,0,g,0,g,53,g
+831,dutch bros,iced dream weaver breve large,33,g,170,mg,220,g,33,g,12,g,22,g,0,g,0,g,32,g
+832,dutch bros,grasshopper frost,7.3,g,30,mg,160,g,80.1,g,8,g,4.7,g,0,g,0,g,80.1,g
+833,dutch bros,french toast breve medium,39,g,200,mg,240,g,35,g,14,g,26,g,0,g,0,g,34,g
+834,dutch bros,cotton candy frost,7.3,g,30,mg,207,g,84.1,g,8.7,g,4.7,g,0,g,0,g,84.1,g
+835,dutch bros,galaxy fish frost,6.7,g,30,mg,140,g,73.4,g,8,g,4.7,g,0,g,0,g,66.8,g
+836,dutch bros,nutty irishman breve large,45,g,230,mg,250,g,35,g,15,g,30,g,0,g,0,g,33,g
+837,dutch bros,cocomo mocha medium,14,g,50,mg,310,g,66,g,13,g,8,g,0,g,0,g,64,g
+838,dutch bros,iced flap jack breve small,15,g,80,mg,110,g,28,g,5,g,10,g,0,g,0,g,27,g
+839,dutch bros,iced white zombie breve medium,27,g,135,mg,180,g,32,g,10,g,18,g,0,g,0,g,30,g
+840,dutch bros,iced banana bread mocha small,6,g,20,mg,120,g,36,g,5,g,4,g,0,g,0,g,34,g
+841,dutch bros,ba nay nay frost,7.3,g,30,mg,154,g,76.8,g,8,g,4.7,g,0,g,0,g,76.8,g
+842,dutch bros,dutch canyon frost,8,g,30,mg,194,g,82.1,g,8.7,g,4.7,g,0,g,0,g,82.1,g
+843,dutch bros,iced nutty irishman breve medium,27,g,135,mg,150,g,29,g,9,g,18,g,0,g,0,g,27,g
+844,dutch bros,iced caramelizer mocha large,17,g,55,mg,330,g,62,g,11,g,11,g,0,g,0,g,49,g
+845,dutch bros,not so hot,8,g,35,mg,210,g,31,g,7,g,5,g,0.2,g,0,g,22,g
+846,dutch bros,iced annihilator breve medium,24,g,135,mg,130,g,50,g,9,g,18,g,0,g,0,g,48,g
+847,dutch bros,billy jean mocha small,10,g,35,mg,250,g,54,g,10,g,6,g,0,g,0,g,51,g
+848,dutch bros,tigers blood frost,6.7,g,30,mg,147,g,78.1,g,8,g,4.7,g,0,g,0,g,78.1,g
+849,dutch bros,iced cookie breve medium,27,g,135,mg,180,g,32,g,10,g,18,g,0,g,0,g,30,g
+850,dutch bros,pink flamingo frost,6.7,g,30,mg,194,g,77.4,g,8.7,g,4.7,g,0,g,0,g,77.4,g
+851,dutch bros,fire lizard frost,6.7,g,30,mg,140,g,73.4,g,8,g,4.7,g,0,g,0,g,73.4,g
+852,dutch bros,blended rebel average all flavors small,0,g,0,mg,72,g,63,g,1,g,0,g,0,g,0,g,62,g
+853,dutch bros,iced tea average other flavors medium,0,g,0,mg,5,g,40,g,0,g,0,g,0,g,0,g,39,g
+854,dutch bros,iced kicker breve large,30,g,170,mg,170,g,50,g,11,g,22,g,0,g,0,g,42,g
+855,dutch bros,caramel apple smoothie medium,7,g,30,mg,150,g,130,g,4,g,5,g,0,g,4,g,130,g
+856,dutch bros,iced cookie mocha medium,10,g,35,mg,250,g,54,g,10,g,6,g,0,g,0,g,49,g
+857,dutch bros,sugar free syrup,0,g,0,mg,11,g,0,g,0,g,0,g,0,g,0,g,0,g
+858,dutch bros,syrup average all flavors,0,g,0,mg,2,g,9.4,g,0,g,0,g,0,g,0,g,8.6,g
+859,dutch bros,chocolate milk,0.5,g,2,mg,13,g,1.9,g,0.4,g,0.3,g,0.0001,g,0,g,1.4,g
+860,dutch bros,kick me mix,1.8,g,8,mg,8,g,1,g,0.5,g,1,g,0.0001,g,0,g,0.5,g
+861,dutch bros,sugar free sauce,1.2,g,3,mg,50,g,17.7,g,0.7,g,0,g,0,g,3.3,g,0,g
+862,dutch bros,whipped cream,1.3,g,5,mg,8,g,0.8,g,0.2,g,0,g,0,g,0,g,0.5,g
+863,dutch bros,soy milk,0.2,g,0,mg,14,g,0.6,g,0.3,g,0,g,0,g,0,g,0.5,g
+864,dutch bros,whole milk,0.5,g,2,mg,6,g,0.7,g,0.5,g,0.3,g,0.0001,g,0,g,0,g
+865,dutch bros,2 milk,0.3,g,1,mg,7,g,0.7,g,0.5,g,0.2,g,0.0001,g,0,g,0.7,g
+866,dutch bros,no fat milk,0.0001,g,0.0001,mg,7,g,0.7,g,0.5,g,0,g,0,g,0,g,0.7,g
+867,dutch bros,sauce average all flavors,1.5,g,3,mg,48,g,24,g,0.3,g,0.8,g,0,g,0,g,18.7,g
+868,dutch bros,lite whipped cream,1,g,4,mg,0,g,1,g,0,g,1,g,0,g,0,g,1,g
+869,dutch bros,egg nog,2.3,g,16,mg,30,g,6.8,g,1,g,1.5,g,0,g,0,g,5.5,g
+870,dutch bros,ice cream mix,0.3,g,1,mg,8,g,1.8,g,0.4,g,0.2,g,0,g,0,g,1.8,g
+871,dutch bros,espresso,0.0001,g,0,mg,4,g,0,g,0.0001,g,0.0001,g,0,g,0,g,0,g
+872,dutch bros,decaf espresso,0.0001,g,0,mg,2,g,0,g,0.0001,g,0,g,0,g,0,g,0,g
+873,dutch bros,kids strawberry smoothie,2,g,5,mg,25,g,45,g,1,g,1,g,0,g,2,g,45,g
+874,dutch bros,kids mango smoothie,2,g,5,mg,30,g,50,g,1,g,1,g,0,g,2,g,50,g
+875,dutch bros,kids hot cocoa,11,g,39,mg,230,g,33,g,10,g,6,g,0,g,0,g,31,g
+876,dutch bros,kids blended birthday cake frost,5,g,20,mg,130,g,46,g,6,g,3,g,0,g,0,g,46,g
+877,dutch bros,kids blended dutch canyon frost,6,g,20,mg,120,g,47,g,6,g,3,g,0,g,0,g,47,g
+878,dutch bros,kids blended german chocolate frost,6,g,25,mg,120,g,48,g,5,g,4,g,0,g,0,g,48,g
+879,dutch bros,kids blended cotton candy frost,5,g,20,mg,130,g,48,g,6,g,3,g,0,g,0,g,48,g
+880,dutch bros,kids peach smoothie,2,g,5,mg,25,g,50,g,1,g,1,g,0,g,2,g,50,g
+881,dutch bros,kids wildberry smoothie,2,g,5,mg,25,g,55,g,1,g,1,g,0,g,2,g,55,g
+882,dutch bros,kids blended unicorn blood frost,5,g,20,mg,120,g,46,g,6,g,3,g,0,g,0,g,46,g
+883,dutch bros,kids blended white angel frost,5,g,20,mg,120,g,47,g,6,g,3,g,0,g,0,g,47,g
+884,dutch bros,kids blended banana bread frost,5,g,20,mg,95,g,43,g,5,g,3,g,0,g,0,g,43,g
+885,dutch bros,kids blended french vanilla bean frost,7,g,25,mg,120,g,46,g,5,g,5,g,0,g,0,g,46,g
+886,dutch bros,kids blended crazy hawaiian frost,6,g,25,mg,120,g,47,g,5,g,4,g,0,g,0,g,47,g
+887,dutch bros,kids hot banana split cocoa,10,g,35,mg,230,g,51,g,9,g,6,g,0,g,0,g,47,g
+888,dutch bros,kids iced bubblegum soda,7,g,30,mg,35,g,22,g,2,g,5,g,0,g,0,g,21,g
+889,dutch bros,kids blended ninja frost,5,g,20,mg,130,g,47,g,6,g,3,g,0,g,0,g,47,g
+890,dutch bros,kids blended golden eagle frost,10,g,35,mg,180,g,70,g,5,g,7,g,0,g,0,g,70,g
+891,dutch bros,kids blended vanilla bean frost,5,g,20,mg,95,g,45,g,5,g,3,g,0,g,0,g,45,g
+892,dutch bros,kids blended almond bar frost,5,g,20,mg,130,g,47,g,6,g,3,g,0,g,0,g,47,g
+893,dutch bros,kids blended smores frost,5,g,20,mg,120,g,46,g,5,g,3,g,0,g,0,g,46,g
+894,dutch bros,kids green apple smoothie,2,g,5,mg,35,g,50,g,1,g,1,g,0,g,2,g,50,g
+895,dutch bros,kids blended dinosaur egg frost,5,g,20,mg,120,g,69,g,6,g,3,g,0,g,0,g,69,g
+896,dutch bros,kids hot almond bar cocoa,10,g,16,mg,240,g,53,g,10,g,6,g,0,g,0,g,50,g
+897,dutch bros,kids blended raspberry truffle frost,5,g,20,mg,120,g,46,g,6,g,3,g,0,g,0,g,46,g
+898,dutch bros,kids blended banana split frost,5,g,20,mg,120,g,45,g,6,g,3,g,0,g,0,g,45,g
+899,dutch bros,kids blended jelly donut frost,5,g,20,mg,100,g,47,g,5,g,3,g,0,g,0,g,42,g
+900,dutch bros,kids iced pink flamingo soda,7,g,30,mg,60,g,23,g,2,g,5,g,0,g,0,g,22,g
+901,dutch bros,kids hot molten lava cocoa,10,g,35,mg,210,g,51,g,9,g,6,g,0,g,0,g,48,g
+902,dutch bros,kids blended snickerdoodle frost,5,g,20,mg,120,g,46,g,6,g,3,g,0,g,0,g,46,g
+903,dutch bros,kids blended ba nay nay frost,5,g,20,mg,100,g,45,g,5,g,3,g,0,g,0,g,45,g
+904,dutch bros,kids blended cinnamon roll frost,5,g,20,mg,130,g,46,g,6,g,3,g,0,g,0,g,46,g
+905,dutch bros,kids iced freedom soda,7,g,30,mg,35,g,46,g,2,g,5,g,0,g,0,g,46,g
+906,dutch bros,kids iced dinosaur egg soda,7,g,30,mg,55,g,47,g,2,g,5,g,0,g,0,g,46,g
+907,dutch bros,kids blended banana cream pie frost,5,g,20,mg,130,g,46,g,6,g,3,g,0,g,0,g,46,g
+908,dutch bros,kids horchata frost,6,g,25,mg,140,g,47,g,6,g,4,g,0,g,0,g,47,g
+909,dutch bros,kids blended cake batter frost,5,g,20,mg,130,g,46,g,6,g,3,g,0,g,0,g,46,g
+910,dutch bros,kids hot nutty irishman cocoa,10,g,35,mg,210,g,50,g,9,g,6,g,0,g,0,g,46,g
+911,dutch bros,kids blended molten lava frost,5,g,20,mg,100,g,45,g,5,g,3,g,0,g,0,g,45,g
+912,dutch bros,kids blended the bob frost,5,g,20,mg,100,g,46,g,5,g,3,g,0,g,0,g,46,g
+913,dutch bros,kids hot smores cocoa,10,g,16,mg,230,g,52,g,9,g,6,g,0,g,0,g,50,g
+914,dutch bros,kids blended tuxedo frost,5,g,20,mg,140,g,48,g,6,g,3,g,0,g,0,g,48,g
+915,dutch bros,kids blended islander frost,5,g,20,mg,100,g,46,g,5,g,3,g,0,g,0,g,46,g
+916,dutch bros,kids hot b 52 cocoa,10,g,35,mg,210,g,50,g,9,g,6,g,0,g,0,g,45,g
+917,dutch bros,kids blended cookie frost,5,g,20,mg,130,g,47,g,6,g,3,g,0,g,0,g,47,g
+918,dutch bros,kids hot cinnamon roll cocoa,10,g,35,mg,240,g,52,g,10,g,6,g,0,g,0,g,49,g
+919,dutch bros,kids blended bubblegum frost,5,g,20,mg,90,g,43,g,5,g,3,g,0,g,0,g,43,g
+920,dutch bros,kids hot cookie cocoa,10,g,35,mg,240,g,53,g,10,g,6,g,0,g,0,g,49,g
+921,dutch bros,kids hot tuxedo cocoa,10,g,35,mg,250,g,54,g,10,g,6,g,0,g,0,g,49,g
+922,dutch bros,kids blended freedom frost,5,g,20,mg,90,g,67,g,5,g,3,g,0,g,0,g,67,g
+923,dutch bros,kids iced peach cobbler soda,7,g,30,mg,60,g,24,g,2,g,5,g,0,g,0,g,22,g
+924,dutch bros,kids blended nutty irishman frost,5,g,20,mg,100,g,44,g,5,g,3,g,0,g,0,g,44,g
+925,dutch bros,kids blended b 52 frost,5,g,20,mg,100,g,44,g,5,g,3,g,0,g,0,g,44,g
+926,dutch bros,kids blended sugar cookie frost,5,g,20,mg,120,g,46,g,6,g,3,g,0,g,0,g,46,g
+927,dutch bros,kids hot trifecta cocoa,11,g,38,mg,250,g,54,g,9,g,7,g,0,g,0,g,47,g
+928,dutch bros,kids iced cotton candy soda,7,g,30,mg,70,g,27,g,2,g,5,g,0,g,0,g,25,g
+929,dutch bros,kids blended billy jean frost,5,g,20,mg,130,g,48,g,6,g,3,g,0,g,0,g,48,g
+930,dutch bros,kids iced peach ring soda,7,g,30,mg,70,g,25,g,2,g,5,g,0,g,0,g,23,g
+931,dutch bros,kids caramel apple smoothie,6,g,15,mg,95,g,60,g,1,g,4,g,0,g,2,g,60,g
+932,dutch bros,kids hot peppermint bark cocoa,10,g,35,mg,230,g,54,g,9,g,6,g,0,g,0,g,50,g
+933,dutch bros,kids hot sugar cookie cocoa,10,g,35,mg,230,g,51,g,9,g,6,g,0,g,0,g,48,g
+934,dutch bros,kids blended grasshopper frost,5,g,30,mg,100,g,46,g,5,g,3,g,0,g,0,g,4,g
+935,dutch bros,kids blended cherry blossom frost,5,g,21,mg,130,g,45,g,6,g,3,g,0,g,0,g,39,g
+936,dutch bros,kids blended lemonade,0,g,0,mg,20,g,48,g,0,g,0,g,0,g,0,g,46,g
+937,dutch bros,kids blended wallaby frost,6,g,25,mg,120,g,47,g,6,g,4,g,0,g,0,g,47,g
+938,dutch bros,kids hot jelly donut cocoa,10,g,35,mg,200,g,53,g,9,g,6,g,0,g,0,g,50,g
+939,dutch bros,kids hot white angel cocoa,10,g,35,mg,230,g,53,g,9,g,6,g,0,g,0,g,50,g
+940,dutch bros,kids blended peach ring frost,5,g,20,mg,130,g,64,g,6,g,3,g,0,g,0,g,64,g
+941,dutch bros,kids blended white zombie frost,5,g,20,mg,130,g,47,g,6,g,3,g,0,g,0,g,47,g
+942,dutch bros,kids blended trifecta frost,7,g,25,mg,140,g,50,g,6,g,4,g,0,g,0,g,50,g
+943,dutch bros,kids iced lemonade,0,g,0,mg,10,g,21,g,0,g,0,g,0,g,0,g,21,g
+944,dutch bros,kids hot the bob cocoa,10,g,35,mg,210,g,51,g,9,g,6,g,0,g,0,g,48,g
+945,dutch bros,kids hot snickerdoodle cocoa,10,g,35,mg,230,g,52,g,9,g,6,g,0,g,0,g,48,g
+946,dutch bros,kids blended black forest frost,5,g,20,mg,100,g,44,g,5,g,3,g,0,g,0,g,44,g
+947,dutch bros,kids hot french vanilla bean cocoa,11,g,40,mg,230,g,52,g,9,g,7,g,0,g,0,g,45,g
+948,dutch bros,kids iced red white and blue soda,7,g,30,mg,60,g,26,g,2,g,5,g,0,g,0,g,25,g
+949,dutch bros,kids hot islander cocoa,10,g,35,mg,210,g,51,g,9,g,6,g,0,g,0,g,49,g
+950,dutch bros,kids hot golden eagle cocoa,15,g,32,mg,290,g,76,g,9,g,9,g,0,g,0,g,59,g
+951,dutch bros,kids hot birthday cake cocoa,10,g,35,mg,240,g,52,g,10,g,6,g,0,g,0,g,49,g
+952,dutch bros,kids blended french toast frost,5,g,20,mg,130,g,46,g,6,g,3,g,0,g,0,g,46,g
+953,dutch bros,kids hot raspberry truffle cocoa,10,g,35,mg,230,g,52,g,9,g,6,g,0,g,0,g,49,g
+954,dutch bros,kids blended peach cobbler frost,5,g,20,mg,120,g,46,g,6,g,3,g,0,g,0,g,46,g
+955,dutch bros,kids hot french toast cocoa,10,g,16,mg,240,g,52,g,9,g,6,g,0,g,0,g,49,g
+956,dutch bros,kids hot ba nay nay cocoa,10,g,35,mg,210,g,51,g,9,g,6,g,0,g,0,g,46,g
+957,dutch bros,kids hot banana bread cocoa,10,g,35,mg,200,g,49,g,10,g,6,g,0,g,0,g,46,g
+958,dutch bros,kids blueberry pomegranate smoothie,2,g,5,mg,30,g,50,g,1,g,1,g,0,g,2,g,50,g
+959,dutch bros,kids blended toasted mellow frost,5,g,20,mg,95,g,45,g,5,g,3,g,0,g,0,g,45,g
+960,dutch bros,kids hot white zombie cocoa,10,g,35,mg,240,g,53,g,10,g,6,g,0,g,0,g,49,g
+961,dutch bros,kids hot crazy hawaiian cocoa,11,g,38,mg,230,g,53,g,9,g,7,g,0,g,0,g,46,g
+962,dutch bros,kids iced gummy bear soda,7,g,30,mg,60,g,23,g,2,g,5,g,0,g,0,g,21,g
+963,dutch bros,kids hot billy jean cocoa,10,g,35,mg,240,g,54,g,10,g,6,g,0,g,0,g,51,g
+964,dutch bros,kids coral reef frost,5,g,25,mg,95,g,67,g,6,g,4,g,0,g,0,g,63,g
+965,dutch bros,kids hot cake batter cocoa,10,g,35,mg,240,g,52,g,10,g,6,g,0,g,0,g,49,g
+966,dutch bros,kids hot german chocolate cocoa,11,g,38,mg,230,g,53,g,9,g,7,g,0,g,0,g,47,g
+967,dutch bros,kids hot dutch canyon cocoa,10,g,35,mg,230,g,53,g,9,g,6,g,0,g,0,g,49,g
+968,dutch bros,kids blended cinnamon dolce frost,5,g,20,mg,100,g,45,g,5,g,3,g,0,g,0,g,45,g
+969,dutch bros,kids blended gummy bear frost,5,g,20,mg,120,g,45,g,6,g,3,g,0,g,0,g,45,g
+970,dutch bros,kids blended peppermint bark frost,5,g,20,mg,120,g,48,g,6,g,3,g,0,g,0,g,48,g
+971,dutch bros,kids hot cotton candy cocoa,10,g,35,mg,240,g,54,g,10,g,6,g,0,g,0,g,51,g
+972,dutch bros,kids hot flap jack cocoa,10,g,35,mg,230,g,53,g,9,g,6,g,0,g,0,g,50,g
+973,daily grill,1000 island dressing,8,g,10,mg,660,g,8,g,1,g,1,g,0,g,0,g,5,g
+974,daily grill,1 2 penne pesto and mixed field greens,35,g,65,mg,490,g,60,g,17,g,12,g,0,g,9,g,10,g
+975,daily grill,ahi tuna wrap,27,g,65,mg,1620,g,94,g,52,g,6,g,0,g,14,g,27,g
+976,daily grill,angel hair pasta pomodoro,37,g,0,mg,1810,g,108,g,21,g,3,g,0,g,9,g,14,g
+977,daily grill,angel hair pasta pomodoro with grilled gulf shrimp,40,g,230,mg,2030,g,109,g,52,g,4,g,0,g,9,g,14,g
+978,daily grill,apple,0,g,0,mg,0,g,19,g,0,g,0,g,0,g,3,g,14,g
+979,daily grill,apple cobbler with ice cream,41,g,65,mg,190,g,126,g,12,g,15,g,0,g,6,g,95,g
+980,daily grill,apple juice,0,g,0,mg,20,g,23,g,0,g,0,g,0,g,0,g,20,g
+981,daily grill,arnold palmer,0,g,0,mg,20,g,3,g,0,g,0,g,0,g,0,g,3,g
+982,daily grill,asian ginger dressing,4,g,0,mg,1740,g,20,g,2,g,0,g,0,g,2,g,16,g
+983,daily grill,au jus,0,g,0,mg,610,g,2,g,0,g,0,g,0,g,0,g,1,g
+984,daily grill,aunt rondaos monkey bread,55,g,70,mg,1660,g,134,g,13,g,36,g,0,g,4,g,69,g
+985,daily grill,avocado sliced,11,g,0,mg,5,g,7,g,2,g,2,g,0,g,5,g,1,g
+986,daily grill,bacon,12,g,60,mg,580,g,0,g,8,g,4,g,0,g,0,g,0,g
+987,daily grill,bagel plain,1,g,0,mg,380,g,57,g,9,g,0,g,0,g,2,g,1,g
+988,daily grill,bagel seeded,1,g,0,mg,360,g,57,g,9,g,0,g,0,g,2,g,1,g
+989,daily grill,baked potato,5,g,0,mg,1150,g,92,g,11,g,1,g,0,g,7,g,3,g
+990,daily grill,balsamic vinaigrette dressing,36,g,0,mg,180,g,4,g,1,g,5,g,0,g,1,g,3,g
+991,daily grill,banana,0,g,0,mg,0,g,27,g,1,g,0,g,0,g,3,g,14,g
+992,daily grill,bananas sliced,0,g,0,mg,0,g,27,g,1,g,0,g,0,g,3,g,14,g
+993,daily grill,beer,0,g,0,mg,10,g,11,g,1,g,0,g,0,g,0,g,0,g
+994,daily grill,belgian waffle,15,g,0,mg,1520,g,83,g,6,g,5,g,0,g,0,g,10,g
+995,daily grill,belgian waffle with strawberries and whipped cream,18,g,10,mg,1520,g,93,g,7,g,6,g,0,g,2,g,17,g
+996,daily grill,berry cobbler with ice cream,43,g,65,mg,70,g,202,g,11,g,15,g,0,g,11,g,165,g
+997,daily grill,beurre blanc sauce,27,g,80,mg,45,g,1,g,0,g,17,g,0,g,0,g,0,g
+998,daily grill,big carrot cake,94,g,225,mg,1230,g,121,g,11,g,32,g,0,g,5,g,84,g
+999,daily grill,blackened ahi tuna salad,6,g,65,mg,1390,g,27,g,39,g,1,g,0,g,7,g,13,g

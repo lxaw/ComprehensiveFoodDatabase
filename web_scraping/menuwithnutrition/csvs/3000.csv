@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,arctic circle,ice cream sundae chocolate and vanilla twist with snickers,14,g,35,mg,190,g,50,g,9,g,7,g,0,g,1,g,42,g
+1,arctic circle,ice cream sundae chocolate and vanilla twist with strawberry topping,8,g,30,mg,130,g,42,g,7,g,5,g,0,g,1,g,37,g
+2,arctic circle,ice cream sundae chocolate and vanilla twist with twix,14,g,35,mg,190,g,51,g,8,g,9,g,0,g,1,g,41,g
+3,arctic circle,ice cream sundae chocolate and vanilla twist with vanilla syrup,8,g,30,mg,130,g,51,g,7,g,5,g,0,g,1,g,46,g
+4,arctic circle,ice cream sundae chocolate with almond roca,20,g,45,mg,220,g,47,g,10,g,11,g,0,g,2,g,41,g
+5,arctic circle,ice cream sundae chocolate with banana,8,g,35,mg,135,g,40,g,9,g,5,g,0,g,2,g,33,g
+6,arctic circle,ice cream sundae chocolate with brownie bits,13,g,35,mg,200,g,51,g,10,g,7,g,0,g,2,g,38,g
+7,arctic circle,ice cream sundae chocolate with butterfinger,13,g,35,mg,200,g,53,g,10,g,8,g,0,g,1,g,42,g
+8,arctic circle,ice cream sundae chocolate with caramel,9,g,35,mg,180,g,54,g,8,g,5,g,0,g,1,g,44,g
+9,arctic circle,ice cream sundae chocolate with cashews,22,g,35,mg,135,g,43,g,13,g,7,g,0,g,2,g,31,g
+10,arctic circle,ice cream sundae chocolate with cheesecake dough,15,g,60,mg,210,g,43,g,10,g,9,g,0,g,2,g,35,g
+11,arctic circle,ice cream sundae chocolate with chocolate chips,16,g,35,mg,130,g,53,g,10,g,9,g,0,g,3,g,45,g
+12,arctic circle,ice cream sundae chocolate with chocolate syrup,8,g,35,mg,160,g,50,g,8,g,5,g,0,g,1,g,44,g
+13,arctic circle,ice cream sundae chocolate with cookie butter,20,g,35,mg,190,g,49,g,10,g,7,g,0,g,1,g,41,g
+14,arctic circle,ice cream sundae chocolate with cookie dough,13,g,55,mg,160,g,52,g,10,g,7,g,0,g,1,g,38,g
+15,arctic circle,ice cream sundae chocolate with hot fudge,11,g,35,mg,190,g,50,g,8,g,7,g,0,g,1,g,45,g
+16,arctic circle,ice cream sundae chocolate with marshmallow creme,8,g,35,mg,160,g,51,g,8,g,5,g,0,g,1,g,43,g
+17,arctic circle,ice cream sundae chocolate with mint topping,8,g,35,mg,140,g,49,g,8,g,5,g,0,g,1,g,44,g
+18,arctic circle,ice cream sundae chocolate with moose tracks chips,20,g,35,mg,180,g,47,g,11,g,12,g,0,g,2,g,39,g
+19,arctic circle,ice cream sundae chocolate with moose tracks fudge,19,g,35,mg,200,g,49,g,10,g,7,g,0,g,3,g,42,g
+20,arctic circle,ice cream sundae chocolate with nutter butter,14,g,35,mg,240,g,53,g,11,g,6,g,0,g,2,g,37,g
+21,arctic circle,ice cream sundae chocolate with oreo crumbles,12,g,35,mg,350,g,55,g,10,g,5,g,0,g,2,g,37,g
+22,arctic circle,ice cream sundae chocolate with peanut butter cup,17,g,40,mg,220,g,49,g,12,g,5,g,0,g,1,g,43,g
+23,arctic circle,ice cream sundae chocolate with raspberry topping,8,g,35,mg,180,g,53,g,8,g,5,g,0,g,2,g,47,g
+24,arctic circle,ice cream sundae chocolate with snickers,15,g,35,mg,200,g,51,g,11,g,7,g,0,g,2,g,44,g
+25,arctic circle,ice cream sundae chocolate with strawberry topping,8,g,35,mg,135,g,43,g,8,g,5,g,0,g,1,g,38,g
+26,arctic circle,ice cream sundae chocolate with twix,15,g,35,mg,190,g,52,g,10,g,9,g,0,g,2,g,43,g
+27,arctic circle,ice cream sundae chocolate with vanilla syrup,8,g,35,mg,130,g,51,g,8,g,5,g,0,g,1,g,47,g
+28,arctic circle,ice cream sundae vanilla,7,g,30,mg,125,g,32,g,6,g,5,g,0,g,0,g,26,g
+29,arctic circle,ice cream sundae vanilla with almond roca,19,g,40,mg,210,g,45,g,7,g,12,g,0,g,1,g,38,g
+30,arctic circle,ice cream sundae vanilla with banana,7,g,30,mg,125,g,38,g,6,g,5,g,0,g,1,g,29,g
+31,arctic circle,ice cream sundae vanilla with brownie bits,12,g,30,mg,190,g,50,g,7,g,7,g,0,g,1,g,35,g
+32,arctic circle,ice cream sundae vanilla with butterfinger,12,g,30,mg,190,g,52,g,7,g,8,g,0,g,0,g,39,g
+33,arctic circle,ice cream sundae vanilla with caramel,8,g,30,mg,170,g,52,g,6,g,5,g,0,g,0,g,41,g
+34,arctic circle,ice cream sundae vanilla with cashews,20,g,30,mg,125,g,41,g,10,g,8,g,0,g,1,g,27,g
+35,arctic circle,ice cream sundae vanilla with cheesecake dough,13,g,55,mg,200,g,41,g,8,g,9,g,0,g,0,g,32,g
+36,arctic circle,ice cream sundae vanilla with chocolate chips,15,g,30,mg,125,g,51,g,7,g,9,g,0,g,2,g,42,g
+37,arctic circle,ice cream sundae vanilla with chocolate syrup,7,g,30,mg,150,g,48,g,6,g,5,g,0,g,0,g,41,g
+38,arctic circle,ice cream sundae vanilla with cookie butter,19,g,30,mg,180,g,47,g,8,g,7,g,0,g,0,g,37,g
+39,arctic circle,ice cream sundae vanilla with cookie dough,12,g,50,mg,150,g,50,g,7,g,7,g,0,g,0,g,34,g
+40,arctic circle,ice cream sundae vanilla with hot fudge,9,g,30,mg,180,g,48,g,6,g,7,g,0,g,0,g,42,g
+41,arctic circle,ice cream sundae vanilla with marshmallow creme,7,g,30,mg,160,g,49,g,6,g,5,g,0,g,0,g,40,g
+42,arctic circle,ice cream sundae vanilla with mint topping,7,g,30,mg,130,g,48,g,6,g,5,g,0,g,0,g,41,g
+43,arctic circle,ice cream sundae vanilla with moose tracks chips,19,g,30,mg,170,g,45,g,9,g,12,g,0,g,1,g,36,g
+44,arctic circle,ice cream sundae vanilla with moose tracks fudge,18,g,30,mg,190,g,47,g,7,g,7,g,0,g,2,g,39,g
+45,arctic circle,ice cream sundae vanilla with nutter butter,13,g,30,mg,230,g,51,g,8,g,6,g,0,g,1,g,34,g
+46,arctic circle,ice cream sundae vanilla with oreo crumbles,11,g,30,mg,340,g,53,g,8,g,5,g,0,g,1,g,34,g
+47,arctic circle,ice cream sundae vanilla with peanut butter cup,16,g,30,mg,210,g,48,g,9,g,5,g,0,g,0,g,40,g
+48,arctic circle,ice cream sundae vanilla with raspberry topping,7,g,30,mg,170,g,51,g,6,g,5,g,0,g,0,g,44,g
+49,arctic circle,ice cream sundae vanilla with snickers,13,g,30,mg,190,g,49,g,8,g,7,g,0,g,1,g,41,g
+50,arctic circle,ice cream sundae vanilla with strawberry topping,7,g,30,mg,125,g,41,g,6,g,5,g,0,g,0,g,35,g
+51,arctic circle,ice cream sundae vanilla with twix,14,g,30,mg,180,g,51,g,7,g,9,g,0,g,0,g,40,g
+52,arctic circle,ice cream sundae vanilla with vanilla syrup,7,g,30,mg,125,g,50,g,6,g,5,g,0,g,0,g,44,g
+53,arctic circle,large flavor burst cone,7,g,30,mg,135,g,38,g,6,g,5,g,0,g,0,g,28,g
+54,arctic circle,large flavor burst cone with banana flavor burst syrup,7,g,30,mg,135,g,51,g,6,g,5,g,0,g,0,g,42,g
+55,arctic circle,large flavor burst cone with blue raspberry flavor burst syrup,7,g,30,mg,135,g,51,g,6,g,5,g,0,g,0,g,42,g
+56,arctic circle,large flavor burst cone with butter pecan flavor burst syrup,7,g,30,mg,270,g,51,g,6,g,5,g,0,g,0,g,42,g
+57,arctic circle,large flavor burst cone with cherry flavor burst syrup,7,g,30,mg,135,g,51,g,6,g,5,g,0,g,0,g,42,g
+58,arctic circle,large flavor burst cone with cotton candy flavor burst syrup,7,g,30,mg,135,g,51,g,6,g,5,g,0,g,0,g,42,g
+59,arctic circle,large flavor burst cone with green apple flavor burst syrup,7,g,30,mg,135,g,51,g,6,g,5,g,0,g,0,g,42,g
+60,arctic circle,large flavor burst cone with root beer flavor burst syrup,7,g,30,mg,135,g,51,g,6,g,5,g,0,g,0,g,42,g
+61,arctic circle,large flavor burst cone with strawberry flavor burst syrup,7,g,30,mg,135,g,51,g,6,g,5,g,0,g,0,g,42,g
+62,arctic circle,large flavor burst cone with tropical orange flavor burst,7,g,30,mg,135,g,51,g,6,g,5,g,0,g,0,g,42,g
+63,arctic circle,large flavor burst waffle cone,8,g,30,mg,170,g,49,g,7,g,5,g,0,g,0,g,32,g
+64,arctic circle,large flavor burst waffle cone with banana flavor burst syrup,8,g,30,mg,170,g,63,g,7,g,5,g,0,g,0,g,45,g
+65,arctic circle,large flavor burst waffle cone with blue raspberry flavor burst syrup,8,g,30,mg,170,g,63,g,7,g,5,g,0,g,0,g,45,g
+66,arctic circle,large flavor burst waffle cone with butter pecan flavor burst syrup,8,g,30,mg,300,g,63,g,7,g,5,g,0,g,0,g,45,g
+67,arctic circle,large flavor burst waffle cone with cherry flavor burst syrup,8,g,30,mg,170,g,63,g,7,g,5,g,0,g,0,g,45,g
+68,arctic circle,large flavor burst waffle cone with cotton candy flavor burst syrup,8,g,30,mg,170,g,63,g,7,g,5,g,0,g,0,g,45,g
+69,arctic circle,large flavor burst waffle cone with green apple flavor burst syrup,8,g,30,mg,170,g,63,g,7,g,5,g,0,g,0,g,45,g
+70,arctic circle,large flavor burst waffle cone with root beer flavor burst syrup,8,g,30,mg,170,g,63,g,7,g,5,g,0,g,0,g,45,g
+71,arctic circle,large flavor burst waffle cone with strawberry flavor burst syrup,8,g,30,mg,170,g,63,g,7,g,5,g,0,g,0,g,45,g
+72,arctic circle,large flavor burst waffle cone with tropical orange flavor burst,8,g,30,mg,170,g,63,g,7,g,5,g,0,g,0,g,45,g
+73,arctic circle,large ice cream cone,0,g,0,mg,10,g,6,g,0,g,0,g,0,g,0,g,2,g
+74,arctic circle,large ice cream cone with chocolate and vanilla twist ice cream,8,g,30,mg,140,g,39,g,7,g,5,g,0,g,1,g,30,g
+75,arctic circle,large ice cream cone with chocolate ice cream,9,g,35,mg,150,g,40,g,9,g,5,g,0,g,2,g,32,g
+76,arctic circle,large ice cream cone with vanilla ice cream,7,g,30,mg,135,g,38,g,6,g,5,g,0,g,0,g,28,g
+77,arctic circle,large topper birthday cake,4,g,0,mg,25,g,10,g,0,g,3,g,0,g,0,g,6,g
+78,arctic circle,large topper birthday cake with chopped nuts,5,g,0,mg,25,g,10,g,1,g,3,g,0,g,0,g,6,g
+79,arctic circle,large topper birthday cake with ice cream choice chocolate,12,g,35,mg,160,g,43,g,9,g,8,g,0,g,2,g,35,g
+80,arctic circle,large topper birthday cake with ice cream choice chocolate and vanilla twist,11,g,30,mg,150,g,42,g,7,g,8,g,0,g,1,g,33,g
+81,arctic circle,large topper birthday cake with ice cream choice vanilla,11,g,30,mg,150,g,42,g,6,g,8,g,0,g,0,g,32,g
+82,arctic circle,large topper butterscotch,4,g,0,mg,15,g,9,g,0,g,3,g,0,g,0,g,5,g
+83,arctic circle,large topper butterscotch with chopped nuts,6,g,0,mg,15,g,10,g,1,g,3,g,0,g,0,g,5,g
+84,arctic circle,large topper butterscotch with ice cream choice chocolate,13,g,35,mg,150,g,43,g,9,g,8,g,0,g,2,g,34,g
+85,arctic circle,large topper butterscotch with ice cream choice chocolate and vanilla twist,12,g,30,mg,140,g,42,g,7,g,8,g,0,g,1,g,33,g
+86,arctic circle,large topper butterscotch with ice cream choice vanilla,12,g,30,mg,140,g,41,g,6,g,8,g,0,g,0,g,31,g
+87,arctic circle,large topper cherry,5,g,0,mg,15,g,9,g,0,g,4,g,0,g,0,g,5,g
+88,arctic circle,large topper cherry with chopped nuts,6,g,0,mg,15,g,9,g,1,g,4,g,0,g,0,g,5,g
+89,arctic circle,large topper cherry with ice cream choice chocolate,13,g,35,mg,150,g,42,g,9,g,9,g,0,g,2,g,34,g
+90,arctic circle,large topper cherry with ice cream choice chocolate and vanilla twist,13,g,30,mg,140,g,41,g,7,g,9,g,0,g,1,g,32,g
+91,arctic circle,large topper cherry with ice cream choice vanilla,12,g,30,mg,140,g,40,g,6,g,9,g,0,g,0,g,30,g
+92,arctic circle,large topper chocolate,4,g,0,mg,10,g,9,g,0,g,4,g,0,g,1,g,5,g
+93,arctic circle,large topper chocolate with chopped nuts,6,g,0,mg,10,g,9,g,1,g,4,g,0,g,1,g,5,g
+94,arctic circle,large topper chocolate with ice cream choice chocolate,13,g,35,mg,150,g,42,g,9,g,9,g,0,g,2,g,34,g
+95,arctic circle,large topper chocolate with ice cream choice chocolate and vanilla twist,12,g,30,mg,140,g,41,g,7,g,9,g,0,g,1,g,32,g
+96,arctic circle,large topper chocolate with ice cream choice vanilla,12,g,30,mg,135,g,41,g,6,g,9,g,0,g,1,g,31,g
+97,arctic circle,large waffle topper birthday cake,4,g,0,mg,60,g,21,g,1,g,3,g,0,g,0,g,9,g
+98,arctic circle,large waffle topper birthday cake with chopped nuts,5,g,0,mg,60,g,22,g,2,g,3,g,0,g,1,g,10,g
+99,arctic circle,large waffle topper birthday cake with ice cream choice chocolate,12,g,35,mg,190,g,55,g,10,g,8,g,0,g,2,g,39,g
+100,arctic circle,large waffle topper birthday cake with ice cream choice chocolate and vanilla twist,12,g,30,mg,190,g,54,g,8,g,8,g,0,g,1,g,37,g
+101,arctic circle,large waffle topper birthday cake with ice cream choice vanilla,11,g,30,mg,180,g,53,g,7,g,8,g,0,g,0,g,35,g
+102,arctic circle,large waffle topper butterscotch,5,g,0,mg,55,g,21,g,1,g,3,g,0,g,0,g,9,g
+103,arctic circle,large waffle topper butterscotch with chopped nuts,6,g,0,mg,55,g,21,g,2,g,4,g,0,g,1,g,9,g
+104,arctic circle,large waffle topper butterscotch with ice cream choice chocolate,13,g,35,mg,190,g,54,g,10,g,8,g,0,g,2,g,38,g
+105,arctic circle,large waffle topper butterscotch with ice cream choice chocolate and vanilla twist,13,g,30,mg,180,g,53,g,8,g,8,g,0,g,1,g,36,g
+106,arctic circle,large waffle topper butterscotch with ice cream choice vanilla,12,g,30,mg,180,g,52,g,7,g,8,g,0,g,0,g,35,g
+107,arctic circle,large waffle topper cherry,5,g,0,mg,50,g,20,g,1,g,4,g,0,g,0,g,8,g
+108,arctic circle,large waffle topper cherry with chopped nuts,7,g,0,mg,50,g,21,g,2,g,4,g,0,g,1,g,8,g
+109,arctic circle,large waffle topper cherry with ice cream choice chocolate,14,g,35,mg,180,g,54,g,10,g,9,g,0,g,2,g,38,g
+110,arctic circle,large waffle topper cherry with ice cream choice chocolate and vanilla twist,13,g,30,mg,180,g,53,g,8,g,9,g,0,g,1,g,36,g
+111,arctic circle,large waffle topper cherry with ice cream choice vanilla,12,g,30,mg,170,g,52,g,7,g,9,g,0,g,0,g,34,g
+112,arctic circle,large waffle topper chocolate,5,g,0,mg,50,g,20,g,1,g,4,g,0,g,1,g,9,g
+113,arctic circle,large waffle topper chocolate with chopped nuts,6,g,0,mg,50,g,21,g,2,g,4,g,0,g,1,g,9,g
+114,arctic circle,large waffle topper chocolate with ice cream choice chocolate,13,g,35,mg,180,g,54,g,10,g,9,g,0,g,2,g,38,g
+115,arctic circle,large waffle topper chocolate with ice cream choice chocolate and vanilla twist,13,g,30,mg,180,g,53,g,8,g,9,g,0,g,2,g,36,g
+116,arctic circle,large waffle topper chocolate with ice cream choice vanilla,12,g,30,mg,170,g,52,g,7,g,9,g,0,g,1,g,34,g
+117,arctic circle,lime rickey kids,0,g,0,mg,30,g,31,g,0,g,0,g,0,g,0,g,30,g
+118,arctic circle,lime rickey large,0,g,0,mg,80,g,81,g,0,g,0,g,0,g,1,g,78,g
+119,arctic circle,lime rickey medium,0,g,0,mg,55,g,53,g,0,g,0,g,0,g,1,g,51,g
+120,arctic circle,lime rickey small,0,g,0,mg,40,g,39,g,0,g,0,g,0,g,0,g,38,g
+121,arctic circle,lime squeeze kids,0,g,0,mg,25,g,27,g,0,g,0,g,0,g,0,g,26,g
+122,arctic circle,lime squeeze large,0,g,0,mg,65,g,69,g,0,g,0,g,0,g,1,g,66,g
+123,arctic circle,lime squeeze medium,0,g,0,mg,40,g,45,g,0,g,0,g,0,g,1,g,43,g
+124,arctic circle,lime squeeze small,0,g,0,mg,35,g,35,g,0,g,0,g,0,g,0,g,34,g
+125,arctic circle,mango tropics smoothie,0,g,0,mg,0,g,53,g,2,g,0,g,0,g,2,g,53,g
+126,arctic circle,milk,5,g,25,mg,140,g,15,g,10,g,3,g,0,g,0,g,14,g
+127,arctic circle,mini corn dogs,18,g,30,mg,640,g,24,g,9,g,5,g,0,g,0,g,9,g
+128,arctic circle,mini corn dogs with ketchup packet,18,g,30,mg,720,g,26,g,9,g,5,g,0,g,0,g,11,g
+129,arctic circle,mini corn dogs with mustard packet,18,g,30,mg,700,g,24,g,9,g,5,g,0,g,0,g,9,g
+130,arctic circle,mountain dew 12 fluid ounces,0,g,0,mg,45,g,29,g,0,g,0,g,0,g,0,g,29,g
+131,arctic circle,mountain dew 16 fluid ounces,0,g,0,mg,65,g,39,g,0,g,0,g,0,g,0,g,39,g
+132,arctic circle,mountain dew 20 fluid ounces,0,g,0,mg,80,g,48,g,0,g,0,g,0,g,0,g,48,g
+133,arctic circle,mountain dew 32 fluid ounces,0,g,0,mg,125,g,78,g,0,g,0,g,0,g,0,g,78,g
+134,arctic circle,mug root beer 12 fluid ounces,0,g,0,mg,40,g,27,g,0,g,0,g,0,g,0,g,26,g
+135,arctic circle,mug root beer 16 fluid ounces,0,g,0,mg,55,g,36,g,0,g,0,g,0,g,0,g,35,g
+136,arctic circle,mug root beer 20 fluid ounces,0,g,0,mg,70,g,45,g,0,g,0,g,0,g,0,g,44,g
+137,arctic circle,mug root beer 32 fluid ounces,0,g,0,mg,115,g,73,g,0,g,0,g,0,g,0,g,70,g
+138,arctic circle,orange juice,0,g,0,mg,45,g,38,g,0,g,0,g,0,g,0,g,38,g
+139,arctic circle,orange soda 12 fluid ounces,0,g,0,mg,30,g,31,g,0,g,0,g,0,g,0,g,31,g
+140,arctic circle,orange soda 16 fluid ounces,0,g,0,mg,40,g,42,g,0,g,0,g,0,g,0,g,42,g
+141,arctic circle,orange soda 20 fluid ounces,0,g,0,mg,45,g,52,g,0,g,0,g,0,g,0,g,52,g
+142,arctic circle,orange soda 32 fluid ounces,0,g,0,mg,75,g,83,g,0,g,0,g,0,g,0,g,83,g
+143,arctic circle,pepsi 12 fluid ounces,0,g,0,mg,25,g,25,g,0,g,0,g,0,g,0,g,25,g
+144,arctic circle,pepsi 16 fluid ounces,0,g,0,mg,30,g,34,g,0,g,0,g,0,g,0,g,34,g
+145,arctic circle,pepsi 20 fluid ounces,0,g,0,mg,40,g,42,g,0,g,0,g,0,g,0,g,42,g
+146,arctic circle,pepsi 32 fluid ounces,0,g,0,mg,65,g,68,g,0,g,0,g,0,g,0,g,68,g
+147,arctic circle,pineapple paradise smoothie,0,g,0,mg,0,g,54,g,1,g,0,g,0,g,2,g,53,g
+148,arctic circle,premium squeeze,0,g,0,mg,40,g,45,g,0,g,0,g,0,g,1,g,43,g
+149,arctic circle,premium squeeze with blackberry syrup,0,g,0,mg,50,g,69,g,0,g,0,g,0,g,1,g,67,g
+150,arctic circle,premium squeeze with cotton candy syrup,0,g,0,mg,40,g,71,g,0,g,0,g,0,g,1,g,69,g
+151,arctic circle,premium squeeze with huckleberry syrup,0,g,0,mg,40,g,73,g,0,g,0,g,0,g,1,g,70,g
+152,arctic circle,premium squeeze with mango syrup,0,g,0,mg,40,g,77,g,0,g,0,g,0,g,1,g,75,g
+153,arctic circle,premium squeeze with peach syrup,0,g,0,mg,45,g,70,g,0,g,0,g,0,g,1,g,67,g
+154,arctic circle,premium squeeze with raspberry syrup,0,g,0,mg,50,g,69,g,0,g,0,g,0,g,1,g,67,g
+155,arctic circle,premium squeeze with strawberry syrup,0,g,0,mg,50,g,69,g,0,g,0,g,0,g,1,g,65,g
+156,arctic circle,raspberry lemonade,0,g,0,mg,170,g,41,g,0,g,0,g,0,g,1,g,36,g
+157,arctic circle,reeses peanut butter cup cookie,37,g,40,mg,450,g,67,g,11,g,17,g,0,g,3,g,45,g
+158,arctic circle,root beer float large,7,g,30,mg,200,g,79,g,6,g,5,g,0,g,0,g,71,g
+159,arctic circle,root beer float medium,5,g,20,mg,140,g,57,g,4,g,3,g,0,g,0,g,52,g
+160,arctic circle,root beer float small,4,g,15,mg,100,g,41,g,3,g,3,g,0,g,0,g,37,g
+161,arctic circle,smores cookie,24,g,50,mg,320,g,82,g,6,g,12,g,0,g,4,g,52,g
+162,arctic circle,sausage biscuit and gravy,23,g,40,mg,840,g,28,g,10,g,10,g,0,g,1,g,4,g
+163,arctic circle,sierra mist 12 fluid ounces,0,g,0,mg,25,g,24,g,0,g,0,g,0,g,0,g,24,g
+164,arctic circle,sierra mist 16 fluid ounces,0,g,0,mg,30,g,33,g,0,g,0,g,0,g,0,g,33,g
+165,arctic circle,sierra mist 20 fluid ounces,0,g,0,mg,40,g,41,g,0,g,0,g,0,g,0,g,41,g
+166,arctic circle,sierra mist 32 fluid ounces,0,g,0,mg,65,g,65,g,0,g,0,g,0,g,0,g,65,g
+167,arctic circle,small flavor burst cone,5,g,20,mg,95,g,27,g,4,g,3,g,0,g,0,g,20,g
+168,arctic circle,small flavor burst cone with banana flavor burst syrup,5,g,20,mg,95,g,36,g,4,g,3,g,0,g,0,g,29,g
+169,arctic circle,small flavor burst cone with blue raspberry flavor burst syrup,5,g,20,mg,95,g,36,g,4,g,3,g,0,g,0,g,29,g
+170,arctic circle,small flavor burst cone with butter pecan flavor burst syrup,5,g,20,mg,180,g,36,g,4,g,3,g,0,g,0,g,29,g
+171,arctic circle,small flavor burst cone with cherry flavor burst syrup,5,g,20,mg,95,g,36,g,4,g,3,g,0,g,0,g,29,g
+172,arctic circle,small flavor burst cone with cotton candy flavor burst syrup,5,g,20,mg,95,g,36,g,4,g,3,g,0,g,0,g,29,g
+173,arctic circle,small flavor burst cone with green apple flavor burst syrup,5,g,20,mg,95,g,36,g,4,g,3,g,0,g,0,g,29,g
+174,arctic circle,small flavor burst cone with root beer flavor burst syrup,5,g,20,mg,95,g,36,g,4,g,3,g,0,g,0,g,29,g
+175,arctic circle,small flavor burst cone with strawberry flavor burst syrup,5,g,20,mg,95,g,36,g,4,g,3,g,0,g,0,g,29,g
+176,arctic circle,small flavor burst cone with tropical orange flavor burst,5,g,20,mg,95,g,36,g,4,g,3,g,0,g,0,g,29,g
+177,arctic circle,small flavor burst waffle cone,5,g,20,mg,130,g,39,g,5,g,4,g,0,g,0,g,24,g
+178,arctic circle,small flavor burst waffle cone with banana flavor burst syrup,5,g,20,mg,130,g,48,g,5,g,4,g,0,g,0,g,32,g
+179,arctic circle,small flavor burst waffle cone with blue raspberry flavor burst syrup,5,g,20,mg,130,g,48,g,5,g,4,g,0,g,0,g,32,g
+180,arctic circle,small flavor burst waffle cone with butter pecan flavor burst syrup,5,g,20,mg,220,g,48,g,5,g,4,g,0,g,0,g,32,g
+181,arctic circle,small flavor burst waffle cone with cherry flavor burst syrup,5,g,20,mg,130,g,48,g,5,g,4,g,0,g,0,g,32,g
+182,arctic circle,small flavor burst waffle cone with cotton candy flavor burst syrup,5,g,20,mg,130,g,48,g,5,g,4,g,0,g,0,g,32,g
+183,arctic circle,small flavor burst waffle cone with green apple flavor burst syrup,5,g,20,mg,130,g,48,g,5,g,4,g,0,g,0,g,32,g
+184,arctic circle,small flavor burst waffle cone with root beer flavor burst syrup,5,g,20,mg,130,g,48,g,5,g,4,g,0,g,0,g,32,g
+185,arctic circle,small flavor burst waffle cone with strawberry flavor burst syrup,5,g,20,mg,130,g,48,g,5,g,4,g,0,g,0,g,32,g
+186,arctic circle,small flavor burst waffle cone with tropical orange flavor burst,5,g,20,mg,130,g,48,g,5,g,4,g,0,g,0,g,32,g
+187,arctic circle,small ice cream cone,0,g,0,mg,10,g,6,g,0,g,0,g,0,g,0,g,2,g
+188,arctic circle,small ice cream cone with chocolate and vanilla twist ice cream,6,g,25,mg,110,g,31,g,6,g,4,g,0,g,1,g,23,g
+189,arctic circle,small ice cream cone with chocolate ice cream,6,g,25,mg,110,g,31,g,7,g,4,g,0,g,1,g,24,g
+190,arctic circle,small ice cream cone with vanilla ice cream,6,g,20,mg,105,g,30,g,5,g,4,g,0,g,0,g,22,g
+191,arctic circle,small topper birthday cake,4,g,0,mg,25,g,10,g,0,g,3,g,0,g,0,g,6,g
+192,arctic circle,small topper birthday cake with chopped nuts,5,g,0,mg,25,g,10,g,1,g,3,g,0,g,0,g,6,g
+193,arctic circle,small topper birthday cake with ice cream choice chocolate,9,g,25,mg,115,g,32,g,6,g,6,g,0,g,1,g,25,g
+194,arctic circle,small topper birthday cake with ice cream choice chocolate and vanilla twist,9,g,20,mg,110,g,32,g,5,g,6,g,0,g,1,g,24,g
+195,arctic circle,small topper birthday cake with ice cream choice vanilla,8,g,20,mg,105,g,31,g,4,g,6,g,0,g,0,g,23,g
+196,arctic circle,small topper butterscotch,4,g,0,mg,15,g,9,g,0,g,3,g,0,g,0,g,5,g
+197,arctic circle,small topper butterscotch with chopped nuts,6,g,0,mg,15,g,10,g,1,g,3,g,0,g,0,g,5,g
+198,arctic circle,small topper butterscotch with ice cream choice chocolate,10,g,25,mg,105,g,32,g,6,g,7,g,0,g,1,g,24,g
+199,arctic circle,small topper butterscotch with ice cream choice chocolate and vanilla twist,10,g,20,mg,100,g,31,g,5,g,7,g,0,g,1,g,23,g
+200,arctic circle,small topper butterscotch with ice cream choice vanilla,9,g,20,mg,100,g,30,g,4,g,7,g,0,g,0,g,22,g
+201,arctic circle,small topper cherry,5,g,0,mg,15,g,9,g,0,g,4,g,0,g,0,g,5,g
+202,arctic circle,small topper cherry with chopped nuts,6,g,0,mg,15,g,9,g,1,g,4,g,0,g,0,g,5,g
+203,arctic circle,small topper cherry with ice cream choice chocolate,10,g,25,mg,105,g,31,g,6,g,7,g,0,g,1,g,24,g
+204,arctic circle,small topper cherry with ice cream choice chocolate and vanilla twist,10,g,20,mg,100,g,30,g,5,g,7,g,0,g,1,g,23,g
+205,arctic circle,small topper cherry with ice cream choice vanilla,10,g,20,mg,95,g,30,g,4,g,7,g,0,g,0,g,22,g
+206,arctic circle,small topper chocolate,4,g,0,mg,10,g,9,g,0,g,4,g,0,g,1,g,5,g
+207,arctic circle,small topper chocolate with chopped nuts,6,g,0,mg,10,g,9,g,1,g,4,g,0,g,1,g,5,g
+208,arctic circle,small topper chocolate with ice cream choice chocolate,10,g,25,mg,100,g,31,g,6,g,7,g,0,g,2,g,24,g
+209,arctic circle,small topper chocolate with ice cream choice chocolate and vanilla twist,10,g,20,mg,95,g,31,g,5,g,7,g,0,g,1,g,23,g
+210,arctic circle,small topper chocolate with ice cream choice vanilla,9,g,20,mg,95,g,30,g,4,g,7,g,0,g,1,g,22,g
+211,arctic circle,southern bbq bacon burger,27,g,90,mg,1490,g,56,g,38,g,10,g,0,g,2,g,15,g
+212,arctic circle,strawberry lemonade,0,g,0,mg,90,g,21,g,0,g,0,g,0,g,0,g,18,g
+213,arctic circle,strawberry smoothie,0,g,0,mg,0,g,54,g,0,g,0,g,0,g,2,g,53,g
+214,arctic circle,taco,9,g,25,mg,230,g,16,g,9,g,4,g,0,g,2,g,1,g
+215,arctic circle,taco with salsa cup,9,g,25,mg,550,g,19,g,9,g,4,g,0,g,2,g,4,g
+216,arctic circle,taco with taco sauce,9,g,25,mg,290,g,16,g,9,g,4,g,0,g,2,g,2,g
+217,arctic circle,triple chocolate cookie,28,g,45,mg,290,g,78,g,7,g,14,g,0,g,3,g,48,g
+218,arctic circle,tropicana fruit punch 12 fluid ounces,0,g,0,mg,25,g,28,g,0,g,0,g,0,g,0,g,28,g
+219,arctic circle,tropicana fruit punch 16 fluid ounces,0,g,0,mg,30,g,38,g,0,g,0,g,0,g,0,g,38,g
+220,arctic circle,tropicana fruit punch 20 fluid ounces,0,g,0,mg,40,g,47,g,0,g,0,g,0,g,0,g,47,g
+221,arctic circle,tropicana fruit punch 32 fluid ounces,0,g,0,mg,65,g,75,g,0,g,0,g,0,g,0,g,75,g
+222,arctic circle,tropicana lemonade 12 fluid ounces,0,g,0,mg,60,g,2,g,0,g,0,g,0,g,0,g,0,g
+223,arctic circle,tropicana lemonade 16 fluid ounces,0,g,0,mg,80,g,3,g,0,g,0,g,0,g,0,g,0,g
+224,arctic circle,tropicana lemonade 20 fluid ounces,0,g,0,mg,100,g,3,g,0,g,0,g,0,g,0,g,0,g
+225,arctic circle,tropicana lemonade 32 fluid ounces,0,g,0,mg,160,g,5,g,0,g,0,g,0,g,0,g,0,g
+226,arctic circle,tropicana lite lemonade 12 fluid ounces,0,g,0,mg,10,g,2,g,0,g,0,g,0,g,0,g,2,g
+227,arctic circle,tropicana lite lemonade 16 fluid ounces,0,g,0,mg,15,g,3,g,0,g,0,g,0,g,0,g,3,g
+228,arctic circle,tropicana lite lemonade 20 fluid ounces,0,g,0,mg,15,g,3,g,0,g,0,g,0,g,0,g,3,g
+229,arctic circle,tropicana lite lemonade 32 fluid ounces,0,g,0,mg,25,g,5,g,0,g,0,g,0,g,0,g,5,g
+230,arctic circle,tropicana pink lemonade 12 fluid ounces,0,g,0,mg,55,g,25,g,0,g,0,g,0,g,0,g,24,g
+231,arctic circle,tropicana pink lemonade 16 fluid ounces,0,g,0,mg,75,g,34,g,0,g,0,g,0,g,0,g,33,g
+232,arctic circle,tropicana pink lemonade 20 fluid ounces,0,g,0,mg,95,g,42,g,0,g,0,g,0,g,0,g,41,g
+233,arctic circle,tropicana pink lemonade 32 fluid ounces,0,g,0,mg,150,g,68,g,0,g,0,g,0,g,0,g,65,g
+234,arctic circle,turkey burger,26,g,90,mg,1140,g,42,g,32,g,7,g,0,g,6,g,7,g
+235,arctic circle,waffle cone,1,g,0,mg,50,g,18,g,1,g,0,g,0,g,0,g,6,g
+236,arctic circle,waffle cone with chocolate and vanilla twist ice cream,8,g,30,mg,180,g,50,g,8,g,5,g,0,g,1,g,34,g
+237,arctic circle,waffle cone with chocolate ice cream,9,g,35,mg,180,g,51,g,10,g,5,g,0,g,2,g,36,g
+238,arctic circle,waffle cone with vanilla ice cream,8,g,30,mg,170,g,49,g,7,g,5,g,0,g,0,g,32,g
+239,atlanta bread company,multi whole grain bagel,6,g,0,mg,600,g,58,g,13,g,1,g,0,g,6,g,10,g
+240,atlanta bread company,everything bagel,2.5,g,0,mg,920,g,66,g,12,g,0,g,0,g,5,g,8,g
+241,atlanta bread company,plain bagel,1,g,0,mg,620,g,64,g,11,g,0,g,0,g,4,g,7,g
+242,atlanta bread company,sesame seed bagel,4,g,0,mg,620,g,65,g,12,g,0,g,0,g,5,g,7,g
+243,atlanta bread company,onion bagel,1.5,g,0,mg,600,g,63,g,12,g,0,g,0,g,4,g,6,g
+244,atlanta bread company,poppy seed bagel,3.5,g,0,mg,620,g,66,g,12,g,0,g,0,g,5,g,7,g
+245,atlanta bread company,blueberry bagel,1,g,0,mg,580,g,67,g,11,g,0,g,0,g,4,g,13,g
+246,atlanta bread company,cinnamon raisin bagel,1,g,0,mg,510,g,67,g,11,g,0,g,0,g,5,g,14,g
+247,atlanta bread company,california veggie wrap,31,g,10,mg,719,g,67,g,13,g,8,g,0,g,12,g,6,g
+248,atlanta bread company,sticky bun,28,g,80,mg,280,g,55,g,7,g,17,g,1,g,1,g,26,g
+249,atlanta bread company,blueberry muffin top,7,g,1,mg,313,g,27,g,3,g,2,g,0,g,1,g,9,g
+250,atlanta bread company,sourdough bread,0,g,0,mg,270,g,26,g,5,g,1,g,0,g,1,g,1,g
+251,atlanta bread company,strawberries and cream croissant,17,g,45,mg,250,g,43,g,6,g,11,g,0.5,g,2,g,14,g
+252,atlanta bread company,apple danish,20,g,65,mg,320,g,63,g,7,g,12,g,0.5,g,1,g,32,g
+253,atlanta bread company,pumpernickel bread,1.5,g,0,mg,390,g,28,g,5,g,1,g,0,g,1,g,1,g
+254,atlanta bread company,banana nut muffin top,11,g,36,mg,257,g,31,g,2,g,2,g,0,g,1,g,15,g
+255,atlanta bread company,banana nut muffin,22,g,1,mg,515,g,60,g,8,g,4,g,0,g,2,g,31,g
+256,atlanta bread company,chocolate chip muffin top,11,g,2,mg,283,g,33,g,4,g,3,g,0,g,1,g,17,g
+257,atlanta bread company,honey wheat bread,2,g,0,mg,310,g,26,g,5,g,1,g,0,g,1,g,3,g
+258,atlanta bread company,nine grain bread,842,g,0,mg,117880,g,11367,g,2526,g,421,g,0,g,842,g,1263,g
+259,atlanta bread company,cinnamon roll,33,g,65,mg,290,g,91,g,7,g,18,g,0.5,g,2,g,59,g
+260,atlanta bread company,french baguette,0.5,g,0,mg,250,g,26,g,5,g,0,g,0,g,1,g,1,g
+261,atlanta bread company,magic pumpkin nut muffin,20,g,0,mg,304,g,58,g,6,g,3,g,0,g,2,g,35,g
+262,atlanta bread company,almond croissant,40,g,115,mg,260,g,66,g,12,g,19,g,1,g,4,g,27,g
+263,atlanta bread company,panini or foccacia bread,5,g,0,mg,480,g,45,g,9,g,0.5,g,0,g,1,g,5,g
+264,atlanta bread company,blueberry muffin,15,g,2,mg,626,g,53,g,5,g,3,g,0,g,1,g,25,g
+265,atlanta bread company,french croissant,22,g,60,mg,250,g,35,g,7,g,14,g,0.5,g,1,g,6,g
+266,atlanta bread company,asiago cheese bagel,10,g,25,mg,890,g,64,g,18,g,6,g,0,g,4,g,7,g
+267,atlanta bread company,chocolate chip muffin,21,g,4,mg,565,g,66,g,8,g,6,g,0,g,2,g,34,g
+268,atlanta bread company,rye bread,5,g,10,mg,290,g,28,g,5,g,3,g,0,g,2,g,1,g
+269,atlanta bread company,pecan roll,59,g,80,mg,280,g,61,g,11,g,20,g,1,g,5,g,27,g
+270,atlanta bread company,cheese croissant,23,g,60,mg,320,g,46,g,7,g,14,g,0.5,g,1,g,17,g
+271,atlanta bread company,multigrain cranberry bread,2,g,0,mg,250,g,34,g,5,g,0,g,0,g,2,g,9,g
+272,atlanta bread company,cheese danish,24,g,75,mg,350,g,61,g,7,g,15,g,0.5,g,1,g,31,g
+273,atlanta bread company,apple croissant,17,g,45,mg,310,g,64,g,6,g,11,g,0,g,1,g,34,g
+274,atlanta bread company,chocolate croissant,22,g,45,mg,240,g,48,g,7,g,14,g,0,g,2,g,21,g
+275,atlanta bread company,hot chocolate short,5,g,20,mg,155,g,60,g,8,g,3,g,0,g,0,g,50,g
+276,atlanta bread company,hot chocolate tall,8,g,30,mg,233,g,90,g,12,g,5,g,0,g,0,g,75,g
+277,atlanta bread company,florentine omelette,34,g,588,mg,1750,g,82,g,40,g,12,g,0,g,3,g,5,g
+278,atlanta bread company,egg cheese and bacon breakfast bagel sandwich,11,g,222,mg,776,g,69,g,22,g,4,g,0,g,1,g,6,g
+279,atlanta bread company,spanish omelette,35,g,598,mg,2288,g,84,g,39,g,13,g,0,g,3,g,7,g
+280,atlanta bread company,tomato and bacon omelette,47,g,565,mg,1570,g,25,g,41,g,18,g,0,g,5,g,3,g
+281,atlanta bread company,egg cheese and pork sausage breakfast croissant sandwich,32,g,306,mg,830,g,42,g,24,g,15,g,0,g,2,g,6,g
+282,atlanta bread company,egg white cheese and turkey sausage breakfast bagel sandwich,14,g,57,mg,1056,g,68,g,29,g,5,g,0,g,1,g,5,g
+283,atlanta bread company,egg cheese and bacon breakfast croissant sandwich,24,g,260,mg,580,g,43,g,17,g,13,g,0,g,2,g,6,g
+284,atlanta bread company,egg cheese and ham breakfast bagel sandwich,13,g,248,mg,1161,g,69,g,31,g,4,g,0,g,1,g,6,g
+285,atlanta bread company,egg cheese and ham breakfast croissant sandwich,26,g,286,mg,965,g,43,g,26,g,13,g,0,g,2,g,6,g
+286,atlanta bread company,scrambled eggs,15,g,500,mg,620,g,2,g,17,g,6,g,0,g,0,g,1,g
+287,atlanta bread company,egg white cheese and turkey sausage breakfast croissant sandwich,27,g,94,mg,860,g,42,g,25,g,14,g,0,g,2,g,6,g
+288,atlanta bread company,egg cheese and pork sausage breakfast bagel sandwich,19,g,269,mg,1026,g,69,g,29,g,6,g,0,g,1,g,6,g
+289,atlanta bread company,greek yogurt parfait with granola,25,g,11,mg,60,g,76,g,26,g,3,g,0,g,8,g,4,g
+290,atlanta bread company,egg and cheese breakfast croissant sandwich,30,g,282,mg,757,g,43,g,23,g,15,g,0,g,2,g,7,g
+291,atlanta bread company,ham and swiss omelette,39,g,626,mg,1892,g,79,g,51,g,15,g,0,g,2,g,4,g
+292,atlanta bread company,egg and cheese breakfast bagel sandwich,17,g,245,mg,953,g,69,g,27,g,6,g,0,g,1,g,6,g
+293,atlanta bread company,cream cheese side,12,g,40,mg,190,g,4,g,4,g,8,g,0,g,0,g,2,g
+294,atlanta bread company,kids peanut butter and jelly sandwich,35,g,25,mg,986,g,125,g,19,g,14,g,0,g,6,g,52,g
+295,atlanta bread company,kids grilled cheese sandwich,37,g,77,mg,1035,g,100,g,20,g,21,g,0,g,4,g,32,g
+296,atlanta bread company,kid penne pasta,36,g,30,mg,330,g,62,g,19,g,10,g,0,g,4,g,1,g
+297,atlanta bread company,asiago cream pasta,71,g,145,mg,960,g,70,g,27,g,30,g,1,g,5,g,6,g
+298,atlanta bread company,basil pesto pasta,61,g,45,mg,1200,g,75,g,30,g,15,g,0,g,11,g,4,g
+299,atlanta bread company,chopstix chicken salad with dressing,46,g,42,mg,1598,g,80,g,29,g,7,g,2,g,7,g,30,g
+300,atlanta bread company,greek salad with dressing,51,g,51,mg,2669,g,40,g,20,g,16,g,0,g,5,g,8,g
+301,atlanta bread company,caesar salad with dressing,55,g,53,mg,1125,g,60,g,21,g,7,g,0,g,7,g,3,g
+302,atlanta bread company,cobb salad with dressing,17,g,88,mg,827,g,32,g,17,g,7,g,0,g,5,g,3,g
+303,atlanta bread company,chardonnay brie salad without dressing,16,g,40,mg,340,g,18,g,12,g,8,g,0,g,4,g,12,g
+304,atlanta bread company,balsamic bleu salad with dressing,44,g,20,mg,775,g,40,g,11,g,10,g,0,g,6,g,28,g
+305,atlanta bread company,house salad with dressing,29,g,5,mg,779,g,43,g,8,g,5,g,0,g,5,g,8,g
+306,atlanta bread company,add on chicken breast,4,g,75,mg,360,g,2,g,24,g,1,g,0,g,0,g,0,g
+307,atlanta bread company,add on shrimp,0,g,270,mg,160,g,0,g,34,g,0,g,0,g,0,g,0,g
+308,atlanta bread company,add on wild alaskan salmon,9,g,65,mg,110,g,0,g,23,g,1.5,g,0,g,0,g,0,g
+309,atlanta bread company,hot pastrami sandwich,32,g,135,mg,2854,g,64,g,52,g,16,g,0,g,5,g,8,g
+310,atlanta bread company,chicken parmesan panini sandwich,45,g,65,mg,1600,g,87,g,43,g,11,g,0,g,9,g,10,g
+311,atlanta bread company,california avocado signature sandwich,53,g,30,mg,1101,g,61,g,20,g,12,g,0,g,13,g,9,g
+312,atlanta bread company,tuna salad sandwich,38,g,40,mg,1919,g,60,g,37,g,6,g,0,g,3,g,4,g
+313,atlanta bread company,chicken pesto panini sandwich,30,g,99,mg,1616,g,76,g,37,g,13,g,0,g,3,g,10,g
+314,atlanta bread company,roasted turkey sandwich with kettle chips,25,g,44,mg,1735,g,74,g,33,g,4,g,0,g,6,g,8,g
+315,atlanta bread company,chicken salad sandwich on sourdough bread,42,g,55,mg,1519,g,57,g,32,g,7,g,0,g,3,g,4,g
+316,atlanta bread company,cubano panini,41,g,102,mg,2134,g,75,g,45,g,15,g,0,g,3,g,9,g
+317,atlanta bread company,turkey club panini,44,g,98,mg,2634,g,94,g,47,g,13,g,0,g,3,g,26,g
+318,atlanta bread company,abc signature sandwich,39,g,94,mg,2638,g,54,g,45,g,10,g,0,g,3,g,4,g
+319,atlanta bread company,bella chicken signature sandwich,39,g,115,mg,1684,g,46,g,51,g,10,g,0,g,2,g,6,g
+320,atlanta bread company,abc sandwich with kettle chips,48,g,94,mg,2738,g,70,g,46,g,12,g,0,g,4,g,4,g
+321,atlanta bread company,beef and bleu flatbread,43,g,60,mg,1530,g,63,g,38,g,15,g,0,g,4,g,6,g
+322,atlanta bread company,tuna salad sandwith with kettle chips,47,g,40,mg,2019,g,76,g,38,g,7,g,0,g,4,g,4,g
+323,atlanta bread company,roasted turkey sandwich,16,g,44,mg,1635,g,58,g,32,g,3,g,0,g,5,g,8,g
+324,atlanta bread company,turkey club panini with kettle chips,53,g,98,mg,2734,g,110,g,48,g,15,g,0,g,4,g,26,g
+325,atlanta bread company,ham sandwich with kettle chips,29,g,53,mg,1970,g,72,g,29,g,5,g,0,g,4,g,8,g
+326,atlanta bread company,turkey bacon avocado sandwich,34,g,68,mg,1905,g,76,g,41,g,7,g,0,g,10,g,19,g
+327,atlanta bread company,turkey bacon avocado sandwich with kettle chips,43,g,68,mg,2005,g,92,g,42,g,9,g,0,g,11,g,19,g
+328,atlanta bread company,french onion soup,8,g,20,mg,1700,g,14,g,6,g,4,g,0,g,2,g,4,g
+329,atlanta bread company,new england clam chowder,10,g,25,mg,1010,g,21,g,9,g,4,g,0,g,1,g,7,g
+330,atlanta bread company,broccoli and cheese soup,16,g,50,mg,1470,g,13,g,10,g,9,g,0.5,g,2,g,3,g
+331,atlanta bread company,baked potato chowder soup,13,g,25,mg,1220,g,22,g,3,g,6,g,0,g,1,g,2,g
+332,atlanta bread company,fire roasted vegetable soup,0,g,0,mg,810,g,13,g,4,g,0,g,0,g,2,g,5,g
+333,atlanta bread company,chili with beef soup,14,g,50,mg,1090,g,27,g,21,g,5,g,1,g,6,g,9,g
+334,atlanta bread company,baja chicken enchilada soup,17,g,60,mg,1590,g,23,g,12,g,8,g,0,g,5,g,6,g
+335,atlanta bread company,chicken and dumpling soup,16,g,65,mg,1320,g,23,g,8,g,7,g,0,g,1,g,3,g
+336,atlanta bread company,chili chicken frontier soup,9,g,35,mg,1480,g,25,g,16,g,2.5,g,0,g,5,g,8,g
+337,atlanta bread company,chicken and organic wild rice soup,12,g,160,mg,1350,g,21,g,7,g,7,g,0,g,1,g,1,g
+338,atlanta bread company,chicken noodle soup,3.5,g,30,mg,1060,g,16,g,9,g,1,g,0,g,1,g,1,g
+339,atlanta bread company,abc signature sandwich,39,g,95,mg,2640,g,54,g,45,g,10,g,0,g,3,g,4,g
+340,atlanta bread company,abc signature sandwich with kettle chips,48,g,95,mg,2740,g,70,g,46,g,12,g,0,g,4,g,4,g
+341,atlanta bread company,add on chicken breast,4,g,75,mg,360,g,2,g,24,g,1,g,0,g,0,g,0,g
+342,atlanta bread company,add on shrimp,0,g,270,mg,160,g,0,g,34,g,0,g,0,g,0,g,0,g
+343,atlanta bread company,add on wild alaskan salmon,9,g,65,mg,110,g,0,g,23,g,1.5,g,0,g,0,g,0,g
+344,atlanta bread company,almond croissant,40,g,115,mg,260,g,66,g,12,g,19,g,1,g,4,g,27,g
+345,atlanta bread company,apple,0,g,0,mg,0,g,25,g,0,g,0,g,0,g,4,g,19,g
+346,atlanta bread company,apple croissant,17,g,45,mg,310,g,64,g,6,g,11,g,0,g,1,g,34,g
+347,atlanta bread company,apple danish,20,g,65,mg,320,g,63,g,7,g,12,g,0.5,g,1,g,32,g
+348,atlanta bread company,asiago cheese bagel,10,g,25,mg,890,g,64,g,18,g,6,g,0,g,4,g,7,g
+349,atlanta bread company,asiago cream pasta,71,g,145,mg,960,g,70,g,27,g,30,g,1,g,5,g,6,g
+350,atlanta bread company,baja chicken enchilada soup,17,g,55,mg,1590,g,23,g,12,g,8,g,0,g,5,g,6,g
+351,atlanta bread company,baked potato chowder soup,13,g,30,mg,1190,g,23,g,2,g,6,g,0,g,1,g,2,g
+352,atlanta bread company,balsamic blue salad,44,g,20,mg,780,g,40,g,11,g,10,g,0,g,6,g,28,g
+353,atlanta bread company,balsamic blue salad half,23,g,10,mg,390,g,20,g,6,g,5,g,0,g,3,g,14,g
+354,atlanta bread company,banana nut muffin,22,g,0,mg,520,g,60,g,8,g,4,g,0,g,2,g,31,g
+355,atlanta bread company,banana nut muffin top,11,g,35,mg,260,g,31,g,2,g,2,g,0,g,1,g,15,g
+356,atlanta bread company,basil pesto pasta,61,g,45,mg,1200,g,75,g,30,g,15,g,0,g,11,g,4,g
+357,atlanta bread company,beef and blue flatbread,43,g,60,mg,1530,g,63,g,38,g,15,g,0,g,4,g,6,g
+358,atlanta bread company,bella chicken sandwich,39,g,115,mg,1680,g,46,g,51,g,10,g,0,g,2,g,6,g
+359,atlanta bread company,bella chicken sandwich with kettle chips,48,g,115,mg,1780,g,62,g,52,g,12,g,0,g,3,g,6,g
+360,atlanta bread company,black bean and corn salad,9,g,0,mg,190,g,24,g,5,g,1,g,0,g,5,g,5,g
+361,atlanta bread company,blueberry bagel,1,g,0,mg,580,g,67,g,11,g,0,g,0,g,4,g,13,g
+362,atlanta bread company,blueberry muffin,15,g,5,mg,630,g,53,g,5,g,3,g,0,g,1,g,25,g
+363,atlanta bread company,blueberry muffin top,7,g,0,mg,310,g,27,g,3,g,2,g,0,g,1,g,9,g
+364,atlanta bread company,broccoli cheese soup,16,g,55,mg,1460,g,13,g,10,g,10,g,0.5,g,2,g,3,g
+365,atlanta bread company,caesar salad,55,g,55,mg,1130,g,60,g,21,g,7,g,0,g,7,g,3,g
+366,atlanta bread company,caesar salad half,28,g,25,mg,560,g,30,g,11,g,4,g,0,g,4,g,2,g
+367,atlanta bread company,cafe trio,47,g,230,mg,1040,g,36,g,32,g,8,g,0,g,3,g,9,g
+368,atlanta bread company,cafechilla kona mocha,21,g,15,mg,280,g,60,g,11,g,18,g,0,g,2,g,46,g
+369,atlanta bread company,california avocado signature sandwich,53,g,30,mg,1100,g,61,g,20,g,12,g,0,g,13,g,9,g
+370,atlanta bread company,california avocado signature sandwich with kettle chips,62,g,30,mg,1200,g,77,g,21,g,13,g,0,g,14,g,9,g
+371,atlanta bread company,cappuccino short,4,g,15,mg,100,g,10,g,7,g,2,g,0,g,0,g,10,g
+372,atlanta bread company,caramel machiatto short,8,g,30,mg,150,g,48,g,11,g,5,g,0,g,0,g,44,g
+373,atlanta bread company,caramel machiatto tall,14,g,40,mg,220,g,82,g,17,g,8,g,0,g,0,g,74,g
+374,atlanta bread company,chardonnay brie salad half,8,g,20,mg,170,g,9,g,6,g,4,g,0,g,2,g,6,g
+375,atlanta bread company,cheese croissant,23,g,60,mg,320,g,46,g,7,g,14,g,0.5,g,1,g,17,g
+376,atlanta bread company,cheese danish,24,g,75,mg,350,g,61,g,7,g,15,g,0.5,g,1,g,31,g
+377,atlanta bread company,chicken dumpling soup,15,g,65,mg,1320,g,23,g,8,g,7,g,0,g,1,g,3,g
+378,atlanta bread company,chicken noodle soup,3.5,g,30,mg,1060,g,16,g,9,g,1,g,0,g,1,g,1,g
+379,atlanta bread company,chicken parmesan panini,45,g,65,mg,1600,g,87,g,43,g,11,g,0,g,9,g,10,g
+380,atlanta bread company,chicken pesto panini,30,g,100,mg,1620,g,76,g,37,g,13,g,0,g,3,g,10,g
+381,atlanta bread company,chicken pesto panini with kettle chips,39,g,100,mg,1720,g,92,g,38,g,14,g,0,g,4,g,10,g
+382,atlanta bread company,chicken salad sandwich,42,g,55,mg,1520,g,57,g,32,g,7,g,0,g,3,g,4,g
+383,atlanta bread company,chicken salad sandwich with kettle chips,51,g,55,mg,1620,g,73,g,33,g,8,g,0,g,4,g,4,g
+384,atlanta bread company,chicken with organic wild rice soup,13,g,175,mg,1520,g,23,g,9,g,7,g,0,g,1,g,1,g
+385,atlanta bread company,chili chicken frontier soup,9,g,35,mg,1480,g,25,g,16,g,2.5,g,0,g,5,g,8,g
+386,atlanta bread company,chili with beef,14,g,50,mg,1070,g,27,g,21,g,6,g,1,g,6,g,9,g
+387,atlanta bread company,chocolate chip muffin,21,g,5,mg,570,g,66,g,8,g,6,g,0,g,2,g,34,g
+388,atlanta bread company,chocolate chip muffin top,11,g,5,mg,280,g,33,g,4,g,3,g,0,g,1,g,17,g
+389,atlanta bread company,chocolate choc chip muffin,20,g,0,mg,410,g,67,g,6,g,5,g,0,g,4,g,26,g
+390,atlanta bread company,chocolate choc chip muffin top,10,g,0,mg,200,g,33,g,6,g,3,g,0,g,2,g,26,g
+391,atlanta bread company,chocolate croissant,22,g,45,mg,240,g,48,g,7,g,14,g,0,g,2,g,21,g
+392,atlanta bread company,chopstix chicken salad,46,g,40,mg,1600,g,80,g,29,g,7,g,2,g,7,g,30,g
+393,atlanta bread company,chopstix chicken salad half,23,g,20,mg,800,g,40,g,15,g,2,g,1,g,4,g,15,g
+394,atlanta bread company,cinnamon raisin bagel,1,g,0,mg,510,g,67,g,11,g,0,g,0,g,5,g,14,g
+395,atlanta bread company,cinnamon raisin bread,2.5,g,0,mg,170,g,45,g,4,g,0.5,g,0,g,1,g,26,g
+396,atlanta bread company,cinnamon roll,33,g,65,mg,290,g,91,g,7,g,18,g,0.5,g,2,g,59,g
+397,atlanta bread company,cobb salad,17,g,90,mg,830,g,32,g,17,g,7,g,0,g,5,g,3,g
+398,atlanta bread company,cobb salad half,9,g,45,mg,410,g,16,g,9,g,2,g,0,g,2,g,2,g
+399,atlanta bread company,corn chowder,18,g,10,mg,520,g,46,g,5,g,9,g,0,g,3,g,3,g
+400,atlanta bread company,cranberry nut muffin,14,g,0,mg,340,g,51,g,7,g,2,g,0,g,2,g,27,g
+401,atlanta bread company,cranberry nut muffin top,7,g,0,mg,170,g,26,g,4,g,1,g,0,g,1,g,14,g
+402,atlanta bread company,cream cheese,12,g,40,mg,190,g,4,g,4,g,8,g,0,g,0,g,2,g
+403,atlanta bread company,cuban panini,41,g,100,mg,2130,g,75,g,45,g,15,g,0,g,3,g,9,g
+404,atlanta bread company,cuban panini with kettle chips,50,g,100,mg,2230,g,91,g,46,g,16,g,0,g,4,g,9,g
+405,atlanta bread company,egg and cheese breakfast sandwich on bagel,17,g,245,mg,950,g,69,g,27,g,6,g,0,g,1,g,6,g
+406,atlanta bread company,egg and cheese breakfast sandwich on croissant,30,g,280,mg,760,g,43,g,23,g,15,g,0,g,2,g,7,g
+407,atlanta bread company,egg cheese and bacon breakfast sandwich on bagel,11,g,220,mg,780,g,69,g,22,g,4,g,0,g,1,g,6,g
+408,atlanta bread company,egg cheese and bacon breakfast sandwich on croissant,24,g,260,mg,580,g,43,g,17,g,13,g,0,g,2,g,6,g
+409,atlanta bread company,egg cheese and ham breakfast sandwich on bagel,13,g,250,mg,1160,g,69,g,31,g,4,g,0,g,1,g,6,g
+410,atlanta bread company,egg cheese and ham breakfast sandwich on croissant,26,g,285,mg,970,g,43,g,26,g,13,g,0,g,2,g,6,g
+411,atlanta bread company,egg cheese and turkey sausage breakfast sandwich on bagel,14,g,55,mg,1060,g,0,g,29,g,5,g,0,g,1,g,0,g
+412,atlanta bread company,egg cheese and turkey sausage breakfast sandwich on croissant,27,g,95,mg,860,g,42,g,25,g,14,g,0,g,2,g,6,g
+413,atlanta bread company,egg salad sandwich,49,g,380,mg,1590,g,60,g,25,g,10,g,0,g,3,g,4,g
+414,atlanta bread company,egg cheese and pork sausage breakfast sandwich on bagel,19,g,270,mg,1030,g,0,g,29,g,6,g,0,g,1,g,0,g
+415,atlanta bread company,egg cheese and pork sausage breakfast sandwich on croissant,32,g,305,mg,830,g,42,g,24,g,15,g,0,g,2,g,6,g
+416,atlanta bread company,everything bagel,2.5,g,0,mg,920,g,66,g,12,g,0,g,0,g,5,g,8,g
+417,atlanta bread company,fire roasted vegetable soup,0,g,0,mg,1990,g,5,g,4,g,0,g,0,g,2,g,5,g
+418,atlanta bread company,florentine omelette,34,g,590,mg,1750,g,82,g,40,g,12,g,0,g,3,g,5,g
+419,atlanta bread company,foccacia panini bread,5,g,0,mg,480,g,45,g,9,g,0.5,g,0,g,1,g,5,g
+420,atlanta bread company,four cheese flatbread,37,g,95,mg,1640,g,62,g,48,g,18,g,0,g,3,g,2,g
+421,atlanta bread company,french baguette,0.5,g,0,mg,250,g,26,g,5,g,0,g,0,g,1,g,1,g
+422,atlanta bread company,french bread,1,g,0,mg,290,g,24,g,5,g,0,g,0,g,1,g,1,g
+423,atlanta bread company,french croissant,22,g,60,mg,250,g,35,g,7,g,14,g,0.5,g,1,g,6,g
+424,atlanta bread company,french onion soup,2,g,5,mg,1530,g,10,g,7,g,1,g,0,g,7,g,4,g
+425,atlanta bread company,french toast,12,g,330,mg,690,g,127,g,21,g,3,g,0,g,3,g,60,g
+426,atlanta bread company,fruit salad,0,g,0,mg,20,g,27,g,2,g,0,g,0,g,2,g,23,g
+427,atlanta bread company,glorious morning muffin,27,g,0,mg,480,g,51,g,3,g,5,g,1,g,2,g,13,g
+428,atlanta bread company,granny apple cinnamon muffin,19,g,0,mg,430,g,43,g,5,g,3,g,0,g,1,g,25,g
+429,atlanta bread company,greek salad,51,g,50,mg,2670,g,40,g,20,g,16,g,0,g,5,g,8,g
+430,atlanta bread company,greek salad half,26,g,25,mg,1340,g,20,g,10,g,8,g,0,g,3,g,4,g
+431,atlanta bread company,greek yogurt with granola,25,g,10,mg,60,g,76,g,26,g,3,g,0,g,8,g,40,g
+432,atlanta bread company,grilled caprese sandwich,36,g,85,mg,1720,g,64,g,27,g,16,g,0,g,5,g,3,g
+433,atlanta bread company,grilled caprese sandwich with kettle chips,45,g,85,mg,1820,g,80,g,28,g,18,g,0,g,6,g,3,g
+434,atlanta bread company,grilled triple cheese sandwich,36,g,65,mg,960,g,55,g,24,g,16,g,0,g,0,g,3,g
+435,atlanta bread company,ham and swiss egg white omelette,16,g,65,mg,1100,g,4,g,31,g,10,g,0,g,0,g,3,g
+436,atlanta bread company,ham and swiss omelette,39,g,625,mg,1890,g,79,g,51,g,15,g,0,g,2,g,4,g
+437,atlanta bread company,ham sandwich,20,g,55,mg,1870,g,56,g,28,g,4,g,0,g,3,g,8,g
+438,atlanta bread company,ham sandwich with kettle chips,29,g,55,mg,1970,g,72,g,29,g,5,g,0,g,4,g,8,g
+439,atlanta bread company,honey wheat bread,2,g,0,mg,310,g,26,g,5,g,1,g,0,g,1,g,3,g
+440,atlanta bread company,hot chocolate short,5,g,20,mg,160,g,60,g,8,g,3,g,0,g,0,g,50,g
+441,atlanta bread company,hot chocolate tall,8,g,30,mg,230,g,90,g,12,g,5,g,0,g,0,g,75,g
+442,atlanta bread company,hot pastrami sandwich,32,g,135,mg,2850,g,64,g,52,g,16,g,0,g,5,g,8,g
+443,atlanta bread company,hot pastrami sandwich with kettle chips,41,g,135,mg,2950,g,80,g,53,g,18,g,0,g,6,g,8,g
+444,atlanta bread company,hot spiced chai tea,8,g,15,mg,190,g,52,g,9,g,7,g,0,g,0,g,46,g
+445,atlanta bread company,house salad,29,g,5,mg,780,g,43,g,8,g,5,g,0,g,5,g,8,g
+446,atlanta bread company,house salad half,15,g,5,mg,390,g,22,g,4,g,3,g,0,g,3,g,4,g
+447,atlanta bread company,iced coffee,0,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+448,atlanta bread company,italian wedding soup,5,g,10,mg,1280,g,13,g,7,g,2,g,0,g,1,g,0,g
+449,atlanta bread company,kids cheese pizza flatbread,21,g,45,mg,1380,g,70,g,35,g,11,g,0,g,4,g,8,g
+450,atlanta bread company,kids grilled cheese sandwich,37,g,75,mg,1040,g,100,g,20,g,21,g,0,g,4,g,32,g
+451,atlanta bread company,kids pb and j sandwich,35,g,25,mg,990,g,125,g,19,g,14,g,0,g,6,g,52,g
+452,atlanta bread company,kids penne,36,g,30,mg,330,g,62,g,19,g,10,g,0,g,4,g,1,g
+453,atlanta bread company,latte short,5,g,20,mg,125,g,12,g,8,g,3,g,0,g,0,g,12,g
+454,atlanta bread company,latte tall,6,g,25,mg,160,g,15,g,10,g,4,g,0,g,0,g,15,g
+455,atlanta bread company,magic pumpkin nut muffin,20,g,0,mg,300,g,58,g,6,g,3,g,0,g,2,g,35,g
+456,atlanta bread company,magic pumpkin nut muffin top,10,g,0,mg,150,g,29,g,3,g,2,g,0,g,1,g,18,g
+457,atlanta bread company,margherita flatbread,41,g,70,mg,1580,g,64,g,33,g,13,g,0,g,3,g,8,g
+458,atlanta bread company,mediterranean foccacia bread,5,g,10,mg,290,g,20,g,10,g,1,g,0,g,1,g,3,g
+459,atlanta bread company,mini brownie chocolate ganache,10,g,0,mg,65,g,19,g,2,g,2,g,0,g,1,g,12,g
+460,atlanta bread company,mini brownie plain,5,g,0,mg,65,g,17,g,1,g,2,g,0,g,1,g,11,g
+461,atlanta bread company,mini croissant,9,g,25,mg,135,g,21,g,3,g,6,g,0,g,0,g,8,g
+462,atlanta bread company,mocha short,5,g,20,mg,130,g,35,g,8,g,3,g,0,g,0,g,30,g
+463,atlanta bread company,mocha tall,6,g,25,mg,180,g,62,g,10,g,4,g,0,g,0,g,52,g
+464,atlanta bread company,morning classic bacon,30,g,585,mg,1190,g,26,g,28,g,9,g,0,g,0,g,2,g
+465,atlanta bread company,morning classic ham,25,g,590,mg,1320,g,26,g,30,g,7,g,0,g,0,g,2,g
+466,atlanta bread company,morning classic turkey sausage,40,g,595,mg,1110,g,26,g,24,g,12,g,0,g,0,g,2,g
+467,atlanta bread company,multi whole grain bagel,6,g,0,mg,600,g,58,g,13,g,1,g,0,g,6,g,10,g
+468,atlanta bread company,multigrain cranberry bread,2,g,0,mg,250,g,34,g,5,g,0,g,0,g,2,g,9,g
+469,atlanta bread company,new england clam chowder soup,10,g,25,mg,1010,g,21,g,9,g,4,g,0,g,1,g,7,g
+470,atlanta bread company,ninegrain bread,2,g,0,mg,280,g,27,g,6,g,1,g,0,g,2,g,3,g
+471,atlanta bread company,oatmeal plain,12,g,0,mg,120,g,65,g,8,g,1,g,0,g,19,g,38,g
+472,atlanta bread company,onion bagel,1.5,g,0,mg,600,g,63,g,12,g,0,g,0,g,4,g,6,g
+473,atlanta bread company,organic butternut squash soup,18,g,50,mg,860,g,33,g,3,g,11,g,0,g,2,g,13,g
+474,atlanta bread company,organic tomato basil soup,13,g,35,mg,770,g,22,g,6,g,6,g,0,g,4,g,19,g
+475,atlanta bread company,pasta bolognese,43,g,50,mg,1310,g,72,g,28,g,12,g,1,g,6,g,6,g
+476,atlanta bread company,pasta pomodoro,51,g,0,mg,0,g,0,g,0,g,18,g,0,g,0,g,0,g
+477,atlanta bread company,pasta salad,21,g,0,mg,450,g,17,g,4,g,2,g,0,g,1,g,2,g
+478,atlanta bread company,pasta salmon,51,g,90,mg,990,g,86,g,48,g,11,g,0,g,9,g,8,g
+479,atlanta bread company,pecan roll,59,g,80,mg,280,g,61,g,11,g,20,g,1,g,5,g,27,g
+480,atlanta bread company,pepperoni flatbread,31,g,65,mg,1770,g,70,g,40,g,14,g,0,g,4,g,8,g
+481,atlanta bread company,pickle spear,0,g,0,mg,280,g,1,g,0,g,0,g,0,g,0,g,0,g
+482,atlanta bread company,pineapple mango smoothie,0,g,0,mg,20,g,66,g,1,g,0,g,0,g,4,g,55,g
+483,atlanta bread company,pistachio muffin,25,g,70,mg,420,g,50,g,6,g,4,g,0,g,1,g,29,g
+484,atlanta bread company,plain bagel,1,g,0,mg,620,g,64,g,11,g,0,g,0,g,4,g,7,g
+485,atlanta bread company,poppy seed bagel,3.5,g,0,mg,620,g,66,g,12,g,0,g,0,g,5,g,7,g
+486,atlanta bread company,potato salad,19,g,10,mg,400,g,18,g,2,g,3,g,0,g,2,g,3,g
+487,atlanta bread company,pumpernickel bread,1.5,g,0,mg,390,g,28,g,5,g,1,g,0,g,1,g,1,g
+488,atlanta bread company,roast beef sandwich,16,g,55,mg,1400,g,52,g,31,g,3,g,0,g,3,g,4,g
+489,atlanta bread company,roast beef sandwich with kettle chips,25,g,55,mg,1500,g,68,g,32,g,5,g,0,g,4,g,4,g
+490,atlanta bread company,roasted turkey sandwich,16,g,45,mg,1640,g,58,g,32,g,3,g,0,g,5,g,8,g
+491,atlanta bread company,roasted turkey sandwich with kettle chips,25,g,45,mg,1740,g,74,g,33,g,4,g,0,g,6,g,8,g
+492,atlanta bread company,rye bread,5,g,10,mg,290,g,28,g,5,g,3,g,0,g,2,g,1,g
+493,atlanta bread company,scoop of chicken salad,12,g,35,mg,240,g,1,g,11,g,2,g,0,g,0,g,0,g
+494,atlanta bread company,scoop of chicken waldorf,13,g,30,mg,200,g,4,g,9,g,2,g,0,g,0,g,3,g
+495,atlanta bread company,scoop of tuna salad,9,g,20,mg,220,g,1,g,10,g,2,g,0,g,0,g,0,g
+496,atlanta bread company,scrambled eggs,15,g,500,mg,620,g,2,g,17,g,6,g,0,g,0,g,1,g
+497,atlanta bread company,sesame seed bagel,4,g,0,mg,620,g,65,g,12,g,0,g,0,g,5,g,7,g
+498,atlanta bread company,side mandarin oranges,0,g,0,mg,5,g,11,g,1,g,0,g,0,g,1,g,9,g
+499,atlanta bread company,side of bacon,5,g,15,mg,200,g,0,g,5,g,2,g,0,g,0,g,0,g
+500,atlanta bread company,side of breaded chicken breast,9,g,40,mg,520,g,11,g,21,g,2,g,0,g,1,g,1,g
+501,atlanta bread company,side of breakfast potatoes,9,g,0,mg,170,g,20,g,3,g,2,g,0,g,4,g,1,g
+502,atlanta bread company,side of ham,2,g,25,mg,390,g,0,g,9,g,0,g,0,g,0,g,0,g
+503,atlanta bread company,side of sausage,11,g,35,mg,320,g,0,g,8,g,4,g,0,g,0,g,0,g
+504,atlanta bread company,side of turkey sausage,5,g,40,mg,260,g,1,g,8,g,2,g,0,g,0,g,0,g
+505,atlanta bread company,sourdough bread,0,g,0,mg,270,g,26,g,5,g,1,g,0,g,1,g,1,g
+506,atlanta bread company,spanish omelette,35,g,600,mg,2290,g,84,g,39,g,13,g,0,g,3,g,7,g
+507,atlanta bread company,steakhouse panini,33,g,120,mg,3280,g,68,g,40,g,17,g,0,g,5,g,3,g
+508,atlanta bread company,steakhouse panini with kettle chips,42,g,120,mg,3380,g,84,g,41,g,19,g,0,g,6,g,3,g
+509,atlanta bread company,sticky bun,28,g,80,mg,280,g,55,g,7,g,17,g,1,g,1,g,26,g
+510,atlanta bread company,strawberries and cream croissant,17,g,45,mg,250,g,43,g,6,g,11,g,0.5,g,2,g,14,g
+511,atlanta bread company,strawberry smoothie,1,g,0,mg,20,g,51,g,2,g,0,g,0,g,4,g,43,g
+512,atlanta bread company,thai green flatbread,35,g,60,mg,1480,g,79,g,40,g,10,g,0,g,5,g,15,g
+513,atlanta bread company,tomato and bacon omelette,31,g,585,mg,1740,g,80,g,38,g,9,g,0,g,3,g,5,g
+514,atlanta bread company,tomato and onion foccacia,5,g,0,mg,220,g,21,g,5,g,1,g,0,g,1,g,3,g
+515,atlanta bread company,tuna salad sandwich,38,g,40,mg,1920,g,60,g,37,g,6,g,0,g,3,g,4,g
+516,atlanta bread company,tuna salad sandwich with kettle chips,47,g,40,mg,2020,g,76,g,38,g,7,g,0,g,4,g,4,g
+517,atlanta bread company,turkey bacon avocado signature sandwich,34,g,70,mg,1910,g,76,g,41,g,7,g,0,g,10,g,19,g
+518,atlanta bread company,turkey bacon avocado signature sandwich with kettle chips,43,g,70,mg,2010,g,92,g,42,g,9,g,0,g,11,g,19,g
+519,au bon pain,jalapeno cheddar bagel,8,g,20,mg,570,g,45,g,12,g,45,g,0,g,2,g,4,g
+520,au bon pain,honey sprouted grain bagel,1.5,g,0,mg,370,g,53,g,8,g,0,g,0,g,4,g,5,g
+521,au bon pain,chicken caesar wrap,26,g,80,mg,810,g,51,g,31,g,9,g,0,g,3,g,4,g
+522,au bon pain,hummus and veggie wrap,27,g,25,mg,950,g,60,g,19,g,7,g,0,g,11,g,6,g
+523,au bon pain,thai peanut chicken wrap,17,g,55,mg,910,g,73,g,29,g,5,g,0,g,4,g,15,g
+524,au bon pain,napa chicken and avocado wrap,25,g,60,mg,620,g,56,g,27,g,7,g,0,g,6,g,5,g
+525,au bon pain,mayan chicken harvest hot wrap,16,g,55,mg,1060,g,89,g,34,g,4.5,g,0,g,10,g,6,g
+526,au bon pain,teriyaki steak harvest hot wrap,18,g,65,mg,980,g,88,g,34,g,4,g,0,g,10,g,8,g
+527,au bon pain,sweet turkey wrap,21,g,80,mg,1480,g,67,g,36,g,8,g,0,g,9,g,21,g
+528,au bon pain,roasted vegetarian harvest hot wrap,31,g,15,mg,810,g,85,g,17,g,6,g,0,g,10,g,4,g
+529,au bon pain,palmier,20,g,50,mg,320,g,46,g,5,g,12,g,0,g,1,g,14,g
+530,au bon pain,chocolate croissant,25,g,75,mg,380,g,55,g,8,g,16,g,0,g,3,g,25,g
+531,au bon pain,rustic baguette,1.6,g,0,mg,281,g,41.4,g,7.8,g,0,g,0,g,1.6,g,0.8,g
+532,au bon pain,whole wheat skinny bagel,1,g,0,mg,230,g,21,g,5,g,0,g,0,g,6,g,1,g
+533,au bon pain,sweet cheese danish,20,g,70,mg,410,g,50,g,7,g,12,g,0,g,2,g,19,g
+534,au bon pain,vanilla cupcake,25,g,60,mg,320,g,44,g,3,g,9,g,0,g,0,g,33,g
+535,au bon pain,ciabatta large,1,g,0,mg,400,g,50,g,9,g,0,g,0,g,2,g,2,g
+536,au bon pain,reeses peanut butter cookie,37,g,40,mg,480,g,66,g,11,g,16,g,0,g,2,g,46,g
+537,au bon pain,cinnamon swirl roll,26,g,70,mg,360,g,76,g,6,g,13,g,0,g,4,g,41,g
+538,au bon pain,sweet cheese croissant,22,g,95,mg,420,g,46,g,8,g,13,g,0.5,g,1,g,22,g
+539,au bon pain,iced lemon pound cake,21,g,140,mg,510,g,66,g,6,g,11,g,0,g,1,g,41,g
+540,au bon pain,almond croissant,31,g,110,mg,390,g,47,g,11,g,13,g,0.5,g,3,g,16,g
+541,au bon pain,apple and cinnamon croissant,8,g,30,mg,290,g,35,g,5,g,4.5,g,0,g,2,g,14,g
+542,au bon pain,asiago cheese bagel,7,g,20,mg,550,g,45,g,12,g,4.5,g,0,g,2,g,4,g
+543,au bon pain,chocolate cranberry almond coconut macaroon,16,g,0,mg,110,g,34,g,4,g,13,g,0,g,2,g,25,g
+544,au bon pain,raisin bran muffin,12,g,100,mg,350,g,75,g,10,g,2.5,g,0,g,7,g,31,g
+545,au bon pain,plain bagel,1,g,0,mg,420,g,49,g,7,g,0,g,0,g,2,g,5,g
+546,au bon pain,double chocolate mudslide cookie,19,g,50,mg,170,g,50,g,5,g,10,g,0,g,2,g,32,g
+547,au bon pain,marble pound cake,24,g,150,mg,560,g,54,g,7,g,13,g,0,g,1,g,30,g
+548,au bon pain,semolina bread,2.5,g,0,mg,200,g,35,g,8,g,0,g,0,g,2,g,1,g
+549,au bon pain,blueberry muffin,25,g,85,mg,330,g,59,g,6,g,4.5,g,0,g,1,g,34,g
+550,au bon pain,double chocolate chunk muffin,30,g,90,mg,320,g,66,g,8,g,8,g,0,g,2,g,41,g
+551,au bon pain,corn muffin,22,g,85,mg,290,g,62,g,7,g,4,g,0,g,1,g,28,g
+552,au bon pain,plain croissant,16,g,65,mg,320,g,28,g,6,g,9,g,0,g,1,g,4,g
+553,au bon pain,sesame seed bagel,2.5,g,0,mg,420,g,50,g,8,g,0,g,0,g,2,g,5,g
+554,au bon pain,chocolate cupcake,24,g,65,mg,370,g,43,g,3,g,9,g,0,g,1,g,33,g
+555,au bon pain,mini chocolate chip cookies,27,g,70,mg,180,g,81,g,5,g,16,g,0,g,3,g,52,g
+556,au bon pain,everything bagel,1.5,g,0,mg,570,g,50,g,8,g,0,g,0,g,2,g,5,g
+557,au bon pain,english toffee cookie,16,g,50,mg,240,g,42,g,4,g,9,g,0,g,1,g,25,g
+558,au bon pain,chewy marshmallow bar,5,g,15,mg,250,g,50,g,2,g,3.5,g,0,g,0,g,27,g
+559,au bon pain,classic oatmeal raisin cookie,11,g,40,mg,150,g,46,g,4,g,6,g,0,g,2,g,24,g
+560,au bon pain,chocolate chip brownie,21,g,85,mg,240,g,62,g,4,g,6,g,0,g,2,g,39,g
+561,au bon pain,sprouted grain roll,4.5,g,0,mg,260,g,54,g,10,g,0,g,0,g,7,g,5,g
+562,au bon pain,asiago breadstick,3,g,5,mg,260,g,23,g,6,g,2,g,0,g,1,g,2,g
+563,au bon pain,country white bread,0.5,g,0,mg,170,g,24.5,g,4.5,g,0,g,0,g,1,g,0.5,g
+564,au bon pain,tortilla wrap,7,g,0,mg,240,g,45,g,7,g,3.5,g,0,g,2,g,1,g
+565,au bon pain,sprouted grain breadstick,1,g,0,mg,1290,g,30,g,4,g,0,g,0,g,3,g,2,g
+566,au bon pain,brownie bites,25,g,100,mg,290,g,82,g,5,g,8,g,0,g,2,g,55,g
+567,au bon pain,coffee cake muffin,32,g,90,mg,400,g,78,g,6,g,8,g,0,g,2,g,46,g
+568,au bon pain,cinnamon raisin bagel,0.5,g,0,mg,370,g,52,g,7,g,0,g,0,g,2,g,10,g
+569,au bon pain,whole wheat tortilla wrap,8,g,0,mg,270,g,43,g,8,g,1.5,g,0,g,6,g,1,g
+570,au bon pain,ciabatta small,0.5,g,0,mg,310,g,39,g,7,g,0,g,0,g,2,g,2,g
+571,au bon pain,vanilla latte with sugar free syrup,7,g,20,mg,105,g,17,g,7,g,4,g,0,g,0,g,10,g
+572,au bon pain,strawberry banana smoothie,0,g,0,mg,30,g,68,g,6,g,0,g,0,g,3,g,54,g
+573,au bon pain,mango smoothie,0,g,5,mg,30,g,72,g,6,g,0,g,0,g,3,g,55,g
+574,au bon pain,iced french roast coffee,0,g,0,mg,15,g,0,g,1,g,0,g,0,g,0,g,0,g
+575,au bon pain,vanilla latte,7,g,20,mg,105,g,37,g,7,g,4,g,0,g,0,g,35,g
+576,au bon pain,cafe americano,0,g,0,mg,28,g,2.4,g,0,g,0,g,0,g,0,g,2.4,g
+577,au bon pain,berry pomegranate smoothie,0,g,5,mg,30,g,62,g,6,g,0,g,0,g,3,g,52,g
+578,au bon pain,iced caffe milano,8,g,20,mg,115,g,39,g,8,g,4.5,g,0,g,0,g,37,g
+579,au bon pain,caramel macchiato,8,g,25,mg,135,g,41,g,8,g,4.5,g,0,g,0,g,40,g
+580,au bon pain,mocha latte,9,g,20,mg,120,g,48,g,8,g,5,g,0,g,0,g,48,g
+581,au bon pain,iced caffe latte,7,g,20,mg,110,g,12,g,7,g,4,g,0,g,0,g,12,g
+582,au bon pain,caffe milano,8,g,20,mg,115,g,39,g,8,g,4.5,g,0,g,0,g,37,g
+583,au bon pain,iced unsweetened black tea,0,g,0,mg,20,g,2,g,0,g,0,g,0,g,0,g,0,g
+584,au bon pain,iced caffe americano,0,g,0,mg,30,g,2,g,0,g,0,g,0,g,0,g,2,g
+585,au bon pain,iced mocha latte,9,g,20,mg,125,g,49,g,9,g,5,g,0,g,0,g,46,g
+586,au bon pain,homestyle lemonade,0,g,0,mg,0,g,78,g,0,g,0,g,0,g,0,g,72,g
+587,au bon pain,caffe latte,7,g,20,mg,105,g,12,g,7,g,4,g,0,g,0,g,12,g
+588,au bon pain,orange juice,0,g,0,mg,0,g,26,g,2,g,0,g,0,g,0,g,26,g
+589,au bon pain,cappuccino,6,g,20,mg,90,g,10,g,6,g,3.5,g,0,g,0,g,10,g
+590,au bon pain,iced vanilla latte,7,g,20,mg,110,g,35,g,7,g,4,g,0,g,0,g,34,g
+591,au bon pain,iced french vanilla coffee,0,g,0,mg,15,g,0,g,1,g,0,g,0,g,0,g,0,g
+592,au bon pain,iced chai latte,7,g,20,mg,100,g,30,g,7,g,4,g,0,g,0,g,30,g
+593,au bon pain,iced decaf french roast coffee,0,g,0,mg,15,g,0,g,1,g,0,g,0,g,0,g,0,g
+594,au bon pain,iced caramel macchiato,8,g,25,mg,135,g,41,g,8,g,4.5,g,0,g,0,g,40,g
+595,au bon pain,hot chocolate,12,g,35,mg,130,g,51,g,10,g,7,g,0,g,0,g,50,g
+596,au bon pain,sweet tea,0,g,0,mg,20,g,66,g,0,g,0,g,0,g,0,g,64,g
+597,au bon pain,chai latte,7,g,20,mg,90,g,30,g,7,g,4,g,0,g,0,g,30,g
+598,au bon pain,double shot espresso,0,g,0,mg,15,g,2,g,0,g,0,g,0,g,0,g,1,g
+599,au bon pain,smoked salmon wasabi breakfast sandwich on plain bagel,9,g,35,mg,98,g,58,g,19,g,4.5,g,0,g,3,g,7,g
+600,au bon pain,2 eggs and cheese breakfast bagel sandwich,16,g,345,mg,650,g,50,g,22,g,7,g,0,g,2,g,5,g
+601,au bon pain,egg whites cheddar and avocado breakfast sandwich on skinny wheat bagel,23,g,50,mg,590,g,25,g,19,g,12,g,0.5,g,9,g,1,g
+602,au bon pain,scrambled eggs ham and cheese,2.5,g,75,mg,100,g,1,g,3,g,1,g,0,g,0,g,1,g
+603,au bon pain,2 eggs and turkey sausage breakfast sandwich on skinny wheat bagel,16,g,360,mg,660,g,22,g,23,g,6,g,0,g,7,g,1,g
+604,au bon pain,2 eggs ham and cheddar breakfast sandwich on skinny wheat bagel,19,g,375,mg,880,g,24,g,26,g,8,g,0,g,7,g,3,g
+605,au bon pain,roasted potatoes,1,g,0,mg,110,g,6,g,1,g,0,g,0,g,1,g,0,g
+606,au bon pain,2 eggs and bacon breakfast sandwich on skinny wheat bagel,15,g,345,mg,600,g,22,g,18,g,6,g,0,g,6,g,2,g
+607,au bon pain,the good egg breakfast sandwich on rustic baguette,29,g,363,mg,684,g,48.7,g,24.9,g,9.3,g,0,g,4.1,g,2.1,g
+608,au bon pain,scrambled eggs,2,g,85,mg,75,g,1,g,3,g,0.5,g,0,g,0,g,0,g
+609,au bon pain,cranberry almond hot cereal,7,g,0,mg,15,g,26,g,6,g,1,g,0,g,4,g,3,g
+610,au bon pain,2 eggs turkey sausage and cheddar breakfast sandwich on skinny wheat bagel,21,g,375,mg,750,g,22,g,26,g,9,g,0,g,7,g,1,g
+611,au bon pain,egg whites and cheddar breakfast sandwich on skinny wheat bagel,7,g,20,mg,490,g,22,g,19,g,4.5,g,0,g,6,g,1,g
+612,au bon pain,classic oatmeal,3,g,0,mg,8,g,31.5,g,6.5,g,0.5,g,0,g,4.5,g,0.5,g
+613,au bon pain,2 eggs sausage and cheddar breakfast sandwich on skinny wheat bagel,29,g,390,mg,790,g,23,g,28,g,12,g,0,g,6,g,2,g
+614,au bon pain,sausage with peppers and onions,2.5,g,5,mg,110,g,1,g,3,g,0.5,g,0,g,0,g,0,g
+615,au bon pain,2 eggs bacon and cheddar breakfast sandwich on skinny wheat bagel,20,g,360,mg,690,g,22,g,22,g,9,g,0,g,6,g,2,g
+616,au bon pain,2 eggs sausage and cheddar breakfast asiago bagel sandwich,36,g,410,mg,1110,g,47,g,35,g,16,g,0,g,2,g,5,g
+617,au bon pain,2 eggs bacon and cheese breakfast bagel sandwich,20,g,360,mg,890,g,51,g,25,g,9,g,0,g,2,g,5,g
+618,au bon pain,warm apple bake,3,g,10,mg,90,g,11,g,2,g,2,g,0,g,0,g,4,g
+619,au bon pain,2 eggs and bacon breakfast bagel sandwich,16,g,345,mg,800,g,50,g,21,g,6,g,0,g,2,g,5,g
+620,au bon pain,2 eggs and ham breakfast bagel sandwich,14,g,360,mg,990,g,52,g,26,g,5,g,0,g,2,g,7,g
+621,au bon pain,2 eggs sausage and cheddar breakfast ciabatta sandwich,29,g,390,mg,870,g,40,g,30,g,12,g,0,g,2,g,2,g
+622,au bon pain,2 eggs on a bagel breakfast sandwich,11,g,330,mg,560,g,50,g,19,g,4,g,0,g,2,g,5,g
+623,au bon pain,2 eggs bacon and cheddar breakfast ciabatta sandwich,20,g,360,mg,780,g,40,g,24,g,9,g,0,g,2,g,2,g
+624,au bon pain,herb cream cheese spread,7,g,25,mg,180,g,4,g,3,g,4.5,g,0,g,0,g,2,g
+625,au bon pain,garden vegetable cream cheese spread,10,g,30,mg,230,g,2,g,2,g,6,g,0,g,0,g,2,g
+626,au bon pain,reduced fat philadelphia cream cheese spread,8,g,30,mg,190,g,3,g,3,g,4.5,g,0,g,0,g,2,g
+627,au bon pain,greek vanilla yogurt and wild blueberry parfait,8,g,20,mg,115,g,47,g,24,g,3,g,0,g,4,g,34,g
+628,au bon pain,blueberry yogurt and wild blueberry parfait,10,g,15,mg,170,g,68,g,11,g,4,g,0,g,3,g,48,g
+629,au bon pain,chocolate chip cookie,18,g,45,mg,120,g,54,g,3,g,11,g,0,g,2,g,35,g
+630,au bon pain,tuna,0,g,15,mg,40,g,1,g,9,g,0,g,0,g,0,g,0,g
+631,au bon pain,skinny pop popcorn,6,g,0,mg,45,g,9,g,2,g,0.5,g,0,g,2,g,0,g
+632,au bon pain,fruit cup,0,g,0,mg,30,g,36,g,2,g,0,g,0,g,2,g,32,g
+633,au bon pain,chocolate covered almonds,29,g,0,mg,75,g,46,g,7,g,17,g,0,g,5,g,39,g
+634,au bon pain,corn bread,5,g,20,mg,60,g,13,g,1,g,1,g,0,g,0,g,6,g
+635,au bon pain,pulled bbq pork,1.5,g,10,mg,150,g,4,g,4,g,0,g,0,g,0,g,4,g
+636,au bon pain,pork carnitas,2.5,g,10,mg,110,g,1,g,5,g,0.5,g,0,g,0,g,1,g
+637,au bon pain,black bean and rice,0,g,0,mg,15,g,5,g,1,g,0,g,0,g,1,g,0,g
+638,au bon pain,red beans and rice,0,g,0,mg,55,g,5,g,1,g,0,g,0,g,1,g,0,g
+639,au bon pain,cantaloupe,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+640,au bon pain,honey and herb carrots,1.5,g,5,mg,0,g,4,g,0,g,1,g,0,g,1,g,1,g
+641,au bon pain,greek vanilla yogurt,0,g,0,mg,10,g,3,g,2,g,0,g,0,g,0,g,3,g
+642,au bon pain,beef and broccoli,1,g,10,mg,105,g,2,g,3,g,0,g,0,g,0,g,1,g
+643,au bon pain,broccoli chicken pasta alfredo,2,g,10,mg,40,g,5,g,2,g,1,g,0,g,0,g,0,g
+644,au bon pain,chipotle wings,4.5,g,20,mg,190,g,2,g,6,g,1,g,0,g,0,g,1,g
+645,au bon pain,cottage cheese,1.5,g,5,mg,110,g,1,g,3,g,1,g,0,g,0,g,1,g
+646,au bon pain,kettle cooked bbq potato chips,12,g,0,mg,200,g,24,g,2,g,1,g,0,g,2,g,3,g
+647,au bon pain,mixed nuts,35,g,0,mg,140,g,19,g,14,g,5,g,0,g,5,g,4,g
+648,au bon pain,corn,0,g,0,mg,0,g,4,g,1,g,0,g,0,g,1,g,2,g
+649,au bon pain,kettle cooked original potato chips,12,g,0,mg,160,g,23,g,2,g,1,g,0,g,2,g,2,g
+650,au bon pain,vegetable lasagna,2.5,g,10,mg,75,g,3,g,3,g,1.5,g,0,g,0,g,1,g
+651,au bon pain,sliced chicken,0.5,g,20,mg,50,g,1,g,7,g,0,g,0,g,0,g,0,g
+652,au bon pain,honeydew,0,g,0,mg,5,g,3,g,0,g,0,g,0,g,0,g,2,g
+653,au bon pain,mediterranean rice,0.5,g,0,mg,25,g,6,g,1,g,0,g,0,g,0,g,0,g
+654,au bon pain,chicken dumplings,1,g,5,mg,150,g,7,g,2,g,0,g,0,g,0,g,1,g
+655,au bon pain,roasted corn and jalapenos,0,g,0,mg,20,g,4,g,1,g,0,g,0,g,1,g,2,g
+656,au bon pain,chickpeas,0,g,0,mg,30,g,3,g,1,g,0,g,0,g,1,g,1,g
+657,au bon pain,adobo chicken,0.5,g,10,mg,125,g,1,g,4,g,0,g,0,g,0,g,1,g
+658,au bon pain,meatballs in marinara sauce with penne,2.5,g,5,mg,105,g,4,g,2,g,1,g,0,g,1,g,1,g
+659,au bon pain,snyders of hanover mini pretzels,0,g,0,mg,250,g,25,g,3,g,0,g,0,g,0,g,0,g
+660,au bon pain,pesto tortellini,3.5,g,5,mg,55,g,5,g,1,g,0,g,0,g,0,g,0,g
+661,au bon pain,turkey,0,g,15,mg,200,g,0,g,7,g,0,g,0,g,0,g,0,g
+662,au bon pain,sweet and sour wings,4.5,g,20,mg,180,g,1,g,6,g,1.5,g,0,g,0,g,1,g
+663,au bon pain,kettle cooked sea salt and vinegar potato chips,12,g,0,mg,340,g,23,g,2,g,1,g,0,g,2,g,3,g
+664,au bon pain,carrots,0,g,0,mg,20,g,3,g,0,g,0,g,0,g,1,g,1,g
+665,au bon pain,black beans,0,g,0,mg,30,g,5,g,2,g,0,g,0,g,1,g,0,g
+666,au bon pain,bruschetta wings,5,g,20,mg,160,g,0,g,6,g,1,g,0,g,0,g,0,g
+667,au bon pain,grapes,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,4,g
+668,au bon pain,roasted mediterranean vegetables,2,g,0,mg,95,g,4,g,1,g,0,g,0,g,1,g,1,g
+669,au bon pain,sesame green beans,1,g,0,mg,55,g,2,g,1,g,0,g,0,g,1,g,1,g
+670,au bon pain,tomato asiago rice,1,g,0,mg,25,g,6,g,1,g,0.5,g,0,g,0,g,0,g
+671,au bon pain,brown rice,0,g,0,mg,15,g,6,g,1,g,0,g,0,g,0,g,0,g
+672,au bon pain,fresh grapes,0,g,0,mg,0,g,40,g,2,g,0,g,0,g,2,g,35,g
+673,au bon pain,multigrain chips,9,g,0,mg,120,g,27,g,4,g,1,g,0,g,5,g,2,g
+674,au bon pain,apple smoked bacon,10,g,15,mg,660,g,0,g,9,g,3.5,g,0,g,0,g,0,g
+675,au bon pain,southwest wings,5,g,20,mg,170,g,0,g,6,g,1.5,g,0,g,0,g,0,g
+676,au bon pain,smothered beans,2,g,5,mg,105,g,2,g,1,g,1,g,0,g,0,g,1,g
+677,au bon pain,garlic bread,5,g,10,mg,70,g,7,g,1,g,2,g,0,g,0,g,0,g
+678,au bon pain,asian rice with edamame and carrots,0,g,0,mg,10,g,6,g,1,g,0,g,0,g,0,g,0,g
+679,au bon pain,muesli,6,g,0,mg,40,g,74,g,10,g,0.5,g,0,g,7,g,39,g
+680,au bon pain,hosuemade granola,7,g,5,mg,30,g,18,g,3,g,2.5,g,0,g,2,g,9,g
+681,au bon pain,baked lays original potato chips,2,g,0,mg,200,g,26,g,2,g,0,g,0,g,2,g,2,g
+682,au bon pain,overnight oats,13,g,5,mg,40,g,61,g,15,g,3,g,0,g,8,g,20,g
+683,au bon pain,hard boiled eggs,3,g,105,mg,35,g,0,g,4,g,1,g,0,g,0,g,0,g
+684,au bon pain,asiago cheese,8,g,25,mg,170,g,1,g,7,g,5,g,0,g,0,g,0,g
+685,au bon pain,tomatoes,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+686,au bon pain,pickled beats,0,g,0,mg,75,g,5,g,0,g,0,g,0,g,0,g,4,g
+687,au bon pain,croutons,2.5,g,0,mg,100,g,14,g,2,g,0,g,0,g,1,g,1,g
+688,au bon pain,red peppers,0,g,0,mg,115,g,2,g,0,g,0,g,0,g,1,g,1,g
+689,au bon pain,onion,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,1,g
+690,au bon pain,lettuce all varieties,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,0,g
+691,au bon pain,grapefruit segments,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,1,g,2,g
+692,au bon pain,kalamata olives,6,g,0,mg,390,g,4,g,1,g,0.5,g,0,g,1,g,0,g
+693,au bon pain,mozzarella,5,g,20,mg,70,g,0,g,6,g,3.5,g,0,g,0,g,0,g
+694,au bon pain,walnuts,19,g,0,mg,0,g,1,g,4,g,1.5,g,0,g,3,g,1,g
+695,au bon pain,edamame,2,g,0,mg,0,g,3,g,4,g,0,g,0,g,1,g,1,g
+696,au bon pain,spinach,0,g,0,mg,20,g,1,g,1,g,0,g,0,g,1,g,0,g
+697,au bon pain,almonds,14,g,0,mg,0,g,6,g,6,g,1,g,0,g,4,g,1,g
+698,au bon pain,wontons,6,g,0,mg,150,g,18,g,3,g,1,g,0,g,1,g,1,g
+699,au bon pain,cucumber,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+700,au bon pain,sweetened dried cranberries,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,1,g,19,g
+701,au bon pain,feta cheese,8,g,25,mg,250,g,1,g,6,g,4.5,g,0,g,0,g,0,g
+702,au bon pain,avocado green goddess dressing,14,g,15,mg,260,g,3,g,1,g,1.5,g,0,g,0,g,2,g
+703,au bon pain,caesar dressing,19,g,15,mg,500,g,3,g,2,g,3.5,g,0,g,0,g,2,g
+704,au bon pain,thai dressing,6,g,0,mg,550,g,16,g,1,g,0.5,g,0,g,0,g,14,g
+705,au bon pain,lite citrus lime vinaigrette,9,g,0,mg,260,g,7,g,0,g,1,g,0,g,0,g,6,g
+706,au bon pain,balsamic vinaigrette dressing,7,g,0,mg,270,g,5,g,0,g,1,g,0,g,0,g,5,g
+707,au bon pain,lemon vinaigrette,14,g,0,mg,370,g,6,g,0,g,1.5,g,0,g,0,g,5,g
+708,au bon pain,ranch dressing,19,g,15,mg,290,g,4,g,1,g,3,g,0,g,0,g,1,g
+709,au bon pain,chii lime vinaigrette,9,g,0,mg,300,g,7,g,0,g,1,g,0,g,0,g,6,g
+710,au bon pain,chicken cobb and avocado salad without dressing,25,g,270,mg,970,g,17,g,44,g,10,g,0,g,6,g,7,g
+711,au bon pain,chicken caesar asiago salad without dressing,9,g,90,mg,370,g,21,g,33,g,3.5,g,0,g,4,g,2,g
+712,au bon pain,southwest chicken salad without dressing,13,g,70,mg,380,g,39,g,32,g,2,g,0,g,9,g,9,g
+713,au bon pain,thai peanut chicken salad without dressing,6,g,80,mg,292,g,23.1,g,29.2,g,1,g,0,g,5,g,6,g
+714,au bon pain,mediterranean pasta salad,2,g,0,mg,50,g,7,g,2,g,0,g,0,g,1,g,1,g
+715,au bon pain,vegetarian deluxe salads without dressing,13,g,25,mg,820,g,26,g,12,g,5,g,0,g,8,g,10,g
+716,au bon pain,carrot and raisin salad,7,g,5,mg,55,g,5,g,0,g,1,g,0,g,0,g,3,g
+717,au bon pain,vegetarian deluxe salad,1,g,0,mg,60,g,2,g,1,g,0,g,0,g,1,g,1,g
+718,au bon pain,caesar salad,1,g,0,mg,30,g,3,g,1,g,0,g,0,g,1,g,0,g
+719,au bon pain,blak bean and corn salad,1.5,g,0,mg,50,g,4,g,2,g,0,g,0,g,1,g,1,g
+720,au bon pain,chicken salad,2.5,g,20,mg,110,g,1,g,6,g,0,g,0,g,0,g,0,g
+721,au bon pain,harvest turkey salad,1.5,g,5,mg,70,g,3,g,3,g,0,g,0,g,0,g,2,g
+722,au bon pain,side garden salad without dressing,0,g,0,mg,35,g,11,g,2,g,0,g,0,g,4,g,5,g
+723,au bon pain,harvest turkey salad without dressing,15,g,75,mg,790,g,32,g,30,g,3.5,g,0,g,6,g,22,g
+724,au bon pain,caesar asiago salad without dressing,6.8,g,15,mg,194,g,13.6,g,7.7,g,2.9,g,0,g,3.9,g,1.9,g
+725,au bon pain,chickpea and tomato salad,2,g,0,mg,100,g,3,g,1,g,0,g,0,g,1,g,1,g
+726,au bon pain,chipotle turkey and avocado ciabatta sandwich,33,g,90,mg,1490,g,60,g,37,g,9,g,0,g,5,g,7,g
+727,au bon pain,two tomato caprese ciabatta sandwich,27,g,35,mg,840,g,57,g,20,g,8,g,0,g,3,g,7,g
+728,au bon pain,turkey club sandwich on toasted country white bread,25,g,100,mg,1560,g,53,g,39,g,9,g,0,g,2,g,3,g
+729,au bon pain,tuna salad sandwich on sprouted grain bread,12,g,65,mg,640,g,59,g,38,g,1.5,g,0,g,9,g,6,g
+730,au bon pain,toasted chicken and avocado sandwich on semolina bread,29,g,100,mg,940,g,61,g,41,g,6,g,0,g,6,g,3,g
+731,au bon pain,extra bacon blt sandwich on rustic baguette,24,g,45,mg,1290,g,57,g,19,g,6,g,0,g,2,g,3,g
+732,au bon pain,caprese sandwich with chicken,30,g,100,mg,1230,g,53,g,49,g,14,g,0,g,3,g,3,g
+733,au bon pain,prime roast beef sandwich on rustic baguette,20,g,70,mg,1400,g,74,g,35,g,9,g,0,g,2,g,19,g
+734,au bon pain,herb chicken salad sandwich on toasted semolina bread,13,g,75,mg,760,g,60,g,35,g,2.5,g,0,g,5,g,4,g
+735,au bon pain,harvest turkey wrap,27,g,85,mg,1150,g,61,g,36,g,9,g,0,g,9,g,8,g
+736,au bon pain,black bean chipotle avocado burger on ciabatta bun,29,g,25,mg,1290,g,83,g,27,g,7,g,0,g,11,g,13,g
+737,au bon pain,avocade blt sandwich,15.6,g,26,mg,597,g,28,g,11.4,g,3.6,g,0,g,2.1,g,1.6,g
+738,au bon pain,ham and 2 cheese sandwich on sprouted grain bread,25,g,85,mg,1680,g,62,g,33,g,9,g,0,g,8,g,10,g
+739,au bon pain,newport turkey sandwich on country white bread,29,g,100,mg,1450,g,76,g,41,g,11,g,0,g,5,g,24,g
+740,au bon pain,broccoli cheddar soup,16,g,40,mg,695,g,13.5,g,7,g,7.5,g,0.5,g,2,g,3.5,g
+741,au bon pain,potato leek soup,14,g,48,mg,685,g,14.5,g,2.5,g,8.5,g,0.5,g,1.5,g,1.5,g
+742,au bon pain,roasted red pepper and gouda soup,28,g,65,mg,1330,g,34,g,8,g,13,g,0.5,g,3,g,7,g
+743,au bon pain,beef and vegetable stew,16.5,g,56,mg,1103,g,28.5,g,19.5,g,3,g,0,g,3.8,g,3.8,g
+744,au bon pain,tomato basil bisque,7,g,25,mg,250,g,20,g,4.5,g,4.5,g,0,g,1.5,g,11,g
+745,au bon pain,12 veggies soup,4,g,0,mg,600,g,18,g,3,g,0.3,g,0,g,2.5,g,7,g
+746,au bon pain,tuscan white bean soup,3,g,0,mg,635,g,24,g,7.5,g,0,g,0,g,10.5,g,4,g
+747,au bon pain,chicken paprikash soup,10,g,40,mg,590,g,15,g,6.5,g,4.5,g,0,g,1.5,g,3,g
+748,au bon pain,chicken noodle soup,2.6,g,30,mg,1028,g,15,g,7.5,g,0.8,g,0,g,1.5,g,2.3,g
+749,au bon pain,macaroni and cheese,28.5,g,98,mg,735,g,61,g,20,g,17.5,g,1,g,2,g,2.5,g
+750,au bon pain,lemon orzo chicken soup,7.5,g,33,mg,785,g,13,g,8,g,3.5,g,0,g,1,g,1.5,g
+751,au bon pain,vegetarian minestrone soup,1.5,g,0,mg,1480,g,30,g,7,g,0,g,0,g,5,g,10,g
+752,au bon pain,turkey chili,9,g,30,mg,675,g,44.3,g,19.5,g,1.5,g,0,g,15.8,g,6,g
+753,au bon pain,harvest pumpkin soup,9,g,25,mg,710,g,17.5,g,2,g,5,g,0,g,1.5,g,6,g
+754,au bon pain,chicken gumbo soup,6,g,8,mg,620,g,15,g,4,g,0.8,g,0,g,1.5,g,1,g
+755,au bon pain,wild mushroom bisque,6,g,5,mg,710,g,15,g,3.5,g,1,g,0,g,2,g,4,g
+756,au bon pain,asparagus and pea soup,13,g,35,mg,750,g,13,g,5,g,6,g,0,g,2,g,2,g
+757,au bon pain,roasted eggplant soup,4,g,8,mg,445,g,16.5,g,5.5,g,1.5,g,0,g,2.5,g,7,g
+758,au bon pain,baked stuffed potato soup,24.8,g,64,mg,1050,g,34.5,g,6.8,g,12,g,0.8,g,3,g,1.5,g
+759,au bon pain,red beans italian sausage and rice soup,9,g,15,mg,1660,g,60,g,21,g,3,g,0,g,26,g,5,g
+760,au bon pain,corn and green chili bisque,11,g,33,mg,890,g,17.5,g,3.5,g,6,g,0.3,g,2,g,3.5,g
+761,au bon pain,chicken and vegetable stew,12.5,g,30,mg,695,g,18.5,g,8.5,g,3,g,0,g,2.5,g,2.5,g
+762,au bon pain,chicken florentine soup,10,g,38,mg,745,g,18,g,6.5,g,4,g,0,g,1,g,3,g
+763,au bon pain,swiss chard and three bean soup,6,g,0,mg,950,g,46,g,10,g,1,g,0,g,13,g,5,g
+764,au bon pain,turkey kale and wild rice soup,23,g,60,mg,1550,g,36,g,16,g,10,g,0.5,g,3,g,4,g
+765,au bon pain,pasta e fagioli soup,5.5,g,5,mg,660,g,23.5,g,7.5,g,1,g,0,g,4.5,g,2,g
+766,au bon pain,lobster and corn bisque,22,g,90,mg,1480,g,33,g,11,g,12,g,0.5,g,3,g,6,g
+767,au bon pain,barley and creamy lentil soup,2.5,g,0,mg,465,g,23.5,g,6,g,0.3,g,0,g,4.5,g,2,g
+768,au bon pain,split pea with ham soup,1.3,g,5,mg,855,g,29.5,g,13,g,0.3,g,0,g,11,g,4,g
+769,au bon pain,clam chowder,26,g,75,mg,1490,g,42,g,15,g,10,g,0.5,g,3,g,12,g
+770,au bon pain,curried rice and lentil soup,0.5,g,0,mg,710,g,23,g,6,g,0,g,0,g,5.5,g,3,g
+771,au bon pain,vegetable beef and barley soup,4.5,g,35,mg,940,g,30,g,15,g,2,g,0,g,6,g,4,g
+772,au bon pain,thai chicken and lime soup,2.5,g,8,mg,605,g,13.5,g,3.5,g,0.5,g,0,g,1.5,g,2,g
+773,au bon pain,slow cooked smokey chicken and sausage soup,8,g,20,mg,1140,g,30,g,11,g,2,g,0,g,7,g,3,g
+774,au bon pain,vegetarian chili,1.3,g,0,mg,605,g,30.5,g,9.5,g,0,g,0,g,16,g,4.5,g
+775,au bon pain,italian wedding soup,6,g,10,mg,475,g,10,g,4,g,2,g,0,g,1.5,g,2.5,g
+776,au bon pain,corn chowder,12,g,33,mg,755,g,28,g,5.5,g,6,g,0.3,g,2.5,g,8.5,g
+777,au bon pain,southwest tortilla soup,14,g,15,mg,1310,g,31,g,5,g,4,g,0,g,6,g,5,g
+778,au bon pain,roasted poblano chicken stew,2,g,8,mg,595,g,12,g,3.5,g,0.3,g,0,g,2,g,3.5,g
+779,au bon pain,garden vegetable soup,1,g,0,mg,760,g,9.5,g,2,g,0,g,0,g,2,g,3.5,g
+780,au bon pain,french moroccan tomato lentil soup,2.3,g,0,mg,1073,g,33,g,9.8,g,0,g,0,g,12.8,g,6,g
+781,au bon pain,black bean soup,0.8,g,0,mg,745,g,32.5,g,11,g,0,g,0,g,18.5,g,2,g
+782,au bon pain,roasted tomato chicken and orzo soup,4,g,13,mg,575,g,14.5,g,5,g,1.5,g,0,g,2,g,5,g
+783,au bon pain,butternut squash and apple soup,5,g,10,mg,465,g,22,g,2,g,2,g,0,g,2,g,8.5,g
+784,au bon pain,french onion soup,6,g,15,mg,1810,g,20,g,4,g,3,g,0,g,2,g,9,g
+785,au bon pain,12 veggies soup large,8,g,0,mg,1200,g,36,g,6,g,0.5,g,0,g,5,g,14,g
+786,au bon pain,12 veggies soup medium,6,g,0,mg,900,g,27,g,4,g,0,g,0,g,4,g,11,g
+787,au bon pain,12 veggies soup small,4,g,0,mg,600,g,18,g,3,g,0,g,0,g,2,g,7,g
+788,au bon pain,2 eggs and bacon on skinny wheat bagel,15,g,345,mg,600,g,22,g,18,g,6,g,0,g,6,g,2,g
+789,au bon pain,2 eggs and turkey sausage on skinny wheat bagel,16,g,360,mg,660,g,22,g,23,g,6,g,0,g,7,g,1,g
+790,au bon pain,2 eggs on a bagel,11,g,330,mg,650,g,54,g,21,g,4.5,g,0,g,4,g,6,g
+791,au bon pain,2 eggs on a bagel with bacon,15,g,345,mg,890,g,55,g,23,g,6,g,0,g,4,g,6,g
+792,au bon pain,2 eggs on a bagel with bacon and cheese,20,g,360,mg,980,g,55,g,27,g,9,g,0,g,4,g,6,g
+793,au bon pain,2 eggs on a bagel with cheese,16,g,345,mg,740,g,54,g,24,g,7,g,0,g,4,g,6,g
+794,au bon pain,2 eggs on a bagel with ham,14,g,360,mg,1080,g,56,g,28,g,5,g,0,g,4,g,8,g
+795,au bon pain,2 eggs bacon and cheddar on ciabatta,20,g,360,mg,1050,g,54,g,28,g,9,g,0,g,2,g,3,g
+796,au bon pain,2 eggs cheddar and bacon on skinny wheat bagel,20,g,360,mg,690,g,22,g,22,g,9,g,0,g,6,g,2,g
+797,au bon pain,2 eggs cheddar and ham on skinny wheat bagel,19,g,375,mg,880,g,24,g,26,g,8,g,0,g,7,g,3,g
+798,au bon pain,2 eggs cheddar and sausage on skinny wheat bagel,29,g,390,mg,790,g,23,g,28,g,12,g,0,g,6,g,2,g
+799,au bon pain,2 eggs sausage and cheddar on asiago bagel,34,g,405,mg,1160,g,56,g,36,g,15,g,0,g,4,g,6,g
+800,au bon pain,2 eggs sausage and cheddar on ciabatta,30,g,390,mg,1140,g,55,g,33,g,12,g,0,g,2,g,2,g
+801,au bon pain,2 eggs turkey sausage and cheddar on skinny wheat bagel,21,g,375,mg,750,g,22,g,26,g,9,g,0,g,7,g,1,g
+802,au bon pain,2 tomato caprese sandwich,28,g,35,mg,1020,g,59,g,21,g,8,g,0,g,3,g,6,g
+803,au bon pain,abp croutons,2.5,g,0,mg,140,g,14,g,3,g,0,g,0,g,1,g,1,g
+804,au bon pain,almond croissant,31,g,110,mg,390,g,47,g,11,g,13,g,0.5,g,3,g,16,g
+805,au bon pain,ancient grain bagel,4,g,0,mg,450,g,53,g,12,g,0.5,g,0,g,9,g,9,g
+806,au bon pain,ancient grain breadstick,2.5,g,0,mg,230,g,30,g,7,g,0,g,0,g,5,g,5,g
+807,au bon pain,apple and cinnamon croissant,8,g,30,mg,290,g,35,g,5,g,4.5,g,0,g,2,g,14,g
+808,au bon pain,asiago breadstick,2,g,5,mg,290,g,27,g,6,g,1,g,0,g,2,g,3,g
+809,au bon pain,avocado green goddess dressing,14,g,15,mg,260,g,3,g,1,g,1.5,g,0,g,0,g,2,g
+810,au bon pain,baked stuffed potato soup large,33,g,85,mg,1400,g,46,g,9,g,16,g,1,g,4,g,2,g
+811,au bon pain,baked stuffed potato soup medium,24,g,65,mg,1050,g,34,g,7,g,12,g,0.5,g,3,g,2,g
+812,au bon pain,baked stuffed potato soup small,16,g,45,mg,700,g,23,g,5,g,8,g,0,g,2,g,1,g
+813,au bon pain,baked lays original potato crisps,2,g,0,mg,200,g,26,g,2,g,0,g,0,g,2,g,2,g
+814,au bon pain,balsamic vinaigrette,7,g,0,mg,270,g,5,g,0,g,1,g,0,g,0,g,5,g
+815,au bon pain,barley and creamy lentil soup large,5,g,0,mg,930,g,47,g,12,g,0.5,g,0,g,9,g,4,g
+816,au bon pain,barley and creamy lentil soup medium,4,g,0,mg,700,g,35,g,9,g,0,g,0,g,7,g,3,g
+817,au bon pain,barley and creamy lentil soup small,2.5,g,0,mg,460,g,24,g,6,g,0,g,0,g,5,g,2,g
+818,au bon pain,beef and vegetable stew large,22,g,75,mg,1470,g,38,g,26,g,4,g,0,g,5,g,5,g
+819,au bon pain,beef and vegetable stew medium,16,g,60,mg,1100,g,28,g,20,g,3,g,0,g,4,g,4,g
+820,au bon pain,beef and vegetable stew small,11,g,40,mg,730,g,19,g,13,g,2,g,0,g,3,g,2,g
+821,au bon pain,berry pomegranate smoothie,0,g,5,mg,30,g,62,g,6,g,0,g,0,g,3,g,52,g
+822,au bon pain,black bean chipotle avocado sandwich,30,g,25,mg,1460,g,85,g,29,g,7,g,0,g,11,g,13,g
+823,au bon pain,blueberry muffin,25,g,85,mg,330,g,59,g,6,g,4.5,g,0,g,1,g,34,g
+824,au bon pain,blueberry scone,21,g,135,mg,530,g,43,g,8,g,13,g,0,g,1,g,9,g
+825,au bon pain,blueberry yogurt and wild blueberry parfait,9,g,15,mg,170,g,65,g,11,g,4.5,g,0,g,3,g,45,g
+826,au bon pain,bon to go caprese chicken,19,g,70,mg,680,g,16,g,24,g,6,g,0,g,3,g,8,g
+827,au bon pain,bon to go cheese and fruit,25,g,70,mg,590,g,31,g,14,g,14,g,0.5,g,2,g,16,g
+828,au bon pain,bon to go fruit eggs and nuts,35,g,195,mg,320,g,31,g,21,g,10,g,0,g,4,g,19,g
+829,au bon pain,bon to go hard boiled eggs,9,g,330,mg,110,g,1,g,11,g,3,g,0,g,0,g,1,g
+830,au bon pain,bon to go hummus,14,g,0,mg,670,g,37,g,8,g,1.5,g,0,g,4,g,5,g
+831,au bon pain,bon to go smoked salmon,9,g,30,mg,550,g,18,g,12,g,3.5,g,0,g,2,g,5,g
+832,au bon pain,bon to go sweet turkey wrap pack,19,g,65,mg,1130,g,81,g,23,g,8,g,0,g,6,g,31,g
+833,au bon pain,bon to go turkey and cheddar picnic,25,g,95,mg,1560,g,66,g,33,g,12,g,0,g,1,g,15,g
+834,au bon pain,broccoli cheddar soup large,32,g,80,mg,1390,g,27,g,14,g,15,g,1,g,4,g,7,g
+835,au bon pain,broccoli cheddar soup medium,24,g,60,mg,1040,g,20,g,10,g,11,g,0.5,g,3,g,6,g
+836,au bon pain,broccoli cheddar soup small,16,g,40,mg,690,g,13,g,7,g,7,g,0,g,2,g,4,g
+837,au bon pain,brownie bites,33,g,90,mg,230,g,87,g,8,g,14,g,0,g,5,g,68,g
+838,au bon pain,caesar asiago salad no dressing,7,g,15,mg,230,g,19,g,8,g,3,g,0,g,4,g,2,g
+839,au bon pain,caesar dressing,19,g,15,mg,500,g,3,g,2,g,3.5,g,0,g,0,g,2,g
+840,au bon pain,caffe americano large,0,g,0,mg,35,g,3,g,0,g,0,g,0,g,0,g,3,g
+841,au bon pain,caffe americano medium,0,g,0,mg,25,g,2,g,0,g,0,g,0,g,0,g,2,g
+842,au bon pain,caffe latte large,9,g,25,mg,135,g,15,g,9,g,5,g,0,g,0,g,15,g
+843,au bon pain,caffe latte medium,7,g,20,mg,105,g,12,g,7,g,4,g,0,g,0,g,12,g
+844,au bon pain,caffe milano large,10,g,25,mg,150,g,48,g,10,g,6,g,0,g,0,g,45,g
+845,au bon pain,caffe milano medium,8,g,20,mg,115,g,39,g,8,g,4.5,g,0,g,0,g,37,g
+846,au bon pain,caffeine free diet coke large,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+847,au bon pain,caffeine free diet coke medium,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+848,au bon pain,cape cod original potato chips,12,g,0,mg,160,g,25,g,3,g,1,g,0,g,2,g,1,g
+849,au bon pain,cape cod reduced fat sweet mesquite bbq potato chips,8,g,0,mg,190,g,26,g,3,g,0.5,g,0,g,2,g,2,g
+850,au bon pain,cape cod sea salt and vinegar potato chips,10,g,0,mg,390,g,28,g,3,g,1,g,0,g,1,g,0,g
+851,au bon pain,cappuccino large,8,g,25,mg,125,g,14,g,8,g,4.5,g,0,g,0,g,14,g
+852,au bon pain,cappuccino medium,6,g,20,mg,90,g,10,g,6,g,3.5,g,0,g,0,g,10,g
+853,au bon pain,caramel macchiato large,10,g,30,mg,170,g,51,g,10,g,6,g,0,g,0,g,48,g
+854,au bon pain,caramel macchiato medium,8,g,25,mg,135,g,41,g,8,g,4.5,g,0,g,0,g,40,g
+855,au bon pain,chai latte large,9,g,25,mg,120,g,38,g,9,g,5,g,0,g,0,g,38,g
+856,au bon pain,chai latte medium,7,g,20,mg,90,g,30,g,7,g,4,g,0,g,0,g,30,g
+857,au bon pain,chewy marshmallow bar,5,g,15,mg,250,g,50,g,2,g,3.5,g,0,g,0,g,27,g
+858,au bon pain,chicken caesar asiago salad no dressing,9,g,90,mg,410,g,21,g,33,g,3.5,g,0,g,4,g,2,g
+859,au bon pain,chicken caesar wrap,26,g,80,mg,810,g,51,g,31,g,9,g,0,g,3,g,4,g
+860,au bon pain,chicken cobb with avocado salad no dressing,25,g,270,mg,970,g,17,g,44,g,10,g,0,g,6,g,7,g
+861,au bon pain,chicken noodle soup large,3.5,g,40,mg,1370,g,20,g,10,g,1,g,0,g,2,g,3,g
+862,au bon pain,chicken noodle soup medium,2.5,g,30,mg,1030,g,15,g,8,g,1,g,0,g,1,g,3,g
+863,au bon pain,chicken noodle soup small,2,g,20,mg,690,g,10,g,5,g,0.5,g,0,g,1,g,2,g
+864,au bon pain,chicken salad on multigrain whole sandwich,13,g,75,mg,940,g,55,g,32,g,2.5,g,0,g,4,g,7,g
+865,au bon pain,chicken salad on semolina half sandwich,7,g,35,mg,580,g,34,g,17,g,1,g,0,g,2,g,3,g
+866,au bon pain,chicken salad on semolina whole sandwich,13,g,75,mg,1160,g,67,g,34,g,2,g,0,g,4,g,5,g
+867,au bon pain,chili lime vinaigrette,9,g,0,mg,300,g,7,g,0,g,1,g,0,g,0,g,6,g
+868,au bon pain,chipotle turkey and avocado sandwich,34,g,85,mg,1660,g,62,g,39,g,9,g,0,g,5,g,7,g
+869,au bon pain,chocolate chip cookie,18,g,45,mg,120,g,54,g,3,g,11,g,0,g,2,g,35,g
+870,au bon pain,chocolate covered almonds,29,g,0,mg,75,g,46,g,7,g,17,g,0,g,5,g,39,g
+871,au bon pain,chocolate cranberry almond coconut macaroon,16,g,0,mg,110,g,34,g,4,g,13,g,0,g,2,g,25,g
+872,au bon pain,chocolate croissant,25,g,75,mg,380,g,55,g,8,g,16,g,0,g,3,g,25,g
+873,au bon pain,ciabatta,1,g,0,mg,580,g,53,g,10,g,0,g,0,g,2,g,2,g
+874,au bon pain,cinnamon chip scone,25,g,120,mg,520,g,50,g,7,g,15,g,0,g,1,g,19,g
+875,au bon pain,cinnamon raisin bagel,1,g,0,mg,470,g,57,g,10,g,0,g,0,g,4,g,11,g
+876,au bon pain,cinnamon swirl roll,25,g,70,mg,360,g,73,g,6,g,13,g,0,g,4,g,37,g
+877,au bon pain,citrus lime vinaigrette,9,g,0,mg,260,g,7,g,0,g,1,g,0,g,0,g,6,g
+878,au bon pain,clam chowder large,26,g,75,mg,1490,g,42,g,15,g,10,g,0.5,g,3,g,12,g
+879,au bon pain,clam chowder medium,20,g,55,mg,1120,g,32,g,11,g,8,g,0,g,2,g,9,g
+880,au bon pain,clam chowder small,13,g,40,mg,740,g,21,g,7,g,5,g,0,g,1,g,6,g
+881,au bon pain,classic grilled cheese sandwich,23,g,70,mg,860,g,46,g,24,g,14,g,0,g,1,g,1,g
+882,au bon pain,classic oatmeal raisin cookie,11,g,40,mg,150,g,46,g,4,g,6,g,0,g,2,g,24,g
+883,au bon pain,classic oatmeal large,6,g,0,mg,15,g,63,g,13,g,1,g,0,g,9,g,1,g
+884,au bon pain,classic oatmeal medium,5,g,0,mg,10,g,47,g,10,g,0.5,g,0,g,6,g,1,g
+885,au bon pain,classic oatmeal small,3,g,0,mg,5,g,32,g,6,g,0,g,0,g,4,g,1,g
+886,au bon pain,coffee cake muffin,32,g,90,mg,400,g,78,g,6,g,8,g,0,g,2,g,46,g
+887,au bon pain,coke zero large,0,g,0,mg,20,g,0,g,0,g,0,g,0,g,0,g,0,g
+888,au bon pain,coke zero medium,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+889,au bon pain,coke large,0,g,0,mg,10,g,104,g,0,g,0,g,0,g,0,g,104,g
+890,au bon pain,coke medium,0,g,0,mg,5,g,78,g,0,g,0,g,0,g,0,g,78,g
+891,au bon pain,cold lunch bar almonds,14,g,0,mg,0,g,6,g,6,g,1,g,0,g,4,g,1,g
+892,au bon pain,cold lunch bar apple smoked bacon,10,g,15,mg,660,g,0,g,9,g,3.5,g,0,g,0,g,0,g
+893,au bon pain,cold lunch bar asiago,8,g,25,mg,170,g,1,g,7,g,5,g,0,g,0,g,0,g
+894,au bon pain,cold lunch bar black bean and corn salad,1.5,g,0,mg,50,g,4,g,2,g,0,g,0,g,1,g,1,g
+895,au bon pain,cold lunch bar black beans,0,g,0,mg,30,g,5,g,2,g,0,g,0,g,1,g,0,g
+896,au bon pain,cold lunch bar caesar salad,1,g,0,mg,35,g,3,g,1,g,0,g,0,g,1,g,0,g
+897,au bon pain,cold lunch bar cantaloupe,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+898,au bon pain,cold lunch bar carrot and raisin salad,7,g,5,mg,55,g,5,g,0,g,1,g,0,g,0,g,3,g
+899,au bon pain,cold lunch bar carrots,0,g,0,mg,20,g,3,g,0,g,0,g,0,g,1,g,1,g
+900,au bon pain,cold lunch bar chicken salad,2.5,g,20,mg,110,g,1,g,6,g,0,g,0,g,0,g,0,g
+901,au bon pain,cold lunch bar chickpeas,0,g,0,mg,30,g,3,g,1,g,0,g,0,g,1,g,1,g
+902,au bon pain,cold lunch bar chickpeas and tomatoes salad,2,g,0,mg,100,g,3,g,1,g,0,g,0,g,1,g,1,g
+903,au bon pain,cold lunch bar corn,0,g,0,mg,0,g,4,g,1,g,0,g,0,g,1,g,2,g
+904,au bon pain,cold lunch bar cottage cheese,1.5,g,5,mg,110,g,1,g,3,g,1,g,0,g,0,g,1,g
+905,au bon pain,cold lunch bar croutons,2.5,g,0,mg,140,g,14,g,3,g,0,g,0,g,1,g,1,g
+906,au bon pain,cold lunch bar cucumber,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+907,au bon pain,cold lunch bar edamame,2,g,0,mg,0,g,3,g,4,g,0,g,0,g,1,g,1,g
+908,au bon pain,cold lunch bar feta,8,g,25,mg,250,g,1,g,6,g,4.5,g,0,g,0,g,0,g
+909,au bon pain,cold lunch bar grapefruit sections,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,1,g,2,g
+910,au bon pain,cold lunch bar grapes,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,4,g
+911,au bon pain,cold lunch bar greek vanilla yogurt,0,g,0,mg,10,g,3,g,2,g,0,g,0,g,0,g,3,g
+912,au bon pain,cold lunch bar hard boiled eggs,3,g,105,mg,35,g,0,g,4,g,1,g,0,g,0,g,0,g
+913,au bon pain,cold lunch bar harvest turkey salad,1.5,g,5,mg,70,g,3,g,3,g,0,g,0,g,0,g,2,g
+914,au bon pain,cold lunch bar honeydew,0,g,0,mg,5,g,3,g,0,g,0,g,0,g,0,g,2,g
+915,au bon pain,cold lunch bar kalamata olives,6,g,0,mg,390,g,4,g,1,g,0.5,g,0,g,1,g,0,g
+916,au bon pain,cold lunch bar lettuce blend,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,0,g
+917,au bon pain,cold lunch bar mediterranean pasta salad,2,g,0,mg,50,g,7,g,2,g,0,g,0,g,1,g,1,g
+918,au bon pain,cold lunch bar mixed salad greens,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,1,g,0,g
+919,au bon pain,cold lunch bar mozzarella,5,g,20,mg,70,g,0,g,6,g,3.5,g,0,g,0,g,0,g
+920,au bon pain,cold lunch bar onion,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,1,g
+921,au bon pain,cold lunch bar pesto tortellini,3.5,g,5,mg,55,g,5,g,1,g,0,g,0,g,0,g,0,g
+922,au bon pain,cold lunch bar pickled beets,0,g,0,mg,75,g,5,g,0,g,0,g,0,g,0,g,4,g
+923,au bon pain,cold lunch bar red pepper,0,g,0,mg,115,g,2,g,0,g,0,g,0,g,1,g,1,g
+924,au bon pain,cold lunch bar romaine,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,0,g
+925,au bon pain,cold lunch bar sliced chicken,0.5,g,20,mg,50,g,1,g,7,g,0,g,0,g,0,g,0,g
+926,au bon pain,cold lunch bar southwest chicken salad,0.5,g,5,mg,20,g,2,g,2,g,0,g,0,g,1,g,1,g
+927,au bon pain,cold lunch bar spinach,0,g,0,mg,20,g,1,g,1,g,0,g,0,g,1,g,0,g
+928,au bon pain,cold lunch bar sweetened dried cranberries,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,1,g,19,g
+929,au bon pain,cold lunch bar tomatoes,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+930,au bon pain,cold lunch bar tuna,0,g,15,mg,40,g,1,g,9,g,0,g,0,g,0,g,0,g
+931,au bon pain,cold lunch bar turkey,0,g,15,mg,200,g,0,g,7,g,0,g,0,g,0,g,0,g
+932,au bon pain,cold lunch bar vegetarian deluxe salad,1,g,0,mg,60,g,2,g,1,g,0,g,0,g,1,g,1,g
+933,au bon pain,cold lunch bar walnuts,19,g,0,mg,0,g,1,g,4,g,1.5,g,0,g,3,g,1,g
+934,au bon pain,cold lunch bar wontons,6,g,0,mg,150,g,18,g,3,g,1,g,0,g,1,g,1,g
+935,au bon pain,corn and green chili bisque large,22,g,65,mg,1780,g,35,g,7,g,12,g,0.5,g,4,g,7,g
+936,au bon pain,corn and green chili bisque medium,16,g,45,mg,1330,g,26,g,6,g,9,g,0,g,3,g,5,g
+937,au bon pain,corn and green chili bisque small,11,g,30,mg,890,g,17,g,4,g,6,g,0,g,2,g,3,g
+938,au bon pain,corn muffin,22,g,85,mg,290,g,62,g,7,g,4,g,0,g,1,g,28,g
+939,au bon pain,country grilled cheesse sandwich,28,g,80,mg,1110,g,48,g,27,g,16,g,0,g,2,g,3,g
+940,au bon pain,country white bread,1,g,0,mg,480,g,45,g,8,g,0,g,0,g,1,g,1,g
+941,au bon pain,diet coke large,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+942,au bon pain,diet coke medium,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+943,au bon pain,double chocolate brownie,27,g,75,mg,190,g,66,g,6,g,12,g,0,g,4,g,50,g
+944,au bon pain,double chocolate chunk muffin,30,g,90,mg,320,g,66,g,8,g,8,g,0,g,2,g,41,g
+945,au bon pain,double chocolate mudslide cookie,19,g,50,mg,170,g,50,g,5,g,10,g,0,g,2,g,32,g
+946,au bon pain,egg whites and cheddar on skinny wheat bagel,7,g,20,mg,490,g,22,g,19,g,4.5,g,0,g,6,g,1,g
+947,au bon pain,egg whites cheddar and avocado on skinny wheat,23,g,50,mg,590,g,25,g,19,g,12,g,0.5,g,9,g,1,g
+948,au bon pain,english toffee cookie,16,g,50,mg,240,g,42,g,4,g,9,g,0,g,1,g,25,g
+949,au bon pain,espresso double shot,0,g,0,mg,15,g,1,g,0,g,0,g,0,g,0,g,1,g
+950,au bon pain,everything bagel,1.5,g,0,mg,660,g,54,g,10,g,0,g,0,g,4,g,6,g
+951,au bon pain,extra bacon blt half sandwich,12,g,20,mg,730,g,26,g,9,g,3.5,g,0,g,0,g,2,g
+952,au bon pain,extra bacon blt whole sandwich,24,g,45,mg,1450,g,52,g,17,g,7,g,0,g,1,g,3,g
+953,au bon pain,food should taste good all natural multigrain chips,9,g,0,mg,120,g,27,g,4,g,1,g,0,g,5,g,2,g
+954,au bon pain,fresh grapes,0,g,0,mg,0,g,41,g,2,g,0,g,0,g,2,g,35,g
+955,au bon pain,fresh watermelon,0,g,0,mg,0,g,17,g,1,g,0,g,0,g,1,g,14,g
+956,au bon pain,fruit cup large,0.5,g,0,mg,30,g,36,g,2,g,0,g,0,g,2,g,32,g
+957,au bon pain,fruit cup medium,0,g,0,mg,15,g,18,g,1,g,0,g,0,g,1,g,16,g
+958,au bon pain,fuze raspberry iced tea large,0,g,0,mg,30,g,66,g,0,g,0,g,0,g,0,g,0,g
+959,au bon pain,fuze raspberry iced tea medium,0,g,0,mg,20,g,50,g,0,g,0,g,0,g,0,g,50,g
+960,au bon pain,garden vegetable cream cheese spread,10,g,30,mg,230,g,2,g,2,g,6,g,0,g,0,g,2,g
+961,au bon pain,greek vanilla yogurt and strawberry parfait,8,g,20,mg,115,g,45,g,23,g,3.5,g,0,g,5,g,32,g
+962,au bon pain,greek vanilla yogurt and wild blueberry parfait,8,g,20,mg,115,g,44,g,23,g,3.5,g,0,g,4,g,31,g
+963,au bon pain,ham and 2 cheese sandwich,24,g,85,mg,1900,g,55,g,32,g,9,g,0,g,4,g,9,g
+964,au bon pain,ham and cheese croissant,21,g,85,mg,590,g,25,g,18,g,13,g,0.5,g,1,g,6,g
+965,au bon pain,harvest pumpkin soup large,18,g,50,mg,1420,g,35,g,4,g,10,g,0,g,3,g,12,g
+966,au bon pain,harvest pumpkin soup medium,13,g,35,mg,1070,g,24,g,3,g,7,g,0,g,3,g,9,g
+967,au bon pain,harvest pumpkin soup small,9,g,25,mg,710,g,18,g,2,g,5,g,0,g,2,g,6,g
+968,au bon pain,harvest turkey salad no dressing,15,g,75,mg,790,g,32,g,30,g,3.5,g,0,g,6,g,22,g
+969,au bon pain,herb cream cheese,7,g,25,mg,180,g,4,g,3,g,4.5,g,0,g,0,g,2,g
+970,au bon pain,homestyle lemonade large,0,g,0,mg,0,g,103,g,0,g,0,g,0,g,0,g,97,g
+971,au bon pain,homestyle lemonade medium,0,g,0,mg,0,g,78,g,0,g,0,g,0,g,0,g,72,g
+972,au bon pain,hot breakfast bar roasted potatoes,1,g,0,mg,110,g,6,g,1,g,0,g,0,g,1,g,0,g
+973,au bon pain,hot breakfast bar sausage with peppers and onions,2.5,g,5,mg,110,g,1,g,3,g,0.5,g,0,g,0,g,0,g
+974,au bon pain,hot breakfast bar scrambled eggs,2,g,85,mg,75,g,1,g,3,g,0.5,g,0,g,0,g,0,g
+975,au bon pain,hot breakfast bar scrambled eggs ham and cheese,2.5,g,75,mg,100,g,1,g,3,g,1,g,0,g,0,g,1,g
+976,au bon pain,hot breakfast bar warm apple bake,3,g,10,mg,90,g,11,g,2,g,2,g,0,g,0,g,4,g
+977,au bon pain,hot chocolate large,15,g,40,mg,160,g,66,g,12,g,9,g,0,g,0,g,65,g
+978,au bon pain,hot chocolate medium,12,g,35,mg,130,g,51,g,10,g,7,g,0,g,0,g,50,g
+979,au bon pain,hot lunch bar adobo chicken,0.5,g,10,mg,125,g,1,g,4,g,0,g,0,g,0,g,1,g
+980,au bon pain,hot lunch bar asian rice with edamame and carrots,0,g,0,mg,10,g,6,g,1,g,0,g,0,g,0,g,0,g
+981,au bon pain,hot lunch bar beef and broccoli,1,g,10,mg,105,g,2,g,3,g,0,g,0,g,0,g,1,g
+982,au bon pain,hot lunch bar black beans and rice,0,g,0,mg,15,g,5,g,1,g,0,g,0,g,1,g,0,g
+983,au bon pain,hot lunch bar broccoli chicken pasta alfredo,2,g,10,mg,40,g,5,g,2,g,1,g,0,g,0,g,0,g
+984,au bon pain,hot lunch bar brown rice,0,g,0,mg,15,g,6,g,1,g,0,g,0,g,0,g,0,g
+985,au bon pain,hot lunch bar bruschetta wings,5,g,20,mg,160,g,0,g,6,g,1,g,0,g,0,g,0,g
+986,au bon pain,hot lunch bar chicken dumplings,1,g,5,mg,150,g,7,g,2,g,0,g,0,g,0,g,1,g
+987,au bon pain,hot lunch bar chipotle wings,4.5,g,20,mg,190,g,2,g,6,g,1,g,0,g,0,g,1,g
+988,au bon pain,hot lunch bar corn bread,5,g,20,mg,60,g,13,g,1,g,1,g,0,g,0,g,6,g
+989,au bon pain,hot lunch bar honey and herb carrots,1.5,g,5,mg,30,g,4,g,0,g,1,g,0,g,1,g,1,g
+990,au bon pain,hot lunch bar meatballs in marinara sauce with penne,2.5,g,5,mg,105,g,4,g,2,g,1,g,0,g,1,g,1,g
+991,au bon pain,hot lunch bar mediterranean rice,0.5,g,0,mg,25,g,6,g,1,g,0,g,0,g,0,g,0,g
+992,au bon pain,hot lunch bar pork carnitas,2.5,g,10,mg,110,g,1,g,5,g,0.5,g,0,g,0,g,1,g
+993,au bon pain,hot lunch bar pulled bbq pork,1.5,g,10,mg,150,g,4,g,4,g,0,g,0,g,0,g,4,g
+994,au bon pain,hot lunch bar red beans and rice,0,g,0,mg,55,g,5,g,1,g,0,g,0,g,1,g,0,g
+995,au bon pain,hot lunch bar roasted corn and jalapenos,0,g,0,mg,20,g,4,g,1,g,0,g,0,g,1,g,2,g
+996,au bon pain,hot lunch bar roasted mediterranean vegetables,2,g,0,mg,95,g,4,g,1,g,0,g,0,g,1,g,1,g
+997,au bon pain,hot lunch bar sesame green beans,1,g,0,mg,55,g,2,g,1,g,0,g,0,g,1,g,1,g
+998,au bon pain,hot lunch bar smothered beans,2,g,5,mg,105,g,2,g,1,g,1,g,0,g,0,g,1,g
+999,au bon pain,hot lunch bar southwest wings,5,g,20,mg,170,g,0,g,6,g,1.5,g,0,g,0,g,0,g

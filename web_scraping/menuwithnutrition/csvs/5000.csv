@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,abuelos,abuelos dip sampler,58,g,90,mg,2800,g,34,g,24,g,19,g,1,g,9,g,12,g
+1,abuelos,abuelos signature cherry mojito,0,g,0,mg,10,g,39,g,0,g,0,g,0,g,1,g,33,g
+2,abuelos,abuelos signature mango mojito,0,g,0,mg,10,g,37,g,0,g,0,g,0,g,1,g,33,g
+3,abuelos,abuelos signature mixed berry mojito,0,g,0,mg,10,g,33,g,0,g,0,g,0,g,0,g,31,g
+4,abuelos,abuelos signature mojito,0,g,0,mg,10,g,28,g,0,g,0,g,0,g,0,g,26,g
+5,abuelos,add kids side french fries,27,g,0,mg,870,g,56,g,5,g,8,g,0,g,5,g,0,g
+6,abuelos,add kids side mexican rice,2.5,g,0,mg,560,g,14,g,1,g,0,g,0,g,1,g,2,g
+7,abuelos,add kids side refried beans,5,g,5,mg,390,g,21,g,8,g,1.5,g,0,g,7,g,0,g
+8,abuelos,add on fajita chicken,1.5,g,35,mg,210,g,1,g,12,g,0,g,0,g,0,g,0,g
+9,abuelos,add side 2 eggs,14,g,370,mg,190,g,1,g,13,g,4,g,0,g,0,g,0,g
+10,abuelos,add side mexican rice,3.5,g,0,mg,750,g,19,g,2,g,0,g,0,g,1,g,2,g
+11,abuelos,add side papas con chile,6,g,15,mg,450,g,22,g,5,g,3,g,0,g,2,g,3,g
+12,abuelos,add side refried beans,8,g,5,mg,640,g,35,g,13,g,1.5,g,0.5,g,12,g,0,g
+13,abuelos,agave margarita,0,g,0,mg,2840,g,54,g,0,g,0,g,0,g,1,g,49,g
+14,abuelos,austalian seabass tacos fried,40,g,80,mg,2270,g,88,g,43,g,7,g,0,g,9,g,21,g
+15,abuelos,austalian seabass tacos grilled,29,g,95,mg,2290,g,88,g,49,g,6,g,0,g,9,g,21,g
+16,abuelos,australian sea bass,23,g,105,mg,1340,g,29,g,52,g,4.5,g,2,g,3,g,4,g
+17,abuelos,bacon wrapped stuffed shrimp,30,g,160,mg,750,g,2,g,26,g,9,g,0,g,0,g,1,g
+18,abuelos,bacon wrapped stuffed shrimp fajita,85,g,390,mg,2450,g,26,g,57,g,33,g,1,g,4,g,11,g
+19,abuelos,baja shrimp chowder,44,g,160,mg,1500,g,30,g,20,g,25,g,2.5,g,2,g,6,g
+20,abuelos,baja shrimp chowder lunch,19,g,70,mg,540,g,10,g,6,g,11,g,1,g,1,g,3,g
+21,abuelos,beef tenderloin flameado with corn tortillas,68,g,235,mg,1230,g,65,g,73,g,37,g,2.5,g,8,g,10,g
+22,abuelos,beef tenderloin flameado with flour tortillas,73,g,235,mg,1870,g,63,g,74,g,38,g,2.5,g,6,g,10,g
+23,abuelos,beer bottle blue moon,0,g,0,mg,20,g,19,g,3,g,0,g,0,g,0,g,0,g
+24,abuelos,beer bottle bohemia,0,g,0,mg,0,g,14,g,1,g,0,g,0,g,0,g,3,g
+25,abuelos,beer bottle corona extra,0,g,0,mg,15,g,14,g,1,g,0,g,0,g,0,g,4,g
+26,abuelos,beer bottle corona light,0,g,0,mg,0,g,5,g,1,g,0,g,0,g,0,g,0,g
+27,abuelos,beer bottle dos equis,0,g,0,mg,0,g,11,g,4,g,0,g,0,g,0,g,3,g
+28,abuelos,beer bottle heineken,0,g,0,mg,0,g,12,g,2,g,0,g,0,g,0,g,0,g
+29,abuelos,beer bottle lagunitas ipa,0,g,0,mg,0,g,11,g,4,g,0,g,0,g,0,g,3,g
+30,abuelos,beer bottle modelo especial,0,g,0,mg,15,g,14,g,1,g,0,g,0,g,0,g,4,g
+31,abuelos,beer bottle negra modelo,0,g,0,mg,10,g,15,g,1,g,0,g,0,g,0,g,13,g
+32,abuelos,beer bottle pacifico,0,g,0,mg,10,g,14,g,1,g,0,g,0,g,0,g,12,g
+33,abuelos,beer bottle strongbow gold apple,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,0,g,0,g
+34,abuelos,beer bottle tecate,0,g,0,mg,0,g,13,g,1,g,0,g,0,g,0,g,3,g
+35,abuelos,black beans,3,g,5,mg,380,g,21,g,8,g,1,g,0,g,7,g,1,g
+36,abuelos,brocheta de filete 12 oz,45,g,255,mg,2590,g,46,g,95,g,17,g,0,g,8,g,7,g
+37,abuelos,brocheta de filete 9 oz,36,g,200,mg,2420,g,46,g,74,g,14,g,0,g,8,g,7,g
+38,abuelos,carne asada a la tampiquena,65,g,215,mg,2520,g,71,g,76,g,33,g,0.5,g,11,g,10,g
+39,abuelos,carne molida bowl,4,g,20,mg,1030,g,22,g,11,g,1.5,g,0,g,6,g,3,g
+40,abuelos,carne molida cup,3.5,g,15,mg,780,g,17,g,8,g,1.5,g,0,g,4,g,2,g
+41,abuelos,catering alambre de camaron without sides,67,g,335,mg,1730,g,8,g,56,g,22,g,1,g,0,g,3,g
+42,abuelos,catering avocado cream pint,104,g,75,mg,3820,g,45,g,15,g,22,g,0.5,g,22,g,15,g
+43,abuelos,catering avocado cream quart,209,g,145,mg,7630,g,91,g,30,g,43,g,1.5,g,45,g,31,g
+44,abuelos,catering beef tamale with chile con carne 1 only,10,g,20,mg,470,g,15,g,6,g,3.5,g,0,g,0,g,1,g
+45,abuelos,catering charro beans per person,3,g,10,mg,580,g,15,g,7,g,1,g,0,g,5,g,0,g
+46,abuelos,catering charro beans quart,18,g,50,mg,3720,g,94,g,48,g,6,g,0,g,32,g,3,g
+47,abuelos,catering cheese enchilada with chile con carne 1 only,19,g,55,mg,560,g,20,g,16,g,10,g,0,g,2,g,1,g
+48,abuelos,catering chicken enchilada with sour cream sauce 1 only,7,g,35,mg,1090,g,23,g,10,g,2.5,g,0,g,2,g,3,g
+49,abuelos,catering chile con queso pint,48,g,135,mg,3080,g,40,g,34,g,29,g,2,g,1,g,22,g
+50,abuelos,catering chile con queso quart,96,g,270,mg,6150,g,80,g,67,g,58,g,4,g,2,g,43,g
+51,abuelos,catering crispy chicken taco 1 only,8,g,40,mg,380,g,16,g,12,g,2.5,g,0,g,2,g,1,g
+52,abuelos,catering crispy ground beef taco 1 only,14,g,50,mg,330,g,15,g,16,g,5,g,0,g,2,g,1,g
+53,abuelos,catering dulce de leche cheesecake half slice,22,g,105,mg,300,g,64,g,9,g,13,g,0.5,g,0,g,51,g
+54,abuelos,catering dulce de leche cheesecake slice,44,g,205,mg,600,g,129,g,17,g,25,g,1,g,0,g,102,g
+55,abuelos,catering espinaca per person,13,g,35,mg,690,g,11,g,8,g,7,g,0.5,g,2,g,4,g
+56,abuelos,catering espinaca quart,81,g,205,mg,4320,g,70,g,49,g,44,g,3.5,g,14,g,26,g
+57,abuelos,catering fajita condiments with flour tortillas,26,g,40,mg,990,g,57,g,12,g,10,g,0,g,6,g,5,g
+58,abuelos,catering guacamole pint,59,g,0,mg,2200,g,38,g,9,g,9,g,0,g,27,g,5,g
+59,abuelos,catering guacamole quart,118,g,0,mg,4400,g,75,g,17,g,17,g,0,g,54,g,10,g
+60,abuelos,catering layered dip pint,47,g,125,mg,2110,g,42,g,34,g,22,g,2,g,9,g,13,g
+61,abuelos,catering layered dip quart,93,g,250,mg,4210,g,84,g,68,g,43,g,3.5,g,19,g,26,g
+62,abuelos,catering los mejores de la casa without sides,56,g,295,mg,2270,g,12,g,71,g,20,g,0.5,g,1,g,4,g
+63,abuelos,catering marinated fajita chicken without sides or condiments,37,g,155,mg,810,g,18,g,40,g,19,g,0,g,3,g,8,g
+64,abuelos,catering marinated fajita steak without sides or condiments,24,g,160,mg,800,g,18,g,36,g,13,g,0,g,3,g,8,g
+65,abuelos,catering mexican rice per person,3.5,g,0,mg,750,g,19,g,2,g,0,g,0,g,1,g,2,g
+66,abuelos,catering mexican rice quart,26,g,0,mg,5970,g,150,g,16,g,2.5,g,0,g,6,g,16,g
+67,abuelos,catering papas con chile per person,6,g,15,mg,450,g,22,g,5,g,3,g,0,g,2,g,3,g
+68,abuelos,catering papas con chile quart,36,g,100,mg,2870,g,142,g,30,g,21,g,1.5,g,12,g,21,g
+69,abuelos,catering refried beans per person,8,g,5,mg,640,g,35,g,13,g,1.5,g,0.5,g,12,g,0,g
+70,abuelos,catering refried beans quart,49,g,30,mg,4020,g,220,g,83,g,11,g,4,g,75,g,3,g
+71,abuelos,catering sauteed chicken zucchini without sides,60,g,270,mg,1200,g,21,g,40,g,36,g,1,g,2,g,9,g
+72,abuelos,catering shredded beef enchilada with chile con queso 1 only,12,g,35,mg,540,g,23,g,11,g,6,g,0,g,2,g,2,g
+73,abuelos,catering soft ground beef taco 1 only,13,g,50,mg,550,g,17,g,17,g,5,g,0,g,1,g,1,g
+74,abuelos,catering sopapillas one each,5,g,0,mg,240,g,19,g,2,g,0.5,g,0,g,1,g,2,g
+75,abuelos,catering spinach enchilada with salsa de crema 1 only,9,g,20,mg,540,g,26,g,7,g,5,g,0,g,2,g,3,g
+76,abuelos,catering stuffed chicken medallions without sides,66,g,220,mg,1760,g,67,g,58,g,17,g,1,g,3,g,7,g
+77,abuelos,catering tres leche cake half slice,18,g,80,mg,150,g,48,g,6,g,13,g,0,g,0,g,40,g
+78,abuelos,catering tres leche cake slice,37,g,155,mg,290,g,97,g,12,g,25,g,0,g,0,g,79,g
+79,abuelos,cerveza margarita,0,g,0,mg,2870,g,83,g,1,g,0,g,0,g,0,g,74,g
+80,abuelos,charro beans,3,g,10,mg,580,g,15,g,7,g,1,g,0,g,5,g,0,g
+81,abuelos,chicken chile chowder bowl,12,g,60,mg,1370,g,12,g,15,g,6,g,0.5,g,1,g,5,g
+82,abuelos,chicken chile chowder cup,9,g,45,mg,1030,g,9,g,11,g,4.5,g,0,g,1,g,4,g
+83,abuelos,chicken fajita,24,g,160,mg,800,g,18,g,36,g,13,g,0,g,3,g,8,g
+84,abuelos,chile con queso,24,g,70,mg,1540,g,20,g,17,g,15,g,1,g,0,g,11,g
+85,abuelos,chile rellenos cheese with chile con queso and enchilada,36,g,60,mg,1330,g,60,g,30,g,14,g,1,g,14,g,8,g
+86,abuelos,chile rellenos cheese with ranchera sauce and enchilada,33,g,45,mg,1390,g,59,g,28,g,11,g,1,g,15,g,7,g
+87,abuelos,chile rellenos shredded beef with chile con queso and enchilada,26,g,35,mg,1200,g,60,g,24,g,8,g,1,g,14,g,8,g
+88,abuelos,chile rellenos shredded beef with ranchera sauce and enchilada,24,g,20,mg,1260,g,59,g,22,g,5,g,1,g,15,g,7,g
+89,abuelos,chips only,12,g,0,mg,20,g,44,g,6,g,1.5,g,0,g,5,g,1,g
+90,abuelos,chocolate eruption,37,g,80,mg,980,g,141,g,14,g,18,g,0,g,4,g,87,g
+91,abuelos,cilantro lime rice,1,g,0,mg,320,g,20,g,2,g,0,g,0,g,1,g,0,g
+92,abuelos,cilantro lime soup bowl,2.5,g,25,mg,950,g,9,g,7,g,0.5,g,0,g,2,g,2,g
+93,abuelos,cilantro lime soup cup,2,g,20,mg,720,g,7,g,6,g,0,g,0,g,1,g,2,g
+94,abuelos,crispy tacos chicken tinga,34,g,150,mg,2010,g,86,g,56,g,9,g,1,g,18,g,4,g
+95,abuelos,crispy tacos seasoned ground beef,56,g,175,mg,1830,g,82,g,71,g,18,g,2,g,18,g,3,g
+96,abuelos,del rio,46,g,125,mg,2000,g,86,g,54,g,15,g,1.5,g,17,g,3,g
+97,abuelos,dulce de leche cheesecake,44,g,205,mg,600,g,129,g,17,g,25,g,1,g,0,g,102,g
+98,abuelos,durango burrito,35,g,65,mg,2020,g,66,g,34,g,11,g,1.5,g,16,g,5,g
+99,abuelos,el jefe margarita,0,g,0,mg,2840,g,41,g,1,g,0,g,0,g,1,g,37,g
+100,abuelos,enchilada avocado with cream sauce,12,g,10,mg,310,g,26,g,5,g,4,g,0,g,4,g,1,g
+101,abuelos,enchilada avocado with ranchera sauce,12,g,5,mg,390,g,25,g,5,g,2.5,g,0,g,5,g,2,g
+102,abuelos,enchilada cheese with chile con carne,19,g,55,mg,560,g,20,g,16,g,10,g,0,g,2,g,1,g
+103,abuelos,enchilada cheese with green chile sauce,17,g,45,mg,430,g,19,g,14,g,10,g,0,g,2,g,1,g
+104,abuelos,enchilada cheese with red chile sauce,20,g,45,mg,510,g,20,g,14,g,10,g,0,g,2,g,1,g
+105,abuelos,enchilada chicken with green chile sauce,5,g,30,mg,410,g,20,g,10,g,2,g,0,g,2,g,1,g
+106,abuelos,enchilada chicken with ranchera sauce,7,g,30,mg,630,g,23,g,11,g,2,g,0,g,2,g,2,g
+107,abuelos,enchilada chicken with sour cream sauce,7,g,35,mg,1090,g,23,g,10,g,2.5,g,0,g,2,g,3,g
+108,abuelos,enchilada seasoned ground beef with chile con carne,12,g,45,mg,500,g,20,g,16,g,4.5,g,0,g,2,g,1,g
+109,abuelos,enchilada shredded beef with chile con queso,12,g,35,mg,540,g,23,g,11,g,6,g,0,g,2,g,2,g
+110,abuelos,enchilada shredded beef with ranchera sauce,10,g,20,mg,530,g,22,g,9,g,3.5,g,0,g,2,g,2,g
+111,abuelos,enchilada shredded beef with red chile sauce,11,g,20,mg,390,g,21,g,8,g,3.5,g,0,g,2,g,1,g
+112,abuelos,enchilada spinach with cream sauce,9,g,20,mg,540,g,26,g,7,g,5,g,0,g,2,g,3,g
+113,abuelos,enchilada spinach with ranchera sauce,9,g,15,mg,590,g,24,g,6,g,3.5,g,0,g,3,g,3,g
+114,abuelos,enchiladas de cozumel,76,g,210,mg,1610,g,101,g,30,g,32,g,3,g,16,g,10,g
+115,abuelos,espinaca casserole,13,g,35,mg,690,g,11,g,8,g,7,g,0.5,g,2,g,4,g
+116,abuelos,espinaca stuffed mushrooms,19,g,55,mg,870,g,13,g,11,g,11,g,0,g,2,g,5,g
+117,abuelos,fajita chimichanga chicken with chile con queso,81,g,120,mg,2650,g,105,g,51,g,23,g,3.5,g,18,g,7,g
+118,abuelos,fajita chimichanga chicken with ranchera sauce,79,g,110,mg,2640,g,103,g,49,g,20,g,3.5,g,18,g,6,g
+119,abuelos,fajita chimichanga steak with chile con queso,81,g,110,mg,2590,g,104,g,50,g,25,g,3.5,g,18,g,7,g
+120,abuelos,fajita chimichanga steak with ranchera sauce,81,g,110,mg,2590,g,104,g,50,g,25,g,3.5,g,18,g,7,g
+121,abuelos,fajita salad chicken,21,g,100,mg,1160,g,47,g,38,g,7,g,0,g,11,g,13,g
+122,abuelos,fajita salad shrimp,26,g,185,mg,1150,g,54,g,29,g,10,g,0,g,12,g,18,g
+123,abuelos,fajita salad steak,30,g,85,mg,1110,g,46,g,38,g,11,g,0,g,11,g,13,g
+124,abuelos,fajita sides and condiments with corn tortillas,21,g,40,mg,350,g,59,g,11,g,8,g,0,g,8,g,5,g
+125,abuelos,fajita sides and condiments with flour tortillas,26,g,40,mg,990,g,57,g,12,g,10,g,0,g,6,g,5,g
+126,abuelos,fajita sides and condimetns with romaine leaves,18,g,40,mg,310,g,11,g,6,g,8,g,0,g,4,g,4,g
+127,abuelos,fajita trio,34,g,315,mg,1920,g,47,g,55,g,18,g,0,g,4,g,30,g
+128,abuelos,fat free vinaigrette,0,g,0,mg,780,g,15,g,0,g,0,g,0,g,0,g,9,g
+129,abuelos,fountain coke,0,g,0,mg,40,g,33,g,0,g,0,g,0,g,0,g,33,g
+130,abuelos,fountain coke zero,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+131,abuelos,fountain diet coke,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+132,abuelos,fountain diet dr pepper,0,g,0,mg,50,g,0,g,0,g,0,g,0,g,0,g,0,g
+133,abuelos,fountain dr pepper,0,g,0,mg,50,g,33,g,0,g,0,g,0,g,0,g,32,g
+134,abuelos,fountain fuze raspberry iced tea,0,g,0,mg,5,g,13,g,0,g,0,g,0,g,0,g,13,g
+135,abuelos,fountain sprite,0,g,0,mg,30,g,34,g,0,g,0,g,0,g,0,g,30,g
+136,abuelos,fruit margarita frozen grande mango,0,g,0,mg,40,g,156,g,0,g,0,g,0,g,0,g,151,g
+137,abuelos,fruit margarita frozen grande peach,0,g,0,mg,45,g,153,g,0,g,0,g,0,g,0,g,149,g
+138,abuelos,fruit margarita frozen grande raspberry,0,g,0,mg,30,g,153,g,0,g,0,g,0,g,0,g,148,g
+139,abuelos,fruit margarita frozen grande strawberry,0,g,0,mg,40,g,151,g,0,g,0,g,0,g,0,g,144,g
+140,abuelos,fruit margarita frozen pitcher mango without sugar rim,0,g,0,mg,105,g,363,g,0,g,0,g,0,g,1,g,351,g
+141,abuelos,fruit margarita frozen pitcher peach without sugar rim,0,g,0,mg,115,g,357,g,0,g,0,g,0,g,1,g,347,g
+142,abuelos,fruit margarita frozen pitcher raspberry without sugar rim,0,g,0,mg,90,g,358,g,0,g,0,g,0,g,1,g,345,g
+143,abuelos,fruit margarita frozen pitcher strawberry without sugar rim,0,g,0,mg,105,g,353,g,0,g,0,g,0,g,1,g,338,g
+144,abuelos,fruit margarita frozen regular mango,0,g,0,mg,25,g,97,g,0,g,0,g,0,g,0,g,93,g
+145,abuelos,fruit margarita frozen regular peach,0,g,0,mg,25,g,95,g,0,g,0,g,0,g,0,g,92,g
+146,abuelos,fruit margarita frozen regular raspberry,0,g,0,mg,20,g,95,g,0,g,0,g,0,g,0,g,92,g
+147,abuelos,fruit margarita frozen regular strawberry,0,g,0,mg,25,g,94,g,0,g,0,g,0,g,0,g,89,g
+148,abuelos,grande burrito seasoned ground beef with chile con carne without sides,46,g,140,mg,2870,g,85,g,60,g,16,g,2.5,g,15,g,4,g
+149,abuelos,grande burrito shredded chicken with sour cream sauce without sides,33,g,120,mg,4650,g,93,g,44,g,13,g,2,g,14,g,12,g
+150,abuelos,green chile chicken quesadilla,90,g,220,mg,2170,g,90,g,50,g,41,g,1,g,19,g,14,g
+151,abuelos,green chile quesadilla,81,g,180,mg,1320,g,54,g,25,g,39,g,0.5,g,7,g,13,g
+152,abuelos,green chili stew bowl,6,g,30,mg,790,g,11,g,11,g,2,g,0,g,2,g,2,g
+153,abuelos,green chili stew cup,4,g,25,mg,590,g,8,g,9,g,1.5,g,0,g,2,g,1,g
+154,abuelos,grilled chicken salad with honey mustard dressing,54,g,90,mg,1000,g,74,g,36,g,7,g,0,g,12,g,50,g
+155,abuelos,guacamole large,29,g,0,mg,1100,g,21,g,5,g,4.5,g,0,g,13,g,3,g
+156,abuelos,guacamole small,15,g,0,mg,570,g,12,g,3,g,2,g,0,g,7,g,2,g
+157,abuelos,guerrero sauce,48,g,245,mg,900,g,19,g,19,g,27,g,1,g,3,g,7,g
+158,abuelos,hand shaken margarita,0,g,0,mg,2840,g,35,g,0,g,0,g,0,g,0,g,27,g
+159,abuelos,honey lime dressing,27,g,15,mg,530,g,28,g,0,g,4,g,0,g,0,g,27,g
+160,abuelos,honey mustard dressing,49,g,25,mg,720,g,27,g,1,g,7,g,0,g,1,g,26,g
+161,abuelos,jalapeno cheese fritters,86,g,125,mg,1510,g,71,g,37,g,29,g,1,g,4,g,11,g
+162,abuelos,juarez,60,g,170,mg,3150,g,109,g,65,g,24,g,1.5,g,18,g,6,g
+163,abuelos,kids bean and cheese burrito with queso,29,g,70,mg,1220,g,36,g,25,g,16,g,1,g,6,g,4,g
+164,abuelos,kids beef and bean burrito with queso,19,g,60,mg,1140,g,36,g,24,g,8,g,1,g,6,g,4,g
+165,abuelos,kids cheese enchilada with carne con carne,19,g,55,mg,560,g,20,g,16,g,10,g,0,g,2,g,1,g
+166,abuelos,kids cheese nachos,27,g,40,mg,320,g,49,g,15,g,10,g,0,g,4,g,1,g
+167,abuelos,kids cheese quesadilla,16,g,40,mg,500,g,16,g,12,g,9,g,0,g,1,g,1,g
+168,abuelos,kids cheeseburger taco,14,g,50,mg,500,g,17,g,15,g,6,g,0,g,1,g,1,g
+169,abuelos,kids chicken nuggets,16,g,25,mg,650,g,13,g,11,g,2,g,0,g,1,g,0,g
+170,abuelos,kids grilled chicken,2,g,50,mg,300,g,1,g,17,g,0,g,0,g,0,g,0,g
+171,abuelos,kids taco crispy beef,14,g,50,mg,330,g,15,g,16,g,5,g,0,g,2,g,1,g
+172,abuelos,kids taco soft beef,13,g,50,mg,550,g,17,g,17,g,5,g,0,g,1,g,1,g
+173,abuelos,kids tamale with chile con carne,10,g,20,mg,470,g,15,g,6,g,3.5,g,0,g,0,g,1,g
+174,abuelos,la grandeza frozen grande,0,g,0,mg,2880,g,109,g,0,g,0,g,0,g,0,g,106,g
+175,abuelos,la grandeza frozen mug,0,g,0,mg,2850,g,44,g,0,g,0,g,0,g,0,g,42,g
+176,abuelos,la grandeza frozen pitcher without salt,0,g,0,mg,105,g,271,g,0,g,0,g,0,g,1,g,265,g
+177,abuelos,la grandeza frozen regular,0,g,0,mg,2860,g,65,g,0,g,0,g,0,g,0,g,64,g
+178,abuelos,la grandeza rocks grande,0,g,0,mg,2860,g,63,g,0,g,0,g,0,g,0,g,61,g
+179,abuelos,la grandeza rocks mug,0,g,0,mg,2840,g,25,g,0,g,0,g,0,g,0,g,25,g
+180,abuelos,la grandeza rocks pitcher without salt,0,g,0,mg,60,g,163,g,0,g,0,g,0,g,0,g,159,g
+181,abuelos,la grandeza rocks regular,0,g,0,mg,2850,g,38,g,0,g,0,g,0,g,0,g,37,g
+182,abuelos,laredo,54,g,160,mg,2090,g,92,g,64,g,22,g,1.5,g,18,g,3,g
+183,abuelos,lemonade mango,0,g,0,mg,10,g,36,g,0,g,0,g,0,g,0,g,34,g
+184,abuelos,lemonade raspberry,0,g,0,mg,10,g,36,g,0,g,0,g,0,g,0,g,33,g
+185,abuelos,lemonade strawberry,0,g,0,mg,10,g,35,g,0,g,0,g,0,g,0,g,33,g
+186,abuelos,los mejores de la casa,64,g,315,mg,3300,g,49,g,84,g,24,g,1,g,7,g,8,g
+187,abuelos,lunch chile relleno cheese with chile con queso 1,28,g,55,mg,680,g,25,g,16,g,13,g,0.5,g,2,g,7,g
+188,abuelos,lunch chile relleno cheese with ranchera sauce 1,25,g,40,mg,740,g,24,g,14,g,10,g,0,g,3,g,7,g
+189,abuelos,lunch chile relleno shredded beef with chile con queso 1,19,g,30,mg,560,g,25,g,11,g,6,g,0.5,g,2,g,8,g
+190,abuelos,lunch chile relleno shredded beef with ranchera sauce 1,16,g,15,mg,620,g,24,g,9,g,3,g,0,g,3,g,7,g
+191,abuelos,lunch chile rellenos cheese with chile con queso,36,g,60,mg,1330,g,60,g,30,g,14,g,1,g,14,g,8,g
+192,abuelos,lunch chile rellenos cheese with ranchera sauce,33,g,45,mg,1390,g,59,g,28,g,11,g,1,g,15,g,7,g
+193,abuelos,lunch chile rellenos shredded beef with chile con queso,26,g,35,mg,1200,g,60,g,24,g,8,g,1,g,14,g,8,g
+194,abuelos,lunch chile rellenos shredded beef with ranchera sauce,24,g,20,mg,1260,g,59,g,22,g,5,g,1,g,15,g,7,g
+195,abuelos,lunch chimichanga seasoned ground beef with chile con queso,57,g,90,mg,2120,g,81,g,44,g,17,g,3,g,15,g,6,g
+196,abuelos,lunch chimichanga shredded chicken with chile con queso,51,g,90,mg,2220,g,82,g,42,g,15,g,2.5,g,15,g,6,g
+197,abuelos,lunch durango burrito,35,g,65,mg,2020,g,66,g,34,g,11,g,1.5,g,16,g,5,g
+198,abuelos,lunch enchilada ground beef with chile con carne,12,g,45,mg,500,g,20,g,16,g,4.5,g,0,g,2,g,1,g
+199,abuelos,lunch fajita sides and condiments with corn tortillas,24,g,65,mg,310,g,38,g,15,g,13,g,0.5,g,3,g,4,g
+200,abuelos,lunch fajita sides and condiments with flour tortillas,27,g,65,mg,740,g,37,g,16,g,14,g,0.5,g,2,g,4,g
+201,abuelos,lunch fajitas chicken with charro beans,23,g,135,mg,1140,g,24,g,34,g,12,g,0,g,7,g,5,g
+202,abuelos,lunch fajitas steak with charro beans,31,g,120,mg,1090,g,24,g,34,g,16,g,0,g,7,g,5,g
+203,abuelos,lunch fajitas yucatan shrimp with charro beans,48,g,290,mg,1140,g,38,g,25,g,28,g,0,g,7,g,16,g
+204,abuelos,lunch grande burrito ground beef with chile con carne,46,g,140,mg,2870,g,85,g,60,g,16,g,2.5,g,15,g,4,g
+205,abuelos,lunch grande burrito shredded chicken with sour cream sauce,33,g,120,mg,4650,g,93,g,44,g,13,g,2,g,14,g,12,g
+206,abuelos,lunch half quesadilla al horno chicken,35,g,85,mg,1480,g,60,g,33,g,14,g,1,g,16,g,4,g
+207,abuelos,lunch half quesadilla al horno spinach,38,g,70,mg,1530,g,62,g,27,g,15,g,1.5,g,16,g,5,g
+208,abuelos,lunch half quesadilla al horno steak,37,g,80,mg,1460,g,60,g,33,g,15,g,1,g,16,g,4,g
+209,abuelos,lunch huevos rancheros,62,g,480,mg,2280,g,85,g,60,g,26,g,1,g,17,g,6,g
+210,abuelos,lunch mexican stack,61,g,160,mg,2470,g,62,g,56,g,23,g,2.5,g,15,g,7,g
+211,abuelos,lunch pechuga con calabaza with charro beans and mexican rice,71,g,295,mg,2620,g,57,g,50,g,41,g,1.5,g,8,g,13,g
+212,abuelos,lunch reynosa salad ground beef without dressing,33,g,95,mg,1720,g,36,g,33,g,13,g,1,g,8,g,9,g
+213,abuelos,lunch reynosa salad shredded chicken without dressing,24,g,80,mg,1790,g,38,g,27,g,9,g,0,g,8,g,10,g
+214,abuelos,lunch stuffed chicken medallions,42,g,125,mg,2400,g,72,g,41,g,11,g,1,g,8,g,8,g
+215,abuelos,lunch taco cripsy chicken,9,g,50,mg,460,g,17,g,14,g,2.5,g,0,g,2,g,1,g
+216,abuelos,lunch taco crispy ground beef,16,g,60,mg,400,g,16,g,19,g,6,g,0.5,g,2,g,1,g
+217,abuelos,lunch taco crispy shredded beef,12,g,25,mg,240,g,16,g,10,g,4,g,0,g,2,g,1,g
+218,abuelos,lunch tilapia veracruz with vegetable medley and cilantro lime rice,35,g,145,mg,1240,g,36,g,34,g,15,g,2,g,4,g,8,g
+219,abuelos,magarita pie,36,g,165,mg,260,g,78,g,13,g,23,g,0.5,g,1,g,66,g
+220,abuelos,mexican rice,3.5,g,0,mg,750,g,19,g,2,g,0,g,0,g,1,g,2,g
+221,abuelos,mi abuelos manjar,75,g,550,mg,2610,g,102,g,82,g,31,g,1.5,g,18,g,5,g
+222,abuelos,mojo de ajo sauce,26,g,115,mg,690,g,4,g,13,g,5,g,4.5,g,1,g,1,g
+223,abuelos,nachos grande fajita chicken,109,g,230,mg,2390,g,178,g,78,g,40,g,1.5,g,19,g,8,g
+224,abuelos,nachos grande fajita steak,116,g,220,mg,2350,g,177,g,78,g,43,g,1.5,g,19,g,8,g
+225,abuelos,nachos grande ground beef,127,g,265,mg,2710,g,179,g,88,g,47,g,2.5,g,19,g,9,g
+226,abuelos,nachos grande refried beans,113,g,165,mg,2640,g,211,g,69,g,40,g,2.5,g,31,g,9,g
+227,abuelos,nachos grande shredded chicken,112,g,250,mg,2830,g,182,g,78,g,41,g,2,g,19,g,10,g
+228,abuelos,papas con chile,6,g,15,mg,450,g,22,g,5,g,3,g,0,g,2,g,3,g
+229,abuelos,pechuga con calabaza,71,g,295,mg,2620,g,57,g,50,g,41,g,1.5,g,8,g,13,g
+230,abuelos,platinum margarita,0,g,0,mg,2840,g,35,g,0,g,0,g,0,g,0,g,27,g
+231,abuelos,poblano cream soup bowl,17,g,35,mg,1750,g,24,g,9,g,6,g,0,g,1,g,15,g
+232,abuelos,poblano cream soup cup,13,g,25,mg,1310,g,18,g,7,g,5,g,0,g,1,g,11,g
+233,abuelos,pork shanks,25,g,95,mg,600,g,37,g,27,g,7,g,1.5,g,0,g,29,g
+234,abuelos,pork shanks fajita,102,g,340,mg,1030,g,61,g,44,g,50,g,2,g,4,g,42,g
+235,abuelos,pork tenderloin abrigada,37,g,180,mg,1700,g,42,g,65,g,14,g,0,g,8,g,7,g
+236,abuelos,quesadilla al horno chicken,48,g,135,mg,2110,g,79,g,51,g,20,g,1,g,16,g,5,g
+237,abuelos,quesadilla al horno spinach,54,g,105,mg,2210,g,83,g,39,g,24,g,1.5,g,18,g,8,g
+238,abuelos,quesadilla al horno steak,53,g,125,mg,2060,g,78,g,50,g,23,g,1,g,16,g,5,g
+239,abuelos,queso diablo,24,g,95,mg,1350,g,13,g,30,g,10,g,1,g,2,g,4,g
+240,abuelos,raja con queso,18,g,55,mg,360,g,6,g,15,g,11,g,0,g,1,g,3,g
+241,abuelos,refried beans,8,g,5,mg,640,g,35,g,13,g,1.5,g,0.5,g,12,g,0,g
+242,abuelos,reynosa salad ground beef,62,g,155,mg,2540,g,68,g,54,g,23,g,1.5,g,10,g,11,g
+243,abuelos,reynosa salad shredded chicken,47,g,135,mg,2660,g,70,g,44,g,17,g,0,g,10,g,12,g
+244,abuelos,ribeye steak and enchiladas,37,g,205,mg,2200,g,48,g,74,g,15,g,0,g,9,g,9,g
+245,abuelos,salmon,35,g,145,mg,1280,g,29,g,56,g,6,g,2,g,3,g,4,g
+246,abuelos,salsa especial,0,g,0,mg,300,g,3,g,0,g,0,g,0,g,1,g,2,g
+247,abuelos,salsa roja,0,g,0,mg,390,g,3,g,0,g,0,g,0,g,1,g,2,g
+248,abuelos,salsa tropical tomatilla,0,g,0,mg,180,g,4,g,0,g,0,g,0,g,1,g,3,g
+249,abuelos,san carlos sauce,13,g,140,mg,310,g,3,g,13,g,7,g,0,g,0,g,1,g
+250,abuelos,sangria frozen mixed berry carafe,0,g,0,mg,115,g,138,g,0,g,0,g,0,g,1,g,129,g
+251,abuelos,sangria frozen mixed berry glass,0,g,0,mg,45,g,54,g,0,g,0,g,0,g,0,g,51,g
+252,abuelos,sangria spanish roja carafe,0,g,0,mg,30,g,79,g,0,g,0,g,0,g,1,g,68,g
+253,abuelos,sangria spanish roja glass,0,g,0,mg,10,g,30,g,0,g,0,g,0,g,0,g,26,g
+254,abuelos,sangria swirl grande,0,g,0,mg,50,g,102,g,0,g,0,g,0,g,0,g,99,g
+255,abuelos,sangria swirl pitcher,0,g,0,mg,115,g,227,g,0,g,0,g,0,g,0,g,221,g
+256,abuelos,sangria swirl regular,0,g,0,mg,30,g,61,g,0,g,0,g,0,g,0,g,59,g
+257,abuelos,seared tuna,26,g,70,mg,4270,g,35,g,37,g,3.5,g,0,g,6,g,22,g
+258,abuelos,seasonal vegetable medley,11,g,0,mg,280,g,7,g,2,g,2,g,2,g,2,g,3,g
+259,abuelos,shrimp enchiladas,65,g,325,mg,2140,g,59,g,36,g,27,g,3,g,4,g,12,g
+260,abuelos,shrimp mojo de ajo tacos,43,g,165,mg,3030,g,93,g,32,g,8,g,3,g,11,g,22,g
+261,abuelos,skinny margarita,0,g,0,mg,2840,g,11,g,0,g,0,g,0,g,0,g,1,g
+262,abuelos,skinny mojito,0,g,0,mg,10,g,10,g,0,g,0,g,0,g,1,g,1,g
+263,abuelos,sopa con papas bowl,10,g,10,mg,1220,g,22,g,4,g,3.5,g,1,g,2,g,3,g
+264,abuelos,sopa con papas cup,8,g,10,mg,930,g,17,g,4,g,3,g,1,g,1,g,2,g
+265,abuelos,sopapilla full,21,g,0,mg,940,g,75,g,9,g,3,g,0,g,3,g,6,g
+266,abuelos,sopapilla half,11,g,0,mg,470,g,39,g,5,g,1.5,g,0,g,2,g,5,g
+267,abuelos,southwest ranch dressing,24,g,20,mg,490,g,5,g,3,g,5,g,0,g,0,g,3,g
+268,abuelos,steak fajita,37,g,155,mg,810,g,18,g,40,g,19,g,0,g,3,g,8,g
+269,abuelos,stuffed chicken medallions with enchilada,42,g,125,mg,2400,g,72,g,41,g,11,g,1,g,8,g,8,g
+270,abuelos,tacos al carbon fajita chicken,34,g,120,mg,1720,g,74,g,48,g,13,g,1,g,17,g,8,g
+271,abuelos,tacos al carbon fajita steak,41,g,95,mg,1640,g,77,g,43,g,16,g,1,g,18,g,8,g
+272,abuelos,tacos al pastor,35,g,110,mg,2800,g,73,g,47,g,12,g,0,g,9,g,10,g
+273,abuelos,tap beer dos equis ambar grande,0,g,0,mg,0,g,22,g,6,g,0,g,0,g,0,g,5,g
+274,abuelos,tap beer dos equis ambar pitcher,0,g,0,mg,0,g,58,g,15,g,0,g,0,g,0,g,14,g
+275,abuelos,tap beer dos equis ambar regular,0,g,0,mg,0,g,13,g,4,g,0,g,0,g,0,g,3,g
+276,abuelos,tap beer dos equis lager grande,0,g,0,mg,0,g,19,g,6,g,0,g,0,g,0,g,5,g
+277,abuelos,tap beer dos equis lager pitcher,0,g,0,mg,0,g,49,g,15,g,0,g,0,g,0,g,12,g
+278,abuelos,tap beer dos equis lager regular,0,g,0,mg,0,g,11,g,4,g,0,g,0,g,0,g,3,g
+279,abuelos,the grande,103,g,265,mg,4520,g,154,g,97,g,41,g,2.5,g,24,g,13,g
+280,abuelos,the monterrey,83,g,200,mg,4550,g,175,g,77,g,31,g,1.5,g,29,g,16,g
+281,abuelos,tilapia,31,g,145,mg,1240,g,29,g,50,g,13,g,2,g,3,g,4,g
+282,abuelos,tortilla soup,34,g,65,mg,1090,g,57,g,21,g,9,g,0.5,g,10,g,5,g
+283,abuelos,tortilla soup lunch,10,g,25,mg,540,g,25,g,10,g,2.5,g,0,g,3,g,2,g
+284,abuelos,traditional flan,31,g,225,mg,140,g,63,g,10,g,19,g,1,g,0,g,62,g
+285,abuelos,tres leches cake,37,g,155,mg,290,g,97,g,12,g,25,g,0,g,0,g,79,g
+286,abuelos,ultimate fajita feast with corn tortillas,273,g,1145,mg,10590,g,421,g,278,g,106,g,4.5,g,61,g,82,g
+287,abuelos,ultimate fajita feast with flour ortillas,293,g,1145,mg,13280,g,445,g,283,g,113,g,4.5,g,51,g,84,g
+288,abuelos,ultimate fajita feast with romaine leaves,263,g,1145,mg,10520,g,260,g,258,g,104,g,4.5,g,44,g,80,g
+289,abuelos,vegetarian fajita,25,g,75,mg,440,g,27,g,5,g,15,g,0,g,6,g,13,g
+290,abuelos,veracruz sauce,7,g,130,mg,770,g,8,g,14,g,3,g,0,g,1,g,3,g
+291,abuelos,wine dona paula estate red blend 5 oz glass,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,0,g
+292,abuelos,wine dona paula estate red blend 8 oz glass,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,0,g
+293,abuelos,wine dona paula estate red blend bottle,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,0,g,1,g
+294,abuelos,wine jargon pinot noir 5 oz glass,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,1,g
+295,abuelos,wine jargon pinot noir 8 oz glass,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,1,g
+296,abuelos,wine jargon pinot noir bottle,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,0,g,3,g
+297,abuelos,wine korbel sparkling 5 oz glass,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,4,g
+298,abuelos,wine los cardos cabernet sauvignon 5 oz glass,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,0,g
+299,abuelos,wine los cardos cabernet sauvignon 8 oz glass,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,0,g
+300,abuelos,wine los cardos cabernet sauvignon bottle,0,g,0,mg,0,g,25,g,0,g,0,g,0,g,0,g,1,g
+301,abuelos,wine los cardos chardonnay 5 oz glass,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,0,g
+302,abuelos,wine los cardos chardonnay 8 oz glass,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,0,g
+303,abuelos,wine los cardos chardonnay bottle,0,g,0,mg,0,g,15,g,0,g,0,g,0,g,0,g,1,g
+304,abuelos,wine montevina pinot grigio 5 oz glass,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,1,g
+305,abuelos,wine montevina pinot grigio 8 oz glass,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,1,g
+306,abuelos,wine montevina pinot grigio bottle,0,g,0,mg,0,g,15,g,0,g,0,g,0,g,0,g,4,g
+307,abuelos,wine sutter home white zinfandel 5 oz glass,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,6,g
+308,abuelos,wine sutter home white zinfandel 8 oz glass,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,0,g,9,g
+309,abuelos,wine sutter home white zinfandel bottle,0,g,0,mg,0,g,41,g,0,g,0,g,0,g,0,g,29,g
+310,abuelos,yucatan barbeque shrimp fajita,27,g,370,mg,1490,g,46,g,34,g,15,g,0,g,4,g,31,g
+311,acapulco mexican restaurant y cantina,3 foot burrito beef machaca,0,g,0,mg,3170,g,134,g,0,g,31,g,0,g,0,g,0,g
+312,acapulco mexican restaurant y cantina,3 foot burrito carnitas,0,g,0,mg,2940,g,132,g,0,g,30,g,0,g,0,g,0,g
+313,acapulco mexican restaurant y cantina,3 foot burrito chicken machaca,0,g,0,mg,3280,g,134,g,0,g,28,g,0,g,0,g,0,g
+314,acapulco mexican restaurant y cantina,3 foot burrito picadillo beef,0,g,0,mg,3390,g,133,g,0,g,30,g,0,g,0,g,0,g
+315,acapulco mexican restaurant y cantina,4 foot burrito beef machaca,0,g,0,mg,2940,g,117,g,0,g,31,g,0,g,0,g,0,g
+316,acapulco mexican restaurant y cantina,4 foot burrito carnitas,0,g,0,mg,2690,g,115,g,0,g,31,g,0,g,0,g,0,g
+317,acapulco mexican restaurant y cantina,4 foot burrito chicken machaca,0,g,0,mg,3060,g,117,g,0,g,29,g,0,g,0,g,0,g
+318,acapulco mexican restaurant y cantina,4 foot burrito picadillo beef,0,g,0,mg,3190,g,116,g,0,g,30,g,0,g,0,g,0,g
+319,acapulco mexican restaurant y cantina,5 foot burrito beef machaca,0,g,0,mg,3800,g,157,g,0,g,41,g,0,g,0,g,0,g
+320,acapulco mexican restaurant y cantina,5 foot burrito carnitas,0,g,0,mg,3530,g,155,g,0,g,40,g,0,g,0,g,0,g
+321,acapulco mexican restaurant y cantina,5 foot burrito chicken machaca,0,g,0,mg,3920,g,157,g,0,g,37,g,0,g,0,g,0,g
+322,acapulco mexican restaurant y cantina,5 foot burrito picadillo beef,0,g,0,mg,4070,g,156,g,0,g,39,g,0,g,0,g,0,g
+323,acapulco mexican restaurant y cantina,add guacamole,0,g,0,mg,270,g,7,g,0,g,1.5,g,0,g,0,g,0,g
+324,acapulco mexican restaurant y cantina,asada burrito grilled chicken,0,g,0,mg,4440,g,121,g,0,g,21,g,0,g,0,g,0,g
+325,acapulco mexican restaurant y cantina,asada burrito grilled steak,0,g,0,mg,4400,g,121,g,0,g,25,g,0,g,0,g,0,g
+326,acapulco mexican restaurant y cantina,baja chicken taquitos,0,g,0,mg,1470,g,66,g,0,g,9,g,0,g,0,g,0,g
+327,acapulco mexican restaurant y cantina,blue cheese dressing,0,g,0,mg,380,g,4,g,0,g,6,g,0,g,0,g,0,g
+328,acapulco mexican restaurant y cantina,boneless buffalo tenders,0,g,0,mg,3620,g,36,g,0,g,21,g,0,g,0,g,0,g
+329,acapulco mexican restaurant y cantina,burrito gigante carnitas,0,g,0,mg,3000,g,115,g,0,g,22,g,0,g,0,g,0,g
+330,acapulco mexican restaurant y cantina,burrito gigante shredded beef,0,g,0,mg,3510,g,119,g,0,g,23,g,0,g,0,g,0,g
+331,acapulco mexican restaurant y cantina,burrito gigante shredded chicken,0,g,0,mg,3780,g,119,g,0,g,18,g,0,g,0,g,0,g
+332,acapulco mexican restaurant y cantina,carne asada,0,g,0,mg,3100,g,91,g,0,g,31,g,0,g,0,g,0,g
+333,acapulco mexican restaurant y cantina,carne asada y camarones add tortillas,0,g,0,mg,1520,g,44,g,0,g,37,g,0,g,0,g,0,g
+334,acapulco mexican restaurant y cantina,carnitas add tortillas,0,g,0,mg,2460,g,77,g,0,g,17,g,0,g,0,g,0,g
+335,acapulco mexican restaurant y cantina,chicken fajitas add tortillas,0,g,0,mg,2620,g,90,g,0,g,12,g,0,g,0,g,0,g
+336,acapulco mexican restaurant y cantina,chicken taquitos,0,g,0,mg,450,g,27,g,0,g,3.5,g,0,g,0,g,0,g
+337,acapulco mexican restaurant y cantina,chicken tortilla soup bowl,0,g,0,mg,2940,g,22,g,0,g,7,g,0,g,0,g,0,g
+338,acapulco mexican restaurant y cantina,chicken tortilla soup cup,0,g,0,mg,1930,g,13,g,0,g,3.5,g,0,g,0,g,0,g
+339,acapulco mexican restaurant y cantina,chile relleno,0,g,0,mg,670,g,21,g,0,g,12,g,0,g,0,g,0,g
+340,acapulco mexican restaurant y cantina,chimichanga picadillo beef,0,g,0,mg,3710,g,128,g,0,g,25,g,0,g,0,g,0,g
+341,acapulco mexican restaurant y cantina,chimichanga shredded beef,0,g,0,mg,2980,g,127,g,0,g,22,g,0,g,0,g,0,g
+342,acapulco mexican restaurant y cantina,chimichanga shredded chicken,0,g,0,mg,3020,g,123,g,0,g,17,g,0,g,0,g,0,g
+343,acapulco mexican restaurant y cantina,cilantro caesar dressing,0,g,0,mg,460,g,1,g,0,g,6,g,0,g,0,g,0,g
+344,acapulco mexican restaurant y cantina,coffee,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+345,acapulco mexican restaurant y cantina,corn tortillas for especialidades and mariscos,0,g,0,mg,920,g,50,g,0,g,0,g,0,g,0,g,0,g
+346,acapulco mexican restaurant y cantina,corn tortillas for fajitas,0,g,0,mg,920,g,50,g,0,g,0,g,0,g,0,g,0,g
+347,acapulco mexican restaurant y cantina,corn tortillas for lunch fajitas,0,g,0,mg,920,g,50,g,0,g,0,g,0,g,0,g,0,g
+348,acapulco mexican restaurant y cantina,corn tortillas for specialty combos,0,g,0,mg,920,g,50,g,0,g,0,g,0,g,0,g,0,g
+349,acapulco mexican restaurant y cantina,crab enchiladas,0,g,0,mg,2940,g,111,g,0,g,26,g,0,g,0,g,0,g
+350,acapulco mexican restaurant y cantina,crispy fish tacos,0,g,0,mg,2540,g,94,g,0,g,12,g,0,g,0,g,0,g
+351,acapulco mexican restaurant y cantina,crispy taco carnitas,0,g,0,mg,270,g,18,g,0,g,6,g,0,g,0,g,0,g
+352,acapulco mexican restaurant y cantina,crispy taco picadillo beef,0,g,0,mg,520,g,18,g,0,g,5,g,0,g,0,g,0,g
+353,acapulco mexican restaurant y cantina,crispy taco shredded beef,0,g,0,mg,370,g,18,g,0,g,5,g,0,g,0,g,0,g
+354,acapulco mexican restaurant y cantina,crispy taco shredded chicken,0,g,0,mg,450,g,19,g,0,g,4.5,g,0,g,0,g,0,g
+355,acapulco mexican restaurant y cantina,decaf coffee,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+356,acapulco mexican restaurant y cantina,deep fried ice cream,0,g,0,mg,780,g,150,g,0,g,28,g,0,g,0,g,0,g
+357,acapulco mexican restaurant y cantina,diet pepsi,0,g,0,mg,30,g,0,g,0,g,0,g,0,g,0,g,0,g
+358,acapulco mexican restaurant y cantina,enchilada carnitas,0,g,0,mg,970,g,22,g,0,g,8,g,0,g,0,g,0,g
+359,acapulco mexican restaurant y cantina,enchilada cheese,0,g,0,mg,610,g,17,g,0,g,12,g,0,g,0,g,0,g
+360,acapulco mexican restaurant y cantina,enchilada picadillo beef,0,g,0,mg,690,g,17,g,0,g,5,g,0,g,0,g,0,g
+361,acapulco mexican restaurant y cantina,enchilada shredded beef,0,g,0,mg,520,g,18,g,0,g,6,g,0,g,0,g,0,g
+362,acapulco mexican restaurant y cantina,enchilada shredded chicken,0,g,0,mg,640,g,18,g,0,g,4,g,0,g,0,g,0,g
+363,acapulco mexican restaurant y cantina,enchiladas rancheras,0,g,0,mg,3480,g,111,g,0,g,15,g,0,g,0,g,0,g
+364,acapulco mexican restaurant y cantina,enchiladas suizas,0,g,0,mg,2720,g,104,g,0,g,21,g,0,g,0,g,0,g
+365,acapulco mexican restaurant y cantina,fajita duo chicken and shrimp add tortillas,0,g,0,mg,2560,g,91,g,0,g,17,g,0,g,0,g,0,g
+366,acapulco mexican restaurant y cantina,fajita duo chicken and steak add tortillas,0,g,0,mg,2620,g,91,g,0,g,15,g,0,g,0,g,0,g
+367,acapulco mexican restaurant y cantina,fajita duo steak and shrimp add tortillas,0,g,0,mg,2540,g,91,g,0,g,20,g,0,g,0,g,0,g
+368,acapulco mexican restaurant y cantina,fajitas gigante add tortillas,0,g,0,mg,2850,g,91,g,0,g,20,g,0,g,0,g,0,g
+369,acapulco mexican restaurant y cantina,fiesta pack beef flautas,0,g,0,mg,570,g,27,g,0,g,6,g,0,g,0,g,0,g
+370,acapulco mexican restaurant y cantina,fiesta pack beef tamales,0,g,0,mg,1550,g,26,g,0,g,13,g,0,g,0,g,0,g
+371,acapulco mexican restaurant y cantina,fiesta pack chicken fajitas,0,g,0,mg,2310,g,72,g,0,g,10,g,0,g,0,g,0,g
+372,acapulco mexican restaurant y cantina,fiesta pack chicken flautas,0,g,0,mg,670,g,33,g,0,g,3.5,g,0,g,0,g,0,g
+373,acapulco mexican restaurant y cantina,fiesta pack chicken tamales,0,g,0,mg,1680,g,24,g,0,g,13,g,0,g,0,g,0,g
+374,acapulco mexican restaurant y cantina,fiesta pack chicken taquitos,0,g,0,mg,270,g,11,g,0,g,1.5,g,0,g,0,g,0,g
+375,acapulco mexican restaurant y cantina,fiesta pack guacamole and chips serves 6,0,g,0,mg,310,g,46,g,0,g,5,g,0,g,0,g,0,g
+376,acapulco mexican restaurant y cantina,fiesta pack guacamole and chips serves 8,0,g,0,mg,230,g,34,g,0,g,3.5,g,0,g,0,g,0,g
+377,acapulco mexican restaurant y cantina,fiesta pack homemade salsa and chips serves 6,0,g,0,mg,450,g,42,g,0,g,3.5,g,0,g,0,g,0,g
+378,acapulco mexican restaurant y cantina,fiesta pack homemade salsa and chips serves 8,0,g,0,mg,340,g,32,g,0,g,2.5,g,0,g,0,g,0,g
+379,acapulco mexican restaurant y cantina,fiesta pack mexican chicken caesar salad,0,g,0,mg,1150,g,19,g,0,g,12,g,0,g,0,g,0,g
+380,acapulco mexican restaurant y cantina,fiesta pack mini chimis beef machaca,0,g,0,mg,540,g,27,g,0,g,6,g,0,g,0,g,0,g
+381,acapulco mexican restaurant y cantina,fiesta pack mini chimis chicken machaca,0,g,0,mg,600,g,27,g,0,g,5,g,0,g,0,g,0,g
+382,acapulco mexican restaurant y cantina,fiesta pack mini chimis picadillo beef,0,g,0,mg,570,g,27,g,0,g,5,g,0,g,0,g,0,g
+383,acapulco mexican restaurant y cantina,fiesta pack side of refried beans,0,g,0,mg,670,g,27,g,0,g,2,g,0,g,0,g,0,g
+384,acapulco mexican restaurant y cantina,fiesta pack side of rice,0,g,0,mg,440,g,26,g,0,g,1,g,0,g,0,g,0,g
+385,acapulco mexican restaurant y cantina,fiesta pack spicy buffalo wings,0,g,0,mg,440,g,3,g,0,g,3.5,g,0,g,0,g,0,g
+386,acapulco mexican restaurant y cantina,fiesta pack steak fajitas,0,g,0,mg,2270,g,72,g,0,g,14,g,0,g,0,g,0,g
+387,acapulco mexican restaurant y cantina,fiesta pack tacos beef machaca,0,g,0,mg,2960,g,151,g,0,g,32,g,0,g,0,g,0,g
+388,acapulco mexican restaurant y cantina,fiesta pack tacos carnitas,0,g,0,mg,2650,g,148,g,0,g,32,g,0,g,0,g,0,g
+389,acapulco mexican restaurant y cantina,fiesta pack tacos chicken machaca,0,g,0,mg,3120,g,151,g,0,g,28,g,0,g,0,g,0,g
+390,acapulco mexican restaurant y cantina,fiesta pack tacos picadillo beef,0,g,0,mg,3290,g,150,g,0,g,31,g,0,g,0,g,0,g
+391,acapulco mexican restaurant y cantina,fiesta pack tostada beef machaca,0,g,0,mg,2720,g,134,g,0,g,32,g,0,g,0,g,0,g
+392,acapulco mexican restaurant y cantina,fiesta pack tostada carnitas,0,g,0,mg,2400,g,131,g,0,g,32,g,0,g,0,g,0,g
+393,acapulco mexican restaurant y cantina,fiesta pack tostada chicken machaca,0,g,0,mg,2870,g,134,g,0,g,28,g,0,g,0,g,0,g
+394,acapulco mexican restaurant y cantina,fiesta pack tostada picadillo beef,0,g,0,mg,3050,g,132,g,0,g,31,g,0,g,0,g,0,g
+395,acapulco mexican restaurant y cantina,fiesta tostada grilled chicken,0,g,0,mg,2520,g,118,g,0,g,12,g,0,g,0,g,0,g
+396,acapulco mexican restaurant y cantina,flan,0,g,0,mg,340,g,111,g,0,g,22,g,0,g,0,g,0,g
+397,acapulco mexican restaurant y cantina,flour tortillas for especialidades and mariscos,0,g,0,mg,640,g,60,g,0,g,0,g,0,g,0,g,0,g
+398,acapulco mexican restaurant y cantina,flour tortillas for fajitas,0,g,0,mg,640,g,60,g,0,g,0,g,0,g,0,g,0,g
+399,acapulco mexican restaurant y cantina,flour tortillas for lunch fajitas,0,g,0,mg,640,g,60,g,0,g,0,g,0,g,0,g,0,g
+400,acapulco mexican restaurant y cantina,flour tortillas for specialty conbos,0,g,0,mg,640,g,60,g,0,g,0,g,0,g,0,g,0,g
+401,acapulco mexican restaurant y cantina,fresh spinach enchiladas,0,g,0,mg,4080,g,120,g,0,g,41,g,0,g,0,g,0,g
+402,acapulco mexican restaurant y cantina,fresh tableside guacamole,0,g,0,mg,1190,g,30,g,0,g,6,g,0,g,0,g,0,g
+403,acapulco mexican restaurant y cantina,garden salad without dressing,0,g,0,mg,20,g,5,g,0,g,0,g,0,g,0,g,0,g
+404,acapulco mexican restaurant y cantina,halibut filet,0,g,0,mg,2310,g,46,g,0,g,36,g,0,g,0,g,0,g
+405,acapulco mexican restaurant y cantina,happy hour crispy taco carnitas,0,g,0,mg,270,g,18,g,0,g,6,g,0,g,0,g,0,g
+406,acapulco mexican restaurant y cantina,happy hour crispy taco grilled chicken,0,g,0,mg,370,g,18,g,0,g,4,g,0,g,0,g,0,g
+407,acapulco mexican restaurant y cantina,happy hour crispy taco grilled steak,0,g,0,mg,350,g,18,g,0,g,5,g,0,g,0,g,0,g
+408,acapulco mexican restaurant y cantina,happy hour crispy taco picadillo beef,0,g,0,mg,520,g,18,g,0,g,5,g,0,g,0,g,0,g
+409,acapulco mexican restaurant y cantina,happy hour queso dip,0,g,0,mg,2090,g,9,g,0,g,40,g,0,g,0,g,0,g
+410,acapulco mexican restaurant y cantina,happy hour soft taco carnitas,0,g,0,mg,500,g,15,g,0,g,4.5,g,0,g,0,g,0,g
+411,acapulco mexican restaurant y cantina,happy hour soft taco grilled chicken,0,g,0,mg,740,g,21,g,0,g,1,g,0,g,0,g,0,g
+412,acapulco mexican restaurant y cantina,happy hour soft taco grilled steak,0,g,0,mg,730,g,21,g,0,g,2,g,0,g,0,g,0,g
+413,acapulco mexican restaurant y cantina,happy hour soft taco picadillo beef,0,g,0,mg,740,g,16,g,0,g,4,g,0,g,0,g,0,g
+414,acapulco mexican restaurant y cantina,hot tea,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,0,g
+415,acapulco mexican restaurant y cantina,iced tea regular tropical,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+416,acapulco mexican restaurant y cantina,kids bbq chicken pizza,0,g,0,mg,1360,g,63,g,0,g,10,g,0,g,0,g,0,g
+417,acapulco mexican restaurant y cantina,kids blended breeze,0,g,0,mg,20,g,24,g,0,g,0,g,0,g,0,g,0,g
+418,acapulco mexican restaurant y cantina,kids carne asada pizza,0,g,0,mg,1340,g,60,g,0,g,14,g,0,g,0,g,0,g
+419,acapulco mexican restaurant y cantina,kids cheese quesadilla,0,g,0,mg,650,g,35,g,0,g,11,g,0,g,0,g,0,g
+420,acapulco mexican restaurant y cantina,kids cheesy cheese pizza,0,g,0,mg,1160,g,59,g,0,g,10,g,0,g,0,g,0,g
+421,acapulco mexican restaurant y cantina,kids corn tortillas for fajitas,0,g,0,mg,460,g,25,g,0,g,0,g,0,g,0,g,0,g
+422,acapulco mexican restaurant y cantina,kids cranberry juice,0,g,0,mg,20,g,21,g,0,g,0,g,0,g,0,g,0,g
+423,acapulco mexican restaurant y cantina,kids crazy chicken tenders with cilantro caesar dressing,0,g,0,mg,680,g,15,g,0,g,4,g,0,g,0,g,0,g
+424,acapulco mexican restaurant y cantina,kids crazy chicken tenders with picante bbq ranch dressing,0,g,0,mg,710,g,19,g,0,g,1,g,0,g,0,g,0,g
+425,acapulco mexican restaurant y cantina,kids crazy chicken tenders with ranch dressing,0,g,0,mg,740,g,19,g,0,g,1.5,g,0,g,0,g,0,g
+426,acapulco mexican restaurant y cantina,kids diet pepsi,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+427,acapulco mexican restaurant y cantina,kids double stacked grilled chicken quesadilla,0,g,0,mg,1120,g,56,g,0,g,14,g,0,g,0,g,0,g
+428,acapulco mexican restaurant y cantina,kids el grande mac and cheesioso,0,g,0,mg,1040,g,74,g,0,g,11,g,0,g,0,g,0,g
+429,acapulco mexican restaurant y cantina,kids fajitas grilled chicken add tortillas,0,g,0,mg,470,g,11,g,0,g,8,g,0,g,0,g,0,g
+430,acapulco mexican restaurant y cantina,kids fajitas grilled steak add tortillas,0,g,0,mg,460,g,11,g,0,g,10,g,0,g,0,g,0,g
+431,acapulco mexican restaurant y cantina,kids flour tortillas for fajitas,0,g,0,mg,320,g,30,g,0,g,0,g,0,g,0,g,0,g
+432,acapulco mexican restaurant y cantina,kids french fries,0,g,0,mg,410,g,47,g,0,g,2,g,0,g,0,g,0,g
+433,acapulco mexican restaurant y cantina,kids fresh fruit,0,g,0,mg,10,g,8,g,0,g,0,g,0,g,0,g,0,g
+434,acapulco mexican restaurant y cantina,kids ice cream sundae,0,g,0,mg,90,g,33,g,0,g,14,g,0,g,0,g,0,g
+435,acapulco mexican restaurant y cantina,kids jell o,0,g,0,mg,25,g,4,g,0,g,0,g,0,g,0,g,0,g
+436,acapulco mexican restaurant y cantina,kids kiddie colada,0,g,0,mg,25,g,70,g,0,g,0,g,0,g,0,g,0,g
+437,acapulco mexican restaurant y cantina,kids lemonade,0,g,0,mg,10,g,17,g,0,g,0,g,0,g,0,g,0,g
+438,acapulco mexican restaurant y cantina,kids mexican rice,0,g,0,mg,330,g,20,g,0,g,0.5,g,0,g,0,g,0,g
+439,acapulco mexican restaurant y cantina,kids milk,0,g,0,mg,120,g,14,g,0,g,6,g,0,g,0,g,0,g
+440,acapulco mexican restaurant y cantina,kids mountain dew,0,g,0,mg,30,g,19,g,0,g,0,g,0,g,0,g,0,g
+441,acapulco mexican restaurant y cantina,kids mug root beer,0,g,0,mg,25,g,18,g,0,g,0,g,0,g,0,g,0,g
+442,acapulco mexican restaurant y cantina,kids north of the border nachos beef,0,g,0,mg,910,g,63,g,0,g,20,g,0,g,0,g,0,g
+443,acapulco mexican restaurant y cantina,kids north of the border nachos chicken,0,g,0,mg,820,g,63,g,0,g,19,g,0,g,0,g,0,g
+444,acapulco mexican restaurant y cantina,kids orange juice,0,g,0,mg,10,g,17,g,0,g,0,g,0,g,0,g,0,g
+445,acapulco mexican restaurant y cantina,kids orange twister,0,g,0,mg,25,g,21,g,0,g,0,g,0,g,0,g,0,g
+446,acapulco mexican restaurant y cantina,kids pepsi,0,g,0,mg,15,g,17,g,0,g,0,g,0,g,0,g,0,g
+447,acapulco mexican restaurant y cantina,kids pineapple juice,0,g,0,mg,5,g,19,g,0,g,0,g,0,g,0,g,0,g
+448,acapulco mexican restaurant y cantina,kids sierra mist,0,g,0,mg,15,g,16,g,0,g,0,g,0,g,0,g,0,g
+449,acapulco mexican restaurant y cantina,kids sparkling cherry soda,0,g,0,mg,20,g,21,g,0,g,0,g,0,g,0,g,0,g
+450,acapulco mexican restaurant y cantina,kids strawberry lemonade,0,g,0,mg,15,g,20,g,0,g,0,g,0,g,0,g,0,g
+451,acapulco mexican restaurant y cantina,kids veggie pizza,0,g,0,mg,1160,g,61,g,0,g,10,g,0,g,0,g,0,g
+452,acapulco mexican restaurant y cantina,lemonade,0,g,0,mg,20,g,38,g,0,g,0,g,0,g,0,g,0,g
+453,acapulco mexican restaurant y cantina,lunch burrito especial carnitas with caesar salad,0,g,0,mg,2400,g,87,g,0,g,22,g,0,g,0,g,0,g
+454,acapulco mexican restaurant y cantina,lunch burrito especial carnitas with garden salad,0,g,0,mg,1910,g,81,g,0,g,15,g,0,g,0,g,0,g
+455,acapulco mexican restaurant y cantina,lunch burrito especial picadillo beef with caesar salad,0,g,0,mg,3080,g,89,g,0,g,20,g,0,g,0,g,0,g
+456,acapulco mexican restaurant y cantina,lunch burrito especial picadillo beef with garden salad,0,g,0,mg,2590,g,83,g,0,g,13,g,0,g,0,g,0,g
+457,acapulco mexican restaurant y cantina,lunch burrito especial shredded beef with caesar salad,0,g,0,mg,2730,g,90,g,0,g,22,g,0,g,0,g,0,g
+458,acapulco mexican restaurant y cantina,lunch burrito especial shredded beef with garden salad,0,g,0,mg,2240,g,84,g,0,g,15,g,0,g,0,g,0,g
+459,acapulco mexican restaurant y cantina,lunch burrito especial shredded chicken with caesar salad,0,g,0,mg,2880,g,89,g,0,g,18,g,0,g,0,g,0,g
+460,acapulco mexican restaurant y cantina,lunch burrito especial shredded chicken with garden salad,0,g,0,mg,2390,g,83,g,0,g,11,g,0,g,0,g,0,g
+461,acapulco mexican restaurant y cantina,lunch crab enchilada,0,g,0,mg,2270,g,89,g,0,g,15,g,0,g,0,g,0,g
+462,acapulco mexican restaurant y cantina,lunch fajitas grilled chicken add tortillas,0,g,0,mg,2140,g,78,g,0,g,8,g,0,g,0,g,0,g
+463,acapulco mexican restaurant y cantina,lunch fajitas grilled steak add tortillas,0,g,0,mg,2120,g,78,g,0,g,10,g,0,g,0,g,0,g
+464,acapulco mexican restaurant y cantina,lunch garden tostada,0,g,0,mg,2630,g,94,g,0,g,13,g,0,g,0,g,0,g
+465,acapulco mexican restaurant y cantina,lunch huevos rancheros,0,g,0,mg,3310,g,128,g,0,g,27,g,0,g,0,g,0,g
+466,acapulco mexican restaurant y cantina,lunch mexican chicken caesar salad,0,g,0,mg,1110,g,19,g,0,g,12,g,0,g,0,g,0,g
+467,acapulco mexican restaurant y cantina,lunch quesadilla and salad cheese with garden salad,0,g,0,mg,1010,g,45,g,0,g,29,g,0,g,0,g,0,g
+468,acapulco mexican restaurant y cantina,lunch quesadilla and salad cheese with mexican caesar salad,0,g,0,mg,1500,g,51,g,0,g,36,g,0,g,0,g,0,g
+469,acapulco mexican restaurant y cantina,lunch quesadilla and salad shredded beef with garden salad,0,g,0,mg,1400,g,48,g,0,g,33,g,0,g,0,g,0,g
+470,acapulco mexican restaurant y cantina,lunch quesadilla and salad shredded beef with mexican caesar salad,0,g,0,mg,1890,g,54,g,0,g,40,g,0,g,0,g,0,g
+471,acapulco mexican restaurant y cantina,lunch quesadilla and salad shredded chicken with garden salad,0,g,0,mg,1020,g,48,g,0,g,30,g,0,g,0,g,0,g
+472,acapulco mexican restaurant y cantina,lunch quesadilla and salad shredded chicken with mexican caesar salad,0,g,0,mg,1510,g,54,g,0,g,37,g,0,g,0,g,0,g
+473,acapulco mexican restaurant y cantina,lunch shrimp enchilada,0,g,0,mg,1450,g,61,g,0,g,13,g,0,g,0,g,0,g
+474,acapulco mexican restaurant y cantina,lunch soup and salad chicken tortilla soup and garden salad,0,g,0,mg,4210,g,30,g,0,g,8,g,0,g,0,g,0,g
+475,acapulco mexican restaurant y cantina,lunch soup and salad chicken tortilla soup and mexican caesar salad,0,g,0,mg,4700,g,36,g,0,g,15,g,0,g,0,g,0,g
+476,acapulco mexican restaurant y cantina,lunch taco al carbon chicken with corn tortillas and caesar salad,0,g,0,mg,3000,g,109,g,0,g,12,g,0,g,0,g,0,g
+477,acapulco mexican restaurant y cantina,lunch taco al carbon chicken with corn tortillas and garden salad,0,g,0,mg,2510,g,103,g,0,g,5,g,0,g,0,g,0,g
+478,acapulco mexican restaurant y cantina,lunch taco al carbon chicken with flour tortillas and caesar salad,0,g,0,mg,2700,g,99,g,0,g,12,g,0,g,0,g,0,g
+479,acapulco mexican restaurant y cantina,lunch taco al carbon chicken with flour tortillas and garden salad,0,g,0,mg,2210,g,93,g,0,g,5,g,0,g,0,g,0,g
+480,acapulco mexican restaurant y cantina,lunch taco al carbon steak with corn tortillas and caesar salad,0,g,0,mg,2970,g,109,g,0,g,13,g,0,g,0,g,0,g
+481,acapulco mexican restaurant y cantina,lunch taco al carbon steak with corn tortillas and garden salad,0,g,0,mg,2480,g,103,g,0,g,6,g,0,g,0,g,0,g
+482,acapulco mexican restaurant y cantina,lunch taco al carbon steak with flour tortillas and caesar salad,0,g,0,mg,2670,g,99,g,0,g,13,g,0,g,0,g,0,g
+483,acapulco mexican restaurant y cantina,lunch taco al carbon steak with flour tortillas and garden salad,0,g,0,mg,2180,g,93,g,0,g,6,g,0,g,0,g,0,g
+484,acapulco mexican restaurant y cantina,lunch tostada compuesta carnitas,0,g,0,mg,2010,g,79,g,0,g,18,g,0,g,0,g,0,g
+485,acapulco mexican restaurant y cantina,lunch tostada compuesta picadillo beef,0,g,0,mg,2660,g,80,g,0,g,17,g,0,g,0,g,0,g
+486,acapulco mexican restaurant y cantina,lunch tostada compuesta shredded beef,0,g,0,mg,2330,g,81,g,0,g,19,g,0,g,0,g,0,g
+487,acapulco mexican restaurant y cantina,lunch tostada compuesta shredded chicken,0,g,0,mg,2480,g,81,g,0,g,15,g,0,g,0,g,0,g
+488,acapulco mexican restaurant y cantina,mexican caesar salad,0,g,0,mg,510,g,11,g,0,g,7,g,0,g,0,g,0,g
+489,acapulco mexican restaurant y cantina,mexican caesar salad chicken,0,g,0,mg,1110,g,19,g,0,g,12,g,0,g,0,g,0,g
+490,acapulco mexican restaurant y cantina,mexican caesar salad shrimp,0,g,0,mg,1020,g,19,g,0,g,17,g,0,g,0,g,0,g
+491,acapulco mexican restaurant y cantina,molten chocolate cake,0,g,0,mg,95,g,84,g,0,g,39,g,0,g,0,g,0,g
+492,acapulco mexican restaurant y cantina,mountain dew,0,g,0,mg,65,g,42,g,0,g,0,g,0,g,0,g,0,g
+493,acapulco mexican restaurant y cantina,mucho macho tizer platter,0,g,0,mg,4120,g,129,g,0,g,36,g,0,g,0,g,0,g
+494,acapulco mexican restaurant y cantina,mug root beer,0,g,0,mg,60,g,39,g,0,g,0,g,0,g,0,g,0,g
+495,acapulco mexican restaurant y cantina,muy grande platter cheese enchilada add tortillas,0,g,0,mg,3630,g,93,g,0,g,33,g,0,g,0,g,0,g
+496,acapulco mexican restaurant y cantina,muy grande platter picadillo beef enchilada add tortillas,0,g,0,mg,3710,g,93,g,0,g,26,g,0,g,0,g,0,g
+497,acapulco mexican restaurant y cantina,muy grande platter shredded beef enchilada add tortillas,0,g,0,mg,3540,g,94,g,0,g,27,g,0,g,0,g,0,g
+498,acapulco mexican restaurant y cantina,muy grande platter shredded chicken enchilada add tortillas,0,g,0,mg,3660,g,94,g,0,g,25,g,0,g,0,g,0,g
+499,acapulco mexican restaurant y cantina,nachos ultimos carnitas,0,g,0,mg,2820,g,175,g,0,g,48,g,0,g,0,g,0,g
+500,acapulco mexican restaurant y cantina,nachos ultimos picadillo beef,0,g,0,mg,3470,g,177,g,0,g,47,g,0,g,0,g,0,g
+501,acapulco mexican restaurant y cantina,nachos ultimos shredded beef,0,g,0,mg,3140,g,178,g,0,g,49,g,0,g,0,g,0,g
+502,acapulco mexican restaurant y cantina,nachos ultimos shredded chicken,0,g,0,mg,3300,g,178,g,0,g,45,g,0,g,0,g,0,g
+503,acapulco mexican restaurant y cantina,orange twister,0,g,0,mg,50,g,47,g,0,g,0,g,0,g,0,g,0,g
+504,acapulco mexican restaurant y cantina,pepsi,0,g,0,mg,30,g,38,g,0,g,0,g,0,g,0,g,0,g
+505,acapulco mexican restaurant y cantina,quesadilla de camarones,0,g,0,mg,2880,g,104,g,0,g,45,g,0,g,0,g,0,g
+506,acapulco mexican restaurant y cantina,quesadilla platter chicken,0,g,0,mg,2260,g,94,g,0,g,34,g,0,g,0,g,0,g
+507,acapulco mexican restaurant y cantina,quesadilla platter steak,0,g,0,mg,2240,g,94,g,0,g,36,g,0,g,0,g,0,g
+508,acapulco mexican restaurant y cantina,quesadilla cheese,0,g,0,mg,990,g,40,g,0,g,29,g,0,g,0,g,0,g
+509,acapulco mexican restaurant y cantina,quesadilla grilled chicken,0,g,0,mg,1300,g,41,g,0,g,30,g,0,g,0,g,0,g
+510,acapulco mexican restaurant y cantina,quesadilla grilled steak,0,g,0,mg,1290,g,41,g,0,g,32,g,0,g,0,g,0,g
+511,acapulco mexican restaurant y cantina,quesadilla shredded beef,0,g,0,mg,1380,g,43,g,0,g,33,g,0,g,0,g,0,g
+512,acapulco mexican restaurant y cantina,quesadilla shredded chicken,0,g,0,mg,1500,g,43,g,0,g,30,g,0,g,0,g,0,g
+513,acapulco mexican restaurant y cantina,ranch dressing,0,g,0,mg,580,g,8,g,0,g,1,g,0,g,0,g,0,g
+514,acapulco mexican restaurant y cantina,refried beans,0,g,0,mg,1350,g,54,g,0,g,5,g,0,g,0,g,0,g
+515,acapulco mexican restaurant y cantina,rice,0,g,0,mg,880,g,53,g,0,g,1.5,g,0,g,0,g,0,g
+516,acapulco mexican restaurant y cantina,sauteed vegetables,0,g,0,mg,260,g,9,g,0,g,6,g,0,g,0,g,0,g
+517,acapulco mexican restaurant y cantina,sea of cortez,0,g,0,mg,3010,g,70,g,0,g,42,g,0,g,0,g,0,g
+518,acapulco mexican restaurant y cantina,shrimp and spinach queso,0,g,0,mg,2250,g,66,g,0,g,38,g,0,g,0,g,0,g
+519,acapulco mexican restaurant y cantina,shrimp enchiladas,0,g,0,mg,2090,g,80,g,0,g,20,g,0,g,0,g,0,g
+520,acapulco mexican restaurant y cantina,shrimp fajitas add tortillas,0,g,0,mg,2420,g,91,g,0,g,22,g,0,g,0,g,0,g
+521,acapulco mexican restaurant y cantina,sierra mist,0,g,0,mg,35,g,36,g,0,g,0,g,0,g,0,g,0,g
+522,acapulco mexican restaurant y cantina,soft taco carnitas,0,g,0,mg,500,g,15,g,0,g,4.5,g,0,g,0,g,0,g
+523,acapulco mexican restaurant y cantina,soft taco picadillo beef,0,g,0,mg,740,g,16,g,0,g,4,g,0,g,0,g,0,g
+524,acapulco mexican restaurant y cantina,soft taco shredded beef,0,g,0,mg,620,g,16,g,0,g,5,g,0,g,0,g,0,g
+525,acapulco mexican restaurant y cantina,soft taco shredded chicken,0,g,0,mg,680,g,16,g,0,g,3.5,g,0,g,0,g,0,g
+526,acapulco mexican restaurant y cantina,spicy buffalo wings,0,g,0,mg,4410,g,29,g,0,g,34,g,0,g,0,g,0,g
+527,acapulco mexican restaurant y cantina,steak fajitas add tortillas,0,g,0,mg,2580,g,91,g,0,g,16,g,0,g,0,g,0,g
+528,acapulco mexican restaurant y cantina,tacos al carbon grilled chicken with corn tortillas,0,g,0,mg,3130,g,124,g,0,g,5,g,0,g,0,g,0,g
+529,acapulco mexican restaurant y cantina,tacos al carbon grilled chicken with flour tortillas,0,g,0,mg,2530,g,104,g,0,g,5,g,0,g,0,g,0,g
+530,acapulco mexican restaurant y cantina,tacos al carbon grilled steak with corn tortillas,0,g,0,mg,3070,g,123,g,0,g,8,g,0,g,0,g,0,g
+531,acapulco mexican restaurant y cantina,tacos al carbon grilled steak with flour tortillas,0,g,0,mg,2470,g,103,g,0,g,8,g,0,g,0,g,0,g
+532,acapulco mexican restaurant y cantina,tamale beef,0,g,0,mg,1690,g,28,g,0,g,14,g,0,g,0,g,0,g
+533,acapulco mexican restaurant y cantina,tamale chicken,0,g,0,mg,1820,g,26,g,0,g,14,g,0,g,0,g,0,g
+534,acapulco mexican restaurant y cantina,tilapia mexicana,0,g,0,mg,2400,g,48,g,0,g,31,g,0,g,0,g,0,g
+535,acapulco mexican restaurant y cantina,tostada compuesta carnitas,0,g,0,mg,1980,g,79,g,0,g,18,g,0,g,0,g,0,g
+536,acapulco mexican restaurant y cantina,tostada compuesta picadillo beef,0,g,0,mg,2660,g,79,g,0,g,17,g,0,g,0,g,0,g
+537,acapulco mexican restaurant y cantina,tostada compuesta shredded beef,0,g,0,mg,2330,g,81,g,0,g,19,g,0,g,0,g,0,g
+538,acapulco mexican restaurant y cantina,tostada compuesta shredded chicken,0,g,0,mg,2480,g,81,g,0,g,15,g,0,g,0,g,0,g
+539,acapulco mexican restaurant y cantina,veggie fajitas add tortillas,0,g,0,mg,3220,g,101,g,0,g,14,g,0,g,0,g,0,g
+540,acapulco mexican restaurant y cantina,vinaigrette dressing,0,g,0,mg,540,g,0,g,0,g,4,g,0,g,0,g,0,g
+541,aladdins eatery,aladdins chicken pitza,45,g,130,mg,1040,g,42,g,43,g,7,g,0,g,3,g,7,g
+542,aladdins eatery,aladdins dressing,38,g,0,mg,610,g,2,g,0,g,5,g,0,g,0,g,0,g
+543,aladdins eatery,aladdins falafel rolled pita,12,g,0,mg,2150,g,66,g,17,g,2,g,0,g,15,g,5,g
+544,aladdins eatery,aladdins favorite combo,31,g,80,mg,550,g,52,g,34,g,8,g,1,g,5,g,4,g
+545,aladdins eatery,aladdins kabob rolled pita,16,g,30,mg,1390,g,43,g,19,g,3,g,0,g,4,g,6,g
+546,aladdins eatery,aladdins lamb rolled pita,26,g,65,mg,1200,g,41,g,22,g,10,g,0,g,4,g,5,g
+547,aladdins eatery,aladdins pita chips,4,g,0,mg,10,g,19,g,3,g,1,g,0,g,1,g,1,g
+548,aladdins eatery,aladdins salad,6,g,15,mg,320,g,12,g,6,g,2,g,0,g,5,g,4,g
+549,aladdins eatery,aladdins side salad,4,g,5,mg,250,g,5,g,2,g,1,g,0,g,2,g,2,g
+550,aladdins eatery,aladdins wheat pita,1,g,0,mg,400,g,63,g,9,g,0,g,0,g,2,g,1,g
+551,aladdins eatery,aladdins white pita,1,g,0,mg,320,g,58,g,8,g,0,g,0,g,2,g,3,g
+552,aladdins eatery,ali baba pitza,17,g,10,mg,1120,g,52,g,12,g,3,g,0,g,8,g,8,g
+553,aladdins eatery,arayiss pitza,42,g,100,mg,2290,g,72,g,49,g,10,g,1,g,12,g,12,g
+554,aladdins eatery,arayiss rolled pita,37,g,140,mg,2550,g,43,g,46,g,15,g,1,g,5,g,6,g
+555,aladdins eatery,baba falafel rolled pita,13,g,0,mg,2320,g,70,g,17,g,2,g,0,g,16,g,6,g
+556,aladdins eatery,baba gannouj large,78,g,0,mg,3800,g,77,g,27,g,11,g,0,g,17,g,17,g
+557,aladdins eatery,baba gannouj regular,39,g,0,mg,1900,g,39,g,14,g,6,g,0,g,9,g,8,g
+558,aladdins eatery,baba gannouj small,28,g,0,mg,1260,g,26,g,9,g,4,g,0,g,6,g,5,g
+559,aladdins eatery,baba garden rolled pita,16,g,0,mg,1160,g,52,g,10,g,2,g,0,g,6,g,7,g
+560,aladdins eatery,balsamic vinaigrette,36,g,0,mg,320,g,1,g,0,g,5,g,0,g,0,g,1,g
+561,aladdins eatery,beef kafta rolled pita,29,g,55,mg,810,g,43,g,21,g,8,g,1,g,4,g,6,g
+562,aladdins eatery,beef shawarma,20,g,110,mg,860,g,1,g,29,g,8,g,0,g,0,g,0,g
+563,aladdins eatery,beef shawarma rolled pita,44,g,100,mg,1520,g,43,g,31,g,17,g,0,g,4,g,5,g
+564,aladdins eatery,brown rice with vermicelli,15,g,10,mg,15,g,45,g,5,g,3,g,0,g,3,g,1,g
+565,aladdins eatery,carrot apple juice,0,g,0,mg,80,g,25,g,1,g,0,g,0,g,1,g,16,g
+566,aladdins eatery,carrot smoothie,1,g,0,mg,125,g,77,g,3,g,0,g,0,g,5,g,56,g
+567,aladdins eatery,cheddar cheese,9,g,30,mg,180,g,1,g,7,g,5,g,0,g,0,g,0,g
+568,aladdins eatery,chicken curry pitza,52,g,140,mg,1410,g,75,g,39,g,8,g,0,g,7,g,35,g
+569,aladdins eatery,chicken curry rolled pita,50,g,145,mg,1500,g,61,g,42,g,12,g,0,g,7,g,19,g
+570,aladdins eatery,chicken dijon rolled pita,29,g,155,mg,1250,g,52,g,41,g,5,g,0,g,3,g,16,g
+571,aladdins eatery,chicken salad,18,g,160,mg,930,g,17,g,49,g,3,g,0,g,4,g,8,g
+572,aladdins eatery,chicken salad rolled pita,33,g,90,mg,960,g,39,g,31,g,10,g,0,g,3,g,5,g
+573,aladdins eatery,chicken shawarma,6,g,90,mg,490,g,1,g,20,g,1,g,0,g,0,g,0,g
+574,aladdins eatery,chicken shawarma rolled pita,25,g,150,mg,1350,g,42,g,42,g,5,g,0,g,4,g,5,g
+575,aladdins eatery,chili with chicken,9,g,35,mg,1260,g,41,g,21,g,2,g,0,g,12,g,9,g
+576,aladdins eatery,cranberry walnut salad,30,g,10,mg,0,g,86,g,13,g,4,g,0,g,13,g,51,g
+577,aladdins eatery,dawali rolled pita,24,g,5,mg,1210,g,65,g,10,g,3,g,0,g,6,g,6,g
+578,aladdins eatery,dawali regular,75,g,5,mg,2150,g,92,g,22,g,11,g,0,g,16,g,19,g
+579,aladdins eatery,dawali small,37,g,5,mg,1060,g,46,g,11,g,5,g,0,g,8,g,10,g
+580,aladdins eatery,falafel salad,8,g,10,mg,2070,g,59,g,20,g,2,g,0,g,14,g,13,g
+581,aladdins eatery,falafel regular,17,g,5,mg,2710,g,74,g,26,g,2,g,0,g,15,g,17,g
+582,aladdins eatery,falafel small,14,g,5,mg,1730,g,45,g,17,g,2,g,0,g,9,g,10,g
+583,aladdins eatery,farmers pitza,51,g,50,mg,800,g,46,g,17,g,12,g,0,g,7,g,8,g
+584,aladdins eatery,farrouks falafel pitza,22,g,0,mg,2500,g,87,g,25,g,3,g,0,g,23,g,7,g
+585,aladdins eatery,fatayer,4,g,15,mg,540,g,63,g,13,g,2,g,0,g,5,g,4,g
+586,aladdins eatery,fatayer plate,8,g,20,mg,740,g,70,g,16,g,4,g,0,g,7,g,7,g
+587,aladdins eatery,fattoush,49,g,0,mg,1460,g,47,g,8,g,7,g,0,g,7,g,10,g
+588,aladdins eatery,fattoush dressing,31,g,0,mg,490,g,3,g,0,g,4,g,0,g,0,g,1,g
+589,aladdins eatery,fattoush with chicken,54,g,65,mg,2160,g,47,g,36,g,8,g,0,g,7,g,10,g
+590,aladdins eatery,feta cheese,4,g,25,mg,350,g,1,g,5,g,3,g,0,g,0,g,1,g
+591,aladdins eatery,flavor savor special,62,g,130,mg,2470,g,70,g,55,g,15,g,0,g,9,g,9,g
+592,aladdins eatery,foole m damas regular,66,g,0,mg,2070,g,31,g,13,g,9,g,0,g,9,g,8,g
+593,aladdins eatery,foole m damas small,24,g,0,mg,1040,g,15,g,6,g,3,g,0,g,5,g,5,g
+594,aladdins eatery,fresh fruit smoothie,1,g,0,mg,20,g,78,g,2,g,0,g,0,g,2,g,67,g
+595,aladdins eatery,garlic sauce,46,g,25,mg,670,g,1,g,1,g,7,g,0,g,0,g,2,g
+596,aladdins eatery,garlic spinach and feta pitza,43,g,30,mg,1070,g,45,g,11,g,8,g,0,g,8,g,7,g
+597,aladdins eatery,greek chicken salad,14,g,75,mg,1380,g,18,g,34,g,3,g,0,g,7,g,6,g
+598,aladdins eatery,greek pita pitza,31,g,35,mg,1240,g,44,g,13,g,7,g,0,g,6,g,5,g
+599,aladdins eatery,grilled tuna salad,2,g,90,mg,120,g,8,g,58,g,1,g,0,g,4,g,4,g
+600,aladdins eatery,honey dijon dressing,14,g,5,mg,230,g,20,g,1,g,2,g,0,g,1,g,19,g
+601,aladdins eatery,honeymooner juice,0,g,0,mg,40,g,17,g,2,g,0,g,0,g,1,g,11,g
+602,aladdins eatery,hot sauce,18,g,0,mg,540,g,2,g,0,g,3,g,0,g,1,g,1,g
+603,aladdins eatery,hummus beef shawarma plate,48,g,110,mg,1950,g,12,g,51,g,12,g,0,g,3,g,5,g
+604,aladdins eatery,hummus falafel rolled pita,12,g,0,mg,2420,g,77,g,20,g,2,g,0,g,18,g,7,g
+605,aladdins eatery,hummus garden rolled pita,12,g,0,mg,960,g,60,g,15,g,2,g,0,g,9,g,6,g
+606,aladdins eatery,hummus mishwi chicken plate,37,g,135,mg,1820,g,13,g,52,g,5,g,0,g,3,g,5,g
+607,aladdins eatery,hummus tabouli rolled pita,26,g,0,mg,1320,g,64,g,15,g,4,g,0,g,10,g,9,g
+608,aladdins eatery,hummus large,64,g,0,mg,4010,g,129,g,48,g,9,g,0,g,33,g,21,g
+609,aladdins eatery,hummus regular,32,g,0,mg,2010,g,65,g,24,g,4,g,0,g,16,g,11,g
+610,aladdins eatery,hummus small,23,g,0,mg,1340,g,43,g,16,g,3,g,0,g,11,g,7,g
+611,aladdins eatery,jaffars pizza,24,g,55,mg,1200,g,63,g,27,g,11,g,1,g,10,g,8,g
+612,aladdins eatery,jasmines rice,25,g,0,mg,740,g,29,g,11,g,4,g,0,g,7,g,8,g
+613,aladdins eatery,jasmines rice with beef shawarma,41,g,110,mg,1480,g,26,g,37,g,11,g,0,g,7,g,7,g
+614,aladdins eatery,jasmines rice with grilled tuna,22,g,90,mg,720,g,24,g,64,g,3,g,0,g,6,g,7,g
+615,aladdins eatery,jasmines rice with lamb,39,g,140,mg,1340,g,25,g,50,g,9,g,0,g,6,g,7,g
+616,aladdins eatery,jasmines rice with lebanese salata,26,g,0,mg,910,g,30,g,10,g,4,g,0,g,8,g,9,g
+617,aladdins eatery,jasmines rice with mishwi chicken,32,g,160,mg,1470,g,26,g,44,g,5,g,0,g,7,g,7,g
+618,aladdins eatery,jasmines rice with shish kabob,40,g,110,mg,1230,g,25,g,47,g,8,g,1,g,6,g,7,g
+619,aladdins eatery,jasmines rice with tawook chicken,27,g,90,mg,1530,g,31,g,46,g,4,g,0,g,6,g,7,g
+620,aladdins eatery,kibbie,60,g,70,mg,1270,g,51,g,27,g,13,g,1,g,8,g,10,g
+621,aladdins eatery,kibbie plate,79,g,85,mg,1610,g,66,g,33,g,17,g,2,g,12,g,10,g
+622,aladdins eatery,kids beef kafta with rice,39,g,55,mg,560,g,65,g,21,g,11,g,1,g,5,g,2,g
+623,aladdins eatery,kids cheese pitza,27,g,90,mg,940,g,40,g,23,g,16,g,1,g,2,g,2,g
+624,aladdins eatery,kids chicken and cheese pitza,32,g,230,mg,1680,g,38,g,72,g,16,g,1,g,2,g,2,g
+625,aladdins eatery,kids chicken tenders with fresh fruit,4,g,90,mg,490,g,29,g,32,g,1,g,0,g,3,g,19,g
+626,aladdins eatery,kids chicken tenders with rice,19,g,90,mg,500,g,64,g,39,g,4,g,0,g,4,g,1,g
+627,aladdins eatery,kids fresh fruit,0,g,0,mg,10,g,27,g,1,g,0,g,0,g,2,g,19,g
+628,aladdins eatery,kids grilled cheese with fresh fruit,20,g,55,mg,500,g,61,g,19,g,11,g,1,g,4,g,20,g
+629,aladdins eatery,lamb salad,22,g,145,mg,940,g,11,g,45,g,7,g,0,g,4,g,4,g
+630,aladdins eatery,lebanese salata,8,g,0,mg,500,g,11,g,3,g,1,g,0,g,4,g,5,g
+631,aladdins eatery,len chili,7,g,0,mg,1050,g,36,g,12,g,1,g,0,g,9,g,6,g
+632,aladdins eatery,len chili with chicken,12,g,35,mg,1340,g,36,g,22,g,2,g,0,g,9,g,6,g
+633,aladdins eatery,lentil soup,9,g,0,mg,1090,g,31,g,12,g,1,g,0,g,6,g,3,g
+634,aladdins eatery,lentil soup with chicken,14,g,35,mg,1420,g,33,g,22,g,2,g,0,g,6,g,3,g
+635,aladdins eatery,loubie plate,28,g,15,mg,860,g,85,g,12,g,5,g,0,g,10,g,9,g
+636,aladdins eatery,loubie regular,11,g,0,mg,980,g,21,g,5,g,2,g,0,g,6,g,9,g
+637,aladdins eatery,loubie small,8,g,0,mg,560,g,12,g,3,g,1,g,0,g,3,g,5,g
+638,aladdins eatery,mango smoothie,0,g,0,mg,140,g,82,g,1,g,0,g,0,g,2,g,75,g
+639,aladdins eatery,marinated lamb,10,g,75,mg,390,g,0,g,22,g,3,g,0,g,0,g,0,g
+640,aladdins eatery,mediterranean plate with kafta,78,g,175,mg,1580,g,80,g,51,g,22,g,3,g,8,g,7,g
+641,aladdins eatery,mediterranean plate with lamb,51,g,155,mg,750,g,71,g,52,g,10,g,0,g,6,g,2,g
+642,aladdins eatery,mediterranean plate with shish kabob,52,g,125,mg,640,g,70,g,49,g,10,g,1,g,6,g,2,g
+643,aladdins eatery,mishwi salad,15,g,165,mg,1070,g,12,g,38,g,4,g,0,g,5,g,4,g
+644,aladdins eatery,mujadara plate,64,g,0,mg,2740,g,126,g,35,g,9,g,0,g,32,g,3,g
+645,aladdins eatery,mujadara power salad,57,g,0,mg,2450,g,95,g,37,g,8,g,0,g,26,g,15,g
+646,aladdins eatery,natural energy juice,0,g,0,mg,120,g,10,g,2,g,0,g,0,g,2,g,4,g
+647,aladdins eatery,sambusek,21,g,160,mg,580,g,70,g,39,g,4,g,0,g,6,g,9,g
+648,aladdins eatery,sambusek plate,23,g,160,mg,670,g,38,g,41,g,5,g,0,g,9,g,12,g
+649,aladdins eatery,sfiha,26,g,100,mg,1590,g,63,g,41,g,9,g,1,g,4,g,9,g
+650,aladdins eatery,sfiha plate,30,g,110,mg,1740,g,69,g,45,g,11,g,1,g,6,g,11,g
+651,aladdins eatery,shawarma salad,24,g,120,mg,1080,g,11,g,33,g,10,g,0,g,5,g,4,g
+652,aladdins eatery,shish kabob,12,g,65,mg,380,g,0,g,24,g,3,g,0,g,0,g,0,g
+653,aladdins eatery,shish kabob rolled pita,28,g,45,mg,830,g,40,g,19,g,6,g,0,g,3,g,5,g
+654,aladdins eatery,shish kabob salad,23,g,115,mg,830,g,10,g,42,g,6,g,1,g,4,g,4,g
+655,aladdins eatery,shish tawook rolled pita,22,g,90,mg,1550,g,36,g,32,g,3,g,0,g,2,g,3,g
+656,aladdins eatery,shish twook,4,g,55,mg,560,g,1,g,23,g,1,g,0,g,0,g,0,g
+657,aladdins eatery,spicy cauliflower,11,g,0,mg,910,g,9,g,4,g,2,g,0,g,5,g,4,g
+658,aladdins eatery,spicy kafta rolled pita,38,g,55,mg,1070,g,43,g,21,g,9,g,1,g,4,g,6,g
+659,aladdins eatery,spinach salad,1,g,0,mg,75,g,6,g,3,g,0,g,0,g,3,g,2,g
+660,aladdins eatery,sultans shawarma pitza,46,g,85,mg,810,g,47,g,30,g,16,g,0,g,5,g,6,g
+661,aladdins eatery,superfood salad,50,g,0,mg,1330,g,57,g,16,g,5,g,0,g,8,g,11,g
+662,aladdins eatery,tabouli large,56,g,0,mg,1260,g,26,g,6,g,8,g,0,g,7,g,7,g
+663,aladdins eatery,tabouli regular,37,g,0,mg,850,g,18,g,4,g,5,g,0,g,5,g,5,g
+664,aladdins eatery,tabouli small,19,g,0,mg,440,g,9,g,2,g,3,g,0,g,3,g,2,g
+665,aladdins eatery,tahini yogurt recipe,10,g,5,mg,250,g,7,g,5,g,2,g,0,g,1,g,3,g
+666,aladdins eatery,tawook salad,9,g,85,mg,1060,g,10,g,38,g,2,g,0,g,4,g,4,g
+667,aladdins eatery,taza chicken salad,29,g,85,mg,1110,g,75,g,38,g,6,g,0,g,10,g,59,g
+668,aladdins eatery,tropical storm smoothie,1,g,0,mg,90,g,72,g,7,g,0,g,0,g,2,g,64,g
+669,aladdins eatery,tuna shawarma rolled pita,7,g,105,mg,1250,g,40,g,73,g,1,g,0,g,3,g,4,g
+670,aladdins eatery,tuna steak rolled pita,20,g,115,mg,1270,g,37,g,72,g,3,g,0,g,3,g,4,g
+671,aladdins eatery,turkey rolled pita,32,g,85,mg,1550,g,40,g,38,g,10,g,0,g,3,g,7,g
+672,aladdins eatery,turkey salad,5,g,90,mg,260,g,9,g,40,g,1,g,0,g,4,g,4,g
+673,aladdins eatery,v nine soup,0,g,0,mg,170,g,10,g,3,g,0,g,0,g,3,g,6,g
+674,aladdins eatery,v nine soup with chicken,5,g,35,mg,440,g,10,g,12,g,1,g,0,g,3,g,6,g
+675,aladdins eatery,vegetarian chili,4,g,0,mg,990,g,40,g,13,g,1,g,0,g,12,g,9,g
+676,aladdins eatery,vegetarian combo,72,g,5,mg,4580,g,113,g,45,g,10,g,0,g,22,g,26,g
+677,aladdins eatery,zesty tomato dressing,11,g,0,mg,60,g,5,g,0,g,2,g,0,g,0,g,5,g
+678,alonti cafe and catering,almond croissant,26,g,45,mg,370,g,28,g,6,g,14,g,1,g,3,g,8,g
+679,alonti cafe and catering,americana buffet,52,g,65,mg,2500,g,62,g,28,g,17,g,1.5,g,4,g,13,g
+680,alonti cafe and catering,ancho bbq beef wrap,57,g,95,mg,3100,g,81,g,60,g,16,g,0,g,10,g,18,g
+681,alonti cafe and catering,apple crumble,19,g,15,mg,410,g,78,g,3,g,5,g,3,g,3,g,54,g
+682,alonti cafe and catering,apple danish,18,g,45,mg,320,g,31,g,3,g,11,g,0,g,0,g,12,g
+683,alonti cafe and catering,apricot ruggulach,8,g,10,mg,65,g,12,g,2,g,3,g,0,g,0,g,5,g
+684,alonti cafe and catering,asian crispy chicken no sides,8,g,145,mg,1140,g,33,g,61,g,2,g,0,g,0,g,15,g
+685,alonti cafe and catering,asian crispy chicken wrap,25,g,150,mg,2070,g,104,g,71,g,6,g,0,g,4,g,30,g
+686,alonti cafe and catering,assorted baked ruggulach 4 total,34,g,45,mg,250,g,47,g,8,g,12,g,0,g,2,g,20,g
+687,alonti cafe and catering,assorted pastries,16,g,45,mg,540,g,76,g,9,g,8,g,0,g,3,g,32,g
+688,alonti cafe and catering,bagels and muffins,4.5,g,0,mg,500,g,71,g,9,g,1.5,g,0,g,4,g,28,g
+689,alonti cafe and catering,baked potato bar with spicy beef and bbq chicken,87,g,290,mg,2470,g,65,g,76,g,33,g,6,g,5,g,21,g
+690,alonti cafe and catering,beef brisket,75,g,270,mg,5150,g,100,g,151,g,35,g,0,g,7,g,29,g
+691,alonti cafe and catering,beef brisket enchiladas no sides,59,g,185,mg,2310,g,45,g,51,g,31,g,0,g,3,g,6,g
+692,alonti cafe and catering,beef brisket on jalapeo cornbread,22,g,80,mg,1800,g,45,g,54,g,8,g,0,g,2,g,11,g
+693,alonti cafe and catering,beef brisket with bbq sauce no sides,35,g,165,mg,4080,g,33,g,135,g,14,g,0,g,0,g,28,g
+694,alonti cafe and catering,big als club on wheat box lunch,56,g,140,mg,2690,g,124,g,53,g,20,g,0,g,7,g,45,g
+695,alonti cafe and catering,braised kale,8,g,2220,mg,480,g,2,g,0,g,2,g,0,g,2,g,11,g
+696,alonti cafe and catering,breakfast tacos,35,g,85,mg,1440,g,39,g,28,g,16,g,0,g,4,g,4,g
+697,alonti cafe and catering,brioche bun,9,g,15,mg,870,g,55,g,9,g,3.5,g,0,g,2,g,11,g
+698,alonti cafe and catering,brown sugar and cinnamon french toast,60,g,335,mg,620,g,157,g,18,g,36,g,0,g,1,g,113,g
+699,alonti cafe and catering,brownie box,28,g,115,mg,320,g,83,g,5,g,8,g,0,g,3,g,52,g
+700,alonti cafe and catering,buttermilk baked chicken sandwich,45,g,180,mg,3470,g,107,g,65,g,13,g,0,g,6,g,18,g
+701,alonti cafe and catering,buttermilk baked chicken with honey mustard cream sauce no sides,65,g,295,mg,3320,g,4,g,49,g,34,g,0,g,4,g,17,g
+702,alonti cafe and catering,caesar salad bowl with dressing,57,g,55,mg,860,g,8,g,10,g,11,g,0.5,g,2,g,1,g
+703,alonti cafe and catering,caesar salad box lunch,109,g,115,mg,2370,g,103,g,35,g,27,g,2.5,g,9,g,35,g
+704,alonti cafe and catering,california club on ciabatta box lunch,63,g,140,mg,3110,g,124,g,62,g,21,g,0,g,9,g,41,g
+705,alonti cafe and catering,capri chicken sandwich,41,g,140,mg,910,g,49,g,56,g,8,g,0,g,4,g,11,g
+706,alonti cafe and catering,charro beans,3,g,0,mg,920,g,29,g,7,g,0,g,0,g,10,g,3,g
+707,alonti cafe and catering,cheddar jalapeno bun,10,g,25,mg,590,g,35,g,9,g,3.5,g,0,g,1,g,3,g
+708,alonti cafe and catering,cheese danish,18,g,45,mg,320,g,31,g,4,g,11,g,0,g,0,g,12,g
+709,alonti cafe and catering,cherry danish,18,g,45,mg,320,g,31,g,3,g,11,g,0,g,0,g,12,g
+710,alonti cafe and catering,chicken caesar salad bowl with dressing,61,g,125,mg,1020,g,9,g,35,g,12,g,0.5,g,2,g,1,g
+711,alonti cafe and catering,chicken caesar salad box lunch,114,g,210,mg,2580,g,103,g,69,g,28,g,2.5,g,9,g,35,g
+712,alonti cafe and catering,chicken caesar wrap,50,g,160,mg,1210,g,52,g,60,g,10,g,0,g,6,g,5,g
+713,alonti cafe and catering,chicken cranberry kale salad with lime vinaigrette,44,g,85,mg,950,g,54,g,35,g,10,g,0,g,6,g,27,g
+714,alonti cafe and catering,chicken dijonnaise with potatoes veg and bread,56,g,245,mg,2500,g,71,g,55,g,25,g,0,g,7,g,9,g
+715,alonti cafe and catering,chicken enchiladas verdes,28,g,75,mg,3070,g,118,g,42,g,4,g,0,g,16,g,20,g
+716,alonti cafe and catering,chicken enchiladas with charro beans and rice,47,g,180,mg,2440,g,67,g,41,g,24,g,0,g,12,g,5,g
+717,alonti cafe and catering,chicken florentine with roasted red pepper sauce no sides,36,g,180,mg,2590,g,48,g,48,g,15,g,0,g,3,g,10,g
+718,alonti cafe and catering,chicken parmigiana with garlic bread and caesar,68,g,315,mg,2280,g,159,g,72,g,15,g,0.5,g,10,g,15,g
+719,alonti cafe and catering,chicken primavera over cavatappi pasta no sides,29,g,100,mg,1300,g,74,g,33,g,13,g,0,g,8,g,12,g
+720,alonti cafe and catering,chicken provencal,81,g,310,mg,2840,g,55,g,73,g,17,g,0,g,9,g,8,g
+721,alonti cafe and catering,chicken salad on ciabatta box lunch,50,g,105,mg,1160,g,113,g,35,g,11,g,0,g,6,g,34,g
+722,alonti cafe and catering,chicken siena,71,g,220,mg,3140,g,56,g,44,g,36,g,2,g,6,g,11,g
+723,alonti cafe and catering,chicken tequila pasta with garlic bread and green salad,100,g,295,mg,1620,g,103,g,75,g,40,g,0,g,7,g,9,g
+724,alonti cafe and catering,chicken verde casserole no sides,25,g,140,mg,1320,g,22,g,38,g,13,g,0,g,4,g,4,g
+725,alonti cafe and catering,chinese braised brisket no sides,38,g,165,mg,6270,g,62,g,135,g,14,g,0,g,0,g,56,g
+726,alonti cafe and catering,chocolate ruggulach,10,g,10,mg,60,g,11,g,2,g,3.5,g,0,g,0,g,5,g
+727,alonti cafe and catering,ciabatta breakfast sandwiches,19,g,60,mg,930,g,23,g,22,g,8,g,0,g,0,g,3,g
+728,alonti cafe and catering,cinnamon apple cake,32,g,85,mg,680,g,127,g,7,g,13,g,3,g,3,g,83,g
+729,alonti cafe and catering,cinnamon raisin ruggulach,8,g,15,mg,60,g,12,g,2,g,3,g,0,g,0,g,5,g
+730,alonti cafe and catering,cobb salad bowl with ranch,62,g,185,mg,580,g,8,g,20,g,16,g,0,g,3,g,4,g
+731,alonti cafe and catering,cobb salad box lunch,112,g,275,mg,1280,g,86,g,34,g,29,g,0,g,7,g,38,g
+732,alonti cafe and catering,continental breakfast,16,g,45,mg,550,g,91,g,10,g,8,g,0,g,4,g,44,g
+733,alonti cafe and catering,cookie and brownie box,26,g,80,mg,370,g,79,g,6,g,8,g,0,g,2,g,49,g
+734,alonti cafe and catering,cookie box,21,g,30,mg,380,g,64,g,6,g,8,g,0,g,2,g,39,g
+735,alonti cafe and catering,corn saute,2,g,5,mg,390,g,20,g,4,g,0,g,0,g,3,g,5,g
+736,alonti cafe and catering,croissant breakfast sandwich bacon,33,g,100,mg,1180,g,43,g,26,g,17,g,0,g,0,g,7,g
+737,alonti cafe and catering,croissant breakfast sandwich ham,27,g,110,mg,1580,g,46,g,32,g,15,g,0,g,0,g,10,g
+738,alonti cafe and catering,croissant breakfast sandwich sausage,64,g,150,mg,1560,g,43,g,30,g,28,g,0,g,0,g,7,g
+739,alonti cafe and catering,crushed red potatoes,34,g,105,mg,840,g,38,g,9,g,20,g,0,g,4,g,4,g
+740,alonti cafe and catering,curry chicken sandwich,10,g,125,mg,650,g,59,g,58,g,1.5,g,0,g,5,g,19,g
+741,alonti cafe and catering,curry spread,0,g,0,mg,55,g,3,g,2,g,0,g,0,g,0,g,2,g
+742,alonti cafe and catering,deluxe luncheon package deal,151,g,310,mg,3940,g,184,g,79,g,37,g,0,g,10,g,79,g
+743,alonti cafe and catering,dulche de leche,24,g,100,mg,330,g,91,g,5,g,7,g,0,g,2,g,59,g
+744,alonti cafe and catering,fiesta breakfast combo,36,g,85,mg,1450,g,61,g,30,g,16,g,0,g,5,g,22,g
+745,alonti cafe and catering,fresh fruit,0,g,0,mg,10,g,22,g,1,g,0,g,0,g,2,g,18,g
+746,alonti cafe and catering,fresh fruit breakfast side,0,g,0,mg,10,g,22,g,1,g,0,g,0,g,2,g,18,g
+747,alonti cafe and catering,green beans with roasted red peppers,5,g,0,mg,660,g,8,g,2,g,0.5,g,0,g,3,g,3,g
+748,alonti cafe and catering,green salad bowl with ranch,50,g,15,mg,380,g,10,g,3,g,11,g,0.5,g,2,g,4,g
+749,alonti cafe and catering,grilled breakfast burritos platter with salsa,15,g,30,mg,1060,g,38,g,21,g,5,g,0,g,4,g,5,g
+750,alonti cafe and catering,guacamole,15,g,0,mg,240,g,10,g,2,g,2,g,0,g,7,g,1,g
+751,alonti cafe and catering,ham and swiss florentine breakfast burrito,31,g,90,mg,1770,g,64,g,44,g,14,g,0,g,4,g,6,g
+752,alonti cafe and catering,ham and swiss on black russian box lunch,56,g,155,mg,2540,g,139,g,61,g,20,g,0,g,9,g,43,g
+753,alonti cafe and catering,ham on pumpernickel box lunch,39,g,95,mg,2410,g,134,g,42,g,9,g,0,g,7,g,41,g
+754,alonti cafe and catering,harissa beef with tomato jam,51,g,100,mg,2370,g,72,g,62,g,16,g,0,g,4,g,23,g
+755,alonti cafe and catering,harissa chicken salad with curry yogurt dressing,32,g,65,mg,540,g,25,g,28,g,9,g,0,g,5,g,11,g
+756,alonti cafe and catering,harissa spread,17,g,0,mg,75,g,1,g,0,g,2.5,g,0,g,0,g,0,g
+757,alonti cafe and catering,herb roasted red potatoes,5,g,0,mg,680,g,36,g,4,g,0,g,0,g,3,g,3,g
+758,alonti cafe and catering,honey wheat vegetarian wrap,31,g,5,mg,1090,g,70,g,13,g,4.5,g,0,g,7,g,13,g
+759,alonti cafe and catering,hummus,6,g,0,mg,140,g,5,g,2,g,0.5,g,0,g,0,g,0,g
+760,alonti cafe and catering,iced lemon sweet loaf,25,g,110,mg,520,g,66,g,8,g,4,g,0,g,0,g,39,g
+761,alonti cafe and catering,kettle chips,13,g,0,mg,330,g,24,g,3,g,1.5,g,0,g,2,g,1,g
+762,alonti cafe and catering,lemon scented rice,0,g,0,mg,230,g,17,g,1,g,0,g,0,g,0,g,0,g
+763,alonti cafe and catering,macaroni and cheese,29,g,85,mg,920,g,40,g,19,g,15,g,0.5,g,2,g,1,g
+764,alonti cafe and catering,mango bbq baked chicken no sides,7,g,125,mg,730,g,24,g,46,g,1.5,g,0,g,0,g,20,g
+765,alonti cafe and catering,marble loaf,2,g,0,mg,830,g,75,g,11,g,0,g,0,g,8,g,4,g
+766,alonti cafe and catering,mediterranean chicken salad no dressing,14,g,50,mg,760,g,26,g,22,g,5,g,0,g,8,g,9,g
+767,alonti cafe and catering,mediterranean medley,25,g,5,mg,870,g,60,g,12,g,4,g,0,g,8,g,16,g
+768,alonti cafe and catering,mediterranean vegetarian sandwich,28,g,20,mg,710,g,53,g,17,g,5,g,0,g,6,g,8,g
+769,alonti cafe and catering,mexican creamed corn,17,g,45,mg,500,g,28,g,6,g,11,g,0,g,4,g,5,g
+770,alonti cafe and catering,mexican rice,0.5,g,0,mg,500,g,33,g,4,g,0,g,0,g,2,g,2,g
+771,alonti cafe and catering,mix green salad with balsamic vinaigrette,70,g,0,mg,390,g,13,g,3,g,10,g,0,g,3,g,6,g
+772,alonti cafe and catering,mixed green salad box lunch,45,g,30,mg,1080,g,102,g,13,g,11,g,2.5,g,8,g,36,g
+773,alonti cafe and catering,monterey chicken sandwich,40,g,190,mg,1810,g,45,g,64,g,16,g,0,g,5,g,6,g
+774,alonti cafe and catering,monterey chicken sandwich box lunch,69,g,220,mg,2320,g,119,g,71,g,24,g,0,g,9,g,39,g
+775,alonti cafe and catering,mrs ps beef lasagna meal with garlic bread and caesar,80,g,145,mg,1970,g,44,g,49,g,25,g,1,g,5,g,11,g
+776,alonti cafe and catering,new england chicken salad sandwich,22,g,30,mg,600,g,66,g,16,g,2.5,g,0,g,5,g,14,g
+777,alonti cafe and catering,onion leek focaccia,5,g,10,mg,720,g,55,g,12,g,3,g,0,g,2,g,2,g
+778,alonti cafe and catering,parmesan and herb white bean dip,2,g,5,mg,140,g,4,g,2,g,1,g,0,g,1,g,0,g
+779,alonti cafe and catering,pecan cheesecake bar,37,g,100,mg,135,g,57,g,6,g,15,g,0,g,2,g,42,g
+780,alonti cafe and catering,pecan crusted chicken,46,g,145,mg,1950,g,73,g,41,g,15,g,0,g,8,g,10,g
+781,alonti cafe and catering,pecan crusted chicken salad without dressing,16,g,80,mg,590,g,25,g,34,g,4,g,0,g,5,g,4,g
+782,alonti cafe and catering,pesto chicken salad without dressing,36,g,85,mg,710,g,19,g,37,g,9,g,0,g,6,g,6,g
+783,alonti cafe and catering,pesto pasta salad bowl,30,g,10,mg,300,g,38,g,7,g,4,g,0,g,3,g,2,g
+784,alonti cafe and catering,pistachio oatmeal bars,19,g,35,mg,80,g,31,g,4,g,10,g,0,g,3,g,15,g
+785,alonti cafe and catering,plain focaccia,0,g,0,mg,770,g,60,g,10,g,0,g,0,g,2,g,0,g
+786,alonti cafe and catering,pork loin,73,g,280,mg,4150,g,88,g,88,g,29,g,0.5,g,5,g,35,g
+787,alonti cafe and catering,portuguese bbq chicken,84,g,330,mg,2380,g,62,g,74,g,24,g,1,g,9,g,11,g
+788,alonti cafe and catering,potatoes gratin with parmesan and cheddar,43,g,150,mg,670,g,34,g,12,g,26,g,0,g,4,g,3,g
+789,alonti cafe and catering,powerbowl no dressingvegan,17,g,0,mg,300,g,59,g,14,g,2.5,g,0,g,14,g,4,g
+790,alonti cafe and catering,powerbowl no dressingwith chicken 2 oz,20,g,45,mg,400,g,59,g,31,g,3,g,0,g,14,g,4,g
+791,alonti cafe and catering,powerbowl no dressingwith falafel 1 piece,22,g,15,mg,1390,g,75,g,21,g,5,g,0,g,19,g,5,g
+792,alonti cafe and catering,powerbowladd dressing 3 oz,18,g,0,mg,640,g,5,g,0,g,2.5,g,0,g,0,g,3,g
+793,alonti cafe and catering,premium sandwich package deal,127,g,250,mg,3240,g,102,g,79,g,33,g,0.5,g,10,g,21,g
+794,alonti cafe and catering,premium sandwiches,31,g,125,mg,2020,g,52,g,51,g,14,g,0,g,4,g,9,g
+795,alonti cafe and catering,premium sweets selection,33,g,75,mg,370,g,103,g,9,g,12,g,0,g,4,g,60,g
+796,alonti cafe and catering,pressata sandwich package deal,129,g,280,mg,3120,g,132,g,89,g,32,g,0.5,g,9,g,21,g
+797,alonti cafe and catering,pressata sandwiches,33,g,150,mg,1910,g,82,g,61,g,13,g,0,g,3,g,8,g
+798,alonti cafe and catering,pressatachipotle beef sandwich,40,g,85,mg,2440,g,64,g,59,g,13,g,0,g,3,g,11,g
+799,alonti cafe and catering,pressatahoney mustard bbq beef,47,g,95,mg,3040,g,107,g,66,g,15,g,0,g,4,g,28,g
+800,alonti cafe and catering,pressataturkey provencal,30,g,85,mg,2640,g,84,g,43,g,8,g,0,g,3,g,9,g
+801,alonti cafe and catering,pressatavegetarian,23,g,20,mg,1020,g,84,g,16,g,5,g,0,g,4,g,10,g
+802,alonti cafe and catering,pumpkin nut sweet loaf,53,g,150,mg,800,g,76,g,11,g,9,g,0,g,4,g,42,g
+803,alonti cafe and catering,raisin walnut loaf,2.5,g,0,mg,320,g,41,g,5,g,0,g,0,g,3,g,10,g
+804,alonti cafe and catering,ranch style baked beans,2.5,g,5,mg,1370,g,49,g,8,g,1,g,0,g,11,g,21,g
+805,alonti cafe and catering,raspberry cheese cake cups,36,g,50,mg,400,g,55,g,6,g,19,g,2,g,2,g,40,g
+806,alonti cafe and catering,raspberry ruggulach,8,g,10,mg,65,g,12,g,2,g,3,g,0,g,0,g,5,g
+807,alonti cafe and catering,red potato salad bowl,14,g,20,mg,360,g,36,g,8,g,3,g,0,g,4,g,4,g
+808,alonti cafe and catering,roast chicken on focaccia,10,g,105,mg,930,g,55,g,46,g,4,g,0,g,2,g,2,g
+809,alonti cafe and catering,roast chicken on focaccia box lunch,39,g,135,mg,1440,g,130,g,53,g,12,g,0,g,5,g,34,g
+810,alonti cafe and catering,roasted red peppers,7,g,0,mg,10,g,16,g,3,g,1,g,0,g,5,g,10,g
+811,alonti cafe and catering,roasted squash casserole,23,g,50,mg,660,g,19,g,12,g,10,g,1,g,3,g,7,g
+812,alonti cafe and catering,roasted sweet potatoes,11,g,0,mg,470,g,60,g,4,g,1.5,g,0,g,7,g,23,g
+813,alonti cafe and catering,roasted tomato green beans and carrot medley,6,g,0,mg,490,g,13,g,2,g,1,g,0,g,3,g,4,g
+814,alonti cafe and catering,roasted vegetable medley,6,g,0,mg,420,g,11,g,2,g,1,g,0,g,3,g,4,g
+815,alonti cafe and catering,salsa,1,g,0,mg,1130,g,19,g,4,g,0,g,0,g,6,g,12,g
+816,alonti cafe and catering,santa barbara turkey on ciabatta box lunch,56,g,140,mg,3100,g,118,g,60,g,20,g,0,g,5,g,40,g
+817,alonti cafe and catering,santa fe chicken wrap,48,g,160,mg,2510,g,94,g,62,g,12,g,0,g,11,g,26,g
+818,alonti cafe and catering,side of tortilla chips guacamole and salsa,19,g,0,mg,520,g,47,g,6,g,2.5,g,0,g,6,g,3,g
+819,alonti cafe and catering,sonoma yogurt barefull portion,16,g,70,mg,1260,g,425,g,165,g,4,g,0,g,37,g,227,g
+820,alonti cafe and catering,sonoma yogurt bareper serving serves 12,1.5,g,5,mg,105,g,35,g,14,g,0,g,0,g,3,g,19,g
+821,alonti cafe and catering,southwest chickenfull portion,189,g,1015,mg,1590,g,263,g,388,g,67,g,0,g,89,g,48,g
+822,alonti cafe and catering,southwest chickenper serving serves 10,19,g,100,mg,1590,g,26,g,39,g,7,g,0,g,9,g,5,g
+823,alonti cafe and catering,spinach and spring mix salad bowl with balsamic vinaigrette,44,g,10,mg,510,g,20,g,3,g,11,g,0,g,1,g,12,g
+824,alonti cafe and catering,stackereham turkey and swiss sandwich,28,g,85,mg,1760,g,50,g,36,g,7,g,0,g,3,g,13,g
+825,alonti cafe and catering,steak grilled breakfast burrito,23,g,40,mg,1890,g,65,g,40,g,7,g,0,g,7,g,7,g
+826,alonti cafe and catering,stewed black beans,2.5,g,0,mg,900,g,24,g,8,g,0,g,0,g,11,g,3,g
+827,alonti cafe and catering,stuffed meatloaf,63,g,205,mg,1760,g,23,g,36,g,24,g,1.5,g,3,g,9,g
+828,alonti cafe and catering,taco salad bar,94,g,180,mg,3290,g,95,g,44,g,29,g,1,g,17,g,13,g
+829,alonti cafe and catering,tiger thai beef sandwich on brioche,39,g,80,mg,2270,g,73,g,54,g,11,g,0,g,4,g,23,g
+830,alonti cafe and catering,tomato basil pasta salad bowl,19,g,0,mg,260,g,34,g,6,g,2.5,g,0,g,2,g,3,g
+831,alonti cafe and catering,tomato confit,6,g,0,mg,120,g,1,g,0,g,1,g,0,g,0,g,0,g
+832,alonti cafe and catering,tomato jam,0,g,0,mg,10,g,3,g,0,g,0,g,0,g,0,g,2,g
+833,alonti cafe and catering,tortilla chips guacamole and salsa,19,g,0,mg,520,g,47,g,6,g,2.5,g,0,g,6,g,3,g
+834,alonti cafe and catering,traditional sandwich package deal,141,g,255,mg,3260,g,188,g,78,g,34,g,0.5,g,11,g,74,g
+835,alonti cafe and catering,traditional sandwiches,16,g,85,mg,1530,g,52,g,41,g,4.5,g,0,g,3,g,9,g
+836,alonti cafe and catering,trio salad without dressing,59,g,125,mg,1050,g,47,g,43,g,9,g,0,g,6,g,11,g
+837,alonti cafe and catering,turkey lasagna with garlic bread and caesar,72,g,205,mg,2210,g,54,g,50,g,20,g,0.5,g,6,g,10,g
+838,alonti cafe and catering,turkey meatloaf,25,g,100,mg,1870,g,32,g,31,g,5,g,1.5,g,2,g,15,g
+839,alonti cafe and catering,turkey on wheat box lunch,35,g,80,mg,2300,g,119,g,38,g,8,g,0,g,5,g,43,g
+840,alonti cafe and catering,turkey with tomato confit,44,g,100,mg,2680,g,70,g,43,g,10,g,0,g,4,g,5,g
+841,alonti cafe and catering,tuscan turkey sandwich,45,g,70,mg,2320,g,68,g,39,g,9,g,0,g,7,g,6,g
+842,alonti cafe and catering,tuscan turkey wrap,65,g,85,mg,3250,g,63,g,41,g,14,g,0,g,5,g,5,g
+843,alonti cafe and catering,vegetable crudites,0,g,0,mg,50,g,11,g,2,g,0,g,0,g,3,g,5,g
+844,alonti cafe and catering,vegetable tapenade,4.5,g,0,mg,190,g,1,g,0,g,0.5,g,0,g,0,g,0,g
+845,alonti cafe and catering,vegetarian enchiladas,21,g,35,mg,1340,g,55,g,15,g,9,g,0,g,6,g,8,g
+846,alonti cafe and catering,vegetarian grilled breakfast burrito,24,g,10,mg,1170,g,67,g,19,g,5,g,0,g,11,g,8,g
+847,alonti cafe and catering,vegetarian lasagna with garlic bread and caesar,73,g,125,mg,1760,g,58,g,40,g,23,g,0.5,g,6,g,11,g
+848,alonti cafe and catering,vegetarian on focaccia box lunch,60,g,120,mg,1410,g,137,g,41,g,27,g,0,g,7,g,40,g
+849,alonti cafe and catering,vegetarian sandwich on focaccia,30,g,90,mg,900,g,62,g,34,g,19,g,0,g,4,g,7,g
+850,alonti cafe and catering,yogurt parfait,15,g,5,mg,85,g,48,g,14,g,3.5,g,0,g,5,g,28,g
+851,ameci pizza and pasta,ameci mozzarella sticks,24,g,40,mg,1590,g,48,g,21,g,9,g,0,g,2,g,11,g
+852,ameci pizza and pasta,antipasto salad,27,g,70,mg,2410,g,20,g,36,g,14,g,0.5,g,9,g,8,g
+853,ameci pizza and pasta,barbeque wings,87,g,175,mg,1920,g,51,g,35,g,8,g,0,g,1,g,32,g
+854,ameci pizza and pasta,bbq chicken submarine,20,g,125,mg,1850,g,72,g,55,g,10,g,0,g,7,g,31,g
+855,ameci pizza and pasta,caesar salad,72,g,15,mg,1590,g,17,g,9,g,13,g,0,g,4,g,4,g
+856,ameci pizza and pasta,calzone filling,380,g,2200,mg,5660,g,96,g,371,g,234,g,0,g,7,g,10,g
+857,ameci pizza and pasta,cheese calzone,56,g,185,mg,1610,g,101,g,61,g,33,g,0.5,g,8,g,13,g
+858,ameci pizza and pasta,chef salad,16,g,260,mg,2050,g,18,g,48,g,0,g,0.5,g,7,g,8,g
+859,ameci pizza and pasta,chicken caesar salad,74,g,100,mg,2520,g,17,g,43,g,13,g,0,g,4,g,4,g
+860,ameci pizza and pasta,chicken caesar submarine,38,g,85,mg,1890,g,37,g,42,g,6,g,0,g,6,g,7,g
+861,ameci pizza and pasta,chicken parmigiana submarine,34,g,70,mg,1660,g,62,g,33,g,13,g,0,g,7,g,19,g
+862,ameci pizza and pasta,chicken parmigiana with spaghetti,30,g,45,mg,2210,g,113,g,37,g,9,g,0,g,7,g,27,g
+863,ameci pizza and pasta,chicken ranch submarine,37,g,125,mg,1900,g,38,g,55,g,12,g,0,g,6,g,8,g
+864,ameci pizza and pasta,classic dinner salad,1,g,0,mg,50,g,15,g,4,g,0,g,0,g,7,g,8,g
+865,ameci pizza and pasta,cold cuts submarine,43,g,70,mg,2820,g,44,g,31,g,14,g,0,g,6,g,12,g
+866,ameci pizza and pasta,eggplant parmigiana with spaghetti,29,g,50,mg,2410,g,110,g,31,g,11,g,0,g,5,g,27,g
+867,ameci pizza and pasta,eggplant submarine,27,g,50,mg,1860,g,84,g,26,g,11,g,0,g,6,g,20,g
+868,ameci pizza and pasta,fettuccine alfredo,43,g,65,mg,3230,g,111,g,31,g,15,g,0,g,6,g,7,g
+869,ameci pizza and pasta,garlic bread,26,g,0,mg,580,g,35,g,6,g,5,g,0,g,5,g,6,g
+870,ameci pizza and pasta,garlic cheese bread sticks,9,g,10,mg,1090,g,97,g,20,g,3,g,0.5,g,9,g,12,g
+871,ameci pizza and pasta,giganti pizza,146,g,415,mg,6050,g,691,g,206,g,77,g,0,g,7,g,29,g
+872,ameci pizza and pasta,jumbo cheese pizza,9,g,20,mg,490,g,34,g,13,g,4.5,g,0,g,3,g,4,g
+873,ameci pizza and pasta,jumbo pepperoni pizza,12,g,25,mg,560,g,31,g,13,g,6,g,0,g,3,g,3,g
+874,ameci pizza and pasta,large 1 topping pizza hand tossed crust,8,g,10,mg,500,g,34,g,20,g,3,g,0,g,2,g,3,g
+875,ameci pizza and pasta,large 1 topping pizza thick crust,14,g,15,mg,760,g,40,g,22,g,5,g,0,g,5,g,2,g
+876,ameci pizza and pasta,large ameci deluxe pizza,123,g,275,mg,4570,g,356,g,120,g,49,g,2.5,g,7,g,17,g
+877,ameci pizza and pasta,large bbq chicken pizza,59,g,235,mg,3600,g,385,g,122,g,29,g,0,g,2,g,50,g
+878,ameci pizza and pasta,large chicken ranch pizza,132,g,285,mg,4560,g,342,g,124,g,29,g,0,g,2,g,16,g
+879,ameci pizza and pasta,large garlic chicken alfredo pizza,110,g,315,mg,7080,g,387,g,144,g,48,g,0,g,3,g,19,g
+880,ameci pizza and pasta,large margherita pizza,84,g,150,mg,2480,g,340,g,90,g,33,g,0,g,2,g,14,g
+881,ameci pizza and pasta,large pizza topping american cheese,4,g,10,mg,220,g,0,g,2,g,2.5,g,0,g,0,g,0,g
+882,ameci pizza and pasta,large pizza topping anchovies,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+883,ameci pizza and pasta,large pizza topping bacon,4,g,15,mg,150,g,0,g,4,g,1.5,g,0,g,0,g,0,g
+884,ameci pizza and pasta,large pizza topping beef,4.5,g,10,mg,100,g,0,g,3,g,2,g,0,g,0,g,0,g
+885,ameci pizza and pasta,large pizza topping black olives,1,g,0,mg,90,g,1,g,0,g,0,g,0,g,0,g,0,g
+886,ameci pizza and pasta,large pizza topping chicken,1,g,10,mg,130,g,1,g,4,g,0,g,0,g,0,g,0,g
+887,ameci pizza and pasta,large pizza topping double pepperoni,4,g,10,mg,160,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+888,ameci pizza and pasta,large pizza topping extra cheese,2.5,g,5,mg,120,g,1,g,2,g,1.5,g,0,g,0,g,0,g
+889,ameci pizza and pasta,large pizza topping garlic,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+890,ameci pizza and pasta,large pizza topping ham,0.5,g,5,mg,135,g,0,g,2,g,0,g,0,g,0,g,0,g
+891,ameci pizza and pasta,large pizza topping jalapeno,0,g,0,mg,180,g,1,g,0,g,0,g,0,g,0,g,1,g
+892,ameci pizza and pasta,large pizza topping mushrooms,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+893,ameci pizza and pasta,large pizza topping pepperoni,4.5,g,10,mg,190,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+894,ameci pizza and pasta,large pizza topping pineapple,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,3,g
+895,ameci pizza and pasta,large pizza topping sausage,5,g,10,mg,180,g,2,g,2,g,2,g,0,g,1,g,0,g
+896,ameci pizza and pasta,large pizza topping tomatoes,0,g,0,mg,25,g,1,g,0,g,0,g,0,g,0,g,1,g
+897,ameci pizza and pasta,large vegetarian pizza,64,g,155,mg,3100,g,355,g,94,g,30,g,2.5,g,7,g,19,g
+898,ameci pizza and pasta,large white knight pizza,89,g,335,mg,2960,g,351,g,121,g,48,g,0,g,4,g,17,g
+899,ameci pizza and pasta,lasagna,67,g,290,mg,2490,g,80,g,58,g,29,g,0,g,4,g,24,g
+900,ameci pizza and pasta,manicotti,43,g,195,mg,2470,g,78,g,44,g,23,g,0,g,4,g,28,g
+901,ameci pizza and pasta,meat cannelloni,54,g,270,mg,2230,g,78,g,56,g,25,g,0,g,4,g,22,g
+902,ameci pizza and pasta,meat ravioli,16,g,85,mg,1700,g,75,g,26,g,5,g,0,g,4,g,22,g
+903,ameci pizza and pasta,meatball submarine,21,g,45,mg,1590,g,55,g,24,g,7,g,1,g,6,g,18,g
+904,ameci pizza and pasta,medium 1 topping pizza hand tossed crust,5,g,10,mg,360,g,25,g,7,g,2.5,g,0,g,1,g,2,g
+905,ameci pizza and pasta,medium 1 topping pizza thick crust,10,g,10,mg,530,g,27,g,8,g,3.5,g,0,g,3,g,1,g
+906,ameci pizza and pasta,medium cheese pizza,40,g,105,mg,2010,g,256,g,65,g,20,g,0,g,2,g,10,g
+907,ameci pizza and pasta,medium pizza topping american cheese,3,g,10,mg,190,g,0,g,2,g,2,g,0,g,0,g,0,g
+908,ameci pizza and pasta,medium pizza topping anchovies,0,g,0,mg,150,g,0,g,1,g,0,g,0,g,0,g,0,g
+909,ameci pizza and pasta,medium pizza topping bacon,3,g,10,mg,100,g,0,g,3,g,1,g,0,g,0,g,0,g
+910,ameci pizza and pasta,medium pizza topping beef,3,g,10,mg,70,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+911,ameci pizza and pasta,medium pizza topping black olives,1,g,0,mg,65,g,1,g,0,g,0,g,0,g,0,g,0,g
+912,ameci pizza and pasta,medium pizza topping chicken,0.5,g,5,mg,90,g,0,g,3,g,0,g,0,g,0,g,0,g
+913,ameci pizza and pasta,medium pizza topping double pepperoni,3,g,5,mg,120,g,0,g,1,g,1,g,0,g,0,g,0,g
+914,ameci pizza and pasta,medium pizza topping extra cheese,2,g,5,mg,85,g,1,g,2,g,1,g,0,g,0,g,0,g
+915,ameci pizza and pasta,medium pizza topping garlic,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+916,ameci pizza and pasta,medium pizza topping ham,0,g,5,mg,100,g,0,g,1,g,0,g,0,g,0,g,0,g
+917,ameci pizza and pasta,medium pizza topping jalapeno,0,g,0,mg,135,g,0,g,0,g,0,g,0,g,0,g,0,g
+918,ameci pizza and pasta,medium pizza topping pepperoni,3,g,10,mg,150,g,0,g,2,g,1,g,0,g,0,g,0,g
+919,ameci pizza and pasta,medium pizza topping pineapple,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+920,ameci pizza and pasta,medium pizza topping sausage,3.5,g,5,mg,130,g,1,g,2,g,1.5,g,0,g,0,g,0,g
+921,ameci pizza and pasta,medium pizza topping tomatoes,0,g,0,mg,20,g,1,g,0,g,0,g,0,g,0,g,1,g
+922,ameci pizza and pasta,philly cheese steak,59,g,120,mg,1200,g,40,g,41,g,18,g,0,g,6,g,8,g
+923,ameci pizza and pasta,ravioli cheese,17,g,70,mg,1600,g,74,g,21,g,8,g,0,g,4,g,25,g
+924,ameci pizza and pasta,rigatoni with meatballs,22,g,45,mg,1800,g,118,g,35,g,7,g,1,g,6,g,24,g
+925,ameci pizza and pasta,sausage and green pepper submarine,75,g,140,mg,1750,g,52,g,47,g,22,g,0,g,7,g,18,g
+926,ameci pizza and pasta,sausage and peppers submarine,75,g,140,mg,1210,g,39,g,44,g,22,g,0,g,6,g,7,g
+927,ameci pizza and pasta,side order meatballs,25,g,60,mg,1890,g,34,g,26,g,9,g,1.5,g,2,g,20,g
+928,ameci pizza and pasta,side order sausage links,68,g,140,mg,1970,g,28,g,43,g,21,g,0,g,1,g,20,g
+929,ameci pizza and pasta,spaghetti marinara sauce,9,g,0,mg,1740,g,119,g,22,g,1.5,g,0,g,6,g,27,g
+930,ameci pizza and pasta,spaghetti meat sauce,14,g,15,mg,2090,g,102,g,37,g,3.5,g,0,g,5,g,26,g
+931,ameci pizza and pasta,spicy wings,100,g,205,mg,5660,g,17,g,35,g,8,g,0,g,1,g,3,g
+932,ameci pizza and pasta,spinach florentine,37,g,140,mg,2480,g,87,g,42,g,20,g,0,g,7,g,27,g
+933,ameci pizza and pasta,stuffed shells,40,g,185,mg,2330,g,88,g,44,g,22,g,0,g,4,g,27,g
+934,ameci pizza and pasta,tuna submarine,37,g,20,mg,1480,g,53,g,31,g,6,g,0,g,6,g,10,g
+935,ameci pizza and pasta,turkey submarine,26,g,60,mg,2430,g,42,g,37,g,3.5,g,0,g,6,g,12,g
+936,ameci pizza and pasta,veal parmigiana submarine,30,g,85,mg,1600,g,72,g,31,g,13,g,0,g,7,g,21,g
+937,ameci pizza and pasta,veal parmigiana with spaghetti,33,g,85,mg,2270,g,124,g,41,g,13,g,0,g,7,g,30,g
+938,ameci pizza and pasta,vegetarian submarine,23,g,10,mg,640,g,42,g,7,g,1,g,0.5,g,7,g,10,g
+939,ameci pizza and pasta,whole wheat jumbo dough ball,15,g,0,mg,1580,g,286,g,50,g,3,g,2.5,g,28,g,5,g
+940,ameci pizza and pasta,whole wheat pizza jumbo school,63,g,130,mg,3200,g,315,g,114,g,33,g,2.5,g,33,g,11,g
+941,ameci pizza and pasta,zucchini sticks,76,g,35,mg,1530,g,43,g,7,g,3,g,0,g,3,g,10,g
+942,americas taco shop,al pastor burrito large,19,g,70,mg,1680,g,64,g,35,g,7,g,0,g,6,g,3,g
+943,americas taco shop,al pastor burrito regular,14,g,40,mg,1250,g,57,g,22,g,5,g,0,g,4,g,2,g
+944,americas taco shop,al pastor pork,2.5,g,20,mg,200,g,1,g,8,g,1,g,0,g,0,g,0,g
+945,americas taco shop,al pastor quesadilla large,41,g,115,mg,1770,g,59,g,44,g,21,g,0,g,5,g,3,g
+946,americas taco shop,al pastor quesadilla regular,18,g,55,mg,880,g,27,g,21,g,8,g,0,g,3,g,2,g
+947,americas taco shop,al pastor salad,12,g,50,mg,630,g,15,g,19,g,4.5,g,0,g,6,g,7,g
+948,americas taco shop,al pastor tacos,5,g,20,mg,230,g,13,g,8,g,1,g,0,g,2,g,2,g
+949,americas taco shop,al pastor torta,44,g,70,mg,1260,g,51,g,21,g,6,g,0,g,3,g,5,g
+950,americas taco shop,al pastor vampiros,44,g,70,mg,1260,g,51,g,21,g,6,g,0,g,3,g,5,g
+951,americas taco shop,americas corn,13,g,10,mg,65,g,43,g,12,g,1.5,g,0,g,5,g,13,g
+952,americas taco shop,bean and cheese burrito large,35,g,40,mg,1520,g,75,g,26,g,14,g,0,g,14,g,1,g
+953,americas taco shop,bean and cheese burrito regular,27,g,25,mg,1270,g,66,g,20,g,10,g,0,g,11,g,1,g
+954,americas taco shop,carne asada and egg burrito large,50,g,725,mg,1330,g,62,g,51,g,20,g,0,g,4,g,3,g
+955,americas taco shop,carne asada and egg burrito regular,31,g,435,mg,1050,g,56,g,33,g,12,g,0,g,3,g,2,g
+956,americas taco shop,carne asada burrito large,24,g,80,mg,1650,g,68,g,37,g,8,g,0,g,7,g,5,g
+957,americas taco shop,carne asada burrito regular,17,g,40,mg,1290,g,60,g,22,g,5,g,0,g,5,g,3,g
+958,americas taco shop,carne asada quesadilla large,45,g,115,mg,1640,g,62,g,43,g,22,g,0,g,6,g,4,g
+959,americas taco shop,carne asada quesadilla regular,18,g,50,mg,690,g,27,g,20,g,9,g,0,g,3,g,2,g
+960,americas taco shop,carne asada salad,14,g,50,mg,640,g,11,g,19,g,5,g,0,g,6,g,4,g
+961,americas taco shop,carne asada steak,3,g,25,mg,80,g,0,g,8,g,1,g,0,g,0,g,0,g
+962,americas taco shop,carne asada tacos,6,g,20,mg,170,g,14,g,8,g,1.5,g,0,g,3,g,2,g
+963,americas taco shop,carne asada torta,47,g,70,mg,1620,g,54,g,21,g,7,g,0,g,5,g,6,g
+964,americas taco shop,carne asada vampiros,47,g,70,mg,1620,g,54,g,21,g,7,g,0,g,5,g,6,g
+965,americas taco shop,chargrilled chicken salad,12,g,75,mg,1040,g,13,g,29,g,4,g,0,g,6,g,6,g
+966,americas taco shop,cheese quesadilla large,33,g,75,mg,1190,g,52,g,29,g,19,g,0,g,2,g,0,g
+967,americas taco shop,cheese quesadilla regular,12,g,25,mg,470,g,22,g,11,g,7,g,0,g,1,g,0,g
+968,americas taco shop,chicken breast,1,g,25,mg,200,g,1,g,9,g,0,g,0,g,0,g,1,g
+969,americas taco shop,chicken burrito large,19,g,115,mg,2550,g,73,g,53,g,6,g,0,g,7,g,10,g
+970,americas taco shop,chicken burrito regular,15,g,65,mg,1770,g,63,g,33,g,4.5,g,0,g,6,g,6,g
+971,americas taco shop,chicken quesadilla large,40,g,120,mg,1770,g,62,g,46,g,20,g,0,g,5,g,5,g
+972,americas taco shop,chicken quesadilla regular,16,g,50,mg,850,g,28,g,22,g,8,g,0,g,3,g,3,g
+973,americas taco shop,chicken tacos,5,g,20,mg,300,g,15,g,9,g,1,g,0,g,3,g,3,g
+974,americas taco shop,chicken torta,45,g,75,mg,1880,g,57,g,25,g,6,g,0,g,5,g,9,g
+975,americas taco shop,chicken vampiros,45,g,75,mg,1880,g,57,g,25,g,6,g,0,g,5,g,9,g
+976,americas taco shop,chips and salsa side large,0,g,0,mg,670,g,8,g,2,g,0,g,0,g,2,g,5,g
+977,americas taco shop,chips and salsa side regular,0,g,0,mg,290,g,3,g,1,g,0,g,0,g,1,g,2,g
+978,americas taco shop,chips bag,15,g,0,mg,460,g,43,g,6,g,0,g,0,g,3,g,0,g
+979,americas taco shop,chorizo and egg burrito large,54,g,475,mg,2320,g,81,g,47,g,22,g,0,g,10,g,3,g
+980,americas taco shop,chorizo and egg burrito regular,37,g,310,mg,1690,g,69,g,31,g,14,g,0,g,8,g,2,g
+981,americas taco shop,chorizo and potato,9,g,20,mg,340,g,4,g,6,g,3.5,g,0,g,0,g,0,g
+982,americas taco shop,cochata 20 oz,3,g,10,mg,55,g,53,g,4,g,2,g,0,g,0,g,45,g
+983,americas taco shop,cochata 32 oz,4.5,g,15,mg,85,g,80,g,6,g,3,g,0,g,0,g,63,g
+984,americas taco shop,corn tortilla,0.5,g,0,mg,0,g,11,g,1,g,0,g,0,g,1,g,1,g
+985,americas taco shop,egg and potato burrito large,42,g,425,mg,1190,g,92,g,36,g,14,g,0,g,9,g,2,g
+986,americas taco shop,egg and potato burrito regular,28,g,280,mg,880,g,70,g,24,g,9,g,0,g,6,g,1,g
+987,americas taco shop,fire roasted salsa,0,g,0,mg,85,g,1,g,0,g,0,g,0,g,0,g,1,g
+988,americas taco shop,flour tortilla 8 inch,4,g,0,mg,160,g,20,g,3,g,2,g,0,g,1,g,1,g
+989,americas taco shop,flour tortilla large 13 inch,10,g,0,mg,560,g,59,g,9,g,2,g,0,g,1,g,1,g
+990,americas taco shop,flour tortilla regular 12 inch,9,g,0,mg,480,g,51,g,8,g,1.5,g,0,g,1,g,1,g
+991,americas taco shop,guacamole side large,10,g,0,mg,500,g,11,g,3,g,1.5,g,0,g,6,g,4,g
+992,americas taco shop,guacamole side regular,4.5,g,0,mg,220,g,5,g,1,g,0.5,g,0,g,3,g,2,g
+993,americas taco shop,guacamole spread,3,g,0,mg,135,g,2,g,0,g,0,g,0,g,1,g,0,g
+994,americas taco shop,horchata 20 oz,4.5,g,15,mg,80,g,80,g,6,g,3,g,0,g,0,g,63,g
+995,americas taco shop,horchata 32 oz,6,g,25,mg,120,g,120,g,8,g,4.5,g,0,g,1,g,95,g
+996,americas taco shop,jack cheese,9,g,25,mg,50,g,0,g,7,g,5,g,0,g,0,g,0,g
+997,americas taco shop,jamaica 20 oz,0,g,0,mg,20,g,57,g,0,g,0,g,0,g,0,g,57,g
+998,americas taco shop,jamaica 32 oz,0,g,0,mg,25,g,86,g,0,g,0,g,0,g,0,g,86,g
+999,americas taco shop,mayonnasie,11,g,10,mg,100,g,0,g,0,g,1.5,g,0,g,0,g,0,g

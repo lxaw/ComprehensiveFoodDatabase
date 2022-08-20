@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,teriyaki experience,chicken pan asian with low sodium sauce,4,g,65,mg,990,g,65,g,36,g,1,g,0,g,3,g,0,g
+1,teriyaki experience,chicken pan asian with pan asian sauce,6,g,65,mg,1090,g,57,g,36,g,1,g,0,g,3,g,0,g
+2,teriyaki experience,chicken pan asian with pineapple sauce,4,g,65,mg,1290,g,62,g,38,g,1,g,0,g,3,g,0,g
+3,teriyaki experience,chicken pan asian with sweet chili sauce,4,g,65,mg,1520,g,67,g,38,g,1,g,0,g,3,g,0,g
+4,teriyaki experience,chicken pan asian with teriyaki sauce,4,g,65,mg,2400,g,73,g,39,g,1,g,0,g,3,g,0,g
+5,teriyaki experience,chicken pan asian without sauce,4,g,65,mg,320,g,42,g,36,g,1,g,0,g,3,g,0,g
+6,teriyaki experience,chicken spicy soup bowl,2,g,35,mg,2060,g,48,g,25,g,0,g,0,g,4,g,0,g
+7,teriyaki experience,chicken teriyaki and brown rice without sauce,4,g,65,mg,90,g,73,g,36,g,1,g,0,g,4,g,0,g
+8,teriyaki experience,chicken teriyaki chicken portion only without sauce,2,g,65,mg,80,g,9,g,29,g,0.5,g,0,g,2,g,0,g
+9,teriyaki experience,chicken teriyaki with brown rice and asian cooking sauce,9,g,65,mg,410,g,77,g,36,g,1,g,0,g,4,g,0,g
+10,teriyaki experience,chicken teriyaki with brown rice and low sodium sauce,4,g,65,mg,760,g,96,g,36,g,1,g,0,g,4,g,0,g
+11,teriyaki experience,chicken teriyaki with brown rice and pan asian sauce,5,g,65,mg,860,g,88,g,36,g,1,g,0,g,4,g,0,g
+12,teriyaki experience,chicken teriyaki with brown rice and pineapple sauce,4,g,65,mg,1060,g,93,g,37,g,1,g,0,g,4,g,0,g
+13,teriyaki experience,chicken teriyaki with brown rice and sweet chili sauce,4,g,65,mg,1290,g,97,g,37,g,1,g,0,g,4,g,0,g
+14,teriyaki experience,chicken teriyaki with brown rice and teriyaki sauce,4,g,65,mg,2170,g,104,g,39,g,1,g,0,g,4,g,0,g
+15,teriyaki experience,chicken teriyaki with brown rice asian cooking sauce and low sodium sauce,9,g,65,mg,1080,g,100,g,36,g,1,g,0,g,4,g,0,g
+16,teriyaki experience,chicken teriyaki with brown rice asian cooking sauce and pan asian sauce,11,g,65,mg,1170,g,92,g,36,g,1.5,g,0,g,4,g,0,g
+17,teriyaki experience,chicken teriyaki with brown rice asian cooking sauce and pineapple sauce,9,g,65,mg,1380,g,97,g,38,g,1,g,0,g,4,g,0,g
+18,teriyaki experience,chicken teriyaki with brown rice asian cooking sauce and sweet chili sauce,9,g,65,mg,1610,g,101,g,38,g,1,g,0,g,4,g,0,g
+19,teriyaki experience,chicken teriyaki with brown rice asian cooking sauce and teriyaki sauce,9,g,65,mg,2490,g,108,g,39,g,1,g,0,g,4,g,0,g
+20,teriyaki experience,chicken teriyaki with white rice and asian cooking sauce,8,g,65,mg,400,g,87,g,37,g,1,g,0,g,3,g,0,g
+21,teriyaki experience,chicken teriyaki with white rice and low sodium sauce,3,g,65,mg,760,g,106,g,36,g,0.5,g,0,g,3,g,0,g
+22,teriyaki experience,chicken teriyaki with white rice and pan asian sauce,4.5,g,65,mg,860,g,98,g,36,g,1,g,0,g,3,g,0,g
+23,teriyaki experience,chicken teriyaki with white rice and pineapple sauce,3,g,65,mg,1060,g,103,g,38,g,0.5,g,0,g,3,g,0,g
+24,teriyaki experience,chicken teriyaki with white rice and sweet chili sauce,3,g,65,mg,1290,g,107,g,38,g,0.5,g,0,g,3,g,0,g
+25,teriyaki experience,chicken teriyaki with white rice and teriyaki sauce,3,g,65,mg,2170,g,114,g,39,g,0.5,g,0,g,3,g,0,g
+26,teriyaki experience,chicken teriyaki with white rice asian cooking sauce and low sodium sauce,8,g,65,mg,1070,g,110,g,37,g,1,g,0,g,3,g,0,g
+27,teriyaki experience,chicken teriyaki with white rice asian cooking sauce and pan asian sauce,10,g,65,mg,1170,g,102,g,37,g,1.5,g,0,g,3,g,0,g
+28,teriyaki experience,chicken teriyaki with white rice asian cooking sauce and pineapple sauce,8,g,65,mg,1370,g,107,g,38,g,1,g,0,g,3,g,0,g
+29,teriyaki experience,chicken teriyaki with white rice asian cooking sauce and sweet chili sauce,8,g,65,mg,1610,g,111,g,38,g,1,g,0,g,3,g,0,g
+30,teriyaki experience,chicken teriyaki with white rice asian cooking sauce and teriyaki sauce,8,g,65,mg,2480,g,118,g,40,g,1,g,0,g,3,g,0,g
+31,teriyaki experience,chicken teriyaki with white rice without sauce,3,g,65,mg,90,g,83,g,36,g,0.5,g,0,g,3,g,0,g
+32,teriyaki experience,chicken yakisoba wirh pineapple sauce,4,g,70,mg,1550,g,82,g,42,g,0.5,g,0,g,4,g,0,g
+33,teriyaki experience,chicken yakisoba with asian cooking sauce,9,g,70,mg,900,g,66,g,41,g,1,g,0,g,4,g,0,g
+34,teriyaki experience,chicken yakisoba with asian cooking sauce and low sodium sauce,9,g,70,mg,1570,g,89,g,41,g,1,g,0,g,4,g,0,g
+35,teriyaki experience,chicken yakisoba with asian cooking sauce and pan asian sauce,11,g,70,mg,1670,g,81,g,41,g,1.5,g,0,g,4,g,0,g
+36,teriyaki experience,chicken yakisoba with asian cooking sauce and pineapple sauce,9,g,70,mg,1870,g,86,g,42,g,1,g,0,g,4,g,0,g
+37,teriyaki experience,chicken yakisoba with asian cooking sauce and sweet chili sauce,9,g,70,mg,2100,g,90,g,42,g,1,g,0,g,4,g,0,g
+38,teriyaki experience,chicken yakisoba with asian cooking sauce and teriyaki sauce,9,g,70,mg,2980,g,97,g,44,g,1,g,0,g,4,g,0,g
+39,teriyaki experience,chicken yakisoba with low sodium sauce,4,g,70,mg,1250,g,85,g,40,g,0.5,g,0,g,4,g,0,g
+40,teriyaki experience,chicken yakisoba with pan asian sauce,5,g,70,mg,1350,g,77,g,40,g,1,g,0,g,4,g,0,g
+41,teriyaki experience,chicken yakisoba with sweet chili sauce,4,g,70,mg,1790,g,86,g,42,g,0.5,g,0,g,4,g,0,g
+42,teriyaki experience,chicken yakisoba with teriyaki sauce,4,g,70,mg,2660,g,93,g,43,g,0.5,g,0,g,4,g,0,g
+43,teriyaki experience,chicken yakisoba without sauce,4,g,70,mg,580,g,62,g,40,g,0.5,g,0,g,4,g,0,g
+44,teriyaki experience,gyoza dumplings 2 piece,0.5,g,5,mg,780,g,25,g,5,g,0,g,0,g,1,g,0,g
+45,teriyaki experience,gyoza dumplings 6 piece,2,g,15,mg,960,g,61,g,14,g,0,g,0,g,3,g,0,g
+46,teriyaki experience,gyoza soup bowl,3,g,10,mg,1880,g,92,g,21,g,0,g,0,g,5,g,0,g
+47,teriyaki experience,gyoza spicy soup bowl,1.5,g,5,mg,2070,g,73,g,17,g,0,g,0,g,5,g,0,g
+48,teriyaki experience,shrimp noodle soup bowl,3,g,80,mg,1750,g,67,g,25,g,0,g,0,g,4,g,0,g
+49,teriyaki experience,shrimp pan asian with asian cooking sauce,9,g,150,mg,630,g,48,g,31,g,1,g,0,g,3,g,0,g
+50,teriyaki experience,shrimp pan asian with asian cooking sauce and low sodium sauce,9,g,150,mg,1300,g,71,g,31,g,1,g,0,g,3,g,0,g
+51,teriyaki experience,shrimp pan asian with asian cooking sauce and pan asian sauce,11,g,150,mg,1400,g,63,g,31,g,1.5,g,0,g,3,g,0,g
+52,teriyaki experience,shrimp pan asian with asian cooking sauce and pineapple sauce,9,g,150,mg,1600,g,68,g,33,g,1,g,0,g,3,g,0,g
+53,teriyaki experience,shrimp pan asian with asian cooking sauce and sweet chili sauce,9,g,150,mg,1830,g,73,g,33,g,1,g,0,g,3,g,0,g
+54,teriyaki experience,shrimp pan asian with asian cooking sauce and teriyaki sauce,9,g,150,mg,2710,g,79,g,34,g,1,g,0,g,3,g,0,g
+55,teriyaki experience,shrimp pan asian with low sodium sauce,4,g,150,mg,990,g,67,g,30,g,0.5,g,0,g,3,g,0,g
+56,teriyaki experience,shrimp pan asian with pan asian sauce,6,g,150,mg,1080,g,59,g,30,g,1,g,0,g,3,g,0,g
+57,teriyaki experience,shrimp pan asian with pineapple sauce,4,g,150,mg,1290,g,64,g,32,g,0.5,g,0,g,3,g,0,g
+58,teriyaki experience,shrimp pan asian with sweet chili sauce,4,g,150,mg,1520,g,69,g,32,g,0.5,g,0,g,3,g,0,g
+59,teriyaki experience,shrimp pan asian with teriyaki sauce,4,g,150,mg,2400,g,75,g,33,g,0.5,g,0,g,3,g,0,g
+60,teriyaki experience,shrimp pan asian without sauce,4,g,150,mg,320,g,44,g,30,g,0.5,g,0,g,3,g,0,g
+61,teriyaki experience,shrimp spicy soup bowl,1.5,g,75,mg,1940,g,48,g,21,g,0,g,0,g,3,g,0,g
+62,teriyaki experience,shrimp teriyaki and white rice without sauce,3,g,155,mg,170,g,84,g,30,g,0.5,g,0,g,3,g,0,g
+63,teriyaki experience,shrimp teriyaki shrimp portion only without sauce,2,g,150,mg,160,g,10,g,23,g,0,g,0,g,2,g,0,g
+64,teriyaki experience,shrimp teriyaki with brown rice,4,g,155,mg,180,g,74,g,30,g,0.5,g,0,g,4,g,0,g
+65,teriyaki experience,shrimp teriyaki with brown rice and asian cooking sauce,9,g,155,mg,490,g,78,g,31,g,1,g,0,g,4,g,0,g
+66,teriyaki experience,shrimp teriyaki with brown rice and low sodium sauce,4,g,155,mg,850,g,97,g,30,g,0.5,g,0,g,4,g,0,g
+67,teriyaki experience,shrimp teriyaki with brown rice and pan asian sauce,5,g,155,mg,940,g,89,g,30,g,1,g,0,g,4,g,0,g
+68,teriyaki experience,shrimp teriyaki with brown rice and pineapple sauce,4,g,155,mg,1150,g,94,g,32,g,0.5,g,0,g,4,g,0,g
+69,teriyaki experience,shrimp teriyaki with brown rice and sweet chili sauce,4,g,155,mg,1380,g,98,g,32,g,0.5,g,0,g,4,g,0,g
+70,teriyaki experience,shrimp teriyaki with brown rice and teriyaki sauce,4,g,155,mg,2260,g,105,g,33,g,0.5,g,0,g,4,g,0,g
+71,teriyaki experience,shrimp teriyaki with brown rice asian cooking sauce and low sodium sauce,9,g,155,mg,1160,g,101,g,31,g,1,g,0,g,4,g,0,g
+72,teriyaki experience,shrimp teriyaki with brown rice asian cooking sauce and pan asian sauce,11,g,155,mg,1260,g,93,g,31,g,1.5,g,0,g,4,g,0,g
+73,teriyaki experience,shrimp teriyaki with brown rice asian cooking sauce and pineapple sauce,9,g,155,mg,1460,g,98,g,32,g,1,g,0,g,4,g,0,g
+74,teriyaki experience,shrimp teriyaki with brown rice asian cooking sauce and sweet chili sauce,9,g,155,mg,1690,g,102,g,32,g,1,g,0,g,4,g,0,g
+75,teriyaki experience,shrimp teriyaki with brown rice asian cooking sauce and teriyaki sauce,9,g,155,mg,2570,g,109,g,34,g,1,g,0,g,4,g,0,g
+76,teriyaki experience,shrimp teriyaki with white rice and asian cooking sauce,8,g,155,mg,490,g,88,g,31,g,1,g,0,g,3,g,0,g
+77,teriyaki experience,shrimp teriyaki with white rice and low sodium sauce,3,g,155,mg,840,g,107,g,30,g,0.5,g,0,g,3,g,0,g
+78,teriyaki experience,shrimp teriyaki with white rice and pan asian sauce,4.5,g,155,mg,940,g,99,g,30,g,1,g,0,g,3,g,0,g
+79,teriyaki experience,shrimp teriyaki with white rice and pineapple sauce,3,g,155,mg,1140,g,104,g,32,g,0.5,g,0,g,3,g,0,g
+80,teriyaki experience,shrimp teriyaki with white rice and sweet chili sauce,3,g,155,mg,1380,g,108,g,32,g,0.5,g,0,g,3,g,0,g
+81,teriyaki experience,shrimp teriyaki with white rice and teriyaki sauce,3,g,155,mg,2250,g,115,g,33,g,0.5,g,0,g,3,g,0,g
+82,teriyaki experience,shrimp teriyaki with white rice asian cooking sauce and low sodium sauce,8,g,155,mg,1160,g,111,g,31,g,1,g,0,g,3,g,0,g
+83,teriyaki experience,shrimp teriyaki with white rice asian cooking sauce and pan asian sauce,10,g,155,mg,1260,g,103,g,31,g,1,g,0,g,3,g,0,g
+84,teriyaki experience,shrimp teriyaki with white rice asian cooking sauce and pineapple sauce,8,g,155,mg,1460,g,108,g,33,g,1,g,0,g,3,g,0,g
+85,teriyaki experience,shrimp teriyaki with white rice asian cooking sauce and sweet chili sauce,8,g,155,mg,1690,g,112,g,33,g,1,g,0,g,3,g,0,g
+86,teriyaki experience,shrimp teriyaki with white rice asian cooking sauce and teriyaki sauce,8,g,155,mg,2570,g,119,g,34,g,1,g,0,g,3,g,0,g
+87,teriyaki experience,shrimp yakisoba with asian cooking sauce,9,g,155,mg,900,g,68,g,35,g,1,g,0,g,3,g,0,g
+88,teriyaki experience,shrimp yakisoba with asian cooking sauce and low sodium sauce,9,g,155,mg,1570,g,91,g,35,g,1,g,0,g,3,g,0,g
+89,teriyaki experience,shrimp yakisoba with asian cooking sauce and pan asian sauce,10,g,155,mg,1670,g,83,g,35,g,1,g,0,g,3,g,0,g
+90,teriyaki experience,shrimp yakisoba with asian cooking sauce and pineapple sauce,9,g,155,mg,1870,g,88,g,36,g,1,g,0,g,3,g,0,g
+91,teriyaki experience,shrimp yakisoba with asian cooking sauce and sweet chili sauce,9,g,155,mg,2100,g,92,g,36,g,1,g,0,g,3,g,0,g
+92,teriyaki experience,shrimp yakisoba with asian cooking sauce teriyaki sauce,9,g,155,mg,2980,g,99,g,38,g,1,g,0,g,3,g,0,g
+93,teriyaki experience,shrimp yakisoba with low sodium sauce,3.5,g,155,mg,1250,g,87,g,34,g,0,g,0,g,3,g,0,g
+94,teriyaki experience,shrimp yakisoba with pan asian sauce,5,g,155,mg,1350,g,79,g,34,g,0.5,g,0,g,3,g,0,g
+95,teriyaki experience,shrimp yakisoba with pineapple sauce,3.5,g,155,mg,1550,g,84,g,36,g,0,g,0,g,3,g,0,g
+96,teriyaki experience,shrimp yakisoba with sweet chili sauce,3.5,g,155,mg,1780,g,88,g,36,g,0,g,0,g,3,g,0,g
+97,teriyaki experience,shrimp yakisoba with teriyaki sauce,3.5,g,155,mg,2660,g,95,g,37,g,0,g,0,g,3,g,0,g
+98,teriyaki experience,shrimp yakisoba without sauce,3.5,g,155,mg,580,g,64,g,34,g,0,g,0,g,3,g,0,g
+99,teriyaki experience,tofu noodle soup bowl,9,g,5,mg,1750,g,72,g,27,g,0,g,0,g,4,g,0,g
+100,teriyaki experience,tofu pan asian with asian cooking sauce,20,g,0,mg,490,g,55,g,33,g,0.5,g,0,g,4,g,0,g
+101,teriyaki experience,tofu pan asian with asian cooking sauce low sodium sauce,20,g,0,mg,1160,g,78,g,33,g,0.5,g,0,g,4,g,0,g
+102,teriyaki experience,tofu pan asian with asian cooking sauce pan asian sauce,22,g,0,mg,1260,g,70,g,33,g,1,g,0,g,4,g,0,g
+103,teriyaki experience,tofu pan asian with asian cooking sauce pineapple sauce,20,g,0,mg,1460,g,75,g,35,g,0.5,g,0,g,4,g,0,g
+104,teriyaki experience,tofu pan asian with asian cooking sauce sweet chili sauce,20,g,0,mg,1690,g,80,g,35,g,0.5,g,0,g,4,g,0,g
+105,teriyaki experience,tofu pan asian with asian cooking sauce teriyaki sauce,20,g,0,mg,2570,g,86,g,36,g,0.5,g,0,g,4,g,0,g
+106,teriyaki experience,tofu pan asian with low sodium sauce,15,g,0,mg,850,g,74,g,32,g,0,g,0,g,4,g,0,g
+107,teriyaki experience,tofu pan asian with pan asian sauce,17,g,0,mg,940,g,66,g,32,g,0.5,g,0,g,4,g,0,g
+108,teriyaki experience,tofu pan asian with pineapple sauce,15,g,0,mg,1150,g,71,g,34,g,0,g,0,g,4,g,0,g
+109,teriyaki experience,tofu pan asian with sweet chili sauce,15,g,0,mg,1380,g,75,g,34,g,0,g,0,g,4,g,0,g
+110,teriyaki experience,tofu pan asian with teriyaki sauce,15,g,0,mg,2260,g,82,g,35,g,0,g,0,g,4,g,0,g
+111,teriyaki experience,tofu pan asian without sauce,15,g,0,mg,180,g,51,g,32,g,0,g,0,g,4,g,0,g
+112,teriyaki experience,tofu spicy soup bowl,7,g,0,mg,1940,g,53,g,23,g,0,g,0,g,4,g,0,g
+113,teriyaki experience,tofu teriyaki tofu portion only without sauce,13,g,0,mg,20,g,16,g,2,g,0,g,0,g,0,g,0,g
+114,teriyaki experience,tofu teriyaki with asian cooking sauce,19,g,0,mg,340,g,20,g,3,g,0,g,0,g,0,g,0,g
+115,teriyaki experience,tofu teriyaki with asian cooking sauce and low sodium sauce,19,g,0,mg,1010,g,43,g,3,g,0,g,0,g,0,g,0,g
+116,teriyaki experience,tofu teriyaki with asian cooking sauce and pan asian sauce,20,g,0,mg,1110,g,34,g,3,g,0.5,g,0,g,0,g,0,g
+117,teriyaki experience,tofu teriyaki with asian cooking sauce and pineapple sauce,19,g,0,mg,1310,g,40,g,4,g,0,g,0,g,0,g,0,g
+118,teriyaki experience,tofu teriyaki with asian cooking sauce and sweet chili sauce,19,g,0,mg,1540,g,44,g,5,g,0,g,0,g,0,g,0,g
+119,teriyaki experience,tofu teriyaki with asian cooking sauce and teriyaki sauce,19,g,0,mg,2420,g,51,g,6,g,0,g,0,g,0,g,0,g
+120,teriyaki experience,tofu teriyaki with low sodium sauce,13,g,0,mg,690,g,39,g,2,g,0,g,0,g,0,g,0,g
+121,teriyaki experience,tofu teriyaki with pan asian sauce,15,g,0,mg,790,g,30,g,2,g,0,g,0,g,0,g,0,g
+122,teriyaki experience,tofu teriyaki with pineapple sauce,13,g,0,mg,990,g,35,g,4,g,0,g,0,g,0,g,0,g
+123,teriyaki experience,tofu teriyaki with sweet chili sauce,13,g,0,mg,1220,g,40,g,4,g,0,g,0,g,0,g,0,g
+124,teriyaki experience,tofu teriyaki with teriyaki sauce,13,g,0,mg,2100,g,47,g,5,g,0,g,0,g,0,g,0,g
+125,teriyaki experience,tofu yakisoba with asian cooking sauce,20,g,5,mg,760,g,75,g,37,g,0.5,g,0,g,4,g,0,g
+126,teriyaki experience,tofu yakisoba with asian cooking sauce and low sodium sauce,20,g,5,mg,1430,g,98,g,37,g,0.5,g,0,g,4,g,0,g
+127,teriyaki experience,tofu yakisoba with asian cooking sauce and pan asian sauce,22,g,5,mg,1530,g,90,g,37,g,1,g,0,g,4,g,0,g
+128,teriyaki experience,tofu yakisoba with asian cooking sauce and pineapple sauce,20,g,5,mg,1730,g,95,g,38,g,0.5,g,0,g,4,g,0,g
+129,teriyaki experience,tofu yakisoba with asian cooking sauce and sweet chili sauce,20,g,5,mg,1960,g,99,g,38,g,0.5,g,0,g,4,g,0,g
+130,teriyaki experience,tofu yakisoba with asian cooking sauce and teriyaki sauce,20,g,5,mg,2840,g,106,g,40,g,0.5,g,0,g,4,g,0,g
+131,teriyaki experience,tofu yakisoba with low sodium sauce,15,g,5,mg,1110,g,94,g,36,g,0,g,0,g,4,g,0,g
+132,teriyaki experience,tofu yakisoba with pan asian sauce,16,g,5,mg,1210,g,86,g,36,g,0,g,0,g,4,g,0,g
+133,teriyaki experience,tofu yakisoba with pineapple sauce,15,g,5,mg,1410,g,91,g,38,g,0,g,0,g,4,g,0,g
+134,teriyaki experience,tofu yakisoba with sweet chili sauce,15,g,5,mg,1640,g,95,g,38,g,0,g,0,g,4,g,0,g
+135,teriyaki experience,tofu yakisoba with teriyaki sauce,15,g,5,mg,2520,g,102,g,39,g,0,g,0,g,4,g,0,g
+136,teriyaki experience,tofu yakisoba without sauce,15,g,5,mg,440,g,71,g,36,g,0,g,0,g,4,g,0,g
+137,teriyaki experience,vegetable soup bowl,2,g,5,mg,1610,g,66,g,15,g,0,g,0,g,4,g,0,g
+138,teriyaki experience,vegetable spicy soup bowl,1,g,0,mg,1810,g,47,g,11,g,0,g,0,g,3,g,0,g
+139,teriyaki madness,brown rice jr bowl,1,g,0,mg,0,g,40,g,4,g,0,g,0,g,3,g,0,g
+140,teriyaki madness,brown rice large or two protein bowl,2,g,0,mg,0,g,67,g,7,g,1,g,0,g,5,g,0,g
+141,teriyaki madness,brown rice regular bowl or side,2,g,0,mg,0,g,53,g,5,g,0,g,0,g,4,g,0,g
+142,teriyaki madness,chicken breast teriyaki with thick sauce jr bowl or extra serving of chicken add a base,3,g,90,mg,530,g,14,g,27,g,1,g,0,g,0,g,12,g
+143,teriyaki madness,chicken breast teriyaki with thick sauce large bowl or side add a base,8,g,235,mg,1090,g,27,g,71,g,2,g,0,g,0,g,23,g
+144,teriyaki madness,chicken breast teriyaki with thick sauce regular bowl add a base,6,g,175,mg,740,g,18,g,53,g,2,g,0,g,0,g,16,g
+145,teriyaki madness,chicken breast teriyaki with thick sauce two protein plate add a base,4,g,120,mg,540,g,14,g,35,g,1,g,0,g,0,g,12,g
+146,teriyaki madness,chicken eggroll with gyoza sauce,5,g,5,mg,390,g,23,g,4,g,1,g,0,g,2,g,13,g
+147,teriyaki madness,chicken katsu with katsu sauce jr bowl or extra serving of chicken add a base,14,g,50,mg,690,g,38,g,16,g,3,g,0,g,1,g,18,g
+148,teriyaki madness,chicken katsu with katsu sauce large bowl or side add a base,37,g,125,mg,810,g,64,g,43,g,7,g,1,g,2,g,19,g
+149,teriyaki madness,chicken katsu with katsu sauce regular bowl add a base,27,g,95,mg,760,g,54,g,33,g,5,g,1,g,1,g,19,g
+150,teriyaki madness,chicken katsu with katsu sauce two protein bowl add a base,18,g,65,mg,710,g,43,g,22,g,4,g,0,g,1,g,19,g
+151,teriyaki madness,chicken potstickers with gyoza sauce,10,g,20,mg,770,g,47,g,11,g,2,g,0,g,4,g,16,g
+152,teriyaki madness,chicken teriyaki with thick sauce jr bowl or extra serving of chicken add a base,6,g,85,mg,680,g,16,g,22,g,2,g,0,g,2,g,14,g
+153,teriyaki madness,chicken teriyaki with thick sauce large bowl or side add a base,16,g,220,mg,1490,g,32,g,57,g,5,g,0,g,5,g,29,g
+154,teriyaki madness,chicken teriyaki with thick sauce regular bowl add a base,12,g,165,mg,1040,g,22,g,43,g,4,g,0,g,4,g,20,g
+155,teriyaki madness,chicken teriyaki with thick sauce two protein plate add a base,8,g,110,mg,750,g,16,g,28,g,3,g,0,g,2,g,15,g
+156,teriyaki madness,crab rangoons with sweet and sour sauce,18,g,25,mg,340,g,47,g,8,g,7,g,0,g,2,g,12,g
+157,teriyaki madness,edamame,9,g,0,mg,340,g,15,g,17,g,1,g,0,g,6,g,0,g
+158,teriyaki madness,fried rice jr bowl,25,g,125,mg,870,g,60,g,10,g,5,g,0,g,1,g,9,g
+159,teriyaki madness,fried rice large or two protein bowl,42,g,210,mg,1460,g,101,g,17,g,8,g,1,g,2,g,15,g
+160,teriyaki madness,fried rice regular bowl or side,34,g,170,mg,1170,g,81,g,14,g,6,g,1,g,2,g,12,g
+161,teriyaki madness,gyoza sauce,0,g,0,mg,130,g,12,g,0,g,0,g,0,g,0,g,12,g
+162,teriyaki madness,katsu sauce,0,g,0,mg,310,g,11,g,0,g,0,g,0,g,0,g,9,g
+163,teriyaki madness,mild spicy sauce,0,g,0,mg,400,g,10,g,0,g,0,g,0,g,0,g,8,g
+164,teriyaki madness,noodles jr bowl,9,g,0,mg,590,g,50,g,7,g,1,g,0,g,2,g,6,g
+165,teriyaki madness,noodles large or two protein bowl,23,g,0,mg,1470,g,125,g,17,g,3,g,0,g,5,g,16,g
+166,teriyaki madness,noodles regular bowl or side,18,g,0,mg,1180,g,100,g,13,g,2,g,0,g,4,g,12,g
+167,teriyaki madness,orange chicken with orange sauce jr bowl or extra serving of chicken add a base,10,g,60,mg,340,g,20,g,11,g,2,g,0,g,2,g,8,g
+168,teriyaki madness,orange chicken with orange sauce large bowl or side add a base,27,g,165,mg,910,g,53,g,30,g,6,g,0,g,5,g,21,g
+169,teriyaki madness,orange chicken with orange sauce regular bowl add a base,20,g,125,mg,680,g,40,g,23,g,5,g,0,g,3,g,16,g
+170,teriyaki madness,orange chicken with orange sauce two protein bowl add a base,13,g,85,mg,450,g,26,g,15,g,3,g,0,g,2,g,11,g
+171,teriyaki madness,salmon teriyaki with thick sauce jr bowl add a base,4,g,65,mg,540,g,10,g,22,g,1,g,0,g,0,g,8,g
+172,teriyaki madness,salmon teriyaki with thick sauce large bowl add a base,8,g,130,mg,930,g,16,g,43,g,1,g,0,g,0,g,12,g
+173,teriyaki madness,salmon teriyaki with thick sauce reguar bowl add a base,4,g,65,mg,540,g,10,g,22,g,1,g,0,g,0,g,8,g
+174,teriyaki madness,shrimp tempura with gyoza sauce,18,g,50,mg,530,g,33,g,7,g,3,g,0,g,2,g,12,g
+175,teriyaki madness,spicy chicken with spicy sauce jr bowl or extra serving of chicken add a base,6,g,85,mg,740,g,13,g,21,g,2,g,0,g,2,g,11,g
+176,teriyaki madness,spicy chicken with spicy sauce large bowl or side add a base,15,g,220,mg,2170,g,38,g,57,g,5,g,0,g,6,g,32,g
+177,teriyaki madness,spicy chicken with spicy sauce regular bowl add a base,11,g,165,mg,1490,g,26,g,43,g,4,g,0,g,5,g,21,g
+178,teriyaki madness,spicy chicken with spicy sauce two protein plate add a base,8,g,110,mg,1080,g,19,g,28,g,3,g,0,g,3,g,16,g
+179,teriyaki madness,spicy sauce,0,g,0,mg,550,g,11,g,1,g,0,g,0,g,1,g,9,g
+180,teriyaki madness,spicy tofu teriyaki with stir fry and spicy sauce jr bowl or extra serving of tofu add a base,3,g,0,mg,1070,g,24,g,13,g,0,g,0,g,8,g,12,g
+181,teriyaki madness,spicy tofu teriyaki with stir fry and spicy sauce large bowl or side add a base,9,g,5,mg,2960,g,72,g,43,g,1,g,0,g,28,g,34,g
+182,teriyaki madness,spicy tofu teriyaki with stir fry and spicy sauce regular bowl add a base,5,g,5,mg,1620,g,41,g,25,g,1,g,0,g,16,g,19,g
+183,teriyaki madness,spicy tofu teriyaki with stir fry and spicy sauce two protein bowl add a base,4,g,0,mg,1610,g,36,g,18,g,1,g,0,g,12,g,19,g
+184,teriyaki madness,steak teriyaki marinated jr bowl or extra serving of beef add a base,7,g,50,mg,1060,g,22,g,17,g,3,g,0,g,1,g,19,g
+185,teriyaki madness,steak teriyaki marinated large bowl or side add a base,20,g,140,mg,2840,g,58,g,46,g,8,g,1,g,2,g,52,g
+186,teriyaki madness,steak teriyaki marinated regular bowl add a base,15,g,105,mg,2130,g,43,g,35,g,6,g,1,g,2,g,39,g
+187,teriyaki madness,steak teriyaki marinated two protein bowl add a base,10,g,70,mg,1420,g,29,g,23,g,4,g,0,g,1,g,26,g
+188,teriyaki madness,steamed veggies added to bowl on top of base,0,g,0,mg,30,g,8,g,2,g,0,g,0,g,3,g,3,g
+189,teriyaki madness,steamed veggies as a base in jr bowl,0,g,0,mg,40,g,10,g,3,g,0,g,0,g,4,g,4,g
+190,teriyaki madness,steamed veggies as a base in large or two protein bowl,0,g,0,mg,65,g,16,g,5,g,0,g,0,g,6,g,7,g
+191,teriyaki madness,steamed veggies as a base in regular bowl,0,g,0,mg,50,g,13,g,4,g,0,g,0,g,5,g,6,g
+192,teriyaki madness,stir fried veggies added to bowl on top of base,5,g,0,mg,370,g,12,g,3,g,1,g,0,g,3,g,7,g
+193,teriyaki madness,stir fried veggies as a base in jr bowl,5,g,0,mg,440,g,14,g,3,g,1,g,0,g,4,g,8,g
+194,teriyaki madness,stir fried veggies as a base in large or two protein bowl,9,g,0,mg,740,g,24,g,5,g,1,g,0,g,6,g,13,g
+195,teriyaki madness,stir fried veggies as a base in regular bowl,7,g,0,mg,590,g,19,g,4,g,1,g,0,g,5,g,11,g
+196,teriyaki madness,stir fry sauce,0,g,0,mg,1050,g,12,g,1,g,0,g,0,g,0,g,10,g
+197,teriyaki madness,sweet and sour sauce,0,g,0,mg,85,g,12,g,0,g,0,g,0,g,0,g,11,g
+198,teriyaki madness,teriyaki thick sauce,0,g,0,mg,650,g,18,g,1,g,0,g,0,g,0,g,16,g
+199,teriyaki madness,teriyaki thin sauce,0,g,0,mg,880,g,22,g,1,g,0,g,0,g,0,g,21,g
+200,teriyaki madness,tofu teriyaki with stir fry sauce jr bowl or extra serving of tofu add a base,3,g,0,mg,800,g,18,g,12,g,0,g,0,g,8,g,8,g
+201,teriyaki madness,tofu teriyaki with stir fry sauce large bowl or side add a base,9,g,5,mg,2140,g,55,g,42,g,1,g,0,g,27,g,21,g
+202,teriyaki madness,tofu teriyaki with stir fry sauce regular bowl add a base,5,g,5,mg,1070,g,30,g,24,g,1,g,0,g,16,g,10,g
+203,teriyaki madness,tofu teriyaki with stir fry sauce two protein bowl add a base,4,g,0,mg,1070,g,25,g,18,g,1,g,0,g,11,g,10,g
+204,teriyaki madness,white rice jr bowl,0,g,0,mg,0,g,49,g,4,g,0,g,0,g,1,g,1,g
+205,teriyaki madness,white rice large or two protein bowl,1,g,0,mg,0,g,81,g,7,g,0,g,0,g,1,g,1,g
+206,teriyaki madness,white rice regular bowl or side,0,g,0,mg,0,g,65,g,5,g,0,g,0,g,1,g,1,g
+207,texas de brazil,1792 manhattan,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,4,g
+208,texas de brazil,absolut mandrin crush,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,1,g,10,g
+209,texas de brazil,alcatra,2.5,g,20,mg,220,g,0,g,8,g,1,g,0,g,0,g,0,g
+210,texas de brazil,american grana cheese,7,g,25,mg,260,g,0,g,10,g,4,g,0,g,0,g,0,g
+211,texas de brazil,bacon wrapped jalapenos,9,g,25,mg,240,g,2,g,5,g,4.5,g,0,g,1,g,2,g
+212,texas de brazil,bahia breeze,1,g,0,mg,0,g,27,g,1,g,1,g,0,g,1,g,25,g
+213,texas de brazil,bananas foster pie,36,g,100,mg,400,g,111,g,7,g,23,g,0,g,2,g,84,g
+214,texas de brazil,barbecued pork ribs,26,g,90,mg,720,g,3,g,18,g,8,g,0,g,0,g,3,g
+215,texas de brazil,beets,0,g,0,mg,250,g,8,g,0,g,0,g,0,g,1,g,6,g
+216,texas de brazil,braised beef ribs,24,g,55,mg,430,g,0,g,12,g,10,g,0,g,0,g,0,g
+217,texas de brazil,brazilian black beans feijoada,1,g,5,mg,150,g,6,g,3,g,0,g,0,g,1,g,1,g
+218,texas de brazil,brazilian cheese bread,3,g,15,mg,90,g,8,g,1,g,1,g,0,g,0,g,0,g
+219,texas de brazil,brazilian cheesecake,57,g,245,mg,670,g,110,g,15,g,33,g,2,g,4,g,88,g
+220,texas de brazil,brazilian flan,11,g,165,mg,140,g,126,g,12,g,6,g,0,g,0,g,125,g
+221,texas de brazil,brazilian kiss,0,g,0,mg,0,g,7,g,0,g,0,g,0,g,0,g,5,g
+222,texas de brazil,brazilian mojito,0,g,0,mg,0,g,27,g,1,g,0,g,0,g,2,g,20,g
+223,texas de brazil,brazilian potato salad,16,g,10,mg,180,g,5,g,1,g,2.5,g,0,g,1,g,0,g
+224,texas de brazil,brazilian rose,0,g,0,mg,10,g,44,g,2,g,0,g,0,g,1,g,30,g
+225,texas de brazil,brazilian salad,0,g,0,mg,35,g,2,g,0,g,0,g,0,g,0,g,1,g
+226,texas de brazil,brazilian sausage,14,g,50,mg,360,g,1,g,9,g,5,g,0,g,0,g,0,g
+227,texas de brazil,brugal mojito royale,0,g,0,mg,0,g,36,g,1,g,0,g,0,g,3,g,25,g
+228,texas de brazil,buffalo mozzarella,10,g,30,mg,20,g,0,g,7,g,6,g,0,g,0,g,0,g
+229,texas de brazil,cabbage salad,2,g,0,mg,130,g,2,g,0,g,0,g,0,g,1,g,1,g
+230,texas de brazil,caipirinha,0,g,0,mg,0,g,27,g,1,g,0,g,0,g,2,g,20,g
+231,texas de brazil,caipirinha coconut,1,g,0,mg,5,g,39,g,1,g,1,g,0,g,3,g,31,g
+232,texas de brazil,caipirinha mango,0,g,0,mg,0,g,39,g,1,g,0,g,0,g,2,g,30,g
+233,texas de brazil,caipirinha passion fruit,0,g,0,mg,0,g,39,g,1,g,0,g,0,g,3,g,30,g
+234,texas de brazil,caipirinha strawberry,0,g,0,mg,0,g,39,g,1,g,0,g,0,g,3,g,30,g
+235,texas de brazil,caperberries,0,g,0,mg,120,g,0,g,0,g,0,g,0,g,0,g,0,g
+236,texas de brazil,capers,0,g,0,mg,135,g,0,g,0,g,0,g,0,g,0,g,0,g
+237,texas de brazil,caramelized sweet onions,0,g,0,mg,50,g,2,g,0,g,0,g,0,g,0,g,1,g
+238,texas de brazil,carnaval,0,g,0,mg,5,g,29,g,0,g,0,g,0,g,0,g,19,g
+239,texas de brazil,carrot cake,88,g,165,mg,920,g,176,g,14,g,37,g,1,g,6,g,134,g
+240,texas de brazil,chicken breast wrapped in bacon,4.5,g,65,mg,640,g,0,g,23,g,1.5,g,0,g,0,g,0,g
+241,texas de brazil,chicken salad,17,g,40,mg,270,g,2,g,10,g,3,g,0,g,0,g,1,g
+242,texas de brazil,chimichurri sauce,8,g,0,mg,150,g,1,g,0,g,0.5,g,0,g,0,g,0,g
+243,texas de brazil,chocolat com vanilla,5,g,0,mg,55,g,32,g,2,g,0,g,0,g,1,g,26,g
+244,texas de brazil,chocolate mousse cake,52,g,115,mg,650,g,127,g,9,g,33,g,0,g,5,g,96,g
+245,texas de brazil,ciabatta,1,g,0,mg,200,g,15,g,2,g,0,g,0,g,0,g,0,g
+246,texas de brazil,cipollini onions,0,g,0,mg,55,g,5,g,0,g,0,g,0,g,0,g,2,g
+247,texas de brazil,coconut chess pie,18,g,15,mg,260,g,61,g,2,g,12,g,0,g,1,g,44,g
+248,texas de brazil,coconut chess pie a la mode,30,g,60,mg,370,g,89,g,7,g,19,g,0,g,1,g,63,g
+249,texas de brazil,coffee liqueur 53 proof,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,0,g,20,g
+250,texas de brazil,coffee liqueur 63 proof,0,g,0,mg,0,g,17,g,0,g,0,g,0,g,0,g,17,g
+251,texas de brazil,coffee with cream liqueur 34 proof,7,g,25,mg,45,g,10,g,1,g,4.5,g,0,g,0,g,9,g
+252,texas de brazil,cornichons,0,g,0,mg,35,g,0,g,0,g,0,g,0,g,0,g,0,g
+253,texas de brazil,couscous salad,2.5,g,0,mg,140,g,14,g,2,g,0,g,0,g,1,g,2,g
+254,texas de brazil,cream of jalapeno soup,22,g,70,mg,1170,g,11,g,5,g,13,g,0,g,0,g,6,g
+255,texas de brazil,creme brulee,31,g,490,mg,85,g,50,g,10,g,16,g,0.5,g,0,g,48,g
+256,texas de brazil,creole mustard sauce,0.5,g,0,mg,280,g,6,g,0,g,0,g,0,g,0,g,6,g
+257,texas de brazil,crispy bacon,2,g,5,mg,85,g,0,g,1,g,0.5,g,0,g,0,g,0,g
+258,texas de brazil,crostinis,0,g,0,mg,45,g,4,g,1,g,0,g,0,g,0,g,0,g
+259,texas de brazil,croutons,1,g,0,mg,65,g,4,g,1,g,0,g,0,g,0,g,0,g
+260,texas de brazil,cucumber salad,6,g,0,mg,1090,g,5,g,1,g,0,g,0,g,1,g,1,g
+261,texas de brazil,deep eddy lemon drop,0,g,0,mg,5,g,34,g,0,g,0,g,0,g,0,g,33,g
+262,texas de brazil,diamante passion fruit margarita,0,g,0,mg,10,g,35,g,0,g,0,g,0,g,1,g,31,g
+263,texas de brazil,dressing bleu cheese,14,g,15,mg,210,g,0,g,2,g,3,g,0,g,0,g,0,g
+264,texas de brazil,dressing brazilian vinaigrette,2,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+265,texas de brazil,dressing italian balsamic vinaigrette,16,g,0,mg,70,g,4,g,0,g,1,g,0,g,0,g,3,g
+266,texas de brazil,dressing ranch,10,g,5,mg,250,g,2,g,1,g,1.5,g,0,g,0,g,1,g
+267,texas de brazil,espresso delight,4,g,0,mg,0,g,8,g,1,g,2.5,g,0,g,0,g,0,g
+268,texas de brazil,farofa,3.5,g,20,mg,45,g,5,g,1,g,2,g,0,g,1,g,1,g
+269,texas de brazil,filet mignon,7,g,55,mg,430,g,0,g,16,g,2.5,g,0,g,0,g,0,g
+270,texas de brazil,filet mignon wrapped in bacon,9,g,55,mg,520,g,0,g,17,g,3.5,g,0,g,0,g,0,g
+271,texas de brazil,fish stew moqueca de peixe,5,g,20,mg,60,g,1,g,7,g,4,g,0,g,0,g,0,g
+272,texas de brazil,flank steak,8,g,35,mg,450,g,0,g,14,g,3.5,g,0,g,0,g,0,g
+273,texas de brazil,garlic mashed potatoes,6,g,10,mg,330,g,11,g,2,g,1.5,g,0,g,1,g,2,g
+274,texas de brazil,garlic picanha,6,g,40,mg,430,g,0,g,16,g,2,g,0,g,0,g,0,g
+275,texas de brazil,giardiniera salad,0,g,0,mg,420,g,2,g,0,g,0,g,0,g,1,g,1,g
+276,texas de brazil,ginger,0,g,0,mg,200,g,5,g,0,g,0,g,0,g,0,g,3,g
+277,texas de brazil,goat cheese terrine,4,g,10,mg,35,g,1,g,2,g,2.5,g,0,g,0,g,0,g
+278,texas de brazil,godiva flight,7,g,0,mg,55,g,21,g,2,g,0,g,0,g,0,g,20,g
+279,texas de brazil,grand marnier flight,0,g,0,mg,0,g,6,g,1,g,0,g,0,g,0,g,0,g
+280,texas de brazil,grape salad,9,g,5,mg,115,g,5,g,1,g,2,g,0,g,0,g,5,g
+281,texas de brazil,green bean salad,2.5,g,0,mg,0,g,2,g,1,g,0,g,0,g,1,g,1,g
+282,texas de brazil,grey goose caipiroska,0,g,0,mg,0,g,27,g,1,g,0,g,0,g,2,g,20,g
+283,texas de brazil,grilled peppers red and yellow,2.5,g,0,mg,10,g,2,g,0,g,0,g,0,g,0,g,1,g
+284,texas de brazil,grilled provolone cheese,3.5,g,10,mg,60,g,0,g,2,g,1.5,g,0,g,0,g,0,g
+285,texas de brazil,hearts of palm,0,g,0,mg,170,g,1,g,1,g,0,g,0,g,1,g,0,g
+286,texas de brazil,hennessy flight,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+287,texas de brazil,herb marinated pork loin,1.5,g,20,mg,220,g,0,g,7,g,0,g,0,g,0,g,0,g
+288,texas de brazil,horseradish,4.5,g,5,mg,65,g,0,g,0,g,1,g,0,g,0,g,0,g
+289,texas de brazil,hummus,2.5,g,0,mg,120,g,6,g,2,g,0,g,0,g,2,g,1,g
+290,texas de brazil,ipanema margarita,0,g,0,mg,10,g,30,g,0,g,0,g,0,g,0,g,27,g
+291,texas de brazil,jack daniels apple martini,0,g,0,mg,140,g,33,g,1,g,0,g,0,g,0,g,32,g
+292,texas de brazil,jasmine rice,1,g,5,mg,125,g,7,g,1,g,0.5,g,0,g,0,g,0,g
+293,texas de brazil,johnnie walker flight,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+294,texas de brazil,key lime pie,28,g,260,mg,240,g,83,g,12,g,19,g,0,g,1,g,71,g
+295,texas de brazil,key lime pie martini,1.5,g,5,mg,15,g,12,g,1,g,1,g,0,g,0,g,11,g
+296,texas de brazil,knob creek texas belle,0,g,0,mg,0,g,21,g,0,g,0,g,0,g,1,g,14,g
+297,texas de brazil,lamb chops,10,g,45,mg,260,g,0,g,11,g,4.5,g,0,g,0,g,0,g
+298,texas de brazil,langleys strawberry limeade,0,g,0,mg,0,g,15,g,0,g,0,g,0,g,1,g,11,g
+299,texas de brazil,lava,3.5,g,5,mg,35,g,23,g,2,g,1,g,0,g,0,g,23,g
+300,texas de brazil,leg of lamb,2.5,g,25,mg,220,g,0,g,8,g,1,g,0,g,0,g,0,g
+301,texas de brazil,liquor 100 proof,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+302,texas de brazil,liquor 80 proof,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+303,texas de brazil,liquor 86 proof,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+304,texas de brazil,liquor 90 proof,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+305,texas de brazil,liquor 94 proof,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+306,texas de brazil,lobster bisque,34,g,120,mg,720,g,10,g,4,g,21,g,1,g,2,g,3,g
+307,texas de brazil,malagueta peppers,0,g,0,mg,180,g,1,g,0,g,0,g,0,g,0,g,0,g
+308,texas de brazil,manchego cheese,7,g,20,mg,85,g,0,g,6,g,5,g,0,g,0,g,0,g
+309,texas de brazil,manzanilla olives black and green,2.5,g,0,mg,10,g,0,g,0,g,0,g,0,g,0,g,0,g
+310,texas de brazil,marinated artichoke heart,0,g,0,mg,420,g,6,g,2,g,0,g,0,g,4,g,1,g
+311,texas de brazil,milky way,6,g,15,mg,45,g,6,g,2,g,2.5,g,0,g,0,g,4,g
+312,texas de brazil,mint sauce,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,6,g
+313,texas de brazil,mixed field greens,3,g,10,mg,60,g,3,g,3,g,1.5,g,0,g,1,g,1,g
+314,texas de brazil,onion ceviche,6,g,0,mg,590,g,3,g,0,g,0,g,0,g,1,g,1,g
+315,texas de brazil,orange vinaigrette,9,g,0,mg,10,g,9,g,0,g,0.5,g,0,g,0,g,8,g
+316,texas de brazil,papaya cream,23,g,70,mg,150,g,101,g,9,g,15,g,0,g,3,g,54,g
+317,texas de brazil,parmesan chicken drumettes,6,g,40,mg,670,g,0,g,12,g,1.5,g,0,g,0,g,0,g
+318,texas de brazil,parmesan crusted pork loin,3,g,45,mg,460,g,0,g,16,g,1,g,0,g,0,g,0,g
+319,texas de brazil,patron flight,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+320,texas de brazil,pecan pie with cream cheese center,21,g,70,mg,490,g,84,g,6,g,5,g,0,g,2,g,55,g
+321,texas de brazil,pecan pie with cream cheese center a la mode,32,g,100,mg,550,g,120,g,9,g,12,g,0,g,2,g,70,g
+322,texas de brazil,picanha,5,g,40,mg,430,g,0,g,16,g,2,g,0,g,0,g,0,g
+323,texas de brazil,pineapple carpaccio,0,g,0,mg,0,g,9,g,0,g,0,g,0,g,0,g,8,g
+324,texas de brazil,piquante pepper,0,g,0,mg,10,g,1,g,0,g,0,g,0,g,0,g,1,g
+325,texas de brazil,potatoes au gratin,11,g,30,mg,120,g,6,g,3,g,5,g,0,g,1,g,0,g
+326,texas de brazil,prosciutto,1.5,g,10,mg,160,g,0,g,3,g,0.5,g,0,g,0,g,0,g
+327,texas de brazil,quinoa salad,6,g,0,mg,20,g,6,g,1,g,0,g,0,g,1,g,3,g
+328,texas de brazil,rio sunrise,0,g,0,mg,10,g,43,g,0,g,0,g,0,g,0,g,35,g
+329,texas de brazil,roasted garlic cloves,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+330,texas de brazil,romaine,0,g,0,mg,5,g,3,g,1,g,0,g,0,g,2,g,1,g
+331,texas de brazil,salami,2,g,10,mg,250,g,1,g,4,g,1,g,0,g,0,g,1,g
+332,texas de brazil,sangria pitcher,0,g,0,mg,50,g,139,g,1,g,0,g,0,g,0,g,127,g
+333,texas de brazil,santa fe salad,6,g,0,mg,130,g,8,g,2,g,0.5,g,0,g,2,g,1,g
+334,texas de brazil,sauteed mushrooms,1.5,g,5,mg,150,g,2,g,1,g,1,g,0,g,0,g,1,g
+335,texas de brazil,shrimp salad,2,g,35,mg,270,g,0,g,4,g,0,g,0,g,0,g,0,g
+336,texas de brazil,smoked salmon,4,g,25,mg,15,g,0,g,7,g,1,g,0,g,0,g,0,g
+337,texas de brazil,steamed asparagus,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+338,texas de brazil,styles of port flight,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,0,g,7,g
+339,texas de brazil,summer tomatoes,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+340,texas de brazil,sun dried tomatoes,0,g,0,mg,105,g,3,g,1,g,0,g,0,g,1,g,1,g
+341,texas de brazil,sushi,0,g,0,mg,55,g,3,g,0,g,0,g,0,g,0,g,0,g
+342,texas de brazil,sweet fried bananas,2.5,g,0,mg,0,g,10,g,0,g,0,g,0,g,1,g,8,g
+343,texas de brazil,tabouleh,7,g,0,mg,300,g,3,g,1,g,1,g,0,g,1,g,1,g
+344,texas de brazil,taylor fladgate flight,0,g,0,mg,0,g,16,g,0,g,0,g,0,g,0,g,9,g
+345,texas de brazil,the macallan flight,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+346,texas de brazil,the rio cosmo,0,g,0,mg,5,g,36,g,0,g,0,g,0,g,0,g,33,g
+347,texas de brazil,the ruler of marula,10,g,40,mg,75,g,11,g,2,g,7,g,0,g,0,g,10,g
+348,texas de brazil,the samba,0,g,0,mg,10,g,30,g,0,g,0,g,0,g,2,g,26,g
+349,texas de brazil,tiramisu martini,3.5,g,0,mg,25,g,9,g,1,g,0,g,0,g,0,g,8,g
+350,texas de brazil,tropical cream dream,6,g,30,mg,80,g,34,g,4,g,4,g,0,g,1,g,32,g
+351,texas de brazil,wasabi,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+352,texas de brazil,whole jalapenos,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,1,g
+353,texas de brazil,wine by the bottle large format bottle red,0,g,0,mg,60,g,39,g,1,g,0,g,0,g,0,g,9,g
+354,texas de brazil,wine by the bottle cabernet sauvignon,0,g,0,mg,0,g,19,g,1,g,0,g,0,g,0,g,0,g
+355,texas de brazil,wine by the bottle chardonnay,0,g,0,mg,35,g,16,g,1,g,0,g,0,g,0,g,7,g
+356,texas de brazil,wine by the bottle dessert dry,0,g,0,mg,0,g,44,g,1,g,0,g,0,g,0,g,4,g
+357,texas de brazil,wine by the bottle dessert sweet,0,g,0,mg,0,g,51,g,1,g,0,g,0,g,0,g,29,g
+358,texas de brazil,wine by the bottle merlot,0,g,0,mg,30,g,19,g,1,g,0,g,0,g,0,g,5,g
+359,texas de brazil,wine by the bottle pinot grigio,0,g,0,mg,35,g,19,g,1,g,0,g,0,g,0,g,7,g
+360,texas de brazil,wine by the bottle pinot noir,0,g,0,mg,0,g,17,g,1,g,0,g,0,g,0,g,0,g
+361,texas de brazil,wine by the bottle red,0,g,0,mg,30,g,19,g,1,g,0,g,0,g,0,g,5,g
+362,texas de brazil,wine by the bottle rose,0,g,0,mg,40,g,29,g,3,g,0,g,0,g,0,g,29,g
+363,texas de brazil,wine by the bottle sauvignon blanc,0,g,0,mg,0,g,15,g,1,g,0,g,0,g,0,g,0,g
+364,texas de brazil,wine by the bottle sparkling,0,g,0,mg,40,g,19,g,1,g,0,g,0,g,0,g,7,g
+365,texas de brazil,wine by the bottle white,0,g,0,mg,35,g,19,g,1,g,0,g,0,g,0,g,7,g
+366,texas de brazil,wine by the glass dessert dry,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,1,g
+367,texas de brazil,wine by the glass dessert sweet,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,0,g,7,g
+368,texas de brazil,wine by the glass red,0,g,0,mg,5,g,5,g,0,g,0,g,0,g,0,g,1,g
+369,texas de brazil,wine by the glass sparkling,0,g,0,mg,10,g,5,g,0,g,0,g,0,g,0,g,2,g
+370,texas de brazil,wine by the glass white,0,g,0,mg,10,g,5,g,0,g,0,g,0,g,0,g,2,g
+371,texas roadhouse,10 oz ft worth ribeye and grilled shrimp,83,g,310,mg,2640,g,40,g,82,g,33,g,5,g,5,g,6,g
+372,texas roadhouse,10 oz ft worth ribeye and ribs,99,g,375,mg,1840,g,16,g,109,g,41,g,5,g,5,g,6,g
+373,texas roadhouse,12 oz ft worth ribeye and grilled shrimp,95,g,355,mg,2830,g,42,g,95,g,38,g,6,g,5,g,6,g
+374,texas roadhouse,12 oz ft worth ribeye and ribs,111,g,420,mg,2040,g,18,g,122,g,46,g,6,g,5,g,6,g
+375,texas roadhouse,6 oz sirloin and grilled shrimp,29,g,240,mg,2210,g,33,g,64,g,10,g,0.5,g,3,g,6,g
+376,texas roadhouse,6 oz sirloin and ribs,45,g,300,mg,1420,g,9,g,90,g,18,g,0,g,3,g,5,g
+377,texas roadhouse,8 oz sirloin and grilled shrimp,31,g,280,mg,2400,g,35,g,79,g,11,g,0.5,g,3,g,6,g
+378,texas roadhouse,8 oz sirloin and ribs,47,g,345,mg,1600,g,10,g,105,g,19,g,0.5,g,3,g,6,g
+379,texas roadhouse,all american cheeseburger,55,g,125,mg,1970,g,48,g,50,g,22,g,4,g,5,g,11,g
+380,texas roadhouse,all beef hot dog,23,g,50,mg,1010,g,27,g,14,g,10,g,1.5,g,0,g,4,g
+381,texas roadhouse,applesauce,0,g,0,mg,15,g,28,g,0,g,0,g,0,g,3,g,23,g
+382,texas roadhouse,bacon cheeseburger,62,g,150,mg,2410,g,48,g,59,g,24,g,4,g,5,g,12,g
+383,texas roadhouse,baked potato,13,g,10,mg,1950,g,60,g,7,g,5,g,0,g,6,g,3,g
+384,texas roadhouse,baked potato soup bowl,26,g,45,mg,910,g,28,g,10,g,12,g,0.5,g,2,g,4,g
+385,texas roadhouse,baked potato soup cup,15,g,25,mg,530,g,17,g,5,g,7,g,0,g,1,g,2,g
+386,texas roadhouse,baked potato soup side cup,15,g,25,mg,530,g,17,g,5,g,7,g,0,g,1,g,2,g
+387,texas roadhouse,bbq chicken sandwich,18,g,165,mg,1310,g,63,g,55,g,5,g,2.5,g,6,g,24,g
+388,texas roadhouse,beef tips with mashed potatoes,58,g,175,mg,3300,g,48,g,61,g,19,g,1,g,6,g,12,g
+389,texas roadhouse,beef tips with seasoned rice,57,g,170,mg,4420,g,71,g,63,g,16,g,0.5,g,5,g,13,g
+390,texas roadhouse,big ol brownie,40,g,100,mg,740,g,203,g,12,g,24,g,0,g,8,g,151,g
+391,texas roadhouse,bone in ribeye,101,g,450,mg,1720,g,20,g,143,g,44,g,10,g,4,g,4,g
+392,texas roadhouse,boneless buffalo wings hot,42,g,145,mg,2130,g,37,g,60,g,11,g,0,g,12,g,2,g
+393,texas roadhouse,boneless buffalo wings mild,50,g,145,mg,2830,g,43,g,58,g,12,g,0,g,5,g,1,g
+394,texas roadhouse,bread pudding,67,g,260,mg,1130,g,342,g,31,g,28,g,4.5,g,4,g,264,g
+395,texas roadhouse,buttered corn,9,g,0,mg,550,g,29,g,5,g,2.5,g,0,g,3,g,6,g
+396,texas roadhouse,cactus blossom,135,g,15,mg,5000,g,236,g,25,g,26,g,0,g,19,g,36,g
+397,texas roadhouse,caesar salad,43,g,25,mg,450,g,9,g,6,g,8,g,1,g,2,g,2,g
+398,texas roadhouse,caesar side salad,43,g,25,mg,450,g,9,g,6,g,8,g,1,g,2,g,2,g
+399,texas roadhouse,california chicken dinner in selected stores only,21,g,185,mg,970,g,25,g,55,g,7,g,0,g,5,g,20,g
+400,texas roadhouse,california chicken salad in selected stores only,46,g,240,mg,2460,g,73,g,74,g,19,g,0,g,9,g,62,g
+401,texas roadhouse,cheese fries regular,65,g,110,mg,5400,g,126,g,38,g,25,g,1,g,14,g,2,g
+402,texas roadhouse,cheese fries small,44,g,70,mg,3770,g,90,g,25,g,17,g,1,g,10,g,2,g
+403,texas roadhouse,chicken caesar salad,89,g,205,mg,1070,g,20,g,60,g,16,g,1.5,g,7,g,5,g
+404,texas roadhouse,chicken critter salad,40,g,355,mg,1440,g,27,g,56,g,17,g,0,g,6,g,8,g
+405,texas roadhouse,chicken critters,21,g,130,mg,1190,g,26,g,45,g,4,g,0,g,3,g,2,g
+406,texas roadhouse,chicken critters and ribs,51,g,250,mg,1540,g,21,g,70,g,18,g,0,g,3,g,5,g
+407,texas roadhouse,chicken critters and sirloin,18,g,200,mg,1240,g,19,g,72,g,5,g,0,g,3,g,2,g
+408,texas roadhouse,country fried chicken,45,g,175,mg,1460,g,45,g,48,g,16,g,0,g,1,g,10,g
+409,texas roadhouse,country fried sirloin,76,g,200,mg,2220,g,72,g,52,g,22,g,1.5,g,2,g,10,g
+410,texas roadhouse,dallas filet and grilled shrimp,33,g,220,mg,2380,g,36,g,63,g,12,g,1,g,3,g,6,g
+411,texas roadhouse,dallas filet and ribs,49,g,285,mg,1580,g,12,g,90,g,20,g,1,g,3,g,5,g
+412,texas roadhouse,dallas filet 6 oz,10,g,110,mg,720,g,6,g,45,g,4,g,1,g,2,g,2,g
+413,texas roadhouse,dallas filet 8 oz,13,g,145,mg,960,g,8,g,60,g,6,g,1.5,g,2,g,2,g
+414,texas roadhouse,fall off the bone ribs full slab,102,g,460,mg,2260,g,15,g,116,g,41,g,0,g,4,g,10,g
+415,texas roadhouse,fall off the bone ribs half slab,63,g,285,mg,1400,g,9,g,72,g,25,g,0,g,3,g,6,g
+416,texas roadhouse,filet medallions,30,g,170,mg,2530,g,56,g,74,g,10,g,1.5,g,5,g,5,g
+417,texas roadhouse,firecracker shrimp in selected stores only,88,g,185,mg,1490,g,54,g,20,g,14,g,0,g,4,g,12,g
+418,texas roadhouse,fish and chips,38,g,120,mg,3020,g,71,g,42,g,7,g,0,g,8,g,2,g
+419,texas roadhouse,fresh vegetables,15,g,0,mg,480,g,13,g,3,g,4.5,g,0,g,5,g,4,g
+420,texas roadhouse,fried catfish 3 piece,82,g,125,mg,1230,g,35,g,30,g,13,g,0,g,1,g,1,g
+421,texas roadhouse,fried catfish 4 piece,93,g,160,mg,1490,g,45,g,40,g,15,g,0,g,1,g,1,g
+422,texas roadhouse,fried pickles,38,g,0,mg,2580,g,48,g,6,g,7,g,0,g,5,g,1,g
+423,texas roadhouse,fried pork sandwich,57,g,110,mg,1600,g,61,g,53,g,13,g,2.5,g,4,g,10,g
+424,texas roadhouse,ft worth ribeye 10 oz,60,g,200,mg,980,g,10,g,65,g,25,g,5,g,3,g,2,g
+425,texas roadhouse,ft worth ribeye 12 oz,72,g,240,mg,1180,g,12,g,78,g,30,g,6,g,4,g,2,g
+426,texas roadhouse,ft worth ribeye 14 oz,84,g,285,mg,1370,g,14,g,90,g,35,g,7,g,4,g,2,g
+427,texas roadhouse,ft worth ribeye 16 oz,96,g,325,mg,1570,g,16,g,103,g,40,g,8,g,5,g,3,g
+428,texas roadhouse,grannys apple classic,50,g,75,mg,970,g,161,g,9,g,16,g,0,g,2,g,97,g
+429,texas roadhouse,green beans,3.5,g,10,mg,1070,g,13,g,6,g,1,g,0,g,2,g,4,g
+430,texas roadhouse,green chile chicken,13,g,200,mg,800,g,19,g,61,g,6,g,0,g,6,g,12,g
+431,texas roadhouse,grilled bbq chicken,3.5,g,160,mg,450,g,19,g,46,g,1,g,0,g,2,g,15,g
+432,texas roadhouse,grilled bbq chicken and ribs,43,g,335,mg,1450,g,34,g,91,g,17,g,0,g,4,g,25,g
+433,texas roadhouse,grilled bbq chicken and sirloin,10,g,285,mg,1150,g,31,g,92,g,3.5,g,0,g,3,g,23,g
+434,texas roadhouse,grilled chicken salad,45,g,460,mg,1230,g,19,g,85,g,21,g,1.5,g,7,g,9,g
+435,texas roadhouse,grilled pork chops double chop,38,g,1885,mg,4060,g,13,g,82,g,13,g,0,g,3,g,2,g
+436,texas roadhouse,grilled pork chops single chop,26,g,945,mg,2430,g,10,g,42,g,9,g,0,g,2,g,2,g
+437,texas roadhouse,grilled salmon 5 oz,33,g,75,mg,770,g,2,g,27,g,8,g,0,g,1,g,1,g
+438,texas roadhouse,grilled salmon 8 oz,42,g,120,mg,950,g,2,g,45,g,10,g,0,g,1,g,1,g
+439,texas roadhouse,grilled salmon salad,55,g,375,mg,1310,g,19,g,66,g,22,g,1.5,g,6,g,9,g
+440,texas roadhouse,grilled shrimp,19,g,110,mg,1530,g,30,g,18,g,6,g,0,g,2,g,4,g
+441,texas roadhouse,grilled shrimp dinner,37,g,225,mg,4110,g,50,g,32,g,10,g,0,g,3,g,4,g
+442,texas roadhouse,grilled shrimp salad,43,g,415,mg,2130,g,20,g,52,g,20,g,1.5,g,5,g,9,g
+443,texas roadhouse,herb crusted chicken,4,g,160,mg,1210,g,12,g,47,g,1,g,0,g,4,g,8,g
+444,texas roadhouse,house salad,16,g,135,mg,290,g,9,g,13,g,8,g,1,g,2,g,4,g
+445,texas roadhouse,house side salad,16,g,135,mg,290,g,9,g,13,g,8,g,1,g,2,g,4,g
+446,texas roadhouse,jr chicken tenders,16,g,70,mg,780,g,24,g,31,g,3,g,0,g,2,g,0,g
+447,texas roadhouse,kids grilled chicken,2,g,80,mg,90,g,0,g,23,g,0.5,g,0,g,1,g,0,g
+448,texas roadhouse,killer ribs,53,g,175,mg,2830,g,59,g,49,g,18,g,0,g,8,g,5,g
+449,texas roadhouse,kraft mac and cheese,9,g,10,mg,660,g,45,g,10,g,2.5,g,0,g,2,g,8,g
+450,texas roadhouse,lil dillo steak bites,4,g,85,mg,370,g,2,g,31,g,1.5,g,0,g,1,g,1,g
+451,texas roadhouse,mashed potatoes,17,g,10,mg,330,g,24,g,3,g,6,g,0,g,2,g,2,g
+452,texas roadhouse,mini cheeseburgers,36,g,60,mg,950,g,57,g,30,g,15,g,0.5,g,3,g,9,g
+453,texas roadhouse,mushroom jack chicken sandwich,30,g,190,mg,1410,g,48,g,63,g,11,g,2.5,g,6,g,11,g
+454,texas roadhouse,new york strip 12 oz traditional cut,33,g,505,mg,980,g,1,g,85,g,13,g,2,g,1,g,3,g
+455,texas roadhouse,new york strip 8 oz thick cut,22,g,335,mg,660,g,1,g,57,g,9,g,1.5,g,1,g,2,g
+456,texas roadhouse,porterhouse t bone,54,g,400,mg,1440,g,1,g,139,g,24,g,3.5,g,2,g,4,g
+457,texas roadhouse,portobello mushroom chicken,20,g,190,mg,1030,g,7,g,58,g,9,g,0,g,3,g,2,g
+458,texas roadhouse,prime rib 10 oz,60,g,215,mg,1520,g,3,g,62,g,26,g,4,g,2,g,1,g
+459,texas roadhouse,prime rib 12 oz,72,g,260,mg,1660,g,3,g,74,g,31,g,5,g,2,g,2,g
+460,texas roadhouse,prime rib 16 oz,95,g,345,mg,1960,g,4,g,99,g,42,g,7,g,3,g,2,g
+461,texas roadhouse,pulled pork dinner,41,g,270,mg,1130,g,54,g,80,g,14,g,0,g,4,g,23,g
+462,texas roadhouse,pulled pork dinner north carolina only,39,g,270,mg,1360,g,42,g,80,g,14,g,0,g,3,g,14,g
+463,texas roadhouse,pulled pork dinner south carolina only,38,g,245,mg,1270,g,51,g,77,g,13,g,0,g,4,g,22,g
+464,texas roadhouse,pulled pork sandwich,40,g,220,mg,1220,g,62,g,68,g,13,g,2.5,g,4,g,22,g
+465,texas roadhouse,pulled pork sandwich north carolina only,39,g,220,mg,1400,g,52,g,69,g,13,g,2.5,g,4,g,15,g
+466,texas roadhouse,pulled pork sandwich south carolina only,38,g,200,mg,1330,g,59,g,66,g,12,g,2.5,g,4,g,21,g
+467,texas roadhouse,ranger meal andys steak,6,g,125,mg,560,g,3,g,46,g,2.5,g,0,g,1,g,1,g
+468,texas roadhouse,ranger meal chicken critters basket,15,g,95,mg,850,g,19,g,32,g,3,g,0,g,2,g,1,g
+469,texas roadhouse,ranger meal ranger rib basket,39,g,175,mg,860,g,6,g,44,g,15,g,0,g,2,g,4,g
+470,texas roadhouse,rattlesnake bites,36,g,80,mg,1430,g,34,g,25,g,19,g,0.5,g,3,g,3,g
+471,texas roadhouse,road kill,56,g,140,mg,1420,g,10,g,55,g,23,g,2,g,3,g,4,g
+472,texas roadhouse,salmon caesar salad,99,g,120,mg,1150,g,20,g,40,g,17,g,1.5,g,5,g,5,g
+473,texas roadhouse,sauteed mushrooms,11,g,0,mg,480,g,5,g,3,g,3,g,0,g,2,g,2,g
+474,texas roadhouse,sauteed onions,10,g,0,mg,570,g,13,g,2,g,2,g,0,g,2,g,6,g
+475,texas roadhouse,seasoned rice,15,g,5,mg,1450,g,47,g,6,g,3.5,g,0,g,2,g,3,g
+476,texas roadhouse,shrimp caesar salad,86,g,155,mg,1960,g,21,g,26,g,16,g,1.5,g,5,g,5,g
+477,texas roadhouse,sierra chicken pasta,66,g,245,mg,2210,g,86,g,69,g,32,g,1.5,g,6,g,7,g
+478,texas roadhouse,smokehouse burger,67,g,150,mg,2490,g,60,g,58,g,28,g,4,g,6,g,20,g
+479,texas roadhouse,smothered chicken with cream gravy,19,g,175,mg,790,g,14,g,51,g,7,g,0,g,3,g,7,g
+480,texas roadhouse,smothered chicken with jack cheese,20,g,185,mg,780,g,8,g,55,g,8,g,0,g,3,g,4,g
+481,texas roadhouse,steak fries,14,g,0,mg,1970,g,53,g,5,g,2.5,g,0,g,6,g,1,g
+482,texas roadhouse,steak kabob,41,g,145,mg,2760,g,78,g,58,g,11,g,0,g,4,g,24,g
+483,texas roadhouse,steakhouse filet salad,103,g,190,mg,2870,g,42,g,71,g,25,g,2.5,g,8,g,21,g
+484,texas roadhouse,steamed broccoli,16,g,0,mg,490,g,17,g,5,g,5,g,0,g,8,g,3,g
+485,texas roadhouse,strawberry cheesecake,47,g,135,mg,550,g,76,g,10,g,26,g,0,g,3,g,60,g
+486,texas roadhouse,sweet potato,9,g,5,mg,105,g,62,g,6,g,3.5,g,0,g,10,g,19,g
+487,texas roadhouse,tater skins,88,g,275,mg,2470,g,63,g,63,g,49,g,2,g,7,g,5,g
+488,texas roadhouse,texas red chili no beans bowl,31,g,100,mg,1460,g,23,g,33,g,13,g,1,g,5,g,8,g
+489,texas roadhouse,texas red chili no beans cup,15,g,50,mg,800,g,13,g,17,g,5,g,0.5,g,3,g,4,g
+490,texas roadhouse,texas red chili no beans side cup,15,g,50,mg,800,g,13,g,17,g,5,g,0.5,g,3,g,4,g
+491,texas roadhouse,texas red chili with beans bowl,23,g,90,mg,1180,g,25,g,31,g,10,g,0.5,g,6,g,5,g
+492,texas roadhouse,texas red chili with beans cup,10,g,45,mg,640,g,14,g,16,g,4,g,0,g,4,g,3,g
+493,texas roadhouse,texas red chili with beans side cup,10,g,45,mg,640,g,14,g,16,g,4,g,0,g,4,g,3,g
+494,texas roadhouse,twisted mozzarella in selected stores only,39,g,65,mg,2610,g,64,g,27,g,15,g,0,g,4,g,6,g
+495,texas roadhouse,usda choice sirloin 11 oz,11,g,235,mg,1020,g,6,g,84,g,4.5,g,0.5,g,2,g,3,g
+496,texas roadhouse,usda choice sirloin 16 oz,16,g,340,mg,1490,g,9,g,122,g,6,g,1,g,3,g,4,g
+497,texas roadhouse,usda choice sirloin 6 oz,6,g,125,mg,560,g,3,g,46,g,2.5,g,0,g,1,g,1,g
+498,texas roadhouse,usda choice sirloin 8 oz,8,g,170,mg,740,g,5,g,61,g,3,g,0,g,2,g,2,g
+499,thai express,cashew,17,g,0,mg,240,g,12,g,6,g,0,g,0,g,1,g,2,g
+500,thai express,drunken noodles,29,g,0,mg,3140,g,65,g,4,g,0,g,0,g,5,g,41,g
+501,thai express,elephant noodles,19,g,100,mg,135,g,61,g,15,g,0,g,0,g,5,g,1,g
+502,thai express,extra coconut milk for mini soup,11,g,0,mg,20,g,2,g,2,g,0,g,0,g,0,g,2,g
+503,thai express,extra coconut milk for regular soup,23,g,0,mg,40,g,3,g,3,g,0,g,0,g,0,g,3,g
+504,thai express,fried dumplings,10,g,15,mg,200,g,17,g,5,g,0,g,0,g,1,g,2,g
+505,thai express,fried rice basil,28,g,0,mg,4070,g,26,g,3,g,0,g,0,g,2,g,21,g
+506,thai express,fried rice basil gf,28,g,0,mg,3320,g,26,g,1,g,0,g,0,g,2,g,18,g
+507,thai express,fried rice basil v,28,g,0,mg,3730,g,31,g,2,g,0,g,0,g,2,g,21,g
+508,thai express,fried rice thai,29,g,0,mg,4080,g,33,g,3,g,0,g,0,g,3,g,26,g
+509,thai express,fried rice thai gf,28,g,0,mg,3330,g,33,g,2,g,0,g,0,g,3,g,23,g
+510,thai express,fried rice thai v,28,g,0,mg,3730,g,38,g,2,g,0,g,0,g,3,g,26,g
+511,thai express,general thai,15,g,0,mg,2160,g,55,g,3,g,0,g,0,g,3,g,46,g
+512,thai express,general thai ger,14,g,30,mg,320,g,54,g,15,g,0,g,0,g,2,g,5,g
+513,thai express,green curry,29,g,0,mg,830,g,19,g,5,g,0,g,0,g,4,g,11,g
+514,thai express,imperial roll,1,g,0,mg,220,g,10,g,2,g,0,g,0,g,1,g,3,g
+515,thai express,king kong chicken,10,g,25,mg,35,g,47,g,13,g,0,g,0,g,2,g,3,g
+516,thai express,lettuce mix subsitute for rice 10 oz,0,g,0,mg,30,g,9,g,3,g,0,g,0,g,3,g,5,g
+517,thai express,mini thai soup,3,g,0,mg,1040,g,8,g,5,g,0,g,0,g,1,g,3,g
+518,thai express,mini tom yum soup,4,g,40,mg,600,g,22,g,4,g,0,g,0,g,1,g,17,g
+519,thai express,noodle for mini soup,0,g,0,mg,10,g,14,g,0,g,0,g,0,g,1,g,0,g
+520,thai express,noodle for pad see ew,0.5,g,0,mg,50,g,61,g,5,g,0,g,0,g,3,g,0,g
+521,thai express,noodle for pad thai,0,g,0,mg,40,g,48,g,4,g,0,g,0,g,2,g,0,g
+522,thai express,noodle for regular soup,0,g,0,mg,40,g,48,g,4,g,0,g,0,g,2,g,0,g
+523,thai express,orange chicken,15,g,0,mg,580,g,36,g,2,g,0,g,0,g,2,g,30,g
+524,thai express,pad see ew,15,g,0,mg,2780,g,35,g,2,g,0,g,0,g,2,g,23,g
+525,thai express,pad see ew gf,29,g,0,mg,1570,g,30,g,1,g,0,g,0,g,2,g,17,g
+526,thai express,pad see ew v,15,g,0,mg,2380,g,39,g,2,g,0,g,0,g,2,g,23,g
+527,thai express,pad thai,42,g,0,mg,2590,g,66,g,23,g,0,g,0,g,4,g,42,g
+528,thai express,pad thai gf,41,g,0,mg,2030,g,62,g,23,g,0,g,0,g,4,g,38,g
+529,thai express,pad thai v,41,g,0,mg,2030,g,62,g,23,g,0,g,0,g,4,g,38,g
+530,thai express,peanut sauce for spring roll,6,g,0,mg,280,g,9,g,2,g,0,g,0,g,1,g,6,g
+531,thai express,peanut sauce for steamed dumplings,9,g,0,mg,190,g,4,g,2,g,0,g,0,g,0,g,4,g
+532,thai express,peanut sauce for stir fry,12,g,0,mg,65,g,4,g,3,g,0,g,0,g,1,g,3,g
+533,thai express,plum sauce,0,g,0,mg,0,g,24,g,0,g,0,g,0,g,0,g,20,g
+534,thai express,protein beef,5,g,45,mg,50,g,0,g,16,g,0,g,0,g,0,g,0,g
+535,thai express,protein chicken,6,g,70,mg,75,g,0,g,23,g,0,g,0,g,0,g,0,g
+536,thai express,protein egg,4,g,145,mg,140,g,0,g,6,g,0,g,0,g,0,g,0,g
+537,thai express,protein fish filet,1,g,20,mg,170,g,0,g,11,g,0,g,0,g,0,g,0,g
+538,thai express,protein general thai chicken,13,g,60,mg,650,g,16,g,23,g,0,g,0,g,0,g,0,g
+539,thai express,protein orange chicken,7,g,80,mg,85,g,0,g,26,g,0,g,0,g,0,g,0,g
+540,thai express,protein shrimp,1,g,155,mg,180,g,0,g,17,g,0,g,0,g,0,g,0,g
+541,thai express,protein tofu,22,g,0,mg,15,g,3,g,21,g,0,g,0,g,3,g,0,g
+542,thai express,red curry,29,g,0,mg,820,g,19,g,5,g,0,g,0,g,4,g,11,g
+543,thai express,rice,0,g,0,mg,0,g,57,g,5,g,0,g,0,g,1,g,1,g
+544,thai express,rice for fried rice,0.5,g,0,mg,0,g,100,g,8,g,0,g,0,g,1,g,2,g
+545,thai express,roasted crushed peanuts,28,g,0,mg,5,g,9,g,14,g,0,g,0,g,5,g,2,g
+546,thai express,shrimp spring roll,2,g,90,mg,180,g,37,g,15,g,0,g,0,g,3,g,1,g
+547,thai express,steamed dumplings,2.5,g,15,mg,200,g,17,g,5,g,0,g,0,g,1,g,2,g
+548,thai express,stir fry basil,15,g,0,mg,1980,g,29,g,3,g,0,g,0,g,2,g,21,g
+549,thai express,stir fry basil gf,15,g,0,mg,1580,g,34,g,3,g,0,g,0,g,3,g,21,g
+550,thai express,stir fry basil v,15,g,0,mg,1580,g,34,g,3,g,0,g,0,g,3,g,21,g
+551,thai express,stir fry cashew,22,g,0,mg,2100,g,30,g,5,g,0,g,0,g,3,g,21,g
+552,thai express,stir fry cashew gf,22,g,0,mg,1440,g,31,g,4,g,0,g,0,g,3,g,19,g
+553,thai express,stir fry cashew v,22,g,0,mg,1700,g,34,g,4,g,0,g,0,g,3,g,21,g
+554,thai express,stir fry chili paste,18,g,115,mg,2370,g,33,g,2,g,0,g,0,g,2,g,27,g
+555,thai express,stir fry chili paste v,14,g,0,mg,1590,g,29,g,2,g,0,g,0,g,2,g,20,g
+556,thai express,stir fry chilli paste gf,18,g,115,mg,1970,g,37,g,2,g,0,g,0,g,2,g,27,g
+557,thai express,stir fry peanut,30,g,0,mg,1580,g,27,g,6,g,0,g,0,g,3,g,21,g
+558,thai express,stir fry peanut gf,30,g,0,mg,1280,g,30,g,6,g,0,g,0,g,3,g,21,g
+559,thai express,stir fry peanut v,30,g,0,mg,1280,g,30,g,6,g,0,g,0,g,3,g,21,g
+560,thai express,stir fry soy garlic,15,g,0,mg,1990,g,31,g,4,g,0,g,0,g,3,g,22,g
+561,thai express,stir fry soy garlic gf,15,g,0,mg,1590,g,35,g,3,g,0,g,0,g,3,g,22,g
+562,thai express,stir fry soy garlic v,15,g,0,mg,1590,g,32,g,3,g,0,g,0,g,3,g,20,g
+563,thai express,stir fry sweet and sour,15,g,0,mg,2160,g,55,g,3,g,0,g,0,g,3,g,46,g
+564,thai express,stir fry sweet and sour gf,14,g,0,mg,1310,g,45,g,3,g,0,g,0,g,3,g,37,g
+565,thai express,stir fry sweet and sour v,14,g,0,mg,1300,g,44,g,2,g,0,g,0,g,3,g,36,g
+566,thai express,sweet chili sauce for imperial roll,0,g,0,mg,1060,g,40,g,0,g,0,g,0,g,0,g,38,g
+567,thai express,thai soup meal,8,g,0,mg,1920,g,19,g,14,g,0,g,0,g,2,g,6,g
+568,thai express,tom yum soup meal,11,g,70,mg,1110,g,47,g,14,g,0,g,0,g,3,g,33,g
+569,thai express,vegetable spring roll,1.5,g,0,mg,75,g,37,g,5,g,0,g,0,g,3,g,1,g
+570,thai express,vegetable baby corn,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,0,g,1,g
+571,thai express,vegetable broccoli,0,g,0,mg,10,g,2,g,1,g,0,g,0,g,1,g,0,g
+572,thai express,vegetable carrot,0,g,0,mg,15,g,2,g,0,g,0,g,0,g,1,g,1,g
+573,thai express,vegetable chinese broccoli,0.5,g,0,mg,5,g,4,g,1,g,0,g,0,g,2,g,1,g
+574,thai express,vegetable green pepper,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,1,g
+575,thai express,vegetable lettuce,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+576,thai express,vegetable napa cabbage,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+577,thai express,vegetable onion,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,1,g,1,g
+578,thai express,vegetable red pepper,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,1,g,1,g
+579,thai express,yellow curry,29,g,0,mg,900,g,30,g,5,g,0,g,0,g,5,g,16,g
+580,the blue pacific grill,3s sauce,1,g,0,mg,230,g,4,g,1,g,0,g,0,g,0,g,2,g
+581,the blue pacific grill,alfredo sauce,10,g,25,mg,450,g,4,g,4,g,6,g,0,g,0,g,1,g
+582,the blue pacific grill,asian bbq sauce,0,g,0,mg,300,g,17,g,0,g,0,g,0,g,0,g,15,g
+583,the blue pacific grill,caribbean jerk sauce,0,g,0,mg,280,g,8,g,0,g,0,g,0,g,0,g,6,g
+584,the blue pacific grill,ginger citrus sauce,0,g,0,mg,230,g,8,g,0,g,0,g,0,g,0,g,7,g
+585,the blue pacific grill,honey garlic soy sauce,0,g,0,mg,100,g,14,g,0,g,0,g,0,g,0,g,13,g
+586,the blue pacific grill,island teriyaki sauce,0,g,0,mg,480,g,412,g,1,g,0,g,0,g,0,g,7,g
+587,the blue pacific grill,lava sauce,0,g,0,mg,340,g,15,g,0,g,0,g,0,g,0,g,14,g
+588,the blue pacific grill,lemon garlic herb sauce,21,g,0,mg,490,g,0,g,0,g,4,g,0,g,0,g,0,g
+589,the blue pacific grill,mango habanero sauce,0,g,0,mg,115,g,6,g,0,g,0,g,0,g,0,g,5,g
+590,the blue pacific grill,roasted tomato sauce,6,g,0,mg,570,g,16,g,2,g,1,g,0,g,1,g,12,g
+591,the blue pacific grill,spicy buffalo sauce,0,g,0,mg,450,g,1,g,0,g,0,g,0,g,0,g,22,g
+592,the blue pacific grill,sweet and sour sauce,0,g,0,mg,95,g,11,g,0,g,0,g,0,g,0,g,9,g
+593,the blue pacific grill,szechuan sauce,2,g,0,mg,380,g,6,g,1,g,0,g,0,g,0,g,3,g
+594,the blue pacific grill,thai peanut sauce,9,g,0,mg,300,g,9,g,1,g,1.5,g,0,g,0,g,7,g
+595,the blue pacific grill,zesty orange sauce,0,g,0,mg,160,g,21,g,30,g,0,g,0,g,0,g,17,g
+596,the capital grille,10 oz filet mignon,29,g,145,mg,500,g,3,g,54,g,13,g,1,g,0,g,0,g
+597,the capital grille,14 oz bone in dry aged strip,39,g,200,mg,580,g,0,g,77,g,16,g,1.5,g,0,g,0,g
+598,the capital grille,14 oz dry aged strip,42,g,220,mg,630,g,0,g,83,g,17,g,1.5,g,0,g,0,g
+599,the capital grille,14 oz dry aged strip au poivre,41,g,255,mg,510,g,5,g,85,g,20,g,2,g,1,g,2,g
+600,the capital grille,20 oz bone in wagyu strip,108,g,345,mg,820,g,2,g,73,g,38,g,4,g,0,g,0,g
+601,the capital grille,22 oz bone in ribeye,72,g,210,mg,1060,g,4,g,80,g,31,g,2,g,0,g,0,g
+602,the capital grille,32 oz dry aged porterhouse steak,81,g,345,mg,600,g,6,g,133,g,35,g,5,g,0,g,0,g
+603,the capital grille,au gratin potatoes,28,g,75,mg,1050,g,27,g,15,g,15,g,1,g,3,g,5,g
+604,the capital grille,baked potato,0,g,0,mg,30,g,63,g,7,g,0,g,0,g,7,g,4,g
+605,the capital grille,black tie margarita,0,g,0,mg,0,g,20,g,0,g,0,g,0,g,0,g,17,g
+606,the capital grille,blackberry bourbon sidecar,0,g,0,mg,0,g,14,g,0,g,0,g,0,g,1,g,12,g
+607,the capital grille,bone in kona crusted strip with shallot butter,65,g,285,mg,1030,g,9,g,85,g,31,g,3,g,1,g,2,g
+608,the capital grille,burrata with heirloom tomatoes,62,g,115,mg,1640,g,50,g,23,g,30,g,1,g,4,g,17,g
+609,the capital grille,caesar salad,27,g,50,mg,690,g,29,g,13,g,10,g,0,g,3,g,1,g
+610,the capital grille,caesar salad with grilled shrimp prawn,32,g,295,mg,1810,g,34,g,39,g,12,g,0,g,5,g,5,g
+611,the capital grille,capital cosmopolitan,0,g,0,mg,10,g,18,g,0,g,0,g,0,g,0,g,17,g
+612,the capital grille,capital gin and tonic,0,g,0,mg,15,g,22,g,0,g,0,g,0,g,0,g,20,g
+613,the capital grille,capital grille inchcobb inch salad with tenderloin,49,g,175,mg,1200,g,21,g,43,g,15,g,0,g,8,g,10,g
+614,the capital grille,cast iron garlic shrimp prawn and crostini,31,g,145,mg,800,g,20,g,17,g,8,g,0,g,1,g,1,g
+615,the capital grille,classic creme brulee,36,g,265,mg,80,g,33,g,4,g,21,g,1.5,g,1,g,26,g
+616,the capital grille,coconut cream pie,49,g,170,mg,440,g,106,g,10,g,32,g,1.5,g,3,g,75,g
+617,the capital grille,cognac brandy,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+618,the capital grille,cold shellfish platter,3.5,g,600,mg,2660,g,24,g,72,g,1,g,0,g,3,g,12,g
+619,the capital grille,cordials cream,0,g,0,mg,0,g,28,g,0,g,0,g,0,g,0,g,28,g
+620,the capital grille,cordials herbal fruit,0,g,0,mg,5,g,19,g,0,g,0,g,0,g,0,g,19,g
+621,the capital grille,creamed spinach,35,g,105,mg,980,g,16,g,10,g,21,g,1,g,5,g,6,g
+622,the capital grille,creamed sweet corn with smoked bacon,31,g,85,mg,520,g,29,g,8,g,17,g,0.5,g,3,g,10,g
+623,the capital grille,creamy horseradish sauce,9,g,35,mg,60,g,4,g,2,g,6,g,0,g,0,g,2,g
+624,the capital grille,crispy chicken sandwich,34,g,200,mg,1400,g,59,g,48,g,10,g,0,g,4,g,12,g
+625,the capital grille,dessert wine,0,g,0,mg,10,g,12,g,0,g,0,g,0,g,0,g,7,g
+626,the capital grille,dirty goose,2.5,g,0,mg,600,g,1,g,1,g,0.5,g,0,g,0,g,0,g
+627,the capital grille,double oaked and rye manhattan,0,g,0,mg,0,g,12,g,0,g,0,g,0,g,0,g,8,g
+628,the capital grille,dry aged sirloin steak frites,61,g,190,mg,2040,g,70,g,76,g,21,g,1.5,g,3,g,10,g
+629,the capital grille,dry martini gin,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+630,the capital grille,dry martini vodka,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+631,the capital grille,field greens with parmesan vinaigrette,18,g,0,mg,450,g,11,g,3,g,3,g,0,g,4,g,6,g
+632,the capital grille,filet mignon 10 oz,29,g,145,mg,500,g,3,g,54,g,13,g,1,g,0,g,0,g
+633,the capital grille,filet mignon 8 oz,23,g,120,mg,400,g,2,g,43,g,11,g,1,g,0,g,0,g
+634,the capital grille,flourless chocolate espresso cake,55,g,210,mg,85,g,62,g,8,g,33,g,1.5,g,6,g,50,g
+635,the capital grille,french green beans with tomatoes,21,g,55,mg,300,g,14,g,3,g,13,g,0.5,g,4,g,7,g
+636,the capital grille,french onion soup crock,40,g,120,mg,3080,g,54,g,39,g,25,g,0,g,4,g,14,g
+637,the capital grille,french onion soup cup,21,g,60,mg,1390,g,28,g,20,g,13,g,0,g,2,g,6,g
+638,the capital grille,grand plateau,44,g,1140,mg,4750,g,28,g,147,g,9,g,0.5,g,4,g,14,g
+639,the capital grille,grappa,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+640,the capital grille,grilled asparagus with lemon mosto,7,g,0,mg,410,g,5,g,3,g,1,g,0,g,2,g,2,g
+641,the capital grille,grilled shrimp prawn with sweet corn polenta,25,g,245,mg,1290,g,19,g,25,g,11,g,0.5,g,2,g,4,g
+642,the capital grille,handcrafted ice cream with almond biscotti,29,g,220,mg,200,g,86,g,14,g,14,g,0.5,g,5,g,66,g
+643,the capital grille,housemade bearnaise,22,g,70,mg,125,g,0,g,1,g,13,g,0,g,0,g,0,g
+644,the capital grille,housemade grapefruit soda,0,g,0,mg,25,g,27,g,0,g,0,g,0,g,0,g,27,g
+645,the capital grille,iced tea,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,0,g
+646,the capital grille,in fashion,0,g,0,mg,0,g,14,g,0,g,0,g,0,g,0,g,14,g
+647,the capital grille,jumbo lump crab cocktail,38,g,145,mg,820,g,3,g,27,g,8,g,0,g,0,g,2,g
+648,the capital grille,lobster and crab burger,42,g,230,mg,1350,g,48,g,39,g,14,g,0,g,3,g,9,g
+649,the capital grille,lobster and crab cakes,36,g,105,mg,780,g,8,g,16,g,8,g,0,g,1,g,3,g
+650,the capital grille,lobster bisque bowl,29,g,125,mg,1070,g,13,g,13,g,16,g,0,g,0,g,3,g
+651,the capital grille,lobster bisque cup,26,g,115,mg,870,g,10,g,13,g,14,g,0,g,0,g,2,g
+652,the capital grille,lobster mac n cheese,57,g,245,mg,1130,g,56,g,25,g,34,g,2,g,3,g,7,g
+653,the capital grille,lollipop lamb chops with herb oil and balsamic,12,g,55,mg,100,g,1,g,19,g,4.5,g,0,g,0,g,1,g
+654,the capital grille,maine lobster salad with citrus vinaigrette,34,g,170,mg,740,g,21,g,25,g,4.5,g,0,g,9,g,10,g
+655,the capital grille,mini tenderloin sliders,20,g,100,mg,380,g,25,g,23,g,12,g,0.5,g,1,g,6,g
+656,the capital grille,mint lemonade,0,g,0,mg,105,g,36,g,0,g,0,g,0,g,0,g,35,g
+657,the capital grille,mojito de uvas,0,g,0,mg,0,g,21,g,0,g,0,g,0,g,0,g,18,g
+658,the capital grille,new england clam chowder bowl,22,g,90,mg,930,g,18,g,9,g,13,g,0,g,1,g,4,g
+659,the capital grille,new england clam chowder cup,16,g,65,mg,650,g,13,g,6,g,9,g,0,g,1,g,3,g
+660,the capital grille,oysters on the half,1,g,15,mg,890,g,24,g,4,g,0,g,0,g,2,g,12,g
+661,the capital grille,pan fried calamari with hot cherry peppers,56,g,365,mg,1780,g,36,g,17,g,19,g,1,g,4,g,4,g
+662,the capital grille,pan seared halibut with miso butter dinner,64,g,275,mg,690,g,11,g,45,g,39,g,2.5,g,3,g,7,g
+663,the capital grille,pan seared sea bass with miso butter dinner,66,g,260,mg,700,g,11,g,46,g,39,g,2.5,g,3,g,7,g
+664,the capital grille,parmesan truffle fries,24,g,5,mg,1130,g,54,g,7,g,4.5,g,0,g,5,g,0,g
+665,the capital grille,parmesan truffle fries lunch entree,18,g,0,mg,860,g,41,g,5,g,3.5,g,0,g,4,g,0,g
+666,the capital grille,pear and gorgonzola salad,42,g,25,mg,460,g,49,g,10,g,8,g,0,g,7,g,33,g
+667,the capital grille,porcini rubbed bone in ribeye,72,g,210,mg,1060,g,5,g,80,g,30,g,2,g,0,g,1,g
+668,the capital grille,port,0,g,0,mg,0,g,11,g,0,g,0,g,0,g,0,g,11,g
+669,the capital grille,prosciutto wrapped mozzarella with tomatoes,29,g,90,mg,930,g,18,g,23,g,16,g,0,g,1,g,2,g
+670,the capital grille,rack of lamb with mint gremolata,35,g,235,mg,800,g,19,g,79,g,18,g,1.5,g,1,g,9,g
+671,the capital grille,ribeye steak sandwich with onions and havarti,59,g,235,mg,1270,g,71,g,91,g,30,g,2,g,3,g,8,g
+672,the capital grille,roasted beet and goat cheese salad,20,g,45,mg,500,g,29,g,8,g,9,g,0,g,4,g,22,g
+673,the capital grille,roasted half chicken baby potatoes olives,35,g,455,mg,1910,g,20,g,107,g,11,g,0,g,4,g,5,g
+674,the capital grille,roasted wild mushrooms,27,g,20,mg,140,g,10,g,5,g,8,g,0,g,3,g,3,g
+675,the capital grille,sams mashed potatoes,36,g,105,mg,960,g,31,g,5,g,23,g,1.5,g,3,g,4,g
+676,the capital grille,sauteed spinach with garlic confit,3,g,0,mg,350,g,7,g,4,g,0,g,0,g,3,g,1,g
+677,the capital grille,scotch,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+678,the capital grille,seared citrus glazed salmon with almonds,48,g,170,mg,480,g,25,g,50,g,16,g,0.5,g,5,g,16,g
+679,the capital grille,seared salmon with avocado mango and tomato,57,g,110,mg,940,g,26,g,38,g,11,g,0,g,10,g,12,g
+680,the capital grille,seared salmon mediterranean couscous,42,g,140,mg,1510,g,37,g,42,g,15,g,0.5,g,2,g,3,g
+681,the capital grille,seared sea scallops with lobster bordelaise,25,g,110,mg,1410,g,19,g,30,g,15,g,0.5,g,3,g,3,g
+682,the capital grille,seasonal fruit sorbet with almond biscotti,14,g,40,mg,120,g,70,g,4,g,7,g,0,g,2,g,39,g
+683,the capital grille,sesame seared tuna with gingered rice dinner,21,g,90,mg,1680,g,42,g,68,g,3.5,g,0,g,0,g,18,g
+684,the capital grille,sesame seared tuna with gingered rice lunch,21,g,70,mg,1610,g,42,g,52,g,3,g,0,g,0,g,18,g
+685,the capital grille,shrimp prawn cocktail,0.5,g,250,mg,1460,g,16,g,26,g,0,g,0,g,2,g,11,g
+686,the capital grille,sirloin with sweet chili vinaigrette wasabi oil,13,g,75,mg,260,g,3,g,29,g,2.5,g,0,g,0,g,2,g
+687,the capital grille,sliced filet mignon with cipollini onions dinner,30,g,150,mg,930,g,23,g,57,g,14,g,1.5,g,3,g,10,g
+688,the capital grille,sliced filet mignon with cipollini onions lunch,25,g,120,mg,840,g,22,g,46,g,12,g,1,g,3,g,10,g
+689,the capital grille,soy glazed brussels sprouts with bacon,49,g,20,mg,920,g,27,g,12,g,7,g,0,g,8,g,15,g
+690,the capital grille,steak tartare,29,g,215,mg,690,g,18,g,18,g,13,g,0,g,1,g,2,g
+691,the capital grille,stoli doli,0,g,0,mg,0,g,8,g,0,g,0,g,0,g,0,g,6,g
+692,the capital grille,strawberries and cream with almond biscotti,29,g,185,mg,125,g,45,g,8,g,15,g,1,g,5,g,26,g
+693,the capital grille,sweet corn bisque with creme fraiche bowl,21,g,55,mg,1830,g,40,g,8,g,12,g,0.5,g,4,g,15,g
+694,the capital grille,sweet corn bisque with creme fraiche cup,17,g,45,mg,1310,g,29,g,6,g,10,g,0.5,g,3,g,11,g
+695,the capital grille,tartar sauce,35,g,25,mg,510,g,2,g,1,g,5,g,0,g,0,g,1,g
+696,the capital grille,tenderloin with butter poached lobster tails,30,g,365,mg,940,g,0,g,74,g,16,g,1,g,0,g,0,g
+697,the capital grille,tequila,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+698,the capital grille,the bohemian,0,g,0,mg,5,g,8,g,0,g,0,g,0,g,0,g,8,g
+699,the capital grille,the capital grille cheesecake,62,g,275,mg,650,g,110,g,15,g,36,g,2.5,g,10,g,88,g
+700,the capital grille,the french 75,0,g,0,mg,0,g,13,g,0,g,0,g,0,g,0,g,12,g
+701,the capital grille,the grilles signature cheeseburger,57,g,215,mg,1720,g,61,g,53,g,28,g,1.5,g,4,g,25,g
+702,the capital grille,tuna nicoise salad,41,g,280,mg,1510,g,22,g,52,g,9,g,0,g,5,g,5,g
+703,the capital grille,tuna tartare with avocado mango and sriracha,3,g,20,mg,530,g,9,g,16,g,0.5,g,0,g,1,g,4,g
+704,the capital grille,veal tomahawk chop wuth gorgonzola butter,43,g,410,mg,930,g,29,g,94,g,20,g,0.5,g,1,g,23,g
+705,the capital grille,warm apple crostata with ice cream,56,g,160,mg,760,g,140,g,13,g,30,g,1,g,4,g,77,g
+706,the capital grille,warm double chocolate cake with ice cream,55,g,215,mg,410,g,182,g,15,g,20,g,1,g,11,g,144,g
+707,the capital grille,wedge salad with bleu cheese and bacon,54,g,80,mg,1200,g,12,g,18,g,74,g,0.5,g,4,g,8,g
+708,the capital grille,whiskey bourbon,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+709,the capital grille,wine red 15l,0,g,0,mg,0,g,43,g,1,g,0,g,0,g,0,g,10,g
+710,the capital grille,wine red 3l,0,g,0,mg,0,g,85,g,2,g,0,g,0,g,0,g,20,g
+711,the capital grille,wine red 6 oz,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,1,g
+712,the capital grille,wine sparkling 5 oz,0,g,0,mg,5,g,8,g,0,g,0,g,0,g,0,g,8,g
+713,the capital grille,wine white 15l,0,g,0,mg,75,g,32,g,1,g,0,g,0,g,0,g,14,g
+714,the capital grille,wine white 3l,0,g,0,mg,150,g,64,g,2,g,0,g,0,g,0,g,29,g
+715,the capital grille,wine white 6 oz,0,g,0,mg,10,g,4,g,0,g,0,g,0,g,0,g,2,g
+716,the chop house,1 2 skewer shrimp,46,g,550,mg,1440,g,29,g,77,g,8,g,10,g,2,g,1,g
+717,the chop house,angus chopped steak lunch,32,g,140,mg,1390,g,8,g,41,g,11,g,1,g,1,g,4,g
+718,the chop house,anthony medallions 6 oz,38,g,155,mg,1110,g,14,g,38,g,13,g,1.5,g,1,g,3,g
+719,the chop house,anthony medallions 9 oz,54,g,230,mg,1380,g,18,g,56,g,18,g,2,g,1,g,4,g
+720,the chop house,asparagus side,15,g,0,mg,230,g,5,g,3,g,2.5,g,3.5,g,3,g,2,g
+721,the chop house,bacon jam medallions 6 oz,21,g,100,mg,500,g,6,g,36,g,6,g,0,g,0,g,5,g
+722,the chop house,bacon jam medallions 9 oz,31,g,145,mg,750,g,9,g,55,g,8,g,0,g,0,g,7,g
+723,the chop house,baked potato soup bowl,18,g,50,mg,1200,g,21,g,8,g,8,g,1.5,g,2,g,5,g
+724,the chop house,baked potato soup cup,13,g,35,mg,790,g,13,g,6,g,6,g,1,g,1,g,3,g
+725,the chop house,balsamic vinaigrette 2 oz,24,g,0,mg,430,g,10,g,0,g,4,g,0,g,0,g,5,g
+726,the chop house,balsamic vinaigrette 4 oz,48,g,0,mg,870,g,20,g,0,g,8,g,0,g,0,g,9,g
+727,the chop house,bearnaise sauce,10,g,60,mg,280,g,5,g,1,g,5,g,0.5,g,0,g,1,g
+728,the chop house,beignets,77,g,20,mg,1360,g,196,g,25,g,33,g,0,g,4,g,81,g
+729,the chop house,beyond burger,64,g,55,mg,2290,g,74,g,51,g,20,g,1,g,7,g,9,g
+730,the chop house,black bean soup bowl,4.5,g,10,mg,660,g,29,g,12,g,2.5,g,0,g,10,g,2,g
+731,the chop house,black bean soup cup,4,g,10,mg,430,g,18,g,7,g,2,g,0,g,6,g,2,g
+732,the chop house,blue bacon burger,81,g,175,mg,1980,g,45,g,56,g,37,g,1.5,g,3,g,6,g
+733,the chop house,blue butter medallions 6 oz,30,g,110,mg,800,g,6,g,40,g,10,g,0.5,g,1,g,2,g
+734,the chop house,blue butter medallions 9 oz,39,g,160,mg,850,g,6,g,58,g,12,g,0.5,g,1,g,2,g
+735,the chop house,blue cheese butter,32,g,20,mg,390,g,1,g,4,g,20,g,0,g,0,g,0,g
+736,the chop house,blue cheese butter and merlot glaze,18,g,15,mg,220,g,8,g,2,g,12,g,0,g,0,g,7,g
+737,the chop house,blue cheese dressing 2 oz,23,g,40,mg,430,g,2,g,4,g,7,g,0,g,0,g,2,g
+738,the chop house,blue cheese dressing 4 oz,46,g,80,mg,860,g,5,g,8,g,14,g,0,g,0,g,3,g
+739,the chop house,blue merlot medallions 6 oz,29,g,105,mg,540,g,6,g,36,g,12,g,0,g,0,g,5,g
+740,the chop house,blue merlot medallions 9 oz,43,g,155,mg,810,g,10,g,55,g,17,g,0,g,0,g,8,g
+741,the chop house,bourbon bacon jam,8,g,10,mg,260,g,14,g,4,g,2.5,g,0,g,0,g,11,g
+742,the chop house,boursin medallions 6 oz,39,g,130,mg,1000,g,19,g,40,g,15,g,0,g,2,g,6,g
+743,the chop house,boursin medallions 9 oz,48,g,175,mg,1200,g,19,g,57,g,17,g,0,g,2,g,6,g
+744,the chop house,brisket philly sandwich,106,g,160,mg,4080,g,136,g,59,g,37,g,1,g,9,g,29,g
+745,the chop house,broccoli cheese soup bowl,23,g,50,mg,1160,g,15,g,12,g,11,g,2,g,2,g,7,g
+746,the chop house,broccoli cheese soup cup,15,g,35,mg,720,g,9,g,8,g,7,g,1,g,1,g,4,g
+747,the chop house,burger with american cheese,47,g,180,mg,2730,g,46,g,55,g,20,g,2,g,3,g,7,g
+748,the chop house,burgundy mushrooms,8,g,0,mg,470,g,6,g,3,g,1.5,g,1.5,g,1,g,2,g
+749,the chop house,burgundy mushrooms side,8,g,0,mg,470,g,6,g,3,g,1.5,g,1.5,g,1,g,2,g
+750,the chop house,caesar dressing 2 oz,18,g,15,mg,260,g,1,g,3,g,4,g,0,g,0,g,0,g
+751,the chop house,caesar dressing 4 oz,36,g,30,mg,520,g,1,g,6,g,8,g,0,g,0,g,0,g
+752,the chop house,caesar salad,6,g,5,mg,390,g,20,g,7,g,1,g,0,g,2,g,1,g
+753,the chop house,caramel cookie,41,g,125,mg,1200,g,127,g,9,g,28,g,1,g,1,g,83,g
+754,the chop house,caramel fudge cake full,32,g,150,mg,560,g,219,g,10,g,18,g,0,g,4,g,179,g
+755,the chop house,caramel fudge cake half,16,g,75,mg,280,g,110,g,5,g,9,g,0,g,2,g,90,g
+756,the chop house,champagne vinaigrette 2 oz,26,g,0,mg,100,g,9,g,0,g,2,g,0,g,0,g,7,g
+757,the chop house,champagne vinaigrette 4 oz,52,g,0,mg,210,g,17,g,1,g,5,g,0,g,0,g,15,g
+758,the chop house,cheesecake,65,g,230,mg,430,g,82,g,17,g,41,g,0,g,2,g,50,g
+759,the chop house,chicken fried chicken with mashed potatoes lunch,29,g,145,mg,2940,g,54,g,61,g,7,g,1,g,4,g,8,g
+760,the chop house,chicken mushroom soup bowl,21,g,70,mg,1050,g,12,g,15,g,8,g,2,g,1,g,5,g
+761,the chop house,chicken mushroom soup cup,13,g,45,mg,650,g,8,g,10,g,6,g,1.5,g,1,g,3,g
+762,the chop house,chicken pasta,122,g,315,mg,1470,g,83,g,60,g,71,g,2.5,g,6,g,8,g
+763,the chop house,chicken pasta small plate,80,g,215,mg,780,g,53,g,36,g,50,g,0,g,4,g,4,g
+764,the chop house,chicken poblano soup bowl,46,g,175,mg,1530,g,21,g,18,g,11,g,0,g,3,g,5,g
+765,the chop house,chicken poblano soup cup,28,g,105,mg,920,g,13,g,11,g,7,g,0,g,2,g,3,g
+766,the chop house,chicken taco lunch,25,g,40,mg,1080,g,51,g,17,g,5,g,0,g,5,g,13,g
+767,the chop house,chicken tenders,47,g,140,mg,3460,g,69,g,44,g,7,g,0,g,14,g,33,g
+768,the chop house,chicken tenders small plate,31,g,85,mg,2200,g,44,g,26,g,4.5,g,0,g,9,g,22,g
+769,the chop house,chicken tortilla soup bowl,18,g,30,mg,870,g,17,g,12,g,4,g,0,g,2,g,2,g
+770,the chop house,chicken tortilla soup cup,12,g,20,mg,570,g,15,g,8,g,3,g,0,g,1,g,1,g
+771,the chop house,chopped salad,21,g,45,mg,730,g,23,g,14,g,9,g,0,g,7,g,6,g
+772,the chop house,cinnamon apples side,2.5,g,0,mg,80,g,38,g,0,g,0,g,0,g,1,g,33,g
+773,the chop house,clam chowder bowl,20,g,75,mg,1030,g,25,g,10,g,11,g,0,g,1,g,4,g
+774,the chop house,clam chowder cup,12,g,45,mg,620,g,15,g,6,g,7,g,0,g,1,g,2,g
+775,the chop house,coke,0,g,0,mg,10,g,45,g,0,g,0,g,0,g,0,g,45,g
+776,the chop house,crab cake,2.5,g,105,mg,590,g,14,g,17,g,1.5,g,0,g,1,g,2,g
+777,the chop house,crab cake lunch,48,g,245,mg,1610,g,31,g,34,g,9,g,0,g,2,g,5,g
+778,the chop house,crab cakes,48,g,245,mg,1610,g,31,g,34,g,9,g,0,g,2,g,5,g
+779,the chop house,crab cakes small plate,41,g,140,mg,1020,g,17,g,17,g,7,g,0,g,2,g,4,g
+780,the chop house,creamed spinach side,30,g,90,mg,540,g,7,g,5,g,17,g,1,g,1,g,1,g
+781,the chop house,creme corn brulee side,15,g,120,mg,210,g,33,g,5,g,9,g,0,g,3,g,14,g
+782,the chop house,crispy calamari and shrimp,40,g,465,mg,3170,g,53,g,47,g,7,g,0,g,3,g,17,g
+783,the chop house,crispy chicken salad,39,g,160,mg,2280,g,49,g,53,g,18,g,1.5,g,6,g,7,g
+784,the chop house,crispy chicken salad small plate,20,g,90,mg,1310,g,28,g,31,g,9,g,1,g,4,g,4,g
+785,the chop house,deviled eggs,31,g,650,mg,800,g,19,g,23,g,10,g,0,g,1,g,15,g
+786,the chop house,deviled eggs side,15,g,325,mg,400,g,9,g,11,g,5,g,0,g,0,g,8,g
+787,the chop house,diet coke,0,g,0,mg,15,g,0,g,0,g,0,g,0,g,0,g,0,g
+788,the chop house,dinner bread half,8,g,0,mg,800,g,160,g,25,g,0,g,0,g,10,g,25,g
+789,the chop house,english toffee ice cream 1 scoop,7,g,20,mg,45,g,12,g,1,g,4,g,0,g,0,g,9,g
+790,the chop house,english toffee ice cream 2 scoop,14,g,40,mg,85,g,24,g,3,g,8,g,0,g,0,g,18,g
+791,the chop house,filet steak 6 oz,47,g,110,mg,650,g,1,g,34,g,15,g,2.5,g,0,g,0,g
+792,the chop house,filet steak 9 oz,56,g,165,mg,970,g,1,g,51,g,20,g,1.5,g,0,g,0,g
+793,the chop house,french fries side,15,g,0,mg,570,g,47,g,5,g,4,g,0,g,2,g,0,g
+794,the chop house,fresh fruit medley side,0.5,g,0,mg,0,g,16,g,1,g,0,g,0,g,4,g,9,g
+795,the chop house,grilled chicken,69,g,130,mg,560,g,4,g,53,g,1,g,0,g,0,g,4,g
+796,the chop house,grilled chicken caesar salad,16,g,75,mg,1060,g,42,g,41,g,2.5,g,0,g,4,g,4,g
+797,the chop house,grilled chicken parm lunch,16,g,100,mg,850,g,31,g,40,g,8,g,0,g,2,g,7,g
+798,the chop house,grilled chicken parmesan,31,g,195,mg,1640,g,63,g,78,g,14,g,0,g,4,g,13,g
+799,the chop house,grilled chicken salad,17,g,30,mg,1180,g,59,g,22,g,4.5,g,1.5,g,7,g,12,g
+800,the chop house,grilled chicken salad small plate,11,g,40,mg,790,g,40,g,22,g,3,g,1,g,5,g,9,g
+801,the chop house,grilled chicken sandwich,45,g,205,mg,2160,g,48,g,78,g,16,g,1,g,3,g,9,g
+802,the chop house,grilled rainbow trout lunch,15,g,65,mg,920,g,37,g,28,g,3.5,g,1,g,3,g,6,g
+803,the chop house,grilled salmon caesar salad,66,g,175,mg,1220,g,41,g,71,g,12,g,5,g,5,g,3,g
+804,the chop house,grilled shrimp,55,g,1105,mg,2280,g,56,g,154,g,10,g,10,g,3,g,2,g
+805,the chop house,grilled shrimp small plate,46,g,550,mg,1440,g,29,g,77,g,8,g,10,g,2,g,1,g
+806,the chop house,gumbo soup bowl,11,g,25,mg,1160,g,23,g,12,g,2.5,g,0,g,3,g,6,g
+807,the chop house,gumbo soup cup,7,g,15,mg,710,g,15,g,7,g,1.5,g,0,g,2,g,4,g
+808,the chop house,half brisket sandwich lunch,58,g,80,mg,2040,g,68,g,30,g,19,g,0.5,g,5,g,15,g
+809,the chop house,half chicken sandwich lunch,20,g,100,mg,1020,g,24,g,39,g,8,g,0.5,g,2,g,4,g
+810,the chop house,half loaf with honey butter,22,g,0,mg,940,g,163,g,25,g,2.5,g,3,g,10,g,28,g
+811,the chop house,half reuben lunch,28,g,55,mg,2250,g,56,g,29,g,8,g,1,g,4,g,10,g
+812,the chop house,honey mustard dressing 2 oz,27,g,25,mg,550,g,11,g,0,g,3.5,g,0,g,0,g,10,g
+813,the chop house,honey mustard dressing 4 oz,54,g,50,mg,1100,g,22,g,0,g,7,g,0,g,0,g,20,g
+814,the chop house,horseradish crust,14,g,10,mg,280,g,14,g,3,g,9,g,0,g,1,g,2,g
+815,the chop house,horseradish filet steak 6 oz,61,g,120,mg,930,g,15,g,37,g,23,g,2.5,g,1,g,2,g
+816,the chop house,horseradish filet steak 9 oz,70,g,175,mg,800,g,15,g,54,g,28,g,1.5,g,1,g,2,g
+817,the chop house,house salad,9,g,25,mg,350,g,13,g,8,g,4.5,g,0,g,3,g,4,g
+818,the chop house,ibc root beer,0,g,0,mg,55,g,43,g,0,g,0,g,0,g,0,g,43,g
+819,the chop house,key lime pie,23,g,25,mg,290,g,79,g,8,g,12,g,3,g,0,g,62,g
+820,the chop house,kids bbq ribs,33,g,110,mg,1120,g,23,g,22,g,12,g,0,g,10,g,15,g
+821,the chop house,kids cheese burger,24,g,85,mg,1080,g,31,g,29,g,10,g,1,g,1,g,1,g
+822,the chop house,kids cheese pizza,22,g,50,mg,1540,g,98,g,28,g,10,g,0,g,4,g,10,g
+823,the chop house,kids chicken tenders,41,g,50,mg,1170,g,47,g,15,g,6,g,0,g,2,g,11,g
+824,the chop house,kids french fries,7,g,0,mg,250,g,20,g,2,g,1.5,g,0,g,1,g,0,g
+825,the chop house,kids grilled chicken,16,g,75,mg,1310,g,32,g,32,g,4,g,1,g,3,g,4,g
+826,the chop house,kids grilled pork chop,37,g,140,mg,550,g,1,g,46,g,11,g,1.5,g,0,g,0,g
+827,the chop house,kids macaroni and cheese,20,g,30,mg,1480,g,40,g,13,g,8,g,0,g,1,g,8,g
+828,the chop house,kids pizza with pepperoni,26,g,60,mg,1690,g,98,g,30,g,12,g,0,g,4,g,10,g
+829,the chop house,kids potato stars,18,g,0,mg,770,g,42,g,3,g,2.5,g,0,g,5,g,0,g
+830,the chop house,kids spaghetti with marinara,6,g,5,mg,820,g,60,g,11,g,1,g,0,g,3,g,11,g
+831,the chop house,lamb chops,102,g,450,mg,700,g,53,g,125,g,47,g,0,g,0,g,48,g
+832,the chop house,lamb chops small plate,70,g,300,mg,770,g,32,g,83,g,32,g,0,g,0,g,28,g
+833,the chop house,lemonade,0,g,0,mg,70,g,43,g,0,g,0,g,0,g,0,g,43,g
+834,the chop house,loaded baked potato side,13,g,45,mg,340,g,71,g,15,g,7,g,0,g,5,g,4,g
+835,the chop house,lobster tail,66,g,325,mg,260,g,1,g,38,g,41,g,2.5,g,1,g,0,g
+836,the chop house,lobster tail topper,66,g,325,mg,260,g,1,g,38,g,41,g,2.5,g,1,g,0,g
+837,the chop house,mac and cheese side,13,g,20,mg,930,g,25,g,8,g,4.5,g,0,g,1,g,5,g
+838,the chop house,mashed potatoes side,13,g,5,mg,1030,g,30,g,4,g,3.5,g,1,g,3,g,2,g
+839,the chop house,mello yello,0,g,0,mg,15,g,48,g,0,g,0,g,0,g,0,g,48,g
+840,the chop house,moussecake,56,g,85,mg,450,g,72,g,8,g,35,g,0,g,1,g,50,g
+841,the chop house,mozzarella sticks,30,g,60,mg,2220,g,61,g,31,g,15,g,0,g,4,g,10,g
+842,the chop house,n y strip steak 14 oz,83,g,265,mg,630,g,1,g,94,g,31,g,1.5,g,0,g,0,g
+843,the chop house,onion ring,2,g,0,mg,180,g,18,g,3,g,0,g,0,g,1,g,3,g
+844,the chop house,onion rings full,58,g,40,mg,2400,g,176,g,24,g,9,g,0,g,10,g,37,g
+845,the chop house,onion rings half,37,g,25,mg,1430,g,100,g,13,g,6,g,0,g,6,g,22,g
+846,the chop house,oscar medallions 6 oz,24,g,175,mg,440,g,7,g,37,g,6,g,0,g,1,g,13,g
+847,the chop house,oscar medallions 9 oz,33,g,220,mg,490,g,7,g,54,g,8,g,0,g,1,g,13,g
+848,the chop house,peach tea,0,g,0,mg,15,g,35,g,0,g,0,g,0,g,0,g,35,g
+849,the chop house,peppercorn medallions 6 oz,22,g,95,mg,830,g,5,g,36,g,6,g,0.5,g,1,g,2,g
+850,the chop house,peppercorn medallions 9 oz,31,g,145,mg,1030,g,6,g,54,g,8,g,0.5,g,1,g,2,g
+851,the chop house,petite chops,75,g,275,mg,1150,g,24,g,46,g,21,g,3,g,1,g,20,g
+852,the chop house,petite chops small plate,38,g,140,mg,600,g,23,g,46,g,11,g,1.5,g,1,g,20,g
+853,the chop house,pibb xtra,0,g,0,mg,25,g,43,g,0,g,0,g,0,g,0,g,43,g
+854,the chop house,pizza florentine,55,g,170,mg,1250,g,40,g,32,g,32,g,1,g,3,g,4,g
+855,the chop house,pizza florentine with chicken,57,g,200,mg,1390,g,41,g,45,g,32,g,1,g,3,g,5,g
+856,the chop house,pork chop,64,g,275,mg,740,g,54,g,93,g,20,g,1.5,g,1,g,43,g
+857,the chop house,prime rib chili bowl,23,g,55,mg,1310,g,28,g,20,g,9,g,0,g,8,g,5,g
+858,the chop house,prime rib chili cup,16,g,40,mg,810,g,17,g,13,g,6,g,0,g,5,g,3,g
+859,the chop house,prime rib sandwich,42,g,115,mg,1650,g,52,g,39,g,16,g,0,g,3,g,7,g
+860,the chop house,prime rib steak 12 oz,76,g,225,mg,1930,g,4,g,61,g,30,g,0,g,1,g,1,g
+861,the chop house,prime rib steak 16 oz,101,g,300,mg,2440,g,5,g,81,g,40,g,0,g,1,g,1,g
+862,the chop house,prime rib steak 8 oz,51,g,150,mg,1420,g,4,g,41,g,20,g,0,g,1,g,1,g
+863,the chop house,prime rib vegetable soup bowl,16,g,30,mg,1070,g,14,g,10,g,5,g,1.5,g,2,g,4,g
+864,the chop house,prime rib vegetable soup cup,10,g,20,mg,670,g,8,g,7,g,3.5,g,1,g,1,g,3,g
+865,the chop house,queso and chips,28,g,60,mg,1500,g,59,g,22,g,13,g,0,g,9,g,12,g
+866,the chop house,ranch dressing 2 oz,22,g,20,mg,500,g,2,g,1,g,3,g,0,g,0,g,2,g
+867,the chop house,ranch dressing 4 oz,45,g,40,mg,990,g,4,g,2,g,6,g,0,g,0,g,3,g
+868,the chop house,raspberry vinaigrette 2 oz,4.5,g,0,mg,510,g,18,g,0,g,0.5,g,0,g,0,g,13,g
+869,the chop house,raspberry vinaigrette 4 oz,9,g,0,mg,1020,g,36,g,0,g,1,g,0,g,0,g,26,g
+870,the chop house,rib and chicken combo,74,g,355,mg,2870,g,72,g,97,g,25,g,0,g,21,g,54,g
+871,the chop house,ribeye steak 10 oz,58,g,355,mg,550,g,1,g,75,g,20,g,1.5,g,0,g,0,g
+872,the chop house,ribeye steak 14 oz,77,g,500,mg,610,g,1,g,106,g,27,g,1.5,g,0,g,0,g
+873,the chop house,ribs full,93,g,315,mg,1150,g,36,g,63,g,34,g,0,g,6,g,29,g
+874,the chop house,ribs half,47,g,155,mg,600,g,29,g,31,g,17,g,0,g,4,g,24,g
+875,the chop house,rice side,3.5,g,0,mg,500,g,30,g,4,g,1.5,g,0,g,1,g,3,g
+876,the chop house,salmon,53,g,165,mg,440,g,1,g,57,g,10,g,5,g,1,g,0,g
+877,the chop house,santa fe dressing 2 oz,24,g,30,mg,330,g,3,g,1,g,4.5,g,0,g,1,g,2,g
+878,the chop house,santa fe dressing 4 oz,48,g,55,mg,660,g,5,g,2,g,9,g,0,g,1,g,3,g
+879,the chop house,santa fe salad,19,g,95,mg,990,g,54,g,43,g,6,g,0,g,11,g,14,g
+880,the chop house,santa fe salad small plate,8,g,15,mg,360,g,27,g,9,g,2.5,g,0,g,6,g,7,g
+881,the chop house,sauteed onions,2,g,0,mg,20,g,4,g,0,g,0,g,0,g,1,g,2,g
+882,the chop house,scallops rockefeller,24,g,85,mg,620,g,18,g,19,g,12,g,1,g,2,g,3,g
+883,the chop house,scampi filet steak 6 oz,44,g,190,mg,540,g,7,g,45,g,20,g,0,g,0,g,0,g
+884,the chop house,scampi filet steak 9 oz,70,g,250,mg,820,g,14,g,63,g,33,g,0,g,1,g,0,g
+885,the chop house,schrod,67,g,115,mg,1100,g,24,g,38,g,11,g,5,g,1,g,4,g
+886,the chop house,seafood pasta,135,g,455,mg,1710,g,84,g,56,g,83,g,1,g,6,g,17,g
+887,the chop house,seafood pasta small plate,88,g,260,mg,860,g,54,g,31,g,55,g,0,g,4,g,7,g
+888,the chop house,shrimp and crab cake,87,g,690,mg,2460,g,45,g,95,g,15,g,10,g,3,g,5,g
+889,the chop house,shrimp appetizer,55,g,1105,mg,2280,g,56,g,154,g,10,g,10,g,3,g,2,g
+890,the chop house,shrimp bisque bowl,32,g,170,mg,1350,g,17,g,17,g,20,g,0,g,1,g,9,g
+891,the chop house,shrimp bisque cup,19,g,100,mg,810,g,11,g,10,g,12,g,0,g,1,g,5,g
+892,the chop house,shrimp cocktail,3,g,230,mg,1190,g,20,g,32,g,0.5,g,0,g,2,g,14,g
+893,the chop house,shrimp scampi,24,g,85,mg,730,g,14,g,13,g,15,g,0,g,1,g,1,g
+894,the chop house,sirloin steak 7 oz,33,g,105,mg,400,g,1,g,40,g,12,g,0,g,0,g,0,g
+895,the chop house,sirloin steak 9 oz,51,g,145,mg,540,g,1,g,57,g,18,g,1.5,g,0,g,0,g
+896,the chop house,smoked salmon dip,62,g,95,mg,1190,g,19,g,25,g,12,g,0,g,2,g,4,g
+897,the chop house,snap peas side,18,g,15,mg,160,g,11,g,3,g,7,g,3,g,3,g,4,g
+898,the chop house,sprite,0,g,0,mg,35,g,43,g,0,g,0,g,0,g,0,g,43,g
+899,the chop house,steamed broccoli side,18,g,15,mg,190,g,6,g,3,g,7,g,3,g,2,g,2,g
+900,the chop house,sweet potato french fries side,22,g,0,mg,400,g,49,g,2,g,5,g,0,g,5,g,19,g
+901,the chop house,sweet potato with topping side,16,g,0,mg,400,g,94,g,7,g,3,g,3.5,g,14,g,21,g
+902,the chop house,t bone steak 20 oz,87,g,280,mg,640,g,1,g,86,g,32,g,1.5,g,0,g,0,g
+903,the chop house,tamale cakes,87,g,80,mg,2690,g,133,g,14,g,16,g,7,g,13,g,54,g
+904,the chop house,tenderloin caesar salad,39,g,140,mg,1990,g,47,g,58,g,13,g,0,g,5,g,6,g
+905,the chop house,tenderloin caesar salad small plate,17,g,70,mg,680,g,23,g,29,g,6,g,0,g,3,g,3,g
+906,the chop house,teriyaki chicken,10,g,130,mg,2180,g,36,g,53,g,2,g,0,g,1,g,27,g
+907,the chop house,tomato dill soup bowl,15,g,30,mg,1250,g,19,g,3,g,6,g,16,g,2,g,9,g
+908,the chop house,tomato dill soup cup,10,g,20,mg,790,g,12,g,2,g,4,g,1,g,1,g,6,g
+909,the chop house,turkey and dressing lunch,9,g,55,mg,2350,g,45,g,33,g,2.5,g,0,g,1,g,20,g
+910,the chop house,tuscan bean soup bowl,13,g,15,mg,1130,g,19,g,8,g,2.5,g,0,g,4,g,1,g
+911,the chop house,tuscan bean soup cup,8,g,10,mg,680,g,11,g,5,g,1.5,g,0,g,2,g,1,g
+912,the chop house,vanilla ice cream 1 scoop,6,g,20,mg,35,g,11,g,1,g,4,g,0,g,0,g,8,g
+913,the chop house,vanilla ice cream 2 scoop,13,g,45,mg,70,g,22,g,3,g,8,g,0,g,0,g,16,g
+914,the chop house,voodoo chicken tacos,49,g,75,mg,2160,g,102,g,33,g,10,g,0,g,9,g,25,g
+915,the chop house,wedge salad,10,g,35,mg,480,g,7,g,9,g,6,g,0,g,3,g,4,g
+916,the chopped leaf,10 inch kids tortilla,5,g,0,mg,440,g,29,g,6,g,0,g,0,g,3,g,0,g
+917,the chopped leaf,12 inch tortilla,8,g,0,mg,710,g,47,g,9,g,1,g,0,g,5,g,0,g
+918,the chopped leaf,add 2 eggs,11,g,0,mg,125,g,1,g,13,g,3.5,g,0,g,0,g,1,g
+919,the chopped leaf,add chicken,2,g,0,mg,360,g,1,g,22,g,0,g,0,g,0,g,0,g
+920,the chopped leaf,add prawns,0.5,g,0,mg,290,g,0,g,12,g,0,g,0,g,0,g,0,g
+921,the chopped leaf,add quinoa,2.5,g,0,mg,135,g,15,g,4,g,0,g,0,g,2,g,2,g
+922,the chopped leaf,add rice,1.5,g,0,mg,75,g,15,g,2,g,0,g,0,g,0,g,0,g
+923,the chopped leaf,add tofu,3,g,0,mg,90,g,1,g,5,g,0.5,g,0,g,0,g,0,g
+924,the chopped leaf,add tuna,23,g,0,mg,250,g,1,g,25,g,2,g,0,g,0,g,1,g
+925,the chopped leaf,add wild salmon,12,g,0,mg,35,g,0,g,17,g,2.5,g,0,g,0,g,0,g
+926,the chopped leaf,african spiced lentil soup,0.5,g,0,mg,340,g,16,g,5,g,0,g,0,g,2,g,6,g
+927,the chopped leaf,apples,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+928,the chopped leaf,avocado,2.5,g,0,mg,0,g,0,g,0,g,0.5,g,0,g,0,g,0,g
+929,the chopped leaf,bacon bits,3,g,0,mg,0,g,0,g,4,g,1,g,0,g,0,g,0,g
+930,the chopped leaf,baja breakfast wrap,25,g,0,mg,910,g,38,g,27,g,9,g,0,g,6,g,3,g
+931,the chopped leaf,baja quesadilla,24,g,0,mg,1250,g,50,g,34,g,9,g,0,g,7,g,3,g
+932,the chopped leaf,balsamic dressing,8,g,0,mg,85,g,1,g,0,g,1,g,0,g,0,g,1,g
+933,the chopped leaf,bangkok full salad,15,g,0,mg,110,g,76,g,21,g,2.5,g,0,g,7,g,8,g
+934,the chopped leaf,bangkok starter salad,8,g,0,mg,80,g,40,g,11,g,1.5,g,0,g,4,g,4,g
+935,the chopped leaf,bangkok wrap,25,g,0,mg,1070,g,91,g,21,g,4,g,0,g,10,g,9,g
+936,the chopped leaf,bbq quesadilla,22,g,0,mg,1260,g,50,g,33,g,9,g,0,g,7,g,6,g
+937,the chopped leaf,black bean corn salsa,3.5,g,0,mg,170,g,15,g,4,g,0.5,g,0,g,4,g,3,g
+938,the chopped leaf,broccoli cheddar soup,11,g,0,mg,630,g,9,g,7,g,5,g,0,g,1,g,3,g
+939,the chopped leaf,caesar full salad,14,g,0,mg,290,g,21,g,18,g,6,g,0,g,4,g,3,g
+940,the chopped leaf,caesar starter salad,8,g,0,mg,200,g,14,g,10,g,3,g,0,g,3,g,2,g
+941,the chopped leaf,caesar wrap,33,g,0,mg,1060,g,59,g,20,g,5,g,0,g,8,g,3,g
+942,the chopped leaf,caeser dressing,9,g,0,mg,90,g,1,g,1,g,0.5,g,0,g,0,g,1,g
+943,the chopped leaf,cauliflower soup,9,g,0,mg,330,g,6,g,2,g,5,g,0,g,1,g,3,g
+944,the chopped leaf,cheddar cheese,4.5,g,0,mg,110,g,0,g,3,g,3,g,0,g,0,g,0,g
+945,the chopped leaf,chick peas,1,g,0,mg,0,g,8,g,2,g,0,g,0,g,2,g,1,g
+946,the chopped leaf,chili soup,3.5,g,0,mg,200,g,18,g,5,g,0,g,0,g,5,g,7,g
+947,the chopped leaf,chipotle lime citrus dressing,11,g,0,mg,40,g,0,g,0,g,1,g,0,g,0,g,0,g
+948,the chopped leaf,chipotle ranch dressing,9,g,0,mg,140,g,1,g,0,g,1.5,g,0,g,0,g,0,g
+949,the chopped leaf,chowmein,1,g,0,mg,210,g,29,g,5,g,0,g,0,g,0,g,0,g
+950,the chopped leaf,crab corn chowder soup,14,g,0,mg,700,g,13,g,6,g,5,g,0,g,1,g,6,g
+951,the chopped leaf,cranberry pesto sandwich,27,g,0,mg,930,g,47,g,35,g,10,g,0,g,5,g,14,g
+952,the chopped leaf,creamy lemon dill dressing,9,g,0,mg,85,g,1,g,0,g,0.5,g,0,g,0,g,0,g
+953,the chopped leaf,croutons,2,g,0,mg,135,g,8,g,1,g,0,g,0,g,1,g,0,g
+954,the chopped leaf,cucumber,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,1,g
+955,the chopped leaf,evil peanut dressing,5,g,0,mg,170,g,4,g,1,g,1,g,0,g,0,g,3,g
+956,the chopped leaf,farmer breakfast wrap,23,g,0,mg,950,g,29,g,29,g,9,g,0,g,3,g,0,g
+957,the chopped leaf,feta cheese,3,g,0,mg,170,g,0,g,2,g,2,g,0,g,0,g,0,g
+958,the chopped leaf,fruit vinaigrette dressing,8,g,0,mg,10,g,3,g,0,g,0.5,g,0,g,0,g,3,g
+959,the chopped leaf,goddess dressing,10,g,0,mg,180,g,1,g,0,g,1,g,0,g,0,g,1,g
+960,the chopped leaf,greek vinaigrette dressing,9,g,0,mg,20,g,0,g,0,g,1,g,0,g,0,g,0,g
+961,the chopped leaf,idol stuffed cup,26,g,0,mg,620,g,45,g,9,g,2.5,g,0,g,7,g,7,g
+962,the chopped leaf,kids caesar wrap,15,g,0,mg,630,g,37,g,9,g,2,g,0,g,4,g,1,g
+963,the chopped leaf,kids chickie caeser salad,11,g,0,mg,480,g,14,g,22,g,2,g,0,g,2,g,1,g
+964,the chopped leaf,kids garden salad,12,g,0,mg,350,g,4,g,18,g,1,g,0,g,2,g,2,g
+965,the chopped leaf,kids grilled cheese,22,g,0,mg,940,g,54,g,23,g,12,g,0,g,6,g,4,g
+966,the chopped leaf,kids ranch wrap,19,g,0,mg,840,g,30,g,24,g,2.5,g,0,g,3,g,0,g
+967,the chopped leaf,kids rice bowl,7,g,0,mg,410,g,15,g,20,g,3,g,0,g,1,g,1,g
+968,the chopped leaf,moroccan chickpea soup,3.5,g,0,mg,330,g,9,g,2,g,1,g,0,g,1,g,3,g
+969,the chopped leaf,mozzarella cheese,4,g,0,mg,100,g,0,g,3,g,2,g,0,g,0,g,0,g
+970,the chopped leaf,mushroom,0,g,0,mg,0,g,1,g,1,g,0,g,0,g,0,g,0,g
+971,the chopped leaf,nutty stuffed cup,24,g,0,mg,430,g,47,g,14,g,3.5,g,0,g,6,g,12,g
+972,the chopped leaf,olive,1.5,g,0,mg,105,g,0,g,0,g,0,g,0,g,0,g,0,g
+973,the chopped leaf,onion and parmesan soup,4.5,g,0,mg,410,g,5,g,1,g,1.5,g,0,g,1,g,4,g
+974,the chopped leaf,oranges,0,g,0,mg,0,g,5,g,0,g,0,g,0,g,0,g,4,g
+975,the chopped leaf,overloaded potato soup,11,g,0,mg,580,g,13,g,5,g,5,g,0,g,1,g,1,g
+976,the chopped leaf,parmesan cheese,2,g,0,mg,85,g,1,g,3,g,1,g,0,g,0,g,0,g
+977,the chopped leaf,pea pods,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,1,g,2,g
+978,the chopped leaf,peanuts,5,g,0,mg,80,g,0,g,3,g,1,g,0,g,0,g,0,g
+979,the chopped leaf,pecan,5,g,0,mg,0,g,0,g,1,g,0,g,0,g,0,g,0,g
+980,the chopped leaf,pegasus full salad,9,g,0,mg,500,g,14,g,8,g,4,g,0,g,6,g,5,g
+981,the chopped leaf,pegasus starter salad,5,g,0,mg,280,g,10,g,4,g,1.5,g,0,g,3,g,3,g
+982,the chopped leaf,pegasus wrap,31,g,0,mg,970,g,53,g,13,g,4,g,0,g,8,g,3,g
+983,the chopped leaf,peppers,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+984,the chopped leaf,pesto quesadilla,26,g,0,mg,1130,g,40,g,32,g,10,g,0,g,5,g,1,g
+985,the chopped leaf,pita,1,g,0,mg,20,g,3,g,0,g,0,g,0,g,0,g,0,g
+986,the chopped leaf,popeye full salad,17,g,0,mg,440,g,27,g,9,g,4,g,0,g,3,g,19,g
+987,the chopped leaf,popeye starter salad,9,g,0,mg,260,g,16,g,5,g,2,g,0,g,2,g,9,g
+988,the chopped leaf,popeye wrap,32,g,0,mg,720,g,62,g,12,g,4,g,0,g,6,g,14,g
+989,the chopped leaf,prawn salad rolls,11,g,0,mg,660,g,35,g,7,g,2,g,0,g,2,g,7,g
+990,the chopped leaf,ranch dressing,11,g,0,mg,75,g,1,g,0,g,1,g,0,g,0,g,0,g
+991,the chopped leaf,red onion,0,g,0,mg,0,g,3,g,0,g,0,g,0,g,0,g,2,g
+992,the chopped leaf,signature full salad,16,g,0,mg,380,g,48,g,9,g,4,g,0,g,8,g,25,g
+993,the chopped leaf,signature starter salad,9,g,0,mg,190,g,25,g,5,g,2,g,0,g,4,g,13,g
+994,the chopped leaf,signature wrap,31,g,0,mg,1040,g,71,g,14,g,5,g,0,g,9,g,15,g
+995,the chopped leaf,southwest full salad,17,g,0,mg,590,g,37,g,15,g,6,g,0,g,9,g,8,g
+996,the chopped leaf,southwest starter salad,7,g,0,mg,250,g,15,g,7,g,3,g,0,g,4,g,4,g
+997,the chopped leaf,southwest wrap,36,g,0,mg,980,g,57,g,15,g,6,g,0,g,8,g,3,g
+998,the chopped leaf,spa full salad,16,g,0,mg,210,g,30,g,9,g,2.5,g,0,g,8,g,15,g
+999,the chopped leaf,spa starter salad,8,g,0,mg,140,g,20,g,5,g,1,g,0,g,4,g,9,g

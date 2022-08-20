@@ -1,0 +1,1001 @@
+,Restaurant Name,Food Name,Total Fat Amount,Total Fat Unit,Cholesterol Amount,Cholesterol Unit,Sodium Amount,Sodium Unit,Total Carbohydrate Amount,Total Carbohydrate Unit,Protein Amount,Protein Unit,Saturated Fat Amount,Saturated Fat Unit,Trans Fat Amount,Trans Fat Unit,Dietary Fiber Amount,Dietary Fiber Unit,Sugars Amount,Sugars Unit
+0,rubys diner,the all american all natural burger,67,g,145,mg,1710,g,62,g,47,g,29,g,0,g,4,g,10,g
+1,rubys diner,the cobb all natural burger,78,g,145,mg,2370,g,64,g,52,g,30,g,0,g,7,g,9,g
+2,rubys diner,the mediterranean all natural burger,68,g,135,mg,1950,g,65,g,43,g,29,g,0,g,4,g,11,g
+3,rubys diner,the portobello provolone all natural burger,78,g,130,mg,2150,g,64,g,48,g,34,g,0,g,4,g,10,g
+4,rubys diner,the really big breakfast,81,g,795,mg,3210,g,27,g,66,g,32,g,0,g,0,g,3,g
+5,rubys diner,the smoked mozzarella all natural burger,70,g,290,mg,1990,g,59,g,52,g,28,g,0,g,4,g,9,g
+6,rubys diner,thousand island dressing,38,g,30,mg,420,g,7,g,0,g,6,g,0,g,0,g,5,g
+7,rubys diner,toast rye,12,g,20,mg,320,g,48,g,8,g,5,g,0,g,2,g,2,g
+8,rubys diner,toast sourdough,8,g,20,mg,480,g,42,g,8,g,5,g,0,g,2,g,2,g
+9,rubys diner,toast wheat,12,g,20,mg,460,g,46,g,8,g,5,g,0,g,2,g,4,g
+10,rubys diner,toast white,11,g,20,mg,480,g,44,g,6,g,5,g,0,g,2,g,4,g
+11,rubys diner,tomato slices,0,g,0,mg,0,g,2,g,1,g,0,g,0,g,1,g,2,g
+12,rubys diner,turkey sausage scramble,58,g,855,mg,2110,g,35,g,69,g,27,g,0,g,1,g,3,g
+13,rubys diner,two eggs breakfast,22,g,470,mg,640,g,24,g,17,g,9,g,0,g,0,g,1,g
+14,rubys diner,two eggs breakfast with poached eggs,17,g,470,mg,600,g,24,g,18,g,9,g,0,g,0,g,1,g
+15,rubys diner,two eggs with bacon,32,g,495,mg,1200,g,24,g,26,g,13,g,0,g,0,g,1,g
+16,rubys diner,two eggs with canadian bacon,24,g,505,mg,1490,g,27,g,31,g,10,g,0,g,0,g,4,g
+17,rubys diner,two eggs with sausage,59,g,470,mg,1170,g,25,g,29,g,24,g,0,g,0,g,1,g
+18,rubys diner,two eggs with turkey sausage,34,g,575,mg,1400,g,27,g,37,g,13,g,0,g,0,g,1,g
+19,rubys diner,two eggs with veggie sausage,28,g,470,mg,1120,g,32,g,34,g,10,g,0,g,4,g,2,g
+20,rubys diner,vanilla flavored soda,0,g,0,mg,35,g,63,g,0,g,0,g,0,g,0,g,63,g
+21,rubys diner,vegetable soup bowl,1,g,0,mg,1190,g,30,g,5,g,0,g,0,g,4,g,4,g
+22,rubys diner,vegetable soup cup,1,g,0,mg,700,g,17,g,3,g,0,g,0,g,2,g,2,g
+23,rubys diner,veggie omelette,51,g,645,mg,1600,g,56,g,45,g,26,g,0,g,3,g,5,g
+24,rubys diner,veggie tacos,26,g,40,mg,1910,g,49,g,38,g,10,g,0,g,21,g,8,g
+25,rubys diner,vegwich,22,g,20,mg,1460,g,75,g,23,g,5,g,0,g,9,g,13,g
+26,rubys diner,zippity zucchini,52,g,15,mg,1790,g,74,g,12,g,9,g,0,g,4,g,5,g
+27,runza,medium lemonade,0,g,0,mg,220,g,57,g,0,g,0,g,0,g,0,g,57,g
+28,runza,mountain dew slushie,0,g,0,mg,55,g,43,g,0,g,0,g,0,g,0,g,43,g
+29,runza,1 white milk,2.5,g,15,mg,120,g,11,g,8,g,1.5,g,0,g,0,g,11,g
+30,runza,skim chocolate milk,0,g,5,mg,190,g,23,g,8,g,0,g,0,g,0,g,22,g
+31,runza,grape slushie,0,g,0,mg,100,g,99,g,0,g,0,g,0,g,0,g,94,g
+32,runza,medium iced tea,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+33,runza,coffee,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+34,runza,cherry slushie,0,g,0,mg,95,g,91,g,0,g,0,g,0,g,0,g,91,g
+35,runza,pepsi slushie,0,g,0,mg,25,g,40,g,0,g,0,g,0,g,0,g,40,g
+36,runza,blue raspberry slushie,0,g,0,mg,95,g,91,g,0,g,0,g,0,g,0,g,91,g
+37,runza,chicken strips 2 pieces,12,g,30,mg,600,g,14,g,16,g,2,g,0,g,0,g,0,g
+38,runza,the runza way,0,g,0,mg,460,g,5,g,1,g,0,g,0,g,1,g,3,g
+39,runza,swiss cheese,5,g,15,mg,300,g,0,g,4,g,3.5,g,0,g,0,g,0,g
+40,runza,salsa,0,g,0,mg,120,g,2,g,1,g,0,g,0,g,1,g,2,g
+41,runza,american cheese,4,g,0,mg,300,g,2,g,3,g,1,g,1.5,g,0,g,0,g
+42,runza,applesauce,0,g,0,mg,10,g,22,g,0,g,0,g,0,g,2,g,18,g
+43,runza,mayo,11,g,10,mg,65,g,1,g,0,g,2,g,0,g,0,g,0,g
+44,runza,mushrooms,2.5,g,0,mg,370,g,1,g,1,g,0,g,0.5,g,1,g,0,g
+45,runza,twist ice cream cone,6,g,20,mg,95,g,32,g,4,g,3.5,g,0,g,0,g,21,g
+46,runza,vanilla ice cream cone,6,g,20,mg,95,g,32,g,4,g,3.5,g,0,g,0,g,21,g
+47,runza,chocolate chip cookie,18,g,30,mg,510,g,53,g,4,g,8,g,0,g,2,g,32,g
+48,runza,mini chocolate shake,7,g,35,mg,160,g,45,g,7,g,4,g,0,g,0,g,39,g
+49,runza,chocolate ice cream cone,6,g,20,mg,95,g,32,g,4,g,3.5,g,0,g,0,g,21,g
+50,runza,mini vanilla shake,7,g,35,mg,140,g,37,g,7,g,4,g,0,g,0,g,32,g
+51,runza,mini strawberry shake,7,g,35,mg,150,g,44,g,7,g,4,g,0,g,0,g,40,g
+52,runza,swirl ice cream cone,7,g,25,mg,130,g,40,g,6,g,4.5,g,0,g,0,g,27,g
+53,runza,large chocolate shake,16,g,80,mg,380,g,106,g,16,g,10,g,0,g,1,g,94,g
+54,runza,vanilla ice cream dish,7,g,25,mg,110,g,34,g,5,g,4.5,g,0,g,0,g,27,g
+55,runza,twist ice cream dish,7,g,25,mg,110,g,34,g,5,g,4.5,g,0,g,0,g,27,g
+56,runza,mini cappuccino shake,7,g,35,mg,150,g,46,g,7,g,4,g,0,g,0,g,41,g
+57,runza,large cappuccino shake,16,g,80,mg,350,g,108,g,16,g,10,g,0,g,0,g,97,g
+58,runza,chocolate sundae,7,g,25,mg,115,g,51,g,6,g,4.5,g,0,g,1,g,41,g
+59,runza,regular vanilla shake,12,g,60,mg,250,g,66,g,12,g,8,g,0,g,0,g,58,g
+60,runza,large vanilla shake,16,g,80,mg,340,g,89,g,16,g,10,g,0,g,0,g,79,g
+61,runza,cinnamon rolls,20,g,30,mg,320,g,76,g,6,g,7,g,1.5,g,2,g,41,g
+62,runza,regular strawberry shake,12,g,60,mg,250,g,79,g,12,g,8,g,0,g,0,g,72,g
+63,runza,swirl ice cream dish,7,g,25,mg,105,g,34,g,5,g,4.5,g,0,g,0,g,27,g
+64,runza,regular cappuccino shake,12,g,60,mg,260,g,82,g,12,g,8,g,0,g,0,g,73,g
+65,runza,chocolate ice cream dish,7,g,25,mg,110,g,34,g,5,g,4.5,g,0,g,0,g,27,g
+66,runza,turtle sundae,13,g,25,mg,150,g,53,g,7,g,5,g,0,g,1,g,42,g
+67,runza,cookie dough sundae,14,g,25,mg,210,g,70,g,7,g,7,g,0,g,1,g,51,g
+68,runza,large strawberry shake,16,g,80,mg,350,g,105,g,16,g,10,g,0,g,0,g,95,g
+69,runza,caramel sundae,7,g,25,mg,180,g,51,g,6,g,4.5,g,0,g,0,g,42,g
+70,runza,regular chocolate shake,12,g,60,mg,280,g,81,g,12,g,8,g,0,g,0,g,71,g
+71,runza,small french fry,9,g,0,mg,100,g,28,g,4,g,1.5,g,0,g,3,g,0,g
+72,runza,medium french fry,13,g,0,mg,140,g,40,g,5,g,2,g,0,g,4,g,0,g
+73,runza,large french fry,19,g,0,mg,210,g,59,g,8,g,3,g,0,g,6,g,0,g
+74,runza,kids chicken strip meal with small fries without drink,21,g,30,mg,700,g,42,g,20,g,3.5,g,0,g,3,g,0,g
+75,runza,kids vanilla ice cream cone,3,g,10,mg,55,g,18,g,2,g,2,g,0,g,0,g,11,g
+76,runza,junior hamburger meal with small fries without drink,18,g,35,mg,330,g,44,g,16,g,4,g,0,g,4,g,2,g
+77,runza,plain junior cheeseburger,13,g,35,mg,530,g,18,g,15,g,3.5,g,2,g,1,g,2,g
+78,runza,junior cheeseburger runza way,13,g,35,mg,870,g,22,g,16,g,3.5,g,2,g,1,g,4,g
+79,runza,junior swiss cheese mushroom burger,17,g,50,mg,730,g,17,g,17,g,6,g,1,g,1,g,2,g
+80,runza,plain junior hamburger,9,g,35,mg,230,g,16,g,12,g,2.5,g,0,g,1,g,2,g
+81,runza,kids sandwich meal with small fries without drink,19,g,20,mg,780,g,62,g,14,g,4.5,g,1.5,g,5,g,5,g
+82,runza,kids mini corn dog meal with small fries without drink,30,g,30,mg,850,g,49,g,13,g,8,g,0,g,4,g,5,g
+83,runza,junior hamburger runza way,9,g,35,mg,570,g,20,g,13,g,2.5,g,0,g,1,g,4,g
+84,runza,tortilla strips,0,g,0,mg,0,g,5,g,1,g,0,g,0,g,0,g,0,g
+85,runza,mandarin oranges,0,g,0,mg,5,g,10,g,1,g,0,g,0,g,1,g,7,g
+86,runza,sliced jalapenos,0,g,0,mg,340,g,0.5,g,0,g,0,g,0,g,0,g,0,g
+87,runza,bacon,9,g,10,mg,320,g,0,g,5,g,4,g,0,g,0,g,0,g
+88,runza,pepperjack cheese,6,g,15,mg,330,g,0,g,3,g,3,g,0,g,0,g,0,g
+89,runza,shredded cheddar,4.5,g,15,mg,90,g,0,g,4,g,2.5,g,0,g,0,g,0,g
+90,runza,chicken strips 4 pieces,24,g,60,mg,1200,g,28,g,32,g,4,g,0,g,0,g,0,g
+91,runza,mini corn dogs 8 pieces,34,g,45,mg,1180,g,33,g,14,g,10,g,0,g,2,g,7,g
+92,runza,fish sandwich,33,g,5,mg,1480,g,50,g,21,g,6,g,1.5,g,3,g,6,g
+93,runza,mini corn dogs 5 pieces,21,g,30,mg,750,g,21,g,9,g,6,g,0,g,1,g,4,g
+94,runza,ranch dressing,18,g,15,mg,360,g,3,g,1,g,3,g,0,g,0,g,2,g
+95,runza,poppyseed dressing,10,g,10,mg,370,g,15,g,0,g,1.5,g,0,g,0,g,13,g
+96,runza,dorothy lynch dressing,15,g,0,mg,430,g,30,g,0,g,2.5,g,0,g,0,g,30,g
+97,runza,asian dressing,0,g,0,mg,1040,g,33,g,0,g,0,g,0,g,0,g,24,g
+98,runza,honey mustard dressing,18,g,15,mg,260,g,9,g,1,g,3,g,0,g,0,g,8,g
+99,runza,fat free raspberry vinaigrette dressing,0,g,0,mg,220,g,18,g,0,g,0,g,0,g,0,g,16,g
+100,runza,jalapeno ranch dressing,20,g,15,mg,390,g,3,g,1,g,2,g,0,g,0,g,2,g
+101,runza,italian vinaigrette,9,g,0,mg,370,g,0,g,0,g,1.5,g,0,g,0,g,0,g
+102,runza,fat free italian dressing,0,g,0,mg,750,g,9,g,0,g,0,g,0,g,0,g,7,g
+103,runza,raspberry vinaigrette,0,g,0,mg,70,g,5,g,0,g,0,g,0,g,0,g,5,g
+104,runza,fat free ranch dressing,0,g,0,mg,660,g,13,g,0,g,0,g,0,g,0,g,4,g
+105,runza,southwest chicken salad with salsa without dressing,15,g,40,mg,850,g,26,g,21,g,3.5,g,0,g,3,g,4,g
+106,runza,sweet berry chicken salad without dressing,19,g,75,mg,1280,g,21,g,31,g,5,g,0,g,4,g,14,g
+107,runza,asian grilled chicken salad with dressing,6,g,55,mg,2110,g,58,g,25,g,0.5,g,1,g,3,g,33,g
+108,runza,side salad without dressing,0,g,0,mg,10,g,4,g,1,g,0,g,0,g,2,g,2,g
+109,runza,original runza sandwich,20,g,40,mg,1370,g,67,g,20,g,6,g,3,g,4,g,10,g
+110,runza,1 2 lb double cheeseburger,39,g,135,mg,1530,g,30,g,49,g,13,g,5,g,2,g,6,g
+111,runza,1 4 lb hamburger runza way,18,g,65,mg,800,g,26,g,25,g,6,g,1,g,2,g,6,g
+112,runza,deluxe grilled chicken sandwich,10,g,60,mg,1510,g,37,g,30,g,0.5,g,0,g,2,g,6,g
+113,runza,1 4 lb swiss cheese mushroom burger,29,g,90,mg,1040,g,24,g,29,g,10,g,2,g,2,g,4,g
+114,runza,1 4 lb cheeseburger runza way,22,g,65,mg,1100,g,28,g,28,g,7,g,2.5,g,2,g,6,g
+115,runza,smothered grilled chicken sandwich,17,g,70,mg,1740,g,37,g,34,g,4.5,g,1.5,g,2,g,4,g
+116,runza,1 4 lb bacon cheeseburger deluxe,34,g,80,mg,1270,g,26,g,32,g,11,g,2.5,g,1,g,5,g
+117,runza,1 4 lb french onion burger,29,g,95,mg,1130,g,26,g,30,g,11,g,2,g,1,g,5,g
+118,runza,blt sandwich,40,g,60,mg,1760,g,68,g,25,g,12,g,3,g,4,g,11,g
+119,runza,1 2 lb double hamburger,31,g,135,mg,930,g,26,g,43,g,11,g,2,g,2,g,6,g
+120,runza,1 4 lb legend supreme burger,32,g,90,mg,1200,g,26,g,32,g,11,g,2.5,g,1,g,4,g
+121,runza,mini original sandwich,10,g,20,mg,700,g,34,g,10,g,3.5,g,1.5,g,2,g,5,g
+122,runza,cheeseburger sandwich,24,g,40,mg,1910,g,72,g,23,g,7,g,4.5,g,4,g,12,g
+123,runza,1 4 lb bacon cheeseburger,31,g,75,mg,1270,g,26,g,32,g,10,g,2.5,g,1,g,5,g
+124,runza,mini cheese sandwich,12,g,20,mg,850,g,35,g,12,g,4,g,2,g,2,g,5,g
+125,runza,bbq grilled chicken sandwich,11,g,70,mg,1760,g,40,g,34,g,3.5,g,0,g,1,g,8,g
+126,runza,swiss cheese mushroom sandwich,28,g,60,mg,1960,g,68,g,25,g,10,g,3.5,g,5,g,10,g
+127,runza,jalapeno sandwich,32,g,60,mg,2300,g,69,g,24,g,10,g,3,g,4,g,11,g
+128,runza,cheese sandwich,24,g,40,mg,1670,g,69,g,23,g,7,g,4.5,g,4,g,10,g
+129,runza,spicy jack grilled chicken sandwich,27,g,85,mg,2310,g,35,g,38,g,7,g,0,g,1,g,4,g
+130,runza,1 4 lb bbq bacon swiss burger,32,g,90,mg,1090,g,26,g,33,g,13,g,1,g,1,g,7,g
+131,runza,1 4 lb spicy jack burger,38,g,95,mg,1350,g,23,g,32,g,13,g,1,g,1,g,4,g
+132,runza,1 4 lb bbq bacon swiss burger,32,g,90,mg,1090,g,26,g,33,g,13,g,1,g,1,g,7,g
+133,runza,mini swiss cheese mushroom sandwich,14,g,30,mg,1090,g,34,g,13,g,5,g,2,g,3,g,5,g
+134,runza,1 4 lb jalapeno burger,35,g,95,mg,1370,g,25,g,29,g,10,g,1,g,2,g,5,g
+135,runza,spicy jack sandwich,41,g,70,mg,2370,g,69,g,28,g,14,g,3,g,4,g,11,g
+136,runza,buffalo grilled chicken sandwich,11,g,60,mg,1920,g,37,g,30,g,1,g,0,g,2,g,4,g
+137,runza,bbq bacon sandwich,34,g,65,mg,2120,g,72,g,29,g,14,g,3,g,4,g,14,g
+138,runza,southwest sandwich,28,g,60,mg,1860,g,75,g,24,g,9,g,3,g,4,g,13,g
+139,runza,buffalo sauce,1,g,0,mg,1290,g,3,g,0,g,0,g,0,g,1,g,1,g
+140,runza,buyffalo sauce,1,g,0,mg,1290,g,3,g,0,g,0,g,0,g,0,g,1,g
+141,runza,bbq sauce,0,g,0,mg,440,g,16,g,1,g,0,g,0,g,0,g,14,g
+142,runza,bbq sauce,0,g,0,mg,130,g,5,g,0,g,0,g,0,g,0,g,4,g
+143,runza,large onion ring,31,g,0,mg,440,g,58,g,8,g,5,g,0,g,4,g,7,g
+144,runza,medium frings,17,g,0,mg,210,g,39,g,5,g,2.5,g,0,g,4,g,2,g
+145,runza,large frings,23,g,0,mg,300,g,55,g,7,g,3.5,g,0,g,5,g,3,g
+146,runza,french onion dip,5,g,20,mg,430,g,3,g,3,g,3,g,0,g,0,g,2,g
+147,runza,medium onion ring,19,g,0,mg,260,g,35,g,5,g,3,g,0,g,3,g,4,g
+148,runza,homemade chili,11,g,55,mg,1300,g,26,g,22,g,4,g,0.5,g,7,g,6,g
+149,runza,boston clam chowder soup,15,g,20,mg,970,g,29,g,7,g,4,g,4.5,g,1,g,0,g
+150,runza,broccoli cheese soup,16,g,20,mg,1030,g,20,g,5,g,6,g,4.5,g,1,g,4,g
+151,runza,wisconsin cheese soup,23,g,25,mg,970,g,29,g,5,g,9,g,4.5,g,0,g,11,g
+152,runza,vegetable cheese soup,11,g,30,mg,1400,g,17,g,6,g,6,g,0,g,5,g,11,g
+153,runza,vegetable beef soup,3.5,g,10,mg,1270,g,13,g,6,g,1,g,0,g,2,g,1,g
+154,runza,chicken tortilla soup,6,g,25,mg,1440,g,16,g,8,g,3,g,0,g,1,g,2,g
+155,runza,potato bacon soup,14,g,10,mg,1010,g,30,g,4,g,4,g,4.5,g,2,g,4,g
+156,runza,tomato florentine soup,1,g,0,mg,1290,g,21,g,4,g,0,g,0,g,1,g,7,g
+157,runza,ranch junior chicken wrap,16,g,25,mg,750,g,31,g,13,g,4,g,0,g,1,g,1,g
+158,runza,salsa junior chicken wrap,15,g,20,mg,810,g,32,g,12,g,3,g,0,g,1,g,2,g
+159,runza,buffalo junior chicken wrap,16,g,25,mg,1130,g,31,g,13,g,4,g,0,g,1,g,1,g
+160,runza,1 chocolate milk,2.5,g,10,mg,130,g,19,g,8,g,1.5,g,0,g,0,g,18,g
+161,runza,1 white milk,2.5,g,15,mg,120,g,11,g,8,g,1.5,g,0,g,0,g,11,g
+162,runza,1 2 lb double cheeseburger,40,g,135,mg,1030,g,25,g,46,g,15,g,2,g,1,g,3,g
+163,runza,1 2 lb double hamburger,31,g,135,mg,470,g,21,g,42,g,11,g,2,g,1,g,3,g
+164,runza,1 4 lb bacon cheeseburger,28,g,70,mg,830,g,23,g,29,g,11,g,1,g,1,g,3,g
+165,runza,1 4 lb bbq bacon swiss burger,32,g,90,mg,1090,g,26,g,33,g,13,g,1,g,1,g,7,g
+166,runza,1 4 lb cheeseburger,22,g,65,mg,620,g,23,g,26,g,8,g,1,g,1,g,3,g
+167,runza,1 4 lb french onion burger,29,g,95,mg,1130,g,26,g,30,g,11,g,2,g,1,g,5,g
+168,runza,1 4 lb hamburger,18,g,65,mg,340,g,21,g,24,g,6,g,1,g,1,g,3,g
+169,runza,1 4 lb jalapeno burger,35,g,95,mg,1370,g,25,g,29,g,10,g,1,g,2,g,5,g
+170,runza,1 4 lb legend supreme,32,g,90,mg,1200,g,26,g,32,g,11,g,2.5,g,1,g,4,g
+171,runza,1 4 lb spicy jack burger,38,g,95,mg,1350,g,23,g,32,g,13,g,1,g,1,g,4,g
+172,runza,1 4 lb swiss cheese mushroom burger,29,g,90,mg,1040,g,24,g,29,g,10,g,2,g,2,g,4,g
+173,runza,american cheese,4.5,g,0,mg,280,g,2,g,2,g,2,g,0,g,0,g,0,g
+174,runza,apple juice,0,g,0,mg,10,g,24,g,0,g,0,g,0,g,0,g,23,g
+175,runza,applesauce,0,g,0,mg,10,g,22,g,0,g,0,g,0,g,2,g,18,g
+176,runza,bacon,6,g,5,mg,210,g,0,g,3,g,3,g,0,g,0,g,0,g
+177,runza,balsamic vinaigrette,17,g,0,mg,830,g,10,g,0,g,3.5,g,0,g,0,g,7,g
+178,runza,bbq dressing,0,g,0,mg,440,g,16,g,1,g,0,g,0,g,0,g,14,g
+179,runza,bbq grilled chicken sandwich,11,g,70,mg,1760,g,40,g,34,g,3.5,g,0,g,1,g,8,g
+180,runza,bbq sauce 0 5 oz,0,g,0,mg,130,g,5,g,0,g,0,g,0,g,0,g,4,g
+181,runza,blt jr wrap,20,g,15,mg,860,g,27,g,10,g,7,g,0,g,2,g,3,g
+182,runza,boston clam chowder soup,15,g,20,mg,970,g,29,g,7,g,4,g,4.5,g,1,g,2,g
+183,runza,broccoli cheese soup,16,g,20,mg,1030,g,20,g,5,g,6,g,4.5,g,1,g,4,g
+184,runza,buffalo grilled chicken sandwich,11,g,60,mg,1920,g,37,g,30,g,1,g,0,g,2,g,4,g
+185,runza,buffalo junior chicken wrap,17,g,25,mg,1150,g,32,g,14,g,4.5,g,0,g,1,g,1,g
+186,runza,buffalo sauce,1,g,0,mg,1290,g,3,g,0,g,0,g,0,g,1,g,1,g
+187,runza,cappuccino shake large,16,g,80,mg,350,g,108,g,16,g,10,g,0,g,0,g,97,g
+188,runza,cappuccino shake mini,7,g,35,mg,150,g,46,g,7,g,4,g,0,g,0,g,41,g
+189,runza,cappuccino shake regular,12,g,60,mg,260,g,82,g,12,g,8,g,0,g,0,g,73,g
+190,runza,caramel sundae,7,g,25,mg,180,g,51,g,6,g,4.5,g,0,g,0,g,42,g
+191,runza,cheese runza sandwich,25,g,45,mg,1650,g,69,g,22,g,9,g,1,g,4,g,10,g
+192,runza,chicken breast,4,g,70,mg,740,g,0,g,28,g,0,g,0,g,0,g,0,g
+193,runza,chicken strip kids meal with small fries,21,g,30,mg,700,g,42,g,20,g,3.5,g,0,g,3,g,0,g
+194,runza,chicken strip 2 piece,12,g,30,mg,600,g,14,g,16,g,2,g,0,g,0,g,0,g
+195,runza,chicken strip 4 piece,24,g,60,mg,1200,g,28,g,32,g,4,g,0,g,0,g,0,g
+196,runza,chicken tortilla soup,6,g,25,mg,1440,g,16,g,8,g,3,g,0,g,1,g,4,g
+197,runza,chocolate chip cookie,18,g,30,mg,510,g,53,g,4,g,8,g,0,g,2,g,32,g
+198,runza,chocolate ice cream cone,6,g,20,mg,95,g,32,g,4,g,3.5,g,0,g,0,g,21,g
+199,runza,chocolate ice cream dish,7,g,25,mg,100,g,29,g,5,g,4.5,g,0,g,0,g,27,g
+200,runza,chocolate shake large,16,g,80,mg,380,g,106,g,16,g,10,g,0,g,1,g,94,g
+201,runza,chocolate shake mini,7,g,35,mg,160,g,45,g,7,g,4,g,0,g,0,g,39,g
+202,runza,chocolate shake regular,12,g,60,mg,280,g,81,g,12,g,8,g,0,g,0,g,71,g
+203,runza,chocolate sundae,7,g,25,mg,115,g,51,g,6,g,4.5,g,0,g,1,g,41,g
+204,runza,cinnamon roll seasonal,26,g,0,mg,600,g,69,g,7,g,9,g,0,g,2,g,36,g
+205,runza,classic grilled chicken sandwich,12,g,75,mg,1190,g,28,g,33,g,1,g,0,g,1,g,6,g
+206,runza,coffee,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+207,runza,cookie dough sundae,14,g,25,mg,210,g,70,g,7,g,7,g,0,g,1,g,51,g
+208,runza,deluxe grilled chicken sandwich,12,g,75,mg,1190,g,28,g,33,g,1,g,0,g,1,g,6,g
+209,runza,diet pepsi medium,0,g,0,mg,55,g,0,g,0,g,0,g,0,g,0,g,0,g
+210,runza,dr pepper medium,0,g,0,mg,65,g,55,g,0,g,0,g,0,g,0,g,55,g
+211,runza,fish sandwich seasonal,33,g,35,mg,1480,g,50,g,21,g,6,g,1.5,g,3,g,6,g
+212,runza,french fries large,19,g,0,mg,210,g,59,g,8,g,3,g,0,g,6,g,0,g
+213,runza,french fries medium,13,g,0,mg,140,g,40,g,5,g,2,g,0,g,4,g,0,g
+214,runza,french fries small,9,g,0,mg,100,g,28,g,4,g,1.5,g,0,g,3,g,0,g
+215,runza,french onion dip,7,g,20,mg,420,g,6,g,2,g,5,g,0,g,0,g,4,g
+216,runza,frings large,23,g,0,mg,300,g,55,g,7,g,3.5,g,0,g,5,g,3,g
+217,runza,frings medium,17,g,0,mg,210,g,39,g,5,g,2.5,g,0,g,4,g,2,g
+218,runza,homemade chili,11,g,55,mg,1300,g,26,g,22,g,4,g,0.5,g,7,g,6,g
+219,runza,honey mustard,18,g,15,mg,260,g,9,g,1,g,3,g,0,g,0,g,8,g
+220,runza,ice cream sandwich seasonal,19,g,40,mg,220,g,57,g,6,g,10,g,0,g,2,g,38,g
+221,runza,junior cheeseburger plain,13,g,35,mg,510,g,18,g,14,g,4.5,g,0,g,1,g,2,g
+222,runza,junior hamburger plain,9,g,35,mg,230,g,16,g,12,g,2.5,g,0,g,1,g,2,g
+223,runza,junior hamburger plain kids meal with small fries,18,g,35,mg,330,g,44,g,16,g,4,g,0,g,4,g,2,g
+224,runza,junior swiss cheese mushroom burger,17,g,50,mg,730,g,17,g,17,g,6,g,1,g,1,g,2,g
+225,runza,kids cone with vanilla ice cream,3,g,10,mg,55,g,18,g,2,g,2,g,0,g,0,g,11,g
+226,runza,lemonade medium,0,g,0,mg,220,g,57,g,0,g,0,g,0,g,0,g,57,g
+227,runza,mandarin oranges,0,g,0,mg,5,g,10,g,1,g,0,g,0,g,1,g,7,g
+228,runza,mayo,11,g,10,mg,65,g,1,g,0,g,2,g,0,g,0,g,0,g
+229,runza,mini cheese runza sandwich,12,g,25,mg,840,g,35,g,12,g,5,g,0,g,2,g,5,g
+230,runza,mini corn dog kids meal with small fries,30,g,30,mg,850,g,49,g,13,g,8,g,0,g,4,g,5,g
+231,runza,mini corn dogs 5 piece,21,g,30,mg,750,g,21,g,9,g,6,g,0,g,1,g,4,g
+232,runza,mini corn dogs 8 piece,34,g,45,mg,1180,g,33,g,14,g,10,g,0,g,2,g,7,g
+233,runza,mini original runza sandwich,10,g,25,mg,700,g,34,g,10,g,4,g,0,g,2,g,5,g
+234,runza,mini swiss cheese mushroom runza sandwich,14,g,35,mg,1090,g,34,g,13,g,6,g,1,g,3,g,5,g
+235,runza,mountain dew medium,0,g,0,mg,90,g,66,g,0,g,0,g,0,g,0,g,66,g
+236,runza,mushrooms,2.5,g,0,mg,370,g,1,g,1,g,0,g,0.5,g,1,g,0,g
+237,runza,onion rings large,31,g,0,mg,440,g,58,g,8,g,5,g,0,g,4,g,7,g
+238,runza,onion rings medium,19,g,0,mg,260,g,35,g,5,g,3,g,0,g,3,g,4,g
+239,runza,original runza sandwich,20,g,45,mg,1370,g,67,g,20,g,7,g,1,g,4,g,10,g
+240,runza,original vegetarian runza sandwich,9,g,0,mg,1550,g,94,g,20,g,3.5,g,0,g,8,g,10,g
+241,runza,pepper jack cheese,6,g,15,mg,330,g,0,g,3,g,3,g,0,g,0,g,0,g
+242,runza,pepsi medium,0,g,0,mg,45,g,60,g,0,g,0,g,0,g,0,g,60,g
+243,runza,poppyseed dressing,10,g,10,mg,370,g,15,g,0,g,1.5,g,0,g,0,g,13,g
+244,runza,potato bacon soup,14,g,10,mg,1010,g,30,g,4,g,4,g,4.5,g,2,g,4,g
+245,runza,ranch dressing,18,g,15,mg,360,g,3,g,1,g,3,g,0,g,0,g,2,g
+246,runza,ranch dressing 5 oz,5,g,5,mg,110,g,1,g,0,g,1,g,0,g,0,g,0,g
+247,runza,ranch junior chicken wrap,17,g,25,mg,770,g,31,g,14,g,4.5,g,0,g,1,g,1,g
+248,runza,runza sandwich kids meal with small fries,19,g,20,mg,780,g,62,g,14,g,4.5,g,1.5,g,5,g,5,g
+249,runza,salad dressing,11,g,10,mg,70,g,0,g,0,g,2,g,0,g,0,g,0,g
+250,runza,salsa,0,g,0,mg,380,g,4,g,0,g,0,g,0,g,0,g,2,g
+251,runza,salsa 1 7 oz,0,g,0,mg,120,g,2,g,1,g,0,g,0,g,1,g,2,g
+252,runza,shredded cheddar,4.5,g,15,mg,90,g,0,g,4,g,2.5,g,0,g,0,g,0,g
+253,runza,side salad no dressing,0,g,0,mg,20,g,4,g,1,g,0,g,0,g,2,g,2,g
+254,runza,sierra mist medium,0,g,0,mg,45,g,57,g,0,g,0,g,0,g,0,g,57,g
+255,runza,sliced jalapenos,0,g,0,mg,340,g,1,g,0,g,0,g,0,g,0,g,0,g
+256,runza,smothered grilled chicken sandwich,17,g,70,mg,1740,g,37,g,34,g,4.5,g,1.5,g,2,g,4,g
+257,runza,southwest chicken salad with salsa no dressing,18,g,45,mg,1310,g,32,g,22,g,5,g,0,g,5,g,7,g
+258,runza,southwest ranch dressing,24,g,20,mg,460,g,4,g,2,g,2,g,0,g,0,g,2,g
+259,runza,southwest ranch dressing 25 oz,3,g,5,mg,60,g,1,g,0,g,0,g,0,g,0,g,1,g
+260,runza,spicy jack grilled chicken sandwich,28,g,100,mg,1980,g,26,g,41,g,8,g,0,g,1,g,4,g
+261,runza,spicy jack runza sandwich,41,g,75,mg,2370,g,69,g,28,g,15,g,1,g,4,g,11,g
+262,runza,strawberry shake large,16,g,80,mg,350,g,105,g,16,g,10,g,0,g,0,g,95,g
+263,runza,strawberry shake mini,7,g,35,mg,150,g,44,g,7,g,4,g,0,g,0,g,40,g
+264,runza,strawberry shake regular,12,g,60,mg,260,g,79,g,12,g,8,g,0,g,0,g,72,g
+265,runza,sw black bean vegetarian runza sandwich,12,g,10,mg,1300,g,76,g,16,g,5,g,0,g,6,g,9,g
+266,runza,sweet berry chicken salad no dressing,20,g,90,mg,1100,g,20,g,36,g,5,g,0,g,4,g,13,g
+267,runza,swiss cheese,5,g,15,mg,300,g,0,g,4,g,3.5,g,0,g,0,g,0,g
+268,runza,swiss cheese mushroom runza sandwich,28,g,65,mg,1960,g,68,g,25,g,11,g,1.5,g,5,g,10,g
+269,runza,taco seasoning,0,g,0,mg,110,g,1,g,0,g,0,g,0,g,0,g,0,g
+270,runza,the runza way ketchup mustard onion pickle lettuce tomato,0,g,0,mg,460,g,5,g,1,g,0,g,0,g,1,g,3,g
+271,runza,tortilla strips,0,g,0,mg,0,g,5,g,1,g,0,g,0,g,0,g,0,g
+272,runza,tossed salad with grilled chicken no dressing,7,g,80,mg,820,g,6,g,32,g,1.5,g,0,g,3,g,3,g
+273,runza,turtle sundae,13,g,25,mg,150,g,53,g,7,g,5,g,0,g,1,g,42,g
+274,runza,twist ice cream cone,6,g,20,mg,95,g,32,g,4,g,3.5,g,0,g,0,g,21,g
+275,runza,twist ice cream dish,7,g,25,mg,100,g,29,g,5,g,4.5,g,0,g,0,g,27,g
+276,runza,vanilla ice cream cone,6,g,20,mg,95,g,32,g,4,g,3.5,g,0,g,0,g,21,g
+277,runza,vanilla ice cream dish,7,g,25,mg,100,g,29,g,5,g,4.5,g,0,g,0,g,27,g
+278,runza,vanilla shake large,16,g,80,mg,340,g,89,g,16,g,10,g,0,g,0,g,79,g
+279,runza,vanilla shake mini,7,g,35,mg,140,g,37,g,7,g,4,g,0,g,0,g,32,g
+280,runza,vanilla shake regular,12,g,60,mg,250,g,66,g,12,g,8,g,0,g,0,g,58,g
+281,runza,wisconsin cheese soup,23,g,25,mg,970,g,29,g,5,g,9,g,4.5,g,0,g,11,g
+282,ryans grill buffet bakery,zucchini muffin,9,g,0,mg,290,g,32,g,4,g,1.5,g,0,g,1,g,14,g
+283,ryans grill buffet bakery,white bread loaf,1,g,0,mg,170,g,13,g,2,g,0,g,0,g,0.5,g,1,g
+284,ryans grill buffet bakery,cranberry walnut muffin,11,g,0,mg,280,g,34,g,4,g,1.5,g,0,g,1,g,18,g
+285,ryans grill buffet bakery,jalapeno cornbread,6,g,15,mg,320,g,25,g,3,g,1,g,0,g,0.5,g,10,g
+286,ryans grill buffet bakery,hot fudge sundae muffin,12,g,0,mg,330,g,43,g,4,g,3.5,g,0,g,2,g,24,g
+287,ryans grill buffet bakery,cornbread,6,g,15,mg,320,g,25,g,3,g,1,g,0,g,0.5,g,10,g
+288,ryans grill buffet bakery,pina colada muffin,9,g,0,mg,280,g,33,g,3,g,1.5,g,0,g,1,g,17,g
+289,ryans grill buffet bakery,english muffin dry,0.5,g,0,mg,200,g,13,g,2,g,0,g,0,g,0.5,g,0.5,g
+290,ryans grill buffet bakery,caramel roll,5,g,0,mg,115,g,22,g,3,g,1,g,0,g,0.5,g,8,g
+291,ryans grill buffet bakery,peach muffin,9,g,0,mg,300,g,38,g,4,g,1.5,g,0,g,1,g,16,g
+292,ryans grill buffet bakery,oatmeal raisin muffin,10,g,0,mg,290,g,43,g,5,g,1.5,g,0,g,2,g,18,g
+293,ryans grill buffet bakery,garlic bread,3,g,0,mg,110,g,9,g,2,g,0.5,g,0,g,0,g,0,g
+294,ryans grill buffet bakery,white pull a part dinner roll,5,g,0,mg,120,g,18,g,3,g,1,g,0,g,0.5,g,4,g
+295,ryans grill buffet bakery,dinner roll,5,g,0,mg,120,g,18,g,3,g,1,g,0,g,0.5,g,4,g
+296,ryans grill buffet bakery,strawberry muffin,9,g,0,mg,300,g,41,g,4,g,1.5,g,0,g,1,g,22,g
+297,ryans grill buffet bakery,cherry muffin,9,g,0,mg,300,g,35,g,4,g,1.5,g,0,g,1,g,15,g
+298,ryans grill buffet bakery,honey cornbread,7,g,15,mg,320,g,26,g,3,g,1,g,0,g,0.5,g,12,g
+299,ryans grill buffet bakery,poppy seed muffin,10,g,0,mg,280,g,29,g,4,g,1.5,g,0,g,2,g,13,g
+300,ryans grill buffet bakery,plain bagel,1,g,0,mg,490,g,52,g,9,g,0,g,0,g,2,g,5,g
+301,ryans grill buffet bakery,flour tortilla,3,g,0,mg,240,g,20,g,3,g,0.5,g,0,g,1,g,0.5,g
+302,ryans grill buffet bakery,pumpemickel bread loaf,1,g,0,mg,170,g,12,g,2,g,0,g,0,g,2,g,0,g
+303,ryans grill buffet bakery,wheat bread loaf,1,g,0,mg,130,g,12,g,3,g,0,g,0,g,1,g,1,g
+304,ryans grill buffet bakery,blueberry muffin,9,g,0,mg,290,g,34,g,4,g,1.5,g,0,g,1,g,16,g
+305,ryans grill buffet bakery,french bread loaf,0.5,g,0,mg,160,g,14,g,3,g,0,g,0,g,0.5,g,0.5,g
+306,ryans grill buffet bakery,cinnamon roll,5,g,0,mg,115,g,23,g,2,g,1,g,0,g,0.5,g,10,g
+307,ryans grill buffet bakery,rye bread loaf,1,g,0,mg,210,g,15,g,3,g,0,g,0,g,2,g,1,g
+308,ryans grill buffet bakery,apple walnut muffin,8,g,0,mg,290,g,34,g,3,g,1,g,0,g,1,g,17,g
+309,ryans grill buffet bakery,rum raisin muffin,8,g,0,mg,280,g,40,g,4,g,1,g,0,g,1,g,21,g
+310,ryans grill buffet bakery,banana walnut muffin,13,g,0,mg,290,g,35,g,5,g,2,g,0,g,2,g,16,g
+311,ryans grill buffet bakery,biscuit,6,g,0,mg,340,g,16,g,3,g,1.5,g,2,g,0.5,g,1,g
+312,ryans grill buffet bakery,pumpkin muffin with raisins,9,g,0,mg,290,g,38,g,4,g,1.5,g,0,g,2,g,19,g
+313,ryans grill buffet bakery,hot fudge chocolate chip muffin,12,g,0,mg,310,g,42,g,4,g,3,g,0,g,2,g,23,g
+314,ryans grill buffet bakery,coconut almond muffin,10,g,0,mg,300,g,32,g,3,g,3.5,g,0,g,1,g,15,g
+315,ryans grill buffet bakery,corn muffin,12,g,35,mg,630,g,49,g,6,g,2,g,0,g,1,g,22,g
+316,ryans grill buffet bakery,hot dog bun,2,g,0,mg,210,g,22,g,4,g,1,g,0,g,3,g,3,g
+317,ryans grill buffet bakery,garlic cheese biscuit,15,g,10,mg,650,g,20,g,5,g,4,g,2,g,0.5,g,3,g
+318,ryans grill buffet bakery,cinnamon bread,2.5,g,0,mg,140,g,32,g,3,g,0.5,g,0,g,1,g,13,g
+319,ryans grill buffet bakery,skim milk,0,g,0,mg,150,g,18,g,12,g,0,g,0,g,0,g,18,g
+320,ryans grill buffet bakery,unsweetened iced tea,0,g,0,mg,5,g,0,g,0,g,0,g,0,g,0,g,0,g
+321,ryans grill buffet bakery,hot tea,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+322,ryans grill buffet bakery,2 reduced fat milk,7,g,0,mg,150,g,17,g,12,g,4.5,g,0,g,0,g,17,g
+323,ryans grill buffet bakery,orange juice,0.5,g,0,mg,5,g,39,g,3,g,0,g,0,g,0.5,g,31,g
+324,ryans grill buffet bakery,average all flavors hot chocolate,1,g,0,mg,290,g,32,g,1,g,1,g,0,g,0.5,g,29,g
+325,ryans grill buffet bakery,decaffeinated or regular coffee,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+326,ryans grill buffet bakery,average all flavors cappuccino,4,g,0,mg,290,g,30,g,0.5,g,4,g,0,g,0,g,25,g
+327,ryans grill buffet bakery,average all flavors sweetened iced tea,0,g,0,mg,40,g,26,g,0,g,0,g,0,g,0,g,26,g
+328,ryans grill buffet bakery,average all flavors lemonade,0,g,0,mg,50,g,24,g,0,g,0,g,0,g,0,g,24,g
+329,ryans grill buffet bakery,1 reduced fat chocolate milk,4.5,g,0,mg,230,g,39,g,14,g,2.5,g,0,g,2,g,38,g
+330,ryans grill buffet bakery,melted butter,46,g,330,mg,370,g,0,g,0.5,g,29,g,0,g,0,g,0,g
+331,ryans grill buffet bakery,strawberry topping,0,g,0,mg,10,g,16,g,0,g,0,g,0,g,0.5,g,15,g
+332,ryans grill buffet bakery,sauteed onions,0.5,g,0,mg,15,g,3,g,0,g,0,g,0,g,0,g,1,g
+333,ryans grill buffet bakery,buttermilk pancakes,2,g,5,mg,380,g,19,g,3,g,0.5,g,0,g,0,g,4,g
+334,ryans grill buffet bakery,scrambled eggs,10,g,240,mg,100,g,0,g,7,g,2.5,g,0,g,0,g,0,g
+335,ryans grill buffet bakery,sauteed bell peppers,1,g,0,mg,15,g,2,g,0,g,0,g,0,g,0,g,1,g
+336,ryans grill buffet bakery,diced or slice ham,1,g,15,mg,330,g,0,g,5,g,0.5,g,0,g,0,g,0,g
+337,ryans grill buffet bakery,melted margarine,45,g,0,mg,440,g,0,g,0,g,9,g,12,g,0,g,0,g
+338,ryans grill buffet bakery,diced bacon,19,g,50,mg,1060,g,0,g,17,g,6,g,0,g,0,g,0,g
+339,ryans grill buffet bakery,maple flavored syrup,0,g,0,mg,40,g,47,g,0,g,0,g,0,g,0,g,46,g
+340,ryans grill buffet bakery,hashbrown patties,7,g,0,mg,220,g,13,g,1,g,1.5,g,0,g,2,g,0,g
+341,ryans grill buffet bakery,bacon,3.5,g,10,mg,180,g,0,g,3,g,1,g,0,g,0,g,0,g
+342,ryans grill buffet bakery,grits,0,g,0,mg,125,g,13,g,1,g,0,g,0,g,0,g,0,g
+343,ryans grill buffet bakery,waffle,6,g,50,mg,180,g,15,g,2,g,3,g,0,g,0.5,g,1,g
+344,ryans grill buffet bakery,cinnamon granola cereal,4.5,g,0,mg,30,g,43,g,5,g,0.5,g,0,g,3,g,15,g
+345,ryans grill buffet bakery,potatoes o brien,6,g,0,mg,270,g,25,g,2,g,1,g,0,g,2,g,2,g
+346,ryans grill buffet bakery,chocolate chip pancake,3,g,5,mg,380,g,19,g,3,g,1,g,0,g,0,g,4,g
+347,ryans grill buffet bakery,blueberry pancake,2,g,5,mg,370,g,19,g,3,g,0.5,g,0,g,0,g,4,g
+348,ryans grill buffet bakery,sliced ham,4.5,g,25,mg,660,g,0.5,g,7,g,2.5,g,0,g,0,g,0.5,g
+349,ryans grill buffet bakery,poached eggs,5,g,210,mg,150,g,0,g,6,g,1.5,g,0,g,0,g,0,g
+350,ryans grill buffet bakery,frosted fruit flavored cereal,1,g,0,mg,150,g,28,g,2,g,0,g,0,g,1,g,15,g
+351,ryans grill buffet bakery,french toast,9,g,105,mg,270,g,29,g,8,g,2,g,0,g,1,g,12,g
+352,ryans grill buffet bakery,sausage link,10,g,25,mg,190,g,0,g,3,g,3.5,g,0,g,0,g,0,g
+353,ryans grill buffet bakery,plain omelet,11,g,360,mg,150,g,2,g,10,g,3,g,0,g,0,g,0,g
+354,ryans grill buffet bakery,peach topping,0,g,0,mg,15,g,11,g,0,g,0,g,0,g,0,g,4,g
+355,ryans grill buffet bakery,toasted oat cereal,2,g,0,mg,280,g,22,g,4,g,0,g,0,g,3,g,1,g
+356,ryans grill buffet bakery,turkey sausage phila only,2,g,20,mg,150,g,0,g,5,g,0.5,g,0,g,0,g,0,g
+357,ryans grill buffet bakery,crisp rice cereal,0,g,0,mg,300,g,29,g,2,g,0,g,0,g,0,g,3,g
+358,ryans grill buffet bakery,oatmeal,1.5,g,0,mg,110,g,12,g,2,g,0,g,0,g,2,g,0,g
+359,ryans grill buffet bakery,brown sugar,0,g,0,mg,5,g,9,g,0,g,0,g,0,g,0,g,9,g
+360,ryans grill buffet bakery,sausage gravy,2,g,0,mg,250,g,5,g,0,g,0.5,g,0,g,0,g,0,g
+361,ryans grill buffet bakery,bacon cheddar butter blend,11,g,20,mg,85,g,0,g,0,g,6,g,0,g,0,g,0,g
+362,ryans grill buffet bakery,pickle relish,0,g,0,mg,140,g,6,g,0,g,0,g,0,g,0,g,3,g
+363,ryans grill buffet bakery,dill pickles,0,g,0,mg,140,g,0.5,g,0,g,0,g,0,g,0,g,0,g
+364,ryans grill buffet bakery,jelly,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,7,g
+365,ryans grill buffet bakery,crushed red pepper,0.5,g,0,mg,0,g,1,g,0,g,0,g,0,g,0.5,g,0,g
+366,ryans grill buffet bakery,mustard,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+367,ryans grill buffet bakery,margarine,4,g,0,mg,40,g,0,g,0,g,1,g,1,g,0,g,0,g
+368,ryans grill buffet bakery,lemon,0,g,0,mg,0,g,0.5,g,0,g,0,g,0,g,0,g,0,g
+369,ryans grill buffet bakery,ketchup,0,g,0,mg,100,g,3,g,0,g,0,g,0,g,0,g,2,g
+370,ryans grill buffet bakery,mayonnaise,11,g,15,mg,85,g,0,g,0,g,1.5,g,0,g,0,g,0,g
+371,ryans grill buffet bakery,honey,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,9,g
+372,ryans grill buffet bakery,sweet pickles,0,g,0,mg,70,g,4,g,0,g,0,g,0,g,0,g,4,g
+373,ryans grill buffet bakery,butter,4,g,10,mg,30,g,0,g,0,g,2.5,g,0,g,0,g,0,g
+374,ryans grill buffet bakery,peanut butter,8,g,0,mg,80,g,3,g,4,g,1.5,g,0,g,1,g,1,g
+375,ryans grill buffet bakery,coffee or non dairy creamers,0.5,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+376,ryans grill buffet bakery,cherry cheesecake,12,g,5,mg,280,g,30,g,3,g,6,g,1,g,0,g,22,g
+377,ryans grill buffet bakery,scotcheroo bar,7,g,0,mg,110,g,27,g,3,g,2.5,g,0,g,0.5,g,17,g
+378,ryans grill buffet bakery,chocolate chess pie,15,g,80,mg,250,g,51,g,3,g,8,g,0,g,1,g,25,g
+379,ryans grill buffet bakery,strawberry mousse cake,11,g,0,mg,135,g,22,g,1,g,7,g,1.5,g,0.5,g,16,g
+380,ryans grill buffet bakery,chocolate marble cake,8,g,25,mg,190,g,26,g,2,g,2,g,0.5,g,0.5,g,19,g
+381,ryans grill buffet bakery,chocolate decadence cake,10,g,35,mg,250,g,30,g,4,g,4,g,0.5,g,0,g,14,g
+382,ryans grill buffet bakery,chocolate chip cookie bar,13,g,25,mg,230,g,39,g,3,g,4,g,2.5,g,1,g,26,g
+383,ryans grill buffet bakery,vanilla soft serve flurrie without mix ins,10,g,20,mg,130,g,40,g,6,g,6,g,0,g,0,g,28,g
+384,ryans grill buffet bakery,iced decorated cookie,9,g,5,mg,75,g,25,g,2,g,2.5,g,2.5,g,0,g,19,g
+385,ryans grill buffet bakery,dutch apple cake,9,g,20,mg,240,g,36,g,3,g,2,g,2,g,1,g,24,g
+386,ryans grill buffet bakery,tres leches,15,g,50,mg,160,g,25,g,4,g,8,g,0,g,0,g,21,g
+387,ryans grill buffet bakery,black forest cupcake,9,g,50,mg,240,g,36,g,3,g,2.5,g,0.5,g,1,g,23,g
+388,ryans grill buffet bakery,maple walnut cake,15,g,30,mg,190,g,24,g,3,g,3,g,1.5,g,0.5,g,18,g
+389,ryans grill buffet bakery,cherry cobbler,9,g,0,mg,100,g,32,g,1,g,2,g,2,g,1,g,7,g
+390,ryans grill buffet bakery,lemon cream pie,4,g,25,mg,130,g,32,g,3,g,1.5,g,1,g,0.5,g,26,g
+391,ryans grill buffet bakery,bread pudding,7,g,90,mg,160,g,27,g,4,g,3,g,0.5,g,0.5,g,18,g
+392,ryans grill buffet bakery,banana pudding,5,g,0,mg,120,g,24,g,1,g,1,g,1,g,0.5,g,15,g
+393,ryans grill buffet bakery,decorated cookie,5,g,0,mg,55,g,17,g,1,g,1,g,2,g,0,g,10,g
+394,ryans grill buffet bakery,turtle brownie,3.5,g,0,mg,130,g,23,g,2,g,1,g,0,g,1,g,15,g
+395,ryans grill buffet bakery,chocolate haystacks,8,g,0,mg,90,g,19,g,3,g,4,g,0,g,2,g,11,g
+396,ryans grill buffet bakery,vanilla soft serve,5,g,10,mg,65,g,20,g,3,g,3,g,0,g,0,g,14,g
+397,ryans grill buffet bakery,cappuccino cake,10,g,35,mg,210,g,18,g,3,g,4.5,g,0,g,0,g,14,g
+398,ryans grill buffet bakery,average all varieties caramel topped cupcake,16,g,60,mg,280,g,38,g,4,g,4,g,2,g,0,g,29,g
+399,ryans grill buffet bakery,peanut butter cookie,6,g,0,mg,150,g,14,g,2,g,1.5,g,1,g,1,g,8,g
+400,ryans grill buffet bakery,vanilla pudding,5,g,0,mg,130,g,20,g,1,g,1,g,1.5,g,0,g,16,g
+401,ryans grill buffet bakery,ground malted milk balls,3,g,0,mg,40,g,11,g,0,g,2.5,g,0,g,0,g,9,g
+402,ryans grill buffet bakery,lemon bar,4.5,g,70,mg,85,g,35,g,3,g,1,g,0.5,g,0,g,27,g
+403,ryans grill buffet bakery,nestle crunch pieces,4,g,0,mg,20,g,10,g,0.5,g,2.5,g,0,g,0,g,8,g
+404,ryans grill buffet bakery,decorated white cupcake,16,g,60,mg,280,g,38,g,4,g,4,g,2,g,0,g,29,g
+405,ryans grill buffet bakery,cherry crisp,3,g,0,mg,60,g,32,g,1,g,0.5,g,1,g,0.5,g,12,g
+406,ryans grill buffet bakery,oatmeal raisin cookie,6,g,5,mg,85,g,16,g,2,g,2,g,0,g,1,g,8,g
+407,ryans grill buffet bakery,chocolate cake,8,g,30,mg,210,g,25,g,3,g,1.5,g,0.5,g,0,g,9,g
+408,ryans grill buffet bakery,cheesecake,12,g,5,mg,280,g,28,g,3,g,6,g,1,g,0,g,22,g
+409,ryans grill buffet bakery,reduced sugar banana cream pie,11,g,0,mg,150,g,20,g,2,g,8,g,1,g,1,g,4,g
+410,ryans grill buffet bakery,reduced sugar calorie chocolate pudding,1,g,5,mg,360,g,12,g,4,g,0.5,g,0,g,0.5,g,4,g
+411,ryans grill buffet bakery,rocky road cupcake,16,g,60,mg,280,g,38,g,4,g,4,g,2,g,0,g,29,g
+412,ryans grill buffet bakery,apple spice cake,7,g,25,mg,210,g,26,g,3,g,1,g,1,g,0,g,18,g
+413,ryans grill buffet bakery,butterscotch brownie,9,g,25,mg,210,g,20,g,2,g,2,g,1.5,g,0,g,14,g
+414,ryans grill buffet bakery,pecan pie,19,g,50,mg,230,g,33,g,3,g,4,g,2,g,1,g,18,g
+415,ryans grill buffet bakery,banana nut cake,12,g,45,mg,190,g,37,g,2,g,2.5,g,1,g,0.5,g,27,g
+416,ryans grill buffet bakery,peanut butter mocha,16,g,0,mg,200,g,21,g,3,g,8,g,0.5,g,2,g,8,g
+417,ryans grill buffet bakery,chocolate chip cookie pizza,8,g,0,mg,130,g,21,g,1,g,3,g,2.5,g,1,g,12,g
+418,ryans grill buffet bakery,peach cupcake,13,g,55,mg,260,g,33,g,3,g,3,g,1.5,g,0.5,g,22,g
+419,ryans grill buffet bakery,hot fudge sundae cake,3,g,0,mg,250,g,33,g,2,g,1,g,1,g,1,g,24,g
+420,ryans grill buffet bakery,strawberry shortcake,3.5,g,0,mg,220,g,39,g,3,g,3,g,0,g,1,g,26,g
+421,ryans grill buffet bakery,fun e chips,3,g,0,mg,0,g,12,g,0,g,2,g,0,g,0,g,11,g
+422,ryans grill buffet bakery,chocolate soft serve,3,g,10,mg,85,g,21,g,2,g,2,g,0,g,0.5,g,17,g
+423,ryans grill buffet bakery,chocolate cupcake,12,g,50,mg,250,g,41,g,3,g,3,g,0.5,g,1,g,31,g
+424,ryans grill buffet bakery,chocolate cookie pieces,1.5,g,0,mg,20,g,6,g,0,g,0,g,0,g,0,g,3,g
+425,ryans grill buffet bakery,chocolate cream pie,9,g,0,mg,210,g,24,g,2,g,4.5,g,1,g,0.5,g,15,g
+426,ryans grill buffet bakery,ice cream cone,0,g,0,mg,15,g,3,g,0,g,0,g,0,g,0,g,0.5,g
+427,ryans grill buffet bakery,peach cobbler,8,g,0,mg,95,g,33,g,1,g,2,g,2,g,1,g,10,g
+428,ryans grill buffet bakery,chocolate chip cookie,6,g,5,mg,70,g,18,g,1,g,2,g,0,g,1,g,9,g
+429,ryans grill buffet bakery,cookie and cream cheesecake,17,g,20,mg,200,g,27,g,2,g,9,g,2.5,g,1,g,19,g
+430,ryans grill buffet bakery,whipped topping,5,g,0,mg,20,g,3,g,0,g,4.5,g,0,g,0,g,3,g
+431,ryans grill buffet bakery,supreme cake,8,g,30,mg,190,g,26,g,2,g,2,g,1,g,0,g,16,g
+432,ryans grill buffet bakery,vanilla nutrasweet frozen no fat yogurt,0,g,5,mg,80,g,16,g,4,g,0,g,0,g,0,g,6,g
+433,ryans grill buffet bakery,chocolate drizzle crispy rice bar,3,g,0,mg,125,g,25,g,1,g,1,g,0,g,0,g,13,g
+434,ryans grill buffet bakery,fudge,1.5,g,0,mg,10,g,7,g,0,g,0.5,g,0.5,g,0,g,6,g
+435,ryans grill buffet bakery,key lime pie,9,g,50,mg,130,g,31,g,5,g,4,g,0,g,0,g,23,g
+436,ryans grill buffet bakery,coconut cream pie,12,g,0,mg,210,g,24,g,2,g,10,g,0,g,1,g,16,g
+437,ryans grill buffet bakery,black forest cake,6,g,30,mg,200,g,20,g,3,g,1,g,0.5,g,0,g,10,g
+438,ryans grill buffet bakery,honey nut topping,12,g,0,mg,125,g,9,g,5,g,2,g,0,g,2,g,5,g
+439,ryans grill buffet bakery,ko ko bits,3.5,g,0,mg,5,g,10,g,0,g,0,g,0,g,0,g,10,g
+440,ryans grill buffet bakery,crushed pineapple,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,5,g
+441,ryans grill buffet bakery,strawberry marble cake,10,g,30,mg,200,g,26,g,2,g,2.5,g,1.5,g,0,g,20,g
+442,ryans grill buffet bakery,chocolate syrup,0,g,0,mg,70,g,25,g,0,g,0,g,0,g,1,g,18,g
+443,ryans grill buffet bakery,fudge brownie,6,g,0,mg,145,g,34,g,2,g,1.5,g,0,g,2,g,27,g
+444,ryans grill buffet bakery,snickerdoodle cookie,5,g,0,mg,55,g,17,g,1,g,1,g,2,g,0,g,10,g
+445,ryans grill buffet bakery,sprinkles,2,g,0,mg,0,g,13,g,0,g,1.5,g,0,g,0,g,11,g
+446,ryans grill buffet bakery,german chocolate cake,13,g,40,mg,250,g,35,g,4,g,3,g,1,g,1,g,19,g
+447,ryans grill buffet bakery,strawberry topping,0,g,0,mg,10,g,15,g,0,g,0,g,0,g,0,g,14,g
+448,ryans grill buffet bakery,orange dreamsicle,11,g,10,mg,130,g,33,g,3,g,7,g,1,g,0.5,g,28,g
+449,ryans grill buffet bakery,reduced sugar chocolate cream pie,12,g,0,mg,260,g,19,g,2,g,9,g,1.5,g,0.5,g,1,g
+450,ryans grill buffet bakery,chewy bears,0,g,0,mg,10,g,15,g,1,g,0,g,0,g,0,g,14,g
+451,ryans grill buffet bakery,tapioca pudding,3.5,g,0,mg,130,g,20,g,2,g,1,g,0,g,0,g,13,g
+452,ryans grill buffet bakery,sugar free ranger cookie,5,g,0,mg,100,g,10,g,1,g,2,g,1,g,0.5,g,0,g
+453,ryans grill buffet bakery,hot fudge topping,2.5,g,0,mg,75,g,22,g,1,g,0.5,g,0.5,g,0.5,g,16,g
+454,ryans grill buffet bakery,lemon meringue pie,4.5,g,0,mg,140,g,23,g,2,g,1.5,g,0,g,0.5,g,12,g
+455,ryans grill buffet bakery,rocky road pudding,6,g,0,mg,135,g,27,g,2,g,1.5,g,1,g,0.1,g,19,g
+456,ryans grill buffet bakery,dessert pizza,4,g,0,mg,45,g,17,g,1,g,1,g,1,g,0.5,g,12,g
+457,ryans grill buffet bakery,reduced sugar apple pie,13,g,0,mg,160,g,28,g,3,g,3,g,3,g,2,g,10,g
+458,ryans grill buffet bakery,carrot cake,12,g,35,mg,220,g,29,g,2,g,2.5,g,1,g,0.5,g,22,g
+459,ryans grill buffet bakery,lemon pie,9,g,0,mg,300,g,35,g,1,g,3.5,g,1,g,0,g,24,g
+460,ryans grill buffet bakery,caramel apple crisp,4.5,g,0,mg,95,g,32,g,0.5,g,1,g,0.5,g,1,g,26,g
+461,ryans grill buffet bakery,snickerdoodle cookie pizza,9,g,2,mg,70,g,22,g,1,g,4.5,g,2,g,0,g,14,g
+462,ryans grill buffet bakery,sweet potato pie,18,g,30,mg,140,g,26,g,3,g,4.5,g,1,g,0.5,g,15,g
+463,ryans grill buffet bakery,orange sorbet frozen no fat yogurt,0,g,0,mg,0,g,22,g,0,g,0,g,0,g,0,g,19,g
+464,ryans grill buffet bakery,seven layer bar,9,g,5,mg,135,g,32,g,4,g,4,g,0,g,1,g,26,g
+465,ryans grill buffet bakery,crispy rice bar,2,g,0,mg,120,g,24,g,0.5,g,0,g,0,g,0,g,12,g
+466,ryans grill buffet bakery,pumpkin pie,11,g,35,mg,240,g,23,g,3,g,6,g,0,g,1,g,14,g
+467,ryans grill buffet bakery,sprinkles or fun e chips crispy rice bar,2,g,0,mg,120,g,25,g,0.5,g,0.5,g,0,g,0,g,12,g
+468,ryans grill buffet bakery,key lime,11,g,0,mg,125,g,16,g,1,g,7,g,1,g,0,g,11,g
+469,ryans grill buffet bakery,lemon cake,10,g,30,mg,190,g,24,g,2,g,2.5,g,1.5,g,0,g,18,g
+470,ryans grill buffet bakery,butterfinger pieces,2.5,g,0,mg,35,g,11,g,1,g,1.5,g,0,g,0,g,8,g
+471,ryans grill buffet bakery,banana split,6,g,5,mg,65,g,58,g,3,g,2.5,g,0,g,3,g,45,g
+472,ryans grill buffet bakery,reduced sugar calorie vanilla pudding,1,g,5,mg,65,g,5,g,3,g,0.5,g,0,g,0,g,4,g
+473,ryans grill buffet bakery,butterscotch topping,0,g,0,mg,105,g,31,g,0,g,0,g,0,g,0,g,14,g
+474,ryans grill buffet bakery,chocolate chips,5,g,0,mg,0,g,10,g,0,g,4,g,0,g,0,g,9,g
+475,ryans grill buffet bakery,heath bar bits,5,g,0,mg,50,g,9,g,0,g,2.5,g,0,g,0,g,9,g
+476,ryans grill buffet bakery,chicken chilaquiles for taco bar,13,g,20,mg,590,g,9,g,7,g,4,g,0,g,1,g,2,g
+477,ryans grill buffet bakery,sliced tomatoes,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+478,ryans grill buffet bakery,pinto beans with bacon for taco bar,2,g,2,mg,380,g,13,g,4,g,0.5,g,0,g,4,g,0,g
+479,ryans grill buffet bakery,beef taco meat for taco bar,2.5,g,15,mg,160,g,2,g,6,g,1,g,0,g,0,g,0.5,g
+480,ryans grill buffet bakery,kings ranch chicken for taco bar,9,g,25,mg,490,g,21,g,10,g,2,g,0,g,2,g,1,g
+481,ryans grill buffet bakery,taco shell basket,8,g,0,mg,240,g,20,g,3,g,1.5,g,0,g,1,g,0.5,g
+482,ryans grill buffet bakery,shredded lettuce for taco bar,0,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+483,ryans grill buffet bakery,black beans with ham for taco bar,1.5,g,5,mg,470,g,14,g,6,g,0,g,0,g,3,g,1,g
+484,ryans grill buffet bakery,potatoes con queso for taco bar,6,g,2,mg,460,g,17,g,2,g,1.5,g,0,g,1,g,2,g
+485,ryans grill buffet bakery,shredded cheddar cheese for taco bar,3.5,g,10,mg,60,g,0,g,3,g,2,g,0,g,0,g,0,g
+486,ryans grill buffet bakery,chicken quesadillas for taco bar,7,g,15,mg,200,g,6,g,5,g,2.5,g,0,g,0.5,g,0.5,g
+487,ryans grill buffet bakery,taco shells,2.5,g,0,mg,45,g,7,g,0.5,g,0.5,g,0,g,0.5,g,0,g
+488,ryans grill buffet bakery,average all varieties enchiladas for taco bar,18,g,45,mg,560,g,12,g,13,g,9,g,0,g,1,g,1,g
+489,ryans grill buffet bakery,sour cream,2.5,g,5,mg,5,g,0.5,g,0,g,1.5,g,0,g,0,g,0,g
+490,ryans grill buffet bakery,refried beans for taco bar,2.5,g,5,mg,390,g,12,g,6,g,1.5,g,0,g,4,g,0,g
+491,ryans grill buffet bakery,red beans with ham for taco bar,1.5,g,5,mg,360,g,8,g,4,g,0,g,0,g,3,g,2,g
+492,ryans grill buffet bakery,nacho chips for taco bar,3.5,g,0,mg,90,g,9,g,1,g,0.5,g,0,g,0.5,g,0.5,g
+493,ryans grill buffet bakery,mexican rice for taco bar,0,g,0,mg,290,g,13,g,2,g,0,g,0,g,0,g,2,g
+494,ryans grill buffet bakery,sauteed jalapenos and onions for taco bar,1,g,0,mg,20,g,2,g,0,g,0,g,0,g,0.5,g,1,g
+495,ryans grill buffet bakery,fried jalapenos for taco bar,1,g,0,mg,125,g,1,g,0,g,0,g,0,g,0,g,0,g
+496,ryans grill buffet bakery,chicken taco meat for taco bar,3,g,30,mg,160,g,1,g,9,g,1,g,0,g,0,g,0.5,g
+497,ryans grill buffet bakery,diced tomatoes for taco bar,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+498,ryans grill buffet bakery,tostadas,6,g,0,mg,85,g,14,g,1,g,0.5,g,0,g,1,g,0,g
+499,ryans grill buffet bakery,diced onions for taco bar,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+500,ryans grill buffet bakery,guacamole for taco bar,2,g,5,mg,40,g,0.5,g,0,g,1,g,0,g,0,g,0,g
+501,ryans grill buffet bakery,chicken fajita for taco bar,12,g,30,mg,830,g,3,g,9,g,2.5,g,0,g,1,g,1,g
+502,ryans grill buffet bakery,steak fajita,6,g,40,mg,300,g,2,g,14,g,2,g,0,g,0.5,g,1,g
+503,ryans grill buffet bakery,salsa for taco bar,0,g,0,mg,150,g,2,g,0,g,0,g,0,g,0,g,0,g
+504,ryans grill buffet bakery,pico de gallo for taco bar,0,g,0,mg,150,g,3,g,0,g,0,g,0,g,0,g,2,g
+505,ryans grill buffet bakery,grilled pork steak,9,g,50,mg,440,g,0,g,14,g,3,g,0,g,0,g,0,g
+506,ryans grill buffet bakery,bbq beef ribs,23,g,60,mg,350,g,7,g,17,g,9,g,0,g,0,g,6,g
+507,ryans grill buffet bakery,roasted jerk chicken wing,4.5,g,40,mg,260,g,0,g,10,g,1.5,g,0,g,0,g,0,g
+508,ryans grill buffet bakery,meatloaf,11,g,60,mg,440,g,7,g,12,g,4.5,g,0,g,0,g,4,g
+509,ryans grill buffet bakery,beef and broccoli stir fry,5,g,15,mg,670,g,15,g,3,g,1.5,g,0,g,2,g,6,g
+510,ryans grill buffet bakery,honey glazed baked ham,5,g,40,mg,990,g,1,g,16,g,2.5,g,0,g,0,g,1,g
+511,ryans grill buffet bakery,roasted jerk chicken thigh,11,g,105,mg,660,g,0,g,20,g,3,g,0,g,0,g,0,g
+512,ryans grill buffet bakery,grilled bbq pork steak,9,g,50,mg,540,g,3,g,14,g,3,g,0,g,0,g,2,g
+513,ryans grill buffet bakery,roasted jerk chicken breast,18,g,165,mg,820,g,0,g,40,g,5,g,0,g,0,g,0,g
+514,ryans grill buffet bakery,baked fish,4.5,g,30,mg,230,g,0,g,14,g,1,g,0,g,0,g,0,g
+515,ryans grill buffet bakery,rotisserie chicken drumstick,6,g,55,mg,170,g,0,g,10,g,1.5,g,0,g,0,g,0,g
+516,ryans grill buffet bakery,bbq pork ribs,9,g,35,mg,320,g,5,g,9,g,3.5,g,0,g,0,g,5,g
+517,ryans grill buffet bakery,rotisserie chicken thigh,11,g,105,mg,340,g,0.5,g,20,g,3,g,0,g,0,g,0,g
+518,ryans grill buffet bakery,baked mostaccioli,5,g,20,mg,410,g,15,g,11,g,2,g,0,g,1,g,4,g
+519,ryans grill buffet bakery,pepperoni and sausage calzone,6,g,45,mg,390,g,15,g,7,g,3,g,0,g,0,g,4,g
+520,ryans grill buffet bakery,rotisserie chicken wing,4.5,g,45,mg,180,g,0,g,10,g,1.5,g,0,g,0,g,0,g
+521,ryans grill buffet bakery,chicken zucchini stir fry,3.5,g,25,mg,280,g,9,g,8,g,1,g,0,g,1,g,7,g
+522,ryans grill buffet bakery,creamy penne carbonara,17,g,35,mg,870,g,17,g,11,g,5,g,0,g,2,g,3,g
+523,ryans grill buffet bakery,country fried steak without gravy,13,g,25,mg,630,g,15,g,9,g,4,g,0.5,g,0.5,g,0,g
+524,ryans grill buffet bakery,traditional baked chicken breast,17,g,165,mg,630,g,0.5,g,40,g,5,g,0,g,0,g,0,g
+525,ryans grill buffet bakery,pasta primavera,10,g,2,mg,250,g,14,g,4,g,4,g,0,g,2,g,2,g
+526,ryans grill buffet bakery,carved ham,5,g,40,mg,990,g,0,g,14,g,3,g,0,g,0,g,0,g
+527,ryans grill buffet bakery,traditional baked chicken thigh,11,g,105,mg,340,g,0.5,g,20,g,3,g,0,g,0.5,g,0,g
+528,ryans grill buffet bakery,country bbq chicken drumstick,6,g,55,mg,280,g,2,g,10,g,1.5,g,0,g,0,g,2,g
+529,ryans grill buffet bakery,hand breaded fried chicken breast,22,g,170,mg,470,g,0,g,41,g,6,g,0,g,0,g,0,g
+530,ryans grill buffet bakery,roasted jerk chicken drumstick,7,g,55,mg,340,g,0,g,10,g,2,g,0,g,0,g,0,g
+531,ryans grill buffet bakery,fried catfish,5,g,25,mg,160,g,4,g,9,g,0,g,0,g,0,g,0,g
+532,ryans grill buffet bakery,country style bbq pork ribs,9,g,35,mg,350,g,5,g,9,g,3.5,g,0,g,0,g,5,g
+533,ryans grill buffet bakery,perfect pot roast,7,g,40,mg,780,g,9,g,15,g,2.5,g,0,g,1,g,3,g
+534,ryans grill buffet bakery,traditional baked chicken drumstick,6,g,55,mg,230,g,0.5,g,10,g,2,g,0,g,0,g,0,g
+535,ryans grill buffet bakery,fried fish,4,g,10,mg,200,g,9,g,3,g,0.5,g,0,g,0.5,g,0,g
+536,ryans grill buffet bakery,honey bbq pork riblets,9,g,35,mg,170,g,3,g,8,g,3,g,0,g,0,g,2,g
+537,ryans grill buffet bakery,carved salmon filet,11,g,55,mg,390,g,0,g,19,g,2,g,0,g,0,g,0,g
+538,ryans grill buffet bakery,sizzling bbq beef brisket,6,g,30,mg,500,g,6,g,23,g,2,g,0,g,0,g,6,g
+539,ryans grill buffet bakery,carved sirloin steak,9,g,70,mg,170,g,0,g,25,g,3.5,g,0,g,0,g,0,g
+540,ryans grill buffet bakery,grilled smoked sausage,17,g,25,mg,460,g,2,g,7,g,8,g,0,g,0,g,0,g
+541,ryans grill buffet bakery,carved grilled pork loin,10,g,45,mg,370,g,0,g,13,g,3.5,g,0,g,0,g,0,g
+542,ryans grill buffet bakery,grilled bbq smoked sausage,13,g,20,mg,520,g,8,g,6,g,6,g,0,g,0.5,g,6,g
+543,ryans grill buffet bakery,chicken and dumplings,5,g,30,mg,620,g,17,g,11,g,1,g,0,g,0.5,g,3,g
+544,ryans grill buffet bakery,parmesan crusted tilapia,7,g,45,mg,230,g,7,g,21,g,2,g,0,g,0,g,0.5,g
+545,ryans grill buffet bakery,hearty seafood stew,5,g,30,mg,330,g,8,g,7,g,1,g,0,g,1,g,3,g
+546,ryans grill buffet bakery,wood seared salmon,16,g,55,mg,280,g,0,g,19,g,3,g,0,g,0,g,0,g
+547,ryans grill buffet bakery,kung pao beef,5,g,15,mg,520,g,12,g,2,g,1.5,g,0,g,2,g,6,g
+548,ryans grill buffet bakery,butterfly shrimp,1.5,g,5,mg,70,g,4,g,1,g,0,g,0,g,0,g,0,g
+549,ryans grill buffet bakery,bbq beef,2.5,g,10,mg,500,g,8,g,5,g,1,g,0,g,0.5,g,6,g
+550,ryans grill buffet bakery,fried shrimp,6,g,35,mg,590,g,12,g,4,g,1,g,0,g,0.5,g,0.5,g
+551,ryans grill buffet bakery,beef stroganoff,8,g,55,mg,200,g,19,g,13,g,2.5,g,0,g,1,g,0.5,g
+552,ryans grill buffet bakery,new orleans bourbon street chicken,8,g,55,mg,580,g,9,g,17,g,1.5,g,0,g,0,g,1,g
+553,ryans grill buffet bakery,spaghetti and meat sauce,3,g,10,mg,430,g,17,g,8,g,1,g,0,g,2,g,4,g
+554,ryans grill buffet bakery,hand breaded fried chicken thigh,13,g,105,mg,230,g,0,g,20,g,3.5,g,0,g,0,g,0,g
+555,ryans grill buffet bakery,lasagna,5,g,25,mg,530,g,18,g,7,g,2.5,g,0,g,2,g,4,g
+556,ryans grill buffet bakery,country pasta gratine,4,g,20,mg,720,g,24,g,8,g,1,g,0,g,1,g,2,g
+557,ryans grill buffet bakery,buffalo chicken poppers,10,g,20,mg,700,g,10,g,8,g,1,g,0,g,0,g,1,g
+558,ryans grill buffet bakery,pot roast stroganoff,6,g,25,mg,540,g,15,g,6,g,2,g,0,g,1,g,3,g
+559,ryans grill buffet bakery,salisbury steak,9,g,25,mg,300,g,8,g,9,g,3.5,g,0.5,g,1,g,1,g
+560,ryans grill buffet bakery,carved rope sausage,24,g,35,mg,660,g,3,g,10,g,11,g,0,g,0,g,3,g
+561,ryans grill buffet bakery,oven roasted rotisserie style turkey,4,g,40,mg,450,g,0.5,g,14,g,1,g,0,g,0,g,0.5,g
+562,ryans grill buffet bakery,turkey hot dog,11,g,50,mg,570,g,2,g,6,g,3.5,g,0,g,0,g,1,g
+563,ryans grill buffet bakery,lo mein,7,g,20,mg,400,g,20,g,4,g,1,g,0,g,2,g,3,g
+564,ryans grill buffet bakery,hand breaded fried chicken wing,6,g,45,mg,115,g,0,g,10,g,1.5,g,0,g,0,g,0,g
+565,ryans grill buffet bakery,shrimp alfredo,10,g,95,mg,280,g,14,g,14,g,4,g,0,g,1,g,0.5,g
+566,ryans grill buffet bakery,hand breaded fried chicken drumstick,7,g,60,mg,120,g,0,g,10,g,2,g,0,g,0,g,0,g
+567,ryans grill buffet bakery,rotisserie chicken breast,17,g,165,mg,680,g,1,g,40,g,5,g,0,g,0,g,1,g
+568,ryans grill buffet bakery,chicken alfredo,14,g,35,mg,530,g,16,g,10,g,4,g,0,g,1,g,3,g
+569,ryans grill buffet bakery,sauerkraut,0,g,0,mg,110,g,1,g,0,g,0,g,0,g,0,g,0,g
+570,ryans grill buffet bakery,chinese chicken livers,11,g,225,mg,670,g,14,g,14,g,2.5,g,0,g,2,g,0.5,g
+571,ryans grill buffet bakery,butter crumb alaskan pollock,5,g,45,mg,160,g,2,g,13,g,1.5,g,0,g,0,g,0,g
+572,ryans grill buffet bakery,clam strips,20,g,15,mg,630,g,28,g,9,g,3.5,g,0,g,2,g,1,g
+573,ryans grill buffet bakery,traditional baked chicken wing,4.5,g,40,mg,170,g,0,g,10,g,1,g,0,g,0,g,0,g
+574,ryans grill buffet bakery,butterfly and popcorn shrimp,6,g,15,mg,440,g,14,g,4,g,1,g,0,g,0.5,g,1,g
+575,ryans grill buffet bakery,country fried steak with gravy,13,g,25,mg,700,g,16,g,9,g,4,g,0.5,g,0.5,g,0,g
+576,ryans grill buffet bakery,orange chicken,22,g,55,mg,520,g,26,g,12,g,4.5,g,0,g,1,g,4,g
+577,ryans grill buffet bakery,shrimp scampi,13,g,120,mg,380,g,21,g,16,g,3.5,g,0,g,1,g,0.5,g
+578,ryans grill buffet bakery,pasta florentine with creamy marinara,8,g,10,mg,270,g,14,g,4,g,2,g,0,g,2,g,3,g
+579,ryans grill buffet bakery,seafood patties,6,g,30,mg,460,g,13,g,3,g,1,g,0,g,1,g,1,g
+580,ryans grill buffet bakery,grilled italian sausage penne,11,g,20,mg,480,g,14,g,7,g,3.5,g,0,g,1,g,3,g
+581,ryans grill buffet bakery,beef patties,7,g,45,mg,105,g,2,g,9,g,2.5,g,0,g,0,g,0.5,g
+582,ryans grill buffet bakery,corn dog,12,g,30,mg,610,g,30,g,6,g,1.5,g,0,g,0,g,7,g
+583,ryans grill buffet bakery,coconut shrimp,6,g,25,mg,170,g,13,g,4,g,1.5,g,0,g,1,g,4,g
+584,ryans grill buffet bakery,jambalaya,9,g,30,mg,550,g,7,g,7,g,2.5,g,0,g,1,g,3,g
+585,ryans grill buffet bakery,bbq smoked sausage with peppers and onion,15,g,20,mg,650,g,8,g,6,g,7,g,0,g,0.5,g,6,g
+586,ryans grill buffet bakery,chicken strips or tenders,10,g,25,mg,430,g,10,g,10,g,2.5,g,0,g,0,g,0.5,g
+587,ryans grill buffet bakery,carved roast beef,15,g,70,mg,55,g,0,g,23,g,7,g,0,g,0,g,0,g
+588,ryans grill buffet bakery,chicken slider,13,g,15,mg,490,g,24,g,8,g,2.5,g,1,g,1,g,3,g
+589,ryans grill buffet bakery,country bbq chicken wing,4.5,g,40,mg,280,g,3,g,10,g,1,g,0,g,0.5,g,2,g
+590,ryans grill buffet bakery,italian sausage,13,g,30,mg,350,g,3,g,6,g,4.5,g,0,g,0.5,g,1,g
+591,ryans grill buffet bakery,spaghetti and meatballs,5,g,10,mg,500,g,19,g,7,g,2,g,0,g,3,g,3,g
+592,ryans grill buffet bakery,fire grilled chicken alfredo,14,g,40,mg,480,g,14,g,10,g,4,g,0,g,2,g,3,g
+593,ryans grill buffet bakery,country bbq chicken breast,16,g,165,mg,780,g,6,g,40,g,5,g,0,g,2,g,3,g
+594,ryans grill buffet bakery,macaroni and cheese,2.5,g,5,mg,500,g,18,g,4,g,1,g,0,g,0.5,g,1,g
+595,ryans grill buffet bakery,salmon with creole shrimp,7,g,70,mg,140,g,2,g,18,g,1,g,0,g,0,g,0.5,g
+596,ryans grill buffet bakery,grilled teriyaki pineapple chicken,6,g,50,mg,320,g,6,g,14,g,1.5,g,0,g,0,g,5,g
+597,ryans grill buffet bakery,cheese pizza,4,g,10,mg,350,g,22,g,8,g,2,g,0,g,1,g,2,g
+598,ryans grill buffet bakery,bbq baked chicken pizza,7,g,30,mg,800,g,32,g,15,g,3.5,g,0,g,1,g,11,g
+599,ryans grill buffet bakery,pepperoni pizza,9,g,25,mg,580,g,22,g,10,g,4,g,0,g,1,g,2,g
+600,ryans grill buffet bakery,cherry tomatoes,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+601,ryans grill buffet bakery,sliced red onions,0,g,0,mg,0,g,0.5,g,0,g,0,g,0,g,0,g,0,g
+602,ryans grill buffet bakery,peel and eat shrimp,0,g,10,mg,40,g,0,g,1,g,0,g,0,g,0,g,0,g
+603,ryans grill buffet bakery,chopped romaine lettuce,0,g,0,mg,5,g,1,g,0.5,g,0,g,0,g,1,g,0,g
+604,ryans grill buffet bakery,ambrosia,9,g,0,mg,50,g,23,g,0,g,8,g,0,g,1,g,19,g
+605,ryans grill buffet bakery,spinach leaves,0,g,0,mg,25,g,1,g,1,g,0,g,0,g,0.5,g,0,g
+606,ryans grill buffet bakery,pickled beets,0,g,0,mg,110,g,18,g,0.5,g,0,g,0,g,2,g,16,g
+607,ryans grill buffet bakery,pepperoncini,0,g,0,mg,170,g,0.5,g,0,g,0,g,0,g,0,g,0,g
+608,ryans grill buffet bakery,stewed prunes,0,g,0,mg,0,g,27,g,0.5,g,0,g,0,g,2,g,19,g
+609,ryans grill buffet bakery,black olives,1.5,g,0,mg,130,g,1,g,0,g,0,g,0,g,0.5,g,0,g
+610,ryans grill buffet bakery,sliced cucumber,0,g,0,mg,0,g,0.5,g,0,g,0,g,0,g,0,g,0,g
+611,ryans grill buffet bakery,corn salsa,0.5,g,0,mg,80,g,14,g,2,g,0,g,0,g,2,g,2,g
+612,ryans grill buffet bakery,strawberry whip,18,g,20,mg,140,g,17,g,1,g,11,g,0,g,0,g,11,g
+613,ryans grill buffet bakery,hummus,4,g,0,mg,125,g,6,g,1,g,1,g,0,g,1,g,1,g
+614,ryans grill buffet bakery,crispy noodles,1,g,0,mg,90,g,5,g,0.5,g,0,g,0,g,0,g,0,g
+615,ryans grill buffet bakery,california coleslaw,0,g,0,mg,85,g,24,g,1,g,0,g,0,g,1,g,22,g
+616,ryans grill buffet bakery,shredded mozzarella cheese,2,g,5,mg,55,g,0,g,3,g,1.5,g,0,g,0,g,0,g
+617,ryans grill buffet bakery,broccoli,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0.5,g,0,g
+618,ryans grill buffet bakery,diced chicken breast,1,g,25,mg,160,g,0,g,9,g,0,g,0,g,0,g,0,g
+619,ryans grill buffet bakery,sunflower seeds,5,g,0,mg,65,g,2,g,3,g,0.5,g,0,g,1,g,0,g
+620,ryans grill buffet bakery,feta cheese,9,g,35,mg,450,g,2,g,6,g,6,g,0,g,0,g,2,g
+621,ryans grill buffet bakery,artichokes,0,g,0,mg,40,g,1,g,0,g,0,g,0,g,0,g,0,g
+622,ryans grill buffet bakery,jalapenos,0,g,0,mg,0,g,0.5,g,0,g,0,g,0,g,0,g,0,g
+623,ryans grill buffet bakery,roasted red pepper,0,g,0,mg,210,g,0.5,g,0,g,0,g,0,g,0,g,0.5,g
+624,ryans grill buffet bakery,croutons,1,g,0,mg,90,g,4,g,0.5,g,0,g,0,g,0,g,0,g
+625,ryans grill buffet bakery,parmesan cheese,2,g,5,mg,110,g,0,g,3,g,1,g,0,g,0,g,0,g
+626,ryans grill buffet bakery,raisin fluff,4,g,0,mg,160,g,21,g,1,g,2.5,g,0.5,g,0.5,g,10,g
+627,ryans grill buffet bakery,cherry peppers,0,g,0,mg,60,g,1,g,0,g,0,g,0,g,0,g,0.5,g
+628,ryans grill buffet bakery,mushrooms,0,g,0,mg,0,g,0.5,g,0,g,0,g,0,g,0,g,0,g
+629,ryans grill buffet bakery,radishes,0,g,0,mg,5,g,0.5,g,0,g,0,g,0,g,0,g,0,g
+630,ryans grill buffet bakery,sliced peaches,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,2,g
+631,ryans grill buffet bakery,cottage cheese,1,g,2,mg,95,g,1,g,3,g,0,g,0,g,0,g,1,g
+632,ryans grill buffet bakery,average all flavors gelatin whip,3,g,0,mg,55,g,13,g,0.5,g,2.5,g,0,g,0,g,11,g
+633,ryans grill buffet bakery,craisins,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0.5,g,5,g
+634,ryans grill buffet bakery,shredded monterey jack cheese,3,g,10,mg,55,g,0,g,2,g,2,g,0,g,0,g,0,g
+635,ryans grill buffet bakery,peas,0,g,0,mg,10,g,2,g,1,g,0,g,0,g,1,g,1,g
+636,ryans grill buffet bakery,diced or julienne ham,1,g,15,mg,330,g,0,g,5,g,0.5,g,0,g,0,g,0,g
+637,ryans grill buffet bakery,garbanzo beans,0,g,0,mg,35,g,2,g,0.5,g,0,g,0,g,0.5,g,0,g
+638,ryans grill buffet bakery,kidney beans,0,g,0,mg,40,g,2,g,0.5,g,0,g,0,g,1,g,0,g
+639,ryans grill buffet bakery,apple sauce,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,2,g
+640,ryans grill buffet bakery,average all flavors gelatin,0,g,0,mg,30,g,10,g,0.5,g,0,g,0,g,0,g,10,g
+641,ryans grill buffet bakery,imitation shredded cheese,1,g,0,mg,70,g,2,g,0,g,0.5,g,0,g,0,g,0,g
+642,ryans grill buffet bakery,diced eggs,1.5,g,65,mg,20,g,0,g,2,g,0.5,g,0,g,0,g,0,g
+643,ryans grill buffet bakery,raisins,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0.5,g,7,g
+644,ryans grill buffet bakery,corn,0,g,0,mg,0,g,3,g,0.5,g,0,g,0,g,0,g,0.5,g
+645,ryans grill buffet bakery,imitation bacon bits,1,g,0,mg,125,g,2,g,3,g,0,g,0,g,0.5,g,0,g
+646,ryans grill buffet bakery,spring mix,0,g,0,mg,5,g,1,g,0.5,g,0,g,0,g,1,g,0,g
+647,ryans grill buffet bakery,real bacon bits,1.5,g,5,mg,220,g,0,g,3,g,0.5,g,0,g,0,g,0,g
+648,ryans grill buffet bakery,green olives,2.5,g,0,mg,230,g,0.5,g,0,g,0,g,0,g,0.5,g,0,g
+649,ryans grill buffet bakery,cauliflower,0,g,0,mg,5,g,1,g,0,g,0,g,0,g,0.5,g,0,g
+650,ryans grill buffet bakery,fat free italian dressing,0,g,0,mg,490,g,3,g,0,g,0,g,0,g,0,g,2,g
+651,ryans grill buffet bakery,italian dressing,11,g,0,mg,420,g,5,g,0,g,1.5,g,0,g,0,g,3,g
+652,ryans grill buffet bakery,low fat italian dressing,2,g,0,mg,420,g,2,g,0,g,0,g,0,g,0,g,2,g
+653,ryans grill buffet bakery,reduced fat ranch dressing,5,g,5,mg,280,g,5,g,0,g,0,g,0,g,0,g,1,g
+654,ryans grill buffet bakery,oriental sesame dressing,4.5,g,0,mg,320,g,12,g,0,g,0.5,g,0,g,0,g,9,g
+655,ryans grill buffet bakery,fat free french dressing,0,g,0,mg,310,g,9,g,0,g,0,g,0,g,0.5,g,5,g
+656,ryans grill buffet bakery,ranch dressing,15,g,10,mg,240,g,2,g,0,g,2.5,g,0,g,0,g,0.5,g
+657,ryans grill buffet bakery,french dressing,11,g,0,mg,230,g,9,g,0,g,1.5,g,0,g,0,g,8,g
+658,ryans grill buffet bakery,blue cheese dressing,16,g,15,mg,130,g,1,g,1,g,3,g,0,g,0,g,1,g
+659,ryans grill buffet bakery,fat free ranch dressing,0,g,0,mg,390,g,8,g,0,g,0,g,0,g,0.5,g,3,g
+660,ryans grill buffet bakery,greek vinaigrette,13,g,0,mg,350,g,1,g,2,g,3.5,g,0,g,0,g,1,g
+661,ryans grill buffet bakery,creamy italian dressing,11,g,0,mg,450,g,4,g,0,g,1.5,g,0,g,0,g,3,g
+662,ryans grill buffet bakery,thousand island dressing,10,g,0,mg,320,g,6,g,0,g,1.5,g,0,g,0,g,5,g
+663,ryans grill buffet bakery,fat free raspberry vinaigrette,0,g,0,mg,80,g,8,g,0,g,0,g,0,g,0,g,7,g
+664,ryans grill buffet bakery,fat free creamy italian dressing,0,g,0,mg,330,g,3,g,0,g,0,g,0,g,0.5,g,1,g
+665,ryans grill buffet bakery,ambrosia salad,9,g,0,mg,50,g,23,g,0,g,8,g,0,g,1,g,19,g
+666,ryans grill buffet bakery,apple spice cake,7,g,25,mg,210,g,26,g,3,g,1,g,1,g,0,g,18,g
+667,ryans grill buffet bakery,apple walnut muffin,8,g,0,mg,290,g,34,g,3,g,1,g,0,g,1,g,17,g
+668,ryans grill buffet bakery,applesauce,0,g,0,mg,0,g,4,g,0,g,0,g,0,g,0,g,2,g
+669,ryans grill buffet bakery,artichokes,0,g,0,mg,40,g,1,g,0,g,0,g,0,g,0,g,0,g
+670,ryans grill buffet bakery,asian chopped salad,4,g,0,mg,310,g,13,g,1,g,0.5,g,0,g,1,g,9,g
+671,ryans grill buffet bakery,au jus,0,g,0,mg,120,g,0,g,0,g,0,g,0,g,0,g,0,g
+672,ryans grill buffet bakery,augratin potatoes,5,g,20,mg,330,g,10,g,5,g,3.5,g,0,g,1,g,1,g
+673,ryans grill buffet bakery,bacon,3.5,g,10,mg,180,g,0,g,3,g,1,g,0,g,0,g,0,g
+674,ryans grill buffet bakery,bacon bits imitation,1,g,0,mg,125,g,2,g,3,g,0,g,0,g,1,g,0,g
+675,ryans grill buffet bakery,bacon bits real,1.5,g,5,mg,220,g,0,g,3,g,0.5,g,0,g,0,g,0,g
+676,ryans grill buffet bakery,bacon cheddar butter blend,11,g,20,mg,85,g,0,g,0,g,6,g,0,g,0,g,0,g
+677,ryans grill buffet bakery,bagel plain,1,g,0,mg,490,g,52,g,9,g,0,g,0,g,2,g,5,g
+678,ryans grill buffet bakery,baked fish,5,g,30,mg,230,g,0,g,14,g,1,g,0,g,0,g,0,g
+679,ryans grill buffet bakery,baked mostaccioli,5,g,20,mg,410,g,15,g,11,g,2,g,0,g,1,g,4,g
+680,ryans grill buffet bakery,baked potatoes,0,g,0,mg,20,g,36,g,4,g,0,g,0,g,4,g,2,g
+681,ryans grill buffet bakery,banana nut cake,12,g,45,mg,190,g,37,g,2,g,2.5,g,1,g,1,g,27,g
+682,ryans grill buffet bakery,banana pudding,5,g,0,mg,120,g,24,g,1,g,1,g,1,g,1,g,15,g
+683,ryans grill buffet bakery,banana split,6,g,5,mg,65,g,58,g,3,g,2.5,g,0,g,3,g,45,g
+684,ryans grill buffet bakery,banana walnut muffin,13,g,0,mg,290,g,35,g,5,g,2,g,0,g,2,g,16,g
+685,ryans grill buffet bakery,banana strawberry salad,0,g,0,mg,10,g,22,g,1,g,0,g,0,g,2,g,16,g
+686,ryans grill buffet bakery,bananas,0,g,0,mg,0,g,16,g,1,g,0,g,0,g,2,g,9,g
+687,ryans grill buffet bakery,bbq baked beans,3,g,5,mg,680,g,26,g,4,g,1,g,0,g,4,g,15,g
+688,ryans grill buffet bakery,bbq baked chicken pizza,7,g,30,mg,800,g,32,g,15,g,3.5,g,0,g,1,g,11,g
+689,ryans grill buffet bakery,bbq beef,2.5,g,10,mg,500,g,8,g,5,g,1,g,0,g,1,g,6,g
+690,ryans grill buffet bakery,bbq beef ribs,23,g,60,mg,350,g,7,g,17,g,9,g,0,g,0,g,6,g
+691,ryans grill buffet bakery,bbq pork ribs,9,g,35,mg,320,g,5,g,9,g,3.5,g,0,g,0,g,5,g
+692,ryans grill buffet bakery,bbq smoked sausage with peppers and onions,15,g,20,mg,650,g,8,g,6,g,7,g,0,g,1,g,6,g
+693,ryans grill buffet bakery,beef and broccoli stir fry,5,g,15,mg,670,g,15,g,3,g,1.5,g,0,g,2,g,6,g
+694,ryans grill buffet bakery,beef gravy,1,g,0,mg,330,g,4,g,0,g,0,g,0,g,0,g,2,g
+695,ryans grill buffet bakery,beef patties,7,g,45,mg,105,g,2,g,9,g,2.5,g,0,g,0,g,1,g
+696,ryans grill buffet bakery,beef stroganoff,8,g,55,mg,200,g,19,g,13,g,2.5,g,0,g,1,g,1,g
+697,ryans grill buffet bakery,beef taco meat,2.5,g,15,mg,160,g,2,g,6,g,1,g,0,g,0,g,1,g
+698,ryans grill buffet bakery,biscuits,6,g,0,mg,340,g,16,g,3,g,1.5,g,2,g,1,g,1,g
+699,ryans grill buffet bakery,black beans with ham,1.5,g,5,mg,470,g,14,g,6,g,0,g,0,g,3,g,1,g
+700,ryans grill buffet bakery,black forest cake,6,g,30,mg,200,g,20,g,3,g,1,g,0.5,g,0,g,10,g
+701,ryans grill buffet bakery,black forest cupcake,9,g,50,mg,240,g,36,g,3,g,2.5,g,0.5,g,1,g,23,g
+702,ryans grill buffet bakery,black olives,1.5,g,0,mg,130,g,1,g,0,g,0,g,0,g,1,g,0,g
+703,ryans grill buffet bakery,blt salad,12,g,15,mg,180,g,2,g,2,g,2,g,0,g,1,g,2,g
+704,ryans grill buffet bakery,blue cheese dressing,16,g,15,mg,130,g,1,g,1,g,3,g,0,g,0,g,1,g
+705,ryans grill buffet bakery,blueberry muffin,9,g,0,mg,290,g,34,g,4,g,1.5,g,0,g,1,g,16,g
+706,ryans grill buffet bakery,blueberry pancakes,2,g,5,mg,370,g,19,g,3,g,0.5,g,0,g,0,g,4,g
+707,ryans grill buffet bakery,bread dressing,6,g,10,mg,440,g,21,g,4,g,2,g,0,g,1,g,2,g
+708,ryans grill buffet bakery,bread pudding,7,g,90,mg,160,g,27,g,4,g,3,g,0.5,g,1,g,18,g
+709,ryans grill buffet bakery,broccoli,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,0,g
+710,ryans grill buffet bakery,broccoli apple salad,11,g,15,mg,150,g,13,g,4,g,2,g,0,g,2,g,9,g
+711,ryans grill buffet bakery,broccoli bacon salad,13,g,15,mg,260,g,14,g,4,g,2.5,g,0,g,2,g,8,g
+712,ryans grill buffet bakery,broccoli florets,0,g,0,mg,30,g,6,g,2,g,0,g,0,g,2,g,1,g
+713,ryans grill buffet bakery,broccoli florets and cheese sauce,2,g,0,mg,410,g,8,g,2,g,0.5,g,0,g,2,g,1,g
+714,ryans grill buffet bakery,broccoli cauliflower medley,0,g,0,mg,30,g,6,g,2,g,0,g,0,g,2,g,1,g
+715,ryans grill buffet bakery,brown sugar,0,g,0,mg,5,g,9,g,0,g,0,g,0,g,0,g,9,g
+716,ryans grill buffet bakery,bruschetta tomato pasta salad,8,g,5,mg,380,g,19,g,4,g,1.5,g,0,g,1,g,3,g
+717,ryans grill buffet bakery,bruschetta tomato salad,5,g,0,mg,200,g,6,g,1,g,1,g,0,g,1,g,4,g
+718,ryans grill buffet bakery,buffalo chicken poppers,10,g,20,mg,700,g,10,g,8,g,1,g,0,g,0,g,1,g
+719,ryans grill buffet bakery,butter,4,g,10,mg,30,g,0,g,0,g,2.5,g,0,g,0,g,0,g
+720,ryans grill buffet bakery,butter crumb alaskan pollock,5,g,45,mg,160,g,2,g,13,g,1.5,g,0,g,0,g,0,g
+721,ryans grill buffet bakery,butter melted,46,g,330,mg,370,g,0,g,1,g,29,g,0,g,0,g,0,g
+722,ryans grill buffet bakery,buttered noodles,5,g,30,mg,170,g,24,g,4,g,1,g,0,g,1,g,0,g
+723,ryans grill buffet bakery,butterfingerepieces,2.5,g,0,mg,35,g,11,g,1,g,1.5,g,0,g,0,g,8,g
+724,ryans grill buffet bakery,butterfly and popcorn shrimp,6,g,15,mg,440,g,14,g,4,g,1,g,0,g,1,g,1,g
+725,ryans grill buffet bakery,butterfly shrimp,1.5,g,5,mg,70,g,4,g,1,g,0,g,0,g,0,g,0,g
+726,ryans grill buffet bakery,buttermilk pancakes,2,g,5,mg,380,g,19,g,3,g,0.5,g,0,g,0,g,4,g
+727,ryans grill buffet bakery,butterscotch brownie,9,g,25,mg,210,g,20,g,2,g,2,g,1.5,g,0,g,14,g
+728,ryans grill buffet bakery,butterscotch topping,0,g,0,mg,105,g,31,g,0,g,0,g,0,g,0,g,14,g
+729,ryans grill buffet bakery,caesar salad,6,g,5,mg,110,g,4,g,1,g,1,g,0,g,1,g,1,g
+730,ryans grill buffet bakery,cajun rice,2,g,0,mg,470,g,16,g,2,g,0,g,0,g,1,g,1,g
+731,ryans grill buffet bakery,california coleslaw,0,g,0,mg,85,g,24,g,1,g,0,g,0,g,1,g,22,g
+732,ryans grill buffet bakery,candied yams,1.5,g,0,mg,45,g,33,g,1,g,0,g,0,g,2,g,15,g
+733,ryans grill buffet bakery,cantaloupe,0,g,0,mg,10,g,6,g,1,g,0,g,0,g,1,g,7,g
+734,ryans grill buffet bakery,cappuccino cake,10,g,35,mg,210,g,18,g,3,g,4.5,g,0,g,0,g,14,g
+735,ryans grill buffet bakery,cappuccino all flavors,4,g,0,mg,290,g,30,g,1,g,4,g,0,g,0,g,25,g
+736,ryans grill buffet bakery,caramel apple crisp,4.5,g,0,mg,95,g,32,g,1,g,1,g,0.5,g,1,g,26,g
+737,ryans grill buffet bakery,caramel rolls,5,g,0,mg,115,g,22,g,3,g,1,g,0,g,1,g,8,g
+738,ryans grill buffet bakery,caramel topped cupcake all varieties,16,g,60,mg,280,g,38,g,4,g,4,g,2,g,0,g,29,g
+739,ryans grill buffet bakery,carbonated beverages all flavors,0,g,0,mg,60,g,41,g,0,g,0,g,0,g,0,g,41,g
+740,ryans grill buffet bakery,carrot and raisin salad,9,g,10,mg,115,g,17,g,1,g,1.5,g,0,g,2,g,13,g
+741,ryans grill buffet bakery,carrot cake,12,g,35,mg,220,g,29,g,2,g,2.5,g,1,g,1,g,22,g
+742,ryans grill buffet bakery,carrots matchsticks,5,g,0,mg,5,g,1,g,0,g,0,g,0,g,0,g,0,g
+743,ryans grill buffet bakery,carved grilled pork loin,10,g,45,mg,370,g,0,g,13,g,3.5,g,0,g,0,g,0,g
+744,ryans grill buffet bakery,carved ham,5,g,40,mg,990,g,0,g,14,g,3,g,0,g,0,g,0,g
+745,ryans grill buffet bakery,carved roast beef,15,g,70,mg,55,g,0,g,23,g,7,g,0,g,0,g,0,g
+746,ryans grill buffet bakery,carved rope sausage,24,g,35,mg,660,g,3,g,10,g,11,g,0,g,0,g,3,g
+747,ryans grill buffet bakery,carved salmon filet,11,g,55,mg,390,g,0,g,19,g,2,g,0,g,0,g,0,g
+748,ryans grill buffet bakery,carved sirloin steak,9,g,70,mg,170,g,0,g,25,g,3.5,g,0,g,0,g,0,g
+749,ryans grill buffet bakery,cauliflower,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,0,g
+750,ryans grill buffet bakery,cauliflower augratin,2,g,0,mg,410,g,8,g,2,g,0.5,g,0,g,2,g,1,g
+751,ryans grill buffet bakery,cheese pizza,4,g,10,mg,350,g,22,g,8,g,2,g,0,g,1,g,2,g
+752,ryans grill buffet bakery,cheese sauce,1.5,g,5,mg,510,g,7,g,1,g,0.5,g,0,g,0,g,1,g
+753,ryans grill buffet bakery,cheeseburger,15,g,50,mg,800,g,24,g,15,g,5,g,0,g,1,g,3,g
+754,ryans grill buffet bakery,cheeseburger sliders,10,g,25,mg,510,g,19,g,8,g,5,g,0,g,1,g,3,g
+755,ryans grill buffet bakery,cheesecake,12,g,5,mg,280,g,28,g,3,g,6,g,1,g,0,g,22,g
+756,ryans grill buffet bakery,cheesy hashbrowns,8,g,25,mg,310,g,10,g,6,g,5,g,0,g,1,g,1,g
+757,ryans grill buffet bakery,cheesy twice baked potato,9,g,25,mg,480,g,13,g,5,g,6,g,0,g,1,g,2,g
+758,ryans grill buffet bakery,cherry cheesecake,12,g,5,mg,280,g,30,g,3,g,6,g,1,g,0,g,22,g
+759,ryans grill buffet bakery,cherry cobbler,9,g,0,mg,100,g,32,g,1,g,2,g,2,g,1,g,7,g
+760,ryans grill buffet bakery,cherry crisp,3,g,0,mg,60,g,32,g,1,g,0.5,g,1,g,1,g,12,g
+761,ryans grill buffet bakery,cherry muffin,9,g,0,mg,300,g,35,g,4,g,1.5,g,0,g,1,g,15,g
+762,ryans grill buffet bakery,cherry peppers,0,g,0,mg,60,g,1,g,0,g,0,g,0,g,0,g,1,g
+763,ryans grill buffet bakery,cherry tomatoes,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+764,ryans grill buffet bakery,chewy bears,0,g,0,mg,10,g,15,g,1,g,0,g,0,g,0,g,14,g
+765,ryans grill buffet bakery,chicken and dumplings,5,g,30,mg,620,g,17,g,11,g,1,g,0,g,1,g,3,g
+766,ryans grill buffet bakery,chicken alfredo,14,g,35,mg,530,g,16,g,10,g,4,g,0,g,1,g,3,g
+767,ryans grill buffet bakery,chicken caesar salad,7,g,20,mg,120,g,3,g,6,g,1.5,g,0,g,1,g,1,g
+768,ryans grill buffet bakery,chicken chilaquiles,13,g,20,mg,590,g,9,g,7,g,4,g,0,g,1,g,2,g
+769,ryans grill buffet bakery,chicken fajita,12,g,30,mg,830,g,3,g,9,g,2.5,g,0,g,1,g,1,g
+770,ryans grill buffet bakery,chicken gravy,0,g,0,mg,260,g,5,g,1,g,0,g,0,g,0,g,1,g
+771,ryans grill buffet bakery,chicken noodle soup,2,g,20,mg,300,g,8,g,6,g,0.5,g,0,g,1,g,1,g
+772,ryans grill buffet bakery,chicken pasta salad,18,g,30,mg,320,g,13,g,6,g,3.5,g,0,g,1,g,1,g
+773,ryans grill buffet bakery,chicken quesadillas,7,g,15,mg,200,g,6,g,5,g,2.5,g,0,g,1,g,1,g
+774,ryans grill buffet bakery,chicken rice soup,1.5,g,20,mg,300,g,5,g,6,g,0.5,g,0,g,1,g,1,g
+775,ryans grill buffet bakery,chicken sliders,13,g,15,mg,490,g,24,g,8,g,2.5,g,1,g,1,g,3,g
+776,ryans grill buffet bakery,chicken strips or tenders,10,g,25,mg,430,g,10,g,10,g,2.5,g,0,g,0,g,1,g
+777,ryans grill buffet bakery,chicken taco meat,3,g,30,mg,160,g,1,g,9,g,1,g,0,g,0,g,1,g
+778,ryans grill buffet bakery,chicken tortilla soup,1,g,5,mg,270,g,5,g,2,g,0.5,g,0,g,1,g,1,g
+779,ryans grill buffet bakery,chicken zucchini stir fry,3.5,g,25,mg,280,g,9,g,8,g,1,g,0,g,1,g,7,g
+780,ryans grill buffet bakery,chili bean soup,3.5,g,15,mg,340,g,9,g,7,g,1.5,g,0,g,3,g,2,g
+781,ryans grill buffet bakery,chinese chicken livers,11,g,225,mg,670,g,14,g,14,g,2.5,g,0,g,2,g,1,g
+782,ryans grill buffet bakery,chocolate cake,8,g,30,mg,210,g,25,g,3,g,1.5,g,0.5,g,0,g,9,g
+783,ryans grill buffet bakery,chocolate chess pie,15,g,80,mg,250,g,51,g,3,g,8,g,0,g,1,g,25,g
+784,ryans grill buffet bakery,chocolate chip cookie,6,g,5,mg,70,g,18,g,1,g,2,g,0,g,1,g,9,g
+785,ryans grill buffet bakery,chocolate chip cookie bar,13,g,25,mg,230,g,39,g,3,g,4,g,2.5,g,1,g,26,g
+786,ryans grill buffet bakery,chocolate chip cookie pizza,8,g,0,mg,130,g,21,g,1,g,3,g,2.5,g,1,g,12,g
+787,ryans grill buffet bakery,chocolate chip pancakes,3,g,5,mg,380,g,19,g,3,g,1,g,0,g,0,g,4,g
+788,ryans grill buffet bakery,chocolate chips,5,g,0,mg,0,g,10,g,0,g,4,g,0,g,0,g,9,g
+789,ryans grill buffet bakery,chocolate cookie pieces,1.5,g,0,mg,20,g,6,g,0,g,0,g,0,g,0,g,3,g
+790,ryans grill buffet bakery,chocolate cream pie,9,g,0,mg,120,g,24,g,2,g,4.5,g,1,g,1,g,15,g
+791,ryans grill buffet bakery,chocolate cupcake,12,g,50,mg,250,g,41,g,3,g,3,g,0.5,g,1,g,31,g
+792,ryans grill buffet bakery,chocolate decadence cake,10,g,35,mg,250,g,30,g,4,g,4,g,0.5,g,0,g,14,g
+793,ryans grill buffet bakery,chocolate haystacks,8,g,0,mg,90,g,19,g,3,g,4,g,0,g,2,g,11,g
+794,ryans grill buffet bakery,chocolate marble cake,8,g,25,mg,190,g,26,g,2,g,2,g,0.5,g,1,g,19,g
+795,ryans grill buffet bakery,chocolate milk,4.5,g,0,mg,230,g,39,g,14,g,2.5,g,0,g,2,g,38,g
+796,ryans grill buffet bakery,chocolate pudding,4.5,g,0,mg,100,g,19,g,1,g,1,g,1.5,g,1,g,15,g
+797,ryans grill buffet bakery,chocolate soft serve,3,g,10,mg,85,g,21,g,2,g,2,g,0,g,1,g,17,g
+798,ryans grill buffet bakery,chocolate syrup,0,g,0,mg,70,g,25,g,0,g,0,g,0,g,1,g,18,g
+799,ryans grill buffet bakery,cinnamon bread,2.5,g,0,mg,140,g,32,g,3,g,0.5,g,0,g,1,g,13,g
+800,ryans grill buffet bakery,cinnamon granola cereal,4.5,g,0,mg,30,g,43,g,5,g,0.5,g,0,g,3,g,15,g
+801,ryans grill buffet bakery,cinnamon rolls,5,g,0,mg,115,g,23,g,2,g,1,g,0,g,1,g,10,g
+802,ryans grill buffet bakery,clam strips,20,g,15,mg,630,g,28,g,9,g,3.5,g,0,g,2,g,1,g
+803,ryans grill buffet bakery,cocktail sauce,0,g,0,mg,330,g,8,g,0,g,0,g,0,g,0,g,6,g
+804,ryans grill buffet bakery,coconut almond muffin,10,g,0,mg,300,g,32,g,3,g,3.5,g,0,g,1,g,15,g
+805,ryans grill buffet bakery,coconut cream pie,12,g,0,mg,210,g,24,g,2,g,10,g,0,g,1,g,16,g
+806,ryans grill buffet bakery,coconut cream pie scratch,12,g,0,mg,310,g,31,g,1,g,7,g,0.5,g,1,g,20,g
+807,ryans grill buffet bakery,coconut shrimp,6,g,25,mg,170,g,13,g,4,g,1.5,g,0,g,1,g,4,g
+808,ryans grill buffet bakery,coffee creamers,0.5,g,0,mg,0,g,0,g,0,g,0,g,0,g,0,g,0,g
+809,ryans grill buffet bakery,coffee decaffeinated or regular,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+810,ryans grill buffet bakery,collard greens with bacon,2.5,g,0,mg,310,g,3,g,2,g,1,g,0,g,1,g,1,g
+811,ryans grill buffet bakery,cookies and cream,16,g,0,mg,190,g,35,g,2,g,9,g,0.5,g,0,g,27,g
+812,ryans grill buffet bakery,cookies and cream cheesecake,17,g,20,mg,200,g,27,g,2,g,9,g,2.5,g,1,g,19,g
+813,ryans grill buffet bakery,corn,0,g,0,mg,0,g,3,g,1,g,0,g,0,g,0,g,1,g
+814,ryans grill buffet bakery,corn chowder,3.5,g,0,mg,290,g,12,g,2,g,0.5,g,0,g,1,g,2,g
+815,ryans grill buffet bakery,corn dog,12,g,30,mg,610,g,24,g,6,g,1.5,g,0,g,0,g,7,g
+816,ryans grill buffet bakery,corn muffin,12,g,35,mg,630,g,49,g,6,g,2,g,0,g,1,g,22,g
+817,ryans grill buffet bakery,corn on the cob,2.5,g,0,mg,20,g,13,g,2,g,0.5,g,0,g,2,g,2,g
+818,ryans grill buffet bakery,corn salsa,0.5,g,0,mg,80,g,14,g,2,g,0,g,0,g,2,g,2,g
+819,ryans grill buffet bakery,cornbread,6,g,15,mg,320,g,25,g,3,g,1,g,0,g,1,g,10,g
+820,ryans grill buffet bakery,cornbread dressing,13,g,45,mg,540,g,22,g,4,g,3,g,0,g,1,g,9,g
+821,ryans grill buffet bakery,cottage cheese,1,g,5,mg,95,g,1,g,3,g,0,g,0,g,0,g,1,g
+822,ryans grill buffet bakery,country bbq chicken breast,16,g,165,mg,780,g,6,g,40,g,5,g,0,g,2,g,3,g
+823,ryans grill buffet bakery,country bbq chicken drumstick,6,g,55,mg,280,g,2,g,10,g,1.5,g,0,g,0,g,2,g
+824,ryans grill buffet bakery,country bbq chicken thigh,11,g,105,mg,540,g,5,g,20,g,3,g,0,g,1,g,4,g
+825,ryans grill buffet bakery,country bbq chicken wing,4.5,g,40,mg,280,g,3,g,10,g,1,g,0,g,1,g,2,g
+826,ryans grill buffet bakery,country fried steak with gravy,13,g,25,mg,700,g,16,g,9,g,4,g,0.5,g,1,g,0,g
+827,ryans grill buffet bakery,country fried steak without gravy,13,g,25,mg,630,g,15,g,9,g,4,g,0.5,g,1,g,0,g
+828,ryans grill buffet bakery,country gravy,2,g,0,mg,330,g,7,g,1,g,1,g,1,g,0,g,0,g
+829,ryans grill buffet bakery,country pasta gratine,4,g,20,mg,720,g,24,g,8,g,1,g,0,g,1,g,2,g
+830,ryans grill buffet bakery,country style bbq pork ribs,9,g,35,mg,350,g,5,g,9,g,3.5,g,0,g,0,g,5,g
+831,ryans grill buffet bakery,craisins,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,1,g,5,g
+832,ryans grill buffet bakery,cranberry sauce,0,g,0,mg,10,g,12,g,0,g,0,g,0,g,0,g,12,g
+833,ryans grill buffet bakery,cranberry walnut muffin,11,g,0,mg,280,g,34,g,4,g,1.5,g,0,g,1,g,18,g
+834,ryans grill buffet bakery,cream of broccoli soup,6,g,0,mg,170,g,6,g,1,g,3.5,g,0,g,1,g,1,g
+835,ryans grill buffet bakery,creamy italian dressing,11,g,0,mg,450,g,4,g,0,g,1.5,g,0,g,0,g,3,g
+836,ryans grill buffet bakery,creamy pea salad,15,g,25,mg,220,g,10,g,6,g,4.5,g,0,g,3,g,4,g
+837,ryans grill buffet bakery,creamy penne carbonara,17,g,35,mg,870,g,17,g,11,g,5,g,0,g,2,g,3,g
+838,ryans grill buffet bakery,creamy tomato basil soup,1,g,5,mg,390,g,11,g,3,g,0.5,g,0,g,1,g,8,g
+839,ryans grill buffet bakery,crisp rice cereal,0,g,0,mg,300,g,29,g,2,g,0,g,0,g,0,g,3,g
+840,ryans grill buffet bakery,crispy noodles,1,g,0,mg,90,g,5,g,1,g,0,g,0,g,0,g,0,g
+841,ryans grill buffet bakery,crispy rice bar,2,g,0,mg,120,g,24,g,1,g,0,g,0,g,0,g,12,g
+842,ryans grill buffet bakery,crispy rice bar with chocolate drizzle,3,g,0,mg,125,g,25,g,1,g,1,g,0,g,0,g,13,g
+843,ryans grill buffet bakery,crispy rice bar with fun e chips,2,g,0,mg,120,g,25,g,1,g,0.5,g,0,g,0,g,12,g
+844,ryans grill buffet bakery,crispy rice bar with sprinkles,2,g,0,mg,120,g,25,g,1,g,0.5,g,0,g,0,g,12,g
+845,ryans grill buffet bakery,croutons,1,g,0,mg,90,g,4,g,1,g,0,g,0,g,0,g,0,g
+846,ryans grill buffet bakery,crushed pineapple,0,g,0,mg,0,g,6,g,0,g,0,g,0,g,0,g,5,g
+847,ryans grill buffet bakery,crushed red pepper,0.5,g,0,mg,0,g,1,g,0,g,0,g,0,g,1,g,0,g
+848,ryans grill buffet bakery,cucumber tomato salad,1,g,0,mg,360,g,4,g,1,g,0,g,0,g,1,g,3,g
+849,ryans grill buffet bakery,cucumbers,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+850,ryans grill buffet bakery,decorated cookie,5,g,0,mg,55,g,17,g,1,g,1,g,2,g,0,g,10,g
+851,ryans grill buffet bakery,decorated white cupcake,16,g,60,mg,280,g,38,g,4,g,4,g,2,g,0,g,29,g
+852,ryans grill buffet bakery,dessert pizza,4,g,0,mg,45,g,17,g,1,g,1,g,1,g,1,g,12,g
+853,ryans grill buffet bakery,diced bacon,19,g,50,mg,1060,g,0,g,17,g,6,g,0,g,0,g,0,g
+854,ryans grill buffet bakery,diced chicken breast,1,g,25,mg,160,g,0,g,9,g,0,g,0,g,0,g,0,g
+855,ryans grill buffet bakery,diced eggs,1.5,g,65,mg,0,g,0,g,2,g,0.5,g,0,g,0,g,0,g
+856,ryans grill buffet bakery,diced ham,1,g,15,mg,330,g,0,g,5,g,0.5,g,0,g,0,g,0,g
+857,ryans grill buffet bakery,diced onions,0,g,0,mg,0,g,2,g,0,g,0,g,0,g,0,g,0,g
+858,ryans grill buffet bakery,diced or julienne ham,1,g,15,mg,330,g,0,g,5,g,0.5,g,0,g,0,g,0,g
+859,ryans grill buffet bakery,diced tomatoes,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+860,ryans grill buffet bakery,diet carbonated beverages all flavors,0,g,0,mg,40,g,0,g,0,g,0,g,0,g,0,g,0,g
+861,ryans grill buffet bakery,dill pickles,0,g,0,mg,140,g,1,g,0,g,0,g,0,g,0,g,0,g
+862,ryans grill buffet bakery,dilled potato salad,8,g,10,mg,240,g,10,g,1,g,2,g,0,g,1,g,1,g
+863,ryans grill buffet bakery,dinner rolls,5,g,0,mg,120,g,18,g,3,g,1,g,0,g,1,g,4,g
+864,ryans grill buffet bakery,dinner rolls white pull a part,5,g,0,mg,120,g,18,g,3,g,1,g,0,g,1,g,4,g
+865,ryans grill buffet bakery,dirty rice,2.5,g,20,mg,260,g,15,g,3,g,1,g,0,g,0,g,0,g
+866,ryans grill buffet bakery,dutch apple cake,8,g,20,mg,240,g,36,g,3,g,4,g,0,g,1,g,24,g
+867,ryans grill buffet bakery,enchiladas,18,g,45,mg,560,g,12,g,13,g,9,g,0,g,1,g,1,g
+868,ryans grill buffet bakery,english muffins,0.5,g,0,mg,200,g,13,g,2,g,0,g,0,g,1,g,1,g
+869,ryans grill buffet bakery,fat free creamy italian dressing,0,g,0,mg,330,g,3,g,0,g,0,g,0,g,1,g,1,g
+870,ryans grill buffet bakery,fat free french dressing,0,g,0,mg,310,g,9,g,0,g,0,g,0,g,1,g,5,g
+871,ryans grill buffet bakery,fat free italian dressing,0,g,0,mg,490,g,3,g,0,g,0,g,0,g,0,g,2,g
+872,ryans grill buffet bakery,fat free ranch dressing,0,g,0,mg,390,g,8,g,0,g,0,g,0,g,1,g,3,g
+873,ryans grill buffet bakery,fat free raspberry vinaigrette,0,g,0,mg,80,g,8,g,0,g,0,g,0,g,0,g,7,g
+874,ryans grill buffet bakery,feta cheese,9,g,35,mg,450,g,2,g,6,g,6,g,0,g,0,g,2,g
+875,ryans grill buffet bakery,fire grilled chicken alfredo,14,g,40,mg,480,g,14,g,10,g,4,g,0,g,2,g,3,g
+876,ryans grill buffet bakery,flour tortilla,3,g,0,mg,240,g,20,g,3,g,0.5,g,0,g,1,g,1,g
+877,ryans grill buffet bakery,flurrie vanilla soft serve without mix ins,10,g,20,mg,130,g,40,g,6,g,6,g,0,g,0,g,28,g
+878,ryans grill buffet bakery,french bread loaf,0.5,g,0,mg,160,g,14,g,3,g,0,g,0,g,1,g,1,g
+879,ryans grill buffet bakery,french dressing,11,g,0,mg,230,g,9,g,0,g,1.5,g,0,g,0,g,8,g
+880,ryans grill buffet bakery,french fries,9,g,0,mg,400,g,23,g,2,g,1.5,g,0,g,2,g,0,g
+881,ryans grill buffet bakery,french onion soup,2,g,0,mg,330,g,5,g,1,g,0.5,g,0,g,1,g,2,g
+882,ryans grill buffet bakery,french toast,9,g,105,mg,270,g,19,g,8,g,2,g,0,g,1,g,12,g
+883,ryans grill buffet bakery,fried catfish,5,g,25,mg,160,g,4,g,9,g,0,g,0,g,0,g,0,g
+884,ryans grill buffet bakery,fried fish,4,g,10,mg,200,g,9,g,3,g,0.5,g,0,g,1,g,0,g
+885,ryans grill buffet bakery,fried jalapenos,1,g,0,mg,125,g,1,g,0,g,0,g,0,g,0,g,0,g
+886,ryans grill buffet bakery,fried okra,12,g,0,mg,590,g,28,g,3,g,1,g,0,g,3,g,2,g
+887,ryans grill buffet bakery,fried rice with ham,6,g,70,mg,720,g,14,g,5,g,1.5,g,0,g,1,g,1,g
+888,ryans grill buffet bakery,fried shrimp,6,g,35,mg,590,g,12,g,4,g,1,g,0,g,1,g,1,g
+889,ryans grill buffet bakery,frosted fruit flavored cereal,1,g,0,mg,150,g,28,g,2,g,0,g,0,g,1,g,15,g
+890,ryans grill buffet bakery,frozen nonfat yogurt orange sorbet,0,g,0,mg,0,g,22,g,0,g,0,g,0,g,0,g,19,g
+891,ryans grill buffet bakery,frozen nonfat yogurt vanilla with nutrasweet,0,g,5,mg,80,g,16,g,4,g,0,g,0,g,0,g,6,g
+892,ryans grill buffet bakery,fudge,1.5,g,0,mg,10,g,7,g,0,g,0.5,g,0.5,g,0,g,6,g
+893,ryans grill buffet bakery,fudge brownie,7,g,0,mg,140,g,35,g,2,g,2,g,0,g,1,g,27,g
+894,ryans grill buffet bakery,fun e chips,3,g,0,mg,0,g,12,g,0,g,2,g,0,g,0,g,11,g
+895,ryans grill buffet bakery,garbanzo beans,0,g,0,mg,35,g,2,g,1,g,0,g,0,g,1,g,0,g
+896,ryans grill buffet bakery,garlic bread,3,g,0,mg,110,g,9,g,2,g,0.5,g,0,g,0,g,0,g
+897,ryans grill buffet bakery,garlic cheese biscuit,15,g,10,mg,650,g,20,g,5,g,4,g,2,g,1,g,3,g
+898,ryans grill buffet bakery,gelatin whip all flavors,3,g,0,mg,55,g,13,g,1,g,2.5,g,0,g,0,g,11,g
+899,ryans grill buffet bakery,gelatin all flavors,0,g,0,mg,30,g,10,g,1,g,0,g,0,g,0,g,10,g
+900,ryans grill buffet bakery,german boiled cabbage,2.5,g,0,mg,230,g,4,g,3,g,1,g,0,g,1,g,2,g
+901,ryans grill buffet bakery,german chocolate cake,13,g,40,mg,200,g,35,g,3,g,4,g,0,g,1,g,27,g
+902,ryans grill buffet bakery,grapes,0,g,0,mg,0,g,15,g,1,g,0,g,0,g,1,g,12,g
+903,ryans grill buffet bakery,greek salad,8,g,15,mg,210,g,10,g,3,g,2,g,0,g,1,g,4,g
+904,ryans grill buffet bakery,greek vinaigrette,13,g,0,mg,350,g,1,g,2,g,3.5,g,0,g,0,g,1,g
+905,ryans grill buffet bakery,green bean casserole,7,g,0,mg,440,g,10,g,2,g,2.5,g,0,g,2,g,2,g
+906,ryans grill buffet bakery,green beans,0,g,0,mg,340,g,3,g,1,g,0,g,0,g,1,g,1,g
+907,ryans grill buffet bakery,green beans el greco,0,g,0,mg,150,g,6,g,1,g,0,g,0,g,2,g,3,g
+908,ryans grill buffet bakery,green cabbage,5,g,0,mg,500,g,6,g,2,g,1,g,0,g,2,g,4,g
+909,ryans grill buffet bakery,green olives,2.5,g,0,mg,230,g,1,g,0,g,0,g,0,g,1,g,0,g
+910,ryans grill buffet bakery,grilled bbq pork steak,9,g,50,mg,540,g,3,g,14,g,3,g,0,g,0,g,2,g
+911,ryans grill buffet bakery,grilled bbq smoked sausage,13,g,20,mg,520,g,8,g,6,g,6,g,0,g,1,g,6,g
+912,ryans grill buffet bakery,grilled cheese sandwich,15,g,15,mg,650,g,35,g,9,g,4.5,g,0,g,1,g,5,g
+913,ryans grill buffet bakery,grilled cowboy potatoes,9,g,0,mg,640,g,23,g,3,g,1.5,g,0,g,4,g,1,g
+914,ryans grill buffet bakery,grilled ham and cheese sandwich,18,g,30,mg,1020,g,36,g,13,g,5,g,0,g,1,g,5,g
+915,ryans grill buffet bakery,grilled italian sausage penne,11,g,20,mg,480,g,14,g,7,g,3.5,g,0,g,1,g,3,g
+916,ryans grill buffet bakery,grilled pork steak,9,g,50,mg,440,g,0,g,14,g,3,g,0,g,0,g,0,g
+917,ryans grill buffet bakery,grilled smoked sausage,17,g,25,mg,460,g,2,g,7,g,8,g,0,g,0,g,0,g
+918,ryans grill buffet bakery,grilled teriyaki pineapple chicken,6,g,50,mg,320,g,6,g,14,g,1.5,g,0,g,0,g,5,g
+919,ryans grill buffet bakery,grilled vegetables,2.5,g,0,mg,40,g,4,g,1,g,0,g,0,g,1,g,2,g
+920,ryans grill buffet bakery,grits,0,g,0,mg,125,g,13,g,1,g,0,g,0,g,0,g,0,g
+921,ryans grill buffet bakery,guacamole,2,g,5,mg,40,g,1,g,0,g,1,g,0,g,0,g,0,g
+922,ryans grill buffet bakery,hand breaded fried chicken breast,22,g,170,mg,470,g,0,g,41,g,6,g,0,g,2,g,0,g
+923,ryans grill buffet bakery,hand breaded fried chicken drumstick,7,g,60,mg,120,g,0,g,10,g,2,g,0,g,0,g,0,g
+924,ryans grill buffet bakery,hand breaded fried chicken thigh,13,g,105,mg,230,g,0,g,20,g,3.5,g,0,g,1,g,0,g
+925,ryans grill buffet bakery,hand breaded fried chicken wing,6,g,45,mg,115,g,0,g,10,g,1.5,g,0,g,0,g,0,g
+926,ryans grill buffet bakery,hashbrown patties,7,g,0,mg,220,g,13,g,1,g,1.5,g,0,g,2,g,0,g
+927,ryans grill buffet bakery,hearty seafood stew,5,g,30,mg,330,g,8,g,7,g,1,g,0,g,1,g,3,g
+928,ryans grill buffet bakery,heath barebits,5,g,0,mg,50,g,9,g,0,g,2.5,g,0,g,0,g,9,g
+929,ryans grill buffet bakery,hi c fruit punch,0,g,0,mg,130,g,43,g,0,g,0,g,0,g,0,g,43,g
+930,ryans grill buffet bakery,hollandaise sauce,13,g,5,mg,260,g,4,g,1,g,3,g,3,g,0,g,2,g
+931,ryans grill buffet bakery,honey,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,9,g
+932,ryans grill buffet bakery,honey bbq pork riblets,9,g,35,mg,170,g,3,g,8,g,3,g,0,g,0,g,2,g
+933,ryans grill buffet bakery,honey cornbread,7,g,15,mg,320,g,26,g,3,g,1,g,0,g,1,g,12,g
+934,ryans grill buffet bakery,honey glazed baked ham,5,g,40,mg,990,g,1,g,16,g,2.5,g,0,g,0,g,1,g
+935,ryans grill buffet bakery,honey nut topping,12,g,0,mg,125,g,9,g,5,g,2,g,0,g,2,g,5,g
+936,ryans grill buffet bakery,honeydew,0,g,0,mg,15,g,8,g,1,g,0,g,0,g,1,g,7,g
+937,ryans grill buffet bakery,horseradish sauce,5,g,10,mg,90,g,2,g,1,g,3,g,0,g,0,g,1,g
+938,ryans grill buffet bakery,hot chocolate,1,g,0,mg,290,g,32,g,1,g,1,g,0,g,1,g,29,g
+939,ryans grill buffet bakery,hot dog buns,2,g,0,mg,210,g,22,g,4,g,1,g,0,g,3,g,3,g
+940,ryans grill buffet bakery,hot fudge chocolate chip muffin,12,g,0,mg,310,g,42,g,4,g,3,g,0,g,2,g,23,g
+941,ryans grill buffet bakery,hot fudge sundae cake,3,g,0,mg,250,g,33,g,2,g,1,g,1,g,1,g,24,g
+942,ryans grill buffet bakery,hot fudge sundae muffin,12,g,0,mg,330,g,43,g,4,g,3.5,g,0,g,2,g,24,g
+943,ryans grill buffet bakery,hot fudge topping,2.5,g,0,mg,75,g,22,g,1,g,0.5,g,0.5,g,1,g,16,g
+944,ryans grill buffet bakery,hot sauce,0,g,0,mg,125,g,0,g,0,g,0,g,0,g,0,g,0,g
+945,ryans grill buffet bakery,hummus,4,g,0,mg,125,g,6,g,1,g,1,g,0,g,1,g,1,g
+946,ryans grill buffet bakery,ice cream cone,0,g,0,mg,15,g,3,g,0,g,0,g,0,g,0,g,1,g
+947,ryans grill buffet bakery,iced decorated cookie,8,g,20,mg,125,g,25,g,2,g,4,g,0,g,0,g,17,g
+948,ryans grill buffet bakery,icee all flavors,0,g,0,mg,10,g,27,g,0,g,0,g,0,g,0,g,27,g
+949,ryans grill buffet bakery,imitation shredded cheese,1,g,0,mg,70,g,2,g,0,g,0.5,g,0,g,0,g,0,g
+950,ryans grill buffet bakery,italian chopped salad,7,g,10,mg,280,g,4,g,2,g,2,g,0,g,1,g,2,g
+951,ryans grill buffet bakery,italian dressing,11,g,0,mg,420,g,5,g,0,g,1.5,g,0,g,0,g,3,g
+952,ryans grill buffet bakery,italian pasta salad,13,g,20,mg,520,g,14,g,6,g,4,g,0,g,1,g,3,g
+953,ryans grill buffet bakery,italian sausage,13,g,30,mg,350,g,3,g,6,g,4.5,g,0,g,1,g,1,g
+954,ryans grill buffet bakery,italian sausage and bean soup,2.5,g,5,mg,480,g,6,g,2,g,1,g,0,g,1,g,2,g
+955,ryans grill buffet bakery,jalapeno cornbread,6,g,15,mg,320,g,25,g,3,g,1,g,0,g,1,g,10,g
+956,ryans grill buffet bakery,jalapenos,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+957,ryans grill buffet bakery,jambalaya,9,g,30,mg,550,g,7,g,7,g,2.5,g,0,g,1,g,3,g
+958,ryans grill buffet bakery,jelly,0,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,7,g
+959,ryans grill buffet bakery,jo jo potatoes,8,g,0,mg,290,g,22,g,3,g,1.5,g,0,g,2,g,0,g
+960,ryans grill buffet bakery,joes cracked pepper green beans with bacon,4.5,g,5,mg,210,g,6,g,3,g,1.5,g,0,g,2,g,2,g
+961,ryans grill buffet bakery,ketchup,0,g,0,mg,100,g,3,g,0,g,0,g,0,g,0,g,2,g
+962,ryans grill buffet bakery,key lime,11,g,0,mg,125,g,16,g,1,g,7,g,1,g,0,g,11,g
+963,ryans grill buffet bakery,key lime pie scratch,9,g,50,mg,130,g,31,g,5,g,4,g,0,g,0,g,23,g
+964,ryans grill buffet bakery,kidney beans,0,g,0,mg,40,g,2,g,1,g,0,g,0,g,1,g,0,g
+965,ryans grill buffet bakery,kings ranch chicken,9,g,25,mg,490,g,21,g,10,g,2,g,0,g,2,g,1,g
+966,ryans grill buffet bakery,ko ko bits,3.5,g,0,mg,0,g,10,g,0,g,0,g,0,g,0,g,10,g
+967,ryans grill buffet bakery,kung pao beef,5,g,15,mg,520,g,12,g,2,g,1.5,g,0,g,2,g,6,g
+968,ryans grill buffet bakery,lasagna,5,g,25,mg,530,g,18,g,7,g,2.5,g,0,g,2,g,4,g
+969,ryans grill buffet bakery,lemon bar,4.5,g,70,mg,85,g,35,g,3,g,1,g,0.5,g,0,g,27,g
+970,ryans grill buffet bakery,lemon cake,9,g,25,mg,160,g,26,g,2,g,3,g,0,g,0,g,19,g
+971,ryans grill buffet bakery,lemon cream pie,4,g,25,mg,130,g,32,g,3,g,1.5,g,1,g,1,g,26,g
+972,ryans grill buffet bakery,lemon meringue pie,4.5,g,0,mg,140,g,23,g,2,g,1.5,g,0,g,1,g,12,g
+973,ryans grill buffet bakery,lemon pie,9,g,0,mg,300,g,35,g,1,g,3.5,g,1,g,0,g,24,g
+974,ryans grill buffet bakery,lemonade,0,g,0,mg,50,g,24,g,0,g,0,g,0,g,0,g,24,g
+975,ryans grill buffet bakery,lemons,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+976,ryans grill buffet bakery,lo mein,7,g,20,mg,400,g,20,g,4,g,1,g,0,g,2,g,3,g
+977,ryans grill buffet bakery,low fat italian dressing,2,g,0,mg,420,g,2,g,0,g,0,g,0,g,0,g,2,g
+978,ryans grill buffet bakery,macaroni and cheese,2.5,g,5,mg,500,g,18,g,4,g,1,g,0,g,1,g,1,g
+979,ryans grill buffet bakery,macaroni vegetable salad,16,g,45,mg,330,g,21,g,5,g,3,g,0,g,1,g,4,g
+980,ryans grill buffet bakery,malted milk balls ground,3,g,0,mg,40,g,11,g,0,g,2.5,g,0,g,0,g,9,g
+981,ryans grill buffet bakery,maple flavored syrup,0,g,0,mg,40,g,47,g,0,g,0,g,0,g,0,g,46,g
+982,ryans grill buffet bakery,maple walnut cake,15,g,30,mg,190,g,24,g,3,g,3,g,1.5,g,1,g,18,g
+983,ryans grill buffet bakery,margarine,4,g,0,mg,40,g,0,g,0,g,2,g,0,g,0,g,0,g
+984,ryans grill buffet bakery,margarine melted,45,g,0,mg,440,g,0,g,0,g,9,g,12,g,0,g,0,g
+985,ryans grill buffet bakery,marinara sauce,1,g,0,mg,280,g,5,g,1,g,0,g,0,g,0,g,2,g
+986,ryans grill buffet bakery,marinated green bean salad,11,g,5,mg,380,g,19,g,4,g,1.5,g,0,g,1,g,3,g
+987,ryans grill buffet bakery,marinated vegetables,3.5,g,0,mg,150,g,5,g,2,g,0.5,g,0,g,2,g,3,g
+988,ryans grill buffet bakery,mashed potatoes,0.5,g,0,mg,270,g,13,g,1,g,0,g,0,g,1,g,1,g
+989,ryans grill buffet bakery,mayonnaise,11,g,15,mg,85,g,0,g,0,g,1.5,g,0,g,0,g,0,g
+990,ryans grill buffet bakery,meat sauce,1.5,g,10,mg,260,g,3,g,4,g,0.5,g,0,g,1,g,3,g
+991,ryans grill buffet bakery,meatloaf,11,g,60,mg,440,g,7,g,12,g,4.5,g,0,g,0,g,4,g
+992,ryans grill buffet bakery,mexican rice,0,g,0,mg,290,g,13,g,2,g,0,g,0,g,0,g,2,g
+993,ryans grill buffet bakery,milk 2,7,g,0,mg,150,g,17,g,12,g,4.5,g,0,g,0,g,17,g
+994,ryans grill buffet bakery,milk skim,0,g,0,mg,150,g,18,g,12,g,0,g,0,g,0,g,18,g
+995,ryans grill buffet bakery,minestrone soup,1,g,0,mg,370,g,11,g,3,g,0,g,0,g,1,g,1,g
+996,ryans grill buffet bakery,montreal vegetable medley,4.5,g,0,mg,160,g,3,g,1,g,0.5,g,0,g,1,g,2,g
+997,ryans grill buffet bakery,mushrooms,0,g,0,mg,0,g,1,g,0,g,0,g,0,g,0,g,0,g
+998,ryans grill buffet bakery,mustard,0,g,0,mg,70,g,0,g,0,g,0,g,0,g,0,g,0,g
+999,ryans grill buffet bakery,nacho chips,3.5,g,0,mg,90,g,9,g,1,g,0.5,g,0,g,1,g,1,g
