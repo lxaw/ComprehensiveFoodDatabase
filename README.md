@@ -23,11 +23,15 @@ Included are both grocery store foods and restaurant foods. MySQL files, images 
 -   Agricultural Acquisition Food
 -   Survey FNDDS Food
 - 26028 image files
+### Menuwithnutrition
+- 204000 foods
 
 #### Note: 
 - The discrepancy between the number of foods and the number of images is due to the fact that many foods do not have a particular image for them.
 
 ### Total Food Count (08/14/22):
 - 1,235,288
+With menuwithnutrition:
+- 1255688
 
 
