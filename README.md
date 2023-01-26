@@ -1,7 +1,7 @@
 # Comprehensive Food Database
 This repository includes all of the necessary files for a comprehensive database of foods in the United States. 
 
-Included are both grocery store foods and restaurant foods. MySQL files, images for foods, and scripts are also included.
+Included are both grocery store foods and restaurant foods. MySQL files, images for foods, and scripts are also included. The scripts are mainly for scraping the web for images of the foods. The web-scraping involves threaded processing to make it faster.
 
 ## Database information:
 
