@@ -31,3 +31,5 @@ Included are both grocery store foods and restaurant foods. MySQL files, images 
 
 #### Arxiv Link:
 For more information on this project, [here](https://arxiv.org/abs/2301.10649) is the link to the paper on arxiv.
+
+The paper above was also published in the 2022 International Conference on Computational Science and Computational Intelligence (CSCI).
