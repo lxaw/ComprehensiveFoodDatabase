@@ -29,4 +29,5 @@ Included are both grocery store foods and restaurant foods. MySQL files, images 
 #### Note: 
 - The discrepancy between the number of foods and the number of images is due to the fact that many foods do not have a particular image for them.
 
-
+#### Arxiv Link:
+For more information on this project, [here](https://arxiv.org/abs/2301.10649) is the link to the paper on arxiv.
