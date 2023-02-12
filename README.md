@@ -3,6 +3,8 @@ This repository includes all of the necessary files for a comprehensive database
 
 Included are both grocery store foods and restaurant foods. MySQL files, images for foods, and scripts are also included. The scripts are mainly for scraping the web for images of the foods. The web-scraping involves threaded processing to make it faster.
 
+[Here](https://github.com/lxaw/UofSCSWITCHStudy) is an example website using this database. It is relatively simple, but should give a general idea of how the database can be used in a project.
+
 ## Database information:
 
 ### Menustat:
