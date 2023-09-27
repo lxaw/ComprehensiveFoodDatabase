@@ -35,3 +35,6 @@ Included are both grocery store foods and restaurant foods. MySQL files, images 
 For more information on this project, [here](https://arxiv.org/abs/2301.10649) is the link to the paper on arxiv.
 
 The paper above was also published in the 2022 International Conference on Computational Science and Computational Intelligence (CSCI).
+
+## How to Support
+- If this code or anyother I have written has helped you, feel free to make a donation at https://www.buymeacoffee.com/whalenlexn.
