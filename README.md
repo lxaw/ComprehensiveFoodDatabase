@@ -8,6 +8,8 @@ Due to Git storage limits, we have decided to move the files for the project ont
 
 [Here](https://github.com/lxaw/UofSCSWITCHStudy) is an example website using this database. It is relatively simple, but should give a general idea of how the database can be used in a project.
 
+Furthermore, we would like to thank @jpoles1 for a creating a great tutorial on how to potentially use this database. See their posts [here](https://blog.jpoles1.com/archives/277).
+
 ## Database information:
 
 ### Menustat:
@@ -38,6 +40,15 @@ Due to Git storage limits, we have decided to move the files for the project ont
 For more information on this project, [here](https://arxiv.org/abs/2301.10649) is the link to the paper on arxiv.
 
 The paper above was also published in the 2022 International Conference on Computational Science and Computational Intelligence (CSCI).
+
+## Special Thanks 
+The Comprehensive Food Database team would like to especially thank those users who have provided more data or tools related to the project to the community.
+
+### Users:
+- Username: @jpoles1
+- GitHub: https://github.com/jpoles1
+- Contribution: Noticed issue with LFS storage, added Canadian food data, provided helpful scripts and tutorials. Please check out his blog [here](https://blog.jpoles1.com/archives/277) where you can find helpful tips about the food database and other interesting posts.
+
 
 ## ❤️ How to Support ❤️
 - If this code or anyother I have written has helped you, feel free to make a donation at https://www.buymeacoffee.com/whalenlexn.
