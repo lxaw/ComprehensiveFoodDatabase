@@ -1,7 +1,10 @@
 # :pizza: Comprehensive Food Database
 This repository includes all of the necessary files for a comprehensive database of foods in the United States. 
 
-Included are both grocery store foods and restaurant foods. MySQL files, images for foods, and scripts are also included. The scripts are mainly for scraping the web for images of the foods. The web-scraping involves threaded processing to make it faster.
+Included are both grocery store foods and restaurant foods. MySQL files, images for foods, and scripts are also included. The scripts are mainly for scraping the web for images of the foods. The web-scraping involves threaded processing to make it faster.\
+
+# Why?
+The USDA food database can be quite confusing to deal with. It has many tables with relations between them that are not well defined, leading to issues in using it for any real project. We have decided to tackle this problem, creating a simple database containing all the foods present in the USDA database, alongside with images for each food.
 
 ## UPDATE: 10/16/2023 (mm/dd/yyyy):
 Due to Git storage limits, we have decided to move the files for the project onto the file storage platform MEGA. The link to zip files of the database files and images can be found [here](https://mega.nz/folder/0elAXR6L#QuC3C95Od8wn_j0jcn-d4A).
@@ -37,9 +40,9 @@ Furthermore, we would like to thank [@jpoles1](https://github.com/jpoles1) for a
 - The discrepancy between the number of foods and the number of images is due to the fact that many foods do not have a particular image for them.
 
 #### Arxiv Link:
-For more information on this project, [here](https://arxiv.org/abs/2301.10649) is the link to the paper on arxiv.
+For more information on this project, [here](https://ieeexplore.ieee.org/document/10216759) is the link to the paper on IEEExplore.
 
-The paper above was also published in the 2022 International Conference on Computational Science and Computational Intelligence (CSCI).
+The paper above was published in the 2022 International Conference on Computational Science and Computational Intelligence (CSCI).
 
 ## Special Thanks 
 The Comprehensive Food Database team would like to especially thank those users who have provided more data or tools related to the project to the community.
