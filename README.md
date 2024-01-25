@@ -3,6 +3,13 @@ This repository includes all of the necessary files for a comprehensive database
 
 Included are both grocery store foods and restaurant foods. MySQL files, images for foods, and scripts are also included. The scripts are mainly for scraping the web for images of the foods. The web-scraping involves threaded processing to make it faster.\
 
+#### Arxiv Link:
+For more information on this project, [here](https://ieeexplore.ieee.org/document/10216759) is the link to the paper on IEEExplore.
+
+The paper above was published in the 2022 International Conference on Computational Science and Computational Intelligence (CSCI). If you use this dataset, please site with
+
+L. Whalen, B. Turner-McGrievy, M. McGrievy, A. Hester and H. Valafar, "On Creating a Comprehensive Food Database," 2022 International Conference on Computational Science and Computational Intelligence (CSCI), Las Vegas, NV, USA, 2022, pp. 1610-1614, doi: 10.1109/CSCI58124.2022.00288. keywords: {Costs;Databases;Scientific computing;Soft sensors;Eating disorders;Fats;Reliability;MySQL;Table Design;USDA;Food Database},
+
 # Why?
 The USDA food database can be quite confusing to deal with. It has many tables with relations between them that are not well defined, leading to issues in using it for any real project. We have decided to tackle this problem, creating a simple database containing all the foods present in the USDA database, alongside with images for each food.
 
@@ -39,10 +46,6 @@ Furthermore, we would like to thank [@jpoles1](https://github.com/jpoles1) for a
 #### Note: 
 - The discrepancy between the number of foods and the number of images is due to the fact that many foods do not have a particular image for them.
 
-#### Arxiv Link:
-For more information on this project, [here](https://ieeexplore.ieee.org/document/10216759) is the link to the paper on IEEExplore.
-
-The paper above was published in the 2022 International Conference on Computational Science and Computational Intelligence (CSCI).
 
 ## Special Thanks 
 The Comprehensive Food Database team would like to especially thank those users who have provided more data or tools related to the project to the community.
