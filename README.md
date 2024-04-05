@@ -8,7 +8,17 @@ For more information on this project, [here](https://ieeexplore.ieee.org/documen
 
 The paper above was published in the 2022 International Conference on Computational Science and Computational Intelligence (CSCI). If you use this dataset, please site with
 
-L. Whalen, B. Turner-McGrievy, M. McGrievy, A. Hester and H. Valafar, "On Creating a Comprehensive Food Database," 2022 International Conference on Computational Science and Computational Intelligence (CSCI), Las Vegas, NV, USA, 2022, pp. 1610-1614, doi: 10.1109/CSCI58124.2022.00288. keywords: {Costs;Databases;Scientific computing;Soft sensors;Eating disorders;Fats;Reliability;MySQL;Table Design;USDA;Food Database},
+`@INPROCEEDINGS{10216759,
+  author={Whalen, Lexington and Turner-McGrievy, Brie and McGrievy, Matthew and Hester, Andrew and Valafar, Homayoun},
+  booktitle={2022 International Conference on Computational Science and Computational Intelligence (CSCI)}, 
+  title={On Creating a Comprehensive Food Database}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1610-1614},
+  keywords={Costs;Databases;Scientific computing;Soft sensors;Eating disorders;Fats;Reliability;MySQL;Table Design;USDA;Food Database},
+  doi={10.1109/CSCI58124.2022.00288}}`
+
 
 # Why?
 The USDA food database can be quite confusing to deal with. It has many tables with relations between them that are not well defined, leading to issues in using it for any real project. We have decided to tackle this problem, creating a simple database containing all the foods present in the USDA database, alongside with images for each food.
