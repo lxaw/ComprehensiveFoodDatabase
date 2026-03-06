@@ -1,1 +1,7 @@
 env/
+
+# Large files - keep locally but don't commit
+*.zip
+*.sql
+imgs/
+sql/
